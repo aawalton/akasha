@@ -24,36 +24,6 @@ function filedRepoOf(text: string): string | null {
   return filedIn(fm)?.[0]?.repo ?? null
 }
 
-const PAGE_TYPE = "page-type"
-
-const typeFiles = new Map<string, ReadonlyMap<string, string>>()
-
-/**
- * Where each page type's own file stands under this root, read off the index by the kind its name
- * carries.
- *
- * A PAGE TYPE NEED NOT STAND IN `pages/page-type/`. Eleven do not — the readout four and the graph
- * seven are filed beside their own domains — so deriving the path from the slug found no file for
- * exactly those, and `repoHolding` fell through to the `pages/` folder listing, which cannot see
- * them either. Both sources answered `null` where the registry answered `akasha`, and the caller
- * read that as a page type belonging to no repository rather than as a path it had guessed wrong.
- *
- * THE DERIVED PATH STILL STANDS BEHIND THIS, for a root the index does not describe: every fixture
- * tree is one, and a page type invented in one has no row anywhere.
- */
-function typeFilesIn(at: string): ReadonlyMap<string, string> {
-  const held = typeFiles.get(at)
-  if (held !== undefined) return held
-  const made = new Map<string, string>()
-  if (indexReaches(AKASHA, at)) {
-    for (const one of loadPages()) {
-      if (one.repo === AKASHA && one.type === PAGE_TYPE) made.set(pageStemOf(one.key), one.key)
-    }
-  }
-  typeFiles.set(at, made)
-  return made
-}
-
 const typeRepos = new Map<string, string | null>()
 
 export function repoHolding(type: string, roots: Roots): string | null {
