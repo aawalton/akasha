@@ -4,8 +4,8 @@ page-type-slug: check
 title: "Links resolve"
 slug: links-resolve
 needs: tree
-check-on-patch: false
-check-on-worktree: false
+check-on-patch: true
+check-on-worktree: true
 ---
 
 # Definition
