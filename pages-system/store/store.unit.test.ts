@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
-import { declarationOf, pageAt, pagesOf, type Unread } from "./store.ts"
+import { declarationOf, extendingIn, pageAt, pagesOf, type Unread } from "./store.ts"
 
 /**
  * The repository this store is read over. A store reads a repository, so what it is tested against
@@ -39,6 +39,50 @@ test("a query naming a key beyond the language is refused by what the store decl
   const answer = checkQuery({ pageType: "seat", where: "{turn-end-decisions}" }, seat())
   if (answer.ok) throw new Error("checked")
   expect(answer.message).toContain("which no formula holds")
+})
+
+test("what a page type extends is answered as that page type states it", () => {
+  const extending = extendingIn(ROOT)
+  expect(extending.get("command")).toBe("domain")
+  expect(extending.get("seat")).toBe("agent")
+})
+
+test("a page type extending none is not answered as extending anything", () => {
+  expect(extendingIn(ROOT).has("page")).toBe(false)
+})
+
+test("a query expanding a page type asks about exactly the page types whose chain reaches it", () => {
+  const extending = extendingIn(ROOT)
+  const checked = checkQuery({ pageType: "domain", expands: true }, seat(), extending)
+  if (!checked.ok) throw new Error(checked.message)
+
+  const reaches = (slug: string): boolean => {
+    const walked = new Set<string>()
+    let at: string | undefined = slug
+    while (at !== undefined && !walked.has(at)) {
+      if (at === "domain") return true
+      walked.add(at)
+      at = extending.get(at)
+    }
+    return false
+  }
+
+  const asked = new Set(checked.pageTypes)
+  expect(checked.pageTypes[0]).toBe("domain")
+  expect(asked.size).toBe(checked.pageTypes.length)
+  for (const slug of asked) expect(slug === "domain" || reaches(slug)).toBe(true)
+  for (const slug of extending.keys()) expect(asked.has(slug)).toBe(reaches(slug))
+})
+
+test("the pages of a page type beneath arrive only where the query expands", () => {
+  const extending = extendingIn(ROOT)
+  const wide = checkQuery({ pageType: "domain", expands: true }, seat(), extending)
+  const narrow = checkQuery({ pageType: "domain" }, seat(), extending)
+  if (!wide.ok || !narrow.ok) throw new Error("refused")
+
+  expect(narrow.pageTypes).toEqual(["domain"])
+  expect(wide.pageTypes).toContain("command")
+  expect(pagesOf(ROOT, "command").length).toBeGreaterThan(0)
 })
 
 test("every page of a page type is found by the name of its own file", () => {

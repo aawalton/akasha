@@ -6,10 +6,11 @@
  * `checkFormula` and `checkQuery` can each be run over the whole corpus in a script because none of
  * them can reach a file, and they stay that way by this package existing.
  *
- * THREE QUESTIONS ARE ANSWERED. What a page type declares, which is what a query is checked against
- * and what a naming is checked against. Which pages that page type has. What one of those pages
- * holds. A resolver is those three and the pure halves put together, and the putting together is
- * the caller's, so that no order of calls is baked in here.
+ * FOUR QUESTIONS ARE ANSWERED. What a page type declares, which is what a query is checked against
+ * and what a naming is checked against. What each page type extends, which is what a query expanding
+ * one page type into the page types beneath it is checked against. Which pages a page type has. What
+ * one of those pages holds. A resolver is those four and the pure halves put together, and the
+ * putting together is the caller's, so that no order of calls is baked in here.
  *
  * WHERE A PAGE STANDS IS AN ADDRESS THIS PACKAGE ISSUES AND READS BACK, never a path a caller may
  * take apart or join to a root. A page is a file and its rows are a sidecar beside it, so a page of
@@ -26,7 +27,7 @@
  */
 
 import type { Property, Value, Values } from "../formula/formula.ts"
-import type { Declared, Page } from "../query/query.ts"
+import type { Declared, Extending, Page } from "../query/query.ts"
 import { type Stated, pagesUnder, statedAt } from "./files.ts"
 import { heldBy, valuedAs } from "./held.ts"
 
@@ -164,6 +165,31 @@ export const declarationOf = (root: string, pageType: string): Declared | null =
     }
   }
   return { properties, beyond }
+}
+
+/**
+ * What each page type under a root extends, by its own slug.
+ *
+ * A PAGE TYPE EXTENDING NOTHING IS NOT ANSWERED. `extends-slug: none` ends a chain, and a page type
+ * stating no `extends-slug` at all has nothing above it either; neither says anything about what
+ * stands beneath it, which is what this is read for.
+ *
+ * THE WHOLE SET, NOT ONE PAGE TYPE'S KIN. Narrowing it here would mean walking the tree here, and
+ * that walk is where a ring among page types is refused — which is a query's refusal, given at
+ * checking, and so belongs on the pure side rather than inside a read.
+ *
+ * WHAT A PAGE TYPE STATES IS TAKEN AS STATED. Whether the slug it extends names a page type that
+ * stands is a check over page types; a page type extending one that is gone is answered here as it
+ * is written, and expands to a family with nothing under that name in it.
+ */
+export const extendingIn = (root: string): Extending => {
+  const found = pagesUnder(root, new Set([PAGE_TYPE]))
+  const extending = new Map<string, string>()
+  for (const [slug, stated] of pageTypesIn(root, found.get(PAGE_TYPE) ?? [])) {
+    const over = textIn(stated, EXTENDS)
+    if (over !== null && over !== NONE) extending.set(slug, over)
+  }
+  return extending
 }
 
 /**
