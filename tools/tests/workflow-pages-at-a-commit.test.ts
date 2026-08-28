@@ -17,7 +17,8 @@ const LATER = "workflow-pinning-later"
 
 const declaring = (name: string, stepName: string): string =>
   [
-    'import { step, workflow } from "../lib/workflow-dsl/index.ts"',
+    'import { step } from "../../tools/lib/workflow-dsl/step"',
+    'import { workflow } from "../../tools/lib/workflow-dsl/workflow"',
     `export default workflow("${name}", {`,
     '  when: { event: "push" },',
     `  steps: [step({ name: "${stepName}", image: "debian:bookworm-slim", commands: ["true"] })],`,
