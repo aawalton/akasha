@@ -2,7 +2,8 @@ import { expect, test } from "bun:test"
 import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
 import type { Repo } from "./address.ts"
-import { declarationOf, extendingIn, holdingsOf, pageAt, pagesOf, type Unread } from "./store.ts"
+import { declarationOf, extendingIn } from "./declared.ts"
+import { holdingsOf, pageAt, pagesOf, type Unread } from "./store.ts"
 
 /**
  * The repository this store is read over. A store reads a repository, so what it is tested against
@@ -24,62 +25,6 @@ const seat = () => {
   if (declared === null) throw new Error("no seat page type stands under the root")
   return declared
 }
-
-test("a slug naming no page type declares nothing", () => {
-  expect(declarationOf(ROOT, "no-page-type-is-spelt-this-way")).toBeNull()
-})
-
-test("a page type declares the keys of every page type it extends, as well as its own", () => {
-  const declared = seat()
-  expect(declared.properties["errand"]?.type).toEqual({ kind: "text" })
-  expect(declared.properties["id"]?.type).toEqual({ kind: "text" })
-  expect(declared.properties["on-call"]?.type).toEqual({ kind: "boolean" })
-})
-
-test("a key declared to hold what no formula holds is carried under what it holds", () => {
-  const declared = seat()
-  expect(declared.properties["turn-end-decisions"]).toBeUndefined()
-  expect(declared.beyond["turn-end-decisions"]).toBe("pages")
-})
-
-test("a query naming a key beyond the language is refused by what the store declared", () => {
-  const answer = checkQuery({ pageType: "seat", where: "{turn-end-decisions}" }, seat())
-  if (answer.ok) throw new Error("checked")
-  expect(answer.message).toContain("which no formula holds")
-})
-
-test("what a page type extends is answered as that page type states it", () => {
-  const extending = extendingIn(ROOT)
-  expect(extending.get("command")).toBe("domain")
-  expect(extending.get("seat")).toBe("agent")
-})
-
-test("a page type extending none is not answered as extending anything", () => {
-  expect(extendingIn(ROOT).has("page")).toBe(false)
-})
-
-test("a query expanding a page type asks about exactly the page types whose chain reaches it", () => {
-  const extending = extendingIn(ROOT)
-  const checked = checkQuery({ pageType: "domain", expands: true }, seat(), extending)
-  if (!checked.ok) throw new Error(checked.message)
-
-  const reaches = (slug: string): boolean => {
-    const walked = new Set<string>()
-    let at: string | undefined = slug
-    while (at !== undefined && !walked.has(at)) {
-      if (at === "domain") return true
-      walked.add(at)
-      at = extending.get(at)
-    }
-    return false
-  }
-
-  const asked = new Set(checked.pageTypes)
-  expect(checked.pageTypes[0]).toBe("domain")
-  expect(asked.size).toBe(checked.pageTypes.length)
-  for (const slug of asked) expect(slug === "domain" || reaches(slug)).toBe(true)
-  for (const slug of extending.keys()) expect(asked.has(slug)).toBe(reaches(slug))
-})
 
 test("the pages of a page type beneath arrive only where the query expands", () => {
   const extending = extendingIn(ROOT)
