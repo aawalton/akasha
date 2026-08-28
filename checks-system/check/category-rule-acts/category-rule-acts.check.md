@@ -4,7 +4,7 @@ page-type-slug: check
 title: "Category rule acts"
 slug: category-rule-acts
 needs: tree
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 

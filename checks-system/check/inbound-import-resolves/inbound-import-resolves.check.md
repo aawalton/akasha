@@ -3,7 +3,7 @@ page-type-slug: check
 title: "Inbound import resolves"
 slug: inbound-import-resolves
 needs: tree
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
