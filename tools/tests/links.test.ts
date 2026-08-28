@@ -42,11 +42,11 @@ describe("a quote, whose link text is the target's own words", () => {
       relPath: "pages/initiative/one.md",
       body,
       roots: ROOTS,
-      exists: (at) => at === "/repo/akasha/domains/one.md",
+      exists: (at) => at === "/repo/akasha/pages/domain/one.md",
       readAt: () => target,
     })
 
-  const QUOTE = '["Every page type has the same backing."](../../domains/one.md)\n'
+  const QUOTE = '["Every page type has the same backing."](../../pages/domain/one.md)\n'
 
   test("is checked against the document it names, and stands where that document holds it", () => {
     const links = against(QUOTE, "# Intent\n\nEvery page type has the same backing.\n")
@@ -61,7 +61,7 @@ describe("a quote, whose link text is the target's own words", () => {
 
   test("matches any part of the document's text rather than a whole entry", () => {
     const links = against(
-      '["page type has the same"](../../domains/one.md)\n',
+      '["page type has the same"](../../pages/domain/one.md)\n',
       "Every page type has the same backing.\n"
     )
     expect(links.map((one) => one.status)).toEqual(["ok"])
@@ -69,7 +69,7 @@ describe("a quote, whose link text is the target's own words", () => {
 
   test("carries the document's own words through an inline code span", () => {
     const links = against(
-      '["Every assignment but `errand` is stated on the seat."](../../domains/one.md)\n',
+      '["Every assignment but `errand` is stated on the seat."](../../pages/domain/one.md)\n',
       "Every assignment but `errand` is stated on the seat.\n"
     )
     expect(links.map((one) => one.status)).toEqual(["ok"])
@@ -77,7 +77,7 @@ describe("a quote, whose link text is the target's own words", () => {
 
   test("is an ordinary link where the text stands in no quotation marks", () => {
     const links = against(
-      "[Every page type has the same backing.](../../domains/one.md)\n",
+      "[Every page type has the same backing.](../../pages/domain/one.md)\n",
       "the document says nothing of the sort\n"
     )
     expect(links.map((one) => one.status)).toEqual(["ok"])

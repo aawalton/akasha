@@ -56,7 +56,7 @@ const itemsOf = (type: string): ListPart => {
 function judged(type: string, items: readonly string[]): Verdict {
   const shape = shapeOf("list", AT, type)
   expect(shape.why).toBeNull()
-  return hold(shape, "domains/lists/one.md", listing(items))
+  return hold(shape, "pages/domain/lists/one.md", listing(items))
 }
 
 describe("a list whose items may take either of two shapes", () => {

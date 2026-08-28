@@ -113,7 +113,7 @@ const principle = (name: string, statement = "Do the thing.", body = "A warrant.
 
 const bodyOf = (...principles: readonly string[]): string => `# Principles\n${principles.join("")}`
 
-const HELD = "domains/fixture.md"
+const HELD = "pages/domain/fixture.md"
 
 describe("a heading that is a hole", () => {
   test("it compiles to the matched heading the typed schema declares, bounded by its own slot", () => {

@@ -6,9 +6,9 @@ import { duringOneCall, onceInCall } from "../../during-call/during-call.ts"
 
 const root = mkdtempSync(join("/var/tmp", "gate-cache-"))
 
-mkdirSync(join(root, "domains"), { recursive: true })
+mkdirSync(join(root, "pages/domain"), { recursive: true })
 writeFileSync(
-  join(root, "domains/gauge.md"),
+  join(root, "pages/domain/gauge.md"),
   "---\nslug: gauge\n---\n\n# Definition\n\n- **Gauge** — a measure.\n"
 )
 
@@ -69,9 +69,9 @@ describe("work a call does once rather than once per file", () => {
 
   it("reads the tree afresh for a call that opens after it changed", () => {
     const before = duringOneCall(() => listDocuments(root))
-    writeFileSync(join(root, "domains/second.md"), "---\nslug: second\n---\n")
+    writeFileSync(join(root, "pages/domain/second.md"), "---\nslug: second\n---\n")
     const after = duringOneCall(() => listDocuments(root))
     expect(after.length).toBe(before.length + 1)
-    rmSync(join(root, "domains/second.md"))
+    rmSync(join(root, "pages/domain/second.md"))
   })
 })
