@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Session tracking health capacity hours"
 defined-on-slug: page-type/session-tracking
 key: health-capacity-hours
-type: formula
-returnType: number
+type: number
 expression: (if(prop(end-time) == null, now(), parseInstant(prop(end-time))) - parseInstant(prop(start-time))) / 3600000 * (prop(recovery-multiplier) - prop(cost-multiplier))
 slug: session-tracking-health-capacity-hours
 domain-parent-slug: page-type/session-tracking

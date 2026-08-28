@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Session tracking romance points"
 defined-on-slug: page-type/session-tracking
 key: romance-points
-type: formula
+type: number
 expression: if(containsText(" " + prop(title) + " ", " jen "), (if(prop(end-time) == null, now(), parseInstant(prop(end-time))) - parseInstant(prop(start-time))) / 60000, 0)
-returnType: number
 slug: session-tracking-romance-points
 domain-parent-slug: page-type/session-tracking
 ---

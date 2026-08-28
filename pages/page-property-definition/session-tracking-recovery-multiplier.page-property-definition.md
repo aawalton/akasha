@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Session tracking recovery multiplier"
 defined-on-slug: page-type/session-tracking
 key: recovery-multiplier
-type: formula
-returnType: number
+type: number
 expression: "if(containsText(\" \" + prop(title) + \" \", \" bath \"), 3, if(containsText(\" \" + prop(title) + \" \", \" pod \"), 3, if(containsText(\" \" + prop(title) + \" \", \" breathing \"), 1, if(containsText(\" \" + prop(title) + \" \", \" sleep \"), 1, if(containsText(\" \" + prop(title) + \" \", \" rest \"), 1, 0)))))"
 slug: session-tracking-recovery-multiplier
 domain-parent-slug: page-type/session-tracking

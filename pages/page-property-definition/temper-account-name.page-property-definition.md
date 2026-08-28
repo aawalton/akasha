@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper account name"
 defined-on-slug: page-type/temper-account
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{title} ?? {slug} ?? {id}'
 slug: temper-account-name

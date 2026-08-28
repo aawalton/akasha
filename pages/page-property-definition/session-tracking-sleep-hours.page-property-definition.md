@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Session tracking sleep hours"
 defined-on-slug: page-type/session-tracking
 key: sleep-hours
-type: formula
+type: number
 expression: if(prop(end-time) == null, 0, if(containsText(" " + prop(title) + " ", " sleep "), (parseInstant(prop(end-time)) - parseInstant(prop(start-time))) / 3600000, if(containsText(" " + prop(title) + " ", " rest "), (parseInstant(prop(end-time)) - parseInstant(prop(start-time))) / 3600000, 0)))
-returnType: number
 slug: session-tracking-sleep-hours
 domain-parent-slug: page-type/session-tracking
 ---

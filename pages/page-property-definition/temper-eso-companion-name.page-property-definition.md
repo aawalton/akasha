@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper ESO companion name"
 defined-on-slug: page-type/temper-eso-companion
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{key}'
 slug: temper-eso-companion-name

@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Session tracking safety gap"
 defined-on-slug: page-type/session-tracking
 key: safety-gap
-type: formula
+type: number
 expression: prop(safety-level) - prop(difficulty-level)
-returnType: number
 slug: session-tracking-safety-gap
 domain-parent-slug: page-type/session-tracking
 ---

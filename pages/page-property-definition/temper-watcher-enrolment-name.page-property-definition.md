@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper watcher enrolment name"
 defined-on-slug: page-type/temper-watcher-enrolment
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{account-user-id} ?? {slug} ?? {id}'
 slug: temper-watcher-enrolment-name

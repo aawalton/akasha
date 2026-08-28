@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Workflow name"
 defined-on-slug: page-type/workflow
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: 'text({seq}) ?? {slug} ?? {id}'
 slug: workflow-name

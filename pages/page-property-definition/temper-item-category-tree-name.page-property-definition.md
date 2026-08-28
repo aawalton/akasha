@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper item category tree node name"
 defined-on-slug: page-type/temper-item-category-tree
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{key}'
 slug: temper-item-category-tree-name

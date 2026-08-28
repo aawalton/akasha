@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper companion activation buff name"
 defined-on-slug: page-type/temper-companion-activation-buff
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{key}'
 slug: temper-companion-activation-buff-name
