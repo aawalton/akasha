@@ -34,3 +34,11 @@ It reads every tracked text file, but it matches three patterns and all three ar
 It refuses without `--repo-root`, so a bare run reports no violations without having looked at anything.
 
 Delete the check once it reads zero outside `pages/finding/`.
+
+## Where the count sits
+
+Most of what the meter counts is one shape: a graph node id written `<kind>:<repo>:<path>`, whose repo segment spells a retired name. It concentrates in the check-workflow config tables and their fixtures.
+
+Relabelling those is churn. The graph they address was replaced, and the replacement takes a structured `{repo, key}` rather than a joined triple, so a name rewritten now is written twice. The addresses move when dispatch is ported onto the new graph.
+
+Two validators already refuse a dispatch seed that names a node which is not there. Both are unreachable behind stubs of the old graph, and the seeds they would refuse do not survive at any spelling.
