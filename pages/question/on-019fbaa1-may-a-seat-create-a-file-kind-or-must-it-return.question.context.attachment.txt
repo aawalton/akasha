@@ -1,9 +1,0 @@
-019fbaa1 asked whether a seat may create a file kind. A reading of dirty/docs/claude-md-quality.md narrowed it: no new kind may be needed.
-
-That rubric binds `**/CLAUDE.md` — 470 files at origin/main, scattered across directories, so folder.schema.md's one-glob-rooted-at-a-directory rule admits no folder domain for it. But `file-kinds/instructions.md` already ranks every principle unit the rubric's prescriptions reduce to (Placement, Named Altitude, Modularity, Reduction, Cut The Obvious, Self-Correcting Case). It declares `instructions-path: "**/*.md"` and no `code-path:`, so none of it reaches a code-tree author. `file-kinds/tests.md` carries both keys, so the schema already admits the pair.
-
-The only thing stopping it being one added key is that document's own `# Definition` — "the markdown files of this repository" — which scopes it here and renders verbatim into `domains/file-kind.md`'s generated glossary. So the change is a Definition edit plus a compose-glossary pass, not a new kind.
-
-What it costs: file-kinds/instructions.md's ten units would then bind every CLAUDE.md in the code repo. That is a real widening of what governs 470 files, which is why I have not done it.
-
-Two ingestion subjects are parked in quarantine waiting on this.

@@ -1,1 +1,0 @@
-Project #19202, moving book-of-everything out of the code repo. Design knowledge from stripped comments needs a home before the code-repo copy is deleted.

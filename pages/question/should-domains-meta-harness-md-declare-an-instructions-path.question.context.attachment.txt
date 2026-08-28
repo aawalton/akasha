@@ -1,7 +1,0 @@
-A reading of that domain measured this and returned it rather than settling it, and I agree it is not a reading's call.
-
-It declares no instructions-path. The only surface naming meta-harness as a parent is folders/meta-harness-tools.md, whose glob is tools/**. So Reflexivity, Derivation and Sequence reach an agent only when it edits a program under tools/ — and Sequence is the rule that a governing surface is settled before what is written against it, which is the rule this whole initiative is ordered by. It does not bind roles/reviewer.md, tasks/instructions-review.md, schemas/*.md or domains/*.md. instruction-estate.md cites it by name from a document this domain does not govern.
-
-Against declaring one: it makes three principles binding on a large set of surfaces whose readers never asked for them, which is the dilution cost the estate is fighting. domain.schema.md names the ambiguity exactly — a domain that governs nothing by nature and one nobody has populated yet are the same silence, and no instrument separates them.
-
-I can settle it either way and reverse it cheaply. I am asking because it is an expansion that lands on other surfaces' readers rather than on the one being read.
