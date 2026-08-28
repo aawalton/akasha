@@ -27,6 +27,7 @@ import {
   loadRelations,
   markFor,
   marksOver,
+  underIndexLock,
   updateAt,
   updateNamedIn,
 } from "./store/store.ts"
@@ -284,24 +285,33 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
  * from here for as long as it runs, and what an index nothing ever wrote looks like for good:
  * the commit lands in git, the index goes on describing a tree that has moved, and the only
  * sign of it is a row that is wrong until something else happens to land on the same page.
+ *
+ * THE ROWS ARE READ AND WRITTEN BACK UNDER ONE LOCK. Everything from `loadPages` to
+ * `keepPages` is a read-modify-write over every row there is, and two landings doing it at
+ * once lose one of the two. Which pages a landing carries makes no difference: the file is
+ * written whole either way, so landings that touch nothing in common still collide.
  */
 export function landHere(landings: readonly Landing[], holds: Holds): number {
   const landed = landedOf(landings)
   if (landed.length === 0) return 0
-  const pages = loadPages()
-  if (pages.length === 0) {
-    throw new Error(
-      "the page index holds no page at all, so nothing here can be updated and this landing " +
-        "would otherwise be taken as done"
-    )
-  }
-  const stated = restatedAll(pages, landed)
-  const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
-  let touched = 0
-  for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after, holds)
-  touched += updateNamed(landed)
-  keepPages(stated)
-  return touched
+  return underIndexLock(() => {
+    const pages = loadPages()
+    if (pages.length === 0) {
+      throw new Error(
+        "the page index holds no page at all, so nothing here can be updated and this " +
+          "landing would otherwise be taken as done"
+      )
+    }
+    const stated = restatedAll(pages, landed)
+    const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
+    let touched = 0
+    for (const one of landed) {
+      touched += updateFor(standing, one.source, one.before, one.after, holds)
+    }
+    touched += updateNamed(landed)
+    keepPages(stated)
+    return touched
+  })
 }
 
 /**

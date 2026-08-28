@@ -93,8 +93,13 @@ export function exclusively<T>(path: string, act: () => T): T {
       )
     }
     if (abandoned(lock, file)) {
+      const gone = markIn(file)
       try {
         rmSync(lock, { recursive: true, force: true })
+        process.stderr.write(
+          `exclusive: broke ${lock} — its holder ${gone ?? "was never recorded"} is gone, so ` +
+            "the lock was never going to come free on its own\n"
+        )
         continue
       } catch {
       }

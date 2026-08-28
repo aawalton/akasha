@@ -241,6 +241,25 @@ function relationsAt(): string {
   return join(indexRoot(), RELATIONS)
 }
 
+/**
+ * One critical section over the whole index.
+ *
+ * IT COVERS THE READ AS WELL AS THE WRITE. A landing reads every row with `loadPages`, works
+ * out what it changes, and writes every row back with `keepPages`. Two landings running that
+ * at once each write back the rows they read before the other's page was among them, so one
+ * page's row goes with nothing saying so. That is not a theory: a subagent page landed at
+ * 19:32:03 on 2026-08-27 and its row was still missing seventeen minutes later, with the
+ * nearest rebuild twenty-two minutes before it — no rebuild was anywhere near.
+ *
+ * THE LOCK STANDS BESIDE THE INDEX ROOT RATHER THAN INSIDE IT. `emptyIndex` takes the whole
+ * root away, and a lock standing inside it would go with it while its holder still ran.
+ */
+export function underIndexLock<T>(act: () => T): T {
+  const at = indexRoot()
+  mkdirSync(dirname(at), { recursive: true })
+  return exclusively(at, act)
+}
+
 export function keepPages(stated: Iterable<Stated>): void {
   const held = [...stated].sort((one, two) =>
     saidSource(one) < saidSource(two) ? -1 : saidSource(one) > saidSource(two) ? 1 : 0
