@@ -79,9 +79,20 @@ export const everyPageUnder = (root: string): ReadonlyMap<string, readonly strin
   return why === null ? found : why
 }
 
+const closedAt = (text: string): number => {
+  let from = OPENS.length - 1
+  for (;;) {
+    const at = text.indexOf(CLOSES, from)
+    if (at < 0) return at
+    const after = at + CLOSES.length
+    if (after === text.length || text[after] === BREAK) return at
+    from = at + 1
+  }
+}
+
 export const partsIn = (text: string): Parts | string => {
   if (!text.startsWith(OPENS)) return "states nothing: it opens with no frontmatter"
-  const closes = text.indexOf(CLOSES, OPENS.length)
+  const closes = closedAt(text)
   if (closes < 0) return "states nothing: its frontmatter is opened and never closed"
   let held: unknown
   try {
