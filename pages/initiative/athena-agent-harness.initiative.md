@@ -9,11 +9,9 @@ parent-slug: aine-global
 
 # Intent
 
-The turn state for a seat whose role is to wait is spelled `idle-ready`.
-
-A subagent's death reaches the seat that started it.
-
-A subagent that died is started again, or the seat above it is told it will not be.
+- The turn state for a seat whose role is to wait is spelled `idle-ready`.
+- A subagent's death reaches the seat that started it.
+- A subagent that died is started again, or the seat above it is told it will not be.
 
 # Notes
 
