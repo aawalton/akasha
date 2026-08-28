@@ -87,9 +87,9 @@ describe("curationDispatchNodes follows the parts a curation names", () => {
   })
 
   test("a curation that is not there refuses rather than composing an empty watch", () => {
-    expect(() => curationDispatchNodes(mkdtempSync(join(SCRATCH, "curation-absent-")))).toThrow(
-      /is not there/
-    )
+    const at = mkdtempSync(join(SCRATCH, "curation-absent-"))
+    roots.push(at)
+    expect(() => curationDispatchNodes(at)).toThrow(/is not there/)
   })
 
   test("a curation that is not the JSON it has to be refuses", () => {
