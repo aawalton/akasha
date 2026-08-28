@@ -11,7 +11,6 @@ parent-slug: aine-global
 
 - `pages-system/` holds a clean, cohesive and comprehensive set of features answering everything callers need of the pages system, including indexing, caching, queries, and a cluster-reachable pages system service for off-workstation reads and writes.
 - No competing implementation of a pages system function exists.
-- No finding is open against the pages system domain or any domain beneath it.
 
 # Notes
 
