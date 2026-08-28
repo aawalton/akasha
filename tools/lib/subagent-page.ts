@@ -96,21 +96,47 @@ export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome 
   }
 }
 
+/**
+ * An act that takes a subagent's page, with the agent's readings put back after it.
+ *
+ * THE READINGS BELONG TO THE AGENT AND NOT TO THE TURN. `SubagentStop` fires at every turn boundary,
+ * and a message resuming a delegate remakes its page under the same name seconds later, so a page
+ * going is not evidence that the agent it names has finished. While `rm` took the sidecar with the
+ * page, a delegate still working lost every reading it had: thirty-six removed-then-remade pairs
+ * under one seat in under two hours, one of them two seconds wide.
+ *
+ * IT ERRS TOWARD KEEPING, and the file that leaves is somebody else's to collect. A delegate that
+ * never comes back leaves a sidecar with no page beside it, because nothing here can tell a turn
+ * boundary from a return. `takeOrphanedReadings` can, and takes it at the seat's next sweep, which
+ * runs when the seat's process has gone and every delegate under it with it.
+ */
+export function keepingReadings<T>(pagePath: string, act: () => T): T {
+  const readings = `${pagePath.slice(0, -SUBAGENT_PAGE_SUFFIX.length)}${READINGS_SUFFIX}`
+  const held = existsSync(readings) ? readFileSync(readings, "utf8") : null
+  try {
+    return act()
+  } finally {
+    if (held !== null && !existsSync(readings)) writeFileSync(readings, held, "utf8")
+  }
+}
+
 export function removeSubagentPage(agent: string): Outcome {
   const own = subagentUnder(agent)
   const seatName = subagentSeatName(agent)
   if (own === null || seatName === null) return { kind: "unchanged" }
   const absolute = subagentPagePathFor(agent)
   if (absolute === null || !existsSync(absolute)) return { kind: "unchanged" }
-  const taken = runTool(
-    "rm.ts",
-    [
-      absolute,
-      "--repo",
-      (placeHolding(absolute, SUBAGENT_PLACES) ?? SUBAGENT_WRITE).repo,
-      "--message",
-      `${seatName}${SUBAGENT_MARK}${own} returned, so its page goes; what it was stands in this repo's history`,
-    ]
+  const taken = keepingReadings(absolute, () =>
+    runTool(
+      "rm.ts",
+      [
+        absolute,
+        "--repo",
+        (placeHolding(absolute, SUBAGENT_PLACES) ?? SUBAGENT_WRITE).repo,
+        "--message",
+        `${seatName}${SUBAGENT_MARK}${own} returned, so its page goes; what it was stands in this repo's history`,
+      ]
+    )
   )
   return taken.code === 0 ? { kind: "removed" } : { kind: "refused", detail: whyRefused(taken.output) }
 }
