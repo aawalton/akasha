@@ -5,7 +5,7 @@ title: "SeaweedFS prune sessions"
 slug: seaweedfs-prune-sessions
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: seaweedfs
+namespace: seaweedfs-prune-sessions
 resource-name: seaweedfs-prune-sessions
 ---
 

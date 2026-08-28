@@ -4,17 +4,16 @@ import {
   ASSETS_BUCKET,
   componentLabels,
   EXPIRING_PREFIXES,
-  NAMESPACE,
-  S3_GATEWAY_HTTP_PORT,
-} from "./synth-constants"
+  S3_GATEWAY_ENDPOINT,
+} from "./synth-constants.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 
-const SRC_ENDPOINT = `http://s3-gateway.${NAMESPACE}.svc.cluster.local:${S3_GATEWAY_HTTP_PORT}`
-
 const SRC_SECRET = "seaweedfs-creds"
 
-const COMPONENT_PRUNE = "prune"
+export const PRUNE_NAMESPACE = "seaweedfs-prune-sessions"
+
+export const COMPONENT_PRUNE = "prune"
 
 export const RETENTION_DAYS = 30
 
@@ -29,7 +28,7 @@ function rcloneEnv() {
     { name: "HOME", value: "/tmp" },
     { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
     { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
-    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: SRC_ENDPOINT },
+    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
     secretEnv("RCLONE_CONFIG_SRC_ACCESS_KEY_ID", SRC_SECRET, "access_key"),
     secretEnv("RCLONE_CONFIG_SRC_SECRET_ACCESS_KEY", SRC_SECRET, "secret_key"),
   ]
@@ -53,10 +52,10 @@ function pruneScript(): string {
 export function pruneSessionsCronJobYaml(): string {
   const name = "seaweedfs-prune-sessions"
   const labels = componentLabels(COMPONENT_PRUNE)
-  return synthOne(NAMESPACE, name, {
+  return synthOne(PRUNE_NAMESPACE, name, {
     apiVersion: "batch/v1",
     kind: "CronJob",
-    metadata: { name, namespace: NAMESPACE, labels },
+    metadata: { name, namespace: PRUNE_NAMESPACE, labels },
     spec: {
       schedule: "24 5 * * *",
       concurrencyPolicy: "Forbid",

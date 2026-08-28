@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
-import { pruneSessionsCronJobYaml, RETENTION_DAYS } from "./synth-prune"
+import { pruneSessionsCronJobYaml, RETENTION_DAYS } from "./synth-prune.ts"
 
 describe("pruneSessionsCronJobYaml", () => {
   const yaml = pruneSessionsCronJobYaml()
 
-  test("declares a namespaced CronJob named seaweedfs-prune-sessions", () => {
+  test("declares a CronJob named seaweedfs-prune-sessions in a namespace of its own", () => {
     expect(yaml).toContain("kind: CronJob")
     expect(yaml).toContain("name: seaweedfs-prune-sessions")
-    expect(yaml).toContain("namespace: seaweedfs")
+    expect(yaml).toContain("namespace: seaweedfs-prune-sessions")
   })
 
   test("runs on a daily schedule with no overlap", () => {

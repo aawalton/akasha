@@ -19,7 +19,6 @@ const S3_GATEWAY = "infra/seaweedfs/s3-gateway/generated"
 const BACKUP_CNPG = "infra/seaweedfs/backup-cnpg/generated"
 const BACKUP_BULK = "infra/seaweedfs/backup-bulk/generated"
 const BACKUP_ASSETS = "infra/seaweedfs/backup-assets/generated"
-const PRUNE_SESSIONS = "infra/seaweedfs/prune-sessions/generated"
 const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
@@ -318,15 +317,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ],
     },
 
-    {
-      ...kubectlApply({
-        name: "seaweedfs-apply-prune",
-        namespace: "seaweedfs",
-        files: `${PRUNE_SESSIONS}/prune-sessions.generated.yaml`,
-        serverSide: true,
-      }),
-      dependsOn: ["seaweedfs-apply-s3-gateway", "seaweedfs-ensure-bucket"],
-    },
 
     {
       ...sopsDecryptApply({
@@ -373,7 +363,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         "seaweedfs-ensure-bucket",
         "seaweedfs-apply-backup-cnpg",
         "seaweedfs-apply-backup-bulk",
-        "seaweedfs-apply-prune",
         "seaweedfs-apply-etcd-snapshot",
       ],
     },
