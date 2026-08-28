@@ -17,4 +17,5 @@ scopes:
   - user:sessions:claude_code
 terminal-at: 2026-08-28T00:46:11.594Z
 terminal-alerted-at: 2026-08-26T21:51:11.511Z
+retry-after: 2026-08-28T01:09:55.927Z
 ---
