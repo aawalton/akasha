@@ -23,7 +23,7 @@ parent-slug: aine-global
 
 # Notes
 
-Alan ruled on each of the following on 2026-08-27. They stand until he rules otherwise, and are here so nobody re-asks him or works against them.
+Alan ruled on each of the following, on 2026-08-27 and 2026-08-28. They stand until he rules otherwise, and are here so nobody re-asks him or works against them.
 
 **A check goes on for patches before main is clean.** An on-patch check judges only the files in the change, so a red main does not stop work that does not touch it. His condition, stated in those terms: a change set that does not touch a failing file must not be blocked by it. That condition holds for `typecheck` on four tests at `checks-system/check/typecheck/typecheck.on-checks.test.ts:61`, `:75`, `:89` and `:106` — a fault is reported where its file is in the change set or in an import cycle with one, and a file that merely imports what is judged, or is merely imported by it, is left to whoever touches it. A check whose scope is not bounded that way does not carry this licence.
 
@@ -35,6 +35,6 @@ Alan ruled on each of the following on 2026-08-27. They stand until he rules oth
 
 **A page's file stem is the page's name, and a folder names no part of a page.** That is where naming is going; it stands as Intent on the page-name property definition rather than as law. Royal Road chapters are the exception he drew: they keep their nesting, and renaming 17,902 of them to make 290 name collisions unique was weighed and refused.
 
-**`read-what-is-required` does not go on.** As it stands it would refuse the seats that read and pass the subagents that write. The reading is filed under `pages/finding/domain/checks-system/`.
+**Judging an author is not a check.** Code that judges the writer belongs in `ops write` and `ops edit`, the only two commands that hold a write to what its author has read; code that judges the code stays a check. A subagent is judged through its seat's page, taking the persona, role and domain that page type declares as defaults, so a subagent that names none of the three is held to all three.
 
 **`import-resolves` is approved, and stands off until the packages here answer their own specifiers.** 19 do not on 2026-08-28, down from 108 on 2026-08-27 as the design and temper exports maps are repaired.
