@@ -138,7 +138,7 @@ async function locate(
   const found: Located[] = []
   built.forEach((raw, index) => {
     const page = flattenRow({ ...raw })
-    if (!narrowed.every((condition) => matches(page, condition))) return
+    if (!narrowed.every((condition) => matches(page, condition, shape.definitions))) return
     const at = rows[index]?.at
     if (at === undefined) {
       throw new FileWriteError(
