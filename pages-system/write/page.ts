@@ -62,6 +62,25 @@ const carriedAs = (key: string, held: unknown): Kept => {
   return { kind: "value", raw: items }
 }
 
+const otherType = (held: unknown, given: string): string =>
+  "stands here holding " +
+  MARK +
+  String(held) +
+  MARK +
+  ", and writing " +
+  MARK +
+  given +
+  MARK +
+  " over it would make this another page"
+
+const typeFor = (writing: Writing): string | Front => {
+  const standing = writing.standing
+  if (standing === null || !Object.hasOwn(standing, PAGE_TYPE)) return writing.pageType
+  const held = standing[PAGE_TYPE]
+  if (held === writing.pageType) return writing.pageType
+  return refusedAs(PAGE_TYPE, otherType(held, writing.pageType))
+}
+
 const idFor = (writing: Writing): string | Front => {
   const standing = writing.standing
   if (standing === null || !Object.hasOwn(standing, ID)) return idAt(writing.now, writing.random)
