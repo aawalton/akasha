@@ -1,3 +1,4 @@
+import { spawnSync } from "node:child_process"
 import { statSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { basename } from "node:path"
@@ -10,7 +11,8 @@ import {
   sessionFromHistory,
   sessionInCommits,
 } from "./seat-page-history.ts"
-import { frontmatterIn, frontmatterOf, seatPagePaths, seatPresence, type SeatPresence } from "./seat-presence-read.ts"
+import { frontmatterIn, frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
+import type { SeatPresence } from "./seat-proc-key.ts"
 
 const PAGE_SUFFIX = ".md"
 
@@ -73,10 +75,17 @@ function touchedAtMs(pagePath: string): number {
   return newest
 }
 
+/** How much one `git` call here may hand back. Node caps this at a megabyte where bun does not. */
+const OUTPUT_CEILING = 64 * 1024 * 1024
+
 function gitAt(root: string, args: readonly string[]): string | null {
-  const proc = Bun.spawnSync(["git", ...args], { cwd: root, stdout: "pipe", stderr: "ignore" })
-  if ((proc.exitCode ?? 1) !== 0) return null
-  return new TextDecoder().decode(proc.stdout)
+  const proc = spawnSync("git", [...args], {
+    cwd: root,
+    maxBuffer: OUTPUT_CEILING,
+    stdio: ["ignore", "pipe", "ignore"],
+  })
+  if (proc.status !== 0) return null
+  return new TextDecoder().decode(proc.stdout ?? new Uint8Array())
 }
 
 export function seatsStanding(): readonly (Seated & {

@@ -6,7 +6,8 @@ export const tool = {
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
 import { akashaRoot } from "../repo/roots/roots"
-import { frontmatterOf, seatPagePaths, seatPresence, type SeatPresence } from "./lib/seat-presence-read.ts"
+import { frontmatterOf, seatPagePaths, seatPresence } from "./lib/seat-presence-read.ts"
+import type { SeatPresence } from "./lib/seat-proc-key.ts"
 import { statedOf } from "./lib/seat-stated.ts"
 import { type Sources, initiativeFinishedIn, readSeat } from "./lib/seat-sweep.ts"
 

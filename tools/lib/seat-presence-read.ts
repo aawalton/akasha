@@ -1,4 +1,5 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs"
+import { parse } from "yaml"
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../../page/name/name.ts"
 import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
@@ -10,8 +11,6 @@ import {
   SEAT_WRITE,
 } from "./agent-page-place.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
-
-export type { SeatPresence }
 
 const PAGE_SUFFIX = ".md"
 
@@ -87,7 +86,7 @@ export function frontmatterIn(raw: string): Record<string, unknown> | null {
   if (close === -1) return null
   let parsed: unknown
   try {
-    parsed = Bun.YAML.parse(raw.slice(FRONTMATTER_FENCE.length + 1, close + 1))
+    parsed = parse(raw.slice(FRONTMATTER_FENCE.length + 1, close + 1))
   } catch {
     return null
   }

@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
-import { join, resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
+import { fileURLToPath } from "node:url"
 
 /**
  * Where akasha stands, for the git call this module makes.
@@ -19,10 +20,14 @@ import { join, resolve } from "node:path"
 function akashaStands(): string {
   const stated = process.env.AKASHA_ROOT
   if (stated !== undefined && stated !== "") return stated
-  const dir: string | undefined = import.meta.dir
+  // `import.meta.dir` is bun's and reads undefined under node, which is what the editor's
+  // extension host runs; `import.meta.dirname` is node's; `import.meta.url` is carried by both.
+  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
+  const named = meta.dir ?? meta.dirname
+  const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
   if (dir === undefined || dir === "") {
     throw new Error(
-      "place: this build reads no `import.meta.dir`, so nothing in it says where akasha stands — a bundle states the akasha root in `AKASHA_ROOT`"
+      "place: nothing here says where this file is, so nothing says where akasha stands — name the akasha root in `AKASHA_ROOT`"
     )
   }
   return resolve(dir, "..", "..", "..")

@@ -1,4 +1,6 @@
 
+import { readdirSync } from "node:fs"
+import type { Dirent } from "node:fs"
 import type { Repo } from "../../page/document/types.ts"
 import type { Outcome, Population } from "../../outcome/outcome.ts"
 import { isRowsFile } from "../../page/rows-file.ts"
@@ -39,9 +41,39 @@ export function listDocuments(root: string): readonly string[] {
   return onceInCall(`documents:${root}`, () => scanDocuments(root))
 }
 
+/**
+ * Every markdown path under this root, hidden folders included.
+ *
+ * WALKED RATHER THAN GLOBBED. This asked `Bun.Glob` for `dot: true`, and node's `globSync` carries
+ * no such option at all, so a glob here would silently lose every page under a hidden folder. The
+ * two folders left unwalked are the two whose contents the caller drops anyway.
+ */
+function markdownUnder(root: string): readonly string[] {
+  const found: string[] = []
+  const walk = (at: string, prefix: string): void => {
+    let entries: readonly Dirent[]
+    try {
+      entries = readdirSync(at, { withFileTypes: true })
+    } catch {
+      return
+    }
+    for (const entry of entries) {
+      const relPath = prefix === "" ? entry.name : `${prefix}/${entry.name}`
+      if (entry.isDirectory()) {
+        if (relPath === ".git" || isVendored(relPath)) continue
+        walk(`${at}/${entry.name}`, relPath)
+      } else if (entry.name.endsWith(".md")) {
+        found.push(relPath)
+      }
+    }
+  }
+  walk(root, "")
+  return found
+}
+
 function scanDocuments(root: string): readonly string[] {
   const paths: string[] = []
-  for (const relPath of new Bun.Glob("**/*.md").scanSync({ cwd: root, dot: true })) {
+  for (const relPath of markdownUnder(root)) {
     if (relPath.startsWith(".git/") || isVendored(relPath)) continue
     if (isAttachmentFile(relPath) || isRowsFile(relPath)) continue
     paths.push(relPath)

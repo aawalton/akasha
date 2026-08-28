@@ -1,11 +1,12 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { parse } from "yaml"
 import { type FileTree } from "../../page/file-tree.ts"
 import { type Rendered, withoutDefaults } from "./page-property-types.ts"
 
 function readsBackAsWritten(one: string): boolean {
   let parsed: unknown
   try {
-    parsed = Bun.YAML.parse(`v: ${one}\n`)
+    parsed = parse(`v: ${one}\n`)
   } catch {
     return false
   }
@@ -43,7 +44,7 @@ export function statedIn(text: string): Record<string, unknown> {
   if (!text.startsWith("---\n")) return {}
   const closesAt = text.indexOf("\n---", 3)
   if (closesAt < 0) return {}
-  const parsed: unknown = Bun.YAML.parse(text.slice(4, closesAt + 1))
+  const parsed: unknown = parse(text.slice(4, closesAt + 1))
   return typeof parsed === "object" && parsed !== null && !Array.isArray(parsed)
     ? (parsed as Record<string, unknown>)
     : {}

@@ -1,3 +1,5 @@
+import { spawnSync } from "node:child_process"
+
 const TTL_MS = 2000
 
 const LIST = ["tmux", "list-clients", "-F", "#{client_session}"]
@@ -7,9 +9,9 @@ let last: { readonly at: number; readonly sessions: ReadonlySet<string> | null }
 function readAttached(): ReadonlySet<string> | null {
   let out: string
   try {
-    const ran = Bun.spawnSync(LIST, { stdout: "pipe", stderr: "ignore" })
-    if (ran.exitCode !== 0) return null
-    out = new TextDecoder().decode(ran.stdout)
+    const ran = spawnSync("tmux", LIST.slice(1), { stdio: ["ignore", "pipe", "ignore"] })
+    if (ran.status !== 0) return null
+    out = new TextDecoder().decode(ran.stdout ?? new Uint8Array())
   } catch {
     return null
   }
