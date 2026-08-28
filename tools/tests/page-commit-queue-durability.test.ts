@@ -5,7 +5,31 @@ import { join } from "node:path"
 const journals = mkdtempSync(join("/var/tmp", "page-landing-journal-"))
 process.env.PAGE_LANDING_JOURNAL_DIR = journals
 
+const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
+
+const root = mkdtempSync(join("/var/tmp", "page-landing-durability-"))
+
+mkdirSync(join(root, "pages/page-type"), { recursive: true })
+mkdirSync(join(root, "pages/page-property-definition"), { recursive: true })
+mkdirSync(join(root, "pages/probe"), { recursive: true })
+mkdirSync(join(root, "pages/repo"), { recursive: true })
+// A REPO PAGE, BECAUSE THE REPOSITORY LIST IS READ OFF DISK. `REPOS` is built at import from the
+// `*-repo` pages under the akasha root, and a fixture holding none throws there rather than here.
+writeFileSync(join(root, "pages/repo/akasha-repo.repo.md"), page(["slug: akasha"]))
+writeFileSync(join(root, "pages/page-type/probe.page-type.md"), page(["extends-slug: none"]))
+writeFileSync(
+  join(root, "pages/page-property-definition/probe-title.page-property-definition.md"),
+  page(["defined-on-slug: probe", "key: title", "type: text"])
+)
+writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n")
+
+// THIS FIXTURE IS THE AKASHA ROOT FOR EVERYTHING THAT FOLLOWS, set before the first import that
+// reads it: `repo/roots/roots.ts` resolves `HERE` and `REPOS` while it loads, and `page/index/
+// place/place.ts` resolves where the index stands. Both answer once and hold it.
+process.env.AKASHA_ROOT = root
+
 const { git } = await import("../../repo/git/git.ts")
+const { buildOver } = await import("../../page/index/build.ts")
 const {
   deferCommits,
   drainCommits,
@@ -19,23 +43,6 @@ const {
 const { readJournals, writeJournal } = await import("../lib/page-landing-journal.ts")
 const { removePage, writePage } = await import("../lib/page-write.ts")
 type Roots = import("../../page/page.ts").Roots
-
-const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
-
-const root = mkdtempSync(join("/var/tmp", "page-landing-durability-"))
-
-mkdirSync(join(root, "pages/page-type"), { recursive: true })
-mkdirSync(join(root, "pages/page-property-definition"), { recursive: true })
-mkdirSync(join(root, "pages/probe"), { recursive: true })
-writeFileSync(
-  join(root, "pages/page-type/probe.page-type.md"),
-  page(["extends-slug: none"])
-)
-writeFileSync(
-  join(root, "pages/page-property-definition/probe-title.page-property-definition.md"),
-  page(["defined-on-slug: probe", "key: title", "type: text"])
-)
-writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n")
 
 git(root, ["init", "--initial-branch", "main"])
 git(root, ["config", "user.email", "probe@example.invalid"])
@@ -52,6 +59,12 @@ const NO_SUCH_PID = 2147483647
 const ROOTS: Roots = {
   akasha: root,
 }
+
+// AN INDEX OVER THE FIXTURE, WITHOUT WHICH NONE OF THIS RUNS. The page type registry is built from
+// the index rather than by globbing the tree, so a page type standing only in a fixture repo is
+// invisible: `whereFor` finds no `probe`, and `writePage` answers null having written nothing. The
+// index is built from what git holds, so this follows the commit above rather than preceding it.
+buildOver(ROOTS)
 
 const commits = (): number => Number(git(root, ["rev-list", "--count", "HEAD"]).stdout)
 
@@ -93,7 +106,7 @@ describe("a landing the queue has taken on", () => {
     const was = commits()
     holdLandingLive()
     writePage(ROOTS, "probe", "held", { title: "Held" }, "delegate-one")
-    expect(existsSync(join(root, "pages/probe/held.md"))).toBe(true)
+    expect(existsSync(join(root, "pages/probe/held.probe.md"))).toBe(true)
     expect(standing().unlanded).toBe(1)
 
     drainCommits(STALL_ATTEMPTS + 2, 10)
@@ -109,7 +122,7 @@ describe("a landing the queue has taken on", () => {
     releaseLanding()
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/held.md"])
+    expect(named()).toEqual(["pages/probe/held.probe.md"])
     const settled = standing()
     expect(settled.unlanded).toBe(0)
     expect(settled.lastError).toBeNull()
@@ -120,8 +133,8 @@ describe("a landing the queue has taken on", () => {
     writePage(ROOTS, "probe", "recorded", { title: "Recorded" }, "delegate-two")
     const held = readJournals()
     expect(held).toHaveLength(1)
-    expect(Object.keys(held[0]?.paths ?? {})).toEqual(["pages/probe/recorded.md"])
-    expect(held[0]?.paths["pages/probe/recorded.md"]?.act).toContain("delegate-two")
+    expect(Object.keys(held[0]?.paths ?? {})).toEqual(["pages/probe/recorded.probe.md"])
+    expect(held[0]?.paths["pages/probe/recorded.probe.md"]?.act).toContain("delegate-two")
     drainCommits()
     expect(readJournals()).toHaveLength(0)
   })
@@ -146,14 +159,14 @@ describe("a landing the queue has taken on", () => {
     expect(orphaned.stalled).toContain(root)
     expect(landingsHealthy(orphaned)).toBe(false)
 
-    expect(recoverLandings()).toEqual([`${root}/pages/probe/orphan.md`])
+    expect(recoverLandings()).toEqual([`${root}/pages/probe/orphan.probe.md`])
     const carried = standing()
     expect(carried.stalled).toContain(root)
     expect(carried.lastError).toContain("another writer held the landing lock")
 
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/orphan.md"])
+    expect(named()).toEqual(["pages/probe/orphan.probe.md"])
     expect(standing().unlanded).toBe(0)
   })
 
@@ -168,7 +181,7 @@ describe("a landing the queue has taken on", () => {
     }
     expect(ran.exitCode).toBe(1)
     expect(said.files).toHaveLength(1)
-    expect(said.files[0]?.path).toBe("pages/probe/listed.md")
+    expect(said.files[0]?.path).toBe("pages/probe/listed.probe.md")
     expect(said.files[0]?.root).toBe(root)
     expect(said.files[0]?.act).toContain("delegate-four")
     drainCommits()
@@ -190,12 +203,12 @@ describe("a landing the queue has taken on", () => {
     writePage(ROOTS, "probe", "real", { title: "Real" }, "delegate-six")
     writePage(ROOTS, "probe", "fleeting", { title: "Fleeting" }, "delegate-six")
     removePage(ROOTS, "probe", "fleeting", "delegate-six")
-    expect(existsSync(join(root, "pages/probe/fleeting.md"))).toBe(false)
+    expect(existsSync(join(root, "pages/probe/fleeting.probe.md"))).toBe(false)
     expect(standing().unlanded).toBe(2)
 
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/real.md"])
+    expect(named()).toEqual(["pages/probe/real.probe.md"])
     expect(standing().unlanded).toBe(0)
   })
 
@@ -203,7 +216,7 @@ describe("a landing the queue has taken on", () => {
     const hook = join(root, ".git", "hooks", "pre-commit")
     writeFileSync(
       hook,
-      "#!/bin/sh\ngit diff --cached --name-only | grep -q '^pages/probe/cursed\\.md$' && exit 1\nexit 0\n"
+      "#!/bin/sh\ngit diff --cached --name-only | grep -q '^pages/probe/cursed\\.probe\\.md$' && exit 1\nexit 0\n"
     )
     chmodSync(hook, 0o755)
     try {
@@ -214,10 +227,10 @@ describe("a landing the queue has taken on", () => {
 
       drainCommits(SPLIT_ATTEMPTS + 1, 10)
       expect(commits()).toBe(was + 1)
-      expect(named()).toEqual(["pages/probe/rider.md"])
+      expect(named()).toEqual(["pages/probe/rider.probe.md"])
       const left = standing()
       expect(left.unlanded).toBe(1)
-      expect(left.lastError).toContain("pages/probe/cursed.md")
+      expect(left.lastError).toContain("pages/probe/cursed.probe.md")
     } finally {
       rmSync(hook, { force: true })
     }
@@ -233,10 +246,10 @@ describe("a landing the queue has taken on", () => {
     drainCommits()
     expect(commits()).toBe(was + 1)
     expect([...named()].sort()).toEqual([
-      "pages/probe/p.md",
-      "pages/probe/q.md",
-      "pages/probe/r.md",
-      "pages/probe/s.md",
+      "pages/probe/p.probe.md",
+      "pages/probe/q.probe.md",
+      "pages/probe/r.probe.md",
+      "pages/probe/s.probe.md",
     ])
     expect(standing().unlanded).toBe(0)
   })
