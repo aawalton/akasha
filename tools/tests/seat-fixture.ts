@@ -40,30 +40,6 @@ function seatProperties(): readonly string[] {
 
 const INDEX_BUILD = `${import.meta.dir}/index-fixture.ts`
 
-/**
- * The page index this fixture answers page types from, and the command code a spawned tool runs.
- *
- * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED — `page/property/registry.ts` builds
- * every page type out of `loadPages()`, which reads the index under `<AKASHA_ROOT>/.git` — so a
- * temp root carrying no index states no page type at all, and every slug a seat names resolves to
- * nothing with `no page type ... states where its files stand`. The index is built out of what git
- * TRACKS, so the planted pages are staged before it is asked for.
- *
- * THE COMMAND PAGES ARE COPIED AND THEIR CODE IS LINKED, because `tools/lib/tool-argv.ts` spells
- * a spawned tool's file under `akashaRoot()` — this temp root — and `tools/ops/akasha.ts` finds a
- * command by globbing `*.command.md` under that same root. A glob does not walk into a symlinked
- * folder, so linking `ops-cli` whole leaves `ops` holding no command and every tool a command
- * shells out to answers `Usage: ops <command>`. The pages are real files here; each
- * `*.attachment.ts` beside them is a link, so the code that runs is the live checkout's and its
- * own relative imports resolve there rather than in here.
- *
- * WHAT IS PLANTED IS COMMITTED, not merely staged. `ops write` turns a call addressing akasha into
- * a patch against HEAD, and a repository with no commit in it has no HEAD to name — the seat
- * command then reports its page `was not written` with git's `Not a valid object name HEAD`.
- *
- * CALL THIS AFTER THE LAST PAGE IS PLANTED. A page written afterwards is not in the index and does
- * not resolve; plant, then index again.
- */
 export function indexFixture(at: Fixture): void {
   installCommands(at)
   Bun.spawnSync(["git", "-C", at.root, "add", "-A"])
@@ -79,15 +55,6 @@ export function indexFixture(at: Fixture): void {
 
 const COMMANDS = "ops-cli"
 
-/**
- * The command pages a spawned `ops` finds under this temp root, their code linked to the live one.
- *
- * EXPORTED BECAUSE A TEST NEEDS THESE WITHOUT NEEDING AN INDEX. Every tool spawned against a temp
- * `AKASHA_ROOT` reaches `ops` through `tools/lib/tool-argv.ts`, and the dispatcher globs its
- * commands under that same root — so a root without these answers `Usage: ops <command>` and
- * `ops: unknown command` whatever the test was actually checking. See `indexFixture` above for why
- * the pages are copied and only their `*.attachment.ts` is linked.
- */
 export function installCommands(at: Fixture): void {
   if (existsSync(`${at.root}/${COMMANDS}`)) return
   cpSync(`${LIVE}/${COMMANDS}`, `${at.root}/${COMMANDS}`, { recursive: true })

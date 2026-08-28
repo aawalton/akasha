@@ -1,6 +1,6 @@
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { type Roots } from "../../page/page"
+import { type Roots } from "../../page/page.ts"
 import { admits, BYTE_CEILING, fresh, LINE_CEILING, parse, pointed, reach } from "../../agent/search-run.ts"
 
 const HELD = "held-directory"
@@ -13,9 +13,6 @@ beforeAll(() => {
   mkdirSync(`${root}/akasha`, { recursive: true })
   mkdirSync(`${root}/${HELD}`, { recursive: true })
   writeFileSync(`${root}/${HELD}/one.txt`, "needle\n", "utf8")
-  // A ROOT NAMED WHERE NOTHING STANDS IS THE CASE `reach` IS FOR, so `code-editor` is named here and
-  // its directory is never made. `rootsNamed` refuses exactly that shape, which is why these roots
-  // are written out rather than built through it.
   roots = { akasha: `${root}/akasha`, "code-editor": `${root}/code-editor` }
 })
 

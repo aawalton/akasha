@@ -1,7 +1,6 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readdirSync, rmSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "../../repo/roots/roots.ts"
 import { seatPageBody } from "../lib/seat-page.ts"
 import { type Said, statedNow } from "../lib/seat-stated.ts"
 import { installPages, installRepos } from "./fixture.ts"
@@ -14,14 +13,8 @@ const ROTATED = "01a03200-0000-7000-8000-000000000000"
 
 const RECORDER = "amy-interview-recorder"
 
-// WHERE A SEAT PAGE IS WRITTEN, which is `SEAT_WRITE` in `tools/lib/agent-page-place.ts`.
 const SEAT_DIR = "agent/seat"
 
-// `AKASHA_ROOT` IS THE ROOT `seatPageBody` READS. It takes `resolveRoots()` and reaches the akasha
-// root through it for the person pages and the domain page. This named `MEMORY_ROOT` at a temp
-// `seats/` directory, which nothing has read since the memory repository was absorbed: every case
-// below composed its page out of the live checkout, and the empty-directory case below asserted
-// over a directory the code never looked at.
 const stoodRoot = process.env.AKASHA_ROOT
 
 const stoodHome = process.env.HOME
@@ -34,12 +27,8 @@ beforeAll(() => {
   root = mkdtempSync("/var/tmp/seat-first-statement-root-")
   home = mkdtempSync("/var/tmp/seat-first-statement-home-")
   mkdirSync(`${root}/${SEAT_DIR}`, { recursive: true })
-  // A ROOT IS NAMED ONLY WHERE IT IS CLONED, so without this `resolveRoots` skips it and every
-  // case falls through to the live checkout again.
   Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: root })
   installRepos(root)
-  // THE PAGES EACH ASSERTION TURNS ON: the person the principal is checked against, and the page
-  // that gives the `seat` domain the address the composed page spells.
   installPages(root, ["pages/person/alan.person.md", "pages/page-type/seat.page-type.md"])
   process.env.AKASHA_ROOT = root
   process.env.HOME = home

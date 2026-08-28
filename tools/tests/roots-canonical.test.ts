@@ -1,11 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, realpathSync, rmSync, symlinkSync } from "node:fs"
-import { REPOS, resolveRoots, rootEnvName } from "../../repo/roots/roots"
+import { REPOS, resolveRoots, rootEnvName } from "../../repo/roots/roots.ts"
 
-// A REPOSITORY OTHER THAN AKASHA, so each case turns on the root being named rather than on the
-// root this test process already runs out of. `memory` stood here and is gone: it is no longer in
-// `REPOS`, so `resolveRoots` never read `MEMORY_ROOT` and the two `toBeUndefined` cases below
-// passed over nothing at all.
 const CLONED = "code-editor"
 
 const ROOT_ENV = REPOS.map(rootEnvName)

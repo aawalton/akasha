@@ -1,4 +1,3 @@
-
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { type Standing, standingOn } from "../lib/required-reading-standing.ts"
 import type { Repo } from "../../page/document/types.ts"
@@ -129,8 +128,6 @@ describe("the refusal stays actionable", () => {
     fileKeyDeclared(at)
     at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
-    // ROUTE NOT TEXT is what this holds to: the lead names the reading and the route that records
-    // it, and the `required-reading-unread` refusal names `ops read` as that one route.
     const lead = said(run("pages/persona/aria.persona.md"))
     expect(lead).toContain("`pages/persona/aria.persona.md` requires 1 document(s)")
     expect(lead).toContain("Only `ops read` lands a record there")

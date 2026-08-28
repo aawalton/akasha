@@ -2,7 +2,7 @@ import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { afterAll, describe, expect, test } from "bun:test"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 import { seatIdentityForName, seatIdentityIn } from "../lib/seat-identity.ts"
 
 const AGENT = "01a0004d-0dd4-7a23-94c1-fea622cd277a"
@@ -20,9 +20,6 @@ function git(root: string, args: readonly string[]): void {
 
 const roots: Roots[] = []
 
-// SPELLED OUT RATHER THAN IMPORTED FROM `SEAT_PLACES`, which is what the code under test reads to
-// decide where it looks. A fixture taking the directory from there would follow the code to any
-// other directory and stay green, which is the one move that would make these cases prove nothing.
 const SEAT_DIR = "agent/seat"
 
 function seatRepo(): Roots {

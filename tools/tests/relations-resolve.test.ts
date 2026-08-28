@@ -1,4 +1,3 @@
-
 import { existsSync, readFileSync } from "node:fs"
 import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { relationsResolve } from "../gates/relations-resolve.ts"
@@ -8,19 +7,6 @@ import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture, documentBody } from "./fixture.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
-/**
- * The rows that say these page types are there, and a place to write them that is not the live one.
- *
- * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED. `page/property/registry.ts` builds every
- * page type out of `loadPages()`, so a fixture carrying no index states no page type at all: the
- * gate found nothing claiming the page it was handed and skipped every case as naming no relation.
- * A row names a path and nothing more — each type's own words are read back out of the fixture
- * standing at the time — so a row cannot drift from what this file plants.
- *
- * THE INDEX FOLLOWS `AKASHA_ROOT`, so `anchorIndex` gives this file an index of its own and hands it
- * back on `discard`. It refuses the write rather than landing it on the live index where the anchor
- * did not take — see `tools/tests/index-anchor.ts` for what that cost once.
- */
 const PAGE_TYPES: readonly string[] = ["page", "team", "person", "lead"]
 
 const anchor = anchorIndex("relations-resolve")
@@ -55,8 +41,6 @@ function address(slug: string, on: string, key: string, target: string | null): 
 }
 
 beforeEach(() => {
-  // STATED FOR EVERY CASE RATHER THAN ONCE, `keep` being what puts these rows in this file's own
-  // index at all, and one small write being cheaper than reasoning about what a case left behind.
   anchor.keep(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document("pages/page-type/page.page-type.md", pageType("page", "none"))
@@ -68,9 +52,6 @@ beforeEach(() => {
   at.document("pages/page-property-definition/team-parent.page-property-definition.md", property("team-parent", "team", "parent-seq", "relation-seq", "team"))
   at.document("pages/page-property-definition/person-home.page-property-definition.md", address("person-home", "person", "home-address", null))
   at.document("pages/page-property-definition/person-post.page-property-definition.md", address("person-post", "person", "post-address", "team"))
-  // A PAGE STANDS WHERE ITS PAGE TYPE IS FILED. A type stating no `files:` is filed at
-  // `pages/<slug>/**/*.<slug>.md`, so `red.md` stood where nothing looked: `pagesOf` listed no team
-  // at all, and every relation naming one came back as a page that stands nowhere.
   at.document("pages/team/red.team.md", "page-type-slug: team\nslug: red\nseq: 7")
   at.document("pages/lead/cara.lead.md", "page-type-slug: lead\nslug: cara")
 })

@@ -19,7 +19,6 @@ const GREEN = [
 
 const RED = [" 0 pass", " 5 fail", "Ran 5 tests across 1 file. [196.00ms]"].join("\n")
 
-// Bun printed per-case failures and then no summary at all: no `Ran N tests`, no `N fail`.
 const NO_SUMMARY = Array.from({ length: 142 }, (_, i) => `(fail) case ${i + 1} [0.1ms]`).join("\n")
 
 const oneRun = (bunExitCode: number, output: string) => [{ label: "unit", bunExitCode, output }]

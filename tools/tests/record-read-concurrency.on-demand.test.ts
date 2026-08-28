@@ -1,8 +1,7 @@
-
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { exclusively } from "../../exclusive/exclusive.ts"
-import { canonicalize } from "../../repo/path/path"
+import { canonicalize } from "../../repo/path/path.ts"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/agent-hook-record-read.agent-hook.code.attachment.ts`
@@ -17,8 +16,6 @@ let at: Fixture
 
 beforeEach(() => {
   at = fixture()
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
-  // the spawned hook throws in `roots.ts` at import without them.
   installRepos(at.root)
   at.installRecorder(AGENT)
 })
@@ -39,8 +36,6 @@ function recordOne(relPath: string, call: Record<string, unknown> = {}): Promise
     stdin: Buffer.from(
       JSON.stringify({ tool_input: { file_path: `${at.root}/${relPath}`, ...call } })
     ),
-    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `MEMORY_ROOT`, naming a repository that is gone:
-    // nothing reads it, so the hook recorded against the live checkout's seat pages instead.
     env: { ...process.env, HOME: at.home, AKASHA_ROOT: at.root, AGENT_ID: AGENT },
     stdout: "pipe",
     stderr: "pipe",
@@ -131,7 +126,6 @@ function pauseFor(ms: number): void {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
 }
 
-/** `waitFor` for a caller inside a lock, which cannot await anything without releasing it. */
 function waitWhileHolding(path: string, ms: number): boolean {
   const until = Date.now() + ms
   while (Date.now() < until) {

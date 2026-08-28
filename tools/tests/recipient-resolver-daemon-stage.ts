@@ -1,4 +1,3 @@
-
 import { afterAll } from "bun:test"
 import {
   chmodSync,
@@ -19,14 +18,6 @@ const REPO = join(HERE, "..", "..")
 
 export const STAGE = mkdtempSync("/var/tmp/recipient-resolver-daemon-")
 export const FAKE_HOME = join(STAGE, "home")
-// EVERY TOP-LEVEL ENTRY BUT `tools` AND `services` IS LINKED RATHER THAN COPIED. A named list of
-// the directories the daemon reaches goes stale the moment one moves, and it did: `tools/document`
-// was absorbed, so the stage threw as it loaded and no case ran at all. Linking the tree whole
-// leaves nothing to keep in step, `node_modules` and the workspace packages included.
-//
-// `tools` IS COPIED because the stubs below overwrite files in it, and the daemon is copied
-// because bun resolves a module by its real path — reached through a link it would import the real
-// siblings this stage stands to replace, which is what the guard in `drive` refuses a verdict for.
 for (const entry of readdirSync(REPO)) {
   if (entry === "tools" || entry === "services") continue
   symlinkSync(join(REPO, entry), join(STAGE, entry))

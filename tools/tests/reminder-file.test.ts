@@ -4,9 +4,6 @@ import { reminderAt, selfRemindersOf } from "../lib/reminder-file.ts"
 
 const ROOT = "/var/tmp/reminder-file-test"
 
-// `AKASHA_ROOT` NAMES THE TEMP REPOSITORY. `reminder-file.ts` reads `akashaRoot()`, and the
-// `memory` repository the old variable named is absorbed into it, so setting `MEMORY_ROOT`
-// pointed nothing anywhere and every case below read the live checkout's own reminders.
 const STOOD = process.env.AKASHA_ROOT
 
 function reminder(recipient: string, name: string, stated: Record<string, string>): string {

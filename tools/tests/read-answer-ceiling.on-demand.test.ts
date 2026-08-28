@@ -2,7 +2,7 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { closeSync, openSync, readFileSync } from "node:fs"
 import { ANSWER_CEILING } from "../../agent/read-answer.ts"
 import { readingsOf } from "../lib/read-record.ts"
-import { canonicalize } from "../../repo/path/path"
+import { canonicalize } from "../../repo/path/path.ts"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 import { indexFixture, plantSeat } from "./seat-fixture.ts"
 import { toolArgv } from "../lib/tool-argv.ts"
@@ -44,10 +44,6 @@ beforeEach(() => {
 afterEach(() => at.dispose())
 
 function run(argv: readonly string[]): { readonly code: number; readonly out: string } {
-  // INDEXED HERE RATHER THAN IN THE HOOK, because each case plants its own pages after the hook has
-  // run and this must come after the last of them. `indexFixture` also lands the command pages the
-  // spawned `ops` dispatches from, under this temp root — without them it answers `unknown command`
-  // — and staging alone left every slug in `required-reading-slugs` carrying no page at all.
   indexFixture(at)
   const log = `${at.root}/answer.log`
   const kept: Record<string, string> = {}
@@ -59,12 +55,7 @@ function run(argv: readonly string[]): { readonly code: number; readonly out: st
   const settled: Record<string, string> = {
     ...kept,
     HOME: at.home,
-    // `AKASHA_ROOT` NAMES THE TEMP REPO, and it is the one root the child reads: left alone it
-    // would read the live checkout rather than the pages each case planted.
     AKASHA_ROOT: at.root,
-    // `CODE_ROOT` IS WHERE THE PACKAGES ARE. `codeRoot()` falls back to the akasha root, which is
-    // now this temp repo, and it carries no `node_modules` — so the child died resolving a package
-    // specifier before the reading under test happened at all.
     CODE_ROOT: LIVE,
     AGENT_ID: AGENT,
   }

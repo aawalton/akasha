@@ -1,4 +1,3 @@
-
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
@@ -41,17 +40,11 @@ interface RunOpts {
 
 function runHook(opts: RunOpts = {}): Ran {
   const home = mkdtempSync(join(tmpdir(), "rc-title-"))
-  // `AKASHA_ROOT` NAMES THE TEMP REPO, and `agent/seat` is where the seat pages are. This planted
-  // `pages/seat/<name>.md` under `MEMORY_ROOT`, which `seat_page_read.sh` has never read: it looks
-  // in `${AKASHA_ROOT}/agent/seat`, so every case here searched an empty directory and the hook
-  // no-opped rather than titling anything.
   const root = join(home, "akasha")
   try {
     if (opts.seatName !== undefined) {
       const dir = join(root, "agent", "seat")
       mkdirSync(dir, { recursive: true })
-      // A SEAT PAGE IS `<name>.seat.md`, the page type in the suffix. Naming it `<name>.md` here
-      // would be a fixture no page system writes.
       writeFileSync(
         join(dir, `${opts.seatName}.seat.md`),
         `---\npage-type-slug: seat\nid: ${AGENT}\ntitle: "${opts.seatName}"\n---\n`

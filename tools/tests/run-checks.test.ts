@@ -1,24 +1,12 @@
-
 import { describe, expect, test } from "bun:test"
 import type { CheckOutcome, RepoView, Levy } from "../lib/check.ts"
-import { anyRefused, over, type Outcome } from "../../outcome/outcome"
+import { anyRefused, over, type Outcome } from "../../outcome/outcome.ts"
 import type { Repo } from "../../page/document/types.ts"
 import { resolve } from "node:path"
 import { SUITE, runChecks, suitePassed, within } from "../run-checks.ts"
 import { report, tallyOf } from "../audits/suite-runs.ts"
 import { CEILING_MS } from "../lib/run-cost.ts"
 
-/**
- * A view for one repository, whose roots stand nowhere on purpose.
- *
- * NO CHECK LEVIED HERE READS A PATH, and roots that were real would let one reach the live tree
- * without saying so. `rootsNamed` refuses roots pointed at nothing, which is why these are written
- * out rather than built through it.
- *
- * EVERY REPOSITORY A CASE LEVIES OVER IS NAMED HERE. `runChecks` skips a levy whose repository
- * these roots do not carry, so a name that is not a key among them runs nothing at all, and the
- * case then reads as a runner that lost the levy rather than as a fixture that never offered it.
- */
 function repoViewOf(repo: Repo): RepoView {
   return {
     roots: { akasha: "/nonexistent-akasha", "code-editor": "/nonexistent-code-editor" },

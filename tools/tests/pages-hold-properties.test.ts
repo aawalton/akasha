@@ -10,17 +10,6 @@ const CLAIMED = "pages/domain/global.domain.md"
 
 const INVENTED = "not-a-property-of-anything"
 
-/**
- * A repository name no page type can claim, for the case about a repository none does.
- *
- * NAMED SO THAT NOTHING CAN CLAIM IT, rather than picked from the repositories nothing claims
- * today. This case read `stories`, then `code`, then `code-editor` — each a real repository that
- * happened to be unclaimed when it was written, so each went stale the moment a page type stated
- * `files: <that repo>:…`. `stories` did, on 2026-08-17, and the case began failing with `ENOENT`
- * on `/nonexistent-stories` while nothing was wrong. A `files:` entry naming a repository that
- * stands nowhere under `pages/repo/` is refused, so a name that is no repository at all cannot
- * be claimed by anything, and the premise this case rests on is held by construction.
- */
 const UNCLAIMABLE = "no-such-repo"
 
 function rootsAt(akasha: string): RepoView["roots"] {

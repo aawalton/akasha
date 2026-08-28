@@ -37,12 +37,6 @@ function put(relPath: string, body: string): void {
 function run(...argv: readonly string[]): { readonly code: number; readonly said: string } {
   const done = Bun.spawnSync({
     cmd: [process.execPath, COMMAND, ...argv, "--dry-run"],
-    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO: `rename-token.ts` resolves `targetRoot(roots)`,
-    // whose default target is akasha, so a case that left this alone would run against the real
-    // checkout with only `--dry-run` keeping it from writing there.
-    //
-    // `CODE_ROOT` IS WHERE THE TYPESCRIPT IS. `installed()` looks for a language service under
-    // `codeRoot()`, and the temp repo has no `node_modules`, so it is pointed at this checkout's.
     env: { ...process.env, HOME: home, AKASHA_ROOT: root, CODE_ROOT: HERE },
     stdout: "pipe",
     stderr: "pipe",
@@ -56,8 +50,6 @@ beforeEach(() => {
   put("kept.ts", KEPT)
   put("uses.ts", USES)
   put("apart.ts", APART)
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
-  // temp repo without them makes `roots.ts` throw before the command under test says anything.
   installRepos(root)
   Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   Bun.spawnSync(["git", "add", "-A"], { cwd: root })

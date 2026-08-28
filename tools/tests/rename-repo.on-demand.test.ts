@@ -1,4 +1,3 @@
-
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { toolArgv } from "../lib/tool-argv.ts"
@@ -19,8 +18,6 @@ function commitsIn(root: string): number {
 }
 
 function storeAt(at: Fixture): void {
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
-  // the spawned `mv` throws in `roots.ts` at import without them.
   installRepos(at.root)
   at.installRecorder()
   fileKeyDeclared(at)
@@ -42,9 +39,6 @@ function storeAt(at: Fixture): void {
   ]) {
     git(at.root, args)
   }
-  // `tools/lib/tool-argv.ts` SPELLS `mv` UNDER `akashaRoot()` — this temp repo — so without the
-  // command pages here the spawn dies on a module that is not there before `mv` says anything, and
-  // `mv` reads the file kinds off the page index rather than globbing, so the index is built too.
   indexFixture(at)
 }
 
@@ -52,8 +46,6 @@ function runMv(at: Fixture, args: readonly string[]): { code: number; err: strin
   const proc = Bun.spawnSync({
     cmd: ["bun", ...toolArgv("mv.ts", args)],
     cwd: at.root,
-    // `AKASHA_ROOT` NAMES THE TEMP REPO, and it is the one root `mv` reads: left alone it would
-    // rename inside the live checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
@@ -83,9 +75,6 @@ describe("which repo a rename addresses", () => {
         "`initiatives/amy/ambient-hud.md`"
       )
       expect(commitsIn(at.root)).toBe(before + 1)
-      // ASKED OVER WHAT THE RENAME ADDRESSES. A bare `status` also answers this seat's own read
-      // record, which is uncommitted by design and is not a file this rename either moved or
-      // repointed.
       expect(git(at.root, ["status", "--porcelain", "--", "initiatives", "pages", "tools"])).toBe("")
     } finally {
       at.dispose()
