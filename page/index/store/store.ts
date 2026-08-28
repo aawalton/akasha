@@ -1,4 +1,13 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, rmdirSync, statSync } from "node:fs"
+import {
+  type Dirent,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  rmdirSync,
+  statSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
 import { exclusively } from "../../../exclusive/exclusive.ts"
@@ -20,7 +29,14 @@ import {
 } from "../entry/entry.ts"
 import type { Stated } from "../identity/identity.ts"
 import type { Relation } from "../relation/relation.ts"
-import { builtFromAt, identityFile, indexRoot, relationFileFor } from "../place/place.ts"
+import {
+  builtFromAt,
+  identityFile,
+  identityRoot,
+  indexRoot,
+  relationFileFor,
+  relationsRoot,
+} from "../place/place.ts"
 
 const KIND = "pages-index"
 
@@ -33,17 +49,26 @@ const RELATIONS = "relations.json"
 export type BuiltFrom = Readonly<Record<string, string>>
 
 /**
- * A directory whose last file has gone, taken away with it.
+ * Every directory a file's going has emptied, taken away, up to `root`.
  *
- * `rmdirSync` takes away an empty directory and nothing else, so a directory another target still
- * has a file in raises ENOTEMPTY, and one already gone raises ENOENT. Both say there is nothing
- * here to take away, which is why neither is reported.
+ * IT CLIMBS RATHER THAN TAKING ONE LEVEL. A relation tree for a file target nests as deep as
+ * ten segments, so taking away only the directory the file sat in leaves every parent above it
+ * standing empty for good. Nothing showed that while a rebuild removed the whole root each
+ * time: the leak was swept up before anyone could count it.
+ *
+ * `rmdirSync` takes away an empty directory and nothing else, so a directory another target
+ * still has a file in raises ENOTEMPTY, and one already gone raises ENOENT. Both say there is
+ * nothing more to take away here, which is why neither is reported and why the climb stops.
  */
-function pruneEmpty(dir: string): void {
-  try {
-    rmdirSync(dir)
-  } catch {
-    // It holds a file still, or it is gone already.
+function pruneUpTo(dir: string, root: string): void {
+  let at = dir
+  while (at.startsWith(`${root}/`)) {
+    try {
+      rmdirSync(at)
+    } catch {
+      return
+    }
+    at = dirname(at)
   }
 }
 
@@ -73,8 +98,8 @@ export function keepAt(relation: string, target: string, sources: readonly Sourc
   const at = relationFileFor(relation, target)
   const dir = dirname(at)
   if (sources.length === 0) {
-    if (existsSync(at)) rmSync(at)
-    pruneEmpty(dir)
+    rmSync(at, { force: true })
+    pruneUpTo(dir, relationsRoot())
     return
   }
   mkdirSync(dir, { recursive: true })
@@ -82,26 +107,20 @@ export function keepAt(relation: string, target: string, sources: readonly Sourc
 }
 
 /**
- * One relation file read, changed and written back as a single critical section.
+ * One relation file read, changed and written back.
  *
- * THE LOCK COVERS THE READ AS WELL AS THE WRITE. Reading with `sourcesAt` and writing with
- * `keepAt` is a read-modify-write, and two landings running it over one file at once each wrote
- * back what it had read before the other's entry was there, so one entry went with nothing saying
- * so. A lock inside `keepAt` alone would not have caught it: the file is read before that call.
- *
- * IT IS HELD ON THE DIRECTORY RATHER THAN THE FILE, because `keepAt` takes an emptied directory
- * away, and a lock standing inside that directory is exactly what would keep it there.
+ * NO LOCK OF ITS OWN. Reading with `sourcesAt` and writing with `keepAt` is a read-modify-write,
+ * and it carried a lock on the file's directory back when nothing above it did. `underIndexLock`
+ * now covers the whole index for the whole of a landing and the whole of a rebuild's write, and
+ * every caller of this stands inside one. A second lock underneath would cost a directory made
+ * and taken away for every relation file a landing touches, and guard nothing not guarded above.
  */
 export function updateAt(
   relation: string,
   target: string,
   change: (sources: readonly Source[]) => readonly Source[]
 ): void {
-  const dir = dirname(relationFileFor(relation, target))
-  mkdirSync(dirname(dir), { recursive: true })
-  exclusively(dir, () => {
-    keepAt(relation, target, change(sourcesAt(relation, target)))
-  })
+  keepAt(relation, target, change(sourcesAt(relation, target)))
 }
 
 export function namedIn(file: string): readonly Named[] {
@@ -111,7 +130,8 @@ export function namedIn(file: string): readonly Named[] {
 
 export function keepNamedIn(file: string, held: readonly Named[]): void {
   if (held.length === 0) {
-    if (existsSync(file)) rmSync(file)
+    rmSync(file, { force: true })
+    pruneUpTo(dirname(file), identityRoot())
     return
   }
   const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
@@ -120,8 +140,8 @@ export function keepNamedIn(file: string, held: readonly Named[]): void {
 }
 
 /**
- * One identity file read, changed and written back as a single critical section, as `updateAt` is
- * for a relation file and for the same reason.
+ * One identity file read, changed and written back, inside `underIndexLock` as `updateAt` is
+ * and for the same reason.
  *
  * A `change` ANSWERING NULL LEAVES THE FILE WHERE IT IS. Most landings re-state handles the file
  * already holds, and rewriting every one of those would be a write per landed page for no
@@ -131,13 +151,9 @@ export function updateNamedIn(
   file: string,
   change: (held: readonly Named[]) => readonly Named[] | null
 ): void {
-  const dir = dirname(file)
-  mkdirSync(dirname(dir), { recursive: true })
-  exclusively(dir, () => {
-    const made = change(namedIn(file))
-    if (made === null) return
-    keepNamedIn(file, made)
-  })
+  const made = change(namedIn(file))
+  if (made === null) return
+  keepNamedIn(file, made)
 }
 
 export function pagesNamed(word: string, at: string): readonly Source[] {
@@ -149,12 +165,18 @@ export function pagesNamed(word: string, at: string): readonly Source[] {
   return found
 }
 
-export function markFor(root: string): string {
-  const inputs: { path: string; oid: string }[] = []
+export function pageOidsIn(root: string): ReadonlyMap<string, string> {
+  const made = new Map<string, string>()
   for (const [key, oid] of oidsUnder(root, null)) {
     if (pageNameOf(key) === null) continue
-    inputs.push({ path: key, oid })
+    made.set(key, oid)
   }
+  return made
+}
+
+export function markFor(root: string): string {
+  const inputs: { path: string; oid: string }[] = []
+  for (const [path, oid] of pageOidsIn(root)) inputs.push({ path, oid })
   return markOf(KIND, NAME, process.version, inputs)
 }
 
@@ -207,8 +229,8 @@ export function indexReaches(repo: string, root: string): boolean {
  * THE ANSWER IS HELD FOR THE LIFE OF THE PROCESS. `markFor` walks the whole repository through
  * git and costs on the order of a tenth of a second, and a read path asks this once per build
  * context, so a repeated answer would be paid for many times over in one command. The tree does
- * not move under a running command; where a command writes the index itself, `keepBuiltFrom` and
- * `emptyIndex` drop what is held.
+ * not move under a running command; where a command writes the index itself, `keepBuiltFrom`
+ * drops what is held.
  *
  * A repository the index was never built over reads as NOT fresh, which is the same answer a
  * drifted one gets and wants the same treatment: read the tree instead of the rows.
@@ -267,8 +289,8 @@ function relationsAt(): string {
  * 19:32:03 on 2026-08-27 and its row was still missing seventeen minutes later, with the
  * nearest rebuild twenty-two minutes before it — no rebuild was anywhere near.
  *
- * THE LOCK STANDS BESIDE THE INDEX ROOT RATHER THAN INSIDE IT. `emptyIndex` takes the whole
- * root away, and a lock standing inside it would go with it while its holder still ran.
+ * THE LOCK STANDS BESIDE THE INDEX ROOT RATHER THAN INSIDE IT, so that nothing rewriting the
+ * tree under that root can take away a lock whose holder is still running.
  */
 /**
  * How long a landing waits for the index before it refuses.
@@ -285,6 +307,63 @@ export function underIndexLock<T>(act: () => T): T {
   const at = indexRoot()
   mkdirSync(dirname(at), { recursive: true })
   return exclusively(at, act, INDEX_WAIT_MS)
+}
+
+function filesUnder(root: string): readonly string[] {
+  const found: string[] = []
+  const walk = (dir: string): void => {
+    let held: Dirent[]
+    try {
+      held = readdirSync(dir, { withFileTypes: true })
+    } catch {
+      return
+    }
+    for (const one of held) {
+      const at = join(dir, one.name)
+      if (one.isDirectory()) walk(at)
+      else found.push(at)
+    }
+  }
+  walk(root)
+  return found
+}
+
+/**
+ * One subtree of the index brought to exactly the files named, and no others.
+ *
+ * ONLY WHAT DIFFERS IS WRITTEN. A rebuild used to take the whole index away and lay it down
+ * again — around ten thousand files, and about two seconds in which the index did not exist at
+ * all. Almost none of those files differ from one rebuild to the next, so reading them to find
+ * out costs a fraction of writing them all, and at no instant is the index missing.
+ */
+function settleUnder(root: string, want: ReadonlyMap<string, string>): void {
+  const emptied = new Set<string>()
+  for (const at of filesUnder(root)) {
+    if (want.has(at)) continue
+    rmSync(at, { force: true })
+    emptied.add(dirname(at))
+  }
+  for (const [at, body] of want) {
+    if (bodyOrGone(at) === body) continue
+    mkdirSync(dirname(at), { recursive: true })
+    writeWhole(at, body)
+  }
+  for (const dir of emptied) pruneUpTo(dir, root)
+}
+
+export function settleRelationFiles(want: ReadonlyMap<string, readonly Source[]>): void {
+  const bodies = new Map<string, string>()
+  for (const [at, sources] of want) bodies.set(at, bodyOf(sources))
+  settleUnder(relationsRoot(), bodies)
+}
+
+export function settleIdentityFiles(want: ReadonlyMap<string, readonly Named[]>): void {
+  const bodies = new Map<string, string>()
+  for (const [at, held] of want) {
+    const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
+    bodies.set(at, namedBodyOf(sorted))
+  }
+  settleUnder(identityRoot(), bodies)
 }
 
 export function keepPages(stated: Iterable<Stated>): void {
@@ -332,11 +411,4 @@ export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {
   } catch {
     return new Map()
   }
-}
-
-export function emptyIndex(): void {
-  fresh.clear()
-  heldPages = null
-  const at = indexRoot()
-  if (existsSync(at)) rmSync(at, { recursive: true, force: true })
 }

@@ -7,26 +7,27 @@ import {
   type Resolve,
   type Stated,
   handlesOf,
+  heldAt,
   identityOver,
   resolveOver,
   statedOf,
 } from "./identity/identity.ts"
 import { linkTargetsFrom } from "./link/link.ts"
-import { identityFile } from "./place/place.ts"
+import { identityFile, relationFileFor } from "./place/place.ts"
 import { type Holds, type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import { trackedIn } from "../tracked/tracked.ts"
 import {
   builtFrom,
-  emptyIndex,
-  keepAt,
   keepBuiltFrom,
-  keepNamedIn,
   keepPages,
   keepRelations,
   loadPages,
   loadRelations,
   markFor,
   marksOver,
+  pageOidsIn,
+  settleIdentityFiles,
+  settleRelationFiles,
   underIndexLock,
   updateAt,
   updateNamedIn,
@@ -107,7 +108,61 @@ function holdsOver(roots: Roots): Holds {
   return (repo, key) => held.get(repo)?.has(key) ?? false
 }
 
+function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>> {
+  const made = new Map<string, ReadonlyMap<string, string>>()
+  for (const [repo, root] of Object.entries(roots)) {
+    if (root === undefined) continue
+    made.set(repo, pageOidsIn(root))
+  }
+  return made
+}
+
+/**
+ * The pages that moved while the walk was reading, as landings against what the walk saw.
+ *
+ * A PAGE THE WALK NEVER SAW COUNTS AS ADDED, AND ONE IT SAW THAT HAS GONE COUNTS AS REMOVED,
+ * which is what `before` and `after` standing null already mean everywhere else here.
+ */
+function missedDuring(
+  roots: Roots,
+  was: ReadonlyMap<string, ReadonlyMap<string, string>>,
+  walked: readonly Held[]
+): readonly Landed[] {
+  const seen = new Map<string, Held>()
+  for (const one of walked) seen.set(fileKey(one.repo, one.key), one)
+  const found: Landed[] = []
+  for (const [repo, root] of Object.entries(roots)) {
+    if (root === undefined) continue
+    const before = was.get(repo) ?? new Map<string, string>()
+    const now = pageOidsIn(root)
+    for (const key of new Set([...before.keys(), ...now.keys()])) {
+      if (before.get(key) === now.get(key)) continue
+      const named = pageNameOf(key)
+      if (named === null) continue
+      const had = seen.get(fileKey(repo, key)) ?? null
+      const nowHeld = now.has(key) ? heldAt(repo, root, key, named.stem, named.type) : null
+      if (had === null && nowHeld === null) continue
+      found.push({ source: { repo, key }, before: had, after: nowHeld })
+    }
+  }
+  return found
+}
+
+/**
+ * Every page in every repository read, and the index brought to what they say.
+ *
+ * THE WALK STANDS OUTSIDE THE LOCK AND THE WRITE STANDS INSIDE IT. Reading every page takes
+ * about five seconds, and holding the index against every landing for that long would spend
+ * more than a landing's whole budget.
+ *
+ * WHICH MEANS THE WALK IS OUT OF DATE BY THE TIME IT IS WRITTEN. Landings arriving during those
+ * seconds stand in the tree but not in what the walk saw, and writing the walk over them takes
+ * their rows away — which is what a refresh did, silently, about once per rebuild.
+ * `missedDuring` names them by comparing each repository's page oids either side of the walk,
+ * and they are applied on top before the lock is let go.
+ */
 export function buildOver(roots: Roots): Built {
+  const was = oidsOver(roots)
   const identity = identityOver(roots)
   const relations = relationsOver(identity.pages)
   const holds = holdsOver(roots)
@@ -133,16 +188,21 @@ export function buildOver(roots: Roots): Built {
       handles++
     }
   }
-  emptyIndex()
+  const wanted = new Map<string, readonly Source[]>()
   for (const [key, sources] of under) {
     const [relation, target] = partsOf(key)
-    keepAt(relation, target, sources)
+    wanted.set(relationFileFor(relation, target), sources)
   }
-  for (const [file, held] of buckets) keepNamedIn(file, held)
-  keepPages(stated)
-  keepRelations(relations)
-  keepBuiltFrom(marksOver(roots))
-  return { files: under.size, entries, pages: stated.length, buckets: buckets.size, handles }
+  return underIndexLock(() => {
+    settleRelationFiles(wanted)
+    settleIdentityFiles(buckets)
+    keepPages(stated)
+    keepRelations(relations)
+    const missed = missedDuring(roots, was, identity.pages)
+    if (missed.length > 0) appliedInto(stated, missed, holds)
+    keepBuiltFrom(marksOver(roots))
+    return { files: under.size, entries, pages: stated.length, buckets: buckets.size, handles }
+  })
 }
 
 export function standingHere(): Standing {
@@ -291,6 +351,29 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
  * once lose one of the two. Which pages a landing carries makes no difference: the file is
  * written whole either way, so landings that touch nothing in common still collide.
  */
+/**
+ * Landed pages applied to the rows already standing, with the index lock already held.
+ *
+ * SEPARATE FROM `landHere` BECAUSE A REBUILD APPLIES LANDINGS TOO, from inside a lock it is
+ * already holding. Taking `underIndexLock` again here would be this process waiting on a lock
+ * it holds itself, which the lock has no way to tell from another process holding it.
+ */
+function appliedInto(
+  pages: readonly Stated[],
+  landed: readonly Landed[],
+  holds: Holds
+): number {
+  const stated = restatedAll(pages, landed)
+  const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
+  let touched = 0
+  for (const one of landed) {
+    touched += updateFor(standing, one.source, one.before, one.after, holds)
+  }
+  touched += updateNamed(landed)
+  keepPages(stated)
+  return touched
+}
+
 export function landHere(landings: readonly Landing[], holds: Holds): number {
   const landed = landedOf(landings)
   if (landed.length === 0) return 0
@@ -302,15 +385,7 @@ export function landHere(landings: readonly Landing[], holds: Holds): number {
           "landing would otherwise be taken as done"
       )
     }
-    const stated = restatedAll(pages, landed)
-    const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
-    let touched = 0
-    for (const one of landed) {
-      touched += updateFor(standing, one.source, one.before, one.after, holds)
-    }
-    touched += updateNamed(landed)
-    keepPages(stated)
-    return touched
+    return appliedInto(pages, landed, holds)
   })
 }
 
