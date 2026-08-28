@@ -1,6 +1,6 @@
 "use client"
 
-import type { DragEndEvent, DragOverEvent, DragStartEvent } from "@dnd-kit/core"
+import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
   DragOverlay,
@@ -10,10 +10,11 @@ import {
   useSensors,
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
-import { arrayMove, SortableContext, useSortable } from "@dnd-kit/sortable"
+import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import { GripVertical } from "lucide-react"
-import { type ReactNode, useState } from "react"
+import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import type { PropertyDefinition } from "@shared/pages-core/types"
+import { type DropZoneInfo, findDropZone } from "./drop-zones"
 
 function SortablePropertyRow({
   id,
@@ -30,14 +31,15 @@ function SortablePropertyRow({
   return (
     <div
       ref={setNodeRef}
+      data-sortable-id={id}
       {...attributes}
       className={[
         "relative flex items-center gap-1",
         dropPosition === "before"
-          ? "before:pointer-events-none before:absolute before:top-0 before:right-0 before:left-0 before:h-0.5 before:bg-tertiary"
+          ? "before:pointer-events-none before:absolute before:top-0 before:right-0 before:left-0 before:h-0.5 before:bg-accent"
           : "",
         dropPosition === "after"
-          ? "after:pointer-events-none after:absolute after:right-0 after:bottom-0 after:left-0 after:h-0.5 after:bg-tertiary"
+          ? "after:pointer-events-none after:absolute after:right-0 after:bottom-0 after:left-0 after:h-0.5 after:bg-accent"
           : "",
       ]
         .filter((s) => s !== "")
@@ -57,6 +59,20 @@ function SortablePropertyRow({
   )
 }
 
+/**
+ * The rows of a page detail, reordered by dragging one of them.
+ *
+ * WHERE THE ROW LANDS IS MEASURED FROM THE POINTER, as it is on every other reorder surface
+ * here. This took the answer from dnd-kit's `over` instead, which is the element its own
+ * collision detection picked: with rows of unequal height, and with the drag overlay under the
+ * pointer, that element is not always the row the pointer is over, and it never says which side
+ * of that row the pointer is on — so the row landed on the wrong side of its neighbour with
+ * nothing in the interface disagreeing. `findDropZone` is the same pure helper the sidebar
+ * reorder reads, and it answers both the row and the side.
+ *
+ * NO ROW IS A NESTING TARGET here, so every item is handed to the helper as not-root, which is
+ * the case in which it never answers `nest`.
+ */
 export function SortablePropertyList({
   bodyDefs,
   onReorderDefinitions,
@@ -71,31 +87,55 @@ export function SortablePropertyList({
     useSensor(KeyboardSensor)
   )
   const [activeId, setActiveId] = useState<string | null>(null)
-  const [overId, setOverId] = useState<string | null>(null)
+  const [dropZone, setDropZone] = useState<DropZoneInfo>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
+  const activeIdRef = useRef<string | null>(null)
 
   const itemIds = bodyDefs.map((d) => d.id)
   const activeItem = activeId != null ? bodyDefs.find((d) => d.id === activeId) : null
-  const activeIndex = activeId != null ? itemIds.indexOf(activeId) : -1
-  const overIndex = overId != null ? itemIds.indexOf(overId) : -1
+
+  const updateDropZone = useCallback((pointerY: number) => {
+    if (!containerRef.current || activeIdRef.current == null) return
+    const rows = containerRef.current.querySelectorAll<HTMLElement>("[data-sortable-id]")
+    const zoneItems: Array<{ id: string; rect: { top: number; height: number }; isRoot: boolean }> =
+      []
+    for (const row of rows) {
+      const id = row.dataset.sortableId
+      if (id == null) continue
+      const rect = row.getBoundingClientRect()
+      zoneItems.push({ id, rect: { top: rect.top, height: rect.height }, isRoot: false })
+    }
+    setDropZone(findDropZone(zoneItems, pointerY, activeIdRef.current))
+  }, [])
+
+  useEffect(() => {
+    if (activeId == null) return
+    const handlePointerMove = (e: PointerEvent) => {
+      updateDropZone(e.clientY)
+    }
+    window.addEventListener("pointermove", handlePointerMove)
+    return () => window.removeEventListener("pointermove", handlePointerMove)
+  }, [activeId, updateDropZone])
 
   function handleDragStart(event: DragStartEvent) {
-    setActiveId(String(event.active.id))
-  }
-
-  function handleDragOver(event: DragOverEvent) {
-    setOverId(event.over ? String(event.over.id) : null)
+    const id = String(event.active.id)
+    activeIdRef.current = id
+    setActiveId(id)
   }
 
   function handleDragEnd(event: DragEndEvent) {
+    const zone = dropZone
+    activeIdRef.current = null
     setActiveId(null)
-    setOverId(null)
-    const { active, over } = event
-    if (!over || active.id === over.id) return
-    const oldIndex = itemIds.indexOf(String(active.id))
-    const newIndex = itemIds.indexOf(String(over.id))
-    if (oldIndex === -1 || newIndex === -1) return
-    const newOrder = arrayMove(itemIds, oldIndex, newIndex)
-    onReorderDefinitions(newOrder)
+    setDropZone(null)
+    if (zone == null || zone.position === undefined) return
+    const dragged = String(event.active.id)
+    if (dragged === zone.id) return
+    const rest = itemIds.filter((id) => id !== dragged)
+    const target = rest.indexOf(zone.id)
+    if (target === -1) return
+    rest.splice(zone.position === "after" ? target + 1 : target, 0, dragged)
+    onReorderDefinitions(rest)
   }
 
   return (
@@ -103,23 +143,16 @@ export function SortablePropertyList({
       sensors={sensors}
       modifiers={[restrictToVerticalAxis]}
       onDragStart={handleDragStart}
-      onDragOver={handleDragOver}
       onDragEnd={handleDragEnd}
     >
       <SortableContext items={itemIds}>
-        <div className="@container flex flex-col gap-2">
-          {bodyDefs.map((def, i) => (
+        <div ref={containerRef} className="@container flex flex-col gap-2">
+          {bodyDefs.map((def) => (
             <SortablePropertyRow
               key={def.id}
               id={def.id}
               isDragSource={activeId === def.id}
-              dropPosition={
-                overId === def.id && activeIndex !== -1 && overIndex !== -1 && activeIndex !== i
-                  ? activeIndex > i
-                    ? "before"
-                    : "after"
-                  : undefined
-              }
+              dropPosition={dropZone?.id === def.id ? dropZone.position : undefined}
             >
               {propertyRow(def)}
             </SortablePropertyRow>
