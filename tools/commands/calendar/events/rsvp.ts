@@ -1,7 +1,7 @@
 export const summary = "Set Alan's own response (accept/decline/tentative) on an event, as JSON"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { calendarGoogle, calendarOAuthClient } from "../../../lib/calendar-google.ts"
+import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
 import { type RsvpStatus } from "@alanwalton/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { inputError } from "../../../lib/exit.ts"
@@ -67,7 +67,7 @@ export default async function calendarEventsRsvp(args: readonly string[]): Promi
   const parsed = parseArgs(help, args)
 
   const client = await calendarOAuthClient()
-  const events = await calendarGoogle()
+  const events = await calendarEvents()
   const event = await events.rsvpEvent(client, {
     calendarId: parsed.string("--calendar"),
     eventId: parsed.requireString("--event"),

@@ -1,7 +1,7 @@
 export const summary = "Create a calendar event and print the normalized event as JSON"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { calendarGoogle, calendarOAuthClient } from "../../../lib/calendar-google.ts"
+import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
 import { type EventInput } from "@alanwalton/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
@@ -109,7 +109,7 @@ export default async function calendarEventsCreate(args: readonly string[]): Pro
   }
 
   const client = await calendarOAuthClient()
-  const events = await calendarGoogle()
+  const events = await calendarEvents()
   const event = await events.createEvent(client, input)
 
   process.stdout.write(`${JSON.stringify(event, null, 2)}\n`)
