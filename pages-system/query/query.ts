@@ -37,6 +37,7 @@ import {
   type Values,
 } from "../formula/formula.ts"
 import { type Extending, cycleAmong, familyOf } from "./expands.ts"
+import { type Ordering, ordered, orderRefused, orderingOf } from "./order.ts"
 import { type Declaring, keysRefused, narrowed } from "./keys.ts"
 import type { How, Reduction } from "./reduce.ts"
 import { answering, beyondSaid, reductionRefused, refuseQuery } from "./refuse.ts"
@@ -84,6 +85,13 @@ export type Query = {
   readonly keys?: readonly string[]
   /** The formula narrowing them, which answers a boolean. A query stating none asks for them all. */
   readonly where?: string
+  /**
+   * The key its answer is ordered by, declared a number, an instant, a date or a text. A query
+   * stating none answers its pages in the order they arrived.
+   */
+  readonly sortBy?: string
+  /** Whether that order runs from the highest value down. Stated only with a `sortBy`. */
+  readonly descending?: boolean
   /** How the key it targets is reduced. A query stating this states a `target` too. */
   readonly function?: How
   /** The key reduced, declared a number. Stated only with a `function`. */
@@ -114,6 +122,8 @@ class CheckedQuery {
 
   readonly #keys: readonly string[] | null
 
+  readonly #ordering: Ordering | null
+
   /**
    * What this query reduces, or null where it answers pages rather than a value. CARRIED IN THE OPEN
    * so a caller can tell whether asking this query for a value is a question it answers at all.
@@ -124,16 +134,19 @@ class CheckedQuery {
     pageTypes: readonly string[],
     test: CheckedFormula | null,
     keys: readonly string[] | null,
-    reduction: Reduction | null
+    reduction: Reduction | null,
+    ordering: Ordering | null
   ) {
     this.pageTypes = pageTypes
     this.#test = test
     this.#keys = keys
     this.reduction = reduction
+    this.#ordering = ordering
   }
 
   /**
-   * The pages among these the `where` holds of, in the order they arrived.
+   * The pages among these the `where` holds of, in the order the query asks for, or in the order
+   * they arrived where it asks for none.
    *
    * A `where` ANSWERING ABSENT DOES NOT HOLD. A formula reaching a key the page holds nothing under
    * answers absent rather than false, and a page that cannot be tested is not a page the test
@@ -152,7 +165,8 @@ class CheckedQuery {
             const held = runFormula(test, page.values)
             return held.kind === "boolean" && held.boolean
           })
-    return narrowed(found, this.#keys)
+    const held = narrowed(found, this.#keys)
+    return this.#ordering === null ? held : ordered(held, this.#ordering)
   }
 }
 
@@ -224,6 +238,10 @@ export const checkQuery = (
     if (refused !== null) return refuseQuery(refused)
   }
 
+  const misordered = orderRefused(query, declared)
+  if (misordered !== null) return refuseQuery(misordered)
+  const ordering = orderingOf(query, declared)
+
   const wrong = reductionRefused(query, declared)
   if (wrong !== null) return refuseQuery(wrong)
   const reduction: Reduction | null =
@@ -232,7 +250,7 @@ export const checkQuery = (
       : { how: query.function, target: query.target }
 
   const where = query.where
-  if (where === undefined) return new CheckedQuery(pageTypes, null, keys, reduction)
+  if (where === undefined) return new CheckedQuery(pageTypes, null, keys, reduction, ordering)
 
   const checked = checkFormula(where, shapeOf(declared))
   if (!checked.ok) return checked
@@ -245,7 +263,7 @@ export const checkQuery = (
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(pageTypes, checked, keys, reduction)
+  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering)
 }
 
 /**
