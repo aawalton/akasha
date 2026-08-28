@@ -6,7 +6,11 @@ import {
   sameBody,
 } from "../../../agent/read-record.ts"
 import { blobId } from "../../../repo/git/git.ts"
-import { seatWarrantsFor } from "../../../agent/required-reading/required-reading.ts"
+import {
+  seatWarrantsFor,
+  subagentWarrantsFor,
+} from "../../../agent/required-reading/required-reading.ts"
+import { seatAbove } from "../../../agent/writer.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
 import { refusalText } from "../../refusal/refusal.ts"
@@ -67,25 +71,31 @@ export const readWhatIsRequired: Check = {
     if (act.writer === null) {
       return [{ path: first, reason: refusalText("writer-unidentified", {}) }]
     }
-    const page = agentPageFor(act.writer)
-    const log = page === null ? null : readRecordFor(act.writer)
-    if (page === null || log === null) {
+    const log = readRecordFor(act.writer)
+    if (log === null) {
       return [
         { path: first, reason: refusalText("agent-page-absent", { agent: act.writer, lapsed: LAPSED }) },
       ]
     }
+    const above = seatAbove(act.writer)
+    const seat = above === null ? log.page : agentPageFor(above)
+    if (seat === null) {
+      const agent = above ?? act.writer
+      return [{ path: first, reason: refusalText("agent-page-absent", { agent, lapsed: LAPSED }) }]
+    }
     const { index, rootOf } = standingHere()
-    const body = textAt("", page.slice(1))
+    const body = textAt("", seat.slice(1))
     if (body === null) return []
+    const warranted = above === null ? seatWarrantsFor(body, index) : subagentWarrantsFor(body, index)
     const failures: CheckFailure[] = []
-    for (const one of seatWarrantsFor(body, index)) {
+    for (const one of warranted) {
       const root = rootOf(one.page.repo)
       if (root === undefined) continue
       const absolute = `${root}/${one.page.key}`
       const held = textAt(root, one.page.key)
       if (held === null) continue
       const said = refusalOver(log.reading(absolute), held, one.page.key, absolute)
-      if (said !== null) failures.push({ path: page, reason: said })
+      if (said !== null) failures.push({ path: seat, reason: said })
     }
     return failures
   },
