@@ -3,22 +3,10 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { readFileSync } from "node:fs"
-import { listDocuments } from "./lib/check.ts"
-import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import {
-  type Initiatives,
-  type Drawn,
-  type InitiativeDoc,
-  type Node,
-  workTree,
-  render,
-  walk,
-} from "./lib/work-tree.ts"
-import { pagePrefixOf } from "../page/page-types.ts"
-import { akashaRoot, isDirty } from "../repo/roots/roots"
-import { colorOfState } from "./lib/seat-turn-color.ts"
-import { seatWorkNow } from "./lib/seat-work.ts"
+import { type Drawn, type Node, workTree, render, walk } from "./lib/work-tree.ts"
+import { askedInitiatives } from "./lib/work-tree-asked.ts"
+import { drawnNow } from "./lib/work-tree-drawn.ts"
+import { akashaRoot, resolveRoots } from "../repo/roots/roots.ts"
 
 const HELP = `bun tools/work-tree.ts — print the work tree, composed from the files now
 
@@ -63,50 +51,6 @@ Exit codes:
   0  printed
 `
 
-function stem(relPath: string): string {
-  return relPath.slice(relPath.lastIndexOf("/") + 1, -".md".length)
-}
-
-function headlineOf(body: string): string | null {
-  const found = /^\[[ x]\]\s+\*\*(.+?)\*\*/m.exec(body)
-  return found === null ? null : found[1]!.trim()
-}
-
-function initiativesIn(root: string): Initiatives {
-  const initiatives: InitiativeDoc[] = []
-  for (const relPath of listDocuments(root)) {
-    if (isDirty(relPath)) continue
-    if (pagePrefixOf(relPath, "initiative") === null) continue
-    let body: string
-    try {
-      body = readFileSync(`${root}/${relPath}`, "utf8")
-    } catch {
-      continue
-    }
-    const frontmatter = parseFrontmatter(body)
-    initiatives.push({
-      slug: textField(frontmatter, "slug") ?? stem(relPath),
-      relPath,
-      parent: textField(frontmatter, "parent-slug"),
-      persona: textField(frontmatter, "persona-slug"),
-    })
-  }
-  return { initiatives }
-}
-
-function drawnNow(): Drawn {
-  const work = seatWorkNow()
-  const named = <K,>(held: ReadonlyMap<K, Parameters<typeof colorOfState>[0]>): ReadonlyMap<K, string> => {
-    const out = new Map<K, string>()
-    for (const [key, state] of held) {
-      const color = colorOfState(state)
-      if (color !== null) out.set(key, color)
-    }
-    return out
-  }
-  return { byInitiative: named(work.byInitiative) }
-}
-
 export function colorsAnswer(
   repo: string,
   drawn: Drawn,
@@ -133,7 +77,7 @@ function main(): void {
     process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
     return
   }
-  const tree = workTree(initiativesIn(repo), drawnNow())
+  const tree = workTree(askedInitiatives(resolveRoots()), drawnNow())
   if (argv.includes("--json")) {
     process.stdout.write(`${JSON.stringify({ repo, roots: tree })}\n`)
     return
