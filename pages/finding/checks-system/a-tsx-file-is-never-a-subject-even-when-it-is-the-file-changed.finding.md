@@ -37,6 +37,23 @@ that some OTHER change happened to touch the lines of — a real hazard, and `im
 is where it belongs. It does not argue that a `.tsx` file should go unjudged when it is itself the
 file being changed. The sentence asserts the population rather than defending it.
 
+THE CHECK'S OWN PAGE NAMES ONE EXCLUSION AND NOT THIS ONE. `checks-system/check/typecheck/
+typecheck.check.md` carries no population narrowed to `.ts` anywhere. Its Definition is "fails
+TypeScript that does not compile under the settings its project declares". Its Design says "A file
+belongs to the nearest `tsconfig.json` above it, whether or not that file's paths name it" and
+"Every file with no `tsconfig.json` above it belongs to the default project" — a `.tsx` file has one
+above it either way. And line 27 states an exclusion explicitly: "A `tsconfig.json` carrying another
+compiler's own key is that compiler's, and none of its files are judged here."
+
+So the page knows how to state an exclusion, states one, and says nothing about `.tsx`. A reader of
+the page who has been told which files are outside would take `.tsx` files to be inside. That
+asymmetry is where the fault sits, rather than in the code.
+
+THE PAGE ALSO INTENDS "No other route typechecks this repository". That line stands under Intent,
+which `page-body-section/domain-intent` defines as an invariant that does NOT hold yet, so it is not
+evidence that the population is complete today. It is evidence of the direction: a population this
+check silently omits is a population nothing else is meant to pick up.
+
 NOT RESOLVED HERE: the docblock says 724 and the tree holds 880 tracked `.tsx` files. The two may be
 scoped differently or the number may have aged; nothing in this finding turns on which.
 
