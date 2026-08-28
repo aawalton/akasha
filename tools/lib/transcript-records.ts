@@ -13,6 +13,7 @@ export interface ToolUse {
 export interface ToolResult {
   readonly id: string
   readonly text: string
+  readonly isError: boolean
 }
 
 export interface TranscriptRecord {
@@ -112,7 +113,7 @@ export function normalizeRecord(raw: unknown): TranscriptRecord {
       const b = asObject(block)
       if (b === null || b.type !== "tool_result") return []
       const id = typeof b.tool_use_id === "string" ? b.tool_use_id : ""
-      return [{ id, text: resultTextOf(b.content) }]
+      return [{ id, text: resultTextOf(b.content), isError: b.is_error === true }]
     })
     if (record.type === "user" && results.length === 0 && userText.trim().length > 0)
       return { ...base, kind: "prompt", text: userText }
