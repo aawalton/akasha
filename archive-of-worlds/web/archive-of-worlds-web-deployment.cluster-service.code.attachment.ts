@@ -1,8 +1,8 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { ARCHIVE_OF_WORLDS_WEB_CACHE, BUN_RUNTIME_IMAGE } from "../../../../infra/k8s-types/src/orchestrator-cache-locations"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
+import { ARCHIVE_OF_WORLDS_WEB_CACHE, BUN_RUNTIME_IMAGE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
 
 const NAMESPACE = "archive-of-worlds"
 const APP_NAME = "web"
