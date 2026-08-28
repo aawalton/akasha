@@ -66,21 +66,6 @@ export function oidsUnder(root: string, index: string | null): ReadonlyMap<strin
   return found
 }
 
-/**
- * The git blob oid of a body.
- *
- * WORKED OUT HERE RATHER THAN BY A GIT PROCESS. A landing asks this once for every page file it
- * carries, and spawning git costs about four milliseconds each against the two seconds the whole
- * landing has. A blob oid is a sha1 over `blob <length>\0` and the bytes, which is the whole of
- * what `hash-object --stdin` did with a body it was handed no path for. Checked against `git
- * hash-object` over 5,000 page files: every one the same, and the same again after the utf8 round
- * trip a body read as text has already been through.
- *
- * A CLEAN FILTER WOULD MAKE THIS DISAGREE WITH `oidsUnder`, AND THAT DISAGREEMENT REFUSES RATHER
- * THAN MISLEADS. That walk hashes by path and so passes a body through whatever `.gitattributes`
- * names, where this cannot. There is none here; if one arrived, the marks worked out from these
- * oids would stop matching and the index would read as stale rather than as fresh.
- */
 export function oidOfBody(body: Buffer): string {
   return createHash("sha1").update(`blob ${String(body.length)}\0`).update(body).digest("hex")
 }
