@@ -35,7 +35,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-tls",
         namespace: "pgbouncer",
-        secretFile: "infra/k8s/src/pgbouncer/secrets/tls-secret.sops.yaml",
+        secretFile: "infra/k8s/src/pgbouncer/tls.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
@@ -44,7 +44,7 @@ export default workflow("pgbouncer", {
       ...sopsDecryptApply({
         name: "pgbouncer-apply-auth",
         namespace: "pgbouncer",
-        secretFile: "infra/k8s/src/pgbouncer/secrets/auth-secret.sops.yaml",
+        secretFile: "infra/k8s/src/pgbouncer/auth.k8s-secret.sops.yaml",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
