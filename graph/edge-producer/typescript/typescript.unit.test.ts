@@ -29,6 +29,12 @@ const ENTRY = [
   "export const entry = [plain, panel, gone, each, door, far]",
 ].join("\n")
 
+const WRITES = [
+  'import type { Panel } from "./parts/panel"',
+  'const emitted = `import { plain } from "./plain.ts"`',
+  "export const writes = emitted as unknown as Panel",
+].join("\n")
+
 const TRACKED: Readonly<Record<string, string>> = {
   "tsconfig.json": CONFIG,
   "app/entry.tsx": ENTRY,
@@ -36,6 +42,7 @@ const TRACKED: Readonly<Record<string, string>> = {
   "app/parts/panel.tsx": "export const panel = 1\n",
   "app/parts/index.tsx": "export const each = 2\n",
   "app/parts/door.tsx": "export const door = 3\n",
+  "app/writes.ts": WRITES,
 }
 
 function repoAt(): string {
@@ -111,5 +118,11 @@ test("an alias with no file at the end of it draws no edge, rather than one to s
 test("a specifier no alias and no package claims resolves nowhere at all", () => {
   within((root) => {
     expect(basesOf(root, `${root}/app/entry.tsx`, "no-such-package/thing")).toEqual([])
+  })
+})
+
+test("a specifier written into a string draws no edge, while a type-only import draws one", () => {
+  within((root) => {
+    expect(reachedFrom(root, "app/writes.ts")).toEqual(["app/parts/panel.tsx"])
   })
 })

@@ -6,8 +6,6 @@ slug: import
 from-node:
   kind:
     - file
-  where:
-    file-extension: ts
 to-node:
   kind:
     - file

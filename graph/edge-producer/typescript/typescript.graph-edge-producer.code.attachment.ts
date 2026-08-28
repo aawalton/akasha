@@ -1,4 +1,5 @@
 import { dirname, resolve } from "node:path"
+import ts from "typescript"
 import { textAt } from "../../../page/text/text.ts"
 import { packagesFor, pathOf } from "../../../workspace-package/packages.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
@@ -18,23 +19,23 @@ const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
 
 const RELATIVE = "."
 
-const FROM = /\bfrom\s*["']([^"']+)["']/g
-
-const BARE = /^\s*import\s*["']([^"']+)["']/gm
-
-const DYNAMIC = /\bimport\s*\(\s*["']([^"']+)["']\s*\)/g
-
 const TAILS: readonly string[] = ["", ".ts", ".tsx", "/index.ts", "/index.tsx"]
 
+/**
+ * Every module specifier a file imports, read as TypeScript syntax rather than matched as text.
+ *
+ * A PATTERN OVER THE TEXT CANNOT TELL AN IMPORT FROM A STRING SHAPED LIKE ONE. Matching
+ * `from "x"` drew 50 edges the compiler reads no import for, each from a specifier inside a string
+ * or a template literal: the generators under `tools/lib/temper-addon-data/` write import lines
+ * into the files they emit, and the graph read a generator as importing what it only writes.
+ *
+ * A TYPE-ONLY IMPORT IS KEPT, which `Bun.Transpiler` erases and this must not. `cache/closure`
+ * walks these edges to mark a held answer, so a closure short of its type imports would mark an
+ * answer by less than the code that works it out.
+ */
 export function namedIn(text: string): readonly string[] {
-  const found = new Set<string>()
-  for (const pattern of [FROM, BARE, DYNAMIC]) {
-    for (const match of text.matchAll(pattern)) {
-      const one = match[1]
-      if (one !== undefined) found.add(one)
-    }
-  }
-  return [...found]
+  const said = ts.preProcessFile(text, true, true)
+  return [...new Set(said.importedFiles.map((one) => one.fileName))]
 }
 
 function refAt(ctx: BuildContext, at: string): NodeRef | null {
