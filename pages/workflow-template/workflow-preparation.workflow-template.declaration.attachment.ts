@@ -354,7 +354,7 @@ export default workflow("preparation", {
           '  flock -x -w 60 9 || { echo "ERROR: prep flock timeout (#9479)" >&2; exit 1; }',
           "  git -C /ci-storage/repo worktree prune || true",
           ...prepFetchWithSelfHeal(
-            `git -C /ci-storage/repo fetch --force "http://x-access-token:$GIT_ACCESS_TOKEN@git-transport.git.svc.cluster.local:3000/alan/code.git" ${ci.commitSha}:refs/pipelines/${ci.commitSha}`
+            `git -C /ci-storage/repo fetch --force "http://x-access-token:$GIT_ACCESS_TOKEN@git-transport.git.svc.cluster.local:3000/alan/akasha.git" ${ci.commitSha}:refs/pipelines/${ci.commitSha}`
           ),
           '  if [ -d "$WS/.git" ] || [ -f "$WS/.git" ]; then',
           `    echo "Reusing worktree (commit ${ci.commitSha})"`,
