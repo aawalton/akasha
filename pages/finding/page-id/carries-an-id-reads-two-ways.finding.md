@@ -20,6 +20,6 @@ Stated ids, sidecar half: JSON-parsed every line of every `*.jsonl` outside `nod
 
 Carried ids: asked through the page query service, a page stating nothing still answers with one. `finding` answers n=3,184 and returns `id: 2a1f48d7-6d49-5b8c-b84f-c4c9f5dfabd0` for a file stating none; `monarch-transaction` answers n=10,946 and returns `id: 37e1a51d-9966-57df-ba21-225dd1363a65` for the row at `memory:monarch/months/2021-07.transactions.jsonl#0`. Both are uuid5 rather than uuid7, which is the mark of derivation.
 
-The two readings are not equally safe. A derived id is a function of the page's path, and this document's sibling `domains/page-type-backing-file.md` states as Design that "A file-backed page's path can change without the page changing" — so under the first reading the id a page carries is not stable against the very move that Design permits. For a sidecar row the derivation is the line index, so inserting one line re-identifies every row below it.
+The two readings are not equally safe. A derived id is a function of the page's path, and `pages/domain/page-storage.domain.md:19` states as Design that "A page's path can change without the page changing" — so under the first reading the id a page carries is not stable against the very move that Design permits. For a sidecar row the derivation is the line index, so inserting one line re-identifies every row below it.
 
 I did not find any page that reads back without an id, and I did not search exhaustively for one; I sampled two types chosen because they state none.
