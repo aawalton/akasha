@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import synth, { BUILDKIT_GOMEMLIMIT_GIB, BUILDKIT_MEMORY_LIMIT_GIB } from "./synth"
+import synth, { BUILDKIT_GOMEMLIMIT_GIB, BUILDKIT_MEMORY_LIMIT_GIB } from "./buildkit.cluster-service.code.attachment"
 
 function deploymentYaml(): string {
   const entry = synth().find((e) => e.name === "deployment")
