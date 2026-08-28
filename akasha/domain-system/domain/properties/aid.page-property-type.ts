@@ -4,6 +4,7 @@ export type Aid = string
 
 export const aid = {
   id: "01a049c9-3a2c-7044-a7e7-234356b9df18",
+  pageTypeSlug: "page-property-type",
   slug: "aid",
   definition: "a ruling on one act a reader is about to take, for or against",
   extendsSlug: null,

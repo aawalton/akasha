@@ -5,6 +5,7 @@ export type DomainSlug = Slug
 
 export const domainSlug = {
   id: "01a04a08-fcf3-7003-9b33-ccbd3edd35cb",
+  pageTypeSlug: "page-property-type",
   slug: "domain-slug",
   definition: "a slug naming a domain",
   extendsSlug: null,

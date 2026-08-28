@@ -6,6 +6,7 @@ export type PartSlugs = List<DomainSlug>
 
 export const partSlugs = {
   id: "01a049cb-c488-7b90-ba0a-f6463fcda254",
+  pageTypeSlug: "page-property-type",
   slug: "part-slugs",
   definition: "the domains this one is made of, in the order they are read",
   extendsSlug: null,

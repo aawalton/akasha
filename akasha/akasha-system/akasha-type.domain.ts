@@ -2,6 +2,7 @@ import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
 export const akashaType = {
   id: "01a049e9-651c-7006-896c-2bffa71e2d0a",
+  pageTypeSlug: "domain",
   slug: "akasha-type",
   definition: "the shape a value must have",
   partSlugs: [

@@ -5,6 +5,7 @@ export type ExtendsSlug = Slug
 
 export const extendsSlug = {
   id: "01a049b9-856c-78f3-ac14-e3f86c75d104",
+  pageTypeSlug: "page-property-type",
   slug: "extends-slug",
   definition: "the type a type takes its properties from",
   extendsSlug: null,

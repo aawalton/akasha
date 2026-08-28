@@ -2,6 +2,7 @@ import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
 export const akashaFunctionalCore = {
   id: "01a049e9-651d-7004-9075-d53b697b710a",
+  pageTypeSlug: "domain",
   slug: "akasha-functional-core",
   definition: "the smallest part of the new system that can run itself",
   intent: [

@@ -2,6 +2,7 @@ import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
 export const akashaSystem = {
   id: "01a049e9-651c-7000-b6c1-0d4d87c8b4c5",
+  pageTypeSlug: "domain",
   slug: "akasha-system",
   definition: "code, data and text in a page with a type in a file",
   partSlugs: [

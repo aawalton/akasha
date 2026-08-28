@@ -17,6 +17,7 @@ export type PagePropertyType = PageType &
 
 export const pagePropertyType = {
   id: "01a049ae-fe2c-7255-b9eb-cc89c834fc2a",
+  pageTypeSlug: "page-type",
   slug: "page-property-type",
   definition: "the shape of one value a page carries",
   extendsSlug: "page-type",

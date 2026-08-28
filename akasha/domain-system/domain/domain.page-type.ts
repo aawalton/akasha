@@ -1,5 +1,6 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
+import type { ConditionalReadingSlugs } from "./properties/conditional-reading-slugs.page-property-type.ts"
 import type { Condition } from "./properties/condition.page-property-type.ts"
 import type { Definition } from "./properties/definition.page-property-type.ts"
 import type { Design } from "./properties/design.page-property-type.ts"
@@ -13,6 +14,7 @@ export type Domain = Page & {
   definition: Definition
   partSlugs?: PartSlugs
   requiredReadingSlugs?: RequiredReadingSlugs
+  conditionalReadingSlugs?: ConditionalReadingSlugs
   design?: Design
   condition?: Condition
   intent?: Intent
@@ -22,6 +24,7 @@ export type Domain = Page & {
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
+  pageTypeSlug: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",
   extendsSlug: "page",

@@ -6,6 +6,7 @@ export type Invariant = List<Statement>
 
 export const invariant = {
   id: "01a049cc-1727-7b7f-8b45-e3cde272a380",
+  pageTypeSlug: "page-property-type",
   slug: "invariant",
   definition: "what must always be true of a page",
   extendsSlug: null,

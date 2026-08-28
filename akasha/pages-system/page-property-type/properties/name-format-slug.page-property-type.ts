@@ -5,6 +5,7 @@ export type NameFormatSlug = Slug
 
 export const nameFormatSlug = {
   id: "01a049b9-856c-73f0-bea2-c3036209aa09",
+  pageTypeSlug: "page-property-type",
   slug: "name-format-slug",
   definition: "the format a text value is written in",
   extendsSlug: null,

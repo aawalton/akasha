@@ -5,6 +5,7 @@ export type OfSlug = Slug
 
 export const ofSlug = {
   id: "01a04a08-fcf3-7002-9fe1-8bba60a8d78d",
+  pageTypeSlug: "page-property-type",
   slug: "of-slug",
   definition: "the property type a list's entries are",
   extendsSlug: null,

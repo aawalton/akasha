@@ -2,6 +2,7 @@ import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
 export const akashaPageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",
+  pageTypeSlug: "domain",
   slug: "akasha-page-edge",
   definition: "a reference from one page to another",
   design: [

@@ -6,6 +6,7 @@ export type Rule = List<Directive>
 
 export const rule = {
   id: "01a049c9-3a2c-78fd-beff-2bdcf7275be9",
+  pageTypeSlug: "page-property-type",
   slug: "rule",
   definition: "a standing instruction, leaving only whether it was done",
   extendsSlug: null,

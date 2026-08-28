@@ -13,6 +13,7 @@ export type Directive = {
 
 export const directive = {
   id: "01a049c9-3a2c-763c-867a-e909667492b0",
+  pageTypeSlug: "page-property-type",
   slug: "directive",
   definition: "what a domain tells whoever reads it to do",
   extendsSlug: null,
