@@ -5,7 +5,7 @@ import { open } from "node:fs/promises"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { logFilePath, lookupApp } from "../../lib/dev-server-ops.ts"
+import { APP_NAMES, logFilePath, lookupApp } from "../../lib/dev-server-ops.ts"
 
 export const help: CommandHelp = {
   flags: [
@@ -21,7 +21,7 @@ export const help: CommandHelp = {
       argLabel: "<name>",
       valueShape: "token",
       required: true,
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     {
       name: "--tail",
