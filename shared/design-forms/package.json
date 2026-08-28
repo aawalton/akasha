@@ -5,7 +5,17 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./*": ["./src/*.ts", "./src/*.tsx"]
+    "./components/calendar": "./src/components/calendar.tsx",
+    "./components/editable-number": "./src/components/editable-number.tsx",
+    "./components/field": "./src/components/field.tsx",
+    "./components/form": "./src/components/form.tsx",
+    "./components/inline-editable-number": "./src/components/inline-editable-number.tsx",
+    "./components/inline-editable-text": "./src/components/inline-editable-text.tsx",
+    "./components/input-group": "./src/components/input-group.tsx",
+    "./components/input-otp": "./src/components/input-otp.tsx",
+    "./components/multi-select": "./src/components/multi-select.tsx",
+    "./components/search-multi-select": "./src/components/search-multi-select.tsx",
+    "./*": "./src/*.ts"
   },
   "peerDependencies": {
     "react": "^18 || ^19",

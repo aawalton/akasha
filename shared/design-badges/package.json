@@ -5,7 +5,21 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./*": ["./src/*.ts", "./src/*.tsx"]
+    "./components/badge": "./src/components/badge.tsx",
+    "./components/badge-layout-context": "./src/components/badge-layout-context.tsx",
+    "./components/badge-toggle-group": "./src/components/badge-toggle-group.tsx",
+    "./components/button-badge": "./src/components/button-badge.tsx",
+    "./components/checkbox-badge": "./src/components/checkbox-badge.tsx",
+    "./components/date-badge": "./src/components/date-badge.tsx",
+    "./components/empty-badge": "./src/components/empty-badge.tsx",
+    "./components/input-badge": "./src/components/input-badge.tsx",
+    "./components/instant-badge": "./src/components/instant-badge.tsx",
+    "./components/json-badge": "./src/components/json-badge.tsx",
+    "./components/link-badge": "./src/components/link-badge.tsx",
+    "./components/number-badge": "./src/components/number-badge.tsx",
+    "./components/time-badge": "./src/components/time-badge.tsx",
+    "./components/url-badge": "./src/components/url-badge.tsx",
+    "./*": "./src/*.ts"
   },
   "peerDependencies": {
     "react": "^18 || ^19",
