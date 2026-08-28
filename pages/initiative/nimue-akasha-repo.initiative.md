@@ -21,6 +21,8 @@ Kept on the remote means the transport keeps creating and mirroring them. Removi
 
 References under `pages/finding/` are out of scope. A page whose whole subject is a retired repository is deleted rather than corrected.
 
+No workflow template is live, so the group is deleted rather than repointed. Repointing the addresses one instrument can see, while the rest go on naming a retired repository, leaves a half-migrated dispatch surface nothing can report as wrong.
+
 ## The meter
 
 ```
