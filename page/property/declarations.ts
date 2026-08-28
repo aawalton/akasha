@@ -1,7 +1,7 @@
 import { listField, textField } from "../frontmatter.ts"
 import { slugNamed } from "../page-address.ts"
 import { computedOn } from "./computed.ts"
-import { DEFINED_ON, PROPERTY_KINDS } from "../page-types.ts"
+import { DEFINED_ON, PROPERTY_GLOBS, PROPERTY_KINDS } from "../page-types.ts"
 import { blockOf, stringAt } from "../text/text.ts"
 import { stemOf } from "../name/name.ts"
 import { TYPE } from "./value.ts"
@@ -135,7 +135,7 @@ function declaredIn(relPath: string, text: string): Declared | null {
 function declaredOver(tree: FileTree): ReadonlyMap<string, Declared> {
   const composed = tree.root === undefined || (tree.pending?.size ?? 0) > 0
   const made = new Map<string, Declared>()
-  for (const relPath of indexedPaths(tree, PROPERTY_KINDS)) {
+  for (const relPath of indexedPaths(tree, PROPERTY_KINDS, PROPERTY_GLOBS)) {
     const text = tree.open(relPath)
     if (text === null) {
       if (composed) made.set(relPath, { fault: `\`${relPath}\` is not in the repo this call would produce` })

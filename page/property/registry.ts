@@ -2,7 +2,15 @@ import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
 import { createHash } from "node:crypto"
-import { PAGE_TYPE_KINDS, type PageType, pageTypeRecord, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
+import {
+  globsIn,
+  PAGE_TYPE_GLOBS,
+  PAGE_TYPE_KINDS,
+  type PageType,
+  pageTypeRecord,
+  pageTypeStatedAt,
+  type StatedPageType,
+} from "../page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { builtFrom, loadPages } from "../index/store/store.ts"
 
@@ -53,27 +61,33 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
 }
 
 /**
- * Every page of these kinds this tree holds: what the index carries, and what this write changes.
+ * Every page of these kinds this tree holds: what the index carries, what the tree holds, and what
+ * this write changes.
  *
- * READ OFF THE INDEX RATHER THAN GLOBBED. The globs named `pages/page-type/` and
- * `pages/page-property-definition/` and nothing else, so the eleven page types and the fifty-seven
- * property definitions filed beside their own domains — the readout four, the graph seven — were
- * invisible. A type extending one of them broke its chain, and a property declared beside one was
- * answered as no property at all, which is a reader that could not reach the declaration saying
- * the declaration is not there.
+ * THE INDEX AND THE TREE BOTH, BECAUSE NEITHER COVERS THE OTHER. The index reaches a page filed
+ * beside its own domain, which no folder glob names — the readout four, the graph seven — and a
+ * type extending one of them broke its chain when only the globs were read. The tree reaches a page
+ * standing in a repository the index was not built over, which is every fixture repo: the index is
+ * read under the root `AKASHA_ROOT` names and never a temp one, so a page type invented in a fixture
+ * was no page type at all, `whereFor` found no type, and `writePage` answered null having written
+ * nothing and said nothing.
  *
  * THE PENDING PATHS ARE UNIONED IN, because the index answers for what has landed and a gate judges
  * what has not. A path this write takes away wants no subtracting: the caller opens each one
  * against the proposed tree, which answers null for a page that is going.
  */
-export function indexedPaths(tree: FileTree, kinds: ReadonlySet<string>): readonly string[] {
+export function indexedPaths(
+  tree: FileTree,
+  kinds: ReadonlySet<string>,
+  globs: readonly string[]
+): readonly string[] {
   const found = new Set<string>()
   for (const one of loadPages()) {
     if (!kinds.has(one.type)) continue
     if (tree.roots !== undefined && tree.roots[one.repo] === undefined) continue
     found.add(one.key)
   }
-  for (const relPath of tree.pending ?? []) {
+  for (const relPath of [...tree.paths(globsIn(tree.roots, globs)), ...(tree.pending ?? [])]) {
     const kind = pageTypeOf(relPath)
     if (kind !== null && kinds.has(kind)) found.add(relPath)
   }
@@ -81,7 +95,7 @@ export function indexedPaths(tree: FileTree, kinds: ReadonlySet<string>): readon
 }
 
 function pageTypePaths(tree: FileTree): readonly string[] {
-  return indexedPaths(tree, PAGE_TYPE_KINDS)
+  return indexedPaths(tree, PAGE_TYPE_KINDS, PAGE_TYPE_GLOBS)
 }
 
 function statedRegistry(tree: FileTree): readonly StatedPageType[] {
