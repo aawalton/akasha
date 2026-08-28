@@ -81,13 +81,22 @@ mock.module("@shared/pages-access/upsert", () => ({
   upsertPages: unreached("upsertPages"),
 }))
 
+// THESE SEVEN ARE THE REAL ONES ON PURPOSE, AND THE REST MUST NEVER BE. `mock.module` registers
+// per process rather than per file, so this mock is also what `import-inventory.unit.test.ts`
+// sees, and its subject reaches the real `askPage` in `@shared/pages-query/ask`, which imports
+// `pageQueryOrigin` and `readFromPageQueryService` from this very module. That test installs its
+// own `globalThis.fetch`, so those two answer off its stub rather than the network. Every other
+// key here is a thrower naming itself: the page query service is deleted, and a key left bound
+// to the real function would dial an origin with nothing behind it from inside a test run.
+const realPagesQuery = await import("@shared/pages-query")
+
 mock.module("@shared/pages-query", () => ({
-  ASK_CEILING_MS: unreached("ASK_CEILING_MS"),
+  ASK_CEILING_MS: realPagesQuery.ASK_CEILING_MS,
   askNamed: unreached("askNamed"),
   askTaking: unreached("askTaking"),
-  PAGE_QUERY_BROWSER_PREFIX: unreached("PAGE_QUERY_BROWSER_PREFIX"),
-  PAGE_QUERY_ORIGIN: unreached("PAGE_QUERY_ORIGIN"),
-  pageQueryOrigin: unreached("pageQueryOrigin"),
+  PAGE_QUERY_BROWSER_PREFIX: realPagesQuery.PAGE_QUERY_BROWSER_PREFIX,
+  PAGE_QUERY_ORIGIN: realPagesQuery.PAGE_QUERY_ORIGIN,
+  pageQueryOrigin: realPagesQuery.pageQueryOrigin,
   patchPage: async (pageType: string, name: string, values: unknown) => {
     calls.push({ fn: "query.patchPage", args: { pageType, name, values } })
     return { ok: true as const, at: `${pageType}/${name}` }
@@ -96,11 +105,11 @@ mock.module("@shared/pages-query", () => ({
   patchRow: unreached("patchRow"),
   patchRows: unreached("patchRows"),
   patchState: unreached("patchState"),
-  readFromPageQueryService: unreached("readFromPageQueryService"),
-  refusalIn: unreached("refusalIn"),
+  readFromPageQueryService: realPagesQuery.readFromPageQueryService,
+  refusalIn: realPagesQuery.refusalIn,
   removePage: unreached("removePage"),
   removeRow: unreached("removeRow"),
-  WRITE_CEILING_MS: unreached("WRITE_CEILING_MS"),
+  WRITE_CEILING_MS: realPagesQuery.WRITE_CEILING_MS,
   writePage: unreached("writePage"),
   writeRow: async (pageType: string, parentName: string, values: unknown) => {
     calls.push({ fn: "query.writeRow", args: { pageType, parentName, values } })
