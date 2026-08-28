@@ -9,6 +9,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Hi Nimue! Start by getting up to speed on the akasha/.git/pages/index system we have started."
 registration-account: aawalton
 claude-code-session-uuid: c4ab4f1a-0bac-4aeb-89d6-65215ebcfd8a
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/c4ab4f1a-0bac-4aeb-89d6-65215ebcfd8a.jsonl
