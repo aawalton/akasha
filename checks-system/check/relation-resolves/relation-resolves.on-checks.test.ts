@@ -18,37 +18,55 @@ const BROKEN = "relation-resolves-broken"
 
 const SIBLING = "relation-resolves-sibling"
 
-const GOING_AT = `agent/seat/${GOING}.seat.md`
+const HERE = "relation-resolves-here"
 
-const KEPT_AT = `agent/seat/${KEPT}.seat.md`
+const GOING_AT = `alan/persona/${GOING}.persona.md`
 
-const BROKEN_AT = `agent/seat/${BROKEN}.seat.md`
+const KEPT_AT = `alan/persona/${KEPT}.persona.md`
 
-const NAMER_AT = "agent/seat/relation-resolves-namer.seat.md"
+const BROKEN_AT = `alan/persona/${BROKEN}.persona.md`
 
-const MADE_AT = "agent/seat/relation-resolves-made.seat.md"
+const MOVED_AT = `alan/persona/moved/${GOING}.persona.md`
 
-const MOVED_AT = `agent/seat/moved/${GOING}.seat.md`
+const SIBLING_AT = `pages/role/${SIBLING}.role.md`
 
-const SIBLING_AT = `agent/subagent/${SIBLING}.subagent.md`
+const NAMER_AT = "pages/domain/relation-resolves-namer.domain.md"
+
+const MADE_AT = "pages/domain/relation-resolves-made.domain.md"
+
+const HERE_AT = `pages/domain/${HERE}.domain.md`
+
+const SEAT_GOING_AT = `agent/seat/${GOING}.seat.md`
+
+const SEAT_NAMER_AT = "agent/seat/relation-resolves-namer.seat.md"
+
+const SEAT_MADE_AT = "agent/seat/relation-resolves-made.seat.md"
+
+const CHAMPION = "persona-champion-slug"
+
+const PARENT = "domain-parent-slug"
 
 const CREATOR = "creator-name"
 
 const PRINCIPAL = "principal-seat-name"
 
+function domain(...keys: readonly string[]): string {
+  return `---\n${["page-type-slug: domain", ...keys].join("\n")}\n---\n`
+}
+
+function persona(...keys: readonly string[]): string {
+  return `---\n${["page-type-slug: persona", ...keys].join("\n")}\n---\n`
+}
+
 function seat(...keys: readonly string[]): string {
   return `---\n${["page-type-slug: seat", ...keys].join("\n")}\n---\n`
 }
 
-const UNREADABLE = "---\npage-type-slug: seat\nthis line is neither a key nor a list item\n---\n"
+const UNREADABLE = "---\npage-type-slug: persona\nthis line is neither a key nor a list item\n---\n"
 
-const SUBAGENT = "---\npage-type-slug: subagent\n---\n"
+const ROLE_PAGE = "---\npage-type-slug: role\n---\n"
 
-const HERE = "relation-resolves-here"
-
-const HERE_AT = `alan/domain/${HERE}.domain.md`
-
-const DOMAIN_PAGE = `---\npage-type-slug: domain\nslug: ${HERE}\n---\n`
+const HERE_PAGE = domain(`slug: ${HERE}`)
 
 const RELATIONS = join(
   execFileSync("git", ["-C", akashaRoot(), "rev-parse", "--absolute-git-dir"], { encoding: "utf8" }).trim(),
@@ -69,15 +87,20 @@ type Ruling = { readonly root: string; readonly failures: readonly CheckFailure[
  * The `page-type` pages the fixture pages themselves are of.
  *
  * A page states `page-type-slug` as a relation onto the `page-type` page carrying that slug, so a
- * fixture tree holding only seats and domains leaves every one of them naming a page that is not
- * there. These stand so that relation resolves here as it does in the tree, leaving each case to
- * turn on the relation it is about.
+ * fixture tree holding only its own pages leaves every one of them naming a page that is not there.
+ * These stand so that relation resolves here as it does in the tree, leaving each case to turn on
+ * the relation it is about.
+ *
+ * THE PAGES A CASE EXPECTS REFUSED ARE DOMAINS AND PERSONAS. A relation with a mortal page at either
+ * end is not judged, and `seat` is a mortal page type, so a case that turns on a refusal takes page
+ * types nothing deletes. The seat pages stand only in the cases about mortality itself.
  */
 const PAGE_TYPES: World = {
   "pages/page-type/page-type.page-type.md": pageTypePage("page-type"),
-  "pages/page-type/seat.page-type.md": pageTypePage("seat"),
-  "pages/page-type/subagent.page-type.md": pageTypePage("subagent"),
   "pages/page-type/domain.page-type.md": pageTypePage("domain"),
+  "pages/page-type/persona.page-type.md": pageTypePage("persona"),
+  "pages/page-type/role.page-type.md": pageTypePage("role"),
+  "pages/page-type/seat.page-type.md": pageTypePage("seat"),
 }
 
 function pageTypePage(slug: string): string {
@@ -122,126 +145,136 @@ function verdict(given: World, patch: Patch, naming: readonly Naming[] = []): Ru
 
 const said = (ruling: Ruling): string => ruling.failures.map((one) => one.reason).join("\n")
 
-const namesGoing: Naming = { key: CREATOR, target: `${GOING}.seat`, at: NAMER_AT }
+const namesGoing: Naming = { key: CHAMPION, target: `${GOING}.persona`, at: NAMER_AT }
 
 test("a removal stranding a namer the index reaches is refused, naming the relation and the value", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`) }
   const ruling = verdict(world, { [GOING_AT]: null }, [namesGoing])
   expect(ruling.failures).toHaveLength(1)
   expect(ruling.failures[0]!.path).toBe(join(ruling.root, NAMER_AT))
-  expect(ruling.failures[0]!.reason).toContain(`\`${CREATOR}\` names \`${GOING}\``)
+  expect(ruling.failures[0]!.reason).toContain(`\`${CHAMPION}\` names \`${GOING}\``)
   expect(ruling.failures[0]!.reason).toContain(`\`${GOING_AT}\` is the page that carries it`)
 })
 
 test("a removal no page names is not refused, though the index reaches the page judged", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat("errand: nothing") }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain("settled: true") }
   expect(verdict(world, { [GOING_AT]: null }, [namesGoing]).failures).toEqual([])
 })
 
 test("a removal taking its only namer away in the same call is not refused", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`) }
   const patch = { [GOING_AT]: null, [NAMER_AT]: null }
   expect(verdict(world, patch, [namesGoing]).failures).toEqual([])
 })
 
 test("a removal whose namer the same call edits to stop naming it is not refused", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
-  const patch = { [GOING_AT]: null, [NAMER_AT]: seat("errand: nothing") }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`) }
+  const patch = { [GOING_AT]: null, [NAMER_AT]: domain("settled: true") }
   expect(verdict(world, patch).failures).toEqual([])
 })
 
 test("a removal whose namer the same call lands still naming it is refused, no index entry reaching it", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
-  const patch = { [GOING_AT]: null, [NAMER_AT]: seat(`${CREATOR}: ${GOING}`, "errand: nothing") }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`) }
+  const patch = { [GOING_AT]: null, [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`, "settled: true") }
   const ruling = verdict(world, patch)
   expect(ruling.failures).toHaveLength(1)
   expect(ruling.failures[0]!.path).toBe(join(ruling.root, NAMER_AT))
 })
 
 test("a page the same call creates naming the value going is refused at both ends", () => {
-  const patch = { [GOING_AT]: null, [MADE_AT]: seat(`${CREATOR}: ${GOING}`) }
-  const ruling = verdict({ [GOING_AT]: seat() }, patch)
+  const patch = { [GOING_AT]: null, [MADE_AT]: domain(`${CHAMPION}: ${GOING}`) }
+  const ruling = verdict({ [GOING_AT]: persona() }, patch)
   expect(ruling.failures).toHaveLength(2)
   expect(ruling.failures.every((one) => one.path === join(ruling.root, MADE_AT))).toBe(true)
-  expect(said(ruling)).toContain(`no \`seat\` page carries that slug`)
+  expect(said(ruling)).toContain("no `persona` page carries that slug")
   expect(said(ruling)).toContain(`\`${GOING_AT}\` is the page that carries it`)
 })
 
 test("a removal the same call repoints the relation away from is not refused", () => {
-  const world = { [GOING_AT]: seat(), [KEPT_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
-  const patch = { [GOING_AT]: null, [NAMER_AT]: seat(`${CREATOR}: ${KEPT}`) }
+  const world = {
+    [GOING_AT]: persona(),
+    [KEPT_AT]: persona(),
+    [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`),
+  }
+  const patch = { [GOING_AT]: null, [NAMER_AT]: domain(`${CHAMPION}: ${KEPT}`) }
   expect(verdict(world, patch, [namesGoing]).failures).toEqual([])
 })
 
 test("a removal whose value a page the same call creates still carries is not refused", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
-  const patch = { [GOING_AT]: null, [MOVED_AT]: seat() }
+  const world = { [GOING_AT]: persona(), [NAMER_AT]: domain(`${CHAMPION}: ${GOING}`) }
+  const patch = { [GOING_AT]: null, [MOVED_AT]: persona() }
   expect(verdict(world, patch, [namesGoing]).failures).toEqual([])
 })
 
+/**
+ * The two cases below stand on `seat` pages because `principal-seat-name` is the only relation here
+ * marked `may-be-gone`, and every page type carrying such a relation is mortal. Mortality alone
+ * would pass them, so what they hold is that the marking is still read, not that it is needed.
+ */
 test("a relation that may be gone is outside the removal end", () => {
-  const world = { [GOING_AT]: seat(), [NAMER_AT]: seat(`${PRINCIPAL}: ${GOING}`) }
-  const naming: Naming = { key: PRINCIPAL, target: `${GOING}.seat`, at: NAMER_AT }
-  expect(verdict(world, { [GOING_AT]: null }, [naming]).failures).toEqual([])
+  const world = { [SEAT_GOING_AT]: seat(), [SEAT_NAMER_AT]: seat(`${PRINCIPAL}: ${GOING}`) }
+  const naming: Naming = { key: PRINCIPAL, target: `${GOING}.seat`, at: SEAT_NAMER_AT }
+  expect(verdict(world, { [SEAT_GOING_AT]: null }, [naming]).failures).toEqual([])
 })
 
-test("a write declaring a relation naming no bearer is refused, naming the relation and the target", () => {
-  const ruling = verdict({}, { [MADE_AT]: seat(`${CREATOR}: ${ABSENT}`) })
+test("a relation that may be gone is outside the write end", () => {
+  expect(verdict({}, { [SEAT_MADE_AT]: seat(`${PRINCIPAL}: ${ABSENT}`) }).failures).toEqual([])
+})
+
+test("a relation with no mortal page at either end is refused where it names no bearer", () => {
+  const ruling = verdict({}, { [MADE_AT]: domain(`${CHAMPION}: ${ABSENT}`) })
   expect(ruling.failures).toHaveLength(1)
   expect(ruling.failures[0]!.path).toBe(join(ruling.root, MADE_AT))
-  expect(ruling.failures[0]!.reason).toContain(`\`${CREATOR}\` names \`${ABSENT}\``)
-  expect(ruling.failures[0]!.reason).toContain("no `seat` page carries that slug")
+  expect(ruling.failures[0]!.reason).toContain(`\`${CHAMPION}\` names \`${ABSENT}\``)
+  expect(ruling.failures[0]!.reason).toContain("no `persona` page carries that slug")
 })
 
 test("a write declaring a relation naming a page that stands is not refused", () => {
-  expect(verdict({ [KEPT_AT]: seat() }, { [MADE_AT]: seat(`${CREATOR}: ${KEPT}`) }).failures).toEqual([])
+  const patch = { [MADE_AT]: domain(`${CHAMPION}: ${KEPT}`) }
+  expect(verdict({ [KEPT_AT]: persona() }, patch).failures).toEqual([])
 })
 
 test("a value only a page of another page type carries does not answer the relation", () => {
-  const ruling = verdict({ [SIBLING_AT]: SUBAGENT }, { [MADE_AT]: seat(`${CREATOR}: ${SIBLING}`) })
+  const ruling = verdict({ [SIBLING_AT]: ROLE_PAGE }, { [MADE_AT]: domain(`${CHAMPION}: ${SIBLING}`) })
   expect(ruling.failures).toHaveLength(1)
-  expect(ruling.failures[0]!.reason).toContain("no `seat` page carries that slug")
+  expect(ruling.failures[0]!.reason).toContain("no `persona` page carries that slug")
 })
 
 test("an address resolves where a page of the page type it names carries the slug it states", () => {
-  const patch = { [MADE_AT]: seat(`domain-slug: domain/${HERE}`) }
-  expect(verdict({ [HERE_AT]: DOMAIN_PAGE }, patch).failures).toEqual([])
+  const patch = { [MADE_AT]: domain(`${PARENT}: domain/${HERE}`) }
+  expect(verdict({ [HERE_AT]: HERE_PAGE }, patch).failures).toEqual([])
 })
 
 test("an address is refused where the value is the bare slug, which names no page type", () => {
-  const ruling = verdict({ [HERE_AT]: DOMAIN_PAGE }, { [MADE_AT]: seat(`domain-slug: ${HERE}`) })
+  const ruling = verdict({ [HERE_AT]: HERE_PAGE }, { [MADE_AT]: domain(`${PARENT}: ${HERE}`) })
   expect(ruling.failures).toHaveLength(1)
-  expect(ruling.failures[0]!.reason).toContain(`\`domain-slug\` names \`${HERE}\``)
+  expect(ruling.failures[0]!.reason).toContain(`\`${PARENT}\` names \`${HERE}\``)
   expect(ruling.failures[0]!.reason).toContain("no page under `domain` carries that page type and slug")
 })
 
 test("two pages landing in one call resolve against each other, neither being on disk yet", () => {
-  const patch = { [MADE_AT]: seat(`${CREATOR}: ${KEPT}`), [KEPT_AT]: seat() }
+  const patch = { [MADE_AT]: domain(`${CHAMPION}: ${KEPT}`), [KEPT_AT]: persona() }
   expect(verdict({}, patch).failures).toEqual([])
 })
 
 test("the same write without its sibling is refused, so the pass is the sibling's doing", () => {
-  expect(verdict({}, { [MADE_AT]: seat(`${CREATOR}: ${KEPT}`) }).failures).toHaveLength(1)
+  expect(verdict({}, { [MADE_AT]: domain(`${CHAMPION}: ${KEPT}`) }).failures).toHaveLength(1)
 })
 
 test("a relation already standing in the text on disk is not asked again", () => {
-  const world = { [MADE_AT]: seat(`${CREATOR}: ${ABSENT}`, "errand: before") }
-  const patch = { [MADE_AT]: seat(`${CREATOR}: ${ABSENT}`, "errand: after") }
+  const world = { [MADE_AT]: domain(`${CHAMPION}: ${ABSENT}`, 'title: "before"') }
+  const patch = { [MADE_AT]: domain(`${CHAMPION}: ${ABSENT}`, 'title: "after"') }
   expect(verdict(world, patch).failures).toEqual([])
 })
 
 test("the same relation newly declared on that page is asked and refused", () => {
-  const world = { [MADE_AT]: seat("errand: before") }
-  const patch = { [MADE_AT]: seat(`${CREATOR}: ${ABSENT}`, "errand: after") }
+  const world = { [MADE_AT]: domain('title: "before"') }
+  const patch = { [MADE_AT]: domain(`${CHAMPION}: ${ABSENT}`, 'title: "after"') }
   expect(verdict(world, patch).failures).toHaveLength(1)
 })
 
-test("a relation that may be gone is outside the write end", () => {
-  expect(verdict({}, { [MADE_AT]: seat(`${PRINCIPAL}: ${ABSENT}`) }).failures).toEqual([])
-})
-
 test("a page naming nothing under any relation is not refused", () => {
-  expect(verdict({}, { [MADE_AT]: seat("errand: nothing") }).failures).toEqual([])
+  expect(verdict({}, { [MADE_AT]: domain("settled: true") }).failures).toEqual([])
 })
 
 test("a file that is no page is not judged", () => {
@@ -249,8 +282,23 @@ test("a file that is no page is not judged", () => {
 })
 
 test("a bearer whose frontmatter does not read is named as unread rather than counted absent", () => {
-  const ruling = verdict({ [BROKEN_AT]: UNREADABLE }, { [MADE_AT]: seat(`${CREATOR}: ${BROKEN}`) })
+  const ruling = verdict({ [BROKEN_AT]: UNREADABLE }, { [MADE_AT]: domain(`${CHAMPION}: ${BROKEN}`) })
   expect(ruling.failures).toHaveLength(2)
   expect(said(ruling)).toContain("could not be read")
   expect(said(ruling)).toContain(BROKEN_AT)
+})
+
+test("a relation a mortal page carries is not judged, though what it names is of no mortal type", () => {
+  expect(verdict({}, { [SEAT_MADE_AT]: seat(`persona-slug: ${ABSENT}`) }).failures).toEqual([])
+})
+
+test("a relation naming a page of a mortal page type is not judged", () => {
+  expect(verdict({}, { [MADE_AT]: domain(`${PARENT}: seat/${ABSENT}`) }).failures).toEqual([])
+  expect(verdict({}, { [MADE_AT]: domain(`${PARENT}: domain/${ABSENT}`) }).failures).toHaveLength(1)
+})
+
+test("a removal of a mortal page strands no namer, whatever the index reaches", () => {
+  const world = { [SEAT_GOING_AT]: seat(), [SEAT_NAMER_AT]: seat(`${CREATOR}: ${GOING}`) }
+  const naming: Naming = { key: CREATOR, target: `${GOING}.seat`, at: SEAT_NAMER_AT }
+  expect(verdict(world, { [SEAT_GOING_AT]: null }, [naming]).failures).toEqual([])
 })

@@ -3,6 +3,8 @@ import type { FileTree } from "../../../page/file-tree.ts"
 import { pageNameOf, stemOf } from "../../../page/name/name.ts"
 import { pageTargetOf } from "../../../page/index/place/place.ts"
 import { loadRelations, sourcesAt } from "../../../page/index/store/store.ts"
+import { mortalityIn, type Mortality } from "../../../page/mortal/mortal.ts"
+import { addressParts } from "../../../page/page-address.ts"
 import { claimant, pagesOf, placesIn, reposOf, type PageType } from "../../../page/page-types.ts"
 import { globFor } from "../../../page/glob/glob.ts"
 import { blockOf, textAt } from "../../../page/text/text.ts"
@@ -47,6 +49,19 @@ function shapeKeyOf(shape: Shape): string {
 
 function isPage(relPath: string): boolean {
   return relPath.endsWith(MARKDOWN) && !isAttachmentFile(relPath)
+}
+
+/**
+ * Whether the page a want names is of a mortal page type.
+ *
+ * NO PAGE STANDS AT THAT END TO ASK. A want is judged only where nothing carries its value, so what
+ * would have stood there is read from the value where the value says it — an address names its own
+ * page type — and from the target the property declares otherwise.
+ */
+function namesMortal(want: Want, mortal: Mortality): boolean {
+  const stated = want.relation.points === "address" ? addressParts(want.value)?.type ?? null : null
+  const named = stated ?? want.relation.target
+  return named !== null && mortal.typeNamed(named)
 }
 
 function chainsOver(defs: FileTree): Chains {
@@ -195,12 +210,18 @@ function askedIn(text: string, relPath: string, defs: FileTree, types: readonly 
 
 type Wanted = { readonly path: string; readonly want: Want }
 
-function wantedIn(batch: Batch, defs: FileTree, types: readonly PageType[]): readonly Wanted[] {
+function wantedIn(
+  batch: Batch,
+  defs: FileTree,
+  types: readonly PageType[],
+  mortal: Mortality
+): readonly Wanted[] {
   const tree = batch.tree
   const found: Wanted[] = []
   for (const path of batch.paths) {
     const relPath = path.slice(tree.root.length + 1)
     if (!isPage(relPath)) continue
+    if (mortal.pageAt(relPath)) continue
     const body = tree.at(path)
     if (body === null) continue
     const text = body.toString("utf8")
@@ -214,6 +235,7 @@ function wantedIn(batch: Batch, defs: FileTree, types: readonly PageType[]): rea
     const standing = before === null ? new Set<string>() : askedIn(before, relPath, defs, types)
     for (const want of wantsOf(relations, fm).asked) {
       if (standing.has(stated(want))) continue
+      if (namesMortal(want, mortal)) continue
       found.push({ path, want })
     }
   }
@@ -237,19 +259,20 @@ function withUnread(failures: readonly CheckFailure[], bearers: Bearers): readon
 
 function orphanedBy(batch: Batch): readonly CheckFailure[] {
   const tree = batch.tree
-  const gone = tree
-    .gone()
-    .map((path) => path.slice(tree.root.length + 1))
-    .filter((relPath) => isPage(relPath))
   const defs = treeOver(batch)
   if (defs === null) return []
   const types = registryOf(defs)
+  const mortal = mortalityIn(defs, types)
+  const gone = tree
+    .gone()
+    .map((path) => path.slice(tree.root.length + 1))
+    .filter((relPath) => isPage(relPath) && !mortal.pageAt(relPath))
   const chainFor = chainsOver(defs)
   const going =
     gone.length === 0
       ? new Map<string, string>()
       : valuesGoing(gone, tree.root, defs, types, chainFor)
-  const wanted = wantedIn(batch, defs, types)
+  const wanted = wantedIn(batch, defs, types, mortal)
   if (going.size === 0 && wanted.length === 0) return []
   const bearers = bearersFor(remainingRead(tree, types, chainFor))
   const failures: CheckFailure[] = [...unresolvedBy(wanted, bearers)]
@@ -258,6 +281,7 @@ function orphanedBy(batch: Batch): readonly CheckFailure[] {
   for (const path of [...candidates].sort()) {
     const relPath = path.slice(tree.root.length + 1)
     if (!isPage(relPath)) continue
+    if (mortal.pageAt(relPath)) continue
     const body = tree.at(path)
     if (body === null) continue
     const text = body.toString("utf8")

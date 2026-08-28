@@ -20,6 +20,8 @@ A page the change adds counts as a bearer, and a page it removes does not.
 
 A relation whose property is marked `may-be-gone` is outside this check.
 
+A relation with a mortal page at either end is not judged.
+
 Only pages in this repository are read for the relations they carry.
 
 A relation that named nothing before the change is not reported.
