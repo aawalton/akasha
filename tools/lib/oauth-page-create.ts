@@ -38,6 +38,8 @@ export function accountPageStands(account: string, root = pagesRoot()): boolean 
   return existsSync(`${root}/${accountPage(account, root)}`)
 }
 
+// An account page states the name it is addressed by. That name is the account, which is what
+// `accountPage` places the file under, so it is the file's stem.
 export function accountPageText(args: {
   readonly account: string
   readonly email: string
@@ -49,6 +51,7 @@ export function accountPageText(args: {
     `page-type-slug: ${PAGE_TYPE_SLUG}`,
     `title: "${accountTitle(args.account)}"`,
     `id: ${args.id}`,
+    `slug: ${args.account}`,
     `email: ${args.email}`,
     `alias-index: ${args.aliasIndex}`,
     "---",
