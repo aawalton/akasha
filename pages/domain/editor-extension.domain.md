@@ -16,6 +16,8 @@ The extension's files are in the akasha repository, and `code-editor/extensions/
 
 The editor supplies `vscode` at load.
 
-Every tree carrying that symlink reads one bundle, the artefact Alan runs included.
+The editor loads the TypeScript source itself, and every tree carrying that symlink loads the same files, the artefact Alan runs included.
 
-A change here reaches Alan on a bundle and a window reload, without a promote.
+Every relative import names its `.ts` extension, and no file here carries an enum, a namespace or a parameter property.
+
+A change here reaches Alan on a window reload alone.

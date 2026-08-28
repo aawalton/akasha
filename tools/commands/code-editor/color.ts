@@ -2,6 +2,7 @@ export const summary =
   "Report the color every agent surface draws from — the turn states, the palette, and what each producer answers"
 
 import { existsSync, readdirSync, readFileSync } from "node:fs"
+import type { Dirent } from "node:fs"
 import { homedir } from "node:os"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
@@ -194,14 +195,39 @@ function idsIn(at: string): readonly string[] {
 }
 
 /**
- * Whether the bundle ASKS FOR this verb, as against merely naming it.
+ * Whether the source ASKS FOR this verb, as against merely naming it.
  *
- * MATCHED WITH ITS QUOTES. A bundle names the verb it asks for as a quoted argument, and the same
+ * MATCHED WITH ITS QUOTES. The source names the verb it asks for as a quoted argument, and the same
  * name also stands inside error text that mentions a verb without ever running it. A bare substring
  * cannot tell those apart, and reported a call to a verb the editor had already stopped asking for.
  */
-function asksFor(bundle: string, one: string): boolean {
-  return [`"${one}"`, `'${one}'`, `\`${one}\``].some((quoted) => bundle.includes(quoted))
+function asksFor(source: string, one: string): boolean {
+  return [`"${one}"`, `'${one}'`, `\`${one}\``].some((quoted) => source.includes(quoted))
+}
+
+/**
+ * Every TypeScript file under the shipped extension, joined.
+ *
+ * THE EDITOR LOADS THIS SOURCE ITSELF, so the source is what the running editor calls. Nothing
+ * bundles it any more, and reading a bundle that no longer lands would report no calls at all.
+ */
+function sourceOf(at: string): string {
+  const held: string[] = []
+  const walk = (folder: string): void => {
+    let entries: readonly Dirent[]
+    try {
+      entries = readdirSync(folder, { withFileTypes: true })
+    } catch {
+      return
+    }
+    for (const entry of entries) {
+      const path = `${folder}/${entry.name}`
+      if (entry.isDirectory()) walk(path)
+      else if (entry.name.endsWith(".ts")) held.push(readFileSync(path, "utf8"))
+    }
+  }
+  walk(`${at}/extensions/ops/src`)
+  return held.join("\n")
 }
 
 /** Whether a verb's file stands in any of these checkouts, which is what the editor resolves over. */
@@ -212,13 +238,8 @@ function verbStands(one: string, roots: readonly string[]): boolean {
 function shippedIn(roots: readonly string[]): Shipped {
   const at = artefact()
   const stamp = held(`${at}/.build/promoted.json`)
-  let bundle = ""
-  try {
-    bundle = readFileSync(`${at}/extensions/ops/dist/extension.js`, "utf8")
-  } catch {
-    bundle = ""
-  }
-  const calls = CALLED.filter((one) => asksFor(bundle, one))
+  const source = sourceOf(at)
+  const calls = CALLED.filter((one) => asksFor(source, one))
   return {
     at,
     running: said(stamp, "sha"),
@@ -253,7 +274,7 @@ function shippedReadings(shipped: Shipped, states: readonly StateDrawing[]): rea
     return out
   }
   if (shipped.calls.length === 0) {
-    out.push("the running editor's bundle calls no turn-color tool at all, so no tab can take a color")
+    out.push("the running editor's source calls no turn-color tool at all, so no tab can take a color")
   }
   if (shipped.calls.length > 0 && shipped.absent.length === shipped.calls.length) {
     out.push(
