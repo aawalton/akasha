@@ -20,6 +20,6 @@ Observed on 2026-08-05. A seat running `define-principle-or-rule` over the alert
 
 Alan overruled it in one line: "we need the alert domain now, its obviously a critical system domain, though that points to a gap in the creation logic." `domains/alert.md` landed at `020c8ae3`. Nothing about the concern changed between the recommendation and the ruling — what the seat lacked was a signal the trigger does not carry.
 
-The corpus is not consistent with the trigger either. `domains/gate.md` stands as a domain with exactly one finding filed against it (`pages/finding/gate/schema-read-chain-skips-fragments.finding.md`), which is the weakest of the four signals, while alert had two findings and they were routed elsewhere by a verb that accepted the routing.
+The corpus is not consistent with the trigger either. `domains/gate.md` stands as a domain with exactly one finding filed against it (`pages/finding/old-gate/schema-read-chain-skips-fragments.finding.md`), which is the weakest of the four signals, while alert had two findings and they were routed elsewhere by a verb that accepted the routing.
 
 The failure is silent in the direction that matters. A domain drawn without need is visible — the file is there and reads thin. A domain not drawn because no signal reached the trigger leaves nothing behind: the concern is worked inside, its observations route to whatever parent will take them, and nothing reports that they landed somewhere broader than they belong.
