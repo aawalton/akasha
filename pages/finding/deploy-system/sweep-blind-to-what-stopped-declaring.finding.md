@@ -11,7 +11,7 @@ The orphaned-resources sweep is scoped by two declarations that a retired resour
 
 It lists only the namespaces in `NAMESPACE_NAMES`, and it considers only resources labelled `app.kubernetes.io/managed-by` of `deploy-script` or `bootstrap`. A cluster object outlives its declaration by losing exactly those: the namespace it was created in was never in the synthesised list, and the label it carries names the command that made it rather than a deploy. Either scoping alone is enough to hide it, and a resource that fails both is invisible twice over while the sweep reports a clean run.
 
-This is the same shape as a folder-anchored glob answering the folder question rather than the kind question, and as `kubectl get endpoints` answering "No resources found" where the truthful answer is that it no longer serves the resource kind. A guard scoped by a declaration cannot see what stopped declaring.
+This is the same shape as a folder-anchored glob answering the folder question rather than the kind question, and as `kubectl get endpoints` answering "No resources found" for a hand-written `EndpointSlice` under a selectorless `Service`, which the endpoints controller never mirrors into an `Endpoints` object. That second comparison first stood here as the shim no longer serving the resource kind, and measured 2026-08-28 that is false: `kubectl get endpoints -A` returns 44 rows beside the deprecation warning, against 44 `endpointslices`. The finding it was drawn from was taken away at `4d3c927e8` for that reason, by a second agent measuring it the same way. The comparison holds on the narrower mechanism and not on the one first written here. A guard scoped by a declaration cannot see what stopped declaring.
 
 # Evidence
 
