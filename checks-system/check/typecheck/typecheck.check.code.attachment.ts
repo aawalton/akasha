@@ -1,3 +1,4 @@
+import { spawnSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { basename, dirname, resolve } from "node:path"
 import ts from "typescript"
@@ -7,6 +8,10 @@ import type { Check, CheckFailure, Tree } from "../check-shape.ts"
 export const ABSENT = "no `typescript` with an API to drive is reachable — run `bun install` in this repository"
 
 const CONFIG = "tsconfig.json"
+
+const TYPEGEN_ROOT = ".react-router/types"
+
+const TYPEGEN_BIN = "node_modules/.bin/react-router"
 
 export const TSC_KEYS: ReadonlySet<string> = new Set([
   "extends",
@@ -66,6 +71,51 @@ function thereOf(tree: Tree, read: (path: string) => string | undefined): (path:
     if (at.includes("/node_modules/")) return existsSync(at)
     return read(at) !== undefined
   }
+}
+
+/**
+ * The directory of every deployed app, taken from the one thing that says an app is one.
+ *
+ * An app declares the directory typegen writes into as a second root, so that `./+types/<route>`
+ * resolves beside the route it belongs to. That declaration is the whole signal: no list of apps
+ * is kept here, and an app added, moved or retired is followed by the `tsconfig.json` it must
+ * carry either way.
+ */
+export function appsIn(tree: Tree, read: (path: string) => string | undefined): readonly string[] {
+  const found: string[] = []
+  for (const path of tree.paths()) {
+    if (basename(path) !== CONFIG) continue
+    const said = ts.readConfigFile(path, read)
+    if (said.error !== undefined || said.config === undefined) continue
+    const held = (said.config as { readonly compilerOptions?: { readonly rootDirs?: unknown } }).compilerOptions
+    const roots = held?.rootDirs
+    if (!Array.isArray(roots)) continue
+    if (!roots.some((one) => typeof one === "string" && one.endsWith(TYPEGEN_ROOT))) continue
+    found.push(dirname(path))
+  }
+  return found
+}
+
+/**
+ * A DEPLOYED APP RUNS TYPEGEN BEFORE THE COMPILER, so this check writes before it judges.
+ *
+ * `./+types/<route>` names a module `react-router typegen` writes into `.react-router/types`,
+ * which the app's `rootDirs` merges over the app's own directory. Nothing in this repository ran
+ * typegen ahead of the compiler, so sixty-nine routes across six apps reported `TS2307` against a
+ * module that was never missing — diagnostics with no defect behind them, which is what teaches a
+ * reader to skip the class rather than read it.
+ *
+ * WHAT IS WRITTEN LANDS ONLY UNDER `.react-router`, which each app's own `.gitignore` excludes, so
+ * it never enters `tree.paths()` and the tree being judged is untouched. That is the standing this
+ * check already gives `node_modules`: build output reached on disk rather than through the tree.
+ *
+ * A run that fails writes nothing and is not reported. The compiler then finds no route types and
+ * says so, which is the honest answer, and the one this repository gave before.
+ */
+function typegenFor(root: string, under: string): void {
+  const bin = resolve(root, TYPEGEN_BIN)
+  if (!existsSync(bin)) return
+  spawnSync(bin, ["typegen"], { cwd: under, stdio: "ignore" })
 }
 
 export function projectsIn(tree: Tree, read: (path: string) => string | undefined): readonly Project[] {
@@ -265,6 +315,12 @@ export const typecheck: Check = {
     if (typeof ts.createProgram !== "function") return [{ path: tree.root, reason: ABSENT }]
 
     const read = bodiesOf(tree)
+    // BEFORE THE CONFIGS ARE PARSED, so that a project's `include` sees the route types it names.
+    // An app none of whose files are being judged is left alone, a run costing only what it reaches.
+    for (const under of appsIn(tree, read)) {
+      if (!subjects.some((one) => one.startsWith(`${under}/`))) continue
+      typegenFor(tree.root, under)
+    }
     const projects = projectsIn(tree, read)
     const scope = reaching(tree, new Set(subjects))
     const outward = reachingOut(tree, scope)
