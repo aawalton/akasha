@@ -12,3 +12,15 @@ domain-parent-slug: domain/akasha-system
 # Condition
 
 A mechanical migration is done by a generalized akasha command.
+
+# Rules
+
+## Accrete And Ablate
+
+**Accrete the new and ablate the old.**
+
+Every complex system that works evolved incrementally from a simple system that worked.
+
+The new is not done while it has findings.
+
+The new is not done while the old exists.
