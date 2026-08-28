@@ -189,7 +189,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/k8s/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/gfs-promoter/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -234,7 +234,7 @@ function gfsPromoterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/k8s/generated/longtail-cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-gfs-promoter/seaweedfs-backup-longtail/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
