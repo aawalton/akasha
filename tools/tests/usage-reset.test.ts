@@ -1,7 +1,7 @@
 
 import { describe, expect, it } from "bun:test"
 import { hold } from "../lib/digest-harness.ts"
-import { hoursUntilReset } from "../lib/usage-reset.ts"
+import { hoursUntilReset } from "../lib/usage-derivations.ts"
 
 const NOW = 1_754_000_000_000
 
