@@ -12,6 +12,7 @@ export const CODE_DIRS: readonly string[] = [
   "checks-system/refusal",
   "during-call",
   "exclusive",
+  "missing",
   "page",
   "pages-system/page-type",
   "repo",

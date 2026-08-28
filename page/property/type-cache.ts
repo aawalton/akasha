@@ -26,6 +26,7 @@ export const CODE_AT: readonly string[] = [
   "checks-system/refusal",
   "during-call",
   "exclusive",
+  "missing",
   "page",
   "pages-system/page-type",
   "repo",
