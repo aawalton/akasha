@@ -1,7 +1,6 @@
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { deploySourceSync } from "../../tools/lib/workflow-dsl/templates/source-sync"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { deploySourceSync } from "../../tools/lib/workflow-dsl/templates/source-sync.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 export default workflow("git-transport", {
   kind: "foundation",
@@ -14,14 +13,6 @@ export default workflow("git-transport", {
       files: "infra/git-transport/generated/namespace.generated.yaml",
       serverSide: true,
     }),
-    {
-      ...sopsDecryptApply({
-        name: "git-transport-apply-secrets",
-        namespace: "git",
-        secretFile: "infra/git-transport/git-transport.k8s-secret.sops.yaml",
-      }),
-      dependsOn: ["git-transport-apply-git-namespace"],
-    },
     {
       ...kubectlApply({
         name: "git-transport-apply-pv",
@@ -47,7 +38,7 @@ export default workflow("git-transport", {
         files: "infra/git-transport/generated/deployment.generated.yaml",
         serverSide: true,
       }),
-      dependsOn: ["git-transport-apply-secrets", "git-transport-apply-pvc"],
+      dependsOn: ["git-transport-apply-pvc"],
     },
     {
       ...kubectlApply({
