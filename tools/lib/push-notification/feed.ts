@@ -1,5 +1,4 @@
-import { type Written, writeRow } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed, type Landed, rowLanding } from "../page-query-client.ts"
 import { NOTIFICATION_PAGE_TYPE_SLUG } from "./payload.ts"
 
 export const NOTIFICATION_FEED_PAGE_TYPE_SLUG = "notification-feed"
@@ -33,18 +32,10 @@ function textIn(values: Readonly<Record<string, unknown>>, key: string): string 
 }
 
 /**
- * A QUERY THAT COULD NOT BE ASKED IS NOT A PERSON WITHOUT A FEED. This answered `null` on
- * `!asked.ok`, and `writeNotification` below turns `null` into "no notification feed names the
- * person `alan`, so this push reaches nobody". With the page-query service unreachable, that is
- * what every push to Alan reported — while `pages/notification-feed/alan.notification-feed.md`
- * was on disk the whole time carrying `person-slug: alan`, so the message sent each agent hunting
- * for a page that was never missing.
- *
- * The other three asks in this file — `readNotificationsAfter`, `newestNotificationAt` and
- * `countOpenQuestions` — have always thrown `asked.why` here. This one line was the file
- * disagreeing with itself.
- *
- * `null` now means only what it says: the query ran, and named no feed.
+ * A QUERY THAT COULD NOT BE ASKED IS NOT A PERSON WITHOUT A FEED. `null` here means only what it
+ * says: the query ran, and named no feed. Every other outcome throws, because `writeNotification`
+ * below turns `null` into "no notification feed names the person `alan`, so this push reaches
+ * nobody" — which sends whoever reads it hunting for a page that is on disk and correct.
  */
 export async function feedFor(personSlug: string): Promise<string | null> {
   const asked = await askComposed({
@@ -54,7 +45,7 @@ export async function feedFor(personSlug: string): Promise<string | null> {
     limit: 1,
   })
   if (!asked.ok) throw new Error(`feedFor(\`${personSlug}\`) went unasked: ${asked.why}`)
-  return textIn(asked.answer.rows[0]?.values ?? {}, "person-slug")
+  return textIn(asked.rows[0]?.values ?? {}, "person-slug")
 }
 
 export async function writeNotification(
@@ -63,14 +54,15 @@ export async function writeNotification(
   writer: string,
   sentAt: string = new Date().toISOString(),
   id: string = crypto.randomUUID()
-): Promise<Written> {
+): Promise<Landed> {
   const feed = await feedFor(personSlug)
   if (feed === null) {
     throw new Error(
       `writeNotification: no notification feed names the person \`${personSlug}\`, so this push reaches nobody`
     )
   }
-  return writeRow(
+  return rowLanding(
+    "write-row",
     NOTIFICATION_PAGE_TYPE_SLUG,
     feed,
     {
@@ -97,7 +89,7 @@ export async function readNotificationsAfter(sentAfter: string): Promise<readonl
   })
   if (!asked.ok) throw new Error(`readNotificationsAfter: ${asked.why}`)
   const read: Notification[] = []
-  for (const row of asked.answer.rows) {
+  for (const row of asked.rows) {
     const id = textIn(row.values, "id")
     const sentAt = textIn(row.values, "sent-at")
     if (id === null || sentAt === null) continue
@@ -122,7 +114,7 @@ export async function newestNotificationAt(): Promise<string | null> {
     limit: 1,
   })
   if (!asked.ok) throw new Error(`newestNotificationAt: ${asked.why}`)
-  return textIn(asked.answer.rows[0]?.values ?? {}, "sent-at")
+  return textIn(asked.rows[0]?.values ?? {}, "sent-at")
 }
 
 export async function countOpenQuestions(): Promise<number> {
@@ -133,5 +125,5 @@ export async function countOpenQuestions(): Promise<number> {
     limit: 1,
   })
   if (!asked.ok) throw new Error(`countOpenQuestions: ${asked.why}`)
-  return asked.answer.n
+  return asked.n
 }
