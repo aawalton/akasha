@@ -18,7 +18,7 @@ const {
 } = await import("../lib/page-commit-queue.ts")
 const { readJournals, writeJournal } = await import("../lib/page-landing-journal.ts")
 const { removePage, writePage } = await import("../lib/page-write.ts")
-type Roots = import("../lib/roots.ts").Roots
+type Roots = import("../../page/page.ts").Roots
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
