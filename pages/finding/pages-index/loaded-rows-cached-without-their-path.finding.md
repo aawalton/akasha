@@ -9,9 +9,9 @@ domain-slug: domain/pages-index
 
 `loadPages` in `page/index/store/store.ts` caches the rows it read, and keys that cache on the file's modification time and size alone — not on which file it read. The path is recomputed on every call, from `indexRoot()`, so the cache can be asked about one `pages.jsonl` and answer from another whose stat happens to match.
 
-Until now the path could not move inside a process, so the key could not be wrong. `indexRoot` was made to follow `AKASHA_ROOT` at `dda0dad`, so that a test can anchor an index of its own; from that commit on, two different `pages.jsonl` files can be read by one process, and the key is the only thing standing between them.
+The path cannot move inside a process as things stand, because `indexRoot` holds the answer it worked out on the first ask, so the key cannot currently be wrong. It becomes reachable the moment `indexRoot` is made to follow `AKASHA_ROOT` — which is what `pages/finding/pages-index/fixtures-read-the-live-index-not-their-own.finding.md` records as the change wanted there. Landed once at `dda0dad` and reverted at `b392b7d`; while it stood, two different `pages.jsonl` files could be read by one process, and this key was the only thing standing between them.
 
-Nothing observed has gone wrong, and a collision needs two index files of identical size written in the same sub-millisecond tick. It is recorded because the cache's key no longer identifies what the cache holds, which is a property a reader would assume rather than check.
+Nothing observed has gone wrong, and a collision needs two index files of identical size written in the same sub-millisecond tick. It is recorded because whoever makes the index root movable inherits a cache whose key does not identify what the cache holds.
 
 # Evidence
 
