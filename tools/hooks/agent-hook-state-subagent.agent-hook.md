@@ -9,4 +9,4 @@ domain-parent-slug: page-type/agent-hook
 
 # Definition
 
-- **Agent hook state subagent** — holding a subagent's page standing for as long as the subagent is working.
+- **Agent hook state subagent** — a subagent's page, kept while it works and reported from when it goes.
