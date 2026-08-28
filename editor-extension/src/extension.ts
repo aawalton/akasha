@@ -61,8 +61,10 @@ const HOLD_MS = 60_000;
  * 18.1s and 264 git subprocesses to 0.96s and 13. It polls every thirty seconds, so what it now
  * takes of this thread is about three percent of it.
  *
- * WHAT IS LEFT OFF THIS THREAD is the work tree, which still reads through `runOps` — a
- * subprocess, so its work is off this thread whatever it costs.
+ * THE WORK TREE IS ON IT TOO, and was the last panel to come across. It spawned `ops akasha
+ * work-tree --json`, which read every document in the repository; it asks one query over
+ * `initiative` now, at 0.33s cold and 0.18s held, and nothing in this extension spawns a process
+ * to read a page any more.
  *
  * CHECKED RATHER THAN ASSUMED, on 2026-08-13. No feature's `activate.ts` imports
  * another feature's `activate.ts`, and none reads another's module state — each
