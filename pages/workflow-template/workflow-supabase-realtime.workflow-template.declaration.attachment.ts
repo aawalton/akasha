@@ -170,7 +170,7 @@ export default workflow("supabase-realtime", {
           ...checksumHashCommands({
             variable: "SECRET_HASH",
             read: `sops -d ${ci.workspace}/infra/k8s/src/supabase-realtime/realtime.k8s-secret.sops.yaml`,
-            subject: "realtime-secrets.sops.yaml",
+            subject: "realtime.k8s-secret.sops.yaml",
           }),
           `sed "s|checksum/realtime-secrets:.*|checksum/realtime-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/supabase-realtime/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n supabase-realtime -f -`,
           ...verifyRolloutCommands({
