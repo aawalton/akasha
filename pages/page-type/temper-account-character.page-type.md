@@ -19,6 +19,4 @@ domain-parent-slug: page-type/temper-account
 
 A character is named by the name shown in the game, which is unique across the account.
 
-A character's file is named for the identifier the game gives it, because a build import makes the page before any name is known.
-
 A character's build points at a revision held outside this type.
