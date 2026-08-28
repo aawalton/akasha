@@ -47,3 +47,13 @@ Two spellings of a path open the same file, so nothing fails until a comparison 
 Follow the symlink; `path.resolve` does not.
 
 Where nothing is there yet, resolve the parent.
+
+## No Class
+
+**Write a plain function; never a `class`.**
+
+A class ties state to behaviour behind a `this` the call site can change.
+
+Extend `Error` where a throw needs its own type.
+
+A class expression is a class.
