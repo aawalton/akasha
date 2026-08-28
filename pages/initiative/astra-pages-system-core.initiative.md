@@ -11,10 +11,8 @@ parent-slug: astra-pages-system
 
 - `pages-system/` answers what a caller needs of a page index, so nothing reaches `page/index/` to get it.
 - `pages-system/` answers what a caller needs of caching, so nothing reaches `tools/lib/deriver-hold.ts` to get it.
-- A page the store answers says which repository and path it came from.
-- A query over an expanded set of page types can ask for a subset of keys.
 - A page type's globs, property registry and extends chain are resolved when a caller first asks for that page type, not when a deriver is built.
-- A deriver reading rows answers something re-iterable, and holds no row it has handed back.
+- A deriver reading rows holds no row it has handed back, and `d.rows("log-line")` costs what its live set costs.
 
 # Notes
 
@@ -29,6 +27,8 @@ Opened 2026-08-28 to hold the positive half of the parent's first intent. `astra
 **Some of what looks like the index's surface is not.** `standingHere`, `staleIn` and `IDENTITY_WORDS` reach nothing anywhere; `indexRoot` and `keepPages` have no production caller outside the index; and `store.d.ts` declares `marksOver` and `emptyIndex`, which have no implementation at all. The `.d.ts` files are stale artifacts rather than the API, so a survey that reads them overstates what has to be replaced.
 
 **Indexing and caching are wholly absent from the clean core.** `page/index/` holds the index and `during-call/during-call.ts` with `tools/lib/deriver-hold.ts` holds the caching, and neither has a counterpart under `pages-system/`. Every other piece of the parent's first intent has somewhere to live; these two have nowhere.
+
+**A page's address is `<repo>:<relPath>` and a query can project keys across an expanded set.** Both landed 2026-08-28. The address is `at` itself rather than a second field: measured at 2,000,000 pages, a separate `repo` field costs about 16 bytes on every page forever, where the seven characters `akasha:` land in the same string size class as the mean path and cost nothing measurable. A page type in an expanded set that does not declare an asked key answers absent under it, so every asked key stands on every page and a caller never receives `undefined`; a key no page type declares, and a page type declaring none of the asked keys, are both refused at check time. The head's declaration is not what a family is read under — asking `slug` and `enabled` over `domain` expanded filled `enabled` on 0 pages read under the supertype and on 52 read under each page type's own declaration.
 
 **Answer Or Refuse came off nine instances, and its siting is an open question for Alan.** The rule stands on `pages/domain/pages-system.domain.md`. What found it: a landing that could not reach the index produced no output and exit 0; `writePage` returns null when it cannot place a page, so eight test failures read as broken assertions for a day; `rowAppender`'s `catch {}` makes an append that never reached disk indistinguishable from one that did; `mock.module` accepts a specifier resolving to nothing and loads the real module instead of the stub; a fixture checkout without `.git` reads as a workstation holding no seats; `rootsFor` returns an empty list where no file is claimed by its project, which flows into no program, no diagnostics, and a gate printing `none refused`; `ops write --input-file -` reads nothing, performs the `--remove` half of the same act, and reports success; a presence check on `git ls-files` exit status passes silently on a missing file, because it exits 0 when it matches nothing; and `ops finding rehome` lands a key-only write at exit 0 where it should refuse.
 
