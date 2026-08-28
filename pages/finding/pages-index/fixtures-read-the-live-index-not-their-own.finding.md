@@ -19,7 +19,11 @@ Which means the green here is order-dependent. `tools/tests/hold-seat-mode.test.
 
 Making `indexRoot` hold its answer against the root it was worked out for fixes the first and exposes the second. Measured: the 36 refusals go to 0, and 41 tests across 7 files begin failing on `scan.ts`'s refusal that the index was not built over the repository asked about — the count of that refusal over a full run going from 3 to 93. Those 41 are not new defects. They are tests that were passing by reading a repository they were not testing.
 
-The refusal is right and wants no change: a fixture carrying no index must not answer as a repository with no pages. What the two cannot both have is one process-wide index root and fixtures that each need their own. Which way that resolves — fixtures carrying an index, or fixture-backed tests not reaching the index at all — is a larger piece than the memo, and is the decision this records.
+The refusal is right and wants no change: a fixture carrying no index must not answer as a repository with no pages. What the two cannot both have is one process-wide index root and fixtures that each need their own.
+
+Keying `indexRoot` by its root and giving fixtures an index are one change rather than two. Keying it is what makes `AKASHA_ROOT` mean anything to the index; fixtures carrying an index is what makes that meaning survivable. Landed alone the first is a regression — it trades 36 honest failures for 41 different ones and moves a protected refusal thirty-fold — which is why it reads as an obvious win and is not one.
+
+The other way out, fixture-backed tests not reaching the index at all, costs more than it looks. `page/property/registry.ts:20-27` builds every page type out of `loadPages()`, so taking the index away from fixtures leaves that testable against nothing but the live repository. That is this same defect wearing a different face, which is what makes the choice narrower than a pair.
 
 # Evidence
 
