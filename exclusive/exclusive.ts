@@ -66,11 +66,20 @@ function abandoned(lock: string, file: string): boolean {
   return holder === null ? agedOut(lock) : !running(holder)
 }
 
-export function exclusively<T>(path: string, act: () => T): T {
+/**
+ * One critical section over `path`, held on a lock directory beside it.
+ *
+ * THE BUDGET IS THE CALLER'S TO SET, because what a refusal is worth depends on what is
+ * waiting to hear it. A landing runs inside an agent hook the harness kills at ten or
+ * fifteen seconds, so a lock that waits twenty never gets to speak: the hook dies first and
+ * whoever reads the output is told a hook failed rather than what actually happened. A
+ * caller standing under a deadline passes a budget shorter than it.
+ */
+export function exclusively<T>(path: string, act: () => T, waitMs: number = WAIT_MS): T {
   const lock = `${path}.lock`
   const file = `${lock}/${HOLDER}`
   const mine = `${process.pid} ${startedAt(process.pid) ?? UNKNOWN}`
-  const until = Date.now() + WAIT_MS
+  const until = Date.now() + waitMs
   for (;;) {
     let made = true
     try {
@@ -89,7 +98,8 @@ export function exclusively<T>(path: string, act: () => T): T {
     }
     if (Date.now() >= until) {
       throw new Error(
-        `${lock} did not come free and its holder is not provably gone, so nothing was written to ${path}`
+        `${lock} did not come free inside ${String(waitMs)}ms and its holder is not provably ` +
+          `gone, so nothing was written to ${path}`
       )
     }
     if (abandoned(lock, file)) {

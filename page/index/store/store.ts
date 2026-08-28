@@ -47,10 +47,26 @@ function pruneEmpty(dir: string): void {
   }
 }
 
+/**
+ * A file's body, or null where nothing stands there.
+ *
+ * THE READ SETTLES IT RATHER THAN AN `existsSync` BEFORE IT. Asking whether a file is there
+ * and then reading it are two calls, and a write that takes it away in between raises ENOENT
+ * out of a reader that had just been told it existed. Every index reader runs unlocked while
+ * writers remove files, so that gap is reachable whenever a page stops being reached at all.
+ */
+function bodyOrGone(at: string): string | null {
+  try {
+    return readFileSync(at, "utf8")
+  } catch (failed) {
+    if ((failed as NodeJS.ErrnoException).code === "ENOENT") return null
+    throw failed
+  }
+}
+
 export function sourcesAt(relation: string, target: string): readonly Source[] {
-  const at = relationFileFor(relation, target)
-  if (!existsSync(at)) return []
-  return sourcesOf(readFileSync(at, "utf8"))
+  const text = bodyOrGone(relationFileFor(relation, target))
+  return text === null ? [] : sourcesOf(text)
 }
 
 export function keepAt(relation: string, target: string, sources: readonly Source[]): void {
@@ -89,8 +105,8 @@ export function updateAt(
 }
 
 export function namedIn(file: string): readonly Named[] {
-  if (!existsSync(file)) return []
-  return namedOf(readFileSync(file, "utf8"))
+  const text = bodyOrGone(file)
+  return text === null ? [] : namedOf(text)
 }
 
 export function keepNamedIn(file: string, held: readonly Named[]): void {
@@ -254,10 +270,21 @@ function relationsAt(): string {
  * THE LOCK STANDS BESIDE THE INDEX ROOT RATHER THAN INSIDE IT. `emptyIndex` takes the whole
  * root away, and a lock standing inside it would go with it while its holder still ran.
  */
+/**
+ * How long a landing waits for the index before it refuses.
+ *
+ * SHORTER THAN THE TIGHTEST DEADLINE OVER A LANDING. `settings/agents.json` kills the errand
+ * hook at ten seconds and the subagent hooks at fifteen, and a landing runs inside those. A
+ * budget longer than they are would be spent being killed rather than refusing, and the
+ * refusal is the whole point. Measured worst case for one hold is a quarter of a second, so
+ * eight seconds is about thirty holds deep — far past anything observed.
+ */
+const INDEX_WAIT_MS = 8_000
+
 export function underIndexLock<T>(act: () => T): T {
   const at = indexRoot()
   mkdirSync(dirname(at), { recursive: true })
-  return exclusively(at, act)
+  return exclusively(at, act, INDEX_WAIT_MS)
 }
 
 export function keepPages(stated: Iterable<Stated>): void {
