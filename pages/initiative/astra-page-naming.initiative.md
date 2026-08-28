@@ -13,7 +13,6 @@ parent-slug: astra-pages-system
 - No code decides a page's name.
 - A page's name is unique among the pages of its page type.
 - `named-for` and `unique-key` no longer exist.
-- A page can live where its domain lives, or under a folder named for its page type.
 - No page lands carrying a name another page of its type already has.
 
 # Notes
