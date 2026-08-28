@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import type { FileTree } from "../../../page/file-tree.ts"
+import type { PageType } from "../../../page/page-types.ts"
 import type { CheckFailure } from "../check-shape.ts"
 import {
   type Held,
@@ -7,6 +9,7 @@ import {
   type Sources,
   underDirty,
   type Unjudged,
+  unjudgedIn,
 } from "./links-resolve.check.code.attachment.ts"
 
 const TARGET = "akasha/notes/target.md"
@@ -124,4 +127,74 @@ test("a file under a dirty folder is not judged", () => {
   expect(underDirty("akasha/notes/dirty/from.md")).toBe(true)
   expect(underDirty("akasha/notes/dirtyish/from.md")).toBe(false)
   expect(underDirty("akasha/notes/from.md")).toBe(false)
+})
+
+const ABOVE: Readonly<Record<string, string>> = {
+  page: "none",
+  chapter: "page",
+  "story-chapter": "chapter",
+  "story-chapter-read": "story-chapter",
+  "story-chapter-royal-road": "story-chapter-read",
+  "book-chapter": "chapter",
+  loop: "loop",
+}
+
+const typeAt = (slug: string): string => `pages/page-type/${slug}.page-type.md`
+
+const TEXT = new Map(
+  Object.entries(ABOVE).map(([slug, above]) => [
+    typeAt(slug),
+    `---\nslug: ${slug}\nextends-slug: ${above}\nfiles: none\n---\n\n# Definition\n\n- **${slug}** — one.\n`,
+  ])
+)
+
+const DEFS: FileTree = {
+  root: "/repos/akasha",
+  open: (relPath) => TEXT.get(relPath) ?? null,
+  paths: () => [...TEXT.keys()],
+  repoOf: () => "akasha",
+}
+
+const TYPES: readonly PageType[] = Object.entries(ABOVE).map(([slug, above]) => ({
+  slug,
+  relPath: typeAt(slug),
+  filed: [],
+  extends: above,
+  namedFor: null,
+}))
+
+const CHAPTER = "akasha/pages/story-chapter-royal-road/forge/0001-one.story-chapter-royal-road.md"
+
+const BOOK = "akasha/pages/book-chapter/all-about-alan/notes/one.book-chapter.md"
+
+const LOOPED = "akasha/pages/loop/one.loop.md"
+
+const page = (address: string, body: string): Readonly<Record<string, Held>> => ({
+  [address]: { path: `/repos/${address}`, body },
+})
+
+test("a page of a type descending from a read chapter is not judged for a link it holds", () => {
+  const staged = page(CHAPTER, "Read [more](gone.md).")
+  expect(verdict(staged, {}, NONE, () => false, unjudgedIn(DEFS, TYPES))).toEqual([])
+})
+
+test("a book chapter, descending from no read chapter, is judged for a link it holds", () => {
+  const staged = page(BOOK, "See [it](gone.md).")
+  const failures = verdict(staged, {}, NONE, () => false, unjudgedIn(DEFS, TYPES))
+  expect(failures).toHaveLength(1)
+  expect(failures[0]!.path).toBe(`/repos/${BOOK}`)
+})
+
+test("a judged page linking at a chapter that is not there is refused, that chapter's type exempt", () => {
+  const href = "../../../story-chapter-royal-road/forge/0001-one.story-chapter-royal-road.md"
+  const staged = page(BOOK, `See [it](${href}).`)
+  const failures = verdict(staged, {}, NONE, () => false, unjudgedIn(DEFS, TYPES))
+  expect(failures).toHaveLength(1)
+  expect(failures[0]!.reason).toContain("nothing stands there")
+})
+
+test("a page type extending itself is judged, its chain returning on itself rather than running on", () => {
+  const staged = page(LOOPED, "See [it](gone.md).")
+  const failures = verdict(staged, {}, NONE, () => false, unjudgedIn(DEFS, TYPES))
+  expect(failures).toHaveLength(1)
 })

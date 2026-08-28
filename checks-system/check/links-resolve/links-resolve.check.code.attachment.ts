@@ -1,3 +1,4 @@
+import type { FileTree } from "../../../page/file-tree.ts"
 import {
   collapsed,
   headingSlugs,
@@ -7,16 +8,23 @@ import {
 } from "../../../page/index/link/link.ts"
 import { sourcesAt } from "../../../page/index/store/store.ts"
 import { mortalPagesAt } from "../../../page/mortal/mortal.ts"
+import { stemOf } from "../../../page/name/name.ts"
+import { claimant, type PageType } from "../../../page/page-types.ts"
+import { chainOf } from "../../../page/property/frontmatter.ts"
+import { registryOf } from "../../../page/property/registry.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { locate, rootsHere } from "../../../repo/roots/roots.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
+import { treeOver } from "../page-holds-to-its-type/staged-tree.ts"
 
 const MARKDOWN = ".md"
 
 const JOIN = "/"
 
 const DIRTY_DIR = /(^|\/)dirty\//
+
+const FROM_ELSEWHERE = "story-chapter-read"
 
 export type Held = {
   readonly path: string
@@ -54,6 +62,38 @@ const NEVER_UNJUDGED: Unjudged = () => false
 
 export function underDirty(address: string): boolean {
   return DIRTY_DIR.test(keyIn(address))
+}
+
+/**
+ * Whether a page's body came from elsewhere, so the links it holds are nobody here's to have got
+ * right.
+ *
+ * THE PAGE TYPE SAYS IT AND NO PROPERTY DOES. `story-chapter-read` states that a read chapter's
+ * source is the page type it is, so this is ancestry over `extends-slug` rather than a flag on a
+ * page: a type filed below `story-chapter-read` later is covered with nobody updating a list.
+ *
+ * A CHAIN RETURNING ON ITSELF IS JUDGED. `chainOf` stops at the slug a cycle comes back to and
+ * answers `relPaths: null`, which is read here as reaching nothing — so a looped page type is
+ * judged as any other page is, rather than passed or walked forever.
+ */
+export function fromElsewhereIn(defs: FileTree, types: readonly PageType[]): Unjudged {
+  const said = new Map<string, boolean>()
+  return (address) => {
+    const claim = claimant(keyIn(address), types)
+    if (claim.type === null) return false
+    const standing = said.get(claim.type.relPath)
+    if (standing !== undefined) return standing
+    const { relPaths } = chainOf(claim.type, defs)
+    const made = relPaths !== null && relPaths.some((at) => stemOf(at) === FROM_ELSEWHERE)
+    said.set(claim.type.relPath, made)
+    return made
+  }
+}
+
+/** Every ground on which a file holding a link is passed over rather than judged. */
+export function unjudgedIn(defs: FileTree, types: readonly PageType[]): Unjudged {
+  const elsewhere = fromElsewhereIn(defs, types)
+  return (address) => underDirty(address) || elsewhere(address)
 }
 
 export function judgeLinks(
@@ -107,6 +147,7 @@ export const linksResolve: Check = {
     }
     if (staged.size === 0) return []
     const roots = rootsHere()
+    const defs = treeOver(batch)
     return judgeLinks(
       staged,
       (address) => {
@@ -117,7 +158,7 @@ export const linksResolve: Check = {
       },
       (target) => [...sourcesAt(LINK_RELATION, target)],
       (address) => mortalPagesAt(keyIn(address)),
-      underDirty
+      defs === null ? underDirty : unjudgedIn(defs, registryOf(defs))
     )
   },
 }
