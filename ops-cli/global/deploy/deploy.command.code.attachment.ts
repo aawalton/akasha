@@ -235,7 +235,8 @@ async function deploying(argv: readonly string[]): Promise<void> {
     }
   }
 
-  const done = await deploy(root, plan)
+  const builds = buildTargetOf(plan) !== null
+  const done = await deploy(root, plan, !builds)
   for (const written of done.written) {
     process.stderr.write(`wrote ${relativeTo(root, written)}\n`)
   }
