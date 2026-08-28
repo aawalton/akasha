@@ -11,4 +11,5 @@ start-mode: interactive
 on-call: true
 registration-account: aawalton
 claude-code-session-uuid: b0fba370-c4de-4b2d-94c1-6ab7b5144f0b
+transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/b0fba370-c4de-4b2d-94c1-6ab7b5144f0b.jsonl
 ---
