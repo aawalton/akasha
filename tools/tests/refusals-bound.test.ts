@@ -118,12 +118,6 @@ describe("a half of the pair standing alone", () => {
 })
 
 describe("what it will not read", () => {
-  test("a first argument that is not a quoted slug is refused, being a pair it cannot find", () => {
-    ownWords()
-    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
-    put("tools/gates/slug-stem.ts", `const NAME = "slug-stem"\nexport const g = (s) => refusalText(NAME, { path }, r, s.read)\n`)
-    expect(refusalsBound(view).verdict).toBe("fail")
-  })
 
   test("an instrument outside tools/ is read, a printer being found wherever it stands", () => {
     ownWords()
@@ -143,6 +137,51 @@ describe("what it will not read", () => {
     put("pages/refusal/slug-stem.refusal.md", document(["path"]))
     put("tools/gates/slug-stem.ts", `export const g = (s) => refusalText("slug-stem", built(s), r, s.read)\n`)
     expect(refusalsBound(view).verdict).toBe("fail")
+  })
+})
+
+describe("a slug a module const names", () => {
+  const namedIn = (relPath: string): readonly string[] =>
+    refusalsBound(view).messages.filter((said) => said.includes(relPath))
+
+  test("is followed to the literal it binds, one name serving two messages", () => {
+    ownWords()
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.ts",
+      `const NAME = "slug-stem"\nexport const g = (s) => refusalText(NAME, { path }, r, s.read)\n`
+    )
+    expect(refusalsBound(view).verdict).toBe("pass")
+  })
+
+  test("is refused where the const binds anything but a literal", () => {
+    ownWords()
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.ts",
+      `const NAME = pick()\nexport const g = (s) => refusalText(NAME, { path }, r, s.read)\n`
+    )
+    expect(namedIn("tools/gates/slug-stem.ts")).not.toEqual([])
+  })
+
+  test("is refused where the binding stands inside a function rather than the module", () => {
+    ownWords()
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.ts",
+      `export const g = (s) => {\n  const NAME = "slug-stem"\n  return refusalText(NAME, { path }, r, s.read)\n}\n`
+    )
+    expect(namedIn("tools/gates/slug-stem.ts")).not.toEqual([])
+  })
+
+  test("a slug reached through a member is refused, a dispatch naming no one document", () => {
+    ownWords()
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.ts",
+      `const NAME = "slug-stem"\nexport const g = (s) => refusalText(held.slug, { path }, r, s.read)\n`
+    )
+    expect(namedIn("tools/gates/slug-stem.ts")).not.toEqual([])
   })
 })
 

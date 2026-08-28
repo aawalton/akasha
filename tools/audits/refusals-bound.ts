@@ -78,9 +78,30 @@ function keysOf(source: string, from: number): string[] | null {
 const LONE = /^\s*"([a-z][a-z0-9-]*)"\s*$/
 const BRANCH = /[?:]\s*"([a-z][a-z0-9-]*)"/g
 
-function slugsOf(first: string): string[] | null {
+const NAMED = /^\s*([A-Za-z_$][\w$]*)\s*$/
+
+/**
+ * The slug a module-level `const` binds, where the call names that const rather than the slug.
+ *
+ * A NAME WITH TWO JOBS CANNOT BE WRITTEN OUT AT THE CALL. Where the same const also names the
+ * thing in a second message, replacing it with a literal leaves the string twice in one file
+ * with one copy guarded and one not, which is what writing it out was meant to avoid. Anchored
+ * to the start of a line, so a binding inside a function is not one of these.
+ */
+function boundIn(source: string, name: string): string | null {
+  const quoted = name.replaceAll("$", () => "\\$")
+  const found = new RegExp(`^const ${quoted} = "([a-z][a-z0-9-]*)"$`, "m").exec(source)
+  return found === null ? null : found[1]!
+}
+
+function slugsOf(first: string, source: string): string[] | null {
   const lone = LONE.exec(first)
   if (lone !== null) return [lone[1]!]
+  const named = NAMED.exec(first)
+  if (named !== null) {
+    const bound = boundIn(source, named[1]!)
+    return bound === null ? null : [bound]
+  }
   const branches = [...first.matchAll(BRANCH)].map((found) => found[1]!)
   return branches.length === 0 ? null : branches
 }
@@ -117,7 +138,7 @@ export const refusalsBound: Check = (repo) => {
       const call = spanOf(source, at + CALL.length - 1)
       const first =
         call === null || call.splits.length === 0 ? null : call.splits[0]! - (at + CALL.length)
-      const slugs = first === null ? null : slugsOf(args.slice(0, first))
+      const slugs = first === null ? null : slugsOf(args.slice(0, first), source)
       if (first === null || slugs === null) {
         failures.push(refusalText("refusal-slug-not-literal", { path: relPath }, root))
         continue
