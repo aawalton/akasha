@@ -1,7 +1,7 @@
 export const summary = "Delete a calendar event by id and confirm the deletion as JSON"
 
 import type { CommandHelp } from "../../../ops/surface.ts"
-import { calendarClient, calendarGoogle } from "../../../lib/calendar-google.ts"
+import { calendarClient, calendarEvents } from "../../../lib/calendar-google.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 
 export const help: CommandHelp = {
@@ -39,7 +39,7 @@ export default async function calendarEventsDelete(args: readonly string[]): Pro
   const parsed = parseArgs(help, args)
 
   const client = await calendarClient()
-  const events = await calendarGoogle()
+  const events = await calendarEvents()
   const result = await events.deleteEvent(client, {
     calendarId: parsed.string("--calendar"),
     eventId: parsed.requireString("--event"),

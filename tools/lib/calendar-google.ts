@@ -1,16 +1,16 @@
 import type { CalendarClient } from "@alanwalton/calendar-google/client"
 
-export type CalendarGoogle = typeof import("@alanwalton/calendar-google")
+export type CalendarEvents = typeof import("@alanwalton/calendar-google/events")
 
 
-export function calendarGoogle(): Promise<CalendarGoogle> {
-  return import("@alanwalton/calendar-google")
+export function calendarEvents(): Promise<CalendarEvents> {
+  return import("@alanwalton/calendar-google/events")
 }
 
 export async function calendarClient(): Promise<CalendarClient> {
-  return (await calendarGoogle()).makeCalendarClient()
+  return (await import("@alanwalton/calendar-google/client")).makeCalendarClient()
 }
 
 export async function calendarOAuthClient(): Promise<CalendarClient> {
-  return (await calendarGoogle()).makeOAuthCalendarClient()
+  return (await import("@alanwalton/calendar-google/client")).makeOAuthCalendarClient()
 }
