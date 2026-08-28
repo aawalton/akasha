@@ -1,8 +1,8 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { BUN_RUNTIME_IMAGE, SMILINGJENNY_WEB_CACHE } from "../../../../infra/k8s-types/src/orchestrator-cache-locations"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
+import { BUN_RUNTIME_IMAGE, SMILINGJENNY_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
 
 const NAMESPACE = "smilingjenny"
 const APP_NAME = "web"
