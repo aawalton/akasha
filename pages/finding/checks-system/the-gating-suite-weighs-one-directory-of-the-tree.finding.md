@@ -36,8 +36,21 @@ where the deadline is shared with the whole checks run — which was itself over
 124.3s. In that state the alphabetically first 72 files run and the 446 under `tools/tests` are
 never reached, and a verdict is printed regardless.
 
-That second observation is the FALLBACK path. `selection` normally narrows to the tests a change
-reaches, and that subset presumably finishes. Why git could not read what changed since `d9e356a9`,
-and for how long it has been so, is not established here.
+That second observation is the FALLBACK path, and it is now established rather than open.
+`~/.instruction-checks/green` holds `d9e356a9`, which is not an object in this repository at all;
+`readGreen` tests only the shape `/^[0-9a-f]{40}$/`, so a well-formed sha from a dead history passes,
+and nothing rewrites the file on a failed read. The fallback is therefore taken on every run and
+always will be. Seven runs across seven commits on 2026-08-28 took it, including three on a quiet box
+at `089353b6`, `457a6017` and `246f7564`. Thea filed the cause.
+
+THE SUITE SAYS IT STOPPED SHORT. `report` at `suite-runs.ts:95-99` computes `unreached` and pushes a
+`suite-unfinished` refusal naming both numbers. So this is not a silent truncation: what is quiet is
+the CAUSE, which arrives after an em-dash in the words of a passing git fault.
+
+NO TIMING OF THIS SUITE TAKEN SO FAR MEASURES THE SUITE. Every reading was taken with the fallback
+active, so each is a deadline being hit rather than work being done — which is why three idle
+readings came in at 122.8s, 123.0s and 123.1s, a spread of 0.3s and near-total load-independence. A
+fixed workload stretches under load; a deadline does not. What this suite actually costs is not
+known.
 
 MEASURED 2026-08-28 at commit `697482b1`, on a workstation carrying six seats and their agents.
