@@ -11,8 +11,7 @@ const CONTAINER_HOME = "/root"
 
 const CI_SECRET_NAME = "pipeline-engine-secrets"
 const TRANSPORT_HOST = "git-transport.git.svc.cluster.local:3000"
-const CODE_REPO_PATH = "alan/code.git"
-const INSTRUCTIONS_REPO_PATH = "alan/instructions.git"
+const AKASHA_REPO_PATH = "alan/akasha.git"
 
 const INSTRUCTIONS_DIR = "/instructions"
 
@@ -85,7 +84,7 @@ function instructionsCommit(): string {
 }
 
 function acquireInstructions(commit: string): readonly string[] {
-  const authed = `http://x-access-token:$GIT_ACCESS_TOKEN@${TRANSPORT_HOST}/${INSTRUCTIONS_REPO_PATH}`
+  const authed = `http://x-access-token:$GIT_ACCESS_TOKEN@${TRANSPORT_HOST}/${AKASHA_REPO_PATH}`
   return [
     `echo "[prelude] instructions tree ${commit} (excluded from every timed phase)"`,
     `INSTRUCTIONS_COMMIT=${commit}`,
@@ -103,7 +102,7 @@ function acquireInstructions(commit: string): readonly string[] {
 
 async function buildCommand(commit: string): Promise<readonly string[]> {
   const { buildToolchainProvisionScript, buildToolchainVerifyScript } = await provision()
-  const authedUrl = `http://x-access-token:$GIT_ACCESS_TOKEN@${TRANSPORT_HOST}/${CODE_REPO_PATH}`
+  const authedUrl = `http://x-access-token:$GIT_ACCESS_TOKEN@${TRANSPORT_HOST}/${AKASHA_REPO_PATH}`
   const script = [
     "set -eu",
     'echo "[prelude] shallow clone to obtain harness (excluded from every timed phase)"',
