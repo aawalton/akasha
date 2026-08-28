@@ -59,6 +59,8 @@ An `import` edge runs from any file, by Alan's ruling on 2026-08-28. The type na
 
 `relation` is the edge from a page to one it names, by Alan's ruling on 2026-08-28. 2,926 of its 124,533 edges carry the key `link`, which a page names in its prose rather than in its frontmatter, and `relation-key` is what says which of the two it was.
 
+The `typescript` producer is `import`, by Alan’s ruling on 2026-08-28. It is named for the edge it makes, as `relation` and `contains` are; `loader` makes `import` edges too and is named for the far end of its own.
+
 ## Code a page names
 
 Code a page owns is an attachment of that page, on the pages system's existing convention rather than a shape of its own: the file sits beside its page, named for it with `.md` replaced by `.{key}.attachment.{extension}`. Renaming the code onto that pattern is mechanical.
@@ -122,11 +124,11 @@ Every node in akasha was measured against disk on 2026-08-28: 89,439 `file` node
 
 Every edge in akasha was measured on 2026-08-28: 250,239 edges, with no end that is no node, none reaching outside akasha, and no `contains` edge whose far end is not directly under its near one.
 
-The `typescript` producer reads imports as TypeScript syntax rather than matching them as text, and its 32,892 edges agree exactly with the compiler's own scan of each of 11,225 files. Matching drew 50 edges from specifiers written inside a string or a template literal, most of them under `tools/lib/temper-addon-data/generators/`, which write import lines into the files they emit.
+The `import` producer reads imports as TypeScript syntax rather than matching them as text, and its 32,892 edges agree exactly with the compiler's own scan of each of 11,225 files. Matching drew 50 edges from specifiers written inside a string or a template literal, most of them under `tools/lib/temper-addon-data/generators/`, which write import lines into the files they emit.
 
 `file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
-Three of the four edge producers answer what reaches a node without a walk: `relation`, `contains`, and `loader` since 2026-08-28. `loader` cuts the code attachment tail off a key to name the one page an edge could have come from, and answers about a node in 0.04ms where the walk took 302ms; the two answers are the same 33 edges. `typescript` is the one left, so asking for an `import` edge still produces every node.
+Three of the four edge producers answer what reaches a node without a walk: `relation`, `contains`, and `loader` since 2026-08-28. `loader` cuts the code attachment tail off a key to name the one page an edge could have come from, and answers about a node in 0.04ms where the walk took 302ms; the two answers are the same 33 edges. `import` is the one left, so asking for an `import` edge still produces every node.
 
 `edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. Asked about 2,240 nodes, `relation` answers from the reverse index in 1,135ms against 4,504ms for the walk, and the two answers are the same set; asked about five it is 197ms against 4,428ms. `graph/ask.unit.test.ts` fell from 8.6s to 635ms on it.
 
@@ -140,6 +142,8 @@ Three of the four edge producers answer what reaches a node without a walk: `rel
 
 Of the 124,768 relations the pages system reaches, 13 are dropped for naming a path no tracked file is at, all of them links; `links-resolve` is what reports those.
 
-`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, which is how `relation` handles a drifted index. `typescript` is the one producer still walked.
+`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, which is how `relation` handles a drifted index. `import` is the one producer still walked.
 
-Each held answer is marked by the import closure of the file that works it out, rather than by the whole engine's. `frontmatter` reaches 8 files, `typescript` 16 and `relation-links` 2, against 37 for `graph/ask.ts`, which every one of them was filed under before. A producer is no longer in any other's closure, so landing one drops none of the others' answers; the helpers they share are in both closures, so a change to one of those still drops both. An entry the graph does not reach falls back to the engine's closure, a mark that never moves being the one failure worth being over-eager about.
+Renaming a held answer orphans every answer filed under the old name. `sweep` reaches the marks under one name, and nothing reaches a name no code claims any more, so the `import` rename left 44MB under `said/typescript/` that nothing would ever have removed.
+
+Each held answer is marked by the import closure of the file that works it out, rather than by the whole engine's. `frontmatter` reaches 8 files, `import` 16 and `relation-links` 2, against 37 for `graph/ask.ts`, which every one of them was filed under before. A producer is no longer in any other's closure, so landing one drops none of the others' answers; the helpers they share are in both closures, so a change to one of those still drops both. An entry the graph does not reach falls back to the engine's closure, a mark that never moves being the one failure worth being over-eager about.
