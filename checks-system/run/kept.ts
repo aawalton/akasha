@@ -35,7 +35,7 @@ function uncached(check: Check): boolean {
 
 function under(check: Check, tree: Tree, subject: Subject): string {
   if (check.needs !== "path") return subject.oid
-  return oidOfBody(tree.root, Buffer.from(relative(tree.root, subject.at)))
+  return oidOfBody(Buffer.from(relative(tree.root, subject.at)))
 }
 
 /**

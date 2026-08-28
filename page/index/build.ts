@@ -18,14 +18,12 @@ import { type Holds, type Relation, reachedFrom, relationsOver } from "./relatio
 import { trackedIn } from "../tracked/tracked.ts"
 import { REPOS } from "../../repo/roots/roots.ts"
 import {
-  builtFrom,
   identityBodies,
   keepBuiltFrom,
   keepPages,
   keepRelations,
   loadPages,
   loadRelations,
-  markFor,
   marksFrom,
   pageOidsIn,
   relationBodies,
@@ -400,21 +398,4 @@ export function landHere(landings: readonly Landing[], holds: Holds): number {
     }
     return appliedInto(pages, landed, holds)
   })
-}
-
-/**
- * One repository's rows marked as standing for the tree there now.
- *
- * A LANDING UPDATES THE RECORD OF WHAT THE INDEX WAS BUILT OVER, AND NEVER CREATES IT. `builtFrom`
- * answering null says the index was never written, or was taken away; a landing carries a handful
- * of pages and has walked no repository, so a record written here claims coverage no build ever
- * gave — and claims it for the landing's own repository alone. Scans there then read an index
- * holding no page and answer nothing, which reads exactly like a repository with no page in it and
- * passes every check over it, while every other repository is refused for a record that never
- * named it. Left null, the refusal stands over every repository until the index is written again.
- */
-export function markLanded(repo: string, root: string): void {
-  const held = builtFrom()
-  if (held === null) return
-  keepBuiltFrom({ ...held, [repo]: markFor(root) })
 }
