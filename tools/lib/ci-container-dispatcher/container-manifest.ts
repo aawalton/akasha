@@ -1,6 +1,5 @@
 import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
-import { AKASHA, resolveRoots, rootEnvName, rootFor } from "../../../repo/roots/roots"
-import { clusterOriginOf } from "../service-cluster-reach.ts"
+import { rootEnvName } from "../../../repo/roots/roots"
 import { CI_MEMBER_KEY } from "./capacity.ts"
 import { CI_NAMESPACE } from "./cluster.ts"
 import {
@@ -19,15 +18,6 @@ const UNIVERSAL_IMAGE = "debian:bookworm-slim"
 const CI_SECRET_NAME = "pipeline-engine-secrets"
 
 const COMMIT_SHAPE = /^[0-9a-f]{40}$/
-
-const PAGE_QUERY_SERVICE = "page-query-service"
-
-let pageQueryOrigin: string | null = null
-
-function pageQueryOriginInCluster(): string {
-  pageQueryOrigin ??= clusterOriginOf(rootFor(resolveRoots(), AKASHA), PAGE_QUERY_SERVICE)
-  return pageQueryOrigin
-}
 
 interface EnvEntry {
   readonly name: string
@@ -93,7 +83,6 @@ function buildEnv(
     { name: "WORKSPACE", value: workspace },
     { name: rootEnvName("code"), value: workspace },
     { name: rootEnvName("akasha"), value: akashaTreePath(candidate.pipelineInstructionsCommit) },
-    { name: "PAGE_QUERY_ORIGIN", value: pageQueryOriginInCluster() },
     ...(candidate.inputsHash === null
       ? []
       : [{ name: "INPUTS_HASH", value: candidate.inputsHash }]),
