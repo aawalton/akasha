@@ -9,34 +9,37 @@ const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n--
 
 const kind = (): string => page(["extends-slug: none"])
 
+const under = (above: string): string => page([`extends-slug: ${above}`])
+
 const property = (on: string, key: string, lines: readonly string[]): string =>
   page([`defined-on-slug: ${on}`, `key: ${key}`, ...lines])
 
 const FILES: Readonly<Record<string, string>> = {
-  "pages/page-type/tree.page-type.md": kind(),
+  "pages/page-type/plant.page-type.md": kind(),
+  "pages/page-type/tree.page-type.md": under("plant"),
   "pages/page-type/orchard.page-type.md": kind(),
   "pages/page-type/grove.page-type.md": kind(),
 
   "pages/page-property-definition/tree-fruit.page-property-definition.md": property("tree", "fruit", ["type: number"]),
-  "pages/page-property-definition/tree-name.page-property-definition.md": property("tree", "name", ["type: text"]),
+  "pages/page-property-definition/plant-name.page-property-definition.md": property("plant", "name", ["type: text"]),
 
   "pages/page-property-definition/orchard-trees.page-property-definition.md": property("orchard", "trees", [
     "type: list(relation-slug)",
     "target-slug: tree",
   ]),
   "pages/page-property-definition/orchard-fruit.page-property-definition.md": property("orchard", "fruit", [
-    "type: aggregate",
+    "type: number",
     "relation: trees",
     "function: sum",
     "target: fruit",
   ]),
   "pages/page-property-definition/orchard-tally.page-property-definition.md": property("orchard", "tally", [
-    "type: aggregate",
+    "type: number",
     "relation: trees",
     "function: count",
   ]),
   "pages/page-property-definition/orchard-first-name.page-property-definition.md": property("orchard", "first-name", [
-    "type: rollup",
+    "type: text",
     "relation: trees",
     "target: name",
   ]),
@@ -51,7 +54,12 @@ const FILES: Readonly<Record<string, string>> = {
     "function: sum",
     "target: fruit",
   ]),
-  "pages/page-property-definition/grove-tally.page-property-definition.md": property("grove", "tally", ["type: aggregate", "relation: trees"]),
+  "pages/page-property-definition/grove-tally.page-property-definition.md": property("grove", "tally", ["type: number", "relation: trees"]),
+  "pages/page-property-definition/grove-first-name.page-property-definition.md": property("grove", "first-name", [
+    "type: number",
+    "relation: trees",
+    "target: name",
+  ]),
 
   "pages/tree/one.tree.md": page(["slug: one", "fruit: 3", "name: Ash"]),
   "pages/tree/two.tree.md": page(["slug: two", "fruit: 4.5", "name: Birch"]),
@@ -124,6 +132,10 @@ describe("a rollup, which reads one property from a page a relation reaches", ()
   it("answers nothing where the relation reaches no page", () => {
     expect(held("orchard", "first-name").get("bare")).toBeNull()
   })
+
+  it("passes a stated type its target holds only by inheriting it from a page type above", () => {
+    expect(faultsOf("orchard")).toEqual([])
+  })
 })
 
 describe("a property the deriver cannot work out, which refuses rather than reading as empty", () => {
@@ -131,6 +143,13 @@ describe("a property the deriver cannot work out, which refuses rather than read
     expect(faultsOf("grove")).toContain(
       "`grove-tally` states `relation` and no `target`, so nothing says which property it reads " +
         "on each page it reaches"
+    )
+  })
+
+  it("names both types and the target where a rollup states one its target does not hold", () => {
+    expect(faultsOf("grove")).toContain(
+      "`grove-first-name` states `type: number` and reads `target: name` on `tree`, which holds " +
+        "`text`, so a reader of this property is told it holds one type and handed another"
     )
   })
 

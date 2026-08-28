@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Daily tracking spend hours"
 defined-on-slug: page-type/daily-tracking
 key: spend-hours
-type: aggregate
+type: number
 relation: sessions
 function: sum
 target: spend-hours

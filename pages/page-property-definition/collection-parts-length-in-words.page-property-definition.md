@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Collection parts length in words"
 defined-on-slug: page-type/collection
 key: partsLengthInWords
-type: aggregate
+type: number
 relation: parts
 function: sum
 target: totalLengthInWords

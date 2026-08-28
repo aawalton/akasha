@@ -41,7 +41,29 @@ export function listing(held: Held): readonly string[] {
   return Array.isArray(held) ? held : []
 }
 
-export function underivable(one: Declared): string | null {
+// THE TARGET'S TYPE MAY BE INHERITED RATHER THAN DECLARED WHERE THE RELATION POINTS. `title` stands on
+// `page` and on nothing below it, so a look at the reached page type alone finds nothing and would have to
+// choose between refusing a correct rollup and passing a stale one. `declarationFor` walks `extends-slug`,
+// which is the same walk that settles every other property, so it finds the inherited declaration.
+function staleCopy(
+  one: Declared,
+  declarationFor: (kind: string, key: string) => Declared | null
+): string | null {
+  const walked = declarationFor(one.on, one.relation ?? "")
+  const reaches = walked?.target ?? null
+  if (reaches === null) return null
+  const held = declarationFor(reaches, one.over ?? "")
+  if (held === null || held.type === null || one.type === null || held.type === one.type) return null
+  return (
+    `states \`type: ${one.type}\` and reads \`${OVER}: ${one.over}\` on \`${reaches}\`, which holds ` +
+    `\`${held.type}\`, so a reader of this property is told it holds one type and handed another`
+  )
+}
+
+export function underivable(
+  one: Declared,
+  declarationFor: (kind: string, key: string) => Declared | null
+): string | null {
   if (one.reaches && !WALKS.includes(one.type ?? "")) {
     return (
       `states \`type: ${one.type}\`, which the vocabulary marks as reached for, and this deriver reaches ` +
@@ -56,7 +78,7 @@ export function underivable(one: Declared): string | null {
     if (one.over === null) {
       return `states \`${RELATION}\` and no \`${OVER}\`, so nothing says which property it reads on each page it reaches`
     }
-    return null
+    return staleCopy(one, declarationFor)
   }
   if (!REDUCTIONS.includes(one.reduction)) {
     return `states \`${REDUCTION}: ${one.reduction}\`, and this deriver reduces by ${REDUCTIONS.join(" or ")} and nothing else`

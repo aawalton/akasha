@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Collection unit words"
 defined-on-slug: page-type/collection
 key: unitWords
-type: rollup
+type: number
 relation: unit
 target: words
 slug: collection-unit-words

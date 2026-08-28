@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper task character name"
 defined-on-slug: page-type/temper-task
 key: character-name
-type: rollup
+type: text
 relation: character
 target: title
 slug: temper-task-character-name

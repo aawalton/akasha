@@ -1,7 +1,6 @@
 import { codeValueFor } from "./page-code-values.ts"
 import { rowsPagesIn } from "./page-rows.ts"
 import {
-  AGGREGATE,
   BACK,
   ROWS,
   type Declared,
@@ -15,7 +14,6 @@ import {
 import {
   along,
   listing,
-  NUMBER,
   type Reached as Page,
   type Reaching,
   reducedFrom,
@@ -92,7 +90,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const typeOf = (kind: string, key: string): string | null => {
     const declaration = declarationFor(kind, key)
     if (declaration === null) return null
-    if (declaration.type === AGGREGATE) return NUMBER
     return declaration.type
   }
 
@@ -238,7 +235,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       faults.add(`\`${key}\` is declared by no property on \`${page.kind}\``)
       return null
     }
-    const cannot = underivable(declaration)
+    const cannot = underivable(declaration, declarationFor)
     if (cannot !== null) {
       faults.add(`\`${declaration.slug}\` ${cannot}`)
       return null

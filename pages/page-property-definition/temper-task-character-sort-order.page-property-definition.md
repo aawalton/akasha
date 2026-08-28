@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Temper task character sort order"
 defined-on-slug: page-type/temper-task
 key: character-sort-order
-type: rollup
+type: number
 relation: character
 target: sort-order
 slug: temper-task-character-sort-order

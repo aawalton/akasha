@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Daily tracking sleep hours"
 defined-on-slug: page-type/daily-tracking
 key: sleep-hours
-type: aggregate
+type: number
 relation: sessions
 function: sum
 target: sleep-hours
