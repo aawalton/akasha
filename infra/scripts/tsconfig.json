@@ -19,7 +19,6 @@
     "../../page/page.ts",
     "../../repo/path/path.ts",
     "../../repo/roots/roots.ts",
-    "../../tools/lib/code-import.ts",
     "../../tools/lib/code-root.ts"
   ],
   "exclude": [
