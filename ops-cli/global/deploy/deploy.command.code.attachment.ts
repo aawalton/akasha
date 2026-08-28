@@ -24,6 +24,7 @@ import {
   resolveBuildEnv,
   standingIn,
 } from "../../../deploy-system/build/build.ts"
+import { publishLiveVersion } from "../../../deploy-system/live-version/live-version.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
 import {
   keyOf,
@@ -36,6 +37,7 @@ import type { ClusterService } from "../../../deploy-system/service/service.ts"
 import { everyService, serviceNamed } from "../../../deploy-system/service/service.ts"
 import { fail } from "../../../patches/patch.ts"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
+import { answerPageQueriesInProcess } from "../../../tools/ops/page-queries-in-process.ts"
 import { rejectUnknownFlags } from "../address.ts"
 
 const LIST = "--list"
@@ -58,20 +60,6 @@ function isRunning(service: ClusterService): boolean {
   return new Set(found.workloads.map(keyOf)).has(keyOf(workloadOf(service)))
 }
 
-/**
- * Why this deploy would apply nothing, or nothing where it would apply.
- *
- * THE CLUSTER IS ASKED AS WELL AS THE RECORD. A record says what was applied, never what is there
- * now, so a workload deleted by hand would be held back by its own last deploy — and the record
- * naming it is exactly why nobody would think to look.
- *
- * A CLUSTER THAT CANNOT BE REACHED HOLDS NOTHING BACK: the deploy goes on and kubectl says what is
- * wrong, rather than this reporting a service as up to date on an answer it never got.
- *
- * A SERVICE THAT BUILDS IN ITS POD IS ALSO ASKED WHAT IT BUILT FROM. Its manifests do not move when
- * its code does, so a mark taken over manifests alone would hold back every change to the app
- * itself and the service would never leave the bundle it was first deployed with.
- */
 function heldBack(akasha: string, plan: Plan, mark: string): string | null {
   const applied = appliedAt(akasha, plan.service.slug, mark)
   if (applied === null) return null
@@ -141,6 +129,10 @@ export const help = {
     "The apply is server-side and takes the field ownership it needs. Where the workload is a " +
     "Deployment, StatefulSet or DaemonSet, the deploy waits for its rollout rather than returning " +
     "on the apply.\n" +
+    "\n" +
+    "A SERVICE THAT BUILDS IN ITS POD IS BUILT AND RESTARTED HERE, and every web app that names " +
+    "it is then told the commit it is live at, so a browser holding an older bundle is offered " +
+    "the reload.\n" +
     "\n" +
     "WHAT WAS APPLIED IS REMEMBERED, under a mark taken over the manifests themselves rather than " +
     "over the code that emitted them, so anything a synth read without importing it still moves " +
@@ -252,15 +244,6 @@ async function deploying(argv: readonly string[]): Promise<void> {
   recordApplied(root, plan, mark)
 }
 
-/**
- * Build this service in its pod and restart it, where it is a service that builds in its pod.
- *
- * NOTHING IS RECORDED BEFORE THIS RETURNS. A deploy of one of these is the manifests and the bundle
- * together, so a build that failed must leave no record saying the service was deployed.
- *
- * THE BUILD REACHES ONE NODE. The checkout it writes into is that pod's node's own, so the pod it
- * ran in is reported rather than left to be assumed of the workload.
- */
 async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
   const target = buildTargetOf(plan)
   if (target === null) return
@@ -284,6 +267,7 @@ async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
   }
   if (built.skipped) {
     process.stdout.write(`${built.pod} is already serving a build made from ${sha}\n`)
+    await publish(root, plan, sha)
     return
   }
   process.stdout.write(`building ${target.packagePath} at ${sha} in ${built.pod}\n`)
@@ -295,6 +279,25 @@ async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
       process.exit(3)
     }
   }
+  await publish(root, plan, sha)
+}
+
+async function publish(root: string, plan: Plan, sha: string): Promise<void> {
+  const published = await publishLiveVersion(root, plan.service.slug, sha)
+  if (published.length === 0) {
+    process.stdout.write(
+      `no web app page names ${plan.service.slug}, so nothing was told it is live at ${sha}\n`
+    )
+    return
+  }
+  for (const one of published) {
+    if (one.ok) {
+      process.stdout.write(`${one.webApp} is live at ${sha}\n`)
+      continue
+    }
+    process.stderr.write(`error: ${one.webApp} was not told it is live at ${sha}: ${one.why}\n`)
+    process.exit(3)
+  }
 }
 
 if (import.meta.main) {
@@ -305,6 +308,7 @@ if (import.meta.main) {
         "other command through `ops`. Its help is `ops deploy --help`.\n"
     )
   } else {
+    answerPageQueriesInProcess()
     await deployCommand(own)
   }
 }
