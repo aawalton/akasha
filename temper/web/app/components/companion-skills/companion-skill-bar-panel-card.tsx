@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import type { CompanionSkillTemplate } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"
 import { companionSkillSlots } from "@temper/game-companions-core/skills/companion-skill-slots-data"

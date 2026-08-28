@@ -1,6 +1,8 @@
 "use client"
 
-import { Badge, Button, PanelCard } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
 import type { CompanionSuggestion } from "@temper/game-companions-core/optimizer/companion-suggestion-generator"
 import { useCompanionSuggestions } from "@/components/companion-skills/hooks/use-companion-suggestions"
 import {

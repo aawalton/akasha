@@ -1,4 +1,8 @@
-import { Badge, BadgeToggleGroup, type BadgeToggleGroupItem, IconBadge, NumberBadge, PanelCard, useSurface } from "@shared/design-system"
+import { Badge, IconBadge } from "@shared/design-badges/components/badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import {

@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionId } from "@temper/game-companions-core/companions-data"
 import { CompanionPassiveSkillsPanelCard } from "@/components/companion-skills/companion-passive-skills-panel-card"

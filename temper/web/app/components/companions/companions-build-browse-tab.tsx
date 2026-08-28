@@ -1,6 +1,11 @@
 "use client"
 
-import { Badge, Button, Card, CardContent, PageTabHeader, PageTabTitleBadges, PaginatedCardGrid, PanelToggleProvider } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
+import { PaginatedCardGrid } from "@shared/design-layout/components/paginated-card-grid"
+import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"

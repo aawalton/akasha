@@ -1,13 +1,7 @@
-import {
-  Badge,
-  BadgeRow,
-  CardContent,
-  CardHeader,
-  CardTitle,
-  CardTitleBadges,
-  PanelCard,
-  Text,
-} from "@shared/design-system"
+import { Badge, BadgeRow } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardContent, CardHeader, CardTitle, CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Text } from "@shared/design-primitives/components/text"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import {
   type CompanionBaseRoleId,

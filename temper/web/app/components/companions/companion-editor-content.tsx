@@ -1,6 +1,10 @@
 "use client"
 
-import { PageLayout, PageTabHeader, PanelToggleProvider, ResponsiveColumns, useColumnCount } from "@shared/design-system"
+import { PageLayout } from "@shared/design-layout/components/page-layout"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { useColumnCount } from "@shared/design-layout/components/use-column-count"
 import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
 import { editorPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"

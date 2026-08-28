@@ -1,6 +1,7 @@
 "use client"
 
-import { PanelCard, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell } from "@shared/design-primitives/components/table"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import { getBaseRoleName } from "@temper/game-companions-core/companion-base-roles-data"

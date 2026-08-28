@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-system"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"
 import { FilterGroup } from "@shared/design-patterns/components/filter-group"

@@ -1,6 +1,7 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogTitle, DialogTrigger, TableHead } from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
+import { TableHead } from "@shared/design-primitives/components/table"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"

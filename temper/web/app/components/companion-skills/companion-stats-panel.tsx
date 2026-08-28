@@ -1,6 +1,8 @@
 "use client"
 
-import { PanelCard, ResponsiveColumns, Text } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   type CompanionMetricGroup,

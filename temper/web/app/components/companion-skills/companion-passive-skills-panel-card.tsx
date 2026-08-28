@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import { companions } from "@temper/game-companions-core/companions-data"
 import { companionArmorSlots } from "@temper/game-companions-core/equipment/companion-armor-slots-data"

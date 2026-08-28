@@ -1,4 +1,4 @@
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import {
   type TargetArmorId,

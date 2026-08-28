@@ -1,6 +1,7 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle, useSurface } from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"

@@ -1,4 +1,4 @@
-import { Badge } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
 import { targetScopes } from "@temper/game-characters-skills/target-scope-data"
 import { targetTypes } from "@temper/game-characters-skills/target-type-data"
 import type { Targeting } from "@temper/game-companions-core/skills/companion-skill-effect-components"

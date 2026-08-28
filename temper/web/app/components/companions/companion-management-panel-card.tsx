@@ -1,6 +1,9 @@
 "use client"
 
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, Button, PanelCard, useSurface } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
+import { Button } from "@shared/design-primitives/components/button"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { useCompanion } from "@temper/game-companions-ui/use-companions"

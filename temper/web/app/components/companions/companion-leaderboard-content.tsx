@@ -1,7 +1,7 @@
 "use client"
 
 import { collapseCard, scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import {
   type Build,
   type ComboRankingsMap,

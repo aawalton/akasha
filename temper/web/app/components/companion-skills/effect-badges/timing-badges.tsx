@@ -1,4 +1,4 @@
-import { Badge } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
 import { formatCooldown } from "@temper/game-companions-core/effect-display/effect-formatters"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import type { ExtractedSkillTiming } from "@temper/game-companions-core/skills/companion-skill-activation-effect-types"

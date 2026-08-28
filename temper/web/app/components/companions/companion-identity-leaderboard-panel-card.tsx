@@ -1,6 +1,7 @@
 "use client"
 
-import { formatCompact, formatFull, PanelCard, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell, TableValue } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { formatCompact, formatFull, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableTotalCell, TableValue } from "@shared/design-primitives/components/table"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import {

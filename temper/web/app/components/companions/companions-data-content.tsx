@@ -1,7 +1,7 @@
 "use client"
 
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { ListContentSkeleton } from "@shared/design-system"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
 import { useScrollRestoration } from "@shared/design-patterns/hooks/use-scroll-restoration"
 import { patchPage } from "@shared/pages-access/patch"
 import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"

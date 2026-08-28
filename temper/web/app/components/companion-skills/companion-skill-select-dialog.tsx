@@ -1,6 +1,6 @@
 "use client"
 
-import { CommandItem } from "@shared/design-system"
+import { CommandItem } from "@shared/design-primitives/components/command"
 import { requireGet } from "@shared/utils-narrow/require-get"
 import type { CompanionState } from "@temper/game-companions-core/companion-types"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"

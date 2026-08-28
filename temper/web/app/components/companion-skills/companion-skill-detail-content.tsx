@@ -1,6 +1,7 @@
 "use client"
 
-import { BadgeRow, useSurface } from "@shared/design-system"
+import { BadgeRow } from "@shared/design-badges/components/badge"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { capitalize } from "@shared/utils-narrow/capitalize"

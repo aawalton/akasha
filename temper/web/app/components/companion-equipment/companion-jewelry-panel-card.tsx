@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, HorizontalScrollFade, PanelCard, Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { jewelrySlots } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
 import { EquipmentIcon } from "@temper/game-characters-equipment-ui/equipment-icon"

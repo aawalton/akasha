@@ -1,6 +1,8 @@
 "use client"
 
-import { PanelCard, Skeleton, Text } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
+import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"

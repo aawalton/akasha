@@ -1,7 +1,9 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { PanelCard, Spinner, Text } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Spinner } from "@shared/design-primitives/components/spinner"
+import { Text } from "@shared/design-primitives/components/text"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { extractCompanionMetadata } from "@temper/game-characters/build-metadata"

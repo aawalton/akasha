@@ -1,4 +1,5 @@
-import { PanelCard, Skeleton } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { StatRow } from "@shared/design-patterns/components/stat-row"
 import type { CompanionMetricGroup } from "@temper/game-companions-core/stats/companion-metric-tree"
 import { type CompanionMetricValue, companionMetrics } from "@temper/game-companions-core/stats/companion-metrics.generated"

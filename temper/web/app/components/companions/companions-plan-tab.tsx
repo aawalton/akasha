@@ -1,6 +1,11 @@
 "use client"
 
-import { Button, Card, CardContent, LayoutLink, PageTabHeader, PanelToggleProvider, ResponsiveColumns } from "@shared/design-system"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
