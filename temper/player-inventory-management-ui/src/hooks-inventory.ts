@@ -1,7 +1,7 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "@shared/pages-access/sentinels"
-import { usePagesSupabase } from "@shared/pages-ui/supabase"
+import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import { isRecord } from "../../../shared/utils-narrow/src/is-record"
 import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
