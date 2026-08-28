@@ -27,10 +27,17 @@ function first(lines: readonly string[], noun: string): readonly string[] {
   return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
 
-interface Unjudged {
+interface KeyLine {
   readonly page: string
   readonly type: string
   readonly line: string
+}
+
+/** One clause of the summary, or nothing at all where the list it counts is empty. */
+function tally(named: readonly string[], lines: readonly KeyLine[], said: string): string {
+  if (named.length === 0) return ""
+  const carried = new Set(lines.map((one) => one.page)).size
+  return `; ${named.length} key(s) ${said}, on ${carried} page(s)`
 }
 
 const KEY = /^`([^`]+)`: /
@@ -45,8 +52,8 @@ const KEY = /^`([^`]+)`: /
  * which is what this splits on; a line in another shape is grouped whole rather than dropped,
  * a key this cannot parse being still a key nobody has been told about.
  */
-function byKey(lines: readonly Unjudged[]): readonly string[] {
-  const groups = new Map<string, Unjudged[]>()
+function byKey(lines: readonly KeyLine[]): readonly string[] {
+  const groups = new Map<string, KeyLine[]>()
   for (const one of lines) {
     const key = KEY.exec(one.line)?.[1] ?? one.line
     groups.set(key, [...(groups.get(key) ?? []), one])
@@ -76,7 +83,8 @@ export const pagesHoldProperties: Check = (repo) => {
 
   const unjudgeable: string[] = []
   const refusals: string[] = []
-  const unjudged: Unjudged[] = []
+  const unjudged: KeyLine[] = []
+  const elsewhere: KeyLine[] = []
   let measured = 0
   let holding = 0
 
@@ -109,6 +117,7 @@ export const pagesHoldProperties: Check = (repo) => {
     }
     measured++
     for (const line of verdict.unjudged) unjudged.push({ page: relPath, type: type.slug, line })
+    for (const line of verdict.elsewhere) elsewhere.push({ page: relPath, type: type.slug, line })
     if (verdict.refusals.length === 0) {
       holding++
       continue
@@ -120,15 +129,16 @@ export const pagesHoldProperties: Check = (repo) => {
   const registry = `${types.length} page type(s) declare a property set`
   const apart = unjudgeable.length === 0 ? "" : `; ${unjudgeable.length} claimed but not judged`
   const named = byKey(unjudged)
-  const carried = new Set(unjudged.map((one) => one.page)).size
-  const keys =
-    named.length === 0 ? "" : `; ${named.length} key(s) nothing states a type for, on ${carried} page(s)`
+  const aside = byKey(elsewhere)
+  const keys = tally(named, unjudged, "nothing states a type for")
+  const held = tally(aside, elsewhere, "whose value stands outside frontmatter")
 
   return {
-    ...advise(NAME, `${outside}, against ${registry}${apart}${keys}`, [
+    ...advise(NAME, `${outside}, against ${registry}${apart}${keys}${held}`, [
       ...first(unjudgeable, "claimed but not judged"),
       ...first(refusals, "refusal line(s)"),
       ...first(named, "key(s) nothing states a type for"),
+      ...first(aside, "key(s) whose value stands outside frontmatter"),
     ]),
     population: over(pages.length, UNIT),
   }
