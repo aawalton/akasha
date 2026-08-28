@@ -60,7 +60,7 @@ const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   ["smilingjenny/web/generated/web-deployment.generated.yaml", "code-sync"],
   ["temper/web/generated/web-deployment.generated.yaml", "init-code"],
   ["temper/web/generated/web-deployment.generated.yaml", "code-sync"],
-  ["infra/seaweedfs/k8s/generated/backup-bulk.generated.yaml", "rclone-sync"],
+  ["infra/seaweedfs/backup-bulk/generated/backup-bulk.generated.yaml", "rclone-sync"],
 ]
 
 const exemptionKey = (path: string, container: string | null): string =>
