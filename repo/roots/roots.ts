@@ -154,17 +154,24 @@ export function resolveRoots(target: Repo = AKASHA): Roots {
 }
 
 /**
- * Roots stated by hand, refusing a key that names no repository.
+ * Roots stated by hand, refusing a key that addresses nothing.
  *
- * `Roots` IS AN OPEN RECORD ON PURPOSE. `REPOS` above is scanned from the repo pages at load, so
- * which repositories exist is data rather than a fact in this code, and no closed type can carry
- * it. That leaves a hand-written roots object free to name a repository a rename took away: it
- * type-checks, and the first `rootFor` then throws naming the repository that was asked for rather
- * than the key that was wrong, so the fault reads as the caller's. Build the object here and a key
- * naming no repository is refused where it was written, against the set that is addressable.
+ * TWO FAULTS, AND THEY WANT DIFFERENT FIXES, so they are refused apart. A key may name no
+ * repository at all — `REPOS` is scanned from the repo pages at load, so which repositories exist
+ * is data rather than a fact in this code, `Roots` is an open record because no closed type could
+ * carry it, and a name a rename took away therefore type-checks. Or a key may name a real
+ * repository at a path that is not on disk, which `isAddressable` says nothing about: it passes
+ * every check until something walks it, and then throws from inside a scan about a file rather
+ * than about the roots.
+ *
+ * Left to `rootFor`, the first fault surfaces as the repository that was asked for rather than the
+ * key that was wrong. Built here, both are named where they were written.
+ *
+ * A repository this machine has not checked out is left out rather than pointed somewhere empty,
+ * which is what `resolveRoots` above does already, and what every reader of `Roots` handles.
  *
  * The target names a repository rather than a root, as it does on `Roots` itself, and is judged
- * against the same set: a fixture aiming at a repository that no longer exists is the same fault.
+ * against the same set.
  */
 export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo): Roots {
   const asked = [...Object.keys(at), ...(target === undefined ? [] : [target])]
@@ -174,6 +181,15 @@ export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo):
     const name = stray.length === 1 ? "names" : "name"
     throw new Error(
       `${named} ${name} no repository here; the repositories are ${ADDRESSABLE_NAMED}`
+    )
+  }
+  const absent = Object.entries(at).filter(([, root]) => !existsSync(root))
+  if (absent.length > 0) {
+    const named = absent.map(([one, root]) => `\`${one}\` at \`${root}\``).join(", ")
+    const name = absent.length === 1 ? "names a repository" : "name repositories"
+    throw new Error(
+      `${named} ${name} here, but nothing stands there; give the directory it is` +
+        ` checked out in, or leave the key out to say it is not cloned here`
     )
   }
   return target === undefined ? { ...at } : { ...at, target }
