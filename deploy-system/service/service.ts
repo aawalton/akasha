@@ -1,6 +1,7 @@
-import { readdirSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { git } from "../../repo/git/git.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
 
 export interface ClusterService {
@@ -23,27 +24,41 @@ export type Service = ClusterService | WorkstationService
 
 interface Place {
   readonly where: Service["where"]
-  readonly dir: string
-  readonly suffix: string
+  readonly glob: string
 }
 
+/**
+ * Where a service page is found, as the `files` glob its page type states.
+ *
+ * A GLOB RATHER THAN A DIRECTORY, because a service's page is held in the service's own folder
+ * beside the synth that emits it, and those folders are spread across the tree by what each
+ * service is for. A directory listing would find only the ones not yet moved there.
+ */
 const PLACES: readonly Place[] = [
-  { where: "cluster", dir: "pages/cluster-service", suffix: ".cluster-service.md" },
-  { where: "workstation", dir: "pages/workstation-service", suffix: ".workstation-service.md" },
+  { where: "cluster", glob: "*.cluster-service.md" },
+  { where: "workstation", glob: "*.workstation-service.md" },
 ]
 
+/**
+ * Every page the glob names, asked of git rather than of the filesystem.
+ *
+ * WALKING THE TREE IS NOT AN OPTION: `**` over this repository descends every `node_modules`, and
+ * a scan for one page type took three minutes before it was killed. Git holds the same answer as
+ * an index it already keeps. A page reaches the store through a commit, so a page git does not
+ * hold is a page nothing else can read either.
+ */
 function pagesIn(akasha: string, place: Place): readonly string[] {
-  let names: readonly string[]
-  try {
-    names = readdirSync(join(akasha, place.dir))
-  } catch {
+  const held = git(akasha, ["ls-files", "-z", "--", `*/${place.glob}`, place.glob])
+  if (held.code !== 0) {
     throw new DeployRefused(
-      `${place.dir} does not exist under ${akasha}, so no ${place.where} service can be named`
+      `git could not list the ${place.where} service pages under ${akasha}: ${held.stderr.trim()}`
     )
   }
-  return names
-    .filter((one) => one.endsWith(place.suffix))
-    .map((one) => join(akasha, place.dir, one))
+  return held.stdout
+    .split("\0")
+    .filter((one) => one !== "")
+    .map((one) => join(akasha, one))
+    .sort()
 }
 
 function serviceFrom(place: Place, path: string): Service {
