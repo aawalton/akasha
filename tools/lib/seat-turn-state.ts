@@ -2,8 +2,7 @@
 import {
   type TurnRecord,
   turnEndReadingOf,
-  turnStartOf,
-  turnStartSourceOf,
+  turnPendingSourceOf,
   turnStateOf,
 } from "./seat-turn.ts"
 import { type TurnPending, anyPendingRead, pendingOf, pendingOn } from "./seat-turn-pending.ts"
@@ -24,7 +23,6 @@ export interface SeatTurnRecords {
   readonly pending: TurnPending
   readonly working: TurnWorking
   readonly reading: TurnRecord | null
-  readonly started: TurnRecord | null
   readonly roleOnCall: boolean
 }
 
@@ -56,7 +54,7 @@ export function stampIn(recorded: TurnRecord | null): SeatTurnStamp {
 export function tookATurn(kept: SeatTurnRecords): boolean {
   if (anyPendingRead(kept.pending)) return true
   if (anyWorkingRead(kept.working)) return true
-  return [kept.stamped, kept.source, kept.reading, kept.started].some((one) => one !== null)
+  return [kept.stamped, kept.source, kept.reading].some((one) => one !== null)
 }
 
 export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
@@ -78,11 +76,10 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
 export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
   return {
     stamped: turnStateOf(agent),
-    source: turnStartSourceOf(agent),
+    source: turnPendingSourceOf(agent),
     pending: pendingOf(agent),
     working: workingOf(agent),
     reading: turnEndReadingOf(agent),
-    started: turnStartOf(agent),
     roleOnCall: roleOnCallOf(agent),
   }
 }

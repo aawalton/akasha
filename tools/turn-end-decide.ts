@@ -5,10 +5,10 @@ export const tool = {
 
 import { spawnSync } from "node:child_process"
 import { recordedModeOf } from "./lib/attributes.ts"
-import { decideTurnEnd, turnPendingFrom, turnStartSourceFrom } from "./lib/turn-end-decide.ts"
+import { decideTurnEnd, turnPendingFrom, turnPendingSourceFrom } from "./lib/turn-end-decide.ts"
 import { resolveRoots } from "../repo/roots/roots"
 import { seatAssignments } from "./lib/seat-assignments.ts"
-import { setTurnEndReading, setTurnState, setTurnStartSource } from "./lib/seat-turn.ts"
+import { setTurnEndReading, setTurnState, setTurnPendingSource } from "./lib/seat-turn.ts"
 import { setPending } from "./lib/seat-turn-pending.ts"
 import { setWorking } from "./lib/seat-turn-working.ts"
 import {
@@ -61,7 +61,7 @@ Usage:
   bun tools/turn-end-decide.ts [--agent <id>] < <stop-payload>
 
   Default stdout (TSV, one line):
-    <decision>\\t<reason>\\t<dispatch>\\t<waiting>\\t<turn start source>\\t<stopped|->
+    <decision>\\t<reason>\\t<dispatch>\\t<waiting>\\t<turn pending source>\\t<stopped|->
 
   --agent <id>  Whose turn is ending. Defaults to the AGENT_ID environment variable.
   --help        This.
@@ -184,15 +184,15 @@ async function main(argv: readonly string[]): Promise<number> {
   if (plan.kind !== "settled") throw new Error(`the rule settled nothing for ${agent}`)
 
   setPending(agent, turnPendingFrom(at))
-  const startSource = turnStartSourceFrom(at)
-  setTurnStartSource(agent, startSource)
+  const pendingSource = turnPendingSourceFrom(at)
+  setTurnPendingSource(agent, pendingSource)
   const stopped = plan.actions.some((one) => one.kind === "stop-seat") ? stop(agent) : false
   const refused = plan.record.decision === "block"
   setWorking(agent, { "active-turn": refused && !stopped })
   setTurnState(agent, stopped ? "stopped" : "idle")
   process.stdout.write(
     `${plan.record.decision}\t${plan.record.reason}\t${String(dispatched.length)}\t` +
-      `${startSource === "none" ? "no" : "yes"}\t${startSource}\t${stopped ? "stopped" : "-"}\n`
+      `${pendingSource === "none" ? "no" : "yes"}\t${pendingSource}\t${stopped ? "stopped" : "-"}\n`
   )
   if (plan.message !== null) process.stderr.write(plan.message)
   return plan.exitCode

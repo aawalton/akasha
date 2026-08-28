@@ -32,9 +32,9 @@ function refuse(reason: string, mode: SeatModeClaim, message: string): TurnEndPl
   return { kind: "settled", record: { decision: "block", reason, mode }, exitCode: 2, actions: [], message: said }
 }
 
-export const TURN_START_SOURCES = [...TURN_PENDING_COMPONENTS, "none"] as const
+export const TURN_PENDING_SOURCES = [...TURN_PENDING_COMPONENTS, "none"] as const
 
-export type TurnStartSource = (typeof TURN_START_SOURCES)[number]
+export type TurnPendingSource = (typeof TURN_PENDING_SOURCES)[number]
 
 export function turnPendingFrom(from: TurnEndInputs): Record<TurnPendingComponent, boolean> {
   const payload = from.payload
@@ -49,7 +49,7 @@ export function turnPendingFrom(from: TurnEndInputs): Record<TurnPendingComponen
   }
 }
 
-export function turnStartSourceFrom(from: TurnEndInputs): TurnStartSource {
+export function turnPendingSourceFrom(from: TurnEndInputs): TurnPendingSource {
   const pending = turnPendingFrom(from)
   return TURN_PENDING_COMPONENTS.find((one) => pending[one]) ?? "none"
 }
@@ -76,7 +76,7 @@ export function decideTurnEnd(from: TurnEndInputs): TurnEndPlan {
     if (from.inbound.kind === "unread") return { kind: "needs-read", verb: "owed" }
   }
 
-  const source = turnStartSourceFrom(from)
+  const source = turnPendingSourceFrom(from)
   const pending = source !== "none"
   if (from.onCall) return read(from, mode, pending)
   const stops: readonly TurnEndAction[] = from.mode === null ? [] : [{ kind: "stop-seat" }]

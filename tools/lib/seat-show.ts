@@ -22,10 +22,8 @@ import { workingLines, workingOf } from "./seat-turn-working.ts"
 import {
   turnEndReadingLine,
   turnEndReadingOf,
-  turnStartLine,
-  turnStartOf,
-  turnStartSourceLine,
-  turnStartSourceOf,
+  turnPendingSourceLine,
+  turnPendingSourceOf,
 } from "./seat-turn.ts"
 import { readSeatName, vocabulariesOf } from "./read-seat-name.ts"
 import { vocabularyOf } from "./seat-vocabulary.ts"
@@ -62,9 +60,8 @@ export function showLines(agent: string, args: Args): readonly string[] {
     `seat:   ${agent}`,
     ...linesOf(stated),
     seatTurnStateLine(seatTurnStateOf(agent)),
-    turnStartLine(turnStartOf(agent)),
     turnEndReadingLine(turnEndReadingOf(agent)),
-    turnStartSourceLine(turnStartSourceOf(agent)),
+    turnPendingSourceLine(turnPendingSourceOf(agent)),
     ...workingLines(workingOf(agent)),
     ...pendingLines(pendingOf(agent)),
     ...(inherited.length > 0 ? [`  (${inherited.join(", ")} inherited from the seat)`] : []),
