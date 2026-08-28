@@ -35,8 +35,6 @@ export interface TmuxCall {
   readonly err: string
 }
 
-export { akashaRoot }
-
 export function seatStartDir(): string {
   return resolve(akashaRoot(), "..")
 }
@@ -132,31 +130,10 @@ async function paneOf(name: string): Promise<string | null> {
   return first === "" ? null : first
 }
 
-/**
- * Holds a seat's pane open across the stop that is about to take its supervisor, and ends the turn
- * the supervisor is in.
- *
- * CALLED BEFORE THE HOLDER IS STOPPED, never after. This is the whole difference between cycling a
- * seat and destroying it: the pane's process IS the supervisor, one window holds that pane and one
- * session holds that window, so under `remain-on-exit off` stopping the supervisor takes the
- * session and every client attached to it. Turning it on first leaves a dead pane where the seat
- * was, which `respawnSeatUnderTmux` starts the new supervisor in.
- *
- * THE INTERRUPTS END A TURN RATHER THAN A PROCESS. A supervisor stopped mid-turn leaves a
- * transcript whose tool call never resolved, and the next boot refuses to hydrate it — `No
- * deferred tool marker found in the resumed session`. `C-c` reaches the client inside the proxy and
- * not the supervisor around it; measured, the pane's pid is unchanged by them.
- *
- * Answers false where no session stands, which is not a fault: there is then nothing to hold open.
- */
 export async function holdSeatPaneOpen(name: string): Promise<boolean> {
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   if (pane === null) return false
-  // A WINDOW OPTION, TARGETED BY PANE. `remain-on-exit` is not a session option: `set-option -t
-  // =<name>` answers `no such window` and changes nothing, which is why holding the pane open
-  // looked done and was not. The server's own default is `failed`, so a pane whose command
-  // exits 0 goes without this.
   await tmux(["set-option", "-w", "-t", pane, "remain-on-exit", "on"])
   for (let i = 0; i < INTERRUPTS; i += 1) {
     await tmux(["send-keys", "-t", pane, "C-c"])
@@ -165,24 +142,6 @@ export async function holdSeatPaneOpen(name: string): Promise<boolean> {
   return true
 }
 
-/**
- * Restarts a seat's supervisor inside the session it is already in.
- *
- * WHY NOT KILL THE SESSION. The supervisor is the pane's own process, so replacing it used to mean
- * killing the session and building a new one under the same name. Every client attached to the old
- * session loses it at that moment, and the seat comes back detached, somewhere other than the
- * terminal Alan was watching it in. `respawn-pane` replaces the pane's command in place: the
- * session, the window and the pane id all stand, and an attached client sees the old supervisor
- * stop and the new one start without moving.
- *
- * THE PANE IS ALREADY HELD OPEN AND ALREADY EMPTY when this runs. `holdSeatPaneOpen` is called
- * before the holder is stopped, because the caller's takeover SIGTERMs the supervisor and a pane
- * whose process exits under `remain-on-exit off` takes its window and its one-window session with
- * it — the seat destroyed by the act meant to cycle it, which is what happened to `amy` and to
- * `athena` before this. A dead pane can be respawned over; a dead session cannot.
- *
- * Answers false where there is no session to respawn into, which is the caller's cue to launch one.
- */
 export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolean> {
   const name = opts.name
   if (!(await sessionHolds(name))) return false
@@ -207,12 +166,6 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
         `session with it — attach with \`tmux attach -t =${name}\` to read what it says`
     )
   }
-  // LEFT ON. Turning it off here re-armed exactly what it was set to prevent: a supervisor that
-  // exits cleanly AFTER this probe window takes its pane, its window and its one-window session
-  // with it, and every client attached goes too. Measured on 2026-08-27 — `astra`, `thea`, `dalla`
-  // and `vera` were destroyed that way, where `amy` and `athena` survived only because their
-  // supervisors outlived the probe. A dead pane can be read and respawned over; a dead session
-  // cannot.
   return true
 }
 
@@ -225,10 +178,6 @@ export async function killSeatSession(name: string): Promise<boolean> {
 export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchSeatResult> {
   const name = opts.name
   if (await sessionHolds(name)) {
-    // A SESSION STANDING OVER A DEAD PANE IS NOT A SEAT HOLDING THE NAME. With `remain-on-exit` on,
-    // a supervisor that exits leaves its session up with nothing running in it, and the terminals
-    // attached to it are still attached. Respawning into that pane is the whole point of leaving it
-    // standing; refusing here would make the safety measure the thing that blocks the recovery.
     const held = await paneOf(name)
     const dead = held === null ? null : await tmux(["display-message", "-p", "-t", held, "#{pane_dead}"])
     if (held !== null && dead?.out === "1") {
@@ -258,10 +207,6 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
     )
   }
 
-  // ON, NOT OFF. A seat's session is one window holding one pane whose process is the supervisor,
-  // so `off` means the seat is destroyed the moment that process exits — which is how a cycle, a
-  // crash or a clean shutdown took the terminal with it. On, the pane stands dead and says what its
-  // status was. `ops seat stop` still takes the session, because it kills it outright.
   const launched = await paneOf(name)
   if (launched !== null) await tmux(["set-option", "-w", "-t", launched, "remain-on-exit", "on"])
 
