@@ -4,7 +4,10 @@ page-type-slug: page-property-definition
 title: "Seat turn state"
 defined-on-slug: page-type/seat
 key: turn-state
-type: json
+type: select(slug)
+values:
+  - idle
+  - stopped
 uncommitted: true
 computed: true
 slug: seat-turn-state
@@ -14,4 +17,8 @@ settled: true
 
 # Definition
 
-- **Seat turn state** — whether a seat is working, idle or stopped, and when it last was.
+- **Seat turn state** — whether an agent left its seat idle or stopped it.
+
+# Design
+
+A seat taking a turn is not stated here.
