@@ -13,7 +13,6 @@ parent-slug: astra-pages-system
 - The eleven single-importer files in `tools/lib` are folded into their sole callers.
 - `page/page-type/unsplittable.ts` reads page types through `registryOf` rather than its own glob and frontmatter reader.
 - `graph/frontmatter-at/` and `graph/page-index/` are gone, the page index doing its own caching.
-- `tools/lib/page-expression.ts`, `page-expression-function.ts`, `page-expression-value.ts` and `tools/tests/formula-conformance/` are gone, replaced by `pages-system/formula/`.
 - `shared/pages-core/src/formula/` is gone, replaced by `pages-system/formula/`.
 - `tools/page/` is gone.
 - `shared/status-bar-access` readings and `readouts/ask-over-http.ts` are gone.
