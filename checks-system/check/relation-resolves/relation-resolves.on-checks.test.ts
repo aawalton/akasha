@@ -65,6 +65,24 @@ type Patch = Readonly<Record<string, string | null>>
 
 type Ruling = { readonly root: string; readonly failures: readonly CheckFailure[] }
 
+/**
+ * The `page-type` pages the fixture pages themselves are of.
+ *
+ * A page states `page-type-slug` as a relation onto the `page-type` page carrying that slug, so a
+ * fixture tree holding only seats and domains leaves every one of them naming a page that is not
+ * there. These stand so that relation resolves here as it does in the tree, leaving each case to
+ * turn on the relation it is about.
+ */
+const PAGE_TYPES: World = {
+  "pages/page-type/page-type.page-type.md": pageTypePage("page-type"),
+  "pages/page-type/seat.page-type.md": pageTypePage("seat"),
+  "pages/page-type/subagent.page-type.md": pageTypePage("subagent"),
+  "pages/page-type/domain.page-type.md": pageTypePage("domain"),
+}
+
+function pageTypePage(slug: string): string {
+  return `---\npage-type-slug: page-type\nslug: ${slug}\n---\n`
+}
 function put(at: string, body: string): void {
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, body)
@@ -74,7 +92,8 @@ function sidecarFor(one: Naming): string {
   return join(RELATIONS, one.key, `${one.target}.jsonl`)
 }
 
-function verdict(world: World, patch: Patch, naming: readonly Naming[] = []): Ruling {
+function verdict(given: World, patch: Patch, naming: readonly Naming[] = []): Ruling {
+  const world = { ...PAGE_TYPES, ...given }
   const root = mkdtempSync(join(tmpdir(), "relation-resolves-"))
   try {
     for (const [relPath, body] of Object.entries(world)) put(join(root, relPath), body)
