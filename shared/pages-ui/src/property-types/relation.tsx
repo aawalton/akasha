@@ -14,6 +14,7 @@ import { RelationPopover } from "../components/relation-popover"
 import { type PageResolverValue, usePageResolverOptional } from "../contexts/page-resolver"
 import { parseConfig } from "@shared/pages-core/schema/pages"
 import { relationConfigSchema } from "@shared/pages-core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@shared/pages-core/types"
 import type { PropertyBadgeProps } from "./property-badge"
 import type { PropertyValue } from "./types"
 
@@ -39,7 +40,7 @@ function RelationEditableBadge({
   align,
   children,
 }: {
-  property: import("../index").PropertyDefinition
+  property: PropertyDefinition
   resolver: PageResolverValue
   currentIds: readonly string[]
   onPropertyChange: (propertyId: string, value: PropertyValue) => void
@@ -73,7 +74,7 @@ function RelationCardBadgeBody({
   onPropertyChange,
 }: {
   relValue: RelationValue | undefined
-  property: import("../index").PropertyDefinition
+  property: PropertyDefinition
   targetPageTypeId?: string
   pageHref?: (pageId: string, opts?: { targetPageTypeId?: string }) => string
   onPageNavigate?: (pageId: string) => void
@@ -147,7 +148,7 @@ function RelationDetailBody({
   onPageNavigate,
 }: {
   value: unknown
-  property: import("../index").PropertyDefinition
+  property: PropertyDefinition
   editable?: boolean
   onPropertyChange?: (propertyId: string, value: PropertyValue) => void
   onPageNavigate?: (pageId: string) => void
