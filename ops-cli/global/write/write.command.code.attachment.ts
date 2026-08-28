@@ -141,9 +141,9 @@ export const help = {
     "refused where it does not decode.",
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
-    { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON: `{ file_path, content }` or an array of them." },
+    { name: INPUT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "The tool-call JSON: `{ file_path, content }` or an array of them. `-` is stdin and the default." },
     { name: FILE_PATH, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "Convenience form, with --content-file. Repeatable; the pairs are one change set." },
-    { name: CONTENT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, repeat: true, description: "The body for the --file-path before it." },
+    { name: CONTENT_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, repeat: true, description: "The body for the --file-path before it. `-` is stdin, and a call addressing akasha refuses it." },
     { name: REMOVE, argLabel: "<p>", valueShape: "token" as const, path: true, repeat: true, description: "A path this same act takes away. The writes and the removals are one gated commit." },
     { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the written paths." },
     { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
