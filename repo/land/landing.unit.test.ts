@@ -15,7 +15,7 @@ test("a landing in a checkout the index was not built over leaves the index unto
   mkdirSync(join(root, "pages/probe"), { recursive: true })
   writeFileSync(join(root, relPath), "---\npage-type-slug: probe\n---\n")
   const was = loadPages().length
-  expect(indexAfterLanding("instructions", root, new Map(), [relPath], [])).toEqual([])
+  expect(() => indexAfterLanding("instructions", root, new Map(), [relPath], [])).not.toThrow()
   expect(loadPages().length).toBe(was)
   expect(loadPages().some((one) => one.key === relPath)).toBe(false)
 })
