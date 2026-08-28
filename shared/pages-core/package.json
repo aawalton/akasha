@@ -5,13 +5,11 @@
   "type": "module",
   "private": true,
   "exports": {
-    ".": "./src/index.ts",
     "./schema/action-button-config": "./src/schema/action-button-config.ts",
     "./schema/color-rule": "./src/schema/color-rule.ts",
     "./schema/pages": "./src/schema/pages.ts",
     "./schema/schema-profile": "./src/schema/schema-profile.ts",
     "./user-sentinels": "./src/user-sentinels.ts",
-    "./view-state": "./src/view-state/index.ts",
     "./*": "./src/*.ts"
   },
   "dependencies": {
