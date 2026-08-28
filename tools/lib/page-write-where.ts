@@ -3,7 +3,15 @@ import { type FileTree } from "../../page/file-tree.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { SLUG, newPageNameFor, placeDirOf, placesIn, scanIn, soleRepoOf } from "../../page/page-types.ts"
+import {
+  SLUG,
+  folderIn,
+  newPageNameFor,
+  placeDirOf,
+  placesIn,
+  scanIn,
+  soleRepoOf,
+} from "../../page/page-types.ts"
 import { stemOf as slugOf } from "../../page/name/name.ts"
 import { type Roots } from "../../page/page.ts"
 import { textAt } from "../../page/text/text.ts"
@@ -40,6 +48,12 @@ export interface Where {
  * the free pass found nothing, which is the create path, where a file write and a commit are about to
  * happen regardless. Folding both tests into one predicate would open every candidate on every write:
  * 279 ms for `story-chapter-royal-road`, whose place holds 17,905 files.
+ *
+ * A NEW PAGE'S DIRECTORY IS TAKEN FROM THE STATED PLACE RATHER THAN FROM THE SLUG. `placeDirOf`
+ * composes `pages/<slug>` and never reads the `files:` glob, so for a page type whose glob names a
+ * directory the composed path cannot match the glob its own page type states, and the page it files
+ * would be claimed by no page type — passed over by every check, index and query keyed on one. The
+ * glob is what finds an existing page, so it is what places a new one.
  */
 export function whereFor(
   roots: Roots,
@@ -61,8 +75,10 @@ export function whereFor(
     const text = textAt(root, one)
     return text !== null && textField(parseFrontmatter(text), SLUG) === name
   }
-  const filed = scanIn(root, placesIn(type, repo), repo)
+  const stated = placesIn(type, repo)
+  const filed = scanIn(root, stated, repo)
   const held = filed.find(stands) ?? filed.find(statesSlug)
-  const relPath = held ?? `${placeDirOf(type.slug)}/${newPageNameFor(type, name)}`
+  const dir = stated.map(folderIn).find((one) => one !== "") ?? placeDirOf(type.slug)
+  const relPath = held ?? `${dir}/${newPageNameFor(type, name)}`
   return { root, repo, relPath, path: join(root, relPath) }
 }
