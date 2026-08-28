@@ -12,6 +12,6 @@ export const relationResolves = {
   ],
   design: [
     "A relation check that does not walk `extendsSlug` is worthless, because a domain is a page and almost every relation crosses that.",
-    "The type carries which page type a relation may name; whether that page stands is a different claim, answered here.",
+    "The type carries which page type a relation may name; whether that page exists is a different claim, answered here.",
   ],
 } as const satisfies Module

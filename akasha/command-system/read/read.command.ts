@@ -4,7 +4,7 @@ export const read = {
   id: "01a04a32-495b-7a1e-9231-0acfa8bc4704",
   pageTypeSlug: "command",
   slug: "read",
-  definition: "a file and what is required for it, recorded, and on a re-read only what changed",
+  definition: "a file and what is required for it, recorded as read, and on a re-read only what changed",
   code: "ts",
   test: "ts",
   requiredReadingSlugs: [

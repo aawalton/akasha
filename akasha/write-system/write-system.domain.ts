@@ -16,7 +16,7 @@ export const writeSystem = {
   ],
   design: [
     "The index is written where the bodies are, so it is kept by the same guarantee that keeps the reading gate.",
-    "Nothing reaches disk but by a witness, and a witness is not obtained without the read it stands for.",
+    "Nothing reaches disk but by a witness, and a witness is not obtained without the read it is proof of.",
     "No function in the write path takes a body, so there is no layer beneath the door to enter.",
   ],
 } as const satisfies Domain
