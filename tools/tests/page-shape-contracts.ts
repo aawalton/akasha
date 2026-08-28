@@ -15,7 +15,7 @@ export const PRINCIPLE_CONTRACT: SectionPart = {
   },
   maxChars: "contents",
   cardinality: {
-    required: true,
+    least: 1,
     max: 12,
   },
   contains: [
@@ -23,7 +23,7 @@ export const PRINCIPLE_CONTRACT: SectionPart = {
       part: "block",
       block: "paragraph",
       cardinality: {
-        required: true,
+        least: 1,
         max: 1,
       },
       content: {
@@ -39,7 +39,7 @@ export const PRINCIPLE_CONTRACT: SectionPart = {
       part: "block",
       block: "paragraph",
       cardinality: {
-        required: true,
+        least: 1,
         max: 1,
       },
       content: {
@@ -61,7 +61,7 @@ export const SEQUENCE_CONTRACT: SectionPart = {
   },
   maxChars: "contents",
   cardinality: {
-    required: false,
+    least: 0,
     max: 1,
   },
   contains: [
@@ -70,11 +70,11 @@ export const SEQUENCE_CONTRACT: SectionPart = {
       block: "list",
       ordered: true,
       cardinality: {
-        required: true,
+        least: 1,
         max: 1,
       },
       items: {
-        required: true,
+        least: 1,
         max: 12,
       },
       item: [
@@ -97,7 +97,7 @@ export const SEQUENCE_CONTRACT: SectionPart = {
         },
       ],
       children: {
-        required: true,
+        least: 1,
         max: 15,
       },
       child: [
@@ -121,7 +121,7 @@ export const TASKS_CONTRACT: SectionPart = {
   },
   maxChars: "contents",
   cardinality: {
-    required: false,
+    least: 0,
     max: 1,
   },
   contains: [
@@ -130,11 +130,11 @@ export const TASKS_CONTRACT: SectionPart = {
       block: "list",
       ordered: false,
       cardinality: {
-        required: true,
+        least: 1,
         max: 1,
       },
       items: {
-        required: true,
+        least: 1,
         max: 10,
       },
       item: [
@@ -187,7 +187,7 @@ export const LOOP_CONTRACT: SectionPart = {
   },
   maxChars: "contents",
   cardinality: {
-    required: false,
+    least: 0,
     max: 1,
   },
   contains: [
@@ -196,11 +196,11 @@ export const LOOP_CONTRACT: SectionPart = {
       block: "list",
       ordered: true,
       cardinality: {
-        required: true,
+        least: 1,
         max: 1,
       },
       items: {
-        required: true,
+        least: 1,
         max: 12,
       },
       item: [
@@ -223,7 +223,7 @@ export const LOOP_CONTRACT: SectionPart = {
         },
       ],
       children: {
-        required: true,
+        least: 1,
         max: 15,
       },
       child: [
@@ -255,7 +255,7 @@ export const PRINCIPLE_FRAGMENT: Fragment = {
       },
       maxChars: "contents",
       cardinality: {
-        required: true,
+        least: 1,
         max: 12,
       },
       contains: [
@@ -263,7 +263,7 @@ export const PRINCIPLE_FRAGMENT: Fragment = {
           part: "block",
           block: "paragraph",
           cardinality: {
-            required: true,
+            least: 1,
             max: 1,
           },
           content: {
@@ -279,7 +279,7 @@ export const PRINCIPLE_FRAGMENT: Fragment = {
           part: "block",
           block: "paragraph",
           cardinality: {
-            required: true,
+            least: 1,
             max: 1,
           },
           content: {

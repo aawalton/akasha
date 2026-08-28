@@ -15,7 +15,7 @@ const compiled = (declares: boolean): CompiledShape => ({
           part: "key",
           name: HOLES_KEY,
           cardinality: optional,
-          value: { type: "list", of: { type: "slug" }, cardinality: { required: true, max: 8 } },
+          value: { type: "list", of: { type: "slug" }, cardinality: { least: 1, max: 8 } },
         },
       ]
     : [],
@@ -30,7 +30,7 @@ const compiled = (declares: boolean): CompiledShape => ({
         {
           part: "block",
           block: "paragraph",
-          cardinality: { required: false, max: 3 },
+          cardinality: { least: 0, max: 3 },
           content: { maxChars: SIZE_LG, marks: null, lead: null, template: null },
         },
         {
@@ -38,7 +38,7 @@ const compiled = (declares: boolean): CompiledShape => ({
           block: "list",
           ordered: false,
           cardinality: optional,
-          items: { required: true, max: 4 },
+          items: { least: 1, max: 4 },
           item: [{ maxChars: SIZE_LG, marks: null, lead: null, template: null }],
           children: null,
         },

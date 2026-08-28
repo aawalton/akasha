@@ -32,8 +32,8 @@ function listOf(part: PartDef | undefined): ListPart {
   return part
 }
 
-function count(card: { required: boolean; max: number }): string {
-  return `${card.required ? 1 : 0}-${card.max}`
+function count(card: { least: number; max: number }): string {
+  return `${card.least}-${card.max}`
 }
 
 const MANY = 12
@@ -125,9 +125,9 @@ describe("a heading that is a hole", () => {
 
   test("`count` is how many of that section may stand, and every count is read", () => {
     for (const [stated, expected] of [
-      ["1-12", { required: true, max: 12 }],
-      ["0-4", { required: false, max: 4 }],
-      ["3", { required: true, max: 3 }],
+      ["1-12", { least: 1, max: 12 }],
+      ["0-4", { least: 0, max: 4 }],
+      ["3", { least: 3, max: 3 }],
     ] as const) {
       const part = sectionOf(sectionOf(compiled(typeText(stated)).sections[0]).contains[0])
       expect(part.cardinality).toEqual(expected)
@@ -224,7 +224,7 @@ describe("a `repeat` where several paragraph shapes stand", () => {
   test("it bounds the last shape, which is the only one a greedy match can leave open", () => {
     const parts = sectionOf(sectionOf(compiled(text).sections[0]).contains[0]).contains
     expect(proseOf(parts[0]).cardinality).toEqual(tokens.once)
-    expect(proseOf(parts[1]).cardinality).toEqual({ required: true, max: 3 })
+    expect(proseOf(parts[1]).cardinality).toEqual({ least: 1, max: 3 })
   })
 
   test("one paragraph holds under it, three hold, and a fourth is refused", () => {

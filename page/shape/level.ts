@@ -13,7 +13,7 @@ export function blockKey(heading: string): string {
 
 const REPEAT = /^(\d+)(?:-(\d+))?$/
 
-const UNBOUNDED: Cardinality = { required: false, max: Number.POSITIVE_INFINITY }
+const UNBOUNDED: Cardinality = { least: 0, max: Number.POSITIVE_INFINITY }
 
 function boundOf(at: string, field: string, declared: unknown): { cardinality: Cardinality | null; why: string | null } {
   if (declared === undefined) return { cardinality: UNBOUNDED, why: null }
@@ -26,7 +26,10 @@ function boundOf(at: string, field: string, declared: unknown): { cardinality: C
   const min = Number(found[1])
   const max = found[2] === undefined ? min : Number(found[2])
   if (max < min) return { cardinality: null, why: `\`${at}.${field}: ${stated}\` runs backwards` }
-  return { cardinality: { required: min > 0, max }, why: null }
+  // THE FLOOR IS CARRIED RATHER THAN COLLAPSED. This read `min` and threw it away into
+  // `min > 0`, so `repeat: 3` and `repeat: 1-3` were one bound and a directive stripped to a
+  // single aid passed a shape stating three. A count read out of a shape is kept as a count.
+  return { cardinality: { least: min, max }, why: null }
 }
 
 function ceilingOf(key: string, declared: unknown): { maxChars: Ceiling | "contents" | null; why: string | null } {
@@ -60,8 +63,8 @@ function listPart(
   if (first === undefined) return no(`${at} writes a list holding no item`)
   const { cardinality: repeat, why: counted } = boundOf(`blocks.${key}`, "repeat", declared)
   if (repeat === null) return no(counted!)
-  const mayBeAbsent = mapAt(declared)["repeat"] !== undefined && !repeat.required
-  const items: Cardinality = mayBeAbsent ? { required: true, max: repeat.max } : repeat
+  const mayBeAbsent = mapAt(declared)["repeat"] !== undefined && repeat.least === 0
+  const items: Cardinality = mayBeAbsent ? { least: 1, max: repeat.max } : repeat
   const item: ContentRule[] = []
   const child: ContentRule[] = []
   for (const one of written) {

@@ -39,7 +39,7 @@ function rank(ceiling: Ceiling): string {
 }
 
 function count(card: Cardinality): string {
-  return `${card.required ? 1 : 0}-${card.max}`
+  return `${card.least}-${card.max}`
 }
 
 const WRAP: Readonly<Record<Mark, string>> = { strong: "**", em: "*", code: "`" }
@@ -188,13 +188,13 @@ describe("what a list block's markdown carries", () => {
 
 describe("the counts a list block's frontmatter carries", () => {
   const COUNTS: readonly (readonly [string, Cardinality])[] = [
-    ["1-12", { required: true, max: 12 }],
-    ["0-4", { required: false, max: 4 }],
-    ["3", { required: true, max: 3 }],
+    ["1-12", { least: 1, max: 12 }],
+    ["0-4", { least: 0, max: 4 }],
+    ["3", { least: 3, max: 3 }],
   ]
 
-  const FLOORED = COUNTS.filter(([, count]) => count.required)
-  const UNFLOORED = COUNTS.filter(([, count]) => !count.required)
+  const FLOORED = COUNTS.filter(([, count]) => count.least > 0)
+  const UNFLOORED = COUNTS.filter(([, count]) => count.least === 0)
 
   test("`repeat` bounds the items and `children` bounds the bullets beneath each one", () => {
     for (const [repeat, items] of FLOORED)
@@ -212,14 +212,14 @@ describe("the counts a list block's frontmatter carries", () => {
         compiled({ ...stageFixture("1."), declared: [`repeat: ${repeat}`, "children: 1-15"] }).contains[0]
       )
       expect(part.cardinality).toEqual(tokens.optional)
-      expect(part.items).toEqual({ required: true, max: count.max })
+      expect(part.items).toEqual({ least: 1, max: count.max })
     }
   })
 
   test("a type saying nothing about `repeat` still requires the list and bounds its items by nothing", () => {
     const part = listOf(compiled({ ...stageFixture("1."), declared: [] }).contains[0])
     expect(part.cardinality).toEqual(tokens.once)
-    expect(part.items).toEqual({ required: false, max: Number.POSITIVE_INFINITY })
+    expect(part.items).toEqual({ least: 0, max: Number.POSITIVE_INFINITY })
   })
 
   test("`count: 0-1` makes the section optional and leaves the list standing once", () => {

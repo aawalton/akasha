@@ -176,8 +176,8 @@ describe("the shape a body shape states", () => {
       if (repeat === null) continue
       const [min, max] = bounds(repeat)
       for (const block of blocksIn(section)) {
-        if (block.block === "list") expect(block.items).toEqual({ required: true, max })
-        else expect(block.cardinality).toEqual({ required: min > 0, max })
+        if (block.block === "list") expect(block.items).toEqual({ least: Math.max(min, 1), max })
+        else expect(block.cardinality).toEqual({ least: min, max })
         measured += 1
       }
     }

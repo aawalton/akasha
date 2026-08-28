@@ -17,8 +17,10 @@ const say = (c: Ctx, span: Span, part: string, expected: string, measured: strin
 
 const headingText = (s: Section): string => plain(s.heading)
 
+const atLeast = (least: number): string => (least === 1 ? "one" : `at least ${least}`)
+
 function countRefusal(c: Ctx, span: Span, part: string, n: number, card: Cardinality) {
-  if (card.required && n === 0) return say(c, span, part, "one", "none")
+  if (n < card.least) return say(c, span, part, atLeast(card.least), n === 0 ? "none" : `${n}`)
   if (n > card.max) return say(c, span, part, `at most ${card.max}`, `${n}`)
 }
 
@@ -26,7 +28,7 @@ function checkKey(c: Ctx, doc: Document, part: KeyPart) {
   const declared = doc.frontmatter.filter((k) => k.name === part.name)
   const name = `\`${part.name}:\``
   if (declared.length === 0) {
-    if (part.cardinality.required) say(c, doc.span, name, "the key", "nothing")
+    if (part.cardinality.least > 0) say(c, doc.span, name, "the key", "nothing")
     return
   }
   const max = part.cardinality.max
@@ -95,7 +97,12 @@ function checkBlocks(c: Ctx, host: Section, parts: readonly BlockPart[]) {
   for (const part of proseParts) {
     const left = paragraphs.length - i
     const take = Math.min(part.cardinality.max, left)
-    if (take <= 0) { if (part.cardinality.required) say(c, host.span, "a paragraph", "one", "none"); continue }
+    // A REPEAT SHORT OF ITS FLOOR IS REFUSED AGAINST THE COUNT. This tested a boolean, so it
+    // fired only where no paragraph at all stood, and a shape stating three took one in silence.
+    // What does stand is still read against its content rule below, so a body short of the count
+    // hears about the count and about what it wrote, rather than about the count alone.
+    if (take < part.cardinality.least)
+      say(c, host.span, "a paragraph", atLeast(part.cardinality.least), take === 0 ? "none" : `${take}`)
     for (let n = 0; n < take; n += 1) {
       const got = paragraphs[i]!
       const fault = checkContent(got.content as readonly Inline[], part.content)

@@ -11,5 +11,5 @@ export const SIZE_XL = ceiling(1000)
 export const SIZE_2XL = ceiling(2000)
 export const SIZE_3XL = ceiling(5000)
 
-export const once: Cardinality = { required: true, max: 1 }
-export const optional: Cardinality = { required: false, max: 1 }
+export const once: Cardinality = { least: 1, max: 1 }
+export const optional: Cardinality = { least: 0, max: 1 }

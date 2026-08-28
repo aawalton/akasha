@@ -55,7 +55,7 @@ export function checkValue(v: FrontmatterValue, t: ValueType): Fault | null {
   if (t.type === "list") {
     if (v.kind !== "list") return no(kindOf(v))
     const n = v.items.length
-    if (t.cardinality.required && n === 0) return no("an empty list")
+    if (n < t.cardinality.least) return no(n === 0 ? "an empty list" : `${n} entries`)
     if (n > t.cardinality.max) return no(`${n} entries`)
     for (const item of v.items) { const f = checkValue(item, t.of); if (f) return f }
     return null
