@@ -36,6 +36,7 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./shopping-page-content": "./src/shopping-page-content.tsx",
     "./*": "./src/*.ts"
   },
   "scripts": {

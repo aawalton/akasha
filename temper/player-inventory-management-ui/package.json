@@ -47,6 +47,13 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./inventory-page-content": "./src/inventory-page-content.tsx",
+    "./inventory-scope-note": "./src/inventory-scope-note.tsx",
+    "./inventory-summary-panel-card": "./src/inventory-summary-panel-card.tsx",
+    "./net-worth-basis-note": "./src/net-worth-basis-note.tsx",
+    "./net-worth-pricing-note": "./src/net-worth-pricing-note.tsx",
+    "./pricing-region-note": "./src/pricing-region-note.tsx",
+    "./pricing-source-note": "./src/pricing-source-note.tsx",
     "./*": "./src/*.ts"
   },
   "scripts": {
