@@ -40,12 +40,12 @@ export const domain = {
   ],
   rule: [
     {
-      name: "Every Changed Line",
-      act: "Show Ryn each line you change in a domain's definition, invariants, or directives.",
-      warrant: "The first words are almost never the right words. Fresh eyes see new options.",
+      name: "Every Line Before It Lands",
+      act: "Show Ryn a definition, invariant or directive before you land it.",
+      warrant: "The writer is the last to see that the first words are wrong.",
       aids: [
-        "For a mechanical change, show the mechanism.",
         "You still decide; Ryn only asks.",
+        "A line already landed is late, not excused.",
       ],
     },
     {

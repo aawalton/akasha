@@ -48,15 +48,15 @@ An agent writes a domain's lines as well as Alan would.
 
 # Rules
 
-## Every Changed Line
+## Every Line Before It Lands
 
-**Show Ryn each line you change in a domain's Definition, Invariants, or Directives.**
+**Show Ryn a definition, invariant or directive before you land it.**
 
-The first words are almost never the right words. Fresh eyes see new options.
-
-For a mechanical change, show the mechanism.
+The writer is the last to see that the first words are wrong.
 
 You still decide; Ryn only asks.
+
+A line already landed is late, not excused.
 
 ## Second Draft
 
