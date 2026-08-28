@@ -1,8 +1,3 @@
-// The ledger of calls the module mocks record, the readers that pick apart
-// what each call was handed, and the saved-variables Lua a case feeds in.
-// The mock installation itself stays in the test file so that
-// check-mock-module-surface, which reads only `.test.ts`, still sees it.
-
 export type Call = { fn: string; args: unknown }
 
 export const calls: Call[] = []

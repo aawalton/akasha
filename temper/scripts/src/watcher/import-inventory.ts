@@ -1,14 +1,14 @@
 import { getPages } from "@shared/pages-access/get"
 import { patchPage, patchRow } from "@shared/pages-query"
 import { askPage, type PageAsked } from "@shared/pages-query/ask"
-import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
+import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role.ts"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { readManagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-types"
 import { computeNetWorth } from "@temper/game-items-core/inventory-net-worth"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import { computeInventoryTotalValue } from "@temper/game-items-core/inventory-value"
 import { shardInventoryJson } from "@temper/game-items-core/shard-inventory"
-import { inventoryChunkName, inventorySnapshotName } from "./inventory-snapshot-name"
+import { inventoryChunkName, inventorySnapshotName } from "./inventory-snapshot-name.ts"
 
 const INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG = "temper-inventory-snapshot"
 const INVENTORY_CHUNK_PAGE_TYPE_SLUG = "temper-inventory-chunk"
@@ -17,11 +17,6 @@ const NET_WORTH_DAY_PAGE_TYPE_SLUG = "temper-net-worth-day"
 const WRITER = "temper-import-inventory"
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
-/**
- * A FRESH ID ONLY WHERE THE STORE SAID NO PAGE STANDS. A read that never reached the store says
- * nothing about whether the page is there, and an id minted on it is a second identity for a page
- * that already has one. Nothing but the write failing alongside the read has held that back.
- */
 function mintedIfAbsent(asked: PageAsked, what: string): Readonly<Record<string, string>> {
   if (asked.outcome === "found") return {}
   if (asked.outcome === "absent") return { id: Bun.randomUUIDv7() }

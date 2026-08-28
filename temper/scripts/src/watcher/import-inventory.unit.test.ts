@@ -1,12 +1,6 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { runImportInventory } from "./import-inventory"
-import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
-
-// WHAT THIS PINS IS THAT A READ THAT NEVER REACHED THE STORE DOES NOT BUY A NEW IDENTITY. This
-// import mints a uuid for each page it takes to be absent, and it takes a page to be absent off a
-// value a refused read and a genuine absence both produce. Minted on the refusal, the uuid is a
-// second identity for a page that already has one, and the only thing holding it back is that the
-// write carrying it is refused as well.
+import { runImportInventory } from "./import-inventory.ts"
+import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role.ts"
 
 const USER = "019f0000-0000-7000-b001-000000000001"
 
@@ -53,7 +47,6 @@ type Served = { written: readonly string[] }
 
 let stop: (() => void) | null = null
 
-/** Every read and every write is refused, which is the workstation this watcher actually runs on. */
 function serveNothing(): Served {
   const served: Served = { written: [] }
   const real = globalThis.fetch

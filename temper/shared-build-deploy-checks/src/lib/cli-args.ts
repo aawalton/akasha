@@ -1,13 +1,5 @@
-// Duplicated from @infra/checks, which is leaving this repository.
-//
-// The temper build-deploy checks read temper addon source, which stays here, so these
-// checks stay here too and need these helpers where they can reach them. The instructions
-// repo already carries its own equivalents (tools/lib/parse-args.ts, suggest-closest.ts,
-// check-workflow/error-message.ts, code-root.ts), so nothing is shared across the seam:
-// each side holds the copy it reads.
-
-import { assertNever } from "../../../../shared/utils-narrow/src/assert-never"
-import { suggestClosest } from "./suggest-closest"
+import { assertNever } from "../../../../shared/utils-narrow/src/assert-never.ts"
+import { suggestClosest } from "./suggest-closest.ts"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }

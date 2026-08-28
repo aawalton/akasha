@@ -1,6 +1,6 @@
 import { describe, expect, mock, test } from "bun:test"
 import { Page } from "@shared/pages-core/page-types"
-import type { runImportTasks } from "./import-tasks"
+import type { runImportTasks } from "./import-tasks.ts"
 import {
   asPageTypeSlug,
   asPatchSet,
@@ -16,7 +16,7 @@ import {
   RECURRING_ID,
   resetState,
   USER_ID,
-} from "./import-tasks.test-helpers"
+} from "./import-tasks.test-helpers.ts"
 
 type Rows = ReadonlyArray<Record<string, unknown>>
 
@@ -93,13 +93,6 @@ mock.module("@shared/pages-access/upsert", () => ({
   upsertPages: unreached("upsertPages"),
 }))
 
-// THESE SEVEN ARE THE REAL ONES ON PURPOSE, AND THE REST MUST NEVER BE. `mock.module` registers
-// per process rather than per file, so this mock is also what `import-inventory.unit.test.ts`
-// sees, and its subject reaches the real `askPage` in `@shared/pages-query/ask`, which imports
-// `pageQueryOrigin` and `readFromPageQueryService` from this very module. That test installs its
-// own `globalThis.fetch`, so those two answer off its stub rather than the network. Every other
-// key here is a thrower naming itself: the page query service is deleted, and a key left bound
-// to the real function would dial an origin with nothing behind it from inside a test run.
 const realPagesQuery = await import("@shared/pages-query")
 
 mock.module("@shared/pages-query", () => ({

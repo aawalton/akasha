@@ -8,10 +8,6 @@ const MOTIF_BOOK_SPECIALIZED_TYPE = 60
 const MOTIF_CHAPTER_SPECIALIZED_TYPE = 61
 const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 
-/**
- * The mine holds a hundred and fifty thousand items in one file, so the whole
- * catalogue is read before anything is matched.
- */
 const MINED_ITEM_CEILING_MS = 60_000
 
 function minedItemFetcher(url: string, init: RequestInit): Promise<Response> {
