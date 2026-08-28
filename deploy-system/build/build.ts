@@ -204,7 +204,11 @@ export function resolveBuildEnv(
 
 const SYNC_ATTEMPTS = 4
 
-const RACY = ["not our ref", "remote end hung up"]
+const RETRYABLE = [
+  "not our ref",
+  "remote end hung up",
+  "Could not write new index file",
+]
 
 function sleepFor(seconds: number): void {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, seconds * 1000)
@@ -220,7 +224,7 @@ export function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]
     ran.push(one)
     if (one.code === 0) return 0
     const said = `${one.stdout}${one.stderr}`
-    if (!RACY.some((word) => said.includes(word)) || attempt === SYNC_ATTEMPTS) return one.code
+    if (!RETRYABLE.some((word) => said.includes(word)) || attempt === SYNC_ATTEMPTS) return one.code
     sleepFor(attempt * 3)
   }
   return 1
