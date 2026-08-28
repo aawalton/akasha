@@ -196,7 +196,21 @@ export interface Deployed {
   readonly ran: readonly Ran[]
 }
 
-export async function deploy(akasha: string, plan: Plan): Promise<Deployed> {
+/**
+ * Apply this service's manifests, and wait for its rollout where it has one.
+ *
+ * A SERVICE THAT BUILDS IN ITS POD IS NOT WAITED FOR HERE, and `awaitRollout` is how a caller says
+ * so. Applying such a service moves its pod to a working directory whose build has not been made
+ * yet, so the new pod cannot start and the rollout cannot finish. Waiting on it would spend the
+ * timeout and then fail, and the build that would have made the pod startable never runs. The build
+ * is exec'd into the pod that is still up, into the node checkout both pods share, and the restart
+ * and the wait belong after it.
+ */
+export async function deploy(
+  akasha: string,
+  plan: Plan,
+  awaitRollout = true
+): Promise<Deployed> {
   refuseStandIns(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []
@@ -205,6 +219,7 @@ export async function deploy(akasha: string, plan: Plan): Promise<Deployed> {
     ran.push(one)
     if (one.code !== 0) return { plan, written, ran }
   }
+  if (!awaitRollout) return { plan, written, ran }
   const rollout = rolloutOf(plan)
   if (rollout !== null) ran.push(runKubectl(rollout))
   return { plan, written, ran }
