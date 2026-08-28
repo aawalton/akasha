@@ -6,11 +6,12 @@
  * `checkFormula` and `checkQuery` can each be run over the whole corpus in a script because none of
  * them can reach a file, and they stay that way by this package existing.
  *
- * FOUR QUESTIONS ARE ANSWERED. What a page type declares, which is what a query is checked against
+ * FIVE QUESTIONS ARE ANSWERED. What a page type declares, which is what a query is checked against
  * and what a naming is checked against. What each page type extends, which is what a query expanding
- * one page type into the page types beneath it is checked against. Which pages a page type has. What
- * one of those pages holds. A resolver is those four and the pure halves put together, and the
- * putting together is the caller's, so that no order of calls is baked in here.
+ * one page type into the page types beneath it is checked against. Where a page type's pages stand,
+ * for a page type whose pages are rows rather than files. Which pages a page type has. What one of
+ * those pages holds. A resolver is those five and the pure halves put together, and the putting
+ * together is the caller's, so that no order of calls is baked in here.
  *
  * WHERE A PAGE STANDS IS AN ADDRESS THIS PACKAGE ISSUES AND READS BACK, never a path a caller may
  * take apart or join to a root. A page is a file and its rows are a sidecar beside it, so a page of
@@ -190,6 +191,71 @@ export const extendingIn = (root: string): Extending => {
     if (over !== null && over !== NONE) extending.set(slug, over)
   }
   return extending
+}
+
+/** What a property definition states when the key it declares holds a page's rows. */
+const ROWS = "rows"
+
+/** The one way rows are written down, a row being a line of JSON. */
+const JSONL = "jsonl"
+
+/** What a property definition states the page type its rows are pages of. */
+const TARGET = "target-slug"
+
+/** One place a page type's pages stand as rows. */
+export type Holding = {
+  /** The page type whose pages hold them. */
+  readonly on: string
+  /** The key those pages hold them under, which is what names the sidecar. */
+  readonly key: string
+}
+
+/** Where a page type's pages stand, for a page type whose pages are rows. */
+export type Held = {
+  /** Every place its pages stand. A page type whose pages are files has none. */
+  readonly holdings: readonly Holding[]
+  /** Every property holding rows in a way this store cannot read, by the spelling it states. */
+  readonly beyond: Readonly<Record<string, string>>
+}
+
+/**
+ * Where a page type's pages stand as rows: which page types hold them, and under which key.
+ *
+ * A PAGE TYPE MAY BE HELD IN MORE THAN ONE PLACE. Thirteen page types hold `reference` rows under
+ * `references`, so this answers a list rather than one holding; a reader taking the first would
+ * answer a thirteenth of that page type's pages and say nothing about the rest.
+ *
+ * A ROWS SPELLING THIS STORE CANNOT READ IS CARRIED RATHER THAN DROPPED. `rows: jsonl` is the only
+ * spelling written down today, and a property stating another names pages that stand somewhere this
+ * cannot reach. Reading it as `jsonl` would answer no rows from a file that is not there, which is
+ * the same answer as a page holding none; carrying it under `beyond` is what lets a caller tell
+ * those apart and refuse rather than answer empty.
+ *
+ * THE HOLDER IS ANSWERED AS DECLARED, NOT EXPANDED. `log-line` is declared as the rows of `log-day`,
+ * and `seat-log-day` extends `log-day` and holds them too. Which page types stand beneath a holder
+ * is read off `extendingIn`, and putting the two together is the caller's, as it is for everything
+ * else here.
+ */
+export const holdingsOf = (root: string, pageType: string): Held => {
+  const found = pagesUnder(root, new Set([PROPERTY]))
+  const holdings: Holding[] = []
+  const beyond: Record<string, string> = {}
+  for (const one of found.get(PROPERTY) ?? []) {
+    const stated = statedAt(root, one)
+    if (typeof stated === "string") continue
+    const rows = textIn(stated, ROWS)
+    if (rows === null || textIn(stated, TARGET) !== pageType) continue
+    const on = textIn(stated, DEFINED_ON)
+    const key = textIn(stated, KEY)
+    if (on === null || !on.startsWith(ON) || key === null) continue
+    if (rows !== JSONL) {
+      beyond[textIn(stated, SLUG) ?? one] = rows
+      continue
+    }
+    holdings.push({ on: on.slice(ON.length), key })
+  }
+  holdings.sort((one, other) => one.on.localeCompare(other.on) || one.key.localeCompare(other.key))
+  return { holdings, beyond }
 }
 
 /**
