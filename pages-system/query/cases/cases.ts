@@ -54,7 +54,7 @@ export type Outcome =
   /** The query answers these pages, named by `at`, in this order. */
   | { readonly outcome: "answers"; readonly at: readonly string[] }
 
-export type CaseGroup = "order"
+export type CaseGroup = "order" | "limit"
 
 export interface QueryCase {
   /** Unique, and readable on its own in a failure line. */
@@ -121,6 +121,10 @@ const FALLS_ON_NEITHER: Citation = {
   line: 18,
 }
 const LESS_THAN: Citation = { page: "pages/list/formula-operators.list.md", line: 21 }
+const HOW_MANY: Citation = {
+  page: "pages/page-property-definition/page-query-limit.page-property-definition.md",
+  line: 14,
+}
 
 const NOT_DROPPED = "A narrow the query cannot read is refused, never dropped."
 const DECLARED_TYPE = "A page query compares a value by the type its property declares."
@@ -130,6 +134,7 @@ const FROM_HIGHEST =
 const NEITHER =
   "Before and at or after divide the pages carrying a value in two, each falling on one side. A page carrying no value at all falls on neither."
 const IS_LESS = "< — whether one number is less than another."
+const ANSWERS_WITH = "Page query limit — how many pages a page query answers with."
 
 // ---------------------------------------------------------------------------
 // The corpus
@@ -298,5 +303,81 @@ export const cases: QueryCase[] = [
       { at: "third", values: { rank: num(1) } },
     ],
     expected: { outcome: "answers", at: ["first", "second", "third"] },
+  },
+
+  // -------------------------------------------------------------------------
+  // limit
+  // -------------------------------------------------------------------------
+
+  {
+    name: "a query answers with no more pages than its limit",
+    group: "limit",
+    from: HOW_MANY,
+    claim: ANSWERS_WITH,
+    query: { pageType: "song", limit: 2 },
+    declared: DECLARED,
+    pages: [
+      { at: "one", values: { rank: num(1) } },
+      { at: "two", values: { rank: num(2) } },
+      { at: "three", values: { rank: num(3) } },
+    ],
+    expected: { outcome: "answers", at: ["one", "two"] },
+  },
+  {
+    name: "a limit larger than the pages found answers all of them",
+    group: "limit",
+    from: HOW_MANY,
+    claim: ANSWERS_WITH,
+    query: { pageType: "song", limit: 99 },
+    declared: DECLARED,
+    pages: [
+      { at: "one", values: { rank: num(1) } },
+      { at: "two", values: { rank: num(2) } },
+    ],
+    expected: { outcome: "answers", at: ["one", "two"] },
+  },
+  {
+    name: "a limit of nought answers no pages, which is what it asked for",
+    group: "limit",
+    from: HOW_MANY,
+    claim: ANSWERS_WITH,
+    query: { pageType: "song", limit: 0 },
+    declared: DECLARED,
+    pages: [{ at: "one", values: { rank: num(1) } }],
+    expected: { outcome: "answers", at: [] },
+  },
+  {
+    name: "a limit takes from the front of the order the query asked for",
+    group: "limit",
+    from: HOW_MANY,
+    claim: ANSWERS_WITH,
+    query: { pageType: "song", sortBy: "rank", descending: true, limit: 2 },
+    declared: DECLARED,
+    pages: [
+      { at: "two", values: { rank: num(2) } },
+      { at: "nine", values: { rank: num(9) } },
+      { at: "five", values: { rank: num(5) } },
+    ],
+    expected: { outcome: "answers", at: ["nine", "five"] },
+  },
+  {
+    name: "a limit fewer than no pages is refused",
+    group: "limit",
+    from: REFUSED_NOT_DROPPED,
+    claim: NOT_DROPPED,
+    query: { pageType: "song", limit: -3 },
+    declared: DECLARED,
+    pages: NOTHING,
+    expected: { outcome: "refused", mustName: ["limit", "-3"] },
+  },
+  {
+    name: "a limit that is not a whole number of pages is refused",
+    group: "limit",
+    from: REFUSED_NOT_DROPPED,
+    claim: NOT_DROPPED,
+    query: { pageType: "song", limit: 2.5 },
+    declared: DECLARED,
+    pages: NOTHING,
+    expected: { outcome: "refused", mustName: ["limit", "2.5"] },
   },
 ]
