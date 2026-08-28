@@ -15,7 +15,7 @@ Measured 2026-08-28 on main at `1675fa0f2`. `find . -name '*.uncommitted.jsonl'`
 
 The two are disjoint data rather than two stages of one pipeline. Tracked rows stand under `pages/skill`, `pages/class` and `pages/spell`, with no `pages/seat-log-day` among them, so the ratio to the tracked tree compares unlike populations.
 
-The exclusion is not where this record placed it. `auditRun` at `checks-system/run/audit.ts:31-38` does drop a path whose oid is missing, but that walk never sees one: `tree.paths()` comes from `onDisk` at `checks-system/run/tree.ts:52-53`, which is `trackedIn`, which runs `git ls-files -z` at `:9`. `onDisk` means the tracked tree, not what is on disk. The oid filter at `:36-37` drops tracked paths gone from disk instead (`repo/oid/oid.ts:57-60`). The gate is shut too: `checks-system/run/gate.ts:77-82` takes its subjects from `git diff --cached`.
+`auditRun` at `checks-system/run/audit.ts:31-38` does drop a path whose oid is missing, but that walk never sees one: `tree.paths()` comes from `onDisk` at `checks-system/run/tree.ts:52-53`, which is `trackedIn`, which runs `git ls-files -z` at `:9`. `onDisk` means the tracked tree, not what is on disk. The oid filter at `:36-37` drops tracked paths gone from disk instead (`repo/oid/oid.ts:57-60`). The gate is shut too: `checks-system/run/gate.ts:77-82` takes its subjects from `git diff --cached`.
 
 Rows are judged on the way in, though only for their keys: `judgeRow` fires at `tools/lib/page-rows-write.ts:174`, `:216` and `:305-311`.
 
