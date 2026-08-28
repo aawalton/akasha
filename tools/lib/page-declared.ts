@@ -11,6 +11,7 @@ import {
   PAGE_TYPE_GLOBS,
   PAGE_TYPE_KINDS,
   PROPERTY_GLOBS,
+  PROPERTY_KINDS,
   repoPlacings,
   scanIn,
   type Filed,
@@ -91,22 +92,32 @@ export function declaringRoot(roots: Roots): string {
 }
 
 /**
- * Every page-type declaration standing in akasha, by the page type each file's name carries.
+ * Every page of these kinds standing in akasha, by the kind each file's name carries.
  *
  * READ OFF THE INDEX RATHER THAN GLOBBED, for the reason `pageTypePaths` records in
- * `page/property/registry.ts`: the globs name `pages/page-type/` and nothing else, so the eleven
- * page types filed beside their own domains — the readout four, the graph seven — were invisible
- * here while the registry saw them, and the two answers to what page types exist disagreed.
+ * `page/property/registry.ts`: the globs name `pages/page-type/` and
+ * `pages/page-property-definition/` and nothing else, so the eleven page types filed beside their
+ * own domains — the readout four, the graph seven — were invisible here while the registry saw
+ * them, and so were the 57 property declarations standing beside them.
+ *
+ * NAMING THE REPOSITORY DOES NOT REACH THEM, which is why this asks the index by kind rather than
+ * handing it the globs. `scannedFromIndex` does read the index once given a repository, but it
+ * matches these same folder-anchored globs against the index keys, so it answers the folder
+ * question rather than the kind question and returns the same 2,231 paths the disk walk does.
  *
  * THE GLOB SCAN STANDS WHERE THE INDEX DOES NOT DESCRIBE THIS ROOT. A tree planted somewhere of
  * its own has no rows, and akasha's own rows read against it would answer for a tree nobody asked
  * about.
  */
-function pageTypePathsIn(root: string): readonly string[] {
-  if (!indexReaches(AKASHA, root)) return scanIn(root, PAGE_TYPE_GLOBS, AKASHA)
+function kindPathsIn(
+  root: string,
+  kinds: ReadonlySet<string>,
+  globs: readonly string[]
+): readonly string[] {
+  if (!indexReaches(AKASHA, root)) return scanIn(root, globs, AKASHA)
   const found = new Set<string>()
   for (const one of loadPages()) {
-    if (one.repo === AKASHA && PAGE_TYPE_KINDS.has(one.type)) found.add(one.key)
+    if (one.repo === AKASHA && kinds.has(one.type)) found.add(one.key)
   }
   return [...found].sort()
 }
@@ -131,7 +142,7 @@ export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
     const placed = repoPlacings(roots)
     const root = declaringRoot(roots)
     const kinds = new Map<string, Kind>()
-    for (const relPath of pageTypePathsIn(root)) {
+    for (const relPath of kindPathsIn(root, PAGE_TYPE_KINDS, PAGE_TYPE_GLOBS)) {
       const text = textAt(root, relPath)
       if (text === null) continue
       const { fm, why } = blockOf(text)
@@ -177,13 +188,13 @@ export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
 
 /**
  * Every property declaration standing in akasha, held for one call for the reason `kindsIn` gives:
- * this parses 2,231 files, and a call building several derivers parsed them once for each.
+ * this parses 2,288 files, and a call building several derivers parsed them once for each.
  */
 export function declarationsIn(roots: Roots): Declarations {
   return onceInCall(`page-property-declarations:${rootsKey(roots)}`, () => {
     const byKind = new Map<string, Map<string, Declared>>()
     const bySlug = new Map<string, Declared>()
-    for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS, AKASHA)) {
+    for (const relPath of kindPathsIn(declaringRoot(roots), PROPERTY_KINDS, PROPERTY_GLOBS)) {
       const text = textAt(declaringRoot(roots), relPath)
       if (text === null) continue
       const { fm, why } = blockOf(text)
