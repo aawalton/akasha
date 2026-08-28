@@ -2,7 +2,7 @@
 page-type-slug: persona
 id: 019eeb0f-b1b5-740e-86cf-5c460db52723
 title: Ione
-total-points: 58992
+total-points: 59497
 cover: "/api/image/019f324d-496d-758d-87cf-9f562ae66eec"
 slug: ione
 domain-parent-slug: readout-group/personas
