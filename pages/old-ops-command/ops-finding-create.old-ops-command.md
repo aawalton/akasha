@@ -13,7 +13,7 @@ irreversible: false
 
 # Definition
 
-- **Ops finding create** — one finding written down under its domain.
+- **Ops finding create** — one finding written down, keyed to its domain.
 
 # Help
 
