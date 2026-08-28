@@ -1,5 +1,5 @@
-import { describe, expect, it } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, it } from "bun:test"
+import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
@@ -7,8 +7,15 @@ import { renderBound } from "../../../../tools/lib/check-workflow/population-bou
 import { computeExitCode } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { type SeamFn, validateWorkspacesAgainstSeam } from "./workspaces-mainseam.ts"
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function makeFixtureRepo(workspaces: readonly string[], dirsWithPkg: readonly string[]): string {
   const root = mkdtempSync(join(tmpdir(), "mainseam-test-"))
+  made.push(root)
   writeFileSync(join(root, "package.json"), JSON.stringify({ name: "fixture-root", workspaces }))
   for (const rel of dirsWithPkg) {
     const abs = join(root, rel)
@@ -109,6 +116,7 @@ describe("validateWorkspacesAgainstSeam", () => {
 
   it("reports an empty population, certifying nothing, when no workspaces field is present", () => {
     const root = mkdtempSync(join(tmpdir(), "mainseam-test-"))
+    made.push(root)
     writeFileSync(join(root, "package.json"), JSON.stringify({ name: "no-ws" }))
     const { population, violations } = validateWorkspacesAgainstSeam(listWorkspaceDirs, root)
     expect(violations).toEqual([])
