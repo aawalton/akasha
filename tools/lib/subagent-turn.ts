@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { type SeatTurnReading, type SeatTurnState, seatTurnStateOf } from "./seat-turn-state.ts"
-import { subagentPagePathFor } from "./subagent-page.ts"
+import { subagentPagePathFor } from "./subagent-page-read.ts"
 import { seatAbove } from "./subagent.ts"
 
 const SEAT_GONE: SeatTurnState = "stopped"

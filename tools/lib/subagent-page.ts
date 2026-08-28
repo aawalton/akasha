@@ -1,57 +1,33 @@
-import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
-import { basename, join } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name.ts"
-import {
-  dirsOfPlaces,
-  placeHolding,
-  rootOfPlace,
-  SUBAGENT_PLACES,
-  SUBAGENT_WRITE,
-} from "./agent-page-place.ts"
+/**
+ * Landing and taking away a subagent's page.
+ *
+ * WHERE THE PAGES ARE AND WHICH STAND IS `subagent-page-read.ts`, and this imports it rather than
+ * holding it. Every reader of a subagent's turn asks only where the page is; while that answer sat
+ * here, asking it loaded `gated-write.ts` below, and with it a subprocess spawner that only runs
+ * under bun. See that file for the finding.
+ */
+
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { placeHolding, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
-import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
+import { stemOf as slugOf } from "../../page/name/name.ts"
+import { frontmatterOf, seatNameForAgent } from "./seat-presence-read.ts"
 import type { StandingSubagent } from "./subagent-guard.ts"
-import { SUBAGENT_MARK, seatAbove, subagentUnder } from "./subagent.ts"
-
-const PAGE_TYPE = "subagent"
-
-const PAGE_SUFFIX = ".md"
+import { SUBAGENT_MARK, subagentUnder } from "./subagent.ts"
+import {
+  standingPagePathsOf,
+  subagentPagePathFor,
+  subagentPageRelPath,
+  subagentSeatName,
+  SUBAGENT_PAGE_TYPE,
+} from "./subagent-page-read.ts"
 
 const SCRATCH = "/var/tmp"
 
 const WRITER = "subagent-page-writer"
 
 const runTool = writerFor(WRITER)
-
-function seatNameOf(agent: string): string | null {
-  const seat = seatAbove(agent)
-  if (seat === null) return null
-  const page = seatPageForAgent(seat)
-  return page === null ? null : slugOf(page)
-}
-
-export function subagentPageRelPath(seatName: string, own: string): string {
-  return `${SUBAGENT_WRITE.dir}/${seatName}${SUBAGENT_MARK}${own}.${PAGE_TYPE}${PAGE_SUFFIX}`
-}
-
-function spellingsOf(seatName: string, own: string): readonly string[] {
-  const stem = `${seatName}${SUBAGENT_MARK}${own}`
-  return [`${stem}.${PAGE_TYPE}${PAGE_SUFFIX}`, `${stem}${PAGE_SUFFIX}`]
-}
-
-export function subagentPagePathFor(agent: string): string | null {
-  const own = subagentUnder(agent)
-  const seatName = seatNameOf(agent)
-  if (own === null || seatName === null) return null
-  for (const dir of dirsOfPlaces(SUBAGENT_PLACES)) {
-    for (const name of spellingsOf(seatName, own)) {
-      const at = `${dir}/${name}`
-      if (existsSync(at)) return at
-    }
-  }
-  const root = rootOfPlace(SUBAGENT_WRITE)
-  return root === null ? null : `${root}/${subagentPageRelPath(seatName, own)}`
-}
 
 function standingId(absolute: string): string | null {
   const held = frontmatterOf(absolute)?.["id"]
@@ -61,7 +37,7 @@ function standingId(absolute: string): string | null {
 export function subagentPageBody(id: string, name: string, dispatchedAs: string, own: string): string {
   return [
     "---",
-    `page-type-slug: ${PAGE_TYPE}`,
+    `page-type-slug: ${SUBAGENT_PAGE_TYPE}`,
     `id: ${id}`,
     `slug: ${name}`,
     `title: "${name}"`,
@@ -74,7 +50,7 @@ export function subagentPageBody(id: string, name: string, dispatchedAs: string,
 
 export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome {
   const own = subagentUnder(agent)
-  const seatName = seatNameOf(agent)
+  const seatName = subagentSeatName(agent)
   if (own === null || seatName === null || dispatchedAs === "") return { kind: "unstated" }
   const relPath = subagentPageRelPath(seatName, own)
   const absolute = subagentPagePathFor(agent)
@@ -119,7 +95,7 @@ export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome 
 
 export function removeSubagentPage(agent: string): Outcome {
   const own = subagentUnder(agent)
-  const seatName = seatNameOf(agent)
+  const seatName = subagentSeatName(agent)
   if (own === null || seatName === null) return { kind: "unchanged" }
   const absolute = subagentPagePathFor(agent)
   if (absolute === null || !existsSync(absolute)) return { kind: "unchanged" }
@@ -136,35 +112,9 @@ export function removeSubagentPage(agent: string): Outcome {
   return taken.code === 0 ? { kind: "removed" } : { kind: "refused", detail: whyRefused(taken.output) }
 }
 
-function standingPagePathsOf(seatName: string): readonly string[] {
-  const mark = `${seatName}${SUBAGENT_MARK}`
-  const found: string[] = []
-  for (const dir of dirsOfPlaces(SUBAGENT_PLACES)) {
-    if (!existsSync(dir)) continue
-    for (const name of readdirSync(dir)) {
-      if (name.startsWith(mark) && name.endsWith(PAGE_SUFFIX)) found.push(`${dir}/${name}`)
-    }
-  }
-  return found
-}
-
-export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
-  const page = seatPageForAgent(seat)
-  if (page === null) return []
-  const seatName = slugOf(page)
-  return standingPagePathsOf(seatName).map((absolute) => {
-    const stated = frontmatterOf(absolute)?.["subagent-type"]
-    return {
-      name: slugOf(absolute),
-      dispatchedAs: typeof stated === "string" && stated !== "" ? stated : "unstated",
-    }
-  })
-}
-
 export function removeSubagentPagesOf(seat: string, why: string): Outcome {
-  const page = seatPageForAgent(seat)
-  if (page === null) return { kind: "unchanged" }
-  const seatName = slugOf(page)
+  const seatName = seatNameForAgent(seat)
+  if (seatName === null) return { kind: "unchanged" }
   const standing = standingPagePathsOf(seatName)
   if (standing.length === 0) return { kind: "unchanged" }
   const byRepo = new Map<string, string[]>()
@@ -183,4 +133,24 @@ export function removeSubagentPagesOf(seat: string, why: string): Outcome {
     if (taken.code !== 0) return { kind: "refused", detail: whyRefused(taken.output) }
   }
   return { kind: "removed" }
+}
+
+/**
+ * Which subagents stand under a seat.
+ *
+ * BESIDE THE WRITERS RATHER THAN BESIDE THE PATHS, because its two callers are the two acts that
+ * clear these pages — a stop and a resume both ask what stands before they take anything away. A
+ * turn read never asks it, which is why it is not in `subagent-page-read.ts` holding the reader
+ * open to the writer this file imports.
+ */
+export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
+  const seatName = seatNameForAgent(seat)
+  if (seatName === null) return []
+  return standingPagePathsOf(seatName).map((absolute) => {
+    const stated = frontmatterOf(absolute)?.["subagent-type"]
+    return {
+      name: slugOf(absolute),
+      dispatchedAs: typeof stated === "string" && stated !== "" ? stated : "unstated",
+    }
+  })
 }
