@@ -3,6 +3,7 @@ export const summary = "Report running/stopped status for one or all dev servers
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import {
+  APP_NAMES,
   type DevServerState,
   isPidAlive,
   listStateFiles,
@@ -28,7 +29,7 @@ export const help: CommandHelp = {
       name: "--app",
       argLabel: "<name>",
       valueShape: "token",
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     { name: "--json", description: "Emit JSON array instead of TSV" },
   ],
