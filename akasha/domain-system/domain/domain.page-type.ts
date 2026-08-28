@@ -37,6 +37,7 @@ export const domain = {
   ],
   rule: [
     {
+      name: "Every Changed Line",
       act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
       warrant: "Readers below inherit these, so a wrong one is obeyed, not caught.",
       aids: [
@@ -45,6 +46,7 @@ export const domain = {
       ],
     },
     {
+      name: "Second Draft",
       act: "Write every definition and invariant again, simpler, plainer, clearer, shorter.",
       warrant: "Agents work better when given fewer, plainer words in simpler grammar.",
       aids: [

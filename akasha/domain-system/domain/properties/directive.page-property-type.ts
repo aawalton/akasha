@@ -1,9 +1,11 @@
 import type { PagePropertyType } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 import type { Act } from "./act.page-property-type.ts"
 import type { Aid } from "./aid.page-property-type.ts"
+import type { Name } from "./name.page-property-type.ts"
 import type { Warrant } from "./warrant.page-property-type.ts"
 
 export type Directive = {
+  name: Name
   act: Act
   warrant: Warrant
   aids: readonly [Aid, Aid]

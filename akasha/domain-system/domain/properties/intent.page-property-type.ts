@@ -15,6 +15,7 @@ export const intent = {
   ],
   rule: [
     {
+      name: "Resolve When Found",
       act: "Move or delete an intent entry as soon as you find it true, not when the work on it closes.",
       warrant: "Nothing re-reads an entry, so one that came true and stayed sends someone at a gap already shut.",
       aids: [
