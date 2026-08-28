@@ -12,7 +12,6 @@ required-reading-slugs:
 conditional-reading-slugs:
   - file-finding
   - run-naming-exercise
-  - change-instructions
   - define-definition
   - define-domain-structure
   - define-initiative
