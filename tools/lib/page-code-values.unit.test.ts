@@ -35,11 +35,11 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const away = join(root, "no-such-repo")
 
 const ROOTS: Roots = {
-  akasha: away,
+  akasha: root,
   books: away,
   code: away,
   "code-editor": away,
-  instructions: root,
+  instructions: away,
   memory: away,
   stories: away,
 }
