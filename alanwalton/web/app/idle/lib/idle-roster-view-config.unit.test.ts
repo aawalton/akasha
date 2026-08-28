@@ -1,9 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import {
-  buildRosterViewConfig,
-  ROSTER_TITLE_REFRESH_MS,
-  ROSTER_VIEW_VISIBLE_PROPERTIES,
-} from "./idle-roster-view-config"
+import { buildRosterViewConfig, ROSTER_VIEW_VISIBLE_PROPERTIES } from "./idle-roster-view-config.ts"
 
 describe("roster view config", () => {
   test("builds the gallery config (layout, cover source, page type, visible props)", () => {
@@ -27,10 +23,8 @@ describe("roster view config", () => {
     expect(config.visible_properties).toEqual([...ROSTER_VIEW_VISIBLE_PROPERTIES])
   })
 
-  test("carries the cards' 1s live-refresh cadence, sourced from the canonical constant", () => {
+  test("carries no title properties", () => {
     const config = buildRosterViewConfig("card-type-id")
-    expect(config.live_refresh_ms).toBe(1000)
-    expect(config.live_refresh_ms).toBe(ROSTER_TITLE_REFRESH_MS)
     expect("title_properties" in config).toBe(false)
     expect("title_properties_align" in config).toBe(false)
   })

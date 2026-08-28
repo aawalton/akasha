@@ -2,7 +2,7 @@ import { afterEach, describe, expect, it, mock } from "bun:test"
 import { cleanup, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
-import { PageCardProperties } from "./page-card-properties"
+import { PageCardProperties } from "./page-card-properties.tsx"
 
 mock.module("../supabase/use-set-property-optimistic", () => ({
   useSetPropertyOptimistic: () => () => {},
@@ -187,44 +187,5 @@ describe("PageCardProperties — action-button empty carve-out", () => {
     )
     expect(screen.queryByRole("button")).toBeNull()
     expect(screen.queryByText("Note")).toBeNull()
-  })
-})
-
-describe("PageCardProperties — live formula fields", () => {
-  const liveFormulaDef = (live: boolean): PropertyDefinition => ({
-    id: "f",
-    title: "F",
-    type: "formula",
-    config: {
-      expression: "if(now == 0, 111, 222)",
-      returnType: "number",
-      ...(live ? { live: true } : {}),
-    },
-  })
-
-  it("a live formula re-resolves with the injected client clock (now>0 branch)", () => {
-    render(
-      <PageCardProperties
-        definitions={[liveFormulaDef(true)]}
-        data={{}}
-        visiblePropertyIds={["f"]}
-        liveRefreshMs={20}
-      />
-    )
-    expect(screen.getByText("222")).toBeDefined()
-    expect(screen.queryByText("111")).toBeNull()
-  })
-
-  it("a non-live formula stays at its now===0 anchor (no interval runs)", () => {
-    render(
-      <PageCardProperties
-        definitions={[liveFormulaDef(false)]}
-        data={{}}
-        visiblePropertyIds={["f"]}
-        liveRefreshMs={20}
-      />
-    )
-    expect(screen.getByText("111")).toBeDefined()
-    expect(screen.queryByText("222")).toBeNull()
   })
 })

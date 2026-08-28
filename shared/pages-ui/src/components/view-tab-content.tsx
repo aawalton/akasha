@@ -4,24 +4,24 @@ import { parseListingConfig } from "@shared/pages-core/schema/listing-config"
 import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@shared/pages-core/schema/view-data"
 import { type LockedFacet } from "@shared/pages-core/schema/view-data-locked"
 import { PageTypeSlug } from "@shared/pages-url"
-import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider"
-import { type PageWithProperties } from "../supabase/types"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { useUserId } from "../use-user-id"
-import { PageCardRenderer } from "./page-card-renderer"
-import { pageRowToPageDataJSON } from "./page-data-json"
-import { PageSystemTabContent } from "./page-system-view"
-import { type PageTypeOption } from "./page-system-view-settings-types"
-import { readRelationConfig } from "./page-system-view-helpers"
-import { PageTableRowCells } from "./page-table"
-import { useGalleryViewProps } from "./use-gallery-view-props"
-import { useNotesViewProps } from "./use-notes-view-props"
-import { usePropertyChangePerfHandler } from "./use-property-change-perf-handler"
-import { useReorderViewWiring } from "./use-reorder-view-wiring"
-import { useViewConfigHandlers } from "./use-view-config-handlers"
-import { useViewRowHandlers } from "./use-view-row-handlers"
-import { useViewTabContentData } from "./use-view-tab-content-data"
-import { buildRelationBackLinkHref, buildRowHref } from "./view-tab-content-href"
+import { SupabasePageResolverProvider } from "../supabase/page-resolver-provider.tsx"
+import { type PageWithProperties } from "../supabase/types.ts"
+import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
+import { useUserId } from "../use-user-id.tsx"
+import { PageCardRenderer } from "./page-card-renderer.tsx"
+import { pageRowToPageDataJSON } from "./page-data-json.ts"
+import { PageSystemTabContent } from "./page-system-view.tsx"
+import { type PageTypeOption } from "./page-system-view-settings-types.ts"
+import { readRelationConfig } from "./page-system-view-helpers.tsx"
+import { PageTableRowCells } from "./page-table.tsx"
+import { useGalleryViewProps } from "./use-gallery-view-props.ts"
+import { useNotesViewProps } from "./use-notes-view-props.ts"
+import { usePropertyChangePerfHandler } from "./use-property-change-perf-handler.ts"
+import { useReorderViewWiring } from "./use-reorder-view-wiring.ts"
+import { useViewConfigHandlers } from "./use-view-config-handlers.ts"
+import { useViewRowHandlers } from "./use-view-row-handlers.ts"
+import { useViewTabContentData } from "./use-view-tab-content-data.ts"
+import { buildRelationBackLinkHref, buildRowHref } from "./view-tab-content-href.ts"
 
 export function ViewTabContent({
   parentPageTypeId,
@@ -220,7 +220,6 @@ export function ViewTabContent({
             galleryCoverSourceId={galleryCoverSource}
             notesProperty={notesProperty}
             coverActionCapability={coverActionCapability}
-            liveRefreshMs={viewConfig?.live_refresh_ms}
             rowPageTypeSlug={rowPageTypeSlug}
             rowAggregates={rowAggregates}
             pageTypeIconName={pageTypeIconName}

@@ -1,16 +1,16 @@
 import { afterEach, beforeEach, describe, expect, it, mock } from "bun:test"
 import { act, cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
-import type { ActionVerbContext } from "../action-verbs/action-verb-registry"
+import type { ActionVerbContext } from "../action-verbs/action-verb-registry.ts"
 import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
 
 mock.module("../supabase/use-set-property-optimistic", () => ({
   useSetPropertyOptimistic: () => () => {},
 }))
 
-const { PageTitleProperties } = await import("./page-title-properties")
+const { PageTitleProperties } = await import("./page-title-properties.tsx")
 const { registerActionVerb, unregisterActionVerb } = await import(
-  "../action-verbs/action-verb-registry"
+  "../action-verbs/action-verb-registry.ts"
 )
 
 const SCRATCH = "title-draw-verb"
@@ -120,31 +120,5 @@ describe("PageTitleProperties — action-button carve-out fires with the nav-row
     const ctx = handler.mock.calls[0]?.[0]
     expect(ctx?.pageId).toBe("nav_1")
     expect(ctx?.pageTypeSlug).toBe("nav")
-  })
-})
-
-describe("PageTitleProperties — live formula ticks with the injected clock", () => {
-  const liveFormulaDef: PropertyDefinition = {
-    id: "f",
-    title: "F",
-    type: "formula",
-    config: {
-      expression: "if(now == 0, 111, 222)",
-      returnType: "number",
-      live: true,
-    },
-  }
-
-  it("re-resolves a live formula against the mounted client clock (now>0 branch)", () => {
-    render(
-      <PageTitleProperties
-        definitions={[liveFormulaDef]}
-        data={{}}
-        titlePropertyIds={["f"]}
-        liveRefreshMs={20}
-      />
-    )
-    expect(screen.getByText("222")).toBeDefined()
-    expect(screen.queryByText("111")).toBeNull()
   })
 })

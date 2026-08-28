@@ -8,8 +8,6 @@ export const ROSTER_VIEW_VISIBLE_PROPERTIES = [
   "trainMax",
 ] as const
 
-export const ROSTER_TITLE_REFRESH_MS = 1000
-
 export type RosterViewConfig = {
   readonly version: number
   readonly pageTypeId: string
@@ -19,7 +17,6 @@ export type RosterViewConfig = {
   readonly group_by: string
   readonly visible_properties: readonly string[]
   readonly page_size: number
-  readonly live_refresh_ms: number
 }
 
 export function buildRosterViewConfig(cardPageTypeId: string): RosterViewConfig {
@@ -32,6 +29,5 @@ export function buildRosterViewConfig(cardPageTypeId: string): RosterViewConfig 
     group_by: "lockState",
     visible_properties: [...ROSTER_VIEW_VISIBLE_PROPERTIES],
     page_size: 100,
-    live_refresh_ms: ROSTER_TITLE_REFRESH_MS,
   }
 }

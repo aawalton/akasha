@@ -1,13 +1,13 @@
-import { isRecord } from "../../../utils-narrow/src/is-record"
+import { isRecord } from "../../../utils-narrow/src/is-record.ts"
 import * as z from "zod"
-import type { ReadonlyJSONValue } from "./pages"
-import type { GalleryCardSize } from "../view/gallery"
+import type { ReadonlyJSONValue } from "./pages.ts"
+import type { GalleryCardSize } from "../view/gallery.ts"
 import {
   type GranularLockKey,
   isFacetLocked,
   type LockedFacet,
   lockedFacetSchema,
-} from "./view-data-locked"
+} from "./view-data-locked.ts"
 
 export const viewLayoutSchema = z.enum([
   "cards",
@@ -64,7 +64,6 @@ const viewDataSchemaV1 = z.object({
   page_size: z.number().int().positive().optional(),
   group_page_size: z.number().int().positive().optional(),
   item_page_size: z.number().int().positive().optional(),
-  live_refresh_ms: z.number().int().positive().optional(),
   locked: lockedFacetSchema.optional(),
   reorder: z.object({ verbId: z.string() }).optional(),
   title_properties: z.array(z.string()).optional(),
@@ -131,7 +130,6 @@ export interface ViewDataJSON {
   page_size?: number
   group_page_size?: number
   item_page_size?: number
-  live_refresh_ms?: number
   locked?: LockedFacet
   reorder?: { verbId: string }
   title_properties?: readonly string[]

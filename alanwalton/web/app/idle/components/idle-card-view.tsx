@@ -8,8 +8,8 @@ import { useReorderViewWiring } from "@shared/pages-ui/components/use-reorder-vi
 import { type PageRow } from "@shared/pages-ui/view-engine/page-row"
 import { PageTypeSlug } from "@shared/pages-url"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
-import { cumulativeTrainCost, maxAffordableTrainCount } from "../lib/core/accrual"
-import { displayedResource } from "../lib/core/rate"
+import { cumulativeTrainCost, maxAffordableTrainCount } from "../lib/core/accrual.ts"
+import { displayedResource } from "../lib/core/rate.ts"
 import { bucketPageRowsByGroup } from "~/idle/lib/idle-card-grouping"
 import {
   IDLE_CARD_PROPERTY_DEFINITIONS,
@@ -44,7 +44,6 @@ interface CardViewLayout {
     | readonly { readonly field: string; readonly direction: "asc" | "desc" }[]
     | undefined
   readonly reorder: { readonly verbId: string } | undefined
-  readonly liveRefreshMs: number | undefined
   readonly pageSize: number | undefined
   readonly defaultGroupBy: string
   readonly label: string
@@ -61,7 +60,6 @@ function buildCardViewLayout(view: "lineup" | "roster"): CardViewLayout {
       filters: c.filters,
       sorts: c.sorts,
       reorder: c.reorder,
-      liveRefreshMs: undefined,
       pageSize: undefined,
       defaultGroupBy: "",
       label: "Team",
@@ -76,7 +74,6 @@ function buildCardViewLayout(view: "lineup" | "roster"): CardViewLayout {
     filters: undefined,
     sorts: undefined,
     reorder: undefined,
-    liveRefreshMs: c.live_refresh_ms,
     pageSize: c.page_size,
     defaultGroupBy: c.group_by,
     label: "Roster",
@@ -166,7 +163,6 @@ export function IdleCardView({ view, now }: { view: "lineup" | "roster"; now: nu
           visibleProperties={layout.visibleProperties}
           galleryCardSize={layout.galleryCardSize}
           galleryCoverSourceId={layout.galleryCoverSource}
-          liveRefreshMs={layout.liveRefreshMs}
           coverActionCapability={ROSTER_GALLERY_CAPABILITY}
           rowPageTypeSlug={ROW_PAGE_TYPE_SLUG}
           rowAggregates={EMPTY_AGGREGATES}

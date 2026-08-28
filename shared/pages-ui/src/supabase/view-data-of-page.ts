@@ -212,7 +212,6 @@ export function viewDataFromFile(
     page_size: intOf(properties.pageSize),
     group_page_size: intOf(properties.groupPageSize),
     item_page_size: intOf(properties.itemPageSize),
-    live_refresh_ms: intOf(properties.liveRefreshMs),
     title_properties: keyListOf(properties.titleProperties),
     title_properties_align: textOf(properties.titlePropertiesAlign) === "end" ? "end" : "start",
     pageTypeSlug,

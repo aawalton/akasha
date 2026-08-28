@@ -27,7 +27,6 @@ interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"
   pageTypeSlug?: string
   visiblePropertyIds?: readonly string[]
   alwaysShowPropertyIds?: readonly string[]
-  liveRefreshMs?: number
   onIconChange?: (icon: IconName) => void
   defaultIconName?: string | null
   onPropertyChange?: (propertyId: string, value: unknown, eventTimeStamp?: number) => void
@@ -55,7 +54,6 @@ export function PageCard({
   pageTypeSlug,
   visiblePropertyIds,
   alwaysShowPropertyIds,
-  liveRefreshMs,
   onIconChange,
   defaultIconName,
   onPropertyChange,
@@ -188,7 +186,6 @@ export function PageCard({
           pageTypeSlug={pageTypeSlug}
           visiblePropertyIds={visiblePropertyIds}
           alwaysShowPropertyIds={alwaysShowPropertyIds}
-          liveRefreshMs={liveRefreshMs}
           onPropertyChange={onPropertyChange}
           onPageNavigate={onPageNavigate}
           onRelationNavigate={onRelationNavigate}

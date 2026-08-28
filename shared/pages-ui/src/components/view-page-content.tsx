@@ -12,21 +12,21 @@ import { type PropertyDefinition } from "@shared/pages-core/types"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { ArrowLeft } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { PagesUILink } from "../router-context"
-import { useAllPages, usePageByIdSuffix, useViewsForNavItem } from "../supabase/hooks"
-import { useOptionListLookup } from "../supabase/use-option-list-lookup"
-import { usePageTypeDirectory } from "../supabase/use-page-type-directory"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { useSupabaseViewCallbacks } from "../supabase/use-view-callbacks"
-import { viewDataOfPage } from "../supabase/view-data-of-page"
-import { useUserId } from "../use-user-id"
-import { EditableTitle } from "./editable-title"
-import { toPageDataJSON } from "./page-data-json"
-import { PageSystemShell } from "./page-system-shell"
-import { type PageTypeOption } from "./page-system-view-settings-types"
-import { PageTitleProperties } from "./page-title-properties"
-import { ViewTabContent } from "./view-tab-content"
-import type { ViewTabItem } from "./view-tab-context-menu"
+import { PagesUILink } from "../router-context.tsx"
+import { useAllPages, usePageByIdSuffix, useViewsForNavItem } from "../supabase/hooks.ts"
+import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
+import { usePageTypeDirectory } from "../supabase/use-page-type-directory.ts"
+import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
+import { useSupabaseViewCallbacks } from "../supabase/use-view-callbacks.ts"
+import { viewDataOfPage } from "../supabase/view-data-of-page.ts"
+import { useUserId } from "../use-user-id.tsx"
+import { EditableTitle } from "./editable-title.tsx"
+import { toPageDataJSON } from "./page-data-json.ts"
+import { PageSystemShell } from "./page-system-shell.tsx"
+import { type PageTypeOption } from "./page-system-view-settings-types.ts"
+import { PageTitleProperties } from "./page-title-properties.tsx"
+import { ViewTabContent } from "./view-tab-content.tsx"
+import type { ViewTabItem } from "./view-tab-context-menu.tsx"
 
 const SYSTEM_PAGE_TYPE_NAMES = new Set(["View", "Page Type", "Nav"])
 
@@ -212,7 +212,6 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
                       data={navData}
                       definitions={navTypeDefinitions}
                       titlePropertyIds={activeViewConfig.title_properties}
-                      liveRefreshMs={activeViewConfig.live_refresh_ms}
                     />
                   </PageTitleBadges>
                 )}

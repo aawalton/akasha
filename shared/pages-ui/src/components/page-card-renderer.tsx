@@ -4,15 +4,15 @@ import { type IconName } from "@shared/pages-core/icon"
 import { type PageDataJSON } from "@shared/pages-core/types"
 import { type GalleryCardSize, resolveGalleryCoverUrl } from "@shared/pages-core/view/gallery"
 import type { PageTypeSlug } from "@shared/pages-url"
-import { getCoverClickHandler } from "../cover-click/cover-click-registry"
-import { getCoverMask } from "../cover-click/cover-mask-registry"
+import { getCoverClickHandler } from "../cover-click/cover-click-registry.ts"
+import { getCoverMask } from "../cover-click/cover-mask-registry.ts"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import type { PageRow } from "../view-engine/page-row"
-import { PageCard } from "./page-card"
-import { PageCardNotes } from "./page-card-notes"
-import { pageRowToPageDataJSON } from "./page-data-json"
-import { readRelationConfig } from "./page-system-view-helpers"
-import { buildRelationBackLinkHref, buildRowHref } from "./view-tab-content-href"
+import type { PageRow } from "../view-engine/page-row.ts"
+import { PageCard } from "./page-card.tsx"
+import { PageCardNotes } from "./page-card-notes.tsx"
+import { pageRowToPageDataJSON } from "./page-data-json.ts"
+import { readRelationConfig } from "./page-system-view-helpers.tsx"
+import { buildRelationBackLinkHref, buildRowHref } from "./view-tab-content-href.ts"
 
 interface PageCardRendererProps {
   page: PageRow
@@ -44,7 +44,6 @@ interface PageCardRendererProps {
   galleryCoverSourceId?: string
   notesProperty?: PropertyDefinition
   coverActionCapability?: string
-  liveRefreshMs?: number
 }
 
 export function PageCardRenderer({
@@ -67,7 +66,6 @@ export function PageCardRenderer({
   galleryCoverSourceId,
   notesProperty,
   coverActionCapability,
-  liveRefreshMs,
 }: PageCardRendererProps) {
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
@@ -107,7 +105,6 @@ export function PageCardRenderer({
       pageTypeSlug={rowPageTypeSlug}
       visiblePropertyIds={visibleProperties}
       alwaysShowPropertyIds={alwaysShowProperties}
-      liveRefreshMs={liveRefreshMs}
       coverSize={galleryCardSize}
       coverUrl={coverUrl}
       coverMaskGlyph={coverMaskGlyph}
