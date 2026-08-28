@@ -8,35 +8,22 @@ domain-slug: domain/pages-system
 
 # Claim
 
-`rowAppender` at `tools/lib/page-rows-write.ts:281` is a second way into a page's rows files, beneath the path every other row write takes. It writes with `appendFileSync` at `:319` and commits nothing, where `writeRow`, `patchRow`, `writeRows` and `patchRows` reach the same files through `rowsLanded`, which commits at `:270`. Three things follow at that address. Nothing records who appended: `rowAppender` takes no `by`, where `rowsWritten` at `:235` and `rowsLanded` at `:247` both do and hand it to `commitAll`. Only the first row of an appender's life is judged, because `judged` latches true at `:303` and the `judgeRow` call at `:305` sits behind it. And `catch {}` at `:321` swallows every failure, so an append that never reached disk is indistinguishable from one that did.
+`rowAppender` at `tools/lib/page-rows-write.ts:281` writes rows with `appendFileSync` at `:319`, outside the `rowsLanded` path at `:241` every other row write takes. It is the only such path: nothing outside `page-rows-write.ts` and `page-rows-parts.ts` writes a rows file. Two of the three harms filed here are repaired — every row is judged, and a failed append refuses by name. The third, that no `by` is recorded, carries nothing. What remains is a duplicated part rollover.
 
 # Evidence
 
-Read 2026-08-28 against `tools/lib/page-rows-write.ts`, 13,735 bytes.
+Read 2026-08-28 against `tools/lib/page-rows-write.ts`, 429 lines.
 
-The two paths into the same files, side by side. `writeRow` at `:328` returns `rowsWritten(roots, "write-row", pageType, parentName, [values], by, key)`; `rowsWritten` calls `rowsLanded`, which takes `exclusively` on the path, calls `landRows` or `landAppended`, refuses on `landed.refused`, and then commits at `:270` — `commitAll(at, relPaths, pageType, act, parentName, by)`. `rowAppender` at `:281` does none of that: it resolves the home, checks `home.appendOnly`, and hands back an object whose `append` writes the line itself.
+Repaired at `c0513f2db`. The judging latch is gone: `append` at `:299-311` calls `judgeRow` on every value, with no flag in front of it. The `catch {}` is gone: `:321-328` sets `refused` to a message naming the page type, the path and the error, read back through `refused()` at `:330`. Tests at `tools/tests/page-rows-write.test.ts:305-321` hold both; that file passes 19 of 19.
 
-The judging latch, verbatim from `:302-310`:
+`by` reaches one place from either path, `commitAll` at `:270`. `rowAppender` demands `home.appendOnly` at `:289`, and one property document in any repo declares `append-only: true` — `pages/page-property-definition/log-day-lines.page-property-definition.md`, declaring `uncommitted: true` above it. `rowsLanded` commits only where `!home.uncommitted`, at `:269`, so for the one home an appender opens, that path would not commit either and `by` would go nowhere. Attribution stands in the row instead: `log-line` declares `agent-id`, carried at `tools/lib/log-append.ts:17`.
 
-    if (!judged) {
-      judged = true
-      if (properties !== null) {
-        const said = judgeRow(values, pageType, properties, null).refusals
-        if (said.length > 0) {
-          refused = said.join("\n")
-          return
-        }
-      }
-    }
+What remains: `append` copies the rollover of `appendLines` at `tools/lib/page-rows-parts.ts:127-149`, holding `bytes` in a closure from one `lastPartOf` at `:294` where `appendLines` re-reads the directory per call.
 
-So the second and every later `append` on one appender skips `judgeRow` entirely. The landing path has no such latch: `landRows` judges each row at `:148` and `landAppended` at `:218`, inside their loops.
+It takes no `exclusively`, where `rowsLanded` takes one at `:258`. Not a fault: `appendFileSync` opens `O_APPEND`, so a line lands whole; the lock serves `landRows`, which rewrites parts. Racing appenders overrun the 8 MB ceiling and lose no row. No stale cache either: `readParsed` at `tools/lib/page-rows.ts:88-92` keys on size and mtime.
 
-No owner, actor or writer key appears anywhere in the file. `by` is the only attribution it carries and `rowAppender` is the one entry point without it.
+One caller: `tools/lib/log-append.ts:62`. Unmeasured: rows per appender run; the comment at `:303` claims a median of 3,209 uncited.
 
-One caller today: `tools/lib/log-append.ts:62`, `rowAppender(roots, "log-line", name, LINES_KEY)`.
+Fixed when `rowAppender` is gone, or shares the landing path's rollover. To see: `grep -n 'appendFileSync' tools/lib/page-rows-write.ts`.
 
-Not measured: how many rows a single appender writes in one run, which is what decides whether the unjudged tail is a few rows or all of them.
-
-It is fixed when `rowAppender` is gone, or takes a `by` and lands through `rowsLanded` like every other row write, and judges every row rather than the first. To see: `grep -n 'appendFileSync\|judged = true\|export function rowAppender' tools/lib/page-rows-write.ts`. A fixed state shows no `appendFileSync` reaching a rows file outside the landing path, and no latch in front of `judgeRow`.
-
-This record stood until 2026-08-28 as `raw-sql-upsert-bypasses-owner-guard`, against a write path in a Postgres layer that has since been deleted. The layer went; the shape did not, and it is restated here at the address it now occupies. Its id is unchanged.
+Filed until 2026-08-28 as `raw-sql-upsert-bypasses-owner-guard`, against a Postgres layer since deleted. Its id is unchanged.
