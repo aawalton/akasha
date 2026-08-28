@@ -2,7 +2,8 @@
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { colorsOf, colorsOfStates, main } from "../agent-turn-colors.ts"
+import { colorsOfStates, main } from "../agent-turn-colors.ts"
+import { colorsOf } from "../lib/agent-turn-drawn.ts"
 import { SEAT_TURN_STATES } from "../lib/seat-turn-state.ts"
 
 const DRAWN: Record<string, string | null> = {

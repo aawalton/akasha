@@ -92,18 +92,6 @@ export function verbPath(verb: string): string {
 	return path.join(akashaRoot(), 'tools', `${verb}.ts`);
 }
 
-/**
- * The turn-colour verb's file.
- *
- * SPELLED ONCE, HERE, so the two surfaces that ask it — the tab strip and the subagent rows —
- * name one file. A checkout not holding it is a checkout this cannot reach, which the caller
- * reports in the place on screen it already reports an unreachable harness, naming the path it
- * looked for.
- */
-export function turnColoursVerbPath(): string {
-	return verbPath('agent-turn-colors');
-}
-
 /** Where `bun` is installed for this user. A list so a second location is a line, not a rewrite. */
 const BUN_DIRECTORIES = [path.join(os.homedir(), '.bun', 'bin')];
 

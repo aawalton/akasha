@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { agentStands, agentTurnStateOf } from "./lib/agent-turn-state.ts"
+import { colorsOf } from "./lib/agent-turn-drawn.ts"
 import { colorOfState } from "./lib/seat-turn-color.ts"
 import { SEAT_TURN_STATES, type SeatTurnState } from "./lib/seat-turn-state.ts"
 
@@ -46,23 +46,6 @@ row.
   ${STATE_FLAG} <name>  A turn state to answer for rather than an agent. Repeatable.
   --help          This.
 `
-
-function drawnIn(agent: string): string | null {
-  if (!agentStands(agent)) return null
-  return colorOfState(agentTurnStateOf(agent).state)
-}
-
-export function colorsOf(
-  agents: readonly string[],
-  colorOf: (agent: string) => string | null = drawnIn
-): Record<string, string> {
-  const found: Record<string, string> = {}
-  for (const agent of agents) {
-    const color = colorOf(agent)
-    if (color !== null) found[agent] = color
-  }
-  return found
-}
 
 export function statedAs(name: string): SeatTurnState | null {
   return SEAT_TURN_STATES.find((one) => one === name) ?? null
