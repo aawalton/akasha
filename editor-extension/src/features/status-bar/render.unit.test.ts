@@ -187,7 +187,7 @@ describe('applyToItems — each stoplights group renders its OWN read', () => {
 // THE LEGEND ARRIVES LATER THAN THE READING, and may never arrive at all. Both are
 // ordinary states, not faults: a group whose legend has not landed draws its circles
 // with no tooltip, and MUST NOT lose them, blank them, or show an error in their
-// place. `domains/readout-system.md` — a row a readout cannot read costs its own
+// place. `readouts/readout-system.domain.md` — a row a readout cannot read costs its own
 // reading only — one level up.
 describe('applyToItems — a legend that has not arrived costs only the tooltip', () => {
 	test('the glyphs still draw with no legend at all', () => {

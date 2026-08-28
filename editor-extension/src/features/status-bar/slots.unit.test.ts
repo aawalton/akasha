@@ -73,7 +73,7 @@ describe('stoplights slots — each declares the read that feeds it', () => {
 	});
 
 	// Each stoplights slot names its GROUP and nothing else about a readout —
-	// `domains/alan-harness-stoplights.md`. A readout slug, a habit key, an inbox
+	// `readouts/alan-harness-stoplights.domain.md`. A readout slug, a habit key, an inbox
 	// key or a value slug appearing on one would be that line broken.
 	test('a stoplights slot names its group and carries no other key', () => {
 		for (const id of [UPKEEP_ID, INBOX_ID, VALUES_ID]) {

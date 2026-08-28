@@ -121,7 +121,7 @@ function buildTreeItem(element: DomainNode, tree: DomainTree | undefined, filter
 	// WHAT KEEPS AN EXPANDED BRANCH EXPANDED. VS Code tracks expansion against
 	// TreeItem.id, and a refresh builds fresh objects, so without one every open branch
 	// would collapse under Alan on each refresh. A slug is unique across the corpus by
-	// construction — the instructions repository refuses a second document declaring one —
+	// construction — akasha refuses a second document declaring one —
 	// and it appears once in this tree, which is what makes it usable as the key.
 	// A SEPARATE KEY SPACE WHILE FILTERING, WITHOUT WHICH THE ROWS STAY SHUT. VS Code remembers
 	// whether a row is open against this id, and its memory beats whatever `collapsibleState` a
@@ -158,7 +158,7 @@ function buildTreeItem(element: DomainNode, tree: DomainTree | undefined, filter
 	//
 	// Guarded on the tree rather than assumed, because the path is only absolute once the
 	// verb has said where the repository is: a row can exist before that is known, and
-	// opening `undefined/domains/x.md` would be worse than a row that does not open.
+	// opening `undefined/pages/domain/x.domain.md` would be worse than a row that does not open.
 	if (tree !== undefined) {
 		item.command = {
 			command: OPEN_COMMAND,

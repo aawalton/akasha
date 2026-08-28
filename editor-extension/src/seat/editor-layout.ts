@@ -79,11 +79,11 @@ export interface Arrangement {
  *
  * A SEPARATE SHAPE RATHER THAN THE GROUPS THEMSELVES, because the two answer to different things.
  * The groups are this feature's own reading of the tab groups and may carry whatever a reader here
- * wants; the arrangement is what the page types in the instructions repository state, and a field
+ * wants; the arrangement is what the page types in akasha state, and a field
  * renamed there has to be renamed here rather than silently written under the old spelling.
  *
  * `column` becomes `position`. The editor's own word is a misnomer the moment groups are stacked
- * rather than laid side by side, and `page-types/code-editor-group.md` states the honest one.
+ * rather than laid side by side, and `pages/page-type/code-editor-group.page-type.md` states the honest one.
  */
 export function arrangementFrom(groups: readonly LayoutGroup[], window: string): Arrangement {
 	return {

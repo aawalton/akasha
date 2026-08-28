@@ -19,7 +19,7 @@
  * the API is per-window in one host and a constant in the other, and a record
  * keyed on it silently merges every served window into one file. Two live windows
  * then produce one coherent record, with a live writer pid, describing neither of
- * them — and `domains/code-editor.md` states as Design that the desktop
+ * them — and `pages/domain/code-editor.domain.md` states as Design that the desktop
  * application and the served browser both run and neither replaces the other.
  *
  * A VERIFIER'S OWN INSTANCE IS A SERVED ONE, which is what makes this worse than
@@ -102,7 +102,7 @@ async function readProcessStart(pid: number): Promise<number | undefined> {
 /**
  * One run of one process, written the way a page states it.
  *
- * `page-property-types/page-property-type-process.md` in the instructions repository states this
+ * `pages/page-property-type/process.page-property-type.md` states this
  * shape: the pid and the start time joined by a hyphen, one value rather than two fields, so that
  * nothing downstream can compare the pid on its own and match a number the kernel has reused.
  */

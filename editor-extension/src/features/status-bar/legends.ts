@@ -29,7 +29,7 @@
  * resolve rejecting, the group resolving empty, the promise never settling — ends in
  * `read()` still answering `undefined` for that section, and `applyToItems` drawing
  * that group's reading with no tooltip. Never an error string in the tooltip, never a
- * hidden item: `domains/readout-system.md` says a row a readout cannot read costs its
+ * hidden item: `readouts/readout-system.domain.md` says a row a readout cannot read costs its
  * own reading only, and a legend it cannot read is the same shape one level up.
  *
  * THE CEILING IS WHAT MAKES A RETRY POSSIBLE. Without it a resolve that hangs holds

@@ -18,20 +18,20 @@ const ONE_ROOT = JSON.stringify({
 	roots: [
 		{
 			slug: 'global',
-			relPath: 'domains/global.md',
+			relPath: 'pages/domain/global.domain.md',
 			persona: 'aine',
 			position: null,
 			children: [
-				{ slug: 'code', relPath: 'domains/code.md', persona: 'aine', position: 2, children: [] },
+				{ slug: 'code', relPath: 'pages/domain/code.domain.md', persona: 'aine', position: 2, children: [] },
 				{
 					slug: 'person',
-					relPath: 'domains/person.md',
+					relPath: 'pages/domain/person.domain.md',
 					persona: 'aine',
 					position: 1,
 					children: [
 						{
 							slug: 'alan',
-							relPath: 'domains/persons/alan.md',
+							relPath: 'pages/domain/alan.domain.md',
 							persona: 'amy',
 							position: null,
 							children: [],
@@ -138,6 +138,6 @@ describe('documentPath', () => {
 	test('joins the relative path onto the repo the verb named', () => {
 		const tree = parseDomainTree(ONE_ROOT);
 		const node = tree.roots[0] as DomainNode;
-		expect(documentPath(tree, node)).toBe('/home/walton/repos/akasha/domains/global.md');
+		expect(documentPath(tree, node)).toBe('/home/walton/repos/akasha/pages/domain/global.domain.md');
 	});
 });

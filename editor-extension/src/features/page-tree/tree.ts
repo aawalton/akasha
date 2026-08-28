@@ -28,7 +28,7 @@ export interface PageTreeView {
 /**
  * A READING SURFACE AND NOTHING MORE, as the Domains and Work panels are. The Agents tree
  * carries four commands and every one of them is anchored on a seat having a running process to act
- * on. A page type has none: changing one is a write into the instructions repository, which is
+ * on. A page type has none: changing one is a write into akasha, which is
  * gated on having read what governs it and is a seat's work rather than a click's. So there is no
  * context menu here and no inline action — a row opens its document, and that is the whole of what
  * a row does.
@@ -158,7 +158,7 @@ function buildTreeItem(element: PageNode, tree: PageTree | undefined, filtering:
 	// down a branch replaces one tab rather than leaving a dozen behind.
 	//
 	// Guarded on the tree, because the path is only absolute once the command has said where the
-	// repository is: a row can exist before that is known, and opening `undefined/page-types/x.md`
+	// repository is: a row can exist before that is known, and opening `undefined/pages/page-type/x.page-type.md`
 	// would be worse than a row that does not open. And guarded on the path, because a row with no
 	// `at` is a grouping row standing for a document that does not exist — giving it a command
 	// would offer Alan a click that opens `<repo>/null`, which is a worse answer than no click.
