@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Seat conditions effort level"
 defined-on-slug: page-type/seat-conditions
 key: effort-level
-type: select(slug)
+type: select(slug) | none
 values:
-  - none
   - auto
   - low
   - medium

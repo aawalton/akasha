@@ -2,9 +2,9 @@ import { parseFrontmatter, type Frontmatter } from "../frontmatter.ts"
 import { choicesHeld } from "./choice.ts"
 import type { Property } from "./property.ts"
 import { undeclaredKey } from "./key-spelling.ts"
-import { stringAt } from "../text/text.ts"
-import { blanked, boundsFor, narrowed } from "./bounds.ts"
-import { backReference, refusalOf, ruleFor, selects, TYPE } from "./value.ts"
+import { NONE, stringAt } from "../text/text.ts"
+import { blanked, boundsFor, excepting, narrowed } from "./bounds.ts"
+import { arms, backReference, refusalOf, ruleFor, selects, TYPE } from "./value.ts"
 import { VALUES } from "./stated.ts"
 import type { Held, Rule, Vocabulary } from "./stated.ts"
 import { refusalText } from "../../checks-system/refusal/refusal.ts"
@@ -73,7 +73,15 @@ export function armFor(property: Property, stated: string, vocabulary: Vocabular
   const { bounds, why: unbounded } = boundsFor(property.stated)
   if (bounds === null) return { rule: null, states: "", why: unbounded }
   const states = bounds.length === 0 ? `\`${stated}\`` : `\`${stated}\` narrowed on \`${property.on}\``
-  const held = narrowed(rule, bounds)
+  // NARROWING RUNS OVER THE UNION OF THE ARMS, SO THE `none` ARM IS LIFTED BACK OUT OF IT.
+  // `ruleFor` unions the type`s arms and `narrowed` then wraps the whole of that, unable to
+  // see which arm admitted a value — so a stated set was applied to the sentinel arm as well.
+  // `select(slug) | none` admitted `none` and then refused it, in a message that named `none`
+  // among the values it would take, because the message reads the type and the decision reads
+  // the bounds. Every `| none` type carrying a bound failed this way; a select is only where it
+  // surfaced, a select stating no `values:` being refused outright, so a select always has one.
+  const bounded = narrowed(rule, bounds)
+  const held = arms(stated).includes(NONE) ? excepting(bounded, NONE) : bounded
   return { rule: property.blank ? blanked(held) : held, states, why: null }
 }
 
