@@ -22,3 +22,7 @@ A cluster service runs one copy unless it is deliberately spread across nodes.
 A cluster service is one Kubernetes resource carrying a pod template.
 
 The Kubernetes `Service` resource is not one.
+
+# Intent
+
+A cluster service sits under the domain it is, rather than under this page type.
