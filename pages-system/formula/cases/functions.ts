@@ -16,10 +16,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Functions
-// ---------------------------------------------------------------------------
-
 export const functions: FormulaCase[] = [
   {
     name: "hours between two instants",
@@ -91,8 +87,6 @@ export const functions: FormulaCase[] = [
     values: {},
     now: "2026-01-01T03:00:00Z",
     expected: answersNumber(0),
-    // "the moment the formula is worked out" is one moment, so two calls in
-    // one formula answer the same instant.
   },
   {
     name: "hours between with an absent instant",
@@ -173,8 +167,6 @@ export const functions: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersBoolean(false),
-    // "bounded at both ends" is what makes this false; a substring test would
-    // answer true.
   },
   {
     name: "has word answers false where the word is only the end of a longer one",
@@ -195,7 +187,6 @@ export const functions: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersBoolean(true),
-    // The ends of the text bound the word at both ends.
   },
   {
     name: "has word answers true for the first word of a text",
@@ -389,8 +380,6 @@ export const functions: FormulaCase[] = [
       finish: instant("2026-01-01T05:00:00Z"),
     },
     expected: answersNumber(5),
-    // The later instant stands first. A signed implementation answers -5 here
-    // and passes every other hours-between case in this corpus.
   },
   {
     name: "hours between with the later one first, fractional",
@@ -417,10 +406,6 @@ export const functions: FormulaCase[] = [
       finish: instant("2026-01-01T05:00:00Z"),
     },
     expected: answersBoolean(true),
-    // This closes the last route to an order. An instant may be read only by a
-    // function taking one, so no operator compares two; this is the only
-    // function taking two, and it discards which came first. Nothing in the
-    // language answers whether one instant is after another.
   },
   {
     name: "has word folds the case of the text",
@@ -451,8 +436,6 @@ export const functions: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersBoolean(true),
-    // A hyphen is neither a letter nor a digit, so it bounds. A word bounded
-    // by spaces alone would not be found here.
   },
   {
     name: "an underscore bounds a word",
@@ -463,8 +446,6 @@ export const functions: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersBoolean(true),
-    // An underscore is neither a letter nor a digit either, though a language
-    // counting it as a word character would answer false.
   },
   {
     name: "a digit does not bound a word",

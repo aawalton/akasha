@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { ABSENT, answersBoolean, C, COUNT, L, MIXED, NOTHING, num, refused } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Conjunction
-// ---------------------------------------------------------------------------
-
 export const conjunction: FormulaCase[] = [
   {
     name: "and answers true where both sides are true",
@@ -75,8 +71,6 @@ export const conjunction: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: answersBoolean(false),
-    // The right side would answer absent. An implementation that works both
-    // sides out and then discards the right answers absent and fails here.
   },
   {
     name: "a false left side reached through a comparison does not work out its right",
@@ -87,8 +81,6 @@ export const conjunction: FormulaCase[] = [
     shape: MIXED,
     values: { count: num(1), other: num(1) },
     expected: answersBoolean(false),
-    // The left side is false because it was worked out, not because it was
-    // written `false`.
   },
   {
     name: "a false left side short circuits through a chain of ands",
@@ -99,9 +91,6 @@ export const conjunction: FormulaCase[] = [
     shape: MIXED,
     values: { other: num(1) },
     expected: answersBoolean(false),
-    // Neither the absent `{flag}` nor the division by zero is reached. The
-    // answer is false whichever way `&&` associates, so this case does not
-    // rest on an associativity the pages do not state.
   },
   {
     name: "a true left side does work out its right",
@@ -112,8 +101,6 @@ export const conjunction: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: ABSENT,
-    // `&&` cannot answer from a true left alone, so it reaches the right,
-    // reaches the absent the division by zero makes, and answers absent.
   },
   {
     name: "or is not an operator this language has",
@@ -124,7 +111,6 @@ export const conjunction: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("read", "unknown-operator", ["||"]),
-    // `||` belonged to the language this one replaces.
   },
   {
     name: "not is not an operator this language has",

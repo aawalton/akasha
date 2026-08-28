@@ -17,10 +17,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Absence carrying through
-// ---------------------------------------------------------------------------
-
 export const absence: FormulaCase[] = [
   {
     name: "plus given an absent left side answers absent",
@@ -151,11 +147,6 @@ export const absence: FormulaCase[] = [
     shape: FLAG,
     values: {},
     expected: answersBoolean(false),
-    // `&&` answers from its false left alone, so it never reaches `{flag}`.
-    // Never reaching it is exactly why `formula-absent-value.domain.md:15`
-    // leaves this alone: that line catches an operator that *reaches* an
-    // absent value. An implementation working out both sides answers absent
-    // and fails here.
   },
   {
     name: "an absent left side answers absent without working out its right",
@@ -166,9 +157,6 @@ export const absence: FormulaCase[] = [
     shape: MIXED,
     values: { count: num(1) },
     expected: ABSENT,
-    // `&&` answers from its absent left alone. Both a short-circuiting and an
-    // eager implementation answer absent here, so this pins the answer rather
-    // than telling the two apart.
   },
   {
     name: "and given the word absent answers absent",
@@ -349,7 +337,6 @@ export const absence: FormulaCase[] = [
     shape: COUNT,
     values: {},
     expected: answersText("missing"),
-    // The equality answers a boolean rather than absent, so the row can match.
   },
   {
     name: "an absent value stops the whole answer where no fallback catches it",
@@ -380,8 +367,6 @@ export const absence: FormulaCase[] = [
     shape: MIXED,
     values: {},
     expected: ABSENT,
-    // Absent rather than false: the function reached an absent value, so it
-    // never got to look.
   },
   {
     name: "a function whose arguments are all there is untouched by absence elsewhere",
@@ -392,8 +377,6 @@ export const absence: FormulaCase[] = [
     shape: MIXED,
     values: { name: text("the cat sat") },
     expected: answersBoolean(true),
-    // Every other key this shape declares is absent. The line binds a function
-    // that *reaches* an absent value, and this one reaches none.
   },
   {
     name: "a function reaching nothing is untouched by absence",
@@ -405,8 +388,6 @@ export const absence: FormulaCase[] = [
     values: {},
     now: "2026-01-01T03:00:00Z",
     expected: answersNumber(0),
-    // `now` takes no argument, so it reaches no value and no absence can
-    // travel into it, however much of this page is empty.
   },
   {
     name: "negation reaching an absent value answers absent",

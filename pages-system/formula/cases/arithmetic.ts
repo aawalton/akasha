@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { ABSENT, answersNumber, C, COUNT, L, MIXED, NOTHING, num } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Arithmetic
-// ---------------------------------------------------------------------------
-
 export const arithmetic: FormulaCase[] = [
   {
     name: "plus adds one number to another",
@@ -95,8 +91,6 @@ export const arithmetic: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersNumber(3.5),
-    // `number` is "a count or a measure, whole or fractional", so this is not
-    // rounded and not refused.
   },
   {
     name: "dividing by a zero literal answers absent",
@@ -187,8 +181,6 @@ export const arithmetic: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(5) },
     expected: answersNumber(-5),
-    // Nothing stands to the left of this minus but the `*`, which is not a
-    // value, so it negates rather than subtracts.
   },
   {
     name: "a subtraction whose right side is negated",
@@ -199,8 +191,6 @@ export const arithmetic: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(5) },
     expected: answersNumber(6),
-    // The first minus has `{count}` to its left and subtracts; the second has
-    // only the first to its left and negates.
   },
   {
     name: "a negation and a subtraction in one formula",
@@ -221,8 +211,5 @@ export const arithmetic: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(5) },
     expected: answersNumber(4),
-    // What stands to the left settles it, not the whitespace. Read as a
-    // negated literal this would be two values with no operator between them,
-    // which is no formula at all.
   },
 ]

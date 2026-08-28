@@ -21,8 +21,6 @@ function closureFrom(root: string, seeds: readonly string[]): Closure {
     if (!existsSync(path)) continue
     for (const match of readFileSync(path, "utf8").matchAll(IMPORT)) {
       const spec = match[1] ?? ""
-      // A bare specifier names a package or the runtime. Neither is walked: what is followed from
-      // here is the files of this repository.
       if (!spec.startsWith(".")) continue
       queue.push(relative(root, resolve(dirname(path), spec)))
     }
@@ -35,17 +33,6 @@ function git(root: string, args: readonly string[]): number {
   return done.exitCode ?? -1
 }
 
-/**
- * WHAT IS NO LONGER CHECKED HERE: that the answer reaches no code the mark cannot hash.
- *
- * It held while the globs and the YAML came from `Bun.Glob` and `Bun.YAML`, which are the
- * runtime's own and were covered by the runtime's version standing in the ground. The matcher is
- * `minimatch` now, a package the ground cannot see, so a change to it moves no mark and an
- * answer kept under the old one outlives the code that worked it out.
- *
- * Taken out on Alan's call rather than widened to pass. Hashing the lockfile into the ground, which
- * is what pins the package, is what would earn the case back.
- */
 describe("the mark names the code that works out the answer", () => {
   const { reached } = closureFrom(HERE, CODE_SEEDS)
   const covered = (at: string): boolean => CODE_DIRS.some((dir) => at.startsWith(`${dir}/`))

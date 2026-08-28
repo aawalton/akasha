@@ -34,21 +34,6 @@ function listedBy(root: string, args: readonly string[]): readonly string[] {
     .filter((one) => one !== "")
 }
 
-/**
- * What git tracks under a root, worked out once for the length of a call.
- *
- * A CALL IS ONE MOMENT. Everything else held against a call — the file tree, the page type
- * registry, the shape mark — already reads the repository as it stood when the call opened, and a
- * listing that moved underneath them would describe a different repository from the one they did.
- * So holding this is the same claim those already make rather than a new one.
- *
- * WHAT IT SAVES. This spawns `git ls-files` over the whole repository, and the readouts rebuild
- * their catalog once per readout: measured on 2026-08-28, the status bar's four groups spawned it
- * 65 times in one call across two checkouts, where the call holds two answers.
- *
- * A FAILURE IS NOT HELD. `listedBy` throws where git cannot answer, and a throw leaves nothing
- * behind, so the next ask in the same call asks git again rather than inheriting a refusal.
- */
 export function trackedIn(root: string, key: string | null = null): readonly string[] {
   return onceInCall(`tracked:${root}:${key ?? ""}`, () =>
     listedBy(root, key === null ? ["ls-files", "-z"] : ["ls-files", "-z", "--", key])

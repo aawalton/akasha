@@ -20,10 +20,6 @@ import {
   TEXT,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// The case form
-// ---------------------------------------------------------------------------
-
 export const caseFormCases: FormulaCase[] = [
   {
     name: "a case answers the value of its first passing row",
@@ -113,8 +109,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: {},
     expected: answersText("unknown"),
-    // `{count}` is absent, so `{count} > 10` is absent, and a row matches only
-    // where its test answers true.
   },
   {
     name: "a row whose test answers absent falls to the next row, not to otherwise",
@@ -161,9 +155,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(9) },
     expected: answersNumber(1),
-    // Were every row worked out, the otherwise row's division by zero would be
-    // absent and an eager implementation could let that absent carry out. The
-    // answer is the winning row's value alone.
   },
   {
     name: "a losing row holding a division by zero does not reach the answer",
@@ -240,8 +231,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: { count: { type: NUMBER }, "how-many": { type: TEXT, formula: "text({count})" } },
     values: { count: num(3) },
     expected: answersText("3 of them"),
-    // A bare number does not fill a literal. `text` writes one out, on a key of
-    // its own, and the literal then names that key like any other.
   },
   {
     name: "a case with no otherwise row is refused",
@@ -255,8 +244,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(20) },
     expected: refused("read", "case-missing-otherwise"),
-    // Refused even though a row would have passed: the fault is in the form,
-    // not in this page's values.
   },
   {
     name: "a case with no rows at all is refused",
@@ -277,7 +264,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: refused("check", "types-do-not-meet", ["count", "number"]),
-    // A row matches where its test answers true, so a test is a boolean.
   },
   {
     name: "a case row whose test is a text is refused",
@@ -314,7 +300,6 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: refused("check", "undeclared-key", ["missing"]),
-    // The check reads the whole formula; only running it stops at the winner.
   },
   {
     name: "a case nested inside a case row's value",
@@ -423,9 +408,5 @@ export const caseFormCases: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: refused("check", "choice-without-a-case", ["if"]),
-    // Refused at the second moment rather than the first. A call is its name
-    // then its arguments between parentheses, so reading this cannot tell it
-    // from `hasWord(a, b)`; the fault is in what it names, which is what
-    // checking looks at.
   },
 ]

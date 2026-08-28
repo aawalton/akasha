@@ -26,9 +26,6 @@ function boundOf(at: string, field: string, declared: unknown): { cardinality: C
   const min = Number(found[1])
   const max = found[2] === undefined ? min : Number(found[2])
   if (max < min) return { cardinality: null, why: `\`${at}.${field}: ${stated}\` runs backwards` }
-  // THE FLOOR IS CARRIED RATHER THAN COLLAPSED. This read `min` and threw it away into
-  // `min > 0`, so `repeat: 3` and `repeat: 1-3` were one bound and a directive stripped to a
-  // single aid passed a shape stating three. A count read out of a shape is kept as a count.
   return { cardinality: { least: min, max }, why: null }
 }
 

@@ -16,15 +16,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Dates
-//
-// A date is a day. It is not an instant, and it is not text. It fills a text
-// literal as it is written, which is the whole of what it can do: the pages
-// give it no ordering, no difference in days and no function answering today,
-// so every operator but `==`, `!=` and `??` refuses one.
-// ---------------------------------------------------------------------------
-
 const DATED: Shape = {
   day: { type: CALENDAR_DATE },
   "other-day": { type: CALENDAR_DATE },
@@ -46,8 +37,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: { day: date(DAY) },
     expected: answersText(DAY),
-    // As it is written: the ISO spelling and no other. Not `27 August 2026`,
-    // not `2026-08-27T00:00:00Z`.
   },
   {
     name: "a date fills a text literal standing among other references",
@@ -68,7 +57,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: { day: date(DAY) },
     expected: ABSENT,
-    // Not " on 2026-08-27". A date fills its own place and rescues no other.
   },
   {
     name: "a text literal holding two dates, one of them absent, answers absent",
@@ -89,8 +77,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: { day: date(DAY) },
     expected: answersDate(DAY),
-    // A date, not a text that looks like one. What the key was declared says
-    // which, and nothing about the characters does.
   },
   {
     name: "a computed key declared calendar-date holds the date its formula answers",
@@ -130,8 +116,6 @@ export const dates: FormulaCase[] = [
     },
     values: { name: text(DAY) },
     expected: refused("check", "types-do-not-meet", ["when", "date", "text"]),
-    // The text spells a day exactly, and it is still text. A language reading
-    // the type off the characters would let this through.
   },
   {
     name: "asking whether one date is less than another is refused",
@@ -142,8 +126,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["day", "date"]),
-    // `<` is whether one *number* is less than another. Ordering days is
-    // wanted and is not here, and a language that guessed at it would answer.
   },
   {
     name: "asking whether one date is at most another is refused",
@@ -184,7 +166,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["day", "date"]),
-    // The day after is wanted and is not here.
   },
   {
     name: "subtracting one date from another is refused",
@@ -195,8 +176,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["other-day", "date"]),
-    // The days between two dates is wanted and is not here. `-` subtracts one
-    // number from another, and a date is not one.
   },
   {
     name: "multiplying a date is refused",
@@ -237,8 +216,6 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["day", "date", "instant"]),
-    // `hoursBetween` is the hours between two *instants*. A day is not a
-    // moment, so there are no hours between it and one.
   },
   {
     name: "a date given to hoursBetween as its second argument is refused",
@@ -329,7 +306,5 @@ export const dates: FormulaCase[] = [
     shape: DATED,
     values: {},
     expected: refused("check", "unknown-function", ["today"]),
-    // The day this is worked out on is wanted and is not here. `now` answers
-    // an instant, and no operator turns one into a day.
   },
 ]

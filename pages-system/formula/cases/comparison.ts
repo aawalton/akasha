@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { answersBoolean, C, COUNT, L, NOTHING, num } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Comparison
-// ---------------------------------------------------------------------------
-
 export const comparison: FormulaCase[] = [
   {
     name: "equal answers true where two numbers are the same",

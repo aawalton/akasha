@@ -17,10 +17,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Fallback
-// ---------------------------------------------------------------------------
-
 export const fallback: FormulaCase[] = [
   {
     name: "fallback answers its left side where the left is there",
@@ -51,7 +47,6 @@ export const fallback: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(0) },
     expected: answersNumber(0),
-    // Absence, not falsity, is what makes the right side answer.
   },
   {
     name: "fallback keeps a left side that is empty text",
@@ -132,8 +127,6 @@ export const fallback: FormulaCase[] = [
     shape: MIXED,
     values: { count: num(7), other: num(1) },
     expected: answersNumber(7),
-    // The unreached right side would answer absent. An implementation that
-    // works both sides out and lets an absent win answers absent here.
   },
   {
     name: "a fallback answers its left without reaching an absent right",

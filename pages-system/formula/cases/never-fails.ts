@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { ABSENT, C, L, MIXED, NAME, NUMBER, num } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// A checked formula never fails
-// ---------------------------------------------------------------------------
-
 export const neverFails: FormulaCase[] = [
   {
     name: "reading a key the page holds nothing under answers absent rather than failing",
