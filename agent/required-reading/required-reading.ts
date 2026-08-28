@@ -76,13 +76,20 @@ function statedIn(body: string, defaults: ReadonlyMap<string, string>): Stated |
   return (key) => stringAt(fm, key) ?? defaults.get(key) ?? null
 }
 
-export function seatWarrantsWithDefaults(body: string, index: AddressIndex): readonly Warranted[] {
-  const stated = statedIn(body, seatDefaults())
+export function seatWarrantsWithDefaults(
+  body: string,
+  index: AddressIndex,
+  defaults: ReadonlyMap<string, string> = seatDefaults()
+): readonly Warranted[] {
+  const stated = statedIn(body, defaults)
   return stated === null ? [] : warrantsFrom(stated, index)
 }
 
-export function subagentWarrantsFor(seatBody: string, index: AddressIndex): readonly Warranted[] {
-  const defaults = seatDefaults()
+export function subagentWarrantsFor(
+  seatBody: string,
+  index: AddressIndex,
+  defaults: ReadonlyMap<string, string> = seatDefaults()
+): readonly Warranted[] {
   const stated = statedIn(seatBody, defaults)
   if (stated === null) return []
   const domain = stated(DOMAIN_KEY)

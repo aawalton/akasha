@@ -70,7 +70,10 @@ function refusalOver(
  * file in the same run reading through its stub. Taking the reader as an argument keeps a
  * substitution to the caller that made it.
  */
-export function readWhatIsRequiredWith(readText: typeof textAt): Check {
+export function readWhatIsRequiredWith(
+  readText: typeof textAt,
+  defaults?: ReadonlyMap<string, string>
+): Check {
   return {
     slug: SLUG,
     needs: "tree",
@@ -97,7 +100,9 @@ export function readWhatIsRequiredWith(readText: typeof textAt): Check {
       const body = readText("", seat.slice(1))
       if (body === null) return []
       const warranted =
-        above === null ? seatWarrantsWithDefaults(body, index) : subagentWarrantsFor(body, index)
+        above === null
+          ? seatWarrantsWithDefaults(body, index, defaults)
+          : subagentWarrantsFor(body, index, defaults)
       const failures: CheckFailure[] = []
       for (const one of warranted) {
         const root = rootOf(one.page.repo)

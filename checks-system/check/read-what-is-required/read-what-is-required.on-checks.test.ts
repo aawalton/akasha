@@ -81,14 +81,6 @@ mock.module("../../../agent/read-record.ts", () => ({
   },
 }))
 
-mock.module("../../../agent/required-reading/seat-defaults.ts", () => ({
-  seatDefaults: () =>
-    new Map([
-      ["persona-slug", "default-persona"],
-      ["role-slug", "default-role"],
-    ]),
-}))
-
 mock.module("../../../page/required-reading/warrant/warrant.ts", () => ({
   standingHere: () => ({
     index,
@@ -100,15 +92,23 @@ mock.module("../../../page/required-reading/warrant/warrant.ts", () => ({
 const { readWhatIsRequiredWith } = await import("./read-what-is-required.check.code.attachment.ts")
 
 /**
- * The fixture files stand in a map, and the check is handed the reader that reaches them.
+ * The fixture files stand in a map, and the check is handed both the reader that reaches them and
+ * the defaults a seat silent on an attribute stands on.
  *
- * NOT `mock.module` ON `page/text/text.ts`. That call is process-global and mutates the namespace
- * object in place, and `mock.restore()` leaves the replacement standing, so mocking that module here
- * left every other test file in the same run reading its fixtures through this stub and finding
- * nothing. Handing the reader to the check keeps the substitution inside this file.
+ * NOT `mock.module` ON `page/text/text.ts` OR ON `agent/required-reading/seat-defaults.ts`. That
+ * call is process-global and mutates the namespace object in place, and `mock.restore()` leaves the
+ * replacement standing, so mocking either module here reached every other test file in the same
+ * run. The first left them reading their fixtures through this stub and finding nothing; the second
+ * left `required-reading.on-checks.test.ts` standing on these two defaults rather than the ones the
+ * seat page type declares, which drops the domain it asserts. Handing both to the check keeps the
+ * substitution inside this file.
  */
 const readWhatIsRequired = readWhatIsRequiredWith(
-  (root, relPath) => bodies.get(`${root}/${relPath}`) ?? null
+  (root, relPath) => bodies.get(`${root}/${relPath}`) ?? null,
+  new Map([
+    ["persona-slug", "default-persona"],
+    ["role-slug", "default-role"],
+  ])
 )
 
 const tree: Tree = {
