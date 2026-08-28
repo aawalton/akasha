@@ -81,7 +81,9 @@ test("the names of the running seats", () => {
   const checked = checkQuery({ pageType: "seat" }, declared)
   if (!checked.ok) throw new Error(checked.message)
 
-  const read = pagesOf(ROOT, checked.pageType).map((at) => pageAt(ROOT, at, declared, NOW))
+  const read = checked.pageTypes
+    .flatMap((one) => pagesOf(ROOT, one))
+    .map((at) => pageAt(ROOT, at, declared, NOW))
   const unread = read.filter((one): one is Unread => "unread" in one)
   expect(unread).toEqual([])
 

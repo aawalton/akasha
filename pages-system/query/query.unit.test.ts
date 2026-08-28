@@ -1,6 +1,14 @@
 import { expect, test } from "bun:test"
 import type { Value, Values } from "../formula/formula.ts"
-import { type Checked, checkQuery, type Declared, type Page, type Query, runQuery } from "./query.ts"
+import {
+  type Checked,
+  checkQuery,
+  type Declared,
+  type Extending,
+  type Page,
+  type Query,
+  runQuery,
+} from "./query.ts"
 
 const TEXT = { kind: "text" } as const
 const NUMBER = { kind: "number" } as const
@@ -22,17 +30,31 @@ const text = (of: string): Value => ({ kind: "text", text: of })
 const number = (of: number): Value => ({ kind: "number", number: of })
 const boolean = (of: boolean): Value => ({ kind: "boolean", boolean: of })
 
-const checked = (query: Query, declared: Declared = declaredOf()): Checked => {
-  const answer = checkQuery(query, declared)
+const checked = (
+  query: Query,
+  declared: Declared = declaredOf(),
+  extending?: Extending
+): Checked => {
+  const answer = checkQuery(query, declared, extending)
   if (!answer.ok) throw new Error(`refused: ${answer.message}`)
   return answer
 }
 
-const refusalOf = (query: Query, declared: Declared = declaredOf()): string => {
-  const answer = checkQuery(query, declared)
+const refusalOf = (
+  query: Query,
+  declared: Declared = declaredOf(),
+  extending?: Extending
+): string => {
+  const answer = checkQuery(query, declared, extending)
   if (answer.ok) throw new Error("checked")
   return answer.message
 }
+
+/** What each page type extends, written the way a page type states it: the slug it builds on. */
+const extending = (of: Record<string, string>): Extending => new Map(Object.entries(of))
+
+/** The family a checked query asks about, in an order a case can state. */
+const family = (query: Checked): readonly string[] => [...query.pageTypes].sort()
 
 const at = (pages: readonly Page[]): readonly string[] => pages.map((page) => page.at)
 
@@ -42,7 +64,95 @@ test("a query stating no where asks for every page of its page type", () => {
 })
 
 test("a checked query carries the page type it names, which is what a store is asked for", () => {
-  expect(checked({ pageType: "seat" }).pageType).toBe("seat")
+  expect(checked({ pageType: "seat" }).pageTypes).toEqual(["seat"])
+})
+
+test("a query that expands asks about the page type it names and every one beneath it", () => {
+  const query = checked(
+    { pageType: "domain", expands: true },
+    declaredOf(),
+    extending({ command: "domain", "old-ops-command": "domain", persona: "readout" })
+  )
+  expect(query.pageTypes[0]).toBe("domain")
+  expect(family(query)).toEqual(["command", "domain", "old-ops-command"])
+})
+
+test("a page type reaching the one named through another page type is beneath it", () => {
+  const query = checked(
+    { pageType: "domain", expands: true },
+    declaredOf(),
+    extending({ readout: "domain", persona: "readout", value: "readout" })
+  )
+  expect(family(query)).toEqual(["domain", "persona", "readout", "value"])
+})
+
+test("a page type beneath is asked about whether or not it extends anything itself", () => {
+  const query = checked(
+    { pageType: "domain", expands: true },
+    declaredOf(),
+    extending({ list: "domain" })
+  )
+  expect(family(query)).toEqual(["domain", "list"])
+})
+
+test("a query that does not expand asks about the one page type, page types beneath it or not", () => {
+  const query = checked(
+    { pageType: "domain" },
+    declaredOf(),
+    extending({ command: "domain", "old-ops-command": "domain" })
+  )
+  expect(query.pageTypes).toEqual(["domain"])
+})
+
+test("a ring among the page types a query expands into is refused at checking, naming them", () => {
+  const answer = checkQuery(
+    { pageType: "a", expands: true },
+    declaredOf(),
+    extending({ a: "b", b: "a" })
+  )
+  if (answer.ok) throw new Error("checked")
+  expect(answer.moment).toBe("checking")
+  expect(answer.message).toBe("a cycle among the page types `a`, `b`")
+})
+
+test("a page type extending itself is a ring of one", () => {
+  expect(refusalOf({ pageType: "a", expands: true }, declaredOf(), extending({ a: "a" }))).toBe(
+    "a cycle among the page types `a`"
+  )
+})
+
+test("a ring no expansion reaches does not refuse the query that cannot reach it", () => {
+  const query = checked(
+    { pageType: "domain", expands: true },
+    declaredOf(),
+    extending({ x: "y", y: "x", command: "domain" })
+  )
+  expect(family(query)).toEqual(["command", "domain"])
+})
+
+test("a ring is refused before the where is read, the query being about nothing until it is", () => {
+  expect(
+    refusalOf({ pageType: "a", expands: true, where: "{slug}" }, declaredOf(), extending({ a: "a" }))
+  ).toBe("a cycle among the page types `a`")
+})
+
+test("a query that expands with nothing said of what page types extend is refused", () => {
+  expect(refusalOf({ pageType: "domain", expands: true })).toContain("none was handed in")
+})
+
+test("a where over a query that expands is checked once and holds over every page handed in", () => {
+  const declared = declaredOf({ "on-call": { type: BOOLEAN } })
+  const query = checked(
+    { pageType: "agent", expands: true, where: "{on-call}" },
+    declared,
+    extending({ seat: "agent" })
+  )
+  expect(family(query)).toEqual(["agent", "seat"])
+  const pages = [
+    pageOf("in", { "on-call": boolean(true) }),
+    pageOf("out", { "on-call": boolean(false) }),
+  ]
+  expect(at(runQuery(query, pages))).toEqual(["in"])
 })
 
 test("a where holding of a page keeps it, and one not holding drops it", () => {

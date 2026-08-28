@@ -13,6 +13,11 @@
  * under a private name, so nothing outside this file can make one, and no caller can run a query
  * nothing checked.
  *
+ * WHICH PAGE TYPES ARE ASKED ABOUT IS SETTLED AT CHECKING TOO. A query names one page type and,
+ * where it expands, means that one together with every page type beneath it along `extends-slug`.
+ * Which page types those are is a fact about page types rather than about pages, so it is worked out
+ * once, against what a store read, rather than re-walked at each page.
+ *
  * A LEAF. No disk, no page index, no clock. The pages arrive as an argument, already read, and the
  * moment `now()` answers arrives on each page's values. `pages-system/store/` is what reads them.
  */
@@ -59,10 +64,28 @@ export type Declared = {
   readonly beyond: Readonly<Record<string, string>>
 }
 
+/**
+ * What each page type extends, by its own slug: the whole set, as a store read it.
+ *
+ * A PAGE TYPE EXTENDING NOTHING IS NOT A KEY HERE. `extends-slug: none` and no `extends-slug` at all
+ * say one thing — nothing above — and what a query wants is the other direction, so a key standing
+ * with nothing under it would only ever be stepped over.
+ *
+ * THE WHOLE SET RATHER THAN ONE PAGE TYPE'S KIN. Which page types stand beneath another is the
+ * answer being worked out from this, so a store handing that in already would have had to walk the
+ * tree itself, and would have had to rule on a ring in it, which is a refusal of a query.
+ */
+export type Extending = ReadonlyMap<string, string>
+
 /** What is asked. */
 export type Query = {
   /** The page type whose pages this asks about. */
   readonly pageType: string
+  /**
+   * Whether the page types beneath that one arrive with it: every page type whose `extends-slug`
+   * reaches it, however far down. A query stating nothing asks about the one page type it names.
+   */
+  readonly expands?: boolean
   /** The formula narrowing them, which answers a boolean. A query stating none asks for them all. */
   readonly where?: string
 }
@@ -96,13 +119,19 @@ class CheckedQuery {
   /** What tells a checked query from a refusal, as it does for a checked formula. */
   readonly ok: true = true
 
-  /** The page type whose pages this asks about, carried through so a store can be asked for them. */
-  readonly pageType: string
+  /**
+   * Every page type whose pages this asks about, the one the query named first: that one alone, or
+   * that one and every page type beneath it where the query expands. A store is asked for each.
+   *
+   * THE ONE NAMED IS NOT ALSO CARRIED ALONE. A caller holding both would reach for the singular and
+   * answer a query that expands with the pages of its head alone, which no type would catch.
+   */
+  readonly pageTypes: readonly string[]
 
   readonly #test: CheckedFormula | null
 
-  constructor(pageType: string, test: CheckedFormula | null) {
-    this.pageType = pageType
+  constructor(pageTypes: readonly string[], test: CheckedFormula | null) {
+    this.pageTypes = pageTypes
     this.#test = test
   }
 
@@ -126,6 +155,66 @@ class CheckedQuery {
 
 /** A query that has passed its check, which is the only thing that can be run. */
 export type Checked = CheckedQuery
+
+/** What a refusal says of a ring among page types, in the terms those page types were written in. */
+const cycleAmong = (ring: readonly string[]): string =>
+  `a cycle among the page types ${ring.map((slug) => `\`${slug}\``).join(", ")}`
+
+/**
+ * Which page types extend each one, worked out once rather than scanned again at every step down.
+ *
+ * SORTED, so that one page type's family reads the same twice. What is handed in was gathered by a
+ * walk of a disk, and a disk's order is its own.
+ */
+const beneath = (extending: Extending): ReadonlyMap<string, readonly string[]> => {
+  const under = new Map<string, string[]>()
+  for (const [slug, over] of extending) {
+    const held = under.get(over)
+    if (held === undefined) under.set(over, [slug])
+    else held.push(slug)
+  }
+  for (const held of under.values()) held.sort()
+  return under
+}
+
+/** A page type and everything beneath it, or the ring standing in the way of saying what that is. */
+type Family = { readonly family: readonly string[] } | { readonly ring: readonly string[] }
+
+/**
+ * The page type named and every page type beneath it, the named one first.
+ *
+ * A RING IS ANSWERED RATHER THAN WALKED. `extends-slug` should stand a tree and nothing here can
+ * make it one, so a page type met twice on one way down is handed back as the ring it closes, as a
+ * page type's formulas hand back the ring they run round. Walking it would hang, and stopping at
+ * the repeat would answer a family that leaves nobody out and means nothing.
+ *
+ * A RING IS ONLY EVER MET FROM INSIDE IT. A page type extends at most one page type, so nothing
+ * outside a ring stands beneath any member of one: a query expanding a page type that stands in no
+ * ring cannot reach one, and is not refused for a ring elsewhere in the corpus. That is the same
+ * scope a page type's own formulas are held to, where the cycle refused is the one it runs round.
+ *
+ * A PAGE TYPE BENEATH DECLARING NOTHING NEW IS STILL BENEATH. Nothing here reads a declaration: one
+ * page type extending another and adding not one key is a kind of it, and its pages are asked for.
+ */
+const familyOf = (pageType: string, extending: Extending): Family => {
+  const under = beneath(extending)
+  const family: string[] = []
+  const open: string[] = []
+  const walk = (slug: string): readonly string[] | null => {
+    const standing = open.indexOf(slug)
+    if (standing !== -1) return open.slice(standing)
+    open.push(slug)
+    family.push(slug)
+    for (const one of under.get(slug) ?? []) {
+      const ring = walk(one)
+      if (ring !== null) return ring
+    }
+    open.pop()
+    return null
+  }
+  const ring = walk(pageType)
+  return ring === null ? { family } : { ring }
+}
 
 /** The keys a `where` may name and what each holds: every declared property, and every key beyond. */
 const shapeOf = (declared: Declared): Shape => {
@@ -160,10 +249,36 @@ const beyondSaid = (named: readonly string[], beyond: Readonly<Record<string, st
  *
  * THE PAGE TYPE'S OWN EXISTENCE IS NOT JUDGED HERE. Whether a page type of that slug stands, and
  * what it declares, is an answer off disk; this is handed the answer.
+ *
+ * WHAT IS ASKED ABOUT IS SETTLED BEFORE WHAT NARROWS IT. A query expanding into a ring of page types
+ * has no set of pages to be about at all, so it is refused before its `where` is read; a fault in
+ * the `where` of a query whose subject is undefined would be reported about nothing.
+ *
+ * ONE DECLARATION COVERS THE WHOLE FAMILY. The `where` is held to what the page type NAMED declares,
+ * which is what every page type beneath it inherits, and the pairing under `runQuery` reads every
+ * page of the family under that same declaration. A page type beneath restating a key under another
+ * type is a fault of that page type, found where page types are checked, rather than a second
+ * meaning a query quietly takes on.
  */
-export const checkQuery = (query: Query, declared: Declared): Checked | Refused => {
+export const checkQuery = (
+  query: Query,
+  declared: Declared,
+  extending?: Extending
+): Checked | Refused => {
+  let pageTypes: readonly string[] = [query.pageType]
+  if (query.expands === true) {
+    if (extending === undefined) {
+      return refuseQuery(
+        "a query that expands is worked out from what each page type extends, and none was handed in"
+      )
+    }
+    const found = familyOf(query.pageType, extending)
+    if ("ring" in found) return refuseQuery(cycleAmong(found.ring))
+    pageTypes = found.family
+  }
+
   const where = query.where
-  if (where === undefined) return new CheckedQuery(query.pageType, null)
+  if (where === undefined) return new CheckedQuery(pageTypes, null)
 
   const checked = checkFormula(where, shapeOf(declared))
   if (!checked.ok) return checked
@@ -176,16 +291,17 @@ export const checkQuery = (query: Query, declared: Declared): Checked | Refused 
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(query.pageType, checked)
+  return new CheckedQuery(pageTypes, checked)
 }
 
 /**
  * Work out a checked query over the pages it is handed. It answers those its `where` holds of, and
  * never fails.
  *
- * WHICH PAGES THESE ARE IS THE CALLER'S. A query names its page type and this does not enumerate,
+ * WHICH PAGES THESE ARE IS THE CALLER'S. A query names its page types and this does not enumerate,
  * so handing it the pages of another page type answers nonsense rather than a refusal. The pairing
- * is `pagesOf(checked.pageType)`.
+ * is `checked.pageTypes.flatMap((one) => pagesOf(root, one))`, each page read under the declaration
+ * the query was checked against.
  */
 export const runQuery = (checked: Checked, pages: readonly Page[]): readonly Page[] =>
   checked.answer(pages)
