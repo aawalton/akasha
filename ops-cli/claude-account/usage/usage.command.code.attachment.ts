@@ -77,8 +77,11 @@ export default async function usage(argv: readonly string[]): Promise<void> {
   }
 
   const derive = deriverFor(rootsHere())
-  const rows = derive.rows(PAGE_TYPE)
-  if (rows === null || rows.length === 0) {
+  // GATHERED RATHER THAN WALKED, because this counts them. `rows` answers a walk, and there are
+  // as many accounts as Alan holds subscriptions, so holding them costs nothing worth saving.
+  const found = derive.rows(PAGE_TYPE)
+  const rows = found === null ? [] : [...found]
+  if (rows.length === 0) {
     throw new Error("no claude-account page was found, so there is no account to report on")
   }
 
