@@ -1,7 +1,7 @@
 
 import { describe, expect, test } from "bun:test"
 import { resolveAttributes, scan } from "../lib/seat-resolve.ts"
-import { championedDomainOf } from "../lib/seat-name.ts"
+import { personaDefaultsOf } from "../lib/compose-seat-name.ts"
 import { fromSeat } from "../lib/seat-show.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 import { plantSeat, seatStore } from "./seat-fixture.ts"
@@ -241,7 +241,7 @@ describe("the owned domain", () => {
     const at = fixture()
     try {
       plant(at)
-      expect(championedDomainOf(at.root, "ryn")).toBe("code-quality")
+      expect(personaDefaultsOf(at.root, "ryn")?.domain ?? null).toBe("code-quality")
     } finally {
       at.dispose()
     }
@@ -252,7 +252,7 @@ describe("the owned domain", () => {
     try {
       plant(at)
       at.document("pages/persona/claude.persona.md", "slug: claude\ndomain-parent-slug: global", 20)
-      expect(championedDomainOf(at.root, "claude")).toBeNull()
+      expect(personaDefaultsOf(at.root, "claude")?.domain ?? null).toBeNull()
     } finally {
       at.dispose()
     }
@@ -262,7 +262,7 @@ describe("the owned domain", () => {
     const at = fixture()
     try {
       plant(at)
-      expect(championedDomainOf(at.root, "nobody")).toBeNull()
+      expect(personaDefaultsOf(at.root, "nobody")?.domain ?? null).toBeNull()
     } finally {
       at.dispose()
     }
