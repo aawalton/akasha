@@ -1,7 +1,7 @@
 import { readdirSync } from "node:fs"
 import { matchesGlob, scanGlob } from "./glob/glob.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
-import { notIgnored } from "../repo/ignored/ignored.ts"
+import { ignoresUnanswered, notIgnored } from "../repo/ignored/ignored.ts"
 import { AKASHA, REPOS } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { pageStemOf, stemOf } from "./name/name.ts"
@@ -98,6 +98,13 @@ export interface PageType {
  * catches this where the types are checked, and `tsc` does not reach `tools/`, where most of these
  * callers stand — so the refusal stands at the moment the walk would have quietly stood in for the
  * index, rather than only in a build that never sees it.
+ *
+ * A WALK THAT CANNOT LEARN WHAT IS IGNORED REFUSES RATHER THAN HANDING BACK WHAT IT WALKED.
+ * `notIgnored` is the only thing keeping `node_modules` and `dist` out of the corpus this returns,
+ * so a null from it leaves the list in hand as that corpus with untracked content in it, and there
+ * is no shorter list this could honestly hand back instead. Every caller here was written to always
+ * receive a list, so this throws where the walk cannot be filtered, as the unnamed-repository
+ * refusal above it does.
  */
 export function scanIn(
   root: string,
@@ -128,7 +135,14 @@ export function scanIn(
       if (suffixes.has(typeSuffixOf(at))) found.push(at)
     }
   }
-  return [...notIgnored(root, [...new Set(found)])].sort()
+  const kept = notIgnored(root, [...new Set(found)])
+  if (kept === null) {
+    throw new Error(
+      `${ignoresUnanswered(root)} Until it can, a scan of ${patterns.join(", ")} here would return ` +
+        "ignored files as pages."
+    )
+  }
+  return [...kept].sort()
 }
 
 export function scanSpanning(roots: Roots, globs: readonly string[]): readonly string[] {
