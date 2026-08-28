@@ -1,6 +1,6 @@
 
-import { expect } from "bun:test"
-import { mkdtempSync } from "node:fs"
+import { afterAll, expect } from "bun:test"
+import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { decided, hold } from "../lib/digest-harness.ts"
 
@@ -8,8 +8,16 @@ export const RESET = "\x1b[<u\x1b[>4;0m"
 
 export const MODULE_PATH = `${import.meta.dir}/../lib/supervisor-terminal.ts`
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 export function scratchDir(): string {
-  return mkdtempSync(join("/var/tmp", "supervisor-terminal-test-"))
+  const at = mkdtempSync(join("/var/tmp", "supervisor-terminal-test-"))
+  made.push(at)
+  return at
 }
 
 export function guardScript(parts: {
