@@ -45,7 +45,7 @@ export default workflow("registry", {
       ...sopsDecryptApply({
         name: "registry-apply-tls",
         namespace: "registry",
-        secretFile: "infra/k8s/src/registry/secrets/registry-tls.sops.yaml",
+        secretFile: "infra/k8s/src/registry/registry-tls.k8s-secret.sops.yaml",
       }),
       dependsOn: ["registry-apply"],
     },
