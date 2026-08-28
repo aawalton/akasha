@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { help } from "./mv.command.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
@@ -18,6 +18,17 @@ function scratchRepo(): string {
   return at
 }
 
+// A SCRATCH STANDING IN FOR AKASHA CARRIES THE `*-repo` PAGES, because which repositories exist is
+// derived from `pages/repo` under whatever `AKASHA_ROOT` names. A scratch without them says no
+// repository exists at all, and every case here then refuses on that rather than on what it tests.
+function akashaScratchRepo(): string {
+  const at = scratchRepo()
+  mkdirSync(`${at}/pages/repo`, { recursive: true })
+  writeFileSync(`${at}/pages/repo/akasha-repo.repo.md`, "---\nslug: akasha-repo\n---\n")
+  writeFileSync(`${at}/pages/repo/code-editor-repo.repo.md`, "---\nslug: code-editor-repo\n---\n")
+  return at
+}
+
 function moving(env: Record<string, string>, cwd: string, args: readonly string[]): Ran {
   const ran = Bun.spawnSync({
     cmd: [process.execPath, ENTRY, ...args],
@@ -32,7 +43,7 @@ function moving(env: Record<string, string>, cwd: string, args: readonly string[
 function inOneRepo(body: (root: string, run: (args: readonly string[]) => Ran) => void): void {
   const root = scratchRepo()
   try {
-    body(root, (args) => moving({ MEMORY_ROOT: root }, root, args))
+    body(root, (args) => moving({ CODE_EDITOR_ROOT: root }, root, args))
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
@@ -120,12 +131,12 @@ test("a NUL byte in a file of a kind stating no such thing is refused, not passe
 })
 
 test("sources standing in two repos are refused, one side of a move addressing one repo", () => {
-  const source = scratchRepo()
+  const source = akashaScratchRepo()
   const destination = scratchRepo()
   try {
     writeFileSync(`${source}/a.md`, "# A\n")
     writeFileSync(`${destination}/b.md`, "# B\n")
-    const ran = moving({ MEMORY_ROOT: source, BOOKS_ROOT: destination }, source, [
+    const ran = moving({ AKASHA_ROOT: source, CODE_EDITOR_ROOT: destination }, source, [
       "--from",
       `${source}/a.md`,
       "--to",
