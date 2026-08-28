@@ -20,8 +20,8 @@ export const FILE_PURPOSE_ENDING_KEY = "ending"
 export const CHAMPIONED_DOMAIN_KEY = "championed-domain-slug"
 
 export interface Documents {
-  frontmatterOf(relPath: string): Frontmatter | null
-  domainAt(slug: string): string | null
+  frontmatterOf: (relPath: string) => Frontmatter | null
+  domainAt: (slug: string) => string | null
 }
 
 export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
