@@ -12,7 +12,7 @@ The dev-server port window is stated on several surfaces, they disagree with the
 
 # Evidence
 
-What ships: `infra/auth-proxy/k8s/synth.ts:196` sets `CORS_ALLOWED_ORIGIN_PATTERNS` to `^http://localhost:3[0-6][0-9]{2}$` — 3000 to 3699. The auth-proxy terminates CORS for `/auth/v1` against it, so an origin outside it has its GoTrue fetch rejected and sign-in times out with nothing naming CORS.
+What ships: `infra/auth-proxy/auth-proxy-deployment.cluster-service.code.attachment.ts:196` sets `CORS_ALLOWED_ORIGIN_PATTERNS` to `^http://localhost:3[0-6][0-9]{2}$` — 3000 to 3699. The auth-proxy terminates CORS for `/auth/v1` against it, so an origin outside it has its GoTrue fetch rejected and sign-in times out with nothing naming CORS.
 
 The registry it mirrors is `APP_REGISTRY` in `tools/lib/dev-server-ops.ts`: alanwalton 3000, audhdalan 3100, temper 3300, archive-of-worlds 3500, atlas 3600, with `computePort` at `:88` deriving `basePort + (seq % 100)`.
 
