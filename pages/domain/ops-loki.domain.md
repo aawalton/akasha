@@ -6,7 +6,7 @@ slug: ops-loki
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - domain/loki
+  - cluster-service/loki
 ---
 
 # Definition

@@ -4,7 +4,7 @@ page-type-slug: package
 title: "Infra loki service"
 slug: infra-loki-service
 repo: akasha
-domain-parent-slug: domain/loki
+domain-parent-slug: cluster-service/loki
 ---
 
 # Definition

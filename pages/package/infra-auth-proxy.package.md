@@ -4,7 +4,7 @@ page-type-slug: package
 title: "Infra auth proxy"
 slug: infra-auth-proxy
 repo: akasha
-domain-parent-slug: domain/auth-proxy
+domain-parent-slug: cluster-service/auth-proxy
 ---
 
 # Definition
