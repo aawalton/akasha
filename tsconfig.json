@@ -155,6 +155,9 @@
     },
     {
       "path": "./shared/status-bar-access"
+    },
+    {
+      "path": "./pages-system"
     }
   ],
   "files": []
