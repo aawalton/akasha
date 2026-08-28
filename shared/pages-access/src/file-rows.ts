@@ -1,13 +1,11 @@
-import * as nodeCrypto from "node:crypto"
 import type { QueryRow } from "../../pages-query/src/answer-schema"
 import { z } from "zod"
+import { idOfFilePage, slugOfFilePage } from "../../../page/name/naming/naming.ts"
 import type { RawPageRow } from "./page-row"
 import type { PropertyDefinition } from "./page-type-config"
 import { parsePageSeq } from "./parse-page-seq"
 
 export type FilePageRow = Omit<RawPageRow, "seq"> & { readonly seq: number | null }
-
-const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
 
 const LIFTED_COLUMN = {
   id: "id",
@@ -137,33 +135,6 @@ export function mintedId(at: number = Date.now()): string {
   bytes[VARIANT_BYTE] = ((bytes[VARIANT_BYTE] ?? 0) & 0x3f) | 0x80
   const hex = [...bytes].map((one) => one.toString(16).padStart(2, "0")).join("")
   return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20, 32)}`
-}
-
-export function idDerivedFrom(at: string): string {
-  const namespace = Buffer.from(AT_NAMESPACE.replace(/-/g, ""), "hex")
-  const digest = nodeCrypto.createHash("sha1").update(namespace).update(at, "utf8").digest()
-  const bytes = Uint8Array.prototype.slice.call(digest, 0, 16)
-  bytes[6] = ((bytes[6] ?? 0) & 0x0f) | 0x50
-  bytes[8] = ((bytes[8] ?? 0) & 0x3f) | 0x80
-  const hex = Buffer.from(bytes).toString("hex")
-  return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20, 32)}`
-}
-
-export function idOfFilePage(stated: string | null, at: string): string {
-  return stated ?? idDerivedFrom(at)
-}
-
-const MARKDOWN = ".md"
-
-export function slugOfFilePage(stated: string | null, at: string | null): string | null {
-  if (stated !== null) return stated
-  if (at === null) return null
-  const relPath = at.slice(at.indexOf(":") + 1)
-  if (!relPath.endsWith(MARKDOWN)) return null
-  const stem = relPath.split("/").pop() ?? relPath
-  const dot = stem.indexOf(".")
-  const named = dot <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stem.slice(0, dot)
-  return named === "" ? null : named
 }
 
 export type BuildRowsArgs = {

@@ -5,7 +5,7 @@ import type { Asked } from "../../pages-query/src/index"
 import { z } from "zod"
 import { narrowing } from "./file-narrow"
 import { getFilePage, getFilePages } from "./file-read"
-import { idDerivedFrom } from "./file-rows"
+import { idDerivedFrom } from "../../../page/name/naming/naming.ts"
 
 const PAGE_TYPE = "claude-account"
 const PAGE_TYPE_ID = "019db533-f381-7454-a6e4-fed5397cfd84"

@@ -1,11 +1,6 @@
 import { describe, expect, it } from "bun:test"
-import {
-  buildRawPageRows,
-  camelizeKey,
-  coerceByType,
-  idDerivedFrom,
-  slugOfFilePage,
-} from "./file-rows"
+import { buildRawPageRows, camelizeKey, coerceByType } from "./file-rows"
+import { idDerivedFrom } from "../../../page/name/naming/naming.ts"
 import type { PropertyDefinition } from "./page-type-config"
 
 const def = (id: string, type: string): PropertyDefinition => ({
@@ -134,36 +129,6 @@ describe("coerceByType — what the declared type says the file's text meant", (
   it("reads an absent value as null", () => {
     expect(coerceByType(null, "number")).toBeNull()
     expect(coerceByType(undefined, "text")).toBeNull()
-  })
-})
-
-describe("idDerivedFrom — the key a page keeps when its file states no id", () => {
-  it("gives the same uuid for the same file every time", () => {
-    expect(idDerivedFrom("fixture:zoo/animals/tiger.md")).toBe(
-      idDerivedFrom("fixture:zoo/animals/tiger.md")
-    )
-  })
-
-  it("gives different uuids to different files", () => {
-    expect(idDerivedFrom("fixture:zoo/animals/tiger.md")).not.toBe(
-      idDerivedFrom("fixture:zoo/animals/otter.md")
-    )
-  })
-
-  it("spells a uuid", () => {
-    expect(idDerivedFrom("fixture:zoo/animals/tiger.md")).toMatch(
-      /^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
-    )
-  })
-
-  it("gives an `at` the uuid5 the OID namespace states for it", () => {
-    expect(idDerivedFrom("fixture:zoo/animals/tiger.md")).toBe(
-      "a458038e-2647-5125-891e-0f13f0bbcd02"
-    )
-    expect(idDerivedFrom("fixture:zoo/kinds/page.md")).toBe("3908eaa8-3bb2-566c-9f65-1be8b6bc205a")
-    expect(idDerivedFrom("memory:findings/abby-appearance/abby-and-talia-share-wording.md")).toBe(
-      "2a1f48d7-6d49-5b8c-b84f-c4c9f5dfabd0"
-    )
   })
 })
 
@@ -308,29 +273,5 @@ describe("buildRawPageRows — one pages row per file the engine answered with",
     const once = buildRawPageRows({ ...ARGS, rows: [{ at: "a", values: {} }] })
     const again = buildRawPageRows({ ...ARGS, rows: [{ at: "a", values: {} }] })
     expect(once).toEqual(again)
-  })
-})
-
-describe("slugOfFilePage", () => {
-  it("takes a stated slug over the stem it disagrees with", () => {
-    expect(slugOfFilePage("stated-name", "memory:temper/tasks/file-name.md")).toBe("stated-name")
-  })
-
-  it("falls back to the file stem where none is stated", () => {
-    expect(slugOfFilePage(null, "memory:temper/tasks/undaunted-skill-line.md")).toBe(
-      "undaunted-skill-line"
-    )
-  })
-
-  it("takes the last path segment rather than the whole path", () => {
-    expect(slugOfFilePage(null, "books:all-about-alan/topics/sleep.md")).toBe("sleep")
-  })
-
-  it("leaves a row held in a sidecar unnamed", () => {
-    expect(slugOfFilePage(null, "memory:temper/completed-months/2026-08.tasks.jsonl#7")).toBeNull()
-  })
-
-  it("leaves a row standing at no path unnamed", () => {
-    expect(slugOfFilePage(null, null)).toBeNull()
   })
 })
