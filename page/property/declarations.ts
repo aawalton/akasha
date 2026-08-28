@@ -57,13 +57,27 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
   fault: one.fault,
 })
 
+/**
+ * Declarations naming no page type at all, which is a tree whose property pages went unread rather
+ * than one that declares none: every repository this runs over declares properties.
+ */
+const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
+
 function heldDeclarations(tree: FileTree): Declarations {
   const shape = shapeMarkOf(tree)
   const mark = shape === null ? null : `${shape}-${indexStamp()}`
   const root = tree.root
   const make = (): Declarations => readDeclarations(tree)
   if (mark === null || root === undefined) return make()
-  return answeredWhole(root, mark, "declarations", make, asDeclarationsData, fromDeclarationsData)
+  return answeredWhole(
+    root,
+    mark,
+    "declarations",
+    make,
+    asDeclarationsData,
+    fromDeclarationsData,
+    anyDeclared
+  )
 }
 
 const declarations = new WeakMap<FileTree, Declarations>()

@@ -37,6 +37,12 @@ export function indexStamp(): string {
   return createHash("sha256").update(JSON.stringify(held)).digest("hex").slice(0, 16)
 }
 
+/**
+ * A registry naming no page type at all, which is a tree whose page types went unread rather than
+ * one that declares none: every repository this runs over states its own page types.
+ */
+const anyStated = (one: readonly StatedPageType[]): boolean => one.length > 0
+
 function heldRegistry(tree: FileTree): readonly PageType[] {
   const shape = shapeMarkOf(tree)
   const mark = shape === null ? null : `${shape}-${indexStamp()}`
@@ -45,7 +51,7 @@ function heldRegistry(tree: FileTree): readonly PageType[] {
   const stated =
     mark === null || root === undefined
       ? statedRegistry(tree)
-      : answeredWhole(root, mark, "registry", () => statedRegistry(tree), same, same)
+      : answeredWhole(root, mark, "registry", () => statedRegistry(tree), same, same, anyStated)
   return stated.map((one) => pageTypeRecord(one, tree.repoOf(one.slug)))
 }
 

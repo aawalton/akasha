@@ -40,22 +40,40 @@ function heldAt(path: string, mark: string): { readonly data: unknown } | null {
   return { data: held.data }
 }
 
+/**
+ * The answer held against this mark, made and kept where nothing holds one yet.
+ *
+ * `keep` RULES ON AN ANSWER AT BOTH ENDS: one it turns down is neither stored nor served, and the
+ * caller gets a freshly made answer either way. A caller passes it where some answer its `make`
+ * could return says more about the run than about the tree — an empty one, where whatever `make`
+ * reads from went unread. Storing that under a real repository's mark hands every later run the
+ * emptiness with nothing saying so, and no gate standing on it can refuse anything.
+ *
+ * TURNING ONE DOWN COSTS A RECOMPUTATION AND NOTHING ELSE, which is what makes this safe to apply
+ * where an empty answer might yet be legitimate: the answer handed back is the one `make` produced,
+ * so the worst a wrong `keep` does is decline to cache a tree that had nothing to say.
+ */
 export function answeredWhole<T, D>(
   root: string,
   mark: string,
   key: string,
   make: () => T,
   put: (made: T) => D,
-  take: (data: D) => T
+  take: (data: D) => T,
+  keep?: (made: T) => boolean
 ): T {
   const dir = answersDirIn(root)
   const path = dir === null ? null : `${dir}/${key.replace(/[^A-Za-z0-9._-]+/g, "_")}-${mark}.json`
   if (path !== null) {
     const held = heldAt(path, mark)
-    if (held !== null) return take(held.data as D)
+    if (held !== null) {
+      const was = take(held.data as D)
+      if (keep === undefined || keep(was)) return was
+    }
   }
   const made = make()
   if (dir === null || path === null) return made
+  if (keep !== undefined && !keep(made)) return made
   try {
     mkdirSync(dir, { recursive: true })
     writeWhole(path, `${JSON.stringify({ version: VERSION, mark, data: put(made) })}\n`)
