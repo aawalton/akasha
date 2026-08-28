@@ -9,7 +9,7 @@ import { stemOf as slugOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
-import { whyRefused } from "../tools/lib/seat-page.ts"
+import { whyRefused } from "../tools/lib/gated-write.ts"
 import { seatPagePaths, seatPresence, seatsDir } from "../tools/lib/seat-presence-read.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 

@@ -4,9 +4,8 @@ import { stemOf as slugOf } from "../../page/name/name"
 import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
-import { textField } from "../../page/frontmatter.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { type Roots } from "../../page/page"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
@@ -16,10 +15,6 @@ import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
 import { clipErrand } from "./seat-errand.ts"
 import type { Stated } from "./seat-stated.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
-
-export type { Outcome }
-
-export { whyRefused }
 
 const PAGE_TYPE = "seat"
 
@@ -47,11 +42,16 @@ function initiativeSlugOf(stated: string, root: string): string {
   return typeof slug === "string" && slug !== "" ? slug : stated
 }
 
+/**
+ * The domain named, spelled as an address — `domain/global` rather than `global`.
+ *
+ * THE PAGE THE NAME REACHED SETTLES THE TYPE BY ITS OWN NAME. This read that page's
+ * `page-type-slug:`, so a page whose frontmatter disagreed with its kind was addressed under a
+ * page type it is not of, and the seat page then named a domain nothing resolves.
+ */
 function domainAddress(named: string, root: string): string {
-  const documents = documentsOnDemand(root)
-  const at = documents.domainAt(named)
-  const fm = at === null ? null : documents.frontmatterOf(at)
-  const type = fm === null ? null : textField(fm, PAGE_TYPE_SLUG)
+  const at = documentsOnDemand(root).domainAt(named)
+  const type = at === null ? null : pageTypeOf(at)
   return type === null ? named : addressOf(type, slugNamed(named))
 }
 
