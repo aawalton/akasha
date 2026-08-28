@@ -281,9 +281,10 @@ function warnOmitted(pageTypeSlug: string, omitted: readonly string[]): undefine
   if (omitted.length === 0 || warned.has(pageTypeSlug)) return
   warned.add(pageTypeSlug)
   console.warn(
-    `pages-access: getFilePages(${pageTypeSlug}) named no select, so it carries none of the large ` +
-      `properties ${omitted.map((one) => `\`${one}\``).join(", ")}. A large property is loaded only ` +
-      "where it is asked for by name; name it in `select` to read its value."
+    `pages-access: getFilePages(${pageTypeSlug}) named no select, so it carries none of the ` +
+      `attachment properties ${omitted.map((one) => `\`${one}\``).join(", ")}. An attachment ` +
+      "property is loaded only where it is asked for by name; name it in `select` to read " +
+      "its value."
   )
 }
 

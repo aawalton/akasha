@@ -43,7 +43,7 @@ function fileValue(op: string, pageTypeSlug: string, key: string, value: unknown
   }
   throw new FileWriteError(
     pageTypeSlug,
-    `${op}(${pageTypeSlug}): \`${key}\` holds ${describeValue(value)}, which no frontmatter line can carry. A file page holds a string, a number, a boolean, or a list of those. Declare the property \`large:\` and hand it text, or hold this page type's pages in a \`data: jsonl\` sidecar and write them with \`writeRow\`.`
+    `${op}(${pageTypeSlug}): \`${key}\` holds ${describeValue(value)}, which no frontmatter line can carry. A file page holds a string, a number, a boolean, or a list of those. Declare the property \`attachment: json\` and hand it the value as a document of its own, or hold this page type's pages in a \`rows: jsonl\` sidecar and write them with \`writeRow\`.`
   )
 }
 

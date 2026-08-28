@@ -32,7 +32,7 @@ export class PageTypeNotFileBacked extends Error {
   readonly slug: string
   constructor(op: string, slug: string) {
     super(
-      `${op}: the roster of file-backed page types answered and does not name "${slug}", so nothing holds its pages and this write has nowhere to land. Give the \`${slug}\` page type a \`files:\` glob, or a \`data: jsonl\` property on the page type that holds its rows.`
+      `${op}: the roster of file-backed page types answered and does not name "${slug}", so nothing holds its pages and this write has nowhere to land. Give the \`${slug}\` page type a \`files:\` glob, or a \`rows: jsonl\` property on the page type that holds its rows.`
     )
     this.name = "PageTypeNotFileBacked"
     this.slug = slug
