@@ -4,10 +4,10 @@ import { surfaceClass } from "@shared/design-primitives/components/surface-class
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { cn } from "@shared/design-primitives/utils/cn"
 import type { PageTypeSlug } from "@shared/pages-url"
-import { BlockEditor } from "../block-editor/block-editor"
+import { BlockEditor } from "../block-editor/block-editor.tsx"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import { MarkdownPropertyBadge } from "../property-types/markdown"
-import { usePage } from "../supabase/use-page"
+import { MarkdownPropertyBadge } from "../property-types/markdown.tsx"
+import { usePage } from "../supabase/use-page.ts"
 
 interface PageCardNotesProps {
   pageId: string

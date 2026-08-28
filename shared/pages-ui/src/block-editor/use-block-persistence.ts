@@ -6,9 +6,9 @@ import { type RichDocument } from "@shared/pages-core/property-types/rich-docume
 import { type EditorOp } from "@shared/pages-core/property-types/rich-document-ops"
 import { editorOpToPatch, type JsonPatchLike } from "@shared/pages-core/property-types/rich-document-persist"
 import { type ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import type { Json } from "../../../supabase-database/src/generated/database"
+import type { Json } from "../../../supabase-database/src/generated/database.ts"
 import { useSupabase } from "@shared/supabase-rr/provider"
-import { isJson } from "../../../utils-narrow/src/is-json"
+import { isJson } from "../../../utils-narrow/src/is-json.ts"
 import { useCallback, useRef } from "react"
 
 function toJson(value: RichDocument | ReadonlyJSONValue): Json {
