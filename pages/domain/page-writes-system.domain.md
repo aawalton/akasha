@@ -13,7 +13,7 @@ settled: true
 
 # Design
 
-A write makes a patch and changes nothing on disk.
+A write judges its whole change before any of it lands.
 
 Nothing asking for a write needs to know how a page is stored.
 
