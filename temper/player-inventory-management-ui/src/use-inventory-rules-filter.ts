@@ -11,7 +11,7 @@ import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
   LOCK_STATUS_ITEMS,
-} from "./inventory-rules-filter-bar"
+} from "./inventory-rules-filter-items"
 import {
   buildActionFilterPredicate,
   buildCategoryMatchIds,

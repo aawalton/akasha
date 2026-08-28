@@ -1,9 +1,9 @@
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
 import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import {
-  type SortDirection,
   VALID_SKILL_TYPES,
   VALID_STATUSES,
   VALID_TABS,

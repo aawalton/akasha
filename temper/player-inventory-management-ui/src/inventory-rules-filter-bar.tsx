@@ -209,5 +209,3 @@ export function InventoryRulesFilterBar({
     </PageTabHeader>
   )
 }
-
-export { ACTIVE_STATUS_ITEMS, GOAL_FILTER_ITEMS, LOCK_STATUS_ITEMS }

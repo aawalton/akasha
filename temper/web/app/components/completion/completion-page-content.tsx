@@ -22,6 +22,7 @@ import { CompletionSearchContext } from "@temper/player-completion-ui/completion
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "@/components/completion/completion-account-tab"
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { getTabForCard } from "@temper/player-completion/completion-card-registry"
 import { CompletionCharactersTab } from "@/components/completion/completion-characters-tab"
 import { CompletionCompanionsTab } from "@/components/completion/completion-companions-tab"
@@ -30,7 +31,6 @@ import {
   buildActivityItems,
   SKILL_TYPE_ITEMS,
   SORT_OPTIONS,
-  type SortDirection,
   STATUS_ITEMS,
   VALID_TABS,
 } from "@/components/completion/completion-page-filter-constants"

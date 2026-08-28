@@ -1,5 +1,5 @@
 import type { BadgeToggleGroupItem } from "@shared/design-system"
-import type { SortDirection, SortOption } from "@shared/design-patterns/utils/sort-types"
+import type { SortOption } from "@shared/design-patterns/utils/sort-types"
 import { activityCategories } from "@temper/player-completion/activity-category-data"
 import type { CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 
@@ -33,5 +33,3 @@ export function buildActivityItems(debug: boolean): readonly BadgeToggleGroupIte
     }))
     .sort((a, b) => a.label.localeCompare(b.label))
 }
-
-export type { SortDirection }
