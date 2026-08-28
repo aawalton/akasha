@@ -96,7 +96,7 @@ export default workflow("cloudflared", {
         ...checksumHashCommands({
           variable: "CREDS_HASH",
           read: `sops -d ${ci.workspace}/infra/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml`,
-          subject: "cloudflared secret.sops.yaml",
+          subject: "cloudflared.k8s-secret.sops.yaml",
         }),
         `sed "s|checksum/config:.*|checksum/config: \\"$\{CONFIG_HASH}\\"|" ${ci.workspace}/infra/k8s/src/cloudflared/generated/deployment.generated.yaml \\`,
         `  | sed "s|checksum/creds:.*|checksum/creds: \\"$\{CREDS_HASH}\\"|" \\`,

@@ -16,7 +16,7 @@ if [[ $# -lt 1 ]]; then
   echo "Create a new Cloudflare Tunnel and generate K8s secret + configmap."
   echo ""
   echo "Options:"
-  echo "  --force    Overwrite existing secret.sops.yaml"
+  echo "  --force    Overwrite existing cloudflared.k8s-secret.sops.yaml"
   echo ""
   echo "Prerequisites:"
   echo "  - cloudflared CLI installed and authenticated (cert.pem in ~/.cloudflared/)"
@@ -32,7 +32,7 @@ if [[ "${2:-}" == "--force" ]]; then
 fi
 
 CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
-SOPS_SECRET="${CLUSTER_DIR}/k8s/src/cloudflared/k8s/secret.sops.yaml"
+SOPS_SECRET="${CLUSTER_DIR}/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml"
 TUNNEL_CONFIG="${CLUSTER_DIR}/k8s/src/cloudflared/config-header.yaml"
 
 if ! command -v cloudflared &>/dev/null; then
