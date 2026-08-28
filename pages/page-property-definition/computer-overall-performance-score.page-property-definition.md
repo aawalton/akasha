@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Computer overall performance score"
 defined-on-slug: page-type/computer
 key: overall-performance-score
-type: formula
+type: number
 expression: cpuScore + gpuScore + storageScore + ramScore
-returnType: number
 slug: computer-overall-performance-score
 domain-parent-slug: page-type/computer
 ---

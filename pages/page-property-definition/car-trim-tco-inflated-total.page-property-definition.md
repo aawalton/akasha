@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Car trim tco inflated total"
 defined-on-slug: page-type/car-trim
 key: tcoInflatedTotal
-type: formula
-returnType: number
+type: number
 expression: "prop(tcoDepreciation) + prop(tcoFuel) * 1.5 + prop(tcoInsurance) * 1.5 + prop(tcoMaintenance) * 1.5 + prop(tcoRepairs) * 1.5 + prop(tcoFinancing) + prop(tcoTaxesFees)"
 slug: car-trim-tco-inflated-total
 domain-parent-slug: page-type/car-trim

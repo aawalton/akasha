@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection total length"
 defined-on-slug: page-type/collection
 key: totalLength
-type: formula
+type: number
 expression: totalLengthInWords / unitWords
-returnType: number
 slug: collection-total-length
 domain-parent-slug: page-type/collection
 ---

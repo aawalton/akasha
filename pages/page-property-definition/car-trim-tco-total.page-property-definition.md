@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Car trim tco total"
 defined-on-slug: page-type/car-trim
 key: tcoTotal
-type: formula
-returnType: number
+type: number
 expression: "prop(tcoDepreciation) + prop(tcoFuel) + prop(tcoInsurance) + prop(tcoMaintenance) + prop(tcoRepairs) + prop(tcoFinancing) + prop(tcoTaxesFees)"
 slug: car-trim-tco-total
 domain-parent-slug: page-type/car-trim

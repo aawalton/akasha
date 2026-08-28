@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection own remaining"
 defined-on-slug: page-type/collection
 key: ownRemaining
-type: formula
+type: number
 expression: ownLength - ownProgress
-returnType: number
 slug: collection-own-remaining
 domain-parent-slug: page-type/collection
 ---

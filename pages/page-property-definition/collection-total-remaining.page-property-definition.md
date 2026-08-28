@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection total remaining"
 defined-on-slug: page-type/collection
 key: totalRemaining
-type: formula
+type: number
 expression: totalRemainingInWords / unitWords
-returnType: number
 slug: collection-total-remaining
 domain-parent-slug: page-type/collection
 ---

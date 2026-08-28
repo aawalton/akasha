@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection parts remaining in words"
 defined-on-slug: page-type/collection
 key: partsRemainingInWords
-type: formula
+type: number
 expression: partsLengthInWords - partsProgressInWords
-returnType: number
 slug: collection-parts-remaining-in-words
 domain-parent-slug: page-type/collection
 ---

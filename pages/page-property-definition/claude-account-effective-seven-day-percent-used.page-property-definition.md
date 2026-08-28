@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Claude account effective seven day percent used"
 defined-on-slug: page-type/claude-account
 key: effective-seven-day-percent-used
-type: formula
-returnType: number
+type: number
 expression: prop(subscription-disabled-reason) && 100 || prop(seven-day-percent-used)
 slug: claude-account-effective-seven-day-percent-used
 domain-parent-slug: page-type/claude-account

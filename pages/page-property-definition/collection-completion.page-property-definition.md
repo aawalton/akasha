@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection completion"
 defined-on-slug: page-type/collection
 key: completion
-type: formula
+type: select(slug)
 expression: (totalLengthInWords > 0) && (totalRemainingInWords <= 0) && "completed" || (totalProgressInWords > 0) && "in-progress" || "not-started"
-returnType: select(slug)
 values:
   - not-started
   - in-progress

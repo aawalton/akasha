@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection own length in words"
 defined-on-slug: page-type/collection
 key: ownLengthInWords
-type: formula
+type: number
 expression: ownLength * unitWords
-returnType: number
 slug: collection-own-length-in-words
 domain-parent-slug: page-type/collection
 ---

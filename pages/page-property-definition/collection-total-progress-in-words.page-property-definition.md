@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection total progress in words"
 defined-on-slug: page-type/collection
 key: totalProgressInWords
-type: formula
+type: number
 expression: ownProgressInWords + partsProgressInWords
-returnType: number
 slug: collection-total-progress-in-words
 domain-parent-slug: page-type/collection
 ---

@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Collection own remaining in words"
 defined-on-slug: page-type/collection
 key: ownRemainingInWords
-type: formula
+type: number
 expression: ownLengthInWords - ownProgressInWords
-returnType: number
 slug: collection-own-remaining-in-words
 domain-parent-slug: page-type/collection
 ---
