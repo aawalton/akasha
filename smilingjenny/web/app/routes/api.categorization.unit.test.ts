@@ -8,13 +8,7 @@ const CREDENTIAL = "ring-credential-the-widget-build-carries"
 let relayAnswers: () => Promise<{ unreviewed: number; total: number; intake: number }> = async () =>
   COUNTS
 
-mock.module("@shared/monarch-categorization-access", () => ({
-  createRingReader: () => {
-    throw new Error("this route relays counts and builds no ring reader")
-  },
-  fetchRingCountsFromMonarch: async () => {
-    throw new Error("this route relays counts and never calls Monarch")
-  },
+mock.module("@shared/monarch-categorization-access/ring-relay", () => ({
   fetchRingCountsFromRoute: async () => relayAnswers(),
 }))
 
