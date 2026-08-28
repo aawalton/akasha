@@ -1,33 +1,18 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * The nesting, held to a fixture.
- *
- * THIS IS THE PART THAT CAN NOW BE WRONG. The tree used to arrive composed and all this extension
- * did was refuse a bad shape; the shaping is here now, so what these assert is the shape itself —
- * what nests under what, in which order, under which id, and what is reported rather than drawn.
- */
 import { describe, expect, test } from 'bun:test';
-import { type PageAnswers, type PageNode, type QueryRow, assemblePageTree } from './assemble';
+import { type PageAnswers, type PageNode, type QueryRow, assemblePageTree } from './assemble.ts';
 
 const at = (rel: string) => `akasha:${rel}`;
 
-/** A page type row, as `page-type-all` answers one. */
 const type = (slug: string, extendsSlug: string): QueryRow => ({
 	at: at(`pages/page-type/${slug}.md`),
 	values: { slug, 'extends-slug': extendsSlug },
 });
 
-/** A property definition row, as `page-property-definition-all` answers one. */
 const property = (slug: string, key: string, on: string, propertyType: string | null): QueryRow => ({
 	at: at(`pages/page-property-definition/${slug}.md`),
 	values: { slug, key, 'defined-on-slug': on, type: propertyType },
 });
 
-/** A property type row, as `page-property-type-all` answers one. */
 const propertyType = (
 	typeSlug: string,
 	kind: string,
@@ -43,7 +28,6 @@ const propertyType = (
 	},
 });
 
-/** A domain row, as `domain-all` answers one. */
 const domain = (slug: string): QueryRow => ({ at: at(`pages/domain/${slug}.md`), values: { slug } });
 
 const REPO = '/home/walton/repos/akasha';
@@ -56,14 +40,6 @@ const answers = (given: Partial<PageAnswers>): PageAnswers => ({
 	...given,
 });
 
-/**
- * Both trees in miniature: page types under `page`, and a vocabulary of three kinds beside them.
- *
- * BOTH KINDS OF ROW COME OUT OF IT — rows that open a document, and the scaffolding rows that open
- * nothing. The second is what the counts and the open-command guard turn on, so a fixture holding
- * only the first would pass every test here while the panel offered Alan a click that opens
- * `<repo>/null`.
- */
 const WHOLE: PageAnswers = answers({
 	types: [type('page', 'none'), type('domain', 'page'), type('page-property-type', 'domain')],
 	properties: [property('page-body', 'body', 'page', 'template')],
@@ -115,11 +91,6 @@ describe('assemblePageTree, the page type tree', () => {
 		expect(tree.roots[0]?.children).toHaveLength(0);
 	});
 
-	/**
-	 * The instructions repository's own composer ordered with `localeCompare`, and this has to agree
-	 * with it or the panel reorders itself the day the read moves over. The two disagree exactly on
-	 * case, so the assertion is written on a pair that separates them.
-	 */
 	test('properties order by key the way `localeCompare` orders, not by code point', () => {
 		const given = answers({
 			types: [type('page', 'none')],
@@ -165,11 +136,6 @@ describe('assemblePageTree, the property type vocabulary', () => {
 		expect(vocabulary.children[0]?.at).toBeNull();
 	});
 
-	/**
-	 * `domain-all` answers every domain because the query language has no prefix test, so the filter
-	 * that keeps only the kind documents stands here. A domain that is not one of them must not be
-	 * read as a kind whose name happens to be its whole slug.
-	 */
 	test('a domain that is not a kind document is passed over rather than read as a kind', () => {
 		const vocabulary = assemblePageTree(WHOLE, REPO).roots[1] as PageNode;
 		expect(vocabulary.children.map((one) => one.label)).not.toContain('something-else');
@@ -213,12 +179,6 @@ describe('assemblePageTree, the property type vocabulary', () => {
 });
 
 describe('assemblePageTree, what it reports rather than draws', () => {
-	/**
-	 * A type whose parent no query answered with is exactly what the six-query read produces if a
-	 * page type is a page of some type nothing asks for. It has to fall to `unreached` rather than be
-	 * drawn as a second root: a type that extends something is not a root, and drawing it as one
-	 * would hide the fault instead of stating it.
-	 */
 	test('a type whose parent is absent is reported unreached, never drawn as a second root', () => {
 		const given = answers({ types: [type('page', 'none'), type('orphan', 'missing-parent')] });
 		const tree = assemblePageTree(given, REPO);
@@ -245,10 +205,6 @@ describe('assemblePageTree, what it reports rather than draws', () => {
 		expect(assemblePageTree(WHOLE, REPO).unreached).toEqual([]);
 	});
 
-	/**
-	 * Two types extending each other would recurse until the stack ended. This is the guard, and it is
-	 * worth a test because the pages that trigger it are ones nobody writes on purpose.
-	 */
 	test('types extending each other are drawn once rather than recursed forever', () => {
 		const given = answers({ types: [type('page', 'none'), type('a', 'b'), type('b', 'a')] });
 		const tree = assemblePageTree(given, REPO);
@@ -256,11 +212,6 @@ describe('assemblePageTree, what it reports rather than draws', () => {
 		expect(tree.unreached).toEqual(['a', 'b']);
 	});
 
-	/**
-	 * The one promise that is about the answer as a whole rather than about a row, and the one whose
-	 * breach is silent: the workbench keys expansion off `TreeItem.id`, so a repeated id draws two
-	 * rows that open and close together rather than throwing anywhere.
-	 */
 	test('two properties of one type answering with one slug are refused and the id is named', () => {
 		const given = answers({
 			types: [type('page', 'none')],
@@ -270,11 +221,6 @@ describe('assemblePageTree, what it reports rather than draws', () => {
 		expect(() => assemblePageTree(given, REPO)).toThrow(/type\/page\/properties\/same/);
 	});
 
-	/**
-	 * A page type and its property definitions live where their domain lives, so one answer carries
-	 * rows from more than one repository. A row cut down to a bare path would open under whichever
-	 * repository the panel happened to be watching, which is a click that fails after Alan made it.
-	 */
 	test('a row from another repository keeps that repository on it rather than being refused', () => {
 		const foreign = answers({
 			types: [

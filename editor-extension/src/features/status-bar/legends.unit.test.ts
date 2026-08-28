@@ -1,15 +1,7 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
 import { describe, expect, test } from 'bun:test';
-import { createLegendStore, type LegendRead, NO_LEGENDS } from './legends';
-import { STOPLIGHTS_SECTIONS, type StoplightsSection } from './slot-types';
+import { createLegendStore, type LegendRead, NO_LEGENDS } from './legends.ts';
+import { STOPLIGHTS_SECTIONS, type StoplightsSection } from './slot-types.ts';
 
-// Legends as they come back from the readout documents. FIXTURE data — the loader
-// never inspects a legend's contents, so what these say does not matter to it, only
-// that the three are distinguishable.
 const LEGEND: Readonly<Record<StoplightsSection, string>> = {
 	upkeep: 'Plants · Activity · Sleep · Surplus · Capacity · Safety',
 	inbox: 'email · tasks · temper-tasks · unread-texts · questions',
@@ -18,17 +10,10 @@ const LEGEND: Readonly<Record<StoplightsSection, string>> = {
 
 const CEILING = 50;
 
-// Short enough that a test can age a legend out by sleeping, and well clear of the
-// microtask settles the landing tests use, so nothing goes stale mid-assertion.
 const TTL = 20;
 
-// The same six readouts the upkeep fixture names, in a different order — a `place`
-// reordering as the readout documents deliver it, which is the case that pinning a
-// legend for the life of the window loses.
 const REORDERED_UPKEEP = 'Safety · Surplus · Capacity · Plants · Activity · Sleep';
 
-// A read that never settles — the case the ceiling exists for, and the one a plain
-// `.then` cannot tell apart from a slow one.
 const never: LegendRead = () => new Promise<string>(() => undefined);
 
 function collectFailures(): {
@@ -45,8 +30,6 @@ function collectFailures(): {
 	};
 }
 
-// `pump` starts work and returns; letting the microtask queue drain is how a test
-// observes what has landed, standing in for the next five-second poll.
 const settle = async (): Promise<undefined> => {
 	await Promise.resolve();
 	await Promise.resolve();
@@ -64,7 +47,6 @@ describe('createLegendStore — the bar is readable before any legend arrives', 
 		const { onFailure } = collectFailures();
 		const store = createLegendStore(never, onFailure, CEILING);
 		store.pump();
-		// The read has not settled and never will; the store still answers.
 		expect(store.read()).toEqual(NO_LEGENDS);
 	});
 
@@ -77,9 +59,6 @@ describe('createLegendStore — the bar is readable before any legend arrives', 
 	});
 });
 
-// ONE GROUP'S FAILURE IS ONE GROUP'S TOOLTIP. This is the whole failure contract:
-// whatever a legend read does, the other groups keep theirs and nothing is thrown
-// at the caller, because the caller is a status-bar poll that must go on drawing.
 describe('createLegendStore — a failing legend costs its own group and no other', () => {
 	test('a rejecting section leaves the other two legends standing', async () => {
 		const { seen, onFailure } = collectFailures();
@@ -128,8 +107,6 @@ describe('createLegendStore — a failing legend costs its own group and no othe
 	});
 });
 
-// A read that never settles would otherwise hold its section in flight for the life
-// of the window, so the group would never get a legend and would never try again.
 describe('createLegendStore — the ceiling frees a read that never settles', () => {
 	test('a read past the ceiling is reported as a failure naming its group', async () => {
 		const { seen, onFailure } = collectFailures();
@@ -162,8 +139,6 @@ describe('createLegendStore — the ceiling frees a read that never settles', ()
 	});
 });
 
-// Resolving a group is the expensive call in this feature. Pumping every five
-// seconds must not mean resolving every five seconds.
 describe('createLegendStore — pumping does not re-ask for what it already holds', () => {
 	test('a legend already held is not read again', async () => {
 		let reads = 0;
@@ -202,9 +177,6 @@ describe('createLegendStore — pumping does not re-ask for what it already hold
 	});
 });
 
-// A LEGEND NAMES AN ORDER THE DOCUMENTS OWN. Reordering a group's readouts moves the
-// circles on the next poll; a legend pinned for the life of the window keeps naming
-// the old order beside them, which reads as a reordering that never landed.
 describe('createLegendStore — a stale legend is read again', () => {
 	test('a legend older than the ttl is read again on the next pump', async () => {
 		let reads = 0;

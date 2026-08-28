@@ -1,27 +1,8 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * That the panel the manifest contributes is the panel this code drives.
- *
- * The two are joined by bare strings and NOTHING TYPECHECKS THE JOIN. A view id that does not match
- * leaves a panel that is permanently empty — `createTreeView` registers against an id the workbench
- * has never heard of, and there is no error anywhere. A refresh command id that does not match
- * leaves a button that throws "command not found" on the one click it exists for. Both survive a
- * compile, both survive the tests next door, and both are invisible until somebody opens the panel.
- *
- * So the SHIPPED manifest is read off disk and held against the constants the extension actually
- * uses — the same shape as `domain-tree/manifest.unit.test.ts` and `work-tree`'s beside it, for
- * the same reason. Five seats edit this one manifest, which is the other half of why the join is
- * asserted rather than read.
- */
 import { describe, expect, test } from 'bun:test';
 import { readFileSync } from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { CONTAINER_ID, REFRESH_COMMAND, VIEW_ID } from './ids';
+import { CONTAINER_ID, REFRESH_COMMAND, VIEW_ID } from './ids.ts';
 
 const MANIFEST_SCHEMA = z.object({
 	contributes: z.object({
@@ -40,7 +21,6 @@ const MANIFEST_PATH = path.join(import.meta.dir, '..', '..', '..', 'package.json
 const manifest = MANIFEST_SCHEMA.parse(JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')));
 const contributes = manifest.contributes;
 
-/** The three panels this one is meant to stand BESIDE rather than inside. */
 const AGENTS_CONTAINER = 'opsAgents';
 const DOMAINS_CONTAINER = 'opsDomains';
 const WORK_CONTAINER = 'opsWork';
@@ -49,9 +29,6 @@ describe('the Pages container', () => {
 	test('is a container of its own in the secondary side bar, not a view inside another panel', () => {
 		const containers = contributes.viewsContainers.secondarySidebar.map((one) => one.id);
 		expect(containers).toContain(CONTAINER_ID);
-		// Its own container, beside the other three, so its name stands in the top strip with theirs.
-		// A view added under any of those containers would nest it inside that panel, and the word
-		// Pages would never reach the strip.
 		for (const beside of [AGENTS_CONTAINER, DOMAINS_CONTAINER, WORK_CONTAINER]) {
 			expect(CONTAINER_ID).not.toBe(beside);
 			expect(containers).toContain(beside);
@@ -93,13 +70,6 @@ describe('the refresh affordance', () => {
 });
 
 describe('what this panel deliberately does not contribute', () => {
-	/**
-	 * A page type has no process, so none of the Agents tree's seat commands has a meaning here.
-	 * Changing one is a write into the instructions repository, gated on having read what governs it,
-	 * which is a seat's work rather than a click's. This asserts the absence rather than trusting it:
-	 * a row command copied across during a later change would offer Alan an action that cannot work,
-	 * and a disabled-looking menu item on a reading surface is worse than no menu at all.
-	 */
 	test('no row-level menu item is contributed against this view', () => {
 		const rowMenus = z
 			.object({ 'view/item/context': z.array(z.object({ when: z.string() }).loose()).optional() })

@@ -1,24 +1,7 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * What this extension will and will not accept from a page query.
- *
- * THE BOUNDARY MOVED AND THESE MOVED WITH IT. This used to parse a tree another repository's command
- * had already composed. Queries answer rows now, so what these hold is that a changed envelope is
- * refused rather than half-read, and that one query failing takes the whole read down. The shape
- * built out of the rows is `assemble.unit.test.ts`.
- *
- * WHAT IS NO LONGER TESTED HERE. The read went over HTTP and owned the wire failures: a non-2xx
- * status, a body that is not JSON. It takes an `Ask` now and is handed an answer already shaped, so
- * neither can reach it. A query that cannot be answered refuses, and that case is kept.
- */
 import { describe, expect, test } from 'bun:test';
 import type { Ask } from '../../../../readouts/readout-resolver.ts';
-import { askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness"
-import { type PageNode, type QueryRow, assemblePageTree } from "./assemble";
+import { askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness.ts"
+import { type PageNode, type QueryRow, assemblePageTree } from "./assemble.ts";
 
 const REPO = '/home/walton/repos/akasha';
 
@@ -37,7 +20,6 @@ const PROPERTIES: readonly QueryRow[] = [
 const answer = (rows: readonly QueryRow[]) =>
 	({ n: rows.length, rows, value: null, over: null, faults: [], omitted: [], unfound: [] });
 
-/** Every query answers, each with the rows its name calls for and nothing else. */
 const serving = (byslug: Readonly<Record<string, readonly QueryRow[]>>): Ask =>
 	(slug) => Promise.resolve(answer(byslug[slug] ?? []));
 
@@ -87,11 +69,6 @@ describe('readPageTree', () => {
 		expect(countPages(tree.roots)).toBe(3);
 	});
 
-	/**
-	 * HALF AN ANSWER IS NOT A SMALLER TREE, IT IS A WRONG ONE — every type that defines a property
-	 * drawn bare, or every subtype of a missing parent reported unreached — so one query failing has
-	 * to take the whole read down rather than resolve.
-	 */
 	test('one query failing fails the read rather than drawing a tree missing its rows', async () => {
 		const half: Ask = (slug) =>
 			slug === 'page-property-definition-all'
@@ -100,11 +77,6 @@ describe('readPageTree', () => {
 		await expect(readPageTree(half)).rejects.toThrow(/page-property-definition-all/);
 	});
 
-	/**
-	 * A page type is anything whose OWN page type reaches `page-type`, so the types arrive from two
-	 * queries and the properties from two more. A read that dropped the second of either pair would
-	 * lose rows silently, which is the whole reason both are named.
-	 */
 	test('the two queries answering page types are merged rather than one winning', async () => {
 		const served = serving({
 			'page-type-all': TYPES,
@@ -140,11 +112,6 @@ describe('countRows', () => {
 		expect(countRows(TREE.roots)).toBe(5);
 	});
 
-	/**
-	 * The number beside the title is held against what the filter matched, and the filter matches on
-	 * any row's own text — including the rows that open nothing. This is the assertion that keeps the
-	 * two numbers on one scale.
-	 */
 	test('a row that opens nothing is still a row it drew', () => {
 		expect(countRows(TREE.roots)).toBeGreaterThan(countPages(TREE.roots));
 	});
@@ -173,22 +140,11 @@ describe('documentPath', () => {
 			.toMatch(/\/akasha\/pages\/page-type\/page\.md$/);
 	});
 
-	/**
-	 * WHY A ROW CARRIES ITS REPOSITORY AT ALL. `books` was absorbed into akasha and its checkout is
-	 * gone, so a row still naming it names a repository this cannot place. Undefined is the whole
-	 * point: a root answered for it would build a path into a missing directory, and the row would be
-	 * drawn with an open command that fails after Alan has already clicked it.
-	 */
 	test('a row naming a repository this cannot place has no path rather than one into nowhere', () => {
 		const tree = rooted({ at: 'books:shelf/one.md', values: { slug: 'one', 'extends-slug': 'none' } });
 		expect(documentPath(tree, tree.roots[0] as PageNode)).toBeUndefined();
 	});
 
-	/**
-	 * What keeps a grouping row from carrying an open command. A path built anyway would be
-	 * `<repo>/null` or the repository directory itself, and both are a click that fails after Alan has
-	 * already made it.
-	 */
 	test('a row that opens nothing has no path rather than a path into nowhere', () => {
 		const group = (TREE.roots[0] as PageNode).children[0] as PageNode;
 		expect(group.label).toBe('properties');

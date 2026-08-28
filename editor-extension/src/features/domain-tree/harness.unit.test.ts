@@ -1,17 +1,3 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * What this panel makes of a tree it has been handed.
- *
- * WHAT IS NO LONGER TESTED HERE: that a changed shape from `ops domain champions --tree --json`
- * arrives as a stated error rather than as a tree built out of `undefined`. There is no longer a
- * process between this panel and the tree — `championTree` composes it in this process and
- * TypeScript says what shape it is — so there is no boundary for a shape to change across, and a
- * parser guarding one would be code with nothing on the other side of it.
- */
 import { describe, expect, test } from 'bun:test';
 import { countDomains, type DomainNode, type DomainTree, documentPath } from './harness.ts';
 
