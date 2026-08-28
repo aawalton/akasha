@@ -3,12 +3,25 @@ export const summary = "Put one named service into production from its own synth
 import {
   clusterService,
   deploy,
+  type Plan,
   planFor,
   refuseStandIns,
   relativeTo,
 } from "../../../deploy-system/deploy/deploy.ts"
+import {
+  appliedAt,
+  forgetGone,
+  markFor,
+  recordApplied,
+} from "../../../deploy-system/closure/closure.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
-import { keyOf, kindsOf, runningOf, unpaged, workloadOf } from "../../../deploy-system/running/running.ts"
+import {
+  keyOf,
+  kindsOf,
+  runningOf,
+  unpaged,
+  workloadOf,
+} from "../../../deploy-system/running/running.ts"
 import type { ClusterService } from "../../../deploy-system/service/service.ts"
 import { everyService, serviceNamed } from "../../../deploy-system/service/service.ts"
 import { fail } from "../../../patches/patch.ts"
@@ -19,12 +32,41 @@ const LIST = "--list"
 
 const DRY_RUN = "--dry-run"
 
+const AGAIN = "--again"
+
 const VALUE_FLAGS: readonly string[] = []
 
-const BARE_FLAGS = [LIST, DRY_RUN, "--help", "-h"]
+const BARE_FLAGS = [LIST, DRY_RUN, AGAIN, "--help", "-h"]
 
 function namedIn(argv: readonly string[]): readonly string[] {
   return argv.filter((one) => !one.startsWith("-"))
+}
+
+function isRunning(service: ClusterService): boolean {
+  const found = runningOf([service.resourceKind])
+  if (!found.reached) return false
+  return new Set(found.workloads.map(keyOf)).has(keyOf(workloadOf(service)))
+}
+
+/**
+ * Why this deploy would apply nothing, or nothing where it would apply.
+ *
+ * THE CLUSTER IS ASKED AS WELL AS THE RECORD. A record says what was applied, never what is there
+ * now, so a workload deleted by hand would be held back by its own last deploy — and the record
+ * naming it is exactly why nobody would think to look.
+ *
+ * A CLUSTER THAT CANNOT BE REACHED HOLDS NOTHING BACK: the deploy goes on and kubectl says what is
+ * wrong, rather than this reporting a service as up to date on an answer it never got.
+ */
+function heldBack(akasha: string, plan: Plan, mark: string): string | null {
+  const applied = appliedAt(akasha, plan.service.slug, mark)
+  if (applied === null) return null
+  if (!isRunning(plan.service)) return null
+  return (
+    `${plan.service.slug} was deployed from exactly these manifests at ${applied.when}, and the ` +
+    `cluster is running it, so there is nothing to apply\n` +
+    `\`ops deploy ${AGAIN} ${plan.service.slug}\` applies them regardless\n`
+  )
 }
 
 function listEvery(root: string): void {
@@ -39,7 +81,8 @@ function listEvery(root: string): void {
       continue
     }
     const where = `${one.namespace}/${one.resourceName}`
-    const state = running === null ? "" : running.has(keyOf(workloadOf(one))) ? "running" : "NOT RUNNING"
+    const state =
+      running === null ? "" : running.has(keyOf(workloadOf(one))) ? "running" : "NOT RUNNING"
     process.stdout.write(`${one.slug.padEnd(34)}${where.padEnd(42)}${state}\n`)
   }
   process.stdout.write(`\n${every.length} service(s) have a page\n`)
@@ -78,6 +121,11 @@ export const help = {
     "Deployment, StatefulSet or DaemonSet, the deploy waits for its rollout rather than returning " +
     "on the apply.\n" +
     "\n" +
+    "WHAT WAS APPLIED IS REMEMBERED, under a mark taken over the manifests themselves rather than " +
+    "over the code that emitted them, so anything a synth read without importing it still moves " +
+    "the mark. A service the cluster is already running from exactly these manifests applies " +
+    "nothing. A service the cluster has lost is applied whether or not its manifests moved.\n" +
+    "\n" +
     "THIS IS NOT `ops service`, which starts and stops the systemd units of a workstation " +
     "service. A workstation service is refused here.",
   irreversible: "irreversible" as const,
@@ -89,6 +137,10 @@ export const help = {
         "running it, and name every workload it runs that no page names.",
     },
     { name: DRY_RUN, description: "Report the synth, the manifests and the order; apply nothing." },
+    {
+      name: AGAIN,
+      description: "Apply the manifests though the cluster was last given these same ones.",
+    },
   ],
   positionals: [
     {
@@ -128,19 +180,35 @@ async function deploying(argv: readonly string[]): Promise<void> {
     fail(`a deploy carries one service, and ${named.length} were named: ${named.join(", ")}`)
   }
 
+  const every = everyService(root)
   const service = clusterService(serviceNamed(root, named[0] as string))
+  const plan = await planFor(root, service)
+  const mark = markFor(root, plan)
 
   if (argv.includes(DRY_RUN)) {
-    const plan = await planFor(root, service)
     process.stdout.write(`${service.slug} is emitted by ${relativeTo(root, plan.synthPath)}\n`)
     for (const manifest of plan.manifests) {
       process.stdout.write(`  ${relativeTo(root, manifest.path)}\n`)
     }
     refuseStandIns(root, plan)
+    process.stdout.write(heldBack(root, plan, mark) ?? "these manifests would be applied\n")
     return
   }
 
-  const done = await deploy(root, service)
+  forgetGone(
+    root,
+    every.map((one) => one.slug)
+  )
+
+  if (!argv.includes(AGAIN)) {
+    const held = heldBack(root, plan, mark)
+    if (held !== null) {
+      process.stdout.write(held)
+      return
+    }
+  }
+
+  const done = await deploy(root, plan)
   for (const written of done.written) {
     process.stderr.write(`wrote ${relativeTo(root, written)}\n`)
   }
@@ -152,6 +220,7 @@ async function deploying(argv: readonly string[]): Promise<void> {
       process.exit(3)
     }
   }
+  recordApplied(root, plan, mark)
 }
 
 if (import.meta.main) {

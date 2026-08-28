@@ -196,8 +196,7 @@ export interface Deployed {
   readonly ran: readonly Ran[]
 }
 
-export async function deploy(akasha: string, service: ClusterService): Promise<Deployed> {
-  const plan = await planFor(akasha, service)
+export async function deploy(akasha: string, plan: Plan): Promise<Deployed> {
   refuseStandIns(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []

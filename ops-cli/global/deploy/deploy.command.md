@@ -35,3 +35,7 @@ The namespace is applied before anything placed in it, and the workload after ev
 A deploy waits for the rollout of a workload that has one.
 
 A manifest carrying a stand-in for a value its synth cannot know is refused.
+
+A service the cluster is running from exactly these manifests is not deployed again.
+
+A service the cluster is not running is deployed though its manifests are unchanged.
