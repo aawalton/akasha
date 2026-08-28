@@ -201,6 +201,12 @@ export default async function read(argv: readonly string[]): Promise<void> {
   const page = agent === null ? null : agentPageFor(agent)
   const cutoff = page === null ? 0 : replacedAt(page)
   const log = agent === null ? null : readRecordFor(agent)
+  if (agent !== null && page === null) {
+    say(
+      `read:   no agent page stands for \`${agent}\`, so nothing read here can be recorded against ` +
+        "you and the change you make next is refused for it"
+    )
+  }
   const workspace = mkdtempSync(`${SCRATCH}/akasha-read-`)
   const queue = [...targets, ...required.targets]
   const conditional = args.seat ? conditionalBelow(queue, from) : []
