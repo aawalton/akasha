@@ -5,7 +5,7 @@ title: "Import resolves"
 slug: import-resolves
 needs: file
 cached: false
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
