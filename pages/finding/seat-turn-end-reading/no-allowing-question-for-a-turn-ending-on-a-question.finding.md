@@ -3,7 +3,7 @@ id: 9b6950cf-2e1d-56d4-a638-e493f7dfef52
 slug: no-allowing-question-for-a-turn-ending-on-a-question
 page-type-slug: finding
 title: "No allowing question for a turn ending on a question"
-domain-slug: domain/seat-turn-end-reading
+domain-slug: page-property-definition/seat-turn-end-reading
 ---
 
 # Claim

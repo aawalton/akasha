@@ -6,7 +6,7 @@ extends-slug: page
 files: akasha:**/*.seat-turn-end-reading-case.md
 body-shape-slug: seat-turn-end-reading-case
 slug: seat-turn-end-reading-case
-domain-parent-slug: domain/seat-turn-end-reading
+domain-parent-slug: page-property-definition/seat-turn-end-reading
 ---
 
 # Definition

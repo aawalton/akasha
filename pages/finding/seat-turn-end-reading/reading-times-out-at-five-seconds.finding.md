@@ -3,7 +3,7 @@ id: 06965099-2e9d-54a1-8c15-7f0ce04839b3
 slug: reading-times-out-at-five-seconds
 page-type-slug: finding
 title: "Reading times out at five seconds"
-domain-slug: domain/seat-turn-end-reading
+domain-slug: page-property-definition/seat-turn-end-reading
 ---
 
 # Claim

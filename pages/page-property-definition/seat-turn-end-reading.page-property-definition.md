@@ -1,14 +1,19 @@
 ---
 id: 6510d5af-56b5-5913-aa1d-8e74cd9d601b
-page-type-slug: domain
+page-type-slug: page-property-definition
 title: "Seat turn end reading"
+defined-on-slug: page-type/seat
+key: turn-end-reading
+type: text
+uncommitted: true
+computed: true
 slug: seat-turn-end-reading
 domain-parent-slug: domain/seat-turn-end
 ---
 
 # Definition
 
-- **Seat turn end reading** — whether a turn's ending should be refused.
+- **Seat turn end reading** — the ruling on whether a seat's last turn could end.
 
 # Design
 
