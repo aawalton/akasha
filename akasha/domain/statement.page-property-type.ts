@@ -1,0 +1,12 @@
+import type { PagePropertyType } from "../page/page-property-type.page-type.ts"
+
+export type Statement = string
+
+export const statement = {
+  id: "01a049c8-3ead-7c41-ae0b-d4c110afbc4f",
+  slug: "statement",
+  definition: "one sentence of a page's prose",
+  extendsSlug: null,
+  nameFormatSlug: null,
+  max: 200,
+} as const satisfies PagePropertyType
