@@ -9,7 +9,7 @@ import {
   namespaceManifest,
   REPLICAS,
   WINEPREFIX_PATH,
-} from "./synth"
+} from "./eso-rig.cluster-service.code.attachment"
 
 describe("eso-rig manifests", () => {
   const podSpec = deploymentManifest.spec.template.spec
