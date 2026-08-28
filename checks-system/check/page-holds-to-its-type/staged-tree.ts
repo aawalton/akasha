@@ -42,6 +42,13 @@ export function treeOver(batch: Batch): FileTree | null {
   const placed = repoPlacings(roots)
   return {
     root,
+    // THE ROOTS TRAVEL WITH THE TREE. `FileTree.roots` is optional, so leaving it off compiled
+    // and read as a tree that spans nothing. `globsIn` answers an absent `roots` with the globs
+    // unchanged, keeping the directory each one was written with, where roots flatten them to
+    // `**/<name>`. Eleven page types filed outside the directory their glob names — four
+    // `readout-*` and seven `graph-*` — went unfound, and every page holding a property they
+    // declare was refused for declaring it nowhere.
+    roots,
     pending: held,
     open: (relPath) => {
       if (going.has(relPath)) return GONE
