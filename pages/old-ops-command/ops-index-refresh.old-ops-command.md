@@ -17,7 +17,7 @@ irreversible: false
 
 # Design
 
-A refresh reads nothing from the index it replaces.
+A refresh takes nothing from the index it replaces into what it writes.
 
 A refresh covers every repository at once; nothing refreshes one of them.
 
@@ -25,6 +25,6 @@ A refresh covers every repository at once; nothing refreshes one of them.
 
 The write path keeps the index current: every landing rewrites the entries for the pages it touched. This is for when that record cannot be relied on — an index that was never written, one whose files have been removed or damaged, or one left standing across a change to what the index holds.
 
-Every page in every repository is opened and the index is written from what they hold. Nothing is read from the index being replaced, so a wrong entry cannot survive a refresh. That is what separates this from what a landing does: a landing touches only the pages it knows changed, and an entry that went wrong while nothing changed after it stays wrong for good.
+Every page in every repository is opened and the index is written from what they hold. The old index is read to work out which files differ and which are no longer wanted, but nothing in it reaches the new one, so a wrong entry cannot survive a refresh. That is what separates this from what a landing does: a landing touches only the pages it knows changed, and an entry that went wrong while nothing changed after it stays wrong for good.
 
 What the refresh came to is printed — how many pages, how many identity handles over how many buckets, how many relation entries over how many files — so the reading says what it looked at rather than only that it finished.
