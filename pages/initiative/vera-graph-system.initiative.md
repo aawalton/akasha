@@ -126,6 +126,8 @@ The `typescript` producer reads imports as TypeScript syntax rather than matchin
 
 `file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
+Three of the four edge producers answer what reaches a node without a walk: `relation`, `contains`, and `loader` since 2026-08-28. `loader` cuts the code attachment tail off a key to name the one page an edge could have come from, and answers about a node in 0.04ms where the walk took 302ms; the two answers are the same 33 edges. `typescript` is the one left, so asking for an `import` edge still produces every node.
+
 `edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. Asked about 2,240 nodes, `relation` answers from the reverse index in 1,135ms against 4,504ms for the walk, and the two answers are the same set; asked about five it is 197ms against 4,428ms. `graph/ask.unit.test.ts` fell from 8.6s to 635ms on it.
 
 `cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop. It is what the last intent is aimed at.
@@ -136,12 +138,8 @@ The `typescript` producer reads imports as TypeScript syntax rather than matchin
 
 `page-type/graph-edge` states as a Condition that an edge runs from the node that names another to the one it names. `contains` runs against that: the child's key names the folder, and the edge runs from the folder.
 
-`folder`, `contains` and the list spelling of `node-kind` landed on 2026-08-27. `contains` stores nothing: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys.
+Of the 124,768 relations the pages system reaches, 13 are dropped for naming a path no tracked file is at, all of them links; `links-resolve` is what reports those.
 
-The `frontmatter` producer is gone, replaced by the `relation` producer, which reads the pages index rather than deriving the same facts a second time. Its forward answer is the pages system's own `reachedFrom` over `relations.json` and `pages.jsonl`, so the declaration walk, the inheritance walk and the target resolution the graph kept a second copy of went with it. It emits 124,755 edges where the old producer emitted 121,824, and everything it adds is `link`. Of the 124,768 relations the pages system reaches, 13 are dropped for naming a path no tracked file is at, all of them links; `links-resolve` is what reports those.
-
-`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, which is how `relation` handles a drifted index. `relation` and `contains` both answer; `typescript` and `loader` are still walked.
+`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, which is how `relation` handles a drifted index. `typescript` is the one producer still walked.
 
 Each held answer is marked by the import closure of the file that works it out, rather than by the whole engine's. `frontmatter` reaches 8 files, `typescript` 16 and `relation-links` 2, against 37 for `graph/ask.ts`, which every one of them was filed under before. A producer is no longer in any other's closure, so landing one drops none of the others' answers; the helpers they share are in both closures, so a change to one of those still drops both. An entry the graph does not reach falls back to the engine's closure, a mark that never moves being the one failure worth being over-eager about.
-
-`codeModule` reached zero call sites on 2026-08-27, from 174 at the start. `tools/lib/code-import.ts`, `code-reaches.ts`, `code-literal.ts`, `tools/reaches.ts`, their tests and the `ops instructions reaches` command page were ablated the same day by nimue.seat, the command page and its last caller in one commit. Converting the last of them found that `ops temper upstream-data verify housing` had been failing on every run, reading `naLibraryData` off a barrel that exports only `euLibraryData`, so the NA half of that port was never checked.
