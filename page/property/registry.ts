@@ -2,10 +2,7 @@ import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
 import { createHash } from "node:crypto"
-/** `page-types.ts` exports a `pageTypeOf` of its own, which builds a record rather than naming a
- * file's page type; it is taken here under the name of what it does so the one that names a page
- * type keeps its own. */
-import { folderIn, PAGE_TYPE_GLOBS, type PageType, pageTypeOf as pageTypeFrom, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
+import { folderIn, PAGE_TYPE_GLOBS, type PageType, pageTypeRecord, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { builtFrom, loadPages } from "../index/store/store.ts"
 
@@ -46,7 +43,7 @@ function heldRegistry(tree: FileTree): readonly PageType[] {
     mark === null || root === undefined
       ? statedRegistry(tree)
       : answeredWhole(root, mark, "registry", () => statedRegistry(tree), same, same)
-  return stated.map((one) => pageTypeFrom(one, tree.repoOf(one.slug)))
+  return stated.map((one) => pageTypeRecord(one, tree.repoOf(one.slug)))
 }
 
 function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<string, StatedPageType> {

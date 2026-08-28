@@ -8,9 +8,7 @@ import { stemOf } from "./name/name.ts"
 import { scannedFromIndex } from "./index/scan/scan.ts"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
-/** Taken under a name of its own beside this file's `pageTypeOf`, which builds a record rather
- * than naming a file's page type. */
-import { pageTypeOf as pageTypeOfFile } from "../pages-system/page-type/page-type.ts"
+import { pageTypeOf } from "../pages-system/page-type/page-type.ts"
 
 export const PAGES_ROOT = "pages"
 
@@ -128,7 +126,8 @@ export function pageTypeStatedAt(relPath: string, text: string): StatedPageType 
   }
 }
 
-export function pageTypeOf(one: StatedPageType, repo: string | null): PageType {
+/** The registry record for a page type, filling in where its pages stand where it states nothing. */
+export function pageTypeRecord(one: StatedPageType, repo: string | null): PageType {
   return {
     slug: one.slug,
     relPath: one.relPath,
@@ -140,7 +139,7 @@ export function pageTypeOf(one: StatedPageType, repo: string | null): PageType {
 
 export function pageTypeAt(relPath: string, text: string, repo: string | null = null): PageType | null {
   const one = pageTypeStatedAt(relPath, text)
-  return one === null ? null : pageTypeOf(one, repo)
+  return one === null ? null : pageTypeRecord(one, repo)
 }
 
 export function domainKinds(types: readonly PageType[]): ReadonlySet<string> {
@@ -171,7 +170,7 @@ export function domainKinds(types: readonly PageType[]): ReadonlySet<string> {
 export function domainKindTest(types: readonly PageType[]): (relPath: string) => boolean {
   const kinds = domainKinds(types)
   return (relPath) => {
-    const kind = pageTypeOfFile(relPath)
+    const kind = pageTypeOf(relPath)
     return kind !== null && kinds.has(kind)
   }
 }
@@ -292,7 +291,7 @@ export type Claim =
  * is the half of the answer this adds.
  */
 export function claimant(relPath: string, types: readonly PageType[]): Claim {
-  const kind = pageTypeOfFile(relPath)
+  const kind = pageTypeOf(relPath)
   if (kind === null)
     return { slug: null, type: null, why: `its name carries no page type, so no page type claims it` }
   const named = types.find((one) => one.slug === kind)
