@@ -17,6 +17,11 @@ export const PAGE_TYPE_GLOBS: readonly string[] = [
   placeOf("rules-engine-rule-set"),
 ]
 
+/** The page kinds those globs name, taken off the globs so there is one list rather than two. */
+export const PAGE_TYPE_KINDS: ReadonlySet<string> = new Set(
+  PAGE_TYPE_GLOBS.map((one) => folderIn(one).split("/").pop() ?? "")
+)
+
 export const PAGE_BODY_SHAPE_GLOBS: readonly string[] = [placeOf("page-body-shape")]
 
 export const PROPERTY_GLOBS: readonly string[] = [

@@ -3,7 +3,17 @@ import { type Frontmatter, listField, textField } from "../../page/frontmatter.t
 import { slugNamed } from "../../page/page-address.ts"
 import { computedOn } from "../../page/property/computed.ts"
 import { ATTACHMENT, type Held } from "./page-file-values.ts"
-import { DEFINED_ON, filedIn, PAGE_TYPE_GLOBS, PROPERTY_GLOBS, repoPlacings, scanIn, type Filed } from "../../page/page-types.ts"
+import {
+  DEFINED_ON,
+  filedIn,
+  PAGE_TYPE_GLOBS,
+  PAGE_TYPE_KINDS,
+  PROPERTY_GLOBS,
+  repoPlacings,
+  scanIn,
+  type Filed,
+} from "../../page/page-types.ts"
+import { indexReaches, loadPages } from "../../page/index/store/store.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name.ts"
 import { SLUG_PROPERTY } from "../../page/property/stated.ts"
@@ -78,11 +88,33 @@ export function declaringRoot(roots: Roots): string {
   return rootFor(roots, AKASHA)
 }
 
+/**
+ * Every page-type declaration standing in akasha, by the page type each file's name carries.
+ *
+ * READ OFF THE INDEX RATHER THAN GLOBBED, for the reason `pageTypePaths` records in
+ * `page/property/registry.ts`: the globs name `pages/page-type/` and nothing else, so the eleven
+ * page types filed beside their own domains — the readout four, the graph seven — were invisible
+ * here while the registry saw them, and the two answers to what page types exist disagreed.
+ *
+ * THE GLOB SCAN STANDS WHERE THE INDEX DOES NOT DESCRIBE THIS ROOT. A tree planted somewhere of
+ * its own has no rows, and akasha's own rows read against it would answer for a tree nobody asked
+ * about.
+ */
+function pageTypePathsIn(root: string): readonly string[] {
+  if (!indexReaches(AKASHA, root)) return scanIn(root, PAGE_TYPE_GLOBS)
+  const found = new Set<string>()
+  for (const one of loadPages()) {
+    if (one.repo === AKASHA && PAGE_TYPE_KINDS.has(one.type)) found.add(one.key)
+  }
+  return [...found].sort()
+}
+
 export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
   const placed = repoPlacings(roots)
+  const root = declaringRoot(roots)
   const kinds = new Map<string, Kind>()
-  for (const relPath of scanIn(declaringRoot(roots), PAGE_TYPE_GLOBS)) {
-    const text = textAt(declaringRoot(roots), relPath)
+  for (const relPath of pageTypePathsIn(root)) {
+    const text = textAt(root, relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)
     if (why !== null) continue

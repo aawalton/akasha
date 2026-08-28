@@ -2,14 +2,9 @@ import { answeredWhole } from "./answer-cache.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import type { FileTree } from "../file-tree.ts"
 import { createHash } from "node:crypto"
-import { folderIn, PAGE_TYPE_GLOBS, type PageType, pageTypeRecord, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
+import { PAGE_TYPE_KINDS, type PageType, pageTypeRecord, pageTypeStatedAt, type StatedPageType } from "../page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { builtFrom, loadPages } from "../index/store/store.ts"
-
-/** The page kinds those globs name, taken off the globs so there is one list rather than two. */
-const PAGE_TYPE_KINDS: ReadonlySet<string> = new Set(
-  PAGE_TYPE_GLOBS.map((one) => folderIn(one).split("/").pop() ?? "")
-)
 
 const registries = new WeakMap<FileTree, readonly PageType[]>()
 
