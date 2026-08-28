@@ -1,9 +1,9 @@
 
 import { textField } from "../../page/frontmatter.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { resolveSlot, scan } from "./seat-resolve.ts"
 
-const PAGE_TYPE_KEY = "page-type-slug"
 const PERSON_TYPE = "person"
 const IDENTITY_KEY = "identity-slug"
 
@@ -31,7 +31,10 @@ export function addressPerson(person: string, inboxSlug: string): Addressed {
   }
 
   const fm = found.docs.frontmatterOf(at.relPath)
-  if (fm === null || textField(fm, PAGE_TYPE_KEY) !== PERSON_TYPE) {
+  // THE NAME SETTLES THE PAGE TYPE. This asked the page's own `page-type-slug:` whether it is a
+  // person, so a file of any other kind carrying that one line was addressed as a person and the
+  // refusal below never fired. The name is what the person pages are named by.
+  if (fm === null || pageTypeOf(at.relPath) !== PERSON_TYPE) {
     return {
       kind: "refuse",
       reason:

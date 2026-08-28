@@ -14,6 +14,7 @@ import {
 } from "./decide-domain-lead.ts"
 import { championOf } from "./domain.ts"
 import { textField } from "../../page/frontmatter.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { scan } from "./seat-resolve.ts"
 
@@ -60,7 +61,10 @@ export function readAlertRequirements(
   const rows: AlertRequirementRow[] = []
   for (const [slug, at] of found.slugs) {
     const fm = found.docs.frontmatterOf(at)
-    if (fm === null || textField(fm, "page-type-slug") !== ALERT_PAGE_TYPE) continue
+    // THE NAME SETTLES THE PAGE TYPE. This took every page whose `page-type-slug:` said `alert` as
+    // an alert requirement, so a file of some other kind claiming `alert` was routed as one and a
+    // real `.alert.md` page claiming otherwise was passed over.
+    if (fm === null || pageTypeOf(at) !== ALERT_PAGE_TYPE) continue
     rows.push({ slug, domain: textField(fm, "domain"), person: textField(fm, "person-slug") })
   }
   return rows

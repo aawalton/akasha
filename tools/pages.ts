@@ -7,6 +7,7 @@ import { readFileSync } from "node:fs"
 import { slugNamed } from "../page/page-address.ts"
 import { listDocuments } from "./lib/check.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
+import { pageTypeOf } from "../pages-system/page-type/page-type.ts"
 import {
   type PageTypeRows,
   countPages,
@@ -110,7 +111,11 @@ function readPageTypeRows(roots: Roots): PageTypeRows {
     const fm = parseFrontmatter(body)
     const slug = textField(fm, "slug")
     if (slug === null) continue
-    const kind = textField(fm, "page-type-slug")
+    // THE NAME SETTLES THE PAGE TYPE. This read the file's own `page-type-slug:` and drew the file
+    // under whatever that claimed, so a page whose frontmatter disagreed with its name was sorted
+    // by the answer that does not decide: a file named `.page-type.md` claiming some other type was
+    // left off the tree, and one claiming `page-type` under another name was drawn as one.
+    const kind = pageTypeOf(relPath)
 
     if (kind === DOMAIN_KIND && slug.startsWith(KIND_DOMAIN)) {
       kindAt.set(slug.slice(KIND_DOMAIN.length), relPath)
