@@ -50,13 +50,13 @@ An agent writes a domain's lines as well as Alan would.
 
 ## Every Changed Line
 
-**Show Alan each line you change in a domain's Definition, Invariants, or Directives.**
+**Show Ryn each line you change in a domain's Definition, Invariants, or Directives.**
 
-Readers below inherit these, so a wrong one is obeyed, not caught.
+The first words are almost never the right words. Fresh eyes see new options.
 
-Approving the shape is not approving the words.
+For a mechanical change, show the mechanism.
 
-His release covers a piece of work, not the next.
+You still decide; Ryn only asks.
 
 ## Second Draft
 

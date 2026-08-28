@@ -38,11 +38,11 @@ export const domain = {
   rule: [
     {
       name: "Every Changed Line",
-      act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
-      warrant: "Readers below inherit these, so a wrong one is obeyed, not caught.",
+      act: "Show Ryn each line you change in a domain's definition, invariants, or directives.",
+      warrant: "The first words are almost never the right words. Fresh eyes see new options.",
       aids: [
-        "Approving the shape is not approving the words.",
-        "His release covers a piece of work, not the next.",
+        "For a mechanical change, show the mechanism.",
+        "You still decide; Ryn only asks.",
       ],
     },
     {
