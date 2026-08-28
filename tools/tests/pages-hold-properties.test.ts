@@ -10,8 +10,21 @@ const CLAIMED = "pages/domain/global.domain.md"
 
 const INVENTED = "not-a-property-of-anything"
 
+/**
+ * A repository name no page type can claim, for the case about a repository none does.
+ *
+ * NAMED SO THAT NOTHING CAN CLAIM IT, rather than picked from the repositories nothing claims
+ * today. This case read `stories`, then `code`, then `code-editor` — each a real repository that
+ * happened to be unclaimed when it was written, so each went stale the moment a page type stated
+ * `files: <that repo>:…`. `stories` did, on 2026-08-17, and the case began failing with `ENOENT`
+ * on `/nonexistent-stories` while nothing was wrong. A `files:` entry naming a repository that
+ * stands nowhere under `pages/repo/` is refused, so a name that is no repository at all cannot
+ * be claimed by anything, and the premise this case rests on is held by construction.
+ */
+const UNCLAIMABLE = "no-such-repo"
+
 function rootsAt(akasha: string): RepoView["roots"] {
-  return { akasha, "code-editor": "/nonexistent-code-editor" }
+  return { akasha, [UNCLAIMABLE]: `/nonexistent-${UNCLAIMABLE}` }
 }
 
 function viewOf(bend: (body: string) => string = (body) => body, name: Repo = "akasha"): RepoView {
@@ -69,13 +82,13 @@ describe("a page missing a property its page type requires", () => {
   })
 })
 
-const unclaimed = pagesHoldProperties(viewOf((body) => body, "code-editor"))
+const unclaimed = pagesHoldProperties(viewOf((body) => body, UNCLAIMABLE))
 
 describe("pages-hold-properties over a repo no page type claims", () => {
   test("says it does not apply and why, rather than certifying an empty sweep", () => {
     const outcome = unclaimed
     expect(outcome.verdict).toBe("not-applicable")
     expect(outcome.population.measured).toBe(0)
-    expect(outcome.detail).toContain("no page type names code-editor")
+    expect(outcome.detail).toContain(`no page type names ${UNCLAIMABLE}`)
   })
 })
