@@ -17,3 +17,15 @@ sequence-slugs:
 # Definition
 
 - **Name form** — how a name's words are joined and capitalized.
+
+# Principles
+
+## Same Words Everywhere
+
+**Give a name the same words in every place, in the form that place uses.**
+
+The words carry the meaning; the form belongs to the place.
+
+Change a name's form where it crosses over.
+
+Never change its words to fit a form.
