@@ -10,7 +10,7 @@ layout: notes
 sort-by:
   - title
 group-sort-by:
-  - role
+  - role-slug
 page-size: 50
 item-page-size: 12
 group-page-size: 6
@@ -19,14 +19,13 @@ visible-properties:
   - percent-progress
   - total-points
   - last-messaged-at
-  - value
-  - session-id
+  - value-slug
 always-show-properties:
   - level
   - percent-progress
   - total-points
   - last-messaged-at
-  - value
+  - value-slug
 hidden-properties-order:
   - created-at
   - do
