@@ -3,7 +3,7 @@ id: 9cff5321-781a-55e8-a0c3-55b26940c808
 slug: large-prose-ungated
 page-type-slug: finding
 title: "Every prose gate skips a large file, so prose held as a large property is read by nothing for its sense"
-domain-slug: domain/global
+domain-slug: domain/page-storage-attachment
 ---
 
 # Claim
