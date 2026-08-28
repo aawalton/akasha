@@ -1,10 +1,10 @@
-import { IMAGES } from "../../tools/lib/workflow-dsl/images"
-import { step } from "../../tools/lib/workflow-dsl/step"
-import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash"
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images.ts"
+import { step } from "../../tools/lib/workflow-dsl/step.ts"
+import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash.ts"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 const MIRROR_S3_CREDS_CMD =
   "kubectl get secret seaweedfs-creds -n seaweedfs -o json | " +
@@ -123,11 +123,6 @@ export default workflow("headscale", {
         "headscale-wait-for-certificate",
       ],
     },
-    sopsDecryptApply({
-      name: "headscale-apply-subnet-router-secret",
-      namespace: "headscale",
-      secretFile: "infra/k8s/src/headscale/talos-subnet-router/talos-subnet-router.k8s-secret.sops.yaml",
-    }),
     {
       ...step({
         name: "headscale-wait-for-rollout",
@@ -151,7 +146,7 @@ export default workflow("headscale", {
           "infra/k8s/src/headscale/talos-subnet-router/generated/subnet-router-deployment.generated.yaml",
         serverSide: true,
       }),
-      dependsOn: ["headscale-apply-subnet-router-secret", "headscale-wait-for-rollout"],
+      dependsOn: ["headscale-wait-for-rollout"],
     },
   ],
 })
