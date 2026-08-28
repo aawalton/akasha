@@ -14,6 +14,16 @@ import {
   markFor,
   recordApplied,
 } from "../../../deploy-system/closure/closure.ts"
+import {
+  alreadyBuilt,
+  buildInPlace,
+  buildTargetOf,
+  declaredBuildEnv,
+  headSha,
+  livePod,
+  resolveBuildEnv,
+  standingIn,
+} from "../../../deploy-system/build/build.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
 import {
   keyOf,
@@ -57,11 +67,22 @@ function isRunning(service: ClusterService): boolean {
  *
  * A CLUSTER THAT CANNOT BE REACHED HOLDS NOTHING BACK: the deploy goes on and kubectl says what is
  * wrong, rather than this reporting a service as up to date on an answer it never got.
+ *
+ * A SERVICE THAT BUILDS IN ITS POD IS ALSO ASKED WHAT IT BUILT FROM. Its manifests do not move when
+ * its code does, so a mark taken over manifests alone would hold back every change to the app
+ * itself and the service would never leave the bundle it was first deployed with.
  */
 function heldBack(akasha: string, plan: Plan, mark: string): string | null {
   const applied = appliedAt(akasha, plan.service.slug, mark)
   if (applied === null) return null
   if (!isRunning(plan.service)) return null
+  const target = buildTargetOf(plan)
+  if (target !== null) {
+    const pod = livePod(target)
+    if (pod === null) return null
+    const standing = standingIn(target, pod)
+    if (standing === null || !alreadyBuilt(standing, headSha(akasha))) return null
+  }
   return (
     `${plan.service.slug} was deployed from exactly these manifests at ${applied.when}, and the ` +
     `cluster is running it, so there is nothing to apply\n` +
@@ -191,6 +212,12 @@ async function deploying(argv: readonly string[]): Promise<void> {
       process.stdout.write(`  ${relativeTo(root, manifest.path)}\n`)
     }
     refuseStandIns(root, plan)
+    const would = buildTargetOf(plan)
+    if (would !== null) {
+      process.stdout.write(
+        `  and a build of ${would.packagePath} in the pod at ${headSha(root)}, then a restart\n`
+      )
+    }
     process.stdout.write(heldBack(root, plan, mark) ?? "these manifests would be applied\n")
     return
   }
@@ -220,7 +247,53 @@ async function deploying(argv: readonly string[]): Promise<void> {
       process.exit(3)
     }
   }
+  await buildIfItBuilds(root, plan)
   recordApplied(root, plan, mark)
+}
+
+/**
+ * Build this service in its pod and restart it, where it is a service that builds in its pod.
+ *
+ * NOTHING IS RECORDED BEFORE THIS RETURNS. A deploy of one of these is the manifests and the bundle
+ * together, so a build that failed must leave no record saying the service was deployed.
+ *
+ * THE BUILD REACHES ONE NODE. The checkout it writes into is that pod's node's own, so the pod it
+ * ran in is reported rather than left to be assumed of the workload.
+ */
+async function buildIfItBuilds(root: string, plan: Plan): Promise<void> {
+  const target = buildTargetOf(plan)
+  if (target === null) return
+
+  const sha = headSha(root)
+  const declared = await declaredBuildEnv(plan.synthPath)
+  const resolved = resolveBuildEnv(target.namespace, declared, sha)
+  if (resolved.missing.length > 0) {
+    for (const one of resolved.missing) {
+      process.stderr.write(`error: ${one.entry.name} for ${plan.service.slug}: ${one.why}\n`)
+    }
+    process.exit(3)
+  }
+
+  const built = buildInPlace(target, sha, resolved.env)
+  if (built.pod === "") {
+    process.stderr.write(
+      `error: no Running pod of ${target.namespace}/${target.deployment} to build in\n`
+    )
+    process.exit(3)
+  }
+  if (built.skipped) {
+    process.stdout.write(`${built.pod} is already serving a build made from ${sha}\n`)
+    return
+  }
+  process.stdout.write(`building ${target.packagePath} at ${sha} in ${built.pod}\n`)
+  for (const ran of built.ran) {
+    process.stdout.write(ran.stdout)
+    process.stderr.write(ran.stderr)
+    if (ran.code !== 0) {
+      process.stderr.write(`error: kubectl ${ran.argv.join(" ")} exited ${ran.code}\n`)
+      process.exit(3)
+    }
+  }
 }
 
 if (import.meta.main) {
