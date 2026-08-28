@@ -49,15 +49,6 @@ function endingsOf(relPath: string): readonly string[] {
   return found
 }
 
-/**
- * Every page one page names under `key`, refusing where a name reaches none.
- *
- * A NAME THAT REACHES NOTHING USED TO BE DROPPED HERE, and dropping it is indistinguishable from
- * never having named it. `pages/domain/global.domain.md` named three readings whose page types had
- * been renamed out from under them, so the domain every other sits inside pushed three documents
- * fewer than it said — to every agent, at every boot, for as long as the rename had stood. Nothing
- * reported it, because a shorter set is exactly what a smaller declaration looks like.
- */
 function pointing(at: PageAt, key: string, index: AddressIndex): readonly PageAt[] {
   const fm = index.frontmatterOf(at)
   if (fm === null) return []
@@ -126,14 +117,6 @@ function packageFor(
   return stringAt(fm, PACKAGE_REPO_KEY) === at.repo ? page : null
 }
 
-/**
- * The page type page above this page, and each one above that.
- *
- * THE NAME SETTLES WHICH CHAIN IS WALKED. This read the page's own `page-type-slug:` first and fell
- * back to the name only where none was stated, which is the rule inverted: the frontmatter must
- * AGREE with the kind the name carries rather than override it. A page misfiled by one line of
- * frontmatter was handed the required reading of a page type it is not of.
- */
 export function pageTypeChainOf(at: PageAt, index: AddressIndex): readonly PageAt[] {
   if (at.repo === INSTRUCTIONS && REGISTRY_DIRS.some((one) => at.key.startsWith(one))) return []
   const kind = pageTypeOf(at.key)

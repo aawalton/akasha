@@ -33,7 +33,6 @@ export type Relation = {
   readonly attachment: string | null
 }
 
-/** Whether a repository tracks a file. An attachment relation is true only where its file is there. */
 export type Holds = (repo: string, key: string) => boolean
 
 export type Reached = {
@@ -41,14 +40,6 @@ export type Reached = {
   readonly target: string
 }
 
-/**
- * How the index names a file end: the repository, then the path within it.
- *
- * `here` IS WHAT AN UNMARKED PATH MEANS, and it is asked for rather than defaulted. A path with no
- * `repo:` on the front was filed under `instructions` however it was reached. That repository was
- * folded into akasha, so all 317 `command-path` entries sat under a name nothing carries, and a
- * lookup keyed on the repository the file is actually in reached none of them.
- */
 export function fileTargetOf(stated: string, here: string): string {
   const marked = REPO_MARK.exec(stated)
   if (marked === null) return `${here}${ADDRESS_JOIN}${stated}`
@@ -129,14 +120,10 @@ export function reachedFrom(
   resolve: Resolve,
   holds: Holds
 ): readonly Reached[] {
-  // THE NAME SETTLES THE PAGE TYPE. This read the page's own `page-type-slug:` first, so a page
-  // whose frontmatter disagreed with its name was indexed under relations it does not declare.
   const type = pageTypeOf(at.key)
   const found: Reached[] = []
   const seen = new Set<string>()
   for (const relation of type === null ? [] : (relations.get(type) ?? [])) {
-    // An attachment is named by the convention rather than written in the frontmatter, so the page
-    // states nothing to read. What makes the relation true is the file being there.
     if (relation.attachment !== null) {
       const key = attachmentFileOf(at.key, relation.key, relation.attachment)
       if (!holds(at.repo, key)) continue

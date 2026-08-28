@@ -9,16 +9,6 @@ import { VALUES } from "./stated.ts"
 import type { Held, Rule, Vocabulary } from "./stated.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 
-/**
- * What a page's frontmatter came to, key by key.
- *
- * `unjudged` AND `elsewhere` WERE ONE FIELD, AND THEY ARE NOT ONE THING. A key whose value stands
- * in a sops file or an attachment beside the page is judged where it stands; this reads
- * frontmatter, so there is nothing here to judge and nothing is missing. A key whose type rule
- * could not be armed is the opposite: it is here, and nothing could say whether it holds. Counting
- * them together made the second unreportable, because a gate that named the sum would refuse 256
- * lines that are working as designed to reach the 113 that are not.
- */
 export interface Judgment {
   readonly refusals: readonly string[]
   readonly keys: number
@@ -84,13 +74,6 @@ export function armFor(property: Property, stated: string, vocabulary: Vocabular
   const { bounds, why: unbounded } = boundsFor(property.stated)
   if (bounds === null) return { rule: null, states: "", why: unbounded }
   const states = bounds.length === 0 ? `\`${stated}\`` : `\`${stated}\` narrowed on \`${property.on}\``
-  // NARROWING RUNS OVER THE UNION OF THE ARMS, SO THE `none` ARM IS LIFTED BACK OUT OF IT.
-  // `ruleFor` unions the type`s arms and `narrowed` then wraps the whole of that, unable to
-  // see which arm admitted a value — so a stated set was applied to the sentinel arm as well.
-  // `select(slug) | none` admitted `none` and then refused it, in a message that named `none`
-  // among the values it would take, because the message reads the type and the decision reads
-  // the bounds. Every `| none` type carrying a bound failed this way; a select is only where it
-  // surfaced, a select stating no `values:` being refused outright, so a select always has one.
   const bounded = narrowed(rule, bounds)
   const held = arms(stated).includes(NONE) ? excepting(bounded, NONE) : bounded
   return { rule: property.blank ? blanked(held) : held, states, why: null }

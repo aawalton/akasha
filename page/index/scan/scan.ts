@@ -5,34 +5,12 @@ import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
 
-/**
- * The repository whose index describes this root and could have answered these globs, for a caller
- * that named none.
- *
- * THIS CATCHES AN UNNAMED REPOSITORY RATHER THAN ANSWERING THE SCAN. A caller naming no repository
- * gets the disk walked, and where the index describes that same root the walk and the index can
- * disagree, so `scanIn` asks this and refuses rather than handing back the walk. The suffix rule
- * stands here beside the one `scannedFromIndex` applies, so there is one answer to which globs the
- * index can speak for.
- */
 export function indexWouldAnswer(root: string, patterns: readonly string[]): string | null {
   if (patterns.length === 0) return null
   if (!patterns.every((one) => SUFFIXED.test(one))) return null
   return REPOS.find((one) => indexReaches(one, root)) ?? null
 }
 
-/**
- * The paths in the index matching these globs, worked out once for the length of a call.
- *
- * EVERY ASK WALKS EVERY PAGE. The index holds every page in the repository and this matches each
- * one against each glob, so one ask costs the whole index however few paths it answers with. A
- * reader asking about many page types asks many times, and the readouts ask once per readout:
- * measured on 2026-08-28, the status bar's groups spent most of a 1.68s strip inside glob matching
- * alone, over the same handful of distinct globs.
- *
- * HELD AGAINST THE CALL, WHICH IS THE MOMENT IT READS. The index is what the answer is taken from,
- * and everything else held against a call already reads it as it stood when the call opened.
- */
 export function scannedFromIndex(
   root: string,
   patterns: readonly string[],

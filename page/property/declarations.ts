@@ -57,10 +57,6 @@ const fromDeclarationsData = (one: DeclarationsData): Declarations => ({
   fault: one.fault,
 })
 
-/**
- * Declarations naming no page type at all, which is a tree whose property pages went unread rather
- * than one that declares none: every repository this runs over declares properties.
- */
 const anyDeclared = (one: Declarations): boolean => one.bySlug.size > 0
 
 function heldDeclarations(tree: FileTree): Declarations {

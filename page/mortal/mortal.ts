@@ -31,16 +31,6 @@ export interface Mortality {
   readonly typeNamed: (slug: string) => boolean
 }
 
-/**
- * Whether a page, or a page type named by its slug, is mortal, read from the tree handed in.
- *
- * THE TREE IS THE CALLER'S, NOT THE DISK. A caller judging a change hands the tree that change would
- * leave, so a page type the same change marks mortal reads as mortal here and one it deletes does
- * not. `mortalPagesAt` answers from disk instead, which a caller judging a change cannot use.
- *
- * MORTAL IS STATED PER TYPE AND IS NOT INHERITED. This opens the page type's own file, so a type
- * extending a mortal one is mortal only where its own frontmatter states it, and no chain is walked.
- */
 export function mortalityIn(tree: FileTree, types: readonly PageType[]): Mortality {
   const held = new Map<string, boolean>()
   const bySlug = new Map(types.map((one) => [one.slug, one] as const))

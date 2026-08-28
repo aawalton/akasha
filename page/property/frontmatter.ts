@@ -23,13 +23,6 @@ export const PROPERTY_ROOTS: readonly string[] = PROPERTY_GLOBS.map((one) =>
     .join("/")
 )
 
-/**
- * Which repositories a tree reads its files out of.
- *
- * A TREE SPANNING SEVERAL NAMES THEM ON `roots`, and one built over akasha alone names none, so an
- * absent `roots` reads akasha rather than nothing. Filtered through `REPOS` so a repository named
- * on `roots` but standing on no disk here is not counted as one this reads.
- */
 function reposRead(tree: FileTree): readonly string[] {
   const roots = tree.roots
   if (roots === undefined) return [AKASHA]

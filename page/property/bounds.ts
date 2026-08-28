@@ -65,12 +65,6 @@ export function narrowed(rule: Rule, bounds: readonly Bound[]): Rule {
   }
 }
 
-/**
- * The rule with one sentinel standing outside every bound.
- *
- * A BOUND NARROWS THE VALUES A KEY MAY TAKE, AND A SENTINEL IS NOT ONE OF THEM. It states that
- * the key takes no value, which is the standing `blanked` below already gives a blank one.
- */
 export function excepting(rule: Rule, sentinel: string): Rule {
   return {
     says: rule.says,

@@ -23,9 +23,6 @@ test("a scan of a root git can answer for leaves the ignored page out", () => {
   expect(scanIn(scratchRepo(), ["**/*.domain.md"], null)).toEqual(["kept.domain.md"])
 })
 
-// WHAT THE FAILURE COSTS IS THE CORPUS. Nothing but this filter keeps `node_modules` out of the
-// page files a scan returns, so a scan that could not ask git handed back a corpus holding a file
-// the repository ignores, with nothing saying git had never answered.
 test("a scan of a root git could not be asked about refuses rather than returning the corpus", () => {
   const at = scratchRepo()
   writeFileSync(`${at}/.git/index`, "not an index\n")

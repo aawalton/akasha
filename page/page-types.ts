@@ -19,7 +19,6 @@ export const PAGE_TYPE_GLOBS: readonly string[] = [
   placeOf("rules-engine-rule-set"),
 ]
 
-/** The page kinds those globs name, taken off the globs so there is one list rather than two. */
 export const PAGE_TYPE_KINDS: ReadonlySet<string> = new Set(
   PAGE_TYPE_GLOBS.map((one) => folderIn(one).split("/").pop() ?? "")
 )
@@ -31,7 +30,6 @@ export const PROPERTY_GLOBS: readonly string[] = [
   placeOf("alan-harness-tracking-field"),
 ]
 
-/** The page kinds those globs name, taken off the globs so there is one list rather than two. */
 export const PROPERTY_KINDS: ReadonlySet<string> = new Set(
   PROPERTY_GLOBS.map((one) => folderIn(one).split("/").pop() ?? "")
 )
@@ -85,27 +83,6 @@ export interface PageType {
   readonly namedFor: string | null
 }
 
-/**
- * The paths under this root matching these globs: off the index where a repository is named, and
- * off the disk where none is.
- *
- * WHICH REPOSITORY THIS ROOT IS HAS TO BE STATED, because that is what decides which of the two is
- * read. It defaulted to `null`, which reads as an argument nobody needed and means an index nobody
- * read: four callers omitted it and walked the disk with nothing anywhere saying so. Where a caller
- * genuinely cannot name the repository, `null` now says that in the open.
- *
- * A ROOT THE INDEX DESCRIBES IS NEVER WALKED BEHIND AN UNNAMED REPOSITORY. Requiring the argument
- * catches this where the types are checked, and `tsc` does not reach `tools/`, where most of these
- * callers stand — so the refusal stands at the moment the walk would have quietly stood in for the
- * index, rather than only in a build that never sees it.
- *
- * A WALK THAT CANNOT LEARN WHAT IS IGNORED REFUSES RATHER THAN HANDING BACK WHAT IT WALKED.
- * `notIgnored` is the only thing keeping `node_modules` and `dist` out of the corpus this returns,
- * so a null from it leaves the list in hand as that corpus with untracked content in it, and there
- * is no shorter list this could honestly hand back instead. Every caller here was written to always
- * receive a list, so this throws where the walk cannot be filtered, as the unnamed-repository
- * refusal above it does.
- */
 export function scanIn(
   root: string,
   patterns: readonly string[],
@@ -175,7 +152,6 @@ export function pageTypeStatedAt(relPath: string, text: string): StatedPageType 
   }
 }
 
-/** The registry record for a page type, filling in where its pages stand where it states nothing. */
 export function pageTypeRecord(one: StatedPageType, repo: string | null): PageType {
   return {
     slug: one.slug,
@@ -209,13 +185,6 @@ export function domainKinds(types: readonly PageType[]): ReadonlySet<string> {
   return kinds
 }
 
-/**
- * Whether a path is of a page type that is a kind of domain.
- *
- * THE NAME SETTLES THE PAGE TYPE, so this reads no frontmatter and asks no repository. A page's
- * frontmatter must agree with the kind its name carries rather than decide it, and this read the
- * frontmatter first — two answer sources for a question that has one.
- */
 export function domainKindTest(types: readonly PageType[]): (relPath: string) => boolean {
   const kinds = domainKinds(types)
   return (relPath) => {
@@ -246,20 +215,6 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
 
 const PAGE_TYPE = "page-type"
 
-/**
- * Where each page type's own file stands under this root, keyed by its slug and read off the index.
- *
- * A PAGE TYPE NEED NOT STAND IN `pages/page-type/`. The `page-type` page type states a glob naming
- * no folder, and a page type lives where its domain lives, so eleven stand beside their own domains
- * — seven under `graph/` and four under `readouts/`. A listing of one folder cannot see those, and
- * the path composed behind it named a file that is not there rather than saying it had found none.
- *
- * THE FOLDER LISTING ANSWERS FIRST and this is read only where that misses, so the three hundred
- * and eighty standing in `pages/page-type/` still cost one `readdirSync` and nothing more.
- *
- * THE COMPOSED PATH STILL STANDS BEHIND BOTH, for a root the index does not describe: every fixture
- * tree is one, and a page type invented in one has no row anywhere.
- */
 function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
   return onceInCall(`page-type-files:${root}`, () => {
     const made = new Map<string, string>()
@@ -354,19 +309,6 @@ export type Claim =
   | { readonly slug: string; readonly type: PageType; readonly why: null }
   | { readonly slug: null; readonly type: null; readonly why: string }
 
-/**
- * The page type a file is of, among the page types standing here.
- *
- * THE NAME SETTLES IT, AND NOTHING ELSE IS ASKED. This read the file's own `page-type-slug:` first
- * and fell back to matching the path against each page type's `files:` glob — three answer sources
- * for a question with one. A page's frontmatter must AGREE with the kind its name carries rather
- * than decide it, so a body tells this nothing it does not already hold, and which repository the
- * file stands in settles where a page type's pages are FOUND rather than what this one IS.
- *
- * THE KIND IS LOOKED UP RATHER THAN TRUSTED. `pageTypeOf` reads a name and holds no register, so a
- * name may carry a kind that names no page type here; that is a refusal carrying its reason, which
- * is the half of the answer this adds.
- */
 export function claimant(relPath: string, types: readonly PageType[]): Claim {
   const kind = pageTypeOf(relPath)
   if (kind === null)

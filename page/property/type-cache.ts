@@ -11,16 +11,6 @@ const VERSION = 5
 
 const CACHE_AT = ".git/pages/resolved/page-type"
 
-/**
- * The folders of akasha holding the code an answer is worked out by.
- *
- * READ AGAINST AKASHA WHICHEVER REPO'S PAGES ARE BEING RESOLVED. Both tree builders set
- * `root` from `rootFor(roots, AKASHA)`, so `tree.root` is akasha's root and these paths are
- * akasha-relative — the same root the property folders below are read against.
- *
- * A FOLDER HERE COVERS EVERYTHING UNDER IT, because the ground takes the folder's tree oid.
- * So `page` stands for every file beneath it and no nested folder is named beside it.
- */
 export const CODE_AT: readonly string[] = [
   "cache",
   "during-call",
@@ -33,27 +23,12 @@ export const CODE_AT: readonly string[] = [
   "write-whole",
 ]
 
-/**
- * Where a walk over the answering code starts: the answer, and the key it is filed under.
- *
- * `propertiesFor` in the first works out the `Answer` this keeps; `keyFor` in the second works
- * out what that answer is filed under. `type-cache.unit.test.ts` walks the imports from here and
- * fails where one reaches a file no folder in `CODE_AT` covers.
- */
 export const ANSWER_SEEDS: readonly string[] = ["page/property/frontmatter.ts", "page/property/type-cache.ts"]
 
 const IGNORE_AT = ".gitignore"
 
-/**
- * Every glob naming pages an answer is worked out from.
- *
- * A FOLDER IS WHERE AN INPUT STANDS; A GLOB IS WHAT AN INPUT IS. The untracked check asks over
- * these rather than over the folders holding them, so a file standing beside a page without being
- * one moves nothing.
- */
 const INPUT_GLOBS: readonly string[] = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB, ...PAGE_TYPE_GLOBS]
 
-/** A pathspec dropping declaration files, which no runtime loads and no answer is read from. */
 const NOT_LOADED = ":(exclude,glob)**/*.d.ts"
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
@@ -74,27 +49,10 @@ interface Kept {
   readonly answer: Answer
 }
 
-/**
- * The named folders that stand, dropping those that do not.
- *
- * A PROPERTY FOLDER THAT IS NOT THERE IS A REPO WITHOUT THOSE PAGES. Its name is worked out from
- * the same `placeOf` the rest of the system files those pages by, so it cannot drift out of step
- * with what is on disk: absent means nothing is filed there, and the ground says so by leaving it
- * out. `CODE_AT` is a hand-kept list with no such tie, which is why it goes through `codeIn`.
- */
 function presentIn(root: string, named: readonly string[]): readonly string[] {
   return [...new Set(named)].sort().filter((at) => existsSync(`${root}/${at}`))
 }
 
-/**
- * Every folder of `CODE_AT`, or nothing.
- *
- * A DECLARED CODE FOLDER THAT IS NOT THERE IS A FAULT IN `CODE_AT`, NEVER A REPO WITHOUT IT.
- * Dropped instead, the ground is built from whichever of them happen to stand, and it is then
- * stable while the code it left out changes — so an edit to the answering code does not move the
- * key and the cache hands back what an older version of that code worked out. That is what a
- * rename here costs, and nothing else catches it. Refusing the ground costs a recomputation.
- */
 function codeIn(root: string): readonly string[] | null {
   const named = [...new Set(CODE_AT)].sort()
   return named.every((at) => existsSync(`${root}/${at}`)) ? named : null
@@ -115,18 +73,6 @@ function recordedFor(root: string, named: readonly string[]): readonly string[] 
   return oids.length === named.length ? oids : null
 }
 
-/**
- * The pathspec the untracked check runs over: what an untracked file would have to BE to move an
- * answer, rather than only where it would have to stand.
- *
- * AN UNTRACKED FILE THAT IS NOT AN INPUT MOVES NO ANSWER, and refusing the ground over one costs a
- * recomputation of every page type in the repository. Asked over the FOLDERS this refused on 68
- * files no answer reads — emitted `.d.ts` declarations, which no runtime loads, and a `.staged`
- * leftover matching no page glob — and the cache stood off for fifteen hours on them.
- *
- * A PAGE THAT IS REALLY THERE STILL REFUSES THE GROUND. An untracked page is an input the HEAD tree
- * oids cannot see, so the globs stay, and a case for each kind of page holds that.
- */
 function looseIn(root: string, code: readonly string[]): readonly string[] {
   const globs = [...new Set(INPUT_GLOBS)].sort().filter((one) => existsSync(`${root}/${folderIn(one)}`))
   return [...globs.map((one) => `:(glob)${one}`), ...code, NOT_LOADED]

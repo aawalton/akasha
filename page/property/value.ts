@@ -113,13 +113,6 @@ const WRAPPED: readonly (readonly [RegExp, (of: Rule, max: number) => Rule])[] =
   [SELECT_OF, (of) => selectRule(of)],
 ]
 
-/**
- * Whether text is JSON a reader can parse back.
- *
- * `JSON.parse` is the only answer to this that cannot drift from what a reader does, because a
- * reader makes exactly this call. A regular expression over the text would be a second grammar
- * for one language, and the two would part on the first value neither author thought of.
- */
 function parsesAsJson(text: string): boolean {
   try {
     JSON.parse(text)
@@ -129,20 +122,6 @@ function parsesAsJson(text: string): boolean {
   }
 }
 
-/**
- * One line of JSON text, which is the whole of what `json` declares its values to be.
- *
- * A TYPE THAT ADMITS ANYTHING IS WORSE THAN A TYPE WITH NO RULE, because it turns "nothing judged
- * this" into "this was judged and it held", and only the second reads as a pass. So this refuses
- * everything the declaration excludes and nothing it allows: the value stands as one scalar rather
- * than a YAML map or list, its text parses, and it stays on one line. What shape stands inside the
- * JSON is free — that freedom is what the type is for — so the rule bounds the carrier alone.
- *
- * THE ONE LINE IS LOAD-BEARING RATHER THAN TIDINESS. `json` is the type a structured value takes
- * to cross into frontmatter, where a search finds a page by the text of the line its key stands
- * on, and a sidecar row carries the value as the text it was written as. The same value broken
- * over several lines is found differently and carried differently from the same value on one.
- */
 const oneLineOfJson: Rule = scalarRule(
   "one line of JSON text",
   (text) => !text.includes("\n") && parsesAsJson(text)
@@ -178,10 +157,6 @@ export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
   ["relation-seq", scalarRule("the seq of the page it points at", (text) => SEQ.test(text))],
   [RELATION_SLUG, relationSlugRule(null)],
   [RELATION_ADDRESS, scalarRule(ADDRESS_SAYS, (text) => addressParts(text) !== null)],
-  // A NAME IS BOUNDED BY BEING ONE VALUE AND NOT EMPTY, AND BY NOTHING FURTHER. A rule is handed
-  // the value alone and never the corpus, so whether a name reaches a page is not a question it
-  // can answer; what it can answer is that a map, a list and a blank are none of them a name.
-  // Saying that much is what separates a key nothing looked at from one that was looked at.
   ["relation-name", scalarRule("the name of the page it points at", (text) => text !== "")],
   ["boolean", scalarRule("`true` or `false`", (text) => text === "true" || text === "false")],
   ["number", scalarRule("a number", (text) => COUNT.test(text))],
@@ -270,11 +245,6 @@ function armRule(
   const fields = records === null ? undefined : records.get(one)
   if (fields !== undefined) {
     if (seen.has(one)) return { rule: null, why: `\`${one}\` is built from itself` }
-    // A FIELD'S TYPE IS A WHOLE TYPE, SO IT IS SPLIT INTO ARMS LIKE ANY OTHER. This called
-    // `armRule`, which reads one arm, so a field stating `text | list(text)` was looked up as a
-    // single name, found nowhere, and reported as a type nothing states a rule for — taking the
-    // whole record down with it, and every property typed against that record. `armsRule` is
-    // what a property's own `type:` goes through, and a field states its type the same way.
     return recordRule(one, fields, (field) => {
       const { rule, why } = armsRule(field.type, vocabulary, new Set([...seen, one]))
       if (rule === null) return { rule: null, why }
@@ -292,22 +262,10 @@ function armRule(
   }
   const rule = RULES.get(one)
   if (rule !== undefined) return { rule, why: null }
-  // A NAME THIS REACHES THE END WITH IS TWO DIFFERENT ANSWERS. Where `records` and `sets` are null
-  // nothing above ever looked, so saying the vocabulary states no rule for it reports a lookup that
-  // never happened — which is how a vocabulary armed as nothing stayed invisible. Hand back what
-  // stopped the read, and leave the flat claim to a vocabulary that was read.
   if (records === null || sets === null) return { rule: null, why: vocabulary.why }
   return { rule: null, why: `\`${one}\` is a type this states no rule for` }
 }
 
-/**
- * The rule for a whole stated type, every arm of a `|` union included.
- *
- * WHEREVER A TYPE IS STATED, IT IS READ THROUGH HERE. A property states one, and so does a record
- * field and a named set's `of:`; reading the second and third through `armRule` alone made a
- * union unreadable in exactly the places a caller could not see it, and the reason handed back
- * named the whole union as a type nothing states a rule for.
- */
 function armsRule(
   type: string,
   vocabulary: Vocabulary,

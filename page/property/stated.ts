@@ -5,16 +5,6 @@ export interface NamedSet {
   readonly stated: Stated
 }
 
-/**
- * The type names a tree states, and what each name is built from.
- *
- * NAMES, RECORDS AND SETS STAND OR GO NULL TOGETHER: all three hold where the vocabulary was read,
- * and all three are null where it could not be, with `why` saying what stopped it. None of them is
- * optional, so a caller cannot reach past a vocabulary nothing read with `?.` and take the
- * `undefined` for an answer — an absent map and a slug the map does not hold gave back the same
- * `undefined`, and a key typed against a record or a set was then reported as a type nothing states
- * a rule for, which is a claim about a lookup that never happened.
- */
 export interface Vocabulary {
   readonly names: ReadonlySet<string> | null
   readonly records: ReadonlyMap<string, readonly RecordField[]> | null
@@ -57,14 +47,6 @@ export const wrongShape = (value: Held): Fault => ({ fault: "held", measured: he
 
 export const within = (measured: string): Fault => ({ fault: "held", measured, inside: true })
 
-/**
- * A rule over one scalar: the text is trimmed for the test and reported as it stands.
- *
- * WHAT A WRONG SHAPE IS HAS ONE SPELLING, AND IT SITS WITH `Rule` RATHER THAN WITH THE TABLE OF
- * RULES. A file stating a rule of its own needs these constructors and not the table, so keeping
- * them beside `RULES` leaves every such file either importing the table's whole file or carrying
- * a copy of its own.
- */
 export function scalarRule(says: string, holds: (text: string) => boolean): Rule {
   return {
     says,

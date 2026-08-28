@@ -40,19 +40,6 @@ function heldAt(path: string, mark: string): { readonly data: unknown } | null {
   return { data: held.data }
 }
 
-/**
- * The answer held against this mark, made and kept where nothing holds one yet.
- *
- * `keep` RULES ON AN ANSWER AT BOTH ENDS: one it turns down is neither stored nor served, and the
- * caller gets a freshly made answer either way. A caller passes it where some answer its `make`
- * could return says more about the run than about the tree — an empty one, where whatever `make`
- * reads from went unread. Storing that under a real repository's mark hands every later run the
- * emptiness with nothing saying so, and no gate standing on it can refuse anything.
- *
- * TURNING ONE DOWN COSTS A RECOMPUTATION AND NOTHING ELSE, which is what makes this safe to apply
- * where an empty answer might yet be legitimate: the answer handed back is the one `make` produced,
- * so the worst a wrong `keep` does is decline to cache a tree that had nothing to say.
- */
 export function answeredWhole<T, D>(
   root: string,
   mark: string,

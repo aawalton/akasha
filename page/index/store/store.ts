@@ -47,18 +47,6 @@ const RELATIONS = "relations.json"
 
 export type BuiltFrom = Readonly<Record<string, string>>
 
-/**
- * Every directory a file's going has emptied, taken away, up to `root`.
- *
- * IT CLIMBS RATHER THAN TAKING ONE LEVEL. A relation tree for a file target nests as deep as
- * ten segments, so taking away only the directory the file sat in leaves every parent above it
- * standing empty for good. Nothing showed that while a rebuild removed the whole root each
- * time: the leak was swept up before anyone could count it.
- *
- * `rmdirSync` takes away an empty directory and nothing else, so a directory another target
- * still has a file in raises ENOTEMPTY, and one already gone raises ENOENT. Both say there is
- * nothing more to take away here, which is why neither is reported and why the climb stops.
- */
 function pruneUpTo(dir: string, root: string): void {
   let at = dir
   while (at.startsWith(`${root}/`)) {
@@ -71,14 +59,6 @@ function pruneUpTo(dir: string, root: string): void {
   }
 }
 
-/**
- * A file's body, or null where nothing stands there.
- *
- * THE READ SETTLES IT RATHER THAN AN `existsSync` BEFORE IT. Asking whether a file is there
- * and then reading it are two calls, and a write that takes it away in between raises ENOENT
- * out of a reader that had just been told it existed. Every index reader runs unlocked while
- * writers remove files, so that gap is reachable whenever a page stops being reached at all.
- */
 function bodyOrGone(at: string): string | null {
   try {
     return readFileSync(at, "utf8")
@@ -105,15 +85,6 @@ export function keepAt(relation: string, target: string, sources: readonly Sourc
   writeWhole(at, bodyOf(sources))
 }
 
-/**
- * One relation file read, changed and written back.
- *
- * NO LOCK OF ITS OWN. Reading with `sourcesAt` and writing with `keepAt` is a read-modify-write,
- * and it carried a lock on the file's directory back when nothing above it did. `underIndexLock`
- * now covers the whole index for the whole of a landing and the whole of a rebuild's write, and
- * every caller of this stands inside one. A second lock underneath would cost a directory made
- * and taken away for every relation file a landing touches, and guard nothing not guarded above.
- */
 export function updateAt(
   relation: string,
   target: string,
@@ -138,14 +109,6 @@ export function keepNamedIn(file: string, held: readonly Named[]): void {
   writeWhole(file, namedBodyOf(sorted))
 }
 
-/**
- * One identity file read, changed and written back, inside `underIndexLock` as `updateAt` is
- * and for the same reason.
- *
- * A `change` ANSWERING NULL LEAVES THE FILE WHERE IT IS. Most landings re-state handles the file
- * already holds, and rewriting every one of those would be a write per landed page for no
- * difference in what the file says.
- */
 export function updateNamedIn(
   file: string,
   change: (held: readonly Named[]) => readonly Named[] | null
@@ -219,18 +182,6 @@ export function indexReaches(repo: string, root: string): boolean {
   return canonicalize(rootBeside(repo)) === canonicalize(root)
 }
 
-/**
- * Whether the index's rows for one repository still describe the tree standing there.
- *
- * THE ANSWER IS HELD FOR THE LIFE OF THE PROCESS. `markFor` walks the whole repository through
- * git and costs on the order of a tenth of a second, and a read path asks this once per build
- * context, so a repeated answer would be paid for many times over in one command. The tree does
- * not move under a running command; where a command writes the index itself, `keepBuiltFrom`
- * drops what is held.
- *
- * A repository the index was never built over reads as NOT fresh, which is the same answer a
- * drifted one gets and wants the same treatment: read the tree instead of the rows.
- */
 export function indexFreshFor(repo: string, root: string): boolean {
   const at = `${repo}\n${root}`
   const had = fresh.get(at)
@@ -268,28 +219,6 @@ export function rowsStamp(): string {
   return `${at}:${stampOf(at)}`
 }
 
-/**
- * One critical section over the whole index.
- *
- * IT COVERS THE READ AS WELL AS THE WRITE. A landing reads every row with `loadPages`, works
- * out what it changes, and writes every row back with `keepPages`. Two landings running that
- * at once each write back the rows they read before the other's page was among them, so one
- * page's row goes with nothing saying so. That is not a theory: a subagent page landed at
- * 19:32:03 on 2026-08-27 and its row was still missing seventeen minutes later, with the
- * nearest rebuild twenty-two minutes before it — no rebuild was anywhere near.
- *
- * THE LOCK STANDS BESIDE THE INDEX ROOT RATHER THAN INSIDE IT, so that nothing rewriting the
- * tree under that root can take away a lock whose holder is still running.
- */
-/**
- * How long a landing waits for the index before it refuses.
- *
- * SHORTER THAN THE TIGHTEST DEADLINE OVER A LANDING. `settings/agents.json` kills the errand
- * hook at ten seconds and the subagent hooks at fifteen, and a landing runs inside those. A
- * budget longer than they are would be spent being killed rather than refusing, and the
- * refusal is the whole point. Measured worst case for one hold is a quarter of a second, so
- * eight seconds is about thirty holds deep — far past anything observed.
- */
 const INDEX_WAIT_MS = 8_000
 
 export function underIndexLock<T>(act: () => T): T {
@@ -317,14 +246,6 @@ function filesUnder(root: string): readonly string[] {
   return found
 }
 
-/**
- * One subtree of the index brought to exactly the files named, and no others.
- *
- * ONLY WHAT DIFFERS IS WRITTEN. A rebuild used to take the whole index away and lay it down
- * again — around ten thousand files, and about two seconds in which the index did not exist at
- * all. Almost none of those files differ from one rebuild to the next, so reading them to find
- * out costs a fraction of writing them all, and at no instant is the index missing.
- */
 function settleUnder(root: string, want: ReadonlyMap<string, string>): void {
   const emptied = new Set<string>()
   for (const at of filesUnder(root)) {
@@ -340,15 +261,6 @@ function settleUnder(root: string, want: ReadonlyMap<string, string>): void {
   for (const dir of emptied) pruneUpTo(dir, root)
 }
 
-/**
- * The bodies a settle will write, composed before the lock is taken.
- *
- * COMPOSED OUTSIDE THE LOCK BECAUSE NONE OF IT READS THE INDEX. Turning 124,782 relation
- * entries and 179,349 identity handles into 42MB of text is two thirds of what a rebuild
- * used to hold the lock for, and holding it across that made every landing in flight wait
- * on work whose answer does not depend on what the index holds. What the lock is for is the
- * read of the files and the write over them, which is what `settleUnder` is left with.
- */
 export function relationBodies(
   want: ReadonlyMap<string, readonly Source[]>
 ): ReadonlyMap<string, string> {
@@ -388,11 +300,6 @@ export function keepPages(stated: Iterable<Stated>): void {
   heldPages = { at, stamp: stampOf(at), pages: held }
 }
 
-/**
- * THE PATH IS PART OF WHAT THE ROWS ARE HELD AGAINST, not the stamp alone. `indexRoot` follows
- * `AKASHA_ROOT`, so one process reads one index and then another, and a modification time and a
- * size are something two different files can carry alike.
- */
 export function loadPages(): readonly Stated[] {
   const at = pagesAt()
   const stamp = stampOf(at)
