@@ -13,6 +13,7 @@ export const CODE_DIRS: readonly string[] = [
   "during-call",
   "exclusive",
   "page",
+  "pages-system/page-type",
   "repo",
   "write-whole",
 ]
