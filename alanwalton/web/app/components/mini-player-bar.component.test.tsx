@@ -6,7 +6,7 @@ import { createRoutesStub, Outlet, useLocation } from "react-router"
 import { MiniPlayerBar } from "./mini-player-bar"
 
 const mockSetProperty = mock((_args: unknown) => {})
-mock.module("../../../../shared/pages/ui/src/supabase/use-set-property-optimistic", () => ({
+mock.module("../../../../shared/pages-ui/src/supabase/use-set-property-optimistic.tsx", () => ({
   useSetPropertyOptimistic: () => mockSetProperty,
 }))
 

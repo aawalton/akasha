@@ -5,7 +5,7 @@ import { waitFor } from "@testing-library/react"
 import { createRoutesStub } from "react-router"
 
 const mockSetProperty = mock((_args: unknown) => {})
-mock.module("../../../../shared/pages/ui/src/supabase/use-set-property-optimistic", () => ({
+mock.module("../../../../shared/pages-ui/src/supabase/use-set-property-optimistic.tsx", () => ({
   useSetPropertyOptimistic: () => mockSetProperty,
 }))
 
