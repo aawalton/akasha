@@ -7,4 +7,4 @@ domain-parent-slug: domain/akasha-system
 
 # Definition
 
-- **Akasha text** — the prose an agent reads.
+- **Akasha text** — the text an agent reads.
