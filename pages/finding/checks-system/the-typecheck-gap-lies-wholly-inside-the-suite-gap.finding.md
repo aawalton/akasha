@@ -45,3 +45,5 @@ VERIFIED: 774 entries, every one tracked, none under `tools/`, none matching the
 WHY THEY ARE UNCLAIMED. `typecheck/program.ts:237-241`: where a file's owning project does not name
 it, `rootsFor` returns an empty root set, so no program is built and the check passes.
 `typecheck.check.md:23` states the opposite as Design. Found by astra.
+
+Read 2026-08-28. A corpus count is a reading: 2,415 was 2,423 hours later.
