@@ -101,22 +101,23 @@ async function reaching<T>(fileId: string, act: () => Promise<T>): Promise<T> {
 export default async function driveFetch(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const drive = await import("@alanwalton/drive-google")
-  const fileId = drive.parseDriveFileId(parsed.requireString("--source"))
+  const files = await import("@alanwalton/drive-google/files")
+  const fileId = files.parseDriveFileId(parsed.requireString("--source"))
 
   const outRaw = parsed.string("--out")
   const outDir = outRaw === undefined ? process.cwd() : resolve(outRaw)
 
-  const client = await drive.makeDriveClient()
-  const metadata = await reaching(fileId, () => drive.fetchFileMetadata(client, fileId))
+  const { makeDriveClient } = await import("@alanwalton/drive-google/client")
+  const client = await makeDriveClient()
+  const metadata = await reaching(fileId, () => files.fetchFileMetadata(client, fileId))
 
-  if (drive.isNativeGoogleDoc(metadata.mimeType))
+  if (files.isNativeGoogleDoc(metadata.mimeType))
     throw inputError(
       `"${metadata.name}" is a native Google ${metadata.mimeType ?? "app"} file with no binary ` +
         "bytes to download — export is out of scope for this read-only fetcher"
     )
 
-  const bytes = await reaching(fileId, () => drive.downloadFileBytes(client, fileId))
+  const bytes = await reaching(fileId, () => files.downloadFileBytes(client, fileId))
 
   const safeName = basename(metadata.name).trim()
   if (safeName === "" || safeName === "." || safeName === "..")
