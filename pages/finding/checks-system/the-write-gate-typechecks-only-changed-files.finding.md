@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "The write gate typechecks only changed files"
-domain-slug: checks-system
+domain-slug: domain/checks-system
 ---
 
 # Claim

@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "The write gate runs no test"
-domain-slug: checks-system
+domain-slug: domain/checks-system
 ---
 
 # Claim

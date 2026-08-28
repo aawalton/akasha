@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "Rebuild holds spend the landing budget"
-domain-slug: pages-index
+domain-slug: domain/pages-index
 ---
 
 # Claim

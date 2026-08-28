@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "Delegate read records are deleted each turn"
-domain-slug: read-record
+domain-slug: domain/read-record
 ---
 
 # Claim

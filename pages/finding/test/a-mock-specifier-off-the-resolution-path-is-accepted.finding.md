@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "A mock specifier off the resolution path is accepted"
-domain-slug: test
+domain-slug: domain/test
 ---
 
 # Claim

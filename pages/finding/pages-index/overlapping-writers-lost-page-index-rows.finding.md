@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "Overlapping writers lost page index rows"
-domain-slug: pages-index
+domain-slug: domain/pages-index
 ---
 
 # Claim
