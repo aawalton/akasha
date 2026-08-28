@@ -1,7 +1,5 @@
 import * as z from "zod"
 
-export const BUILTIN_DISPLAY_KINDS = ["default", "reader", "collection"] as const
-
 const displayKindSchema = z.string().regex(/^[a-z][a-z0-9-]*$/)
 
 const frameConfigSchema = z.object({

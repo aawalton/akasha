@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { BUILTIN_DISPLAY_KINDS, detailConfigSchema, resolveDisplayKind } from "./detail-config"
+import { detailConfigSchema, resolveDisplayKind } from "./detail-config"
 
 describe("detailConfigSchema", () => {
   test("parses a full reader config", () => {
@@ -99,10 +99,6 @@ describe("detailConfigSchema", () => {
     expect(
       detailConfigSchema.safeParse({ frame: { autoScroll: { loadScroll: "middle" } } }).success
     ).toBe(false)
-  })
-
-  test("exposes the built-in display kinds", () => {
-    expect(BUILTIN_DISPLAY_KINDS).toEqual(["default", "reader", "collection"])
   })
 })
 
