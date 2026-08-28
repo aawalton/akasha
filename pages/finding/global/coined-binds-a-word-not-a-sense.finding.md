@@ -3,7 +3,7 @@ id: f5258a2b-e7d3-59f6-81bd-1c4840af902e
 slug: coined-binds-a-word-not-a-sense
 page-type-slug: finding
 title: "Coined binds a word not a sense"
-domain-slug: page-property-definition/domain-coined
+domain-slug: domain/global
 ---
 
 # Claim
