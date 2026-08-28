@@ -62,24 +62,18 @@ export type PageTypeRefused = Refused & {
   readonly keys: readonly string[]
 }
 
-class CheckedFormula {
-  readonly ok: true = true
-  readonly #tree: Expression
+declare const checkedFormula: unique symbol
+
+export type Checked = {
+  readonly ok: true
+  readonly tree: Expression
   readonly type: ValueType
   readonly reads: readonly string[]
-
-  constructor(tree: Expression, type: ValueType, reads: readonly string[]) {
-    this.#tree = tree
-    this.type = type
-    this.reads = reads
-  }
-
-  get tree(): Expression {
-    return this.#tree
-  }
+  readonly [checkedFormula]: true
 }
 
-export type Checked = CheckedFormula
+const checkedFormulaOf = (tree: Expression, type: ValueType, reads: readonly string[]): Checked =>
+  ({ ok: true, tree, type, reads }) as Checked
 
 export type CheckedPageType = {
   readonly ok: true
@@ -91,7 +85,7 @@ export const checkFormula = (text: string, shape: Shape): Checked | Refused => {
   if (!("node" in tree)) return tree
   const typed = checkTree(tree, shape, text)
   if (!typed.ok) return typed
-  return new CheckedFormula(tree, typed.type, typed.reads)
+  return checkedFormulaOf(tree, typed.type, typed.reads)
 }
 
 const refusePageType = (message: string, keys: readonly string[]): PageTypeRefused => ({
