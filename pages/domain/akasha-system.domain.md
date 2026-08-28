@@ -11,6 +11,7 @@ sequence-slugs:
   - domain/akasha-file
   - domain/akasha-page
   - domain/akasha-type
+  - domain/akasha-migration
 required-reading-slugs:
   - domain/akasha-code
   - domain/akasha-data
