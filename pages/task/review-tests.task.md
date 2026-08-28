@@ -15,7 +15,7 @@ required-reading-slugs:
 # Sequence
 
 1. **What is required for the subject, and what it is written against.**
-   - **Read** everything required for it, which `ops akasha required-reading --file-path <absolute path>` prints and `ops read` reads.
+   - **Read** everything required for it, which `ops domain required-reading --file-path <absolute path>` prints and `ops read` reads.
    - **Read** the code under test, and everything that would already catch the defects the file names — the baseline [Nothing Cheaper Catches It](../domain/test.domain.md#nothing-cheaper-catches-it) names.
 
 2. **Each line, bottom to top.**

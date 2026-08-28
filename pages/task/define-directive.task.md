@@ -16,7 +16,7 @@ required-reading-slugs:
 
 1. **The directive as it stands, read with everything above it.**
    - **Read** the whole document it sits on with `ops read --file-path <p> --full`. Without `--full` the command prints only what changed since this seat last read the file, which on a document it has never read leaves out most of it.
-   - **Read** every directive that is required for the same reader, which `ops akasha required-reading --file-path <p>` names. An aid blocking what a directive above already blocks spends the line and dilutes both.
+   - **Read** every directive that is required for the same reader, which `ops domain required-reading --file-path <p>` names. An aid blocking what a directive above already blocks spends the line and dilutes both.
    - **Keep** the act unless it states something false. What this task writes is the warrant and the two aids, and a run that rewrites the act as well has changed what the directive requires without anyone asking for that.
 
 2. **What obeying looks like, in your own words.**

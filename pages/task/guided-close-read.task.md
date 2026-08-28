@@ -15,7 +15,7 @@ required-reading-slugs:
 # Sequence
 
 1. **What is required for the subject.**
-   - **Read** every required document and every page type through `ops read`. `ops akasha required-reading --file-path <p>` names both.
+   - **Read** every required document and every page type through `ops read`. `ops domain required-reading --file-path <p>` names both.
 
 2. **The lines, counted.**
    - **List** every line, numbered from the bottom: the frontmatter as one line, each paragraph, each item of a list, and each heading with the section beneath it. The count is what tells him how far in he is, and a reading whose end he cannot see is one he leaves partway.
