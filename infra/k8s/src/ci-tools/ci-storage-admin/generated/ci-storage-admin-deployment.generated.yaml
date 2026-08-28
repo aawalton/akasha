@@ -1,0 +1,57 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app.kubernetes.io/component: gc
+    app.kubernetes.io/instance: infra
+    app.kubernetes.io/managed-by: deploy-script
+    app.kubernetes.io/name: ci-storage-admin
+    app.kubernetes.io/part-of: ci-tools
+  name: ci-storage-admin
+  namespace: ci
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/component: gc
+      app.kubernetes.io/instance: infra
+      app.kubernetes.io/name: ci-storage-admin
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/component: gc
+        app.kubernetes.io/instance: infra
+        app.kubernetes.io/name: ci-storage-admin
+    spec:
+      containers:
+        - command:
+            - sh
+            - -c
+            - apk add --no-cache git curl >/dev/null 2>&1 && sleep infinity
+          image: alpine:3.21
+          name: admin
+          resources:
+            limits:
+              memory: 256Mi
+            requests:
+              cpu: 10m
+              memory: 256Mi
+          volumeMounts:
+            - mountPath: /ci-storage
+              name: ci-storage
+            - mountPath: /opt/bin
+              name: scripts
+      nodeSelector:
+        alanwalton.com/workload-class.ci: "true"
+      restartPolicy: Always
+      volumes:
+        - hostPath:
+            path: /var/lib/ci-storage
+            type: DirectoryOrCreate
+          name: ci-storage
+        - configMap:
+            defaultMode: 493
+            name: ci-storage-scripts
+          name: scripts
