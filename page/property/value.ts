@@ -141,6 +141,7 @@ export function relationSlugRule(slugProperty: string | null): Rule {
 
 export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
   ["slug", scalarRule("a kebab-case slug", (text) => checkScalar(text, { type: "slug" }) === null)],
+  ["lower-kebab-case", scalarRule("a name in lower kebab case", (text) => checkScalar(text, { type: "slug" }) === null)],
   [
     "text",
     {

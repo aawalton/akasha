@@ -3,6 +3,7 @@ import type { DeclaredType, Value } from "../formula/formula.ts"
 const TEXTS: ReadonlySet<string> = new Set([
   "text",
   "slug",
+  "lower-kebab-case",
   "uuid",
   "path",
   "url",
