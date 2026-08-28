@@ -7,7 +7,8 @@ import { contextOver } from "../../cache/said/said.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
 import { installedInto, linkedInto } from "../../workspace-package/packages.ts"
 import { onDisk, trackedIn, treeOn } from "./tree.ts"
-import { runKept, type Subject } from "./kept.ts"
+import { forgetRetired, runKept, type Subject } from "./kept.ts"
+import { checksFound } from "../checks.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -85,6 +86,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       () => patch.repointedElsewhere
     )
     const answers = answersAt(patch.root)
+    forgetRetired(answers, checksFound(patch.root))
     const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const oids = oidsUnder(patch.root, null)
     const ctx = contextOver(patch.root, runtime, oids)

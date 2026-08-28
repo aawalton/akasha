@@ -5,7 +5,8 @@ import { oidsUnder } from "../../repo/oid/oid.ts"
 import { contextOver } from "../../cache/said/said.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
 import { onDisk } from "./tree.ts"
-import { runKept, type Subject } from "./kept.ts"
+import { forgetRetired, runKept, type Subject } from "./kept.ts"
+import { checksFound } from "../checks.ts"
 
 export function judgesAuthor(check: Check): boolean {
   return check.needsAuthor === true
@@ -37,6 +38,7 @@ function auditRun(checks: readonly Check[], root: string): readonly CheckRun[] {
     subjects.push({ at: path, oid })
   }
   const answers = answersAt(root)
+  forgetRetired(answers, checksFound(root))
   const runs = checks
     .filter((one) => !judgesAuthor(one))
     .map((check) => runKept(check, subjects, runtime, answers, tree, { act: null, trial: false, oids, ctx }))
