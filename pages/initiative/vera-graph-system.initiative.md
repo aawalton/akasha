@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- Nothing the graph has already worked out is worked out again.
 - No held answer outlives the shape it was written in.
 - Whoever asks the graph gets an answer, not pieces to put together.
 
@@ -19,15 +18,13 @@ One graph is left in akasha. The old engine is deleted rather than translated, a
 
 A type earns its place by answering a question something is asking now. Nothing is built for a case that is not here.
 
-The intents are listed in the order they close. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving.
-
-Holding an answer and dropping a stale one are two halves of one thing, so they stand next to each other.
-
 ## How the work is shaped
 
 What is left is one body of work rather than several, being all one index, and splitting it between seats yields half-indexes.
 
 ## What Alan settled on 2026-08-27
+
+Nothing the graph has already worked out is worked out again, by Alan's ruling on 2026-08-27. The index and the cache are not clearly defined yet, and settling what each is comes before tuning either.
 
 He approves each type individually. The `Alan Approves` rule on `domain/the-graph` stands as written: no type enters the graph before he has approved that type.
 
@@ -113,7 +110,7 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 `ops tests run tools` reports 16 failures and 2 errors, the same set before and after this initiative's landings.
 
-The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. Neither `tools/lib/graph/` nor `infra/cluster-checks/` is in the root tsconfig references, so no error in either reaches that number.
+The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. Neither `tools/lib/graph/` nor `infra/cluster-checks/` is in its references, so no error in either reaches that number.
 
 Every node in akasha was measured against disk on 2026-08-28: 89,439 `file` nodes and 3,395 `folder` nodes, with no key nothing is at, no wrong `file-extension`, no `page-type-slug` naming a page type that is not here or filed somewhere the file is not, and no `package` attribute disagreeing with the `package.json` beside it.
 
@@ -127,13 +124,15 @@ All four edge producers answer what reaches a node. `contains` cuts the last seg
 
 `graph/ask.ts` holds `HELD_ANSWERS`, which is what says a name is live. `sweep` reaches the marks under one name and nothing reached a name itself, so a name dropped from the code kept its answers forever; `forget` takes any name the list does not hold, and refuses to take anything when handed no names. The registered checks say the same for `outcome` and `keep`, against the whole registry rather than the set a run happens to use.
 
-An outcome's mark is taken over the check's own code, and `entryOf` named a layout gone since the checks folder took its domain's name. `closureOf` reached nothing, so every check's mark was a hash of the kind, the slug and the runtime alone. The 14 registered checks now reach closures of 9 to 69 files. No check is cacheable today, so nothing was served stale; the mark stood still under checks that had not yet asked it to hold anything.
+An outcome's mark is taken over the check's own code, and `entryOf` named a layout gone since the checks folder took its domain's name. `closureOf` reached nothing, so every check's mark was a hash of the kind, the slug and the runtime alone. The 14 registered checks now reach closures of 9 to 69 files. No check is cacheable today, so nothing was served stale.
 
-A cache read that cannot answer is a miss. Another run sweeping a stale mark takes a file away between the listing and the read, and a torn write leaves one that is not JSON; either threw where the caller could have worked the answer out.
+A cache read that cannot answer is a miss. Another run's sweep takes a file away between the listing and the read, and a torn write leaves one that is not JSON; either threw where the caller could have worked the answer out.
 
-A refusal is not kept against the context that got it. `into` is refused on a cold cache and the walk is what fills it, so keeping the refusal made every later ask in the run walk again for what the first walk had worked out: 100 asks cost 19.4s, and 37.7ms after.
+A refusal is not kept against the context that got it. The walk is what fills the cache `into` was refused for, so keeping the refusal made every later ask in the run walk again: 100 asks cost 19.4s, and 37.7ms after.
 
-What a run pays, measured 2026-08-28: 143ms for the path-to-oid map, 2ms for the marks, and 797ms for the first ask about a node over every kind, where the whole-repo maps are built from the answers already held. Every ask after is under half a millisecond, and a landing that moves a producer's own code makes that first ask 1.7s, being the walk which refills what it dropped.
+What one ask costs, measured 2026-08-27: 143ms for the path-to-oid map, 2ms for the marks, and then 66ms with the answers on disk against 1.4s without, that second figure being the walk over all 11,225 TypeScript files. Every ask after the first is under half a millisecond.
+
+The held answers are demolished a few times an hour. `oidsUnder` is memoized for the life of a process, so a supervisor takes its marks over the repository as it stood when it booted and files under one hours old; `sweep` keeps the run's own mark and drops every other, so it and each fresh run erase each other. Two marks sit under `said/import/`: the 11,125 answers every current process computes, and 93 under one nothing computes any more.
 
 `vocabulary` and `rows-homes` are held under a mark taken over the page shape and `CODE_DIRS`, which does not name `tools/`, where `rows-homes` is worked out. `astra-page-index` holds that one.
 
