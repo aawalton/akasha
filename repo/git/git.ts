@@ -253,6 +253,37 @@ export type CommitResult =
   | { readonly ok: true; readonly sha: string | null; readonly nothing: readonly string[] }
   | { readonly ok: false; readonly reason: string; readonly nothing: readonly string[] }
 
+/**
+ * Which of `paths` this repository holds — standing in the worktree, held in the index, or at HEAD.
+ *
+ * A REMOVAL TAKES WHAT THE REPOSITORY HOLDS RATHER THAN WHAT THE WORKTREE SHOWS. A path deleted from
+ * the worktree and never committed is gone from disk while HEAD still carries it, and the commit
+ * taking it away is the only thing that lands that deletion. `existsSync` alone answers no there, so
+ * a guard asking it refuses the one write path over a change git expresses perfectly.
+ *
+ * A GIT CALL THAT FAILED LEAVES ITS PATHS OUT. `ls-tree HEAD` exits non-zero in a repository holding
+ * no commit, which is the true answer that HEAD carries nothing rather than a fault; and where it
+ * fails for any other reason, a guard that could not establish the repository holds a path must not
+ * report that it does. `unknownToGit` below runs the same two questions the other way up, and takes
+ * a failure the other way with it: it plans a commit rather than guarding one, so a path it cannot
+ * establish is left in for git itself to refuse, where dropping it would commit nothing and say the
+ * landing was done.
+ */
+export function heldByRepo(root: string, paths: readonly string[]): ReadonlySet<string> {
+  const held = new Set(paths.filter((one) => existsSync(join(root, one))))
+  const missing = paths.filter((one) => !held.has(one))
+  if (missing.length === 0) return held
+  for (const args of [
+    ["ls-files", "--cached", "-z"],
+    ["ls-tree", "-r", "--name-only", "-z", "HEAD"],
+  ]) {
+    const got = gitAskingPaths(root, args, missing)
+    if (got.code !== 0) continue
+    for (const name of got.stdout.split("\0")) if (name !== "") held.add(name)
+  }
+  return held
+}
+
 export function unknownToGit(root: string, paths: readonly string[]): readonly string[] {
   const missing = paths.filter((one) => !existsSync(join(root, one)))
   if (missing.length === 0) return []
