@@ -6,6 +6,7 @@ export const landing = {
   slug: "landing",
   definition: "the witness a write is refused without, and the door it opens",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "akasha-check",
     "akasha-type",

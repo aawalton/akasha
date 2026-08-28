@@ -66,7 +66,7 @@ function filesUnder(root: string): readonly string[] {
     }
   }
   walk(root)
-  return found
+  return found.sort()
 }
 
 function pageTypesAmong(paths: readonly string[]): ReadonlySet<string> {

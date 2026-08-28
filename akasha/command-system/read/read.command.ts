@@ -6,6 +6,7 @@ export const read = {
   slug: "read",
   definition: "a file and what is required for it, recorded, and on a re-read only what changed",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "corpus",
     "reading",

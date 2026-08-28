@@ -6,6 +6,7 @@ export const corpus = {
   slug: "corpus",
   definition: "the pages as they stand, addressed by slug and read as a tree",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "akasha-page-edge",
     "akasha-file",
@@ -21,6 +22,7 @@ export const corpus = {
     "A file is a page only where its suffix is a page type slug; a property's file carries a property slug there instead.",
     "A page loaded by the oid of its body cannot go stale, because a page rewritten in one process is a different specifier.",
     "A slug naming nothing is refused where it is resolved, never dropped.",
+    "Pages stand in path order, so a refusal naming two candidates words them the same way every run.",
     "Parenthood is one direction on disk and both in the index.",
   ],
 } as const satisfies Module

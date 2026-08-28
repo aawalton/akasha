@@ -6,6 +6,7 @@ export const requiredReading = {
   slug: "required-reading",
   definition: "what a page owes its reader before an act on it is allowed",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "corpus",
   ],

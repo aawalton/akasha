@@ -6,6 +6,7 @@ export const reading = {
   slug: "reading",
   definition: "what an agent has read, and the body it read",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "akasha-data",
     "akasha-text",

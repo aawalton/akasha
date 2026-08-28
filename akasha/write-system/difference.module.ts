@@ -6,4 +6,5 @@ export const difference = {
   slug: "difference",
   definition: "what moved between the body an agent read and the one that stands",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
