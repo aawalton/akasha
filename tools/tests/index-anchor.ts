@@ -6,8 +6,8 @@ import { keepPages } from "../../page/index/store/store.ts"
 
 export interface Anchor {
   readonly root: string
-  keep(rows: readonly Stated[]): void
-  discard(): void
+  keep: (rows: readonly Stated[]) => void
+  discard: () => void
 }
 
 export function anchorIndex(named: string): Anchor {
