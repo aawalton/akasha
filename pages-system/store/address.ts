@@ -36,13 +36,14 @@ export type Repo = {
 }
 
 /**
- * What is said of a string handed in where an address was wanted.
+ * What is said of a string handed to a repository where an address inside it was wanted.
  *
- * ONE SPELLING OF THIS REFUSAL. Every reader of an address refuses the same shape for the same
- * reason, and two wordings of it would read as two faults.
+ * ONE SPELLING OF THIS REFUSAL. A string that is no address at all and an address inside another
+ * repository are the same fault to the repository asked — it holds no page there — and two wordings
+ * of it would read as two.
  */
-export const NOT_AN_ADDRESS =
-  "names no page: an address is a repository, a colon, and a path inside it"
+export const notIn = (repo: string): string =>
+  `is no page of \`${repo}\`: an address is a repository, a colon, and a path inside it`
 
 /** The address of what stands at `path` inside the repository called `repo`. */
 export const addressIn = (repo: string, path: string): string => `${repo}${IN}${path}`
@@ -63,3 +64,14 @@ export const pathIn = (address: string): string | null => {
   const cut = address.indexOf(IN)
   return cut <= 0 || cut === address.length - 1 ? null : address.slice(cut + 1)
 }
+
+/**
+ * Where an address points inside one repository, or nothing where it points elsewhere or nowhere.
+ *
+ * AN ADDRESS IS READ BACK AGAINST THE REPOSITORY IT IS BEING READ IN. A reader holding several
+ * repositories holds one address type across all of them, and one taken against the wrong root
+ * would answer whatever happens to stand at that path there. Asking for the path and asking whether
+ * the address belongs here is one question, so it is answered once.
+ */
+export const pathOf = (repo: Repo, address: string): string | null =>
+  repoOf(address) === repo.repo ? pathIn(address) : null
