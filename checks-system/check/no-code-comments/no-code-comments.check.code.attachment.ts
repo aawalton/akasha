@@ -2,14 +2,13 @@ import { readFileSync } from "node:fs"
 import { relative, resolve } from "node:path"
 import { onceInCall } from "../../../during-call/during-call.ts"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
+import { isFixtureFile } from "../fixture-file.ts"
 import { type Comment, commentsIn, UnscannableFile } from "../../../tools/code-comment/comments.ts"
 import { classify, type Form, formsFrom } from "../../../tools/code-comment/forms.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import type { Check } from "../check-shape.ts"
 
 const FORMS_DOC = "pages/list/code-comment-forms.list.md"
-
-const UNDER_TEST = /(^|\/)__fixtures__(\/|$)/
 
 function formsUnder(root: string): readonly Form[] {
   return onceInCall(`no-code-comments:${root}`, () => formsFrom(readFileSync(resolve(root, FORMS_DOC), "utf8")))
@@ -21,7 +20,7 @@ export const noCodeComments = {
   cached: false,
   run: ({ root, path, body }) => {
     const at = relative(root, path)
-    if (UNDER_TEST.test(at)) return []
+    if (isFixtureFile(at)) return []
     const text = decodeUtf8(body)
     if (text === null) return []
     if (isGeneratedFile(at, text)) return []

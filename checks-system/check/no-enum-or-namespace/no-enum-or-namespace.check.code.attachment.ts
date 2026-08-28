@@ -1,11 +1,10 @@
 import { relative } from "node:path"
 import ts from "typescript"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
+import { isFixtureFile } from "../fixture-file.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesCode } from "../../imports/imports.ts"
 import type { Check } from "../check-shape.ts"
-
-const UNDER_TEST = /(^|\/)__fixtures__(\/|$)/
 
 const DECLARATION_ONLY = /\.d\.[cm]?ts$/
 
@@ -35,7 +34,7 @@ export const noEnumOrNamespace = {
     const at = relative(root, path)
     if (!carriesCode(at)) return []
     if (DECLARATION_ONLY.test(at)) return []
-    if (UNDER_TEST.test(at)) return []
+    if (isFixtureFile(at)) return []
     const text = decodeUtf8(body)
     if (text === null) return []
     if (isGeneratedFile(at, text)) return []
