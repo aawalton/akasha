@@ -8,6 +8,8 @@ import {
   patchRow,
   patchRows,
   removeRow,
+  rowAppender,
+  type RowAppender,
   whereRowsStand,
   writeRow,
   writeRows,
@@ -27,6 +29,21 @@ const FILES: Readonly<Record<string, string>> = {
     "target-slug: keeper-day",
     "rows: jsonl",
   ]),
+  "pages/page-type/keeper-note.page-type.md": page(["extends-slug: none"]),
+  "pages/page-property-definition/keeper-notes.page-property-definition.md": page([
+    "defined-on-slug: keeper",
+    "key: notes",
+    "type: pages",
+    "target-slug: keeper-note",
+    "rows: jsonl",
+    "uncommitted: true",
+    "append-only: true",
+  ]),
+  "pages/page-property-definition/keeper-note-at.page-property-definition.md": page([
+    "defined-on-slug: keeper-note",
+    "key: at",
+    "type: instant",
+  ]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-data-write-"))
@@ -37,7 +54,7 @@ for (const [relPath, text] of Object.entries(FILES)) {
 }
 mkdirSync(join(root, "pages/keeper"), { recursive: true })
 writeFileSync(join(root, "pages/keeper/ada.md"), page(["page-type-slug: keeper", "title: Ada"]))
-writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n*.lock/\n")
+writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n*.uncommitted.jsonl\n*.lock/\n")
 
 git(root, ["init", "--initial-branch", "main"])
 git(root, ["config", "user.email", "keeper@example.invalid"])
@@ -261,5 +278,45 @@ describe("many writers appending to one sidecar", () => {
     drainCommits()
     expect(commits()).toBe(was + 1)
     expect(rows().length).toBe(40)
+  })
+})
+
+const NOTES = "pages/keeper/ada.notes.uncommitted.jsonl"
+
+const notes = (): readonly Record<string, unknown>[] => {
+  if (!existsSync(join(root, NOTES))) return []
+  return readFileSync(join(root, NOTES), "utf8")
+    .split("\n")
+    .filter((one) => one.trim() !== "")
+    .map((one) => JSON.parse(one) as Record<string, unknown>)
+}
+
+const appenderOnAda = (): RowAppender => {
+  const made = rowAppender(ROOTS, "keeper-note", "ada", "notes")
+  if (made === null) throw new Error("no appender stands for `keeper-note` under `ada`")
+  return made
+}
+
+describe("an appender writing straight into an append-only sidecar", () => {
+  beforeEach(() => {
+    rmSync(join(root, NOTES), { recursive: true, force: true })
+  })
+
+  it("judges every row it is handed rather than only the first", () => {
+    const one = appenderOnAda()
+    one.append({ at: "2026-08-27T00:00:00.000Z" })
+    expect(one.refused()).toBeNull()
+    one.append({ at: "2026-08-27T00:00:01.000Z", mood: "a key this page type never declares" })
+    expect(one.refused()).not.toBeNull()
+    expect(notes().length).toBe(1)
+  })
+
+  it("names the file and the failure where an append cannot land, rather than swallowing it", () => {
+    mkdirSync(join(root, NOTES), { recursive: true })
+    const one = appenderOnAda()
+    one.append({ at: "2026-08-27T00:00:00.000Z" })
+    const said = one.refused() ?? ""
+    expect(said).toContain(NOTES)
+    expect(said).toContain("keeper-note")
   })
 })
