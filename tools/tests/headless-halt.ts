@@ -53,14 +53,6 @@ function seatsIn(home: string): string {
   return resolve(akashaIn(home), "agent", "seat")
 }
 
-/**
- * A home the guard can find a checkout under.
- *
- * THE `ops` NAME RESOLVES ITS DISPATCHER AT `$AKASHA_ROOT/tools/ops/cli.ts`, and this points
- * `AKASHA_ROOT` at a temp tree so the seat pages are the fixture's own. Plant that path and the
- * shim runs the stubbed `bun` this harness put on PATH; leave it out and `ops` refuses before the
- * decider is ever asked, which is what `withDispatcher: false` is for.
- */
 export function fakeHome(withDispatcher = true): string {
   const home = scratchTree("block-headless-halt-home-")
   if (withDispatcher) {
@@ -120,8 +112,6 @@ function recordMode(home: string, value: string): void {
     ["---", "page-type-slug: seat", `id: ${AGENT}`, `title: "${SEAT}"`, `start-mode: ${value}`, "---", ""].join("\n")
   )
 }
-
-export type { HookDecision, Recorded }
 
 export function decisionsIn(home: string): readonly HookDecision[] {
   return recordedIn(home).map((one) => one.values)

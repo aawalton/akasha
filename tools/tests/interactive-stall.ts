@@ -53,9 +53,6 @@ function seatsIn(home: string): string {
 export function fakeHome(mode: "interactive" | "headless" | null): string {
   const home = scratchTree("interactive-stall-home-")
   mkdirSync(seatsIn(home), { recursive: true })
-  // THE `ops` NAME RESOLVES ITS DISPATCHER AT `$AKASHA_ROOT/tools/ops/cli.ts`, which this points
-  // at the temp tree so the seat pages are the fixture's own. Without that path the shim refuses
-  // and the guard records `verb-unavailable` rather than asking the stubbed decider.
   mkdirSync(resolve(akashaIn(home), "tools", "ops"), { recursive: true })
   writeFileSync(resolve(akashaIn(home), "tools", "ops", "cli.ts"), "// stub\n")
   if (mode !== null)
@@ -105,8 +102,6 @@ export function runHook(
   })
   return { ...ran, home: options.home }
 }
-
-export type { HookDecision, Recorded }
 
 export function decisionsIn(home: string): readonly HookDecision[] {
   return recordedIn(home).map((one) => one.values)
