@@ -5,7 +5,8 @@ export const akashaImport = {
   pageTypeSlug: "domain",
   slug: "akasha-import",
   definition: "one file using what another declares",
-  condition: [
-    "An akasha file imports nothing outside the akasha folder.",
+  design: [
+    "What akasha needs from outside arrives as one value, including the name it was invoked by.",
   ],
+  condition: ["An akasha file imports nothing outside the akasha folder."],
 } as const satisfies Domain
