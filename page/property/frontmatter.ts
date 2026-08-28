@@ -9,7 +9,7 @@ import type { Property } from "./property.ts"
 import type { NamedSet, Vocabulary } from "./stated.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import { type FileTree } from "../file-tree.ts"
-import { registryOf } from "./registry.ts"
+import { indexStamp, registryOf } from "./registry.ts"
 import { AKASHA, REPOS } from "../../repo/roots/roots.ts"
 import { recordsFor } from "./record.ts"
 import type { RecordField } from "./stated.ts"
@@ -120,7 +120,8 @@ export function vocabularyFor(tree: FileTree): Vocabulary {
 }
 
 function heldVocabulary(tree: FileTree): Vocabulary {
-  const mark = shapeMarkOf(tree)
+  const shape = shapeMarkOf(tree)
+  const mark = shape === null ? null : `${shape}-${indexStamp()}`
   const root = tree.root
   const make = (): Vocabulary => vocabularyOf(registryOf(tree), tree)
   if (mark === null || root === undefined) return make()
@@ -137,10 +138,7 @@ function typeIndex(tree: FileTree): ReadonlyMap<string, string> {
   const standing = indexes.get(tree)
   if (standing !== undefined) return standing
   const bySlug = new Map<string, string>()
-  for (const relPath of tree.paths(globsIn(tree.roots, PAGE_TYPE_GLOBS))) {
-    const slug = stemOf(relPath)
-    if (!bySlug.has(slug)) bySlug.set(slug, relPath)
-  }
+  for (const one of registryOf(tree)) if (!bySlug.has(one.slug)) bySlug.set(one.slug, one.relPath)
   indexes.set(tree, bySlug)
   return bySlug
 }

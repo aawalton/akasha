@@ -23,7 +23,7 @@ export function registryOf(tree: FileTree): readonly PageType[] {
  * past the index moving under it. A page type may stand anywhere — `page-type` says its own page
  * lives where its domain lives — so there is no folder to watch in its place.
  */
-function indexStamp(): string {
+export function indexStamp(): string {
   const held = builtFrom()
   if (held === null) return "none"
   return createHash("sha256").update(JSON.stringify(held)).digest("hex").slice(0, 16)
@@ -53,28 +53,35 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
 }
 
 /**
- * Every page type this tree holds: what the index already carries, and what this write changes.
+ * Every page of these kinds this tree holds: what the index carries, and what this write changes.
  *
- * READ OFF THE INDEX RATHER THAN GLOBBED. The globs named `pages/page-type/` and nothing else, so
- * the eleven page types filed beside their own domains — the readout four, the graph seven — were
- * invisible, and every type extending one of them broke its chain and stopped being a domain kind.
+ * READ OFF THE INDEX RATHER THAN GLOBBED. The globs named `pages/page-type/` and
+ * `pages/page-property-definition/` and nothing else, so the eleven page types and the fifty-seven
+ * property definitions filed beside their own domains — the readout four, the graph seven — were
+ * invisible. A type extending one of them broke its chain, and a property declared beside one was
+ * answered as no property at all, which is a reader that could not reach the declaration saying
+ * the declaration is not there.
  *
  * THE PENDING PATHS ARE UNIONED IN, because the index answers for what has landed and a gate judges
- * what has not. A path this write takes away wants no subtracting: `statedOver` opens each one
+ * what has not. A path this write takes away wants no subtracting: the caller opens each one
  * against the proposed tree, which answers null for a page that is going.
  */
-function pageTypePaths(tree: FileTree): readonly string[] {
+export function indexedPaths(tree: FileTree, kinds: ReadonlySet<string>): readonly string[] {
   const found = new Set<string>()
   for (const one of loadPages()) {
-    if (!PAGE_TYPE_KINDS.has(one.type)) continue
+    if (!kinds.has(one.type)) continue
     if (tree.roots !== undefined && tree.roots[one.repo] === undefined) continue
     found.add(one.key)
   }
   for (const relPath of tree.pending ?? []) {
     const kind = pageTypeOf(relPath)
-    if (kind !== null && PAGE_TYPE_KINDS.has(kind)) found.add(relPath)
+    if (kind !== null && kinds.has(kind)) found.add(relPath)
   }
   return [...found].sort()
+}
+
+function pageTypePaths(tree: FileTree): readonly string[] {
+  return indexedPaths(tree, PAGE_TYPE_KINDS)
 }
 
 function statedRegistry(tree: FileTree): readonly StatedPageType[] {

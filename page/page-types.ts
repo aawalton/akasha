@@ -29,6 +29,11 @@ export const PROPERTY_GLOBS: readonly string[] = [
   placeOf("alan-harness-tracking-field"),
 ]
 
+/** The page kinds those globs name, taken off the globs so there is one list rather than two. */
+export const PROPERTY_KINDS: ReadonlySet<string> = new Set(
+  PROPERTY_GLOBS.map((one) => folderIn(one).split("/").pop() ?? "")
+)
+
 export const PAGE_GLOBS = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS, ...PROPERTY_GLOBS]
 
 export const PAGE_PROPERTY_TYPE_GLOB = placeOf("page-property-type")
