@@ -2,6 +2,7 @@ export const summary = "Stop then start the dev server for a seq+app pair"
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
+import { APP_NAMES } from "../../lib/dev-server-ops.ts"
 import devServerStart, { help as startHelp } from "./start.ts"
 import devServerStop from "./stop.ts"
 
@@ -19,7 +20,7 @@ export const help: CommandHelp = {
       argLabel: "<name>",
       valueShape: "token",
       required: true,
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     {
       name: "--port",
