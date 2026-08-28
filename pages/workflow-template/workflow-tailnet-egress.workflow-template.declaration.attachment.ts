@@ -21,7 +21,7 @@ export default workflow("tailnet-egress", {
     sopsDecryptApply({
       name: "tailnet-egress-apply-secret",
       namespace: "tailnet-egress",
-      secretFile: "infra/k8s/src/tailnet-egress/k8s/tailnet-egress-auth.sops.yaml",
+      secretFile: "infra/k8s/src/tailnet-egress/tailnet-egress-auth.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "tailnet-egress-apply-network-policy",
