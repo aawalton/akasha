@@ -15,8 +15,7 @@
  * are genuinely independent data sources.
  * `settleReads` settles each on its OWN success/failure so one flaky read can
  * never blank the healthy others; `applyToItems` renders each section from its
- * own `SectionResult`, with a per-section stale suffix. See
- * `docs/feature-status-bar.md` (Failure model).
+ * own `SectionResult`, with a per-section stale suffix.
  *
  * EVERY READ IS ITS OWN ENTRY. There was once a consolidated snapshot RPC behind
  * most of the bar, and a page query outage marking every count on it stale to say
@@ -122,10 +121,9 @@ function formatStaleSuffix(stale: boolean, lastFreshAt: number | undefined): str
 // The value names are omitted deliberately (#15811): the six values render in a
 // fixed order Alan has memorized, so labeling each is redundant ink — the tooltip
 // carries only the daily-varying answer the six colors cannot, *who to reach out
-// to next*. This is the **daily-values face carve-out** of the tooltip principle
-// (built from a read, not the slot label; see docs/feature-status-bar.md). A value
-// with no face today shows `—`, holding its slot so the faces stay aligned with
-// the glyphs.
+// to next*. This is the **daily-values face carve-out** of the tooltip principle:
+// built from a read, not the slot label. A value with no face today shows `—`,
+// holding its slot so the faces stay aligned with the glyphs.
 function faceTooltip(faces: readonly ValueFace[]): string {
 	return faces.map((f) => f.face ?? '—').join(' · ');
 }
@@ -157,8 +155,7 @@ export function applyToItems(
 	legends: StoplightLegends
 ): undefined {
 	// Tooltips are the slot's lowercase descriptive label plus the stale suffix —
-	// no value is appended (the value is the item's own text). See the tooltip
-	// principle in docs/feature-status-bar.md.
+	// no value is appended (the value is the item's own text).
 	for (let i = 0; i < SLOTS.length; i++) {
 		const slot = SLOTS[i];
 		const item = items[i];

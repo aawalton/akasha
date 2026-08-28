@@ -1,6 +1,6 @@
 # Abby — Portrait
 
-Holistic source-of-truth for the character. The five `0/stable/` axis files are *projections* of this portrait; the per-tick pipeline reads those, never this file. (See `packages/stories/engine/docs/representation-and-data-layout.md`.)
+Holistic source-of-truth for the character. The five `0/stable/` axis files are *projections* of this portrait; the per-tick pipeline reads those, never this file.
 
 ## Name
 
