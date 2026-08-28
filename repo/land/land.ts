@@ -252,9 +252,9 @@ export function landFiles(one: Landings): Landed {
   } catch (err) {
     if (!(err instanceof LandingRefused)) throw err
     throw new LandingRefused(
-      `${err.message}. ALREADY APPLIED AND UNCOMMITTED: ${[...wrote, ...gone].join(", ")} — ` +
-        "bodies land and removals unlink before anything commits, so this failure is not a " +
-        "no-op. Commit exactly these paths."
+      `${err.message}. ALREADY APPLIED AND UNCOMMITTED: ${named.join(", ")} — ` +
+        "bodies land, removals unlink and carries rename before anything commits, so this " +
+        "failure is not a no-op. Commit exactly these paths."
     )
   }
 
