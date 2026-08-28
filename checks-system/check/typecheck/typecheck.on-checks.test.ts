@@ -57,3 +57,62 @@ test("a type that does not hold is reported against the file carrying it", () =>
     expect(failures[0]?.reason).toContain("TS2322")
   })
 })
+
+test("a fault standing in a file that imports what is judged is left to whoever touches it", () => {
+  planted((at) => {
+    const given = batchOver(
+      at,
+      {
+        "held.ts": 'export const held = "held"\n',
+        "caller.ts": 'import { held } from "./held.ts"\nexport const seen = held\nexport const n: number = "no"\n',
+      },
+      ["held.ts"]
+    )
+    expect(run(given)).toEqual([])
+  })
+})
+
+test("a fault standing in a file that what is judged imports is left to whoever touches it", () => {
+  planted((at) => {
+    const given = batchOver(
+      at,
+      {
+        "held.ts": 'import { under } from "./under.ts"\nexport const held = under\n',
+        "under.ts": 'export const under = "under"\nexport const n: number = "no"\n',
+      },
+      ["held.ts"]
+    )
+    expect(run(given)).toEqual([])
+  })
+})
+
+test("a fault a file in a cycle with what is judged carries is reported", () => {
+  planted((at) => {
+    const given = batchOver(
+      at,
+      {
+        "held.ts": 'import { other } from "./other.ts"\nexport const held = "held"\nexport const seen = other\n',
+        "other.ts": 'import { held } from "./held.ts"\nexport const other = held\nexport const n: number = "no"\n',
+      },
+      ["held.ts"]
+    )
+    const failures = run(given)
+    expect(failures).toHaveLength(1)
+    expect(failures[0]?.path).toBe(resolve(at, "other.ts"))
+    expect(failures[0]?.reason).toContain("TS2322")
+  })
+})
+
+test("a file the judged file breaks goes unreported, the program holding only what the judged file reaches", () => {
+  planted((at) => {
+    const given = batchOver(
+      at,
+      {
+        "held.ts": 'export const held = "held"\n',
+        "caller.ts": 'import { held } from "./held.ts"\nexport const n: number = held\n',
+      },
+      ["held.ts"]
+    )
+    expect(run(given)).toEqual([])
+  })
+})
