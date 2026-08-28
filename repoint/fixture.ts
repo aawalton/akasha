@@ -8,8 +8,8 @@ const SCRATCH = "/var/tmp"
 
 export interface Fixture {
   readonly root: string
-  put(relPath: string, body: string): void
-  dispose(): void
+  put: (relPath: string, body: string) => void
+  dispose: () => void
 }
 
 function stage(root: string, relPath: string): void {
