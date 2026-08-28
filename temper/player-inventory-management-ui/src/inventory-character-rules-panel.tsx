@@ -1,6 +1,8 @@
 "use client"
 
-import { ButtonBadge, CardTitleBadges, PanelCard } from "@shared/design-system"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"

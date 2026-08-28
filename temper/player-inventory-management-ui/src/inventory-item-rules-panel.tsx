@@ -1,6 +1,8 @@
 "use client"
 
-import { Button, CardTitleBadges, PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import type { ItemRule } from "@temper/game-items-rules-core/inventory-rule-types"

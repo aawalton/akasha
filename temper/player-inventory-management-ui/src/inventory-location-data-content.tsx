@@ -2,7 +2,9 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { LayoutLink } from "@shared/design-layout/router-context"
-import { Button, ListContentSkeleton, PageTabHeader } from "@shared/design-system"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { Button } from "@shared/design-primitives/components/button"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"

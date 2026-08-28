@@ -1,6 +1,6 @@
 "use client"
 
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"
 import type { ReactNode } from "react"
 import { AffectedItemsViews } from "./affected-items-views"

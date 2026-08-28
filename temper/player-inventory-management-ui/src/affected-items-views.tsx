@@ -1,7 +1,9 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { ScrollArea, Text, useSurface } from "@shared/design-system"
+import { ScrollArea } from "@shared/design-primitives/components/scroll-area"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"

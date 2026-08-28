@@ -1,6 +1,12 @@
 "use client"
 
-import { Badge, ButtonBadge, DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger, InlineEditableText, NumberBadge, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Text } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Text } from "@shared/design-primitives/components/text"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import {
   goalIdToValue,

@@ -1,6 +1,6 @@
 "use client"
 
-import { Text } from "@shared/design-system"
+import { Text } from "@shared/design-primitives/components/text"
 import type { ReactNode } from "react"
 import { DEFAULT_PRICING_PLATFORM, DEFAULT_PRICING_SERVER } from "./pricing-region"
 

@@ -2,7 +2,10 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { ListContentSkeleton, PageTabHeader, PanelCard, ResponsiveColumns } from "@shared/design-system"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { TrendingUp } from "lucide-react"
 import { useMemo } from "react"

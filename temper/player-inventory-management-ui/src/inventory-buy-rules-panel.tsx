@@ -1,6 +1,7 @@
 "use client"
 
-import { Button, PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { MinedItemSearchResult } from "@temper/game-items-core/item-tooltip-types"
 import type { BuyRule } from "@temper/game-items-rules-core/buy-rule-types"

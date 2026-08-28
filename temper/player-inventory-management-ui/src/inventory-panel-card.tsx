@@ -1,7 +1,7 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
 import { buildNodePath } from "@shared/design-patterns/utils/path"

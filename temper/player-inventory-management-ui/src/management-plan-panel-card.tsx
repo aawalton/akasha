@@ -1,7 +1,10 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { Badge, CardTitleBadges, PanelCard, Text } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Text } from "@shared/design-primitives/components/text"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
 import { buildNodePath } from "@shared/design-patterns/utils/path"

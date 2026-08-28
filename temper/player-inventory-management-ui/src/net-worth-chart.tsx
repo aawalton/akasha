@@ -1,7 +1,7 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { useSurface } from "@shared/design-system"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import {
   Area,
