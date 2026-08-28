@@ -1,5 +1,6 @@
 import { describe, expect, it } from "bun:test"
-import { evaluateFormula, parseExpression } from "@shared/pages-core"
+import { evaluateFormula } from "@shared/pages-core/formula/evaluate"
+import { parseExpression } from "@shared/pages-core/formula/parser"
 import {
   type Case,
   type CodeErrorCode,

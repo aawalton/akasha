@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ReadonlyJSONValue } from "@shared/pages-core"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import { getEsoDayStr } from "@shared/recurrence/reset-times"
 import type { EvaluationContext } from "./types"
 import { resolveRecord, resolveValueExpr } from "./value-resolve"

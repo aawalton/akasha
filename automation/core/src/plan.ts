@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "@shared/pages-core"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import { assertNever } from "@shared/utils-narrow"
 import { isPatchNoop } from "./actions/page-equality"
 import { buildFormulaValues } from "./pure/build-formula-values"

@@ -1,9 +1,7 @@
-import {
-  evaluateFormula,
-  FormulaParseError,
-  parseExpression,
-  type ReadonlyJSONValue,
-} from "@shared/pages-core"
+import { evaluateFormula } from "@shared/pages-core/formula/evaluate"
+import { FormulaParseError } from "@shared/pages-core/formula/lexer"
+import { parseExpression } from "@shared/pages-core/formula/parser"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import type { EvaluationContext, ValueExpr } from "./types"
 
 export function resolveValueExpr(

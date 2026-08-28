@@ -1,4 +1,5 @@
-import type { PageWhere, ReadonlyJSONValue } from "@shared/pages-core"
+import type { PageWhere } from "@shared/pages-core/page-types"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 
 export type ValueExpr = ReadonlyJSONValue
 

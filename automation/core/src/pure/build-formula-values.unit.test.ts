@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ReadonlyJSONValue } from "@shared/pages-core"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import { buildFormulaValues } from "./build-formula-values"
 import type { EvaluationContext, RelationCache } from "./types"
 

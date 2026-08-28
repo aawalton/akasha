@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "@shared/pages-core"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import type { EvaluationContext, RelationCache } from "./types"
 
 export function buildFormulaValues(

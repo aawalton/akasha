@@ -1,4 +1,4 @@
-import type { ReadonlyJSONValue } from "@shared/pages-core"
+import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import { assertNever } from "@shared/utils-narrow"
 import type { EmittedEvent, Matcher, Trigger } from "./types"
 
