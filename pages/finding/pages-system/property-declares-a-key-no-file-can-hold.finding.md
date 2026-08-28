@@ -21,3 +21,13 @@ On the read side, `SETTLED_BY_ROW` in `packages/shared/pages/access/src/file-row
 The two sets disagree about spelling in a way worth noting beside this: the write seam kebabizes first, and `kebabizeKey("userId")` is `user-id`, yet `SETTLED_ELSEWHERE` is tested against the raw key before that conversion. So `userId` is dropped and `user-id` would not be.
 
 `temper-net-worth-snapshot` holds 3,246 rows, counted through the page query service. Its pages live in a `data: jsonl` sidecar under `temper-net-worth-day.snapshots` rather than in `.md` files, so nothing writes this key through the seam today and the fault is latent rather than bleeding.
+
+# Re-check
+
+Checked again 2026-08-27 at HEAD. The claim holds; two particulars of the evidence above do not, and are false rather than merely old.
+
+The spelling paragraph is repaired and no longer describes the code. `fileValuesOf` now asks `SETTLED_ELSEWHERE.has(camelizeKey(rawKey))`, the way the read seam has always asked it, so `userId` and `user-id` are dropped alike and a key the row settles cannot be made writable by respelling it. The seams live at `shared/pages-access/src/file-write-values.ts` and `shared/pages-access/src/file-rows.ts` since the consolidation, not under `packages/`.
+
+`SETTLED_BY_ROW` holds four keys, not the seven read here: `userId`, `pageTypeId`, `pageTypeSlug`, `seq`. `createdAt`, `updatedAt` and `deletedAt` do reach `attributes` now, so anyone acting on that sentence would be sent at a gap already shut.
+
+What stays open is the claim itself. `userId` still cannot be held on a file page — with the spellings unified it is dropped under both — so `pages/page-property-definition/temper-net-worth-snapshot-user-id.page-property-definition.md` still declares a `required: true` property no file can carry. The drop is deliberate and pinned by `shared/pages-access/src/file-write.unit.test.ts:75`, so the artifact at fault is the declaration rather than the seam. Removing it means deleting a page carrying a Definition line that readers inherit, which is Alan's to rule on.
