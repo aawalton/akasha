@@ -6,7 +6,7 @@ slug: writing
 domain-parent-slug: domain/craft-system
 sequence-slugs:
   - domain/writing-definitions
-  - domain/name-form
+  - domain/name-format
 settled: true
 ---
 

@@ -3,9 +3,9 @@ id: af8fc897-05b7-5183-88a4-c6200e14b03c
 page-type-slug: domain
 title: "Lower snake case"
 slug: lower-snake-case
-domain-parent-slug: domain/name-form
+domain-parent-slug: domain/name-format
 ---
 
 # Definition
 
-- **Lower snake case** — a name form joining words with underscores, all letters lower.
+- **Lower snake case** — a name format joining words with underscores, all letters lower.
