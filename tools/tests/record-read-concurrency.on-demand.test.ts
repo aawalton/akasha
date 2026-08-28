@@ -270,6 +270,40 @@ describe("a caller whose lock was taken leaves its successor alone", () => {
   })
 })
 
+describe("a mechanical landing carries a reading without dropping the one beside it", () => {
+  test("an entry landed while the carry waited on the lock is still there after", async () => {
+    const stem = `${at.home}/carried.subagent`
+    const page = `${stem}.md`
+    const record = `${stem}.readings.uncommitted.attachment.json`
+    const marker = `${at.home}/carry-order`
+    const alone = { "/f/a.md": { oid: "aaa", seenAt: 1000 } }
+    const beside = { ...alone, "/f/b.md": { oid: "bbb", seenAt: 2000 } }
+    writeFileSync(page, "---\nsubagent-id: carried\n---\n", "utf8")
+    writeFileSync(record, `${JSON.stringify(alone)}\n`, "utf8")
+    const script = scriptAt("carry.ts", CARRY_BODY)
+    const spawned: ReturnType<typeof Bun.spawn>[] = []
+    let reading = false
+    exclusively(record, () => {
+      spawned.push(
+        Bun.spawn({
+          cmd: [process.execPath, script, page, marker],
+          env: { ...process.env, HOME: at.home, AKASHA_ROOT: at.root, AGENT_ID: AGENT },
+          stdout: "pipe",
+          stderr: "pipe",
+        })
+      )
+      reading = waitWhileHolding(marker, 8_000)
+      pauseFor(500)
+      writeFileSync(record, `${JSON.stringify(beside)}\n`, "utf8")
+    })
+    expect(reading).toBe(true)
+    expect(await (spawned[0] as ReturnType<typeof Bun.spawn>).exited).toBe(0)
+    const after = JSON.parse(readFileSync(record, "utf8")) as Record<string, { mechanicalOid?: string }>
+    expect(after["/f/a.md"]?.mechanicalOid).toBe("bbb")
+    expect(Object.keys(after).sort()).toEqual(["/f/a.md", "/f/b.md"])
+  })
+})
+
 describe("the lock hands the act's outcome back either way", () => {
   test("a value", () => {
     expect(exclusively(`${at.home}/thing`, () => 41 + 1)).toBe(42)
