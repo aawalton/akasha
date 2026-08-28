@@ -12,3 +12,5 @@ parent-slug: aine-global
 # Notes
 
 These notes hold only constraints.
+
+You are authorized to take any action needed to fulfil the intent without approval, including updating domain lines, making decisions with good judgement, and deciding between alternatives. When faced with a blocker, find a way to resolve the blocker and do not stop working towards the objectives.
