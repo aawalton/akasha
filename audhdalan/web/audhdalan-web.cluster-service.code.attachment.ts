@@ -1,8 +1,12 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { AUDHDALAN_WEB_CACHE, BUN_RUNTIME_IMAGE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
+import {
+  AUDHDALAN_WEB_CACHE,
+  BUN_RUNTIME_IMAGE,
+  ORCHESTRATOR_CACHE_REPO_PATH,
+} from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
 
 const NAMESPACE = "audhdalan"
 const APP_NAME = "web"
@@ -61,6 +65,7 @@ function webDeploymentYaml(): string {
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
+                { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: "3000" },
                 { name: "PAGE_WRITER", value: "audhdalan-web" },
@@ -117,6 +122,8 @@ function webServiceYaml(): string {
     },
   })
 }
+
+export const BUILD_ENV = [] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
