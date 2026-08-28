@@ -68,7 +68,18 @@ export type Held = {
 }
 
 /**
- * Where a page type's pages stand as rows: which page types hold them, and under which key.
+ * Where each of the page types named has its pages standing as rows: which page types hold them,
+ * and under which key.
+ *
+ * THE WHOLE SET, ONE READ. Every property definition under the root is read once and each answer
+ * projected out of that one read. Asking one page type at a time reads all of them again for every
+ * one asked, which is most of what a pass over a family of page types costs.
+ *
+ * EVERY PAGE TYPE ASKED FOR IS ANSWERED, holding no holding where none stands. A page type whose
+ * pages are files is held by nothing, and that is a true empty rather than a failure, so it stands
+ * in the answer holding an empty list. This is the other way round from `declarationsFor`, where
+ * being absent is how a page type that does not stand is reported. Whether a page type stands is
+ * not asked here, as it is not in `pagesFor`, so a slug naming no page type is held by nothing.
  *
  * A PAGE TYPE MAY BE HELD IN MORE THAN ONE PLACE. Thirteen page types hold `reference` rows under
  * `references`, so this answers a list rather than one holding; a reader taking the first would
@@ -84,28 +95,56 @@ export type Held = {
  * and `seat-log-day` extends `log-day` and holds them too. Which page types stand beneath a holder
  * is read off `extendingIn`, and putting the two together is the caller's, as it is for everything
  * else here.
+ *
+ * WHAT IS ASKED FOR IS READ FOR EXACTLY ONCE. A generator satisfies `Iterable` and is spent after
+ * one pass, so walking it a second time would find nothing and answer every page type asked about
+ * as held by nothing — a silent empty answer where a refusal belongs. The slugs are collected
+ * before the read, and everything after it works from what was collected.
+ *
+ * NOTHING ASKED FOR IS NOT READ FOR. A call naming no page type answers nothing without reading,
+ * the walk and the read being the whole cost here and there being nothing to fill from them.
  */
-export const holdingsOf = (root: string, pageType: string): Held => {
+export const holdingsFor = (root: string, pageTypes: Iterable<string>): Map<string, Held> => {
+  const filling = new Map<string, { holdings: Holding[]; beyond: Record<string, string> }>()
+  for (const one of pageTypes) {
+    if (!filling.has(one)) filling.set(one, { holdings: [], beyond: {} })
+  }
+  const held = new Map<string, Held>()
+  if (filling.size === 0) return held
   const found = pagesUnder(root, new Set([PROPERTY]))
-  const holdings: Holding[] = []
-  const beyond: Record<string, string> = {}
   for (const one of found.get(PROPERTY) ?? []) {
     const stated = statedAt(root, one)
     if (typeof stated === "string") continue
     const rows = textIn(stated, ROWS)
-    if (rows === null || textIn(stated, TARGET) !== pageType) continue
+    if (rows === null) continue
+    const target = textIn(stated, TARGET)
+    const mine = target === null ? undefined : filling.get(target)
+    if (mine === undefined) continue
     const on = textIn(stated, DEFINED_ON)
     const key = textIn(stated, KEY)
     if (on === null || !on.startsWith(ON) || key === null) continue
     if (rows !== JSONL) {
-      beyond[textIn(stated, SLUG) ?? one] = rows
+      mine.beyond[textIn(stated, SLUG) ?? one] = rows
       continue
     }
-    holdings.push({ on: on.slice(ON.length), key })
+    mine.holdings.push({ on: on.slice(ON.length), key })
   }
-  holdings.sort((one, other) => one.on.localeCompare(other.on) || one.key.localeCompare(other.key))
-  return { holdings, beyond }
+  for (const [pageType, mine] of filling) {
+    mine.holdings.sort((one, other) => one.on.localeCompare(other.on) || one.key.localeCompare(other.key))
+    held.set(pageType, mine)
+  }
+  return held
 }
+
+/**
+ * Where a page type's pages stand as rows: which page types hold them, and under which key.
+ *
+ * ONE PAGE TYPE COSTS THE WHOLE READ, this being `holdingsFor` asked for one, so that what the
+ * singular answers cannot drift from what the plural answers. A caller wanting several asks the
+ * plural once rather than this once each.
+ */
+export const holdingsOf = (root: string, pageType: string): Held =>
+  holdingsFor(root, [pageType]).get(pageType) ?? { holdings: [], beyond: {} }
 
 /**
  * Where every page of each page type named stands, by page type, in whatever order they were found.
