@@ -27,17 +27,17 @@ export interface Fixture {
   readonly memory: string
   readonly akasha: string
   readonly home: string
-  put(relPath: string, body: string): void
-  putMemory(relPath: string, body: string): void
-  document(relPath: string, frontmatter: string, lines?: number): void
-  memoryDocument(relPath: string, frontmatter: string, lines?: number): void
-  installRecorder(agent?: string): void
-  forgetRecord(agent?: string): void
-  recordAt(agent?: string): string
-  plantReading(agent: string, absolute: string): void
-  readIt(agent: string, relPath: string): void
-  sweepOnDispose(path: string): void
-  dispose(): void
+  put: (relPath: string, body: string) => void
+  putMemory: (relPath: string, body: string) => void
+  document: (relPath: string, frontmatter: string, lines?: number) => void
+  memoryDocument: (relPath: string, frontmatter: string, lines?: number) => void
+  installRecorder: (agent?: string) => void
+  forgetRecord: (agent?: string) => void
+  recordAt: (agent?: string) => string
+  plantReading: (agent: string, absolute: string) => void
+  readIt: (agent: string, relPath: string) => void
+  sweepOnDispose: (path: string) => void
+  dispose: () => void
 }
 
 const LIVE = dirname(dirname(import.meta.dir))
