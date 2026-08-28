@@ -1,9 +1,16 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { pageRelIn, pageTypePathIn } from "../../page/page-types.ts"
+
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
 
 function rootOf(files: Readonly<Record<string, readonly string[]>>): string {
   const root = mkdtempSync("/var/tmp/page-file-suffixed-")
+  made.push(root)
   for (const [dir, names] of Object.entries(files)) {
     mkdirSync(`${root}/${dir}`, { recursive: true })
     for (const one of names) writeFileSync(`${root}/${dir}/${one}`, "---\n---\n", "utf8")

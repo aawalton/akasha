@@ -1,10 +1,17 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { pageFileIn } from "../../page/page-file.ts"
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function treeOf(names: readonly string[]): { root: string; dir: string } {
   const root = mkdtempSync(`${process.env.TMPDIR ?? "/var/tmp"}/page-file-named-`)
+  made.push(root)
   const dir = "pages/gadget"
   mkdirSync(`${root}/${dir}`, { recursive: true })
   for (const one of names) writeFileSync(`${root}/${dir}/${one}`, "---\n---\n", "utf8")
