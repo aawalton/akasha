@@ -1,6 +1,6 @@
-import { afterEach, describe, expect, test } from "bun:test"
+import { afterAll, afterEach, describe, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { chmodSync, mkdtempSync, writeFileSync } from "node:fs"
+import { chmodSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { handleCgi } from "./cgi"
@@ -38,9 +38,11 @@ async function settledSurvivors(
 
 let stubCounter = 0
 const cleanupMarkers: string[] = []
+const made: string[] = []
 
 function writeStub(body: string): { path: string; dir: string } {
   const dir = mkdtempSync(join(tmpdir(), "cgi-reap-"))
+  made.push(dir)
   const path = join(dir, `stub-${++stubCounter}.sh`)
   writeFileSync(path, body)
   chmodSync(path, 0o755)
@@ -55,6 +57,10 @@ afterEach(() => {
       execFileSync("pkill", ["-9", "-f", marker])
     } catch {}
   }
+})
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
 })
 
 describe("handleCgi git-http-backend reap", () => {
