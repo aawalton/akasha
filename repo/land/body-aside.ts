@@ -15,11 +15,6 @@ function bodyAside(body: string | Uint8Array): string {
   return at
 }
 
-// A SCRATCH BODY IS DEAD ONCE THE PATCH IS BUILT: patchText reads each one through
-// `git hash-object -w`, which leaves the bytes in the object store, and the landing writes from
-// memory rather than from here. They are taken away the moment the patch is in hand rather than
-// in a finally around the gate, because a refusing gate exits the process, and an exit runs no
-// finally.
 export function patchAside(
   bodied: readonly Bodied[],
   carried: readonly Landing[],

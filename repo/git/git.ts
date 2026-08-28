@@ -1,4 +1,3 @@
-
 import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
@@ -21,13 +20,6 @@ export interface GitBytes {
 
 export const NETWORK_CEILING_MS = 10_000
 
-/**
- * How much one `git` call may hand back.
- *
- * NODE CAPS THIS AT A MEGABYTE WHERE BUN DOES NOT, and `ls-files` over this repository is seven, so
- * a call left on node's default fails with ENOBUFS in the editor while reading green under bun. The
- * number is stated here so both runtimes are held to the same one.
- */
 const OUTPUT_CEILING = 256 * 1024 * 1024
 
 const EMPTY = new Uint8Array()
@@ -38,13 +30,6 @@ interface Ran {
   readonly stderr: Uint8Array
 }
 
-/**
- * One `git` call, run the same way under every runtime that loads this file.
- *
- * `node:child_process` RATHER THAN `Bun.spawnSync` BECAUSE THE EDITOR'S EXTENSION HOST IS NODE, and
- * every page read reaches git through here. Bun implements this module too, so this is one spawn
- * for both runtimes rather than one apiece.
- */
 function ran(
   root: string,
   args: readonly string[],
@@ -57,8 +42,6 @@ function ran(
     ...(taking.ceilingMs === undefined ? {} : { timeout: taking.ceilingMs }),
   })
   const stderr = done.stderr ?? EMPTY
-  // A call that never started, or that was killed on its ceiling, carries no status and says why in
-  // `error` alone. Without this the caller reports a bare exit -1 with nothing stating the reason.
   if (done.error !== undefined) {
     const why = new TextEncoder().encode(done.error.message)
     return { code: -1, stdout: done.stdout ?? EMPTY, stderr: stderr.length > 0 ? stderr : why }
@@ -70,12 +53,6 @@ function text(bytes: Uint8Array): string {
   return new TextDecoder().decode(bytes).trim()
 }
 
-/**
- * Hold this thread for `ms`, under every runtime.
- *
- * `Atomics.wait` on a buffer nothing else can reach, for the reason the spawn above moved: node has
- * no `Bun.sleepSync`, and this file is loaded in the extension host.
- */
 function sleepSync(ms: number): void {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
 }
@@ -235,15 +212,6 @@ export function gitAskingPaths(
   return { code: 0, stdout: said.join("\0"), stderr: "" }
 }
 
-/**
- * Which of `paths` this repository ignores, or null where git could not say.
- *
- * EXIT 1 IS THE ANSWER "NONE OF THEM"; ANY OTHER NON-ZERO IS A FAILURE, -1 among them, where the
- * call never started. Null keeps that apart from the empty set, which a caller reads as this
- * repository ignoring nothing here. `commitPaths` below narrows nothing on a null, as
- * `unknownToGit` does, git itself refusing a path it cannot take; `strayed` in `land.ts` refuses
- * on one, having no commit to hand the question to.
- */
 export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
   if (paths.length === 0) return new Set()
   const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
@@ -262,22 +230,6 @@ export type CommitResult =
   | { readonly ok: true; readonly sha: string | null; readonly nothing: readonly string[] }
   | { readonly ok: false; readonly reason: string; readonly nothing: readonly string[] }
 
-/**
- * Which of `paths` this repository holds — standing in the worktree, held in the index, or at HEAD.
- *
- * A REMOVAL TAKES WHAT THE REPOSITORY HOLDS RATHER THAN WHAT THE WORKTREE SHOWS. A path deleted from
- * the worktree and never committed is gone from disk while HEAD still carries it, and the commit
- * taking it away is the only thing that lands that deletion. `existsSync` alone answers no there, so
- * a guard asking it refuses the one write path over a change git expresses perfectly.
- *
- * A GIT CALL THAT FAILED LEAVES ITS PATHS OUT. `ls-tree HEAD` exits non-zero in a repository holding
- * no commit, which is the true answer that HEAD carries nothing rather than a fault; and where it
- * fails for any other reason, a guard that could not establish the repository holds a path must not
- * report that it does. `unknownToGit` below runs the same two questions the other way up, and takes
- * a failure the other way with it: it plans a commit rather than guarding one, so a path it cannot
- * establish is left in for git itself to refuse, where dropping it would commit nothing and say the
- * landing was done.
- */
 export function heldByRepo(root: string, paths: readonly string[]): ReadonlySet<string> {
   const held = new Set(paths.filter((one) => existsSync(join(root, one))))
   const missing = paths.filter((one) => !held.has(one))

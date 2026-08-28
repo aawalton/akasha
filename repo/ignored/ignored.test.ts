@@ -21,10 +21,6 @@ function scratchRepo(ignoring: string | null): string {
   return at
 }
 
-// A git call that could not answer, failed for a real reason rather than stubbed: `ls-files
-// --others --ignored` reads the index, and an index it cannot parse is a shape a damaged repository
-// takes. `rev-parse --git-dir` reads no index, so the checkout is still found — which is what tells
-// this apart from a directory standing in no repository at all.
 function loseIndex(root: string): void {
   writeFileSync(`${root}/.git/index`, "not an index\n")
 }
@@ -37,22 +33,16 @@ test("a repository that ignores one of them answers without it", () => {
   expect(notIgnored(scratchRepo("node_modules/\n"), PATHS)).toEqual(["kept.domain.md"])
 })
 
-// A TRUE EMPTY AND A FAILED CALL MUST NOT READ ALIKE. This repository ignores `node_modules`, so
-// the full list the old code handed back was a claim about its ignore rules that no call supported.
 test("a repository git could not be asked about answers null, not every path", () => {
   const at = scratchRepo("node_modules/\n")
   loseIndex(at)
   expect(notIgnored(at, PATHS)).toBe(null)
 })
 
-// A ROOT IN NO CHECKOUT GENUINELY IGNORES NOTHING, and refusing there would turn every scan of a
-// plain directory into a fault.
 test("a directory standing in no git checkout answers with every path", () => {
   expect(notIgnored(mkdtempSync(`${SCRATCH}/ignored-bare-`), PATHS)).toEqual(PATHS)
 })
 
-// A NON-ANSWER IS NEVER CACHED. The map holds for the life of the process, so a failure written
-// into it would go on answering later questions about this root with the whole list.
 test("a failure followed by a repair answers from the repair", () => {
   const at = scratchRepo("node_modules/\n")
   loseIndex(at)

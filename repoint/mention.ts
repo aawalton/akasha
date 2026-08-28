@@ -61,14 +61,6 @@ function prefixOf(paths: Iterable<string>): string {
   return made
 }
 
-/**
- * What a `~` or `$HOME` prefix stands for, refusing where nothing says.
- *
- * THIS READ `process.env.HOME ?? ""`. An unset `$HOME` expanded `~/repos/x/` to the bare
- * `/repos/x/`, which canonicalizes to some other root, so a mention standing under the target
- * root read as not rooted there and the repoint walked past it saying nothing. Only a prefix that
- * needs expanding reaches this, so nothing that would have been right is refused.
- */
 function homeOrRefuse(): string {
   const home = process.env.HOME
   if (home === undefined || home === "") {

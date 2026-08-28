@@ -2,12 +2,6 @@ import { afterEach, beforeEach, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { commitPaths, git } from "./git.ts"
 
-// A pathspec list reaches git through `argv`, and the kernel bounds how long
-// that can be. Renaming a page type of tens of thousands of files passes that
-// bound, and the spawn fails before git runs at all. What matters is that the
-// answer does not change with the count: one commit stays one commit, and a
-// question asked in batches is answered over all of them.
-
 const NAMED = 1400
 
 const AUTHOR = "Test <test@example.com>"

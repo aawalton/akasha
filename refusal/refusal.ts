@@ -1,4 +1,3 @@
-
 import { readFileSync } from "node:fs"
 import { HOLE } from "../page/document/holes.ts"
 import { pageRelIn, placeDirOf } from "../page/page-types.ts"
@@ -34,15 +33,6 @@ export function fill(body: string, values: Readonly<Record<string, string>>): st
   return text
 }
 
-/**
- * The words of one refusal, its holes filled.
- *
- * ONE STORE ANSWERS BOTH HALVES. Finding the file and reading it go to the same filesystem, so a
- * refusal that is on disk is never reported absent.
- *
- * THE ROOT DEFAULTS RATHER THAN BEING ASKED FOR: the corpus is this repository's own words, and a
- * fixture tree carrying its own corpus is what names itself instead.
- */
 export function refusalText(
   slug: string,
   values: Readonly<Record<string, string>>,

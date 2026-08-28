@@ -110,12 +110,6 @@ export function releasePushLock(root: string): void {
   }
 }
 
-/**
- * The first executable of this name on PATH, or nothing.
- *
- * `Bun.which`'s replacement, for the same reason the spawn below moved: node has no such call, and
- * this file is loaded in the editor's extension host, which is node.
- */
 function onPath(name: string): string | null {
   for (const dir of (process.env["PATH"] ?? "").split(":")) {
     if (dir === "") continue
@@ -129,14 +123,6 @@ function onPath(name: string): string | null {
   return null
 }
 
-/**
- * Where the pusher stands, worked out from the akasha root rather than from this file's own place.
- *
- * `import.meta.dir` IS BUN'S ALONE and reads `undefined` under node, where `resolve` then throws on
- * it while this module is still loading. A bundle has no better answer: this file is compiled into
- * the bundle and the pusher is a script that has to be read off disk beside the repository.
- * `akashaRoot` answers from `AKASHA_ROOT` or from the checkout, and both name the same path.
- */
 function pusherHere(): string {
   return join(akashaRoot(), "repo", "push", "push-repo.ts")
 }
@@ -158,10 +144,6 @@ export function handOffPush(root: string): string {
     session === null ? [pusher, "--root", root] : [runner, pusher, "--root", root]
   try {
     const proc = spawn(command, argv, { cwd: root, stdio: "ignore", detached: true })
-    // NODE REPORTS A COMMAND IT COULD NOT START ON AN `error` EVENT rather than by throwing, and
-    // an unheard `error` on a child takes the listening process down with it. This call has
-    // already handed back by then, so a failure past this point shows as the push state going
-    // unwritten, which the next gated write reports through `pushStandingLines`.
     proc.on("error", () => {})
     proc.unref()
   } catch (err) {
