@@ -99,6 +99,21 @@ describe("what a rehome refuses", () => {
     }
   })
 
+  test("a name that is not page-shaped is refused rather than given a doubled suffix", () => {
+    const at = fixture()
+    try {
+      storeAt(at)
+      const flat = "pages/finding/role/notes.md"
+      at.put(flat, finding("page-type/role", "It is not named as a page."))
+      const run = runCommand(at, ["--file-path", flat, "--domain", "page-type/finding"])
+      expect(run.code).toBe(1)
+      expect(run.err).toContain("not named as a page")
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
+    } finally {
+      at.dispose()
+    }
+  })
+
   test("a bare slug is refused rather than resolved, a key naming a page type as well", () => {
     const at = fixture()
     try {
@@ -146,7 +161,7 @@ describe("what a rehome refuses", () => {
       storeAt(at)
       const run = runCommand(at, ["--file-path", MOVING, "--domain", "page-type/finding"])
       expect(run.code).toBe(1)
-      expect(run.err).toContain("asks for no rehome")
+      expect(run.err).toContain("already stands under")
       expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()

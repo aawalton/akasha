@@ -14,6 +14,7 @@ import {
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { repoOf } from "../../lib/payload.ts"
+import { pageNameOf } from "../../../page/name/name.ts"
 import { type Roots } from "../../../page/page"
 import { AKASHA, resolveRoots, rootFor, targetRepo, targetRoot } from "../../../repo/roots/roots"
 import { landMoves } from "../../../move/move.ts"
@@ -114,9 +115,24 @@ export default async function findingRehome(args: readonly string[]): Promise<vo
   const spliced = withDomainKey(readFileSync(absolute, "utf8"), domain)
   if ("refusal" in spliced) throw inputError(`${at} cannot be rehomed: ${spliced.refusal}`)
 
-  const to = findingPathIn(root, domain, leaf.slice(0, -3))
+  // THE STEM IS THE NAME WITHOUT ITS PAGE SUFFIXES, and `leaf.slice(0, -3)` was only taking `.md`
+  // off. That left `<name>.finding`, which `findingPathIn` suffixed again, so every destination
+  // this worked out was `<name>.finding.finding.md` and `to` could never equal `at`. The refusal
+  // below could not fire, the key-only branch could not be reached, and a rehome asking for nothing
+  // took the move branch and exited 0 having landed a doubled name.
+  const stem = pageNameOf(leaf)?.stem
+  if (stem === undefined) {
+    throw inputError(
+      `${at} is not named as a page — a finding's file is \`<name>.finding.md\`, and where it ` +
+        "belongs is worked out from that name"
+    )
+  }
+  const to = findingPathIn(root, domain, stem)
   if (to === at && spliced.declared === domain) {
-    throw inputError(`${at} already sits under \`${domain}\` and declares it, so it asks for no rehome`)
+    throw inputError(
+      `${at} already stands under \`${domain}\` and already declares it. Nothing was written: ` +
+        "there is no move to make and no key to change"
+    )
   }
   const stated = parsed.string("--message")?.trim()
   const message =
