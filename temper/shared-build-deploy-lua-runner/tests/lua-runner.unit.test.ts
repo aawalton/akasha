@@ -1,9 +1,15 @@
-import { describe, expect, it } from "bun:test"
-import { mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, it } from "bun:test"
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { type LuaVm, makeLuaVm, withLuaVm } from "../src/lua-vm"
 import { spawnPersistentVm } from "../src/persistent-vm"
+
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
 
 describe("makeLuaVm", () => {
   it("returns the result of a simple expression", async () => {
@@ -200,6 +206,7 @@ describe("spawnPersistentVm handshake", () => {
 
   it("throws a diagnostic error including stderr when the driver exits before handshake", async () => {
     const tmp = mkdtempSync(join(tmpdir(), "lua-runner-9377-"))
+    made.push(tmp)
     const badDriver = join(tmp, "driver.lua")
     writeFileSync(badDriver, "io.stderr:write('STRESS_MARKER_9377\\n'); os.exit(7)\n")
 
@@ -218,6 +225,7 @@ describe("spawnPersistentVm handshake", () => {
 
   it("retries the handshake before giving up", async () => {
     const tmp = mkdtempSync(join(tmpdir(), "lua-runner-9377-"))
+    made.push(tmp)
     const exitDriver = join(tmp, "exit.lua")
     writeFileSync(exitDriver, "os.exit(0)\n")
 
