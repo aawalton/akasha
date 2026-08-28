@@ -1,1 +1,0 @@
-A throwaway file, created to reproduce ops write --remove refusing a path deleted from the worktree.
