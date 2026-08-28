@@ -17,6 +17,4 @@ domain-parent-slug: domain/temper-player-character
 
 # Design
 
-A version is named for the build it revises and the moment it was taken, both of which the dialog that saves it already holds.
-
 Nothing has recorded a version yet, and the shape stands ready for the first one.
