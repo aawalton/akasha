@@ -16,7 +16,7 @@ const property = (on: string, key: string, lines: readonly string[]): string =>
 
 const reads = (of: string): readonly string[] => [
   "type: number",
-  `expression: prop(${of}) && 100 || other`,
+  `expression: 'case({${of}} != absent -> 100, otherwise -> {other})'`,
 ]
 
 const FILES: Readonly<Record<string, string>> = {
@@ -81,9 +81,12 @@ describe("a mapping written in a page's frontmatter", () => {
     expect(rowOf("mapped-bare")["mapped-bare"]).toBe('{"a":"one"}')
   })
 
-  it("answers an expression that reads it rather than refusing, and reports no fault", () => {
-    expect(rowOf("mapped")["reads-mapped"]).toBe("100")
-    expect(faultsOf()).toEqual([])
+  // A MAPPING REACHES NO FORMULA. The formula language holds six types and a mapping is none of
+  // them, so a formula naming this key is refused where it is checked rather than handed the JSON
+  // text of it, which is what the evaluator this replaced compared against.
+  it("is refused by a formula naming it, and the refusal says which property stated it", () => {
+    expect(rowOf("mapped")["reads-mapped"]).toBeNull()
+    expect(faultsOf().join("\n")).toContain("`gauge-reads-mapped`")
   })
 
   it("leaves every other key on the same page reading exactly as it did", () => {
