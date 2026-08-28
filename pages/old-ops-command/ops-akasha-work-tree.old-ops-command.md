@@ -1,18 +1,18 @@
 ---
 id: 061fa6f4-ef16-5b60-9e84-4efa7f22a2c8
 page-type-slug: old-ops-command
-title: "Ops memory work-tree"
+title: "Ops akasha work-tree"
 slug: ops-akasha-work-tree
-domain-parent-slug: domain/ops-memory
+domain-parent-slug: domain/ops-akasha
 required-reading-slugs:
   - page-type/old-ops-command
 command-path: tools/work-tree.ts
-path: memory work-tree
+path: akasha work-tree
 ---
 
 # Definition
 
-- **Ops memory work-tree** — the memory repo's work drawn as one tree of initiatives.
+- **Ops akasha work-tree** — akasha's work drawn as one tree of initiatives.
 
 # Design
 
