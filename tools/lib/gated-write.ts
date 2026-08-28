@@ -34,6 +34,15 @@ export function writerFor(writer: string): (tool: string, args: readonly string[
       const proc = Bun.spawnSync([process.execPath, ...toolArgv(tool, args, TOOLS_ROOT)], {
         stdout: sink,
         stderr: sink,
+        // THE AGENT SLOT CARRIES A WRITE-PATH NAME, MEANT NOT TO RESOLVE. `writer` names code
+        // rather than an agent, so `agentPageFor` finds no page for it and this child cannot pass
+        // `read-before-write` at all; these calls land because they are mechanical, which drops the
+        // checks `needsAuthor` marks. A real agent here resolves, and the seat's read record then
+        // absorbs pages a program composed, which is a gate's input rather than a label on it.
+        //
+        // CLEARING `ACTING_AGENT_ID` GUARDS THE CASE WHERE `AGENT_ID` HOLDS AN AGENT. Every reader
+        // tests `acting.startsWith(seat + "--")`, which no delegate id satisfies against a
+        // write-path name, so the clear is redundant only while the line beside it stands.
         env: { ...process.env, AGENT_ID: writer, ACTING_AGENT_ID: "" },
       })
       let output = ""
