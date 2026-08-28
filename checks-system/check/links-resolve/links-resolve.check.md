@@ -25,3 +25,5 @@ A link naming a heading or a quote is judged against the body, so the pages hold
 A file under a `dirty` folder is not judged.
 
 A page of a type whose body came from elsewhere is not judged.
+
+A link with a mortal page at either end is not judged.
