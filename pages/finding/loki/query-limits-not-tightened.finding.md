@@ -3,7 +3,7 @@ id: 9c288e06-540c-580f-af49-4ccd61ee9731
 slug: query-limits-not-tightened
 page-type-slug: finding
 title: "Query limits not tightened"
-domain-slug: domain/940
+domain-slug: cluster-service/loki
 ---
 
 # Claim

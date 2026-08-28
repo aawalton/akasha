@@ -3,7 +3,7 @@ id: f23d5b4a-f54e-5f50-a67d-a1a89a188054
 slug: retention-unreachable-emptydir
 page-type-slug: finding
 title: "Retention unreachable emptydir"
-domain-slug: domain/940
+domain-slug: cluster-service/loki
 ---
 
 # Claim
