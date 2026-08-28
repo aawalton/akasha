@@ -25,6 +25,17 @@ export type PropertyType =
   | "rich-document"
   | "action-button"
 
+/**
+ * Where a property's value is kept.
+ *
+ * ONE DECLARATION. This tuple is the only statement of the tier vocabulary. The Zod enums that
+ * admit a tier and the fields that carry one read it rather than restating it, so a tier added
+ * here reaches every one of them at once.
+ */
+export const STORAGE_TIERS = ["indexed", "content", "external"] as const
+
+export type StorageTier = (typeof STORAGE_TIERS)[number]
+
 export type PropertyDefinition = {
   readonly id: string
   readonly title: string
@@ -35,7 +46,7 @@ export type PropertyDefinition = {
   readonly accent?: boolean
   readonly display?: "badge" | "inline"
   readonly sort?: "alpha" | "manual"
-  readonly storage?: "indexed" | "content" | "external"
+  readonly storage?: StorageTier
   readonly groupable?: boolean
   readonly versionExempt?: boolean
   readonly columnName?: string

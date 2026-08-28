@@ -1,4 +1,5 @@
 import type { Json } from "../../supabase-database/src/generated/database"
+import type { StorageTier } from "@shared/pages-core/types"
 
 export interface RelationTarget {
   readonly target: string
@@ -13,5 +14,5 @@ export interface PropSpec {
   readonly relation?: RelationTarget
   readonly config?: Readonly<Record<string, Json>>
   readonly colorRules?: Json
-  readonly storage?: "indexed" | "content" | "external"
+  readonly storage?: StorageTier
 }

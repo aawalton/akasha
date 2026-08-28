@@ -1,5 +1,5 @@
 import * as z from "zod"
-import type { PropertyDefinition } from "../types"
+import { STORAGE_TIERS, type PropertyDefinition } from "../types"
 import { actionButtonConfigSchema } from "./action-button-config"
 import { colorRuleSchema } from "./color-rule"
 import { detailConfigSchema } from "./detail-config"
@@ -43,7 +43,7 @@ const baseFields = {
   accent: z.boolean().optional(),
   display: z.enum(["badge", "inline"]).optional(),
   sort: z.enum(["alpha", "manual"]).optional(),
-  storage: z.enum(["indexed", "content", "external"]).optional(),
+  storage: z.enum(STORAGE_TIERS).optional(),
   groupable: z.boolean().optional(),
   colorRules: z.array(colorRuleSchema).optional(),
 } as const

@@ -1,6 +1,6 @@
 import * as z from "zod"
 import { validateDynamicDefault } from "../property-types/dynamic-default"
-import type { PropertyType } from "../types"
+import { STORAGE_TIERS, type PropertyType } from "../types"
 import { colorRuleSchema } from "./color-rule"
 import { evaluateSchemaProfile } from "./schema-profile"
 
@@ -76,7 +76,7 @@ const sharedPassthroughShape = {
   unique: z.boolean().optional(),
   parent: z.boolean().optional(),
   sort: z.enum(["alpha", "manual"]).optional(),
-  storage: z.enum(["indexed", "content", "external"]).optional(),
+  storage: z.enum(STORAGE_TIERS).optional(),
   groupable: z.boolean().optional(),
   versionExempt: z.boolean().optional(),
   pageType: z.string().optional(),

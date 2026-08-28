@@ -1,5 +1,6 @@
 import type { MediaConfig } from "@shared/pages-core/schema/media-config"
 import type { SequenceConfig } from "@shared/pages-core/schema/sequence-config"
+import type { StorageTier } from "@shared/pages-core/types"
 import { PropertyDefinitionSchema } from "@shared/pages-core/schema/pages"
 import type { Json } from "../../supabase-database/src/generated/database"
 import { fileMediaConfig, fileSequenceConfig } from "./file-page-type-config"
@@ -15,7 +16,7 @@ export type PropertyDefinition = {
   accent?: boolean
   display?: "badge" | "inline"
   sort?: "alpha" | "manual"
-  storage?: "indexed" | "content" | "external"
+  storage?: StorageTier
   columnName?: string
   indexName?: string
   skipRelationMirroring?: boolean
