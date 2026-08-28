@@ -9,7 +9,6 @@ sequence-slugs:
   - domain/seat-assignment
   - domain/seat-charter
   - page-property-definition/seat-deferred-restart-notice
-  - page-property-definition/seat-forwards-turns-to
 ---
 
 # Definition

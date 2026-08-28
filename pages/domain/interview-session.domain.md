@@ -8,10 +8,10 @@ domain-parent-slug: role/interviewer
 
 # Definition
 
-- **Interview session** — one live conversation and the team of seats that runs it.
+- **Interview session** — one live conversation and the seat that runs it.
 
 # Design
 
-The interviewer and recorder run one session together, and each can message the other.
+A session holds one seat; what lands a change is a subagent, not a second seat.
 
 Changes land continuously through a session.

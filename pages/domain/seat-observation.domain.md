@@ -18,7 +18,6 @@ sequence-slugs:
   - page-property-definition/seat-claude-code-session-uuid
   - page-property-definition/seat-transcript-path
   - page-property-definition/seat-rotated-session-uuid
-  - page-property-definition/seat-forwarded-turn-uuid
 ---
 
 # Definition
