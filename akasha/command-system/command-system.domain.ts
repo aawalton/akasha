@@ -7,6 +7,7 @@ export const commandSystem = {
   definition: "what an agent runs by name",
   partSlugs: [
     "command",
+    "calling",
     "read",
   ],
   requiredReadingSlugs: [
