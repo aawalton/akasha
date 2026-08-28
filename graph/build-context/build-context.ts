@@ -14,11 +14,20 @@ export type SaidName = {
 
 export type Said = {
   readonly of: (said: SaidName, repo: string, key: string, work: () => unknown) => unknown
+  /**
+   * Every answer held under one name, keyed by the subject it was filed against.
+   *
+   * NOTHING HELD ANSWERS `null`, which is what tells a reader to work the answer out instead of
+   * reading a part of one. A producer answering `into` from these owes the same of a subject that
+   * is missing: an answer short of one file is not an answer, it is an unreachable file.
+   */
+  readonly held: (said: SaidName) => ReadonlyMap<string, unknown> | null
   readonly done: () => void
 }
 
 export const KEEPS_NOTHING: Said = {
   of: (_said, _repo, _key, work) => work(),
+  held: () => null,
   done: () => {},
 }
 

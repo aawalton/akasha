@@ -2,7 +2,7 @@ import type { BuildContext, Said, SaidName } from "../../graph/build-context/bui
 import type { Roots } from "../../page/page.ts"
 import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
-import { type Key, answerAt, answersAt, cacheAnswer, sweep } from "../cache.ts"
+import { type Key, answerAt, answersAt, answersUnder, cacheAnswer, sweep } from "../cache.ts"
 import { closureOf } from "../closure/closure.ts"
 import { markOf } from "../mark/mark.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
@@ -52,6 +52,17 @@ export function saidUnder(
       const answer = work() ?? null
       cacheAnswer(at, named, { [SAID_FIELD]: answer })
       return answer
+    },
+    // Reading the whole of one name files nothing, so it leaves `done` nothing to sweep by.
+    held: (said) => {
+      const found = answersUnder(at, SAID_KIND, said.name, markFor(said.entry))
+      if (found === null) return null
+      const out = new Map<string, unknown>()
+      for (const [subject, answer] of found) {
+        const one = heldIn(answer)
+        if (one !== null) out.set(subject, one.said)
+      }
+      return out
     },
     done: () => {
       for (const [name, mark] of marked) sweep(at, SAID_KIND, name, mark)

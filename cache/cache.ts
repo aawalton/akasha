@@ -4,6 +4,8 @@ import { dirname, join } from "node:path"
 
 const ANSWERS = "answers"
 
+const SUFFIX = ".json"
+
 export type Key = {
   readonly kind: string
   readonly name: string
@@ -12,7 +14,7 @@ export type Key = {
 }
 
 function pathOf(key: Key): string {
-  return `${key.kind}/${key.name}/${key.mark}/${key.subject}.json`
+  return `${key.kind}/${key.name}/${key.mark}/${key.subject}${SUFFIX}`
 }
 
 export function answersAt(root: string): string {
@@ -32,6 +34,28 @@ export function cacheAnswer(at: string, key: Key, answer: unknown): void {
   const file = join(at, pathOf(key))
   mkdirSync(dirname(file), { recursive: true })
   writeFileSync(file, JSON.stringify(answer))
+}
+
+/**
+ * Every answer filed under one name at one mark, keyed by the subject each was filed against.
+ *
+ * A MARK NOTHING WAS FILED UNDER ANSWERS `null` rather than an empty map, so a reader can tell a
+ * cache that holds nothing from one that holds nothing for this question.
+ */
+export function answersUnder(
+  at: string,
+  kind: string,
+  name: string,
+  mark: string
+): ReadonlyMap<string, unknown> | null {
+  const under = join(at, kind, name, mark)
+  if (!existsSync(under)) return null
+  const found = new Map<string, unknown>()
+  for (const file of readdirSync(under)) {
+    if (!file.endsWith(SUFFIX)) continue
+    found.set(file.slice(0, -SUFFIX.length), JSON.parse(readFileSync(join(under, file), "utf8")))
+  }
+  return found
 }
 
 export function sweep(at: string, kind: string, name: string, keeping: string): void {

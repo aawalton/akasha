@@ -7,6 +7,8 @@ import fileNodeProducer, { FILE_NODE_KIND } from "../../node-producer/file/file.
 import type { BuildContext, SaidName } from "../../build-context/build-context.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { aliasedTo } from "./tsconfig-paths.ts"
+import { namedBy } from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
+import { oidsUnder } from "../../../repo/oid/oid.ts"
 
 export const IMPORT_EDGE = "import"
 
@@ -20,6 +22,10 @@ const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
 const RELATIVE = "."
 
 const TAILS: readonly string[] = ["", ".ts", ".tsx", "/index.ts", "/index.tsx"]
+
+const ADDRESS_JOIN = "/"
+
+const REACHING = new WeakMap<BuildContext, ReadonlyMap<string, readonly EdgeInit[]> | null>()
 
 /**
  * Every module specifier a file imports, read as TypeScript syntax rather than matched as text.
@@ -86,6 +92,61 @@ function fileAt(ctx: BuildContext, base: string): NodeRef | null {
   return null
 }
 
+function atOf(ref: NodeRef): string {
+  return `${ref.repo}${ADDRESS_JOIN}${ref.key}`
+}
+
+function specifiersIn(held: unknown): readonly string[] {
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
+}
+
+/**
+ * Every import edge here, keyed by the node it reaches.
+ *
+ * THE HELD ANSWERS ARE ALREADY THE FORWARD MAP, and inverting one in memory is the whole of this.
+ * Each is filed under the git blob oid of the file it was worked out for, and `oidsUnder` says
+ * which paths carry that oid: 54 oids here are shared by 154 paths, four copies of one route module
+ * among them, so a path written into the answer would name one of those and lose the rest.
+ *
+ * A FILE WITH NO ANSWER HELD MAKES THE WHOLE OF THIS `null`. `edgesInto` skips the walk for a
+ * producer that answers, so a map short of one file would make that file's imports unreachable
+ * rather than slow. A cold cache is therefore walked, and the walk is what fills it.
+ */
+function reachingOver(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[]> | null {
+  const held = ctx.said.held(IMPORT_SAID)
+  if (held === null) return null
+  const found = new Map<string, EdgeInit[]>()
+  for (const [repo, root] of Object.entries(ctx.roots)) {
+    if (typeof root !== "string") continue
+    for (const [key, oid] of oidsUnder(root, null)) {
+      const extension = namedBy(key)["file-extension"]
+      if (extension === null || !TYPESCRIPT.has(extension)) continue
+      if (!held.has(oid)) return null
+      const from = resolve(root, key)
+      for (const named of specifiersIn(held.get(oid))) {
+        for (const base of basesOf(root, from, named)) {
+          const to = fileAt(ctx, base)
+          if (to === null) continue
+          const edge: EdgeInit = { kind: IMPORT_EDGE, from: { repo, key }, to, attrs: {} }
+          const there = found.get(atOf(to))
+          if (there === undefined) found.set(atOf(to), [edge])
+          else there.push(edge)
+          break
+        }
+      }
+    }
+  }
+  return found
+}
+
+function reachingIn(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[]> | null {
+  if (REACHING.has(ctx)) return REACHING.get(ctx) ?? null
+  const made = reachingOver(ctx)
+  REACHING.set(ctx, made)
+  return made
+}
+
 export const importEdgeProducer: EdgeProducer = {
   name: "import",
   edgeKinds: () => [IMPORT_EDGE],
@@ -111,6 +172,13 @@ export const importEdgeProducer: EdgeProducer = {
       }
     }
     return edges
+  },
+  // Every file's specifiers are held already, so what reaches a node is one pass over answers that
+  // are on disk rather than a pass over the repository working them out again.
+  into: (ctx, ref) => {
+    const reaching = reachingIn(ctx)
+    if (reaching === null) return null
+    return reaching.get(atOf(ref)) ?? []
   },
 }
 
