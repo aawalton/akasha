@@ -17,4 +17,6 @@ A page's type is derived from the page's value.
 
 # Intent
 
-A malformed page does not compile.
+A page of the wrong shape does not compile.
+
+A limit no type can carry is enforced by a check.
