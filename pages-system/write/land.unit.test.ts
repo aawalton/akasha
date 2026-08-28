@@ -311,7 +311,7 @@ describe("what a write will not do to the kind of page it found", () => {
   it("leaves a page named after this one standing, taking only what is not a page", () => {
     const root = rootWith({
       [AT]: STOOD,
-      [ROWS]: (String.raw`{"seq":1}` + "\n") as string,
+      [ROWS]: '{"seq":1}\n',
       "pages/domain/thing.domain.note.md": "---\npage-type-slug: note\n---\n",
     })
     takePage({ repo: repoAt(root), at: AT, by: null })
