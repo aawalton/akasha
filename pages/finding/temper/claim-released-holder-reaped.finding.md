@@ -3,7 +3,7 @@ id: cf674036-60bd-5a2e-8e12-249c7ae1e1f2
 slug: claim-released-holder-reaped
 page-type-slug: finding
 title: "Claim released holder reaped"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

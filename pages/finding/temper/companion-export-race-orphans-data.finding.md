@@ -3,7 +3,7 @@ id: 8e5cee72-d39e-5b23-aa0f-99c6f24618cf
 slug: companion-export-race-orphans-data
 page-type-slug: finding
 title: "Companion export race orphans data"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

@@ -3,7 +3,7 @@ id: 9a38b049-e36c-57b2-b549-14701a71abc7
 slug: cold-path-coverage-gap
 page-type-slug: finding
 title: "Cold path coverage gap"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
