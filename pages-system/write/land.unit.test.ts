@@ -138,7 +138,7 @@ describe("what a write does before an app states its landing", () => {
     expect(landingHere()).toBeNull()
     const root = rootWith({})
     const written = putPage(putting(root, { title: text("Thing") }, FRESH_BODY))
-    expect(whyOf(written)).toContain("an app states its landing once at boot")
+    expect(whyOf(written)).toContain("an app states its landing at boot")
     expect(existsSync(`${root}/${AT}`)).toBe(false)
   })
 })
