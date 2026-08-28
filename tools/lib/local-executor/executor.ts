@@ -115,8 +115,8 @@ export function LocalExecutor(): LocalExecutor {
         }
       }
 
-      const localRepo = join(homedir(), "repos", "code")
-      const remoteUrl = `http://x-access-token:${requireEnv("GIT_ACCESS_TOKEN")}@git-transport.git.svc.cluster.local:3000/alan/code.git`
+      const localRepo = join(homedir(), "repos", "akasha")
+      const remoteUrl = `http://x-access-token:${requireEnv("GIT_ACCESS_TOKEN")}@git-transport.git.svc.cluster.local:3000/alan/akasha.git`
 
       await run("git", "init", workspacePath)
       try {
