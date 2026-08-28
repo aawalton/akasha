@@ -1,5 +1,4 @@
-import { removePage } from "@shared/pages-query"
-import { askComposed } from "@shared/pages-query/ask"
+import { askComposed, pageLanding } from "../page-query-client.ts"
 
 export const PAGE_TYPE = "device-token"
 
@@ -18,7 +17,7 @@ export async function listDeviceTokens(userId: string): Promise<readonly DeviceT
   })
   if (!asked.ok) throw new Error(`listDeviceTokens: ${asked.why}`)
   const tokens: DeviceToken[] = []
-  for (const row of asked.answer.rows) {
+  for (const row of asked.rows) {
     const token = row.values.token
     const bundleId = row.values["bundle-id"]
     if (typeof token !== "string" || typeof bundleId !== "string") continue
@@ -28,6 +27,6 @@ export async function listDeviceTokens(userId: string): Promise<readonly DeviceT
 }
 
 export async function pruneDeviceToken(deviceToken: string): Promise<void> {
-  const gone = await removePage(PAGE_TYPE, deviceToken, WRITER)
+  const gone = await pageLanding("remove", PAGE_TYPE, deviceToken, {}, WRITER)
   if (!gone.ok) throw new Error(`pruneDeviceToken: ${gone.why}`)
 }
