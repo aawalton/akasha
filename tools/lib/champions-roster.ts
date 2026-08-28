@@ -1,4 +1,3 @@
-
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./check.ts"
 import { type Documents, domainNamed, DOMAIN_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
@@ -59,19 +58,6 @@ function scan(root: string): Map<string, Frontmatter> {
   return frontmatter
 }
 
-/**
- * Who is answerable for what, composed from the documents standing now.
- *
- * EVERY SIDE IS READ OUT OF AKASHA, which is where domains, personas, findings and initiatives
- * all stand. A roster built from any other checkout comes back empty rather than wrong, and an
- * empty roster is the shape a corpus with no domains in it would have — so every reader of it
- * draws a panel with no rows and nothing anywhere says the root was the fault.
- *
- * ONE SCAN, AND THE PAGE TYPE DECIDES WHICH SIDE A FILE IS. Findings and initiatives were read
- * from a second checkout and claimed against the repository name `memory`, so once their page
- * types named akasha the claim matched nothing and every persona was reported as holding no
- * finding and no initiative — a clean zero over a corpus that held hundreds.
- */
 export function readRoster(roots: Roots): Roster {
   const frontmatter = scan(rootFor(roots, AKASHA))
   const { slugs } = slugsIn(frontmatter)
@@ -95,10 +81,6 @@ export function readRoster(roots: Roots): Roster {
   for (const [relPath, fm] of frontmatter) {
     const kind = pageTypeOf(relPath)
     if (kind !== "finding" && kind !== "initiative") continue
-    // Spelled bare, for the reason the parent below is: a filing names its domain by address —
-    // `domain/agent-harness` — while every key these filings are looked up under is the slug
-    // alone, so an address stored unchanged is filed against a domain no champion holds. Each
-    // one then counts as an unreached filing and every persona reads as holding none.
     const subject = slugNamed(textField(fm, SUBJECT_KEY))
     if (subject === null) continue
     const finding = kind === "finding"
@@ -119,29 +101,15 @@ export function readRoster(roots: Roots): Roster {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
     if (!isDomain(relPath)) continue
-    // KEPT UNLESS ANOTHER PAGE OF THIS TYPE ALREADY HOLDS THE SLUG. This guard used to ask
-    // whether the bare slug resolved back to this page, which dropped every domain whose slug a
-    // page of some other type had taken first — the domain vanished from the tree and its
-    // children were promoted to roots of their own. A type carries a slug once, so asking by
-    // address answers the question the guard was for and only that one.
     const type = pageTypeOf(relPath)
     const named = type === null ? slugs.get(slug) : domainNamed(slugs, addressOf(type, slug))
     if (named !== relPath) continue
     slugAt.set(relPath, slug)
-    // Spelled bare for the same reason the parent above is: a sequence names its members by
-    // address and the kin it is matched against are bare slugs, so an address left as written
-    // places nothing. Nothing about that shows as an error — the children simply come back in
-    // the order they were read, which is an order, so it reads as a corpus that declared none.
     const sequence = listField(fm, SEQUENCE_KEY)
       .filter((one) => one !== "")
       .map((one) => slugNamed(one))
     if (sequence.length > 0) sequenceOf.set(slug, sequence)
     domains += 1
-    // Spelled bare, because that is what a reader of this map holds. A page addresses its
-    // parent by type and slug together — `domain/global` — while every key here is the slug
-    // alone, so an address stored unchanged matches no parent, and a domain whose parent is
-    // never found is reported as a root of its own. A corpus of that reads as one flat list
-    // with every descent lost, which is a shape a tree can genuinely have.
     const addressed = championParentOf(relPath, docs)
     const parent = addressed === null ? null : slugNamed(addressed)
     if (parent !== null) championParent.set(slug, parent)

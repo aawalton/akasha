@@ -1,13 +1,6 @@
 import { dirname, relative } from "node:path"
 import { findFiles } from "./file-finder.ts"
 
-/**
- * How an addon-library workspace is spelled.
- *
- * THIS IS A NAME PREFIX, NOT A DIRECTORY. Every addon library stands directly under `temper/` and
- * carries its family in its name, so the sites are found by matching the name rather than by
- * walking a `shared/addon-libraries` directory, which is not there to walk.
- */
 export const ADDON_LIBRARIES_PREFIX = "temper/shared-addon-libraries-"
 
 export const LCCC_REFERENCE_DIR = `${ADDON_LIBRARIES_PREFIX}lib-character-knowledge/src/lccc`

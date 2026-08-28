@@ -42,9 +42,6 @@ export async function resolvePersonaBySlug(slug: string): Promise<PersonaDayTarg
   }
 }
 
-// `persona-day` is named `{persona-slug}-{date}`, and a file page's slug is that
-// name. Stating it here is what puts a created day at `abby-2026-08-14` carrying
-// `slug: abby-2026-08-14`, as every persona day already standing does.
 export function personaDaySlug(personaSlug: string, dayStr: string): string {
   return `${personaSlug}-${dayStr}`
 }

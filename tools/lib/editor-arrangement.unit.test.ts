@@ -20,9 +20,6 @@ const arrangement: Arrangement = {
 }
 
 describe("the pages an editor arrangement lands", () => {
-  // `writePage` composes a page's frontmatter from these values alone, so a key absent here is a
-  // key erased from the standing file. Every one of these pages is addressed by its `name`, which
-  // is its file stem, and a page states the name it is addressed by.
   test("every page states the name it is addressed by as its slug", () => {
     for (const page of pagesFor(arrangement)) expect(page.values["slug"]).toBe(page.name)
   })

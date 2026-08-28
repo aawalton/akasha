@@ -1,4 +1,3 @@
-
 import { closure } from "./closure.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
@@ -31,21 +30,11 @@ export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
 } {
   const slugs = new Map<string, string>()
   const duplicates = new Map<string, string[]>()
-  // KEYED BY ADDRESS AS WELL AS BY BARE SLUG. A slug is unique within a page type and not
-  // across the corpus, so a book chapter and a domain may both declare `agent-harness`, and
-  // whichever the scan reached first took the bare key. The loser then resolved to the wrong
-  // page and everything descending from it was cut loose. An address carries the page type, so
-  // `domain/agent-harness` names the domain whatever else shares its slug.
   const addressed = new Map<string, string>()
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
-    // THE NAME SETTLES THE PAGE TYPE, so the address is built from the kind the file carries rather
-    // than from a `page-type-slug:` the frontmatter states. The two must agree, and where they did
-    // not it was this that decided — the address a page is reached by, taken off the wrong side.
     const type = pageTypeOf(relPath)
-    // FIRST CLAIM WINS HERE TOO, which decides nothing: no two pages of one type may carry one
-    // slug, so a second claim on an address is a corpus fault the duplicates below already name.
     if (type !== null) {
       const address = addressOf(type, slug)
       if (!addressed.has(address)) addressed.set(address, relPath)
@@ -59,8 +48,6 @@ export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
     claimants.push(relPath)
     duplicates.set(slug, claimants)
   }
-  // Added after the bare keys so an address never loses to one. The separator cannot appear in a
-  // slug, so no address can collide with a bare key.
   for (const [address, relPath] of addressed) slugs.set(address, relPath)
   return { slugs, duplicates }
 }

@@ -1,18 +1,3 @@
-
-/**
- * The domain rows the championing tree is drawn from, asked of the pages rather than scanned off
- * disk.
- *
- * THE TRAVERSAL IS NOT REPEATED HERE. Who champions a domain, and which parent championing
- * descends, are answered by `championOf` and `championParentOf` over a `Documents` this builds —
- * the same two functions the scanning reader uses. What changes is where the frontmatter comes
- * from, never what is made of it.
- *
- * ONE QUERY PER DOMAIN KIND. A domain is any page whose type reaches `domain` along `extends-slug`,
- * which is 45 page types rather than one, and a query names a single page type. Every one of them
- * is answered from the held deriver, so the whole set costs one derive and the joins happen here.
- */
-
 import { answer } from "./page-query.ts"
 import { type DomainRow } from "./champions-tree.ts"
 import { type Documents, DOMAIN_SLUG_KEY, championOf, championParentOf, slugsIn } from "./domain.ts"
@@ -34,7 +19,6 @@ const KEYS: readonly string[] = [DOMAIN_SLUG_KEY, DOMAIN_PARENT_KEY, PERSONA_CHA
 
 const ADDRESS = `${AKASHA}:`
 
-/** A query row's values, standing as the frontmatter every reader of a domain page expects. */
 function frontmatterOf(values: Readonly<Record<string, unknown>>): Frontmatter {
   const fields = new Map<string, unknown>()
   for (const key of KEYS) {
@@ -44,18 +28,6 @@ function frontmatterOf(values: Readonly<Record<string, unknown>>): Frontmatter {
   return { present: true, fields, keys: [...fields.keys()], error: null, lineCount: 0 }
 }
 
-/**
- * Every domain page in akasha, by the path it stands at.
- *
- * AKASHA ONLY, because that is where domains stand and where the tree's paths are taken relative
- * to. A row answered against any other checkout carries a path this tree cannot open.
- *
- * IN PATH ORDER, WHICH SETTLES A TIE. Two pages of different types may carry one slug — `list` is a
- * command, a page type and a property type at once — and the tree keys a parent by the bare slug,
- * so which of them a child hangs under is settled by which came last. Asked type by type that
- * would be whatever order the page types happen to be listed in; sorted, it is the order a walk of
- * the files gives, which is what every reader of this tree has been shown.
- */
 function frontmatterByPath(roots: Roots): ReadonlyMap<string, Frontmatter> {
   const found: [string, Frontmatter][] = []
   for (const kind of domainKinds(registryOf(diskFileTree(roots)))) {
@@ -78,8 +50,6 @@ export function askedDomainRows(roots: Roots): readonly DomainRow[] {
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
-    // The guard the scanning reader carries: a page keeps its slug unless another page of its own
-    // type already holds it, a slug being unique within a type rather than across the corpus.
     const type = pageTypeOf(relPath)
     const named = type === null ? slugs.get(slug) : docs.domainAt(addressOf(type, slug))
     if (named !== relPath) continue

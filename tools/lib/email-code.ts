@@ -2,9 +2,6 @@ import type { ComposeInput } from "@alanwalton/email-google/types"
 import { parseSender } from "@alanwalton/email-inbound/sender"
 import type { ParsedArgs } from "./parse-args.ts"
 
-// The package states each module by its own name and offers no bare entry, so
-// the namespace this returns is assembled here rather than resolved. Every name
-// is asked of the module that declares it.
 export type EmailGoogle = typeof import("@alanwalton/email-google/messages") &
   typeof import("@alanwalton/email-google/drafts") &
   typeof import("@alanwalton/email-google/attachments") &

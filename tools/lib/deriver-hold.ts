@@ -19,8 +19,6 @@ export function dropDerivers(): void {
   held.clear()
 }
 
-// WHAT IS HELD IS THE WALK, NEVER THE ROWS. `rows` answers something to walk, and holding one of
-// those costs a single object however many pages the page type has.
 function memoRows(derive: Deriver): Deriver {
   const rowed = new Map<string, Iterable<Row> | null>()
   return {

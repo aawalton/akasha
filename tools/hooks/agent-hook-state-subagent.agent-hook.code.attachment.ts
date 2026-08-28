@@ -22,13 +22,6 @@ export function clearsSubagentPages(source: string): boolean {
   return !PROCESS_SURVIVES.includes(source)
 }
 
-/**
- * What the seat is told about the subagents its restart just ended.
- *
- * READ BEFORE THE PAGES GO, because the pages are the only record of which subagents were out. The
- * notice Claude Code prints in their place says a completion record was not found, which reports
- * what the harness does not know rather than what became of them.
- */
 function saidOfStanding(seat: string): string {
   try {
     return reportOf(endsOf(standingSubagentsOf(seat)))

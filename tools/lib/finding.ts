@@ -1,4 +1,3 @@
-
 import { readFileSync } from "node:fs"
 import type { Repo } from "../../page/document/types.ts"
 import { dataError } from "./exit.ts"
@@ -88,10 +87,6 @@ export function undeclaredRefusal(domain: string, declared: ReadonlyMap<string, 
   )
 }
 
-// A BARE SLUG IS REFUSED RATHER THAN RESOLVED. `domain-slug` is a relation address, and a slug is
-// unique within a page type and not across the corpus, so resolving a bare one means taking
-// whichever page a scan reached first. That writes a key that is wrong and plausible, which nobody
-// downstream knows to look at; a refusal costs the caller one retry and says what to write.
 export function addressRefusal(domain: string, declared: ReadonlyMap<string, string>): string | null {
   if (addressParts(domain) !== null) return null
   const carrying = [...declared.keys()].filter((key) => addressParts(key)?.slug === domain).sort()
@@ -108,9 +103,6 @@ export function addressRefusal(domain: string, declared: ReadonlyMap<string, str
   )
 }
 
-// THE SLUG IS WRITTEN INTO THE PAGE, not only used to name its file. `page-named-as-stated` asks
-// a page what it calls itself and falls back to the title where nothing says, so a body composed
-// without this key was named by its slugified title and refused for every slug that was not one.
 export function composeFinding(
   domain: string,
   slug: string,
