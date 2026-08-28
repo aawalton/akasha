@@ -17,6 +17,10 @@ required-reading-slugs:
 
 A page is one TypeScript file.
 
+A page is one exported object, named for the page's slug.
+
+A page has no body; every section is a property.
+
 Some page properties have their own files.
 
 Some page property files are not TypeScript files.
