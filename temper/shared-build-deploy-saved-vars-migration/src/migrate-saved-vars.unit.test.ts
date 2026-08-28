@@ -1,5 +1,5 @@
-import { describe, expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   applyConsolidationMigrations,
@@ -58,8 +58,16 @@ describe("renameGlobals", () => {
   })
 })
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function sandbox(): string {
-  return mkdtempSync(join(SCRATCH_ROOT, "sv-consolidate-"))
+  const dir = mkdtempSync(join(SCRATCH_ROOT, "sv-consolidate-"))
+  made.push(dir)
+  return dir
 }
 
 describe("migrateAddonSavedVars (rename shell)", () => {
