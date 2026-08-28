@@ -1,7 +1,9 @@
 "use client"
 
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { ButtonBadge, CardTitleBadges, PanelCard } from "@shared/design-system"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
 import { kioskLocationName } from "@temper/game-trading-pricing/ttc-kiosk-locations-data"

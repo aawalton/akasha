@@ -1,6 +1,7 @@
 "use client"
 
-import { Button, Card, CardContent } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { PackageCheck } from "lucide-react"
 import { formatGold } from "./companion-gear-pricing-helpers"

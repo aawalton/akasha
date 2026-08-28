@@ -1,7 +1,10 @@
 "use client"
 
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { Button, ButtonBadge, CardTitleBadges, PanelCard } from "@shared/design-system"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"

@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, ButtonBadge, CardTitleBadges, PanelCard } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"

@@ -1,6 +1,7 @@
 "use client"
 
-import { ListContentSkeleton, PageLayout, PageTitle } from "@shared/design-system"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"

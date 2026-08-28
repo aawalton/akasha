@@ -1,6 +1,7 @@
 "use client"
 
-import { Badge, PanelCard } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { StatRow } from "@shared/design-patterns/components/stat-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
 import { buildNodePath } from "@shared/design-patterns/utils/path"
