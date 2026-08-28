@@ -70,13 +70,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-cnpg-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres-cnpg/k8s/postgres-cnpg-superuser.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/postgres-cnpg-superuser.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -87,13 +87,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-grafana-ro-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres-cnpg/k8s/grafana-ro-password.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/grafana-ro-password.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/grafana-ro-password.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -104,13 +104,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-agent-adhoc-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres-cnpg/k8s/agent-adhoc-password.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/agent-adhoc-password.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/agent-adhoc-password.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -318,13 +318,13 @@ const foundationPostgres = workflow("postgres", {
       ...sopsDecryptApply({
         name: "postgres-apply-secrets",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres-cnpg/k8s/postgres-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/postgres.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/postgres-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/postgres.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
