@@ -30,5 +30,3 @@ domain-parent-slug: page-type/task
 - **A session that changed nothing is not a failed session.** What stood was right, which is worth knowing. An interviewer asking until something moves is manufacturing an answer, and what that interviewer writes down afterwards looks exactly like one the person meant.
 
 - **Nothing here is armed.** Their next turn is what runs the next iteration, so this task schedules nothing and leaves nothing to take down afterwards.
-
-- **What the recorder sends waits for the person to speak again.** Read it as it lands and hold the reply: several arrive inside one turn, and answering each puts a message in front of them that they did not ask for. Fold what it changes into the next thing you say to them.

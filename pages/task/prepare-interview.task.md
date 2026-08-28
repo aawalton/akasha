@@ -28,10 +28,6 @@ domain-parent-slug: page-type/task
    - **Draft** an open question for each edge, in the words you would say it out loud. One answerable with yes or no returns the shape you brought rather than theirs, and a person short of attention takes the cheaper answer every time.
    - **Cut** every question whose answer you already expect. What comes back agrees with you and reads exactly like something learned, and their attention bought nothing.
 
-5. **The channel, opened last.**
-   - **Spawn** the recorder and state its name on your own seat as `forwards-turns-to`, with a `patch` against `seat` on the page query service. Nothing else starts the forwarding: the hook reads that one key, so a session run without it looks correct from every side and leaves the record empty.
-   - **Confirm** it fired by finding `/var/tmp/forward-turn-<your seat>.log` after the first turn. The statement alone arms nothing: a supervisor runs the hook set it booted with, so a seat older than the hook's registration keeps the statement in place all session and carries nothing.
-
 # Invariants
 
 - **This never starts unless someone asks for it.** Waiting is the correct state rather than an idle one.
