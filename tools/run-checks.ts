@@ -33,7 +33,7 @@ import { commandsDeclareHelp } from "./audits/commands-declare-help.ts"
 import { commandsDeclareSummary } from "./audits/commands-declare-summary.ts"
 import type { Repo } from "../page/document/types.ts"
 import { CHECKS_CEILING_MS, CHECK_BAND, type RepoView, type Levy, listDocuments } from "./lib/check.ts"
-import { fromDisk, refusalText } from "./lib/refusal.ts"
+import { refusalText } from "../refusal/refusal.ts"
 import { anyRefused, over, type Outcome, render, skip } from "../outcome/outcome"
 import { CEILING_MS, type Band, seconds, cpuMs } from "./lib/run-cost.ts"
 import { headSha, writeGreen } from "./lib/test-selection.ts"
@@ -210,8 +210,7 @@ export async function runChecks(
         refusalText(
           "checks-ceiling",
           { elapsed: (elapsedMs / 1000).toFixed(1), ceiling: (ceilingMs / 1000).toFixed(0) },
-          rootFor(repoViewOf("akasha").roots, AKASHA),
-          fromDisk
+          rootFor(repoViewOf("akasha").roots, AKASHA)
         ),
       ],
     })
