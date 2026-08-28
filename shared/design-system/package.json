@@ -8,7 +8,6 @@
     "*.css"
   ],
   "exports": {
-    ".": "./src/index.ts",
     "./styles.css": "./src/styles/index.css",
     "./demo/*": "./src/demo/*.tsx",
     "./*": "./src/*.ts"
