@@ -4,16 +4,18 @@
  *--------------------------------------------------------------------------------------------*/
 
 /**
- * What this extension will and will not accept from the harness verb.
+ * What this panel makes of a tree it has been handed.
  *
- * The boundary is the point: `ops domain champions --tree --json` is another area's command,
- * changed by seats that never open this file. What these assert is that a changed shape
- * arrives here as a stated error rather than as a tree built out of `undefined`.
+ * WHAT IS NO LONGER TESTED HERE: that a changed shape from `ops domain champions --tree --json`
+ * arrives as a stated error rather than as a tree built out of `undefined`. There is no longer a
+ * process between this panel and the tree — `championTree` composes it in this process and
+ * TypeScript says what shape it is — so there is no boundary for a shape to change across, and a
+ * parser guarding one would be code with nothing on the other side of it.
  */
 import { describe, expect, test } from 'bun:test';
-import { countDomains, type DomainNode, documentPath, parseDomainTree } from './harness';
+import { countDomains, type DomainNode, type DomainTree, documentPath } from './harness.ts';
 
-const ONE_ROOT = JSON.stringify({
+const ONE_ROOT: DomainTree = {
 	repo: '/home/walton/repos/akasha',
 	roots: [
 		{
@@ -42,91 +44,11 @@ const ONE_ROOT = JSON.stringify({
 		},
 	],
 	unreached: [],
-});
-
-describe('parseDomainTree', () => {
-	test('reads the nesting the verb printed, to whatever depth it goes', () => {
-		const tree = parseDomainTree(ONE_ROOT);
-		expect(tree.repo).toBe('/home/walton/repos/akasha');
-		expect(tree.roots).toHaveLength(1);
-		expect(countDomains(tree.roots)).toBe(4);
-		const person = tree.roots[0]?.children.find((one) => one.slug === 'person');
-		expect(person?.children[0]?.slug).toBe('alan');
-		expect(person?.children[0]?.persona).toBe('amy');
-	});
-
-	test('a domain no persona answers for is null rather than missing', () => {
-		const tree = parseDomainTree(
-			JSON.stringify({
-				repo: '/r',
-				roots: [{ slug: 'a', relPath: 'a.md', persona: null, position: null, children: [] }],
-				unreached: [],
-			})
-		);
-		expect(tree.roots[0]?.persona).toBeNull();
-	});
-
-	test('a place the verb printed is carried through, and a null one stays null', () => {
-		const tree = parseDomainTree(ONE_ROOT);
-		const drawn = tree.roots[0]?.children.map((one) => [one.slug, one.position]);
-		expect(drawn).toEqual([
-			['code', 2],
-			['person', 1],
-		]);
-		expect(tree.roots[0]?.position).toBeNull();
-	});
-
-	test('a place that is not a whole number above zero is refused rather than drawn', () => {
-		const shaped = (position: unknown) =>
-			JSON.stringify({
-				repo: '/r',
-				roots: [{ slug: 'a', relPath: 'a.md', persona: null, position, children: [] }],
-				unreached: [],
-			});
-		expect(() => parseDomainTree(shaped(0))).toThrow('shape this cannot read');
-		expect(() => parseDomainTree(shaped(1.5))).toThrow('shape this cannot read');
-		expect(() => parseDomainTree(shaped('1'))).toThrow('shape this cannot read');
-	});
-
-	test('carries the unreached list, so a corpus fault can be said rather than shown as absence', () => {
-		const tree = parseDomainTree(JSON.stringify({ repo: '/r', roots: [], unreached: ['a', 'b'] }));
-		expect(tree.unreached).toEqual(['a', 'b']);
-	});
-
-	test('output that is not JSON is an error naming the verb, not a crash inside the tree', () => {
-		expect(() => parseDomainTree('error: no such flag\n')).toThrow(/did not print JSON/);
-	});
-
-	test('a node missing a field this reads is refused whole rather than half-built', () => {
-		const missingPersona = JSON.stringify({
-			repo: '/r',
-			roots: [{ slug: 'a', relPath: 'a.md', children: [] }],
-			unreached: [],
-		});
-		expect(() => parseDomainTree(missingPersona)).toThrow(/shape this cannot read/);
-	});
-
-	test('a shape defect nested deep is refused as surely as one at the top', () => {
-		const deep = JSON.stringify({
-			repo: '/r',
-			roots: [
-				{
-					slug: 'a',
-					relPath: 'a.md',
-					persona: 'aine',
-					position: null,
-					children: [{ slug: '', relPath: 'b.md', persona: 'aine', position: null, children: [] }],
-				},
-			],
-			unreached: [],
-		});
-		expect(() => parseDomainTree(deep)).toThrow(/shape this cannot read/);
-	});
-});
+};
 
 describe('countDomains', () => {
-	test('counts every row and not just the roots', () => {
-		expect(countDomains(parseDomainTree(ONE_ROOT).roots)).toBe(4);
+	test('counts every row at every depth, not just the roots', () => {
+		expect(countDomains(ONE_ROOT.roots)).toBe(4);
 	});
 
 	test('an empty tree is zero rather than an error', () => {
@@ -135,9 +57,14 @@ describe('countDomains', () => {
 });
 
 describe('documentPath', () => {
-	test('joins the relative path onto the repo the verb named', () => {
-		const tree = parseDomainTree(ONE_ROOT);
-		const node = tree.roots[0] as DomainNode;
-		expect(documentPath(tree, node)).toBe('/home/walton/repos/akasha/pages/domain/global.domain.md');
+	test('joins the relative path onto the repo the tree names', () => {
+		const node = ONE_ROOT.roots[0] as DomainNode;
+		expect(documentPath(ONE_ROOT, node)).toBe('/home/walton/repos/akasha/pages/domain/global.domain.md');
+	});
+
+	test('a domain deep in the tree is placed against the same repo as a root', () => {
+		const person = ONE_ROOT.roots[0]?.children.find((one) => one.slug === 'person') as DomainNode;
+		const alan = person.children[0] as DomainNode;
+		expect(documentPath(ONE_ROOT, alan)).toBe('/home/walton/repos/akasha/pages/domain/alan.domain.md');
 	});
 });

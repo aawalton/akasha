@@ -7,32 +7,28 @@
  * The domain championing tree, ASKED FOR rather than worked out here.
  *
  * WHY NOTHING IN THIS FILE WALKS THE CORPUS. Two graphs stand over those documents.
- * `domain-parents:` admits several values and many domains use several, so a view drawn
+ * `domain-parent-slug:` admits several values and many domains use several, so a view drawn
  * from that edge shows those domains once per parent — `tools/dag.ts` draws exactly that, and
- * draws it correctly. `champion-persona:` picks the one
- * parent championing descends, and that edge is a tree: one line per domain. A traversal written here
- * would be a second answer to who champions what, free to drift from the repository's own, and
- * it would be the one nobody watches. So `ops domain champions --tree --json` is called
- * and its answer is parsed.
+ * draws it correctly. `persona-champion-slug:` picks the one parent championing descends, and that
+ * edge is a tree: one line per domain. A traversal written here would be a second answer to who
+ * champions what, free to drift from the repository's own, and it would be the one nobody watches.
+ * So `championTree` is called — the same function `ops domain champions --tree` composes with.
  *
- * PARSED RATHER THAN CAST. This crosses a process boundary. A shape check here turns a
- * verb that changed underneath us into a message in the output channel, where a cast
- * would turn it into a tree half-built out of `undefined`.
+ * WHY IT NO LONGER SPAWNS `ops`. The verb read every document in the repository to answer, and
+ * from this panel that cost 18.3s of an activation on 2026-08-27, with the agent tree stuck behind
+ * it. The rows are asked of the pages now, one query per domain kind, answered from the same held
+ * deriver every other panel in this process reads through: 2.9s on the first ask and 96ms after.
+ *
+ * WHY THERE IS NOTHING LEFT TO PARSE. The shape check here guarded a process boundary, and a
+ * boundary that is gone needs no guard: `championTree` answers a `ChampionTree` or throws, and
+ * TypeScript is what says the shape is right.
  */
 
 import * as path from 'node:path';
-import { z } from 'zod';
-import { runOps } from '../../harness-call.ts';
-
-/**
- * The ceiling on the read. It scans every document in the repository, which takes a
- * second or so; past a minute the call has not worked, and saying so beats a panel that
- * never fills. A wait with no ceiling reports neither success nor failure.
- */
-const READ_TIMEOUT_MS = 60_000;
-
-/** The tree runs to a few hundred kilobytes of JSON. This is room to grow into, not a fit. */
-const MAX_BUFFER = 8 * 1024 * 1024;
+import { duringOneCall } from '../../../../during-call/during-call.ts';
+import { askedDomainRows } from '../../../../tools/lib/champions-asked.ts';
+import { championTree } from '../../../../tools/lib/champions-tree.ts';
+import { AKASHA, resolveRoots, rootFor } from '../../../../repo/roots/roots.ts';
 
 /** One domain and everything owned beneath it. */
 export interface DomainNode {
@@ -49,51 +45,11 @@ export interface DomainNode {
 }
 
 export interface DomainTree {
-	/** The repository the paths below are relative to. The verb says which, so nothing here decides. */
+	/** The repository the paths below are relative to. */
 	readonly repo: string;
 	readonly roots: readonly DomainNode[];
 	/** Domains no root reaches. Empty in a sound corpus; carried so a fault can be said out loud. */
 	readonly unreached: readonly string[];
-}
-
-// Recursive by getter, which is how a zod schema names itself before it is assigned.
-const DOMAIN_NODE_SCHEMA: z.ZodType<DomainNode> = z.object({
-	slug: z.string().min(1),
-	relPath: z.string().min(1),
-	persona: z.string().nullable(),
-	position: z.number().int().positive().nullable(),
-	get children() {
-		return z.array(DOMAIN_NODE_SCHEMA);
-	},
-});
-
-const DOMAIN_TREE_SCHEMA = z.object({
-	repo: z.string().min(1),
-	roots: z.array(DOMAIN_NODE_SCHEMA),
-	unreached: z.array(z.string()),
-});
-
-/**
- * The verb's answer, or a stated reason it is not usable.
- *
- * A THROW RATHER THAN AN EMPTY TREE. An empty tree is a claim — that the corpus holds no
- * domains — and this is never in a position to make it. The caller keeps the last good
- * tree on screen and writes the reason to its output channel.
- */
-export function parseDomainTree(stdout: string): DomainTree {
-	let value: unknown;
-	try {
-		value = JSON.parse(stdout);
-	} catch (err) {
-		throw new Error(`ops domain champions --tree --json did not print JSON: ${String(err)}`);
-	}
-	const parsed = DOMAIN_TREE_SCHEMA.safeParse(value);
-	if (!parsed.success) {
-		throw new Error(
-			`ops domain champions --tree --json printed a shape this cannot read: ${parsed.error.message}`
-		);
-	}
-	return parsed.data;
 }
 
 /** Every row in the tree, which is what makes "each domain once" a number rather than a hope. */
@@ -108,7 +64,7 @@ export function countDomains(nodes: readonly DomainNode[]): number {
 /**
  * The absolute path of a domain's document.
  *
- * Joined against the repo the verb named rather than against a path this extension holds:
+ * Joined against the repo the tree names rather than against a path this extension holds:
  * where that repository sits is the harness's fact, and a second copy of it here would be a
  * second thing to be wrong.
  */
@@ -117,15 +73,17 @@ export function documentPath(tree: DomainTree, node: DomainNode): string {
 }
 
 /**
- * Runs the verb through `harness-call`, which is where this extension decides what environment a
- * harness call runs in. This used to wrap the call in `/bin/bash -lc` on the belief that a login
- * shell put `bun` on the PATH for the `ops` shebang; it does not, and that is what left this panel
- * empty on 2026-08-13. See that file for the measurement.
+ * The tree, composed in this process.
+ *
+ * ONE CALL AROUND THE WHOLE READ. A page query is held against the file tree, the page type
+ * registry and the shape mark taken over both, and each of those is held for the length of a call
+ * and no longer. This asks once per domain kind — 45 of them — so outside a call it would work all
+ * three out 45 times over, in git subprocesses.
  */
 export async function readDomainTree(): Promise<DomainTree> {
-	const stdout = await runOps(['domain', 'champions', '--tree', '--json'], {
-		timeout: READ_TIMEOUT_MS,
-		maxBuffer: MAX_BUFFER,
+	const roots = resolveRoots();
+	return duringOneCall(async () => {
+		const { roots: composed, unreached } = championTree(askedDomainRows(roots));
+		return { repo: rootFor(roots, AKASHA), roots: composed, unreached };
 	});
-	return parseDomainTree(stdout);
 }
