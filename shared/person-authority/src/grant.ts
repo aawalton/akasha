@@ -1,6 +1,6 @@
 import { writePage } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
-import { type AuthorityKind, PERSON_AUTHORITY_SLUG } from "./page-type"
+import { type AuthorityKind, PERSON_AUTHORITY_SLUG } from "./page-type.ts"
 
 const WRITER = "person-authority"
 
@@ -34,9 +34,6 @@ async function existingGrantId(
     keys: ["id"],
     limit: 1,
   })
-  // A QUERY NOTHING ANSWERED IS NOT A GRANT THAT DOES NOT STAND. Handing `undefined` back here
-  // sent the caller on to mint a uuid and write a fresh page, which is a second grant for one that
-  // may already stand, carrying an id nothing else holds.
   if (!asked.ok) {
     throw new Error(
       `grantAuthority: whether \`${personSlug}\` already holds ${authorityKind} authority over \`${target}\` went unread, so nothing here says a grant is needed and a fresh one could be the second — ${asked.why}`

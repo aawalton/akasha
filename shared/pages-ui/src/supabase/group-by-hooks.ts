@@ -9,10 +9,10 @@ import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import { pageDayKey } from "@shared/pages-core/view/calendar-date-to-value"
 import { applyGranularityBucket } from "@shared/pages-core/view/group-granularity"
 import { useMemo } from "react"
-import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters"
-import { type PageWithProperties, toPageWithProperties } from "./types"
-import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages"
-import { viewFilterToCondition } from "./view-filter-to-condition"
+import { adjustTotalForClientFilters, applyClientViewFilters } from "./apply-client-view-filters.ts"
+import { type PageWithProperties, toPageWithProperties } from "./types.ts"
+import { type UsePagesSupabaseOptions, usePagesSupabase } from "./use-pages.tsx"
+import { viewFilterToCondition } from "./view-filter-to-condition.ts"
 
 interface GroupByArgs {
   pageTypeSlug: string
@@ -119,13 +119,6 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   }
 }
 
-/**
- * The rows off the server, filed under the group key each one belongs to.
- *
- * THE EMPTY GROUP IS `GROUP_NONE_KEY`, THE SAME KEY THE BROWSER KEYING PATH GIVES IT. This
- * spelt it `""`, so one concept stood under two names and every comparison downstream had to
- * know both; the ones that knew only `__none__` read a `""` key as an ordinary value.
- */
 export function bucketRowsByGroup(args: {
   rows: readonly Page[]
   groupPropertyId: string

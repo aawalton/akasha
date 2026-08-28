@@ -2,11 +2,11 @@ import { type GroupGranularity } from "@shared/pages-core/schema/view-data"
 import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import { type PropertyDefinition } from "@shared/pages-core/types"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"
-import type { PageWithProperties } from "../supabase/types"
-import { buildPageResolver } from "../view-engine/build-page-resolver"
-import { getPageGroupDefinition } from "../view-engine/generate-group-definitions"
-import { toPageDataRecord } from "./page-data-json"
-import type { ServerGroupedSection } from "./page-system-view-types"
+import type { PageWithProperties } from "../supabase/types.ts"
+import { buildPageResolver } from "../view-engine/build-page-resolver.ts"
+import { getPageGroupDefinition } from "../view-engine/generate-group-definitions.ts"
+import { toPageDataRecord } from "./page-data-json.ts"
+import type { ServerGroupedSection } from "./page-system-view-types.ts"
 
 interface GroupedSource {
   pages: readonly PageWithProperties[]
@@ -39,10 +39,6 @@ export function buildServerGroupedSections({
   )
   const sections: ServerGroupedSection[] = []
   for (const [groupValue, groupData] of groups) {
-    // A GROUP-BY PROPERTY THAT IS NOT AMONG THOSE GIVEN LEAVES NO DEFINITION TO ASK. Each
-    // property type states a `getLabel` of its own and every one of them answers "No Value"
-    // for the empty key, so this stands in for a `getLabel` there is none of, rather than
-    // correcting one that answered.
     const named =
       definition?.getLabel(groupValue) ??
       (groupValue === GROUP_NONE_KEY ? "No Value" : groupValue)

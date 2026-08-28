@@ -1,10 +1,5 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { grantAccess } from "./grant"
-
-// WHAT THIS PINS IS THAT A QUERY NOTHING ANSWERED IS NOT A GRANT THAT DOES NOT STAND. This mints a
-// uuid and writes a fresh grant page wherever it finds no standing one, and "finds none" covered a
-// query the store never answered as well as one it answered empty. Written, the fresh page is a
-// second grant for one that already stands, under an id nothing else knows.
+import { grantAccess } from "./grant.ts"
 
 function reply(body: unknown, status: number): Response {
   return new Response(JSON.stringify(body), {
@@ -17,7 +12,6 @@ type Served = { written: readonly string[] }
 
 let stop: (() => void) | null = null
 
-/** Every query and every write is refused, which is this store seen from an unreachable network. */
 function serveNothing(): Served {
   const served: Served = { written: [] }
   const real = globalThis.fetch

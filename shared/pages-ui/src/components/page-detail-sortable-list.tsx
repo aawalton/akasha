@@ -14,7 +14,7 @@ import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import { GripVertical } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import { type DropZoneInfo, findDropZone } from "./drop-zones"
+import { type DropZoneInfo, findDropZone } from "./drop-zones.ts"
 
 function SortablePropertyRow({
   id,
@@ -59,20 +59,6 @@ function SortablePropertyRow({
   )
 }
 
-/**
- * The rows of a page detail, reordered by dragging one of them.
- *
- * WHERE THE ROW LANDS IS MEASURED FROM THE POINTER, as it is on every other reorder surface
- * here. This took the answer from dnd-kit's `over` instead, which is the element its own
- * collision detection picked: with rows of unequal height, and with the drag overlay under the
- * pointer, that element is not always the row the pointer is over, and it never says which side
- * of that row the pointer is on — so the row landed on the wrong side of its neighbour with
- * nothing in the interface disagreeing. `findDropZone` is the same pure helper the sidebar
- * reorder reads, and it answers both the row and the side.
- *
- * NO ROW IS A NESTING TARGET here, so every item is handed to the helper as not-root, which is
- * the case in which it never answers `nest`.
- */
 export function SortablePropertyList({
   bodyDefs,
   onReorderDefinitions,

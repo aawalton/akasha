@@ -9,21 +9,21 @@ import { type PropertyDefinition } from "@shared/pages-core/types"
 import { deriveViewTargetSlugs } from "@shared/pages-ui-store/query/view-target-slugs"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { useCallback, useMemo } from "react"
-import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks"
-import { useRelatedPages } from "../supabase/hooks"
-import { usePageViewQuery } from "../supabase/hooks-view-query"
-import { type PageWithProperties } from "../supabase/types"
-import { useOptionListLookup } from "../supabase/use-option-list-lookup"
-import { viewDataOfPage } from "../supabase/view-data-of-page"
-import { type PageRow } from "../view-engine/page-row"
-import { useViewRowAggregates } from "../view-engine/use-view-row-aggregates"
-import { useViewRowRollups } from "../view-engine/use-view-row-rollups"
-import { buildServerGroupedSections } from "./build-server-grouped-sections"
-import { toPageDataRecord } from "./page-data-json"
-import type { PageTypeOption } from "./page-system-view-settings-types"
-import type { ServerGroupedSection } from "./page-system-view-types"
-import { buildPageTypeSlugMaps, resolveRowPageTypeSlug } from "./view-tab-content-href"
-import { selectViewQueryResult } from "./view-tab-content-results"
+import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks.ts"
+import { useRelatedPages } from "../supabase/hooks.ts"
+import { usePageViewQuery } from "../supabase/hooks-view-query.ts"
+import { type PageWithProperties } from "../supabase/types.ts"
+import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
+import { viewDataOfPage } from "../supabase/view-data-of-page.ts"
+import { type PageRow } from "../view-engine/page-row.ts"
+import { useViewRowAggregates } from "../view-engine/use-view-row-aggregates.ts"
+import { useViewRowRollups } from "../view-engine/use-view-row-rollups.ts"
+import { buildServerGroupedSections } from "./build-server-grouped-sections.ts"
+import { toPageDataRecord } from "./page-data-json.ts"
+import type { PageTypeOption } from "./page-system-view-settings-types.ts"
+import type { ServerGroupedSection } from "./page-system-view-types.ts"
+import { buildPageTypeSlugMaps, resolveRowPageTypeSlug } from "./view-tab-content-href.ts"
+import { selectViewQueryResult } from "./view-tab-content-results.ts"
 
 export interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined
@@ -286,14 +286,6 @@ export function useViewTabContentData({
     [rowPageTypeSlug, allPages, pageTypeSlugById]
   )
 
-  // AN AGGREGATE HAS TO STAND ON THE ROW, NOT ONLY IN THE CELL THAT DISPLAYS IT. The sort accessor
-  // reads `row[propertyId]` straight off these items — pages-core/src/view/sort-accessors.ts — so an
-  // aggregate folded in only at the leaf was never a sort key at all. It did not sort visibly badly
-  // either: `computeFillAggregatesForPage` is a fill, skipping any id the page already stores, so a
-  // row with a stored value sorted on that stale number while every other row sorted as null. The
-  // list came out ordered and plausible and wrong, which is worse than coming out unordered.
-  //
-  // Rollups were merged here for exactly this reason. Aggregates were left at the leaf beside them.
   const pageRows = useMemo<PageRow[]>(
     () =>
       pages.map((p) => {

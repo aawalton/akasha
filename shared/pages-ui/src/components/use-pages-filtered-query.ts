@@ -7,21 +7,21 @@ import { type ViewFilter } from "@shared/pages-core/schema/view-data"
 import { type PropertyDefinition } from "@shared/pages-core/types"
 import type { PageTypeSlug } from "@shared/pages-url"
 import { useMemo } from "react"
-import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks"
-import { useAllPages, useRelatedPages } from "../supabase/hooks"
-import { usePageViewQuery } from "../supabase/hooks-view-query"
-import { type PageWithProperties } from "../supabase/types"
-import { useOptionListLookup } from "../supabase/use-option-list-lookup"
-import { type PageRow } from "../view-engine/page-row"
-import { useViewRowAggregates } from "../view-engine/use-view-row-aggregates"
-import { buildBaseConditions } from "./base-conditions"
-import { buildServerGroupedSections } from "./build-server-grouped-sections"
-import { buildFlatQueryArgs } from "./flat-query-args"
-import { toPageDataRecord } from "./page-data-json"
-import type { ServerGroupedSection } from "./page-system-view-types"
-import { buildBaseFilters, buildSyntheticConfig } from "./synthetic-config"
-import { useEffectiveListing } from "./use-effective-listing"
-import { buildPageTypeSlugMaps } from "./view-tab-content-href"
+import { useGroupByPaginatedQuery } from "../supabase/group-by-hooks.ts"
+import { useAllPages, useRelatedPages } from "../supabase/hooks.ts"
+import { usePageViewQuery } from "../supabase/hooks-view-query.ts"
+import { type PageWithProperties } from "../supabase/types.ts"
+import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
+import { type PageRow } from "../view-engine/page-row.ts"
+import { useViewRowAggregates } from "../view-engine/use-view-row-aggregates.ts"
+import { buildBaseConditions } from "./base-conditions.ts"
+import { buildServerGroupedSections } from "./build-server-grouped-sections.ts"
+import { buildFlatQueryArgs } from "./flat-query-args.ts"
+import { toPageDataRecord } from "./page-data-json.ts"
+import type { ServerGroupedSection } from "./page-system-view-types.ts"
+import { buildBaseFilters, buildSyntheticConfig } from "./synthetic-config.ts"
+import { useEffectiveListing } from "./use-effective-listing.ts"
+import { buildPageTypeSlugMaps } from "./view-tab-content-href.ts"
 
 const PAGE_TYPE_SLUG = "page-type"
 
@@ -179,14 +179,6 @@ export function usePagesFilteredQuery(args: {
     propertiesByPageType,
   })
 
-  // AN AGGREGATE HAS TO STAND ON THE ROW, NOT ONLY IN THE CELL THAT DISPLAYS IT. These items reach
-  // `usePageView`, whose sort accessor reads `row[propertyId]` off them, so an aggregate computed
-  // only for display sorted on whatever the page happened to store under that id — stale where a
-  // value was written, null everywhere else — and produced a plausible wrong order.
-  //
-  // ROLLUPS ARE STILL NOT MERGED HERE. The second builder of these rows, in
-  // `use-view-tab-content-data.ts`, folds `useViewRowRollups` in; this one has never called it, so
-  // sorting this listing by a rollup has the fault this comment describes, unfixed.
   const pageRows = useMemo<PageRow[]>(
     () =>
       pages.map((p) => {

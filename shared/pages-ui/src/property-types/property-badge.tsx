@@ -9,8 +9,8 @@ import type { PageDataJSON, PropertyDefinition, PropertyType } from "@shared/pag
 import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
 import type { ComponentType } from "react"
 
-import { propertyBadgeRegistry } from "./badge-registry"
-import type { PropertyValue } from "./types"
+import { propertyBadgeRegistry } from "./badge-registry.ts"
+import type { PropertyValue } from "./types.ts"
 
 export type PropertyBadgeContext = "card" | "detail" | "title"
 
@@ -71,9 +71,6 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
   const Component = propertyBadgeRegistry[property.type]
   const lookup = (type: PropertyType) => propertyBadgeRegistry[type]
-  // A COMPUTED PROPERTY'S TYPE IS THE TYPE IT HOLDS, so an evaluation failure has no badge of its own to
-  // land in: the badge chosen from the type would render the error object as that type's blank value. Every
-  // property passes through here, and the error value comes back only for one carrying an expression.
   return (
     <BadgeLayoutProvider
       truncate={layout.truncate}
