@@ -31,7 +31,7 @@ export const help: CommandHelp = {
     {
       name: "--title",
       argLabel: "<name>",
-      valueShape: "token",
+      valueShape: "line",
       required: true,
       description: 'Short food name (e.g. "Shrimp & grits", "Broccoli")',
     },

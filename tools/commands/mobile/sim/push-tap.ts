@@ -43,7 +43,7 @@ export const help: CommandHelp = {
     {
       name: "--title",
       argLabel: "<text>",
-      valueShape: "token",
+      valueShape: "line",
       description: "Notification title (default: `Tap probe`).",
     },
   ],
