@@ -31,7 +31,7 @@ function git(patch: Patch, index: string, args: readonly string[]): Buffer {
   })
 }
 
-function named(patch: Patch, index: string, filter: string): readonly string[] {
+function named(patch: Patch, index: string, base: string, filter: string): readonly string[] {
   const out = git(patch, index, [
     "diff",
     "--cached",
@@ -39,15 +39,25 @@ function named(patch: Patch, index: string, filter: string): readonly string[] {
     "--name-only",
     `--diff-filter=${filter}`,
     "-z",
-    "HEAD",
+    base,
   ])
   return out.toString("utf8").split("\0").filter((one) => one !== "")
 }
 
-export function changedBy(patch: Patch, index: string): readonly string[] {
-  git(patch, index, ["read-tree", "HEAD"])
+// WHICH COMMIT THE PATCH STANDS OVER IS NAMED ONCE AND CARRIED THROUGH. `read-tree` fills the index
+// from the commit it is handed, and each `diff --cached` after it compares that index against the
+// commit IT is handed; where both are spelled `HEAD` they are resolved at different moments, and
+// other seats land on main at about six commits a minute while a large patch is applied and its
+// blobs are read. Every path those two commits differ on would then be handed to the checks as a
+// file this write changed, and refused as one its writer had not read.
+export function baseOf(patch: Patch, index: string): string {
+  return git(patch, index, ["rev-parse", "HEAD"]).toString("utf8").trim()
+}
+
+export function changedBy(patch: Patch, index: string, base: string): readonly string[] {
+  git(patch, index, ["read-tree", base])
   git(patch, index, ["apply", "--cached", patch.file])
-  return named(patch, index, "AM")
+  return named(patch, index, base, "AM")
 }
 
 export function applying(checks: readonly Check[], mechanical: boolean): readonly Check[] {
@@ -59,7 +69,8 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
   const index = `${held}/index`
   let made: string | null = null
   try {
-    const landing = changedBy(patch, index)
+    const base = baseOf(patch, index)
+    const landing = changedBy(patch, index, base)
     const staged = oidsUnder(patch.root, index)
     const changed = new Map<string, Buffer | null>()
     const subjects: Subject[] = []
@@ -69,7 +80,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
       const oid = staged.get(relPath)
       if (oid !== undefined) subjects.push({ at, oid })
     }
-    for (const relPath of named(patch, index, "D")) changed.set(resolve(patch.root, relPath), null)
+    for (const relPath of named(patch, index, base, "D")) changed.set(resolve(patch.root, relPath), null)
     const dir = (): string => {
       if (made === null) {
         made = mkdtempSync(`${SCRATCH}/patched-`)
