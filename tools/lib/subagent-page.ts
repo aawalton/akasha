@@ -7,9 +7,9 @@
  * under bun. See that file for the finding.
  */
 
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { placeHolding, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
+import { dirsOfPlaces, placeHolding, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import { frontmatterOf, seatNameForAgent } from "./seat-presence-read.ts"
@@ -20,8 +20,11 @@ import {
   subagentPagePathFor,
   subagentPageRelPath,
   subagentSeatName,
+  SUBAGENT_PAGE_SUFFIX,
   SUBAGENT_PAGE_TYPE,
 } from "./subagent-page-read.ts"
+
+const READINGS_SUFFIX = ".readings.uncommitted.attachment.json"
 
 const SCRATCH = "/var/tmp"
 
@@ -112,9 +115,51 @@ export function removeSubagentPage(agent: string): Outcome {
   return taken.code === 0 ? { kind: "removed" } : { kind: "refused", detail: whyRefused(taken.output) }
 }
 
+/**
+ * Readings sidecars standing under a seat with no page beside them.
+ *
+ * NOTHING ELSE CAN REACH THESE. `rm` takes a page's sidecars only as a consequence of taking the
+ * page, and `standingPagePathsOf` collects names ending `SUBAGENT_PAGE_SUFFIX` and nothing else, so
+ * a sidecar whose page has already gone is invisible to every sweep there is. No cutoff reaches one
+ * either: a delegate page carries no uncommitted file, so `replacedAt` over it is always 0 and
+ * `vouched` expires nothing. One such file stood in this repository with no page beside it when this
+ * was written, which is what says the leak is real rather than possible.
+ *
+ * IT ERRS TOWARD KEEPING. A sidecar goes only where its own page is absent and only under the seat
+ * being swept, and that sweep runs when a seat's process has just been replaced. The one live record
+ * it could take is a page's in the seconds between its removal and its remake — and reaching that
+ * needs the seat's process to have been replaced inside those seconds, by which point the delegate
+ * holding it is gone with the process anyway. Widening this to take a sidecar whose page merely
+ * looks idle would take live records, which is the fault this whole area is about.
+ */
+export function takeOrphanedReadings(
+  seatName: string,
+  dirs: readonly string[] = dirsOfPlaces(SUBAGENT_PLACES)
+): readonly string[] {
+  const mark = `${seatName}${SUBAGENT_MARK}`
+  const taken: string[] = []
+  for (const dir of dirs) {
+    let names: readonly string[]
+    try {
+      names = readdirSync(dir)
+    } catch {
+      continue
+    }
+    for (const name of names) {
+      if (!name.startsWith(mark) || !name.endsWith(READINGS_SUFFIX)) continue
+      const at = `${dir}/${name}`
+      if (existsSync(`${at.slice(0, -READINGS_SUFFIX.length)}${SUBAGENT_PAGE_SUFFIX}`)) continue
+      rmSync(at, { force: true })
+      taken.push(at)
+    }
+  }
+  return taken
+}
+
 export function removeSubagentPagesOf(seat: string, why: string): Outcome {
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return { kind: "unchanged" }
+  takeOrphanedReadings(seatName)
   const standing = standingPagePathsOf(seatName)
   if (standing.length === 0) return { kind: "unchanged" }
   const byRepo = new Map<string, string[]>()
