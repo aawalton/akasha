@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { discoverSynthFiles, generatedPathFor, loadSynthOutputs } from "@infra/k8s-synth/manifests"
 import { parseAllDocuments } from "yaml"
+import { type Ran, runKubectl } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
 import type { ClusterService, Service } from "../service/service.ts"
 
@@ -169,23 +170,6 @@ export function writeManifests(plan: Plan): readonly string[] {
     written.push(manifest.path)
   }
   return written
-}
-
-export interface Ran {
-  readonly argv: readonly string[]
-  readonly code: number
-  readonly stdout: string
-  readonly stderr: string
-}
-
-export function runKubectl(argv: readonly string[]): Ran {
-  const ran = Bun.spawnSync(["kubectl", ...argv], { stdout: "pipe", stderr: "pipe" })
-  return {
-    argv,
-    code: ran.exitCode,
-    stdout: new TextDecoder().decode(ran.stdout),
-    stderr: new TextDecoder().decode(ran.stderr),
-  }
 }
 
 export function applyOf(plan: Plan, manifest: Manifest): readonly string[] {

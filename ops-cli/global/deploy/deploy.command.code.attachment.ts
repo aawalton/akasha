@@ -8,6 +8,8 @@ import {
   relativeTo,
 } from "../../../deploy-system/deploy/deploy.ts"
 import { DeployRefused } from "../../../deploy-system/refusal/refusal.ts"
+import { keyOf, kindsOf, runningOf, unpaged, workloadOf } from "../../../deploy-system/running/running.ts"
+import type { ClusterService } from "../../../deploy-system/service/service.ts"
 import { everyService, serviceNamed } from "../../../deploy-system/service/service.ts"
 import { fail } from "../../../patches/patch.ts"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
@@ -27,11 +29,37 @@ function namedIn(argv: readonly string[]): readonly string[] {
 
 function listEvery(root: string): void {
   const every = [...everyService(root)].sort((one, other) => one.slug.localeCompare(other.slug))
+  const cluster = every.filter((one): one is ClusterService => one.where === "cluster")
+  const found = runningOf(kindsOf(cluster))
+  const running = found.reached ? new Set(found.workloads.map(keyOf)) : null
+
   for (const one of every) {
-    const where = one.where === "cluster" ? `${one.namespace}/${one.resourceName}` : "workstation"
-    process.stdout.write(`${one.slug.padEnd(34)}${where}\n`)
+    if (one.where !== "cluster") {
+      process.stdout.write(`${one.slug.padEnd(34)}workstation\n`)
+      continue
+    }
+    const where = `${one.namespace}/${one.resourceName}`
+    const state = running === null ? "" : running.has(keyOf(workloadOf(one))) ? "running" : "NOT RUNNING"
+    process.stdout.write(`${one.slug.padEnd(34)}${where.padEnd(42)}${state}\n`)
   }
   process.stdout.write(`\n${every.length} service(s) have a page\n`)
+
+  if (!found.reached) {
+    process.stderr.write(
+      `the cluster was not reached, so nothing above says which of these is running: ${found.why}\n`
+    )
+    return
+  }
+
+  const left = unpaged(found.workloads, cluster)
+  if (left.length === 0) {
+    process.stdout.write("every workload the cluster runs has a page\n")
+    return
+  }
+  process.stdout.write(`\n${left.length} workload(s) the cluster runs have no page:\n`)
+  for (const one of left) {
+    process.stdout.write(`  ${one.kind} ${one.namespace}/${one.name}\n`)
+  }
 }
 
 export const help = {
@@ -54,7 +82,12 @@ export const help = {
     "service. A workstation service is refused here.",
   irreversible: "irreversible" as const,
   flags: [
-    { name: LIST, description: "Name every service that has a page, and say where each runs." },
+    {
+      name: LIST,
+      description:
+        "Name every service that has a page, say where each runs and whether the cluster is " +
+        "running it, and name every workload it runs that no page names.",
+    },
     { name: DRY_RUN, description: "Report the synth, the manifests and the order; apply nothing." },
   ],
   positionals: [

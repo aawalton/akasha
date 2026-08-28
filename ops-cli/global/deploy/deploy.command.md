@@ -26,6 +26,10 @@ A service more than one synth emits is refused.
 
 A workstation service is refused here.
 
+A list says whether the cluster is running each service it names.
+
+A list names every workload the cluster runs that no page names.
+
 The namespace is applied before anything placed in it, and the workload after everything it reads.
 
 A deploy waits for the rollout of a workload that has one.
