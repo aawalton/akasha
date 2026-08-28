@@ -24,7 +24,14 @@ async function sweepStaleRun(
   staleAfterMs: number
 ): Promise<void> {
   const asked = await askPage(SYNC_SLUG, source)
-  if (!asked.ok) return
+  // A SYNC WITH NO PAGE YET HAS NO RUN TO SWEEP. A read that never reached the store is a different
+  // thing: a stale run may well stand, and going on would record a second run as running beside it.
+  if (asked.outcome === "absent") return
+  if (asked.outcome === "unasked") {
+    throw new Error(
+      `sweepStaleRun(${source}): whether a run of this sync is still marked running went unread, so a stale one could not be swept: ${asked.why}`
+    )
+  }
   const values = asked.page.values
   const runId = values["running-run"]
   if (typeof runId !== "string" || runId === "") return

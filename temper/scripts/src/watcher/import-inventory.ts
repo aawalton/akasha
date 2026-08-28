@@ -1,6 +1,6 @@
 import { getPages } from "@shared/pages-access/get"
 import { patchPage, patchRow } from "@shared/pages-query"
-import { askPage } from "@shared/pages-query/ask"
+import { askPage, type PageAsked } from "@shared/pages-query/ask"
 import type { SupabaseServiceRoleClient } from "../../../../shared/supabase-server/src/service-role"
 import { partitionUnmanagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { readManagedGuildBanks } from "@temper/game-items-core/inventory-guild-bank-types"
@@ -17,12 +17,25 @@ const NET_WORTH_DAY_PAGE_TYPE_SLUG = "temper-net-worth-day"
 const WRITER = "temper-import-inventory"
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
+/**
+ * A FRESH ID ONLY WHERE THE STORE SAID NO PAGE STANDS. A read that never reached the store says
+ * nothing about whether the page is there, and an id minted on it is a second identity for a page
+ * that already has one. Nothing but the write failing alongside the read has held that back.
+ */
+function mintedIfAbsent(asked: PageAsked, what: string): Readonly<Record<string, string>> {
+  if (asked.outcome === "found") return {}
+  if (asked.outcome === "absent") return { id: Bun.randomUUIDv7() }
+  throw new Error(
+    `${what} went unread, so nothing here says whether it already stands and a fresh id would give it a second identity: ${asked.why}`
+  )
+}
+
 async function landNetWorth(day: string, values: Readonly<Record<string, unknown>>): Promise<void> {
   const standing = await askPage(NET_WORTH_DAY_PAGE_TYPE_SLUG, day)
   const written = await patchPage(
     NET_WORTH_DAY_PAGE_TYPE_SLUG,
     day,
-    { ...(standing.ok ? {} : { id: Bun.randomUUIDv7() }), title: day, slug: day, date: day },
+    { ...mintedIfAbsent(standing, `the day ${day}`), title: day, slug: day, date: day },
     WRITER
   )
   if (!written.ok) throw new Error(`the day ${day} could not be written: ${written.why}`)
@@ -87,7 +100,7 @@ export async function runImportInventory(
     INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
     snapshotName,
     {
-      ...(standingSnapshot.ok ? {} : { id: Bun.randomUUIDv7() }),
+      ...mintedIfAbsent(standingSnapshot, `the inventory snapshot ${snapshotName}`),
       "account-page": userId,
       "data-timestamp": dataTimestamp,
       "total-value": totalValue,
@@ -109,7 +122,7 @@ export async function runImportInventory(
       INVENTORY_CHUNK_PAGE_TYPE_SLUG,
       chunkName,
       {
-        ...(standingChunk.ok ? {} : { id: Bun.randomUUIDv7() }),
+        ...mintedIfAbsent(standingChunk, `the inventory chunk ${chunkName}`),
         "account-page": userId,
         "chunk-index": i,
         inventory: snapshotName,

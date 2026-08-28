@@ -18,8 +18,6 @@ const ERROR_PAGE_TYPE = "error"
 
 const TITLE_BOUND = 200
 
-const ABSENT = 404
-
 const FRESH = "new"
 const REOPENED = "in-progress"
 const FIX_DEPLOYED = "fix-deployed"
@@ -28,8 +26,8 @@ type Standing = Readonly<Record<string, unknown>> | null
 
 async function standingPage(fingerprint: string): Promise<Standing> {
   const asked = await askPage(ERROR_PAGE_TYPE, fingerprint)
-  if (asked.ok) return asked.page.values
-  if (asked.status === ABSENT) return null
+  if (asked.outcome === "found") return asked.page.values
+  if (asked.outcome === "absent") return null
   throw new Error(
     `captureError: \`${fingerprint}\` went unread, so how many times it has broken this way is unknown and a write here would reset it — ${asked.why}`
   )

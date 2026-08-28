@@ -23,7 +23,7 @@ export async function readLiveVersion(
   fetcher: Fetcher = fetch
 ): Promise<LiveVersion> {
   const asked = await askPage(WEB_APP_PAGE_TYPE, webAppSlug, fetcher)
-  if (!asked.ok) return { ok: false, liveVersion: null, deployedAt: null }
+  if (asked.outcome !== "found") return { ok: false, liveVersion: null, deployedAt: null }
   return {
     ok: true,
     liveVersion: textIn(asked.page.values, LIVE_VERSION_KEY),

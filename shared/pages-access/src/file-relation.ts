@@ -83,21 +83,41 @@ export function namesNothing(value: string): boolean {
   return named === "" || named === SETTLED_BY_THE_ROW
 }
 
+/**
+ * WHETHER A NAMED PAGE STANDS, AND WHETHER ANYTHING LOOKED. `absent` is the corpus answering that
+ * it holds no such page; `unasked` is nothing having read the corpus at all. Collapsed into one
+ * boolean the two read alike, and a caller taking the second for the first tells its writer that
+ * the name it gave stands under nothing, when what happened is that nobody looked.
+ */
+export type Standing =
+  | { readonly outcome: "stands" }
+  | { readonly outcome: "absent" }
+  | { readonly outcome: "unasked"; readonly why: string }
+
 export async function standsUnder(
   targetSlug: string,
   name: string,
   deps: FileRelationDeps = LIVE
-): Promise<boolean> {
+): Promise<Standing> {
   const named = slugNamed(name)
   const page = await askPage(targetSlug, named)
-  if (page.ok) return true
+  if (page.outcome === "found") return { outcome: "stands" }
   const asked = await deps.ask({
     "page-type": targetSlug,
     keys: ["slug"],
     where: { slug: { is: named } },
     limit: 1,
   })
-  return asked.ok && asked.answer.rows.length > 0
+  if (!asked.ok) {
+    const first = page.outcome === "unasked" ? `${page.why}; and ` : ""
+    return { outcome: "unasked", why: `${first}${asked.why}` }
+  }
+  if (asked.answer.rows.length > 0) return { outcome: "stands" }
+  // THE SECOND ASK ANSWERS A NARROWER QUESTION THAN THE FIRST. It asks which pages carry `slug`,
+  // where the first asked which page stands at that name, so no row here settles absence unless
+  // the first was answered too.
+  if (page.outcome === "unasked") return { outcome: "unasked", why: page.why }
+  return { outcome: "absent" }
 }
 
 export type GetFilePagesByRelationArgs = {

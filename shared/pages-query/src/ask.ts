@@ -118,9 +118,22 @@ const WholeSchema = z.object({
 
 export type WholePage = z.infer<typeof WholeSchema>
 
+const ABSENT = 404
+
+/**
+ * WHETHER THE CORPUS WAS READ IS PART OF THE ANSWER. `absent` says the store answered and holds no
+ * page under that name; `unasked` says nothing was looked at. Collapsed into one `ok: false` the
+ * two read alike, and every caller that mints an id, writes a duplicate, or reports "no such page"
+ * off the failure has spent a read that never happened as though it were an answer.
+ *
+ * A 404 IS THE ONLY ABSENCE. The page query service answers a name it holds no page for with 404
+ * and with nothing else; every other refusal — no answer at all, a 5xx, a body this reader cannot
+ * parse — leaves the corpus unread, and says nothing about whether that page stands.
+ */
 export type PageAsked =
-  | { readonly ok: true; readonly page: WholePage }
-  | { readonly ok: false; readonly why: string; readonly status?: number }
+  | { readonly outcome: "found"; readonly page: WholePage }
+  | { readonly outcome: "absent"; readonly why: string }
+  | { readonly outcome: "unasked"; readonly why: string; readonly status?: number }
 
 export async function askPage(
   pageType: string,
@@ -132,16 +145,28 @@ export async function askPage(
   const what = `${pageType}/${name}`
   const url = `${pageQueryOrigin()}/page/${encodeURIComponent(pageType)}/${safeName}`
   const read = await asking((one) => readFromPageQueryService(url, what, one), fetcher, naps)
-  if (!read.ok) return read
+  if (!read.ok) {
+    if (read.status === ABSENT) {
+      return {
+        outcome: "absent",
+        why: `\`${what}\`: the corpus was read and holds no page under that name — ${read.why}`,
+      }
+    }
+    return {
+      outcome: "unasked",
+      why: read.why,
+      ...(read.status === undefined ? {} : { status: read.status }),
+    }
+  }
   const parsed = WholeSchema.safeParse(read.body)
   if (!parsed.success) {
     return {
-      ok: false,
-      why: `\`${what}\` replied in a shape this reader cannot read: ${parsed.error.message}`,
+      outcome: "unasked",
+      why: `\`${what}\` replied in a shape this reader cannot read, so nothing here saw whether that page stands: ${parsed.error.message}`,
     }
   }
   const page = parsed.data
-  return { ok: true, page: { ...page, values: openedValues(page.values) } }
+  return { outcome: "found", page: { ...page, values: openedValues(page.values) } }
 }
 
 const NamingSchema = z.object({

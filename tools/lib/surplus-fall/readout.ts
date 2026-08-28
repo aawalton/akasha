@@ -49,7 +49,7 @@ export function rungsOf(scale: ReadoutScale): readonly Rung[] {
 
 export async function dayArgumentOf(querySlug: string): Promise<string> {
   const asked = await askPage("page-query", querySlug)
-  if (!asked.ok) throw new Error(`dayArgumentOf: ${asked.why}`)
+  if (asked.outcome !== "found") throw new Error(`dayArgumentOf: ${asked.why}`)
   const takes = asked.page.values.takes
   if (takes === null || typeof takes !== "object" || Array.isArray(takes)) {
     throw new Error(

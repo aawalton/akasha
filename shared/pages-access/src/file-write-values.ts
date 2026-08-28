@@ -111,6 +111,20 @@ function unresolved(
   return `${op}(${pageTypeSlug}): \`${key}\` points at a \`${relation.targetSlug}\` page by name, and this write names \`${named}\`, which no \`${relation.targetSlug}\` page stands under. ${said(relation, translated)} Nothing has been written.`
 }
 
+// WHAT A REFUSAL MAY ASSERT IS BOUNDED BY WHETHER ANYTHING LOOKED. `unresolved` states that no page
+// stands under the name, which is true only where the target corpus was read. Where it was not,
+// this stands in its place and says what actually happened.
+function unreadTarget(
+  op: string,
+  pageTypeSlug: string,
+  key: string,
+  relation: RelationOnType,
+  named: string,
+  why: string
+): string {
+  return `${op}(${pageTypeSlug}): \`${key}\` points at a \`${relation.targetSlug}\` page by name, and this write names \`${named}\`, which went unlooked-for — ${why}. Nothing here says whether that page stands, so this is a read that failed rather than a name that is wrong. Nothing has been written.`
+}
+
 function unreadRoster(
   op: string,
   pageTypeSlug: string,
@@ -148,7 +162,14 @@ async function refuseUnresolvedRelations(
     for (const one of Array.isArray(held) ? held : [held]) {
       if (typeof one !== "string" || namesNothing(one)) continue
       const named = one.trim()
-      if (await standsUnder(relation.targetSlug, named)) continue
+      const standing = await standsUnder(relation.targetSlug, named)
+      if (standing.outcome === "stands") continue
+      if (standing.outcome === "unasked") {
+        throw new FileWriteError(
+          pageTypeSlug,
+          unreadTarget(op, pageTypeSlug, key, relation, named, standing.why)
+        )
+      }
       throw new FileWriteError(
         pageTypeSlug,
         unresolved(
