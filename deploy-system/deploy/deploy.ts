@@ -4,7 +4,7 @@ import { discoverSynthFiles, generatedPathFor, loadSynthOutputs } from "@infra/k
 import { parseAllDocuments } from "yaml"
 import { type Ran, runKubectl } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
-import { type Placed, placeSecrets } from "../secret/secret.ts"
+import { type Demand, type Placed, placeSecrets } from "../secret/secret.ts"
 import type { ClusterService, Service } from "../service/service.ts"
 
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
@@ -197,6 +197,7 @@ export interface Deployed {
   readonly written: readonly string[]
   readonly ran: readonly Ran[]
   readonly placed: readonly Placed[]
+  readonly unplaced: readonly Demand[]
 }
 
 export async function deploy(
@@ -212,20 +213,20 @@ export async function deploy(
   for (const manifest of opens) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran, placed: [] }
+    if (one.code !== 0) return { plan, written, ran, placed: [], unplaced: [] }
   }
   const secrets = placeSecrets(akasha, plan)
   ran.push(...secrets.ran)
   if (secrets.ran.some((one) => one.code !== 0)) {
-    return { plan, written, ran, placed: secrets.placed }
+    return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
   }
   for (const manifest of rest) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed }
+    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
   }
-  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed }
+  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
   const rollout = rolloutOf(plan)
   if (rollout !== null) ran.push(runKubectl(rollout))
-  return { plan, written, ran, placed: secrets.placed }
+  return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
 }

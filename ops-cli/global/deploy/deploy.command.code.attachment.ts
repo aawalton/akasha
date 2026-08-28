@@ -245,6 +245,12 @@ async function deploying(argv: readonly string[]): Promise<void> {
       `placed ${one.name} in ${plan.service.namespace} holding ${one.keys.join(", ")}\n`
     )
   }
+  for (const one of done.unplaced) {
+    process.stdout.write(
+      `${plan.service.slug} reads ${one.name} under ${one.key}, which no secret page places, ` +
+        `so the cluster keeps whatever it already holds there\n`
+    )
+  }
   await buildIfItBuilds(root, plan)
   recordApplied(root, plan, mark)
 }
