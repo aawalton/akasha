@@ -5,7 +5,7 @@ export const tool = {
 
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
@@ -64,7 +64,7 @@ const SEAT_ROOT = (): string => dirOfPlaceHeld(SEAT_WRITE).slice(0, -SEAT_WRITE.
 const UNCOMMITTED_SUFFIX = ".uncommitted.yaml"
 
 function seatNameOf(pagePath: string): string {
-  return slugOf(pagePath)
+  return fileStemOf(pagePath)
 }
 
 interface SidecarSweep {

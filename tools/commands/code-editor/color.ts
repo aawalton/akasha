@@ -8,7 +8,7 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
 import { placeDirOf } from "../../../page/page-types.ts"
 import { pageFileIn } from "../../../page/page-file.ts"
-import { stemOf as slugOf } from "../../../page/name/name"
+import { fileStemOf } from "../../../page/name/name"
 import { akashaRoot, resolveRoots } from "../../../repo/roots/roots"
 import { colorStatedOn, stateStandsAs } from "../../lib/seat-turn-color.ts"
 import { SEAT_TURN_STATES, type SeatTurnState } from "../../lib/seat-turn-state.ts"
@@ -97,7 +97,7 @@ function paletteIn(akasha: string): readonly Shade[] {
   const shades: Shade[] = []
   for (const name of [...names].sort()) {
     if (!name.endsWith(".md")) continue
-    const found = shadeIn(akasha, at, slugOf(name))
+    const found = shadeIn(akasha, at, fileStemOf(name))
     if (found !== null) shades.push(found)
   }
   return shades

@@ -1,5 +1,5 @@
 import { proseOnly } from "../page/markdown/markdown.ts"
-import { stemOf } from "../page/name/name.ts"
+import { fileStemOf } from "../page/name/name.ts"
 import { dirOf, relativeBetween, resolves } from "./between.ts"
 import type { Patch } from "./mention.ts"
 
@@ -51,9 +51,9 @@ export function linkPatches(
         const target = resolves(href, hostBefore)
         const lands = target === null ? undefined : moved.get(target)
         if (lands === undefined || target === null) continue
-        const named = stemOf(target)
-        if (label !== named || stemOf(lands) === named) continue
-        patches.push({ start: at + 1, end: at + 1 + label.length, text: stemOf(lands), was: label })
+        const named = fileStemOf(target)
+        if (label !== named || fileStemOf(lands) === named) continue
+        patches.push({ start: at + 1, end: at + 1 + label.length, text: fileStemOf(lands), was: label })
       }
     }
     offset += line.length + 1

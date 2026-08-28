@@ -8,7 +8,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { claimant, type PageType } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { claimedPages, emptyClaim } from "./pages-hold-shape.ts"
 
@@ -101,7 +101,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
       continue
     }
     under.filled.push({ relPath, name: read.name, stem: read.stem })
-    if (slugOf(relPath) === read.name) under.held.push(relPath)
+    if (pageStemOf(relPath) === read.name) under.held.push(relPath)
   }
 
   const refusals: string[] = []
@@ -147,7 +147,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
       if (one.held.includes(relPath)) continue
       refusals.push(
         `${relPath} - \`${one.type.slug}\` is named \`${one.template}\`, which fills to \`${name}\` ` +
-          `against a file named \`${slugOf(relPath)}\` - the name on disk and the name in the page differ`
+          `against a file named \`${pageStemOf(relPath)}\` - the name on disk and the name in the page differ`
       )
     }
   }

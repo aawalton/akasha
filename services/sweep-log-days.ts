@@ -5,7 +5,7 @@ export const tool = {
 
 import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
@@ -112,7 +112,7 @@ function removePages(
             "--repo",
             AKASHA,
             "--message",
-            `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => slugOf(one)).join(", ")}`,
+            `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
           ],
           root
         ),

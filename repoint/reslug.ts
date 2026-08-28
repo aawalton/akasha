@@ -7,7 +7,7 @@ import { type FileTree, diskFileTree } from "../page/file-tree.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { SLUG_WORD } from "../page/index/identity/identity.ts"
 import { bullets, sectionNamed } from "../page/markdown/markdown.ts"
-import { stemOf } from "../page/name/name.ts"
+import { fileStemOf } from "../page/name/name.ts"
 import { addressOf, addressParts } from "../page/page-address.ts"
 import type { Roots } from "../page/page.ts"
 import { reposOf } from "../page/page-types.ts"
@@ -79,8 +79,8 @@ export function reslugged(moves: Moves, roots: Roots): Reslugged {
   const carried = new Map<string, string>()
   for (const [from, to] of moves) {
     const slug = declaredBy(from, roots)
-    if (slug === null || slug === stemOf(to)) continue
-    carried.set(slug, stemOf(to))
+    if (slug === null || slug === fileStemOf(to)) continue
+    carried.set(slug, fileStemOf(to))
   }
   return carried
 }
@@ -131,10 +131,10 @@ export function slugEdges(moves: Moves, roots: Roots): Outcome {
   const notices: string[] = []
   for (const [from, to] of moves) {
     const slug = declaredBy(from, roots)
-    if (slug === null || slug === stemOf(to)) continue
+    if (slug === null || slug === fileStemOf(to)) continue
     const term = definitionOf(readFileSync(`${targetRoot(roots)}/${from}`, "utf8"))?.term ?? null
     notices.push(
-      `\`${to}\` carries \`${SLUG_WORD}: ${slug}\` → \`${stemOf(to)}\`, and every frontmatter value and ` +
+      `\`${to}\` carries \`${SLUG_WORD}: ${slug}\` → \`${fileStemOf(to)}\`, and every frontmatter value and ` +
         `link label naming it followed — each rewrite is printed above with the line it sits on.` +
         (term === null
           ? ""

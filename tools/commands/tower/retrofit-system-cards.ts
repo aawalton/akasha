@@ -2,7 +2,7 @@ export const summary = "Rewrite the System cards on archived Tower chapter pages
 
 import { readFile } from "node:fs/promises"
 import { parseTowerState } from "@alanwalton/tower-core/state-schema"
-import { stemOf as slugOf } from "../../../page/name/name"
+import { pageStemOf } from "../../../page/name/name"
 import {
   createProgressionState,
   extractSystemCards,
@@ -68,7 +68,7 @@ interface ChapterPage {
 }
 
 function nameIn(at: string): string {
-  return slugOf(at.replace(/^[a-z]+:/, ""))
+  return pageStemOf(at.replace(/^[a-z]+:/, ""))
 }
 
 export default async function towerRetrofitSystemCards(args: readonly string[]): Promise<void> {

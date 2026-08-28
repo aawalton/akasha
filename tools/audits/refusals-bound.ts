@@ -8,7 +8,7 @@ import { ownTypeScript } from "../lib/own-typescript.ts"
 import { refusalDirIn, fromDisk, refusalText } from "../lib/refusal.ts"
 import { judge, over } from "../../outcome/outcome"
 import { AKASHA as SIBLING, resolveRoots, rootFor } from "../../repo/roots/roots"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 
 const NAME = "refusals-bound"
 const CALL = "refusalText("
@@ -97,7 +97,7 @@ export const refusalsBound: Check = (repo) => {
   const documents = new Map<string, string[]>()
   const refusals = refusalDirIn(root)
   for (const relPath of new Glob(`${refusals}/*.md`).scanSync(root)) {
-    const slug = slugOf(relPath)
+    const slug = fileStemOf(relPath)
     documents.set(slug, declaredIn(readFileSync(`${root}/${relPath}`, "utf8")))
   }
 

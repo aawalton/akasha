@@ -6,7 +6,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { fileTreeOf } from "../page/page-file-tree.ts"
 import { claimant, pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import {
   bearersFor,
   relationsOn,
@@ -37,7 +37,7 @@ function readingFor(subject: Subject, types: readonly PageType[], tree: FileTree
       const held = chains.get(type.relPath)
       if (held !== undefined) return held
       const { relPaths } = chainOf(type, tree)
-      const made = relPaths === null ? [type.slug] : relPaths.map(slugOf)
+      const made = relPaths === null ? [type.slug] : relPaths.map((at) => pageStemOf(at))
       chains.set(type.relPath, made)
       return made
     },

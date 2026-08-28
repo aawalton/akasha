@@ -5,7 +5,7 @@ import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { bearersFor, relationsOn, unread, unresolvable, wantsOf, type Reading } from "../../page/relation/relation.ts"
 import { isAddressable, isDirty } from "../../repo/roots/roots"
 
@@ -20,7 +20,7 @@ export const relationsResolve: Check = (repo) => {
     const held = chains.get(type.relPath)
     if (held !== undefined) return held
     const { relPaths } = chainOf(type, tree)
-    const made = relPaths === null ? [type.slug] : relPaths.map(slugOf)
+    const made = relPaths === null ? [type.slug] : relPaths.map((at) => pageStemOf(at))
     chains.set(type.relPath, made)
     return made
   }

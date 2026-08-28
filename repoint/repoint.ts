@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { isGeneratedFile } from "../generated-file/generated-file.ts"
 import { judge, type Outcome, over, skip } from "../outcome/outcome.ts"
-import { stemOf } from "../page/name/name.ts"
+import { fileStemOf } from "../page/name/name.ts"
 import type { Roots } from "../page/page.ts"
 import { trackedIn } from "../page/tracked/tracked.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path.ts"
@@ -270,7 +270,7 @@ export function surveyRename(moves: Moves, roots: Roots, landing: Roots = roots)
     const before = normalizeAbsolute(`${root}/${relPath}`)
     const after = target === undefined ? before : normalizeAbsolute(`${landsIn}/${target}`)
     const relocating = after !== before
-    const ownStem = relocating ? stemOf(lands) : null
+    const ownStem = relocating ? fileStemOf(lands) : null
     const named = lands.endsWith(".ts")
       ? specifierPatches(body, before, after, moved, held)
       : NO_SPECIFIERS

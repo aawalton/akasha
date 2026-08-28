@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 
 import { readUncommitted } from "../page/uncommitted/uncommitted.ts"
 import { ALAN_PERSON, notify } from "../tools/lib/notify.ts"
@@ -97,7 +97,7 @@ function readingsUnder(root: string): readonly AccountReading[] {
     .map((name) => {
       const held = readUncommitted(`${at}/${name}`)
       return {
-        account: slugOf(name),
+        account: fileStemOf(name),
         held,
         why: held === null ? "no uncommitted file stands beside its page, or none that parsed" : null,
       }
