@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Check on the claude account credentials. From `cu` it looks like five may no longer be valid? Do I need to log back in with those to reset them?"
 registration-account: aawalton
 claude-code-session-uuid: 4a723bc7-a460-43a8-bbcb-e927c84a5ade
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/4a723bc7-a460-43a8-bbcb-e927c84a5ade.jsonl
