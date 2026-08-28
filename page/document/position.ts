@@ -1,34 +1,36 @@
 
 import type { Position, Span } from "./types.ts"
 
-export class Source {
+export type Source = {
   readonly text: string
   readonly lines: readonly string[]
-  private readonly starts: readonly number[]
+  readonly at: (line: number, column: number) => Position
+  readonly endOf: (line: number) => Position
+  readonly span: (line: number, from: number, to: number) => Span
+}
 
-  constructor(text: string) {
-    this.text = text
-    this.lines = text.split("\n")
-    const starts: number[] = []
-    let offset = 0
-    for (const line of this.lines) {
-      starts.push(offset)
-      offset += line.length + 1
-    }
-    this.starts = starts
+export function Source(text: string): Source {
+  const lines = text.split("\n")
+  const starts: number[] = []
+  let offset = 0
+  for (const line of lines) {
+    starts.push(offset)
+    offset += line.length + 1
   }
 
-  at(line: number, column: number): Position {
-    return { line: line + 1, column: column + 1, offset: (this.starts[line] ?? this.text.length) + column }
+  function at(line: number, column: number): Position {
+    return { line: line + 1, column: column + 1, offset: (starts[line] ?? text.length) + column }
   }
 
-  endOf(line: number): Position {
-    return this.at(line, this.lines[line]?.length ?? 0)
+  function endOf(line: number): Position {
+    return at(line, lines[line]?.length ?? 0)
   }
 
-  span(line: number, from: number, to: number): Span {
-    return { start: this.at(line, from), end: this.at(line, to) }
+  function span(line: number, from: number, to: number): Span {
+    return { start: at(line, from), end: at(line, to) }
   }
+
+  return { text, lines, at, endOf, span }
 }
 
 export type Located = { readonly text: string; readonly at: readonly Position[] }

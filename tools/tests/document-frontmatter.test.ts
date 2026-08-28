@@ -10,7 +10,7 @@ function plain(value: FrontmatterValue): unknown {
 }
 
 function read(block: string): { fields: Record<string, unknown>; unreadable: number } {
-  const source = new Source(`---\n${block}---\n\nbody\n`)
+  const source = Source(`---\n${block}---\n\nbody\n`)
   const { keys, unreadable } = frontmatter(source)
   return { fields: Object.fromEntries(keys.map((k) => [k.name, plain(k.value)])), unreadable: unreadable.length }
 }

@@ -106,7 +106,7 @@ export function slugPatches(
   ownStem: string | null
 ): readonly Patch[] {
   if (carried.size === 0) return []
-  const source = new Source(body)
+  const source = Source(body)
   const patches: Patch[] = []
   const follow = (value: FrontmatterValue, own: boolean): void => {
     if (value.kind === "list") {

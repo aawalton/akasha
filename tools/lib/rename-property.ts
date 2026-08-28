@@ -62,7 +62,7 @@ export function applied(body: string, patches: readonly Patch[]): string {
 
 export function frontmatterKeyAt(body: string, key: string): readonly number[] {
   const found: number[] = []
-  for (const one of readBlock(new Source(body)).keys) {
+  for (const one of readBlock(Source(body)).keys) {
     if (one.name !== key) continue
     const at = one.span.start.offset
     if (body.slice(at, at + key.length) === key) found.push(at)
@@ -242,7 +242,7 @@ export function currentMtime(root: string, relPath: string): number | null {
 }
 
 export function keyValuePatch(body: string, relPath: string, next: string): Patch | string {
-  const stated = readBlock(new Source(body)).keys.find((one) => one.name === PROPERTY_KEY)
+  const stated = readBlock(Source(body)).keys.find((one) => one.name === PROPERTY_KEY)
   if (stated === undefined || stated.value.kind !== "scalar") {
     return `${relPath} states no scalar \`${PROPERTY_KEY}:\`, so nothing here names the key it governs`
   }

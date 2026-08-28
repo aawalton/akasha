@@ -28,7 +28,7 @@ function plain(value: FrontmatterValue): unknown {
 export function parseFrontmatter(body: string): Frontmatter {
   const text = body.replace(/\r\n/g, "\n")
   if (!text.startsWith("---\n")) return EMPTY
-  const source = new Source(text)
+  const source = Source(text)
   const { keys, below, unreadable } = readBlock(source)
   if (unreadable.length > 0) {
     const at = unreadable.map((span) => span.start.line).join(", ")

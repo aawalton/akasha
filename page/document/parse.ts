@@ -264,7 +264,7 @@ function fold(tokens: readonly Token[]): Section[] {
 }
 
 export function parse(text: string, path: string): Document {
-  const source = new Source(text.replace(/\r\n/g, "\n"))
+  const source = Source(text.replace(/\r\n/g, "\n"))
   const { keys, below, unreadable } = frontmatter(source)
   return {
     path,
