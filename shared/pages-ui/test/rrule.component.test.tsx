@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, mock } from "bun:test"
-import { getEsoDayStr } from "../../../../../../akasha/day/day"
+import { getEsoDayStr } from "../../../day/day.ts"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { PropertyDefinition } from "@shared/pages-core/types"

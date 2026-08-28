@@ -7,7 +7,8 @@
  * DO NOT EDIT — regenerate with: ops temper addon-data generate
  */
 
-import type { Dungeon, QuestGiver } from "../../../../../code/packages/temper/shared/foundation-misc/dungeons/src"
+import type { Dungeon } from "../dungeon-registry"
+import type { QuestGiver } from "../pledge-rotation"
 
 export const TEMPER_DUNGEONS = [
   { key: "AC", label: "Arx Corinium", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 6 },

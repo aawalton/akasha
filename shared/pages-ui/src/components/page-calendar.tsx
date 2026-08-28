@@ -8,7 +8,7 @@ import { Heading } from "@shared/design-primitives/components/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { buildMonthGrid, CALENDAR_WEEKDAY_LABELS, monthKeyOf, shiftMonth } from "@shared/pages-core/view/calendar-grid"
-import { getEsoDayStr } from "../../../../../../../akasha/day/day"
+import { getEsoDayStr } from "../../../../day/day.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,
