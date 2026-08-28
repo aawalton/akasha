@@ -145,7 +145,7 @@ export const pageWith = (writing: Writing): Front => {
 
   const composing: Composing =
     seq === null
-      ? { pageType: writing.pageType, id, entries, body: writing.body }
-      : { pageType: writing.pageType, id, seq, entries, body: writing.body }
+      ? { pageType, id, entries, body: writing.body }
+      : { pageType, id, seq, entries, body: writing.body }
   return frontOf(composing)
 }
