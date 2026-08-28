@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, it, mock, spyOn } from "bun:test"
 import { cleanup, renderHook } from "@shared/utils-test"
+import { setStoreDiagnosticsSink } from "@shared/pages-ui-store/diagnostics"
 import { waitFor } from "@testing-library/react"
 
 let whenSlugReadyImpl: () => Promise<undefined> = async () => undefined
@@ -13,29 +14,9 @@ const fakeStore = {
   setAuth: () => undefined,
 }
 
-const realPagesStore = await import("@shared/pages-ui-store")
-const realEmitStoreDiagnostic = realPagesStore.emitStoreDiagnostic
-const realSetStoreDiagnosticsSink = realPagesStore.setStoreDiagnosticsSink
-
-await mock.module("@shared/pages-ui-store", () => ({
-  FILE_BACKING_POLL_MS: realPagesStore.FILE_BACKING_POLL_MS,
-  configurePagesStoreFetch: realPagesStore.configurePagesStoreFetch,
+await mock.module("@shared/pages-ui-store/singleton", () => ({
   getPagesStore: async () => fakeStore,
   awaitPagesStoreReady: async () => fakeStore,
-  configurePagesStoreAuth: async () => undefined,
-  configurePagesPersistence: () => undefined,
-  configureContentPersistence: realPagesStore.configureContentPersistence,
-  getContentPersistence: realPagesStore.getContentPersistence,
-  createRegularPipeline: () => ({}),
-  createIdSuffixPipeline: () => ({}),
-  createViewPipeline: () => ({}),
-  deriveViewTargetSlugs: realPagesStore.deriveViewTargetSlugs,
-  runPagesOptimisticMutation: async () => undefined,
-  setStoreDiagnosticsSink: realSetStoreDiagnosticsSink,
-  emitStoreDiagnostic: realEmitStoreDiagnostic,
-  reportPagesStoreStall: async () => undefined,
-  PageRowSchema: realPagesStore.PageRowSchema,
-  ShapeResumeStateSchema: realPagesStore.ShapeResumeStateSchema,
 }))
 
 const { useAcquireSlug, usePipelineLive } = await import("./tanstack-live")
@@ -74,7 +55,7 @@ describe("usePipelineLive read()-throw surfacing (#15044)", () => {
     const thrown = new Error("pipeline read boom — durable")
     const errorSpy = spyOn(console, "error").mockImplementation(() => undefined)
     const sink = mock((_d: { reason: string; message: string; detail: string }) => undefined)
-    realSetStoreDiagnosticsSink(sink)
+    setStoreDiagnosticsSink(sink)
     try {
       const makePipeline = () => ({
         read: () => {
@@ -96,7 +77,7 @@ describe("usePipelineLive read()-throw surfacing (#15044)", () => {
       expect(diagnostic?.reason).toBe("view-read-throw")
       expect(diagnostic?.detail).toContain("pipeline read boom — durable")
     } finally {
-      realSetStoreDiagnosticsSink(null)
+      setStoreDiagnosticsSink(null)
       errorSpy.mockRestore()
     }
   })
@@ -162,7 +143,7 @@ describe("useAcquireSlug degrade-granted readiness (#16113)", () => {
         releaseFold = () => resolve(undefined)
       })
     const sink = mock((_d: { reason: string; message: string; detail: string }) => undefined)
-    realSetStoreDiagnosticsSink(sink)
+    setStoreDiagnosticsSink(sink)
     try {
       const { result } = renderHook(() => useAcquireSlug("temper-account-character"))
 
@@ -177,7 +158,7 @@ describe("useAcquireSlug degrade-granted readiness (#16113)", () => {
       await waitFor(() => expect(result.current.degraded).toBe(false), { timeout: 8000 })
       expect(result.current.ready).toBe(true)
     } finally {
-      realSetStoreDiagnosticsSink(null)
+      setStoreDiagnosticsSink(null)
       releaseFold?.()
     }
   })
