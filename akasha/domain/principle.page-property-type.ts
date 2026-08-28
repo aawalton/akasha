@@ -1,12 +1,12 @@
 import type { PagePropertyType } from "../page/page-property-type.page-type.ts"
 import type { Directive } from "./directive.page-property-type.ts"
 
-export type Rules = readonly Directive[]
+export type Principle = readonly Directive[]
 
-export const rules = {
-  id: "01a049c9-3a2c-78fd-beff-2bdcf7275be9",
-  slug: "rules",
-  definition: "the standing instructions a domain leaves only to be obeyed",
+export const principle = {
+  id: "01a049c9-3a2c-7fb1-b669-33a23413d326",
+  slug: "principle",
+  definition: "a truth packed tight so it reaches many cases",
   extendsSlug: null,
   nameFormatSlug: null,
   max: null,

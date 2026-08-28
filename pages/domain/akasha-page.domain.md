@@ -23,6 +23,8 @@ A page is one exported object, named for the page's slug.
 
 A page has no body; every section is a property.
 
+Every page is settled, and nothing records it.
+
 Some page properties have their own files.
 
 Some page property files are not TypeScript files.
