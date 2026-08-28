@@ -183,10 +183,9 @@ describe("what a put hands the landing where no page stands", () => {
   it("hands the caller back the landing's refusal as the write's own", () => {
     const root = rootWith({})
     answering = { refused: "the tree moved under this write" }
-    expect(putPage(putting(root, { title: text("Thing") }, FRESH_BODY))).toEqual({
-      kind: "refused",
-      why: "the tree moved under this write",
-    })
+    expect(whyOf(putPage(putting(root, { title: text("Thing") }, FRESH_BODY)))).toBe(
+      "the tree moved under this write"
+    )
   })
 })
 
