@@ -1,7 +1,8 @@
-import { beforeEach, describe, expect, it } from "bun:test"
+import { afterEach, beforeEach, describe, expect, it } from "bun:test"
 import type { ComposedQuery, NamingAsk, NamingAsked } from "@shared/pages-query/ask"
+import { fetchThrough } from "@shared/pages-query/fetcher"
 import type { QueryRow } from "../../pages-query/src/answer-schema"
-import type { Asked } from "../../pages-query/src/index"
+import type { Asked, Fetcher } from "../../pages-query/src/index"
 import type { FileReadDeps } from "./file-read"
 import { forgetFilePageRuns, setFileBackedPageTypes } from "./file-read"
 import type { FileRelationDeps } from "./file-relation"
@@ -120,6 +121,59 @@ const PAGE_TYPE_ROWS: readonly QueryRow[] = [
   { at: "fixture:zoo/kinds/task.md", values: { slug: "task", id: TASK_TYPE_ID } },
 ]
 
+/**
+ * Answer the shape ask off the same fixtures the composed-query stub answers from.
+ *
+ * A WORLD HANDED IN DOES NOT REACH THE SHAPE. `filePropertyDefinitions` asks a page type's shape by
+ * URL rather than through the `ask` these tests pass, so `serving(world(n))` leaves that one read
+ * dialing an origin. `@shared/pages-query` answers through an installed fetcher where one is
+ * installed, which is what `ops` does on this workstation, so the shape is served the same way here
+ * rather than over a wire.
+ */
+function declaredBy(row: QueryRow): Record<string, unknown> {
+  const key = String(row.values.key)
+  return {
+    key,
+    type: String(row.values.type),
+    title: key,
+    pageId: String(row.at),
+    on: String(row.values["defined-on-slug"]),
+    values: null,
+    targetSlug: row.values["target-slug"] ?? null,
+    slugProperty: null,
+    mayBeGone: false,
+  }
+}
+
+function shapeOf(pageTypeSlug: string): Record<string, unknown> | null {
+  const stated = PAGE_TYPE_ROWS.find((row) => row.values.slug === pageTypeSlug)
+  if (stated === undefined) return null
+  return {
+    pageType: pageTypeSlug,
+    pageTypeId: String(stated.values.id),
+    ownerSlug: null,
+    declarations: PROPERTY_DEFINITIONS.filter(
+      (row) => row.values["defined-on-slug"] === pageTypeSlug
+    ).map(declaredBy),
+  }
+}
+
+const answered = (body: unknown, status: number): Promise<Response> =>
+  Promise.resolve(
+    new Response(JSON.stringify(body), {
+      status,
+      headers: { "content-type": "application/json" },
+    })
+  )
+
+const servingShapes: Fetcher = (url: string) => {
+  const asked = /^\/shape\/(.+)$/.exec(new URL(url).pathname)
+  if (asked === null) return answered({ why: `this world answers only a shape ask, not ${url}` }, 501)
+  const shape = shapeOf(decodeURIComponent(asked[1] ?? ""))
+  if (shape === null) return answered({ why: "no page type stands there" }, 404)
+  return answered(shape, 200)
+}
+
 function world(howMany: number): Held {
   return {
     task: taskRows(howMany),
@@ -135,7 +189,12 @@ function idsOf(rows: readonly Page[]): readonly string[] {
   return rows.map((row) => String(row.id))
 }
 
+afterEach(() => {
+  fetchThrough(null)
+})
+
 beforeEach(() => {
+  fetchThrough(servingShapes)
   forgetFilePageRuns()
   forgetFileShapes()
   setFileBackedPageTypes(["task"])
