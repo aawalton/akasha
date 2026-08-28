@@ -5,7 +5,7 @@ title: "Session tracking safety gap"
 defined-on-slug: page-type/session-tracking
 key: safety-gap
 type: number
-expression: '({safety-level} ?? 0) - ({difficulty-level} ?? 0)'
+expression: '{safety-level} - {difficulty-level}'
 slug: session-tracking-safety-gap
 domain-parent-slug: page-type/session-tracking
 ---
