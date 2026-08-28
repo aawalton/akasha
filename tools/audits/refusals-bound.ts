@@ -6,7 +6,7 @@ import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
 import { REFUSAL_DIR, refusalText } from "../../refusal/refusal.ts"
 import { judge, over } from "../../outcome/outcome"
-import { AKASHA as SIBLING, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, rootFor } from "../../repo/roots/roots"
 import { fileStemOf } from "../../page/name/name"
 
 const NAME = "refusals-bound"
@@ -92,89 +92,79 @@ function declaredIn(body: string): string[] {
 const listed = (names: readonly string[]): string => names.map((name) => `\`${name}\``).join(", ")
 
 export const refusalsBound: Check = (repo) => {
-  const root = rootFor(repo.roots, SIBLING)
+  const root = rootFor(repo.roots, AKASHA)
   const documents = new Map<string, string[]>()
   for (const relPath of new Glob(`${REFUSAL_DIR}/*.md`).scanSync(root)) {
     const slug = fileStemOf(relPath)
     documents.set(slug, declaredIn(readFileSync(`${root}/${relPath}`, "utf8")))
   }
 
-  const sibling = resolveRoots()[SIBLING]
-  const trees: readonly { at: string; said: (relPath: string) => string }[] = [
-    { at: root, said: (relPath) => relPath },
-    ...(typeof sibling === "string"
-      ? [{ at: sibling, said: (relPath: string) => `${SIBLING}/${relPath}` }]
-      : []),
-  ]
-
   const failures: string[] = []
   const printed = new Set<string>()
   let callers = 0
-  for (const tree of trees)
-    for (const key of ownTypeScript(tree.at)) {
-      const relPath = tree.said(key)
-      if (relPath.endsWith(TESTS)) continue
-      const source = readFileSync(`${tree.at}/${key}`, "utf8")
-      const spots: number[] = []
-      for (let at = source.indexOf(CALL); at !== -1; at = source.indexOf(CALL, at + CALL.length))
-        if (!QUOTED.includes(source[at - 1] ?? "") && !DECLARES.test(source.slice(0, at)))
-          spots.push(at)
-      if (spots.length === 0) continue
-      callers += 1
-      for (const at of spots) {
-        const args = source.slice(at + CALL.length)
-        const call = spanOf(source, at + CALL.length - 1)
-        const first =
-          call === null || call.splits.length === 0 ? null : call.splits[0]! - (at + CALL.length)
-        const slugs = first === null ? null : slugsOf(args.slice(0, first))
-        if (first === null || slugs === null) {
-          failures.push(refusalText("refusal-slug-not-literal", { path: relPath }, root))
+  for (const relPath of ownTypeScript(root)) {
+    if (relPath.endsWith(TESTS)) continue
+    const source = readFileSync(`${root}/${relPath}`, "utf8")
+    const spots: number[] = []
+    for (let at = source.indexOf(CALL); at !== -1; at = source.indexOf(CALL, at + CALL.length))
+      if (!QUOTED.includes(source[at - 1] ?? "") && !DECLARES.test(source.slice(0, at)))
+        spots.push(at)
+    if (spots.length === 0) continue
+    callers += 1
+    for (const at of spots) {
+      const args = source.slice(at + CALL.length)
+      const call = spanOf(source, at + CALL.length - 1)
+      const first =
+        call === null || call.splits.length === 0 ? null : call.splits[0]! - (at + CALL.length)
+      const slugs = first === null ? null : slugsOf(args.slice(0, first))
+      if (first === null || slugs === null) {
+        failures.push(refusalText("refusal-slug-not-literal", { path: relPath }, root))
+        continue
+      }
+      const keys = args
+        .slice(first + 1)
+        .trimStart()
+        .startsWith("{")
+        ? keysOf(args, first + 1)
+        : null
+      if (keys === null) {
+        failures.push(
+          refusalText(
+            "refusal-values-unreadable",
+            { path: relPath, slug: slugs.join(", ") },
+            root
+          )
+        )
+        continue
+      }
+      for (const slug of slugs) {
+        const declared = documents.get(slug)
+        if (declared === undefined) {
+          failures.push(refusalText("refusal-document-absent", { path: relPath, slug }, root))
           continue
         }
-        const keys = args
-          .slice(first + 1)
-          .trimStart()
-          .startsWith("{")
-          ? keysOf(args, first + 1)
-          : null
-        if (keys === null) {
+        printed.add(slug)
+        const missing = declared.filter((hole) => !keys.includes(hole))
+        const surplus = keys.filter((key) => !declared.includes(key))
+        if (missing.length > 0)
           failures.push(
             refusalText(
-              "refusal-values-unreadable",
-              { path: relPath, slug: slugs.join(", ") },
+              "refusal-hole-unfilled",
+              { path: relPath, slug, holes: listed(missing) },
               root
             )
           )
-          continue
-        }
-        for (const slug of slugs) {
-          const declared = documents.get(slug)
-          if (declared === undefined) {
-            failures.push(refusalText("refusal-document-absent", { path: relPath, slug }, root))
-            continue
-          }
-          printed.add(slug)
-          const missing = declared.filter((hole) => !keys.includes(hole))
-          const surplus = keys.filter((key) => !declared.includes(key))
-          if (missing.length > 0)
-            failures.push(
-              refusalText(
-                "refusal-hole-unfilled",
-                { path: relPath, slug, holes: listed(missing) },
-                root
-              )
+        if (surplus.length > 0)
+          failures.push(
+            refusalText(
+              "refusal-value-surplus",
+              { path: relPath, slug, values: listed(surplus) },
+              root
             )
-          if (surplus.length > 0)
-            failures.push(
-              refusalText(
-                "refusal-value-surplus",
-                { path: relPath, slug, values: listed(surplus) },
-                root
-              )
-            )
-        }
+          )
       }
     }
+  }
 
   for (const slug of [...documents.keys()].sort())
     if (!printed.has(slug)) failures.push(refusalText("refusal-document-unprinted", { slug }, root))
