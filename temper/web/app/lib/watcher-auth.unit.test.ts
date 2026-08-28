@@ -14,16 +14,30 @@ let enrolment: Page | null = null
 let patchFails: Error | null = null
 let patchCalls: unknown[] = []
 
+function unreached(name: string): () => never {
+  return () => {
+    throw new Error(`watcher-auth.unit.test: ${name} is not stubbed and must not be reached`)
+  }
+}
+
 mock.module("@shared/pages-access/get", () => ({
   getPage: async (): Promise<Page | null> => enrolment,
+  getPageByIdSuffix: unreached("getPageByIdSuffix"),
+  getPageByIdSuffixAcrossTypes: unreached("getPageByIdSuffixAcrossTypes"),
+  getPages: unreached("getPages"),
+  shapelessWhy: unreached("shapelessWhy"),
+  unfiledWhy: unreached("unfiledWhy"),
 }))
 
 mock.module("@shared/pages-access/patch", () => ({
+  patchPage: unreached("patchPage"),
   patchPageById: async (args: unknown): Promise<Page | null> => {
     patchCalls.push(args)
     if (patchFails !== null) throw patchFails
     return enrolment
   },
+  patchPages: unreached("patchPages"),
+  recordPageView: unreached("recordPageView"),
 }))
 
 const { validateWatcherToken, watcherTokenHash } = await import("./watcher-auth")
