@@ -1,5 +1,32 @@
 import type { Case } from "../../lib/formula-conformance.ts"
 
+// ---------------------------------------------------------------------------
+// Paths, brackets and list literals
+//
+// THE SUBSTRATE DIFFERENCE HERE IS OF REPRESENTATION, NOT OF ABSENCE.
+//
+// These cases used to say that a page cannot hold an object at all, and that no
+// increment to our evaluator could reach one. Both were false, found 2026-08-27.
+// An uncommitted sidecar is YAML and carries nested maps on disk today, and
+// `carried` at `tools/lib/page-carry.ts:19` hands anything that is not a scalar
+// or a flat list across as JSON text. So the object does reach the file side.
+// What it reaches as is a string, which is why a step into it answers absent
+// where the reference answers a value.
+//
+// That gap could be closed by parsing the text and walking it. We have not, and
+// the case that asked for it was answered another way. A seat's sidecar wraps
+// every value it stamps as `{value, at}` — all eleven keys, `model` and
+// `cost-usd` as much as `turn-state`. A shape carried by every key of a store is
+// that store's frame rather than the data's, so the answer settled with Alan was
+// to unwrap the envelope rather than to give the language a way to read into it.
+// Reaching in would have made a storage detail part of what every page type has
+// to declare, and every formula in the system would name `{model.value}` forever
+// on account of it.
+//
+// So this is a ruling and not an impossibility. Paths are refused until a case
+// needs them that unwrapping cannot answer, rather than refused for good.
+// ---------------------------------------------------------------------------
+
 export const PATH_CASES: readonly Case[] = [
   {
     id: "dot-reads-an-object-property",
@@ -10,7 +37,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "v" },
     why:
-      "`o` has to hold an object with a `k` in it for the step to mean anything, and a page's frontmatter carries text or a list of text, so the file side cannot be handed that object at all. No increment to our evaluator could change that",
+      "the file side is handed `o` as the JSON text `{\"k\":\"v\"}` rather than as a map, so the step meets a string where the reference meets an object, and a step into a string answers absent",
   },
   {
     id: "dot-missing-property-is-null",
@@ -21,7 +48,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: null },
     why:
-      "the key this reads past is missing from an object, and no page can hold the object for it to be missing from. No increment to our evaluator could change that",
+      "both sides answer null and neither reaches it the same way: the reference misses a key in a map, and the file side holds JSON text with no keys to miss",
   },
   {
     id: "dot-reads-two-steps",
@@ -32,7 +59,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "1" },
     why:
-      "the second step lands in an object nested under `k`, and frontmatter carries nothing nested two deep for a walk to reach. No increment to our evaluator could change that",
+      "a second step needs a map inside a map, and the file side carries the whole nesting flattened into one JSON string, so neither step lands",
   },
   {
     id: "dot-through-null-is-null",
@@ -52,7 +79,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: null },
     why:
-      "the null this stops on is a null standing inside an object, which only the database side can hold — a file has no way to write one. No increment to our evaluator could change that",
+      "the null this stops on is one standing inside a map, and the file side carries that map as text, so the walk stops at the string rather than at the null",
   },
   {
     id: "bracket-reads-an-object-property",
@@ -63,7 +90,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "v" },
     why:
-      "the object a bracket reads into stands only on the database side, so a file poses nothing for the bracket to be built against. No increment to our evaluator could change that",
+      "the bracket is built against `o`, which reaches the file side as JSON text, so there is a string to index rather than a map to read",
   },
   {
     id: "bracket-key-from-a-value",
@@ -74,7 +101,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "v" },
     why:
-      "what this case exists to show — a key taken from another value — needs an object to take that key into, and no file carries one. No increment to our evaluator could change that",
+      "what this case exists to show — a key taken from another value — needs a map to take that key into, and the file side holds that map as text",
   },
   {
     id: "bracket-missing-key-is-null",
@@ -85,7 +112,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: null },
     why:
-      "the key this misses is missing from an object the file side cannot hold, so a file would pose the case with nothing to miss. No increment to our evaluator could change that",
+      "both sides answer null for unlike reasons: the reference misses a key a map has room for, and the file side has a JSON string with no keys at all",
   },
   {
     id: "bracket-on-null-is-null",
@@ -105,7 +132,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: null },
     why:
-      "a null on either side short-circuits before any type is judged, but the object still has to stand there, and frontmatter cannot carry it. No increment to our evaluator could change that",
+      "the null key short-circuits on both sides before any type is judged, but the object it would have indexed reaches a file as text rather than as a map",
   },
   {
     id: "bracket-chains",
@@ -116,7 +143,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "2" },
     why:
-      "stacking one bracket on the next needs an object inside an object, which is a level further than frontmatter reaches. No increment to our evaluator could change that",
+      "stacking one bracket on the next needs a map inside a map, and the file side has one JSON string carrying both levels together",
   },
   {
     id: "bracket-key-is-a-whole-expression",
@@ -127,7 +154,7 @@ export const PATH_CASES: readonly Case[] = [
     ours: { kind: "value", held: null },
     code: { kind: "value", held: "1" },
     why:
-      "the expression between the brackets resolves to a key of `o`, and `o` is an object no page can state. No increment to our evaluator could change that",
+      "the expression between the brackets resolves to a key of `o`, and `o` reaches the file side as JSON text with no keys to resolve against",
   },
   {
     id: "array-literal-empty",
@@ -172,6 +199,6 @@ export const PATH_CASES: readonly Case[] = [
       says: "a list literal holds scalars, and one item of this one is a list of 1 item",
     },
     code: { kind: "value", held: ["[1]"] },
-    why: "our `Value` is a scalar or a flat list of scalars, so a list inside a list has nowhere to sit, and a page's frontmatter carries no nested list either, so a value of this shape could not be written onto a file even once evaluated",
+    why: "our `Value` is a scalar or a flat list of scalars, so a list inside a list has nowhere to sit. A file does carry a nested list across, as JSON text through `carried`, so the refusal is ours to make rather than one the substrate makes for us",
   },
 ]
