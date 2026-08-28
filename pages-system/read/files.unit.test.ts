@@ -272,3 +272,21 @@ test("frontmatter that will not parse states nothing rather than throwing", () =
 test("frontmatter that is a list rather than a set of keys states nothing", () => {
   expect(typeof partsIn("---\n- one\n---\n# Monday\n")).toBe("string")
 })
+
+test("a longer rule of dashes closes nothing, rather than leaking its extra dash into the body", () => {
+  expect(partsIn("---\ntitle: Monday\n----\n# Monday\n")).toBe(
+    "states nothing: its frontmatter is opened and never closed"
+  )
+})
+
+test("a fence line carrying anything after the dashes closes nothing", () => {
+  expect(partsIn("---\ntitle: Monday\n--- and more\n# Monday\n")).toBe(
+    "states nothing: its frontmatter is opened and never closed"
+  )
+})
+
+test("frontmatter closed with nothing in it is unreadable, never unclosed", () => {
+  expect(partsIn("---\n---\n# Monday\n")).toBe(
+    "states nothing readable: its frontmatter is not a set of keys"
+  )
+})
