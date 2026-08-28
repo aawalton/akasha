@@ -174,7 +174,18 @@ function cut(
   })
 }
 
-const CARRIED: readonly string[] = ["key", "empty"]
+/**
+ * The slots a test states without asking anything of a value. A test stating only these asks
+ * nothing of a page, so the key it names is not held against what the page type declares.
+ *
+ * `empty` IS NOT ONE OF THEM. It stood here, and a test naming a key no property declares and no
+ * page carries came back as a clean answer rather than a refusal: `empty: true` held of every page
+ * and `empty: false` of none, both marked success. Either reads exactly like the same test on a key
+ * that is declared and genuinely empty, which is the one thing `absent` exists to tell apart.
+ * `empty` asks what a key holds, as `is` and `notIn` do, so it is held to the declaration as they
+ * are.
+ */
+const CARRIED: readonly string[] = ["key"]
 
 function valued(test: Test): boolean {
   return Object.keys(test).some((slot) => !CARRIED.includes(slot))
