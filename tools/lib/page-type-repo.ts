@@ -62,7 +62,7 @@ export function repoHolding(type: string, roots: Roots): string | null {
   const key = `${at}\n${type}`
   const held = typeRepos.get(key)
   if (held !== undefined) return held
-  const text = textAt(at, typeFilesIn(at).get(type) ?? pageTypePathIn(at, type))
+  const text = textAt(at, pageTypePathIn(at, type))
   const found = (text === null ? null : filedRepoOf(text)) ?? placedIn(roots).get(type) ?? null
   typeRepos.set(key, found)
   return found
