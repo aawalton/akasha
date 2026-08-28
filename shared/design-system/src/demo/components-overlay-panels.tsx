@@ -1,6 +1,12 @@
 "use client"
 
-import { Button, Dialog, DialogBody, DialogClose, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger, formatCompact, formatFull, formatPercent, formatPercentFull, Heading, PanelCard, Popover, PopoverContent, PopoverTrigger, Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { Dialog, DialogBody, DialogClose, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTrigger } from "@shared/design-primitives/components/sheet"
+import { formatCompact, formatFull, formatPercent, formatPercentFull, Table, TableBody, TableCell, TableColumnLabel, TableHead, TableHeader, TableRow, TableRowLabel, TableTotalCell, TableValue } from "@shared/design-primitives/components/table"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"

@@ -1,6 +1,8 @@
 "use client"
 
-import { Heading, PanelCard, Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 

@@ -1,6 +1,7 @@
 "use client"
 
-import { PageTabHeader, ResponsiveColumns } from "../index"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import { ComponentsCompoundNavPanels } from "./components-compound-nav-panels"
 import { ComponentsCompoundPanels } from "./components-compound-panels"

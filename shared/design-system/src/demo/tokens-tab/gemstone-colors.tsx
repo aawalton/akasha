@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { TokenSwatch } from "../token-swatch"
 
 export function GemstoneColorsPanel() {

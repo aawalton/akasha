@@ -1,7 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { Input, Label, PanelCard, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Textarea } from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Input } from "@shared/design-primitives/components/input"
+import { Label } from "@shared/design-primitives/components/label"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Textarea } from "@shared/design-primitives/components/textarea"
 import { InputPanelCard } from "@shared/design-patterns/components/input-panel-card"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"

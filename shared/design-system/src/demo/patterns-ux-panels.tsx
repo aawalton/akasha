@@ -1,7 +1,11 @@
 "use client"
 
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
-import { Button, Heading, PanelCard, Spinner, Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Spinner } from "@shared/design-primitives/components/spinner"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"

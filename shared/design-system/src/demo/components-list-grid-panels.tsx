@@ -1,7 +1,10 @@
 "use client"
 
 import { useState } from "react"
-import { Card, CardContent, Heading, LoadMoreButton, PanelCard } from "../index"
+import { LoadMoreButton } from "@shared/design-layout/components/load-more-button"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
 
 export function ComponentsListGridPanels() {
   const [visibleCount, setVisibleCount] = useState(5)

@@ -1,16 +1,10 @@
 "use client"
 
-import {
-  Badge,
-  Button,
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-  Heading,
-  PanelCard,
-} from "../index"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
 
 const BUTTON_VARIANTS = ["primary", "secondary", "tertiary", "destructive", "accent"] as const
 const BUTTON_SIZES = ["sm", "default", "lg", "icon-sm", "icon", "icon-lg"] as const

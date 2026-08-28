@@ -1,7 +1,9 @@
 "use client"
 
 import { useState } from "react"
-import { Badge, Heading, PanelCard } from "../index"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { AddSortButton } from "@shared/design-patterns/components/add-sort-button"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"

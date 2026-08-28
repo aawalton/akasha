@@ -1,7 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { BadgeToggleGroup, type BadgeToggleGroupItem, Heading, MultiSelect, type MultiSelectItem, PanelCard, SearchMultiSelect, type SearchMultiSelectItem } from "../index"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { MultiSelect, type MultiSelectItem } from "@shared/design-forms/components/multi-select"
+import { SearchMultiSelect, type SearchMultiSelectItem } from "@shared/design-forms/components/search-multi-select"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { SearchButton } from "@shared/design-patterns/components/search-button"
 
 const FIRST_MULTI_SELECT_ITEM: MultiSelectItem = { value: "warrior", label: "Warrior" }

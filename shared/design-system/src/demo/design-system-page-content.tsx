@@ -1,7 +1,7 @@
 "use client"
 
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
-import { PageLayout, PageTitle } from "../index"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import { BrandTabContent } from "./brand-tab"

@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 
 export function TypographyPanel() {

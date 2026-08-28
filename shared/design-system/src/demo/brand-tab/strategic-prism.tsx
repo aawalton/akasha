@@ -1,14 +1,7 @@
 "use client"
 
-import {
-  PanelCard,
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableHeader,
-  TableRow,
-} from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 
 export function StrategicPrismPanel() {
   return (

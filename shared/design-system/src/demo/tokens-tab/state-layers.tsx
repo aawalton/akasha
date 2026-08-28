@@ -1,6 +1,7 @@
 "use client"
 
-import { Button, PanelCard } from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
 
 export function StateLayersPanel() {
   return (

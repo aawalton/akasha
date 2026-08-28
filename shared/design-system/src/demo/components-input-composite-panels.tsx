@@ -2,22 +2,12 @@
 
 import { Mail, Search, Tag } from "lucide-react"
 import { useState } from "react"
-import {
-  Heading,
-  InlineEditableText,
-  InputGroup,
-  InputGroupAddon,
-  InputGroupButton,
-  InputGroupInput,
-  InputGroupText,
-  InputGroupTextarea,
-  InputOTP,
-  InputOTPGroup,
-  InputOTPSeparator,
-  InputOTPSlot,
-  NumberBadge,
-  PanelCard,
-} from "../index"
+import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
+import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput, InputGroupText, InputGroupTextarea } from "@shared/design-forms/components/input-group"
+import { InputOTP, InputOTPGroup, InputOTPSeparator, InputOTPSlot } from "@shared/design-forms/components/input-otp"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 
 export function ComponentsInputCompositePanels() {
   const [otpValue, setOtpValue] = useState("")

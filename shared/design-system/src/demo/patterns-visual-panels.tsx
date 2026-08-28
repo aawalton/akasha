@@ -1,6 +1,11 @@
 "use client"
 
-import { Badge, Button, Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger, Heading, PanelCard, Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "../index"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "@shared/design-primitives/components/dialog"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 
 const PRINCIPLES = [

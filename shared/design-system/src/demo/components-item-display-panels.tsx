@@ -1,7 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { Badge, Button, HorizontalScrollFade, PanelCard, ScrollArea, ScrollBar } from "../index"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
+import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
+import { ScrollArea, ScrollBar } from "@shared/design-primitives/components/scroll-area"
 import { Chip } from "@shared/design-patterns/components/chip"
 import { ChipList } from "@shared/design-patterns/components/chip-list"
 import { ItemCard } from "@shared/design-patterns/components/item-card"

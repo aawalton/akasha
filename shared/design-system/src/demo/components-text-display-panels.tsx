@@ -1,6 +1,12 @@
 "use client"
 
-import { Alert, AlertDescription, AlertTitle, Avatar, AvatarFallback, AvatarImage, Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator, Heading, PanelCard, Separator, Text } from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Alert, AlertDescription, AlertTitle } from "@shared/design-primitives/components/alert"
+import { Avatar, AvatarFallback, AvatarImage } from "@shared/design-primitives/components/avatar"
+import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from "@shared/design-primitives/components/breadcrumb"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Separator } from "@shared/design-primitives/components/separator"
+import { Text } from "@shared/design-primitives/components/text"
 import { Kbd, KbdGroup } from "@shared/design-patterns/components/kbd"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const

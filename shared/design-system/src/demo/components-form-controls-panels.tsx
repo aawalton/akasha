@@ -1,19 +1,15 @@
 "use client"
 
 import { useState } from "react"
-import {
-  Checkbox,
-  Label,
-  PanelCard,
-  Progress,
-  RadioGroup,
-  RadioGroupItem,
-  Slider,
-  Switch,
-  Toggle,
-  ToggleGroup,
-  ToggleGroupItem,
-} from "../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Checkbox } from "@shared/design-primitives/components/checkbox"
+import { Label } from "@shared/design-primitives/components/label"
+import { Progress } from "@shared/design-primitives/components/progress"
+import { RadioGroup, RadioGroupItem } from "@shared/design-primitives/components/radio-group"
+import { Slider } from "@shared/design-primitives/components/slider"
+import { Switch } from "@shared/design-primitives/components/switch"
+import { Toggle } from "@shared/design-primitives/components/toggle"
+import { ToggleGroup, ToggleGroupItem } from "@shared/design-primitives/components/toggle-group"
 
 export function ComponentsFormControlsPanels() {
   const [radioValue, setRadioValue] = useState("option-1")

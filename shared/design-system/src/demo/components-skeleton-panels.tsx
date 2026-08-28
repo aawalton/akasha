@@ -1,7 +1,13 @@
 "use client"
 
 import { useState } from "react"
-import { Button, Heading, ListContentSkeleton, LoadingContainer, PanelCard, Skeleton, SkeletonText } from "../index"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { LoadingContainer } from "@shared/design-layout/components/loading-container"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { SkeletonText } from "@shared/design-layout/components/skeleton-text"
+import { Button } from "@shared/design-primitives/components/button"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 

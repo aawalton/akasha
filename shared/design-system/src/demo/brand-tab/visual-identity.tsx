@@ -1,6 +1,7 @@
 "use client"
 
-import { Heading, PanelCard } from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 

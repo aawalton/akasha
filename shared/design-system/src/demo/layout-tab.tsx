@@ -1,6 +1,11 @@
 "use client"
 
-import { Heading, PageTabHeader, PanelCard, ResponsiveColumns, Table, TableBody, TableCell, TableHead, TableHeader, TableRow, useColumnCount } from "../index"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { useColumnCount } from "@shared/design-layout/components/use-column-count"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
 import { getPageWidth } from "@shared/design-layout/components/page-layout-data"
 import { TabsContent } from "@shared/design-patterns/components/tabs"

@@ -1,6 +1,7 @@
 "use client"
 
-import { Heading, PanelCard } from "../../index"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { TokenSwatch } from "../token-swatch"
 
 export function TextColorsPanel() {
