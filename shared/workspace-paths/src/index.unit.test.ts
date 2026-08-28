@@ -1,5 +1,5 @@
-import { describe, expect, it } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, it } from "bun:test"
+import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import {
@@ -12,8 +12,15 @@ import {
 
 const REPO_ROOT = join(import.meta.dir, "..", "..", "..", "..")
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function makeFixtureRepo(workspaces: readonly string[], dirsWithPkg: readonly string[]): string {
   const root = mkdtempSync(join(tmpdir(), "ws-paths-"))
+  made.push(root)
   writeFileSync(join(root, "package.json"), JSON.stringify({ name: "fixture-root", workspaces }))
   for (const rel of dirsWithPkg) {
     const abs = join(root, rel)
@@ -34,6 +41,7 @@ describe("listWorkspaceDirs", () => {
 
   it("returns an empty array when no workspaces field is present", () => {
     const root = mkdtempSync(join(tmpdir(), "ws-paths-"))
+    made.push(root)
     writeFileSync(join(root, "package.json"), JSON.stringify({ name: "no-ws" }))
     expect(listWorkspaceDirs(root)).toEqual([])
   })
@@ -170,6 +178,7 @@ describe("findMissingBins", () => {
 describe("expectedWorkspaceBinNames", () => {
   function makeBinFixture(manifests: Record<string, unknown>): string {
     const root = mkdtempSync(join(tmpdir(), "ws-bins-"))
+    made.push(root)
     writeFileSync(
       join(root, "package.json"),
       JSON.stringify({ name: "fixture-root", workspaces: Object.keys(manifests) })
@@ -197,6 +206,7 @@ describe("expectedWorkspaceBinNames", () => {
 
   it("skips a declared workspace directory that carries no package.json", () => {
     const root = mkdtempSync(join(tmpdir(), "ws-bins-"))
+    made.push(root)
     writeFileSync(
       join(root, "package.json"),
       JSON.stringify({ name: "fixture-root", workspaces: ["packages/ghost"] })
