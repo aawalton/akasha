@@ -1,4 +1,3 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { statedForPage } from "../seat-page-beat.ts"
 import { type Fixture, fixture } from "./fixture.ts"
@@ -13,16 +12,6 @@ const RUNNING = "99999999-8888-4777-8666-555555555555"
 
 let at: Fixture
 
-// A SEAT PAGE STANDS UNDER `agent/seat` IN THE AKASHA ROOT, and the fixture is the root
-// `AKASHA_ROOT` names. This planted `seats/amy.md` under `MEMORY_ROOT`: two things neither of
-// which is read any more — the `memory` repository is absorbed into akasha, and seat pages moved
-// out of `seats/`. So `statedForPage` searched the live checkout, found no page carrying this
-// agent, and answered no session at all wherever it had nothing running to fall back on.
-//
-// WHICH SEAT A SUPERVISOR RUNS AND WHICH SESSION IT HOLDS ARRIVE AS ARGUMENTS. They were read off
-// the supervisor's own module state, which is why this could only ever be exercised from inside a
-// supervisor; they now cross a spawn, so the same cases are stated here as the two values they
-// are.
 beforeAll(() => {
   at = fixture()
   at.put(

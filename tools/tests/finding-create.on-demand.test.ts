@@ -37,8 +37,6 @@ function runCommand(at: Fixture, args: readonly string[]): { code: number; out: 
   const proc = Bun.spawnSync({
     cmd: ["bun", ARM, MODULE, ...args],
     cwd: at.root,
-    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. The temp store has no
-    // `node_modules`, so the `@shared/...` the command loads is looked for in this checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
@@ -216,8 +214,6 @@ describe("what it lands", () => {
       const landed = "pages/finding/finding/states-destination-twice.finding.md"
       const kept = readFileSync(`${at.root}/${landed}`, "utf8")
       expect(kept).toContain("domain-slug: page-type/finding")
-      // THE SLUG HERE IS NOT THE SLUGIFIED TITLE, which is why one is asked for at all: unless the
-      // page states its own name, the naming check reads it off the title and refuses the file.
       expect(kept).toContain("slug: states-destination-twice")
       const show = Bun.spawnSync({
         cmd: ["git", "show", "--stat", "--name-status", "HEAD"],

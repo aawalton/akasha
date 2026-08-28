@@ -66,9 +66,6 @@ function ran(): CheckOutcome {
   const root = scratch("editor-single-instructions")
   installRefusals(root)
   const repo: RepoView = {
-    // THE EDITOR CHECKOUT IS NOT REACHED THROUGH THESE ROOTS. `editorExtensionSingle` reads only
-    // `rootFor(roots, AKASHA)` from them and finds the editor at `CODE_EDITOR_ROOT`, which `world`
-    // above sets, so naming `code-editor` here would say nothing and bind the case to this machine.
     roots: rootsNamed({ akasha: root }),
     name: "akasha",
     documents: [],

@@ -18,15 +18,6 @@ afterEach(() => {
   at.dispose()
 })
 
-/**
- * A workspace in the repository the reading is resolved against.
- *
- * THE `code` REPOSITORY IS ABSORBED INTO AKASHA, so `required-reading.ts` reads package manifests
- * out of the root handed in rather than a checkout of its own — its `rootOf` answers that same
- * root for every absorbed name. This planted each `package.json` in a separate directory named by
- * `CODE_ROOT`, which `required-reading.ts` never reads, so no manifest was ever seen and every
- * case below asking which package page a file is read off was answered with nothing at all.
- */
 function workspace(dir: string, name: string | null): void {
   at.put(`${dir}/package.json`, JSON.stringify(name === null ? { version: "0.1.0" } : { name }))
 }

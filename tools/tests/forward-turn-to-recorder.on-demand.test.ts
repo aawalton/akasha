@@ -1,4 +1,3 @@
-
 import { afterEach, beforeEach, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { fire } from "./hook-shell.ts"
@@ -13,9 +12,6 @@ const DEADLINE_MS = 1_500
 
 let home = ""
 let root = ""
-// THE SEAT PAGE STANDS IN AKASHA, at `agent/seat/<id>.seat.md`. `tools/lib/seat-page-read.sh` looks
-// for it under `$AKASHA_ROOT/agent/seat`; it read `$MEMORY_ROOT/seats` while memory was a
-// repository of its own, and akasha has absorbed it, so nothing reads `MEMORY_ROOT` any more.
 let akasha = ""
 
 function seatPage(forwardsTo: string | null): void {

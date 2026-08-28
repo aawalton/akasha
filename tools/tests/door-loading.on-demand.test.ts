@@ -1,10 +1,10 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { closeSync, existsSync, openSync, readFileSync } from "node:fs"
-import { judge, type Outcome } from "../../outcome/outcome"
+import { judge, type Outcome } from "../../outcome/outcome.ts"
 import { ownRead } from "../lib/read-record.ts"
 import { loadingLines } from "../lib/owed.ts"
-import { type Roots } from "../../page/page"
-import { AKASHA, REPOS } from "../../repo/roots/roots"
+import { type Roots } from "../../page/page.ts"
+import { AKASHA, REPOS } from "../../repo/roots/roots.ts"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
 type SpawnResult = ReturnType<typeof Bun.spawnSync>
@@ -14,10 +14,6 @@ const GOVERNOR = "pages/page-type/project.page-type.md"
 const SUBJECT = "projects/1.md"
 const LIVE = `${import.meta.dir}/../..`
 
-// THE COMMAND COMES FROM THE LIVE CHECKOUT, THE STORE FROM THE FIXTURE. `ops` finds its commands by
-// walking `AKASHA_ROOT` for `*.command.md`, and this test points that at a temp store holding none,
-// so `bun tools/ops/cli.ts read` answers `unknown command`. Loading the command's own module names
-// the code directly and leaves `AKASHA_ROOT` to say only where the pages are.
 const ARM = `${import.meta.dir}/command-arm.ts`
 
 const READ = `${LIVE}/ops-cli/global/read/read.command.code.attachment.ts`
@@ -41,10 +37,6 @@ afterEach(() => {
   at.dispose()
 })
 
-// EVERY REPOSITORY BUT AKASHA POINTED AWAY, so a path this test owes can be placed by exactly one
-// root. `instructions` and `memory` stood here until akasha absorbed both; neither is in `REPOS`
-// any more, so naming them put the governor's path in no repository at all and it was spelled
-// absolute rather than relative.
 function roots(): Roots {
   const named: Record<string, string> = {}
   for (const repo of REPOS) named[repo] = `${at.root}-no-${repo}`
@@ -72,8 +64,6 @@ function run(command: string): void {
       return Bun.spawnSync({
         cmd: [process.execPath, ARM, READ, ...args],
         cwd: at.root,
-        // `CODE_ROOT` IS WHERE THE PACKAGES ARE. The command resolves `@shared/...` under `codeRoot()`,
-        // which now answers the akasha root, and the temp store has no `node_modules`.
         env: { ...environment, AGENT_ID: AGENT, HOME: at.home, AKASHA_ROOT: at.root, CODE_ROOT: LIVE },
         stdout: out,
         stderr: out,

@@ -8,9 +8,6 @@ import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
-// WHAT A PAGE TYPE MUST DECLARE TO CLAIM A DOCUMENT. `files:` is what makes a suffix resolve to
-// this type, and `extends-slug` is what `domainKinds` walks to decide a type is a domain kind —
-// which `domain` is by its own slug and `persona`, extending `page`, is not.
 const claiming = (id: string, slug: string): string =>
   [
     "---",
@@ -24,20 +21,6 @@ const claiming = (id: string, slug: string): string =>
     "",
   ].join("\n")
 
-/**
- * The rows that say these page types are there, and a place to write them that is not the live one.
- *
- * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED. `page/property/registry.ts` builds every
- * page type out of `loadPages()`, so a fixture carrying no index states no page type at all: every
- * page came back `none`, and the audit called `pages/persona/aine.persona.md` "a none document
- * rather than a persona". A row names a path and nothing more — each type's own words are read back
- * out of the fixture standing at the time — so a row cannot drift from what a case plants, and a
- * row whose page no case plants is passed over.
- *
- * THE INDEX FOLLOWS `AKASHA_ROOT`, so `anchorIndex` gives this file an index of its own and hands it
- * back on `discard`. It refuses the write rather than landing it on the live index where the anchor
- * did not take — see `tools/tests/index-anchor.ts` for what that cost once.
- */
 const PAGE_TYPES: readonly string[] = ["persona", "domain", "exercise"]
 
 const anchor = anchorIndex("domain-edges")
@@ -59,8 +42,6 @@ const indexRow = (slug: string): Stated => ({
 let at: Fixture
 
 beforeEach(() => {
-  // STATED FOR EVERY CASE RATHER THAN ONCE, `keep` being what puts these rows in this file's own
-  // index at all, and one small write being cheaper than reasoning about what a case left behind.
   anchor.keep(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document(

@@ -13,7 +13,7 @@ import { attachmentFileOf, readAttachment, writeAttachment } from "../../page/at
 import { blobId } from "../../repo/git/git.ts"
 import { READINGS } from "../lib/read-record.ts"
 import { REFUSAL_DIR } from "../../refusal/refusal.ts"
-import { canonicalize } from "../../repo/path/path"
+import { canonicalize } from "../../repo/path/path.ts"
 import { seatAbove } from "../lib/subagent.ts"
 import { AKASHA, REPOS, rootEnvName } from "../../repo/roots/roots.ts"
 
@@ -22,10 +22,6 @@ export function documentBody(frontmatter: string, lines = 40): string {
   return `---\n${frontmatter}\n---\n\n${body}\n`
 }
 
-/**
- * ONE ROOT, NOT THREE. `root`, `memory` and `akasha` all answer the same temp repository, and
- * `memory` and `akasha` stay only until their callers are moved over to `root`.
- */
 export interface Fixture {
   readonly root: string
   readonly memory: string
@@ -79,13 +75,6 @@ export function installPages(root: string, relPaths: readonly string[]): void {
 export function fixture(): Fixture {
   const root = mkdtempSync(`${SCRATCH}/govtest-root-`)
   installRefusals(root)
-  // NO REPO PAGES BY DEFAULT. A child process pointed here needs them — `roots.ts` reads them at
-  // import to say which repositories there are — but a test running in this process does not, and
-  // installing them for everybody puts two documents into every fixture that walks its own tree.
-  // A test that spawns a child calls `installRepos(at.root)` for itself.
-  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git` —
-  // so an un-inited fixture is answered as no akasha at all and every reader falls through to the
-  // live checkout.
   Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: root })
   Bun.spawnSync(["git", "config", "user.email", "fixture@example.com"], { cwd: root })
   Bun.spawnSync(["git", "config", "user.name", "fixture"], { cwd: root })
@@ -94,18 +83,9 @@ export function fixture(): Fixture {
   const planted: string[] = []
   const home = mkdtempSync(`${SCRATCH}/govtest-home-`)
   const priorHome = process.env.HOME
-  // `AKASHA_ROOT` IS THE ONE VARIABLE READ, and a caller falls through to the live checkout wherever
-  // it does not name this temp repository.
   const priorRoot = process.env.AKASHA_ROOT
   process.env.HOME = home
   process.env.AKASHA_ROOT = root
-  // EVERY OTHER REPOSITORY IS SAID TO BE CHECKED OUT NOWHERE, rather than left naming the live one
-  // beside this repository. A fixture's world holds one repository — this temp one — and
-  // `resolveRoots` names a repository only where a `.git` stands under its root, so an empty
-  // directory says that. Left naming the live `code-editor`, a reader spanning repositories scanned
-  // that live root through the index, and the index under this root is this fixture's: it was never
-  // built over `code-editor`, so `page/index/scan/scan.ts` refused rather than answering an empty
-  // scan. The refusal is right; what was wrong is a fixture claiming a checkout it does not hold.
   const elsewhere = mkdtempSync(`${SCRATCH}/govtest-elsewhere-`)
   const priorElsewhere = new Map<string, string | undefined>()
   for (const repo of REPOS) {

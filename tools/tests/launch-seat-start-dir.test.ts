@@ -10,9 +10,6 @@ const opts: LaunchSeatOpts = {
   mode: SEAT_MODE_INTERACTIVE,
 }
 
-// `AKASHA_ROOT` NAMES THE REPOSITORY THE START DIRECTORY IS WORKED OUT FROM. `seatStartDir` is
-// `resolve(akashaRoot(), "..")`, so a case that leaves it unset reads the live checkout's own
-// parent — a different path on another machine, and nothing to assert a value against.
 function underAkashaRoot<T>(root: string, run: () => T): T {
   const before = process.env.AKASHA_ROOT
   process.env.AKASHA_ROOT = root

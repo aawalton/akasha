@@ -4,24 +4,6 @@ import type { Stated } from "../../page/index/identity/identity.ts"
 import { indexRoot } from "../../page/index/place/place.ts"
 import { keepPages } from "../../page/index/store/store.ts"
 
-/**
- * A page index of a test file's own, and a refusal where it did not get one.
- *
- * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED. `page/property/registry.ts` builds every
- * page type out of `loadPages()`, so a fixture carrying no index states no page type at all. A test
- * that needs its fixture's page types seen has to put rows in an index.
- *
- * THE INDEX FOLLOWS `AKASHA_ROOT`. `page/index/place/place.ts` works out its place against whichever
- * root is named when it is asked, so setting that variable here moves the index here, and putting it
- * back on `discard` moves it back.
- *
- * WHICH IS WHY `keep` REFUSES WHERE THE ANCHOR DID NOT TAKE, rather than writing. `keepPages`
- * replaces `pages.jsonl` whole, so a handful of fixture rows written against the live index erases
- * every other page in it. That is not a theory: it happened, and the live index went from 59,619
- * pages to 13 — the four page types one of these files states, plus nine seat pages — until `ops
- * index refresh` rebuilt it. An anchor that did not take must stop the test rather than the
- * repository.
- */
 export interface Anchor {
   readonly root: string
   keep(rows: readonly Stated[]): void
@@ -31,12 +13,6 @@ export interface Anchor {
 export function anchorIndex(named: string): Anchor {
   const root = realpathSync(mkdtempSync(`${tmpdir()}/${named}-index-`))
   Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: root })
-  // `AKASHA_ROOT` IS PUT BACK ON DISCARD, being the one variable every root is read through. It was
-  // set and left, and `bun test` runs every file in one process, so every later file in the batch
-  // resolved akasha to this anchor — a directory `discard` had already removed — and failed on a
-  // root that is not cloned. Nothing showed it while the file that would have caught it could not
-  // run. Restoring it puts `indexRoot` back where it stood as well, which is what a later file
-  // anchoring nothing of its own should be reading.
   const priorRoot = process.env.AKASHA_ROOT
   process.env.AKASHA_ROOT = root
   const stands = indexRoot()

@@ -6,25 +6,8 @@ const CLI_PATH = `${import.meta.dir}/../ops/cli.ts`
 
 const LIVE = resolve(import.meta.dir, "..", "..")
 
-// WHERE A SEAT PAGE STANDS, one place and one spelling: `SEAT_PLACES` in `agent-page-place.ts` is
-// `{ repo: "akasha", dir: "agent/seat" }`, and `seat-page-history.ts` asks git for that same path.
 const SEATS = "agent/seat"
 
-/**
- * A fleet of this test's own, standing where the one variable that names a fleet points.
- *
- * `AKASHA_ROOT` ANSWERS TWO QUESTIONS AT ONCE and they cannot be split: `ops` builds its whole
- * command set out of it — `akashaCommands`, `declaredCommands` and `commandDocuments` each read
- * `akashaRoot()` — and every seat reader looks for `agent/seat` under it. This test used to set
- * `MEMORY_ROOT`, which nothing reads, so `ops` ran against the live checkout and asked the live
- * fleet about seats that stand only here. Pointing a bare temp directory at `AKASHA_ROOT` instead
- * answers `ops: unknown command`, there being no commands under it.
- *
- * So every top-level entry of the live checkout is stood here by symlink, `agent` and `.git`
- * excepted: the commands, the pages and `node_modules` are the live ones, while `agent/seat` holds
- * this test's seats alone and the git history is this test's alone. Git records a symlink rather
- * than descending it, so the commit below is the seat pages and nothing else.
- */
 function fleetApart(): string {
   const root = mkdtempSync("/var/tmp/ops-seat-reset-")
   for (const entry of readdirSync(LIVE)) {

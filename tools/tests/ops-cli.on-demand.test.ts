@@ -1,4 +1,3 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
@@ -121,9 +120,6 @@ async function ops(args: readonly string[], env: Record<string, string> = {}): P
     env: {
       ...process.env,
       CODE_ROOT: root,
-      // `AKASHA_ROOT` NAMES THE FIXTURE TREE: the dispatcher globs its commands out of the root
-      // this names, so a case that left it alone would list, reject and help on the real `ops`
-      // rather than on the commands planted here.
       AKASHA_ROOT: root,
       ...env,
     },
@@ -139,9 +135,6 @@ async function ops(args: readonly string[], env: Record<string, string> = {}): P
 beforeAll(() => {
   root = mkdtempSync("/var/tmp/ops-cli-fixture-")
   buildFixture()
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, and
-  // a root is named only where it is cloned — so without both of these `roots.ts` either throws at
-  // import or answers that no akasha stands anywhere.
   installRepos(root)
   Bun.spawnSync(["git", "init", "-q"], { cwd: root })
 })

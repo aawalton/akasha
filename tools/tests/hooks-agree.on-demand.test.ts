@@ -1,4 +1,3 @@
-
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
@@ -9,9 +8,6 @@ import { installRefusals, installRepos } from "./fixture.ts"
 const SCRIPT = "$HOME/repos/akasha/tools/hooks/agent-hook-local-agent-session-start.agent-hook.code.attachment.ts"
 const OTHER = "$HOME/repos/akasha/tools/hooks/agent-hook-record-epoch.agent-hook.code.attachment.ts"
 
-// WHAT A HOME-SPELLED TOKEN RESOLVES TO once `repoRelative` has taken `$HOME/`, `repos/` and the
-// repository name off it. Sliced off `SCRIPT` rather than written out a second time, so a rename of
-// the hook cannot leave the fixture writing one path while the settings register another.
 const HOME_PREFIX = "$HOME/repos/akasha/"
 const SCRIPT_AT = SCRIPT.slice(HOME_PREFIX.length)
 
@@ -114,17 +110,10 @@ interface Pair {
 function pair(): Pair {
   const root = mkdtempSync(`${tmpdir()}/hooks-agree-root-`)
   installRefusals(root)
-  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
-  // temp repo without them makes `roots.ts` throw before the check says anything.
   installRepos(root)
-  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git`.
   Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   const configDir = mkdtempSync(`${tmpdir()}/hooks-agree-config-`)
   mkdirSync(`${root}/settings`, { recursive: true })
-  // A REGISTRATION WHOSE SCRIPT IS NOT ON DISK IS A DEAD REGISTRATION, which `hooksAgree` reports as
-  // its own refusal beside any disagreement. So a case asking whether the two tiers AGREE has to put
-  // the script there. Without this the cases below measured agreement AND liveness at once, and the
-  // agreeing case passed only because a defect in `repoRelative` stopped the liveness half running.
   mkdirSync(`${root}/${dirname(SCRIPT_AT)}`, { recursive: true })
   writeFileSync(`${root}/${SCRIPT_AT}`, "")
   return {
@@ -140,9 +129,6 @@ function pair(): Pair {
 function runCheck(at: Pair): { code: number; out: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", `${import.meta.dir}/../run-checks.ts`, "--check", "hooks-agree"],
-    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO: `hooksAgree` takes its repo tier from
-    // `rootFor(repo.roots, AKASHA)`, so a case that left this alone would read the live checkout's
-    // `settings/agents.json` and never see the pair it had written.
     env: { ...process.env, AKASHA_ROOT: at.root, CLAUDE_CONFIG_DIR: at.configDir },
     stdout: "pipe",
     stderr: "pipe",
@@ -164,10 +150,6 @@ describe("the check, driven as the repo runs it", () => {
     }
   })
 
-  // THE CONTROL ON THE FIXTURE ABOVE, and the reason it is a fixture rather than a silencing.
-  // `pair()` now writes the script every case registers, which would equally hide the dead
-  // registration arm if that arm had stopped working. This case registers one script nothing writes
-  // and requires the check to name it, while leaving the live one unnamed.
   test("a registration whose script is absent is reported dead and named, and a live one is not", () => {
     const at = pair()
     try {

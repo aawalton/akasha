@@ -42,11 +42,6 @@ function viewOf(root: string): RepoView {
   }
 }
 
-/**
- * One repository holding the settings and every file a copy could be, which is the world there is:
- * `instructions` and `code` were absorbed into akasha, so the tree registering a hook and the tree a
- * stray copy of it would be tracked in are the same tree.
- */
 function ran(settings: string | null, tracked: readonly string[], versioned = true): CheckOutcome {
   const root = scratch("hooks-uncopied")
   installRefusals(root)

@@ -17,7 +17,6 @@ const GOVERNING = [PERSONA, ROLE, DOMAIN, GLOBAL] as const
 
 let at: Fixture
 
-// THE FIXTURE ALREADY NAMES THIS ROOT, in `AKASHA_ROOT`, which is the one variable read for it.
 beforeEach(() => {
   at = fixture()
   seatStore(at)
