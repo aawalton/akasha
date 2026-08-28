@@ -3,6 +3,10 @@ page-type-slug: domain
 title: "Akasha type"
 slug: akasha-type
 domain-parent-slug: domain/akasha-system
+sequence-slugs:
+  - domain/akasha-import
+required-reading-slugs:
+  - domain/akasha-import
 ---
 
 # Definition
