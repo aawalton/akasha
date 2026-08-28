@@ -12,10 +12,6 @@ mock.module("@shared/pages-ui/components/view-page-content", () => ({
   },
 }))
 
-mock.module("@shared/pages-ui/components/page-detail-content", () => ({
-  PageDetailContent: () => <div>PAGE-DETAIL-CONTENT</div>,
-}))
-
 let onlineKnob = true
 
 type CapturedBodyProps = {
@@ -110,10 +106,10 @@ function renderAt(url: string) {
 }
 
 describe("CapacitorPageDetail nav branch (#14797 regression)", () => {
-  test("a `nav` slug renders ViewPageContent, not the generic PageDetailContent", async () => {
+  test("a `nav` slug renders ViewPageContent rather than the generic body", async () => {
     renderAt("/nav/aura-6fed9037")
     expect(await screen.findByText("VIEW-PAGE-CONTENT")).toBeDefined()
-    expect(screen.queryByText("PAGE-DETAIL-CONTENT")).toBeNull()
+    expect(screen.queryByText("GENERIC-BODY")).toBeNull()
     expect(viewCalls).toContain("aura-6fed9037")
   })
 })
