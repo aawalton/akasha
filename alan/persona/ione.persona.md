@@ -2,14 +2,12 @@
 page-type-slug: persona
 id: 019eeb0f-b1b5-740e-86cf-5c460db52723
 title: Ione
-total-points: 58397
+total-points: 58992
 cover: "/api/image/019f324d-496d-758d-87cf-9f562ae66eec"
 slug: ione
 domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
-unit: green day units
-scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: ione
