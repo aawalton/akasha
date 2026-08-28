@@ -19,15 +19,13 @@ One graph is left in akasha. The old engine is deleted rather than translated, a
 
 A type earns its place by answering a question something is asking now. Nothing is built for a case that is not here.
 
-The intents are listed in the order they close. An edge's truth rests on both its ends, so a node asserting something false makes every edge touching it false as well. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving.
+The intents are listed in the order they close. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving.
 
 Holding an answer and dropping a stale one are two halves of one thing, so they stand next to each other.
 
 ## How the work is shaped
 
-The last four intents are one body of work rather than four. Targeting, holding answers, dropping stale ones and answering more than one hop are all the same index, and splitting them between seats yields four half-indexes.
-
-Everything else runs in parallel, and as wide as there are seats to run it. A type is a piece of work one seat carries end to end, and types do not wait on each other.
+What is left is one body of work rather than several, being all one index, and splitting it between seats yields half-indexes.
 
 ## What Alan settled on 2026-08-27
 
@@ -105,9 +103,9 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 # Notes
 
-91 files hold a stub where the old engine was: 56 in `infra/cluster-checks`, 32 in `tools/lib`, two audits and one test fixture. Each refuses by name when called. `infra/cluster-checks` does not typecheck and every `ops` command reaching it already fails, so it is kept for Alan and thea to ablation-migrate rather than for anything it does.
+91 files hold a stub where the old engine was, each refusing by name: 56 in `infra/cluster-checks`, 32 in `tools/lib`, two audits and one test fixture. `infra/cluster-checks` does not typecheck and every `ops` command reaching it already fails, so it is kept for Alan and thea to ablation-migrate.
 
-`tools/required-reading.ts` builds four maps in one loop — by repository and path, by file extension, by file-purpose ending, and by body-section heading — and each takes a plain `set`, so a second page claiming a key another page already holds silently replaces it. Two `readout-widget` pairs do, leaving one page of each pair unwarranted. A declaration that is displaced reads exactly like one never written, which is what makes it expensive to find.
+`tools/required-reading.ts` builds four maps — by repository and path, by file extension, by file-purpose ending, by body-section heading — each with a plain `set`, so a second page claiming a key another holds silently replaces it. Two `readout-widget` pairs do, leaving one page of each unwarranted. A displaced declaration reads exactly like one never written, which is what makes it expensive to find.
 
 `code-loaded-by` is written `type: string`, and no page-property-type page defines `string`. That is why it draws no relation edge and earns no required-reading warrant.
 
@@ -123,13 +121,21 @@ Every node in akasha was measured against disk on 2026-08-28: 89,439 `file` node
 
 Every edge in akasha was measured on 2026-08-28: 250,239 edges, with no end that is no node, none reaching outside akasha, and no `contains` edge whose far end is not directly under its near one.
 
-The `import` producer reads imports as TypeScript syntax rather than matching them as text, and its 32,892 edges agree exactly with the compiler's own scan of each of 11,225 files. Matching drew 50 edges from specifiers written inside a string or a template literal, most of them under `tools/lib/temper-addon-data/generators/`, which write import lines into the files they emit.
+The `import` producer reads imports as TypeScript syntax rather than matching them as text, and its 32,892 edges agree exactly with the compiler's own scan of each of 11,225 files. Matching drew 50 that were specifiers inside a string, mostly generators writing import lines into what they emit.
 
-`file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
+All four edge producers answer what reaches a node. `contains` cuts the last segment off a key, `loader` swaps the attachment tail for the page one, `relation` reads the pages index, and `import` inverts the specifiers already held under `said/import/`, joined to paths by `oidsUnder` because 54 blob oids there are shared by 154 paths.
 
-All four edge producers answer what reaches a node. `contains` cuts the last segment off a key, `loader` swaps the attachment tail for the page one, `relation` reads the pages index, and `import` inverts the specifiers already held under `said/import/`, joined to paths by `oidsUnder` because 54 blob oids there are shared by 154 paths. Asking about one node over every kind costs 841ms on a cold context and under 1.2ms on every ask after, against 4.4s for the walk each time.
+`graph/ask.ts` holds `HELD_ANSWERS`, which is what says a name is live. `sweep` reaches the marks under one name and nothing reached a name itself, so a name dropped from the code kept its answers forever; `forget` takes any name the list does not hold, and refuses to take anything when handed no names. The registered checks say the same for `outcome` and `keep`, against the whole registry rather than the set a run happens to use.
 
-`Said` answers `held`, handing back every answer filed under one name at the mark this run files under, or `null` where nothing is. A producer inverting those owes `null` for a subject that is missing, `edgesInto` skipping the walk for a producer that answers.
+An outcome's mark is taken over the check's own code, and `entryOf` named a layout gone since the checks folder took its domain's name. `closureOf` reached nothing, so every check's mark was a hash of the kind, the slug and the runtime alone. The 14 registered checks now reach closures of 9 to 69 files. No check is cacheable today, so nothing was served stale; the mark stood still under checks that had not yet asked it to hold anything.
+
+A cache read that cannot answer is a miss. Another run sweeping a stale mark takes a file away between the listing and the read, and a torn write leaves one that is not JSON; either threw where the caller could have worked the answer out.
+
+A refusal is not kept against the context that got it. `into` is refused on a cold cache and the walk is what fills it, so keeping the refusal made every later ask in the run walk again for what the first walk had worked out: 100 asks cost 19.4s, and 37.7ms after.
+
+What a run pays, measured 2026-08-28: 143ms for the path-to-oid map, 2ms for the marks, and 797ms for the first ask about a node over every kind, where the whole-repo maps are built from the answers already held. Every ask after is under half a millisecond, and a landing that moves a producer's own code makes that first ask 1.7s, being the walk which refills what it dropped.
+
+`vocabulary` and `rows-homes` are held under a mark taken over the page shape and `CODE_DIRS`, which does not name `tools/`, where `rows-homes` is worked out. `astra-page-index` holds that one.
 
 `cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop. It is what the last intent is aimed at.
 
@@ -141,8 +147,6 @@ All four edge producers answer what reaches a node. `contains` cuts the last seg
 
 Of the 124,768 relations the pages system reaches, 13 are dropped for naming a path no tracked file is at, all of them links; `links-resolve` is what reports those.
 
-`edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. A producer that cannot answer completely this time answers `null` and is walked instead, `relation` answers `null` on a drifted index and `import` on a cold cache, and each is walked when it does.
+`edgesInto` does not walk for a producer that answers, so an `into` naming only part of what reaches a node makes the rest unreachable rather than slow. `Said` answers `held` with every answer under one name at the mark this run files under, or `null` where nothing is, and a producer inverting those owes `null` for any subject missing: `relation` on a drifted index, `import` on a cold cache. Each is walked when it does.
 
-Renaming a held answer orphans every answer filed under the old name. `sweep` reaches the marks under one name, and nothing reaches a name no code claims any more, so the `import` rename left 44MB under `said/typescript/` that nothing would ever have removed.
-
-Each held answer is marked by the import closure of the file that works it out, rather than by the whole engine's. `frontmatter` reaches 8 files, `import` 16 and `relation-links` 2, against 37 for `graph/ask.ts`, which every one of them was filed under before. A producer is no longer in any other's closure, so landing one drops none of the others' answers; the helpers they share are in both closures, so a change to one of those still drops both. An entry the graph does not reach falls back to the engine's closure, a mark that never moves being the one failure worth being over-eager about.
+Every held answer is marked by the import closure of the file that works it out. `frontmatter` reaches 8 files, `import` 16 and `relation-links` 2, against 37 for `graph/ask.ts`, which every one of them was filed under before. A producer is no longer in any other's closure, so landing one drops none of the others' answers; the helpers they share are in both closures, so a change to one of those still drops both. An entry the graph does not reach falls back to the engine's closure, a mark that never moves being the one failure worth being over-eager about.
