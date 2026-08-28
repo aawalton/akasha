@@ -152,7 +152,7 @@ export const help: CommandHelp = {
       description:
         "Skip the sign-in form entirely and verify with an anonymous read-only " +
         "session. For no-auth apps that serve owner-owned data via server-side " +
-        "service-role reads and have no /sign-in route (e.g. awen). No real-user " +
+        "service-role reads and have no /sign-in route. No real-user " +
         "credentials are read. A discriminating signal is still required.",
     },
     {
