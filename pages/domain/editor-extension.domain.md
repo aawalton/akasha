@@ -18,6 +18,6 @@ The editor supplies `vscode` at load.
 
 The editor loads the TypeScript source itself, and every tree carrying that symlink loads the same files, the artefact Alan runs included.
 
-Every relative import names its `.ts` extension, and no file here carries an enum, a namespace or a parameter property.
+Every relative import names its `.ts` extension, and no file here carries a parameter property.
 
 A change here reaches Alan on a window reload alone.

@@ -57,3 +57,13 @@ A class ties state to behaviour behind a `this` the call site can change.
 Extend `Error` where a throw needs its own type.
 
 A class expression is a class.
+
+## No Enum Or Namespace
+
+**Write a string-literal union rather than an `enum`, and a module rather than a `namespace`.**
+
+Both emit runtime code where a type or a file would have done.
+
+A `const enum` is an enum.
+
+A `declare global` block is not a namespace.
