@@ -4,7 +4,7 @@ page-type-slug: check
 title: "Page holds to its type"
 slug: page-holds-to-its-type
 needs: tree
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
