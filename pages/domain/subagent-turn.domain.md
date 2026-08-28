@@ -23,9 +23,3 @@ A subagent under a stopped seat stands as stopped.
 A subagent's death announces itself to nothing; its page is taken on the return, the stop its seat asked for, or the seat starting fresh.
 
 A stop is read from what the seat asked, so stopping a subagent already gone still takes its page.
-
-# Intent
-
-A subagent's death reaches the seat that started it.
-
-A subagent that died is started again, or the seat above it is told it will not be.
