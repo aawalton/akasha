@@ -2,8 +2,9 @@ import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { advise, judge, over } from "../../outcome/outcome"
 import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
-import { PROPERTY_GLOBS } from "../../page/page-types.ts"
+import { PROPERTY_GLOBS, PROPERTY_KINDS } from "../../page/page-types.ts"
 import { PROPERTY_ROOTS, vocabularyFor } from "../../page/property/frontmatter.ts"
+import { indexedPaths } from "../../page/property/registry.ts"
 import { namesIn, backReference, ruleFor, TYPE, TYPE_VOCABULARY } from "../../page/property/value.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -47,7 +48,12 @@ function typed(tree: FileTree): { on: ReadonlyMap<string, string[]>; unread: rea
   const on = new Map<string, string[]>()
   const unread: Unread[] = []
   let properties = 0
-  for (const relPath of tree.paths(PROPERTY_GLOBS)) {
+  // A PROPERTY DEFINITION STANDS WHERE ITS DOMAIN DOES, NOT UNDER ONE FOLDER. `page-type` says
+  // a page type and its property definitions live where their domain lives, and 57 of them do —
+  // 41 under `readouts/` and 16 under `graph/`. Globbing the place folder found 2231 of 2288 and
+  // reported nothing about the rest, so no `type:` they state was ever checked for binding a
+  // rule. The index knows them by kind; the globs are the fallback for a tree with no index.
+  for (const relPath of indexedPaths(tree, PROPERTY_KINDS, PROPERTY_GLOBS)) {
     properties += 1
     const text = tree.open(relPath)
     if (text === null) {
@@ -168,7 +174,7 @@ export const propertyTypesBind: Check = (repo) => {
     `${bound.length} of ${names.length} type name(s) bind a rule; ` +
     `${unbound.length} \`${TYPE_VOCABULARY}\` declares and ${ENGINE} states no rule for, ` +
     `${undeclared.length} propert(ies) typed against a name \`${TYPE_VOCABULARY}\` declares nowhere — ` +
-    `over ${properties} file(s) under \`${PROPERTY_ROOTS.join("/` or `")}/\`, ${unread.length} of which state no type this could read`
+    `over ${properties} property definition(s), ${unread.length} of which state no type this could read`
 
   const landable = [...bare, ...first(stateOne), ...first(unread.map((one) => `${one.relPath} — ${one.why}`))]
   const blocked = first(stateTwo)
