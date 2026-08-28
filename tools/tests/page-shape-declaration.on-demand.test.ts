@@ -4,7 +4,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { hold, shapeOf, type Forebear, type Shape } from "../../page/shape/shape.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
-import { claimant, PAGE_GLOBS, scan } from "../../page/page-types.ts"
+import { claimant, PAGE_GLOBS, scanSpanning } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
@@ -140,11 +140,11 @@ describe("a page type that is a page of its own type", () => {
   })
 })
 
-describe("the pages standing in the instructions repo", () => {
+describe("the pages standing in the akasha repo", () => {
   const roots = resolveRoots()
   const tree = diskFileTree(roots)
   const types = registryOf(tree)
-  const paths = scan(roots, PAGE_GLOBS)
+  const paths = scanSpanning(roots, PAGE_GLOBS)
 
   test("there are pages and page types to look at, so a pass below is a reading rather than an empty set", () => {
     expect(paths.length).toBeGreaterThan(0)
