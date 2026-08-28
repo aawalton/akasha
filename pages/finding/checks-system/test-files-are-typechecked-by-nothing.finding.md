@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "Test files are typechecked by nothing"
-domain-slug: checks-system
+domain-slug: domain/checks-system
 ---
 
 # Claim

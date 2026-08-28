@@ -3,7 +3,6 @@ id: 2b8f112c-feb5-5272-b425-600eed54552c
 slug: coordinator-spec-headers-held-an-incident
 page-type-slug: finding
 title: "A production incident write-up was deleted with the coordinator spec headers, and no reachable copy remains"
-domain-parent-slug: page-type/pipeline
 domain-slug: page-type/pipeline
 ---
 

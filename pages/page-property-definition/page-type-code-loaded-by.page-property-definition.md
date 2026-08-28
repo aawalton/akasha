@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Code loaded by"
 defined-on-slug: page-type/page-type
 key: code-loaded-by
-type: string
+type: text
 default: none
 slug: page-type-code-loaded-by
 domain-parent-slug: page-type/page-type
