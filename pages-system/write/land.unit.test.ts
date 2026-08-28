@@ -287,3 +287,40 @@ describe("what the landing is told the commit is for", () => {
     expect(only().message).toBe("domain: write pages/domain/thing.domain.md for Alan")
   })
 })
+
+describe("what a write will not do to the kind of page it found", () => {
+  beforeEach(faked)
+
+  it("refuses to write one page type over a page holding another", () => {
+    const root = rootWith({ [AT]: STOOD })
+    const written = putPage({ ...putting(root, {}, null), pageType: "persona" })
+    expect(whyOf(written)).toBe(
+      `${MARK}page-type-slug${MARK} stands here holding ${MARK}domain${MARK}, and writing ` +
+        `${MARK}persona${MARK} over it would make this another page`
+    )
+    expect(asking).toEqual([])
+  })
+
+  it("refuses to take away a path that names no page type", () => {
+    const root = rootWith({ "pages/domain/notes.md": "loose\n" })
+    const taken = takePage({ repo: repoAt(root), at: "pages/domain/notes.md", by: null })
+    expect(whyOf(taken)).toContain("names no page type")
+    expect(asking).toEqual([])
+  })
+
+  it("leaves a page named after this one standing, taking only what is not a page", () => {
+    const root = rootWith({
+      [AT]: STOOD,
+      [ROWS]: (String.raw`{"seq":1}` + "\n") as string,
+      "pages/domain/thing.domain.note.md": "---\npage-type-slug: note\n---\n",
+    })
+    takePage({ repo: repoAt(root), at: AT, by: null })
+    expect(only().removing).toEqual([AT, ROWS])
+  })
+
+  it("says which path a refusal is about", () => {
+    const root = rootWith({})
+    const taken = takePage({ repo: repoAt(root), at: AT, by: null })
+    expect(taken.at).toBe(AT)
+  })
+})
