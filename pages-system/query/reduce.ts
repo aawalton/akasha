@@ -85,7 +85,7 @@ export const reducedFor = (
       reduced.set(key, NOTHING)
       continue
     }
-    const number = how === "sum" ? mine.total : mine.total / pages.length
+    const number = how === "sum" ? mine.total : mine.total / mine.over
     reduced.set(key, { value: { kind: "number", number }, over: mine.over })
   }
   return reduced
