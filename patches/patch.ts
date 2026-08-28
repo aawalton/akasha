@@ -91,7 +91,7 @@ export function patchText(
   }
 }
 
-function refusalsOver(
+export function refusalsOver(
   patch: string,
   root: string,
   goneElsewhere: readonly string[],
