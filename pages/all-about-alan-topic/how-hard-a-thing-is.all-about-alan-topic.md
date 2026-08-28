@@ -14,8 +14,12 @@ topic-parents-slugs: what-an-activity-costs-me
 
 Its rung is what my safety level gets compared against.
 
+My projects have a base of rung two, and rebuilding the foundational layers under them raises the difficulty above that base.
+
 # Questions
 
 Where the ladder tops out is open. Door-knocking in a foreign language sits above criticism, and that label may be two things rather than one rung.
 
 The downward probe assumes an ordered list of easier things to walk down. Is that list these rungs, or a finer personal ordering I actually step through?
+
+The rebuild was priced at rung three in a question I answered rather than in words of my own. Abby's note: he confirmed the cost at that framing without naming the rung himself, so three is unconfirmed.
