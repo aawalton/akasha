@@ -4,7 +4,7 @@ page-type-slug: check
 title: "Typecheck"
 slug: typecheck
 needs: tree
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
