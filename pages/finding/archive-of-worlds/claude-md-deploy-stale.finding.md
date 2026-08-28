@@ -3,7 +3,7 @@ id: 3ca3f845-4f23-51c1-a21b-54fc367da5aa
 slug: claude-md-deploy-stale
 page-type-slug: finding
 title: "Claude MD deploy stale"
-domain-slug: domain/995
+domain-slug: domain/archive-of-worlds
 ---
 
 # Claim
