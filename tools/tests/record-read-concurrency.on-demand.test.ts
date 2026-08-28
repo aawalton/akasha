@@ -5,7 +5,7 @@ import { exclusively } from "../../exclusive/exclusive.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
-const HOOK = `${import.meta.dir}/../hooks/record-read.ts`
+const HOOK = `${import.meta.dir}/../hooks/agent-hook-record-read.agent-hook.code.attachment.ts`
 const AGENT = "agent-parallel"
 const EXCLUSIVE = `${import.meta.dir}/../../exclusive/exclusive.ts`
 const WRITE_WHOLE = `${import.meta.dir}/../../write-whole/write-whole.ts`
