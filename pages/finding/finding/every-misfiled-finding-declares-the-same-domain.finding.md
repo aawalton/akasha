@@ -3,7 +3,7 @@ id: c482d6c6-cdaa-541e-8b47-0452a350a1cf
 page-type-slug: finding
 title: "Every misfiled finding declares the same domain"
 slug: every-misfiled-finding-declares-the-same-domain
-domain-slug: domain/finding
+domain-slug: page-type/finding
 ---
 
 # Claim
