@@ -1,5 +1,5 @@
-import { afterAll, beforeEach, describe, expect, mock, test } from "bun:test"
-import type { Page } from "@shared/pages-core/page-types"
+import { beforeEach, describe, expect, mock, test } from "bun:test"
+import { Page } from "@shared/pages-core/page-types"
 
 const TOKEN = "wt_0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
 const TOKEN_SHA256 = "075ca82e4a533c9dc2cd45cbff379464a0163550bceedae2fd2e9fe27965c773"
@@ -14,89 +14,22 @@ let enrolment: Page | null = null
 let patchFails: Error | null = null
 let patchCalls: unknown[] = []
 
-const realPagesAccess = await import("@shared/pages-access")
-const realGetPage = realPagesAccess.getPage
-const realPatchPageById = realPagesAccess.patchPageById
+mock.module("@shared/pages-access/get", () => ({
+  getPage: async (): Promise<Page | null> => enrolment,
+}))
 
-let currentGetPage = realGetPage
-let currentPatchPageById = realPatchPageById
-
-afterAll(() => {
-  currentGetPage = realGetPage
-  currentPatchPageById = realPatchPageById
-})
-
-mock.module("@shared/pages-access", () => ({
-  DETAIL_CONFIG_KEY: realPagesAccess.DETAIL_CONFIG_KEY,
-  NEVER_MATCH_SLUG: realPagesAccess.NEVER_MATCH_SLUG,
-  NEVER_MATCH_VALUE: realPagesAccess.NEVER_MATCH_VALUE,
-  PROMOTED_COLUMN: realPagesAccess.PROMOTED_COLUMN,
-  PROMOTED_COLUMN_KEYS: realPagesAccess.PROMOTED_COLUMN_KEYS,
-  Page: realPagesAccess.Page,
-  PageTypeSlug: realPagesAccess.PageTypeSlug,
-  PageTypesMissing: realPagesAccess.PageTypesMissing,
-  PageTypesUnread: realPagesAccess.PageTypesUnread,
-  PageWriteError: realPagesAccess.PageWriteError,
-  applySelect: realPagesAccess.applySelect,
-  bulkUpsertPages: realPagesAccess.bulkUpsertPages,
-  captureError: realPagesAccess.captureError,
-  collectPages: realPagesAccess.collectPages,
-  comparePageSeq: realPagesAccess.comparePageSeq,
-  completePage: realPagesAccess.completePage,
-  createPage: realPagesAccess.createPage,
-  createPageIfAbsent: realPagesAccess.createPageIfAbsent,
-  createPageType: realPagesAccess.createPageType,
-  detailConfigFor: realPagesAccess.detailConfigFor,
-  extractRelationContainment: realPagesAccess.extractRelationContainment,
-  flattenRow: realPagesAccess.flattenRow,
-  getDescendantPageTypeSlugs: realPagesAccess.getDescendantPageTypeSlugs,
-  getDetailConfig: realPagesAccess.getDetailConfig,
-  getFileDetailConfig: realPagesAccess.getFileDetailConfig,
-  getMediaConfig: realPagesAccess.getMediaConfig,
-  getOrderedChildren: realPagesAccess.getOrderedChildren,
-  getOrderedNeighbors: realPagesAccess.getOrderedNeighbors,
-  getPage: (...args: Parameters<typeof realGetPage>) => currentGetPage(...args),
-  getPageByIdSuffix: realPagesAccess.getPageByIdSuffix,
-  getPageByIdSuffixAcrossTypes: realPagesAccess.getPageByIdSuffixAcrossTypes,
-  getPageTypeByPluralSlug: realPagesAccess.getPageTypeByPluralSlug,
-  getPageTypeBySlug: realPagesAccess.getPageTypeBySlug,
-  getPageTypeIdBySlug: realPagesAccess.getPageTypeIdBySlug,
-  getPageTypeIdsBySlugs: realPagesAccess.getPageTypeIdsBySlugs,
-  getPages: realPagesAccess.getPages,
-  getPagesByRelation: realPagesAccess.getPagesByRelation,
-  getPagesForView: realPagesAccess.getPagesForView,
-  getPropertyDefinitions: realPagesAccess.getPropertyDefinitions,
-  getSequenceConfig: realPagesAccess.getSequenceConfig,
-  hardDeletePage: realPagesAccess.hardDeletePage,
-  hardDeletePageById: realPagesAccess.hardDeletePageById,
-  hardDeletePageByIds: realPagesAccess.hardDeletePageByIds,
-  hardDeletePages: realPagesAccess.hardDeletePages,
-  isPromotedKey: realPagesAccess.isPromotedKey,
-  parsePageSeq: realPagesAccess.parsePageSeq,
-  patchPage: realPagesAccess.patchPage,
-  patchPageById: (...args: Parameters<typeof realPatchPageById>) => currentPatchPageById(...args),
-  patchPageTypeById: realPagesAccess.patchPageTypeById,
-  patchPages: realPagesAccess.patchPages,
-  patchPropertyDefinitionById: realPagesAccess.patchPropertyDefinitionById,
-  recordPageView: realPagesAccess.recordPageView,
-  reschedulePage: realPagesAccess.reschedulePage,
-  softDeletePage: realPagesAccess.softDeletePage,
-  softDeletePageById: realPagesAccess.softDeletePageById,
-  softDeletePages: realPagesAccess.softDeletePages,
-  streamPages: realPagesAccess.streamPages,
-  tryExtractIdEq: realPagesAccess.tryExtractIdEq,
-  uncompletePage: realPagesAccess.uncompletePage,
-  undeletePage: realPagesAccess.undeletePage,
-  undeletePageById: realPagesAccess.undeletePageById,
-  undeletePages: realPagesAccess.undeletePages,
-  upsertPage: realPagesAccess.upsertPage,
-  upsertPages: realPagesAccess.upsertPages,
+mock.module("@shared/pages-access/patch", () => ({
+  patchPageById: async (args: unknown): Promise<Page | null> => {
+    patchCalls.push(args)
+    if (patchFails !== null) throw patchFails
+    return enrolment
+  },
 }))
 
 const { validateWatcherToken, watcherTokenHash } = await import("./watcher-auth")
 
 function enrolled(tokenHash: string): Page {
-  return realPagesAccess.Page({
+  return Page({
     id: ENROLMENT_ID,
     tokenHash,
     accountUserId: USER_ID,
@@ -108,12 +41,6 @@ beforeEach(() => {
   enrolment = null
   patchFails = null
   patchCalls = []
-  currentGetPage = async () => enrolment
-  currentPatchPageById = async (args: unknown) => {
-    patchCalls.push(args)
-    if (patchFails !== null) throw patchFails
-    return enrolment
-  }
 })
 
 describe("watcherTokenHash", () => {
@@ -142,7 +69,7 @@ describe("validateWatcherToken fails closed", () => {
   })
 
   test("refuses when the enrolment states no account", async () => {
-    enrolment = realPagesAccess.Page({
+    enrolment = Page({
       id: ENROLMENT_ID,
       tokenHash: TOKEN_SHA256,
       accountUserId: USER_ID,
