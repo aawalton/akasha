@@ -32,13 +32,13 @@ The order above is cheapest and safest first; each intent comes off as it is met
 
 **The query path reads the index, and the index is load-bearing rather than advisory.** `page-derive.ts` calls `scanIn`, which consults the index first at `page/page-types.ts:81-87`. Measured: 22ms through the index against 218ms forcing the disk walk over the same 721 paths. `page/index/scan/scan.ts:30-35` throws rather than falling back where a repo carries no mark, because an empty answer reads like a repo with no pages and would pass every check. So it is **more** expensive to change than its importer count suggests, and cannot be treated as separate from the query path.
 
-**Every single-page write rewrites all 18 MB of `pages.jsonl`.** `page/index/store/store.ts:387-397` sorts all 59,061 rows and writes the file whole, unconditionally, so the cost of keeping the index current is fixed rather than proportional to what changed. The data is not in the working tree: `place.ts:52-59` puts it under the absolute git dir, so it is never committed and invisible to search.
+Filed as `pages-index/every-single-page-write-rewrites-the-whole-row-file`.
 
 **`shared/pages-access/` is the one most likely to go wrong quietly.** Both mechanisms are filed and both sitings above had drifted: the client-side re-filter on `a-dropped-narrow-is-refused-on-write-and-passed-over-on-read`, path-hashed ids on `a-page-path-is-its-identity`.
 
 **`expression` is dropped three hops above `shared/pages-access/`.** `tools/lib/page-query-shape.ts:99-109` and `shared/pages-query/src/ask.ts:203-213` each build a property definition from a hand-listed nine fields that omit it, so `file-property-defs.ts:88-100` is the third link rather than the break. Nothing parse-fails: `isComputed` reads false and the value passes through untouched. The successor sets `expression` at all three points or at none.
 
-**Seq allocation is above the gate and `landFiles` is below it.** `repo/land/land.ts:271` runs `akashaGated` from `land` alone, so a caller reaching `landFiles` directly moves a `next-seq` counter with nothing checking it. `tools/lib/page-seq.ts` takes every seq by spawning the edit command; wherever it moves next, it moves above the gate.
+Filed as `page-writes-system/five-production-sites-land-akasha-pages-below-the-gate`.
 
 **A barrel cannot be edited, only deleted, and the tests mocking it are live.** `export-declared-here` refuses every forwarded export, so there is no repair path — but a removal is not judged for its body, so deleting works where editing does not. Before deleting one, find what mocks it: a test that awaits a barrel and calls `mock.module` on that specifier has Bun write the mock backwards through the re-export chain into the subpath modules the code under test imports, so the mock is live though nothing under test imports the barrel. Delete the barrel under such a test and its stub stops being reached — on `shared/pages-access` that turned one test into four live calls and an attempted write. Convert the tests onto subpath mocks first.
 
