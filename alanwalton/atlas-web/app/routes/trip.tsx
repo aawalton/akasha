@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { getPageByIdSuffix } from "@shared/pages-access/get"
 import { getPagesByRelation } from "@shared/pages-access/get-by-relation"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"

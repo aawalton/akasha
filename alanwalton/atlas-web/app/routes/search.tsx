@@ -1,13 +1,7 @@
-import {
-  Button,
-  Card,
-  InputGroup,
-  InputGroupAddon,
-  InputGroupButton,
-  InputGroupInput,
-  PageLayout,
-  PageTitle,
-} from "@shared/design-system"
+import { InputGroup, InputGroupAddon, InputGroupButton, InputGroupInput } from "@shared/design-forms/components/input-group"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card } from "@shared/design-primitives/components/card"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"

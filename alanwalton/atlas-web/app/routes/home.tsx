@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 
 export function meta() {
   return [{ title: "Atlas" }]

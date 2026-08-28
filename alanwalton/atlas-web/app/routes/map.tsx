@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { collectPages } from "@shared/pages-access/iterate"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"

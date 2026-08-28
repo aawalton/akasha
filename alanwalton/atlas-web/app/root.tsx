@@ -1,5 +1,6 @@
 import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
-import { CommandPalette, ShortcutSheet } from "@shared/design-system"
+import { CommandPalette } from "@shared/design-primitives/components/command-palette"
+import { ShortcutSheet } from "@shared/design-primitives/components/shortcut-sheet"
 import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"
 import { reportError } from "@shared/errors-client/report-error"
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
