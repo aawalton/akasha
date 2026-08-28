@@ -25,9 +25,9 @@ Opened 2026-08-28 to hold the third intent of `astra-pages-system`. The last int
 
 **Every count of this corpus is a reading with a commit attached, never a fact.** The first version of this paragraph gave 137 with no commit, which is the same error as the line it replaced — "29 sorted and fails the other 3,236" was true at `1c8e5677b` and was quoted here as though it described now. A number taken from a corpus that other agents are changing goes stale in hours, and nothing about the number says so.
 
-`findings-sorted` is still red — 2,379 sorted under 327 domain folders, 731 not sitting under the domain they name, no truncation in the list, measured at `d8b608167`. But red now means misfiled rather than unreadable: every finding names a domain that exists, none carries a bare number, none is missing its page-type prefix, none is missing a slug, and `domain/946` appears nowhere.
+Filed as `finding/every-misfiled-finding-declares-the-same-domain`.
 
-**Five costumes of this miscount are on record, and the fifth was built by someone who had just read the other four:** a folder-anchored glob, a `pages/`-only walk, a directory-scoped positive control, a page-type-restricted parent walk, and a keyword sweep over finding bodies. Each produced a clean number that looked like an answer. A warning about an instrument does not fire while you are building one.
+Filed as `checks-system/a-fifth-instrument-for-counting-one-finding-subtree-miscounted-it-too`.
 
 **The set, surveyed 2026-08-28 at `1c8e5677b`: 206 open in the tree.** 85 live, 109 whose defect is gone, 1 wrong, 11 unverified. Taking out the 29 that reach the tree only through `repo/akasha-repo` gives 177.
 
