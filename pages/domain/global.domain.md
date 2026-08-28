@@ -6,6 +6,7 @@ slug: global
 domain-parent-slug: domain/global
 persona-champion-slug: aine
 sequence-slugs:
+  - domain/akasha-system
   - domain/domain-system
   - domain/pages-system
   - domain/graph-system
