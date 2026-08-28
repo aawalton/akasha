@@ -26,7 +26,7 @@ describe("classifyLogSignature", () => {
   test("a check that found real violations is charged to nothing", () => {
     const log = [
       "[yaml-usage] Orphan yaml files — no use site in either repository:",
-      "  - infra/k8s/src/cloudflared/k8s/secret.sops.yaml",
+      "  - infra/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml",
       "[yaml-usage] 2 orphan(s) of 42 yaml files",
     ].join("\n")
     expect(classifyLogSignature(log)).toBeNull()
