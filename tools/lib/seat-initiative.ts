@@ -5,7 +5,7 @@ import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
-import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { fileStemOf } from "../../page/name/name.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 import { frontmatterOf } from "./seat-presence-read.ts"
@@ -52,8 +52,11 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   for (const at of initiativeFiles(root)) {
     const held = frontmatterOf(`${root}/${at}`)
     if (held === null || held[SLUG_KEY] !== bare) continue
-    const stated = held[PAGE_TYPE_SLUG]
-    return { relPath: at, pageTypeSlug: typeof stated === "string" && stated !== "" ? stated : KEY }
+    // THE NAME SETTLES THE PAGE TYPE. This read the file’s own `page-type-slug:` and handed that
+    // on as the initiative’s page type, so a file under initiatives/ claiming another kind sent
+    // `initiativeWarrant` to that kind’s page type page for its required reading, and the page type
+    // the name carries went unread. The path that decides it was already in hand a line above.
+    return { relPath: at, pageTypeSlug: pageTypeOf(at) ?? KEY }
   }
   return null
 }
