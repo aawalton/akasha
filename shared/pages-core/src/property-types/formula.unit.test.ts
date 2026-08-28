@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { PropertyDefinition } from "../types"
-import { formulaOps } from "./formula"
+import type { PropertyDefinition } from "../types.ts"
+import { formulaOps } from "./formula.ts"
 
 const numberFormula: PropertyDefinition = {
   id: "f",
@@ -46,12 +46,6 @@ describe("formulaOps.validate", () => {
 })
 
 describe("formulaOps.getSortValue", () => {
-  test("formula error returns null", () => {
-    expect(
-      formulaOps.getSortValue({ __formulaError: "division by zero", code: "divide_by_zero" })
-    ).toBeNull()
-  })
-
   test("null returns null", () => {
     expect(formulaOps.getSortValue(null)).toBeNull()
   })

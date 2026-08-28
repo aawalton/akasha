@@ -1,10 +1,8 @@
 "use client"
 
-import { Badge } from "@shared/design-badges/components/badge"
 import { BadgeLayoutProvider } from "@shared/design-badges/components/badge-layout-context"
 import { EmptyBadge } from "@shared/design-badges/components/empty-badge"
 import { Icon } from "@shared/design-patterns/components/icon"
-import { isComputed, isFormulaError } from "@shared/pages-core/formula/resolve"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "@shared/pages-core/types"
 import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
 import type { ComponentType } from "react"
@@ -78,13 +76,7 @@ export function PropertyBadge(props: PropertyBadgeProps) {
       display={property.display}
       icon={icon}
     >
-      {isComputed(property) && isFormulaError(value) ? (
-        <Badge variant="destructive" title={value.__formulaError}>
-          Error
-        </Badge>
-      ) : (
-        <Component {...props} lookup={lookup} />
-      )}
+      <Component {...props} lookup={lookup} />
     </BadgeLayoutProvider>
   )
 }

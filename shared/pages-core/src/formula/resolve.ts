@@ -1,10 +1,10 @@
-import { requireGet } from "../../../utils-narrow/src/require-get"
-import type { PageDataJSON, PropertyDefinition } from "../types"
-import type { ReadonlyJSONValue } from "../schema/pages"
-import { evaluateFormula } from "./evaluate"
-import { FormulaEvaluationError, type FormulaEvaluationErrorCode } from "./errors"
-import { parseExpression } from "./parser"
-import { FormulaParseError } from "./lexer"
+import { requireGet } from "../../../utils-narrow/src/require-get.ts"
+import type { PageDataJSON, PropertyDefinition } from "../types.ts"
+import type { ReadonlyJSONValue } from "../schema/pages.ts"
+import { evaluateFormula } from "./evaluate.ts"
+import { FormulaEvaluationError, type FormulaEvaluationErrorCode } from "./errors.ts"
+import { parseExpression } from "./parser.ts"
+import { FormulaParseError } from "./lexer.ts"
 
 export type FormulaErrorCode = FormulaEvaluationErrorCode | "parse_error"
 
@@ -12,10 +12,6 @@ interface FormulaError {
   readonly __formulaError: string
   readonly code: FormulaErrorCode
   readonly [key: string]: ReadonlyJSONValue
-}
-
-function isFormulaError(value: unknown): value is FormulaError {
-  return typeof value === "object" && value !== null && "__formulaError" in value
 }
 
 function isExpressionConfig(
@@ -108,4 +104,4 @@ export function resolveComputedProperties(
   return enriched
 }
 
-export { isFormulaError, isComputed }
+export { isComputed }

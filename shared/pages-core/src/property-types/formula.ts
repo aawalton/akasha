@@ -1,12 +1,11 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { isFormulaError } from "../formula/resolve"
-import { formulaConfigSchema } from "../schema/property-config-schemas"
-import type { PropertyDefinition } from "../types"
-import { booleanOps } from "./boolean"
-import { dateOps } from "./date"
-import { textFilterPredicate } from "./filter-utils"
-import { numberOps, toNumber } from "./number"
-import type { FilterConfig, FilterOperatorOption, PropertyTypeOps, PropertyValue } from "./types"
+import { assertNever } from "../../../utils-narrow/src/assert-never.ts"
+import { formulaConfigSchema } from "../schema/property-config-schemas.ts"
+import type { PropertyDefinition } from "../types.ts"
+import { booleanOps } from "./boolean.ts"
+import { dateOps } from "./date.ts"
+import { textFilterPredicate } from "./filter-utils.ts"
+import { numberOps, toNumber } from "./number.ts"
+import type { FilterConfig, FilterOperatorOption, PropertyTypeOps, PropertyValue } from "./types.ts"
 
 export const formulaOps: PropertyTypeOps = {
   validate() {
@@ -14,7 +13,6 @@ export const formulaOps: PropertyTypeOps = {
   },
 
   getSortValue(value: PropertyValue) {
-    if (isFormulaError(value)) return null
     if (value === null || value === undefined) return null
     const n = toNumber(value)
     if (n !== null) return n

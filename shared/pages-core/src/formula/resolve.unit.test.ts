@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { PageDataJSON, PropertyDefinition } from "../types"
-import { isFormulaError, isLiveFormulaConfig, resolveComputedProperties } from "./resolve"
+import type { PageDataJSON, PropertyDefinition } from "../types.ts"
+import { isLiveFormulaConfig, resolveComputedProperties } from "./resolve.ts"
 
 function formulaDef(id: string, expression: string): PropertyDefinition {
   return { id, title: id, type: "formula", config: { expression } } satisfies PropertyDefinition
@@ -8,6 +8,10 @@ function formulaDef(id: string, expression: string): PropertyDefinition {
 
 function textDef(id: string): PropertyDefinition {
   return { id, title: id, type: "text" } satisfies PropertyDefinition
+}
+
+function isFormulaError(value: unknown): boolean {
+  return value !== null && typeof value === "object" && "__formulaError" in value
 }
 
 function formulaErrorMessage(value: unknown): string {
@@ -137,28 +141,6 @@ describe("resolveComputedProperties", () => {
     expect(result.price).toBe(100)
     expect(result.qty).toBe(3)
     expect(result.total).toBe(300)
-  })
-})
-
-describe("isFormulaError", () => {
-  test("returns true for FormulaError object", () => {
-    expect(isFormulaError({ __formulaError: "some error" })).toBe(true)
-  })
-
-  test("returns false for null", () => {
-    expect(isFormulaError(null)).toBe(false)
-  })
-
-  test("returns false for strings", () => {
-    expect(isFormulaError("hello")).toBe(false)
-  })
-
-  test("returns false for numbers", () => {
-    expect(isFormulaError(42)).toBe(false)
-  })
-
-  test("returns false for plain objects without __formulaError", () => {
-    expect(isFormulaError({ key: "value" })).toBe(false)
   })
 })
 
