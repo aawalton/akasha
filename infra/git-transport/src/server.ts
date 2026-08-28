@@ -7,10 +7,9 @@ import { transportRepo } from "./repos"
 
 const PORT = z.coerce.number().int().positive().default(3000).parse(process.env.PORT)
 
-// The three internal endpoints below answer about the repository the pipeline runs on, which is
-// akasha. Each spelled `alan/code.git` in its own body, so they went on answering about a retired
-// repository once the work moved, and a fourth would have spelled it again. The path is taken
-// from the transport's own register, which is also what keeps that repo stored and mirrored.
+// The three internal endpoints below answer about the repository the pipeline runs on. The path
+// is taken from the transport's own register rather than spelled in each body, so a repository
+// that stops being the one worked in cannot go on being answered about here.
 const ANSWERED_ABOUT = transportRepo("akasha").bareRepoPath
 
 const GIT_ROUTE = /^\/([^/]+\/[^/]+\.git)\/(info\/refs|git-upload-pack|git-receive-pack)$/
