@@ -38,7 +38,7 @@ for (const [relPath, text] of Object.entries(FILES)) {
   writeFileSync(join(root, relPath), text)
 }
 mkdirSync(join(root, "pages/keeper"), { recursive: true })
-writeFileSync(join(root, "pages/keeper/ada.md"), page(["page-type-slug: keeper", "title: Ada"]))
+writeFileSync(join(root, "pages/keeper/ada.keeper.md"), page(["page-type-slug: keeper", "title: Ada"]))
 writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n*.uncommitted.jsonl\n*.lock/\n")
 git(root, ["init", "--initial-branch", "main"])
 git(root, ["config", "user.email", "keeper@example.invalid"])
@@ -79,7 +79,7 @@ describe("where an uncommitted rows property stands", () => {
 
   it("is the path the writer resolves for it", () => {
     expect(whereRowsStand(ROOTS, "keeper-read", "ada")?.relPath).toBe(
-      "pages/keeper/ada.reads.uncommitted.jsonl"
+      "pages/keeper/ada.keeper.reads.uncommitted.jsonl"
     )
   })
 })
@@ -106,13 +106,13 @@ describe("what a write to an uncommitted rows property does", () => {
     const wrote = writeRow(ROOTS, "keeper-read", "ada", { slug: "one", at: 1 })
     expect(wrote?.refused ?? null).toBeNull()
     expect(wrote?.commitError ?? null).toBeNull()
-    expect(existsSync(join(root, "pages/keeper/ada.reads.uncommitted.jsonl"))).toBe(true)
-    expect(tracked()).not.toContain("pages/keeper/ada.reads.uncommitted.jsonl")
+    expect(existsSync(join(root, "pages/keeper/ada.keeper.reads.uncommitted.jsonl"))).toBe(true)
+    expect(tracked()).not.toContain("pages/keeper/ada.keeper.reads.uncommitted.jsonl")
   })
 
   it("reads the row back, a row being read as a page wherever a page is read", () => {
     writeRow(ROOTS, "keeper-read", "ada", { slug: "two", at: 2 })
-    const read = rowsPagesIn(ROOTS, "akasha:pages/keeper/ada.md", "ada", "keeper", "reads", true, () => {})
+    const read = rowsPagesIn(ROOTS, "akasha:pages/keeper/ada.keeper.md", "ada", "keeper", "reads", true, () => {})
     expect(read.map((one) => one.values.slug).sort()).toEqual(["one", "two"])
   })
 
@@ -121,15 +121,15 @@ describe("what a write to an uncommitted rows property does", () => {
     const took = removeRow(ROOTS, "keeper-read", "ada", "three")
     expect(took?.absent ?? null).toBeNull()
     expect(took?.commitError ?? null).toBeNull()
-    expect(tracked()).not.toContain("pages/keeper/ada.reads.uncommitted.jsonl")
+    expect(tracked()).not.toContain("pages/keeper/ada.keeper.reads.uncommitted.jsonl")
   })
 
   it("finds its parts under the same suffix", () => {
-    const base = join(root, "pages/keeper/ada.reads.uncommitted.jsonl")
-    writeFileSync(join(root, "pages/keeper/ada.reads.part2.uncommitted.jsonl"), "")
+    const base = join(root, "pages/keeper/ada.keeper.reads.uncommitted.jsonl")
+    writeFileSync(join(root, "pages/keeper/ada.keeper.reads.part2.uncommitted.jsonl"), "")
     expect(rowsPartsOf(base).map((one) => one.slice(root.length + 1))).toEqual([
-      "pages/keeper/ada.reads.uncommitted.jsonl",
-      "pages/keeper/ada.reads.part2.uncommitted.jsonl",
+      "pages/keeper/ada.keeper.reads.uncommitted.jsonl",
+      "pages/keeper/ada.keeper.reads.part2.uncommitted.jsonl",
     ])
   })
 })
