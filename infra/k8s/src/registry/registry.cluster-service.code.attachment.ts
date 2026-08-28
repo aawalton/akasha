@@ -1,7 +1,6 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY, workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { APP_NAME, INSTANCE_NAME, MANAGED_BY, NAMESPACE, PART_OF } from "./synth-constants"
-import { cronjobGcYaml } from "./synth-gc"
 
 const REGISTRY_IMAGE = "registry:3.0.0"
 
@@ -197,6 +196,5 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "pvc", yaml: pvcYaml() },
     { name: "deployment", yaml: deploymentYaml() },
     { name: "service", yaml: serviceYaml() },
-    { name: "cronjob-gc", yaml: cronjobGcYaml() },
   ]
 }
