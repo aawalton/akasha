@@ -30,8 +30,6 @@ export const RELATION_EDGE = "relation"
 
 export const RELATION_KEY = "relation-key"
 
-// The answer held here is what `linkTargetsFrom` works out, so that file is what its mark is taken
-// over rather than this producer, whose other logic the answer does not depend on.
 export const LINKS_SAID: SaidName = {
   name: "relation-links",
   entry: "page/index/link/link.ts",
@@ -47,18 +45,6 @@ type Standing = {
 
 const STANDING = new WeakMap<BuildContext, Standing>()
 
-/**
- * What the pages index says about relations, read once per context.
- *
- * THE INDEX IS READ RATHER THAN THE DEFINITIONS WALKED. `relations.json` already holds every
- * relation each page type carries, inheritance resolved, and `pages.jsonl` already holds the
- * identity fields every target is resolved through. Deriving either here is the same work the
- * index did, done a second time and answering the same.
- *
- * AN EMPTY INDEX FALLS BACK TO THE TREE, because a repository the index was never built over
- * would otherwise report a page as relating to nothing, which reads exactly like a page that
- * relates to nothing.
- */
 function standingIn(ctx: BuildContext): Standing {
   const had = STANDING.get(ctx)
   if (had !== undefined) return had
@@ -78,13 +64,6 @@ function standingIn(ctx: BuildContext): Standing {
   return made
 }
 
-/**
- * Every path this page's prose names, held against the file it was read from.
- *
- * A link is a relation key rather than an edge type of its own, by Alan's ruling on 2026-08-27:
- * the page's prose naming a path and its frontmatter declaring a claim are the same way of
- * connecting, and `link` is the key that says which one this was.
- */
 function linksFor(ctx: BuildContext, repo: string, key: string): readonly string[] {
   const root = ctx.roots[repo]
   if (root === undefined) return []
@@ -96,12 +75,6 @@ function linksFor(ctx: BuildContext, repo: string, key: string): readonly string
   return held.filter((one): one is string => typeof one === "string")
 }
 
-/**
- * The node an index target names.
- *
- * A page end carries no separator, being a stem and a type; a file end is a repository and a path
- * within it, so the first separator is what tells them apart.
- */
 function refOf(target: string, nodeAt: ReadonlyMap<string, NodeRef>): NodeRef | null {
   const cut = target.indexOf(ADDRESS_JOIN)
   if (cut < 0) return nodeAt.get(target) ?? null
@@ -114,13 +87,6 @@ type Targeting = {
 
 const TARGETING = new WeakMap<BuildContext, Targeting | null>()
 
-/**
- * What the reverse index can answer with, or nothing where it cannot be trusted to.
- *
- * EVERY REPOSITORY IS WEIGHED, NOT THE ONE ASKED ABOUT. What reaches a node may be declared in any
- * repository the graph reads, so one of them drifting is enough to make a targeted answer short,
- * and a short answer here is an edge nothing ever finds rather than one found slowly.
- */
 function targetingIn(ctx: BuildContext): Targeting | null {
   const had = TARGETING.get(ctx)
   if (had !== undefined) return had
@@ -137,13 +103,6 @@ function targetingIn(ctx: BuildContext): Targeting | null {
   return made
 }
 
-/**
- * Both names the index could have filed an edge into this node under.
- *
- * A page is reached by its stem and type where a relation resolved it as a page, and by its
- * repository and path where one named it as a file. One page can be reached both ways, so both
- * are asked rather than whichever looks more likely.
- */
 function namesOf(ref: NodeRef): readonly string[] {
   const found = [`${ref.repo}${ADDRESS_JOIN}${ref.key}`]
   const named = pageNameOf(ref.key)

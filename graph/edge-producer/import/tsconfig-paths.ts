@@ -70,11 +70,6 @@ function foundFor(root: string, dir: string): Aliases {
   return aliasesFor(root, up)
 }
 
-/**
- * THE NEAREST `tsconfig.json` IS THE ONE, whether or not it states any `paths` — a nearer config
- * stating none shadows a further one that does, which is what the compiler itself does. The walk
- * is held at every directory it passes through, so a tree of files under one config reads it once.
- */
 function aliasesFor(root: string, dir: string): Aliases {
   const found = HELD.get(dir)
   if (found !== undefined) return found
@@ -83,15 +78,6 @@ function aliasesFor(root: string, dir: string): Aliases {
   return made
 }
 
-/**
- * Where a `paths` alias sends a specifier, as absolute paths with no extension assumed.
- *
- * A TARGET IS TAKEN AGAINST THE DIRECTORY OF THE CONFIG STATING IT, which is what `paths` means
- * where no `baseUrl` stands, and no `baseUrl` stands anywhere here. An exact key beats every
- * pattern, and among patterns the longest prefix before the `*` wins — one key only, never the
- * union of every key that matched. Its targets come back in the order the config lists them,
- * being alternatives to try in turn rather than several places one specifier reaches at once.
- */
 export function aliasedTo(root: string, from: string, named: string): readonly string[] {
   const held = aliasesFor(root, dirname(from))
   const exact = held.exact.get(named)

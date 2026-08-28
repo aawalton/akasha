@@ -36,8 +36,6 @@ function chainOf(key: string): readonly string[] {
   return out
 }
 
-// A folder holding a `package.json` is a package whether or not that file names one, so the
-// folder's own key is the fallback. Reading `null` there would say it is not a package at all.
 function namedPackage(root: string, folder: string): string {
   const at = folder === ROOT_FOLDER ? `${root}/${PACKAGE_FILE}` : `${root}/${folder}/${PACKAGE_FILE}`
   try {

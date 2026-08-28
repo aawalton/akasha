@@ -111,9 +111,6 @@ function holdsOver(roots: Roots): Holds {
 
 function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>> {
   const made = new Map<string, ReadonlyMap<string, string>>()
-  // WALKED BY REPOSITORY NAME RATHER THAN BY KEY. `Roots` carries a `target` key beside the roots,
-  // whose value is a repository name and not a path, so an entries walk handed `git -C akasha` and
-  // threw on a directory of that name not being there.
   for (const repo of REPOS) {
     const root = roots[repo]
     if (root === undefined) continue
@@ -122,12 +119,6 @@ function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>
   return made
 }
 
-/**
- * The pages that moved while the walk was reading, as landings against what the walk saw.
- *
- * A PAGE THE WALK NEVER SAW COUNTS AS ADDED, AND ONE IT SAW THAT HAS GONE COUNTS AS REMOVED,
- * which is what `before` and `after` standing null already mean everywhere else here.
- */
 function missedDuring(
   roots: Roots,
   was: ReadonlyMap<string, ReadonlyMap<string, string>>,
@@ -154,19 +145,6 @@ function missedDuring(
   return found
 }
 
-/**
- * Every page in every repository read, and the index brought to what they say.
- *
- * THE WALK STANDS OUTSIDE THE LOCK AND THE WRITE STANDS INSIDE IT. Reading every page takes
- * about five seconds, and holding the index against every landing for that long would spend
- * more than a landing's whole budget.
- *
- * WHICH MEANS THE WALK IS OUT OF DATE BY THE TIME IT IS WRITTEN. Landings arriving during those
- * seconds stand in the tree but not in what the walk saw, and writing the walk over them takes
- * their rows away — which is what a refresh did, silently, about once per rebuild.
- * `missedDuring` names them by comparing each repository's page oids either side of the walk,
- * and they are applied on top before the lock is let go.
- */
 export function buildOver(roots: Roots): Built {
   const was = oidsOver(roots)
   const identity = identityOver(roots)
@@ -206,8 +184,6 @@ export function buildOver(roots: Roots): Built {
     settleIdentityFiles(identityText)
     keepPages(stated)
     keepRelations(relations)
-    // ONE GIT WALK RATHER THAN TWO. Naming what moved and marking what the index covers
-    // both want every repository's page oids, and a walk each cost a fifth of a second.
     const standing = oidsOver(roots)
     const missed = missedDuring(roots, was, standing, identity.pages)
     if (missed.length > 0) appliedInto(stated, missed, holds)
@@ -272,13 +248,6 @@ export function updateFor(
   return touched
 }
 
-/**
- * What each identity file gains and loses, worked out without opening one.
- *
- * THE FILES ARE NOT READ HERE. Every landing's effect on a file is settled from the landing alone,
- * so the read, the change and the write can then happen together under that file's lock; reading
- * here would put the read outside the lock, which is the fault this is arranged to avoid.
- */
 function placingsBy(landed: readonly Landed[]): ReadonlyMap<string, readonly Placing[]> {
   const byFile = new Map<string, Placing[]>()
   const at = (file: string): Placing[] => {
@@ -347,13 +316,6 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
   return found
 }
 
-/**
- * Landed pages applied to the rows already standing, with the index lock already held.
- *
- * SEPARATE FROM `landHere` BECAUSE A REBUILD APPLIES LANDINGS TOO, from inside a lock it is
- * already holding. Taking `underIndexLock` again here would be this process waiting on a lock
- * it holds itself, which the lock has no way to tell from another process holding it.
- */
 function appliedInto(
   pages: readonly Stated[],
   landed: readonly Landed[],
@@ -370,21 +332,6 @@ function appliedInto(
   return touched
 }
 
-/**
- * Every landed page's entries written into the index, or a refusal.
- *
- * AN INDEX HOLDING NO PAGE REFUSES RATHER THAN ANSWERING 0. A landing works out what to change
- * from what the index already says, so against an empty one it has nothing to change, and a 0
- * reads exactly like a landing that carried no page at all. That is what a rebuild looks like
- * from here for as long as it runs, and what an index nothing ever wrote looks like for good:
- * the commit lands in git, the index goes on describing a tree that has moved, and the only
- * sign of it is a row that is wrong until something else happens to land on the same page.
- *
- * THE ROWS ARE READ AND WRITTEN BACK UNDER ONE LOCK. Everything from `loadPages` to
- * `keepPages` is a read-modify-write over every row there is, and two landings doing it at
- * once lose one of the two. Which pages a landing carries makes no difference: the file is
- * written whole either way, so landings that touch nothing in common still collide.
- */
 export function landHere(landings: readonly Landing[], holds: Holds): number {
   const landed = landedOf(landings)
   if (landed.length === 0) return 0

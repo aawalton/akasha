@@ -97,10 +97,6 @@ function checkBlocks(c: Ctx, host: Section, parts: readonly BlockPart[]) {
   for (const part of proseParts) {
     const left = paragraphs.length - i
     const take = Math.min(part.cardinality.max, left)
-    // A REPEAT SHORT OF ITS FLOOR IS REFUSED AGAINST THE COUNT. This tested a boolean, so it
-    // fired only where no paragraph at all stood, and a shape stating three took one in silence.
-    // What does stand is still read against its content rule below, so a body short of the count
-    // hears about the count and about what it wrote, rather than about the count alone.
     if (take < part.cardinality.least)
       say(c, host.span, "a paragraph", atLeast(part.cardinality.least), take === 0 ? "none" : `${take}`)
     for (let n = 0; n < take; n += 1) {

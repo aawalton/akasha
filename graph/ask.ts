@@ -15,12 +15,6 @@ export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   loaderEdgeProducer,
   containsEdgeProducer,
 ]
-/**
- * Every kind of answer the graph holds.
- *
- * A NAME MISSING FROM HERE IS TAKEN FOR ABANDONED and its answers are removed, so an answer kind
- * that stops being listed loses what it had rather than keeping it under a name nothing sweeps.
- */
 export const HELD_ANSWERS: readonly SaidName[] = [FRONTMATTER_SAID, IMPORT_SAID, LINKS_SAID]
 
 export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {
@@ -94,8 +88,6 @@ export function edgesInto(
   const reached = new Set(repos)
   const found: EdgeInit[] = []
 
-  // A producer that can name what reaches a node is asked about the nodes asked after. Only the
-  // ones that cannot are worth walking the repository for.
   const walked: EdgeProducer[] = []
   for (const producer of EDGE_PRODUCERS) {
     if (!producer.edgeKinds(ctx).some((kind) => wanted.has(kind))) continue
@@ -104,8 +96,6 @@ export function edgesInto(
       walked.push(producer)
       continue
     }
-    // Held back until every ref is answered. A producer that declines partway is walked instead,
-    // and what it had already answered would otherwise be counted twice.
     const answered: EdgeInit[] = []
     let targeted = true
     for (const ref of refs) {

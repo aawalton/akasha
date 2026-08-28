@@ -1,13 +1,5 @@
 import type { HeadingLevel, Mark, Repo } from "./types.ts"
 
-/**
- * How many of one part may stand: no fewer than `least`, no more than `max`.
- *
- * THE FLOOR IS A COUNT BECAUSE A SHAPE STATES A COUNT. This held `required: boolean`, which can
- * only ever say "not none", so `repeat: 3` and `repeat: 1-3` compiled to one bound and every
- * shape naming an exact count enforced its ceiling alone. A boolean floor under a numeric ceiling
- * reads to whoever writes the shape as though both were kept.
- */
 export type Cardinality = { least: number; max: number }
 
 export type Ceiling = number & { readonly ceiling: unique symbol }

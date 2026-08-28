@@ -11,16 +11,6 @@ function saidOf(edge: EdgeInit): string {
   return `${edge.from.repo}:${edge.from.key} into ${edge.to.repo}:${edge.to.key}`
 }
 
-/**
- * What `into` answers, against what a walk finds.
- *
- * `edgesInto` SKIPS THE WALK FOR A PRODUCER THAT ANSWERS, so an `into` naming only some of what
- * reaches a node makes the rest unreachable rather than slow, and nothing else reports that. Here
- * that would be a page whose code attachment is named some way other than the tail this cuts.
- *
- * EVERY NODE IS ASKED RATHER THAN A SAMPLE, the answer costing a string comparison for a key that
- * is no code attachment, which is nearly all of them.
- */
 describe("what a loader reaches is the same asked either way", () => {
   const nodes = nodesIn(ctx, [AKASHA])
 

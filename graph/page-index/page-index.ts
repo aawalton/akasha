@@ -51,21 +51,6 @@ export function statedIn(ctx: BuildContext): readonly Stated[] {
   return made
 }
 
-/**
- * The index's rows are believed only where its mark still matches the tree.
- *
- * A ROW NAMES A PATH, AND A PATH GOES STALE. Where a page file moved or went after the index was
- * written, the rows still name where it was: `frontmatterAt` then reads nothing there and every
- * reader takes the empty answer for the page's own words. A check read that way reads as one
- * with no `check-on-patch: false` in it, which is a check that RUNS — so a drifted index turns
- * every stood-down check on at once, and the first thing anyone sees is thousands of violations
- * nowhere near the change that caused them.
- *
- * SO THE TREE IS READ INSTEAD, rather than refusing. `pagesIn` is one `git ls-files` and answers
- * exactly what this function needs; it was already the path taken for a repository the index
- * holds no row for. Refusing would be louder than serving a wrong answer and still wrong: the
- * caller wants the pages, they are cheaply knowable, and `memory` drifts as a matter of course.
- */
 function madeOver(ctx: BuildContext): PageIndex {
   const indexed = new Map<string, PageAt[]>()
   for (const one of statedIn(ctx)) {
@@ -97,4 +82,3 @@ export function pageIndexIn(ctx: BuildContext): PageIndex {
 export function pagesOfType(ctx: BuildContext, type: string): readonly PageAt[] {
   return pageIndexIn(ctx).byType.get(type) ?? []
 }
-

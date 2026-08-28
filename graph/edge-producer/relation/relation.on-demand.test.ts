@@ -16,17 +16,6 @@ function saidOf(edge: EdgeInit): string {
   return `${edge.from.repo}:${edge.from.key} into ${edge.to.repo}:${edge.to.key} by ${edge.attrs[RELATION_KEY]}`
 }
 
-/**
- * The answer `into` gives, against the answer a walk gives.
- *
- * `edgesInto` SKIPS THE WALK FOR A PRODUCER THAT ANSWERS, so an `into` naming only some of what
- * reaches a node makes the rest unreachable rather than slow, and nothing else reports that. This
- * is the only thing that would catch a relation key the reverse index files somewhere `into` does
- * not look — a new key, or one whose target is named a second way.
- *
- * IT IS ON-DEMAND BECAUSE THE WALK IT CHECKS AGAINST COSTS SECONDS, deriving every relation of
- * every page to answer about a few thousand of them.
- */
 describe("what reaches a node is the same asked either way", () => {
   const nodes = nodesIn(ctx, [AKASHA])
   const refs = nodes

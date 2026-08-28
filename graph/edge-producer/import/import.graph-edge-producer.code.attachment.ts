@@ -27,18 +27,6 @@ const ADDRESS_JOIN = "/"
 
 const REACHING = new WeakMap<BuildContext, ReadonlyMap<string, readonly EdgeInit[]> | null>()
 
-/**
- * Every module specifier a file imports, read as TypeScript syntax rather than matched as text.
- *
- * A PATTERN OVER THE TEXT CANNOT TELL AN IMPORT FROM A STRING SHAPED LIKE ONE. Matching
- * `from "x"` drew 50 edges the compiler reads no import for, each from a specifier inside a string
- * or a template literal: the generators under `tools/lib/temper-addon-data/` write import lines
- * into the files they emit, and the graph read a generator as importing what it only writes.
- *
- * A TYPE-ONLY IMPORT IS KEPT, which `Bun.Transpiler` erases and this must not. `cache/closure`
- * walks these edges to mark a held answer, so a closure short of its type imports would mark an
- * answer by less than the code that works it out.
- */
 export function namedIn(text: string): readonly string[] {
   const said = ts.preProcessFile(text, true, true)
   return [...new Set(said.importedFiles.map((one) => one.fileName))]
@@ -68,13 +56,6 @@ function specifiersFor(
   return held.filter((one): one is string => typeof one === "string")
 }
 
-/**
- * Every place one specifier could stand, in the order the compiler would try them.
- *
- * A relative specifier and a workspace package name each name ONE place, and a `paths` alias
- * names as many as its config lists. Aliases are asked last, so nothing a specifier already
- * resolved to moves.
- */
 export function basesOf(root: string, from: string, named: string): readonly string[] {
   if (named.startsWith(RELATIVE)) return [resolve(dirname(from), named)]
   const within = pathOf(packagesFor(root), named)
@@ -101,18 +82,6 @@ function specifiersIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
-/**
- * Every import edge here, keyed by the node it reaches.
- *
- * THE HELD ANSWERS ARE ALREADY THE FORWARD MAP, and inverting one in memory is the whole of this.
- * Each is filed under the git blob oid of the file it was worked out for, and `oidsUnder` says
- * which paths carry that oid: 54 oids here are shared by 154 paths, four copies of one route module
- * among them, so a path written into the answer would name one of those and lose the rest.
- *
- * A FILE WITH NO ANSWER HELD MAKES THE WHOLE OF THIS `null`. `edgesInto` skips the walk for a
- * producer that answers, so a map short of one file would make that file's imports unreachable
- * rather than slow. A cold cache is therefore walked, and the walk is what fills it.
- */
 function reachingOver(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[]> | null {
   const held = ctx.said.held(IMPORT_SAID)
   if (held === null) return null
@@ -140,12 +109,6 @@ function reachingOver(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[
   return found
 }
 
-/**
- * A MAP IS KEPT AND A REFUSAL IS NOT. The first ask on a cold cache is refused and walked, and the
- * walk is what fills the cache, so a refusal kept against the context would go on refusing for the
- * rest of the run and walk again for every ask after — working out what the first walk had already
- * worked out. Asking again costs one `existsSync` while the answers are still missing.
- */
 function reachingIn(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[]> | null {
   const held = REACHING.get(ctx)
   if (held !== undefined && held !== null) return held
@@ -180,8 +143,6 @@ export const importEdgeProducer: EdgeProducer = {
     }
     return edges
   },
-  // Every file's specifiers are held already, so what reaches a node is one pass over answers that
-  // are on disk rather than a pass over the repository working them out again.
   into: (ctx, ref) => {
     const reaching = reachingIn(ctx)
     if (reaching === null) return null

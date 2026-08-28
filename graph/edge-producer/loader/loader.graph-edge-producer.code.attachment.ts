@@ -72,10 +72,6 @@ export const loaderEdgeProducer: EdgeProducer = {
     const ref = { repo: file.repo, key: attachmentFileOf(file.key, CODE_KEY, CODE_EXTENSION) }
     return loadingOf(ctx, file, ref)
   },
-  // A loader edge reaches a page's code attachment and nothing else, and the page that attachment
-  // belongs to is its own key with the attachment tail swapped for the page one. So the single page
-  // an edge here could come from is named rather than searched for, and no node but that page and
-  // the one asked after is produced.
   into: (ctx: BuildContext, ref: NodeRef) => {
     if (!ref.key.endsWith(CODE_TAIL)) return []
     const key = `${ref.key.slice(0, -CODE_TAIL.length)}${PAGE_TAIL}`

@@ -14,8 +14,6 @@ function saidOf(edge: EdgeInit): string {
   return `${edge.from.repo}:${edge.from.key} into ${edge.to.repo}:${edge.to.key}`
 }
 
-// A `Said` holding its answers in memory rather than under `.git`, so the run neither reads what an
-// earlier one left nor leaves 11,000 files for the next.
 function holding(dropping: string | null): Said {
   const held = new Map<string, unknown>()
   return {
@@ -37,17 +35,6 @@ function answerFor(ctx: { roots: Record<string, string>; said: Said }, key: stri
   return into(ctx, { repo: AKASHA, key })
 }
 
-/**
- * What `into` answers, against what a walk finds.
- *
- * `edgesInto` SKIPS THE WALK FOR A PRODUCER THAT ANSWERS, so an `into` naming only some of what
- * reaches a node makes the rest unreachable rather than slow, and nothing else reports that. Here
- * that would be a resolution the inversion takes differently from the walk, or a file whose held
- * answer is missing while the map is handed over anyway.
- *
- * IT IS ON-DEMAND BECAUSE THE WALK IT CHECKS AGAINST READS EVERY TYPESCRIPT FILE HERE, which is
- * seconds of work to answer about files the suite could ask a cheaper question of.
- */
 describe("what reaches a node is the same asked either way", () => {
   const said = holding(null)
   const ctx = { roots: { [AKASHA]: root }, said }

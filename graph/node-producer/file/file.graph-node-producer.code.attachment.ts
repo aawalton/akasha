@@ -18,8 +18,6 @@ export type FileNode = NodeRef & {
 
 const HELD = new WeakMap<BuildContext, Map<string, ReadonlySet<string>>>()
 
-// What a repository tracks, without a node made for each. A reader that wants only the paths is
-// spared 89,000 objects, and gets the same set this producer answers from.
 export function keysIn(ctx: BuildContext, repo: string, root: string): ReadonlySet<string> {
   let held = HELD.get(ctx)
   if (held === undefined) {
