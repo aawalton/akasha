@@ -14,7 +14,6 @@ parent-slug: astra-pages-system
 - Every file in the page index is an index file.
 - The page index is made right by reconciling it, never by writing it again from nothing.
 - No page index update drops what another wrote.
-- No reader sees a half-written page index file.
 - A reader trusts the page index without checking it.
 - The page index is checked against the pages every day.
 
@@ -30,5 +29,16 @@ parent-slug: astra-pages-system
 
 **The index validity strategy.** The index updates as part of every change running through the ops tools, and no change runs outside them. One command checks an index without changing it, another rebuilds one, the check runs daily as an audit, and validity is never checked when the index is queried.
 
-- The page index stores the filename suffix rather than the frontmatter type, at `page/index/identity/identity.ts:148`. Refreshing it will not make it agree with the new rule; what it writes has to change.
-- `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
+**No reader sees a half-written index file, and that intent is met.** Every index write goes through `write-whole`, which writes a temp beside its target and renames it into position, so nothing is ever opened in place. Two faults are easily mistaken for it and are not it: the index-wide gap a rebuild opens by emptying the root before refilling it, and a missing file answering as an empty result rather than as a miss.
+
+**What the index is, measured 2026-08-27.** Identity is 256 sha1 buckets per word rather than one file per handle, averaging 231 pages a file, and the bucket is hashed over the handle value so the filename names neither the page nor the handle. Of 9,641 relation files, 5,705 are named for a file path and only 3,936 for a page, because a file relation's target is `repo/path` and a path nests. Three standing files at the root name no page at all: `pages.jsonl` at 18 MB over 59,037 lines, `relations.json`, and `built-from.json`.
+
+**`relations.json` is the largest silent-drift surface.** A landing never rewrites it — only a full rebuild does — so adding or changing a page type or property definition changes nothing about which relations the index walks until someone refreshes it. Nothing reports the gap.
+
+**Every remaining lost-update site is one of two files.** Relation and identity writes hold a lock across read and write both. `pages.jsonl` does not: a landing reads it, spends about 130 ms, and writes it whole, so the last writer wins entirely. `built-from.json` is the same shape. Retiring `pages.jsonl` is what closes this, which is why it belongs with the shape change rather than as work of its own.
+
+**The order settled 2026-08-27.** Close the rebuild's window and make a failed landing refuse first, since neither needs a design decision and both make later measurement mean something. Then take the first three intents and the lost-update intent as one change rather than four: one file per handle makes a file name one page, lets a line drop its third field, retires `pages.jsonl`, and turns an absent file into "no page carries this handle" — which is what a reconcile and a trusting reader both need. What must be settled before that starts is what replaces `relations.json`. The reconcile comes after the shape, needs a per-row git oid to be affordable at 250 ms rather than 5.6 s, and the daily audit is that same compare run in report-only mode.
+
+- `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone. Only `registry` carries an index stamp. `rows-homes` reaches the index through `homesIn` and `scanSpanning` rather than through the registry.
+- `pruneEmpty` removes one directory level while relation trees for file targets nest up to ten, so intermediate directories are never reclaimed and `keepNamedIn` never prunes at all. A rebuild hides the leak.
+- Three answers exist to "what page types are there" — 382 from `kindsIn`, 393 from `registryOf`, and whichever `globsIn` gives depending on whether roots are set. Only one of them is the index, so this wants ruling outside this initiative.
