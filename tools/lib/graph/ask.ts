@@ -1,5 +1,12 @@
 // The old graph is gone. This module is a stub so its callers still resolve.
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
-import { oldGraphGone } from "./graph-gone.ts"
 
-export const askGraph = ((...a: readonly unknown[]) => oldGraphGone("askGraph")) as never
+import { oldGraphGone } from "./graph-gone.ts"
+import type { Fetcher } from "./origin.ts"
+import type { Graph } from "./types.ts"
+
+export type Asked<T> =
+  | { readonly ok: true; readonly held: T }
+  | { readonly ok: false; readonly why: string }
+export const askGraph: (commit: string, fetcher?: Fetcher) => Promise<Asked<Graph>> = () =>
+  oldGraphGone("askGraph")

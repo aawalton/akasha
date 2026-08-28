@@ -2,4 +2,10 @@
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
 import { oldGraphGone } from "../../../graph-gone.ts"
 
-export const parseMdLinks = ((...a: readonly unknown[]) => oldGraphGone("parseMdLinks")) as never
+export interface MdPathLink {
+  target: string
+  fragment: string | null
+  line: number
+}
+export const parseMdLinks: (source: string) => readonly MdPathLink[] = () =>
+  oldGraphGone("parseMdLinks")

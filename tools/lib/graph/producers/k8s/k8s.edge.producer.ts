@@ -1,5 +1,7 @@
 // The old graph is gone. This module is a stub so its callers still resolve.
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
-import { oldGraphGone } from "../../graph-gone.ts"
 
-export const k8sEdgeProducer = ((...a: readonly unknown[]) => oldGraphGone("k8sEdgeProducer")) as never
+import { goneRecord } from "../../graph-gone.ts"
+import type { Producer } from "../../types.ts"
+
+export const k8sEdgeProducer: Producer = goneRecord("k8sEdgeProducer")

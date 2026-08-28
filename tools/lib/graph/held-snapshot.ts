@@ -1,11 +1,26 @@
 // The old graph is gone. This module is a stub so its callers still resolve.
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
+
 import { oldGraphGone } from "./graph-gone.ts"
+import type { SnapshotIdentity } from "./identity.ts"
+import type { BuildContext, Graph } from "./types.ts"
 
-export type HeldSnapshot = unknown
-export type SnapshotReading = unknown
-
+export type SnapshotHolder = {
+  readonly at: (commit: string) => Promise<HeldSnapshot>
+  readonly held: () => readonly string[]
+}
+export type HeldSnapshot = {
+  readonly identity: SnapshotIdentity
+  readonly graph: Graph
+}
+export type SnapshotReading = {
+  readonly identity: SnapshotIdentity
+  readonly ctx: BuildContext
+}
 export const HELD_AT_ONCE = 4
-export const buildFrom = ((...a: readonly unknown[]) => oldGraphGone("buildFrom")) as never
-export const createSnapshotHolder = ((...a: readonly unknown[]) => oldGraphGone("createSnapshotHolder")) as never
-export const readAt = ((...a: readonly unknown[]) => oldGraphGone("readAt")) as never
+export const buildFrom: (ctx: BuildContext) => Promise<Graph> = () => oldGraphGone("buildFrom")
+export const createSnapshotHolder: (
+  read?: (commit: string) => SnapshotReading,
+  build?: (ctx: BuildContext) => Promise<Graph>
+) => SnapshotHolder = () => oldGraphGone("createSnapshotHolder")
+export const readAt: (commit: string) => SnapshotReading = () => oldGraphGone("readAt")

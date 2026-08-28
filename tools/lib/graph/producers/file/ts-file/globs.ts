@@ -2,4 +2,4 @@
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
 import { oldGraphGone } from "../../../graph-gone.ts"
 
-export const matchGlob = ((...a: readonly unknown[]) => oldGraphGone("matchGlob")) as never
+export const matchGlob: (pattern: string, path: string) => boolean = () => oldGraphGone("matchGlob")
