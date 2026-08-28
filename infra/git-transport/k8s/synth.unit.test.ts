@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { requireMatch } from "@shared/utils-narrow/validate"
 import { z } from "zod"
-import { deploymentYaml } from "./synth-deployment"
+import { deploymentYaml } from "../synth-deployment"
 
 const CODE_REPO = "/data/git/repositories/alan/code.git"
 const INSTRUCTIONS_REPO = "/data/git/repositories/alan/instructions.git"

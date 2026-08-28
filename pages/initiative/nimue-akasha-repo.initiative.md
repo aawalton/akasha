@@ -17,7 +17,7 @@ parent-slug: aine-global
 
 `code`, `instructions`, `memory`, `books` and `stories` are retired as repositories, and their bare repos are not to be deleted from the remote. `akasha` and `code-editor` are live.
 
-Kept on the remote means the transport keeps creating and mirroring them. Removing an entry from `infra/git-transport/src/repos.ts` or `infra/git-transport/k8s/synth-deployment/init-bare-repo.ts` deletes a repository by a slower route, so what goes is the code that clones one to do work.
+Kept on the remote means the transport keeps creating and mirroring them. Removing an entry from `infra/git-transport/src/repos.ts` or `infra/git-transport/synth-deployment/init-bare-repo.ts` deletes a repository by a slower route, so what goes is the code that clones one to do work.
 
 References under `pages/finding/` are out of scope. A page whose whole subject is a retired repository is deleted rather than corrected.
 
