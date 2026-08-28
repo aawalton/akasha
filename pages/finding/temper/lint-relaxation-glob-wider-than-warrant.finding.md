@@ -3,7 +3,7 @@ id: 059ff246-5e55-572a-a9b4-6f6e916d0c02
 slug: lint-relaxation-glob-wider-than-warrant
 page-type-slug: finding
 title: "Lint relaxation glob wider than warrant"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

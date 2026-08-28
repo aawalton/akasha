@@ -3,7 +3,7 @@ id: dbc3e5ed-52e5-5a50-87f6-9245f249f680
 slug: market-pricing-view-unfed
 page-type-slug: finding
 title: "Temper's market pricing view lost its feed on 11 June and is going with its tables"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

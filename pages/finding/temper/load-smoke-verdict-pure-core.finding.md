@@ -3,7 +3,7 @@ id: d0389c38-0ecf-52f5-830b-c111c64a9c12
 slug: load-smoke-verdict-pure-core
 page-type-slug: finding
 title: "Load smoke verdict pure core"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
