@@ -11,7 +11,6 @@
  * also re-read on every call, so a change to what this panel counts as a seat is live on the commit
  * that makes it rather than on a build.
  *
- *
  * WHY NO PACKAGE AT ALL, and zod in particular. The domain tree next door parses its verb's answer
  * with zod. What fills THIS panel is asked to stand on the harness alone, so the narrowing below
  * is written out rather than declared — twenty lines against a dependency on a checkout being
@@ -169,9 +168,9 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
  * one has no agent id until it has finished — see `subagent-core.ts`, where a third of the
  * launches on this host are synchronous — so while the row is on screen there is no id to ask
  * under. What saves it is that every subagent on this tree is working: a returned one is dropped
- * before it gets here, and `pages/domain/subagent-turn.domain.md` says a subagent is working or stopped and
- * never anything between. One name therefore serves every subagent row, and which colour that
- * name is stays the corpus's to say.
+ * before it gets here, and `pages/domain/subagent-turn.domain.md` says a subagent is working or
+ * stopped and never anything between. One name therefore serves every subagent row, and which
+ * colour that name is stays the corpus's to say.
  */
 export function parseStateColour(answer: unknown, state: string): string {
 	if (answer === null || typeof answer !== 'object') {
