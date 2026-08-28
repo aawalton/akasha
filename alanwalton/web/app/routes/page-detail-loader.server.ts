@@ -4,7 +4,8 @@ import { getPage, getPageByIdSuffix, getPageByIdSuffixAcrossTypes, getPages } fr
 import { getDescendantPageTypeSlugs } from "@shared/pages-access/page-type"
 import { getMediaConfig, getSequenceConfig } from "@shared/pages-access/page-type-config"
 import { resolveDisplayKind } from "@shared/pages-core/schema/detail-config"
-import type { MediaVariant, ReaderNeighborLink } from "@shared/pages-ui"
+import type { ReaderNeighborLink } from "@shared/pages-ui/components/reader-chrome"
+import type { MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { buildPageHref, PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { getRequestServerClient, resolveRequestSession } from "@shared/supabase-rr/request-session-cache"
 import { isRecord } from "../../../../shared/utils-narrow/src/is-record"
@@ -25,6 +26,9 @@ const READING_STORY_SLUG = "reading-story"
 
 export async function loader({ params, request }: Route.LoaderArgs) {
   const { pageTypeSlug, pageHrefParam } = params
+  if (pageTypeSlug === undefined || pageHrefParam === undefined) {
+    throw new Response("Not Found", { status: 404 })
+  }
 
   const parsed = parsePageHrefParam(pageHrefParam)
   if (!parsed) {
