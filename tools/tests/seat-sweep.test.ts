@@ -8,7 +8,7 @@ import { statedOf } from "../lib/seat-stated.ts"
 import { type Sources, initiativeFinishedIn, readSeat, unfinishedOf } from "../lib/seat-sweep.ts"
 
 const QUOTE =
-  `- ["A seat's mode is whether it has a code editor terminal."](../../instructions/pages/property/seat-mode.md)`
+  `- ["A seat's mode is whether it has a code editor terminal."](../../pages/property/seat-mode.md)`
 
 function saying(): Sources {
   return { initiativeFinished: () => false }
