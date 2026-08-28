@@ -8,6 +8,8 @@ domain-slug: domain/pages-system
 
 # Claim
 
+**This page is archival.** Its subject is a soft-deleted row in a database this tree cannot reach, so nothing below can be re-measured or shown false from this repository. It is kept as authorship rather than as an open defect: it closes when someone decides what to do with the grammar it preserves, never by being checked again.
+
 `story-chapter.chronologyAnchors` carried a hand-authored JSON Schema in the `schema` key of its definition on soft-deleted page-type row `019db5f4-063c-710f-a432-4c822d31915a`. Neither file-backed reader asks for `schema`, so no property document can carry it and writing one would read green over nothing. Its 17 terms now stand as four option lists, and the grammar those cannot express is preserved verbatim at `code:packages/alanwalton/awen/core/src/chronology-anchor.schema.json`.
 
 # Evidence

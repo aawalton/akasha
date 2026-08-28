@@ -8,6 +8,8 @@ domain-slug: domain/pages-system
 
 # Claim
 
+**This page is archival.** Its subject is a database this tree cannot reach, so the 53 entries below cannot be counted again from here and nothing on this page can be shown false from this repository. It is kept as the only surviving statement of what those entries said, rather than as an open defect: it closes when someone settles which reader is meant to read these keys, never by being checked again.
+
 A record of what 53 `config` entries on page-type rows carried, read on 2026-08-20 from a database this tree can no longer reach. Beyond colour they carry number presentation: `format` 17, `decimals` 15, `round` 13, `badgeVariant` 2, and `min`, `max`, `prefix`, `icon`, `units` once each. Recorded rather than restored — none of it has been written into a property document since, and this page is the only surviving statement of what those entries said. What the record was for: a property document for one of these keys would read green over an empty column, so restoring one means first settling which reader is meant to read it.
 
 # Evidence
