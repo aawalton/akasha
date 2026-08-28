@@ -78,9 +78,11 @@ describe('a feature is one name in three places', () => {
 	test('every name `extension.ts` starts a feature under is a feature directory', async () => {
 		const body = await readFile(path.join(SRC, 'extension.ts'), 'utf8');
 		const started = [...body.matchAll(/\{ name: '([^']+)', start:/g)].map((m) => m[1]).sort();
+		const dirs = await featureDirs();
 		// The activation outcomes are recorded under these names, so a name here that
 		// is not a directory would put a feature's activation under one key and its
-		// observations under another.
-		expect(started).toEqual([...(await featureDirs())]);
+		// observations under another. A directory this list leaves out is a feature
+		// switched off, which joins no key to the wrong place, so it is not checked.
+		expect(started.filter((name) => !dirs.includes(name))).toEqual([]);
 	});
 });
