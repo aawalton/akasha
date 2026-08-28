@@ -10,6 +10,8 @@ domain-slug: domain/page-writes-system
 
 One write cleared a user-authored field without recording who made it, and the path that made it was never found. Alan confirmed the clear was his own and deliberate, so nothing was lost — the defect is that nothing could tell his edit from anyone else's. The sweep for other instances was never run. The evidence that could have identified the path has since been deleted with the Postgres pages layer, so this instance can no longer be attributed by anyone.
 
+That much is archival, and it is the smaller half. The successor question is live and measured below: across every rows sidecar in akasha, taken 2026-08-28, 0 of 4,281,958 rows record a writer at all, and of the 53 row-write call sites 40 already pass one, 13 could, and none cannot. This page closes when every path into a page or a sidecar carries a writer — not by anyone re-attributing the 2026-07-24 clear, which nothing can.
+
 # Evidence
 
 Observed 2026-07-24 on page `019f5183-6045-7bb8-b382-8f77fdf4e1b3` (persona, slug `alan`), field `alanNotes`. Found by accident: awen asked whether Alan's correction pass had landed, and answering that needed key-level history rather than `updatedAt`.
