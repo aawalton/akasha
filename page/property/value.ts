@@ -3,6 +3,7 @@ import { LADDER, RANKS } from "../document/template.ts"
 import { NONE } from "../text/text.ts"
 import { CLAIM, fileIn } from "../repo-claim.ts"
 import { recordRule } from "./record.ts"
+import { templateRule } from "./template.ts"
 import { addressParts, ADDRESS_SAYS, RELATION_ADDRESS } from "../page-address.ts"
 import { boundsFor, narrowed } from "./bounds.ts"
 import { nested, scalarRule, textOf, within, wrongShape } from "./stated.ts"
@@ -170,6 +171,7 @@ export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
     },
   ],
   ["json", oneLineOfJson],
+  ["template", templateRule],
   ["uuid", scalarRule("a UUID", (text) => UUID.test(text))],
   ["process", scalarRule("a pid and a start time, written `<pid>-<start>`", (text) => PROCESS.test(text))],
   ["relation-id", points],
