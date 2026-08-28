@@ -21,9 +21,19 @@ const VALUE_FLAGS = [REPO, MESSAGE, MESSAGE_FILE]
 
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
 
-export function trackedUnder(root: string, relPath: string): readonly string[] {
+/**
+ * Which files git holds under `relPath`, or null where the call could not establish that.
+ *
+ * AN EMPTY ARRAY IS THE ANSWER "GIT HOLDS NOTHING UNDER THIS DIRECTORY", AND A FAILED CALL HAS NO
+ * ANSWER. `openedIn` below refuses on the empty array by telling the caller the removal would take
+ * nothing, which is a claim about what the repository holds; a call that never reached an answer
+ * has not earned it, and the two refusals are true of different faults. The same question in
+ * `replace.command.code.attachment.ts` refuses outright and the one in
+ * `move.command.code.attachment.ts` throws, neither reading a failure as an empty tree.
+ */
+export function trackedUnder(root: string, relPath: string): readonly string[] | null {
   const held = git(root, ["ls-files", "-z", "--", relPath])
-  if (held.code !== 0) return []
+  if (held.code !== 0) return null
   return held.stdout.split("\0").filter((one) => one !== "")
 }
 
@@ -91,6 +101,13 @@ function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
       continue
     }
     const under = trackedUnder(at.root, relPath)
+    if (under === null) {
+      refusals.push(
+        `git could not establish which files it holds under ${relPath}, so this removal stopped ` +
+          "before touching anything — nothing was removed or committed. Run it again."
+      )
+      continue
+    }
     if (under.length === 0) {
       refusals.push(
         `${relPath} is a directory git holds no file under — a removal takes what the repo holds, ` +
