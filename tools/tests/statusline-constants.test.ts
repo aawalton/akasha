@@ -1,10 +1,9 @@
-
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { describe, expect, test } from "bun:test"
 import { statuslineConstants } from "../audits/statusline-constants.ts"
 import type { RepoView } from "../lib/check.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
@@ -17,7 +16,7 @@ function live(relPath: string): string {
 }
 
 const says = (slug: string, values: Readonly<Record<string, string>>): string =>
-  refusalText(slug, values, ROOT, fromDisk)
+  refusalText(slug, values, ROOT)
 
 const DECLARES = "persona domain role task"
 
@@ -79,9 +78,7 @@ describe("a slot list that disagrees with SLOTS", () => {
   })
 
   test("carrying a slot attributes.ts does not declare is refused", () => {
-    const outcome = statuslineConstants(
-      repo(scriptWith("persona domain role task flex"))
-    )
+    const outcome = statuslineConstants(repo(scriptWith("persona domain role task flex")))
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
       says("statusline-slots-disagree", {
@@ -109,7 +106,9 @@ describe("a page key the bash side spells differently from the writer", () => {
 
 describe("a side the check cannot read at all", () => {
   test("is refused rather than passed, an unfindable constant proving nothing", () => {
-    const outcome = statuslineConstants(repo({ [SCRIPT]: live(SCRIPT).replace(/^SEAT_RENDER=\(.*\)$/m, "") }))
+    const outcome = statuslineConstants(
+      repo({ [SCRIPT]: live(SCRIPT).replace(/^SEAT_RENDER=\(.*\)$/m, "") })
+    )
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
       says("statusline-constant-unlocated", { where: `SEAT_RENDER in ${SCRIPT}` })

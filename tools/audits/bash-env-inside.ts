@@ -1,8 +1,7 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { repoRelative, SETTINGS_PATH } from "../lib/hook-settings.ts"
 
 const NAME = "bash-env-inside"
@@ -22,7 +21,7 @@ export const bashEnvInside: Check = (repo) => {
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
     return {
       ...judge(NAME, `${SETTINGS_PATH} names no file`, [
-        refusalText("bash-env-settings-absent", {}, root, fromDisk),
+        refusalText("bash-env-settings-absent", {}, root),
       ]),
       population,
     }
@@ -34,7 +33,7 @@ export const bashEnvInside: Check = (repo) => {
     const detail = error instanceof Error ? error.message : String(error)
     return {
       ...judge(NAME, `${SETTINGS_PATH} could not be parsed`, [
-        refusalText("bash-env-settings-unreadable", { error: detail }, root, fromDisk),
+        refusalText("bash-env-settings-unreadable", { error: detail }, root),
       ]),
       population,
     }
@@ -44,7 +43,7 @@ export const bashEnvInside: Check = (repo) => {
   if (declared === null) {
     return {
       ...judge(NAME, `${SETTINGS_PATH} declares no ${DECLARATION}`, [
-        refusalText("bash-env-undeclared", {}, root, fromDisk),
+        refusalText("bash-env-undeclared", {}, root),
       ]),
       population,
     }
@@ -55,7 +54,7 @@ export const bashEnvInside: Check = (repo) => {
   if (relPath === null) {
     return {
       ...judge(NAME, `${DECLARATION} is \`${declared}\``, [
-        refusalText("bash-env-outside-repo", { declared }, root, fromDisk),
+        refusalText("bash-env-outside-repo", { declared }, root),
       ]),
       population: measured,
     }
@@ -63,7 +62,7 @@ export const bashEnvInside: Check = (repo) => {
   if (!repo.exists(`${root}/${relPath}`)) {
     return {
       ...judge(NAME, `${DECLARATION} is \`${declared}\``, [
-        refusalText("bash-env-unresolved", { declared, path: relPath }, root, fromDisk),
+        refusalText("bash-env-unresolved", { declared, path: relPath }, root),
       ]),
       population: measured,
     }

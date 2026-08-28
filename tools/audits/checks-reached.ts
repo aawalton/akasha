@@ -1,11 +1,10 @@
-
 import { execFileSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { requiredReadingForEach } from "../required-reading.ts"
 import type { Check, CheckOutcome } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { pageTypePathIn } from "../../page/page-types.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const NAME = "checks-reached"
@@ -140,7 +139,7 @@ export const checksGoverned: Check = (repo) => {
   const refusals: string[] = []
   for (const relPath of scripts) {
     if ((required.get(relPath) ?? []).includes(CODE_CHECK)) continue
-    refusals.push(refusalText("registered-check-unreached", { path: relPath }, root, fromDisk))
+    refusals.push(refusalText("registered-check-unreached", { path: relPath }, root))
   }
 
   const naming = bodies.filter((body) => [...body.matchAll(SCRIPT_LITERAL)].length > 0).length

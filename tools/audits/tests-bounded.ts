@@ -1,8 +1,7 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { CEILING_MS, type Band } from "../lib/run-cost.ts"
 import { unitFiles } from "./suite-runs.ts"
 
@@ -121,13 +120,16 @@ export const testsBounded: Check = (repo) => {
           refusalText(
             "test-timeout-stated",
             { stated: `${named.length}`, ceiling: `${DEFAULT_CEILING_MS / 1000}` },
-            rootFor(repo.roots, AKASHA),
-            fromDisk
+            rootFor(repo.roots, AKASHA)
           ),
           ...named,
         ]
   return {
-    ...judge(NAME, `${files.length} unit test file(s), ${named.length} timeout(s) stated`, messages),
+    ...judge(
+      NAME,
+      `${files.length} unit test file(s), ${named.length} timeout(s) stated`,
+      messages
+    ),
     population: over(files.length, "unit test file(s)"),
   }
 }

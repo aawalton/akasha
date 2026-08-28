@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, resolveRoots, rootFor, VENDOR_ROOT } from "../../repo/roots/roots"
 import { link } from "./sibling-link.ts"
 
@@ -167,19 +167,24 @@ export function diagnostics(output: string, into: string): readonly Diagnostic[]
   return found
 }
 
-export function reported(
-  errors: readonly Diagnostic[],
-  ceiling: number
-): readonly string[] {
+export function reported(errors: readonly Diagnostic[], ceiling: number): readonly string[] {
   const root = rootFor(resolveRoots(), AKASHA)
   const lines = errors
     .slice(0, ceiling)
     .map((e) =>
-      refusalText("typecheck-diagnostic", { path: e.relPath, line: String(e.line), text: e.text }, root, fromDisk)
+      refusalText(
+        "typecheck-diagnostic",
+        { path: e.relPath, line: String(e.line), text: e.text },
+        root
+      )
     )
   if (errors.length > lines.length) {
     lines.push(
-      refusalText("typecheck-diagnostics-elided", { more: String(errors.length - lines.length) }, root, fromDisk)
+      refusalText(
+        "typecheck-diagnostics-elided",
+        { more: String(errors.length - lines.length) },
+        root
+      )
     )
   }
   return lines

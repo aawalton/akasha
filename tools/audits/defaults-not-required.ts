@@ -5,7 +5,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { PROPERTY_GLOBS } from "../../page/page-types.ts"
 import { DEFAULT } from "../../page/property/declarations.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "defaults-not-required"
 
@@ -51,7 +51,7 @@ export const defaultsNotRequired: Check = (repo) => {
     defaulted += 1
     if (stringAt(fm, REQUIRED) !== "true") continue
     refusals.push(
-      refusalText("property-default-and-required", { path: relPath }, rootFor(repo.roots, AKASHA), fromDisk)
+      refusalText("property-default-and-required", { path: relPath }, rootFor(repo.roots, AKASHA))
     )
   }
 

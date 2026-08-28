@@ -1,9 +1,8 @@
-
 import { existsSync, readFileSync } from "node:fs"
 import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { domainEdges } from "../audits/domain-edges.ts"
 import { type RepoView, listDocuments } from "../lib/check.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { Stated } from "../../page/index/identity/identity.ts"
 import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture } from "./fixture.ts"
@@ -64,10 +63,22 @@ beforeEach(() => {
   // index at all, and one small write being cheaper than reasoning about what a case left behind.
   anchor.keep(PAGE_TYPES.map(indexRow))
   at = fixture()
-  at.document("pages/persona/aine.persona.md", "slug: aine\ndomain-parent-slug: persona\nchampioned-domain-slug: global")
-  at.put("pages/page-type/persona.page-type.md", claiming("019ffe77-4933-7000-a73e-4c889acee68f", "persona"))
-  at.put("pages/page-type/domain.page-type.md", claiming("019ffe30-e158-7000-8ab9-73591dbe0225", "domain"))
-  at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global\npersona-champion-slug: aine")
+  at.document(
+    "pages/persona/aine.persona.md",
+    "slug: aine\ndomain-parent-slug: persona\nchampioned-domain-slug: global"
+  )
+  at.put(
+    "pages/page-type/persona.page-type.md",
+    claiming("019ffe77-4933-7000-a73e-4c889acee68f", "persona")
+  )
+  at.put(
+    "pages/page-type/domain.page-type.md",
+    claiming("019ffe30-e158-7000-8ab9-73591dbe0225", "domain")
+  )
+  at.document(
+    "pages/domain/global.domain.md",
+    "slug: global\ndomain-parent-slug: global\npersona-champion-slug: aine"
+  )
   at.document("pages/domain/coding.domain.md", "slug: code\ndomain-parent-slug: global")
 })
 afterEach(() => at.dispose())
@@ -83,7 +94,7 @@ function repo(): RepoView {
 }
 
 const says = (slug: string, values: Readonly<Record<string, string>>): string =>
-  refusalText(slug, values, at.root, fromDisk)
+  refusalText(slug, values, at.root)
 
 function domain(slug: string, parents: readonly string[]): void {
   const named = parents.length === 1 ? ` ${parents[0]}` : parents.map((p) => `\n  - ${p}`).join("")
@@ -100,16 +111,25 @@ describe("a domain with one parent", () => {
 
 describe("the persona a domain names as its owner", () => {
   test("is refused where no document declares that slug", () => {
-    at.document("pages/domain/orphan.domain.md", "slug: orphan\ndomain-parent-slug: global\npersona-champion-slug: nobody")
+    at.document(
+      "pages/domain/orphan.domain.md",
+      "slug: orphan\ndomain-parent-slug: global\npersona-champion-slug: nobody"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
-      says("persona-champion-unresolved", { path: "pages/domain/orphan.domain.md", persona: "nobody" })
+      says("persona-champion-unresolved", {
+        path: "pages/domain/orphan.domain.md",
+        persona: "nobody",
+      })
     )
   })
 
   test("is refused where the slug resolves to something that is not a persona", () => {
-    at.document("pages/domain/odd.domain.md", "slug: odd\ndomain-parent-slug: global\npersona-champion-slug: code")
+    at.document(
+      "pages/domain/odd.domain.md",
+      "slug: odd\ndomain-parent-slug: global\npersona-champion-slug: code"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -123,7 +143,10 @@ describe("the persona a domain names as its owner", () => {
   })
 
   test("is refused where two domains name her, one domain being all she champions", () => {
-    at.document("pages/domain/first.domain.md", "slug: first\ndomain-parent-slug: global\npersona-champion-slug: aine")
+    at.document(
+      "pages/domain/first.domain.md",
+      "slug: first\ndomain-parent-slug: global\npersona-champion-slug: aine"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -141,14 +164,18 @@ describe("the descent from a domain", () => {
     domain("kid", ["global"])
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("pass")
-    expect(outcome.detail).toContain("1 persona(s) champion a domain of which 1 are named back, and 0 domain(s) reach none")
+    expect(outcome.detail).toContain(
+      "1 persona(s) champion a domain of which 1 are named back, and 0 domain(s) reach none"
+    )
   })
 
   test("running off the end is refused, the domain answering to nobody", () => {
     at.document("pages/domain/adrift.domain.md", "slug: adrift\ndomain-parent-slug: adrift")
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
-    expect(outcome.messages).toContain(says("domain-unchampioned", { path: "pages/domain/adrift.domain.md" }))
+    expect(outcome.messages).toContain(
+      says("domain-unchampioned", { path: "pages/domain/adrift.domain.md" })
+    )
   })
 })
 
@@ -169,23 +196,34 @@ describe("a page whose page type is not a domain", () => {
     )
     at.document("pages/exercise/ab-roller.exercise.md", "page-type-slug: exercise\nslug: ab-roller")
     const outcome = domainEdges(repo())
-    expect(outcome.messages).not.toContain(says("domain-unchampioned", { path: "pages/exercise/ab-roller.exercise.md" }))
+    expect(outcome.messages).not.toContain(
+      says("domain-unchampioned", { path: "pages/exercise/ab-roller.exercise.md" })
+    )
     expect(outcome.verdict).toBe("pass")
   })
 })
 
 describe("the two ends of one ownership statement", () => {
   test("refuse a persona holding a slug no document declares", () => {
-    at.document("pages/persona/vex.persona.md", "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: nowhere")
+    at.document(
+      "pages/persona/vex.persona.md",
+      "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: nowhere"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
-      says("championed-domain-unresolved", { path: "pages/persona/vex.persona.md", slug: "nowhere" })
+      says("championed-domain-unresolved", {
+        path: "pages/persona/vex.persona.md",
+        slug: "nowhere",
+      })
     )
   })
 
   test("refuse a persona holding a domain that names nobody back", () => {
-    at.document("pages/persona/vex.persona.md", "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: code")
+    at.document(
+      "pages/persona/vex.persona.md",
+      "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: code"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -199,7 +237,10 @@ describe("the two ends of one ownership statement", () => {
   })
 
   test("refuse a persona holding a domain that names somebody else", () => {
-    at.document("pages/persona/vex.persona.md", "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: global")
+    at.document(
+      "pages/persona/vex.persona.md",
+      "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: global"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -215,7 +256,10 @@ describe("the two ends of one ownership statement", () => {
 
   test("refuse a domain naming a persona who holds nothing, which her end cannot see", () => {
     at.document("pages/persona/vex.persona.md", "slug: vex\ndomain-parent-slug: persona")
-    at.document("pages/domain/spare.domain.md", "slug: spare\ndomain-parent-slug: global\npersona-champion-slug: vex")
+    at.document(
+      "pages/domain/spare.domain.md",
+      "slug: spare\ndomain-parent-slug: global\npersona-champion-slug: vex"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -229,8 +273,14 @@ describe("the two ends of one ownership statement", () => {
   })
 
   test("refuse a domain naming a persona who holds a different one", () => {
-    at.document("pages/persona/vex.persona.md", "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: code")
-    at.document("pages/domain/spare.domain.md", "slug: spare\ndomain-parent-slug: global\npersona-champion-slug: vex")
+    at.document(
+      "pages/persona/vex.persona.md",
+      "slug: vex\ndomain-parent-slug: persona\nchampioned-domain-slug: code"
+    )
+    at.document(
+      "pages/domain/spare.domain.md",
+      "slug: spare\ndomain-parent-slug: global\npersona-champion-slug: vex"
+    )
     const outcome = domainEdges(repo())
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(

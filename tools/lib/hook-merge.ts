@@ -1,5 +1,4 @@
-
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 
 export const KEY_FIELDS = ["shell", "command", "args", "if"] as const
@@ -172,7 +171,6 @@ export function refusalFor(
       times: `${divergence.times}`,
       parts: partsOn(divergence, leftName, rightName),
     },
-    root,
-    fromDisk
+    root
   )
 }

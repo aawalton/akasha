@@ -1,8 +1,7 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, RepoView } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "statusline-constants"
 
@@ -26,7 +25,11 @@ interface Pair {
 
 const PAGE_KEYS: readonly Pair[] = [
   { spelled: "SEAT_MODE_KEY", source: STORE, declared: "START_MODE_KEY" },
-  { spelled: "SEAT_INITIATIVE_KEY", source: "tools/lib/seat-initiative.ts", declared: "INITIATIVE_SLUG_KEY" },
+  {
+    spelled: "SEAT_INITIATIVE_KEY",
+    source: "tools/lib/seat-initiative.ts",
+    declared: "INITIATIVE_SLUG_KEY",
+  },
 ]
 
 function declaration(name: string): RegExp {
@@ -71,7 +74,7 @@ export const statuslineConstants: Check = (repo) => {
     if (body === null) {
       return {
         ...judge(NAME, `${relPath} could not be read`, [
-          refusalText("statusline-side-unreadable", { path: relPath }, root, fromDisk),
+          refusalText("statusline-side-unreadable", { path: relPath }, root),
         ]),
         population: over(0, "constant(s)"),
       }
@@ -84,7 +87,10 @@ export const statuslineConstants: Check = (repo) => {
   found.set(`ASSIGNMENTS in ${STORE}`, capture(bodies.get(STORE) as string, STORE_ASSIGNMENTS))
   found.set(`SEAT_RENDER in ${SCRIPT}`, capture(bodies.get(SCRIPT) as string, SCRIPT_SLOTS))
   for (const pair of PAGE_KEYS) {
-    found.set(`${pair.spelled} in ${READER}`, capture(bodies.get(READER) as string, assignment(pair.spelled)))
+    found.set(
+      `${pair.spelled} in ${READER}`,
+      capture(bodies.get(READER) as string, assignment(pair.spelled))
+    )
     found.set(
       `${pair.declared} in ${pair.source}`,
       capture(bodies.get(pair.source) as string, declaration(pair.declared))
@@ -93,7 +99,7 @@ export const statuslineConstants: Check = (repo) => {
 
   const unreadable = [...found]
     .filter(([, value]) => value === null)
-    .map(([where]) => refusalText("statusline-constant-unlocated", { where }, root, fromDisk))
+    .map(([where]) => refusalText("statusline-constant-unlocated", { where }, root))
   if (unreadable.length > 0) {
     return {
       ...judge(NAME, "a constant could not be located", unreadable),
@@ -109,7 +115,7 @@ export const statuslineConstants: Check = (repo) => {
   const declares = slugSlots(stated)
   const messages: string[] = []
   if (renders !== declares) {
-    messages.push(refusalText("statusline-slots-disagree", { renders, declares }, root, fromDisk))
+    messages.push(refusalText("statusline-slots-disagree", { renders, declares }, root))
   }
   for (const pair of PAGE_KEYS) {
     const spelled = found.get(`${pair.spelled} in ${READER}`) as string
@@ -119,8 +125,7 @@ export const statuslineConstants: Check = (repo) => {
       refusalText(
         "statusline-page-key-disagrees",
         { key: pair.spelled, spelled, source: pair.source, declared },
-        root,
-        fromDisk
+        root
       )
     )
   }

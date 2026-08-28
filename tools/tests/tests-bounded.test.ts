@@ -3,7 +3,7 @@ import { copyFileSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSy
 import { join, resolve } from "node:path"
 import type { RepoView } from "../lib/check.ts"
 import { DEFAULT_CEILING_MS, statedTimeouts, testsBounded } from "../audits/tests-bounded.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
@@ -45,7 +45,9 @@ describe("what counts as a test stating its own ceiling", () => {
   })
 
   test("a third argument on its own line is found too — the shape a line-by-line scan misses", () => {
-    const found = statedTimeouts("it(\n  vector.name,\n  async () => {\n    await run()\n  },\n  120_000\n)\n")
+    const found = statedTimeouts(
+      "it(\n  vector.name,\n  async () => {\n    await run()\n  },\n  120_000\n)\n"
+    )
     expect(found).toHaveLength(1)
     expect(found[0]?.stated).toBe("120_000")
   })
@@ -59,7 +61,9 @@ describe("what counts as a test stating its own ceiling", () => {
   })
 
   test("a number the body hands to something else is not the test's own ceiling", () => {
-    expect(statedTimeouts('it("a", async () => {\n  setInterval(() => {\n    beats += 1\n  }, 1)\n})\n')).toEqual([])
+    expect(
+      statedTimeouts('it("a", async () => {\n  setInterval(() => {\n    beats += 1\n  }, 1)\n})\n')
+    ).toEqual([])
   })
 
   test("a comma inside a string does not divide the arguments", () => {
@@ -75,12 +79,14 @@ describe("what counts as a test stating its own ceiling", () => {
   })
 
   test("a word ending in `it` is not `it`", () => {
-    expect(statedTimeouts('await submit("a", fn, 60_000)\nawait wait("a", fn, 60_000)\n')).toEqual([])
+    expect(statedTimeouts('await submit("a", fn, 60_000)\nawait wait("a", fn, 60_000)\n')).toEqual(
+      []
+    )
   })
 
   test("a call written inside a string is text — this file's own fixtures are that", () => {
-    expect(statedTimeouts("const held = \"test(\\\"a\\\", fn, 60_000)\"\n")).toEqual([])
-    expect(statedTimeouts("// it(\"a\", fn, 60_000)\n")).toEqual([])
+    expect(statedTimeouts('const held = "test(\\"a\\", fn, 60_000)"\n')).toEqual([])
+    expect(statedTimeouts('// it("a", fn, 60_000)\n')).toEqual([])
   })
 
   test("a modifier still reads as the call it modifies", () => {
@@ -107,8 +113,7 @@ describe("the check over a tree", () => {
       refusalText(
         "test-timeout-stated",
         { stated: "1", ceiling: `${DEFAULT_CEILING_MS / 1000}` },
-        ROOT,
-        fromDisk
+        ROOT
       )
     )
   })

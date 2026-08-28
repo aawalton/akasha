@@ -1,11 +1,10 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { judge, over } from "../../outcome/outcome"
 import { findingsDirIn } from "../lib/finding.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const DOMAIN_KEY = "domain-slug"
 const STORE = "findings"
@@ -24,12 +23,16 @@ export const findingsSorted: Check = (repo) => {
     examined += 1
 
     if (segments.length === 1) {
-      failures.push(refusalText("finding-unfoldered", { path: relPath, store }, root, fromDisk))
+      failures.push(refusalText("finding-unfoldered", { path: relPath, store }, root))
       continue
     }
     if (segments.length > 2) {
       failures.push(
-        refusalText("finding-too-deep", { path: relPath, depth: `${segments.length - 1}`, store }, root, fromDisk)
+        refusalText(
+          "finding-too-deep",
+          { path: relPath, depth: `${segments.length - 1}`, store },
+          root
+        )
       )
       continue
     }
@@ -42,7 +45,7 @@ export const findingsSorted: Check = (repo) => {
 
     if (named !== folder) {
       failures.push(
-        refusalText("finding-misfiled", { path: relPath, owner, folder: named, leaf, store }, root, fromDisk)
+        refusalText("finding-misfiled", { path: relPath, owner, folder: named, leaf, store }, root)
       )
       continue
     }

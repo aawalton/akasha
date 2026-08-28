@@ -1,10 +1,9 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { agreement, refusalFor } from "../lib/hook-merge.ts"
 import { judge, over, skip } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { byScript, SETTINGS_PATH } from "../lib/hook-settings.ts"
 
 const NAME = "hooks-agree"
@@ -33,22 +32,34 @@ function parsed(text: string): { document: unknown } | { error: string } {
 export const hooksAgree: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
   if (!repo.exists(`${rootFor(repo.roots, AKASHA)}/${SETTINGS_PATH}`)) {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: over(0, "registered hook(s)") }
+    return {
+      ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`),
+      population: over(0, "registered hook(s)"),
+    }
   }
   const ours = parsed(repo.read(SETTINGS_PATH))
   if ("error" in ours) {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`), population: over(0, "registered hook(s)") }
+    return {
+      ...skip(
+        NAME,
+        `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`
+      ),
+      population: over(0, "registered hook(s)"),
+    }
   }
   const userPath = userSettingsPath()
   const text = readOutside(userPath)
   if (text === null) {
-    return { ...skip(NAME, `${userPath} is not there, so no session loads a second copy of the set`), population: over(0, "registered hook(s)") }
+    return {
+      ...skip(NAME, `${userPath} is not there, so no session loads a second copy of the set`),
+      population: over(0, "registered hook(s)"),
+    }
   }
   const theirs = parsed(text)
   if ("error" in theirs) {
     return {
       ...judge(NAME, `${userPath} could not be parsed`, [
-        refusalText("user-settings-unreadable", { path: userPath, error: theirs.error }, root, fromDisk),
+        refusalText("user-settings-unreadable", { path: userPath, error: theirs.error }, root),
       ]),
       population: over(0, "registered hook(s)"),
     }
@@ -59,8 +70,7 @@ export const hooksAgree: Check = (repo) => {
       refusalText(
         "user-settings-dead-registration",
         { path: userPath, command, script: relPath },
-        root,
-        fromDisk
+        root
       )
     )
 

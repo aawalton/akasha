@@ -4,7 +4,7 @@ import { dirname, resolve } from "node:path"
 import type { AsyncCheck } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { workspacesIn } from "../../workspace-package/manifest-workspaces.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { declaredCommands } from "../ops/declared.ts"
 import { forwarderCommands } from "../ops/forwarders.ts"
 
@@ -50,7 +50,10 @@ function spellingOf(at: string): Set<string> {
   return found
 }
 
-function lines(run: { exitCode: number | null; stdout: Uint8Array }, ceiling: number): readonly string[] | null {
+function lines(
+  run: { exitCode: number | null; stdout: Uint8Array },
+  ceiling: number
+): readonly string[] | null {
   if (run.exitCode !== null && run.exitCode > ceiling) return null
   return new TextDecoder()
     .decode(run.stdout)
@@ -87,10 +90,23 @@ export function workspacePathspecs(manifest: string): readonly string[] | null {
 function searched(codeRoot: string, specs: readonly string[]): readonly string[] | null {
   try {
     return lines(
-      Bun.spawnSync(["git", "-C", codeRoot, "ls-files", "--cached", "--others", "--exclude-standard", "--", ...specs], {
-        stdout: "pipe",
-        stderr: "pipe",
-      }),
+      Bun.spawnSync(
+        [
+          "git",
+          "-C",
+          codeRoot,
+          "ls-files",
+          "--cached",
+          "--others",
+          "--exclude-standard",
+          "--",
+          ...specs,
+        ],
+        {
+          stdout: "pipe",
+          stderr: "pipe",
+        }
+      ),
       0
     )
   } catch {
@@ -143,12 +159,16 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
   const specs = workspacePathspecs(read(`${codeRoot}/package.json`))
   if (specs === null) {
     return {
-      ...judge(NAME, `${codeRoot}/package.json states no \`workspaces\`, so which directories hold packages is unknown`, [
-        `${NAME} builds its pathspecs from the \`workspaces\` array in ${codeRoot}/package.json and ` +
-          `read none, so it searched no file and this verdict covers nothing. The \`packages/\` ` +
-          `prefix these once stood under is gone — each namespace sits at the top level now — and ` +
-          `that array is the only thing left saying which directories they are.`,
-      ]),
+      ...judge(
+        NAME,
+        `${codeRoot}/package.json states no \`workspaces\`, so which directories hold packages is unknown`,
+        [
+          `${NAME} builds its pathspecs from the \`workspaces\` array in ${codeRoot}/package.json and ` +
+            `read none, so it searched no file and this verdict covers nothing. The \`packages/\` ` +
+            `prefix these once stood under is gone — each namespace sits at the top level now — and ` +
+            `that array is the only thing left saying which directories they are.`,
+        ]
+      ),
       population: over(0, UNIT),
     }
   }
@@ -157,14 +177,17 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
   if (scanned === null || found === null) {
     return {
       ...judge(NAME, `${codeRoot} could not be searched`, [
-        refusalText("command-help-unsearchable", { root: codeRoot }, rootFor(repo.roots, AKASHA), fromDisk),
+        refusalText("command-help-unsearchable", { root: codeRoot }, rootFor(repo.roots, AKASHA)),
       ]),
       population: over(0, UNIT),
     }
   }
 
   const spelling = new Map<string, Set<string>>()
-  for (const one of [...declaredCommands(rootFor(repo.roots, AKASHA)), ...forwarderCommands(rootFor(repo.roots, AKASHA))]) {
+  for (const one of [
+    ...declaredCommands(rootFor(repo.roots, AKASHA)),
+    ...forwarderCommands(rootFor(repo.roots, AKASHA)),
+  ]) {
     const at = one.source
     if (at === undefined) continue
     spelling.set(one.path.join(" "), spellingOf(at))
@@ -178,7 +201,11 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
     const command = claimedCommand(source, commands)
     if (command === null) {
       messages.push(
-        refusalText("command-help-names-no-command", { path: relative }, rootFor(repo.roots, AKASHA), fromDisk)
+        refusalText(
+          "command-help-names-no-command",
+          { path: relative },
+          rootFor(repo.roots, AKASHA)
+        )
       )
       continue
     }
@@ -194,8 +221,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
       refusalText(
         "command-help-flags-drift",
         { path: relative, command, difference },
-        rootFor(repo.roots, AKASHA),
-        fromDisk
+        rootFor(repo.roots, AKASHA)
       )
     )
   }

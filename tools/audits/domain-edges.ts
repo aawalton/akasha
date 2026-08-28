@@ -1,4 +1,3 @@
-
 import type { Check } from "../lib/check.ts"
 import {
   type Documents,
@@ -16,7 +15,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { domainKindTest } from "../../page/page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
 
 export const domainEdges: Check = (repo) => {
@@ -39,8 +38,7 @@ export const domainEdges: Check = (repo) => {
         refusalText(
           "domain-slug-declared-twice",
           { slug, kind, count: `${together.length}`, claimants: together.join(", ") },
-          root,
-          fromDisk
+          root
         )
       )
     }
@@ -50,9 +48,7 @@ export const domainEdges: Check = (repo) => {
     for (const slug of listField(fm, DOMAIN_PARENTS_KEY)) {
       edges += 1
       if (domainNamed(slugs, slug) !== null) continue
-      failures.push(
-        refusalText("domain-parent-unresolved", { path: relPath, slug }, root, fromDisk)
-      )
+      failures.push(refusalText("domain-parent-unresolved", { path: relPath, slug }, root))
     }
   }
   const claimedBy = new Map<string, string[]>()
@@ -62,9 +58,7 @@ export const domainEdges: Check = (repo) => {
     claimedBy.set(persona, [...(claimedBy.get(persona) ?? []), relPath])
     const at = domainNamed(slugs, persona) ?? undefined
     if (at === undefined) {
-      failures.push(
-        refusalText("persona-champion-unresolved", { path: relPath, persona }, root, fromDisk)
-      )
+      failures.push(refusalText("persona-champion-unresolved", { path: relPath, persona }, root))
       continue
     }
     const kind = kindOf(at)
@@ -72,9 +66,13 @@ export const domainEdges: Check = (repo) => {
       failures.push(
         refusalText(
           "persona-champion-not-a-persona",
-          { path: relPath, persona, at, kind: kind === null ? "a file no page type claims" : `a ${kind} document` },
-          root,
-          fromDisk
+          {
+            path: relPath,
+            persona,
+            at,
+            kind: kind === null ? "a file no page type claims" : `a ${kind} document`,
+          },
+          root
         )
       )
     }
@@ -85,8 +83,7 @@ export const domainEdges: Check = (repo) => {
       refusalText(
         "persona-champion-claimed-twice",
         { persona, count: `${at.length}`, claimants: at.join(", ") },
-        root,
-        fromDisk
+        root
       )
     )
   }
@@ -99,7 +96,7 @@ export const domainEdges: Check = (repo) => {
     const at = domainNamed(slugs, holds) ?? undefined
     if (at === undefined) {
       failures.push(
-        refusalText("championed-domain-unresolved", { path: relPath, slug: holds }, root, fromDisk)
+        refusalText("championed-domain-unresolved", { path: relPath, slug: holds }, root)
       )
       continue
     }
@@ -111,8 +108,12 @@ export const domainEdges: Check = (repo) => {
     }
     failures.push(
       back === null
-        ? refusalText("championed-domain-unnamed-back", { path: relPath, her, holds, at }, root, fromDisk)
-        : refusalText("championed-domain-claimed-by-another", { path: relPath, her, holds, at, persona: back }, root, fromDisk)
+        ? refusalText("championed-domain-unnamed-back", { path: relPath, her, holds, at }, root)
+        : refusalText(
+            "championed-domain-claimed-by-another",
+            { path: relPath, her, holds, at, persona: back },
+            root
+          )
     )
   }
   for (const [relPath, fm] of frontmatter) {
@@ -126,8 +127,12 @@ export const domainEdges: Check = (repo) => {
     if (holds === slug) continue
     failures.push(
       holds === null
-        ? refusalText("persona-champion-unreciprocated", { path: relPath, slug, persona, at }, root, fromDisk)
-        : refusalText("persona-champion-names-another", { path: relPath, slug, persona, at, holds }, root, fromDisk)
+        ? refusalText("persona-champion-unreciprocated", { path: relPath, slug, persona, at }, root)
+        : refusalText(
+            "persona-champion-names-another",
+            { path: relPath, slug, persona, at, holds },
+            root
+          )
     )
   }
   const docs: Documents = {
@@ -143,7 +148,7 @@ export const domainEdges: Check = (repo) => {
     domains += 1
     if (championOf(relPath, docs) !== null) continue
     unchampioned += 1
-    failures.push(refusalText("domain-unchampioned", { path: relPath }, root, fromDisk))
+    failures.push(refusalText("domain-unchampioned", { path: relPath }, root))
   }
   return {
     ...judge(

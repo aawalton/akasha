@@ -1,11 +1,10 @@
-
 import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve } from "node:path"
 import { hooksUncopied, registeredHooks } from "../audits/hooks-uncopied.ts"
 import type { CheckOutcome, RepoView } from "../lib/check.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { installRefusals } from "./fixture.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
@@ -56,7 +55,10 @@ function ran(settings: string | null, tracked: readonly string[], versioned = tr
   if (versioned) {
     Bun.spawnSync(["git", "-C", root, "init", "-q"], { stdout: "pipe", stderr: "pipe" })
     if (tracked.length > 0) {
-      Bun.spawnSync(["git", "-C", root, "add", "--", ...tracked], { stdout: "pipe", stderr: "pipe" })
+      Bun.spawnSync(["git", "-C", root, "add", "--", ...tracked], {
+        stdout: "pipe",
+        stderr: "pipe",
+      })
     }
   }
   return hooksUncopied(viewOf(root))
@@ -81,14 +83,16 @@ describe("a hook the fleet fires with a twin elsewhere in the tree", () => {
           registered: `akasha/${REGISTERED}`,
           path: "infra/scripts/block-direct-main-writes.sh",
         },
-        ROOT,
-        fromDisk
+        ROOT
       )
     )
   })
 
   test("is refused wherever the copy sits, the name being what is shared", () => {
-    const outcome = ran(registering(HOOK), [REGISTERED, "somewhere/else/block-direct-main-writes.sh"])
+    const outcome = ran(registering(HOOK), [
+      REGISTERED,
+      "somewhere/else/block-direct-main-writes.sh",
+    ])
     expect(outcome.verdict).toBe("fail")
   })
 
@@ -146,7 +150,8 @@ describe("which registrations count as hooks the fleet fires", () => {
 
   test("a path under a repository absorbed into akasha registers nothing, there being none", () => {
     expect(
-      registeredHooks(JSON.parse(registering("$HOME/code/packages/infra/scripts/some-guard.sh"))).size
+      registeredHooks(JSON.parse(registering("$HOME/code/packages/infra/scripts/some-guard.sh")))
+        .size
     ).toBe(0)
   })
 })

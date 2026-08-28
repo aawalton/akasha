@@ -1,9 +1,8 @@
-
 import { existsSync, readFileSync, statSync } from "node:fs"
 import type { Repo } from "../../page/document/types.ts"
 import { blobId } from "../../repo/git/git.ts"
 import { countLines, ownRead, sameBody } from "./read-record.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 
 const OWED = "for this path"
@@ -38,8 +37,7 @@ export function remedyFor(
     return refusalText(
       "required-document-unopenable",
       { path: relPath, error: error instanceof Error ? error.message : String(error) },
-      root,
-      fromDisk
+      root
     )
   }
   const lines = countLines(new TextDecoder().decode(bytes))
@@ -50,8 +48,7 @@ export function remedyFor(
     return refusalText(
       "required-document-unread",
       { path: relPath, owed: OWED, route: reading(repo, relPath, absolute, lines) },
-      root,
-      fromDisk
+      root
     )
   }
   const oid = blobId(bytes)
@@ -65,8 +62,7 @@ export function remedyFor(
         changed: whenText(changedAt),
         route: reading(repo, relPath, absolute, lines),
       },
-      root,
-      fromDisk
+      root
     )
   }
   return null
@@ -80,19 +76,20 @@ export function lead(
   record: string,
   root: string
 ): string {
-  const read = alreadyRead.length === 0 ? "none of them" : `${alreadyRead.length} of them (${alreadyRead.join(", ")})`
+  const read =
+    alreadyRead.length === 0
+      ? "none of them"
+      : `${alreadyRead.length} of them (${alreadyRead.join(", ")})`
   if (repo === "instructions") {
     return refusalText(
       "required-reading-unread",
       { path: relPath, count: `${count}`, read, record },
-      root,
-      fromDisk
+      root
     )
   }
   return refusalText(
     "required-reading-unread-elsewhere",
     { path: relPath, repo, count: `${count}`, read, record },
-    root,
-    fromDisk
+    root
   )
 }

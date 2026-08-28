@@ -1,13 +1,20 @@
-
 import { documentsOnDemand } from "./documents-on-demand.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { epochOf } from "./epoch.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { verdictOn } from "./hold-seat-verdict.ts"
 import { claimText, listed, movedLead, unreadLead } from "./hold-seat-words.ts"
-import { ATTRIBUTES, type Attribute, type Attributes, type Claimant, type Mode, attributesOf, modeOf } from "./attributes.ts"
+import {
+  ATTRIBUTES,
+  type Attribute,
+  type Attributes,
+  type Claimant,
+  type Mode,
+  attributesOf,
+  modeOf,
+} from "./attributes.ts"
 import { recordStands } from "./read-record.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { type Roots } from "../../page/page"
 import { resolveRoots } from "../../repo/roots/roots"
 import { pageTextOf } from "./seat-page-values.ts"
@@ -110,8 +117,7 @@ function readSeatStanding(request: Request): Standing {
               "nothing can say whether you have read what this seat states it is, and an agent could act as " +
               "something it never read",
           },
-          request.root,
-          fromDisk
+          request.root
         ),
       ]
     )
@@ -151,7 +157,9 @@ function readSeatStanding(request: Request): Standing {
   for (const one of declaredSeatReading(stated, roots, docs)) {
     take(one.claimant, one.slug, one.documents, ATTRIBUTES.includes(one.claimant as never))
   }
-  const ordered = [...needed].sort(([left], [right]) => (above.get(right) ?? 0) - (above.get(left) ?? 0))
+  const ordered = [...needed].sort(
+    ([left], [right]) => (above.get(right) ?? 0) - (above.get(left) ?? 0)
+  )
 
   const unread: string[] = []
   const moved: string[] = []
@@ -191,7 +199,19 @@ function readSeatStanding(request: Request): Standing {
     "missing",
     `${slots} statement(s) over ${documents} document(s); ${documents - short} read in full, ` +
       `${unread.length} never read, ${moved.length} moved since`,
-    unread.length === 0 ? [] : [unreadLead(request.agent, held, task, epochOf(request.agent), unread.length, request.root), ...listed(unread)],
+    unread.length === 0
+      ? []
+      : [
+          unreadLead(
+            request.agent,
+            held,
+            task,
+            epochOf(request.agent),
+            unread.length,
+            request.root
+          ),
+          ...listed(unread),
+        ],
     moved.length === 0 ? [] : [movedLead(held, task, moved.length, request.root), ...listed(moved)],
     owed
   )

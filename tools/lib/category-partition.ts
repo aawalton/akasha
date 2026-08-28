@@ -1,14 +1,16 @@
 import { categoryRuleSet } from "./category-rule-set.ts"
 import { ruleFolder, parseMatch, ruleLocation } from "./category-rule.ts"
 import type { RepoView } from "./check.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { RuleSubject, Group, Meeting, Printers, Unreadable } from "./rules-subject.ts"
 import type { Case, Matchable } from "./rules-partition.ts"
 
 export const TRANSACTIONS = "distinguishable transaction(s)"
 
 export function describe(at: Case): string {
-  return categoryRuleSet.fields.map((field) => `${field.name} \`${at[field.name] ?? ""}\``).join(", ")
+  return categoryRuleSet.fields
+    .map((field) => `${field.name} \`${at[field.name] ?? ""}\``)
+    .join(", ")
 }
 
 function groupsOf(repo: RepoView): readonly Group[] {
@@ -30,8 +32,7 @@ const refusals: Printers = {
     refusalText(
       "category-rule-match-unreadable",
       { rule: one.relPath, count: String(one.stray) },
-      root,
-      fromDisk
+      root
     ),
   overlap: (meeting: Meeting, root: string): string =>
     refusalText(
@@ -42,22 +43,15 @@ const refusals: Printers = {
         count: String(meeting.count),
         transaction: meeting.at,
       },
-      root,
-      fromDisk
+      root
     ),
   unclaimed: (at: string, group: Group, root: string): string =>
-    refusalText(
-      "category-transaction-unclaimed",
-      { folder: group.label, transaction: at },
-      root,
-      fromDisk
-    ),
+    refusalText("category-transaction-unclaimed", { folder: group.label, transaction: at }, root),
   unbounded: (group: Group, ceiling: number, root: string): string =>
     refusalText(
       "category-transaction-space-unbounded",
       { folder: group.label, ceiling: String(ceiling) },
-      root,
-      fromDisk
+      root
     ),
 }
 

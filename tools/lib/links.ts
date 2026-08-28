@@ -1,7 +1,6 @@
-
 import { readFileSync } from "node:fs"
 import { PAGE_BODY_SHAPE_GLOBS, PAGE_TYPE_GLOBS } from "../../page/page-types.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { type Roots } from "../../page/page"
 import { isInside, normalizeAbsolute } from "../../repo/path/path"
 import { AKASHA, targetRepo, targetRoot } from "../../repo/roots/roots"
@@ -44,12 +43,20 @@ export function linkWords(link: BrokenLink, where: string, instructionsRoot: str
   const href = link.href
   const resolved = said.resolved
   if (said.slug === "link-outside-roots")
-    return refusalText("link-outside-roots", { where, href, resolved, roots: said.roots }, instructionsRoot, fromDisk)
+    return refusalText(
+      "link-outside-roots",
+      { where, href, resolved, roots: said.roots },
+      instructionsRoot
+    )
   if (said.slug === "link-target-absent")
-    return refusalText("link-target-absent", { where, href, resolved }, instructionsRoot, fromDisk)
+    return refusalText("link-target-absent", { where, href, resolved }, instructionsRoot)
   if (said.slug === "link-quote-absent")
-    return refusalText("link-quote-absent", { where, href, resolved }, instructionsRoot, fromDisk)
-  return refusalText("link-anchor-absent", { where, href, resolved, anchor: said.anchor }, instructionsRoot, fromDisk)
+    return refusalText("link-quote-absent", { where, href, resolved }, instructionsRoot)
+  return refusalText(
+    "link-anchor-absent",
+    { where, href, resolved, anchor: said.anchor },
+    instructionsRoot
+  )
 }
 
 export function extractLinks(
@@ -114,7 +121,13 @@ function headingSlugs(body: string): ReadonlySet<string> {
   for (const line of proseOnly(body).split("\n")) {
     const heading = /^#{1,6}\s+(.*?)\s*$/.exec(line)?.[1]
     if (heading === undefined) continue
-    slugs.add(heading.toLowerCase().replace(/[^\w\s-]/g, "").trim().replace(/\s/g, "-"))
+    slugs.add(
+      heading
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, "")
+        .trim()
+        .replace(/\s/g, "-")
+    )
   }
   return slugs
 }
@@ -212,7 +225,8 @@ export function resolveLinks(input: LinkInput): readonly ResolvedLink[] {
   const selfPath = `${targetRoot(input.roots)}/${input.relPath}`
   const shapes = [...PAGE_TYPE_GLOBS, ...PAGE_BODY_SHAPE_GLOBS]
   const template =
-    targetRepo(input.roots) === AKASHA && shapes.some((glob) => new Bun.Glob(glob).match(input.relPath))
+    targetRepo(input.roots) === AKASHA &&
+    shapes.some((glob) => new Bun.Glob(glob).match(input.relPath))
   return extractLinks(input.body).map((l) =>
     resolveOne(l.href, l.text, l.line, fromDir, selfPath, template, input)
   )

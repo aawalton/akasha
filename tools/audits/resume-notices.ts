@@ -1,9 +1,8 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { sections } from "../lib/markdown.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "resume-notices"
 
@@ -11,10 +10,7 @@ const DOCUMENT = "pages/notice/resume.notice.md"
 
 const ASKER = "tools/lib/supervisor-resume-notices.ts"
 
-const HANDED: readonly string[] = [
-  "restart-immediate",
-  "restart-deferred",
-]
+const HANDED: readonly string[] = ["restart-immediate", "restart-deferred"]
 
 const CLAUSE = "restart-recovery-clause"
 
@@ -37,7 +33,7 @@ export const resumeNotices: Check = (repo) => {
   } catch {
     return {
       ...judge(NAME, `${DOCUMENT} could not be read`, [
-        refusalText("resume-notices-unreadable", {}, root, fromDisk),
+        refusalText("resume-notices-unreadable", {}, root),
       ]),
       population: over(0, "resume notice(s)"),
     }
@@ -48,25 +44,25 @@ export const resumeNotices: Check = (repo) => {
   for (const key of HANDED) {
     const text = notices.get(key)
     if (text === undefined || text === "") {
-      findings.push(refusalText("resume-notice-absent", { key }, root, fromDisk))
+      findings.push(refusalText("resume-notice-absent", { key }, root))
       continue
     }
     if (!text.startsWith(OPENING)) {
-      findings.push(refusalText("resume-notice-unstamped", { key }, root, fromDisk))
+      findings.push(refusalText("resume-notice-unstamped", { key }, root))
     }
   }
   for (const [key, caller] of Object.entries(ON_ROW)) {
     const text = notices.get(key)
     if (text === undefined || text === "") {
-      findings.push(refusalText("notice-on-row-absent", { key, caller }, root, fromDisk))
+      findings.push(refusalText("notice-on-row-absent", { key, caller }, root))
       continue
     }
     if (text.startsWith(OPENING)) {
-      findings.push(refusalText("notice-on-row-stamped", { key }, root, fromDisk))
+      findings.push(refusalText("notice-on-row-stamped", { key }, root))
     }
   }
   if (!notices.has(CLAUSE)) {
-    findings.push(refusalText("restart-clause-absent", {}, root, fromDisk))
+    findings.push(refusalText("restart-clause-absent", {}, root))
   }
 
   let asker: string | null
@@ -78,7 +74,7 @@ export const resumeNotices: Check = (repo) => {
   if (asker !== null) {
     for (const key of [...HANDED, CLAUSE]) {
       if (!asker.includes(`"${key}"`)) {
-        findings.push(refusalText("resume-notice-unasked", { asker: ASKER, key }, root, fromDisk))
+        findings.push(refusalText("resume-notice-unasked", { asker: ASKER, key }, root))
       }
     }
   }
@@ -88,7 +84,9 @@ export const resumeNotices: Check = (repo) => {
     ...judge(
       NAME,
       `${counted} resume notice(s) held against ${DOCUMENT}` +
-        (asker !== null ? ` and against ${ASKER}, which asks them` : `; ${ASKER} could not be read`),
+        (asker !== null
+          ? ` and against ${ASKER}, which asks them`
+          : `; ${ASKER} could not be read`),
       findings
     ),
     population: over(counted, "resume notice(s)"),

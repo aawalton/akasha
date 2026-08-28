@@ -1,8 +1,7 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { commandsIn, SETTINGS_PATH, tokensIn } from "../lib/hook-settings.ts"
 
 const NAME = "hooks-uncopied"
@@ -48,9 +47,15 @@ export function registeredHooks(document: unknown): Map<string, string> {
 
 function trackedInCode(root: string): readonly string[] | null {
   try {
-    const run = Bun.spawnSync(["git", "-C", root, "ls-files", "-z"], { stdout: "pipe", stderr: "pipe" })
+    const run = Bun.spawnSync(["git", "-C", root, "ls-files", "-z"], {
+      stdout: "pipe",
+      stderr: "pipe",
+    })
     if (run.exitCode !== 0) return null
-    return new TextDecoder().decode(run.stdout).split("\0").filter((one) => one !== "")
+    return new TextDecoder()
+      .decode(run.stdout)
+      .split("\0")
+      .filter((one) => one !== "")
   } catch {
     return null
   }
@@ -60,18 +65,33 @@ export const hooksUncopied: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
   const nothing = over(0, "hook(s) the fleet fires")
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: nothing }
+    return {
+      ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`),
+      population: nothing,
+    }
   }
   let document: unknown
   try {
     document = JSON.parse(repo.read(SETTINGS_PATH))
   } catch {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`), population: nothing }
+    return {
+      ...skip(
+        NAME,
+        `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`
+      ),
+      population: nothing,
+    }
   }
 
   const hooks = registeredHooks(document)
   if (hooks.size === 0) {
-    return { ...skip(NAME, `${SETTINGS_PATH} registers no hook script, so there is nothing a copy could shadow`), population: nothing }
+    return {
+      ...skip(
+        NAME,
+        `${SETTINGS_PATH} registers no hook script, so there is nothing a copy could shadow`
+      ),
+      population: nothing,
+    }
   }
 
   // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree a stray copy would be tracked
@@ -112,8 +132,7 @@ export const hooksUncopied: Check = (repo) => {
         refusalText(
           "hook-copied-into-code",
           { name, registered: registeredAs, path: relPath },
-          root,
-          fromDisk
+          root
         )
       )
     }

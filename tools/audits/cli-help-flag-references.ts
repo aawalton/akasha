@@ -1,4 +1,3 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import {
@@ -17,7 +16,7 @@ import {
 } from "../lib/cli-help-flag-references.ts"
 import { commandSurface } from "../lib/command-surface.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "cli-help-flag-references"
 
@@ -76,8 +75,7 @@ function refusalFor(one: CliHelpViolation, root: string): string {
     return refusalText(
       "cli-help-accepted-subject-departed",
       { entry: one.departed.entry, carrier: one.departed.carrier },
-      root,
-      fromDisk
+      root
     )
   }
   const reference = one.reference
@@ -91,8 +89,7 @@ function refusalFor(one: CliHelpViolation, root: string): string {
         token: reference.token,
         span: reference.spanLedBy,
       },
-      root,
-      fromDisk
+      root
     )
   }
   return refusalText(
@@ -103,8 +100,7 @@ function refusalFor(one: CliHelpViolation, root: string): string {
       field: reference.field,
       token: reference.token,
     },
-    root,
-    fromDisk
+    root
   )
 }
 
@@ -116,10 +112,11 @@ export const cliHelpFlagReferences: AsyncCheck = async (repo) => {
   try {
     accepted = acceptedFrom(repo.read(RATCHET))
   } catch (err) {
-    const said = err instanceof RatchetUnreadable ? err : new RatchetUnreadable(RATCHET, messageOf(err))
+    const said =
+      err instanceof RatchetUnreadable ? err : new RatchetUnreadable(RATCHET, messageOf(err))
     return {
       ...judge(NAME, `${said.path} could not be read as an accepted list`, [
-        refusalText("cli-help-ratchet-unreadable", { path: said.path, detail: said.detail }, root, fromDisk),
+        refusalText("cli-help-ratchet-unreadable", { path: said.path, detail: said.detail }, root),
       ]),
       population: empty,
     }
@@ -131,7 +128,7 @@ export const cliHelpFlagReferences: AsyncCheck = async (repo) => {
       ...judge(
         NAME,
         `${unreadable.length} command(s) would not load, so this was measured over a short surface`,
-        unreadable.map((detail) => refusalText("command-surface-unread", { detail }, root, fromDisk))
+        unreadable.map((detail) => refusalText("command-surface-unread", { detail }, root))
       ),
       population: empty,
     }
@@ -161,7 +158,9 @@ export const cliHelpFlagReferences: AsyncCheck = async (repo) => {
         `${census.tokens} flag token(s): ${census.byVerdict.own} own, ${census.byVerdict.other} other, ` +
         `${census.byVerdict.foreign} foreign, ${census.byVerdict.unattributed} unattributed; ` +
         `${verdict.grandfathered.length} accepted in ${RATCHET}${tightening}`,
-      refusals({ added: verdict.failures, departed: split.departed }).map((one) => refusalFor(one, root))
+      refusals({ added: verdict.failures, departed: split.departed }).map((one) =>
+        refusalFor(one, root)
+      )
     ),
     population: over(census.commandsScanned, "command surface(s)"),
   }

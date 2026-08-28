@@ -9,7 +9,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { claimant, type PageType } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
 import { pageStemOf } from "../../page/name/name"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { claimedPages, emptyClaim } from "./pages-hold-shape.ts"
 
 const NAME = "pages-named-as-stated"
@@ -131,8 +131,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
         refusalText(
           "page-name-key-unwritten",
           { slug: one.type.slug, named: one.template, count: String(seen) },
-          rootFor(repo.roots, AKASHA),
-          fromDisk
+          rootFor(repo.roots, AKASHA)
         )
       )
       continue

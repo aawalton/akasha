@@ -1,9 +1,8 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { textField } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { COLOR_KEY, VALUE_KEY } from "../lib/seat-value.ts"
 import { documentsOfType } from "../lib/pages-of-type.ts"
 import { defaultFor, documentFor, scan } from "../lib/seat-resolve.ts"
@@ -28,9 +27,7 @@ export const personaValues: Check = (repo) => {
     const fm = found.docs.frontmatterOf(relPath)
     if (fm === null) continue
     if (textField(fm, COLOR_KEY) !== null) continue
-    failures.push(
-      refusalText("alan-value-no-color", { path: relPath, key: COLOR_KEY }, root, fromDisk)
-    )
+    failures.push(refusalText("alan-value-no-color", { path: relPath, key: COLOR_KEY }, root))
   }
 
   for (const relPath of personas) {
@@ -39,20 +36,13 @@ export const personaValues: Check = (repo) => {
     if (exempt.has(relPath)) continue
     const slug = textField(fm, VALUE_KEY)
     if (slug === null) {
-      failures.push(
-        refusalText("persona-value-unnamed", { path: relPath, key: VALUE_KEY }, root, fromDisk)
-      )
+      failures.push(refusalText("persona-value-unnamed", { path: relPath, key: VALUE_KEY }, root))
       continue
     }
     const at = found.docs.domainAt(slug)
     if (at === null) {
       failures.push(
-        refusalText(
-          "persona-value-unresolved",
-          { path: relPath, key: VALUE_KEY, slug },
-          root,
-          fromDisk
-        )
+        refusalText("persona-value-unresolved", { path: relPath, key: VALUE_KEY, slug }, root)
       )
       continue
     }
@@ -61,8 +51,7 @@ export const personaValues: Check = (repo) => {
       refusalText(
         "persona-value-not-a-value",
         { path: relPath, key: VALUE_KEY, slug, at, dir: VALUE_TYPE },
-        root,
-        fromDisk
+        root
       )
     )
   }

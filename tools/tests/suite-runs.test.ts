@@ -1,4 +1,3 @@
-
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
@@ -13,12 +12,12 @@ import {
   tallyOf,
   unitFiles,
 } from "../audits/suite-runs.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
 
 const says = (slug: string, values: Readonly<Record<string, string>>): string =>
-  refusalText(slug, values, ROOT, fromDisk)
+  refusalText(slug, values, ROOT)
 
 const GREEN =
   "bun test v1.3.14\n\n 822 pass\n 0 fail\n 2169 expect() calls\nRan 822 tests across 55 files. [8.91s]\n"
@@ -51,7 +50,9 @@ describe("the runner's report, read as a verdict", () => {
   })
 
   test("a run that collected no file certifies nothing, whatever it exited", () => {
-    expect(report(tallyOf("Ran 0 tests across 0 files. [0.01s]\n", 0), 0, ROOT).population.measured).toBe(0)
+    expect(
+      report(tallyOf("Ran 0 tests across 0 files. [0.01s]\n", 0), 0, ROOT).population.measured
+    ).toBe(0)
   })
 
   test("output with no summary in it fails rather than passing quietly", () => {
@@ -103,7 +104,9 @@ describe("the budget, spent one batch at a time", () => {
 
   test("the one line a reader of the summary sees says a batch did not come back", () => {
     const outcome = report(added(tallyOf(GREEN, 0, 55), tallyOf("", null, 8)), 100, ROOT)
-    expect(outcome.detail).toContain("1 batch(es) killed at the deadline taking 8 file(s) with them")
+    expect(outcome.detail).toContain(
+      "1 batch(es) killed at the deadline taking 8 file(s) with them"
+    )
   })
 
   test("killed batches add up across a run, as every other count does", () => {
@@ -113,7 +116,11 @@ describe("the budget, spent one batch at a time", () => {
   })
 
   test("what a killed batch printed before it died is still carried into the report", () => {
-    const outcome = report(added(tallyOf(GREEN, 0), tallyOf("(fail) a thing > came apart\n", null)), 100, ROOT)
+    const outcome = report(
+      added(tallyOf(GREEN, 0), tallyOf("(fail) a thing > came apart\n", null)),
+      100,
+      ROOT
+    )
     expect(outcome.messages.join("\n")).toContain("a thing > came apart")
   })
 

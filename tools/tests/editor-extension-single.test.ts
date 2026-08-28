@@ -1,11 +1,14 @@
-
 import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve } from "node:path"
-import { commandIds, editorExtensionSingle, registryPaths } from "../audits/editor-extension-single.ts"
+import {
+  commandIds,
+  editorExtensionSingle,
+  registryPaths,
+} from "../audits/editor-extension-single.ts"
 import type { CheckOutcome, RepoView } from "../lib/check.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { installRefusals } from "./fixture.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
@@ -80,7 +83,11 @@ describe("a second extension registered with the same command ids", () => {
     const { home } = world()
     const other = scratch("editor-single-other")
     write(other, "package.json", manifest(SYNC))
-    write(home, ".openvscode-server-dev/extensions/extensions.json", registry("alanwalton.ops", other))
+    write(
+      home,
+      ".openvscode-server-dev/extensions/extensions.json",
+      registry("alanwalton.ops", other)
+    )
     const outcome = ran()
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(
@@ -92,8 +99,7 @@ describe("a second extension registered with the same command ids", () => {
           registry: `${home}/.openvscode-server-dev/extensions/extensions.json`,
           commands: SYNC,
         },
-        ROOT,
-        fromDisk
+        ROOT
       )
     )
   })
@@ -103,7 +109,11 @@ describe("a second extension registered with the same command ids", () => {
     const other = scratch("editor-single-other")
     write(other, "package.json", manifest(SYNC))
     write(home, ".openvscode-server/extensions/extensions.json", "[]")
-    write(home, ".openvscode-server-dev/extensions/extensions.json", registry("alanwalton.ops", other))
+    write(
+      home,
+      ".openvscode-server-dev/extensions/extensions.json",
+      registry("alanwalton.ops", other)
+    )
     expect(ran().verdict).toBe("fail")
   })
 
@@ -111,7 +121,11 @@ describe("a second extension registered with the same command ids", () => {
     const { home } = world()
     const other = scratch("editor-single-other")
     write(other, "package.json", manifest("anthropic.claude-code.focus"))
-    write(home, ".openvscode-server-dev/extensions/extensions.json", registry("anthropic.claude-code", other))
+    write(
+      home,
+      ".openvscode-server-dev/extensions/extensions.json",
+      registry("anthropic.claude-code", other)
+    )
     const outcome = ran()
     expect(outcome.verdict).toBe("pass")
     expect(outcome.population.measured).toBe(1)
@@ -119,7 +133,11 @@ describe("a second extension registered with the same command ids", () => {
 
   test("registered but no longer on disk, it loads nothing and so shadows nothing", () => {
     const { home } = world()
-    write(home, ".openvscode-server-dev/extensions/extensions.json", registry("alanwalton.ops", "/nonexistent/gone"))
+    write(
+      home,
+      ".openvscode-server-dev/extensions/extensions.json",
+      registry("alanwalton.ops", "/nonexistent/gone")
+    )
     expect(ran().verdict).toBe("pass")
   })
 })

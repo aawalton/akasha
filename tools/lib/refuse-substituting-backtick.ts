@@ -1,5 +1,4 @@
-
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { scanCommand } from "./substituting-backtick.ts"
 
@@ -13,12 +12,12 @@ const repoRoot = (): string => rootFor(resolveRoots(), AKASHA)
 
 function whereAt(position: string): string {
   if (position === "unquoted")
-    return refusalText("block-substituting-backtick-where-unquoted", {}, repoRoot(), fromDisk)
+    return refusalText("block-substituting-backtick-where-unquoted", {}, repoRoot())
   if (position === "double-quoted")
-    return refusalText("block-substituting-backtick-where-double-quoted", {}, repoRoot(), fromDisk)
+    return refusalText("block-substituting-backtick-where-double-quoted", {}, repoRoot())
   if (position === "heredoc")
-    return refusalText("block-substituting-backtick-where-heredoc", {}, repoRoot(), fromDisk)
-  return refusalText("block-substituting-backtick-where-unknown", {}, repoRoot(), fromDisk)
+    return refusalText("block-substituting-backtick-where-heredoc", {}, repoRoot())
+  return refusalText("block-substituting-backtick-where-unknown", {}, repoRoot())
 }
 
 function excerpt(command: string, index: number): string {
@@ -34,8 +33,7 @@ export function renderRefusal(command: string, index: number, position: string):
   return refusalText(
     "block-substituting-backtick",
     { index: String(index), where: whereAt(position), excerpt: excerpt(command, index) },
-    repoRoot(),
-    fromDisk
+    repoRoot()
   )
 }
 

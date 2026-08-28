@@ -2,7 +2,7 @@ import { ATTRIBUTES } from "../lib/attributes.ts"
 import { seatStanding, subagentStated } from "../lib/hold-seat.ts"
 import { sentTo } from "../lib/hold-seat-words.ts"
 import { hookAgentId, recordingAgentId } from "../lib/read-record.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { namedOwed } from "../lib/owed.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
@@ -25,8 +25,7 @@ export function noticeFor(agent: string, root: string): string | null {
       count: String(owed.length),
       named: owed.map((relPath) => `--file-path ${relPath}`).join(" "),
     },
-    root,
-    fromDisk
+    root
   )
 }
 

@@ -1,11 +1,10 @@
-
 import { helpKey, irreversibleCommands, matchCommand, parseOpsCalls } from "../lib/ops-command.ts"
 import { readOid, recordingAgentId } from "../lib/read-record.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 function refusal(verb: string): string {
-  return refusalText("ops-help-unread", { command: verb }, rootFor(resolveRoots(), AKASHA), fromDisk)
+  return refusalText("ops-help-unread", { command: verb }, rootFor(resolveRoots(), AKASHA))
 }
 
 async function main(): Promise<void> {
@@ -20,7 +19,8 @@ async function main(): Promise<void> {
   const agent = recordingAgentId(fields)
   if (agent === null) return
   const input = fields.tool_input
-  const command = input !== null && typeof input === "object" ? (input as { command?: unknown }).command : null
+  const command =
+    input !== null && typeof input === "object" ? (input as { command?: unknown }).command : null
   if (typeof command !== "string" || command === "") return
 
   const performing = parseOpsCalls(command).filter((call) => !call.help)

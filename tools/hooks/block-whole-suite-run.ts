@@ -1,6 +1,6 @@
 import { segmentsOf, wordsOf } from "../lib/command-segments.ts"
 import { toolInputText } from "../lib/hook-command.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { ownRepoRoot } from "../../repo/roots/roots"
 
@@ -43,7 +43,7 @@ async function main(): Promise<number> {
   if (command === "") return 0
   for (const segment of segmentsOf(command)) {
     if (!runsTheWholeSuite(segment)) continue
-    const said = refusalText(HOOK_NAME, {}, canonicalize(ownRepoRoot()), fromDisk)
+    const said = refusalText(HOOK_NAME, {}, canonicalize(ownRepoRoot()))
     process.stderr.write(`${said}\n`)
     console.log(JSON.stringify({ decision: "block", reason: said }, null, 2))
     return 2

@@ -1,9 +1,8 @@
-
 import type { Repo } from "../../page/document/types.ts"
 import { requiredReadingFor, type Pending } from "../required-reading.ts"
 import { recordSaid, recordStands } from "./read-record.ts"
 import { lead, remedyFor } from "./unread.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const MAX_REPORTED = 12
 
@@ -47,19 +46,34 @@ function outcome(
 export function standingOn(request: Request): Standing {
   let required: readonly string[]
   try {
-    const found = requiredReadingFor(request.relPath, request.root, request.repo, request.pending ?? null)
+    const found = requiredReadingFor(
+      request.relPath,
+      request.root,
+      request.repo,
+      request.pending ?? null
+    )
     const touching = request.touching ?? null
     required = [
       ...new Set([
         ...found.whole,
-        ...[...found.sections].flatMap(([section, at]) => (touching === null || touching.has(section) ? at : [])),
+        ...[...found.sections].flatMap(([section, at]) =>
+          touching === null || touching.has(section) ? at : []
+        ),
       ]),
     ].sort()
   } catch (error) {
-    return outcome("unaskable", `what is required for \`${request.relPath}\` could not be asked: ${String(error)}`, [])
+    return outcome(
+      "unaskable",
+      `what is required for \`${request.relPath}\` could not be asked: ${String(error)}`,
+      []
+    )
   }
   if (required.length === 0) {
-    return outcome("unrequired", "nothing is required reading for this path, so there is nothing to have read", [])
+    return outcome(
+      "unrequired",
+      "nothing is required reading for this path, so there is nothing to have read",
+      []
+    )
   }
   if (request.agent === null) {
     return outcome(
@@ -70,8 +84,7 @@ export function standingOn(request: Request): Standing {
         refusalText(
           "required-reading-writer-unidentified",
           { path: request.relPath, count: `${required.length}`, required: required.join(", ") },
-          request.root,
-          fromDisk
+          request.root
         ),
       ]
     )
@@ -90,8 +103,7 @@ export function standingOn(request: Request): Standing {
               "nothing can say whether you have read what is required reading for this change, and it could be " +
               "made under rules nobody has read",
           },
-          request.root,
-          fromDisk
+          request.root
         ),
       ]
     )
@@ -117,14 +129,23 @@ export function standingOn(request: Request): Standing {
   }
   const reported = remedies.slice(0, MAX_REPORTED)
   if (remedies.length > reported.length) {
-    reported.push(`and ${remedies.length - reported.length} more, not listed — read the ones above first`)
+    reported.push(
+      `and ${remedies.length - reported.length} more, not listed — read the ones above first`
+    )
   }
   return outcome(
     "missing",
     `${required.length} document(s) are required reading for this path; ${alreadyRead.length} read, ${remedies.length} not`,
     required,
     [
-      lead(request.relPath, request.repo, alreadyRead, required.length, recordSaid(request.agent), request.root),
+      lead(
+        request.relPath,
+        request.repo,
+        alreadyRead,
+        required.length,
+        recordSaid(request.agent),
+        request.root
+      ),
       ...reported,
     ],
     owed

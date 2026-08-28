@@ -1,10 +1,9 @@
-
 import { existsSync, readFileSync } from "node:fs"
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { findingsSorted } from "../audits/findings-sorted.ts"
 import { type RepoView, listDocuments } from "../lib/check.ts"
 import { findingsDirIn } from "../lib/finding.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
@@ -28,7 +27,7 @@ function repo(): RepoView {
 }
 
 const says = (slug: string, values: Readonly<Record<string, string>>): string =>
-  refusalText(slug, values, at.root, fromDisk)
+  refusalText(slug, values, at.root)
 
 function filed(relPath: string, owner: string): void {
   at.document(relPath, `domain-slug: ${owner}`)

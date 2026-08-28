@@ -1,9 +1,8 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { commandSurface, type CommandSurface } from "../lib/command-surface.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { HelpFlag, HelpPositional } from "../ops/surface.ts"
 import {
   deriveSubjectIdentifierFlags,
@@ -51,9 +50,7 @@ export const positionalsCoverIdentifiers: AsyncCheck = async (repo) => {
       ...judge(
         NAME,
         `${unreadable.length} verb(s) would not load, so the vocabulary is derived from a short surface`,
-        unreadable.map((detail) =>
-          refusalText("command-surface-unread", { detail }, root, fromDisk)
-        )
+        unreadable.map((detail) => refusalText("command-surface-unread", { detail }, root))
       ),
       population: over(0, "verb(s)"),
     }
@@ -72,14 +69,12 @@ export const positionalsCoverIdentifiers: AsyncCheck = async (repo) => {
             identifiers: one.identifiers.join(", "),
             first: one.identifiers[0] ?? "",
           },
-          root,
-          fromDisk
+          root
         )
       : refusalText(
           "positional-alias-note-doubled",
           { command: one.command, positional: one.positional },
-          root,
-          fromDisk
+          root
         )
   )
 

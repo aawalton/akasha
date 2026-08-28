@@ -1,11 +1,10 @@
-
 import { readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { describe, expect, test } from "bun:test"
 import { resumeNotices } from "../audits/resume-notices.ts"
 import { noticesIn, render } from "../compose-notices.ts"
 import type { RepoView } from "../lib/check.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
@@ -15,11 +14,7 @@ const live = readFileSync(join(ROOT, DOCUMENT), "utf8")
 
 const ASKER = "tools/lib/supervisor-resume-notices.ts"
 
-const PINNED_KEYS = [
-  "restart-immediate",
-  "restart-deferred",
-  "restart-recovery-clause",
-]
+const PINNED_KEYS = ["restart-immediate", "restart-deferred", "restart-recovery-clause"]
 
 const CLAUSE = "restart-recovery-clause"
 
@@ -27,7 +22,7 @@ const asks = (keys: readonly string[]): string =>
   `export const KEYS = [${keys.map((key) => `"${key}"`).join(", ")}]\n`
 
 const says = (slug: string, values: Readonly<Record<string, string>> = {}): string =>
-  refusalText(slug, values, ROOT, fromDisk)
+  refusalText(slug, values, ROOT)
 
 function repo(body: string | null, asker: string = asks(PINNED_KEYS)): RepoView {
   return {
@@ -85,7 +80,9 @@ describe("a notice that stopped looking like a machine's", () => {
       repo(bodyOf("restart-immediate", "You have been restarted, and your context is preserved."))
     )
     expect(outcome.verdict).toBe("fail")
-    expect(outcome.messages).toContain(says("resume-notice-unstamped", { key: "restart-immediate" }))
+    expect(outcome.messages).toContain(
+      says("resume-notice-unstamped", { key: "restart-immediate" })
+    )
   })
 })
 
@@ -104,9 +101,13 @@ describe("the recovery clause", () => {
 
 describe("the asker, now that it stands in this repo", () => {
   test("an asker that stopped naming a key is refused", () => {
-    const outcome = resumeNotices(repo(live, asks(PINNED_KEYS.filter((key) => key !== "restart-deferred"))))
+    const outcome = resumeNotices(
+      repo(live, asks(PINNED_KEYS.filter((key) => key !== "restart-deferred")))
+    )
     expect(outcome.verdict).toBe("fail")
-    expect(outcome.messages).toContain(says("resume-notice-unasked", { asker: ASKER, key: "restart-deferred" }))
+    expect(outcome.messages).toContain(
+      says("resume-notice-unasked", { asker: ASKER, key: "restart-deferred" })
+    )
   })
 })
 
@@ -137,7 +138,6 @@ describe("a notice handed on a message row", () => {
     expect(outcome.verdict).toBe("fail")
     expect(outcome.messages).toContain(says("notice-on-row-stamped", { key: "editor-revive" }))
   })
-
 })
 
 describe("a document that cannot be read at all", () => {

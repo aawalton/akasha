@@ -1,10 +1,9 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { entriesOf, type HookEntry } from "../lib/hook-merge.ts"
 import { advise, judge, over, skip } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { type History, historyOf } from "../lib/settings-history.ts"
 import { SETTINGS_PATH } from "../lib/hook-settings.ts"
 
@@ -128,11 +127,20 @@ function byLaunch(seats: readonly Seat[], history: History): Map<string, Seat[]>
 export const hooksDelivered: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
   if (!repo.exists(`${rootFor(repo.roots, AKASHA)}/${SETTINGS_PATH}`)) {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: over(0, "live seat(s)") }
+    return {
+      ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`),
+      population: over(0, "live seat(s)"),
+    }
   }
   const ours = parsed(repo.read(SETTINGS_PATH))
   if (ours === null) {
-    return { ...skip(NAME, `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`), population: over(0, "live seat(s)") }
+    return {
+      ...skip(
+        NAME,
+        `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`
+      ),
+      population: over(0, "live seat(s)"),
+    }
   }
   const registered = new Set(entriesOf(ours).map(key)).size
 
@@ -140,7 +148,10 @@ export const hooksDelivered: Check = (repo) => {
   const carrying = seats.filter((seat) => seat.settings !== null)
   const onUserTier = seats.length - carrying.length
   if (seats.length === 0) {
-    return { ...skip(NAME, "no live seat to ask, so nothing here says what any client was handed"), population: over(0, "live seat(s)") }
+    return {
+      ...skip(NAME, "no live seat to ask, so nothing here says what any client was handed"),
+      population: over(0, "live seat(s)"),
+    }
   }
   if (carrying.length === 0) {
     return {
@@ -167,8 +178,7 @@ export const hooksDelivered: Check = (repo) => {
         refusalText(
           "hook-payload-unreadable",
           { path, pids: here.map((seat) => seat.pid).join(", ") },
-          root,
-          fromDisk
+          root
         )
       )
       continue
@@ -176,7 +186,11 @@ export const hooksDelivered: Check = (repo) => {
     const delivered = parsed(text)
     if (delivered === null) {
       refusals.push(
-        refusalText("hook-payload-not-json", { path, pids: here.map((seat) => seat.pid).join(", ") }, root, fromDisk)
+        refusalText(
+          "hook-payload-not-json",
+          { path, pids: here.map((seat) => seat.pid).join(", ") },
+          root
+        )
       )
       continue
     }
@@ -188,23 +202,35 @@ export const hooksDelivered: Check = (repo) => {
         history.at(group[0]?.startedAt ?? null)
       )
       for (const one of missing.selfClearing) {
-        notices.push(refusalText("hook-registered-after-launch", { what: describe(one), pids }, root, fromDisk))
+        notices.push(
+          refusalText("hook-registered-after-launch", { what: describe(one), pids }, root)
+        )
       }
       for (const one of missing.real) {
         refusals.push(
           established
-            ? refusalText("hook-missing-from-payload", { what: describe(one), path, pids }, root, fromDisk)
-            : refusalText("hook-missing-from-payload-unsettled", { what: describe(one), path, pids }, root, fromDisk)
+            ? refusalText("hook-missing-from-payload", { what: describe(one), path, pids }, root)
+            : refusalText(
+                "hook-missing-from-payload-unsettled",
+                { what: describe(one), path, pids },
+                root
+              )
         )
       }
       for (const one of extra.selfClearing) {
-        notices.push(refusalText("hook-dropped-since-launch", { what: describe(one), pids, path }, root, fromDisk))
+        notices.push(
+          refusalText("hook-dropped-since-launch", { what: describe(one), pids, path }, root)
+        )
       }
       for (const one of extra.real) {
         refusals.push(
           established
-            ? refusalText("hook-extra-in-payload", { what: describe(one), pids, path }, root, fromDisk)
-            : refusalText("hook-extra-in-payload-unsettled", { what: describe(one), pids, path }, root, fromDisk)
+            ? refusalText("hook-extra-in-payload", { what: describe(one), pids, path }, root)
+            : refusalText(
+                "hook-extra-in-payload-unsettled",
+                { what: describe(one), pids, path },
+                root
+              )
         )
       }
     }

@@ -1,4 +1,3 @@
-
 import {
   cpSync,
   existsSync,
@@ -13,7 +12,7 @@ import { dirname } from "node:path"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../../page/attachment-file.ts"
 import { blobId } from "../../repo/git/git.ts"
 import { READINGS } from "../lib/read-record.ts"
-import { REFUSAL_DIR } from "../lib/refusal.ts"
+import { REFUSAL_DIR } from "../../refusal/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { seatAbove } from "../lib/subagent.ts"
 import { AKASHA, REPOS, rootEnvName } from "../../repo/roots/roots.ts"
@@ -166,9 +165,11 @@ export function fixture(): Fixture {
     },
     installRecorder,
     forgetRecord,
-    recordAt: (agent = "agent-one") => attachmentFileOf(pageOf(agent), READINGS, EXTENSION, UNCOMMITTED),
+    recordAt: (agent = "agent-one") =>
+      attachmentFileOf(pageOf(agent), READINGS, EXTENSION, UNCOMMITTED),
     document: (relPath, frontmatter, lines = 40) => put(relPath, documentBody(frontmatter, lines)),
-    memoryDocument: (relPath, frontmatter, lines = 40) => putMemory(relPath, documentBody(frontmatter, lines)),
+    memoryDocument: (relPath, frontmatter, lines = 40) =>
+      putMemory(relPath, documentBody(frontmatter, lines)),
     plantReading,
     readIt: (agent, relPath) => plantReading(agent, `${root}/${relPath}`),
     dispose: () => {

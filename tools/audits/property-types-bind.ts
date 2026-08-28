@@ -5,9 +5,15 @@ import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { PROPERTY_GLOBS, PROPERTY_KINDS } from "../../page/page-types.ts"
 import { PROPERTY_ROOTS, vocabularyFor } from "../../page/property/frontmatter.ts"
 import { indexedPaths } from "../../page/property/registry.ts"
-import { namesIn, backReference, ruleFor, TYPE, TYPE_VOCABULARY } from "../../page/property/value.ts"
+import {
+  namesIn,
+  backReference,
+  ruleFor,
+  TYPE,
+  TYPE_VOCABULARY,
+} from "../../page/property/value.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "property-types-bind"
 
@@ -51,10 +57,16 @@ export interface Bindings {
  * against them; the real figure was 3.
  */
 function first(lines: readonly string[], noun: string): readonly string[] {
-  return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
+  return lines.length > SHOWN
+    ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`]
+    : lines
 }
 
-function typed(tree: FileTree): { on: ReadonlyMap<string, string[]>; unread: readonly Unread[]; properties: number } {
+function typed(tree: FileTree): {
+  on: ReadonlyMap<string, string[]>
+  unread: readonly Unread[]
+  properties: number
+} {
   const on = new Map<string, string[]>()
   const unread: Unread[] = []
   let properties = 0
@@ -77,7 +89,10 @@ function typed(tree: FileTree): { on: ReadonlyMap<string, string[]>; unread: rea
     }
     const stated = stringAt(fm, TYPE)
     if (stated === null) {
-      unread.push({ relPath, why: `it states no \`${TYPE}:\`, so nothing says what its values are` })
+      unread.push({
+        relPath,
+        why: `it states no \`${TYPE}:\`, so nothing says what its values are`,
+      })
       continue
     }
     for (const name of namesIn(stated)) {
@@ -129,8 +144,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(properties),
             root: PROPERTY_ROOTS.join("` or `"),
           },
-          rootFor(repo.roots, AKASHA),
-          fromDisk
+          rootFor(repo.roots, AKASHA)
         ),
       ]),
       population: over(0, "type name(s)"),
@@ -143,8 +157,7 @@ export const propertyTypesBind: Check = (repo) => {
           refusalText(
             "property-definitions-absent",
             { glob: PROPERTY_GLOBS.join("` or `"), count: String(names.length) },
-            rootFor(repo.roots, AKASHA),
-            fromDisk
+            rootFor(repo.roots, AKASHA)
           ),
         ]
       : []
@@ -154,8 +167,7 @@ export const propertyTypesBind: Check = (repo) => {
       ? refusalText(
           "property-type-name-unbound-unused",
           { name: one.name, vocabulary: TYPE_VOCABULARY, engine: ENGINE },
-          rootFor(repo.roots, AKASHA),
-          fromDisk
+          rootFor(repo.roots, AKASHA)
         )
       : refusalText(
           "property-type-name-unbound-used",
@@ -166,8 +178,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(one.on.length),
             on: one.on.join(", "),
           },
-          rootFor(repo.roots, AKASHA),
-          fromDisk
+          rootFor(repo.roots, AKASHA)
         )
   )
 
@@ -175,8 +186,7 @@ export const propertyTypesBind: Check = (repo) => {
     refusalText(
       "property-type-name-undeclared",
       { path: one.on, name: one.name, vocabulary: TYPE_VOCABULARY },
-      rootFor(repo.roots, AKASHA),
-      fromDisk
+      rootFor(repo.roots, AKASHA)
     )
   )
 
@@ -186,7 +196,14 @@ export const propertyTypesBind: Check = (repo) => {
     `${undeclared.length} propert(ies) typed against a name \`${TYPE_VOCABULARY}\` declares nowhere — ` +
     `over ${properties} property definition(s), ${unread.length} of which state no type this could read`
 
-  const landable = [...bare, ...first(stateOne, "typed against an undeclared name"), ...first(unread.map((one) => `${one.relPath} — ${one.why}`), "unreadable")]
+  const landable = [
+    ...bare,
+    ...first(stateOne, "typed against an undeclared name"),
+    ...first(
+      unread.map((one) => `${one.relPath} — ${one.why}`),
+      "unreadable"
+    ),
+  ]
   const blocked = first(stateTwo, "name(s) binding no rule")
 
   return {

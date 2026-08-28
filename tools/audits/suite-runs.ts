@@ -1,8 +1,7 @@
-
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { CHECKS_CEILING_MS, type AsyncCheck, type CheckOutcome } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { withSuiteTree } from "../lib/suite-tree.ts"
 import { headSha, selection } from "../lib/test-selection.ts"
 import { DEFAULT_CEILING_MS } from "./tests-bounded.ts"
@@ -101,25 +100,28 @@ export function report(tally: Tally, asked: number, root: string): CheckOutcome 
   const messages: string[] = []
   if (tally.failed > 0 || tally.worstExit > 0) {
     messages.push(
-      refusalText("suite-failed", { failed: `${tally.failed}`, exit: `${tally.worstExit}` }, root, fromDisk)
+      refusalText("suite-failed", { failed: `${tally.failed}`, exit: `${tally.worstExit}` }, root)
     )
   }
   if (tally.unread > 0) {
-    messages.push(refusalText("suite-summary-unread", { exit: `${tally.worstExit}` }, root, fromDisk))
+    messages.push(refusalText("suite-summary-unread", { exit: `${tally.worstExit}` }, root))
   }
   if (tally.killed > 0) {
     messages.push(
       refusalText(
         "suite-batch-killed",
         { batches: `${tally.killed}`, files: `${tally.killedFiles}` },
-        root,
-        fromDisk
+        root
       )
     )
   }
   if (neverStarted > 0) {
     messages.push(
-      refusalText("suite-unfinished", { reached: `${tally.files}`, unreached: `${neverStarted}` }, root, fromDisk)
+      refusalText(
+        "suite-unfinished",
+        { reached: `${tally.files}`, unreached: `${neverStarted}` },
+        root
+      )
     )
   }
   if (messages.length > 0) messages.push(...tally.named.slice(0, NAMED))
@@ -148,9 +150,11 @@ export const suiteRuns: AsyncCheck = async (repo) => {
   const startedOn = headSha(rootFor(repo.roots, AKASHA))
   if (startedOn === null) {
     return {
-      ...judge(NAME, "git could not read HEAD here, so there is no commit whose suite this could run", [
-        "the standard suite runs a worktree of one commit, and nothing names one",
-      ]),
+      ...judge(
+        NAME,
+        "git could not read HEAD here, so there is no commit whose suite this could run",
+        ["the standard suite runs a worktree of one commit, and nothing names one"]
+      ),
       population: over(0, "test file(s)"),
     }
   }
@@ -187,7 +191,10 @@ export const suiteRuns: AsyncCheck = async (repo) => {
         stderr: "pipe",
         timeout: budgetMs,
       })
-      tally = added(tally, tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode, handed.length))
+      tally = added(
+        tally,
+        tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode, handed.length)
+      )
     }
     const outcome = report(tally, files.length, rootFor(repo.roots, AKASHA))
     const onDemand = onDemandFiles(tree.at)
@@ -195,6 +202,9 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       onDemand.length === 0
         ? ""
         : `; ${onDemand.length} file(s) held back and not run here, each run by naming it`
-    return { ...outcome, detail: `${outcome.detail} at ${startedOn.slice(0, 8)} — ${chosen.reason}${held}` }
+    return {
+      ...outcome,
+      detail: `${outcome.detail} at ${startedOn.slice(0, 8)} — ${chosen.reason}${held}`,
+    }
   })
 }
