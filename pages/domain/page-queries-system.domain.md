@@ -10,3 +10,11 @@ settled: true
 # Definition
 
 - **Page queries system** — how we ask about the things we keep track of.
+
+# Design
+
+A browser reaches a page query under `/api` on the app's own origin, never at a cluster name.
+
+A row-write takes one pass over the file holding the rows, whether it carries one row or a batch.
+
+A narrow the query cannot read is refused, never dropped.
