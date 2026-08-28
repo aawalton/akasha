@@ -9,6 +9,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Hi Ryn! I need your help to figure out what we should do about case consistency. Start with your reading, and then lets have a conversation about this."
 registration-account: aawalton
 claude-code-session-uuid: 47a0fa49-1673-4c55-9696-721e87d7f1e9
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/47a0fa49-1673-4c55-9696-721e87d7f1e9.jsonl
