@@ -64,6 +64,4 @@ LINE="[$AGENT_COUNT]"
 if [ -n "$MODEL_DISPLAY" ]; then LINE="$LINE $MODEL_DISPLAY"; fi
 if [ -n "$TOKENS_DISPLAY" ]; then LINE="$LINE $TOKENS_DISPLAY"; fi
 if [ -n "$STATED" ]; then LINE="$LINE $STATED"; fi
-printf '%s' "$INPUT" > "/tmp/sl-input-${AGENT_ID:-none}.json" 2>/dev/null || true
-printf '%s\n' "$LINE" > "/tmp/sl-line-${AGENT_ID:-none}.txt" 2>/dev/null || true
 printf '%s\n' "$LINE"
