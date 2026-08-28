@@ -1,11 +1,11 @@
 import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import type { Roots } from "../../page/page"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 import { seatFromHistory } from "../lib/seat-page-history.ts"
 
 const TREE = mkdtempSync("/var/tmp/seat-from-history-")
 
-const ROOTS: Roots = { instructions: TREE, memory: TREE, akasha: TREE }
+const ROOTS = rootsNamed({ akasha: TREE })
 
 const SPAWNED = "01a03511-92ef-7000-8000-000000000001"
 

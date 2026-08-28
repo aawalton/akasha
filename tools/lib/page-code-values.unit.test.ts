@@ -2,7 +2,7 @@ import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { deriver } from "./page-derive.ts"
-import type { Roots } from "../../page/page"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const front = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -32,17 +32,7 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-const away = join(root, "no-such-repo")
-
-const ROOTS: Roots = {
-  akasha: root,
-  books: away,
-  code: away,
-  "code-editor": away,
-  instructions: away,
-  memory: away,
-  stories: away,
-}
+const ROOTS = rootsNamed({ akasha: root })
 
 const propertiesOf = (named: string): unknown =>
   [...deriver(ROOTS).rows("page-type")!].find((row) => row.at.endsWith(`/${named}.page-type.md`))!

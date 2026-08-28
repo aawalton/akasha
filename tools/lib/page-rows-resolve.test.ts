@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { git } from "../../repo/git/git.ts"
 import { forgetCommits } from "./page-commit-queue.ts"
 import { whereRowsStand, writeRow } from "./page-rows-write.ts"
-import type { Roots } from "../../page/page"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -50,14 +50,8 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-/**
- * The fixture checkout, named as the repository the pages stand in.
- *
- * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
- * fails only when something asks for the one that does. Naming `akasha` is what makes this a
- * repository the code under test can find at all.
- */
-const ROOTS: Roots = { akasha: root }
+/** The fixture checkout, named as the repository the pages stand in. */
+const ROOTS = rootsNamed({ akasha: root })
 
 describe("rows whose property is declared on a page type another one extends", () => {
   it("stands beside the page that holds them, rather than under the type declaring the property", () => {

@@ -4,6 +4,7 @@ import { join, resolve } from "node:path"
 import type { RepoView } from "../lib/check.ts"
 import { DEFAULT_CEILING_MS, statedTimeouts, testsBounded } from "../audits/tests-bounded.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
 
@@ -17,7 +18,7 @@ afterEach(() => {
 
 function viewOf(root: string): RepoView {
   return {
-    roots: { akasha: root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: root }),
     name: "akasha",
     documents: [],
     read: (relPath: string) => readFileSync(join(root, relPath), "utf8"),

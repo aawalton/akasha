@@ -7,6 +7,7 @@ import { HOLES_KEY } from "../../page/document/holes.ts"
 import type { RepoView } from "../lib/check.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { pageFileIn } from "../../page/page-file.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const root = mkdtempSync("/var/tmp/refusals-bound-")
 afterAll(() => rmSync(root, { recursive: true, force: true }))
@@ -23,9 +24,8 @@ beforeEach(() => {
   rmSync(join(root, "services"), { recursive: true, force: true })
 })
 
-const nowhere = "/nonexistent"
 const view: RepoView = {
-  roots: { akasha: root, code: nowhere, memory: nowhere, books: nowhere, stories: nowhere, "code-editor": nowhere, target: "akasha" },
+  roots: rootsNamed({ akasha: root }, "akasha"),
   name: "akasha",
   documents: [],
   read: () => "",
