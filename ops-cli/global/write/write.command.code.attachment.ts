@@ -1,6 +1,6 @@
 export const summary = "Write whole files as a patch, gated before anything lands"
 
-import { existsSync, fstatSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, fstatSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
@@ -9,7 +9,8 @@ import { statingIds } from "./state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose, removeOutside } from "../../../repo/land/land.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { fail, type Landing as Patched, patchText, valueOf } from "../../../patches/patch.ts"
+import { fail, valueOf } from "../../../patches/patch.ts"
+import { patchAside } from "../../../repo/land/body-aside.ts"
 import { readPayload, readsPayload } from "../../../tools/lib/payload.ts"
 
 const FILE_PATH = "--file-path"
@@ -35,8 +36,6 @@ const DRY_RUN = "--dry-run"
 const VALUE_FLAGS = [REPO, INPUT_FILE, FILE_PATH, CONTENT_FILE, MESSAGE, MESSAGE_FILE, REMOVE, PATCH_FILE]
 
 const BARE_FLAGS = [DRY_RUN, MECHANICAL, "--help", "-h"]
-
-const SCRATCH = "/var/tmp"
 
 interface Pair {
   readonly filePath: string
@@ -124,12 +123,6 @@ function couldCarryBody(): boolean {
   } catch {
     return false
   }
-}
-
-function bytesAside(body: string | Uint8Array): string {
-  const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
-  writeFileSync(at, body)
-  return at
 }
 
 export const help = {
@@ -283,14 +276,10 @@ export default async function write(argv: readonly string[]): Promise<void> {
     if (at.repo !== AKASHA) {
       fail(`${PATCH_FILE} is for a call addressing akasha; nothing outside it is landed by patch`)
     }
-    const landings: Patched[] = entries.map((one) => ({
-      relPath: one.relPath,
-      from: bytesAside(one.body),
-    }))
-    const patch = patchText(landings, removals)
+    const patch = patchAside(entries, [], removals)
     writeFileSync(resolve(process.cwd(), held), patch)
     process.stderr.write(
-      `patch: ${patch.length} byte(s) over ${landings.length + removals.length} file(s) — ` +
+      `patch: ${patch.length} byte(s) over ${entries.length + removals.length} file(s) — ` +
         "nothing was checked or landed\n"
     )
     return

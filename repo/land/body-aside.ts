@@ -24,7 +24,7 @@ export function patchAside(
   bodied: readonly Bodied[],
   carried: readonly Landing[],
   removals: readonly string[],
-  root: string
+  root?: string
 ): string {
   const aside = bodied.map((one) => ({ relPath: one.relPath, from: bodyAside(one.body) }))
   try {
