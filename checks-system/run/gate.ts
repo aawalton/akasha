@@ -3,6 +3,7 @@ import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
 import { answersAt } from "../../cache/cache.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
+import { RUNTIME_MARK } from "../../page/runtime/runtime.ts"
 import { contextOver } from "../../cache/said/said.ts"
 import type { Check, CheckRun } from "../check/check-shape.ts"
 import { installedInto, linkedInto } from "../../workspace-package/packages.ts"
@@ -87,12 +88,11 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     )
     const answers = answersAt(patch.root)
     forgetRetired(answers, checksFound(patch.root))
-    const runtime = `bun-${process.versions.bun ?? "unknown"}`
     const oids = oidsUnder(patch.root, null)
-    const ctx = contextOver(patch.root, runtime, oids)
+    const ctx = contextOver(patch.root, RUNTIME_MARK, oids)
     const act = patch.mechanical ? null : { writer: patch.writer, before: onDisk(patch.root) }
     const runs = applying(checks, patch.mechanical).map((check) =>
-      runKept(check, subjects, runtime, answers, tree, { act, trial: true, oids, ctx })
+      runKept(check, subjects, RUNTIME_MARK, answers, tree, { act, trial: true, oids, ctx })
     )
     ctx.said.done()
     return runs
