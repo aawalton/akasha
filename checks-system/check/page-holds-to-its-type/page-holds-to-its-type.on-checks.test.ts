@@ -7,6 +7,26 @@ const ROOT = akashaRoot()
 
 const AT = "checks/check/trial/trial.check.md"
 
+// A PAGE TYPE THE BATCH CARRIES, NOT ONE THE TREE HOLDS. This case named `finding`, which was
+// filed into the memory repo until `aac8f7e0a` moved the memory page types into akasha and the
+// memory repo went away. No page type in the tree is filed anywhere but akasha now, so a case
+// naming a real one weighs nothing and passes for want of a population. The registry is read off
+// the batch, so the page type filed elsewhere is written into the batch beside the path it claims.
+const ELSEWHERE_TYPE = "checks-system/check/trial/trial-elsewhere.page-type.md"
+
+const ELSEWHERE_AT = "trials/held/somewhere.md"
+
+const ELSEWHERE = `---\n${[
+  "page-type-slug: page-type",
+  'title: "Trial elsewhere"',
+  "id: 019ffe7e-71c1-7000-a7df-4459081f9000",
+  "extends-slug: page",
+  "files: code-editor:trials/**/*.md",
+  "body-shape-slug: empty",
+  "slug: trial-elsewhere",
+  "domain-parent-slug: domain/checks-system",
+].join("\n")}\n---\n\n# Definition\n\n- **Trial elsewhere** — a page type a test files into another repository.\n`
+
 const stating = (keys: readonly string[], definition: string): string =>
   `---\n${["page-type-slug: check", 'title: "Trial"', "slug: trial", "needs: tree", ...keys].join("\n")}\n---\n\n# Definition\n\n- **Trial** — ${definition}\n`
 
@@ -64,10 +84,13 @@ test("a path no page type claims is not judged", () => {
 })
 
 test("a path a page type files into another repository is refused, naming both", () => {
-  const failures = verdict({ "checks/check/trial/trial.finding.md": HELD })
+  const failures = verdict({
+    [ELSEWHERE_TYPE]: ELSEWHERE,
+    [ELSEWHERE_AT]: "# Anything\n\nA body no shape standing here bounds.\n",
+  })
   expect(failures).toHaveLength(1)
-  expect(failures[0]!.path).toBe(`${ROOT}/checks/check/trial/trial.finding.md`)
-  expect(failures[0]!.reason).toContain("`finding` page type on the memory repo")
+  expect(failures[0]!.path).toBe(`${ROOT}/${ELSEWHERE_AT}`)
+  expect(failures[0]!.reason).toContain("`trial-elsewhere` page type on the code-editor repo")
   expect(failures[0]!.reason).toContain("this call addresses the akasha repo")
 })
 
