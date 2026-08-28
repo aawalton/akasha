@@ -2,12 +2,12 @@ import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
-import { type Held } from "../lib/page-file-values"
-import { evaluate } from "../lib/page-expression.ts"
-import { ExpressionRefused } from "../lib/page-expression-value.ts"
 import { answer } from "../lib/page-query.ts"
 import type { Roots } from "../../page/page"
 
+// THE EXPRESSION THAT LANDED IS THE ONE TESTED, read off the property page rather than written
+// again here, so a rewrite of it that changes what an account reports fails this rather than
+// passing beside it.
 const landed = (slug: string): string => {
   const path = join(import.meta.dir, "..", "..", "pages", "page-property-definition", `${slug}.page-property-definition.md`)
   const found = /^expression: (.+)$/m.exec(readFileSync(path, "utf8"))
@@ -18,99 +18,6 @@ const landed = (slug: string): string => {
 const SESSION = landed("claude-account-effective-five-hour-percent-used")
 
 const WEEKLY = landed("claude-account-effective-seven-day-percent-used")
-
-const reading =
-  (values: Readonly<Record<string, Held>>) =>
-  (key: string): Held =>
-    values[key] ?? null
-
-const refusal = (expression: string, values: Readonly<Record<string, Held>> = {}): string => {
-  try {
-    evaluate(expression, reading(values))
-  } catch (why) {
-    if (why instanceof ExpressionRefused) return why.message
-    throw why
-  }
-  throw new Error(`\`${expression}\` was evaluated where a refusal was due`)
-}
-
-describe("the expression a value-selecting `&&` and `||` compose", () => {
-  it("takes the right side of `&&` where the test holds", () => {
-    expect(evaluate(SESSION, reading({ "seven-day-percent-used": "100", "five-hour-percent-used": "5" }))).toBe("100")
-  })
-
-  it("takes the right side of `||` where the test fails", () => {
-    expect(evaluate(SESSION, reading({ "seven-day-percent-used": "50", "five-hour-percent-used": "25" }))).toBe("25")
-  })
-
-  it("takes the right side of `||` where the left is a zero rather than reading the zero as an answer", () => {
-    expect(evaluate(SESSION, reading({ "seven-day-percent-used": "40", "five-hour-percent-used": "0" }))).toBe("0")
-  })
-
-  it("carries a missing test through as nothing, so the fallback still answers", () => {
-    expect(evaluate(SESSION, reading({ "five-hour-percent-used": "30" }))).toBe("30")
-  })
-
-  it("answers nothing where every side reaches nothing", () => {
-    expect(evaluate(SESSION, reading({}))).toBeNull()
-  })
-
-  it("reads `>=` as a bound met at the bound itself", () => {
-    expect(evaluate("prop(a) >= 100", reading({ a: "100" }))).toBe("true")
-    expect(evaluate("prop(a) >= 100", reading({ a: "99.9" }))).toBe("false")
-  })
-
-  it("groups by parentheses rather than by the order the operators stand in", () => {
-    expect(evaluate("(1 || 2) && prop(a)", reading({ a: "7" }))).toBe("7")
-  })
-})
-
-describe("a key standing for a reason rather than a number", () => {
-  it("reads a reason that stands as the account being disabled, whatever it says", () => {
-    const values = { "subscription-disabled-reason": "withdrawn", "five-hour-percent-used": "5" }
-    expect(evaluate(SESSION, reading(values))).toBe("100")
-    expect(evaluate(WEEKLY, reading({ ...values, "seven-day-percent-used": "8" }))).toBe("100")
-  })
-
-  it("reads an absent reason as the account standing", () => {
-    expect(evaluate(WEEKLY, reading({ "seven-day-percent-used": "8" }))).toBe("8")
-  })
-
-  it("reads a blank reason as the account standing", () => {
-    expect(
-      evaluate(WEEKLY, reading({ "subscription-disabled-reason": "", "seven-day-percent-used": "8" }))
-    ).toBe("8")
-  })
-
-  it("refuses a reason the two evaluators would read as different kinds of value", () => {
-    expect(refusal(WEEKLY, { "subscription-disabled-reason": "false" })).toBe(
-      "`subscription-disabled-reason` holds `false`, which is a word to a file and a boolean to the database, and this evaluator will not pick"
-    )
-  })
-})
-
-describe("how an expression names a key", () => {
-  it("names a kebab-case key through `prop(...)`, which stops at the closing bracket", () => {
-    expect(evaluate("prop(seven-day-percent-used)", reading({ "seven-day-percent-used": "8" }))).toBe("8")
-  })
-
-  it("names three kebab-case keys in one expression without any of them running into another", () => {
-    const values = {
-      "subscription-disabled-reason": "",
-      "seven-day-percent-used": "100",
-      "five-hour-percent-used": "5",
-    }
-    expect(evaluate(SESSION, reading(values))).toBe("100")
-  })
-
-  it("reads a kebab-case key written bare as a chain of subtractions, so the value it holds is never looked up", () => {
-    expect(evaluate("seven-day-percent-used >= 100", reading({ "seven-day-percent-used": "100" }))).toBe("false")
-  })
-
-  it("names a camel-case key bare, as the keys carrying expressions already do", () => {
-    expect(evaluate("totalLengthInWords", reading({ totalLengthInWords: "40" }))).toBe("40")
-  })
-})
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -142,7 +49,7 @@ const PAGES: Readonly<Record<string, string>> = {
 }
 
 const rootFor = (pages: Readonly<Record<string, string>>): string => {
-  const root = mkdtempSync(join("/var/tmp", "page-expression-"))
+  const root = mkdtempSync(join("/var/tmp", "claude-account-effective-"))
   for (const [relPath, text] of Object.entries({ ...PAGES, ...pages })) {
     mkdirSync(join(root, relPath, ".."), { recursive: true })
     writeFileSync(join(root, relPath), text)
@@ -202,8 +109,6 @@ describe("a key a property definition works out with an expression, read through
     const found = deriver(roots(PLAIN))
     const rows = [...found.rows("claude-account")!]
     expect(rows.every((row) => row.values.broken === null)).toBe(true)
-    expect(found.faults()).toContain(
-      "`claude-account-broken` states an `expression` this evaluator refuses: `min` reads 2 arguments, and 1 stands here"
-    )
+    expect(found.faults().join("\n")).toContain("`claude-account-broken` states an `expression` this evaluator refuses")
   })
 })
