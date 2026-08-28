@@ -1,6 +1,7 @@
 "use client"
 
-import { PanelCard, type PanelCardProps, Textarea } from "@shared/design-system"
+import { PanelCard, type PanelCardProps } from "@shared/design-layout/components/panel-card"
+import { Textarea } from "@shared/design-primitives/components/textarea"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { type ChangeEvent, useEffect, useState } from "react"
 

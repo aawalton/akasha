@@ -1,6 +1,12 @@
 "use client"
 
-import { Badge, BadgeToggleGroup, type BadgeToggleGroupItem, Collapsible, CollapsibleContent, CollapsibleTrigger, Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList, Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle, HorizontalScrollFade, useSurface } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
+import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@shared/design-primitives/components/command"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { HorizontalScrollFade } from "@shared/design-primitives/components/horizontal-scroll-fade"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"

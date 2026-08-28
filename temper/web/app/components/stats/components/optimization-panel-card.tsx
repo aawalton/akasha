@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { StatRow } from "@shared/design-patterns/components/stat-row"
 import type { MetricValue } from "@temper/game-characters-stats/metrics/types"
 import type { StatsRecord } from "@/components/stats/types"

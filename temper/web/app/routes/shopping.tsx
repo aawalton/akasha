@@ -1,4 +1,4 @@
-import { PageLayoutSkeleton } from "@shared/design-system"
+import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { ShoppingPageContent } from "@temper/player-economics-ui/shopping-page-content"

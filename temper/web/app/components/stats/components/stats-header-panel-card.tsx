@@ -1,6 +1,8 @@
 "use client"
 
-import { CardContent, CardHeader, CardTitle, PanelCard, useSurface } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { Tabs, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { Shield, Swords } from "lucide-react"

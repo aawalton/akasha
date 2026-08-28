@@ -1,6 +1,12 @@
 "use client"
 
-import { Button, Card, CardContent, Heading, LayoutLink, PageLayout, PageTitle, Text, useSurface } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { FolderDown, MonitorDown } from "lucide-react"
 import { WatcherBuildStatusCard } from "@/components/watcher/watcher-build-status-card"

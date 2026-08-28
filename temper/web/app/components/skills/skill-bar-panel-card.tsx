@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { activeSkillSlots, type SkillSlotId } from "@temper/game-characters-skills/skill-slots-data"
 import type { Skill, SkillId } from "@temper/game-characters-skills/skills-data"
 import { SkillSlotCard } from "@/components/skills/skill-slot-card"

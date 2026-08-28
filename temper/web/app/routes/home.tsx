@@ -1,4 +1,4 @@
-import { PageLayoutSkeleton } from "@shared/design-system"
+import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
 import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { Suspense } from "react"
 import { HomePageContent } from "@/components/home/home-page-content"

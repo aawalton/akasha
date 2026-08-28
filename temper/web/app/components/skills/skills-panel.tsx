@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"
 import {
   getArmorSkillLineIds,

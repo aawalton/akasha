@@ -1,4 +1,6 @@
-import { CardHeader, PanelCard, Skeleton } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardHeader } from "@shared/design-primitives/components/card"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { AuthPageContent } from "@/components/auth/auth-page-content"

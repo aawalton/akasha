@@ -1,4 +1,7 @@
-import { Button, Collapsible, CollapsibleContent, CollapsibleTrigger, Command, CommandGroup, CommandInput, CommandList, Dialog, DialogContent, DialogHeader, DialogTitle } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
+import { Command, CommandGroup, CommandInput, CommandList } from "@shared/design-primitives/components/command"
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { type SkillId, skills } from "@temper/game-characters-skills/skills-data"
 import type { CategoryData } from "@temper/game-characters-skills-morphs-core/skill-organization"

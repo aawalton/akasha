@@ -1,6 +1,7 @@
 "use client"
 
-import { PanelToggleContext, PanelToggleLocalContext, type PanelToggleSignal, ResponsiveColumns } from "@shared/design-system"
+import { PanelToggleContext, PanelToggleLocalContext, type PanelToggleSignal } from "@shared/design-layout/components/panel-toggle-context"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { METRIC_TREE } from "@temper/game-characters-stats/metrics/metric-tree-data"

@@ -1,4 +1,5 @@
-import { Button, LayoutLink } from "@shared/design-system"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Button } from "@shared/design-primitives/components/button"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { getUser } from "@shared/supabase-rr/auth/server"

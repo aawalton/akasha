@@ -1,4 +1,7 @@
-import { Button, Input, Toggle, useSurface } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Input } from "@shared/design-primitives/components/input"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Toggle } from "@shared/design-primitives/components/toggle"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { ChevronsDown, ChevronsUp, Eye, EyeOff, Search } from "lucide-react"
 

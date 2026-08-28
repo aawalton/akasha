@@ -1,6 +1,8 @@
 "use client"
 
-import { Card, CardContent, Heading, Text } from "@shared/design-system"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { AlertTriangle, CheckCircle2, CircleDashed, FileQuestion, HelpCircle } from "lucide-react"
 import { formatRelativeTime } from "@/components/utils/format-relative-time"

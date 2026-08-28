@@ -1,4 +1,4 @@
-import { PageLayoutSkeleton } from "@shared/design-system"
+import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { InventoryPageContent } from "@temper/player-inventory-management-ui/inventory-page-content"
 import { Suspense } from "react"

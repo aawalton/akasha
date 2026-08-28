@@ -1,13 +1,6 @@
 "use client"
 
-import {
-  Dialog,
-  DialogBody,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-} from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import { AlertTriangle } from "lucide-react"
 
 export interface SetTargetEntity {

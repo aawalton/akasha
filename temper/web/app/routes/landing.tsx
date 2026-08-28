@@ -1,12 +1,7 @@
-import {
-  Button,
-  Card,
-  CardContent,
-  CardHeader,
-  CardTitle,
-  Heading,
-  PageTitle,
-} from "@shared/design-system"
+import { PageTitle } from "@shared/design-layout/components/page-layout"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { Link } from "react-router"
 
 export default function LandingRoute() {
