@@ -77,8 +77,8 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    'ops finding create --domain domain/ops-cli --slug bounds-unsized --title "The store states its destination twice" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md',
-    "ops finding create --domain domain/ops-cli --slug bounds-unsized --title \"...\" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run",
+    'ops finding create --domain domain/ops-cli --slug reaches-uncredited --title "Modules the ops CLI reaches were deleted as unreferenced, though a guard credits those reaches" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md',
+    'ops finding create --domain domain/ops-cli --slug irreversible-spelled-twice --title "Irreversibility is stated on the document and in the code, and only the code gates" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run',
   ],
 }
 
@@ -119,6 +119,7 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   }
   const body = composeFinding(
     domain,
+    slug,
     parsed.requireString("--title"),
     authored(parsed.requireString("--claim-file"), "claim"),
     authored(parsed.requireString("--evidence-file"), "evidence")

@@ -214,7 +214,11 @@ describe("what it lands", () => {
       runCommand(at, filing(at, "page-type/finding", "states-destination-twice"))
 
       const landed = "pages/finding/finding/states-destination-twice.finding.md"
-      expect(readFileSync(`${at.root}/${landed}`, "utf8")).toContain("domain-slug: page-type/finding")
+      const kept = readFileSync(`${at.root}/${landed}`, "utf8")
+      expect(kept).toContain("domain-slug: page-type/finding")
+      // THE SLUG HERE IS NOT THE SLUGIFIED TITLE, which is why one is asked for at all: unless the
+      // page states its own name, the naming check reads it off the title and refuses the file.
+      expect(kept).toContain("slug: states-destination-twice")
       const show = Bun.spawnSync({
         cmd: ["git", "show", "--stat", "--name-status", "HEAD"],
         cwd: at.root,
@@ -234,10 +238,16 @@ describe("what it lands", () => {
 })
 
 describe("what the composition is", () => {
-  test("the domain and the title reach the keys and the authored prose reaches the two headings", () => {
-    const body = composeFinding("page-type/finding", "  A title.  ", "  A claim.  ", "\nThe evidence.\n")
+  test("the domain, the slug and the title reach the keys and the prose reaches the two headings", () => {
+    const body = composeFinding(
+      "page-type/finding",
+      "a-name-of-its-own",
+      "  A title.  ",
+      "  A claim.  ",
+      "\nThe evidence.\n"
+    )
     expect(body).toBe(
-      '---\npage-type-slug: finding\ntitle: "A title."\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nA claim.\n\n# Evidence\n\nThe evidence.\n'
+      '---\npage-type-slug: finding\nslug: a-name-of-its-own\ntitle: "A title."\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nA claim.\n\n# Evidence\n\nThe evidence.\n'
     )
   })
 

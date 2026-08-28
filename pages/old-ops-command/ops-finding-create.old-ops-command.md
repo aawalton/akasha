@@ -34,7 +34,9 @@ gates aside and nothing here passes it, so every gate about what you read is lev
 which for a finding means `pages/page-type/finding.page-type.md` — a finding is an observation rather
 than a proposal, and that is the sentence that should shape a Claim.
 
-THE FILE NAME IS YOURS TOO. Existing names are two to four words compressing the claim
-(`bounds-unsized`, `select-options-unenforced`) and nothing mechanical produces one from a
-claim, so --slug is required. --title is required for the same reason: it is the line a reader
-of the findings list judges the claim by, and nothing here can shorten prose into one.
+THE FILE NAME IS YOURS TOO, AND THE PAGE IS GIVEN IT. Existing names are two to four words
+compressing the claim (`reaches-uncredited`, `irreversible-spelled-twice`) and nothing mechanical
+produces one from a claim, so --slug is required. What you pass lands as `slug:` in the
+frontmatter as well as in the file name, so the page states its own name and a slug that is not
+the slugified title stands. --title is required for the same reason: it is the line a reader of
+the findings list judges the claim by, and nothing here can shorten prose into one.

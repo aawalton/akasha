@@ -57,7 +57,7 @@ export function kebabRefusal(slug: string): string | null {
   if (KEBAB.test(slug)) return null
   return (
     `\`${slug}\` is not kebab-case, and a finding's file name is — lower-case words joined by ` +
-    `single hyphens, as \`bounds-unsized\` and \`select-options-unenforced\` are`
+    `single hyphens, as \`reaches-uncredited\` and \`irreversible-spelled-twice\` are`
   )
 }
 
@@ -112,9 +112,19 @@ export function addressRefusal(domain: string, declared: ReadonlyMap<string, str
   )
 }
 
-export function composeFinding(domain: string, title: string, claim: string, evidence: string): string {
+// THE SLUG IS WRITTEN INTO THE PAGE, not only used to name its file. `page-named-as-stated` asks
+// a page what it calls itself and falls back to the title where nothing says, so a body composed
+// without this key was named by its slugified title and refused for every slug that was not one.
+export function composeFinding(
+  domain: string,
+  slug: string,
+  title: string,
+  claim: string,
+  evidence: string
+): string {
   const said = title.trim().replace(/"/g, '\\"')
-  const front = `---\n${PAGE_TYPE_KEY}: ${FINDING}\ntitle: "${said}"\n${DOMAIN_KEY}: ${domain}\n---`
+  const front =
+    `---\n${PAGE_TYPE_KEY}: ${FINDING}\nslug: ${slug}\ntitle: "${said}"\n${DOMAIN_KEY}: ${domain}\n---`
   return `${front}\n\n# Claim\n\n${claim.trim()}\n\n# Evidence\n\n${evidence.trim()}\n`
 }
 
