@@ -6,6 +6,7 @@ defined-on-slug: page-type/subagent-kind
 key: subagent-type
 type: text
 pattern: '^[A-Za-z][A-Za-z0-9-]*$'
+backstop: 40
 required: true
 slug: subagent-kind-subagent-type
 domain-parent-slug: page-type/subagent-kind
