@@ -3,7 +3,7 @@ id: 30f35fc9-5a12-50d4-acd5-0c9e05a8c82f
 slug: unexcluded-roster-blocks-completion
 page-type-slug: finding
 title: "Unexcluded roster blocks completion"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

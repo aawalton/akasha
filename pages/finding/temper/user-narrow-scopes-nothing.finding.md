@@ -3,7 +3,7 @@ id: 8aefb667-ff03-5288-81ae-c5eaff878277
 slug: user-narrow-scopes-nothing
 page-type-slug: finding
 title: "A userId narrow scopes nothing on a file-backed page type"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

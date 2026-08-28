@@ -3,7 +3,7 @@ id: 14bb9b61-d8d8-53d9-997f-3b01cc74bc44
 slug: task-recurrence-rules-are-on-rows-and-on-no-file
 page-type-slug: finding
 title: "Temper task recurrence rules are on rows and on no file"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

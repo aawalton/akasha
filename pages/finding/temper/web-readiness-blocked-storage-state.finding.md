@@ -3,7 +3,7 @@ id: d4dbe9ca-fb2c-5b3b-8552-e4a56436cd4c
 slug: web-readiness-blocked-storage-state
 page-type-slug: finding
 title: "Web readiness blocked storage state"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

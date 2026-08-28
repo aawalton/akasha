@@ -3,7 +3,7 @@ id: a79dd2f2-6c48-57fa-a827-9a688bece39a
 slug: watcher-self-terminates
 page-type-slug: finding
 title: "Watcher self terminates"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
