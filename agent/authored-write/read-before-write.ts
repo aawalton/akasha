@@ -113,61 +113,68 @@ function refusalOverRequired(
  * this could be landing on top of, and nothing the new text could newly warrant.
  *
  * EVERY WARRANT IS JUDGED ONCE FOR THE WHOLE CHANGE rather than once for each file naming it.
+ *
+ * HANDED HOW IT READS A FILE SO NOTHING HAS TO MOCK A MODULE TO STAND FILES SOMEWHERE ELSE.
+ * `mock.module` is process-global and mutates the namespace object in place, and `mock.restore()`
+ * leaves the replacement standing, so a test mocking `page/text/text.ts` leaves every other test
+ * file in the same run reading through its stub.
  */
-export function unreadBeforeWrite(
-  root: string,
-  writing: readonly Writing[],
-  writer: string | null,
-  bodyOnDisk: BodyOnDisk = fromDisk
-): readonly string[] {
-  if (writing.length === 0) return []
-  if (writer === null) {
-    const why = refusalText("writer-unidentified", {})
-    return writing.map((one) => `${one.relPath} — ${why}`)
-  }
-  const log = readRecordFor(writer)
-  if (log === null) {
-    const why = refusalText("agent-page-absent", {
-      agent: writer,
-      lapsed:
-        "nothing can say what you have seen of the file you are writing, and a change landing " +
-        "on top of work someone else did would go through with nothing saying so",
-    })
-    return writing.map((one) => `${one.relPath} — ${why}`)
-  }
-
-  const { index, naming, rootOf } = standingHere()
-  const warrants = (at: PageAt, text: string | null): readonly PageAt[] =>
-    requiredReadingFor(at, text, index, naming, rootOf)
-  const said: string[] = []
-  const judged = new Set<string>()
-
-  for (const one of writing) {
-    const absolute = `${root}/${one.relPath}`
-    const landing = bytesOf(one.body)
-    const before = bodyOnDisk(absolute)
-    if (before !== null) {
-      if (blobId(before) === blobId(landing)) continue
-      const why = refusalOverTarget(log, log.reading(absolute), before, one.relPath, absolute)
-      if (why !== null) said.push(`${one.relPath} — ${why}`)
+export function unreadBeforeWriteWith(
+  bodyOnDisk: BodyOnDisk,
+  readText: typeof textAt
+): (root: string, writing: readonly Writing[], writer: string | null) => readonly string[] {
+  return (root, writing, writer) => {
+    if (writing.length === 0) return []
+    if (writer === null) {
+      const why = refusalText("writer-unidentified", {})
+      return writing.map((one) => `${one.relPath} — ${why}`)
     }
-    const text = Buffer.from(landing).toString("utf8")
-    for (const warrant of warrants(pageAtOf(AKASHA, one.relPath), text)) {
-      const under = rootOf(warrant.repo)
-      if (under === undefined) continue
-      const at = `${under}/${warrant.key}`
-      if (judged.has(at)) continue
-      judged.add(at)
-      const body = textAt(under, warrant.key)
-      if (body === null) continue
-      const why = refusalOverRequired(
-        log.reading(at),
-        new TextEncoder().encode(body),
-        warrant.key,
-        at
-      )
-      if (why !== null) said.push(`${one.relPath} — ${why}`)
+    const log = readRecordFor(writer)
+    if (log === null) {
+      const why = refusalText("agent-page-absent", {
+        agent: writer,
+        lapsed:
+          "nothing can say what you have seen of the file you are writing, and a change landing " +
+          "on top of work someone else did would go through with nothing saying so",
+      })
+      return writing.map((one) => `${one.relPath} — ${why}`)
     }
+
+    const { index, naming, rootOf } = standingHere()
+    const warrants = (at: PageAt, text: string | null): readonly PageAt[] =>
+      requiredReadingFor(at, text, index, naming, rootOf)
+    const said: string[] = []
+    const judged = new Set<string>()
+
+    for (const one of writing) {
+      const absolute = `${root}/${one.relPath}`
+      const landing = bytesOf(one.body)
+      const before = bodyOnDisk(absolute)
+      if (before !== null) {
+        if (blobId(before) === blobId(landing)) continue
+        const why = refusalOverTarget(log, log.reading(absolute), before, one.relPath, absolute)
+        if (why !== null) said.push(`${one.relPath} — ${why}`)
+      }
+      const text = Buffer.from(landing).toString("utf8")
+      for (const warrant of warrants(pageAtOf(AKASHA, one.relPath), text)) {
+        const under = rootOf(warrant.repo)
+        if (under === undefined) continue
+        const at = `${under}/${warrant.key}`
+        if (judged.has(at)) continue
+        judged.add(at)
+        const body = readText(under, warrant.key)
+        if (body === null) continue
+        const why = refusalOverRequired(
+          log.reading(at),
+          new TextEncoder().encode(body),
+          warrant.key,
+          at
+        )
+        if (why !== null) said.push(`${one.relPath} — ${why}`)
+      }
+    }
+    return said
   }
-  return said
 }
+
+export const unreadBeforeWrite = unreadBeforeWriteWith(fromDisk, textAt)
