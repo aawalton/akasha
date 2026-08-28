@@ -5,7 +5,7 @@ title: "Name form"
 slug: name-form
 domain-parent-slug: domain/writing
 sequence-slugs:
-  - domain/kebab-case
+  - domain/lower-kebab-case
   - domain/lower-snake-case
   - domain/upper-snake-case
   - domain/lower-camel-case
