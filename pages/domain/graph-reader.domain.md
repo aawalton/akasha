@@ -10,7 +10,3 @@ settled: true
 # Definition
 
 - **Graph reader** — what asks the graph a question and acts on the answer.
-
-# Intent
-
-A reader holds the question and what to do with the answer, never the traversal that answers it.

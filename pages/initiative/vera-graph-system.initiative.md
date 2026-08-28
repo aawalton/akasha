@@ -7,10 +7,6 @@ domain-slug: domain/graph-system
 parent-slug: aine-global
 ---
 
-# Intent
-
-- Whoever asks the graph gets an answer, not pieces to put together.
-
 # Design
 
 One graph is left in akasha. The old engine is deleted rather than translated, and what its remaining callers reach is a stub that refuses by name.
