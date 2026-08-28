@@ -25,10 +25,6 @@ export interface SweptReading {
 }
 
 export async function readRulePopulations(log: (line: string) => void): Promise<SweptReading> {
-  // THE TREE SWEPT IS THIS REPOSITORY, named by `akashaRoot`. `getRepoRoot` was used here, and it
-  // names no tree of its own: it reads `WORKSPACE` and throws when nothing set it. That suited a
-  // check pointed at a separate code checkout, and there is no separate checkout now, so the
-  // service — which sets no `WORKSPACE` — threw before it read a single rule.
   const repoRoot = akashaRoot()
   log(`${LOG} reading rule populations over ${repoRoot}`)
 

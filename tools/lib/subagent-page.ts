@@ -1,12 +1,3 @@
-/**
- * Landing and taking away a subagent's page.
- *
- * WHERE THE PAGES ARE AND WHICH STAND IS `subagent-page-read.ts`, and this imports it rather than
- * holding it. Every reader of a subagent's turn asks only where the page is; while that answer sat
- * here, asking it loaded `gated-write.ts` below, and with it a subprocess spawner that only runs
- * under bun. See that file for the finding.
- */
-
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { dirsOfPlaces, placeHolding, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
@@ -96,20 +87,6 @@ export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome 
   }
 }
 
-/**
- * An act that takes a subagent's page, with the agent's readings put back after it.
- *
- * THE READINGS BELONG TO THE AGENT AND NOT TO THE TURN. `SubagentStop` fires at every turn boundary,
- * and a message resuming a delegate remakes its page under the same name seconds later, so a page
- * going is not evidence that the agent it names has finished. While `rm` took the sidecar with the
- * page, a delegate still working lost every reading it had: thirty-six removed-then-remade pairs
- * under one seat in under two hours, one of them two seconds wide.
- *
- * IT ERRS TOWARD KEEPING, and the file that leaves is somebody else's to collect. A delegate that
- * never comes back leaves a sidecar with no page beside it, because nothing here can tell a turn
- * boundary from a return. `takeOrphanedReadings` can, and takes it at the seat's next sweep, which
- * runs when the seat's process has gone and every delegate under it with it.
- */
 export function keepingReadings<T>(pagePath: string, act: () => T): T {
   const readings = `${pagePath.slice(0, -SUBAGENT_PAGE_SUFFIX.length)}${READINGS_SUFFIX}`
   const held = existsSync(readings) ? readFileSync(readings, "utf8") : null
@@ -141,23 +118,6 @@ export function removeSubagentPage(agent: string): Outcome {
   return taken.code === 0 ? { kind: "removed" } : { kind: "refused", detail: whyRefused(taken.output) }
 }
 
-/**
- * Readings sidecars standing under a seat with no page beside them.
- *
- * NOTHING ELSE CAN REACH THESE. `rm` takes a page's sidecars only as a consequence of taking the
- * page, and `standingPagePathsOf` collects names ending `SUBAGENT_PAGE_SUFFIX` and nothing else, so
- * a sidecar whose page has already gone is invisible to every sweep there is. No cutoff reaches one
- * either: a delegate page carries no uncommitted file, so `replacedAt` over it is always 0 and
- * `vouched` expires nothing. One such file stood in this repository with no page beside it when this
- * was written, which is what says the leak is real rather than possible.
- *
- * IT ERRS TOWARD KEEPING. A sidecar goes only where its own page is absent and only under the seat
- * being swept, and that sweep runs when a seat's process has just been replaced. The one live record
- * it could take is a page's in the seconds between its removal and its remake — and reaching that
- * needs the seat's process to have been replaced inside those seconds, by which point the delegate
- * holding it is gone with the process anyway. Widening this to take a sidecar whose page merely
- * looks idle would take live records, which is the fault this whole area is about.
- */
 export function takeOrphanedReadings(
   seatName: string,
   dirs: readonly string[] = dirsOfPlaces(SUBAGENT_PLACES)
@@ -206,14 +166,6 @@ export function removeSubagentPagesOf(seat: string, why: string): Outcome {
   return { kind: "removed" }
 }
 
-/**
- * Which subagents stand under a seat.
- *
- * BESIDE THE WRITERS RATHER THAN BESIDE THE PATHS, because its two callers are the two acts that
- * clear these pages — a stop and a resume both ask what stands before they take anything away. A
- * turn read never asks it, which is why it is not in `subagent-page-read.ts` holding the reader
- * open to the writer this file imports.
- */
 export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return []

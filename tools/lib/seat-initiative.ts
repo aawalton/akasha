@@ -1,4 +1,3 @@
-
 import { existsSync } from "node:fs"
 import { scanGlob } from "../../page/glob/glob.ts"
 import { type Roots } from "../../page/page.ts"
@@ -26,20 +25,6 @@ export interface InitiativePlace {
   readonly pageTypeSlug: string
 }
 
-/**
- * The initiatives under initiatives/, the name settling which files those are.
- *
- * A FILE IN THE FOLDER IS NOT AN INITIATIVE. This took every document there that was not an
- * attachment, so `pages/initiative/formula-name-translations.md` — a note carrying no page type in
- * its name and no frontmatter at all — stood as one of the sixteen spellings a seat could name, and
- * `refuseInitiative` let it through. `pageTypeOf` is the answer `claimant` and the page query are
- * both built on, so asking it here is their answer rather than a second one: over this tree the two
- * name the same fifteen files.
- *
- * ASKED OF THE NAME RATHER THAN OF A QUERY, unlike `askedInitiatives`. A query refuses where the
- * page type does not resolve, and a refusal read as an empty answer takes the seat's initiative off
- * its page — the fault `initiativeOf` below records. Reading the name cannot refuse.
- */
 function initiativeFiles(root: string): readonly string[] {
   const found: string[] = []
   for (const dir of PLACES) {
@@ -65,24 +50,11 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   for (const at of initiativeFiles(root)) {
     const held = frontmatterOf(`${root}/${at}`)
     if (held === null || held[SLUG_KEY] !== bare) continue
-    // THE NAME SETTLES THE PAGE TYPE. This read the file's own `page-type-slug:` and handed that
-    // on as the initiative's page type, so a file under initiatives/ claiming another kind sent
-    // `initiativeWarrant` to that kind's page type page for its required reading, and the page type
-    // the name carries went unread. The path that decides it was already in hand a line above.
     return { relPath: at, pageTypeSlug: pageTypeOf(at) ?? KEY }
   }
   return null
 }
 
-/**
- * What the seat states, spelled the way the files under initiatives/ spell it.
- *
- * A LOOKUP THAT MISSES KEEPS THE STATED SLUG rather than answering null. The seat page is composed
- * from this on every heartbeat, so a null does not read here as "could not resolve" — it takes the
- * assignment off the page, and the next heartbeat composes from the page it just emptied. Measured
- * on 2026-08-27: seven seats lost their initiative that way, none of them told. A slug naming no
- * file is a dangling relation, which the checks refuse out loud; forgetting it says nothing at all.
- */
 export function initiativeOf(agent: string, roots: Roots = resolveRoots()): InitiativeRecord | null {
   const bare = pageTextOf(agent, INITIATIVE_SLUG_KEY)
   if (bare === null) return null

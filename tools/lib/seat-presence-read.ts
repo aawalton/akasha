@@ -104,24 +104,6 @@ export function frontmatterOf(pagePath: string): Record<string, unknown> | null 
   }
 }
 
-/**
- * The seat page each agent id stands on.
- *
- * ONE PASS OVER THE SEAT PAGES PER CALL, RATHER THAN ONE PER ASK. Reading a seat's turn state asks
- * this six times over — the stamp, the pending source, the pending set, the working set, the turn
- * end reading and the on-call role — and reading a whole fleet's colours does that for every seat.
- * Searched per ask that was 78 passes over the seat pages to answer 13 questions, at 108ms, and it
- * is the whole of what the Work panel's repaint used to spend. The pass costs one readdir and a
- * frontmatter parse per page either way, so held for the length of a call it is paid once.
- *
- * FIRST PAGE WINS, which is the order `seatPagePaths` puts the seat directories in and the answer
- * the search gave before this held it. Two pages carrying one id is a fault in the corpus rather
- * than a choice for this to make.
- *
- * OUTSIDE A CALL IT IS BUILT AND DROPPED, so a command asking once pays a whole pass where the
- * search might have stopped at the first page. That is 13 frontmatter parses against a possible 1,
- * and it buys that the answer cannot differ between the two paths.
- */
 function seatPageById(): ReadonlyMap<string, string> {
   return onceInCall("seat-page-by-id", () => {
     const found = new Map<string, string>()

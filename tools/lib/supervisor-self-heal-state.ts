@@ -1,4 +1,3 @@
-
 import { LOG } from "./supervisor-config.ts"
 import { armDeferredRestart } from "./supervisor-deferred-restart.ts"
 import type { DeferredRestartRuleSource } from "./supervisor-deferred-restart-rule.ts"
@@ -99,9 +98,6 @@ export function isPendingReExec(): boolean {
 
 export function setCurrentAgentIdForSelfHeal(agentId: string | null): undefined {
   selfHealState.currentAgentIdForSelfHeal = agentId
-  // THE ASK IS SPENT BY WHOEVER CAME UP FOR IT. This is the one moment a supervisor learns which
-  // seat it is, so it is where an ask written before it started is taken. Left standing, it would
-  // answer every later SIGTERM as well as the one it was written for.
   takeReExecAsk(agentId)
 }
 

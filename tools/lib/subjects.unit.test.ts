@@ -3,7 +3,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { soleRepoOf } from "../../page/page-types.ts"
 import { readSubject, SUBJECTS, type Subject } from "./subjects.ts"
-import { resolveRoots, rootFor } from "../../repo/roots/roots"
+import { resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
 const ROOT = new URL("../../", import.meta.url).pathname.replace(/\/$/, "")
 
@@ -32,8 +32,6 @@ test("every subject reads from the repo its page type names, not the one asking"
 })
 
 test("a subject filed outside the instructions repo still resolves", () => {
-  // `persona` moved to akasha; a reader keyed on the instructions root found none and called it a
-  // dead read, which is the failure this asserts against rather than the repo it happens to name.
   const found = readSubject(ROOT, "personas")
   expect(found.records.length).toBeGreaterThan(0)
   expect(found.root).toBe(

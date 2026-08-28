@@ -1,4 +1,3 @@
-
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
 import { diskFileTree } from "../../page/file-tree.ts"
@@ -53,10 +52,6 @@ function stemsIn(
     held.add(at)
     byStem.set(stem, held)
   }
-  // KEYED BY REPO NAME, AND A REPO MAY NOT BE CLONED HERE. `reposOf` answers repo names as plain
-  // strings, so indexing the two-key object `resolveRoots` returns was an implicit `any` — the one
-  // error in this file, and it is reachable from the running editor extension through its imports.
-  // Saying the shape rather than casting keeps the `undefined` below honest instead of assumed.
   const roots: Readonly<Record<string, string | undefined>> = { ...resolveRoots(), akasha: root }
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slot)
   if (type !== undefined) {

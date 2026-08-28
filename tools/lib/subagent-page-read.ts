@@ -1,20 +1,3 @@
-/**
- * Where a subagent's page stands, and which stand under a seat.
- *
- * SEPARATE FROM THE FILE THAT WRITES THEM, AND THAT SEPARATION IS THE WHOLE POINT OF THIS FILE.
- * Reading a subagent's turn state asks only whether its page is there — `subagent-turn.ts` calls
- * `subagentPagePathFor` and `existsSync` and nothing else. While that answer sat beside
- * `writeSubagentPage`, asking it loaded `gated-write.ts`, which spawns `ops write` in a subprocess,
- * reads `import.meta.dir` at module scope and calls `Bun.spawnSync`. So a read pulled in the write
- * path, and the write path pinned the runtime to bun: the editor's extension host is node, where
- * `import.meta.dir` is undefined and the whole chain threw at load. That is
- * `pages/finding/agent-harness/a-seat-turn-read-is-pinned-to-bun-by-the-writer-it-reaches.finding.md`.
- *
- * NOTHING HERE WRITES, and nothing here may. A function added below that lands a page would put the
- * writer back on the read path without anyone noticing, because the import that carries it is one
- * line in a file whose name says it reads.
- */
-
 import { existsSync, readdirSync } from "node:fs"
 import { dirsOfPlaces, rootOfPlace, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
 import { seatNameForAgent } from "./seat-presence-read.ts"
@@ -24,7 +7,6 @@ export const SUBAGENT_PAGE_TYPE = "subagent"
 
 export const SUBAGENT_PAGE_SUFFIX = ".md"
 
-/** The name of the seat a subagent runs under, or null where the id names no subagent. */
 export function subagentSeatName(agent: string): string | null {
   const seat = seatAbove(agent)
   return seat === null ? null : seatNameForAgent(seat)

@@ -1,4 +1,3 @@
-
 import {
   appendFileSync,
   existsSync,
@@ -57,14 +56,6 @@ export function fileSink(logPath: string, rotate?: RotationOptions): LogSink {
   }
 }
 
-/**
- * Write each line to the seat's log page, and to the file where the page refuses it.
- *
- * SAY WHY, NOT JUST WHERE. The line itself never went missing — it lands in the file — but the
- * refusal that sent it there was held in `LogWriter.refused()` and read by nobody, so a seat log
- * that had stopped being written looked exactly like a seat log with nothing to say. Each distinct
- * reason is named once, in the file, the first time it turns a line aside.
- */
 export function pageSink(writer: LogWriter, agentId: string, fallback: LogSink): LogSink {
   let named: string | null = null
   return (level, text): undefined => {

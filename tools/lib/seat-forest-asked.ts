@@ -1,4 +1,3 @@
-
 import { answer } from "./page-query.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { FLEET } from "./compose-seat-name.ts"
@@ -37,13 +36,6 @@ function textAt(values: Values, key: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-/**
- * A stamped record rebuilt from the one value a query answers.
- *
- * THE MOMENT IS NOT CARRIED. The sidecar's stamp is opened away before a query sees it, and the
- * cascade reads a record's value and whether it stands, never when it was written. A record built
- * here says `0` rather than pretending to a moment it was not given.
- */
 function recordOf(values: Values, key: string): { readonly value: string; readonly at: number } | null {
   const held = textAt(values, key)
   return held === null ? null : { value: held, at: 0 }
@@ -85,17 +77,6 @@ function onCallByRole(roots: ReturnType<typeof resolveRoots>): ReadonlyMap<strin
   return found
 }
 
-/**
- * Every seat the tree is drawn from, answered by two page queries and nothing else.
- *
- * ONE QUERY PER PAGE TYPE, NOT ONE READ PER SEAT. The reader beside this one asks the seat
- * directory for every seat, then asks it again seven times over for each seat it found, and reads
- * a role page and a colour page per row on top. Every one of those answers is a property some page
- * declares, so one query over each page type carries them all and the joins happen here.
- *
- * A DEPARTED ANCESTOR IS NOT FETCHED BACK. A query answers the pages that stand, and a seat with no
- * page is no seat.
- */
 export function askSeatForest(): readonly ForestReading[] {
   const roots = resolveRoots()
   const akasha = rootFor(roots, AKASHA)

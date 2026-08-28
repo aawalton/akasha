@@ -117,13 +117,6 @@ export function verdictForNamedSuites(input: {
     ),
   } as const
 
-  // A RUN THAT PRINTED NO SUMMARY CERTIFIES NOTHING, so it voids the verdict rather than
-  // contributing to it. Such a group has an empty `failTotals` and a null `filesRan`, so left in
-  // the sums it lands as no failures over no files and is absorbed by whichever groups did report:
-  // that is how a run of 143 failures answered `2 failing test(s)`, the silent group holding 142.
-  // A GROUP THAT DIED ON A SIGNAL IS VOIDED HERE TOO rather than left to the crash branch below,
-  // which stands after the failing-group branch and so was never reached by a run that also had a
-  // failure to report — the shape the defect was first filed under.
   const unobserved = groups.filter((g) => g.filesRan === null)
   const [firstSilent, ...restSilent] = unobserved
   if (firstSilent !== undefined) {

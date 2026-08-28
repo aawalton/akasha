@@ -1,32 +1,11 @@
-/**
- * What became of a subagent that was still out when its seat's process ended.
- *
- * THE SEAT IS TOLD ONLY THAT NOTHING ANSWERED. Claude Code's notice — "No completion record was
- * found for background agent …" — reports the harness's own ignorance, not the subagent's fate. The
- * fate is on disk either way: a subagent writes a transcript as it works, and one that died to a
- * transport error says so in its own last words. Reading it turns "nothing knows" into "it ended
- * saying this".
- *
- * NOTHING HERE WRITES, and nothing here may, for the reason `subagent-page-read.ts` gives: the write
- * path spawns a subprocess and pins its callers to bun. This is read by a hook at every session
- * start, so its cost is paid by every seat on every boot.
- */
-
 import { closeSync, existsSync, openSync, readdirSync, readSync, statSync } from "node:fs"
 import { subagentUnder } from "./subagent.ts"
 import { normalizeRecord } from "./transcript-records.ts"
 
-/**
- * `<root>/<project>/<session>/tasks/<subagent id>.output` is Claude Code's layout, not ours.
- *
- * A SUBAGENT'S TRANSCRIPT IS NOT UNDER THE SESSION THAT STARTED IT. A restarted seat takes a new
- * session id, and the transcript stays under the old one, so the id alone is what finds it.
- */
 const TASKS_DIR = "tasks"
 
 const OUTPUT_SUFFIX = ".output"
 
-/** Enough tail to hold the closing records of a transcript, without reading a large one whole. */
 const TAIL_BYTES = 128 * 1024
 
 const SAID_CEILING = 300
@@ -46,7 +25,6 @@ function dirNamesIn(at: string): readonly string[] {
   }
 }
 
-/** Every wanted id looked for in one pass, because the pass costs the same for one as for all. */
 export function transcriptsOf(
   ids: readonly string[],
   root: string = taskRoot()
@@ -75,7 +53,6 @@ function tailLinesOf(path: string): readonly string[] {
     const held = Buffer.alloc(size - from)
     readSync(handle, held, 0, held.length, from)
     const lines = held.toString("utf8").split("\n")
-    // A READ STARTING MID-FILE OPENS INSIDE A LINE, and half a JSON object parses as nothing.
     if (from > 0) lines.shift()
     return lines
   } catch {

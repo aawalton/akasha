@@ -1,5 +1,5 @@
 import { patchUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "../../repo/roots/roots.ts"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
 import { nameFromHistory } from "./seat-page-history.ts"
@@ -15,14 +15,6 @@ import { toolArgv } from "./tool-argv.ts"
 
 const BEAT = "seat-page-beat.ts"
 
-/**
- * THIS FILE IS EVERYTHING A SUPERVISOR HOLDS ABOUT WRITING A SEAT PAGE, AND IT IS A PATH AND AN
- * ARGUMENT LIST. A supervisor outlives every write it makes and Bun resolves a module once at
- * process start, so anything reached from here without a spawn is frozen at the moment the
- * supervisor booted and goes on running after it has been corrected on disk. Every judgement
- * about what a seat page says belongs in `tools/seat-page-beat.ts`, which is read from disk on
- * each call. Moving any of it back across this line freezes it again.
- */
 function reportFrom(output: string, code: number): BeatReport {
   const line = output.trim().split("\n").at(-1) ?? ""
   try {
@@ -31,7 +23,6 @@ function reportFrom(output: string, code: number): BeatReport {
       return parsed as BeatReport
     }
   } catch {
-    // The writer said something that is not its report, which the refusal below carries whole.
   }
   const said = output.trim()
   return {
@@ -108,8 +99,6 @@ export async function keepSeatPage(
   seatName: string,
   account: string | null = null
 ): Promise<void> {
-  // WHICH AGENT THIS SUPERVISOR RUNS AND WHICH SESSION IT HOLDS ARE THE ONLY FACTS NO FILE HOLDS,
-  // so they cross as they stand. What they mean for the page is weighed on the other side.
   const selfHealAgent = getCurrentAgentIdForSelfHeal()
   const selfHealSession = getCurrentSessionIdForSelfHeal()
   const report = await runBeatAsync([
@@ -126,14 +115,6 @@ export async function keepSeatPage(
   }
 }
 
-/**
- * Take a seat's page away, the agent that sat in it having gone.
- *
- * A SHUTDOWN IS THE ONE WRITE A SUPERVISOR NEVER GETS TO RETRY, so it is spawned like every other
- * rather than held: what a departing supervisor does to the page is whatever the file on disk
- * says today, not what it said when that supervisor booted. A stopped seat keeps no page, and its
- * attributes stand in the repository's history from the commit that removed it.
- */
 export function takeSeatPage(agentId: string, stopReason: string): Outcome {
   return runBeat(["--agent", agentId, "--remove", stopReason]).outcome
 }

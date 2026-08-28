@@ -1,14 +1,14 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { pageStemOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name.ts"
 import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { type Roots } from "../../page/page"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { type Roots } from "../../page/page.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { initiativesIn } from "./seat-initiative.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
@@ -28,12 +28,6 @@ export function seatPageRelPath(seatName: string): string {
   return `${SEAT_WRITE.dir}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
 }
 
-/**
- * The slug the initiative file spells, or the stated value where no file answers to it.
- *
- * NEVER EMPTY FOR A SEAT THAT STATES ONE. The caller writes this straight into the page, so a null
- * here dropped the line and the assignment with it, silently and on every heartbeat.
- */
 function initiativeSlugOf(stated: string, root: string): string {
   const at = initiativesIn(root).get(stated) ?? []
   const [only] = at
@@ -42,13 +36,6 @@ function initiativeSlugOf(stated: string, root: string): string {
   return typeof slug === "string" && slug !== "" ? slug : stated
 }
 
-/**
- * The domain named, spelled as an address — `domain/global` rather than `global`.
- *
- * THE PAGE THE NAME REACHED SETTLES THE TYPE BY ITS OWN NAME. This read that page's
- * `page-type-slug:`, so a page whose frontmatter disagreed with its kind was addressed under a
- * page type it is not of, and the seat page then named a domain nothing resolves.
- */
 function domainAddress(named: string, root: string): string {
   const at = documentsOnDemand(root).domainAt(named)
   const type = at === null ? null : pageTypeOf(at)

@@ -1,4 +1,3 @@
-
 import { shape } from "./shape.ts"
 import { buildReExecArgv } from "./supervisor-args.ts"
 import { LOG, REPO_ROOT } from "./supervisor-config.ts"
@@ -12,16 +11,6 @@ export function resolveReExecArgv(): readonly string[] {
   return buildReExecArgv({ originalArgv: ORIGINAL_ARGV, agentId, sessionId })
 }
 
-/**
- * Ask this supervisor to be replaced in place, whoever is asking.
- *
- * THE FLAG AND THE SIGNAL ARE ONE ACT. `pendingReExec` is what tells a shutdown to re-exec rather
- * than end, so a SIGTERM sent without it set takes the seat down and the Claude child, its
- * subagents and its background work with it. Setting one without the other is the whole of the
- * damage this can do, which is why they are not separately callable.
- *
- * A SECOND ASK IS A NO-OP rather than a second signal: the first is already tearing down.
- */
 export function requestReExec(why: string): undefined {
   if (selfHealState.pendingReExec) return
   selfHealState.pendingReExec = true

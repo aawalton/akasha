@@ -24,7 +24,6 @@ export interface StatedFromHistory {
   readonly initiative: string | null
 }
 
-/** How much one `git` call here may hand back. Node caps this at a megabyte where bun does not. */
 const OUTPUT_CEILING = 64 * 1024 * 1024
 
 function gitAt(root: string, args: readonly string[]): string | null {
