@@ -1,5 +1,5 @@
 
-import { holesIn } from "../../page/name/naming/named-for.ts"
+import { holesIn } from "../../named-for/named-for.ts"
 
 const SEPARATORS = /[^A-Za-z0-9]+/
 
