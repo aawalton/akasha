@@ -1,7 +1,6 @@
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 export default workflow("tailnet-egress", {
   kind: "foundation",
@@ -17,11 +16,6 @@ export default workflow("tailnet-egress", {
     applyRbac({
       name: "tailnet-egress-apply-rbac",
       rbacFile: "tools/lib/rbac/tailnet-egress.ts",
-    }),
-    sopsDecryptApply({
-      name: "tailnet-egress-apply-secret",
-      namespace: "tailnet-egress",
-      secretFile: "infra/k8s/src/tailnet-egress/tailnet-egress-auth.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "tailnet-egress-apply-network-policy",
@@ -39,7 +33,6 @@ export default workflow("tailnet-egress", {
       dependsOn: [
         "tailnet-egress-apply-namespace",
         "tailnet-egress-apply-rbac",
-        "tailnet-egress-apply-secret",
         "tailnet-egress-apply-network-policy",
       ],
     },
