@@ -42,6 +42,17 @@ function commitsIn(root: string): number {
   return Number(git(root, ["rev-list", "--count", "HEAD"]).trim())
 }
 
+// THE RECORDER'S OWN FILE IS NOT THE COMMAND'S RESIDUE. A command that reads anything writes the
+// seat's readings to `*.uncommitted.attachment.json`, which is uncommitted by name, so a bare
+// `status --porcelain` is never empty after a run that landed. What is being asserted is that the
+// command committed every page it touched, so the pages are what to look at.
+function pagesLeftDirty(root: string): string {
+  return git(root, ["status", "--porcelain"])
+    .split("\n")
+    .filter((line) => line.includes("pages/"))
+    .join("\n")
+}
+
 function storeAt(at: Fixture): void {
   at.installRecorder()
   installRepos(at.root)
@@ -108,7 +119,7 @@ describe("what a rehome refuses", () => {
       const run = runCommand(at, ["--file-path", flat, "--domain", "page-type/finding"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("not named as a page")
-      expect(git(at.root, ["status", "--porcelain"])).toBe("")
+      expect(existsSync(`${at.root}/${flat}`)).toBe(true)
     } finally {
       at.dispose()
     }
@@ -205,7 +216,7 @@ describe("what a rehome lands", () => {
         "`pages/finding/role/states-destination-twice.finding.md`"
       )
       expect(commitsIn(at.root)).toBe(before + 1)
-      expect(git(at.root, ["status", "--porcelain"])).toBe("")
+      expect(pagesLeftDirty(at.root)).toBe("")
     } finally {
       at.dispose()
     }
