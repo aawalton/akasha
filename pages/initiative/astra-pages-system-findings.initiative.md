@@ -10,7 +10,6 @@ parent-slug: astra-pages-system
 # Intent
 
 - The audit over the finding corpus passes, so the count of open findings can be read rather than argued.
-- Every finding filed against the pages system tree names a domain that exists.
 - No finding in the pages system tree is unfalsifiable.
 - Every finding whose defect is gone has been taken away.
 - No finding-shaped claim lives on an initiative's notes instead of in a finding.
@@ -20,7 +19,9 @@ parent-slug: astra-pages-system
 
 Opened 2026-08-28 to hold the third intent of `astra-pages-system`. The last intent here is that intent; the five above it are what has to be true before it can even be measured.
 
-**The count cannot be read today.** `tools/audits/findings-sorted.ts:41` compares a prefixed `domain-slug` against a bare folder name as plain strings, so it reports 29 findings sorted and fails the other 3,236. While it is red nothing checks the corpus, and disorder has accumulated behind it: 190 findings name a domain that does not exist, 123 of those a bare number, `domain/946` eighty-one times. 31 carry no page-type prefix, 21 carry no slug, 23 sit a level too deep.
+**The count can be read, and it is 137.** Measured 2026-08-28 on `main` at a clean tree: 3,110 findings under `pages/finding/`, of which 137 name `domain/pages-system` or one of the 374 domains beneath it. That is the quantity the last intent names, and this is the first time it has been taken. `findings-sorted` is still red — 2,379 sorted under 327 domain folders, 731 not sitting under the domain they name, no truncation in the list — but red now means misfiled rather than unreadable: every one of the 3,110 names a domain that exists, none carries a bare number, none is missing its page-type prefix, none is missing a slug, and `domain/946` appears nowhere. The earlier reading here, "29 sorted and fails the other 3,236", was true when it was taken and is not what a run reports now.
+
+**Count findings by what they say, not by where they sit.** The same set counted by folder gives 108 and counted by each finding's own `domain-slug` gives 137. The 29 between are findings correctly addressed to this tree and filed somewhere else, which is precisely what `findings-sorted` exists to report — so the folder count reads as an answer while being a lower bound, and nothing about it says so. A first pass at this walked only `pages/` and reported 165 findings naming a domain nothing defines; that was an artifact, because personas are defined under `alan/persona/` rather than under `pages/`. Widening the walk to the whole repository took the artifact to 0 and left 137 unmoved. That is the control worth keeping: a correction that changes the wrong number and not the right one is evidence the right one was not resting on the mistake.
 
 **The set, surveyed 2026-08-28 at `1c8e5677b`: 206 open in the tree.** 85 live, 109 whose defect is gone, 1 wrong, 11 unverified. Taking out the 29 that reach the tree only through `repo/akasha-repo` gives 177.
 
