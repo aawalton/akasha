@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import {
   applied,
+  definitionDestination,
   freshlyDerived,
   frontmatterKeyAt,
   keyValuePatch,
@@ -10,6 +11,7 @@ import {
   sitesIn,
   termOf,
 } from "../lib/rename-property.ts"
+import type { PageType } from "../../page/page-types.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
 const PAGE = [
@@ -125,6 +127,27 @@ describe("applied", () => {
 describe("lineTextAt", () => {
   test("gives the whole line a position sits on", () => {
     expect(lineTextAt("one\n  two three\nfour", 8)).toBe("two three")
+  })
+})
+
+describe("definitionDestination", () => {
+  const TYPES = [{ slug: "page-property-definition" }] as unknown as readonly PageType[]
+  const AT = "pages/page-property-definition/agent-hook-code.page-property-definition.md"
+
+  test("the file a rename moves to carries the page type the definition's name carries", () => {
+    expect(definitionDestination(AT, TYPES, "agent-hook", "kind")).toBe(
+      "pages/page-property-definition/agent-hook-kind.page-property-definition.md"
+    )
+  })
+
+  test("a rename whose file name does not change reads back as the file it already stands at", () => {
+    expect(definitionDestination(AT, TYPES, "agent-hook", "code")).toBe(AT)
+  })
+
+  test("a definition whose name carries no page type names no file to move to", () => {
+    expect(definitionDestination("pages/page-property-definition/agent-hook-code.md", TYPES, "agent-hook", "kind")).toBe(
+      null
+    )
   })
 })
 
