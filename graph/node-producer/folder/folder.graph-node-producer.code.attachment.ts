@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import type { BuildContext } from "../../build-context/build-context.ts"
 import type { NodeProducer, NodeRef } from "../node-shape.ts"
-import fileNodeProducer from "../file/file.graph-node-producer.code.attachment.ts"
+import { keysIn } from "../file/file.graph-node-producer.code.attachment.ts"
 
 export const FOLDER_NODE_KIND = "folder"
 
@@ -53,11 +53,9 @@ function namedPackage(root: string, folder: string): string {
 function foldersOver(ctx: BuildContext, repo: string, root: string): ReadonlyMap<string, FolderNodeAttrs> {
   const packaged = new Set<string>()
   const found = new Set<string>()
-  for (const file of fileNodeProducer.all(ctx, [repo])) {
-    for (const folder of chainOf(file.key)) found.add(folder)
-    if (file.key === PACKAGE_FILE || file.key.endsWith(`/${PACKAGE_FILE}`)) {
-      packaged.add(folderOf(file.key))
-    }
+  for (const key of keysIn(ctx, repo, root)) {
+    for (const folder of chainOf(key)) found.add(folder)
+    if (key === PACKAGE_FILE || key.endsWith(`/${PACKAGE_FILE}`)) packaged.add(folderOf(key))
   }
   const made = new Map<string, FolderNodeAttrs>()
   for (const folder of found) {
