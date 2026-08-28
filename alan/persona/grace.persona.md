@@ -2,14 +2,12 @@
 page-type-slug: persona
 id: 019f18fd-a89d-7fab-b9c0-052ee4db6877
 title: Grace
-total-points: 4015
+total-points: 4083
 cover: "/api/image/019f324d-7395-7630-adc6-91bdb59d2d63"
 slug: grace
 domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
-unit: green day units
-scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: grace
