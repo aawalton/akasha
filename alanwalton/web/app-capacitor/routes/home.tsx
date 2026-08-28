@@ -6,7 +6,7 @@ import { surfaceClass } from "@shared/design-primitives/components/surface-class
 import { PageLayout, PageTitle } from "@shared/design-system"
 import { reportError } from "@shared/errors-client/report-error"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
-import { usePagesSupabase } from "@shared/pages-ui/supabase"
+import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"
 import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
 import { useEffect, useMemo } from "react"
 import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "~/lib/app-id"
