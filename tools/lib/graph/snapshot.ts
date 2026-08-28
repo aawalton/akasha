@@ -1,5 +1,3 @@
-// The old graph is gone. This module is a stub so its callers still resolve.
-// Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
 import { oldGraphGone } from "./graph-gone.ts"
