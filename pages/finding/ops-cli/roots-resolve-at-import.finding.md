@@ -3,7 +3,7 @@ id: 40b5a07f-1f90-59db-9770-e84a37e0c98c
 slug: roots-resolve-at-import
 page-type-slug: finding
 title: "ops reads the instructions repository's pages before it parses an argument, so the one write path cannot be used to finish moving itself"
-domain-slug: ops-cli
+domain-slug: domain/ops-cli
 ---
 
 # Claim

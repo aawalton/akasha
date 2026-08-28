@@ -2,7 +2,7 @@
 page-type-slug: finding
 slug: key-and-folder-compared-across-vocabularies
 title: "Findings-sorted compares a prefixed key against a bare folder"
-domain-slug: finding
+domain-slug: page-type/finding
 ---
 
 # Claim

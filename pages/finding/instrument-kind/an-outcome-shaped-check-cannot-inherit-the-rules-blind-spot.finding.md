@@ -3,7 +3,7 @@ id: 85d0e615-e522-5cb3-8b35-e257f4a58c21
 slug: an-outcome-shaped-check-cannot-inherit-the-rules-blind-spot
 page-type-slug: finding
 title: "A check shaped like the rule it guards can only be wrong where the rule is wrong; a check shaped like the outcome cannot"
-domain-slug: instrument-kind
+domain-slug: domain/instrument-kind
 ---
 
 # Claim

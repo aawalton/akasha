@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "Splitting a file left both copies live, and the repository imports from each"
-domain-slug: file-structure
+domain-slug: domain/file-structure
 slug: one-parser-declared-twice
 ---
 

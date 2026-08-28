@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "The design-token check's new-module guard enumerates the shims, not where colour modules now arrive"
-domain-slug: design-tokens
+domain-slug: domain/design-tokens
 slug: new-module-guard-reads-the-shims
 ---
 

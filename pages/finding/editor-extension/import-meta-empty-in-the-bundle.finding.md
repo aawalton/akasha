@@ -3,7 +3,7 @@ id: ddd486f6-54ca-5bd9-8c95-6c2d7dca6ebe
 slug: import-meta-empty-in-the-bundle
 page-type-slug: finding
 title: "Four akasha modules resolved their own root at import, and the CommonJS bundle they all reached killed the editor extension before it exported anything"
-domain-slug: editor-extension
+domain-slug: domain/editor-extension
 ---
 
 # Claim

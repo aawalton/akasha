@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "A model's properties stand in its page and again in code, and only the code is read"
-domain-slug: image-generation-models
+domain-slug: domain/image-generation-models
 slug: model-properties-unread
 ---
 
