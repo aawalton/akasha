@@ -6,10 +6,36 @@ import { emptiedBy, pruneEmptied, trackedUnder } from "./rm.command.code.attachm
 
 const SCRATCH = "/var/tmp"
 
+const ENTRY = `${import.meta.dir}/rm.command.code.attachment.ts`
+
+interface Ran {
+  readonly code: number
+  readonly said: string
+}
+
 function scratchRepo(): string {
   const at = mkdtempSync(`${SCRATCH}/rm-`)
   execFileSync("git", ["-C", at, "init", "-q"])
+  execFileSync("git", ["-C", at, "config", "user.email", "a@b.c"])
+  execFileSync("git", ["-C", at, "config", "user.name", "t"])
   return at
+}
+
+function committed(root: string, rel: string, body: string): void {
+  put(root, rel, body)
+  execFileSync("git", ["-C", root, "add", "--", rel])
+  execFileSync("git", ["-C", root, "commit", "-qm", `hold ${rel}`])
+}
+
+function removing(root: string, args: readonly string[]): Ran {
+  const ran = Bun.spawnSync({
+    cmd: [process.execPath, ENTRY, ...args],
+    cwd: root,
+    env: { ...process.env, CODE_EDITOR_ROOT: root },
+    stdout: "pipe",
+    stderr: "pipe",
+  })
+  return { code: ran.exitCode ?? -1, said: ran.stderr.toString() + ran.stdout.toString() }
 }
 
 function put(root: string, rel: string, body: string): void {
@@ -82,4 +108,31 @@ test("the repository root is never pruned, whatever went from it", () => {
   rmSync(`${at}/only.txt`)
   expect(pruneEmptied(at, ["only.txt"])).toEqual([])
   expect(existsSync(at)).toBe(true)
+})
+
+test("a path standing in the worktree is taken", () => {
+  const at = scratchRepo()
+  committed(at, "was.txt", "body\n")
+  const ran = removing(at, ["was.txt", "--dry-run"])
+  expect(ran.code).toBe(0)
+  expect(ran.said).toContain("1 removed")
+})
+
+// A REMOVAL TAKES WHAT THE REPOSITORY HOLDS RATHER THAN WHAT THE WORKTREE SHOWS. A path deleted on
+// disk and never committed stands at HEAD, so this commit is the one thing that lands that deletion.
+test("a path the worktree has lost while git still holds it is taken", () => {
+  const at = scratchRepo()
+  committed(at, "was.txt", "body\n")
+  rmSync(`${at}/was.txt`)
+  const ran = removing(at, ["was.txt", "--dry-run"])
+  expect(ran.code).toBe(0)
+  expect(ran.said).toContain("1 removed")
+})
+
+test("a path neither the worktree nor git holds is refused", () => {
+  const at = scratchRepo()
+  committed(at, "was.txt", "body\n")
+  const ran = removing(at, ["never.txt", "--dry-run"])
+  expect(ran.code).toBe(1)
+  expect(ran.said).toContain("does not exist")
 })
