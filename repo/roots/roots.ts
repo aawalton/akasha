@@ -1,5 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
-import { resolve } from "node:path"
+import { dirname, resolve } from "node:path"
+import { fileURLToPath } from "node:url"
 import { canonicalize } from "../path/path.ts"
 import type { Repo } from "../../page/document/types.ts"
 import { pageNameOf } from "../../page/name/name.ts"
@@ -23,18 +24,20 @@ export const MEMORY = "memory"
  * every repository, this one included, so a caller that set it and a `HERE` that ignored it gave
  * two answers for one repository — and `HERE` won, silently, for the pages read at import.
  *
- * A BUILD CARRYING NO `import.meta` HAS ONLY THE VARIABLE. Bundled to CommonJS, `import.meta`
- * compiles to `{}`, so this resolved `undefined` and threw `paths[0] must be of type string`
- * while the module was still loading — before any caller asked for anything, and fatally for
- * everything that imports it. The editor extension is such a build, and it names the root.
+ * TWO RUNTIMES SPELL THIS FILE'S OWN PLACE DIFFERENTLY. `import.meta.dir` is bun's and reads
+ * `undefined` under node, which is what the editor's extension host runs; `import.meta.dirname` is
+ * node's and reads `undefined` under bun. `import.meta.url` is carried by both and is what answers
+ * where neither name does.
  */
 function akashaHere(): string {
   const stated = process.env[rootEnvName(AKASHA)]
   if (stated !== undefined && stated !== "") return resolve(stated)
-  const dir: string | undefined = import.meta.dir
+  const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
+  const named = meta.dir ?? meta.dirname
+  const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
   if (dir === undefined || dir === "") {
     throw new Error(
-      `this build reads no \`import.meta\`, so nothing in it says where \`${AKASHA}\` is — a build like this names it in \`${rootEnvName(AKASHA)}\``
+      `nothing here says where this file is, so nothing says where \`${AKASHA}\` is — name it in \`${rootEnvName(AKASHA)}\``
     )
   }
   return resolve(dir, "..", "..")
