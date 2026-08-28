@@ -1,4 +1,4 @@
-import { MEMORY, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { afterAll, describe, expect, test } from "bun:test"
@@ -20,32 +20,30 @@ function git(root: string, args: readonly string[]): void {
 
 const roots: Roots[] = []
 
-function memoryRepo(): Roots {
-  const memory = mkdtempSync(`${tmpdir()}/seat-identity-`)
-  mkdirSync(`${memory}/seats`, { recursive: true })
-  git(memory, ["init", "-q"])
-  git(memory, ["config", "user.email", "seat@example.invalid"])
-  git(memory, ["config", "user.name", "Seat"])
-  const built: Roots = {
-    instructions: memory,
-    code: memory,
-    memory,
-    books: memory,
-    stories: memory,
-    "code-editor": memory,
-  }
+// SPELLED OUT RATHER THAN IMPORTED FROM `SEAT_PLACES`, which is what the code under test reads to
+// decide where it looks. A fixture taking the directory from there would follow the code to any
+// other directory and stay green, which is the one move that would make these cases prove nothing.
+const SEAT_DIR = "agent/seat"
+
+function seatRepo(): Roots {
+  const root = mkdtempSync(`${tmpdir()}/seat-identity-`)
+  mkdirSync(`${root}/${SEAT_DIR}`, { recursive: true })
+  git(root, ["init", "-q"])
+  git(root, ["config", "user.email", "seat@example.invalid"])
+  git(root, ["config", "user.name", "Seat"])
+  const built: Roots = { akasha: root }
   roots.push(built)
   return built
 }
 
 function commitPage(built: Roots, name: string, body: string): void {
-  writeFileSync(`${rootFor(built, MEMORY)}/seats/${name}.md`, body)
-  git(rootFor(built, MEMORY), ["add", "-A"])
-  git(rootFor(built, MEMORY), ["commit", "-q", "-m", `seat ${name}`])
+  writeFileSync(`${rootFor(built, AKASHA)}/${SEAT_DIR}/${name}.md`, body)
+  git(rootFor(built, AKASHA), ["add", "-A"])
+  git(rootFor(built, AKASHA), ["commit", "-q", "-m", `seat ${name}`])
 }
 
 afterAll(() => {
-  for (const built of roots) rmSync(rootFor(built, MEMORY), { recursive: true, force: true })
+  for (const built of roots) rmSync(rootFor(built, AKASHA), { recursive: true, force: true })
 })
 
 describe("what a seat's page says its identity is", () => {
@@ -65,33 +63,33 @@ describe("what a seat's page says its identity is", () => {
 
 describe("a seat is found by name whether it is standing or stopped", () => {
   test("a standing page answers", () => {
-    const built = memoryRepo()
-    writeFileSync(`${rootFor(built, MEMORY)}/seats/vera.md`, page(AGENT))
+    const built = seatRepo()
+    writeFileSync(`${rootFor(built, AKASHA)}/${SEAT_DIR}/vera.md`, page(AGENT))
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 
   test("a seat that has stopped is answered from the last page it held", () => {
-    const built = memoryRepo()
+    const built = seatRepo()
     commitPage(built, "vera", page(AGENT))
-    rmSync(`${rootFor(built, MEMORY)}/seats/vera.md`)
-    git(rootFor(built, MEMORY), ["commit", "-qam", "vera stopped"])
+    rmSync(`${rootFor(built, AKASHA)}/${SEAT_DIR}/vera.md`)
+    git(rootFor(built, AKASHA), ["commit", "-qam", "vera stopped"])
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 
   test("the page standing now is preferred to the one history holds", () => {
-    const built = memoryRepo()
+    const built = seatRepo()
     commitPage(built, "vera", page(OTHER))
-    writeFileSync(`${rootFor(built, MEMORY)}/seats/vera.md`, page(AGENT))
+    writeFileSync(`${rootFor(built, AKASHA)}/${SEAT_DIR}/vera.md`, page(AGENT))
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 
   test("a name that never held a page answers nothing rather than guessing", () => {
-    const built = memoryRepo()
+    const built = seatRepo()
     expect(seatIdentityForName("vera", built)).toBeNull()
   })
 
   test("one seat's page does not answer for another seat's name", () => {
-    const built = memoryRepo()
+    const built = seatRepo()
     commitPage(built, "vera", page(AGENT))
     expect(seatIdentityForName("thea", built)).toBeNull()
   })
