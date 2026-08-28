@@ -13,7 +13,6 @@ const text = (of: string): Value => ({ kind: "text", text: of })
 
 const ABSENT: Value = { kind: "absent" }
 
-/** Three pages holding 3, 4 and 5 under `length`: a sum of 12 and a mean of 4, both over 3. */
 const three = [
   pageOf("a", { length: number(3) }),
   pageOf("b", { length: number(4) }),
@@ -121,7 +120,6 @@ test("reducing reads the pages and changes none of them", () => {
   expect(pages[0]?.values.properties["length"]).toEqual(number(3))
 })
 
-/** A page type declaring `length` a number, which is what a reduction over it is held to. */
 const declaredLength: Declared = { properties: { length: { type: { kind: "number" } } }, beyond: {} }
 
 const checkedOf = (query: Query): Checked => {

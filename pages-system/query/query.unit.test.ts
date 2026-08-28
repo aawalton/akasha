@@ -16,7 +16,6 @@ const NUMBER = { kind: "number" } as const
 const BOOLEAN = { kind: "boolean" } as const
 const INSTANT = { kind: "instant" } as const
 
-/** A page type carrying the keys every page has, plus whatever a case adds. */
 const declaredOf = (
   extra: Declared["properties"] = {},
   beyond: Record<string, string> = {}
@@ -53,17 +52,13 @@ const refusalOf = (
   return answer.message
 }
 
-/** What each page type extends, written the way a page type states it: the slug it builds on. */
 const extending = (of: Record<string, string>): Extending => new Map(Object.entries(of))
 
-/** What each page type asked about declares, as a store would hand it in. */
 const declaring = (of: Record<string, Declared>): Declaring => new Map(Object.entries(of))
 
-/** The keys a page answered under, in the order the query asked for them. */
 const keysOf = (page: Page | undefined): readonly string[] =>
   Object.keys(page?.values.properties ?? {})
 
-/** The family a checked query asks about, in an order a case can state. */
 const family = (query: Checked): readonly string[] => [...query.pageTypes].sort()
 
 const at = (pages: readonly Page[]): readonly string[] => pages.map((page) => page.at)

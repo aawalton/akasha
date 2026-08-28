@@ -4,19 +4,6 @@ import { resolve } from "node:path"
 import { checkQuery, runQuery } from "../query.ts"
 import { type Citation, cases, citationText } from "./cases.ts"
 
-// This holds the corpus to the pages it says it comes from, and then holds the
-// implementation to the corpus.
-//
-// A conformance corpus is only worth what its citations are worth. Each case
-// quotes a line of a specification page and names where that line stands, and
-// nothing but this keeps the two together: a line moves when someone edits the
-// page above it, and the case then cites a line that says something else, or
-// nothing. That drift is silent — every case still passes against an
-// implementation, and the corpus quietly stops meaning what it says.
-//
-// It reads the pages off disk by path rather than through any page-reading
-// helper, because nothing outside `pages-system/` may be imported here.
-
 const REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 
 const pageCache = new Map<string, string[]>()
@@ -29,7 +16,6 @@ function pageLines(page: string): string[] {
   return lines
 }
 
-/** A line of prose stripped to its words: the markdown bullet, then the marks. */
 function plain(text: string): string {
   return text
     .replace(/^\s*-\s+/, "")
@@ -37,7 +23,6 @@ function plain(text: string): string {
     .trim()
 }
 
-/** Empty where the citation holds, or why it does not. */
 function whyTheCitationFails(from: Citation, claim: string): string {
   const lines = pageLines(from.page)
   if (from.line > lines.length) {
@@ -70,8 +55,6 @@ for (const one of cases) {
     const checked = checkQuery(one.query, one.declared)
     if (one.expected.outcome === "refused") {
       if (checked.ok) throw new Error(`expected a refusal, and this query was checked`)
-      // A refusal must say what was wrong in the terms the query was written
-      // in, so the words the caller wrote are the words it has to carry.
       for (const word of one.expected.mustName) expect(checked.message).toContain(word)
       return
     }

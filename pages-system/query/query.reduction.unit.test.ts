@@ -10,7 +10,6 @@ const TEXT = { kind: "text" } as const
 const NUMBER = { kind: "number" } as const
 const BOOLEAN = { kind: "boolean" } as const
 
-/** A page type carrying the keys every page has, plus whatever a case adds. */
 const declaredOf = (
   extra: Declared["properties"] = {},
   beyond: Record<string, string> = {}

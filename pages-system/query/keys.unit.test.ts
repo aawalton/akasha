@@ -5,7 +5,6 @@ import type { Declared, Page } from "./query.ts"
 
 const TEXT = { kind: "text" } as const
 
-/** A page type declaring exactly the keys named and nothing else, each holding a text. */
 const declaredOf = (...keys: readonly string[]): Declared => ({
   properties: Object.fromEntries(keys.map((key) => [key, { type: TEXT }])),
   beyond: {},

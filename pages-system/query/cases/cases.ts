@@ -1,88 +1,36 @@
-// The query language conformance corpus.
-//
-// Every case here is derived from the written specification and from nothing
-// else, as `pages/domain/language-conformance.domain.md:27` requires: "Hold
-// every implementation to the written meaning, never to another
-// implementation." The older query layer under `tools/lib/page-query-*` was
-// read to learn which cases exist, never to settle what one answers.
-//
-// The specification is:
-//   pages/domain/page-queries-system.domain.md
-//   pages/domain/page-query-language.domain.md
-//   pages/page-type/page-query.page-type.md
-//   pages/page-property-definition/page-query-*.page-property-definition.md
-//   pages/list/formula-operators.list.md
-//
-// Each case names the line it comes from in `from` and quotes that line in
-// `claim`, so a disagreement between an implementation and this corpus is
-// settled by opening the page rather than by arguing. The test beside this file
-// holds every quote to the page it cites.
-//
-// This corpus is plain data. It knows about no evaluator.
-
 import type { Value } from "../../formula/formula.ts"
 import type { Declared, Query } from "../query.ts"
 
-/** Where a case's claim is written. */
 export type Citation = { readonly page: string; readonly line: number }
 
-/** A citation as one string, for a failure message or a grep. */
 export const citationText = (from: Citation): string => `${from.page}:${from.line}`
 
-/**
- * Something this corpus reads off what the pages leave out rather than off what
- * they say, marked so every case resting on it can be found again if a page
- * comes to say otherwise.
- */
 export type Provisional =
-  /**
-   * That a text orders by code point. `page-query-sort-by` says a query orders
-   * by a property and `page-query-language.domain.md:23` says the declared type
-   * settles the comparison, but no page writes which of two texts comes first.
-   */
   | "text-orders-by-code-point"
-  /**
-   * That pages holding nothing under the sort key stand last. That they are not
-   * ordered against pages holding one is written; where they land is not.
-   */
   | "absent-orders-last"
 
-/** What a case expects. */
 export type Outcome =
-  /** The query is refused, and the refusal carries these words. */
   | { readonly outcome: "refused"; readonly mustName: readonly string[] }
-  /** The query answers these pages, named by `at`, in this order. */
   | { readonly outcome: "answers"; readonly at: readonly string[] }
 
 export type CaseGroup = "order" | "limit"
 
 export interface QueryCase {
-  /** Unique, and readable on its own in a failure line. */
   readonly name: string
   readonly group: CaseGroup
-  /** Where the claim this case tests is written. */
   readonly from: Citation
-  /** The claim, quoting the cited line exactly. */
   readonly claim: string
-  /** The query, exactly as a caller would state it. */
   readonly query: Query
-  /** What the page type declares. */
   readonly declared: Declared
-  /** The pages it is run over, in the order they arrive. */
   readonly pages: readonly { readonly at: string; readonly values: Record<string, Value> }[]
   readonly expected: Outcome
   readonly provisional?: Provisional
 }
 
-// ---------------------------------------------------------------------------
-// Shorthand
-// ---------------------------------------------------------------------------
-
 export const text = (value: string): Value => ({ kind: "text", text: value })
 export const num = (value: number): Value => ({ kind: "number", number: value })
 export const when = (value: number): Value => ({ kind: "instant", instant: value })
 
-/** A page type declaring one key of each kind an order is asked about. */
 const DECLARED: Declared = {
   properties: {
     title: { type: { kind: "text" } },
@@ -95,10 +43,6 @@ const DECLARED: Declared = {
 }
 
 const NOTHING: readonly { at: string; values: Record<string, Value> }[] = []
-
-// ---------------------------------------------------------------------------
-// Citations
-// ---------------------------------------------------------------------------
 
 const REFUSED_NOT_DROPPED: Citation = {
   page: "pages/domain/page-queries-system.domain.md",
@@ -135,10 +79,6 @@ const NEITHER =
   "Before and at or after divide the pages carrying a value in two, each falling on one side. A page carrying no value at all falls on neither."
 const IS_LESS = "< — whether one number is less than another."
 const ANSWERS_WITH = "Page query limit — how many pages a page query answers with."
-
-// ---------------------------------------------------------------------------
-// The corpus
-// ---------------------------------------------------------------------------
 
 export const cases: QueryCase[] = [
   {
@@ -305,10 +245,6 @@ export const cases: QueryCase[] = [
     expected: { outcome: "answers", at: ["first", "second", "third"] },
   },
 
-  // -------------------------------------------------------------------------
-  // limit
-  // -------------------------------------------------------------------------
-
   {
     name: "a query answers with no more pages than its limit",
     group: "limit",
@@ -373,8 +309,6 @@ export const cases: QueryCase[] = [
       { at: "two", values: { rank: num(2), title: text("b") } },
     ],
     expected: { outcome: "answers", at: ["one", "two", "three"] },
-    // Narrowing to `title` would drop `rank` from every page, and a query that
-    // asked to be ordered would answer in the order the pages arrived.
   },
   {
     name: "a limit fewer than no pages is refused",

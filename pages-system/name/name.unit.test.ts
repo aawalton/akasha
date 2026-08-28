@@ -6,7 +6,6 @@ const TEXT = { kind: "text" } as const
 const NUMBER = { kind: "number" } as const
 const DATE = { kind: "date" } as const
 
-/** A page type carrying the keys every page has, plus whatever a case adds. */
 const pageTypeOf = (extra: PageType = {}): PageType => ({
   slug: { type: TEXT },
   id: { type: TEXT },
