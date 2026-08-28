@@ -20,7 +20,6 @@ import {
   type Reaching,
   reducedFrom,
   underivable,
-  WALKS,
 } from "./page-reach.ts"
 import { evaluate } from "./page-expression.ts"
 import { ExpressionRefused } from "./page-expression-value.ts"
@@ -244,7 +243,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       faults.add(`\`${declaration.slug}\` ${cannot}`)
       return null
     }
-    if (WALKS.includes(declaration.type ?? "")) return reducedFrom(page, declaration, depth, reach)
+    if (declaration.relation !== null) return reducedFrom(page, declaration, depth, reach)
     if (declaration.expression !== null) {
       const also = [
         ...(declaration.from.length > 0 ? [`\`${FROM}\``] : []),

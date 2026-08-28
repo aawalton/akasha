@@ -107,6 +107,10 @@ describe("an aggregate, which reduces one property across the pages a relation r
     expect(deriver(ROOTS).typeOf("orchard", "fruit")).toBe("number")
   })
 
+  it("reduces where the property states the type it holds beside the relation it walks", () => {
+    expect(held("grove", "fruit").get("west")).toBe("3")
+  })
+
   it("reports no fault where every page it reaches is there", () => {
     expect(faultsOf("orchard")).toEqual([])
   })
@@ -123,21 +127,15 @@ describe("a rollup, which reads one property from a page a relation reaches", ()
 })
 
 describe("a property the deriver cannot work out, which refuses rather than reading as empty", () => {
-  it("names a property stating a relation under a type no relation is walked for", () => {
+  it("names a relation walked for a property that says nothing about what it reads", () => {
     expect(faultsOf("grove")).toContain(
-      "`grove-fruit` states `relation` under `type: number`, and this deriver walks a relation " +
-        "for aggregate and rollup and no other type, so nothing ever works this property out"
-    )
-  })
-
-  it("names an aggregate saying nothing about how it reduces", () => {
-    expect(faultsOf("grove")).toContain(
-      "`grove-tally` states `type: aggregate` and no `function`, so nothing says how it reduces them"
+      "`grove-tally` states `relation` and no `target`, so nothing says which property it reads " +
+        "on each page it reaches"
     )
   })
 
   it("answers nothing for the property it could not work out", () => {
-    expect(held("grove", "fruit").get("west")).toBeNull()
+    expect(held("grove", "tally").get("west")).toBeNull()
   })
 })
 

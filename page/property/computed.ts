@@ -21,6 +21,8 @@ const FROM = "from"
 
 const BACK = "back-from"
 
+const RELATION = "relation"
+
 const KIND = "kind"
 
 const OF = "of"
@@ -142,6 +144,7 @@ export function answeredOn(fm: Frontmatter, reaching: ReadonlySet<string>): bool
   return (
     reachedFor(stringAt(fm, TYPE), reaching) ||
     textField(fm, EXPRESSION) !== null ||
+    stringAt(fm, RELATION) !== null ||
     listField(fm, FROM).length > 0 ||
     stringAt(fm, BACK) !== null
   )

@@ -48,36 +48,23 @@ export function underivable(one: Declared): string | null {
       `a value for ${WALKS.join(", ")} and no other type`
     )
   }
-  if (one.type === AGGREGATE) {
-    if (one.relation === null) {
-      return `states \`type: ${AGGREGATE}\` and no \`${RELATION}\`, so nothing says which pages it reduces`
-    }
-    if (one.reduction === null) {
-      return `states \`type: ${AGGREGATE}\` and no \`${REDUCTION}\`, so nothing says how it reduces them`
-    }
-    if (!REDUCTIONS.includes(one.reduction)) {
-      return `states \`${REDUCTION}: ${one.reduction}\`, and this deriver reduces by ${REDUCTIONS.join(" or ")} and nothing else`
-    }
-    if (one.reduction === SUM && one.over === null) {
-      return `states \`${REDUCTION}: ${SUM}\` and no \`${OVER}\`, so nothing says which property it adds up`
-    }
-    return null
+  if (one.relation === null) {
+    if (one.reduction === null) return null
+    return `states \`${REDUCTION}\` and no \`${RELATION}\`, so nothing says which pages it reduces`
   }
-  if (one.type === ROLLUP) {
-    if (one.relation === null) {
-      return `states \`type: ${ROLLUP}\` and no \`${RELATION}\`, so nothing says which page it reads from`
-    }
+  if (one.reduction === null) {
     if (one.over === null) {
-      return `states \`type: ${ROLLUP}\` and no \`${OVER}\`, so nothing says which property it reads`
+      return `states \`${RELATION}\` and no \`${OVER}\`, so nothing says which property it reads on each page it reaches`
     }
     return null
   }
-  if (one.relation === null && one.reduction === null) return null
-  const stated = one.relation === null ? REDUCTION : RELATION
-  return (
-    `states \`${stated}\` under \`type: ${one.type ?? "nothing"}\`, and this deriver walks a relation ` +
-    `for ${WALKS.join(" and ")} and no other type, so nothing ever works this property out`
-  )
+  if (!REDUCTIONS.includes(one.reduction)) {
+    return `states \`${REDUCTION}: ${one.reduction}\`, and this deriver reduces by ${REDUCTIONS.join(" or ")} and nothing else`
+  }
+  if (one.reduction === SUM && one.over === null) {
+    return `states \`${REDUCTION}: ${SUM}\` and no \`${OVER}\`, so nothing says which property it adds up`
+  }
+  return null
 }
 
 export function along(
@@ -147,7 +134,7 @@ export function reducedFrom(
   try {
     const reached = reachedFrom(page, declaration, depth, reach)
     const over = declaration.over ?? ""
-    if (declaration.type === ROLLUP) {
+    if (declaration.reduction === null) {
       for (const one of reached) {
         const held = reach.valueOf(one, over, depth + 1)
         if (held !== null) return held
