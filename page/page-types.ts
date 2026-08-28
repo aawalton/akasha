@@ -230,9 +230,37 @@ export function repoPlacings(roots: Roots): ReadonlyMap<string, string> {
   return placed
 }
 
+const PAGE_TYPE = "page-type"
+
+/**
+ * Where each page type's own file stands under this root, keyed by its slug and read off the index.
+ *
+ * A PAGE TYPE NEED NOT STAND IN `pages/page-type/`. The `page-type` page type states a glob naming
+ * no folder, and a page type lives where its domain lives, so eleven stand beside their own domains
+ * — seven under `graph/` and four under `readouts/`. A listing of one folder cannot see those, and
+ * the path composed behind it named a file that is not there rather than saying it had found none.
+ *
+ * THE FOLDER LISTING ANSWERS FIRST and this is read only where that misses, so the three hundred
+ * and eighty standing in `pages/page-type/` still cost one `readdirSync` and nothing more.
+ *
+ * THE COMPOSED PATH STILL STANDS BEHIND BOTH, for a root the index does not describe: every fixture
+ * tree is one, and a page type invented in one has no row anywhere.
+ */
+function pageTypeFilesIn(root: string): ReadonlyMap<string, string> {
+  return onceInCall(`page-type-files:${root}`, () => {
+    const made = new Map<string, string>()
+    if (!indexReaches(AKASHA, root)) return made
+    for (const one of loadPages()) {
+      if (one.repo === AKASHA && one.type === PAGE_TYPE) made.set(pageStemOf(one.key), one.key)
+    }
+    return made
+  })
+}
+
 export function pageTypePathIn(root: string, slug: string): string {
-  const held = pageFileIn(root, placeDirOf("page-type"), slug)
-  return held ?? `${placeDirOf("page-type")}/${slug}.page-type${MARKDOWN}`
+  const held = pageFileIn(root, placeDirOf(PAGE_TYPE), slug)
+  if (held !== null) return held
+  return pageTypeFilesIn(root).get(slug) ?? `${placeDirOf(PAGE_TYPE)}/${slug}.${PAGE_TYPE}${MARKDOWN}`
 }
 
 export function placeOf(slug: string): string {
