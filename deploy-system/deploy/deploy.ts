@@ -198,6 +198,7 @@ export interface Deployed {
   readonly ran: readonly Ran[]
   readonly placed: readonly Placed[]
   readonly unplaced: readonly Demand[]
+  readonly consulted: number
 }
 
 export async function deploy(
@@ -213,20 +214,20 @@ export async function deploy(
   for (const manifest of opens) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran, placed: [], unplaced: [] }
+    if (one.code !== 0) return { plan, written, ran, placed: [], unplaced: [], consulted: 0 }
   }
   const secrets = placeSecrets(akasha, plan)
   ran.push(...secrets.ran)
   if (secrets.ran.some((one) => one.code !== 0)) {
-    return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
+    return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
   }
   for (const manifest of rest) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
+    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
   }
-  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
+  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
   const rollout = rolloutOf(plan)
   if (rollout !== null) ran.push(runKubectl(rollout))
-  return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced }
+  return { plan, written, ran, placed: secrets.placed, unplaced: secrets.unplaced, consulted: secrets.consulted }
 }

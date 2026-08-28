@@ -247,8 +247,8 @@ async function deploying(argv: readonly string[]): Promise<void> {
   }
   for (const one of done.unplaced) {
     process.stdout.write(
-      `${plan.service.slug} reads ${one.name} under ${one.key}, which no secret page places, ` +
-        `so the cluster keeps whatever it already holds there\n`
+      `${plan.service.slug} reads ${one.name} under ${one.key}, which none of the ` +
+        `${done.consulted} secret page(s) places, so the cluster keeps whatever it holds there\n`
     )
   }
   await buildIfItBuilds(root, plan)
