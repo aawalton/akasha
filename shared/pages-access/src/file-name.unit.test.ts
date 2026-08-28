@@ -62,6 +62,7 @@ describe("constantHolesIn", () => {
   it("names none where every hole is a key the page states, which is the control", () => {
     expect(constantHolesIn("{slug}")).toEqual([])
     expect(constantHolesIn("{build-name}")).toEqual([])
+    expect(constantHolesIn("{created-at}-{slug}")).toEqual([])
     expect(constantHolesIn("{persona-slug}-l{relationship-level}-{eso-day}")).toEqual([])
   })
 })
