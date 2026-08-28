@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Workflow kind"
 defined-on-slug: page-type/workflow
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - foundation
   - preparation

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat turn end decision reason"
 defined-on-slug: page-type/seat-turn-end-decision
 key: reason
-type: slug
+type: lower-kebab-case
 required: true
 slug: seat-turn-end-decision-reason
 domain-parent-slug: page-type/seat-turn-end-decision

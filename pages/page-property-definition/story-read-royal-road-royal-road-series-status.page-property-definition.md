@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Story read Royal Road royal road series status"
 defined-on-slug: page-type/story-read-royal-road
 key: royalRoadSeriesStatus
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - ongoing
   - completed

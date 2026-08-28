@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Scripture passage translation"
 defined-on-slug: page-type/scripture-passage
 key: translation
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - book-of-mormon
   - web

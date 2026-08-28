@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Reference kind"
 defined-on-slug: page-type/reference
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - class
   - skill

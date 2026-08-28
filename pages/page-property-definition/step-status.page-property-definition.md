@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Step status"
 defined-on-slug: page-type/step
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - pending
   - dispatching

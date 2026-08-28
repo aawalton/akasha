@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Coaching constraint kind
 defined-on-slug: page-type/coaching-constraint
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - medical-gate
   - programming-cue

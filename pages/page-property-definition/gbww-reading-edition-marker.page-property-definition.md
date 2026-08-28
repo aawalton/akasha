@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "GBWW reading edition marker"
 defined-on-slug: page-type/gbww-reading
 key: editionMarker
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - common
   - ed2-only

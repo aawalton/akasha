@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Question link platform"
 defined-on-slug: page-type/question-link
 key: platform
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - web
   - native

@@ -4,7 +4,7 @@ title: "Page property type kind"
 id: 01a00184-40ef-7007-8c48-5852239bb529
 defined-on-slug: page-type/page-property-type
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - primitive
   - composite

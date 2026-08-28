@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat turn end decision verdict"
 defined-on-slug: page-type/seat-turn-end-decision
 key: verdict
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - allow
   - refuse

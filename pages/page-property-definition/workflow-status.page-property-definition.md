@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Workflow status"
 defined-on-slug: page-type/workflow
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - pending
   - dispatching

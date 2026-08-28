@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess progress category"
 defined-on-slug: page-type/chess-progress
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - motif
   - opening

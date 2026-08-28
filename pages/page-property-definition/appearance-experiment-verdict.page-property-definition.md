@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Appearance experiment verdict"
 defined-on-slug: page-type/appearance-experiment
 key: verdict
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - keep
   - tweak

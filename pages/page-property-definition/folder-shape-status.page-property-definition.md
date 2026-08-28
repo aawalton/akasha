@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Folder shape status"
 defined-on-slug: page-type/folder-shape
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - hypothesis
   - coded

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise force"
 defined-on-slug: page-type/exercise
 key: force
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - pull
   - push

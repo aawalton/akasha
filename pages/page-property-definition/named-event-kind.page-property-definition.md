@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Named event kind"
 defined-on-slug: page-type/named-event
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - battle
   - global-event

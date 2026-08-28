@@ -4,7 +4,7 @@ page-type-slug: page-property-type
 title: "Run kind"
 type-slug: run-kind
 kind: select
-of: slug
+of: lower-kebab-case
 values:
   - ruling
   - report

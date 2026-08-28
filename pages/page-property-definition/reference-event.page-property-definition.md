@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Reference event"
 defined-on-slug: page-type/reference
 key: event
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - named
   - used

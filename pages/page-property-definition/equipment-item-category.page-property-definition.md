@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Equipment item category
 defined-on-slug: page-type/equipment-item
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - dumbbells
   - kettlebells

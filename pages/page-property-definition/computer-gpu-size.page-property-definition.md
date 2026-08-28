@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer gpu size"
 defined-on-slug: page-type/computer
 key: gpu-size
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - 16gb
   - 64gb

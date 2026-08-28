@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Person authority authority kind
 defined-on-slug: page-type/person-authority
 key: authority-kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - page-schema
   - page-data

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Identity statement rank"
 defined-on-slug: page-type/identity-statement
 key: rank
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - s-rank
   - a-rank

@@ -13,7 +13,7 @@ const MODE: Property = {
   slug: "seat-mode",
   at: "pages/page-property-definition/seat-mode.page-property-definition.md",
   on: "seat",
-  type: "select(slug)",
+  type: "select(lower-kebab-case)",
   from: [],
   back: null,
   expression: null,
@@ -62,7 +62,7 @@ function repo(): string {
   writeFileSync(`${root}/pages/page-type/seat.page-type.md`, "---\nextends-slug: page\n---\n")
   writeFileSync(`${root}/pages/page-type/page.page-type.md`, "---\nextends-slug: none\n---\n")
   writeFileSync(`${root}/pages/page-property-definition/seat-mode.page-property-definition.md`, "---\nkey: mode\n---\n")
-  writeFileSync(`${root}/pages/page-property-type/slug.page-property-type.md`, "---\nkey: slug\n---\n")
+  writeFileSync(`${root}/pages/page-property-type/lower-kebab-case.page-property-type.md`, "---\nkey: lower-kebab-case\n---\n")
   git(root, ["init", "-q"])
   git(root, ["config", "user.email", "test@example.com"])
   git(root, ["config", "user.name", "test"])

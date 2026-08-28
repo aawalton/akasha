@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Relationship topic sensitivity"
 defined-on-slug: page-type/relationship-topic
 key: sensitivity
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - not-applicable
   - low

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Completed task priority"
 defined-on-slug: page-type/completed-task
 key: priority
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - p1
   - p2

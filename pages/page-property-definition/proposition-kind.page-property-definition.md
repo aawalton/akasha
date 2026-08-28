@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Proposition kind
 defined-on-slug: page-type/proposition
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - definition
   - axiom

@@ -4,7 +4,7 @@ title: "Old gate judges"
 id: 01a03501-c6d2-7739-a748-95267cc1fb83
 defined-on-slug: page-type/old-gate
 key: judges
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - text
   - writer

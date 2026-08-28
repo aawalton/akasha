@@ -4,7 +4,7 @@ title: "Slot bound without"
 id: 01a00751-618a-7705-a3fe-c832b451285d
 defined-on-slug: page-property-type/slot-bound
 key: without
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - strong
   - em

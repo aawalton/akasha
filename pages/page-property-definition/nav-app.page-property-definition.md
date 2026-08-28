@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Nav app"
 defined-on-slug: page-type/nav
 key: app
-type: slug
+type: lower-kebab-case
 slug: nav-app
 domain-parent-slug: page-type/nav
 ---

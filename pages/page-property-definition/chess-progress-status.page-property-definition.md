@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess progress status"
 defined-on-slug: page-type/chess-progress
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - solid
   - shaky

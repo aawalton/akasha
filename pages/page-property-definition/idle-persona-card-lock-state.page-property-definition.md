@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Idle persona card lock state"
 defined-on-slug: page-type/idle-persona-card
 key: lock-state
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - unlocked
   - locked

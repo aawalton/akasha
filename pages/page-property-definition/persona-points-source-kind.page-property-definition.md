@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona points source kind"
 defined-on-slug: page-type/persona-points-source
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - external
   - windowed

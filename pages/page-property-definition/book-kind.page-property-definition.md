@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Book kind"
 defined-on-slug: page-type/book
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - written
   - read

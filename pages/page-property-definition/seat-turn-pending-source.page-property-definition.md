@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat turn pending source"
 defined-on-slug: page-type/seat
 key: turn-pending-source
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - running-task
   - live-child

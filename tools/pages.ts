@@ -37,7 +37,7 @@ vocabulary is not an exception: those documents hang under their kind, not under
 they are pages of.
 
 A PROPERTY'S TYPE IS DRAWN BESIDE IT RATHER THAN ABOVE IT. \`type:\` holds an expression over
-the vocabulary — \`text\`, \`select(slug)\`, \`list(relation-slug, max 30)\`, \`relation-slug | none\`
+the vocabulary — \`text\`, \`select(lower-kebab-case)\`, \`list(relation-slug, max 30)\`, \`relation-slug | none\`
 — and an expression naming two types and a bound has no one place in a tree. So it stands as
 the row's detail, and the vocabulary it draws on is the second tree.
 

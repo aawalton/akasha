@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Person access access kind
 defined-on-slug: page-type/person-access
 key: access-kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - page-type
   - database-row

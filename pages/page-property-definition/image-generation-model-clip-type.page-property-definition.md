@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Image generation model clip type"
 defined-on-slug: page-type/image-generation-model
 key: clip-type
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - lumina2
 slug: image-generation-model-clip-type

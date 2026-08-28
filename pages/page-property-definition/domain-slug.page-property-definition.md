@@ -5,7 +5,7 @@ id: 019ffe31-ee87-7006-b61f-20f73d8d6b39
 defined-on-slug: page-type/domain
 key: slug
 narrows-slug: page
-type: slug
+type: lower-kebab-case
 required: true
 slug: domain-slug
 domain-parent-slug: domain/domain-property

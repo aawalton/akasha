@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise laterality"
 defined-on-slug: page-type/exercise
 key: laterality
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - alternating
   - bilateral

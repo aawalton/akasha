@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat turn state"
 defined-on-slug: page-type/seat
 key: turn-state
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - idle
   - stopped

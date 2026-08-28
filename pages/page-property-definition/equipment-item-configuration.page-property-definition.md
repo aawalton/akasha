@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Equipment item configuration
 defined-on-slug: page-type/equipment-item
 key: configuration
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - pair
   - single

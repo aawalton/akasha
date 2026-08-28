@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "iOS app app slug"
 defined-on-slug: page-type/ios-app
 key: app-slug
-type: slug
+type: lower-kebab-case
 required: true
 slug: ios-app-app-slug
 domain-parent-slug: page-type/ios-app

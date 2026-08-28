@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Readout drawn as"
 defined-on-slug: page-type/readout
 key: drawn-as
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - stoplight
   - number

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity category"
 defined-on-slug: page-type/connection-activity
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - in-person
   - group

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona points source aggregate"
 defined-on-slug: page-type/persona-points-source
 key: aggregate
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - bytes
   - count

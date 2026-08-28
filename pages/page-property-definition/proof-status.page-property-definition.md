@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Proof status
 defined-on-slug: page-type/proof
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - draft
   - submitted

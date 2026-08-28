@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess game player color"
 defined-on-slug: page-type/chess-game
 key: playerColor
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - white
   - black

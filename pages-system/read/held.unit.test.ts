@@ -10,7 +10,7 @@ const DATE = { kind: "date" } as const
 test("every stated type holding one run of characters reaches a text", () => {
   for (const spelling of [
     "text",
-    "slug",
+    "lower-kebab-case",
     "uuid",
     "path",
     "url",
@@ -35,7 +35,7 @@ test("a calendar date reaches a date, the two being one type under two names", (
 })
 
 test("a select holds whatever its choices are written in", () => {
-  expect(heldBy("select(slug)")).toEqual(TEXT)
+  expect(heldBy("select(lower-kebab-case)")).toEqual(TEXT)
 })
 
 test("a list holds several of whatever its items are", () => {

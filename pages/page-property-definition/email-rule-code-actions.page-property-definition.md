@@ -4,7 +4,7 @@ title: "Email rule code actions"
 id: 019ffe8c-ef6a-7000-8769-f5c34ca7230a
 defined-on-slug: page-type/email-rule-code
 key: actions
-type: list(select(slug), max 2)
+type: list(select(lower-kebab-case), max 2)
 values:
   - notify
   - unsubscribe

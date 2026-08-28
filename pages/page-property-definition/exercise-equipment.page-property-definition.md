@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise equipment"
 defined-on-slug: page-type/exercise
 key: equipment
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - bands
   - barbell

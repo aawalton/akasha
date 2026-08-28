@@ -4,7 +4,7 @@ title: "Email rule code filing"
 id: 01a04095-0003-7000-a380-59cba7c2ca28
 defined-on-slug: page-type/email-rule-code
 key: filing
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - archive
   - skip

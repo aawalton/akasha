@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer form factor"
 defined-on-slug: page-type/computer
 key: form-factor
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - desktop
   - laptop

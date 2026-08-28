@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer status"
 defined-on-slug: page-type/computer
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - active
   - needs-repair

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Music song written"
 defined-on-slug: page-type/music-song
 key: written
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - solo
   - collab

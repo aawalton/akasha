@@ -4,7 +4,7 @@ page-type-slug: page-property-type
 title: "Color"
 type-slug: color
 kind: select
-of: slug
+of: lower-kebab-case
 values:
   - green
   - blue

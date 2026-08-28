@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess game source"
 defined-on-slug: page-type/chess-game
 key: source
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - lichess
   - chesscom

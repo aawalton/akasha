@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Completed task category"
 defined-on-slug: page-type/completed-task
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - faith
   - fun

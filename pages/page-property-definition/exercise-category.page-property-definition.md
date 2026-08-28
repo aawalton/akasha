@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise category"
 defined-on-slug: page-type/exercise
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - cardio
   - olympic-weightlifting

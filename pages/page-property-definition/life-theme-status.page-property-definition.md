@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Life theme status"
 defined-on-slug: page-type/life-theme
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - up-next
   - current-focus

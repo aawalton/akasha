@@ -4,7 +4,7 @@ title: "Monarch transaction sign"
 id: 01a00785-037a-7006-83b4-ba6047b981f9
 defined-on-slug: page-type/monarch-transaction
 key: sign
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - positive
   - negative

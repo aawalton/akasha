@@ -4,7 +4,7 @@ id: 2b337e74-299e-5edc-b2f9-bdaa667f43ce
 title: "Cluster check closure policy"
 defined-on-slug: page-type/cluster-check
 key: closure-policy
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - import-graph
 slug: cluster-check-closure-policy

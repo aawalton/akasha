@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Coaching constraint focus tags
 defined-on-slug: page-type/coaching-constraint
 key: focus-tags
-type: list(slug)
+type: list(lower-kebab-case)
 values:
   - push
   - pull

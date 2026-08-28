@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Mobility reading metric
 defined-on-slug: page-type/mobility-reading
 key: metric
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - forward-fold
   - supine-slr

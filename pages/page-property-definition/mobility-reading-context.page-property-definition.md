@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Mobility reading context
 defined-on-slug: page-type/mobility-reading
 key: context
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - warmup
   - cooldown

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Set log activity type"
 defined-on-slug: page-type/set-log
 key: activity-type
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - cardio
   - mobility

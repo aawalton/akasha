@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer ram"
 defined-on-slug: page-type/computer
 key: ram
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - 64gb
   - 16gb

@@ -4,7 +4,7 @@ title: "Page property definition normalized from"
 id: 01a00770-7786-7000-880e-455f6947aa86
 defined-on-slug: page-type/page-property-definition
 key: normalized-from
-type: slug
+type: lower-kebab-case
 slug: page-property-definition-normalized-from
 domain-parent-slug: page-type/page-property-definition
 ---

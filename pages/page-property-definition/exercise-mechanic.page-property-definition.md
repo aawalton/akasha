@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise mechanic"
 defined-on-slug: page-type/exercise
 key: mechanic
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - compound
   - isolation

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Page type owner slug"
 defined-on-slug: page-type/page-type
 key: owner-slug
-type: slug
+type: lower-kebab-case
 slug: page-type-owner-slug
 domain-parent-slug: page-type/page-type
 ---

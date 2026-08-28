@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona origin"
 defined-on-slug: page-type/persona
 key: origin
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - canon
   - celtic

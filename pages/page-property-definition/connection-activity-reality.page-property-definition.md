@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity reality"
 defined-on-slug: page-type/connection-activity
 key: reality
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - authentic
   - professional

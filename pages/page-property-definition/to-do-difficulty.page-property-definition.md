@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "To-do difficulty"
 defined-on-slug: page-type/to-do
 key: difficulty
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - trivial
   - light

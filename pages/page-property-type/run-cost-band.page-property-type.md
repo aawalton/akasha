@@ -4,7 +4,7 @@ page-type-slug: page-property-type
 title: "Run cost band"
 type-slug: run-cost-band
 kind: select
-of: slug
+of: lower-kebab-case
 values:
   - instant
   - fast

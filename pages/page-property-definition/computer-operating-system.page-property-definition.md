@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer operating system"
 defined-on-slug: page-type/computer
 key: operating-system
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - macos-sequoia
   - windows-11-home

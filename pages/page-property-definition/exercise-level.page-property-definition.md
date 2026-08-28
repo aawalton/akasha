@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise level"
 defined-on-slug: page-type/exercise
 key: level
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - beginner
   - expert

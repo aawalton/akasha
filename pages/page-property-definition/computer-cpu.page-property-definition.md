@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer cpu"
 defined-on-slug: page-type/computer
 key: cpu
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - intel-core-ultra-9-285
   - apple-m1-max

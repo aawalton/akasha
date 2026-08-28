@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Schedule day day of week"
 defined-on-slug: page-type/schedule-day
 key: day-of-week
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - monday
   - tuesday

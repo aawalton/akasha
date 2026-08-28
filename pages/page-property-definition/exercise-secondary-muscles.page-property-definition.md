@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise secondary muscles"
 defined-on-slug: page-type/exercise
 key: secondary-muscles
-type: list(slug)
+type: list(lower-kebab-case)
 values:
   - abdominals
   - abductors

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat conditions effort level"
 defined-on-slug: page-type/seat-conditions
 key: effort-level
-type: select(slug) | none
+type: select(lower-kebab-case) | none
 values:
   - auto
   - low

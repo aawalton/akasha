@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Artist source"
 defined-on-slug: page-type/artist
 key: source
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - musicbrainz
   - spotify

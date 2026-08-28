@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Heard track heard source"
 defined-on-slug: page-type/heard-track
 key: heard-source
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - observed
   - seed-top-tracks

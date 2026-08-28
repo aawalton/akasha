@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Question status"
 defined-on-slug: page-type/question
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - open
   - answered

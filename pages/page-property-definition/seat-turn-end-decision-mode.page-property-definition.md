@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat turn end decision mode"
 defined-on-slug: page-type/seat-turn-end-decision
 key: mode
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - interactive
   - headless

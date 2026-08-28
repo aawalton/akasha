@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise source"
 defined-on-slug: page-type/exercise
 key: source
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - aelwyn-custom
   - free-exercise-db

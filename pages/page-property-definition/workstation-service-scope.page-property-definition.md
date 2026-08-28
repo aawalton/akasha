@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Workstation service scope"
 defined-on-slug: page-type/workstation-service
 key: scope
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - user
   - system

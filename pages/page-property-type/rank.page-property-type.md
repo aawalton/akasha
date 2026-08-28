@@ -4,7 +4,7 @@ page-type-slug: page-property-type
 title: "Rank"
 type-slug: rank
 kind: select
-of: slug
+of: lower-kebab-case
 values:
   - s-rank
   - a-rank

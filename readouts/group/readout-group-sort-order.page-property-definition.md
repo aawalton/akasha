@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Readout group sort order"
 defined-on-slug: page-type/readout-group
 key: sort-order
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - label
   - place

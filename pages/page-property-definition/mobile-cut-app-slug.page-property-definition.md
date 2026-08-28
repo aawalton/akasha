@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Mobile cut app slug"
 defined-on-slug: page-type/mobile-cut
 key: app-slug
-type: slug
+type: lower-kebab-case
 slug: mobile-cut-app-slug
 domain-parent-slug: page-type/mobile-cut
 ---

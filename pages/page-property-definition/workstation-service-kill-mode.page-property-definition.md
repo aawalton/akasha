@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Workstation service kill mode"
 defined-on-slug: page-type/workstation-service
 key: kill-mode
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - control-group
   - mixed

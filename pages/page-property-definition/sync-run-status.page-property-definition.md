@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Sync run status"
 defined-on-slug: page-type/sync-run
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - running
   - success

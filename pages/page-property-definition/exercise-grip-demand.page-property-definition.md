@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise grip demand"
 defined-on-slug: page-type/exercise
 key: grip-demand
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - high
   - low

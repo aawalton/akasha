@@ -4,7 +4,7 @@ title: "Learn everything topic status"
 id: 019ffed6-691c-7006-a6c3-de33de808e3c
 defined-on-slug: page-type/learn-everything-topic
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - unopened
   - live

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Music song song type"
 defined-on-slug: page-type/music-song
 key: song-type
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - original
   - derivative

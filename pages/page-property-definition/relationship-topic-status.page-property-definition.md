@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Relationship topic status"
 defined-on-slug: page-type/relationship-topic
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - someday-maybe
   - planned

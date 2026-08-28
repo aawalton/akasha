@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "ESO daily tracking surplus tier said"
 defined-on-slug: page-type/eso-daily-tracking
 key: surplus-tier-said
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - black
   - red

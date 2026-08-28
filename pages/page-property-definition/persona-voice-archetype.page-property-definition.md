@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona voice archetype"
 defined-on-slug: page-type/persona
 key: voice-archetype
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - warm
   - young

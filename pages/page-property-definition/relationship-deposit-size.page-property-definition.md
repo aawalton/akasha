@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Relationship deposit size"
 defined-on-slug: page-type/relationship-deposit
 key: size
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - small
   - medium

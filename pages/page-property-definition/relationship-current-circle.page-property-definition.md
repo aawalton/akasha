@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Relationship current circle"
 defined-on-slug: page-type/relationship
 key: current-circle
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - pair-bond
   - intimates

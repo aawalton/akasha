@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise scoring mode"
 defined-on-slug: page-type/exercise
 key: scoring-mode
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - reps
   - time

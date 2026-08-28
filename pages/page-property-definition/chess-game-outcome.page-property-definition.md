@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess game outcome"
 defined-on-slug: page-type/chess-game
 key: outcome
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - win
   - loss

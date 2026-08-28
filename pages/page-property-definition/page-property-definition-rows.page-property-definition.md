@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Page property definition rows"
 defined-on-slug: page-type/page-property-definition
 key: rows
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - jsonl
 slug: page-property-definition-rows

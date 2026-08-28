@@ -4,7 +4,7 @@ title: "Monarch transaction month"
 id: 01a00785-037a-7009-a307-62bc66e61baf
 defined-on-slug: page-type/monarch-transaction
 key: month
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - january
   - february

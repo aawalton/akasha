@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Episode episode type"
 defined-on-slug: page-type/episode
 key: episodeType
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - standard
   - mid-season

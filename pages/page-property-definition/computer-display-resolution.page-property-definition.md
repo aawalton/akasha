@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer display resolution"
 defined-on-slug: page-type/computer
 key: display-resolution
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - 3440x1440
   - 3456x2234

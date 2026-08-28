@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Graph edge producer slug"
 defined-on-slug: page-type/graph-edge-producer
 key: slug
-type: slug
+type: lower-kebab-case
 required: true
 narrows-slug: page
 slug: graph-edge-producer-slug

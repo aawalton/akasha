@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Readout figure format"
 defined-on-slug: page-type/readout
 key: figure-format
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - integer
   - percent

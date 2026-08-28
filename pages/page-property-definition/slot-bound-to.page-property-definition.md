@@ -4,7 +4,7 @@ title: "Slot bound to"
 id: 01a00751-618a-7a3b-8e0f-195329de3eeb
 defined-on-slug: page-property-type/slot-bound
 key: to
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - path
 one-of: bound

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer display refresh rate"
 defined-on-slug: page-type/computer
 key: display-refresh-rate
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - 50-hz
   - 120-hz

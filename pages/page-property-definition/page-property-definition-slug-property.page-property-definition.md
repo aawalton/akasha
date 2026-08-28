@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Page property definition slug property"
 defined-on-slug: page-type/page-property-definition
 key: slug-property
-type: slug
+type: lower-kebab-case
 slug: page-property-definition-slug-property
 domain-parent-slug: page-type/page-property-definition
 ---

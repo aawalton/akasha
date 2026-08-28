@@ -4,7 +4,7 @@ title: "Seat turn end reading case verdict"
 id: 01a00175-a4b0-7003-ad99-d249fbff0a66
 defined-on-slug: page-type/seat-turn-end-reading-case
 key: verdict
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - allow
   - refuse

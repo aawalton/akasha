@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "World mechanic reading kind"
 defined-on-slug: page-type/world-mechanic-reading
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - class
   - skill

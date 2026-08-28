@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Page property definition derives"
 defined-on-slug: page-type/page-property-definition
 key: derives
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - none
   - from

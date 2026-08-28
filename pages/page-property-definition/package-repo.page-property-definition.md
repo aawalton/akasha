@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Package repo"
 defined-on-slug: page-type/package
 key: repo
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - akasha
 required: true

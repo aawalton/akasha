@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Error status"
 defined-on-slug: page-type/error
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - new
   - in-progress

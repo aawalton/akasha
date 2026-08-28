@@ -64,13 +64,13 @@ describe("what a page type and its ancestors declare", () => {
   })
 
   test("a list arm names its entries' type, which is what a bare name would have been read as", () => {
-    expect(namesIn("slug | list(slug, max 5)")).toEqual(["slug", "slug"])
+    expect(namesIn("lower-kebab-case | list(lower-kebab-case, max 5)")).toEqual(["lower-kebab-case", "lower-kebab-case"])
     expect(namesIn("list(text)")).toEqual(["text"])
-    expect(namesIn("list(slug")).toEqual(["list(slug"])
+    expect(namesIn("list(lower-kebab-case")).toEqual(["list(lower-kebab-case"])
   })
 
   test("a list stating no bound admits what no bounded one would, and an empty one holds nothing", () => {
-    const { rule } = ruleFor("list(slug)", VOCABULARY)
+    const { rule } = ruleFor("list(lower-kebab-case)", VOCABULARY)
     expect(rule!.holds(Array.from({ length: 49 }, (_, at) => `entry-${at}`))).toBeNull()
     expect(rule!.holds([])).toMatchObject({ fault: "held", measured: "an empty list" })
   })
@@ -122,7 +122,7 @@ describe("the negative controls", () => {
     ["an invented key", { "nonsense-key": "whatever" }, "`nonsense-key` is no property of `leaf`"],
     ["a missing required key", { domain: null }, "`domain` is required on `leaf`"],
     ["a computed key stated in a file", { "made-at": "2026-08-13T09:00:00Z" }, "`made-at` is computed on `root`"],
-    ["a slug that is not one", { domain: "Not A Slug" }, "a kebab-case slug"],
+    ["a slug that is not one", { domain: "Not A Slug" }, "a name in lower kebab case"],
     ["a uuid that is not one", { id: "not-a-uuid" }, "a UUID"],
     ["a relation that is not an id", { "points-at": "nope" }, "the UUID of the page it points at"],
     ["a boolean that is neither", { live: "maybe" }, "`true` or `false`"],
@@ -180,12 +180,12 @@ describe("a key stating a list of values", () => {
 
   test("the refusal names the type that was stated as well as what it wanted", () => {
     expect(holding(["terms: one"]).refusals).toEqual([
-      "`terms` holds one value where `list(slug, max 20)` states a list of at most 20, each a kebab-case slug",
+      "`terms` holds one value where `list(lower-kebab-case, max 20)` states a list of at most 20, each a name in lower kebab case",
     ])
   })
 
   test("an entry that is no value at all is refused, naming what stood in the list", () => {
-    const { rule } = ruleFor("list(slug, max 20)", VOCABULARY)
+    const { rule } = ruleFor("list(lower-kebab-case, max 20)", VOCABULARY)
     expect(rule!.holds([["one"]])).toMatchObject({ measured: "a list in a list" })
     expect(rule!.holds([{ one: "two" }])).toMatchObject({ measured: "a map in a list" })
   })

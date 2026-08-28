@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Collection type status"
 defined-on-slug: page-type/collection-type
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - done
   - not-doing

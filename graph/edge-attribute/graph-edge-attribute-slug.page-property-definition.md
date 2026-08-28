@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Graph edge attribute slug"
 defined-on-slug: page-type/graph-edge-attribute
 key: slug
-type: slug
+type: lower-kebab-case
 required: true
 narrows-slug: page
 slug: graph-edge-attribute-slug

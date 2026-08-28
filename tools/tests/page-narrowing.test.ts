@@ -84,8 +84,8 @@ describe("an expression this cannot read is reported rather than refused", () =>
 describe("a property stating no expression is judged exactly as it was", () => {
   test("its rule is the type's own, and the refusal names the type alone", () => {
     expect(judging(["type: text"], ["handle: anything at all"]).refusals).toEqual([])
-    expect(judging(["type: slug"], ["handle: Not A Slug"]).refusals).toEqual([
-      "`handle: Not A Slug` is not a kebab-case slug, which is what `slug` states",
+    expect(judging(["type: lower-kebab-case"], ["handle: Not A Slug"]).refusals).toEqual([
+      "`handle: Not A Slug` is not a name in lower kebab case, which is what `lower-kebab-case` states",
     ])
   })
 
@@ -176,8 +176,8 @@ describe("a property narrowed to a ceiling by the rank it states", () => {
 const choosing = (person: readonly string[], persona: readonly string[], stated: readonly string[]) => {
   const tree = fileTreeOf({
     ...FILES,
-    "pages/page-property-definition/leaf-person.page-property-definition.md": block(["defined-on-slug: leaf", "key: person", "type: slug", ...person]),
-    "pages/page-property-definition/leaf-persona.page-property-definition.md": block(["defined-on-slug: leaf", "key: persona", "type: slug", ...persona]),
+    "pages/page-property-definition/leaf-person.page-property-definition.md": block(["defined-on-slug: leaf", "key: person", "type: lower-kebab-case", ...person]),
+    "pages/page-property-definition/leaf-persona.page-property-definition.md": block(["defined-on-slug: leaf", "key: persona", "type: lower-kebab-case", ...persona]),
   })
   const { properties } = propertiesFor(typeNamed("leaf", tree), tree)
   return judgeFrontmatter(block(["domain: a-domain", ...stated]), "leaf", properties!, vocabularyIn(tree))

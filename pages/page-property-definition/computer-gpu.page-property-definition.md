@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer gpu"
 defined-on-slug: page-type/computer
 key: gpu
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - nvidia-geforce-rtx-5080
   - apple-m1-max

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise primary muscles"
 defined-on-slug: page-type/exercise
 key: primary-muscles
-type: list(slug)
+type: list(lower-kebab-case)
 values:
   - abdominals
   - abductors

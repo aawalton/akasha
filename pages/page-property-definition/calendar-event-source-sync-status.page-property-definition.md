@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Calendar event source sync status"
 defined-on-slug: page-type/calendar-event-source
 key: sync-status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - active
   - paused

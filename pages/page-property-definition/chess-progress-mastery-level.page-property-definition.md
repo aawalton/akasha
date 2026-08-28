@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess progress mastery level"
 defined-on-slug: page-type/chess-progress
 key: masteryLevel
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - novice
   - developing

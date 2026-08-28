@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer brand"
 defined-on-slug: page-type/computer
 key: brand
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - msi
   - apple

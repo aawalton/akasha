@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Computer display"
 defined-on-slug: page-type/computer
 key: display
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - omen-by-hp-35
   - built-in-liquid-retina-xdr-display

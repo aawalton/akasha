@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Calendar event source kind"
 defined-on-slug: page-type/calendar-event-source
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - manual
   - ical

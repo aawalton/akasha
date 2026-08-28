@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Character reading kind"
 defined-on-slug: page-type/character-reading
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - character
   - none

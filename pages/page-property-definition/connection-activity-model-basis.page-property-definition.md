@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity model basis"
 defined-on-slug: page-type/connection-activity
 key: model-basis
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - n32-l6-w05
 required: true

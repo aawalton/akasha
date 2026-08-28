@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona wallpaper stage"
 defined-on-slug: page-type/persona-wallpaper
 key: stage
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - initiating
   - experimenting

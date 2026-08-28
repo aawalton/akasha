@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise muscle focus"
 defined-on-slug: page-type/exercise
 key: muscle-focus
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - core
   - legs

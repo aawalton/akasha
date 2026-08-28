@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Monarch category group type"
 defined-on-slug: page-type/monarch-category
 key: group-type
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - income
   - expense

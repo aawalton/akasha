@@ -6,7 +6,7 @@ import { hold, shapeOf, type Forebear, type Shape } from "../../page/shape/shape
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
 import { claimant, PAGE_GLOBS, scanSpanning } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
 const ROOT = `${import.meta.dir}/../..`
 
@@ -40,7 +40,7 @@ describe("a page type declaring no body", () => {
   })
 
   test("holds a page that carries no body", () => {
-    const page = "---\nid: 019ffd1d-2d5d-7000-8e3e-33c7ff3045ec\ntype: slug\n---\n"
+    const page = "---\nid: 019ffd1d-2d5d-7000-8e3e-33c7ff3045ec\ntype: lower-kebab-case\n---\n"
     expect(refusals(shapeOfType(NO_BODY), PAGE_AT, page)).toEqual([])
   })
 

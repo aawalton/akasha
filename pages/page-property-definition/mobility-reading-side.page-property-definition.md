@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Mobility reading side
 defined-on-slug: page-type/mobility-reading
 key: side
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - left
   - right

@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise secondary pattern"
 defined-on-slug: page-type/exercise
 key: secondary-pattern
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - carry
   - conditioning

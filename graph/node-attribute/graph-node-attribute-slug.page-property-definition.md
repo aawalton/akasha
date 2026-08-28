@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Graph node attribute slug"
 defined-on-slug: page-type/graph-node-attribute
 key: slug
-type: slug
+type: lower-kebab-case
 required: true
 narrows-slug: page
 slug: graph-node-attribute-slug

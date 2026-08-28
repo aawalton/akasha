@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Identity statement status"
 defined-on-slug: page-type/identity-statement
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - planned
   - in-progress

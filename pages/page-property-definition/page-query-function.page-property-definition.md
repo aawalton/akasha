@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Page query function"
 defined-on-slug: page-type/page-query
 key: function
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - sum
   - mean

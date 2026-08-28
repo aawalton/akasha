@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Readout day kind"
 defined-on-slug: page-type/readout
 key: day-kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - eso-day
   - wake-day

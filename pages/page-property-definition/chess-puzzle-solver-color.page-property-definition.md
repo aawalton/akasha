@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Chess puzzle solver color"
 defined-on-slug: page-type/chess-puzzle
 key: solverColor
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - white
   - black

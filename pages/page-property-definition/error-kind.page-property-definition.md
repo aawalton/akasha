@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Error kind"
 defined-on-slug: page-type/error
 key: kind
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - error
   - react-render

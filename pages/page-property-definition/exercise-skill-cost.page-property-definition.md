@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Exercise skill cost"
 defined-on-slug: page-type/exercise
 key: skill-cost
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - high
   - low

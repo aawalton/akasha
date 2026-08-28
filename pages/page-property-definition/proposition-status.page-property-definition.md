@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: Proposition status
 defined-on-slug: page-type/proposition
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - open
   - adopted

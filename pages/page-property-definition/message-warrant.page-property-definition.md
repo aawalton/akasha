@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Message warrant"
 defined-on-slug: page-type/message
 key: warrant
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - announce
   - blocked

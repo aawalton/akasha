@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "To-do category"
 defined-on-slug: page-type/to-do
 key: category
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - faith
   - health

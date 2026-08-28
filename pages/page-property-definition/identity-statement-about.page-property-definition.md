@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Identity statement about"
 defined-on-slug: page-type/identity-statement
 key: about
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - myself
   - others

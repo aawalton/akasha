@@ -18,7 +18,7 @@ function judging(lines: readonly string[], stated: readonly string[]) {
 }
 
 describe("a set stated as a list of the values themselves", () => {
-  const CLOSED = ["type: slug", "values:", "  - approval", "  - refusal"]
+  const CLOSED = ["type: lower-kebab-case", "values:", "  - approval", "  - refusal"]
 
   test("a value in the set holds, and the type it narrows still holds too", () => {
     expect(judging(CLOSED, ["handle: approval"]).refusals).toEqual([])
@@ -27,24 +27,24 @@ describe("a set stated as a list of the values themselves", () => {
 
   test("a value outside the set is refused, and the refusal lists the whole set", () => {
     expect(judging(CLOSED, ["handle: approvals"]).refusals).toEqual([
-      "`handle: approvals` is not a kebab-case slug, one of `approval`, `refusal`, " +
-        "which is what `slug` narrowed on `leaf` states",
+      "`handle: approvals` is not a name in lower kebab case, one of `approval`, `refusal`, " +
+        "which is what `lower-kebab-case` narrowed on `leaf` states",
     ])
   })
 
   test("a value the type refuses is refused by the type, whatever the set says", () => {
-    expect(judging(CLOSED, ["handle: Approval"]).refusals.join("\n")).toContain("a kebab-case slug")
+    expect(judging(CLOSED, ["handle: Approval"]).refusals.join("\n")).toContain("a name in lower kebab case")
   })
 
   test("a set that is neither a list nor a map leaves the key unjudged and says so", () => {
-    expect(judging(["type: slug", "values: approval"], ["handle: approval"]).unjudged.join("\n")).toContain(
+    expect(judging(["type: lower-kebab-case", "values: approval"], ["handle: approval"]).unjudged.join("\n")).toContain(
       "`values` states no set of the values this key may take"
     )
   })
 })
 
 describe("a set stated as a map, so that each value can carry what a person sees", () => {
-  const LABELLED = ["type: slug", "values:", "  approval:", "    label: Approved", "  refusal:", "    label: Turned down"]
+  const LABELLED = ["type: lower-kebab-case", "values:", "  approval:", "    label: Approved", "  refusal:", "    label: Turned down"]
 
   test("the keys are the values admitted, exactly as the list form admits its entries", () => {
     expect(judging(LABELLED, ["handle: approval"]).refusals).toEqual([])
@@ -52,7 +52,7 @@ describe("a set stated as a map, so that each value can carry what a person sees
   })
 
   test("a label is no value, so stating one admits nothing that was not already admitted", () => {
-    expect(judging(LABELLED, ["handle: Approved"]).refusals.join("\n")).toContain("a kebab-case slug")
+    expect(judging(LABELLED, ["handle: Approved"]).refusals.join("\n")).toContain("a name in lower kebab case")
     expect(judging(LABELLED, ["handle: approvals"]).refusals.join("\n")).toContain("one of `approval`, `refusal`")
   })
 
@@ -68,7 +68,7 @@ const OWNS = (lines: readonly string[]): Readonly<Record<string, string>> => ({
   "pages/page-property-definition/leaf-handle.page-property-definition.md": block(["defined-on-slug: leaf", "key: handle", "type: verdict"]),
 })
 
-const OPEN = ["kind: select", "of: slug", "values:", "  - keep", "  - drop"]
+const OPEN = ["kind: select", "of: lower-kebab-case", "values:", "  - keep", "  - drop"]
 
 function against(lines: readonly string[], stated: readonly string[]) {
   const tree = fileTreeOf(OWNS(lines))
@@ -88,17 +88,17 @@ describe("a set that is a type of its own, so several keys can name it", () => {
   })
 
   test("the type it narrows still binds, so a value that type refuses is refused first", () => {
-    expect(against(OPEN, ["handle: Keep"]).refusals.join("\n")).toContain("a kebab-case slug")
+    expect(against(OPEN, ["handle: Keep"]).refusals.join("\n")).toContain("a name in lower kebab case")
   })
 
   test("the members can carry what a person sees, the map form holding there as it does on a key", () => {
-    const shown = ["kind: select", "of: slug", "values:", "  keep:", "    color: green"]
+    const shown = ["kind: select", "of: lower-kebab-case", "values:", "  keep:", "    color: green"]
     expect(against(shown, ["handle: keep"]).refusals).toEqual([])
     expect(against(shown, ["handle: drop"]).refusals.join("\n")).toContain("one of `keep`")
   })
 
   test("a type stating a set without declaring itself one binds nothing, the kind being what says so", () => {
-    const quiet = ["kind: constant", "of: slug", "values:", "  - keep", "  - drop"]
+    const quiet = ["kind: constant", "of: lower-kebab-case", "values:", "  - keep", "  - drop"]
     const verdict = against(quiet, ["handle: tweak"])
     expect(verdict.refusals).toEqual([])
     expect(verdict.unjudged.join("\n")).toContain("`verdict` is a type this states no rule for")

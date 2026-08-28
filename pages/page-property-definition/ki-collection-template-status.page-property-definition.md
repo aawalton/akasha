@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Ki collection template status"
 defined-on-slug: page-type/ki-collection-template
 key: status
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - not-started
   - in-progress

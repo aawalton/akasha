@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Workstation service restart"
 defined-on-slug: page-type/workstation-service
 key: restart
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - always
   - on-failure

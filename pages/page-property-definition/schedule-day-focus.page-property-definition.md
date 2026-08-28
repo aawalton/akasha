@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Schedule day focus"
 defined-on-slug: page-type/schedule-day
 key: focus
-type: select(slug)
+type: select(lower-kebab-case)
 values:
   - legs
   - pull
