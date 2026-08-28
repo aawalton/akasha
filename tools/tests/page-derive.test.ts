@@ -146,6 +146,22 @@ describe("what an answer says of a key it reached no value for", () => {
     const got = answer(ROOTS, { pageType: "site", where: [{ key: "no-such-key", is: "anything" }] })
     expect(got?.absent).toEqual(["no-such-key"])
   })
+
+  it("carries a key tested for `empty` on `absent` too, that test naming a key like any other", () => {
+    const got = answer(ROOTS, { pageType: "site", where: [{ key: "no-such-key", empty: true }] })
+    expect(got?.absent).toEqual(["no-such-key"])
+  })
+
+  it("carries it on `absent` under `empty: false`, whose clean zero says least of all", () => {
+    const got = answer(ROOTS, { pageType: "site", where: [{ key: "no-such-key", empty: false }] })
+    expect(got?.absent).toEqual(["no-such-key"])
+  })
+
+  it("leaves a declared key that is genuinely empty off `absent`, so a true empty still answers", () => {
+    const got = answer(ROOTS, { pageType: "job", where: [{ key: "owner", empty: true }] })
+    expect(got?.absent).toEqual([])
+    expect(got?.n).toBe(3)
+  })
 })
 
 describe("a resolved value read through every operator", () => {
