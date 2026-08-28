@@ -34,6 +34,21 @@ export type Act = {
   readonly before: Tree
 }
 
+/**
+ * The tree as it stood before the change, handed to a check that asks for it and nothing else.
+ *
+ * SEPARATE FROM `Act` BECAUSE THE TWO NEEDS ARE DIFFERENT. `Act` carries the writer as well, and a
+ * check that asks for it is dropped from every audit and from every mechanical write — the writer
+ * is who a check about reading judges, and neither of those has one. A check that only wants to
+ * compare two trees has nothing to say about a writer and must keep running in both.
+ *
+ * NULL WHERE NOTHING CHANGED. An audit judges a tree standing still, so there is no earlier tree
+ * to compare it against, and a check handed null answers about the one tree it has.
+ */
+export type Was = {
+  readonly before: Tree | null
+}
+
 export type Needs = "path" | "file" | "tree"
 
 type Given = {
@@ -53,6 +68,7 @@ type CheckOf<K extends Needs> =
       readonly slug: string
       readonly needs: K
       readonly needsAuthor?: false
+      readonly needsBefore?: false
       readonly cached?: boolean
       readonly run: (given: Given[K]) => Answer[K]
     }
@@ -60,8 +76,17 @@ type CheckOf<K extends Needs> =
       readonly slug: string
       readonly needs: K
       readonly needsAuthor: true
+      readonly needsBefore?: false
       readonly cached?: boolean
       readonly run: (given: Given[K], act: Act) => Answer[K]
+    }
+  | {
+      readonly slug: string
+      readonly needs: K
+      readonly needsAuthor?: false
+      readonly needsBefore: true
+      readonly cached?: boolean
+      readonly run: (given: Given[K], was: Was) => Answer[K]
     }
 
 export type Check = CheckOf<"path"> | CheckOf<"file"> | CheckOf<"tree">

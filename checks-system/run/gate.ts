@@ -90,9 +90,15 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     forgetRetired(answers, checksFound(patch.root))
     const oids = oidsUnder(patch.root, null)
     const ctx = contextOver(patch.root, RUNTIME_MARK, oids)
-    const act = patch.mechanical ? null : { writer: patch.writer, before: onDisk(patch.root) }
+    // THE TREE AS IT WAS IS BUILT FOR EVERY WRITE, MECHANICAL OR NOT. It used to be reachable
+    // only through `act`, which a mechanical write does not have, so a check wanting nothing but
+    // the earlier tree had to claim it judged its author to get one — and claiming that would have
+    // dropped it from every mechanical write and every audit. The two are handed over separately
+    // so neither need drags the other's exclusions along.
+    const before = onDisk(patch.root)
+    const act = patch.mechanical ? null : { writer: patch.writer, before }
     const runs = applying(checks, patch.mechanical).map((check) =>
-      runKept(check, subjects, RUNTIME_MARK, answers, tree, { act, trial: true, oids, ctx })
+      runKept(check, subjects, RUNTIME_MARK, answers, tree, { act, before, trial: true, oids, ctx })
     )
     ctx.said.done()
     return runs

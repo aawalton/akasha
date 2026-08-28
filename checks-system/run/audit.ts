@@ -41,7 +41,17 @@ function auditRun(checks: readonly Check[], root: string): readonly CheckRun[] {
   forgetRetired(answers, checksFound(root))
   const runs = checks
     .filter((one) => !judgesAuthor(one))
-    .map((check) => runKept(check, subjects, RUNTIME_MARK, answers, tree, { act: null, trial: false, oids, ctx }))
+    .map((check) =>
+      // NO EARLIER TREE, BECAUSE AN AUDIT JUDGES A TREE NOTHING IS CHANGING. A check asking what a
+      // change caused has nothing to subtract here and answers about the one tree it is given.
+      runKept(check, subjects, RUNTIME_MARK, answers, tree, {
+        act: null,
+        before: null,
+        trial: false,
+        oids,
+        ctx,
+      })
+    )
   ctx.said.done()
   return runs
 }

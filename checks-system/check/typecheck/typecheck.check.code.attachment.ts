@@ -1,174 +1,10 @@
-import { spawnSync } from "node:child_process"
-import { existsSync } from "node:fs"
-import { basename, dirname, resolve } from "node:path"
+import { resolve } from "node:path"
 import ts from "typescript"
 import { carriesCode, outwardOf, specifiersIn, targetOf } from "../../imports/imports.ts"
-import type { Check, CheckFailure, Tree } from "../check-shape.ts"
+import type { Check, CheckFailure, Tree, Was } from "../check-shape.ts"
+import { appsIn, bodiesOf, faultsOver, typegenFor } from "./program.ts"
 
 export const ABSENT = "no `typescript` with an API to drive is reachable — run `bun install` in this repository"
-
-const CONFIG = "tsconfig.json"
-
-const TYPEGEN_ROOT = ".react-router/types"
-
-const TYPEGEN_BIN = "node_modules/.bin/react-router"
-
-export const TSC_KEYS: ReadonlySet<string> = new Set([
-  "extends",
-  "compilerOptions",
-  "include",
-  "exclude",
-  "files",
-  "references",
-  "watchOptions",
-  "typeAcquisition",
-  "buildOptions",
-  "compileOnSave",
-])
-
-export const DEFAULT_OPTIONS: ts.CompilerOptions = {
-  strict: true,
-  noEmit: true,
-  module: ts.ModuleKind.Preserve,
-  moduleResolution: ts.ModuleResolutionKind.Bundler,
-  target: ts.ScriptTarget.ESNext,
-  lib: ["lib.esnext.d.ts"],
-  allowImportingTsExtensions: true,
-  skipLibCheck: true,
-  types: ["bun"],
-}
-
-export function foreignKeyIn(held: Record<string, unknown>): string | null {
-  for (const key of Object.keys(held)) {
-    if (!TSC_KEYS.has(key)) return key
-  }
-  return null
-}
-
-export type Project = {
-  readonly at: string
-  readonly under: string
-  readonly files: ReadonlySet<string>
-  readonly options: ts.CompilerOptions
-  readonly foreign: string | null
-}
-
-function bodiesOf(tree: Tree): (path: string) => string | undefined {
-  const held = new Map<string, string | undefined>()
-  return (path) => {
-    const at = resolve(path)
-    if (held.has(at)) return held.get(at)
-    const body = tree.at(at)
-    const said = body === null ? undefined : body.toString("utf8")
-    held.set(at, said)
-    return said
-  }
-}
-
-function thereOf(tree: Tree, read: (path: string) => string | undefined): (path: string) => boolean {
-  return (path) => {
-    const at = resolve(path)
-    if (at.includes("/node_modules/")) return existsSync(at)
-    return read(at) !== undefined
-  }
-}
-
-/**
- * The directory of every deployed app, taken from the one thing that says an app is one.
- *
- * An app declares the directory typegen writes into as a second root, so that `./+types/<route>`
- * resolves beside the route it belongs to. That declaration is the whole signal: no list of apps
- * is kept here, and an app added, moved or retired is followed by the `tsconfig.json` it must
- * carry either way.
- */
-export function appsIn(tree: Tree, read: (path: string) => string | undefined): readonly string[] {
-  const found: string[] = []
-  for (const path of tree.paths()) {
-    if (basename(path) !== CONFIG) continue
-    const said = ts.readConfigFile(path, read)
-    if (said.error !== undefined || said.config === undefined) continue
-    const held = (said.config as { readonly compilerOptions?: { readonly rootDirs?: unknown } }).compilerOptions
-    const roots = held?.rootDirs
-    if (!Array.isArray(roots)) continue
-    if (!roots.some((one) => typeof one === "string" && one.endsWith(TYPEGEN_ROOT))) continue
-    found.push(dirname(path))
-  }
-  return found
-}
-
-/**
- * A DEPLOYED APP RUNS TYPEGEN BEFORE THE COMPILER, so this check writes before it judges.
- *
- * `./+types/<route>` names a module `react-router typegen` writes into `.react-router/types`,
- * which the app's `rootDirs` merges over the app's own directory. Nothing in this repository ran
- * typegen ahead of the compiler, so sixty-nine routes across six apps reported `TS2307` against a
- * module that was never missing — diagnostics with no defect behind them, which is what teaches a
- * reader to skip the class rather than read it.
- *
- * WHAT IS WRITTEN LANDS ONLY UNDER `.react-router`, which each app's own `.gitignore` excludes, so
- * it never enters `tree.paths()` and the tree being judged is untouched. That is the standing this
- * check already gives `node_modules`: build output reached on disk rather than through the tree.
- *
- * A run that fails writes nothing and is not reported. The compiler then finds no route types and
- * says so, which is the honest answer, and the one this repository gave before.
- */
-function typegenFor(root: string, under: string): void {
-  const bin = resolve(root, TYPEGEN_BIN)
-  if (!existsSync(bin)) return
-  spawnSync(bin, ["typegen"], { cwd: under, stdio: "ignore" })
-}
-
-export function projectsIn(tree: Tree, read: (path: string) => string | undefined): readonly Project[] {
-  const host: ts.ParseConfigFileHost = {
-    ...ts.sys,
-    readFile: read,
-    fileExists: thereOf(tree, read),
-    onUnRecoverableConfigFileDiagnostic: () => {},
-  }
-  const found: Project[] = []
-  for (const path of tree.paths()) {
-    if (basename(path) !== CONFIG) continue
-    const said = ts.readConfigFile(path, read)
-    if (said.error !== undefined || said.config === undefined) continue
-    const parsed = ts.getParsedCommandLineOfConfigFile(path, {}, host)
-    if (parsed === undefined) continue
-    // A CONFIG CLAIMING NO FILES OWNS NONE. Ownership runs by path, membership by `files`, so a
-    // solution config at the repository root — references and `files: []`, no compiler options —
-    // stood as the nearest ancestor of every file that had no project of its own. Those files were
-    // judged under empty options rather than the default project: `.ts` import extensions refused,
-    // and `strict` and the bun types never applied.
-    if (parsed.fileNames.length === 0) continue
-    found.push({
-      at: path,
-      under: dirname(path),
-      files: new Set(parsed.fileNames.map((one) => resolve(one))),
-      options: parsed.options,
-      foreign: foreignKeyIn(said.config as Record<string, unknown>),
-    })
-  }
-  return found
-}
-
-export function ownerOf(path: string, projects: readonly Project[]): Project | null {
-  let held: Project | null = null
-  for (const one of projects) {
-    if (!path.startsWith(`${one.under}/`)) continue
-    if (held === null || one.under.length > held.under.length) held = one
-  }
-  return held
-}
-
-export function partition(
-  subjects: readonly string[],
-  projects: readonly Project[]
-): ReadonlyMap<Project | null, readonly string[]> {
-  const held = new Map<Project | null, string[]>()
-  for (const path of subjects) {
-    const owner = ownerOf(path, projects)
-    held.set(owner, [...(held.get(owner) ?? []), path])
-  }
-  return held
-}
 
 function reaching(tree: Tree, seeds: ReadonlySet<string>): ReadonlySet<string> {
   const importedBy = new Map<string, string[]>()
@@ -216,148 +52,87 @@ function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
   return found
 }
 
-function directoriesIn(tree: Tree): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const path of tree.paths()) {
-    let at = dirname(resolve(path))
-    while (at !== "/" && at !== "." && !held.has(at)) {
-      held.add(at)
-      at = dirname(at)
-    }
-  }
-  return held
+/**
+ * Every fault the importers already held, in the tree as it stood before the change.
+ *
+ * ROOTED AT THE IMPORTERS ALONE, NOT THE WHOLE SCOPE. The only question this program answers
+ * is whether a fault found in a file the change did not touch was already standing there, and that
+ * is asked of exactly those files. Rooting it at the subjects as well would parse them and
+ * everything they reach a second time for an answer nothing reads, because a fault in a file the
+ * change touches is reported however old it is.
+ */
+function alreadyIn(before: Tree, importers: readonly string[]): ReadonlySet<string> {
+  const read = bodiesOf(before)
+  const found = new Set<string>()
+  faultsOver(before, importers, read, (fault) => found.add(fault.identity))
+  return found
 }
-
-function hostOver(
-  tree: Tree,
-  options: ts.CompilerOptions,
-  read: (path: string) => string | undefined
-): ts.CompilerHost {
-  const base = ts.createCompilerHost(options, true)
-  const there = thereOf(tree, read)
-  let dirs: ReadonlySet<string> | null = null
-  return {
-    ...base,
-    getCurrentDirectory: () => tree.root,
-    fileExists: there,
-    directoryExists: (path) => {
-      const at = resolve(path)
-      if (at.includes("/node_modules/")) return existsSync(at)
-      if (dirs === null) dirs = directoriesIn(tree)
-      return dirs.has(at) || existsSync(at)
-    },
-    readFile: read,
-    getSourceFile: (path, language) => {
-      if (path.includes("/node_modules/") || path.includes("/typescript/lib/")) {
-        return base.getSourceFile(path, language)
-      }
-      const body = read(path)
-      return body === undefined ? undefined : ts.createSourceFile(path, body, language, true)
-    },
-  }
-}
-
-type Collector = { readonly gc: (force: boolean) => void }
 
 /**
- * What the project just checked held, given back before the next one is built.
+ * The files that import a subject without being one, which a program rooted at the subjects misses.
  *
- * A PROGRAM IS BUILT PER PROJECT AND DROPPED, AND THE RUNTIME COLLECTS NONE OF IT ON ITS OWN.
- * Each project parses the files and declaration files it claims into syntax trees of its own, and
- * over this repository's two hundred and sixty projects that is garbage nothing gathers while
- * memory is still there to take: resident size climbed past nine gigabytes without ever levelling,
- * and the workstation's memory reaper killed the run at forty seconds, before one project's
- * verdict had been printed. Collecting here holds the peak near a third of that and changes no
- * verdict, because what it gives back is a program already out of scope.
+ * A PROGRAM HOLDS WHAT ITS ROOTS IMPORT, NOT WHAT IMPORTS THEM. Rooting only at the subjects put
+ * the whole reverse closure behind a filter it could never reach: a file importing a renamed export
+ * was in scope and never in any program, so no diagnostic was ever produced for it and the write
+ * landed with `none refused` over a tree no project-wide `tsc` accepts. `strandedBy` already pulled
+ * importers in for a deletion, which covered one case of the class and left the rest.
  *
- * ASKED FOR THROUGH `globalThis` rather than named outright, so a build whose settings do not
- * carry the runtime's own types still compiles, and a host that is not that runtime does nothing.
+ * ONLY WHERE THERE IS AN EARLIER TREE TO ASK. A fault in a file the change did not touch is
+ * reported only where it was absent before, so with no earlier tree there is nothing reportable and
+ * rooting at these files would be a program built for an answer that is thrown away. That is what
+ * keeps an audit costing exactly what it costs now.
+ *
+ * ONLY `.ts`, WHICH IS THE POPULATION THIS CHECK JUDGES. `subjects` is the changed `.ts` files, so
+ * a `.tsx` importer is in scope and is not a subject on any run — an audit included. Carrying those
+ * would put 724 files on the gate that no audit ever counts, and their lines can move under a
+ * change, which would have an already-standing fault read as a new one.
  */
-function giveBackTheProgram(): void {
-  const held = (globalThis as { readonly Bun?: Collector }).Bun
-  if (held === undefined) return
-  held.gc(true)
-}
-
-function ambientIn(project: Project): readonly string[] {
-  return [...project.files].filter((one) => one.endsWith(".d.ts"))
-}
-
-export function rootsFor(owner: Project | null, held: readonly string[]): readonly string[] {
-  if (owner === null) return held
-  const claimed = held.filter((one) => owner.files.has(one))
-  if (claimed.length === 0) return []
-  return [...new Set([...claimed, ...ambientIn(owner)])]
-}
-
-function diagnosticsOf(
-  tree: Tree,
-  rootNames: readonly string[],
-  options: ts.CompilerOptions,
-  read: (path: string) => string | undefined
-): readonly ts.Diagnostic[] {
-  if (rootNames.length === 0) return []
-  const program = ts.createProgram({
-    rootNames: [...rootNames],
-    options: { ...options, noEmit: true, incremental: false, composite: false },
-    host: hostOver(tree, options, read),
-  })
-  return [...program.getSemanticDiagnostics(), ...program.getSyntacticDiagnostics()]
+function importersIn(scope: ReadonlySet<string>, subjects: ReadonlySet<string>, was: Was): readonly string[] {
+  if (was.before === null) return []
+  return [...scope].filter((one) => !subjects.has(one) && one.endsWith(".ts"))
 }
 
 export const typecheck: Check = {
   slug: "typecheck",
   needs: "tree",
-  run: ({ paths, tree }) => {
+  needsBefore: true,
+  run: ({ paths, tree }, was) => {
     const named = paths.filter((one) => one.endsWith(".ts")).map((one) => resolve(one))
-    const subjects = [...new Set([...named, ...strandedBy(tree)])]
-    if (subjects.length === 0) return []
+    const subjects = new Set([...named, ...strandedBy(tree)])
+    if (subjects.size === 0) return []
     if (typeof ts.createProgram !== "function") return [{ path: tree.root, reason: ABSENT }]
+
+    const scope = reaching(tree, subjects)
+    const importers = importersIn(scope, subjects, was)
+    const roots = [...subjects, ...importers]
 
     const read = bodiesOf(tree)
     // BEFORE THE CONFIGS ARE PARSED, so that a project's `include` sees the route types it names.
     // An app none of whose files are being judged is left alone, a run costing only what it reaches.
     for (const under of appsIn(tree, read)) {
-      if (!subjects.some((one) => one.startsWith(`${under}/`))) continue
+      if (!roots.some((one) => one.startsWith(`${under}/`))) continue
       typegenFor(tree.root, under)
     }
-    const projects = projectsIn(tree, read)
-    const scope = reaching(tree, new Set(subjects))
     const outward = reachingOut(tree, scope)
+    const already =
+      importers.length === 0 || was.before === null
+        ? new Set<string>()
+        : alreadyIn(was.before, importers)
 
     const failures: CheckFailure[] = []
-    // A DIAGNOSTIC IS ONE FINDING, HOWEVER MANY PROGRAMS SAW IT. A file seven projects reach is
-    // parsed into seven programs, and each reports every fault it holds, so the fourteen faults in
-    // `shared/design-system/src/index.ts` were put on the board ninety-eight times and every count
-    // this check printed stood inflated by however widely the failing file was shared. What a
-    // reader is handed is the path and the reason — the line, the code and the message — so a
-    // second copy of that pair says nothing the first did not.
-    //
-    // THE COLUMN IS IN THE KEY AND NOT IN WHAT IS PRINTED. Two faults on one line carrying the
-    // same message print as one line either way, but dropping the second has this check
-    // under-report where it used to over-report: five such pairs stand in this repository, among
-    // them two `loaderData` references on one line of `page-detail.tsx`. The column tells them
-    // apart, and a file every project reaches yields the same column in each, so holding it here
-    // takes nothing back from what is collapsed.
     const reported = new Set<string>()
-    for (const [owner, held] of partition(subjects, projects)) {
-      if (owner !== null && owner.foreign !== null) continue
-      const options = owner === null ? DEFAULT_OPTIONS : owner.options
-      const rootNames = rootsFor(owner, held)
-      for (const found of diagnosticsOf(tree, rootNames, options, read)) {
-        if (found.file === undefined || found.start === undefined) continue
-        const path = resolve(found.file.fileName)
-        if (!scope.has(path) || outward.has(path)) continue
-        const { line, character } = found.file.getLineAndCharacterOfPosition(found.start)
-        const text = ts.flattenDiagnosticMessageText(found.messageText, " ")
-        const reason = `line ${line + 1}: TS${found.code}: ${text}`
-        const identity = `${path}\n${character}\n${reason}`
-        if (reported.has(identity)) continue
-        reported.add(identity)
-        failures.push({ path, reason })
-      }
-      giveBackTheProgram()
-    }
+    faultsOver(tree, roots, read, (fault) => {
+      // WHAT THE CHANGE MERELY IMPORTS IS STILL NEVER REPORTED. `scope` is what reaches a subject;
+      // a file only reached from one is in the program and outside this.
+      if (!scope.has(fault.path) || outward.has(fault.path)) return
+      // A FAULT IN A FILE THE CHANGE DID NOT TOUCH IS THE CHANGE'S ONLY WHERE IT WAS NOT THERE
+      // BEFORE. A change that does not touch a failing file must not be blocked by it; a fault that
+      // change causes in a file it did not touch is its own breakage and is refused.
+      if (!subjects.has(fault.path) && already.has(fault.identity)) return
+      if (reported.has(fault.identity)) return
+      reported.add(fault.identity)
+      failures.push({ path: fault.path, reason: fault.reason })
+    })
     return failures
   },
 }

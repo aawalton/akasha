@@ -1,16 +1,24 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Batch, CheckFailure, Tree } from "../check-shape.ts"
+import type { Batch, CheckFailure, Tree, Was } from "../check-shape.ts"
 import typecheck from "./typecheck.check.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 
-const run = typecheck.run as (given: Batch) => readonly CheckFailure[]
+const check = typecheck.run as (given: Batch, was: Was) => readonly CheckFailure[]
 
-function batchOver(at: string, held: Readonly<Record<string, string>>, subjects: readonly string[]): Batch {
+/**
+ * The check run over a change with no earlier tree behind it, which is what an audit hands it.
+ * A case that has one passes it, and only those cases can tell an old fault from a new one.
+ */
+function run(given: Batch, before: Tree | null = null): readonly CheckFailure[] {
+  return check(given, { before })
+}
+
+function treeOver(at: string, held: Readonly<Record<string, string>>): Tree {
   const bodies = new Map(Object.entries(held).map(([rel, text]): [string, string] => [resolve(at, rel), text]))
-  const tree: Tree = {
+  return {
     root: at,
     paths: () => [...bodies.keys()],
     gone: () => [],
@@ -22,6 +30,10 @@ function batchOver(at: string, held: Readonly<Record<string, string>>, subjects:
       return found === undefined ? null : Buffer.from(found)
     },
   }
+}
+
+function batchOver(at: string, held: Readonly<Record<string, string>>, subjects: readonly string[]): Batch {
+  const tree = treeOver(at, held)
   return { root: at, paths: subjects.map((one) => resolve(at, one)), tree, keep: () => at }
 }
 
@@ -114,6 +126,36 @@ test("a file the judged file breaks goes unreported, the program holding only wh
       ["held.ts"]
     )
     expect(run(given)).toEqual([])
+  })
+})
+
+test("a fault the change causes in a file it did not touch is reported", () => {
+  planted((at) => {
+    const before = treeOver(at, {
+      "held.ts": 'export const held = "held"\n',
+      "caller.ts": 'import { held } from "./held.ts"\nexport const seen = held\n',
+    })
+    const given = batchOver(
+      at,
+      {
+        "held.ts": 'export const renamed = "held"\n',
+        "caller.ts": 'import { held } from "./held.ts"\nexport const seen = held\n',
+      },
+      ["held.ts"]
+    )
+    const failures = run(given, before)
+    expect(failures).toHaveLength(1)
+    expect(failures[0]?.path).toBe(resolve(at, "caller.ts"))
+    expect(failures[0]?.reason).toContain("TS2305")
+  })
+})
+
+test("a fault already standing in a file the change did not touch is left where it was", () => {
+  planted((at) => {
+    const caller = 'import { held } from "./held.ts"\nexport const seen = held\nexport const n: number = "no"\n'
+    const before = treeOver(at, { "held.ts": 'export const held = "held"\n', "caller.ts": caller })
+    const given = batchOver(at, { "held.ts": 'export const held = "kept"\n', "caller.ts": caller }, ["held.ts"])
+    expect(run(given, before)).toEqual([])
   })
 })
 

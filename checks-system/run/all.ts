@@ -1,4 +1,4 @@
-import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
+import type { Act, Check, CheckFailure, CheckRun, Tree, Was } from "../check/check-shape.ts"
 
 const NO_ACT = "judges its author, so nothing it asks has an answer where no act is being judged"
 
@@ -9,7 +9,12 @@ function acting(check: Check, act: Act | null): Act {
 
 export type Held = {
   readonly act: Act | null
+  readonly before: Tree | null
   readonly keep: () => string
+}
+
+function wasOf(held: Held): Was {
+  return { before: held.before }
 }
 
 function failuresOf(
@@ -21,20 +26,32 @@ function failuresOf(
   const act = held.act
   if (check.needs === "tree") {
     const given = { root: tree.root, paths, tree, keep: held.keep }
-    return check.needsAuthor === true ? check.run(given, acting(check, act)) : check.run(given)
+    if (check.needsAuthor === true) return check.run(given, acting(check, act))
+    if (check.needsBefore === true) return check.run(given, wasOf(held))
+    return check.run(given)
   }
   const failures: CheckFailure[] = []
   for (const path of paths) {
     const at = { root: tree.root, path }
     if (check.needs === "path") {
-      const said = check.needsAuthor === true ? check.run(at, acting(check, act)) : check.run(at)
+      const said =
+        check.needsAuthor === true
+          ? check.run(at, acting(check, act))
+          : check.needsBefore === true
+            ? check.run(at, wasOf(held))
+            : check.run(at)
       for (const reason of said) failures.push({ path, reason })
       continue
     }
     const body = tree.at(path)
     if (body === null) continue
     const file = { root: tree.root, path, body }
-    const said = check.needsAuthor === true ? check.run(file, acting(check, act)) : check.run(file)
+    const said =
+      check.needsAuthor === true
+        ? check.run(file, acting(check, act))
+        : check.needsBefore === true
+          ? check.run(file, wasOf(held))
+          : check.run(file)
     for (const reason of said) failures.push({ path, reason })
   }
   return failures

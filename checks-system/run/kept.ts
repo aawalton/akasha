@@ -23,6 +23,7 @@ export type Subject = {
 
 export type Setting = {
   readonly act: Act | null
+  readonly before: Tree | null
   readonly trial: boolean
   readonly oids: ReadonlyMap<string, string>
   readonly ctx: BuildContext
@@ -67,7 +68,7 @@ export function runKept(
   sweep(answers, OUTCOME_KIND, check.slug, mark)
   sweep(answers, KEEP_KIND, check.slug, mark)
   const kept = keepUnder(answers, check.slug, mark, setting.trial)
-  const held: Held = { act: setting.act, keep: kept.keep }
+  const held: Held = { act: setting.act, before: setting.before, keep: kept.keep }
   try {
     if (uncached(check)) {
       const every = subjects.map((one) => one.at)
