@@ -33,15 +33,13 @@ export type Written =
       readonly gone: readonly string[]
       readonly sha: string | null
     }
-  | { readonly kind: "refused"; readonly why: string }
+  | { readonly kind: "refused"; readonly at: string; readonly why: string }
 
 const MARK = String.fromCharCode(96)
 
-const PAGE = "page"
-
 const quoted = (at: string): string => MARK + at + MARK
 
-const refused = (why: string): Written => ({ kind: "refused", why })
+const refused = (at: string, why: string): Written => ({ kind: "refused", at, why })
 
 const brokenAs = (why: unknown): string => (why instanceof Error ? why.message : String(why))
 
@@ -55,7 +53,7 @@ const messageFor = (kind: string, act: string, at: string, by: string | null): s
 
 const landing = (asked: Asked, at: string): Written => {
   const answer = landsBy(asked)
-  if ("refused" in answer) return refused(answer.refused)
+  if ("refused" in answer) return refused(at, answer.refused)
   return { kind: "written", at, wrote: answer.wrote, gone: answer.gone, sha: answer.sha }
 }
 
@@ -63,6 +61,7 @@ export const putPage = (putting: Putting): Written => {
   const standing = standingPageAt(putting.repo.root, putting.at)
   if (standing.kind === "unreadable") {
     return refused(
+      putting.at,
       `${quoted(putting.at)} could not be read, and nothing may be written over a page that cannot be read: ${standing.why}`
     )
   }
@@ -76,7 +75,7 @@ export const putPage = (putting: Putting): Written => {
     now: putting.now,
     random: putting.random,
   })
-  if (front.kind === "refused") return refused(front.why)
+  if (front.kind === "refused") return refused(putting.at, front.why)
   return landing(
     {
       repo: putting.repo.repo,
@@ -90,30 +89,40 @@ export const putPage = (putting: Putting): Written => {
 }
 
 export const takePage = (taking: Taking): Written => {
+  const kind = pageTypeOf(nameOf(taking.at))
+  if (kind === null) {
+    return refused(
+      taking.at,
+      `${quoted(taking.at)} names no page type, so nothing here may take it away`
+    )
+  }
   let text: string | null
   try {
     text = textAt(taking.repo.root, taking.at)
   } catch (why) {
     return refused(
+      taking.at,
       `${quoted(taking.at)} could not be read, so nothing here can say what would go with it: ${brokenAs(why)}`
     )
   }
   if (text === null) {
-    return refused(`no page is at ${quoted(taking.at)}, so there is nothing to take away`)
+    return refused(taking.at, `no page is at ${quoted(taking.at)}, so there is nothing to take away`)
   }
   const beside = besideOf(taking.repo.root, taking.at)
   if (typeof beside === "string") {
     return refused(
+      taking.at,
       `a page goes with the files beside it, and what is beside ${quoted(taking.at)} could not be listed: ${beside}`
     )
   }
+  const files = beside.filter((one) => pageTypeOf(nameOf(one)) === null)
   return landing(
     {
       repo: taking.repo.repo,
       root: taking.repo.root,
-      message: messageFor(pageTypeOf(nameOf(taking.at)) ?? PAGE, "take", taking.at, taking.by),
+      message: messageFor(kind, "take", taking.at, taking.by),
       entries: [],
-      removing: [taking.at, ...beside],
+      removing: [taking.at, ...files],
     },
     taking.at
   )
