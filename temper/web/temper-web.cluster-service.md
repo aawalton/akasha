@@ -1,8 +1,8 @@
 ---
 id: 99b5bb41-f840-5256-8959-27c9643bf000
 page-type-slug: cluster-service
-title: "Temper web deployment"
-slug: temper-web-deployment
+title: "Temper web"
+slug: temper-web
 domain-parent-slug: page-type/cluster-service
 kind: Deployment
 namespace: temper
@@ -11,7 +11,7 @@ resource-name: web
 
 # Definition
 
-- **Temper web deployment** — what serves the parts of Temper that run in a browser.
+- **Temper web** — what serves the parts of Temper that run in a browser.
 
 # Design
 

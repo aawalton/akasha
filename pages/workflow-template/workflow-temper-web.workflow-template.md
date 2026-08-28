@@ -5,5 +5,5 @@ title: "Workflow temper web"
 slug: workflow-temper-web
 kind: apps
 cluster-service-slugs:
-  - temper-web-deployment
+  - temper-web
 ---
