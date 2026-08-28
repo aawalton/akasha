@@ -18,9 +18,6 @@ function scratchRepo(): string {
   return at
 }
 
-// A SCRATCH STANDING IN FOR AKASHA CARRIES THE `*-repo` PAGES, because which repositories exist is
-// derived from `pages/repo` under whatever `AKASHA_ROOT` names. A scratch without them says no
-// repository exists at all, and every case here then refuses on that rather than on what it tests.
 function akashaScratchRepo(): string {
   const at = scratchRepo()
   mkdirSync(`${at}/pages/repo`, { recursive: true })

@@ -21,16 +21,6 @@ const VALUE_FLAGS = [REPO, MESSAGE, MESSAGE_FILE]
 
 const BARE_FLAGS = [DRY_RUN, "--help", "-h"]
 
-/**
- * Which files git holds under `relPath`, or null where the call could not establish that.
- *
- * AN EMPTY ARRAY IS THE ANSWER "GIT HOLDS NOTHING UNDER THIS DIRECTORY", AND A FAILED CALL HAS NO
- * ANSWER. `openedIn` below refuses on the empty array by telling the caller the removal would take
- * nothing, which is a claim about what the repository holds; a call that never reached an answer
- * has not earned it, and the two refusals are true of different faults. The same question in
- * `replace.command.code.attachment.ts` refuses outright and the one in
- * `move.command.code.attachment.ts` throws, neither reading a failure as an empty tree.
- */
 export function trackedUnder(root: string, relPath: string): readonly string[] | null {
   const held = git(root, ["ls-files", "-z", "--", relPath])
   if (held.code !== 0) return null
@@ -95,7 +85,6 @@ function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
       refusals.push(`${relPath} ${MISSING}`)
       continue
     }
-    // One git holds and the worktree has lost is a file, git holding no directory of its own.
     if (!existsSync(absolute) || statSync(absolute).isFile()) {
       opened.push(relPath)
       continue

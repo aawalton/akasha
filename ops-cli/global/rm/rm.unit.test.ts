@@ -69,14 +69,10 @@ test("a directory git holds nothing under opens onto nothing, so the caller is r
   expect(trackedUnder(at, "shell/atlas")).toEqual([])
 })
 
-// A git call that could not answer, failed for a real reason rather than stubbed: `ls-files` reads
-// the index, and an index it cannot parse is the shape a transient failure here actually takes.
 function unreadableIndex(root: string): void {
   writeFileSync(`${root}/.git/index`, "not an index")
 }
 
-// A TRUE EMPTY AND A FAILED CALL MUST NOT READ ALIKE. Git holds two files under this directory, so
-// the empty array the old code handed back was a claim about the repository that no call supported.
 test("a directory whose ls-files could not answer opens onto null, not onto nothing", () => {
   const at = scratchRepo()
   put(at, "shell/atlas/package.json", "{}")
@@ -135,8 +131,6 @@ test("a path standing in the worktree is taken", () => {
   expect(ran.said).toContain("1 removed")
 })
 
-// A REMOVAL TAKES WHAT THE REPOSITORY HOLDS RATHER THAN WHAT THE WORKTREE SHOWS. A path deleted on
-// disk and never committed stands at HEAD, so this commit is the one thing that lands that deletion.
 test("a path the worktree has lost while git still holds it is taken", () => {
   const at = scratchRepo()
   committed(at, "was.txt", "body\n")
@@ -154,9 +148,6 @@ test("a path neither the worktree nor git holds is refused", () => {
   expect(ran.said).toContain("does not exist")
 })
 
-// THE REFUSAL A USER SEES NAMES THE FAULT THEY HAVE. Both cases stop the removal, so a caller
-// reading only the exit code cannot tell a directory worth abandoning from a git call worth
-// re-running.
 test("a directory git could not be asked about is refused differently from one holding nothing", () => {
   const empty = scratchRepo()
   committed(empty, "root.txt", "x\n")

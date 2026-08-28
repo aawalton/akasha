@@ -224,8 +224,6 @@ export async function readPersonaDaily(args: DailyArgs): Promise<PersonaDaily[]>
   const ask = askOr(args.ask)
   const group = await resolveReadoutGroup(VALUES_GROUP_SLUG)
   const drawnValues = new Set(group.readouts.map((readout) => readout.slug))
-  // With no value drawn, `topLevelValueSlug` below discards every persona, so the three queries
-  // are spent to build a list that is already empty. A group turned off asks nothing.
   if (drawnValues.size === 0) return []
   const [valueAnswer, personaAnswer, progressAnswer] = await Promise.all([
     ask(VALUE_QUERY, {}),

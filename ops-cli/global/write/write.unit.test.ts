@@ -26,8 +26,6 @@ function committed(root: string, rel: string, body: string): void {
   execFileSync("git", ["-C", root, "commit", "-qm", `hold ${rel}`])
 }
 
-// A REMOVAL-ONLY CALL READS NO PAYLOAD, and stdin that is neither a terminal nor empty is refused
-// rather than dropped, so these runs are given one carrying nothing.
 function writing(root: string, args: readonly string[]): Ran {
   const ran = Bun.spawnSync({
     cmd: [process.execPath, ENTRY, ...args],
@@ -58,9 +56,6 @@ test("a removal of a path standing in the worktree is taken", () => {
   })
 })
 
-// THE PATCH THIS BUILDS IS AGAINST HEAD, where a path deleted from the worktree and never committed
-// plainly stands, so the commit taking it away is the one thing that lands that deletion. Refusing
-// it leaves the only route that lands it outside the one write path.
 test("a removal of a path the worktree has lost while HEAD still holds it is taken", () => {
   inOneRepo((root, run) => {
     committed(root, "was.txt", "body\n")
@@ -80,8 +75,6 @@ test("a removal of a path neither the worktree nor git holds is refused", () => 
   })
 })
 
-// `ls-tree HEAD` EXITS NON-ZERO WHERE NO COMMIT STANDS, which is the true answer that HEAD holds
-// nothing rather than a fault. Read as `held`, it would stop the refusal above from firing at all.
 test("a repository holding no commit still refuses a path it never held", () => {
   inOneRepo((_root, run) => {
     const ran = run(["--remove", "never.txt", "--dry-run"])

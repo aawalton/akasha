@@ -44,27 +44,6 @@ export interface Expanded {
   readonly notes: readonly string[]
 }
 
-/**
- * A `--from` naming a directory stands for every tracked file under it, each landing at the same
- * relative path under `--to`.
- *
- * WHAT IS CARRIED IS WHAT GIT TRACKS. A file git neither tracks nor ignores REFUSES the whole
- * call: the directory it stands in is about to stop existing, and carrying its tracked files
- * while leaving that one behind loses it at a path nothing names any more. An ignored file is
- * passed over in silence, being build output rather than content.
- *
- * A `--to` THAT ALREADY EXISTS REFUSES. `mv` on the command line nests a directory inside an
- * existing one and replaces a missing one, so the same two words mean two different landings
- * depending on the state of the disk. Here `--to` always names the path the directory becomes.
- *
- * A SIDECAR OF A PAGE ALSO IN THE EXPANSION IS NOT NAMED, because a page's own files are carried
- * with it already; naming it as well would declare one path twice. A sidecar whose page is
- * outside the directory is named like anything else.
- *
- * QUARANTINED MATERIAL IS PASSED OVER. Everything else this command does to `dirty/` reports and
- * never rewrites, and a bulk expansion nobody wrote out by hand is the last place to start
- * carrying it. Naming such a file as its own pair still moves it.
- */
 export function expandDirectories(
   pairs: readonly Pair[],
   source: Addressed,
@@ -81,9 +60,6 @@ export function expandDirectories(
       made.push(one)
       continue
     }
-    // AN EMPTY DIRECTORY IS NOT IN THE WAY. git tracks files and not directories, so a directory
-    // this same command moved out of is still standing afterwards with nothing in it, and reading
-    // that as an occupied destination refuses the move back.
     const standing = `${destination.root}/${to}`
     const occupied =
       existsSync(standing) &&

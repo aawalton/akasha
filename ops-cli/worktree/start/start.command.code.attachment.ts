@@ -92,16 +92,6 @@ function seatSlug(): string {
   return stem.slice(0, -SEAT_ENDING.length)
 }
 
-/**
- * The directory the holding folder stands in, refusing where nothing says which one that is.
- *
- * THIS READ `process.env.HOME ?? ""`. An empty string is a path `join` swallows, so an unset
- * `$HOME` — which is what a systemd unit naming no user hands its process — turned an absolute
- * tree into the relative `worktrees/worktree-N`, and `git worktree add` made it under whichever
- * directory the command ran in. Nothing said so: the seq was spent, the page landed naming a tree
- * nobody could find, and the same call run from somewhere else made a second tree at the same
- * name. A default here places the tree somewhere plausible and wrong, so there is none.
- */
 function holdingRoot(): string {
   const home = process.env.HOME
   if (home === undefined || home === "") {

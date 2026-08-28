@@ -152,9 +152,6 @@ export async function resolveReadoutGroup(groupSlug: string): Promise<ResolvedRe
         "group would draw as an empty strip"
     )
   }
-  // Every member disabled is a group turned off on purpose, and it draws nothing without a
-  // word. The throw above is for a group NOBODY named, which is a group that lost its members
-  // by accident; telling the two apart is the whole reason `enabled` is read here.
   if (drawn.length === 0) {
     return { slug: groupSlug, sortOrder, readouts: [], unresolved: new Map() }
   }
