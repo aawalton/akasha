@@ -23,12 +23,6 @@ Read and run 2026-08-28 by seat astra.
 
 **The function itself is exercised.** Every other case in the file builds a fixture repository under a temporary directory and passes, so `listWorkspaceDirs` is under test independently of this one.
 
-# Bearing
+**The case also asserts two invariants.** That no glob survives expansion, and that every directory listed carries a `package.json`. `pages/domain/test.domain.md` carries **Delete Rather Than Repair** ("never repair it") and **Assert The Invariant**.
 
-`pages/domain/test.domain.md` carries **Delete Rather Than Repair** — "Delete a test that fails while nothing is wrong; never repair it", and "A retry or a skip is still a repair." Changing four `".."` to three is a repair, and it would not make the case pass.
-
-The same domain carries **Assert The Invariant** — "An assertion about one case breaks while nothing is wrong, and its repair checks nothing." Lines 106-107 name two particular packages, which is a detail of the case at hand.
-
-But the same case also asserts two things that are invariants: that no glob survives expansion, and that every directory it lists carries a `package.json`. So deleting the case whole loses two invariants, and repairing it breaks the rule. That is the decision this page is for, and it is deliberately not made here.
-
-Not measured: whether `lib-async` and `addon-libraries` were renamed in the flattening or dropped. Not measured: whether any other test asserts the pre-flattening layout.
+Not measured: whether `lib-async` and `addon-libraries` were renamed in the flattening or dropped; whether any other test asserts the pre-flattening layout.
