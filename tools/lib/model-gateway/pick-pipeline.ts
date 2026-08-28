@@ -13,7 +13,7 @@ import { attemptPermissionDeniedRebind } from "./permission-denied-rebind.ts"
 import type { PickPipelineDeps, PickPipelineOutcome } from "./pick-pipeline-types.ts"
 import { peek429 } from "./read-error-type-safely.ts"
 import { withTransportRetry } from "./retry.ts"
-import { attemptServerOverloadRetry } from "./server-overload-retry.ts"
+import { attemptServerErrorRetry } from "./server-error-retry.ts"
 
 
 export async function runPickPipeline(args: {
@@ -83,8 +83,14 @@ export async function runPickPipeline(args: {
         response: new Response(null, { status: 502, statusText: "Bad Gateway" }),
       }
     }
-    if (res.status === 429 || res.status === 529) {
-      const outcome = await attemptServerOverloadRetry({
+    if (
+      res.status === 429 ||
+      res.status === 500 ||
+      res.status === 502 ||
+      res.status === 503 ||
+      res.status === 529
+    ) {
+      const outcome = await attemptServerErrorRetry({
         res,
         req: currentReq,
         currentAccount,

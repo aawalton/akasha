@@ -1,13 +1,13 @@
-import type { ServerOverloadClassification } from "../lib/model-gateway/server-overload.ts"
+import type { ServerErrorClassification } from "../lib/model-gateway/server-error.ts"
 
-export interface ServerOverloadModule {
+export interface ServerErrorModule {
   readonly OVERLOADED_ERROR_TYPE: string
   readonly OVERLOADED_STATUS: number
-  readonly SERVER_OVERLOAD_BACKOFF_MS: readonly number[]
+  readonly SERVER_ERROR_BACKOFF_MS: readonly number[]
   readonly MAX_RETRY_AFTER_MS: number
-  readonly isServerOverload: (status: number, body: string) => boolean
-  readonly classifyServerOverload: (status: number, body: string) => ServerOverloadClassification
-  readonly serverOverloadBackoffMs: (args: {
+  readonly isServerError: (status: number, body: string) => boolean
+  readonly classifyServerError: (status: number, body: string) => ServerErrorClassification
+  readonly serverErrorBackoffMs: (args: {
     retryAfterHeader: string | null
     attempt: number
     schedule: readonly number[]
@@ -43,16 +43,23 @@ const OVERLOADED_529 = JSON.stringify({
   error: { type: "overloaded_error", message: "Overloaded" },
 })
 
+const API_ERROR_500 = JSON.stringify({
+  type: "error",
+  error: { type: "api_error", message: "Internal server error" },
+})
+
 export const CARRIED = {
   OVERLOADED_429,
   RATE_LIMIT_429,
   OVERLOADED_529,
+  API_ERROR_500,
 } as const
 
 const BODIES: readonly (readonly [string, string])[] = [
   ["overloaded-envelope", OVERLOADED_429],
   ["rate-limit-envelope", RATE_LIMIT_429],
   ["overloaded-529-envelope", OVERLOADED_529],
+  ["api-error-envelope", API_ERROR_500],
   ["overloaded-no-message", '{"type":"error","error":{"type":"overloaded_error"}}'],
   ["overloaded-empty-message", '{"type":"error","error":{"type":"overloaded_error","message":""}}'],
   ["overloaded-null-message", '{"type":"error","error":{"type":"overloaded_error","message":null}}'],
@@ -73,7 +80,9 @@ const BODIES: readonly (readonly [string, string])[] = [
   ["extra-keys-loose", '{"type":"error","error":{"type":"overloaded_error","message":"m","code":9},"extra":[1]}'],
 ]
 
-const STATUSES: readonly number[] = [200, 403, 404, 429, 500, 502, 503, 528, 529, 530, 0, -529]
+const STATUSES: readonly number[] = [
+  200, 403, 404, 429, 500, 501, 502, 503, 504, 528, 529, 530, 0, -529,
+]
 
 export function classified(): readonly Classified[] {
   const out: Classified[] = []
@@ -133,13 +142,13 @@ export function backoffs(): readonly Backoff[] {
   return out
 }
 
-export function rows(mod: ServerOverloadModule): readonly unknown[] {
+export function rows(mod: ServerErrorModule): readonly unknown[] {
   const out: unknown[] = []
   out.push({
     kind: "constants",
     OVERLOADED_ERROR_TYPE: mod.OVERLOADED_ERROR_TYPE,
     OVERLOADED_STATUS: mod.OVERLOADED_STATUS,
-    SERVER_OVERLOAD_BACKOFF_MS: [...mod.SERVER_OVERLOAD_BACKOFF_MS],
+    SERVER_ERROR_BACKOFF_MS: [...mod.SERVER_ERROR_BACKOFF_MS],
     MAX_RETRY_AFTER_MS: mod.MAX_RETRY_AFTER_MS,
   })
   for (const vector of classified()) {
@@ -147,8 +156,8 @@ export function rows(mod: ServerOverloadModule): readonly unknown[] {
     let matched: unknown = "NOT-SET"
     let threw: string | null = null
     try {
-      answer = mod.classifyServerOverload(vector.status, vector.body)
-      matched = mod.isServerOverload(vector.status, vector.body)
+      answer = mod.classifyServerError(vector.status, vector.body)
+      matched = mod.isServerError(vector.status, vector.body)
     } catch (error) {
       threw = error instanceof Error ? `${error.name}: ${error.message}` : String(error)
     }
@@ -165,7 +174,7 @@ export function rows(mod: ServerOverloadModule): readonly unknown[] {
     let answer: unknown = "NOT-SET"
     let threw: string | null = null
     try {
-      answer = mod.serverOverloadBackoffMs({
+      answer = mod.serverErrorBackoffMs({
         retryAfterHeader: vector.retryAfterHeader,
         attempt: vector.attempt,
         schedule: vector.schedule,
