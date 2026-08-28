@@ -1,7 +1,8 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { PanelCard, Text } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Text } from "@shared/design-primitives/components/text"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { AffectedItem } from "@temper/game-items-rules-core/inventory-rule-matcher-types"

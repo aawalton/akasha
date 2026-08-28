@@ -1,7 +1,9 @@
 "use client"
 
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle, Text, useSurface } from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 
 export interface ValueExplanationData {

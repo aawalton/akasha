@@ -1,12 +1,7 @@
 "use client"
 
-import {
-  ButtonBadge,
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from "@shared/design-system"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
 import { Plus } from "lucide-react"
 import { Fragment } from "react"
 import { RuleCardFilterChip } from "./rule-card-filter-chip"

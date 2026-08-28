@@ -1,13 +1,7 @@
 "use client"
 
-import {
-  Badge,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { ITEM_CATEGORY_TREE } from "@temper/game-items-core/generated/item-category-tree.generated"
 import {
   ALL_CATEGORIES_ID,

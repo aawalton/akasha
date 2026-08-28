@@ -1,6 +1,6 @@
 "use client"
 
-import { ButtonBadge } from "@shared/design-system"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
 import type { DestinationChain, Tier } from "@temper/game-items-rules-core/inventory-rule-types"
 import { Plus } from "lucide-react"
 import { RuleCardDestinationTier } from "./rule-card-destination-tier"

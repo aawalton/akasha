@@ -1,6 +1,8 @@
 "use client"
 
-import { Badge, Popover, PopoverContent, PopoverTrigger, Text } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Text } from "@shared/design-primitives/components/text"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"
 

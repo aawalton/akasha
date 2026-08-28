@@ -1,14 +1,8 @@
 "use client"
 
-import {
-  Badge,
-  EditableNumber,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { EditableNumber } from "@shared/design-forms/components/editable-number"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { ALL_STOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/all-stocked-filter"
 import { KEEP_QUANTITY_OPTIONS } from "@temper/game-items-rules-core/filters/keep-quantity-filter"

@@ -1,20 +1,11 @@
 "use client"
 
-import {
-  Badge,
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-  Switch,
-  Text,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Switch } from "@shared/design-primitives/components/switch"
+import { Text } from "@shared/design-primitives/components/text"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { CanLevelMorphsCondition } from "@temper/game-items-rules-core/filters/can-level-morphs-filter-types"
 import type {

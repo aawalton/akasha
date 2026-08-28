@@ -1,6 +1,7 @@
 "use client"
 
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, useSurface } from "@shared/design-system"
+import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { getActionLabel } from "./action-options"

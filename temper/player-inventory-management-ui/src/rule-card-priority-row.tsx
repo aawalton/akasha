@@ -1,16 +1,10 @@
 "use client"
 
 import { LayoutLink } from "@shared/design-layout/router-context"
-import {
-  Badge,
-  ButtonBadge,
-  NumberBadge,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { NumberBadge } from "@shared/design-badges/components/number-badge"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import {
   goalIdToValue,

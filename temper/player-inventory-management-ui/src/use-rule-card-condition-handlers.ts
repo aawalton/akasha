@@ -1,6 +1,6 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import type { InventoryLocationConditionId } from "@temper/game-items-core/location-condition"
 import type { ComparisonOpId } from "@temper/game-items-rules-core/filters/comparison-op-data"
 import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"

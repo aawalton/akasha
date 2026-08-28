@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
 import { QUALITY_OPTIONS } from "@temper/game-items-rules-core/filters/quality-filter"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 

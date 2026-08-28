@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
 import type { ControlledRule } from "@temper/game-items-rules-core/inventory-rule-controlled"
 import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 import { ChevronRight } from "lucide-react"

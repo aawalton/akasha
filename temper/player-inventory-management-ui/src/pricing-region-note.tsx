@@ -1,7 +1,7 @@
 "use client"
 
 import { LayoutLink } from "@shared/design-layout/router-context"
-import { Text } from "@shared/design-system"
+import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import {

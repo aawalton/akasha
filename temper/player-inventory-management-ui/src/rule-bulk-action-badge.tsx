@@ -1,6 +1,11 @@
 "use client"
 
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, ButtonBadge, type badgeVariants, DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger, ScrollArea, useSurface } from "@shared/design-system"
+import { type badgeVariants } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from "@shared/design-primitives/components/dropdown-menu"
+import { ScrollArea } from "@shared/design-primitives/components/scroll-area"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { VariantProps } from "class-variance-authority"
 import { useState } from "react"

@@ -1,17 +1,9 @@
 "use client"
 
-import {
-  Badge,
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-  Text,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Text } from "@shared/design-primitives/components/text"
 import type { RequiredCurseStateCondition } from "@temper/game-items-rules-core/filters/required-curse-state-filter-types"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"

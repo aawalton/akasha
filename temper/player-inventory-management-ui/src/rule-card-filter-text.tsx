@@ -1,6 +1,6 @@
 "use client"
 
-import { HoverCard, HoverCardContent, HoverCardTrigger } from "@shared/design-system"
+import { HoverCard, HoverCardContent, HoverCardTrigger } from "@shared/design-primitives/components/hover-card"
 import { Info } from "lucide-react"
 import * as React from "react"
 

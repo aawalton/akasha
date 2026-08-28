@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, Button, ButtonBadge, EditableNumber } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { EditableNumber } from "@shared/design-forms/components/editable-number"
+import { Button } from "@shared/design-primitives/components/button"
 import type {
   CharEligibility,
   MoveToDestination,

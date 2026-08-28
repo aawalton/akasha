@@ -1,13 +1,9 @@
 "use client"
 
-import {
-  Badge,
-  BadgeToggleGroup,
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-  Text,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { BadgeToggleGroup } from "@shared/design-badges/components/badge-toggle-group"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Text } from "@shared/design-primitives/components/text"
 import { LOCATION_OPTIONS } from "@temper/game-items-rules-core/filters/location-filter"
 import { SET_SOURCE_TYPE_OPTIONS } from "@temper/game-items-rules-core/filters/set-sources-filter"
 import type { ReactNode } from "react"

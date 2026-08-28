@@ -1,6 +1,6 @@
 "use client"
 
-import { Text } from "@shared/design-system"
+import { Text } from "@shared/design-primitives/components/text"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import type { PricingSourceNoteKind } from "./pricing-source"

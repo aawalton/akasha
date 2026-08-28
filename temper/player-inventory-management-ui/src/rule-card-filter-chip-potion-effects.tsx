@@ -1,19 +1,10 @@
 "use client"
 
-import {
-  Badge,
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-  Text,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { Text } from "@shared/design-primitives/components/text"
 import { POTION_EFFECTS_OPTIONS } from "@temper/game-items-rules-core/filters/potion-effects-filter"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "./use-rule-card"

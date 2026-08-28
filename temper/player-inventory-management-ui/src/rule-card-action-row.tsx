@@ -1,18 +1,10 @@
 "use client"
 
-import {
-  Badge,
-  ButtonBadge,
-  EditableNumber,
-  InputGroup,
-  InputGroupAddon,
-  InputGroupInput,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ButtonBadge } from "@shared/design-badges/components/button-badge"
+import { EditableNumber } from "@shared/design-forms/components/editable-number"
+import { InputGroup, InputGroupAddon, InputGroupInput } from "@shared/design-forms/components/input-group"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import type {
   CategoryRule,
   DestinationChain,

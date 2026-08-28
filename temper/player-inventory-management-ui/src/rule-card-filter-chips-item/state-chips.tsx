@@ -1,13 +1,7 @@
 "use client"
 
-import {
-  Badge,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { BOP_TRADEABLE_OPTIONS } from "@temper/game-items-rules-core/filters/bop-tradeable-filter"
 import { BOUND_OPTIONS } from "@temper/game-items-rules-core/filters/bound-filter"
 import { CRAFTED_OPTIONS } from "@temper/game-items-rules-core/filters/crafted-filter"
