@@ -78,5 +78,13 @@ export function indexAfterLanding(
     const said = err instanceof Error ? err.message : String(err)
     throw new Error(`the page index did not take ${String(landings.length)} page file(s): ${said}`)
   }
+  // THE MARK IS WRITTEN OUTSIDE THE INDEX LOCK, WEIGHED RATHER THAN MISSED. `markLanded` reads
+  // `built-from.json` and writes it back, so two landings for different repositories can drop
+  // one repository's mark, and `scan.ts` then refuses with `the page index was not built over
+  // X`. It stays out because the mark costs a git walk of the whole repository — around 170ms
+  // against the 190ms a landing holds the lock for — so folding it in would roughly double
+  // every landing's hold, to protect against a failure that is loud, names itself, and is
+  // cleared by `ops index refresh`. The rebuild's own marks are inside the lock, where they
+  // cost nothing extra because the walk they need is already held.
   markLanded(repo, root)
 }

@@ -19,6 +19,7 @@ import { trackedIn } from "../tracked/tracked.ts"
 import { REPOS } from "../../repo/roots/roots.ts"
 import {
   builtFrom,
+  identityBodies,
   keepBuiltFrom,
   keepPages,
   keepRelations,
@@ -27,6 +28,7 @@ import {
   markFor,
   marksFrom,
   pageOidsIn,
+  relationBodies,
   settleIdentityFiles,
   settleRelationFiles,
   underIndexLock,
@@ -199,14 +201,15 @@ export function buildOver(roots: Roots): Built {
     const [relation, target] = partsOf(key)
     wanted.set(relationFileFor(relation, target), sources)
   }
+  const relationText = relationBodies(wanted)
+  const identityText = identityBodies(buckets)
   return underIndexLock(() => {
-    settleRelationFiles(wanted)
-    settleIdentityFiles(buckets)
+    settleRelationFiles(relationText)
+    settleIdentityFiles(identityText)
     keepPages(stated)
     keepRelations(relations)
     // ONE GIT WALK RATHER THAN TWO. Naming what moved and marking what the index covers
-    // both want every repository's page oids, and a walk for each cost a fifth of a
-    // second of held lock for nothing.
+    // both want every repository's page oids, and a walk each cost a fifth of a second.
     const standing = oidsOver(roots)
     const missed = missedDuring(roots, was, standing, identity.pages)
     if (missed.length > 0) appliedInto(stated, missed, holds)
@@ -347,21 +350,6 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
 }
 
 /**
- * Every landed page's entries written into the index, or a refusal.
- *
- * AN INDEX HOLDING NO PAGE REFUSES RATHER THAN ANSWERING 0. A landing works out what to change
- * from what the index already says, so against an empty one it has nothing to change, and a 0
- * reads exactly like a landing that carried no page at all. That is what a rebuild looks like
- * from here for as long as it runs, and what an index nothing ever wrote looks like for good:
- * the commit lands in git, the index goes on describing a tree that has moved, and the only
- * sign of it is a row that is wrong until something else happens to land on the same page.
- *
- * THE ROWS ARE READ AND WRITTEN BACK UNDER ONE LOCK. Everything from `loadPages` to
- * `keepPages` is a read-modify-write over every row there is, and two landings doing it at
- * once lose one of the two. Which pages a landing carries makes no difference: the file is
- * written whole either way, so landings that touch nothing in common still collide.
- */
-/**
  * Landed pages applied to the rows already standing, with the index lock already held.
  *
  * SEPARATE FROM `landHere` BECAUSE A REBUILD APPLIES LANDINGS TOO, from inside a lock it is
@@ -384,6 +372,21 @@ function appliedInto(
   return touched
 }
 
+/**
+ * Every landed page's entries written into the index, or a refusal.
+ *
+ * AN INDEX HOLDING NO PAGE REFUSES RATHER THAN ANSWERING 0. A landing works out what to change
+ * from what the index already says, so against an empty one it has nothing to change, and a 0
+ * reads exactly like a landing that carried no page at all. That is what a rebuild looks like
+ * from here for as long as it runs, and what an index nothing ever wrote looks like for good:
+ * the commit lands in git, the index goes on describing a tree that has moved, and the only
+ * sign of it is a row that is wrong until something else happens to land on the same page.
+ *
+ * THE ROWS ARE READ AND WRITTEN BACK UNDER ONE LOCK. Everything from `loadPages` to
+ * `keepPages` is a read-modify-write over every row there is, and two landings doing it at
+ * once lose one of the two. Which pages a landing carries makes no difference: the file is
+ * written whole either way, so landings that touch nothing in common still collide.
+ */
 export function landHere(landings: readonly Landing[], holds: Holds): number {
   const landed = landedOf(landings)
   if (landed.length === 0) return 0

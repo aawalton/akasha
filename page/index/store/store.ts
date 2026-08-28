@@ -348,18 +348,39 @@ function settleUnder(root: string, want: ReadonlyMap<string, string>): void {
   for (const dir of emptied) pruneUpTo(dir, root)
 }
 
-export function settleRelationFiles(want: ReadonlyMap<string, readonly Source[]>): void {
+/**
+ * The bodies a settle will write, composed before the lock is taken.
+ *
+ * COMPOSED OUTSIDE THE LOCK BECAUSE NONE OF IT READS THE INDEX. Turning 124,782 relation
+ * entries and 179,349 identity handles into 42MB of text is two thirds of what a rebuild
+ * used to hold the lock for, and holding it across that made every landing in flight wait
+ * on work whose answer does not depend on what the index holds. What the lock is for is the
+ * read of the files and the write over them, which is what `settleUnder` is left with.
+ */
+export function relationBodies(
+  want: ReadonlyMap<string, readonly Source[]>
+): ReadonlyMap<string, string> {
   const bodies = new Map<string, string>()
   for (const [at, sources] of want) bodies.set(at, bodyOf(sources))
-  settleUnder(relationsRoot(), bodies)
+  return bodies
 }
 
-export function settleIdentityFiles(want: ReadonlyMap<string, readonly Named[]>): void {
+export function identityBodies(
+  want: ReadonlyMap<string, readonly Named[]>
+): ReadonlyMap<string, string> {
   const bodies = new Map<string, string>()
   for (const [at, held] of want) {
     const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
     bodies.set(at, namedBodyOf(sorted))
   }
+  return bodies
+}
+
+export function settleRelationFiles(bodies: ReadonlyMap<string, string>): void {
+  settleUnder(relationsRoot(), bodies)
+}
+
+export function settleIdentityFiles(bodies: ReadonlyMap<string, string>): void {
   settleUnder(identityRoot(), bodies)
 }
 
