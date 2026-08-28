@@ -153,6 +153,28 @@ export function resolveRoots(target: Repo = AKASHA): Roots {
   return { ...at, target }
 }
 
+/**
+ * Roots stated by hand, refusing a key that names no repository.
+ *
+ * `Roots` IS AN OPEN RECORD ON PURPOSE. `REPOS` above is scanned from the repo pages at load, so
+ * which repositories exist is data rather than a fact in this code, and no closed type can carry
+ * it. That leaves a hand-written roots object free to name a repository a rename took away: it
+ * type-checks, and the first `rootFor` then throws naming the repository that was asked for rather
+ * than the key that was wrong, so the fault reads as the caller's. Build the object here and a key
+ * naming no repository is refused where it was written, against the set that is addressable.
+ */
+export function rootsNamed(at: Readonly<Record<string, string>>): Roots {
+  const stray = Object.keys(at).filter((one) => !isAddressable(one))
+  if (stray.length > 0) {
+    const named = stray.map((one) => `\`${one}\``).join(", ")
+    const name = stray.length === 1 ? "names" : "name"
+    throw new Error(
+      `${named} ${name} no repository here; the repositories are ${ADDRESSABLE_NAMED}`
+    )
+  }
+  return { ...at }
+}
+
 export function targetRepo(roots: Roots): Repo {
   return roots.target ?? AKASHA
 }
