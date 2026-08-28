@@ -128,6 +128,41 @@ const WRAPPED: readonly (readonly [RegExp, (of: Rule, max: number) => Rule])[] =
   [SELECT_OF, (of) => selectRule(of)],
 ]
 
+/**
+ * Whether text is JSON a reader can parse back.
+ *
+ * `JSON.parse` is the only answer to this that cannot drift from what a reader does, because a
+ * reader makes exactly this call. A regular expression over the text would be a second grammar
+ * for one language, and the two would part on the first value neither author thought of.
+ */
+function parsesAsJson(text: string): boolean {
+  try {
+    JSON.parse(text)
+    return true
+  } catch {
+    return false
+  }
+}
+
+/**
+ * One line of JSON text, which is the whole of what `json` declares its values to be.
+ *
+ * A TYPE THAT ADMITS ANYTHING IS WORSE THAN A TYPE WITH NO RULE, because it turns "nothing judged
+ * this" into "this was judged and it held", and only the second reads as a pass. So this refuses
+ * everything the declaration excludes and nothing it allows: the value stands as one scalar rather
+ * than a YAML map or list, its text parses, and it stays on one line. What shape stands inside the
+ * JSON is free — that freedom is what the type is for — so the rule bounds the carrier alone.
+ *
+ * THE ONE LINE IS LOAD-BEARING RATHER THAN TIDINESS. `json` is the type a structured value takes
+ * to cross into frontmatter, where a search finds a page by the text of the line its key stands
+ * on, and a sidecar row carries the value as the text it was written as. The same value broken
+ * over several lines is found differently and carried differently from the same value on one.
+ */
+const oneLineOfJson: Rule = scalarRule(
+  "one line of JSON text",
+  (text) => !text.includes("\n") && parsesAsJson(text)
+)
+
 const points: Rule = scalarRule("the UUID of the page it points at", (text) => UUID.test(text))
 
 const RELATION_SLUG = "relation-slug"
@@ -150,6 +185,7 @@ export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
         typeof value !== "string" ? wrongShape(value) : value === "" ? { fault: "text", at: value } : null,
     },
   ],
+  ["json", oneLineOfJson],
   ["uuid", scalarRule("a UUID", (text) => UUID.test(text))],
   ["process", scalarRule("a pid and a start time, written `<pid>-<start>`", (text) => PROCESS.test(text))],
   ["relation-id", points],

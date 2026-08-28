@@ -8,9 +8,7 @@ tree-sha: true
 dispatch-node-types:
   - kind: yaml-file
   - kind: yml-file
-environment:
-  SOPS_AGE_KEY:
-    secret: AGE_SECRET_KEY
+environment: '{"SOPS_AGE_KEY":{"secret":"AGE_SECRET_KEY"}}'
 slug: cluster-check-sops-manifests
 domain-parent-slug: page-type/cluster-check
 ---
