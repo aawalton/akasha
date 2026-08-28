@@ -1,5 +1,11 @@
 import { hookAgentId, recordingAgentId } from "../lib/read-record.ts"
-import { removeSubagentPage, removeSubagentPagesOf, writeSubagentPage } from "../lib/subagent-page.ts"
+import { endsOf, reportOf } from "../lib/subagent-end.ts"
+import {
+  removeSubagentPage,
+  removeSubagentPagesOf,
+  standingSubagentsOf,
+  writeSubagentPage,
+} from "../lib/subagent-page.ts"
 import { SUBAGENT_MARK } from "../lib/subagent.ts"
 
 const STOPPING = "SubagentStop"
@@ -14,6 +20,21 @@ const PROCESS_SURVIVES: readonly string[] = ["compact"]
 
 export function clearsSubagentPages(source: string): boolean {
   return !PROCESS_SURVIVES.includes(source)
+}
+
+/**
+ * What the seat is told about the subagents its restart just ended.
+ *
+ * READ BEFORE THE PAGES GO, because the pages are the only record of which subagents were out. The
+ * notice Claude Code prints in their place says a completion record was not found, which reports
+ * what the harness does not know rather than what became of them.
+ */
+function saidOfStanding(seat: string): string {
+  try {
+    return reportOf(endsOf(standingSubagentsOf(seat)))
+  } catch {
+    return ""
+  }
 }
 
 async function main(): Promise<void> {
@@ -31,7 +52,9 @@ async function main(): Promise<void> {
 
   if (event === SESSION_STARTING) {
     if (!clearsSubagentPages(String(fields.source ?? ""))) return
+    const said = saidOfStanding(seat)
     removeSubagentPagesOf(seat, "started again")
+    if (said !== "") console.log(said)
     return
   }
 
