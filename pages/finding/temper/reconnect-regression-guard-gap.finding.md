@@ -3,7 +3,7 @@ id: 586f80bc-e0b9-535e-b0bc-fccd6c5d771a
 slug: reconnect-regression-guard-gap
 page-type-slug: finding
 title: "Reconnect regression guard gap"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

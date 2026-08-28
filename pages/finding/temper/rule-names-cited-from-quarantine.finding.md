@@ -3,7 +3,7 @@ id: 5281c9aa-af0c-51d1-ba89-62d8de23b0c2
 slug: rule-names-cited-from-quarantine
 page-type-slug: finding
 title: "Rule names cited from quarantine"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

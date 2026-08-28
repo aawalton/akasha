@@ -3,7 +3,7 @@ id: bae46252-cd07-534f-ab56-3a6374ffd2f7
 slug: route-sweep-preverification-green
 page-type-slug: finding
 title: "Route sweep preverification green"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
