@@ -1,19 +1,13 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { rootsKey } from "../../page/file-tree.ts"
-import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
-import { slugNamed } from "../../page/page-address.ts"
-import { computedOn } from "../../page/property/computed.ts"
-import { ATTACHMENT, type Held } from "./page-file-values.ts"
+import type { Held } from "./page-file-values.ts"
 import type { Property } from "../../page/property/property.ts"
 import type { Held as Declaring } from "../../page/property/stated.ts"
 import {
-  DEFINED_ON,
   filedIn,
   PAGE_TYPE_GLOBS,
   PAGE_TYPE_KINDS,
-  PROPERTY_GLOBS,
-  PROPERTY_KINDS,
   repoPlacings,
   scanIn,
   type Filed,
@@ -21,7 +15,6 @@ import {
 import { indexReaches, loadPages } from "../../page/index/store/store.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
 import { pageStemOf } from "../../page/name/name.ts"
-import { SLUG_PROPERTY } from "../../page/property/stated.ts"
 import type { Roots } from "../../page/page.ts"
 
 export const FROM = "from"
@@ -36,10 +29,6 @@ export const EXPRESSION = "expression"
 
 export const ROWS = "rows"
 
-export const UNCOMMITTED = "uncommitted"
-
-export const FALLBACK = "default"
-
 export const RELATION = "relation"
 
 export const REDUCTION = "function"
@@ -52,38 +41,6 @@ export interface Kind {
   readonly filed: readonly Filed[]
   readonly above: string | null
   readonly namedFor: string | null
-}
-
-export interface Declared {
-  readonly slug: string
-  readonly on: string
-  readonly key: string
-  readonly type: string | null
-  readonly target: string | null
-  readonly slugProperty: string | null
-  readonly from: readonly string[]
-  readonly back: string | null
-  readonly fallback: Held
-  readonly expression: string | null
-  readonly relation: string | null
-  readonly reduction: string | null
-  readonly over: string | null
-  readonly attachment: string | null
-  readonly rows: string | null
-  readonly uncommitted: boolean
-  readonly computed: boolean
-}
-
-export interface Declarations {
-  readonly byKind: ReadonlyMap<string, ReadonlyMap<string, Declared>>
-  readonly bySlug: ReadonlyMap<string, Declared>
-}
-
-function fallbackIn(fm: Frontmatter, key: string): Held {
-  const stated = textField(fm, key)
-  if (stated !== null) return stated
-  const listed = listField(fm, key)
-  return listed.length === 0 ? null : listed
 }
 
 /**
@@ -118,7 +75,7 @@ export function declaringRoot(roots: Roots): string {
  * `page/property/registry.ts`: the globs name `pages/page-type/` and
  * `pages/page-property-definition/` and nothing else, so the eleven page types filed beside their
  * own domains — the readout four, the graph seven — were invisible here while the registry saw
- * them, and so were the 57 property declarations standing beside them.
+ * them.
  *
  * NAMING THE REPOSITORY DOES NOT REACH THEM, which is why this asks the index by kind rather than
  * handing it the globs. `scannedFromIndex` does read the index once given a repository, but it
@@ -178,54 +135,5 @@ export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
       })
     }
     return kinds
-  })
-}
-
-export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
-  const on = stringAt(fm, DEFINED_ON)
-  if (on === null) return null
-  const type = stringAt(fm, "type")
-  return {
-    slug: stringAt(fm, "slug") ?? pageStemOf(relPath),
-    on: slugNamed(on),
-    key: stringAt(fm, "key") ?? pageStemOf(relPath),
-    type,
-    target: stringAt(fm, TARGET),
-    slugProperty: stringAt(fm, SLUG_PROPERTY),
-    from: listField(fm, FROM),
-    back: stringAt(fm, BACK),
-    fallback: fallbackIn(fm, FALLBACK),
-    expression: textField(fm, EXPRESSION),
-    relation: stringAt(fm, RELATION),
-    reduction: stringAt(fm, REDUCTION),
-    over: stringAt(fm, OVER),
-    attachment: stringAt(fm, ATTACHMENT),
-    rows: stringAt(fm, ROWS),
-    uncommitted: stringAt(fm, UNCOMMITTED) === "true",
-    computed: computedOn(fm),
-  }
-}
-
-/**
- * Every property declaration standing in akasha, held for one call for the reason `kindsIn` gives:
- * this parses 2,288 files, and a call building several derivers parsed them once for each.
- */
-export function declarationsIn(roots: Roots): Declarations {
-  return onceInCall(`page-property-declarations:${rootsKey(roots)}`, () => {
-    const byKind = new Map<string, Map<string, Declared>>()
-    const bySlug = new Map<string, Declared>()
-    for (const relPath of kindPathsIn(declaringRoot(roots), PROPERTY_KINDS, PROPERTY_GLOBS)) {
-      const text = textAt(declaringRoot(roots), relPath)
-      if (text === null) continue
-      const { fm, why } = blockOf(text)
-      if (why !== null) continue
-      const one = declaredIn(fm, relPath)
-      if (one === null) continue
-      const held = byKind.get(one.on) ?? new Map<string, Declared>()
-      if (!held.has(one.key)) held.set(one.key, one)
-      if (!bySlug.has(one.slug)) bySlug.set(one.slug, one)
-      byKind.set(one.on, held)
-    }
-    return { byKind, bySlug }
   })
 }
