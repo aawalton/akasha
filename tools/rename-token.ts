@@ -36,32 +36,32 @@ interface Spot extends Located {
 }
 
 interface Service {
-  getDefinitionAtPosition(fileName: string, position: number): readonly Located[] | undefined
-  findRenameLocations(
+  getDefinitionAtPosition: (fileName: string, position: number) => readonly Located[] | undefined
+  findRenameLocations: (
     fileName: string,
     position: number,
     findInStrings: boolean,
     findInComments: boolean,
     preferences: { readonly providePrefixAndSuffixTextForRename: boolean }
-  ): readonly Spot[] | undefined
+  ) => readonly Spot[] | undefined
 }
 
 interface Host {
-  getScriptFileNames(): readonly string[]
-  getScriptVersion(fileName: string): string
-  getScriptSnapshot(fileName: string): unknown
-  getCurrentDirectory(): string
-  getCompilationSettings(): Record<string, unknown>
-  getDefaultLibFileName(options: Record<string, unknown>): string
-  fileExists(path: string): boolean
-  readFile(path: string): string | undefined
+  getScriptFileNames: () => readonly string[]
+  getScriptVersion: (fileName: string) => string
+  getScriptSnapshot: (fileName: string) => unknown
+  getCurrentDirectory: () => string
+  getCompilationSettings: () => Record<string, unknown>
+  getDefaultLibFileName: (options: Record<string, unknown>) => string
+  fileExists: (path: string) => boolean
+  readFile: (path: string) => string | undefined
 }
 
 interface Compiler {
-  createLanguageService(host: Host): Service
-  ScriptSnapshot: { fromString(text: string): unknown }
-  getDefaultLibFilePath(options: Record<string, unknown>): string
-  sys: { fileExists(path: string): boolean; readFile(path: string): string | undefined }
+  createLanguageService: (host: Host) => Service
+  ScriptSnapshot: { fromString: (text: string) => unknown }
+  getDefaultLibFilePath: (options: Record<string, unknown>) => string
+  sys: { fileExists: (path: string) => boolean; readFile: (path: string) => string | undefined }
   ModuleKind: { Preserve: number }
   ScriptTarget: { ESNext: number }
 }
