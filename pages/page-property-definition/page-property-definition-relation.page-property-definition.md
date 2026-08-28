@@ -11,4 +11,4 @@ domain-parent-slug: page-type/page-property-definition
 
 # Definition
 
-- **Page property definition relation** — the relation an aggregate walks to reach the pages it reduces.
+- **Page property definition relation** — the relation an aggregate or rollup walks to reach the pages it reads.

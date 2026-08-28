@@ -11,7 +11,7 @@ domain-parent-slug: page-type/page-property-definition
 
 # Definition
 
-- **Page property definition target** — the property an aggregate reduces on each page it reaches.
+- **Page property definition target** — the property an aggregate reduces, or a rollup reads, on each page it reaches.
 
 # Design
 
