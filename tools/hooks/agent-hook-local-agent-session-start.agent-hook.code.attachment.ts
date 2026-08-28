@@ -5,12 +5,6 @@ const HOOK_NAME = "local-agent-session-start"
 
 const FLUSH = `${import.meta.dir}/../session-flush.ts`
 
-// THE ROTATION IS LANDED HERE RATHER THAN DIALLED. This posted to a page query service on loopback
-// with curl, its body sent to `/dev/null` and its exit status never read, so once that service was
-// deleted `rotated-session-uuid` reached no seat page and nothing said so.
-//
-// THE WRITER IS IMPORTED ON A ROTATION, NOT AT LOAD. This hook runs at every session start and
-// rotates on almost none of them.
 async function noteRotation(agent: string, sessionId: string): Promise<void> {
   const seat = seatNameOf(seatPageFile(agent))
   if (seat === "") return

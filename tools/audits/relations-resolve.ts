@@ -1,13 +1,13 @@
 import type { Check } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name.ts"
 import { bearersFor, relationsOn, unread, unresolvable, wantsOf, type Reading } from "../../page/relation/relation.ts"
-import { isAddressable, isDirty } from "../../repo/roots/roots"
+import { isAddressable, isDirty } from "../../repo/roots/roots.ts"
 
 const NAME = "relations-resolve"
 
@@ -78,11 +78,6 @@ export const relationsResolve: Check = (repo) => {
   }
   const broken = clean.length + quarantined.length
   const unreadable = bearers.missed.size === 0 ? [] : unread(bearers.missed)
-  // EVERY LINE THAT DECIDES THE VERDICT IS A LINE THE READER IS SHOWN. `refusing` was once built
-  // here and thrown away, a second list going out as `messages`, so a page whose frontmatter would
-  // not parse failed this check on a line nobody ever saw: the verdict read `fail` under a summary
-  // whose every count read clean. `refusing` is a prefix of `shown`, and the summary names all
-  // three counts, so no number here stands without its lines under it.
   const refusing = [...clean, ...unreadable]
   const shown = [...refusing, ...quarantined]
   const verdict = judge(

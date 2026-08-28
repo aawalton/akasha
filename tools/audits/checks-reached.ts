@@ -2,10 +2,10 @@ import { execFileSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { requiredReadingForEach } from "../required-reading.ts"
 import type { Check, CheckOutcome } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome.ts"
 import { pageTypePathIn } from "../../page/page-types.ts"
 import { refusalText } from "../../refusal/refusal.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
 const NAME = "checks-reached"
 
@@ -126,10 +126,6 @@ export const checksGoverned: Check = (repo) => {
   const standsHere = (relPath: string): boolean => existsSync(`${root}/${relPath}`)
   const here = scripts.filter(standsHere)
   const there = scripts.filter((one) => !standsHere(one))
-  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree a code-resident body's
-  // required reading resolves against is the root already in hand. This read `resolveRoots().code`
-  // fresh, which answered `undefined`, so the verdict named no tree at all while still counting
-  // every registered check in its population — a sentence about a missing checkout, reading green.
   const codeTree = `${root} at ${headOf(root)}`
   const required = new Map<string, readonly string[]>([
     ...requiredReadingForEach(there, root, "code"),

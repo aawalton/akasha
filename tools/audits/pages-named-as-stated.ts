@@ -3,12 +3,12 @@ import type { AsyncCheck, CheckOutcome } from "../lib/check.ts"
 import { constantHolesIn } from "@shared/pages-access/file-name"
 import { filledBy, unfilledIn } from "../../named-for/named-for.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { advise, over, skip } from "../../outcome/outcome"
+import { advise, over, skip } from "../../outcome/outcome.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { claimant, type PageType } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { pageStemOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import { claimedPages, emptyClaim } from "./pages-hold-shape.ts"
 
@@ -108,11 +108,6 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
   let counted = 0
   let holding = 0
   for (const one of covered.values()) {
-    // THE `instructions` REPOSITORY IS GONE, absorbed into akasha, so the pages this rule is about
-    // stand here. This read `repo.name === "instructions"`, which no repository answers to any more,
-    // so the arm below was weighed over none of the conventions and every naming rule that a file
-    // page can never satisfy passed unnamed — while the check went on reporting the pages it did
-    // count, which is what made the gap invisible.
     const constant = repo.name === AKASHA ? constantHolesIn(one.template) : []
     if (constant.length > 0) {
       refusals.push(

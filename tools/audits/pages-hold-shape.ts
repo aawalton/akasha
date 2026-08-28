@@ -1,27 +1,17 @@
 import type { Check } from "../lib/check.ts"
-import { advise, over, skip } from "../../outcome/outcome"
+import { advise, over, skip } from "../../outcome/outcome.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { hold, type Shape } from "../../page/shape/shape.ts"
 import { partOutsideShape } from "../../page/shape/words.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
 import { claimant, PAGE_TYPE_GLOBS, placesIn, reposOf, scanIn, type PageType } from "../../page/page-types.ts"
-import { isDirty, rootFor } from "../../repo/roots/roots"
+import { isDirty, rootFor } from "../../repo/roots/roots.ts"
 
 const NAME = "pages-hold-shape"
 const UNIT = "claimed page(s)"
 const SHOWN = 12
 
-/**
- * The first few of one list, saying what the rest were.
- *
- * A TRUNCATION NOTICE NAMES ITS OWN LIST. This emitted a bare "… and N more", and a check that
- * shows two lists in one report emitted two of them, so a reader met two unlabelled tails and
- * could not tell which belonged to what. Worse, the summary above counts pages while a refusal
- * list counts lines — several per page — so the two numbers are true of one run and cannot be
- * reconciled. A seat read 373 failures off such a pair on 2026-08-27 and dispatched an agent
- * against them; the real figure was 3.
- */
 function first(lines: readonly string[], noun: string): readonly string[] {
   return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
@@ -65,11 +55,6 @@ export const pagesHoldShape: Check = (repo) => {
       unjudgeable.push(`${relPath} — \`${type.slug}\` states no shape this can hold a body to: ${shape.why}`)
       continue
     }
-    // A PAGE THE SCAN LISTED CAN BE GONE BY THE TIME IT IS READ. The fleet retires subagent
-    // pages continuously, so a claimed path is a path that stood when the scan ran and nothing
-    // more. An unguarded read throws out of this loop and takes the whole audit with it, and
-    // every check batched behind it, over one page that did what its page type says it should.
-    // `pages-hold-properties.ts` guards the identical call; this is that guard.
     let text: string
     try {
       text = repo.read(relPath)

@@ -1,22 +1,12 @@
-
 import type { Check } from "../lib/check.ts"
 import { linkWords, readFromDisk, resolveLinks, unresolved } from "../lib/links.ts"
-import { judge, over } from "../../outcome/outcome"
-import { AKASHA, isDirty, rootFor, targetRoot } from "../../repo/roots/roots"
+import { judge, over } from "../../outcome/outcome.ts"
+import { AKASHA, isDirty, rootFor, targetRoot } from "../../repo/roots/roots.ts"
 import { isMortalPage } from "../page/mortal-page.ts"
 import { fromElsewhereIn } from "../../checks-system/check/links-resolve/links-resolve.check.code.attachment.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 
-/**
- * Whether every markdown link in the repository still lands where it says.
- *
- * A BODY THAT CAME FROM ELSEWHERE IS NOT JUDGED, which `links-resolve.check.md:27` states and
- * `fromElsewhereIn` decides. The rule is imported here rather than restated, because this audit
- * and the checks-system check of the same name are two readers of one invariant: a second copy of
- * the ancestry walk lets them disagree, and it did — ten scraped Royal Road chapters failed here
- * while passing there, and the pages were right both times.
- */
 export const linksResolve: Check = (repo) => {
   const roots = { ...repo.roots, target: repo.name }
   const root = targetRoot(roots)

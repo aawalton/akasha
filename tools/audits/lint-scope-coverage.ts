@@ -1,4 +1,3 @@
-
 import { codeRoot } from "../lib/code-root.ts"
 import { existsSync, readFileSync } from "node:fs"
 import type { Check, CheckOutcome } from "../lib/check.ts"
@@ -38,7 +37,7 @@ import { ENV_FILE_NODE_TYPE } from "../lib/graph/producers/file/env-file/types.t
 import { CONF_FILE_NODE_TYPE } from "../lib/graph/producers/file/conf-file/types.ts"
 import { IGNORE_FILE_NODE_TYPE } from "../lib/graph/producers/file/ignore-file/types.ts"
 import { SOPS_CONFIG_FILE_NODE_TYPE } from "../lib/graph/producers/file/sops-config-file/types.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome.ts"
 
 const NAME = "lint-scope-coverage"
 
@@ -135,10 +134,6 @@ export const lintScopeCoverage: Check = (repo) => {
     population: over(0, UNIT),
   })
 
-  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so `biome.json` and every file it lints
-  // stand in this tree. This read `repo.roots.code`, which answers `undefined` for a repository
-  // nothing has cloned, and reported nothing measured over a population of zero — which
-  // `tools/run-checks.ts` counts as not-refused, so the lint scope went unweighed and read green.
   const root = codeRoot()
   const biomePath = `${root}/${BIOME_FILE}`
 

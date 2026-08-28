@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { advise, judge, over } from "../../outcome/outcome"
+import { advise, judge, over } from "../../outcome/outcome.ts"
 import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
 import { PROPERTY_GLOBS, PROPERTY_KINDS } from "../../page/page-types.ts"
 import { PROPERTY_ROOTS, vocabularyFor } from "../../page/property/frontmatter.ts"
@@ -46,16 +46,6 @@ export interface Bindings {
   readonly why: string | null
 }
 
-/**
- * The first few of one list, saying what the rest were.
- *
- * A TRUNCATION NOTICE NAMES ITS OWN LIST. This emitted a bare "… and N more", and a check that
- * shows two lists in one report emitted two of them, so a reader met two unlabelled tails and
- * could not tell which belonged to what. Worse, the summary above counts pages while a refusal
- * list counts lines — several per page — so the two numbers are true of one run and cannot be
- * reconciled. A seat read 373 failures off such a pair on 2026-08-27 and dispatched an agent
- * against them; the real figure was 3.
- */
 function first(lines: readonly string[], noun: string): readonly string[] {
   return lines.length > SHOWN
     ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`]
@@ -70,11 +60,6 @@ function typed(tree: FileTree): {
   const on = new Map<string, string[]>()
   const unread: Unread[] = []
   let properties = 0
-  // A PROPERTY DEFINITION STANDS WHERE ITS DOMAIN DOES, NOT UNDER ONE FOLDER. `page-type` says
-  // a page type and its property definitions live where their domain lives, and 57 of them do —
-  // 41 under `readouts/` and 16 under `graph/`. Globbing the place folder found 2231 of 2288 and
-  // reported nothing about the rest, so no `type:` they state was ever checked for binding a
-  // rule. The index knows them by kind; the globs are the fallback for a tree with no index.
   for (const relPath of indexedPaths(tree, PROPERTY_KINDS, PROPERTY_GLOBS)) {
     properties += 1
     const text = tree.open(relPath)

@@ -5,9 +5,9 @@ import type { Check } from "../lib/check.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
 import { REFUSAL_DIR, refusalText } from "../../refusal/refusal.ts"
-import { judge, over } from "../../outcome/outcome"
-import { AKASHA, rootFor } from "../../repo/roots/roots"
-import { fileStemOf } from "../../page/name/name"
+import { judge, over } from "../../outcome/outcome.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 
 const NAME = "refusals-bound"
 const CALL = "refusalText("
@@ -80,14 +80,6 @@ const BRANCH = /[?:]\s*"([a-z][a-z0-9-]*)"/g
 
 const NAMED = /^\s*([A-Za-z_$][\w$]*)\s*$/
 
-/**
- * The slug a module-level `const` binds, where the call names that const rather than the slug.
- *
- * A NAME WITH TWO JOBS CANNOT BE WRITTEN OUT AT THE CALL. Where the same const also names the
- * thing in a second message, replacing it with a literal leaves the string twice in one file
- * with one copy guarded and one not, which is what writing it out was meant to avoid. Anchored
- * to the start of a line, so a binding inside a function is not one of these.
- */
 function boundIn(source: string, name: string): string | null {
   const quoted = name.replaceAll("$", () => "\\$")
   const found = new RegExp(`^const ${quoted} = "([a-z][a-z0-9-]*)"$`, "m").exec(source)

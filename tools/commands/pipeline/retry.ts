@@ -1,4 +1,3 @@
-
 export const summary =
   "Re-dispatch only the failed (+ dependent-blocked) workflows of an existing pipeline in place at the same commit — the infra-failure cure that makes no new pipeline"
 
@@ -8,8 +7,8 @@ import { decideRetry, type Reading } from "../../lib/pipeline-retry/decide.ts"
 import { runRetry } from "../../lib/pipeline-retry/run.ts"
 import { kinOf, readSnapshot } from "../../lib/sweep-pipeline-pages/pages.ts"
 import { whereFor } from "../../lib/page-write-where.ts"
-import { type Roots } from "../../../page/page"
-import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { type Roots } from "../../../page/page.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots.ts"
 import { servedTip } from "../../lib/served-tip.ts"
 import { STEP } from "../../lib/sweep-pipeline-pages/statuses.ts"
 import { readUncommitted } from "../../../page/uncommitted/uncommitted.ts"
@@ -114,9 +113,6 @@ export default async function pipelineRetry(args: readonly string[]): Promise<vo
     workflows: kin.workflowsByPipeline.get(seq) ?? [],
     stepsOf: (workflowSeq) => kin.stepsByWorkflow.get(workflowSeq) ?? [],
     failureOf: (stepSeq) => failureReasonOf(roots, stepSeq),
-    // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the checkout whose transport serves
-    // this branch is this one. `rootFor` throws for a repository nothing has cloned, so this threw
-    // before any retry could be planned.
     branchTip: servedTip(rootFor(roots, AKASHA), pipeline.branch),
   }
 

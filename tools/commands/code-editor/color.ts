@@ -8,8 +8,8 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { parseFrontmatter, textField } from "../../../page/frontmatter.ts"
 import { placeDirOf } from "../../../page/page-types.ts"
 import { pageFileIn } from "../../../page/page-file.ts"
-import { fileStemOf } from "../../../page/name/name"
-import { akashaRoot, resolveRoots } from "../../../repo/roots/roots"
+import { fileStemOf } from "../../../page/name/name.ts"
+import { akashaRoot, resolveRoots } from "../../../repo/roots/roots.ts"
 import { colorStatedOn, stateStandsAs } from "../../lib/seat-turn-color.ts"
 import { SEAT_TURN_STATES, type SeatTurnState } from "../../lib/seat-turn-state.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
@@ -194,23 +194,10 @@ function idsIn(at: string): readonly string[] {
   return ids.sort()
 }
 
-/**
- * Whether the source ASKS FOR this verb, as against merely naming it.
- *
- * MATCHED WITH ITS QUOTES. The source names the verb it asks for as a quoted argument, and the same
- * name also stands inside error text that mentions a verb without ever running it. A bare substring
- * cannot tell those apart, and reported a call to a verb the editor had already stopped asking for.
- */
 function asksFor(source: string, one: string): boolean {
   return [`"${one}"`, `'${one}'`, `\`${one}\``].some((quoted) => source.includes(quoted))
 }
 
-/**
- * Every TypeScript file under the shipped extension, joined.
- *
- * THE EDITOR LOADS THIS SOURCE ITSELF, so the source is what the running editor calls. Nothing
- * bundles it any more, and reading a bundle that no longer lands would report no calls at all.
- */
 function sourceOf(at: string): string {
   const held: string[] = []
   const walk = (folder: string): void => {
@@ -230,7 +217,6 @@ function sourceOf(at: string): string {
   return held.join("\n")
 }
 
-/** Whether a verb's file stands in any of these checkouts, which is what the editor resolves over. */
 function verbStands(one: string, roots: readonly string[]): boolean {
   return roots.some((root) => existsSync(`${root}/tools/${one}.ts`))
 }
@@ -373,7 +359,6 @@ function render(reading: Reading): readonly string[] {
 
 export default async function codeEditorColor(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  // The pages a color is stated on and the verbs the surfaces run both stand in akasha.
   const akasha = akashaRoot()
   const states = statesIn(akasha)
   const surfaces = surfacesIn(akasha)

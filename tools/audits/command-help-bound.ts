@@ -2,7 +2,7 @@ import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync, existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import type { AsyncCheck } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome.ts"
 import { workspacesIn } from "../../workspace-package/manifest-workspaces.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import { declaredCommands } from "../ops/declared.ts"
@@ -62,19 +62,6 @@ function lines(
     .sort()
 }
 
-/**
- * The pathspecs covering every workspace package's TypeScript.
- *
- * THE `packages/` PREFIX IS GONE. The `code` repository was absorbed into akasha and what stood at
- * `packages/infra/` now stands at `infra/`, `packages/shared/` at `shared/`, and so on for each
- * namespace, so no one prefix names them all any more. The manifest's own `workspaces` array is
- * what says which top-level directories hold packages; deriving from it keeps this in step with a
- * namespace added or dropped, where a list written out here would silently search less than it says.
- *
- * NOTHING NAMED IS NOT AN EMPTY SEARCH: a manifest stating no workspaces answers `null`, which the
- * caller refuses over. Reading it as "no packages" would search nothing and report every help
- * spelling bound.
- */
 export function workspacePathspecs(manifest: string): readonly string[] | null {
   const workspaces = workspacesIn(manifest)
   if (workspaces === null || workspaces.length === 0) return null
@@ -151,10 +138,6 @@ function claimedCommand(source: string, commands: ReadonlySet<string>): string |
 }
 
 export const commandHelpBound: AsyncCheck = async (repo) => {
-  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree holding these packages is this
-  // one. This read `repo.roots.code`, which answers `undefined` for a repository nothing has cloned,
-  // and skipped over a population of zero — a verdict `tools/run-checks.ts` counts as not-refused,
-  // so no help spelling anywhere was compared and the suite still wrote green.
   const codeRoot = rootFor(repo.roots, AKASHA)
   const specs = workspacePathspecs(read(`${codeRoot}/package.json`))
   if (specs === null) {

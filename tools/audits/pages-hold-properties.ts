@@ -1,7 +1,6 @@
-
 import { rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
-import { advise, over, skip } from "../../outcome/outcome"
+import { advise, over, skip } from "../../outcome/outcome.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { type CompiledPageType, compiledPageTypeFor, PROPERTY_ROOTS } from "../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../page/property/judge.ts"
@@ -13,16 +12,6 @@ const NAME = "pages-hold-properties"
 const UNIT = "claimed page(s)"
 const SHOWN = 12
 
-/**
- * The first few of one list, saying what the rest were.
- *
- * A TRUNCATION NOTICE NAMES ITS OWN LIST. This emitted a bare "… and N more", and a check that
- * shows two lists in one report emitted two of them, so a reader met two unlabelled tails and
- * could not tell which belonged to what. Worse, the summary above counts pages while a refusal
- * list counts lines — several per page — so the two numbers are true of one run and cannot be
- * reconciled. A seat read 373 failures off such a pair on 2026-08-27 and dispatched an agent
- * against them; the real figure was 3.
- */
 function first(lines: readonly string[], noun: string): readonly string[] {
   return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
@@ -33,7 +22,6 @@ interface KeyLine {
   readonly line: string
 }
 
-/** One clause of the summary, or nothing at all where the list it counts is empty. */
 function tally(named: readonly string[], lines: readonly KeyLine[], said: string): string {
   if (named.length === 0) return ""
   const carried = new Set(lines.map((one) => one.page)).size
@@ -42,16 +30,6 @@ function tally(named: readonly string[], lines: readonly KeyLine[], said: string
 
 const KEY = /^`([^`]+)`: /
 
-/**
- * The keys nothing states a type for, named once each rather than once per page.
- *
- * A COUNT OF LINES IS NOT A COUNT OF KEYS. This reported 369 and named none of them, and the 369
- * turned out to be nine keys over 287 pages, one of them carried 109 times. One line per page
- * would have buried the two lists beside this under the same nine names repeated, and the reader
- * would still not have had the nine. `judgeFrontmatter` writes each entry as `` `key`: why ``,
- * which is what this splits on; a line in another shape is grouped whole rather than dropped,
- * a key this cannot parse being still a key nobody has been told about.
- */
 function byKey(lines: readonly KeyLine[]): readonly string[] {
   const groups = new Map<string, KeyLine[]>()
   for (const one of lines) {

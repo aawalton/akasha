@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import { Glob } from "bun"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome.ts"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { buildFrom, readAt } from "../lib/graph/held-snapshot.ts"
@@ -93,11 +93,6 @@ function listOf(attrs: unknown, field: string): readonly string[] {
   return Array.isArray(held) ? held.filter((one): one is string => typeof one === "string") : []
 }
 
-/**
- * THE REPOSITORY LABEL THIS GRAPH'S NODES CARRY, which is a name inside the graph rather than a
- * root. It was the roots module's `CODE`, which went when the `code` repository stopped being
- * addressable; the label it spelled has to stay, every node key here being built from it.
- */
 const CODE_NODE_REPO = "code"
 
 function codeNode(type: string, key: string): NodeId {
@@ -235,17 +230,6 @@ function seedsOf(graph: Graph, workflow: Node): ReadonlySet<NodeId> {
   return seeds
 }
 
-/**
- * The directories a foundation workflow's synth sources stand in.
- *
- * A `synth-emits` EDGE RUNS FROM THE WORKFLOW to each resource it sets up and carries the
- * `sourcePath` of the synth source that emitted it. That is the only declared link between a
- * workflow and its service directory; a `workflow-template` page states no property naming one.
- *
- * THE PAGE'S OWN PATH IS NOT THAT DIRECTORY. `sourcePath` on the workflow node names the page's
- * declaration attachment, so its `dirname` is always `pages/workflow-template`, which holds no
- * synth source at all.
- */
 function synthDirsOf(graph: Graph, workflow: Node): readonly string[] {
   const dirs = new Set<string>()
   for (const edge of graph.outEdges(workflow.id, [SYNTH_EMITS_EDGE_TYPE])) {
@@ -280,11 +264,6 @@ function blind(detail: string): { readonly detail: string; readonly reported: re
 
 export const foundationSynthWatch: AsyncCheck = async (repo) => {
   const nothing = over(0, UNIT)
-  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree these synth sources stand in is
-  // this one. This read `repo.roots.code`, which answers `undefined` for a repository nothing has
-  // cloned, and judged over a population of zero — no snapshot was taken and no foundation workflow
-  // was weighed, while the suite counted the verdict as not-refused. The graph's own node label for
-  // that repository is `CODE_NODE_REPO` above, which is a name in the graph rather than a root.
   const codeRoot = rootFor(repo.roots, AKASHA)
 
   let commit: string
@@ -325,9 +304,6 @@ export const foundationSynthWatch: AsyncCheck = async (repo) => {
 
   for (const workflow of workflows) {
     const dirs = synthDirsOf(graph, workflow)
-    // A FOUNDATION WORKFLOW THAT EMITS NO RESOURCE FROM A SYNTH SOURCE HAS NONE TO WATCH, and is
-    // weighed by no case here rather than counted as covered. `emitting` records how many did, so
-    // the guard below can tell a tree with nothing to say from an instrument finding nothing.
     if (dirs.length === 0) continue
     emitting += 1
     const beside = new Set<string>()
@@ -353,12 +329,6 @@ export const foundationSynthWatch: AsyncCheck = async (repo) => {
     }
   }
 
-  // A POPULATION OF ZERO OVER WORKFLOWS THAT WERE FOUND IS THE INSTRUMENT, NOT THE TREE. This read
-  // the workflow page's own path as the service directory, so it scanned `pages/workflow-template`
-  // for every workflow and found no synth source there. That directory stood in the other
-  // repository until akasha absorbed `code`, so the branch above called every workflow unreadable
-  // and the check was loud; pointing it at this root turned the same emptiness into a pass over
-  // nothing while the tree held synth sources all along.
   if (workflows.length > 0 && sources === 0) {
     const said = blind(
       `${workflows.length} foundation workflow(s) were weighed and ${emitting} of them emit from a ` +
