@@ -15,15 +15,3 @@ required-reading-slugs:
 # Design
 
 A daemon runs one tick at a time.
-
-# Rules
-
-## Daemon Composition
-
-**Compose every daemon through `runLongRunningWorker`, and emit `worker.loop_duration_ms` each tick.**
-
-Composing is what times a tick, and an untimed tick leaves a wedged daemon reading as an idle one.
-
-No `connect` on the pool means no heartbeat row.
-
-A composed tick is timed; a wrapper doubles rows.
