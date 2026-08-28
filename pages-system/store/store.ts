@@ -108,7 +108,12 @@ export const holdingsOf = (root: string, pageType: string): Held => {
 }
 
 /**
- * Where every page of a page type stands, in whatever order they were found.
+ * Where every page of each page type named stands, by page type, in whatever order they were found.
+ *
+ * THE WHOLE SET, ONE WALK. The tree is walked once and every page type asked for is filled out of
+ * that one walk. Asking one page type at a time walks the whole tree again for each, and that walk
+ * costs the same whether the page type has a thousand pages or none, which is most of what a pass
+ * over many page types costs.
  *
  * AN ADDRESS IS THIS PACKAGE'S TO READ. A page held in a file is addressed by the repository it
  * stands in and its path below that repository's root; a page held as a row is addressed by the
@@ -116,21 +121,58 @@ export const holdingsOf = (root: string, pageType: string): Held => {
  *
  * ONE CALL READS ONE REPOSITORY, and a caller reading across every repository makes one call each.
  *
- * THE PAGE TYPE NEED NOT STAND. A slug naming no page type answers no pages, the same as one whose
- * pages are all gone, because what makes a file a page of this type is its own name and nothing
- * asks a page type. Whether the page type stands is `declarationOf`'s answer.
+ * EVERY PAGE TYPE ASKED FOR IS ANSWERED, holding nothing where no page of it stands. A page type
+ * with no pages is a true empty rather than a failure, so it stands in the answer holding an empty
+ * list. This is the other way round from `declarationsFor`, where being absent is how a page type
+ * that does not stand is reported.
+ *
+ * WHETHER THE PAGE TYPE STANDS IS NOT ASKED HERE, so a slug naming no page type answers no pages,
+ * the same as one whose pages are all gone. What makes a file a page of a type is its own name; and
+ * a page type is declared in akasha while this reads whichever repository it is handed, so standing
+ * could not be told from this root anyway. Whether a page type stands is `declarationOf`'s answer.
  *
  * A PAGE TYPE WHOSE PAGES ARE ROWS ANSWERS NONE OF THEM YET. Nothing here reads a sidecar, so a
  * page type stating `files: none` answers empty rather than refusing — which is the one place a
  * caller can still tell, and the reason the row half is worth adding before a caller relies on it.
  *
+ * WHAT IS ASKED FOR IS WALKED EXACTLY ONCE. A generator satisfies `Iterable` and is spent after one
+ * pass, so walking it a second time would find nothing and answer no pages for every page type
+ * asked about — a silent empty answer where a refusal belongs. The slugs are collected in that one
+ * walk, and everything after it works from what was collected.
+ *
+ * NOTHING ASKED FOR IS NOT WALKED FOR. A call naming no page type answers nothing without walking,
+ * a walk being the whole cost here and there being nothing to fill from it.
+ *
  * NO ORDER IS PROMISED. A caller wanting one sorts, and a query wanting one has nowhere to say so
  * yet.
  */
+export const pagesFor = (
+  repo: Repo,
+  pageTypes: Iterable<string>
+): Map<string, readonly string[]> => {
+  const asked = new Set<string>()
+  for (const one of pageTypes) asked.add(one)
+  const pages = new Map<string, readonly string[]>()
+  if (asked.size === 0) return pages
+  const found = pagesUnder(repo.root, asked)
+  for (const one of asked) {
+    pages.set(
+      one,
+      (found.get(one) ?? []).map((at) => addressIn(repo.repo, at))
+    )
+  }
+  return pages
+}
+
+/**
+ * Where every page of a page type stands, in whatever order they were found.
+ *
+ * ONE PAGE TYPE COSTS THE WHOLE WALK, this being `pagesFor` asked for one, so that what the singular
+ * answers cannot drift from what the plural answers. A caller wanting several asks the plural once
+ * rather than this once each.
+ */
 export const pagesOf = (repo: Repo, pageType: string): readonly string[] =>
-  (pagesUnder(repo.root, new Set([pageType])).get(pageType) ?? []).map((at) =>
-    addressIn(repo.repo, at)
-  )
+  pagesFor(repo, [pageType]).get(pageType) ?? []
 
 /**
  * What one page holds, under the types its page type declares, or why it could not be read.

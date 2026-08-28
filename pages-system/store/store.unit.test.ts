@@ -3,7 +3,7 @@ import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
 import type { Repo } from "./address.ts"
 import { declarationOf, extendingIn } from "./declared.ts"
-import { holdingsOf, pageAt, pagesOf, type Unread } from "./store.ts"
+import { holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./store.ts"
 
 /**
  * The repository this store is read over. A store reads a repository, so what it is tested against
@@ -75,6 +75,37 @@ test("no rows spelling in this repository is beyond what the store reads", () =>
 
 test("a page type whose pages are rows answers none of them, nothing here reading a sidecar", () => {
   expect(pagesOf(REPO, "session-tracking")).toEqual([])
+})
+
+test("every page type asked for at once is answered the pages named for it and no other", () => {
+  const many = pagesFor(REPO, ["seat", "command", "domain"])
+  for (const slug of ["seat", "command", "domain"]) {
+    const found = many.get(slug)
+    if (found === undefined) throw new Error(`no answer for ${slug}`)
+    expect(found.length).toBeGreaterThan(0)
+    for (const at of found) expect(at.endsWith(`.${slug}.md`)).toBe(true)
+  }
+})
+
+test("a page type standing with no page of its own is answered nothing, never left out", () => {
+  const many = pagesFor(REPO, ["seat", "session-tracking"])
+  expect(many.has("session-tracking")).toBe(true)
+  expect(many.get("session-tracking")).toEqual([])
+  expect(many.get("seat")?.length).toBeGreaterThan(0)
+})
+
+test("a slug naming no page type is answered no pages, a file being a page by its own name", () => {
+  const many = pagesFor(REPO, ["no-page-type-is-spelt-this-way"])
+  expect(many.has("no-page-type-is-spelt-this-way")).toBe(true)
+  expect(many.get("no-page-type-is-spelt-this-way")).toEqual([])
+})
+
+test("what is asked for is walked once, so a generator is answered in full", () => {
+  const asking = function* () {
+    yield "seat"
+    yield "command"
+  }
+  expect([...pagesFor(REPO, asking()).keys()].sort()).toEqual(["command", "seat"])
 })
 
 test("a page holds what it states, under the type its page type declares", () => {
