@@ -5,11 +5,12 @@ import { listPageSkeleton } from "@shared/design-layout/components/skeleton-pres
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import { useFilterPersistence } from "@shared/design-patterns/hooks/use-filter-persistence"
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 import { CompanionsDataContent } from "@/components/companions/companions-data-content"
-import type { SortDirection, SortField } from "@/components/companions/companions-filter-bar"
+import type { SortField } from "@/components/companions/companions-filter-bar"
 import {
   BASE_ROLES,
   type FilterValues,

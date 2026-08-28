@@ -8,13 +8,12 @@ import { SearchButton } from "@shared/design-patterns/components/search-button"
 import { SearchSortFilterRow } from "@shared/design-patterns/components/search-sort-filter-row"
 import { SortButton } from "@shared/design-patterns/components/sort-button"
 import { type SortDirection, type SortOption } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import { targetArmor } from "@temper/game-characters-character/target-armor-data"
 import { companions } from "@temper/game-companions-core/companions-data"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"
-export type { SortDirection }
 
 type FilterId = "role" | "target-armor" | "target-count" | "target-health" | "companion"
 const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>([

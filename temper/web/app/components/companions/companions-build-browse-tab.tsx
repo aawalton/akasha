@@ -3,15 +3,12 @@
 import { Badge, Button, Card, CardContent, PageTabHeader, PageTabTitleBadges, PaginatedCardGrid, PanelToggleProvider } from "@shared/design-system"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import { getCompanionName } from "@temper/game-companions-core/companions-data"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"
 import { CompanionListCardWithHandle } from "@/components/companions/companion-list-card-with-handle"
-import {
-  CompanionsFilterBar,
-  type SortDirection,
-  type SortField,
-} from "@/components/companions/companions-filter-bar"
+import { CompanionsFilterBar, type SortField } from "@/components/companions/companions-filter-bar"
 import type { FilterValues } from "@/components/companions/companions-filter-types"
 import { NewCompanionButton } from "@/components/companions/new-companion-button"
 import { NewCompanionPanelCard } from "@/components/companions/new-companion-panel-card"

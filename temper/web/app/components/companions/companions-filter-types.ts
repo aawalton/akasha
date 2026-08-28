@@ -1,4 +1,5 @@
 import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
 import {
   type TargetArmorId,
   targetArmor,
@@ -7,7 +8,7 @@ import { companionBaseRoles } from "@temper/game-companions-core/companion-base-
 import { type CompanionId, companions } from "@temper/game-companions-core/companions-data"
 import { type CompanionEquipmentQualityId } from "@temper/game-companions-core/equipment/companion-equipment-quality-data"
 import { companionEquipmentQualities } from "@temper/game-companions-core/generated/temper-companion-equipment-quality.generated"
-import type { SortDirection, SortField } from "@/components/companions/companions-filter-bar"
+import type { SortField } from "@/components/companions/companions-filter-bar"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"
 
