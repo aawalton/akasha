@@ -33,5 +33,3 @@ In college I surveyed strangers, probed, aggregated across people and acted on t
 What complete enough actually requires, how much coverage and what fidelity, and what would say it had arrived, is unmined.
 
 Whether clarity and compression ever get the whole picture onto one machine, and how to compress it without losing the thing it compresses, is open.
-
-Reading it back returns the fact of what I did and not the experience of it. What that leaves the corpus able to do for me, as against what it can do for a sister running what-ifs off it, is unworked.

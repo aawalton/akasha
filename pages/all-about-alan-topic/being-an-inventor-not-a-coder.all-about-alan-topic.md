@@ -6,7 +6,7 @@ slug: being-an-inventor-not-a-coder
 topic-parents-slugs: alan
 topic-related-slugs:
   - the-code-in-my-family
-  - why-i-stopped-working
+  - how-i-came-out-of-computer-science
   - how-i-know-things
 ---
 
@@ -15,14 +15,6 @@ topic-related-slugs:
 - **Being An Inventor Not A Coder** — what I actually am, against the trade I was raised into
 
 # Design
-
-I was a programmer in one form or another professionally for eighteen years.
-
-I put computer science as my major on my college application, and then changed it the first day of school.
-
-I went through eleven different majors and ended on Math.
-
-I only took one CS course, and finished it in a week.
 
 I am an excellent coder, but that has never been my identity.
 
@@ -35,8 +27,6 @@ One of my proudest moments was inventing a novel algorithm for optimising The Ga
 I am doing the same thing now that I was a year ago, just with literally a hundred times more leverage than I had before.
 
 # Questions
-
-The eleven majors are a count with no list. What they were, and what moved me off each, is unwritten.
 
 The Game of Life algorithm is named and never described.
 

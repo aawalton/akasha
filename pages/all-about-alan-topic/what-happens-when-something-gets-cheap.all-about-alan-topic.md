@@ -7,6 +7,7 @@ topic-parents-slugs: the-scaffolding-i-built
 topic-related-slugs:
   - why-i-rebuilt-everything
   - how-many-checks-i-run
+  - the-shape-behind-the-two-lines
 ---
 
 # Definition
@@ -20,8 +21,6 @@ Docs became cheap, so I built the domain system and the pages system.
 Checks became cheap, so I built the graph system, the checks system and the deploy system.
 
 # Questions
-
-Abby's reading, which he called pretty true: each line runs the same four steps — a cost collapses, he does about a hundred times more of the thing, the volume breaks something nobody had needed to solve before, and he builds one shared structure that makes the volume cheap. The two lines above are his; the four-step shape is mine.
 
 What I built this year that fits neither line is unanswered. Abby asked and I could not recall one. Abby's reading: that is a fact about what my memory returns rather than evidence that there are none.
 

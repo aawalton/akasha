@@ -4,7 +4,9 @@ page-type-slug: all-about-alan-topic
 title: "When My Docs Are My Code"
 slug: when-my-docs-are-my-code
 topic-parents-slugs: why-i-keep-my-data-in-files
-topic-related-slugs: the-graph-i-built-to-run-my-checks
+topic-related-slugs:
+  - the-graph-i-built-to-run-my-checks
+  - what-changes-when-i-change-a-doc
 ---
 
 # Definition
@@ -14,14 +16,6 @@ topic-related-slugs: the-graph-i-built-to-run-my-checks
 # Design
 
 More of the system is defined in structured agent-readable documents, and in many cases the code runs directly off the documentation.
-
-Running the code off the documentation helps keep them aligned.
-
-When the documentation changes, the code might change.
-
-I need granular cache invalidation at scale, so I can answer questions like "with this file change, which checks need to run and which services need to deploy?"
-
-That answer comes primarily from a set of git oids and some cached edges between nodes in the graph system.
 
 Data, docs and code being the same thing is a whole different universe from where software products have lived in the past, with the three separate.
 

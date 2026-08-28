@@ -22,4 +22,4 @@ Where the ladder tops out is open. Door-knocking in a foreign language sits abov
 
 The downward probe assumes an ordered list of easier things to walk down. Is that list these rungs, or a finer personal ordering I actually step through?
 
-The rebuild was priced at rung three in a question I answered rather than in words of my own. Abby's note: he confirmed the cost at that framing without naming the rung himself, so three is unconfirmed.
+The rebuild was priced at rung three in a question I answered rather than in my own words. Abby's note: he confirmed the cost at that framing without naming the rung, so three is unconfirmed.

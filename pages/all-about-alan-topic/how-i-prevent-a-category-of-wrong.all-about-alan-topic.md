@@ -8,6 +8,7 @@ topic-related-slugs:
   - what-the-book-of-me-is-for
   - why-i-rebuilt-everything
   - how-many-checks-i-run
+  - the-three-ways-an-agent-gets-it-wrong
 ---
 
 # Definition
@@ -24,15 +25,9 @@ Checks always win. Instructions are only for things a check cannot catch.
 
 That includes telling agents what the checks are catching, so agents do not corrupt the checks.
 
-On the instructions side the big categories of wrong I have seen are an agent seeing a term and assuming it meant something different than it did in this context, an agent assuming something would be implemented in a different way than it was, and an agent just doing the wrong thing for this context.
-
-The domain system is a set of well-refined tools for addressing those directly and concisely without context bloat: Domain Definition, Domain Invariants, Domain Directives.
-
 The failure neither a check nor an instruction can prevent is agents not knowing what is in my head.
 
 # Questions
-
-Whether those three instruction-side categories are the whole set, or the three I have hit most, is not settled.
 
 Abby's reading: the residue is what this book is for, and the interview is the only instrument aimed at it. Nothing yet says how much of it an interview can actually reach.
 

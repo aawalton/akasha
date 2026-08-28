@@ -7,6 +7,7 @@ topic-parents-slugs: how-many-checks-i-run
 topic-related-slugs:
   - when-my-docs-are-my-code
   - how-my-services-decide-to-deploy
+  - what-the-graph-is-made-of
 ---
 
 # Definition
@@ -25,13 +26,7 @@ Building the graph once and using it many times solved the performance issue.
 
 I have not heard anyone else talk about that.
 
-It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.
-
-Parts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places.
-
 # Questions
-
-Where the graph draws from something other than pages, the filesystem or code is unlisted.
 
 What building the graph costs, and whether that cost grows with the number of checks or only with the size of the tree, is unrecorded.
 
