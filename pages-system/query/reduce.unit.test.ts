@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Value, Values } from "../formula/formula.ts"
-import type { Page } from "./query.ts"
-import { reducedFor, reducedOf } from "./reduce.ts"
+import { type Checked, checkQuery, type Declared, type Page, type Query } from "./query.ts"
+import { reducedFor, reducedOf, runReduction } from "./reduce.ts"
 
 const pageOf = (at: string, properties: Record<string, Value>): Page => ({
   at,
@@ -119,4 +119,39 @@ test("reducing reads the pages and changes none of them", () => {
   const pages = [pageOf("a", { length: number(3) })]
   reducedFor(pages, ["length"], "sum")
   expect(pages[0]?.values.properties["length"]).toEqual(number(3))
+})
+
+/** A page type declaring `length` a number, which is what a reduction over it is held to. */
+const declaredLength: Declared = { properties: { length: { type: { kind: "number" } } }, beyond: {} }
+
+const checkedOf = (query: Query): Checked => {
+  const answer = checkQuery(query, declaredLength)
+  if (!answer.ok) throw new Error(`refused: ${answer.message}`)
+  return answer
+}
+
+test("a query that states no reduction answers null rather than a value", () => {
+  expect(runReduction(checkedOf({ pageType: "episode" }), three)).toBeNull()
+})
+
+test("a reduction runs over the pages it is handed", () => {
+  const query = checkedOf({ pageType: "episode", function: "sum", target: "length" })
+  expect(runReduction(query, three)).toEqual({ value: number(12), over: 3 })
+})
+
+test("a reduction over pages the query found none of answers absent over nought", () => {
+  const query = checkedOf({ pageType: "episode", function: "sum", target: "length" })
+  expect(runReduction(query, [])).toEqual({ value: ABSENT, over: 0 })
+})
+
+test("a query reducing nothing and a reduction finding nothing are not one answer", () => {
+  const reduces = checkedOf({ pageType: "episode", function: "mean", target: "length" })
+  const does_not = checkedOf({ pageType: "episode" })
+  expect(runReduction(does_not, three)).toBeNull()
+  expect(runReduction(reduces, [])).toEqual({ value: ABSENT, over: 0 })
+})
+
+test("what a reduction runs over is what the query answered, never the pages as they were read", () => {
+  const query = checkedOf({ pageType: "episode", function: "sum", target: "length" })
+  expect(runReduction(query, three.slice(0, 2))).toEqual({ value: number(7), over: 2 })
 })
