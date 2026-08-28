@@ -1,4 +1,3 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import type { Attributes } from "../lib/attributes.ts"
 import { type Said, statedNow } from "../lib/seat-stated.ts"
@@ -37,9 +36,6 @@ beforeAll(() => {
     "pages/initiative/seat-identity.initiative.md",
     "---\nslug: seat-identity\n---\n\n# Definition\n\n- **Seat identity** — what a seat is.\n"
   )
-  // A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
-  // `seats/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory
-  // repository is absorbed, so nothing reads that variable, and the seat place moved.
   at.put(
     `agent/seat/${SEAT}.seat.md`,
     [

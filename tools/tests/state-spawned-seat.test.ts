@@ -1,14 +1,9 @@
-
 import { afterAll, afterEach, beforeAll, describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { stateSpawnedSeat } from "../lib/state-spawned-seat.ts"
 
 const AGENT = "01a0aaaa-bbbb-7ccc-8ddd-eeeeffff0000"
 
-// `AKASHA_ROOT` NAMES THE REPOSITORY THE COMMAND IS RUN OUT OF. `state-spawned-seat.ts` spawns
-// `${akashaRoot()}/tools/seat-call.ts`, so the recorder each case reads is only reached while this
-// names the temp tree; against the live checkout the real `seat-call.ts` runs and writes no
-// `calls.jsonl` here at all.
 const stood = process.env.AKASHA_ROOT
 
 let root: string

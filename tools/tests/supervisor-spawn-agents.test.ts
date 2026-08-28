@@ -1,4 +1,3 @@
-
 import { describe, expect, it } from "bun:test"
 import { decided, hold } from "../lib/digest-harness.ts"
 import { shape } from "../lib/shape.ts"
@@ -97,9 +96,6 @@ interface LaunchCase {
   readonly standing: string | null
 }
 
-// `AKASHA_ROOT` IS THE ROOT THIS READS, and the case turns on it naming a tree that is not
-// there. Left alone it would run against the live checkout, where the command is there and
-// answers definitions, which is not what this case is about.
 const LAUNCHED: readonly LaunchCase[] = [
   {
     name: "resolves to no flag rather than throwing into the launch",

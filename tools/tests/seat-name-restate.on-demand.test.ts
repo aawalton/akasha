@@ -24,16 +24,6 @@ function livingProcKey(): string {
   return formatSeatProcKey({ pid, startTicks: readProcStartTicks(pid) ?? 0 })
 }
 
-/**
- * The vocabulary every name below is spelled from, planted rather than borrowed.
- *
- * THIS SET IS THE SUBJECT, not scenery. `restateSeatName` reads the personas, persons, domains and
- * roles out of the akasha root to decide which family a held name belongs to, and each case below
- * turns on that answer: `athena` moves because it is a persona and `alan` is left alone because it
- * is a person, `athena-reviewer` matches no shape because `reviewer` is no role here. Leaving the
- * live checkout to supply these made every one of those answers a fact about the repository on the
- * day the test ran.
- */
 function vocabulary(): void {
   at.document("pages/domain/global.domain.md", 'page-type-slug: domain\nslug: global\ntitle: "Global"\ndomain-parent-slug: global', 20)
   at.document("pages/domain/agent-harness.domain.md", 'page-type-slug: domain\nslug: agent-harness\ntitle: "Agent harness"\ndomain-parent-slug: global', 20)
@@ -44,8 +34,6 @@ function vocabulary(): void {
   at.document("pages/role/worker.role.md", 'page-type-slug: role\nslug: worker\ntitle: "Worker"\ndomain-parent-slug: global', 20)
   at.document("pages/role/recorder.role.md", 'page-type-slug: role\nslug: recorder\ntitle: "Recorder"\ndomain-parent-slug: global', 20)
   at.document("pages/role/handler.role.md", 'page-type-slug: role\nslug: handler\ntitle: "Handler"\ndomain-parent-slug: global', 20)
-  // A TASK STANDS HERE ONLY SO THE CORPUS IS NOT EMPTY: reading the tasks out of a tree holding
-  // none is refused as a dead read rather than answered with nothing. No name below spells it.
   at.document("pages/task/build-change.task.md", 'page-type-slug: task\nslug: build-change\ntitle: "Build change"\ndomain-parent-slug: global', 20)
 }
 
@@ -54,10 +42,6 @@ beforeAll(() => {
   seatStore(at)
   vocabulary()
   indexFixture(at)
-  // A SEAT PAGE STANDS UNDER `agent/seat` IN AKASHA — `SEAT_PLACES` in `tools/lib/agent-page-place.ts`.
-  // These were planted as `<memory>/seats/<name>.md`, which no reader has looked at since the memory
-  // repository was absorbed, so every case read a seat that was not there and was answered as one
-  // wearing no name at all.
   seats = `${at.root}/agent/seat`
   other = Bun.spawn(["sleep", "600"], { stdout: "ignore", stderr: "ignore" })
 })

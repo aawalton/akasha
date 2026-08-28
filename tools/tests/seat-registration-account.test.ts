@@ -1,4 +1,3 @@
-
 import { afterEach, beforeEach, describe, expect, it } from "bun:test"
 import { registrationAccountOf } from "../lib/seat-registration-account.ts"
 import { type Fixture, fixture } from "./fixture.ts"
@@ -12,9 +11,6 @@ const ELSEWHERE = "/nowhere/.claude/accounts/somebody-else"
 let at: Fixture
 let heldConfig: string | undefined
 
-// A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
-// `pages/seat/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory
-// repository is absorbed, so nothing reads that variable, and the seat place moved.
 function plant(frontmatter: readonly string[]): void {
   at.put(`agent/seat/${SEAT}.seat.md`, ["---", ...frontmatter, "---", ""].join("\n"))
 }

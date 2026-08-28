@@ -1,4 +1,3 @@
-
 import { describe, expect, test } from "bun:test"
 import { resolveAttributes, scan } from "../lib/seat-resolve.ts"
 import { personaDefaultsOf } from "../lib/compose-seat-name.ts"
@@ -145,8 +144,6 @@ describe("the sort", () => {
   })
 })
 
-// `AKASHA_ROOT` NAMES THE TEMP REPO, and each child resolves its slugs against the root it names,
-// so a spawn that left it alone would resolve against the live checkout.
 async function runResolve(at: Fixture, args: readonly string[]): Promise<{ code: number; out: string; err: string }> {
   const child = Bun.spawn(["bun", SEAT_COMMAND, "--resolve", ...args], {
     env: { ...process.env, AKASHA_ROOT: at.root, HOME: at.home },

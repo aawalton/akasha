@@ -1,4 +1,3 @@
-
 import { describe, expect, it } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
@@ -52,11 +51,6 @@ describe("a decision this side could not reach still drives the respawn", () => 
     return undefined
   }
 
-  // `AKASHA_ROOT` IS WHAT NAMES AN EMPTY TREE: left alone the root stays the live checkout and
-  // `supervisor-decide.ts` is found there, so the one arm this case exists to drive never runs.
-  //
-  // IT IS GIT-INITED because `resolveRoots` names a root only where it is cloned, and
-  // `askSupervisorDecide` asks `rootFor`, which throws for a repository standing nowhere.
   async function underEmptyRoot(run: () => Promise<undefined>): Promise<undefined> {
     const root = mkdtempSync(join("/var/tmp", "resume-asks-root-"))
     Bun.spawnSync(["git", "init", "-q", root])

@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { SEAT_TURN_STATES } from "../lib/seat-turn-state.ts"
 import { colorOfState, colorStatedOn, stateStandsAs } from "../lib/seat-turn-color.ts"
-import { akashaRoot } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 const AKASHA = akashaRoot()
 
@@ -25,9 +25,6 @@ describe("the color a state is drawn in", () => {
     }
   })
 
-  // The surfaces all ask this way, naming no root, so this is the reading that goes dark when the
-  // root resolves to a repository the domain pages do not stand in. Passing a root above exercises
-  // the read and not the resolution, and the two came apart once already.
   test("every state is drawn in a color with no root named, which is how every surface asks", () => {
     for (const state of SEAT_TURN_STATES) {
       expect(colorOfState(state)).not.toBeNull()

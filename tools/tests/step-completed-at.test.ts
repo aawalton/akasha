@@ -1,6 +1,6 @@
 import { afterAll, expect, it } from "bun:test"
 import { copyFileSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 import { applyEffect, transition } from "../lib/sweep-pipeline-pages/effects.ts"
 import { LAUNCHING, PASSED, RUNNING, STEP } from "../lib/sweep-pipeline-pages/statuses.ts"
 import { readUncommitted, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"
@@ -13,17 +13,6 @@ afterAll(() => {
   for (const one of made) rmSync(one, { recursive: true, force: true })
 })
 
-/**
- * A checkout holding one step page, named as the repository every page stands in.
- *
- * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
- * goes wrong only where something asks for the one that does. Naming `akasha` is what gives the
- * code under test a root to reach at all.
- *
- * THE STEP PAGE TYPE IS COPIED IN. The registry is read from the roots named here and nowhere
- * else, and `whereFor` places a step by the `files:` its page type states, so a checkout without
- * that page type holds a step page no reader can find.
- */
 function stepStanding(seq: string, status: string): Roots {
   const root = mkdtempSync("/var/tmp/step-completed-at-")
   made.push(root)

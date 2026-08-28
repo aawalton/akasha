@@ -5,9 +5,6 @@ import { indexFixture, namedIn, plantInitiative, seatStore } from "./seat-fixtur
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
-// WHERE THE CODE IS, as against where the pages are. `AKASHA_ROOT` names the fixture, and
-// `codeRoot()` in `tools/lib/code-root.ts` answers the akasha root unless `CODE_ROOT` names
-// another — the fixture holds no `node_modules`.
 const LIVE = `${import.meta.dir}/../..`
 
 const AGENTS = [
@@ -214,9 +211,6 @@ describe("--help", () => {
   test("names the initiative flag and offers every key to --clear", () => {
     const at = fixture()
     try {
-      // THE REPOS ARE READ OFF THE PAGES, so `repo/roots/roots.ts` builds `REPOS` at import and
-      // throws against a root holding no `pages/repo/*-repo.repo.md` — even under --help, which
-      // answers before it reaches a store of its own.
       seatStore(at)
       const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--help"], {
         env: { ...process.env, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },

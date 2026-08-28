@@ -5,11 +5,11 @@ export const tool = {
 
 import { readFileSync } from "node:fs"
 import { git } from "../repo/git/git.ts"
-import { fileStemOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name.ts"
 import { extractLinks } from "./lib/links.ts"
-import { type Roots } from "../page/page"
-import { normalizeAbsolute } from "../repo/path/path"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
+import { type Roots } from "../page/page.ts"
+import { normalizeAbsolute } from "../repo/path/path.ts"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 
 const HELP = `bun tools/unreached.ts — the quarantined documents nothing cites, one path per line
 
@@ -176,13 +176,6 @@ function main(): void {
     for (const subject of citedBy(body, relPath, roots, byPath, bySlug)) note(subject, relPath)
   }
 
-  // THE CODE REPO IS GONE, absorbed into akasha, so this second pass runs over the same tree the
-  // first one did. It is not redundant: the pass above reads only markdown, and this one reads
-  // every tracked file, which is where a citation left behind as literal path text now lives.
-  //
-  // A QUARANTINED FILE IS SKIPPED HERE as it is above. The old pass had no `dirty/` to walk, so it
-  // never needed the test; over akasha it does, and without it two quarantined documents naming
-  // each other would each read as reached and neither would be listed.
   const sourceRoot = rootFor(roots, AKASHA)
   const sourceFiles = tracked(sourceRoot, sourceRoot)
   for (const relPath of sourceFiles) {

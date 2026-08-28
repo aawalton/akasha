@@ -1,4 +1,3 @@
-
 import { afterEach, describe, expect, it } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { decided, hold } from "../lib/digest-harness.ts"
@@ -54,17 +53,12 @@ async function run(vector: Vector): Promise<Trace> {
   const root = scratch("root")
   const tmpDir = scratch("tmp")
   mkdirSync(`${root}/tools`, { recursive: true })
-  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git`
-  // — and `materializeBootPrompt` asks `rootFor`, which throws for a repository standing nowhere.
   Bun.spawnSync(["git", "init", "-q", root])
   if (vector.mode !== null) writeFileSync(`${root}/tools/compose-boot.ts`, stubComposer(vector.mode))
   if (vector.blockTarget === true) {
     mkdirSync(`${tmpDir}/agent-boot-prompt-${vector.agentId}.md`, { recursive: true })
   }
 
-  // `AKASHA_ROOT` IS WHAT NAMES THIS TEMP TREE: `materializeBootPrompt` looks for the composer
-  // under the root this names, so a case that left it alone would look in the live checkout —
-  // where the composer is there, and the cases turning on its absence would not hold.
   const before = process.env.AKASHA_ROOT
   process.env.AKASHA_ROOT = root
   const logs: string[] = []

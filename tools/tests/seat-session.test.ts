@@ -1,4 +1,3 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { sessionOf } from "../lib/seat-session.ts"
 import { type Fixture, fixture } from "./fixture.ts"
@@ -13,9 +12,6 @@ const STATED = "99999999-8888-4777-8666-555555555555"
 
 let at: Fixture
 
-// A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
-// `seats/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory repository
-// is absorbed, so nothing reads that variable, and the seat place moved.
 function page(agent: string, seat: string, session: string): void {
   at.put(
     `agent/seat/${seat}.seat.md`,

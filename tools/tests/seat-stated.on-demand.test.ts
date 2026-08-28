@@ -1,4 +1,3 @@
-
 import { describe, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
@@ -56,8 +55,6 @@ describe("a seat page with no live process", () => {
     try {
       const agent = unrunning()
       plantWhole(at, agent)
-      // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names,
-      // so a child pointed here throws in `repo/roots/roots.ts` before `statedOf` says anything.
       installRepos(at.root)
       const script = `${at.home}/read-one.ts`
       writeFileSync(
@@ -66,8 +63,6 @@ describe("a seat page with no live process", () => {
           "console.log(JSON.stringify(statedOf(process.argv[2])))\n"
       )
 
-      // `AKASHA_ROOT` IS NAMED RATHER THAN INHERITED: this env is bare so that nothing on PATH can
-      // be shelled out to, so the root the fixture set in `process.env` does not carry into it.
       const run = Bun.spawnSync([process.execPath, script, agent], { env: { HOME: at.home, AKASHA_ROOT: at.root, PATH: "" } })
 
       expect(run.stderr.toString()).toBe("")
