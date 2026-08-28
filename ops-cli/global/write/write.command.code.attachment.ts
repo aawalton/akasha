@@ -1,6 +1,6 @@
 export const summary = "Write whole files as a patch, gated before anything lands"
 
-import { existsSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, fstatSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
@@ -106,6 +106,26 @@ function removalsNamed(argv: readonly string[]): readonly string[] {
   return found
 }
 
+/**
+ * Whether a body could be waiting on stdin, answered without reading it.
+ *
+ * A REMOVAL-ONLY CALL READS NO PAYLOAD, so an open stdin cannot hang it, and a body piped in would
+ * be dropped. Refusing every stdin that is not a terminal would refuse `< /dev/null` too, which is
+ * how a script says the removal stands alone. A character device and an empty file carry nothing.
+ * A pipe cannot be told apart from an empty one without the read that would hang, so it is refused.
+ */
+function couldCarryBody(): boolean {
+  if (process.stdin.isTTY === true) return false
+  try {
+    const held = fstatSync(0)
+    if (held.isCharacterDevice()) return false
+    if (held.isFile()) return held.size > 0
+    return true
+  } catch {
+    return false
+  }
+}
+
 function bytesAside(body: string | Uint8Array): string {
   const at = `${mkdtempSync(`${SCRATCH}/mp-body-`)}/body`
   writeFileSync(at, body)
@@ -173,7 +193,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
   // A BODY NOTHING WILL READ IS REFUSED RATHER THAN DROPPED. A call that only takes files away
   // reads no payload, so an open stdin cannot hang it — but a caller who piped a body in meant one
   // act, and the half that would land alone is the half that destroys.
-  if (!reads && pairs.length === 0 && takingAway && process.stdin.isTTY !== true) {
+  if (!reads && pairs.length === 0 && takingAway && couldCarryBody()) {
     fail(
       `this call takes ${named.length} path(s) away and names no body, and stdin is not a ` +
         "terminal. A removal alone reads no payload, so a body piped here would be dropped and " +
