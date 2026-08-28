@@ -3,7 +3,7 @@ id: 871f86fb-2e1a-5efa-a7cc-2e3c4f2ccde1
 slug: design-clause-rewritten-unshown
 page-type-slug: finding
 title: "Design clause rewritten unshown"
-domain-slug: domain/ops-instructions
+domain-slug: domain/ops-cli
 ---
 
 # Claim
