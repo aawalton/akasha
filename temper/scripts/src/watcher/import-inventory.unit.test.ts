@@ -57,13 +57,17 @@ let stop: (() => void) | null = null
 function serveNothing(): Served {
   const served: Served = { written: [] }
   const real = globalThis.fetch
-  globalThis.fetch = async (input, init) => {
-    const url = typeof input === "string" ? input : input instanceof URL ? input.href : input.url
-    const path = new URL(url, "http://fixture.invalid").pathname
-    const posted = (init?.method ?? "GET").toUpperCase() === "POST"
-    if (posted && !path.startsWith("/q")) served.written = [...served.written, path]
-    return reply({ error: "the page query service is unreachable" }, 503)
-  }
+  const stub: typeof fetch = Object.assign(
+    async (input: Parameters<typeof fetch>[0], init?: Parameters<typeof fetch>[1]) => {
+      const url = typeof input === "string" ? input : input instanceof URL ? input.href : input.url
+      const path = new URL(url, "http://fixture.invalid").pathname
+      const posted = (init?.method ?? "GET").toUpperCase() === "POST"
+      if (posted && !path.startsWith("/q")) served.written = [...served.written, path]
+      return reply({ error: "the page query service is unreachable" }, 503)
+    },
+    { preconnect: real.preconnect },
+  )
+  globalThis.fetch = stub
   stop = () => {
     globalThis.fetch = real
   }
