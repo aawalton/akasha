@@ -4,24 +4,18 @@
  *--------------------------------------------------------------------------------------------*/
 
 /**
- * What this feature asks the instructions repository, and how it reads the answer back.
+ * What this feature asks akasha, and how it reads the answer back.
  *
- * WHY A COMMAND RATHER THAN AN IMPORT. This panel used to build its own question out of the code
- * repository — the list plan, the row mapper and the page accessors, reached through the
- * `extensions/ops/node_modules` symlink into a checkout that happens to sit beside this one.
- * `domains/agent-harness.md` puts that answer in the harness: what an agent row MEANS is settled
- * there, no harness path calls into the code repository for a row, and the command is the join. A
- * command is also re-read on every call, so a change to what this panel counts as a seat is live on
- * the commit that makes it rather than on a build.
+ * WHY A COMMAND RATHER THAN AN IMPORT. `pages/domain/agent-harness.domain.md` puts the answer in
+ * the harness: what an agent row MEANS is settled there, and the command is the join. A command is
+ * also re-read on every call, so a change to what this panel counts as a seat is live on the commit
+ * that makes it rather than on a build.
  *
- * WHY NOT `@shared/instructions-command`, which does this already. That module IS the code
- * repository, so reaching it would be the coupling this exists to end, one wire longer.
  *
  * WHY NO PACKAGE AT ALL, and zod in particular. The domain tree next door parses its verb's answer
- * with zod, and can: every bare specifier in this extension resolves through that same symlink,
- * because `extensions/ops/node_modules` IS it. What fills THIS panel is asked to stand on the
- * harness alone, so the narrowing below is written out rather than declared — twenty lines against
- * a dependency on the checkout being there.
+ * with zod. What fills THIS panel is asked to stand on the harness alone, so the narrowing below
+ * is written out rather than declared — twenty lines against a dependency on a checkout being
+ * there.
  *
  * HOW IT REACHES `bun`. Through `harness-call`, which is where this extension decides what
  * environment a harness call runs in. This used to be a `/bin/bash -lc` wrapper with a comment
@@ -32,9 +26,8 @@
 import { runVerb, verbPath } from '../../harness-call.ts';
 
 /**
- * The ceiling on one call, matching what the code repository's own caller allows a verb in that
- * tree. Past it the verb is stuck rather than slow, and a wait with no ceiling reports neither an
- * answer nor a failure.
+ * The ceiling on one call. Past it the verb is stuck rather than slow, and a wait with no ceiling
+ * reports neither an answer nor a failure.
  */
 const VERB_TIMEOUT_MS = 30_000;
 
@@ -135,8 +128,8 @@ function rowColour(row: Record<string, unknown>, at: number): string | null {
  * half-built out of `undefined` rows carrying no id.
  *
  * The VALUES are not re-narrowed here and must not be. The harness folds a field that is not a
- * string down to null before it answers, reproducing what the code repository's `mapAgentRow` does,
- * and a second reading of them here would be the second place that answers what a row means.
+ * string down to null before it answers, and a second reading of them here would be the second
+ * place that answers what a row means.
  */
 export function parseForestRows(answer: unknown): readonly HarnessRow[] {
 	if (answer === null || typeof answer !== 'object' || !Array.isArray((answer as { rows?: unknown }).rows)) {
@@ -176,7 +169,7 @@ export function parseForestRows(answer: unknown): readonly HarnessRow[] {
  * one has no agent id until it has finished — see `subagent-core.ts`, where a third of the
  * launches on this host are synchronous — so while the row is on screen there is no id to ask
  * under. What saves it is that every subagent on this tree is working: a returned one is dropped
- * before it gets here, and `domains/subagent-turn.md` says a subagent is working or stopped and
+ * before it gets here, and `pages/domain/subagent-turn.domain.md` says a subagent is working or stopped and
  * never anything between. One name therefore serves every subagent row, and which colour that
  * name is stays the corpus's to say.
  */
