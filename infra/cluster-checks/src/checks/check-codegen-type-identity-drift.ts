@@ -2,19 +2,18 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { type FlagSpec, parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
+import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import {
   type CodegenIdentityEndpoint,
   type CodegenIdentityPair,
   type CodegenIdentityRemedy,
-  type CodegenRepo,
   findCodegenTypeIdentityDrift,
   remedyFileFor,
 } from "../lib/codegen-type-identity-drift.ts"
 import {
   CODEGEN_IDENTITY_BLIND_SPOTS,
   CODEGEN_TYPE_IDENTITY_PAIRS,
-  INSTRUCTIONS_MIRROR_DIR,
+  MIRROR_GENERATOR_DIR,
   MIRROR_GENERATORS,
 } from "../lib/codegen-type-identity-pairs.ts"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
@@ -31,57 +30,50 @@ const REMEDIATION_DOC = remediationHint(
 
 const REGISTRY = "infra/cluster-checks/src/lib/codegen-type-identity-pairs.ts"
 
-const OWN_REPO_FROM_HERE = "../../../../.."
-
-const CHECK_FLAGS = {
-  ...STANDARD_FLAGS,
-  instructionsRoot: { kind: "string" },
-} as const satisfies Record<string, FlagSpec>
-
-type Roots = Readonly<Record<CodegenRepo, string>>
-
-function instructionsRootFrom(named: string | undefined): string {
-  const stated = named ?? process.env.AKASHA_ROOT
-  const root =
-    stated === undefined || stated === ""
-      ? resolve(import.meta.dir, OWN_REPO_FROM_HERE)
-      : resolve(stated)
-  if (!existsSync(resolve(root, INSTRUCTIONS_MIRROR_DIR))) {
+/**
+ * The one checkout every canonical and every mirror is read from.
+ *
+ * Resolved BEFORE the check prints anything, because what it prints is a count of pairs weighed:
+ * a root that does not resolve must leave no count behind it.
+ */
+function rootFrom(named: string | undefined): string {
+  const root = named === undefined || named === "" ? getRepoRoot() : resolve(named)
+  if (!existsSync(resolve(root, MIRROR_GENERATOR_DIR))) {
     throw new Error(
-      `instructionsRootFrom: ${root} holds no ${INSTRUCTIONS_MIRROR_DIR}, so it is not a ` +
-        "checkout of the instructions repo. Every mirror generator this check reads stands " +
-        "there: pass --instructions-root, or set AKASHA_ROOT."
+      `rootFrom: ${root} holds no ${MIRROR_GENERATOR_DIR}, so it is not a checkout of akasha. ` +
+        "Every canonical and every mirror this check reads stands there: pass --repo-root, or " +
+        "set WORKSPACE."
     )
   }
   return root
 }
 
 function readEndpoint(args: {
-  readonly roots: Roots
+  readonly root: string
   readonly pair: CodegenIdentityPair
   readonly role: "canonical" | "mirror"
   readonly endpoint: CodegenIdentityEndpoint
 }): string {
-  const { repo, file } = args.endpoint
+  const { file } = args.endpoint
   try {
-    return readFileSync(join(args.roots[repo], file), "utf8")
+    return readFileSync(join(args.root, file), "utf8")
   } catch (err) {
     throw new Error(
-      `${args.role} "${file}" could not be read from the ${repo} checkout at ${args.roots[repo]} ` +
+      `${args.role} "${file}" could not be read from the checkout at ${args.root} ` +
         `(${err instanceof Error ? err.message : String(err)}). Repoint the "${args.pair.name}" ` +
-        `pair's ${args.role} in ${REGISTRY} at the file's new home and repo, or drop the pair ` +
+        `pair's ${args.role} in ${REGISTRY} at the file's new home, or drop the pair ` +
         "if that declaration is gone."
     )
   }
 }
 
-function remedyFile(roots: Roots, pair: CodegenIdentityPair): CodegenIdentityRemedy {
+function remedyFile(root: string, pair: CodegenIdentityPair): CodegenIdentityRemedy {
   const remedy = remedyFileFor(pair.mirror, MIRROR_GENERATORS)
-  if (remedy.file !== pair.mirror.file && !existsSync(join(roots[remedy.repo], remedy.file)))
+  if (remedy.file !== pair.mirror.file && !existsSync(join(root, remedy.file)))
     throw new Error(
       `the generator registered for mirror "${pair.mirror.file}" is not at "${remedy.file}" in ` +
-        `the ${remedy.repo} checkout at ${roots[remedy.repo]}. Repoint MIRROR_GENERATORS in ` +
-        `${REGISTRY} at the generator's new home.`
+        `the checkout at ${root}. Repoint MIRROR_GENERATORS in ${REGISTRY} at the generator's ` +
+        "new home."
     )
   return remedy
 }
@@ -112,10 +104,16 @@ function reportDrift(args: {
   }))
 }
 
+/**
+ * The blind spots, and no count of pairs.
+ *
+ * A count printed here would be a count of what the registry holds rather than of what was
+ * weighed, and the two part the moment anything downstream throws. The pairs actually weighed are
+ * reported once, by the population line `exitOnResult` prints.
+ */
 function reportBlindSpots(): undefined {
   process.stdout.write(
-    `${PREFIX} ${CODEGEN_TYPE_IDENTITY_PAIRS.length} pair(s) checked. ` +
-      `DECLARED BLIND SPOTS (${CODEGEN_IDENTITY_BLIND_SPOTS.length}) — shapes this check ` +
+    `${PREFIX} DECLARED BLIND SPOTS (${CODEGEN_IDENTITY_BLIND_SPOTS.length}) — shapes this check ` +
       "structurally cannot see, so its verdict is silent about them:\n"
   )
   for (const spot of CODEGEN_IDENTITY_BLIND_SPOTS) {
@@ -125,29 +123,24 @@ function reportBlindSpots(): undefined {
 }
 
 function main(): undefined {
-  let flags: { json: boolean; repoRoot: string | undefined; instructionsRoot: string | undefined }
+  let flags: { json: boolean; repoRoot: string | undefined }
   try {
-    const parsed = parseArgs(process.argv.slice(2), { ...CHECK_FLAGS })
+    const parsed = parseArgs(process.argv.slice(2), STANDARD_FLAGS)
     flags = {
       json: parsed.flags.json,
       repoRoot: parsed.flags.repoRoot,
-      instructionsRoot: parsed.flags.instructionsRoot,
     }
   } catch (err) {
     exitOnToolError({ error: err, prefix: PREFIX })
   }
-
-  if (!flags.json) reportBlindSpots()
 
   let examination: {
     readonly population: Population
     readonly violations: readonly { readonly file: string; readonly message: string }[]
   }
   try {
-    const roots: Roots = {
-      code: flags.repoRoot != null ? resolve(flags.repoRoot) : getRepoRoot(),
-      instructions: instructionsRootFrom(flags.instructionsRoot),
-    }
+    const root = rootFrom(flags.repoRoot)
+    if (!flags.json) reportBlindSpots()
     examination = examinePopulation({
       members: CODEGEN_TYPE_IDENTITY_PAIRS,
       unit: "type-identity pairs",
@@ -157,18 +150,18 @@ function main(): undefined {
           "the members are the rows of `CODEGEN_TYPE_IDENTITY_PAIRS`, a registry spelled in this repo's source, so nothing acquires them and the array cannot arrive short of itself",
       },
       labelOf: (pair) => pair.name,
-      siteOf: (pair) => join(roots[pair.mirror.repo], pair.mirror.file),
+      siteOf: (pair) => join(root, pair.mirror.file),
       examine: (pair) =>
         reportDrift({
           pair,
-          remedy: remedyFile(roots, pair),
+          remedy: remedyFile(root, pair),
           canonicalText: readEndpoint({
-            roots,
+            root,
             pair,
             role: "canonical",
             endpoint: pair.canonical,
           }),
-          mirrorText: readEndpoint({ roots, pair, role: "mirror", endpoint: pair.mirror }),
+          mirrorText: readEndpoint({ root, pair, role: "mirror", endpoint: pair.mirror }),
         }),
     })
   } catch (err) {

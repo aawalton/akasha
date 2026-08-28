@@ -2,10 +2,7 @@ import ts from "typescript"
 
 export type ExtractorKind = "union-type" | "const-tuple" | "object-keys" | "array-field"
 
-export type CodegenRepo = "code" | "instructions"
-
 export interface CodegenIdentityEndpoint {
-  readonly repo: CodegenRepo
   readonly file: string
   readonly kind: ExtractorKind
   readonly symbol: string
@@ -13,7 +10,6 @@ export interface CodegenIdentityEndpoint {
 }
 
 export interface CodegenIdentityRemedy {
-  readonly repo: CodegenRepo
   readonly file: string
 }
 
@@ -59,7 +55,7 @@ export function remedyFileFor(
         "refusal would name a file its own header forbids editing. Add the generator that emits " +
         "it to MIRROR_GENERATORS in codegen-type-identity-pairs.ts."
     )
-  return { repo: mirror.repo, file: mirror.file }
+  return { file: mirror.file }
 }
 
 function parse(text: string, file: string): ts.SourceFile {
