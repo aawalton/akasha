@@ -3,7 +3,7 @@ id: c238bf47-b95d-5dd1-9119-4fe42b7587fe
 slug: quarantined-doc-references-dangle
 page-type-slug: finding
 title: "Quarantined doc references dangle"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim

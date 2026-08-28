@@ -3,7 +3,7 @@ id: c822b744-b949-5aad-8694-5631de5ae94c
 slug: claude-md-citations-all-dangle
 page-type-slug: finding
 title: "Claude MD citations all dangle"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
