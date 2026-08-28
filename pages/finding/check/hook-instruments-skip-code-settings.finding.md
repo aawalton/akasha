@@ -3,7 +3,7 @@ id: 6502a113-65ac-52a8-a289-7b991b13b11b
 slug: hook-instruments-skip-code-settings
 page-type-slug: finding
 title: "Hook instruments skip code settings"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

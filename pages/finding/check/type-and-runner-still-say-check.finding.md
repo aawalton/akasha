@@ -3,7 +3,7 @@ id: 086114cc-540a-56ff-b5f1-d246cd2c4cae
 slug: type-and-runner-still-say-check
 page-type-slug: finding
 title: "The library type and the runner still say check for what the corpus now calls audits"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

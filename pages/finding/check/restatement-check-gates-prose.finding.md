@@ -3,7 +3,7 @@ id: 466b38b5-4328-59c7-bc53-365a306418c7
 slug: restatement-check-gates-prose
 page-type-slug: finding
 title: "A registered check gates prose against the code beneath it, which Header By Hand bars"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

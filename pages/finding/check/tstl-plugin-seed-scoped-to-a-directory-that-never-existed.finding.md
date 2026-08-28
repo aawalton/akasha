@@ -3,7 +3,7 @@ id: 788fc497-3d39-53eb-939d-fc39c71bfc09
 slug: tstl-plugin-seed-scoped-to-a-directory-that-never-existed
 page-type-slug: finding
 title: "The tstl plugin check scopes a seed to a directory that never existed"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

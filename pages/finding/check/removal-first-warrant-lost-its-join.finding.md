@@ -3,7 +3,7 @@ id: 23659507-21af-5a9e-abfa-c8c4344a91cb
 slug: removal-first-warrant-lost-its-join
 page-type-slug: finding
 title: "The Removal First warrant lost the clause that made it a warning"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

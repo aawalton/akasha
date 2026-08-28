@@ -3,7 +3,7 @@ id: 5919eee1-150d-5e88-9113-e77482d820b1
 slug: lua-truthiness-callback-sites-unwalked
 page-type-slug: finding
 title: "Lua truthiness callback sites unwalked"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

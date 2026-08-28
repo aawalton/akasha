@@ -3,7 +3,7 @@ id: 57ae3f4d-3a2e-5e85-926f-9ee156c3eba3
 slug: shrink-only-stated-not-held
 page-type-slug: finding
 title: "Shrink only stated not held"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim
