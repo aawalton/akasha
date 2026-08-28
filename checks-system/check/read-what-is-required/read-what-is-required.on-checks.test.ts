@@ -10,6 +10,8 @@ const REPO = "akasha"
 
 const SEAT_PAGE = `${ROOT}/agent/seat/one.seat.md`
 
+const SILENT_SEAT_PAGE = `${ROOT}/agent/seat/two.seat.md`
+
 const SUBAGENT_PAGE = `${ROOT}/agent/subagent/one--kid.subagent.md`
 
 const ORPHAN_PAGE = `${ROOT}/agent/subagent/gone--kid.subagent.md`
@@ -32,6 +34,10 @@ fileAt(
   SEAT_PAGE,
   "---\npage-type-slug: seat\nid: seat-1\npersona-slug: seat-persona\n" +
     "domain-slug: domain/seat-domain\nrole-slug: seat-role\n---\n"
+)
+fileAt(
+  SILENT_SEAT_PAGE,
+  "---\npage-type-slug: seat\nid: seat-2\ndomain-slug: domain/seat-domain\n---\n"
 )
 fileAt(SUBAGENT_PAGE, "---\npage-type-slug: subagent\nsubagent-id: kid\n---\n")
 fileAt(ORPHAN_PAGE, "---\npage-type-slug: subagent\nsubagent-id: kid\n---\n")
@@ -56,6 +62,7 @@ const index: AddressIndex = {
 
 function pageFor(writer: string): string | null {
   if (writer === "seat-1") return SEAT_PAGE
+  if (writer === "seat-2") return SILENT_SEAT_PAGE
   if (writer === "seat-1--kid") return SUBAGENT_PAGE
   if (writer === "gone--kid") return ORPHAN_PAGE
   return null
@@ -135,6 +142,21 @@ test("a seat is judged on what its own page declares", () => {
   ])
 })
 
+test("a seat leaving an attribute unsaid is judged on the default that stands for it", () => {
+  expect(named(verdict("seat-2"))).toEqual([
+    "pages/domain/seat-domain.domain.md",
+    "pages/domain/under-seat-domain.domain.md",
+    "pages/persona/default-persona.persona.md",
+    "pages/role/default-role.role.md",
+  ])
+})
+
+test("a default never stands over an attribute the seat states for itself", () => {
+  const said = named(verdict("seat-1"))
+  expect(said).not.toContain("pages/persona/default-persona.persona.md")
+  expect(said).not.toContain("pages/role/default-role.role.md")
+})
+
 test("a subagent is judged on its seat's domain, the default persona and the default role", () => {
   expect(named(verdict("seat-1--kid"))).toEqual([
     "pages/domain/seat-domain.domain.md",
@@ -154,6 +176,10 @@ test("a subagent owes what its seat owes for the seat's domain", () => {
   const seat = named(verdict("seat-1")).filter((one) => one.startsWith("pages/domain/"))
   const kid = named(verdict("seat-1--kid")).filter((one) => one.startsWith("pages/domain/"))
   expect(kid).toEqual(seat)
+})
+
+test("a seat silent on its attributes owes exactly what its subagent owes", () => {
+  expect(named(verdict("seat-2"))).toEqual(named(verdict("seat-1--kid")))
 })
 
 test("the refusal names the seat's page, for a seat and for its subagent alike", () => {

@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
 import type { AddressIndex } from "../../page/required-reading/address-index/address-index.ts"
 import type { PageAt } from "../../page/page.ts"
-import { seatWarrantsFor, seatWarrantsWithDefaults } from "./required-reading.ts"
+import { seatWarrantsWithDefaults, subagentWarrantsFor, type Warranted } from "./required-reading.ts"
 
-const SILENT = '---\npage-type-slug: subagent\nslug: athena--a1b2\ntitle: "athena--a1b2"\n---\n'
+const SILENT = '---\npage-type-slug: seat\ntitle: "a seat saying nothing of itself"\n---\n'
 
 const STATED =
   "---\npage-type-slug: seat\npersona-slug: athena\ndomain-slug: domain/agent-harness\nrole-slug: definer\n---\n"
+
+const UNDECLARED = "this body opens with no frontmatter block, so it declares nothing\n"
 
 function pageAt(address: string): PageAt {
   const [type = "", stem = ""] = address.split("/")
@@ -21,24 +23,40 @@ const ANY_ADDRESS: AddressIndex = {
   pagesFrom: () => [],
 }
 
-function addressesIn(warranted: ReturnType<typeof seatWarrantsFor>): readonly string[] {
+function addressesIn(warranted: readonly Warranted[]): readonly string[] {
   return [...warranted].map((one) => `${one.claimant} ${one.page.key}`).sort()
 }
 
-test("a page stating no attribute warrants nothing, so a subagent's write is gated on nothing", () => {
-  expect(addressesIn(seatWarrantsFor(SILENT, ANY_ADDRESS))).toEqual([])
+function claimantsIn(warranted: readonly Warranted[]): readonly string[] {
+  return [...new Set([...warranted].map((one) => one.claimant))].sort()
+}
+
+test("a body declaring nothing warrants nothing, there being no frontmatter to read", () => {
+  expect(addressesIn(seatWarrantsWithDefaults(UNDECLARED, ANY_ADDRESS))).toEqual([])
+  expect(addressesIn(subagentWarrantsFor(UNDECLARED, ANY_ADDRESS))).toEqual([])
 })
 
-test("the reading a seat is handed fills what its page leaves unsaid, where the gate does not", () => {
-  expect(addressesIn(seatWarrantsWithDefaults(SILENT, ANY_ADDRESS))).not.toEqual([])
+test("a seat leaving an attribute unsaid stands on what its page type declares by default", () => {
+  const claimants = claimantsIn(seatWarrantsWithDefaults(SILENT, ANY_ADDRESS))
+  expect(claimants).toContain("persona")
+  expect(claimants).toContain("domain")
+  expect(claimants).toContain("role")
 })
 
-test("a page states its own attributes, so no declared default stands over them", () => {
-  const stated = [
+test("a seat states its own attributes, so no declared default stands over them", () => {
+  expect(addressesIn(seatWarrantsWithDefaults(STATED, ANY_ADDRESS))).toEqual([
     "domain pages/domain/agent-harness.domain.md",
     "persona pages/persona/athena.persona.md",
     "role pages/role/definer.role.md",
-  ]
-  expect(addressesIn(seatWarrantsFor(STATED, ANY_ADDRESS))).toEqual(stated)
-  expect(addressesIn(seatWarrantsWithDefaults(STATED, ANY_ADDRESS))).toEqual(stated)
+  ])
+})
+
+test("a subagent stands on its seat's domain, never on its seat's persona or role", () => {
+  const said = addressesIn(subagentWarrantsFor(STATED, ANY_ADDRESS))
+  expect(said).toContain("domain pages/domain/agent-harness.domain.md")
+  expect(said).not.toContain("persona pages/persona/athena.persona.md")
+  expect(said).not.toContain("role pages/role/definer.role.md")
+  const claimants = claimantsIn(subagentWarrantsFor(STATED, ANY_ADDRESS))
+  expect(claimants).toContain("persona")
+  expect(claimants).toContain("role")
 })

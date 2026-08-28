@@ -70,15 +70,10 @@ function above(at: PageAt, index: AddressIndex): readonly PageAt[] {
 
 export type Stated = (key: string) => string | null
 
-function statedIn(body: string, defaults: ReadonlyMap<string, string> | null): Stated | null {
+function statedIn(body: string, defaults: ReadonlyMap<string, string>): Stated | null {
   const { fm, why } = blockOf(body)
   if (why !== null) return null
-  return (key) => stringAt(fm, key) ?? defaults?.get(key) ?? null
-}
-
-export function seatWarrantsFor(body: string, index: AddressIndex): readonly Warranted[] {
-  const stated = statedIn(body, null)
-  return stated === null ? [] : warrantsFrom(stated, index)
+  return (key) => stringAt(fm, key) ?? defaults.get(key) ?? null
 }
 
 export function seatWarrantsWithDefaults(body: string, index: AddressIndex): readonly Warranted[] {

@@ -7,7 +7,7 @@ import {
 } from "../../../agent/read-record.ts"
 import { blobId } from "../../../repo/git/git.ts"
 import {
-  seatWarrantsFor,
+  seatWarrantsWithDefaults,
   subagentWarrantsFor,
 } from "../../../agent/required-reading/required-reading.ts"
 import { seatAbove } from "../../../agent/writer.ts"
@@ -86,7 +86,8 @@ export const readWhatIsRequired: Check = {
     const { index, rootOf } = standingHere()
     const body = textAt("", seat.slice(1))
     if (body === null) return []
-    const warranted = above === null ? seatWarrantsFor(body, index) : subagentWarrantsFor(body, index)
+    const warranted =
+      above === null ? seatWarrantsWithDefaults(body, index) : subagentWarrantsFor(body, index)
     const failures: CheckFailure[] = []
     for (const one of warranted) {
       const root = rootOf(one.page.repo)
