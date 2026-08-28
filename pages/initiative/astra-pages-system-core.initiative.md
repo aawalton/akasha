@@ -17,21 +17,19 @@ parent-slug: astra-pages-system
 
 This holds the positive half of the parent's first intent. `astra-pages-system-ablation` removes the old; this builds what must exist before the old can go, and the Ablation rule makes that order mandatory.
 
-**The index answers three questions, not one, and the clean core has only the cheapest.** Enumeration — which files match these page-type globs — is answered under `pages-system/store/files.ts`, where `pagesUnder` walks once and keys by kind, so a caller asking about many kinds pays one walk rather than one per glob. Neither of the other two has a counterpart: **forward identity resolution**, which page carries this id, slug, name, seq, extension, ending or heading, and **the reverse relation map**, which pages point a given relation at a given target. The glob-match cost is filed as `pages-index/every-ask-of-the-index-costs-the-whole-index`.
+**The index answers three questions, not one, and the clean core has only the cheapest.** Enumeration — which files match these page-type globs — is answered under `pages-system/read/files.ts`, where `pagesUnder` walks once and keys by kind, so a caller asking about many kinds pays one walk rather than one per glob. Neither of the other two has a counterpart: **forward identity resolution**, which page carries this id, slug, name, seq, extension, ending or heading, and **the reverse relation map**, which pages point a given relation at a given target.
 
 **The reverse map is why the index exists.** Answering it from files means parsing every page's frontmatter and resolving each relation value through the identity map first. Measured: 0.01 ms from the index against 485 ms and 418 MB of text merely to read the 59,061 akasha page files with a warm cache, before any parsing. `relation/` is 9,694 of the index's 10,729 files. Forward identity resolution costs the same walk and is global: it resolves across page types, so no local read shortcuts it.
 
 **Three things not to carry across.** `pageTargetOf` and `fileTargetOf` are string formatting. `relations.json` is derived and could be recomputed in the read that loads declarations. `builtFrom`, `indexReaches` and `indexFreshFor` guard staleness — the price of the index being a separate artifact.
 
-Filed as `unused-code/four-names-in-the-page-index-surface-have-no-production-reader`.
-
-**The purity split is what makes this hard and is not negotiable.** `formula/`, `page-type/`, `name/` and `query/` do no I/O at all; `store/` is the one impure seam. An index and a cache are both about I/O and what may be held across it, so which side each falls on is the design rather than a detail of it.
+**The purity split is what makes this hard and is not negotiable.** `formula/`, `page-type/`, `name/` and `query/` do no I/O at all; `read/` is the one impure seam. An index and a cache are both about I/O and what may be held across it, so which side each falls on is the design rather than a detail of it.
 
 **`runQuery` accepts only a `Checked` that `checkQuery` produced, and that class is not exported.** Nothing added here may widen that: it is the whole reason an unchecked query cannot reach the store.
 
 **The first real caller is the editor's domain tree**, which reads 45 page types beneath one supertype.
 
-**What tied a deriver to one page type was the narrow, and nothing else.** `narrowing` returned the key set only for the matching kind and `null` otherwise, and `null` means derive every key, so a deriver keyed without its kind silently un-narrowed the other 44. A narrow now names keys and never a page type. Filed as `page-queries-system/the-deriver-hold-is-switched-off-so-nothing-is-ever-held`.
+**What tied a deriver to one page type was the narrow, and nothing else.** `narrowing` returned the key set only for the matching kind and `null` otherwise, and `null` means derive every key, so a deriver keyed without its kind silently un-narrowed the other 44. A narrow now names keys and never a page type.
 
 **`log-line` is the shape that breaks things.** 3.6M rows, and the old deriver materialised them into an array at 6,924 MB. Streaming holds flat at about 500 MB. The property that matters is that the working set does not grow with rows read.
 
