@@ -2,14 +2,12 @@
 page-type-slug: persona
 id: 019f1365-9b2b-78fb-a936-f3ed624ffb7b
 title: Ruby
-total-points: 10397.5008
+total-points: 10406.078083333334
 cover: "/api/image/019f324d-6dc4-78cd-b139-4cc50c0fa99a"
 slug: ruby
 domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
-unit: green day units
-scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: ruby
