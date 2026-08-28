@@ -63,6 +63,7 @@ export function landOne(
   by: string | undefined,
   more: Omit<Landings, "repo" | "root" | "message" | "commit">
 ): Took {
+  refuseALiveTestWrite(at.root, `${act} ${pageType}/${name}`, "`landOne`")
   try {
     const landed = landFiles({
       repo: at.repo,
