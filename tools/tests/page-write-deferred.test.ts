@@ -64,7 +64,7 @@ describe("a write the service defers", () => {
   it("lands the file at once and commits nothing until the queue drains", () => {
     const was = commits()
     writePage(ROOTS, "probe", "one", { title: "One" }, "tester")
-    expect(existsSync(join(root, "pages/probe/one.md"))).toBe(true)
+    expect(existsSync(join(root, "pages/probe/one.probe.md"))).toBe(true)
     expect(commits()).toBe(was)
     expect(standing().pending).toBe(1)
     drainCommits()
@@ -82,11 +82,11 @@ describe("a write the service defers", () => {
     drainCommits()
     expect(commits()).toBe(was + 1)
     expect([...named()].sort()).toEqual([
-      "pages/probe/a.md",
-      "pages/probe/b.md",
-      "pages/probe/c.md",
-      "pages/probe/d.md",
-      "pages/probe/e.md",
+      "pages/probe/a.probe.md",
+      "pages/probe/b.probe.md",
+      "pages/probe/c.probe.md",
+      "pages/probe/d.probe.md",
+      "pages/probe/e.probe.md",
     ])
     expect(subject()).toContain("sweeper")
     expect(subject()).toContain("other")
@@ -98,18 +98,18 @@ describe("a write the service defers", () => {
     writePage(ROOTS, "probe", "twice", { title: "second" }, "tester")
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/twice.md"])
-    expect(read("pages/probe/twice.md")).toContain("title: second")
+    expect(named()).toEqual(["pages/probe/twice.probe.md"])
+    expect(read("pages/probe/twice.probe.md")).toContain("title: second")
   })
 })
 
 describe("a value its property declares uncommitted", () => {
   it("stands beside the page rather than in the frontmatter a commit records", () => {
     writePage(ROOTS, "probe", "beating", { title: "Beating", beat: "2026-08-19T10:00:00Z" }, "tester")
-    expect(read("pages/probe/beating.md")).not.toContain("beat:")
-    expect(read("pages/probe/beating.uncommitted.yaml")).toContain("2026-08-19T10:00:00Z")
+    expect(read("pages/probe/beating.probe.md")).not.toContain("beat:")
+    expect(read("pages/probe/beating.probe.uncommitted.yaml")).toContain("2026-08-19T10:00:00Z")
     drainCommits()
-    expect(named()).toEqual(["pages/probe/beating.md"])
+    expect(named()).toEqual(["pages/probe/beating.probe.md"])
   })
 
   it("costs no commit at all where it is the only thing a patch carries", () => {
@@ -122,30 +122,30 @@ describe("a value its property declares uncommitted", () => {
     expect(standing().pending).toBe(0)
     drainCommits()
     expect(commits()).toBe(was)
-    expect(read("pages/probe/quiet.uncommitted.yaml")).toContain("tick-19")
+    expect(read("pages/probe/quiet.probe.uncommitted.yaml")).toContain("tick-19")
   })
 
   it("is taken out of a frontmatter that already held it, so no stale copy stands", () => {
     mkdirSync(join(root, "pages/probe"), { recursive: true })
     writeFileSync(
-      join(root, "pages/probe/stale.md"),
+      join(root, "pages/probe/stale.probe.md"),
       page(["page-type-slug: probe", "title: Stale", "beat: old"])
     )
     patchPage(ROOTS, "probe", "stale", { title: "Fresh" }, "tester")
-    expect(read("pages/probe/stale.md")).not.toContain("beat:")
-    expect(read("pages/probe/stale.md")).toContain("title: Fresh")
+    expect(read("pages/probe/stale.probe.md")).not.toContain("beat:")
+    expect(read("pages/probe/stale.probe.md")).toContain("title: Fresh")
     drainCommits()
   })
 
   it("goes when its page goes", () => {
     writePage(ROOTS, "probe", "gone", { title: "Gone", beat: "now" }, "tester")
     drainCommits()
-    expect(existsSync(join(root, "pages/probe/gone.uncommitted.yaml"))).toBe(true)
+    expect(existsSync(join(root, "pages/probe/gone.probe.uncommitted.yaml"))).toBe(true)
     removePage(ROOTS, "probe", "gone", "tester")
-    expect(existsSync(join(root, "pages/probe/gone.uncommitted.yaml"))).toBe(false)
-    expect(existsSync(join(root, "pages/probe/gone.md"))).toBe(false)
+    expect(existsSync(join(root, "pages/probe/gone.probe.uncommitted.yaml"))).toBe(false)
+    expect(existsSync(join(root, "pages/probe/gone.probe.md"))).toBe(false)
     drainCommits()
-    expect(named()).toEqual(["pages/probe/gone.md"])
+    expect(named()).toEqual(["pages/probe/gone.probe.md"])
   })
 })
 
@@ -174,9 +174,9 @@ describe("a patch that carries both kinds at once", () => {
     drainCommits()
     const was = commits()
     patchPage(ROOTS, "probe", "both", { title: "Both again", beat: "later" }, "tester")
-    expect(read("pages/probe/both.md")).toContain("title: Both again")
-    expect(read("pages/probe/both.md")).not.toContain("later")
-    expect(read("pages/probe/both.uncommitted.yaml")).toContain("later")
+    expect(read("pages/probe/both.probe.md")).toContain("title: Both again")
+    expect(read("pages/probe/both.probe.md")).not.toContain("later")
+    expect(read("pages/probe/both.probe.uncommitted.yaml")).toContain("later")
     drainCommits()
     expect(commits()).toBe(was + 1)
   })
