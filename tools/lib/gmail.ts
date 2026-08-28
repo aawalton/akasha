@@ -19,13 +19,13 @@ export interface Message {
 }
 
 export interface Mailbox {
-  profile(): Promise<{ readonly emailAddress: string; readonly historyId: string }>
-  addedSince(historyId: string): Promise<{ readonly ids: readonly string[]; readonly historyId: string } | null>
-  inboxIds(): Promise<readonly string[]>
-  message(id: string): Promise<Message>
-  rawOf(id: string): Promise<Buffer>
-  modify(id: string, change: { readonly add?: readonly string[]; readonly remove?: readonly string[] }): Promise<void>
-  send(message: Buffer): Promise<void>
+  profile: () => Promise<{ readonly emailAddress: string; readonly historyId: string }>
+  addedSince: (historyId: string) => Promise<{ readonly ids: readonly string[]; readonly historyId: string } | null>
+  inboxIds: () => Promise<readonly string[]>
+  message: (id: string) => Promise<Message>
+  rawOf: (id: string) => Promise<Buffer>
+  modify: (id: string, change: { readonly add?: readonly string[]; readonly remove?: readonly string[] }) => Promise<void>
+  send: (message: Buffer) => Promise<void>
 }
 
 function required(name: string): string {
