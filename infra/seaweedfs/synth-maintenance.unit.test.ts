@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
-import { BUCKET_QUOTAS_MB, maintenanceCronJobYaml } from "./synth-maintenance"
+import { BUCKET_QUOTAS_MB, maintenanceCronJobYaml } from "./synth-maintenance.ts"
 
 describe("maintenanceCronJobYaml", () => {
   const yaml = maintenanceCronJobYaml()
 
-  test("declares a namespaced CronJob named seaweedfs-maintenance", () => {
+  test("declares a CronJob named seaweedfs-maintenance in a namespace of its own", () => {
     expect(yaml).toContain("kind: CronJob")
     expect(yaml).toContain("name: seaweedfs-maintenance")
-    expect(yaml).toContain("namespace: seaweedfs")
+    expect(yaml).toContain("namespace: seaweedfs-maintenance")
   })
 
   test("runs weekly with no overlap and a bounded wall", () => {

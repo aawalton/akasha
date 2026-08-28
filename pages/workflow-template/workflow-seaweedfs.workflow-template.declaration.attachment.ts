@@ -1,11 +1,11 @@
-import { IMAGES } from "../../tools/lib/workflow-dsl/images"
-import { step } from "../../tools/lib/workflow-dsl/step"
-import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash"
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images.ts"
+import { step } from "../../tools/lib/workflow-dsl/step.ts"
+import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash.ts"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
+import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap seaweedfs-pipeline-state -n seaweedfs -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",
@@ -20,7 +20,6 @@ const BACKUP_CNPG = "infra/seaweedfs/backup-cnpg/generated"
 const BACKUP_BULK = "infra/seaweedfs/backup-bulk/generated"
 const BACKUP_ASSETS = "infra/seaweedfs/backup-assets/generated"
 const PRUNE_SESSIONS = "infra/seaweedfs/prune-sessions/generated"
-const MAINTENANCE = "infra/seaweedfs/maintenance/generated"
 const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
@@ -351,15 +350,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ],
     },
 
-    {
-      ...kubectlApply({
-        name: "seaweedfs-apply-maintenance",
-        namespace: "seaweedfs",
-        files: `${MAINTENANCE}/maintenance.generated.yaml`,
-        serverSide: true,
-      }),
-      dependsOn: ["seaweedfs-apply-master", "seaweedfs-ensure-bucket"],
-    },
 
     {
       ...step({
@@ -384,7 +374,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         "seaweedfs-apply-backup-cnpg",
         "seaweedfs-apply-backup-bulk",
         "seaweedfs-apply-prune",
-        "seaweedfs-apply-maintenance",
         "seaweedfs-apply-etcd-snapshot",
       ],
     },

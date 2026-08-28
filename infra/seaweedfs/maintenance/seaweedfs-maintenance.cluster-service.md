@@ -5,7 +5,7 @@ title: "SeaweedFS maintenance"
 slug: seaweedfs-maintenance
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: seaweedfs
+namespace: seaweedfs-maintenance
 resource-name: seaweedfs-maintenance
 ---
 

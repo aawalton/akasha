@@ -13,6 +13,5 @@ cluster-service-slugs:
   - seaweedfs-backup-bulk
   - seaweedfs-backup-assets
   - seaweedfs-prune-sessions
-  - seaweedfs-maintenance
   - seaweedfs-etcd-snapshot
 ---

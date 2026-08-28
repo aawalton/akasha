@@ -1,8 +1,10 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { capabilitySelector } from "@infra/k8s-types/hostnames"
-import { componentLabels, IMAGE, MASTER_HTTP_PORT, NAMESPACE } from "./synth-constants"
+import { componentLabels, IMAGE, MASTER_ADDRESS } from "./synth-constants.ts"
 
-const COMPONENT_MAINTENANCE = "maintenance"
+export const MAINTENANCE_NAMESPACE = "seaweedfs-maintenance"
+
+export const COMPONENT_MAINTENANCE = "maintenance"
 
 export const BUCKET_QUOTAS_MB = {
   "postgres-cnpg-backups": 350 * 1024,
@@ -28,7 +30,7 @@ function maintenanceScript(): string {
   return [
     "set -eu",
     `echo "seaweedfs weekly maintenance: quota set + enforce + vacuum"`,
-    `weed shell -master=master.${NAMESPACE}.svc.cluster.local:${MASTER_HTTP_PORT} <<'WEED'`,
+    `weed shell -master=${MASTER_ADDRESS} <<'WEED'`,
     shellPayload(),
     "WEED",
     'echo "maintenance complete"',
@@ -38,10 +40,10 @@ function maintenanceScript(): string {
 export function maintenanceCronJobYaml(): string {
   const name = "seaweedfs-maintenance"
   const labels = componentLabels(COMPONENT_MAINTENANCE)
-  return synthOne(NAMESPACE, name, {
+  return synthOne(MAINTENANCE_NAMESPACE, name, {
     apiVersion: "batch/v1",
     kind: "CronJob",
-    metadata: { name, namespace: NAMESPACE, labels },
+    metadata: { name, namespace: MAINTENANCE_NAMESPACE, labels },
     spec: {
       schedule: "43 6 * * 0",
       concurrencyPolicy: "Forbid",

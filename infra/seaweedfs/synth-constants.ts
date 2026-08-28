@@ -68,3 +68,7 @@ export const FILER_HTTP_PORT = 8888
 export const FILER_GRPC_PORT = 18888
 export const S3_GATEWAY_HTTP_PORT = 8333
 export const METRICS_PORT = 9327
+
+export const MASTER_ADDRESS = `master.${NAMESPACE}.svc.cluster.local:${MASTER_HTTP_PORT}`
+export const FILER_ADDRESS = `filer.${NAMESPACE}.svc.cluster.local:${FILER_HTTP_PORT}`
+export const S3_GATEWAY_ENDPOINT = `http://s3-gateway.${NAMESPACE}.svc.cluster.local:${S3_GATEWAY_HTTP_PORT}`
