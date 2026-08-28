@@ -1,0 +1,35 @@
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { dirname } from "node:path"
+import { type Landing, patchText } from "../../patches/patch.ts"
+
+const SCRATCH = "/var/tmp"
+
+export interface Bodied {
+  readonly relPath: string
+  readonly body: string | Uint8Array
+}
+
+function bodyAside(body: string | Uint8Array): string {
+  const at = `${mkdtempSync(`${SCRATCH}/landing-body-`)}/body`
+  writeFileSync(at, body)
+  return at
+}
+
+// A SCRATCH BODY IS DEAD ONCE THE PATCH IS BUILT: patchText reads each one through
+// `git hash-object -w`, which leaves the bytes in the object store, and the landing writes from
+// memory rather than from here. They are taken away the moment the patch is in hand rather than
+// in a finally around the gate, because a refusing gate exits the process, and an exit runs no
+// finally.
+export function patchAside(
+  bodied: readonly Bodied[],
+  carried: readonly Landing[],
+  removals: readonly string[],
+  root: string
+): string {
+  const aside = bodied.map((one) => ({ relPath: one.relPath, from: bodyAside(one.body) }))
+  try {
+    return patchText([...aside, ...carried], removals, root)
+  } finally {
+    for (const one of aside) rmSync(dirname(one.from), { recursive: true, force: true })
+  }
+}

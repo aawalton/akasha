@@ -2,7 +2,6 @@ import {
   chmodSync,
   existsSync,
   mkdirSync,
-  mkdtempSync,
   readFileSync,
   renameSync,
   rmSync,
@@ -15,7 +14,8 @@ import { carryReadingsBy, type Moved, recordReadBy } from "../../agent/record-re
 import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
-import { fail, GATED, gateOrRefuse, patchText } from "../../patches/patch.ts"
+import { patchAside } from "./body-aside.ts"
+import { fail, GATED, gateOrRefuse } from "../../patches/patch.ts"
 import { blobId, commitPaths, gitAskingPaths, gitIgnoring, whileHoldingLanding } from "../git/git.ts"
 import { canonicalize } from "../path/path.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
@@ -24,8 +24,6 @@ import { AKASHA } from "../roots/roots.ts"
 const SHEBANG = "#!"
 
 const EXECUTABLE = 0o755
-
-const SCRATCH = "/var/tmp"
 
 export const MISSING =
   "does not exist — a removal names what is there, so this is a typo rather than a no-op"
@@ -273,12 +271,6 @@ export function landFiles(one: Landings): Landed {
   return { sha, unheld, wrote, gone }
 }
 
-function bodyAside(body: string | Uint8Array): string {
-  const at = `${mkdtempSync(`${SCRATCH}/landing-body-`)}/body`
-  writeFileSync(at, body)
-  return at
-}
-
 function akashaGated(
   repo: string,
   root: string,
@@ -291,18 +283,15 @@ function akashaGated(
 ): void {
   if (repo !== AKASHA) return
   if (process.env[GATED] === "1") return
-  const landings = [
-    ...entries.map((one) => ({ relPath: one.relPath, from: bodyAside(one.body) })),
-    ...carrying.map((one) => ({ relPath: one.to, from: `${root}/${one.from}` })),
-  ]
+  const carried = carrying.map((one) => ({ relPath: one.to, from: `${root}/${one.from}` }))
   const removals = [...removing, ...carrying.map((one) => one.from)]
   const asMechanical =
     mechanical === true ||
     (mechanical !== false && entries.every((one) => mechanical.has(one.relPath)))
   gateOrRefuse(
-    patchText(landings, removals, root),
+    patchAside(entries, carried, removals, root),
     asMechanical,
-    landings.length + removals.length,
+    entries.length + carried.length + removals.length,
     root,
     goneElsewhere,
     repointedElsewhere
