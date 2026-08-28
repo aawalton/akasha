@@ -9,4 +9,4 @@ persona-champion-slug: astra
 
 # Definition
 
-- **Akasha system** — code, data and text kept as pages in typed files.
+- **Akasha system** — code, data and text in a page with a type in a file.
