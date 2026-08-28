@@ -1,0 +1,77 @@
+---
+id: 0fc5a9ad-b9e3-53fa-8814-4fe52e9d543d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1853 - Auspicious Hatching"
+slug: 0508-chapter-1853-auspicious-hatching
+partOf: chrysalis
+position: 508
+ownLength: 969
+unit: words
+publishedAt: 2026-08-28
+link: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875190/chapter-1853-auspicious-hatching"
+royalRoadId: "3875190"
+---
+
+When the mana surged high in the Dungeon, all sorts of miraculous things were bound to happen. The concentration of arcane energy could produce outcomes that made little to no sense under the normal operating conditions we experienced ninety-nine percent of the time. It was as if, when enough mana was gathered in one place, it began to break its own rules.
+
+-           Excerpt from ‘On The Nature of Mana’ by Magio Scholar Werilos
+
+Tending to the eggs laid by the Queens was, of course, the first and primary duty of the Brood Tenders. It was more involved than many thought, especially outside the Colony. For optimal conditions, there were many factors the Tenders took into consideration.
+
+Moisture in the air. Temperature. Quality and freshness of the soil. The density of mana. The flow of mana. All of this before they even began to care for the eggs themselves. Properly overlapping their auras to ensure maximum coverage. Keeping the eggs clean, neither too warm nor too cold, properly damp, exposing them to encouraging pheromonal therapy to assist in mental development, the work never ended.
+
+And of course, they were constantly alert to the potential hatching of a new Champion, especially when a wave was underway.
+
+Not every wave brought a Champion, but none had ever been born outside of one.
+
+At least, not that the Brood Tenders were aware of. The thought that one may have slipped through the net and could be out in the Colony, lacking the proper support, filled them with anxiety. Just another reason why they were so hyper-attentive to each and every egg in their care.
+
+Every chamber in which the Tenders operated was, without question, the most highly engineered and defended within the entirety of the Colony’s territory. Even the Queens’ chambers where the eggs were laid weren’t as heavily regulated, as every ant understood that the hatchlings were the future of the Colony and must be served at all costs.
+
+Into one of these, a Brood Tender known as Demetant made her way, filled with equal parts trepidation and excitement.
+
+She had finally completed her max level mutations for tier five, and sufficiently levelled her Skills to be allowed to work with the eggs. The excitement had been hard to bear, so hard she almost hadn’t fallen into torpor, which would have been a disaster. Tenders who didn’t sleep were among the most common victims of… them.
+
+Lacking in focus when tending to the eggs? It was unthinkable!
+
+The first security checkpoint was passed easily, but the second took more time. As it was her first day, her scent needed to be recorded and added to the registry. Only when the soldiers on duty had seen that the process had completed successfully was she allowed to pass.
+
+Naturally, the third security checkpoint was the most strict. A mandible imprint, secondary scent registration and brief interrogation were required before finally, finally, she was allowed inside.
+
+With difficulty, Demetant managed to calm herself and adopt a proper, reserved demeanour as she stepped within the brood chamber. Here, in the reception area, there weren’t any eggs, but they were close, she could smell them. All around her, Tenders were bustling this way and that, each emitting an air of relaxed competence that created the ideal atmosphere for the young to develop. Starting today, she would be one of them.
+
+“Demetant?”
+
+Not expecting to be addressed, she jumped a foot in the air and turned a hundred and eighty degrees before landing, facing a slightly bewildered Tender.
+
+“Y-yes,” she gulped, then tried again. “Yes, that’s me.”
+
+Much better. Calm. In control.
+
+“I’m going to be your supervisor today. Are you excited to start working in the brood chambers?”
+
+“Yes,” Demetant squeaked.
+
+“That’s good,” the older ant laughed. “It’s like that for all of us. You’ll get used to it in no time. You can call me Doonant. We’ll be in the fifth chamber today.”
+
+Like a warm covering, Doonant enfolded Demetant and helped to settle her nerves as they made their way through the corridors and to the space they had been assigned. Of course, the eggs received around-the-clock care, so there were already ants inside when they arrived.
+
+After a brief conversation in which they detailed the care and development of every egg in the room, the previous shift left, putting Doonant and Demetant in charge.
+
+Most of the information had gone completely over the young Tender’s head, she had been completely focused on the eggs themselves. Soon, they would hatch into larvae to begin the next stage of development, and she would follow this group all the way through to graduation at the antcademy.
+
+“Remember to space correctly,” Doonant reminded her, “we need to cover all of the eggs with the growth aura at all times.”
+
+Demetant nodded.
+
+Of course, the aura wasn’t about making the eggs develop any faster, not at all, the Colony wasn’t interested in rushing the process, but rather to ensure they developed stronger and healthier larvae. Anything they could do to squeeze out an extra stat point for the eventual hatchling, they would do.
+
+Although she was incredibly nervous at first, she quickly fell into the familiar rhythm she had practised a thousand times, moving from egg to egg in sync with her fellow Tender, sweeping them with her antennae while emitting the nourishing pheromones she had mutated. On the third pass through the room, she was becoming more and more comfortable, though the upwelling of emotion she felt at finally being able to fulfill her purpose was overwhelming at times.
+
+She was doing it! Caring for the Colony!
+
+So wrapped up in her head, Demetant almost didn’t notice the strangest thing happen.
+
+Pausing in her fourth pass, she turned her head to the side.
+
+Did that egg… jump?
