@@ -5,7 +5,14 @@ import { type AppNavConfig } from "@shared/design-layout/types/nav-types"
 import { createPage } from "@shared/pages-access/create"
 import { NEVER_MATCH_SLUG } from "@shared/pages-access/sentinels"
 import type { ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
-import { CreatePageDialog, type CreateSelectOptionEffect, PagesUIOptionCreateProvider, SortableNavs, useAppNavItems, useUserId } from "@shared/pages-ui"
+import { CreatePageDialog } from "@shared/pages-ui/components/quick-add/create-page-dialog"
+import { SortableNavs } from "@shared/pages-ui/components/sortable-navs"
+import { useAppNavItems } from "@shared/pages-ui/components/use-app-nav-items"
+import {
+  type CreateSelectOptionEffect,
+  PagesUIOptionCreateProvider,
+} from "@shared/pages-ui/option-create-context"
+import { useUserId } from "@shared/pages-ui/use-user-id"
 import { useActiveQuickAddPageType } from "@shared/pages-ui/components/quick-add/use-active-quick-add-page-type"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@shared/pages-ui/router-context"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"

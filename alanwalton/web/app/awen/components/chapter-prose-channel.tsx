@@ -1,5 +1,5 @@
 import type { ChapterProsePastTurns, ChapterProseTitles } from "@alanwalton/awen-core/game-schema"
-import { useUserId } from "@shared/pages-ui"
+import { useUserId } from "@shared/pages-ui/use-user-id"
 import { useReadEndObserver } from "@shared/pages-ui/components/use-read-end-observer"
 import { Fragment, type RefObject, useCallback, useEffect, useRef } from "react"
 import type { ClientStoryTurn } from "../lib/client-story-session"

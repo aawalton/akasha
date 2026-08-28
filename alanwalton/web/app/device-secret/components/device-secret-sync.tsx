@@ -1,6 +1,6 @@
 "use client"
 
-import { UserIdContext } from "@shared/pages-ui"
+import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useContext, useEffect, useRef } from "react"
 import {
   MintDeviceSecretResponseSchema,

@@ -1,5 +1,7 @@
 import { SurfaceProvider } from "@shared/design-system"
-import { PageDetailContent, ViewPageContent, ViewPageFrame } from "@shared/pages-ui"
+import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
+import { ViewPageFrame } from "@shared/pages-ui/components/view-page-frame"
 import { DISPLAY_PARAM, PageTypeSlug, parseDisplayMode } from "@shared/pages-url"
 import { lazy, Suspense } from "react"
 import { type ShouldRevalidateFunctionArgs, useSearchParams } from "react-router"

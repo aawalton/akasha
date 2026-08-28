@@ -1,5 +1,5 @@
 import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it, mock } from "bun:test"
-import { UserIdContext } from "@shared/pages-ui"
+import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { act, cleanup } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import { within } from "@testing-library/react"

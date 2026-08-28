@@ -1,7 +1,7 @@
 import { Dialog, DialogBody, DialogContent, DialogTitle, useSurface } from "@shared/design-system"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { DegradingImage } from "@shared/pages-ui"
+import { DegradingImage } from "@shared/pages-ui/components/degrading-image"
 import { useEffect, useSyncExternalStore } from "react"
 import { ErrorMessage } from "~/idle/components/error-message"
 import { BASE_IMAGE_ID } from "../lib/core/constants"

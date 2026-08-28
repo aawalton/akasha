@@ -9,7 +9,7 @@ mock.module("../../../../shared/pages/ui/src/supabase/use-set-property-optimisti
   useSetPropertyOptimistic: () => mockSetProperty,
 }))
 
-const { PlayingSessionProvider } = await import("@shared/pages-ui")
+const { PlayingSessionProvider } = await import("@shared/pages-ui/media/playing-session-context")
 const { useReaderPlayFromSentence } = await import("./reader-narration-detail")
 
 const MARKS = [

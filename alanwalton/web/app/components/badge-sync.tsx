@@ -1,7 +1,7 @@
 "use client"
 
 import { countOpenQuestions } from "@shared/open-questions"
-import { UserIdContext } from "@shared/pages-ui"
+import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { useContext, useEffect } from "react"
 import { getBadge, isNativeShell } from "~/lib/capacitor-bridge"

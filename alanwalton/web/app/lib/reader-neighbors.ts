@@ -1,6 +1,6 @@
 import { getOrderedNeighbors } from "@shared/pages-access/ordered"
 import { type Page } from "@shared/pages-core/page-types"
-import type { ReaderNeighborLink } from "@shared/pages-ui"
+import type { ReaderNeighborLink } from "@shared/pages-ui/components/reader-chrome"
 import { buildPageHref, type PageTypeSlug } from "@shared/pages-url"
 
 export async function resolveReaderNeighbors(args: {

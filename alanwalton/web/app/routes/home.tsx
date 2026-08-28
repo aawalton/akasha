@@ -1,5 +1,5 @@
 import { PageLayout, PageTitle } from "@shared/design-system"
-import { ViewPageContent } from "@shared/pages-ui"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { getRequestServerClient } from "@shared/supabase-rr/request-session-cache"
 import { data } from "react-router"

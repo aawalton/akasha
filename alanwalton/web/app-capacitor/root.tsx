@@ -6,7 +6,7 @@ import { SurfaceProvider } from "@shared/design-primitives/components/surface-pr
 import { ErrorCaptureInstaller } from "@shared/errors-client/error-capture-installer"
 import { reportError, setErrorReportOrigin, setReleaseSha } from "@shared/errors-client/report-error"
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
-import { PagesUICapabilityHosts } from "@shared/pages-ui"
+import { PagesUICapabilityHosts } from "@shared/pages-ui/capabilities/capability-hosts"
 import { configureLocalPositionReader } from "@shared/pages-ui/components/local-position-port"
 import { parseBuildSha } from "@shared/pages-ui/app-version/app-version-check.pure"
 import { setStoreDiagnosticsSink } from "@shared/pages-ui-store/diagnostics"

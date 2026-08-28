@@ -8,7 +8,7 @@ import "~/idle/lib/idle-lock-verb"
 import "~/idle/lib/idle-reorder-verb"
 import "~/action-verbs/declared-effects"
 
-import { registerCapabilityHost } from "@shared/pages-ui"
+import { registerCapabilityHost } from "@shared/pages-ui/capabilities/capability-hosts"
 import { RevealHost } from "~/idle/components/reveal-host"
 import { RosterGalleryHost } from "~/idle/components/roster-gallery"
 import { ROSTER_GALLERY_CAPABILITY } from "~/idle/lib/idle-card-page-type"

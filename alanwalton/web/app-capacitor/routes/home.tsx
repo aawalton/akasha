@@ -5,7 +5,7 @@ import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-pr
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { PageLayout, PageTitle } from "@shared/design-system"
 import { reportError } from "@shared/errors-client/report-error"
-import { ViewPageContent } from "@shared/pages-ui"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { usePagesSupabase } from "@shared/pages-ui/supabase"
 import { buildPageHrefParam, PageTypeSlug } from "@shared/pages-url"
 import { useEffect, useMemo } from "react"

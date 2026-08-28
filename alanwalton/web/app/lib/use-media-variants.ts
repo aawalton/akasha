@@ -1,6 +1,6 @@
 "use client"
 
-import type { MediaVariant } from "@shared/pages-ui"
+import type { MediaVariant } from "@shared/pages-ui/media/page-media-player"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 import { API_ORIGIN } from "~/lib/api-origin"

@@ -1,5 +1,6 @@
 import { getPageByIdSuffix, getPages } from "@shared/pages-access/get"
-import { PageDetailContent, ViewPageContent } from "@shared/pages-ui"
+import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { createServerClient } from "@shared/supabase-rr/server"

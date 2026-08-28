@@ -1,5 +1,5 @@
 import { getPageTypeByPluralSlug } from "@shared/pages-access/page-type"
-import { PagesFilteredContent } from "@shared/pages-ui"
+import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
 import { PageTypeSlug } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { Suspense } from "react"

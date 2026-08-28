@@ -10,7 +10,9 @@ mock.module("../../../../shared/pages/ui/src/supabase/use-set-property-optimisti
   useSetPropertyOptimistic: () => mockSetProperty,
 }))
 
-const { PlayingSessionProvider, usePlayingSession } = await import("@shared/pages-ui")
+const { PlayingSessionProvider, usePlayingSession } = await import(
+  "@shared/pages-ui/media/playing-session-context"
+)
 
 afterEach(() => {
   cleanup()

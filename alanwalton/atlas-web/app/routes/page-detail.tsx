@@ -1,6 +1,7 @@
 import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@shared/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@shared/pages-access/page-type"
-import { PageDetailContent, ViewPageContent } from "@shared/pages-ui"
+import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
 import { createServerClient } from "@shared/supabase-rr/server"
 import { data } from "react-router"

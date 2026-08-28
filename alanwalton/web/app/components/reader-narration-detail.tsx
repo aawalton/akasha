@@ -1,7 +1,7 @@
 "use client"
 
 import type { SentenceMark } from "@alanwalton/voice-core/voice/mark-schema"
-import { useOptionalPlayingSession } from "@shared/pages-ui"
+import { useOptionalPlayingSession } from "@shared/pages-ui/media/playing-session-context"
 import { KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@shared/pages-ui/media/media-src"
 import { planPlayFromSentence } from "@shared/pages-ui/media/play-from-sentence"
 import { type ActiveSessionInit } from "@shared/pages-ui/media/playing-session"

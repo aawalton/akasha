@@ -2,7 +2,7 @@
 
 import { resolveDisplayKind } from "@shared/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@shared/pages-core/schema/pages"
-import { ViewPageContent } from "@shared/pages-ui"
+import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { getPageDisplay } from "@shared/pages-ui/capabilities/page-display-registry"
 import { useAllPages, usePageByIdSuffix } from "@shared/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@shared/pages-ui/supabase/use-reader-neighbors"

@@ -1,6 +1,6 @@
 "use client"
 
-import { PageDetailContent } from "@shared/pages-ui"
+import { PageDetailContent } from "@shared/pages-ui/components/page-detail-content"
 import type { ComponentProps } from "react"
 import { useMarkNotificationReadOnView } from "~/hooks/use-mark-notification-read"
 import { useMarkReadOnEnd } from "~/hooks/use-mark-read-on-end"

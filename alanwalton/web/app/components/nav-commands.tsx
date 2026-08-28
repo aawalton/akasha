@@ -3,7 +3,7 @@
 import type { AppNavItem } from "@shared/design-layout/types/nav-types"
 import { useKeyboardBinding } from "@shared/design-primitives/hooks/use-keyboard-registry"
 import { PALETTE_ONLY } from "@shared/design-primitives/utils/keyboard-registry"
-import { NavCommandBindings } from "@shared/pages-ui"
+import { NavCommandBindings } from "@shared/pages-ui/components/nav-command-bindings-registrar"
 import { useNavigate } from "react-router"
 import { getNavItemProducts, navItemContent, navItemTech } from "./nav-items"
 

@@ -1,6 +1,6 @@
 import { Toaster } from "@shared/design-system"
 import { askComposed } from "@shared/pages-query/ask"
-import { PlayingSessionProvider } from "@shared/pages-ui"
+import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
 import { SupabaseProvider } from "@shared/supabase-rr/provider"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { data, Outlet } from "react-router"

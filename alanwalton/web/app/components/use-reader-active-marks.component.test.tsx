@@ -9,8 +9,9 @@ mock.module("../../../../shared/pages/ui/src/supabase/use-set-property-optimisti
   useSetPropertyOptimistic: () => mockSetProperty,
 }))
 
-const { PlayingSessionProvider, usePlayingSession, KOKORO_STREAM_VARIANT } = await import(
-  "@shared/pages-ui"
+const { KOKORO_STREAM_VARIANT } = await import("@shared/pages-ui/media/media-src")
+const { PlayingSessionProvider, usePlayingSession } = await import(
+  "@shared/pages-ui/media/playing-session-context"
 )
 const { useReaderActiveMarks } = await import("./use-reader-active-marks")
 

@@ -2,7 +2,8 @@
 
 import type { GalleryCardSize } from "@shared/pages-core/view/gallery"
 import { resolveGalleryCardSize } from "@shared/pages-core/view/gallery"
-import { PageCardRenderer, PageSystemTabContent } from "@shared/pages-ui"
+import { PageCardRenderer } from "@shared/pages-ui/components/page-card-renderer"
+import { PageSystemTabContent } from "@shared/pages-ui/components/page-system-view"
 import { useReorderViewWiring } from "@shared/pages-ui/components/use-reorder-view-wiring"
 import { type PageRow } from "@shared/pages-ui/view-engine/page-row"
 import { PageTypeSlug } from "@shared/pages-url"

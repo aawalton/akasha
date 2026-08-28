@@ -1,6 +1,6 @@
 "use client"
 
-import { PagesFilteredContent } from "@shared/pages-ui"
+import { PagesFilteredContent } from "@shared/pages-ui/components/pages-by-relation-content"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"
 import { PageTypeSlug } from "@shared/pages-url"
 import { useMemo } from "react"
