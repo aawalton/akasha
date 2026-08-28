@@ -5,7 +5,7 @@ title: "Computer ram score"
 defined-on-slug: page-type/computer
 key: ram-score
 type: number
-expression: (ram == "64gb") * 6400 + (ram == "32gb") * 3200 + (ram == "16gb") * 1600 + (ram == "12gb") * 1200
+expression: 'case({ram} == "64gb" -> 6400, {ram} == "32gb" -> 3200, {ram} == "16gb" -> 1600, {ram} == "12gb" -> 1200, otherwise -> 0)'
 slug: computer-ram-score
 domain-parent-slug: page-type/computer
 ---

@@ -21,8 +21,6 @@ import {
   reducedFrom,
   underivable,
 } from "./page-reach.ts"
-import { evaluate } from "./page-expression.ts"
-import { ExpressionRefused } from "./page-expression-value.ts"
 import { noteUnreadable } from "./page-fault.ts"
 import { BODY, type Held, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
 import { placeOf } from "../../page/page-types.ts"
@@ -35,6 +33,7 @@ import { slugNamed } from "../../page/page-address.ts"
 import { type Roots } from "../../page/page.ts"
 import { isAddressable } from "../../repo/roots/roots.ts"
 import { backingOver } from "./page-derive-backing.ts"
+import { formulasOver } from "./page-derive-formula.ts"
 import { type Carries, type Deriver, type Row, WALK_BOUND } from "./page-derive-shape.ts"
 
 const NAMES_NOBODY: ReadonlyMap<string, readonly string[]> = new Map()
@@ -98,6 +97,8 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     chains.set(kind, chain)
     return chain
   }
+
+  const workedOut = formulasOver(declared, chainOf, (why) => faults.add(why))
 
   const declarationFor = (kind: string, key: string): Property | null => {
     for (const one of chainOf(kind)) {
@@ -290,19 +291,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       if (walking.has(at) || depth >= WALK_BOUND) return null
       walking.add(at)
       try {
-        return evaluate(declaration.expression, (named) => {
-          if (declarationFor(page.kind, named) === null) {
-            throw new ExpressionRefused(
-              `\`${named}\` is declared by no property on \`${page.kind}\``,
-              "unknown_key"
-            )
-          }
-          return valueOf(page, named, depth + 1)
-        })
-      } catch (why) {
-        if (!(why instanceof ExpressionRefused)) throw why
-        faults.add(`\`${declaration.slug}\` states an \`${EXPRESSION}\` this evaluator refuses: ${why.message}`)
-        return null
+        return workedOut(page.kind, key, declaration, (named) => valueOf(page, named, depth + 1))
       } finally {
         walking.delete(at)
       }

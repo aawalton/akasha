@@ -5,7 +5,7 @@ title: "Session tracking romance points"
 defined-on-slug: page-type/session-tracking
 key: romance-points
 type: number
-expression: if(containsText(" " + prop(title) + " ", " jen "), (if(prop(end-time) == null, now(), parseInstant(prop(end-time))) - parseInstant(prop(start-time))) / 60000, 0)
+expression: 'case(hasWord({title}, "jen") -> (hoursBetween({start-time}, {end-time}) ?? hoursBetween({start-time}, now())) * 60, otherwise -> 0)'
 slug: session-tracking-romance-points
 domain-parent-slug: page-type/session-tracking
 ---

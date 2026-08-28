@@ -5,7 +5,7 @@ title: "Daily tracking fun level"
 defined-on-slug: page-type/daily-tracking
 key: fun-level
 type: number
-expression: (prop(fun-points) >= 2) && 4 || (prop(fun-points) >= 1) && 3 || (prop(fun-points) >= 0.5) && 2 || (prop(fun-points) >= 0.25) && 1 || 0
+expression: 'case({fun-points} >= 2 -> 4, {fun-points} >= 1 -> 3, {fun-points} >= 0.5 -> 2, {fun-points} >= 0.25 -> 1, otherwise -> 0)'
 slug: daily-tracking-fun-level
 domain-parent-slug: page-type/daily-tracking
 ---

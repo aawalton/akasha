@@ -5,7 +5,7 @@ title: "Persona day cardio points"
 defined-on-slug: page-type/persona-day
 key: cardio-points
 type: number
-expression: prop(active-calories)
+expression: '{active-calories}'
 slug: persona-day-cardio-points
 domain-parent-slug: page-type/persona-day
 ---

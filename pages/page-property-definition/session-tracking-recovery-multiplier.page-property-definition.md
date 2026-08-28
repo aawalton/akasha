@@ -5,7 +5,7 @@ title: "Session tracking recovery multiplier"
 defined-on-slug: page-type/session-tracking
 key: recovery-multiplier
 type: number
-expression: "if(containsText(\" \" + prop(title) + \" \", \" bath \"), 3, if(containsText(\" \" + prop(title) + \" \", \" pod \"), 3, if(containsText(\" \" + prop(title) + \" \", \" breathing \"), 1, if(containsText(\" \" + prop(title) + \" \", \" sleep \"), 1, if(containsText(\" \" + prop(title) + \" \", \" rest \"), 1, 0)))))"
+expression: 'case(hasWord({title}, "bath") -> 3, hasWord({title}, "pod") -> 3, hasWord({title}, "breathing") -> 1, hasWord({title}, "sleep") -> 1, hasWord({title}, "rest") -> 1, otherwise -> 0)'
 slug: session-tracking-recovery-multiplier
 domain-parent-slug: page-type/session-tracking
 ---

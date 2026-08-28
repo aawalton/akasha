@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Session tracking safety level"
 defined-on-slug: page-type/session-tracking
 key: safety-level
-type: text
+type: number
 slug: session-tracking-safety-level
 domain-parent-slug: page-type/session-tracking
 ---

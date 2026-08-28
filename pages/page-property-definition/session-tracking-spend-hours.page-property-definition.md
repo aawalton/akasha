@@ -5,7 +5,7 @@ title: "Session tracking spend hours"
 defined-on-slug: page-type/session-tracking
 key: spend-hours
 type: number
-expression: (if(prop(end-time) == null, now(), parseInstant(prop(end-time))) - parseInstant(prop(start-time))) / 3600000 * if(prop(safety-gap) == null, 0, if(prop(safety-gap) >= 1, 0, if(prop(safety-gap) >= 0, 1 - prop(safety-gap), if(prop(safety-gap) <= -5, 32, if(prop(safety-gap) == -0.5, 1.5, if(prop(safety-gap) == -1, 2, if(prop(safety-gap) == -1.5, 3, if(prop(safety-gap) == -2, 4, if(prop(safety-gap) == -2.5, 6, if(prop(safety-gap) == -3, 8, if(prop(safety-gap) == -3.5, 12, if(prop(safety-gap) == -4, 16, if(prop(safety-gap) == -4.5, 24, 0)))))))))))))
+expression: '(hoursBetween({start-time}, {end-time}) ?? hoursBetween({start-time}, now())) * case({safety-gap} >= 1 -> 0, {safety-gap} >= 0 -> 1 - {safety-gap}, {safety-gap} <= -5 -> 32, {safety-gap} == -0.5 -> 1.5, {safety-gap} == -1 -> 2, {safety-gap} == -1.5 -> 3, {safety-gap} == -2 -> 4, {safety-gap} == -2.5 -> 6, {safety-gap} == -3 -> 8, {safety-gap} == -3.5 -> 12, {safety-gap} == -4 -> 16, {safety-gap} == -4.5 -> 24, otherwise -> 0)'
 slug: session-tracking-spend-hours
 domain-parent-slug: page-type/session-tracking
 ---

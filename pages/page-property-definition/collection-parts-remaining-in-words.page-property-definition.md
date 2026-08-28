@@ -5,7 +5,7 @@ title: "Collection parts remaining in words"
 defined-on-slug: page-type/collection
 key: partsRemainingInWords
 type: number
-expression: partsLengthInWords - partsProgressInWords
+expression: '({partsLengthInWords} ?? 0) - ({partsProgressInWords} ?? 0)'
 slug: collection-parts-remaining-in-words
 domain-parent-slug: page-type/collection
 ---

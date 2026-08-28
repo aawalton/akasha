@@ -5,7 +5,7 @@ title: "Connection activity is parasocial"
 defined-on-slug: page-type/connection-activity
 key: is-parasocial
 type: boolean
-expression: prop(reality) != 'authentic'
+expression: '{reality} != "authentic"'
 slug: connection-activity-is-parasocial
 domain-parent-slug: page-type/connection-activity
 ---

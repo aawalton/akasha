@@ -5,7 +5,7 @@ title: "Computer overall performance score"
 defined-on-slug: page-type/computer
 key: overall-performance-score
 type: number
-expression: cpuScore + gpuScore + storageScore + ramScore
+expression: '({cpu-score} ?? 0) + ({gpu-score} ?? 0) + ({storage-score} ?? 0) + ({ram-score} ?? 0)'
 slug: computer-overall-performance-score
 domain-parent-slug: page-type/computer
 ---

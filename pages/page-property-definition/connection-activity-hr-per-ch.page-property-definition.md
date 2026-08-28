@@ -5,7 +5,7 @@ title: "Connection activity hours per connection hour"
 defined-on-slug: page-type/connection-activity
 key: hr-per-ch
 type: number
-expression: 32 / prop(multiplier)
+expression: '32 / {multiplier}'
 slug: connection-activity-hr-per-ch
 domain-parent-slug: page-type/connection-activity
 ---

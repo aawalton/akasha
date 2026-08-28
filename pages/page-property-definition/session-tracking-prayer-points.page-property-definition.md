@@ -5,7 +5,7 @@ title: "Session tracking prayer points"
 defined-on-slug: page-type/session-tracking
 key: prayer-points
 type: number
-expression: if(containsText(" " + prop(title) + " ", " pray "), (if(prop(end-time) == null, now(), parseInstant(prop(end-time))) - parseInstant(prop(start-time))) / 60000, 0)
+expression: 'case(hasWord({title}, "pray") -> (hoursBetween({start-time}, {end-time}) ?? hoursBetween({start-time}, now())) * 60, otherwise -> 0)'
 slug: session-tracking-prayer-points
 domain-parent-slug: page-type/session-tracking
 ---

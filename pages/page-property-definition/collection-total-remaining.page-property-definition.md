@@ -5,7 +5,7 @@ title: "Collection total remaining"
 defined-on-slug: page-type/collection
 key: totalRemaining
 type: number
-expression: totalRemainingInWords / unitWords
+expression: '({totalRemainingInWords} ?? 0) / {unitWords}'
 slug: collection-total-remaining
 domain-parent-slug: page-type/collection
 ---

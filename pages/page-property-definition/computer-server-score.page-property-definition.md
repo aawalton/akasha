@@ -5,7 +5,7 @@ title: "Computer server score"
 defined-on-slug: page-type/computer
 key: server-score
 type: number
-expression: (status != "needs-repair") * (cpuScore * 0.5 + ramScore * 0.3 + storageScore * 0.2 + (formFactor == "desktop") * 10)
+expression: 'case({status} != "needs-repair" -> ({cpu-score} ?? 0) * 0.5 + ({ram-score} ?? 0) * 0.3 + ({storage-score} ?? 0) * 0.2 + case({form-factor} == "desktop" -> 10, otherwise -> 0), otherwise -> 0)'
 slug: computer-server-score
 domain-parent-slug: page-type/computer
 ---

@@ -5,7 +5,7 @@ title: "Daily tracking surplus hours"
 defined-on-slug: page-type/daily-tracking
 key: surplus-hours
 type: number
-expression: if(prop(sleep-hours) == null, 0, prop(sleep-hours)) - if(prop(spend-hours) == null, 0, prop(spend-hours))
+expression: '({sleep-hours} ?? 0) - ({spend-hours} ?? 0)'
 slug: daily-tracking-surplus-hours
 domain-parent-slug: page-type/daily-tracking
 ---

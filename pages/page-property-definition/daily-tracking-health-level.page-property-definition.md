@@ -5,7 +5,7 @@ title: "Daily tracking health level"
 defined-on-slug: page-type/daily-tracking
 key: health-level
 type: number
-expression: (prop(health-points) >= 2) && 4 || (prop(health-points) >= 1) && 3 || (prop(health-points) >= 0.5) && 2 || (prop(health-points) >= 0.25) && 1 || 0
+expression: 'case({health-points} >= 2 -> 4, {health-points} >= 1 -> 3, {health-points} >= 0.5 -> 2, {health-points} >= 0.25 -> 1, otherwise -> 0)'
 slug: daily-tracking-health-level
 domain-parent-slug: page-type/daily-tracking
 ---

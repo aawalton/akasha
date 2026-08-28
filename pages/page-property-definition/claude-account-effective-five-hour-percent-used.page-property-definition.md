@@ -5,7 +5,7 @@ title: "Claude account effective five hour percent used"
 defined-on-slug: page-type/claude-account
 key: effective-five-hour-percent-used
 type: number
-expression: prop(subscription-disabled-reason) && 100 || prop(seven-day-percent-used) >= 100 && 100 || prop(five-hour-percent-used)
+expression: 'case({subscription-disabled-reason} != absent -> 100, {seven-day-percent-used} >= 100 -> 100, otherwise -> {five-hour-percent-used})'
 slug: claude-account-effective-five-hour-percent-used
 domain-parent-slug: page-type/claude-account
 ---

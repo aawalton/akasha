@@ -5,7 +5,7 @@ title: "Daily tracking love level"
 defined-on-slug: page-type/daily-tracking
 key: love-level
 type: number
-expression: (prop(love-points) >= 2) && 4 || (prop(love-points) >= 1) && 3 || (prop(love-points) >= 0.5) && 2 || (prop(love-points) >= 0.25) && 1 || 0
+expression: 'case({love-points} >= 2 -> 4, {love-points} >= 1 -> 3, {love-points} >= 0.5 -> 2, {love-points} >= 0.25 -> 1, otherwise -> 0)'
 slug: daily-tracking-love-level
 domain-parent-slug: page-type/daily-tracking
 ---

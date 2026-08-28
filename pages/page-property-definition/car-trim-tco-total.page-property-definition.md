@@ -5,7 +5,7 @@ title: "Car trim tco total"
 defined-on-slug: page-type/car-trim
 key: tcoTotal
 type: number
-expression: "prop(tcoDepreciation) + prop(tcoFuel) + prop(tcoInsurance) + prop(tcoMaintenance) + prop(tcoRepairs) + prop(tcoFinancing) + prop(tcoTaxesFees)"
+expression: '({tcoDepreciation} ?? 0) + ({tcoFuel} ?? 0) + ({tcoInsurance} ?? 0) + ({tcoMaintenance} ?? 0) + ({tcoRepairs} ?? 0) + ({tcoFinancing} ?? 0) + ({tcoTaxesFees} ?? 0)'
 slug: car-trim-tco-total
 domain-parent-slug: page-type/car-trim
 ---

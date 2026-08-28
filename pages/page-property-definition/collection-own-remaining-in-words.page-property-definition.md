@@ -5,7 +5,7 @@ title: "Collection own remaining in words"
 defined-on-slug: page-type/collection
 key: ownRemainingInWords
 type: number
-expression: ownLengthInWords - ownProgressInWords
+expression: '({ownLengthInWords} ?? 0) - ({ownProgressInWords} ?? 0)'
 slug: collection-own-remaining-in-words
 domain-parent-slug: page-type/collection
 ---

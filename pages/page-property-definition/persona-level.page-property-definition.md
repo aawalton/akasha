@@ -5,7 +5,7 @@ title: "Persona level"
 defined-on-slug: page-type/persona
 key: level
 type: number
-expression: (prop(total-points) >= 769*(prop(green-day-points)||10000)) && 5 || (prop(total-points) >= 229*(prop(green-day-points)||10000)) && 4 || (prop(total-points) >= 49*(prop(green-day-points)||10000)) && 3 || (prop(total-points) >= 7*(prop(green-day-points)||10000)) && 2 || 1
+expression: 'case({total-points} >= 769 * ({green-day-points} ?? 10000) -> 5, {total-points} >= 229 * ({green-day-points} ?? 10000) -> 4, {total-points} >= 49 * ({green-day-points} ?? 10000) -> 3, {total-points} >= 7 * ({green-day-points} ?? 10000) -> 2, otherwise -> 1)'
 slug: persona-level
 domain-parent-slug: domain/persona-points
 ---

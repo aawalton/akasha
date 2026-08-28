@@ -5,7 +5,7 @@ title: "Collection total length"
 defined-on-slug: page-type/collection
 key: totalLength
 type: number
-expression: totalLengthInWords / unitWords
+expression: '({totalLengthInWords} ?? 0) / {unitWords}'
 slug: collection-total-length
 domain-parent-slug: page-type/collection
 ---

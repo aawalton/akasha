@@ -5,7 +5,7 @@ title: "Daily tracking strength calories"
 defined-on-slug: page-type/daily-tracking
 key: strength-calories
 type: number
-expression: prop(strength-volume) && prop(strength-volume) / 7
+expression: '{strength-volume} / 7'
 slug: daily-tracking-strength-calories
 domain-parent-slug: page-type/daily-tracking
 ---

@@ -5,7 +5,7 @@ title: "Collection own length in words"
 defined-on-slug: page-type/collection
 key: ownLengthInWords
 type: number
-expression: ownLength * unitWords
+expression: '({ownLength} ?? 0) * ({unitWords} ?? 0)'
 slug: collection-own-length-in-words
 domain-parent-slug: page-type/collection
 ---

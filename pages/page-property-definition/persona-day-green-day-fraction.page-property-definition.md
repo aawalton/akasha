@@ -5,7 +5,7 @@ title: "Persona day green day fraction"
 defined-on-slug: page-type/persona-day
 key: green-day-fraction
 type: number
-expression: prop(green-day-points) > 0 && prop(points) / prop(green-day-points) || 0
+expression: 'case({green-day-points} > 0 -> ({points} ?? 0) / {green-day-points}, otherwise -> 0)'
 slug: persona-day-green-day-fraction
 domain-parent-slug: page-type/persona-day
 ---

@@ -5,7 +5,7 @@ title: "Collection own remaining"
 defined-on-slug: page-type/collection
 key: ownRemaining
 type: number
-expression: ownLength - ownProgress
+expression: '({ownLength} ?? 0) - ({ownProgress} ?? 0)'
 slug: collection-own-remaining
 domain-parent-slug: page-type/collection
 ---

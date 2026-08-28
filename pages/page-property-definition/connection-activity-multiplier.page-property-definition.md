@@ -5,7 +5,7 @@ title: "Connection activity multiplier"
 defined-on-slug: page-type/connection-activity
 key: multiplier
 type: number
-expression: prop(maturity) * prop(attractiveness) * prop(femininity) * prop(wit) * prop(kindness) * prop(reality-value) * prop(energy) * prop(positivity) * prop(attn) * prop(ident) * prop(intensity) * prop(novelty) * prop(modality-value) * prop(safety-value)
+expression: '{maturity} * {attractiveness} * {femininity} * {wit} * {kindness} * {reality-value} * {energy} * {positivity} * {attn} * {ident} * {intensity} * {novelty} * {modality-value} * {safety-value}'
 slug: connection-activity-multiplier
 domain-parent-slug: page-type/connection-activity
 ---

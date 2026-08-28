@@ -5,7 +5,7 @@ title: "Persona day points"
 defined-on-slug: page-type/persona-day
 key: points
 type: number
-expression: prop(sleep-points) + prop(strength-points) + prop(cardio-points) + prop(nutrition-points) + prop(task-points) + prop(breathing-points) + prop(source-points)
+expression: '({sleep-points} ?? 0) + ({strength-points} ?? 0) + ({cardio-points} ?? 0) + ({nutrition-points} ?? 0) + ({task-points} ?? 0) + ({breathing-points} ?? 0) + ({source-points} ?? 0)'
 slug: persona-day-points
 domain-parent-slug: page-type/persona-day
 ---

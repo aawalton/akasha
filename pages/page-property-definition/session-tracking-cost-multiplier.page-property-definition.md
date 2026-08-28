@@ -5,7 +5,7 @@ title: "Session tracking cost multiplier"
 defined-on-slug: page-type/session-tracking
 key: cost-multiplier
 type: number
-expression: "if(prop(safety-level) == null, 0, if(prop(difficulty-level) == null, 0, if((prop(safety-level) - prop(difficulty-level)) >= 1, 0, if((prop(safety-level) - prop(difficulty-level)) >= 0, 1 - (prop(safety-level) - prop(difficulty-level)), if((prop(safety-level) - prop(difficulty-level)) == -0.5, 1.5, if((prop(safety-level) - prop(difficulty-level)) == -1, 2, if((prop(safety-level) - prop(difficulty-level)) == -1.5, 3, if((prop(safety-level) - prop(difficulty-level)) == -2, 4, if((prop(safety-level) - prop(difficulty-level)) == -2.5, 6, if((prop(safety-level) - prop(difficulty-level)) == -3, 8, if((prop(safety-level) - prop(difficulty-level)) == -3.5, 12, if((prop(safety-level) - prop(difficulty-level)) == -4, 16, if((prop(safety-level) - prop(difficulty-level)) == -4.5, 24, if((prop(safety-level) - prop(difficulty-level)) <= -5, 32, 0))))))))))))))"
+expression: 'case({safety-level} == absent -> 0, {difficulty-level} == absent -> 0, {safety-gap} >= 1 -> 0, {safety-gap} >= 0 -> 1 - {safety-gap}, {safety-gap} <= -5 -> 32, {safety-gap} == -0.5 -> 1.5, {safety-gap} == -1 -> 2, {safety-gap} == -1.5 -> 3, {safety-gap} == -2 -> 4, {safety-gap} == -2.5 -> 6, {safety-gap} == -3 -> 8, {safety-gap} == -3.5 -> 12, {safety-gap} == -4 -> 16, {safety-gap} == -4.5 -> 24, otherwise -> 0)'
 slug: session-tracking-cost-multiplier
 domain-parent-slug: page-type/session-tracking
 ---

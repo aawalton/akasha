@@ -5,7 +5,7 @@ title: "Persona day strength points"
 defined-on-slug: page-type/persona-day
 key: strength-points
 type: number
-expression: prop(strength-volume) / 7
+expression: '({strength-volume} ?? 0) / 7'
 slug: persona-day-strength-points
 domain-parent-slug: page-type/persona-day
 ---

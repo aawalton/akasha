@@ -5,7 +5,7 @@ title: "Persona percent progress"
 defined-on-slug: page-type/persona
 key: percent-progress
 type: number
-expression: (prop(total-points) >= 769*(prop(green-day-points)||10000)) && 100 || (prop(total-points) >= 229*(prop(green-day-points)||10000)) && ((prop(total-points) - 229*(prop(green-day-points)||10000)) / (540*(prop(green-day-points)||10000)) * 100) || (prop(total-points) >= 49*(prop(green-day-points)||10000)) && ((prop(total-points) - 49*(prop(green-day-points)||10000)) / (180*(prop(green-day-points)||10000)) * 100) || (prop(total-points) >= 7*(prop(green-day-points)||10000)) && ((prop(total-points) - 7*(prop(green-day-points)||10000)) / (42*(prop(green-day-points)||10000)) * 100) || (prop(total-points) / (7*(prop(green-day-points)||10000)) * 100)
+expression: 'case(({total-points} ?? 0) >= 769 * ({green-day-points} ?? 10000) -> 100, ({total-points} ?? 0) >= 229 * ({green-day-points} ?? 10000) -> (({total-points} ?? 0) - 229 * ({green-day-points} ?? 10000)) / (540 * ({green-day-points} ?? 10000)) * 100, ({total-points} ?? 0) >= 49 * ({green-day-points} ?? 10000) -> (({total-points} ?? 0) - 49 * ({green-day-points} ?? 10000)) / (180 * ({green-day-points} ?? 10000)) * 100, ({total-points} ?? 0) >= 7 * ({green-day-points} ?? 10000) -> (({total-points} ?? 0) - 7 * ({green-day-points} ?? 10000)) / (42 * ({green-day-points} ?? 10000)) * 100, otherwise -> ({total-points} ?? 0) / (7 * ({green-day-points} ?? 10000)) * 100)'
 slug: persona-percent-progress
 domain-parent-slug: domain/persona-points
 ---

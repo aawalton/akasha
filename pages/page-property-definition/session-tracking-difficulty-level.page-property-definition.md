@@ -4,7 +4,7 @@ page-type-slug: page-property-definition
 title: "Session tracking difficulty level"
 defined-on-slug: page-type/session-tracking
 key: difficulty-level
-type: text
+type: number
 slug: session-tracking-difficulty-level
 domain-parent-slug: page-type/session-tracking
 ---

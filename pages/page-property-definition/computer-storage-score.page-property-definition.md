@@ -5,7 +5,7 @@ title: "Computer storage score"
 defined-on-slug: page-type/computer
 key: storage-score
 type: number
-expression: ssd + hdd / 10
+expression: '({ssd} ?? 0) + ({hdd} ?? 0) / 10'
 slug: computer-storage-score
 domain-parent-slug: page-type/computer
 ---

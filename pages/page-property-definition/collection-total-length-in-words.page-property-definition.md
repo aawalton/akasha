@@ -5,7 +5,7 @@ title: "Collection total length in words"
 defined-on-slug: page-type/collection
 key: totalLengthInWords
 type: number
-expression: ownLengthInWords + partsLengthInWords
+expression: '({ownLengthInWords} ?? 0) + ({partsLengthInWords} ?? 0)'
 slug: collection-total-length-in-words
 domain-parent-slug: page-type/collection
 ---

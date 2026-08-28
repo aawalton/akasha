@@ -5,7 +5,7 @@ title: "Collection own progress in words"
 defined-on-slug: page-type/collection
 key: ownProgressInWords
 type: number
-expression: ownProgress * unitWords
+expression: '({ownProgress} ?? 0) * ({unitWords} ?? 0)'
 slug: collection-own-progress-in-words
 domain-parent-slug: page-type/collection
 ---

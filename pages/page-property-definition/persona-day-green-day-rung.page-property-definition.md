@@ -5,7 +5,7 @@ title: "Persona day green day rung"
 defined-on-slug: page-type/persona-day
 key: green-day-rung
 type: number
-expression: if(prop(green-day-fraction) >= 2, 2, if(prop(green-day-fraction) >= 1, 1, if(prop(green-day-fraction) >= 0.5, 0.5, if(prop(green-day-fraction) >= 0.25, 0.25, 0))))
+expression: 'case({green-day-fraction} >= 2 -> 2, {green-day-fraction} >= 1 -> 1, {green-day-fraction} >= 0.5 -> 0.5, {green-day-fraction} >= 0.25 -> 0.25, otherwise -> 0)'
 slug: persona-day-green-day-rung
 domain-parent-slug: page-type/persona-day
 ---

@@ -5,7 +5,7 @@ title: "Daily tracking activity calories"
 defined-on-slug: page-type/daily-tracking
 key: activity-calories
 type: number
-expression: if(prop(active-calories) == null, 0, prop(active-calories)) + if(prop(strength-calories) == null, 0, prop(strength-calories))
+expression: '({active-calories} ?? 0) + ({strength-calories} ?? 0)'
 slug: daily-tracking-activity-calories
 domain-parent-slug: page-type/daily-tracking
 ---

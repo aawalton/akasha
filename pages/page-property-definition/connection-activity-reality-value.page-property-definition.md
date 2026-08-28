@@ -5,7 +5,7 @@ title: "Connection activity reality value"
 defined-on-slug: page-type/connection-activity
 key: reality-value
 type: number
-expression: (prop(reality) == 'authentic') * 1.0 + (prop(reality) == 'professional') * 0.5 + (prop(reality) == 'celebrity') * 0.25
+expression: 'case({reality} == "authentic" -> 1, {reality} == "professional" -> 0.5, {reality} == "celebrity" -> 0.25, otherwise -> 0)'
 slug: connection-activity-reality-value
 domain-parent-slug: page-type/connection-activity
 ---

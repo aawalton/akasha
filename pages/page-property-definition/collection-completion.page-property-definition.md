@@ -5,7 +5,7 @@ title: "Collection completion"
 defined-on-slug: page-type/collection
 key: completion
 type: select(slug)
-expression: (totalLengthInWords > 0) && (totalRemainingInWords <= 0) && "completed" || (totalProgressInWords > 0) && "in-progress" || "not-started"
+expression: 'case({totalLengthInWords} > 0 && {totalRemainingInWords} <= 0 -> "completed", {totalProgressInWords} > 0 -> "in-progress", otherwise -> "not-started")'
 values:
   - not-started
   - in-progress

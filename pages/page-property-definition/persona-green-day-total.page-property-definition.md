@@ -5,7 +5,7 @@ title: "Persona green day total"
 defined-on-slug: page-type/persona
 key: green-day-total
 type: number
-expression: prop(total-points) / (prop(green-day-points) || 10000)
+expression: '({total-points} ?? 0) / ({green-day-points} ?? 10000)'
 slug: persona-green-day-total
 domain-parent-slug: domain/persona-points
 ---

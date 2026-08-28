@@ -5,7 +5,7 @@ title: "Daily tracking learn level"
 defined-on-slug: page-type/daily-tracking
 key: learn-level
 type: number
-expression: (prop(learn-points) >= 2) && 4 || (prop(learn-points) >= 1) && 3 || (prop(learn-points) >= 0.5) && 2 || (prop(learn-points) >= 0.25) && 1 || 0
+expression: 'case({learn-points} >= 2 -> 4, {learn-points} >= 1 -> 3, {learn-points} >= 0.5 -> 2, {learn-points} >= 0.25 -> 1, otherwise -> 0)'
 slug: daily-tracking-learn-level
 domain-parent-slug: page-type/daily-tracking
 ---

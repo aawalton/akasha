@@ -5,7 +5,7 @@ title: "Connection activity safety value"
 defined-on-slug: page-type/connection-activity
 key: safety-value
 type: number
-expression: (prop(safety) == 'L3') * 0.25 + (prop(safety) == 'L4') * 0.5 + (prop(safety) == 'L5') * 0.75 + (prop(safety) == 'L6') * 1.0
+expression: 'case({safety} == "L3" -> 0.25, {safety} == "L4" -> 0.5, {safety} == "L5" -> 0.75, {safety} == "L6" -> 1, otherwise -> 0)'
 slug: connection-activity-safety-value
 domain-parent-slug: page-type/connection-activity
 ---
