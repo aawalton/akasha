@@ -120,13 +120,6 @@ export function coerceByType(value: unknown, type: string): unknown {
   }
 }
 
-function returnTypeOf(definition: { readonly config?: unknown }): string {
-  const config = definition.config
-  if (!isMapping(config)) return "text"
-  const stated = config.returnType
-  return typeof stated === "string" && stated !== "" ? stated : "text"
-}
-
 const UUID_BYTES = 16
 const TIMESTAMP_BYTES = 6
 const VERSION_BYTE = 6
@@ -186,9 +179,7 @@ export function buildRawPageRows({
   pageTypeId,
   pageTypeSlug,
 }: BuildRowsArgs): readonly FilePageRow[] {
-  const typeOf = new Map(
-    definitions.map((d) => [d.id, d.type === "formula" ? returnTypeOf(d) : d.type])
-  )
+  const typeOf = new Map(definitions.map((d) => [d.id, d.type]))
   return rows.map((row) => {
     const attributes: Record<string, unknown> = {}
     const lifted = new Map<string, string | null>()

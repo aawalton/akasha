@@ -87,7 +87,6 @@ function optionsFrom(value: unknown): readonly SelectOption[] | null {
 
 function definitionOf(one: Declaration): PropertyDefinition {
   const config: Record<string, Json> = {}
-  if (one.type === "formula" && one.returnType !== null) config.returnType = one.returnType
   const options = optionsFrom(one.values)
   if (options !== null) config.options = options.map((each) => ({ ...each }))
   return {

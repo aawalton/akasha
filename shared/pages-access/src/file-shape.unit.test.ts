@@ -44,7 +44,7 @@ const SHAPES: Readonly<Record<string, PageTypeShape>> = {
     ownerSlug: null,
     declarations: [
       declaration("pixel-width", "spelled"),
-      declaration("run", "spelled", { type: "formula", returnType: "number" }),
+      declaration("run", "spelled", { type: "number" }),
       declaration("mood", "spelled", { type: "select(text)", values: ["calm", "hurried"] }),
     ],
   },
@@ -102,12 +102,6 @@ describe("the shape a page type is read under", () => {
     const shape = await fileShapeOf("spelled")
     expect(shape?.definitions.map((one) => one.id)).toContain("pixelWidth")
     expect(shape?.definitions.find((one) => one.id === "pixelWidth")?.key).toBe("pixel-width")
-  })
-
-  it("carries a formula's return type into the config a reader coerces by", async () => {
-    const shape = await fileShapeOf("spelled")
-    const one = shape?.definitions.find((each) => each.id === "run")
-    expect(one?.config).toEqual({ returnType: "number" })
   })
 
   it("makes options of the values a select states", async () => {
