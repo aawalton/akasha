@@ -132,6 +132,22 @@ describe("what a walk back reports as a fault", () => {
   })
 })
 
+describe("what an answer says of a key it reached no value for", () => {
+  it("names a `keys` entry no property declares and no page states, under `unfound`", () => {
+    const got = answer(ROOTS, { pageType: "site", keys: ["slug", "no-such-key"] })
+    expect(got?.unfound).toEqual(["no-such-key"])
+  })
+
+  it("leaves a `keys` entry a page states off `unfound`, though no property declares it", () => {
+    expect(answer(ROOTS, { pageType: "site", keys: ["slug"] })?.unfound).toEqual([])
+  })
+
+  it("carries a tested key no page states on `absent`, one walk settling both", () => {
+    const got = answer(ROOTS, { pageType: "site", where: [{ key: "no-such-key", is: "anything" }] })
+    expect(got?.absent).toEqual(["no-such-key"])
+  })
+})
+
 describe("a resolved value read through every operator", () => {
   it("narrows a `where`", () => {
     expect(answer(ROOTS, { pageType: "job", where: [{ key: "owner", is: "ada" }] })?.n).toBe(2)
