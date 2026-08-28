@@ -206,7 +206,6 @@ const DeclarationSchema = z.object({
   title: z.string(),
   pageId: z.string(),
   on: z.string(),
-  returnType: z.string().nullable().default(null),
   values: z.unknown().default(null),
   targetSlug: z.string().nullable().default(null),
   slugProperty: z.string().nullable().default(null),

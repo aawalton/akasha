@@ -34,7 +34,6 @@ export interface Declaration {
   readonly title: string
   readonly pageId: string
   readonly on: string
-  readonly returnType: string | null
   readonly values: Values[string] | null
   readonly targetSlug: string | null
   readonly slugProperty: string | null
@@ -103,7 +102,6 @@ function declarationOf(row: Row, on: string): Declaration | null {
     title: textOf(row.values, "title") ?? key,
     pageId: textOf(row.values, "id") ?? key,
     on,
-    returnType: textOf(row.values, "returnType"),
     values: held === undefined ? null : held,
     targetSlug: textOf(row.values, TARGET_SLUG),
     slugProperty: textOf(row.values, SLUG_PROPERTY),

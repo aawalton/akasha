@@ -51,8 +51,8 @@ const FILES: Readonly<Record<string, string>> = {
     "title: What the task is",
   ]),
   "pages/page-property-definition/task-run.md": property("page-type/task", "run", [
-    "type: formula",
-    "returnType: number",
+    "type: number",
+    "expression: effort + 1",
   ]),
   "pages/page-property-definition/task-owner.md": property("page-type/task", "owner-slug", [
     "type: relation-slug",
@@ -124,11 +124,6 @@ describe("the shape of a page type", () => {
   it("reads a definition from every population that extends the definition page type", () => {
     const one = shapeOf(ROOTS, "task")?.declarations.find((each) => each.key === "tracked")
     expect(one?.type).toBe("boolean")
-  })
-
-  it("carries the return type a formula states", () => {
-    const one = shapeOf(ROOTS, "task")?.declarations.find((each) => each.key === "run")
-    expect(one?.returnType).toBe("number")
   })
 
   it("carries the values a select states, for the reader to make options of", () => {

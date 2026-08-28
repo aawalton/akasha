@@ -17,7 +17,6 @@ const declaration = (key: string, on: string, held: Readonly<Record<string, unkn
   title: key,
   pageId: `${on}-${key}`,
   on,
-  returnType: null,
   values: null,
   targetSlug: null,
   slugProperty: null,
