@@ -18,3 +18,5 @@ check-on-worktree: false
 A specifier naming a package rather than a path is not judged.
 
 A file in a project that emits JavaScript is not judged.
+
+A generated file is outside this check.

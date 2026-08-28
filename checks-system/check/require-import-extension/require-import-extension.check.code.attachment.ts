@@ -1,7 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { dirname, join, relative, resolve } from "node:path"
 import ts from "typescript"
 import { onceInCall } from "../../../during-call/during-call.ts"
+import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesCode, specifiersIn } from "../../imports/imports.ts"
 import type { Check } from "../check-shape.ts"
@@ -162,6 +163,7 @@ export const requireImportExtension = {
     if (text === null) return []
     const bare = specifiersIn(text).filter(missingExtension)
     if (bare.length === 0) return []
+    if (isGeneratedFile(relative(root, path), text)) return []
     if (emittingProject(root, path) !== null) return []
     return bare.map((one) => `\`${one}\` is written without the extension of the file it names`)
   },
