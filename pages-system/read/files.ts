@@ -73,9 +73,7 @@ export const pagesUnder = (
   return why === null ? found : why
 }
 
-export const everyPageUnder = (
-  root: string
-): ReadonlyMap<string, readonly string[]> | string => {
+export const everyPageUnder = (root: string): ReadonlyMap<string, readonly string[]> | string => {
   const found = new Map<string, string[]>()
   const why = walked(root, () => true, found)
   return why === null ? found : why
