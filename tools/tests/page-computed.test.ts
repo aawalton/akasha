@@ -17,15 +17,13 @@ const namedType = (slug: string, lines: readonly string[]): string =>
 
 const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-type/number.page-property-type.md": namedType("number", ["kind: primitive"]),
-  "pages/page-property-type/formula.page-property-type.md": namedType("formula", ["kind: record", "reaches: true"]),
   "pages/page-property-type/lookup.page-property-type.md": namedType("lookup", ["kind: record", "reaches: true"]),
 
   "pages/page-type/tree.page-type.md": kind(),
 
   "pages/page-property-definition/tree-fruit.page-property-definition.md": property("tree", "fruit", ["type: number"]),
-  "pages/page-property-definition/tree-twice.page-property-definition.md": property("tree", "twice", ["type: formula", "expression: fruit * 2"]),
+  "pages/page-property-definition/tree-twice.page-property-definition.md": property("tree", "twice", ["type: number", "expression: fruit * 2"]),
   "pages/page-property-definition/tree-elsewhere.page-property-definition.md": property("tree", "elsewhere", ["type: lookup"]),
-  "pages/page-property-definition/tree-hollow.page-property-definition.md": property("tree", "hollow", ["type: formula"]),
   "pages/page-property-definition/tree-supplied.page-property-definition.md": property("tree", "supplied", ["type: number", "computed: true"]),
   "pages/page-property-definition/tree-plain.page-property-definition.md": property("tree", "plain", ["type: number"]),
 
@@ -51,6 +49,10 @@ const computedOf = (slug: string): boolean | undefined => declarationsIn(ROOTS).
 
 describe("whether a property is computed", () => {
   it("is answered by a type the vocabulary marks as reached for, with nothing stating it", () => {
+    expect(computedOf("tree-elsewhere")).toBe(true)
+  })
+
+  it("is answered by an expression, which is what says a property is worked out", () => {
     expect(computedOf("tree-twice")).toBe(true)
   })
 
@@ -69,15 +71,7 @@ describe("a type the vocabulary marks as reached for and the deriver works out n
     found.rows("tree")
     expect(found.faults()).toContain(
       "`tree-elsewhere` states `type: lookup`, which the vocabulary marks as reached for, and this " +
-        "deriver reaches a value for formula, aggregate, rollup and no other type"
-    )
-  })
-
-  it("names a formula stating no expression rather than answering nothing", () => {
-    const found = deriver(ROOTS)
-    found.rows("tree")
-    expect(found.faults()).toContain(
-      "`tree-hollow` states `type: formula` and no `expression`, so nothing says what it works its value out with"
+        "deriver reaches a value for aggregate, rollup and no other type"
     )
   })
 })
