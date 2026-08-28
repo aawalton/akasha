@@ -3,7 +3,7 @@ id: 8dc79e23-d456-57da-9cd7-f7e52eb8268c
 slug: dnd-measurement-untested
 page-type-slug: finding
 title: "Dnd measurement untested"
-domain-slug: domain/pages-system
+domain-slug: domain/design-system
 ---
 
 # Claim
