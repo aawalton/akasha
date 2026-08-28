@@ -49,9 +49,9 @@ mock.module("@shared/open-questions", () => ({
   selectTappedOptionIndex: realOpenQuestions.selectTappedOptionIndex,
 }))
 
-const realProvider = await import("../../../../shared/supabase/rr/src/provider")
+const realProvider = await import("../../../../shared/supabase-rr/src/provider.tsx")
 const realSupabaseProvider = realProvider.SupabaseProvider
-mock.module("../../../../shared/supabase/rr/src/provider", () => ({
+mock.module("../../../../shared/supabase-rr/src/provider.tsx", () => ({
   SupabaseProvider: realSupabaseProvider,
   useSupabase: () => ({}),
 }))
