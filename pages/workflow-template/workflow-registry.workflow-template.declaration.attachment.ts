@@ -33,7 +33,7 @@ export default workflow("registry", {
         "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/pvc.generated.yaml",
         "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/deployment.generated.yaml",
         "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/service.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/generated/cronjob-gc.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n registry -f infra/k8s/src/registry/registry-gc/generated/cronjob-gc.generated.yaml",
         ...verifyRolloutCommands({ namespace: "registry", deployment: "registry" }),
       ],
       dependsOn: ["registry-apply-namespaces"],

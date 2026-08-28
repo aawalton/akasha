@@ -32,7 +32,7 @@ export default workflow("buildkit", {
         "set -e",
         "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/configmap.generated.yaml",
         "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/service.generated.yaml",
-        "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/generated/prune-cronjob.generated.yaml",
+        "kubectl apply --server-side --force-conflicts -n buildkit -f infra/k8s/src/buildkit/buildkit-prune/generated/prune-cronjob.generated.yaml",
         ...checksumHashCommands({
           variable: "CONFIG_HASH",
           read: "cat infra/k8s/src/buildkit/generated/configmap.generated.yaml",
