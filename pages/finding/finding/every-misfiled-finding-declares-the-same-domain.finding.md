@@ -27,4 +27,12 @@ Four sub-claims made about this corpus hold: none carries a bare number, none is
 
 One does not. "Every finding names a domain that exists" is false. Of 326 distinct `domain-slug` values, one resolves to no page: `domain/seat-presence`, carried by `pages/finding/seat-presence/a-correct-refusal-has-become-an-alarm-that-cannot-signal.finding.md`. Only `seat-presence.page-property-definition.md` and `seat-presence-*` domain siblings stand. `findings-sorted` passes it because it never checks existence, which is what `pages/finding/finding/dead-domain-folder-passes.finding.md` already states.
 
-Not measured: which domain the 731 should carry instead.
+Which domain they should carry instead, measured 2026-08-28: for 715 of the 731 none exists. The folder names a retired vocabulary.
+
+```
+96 folders (pages/finding/global/ excluded)
+ 3 match a page slug: food, the-tower, dragons-and-dungeons -- 16 findings
+93 match no page of any type                               -- 715 findings
+441 of the 715 stand in six: code-check 141, code-harness 107, infra 70,
+  instructions-harness 68, tests 36, readouts 19
+```
