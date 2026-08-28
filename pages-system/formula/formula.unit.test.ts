@@ -85,7 +85,7 @@ test("a formula wrong in what it names is refused at the checking moment", () =>
 })
 
 test("a checked formula cannot be made from outside this package", () => {
-  // @ts-expect-error a Checked holds its tree under a private name, so no object literal is one
+  // @ts-expect-error a Checked carries a brand no object literal can spell, so none is one
   const forged: Checked = { ok: true, type: { holds: null, absent: true }, reads: [] }
   expect(forged.reads).toEqual([])
 })
