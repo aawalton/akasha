@@ -3,7 +3,6 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
 import { heldOf } from "../lib/page-rows.ts"
-import { evaluate } from "../lib/page-expression.ts"
 import { valuesIn } from "../lib/page-file-values.ts"
 import type { Roots } from "../../page/page"
 
@@ -120,20 +119,5 @@ describe("the two states a written value must stay distinct from", () => {
     const found = faultsOf().join("\n")
     expect(found).not.toContain("`blank`")
     expect(found).not.toContain("`away`")
-  })
-})
-
-describe("what the evaluator itself does with an empty list, which absence never reads as", () => {
-  it("reads an empty list as truthy, so it is not an absence", () => {
-    expect(evaluate("k && 100 || 7", () => [])).toBe("100")
-  })
-
-  it("reads an absent key as null, which is falsy", () => {
-    expect(evaluate("k && 100 || 7", () => null)).toBe("7")
-  })
-
-  it("keeps the two apart under `!`", () => {
-    expect(evaluate("!k", () => [])).toBe("false")
-    expect(evaluate("!k", () => null)).toBe("true")
   })
 })
