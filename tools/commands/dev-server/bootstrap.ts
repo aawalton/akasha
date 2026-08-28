@@ -5,6 +5,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { resolveEnvLocalPath, writeEnvLocalFromSops } from "../../lib/dev-server-bootstrap.ts"
+import { APP_NAMES } from "../../lib/dev-server-ops.ts"
 import { resolveWorktreePath } from "../../lib/dev-server-worktree.ts"
 
 export const help: CommandHelp = {
@@ -21,7 +22,7 @@ export const help: CommandHelp = {
       argLabel: "<name>",
       valueShape: "token",
       required: true,
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     {
       name: "--force",
