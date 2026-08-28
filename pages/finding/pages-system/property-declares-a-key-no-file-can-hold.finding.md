@@ -8,7 +8,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-`fileValuesOf` drops every key in `SETTLED_ELSEWHERE` without saying so, including one a page type declares `required: true`.
+`fileValuesOf` drops every key in `SETTLED_ELSEWHERE` without saying so, at `file-write-values.ts:79`. The half of this about a key the page type declares is false as of `f4fa7f14c0`: `refuseSettledDeclared` at `:194` now refuses that one by name, and `valuesToWrite` at `:224` runs it ahead of the drop on all three write paths. A key nothing declares is still dropped in silence, and that half stands. Re-checked 2026-08-28; the set holds `pageTypeSlug`, `pageTypeId` and `userId`.
 
 # Evidence
 
