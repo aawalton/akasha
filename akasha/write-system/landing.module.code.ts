@@ -34,8 +34,8 @@ export type BodyStore = {
 }
 
 export type Indexing = {
-  readonly wrote: (path: string, body: string) => void
-  readonly took: (path: string) => void
+  readonly wrote: (path: string, body: string, before: string | null) => void
+  readonly took: (path: string, before: string | null) => void
   readonly settle: () => void
 }
 
@@ -142,14 +142,15 @@ export function takingAway(path: string, held: Held): Removal {
 export function land(all: readonly Change[], held: Held): readonly string[] {
   const done: string[] = []
   for (const one of all) {
+    const before = existsSync(one.path) ? readFileSync(one.path, "utf8") : null
     if (one.kind === "remove") {
       rmSync(one.path, { force: true })
-      held.index.took(one.path)
+      held.index.took(one.path, before)
       done.push(one.path)
       continue
     }
     if (one.prior !== null) {
-      const standing = existsSync(one.path) ? oidOf(readFileSync(one.path, "utf8")) : null
+      const standing = before === null ? null : oidOf(before)
       if (standing !== one.prior) {
         throw new Error(
           `${one.path} does not stand as the witness says it did, so nothing was written`
@@ -159,7 +160,7 @@ export function land(all: readonly Change[], held: Held): readonly string[] {
     writeFileSync(one.path, one.body)
     held.record.keep(one.path, oidOf(one.body), Date.now())
     held.bodies.keep(oidOf(one.body), one.body)
-    held.index.wrote(one.path, one.body)
+    held.index.wrote(one.path, one.body, before)
     done.push(one.path)
   }
   held.index.settle()

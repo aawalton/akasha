@@ -37,8 +37,8 @@ type Stage = {
   readonly root: string
   readonly corpus: Corpus
   readonly held: Held
-  readonly wrote: string[]
-  readonly took: string[]
+  readonly wrote: { path: string; body: string; before: string | null }[]
+  readonly took: { path: string; before: string | null }[]
   readonly settled: () => number
 }
 
@@ -53,12 +53,12 @@ function stage(): Stage {
     writeFileSync(at, `export const ${key} = ${JSON.stringify(one.value, null, 2)}\n`)
   }
   const corpus = corpusIn(root)
-  const wrote: string[] = []
-  const took: string[] = []
+  const wrote: { path: string; body: string; before: string | null }[] = []
+  const took: { path: string; before: string | null }[] = []
   let settles = 0
   const index: Indexing = {
-    wrote: (path) => void wrote.push(path),
-    took: (path) => void took.push(path),
+    wrote: (path, body, before) => void wrote.push({ path, body, before }),
+    took: (path, before) => void took.push({ path, before }),
     settle: () => {
       settles += 1
     },
@@ -223,7 +223,7 @@ test("landing a write puts the body on disk, records it read, keeps it, and tell
       seenAt: expect.any(Number),
     })
     expect(stood.held.bodies.of(oidOf("the new body"))).toBe("the new body")
-    expect(stood.wrote).toEqual([at])
+    expect(stood.wrote.map((one) => one.path)).toEqual([at])
     expect(stood.settled()).toBe(1)
   } finally {
     away(stood.root)
@@ -255,7 +255,7 @@ test("landing a removal takes the file away and tells the index it went", () => 
     expect(what.kind).toBe("remove")
     expect(land([what], stood.held)).toEqual([at])
     expect(existsSync(at)).toBe(false)
-    expect(stood.took).toEqual([at])
+    expect(stood.took.map((one) => one.path)).toEqual([at])
     expect(stood.wrote).toEqual([])
   } finally {
     away(stood.root)
@@ -304,6 +304,69 @@ test("a seat cleared for a document stays cleared within the one record it was c
     if (owed === undefined) throw new Error("nothing owed to move")
     writeFileSync(owed, `${readFileSync(owed, "utf8")}\n`)
     expect(refused(authoring(at, "second", stood.held))).toBe(false)
+  } finally {
+    away(stood.root)
+  }
+})
+
+test("the index is handed the body that stood before the one written over it", () => {
+  const stood = stage()
+  const at = `${stood.root}/leaf.thing.ts`
+  const was = readFileSync(at, "utf8")
+  try {
+    readAlso(at, stood)
+    readEverythingOwed(at, stood)
+    const what = authoring(at, "the new body", stood.held)
+    if (refused(what)) throw new Error(what.refused)
+    land([what], stood.held)
+    expect(stood.wrote[0]?.before).toBe(was)
+    expect(stood.wrote[0]?.body).toBe("the new body")
+  } finally {
+    away(stood.root)
+  }
+})
+
+test("the index is handed nothing before a creation, there having been nothing", () => {
+  const stood = stage()
+  const at = `${stood.root}/leaf.thing.ts`
+  try {
+    readAlso(at, stood)
+    readEverythingOwed(at, stood)
+    authoring(at, "x", stood.held)
+    const what = creating(`${stood.root}/new.thing.ts`, "made", stood.held)
+    if (refused(what)) throw new Error(what.refused)
+    land([what], stood.held)
+    expect(stood.wrote[0]?.before).toBe(null)
+  } finally {
+    away(stood.root)
+  }
+})
+
+test("the index is handed the body a removal took away, before it went", () => {
+  const stood = stage()
+  const at = `${stood.root}/leaf.thing.ts`
+  const was = readFileSync(at, "utf8")
+  try {
+    land([takingAway(at, stood.held)], stood.held)
+    expect(stood.took[0]?.before).toBe(was)
+  } finally {
+    away(stood.root)
+  }
+})
+
+test("a prior body too large for the body store still reaches the index whole", () => {
+  const stood = stage()
+  const at = `${stood.root}/leaf.thing.ts`
+  const huge = `export const leaf = { "slug": "leaf", "definition": "${"x".repeat(40_000)}" }\n`
+  try {
+    writeFileSync(at, huge)
+    readAlso(at, stood)
+    readEverythingOwed(at, stood)
+    const what = authoring(at, "small now", stood.held)
+    if (refused(what)) throw new Error(what.refused)
+    land([what], stood.held)
+    expect(stood.held.bodies.of(oidOf(huge))).toBe(null)
+    expect(stood.wrote[0]?.before).toBe(huge)
   } finally {
     away(stood.root)
   }
