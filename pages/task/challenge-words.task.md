@@ -1,5 +1,4 @@
 ---
-id: 1a0c5cab-8931-5bc7-acdd-097c942ae365
 page-type-slug: task
 title: "Challenge words"
 slug: challenge-words
@@ -19,4 +18,5 @@ domain-parent-slug: page-type/task
    - **Point** to specific places where the words feel not simple, not plain, not clear, or not needed.
 
 3. **Let it go.**
+   - **Send** it back with `ops seat send`.
    - **Let** the author decide what to do with the feedback.
