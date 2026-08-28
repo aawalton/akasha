@@ -1,5 +1,6 @@
 import { mkdirSync, readdirSync, readFileSync, realpathSync, rmSync, symlinkSync } from "node:fs"
 import { dirname, resolve } from "node:path"
+import { scanGlob } from "../page/glob/glob.ts"
 
 export type Package = {
   readonly dir: string
@@ -50,7 +51,7 @@ function dirsIn(root: string, globs: readonly unknown[]): readonly string[] {
   const found = new Set<string>()
   for (const glob of globs) {
     if (typeof glob !== "string") continue
-    for (const at of new Bun.Glob(`${glob}/${MANIFEST}`).scanSync({ cwd: root })) {
+    for (const at of scanGlob(`${glob}/${MANIFEST}`, root)) {
       found.add(at.slice(0, at.length - MANIFEST.length - 1))
     }
   }

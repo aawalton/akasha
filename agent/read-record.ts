@@ -1,4 +1,5 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { parse } from "yaml"
 import { akashaRoot } from "../repo/roots/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { SUBAGENT_MARK } from "./writer.ts"
@@ -149,7 +150,7 @@ function parsedAt(path: string): unknown {
     return null
   }
   try {
-    return path.endsWith(UNCOMMITTED_SUFFIX) ? Bun.YAML.parse(raw) : (JSON.parse(raw) as unknown)
+    return path.endsWith(UNCOMMITTED_SUFFIX) ? parse(raw) : (JSON.parse(raw) as unknown)
   } catch {
     return null
   }
