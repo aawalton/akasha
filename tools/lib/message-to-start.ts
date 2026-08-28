@@ -1,4 +1,7 @@
 
+import { type ChildProcess, spawn } from "node:child_process"
+import { writeFile } from "node:fs/promises"
+import type { Readable } from "node:stream"
 import {
   type Recipient,
   type SeatRow,
@@ -30,22 +33,44 @@ export interface Ran {
   readonly stderr: string
 }
 
+/** Everything a stream hands over, as text. Answers what it read where the stream fails. */
+function textOf(stream: Readable | null): Promise<string> {
+  if (stream === null) return Promise.resolve("")
+  return new Promise((resolve) => {
+    let held = ""
+    stream.setEncoding("utf8")
+    stream.on("data", (chunk: string) => {
+      held += chunk
+    })
+    stream.on("end", () => resolve(held))
+    stream.on("error", () => resolve(held))
+  })
+}
+
+/**
+ * The code a spawned process ended with.
+ *
+ * A PROCESS THAT NEVER STARTED SAYS SO ON `error` RATHER THAN BY THROWING, and an `error` nobody
+ * listens for on a child takes this process down with it.
+ */
+function exitOf(proc: ChildProcess): Promise<number> {
+  return new Promise((resolve) => {
+    proc.on("close", (code) => resolve(code ?? -1))
+    proc.on("error", () => resolve(-1))
+  })
+}
+
 async function run(
   argv: readonly string[],
   env: Record<string, string | undefined> = process.env
 ): Promise<Ran> {
-  const proc = Bun.spawn([...argv], {
+  const [command, ...rest] = argv
+  const proc = spawn(command ?? "", rest, {
     cwd: REPO_ROOT,
-    stdin: "ignore",
-    stdout: "pipe",
-    stderr: "pipe",
+    stdio: ["ignore", "pipe", "pipe"],
     env: reachingOps(env),
   })
-  const collect = Promise.all([
-    new Response(proc.stdout).text(),
-    new Response(proc.stderr).text(),
-    proc.exited,
-  ])
+  const collect = Promise.all([textOf(proc.stdout), textOf(proc.stderr), exitOf(proc)])
   const settled = await Promise.race([
     collect,
     new Promise<null>((resolve) => setTimeout(() => resolve(null), PATIENCE_MS)),
@@ -106,7 +131,7 @@ export async function startSeat(
     }
   }
   const prompt = `/var/tmp/message-to-boot-${process.pid}-${Date.now()}.md`
-  await Bun.write(prompt, bootPromptFor(domain, role))
+  await writeFile(prompt, bootPromptFor(domain, role), "utf8")
 
   const ran = await run(
     [

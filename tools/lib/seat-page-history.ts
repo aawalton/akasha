@@ -1,3 +1,4 @@
+import { spawnSync } from "node:child_process"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { DECLARATIONS, type Declaration } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
@@ -23,10 +24,17 @@ export interface StatedFromHistory {
   readonly initiative: string | null
 }
 
+/** How much one `git` call here may hand back. Node caps this at a megabyte where bun does not. */
+const OUTPUT_CEILING = 64 * 1024 * 1024
+
 function gitAt(root: string, args: readonly string[]): string | null {
-  const proc = Bun.spawnSync(["git", ...args], { cwd: root, stdout: "pipe", stderr: "ignore" })
-  if ((proc.exitCode ?? 1) !== 0) return null
-  return new TextDecoder().decode(proc.stdout)
+  const proc = spawnSync("git", [...args], {
+    cwd: root,
+    maxBuffer: OUTPUT_CEILING,
+    stdio: ["ignore", "pipe", "ignore"],
+  })
+  if (proc.status !== 0) return null
+  return new TextDecoder().decode(proc.stdout ?? new Uint8Array())
 }
 
 function textField(frontmatter: Record<string, unknown>, key: string): string | null {
