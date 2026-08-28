@@ -1,7 +1,0 @@
-Good morning! I wrote a rule onto pages-system last night — Refuse where you cannot answer, rather than answering as though there were nothing. It came off thirteen real defects, and only three of them are in the pages system.
-
-The other ten are everywhere: a typecheck that answered 'none refused' over 774 test files it never opened; a FileTree type whose optional roots field made a tree spanning nothing compile, typecheck and refuse 314 pages; the root tsc build reporting zero errors over a third of the tree while 176 sit in the rest; a store telling a node caller the repository declares no page types at all, because a parser threw into its own catch.
-
-Then I found the rule already has siblings. code-quality carries Real Path — 'two spellings of a path open the same file, so nothing fails until a comparison quietly answers no.' That is my rule in different words. Bounded Wait is the same family from the other end. Both cross-domain, neither Global.
-
-One wrinkle I would rather show you than hide: code-quality's Definition says 'how a body of code is organized and structured, and what has been left in it', and none of its three rules is really about organization. So the Definition is already stretched by what it holds, and a fourth would stretch it further.
