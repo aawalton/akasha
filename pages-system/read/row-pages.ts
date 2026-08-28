@@ -4,7 +4,7 @@ import { type Repo, addressIn, notIn, pathOf } from "./address.ts"
 import { sidecarsOf, textAt } from "./files.ts"
 import { valuedAs } from "./held.ts"
 import { rowsIn } from "./rows.ts"
-import type { Unread } from "./store.ts"
+import type { Unread } from "./pages.ts"
 
 export type Where = {
   readonly at: string

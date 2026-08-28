@@ -3,7 +3,7 @@ import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
 import type { Repo } from "./address.ts"
 import { declarationOf, extendingIn } from "./declared.ts"
-import { holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./store.ts"
+import { holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./pages.ts"
 
 const ROOT = `${import.meta.dir}/../..`
 

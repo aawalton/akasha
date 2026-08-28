@@ -3,7 +3,7 @@ import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import type { Declared, Page } from "../query/query.ts"
 import { addressIn } from "./address.ts"
 import { rowPagesIn, type Where } from "./row-pages.ts"
-import type { Unread } from "./store.ts"
+import type { Unread } from "./pages.ts"
 
 const NOW = 0
 

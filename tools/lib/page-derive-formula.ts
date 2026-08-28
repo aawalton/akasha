@@ -6,7 +6,7 @@ import {
   type Shape,
   type Value as Worked,
 } from "../../pages-system/formula/formula.ts"
-import { heldBy, valuedAs } from "../../pages-system/store/held.ts"
+import { heldBy, valuedAs } from "../../pages-system/read/held.ts"
 import type { Property } from "../../page/property/property.ts"
 import { EXPRESSION } from "./page-declared.ts"
 import type { Held } from "./page-file-values.ts"
