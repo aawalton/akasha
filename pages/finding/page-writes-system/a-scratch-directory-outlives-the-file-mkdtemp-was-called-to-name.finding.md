@@ -21,7 +21,13 @@ A `finally` around the gate would not have sufficed at `land.ts`. `gateOrRefuse`
 
 Fixed at commits e38ab6d3, d42a3a52 and 39e892ab. Measured across identical 50-file runs: 50 directories left behind before, 0 after, and 0 across three further runs making 150 bodies. 220,233 directories and 8.60 GiB were then removed at a 60-minute cutoff.
 
-Not measured: whether the shape stands anywhere outside the write path. Test suites leak scratch directories of their own under many prefixes — about 70,000 remained in `/var/tmp` after the sweep, from `*.unit.test.ts` and `*.on-demand.test.ts` files across several domains — and none of those were examined here.
+The test scratch this page first recorded as unexamined has since been examined, so that sentence is no longer true. Twenty-four files made scratch directories and removed none; sixteen were repaired at commits f0895370, c7c91c07, 07f4df14, 1d5bdf2e, b8ba99c9, 0faa4956, c19a5325, deadd524, 1ee78a3c, 8eb61929, 536cc5b7, 3d322f53 and c37847ee, and five stand unrepairable behind a typecheck refusing every edit to them, filed against `domain/model-gateway`. The figure of about 70,000 was itself taken against one root only, for the reason the next paragraph gives.
+
+The root is not `/var/tmp` alone. `tmpdir()` answers `/tmp` wherever `TMPDIR` is unset, which it is on this workstation, so every `mkdtempSync(join(tmpdir(), ...))` site writes where a search of `/var/tmp` cannot reach. Fourteen of one set's twenty-one leaks stood in `/tmp`, and were found only once both roots were counted.
+
+A criterion reading whole files cannot see this defect. `grep -L rmSync` clears a file at its first removal and is then blind to a second `mkdtempSync` in it that nothing removes: `tools/lib/check-workflow/curation-dispatch.unit.test.ts` held three sites, two registered against the `afterAll` at line 51 and the one at line 90 not. Reading instead for a call whose directory is never bound to a name finds that site, and finds only that kind — a site that binds its directory and still never removes it is invisible to both readings.
+
+Not measured: whether any site binds its directory and never removes it, and whether the shape stands outside the write path and these suites. Eleven suites re-run across both roots left nothing standing, and no family in either root is now unexplained, which bounds that unknown rather than closing it.
 
 # Bearing
 
