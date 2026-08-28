@@ -218,8 +218,8 @@
     "tunnel-routes.ts",
     "foundation.workflow.ts",
     "apps.workflow.ts",
-    "deploy/k8s/addon-bundle-image.ts",
-    "deploy/k8s/synth.ts"
+    "deploy/addon-bundle-image.ts",
+    "temper-web-deployment.cluster-service.code.attachment.ts"
   ],
   "exclude": [
     "node_modules",
