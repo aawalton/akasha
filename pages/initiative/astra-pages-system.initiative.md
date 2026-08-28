@@ -11,7 +11,7 @@ parent-slug: aine-global
 
 - `pages-system/` holds a clean, cohesive and comprehensive set of features answering everything callers need of the pages system, including indexing, caching, queries, and a cluster-reachable pages system service for off-workstation reads and writes.
 - No competing implementation of a pages system function exists.
-- Every known rough edge in the pages system is cleanly resolved.
+- No finding is open against the pages system domain or any domain beneath it.
 
 # Notes
 
@@ -24,3 +24,7 @@ Keep a reminder running at all times, every thirty minutes, to review this initi
 Take an intent off an initiative once it is fully complete.
 
 Make only small or very difficult changes directly. Coordinate every other change through subagents, at a rolling concurrency of at most twenty direct subagents.
+
+File every issue you find as a finding against the domain it bears on.
+
+Resolve a finding by fixing what it names, or by taking the finding away as wrong.
