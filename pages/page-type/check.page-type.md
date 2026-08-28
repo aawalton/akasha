@@ -22,8 +22,6 @@ A check is handed what it says it needs and nothing more.
 
 A check judges the code, never its author.
 
-Nothing holds a body a program decided to a standard written for an author.
-
 A check's answer is kept against a file only where that file's body was all it was handed.
 
 A check that judges only what a change touches goes on before main is clean.
