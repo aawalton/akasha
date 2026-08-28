@@ -25,7 +25,7 @@ import { noteUnreadable } from "./page-fault.ts"
 import { BODY, type Held, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
 import { placeOf } from "../../page/page-types.ts"
 import { NONE, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 import { scanIn } from "../../page/page-types.ts"
 import { foundIn, indexingOver } from "./page-derive-index.ts"
 import { keptIn, narrowing } from "./page-narrow.ts"
@@ -167,7 +167,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
           (key) => declarationFor(kind, key)?.attachment ?? null,
           (key) => declarationFor(kind, key)?.uncommitted ?? false
         )
-        const named = typeof held.values.slug === "string" ? held.values.slug : slugOf(relPath)
+        const named = typeof held.values.slug === "string" ? held.values.slug : fileStemOf(relPath)
         pages.push({ kind, at: `${repo}:${relPath}`, named, values: held.values })
       }
     }

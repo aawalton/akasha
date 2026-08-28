@@ -4,7 +4,7 @@ import { CHAMPIONED_DOMAIN_KEY } from "./domain.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageRelIn, placeDirOf } from "../../page/page-types.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 import { documentFor, personaIsDefault } from "./seat-resolve.ts"
 
 export const JOINER = "-"
@@ -32,7 +32,7 @@ export const FLEET = "agent"
 export function personPrincipals(root: string): readonly string[] {
   for (const at of [`${root}/${placeDirOf("person")}`, `${akashaRoot()}/${placeDirOf("person")}`]) {
     if (!existsSync(at)) continue
-    const found = [...new Set(readdirSync(at).filter((one) => one.endsWith(".md")).map(slugOf))].sort()
+    const found = [...new Set(readdirSync(at).filter((one) => one.endsWith(".md")).map((one) => fileStemOf(one)))].sort()
     if (found.length > 0) return found
   }
   return []

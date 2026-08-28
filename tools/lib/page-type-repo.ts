@@ -1,7 +1,7 @@
 
 import { addressParts } from "../../page/page-address.ts"
 import { indexReaches, loadPages } from "../../page/index/store/store.ts"
-import { stemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { filedIn, pageTypePathIn, placeDirOf, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { type Roots } from "../../page/page"
@@ -47,7 +47,7 @@ function typeFilesIn(at: string): ReadonlyMap<string, string> {
   const made = new Map<string, string>()
   if (indexReaches(AKASHA, at)) {
     for (const one of loadPages()) {
-      if (one.repo === AKASHA && one.type === PAGE_TYPE) made.set(stemOf(one.key), one.key)
+      if (one.repo === AKASHA && one.type === PAGE_TYPE) made.set(pageStemOf(one.key), one.key)
     }
   }
   typeFiles.set(at, made)

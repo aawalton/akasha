@@ -2,7 +2,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 
 import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import {
   ACCESS_KEY,
@@ -51,7 +51,7 @@ export function credentialByAccountFromPage(
 export function accountsWithPages(root = pagesRoot()): readonly string[] {
   try {
     const names = readdirSync(`${root}/${accountDirIn(root)}`).filter((one) => one.endsWith(".md"))
-    return [...new Set(names.map(slugOf))].sort()
+    return [...new Set(names.map((one) => fileStemOf(one)))].sort()
   } catch {
     return []
   }

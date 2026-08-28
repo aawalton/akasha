@@ -1,6 +1,6 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import { attributesOf } from "../lib/attributes.ts"
 import { isBareKeyboardPrompt } from "../lib/prompt-shape.ts"
 import { hookAgentId } from "../lib/read-record.ts"
@@ -31,7 +31,7 @@ function statedFrom(fields: Record<string, unknown>): void {
       registration: null,
       task: null,
     }),
-    slugOf(page)
+    fileStemOf(page)
   )
 }
 

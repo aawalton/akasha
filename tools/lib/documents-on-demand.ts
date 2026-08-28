@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./check.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import { type Documents, DOMAIN_SLUG_KEY } from "./domain.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontmatter.ts"
@@ -31,7 +31,7 @@ export function documentsOnDemand(root: string): Documents {
     const out = new Map<string, string[]>()
     for (const at of listDocuments(root)) {
       if (isDirty(at)) continue
-      const stem = slugOf(at)
+      const stem = fileStemOf(at)
       out.set(stem, [...(out.get(stem) ?? []), at])
     }
     byStem = out

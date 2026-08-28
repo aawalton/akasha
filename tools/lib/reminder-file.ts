@@ -4,7 +4,7 @@ import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./message-file.ts"
 import { AKASHA, akashaRoot } from "../../repo/roots/roots"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 
 export const REMINDERS = "pages/reminder"
 
@@ -118,7 +118,7 @@ export function remindersTo(recipient: string): readonly Reminder[] {
   const held: Reminder[] = []
   for (const name of namesUnder(dir)) {
     if (!name.endsWith(`.${PAGE_TYPE}${PAGE_SUFFIX}`)) continue
-    const one = reminderAt(`${dir}/${name}`, `${reminderDirRelPath(recipient)}/${name}`, slugOf(name))
+    const one = reminderAt(`${dir}/${name}`, `${reminderDirRelPath(recipient)}/${name}`, pageStemOf(name))
     if (one !== null) held.push(one)
   }
   return inPathOrder(held)

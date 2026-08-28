@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import { transcriptOf } from "./seat-transcript-path.ts"
 import { claimMessage, releaseClaim, takeMessage } from "./message-file.ts"
 import { watchMessagesTo } from "./message-file-watch.ts"
@@ -76,7 +76,7 @@ export async function deliverClaimedMessage(args: {
 
 export function seatNameForAgent(agentId: string): string | null {
   const page = seatPageForAgent(agentId)
-  return page === null ? null : slugOf(page)
+  return page === null ? null : fileStemOf(page)
 }
 
 export async function startChannelListener(

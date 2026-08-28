@@ -18,7 +18,7 @@ import {
 } from "../../page/page-types.ts"
 import { indexReaches, loadPages } from "../../page/index/store/store.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { SLUG_PROPERTY } from "../../page/property/stated.ts"
 import type { Roots } from "../../page/page.ts"
 
@@ -147,7 +147,7 @@ export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
       if (text === null) continue
       const { fm, why } = blockOf(text)
       if (why !== null) continue
-      const slug = slugOf(relPath)
+      const slug = pageStemOf(relPath)
       if (kinds.has(slug)) continue
       const stated = filedIn(fm)
       const fallback = placed.get(slug) ?? null
@@ -166,9 +166,9 @@ export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
   if (on === null) return null
   const type = stringAt(fm, "type")
   return {
-    slug: stringAt(fm, "slug") ?? slugOf(relPath),
+    slug: stringAt(fm, "slug") ?? pageStemOf(relPath),
     on: slugNamed(on),
-    key: stringAt(fm, "key") ?? slugOf(relPath),
+    key: stringAt(fm, "key") ?? pageStemOf(relPath),
     type,
     target: stringAt(fm, TARGET),
     slugProperty: stringAt(fm, SLUG_PROPERTY),

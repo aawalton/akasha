@@ -12,7 +12,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { type Roots } from "../../page/page.ts"
 import { isAddressable } from "../../repo/roots/roots.ts"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
@@ -313,12 +313,12 @@ function queryPages(roots: Roots): readonly QueryPage[] {
 }
 
 export function queryNames(roots: Roots): readonly string[] {
-  return [...new Set(queryPages(roots).map((one) => slugOf(one.relPath)))].sort()
+  return [...new Set(queryPages(roots).map((one) => pageStemOf(one.relPath)))].sort()
 }
 
 export function namedQuery(roots: Roots, slug: string): PageQuery | null {
   for (const { root, relPath } of queryPages(roots)) {
-    if (slugOf(relPath) !== slug) continue
+    if (pageStemOf(relPath) !== slug) continue
     const text = textAt(root, relPath)
     return text === null ? null : queryOf(text, roots)
   }

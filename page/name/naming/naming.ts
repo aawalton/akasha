@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
-import { stemOf } from "../name.ts"
+import { fileStemOf } from "../name.ts"
 import { filledBy, pageStem } from "../../../named-for/named-for.ts"
 
 const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
@@ -34,7 +34,7 @@ export function slugOfFilePage(stated: string | null, at: string | null): string
   const relPath = at.slice(at.indexOf(":") + 1)
   if (!relPath.endsWith(MARKDOWN)) return null
   const stem = relPath.split("/").pop() ?? relPath
-  const named = stem.indexOf(".") <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : stemOf(stem)
+  const named = stem.indexOf(".") <= 0 ? stem.slice(0, stem.length - MARKDOWN.length) : fileStemOf(stem)
   return named === "" ? null : named
 }
 

@@ -1,7 +1,7 @@
 
 import { readFileSync, readdirSync } from "node:fs"
 import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import { parseMatch, ruleFolderIn, ruleKinds } from "./email-rule.ts"
 import type { Condition } from "./email-rule.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
@@ -58,7 +58,7 @@ export function rulesOf(person: string, root: string): readonly Rule[] {
       const body = readFileSync(`${root}/${relPath}`, "utf8")
       const frontmatter = parseFrontmatter(body)
       rules.push({
-        slug: slugOf(name),
+        slug: fileStemOf(name),
         relPath,
         kind,
         filing: textField(frontmatter, "filing") as Filing | null,

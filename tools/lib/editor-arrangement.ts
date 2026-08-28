@@ -2,7 +2,7 @@ import { type FileTree } from "../../page/file-tree.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, type PageType, reposOf } from "../../page/page-types.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { removePage, writePage } from "./page-write.ts"
 import { statedIn, textIn } from "./page-write-text.ts"
 import { type Value } from "./page-write-values.ts"
@@ -123,7 +123,7 @@ export function namesOf(roots: Roots, types: readonly PageType[], pageType: stri
   if (type === undefined) return []
   return reposOf(type).flatMap((repo) => {
     const root = isAddressable(repo) ? roots[repo] : undefined
-    return root === undefined ? [] : pagesOf(root, type, repo).map((relPath) => slugOf(relPath))
+    return root === undefined ? [] : pagesOf(root, type, repo).map((relPath) => pageStemOf(relPath))
   })
 }
 
