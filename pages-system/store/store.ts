@@ -11,6 +11,13 @@
  * holds. A resolver is those three and the pure halves put together, and the putting together is
  * the caller's, so that no order of calls is baked in here.
  *
+ * WHERE A PAGE STANDS IS AN ADDRESS THIS PACKAGE ISSUES AND READS BACK, never a path a caller may
+ * take apart or join to a root. A page is a file and its rows are a sidecar beside it, so a page of
+ * a page type stating `files: none` — `session-tracking` is one — stands as a line in another page's
+ * sidecar and has no file of its own to be named by. Rows enter here and nowhere else: `pagesOf`
+ * learns to answer a holder's rows, `pageAt` learns to read one back, and no caller can tell. A
+ * caller that reads a file at an address is a caller rows would break.
+ *
  * NO CLOCK. The moment a page's formulas are worked out arrives as an argument, exactly as it does
  * for a naming, so that two pages read in one pass are read at one moment.
  *
@@ -55,7 +62,7 @@ const FORMULA = "expression"
 
 /** A page that could not be read, and why. */
 export type Unread = {
-  /** Where the page is, as `pagesOf` answered it. */
+  /** Where the page stands, as `pagesOf` answered it. */
   readonly at: string
   /** What was wrong, in the terms a reader of the file would put it. */
   readonly unread: string
@@ -160,11 +167,19 @@ export const declarationOf = (root: string, pageType: string): Declared | null =
 }
 
 /**
- * Every page of a page type, as paths relative to the root, in whatever order the walk found them.
+ * Where every page of a page type stands, in whatever order they were found.
+ *
+ * AN ADDRESS IS THIS PACKAGE'S TO READ. A page held in a file is addressed by its path below the
+ * root, which is what every address is today; a page held as a row will be addressed by its holder
+ * and its place in it, and only `pageAt` will know the difference.
  *
  * THE PAGE TYPE NEED NOT STAND. A slug naming no page type answers no pages, the same as one whose
  * pages are all gone, because what makes a file a page of this type is its own name and nothing
  * asks a page type. Whether the page type stands is `declarationOf`'s answer.
+ *
+ * A PAGE TYPE WHOSE PAGES ARE ROWS ANSWERS NONE OF THEM YET. Nothing here reads a sidecar, so a
+ * page type stating `files: none` answers empty rather than refusing — which is the one place a
+ * caller can still tell, and the reason the row half is worth adding before a caller relies on it.
  *
  * NO ORDER IS PROMISED. A caller wanting one sorts, and a query wanting one has nowhere to say so
  * yet.
@@ -183,8 +198,10 @@ export const pagesOf = (root: string, pageType: string): readonly string[] =>
  * A KEY BEYOND THE LANGUAGE IS NOT ANSWERED. There is no value to answer it with, which is what
  * `beyond` means, and a query naming one never got past its check.
  *
- * WHAT A PAGE STATES IS ITS FRONTMATTER. The rows beside a page in a sidecar are stated too and are
- * not read here; a key a page type marks `uncommitted` therefore answers absent.
+ * WHAT A PAGE IN A FILE STATES IS ITS FRONTMATTER, and every address is one of those today. What a
+ * page states in a sidecar beside it — the rows under a key declared `pages`, and the values under
+ * a key marked `uncommitted` — is stated as truly and is not read here, so such a key answers
+ * absent.
  */
 export const pageAt = (
   root: string,
