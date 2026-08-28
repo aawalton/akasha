@@ -1,12 +1,4 @@
-import {
-  AGGREGATE,
-  type Declared,
-  OVER,
-  REDUCTION,
-  RELATION,
-  ROLLUP,
-  TARGET,
-} from "./page-declared.ts"
+import { type Declared, OVER, REDUCTION, RELATION, TARGET } from "./page-declared.ts"
 import type { Held, Values } from "./page-file-values.ts"
 import { foundIn } from "./page-derive-index.ts"
 
@@ -17,8 +9,6 @@ const SUM = "sum"
 const COUNT = "count"
 
 const REDUCTIONS: readonly string[] = [SUM, COUNT]
-
-export const WALKS: readonly string[] = [AGGREGATE, ROLLUP]
 
 export interface Reached {
   readonly kind: string
@@ -64,12 +54,6 @@ export function underivable(
   one: Declared,
   declarationFor: (kind: string, key: string) => Declared | null
 ): string | null {
-  if (one.reaches && !WALKS.includes(one.type ?? "")) {
-    return (
-      `states \`type: ${one.type}\`, which the vocabulary marks as reached for, and this deriver reaches ` +
-      `a value for ${WALKS.join(", ")} and no other type`
-    )
-  }
   if (one.relation === null) {
     if (one.reduction === null) return null
     return `states \`${REDUCTION}\` and no \`${RELATION}\`, so nothing says which pages it reduces`

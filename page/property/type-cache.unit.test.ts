@@ -20,7 +20,6 @@ const MODE: Property = {
   relation: null,
   reduction: null,
   over: null,
-  reaches: false,
   required: false,
   secret: false,
   attachment: null,

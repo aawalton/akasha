@@ -1,9 +1,9 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { slugNamed } from "../../page/page-address.ts"
-import { computedOn, reachedFor, reachingIn } from "../../page/property/computed.ts"
+import { computedOn } from "../../page/property/computed.ts"
 import { ATTACHMENT, type Held } from "./page-file-values.ts"
-import { DEFINED_ON, filedIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS, repoPlacings, scanIn, type Filed } from "../../page/page-types.ts"
+import { DEFINED_ON, filedIn, PAGE_TYPE_GLOBS, PROPERTY_GLOBS, repoPlacings, scanIn, type Filed } from "../../page/page-types.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name.ts"
 import { SLUG_PROPERTY } from "../../page/property/stated.ts"
@@ -24,10 +24,6 @@ export const ROWS = "rows"
 export const UNCOMMITTED = "uncommitted"
 
 export const FALLBACK = "default"
-
-export const AGGREGATE = "aggregate"
-
-export const ROLLUP = "rollup"
 
 export const RELATION = "relation"
 
@@ -61,7 +57,6 @@ export interface Declared {
   readonly rows: string | null
   readonly uncommitted: boolean
   readonly computed: boolean
-  readonly reaches: boolean
 }
 
 export interface Declarations {
@@ -104,17 +99,7 @@ export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
   return kinds
 }
 
-export function reachingFor(roots: Roots): ReadonlySet<string> {
-  return reachingIn(scanIn(declaringRoot(roots), [PAGE_PROPERTY_TYPE_GLOB]), (relPath) =>
-    textAt(declaringRoot(roots), relPath)
-  )
-}
-
-export function declaredIn(
-  fm: Frontmatter,
-  relPath: string,
-  reaching: ReadonlySet<string>
-): Declared | null {
+export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
   const on = stringAt(fm, DEFINED_ON)
   if (on === null) return null
   const type = stringAt(fm, "type")
@@ -135,21 +120,19 @@ export function declaredIn(
     attachment: stringAt(fm, ATTACHMENT),
     rows: stringAt(fm, ROWS),
     uncommitted: stringAt(fm, UNCOMMITTED) === "true",
-    computed: computedOn(fm, reaching),
-    reaches: reachedFor(type, reaching),
+    computed: computedOn(fm),
   }
 }
 
 export function declarationsIn(roots: Roots): Declarations {
   const byKind = new Map<string, Map<string, Declared>>()
   const bySlug = new Map<string, Declared>()
-  const reaching = reachingFor(roots)
   for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS)) {
     const text = textAt(declaringRoot(roots), relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)
     if (why !== null) continue
-    const one = declaredIn(fm, relPath, reaching)
+    const one = declaredIn(fm, relPath)
     if (one === null) continue
     const held = byKind.get(one.on) ?? new Map<string, Declared>()
     if (!held.has(one.key)) held.set(one.key, one)

@@ -1,6 +1,6 @@
 import { listField, textField } from "../frontmatter.ts"
 import { slugNamed } from "../page-address.ts"
-import { computedOn, reachedFor, reachingOf } from "./computed.ts"
+import { computedOn } from "./computed.ts"
 import { DEFINED_ON, globsIn, PROPERTY_GLOBS } from "../page-types.ts"
 import { blockOf, stringAt } from "../text/text.ts"
 import { stemOf } from "../name/name.ts"
@@ -86,7 +86,7 @@ export function declarationsFromFiles(tree: FileTree): Declarations {
 
 type Declared = { readonly on: string; readonly one: Property } | { readonly fault: string }
 
-function declaredIn(relPath: string, text: string, reaching: ReadonlySet<string>): Declared | null {
+function declaredIn(relPath: string, text: string): Declared | null {
   const { fm, why } = blockOf(text)
   if (why !== null) return { fault: `\`${relPath}\` — ${why}` }
   const named = stringAt(fm, DEFINED_ON)
@@ -107,12 +107,11 @@ function declaredIn(relPath: string, text: string, reaching: ReadonlySet<string>
       relation: stringAt(fm, RELATION),
       reduction: stringAt(fm, REDUCTION),
       over: stringAt(fm, OVER),
-      reaches: reachedFor(stated, reaching),
       required: stringAt(fm, "required") === "true",
       secret: stringAt(fm, "secret") === "true",
       attachment: stringAt(fm, "attachment"),
       default: (fm.fields.get(DEFAULT) as Held | undefined) ?? null,
-      computed: computedOn(fm, reaching),
+      computed: computedOn(fm),
       blank: stringAt(fm, "blank") === "true",
       oneOf: stringAt(fm, "one-of"),
       rows: stringAt(fm, ROWS),
@@ -131,7 +130,7 @@ function declaredIn(relPath: string, text: string, reaching: ReadonlySet<string>
   }
 }
 
-function declaredOver(tree: FileTree, reaching: ReadonlySet<string>): ReadonlyMap<string, Declared> {
+function declaredOver(tree: FileTree): ReadonlyMap<string, Declared> {
   const composed = tree.root === undefined || (tree.pending?.size ?? 0) > 0
   const made = new Map<string, Declared>()
   for (const relPath of tree.paths(globsIn(tree.roots, PROPERTY_GLOBS))) {
@@ -140,7 +139,7 @@ function declaredOver(tree: FileTree, reaching: ReadonlySet<string>): ReadonlyMa
       if (composed) made.set(relPath, { fault: `\`${relPath}\` is not in the repo this call would produce` })
       continue
     }
-    const said = declaredIn(relPath, text, reaching)
+    const said = declaredIn(relPath, text)
     if (said !== null) made.set(relPath, said)
   }
   return made
@@ -149,7 +148,7 @@ function declaredOver(tree: FileTree, reaching: ReadonlySet<string>): ReadonlyMa
 function readDeclarations(tree: FileTree): Declarations {
   const bySlug = new Map<string, Property[]>()
   let fault: string | null = null
-  for (const said of declaredOver(tree, reachingOf(tree)).values()) {
+  for (const said of declaredOver(tree).values()) {
     if ("fault" in said) {
       fault ??= said.fault
       continue

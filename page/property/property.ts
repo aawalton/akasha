@@ -12,7 +12,6 @@ export interface Property {
   readonly relation: string | null
   readonly reduction: string | null
   readonly over: string | null
-  readonly reaches: boolean
   readonly required: boolean
   readonly secret: boolean
   readonly attachment: string | null

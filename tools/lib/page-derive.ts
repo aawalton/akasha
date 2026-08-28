@@ -107,8 +107,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       for (const [key, declaration] of declared.get(one) ?? [])
         if (
           !found.has(key) &&
-          (declaration.reaches ||
-            declaration.from.length > 0 ||
+          (declaration.from.length > 0 ||
             declaration.back !== null ||
             declaration.fallback !== null ||
             declaration.expression !== null ||
