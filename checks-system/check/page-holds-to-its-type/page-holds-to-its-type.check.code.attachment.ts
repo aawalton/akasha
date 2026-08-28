@@ -80,8 +80,13 @@ export const pageHoldsToItsType: Check = {
       if (at === null) continue
       const text = body.toString("utf8")
       if (path.endsWith(ROWS)) {
-        const { slug, properties } = rowsHeldBy(at.relPath, types, tree)
-        if (slug === null) continue
+        const { slug, properties, unheld } = rowsHeldBy(at.relPath, types, tree)
+        // A SIDECAR NOTHING SETTLES A TYPE FOR IS REPORTED, NOT WALKED PAST. `unheld` is null only
+        // where the path is no rows sidecar at all, which is the one case there is nothing to say.
+        if (slug === null) {
+          if (unheld !== null) failures.push({ path, reason: unheld })
+          continue
+        }
         for (const reason of rowsOutside(text, slug, properties)) failures.push({ path, reason })
         continue
       }
