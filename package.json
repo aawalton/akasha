@@ -10,7 +10,6 @@
     "alanwalton/calendar-sync",
     "alanwalton/chess",
     "alanwalton/voice-core",
-    "automation/core",
     "infra/auth-proxy",
     "infra/git-transport",
     "infra/inference",

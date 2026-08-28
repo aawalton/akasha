@@ -11,7 +11,6 @@
     "react": "^18 || ^19"
   },
   "dependencies": {
-    "@automation/core": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
     "@shared/pages-url": "workspace:*",

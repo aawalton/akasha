@@ -48,7 +48,6 @@
   },
   "dependencies": {
     "@alanwalton/voice-core": "workspace:*",
-    "@automation/core": "workspace:*",
     "@shared/design-forms": "workspace:*",
     "@shared/design-layout": "workspace:*",
     "@shared/design-patterns": "workspace:*",

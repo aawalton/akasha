@@ -30,9 +30,6 @@
       "path": "../../alanwalton/voice-core"
     },
     {
-      "path": "../../automation/core"
-    },
-    {
       "path": "../errors-client"
     },
     {
