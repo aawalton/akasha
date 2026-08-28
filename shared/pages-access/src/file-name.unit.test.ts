@@ -1,12 +1,6 @@
 import { describe, expect, it } from "bun:test"
-import {
-  constantHolesIn,
-  filledName,
-  nameForNew,
-  pageStem,
-  refuseTakenName,
-  STEM_CEILING,
-} from "./file-name"
+import { pageStem, STEM_CEILING } from "../../../named-for/named-for.ts"
+import { constantHolesIn, filledName, nameForNew, refuseTakenName } from "./file-name"
 import { FileWriteError } from "./file-write-error"
 
 describe("pageStem", () => {

@@ -2,9 +2,7 @@ import { createHash } from "node:crypto"
 import type { Frontmatter } from "../../frontmatter.ts"
 import { blockOf, stringAt } from "../../text/text.ts"
 import { stemOf } from "../name.ts"
-import { filledBy, pageStem, STEM_CEILING } from "./named-for.ts"
-
-export { pageStem, STEM_CEILING }
+import { filledBy, pageStem } from "../../../named-for/named-for.ts"
 
 const AT_NAMESPACE = "6ba7b812-9dad-11d1-80b4-00c04fd430c8"
 

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { idDerivedFrom, idOfFilePage, pageStem, slugOfFilePage, STEM_CEILING } from "./naming.ts"
+import { pageStem, STEM_CEILING } from "../../../named-for/named-for.ts"
+import { idDerivedFrom, idOfFilePage, slugOfFilePage } from "./naming.ts"
 
 test("an id derived from a path is that path's uuid v5 under the oid namespace", () => {
   expect(idDerivedFrom("akasha:pages/domain/global.md")).toBe(

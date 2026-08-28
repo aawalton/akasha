@@ -1,17 +1,8 @@
 import type { Value } from "@shared/pages-query"
 import { camelizeKey, SETTLED_BY_ROW } from "./file-rows"
 import { FileWriteError } from "./file-write-error"
-import {
-  filledBy,
-  type HeldAt,
-  holesIn,
-  pageStem,
-  STEM_CEILING,
-  unfilledIn,
-} from "../../../page/name/naming/named-for.ts"
+import { filledBy, type HeldAt, holesIn, unfilledIn } from "../../../named-for/named-for.ts"
 import type { PageWhere } from "@shared/pages-core/page-types"
-
-export { pageStem, STEM_CEILING }
 
 export type Filled =
   | { readonly ok: true; readonly stem: string }
