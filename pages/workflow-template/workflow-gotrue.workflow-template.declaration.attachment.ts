@@ -1,11 +1,11 @@
-import { IMAGES } from "../../tools/lib/workflow-dsl/images"
-import { step } from "../../tools/lib/workflow-dsl/step"
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { retryTransientDdl } from "../../tools/lib/workflow-dsl/templates/retry-transient-ddl"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images.ts"
+import { step } from "../../tools/lib/workflow-dsl/step.ts"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { retryTransientDdl } from "../../tools/lib/workflow-dsl/templates/retry-transient-ddl.ts"
+import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
+import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap gotrue-pipeline-state -n gotrue -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",
@@ -29,23 +29,6 @@ export default workflow("gotrue", {
         name: "gotrue-apply-rbac",
         rbacFile: "tools/lib/rbac/gotrue.ts",
       }),
-      dependsOn: ["gotrue-apply-namespace"],
-    },
-
-    {
-      ...sopsDecryptApply({
-        name: "gotrue-apply-secrets",
-        namespace: "gotrue",
-        secretFile: "infra/k8s/src/gotrue/gotrue.k8s-secret.sops.yaml",
-      }),
-      commands: (ci) => [
-        "set -e",
-        `CONTENT_HASH="${ci.inputsHash}"`,
-        ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/gotrue.k8s-secret.sops.yaml)`,
-        `echo "$DECRYPTED" | kubectl apply --dry-run=client -n gotrue -f -`,
-        `echo "$DECRYPTED" | kubectl apply -n gotrue -f -`,
-      ],
       dependsOn: ["gotrue-apply-namespace"],
     },
 
@@ -144,7 +127,7 @@ export default workflow("gotrue", {
           kubernetes: { serviceAccountName: "pipeline-engine" },
         },
       }),
-      dependsOn: ["gotrue-apply-secrets", "gotrue-apply-supabase-auth-admin-secrets"],
+      dependsOn: ["gotrue-apply-supabase-auth-admin-secrets"],
     },
 
     {
@@ -182,7 +165,6 @@ export default workflow("gotrue", {
         },
       }),
       dependsOn: [
-        "gotrue-apply-secrets",
         "gotrue-apply-supabase-auth-admin-secrets",
         "gotrue-ensure-auth-schema",
         "gotrue-apply-manifests",
