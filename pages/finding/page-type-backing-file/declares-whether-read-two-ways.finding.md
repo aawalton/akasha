@@ -3,7 +3,7 @@ id: b69c2f7b-75a9-5aea-ba75-50e32207b9e1
 slug: declares-whether-read-two-ways
 page-type-slug: finding
 title: "Declares whether read two ways"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

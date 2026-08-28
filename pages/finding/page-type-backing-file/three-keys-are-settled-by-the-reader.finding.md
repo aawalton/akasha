@@ -3,7 +3,7 @@ id: b8a385b5-63fd-5296-aa53-e809182d6c06
 slug: three-keys-are-settled-by-the-reader
 page-type-slug: finding
 title: "Three universal keys are stamped by the reader, refused when writing and answered silently when reading"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

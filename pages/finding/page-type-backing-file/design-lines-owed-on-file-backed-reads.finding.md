@@ -3,7 +3,7 @@ id: 4e238ad9-64b4-5449-b698-f996cf3f4aa5
 slug: design-lines-owed-on-file-backed-reads
 page-type-slug: finding
 title: "Four facts about file-backed reads and writes are settled in code and recorded in no instruction"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

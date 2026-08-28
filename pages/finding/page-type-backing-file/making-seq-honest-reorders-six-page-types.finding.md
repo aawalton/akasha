@@ -3,7 +3,7 @@ id: 9d430df9-32a8-5621-ab47-5795c9a3d170
 slug: making-seq-honest-reorders-six-page-types
 page-type-slug: finding
 title: "Making seq honest reorders six page types"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

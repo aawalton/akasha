@@ -3,7 +3,7 @@ id: 00106d5a-bfd6-5e3d-9e1b-9c14f7401f11
 slug: write-guard-nested-or-gap-held-open-by-size-ceiling
 page-type-slug: finding
 title: "The write guard's nested-or gap is held open by the size ceiling"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

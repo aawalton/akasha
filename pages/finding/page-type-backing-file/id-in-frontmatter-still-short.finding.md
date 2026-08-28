@@ -3,7 +3,7 @@ id: 25900719-7440-5d81-9c76-8f2c4319bb3f
 slug: id-in-frontmatter-still-short
 page-type-slug: finding
 title: "22,745 of 57,726 file-backed pages state no id, concentrated in three page types"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

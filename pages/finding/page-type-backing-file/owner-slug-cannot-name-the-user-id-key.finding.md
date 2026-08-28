@@ -3,7 +3,7 @@ id: a9bfcb1e-5af3-5655-869a-3baa4ce219f9
 slug: owner-slug-cannot-name-the-user-id-key
 page-type-slug: finding
 title: "Owner slug cannot name the user id key"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

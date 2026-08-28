@@ -3,7 +3,7 @@ id: 23f026d4-6af7-5d03-9b15-fc8a5403c594
 slug: declaration-split-across-sections
 page-type-slug: finding
 title: "Declaration split across sections"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim

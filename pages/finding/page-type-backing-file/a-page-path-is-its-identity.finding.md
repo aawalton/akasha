@@ -3,7 +3,7 @@ id: 14a66ed0-d57f-5d77-a93a-3829d4902317
 slug: a-page-path-is-its-identity
 page-type-slug: finding
 title: "A file-backed page's path cannot change without the page changing, so that entry is in the wrong section"
-domain-slug: domain/global
+domain-slug: domain/page-storage
 ---
 
 # Claim
