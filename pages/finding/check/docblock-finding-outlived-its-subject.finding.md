@@ -3,7 +3,7 @@ id: 783da6d9-6075-5575-8dd5-3dce96c2c6f1
 slug: docblock-finding-outlived-its-subject
 page-type-slug: finding
 title: "The docblock finding names a docblock, a document and a phrase that are all gone"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

@@ -3,7 +3,7 @@ id: 3c70265d-07aa-581f-9431-0ceab4d42aaf
 slug: four-baselines-one-word
 page-type-slug: finding
 title: "Four baselines one word"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

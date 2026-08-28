@@ -3,7 +3,7 @@ id: 7033b1b9-ef3b-5319-b041-c0f2e7a5aa3e
 slug: docblock-cites-a-distinction-that-is-elsewhere
 page-type-slug: finding
 title: "Docblock cites a distinction that is elsewhere"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

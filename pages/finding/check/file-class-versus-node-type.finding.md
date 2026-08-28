@@ -3,7 +3,7 @@ id: bf7b37e7-0c8b-50b9-8d36-86b082b2b398
 slug: file-class-versus-node-type
 page-type-slug: finding
 title: "Dispatch Reach says file class where the machinery says node type"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

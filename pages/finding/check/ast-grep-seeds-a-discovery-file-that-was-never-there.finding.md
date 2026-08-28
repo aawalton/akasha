@@ -3,7 +3,7 @@ id: 7feb4f3d-74de-541a-b68b-ef87624718ee
 slug: ast-grep-seeds-a-discovery-file-that-was-never-there
 page-type-slug: finding
 title: "The ast-grep check seeds a discovery file that was never there"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim

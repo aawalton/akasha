@@ -3,7 +3,7 @@ id: c56c523d-ed5c-5303-82e3-c4ab5931d172
 slug: gate-reds-on-its-own-staleness
 page-type-slug: finding
 title: "Gate reds on its own staleness"
-domain-slug: domain/992
+domain-slug: domain/old-check
 ---
 
 # Claim
