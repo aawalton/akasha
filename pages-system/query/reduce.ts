@@ -123,6 +123,6 @@ export const reducedOf = (pages: readonly Page[], target: string, how: How): Red
  */
 export const runReduction = (checked: Checked, pages: readonly Page[]): Reduced | null => {
   const reduction = checked.reduction
-  if (reduction === null) return null
+  if (reduction === null) return NOTHING
   return reducedOf(pages, reduction.target, reduction.how)
 }
