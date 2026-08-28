@@ -1,4 +1,5 @@
 import { type GroupGranularity } from "@shared/pages-core/schema/view-data"
+import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import { type PropertyDefinition } from "@shared/pages-core/types"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"
 import type { PageWithProperties } from "../supabase/types"
@@ -38,8 +39,15 @@ export function buildServerGroupedSections({
   )
   const sections: ServerGroupedSection[] = []
   for (const [groupValue, groupData] of groups) {
-    const resolvedLabel = expandDateMentions(definition?.getLabel(groupValue) ?? groupValue)
-    const label = resolvedLabel !== "" ? resolvedLabel : groupValue === "" ? "No Value" : "Untitled"
+    // A GROUP-BY PROPERTY THAT IS NOT AMONG THOSE GIVEN LEAVES NO DEFINITION TO ASK. Each
+    // property type states a `getLabel` of its own and every one of them answers "No Value"
+    // for the empty key, so this stands in for a `getLabel` there is none of, rather than
+    // correcting one that answered.
+    const named =
+      definition?.getLabel(groupValue) ??
+      (groupValue === GROUP_NONE_KEY ? "No Value" : groupValue)
+    const resolvedLabel = expandDateMentions(named)
+    const label = resolvedLabel !== "" ? resolvedLabel : "Untitled"
     sections.push({
       key: groupValue,
       label,

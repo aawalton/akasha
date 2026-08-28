@@ -5,6 +5,7 @@ import type { Page, PageCondition, PageWhere } from "@shared/pages-core/page-typ
 import { type PageTypePropertiesMap } from "@shared/pages-core/property-types/rollup"
 import { type GroupGranularity, type ViewFilter } from "@shared/pages-core/schema/view-data"
 import { type PropertyDefinition } from "@shared/pages-core/types"
+import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import { pageDayKey } from "@shared/pages-core/view/calendar-date-to-value"
 import { applyGranularityBucket } from "@shared/pages-core/view/group-granularity"
 import { useMemo } from "react"
@@ -118,6 +119,13 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
   }
 }
 
+/**
+ * The rows off the server, filed under the group key each one belongs to.
+ *
+ * THE EMPTY GROUP IS `GROUP_NONE_KEY`, THE SAME KEY THE BROWSER KEYING PATH GIVES IT. This
+ * spelt it `""`, so one concept stood under two names and every comparison downstream had to
+ * know both; the ones that knew only `__none__` read a `""` key as an ordinary value.
+ */
 export function bucketRowsByGroup(args: {
   rows: readonly Page[]
   groupPropertyId: string
@@ -136,15 +144,15 @@ export function bucketRowsByGroup(args: {
     const keys: string[] = []
     if (isDateKey && prop !== undefined) {
       const day = pageDayKey(prop, raw)
-      keys.push(day === null ? "" : applyGranularityBucket(day, granularity))
+      keys.push(day === null ? GROUP_NONE_KEY : applyGranularityBucket(day, granularity))
     } else if (isMultiKey) {
       if (Array.isArray(raw) && raw.length > 0) {
         for (const el of raw) keys.push(String(el))
       } else {
-        keys.push("")
+        keys.push(GROUP_NONE_KEY)
       }
     } else {
-      keys.push(raw == null ? "" : String(raw))
+      keys.push(raw == null || raw === "" ? GROUP_NONE_KEY : String(raw))
     }
     const page = toPageWithProperties(row)
     for (const key of keys) {

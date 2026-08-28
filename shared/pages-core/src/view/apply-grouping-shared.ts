@@ -69,11 +69,20 @@ export function compareGroupLabels(a: string, b: string): number {
   return a.localeCompare(b, undefined, { numeric: true })
 }
 
+/**
+ * The key every empty group is filed under, on the browser keying path and the server
+ * bucketing path alike.
+ *
+ * ONE SPELLING, BECAUSE ONE CONCEPT. The server bucketing path spelt this `""` and the browser
+ * keying path spelt it `__none__`, each consistent within itself, so nobody met both names at
+ * once. Every comparison downstream met both: a `""` key fell through a `__none__`-only
+ * ordering pin into alphabetical order (#14205), and through the `__none__`-only test in
+ * `groupKeyToPropertyValue`, so a card dropped into the No Value column of a board wrote an
+ * empty string onto the property where it meant to clear it. An `isEmptyGroupKey` taking both
+ * spellings stood here and covered the ordering pin alone — a seam every later comparison had
+ * to be told about. The seam is removed rather than held.
+ */
 export const GROUP_NONE_KEY = "__none__"
-
-export function isEmptyGroupKey(key: string): boolean {
-  return key === "" || key === GROUP_NONE_KEY
-}
 
 export function effectiveGroupable(prop: PropertyDefinition): boolean {
   return prop.groupable ?? GROUPABLE_BY_TYPE[prop.type]

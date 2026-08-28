@@ -4,10 +4,10 @@ import type { PropertyDefinition } from "../types"
 import {
   compareGroupLabels,
   effectiveGroupable,
+  GROUP_NONE_KEY,
   type GroupedResult,
   type GroupSortOption,
   getOptions,
-  isEmptyGroupKey,
   type PageResolver,
 } from "./apply-grouping-shared"
 
@@ -104,8 +104,8 @@ export function sortGroupedResults<T extends GroupedResult>(
 
   const result = [...groups]
   result.sort((a, b) => {
-    const aEmpty = isEmptyGroupKey(a.key)
-    const bEmpty = isEmptyGroupKey(b.key)
+    const aEmpty = a.key === GROUP_NONE_KEY
+    const bEmpty = b.key === GROUP_NONE_KEY
     if (aEmpty !== bEmpty) return nullOrderSign(aEmpty, primaryDesc)
 
     for (const { field, direction } of normalizedSorts) {

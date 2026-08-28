@@ -1,6 +1,7 @@
 import { describe, expect, it } from "bun:test"
 import { Page } from "@shared/pages-core/page-types"
 import type { PropertyDefinition } from "@shared/pages-core/types"
+import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import { applyClientViewFilters } from "./apply-client-view-filters"
 import { bucketRowsByGroup } from "./group-by-hooks"
 
@@ -37,7 +38,7 @@ describe("bucketRowsByGroup", () => {
     expect(groups.get("done")?.totalCount).toBe(2)
   })
 
-  it("treats a missing group property value as the empty-string bucket", () => {
+  it("treats a missing group property value as the empty group", () => {
     const rows: readonly Page[] = [
       row("1", "open"),
       Page({
@@ -59,7 +60,7 @@ describe("bucketRowsByGroup", () => {
       hasMore: false,
     })
     expect(groups.get("open")?.totalCount).toBe(1)
-    expect(groups.get("")?.totalCount).toBe(1)
+    expect(groups.get(GROUP_NONE_KEY)?.totalCount).toBe(1)
   })
 
   it("threads loading and load-more flags onto every bucket", () => {
@@ -150,7 +151,7 @@ describe("bucketRowsByGroup — multi-relation group key (#13150)", () => {
     expect(groups.get("mari")?.totalCount).toBe(2)
   })
 
-  it("buckets an empty multi-relation array as the empty-string group", () => {
+  it("buckets an empty multi-relation array as the empty group", () => {
     const groups = bucketRowsByGroup({
       rows: [personaRow("1", [])],
       groupPropertyId: "persona",
@@ -158,7 +159,7 @@ describe("bucketRowsByGroup — multi-relation group key (#13150)", () => {
       hasMore: false,
       properties: [PERSONA_DEF],
     })
-    expect(groups.get("")?.totalCount).toBe(1)
+    expect(groups.get(GROUP_NONE_KEY)?.totalCount).toBe(1)
   })
 })
 

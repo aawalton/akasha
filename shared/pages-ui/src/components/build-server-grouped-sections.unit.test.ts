@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { PropertyDefinition } from "@shared/pages-core/types"
+import { GROUP_NONE_KEY } from "@shared/pages-core/view/apply-grouping-shared"
 import type { PageWithProperties } from "../supabase/types"
 import { buildServerGroupedSections } from "./build-server-grouped-sections"
 
@@ -80,11 +81,11 @@ describe("buildServerGroupedSections", () => {
       groupByPropertyId: "parent",
       properties: [relationDef],
       pageSets: [[]],
-      groups: groups([["", [page("row-1")]]]),
+      groups: groups([[GROUP_NONE_KEY, [page("row-1")]]]),
       loadMore: () => {},
     })
     expect(sections?.[0]?.label).toBe("No Value")
-    expect(sections?.[0]?.key).toBe("")
+    expect(sections?.[0]?.key).toBe(GROUP_NONE_KEY)
   })
 
   test('empty select group key labels as "No Value"; real option labels unaffected', () => {
@@ -100,7 +101,7 @@ describe("buildServerGroupedSections", () => {
       pageSets: [],
       groups: groups([
         ["open", [page("row-1")]],
-        ["", [page("row-2")]],
+        [GROUP_NONE_KEY, [page("row-2")]],
       ]),
       loadMore: () => {},
     })
@@ -136,7 +137,7 @@ describe("buildServerGroupedSections", () => {
       groupByPropertyId: "ghost-property",
       properties: [relationDef],
       pageSets: [],
-      groups: groups([["", [page("row-1")]]]),
+      groups: groups([[GROUP_NONE_KEY, [page("row-1")]]]),
       loadMore: () => {},
     })
     expect(sections?.[0]?.label).toBe("No Value")
