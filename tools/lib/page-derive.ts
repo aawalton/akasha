@@ -7,7 +7,6 @@ import {
   type Declared,
   declarationsIn,
   EXPRESSION,
-  FORMULA,
   FROM,
   type Kind,
   kindsIn,
@@ -94,8 +93,8 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const typeOf = (kind: string, key: string): string | null => {
     const declaration = declarationFor(kind, key)
     if (declaration === null) return null
-    if (declaration.type === AGGREGATE) return declaration.returnType ?? NUMBER
-    return declaration.type === FORMULA ? declaration.returnType : declaration.type
+    if (declaration.type === AGGREGATE) return NUMBER
+    return declaration.type
   }
 
   const largeKeys = (kind: string): readonly string[] => {

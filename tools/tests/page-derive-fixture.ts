@@ -89,29 +89,24 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-definition/gauge-budget.page-property-definition.md": property("gauge", "budget", ["type: number"]),
   "pages/page-property-definition/gauge-opened.page-property-definition.md": property("gauge", "opened", ["type: instant"]),
   "pages/page-property-definition/gauge-charged.page-property-definition.md": property("gauge", "charged", [
-    "type: formula",
+    "type: number",
     "expression: (used > 0) && used || budget",
-    "returnType: number",
   ]),
   "pages/page-property-definition/gauge-seen.page-property-definition.md": property("gauge", "seen", [
-    "type: formula",
+    "type: instant",
     "expression: opened",
-    "returnType: instant",
   ]),
   "pages/page-property-definition/gauge-unstated.page-property-definition.md": property("gauge", "unstated", [
-    "type: formula",
     "expression: budget",
   ]),
   "pages/page-property-definition/gauge-day-rate.page-property-definition.md": property("gauge", "day-rate", ["type: number"]),
   "pages/page-property-definition/gauge-bare.page-property-definition.md": property("gauge", "bare", [
-    "type: formula",
+    "type: number",
     "expression: day-rate * 2",
-    "returnType: number",
   ]),
   "pages/page-property-definition/gauge-spelled.page-property-definition.md": property("gauge", "spelled", [
-    "type: formula",
+    "type: number",
     "expression: prop(day-rate) * 2",
-    "returnType: number",
   ]),
 
   "pages/person/ada.person.md": page(["slug: ada"]),

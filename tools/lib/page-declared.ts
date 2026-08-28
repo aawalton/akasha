@@ -25,8 +25,6 @@ export const UNCOMMITTED = "uncommitted"
 
 export const FALLBACK = "default"
 
-export const FORMULA = "formula"
-
 export const AGGREGATE = "aggregate"
 
 export const ROLLUP = "rollup"
@@ -39,8 +37,6 @@ export const OVER = "target"
 
 export const NAMED_FOR = "named-for"
 
-const RETURN_TYPE = "returnType"
-
 export interface Kind {
   readonly filed: readonly Filed[]
   readonly above: string | null
@@ -52,7 +48,6 @@ export interface Declared {
   readonly on: string
   readonly key: string
   readonly type: string | null
-  readonly returnType: string | null
   readonly target: string | null
   readonly slugProperty: string | null
   readonly from: readonly string[]
@@ -128,7 +123,6 @@ export function declaredIn(
     on: slugNamed(on),
     key: stringAt(fm, "key") ?? slugOf(relPath),
     type,
-    returnType: stringAt(fm, RETURN_TYPE),
     target: stringAt(fm, TARGET),
     slugProperty: stringAt(fm, SLUG_PROPERTY),
     from: listField(fm, FROM),
