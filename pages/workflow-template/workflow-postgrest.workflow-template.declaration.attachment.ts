@@ -163,7 +163,7 @@ export default workflow("postgrest", {
           ...checksumHashCommands({
             variable: "SECRET_HASH",
             read: `sops -d ${ci.workspace}/infra/k8s/src/postgrest/postgrest.k8s-secret.sops.yaml`,
-            subject: "postgrest-secrets.sops.yaml",
+            subject: "postgrest.k8s-secret.sops.yaml",
           }),
           `sed "s|checksum/postgrest-secrets:.*|checksum/postgrest-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/postgrest/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n postgrest -f -`,
           ...verifyRolloutCommands({
