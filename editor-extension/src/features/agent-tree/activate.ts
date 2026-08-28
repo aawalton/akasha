@@ -15,7 +15,7 @@ import {
 	type SeatTerminal,
 	tabInstanceIds,
 } from './columns.ts';
-import { type AgentNode, readAgentForest } from "./forest.ts"
+import { type AgentNode, dropSeatAnswers, readAgentForest } from "./forest.ts"
 import { seatsByName } from "./lookup.ts";
 import { seatTabContext, type SeatTabState } from './seat-tabs.ts';
 import { createSubagentReader } from './subagents.ts';
@@ -106,12 +106,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		)
 	);
 
-	// NOTHING IS READ FROM THE DATABASE HERE ANY MORE, so nothing is prepared for it
-	// either. This used to build a service-role client out of `~/.secrets.env` and
-	// return early where either value was missing, which left the panel permanently
-	// empty on a workstation whose secrets file had moved. The rows now come from
-	// `tools/agent-forest.ts` in the instructions repository, which reads the database
-	// itself and is the one place that has to be able to.
+	// THE ROWS ARE READ FROM THE PAGES IN THIS PROCESS. Every field on a seat row is a property
+	// some page declares, so one query per page type answers the whole fleet. Nothing is spawned
+	// here and nothing is read from a database.
 	/** Seats running in the fleet, as against what a filter has left standing. */
 	let running = 0;
 
@@ -234,9 +231,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	 *
 	 * COALESCED, BECAUSE A STAMP IS NOT A REDRAW. One act can stamp several seats and each
 	 * write lands as its own event, so a burst arrives where Alan sees one change. The settle
-	 * below turns a burst into a single read; the read itself is cheap — `agent-forest`
-	 * answers in about 30ms — but it spawns a process and republishes every tab's keys, and
-	 * doing that once a stamp would be paying repeatedly for one answer.
+	 * below turns a burst into a single read. The read is also what drops the held reading of the
+	 * pages, so a stamp is what makes the next answer fresh rather than the interval below it.
 	 *
 	 * THE POLL STAYS. It is what covers a change no file event reports — a terminal closing,
 	 * a process exiting — and what recovers the panel if a watcher is lost.
@@ -246,6 +242,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		if (settling !== undefined) { clearTimeout(settling); }
 		settling = setTimeout(() => {
 			settling = undefined;
+			dropSeatAnswers();
 			void refresh('seat');
 		}, SEAT_SETTLE_MS);
 	};

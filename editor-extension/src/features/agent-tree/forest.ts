@@ -2,10 +2,12 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import { turnColoursVerbPath } from '../../harness-call.ts';
+import { dropDerivers, holdDerivers } from '../../../../tools/lib/deriver-hold.ts';
+import { askSeatForest } from '../../../../tools/lib/seat-forest-asked.ts';
+import { colorOfState } from '../../../../tools/lib/seat-turn-color.ts';
 import type { SeatMode } from '../../seat/mode.ts';
 import { seatTranscriptOf } from '../transcript/sources.ts';
-import { askHarness, askHarnessFile, parseForestRows, parseStateColour } from './harness.ts';
+import type { HarnessRow } from './harness.ts';
 import { readSeatPlaces } from './lookup.ts';
 import type { SubagentNode, SubagentReader } from './subagents.ts';
 
@@ -22,6 +24,23 @@ import type { SubagentNode, SubagentReader } from './subagents.ts';
  * reading the wrong answer — only of reading none.
  */
 const ALAN = 'alan';
+
+/**
+ * How long one derived reading of the pages serves before it is worked out again.
+ *
+ * ARMED BECAUSE THIS ANSWER IS ASKED FOR EVERY SECOND. Working out a page type's properties, its
+ * declarations and its vocabulary is the whole cost of answering at all — about a hundred
+ * milliseconds against about one for the same read held. What keeps it honest is `dropSeatAnswers`,
+ * called the moment a seat's sidecar moves, so this bound covers only a change no watcher reports.
+ */
+const HOLD_MS = 5_000;
+
+holdDerivers(HOLD_MS);
+
+/** Forget every derived reading, so the next one is worked out from the files as they stand now. */
+export function dropSeatAnswers(): void {
+	dropDerivers();
+}
 
 /**
  * The three fields the nesting reads. Narrower than `AgentRow`, which an actual
@@ -90,12 +109,10 @@ export interface AgentNode {
  * The live seats, nested by ownership, with any stopped ancestor holding a live
  * branch fetched back in.
  *
- * WHICH ROWS THOSE ARE IS THE HARNESS'S ANSWER, not this file's. `tools/agent-forest.ts`
- * in akasha holds the live-status filter, the order, the cap
- * and the walk back up the ownership chain — one fetch is not enough, and doing
- * that walk on this side of a process boundary would pay a process start per
- * generation. What is here is the part that is about the VIEW: the nesting, the
- * pruning of branches holding nothing running, the ordering, and the subagents.
+ * WHICH SEATS THOSE ARE IS THE PAGES' ANSWER, not this file's. Every field on a row is a property
+ * some page declares, so one query per page type carries them all and the joins happen in
+ * `tools/lib/seat-forest-asked.ts`. What is here is the part that is about the VIEW: the nesting,
+ * the pruning of branches holding nothing running, the ordering, and the subagents.
  */
 export interface AgentForest {
 	readonly roots: readonly AgentNode[];
@@ -111,7 +128,7 @@ export interface AgentForest {
 }
 
 export async function readAgentForest(subagents: SubagentReader): Promise<AgentForest> {
-	const rows = parseForestRows(await askHarness('agent-forest'));
+	const rows: readonly HarnessRow[] = askSeatForest().map((one) => ({ ...one, colour: one.color }));
 	const liveIds = new Set(rows.filter((row) => row.live).map((row) => row.id));
 
 	// Only a LIVE seat is read for subagents. A stopped seat's Claude is dead, so
@@ -138,7 +155,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
 	for (const row of rows) { if (row.principal === ALAN) { alanPrincipalCount++; } }
 
 	const places = readSeatPlaces(rows);
-	const roots = assembleForest(rows, liveIds, running, places, await workingColour());
+	const roots = assembleForest(rows, liveIds, running, places, workingColour());
 	return { roots, alanPrincipalCount, runningCount: countRunning(roots) };
 }
 
@@ -154,22 +171,12 @@ const WORKING = 'working';
 /**
  * What a working agent is drawn in, or undefined where the harness could not be asked.
  *
- * UNDEFINED IS THE OLD BEHAVIOUR RATHER THAN A FAILURE. A subagent row with no colour falls
- * through to the muted foreground it had before it had a state, so a harness that cannot be
- * reached costs the subagents their colour and costs the tree nothing else. Throwing here
- * would take the whole forest down over the one row kind that has a fallback.
+ * UNDEFINED WHERE NO DOMAIN STANDS FOR THE STATE. A subagent row with no colour falls through to
+ * the muted foreground it had before it had a state, which costs the subagents their colour and
+ * costs the tree nothing else.
  */
-async function workingColour(): Promise<string | undefined> {
-	try {
-		// ASKED AT THE PATH `harness-call` RESOLVED, not at one spelled here. A path spelled here
-		// would be a second answer to where this verb stands, and it would fail quietly: the catch
-		// below is the fallback for a harness that cannot be reached, so a wrong path costs every
-		// subagent row its colour with nothing on screen saying so.
-		const answer = await askHarnessFile(turnColoursVerbPath(), ['--state', WORKING]);
-		return parseStateColour(answer, WORKING);
-	} catch {
-		return undefined;
-	}
+function workingColour(): string | undefined {
+	return colorOfState(WORKING) ?? undefined;
 }
 
 /**
@@ -313,4 +320,3 @@ function holdsSomethingRunning(node: AgentNode): boolean {
 function sortByName(nodes: readonly AgentNode[]): readonly AgentNode[] {
 	return [...nodes].sort((a, b) => a.name.localeCompare(b.name));
 }
-
