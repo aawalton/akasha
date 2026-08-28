@@ -7,7 +7,7 @@ domain-slug: domain/seat-delegating
 
 # Claim
 
-A delegate catches its coordinator's false claims when two things hold together: work concrete enough to bring it into contact with the claim, and a standing licence to contradict the person who briefed it. Neither alone produces anything. Six corrections recorded below were made by one delegate against the seat that briefed it over one night, and a seventh arrived against this page while it was being written. Not one came from doubting anybody.
+A delegate catches its coordinator's false claims when two things hold together: work concrete enough to bring it into contact with the claim, and a standing licence to contradict the person who briefed it. Neither alone produces anything. The corrections recorded below were made by one delegate against the seat that briefed it over one night, and more arrived against this page itself as it was written. Not one came from doubting anybody.
 
 # Evidence
 
@@ -25,7 +25,9 @@ The second was added mid-task, after the coordinator had asserted a mechanism fr
 
 Not measured: which licence produced which catch. The delegate grouped them by time rather than tracing each one to its line, and both lines were in force for the last three.
 
-**On shape.** `the-rule-caught-the-people-writing-it`, under `domain/checks-system`, records a family in which every specimen was one number refusing to agree with another, and establishes that property for three catches it tested. These are not all of that kind, and not all outside it. The invented count is exactly that shape: 72 + 509 = 581 against a separate 107, with 402 refusing to agree with either. By the delegate's count two of the six turned on figures and four had no figure in them at all. An earlier version of this page widened the census's tested three to all six and asserted that none was numeric, which was false — the same error the census itself is about, made on the page citing it.
+Further corrections were made by the same delegate against this page, after each version of it landed. They are of the same kind as those listed and are deliberately not totalled. A running count over a process still going goes false while it is being written, and this one did, inside a single commit: the body counted an exchange as one where it had counted the first pass as three. What the evidence supports is the structure — three before the second licence, three after, and more against the record of them — which cannot go stale.
+
+**On shape.** `the-rule-caught-the-people-writing-it`, under `domain/checks-system`, records a family in which every specimen was one number refusing to agree with another, and establishes that property for three catches it tested. These are not all of that kind, and not all outside it. The invented count is exactly that shape: 72 + 509 = 581 against a separate 107, with 402 refusing to agree with either. Of the six listed above, the delegate counts two that turned on figures and four with no figure in them at all. An earlier version of this page widened the census's tested three to all six and asserted that none was numeric, which was false — the same error the census itself is about, made on the page citing it.
 
 **A clean return.** One run of the second licence found nothing. Asked to verify a landed diff, the delegate ran `git show`, found three insertions and three deletions in the lines named and nothing else moved, and reported the claim holding literally. A check that only ever finds something is not a check.
 
