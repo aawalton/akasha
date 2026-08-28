@@ -201,3 +201,26 @@ describe("a value holding a string literal", () => {
     expect(refusalsBound(view).verdict).toBe("pass")
   })
 })
+
+describe("a file where the function is itself declared", () => {
+  const namedIn = (relPath: string): readonly string[] =>
+    refusalsBound(view).messages.filter((said) => said.includes(relPath))
+
+  test("a call beside the definition is read, the definition licensing its own occurrence and nothing else", () => {
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.ts",
+      `export function refusalText(slug, values) {\n  return slug\n}\nexport const g = (s) => refusalText(NAME, { path }, r, s.read)\n`
+    )
+    expect(namedIn("tools/gates/slug-stem.ts")).not.toEqual([])
+  })
+
+  test("a declaration is no call, a type declaration standing for the function rather than reaching it", () => {
+    put("pages/refusal/slug-stem.refusal.md", document(["path"]))
+    put(
+      "tools/gates/slug-stem.d.ts",
+      `export declare function refusalText(slug: string, values: Readonly<Record<string, string>>): string;\n`
+    )
+    expect(namedIn("tools/gates/slug-stem.d.ts")).toEqual([])
+  })
+})
