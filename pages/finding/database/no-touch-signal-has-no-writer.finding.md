@@ -1,5 +1,6 @@
 ---
 page-type-slug: finding
+slug: no-touch-signal-has-no-writer
 title: "The no-touch signal the updated-at trigger reads is set by nothing"
 domain-slug: database
 ---

@@ -1,5 +1,6 @@
 ---
 id: 9a223669-2d47-55aa-8022-784f9159e187
+slug: refusal-exits-unclassified
 page-type-slug: finding
 title: "Refusal exits unclassified"
 domain-slug: page-type/person-access

@@ -1,5 +1,6 @@
 ---
 id: 52eb2cb6-8f6b-55b0-a102-daa6479665e5
+slug: hand-rolled-refusal-exits-70
 page-type-slug: finding
 title: "Hand rolled refusal exits 70"
 domain-slug: page-type/old-ops-command

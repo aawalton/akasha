@@ -1,5 +1,6 @@
 ---
 id: ac9736f6-966d-59e2-811c-7ee1b34b335d
+slug: refusal-exits-unclassified
 page-type-slug: finding
 title: "Refusal exits unclassified"
 domain-slug: domain/person-authority-feature-approval

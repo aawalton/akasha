@@ -1,5 +1,6 @@
 ---
 id: 0fb741b8-2491-5cbe-a089-9525db4b8872
+slug: registry-ca-null-declared
 page-type-slug: finding
 title: "Registry ca null declared"
 domain-slug: page-type/ops-command

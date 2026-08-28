@@ -1,5 +1,6 @@
 ---
 id: 6613194c-e89f-53ff-93e5-72fcca40c857
+slug: refusal-is-scaffolding
 page-type-slug: finding
 title: "Refusal is scaffolding"
 domain-slug: page-type/old-ops-command

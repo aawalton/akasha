@@ -1,5 +1,6 @@
 ---
 id: b2cbf568-f018-56f7-8880-7aa159f878a2
+slug: refusal-exits-unclassified
 page-type-slug: finding
 title: "The publish-turn command exits 70 where its four siblings exit 2 on the same probe"
 domain-slug: domain/global

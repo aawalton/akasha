@@ -1,5 +1,6 @@
 ---
 id: 4f7427b7-26e1-5957-a469-3fc096654bdc
+slug: ephemeral-worktree-manufactures-violations
 page-type-slug: finding
 title: "Ephemeral worktree manufactures violations"
 domain-slug: domain/global

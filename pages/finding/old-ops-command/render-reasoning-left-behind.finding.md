@@ -1,5 +1,6 @@
 ---
 id: de45f960-8f32-5088-a9d6-e8c3e28b0252
+slug: render-reasoning-left-behind
 page-type-slug: finding
 title: "Render reasoning left behind"
 domain-slug: page-type/old-ops-command

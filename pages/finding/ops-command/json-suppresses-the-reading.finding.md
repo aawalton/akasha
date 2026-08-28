@@ -1,5 +1,6 @@
 ---
 id: 3f962a9e-49ad-59f6-b7f8-cdcdc7d74aa1
+slug: json-suppresses-the-reading
 page-type-slug: finding
 title: "JSON suppresses the reading"
 domain-slug: page-type/ops-command

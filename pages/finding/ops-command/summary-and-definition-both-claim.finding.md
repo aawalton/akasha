@@ -1,5 +1,6 @@
 ---
 id: 874deb3d-6ed5-5d6c-be62-aa324fbaa931
+slug: summary-and-definition-both-claim
 page-type-slug: finding
 title: "Summary and definition both claim"
 domain-slug: page-type/ops-command

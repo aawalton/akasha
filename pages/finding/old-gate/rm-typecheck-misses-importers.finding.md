@@ -1,5 +1,6 @@
 ---
 id: 81ac649b-1c7e-5980-94a6-b5cf6c78f7aa
+slug: rm-typecheck-misses-importers
 page-type-slug: finding
 title: "The removal gate does not typecheck what imports the file being removed"
 domain-slug: page-type/old-gate

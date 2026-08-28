@@ -1,5 +1,6 @@
 ---
 id: a908f336-bbe5-5f75-b7e9-2760fc08ba93
+slug: exit-codes-are-a-scheme-no-document-states
 page-type-slug: finding
 title: "Exit codes are a scheme no document states"
 domain-slug: page-type/old-ops-command

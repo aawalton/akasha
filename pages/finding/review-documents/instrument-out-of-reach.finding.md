@@ -1,5 +1,6 @@
 ---
 id: 2a94b262-00c2-5f83-b1f4-f1834fd99376
+slug: instrument-out-of-reach
 page-type-slug: finding
 title: "Instrument out of reach"
 domain-slug: domain/global

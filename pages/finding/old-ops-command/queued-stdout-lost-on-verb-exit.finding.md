@@ -1,5 +1,6 @@
 ---
 id: 4af7ff2b-da38-5fbb-9118-0adc3c342c32
+slug: queued-stdout-lost-on-verb-exit
 page-type-slug: finding
 title: "Queued stdout lost on verb exit"
 domain-slug: page-type/old-ops-command

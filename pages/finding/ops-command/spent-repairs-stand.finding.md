@@ -1,5 +1,6 @@
 ---
 id: 66495936-cdef-5c0d-8039-98523c212496
+slug: spent-repairs-stand
 page-type-slug: finding
 title: "Spent repairs stand"
 domain-slug: page-type/ops-command

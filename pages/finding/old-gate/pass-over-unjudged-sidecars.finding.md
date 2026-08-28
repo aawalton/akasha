@@ -1,5 +1,6 @@
 ---
 id: 516e24c8-1fb2-5ca8-9a21-6f647513984c
+slug: pass-over-unjudged-sidecars
 page-type-slug: finding
 title: "Two gates return pass over secret and uncommitted files they do not judge"
 domain-slug: page-type/old-gate

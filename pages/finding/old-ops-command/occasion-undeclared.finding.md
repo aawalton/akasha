@@ -1,5 +1,6 @@
 ---
 id: c2e25a1f-735f-5ab8-b786-3c1402b536b9
+slug: occasion-undeclared
 page-type-slug: finding
 title: "Occasion undeclared"
 domain-slug: page-type/old-ops-command

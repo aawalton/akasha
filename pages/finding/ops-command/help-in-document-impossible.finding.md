@@ -1,5 +1,6 @@
 ---
 id: ef4a209e-8e5a-56ca-892d-aac11bc1cf20
+slug: help-in-document-impossible
 page-type-slug: finding
 title: "No command document can supply help, so the line dividing reviewed commands from unreviewed is true of none"
 domain-slug: page-type/ops-command

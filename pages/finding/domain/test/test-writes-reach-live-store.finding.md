@@ -1,5 +1,6 @@
 ---
 page-type-slug: finding
+slug: test-writes-reach-live-store
 title: "An on-demand test's writes land in the live page store"
 domain-slug: domain/test
 ---

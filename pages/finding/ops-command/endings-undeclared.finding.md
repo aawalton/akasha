@@ -1,5 +1,6 @@
 ---
 id: 3814bff0-4289-55a1-801c-f717823b391a
+slug: endings-undeclared
 page-type-slug: finding
 title: "Endings undeclared"
 domain-slug: page-type/ops-command

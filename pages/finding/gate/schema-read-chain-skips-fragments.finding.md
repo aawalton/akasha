@@ -1,5 +1,6 @@
 ---
 id: 3f5cbffd-400a-5e5e-9504-2e012ab1d7ff
+slug: schema-read-chain-skips-fragments
 page-type-slug: finding
 title: "Schema read chain skips fragments"
 domain-slug: page-type/gate

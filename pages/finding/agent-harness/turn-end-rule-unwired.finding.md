@@ -1,5 +1,6 @@
 ---
 id: 20716a79-c003-517f-b39c-d711cb8135a9
+slug: turn-end-rule-unwired
 page-type-slug: finding
 title: "Turn end rule unwired"
 domain-slug: domain/agent-harness

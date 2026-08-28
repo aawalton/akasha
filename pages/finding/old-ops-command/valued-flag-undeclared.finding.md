@@ -1,5 +1,6 @@
 ---
 id: a0b6d532-b4f2-5476-8348-45de50ecff8f
+slug: valued-flag-undeclared
 page-type-slug: finding
 title: "Valued flag undeclared"
 domain-slug: page-type/old-ops-command

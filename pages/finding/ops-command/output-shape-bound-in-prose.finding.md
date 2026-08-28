@@ -1,5 +1,6 @@
 ---
 id: 3777bf7e-63cb-5063-8b74-08dc0ec1d087
+slug: output-shape-bound-in-prose
 page-type-slug: finding
 title: "Output shape bound in prose"
 domain-slug: page-type/ops-command

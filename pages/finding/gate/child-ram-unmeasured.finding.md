@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 026f34ad-b706-50e4-8f37-cbe4b3fa6116
+slug: child-ram-unmeasured
 title: "The band gate measures no child process, so tsc's memory is spent unwatched"
 domain-slug: page-type/gate
 ---

@@ -1,5 +1,6 @@
 ---
 page-type-slug: finding
+slug: points-unsupported-by-entries
 title: "A day's points value can stand unsupported by the entries beneath it"
 domain-slug: domain/alan-harness-tracking-score
 ---

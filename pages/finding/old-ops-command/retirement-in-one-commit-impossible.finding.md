@@ -1,5 +1,6 @@
 ---
 id: c73a45a5-2f9f-50ad-a10e-cce415a16c3e
+slug: retirement-in-one-commit-impossible
 page-type-slug: finding
 title: "Retirement in one commit impossible"
 domain-slug: page-type/old-ops-command

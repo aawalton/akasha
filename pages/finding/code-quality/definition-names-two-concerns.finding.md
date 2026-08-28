@@ -1,5 +1,6 @@
 ---
 id: aa81c257-3e35-5845-8ce5-1e5c6efadc95
+slug: definition-names-two-concerns
 page-type-slug: finding
 title: "The code-quality Definition names two concerns and three things under it fall under neither"
 domain-slug: domain/code-quality

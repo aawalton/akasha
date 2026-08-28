@@ -1,5 +1,6 @@
 ---
 id: 93249ed6-489f-54af-b2d1-a0c8a0f02417
+slug: command-documents-unreconciled
 page-type-slug: finding
 title: "Command documents unreconciled"
 domain-slug: page-type/ops-command

@@ -1,5 +1,6 @@
 ---
 id: e518be25-b563-570a-9782-66a3a4928d7f
+slug: turn-example-undeclared-flag
 page-type-slug: finding
 title: "Turn example undeclared flag"
 domain-slug: page-type/old-ops-command

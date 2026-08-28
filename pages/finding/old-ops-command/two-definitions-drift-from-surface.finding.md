@@ -1,5 +1,6 @@
 ---
 id: dc30df30-0a05-55b3-823d-47bf59d0a916
+slug: two-definitions-drift-from-surface
 page-type-slug: finding
 title: "Two definitions drift from surface"
 domain-slug: page-type/old-ops-command

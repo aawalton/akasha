@@ -1,5 +1,6 @@
 ---
 id: 49f3ffe3-1a9f-57c0-be89-528b013f7f93
+slug: definition-misses-stage-five
 page-type-slug: finding
 title: "Definition misses stage five"
 domain-slug: task/prepare-interview

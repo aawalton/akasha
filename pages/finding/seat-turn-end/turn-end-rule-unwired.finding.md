@@ -1,5 +1,6 @@
 ---
 id: ccc26fff-1805-58a6-a12d-0475d3838469
+slug: turn-end-rule-unwired
 page-type-slug: finding
 title: "Turn end rule unwired"
 domain-slug: domain/seat-turn-end

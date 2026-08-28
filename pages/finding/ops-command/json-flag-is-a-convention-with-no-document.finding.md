@@ -1,5 +1,6 @@
 ---
 id: a6ec450d-3d9b-5f1c-bd36-23e5226ef8d0
+slug: json-flag-is-a-convention-with-no-document
 page-type-slug: finding
 title: "JSON flag is a convention with no document"
 domain-slug: page-type/ops-command

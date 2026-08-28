@@ -1,5 +1,6 @@
 ---
 id: 52d88b96-eea6-5e26-9373-fbfe0395ed2c
+slug: talos-cluster-name-literal
 page-type-slug: finding
 title: "Talos cluster name literal"
 domain-slug: page-type/old-ops-command

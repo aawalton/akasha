@@ -1,5 +1,6 @@
 ---
 id: d1ffa1da-5423-5b2b-b196-1eeac4d749da
+slug: exit-class-bound-nowhere
 page-type-slug: finding
 title: "Exit class bound nowhere"
 domain-slug: page-type/old-ops-command

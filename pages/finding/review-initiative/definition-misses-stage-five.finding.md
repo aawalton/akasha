@@ -1,5 +1,6 @@
 ---
 id: 0f650b17-9838-5013-bd31-91dd52cb3943
+slug: definition-misses-stage-five
 page-type-slug: finding
 title: "Definition misses stage five"
 domain-slug: task/review-initiative
