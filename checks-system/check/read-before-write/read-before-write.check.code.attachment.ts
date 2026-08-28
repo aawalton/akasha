@@ -15,7 +15,7 @@ import { requiredReadingFor } from "../../../page/required-reading/required-read
 import { textAt } from "../../../page/text/text.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
 import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "../../../refusal/refusal.ts"
 
 const SLUG = "read-before-write"
 

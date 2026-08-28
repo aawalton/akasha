@@ -7,7 +7,7 @@ import { blanked, boundsFor, excepting, narrowed } from "./bounds.ts"
 import { arms, backReference, refusalOf, ruleFor, selects, TYPE } from "./value.ts"
 import { VALUES } from "./stated.ts"
 import type { Held, Rule, Vocabulary } from "./stated.ts"
-import { refusalText } from "../../checks-system/refusal/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 export interface Judgment {
   readonly refusals: readonly string[]

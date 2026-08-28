@@ -13,7 +13,7 @@ import {
 import { seatAbove } from "../../../agent/writer.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "../../../refusal/refusal.ts"
 import type { Act, Batch, Check, CheckFailure } from "../check-shape.ts"
 
 const SLUG = "read-what-is-required"

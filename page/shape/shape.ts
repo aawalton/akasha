@@ -5,7 +5,7 @@ import type { Document, Refusal, Verdict } from "../document/types.ts"
 import type { Choice, PartDef, CompiledShape } from "../document/shape-types.ts"
 import { levelOf, type Level } from "./level.ts"
 import { pageStemOf } from "../name/name.ts"
-import { refusalText } from "../../checks-system/refusal/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 export interface Shape {
   readonly compiled: CompiledShape | null

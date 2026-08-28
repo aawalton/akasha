@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "../../../refusal/refusal.ts"
 import type { Batch, Check, CheckFailure, Tree } from "../check-shape.ts"
 
 const SLUG = "inbound-import-resolves"

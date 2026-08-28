@@ -5,7 +5,7 @@ import type { Property } from "../../../page/property/property.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
 import { claimant, type PageType } from "../../../page/page-types.ts"
 import { rowsNamingOf } from "../../../page/rows-file.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "../../../refusal/refusal.ts"
 
 const ROWS_KEY = "rows"
 

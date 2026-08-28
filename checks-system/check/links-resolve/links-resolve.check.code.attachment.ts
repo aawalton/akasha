@@ -14,7 +14,7 @@ import { chainOf } from "../../../page/property/frontmatter.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { textAt } from "../../../page/text/text.ts"
 import { locate, rootsHere } from "../../../repo/roots/roots.ts"
-import { refusalText } from "../../refusal/refusal.ts"
+import { refusalText } from "../../../refusal/refusal.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 import { treeOver } from "../page-holds-to-its-type/staged-tree.ts"
 

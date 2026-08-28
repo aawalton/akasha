@@ -1,4 +1,4 @@
-import { refusalText } from "../../checks-system/refusal/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 export function kebabized(key: string): string {
   return key.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase()
