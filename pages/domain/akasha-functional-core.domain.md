@@ -12,3 +12,7 @@ domain-parent-slug: domain/akasha-milestone
 # Intent
 
 The akasha system is written as akasha pages.
+
+The akasha system makes every change to itself.
+
+The akasha system checks every change to itself.
