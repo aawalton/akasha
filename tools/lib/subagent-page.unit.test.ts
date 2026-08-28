@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { existsSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { takeOrphanedReadings } from "./subagent-page.ts"
+import { keepingReadings, takeOrphanedReadings } from "./subagent-page.ts"
 
 const READINGS = ".readings.uncommitted.attachment.json"
 
@@ -20,6 +20,39 @@ function put(name: string, body: string): string {
   writeFileSync(at, body, "utf8")
   return at
 }
+
+describe("an act that takes a subagent's page", () => {
+  test("leaves the readings standing where the act took them with the page", () => {
+    const page = put("astra--eee.subagent.md", "---\nsubagent-id: eee\n---\n")
+    const readings = put(`astra--eee.subagent${READINGS}`, '{"/f/a.md":{"oid":"aaa","seenAt":1}}\n')
+    keepingReadings(page, () => {
+      rmSync(page, { force: true })
+      rmSync(readings, { force: true })
+    })
+    expect(existsSync(readings)).toBe(true)
+    expect(readFileSync(readings, "utf8")).toBe('{"/f/a.md":{"oid":"aaa","seenAt":1}}\n')
+    expect(existsSync(page)).toBe(false)
+  })
+
+  test("hands back what the act returned, the page still going", () => {
+    const page = put("astra--fff.subagent.md", "---\nsubagent-id: fff\n---\n")
+    put(`astra--fff.subagent${READINGS}`, "{}\n")
+    const gave = keepingReadings(page, () => {
+      rmSync(page, { force: true })
+      return "taken"
+    })
+    expect(gave).toBe("taken")
+    expect(existsSync(page)).toBe(false)
+  })
+
+  test("writes nothing back where there were no readings to keep", () => {
+    const page = put("astra--ggg.subagent.md", "---\nsubagent-id: ggg\n---\n")
+    keepingReadings(page, () => {
+      rmSync(page, { force: true })
+    })
+    expect(existsSync(`${dir}/astra--ggg.subagent${READINGS}`)).toBe(false)
+  })
+})
 
 describe("a readings sidecar standing under a seat", () => {
   test("goes where no page stands beside it, nothing else being able to reach it", () => {
