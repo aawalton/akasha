@@ -272,7 +272,7 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
   })
 
   test("ignores the tracked voice-infer exception", () => {
-    const v = scanTsNodeName(POD_SPEC, "infra/voice-infer/k8s/synth.ts")
+    const v = scanTsNodeName(POD_SPEC, "infra/voice-infer/voice-infer.cluster-service.code.attachment.ts")
     expect(v).toEqual([])
   })
 
