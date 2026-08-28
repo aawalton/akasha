@@ -1,6 +1,6 @@
 import type { Roots } from "../../page/page"
 import { canonicalize, isInside } from "../../repo/path/path"
-import { AKASHA, rootFor } from "../../repo/roots/roots"
+import { AKASHA, isAddressable, rootFor } from "../../repo/roots/roots"
 
 export const SETTINGS_PATH = "settings/agents.json"
 
@@ -26,16 +26,46 @@ export function tokensIn(command: string): readonly string[] {
   return command.split(/\s+/).map((word) => word.replace(/^['"]+|['"]+$/g, ""))
 }
 
-export function repoRelative(token: string, roots: Roots): string | null {
+/**
+ * The absolute path a token names, or `null` where it names none here.
+ *
+ * A `$HOME`-SPELLED TOKEN CARRIES A REPOSITORY'S NAME WHERE AN ABSOLUTE ONE CARRIES ITS ROOT. The
+ * name is read off the head of the token and answered from the roots, which are built from the
+ * `*.repo.md` pages, so which names resolve is data rather than a name written in here.
+ *
+ * A head addressing no repository, or one this machine has not cloned, names no path here.
+ */
+function absoluteFor(token: string, roots: Roots): string | null {
   for (const prefix of HOME_PREFIXES) {
     if (!token.startsWith(prefix)) continue
     const tail = token.slice(prefix.length)
     const under = tail.startsWith(REPOS_DIR) ? tail.slice(REPOS_DIR.length) : tail
-    return under.startsWith("instructions/") ? under.slice("instructions/".length) : null
+    const cut = under.indexOf("/")
+    const named = cut === -1 ? under : under.slice(0, cut)
+    const rest = cut === -1 ? "" : under.slice(cut + 1)
+    if (!isAddressable(named)) return null
+    const root = roots[named]
+    if (root === undefined) return null
+    return rest === "" ? root : `${root}/${rest}`
   }
-  if (!token.startsWith("/") || !isInside(rootFor(roots, AKASHA), token)) return null
-  const root = canonicalize(rootFor(roots, AKASHA))
-  const resolved = canonicalize(token)
+  return token.startsWith("/") ? token : null
+}
+
+/**
+ * Where a token stands under this repository, or `null` where it stands outside it.
+ *
+ * BOTH SPELLINGS TRAVEL ONE JUDGEMENT. A `$HOME`-spelled token is turned into the absolute path it
+ * names and then measured against the akasha root exactly as an absolute token is, so two spellings
+ * of one file answer alike. A file in another repository stands outside this one under either
+ * spelling, every caller joining what comes back to the akasha root.
+ */
+export function repoRelative(token: string, roots: Roots): string | null {
+  const absolute = absoluteFor(token, roots)
+  if (absolute === null) return null
+  const akasha = rootFor(roots, AKASHA)
+  if (!isInside(akasha, absolute)) return null
+  const root = canonicalize(akasha)
+  const resolved = canonicalize(absolute)
   return resolved === root ? null : resolved.slice(root.length + 1)
 }
 
