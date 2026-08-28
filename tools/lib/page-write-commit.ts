@@ -29,6 +29,7 @@ export function commitAll(
   by?: string
 ): string | null {
   if (relPaths.length === 0) return null
+  refuseALiveTestWrite(at.root, `${act} ${pageType}/${name}`, "`commitAll`")
   if (deferringCommits()) {
     const said = `${pageType} ${act}${by === undefined ? "" : ` for ${by}`}`
     for (const relPath of relPaths) queueCommit(at.root, relPath, said)
