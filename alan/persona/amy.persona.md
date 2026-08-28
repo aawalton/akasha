@@ -2,14 +2,12 @@
 page-type-slug: persona
 id: 019eb900-4c8c-7304-aae1-b287c6b53b3e
 title: Amy
-total-points: 77.40114379084967
+total-points: 78.01879084967321
 cover: "/api/image/019f324d-3e75-719b-ba8e-1f2e95425714"
 slug: amy
 domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
-unit: green day units
-scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: amy
