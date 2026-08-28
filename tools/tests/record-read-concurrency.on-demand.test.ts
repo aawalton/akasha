@@ -3,7 +3,7 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { canonicalize } from "../../repo/path/path"
-import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
+import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/record-read.ts`
 const AGENT = "agent-parallel"
@@ -15,7 +15,6 @@ let at: Fixture
 
 beforeEach(() => {
   at = fixture()
-  installGates(at.root)
   // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
   // the spawned hook throws in `roots.ts` at import without them.
   installRepos(at.root)

@@ -3,7 +3,7 @@ import { closeSync, openSync, readFileSync } from "node:fs"
 import { ANSWER_CEILING } from "../../agent/read-answer.ts"
 import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
-import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
+import { type Fixture, fixture, installRepos } from "./fixture.ts"
 import { indexFixture, plantSeat } from "./seat-fixture.ts"
 import { toolArgv } from "../lib/tool-argv.ts"
 const LIVE = `${import.meta.dir}/../..`
@@ -31,7 +31,6 @@ let at: Fixture
 
 beforeEach(() => {
   at = fixture()
-  installGates(at.root)
   installRepos(at.root)
   at.installRecorder(AGENT)
   at.put(

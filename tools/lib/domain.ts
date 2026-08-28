@@ -2,7 +2,6 @@
 import { closure } from "./closure.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { stemOf } from "../../page/name/name.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 
 export const DOMAIN_SLUG_KEY = "slug"
@@ -18,10 +17,6 @@ export const FILE_KIND_EXTENSION_KEY = "extension"
 export const PAGE_BODY_SECTION_HEADING_KEY = "heading"
 
 export const FILE_PURPOSE_ENDING_KEY = "ending"
-
-export function domainNameOf(relPath: string): string {
-  return stemOf(relPath)
-}
 
 export const CHAMPIONED_DOMAIN_KEY = "championed-domain-slug"
 

@@ -5,7 +5,7 @@ import { dirname } from "node:path"
 import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { toolArgv } from "../lib/tool-argv.ts"
-import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
+import { type Fixture, fixture, installRepos } from "./fixture.ts"
 import { indexFixture, plantSeat } from "./seat-fixture.ts"
 
 const LIVE = `${import.meta.dir}/../..`
@@ -15,7 +15,6 @@ let at: Fixture
 
 beforeEach(() => {
   at = fixture()
-  installGates(at.root)
   installRepos(at.root)
   at.installRecorder()
   at.put(

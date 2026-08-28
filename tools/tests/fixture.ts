@@ -12,7 +12,6 @@ import {
 import { dirname } from "node:path"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../../page/attachment-file.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { GATE_PAGE_GLOB } from "../lib/gate-judgement.ts"
 import { READINGS } from "../lib/read-record.ts"
 import { refusalDirIn } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
@@ -69,11 +68,6 @@ export function installRefusals(root: string): void {
 
 export function installRepos(root: string): void {
   cpSync(`${LIVE}/${REPO_PAGES}`, `${root}/${REPO_PAGES}`, { recursive: true })
-}
-
-export function installGates(root: string): void {
-  const dir = GATE_PAGE_GLOB.slice(0, GATE_PAGE_GLOB.indexOf("/**"))
-  cpSync(`${LIVE}/${dir}`, `${root}/${dir}`, { recursive: true })
 }
 
 export function installPages(root: string, relPaths: readonly string[]): void {
