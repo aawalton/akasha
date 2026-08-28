@@ -16,4 +16,6 @@ Two functions in one file disagree about where a page's stem ends. `pageNameOf` 
 
 Measured over 59,006 pages: no page stem on disk holds a dot. Drop the fold and 60 names acquire one — 57 `temper-completion-category` pages whose `key` is spelt `account.account-achievements`, and 3 `audhdalan-subscriber` pages named by an email address. For `account.account-achievements.temper-completion-category.md`, `pageNameOf` answers the stem `account.account-achievements` while `stemOf` answers `account`.
 
+Three later file-walks each answered zero against this question — 0 of 60,909 tracked `.md` files, 0 of 59,063, and 0 tracked — and all three were wrong the same way: the 60 affected names are row-backed pages living in sidecars, which no walk over tracked files can reach. Agreement between three instruments sharing one blind spot is not corroboration; it is the same instrument run three times. The instrument was wrong, not merely narrow. Take this measurement from the rows, never from a walk over files.
+
 This is why folding must be done to the data rather than dropped outright, and why a name a file cannot hold wants a refusal rather than a silent rewrite.
