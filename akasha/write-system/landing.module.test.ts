@@ -93,6 +93,11 @@ function said(one: Landing | Refusal): string {
   return refused(one) ? one.refused : ""
 }
 
+function text(bytes: Uint8Array | null): string {
+  if (bytes === null) throw new Error("nothing was there to read")
+  return Buffer.from(bytes).toString("utf8")
+}
+
 function judging(named: readonly string[], over: (leaving: Leaving) => readonly Judged[]) {
   return { named, over }
 }
@@ -314,10 +319,12 @@ test("a check refusing the change lands nothing, and the refusal is an answer no
     expect(stood.wrote).toEqual([])
   }))
 
-test("what a check is shown is the tree the change would leave, not the one on disk", () =>
+test("what a check is shown is the bytes the change would leave, not the tree on disk", () =>
   inTree((stood) => {
     const at = `${stood.root}/leaf.thing.ts`
     const gone = `${stood.root}/whole.thing.ts`
+    const raw = Buffer.from([0xff, 0xfe, 0x00, 0x01, 0x80, 0x41])
+    writeFileSync(`${stood.root}/icon.bin`, raw)
     ready(stood, at)
     const one = must(authoring(at, "what it becomes", stood.held))
     let seen: Leaving | null = null
@@ -328,9 +335,10 @@ test("what a check is shown is the tree the change would leave, not the one on d
     land([one, takingAway(gone, stood.held)], { ...stood.held, judge })
     const held = seen as Leaving | null
     if (held === null) throw new Error("the checks were never consulted")
-    expect(held.at(at)).toBe("what it becomes")
+    expect(text(held.at(at))).toBe("what it becomes")
     expect(held.at(gone)).toBe(null)
-    expect(held.at(`${stood.root}/page.page-type.ts`)).toContain("slug")
+    expect(text(held.at(`${stood.root}/page.page-type.ts`))).toContain("slug")
+    expect(Buffer.from(held.at(`${stood.root}/icon.bin`) ?? [])).toEqual(raw)
     expect(held.changed).toEqual([at, gone].sort())
     expect(held.root).toBe(stood.root)
   }))

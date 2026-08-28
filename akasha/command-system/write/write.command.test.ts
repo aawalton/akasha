@@ -116,7 +116,18 @@ test("a write with both obligations discharged lands the whole body", () =>
     expect(said(answer)).toContain("1 change(s) landed together")
   }))
 
-test("a path that stands nowhere is created rather than refused as a write", () =>
+test("a write nothing judged says so, so an ungated door cannot look like a gated one", () =>
+  inTree((stood) => {
+    const path = `${stood.root}/leaf.thing.ts`
+    readEverything(stood, path)
+    const at = bodyAt(stood, "new-body.txt", "the new body")
+    const answer = write(["--file-path", "leaf.thing.ts", "--content-file", at], stood.given)
+    expect(answer.code).toBe(0)
+    expect(said(answer)).toContain("no checks were consulted")
+    expect(said(answer)).not.toContain("check(s) consulted:")
+  }))
+
+test("a path with nothing on it is created rather than refused as a write", () =>
   inTree((stood) => {
     readEverything(stood, `${stood.root}/leaf.thing.ts`)
     const at = bodyAt(stood, "new-body.txt", "made here")

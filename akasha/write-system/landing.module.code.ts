@@ -41,7 +41,7 @@ export type Judged = {
 export type Leaving = {
   readonly root: string
   readonly changed: readonly string[]
-  readonly at: (path: string) => string | null
+  readonly at: (path: string) => Uint8Array | null
 }
 
 export type Judging = {
@@ -181,19 +181,18 @@ export function takingAway(path: string, held: Held): Removal {
 }
 
 export function leavingOf(all: readonly Change[], root: string): Leaving {
-  const asked = new Map<string, string | null>()
-  for (const one of all) asked.set(one.path, one.kind === "remove" ? null : one.body)
+  const asked = new Map<string, Uint8Array | null>()
+  for (const one of all) {
+    asked.set(one.path, one.kind === "remove" ? null : Buffer.from(one.body, "utf8"))
+  }
   return {
     root,
     changed: [...asked.keys()].sort(),
     at: (path) => {
       const now = asked.get(path)
       if (now !== undefined) return now
-      try {
-        return readFileSync(path, "utf8")
-      } catch {
-        return null
-      }
+      if (!existsSync(path)) return null
+      return readFileSync(path)
     },
   }
 }
