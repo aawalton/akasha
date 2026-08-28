@@ -31,6 +31,13 @@ export interface Anchor {
 export function anchorIndex(named: string): Anchor {
   const root = realpathSync(mkdtempSync(`${tmpdir()}/${named}-index-`))
   Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: root })
+  // `AKASHA_ROOT` IS PUT BACK ON DISCARD, being the one variable every root is read through. It was
+  // set and left, and `bun test` runs every file in one process, so every later file in the batch
+  // resolved akasha to this anchor — a directory `discard` had already removed — and failed on a
+  // root that is not cloned. Nothing showed it while the file that would have caught it could not
+  // run. Restoring it does not move `indexRoot`, which settled on the first ask and stays there, so
+  // no later write reaches the live index on account of this either.
+  const priorRoot = process.env.AKASHA_ROOT
   process.env.AKASHA_ROOT = root
   const stands = indexRoot()
   const won = stands === root || stands.startsWith(`${root}/`)
@@ -44,6 +51,10 @@ export function anchorIndex(named: string): Anchor {
       }
       keepPages(rows)
     },
-    discard: (): void => rmSync(root, { recursive: true, force: true }),
+    discard: (): void => {
+      if (priorRoot === undefined) delete process.env.AKASHA_ROOT
+      else process.env.AKASHA_ROOT = priorRoot
+      rmSync(root, { recursive: true, force: true })
+    },
   }
 }
