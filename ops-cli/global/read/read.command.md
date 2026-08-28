@@ -15,14 +15,14 @@ required-reading-slugs:
 
 # Design
 
-A read returns the whole file where the agent asks for it or nothing says what it last saw.
-
 A read of a body that is not UTF-8 text, or of a generated file, returns what it is instead of the body and records it read whole.
 
 A read takes no line range.
 
 A read too big for one answer returns fewer files and how to ask for the rest.
 
-A body past what one answer holds returns what it is, and records nothing.
-
 What a path warrants is worked out by the code that refuses the write.
+
+A read runs akasha's reader a second time and records where the two disagree.
+
+The second reader changes neither the answer nor whether the read succeeds.
