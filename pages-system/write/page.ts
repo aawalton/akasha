@@ -117,6 +117,8 @@ const settingIn = (writing: Writing): Map<string, Setting> | Front => {
 export const pageWith = (writing: Writing): Front => {
   const setting = settingIn(writing)
   if (!(setting instanceof Map)) return setting
+  const pageType = typeFor(writing)
+  if (typeof pageType !== "string") return pageType
   const id = idFor(writing)
   if (typeof id !== "string") return id
   const seq = seqFor(writing.standing)
