@@ -18,8 +18,6 @@ const BUFFER_CEILING = 64 * 1024 * 1024
 export type Patch = {
   readonly root: string
   readonly file: string
-  readonly writer: string | null
-  readonly mechanical: boolean
   readonly goneElsewhere: readonly string[]
   readonly repointedElsewhere: ReadonlyMap<string, string>
 }
@@ -52,10 +50,6 @@ export function changedBy(patch: Patch, index: string, base: string): readonly s
   git(patch, index, ["read-tree", base])
   git(patch, index, ["apply", "--cached", patch.file])
   return named(patch, index, base, "AM")
-}
-
-export function applying(checks: readonly Check[], mechanical: boolean): readonly Check[] {
-  return mechanical ? checks.filter((one) => one.needsAuthor !== true) : checks
 }
 
 export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {
@@ -97,9 +91,8 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     const oids = oidsUnder(patch.root, null)
     const ctx = contextOver(patch.root, RUNTIME_MARK, oids)
     const before = onDisk(patch.root)
-    const act = patch.mechanical ? null : { writer: patch.writer, before }
-    const runs = applying(checks, patch.mechanical).map((check) =>
-      runKept(check, subjects, RUNTIME_MARK, answers, tree, { act, before, trial: true, oids, ctx })
+    const runs = checks.map((check) =>
+      runKept(check, subjects, RUNTIME_MARK, answers, tree, { before, trial: true, oids, ctx })
     )
     ctx.said.done()
     return runs

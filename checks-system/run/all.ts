@@ -1,14 +1,6 @@
-import type { Act, Check, CheckFailure, CheckRun, Tree, Was } from "../check/check-shape.ts"
-
-const NO_ACT = "judges its author, so nothing it asks has an answer where no act is being judged"
-
-function acting(check: Check, act: Act | null): Act {
-  if (act === null) throw new Error(`${check.slug} ${NO_ACT}`)
-  return act
-}
+import type { Check, CheckFailure, CheckRun, Tree, Was } from "../check/check-shape.ts"
 
 export type Held = {
-  readonly act: Act | null
   readonly before: Tree | null
   readonly keep: () => string
 }
@@ -23,10 +15,8 @@ function failuresOf(
   tree: Tree,
   held: Held
 ): readonly CheckFailure[] {
-  const act = held.act
   if (check.needs === "tree") {
     const given = { root: tree.root, paths, tree, keep: held.keep }
-    if (check.needsAuthor === true) return check.run(given, acting(check, act))
     if (check.needsBefore === true) return check.run(given, wasOf(held))
     return check.run(given)
   }
@@ -34,24 +24,14 @@ function failuresOf(
   for (const path of paths) {
     const at = { root: tree.root, path }
     if (check.needs === "path") {
-      const said =
-        check.needsAuthor === true
-          ? check.run(at, acting(check, act))
-          : check.needsBefore === true
-            ? check.run(at, wasOf(held))
-            : check.run(at)
+      const said = check.needsBefore === true ? check.run(at, wasOf(held)) : check.run(at)
       for (const reason of said) failures.push({ path, reason })
       continue
     }
     const body = tree.at(path)
     if (body === null) continue
     const file = { root: tree.root, path, body }
-    const said =
-      check.needsAuthor === true
-        ? check.run(file, acting(check, act))
-        : check.needsBefore === true
-          ? check.run(file, wasOf(held))
-          : check.run(file)
+    const said = check.needsBefore === true ? check.run(file, wasOf(held)) : check.run(file)
     for (const reason of said) failures.push({ path, reason })
   }
   return failures

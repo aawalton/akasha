@@ -12,7 +12,7 @@ import {
 } from "../../cache/outcome/outcome.ts"
 import { KEEP_KIND, keepUnder } from "../../cache/keep/keep.ts"
 import { oidOfBody } from "../../repo/oid/oid.ts"
-import type { Act, Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
+import type { Check, CheckFailure, CheckRun, Tree } from "../check/check-shape.ts"
 import { type Held, runAll } from "./all.ts"
 import { outcomesOf } from "./outcome.ts"
 
@@ -22,7 +22,6 @@ export type Subject = {
 }
 
 export type Setting = {
-  readonly act: Act | null
   readonly before: Tree | null
   readonly trial: boolean
   readonly oids: ReadonlyMap<string, string>
@@ -30,7 +29,7 @@ export type Setting = {
 }
 
 function uncached(check: Check): boolean {
-  return check.needs === "tree" || check.needsAuthor === true || check.cached === false
+  return check.needs === "tree" || check.cached === false
 }
 
 function under(check: Check, tree: Tree, subject: Subject): string {
@@ -57,7 +56,7 @@ export function runKept(
   sweep(answers, OUTCOME_KIND, check.slug, mark)
   sweep(answers, KEEP_KIND, check.slug, mark)
   const kept = keepUnder(answers, check.slug, mark, setting.trial)
-  const held: Held = { act: setting.act, before: setting.before, keep: kept.keep }
+  const held: Held = { before: setting.before, keep: kept.keep }
   try {
     if (uncached(check)) {
       const every = subjects.map((one) => one.at)

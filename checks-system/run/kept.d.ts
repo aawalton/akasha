@@ -1,11 +1,10 @@
 import type { BuildContext } from "../../graph/build-context/build-context.ts";
-import type { Act, Check, CheckRun, Tree } from "../check/check-shape.ts";
+import type { Check, CheckRun, Tree } from "../check/check-shape.ts";
 export type Subject = {
     readonly at: string;
     readonly oid: string;
 };
 export type Setting = {
-    readonly act: Act | null;
     readonly before: Tree | null;
     readonly trial: boolean;
     readonly oids: ReadonlyMap<string, string>;

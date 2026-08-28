@@ -1,9 +1,8 @@
 import { execFileSync } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { writerId } from "../agent/writer.ts"
 import { checksOnPatch } from "../checks-system/checks.ts"
-import { applying, runGate } from "../checks-system/run/gate.ts"
+import { runGate } from "../checks-system/run/gate.ts"
 import { akashaRoot } from "../repo/roots/roots.ts"
 
 export const HERE = realpathSync(akashaRoot())
@@ -94,7 +93,6 @@ export function patchText(
 
 function refusalsOver(
   patch: string,
-  mechanical: boolean,
   root: string,
   goneElsewhere: readonly string[],
   repointedElsewhere: ReadonlyMap<string, string>
@@ -104,14 +102,7 @@ function refusalsOver(
   try {
     writeFileSync(file, patch)
     const said: string[] = []
-    const asked = {
-      root,
-      file,
-      writer: writerId(),
-      mechanical,
-      goneElsewhere,
-      repointedElsewhere,
-    }
+    const asked = { root, file, goneElsewhere, repointedElsewhere }
     for (const ran of runGate(checksOnPatch(), asked)) {
       if ("threw" in ran) {
         said.push(`${ran.slug} threw: ${ran.threw}`)
@@ -127,7 +118,6 @@ function refusalsOver(
 
 export function gateOrRefuse(
   patch: string,
-  mechanical: boolean,
   changed: number,
   root: string = HERE,
   goneElsewhere: readonly string[] = [],
@@ -137,12 +127,12 @@ export function gateOrRefuse(
     process.stderr.write("gate: no line differs from what stands, so no check had anything to judge\n")
     return
   }
-  const refused = refusalsOver(patch, mechanical, root, goneElsewhere, repointedElsewhere)
+  const refused = refusalsOver(patch, root, goneElsewhere, repointedElsewhere)
   if (refused.length > 0) {
     process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
     process.exit(1)
   }
   process.stderr.write(
-    `gate: ${applying(checksOnPatch(), mechanical).length} akasha check(s) over ${changed} changed file(s), none refused\n`
+    `gate: ${checksOnPatch().length} akasha check(s) over ${changed} changed file(s), none refused\n`
   )
 }

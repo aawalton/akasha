@@ -9,10 +9,6 @@ import { onDisk } from "./tree.ts"
 import { forgetRetired, runKept, type Subject } from "./kept.ts"
 import { checksFound } from "../checks.ts"
 
-export function judgesAuthor(check: Check): boolean {
-  return check.needsAuthor === true
-}
-
 export function runAudit(checks: readonly Check[], root: string): readonly CheckRun[] {
   return duringOneCall(() => auditRun(checks, root))
 }
@@ -29,17 +25,9 @@ function auditRun(checks: readonly Check[], root: string): readonly CheckRun[] {
   }
   const answers = answersAt(root)
   forgetRetired(answers, checksFound(root))
-  const runs = checks
-    .filter((one) => !judgesAuthor(one))
-    .map((check) =>
-      runKept(check, subjects, RUNTIME_MARK, answers, tree, {
-        act: null,
-        before: null,
-        trial: false,
-        oids,
-        ctx,
-      })
-    )
+  const runs = checks.map((check) =>
+    runKept(check, subjects, RUNTIME_MARK, answers, tree, { before: null, trial: false, oids, ctx })
+  )
   ctx.said.done()
   return runs
 }

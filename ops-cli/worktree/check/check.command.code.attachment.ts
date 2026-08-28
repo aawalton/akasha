@@ -51,9 +51,9 @@ function runInTree(tree: Tree): number {
   const root = JSON.stringify(tree.at)
   const script =
     `const { checksOnWorktree } = await import(${JSON.stringify(`${tree.at}/checks-system/checks.ts`)})\n` +
-    `const { runAudit, judgesAuthor } = await import(${JSON.stringify(`${tree.at}/checks-system/run/audit.ts`)})\n` +
+    `const { runAudit } = await import(${JSON.stringify(`${tree.at}/checks-system/run/audit.ts`)})\n` +
     `const root = ${root}\n` +
-    "const wanted = checksOnWorktree(root).filter((one) => !judgesAuthor(one))\n" +
+    "const wanted = checksOnWorktree(root)\n" +
     "let found = 0\n" +
     "for (const run of runAudit(wanted, root)) {\n" +
     "  if ('threw' in run) { console.log(run.slug + '  threw  ' + run.threw); found += 1; continue }\n" +

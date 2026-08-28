@@ -29,11 +29,6 @@ export type Batch = {
   readonly keep: () => string
 }
 
-export type Act = {
-  readonly writer: string | null
-  readonly before: Tree
-}
-
 export type Was = {
   readonly before: Tree | null
 }
@@ -56,7 +51,6 @@ type CheckOf<K extends Needs> =
   | {
       readonly slug: string
       readonly needs: K
-      readonly needsAuthor?: false
       readonly needsBefore?: false
       readonly cached?: boolean
       readonly run: (given: Given[K]) => Answer[K]
@@ -64,15 +58,6 @@ type CheckOf<K extends Needs> =
   | {
       readonly slug: string
       readonly needs: K
-      readonly needsAuthor: true
-      readonly needsBefore?: false
-      readonly cached?: boolean
-      readonly run: (given: Given[K], act: Act) => Answer[K]
-    }
-  | {
-      readonly slug: string
-      readonly needs: K
-      readonly needsAuthor?: false
       readonly needsBefore: true
       readonly cached?: boolean
       readonly run: (given: Given[K], was: Was) => Answer[K]

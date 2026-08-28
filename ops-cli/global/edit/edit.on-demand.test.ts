@@ -81,9 +81,10 @@ describe("what akasha's checks make of a substitution landing here", () => {
     expect(ran.code).toBe(1)
   })
 
-  test("`--mechanical` drops the gates judging the writer and none of those judging the text", () => {
+  test("`--mechanical` drops the judgment of the writer and none of those judging the text", () => {
     const ran = editing(`const broken: number = "text"\n\n${ANCHOR}`)
-    expect(ran.said).not.toContain("read-before-write")
+    expect(ran.said).not.toContain("You have not read")
+    expect(ran.said).not.toContain("Nothing records what")
     expect(ran.said).toContain("typecheck")
   })
 
