@@ -11,6 +11,8 @@ export const writeSystem = {
     "landing",
     "relation-resolves",
     "witness-not-asserted",
+    "required-reading",
+    "difference",
   ],
   design: [
     "The index is written where the bodies are, so it is kept by the same guarantee that keeps the reading gate.",

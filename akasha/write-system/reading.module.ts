@@ -11,6 +11,7 @@ export const reading = {
     "akasha-text",
   ],
   design: [
+    "The body a read recorded is kept beside its oid, so what moved is answered here rather than asked of git.",
     "A body's identity is the oid git would give it, computed here rather than asked of git, which stands outside akasha.",
   ],
 } as const satisfies Module

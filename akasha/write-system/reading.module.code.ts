@@ -8,9 +8,12 @@ export type Reading = {
   readonly seenAt: number
 }
 
+export const BODY_CEILING = 32_768
+
 export type Record_ = {
   readonly of: (path: string) => Reading | null
-  readonly keep: (path: string, oid: Oid, seenAt: number) => void
+  readonly bodyOf: (path: string) => string | null
+  readonly keep: (path: string, oid: Oid, seenAt: number, body?: string) => void
   readonly flush: () => void
 }
 
@@ -22,7 +25,7 @@ export function oidOf(body: string): Oid {
     .digest("hex")
 }
 
-type Held = Record<string, { oid: string; seenAt: number }>
+type Held = Record<string, { oid: string; seenAt: number; body?: string }>
 
 export function recordAt(path: string): Record_ {
   let held: Held = {}
@@ -33,14 +36,19 @@ export function recordAt(path: string): Record_ {
       held = {}
     }
   }
-  const pending = new Map<string, { oid: string; seenAt: number }>()
+  const pending = new Map<string, { oid: string; seenAt: number; body?: string }>()
   return {
     of: (at) => {
       const one = pending.get(at) ?? held[at]
       return one === undefined ? null : { oid: one.oid, seenAt: one.seenAt }
     },
-    keep: (at, oid, seenAt) => {
-      pending.set(at, { oid, seenAt })
+    bodyOf: (at) => {
+      const one = pending.get(at) ?? held[at]
+      return one?.body ?? null
+    },
+    keep: (at, oid, seenAt, body) => {
+      const kept = body !== undefined && body.length <= BODY_CEILING ? { oid, seenAt, body } : { oid, seenAt }
+      pending.set(at, kept)
     },
     flush: () => {
       if (pending.size === 0) return

@@ -158,7 +158,7 @@ export function land(all: readonly Change[], held: Held): readonly string[] {
       }
     }
     writeFileSync(one.path, one.body)
-    held.record.keep(one.path, oidOf(one.body), Date.now())
+    held.record.keep(one.path, oidOf(one.body), Date.now(), one.body)
     held.index.wrote(one.path, one.body)
     done.push(one.path)
   }
