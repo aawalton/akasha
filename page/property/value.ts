@@ -239,7 +239,8 @@ function armRule(
     if (rule === null) return { rule: null, why }
     return { rule: wrap(rule, bounded[2] === undefined ? Number.POSITIVE_INFINITY : Number(bounded[2])), why: null }
   }
-  const fields = vocabulary.records?.get(one)
+  const { records, sets } = vocabulary
+  const fields = records === null ? undefined : records.get(one)
   if (fields !== undefined) {
     if (seen.has(one)) return { rule: null, why: `\`${one}\` is built from itself` }
     return recordRule(one, fields, (field) => {
@@ -249,7 +250,7 @@ function armRule(
       return bounds === null ? { rule: null, why: bounded } : { rule: narrowed(rule, bounds), why: null }
     })
   }
-  const set = vocabulary.sets?.get(one)
+  const set = sets === null ? undefined : sets.get(one)
   if (set !== undefined) {
     if (seen.has(one)) return { rule: null, why: `\`${one}\` is built from itself` }
     const { rule, why } = armRule(set.of, vocabulary, new Set([...seen, one]))
@@ -258,8 +259,13 @@ function armRule(
     return bounds === null ? { rule: null, why: bounded } : { rule: narrowed(rule, bounds), why: null }
   }
   const rule = RULES.get(one)
-  if (rule === undefined) return { rule: null, why: `\`${one}\` is a type this states no rule for` }
-  return { rule, why: null }
+  if (rule !== undefined) return { rule, why: null }
+  // A NAME THIS REACHES THE END WITH IS TWO DIFFERENT ANSWERS. Where `records` and `sets` are null
+  // nothing above ever looked, so saying the vocabulary states no rule for it reports a lookup that
+  // never happened — which is how a vocabulary armed as nothing stayed invisible. Hand back what
+  // stopped the read, and leave the flat claim to a vocabulary that was read.
+  if (records === null || sets === null) return { rule: null, why: vocabulary.why }
+  return { rule: null, why: `\`${one}\` is a type this states no rule for` }
 }
 
 export function ruleFor(

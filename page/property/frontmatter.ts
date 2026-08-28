@@ -39,23 +39,25 @@ function reposRead(tree: FileTree): readonly string[] {
 export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabulary {
   const naming = types.find((one) => one.slug === TYPE_VOCABULARY)
   if (naming === undefined)
-    return { names: null, why: `no page type named \`${TYPE_VOCABULARY}\` stands here, so nothing names the types` }
+    return { names: null, records: null, sets: null, why: `no page type named \`${TYPE_VOCABULARY}\` stands here, so nothing names the types` }
   const claimedBy = reposOf(naming)
   if (claimedBy.length === 0)
-    return { names: null, why: `\`${TYPE_VOCABULARY}\` claims no files, so nothing names the types` }
+    return { names: null, records: null, sets: null, why: `\`${TYPE_VOCABULARY}\` claims no files, so nothing names the types` }
   const read = reposRead(tree)
   const unread = claimedBy.filter((one) => !read.includes(one))
   if (unread.length === claimedBy.length) {
     const here = read.length === 0 ? "no repository stands here" : `this reads \`${read.join("` and `")}\``
     return {
       names: null,
+      records: null,
+      sets: null,
       why: `\`${TYPE_VOCABULARY}\` claims its files in \`${unread.join("` and `")}\`, which nothing here reads — ${here}`,
     }
   }
   const place = placeOf(naming.slug)
   const { standing, types: stated } = propertyTypesOf(tree)
   if (standing.length === 0)
-    return { names: null, why: `\`${TYPE_VOCABULARY}\` claims \`${place}\` and nothing stands there` }
+    return { names: null, records: null, sets: null, why: `\`${TYPE_VOCABULARY}\` claims \`${place}\` and nothing stands there` }
   const named = new Map<string, string>()
   const kinds = new Map<string, string>()
   const sets = new Map<string, NamedSet>()
@@ -72,11 +74,15 @@ export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabu
   if (twice.length > 0)
     return {
       names: null,
+      records: null,
+      sets: null,
       why: `two pages state one \`${TYPE_SLUG}:\`, so a name resolves to neither — ${twice.join("; ")}`,
     }
   if (named.size === 0)
     return {
       names: null,
+      records: null,
+      sets: null,
       why: `nothing at \`${place}\` states a \`${TYPE_SLUG}:\`, which is where a type's own name is written`,
     }
   return { names: new Set(named.keys()), records: recordsFor(declarationsOf(tree).bySlug, kinds), sets, why: null }
@@ -91,15 +97,15 @@ interface VocabularyData {
 
 const asData = (one: Vocabulary): VocabularyData => ({
   names: one.names === null ? null : [...one.names],
-  records: one.records === undefined ? null : [...one.records],
-  sets: one.sets === undefined ? null : [...one.sets],
+  records: one.records === null ? null : [...one.records],
+  sets: one.sets === null ? null : [...one.sets],
   why: one.why,
 })
 
 const fromData = (one: VocabularyData): Vocabulary => ({
   names: one.names === null ? null : new Set(one.names),
-  records: one.records === null ? undefined : new Map(one.records),
-  sets: one.sets === null ? undefined : new Map(one.sets),
+  records: one.records === null ? null : new Map(one.records),
+  sets: one.sets === null ? null : new Map(one.sets),
   why: one.why,
 })
 
