@@ -281,7 +281,7 @@ function readMemory(agent: string, relPath: string): void {
   at.plantReading(agent, `${at.memory}/${relPath}`)
 }
 
-const INITIATIVE_AT = "pages/initiative/athena-consistent-seats.md"
+const INITIATIVE_AT = "pages/initiative/athena-consistent-seats.initiative.md"
 
 function plantInitiativePages(): void {
   plantSeatPages()
