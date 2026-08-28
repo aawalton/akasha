@@ -207,6 +207,7 @@ describe("a file where the function is itself declared", () => {
     refusalsBound(view).messages.filter((said) => said.includes(relPath))
 
   test("a call beside the definition is read, the definition licensing its own occurrence and nothing else", () => {
+    ownWords()
     put("pages/refusal/slug-stem.refusal.md", document(["path"]))
     put(
       "tools/gates/slug-stem.ts",
@@ -216,6 +217,7 @@ describe("a file where the function is itself declared", () => {
   })
 
   test("a declaration is no call, a type declaration standing for the function rather than reaching it", () => {
+    ownWords()
     put("pages/refusal/slug-stem.refusal.md", document(["path"]))
     put(
       "tools/gates/slug-stem.d.ts",
