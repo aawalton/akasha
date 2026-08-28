@@ -3,7 +3,7 @@ id: 249ee6a4-0bd8-5026-a0c2-3d5e6e5267db
 slug: headless-boot-dies-on-expired-refresh
 page-type-slug: finding
 title: "Headless boot dies on expired refresh"
-domain-slug: domain/999
+domain-slug: cluster-service/auth-proxy
 ---
 
 # Claim
