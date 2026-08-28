@@ -12,8 +12,18 @@ const NAME = "pages-hold-shape"
 const UNIT = "claimed page(s)"
 const SHOWN = 12
 
-function first(lines: readonly string[]): readonly string[] {
-  return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more`] : lines
+/**
+ * The first few of one list, saying what the rest were.
+ *
+ * A TRUNCATION NOTICE NAMES ITS OWN LIST. This emitted a bare "… and N more", and a check that
+ * shows two lists in one report emitted two of them, so a reader met two unlabelled tails and
+ * could not tell which belonged to what. Worse, the summary above counts pages while a refusal
+ * list counts lines — several per page — so the two numbers are true of one run and cannot be
+ * reconciled. A seat read 373 failures off such a pair on 2026-08-27 and dispatched an agent
+ * against them; the real figure was 3.
+ */
+function first(lines: readonly string[], noun: string): readonly string[] {
+  return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
 
 export function claimedPages(types: readonly PageType[], repo: string, root: string): readonly string[] {
@@ -90,7 +100,7 @@ export const pagesHoldShape: Check = (repo) => {
   const apart = unjudgeable.length === 0 ? "" : `; ${unjudgeable.length} claimed but not judged`
 
   return {
-    ...advise(NAME, `${outside}, against ${registry}${apart}`, [...first(unjudgeable), ...first(refusals)]),
+    ...advise(NAME, `${outside}, against ${registry}${apart}`, [...first(unjudgeable, "claimed but not judged"), ...first(refusals, "refusal line(s)")]),
     population: over(pages.length, UNIT),
   }
 }

@@ -40,8 +40,18 @@ export interface Bindings {
   readonly why: string | null
 }
 
-function first(lines: readonly string[]): readonly string[] {
-  return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more`] : lines
+/**
+ * The first few of one list, saying what the rest were.
+ *
+ * A TRUNCATION NOTICE NAMES ITS OWN LIST. This emitted a bare "… and N more", and a check that
+ * shows two lists in one report emitted two of them, so a reader met two unlabelled tails and
+ * could not tell which belonged to what. Worse, the summary above counts pages while a refusal
+ * list counts lines — several per page — so the two numbers are true of one run and cannot be
+ * reconciled. A seat read 373 failures off such a pair on 2026-08-27 and dispatched an agent
+ * against them; the real figure was 3.
+ */
+function first(lines: readonly string[], noun: string): readonly string[] {
+  return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
 
 function typed(tree: FileTree): { on: ReadonlyMap<string, string[]>; unread: readonly Unread[]; properties: number } {
@@ -176,8 +186,8 @@ export const propertyTypesBind: Check = (repo) => {
     `${undeclared.length} propert(ies) typed against a name \`${TYPE_VOCABULARY}\` declares nowhere — ` +
     `over ${properties} property definition(s), ${unread.length} of which state no type this could read`
 
-  const landable = [...bare, ...first(stateOne), ...first(unread.map((one) => `${one.relPath} — ${one.why}`))]
-  const blocked = first(stateTwo)
+  const landable = [...bare, ...first(stateOne, "typed against an undeclared name"), ...first(unread.map((one) => `${one.relPath} — ${one.why}`), "unreadable")]
+  const blocked = first(stateTwo, "name(s) binding no rule")
 
   return {
     ...(landable.length > 0
