@@ -1,16 +1,11 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { resolveRoots, rootEnvName, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"
 
-export type GatedRepo = "akasha" | "memory"
-
-const ROOT_ENV: Readonly<Record<GatedRepo, string>> = {
-  akasha: "AKASHA_ROOT",
-  memory: "MEMORY_ROOT",
-}
+export type GatedRepo = "akasha"
 
 export interface GatedBody {
   readonly relPath: string
@@ -45,7 +40,7 @@ function runTool(act: GatedAct, tool: string, args: readonly string[]): Run {
     AGENT_ID: act.writer,
     ACTING_AGENT_ID: "",
   }
-  if (act.root !== undefined) env[ROOT_ENV[act.repo]] = act.root
+  if (act.root !== undefined) env[rootEnvName(act.repo)] = act.root
   const dir = mkdtempSync(join(SCRATCH_ROOT, "gated-landing-run-"))
   const outPath = join(dir, "out.txt")
   try {
