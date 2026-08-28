@@ -1,5 +1,5 @@
-import { afterAll, describe, expect, mock, test } from "bun:test"
-import { makePagesAccessMock } from "@shared/pages-access/test-support"
+import { describe, expect, mock, test } from "bun:test"
+import { Page } from "@shared/pages-core/page-types"
 import {
   ACTIVE_KEY,
   buildLua,
@@ -16,162 +16,115 @@ type Call = { fn: string; args: unknown }
 
 const calls: Call[] = []
 
-const realPagesAccess = await import("@shared/pages-access")
-const realPage = realPagesAccess.Page
-const realCollectPages = realPagesAccess.collectPages
-const realGetPages = realPagesAccess.getPages
-const realPatchPageById = realPagesAccess.patchPageById
-const realSoftDeletePageById = realPagesAccess.softDeletePageById
-const realUpsertPage = realPagesAccess.upsertPage
+type Rows = ReadonlyArray<Record<string, unknown>>
 
-let currentCollectPages = realCollectPages
-let currentGetPages = realGetPages
-let currentPatchPageById = realPatchPageById
-let currentSoftDeletePageById = realSoftDeletePageById
-let currentUpsertPage = realUpsertPage
+let scriptedRows: ReadonlyArray<{ rows: Rows }> = []
+let scriptIndex = 0
 
-afterAll(() => {
-  currentCollectPages = realCollectPages
-  currentGetPages = realGetPages
-  currentPatchPageById = realPatchPageById
-  currentSoftDeletePageById = realSoftDeletePageById
-  currentUpsertPage = realUpsertPage
-})
+function nextRows(): Rows {
+  const entry = scriptedRows[scriptIndex] ?? { rows: [] }
+  scriptIndex++
+  return entry.rows
+}
 
-const pagesAccessMock = makePagesAccessMock({
-  Page: realPage,
-  collectPages: (...args: Parameters<typeof realCollectPages>) => currentCollectPages(...args),
-  getPages: (...args: Parameters<typeof realGetPages>) => currentGetPages(...args),
-  patchPageById: (...args: Parameters<typeof realPatchPageById>) => currentPatchPageById(...args),
-  softDeletePageById: (...args: Parameters<typeof realSoftDeletePageById>) =>
-    currentSoftDeletePageById(...args),
+function unreached(name: string): () => never {
+  return () => {
+    throw new Error(`import-tasks.unit.test: ${name} is not stubbed and must not be reached`)
+  }
+}
+
+mock.module("@shared/pages-access/get", () => ({
+  getPage: unreached("getPage"),
+  getPageByIdSuffix: unreached("getPageByIdSuffix"),
+  getPageByIdSuffixAcrossTypes: unreached("getPageByIdSuffixAcrossTypes"),
+  getPages: async (args: unknown) => {
+    calls.push({ fn: "getPages", args })
+    return { rows: nextRows().map((r) => Page(r)), nextCursor: null, count: null }
+  },
+  shapelessWhy: unreached("shapelessWhy"),
+  unfiledWhy: unreached("unfiledWhy"),
+}))
+
+mock.module("@shared/pages-access/iterate", () => ({
+  collectPages: async (args: unknown) => {
+    calls.push({ fn: "collectPages", args })
+    return nextRows().map((r) => Page(r))
+  },
+  streamPages: unreached("streamPages"),
+}))
+
+mock.module("@shared/pages-access/patch", () => ({
+  patchPage: unreached("patchPage"),
+  patchPageById: async (args: unknown) => {
+    calls.push({ fn: "patchPageById", args })
+    return Page({ id: "patched" })
+  },
+  patchPages: unreached("patchPages"),
+  recordPageView: unreached("recordPageView"),
+}))
+
+mock.module("@shared/pages-access/delete", () => ({
+  hardDeletePage: unreached("hardDeletePage"),
+  hardDeletePageById: unreached("hardDeletePageById"),
+  hardDeletePageByIds: unreached("hardDeletePageByIds"),
+  hardDeletePages: unreached("hardDeletePages"),
+  softDeletePage: unreached("softDeletePage"),
+  softDeletePageById: async (args: unknown) => {
+    calls.push({ fn: "softDeletePageById", args })
+    return Page({ id: "deleted" })
+  },
+  softDeletePages: unreached("softDeletePages"),
+  undeletePage: unreached("undeletePage"),
   undeletePageById: async (args: unknown) => {
     calls.push({ fn: "undeletePageById", args })
-    return realPage({ id: "undeleted" })
+    return Page({ id: "undeleted" })
   },
-})
+  undeletePages: unreached("undeletePages"),
+}))
 
-function resetState(): undefined {
-  calls.length = 0
-  currentPatchPageById = async (args) => {
-    calls.push({ fn: "patchPageById", args })
-    return realPage({ id: "patched" })
-  }
-  currentSoftDeletePageById = async (args) => {
-    calls.push({ fn: "softDeletePageById", args })
-    return realPage({ id: "deleted" })
-  }
-  currentUpsertPage = async (args) => {
+mock.module("@shared/pages-access/upsert", () => ({
+  bulkUpsertPages: unreached("bulkUpsertPages"),
+  upsertPage: async (args: unknown) => {
     calls.push({ fn: "upsertPage", args })
-    return realPage({ id: "upserted" })
-  }
-}
+    return Page({ id: "upserted" })
+  },
+  upsertPages: unreached("upsertPages"),
+}))
 
-resetState()
-
-function scriptPageReads(
-  scripted: ReadonlyArray<{ rows: ReadonlyArray<Record<string, unknown>> }>
-): undefined {
-  let i = 0
-  const nextRows = (): ReadonlyArray<Record<string, unknown>> => {
-    const entry = scripted[i] ?? { rows: [] }
-    i++
-    return entry.rows
-  }
-  currentCollectPages = async (args) => {
-    calls.push({ fn: "collectPages", args })
-    return nextRows().map((r) => realPage(r))
-  }
-  currentGetPages = async (args) => {
-    calls.push({ fn: "getPages", args })
-    return { rows: nextRows().map((r) => realPage(r)), nextCursor: null, count: null }
-  }
-}
-
-async function sweepDeletes(key: string, row: Record<string, unknown>): Promise<number> {
-  resetState()
-  scriptPageReads([{ rows: [row] }])
-  const run = await loadRunImportTasks(key)
-  await run(buildLua([]), fakeClient, { userId: USER_ID })
-  return calls.filter((c) => c.fn === "softDeletePageById").length
-}
-
-mock.module("@shared/pages-access", () => ({
-  applySelect: realPagesAccess.applySelect,
-  bulkUpsertPages: pagesAccessMock.bulkUpsertPages,
-  captureError: pagesAccessMock.captureError,
-  collectPages: (...args: Parameters<typeof realCollectPages>) => currentCollectPages(...args),
-  comparePageSeq: realPagesAccess.comparePageSeq,
-  completePage: pagesAccessMock.completePage,
-  createPage: realPagesAccess.createPage,
-  createPageIfAbsent: realPagesAccess.createPageIfAbsent,
-  createPageType: pagesAccessMock.createPageType,
-  DETAIL_CONFIG_KEY: realPagesAccess.DETAIL_CONFIG_KEY,
-  detailConfigFor: realPagesAccess.detailConfigFor,
-  extractRelationContainment: pagesAccessMock.extractRelationContainment,
-  flattenRow: realPagesAccess.flattenRow,
-  getDescendantPageTypeSlugs: pagesAccessMock.getDescendantPageTypeSlugs,
-  getDetailConfig: realPagesAccess.getDetailConfig,
-  getFileDetailConfig: realPagesAccess.getFileDetailConfig,
-  getMediaConfig: pagesAccessMock.getMediaConfig,
-  getOrderedChildren: pagesAccessMock.getOrderedChildren,
-  getOrderedNeighbors: pagesAccessMock.getOrderedNeighbors,
-  getPage: realPagesAccess.getPage,
-  getPageByIdSuffix: pagesAccessMock.getPageByIdSuffix,
-  getPageByIdSuffixAcrossTypes: pagesAccessMock.getPageByIdSuffixAcrossTypes,
-  getPageTypeByPluralSlug: pagesAccessMock.getPageTypeByPluralSlug,
-  getPageTypeBySlug: realPagesAccess.getPageTypeBySlug,
-  getPageTypeIdBySlug: realPagesAccess.getPageTypeIdBySlug,
-  getPageTypeIdsBySlugs: realPagesAccess.getPageTypeIdsBySlugs,
-  getPages: (...args: Parameters<typeof realGetPages>) => currentGetPages(...args),
-  getPagesByRelation: pagesAccessMock.getPagesByRelation,
-  getPagesForView: pagesAccessMock.getPagesForView,
-  getPropertyDefinitions: realPagesAccess.getPropertyDefinitions,
-  getSequenceConfig: realPagesAccess.getSequenceConfig,
-  hardDeletePage: realPagesAccess.hardDeletePage,
-  hardDeletePageById: pagesAccessMock.hardDeletePageById,
-  hardDeletePageByIds: pagesAccessMock.hardDeletePageByIds,
-  hardDeletePages: realPagesAccess.hardDeletePages,
-  isPromotedKey: realPagesAccess.isPromotedKey,
-  NEVER_MATCH_SLUG: pagesAccessMock.NEVER_MATCH_SLUG,
-  NEVER_MATCH_VALUE: pagesAccessMock.NEVER_MATCH_VALUE,
-  Page: realPage,
-  PageTypeSlug: realPagesAccess.PageTypeSlug,
-  PageTypesMissing: realPagesAccess.PageTypesMissing,
-  PageTypesUnread: realPagesAccess.PageTypesUnread,
-  PageWriteError: realPagesAccess.PageWriteError,
-  parsePageSeq: realPagesAccess.parsePageSeq,
-  patchPage: realPagesAccess.patchPage,
-  patchPageById: (...args: Parameters<typeof realPatchPageById>) => currentPatchPageById(...args),
-  patchPages: realPagesAccess.patchPages,
-  patchPageTypeById: pagesAccessMock.patchPageTypeById,
-  patchPropertyDefinitionById: pagesAccessMock.patchPropertyDefinitionById,
-  PROMOTED_COLUMN: realPagesAccess.PROMOTED_COLUMN,
-  PROMOTED_COLUMN_KEYS: realPagesAccess.PROMOTED_COLUMN_KEYS,
-  recordPageView: pagesAccessMock.recordPageView,
-  reschedulePage: pagesAccessMock.reschedulePage,
-  softDeletePage: realPagesAccess.softDeletePage,
-  softDeletePageById: (...args: Parameters<typeof realSoftDeletePageById>) =>
-    currentSoftDeletePageById(...args),
-  softDeletePages: realPagesAccess.softDeletePages,
-  streamPages: realPagesAccess.streamPages,
-  tryExtractIdEq: realPagesAccess.tryExtractIdEq,
-  uncompletePage: pagesAccessMock.uncompletePage,
-  undeletePage: pagesAccessMock.undeletePage,
-  undeletePageById: pagesAccessMock.undeletePageById,
-  undeletePages: pagesAccessMock.undeletePages,
-  upsertPage: (...args: Parameters<typeof realUpsertPage>) => currentUpsertPage(...args),
-  upsertPages: realPagesAccess.upsertPages,
+mock.module("@shared/pages-query", () => ({
+  ASK_CEILING_MS: realPagesQuery.ASK_CEILING_MS,
+  askNamed: realPagesQuery.askNamed,
+  askTaking: realPagesQuery.askTaking,
+  PAGE_QUERY_BROWSER_PREFIX: realPagesQuery.PAGE_QUERY_BROWSER_PREFIX,
+  PAGE_QUERY_ORIGIN: realPagesQuery.PAGE_QUERY_ORIGIN,
+  pageQueryOrigin: realPagesQuery.pageQueryOrigin,
+  patchPage: async (pageType: string, name: string, values: unknown) => {
+    calls.push({ fn: "query.patchPage", args: { pageType, name, values } })
+    return { ok: true, at: `${pageType}/${name}` }
+  },
+  patchPageIfMatch: realPagesQuery.patchPageIfMatch,
+  patchRow: realPagesQuery.patchRow,
+  patchRows: realPagesQuery.patchRows,
+  patchState: realPagesQuery.patchState,
+  readFromPageQueryService: realPagesQuery.readFromPageQueryService,
+  refusalIn: realPagesQuery.refusalIn,
+  removePage: realPagesQuery.removePage,
+  removeRow: realPagesQuery.removeRow,
+  WRITE_CEILING_MS: realPagesQuery.WRITE_CEILING_MS,
+  writePage: realPagesQuery.writePage,
+  writeRow: async (pageType: string, parentName: string, values: unknown) => {
+    calls.push({ fn: "query.writeRow", args: { pageType, parentName, values } })
+    return { ok: true, at: `${pageType}/${parentName}` }
+  },
+  writeRows: realPagesQuery.writeRows,
 }))
 
 const realPagesQuery = await import("@shared/pages-query")
 
 mock.module("@shared/pages-query", () => ({
   ASK_CEILING_MS: realPagesQuery.ASK_CEILING_MS,
-  AnswerSchema: realPagesQuery.AnswerSchema,
   PAGE_QUERY_BROWSER_PREFIX: realPagesQuery.PAGE_QUERY_BROWSER_PREFIX,
   PAGE_QUERY_ORIGIN: realPagesQuery.PAGE_QUERY_ORIGIN,
-  WRITE_ATTEMPTS: realPagesQuery.WRITE_ATTEMPTS,
   WRITE_CEILING_MS: realPagesQuery.WRITE_CEILING_MS,
   askNamed: realPagesQuery.askNamed,
   askTaking: realPagesQuery.askTaking,
@@ -195,6 +148,23 @@ mock.module("@shared/pages-query", () => ({
   }),
   writeRows: realPagesQuery.writeRows,
 }))
+
+function resetState(): undefined {
+  calls.length = 0
+}
+
+function scriptPageReads(scripted: ReadonlyArray<{ rows: Rows }>): undefined {
+  scriptedRows = scripted
+  scriptIndex = 0
+}
+
+async function sweepDeletes(key: string, row: Record<string, unknown>): Promise<number> {
+  resetState()
+  scriptPageReads([{ rows: [row] }])
+  const run = await loadRunImportTasks(key)
+  await run(buildLua([]), fakeClient, { userId: USER_ID })
+  return calls.filter((c) => c.fn === "softDeletePageById").length
+}
 
 describe("runImportTasks → cross-character rollup with a live activeEntryKey never authorises a delete", () => {
   test("REGRESSION GUARD: maxed rollup (192/192) that still names an activeEntryKey must NOT be soft-deleted", async () => {
