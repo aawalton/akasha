@@ -1,10 +1,14 @@
-import { describe, expect, test } from "bun:test"
-import { mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, test } from "bun:test"
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readOwnTranscriptTail } from "../lib/agent-io-probe.ts"
 
 const dir = mkdtempSync(join("/var/tmp", "iop-"))
 const transcriptPath = join(dir, "session.jsonl")
+
+afterAll(() => {
+  rmSync(dir, { recursive: true, force: true })
+})
 
 const statedFor = (agentId: string) =>
   agentId === "missing" ? null : { value: transcriptPath }

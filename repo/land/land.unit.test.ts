@@ -1,11 +1,19 @@
-import { expect, test } from "bun:test"
-import { existsSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { removeOutside } from "./land.ts"
 
 const SCRATCH = "/var/tmp"
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function loosePath(): string {
-  return `${mkdtempSync(`${SCRATCH}/land-outside-`)}/gone.txt`
+  const dir = mkdtempSync(`${SCRATCH}/land-outside-`)
+  made.push(dir)
+  return `${dir}/gone.txt`
 }
 
 function said(run: () => void): string {
