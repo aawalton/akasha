@@ -135,7 +135,7 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
       `${path} does not exist — a body written over nothing is a creation, not a write`
     )
   }
-  const standing = oidOf(readFileSync(path, "utf8"))
+  const onDisk = oidOf(readFileSync(path, "utf8"))
   const reading = held.record.of(path)
   if (reading === null) {
     return refusal(
@@ -143,7 +143,7 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
         `  ${held.readAs} --file-path ${path}`
     )
   }
-  if (reading.oid !== standing) {
+  if (reading.oid !== onDisk) {
     return refusal(
       `${path} changed after you read it, so what you are overwriting is not what you saw.\n` +
         `  ${held.readAs} --file-path ${path}`
@@ -151,7 +151,7 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
   }
   const short = shortOf(path, held)
   if (short !== null) return short
-  return witnessWrite(path, standing, body, held)
+  return witnessWrite(path, onDisk, body, held)
 }
 
 export function creating(path: string, body: string, held: Held): Landing | Refusal {

@@ -176,7 +176,7 @@ test("a removal and a write in one call land together", () =>
     expect(said(answer)).toContain("2 change(s) landed together")
   }))
 
-test("taking away what does not stand is refused rather than done quietly", () =>
+test("taking away what is not there is refused rather than done quietly", () =>
   inTree((stood) => {
     const answer = write(["--remove", "nowhere.thing.ts"], stood.given)
     expect(answer.code).toBe(1)

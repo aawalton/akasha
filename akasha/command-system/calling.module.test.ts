@@ -82,7 +82,7 @@ test("everything akasha cannot reach for itself arrives in the one argument", ()
   }
 })
 
-test("a call naming no command is refused, and every command that stands is named", () => {
+test("a call naming no command is refused, and every command it carries is named", () => {
   const root = tree()
   try {
     withCommand(root, "echo", ECHOES)
@@ -97,7 +97,7 @@ test("a call naming no command is refused, and every command that stands is name
   }
 })
 
-test("a call naming no command akasha carries is refused, and says what does stand", () => {
+test("a call naming no command akasha carries is refused, and says what it does carry", () => {
   const root = tree()
   try {
     withCommand(root, "echo", ECHOES)
@@ -155,7 +155,7 @@ test("a command's code is the file beside its page, named for the page", () => {
   expect(codeBeside("/a/b/read.command.ts", "read")).toBe("/a/b/read.command.code.ts")
 })
 
-test("the commands that stand are the pages whose page type is a command", () => {
+test("the commands it carries are the pages whose page type is a command", () => {
   const root = tree()
   try {
     withCommand(root, "echo", ECHOES)

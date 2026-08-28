@@ -1,4 +1,4 @@
-import type { Corpus, Standing } from "./corpus.module.code.ts"
+import type { Corpus, Filed } from "./corpus.module.code.ts"
 
 const NOT_A_PROPERTY = new Set(["id", "slug", "pageTypeSlug"])
 
@@ -14,7 +14,7 @@ function namesIn(held: unknown): readonly string[] {
 
 export function relationRefusals(corpus: Corpus): readonly string[] {
   const said: string[] = []
-  const seen = (at: Standing, key: string, named: string, wanted: string): void => {
+  const seen = (at: Filed, key: string, named: string, wanted: string): void => {
     const what = corpus.resolve(named, wanted)
     if (what.kind === "one") return
     if (what.kind === "many") {

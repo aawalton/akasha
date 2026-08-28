@@ -1,8 +1,8 @@
+import { readdirSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { readFileSync, readdirSync } from "node:fs"
 import { oidOf } from "./reading.module.code.ts"
 
-export type Standing = {
+export type Filed = {
   readonly slug: string
   readonly pageTypeSlug: string
   readonly path: string
@@ -17,18 +17,18 @@ export type Edges = {
 }
 
 export type Source = {
-  readonly standing: readonly Standing[]
+  readonly filed: readonly Filed[]
   readonly edgesOf: (path: string) => Edges | null
   readonly parentOf: (path: string) => string | null
 }
 
 export type Resolution =
-  | { readonly kind: "one"; readonly at: Standing }
+  | { readonly kind: "one"; readonly at: Filed }
   | { readonly kind: "none" }
-  | { readonly kind: "many"; readonly among: readonly Standing[] }
+  | { readonly kind: "many"; readonly among: readonly Filed[] }
 
 export type Corpus = {
-  readonly at: (path: string) => Standing | null
+  readonly at: (path: string) => Filed | null
   readonly resolve: (slug: string, target: string | null) => Resolution
   readonly admits: (actual: string, wanted: string) => boolean
   readonly targetFor: (propertySlug: string) => string | null
@@ -39,7 +39,7 @@ export type Corpus = {
   readonly conditionalBelow: (path: string) => readonly string[]
   readonly definitionOf: (path: string) => string
   readonly valueOf: (path: string) => Record<string, unknown> | null
-  readonly every: () => readonly Standing[]
+  readonly every: () => readonly Filed[]
 }
 
 const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
@@ -79,10 +79,10 @@ function pageTypesAmong(paths: readonly string[]): ReadonlySet<string> {
   return found
 }
 
-export function standingIn(root: string): readonly Standing[] {
+export function filedIn(root: string): readonly Filed[] {
   const paths = filesUnder(root)
   const pageTypes = pageTypesAmong(paths)
-  const found: Standing[] = []
+  const found: Filed[] = []
   for (const path of paths) {
     const name = path.slice(path.lastIndexOf("/") + 1)
     const said = NAMED.exec(name)
@@ -104,7 +104,7 @@ function listOn(value: Record<string, unknown>, key: string): readonly string[] 
 
 const reach_ = createRequire(import.meta.url)
 
-function valueIn(at: Standing): Edges | null {
+function valueIn(at: Filed): Edges | null {
   const oid = oidOf(readFileSync(at.path, "utf8"))
   const mod = reach_(`${at.path}?oid=${oid}`) as Record<string, unknown>
   for (const held of Object.values(mod)) {
@@ -124,13 +124,13 @@ function valueIn(at: Standing): Edges | null {
 }
 
 type Reading = {
-  readonly bySlug: ReadonlyMap<string, readonly Standing[]>
+  readonly bySlug: ReadonlyMap<string, readonly Filed[]>
   readonly edgesOf: (path: string) => Edges | null
 }
 
-function readingOf(standing: readonly Standing[], edgesOf: (path: string) => Edges | null): Reading {
-  const bySlug = new Map<string, Standing[]>()
-  for (const one of standing) {
+function readingOf(filed: readonly Filed[], edgesOf: (path: string) => Edges | null): Reading {
+  const bySlug = new Map<string, Filed[]>()
+  for (const one of filed) {
     const held = bySlug.get(one.slug)
     if (held === undefined) bySlug.set(one.slug, [one])
     else held.push(one)
@@ -138,7 +138,7 @@ function readingOf(standing: readonly Standing[], edgesOf: (path: string) => Edg
   return { bySlug, edgesOf }
 }
 
-function pageTypePageIn(held: Reading, slug: string): Standing | null {
+function pageTypePageIn(held: Reading, slug: string): Filed | null {
   for (const one of held.bySlug.get(slug) ?? []) {
     if (one.pageTypeSlug === PAGE_TYPE) return one
   }
@@ -161,7 +161,8 @@ function admitsIn(held: Reading, actual: string, wanted: string): boolean {
 
 function resolveIn(held: Reading, slug: string, target: string | null): Resolution {
   const among = held.bySlug.get(slug) ?? []
-  const fit = target === null ? among : among.filter((one) => admitsIn(held, one.pageTypeSlug, target))
+  const fit =
+    target === null ? among : among.filter((one) => admitsIn(held, one.pageTypeSlug, target))
   const first = fit[0]
   if (first === undefined) return { kind: "none" }
   if (fit.length > 1) return { kind: "many", among: fit }
@@ -198,7 +199,7 @@ function targetsIn(held: Reading): ReadonlyMap<string, string> {
   return found
 }
 
-function said(from: Standing, key: string, slug: string, what: Resolution): string {
+function said(from: Filed, key: string, slug: string, what: Resolution): string {
   if (what.kind === "none") {
     return (
       `\`${from.slug}\` names \`${slug}\` under \`${key}\`, and no page carries that slug — ` +
@@ -206,7 +207,8 @@ function said(from: Standing, key: string, slug: string, what: Resolution): stri
       "refused here rather than dropped"
     )
   }
-  const among = what.kind === "many" ? what.among.map((one) => `\`${one.pageTypeSlug}\``).join(" and ") : ""
+  const among =
+    what.kind === "many" ? what.among.map((one) => `\`${one.pageTypeSlug}\``).join(" and ") : ""
   return (
     `\`${from.slug}\` names \`${slug}\` under \`${key}\`, and ${among} both carry that slug — ` +
     "a slug is unique among the pages of its page type, so this one is answered only where the " +
@@ -219,19 +221,19 @@ function targetUnder(targets: ReadonlyMap<string, string>, key: string): string 
 }
 
 export function readingEvery(root: string): Source {
-  const standing = standingIn(root)
+  const filed = filedIn(root)
   const loaded = new Map<string, Edges>()
-  for (const one of standing) {
+  for (const one of filed) {
     const edges = valueIn(one)
     if (edges !== null) loaded.set(one.path, edges)
   }
   const edgesOf = (path: string): Edges | null => loaded.get(path) ?? null
-  const held = readingOf(standing, edgesOf)
+  const held = readingOf(filed, edgesOf)
   const targets = targetsIn(held)
   const partTarget = targetUnder(targets, PART_SLUGS)
 
   const parent = new Map<string, string>()
-  for (const one of standing) {
+  for (const one of filed) {
     const edges = edgesOf(one.path)
     if (edges === null) continue
     for (const part of edges.partSlugs) {
@@ -247,16 +249,16 @@ export function readingEvery(root: string): Source {
       parent.set(what.at.path, one.path)
     }
   }
-  return { standing, edgesOf, parentOf: (path) => parent.get(path) ?? null }
+  return { filed, edgesOf, parentOf: (path) => parent.get(path) ?? null }
 }
 
 export function corpusOver(source: Source): Corpus {
-  const byPath = new Map<string, Standing>()
-  for (const one of source.standing) byPath.set(one.path, one)
-  const held = readingOf(source.standing, source.edgesOf)
+  const byPath = new Map<string, Filed>()
+  for (const one of source.filed) byPath.set(one.path, one)
+  const held = readingOf(source.filed, source.edgesOf)
   const targets = targetsIn(held)
 
-  for (const one of source.standing) {
+  for (const one of source.filed) {
     const edges = source.edgesOf(one.path)
     if (edges === null) continue
     for (const [key, named] of [
@@ -306,10 +308,14 @@ export function corpusOver(source: Source): Corpus {
     requiredBy: (path) =>
       pathsUnder(path, REQUIRED_READING_SLUGS, source.edgesOf(path)?.requiredReadingSlugs ?? []),
     conditionalBelow: (path) =>
-      pathsUnder(path, CONDITIONAL_READING_SLUGS, source.edgesOf(path)?.conditionalReadingSlugs ?? []),
+      pathsUnder(
+        path,
+        CONDITIONAL_READING_SLUGS,
+        source.edgesOf(path)?.conditionalReadingSlugs ?? []
+      ),
     definitionOf: (path) => source.edgesOf(path)?.definition ?? "",
     valueOf: (path) => source.edgesOf(path)?.raw ?? null,
-    every: () => source.standing,
+    every: () => source.filed,
   }
 }
 

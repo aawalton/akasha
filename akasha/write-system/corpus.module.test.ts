@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve as resolvePath } from "node:path"
-import type { Edges, Source, Standing } from "./corpus.module.code.ts"
-import { corpusIn, corpusOver, standingIn } from "./corpus.module.code.ts"
+import type { Edges, Filed, Source } from "./corpus.module.code.ts"
+import { corpusIn, corpusOver, filedIn } from "./corpus.module.code.ts"
 
 const AKASHA = resolvePath(import.meta.dir, "..")
 
@@ -275,7 +275,7 @@ test("a file whose suffix is no page type is not a page", () => {
         .every()
         .some((one) => one.slug === "corpus")
     ).toBe(false)
-    expect(standingIn(root).some((one) => one.path.endsWith("corpus.module.code.ts"))).toBe(false)
+    expect(filedIn(root).some((one) => one.path.endsWith("corpus.module.code.ts"))).toBe(false)
   } finally {
     away(root)
   }
@@ -296,7 +296,7 @@ test("a page rewritten on disk is read again rather than served from the module 
 })
 
 test("a corpus is built over a source that touches no filesystem", () => {
-  const standing: readonly Standing[] = [
+  const filed: readonly Filed[] = [
     { slug: "page", pageTypeSlug: "page-type", path: "/nowhere/page.page-type.ts" },
     { slug: "thing", pageTypeSlug: "page-type", path: "/nowhere/thing.page-type.ts" },
     { slug: "leaf", pageTypeSlug: "thing", path: "/nowhere/leaf.thing.ts" },
@@ -307,7 +307,7 @@ test("a corpus is built over a source that touches no filesystem", () => {
     "/nowhere/leaf.thing.ts": empty({ slug: "leaf", definition: "made of nothing on disk" }),
   }
   const source: Source = {
-    standing,
+    filed,
     edgesOf: (path) => edges[path] ?? null,
     parentOf: () => null,
   }
@@ -333,7 +333,7 @@ function definitionOn(raw: Record<string, unknown>): string {
   return typeof held === "string" ? held : ""
 }
 
-test("every page standing in akasha resolves, so the folder itself builds", () => {
+test("every page filed in akasha resolves, so the folder itself builds", () => {
   const corpus = corpusIn(AKASHA)
   expect(corpus.every().length).toBeGreaterThan(40)
   for (const one of corpus.every()) {
