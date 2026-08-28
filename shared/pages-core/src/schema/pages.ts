@@ -179,18 +179,41 @@ const propertyDefinitionLikeSchema = z
       def.title === "" ? Object.assign({}, def, { title: humanizeIdentifier(def.id) }) : def
   )
 
+/**
+ * EVERY OPTIONAL KEY HERE CARRIES `.catch(undefined)`, WITHOUT EXCEPTION, INCLUDING THE NEXT ONE
+ * ADDED. This is one object holding the page type property definitions and its config blobs
+ * together, and `parsePageTypeData` below answers any failed parse of the whole with
+ * `{ propertyDefinitions: [] }` — an empty list would read as a page type that declares nothing,
+ * when what happened was a typo in one unrelated key beside them. Every config sub-schema is
+ * `.strict()`, so a single unknown key under any of them failed the parse, and `sequence` and
+ * `mediaConfig` went unguarded and blanked every property on the type for all fourteen readers.
+ *
+ * The guard is not about presentation. Whether a key holds presentation metadata or, like
+ * `sequence`, a read-ordering declaration, it must not be able to answer for the property
+ * definitions standing beside it.
+ *
+ * WHAT IS CAUGHT IS STILL LOST QUIETLY: a malformed `sequence` reverts the type to default
+ * ordering with nothing said. That is the smaller wrong, and it is the only one available on a
+ * render path, but it is a wrong.
+ */
 export const pageTypeDataSchema = z
   .object({
     propertyDefinitions: z.array(propertyDefinitionLikeSchema).readonly(),
-    sequence: sequenceConfigSchema.optional(),
+    sequence: sequenceConfigSchema.optional().catch(undefined),
     listingConfig: listingConfigSchema.optional().catch(undefined),
     detailConfig: detailConfigSchema.optional().catch(undefined),
-    mediaConfig: mediaConfigSchema.optional(),
+    mediaConfig: mediaConfigSchema.optional().catch(undefined),
   })
   .passthrough()
 
 export type PageTypeDataJSON = z.infer<typeof pageTypeDataSchema>
 
+/**
+ * With every config key caught above, the one way left to reach this fallback is
+ * `propertyDefinitions` itself not being an array of things carrying an id, a type and a title —
+ * a blob that genuinely declares no property this code can read, rather than one whose properties
+ * were lost on the way past a neighbouring key.
+ */
 export function parsePageTypeData(raw: unknown): PageTypeDataJSON {
   const result = pageTypeDataSchema.safeParse(raw ?? {})
   return result.success ? result.data : { propertyDefinitions: [] }
