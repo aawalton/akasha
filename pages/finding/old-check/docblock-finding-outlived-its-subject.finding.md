@@ -8,7 +8,7 @@ domain-slug: domain/old-check
 
 # Claim
 
-Every part of the claim on `pages/finding/check/docblock-cites-a-distinction-that-is-elsewhere.finding.md` has stopped describing the world. The docblock it quotes is gone — `tools/checks/findings-sorted.ts` is now `tools/audits/findings-sorted.ts` and opens on its imports with no docblock at all. `domains/instructions-harness.md`, the document it says is cited, no longer exists. The phrase it says lives on `check` is no longer on that document, which now stands as `pages/domain/old-check.domain.md`.
+Every part of the claim on `pages/finding/old-check/docblock-cites-a-distinction-that-is-elsewhere.finding.md` has stopped describing the world. The docblock it quotes is gone — `tools/checks/findings-sorted.ts` is now `tools/audits/findings-sorted.ts` and opens on its imports with no docblock at all. `domains/instructions-harness.md`, the document it says is cited, no longer exists. The phrase it says lives on `check` is no longer on that document, which now stands as `pages/domain/old-check.domain.md`.
 
 # Evidence
 
