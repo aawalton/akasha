@@ -72,7 +72,7 @@ parent-slug: astra-pages-system
 
 - 2,176 pages hold no slug because they sit inside a pre-existing name-collision group — 2,012 `persona-day`, 95 `idle-persona-card`, 66 `finding`, 2 `persona-craft-day`, 1 `story-chapter-royal-road`, across 157 groups. They wait on the uniqueness intent.
 - `kindsIn` sees 382 page types and `registryOf` sees 393. Eleven page types filed beside their own domains are invisible to one of them, and `page-derive` consumes the short list. `globsIn` decides which answer it gives by whether `tree.roots` is set, so the staged tree a gate builds takes the other path.
-- `page-named-as-stated` and `page-name-unique` carry `check-on-patch: false` and `check-on-worktree: false`, so a 495-file write reported zero checks. Neither guards a write.
+- `page-name-unique` carries `check-on-patch: false` and `check-on-worktree: false`, so a 495-file write reported zero checks. `page-named-as-stated` does guard a write: it refused a finding on 2026-08-28 whose title and file stem disagreed, naming both. An unstated key runs, because `check-on-patch` states `default: true` and `checks-system/checks.ts:84` reads `said !== false`.
 - `tools/tests/formula-conformance` holds the corpus for the language being replaced, sixteen files. Under Ablation it goes once the new corpus and evaluator are proven.
 - 2,266 pages still carry no slug across 14 page types. Two are live regressions rather than backfill leftovers: the seat composer drops `slug` every time it rewrites `agent/seat/*.seat.md`, and the `code-editor-*` family is 100% slugless across all four types after being fully covered at the backfill.
 - Two functions are named `pageTypeOf`, one naming a file's page type and one building a record.
