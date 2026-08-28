@@ -7,6 +7,7 @@ import { type Startable, startIsolated } from './activation.ts';
 import * as agentTree from './features/agent-tree/activate.ts';
 import * as domainTree from './features/domain-tree/activate.ts';
 import * as editorLayout from './features/editor-layout/activate.ts';
+import * as pageTree from './features/page-tree/activate.ts';
 import * as workTree from './features/work-tree/activate.ts';
 import * as terminalRename from './features/terminal-rename/activate.ts';
 import * as transcript from './features/transcript/activate.ts';
@@ -27,20 +28,23 @@ import { readProcess } from './seat/window-identity.ts';
 const FEATURE_TIMEOUT_MS = 20_000;
 
 /**
- * The six, and they are independent of one another.
+ * The seven, and they are independent of one another.
  *
- * THE STATUS BAR AND THE PAGE TREE ARE NOT AMONG THEM. Each answers its queries in this process,
- * and those reads are synchronous underneath: measured on 2026-08-27 at 18.6s over twenty queries
- * and 4.5s over twelve, about 90% of either being git subprocesses. For the whole of one, no timer
- * in this process fires — the tab colours poll every second and were not running. The page tree
- * has no poll, which is not the safeguard it looks like: it watches every document in the
- * repository, and pages land here several times a minute.
+ * THE PAGE TREE IS AMONG THEM AGAIN. It was held out at 4.5s over twelve queries, about 90% of
+ * that git subprocesses, on a thread where nothing else can run meanwhile. What cost that was not
+ * the reading: a page query is held against the file tree, the page type registry and the shape
+ * mark taken over both, and each of those is held only for the length of a call. `duringOneCall`
+ * ended at the first await, so an async reader opened no call that outlived it and worked all
+ * three out again on every ask. It carries across awaits now, and the same twelve queries answer
+ * in 0.44s.
  *
- * WHAT KEEPS THE THREE TREE PANELS OUT OF THAT is that each reads through `runVerb` or
- * `runOps`, which are subprocesses, so their work is off this thread whatever it costs them.
+ * THE STATUS BAR IS STILL NOT AMONG THEM. The same change took it from 18.1s to 2.7s, which is no
+ * longer a wedged panel but is still seconds of a thread nothing else can use, and it refreshes on
+ * a timer rather than on a watcher. Out on Alan's call until it is cheaper.
  *
- * Out on Alan's call until a page query answers quickly. Both `activate.ts` files still stand and
- * nothing imports them.
+ * WHAT KEEPS THE TREE PANELS OUT OF THAT is that the domain tree and the work tree read through
+ * `runVerb` or `runOps`, which are subprocesses, so their work is off this thread whatever it
+ * costs them.
  *
  * CHECKED RATHER THAN ASSUMED, on 2026-08-13. No feature's `activate.ts` imports
  * another feature's `activate.ts`, and none reads another's module state — each
@@ -63,11 +67,12 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 	{ name: 'agent-tree', start: async () => agentTree.activate(context) },
 	{ name: 'domain-tree', start: async () => domainTree.activate(context) },
 	{ name: 'work-tree', start: async () => workTree.activate(context) },
+	{ name: 'page-tree', start: async () => pageTree.activate(context) },
 	{ name: 'editor-layout', start: async () => editorLayout.activate(context) },
 ];
 
 /**
- * Starts all six features, each isolated from the others.
+ * Starts all seven features, each isolated from the others.
  *
  * THIS WAS SIX `await`s IN A ROW, and on 2026-08-13 that cost Alan every panel he
  * has. `terminal-rename` went first, awaited a terminal that never reported its

@@ -27,6 +27,7 @@
 
 import * as path from 'node:path';
 import { z } from 'zod';
+import { duringOneCall } from '../../../../during-call/during-call.ts';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import type { Ask } from '../../../../readouts/readout-resolver.ts';
 import { akashaRoot } from '../../harness-call.ts';
@@ -167,14 +168,21 @@ export async function askQuery(slug: string, ask: Ask): Promise<readonly QueryRo
  * pay every latency for no gain.
  */
 export async function readPageTree(ask: Ask = askHere()): Promise<PageTree> {
-	const slugs = [...TYPE_QUERIES, ...PROPERTY_QUERIES, PROPERTY_TYPE_QUERY, DOMAIN_QUERY];
-	const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, ask)));
-	const at = (slug: string): readonly QueryRow[] => answered[slugs.indexOf(slug)] ?? [];
-	const answers: PageAnswers = {
-		types: TYPE_QUERIES.flatMap((slug) => [...at(slug)]),
-		properties: PROPERTY_QUERIES.flatMap((slug) => [...at(slug)]),
-		propertyTypes: at(PROPERTY_TYPE_QUERY),
-		domains: at(DOMAIN_QUERY),
-	};
-	return assemblePageTree(answers, akashaRoot());
+	// ONE CALL AROUND THE SIX ASKS. What a page query costs is mostly working out its own cache
+	// keys — the file tree, the page type registry, the shape mark those are held against — and
+	// each of those is held for the length of a call and no longer. Six asks outside a call worked
+	// all three out six times over, in git subprocesses: measured on 2026-08-28 at 4.5s for this
+	// tree, and 0.44s for the same six inside one call.
+	return duringOneCall(async () => {
+		const slugs = [...TYPE_QUERIES, ...PROPERTY_QUERIES, PROPERTY_TYPE_QUERY, DOMAIN_QUERY];
+		const answered = await Promise.all(slugs.map(async (slug) => askQuery(slug, ask)));
+		const at = (slug: string): readonly QueryRow[] => answered[slugs.indexOf(slug)] ?? [];
+		const answers: PageAnswers = {
+			types: TYPE_QUERIES.flatMap((slug) => [...at(slug)]),
+			properties: PROPERTY_QUERIES.flatMap((slug) => [...at(slug)]),
+			propertyTypes: at(PROPERTY_TYPE_QUERY),
+			domains: at(DOMAIN_QUERY),
+		};
+		return assemblePageTree(answers, akashaRoot());
+	});
 }
