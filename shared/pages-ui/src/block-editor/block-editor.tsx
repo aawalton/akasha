@@ -23,7 +23,6 @@ interface BlockEditorProps {
   id: string
   propertyId: string
   value: unknown
-  contentTier?: boolean
 }
 
 export function BlockEditor({
@@ -31,7 +30,6 @@ export function BlockEditor({
   id,
   propertyId,
   value,
-  contentTier = false,
 }: BlockEditorProps) {
   const [doc, setDoc] = useState<RichDocument>(() => normalizeRichDocument(value))
 
@@ -42,7 +40,6 @@ export function BlockEditor({
     id,
     propertyId,
     currentDocRef: docRef,
-    contentTier,
   })
 
   useEffect(() => {

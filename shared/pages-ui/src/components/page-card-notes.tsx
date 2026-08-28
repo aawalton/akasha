@@ -42,7 +42,6 @@ export function PageCardNotes({
           id={pageId}
           propertyId={property.id}
           value={value}
-          contentTier={isContent}
         />
       ) : (
         <MarkdownPropertyBadge

@@ -1,10 +1,12 @@
 "use client"
 
 import { patchPage } from "@shared/pages-access/patch"
-import { type JsonPatch } from "@shared/pages-access/types"
 import { type RichDocument } from "@shared/pages-core/property-types/rich-document"
-import { type EditorOp } from "@shared/pages-core/property-types/rich-document-ops"
-import { editorOpToPatch, type JsonPatchLike } from "@shared/pages-core/property-types/rich-document-persist"
+import {
+  applyEditorOp,
+  type EditorOp,
+  normalizeRichDocument,
+} from "@shared/pages-core/property-types/rich-document-ops"
 import { type ReadonlyJSONValue } from "@shared/pages-core/schema/pages"
 import type { Json } from "../../../supabase-database/src/generated/database.ts"
 import { useSupabase } from "@shared/supabase-rr/provider"
@@ -18,21 +20,11 @@ function toJson(value: RichDocument | ReadonlyJSONValue): Json {
   return value
 }
 
-function toJsonPatch(patch: JsonPatchLike): JsonPatch {
-  const ops: JsonPatch = patch.map((op) =>
-    op.op === "remove"
-      ? { op: "remove", path: op.path }
-      : { op: op.op, path: op.path, value: toJson(op.value) }
-  )
-  return ops
-}
-
 interface UseBlockPersistenceArgs {
   pageTypeSlug: string
   id: string
   propertyId: string
   currentDocRef: React.RefObject<RichDocument>
-  contentTier: boolean
 }
 
 export function useBlockPersistence({
@@ -40,7 +32,6 @@ export function useBlockPersistence({
   id,
   propertyId,
   currentDocRef,
-  contentTier,
 }: UseBlockPersistenceArgs): (prevDoc: RichDocument, op: EditorOp) => Promise<void> {
   const client = useSupabase()
   const chainRef = useRef<Promise<void>>(Promise.resolve())
@@ -55,37 +46,18 @@ export function useBlockPersistence({
 
   const runOne = useCallback(
     async (prevDoc: RichDocument, op: EditorOp) => {
-      const instruction = editorOpToPatch(prevDoc, op, propertyId, { wholeBody: contentTier })
+      const value = applyEditorOp(normalizeRichDocument(prevDoc), op)
       try {
-        switch (instruction.kind) {
-          case "init":
-            await patchPage({
-              pageTypeSlug,
-              where: [{ key: "id", eq: id }],
-              set: { [propertyId]: toJson(instruction.value) },
-            })
-            return
-          case "patch": {
-            if (instruction.patch.length === 0) return
-            const patch = toJsonPatch(instruction.patch)
-            await patchPage({
-              pageTypeSlug,
-              where: [{ key: "id", eq: id }],
-              set: {},
-              patch,
-            })
-            return
-          }
-          default: {
-            const _exhaustive: never = instruction
-            return _exhaustive
-          }
-        }
+        await patchPage({
+          pageTypeSlug,
+          where: [{ key: "id", eq: id }],
+          set: { [propertyId]: toJson(value) },
+        })
       } catch {
         await resync()
       }
     },
-    [client, pageTypeSlug, id, propertyId, resync, contentTier]
+    [client, pageTypeSlug, id, propertyId, resync]
   )
 
   return useCallback(
