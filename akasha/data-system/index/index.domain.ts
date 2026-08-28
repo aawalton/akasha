@@ -8,6 +8,7 @@ export const index = {
   partSlugs: [
     "index-identity",
     "index-relation",
+    "indexing",
   ],
   requiredReadingSlugs: [
     "index-identity",
