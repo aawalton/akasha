@@ -3,7 +3,7 @@ export const summary = "Remove files, gated against the repo that would remain"
 import { existsSync, readFileSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname } from "node:path"
 import { sidecarsOf } from "../../../page/sidecar/sidecar.ts"
-import { git } from "../../../repo/git/git.ts"
+import { git, heldByRepo } from "../../../repo/git/git.ts"
 import { land, LandingRefused, MISSING, removeOutside } from "../../../repo/land/land.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, valueOf } from "../../../patches/patch.ts"
@@ -72,18 +72,20 @@ function beneath(one: string): string {
   return `      ${one}\n`
 }
 
-function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
+export function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
   const relPaths = named.map((one) => relPathIn(at, one))
   if (new Set(relPaths).size !== relPaths.length) fail("a path is declared more than once")
+  const held = heldByRepo(at.root, relPaths)
   const refusals: string[] = []
   const opened: string[] = []
   for (const relPath of relPaths) {
     const absolute = `${at.root}/${relPath}`
-    if (!existsSync(absolute)) {
+    if (!held.has(relPath)) {
       refusals.push(`${relPath} ${MISSING}`)
       continue
     }
-    if (statSync(absolute).isFile()) {
+    // One git holds and the worktree has lost is a file, git holding no directory of its own.
+    if (!existsSync(absolute) || statSync(absolute).isFile()) {
       opened.push(relPath)
       continue
     }
