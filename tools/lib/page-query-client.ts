@@ -1,12 +1,12 @@
 import { operationalError } from "./exit.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
-import { clusterReachOf } from "./service-cluster-reach.ts"
+import type { WriteAct } from "./page-landing-judge.ts"
+import { answered, askedFrom } from "./page-query-answer.ts"
+import { written } from "./page-query-landing.ts"
+import type { Said } from "./page-query-request.ts"
+import type { Roots } from "../../page/page.ts"
+import { resolveRoots } from "../../repo/roots/roots"
 
-const SLUG = "page-query-service"
-
-const WRITE_ATTEMPTS = 4
-const WAIT_CEILING_MS = 10_000
-const FIRST_BACKOFF_MS = 100
+const SAYS = "[page-query]"
 
 export interface AnsweredRow {
   readonly at: string
@@ -30,19 +30,19 @@ export type RowAct = "write-row" | "patch-row"
 
 export type PageAct = "write" | "patch" | "patch-state" | "remove"
 
-let origin: string | null = null
+let held: Roots | null = null
+
+function roots(): Roots {
+  held ??= resolveRoots()
+  return held
+}
 
 export function pageQueryOrigin(): string {
   const stated = process.env.PAGE_QUERY_ORIGIN
   if (stated !== undefined && stated !== "") return stated
-  if (origin === null) {
-    origin = `http://127.0.0.1:${clusterReachOf(rootFor(resolveRoots(), AKASHA), SLUG).port}`
-  }
-  return origin
-}
-
-export function forgetPageQueryOrigin(): void {
-  origin = null
+  throw operationalError(
+    "no page query service answers on this workstation: a command here reaches pages through this module in process, and only an off-workstation caller states PAGE_QUERY_ORIGIN"
+  )
 }
 
 function rowsIn(body: unknown): readonly AnsweredRow[] {
@@ -77,76 +77,41 @@ function whyIn(body: unknown, status: number): string {
     const why = (body as { why?: unknown }).why
     if (typeof why === "string") return why
   }
-  return `the page query service answered ${status}`
+  return `the page query answered ${status}`
 }
 
-async function bodyOf(response: Response): Promise<unknown> {
-  try {
-    return await response.json()
-  } catch {
-    return null
-  }
-}
-
-async function reached(path: string, init?: RequestInit): Promise<Response> {
-  const began = Date.now()
-  let attempt = 0
-  let last = ""
-  while (attempt < WRITE_ATTEMPTS) {
-    const left = WAIT_CEILING_MS - (Date.now() - began)
-    if (left <= 0) break
-    try {
-      return await fetch(`${pageQueryOrigin()}${path}`, {
-        ...init,
-        signal: AbortSignal.timeout(left),
-      })
-    } catch (thrown) {
-      last = thrown instanceof Error ? thrown.message : String(thrown)
-    }
-    attempt += 1
-    const backoff = FIRST_BACKOFF_MS * 2 ** (attempt - 1)
-    const room = WAIT_CEILING_MS - (Date.now() - began)
-    if (room <= 0) break
-    await Bun.sleep(Math.min(backoff, room))
-  }
-  throw operationalError(
-    `the page query service at ${pageQueryOrigin()} did not answer ${path} within ${WAIT_CEILING_MS}ms: ${last}`
-  )
+function asked(said: Said): Answered {
+  if (said.status !== 200) return { ok: false, why: whyIn(said.body, said.status) }
+  const body = said.body
+  const n = typeof (body as { n?: unknown }).n === "number" ? (body as { n: number }).n : 0
+  return { ok: true, rows: rowsIn(body), n, unfound: unfoundIn(body) }
 }
 
 export async function askComposed(query: Readonly<Record<string, unknown>>): Promise<Answered> {
-  const response = await reached("/q", {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify(query),
-  })
-  const body = await bodyOf(response)
-  if (!response.ok) return { ok: false, why: whyIn(body, response.status) }
-  const n = typeof (body as { n?: unknown }).n === "number" ? (body as { n: number }).n : 0
-  return { ok: true, rows: rowsIn(body), n, unfound: unfoundIn(body) }
+  return asked(askedFrom(roots(), JSON.stringify(query)))
 }
 
 export async function askTaking(
   named: string,
   given: Readonly<Record<string, string>>
 ): Promise<Answered> {
-  const params = new URLSearchParams(given).toString()
-  const response = await reached(`/q/${named}${params === "" ? "" : `?${params}`}`)
-  const body = await bodyOf(response)
-  if (!response.ok) return { ok: false, why: whyIn(body, response.status) }
-  const n = typeof (body as { n?: unknown }).n === "number" ? (body as { n: number }).n : 0
-  return { ok: true, rows: rowsIn(body), n, unfound: unfoundIn(body) }
+  return asked(answered(roots(), named, new URLSearchParams(given)))
 }
 
-async function landed(path: string, sent: Readonly<Record<string, unknown>>): Promise<Landed> {
-  const response = await reached(path, {
+async function landed(
+  act: WriteAct,
+  pageType: string,
+  name: string,
+  sent: Readonly<Record<string, unknown>>
+): Promise<Landed> {
+  const carried = new Request("http://pages.invalid/", {
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify(sent),
   })
-  const body = await bodyOf(response)
-  if (!response.ok) return { ok: false, why: whyIn(body, response.status) }
-  const at = (body as { at?: unknown }).at
+  const said = await written(roots(), act, pageType, name, carried, SAYS)
+  if (said.status !== 200) return { ok: false, why: whyIn(said.body, said.status) }
+  const at = (said.body as { at?: unknown }).at
   return { ok: true, at: typeof at === "string" ? at : "" }
 }
 
@@ -157,7 +122,7 @@ export function pageLanding(
   values: Readonly<Record<string, unknown>>,
   writer: string
 ): Promise<Landed> {
-  return landed(`/${act}/${pageType}/${name}`, { writer, values })
+  return landed(act, pageType, name, { writer, values })
 }
 
 export function patchPage(
@@ -176,7 +141,7 @@ export function rowLanding(
   values: Readonly<Record<string, unknown>>,
   writer: string
 ): Promise<Landed> {
-  return landed(`/${act}/${pageType}/${parentName}`, { writer, values })
+  return landed(act, pageType, parentName, { writer, values })
 }
 
 export function removeRow(
@@ -185,7 +150,7 @@ export function removeRow(
   named: string,
   writer: string
 ): Promise<Landed> {
-  return landed(`/remove-row/${pageType}/${parentName}`, { writer, named })
+  return landed("remove-row", pageType, parentName, { writer, named })
 }
 
 export function rowsLanding(
@@ -195,5 +160,5 @@ export function rowsLanding(
   rows: readonly Readonly<Record<string, unknown>>[],
   writer: string
 ): Promise<Landed> {
-  return landed(`/${act}/${pageType}/${parentName}`, { writer, rows })
+  return landed(act, pageType, parentName, { writer, rows })
 }
