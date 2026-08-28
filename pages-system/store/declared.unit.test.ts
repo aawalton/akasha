@@ -2,10 +2,6 @@ import { expect, test } from "bun:test"
 import { checkQuery } from "../query/query.ts"
 import { declarationOf, declarationsFor, extendingIn } from "./declared.ts"
 
-/**
- * The repository this store is read over. A store reads a repository, so what it is tested against
- * is one, and this one is the one standing under the file being tested.
- */
 const ROOT = `${import.meta.dir}/../..`
 
 const seat = () => {

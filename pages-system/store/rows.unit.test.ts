@@ -1,10 +1,8 @@
 import { expect, test } from "bun:test"
 import { type RowPage, type RowUnread, rowsIn } from "./rows.ts"
 
-/** Where the sidecar under test stands. A row's address is built on this. */
 const AT = "pages/seat-log-day/one.seat-log-day.lines.jsonl"
 
-/** The page the sidecar stands beside. Only a row naming itself nothing is named by it. */
 const HOLDER = "one"
 
 const read = (text: string): readonly (RowPage | RowUnread)[] => [...rowsIn(AT, text, HOLDER)]

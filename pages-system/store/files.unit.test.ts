@@ -2,13 +2,6 @@ import { expect, test } from "bun:test"
 import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { sidecarsOf, textAt } from "./files.ts"
 
-/**
- * A root of this test's own making.
- *
- * WHAT IS ON DISK IN THIS REPOSITORY IS BEING WRITTEN WHILE THE TEST RUNS. A seat's log sidecars
- * grow as agents work, so a test naming one would rule on how many parts it had at the moment it was
- * written. A root made here holds exactly what the case is about.
- */
 const rootOf = (names: readonly string[]): string => {
   const root = mkdtempSync("/var/tmp/pages-system-files-")
   mkdirSync(`${root}/pages/day`, { recursive: true })

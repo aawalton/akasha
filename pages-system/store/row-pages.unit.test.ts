@@ -5,10 +5,8 @@ import { addressIn } from "./address.ts"
 import { rowPagesIn, type Where } from "./row-pages.ts"
 import type { Unread } from "./store.ts"
 
-/** The moment every page in a pass is read at. A store holds no clock, so a test states one. */
 const NOW = 0
 
-/** What the page type under test declares. A row is read under these and nothing else. */
 const DECLARED: Declared = {
   properties: {
     slug: { type: { kind: "text" } },
@@ -19,12 +17,10 @@ const DECLARED: Declared = {
   beyond: {},
 }
 
-/** What the scratch root under test is called. A root is a repository only once named as one. */
 const REPO = "scratch"
 
 const HOLDER = "pages/day/monday.log-day.md"
 
-/** A root holding one page and whatever sidecars the case is about. */
 const rootOf = (sidecars: Readonly<Record<string, string>>): string => {
   const root = mkdtempSync("/var/tmp/pages-system-row-pages-")
   mkdirSync(`${root}/pages/day`, { recursive: true })

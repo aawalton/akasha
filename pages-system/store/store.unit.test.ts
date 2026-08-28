@@ -5,19 +5,10 @@ import type { Repo } from "./address.ts"
 import { declarationOf, extendingIn } from "./declared.ts"
 import { holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./store.ts"
 
-/**
- * The repository this store is read over. A store reads a repository, so what it is tested against
- * is one, and this one is the one standing under the file being tested.
- */
 const ROOT = `${import.meta.dir}/../..`
 
-/**
- * That repository, named as an address names it. Which repository a root is is the caller's to say,
- * so a test says it, and every address these cases read is one issued from here.
- */
 const REPO: Repo = { repo: "akasha", root: ROOT }
 
-/** The moment every page in a pass is read at. A store holds no clock, so a test states one. */
 const NOW = 0
 
 const seat = () => {
