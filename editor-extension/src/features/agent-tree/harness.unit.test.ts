@@ -1,27 +1,6 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * What this panel does with the answer that crosses the process boundary.
- *
- * WHAT ELSE WOULD CATCH THIS, which is the question a test has to answer. The typechecker sees
- * nothing: the answer arrives as `unknown` out of `JSON.parse`. The verb's own suite holds what a
- * ROW means and not what the envelope around it looks like. And the delivering seat's comparison
- * against the code repository's path ran on a well-formed answer from a healthy fleet, which is
- * every case except the one that matters here — the verb renamed, moved, or answering a shape this
- * was not written for.
- *
- * THE INVARIANT IS THAT A SHAPE THIS CANNOT READ THROWS. It must never come back as a short list or
- * as rows carrying `undefined`, because the caller shows what it is handed: a silently emptied
- * forest is the panel telling Alan his fleet has stopped.
- */
-
 import { describe, expect, test } from 'bun:test';
-import { parseForestRows, parseStateColour } from './harness';
+import { parseForestRows, parseStateColour } from './harness.ts';
 
-/** A whole row as the verb answers one. */
 const ROW = {
 	id: '019ff866-6ce4-7713-8672-14c24e89d4e0',
 	name: 'amy-code-editor-lead',
@@ -85,12 +64,6 @@ describe('parseForestRows', () => {
 		expect(() => parseForestRows({ rows: [ROW, { ...ROW, id: 'b' }, { live: true }] })).toThrow();
 	});
 
-	// WHY THE ROW'S COLOUR IS READ UNDER TWO SPELLINGS. `agent-forest` spells the field `colour`
-	// today and will spell it `color`. Alan runs a build compiled against whichever spelling stood
-	// when it was built, so the reader has to take the new name before the verb starts sending it.
-	// A build that read only the old one would throw on every row the moment the rename landed, and
-	// this panel answers a throw by keeping the tree it last read — a fleet frozen on screen, which
-	// looks exactly like a fleet that has stopped moving.
 	test('reads a row spelling its colour the way the verb is being renamed to spell it', () => {
 		const { colour: _dropped, ...renamed } = ROW;
 		expect(parseForestRows({ rows: [{ ...renamed, color: 'blue' }] })).toEqual([ROW]);
@@ -108,8 +81,6 @@ describe('parseForestRows', () => {
 		]);
 	});
 
-	// Neither spelling is not a row stating no colour. A row that states none states null, and
-	// tolerating two names must not quietly tolerate none.
 	test('refuses a row carrying the colour under neither spelling', () => {
 		const { colour: _dropped, ...renamed } = ROW;
 		expect(() => parseForestRows({ rows: [renamed] })).toThrow();
@@ -121,14 +92,6 @@ describe('parseForestRows', () => {
 	});
 });
 
-/**
- * The other answer this panel reads, and the one a subagent's colour rests on.
- *
- * WHAT ELSE WOULD CATCH THIS. Nothing on either side. The answer arrives as `unknown`, and a
- * shape this could not read would leave every subagent row at the muted foreground — which is
- * exactly what a healthy harness answering nothing for the state also looks like. The failure
- * and the fallback draw identically, so only a test tells them apart.
- */
 describe('the colour a turn state is answered with', () => {
 	test('the name under the state asked for is what comes back', () => {
 		expect(parseStateColour({ colours: { working: 'green' } }, 'working')).toBe('green');
@@ -146,8 +109,6 @@ describe('the colour a turn state is answered with', () => {
 		expect(() => parseStateColour({ colours: { idle: 'yellow' } }, 'working')).toThrow();
 	});
 
-	// The same reason the rows are read under two spellings: the envelope key is `colours` today
-	// and `colors` after the rename, and this side has to take the new one first.
 	test('reads the record under the spelling the command is being renamed to', () => {
 		expect(parseStateColour({ colors: { working: 'green' } }, 'working')).toBe('green');
 	});

@@ -1,24 +1,16 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import { type AgentNode, assembleForest, countRunning } from "./forest"
-import { ancestorNames, readSeatPlaces } from "./lookup";
-import { NO_PLACES, NO_SUBAGENTS, row, subagent } from './forest-fixtures';
-import type { HarnessRow } from './harness';
+import { type AgentNode, assembleForest, countRunning } from "./forest.ts"
+import { ancestorNames, readSeatPlaces } from "./lookup.ts";
+import { NO_PLACES, NO_SUBAGENTS, row, subagent } from './forest-fixtures.ts';
+import type { HarnessRow } from './harness.ts';
 
 describe('countRunning', () => {
-	// The header's number, counted off the assembled tree so it cannot disagree with
-	// the rows underneath it.
 	test('counts live seats and subagents alike, at every depth', () => {
 		const rows = [row('a', 'lead', null), row('b', 'worker', 'a')];
 		const subagents = new Map([['a', [subagent('t1', 'outer', [subagent('t2', 'inner')])]]]);
 		expect(countRunning(assembleForest(rows, new Set(['a', 'b']), subagents, NO_PLACES))).toBe(4);
 	});
 
-	// A stopped seat is on screen to hold the branch beneath it. It is not working,
-	// so a header counting rows rather than running agents would overstate the fleet.
 	test('does not count a stopped seat standing only to hold a running one', () => {
 		const rows = [row('a', 'stopped-opener', null), row('b', 'running-child', 'a')];
 		expect(countRunning(assembleForest(rows, new Set(['b']), NO_SUBAGENTS, NO_PLACES))).toBe(1);
@@ -29,12 +21,6 @@ describe('countRunning', () => {
 	});
 });
 
-// The click walks this list looking for the first ancestor with a terminal in
-// the window, so the ORDER is load-bearing rather than cosmetic: a wrong order
-// sends a headless seat's transcript to the root's column instead of the
-// interactive seat's, which is a legal-looking answer to the wrong question.
-// Depth beyond two is not reachable in today's fleet, so this is where it is
-// measured at all.
 describe('ancestorNames', () => {
 	const deep = assembleForest(
 		[
@@ -77,11 +63,6 @@ describe('ancestorNames', () => {
 });
 
 describe('readSeatPlaces', () => {
-	// THE CASE THE ROW'S `launch` GETS WRONG, and the reason the place is read off
-	// `mode` alone. `launch` says `opened` for every seat whose page names a person,
-	// whatever place that seat runs in, so a headless seat of Alan's reads as opened
-	// — and a place taken from it would send this seat's bring-back to `sr` in a
-	// terminal instead of to `ops seat resume`.
 	test('reads the place off the stated mode rather than off launch', () => {
 		const stopped: HarnessRow = {
 			id: 'a',
@@ -99,14 +80,6 @@ describe('readSeatPlaces', () => {
 	});
 });
 
-/**
- * What a subagent row says about its turn.
- *
- * WHAT ELSE WOULD CATCH THIS. Nothing. A subagent left without a state draws in the muted
- * foreground, which is what it drew in for as long as it had none — so the regression is a row
- * that looks exactly like the version before the change, on a panel where the muted rows are the
- * ones a reader has been trained to skip.
- */
 describe('a subagent takes a turn of its own', () => {
 	const subagents = new Map([['a', [subagent('t1', 'outer', [subagent('t2', 'inner')])]]]);
 
@@ -135,8 +108,6 @@ describe('a subagent takes a turn of its own', () => {
 		expect(firstSubagent('green').waitingOn).toBeUndefined();
 	});
 
-	// The fallback. A harness that could not be reached costs the subagents their colour and
-	// costs the tree nothing else.
 	test('keeps its state and no colour where the harness answered none', () => {
 		expect(firstSubagent().state).toBe('working');
 		expect(firstSubagent().colour).toBeUndefined();

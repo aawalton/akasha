@@ -1,23 +1,6 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * @fileoverview What went wrong on 2026-08-13, pinned.
- *
- * The fault was never in any one feature: it was that a chain of `await`s let
- * the first thing to stall decide whether anything after it ran. So the cases
- * here are about a stall NOT propagating, and the one that matters most is
- * `a feature that never comes back leaves the others activated` — that is the
- * shape that cost Alan three panels, and it is the one that would come back
- * silently if this were ever chained again.
- */
-
 import { describe, expect, test } from 'bun:test';
-import { answerWithin, NO_ANSWER, type Startable, startIsolated } from './activation';
+import { answerWithin, NO_ANSWER, type Startable, startIsolated } from './activation.ts';
 
-/** A promise that never settles — a terminal whose pid the workbench never sends. */
 const never = (): Promise<never> => new Promise<never>(() => { });
 
 const collect = (): { lines: string[]; log: (line: string) => void } => {
@@ -31,9 +14,6 @@ describe('answerWithin', () => {
 	});
 
 	test('carries undefined through as an answer, distinct from no answer', async () => {
-		// The rename feature has to tell "this terminal has no pid" from "this
-		// terminal never replied"; one is a fact about the terminal and the other
-		// is a fact about the wait.
 		expect(await answerWithin(Promise.resolve(undefined), 1000)).toBe(undefined);
 	});
 
@@ -52,8 +32,6 @@ describe('answerWithin', () => {
 		const late = new Promise<number>((_, r) => { reject = r; });
 		expect(await answerWithin(late, 20)).toBe(NO_ANSWER);
 		reject(new Error('too late'));
-		// An unhandled rejection would take the process down rather than fail here,
-		// so surviving the turn of the loop is the assertion.
 		await new Promise((r) => setTimeout(r, 20));
 		expect(true).toBe(true);
 	});
@@ -75,8 +53,6 @@ describe('startIsolated', () => {
 	});
 
 	test('a feature that never comes back leaves the others activated', async () => {
-		// THE 2026-08-13 CASE. terminal-rename went first and never returned; with
-		// six awaits in a row, the five behind it never started at all.
 		const { log } = collect();
 		const started: string[] = [];
 		const six: readonly Startable[] = [
@@ -90,7 +66,6 @@ describe('startIsolated', () => {
 
 		const outcomes = await startIsolated(six, 20, log);
 
-		// Every one of them was reached, which the chain is what prevented.
 		expect(started.length).toBe(6);
 		const byName = new Map(outcomes.map((o) => [o.name, o.state]));
 		expect(byName.get('terminal-rename')).toBe('still running');
@@ -118,8 +93,6 @@ describe('startIsolated', () => {
 	});
 
 	test('a throw before the first await is caught like any other', async () => {
-		// `start` is called rather than awaited into existence, so a feature that
-		// throws synchronously would escape if it were not wrapped.
 		const { log } = collect();
 		const outcomes = await startIsolated(
 			[{ name: 'sync-boom', start: async () => { throw new Error('at once'); } }],
