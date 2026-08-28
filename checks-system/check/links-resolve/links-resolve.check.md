@@ -5,7 +5,7 @@ title: "Links resolve"
 slug: links-resolve
 needs: tree
 check-on-patch: true
-check-on-worktree: true
+check-on-worktree: false
 ---
 
 # Definition
