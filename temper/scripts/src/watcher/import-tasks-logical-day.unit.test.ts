@@ -6,8 +6,6 @@ type Call = { fn: string; args: unknown }
 
 const calls: Call[] = []
 
-const realPagesQuery = await import("@shared/pages-query")
-
 type Rows = ReadonlyArray<Record<string, unknown>>
 
 let scriptedRows: ReadonlyArray<{ rows: Rows }> = []
@@ -84,31 +82,31 @@ mock.module("@shared/pages-access/upsert", () => ({
 }))
 
 mock.module("@shared/pages-query", () => ({
-  ASK_CEILING_MS: realPagesQuery.ASK_CEILING_MS,
-  askNamed: realPagesQuery.askNamed,
-  askTaking: realPagesQuery.askTaking,
-  PAGE_QUERY_BROWSER_PREFIX: realPagesQuery.PAGE_QUERY_BROWSER_PREFIX,
-  PAGE_QUERY_ORIGIN: realPagesQuery.PAGE_QUERY_ORIGIN,
-  pageQueryOrigin: realPagesQuery.pageQueryOrigin,
+  ASK_CEILING_MS: unreached("ASK_CEILING_MS"),
+  askNamed: unreached("askNamed"),
+  askTaking: unreached("askTaking"),
+  PAGE_QUERY_BROWSER_PREFIX: unreached("PAGE_QUERY_BROWSER_PREFIX"),
+  PAGE_QUERY_ORIGIN: unreached("PAGE_QUERY_ORIGIN"),
+  pageQueryOrigin: unreached("pageQueryOrigin"),
   patchPage: async (pageType: string, name: string, values: unknown) => {
     calls.push({ fn: "query.patchPage", args: { pageType, name, values } })
-    return { ok: true, at: `${pageType}/${name}` }
+    return { ok: true as const, at: `${pageType}/${name}` }
   },
-  patchPageIfMatch: realPagesQuery.patchPageIfMatch,
-  patchRow: realPagesQuery.patchRow,
-  patchRows: realPagesQuery.patchRows,
-  patchState: realPagesQuery.patchState,
-  readFromPageQueryService: realPagesQuery.readFromPageQueryService,
-  refusalIn: realPagesQuery.refusalIn,
-  removePage: realPagesQuery.removePage,
-  removeRow: realPagesQuery.removeRow,
-  WRITE_CEILING_MS: realPagesQuery.WRITE_CEILING_MS,
-  writePage: realPagesQuery.writePage,
+  patchPageIfMatch: unreached("patchPageIfMatch"),
+  patchRow: unreached("patchRow"),
+  patchRows: unreached("patchRows"),
+  patchState: unreached("patchState"),
+  readFromPageQueryService: unreached("readFromPageQueryService"),
+  refusalIn: unreached("refusalIn"),
+  removePage: unreached("removePage"),
+  removeRow: unreached("removeRow"),
+  WRITE_CEILING_MS: unreached("WRITE_CEILING_MS"),
+  writePage: unreached("writePage"),
   writeRow: async (pageType: string, parentName: string, values: unknown) => {
     calls.push({ fn: "query.writeRow", args: { pageType, parentName, values } })
-    return { ok: true, at: `${pageType}/${parentName}` }
+    return { ok: true as const, at: `${pageType}/${parentName}` }
   },
-  writeRows: realPagesQuery.writeRows,
+  writeRows: unreached("writeRows"),
 }))
 
 async function loadRunImportTasks(key: string): Promise<typeof runImportTasks> {
