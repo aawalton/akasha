@@ -77,10 +77,39 @@ describe("the budget, spent one batch at a time", () => {
     expect(report(tallyOf(GREEN, 0), 100, ROOT).population.measured).toBe(55)
   })
 
-  test("a batch killed at the deadline counts no file, so its share stays unreached", () => {
-    const killed = tallyOf("", null)
+  test("a batch killed at the deadline is reported as killed, not as one that held nothing", () => {
+    const killed = tallyOf("", null, 8)
     expect(killed.files).toBe(0)
-    expect(killed.unread).toBe(0)
+    expect(killed.killed).toBe(1)
+    expect(killed.killedFiles).toBe(8)
+  })
+
+  test("a batch that genuinely held nothing is not reported as killed", () => {
+    const empty = tallyOf("Ran 0 tests across 0 files. [0.01s]\n", 0, 8)
+    expect(empty.killed).toBe(0)
+    expect(empty.killedFiles).toBe(0)
+  })
+
+  test("a killed batch is named in the report, with the files it took down", () => {
+    const outcome = report(added(tallyOf(GREEN, 0, 55), tallyOf("", null, 8)), 100, ROOT)
+    expect(outcome.verdict).toBe("fail")
+    expect(outcome.messages).toContain(says("suite-batch-killed", { batches: "1", files: "8" }))
+  })
+
+  test("a file a killed batch took down is not also counted as one never started", () => {
+    const outcome = report(added(tallyOf(GREEN, 0, 55), tallyOf("", null, 8)), 100, ROOT)
+    expect(outcome.messages).toContain(says("suite-unfinished", { reached: "55", unreached: "37" }))
+  })
+
+  test("the one line a reader of the summary sees says a batch did not come back", () => {
+    const outcome = report(added(tallyOf(GREEN, 0, 55), tallyOf("", null, 8)), 100, ROOT)
+    expect(outcome.detail).toContain("1 batch(es) killed at the deadline taking 8 file(s) with them")
+  })
+
+  test("killed batches add up across a run, as every other count does", () => {
+    const both = added(tallyOf("", null, 8), tallyOf("", null, 5))
+    expect(both.killed).toBe(2)
+    expect(both.killedFiles).toBe(13)
   })
 
   test("what a killed batch printed before it died is still carried into the report", () => {

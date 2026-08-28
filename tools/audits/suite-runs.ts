@@ -47,17 +47,28 @@ export interface Tally {
   readonly failed: number
   readonly worstExit: number
   readonly unread: number
+  readonly killed: number
+  readonly killedFiles: number
   readonly named: readonly string[]
 }
 
-export const NOTHING: Tally = { tests: 0, files: 0, failed: 0, worstExit: 0, unread: 0, named: [] }
+export const NOTHING: Tally = {
+  tests: 0,
+  files: 0,
+  failed: 0,
+  worstExit: 0,
+  unread: 0,
+  killed: 0,
+  killedFiles: 0,
+  named: [],
+}
 
-export function tallyOf(out: string, exitCode: number | null): Tally {
+export function tallyOf(out: string, exitCode: number | null, asked = 0): Tally {
   const named = out
     .split("\n")
     .filter((line) => line.includes("(fail)"))
     .map((line) => line.trim())
-  if (exitCode === null) return { ...NOTHING, named }
+  if (exitCode === null) return { ...NOTHING, killed: 1, killedFiles: asked, named }
   const ran = RAN.exec(out)
   if (ran === null) return { ...NOTHING, worstExit: exitCode, unread: 1, named }
   return {
@@ -66,6 +77,8 @@ export function tallyOf(out: string, exitCode: number | null): Tally {
     failed: Number(FAILED.exec(out)?.[1] ?? 0),
     worstExit: exitCode,
     unread: 0,
+    killed: 0,
+    killedFiles: 0,
     named,
   }
 }
@@ -77,12 +90,14 @@ export function added(before: Tally, after: Tally): Tally {
     failed: before.failed + after.failed,
     worstExit: Math.max(before.worstExit, after.worstExit),
     unread: before.unread + after.unread,
+    killed: before.killed + after.killed,
+    killedFiles: before.killedFiles + after.killedFiles,
     named: [...before.named, ...after.named],
   }
 }
 
 export function report(tally: Tally, asked: number, root: string): CheckOutcome {
-  const unreached = Math.max(0, asked - tally.files)
+  const neverStarted = Math.max(0, asked - tally.files - tally.killedFiles)
   const messages: string[] = []
   if (tally.failed > 0 || tally.worstExit > 0) {
     messages.push(
@@ -92,16 +107,31 @@ export function report(tally: Tally, asked: number, root: string): CheckOutcome 
   if (tally.unread > 0) {
     messages.push(refusalText("suite-summary-unread", { exit: `${tally.worstExit}` }, root, fromDisk))
   }
-  if (unreached > 0) {
+  if (tally.killed > 0) {
     messages.push(
-      refusalText("suite-unfinished", { reached: `${tally.files}`, unreached: `${unreached}` }, root, fromDisk)
+      refusalText(
+        "suite-batch-killed",
+        { batches: `${tally.killed}`, files: `${tally.killedFiles}` },
+        root,
+        fromDisk
+      )
+    )
+  }
+  if (neverStarted > 0) {
+    messages.push(
+      refusalText("suite-unfinished", { reached: `${tally.files}`, unreached: `${neverStarted}` }, root, fromDisk)
     )
   }
   if (messages.length > 0) messages.push(...tally.named.slice(0, NAMED))
+  const killedSaid =
+    tally.killed === 0
+      ? ""
+      : `, ${tally.killed} batch(es) killed at the deadline taking ${tally.killedFiles} file(s) with them`
   return {
     ...judge(
       NAME,
-      `${tally.tests} test(s) across ${tally.files} of ${asked} file(s), each bounded at ${seconds(DEFAULT_CEILING_MS)}s`,
+      `${tally.tests} test(s) across ${tally.files} of ${asked} file(s), each bounded at ` +
+        `${seconds(DEFAULT_CEILING_MS)}s${killedSaid}`,
       messages
     ),
     population: over(tally.files, "test file(s)"),
@@ -148,15 +178,16 @@ export const suiteRuns: AsyncCheck = async (repo) => {
     for (let at = 0; at < files.length; at += BATCH) {
       const budgetMs = deadlineAt - Date.now()
       if (budgetMs <= 0) break
+      const handed = files.slice(at, at + BATCH)
       const run = Bun.spawnSync({
-        cmd: ["bun", "test", "--timeout", `${DEFAULT_CEILING_MS}`, ...files.slice(at, at + BATCH)],
+        cmd: ["bun", "test", "--timeout", `${DEFAULT_CEILING_MS}`, ...handed],
         cwd: tree.at,
         env: { ...tree.env, [SUITE_MARK]: "1" },
         stdout: "pipe",
         stderr: "pipe",
         timeout: budgetMs,
       })
-      tally = added(tally, tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode))
+      tally = added(tally, tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode, handed.length))
     }
     const outcome = report(tally, files.length, rootFor(repo.roots, AKASHA))
     const onDemand = onDemandFiles(tree.at)
