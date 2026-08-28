@@ -2,6 +2,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import { slugNamed } from "../../page/page-address.ts"
 import { judge, over } from "../../outcome/outcome"
 import { findingsDirIn } from "../lib/finding.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -37,10 +38,11 @@ export const findingsSorted: Check = (repo) => {
     const leaf = segments[1] as string
     const owner = textField(parseFrontmatter(repo.read(relPath)), DOMAIN_KEY)
     if (owner === null) continue
+    const named = slugNamed(owner)
 
-    if (owner !== folder) {
+    if (named !== folder) {
       failures.push(
-        refusalText("finding-misfiled", { path: relPath, owner, leaf, store }, root, fromDisk)
+        refusalText("finding-misfiled", { path: relPath, owner, folder: named, leaf, store }, root, fromDisk)
       )
       continue
     }

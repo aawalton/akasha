@@ -40,6 +40,13 @@ describe("a finding under the folder its key names", () => {
     expect(outcome.verdict).toBe("pass")
     expect(outcome.detail).toContain("1 finding")
   })
+
+  test("passes where the key addresses the page type as well as the slug", () => {
+    filed("pages/finding/role/addressed-claim.finding.md", "page-type/role")
+    const outcome = findingsSorted(repo())
+    expect(outcome.verdict).toBe("pass")
+    expect(outcome.detail).toContain("1 finding")
+  })
 })
 
 describe("a finding the folder does not account for", () => {
@@ -60,7 +67,23 @@ describe("a finding the folder does not account for", () => {
       says("finding-misfiled", {
         path: "pages/finding/task/misplaced-claim.finding.md",
         owner: "role",
+        folder: "role",
         leaf: "misplaced-claim.finding.md",
+        store: store(),
+      })
+    )
+  })
+
+  test("a key addressing another domain is refused against the slug half, not the whole address", () => {
+    filed("pages/finding/task/addressed-claim.finding.md", "page-type/role")
+    const outcome = findingsSorted(repo())
+    expect(outcome.verdict).toBe("fail")
+    expect(outcome.messages).toContain(
+      says("finding-misfiled", {
+        path: "pages/finding/task/addressed-claim.finding.md",
+        owner: "page-type/role",
+        folder: "role",
+        leaf: "addressed-claim.finding.md",
         store: store(),
       })
     )
