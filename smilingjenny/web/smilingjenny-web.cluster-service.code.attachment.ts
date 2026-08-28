@@ -2,7 +2,11 @@ import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
 import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
-import { BUN_RUNTIME_IMAGE, SMILINGJENNY_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
+import {
+  BUN_RUNTIME_IMAGE,
+  ORCHESTRATOR_CACHE_REPO_PATH,
+  SMILINGJENNY_WEB_CACHE,
+} from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
 
 const NAMESPACE = "smilingjenny"
 const APP_NAME = "web"
@@ -61,6 +65,11 @@ function webDeploymentYaml(): string {
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
+                // THE CHECKOUT IS NAMED RATHER THAN DERIVED. The pages reader works out the
+                // repository root two levels up from its own file, which is right in the source
+                // tree and wrong once the file is bundled into `build/server/`, where two levels
+                // up is the app rather than the checkout. The root is known here, so it is stated.
+                { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: "3000" },
               ],
