@@ -129,7 +129,7 @@ Nothing fills the held answers but a walk. The gate asks only about the files in
 
 `vocabulary` and `rows-homes` are held under a mark taken over the page shape and `CODE_DIRS`, which does not name `tools/`, where `rows-homes` is worked out. `astra-page-index` holds that one.
 
-`cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop. It is what the last intent is aimed at.
+`cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop.
 
 `domain/the-graph` writes its Condition and its `Alan Approves` rule in the word "kind", which no domain defines. `domain/graph-producer` says "node type" and "edge type" for the same thing. Whether "kind" gives way to "type" everywhere is open; the intents here are settled case by case.
 
