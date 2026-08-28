@@ -3,8 +3,15 @@ import { z } from "zod"
 import { authenticate } from "./auth"
 import { handleCgi } from "./cgi"
 import { handlePushEvent } from "./push-event"
+import { transportRepo } from "./repos"
 
 const PORT = z.coerce.number().int().positive().default(3000).parse(process.env.PORT)
+
+// The three internal endpoints below answer about the repository the pipeline runs on, which is
+// akasha. Each spelled `alan/code.git` in its own body, so they went on answering about a retired
+// repository once the work moved, and a fourth would have spelled it again. The path is taken
+// from the transport's own register, which is also what keeps that repo stored and mirrored.
+const ANSWERED_ABOUT = transportRepo("akasha").bareRepoPath
 
 const GIT_ROUTE = /^\/([^/]+\/[^/]+\.git)\/(info\/refs|git-upload-pack|git-receive-pack)$/
 const GIT_ROUTE_CAPTURES = z.tuple([z.string(), z.string()])
@@ -36,7 +43,7 @@ const server = Bun.serve({
         return Response.json({ error: "base and head query params required" }, { status: 400 })
       }
       try {
-        const repoDir = "/data/git/repositories/alan/code.git"
+        const repoDir = ANSWERED_ABOUT
         const proc = Bun.spawn(["git", "diff", "--name-only", base, head], {
           cwd: repoDir,
           stdout: "pipe",
@@ -81,7 +88,7 @@ const server = Bun.serve({
         )
       }
       try {
-        const repoDir = "/data/git/repositories/alan/code.git"
+        const repoDir = ANSWERED_ABOUT
         const proc = Bun.spawn(["git", "merge-base", "--is-ancestor", commit, ancestorOf], {
           cwd: repoDir,
           stdout: "pipe",
@@ -109,7 +116,7 @@ const server = Bun.serve({
         return new Response("Forbidden", { status: 403 })
       }
       try {
-        const repoDir = "/data/git/repositories/alan/code.git"
+        const repoDir = ANSWERED_ABOUT
         const proc = Bun.spawn(["git", "for-each-ref", "--format=%(objectname)", "refs/heads/"], {
           cwd: repoDir,
           stdout: "pipe",
