@@ -1,10 +1,10 @@
 import { camelizeKey } from "@shared/pages-access/file-rows"
 import { parseViewDataJSON, type ViewDataJSON, type ViewFilter, type ViewLayout, type ViewSort } from "@shared/pages-core/schema/view-data"
+import { pageQueryTimeIn } from "@shared/pages-core/view/page-query-times"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined
 
-const QUERY_TIMES: ReadonlySet<string> = new Set(["now", "eso-day", "eso-day-next", "wake-day"])
 const TODAY = { sentinel: "today" } as const
 
 const VIEW_LAYOUTS: readonly ViewLayout[] = [
@@ -72,7 +72,7 @@ type Bound = { readonly operator: string; readonly value: unknown }
 
 function boundBelow(raw: unknown): Bound {
   const text = textOf(raw)
-  if (text === undefined || !QUERY_TIMES.has(text)) return { operator: "lt", value: raw }
+  if (text === undefined || pageQueryTimeIn(text) === null) return { operator: "lt", value: raw }
   return text === "eso-day-next"
     ? { operator: "lte", value: TODAY }
     : { operator: "lt", value: TODAY }
@@ -80,7 +80,7 @@ function boundBelow(raw: unknown): Bound {
 
 function boundAbove(raw: unknown): Bound {
   const text = textOf(raw)
-  if (text === undefined || !QUERY_TIMES.has(text)) return { operator: "gte", value: raw }
+  if (text === undefined || pageQueryTimeIn(text) === null) return { operator: "gte", value: raw }
   return text === "eso-day-next"
     ? { operator: "gt", value: TODAY }
     : { operator: "gte", value: TODAY }
