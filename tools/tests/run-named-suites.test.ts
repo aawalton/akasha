@@ -19,6 +19,9 @@ const GREEN = [
 
 const RED = [" 0 pass", " 5 fail", "Ran 5 tests across 1 file. [196.00ms]"].join("\n")
 
+// Bun printed per-case failures and then no summary at all: no `Ran N tests`, no `N fail`.
+const NO_SUMMARY = Array.from({ length: 142 }, (_, i) => `(fail) case ${i + 1} [0.1ms]`).join("\n")
+
 const oneRun = (bunExitCode: number, output: string) => [{ label: "unit", bunExitCode, output }]
 
 describe("verdictForNamedSuites — the false red an agent sees", () => {
@@ -80,6 +83,79 @@ describe("verdictForNamedSuites — a run that could not be observed", () => {
   test("an xargs-collapsed signal death refuses too", () => {
     const v = verdictForNamedSuites({ runs: oneRun(125, ""), observedAtMs: AT })
     expect(v.kind).toBe("fail")
+  })
+
+  test("a group that printed no summary voids the verdict, though other groups reported", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: UNTYPED, bunExitCode: 1, output: NO_SUMMARY },
+        { label: "unit", bunExitCode: 1, output: RED },
+      ],
+      observedAtMs: AT,
+    })
+    expect(v.kind).toBe("fail")
+    expect(v.reason).toContain("certifies nothing")
+  })
+
+  test("the void names the group that printed nothing", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: UNTYPED, bunExitCode: 1, output: NO_SUMMARY },
+        { label: "unit", bunExitCode: 1, output: RED },
+      ],
+      observedAtMs: AT,
+    })
+    if (v.kind !== "fail") throw new Error(`expected fail, got ${v.kind}`)
+    expect(v.reason).toContain(UNTYPED)
+    expect(v.findings.map((f) => f.at)).toContain(UNTYPED)
+  })
+
+  test("the void claims no failing-test count, the counted groups not being the run", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: UNTYPED, bunExitCode: 1, output: NO_SUMMARY },
+        { label: "unit", bunExitCode: 1, output: RED },
+      ],
+      observedAtMs: AT,
+    })
+    expect(v.reason).not.toContain("failing test(s)")
+  })
+
+  test("what the groups that did report found is still named, so nothing is lost", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: UNTYPED, bunExitCode: 1, output: NO_SUMMARY },
+        { label: "unit", bunExitCode: 1, output: RED },
+      ],
+      observedAtMs: AT,
+    })
+    if (v.kind !== "fail") throw new Error(`expected fail, got ${v.kind}`)
+    expect(v.findings.map((f) => f.at)).toContain("unit")
+    expect(v.findings.some((f) => f.detail.includes("5 failing test(s)"))).toBe(true)
+  })
+
+  test("a group that printed no summary and exited 0 is not a pass", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: "unit", bunExitCode: 0, output: GREEN },
+        { label: UNTYPED, bunExitCode: 0, output: NO_SUMMARY },
+      ],
+      observedAtMs: AT,
+    })
+    expect(v.kind).toBe("fail")
+  })
+
+  test("a run whose every group printed a summary still passes", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: "unit", bunExitCode: 0, output: GREEN },
+        { label: "cli", bunExitCode: 0, output: GREEN },
+        { label: "database", bunExitCode: 99, output: GREEN },
+      ],
+      observedAtMs: AT,
+    })
+    expect(v.kind).toBe("pass")
+    expect(decideNamedSuitesExit(v)).toBe(0)
   })
 })
 

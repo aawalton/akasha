@@ -117,6 +117,36 @@ export function verdictForNamedSuites(input: {
     ),
   } as const
 
+  // A RUN THAT PRINTED NO SUMMARY CERTIFIES NOTHING, so it voids the verdict rather than
+  // contributing to it. Such a group has an empty `failTotals` and a null `filesRan`, so left in
+  // the sums it lands as no failures over no files and is absorbed by whichever groups did report:
+  // that is how a run of 143 failures once answered `2 failing test(s)` over 120 of 688 files. A
+  // signal death is excluded here because the crash branch below says the same thing more exactly.
+  const unobserved = groups.filter((g) => g.filesRan === null && g.runVerdict !== "crash")
+  const [firstSilent, ...restSilent] = unobserved
+  if (firstSilent !== undefined) {
+    const silent = (g: SuiteRunEvidence): VerdictFinding => ({
+      detail: `printed no test-result summary, so nothing it was handed is accounted for (bun exited ${g.bunExitCode})`,
+      at: g.label,
+    })
+    const counted = groups
+      .filter((g) => tally(g.failTotals) > 0)
+      .map(
+        (g): VerdictFinding => ({
+          detail: `${tally(g.failTotals)} failing test(s) — bun's own output is on stderr above`,
+          at: g.label,
+        })
+      )
+    return {
+      ...claim,
+      kind: "fail",
+      reason:
+        `this run certifies nothing: ${unobserved.length} group(s) printed no test-result ` +
+        `summary — ${unobserved.map((g) => g.label).join(", ")}`,
+      findings: [silent(firstSilent), ...restSilent.map(silent), ...counted],
+    }
+  }
+
   const [firstFailed, ...restFailed] = groups.filter((g) => g.runVerdict === "fail")
   if (firstFailed !== undefined) {
     const finding = (g: SuiteRunEvidence): VerdictFinding => ({
