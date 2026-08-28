@@ -121,7 +121,7 @@ export const WHOLE: Readonly<Record<string, string>> = {
   "seen-at": "2026-08-13T09:00:00Z",
   "points-at": ROOT_ID,
   upward: "none",
-  held: "instructions:leaves/*.md",
+  held: "akasha:leaves/*.md",
   carved: "whatever this states",
   parents: "one-domain",
   type: "boolean",
