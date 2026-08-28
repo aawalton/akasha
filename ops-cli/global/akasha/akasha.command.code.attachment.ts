@@ -32,6 +32,7 @@ export function outsideNow(
   bodies: string
   discardedTo: string | null
   calledAs: string
+  from: string
 } {
   return {
     root: `${REPO}/akasha`,
@@ -40,6 +41,7 @@ export function outsideNow(
     bodies: `${REPO}/.git/data/bodies`,
     discardedTo: thrownAway,
     calledAs: "ops akasha",
+    from: process.cwd(),
   }
 }
 

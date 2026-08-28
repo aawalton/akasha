@@ -11,6 +11,7 @@ export type Outside = {
   readonly bodies: string
   readonly discardedTo: string | null
   readonly calledAs: string
+  readonly from: string
 }
 
 export type Answer = {
@@ -27,6 +28,7 @@ export type Given = {
   readonly writer: string | null
   readonly discardedTo: string | null
   readonly calledAs: string
+  readonly from: string
 }
 
 export type Answering = (argv: readonly string[], given: Given) => Answer
@@ -108,5 +110,6 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     writer: outside.seat,
     discardedTo: outside.discardedTo,
     calledAs: `${outside.calledAs} ${named}`,
+    from: outside.from,
   })
 }

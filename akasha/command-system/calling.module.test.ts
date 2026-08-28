@@ -18,6 +18,7 @@ function outsideOf(root: string): Outside {
     bodies: `${root}/bodies`,
     discardedTo: null,
     calledAs: "ops akasha",
+    from: root,
   }
 }
 
@@ -182,6 +183,7 @@ test("a real call of read through calling answers with the file it was given", (
       bodies: `${root}/bodies`,
       discardedTo: null,
       calledAs: "ops akasha",
+      from: AKASHA,
     })
     expect(answer.code).toBe(0)
     expect(answer.report.join("\n")).toContain("akasha-import.domain.ts")
@@ -203,6 +205,7 @@ test("a real call of read refuses a pipe, so the record is never written from on
       bodies: `${root}/bodies`,
       discardedTo: "a pipe",
       calledAs: "ops akasha",
+      from: AKASHA,
     })
     expect(answer.code).toBe(1)
     expect(answer.refusals.join("\n")).toContain("nothing was read")

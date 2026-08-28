@@ -20,6 +20,7 @@ export type Where = {
   readonly writer: string | null
   readonly discardedTo: string | null
   readonly calledAs: string
+  readonly from: string
 }
 
 export type Answer = {
@@ -42,6 +43,10 @@ function numbered(body: string): string {
   return lines.map((one, at) => `${String(at + 1).padStart(6)}\t${one}`).join("\n")
 }
 
+function namedFor(path: string, where: Where): string {
+  return path.startsWith(`${where.from}/`) ? path.slice(where.from.length + 1) : path
+}
+
 function whenText(at: number): string {
   return new Date(at).toISOString().replace("T", " ").slice(0, 19)
 }
@@ -59,17 +64,28 @@ function decodes(bytes: Buffer): string | null {
   }
 }
 
-function snapshot(path: string): Buffer | null {
+type Snapshot =
+  | { readonly kind: "held"; readonly bytes: Buffer }
+  | { readonly kind: "gone" }
+  | { readonly kind: "moving" }
+
+function snapshot(path: string): Snapshot {
   for (let go = 0; go < 3; go++) {
+    let before: number
+    let bytes: Buffer
     try {
-      const before = statSync(path).mtimeMs
-      const bytes = readFileSync(path)
-      if (statSync(path).mtimeMs === before) return bytes
+      before = statSync(path).mtimeMs
+      bytes = readFileSync(path)
     } catch {
-      return null
+      return { kind: "gone" }
+    }
+    try {
+      if (statSync(path).mtimeMs === before) return { kind: "held", bytes }
+    } catch {
+      return { kind: "gone" }
     }
   }
-  return null
+  return { kind: "moving" }
 }
 
 type Emission = {
@@ -80,14 +96,22 @@ type Emission = {
 }
 
 function emit(one: Target, where: Where, full: boolean): Emission {
-  const bytes = snapshot(one.path)
-  if (bytes === null) {
+  const took = snapshot(one.path)
+  if (took.kind === "gone") {
+    return {
+      headline: `${one.named} — no file stands there, so nothing was read and nothing was recorded of it`,
+      body: null,
+      oid: null,
+    }
+  }
+  if (took.kind === "moving") {
     return {
       headline: `${one.named} — it moved while it was being read, so nothing was recorded of it`,
       body: null,
       oid: null,
     }
   }
+  const bytes = took.bytes
   const text = decodes(bytes)
   if (text === null) {
     const lead = [...bytes.subarray(0, 8)].map((b) => b.toString(16).padStart(2, "0")).join("")
@@ -208,9 +232,7 @@ export function read(argv: readonly string[], where: Where): Answer {
         continue
       }
       if (what.kind === "many") {
-        const among = what.among.map(
-          (each) => `  --file-path ${each.path.slice(where.root.length + 1)}`
-        )
+        const among = what.among.map((each) => `  --file-path ${namedFor(each.path, where)}`)
         refusals.push(
           `\`${named}\` is carried by ${what.among.length} pages, and a slug is unique among the ` +
             `pages of its page type, so this names more than one:\n${among.join("\n")}`
@@ -219,7 +241,7 @@ export function read(argv: readonly string[], where: Where): Answer {
       }
       path = what.at.path
     } else {
-      path = resolve(where.root, one)
+      path = resolve(where.from, one)
     }
     if (!path.startsWith(`${where.root}/`)) {
       refusals.push(`${one} is outside the akasha folder, which is all this reads`)
@@ -230,7 +252,7 @@ export function read(argv: readonly string[], where: Where): Answer {
       continue
     }
     seen.add(path)
-    targets.push({ path, named: path.slice(where.root.length + 1) })
+    targets.push({ path, named: namedFor(path, where) })
   }
   if (targets.length === 0) return { report: [], refusals, code: 1 }
 
@@ -243,7 +265,7 @@ export function read(argv: readonly string[], where: Where): Answer {
 
   const required: Target[] = []
   for (const path of [...owed].sort()) {
-    required.push({ path, named: path.slice(where.root.length + 1) })
+    required.push({ path, named: namedFor(path, where) })
   }
 
   const conditional = conditionalFor(
@@ -261,7 +283,7 @@ export function read(argv: readonly string[], where: Where): Answer {
     for (const one of conditional) {
       const at = where.corpus.at(one)
       if (at === null) continue
-      kept.push(`${COND}${at.slug} — ${one.slice(where.root.length + 1)}`)
+      kept.push(`${COND}${at.slug} — ${namedFor(one, where)}`)
       kept.push(`- **${at.slug}** — ${where.corpus.definitionOf(one)}`)
     }
   }
