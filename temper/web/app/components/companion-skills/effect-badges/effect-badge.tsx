@@ -1,5 +1,5 @@
 import { Badge } from "@shared/design-system"
-import { assertNever } from "../../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   formatCooldown,
   formatDamageType,

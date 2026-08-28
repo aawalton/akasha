@@ -2,7 +2,7 @@
 
 import { ButtonBadge, CardTitleBadges, PanelCard } from "@shared/design-system"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
-import { requireGet } from "../../../../../shared/utils/narrow/src/require-get"
+import { requireGet } from "@shared/utils-narrow/require-get"
 import { companionTraits } from "@temper/game-companions-core/equipment/companion-traits-data"
 import { getQualityClassName } from "@temper/game-companions-ui/companion-equipment-quality-helpers"
 import type { CompanionGearNeed } from "@temper/game-items-core/companion-gear-diff"

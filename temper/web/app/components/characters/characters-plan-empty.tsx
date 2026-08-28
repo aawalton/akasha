@@ -2,7 +2,7 @@
 
 import { Button, Card, CardContent, LayoutLink } from "@shared/design-system"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { Gamepad2, Loader2 } from "lucide-react"
 import type { PlanEmptyState } from "@/components/characters/characters-plan-empty-state"
 

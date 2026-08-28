@@ -9,7 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { ALL_STOCKED_OPTIONS } from "@temper/game-items-rules-core/filters/all-stocked-filter"
 import { KEEP_QUANTITY_OPTIONS } from "@temper/game-items-rules-core/filters/keep-quantity-filter"
 import { STOCK_THRESHOLD_OPTIONS } from "@temper/game-items-rules-core/filters/stock-threshold-filter"

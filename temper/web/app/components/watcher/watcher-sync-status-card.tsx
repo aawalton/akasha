@@ -1,7 +1,7 @@
 "use client"
 
 import { Card, CardContent, Heading, Text } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { AlertTriangle, CheckCircle2, CircleDashed, Clock, FileUp } from "lucide-react"
 import { formatRelativeTime } from "@/components/utils/format-relative-time"
 import type { WatcherSyncSourceCounts, WatcherSyncSummary } from "@/lib/watcher-sync-status"

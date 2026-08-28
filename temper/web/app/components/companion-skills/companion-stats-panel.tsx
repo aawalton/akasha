@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard, ResponsiveColumns, Text } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   type CompanionMetricGroup,
   getCompanionMetricTree,

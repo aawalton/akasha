@@ -5,7 +5,7 @@ import { Badge, CardTitleBadges, PanelCard, Text } from "@shared/design-system"
 import { ItemRow } from "@shared/design-patterns/components/item-row"
 import { useSetToggle } from "@shared/design-patterns/hooks/use-set-toggle"
 import { buildNodePath } from "@shared/design-patterns/utils/path"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { ESO_QUALITY_TEXT_CLASSES } from "@temper/game-characters-equipment-ui/quality-text-classes"
 import type {
   ActionGroup,

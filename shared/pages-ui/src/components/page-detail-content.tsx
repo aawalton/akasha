@@ -6,7 +6,7 @@ import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-pr
 import { resolveDisplayKind } from "@shared/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@shared/pages-core/schema/pages"
 import type { PageTypeSlug } from "@shared/pages-url"
-import { assertNever } from "../../../../utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import type { MediaVariant } from "../media/page-media-player"
 import { useAllPages } from "../supabase/hooks"

@@ -1,5 +1,5 @@
 import { READER_PROSE_TYPOGRAPHY } from "@shared/pages-ui/components/reader-typography"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ClientProseSegment } from "../lib/client-story-session"
 import { SystemCard, UnavailableSystemCard } from "./system-card"
 import { SystemWindowCard } from "./system-window-card"

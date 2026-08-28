@@ -1,4 +1,4 @@
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { MetricChange } from "@temper/game-characters-stats/compare-stats"
 import { getMetricDisplayName } from "@temper/game-characters-stats/metrics/metrics.generated"
 import {

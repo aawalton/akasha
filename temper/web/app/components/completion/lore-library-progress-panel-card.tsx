@@ -1,5 +1,5 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type {
   CharacterLoreLibraryProgress,

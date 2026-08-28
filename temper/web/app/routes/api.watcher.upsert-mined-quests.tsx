@@ -1,5 +1,5 @@
 import { patchRows } from "@shared/pages-query"
-import { isRecord } from "../../../../shared/utils/narrow/src/is-record"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { MINE_NAME, MINED_QUEST_PAGE_TYPE } from "@/lib/mined-item-rows"
 import { validateWatcherToken } from "@/lib/watcher-auth"
 import type { Route } from "./+types/api.watcher.upsert-mined-quests"

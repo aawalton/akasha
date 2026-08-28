@@ -10,7 +10,7 @@ import {
 } from "@shared/open-questions"
 import { usePage } from "@shared/pages-ui/supabase/use-page"
 import { PageTypeSlug } from "@shared/pages-url"
-import { assertNever } from "../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { type FormEvent, useState } from "react"
 import { useNavigate } from "react-router"
 import { SignedOutNotice } from "~/components/signed-out-notice"

@@ -1,7 +1,7 @@
 import { useSurface } from "@shared/design-system"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { assertNever } from "../../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import {
   formatDamageType,
   formatTargetInfo,

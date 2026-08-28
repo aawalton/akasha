@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard, Skeleton, Text } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { CompanionBaseRoleId } from "@temper/game-companions-core/companion-base-roles-data"
 import type { CompanionFormulaStats } from "@temper/game-companions-core/formulas/companion-skill-formula"
 import type { RotationResult } from "@temper/game-companions-core/rotation/rotation-types"

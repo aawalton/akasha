@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, mock } from "bun:test"
-import { requireFirst } from "../../../utils/narrow/src/require-first"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { PropertyDefinition } from "@shared/pages-core/types"

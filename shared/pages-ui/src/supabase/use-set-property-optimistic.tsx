@@ -2,7 +2,7 @@
 
 import { type PatchPageArgs, patchPage } from "@shared/pages-access/patch"
 import { useSupabase } from "@shared/supabase-rr/provider"
-import { isJson } from "../../../../utils/narrow/src/is-json"
+import { isJson } from "@shared/utils-narrow/is-json"
 import { useCallback, useMemo } from "react"
 import type { InteractionToken } from "../perf/page-card-perf"
 import { useOptimisticPatchPage } from "./mutations/use-optimistic-patch-page"

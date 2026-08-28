@@ -3,7 +3,7 @@
 import { useAuth } from "@shared/auth/use-auth"
 import { LayoutLink, ResponsiveColumns, Skeleton, Switch } from "@shared/design-system"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { extractGuildBankKeys } from "@temper/game-items-core/inventory-guild-bank-filter"
 import { useInventory } from "@temper/player-inventory-management-ui/hooks-inventory"
 import { useManagedGuildBanks } from "@temper/player-inventory-management-ui/hooks-inventory-settings"

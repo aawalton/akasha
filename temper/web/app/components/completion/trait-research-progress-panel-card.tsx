@@ -1,6 +1,6 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
-import { requireGet } from "../../../../../shared/utils/narrow/src/require-get"
+import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireGet } from "@shared/utils-narrow/require-get"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import type {
   CharacterTraitResearchProgress,

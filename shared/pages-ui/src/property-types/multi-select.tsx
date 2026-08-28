@@ -4,7 +4,7 @@ import { Badge } from "@shared/design-badges/components/badge"
 import { useBadgeLayoutContext } from "@shared/design-badges/components/badge-layout-context"
 import type { PageDataJSON } from "@shared/pages-core/types"
 import { resolveBadgeVariant } from "@shared/pages-core/color-rules"
-import { requireGet } from "../../../../utils/narrow/src/require-get"
+import { requireGet } from "@shared/utils-narrow/require-get"
 
 import { MultiSelectPopover } from "../components/multi-select-popover"
 import type { PropertyDefinition } from "@shared/pages-core/types"

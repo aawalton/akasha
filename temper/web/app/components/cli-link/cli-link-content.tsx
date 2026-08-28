@@ -3,7 +3,7 @@
 import { Button, SurfaceProvider, useSurface } from "@shared/design-system"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { isRecord } from "../../../../../shared/utils/narrow/src/is-record"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { useCallback, useState } from "react"
 import { type CliLinkFailure, describeCliLinkFailure } from "./cli-link-failure"
 

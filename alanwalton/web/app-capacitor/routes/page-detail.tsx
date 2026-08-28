@@ -7,7 +7,7 @@ import { getPageDisplay } from "@shared/pages-ui/capabilities/page-display-regis
 import { useAllPages, usePageByIdSuffix } from "@shared/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@shared/pages-ui/supabase/use-reader-neighbors"
 import { PageTypeSlug, parsePageHrefParam } from "@shared/pages-url"
-import { assertNever } from "../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
 import { AwenRemoteReader } from "~/awen/components/awen-remote-reader"

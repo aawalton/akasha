@@ -8,7 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { KNOWN_OPTIONS } from "@temper/game-items-rules-core/filters/known-filter"
 import { RECONSTRUCTED_OPTIONS } from "@temper/game-items-rules-core/filters/reconstructed-filter"
 import { TRANSMUTED_OPTIONS } from "@temper/game-items-rules-core/filters/transmuted-filter"

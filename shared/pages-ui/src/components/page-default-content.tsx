@@ -9,7 +9,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@shared/design
 import { IconPicker } from "@shared/design-patterns/components/icon-picker"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"
 import { PageTypeSlug } from "@shared/pages-url"
-import { isRecord } from "../../../../utils/narrow/src/is-record"
+import { isRecord } from "@shared/utils-narrow/is-record"
 import { BlockEditor } from "../block-editor/block-editor"
 import { MarkdownRenderer } from "../markdown/markdown-renderer"
 import { MultiRelationPropertyBadge } from "../property-types/multi-relation"

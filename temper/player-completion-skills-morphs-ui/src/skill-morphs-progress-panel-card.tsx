@@ -1,5 +1,5 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import { classes } from "@temper/game-characters-classes/classes-data"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"
 import type { SkillLineId } from "@temper/game-characters-skill-lines/skill-lines-data"

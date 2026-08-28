@@ -1,6 +1,6 @@
 "use client"
 
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import type { RuleCardFilterChipItemProps } from "./rule-card-filter-chips-item/filter-id"
 import {

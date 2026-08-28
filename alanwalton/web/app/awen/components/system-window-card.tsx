@@ -1,7 +1,7 @@
 import type { ItemAward, QuestWindow, StatusAssessment, SystemWindow, TalentActivation } from "@alanwalton/awen-core/system-window-schema"
 import { SurfaceProvider } from "@shared/design-system"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import { SystemChoiceCard } from "./system-choice-card"
 
 function Field({ label, value }: { label: string; value: string }) {

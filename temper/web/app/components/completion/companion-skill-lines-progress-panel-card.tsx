@@ -1,6 +1,6 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
-import { requireGet } from "../../../../../shared/utils/narrow/src/require-get"
+import { requireFirst } from "@shared/utils-narrow/require-first"
+import { requireGet } from "@shared/utils-narrow/require-get"
 import type { CompanionSkillLineProgress } from "@temper/player-completion/completion-ui-types"
 import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
 import type { CompanionCardId } from "@temper/player-completion/completion-card-registry"

@@ -1,7 +1,7 @@
 "use client"
 
 import { Text } from "@shared/design-system"
-import { assertNever } from "../../../../../shared/utils/narrow/src/assert-never"
+import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { ReactNode } from "react"
 import type { PricingSourceNoteKind } from "./pricing-source"
 

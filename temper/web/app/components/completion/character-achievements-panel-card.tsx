@@ -1,5 +1,5 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { requireFirst } from "../../../../../shared/utils/narrow/src/require-first"
+import { requireFirst } from "@shared/utils-narrow/require-first"
 import {
   ACHIEVEMENT_CATEGORY_ACTIVITY,
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
