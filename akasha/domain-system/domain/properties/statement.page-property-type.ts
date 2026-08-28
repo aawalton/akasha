@@ -1,4 +1,4 @@
-import type { PagePropertyType } from "../page/page-property-type.page-type.ts"
+import type { PagePropertyType } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 
 export type Statement = string
 

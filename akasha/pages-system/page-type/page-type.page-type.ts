@@ -1,5 +1,5 @@
-import type { Domain } from "../domain/domain.page-type.ts"
-import type { ExtendsSlug } from "./extends-slug.page-property-type.ts"
+import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { ExtendsSlug } from "./properties/extends-slug.page-property-type.ts"
 
 export type PageType = Domain & {
   extendsSlug: ExtendsSlug | null
@@ -10,5 +10,5 @@ export const pageType = {
   slug: "page-type",
   definition: "the specification for a kind of page",
   extendsSlug: "domain",
-  design: ["The slug of a page type is singular."],
+  condition: ["The slug of a page type is singular."],
 } as const satisfies PageType
