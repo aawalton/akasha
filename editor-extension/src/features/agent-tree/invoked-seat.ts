@@ -7,7 +7,7 @@ import { z } from 'zod';
 import { SEAT_MODE_SCHEMA } from '../../seat/mode.ts';
 import { type AgentNode } from './forest.ts';
 import { type SeatClick } from './tree.ts';
-import { forest, seatTabs } from './tree-state.ts';
+import { seatTabs } from './tree-state.ts';
 
 /**
  * The clicked row's id and name, or nothing where the argument is not one.

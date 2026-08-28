@@ -8,8 +8,8 @@ import { seatTerminalOptions } from '../../seat/editor-group.ts';
 import { readSeatLookup } from './columns.ts';
 import { attachCommandLine, resumePrompt, type SeatStep } from './toggles.ts';
 import { type ToggleTarget } from './invoked-seat.ts';
-import { columnForSeat, showSeat, terminalForSeat } from './show-seat.ts';
-import { columns, output } from './tree-state.ts';
+import { columnForSeat, terminalForSeat } from './show-seat.ts';
+import { output } from './tree-state.ts';
 
 /**
  * The ceiling on one `ops` call. A revive hydrates a transcript from the object
