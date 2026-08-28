@@ -55,7 +55,7 @@ function isAcceptedSelectorKey(key: string): boolean {
 
 const NODE_NAME_ALLOW: ReadonlySet<string> = new Set([
   "infra/voice-infer/voice-infer.cluster-service.code.attachment.ts",
-  "packages/infra/voice-infer/k8s/generated/deployment.generated.yaml",
+  "infra/voice-infer/generated/deployment.generated.yaml",
 ])
 
 export const ACCEPTED_SELECTOR_KEYS_HUMAN = `${[...ACCEPTED_SELECTOR_KEYS]

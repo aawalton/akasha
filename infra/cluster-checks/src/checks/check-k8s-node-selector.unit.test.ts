@@ -176,7 +176,7 @@ describe("evaluateManifestNode — nodeName (#16049, the spelling the ban missed
   test("the tracked voice-infer exception is allowed, and only at its exact path", () => {
     const allowed = evaluateManifestNode(
       baseAttrs({
-        path: "packages/infra/voice-infer/k8s/generated/deployment.generated.yaml",
+        path: "infra/voice-infer/generated/deployment.generated.yaml",
         nodeName: "node-02",
       })
     )
@@ -184,7 +184,7 @@ describe("evaluateManifestNode — nodeName (#16049, the spelling the ban missed
 
     const sibling = evaluateManifestNode(
       baseAttrs({
-        path: "packages/infra/voice-infer/k8s/generated/other.generated.yaml",
+        path: "infra/voice-infer/generated/other.generated.yaml",
         nodeName: "node-02",
       })
     )
