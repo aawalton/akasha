@@ -11,6 +11,4 @@ domain-parent-slug: domain/akasha-system
 
 # Condition
 
-Nothing migrates before what it rests on.
-
-A mechanical migration is done by a tool, never by hand.
+A mechanical migration is done by a generalized akasha command.
