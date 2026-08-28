@@ -18,6 +18,7 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./equipment-icon": "./src/equipment-icon.tsx",
     "./*": "./src/*.ts"
   },
   "scripts": {

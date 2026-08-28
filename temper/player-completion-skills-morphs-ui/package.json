@@ -26,6 +26,8 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./skill-morphs-progress-panel-card": "./src/skill-morphs-progress-panel-card.tsx",
+    "./subclassing-skill-morphs-panel-card": "./src/subclassing-skill-morphs-panel-card.tsx",
     "./*": "./src/*.ts"
   },
   "scripts": {

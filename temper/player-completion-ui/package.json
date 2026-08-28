@@ -26,6 +26,9 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./completion-activity-mode-context": "./src/completion-activity-mode-context.tsx",
+    "./completion-panel-card": "./src/completion-panel-card.tsx",
+    "./completion-search-context": "./src/completion-search-context.tsx",
     "./*": "./src/*.ts"
   },
   "scripts": {
