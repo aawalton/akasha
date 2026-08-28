@@ -1,4 +1,3 @@
-
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { akashaRoot } from "../../repo/roots/roots.ts"
@@ -10,9 +9,6 @@ const COMPOSE_COMMAND = "compose-subagents"
 
 const COMPOSE_TIMEOUT_MS = 5_000
 
-// THE CLIENT SPELLS ITS DELEGATION TOOL `Agent`. That is the name `settings/agents.json`
-// writes its permission rules against, and the only name delegation carries as a tool name in
-// this account's transcripts. `TaskOutput` and `TaskStop` are other tools and are left alone.
 const DELEGATION_TOOL = "Agent"
 
 const DELEGATION_OFF =
@@ -50,11 +46,6 @@ export async function resolveSubagentDefinitions(): Promise<string | null> {
   return rendered
 }
 
-/**
- * The disallowed-tools list one launch goes out with: the seat's declared list, and the
- * delegation tool on top of it where the definitions did not compose. A launch carrying no
- * composed definitions has no preamble to give a subagent, so it dispatches none.
- */
 export function disallowedToolsForLaunch(
   declared: readonly string[],
   agentsJson: string | null

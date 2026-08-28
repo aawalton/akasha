@@ -1,4 +1,3 @@
-
 import { describe } from "bun:test"
 import {
   after,
@@ -253,9 +252,6 @@ const SCENARIOS: readonly Scenario[] = [
     }),
     standing: { containsFallbackFlag: false },
   },
-  // THE WHOLE ARGV, hand-computed from the flag order in `buildInteractiveCLIArgs` and from
-  // `settings/launch-flags.json`. The pair holds that a launch either carries composed
-  // definitions or forbids delegating, and never neither.
   {
     name: "a launch whose definitions composed carries them and leaves delegation alone",
     ported: () => ({

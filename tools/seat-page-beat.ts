@@ -1,23 +1,3 @@
-/**
- * A seat page write, run as a process of its own.
- *
- * WHY THIS IS A PROCESS AND NOT A FUNCTION. A supervisor outlives every write it makes, and Bun
- * resolves a module once at process start, so whatever a supervisor imports is frozen at the
- * moment it booted. A composer corrected on disk stays inert in every running supervisor while
- * the frozen copy goes on undoing the correction at the next beat: `e951e30f8` gave every seat
- * page its `slug:` at 18:39:19 and `dd96cd8b6` stripped it back off twenty-three seconds later,
- * that one line its whole diff, under this writer's own commit message. The one seat with no
- * supervisor was the one seat that kept it.
- *
- * So a supervisor holds an agent id and a verb, and nothing else. Everything that decides what a
- * seat page says is read from disk here, on the call, which puts a correction into the next beat
- * and leaves staleness as nothing anyone has to detect.
- *
- * NOTHING A SUPERVISOR IMPORTS MAY BE ADDED TO THIS FILE'S CALLERS. What the caller keeps is a
- * path and an argument list; every judgement belongs on this side of the spawn, or it is frozen
- * again and this file has bought nothing.
- */
-
 import { resolveRoots } from "../repo/roots/roots.ts"
 import { fail } from "./lib/command.ts"
 import { type Outcome } from "./lib/gated-write.ts"
@@ -29,7 +9,6 @@ import { sessionRecordOf } from "./lib/seat-session.ts"
 import { type Stated, fallBackToHistory, statedOf } from "./lib/seat-stated.ts"
 import { transcriptRecordOf } from "./lib/seat-transcript-path.ts"
 
-/** What the caller reads back: the outcome, and the name this resolved, for the caller's log. */
 export interface BeatReport {
   readonly outcome: Outcome
   readonly seat: string | null
@@ -43,18 +22,6 @@ function valueOf(argv: readonly string[], flag: string): string | null {
   return value
 }
 
-/**
- * The seat's stated attributes, with the session the running supervisor holds laid over them.
- *
- * THE SUPERVISOR HANDS OVER ITS STATE AND NONE OF THE JUDGEMENT. Which agent a supervisor is
- * running and which session it has open are the only two facts no file on disk holds, so they
- * cross the spawn as they stand and are weighed here. A supervisor that decided this for itself
- * would freeze the decision, which is what this file exists to stop.
- *
- * The session applies only where the supervisor is running THIS seat: a supervisor running some
- * other agent has a session belonging to that one, and laying it over this page would hand a
- * seat another seat's session.
- */
 export function statedForPage(
   agentId: string,
   account: string | null = null,
@@ -110,8 +77,6 @@ export function beat(argv: readonly string[]): BeatReport {
   )
   const outcome = writeSeatPage(stated, seat)
   if (outcome.kind !== "unstated") return { outcome, seat }
-  // A seat whose principal is another seat states nothing until the seat above it is named, and
-  // only the repository's history still holds that once the page it stood in is gone.
   const above = parentFromHistory(agentId, roots)
   if (above === null) return { outcome, seat }
   return { outcome: writeSeatPage(stated, seat, above), seat }

@@ -1,5 +1,4 @@
-
-import { commitAuthor } from "../../agent/commit-author"
+import { commitAuthor } from "../../agent/commit-author.ts"
 import { git } from "../../repo/git/git.ts"
 
 const FORMATTABLE = [".ts", ".tsx", ".js", ".jsx", ".json", ".css"]
@@ -8,19 +7,6 @@ export type WorktreeCommit =
   | { readonly ok: true; readonly sha: string }
   | { readonly ok: false; readonly why: string }
 
-/**
- * Which files are staged in `root` under `filter`, or null where git could not say.
- *
- * AN EMPTY ARRAY IS THE ANSWER "NOTHING IS STAGED", AND A FAILED CALL HAS NO ANSWER. Both callers
- * below stop on either, but on faults that are not the same: an empty index means the commit is
- * pointless and re-running changes nothing, while a call that reached no answer says nothing about
- * the index and is worth running again. Folded together they told a caller the root held nothing to
- * commit on the strength of a question git never answered.
- *
- * THE `git add -A` ABOVE `commitWorktree`'S CALL DOES NOT COVER THIS. That add fails on an index
- * git cannot parse, which is the same read; it never touches HEAD, so a `diff --cached` that cannot
- * read the tree it compares against arrives here with the add already green.
- */
 export function stagedNames(root: string, filter: readonly string[]): readonly string[] | null {
   const listed = git(root, ["diff", "--cached", "--name-only", ...filter])
   if (listed.code !== 0) return null

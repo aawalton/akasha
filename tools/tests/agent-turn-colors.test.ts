@@ -1,4 +1,3 @@
-
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
@@ -46,9 +45,6 @@ describe("the color each named seat is drawn in", () => {
   })
 })
 
-// A checkout of its own, because both halves of this reading are akasha's: the seats stand in
-// `agent/seat` and the color each state draws in is stated on its domain page. A fixture holding
-// one and borrowing the other would answer for seats that are not the ones it wrote.
 describe("which ids the seats own records answer for", () => {
   const stood = process.env.AKASHA_ROOT
   let akasha: string
@@ -67,10 +63,6 @@ describe("which ids the seats own records answer for", () => {
   beforeAll(() => {
     akasha = mkdtempSync(`${tmpdir()}/agent-turn-colors-`)
     made.push(akasha)
-    // A REPOSITORY AND NOT MERELY A DIRECTORY. `resolveRoots` names a repo only where
-    // `<root>/.git` stands, so a fixture without one is dropped from the roots silently: every
-    // reader answers as though no seat page existed anywhere, which is the same shape as a
-    // workstation running none. This marker is what makes the fixture visible at all.
     mkdirSync(`${akasha}/.git`, { recursive: true })
     mkdirSync(`${akasha}/agent/seat`, { recursive: true })
     mkdirSync(`${akasha}/pages/repo`, { recursive: true })

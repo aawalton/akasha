@@ -3,11 +3,8 @@ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "nod
 import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
 import { answer } from "../lib/page-query.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
-// THE EXPRESSION THAT LANDED IS THE ONE TESTED, read off the property page rather than written
-// again here, so a rewrite of it that changes what an account reports fails this rather than
-// passing beside it.
 const landed = (slug: string): string => {
   const path = join(import.meta.dir, "..", "..", "pages", "page-property-definition", `${slug}.page-property-definition.md`)
   const found = /^expression: (.+)$/m.exec(readFileSync(path, "utf8"))
@@ -57,8 +54,6 @@ const rootFor = (pages: Readonly<Record<string, string>>): string => {
   return root
 }
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
 const roots = (root: string): Roots => ({ akasha: root })
 
 const PLAIN = rootFor({

@@ -21,8 +21,8 @@ import {
 } from "./lib/page-tree.ts"
 import { diskFileTree } from "../page/file-tree.ts"
 import { registryOf } from "../page/property/registry.ts"
-import { type Roots } from "../page/page"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
+import { type Roots } from "../page/page.ts"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 
 const HELP = `bun tools/pages.ts — print the page type tree and the property type vocabulary
 
@@ -111,10 +111,6 @@ function readPageTypeRows(roots: Roots): PageTypeRows {
     const fm = parseFrontmatter(body)
     const slug = textField(fm, "slug")
     if (slug === null) continue
-    // THE NAME SETTLES THE PAGE TYPE. This read the file's own `page-type-slug:` and drew the file
-    // under whatever that claimed, so a page whose frontmatter disagreed with its name was sorted
-    // by the answer that does not decide: a file named `.page-type.md` claiming some other type was
-    // left off the tree, and one claiming `page-type` under another name was drawn as one.
     const kind = pageTypeOf(relPath)
 
     if (kind === DOMAIN_KIND && slug.startsWith(KIND_DOMAIN)) {

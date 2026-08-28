@@ -25,8 +25,8 @@ import { placedElsewhere } from "./lib/page-type-repo.ts"
 import { locatePath, printed } from "./lib/required-reading-cli.ts"
 import { diskFileTree } from "../page/file-tree.ts"
 import { pageTypeChain } from "../page/property/frontmatter.ts"
-import { outOfBounds } from "../repo/path/path"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
+import { outOfBounds } from "../repo/path/path.ts"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 
 export interface Pending {
   readonly paths: ReadonlySet<string>
@@ -51,18 +51,6 @@ const FILE_KEY_TYPE = "file"
 
 const PACKAGE_REPO_KEY = "repo"
 
-/**
- * Where a repository's package manifests stand.
- *
- * A REPOSITORY ANSWERS THE ROOT HANDED IN UNLESS IT IS CLONED SEPARATELY HERE. An absorbed name
- * outlives its checkout in package frontmatter, and `rootFor` throws for a repository nothing has
- * cloned — so asking it for one took down every caller wanting to know what a file said to be in
- * that tree must have read. What is on disk answers that, rather than a list of the absorbed names:
- * the repository absorbed after such a list was written is the one it would break on.
- *
- * `akasha` ANSWERS THE ROOT HANDED IN THOUGH IT IS CLONED. Callers hand in the root they are asking
- * about, and a test points that at a tree of its own.
- */
 function rootOf(repo: Repo, root: string): string {
   if (repo === AKASHA) return root
   const roots = resolveRoots()

@@ -8,11 +8,11 @@ import { git } from "../repo/git/git.ts"
 import { rejectUnknownFlags, repoFlag } from "./lib/payload.ts"
 import { agentId } from "./lib/read-record.ts"
 import { RENAME_TOKEN_HELP } from "./lib/rename-token-help.ts"
-import { type Roots } from "../page/page"
-import { resolveRoots, targetRoot } from "../repo/roots/roots"
+import { type Roots } from "../page/page.ts"
+import { resolveRoots, targetRoot } from "../repo/roots/roots.ts"
 import { codeRoot } from "./lib/code-root.ts"
 import { defaultMessage, fail, land, operational, recordOwnRead } from "./lib/command.ts"
-import { type Landing } from "../repo/land/land"
+import { type Landing } from "../repo/land/land.ts"
 
 const TAKES_VALUE = ["--repo", "--old", "--new", "--at", "--message", "--message-file"]
 const STANDALONE = ["--dry-run"]
@@ -81,15 +81,6 @@ interface Sighting {
   readonly at: number
 }
 
-/**
- * A TypeScript carrying a language service, and the `@types` directory beside it.
- *
- * THE `code` REPOSITORY IS GONE. This read `roots.code`, which is `undefined` where nothing has
- * cloned it, and built the literal path `undefined/node_modules` — never there, so the install this
- * means to prefer was never looked at and whatever `tsc` stood on PATH answered instead, with
- * nothing saying so. `codeRoot()` answers the akasha root, or `CODE_ROOT` where that names a
- * directory that is really there.
- */
 async function installed(): Promise<Installed | null> {
   const beside = `${process.env.HOME ?? "/nonexistent"}/.bun/bin/tsc`
   const onPath = existsSync(beside) ? beside : Bun.which("tsc")

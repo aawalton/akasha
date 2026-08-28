@@ -4,22 +4,13 @@ import { join } from "node:path"
 import { pagesHoldShape } from "../audits/pages-hold-shape.ts"
 import type { CheckOutcome, RepoView } from "../lib/check.ts"
 import type { Repo } from "../../page/document/types.ts"
-import { over } from "../../outcome/outcome"
+import { over } from "../../outcome/outcome.ts"
 import { runChecks } from "../run-checks.ts"
 
-/** The repository beside the pages, standing empty so that no page type here claims it. */
 const BESIDE = "code-editor"
 
 const EMPTY = `empty-${BESIDE}`
 
-/**
- * A fixture checkout named as the repository the pages stand in, beside an empty checkout of the
- * one repository standing next to it.
- *
- * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
- * goes wrong only where something reaches for it. Every root named here is walked whole, so each
- * must be a directory that stands rather than a path that is merely spelled.
- */
 function rootsAt(akasha: string): RepoView["roots"] {
   return { akasha, [BESIDE]: join(akasha, EMPTY) }
 }
