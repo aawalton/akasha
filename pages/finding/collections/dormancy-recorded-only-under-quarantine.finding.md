@@ -3,7 +3,7 @@ id: 3287170f-58c7-564e-bf26-bfe8d0aa7193
 slug: dormancy-recorded-only-under-quarantine
 page-type-slug: finding
 title: "Dormancy recorded only under quarantine"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

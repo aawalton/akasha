@@ -3,7 +3,7 @@ id: 33e138d6-eca2-5fca-922c-2142cf2b3347
 slug: deprecated-wrapper-blind-to-429
 page-type-slug: finding
 title: "Deprecated wrapper blind to 429"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

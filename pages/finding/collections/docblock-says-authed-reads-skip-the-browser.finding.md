@@ -3,7 +3,7 @@ id: 475badcb-770c-550f-b443-7303f4f92f92
 slug: docblock-says-authed-reads-skip-the-browser
 page-type-slug: finding
 title: "Docblock says authed reads skip the browser"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

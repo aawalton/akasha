@@ -3,7 +3,7 @@ id: beb92c75-ff9f-5518-99bd-741015bae355
 slug: adjacency-branch-unreachable
 page-type-slug: finding
 title: "Adjacency branch unreachable"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

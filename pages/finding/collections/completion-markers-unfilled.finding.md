@@ -3,7 +3,7 @@ id: 1f038c2a-e2a5-5459-9d83-8f1b4b732d79
 slug: completion-markers-unfilled
 page-type-slug: finding
 title: "Completion markers unfilled"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim
