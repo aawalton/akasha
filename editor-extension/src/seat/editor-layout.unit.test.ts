@@ -1,13 +1,6 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import { arrangementFrom, type LayoutGroup } from './editor-layout';
+import { arrangementFrom, type LayoutGroup } from './editor-layout.ts';
 
-// Two groups: a seat terminal and a file beside it in one, a second seat and an
-// unmodelled tab in the other. The mixture is the point — a record describing
-// only terminals is one somebody has to generalise later.
 const GROUPS: readonly LayoutGroup[] = [
 	{
 		column: 1,
@@ -36,9 +29,6 @@ describe('arrangementFrom', () => {
 		expect(arrangement.groups.map((group) => group.position)).toEqual([1, 2]);
 	});
 
-	// Every tab crosses, terminal or not. A group's contents with the unmodelled tabs
-	// silently missing would be wrong rather than partial, and the page a tab writes
-	// is named for its place in the group rather than for what it shows.
 	test('carries every tab, whatever it holds', () => {
 		const arrangement = arrangementFrom(GROUPS, WINDOW);
 		expect(arrangement.groups.map((group) => group.tabs.length)).toEqual(
@@ -46,8 +36,6 @@ describe('arrangementFrom', () => {
 		);
 	});
 
-	// A terminal page is keyed on the process, so a tab that never answered one
-	// contributes no terminal rather than a terminal keyed on nothing.
 	test('names a terminal only where the tab said which process it runs', () => {
 		const groups: readonly LayoutGroup[] = [
 			{

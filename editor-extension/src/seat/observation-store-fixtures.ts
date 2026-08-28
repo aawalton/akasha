@@ -1,12 +1,7 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-import type { Fetcher } from './observation-store';
-import { createObservationStore, type ObservationStore } from './observation-store';
-import type { Observation } from './observations';
+import type { Fetcher } from './observation-store.ts';
+import { createObservationStore, type ObservationStore } from './observation-store.ts';
+import type { Observation } from './observations.ts';
 
-/** The body a `patch-state` write carries. */
 export interface Sent {
 	readonly url: string;
 	readonly writer: string;
@@ -17,13 +12,6 @@ export interface Sent {
 export const ORIGIN = 'http://pages.test';
 export const WINDOW = '4242.46800522';
 
-/**
- * The page query service, stood in for.
- *
- * It answers 200 until it is told otherwise, and every request is kept whether it
- * was answered, refused or never answered at all — a refused write is still a
- * write attempted, and telling the two apart is what the failure cases measure.
- */
 export function service(): {
 	readonly sent: readonly Sent[];
 	readonly fetcher: Fetcher;
@@ -62,7 +50,6 @@ export function service(): {
 	};
 }
 
-/** A store over a stand-in service, with a clock that moves a second a read. */
 export function makeStore(
 	options: {
 		readonly settleMs?: number;

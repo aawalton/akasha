@@ -1,19 +1,6 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import { makeStore, ORIGIN, service } from './observation-store-fixtures';
+import { makeStore, ORIGIN, service } from './observation-store-fixtures.ts';
 
-/**
- * THE KEY IS NOT ADVANCED ON A FAILED WRITE.
- *
- * The store skips a write whose observations match what the page already holds, so
- * a write counted as done when it was not is a record that stays wrong until
- * something else happens to change — silently, and for the life of the window.
- * The first case here is the negative control for the two after it: without it, a
- * `flush` that always sent would make them both pass.
- */
 describe('a write that did not reach the page is still owed', () => {
 	test('a write that landed is not sent a second time', async () => {
 		const { store, sent } = makeStore();
@@ -61,10 +48,6 @@ describe('a write that did not reach the page is still owed', () => {
 
 describe('two live windows are two pages', () => {
 	test('each window writes to the page named for it, carrying its own observations', async () => {
-		// One service, two windows. The record used to be keyed on
-		// `vscode.env.sessionId`, which is the constant `someValue.sessionId` in every
-		// served instance of this fork — so two live windows wrote one record that
-		// described neither, and every liveness check passed while it did.
 		const pages = service();
 		const first = makeStore({ service: pages, window: '1001.500' });
 		const second = makeStore({ service: pages, window: '2002.900' });
@@ -90,8 +73,6 @@ describe('two live windows are two pages', () => {
 
 		first.store.record('agent-tree', { counts: { running: 8 } });
 		await first.store.flush();
-		// The same observation from the other window is a write of its own: the two
-		// stores share nothing, so neither can silence the other.
 		second.store.record('agent-tree', { counts: { running: 8 } });
 		await second.store.flush();
 
@@ -102,10 +83,8 @@ describe('two live windows are two pages', () => {
 
 describe('reporting with no store set up', () => {
 	test('a feature that reports before anything exists is not harmed by it', async () => {
-		// The suite runs these modules with no store, and a feature must never be able
-		// to fail because the recorder was not there yet.
 		const { recordObservation, recordSweep, currentObservation, setObservationStore } =
-			await import('./observation-store');
+			await import('./observation-store.ts');
 		setObservationStore(undefined);
 		expect(() => recordObservation('agent-tree', { outcome: 'ok' })).not.toThrow();
 		expect(() =>

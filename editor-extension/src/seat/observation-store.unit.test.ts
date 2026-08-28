@@ -1,24 +1,5 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-/**
- * @fileoverview What the store sends to the window's page, and — mostly — what it does not.
- *
- * AGAINST A STAND-IN SERVICE rather than the real one, because every claim worth
- * testing here is about the request: that it is addressed to this window's page,
- * that it carries the features with their shape intact, that a refusal leaves the
- * record still owed, and above all that an unchanged observation sends nothing.
- * None of those needs a page on disk, and reaching the real service would make the
- * suite depend on it being up.
- *
- * HOW A WRITE IS COUNTED. The stand-in keeps every request it was handed, so the
- * number of writes is the length of that list. That is a firmer measurement than
- * the `writtenAt` this used to compare on disk: a write that happened and said the
- * same thing still shows up here.
- */
 import { describe, expect, test } from 'bun:test';
-import { makeStore, ORIGIN, WINDOW } from './observation-store-fixtures';
+import { makeStore, ORIGIN, WINDOW } from './observation-store-fixtures.ts';
 
 describe('the window\'s page carries what its features observed', () => {
 	test('the first observation is sent to this window\'s page and no other', async () => {
@@ -32,10 +13,6 @@ describe('the window\'s page carries what its features observed', () => {
 	});
 
 	test('the features go with their shape intact, rather than flattened or stringified', async () => {
-		// `patch-state` takes a nested object where every other write takes a flat
-		// value, and `features` is declared `json` for exactly that. A store that
-		// flattened or stringified this would need a reader to put it back, and the
-		// putting back is where a record comes out saying what the window never said.
 		const { store, sent } = makeStore();
 		store.record('agent-tree', { outcome: 'ok', counts: { running: 8, idle: 2 } });
 		await store.flush();
@@ -49,9 +26,6 @@ describe('the window\'s page carries what its features observed', () => {
 		store.record('agent-tree', { outcome: 'ok' });
 		await store.flush();
 
-		// The injected clock rather than the wall one, which is the claim: the stamp is
-		// read at the moment of the write. Matched rather than pinned to a tick, so a
-		// later reading of the clock elsewhere does not fail this while nothing is wrong.
 		expect(sent[0]?.observedAt).toMatch(/^2026-08-13T20:00:\d\d\.000Z$/);
 	});
 
@@ -62,20 +36,12 @@ describe('the window\'s page carries what its features observed', () => {
 	});
 });
 
-/**
- * The fifth criterion, measured rather than asserted.
- *
- * Alan's editor runs every waking hour against a verifier who reads this rarely.
- * `status-bar` polls every five seconds and `agent-tree` every ten, so what these
- * measure is the whole cost of the record in an ordinary day.
- */
 describe('a window nobody is verifying pays nothing it would notice', () => {
 	test('a poll that found the same thing sends nothing at all', async () => {
 		const { store, sent } = makeStore();
 		store.record('status-bar', { outcome: 'ok', counts: { failedReads: 0 } });
 		await store.flush();
 
-		// A day of a healthy status bar, at its real five-second cadence.
 		for (let poll = 0; poll < 17_280; poll += 1) {
 			store.record('status-bar', { outcome: 'ok', counts: { failedReads: 0 } });
 		}
@@ -85,7 +51,6 @@ describe('a window nobody is verifying pays nothing it would notice', () => {
 	});
 
 	test('and the record still says what it said', async () => {
-		// Silence bought by dropping the observation would pass the case above.
 		const { store, sent } = makeStore();
 		store.record('agent-tree', { outcome: 'ok', counts: { running: 8 } });
 		await store.flush();
@@ -107,8 +72,6 @@ describe('a window nobody is verifying pays nothing it would notice', () => {
 		for (let poll = 0; poll < 5; poll += 1) {
 			store.record('agent-tree', { outcome: 'ok' });
 		}
-		// Something else moving is what carries the unchanged feature to the page
-		// again, and it must go carrying the stamp it already had.
 		store.record('status-bar', { outcome: 'ok' });
 		await store.flush();
 
@@ -132,15 +95,6 @@ describe('a window nobody is verifying pays nothing it would notice', () => {
 	});
 });
 
-/**
- * THE SAME CLAIMS THROUGH THE DOOR PRODUCTION USES.
- *
- * Everything above reaches the service through `flush`, which nothing in the
- * editor calls: a poll reports and returns, and the write happens on a timer some
- * milliseconds later. Deleting the rule from `record` left every one of those
- * tests green, because `flush` had a guard of its own that was quietly carrying
- * them. These wait out the settle instead.
- */
 describe('through the timer rather than through flush', () => {
 	const settle = (ms: number): Promise<void> =>
 		new Promise((resolve) => setTimeout(resolve, ms));
@@ -161,8 +115,6 @@ describe('through the timer rather than through flush', () => {
 
 		for (let poll = 0; poll < 100; poll += 1) {
 			store.record('status-bar', { outcome: 'ok', counts: { failedReads: 0 } });
-			// Spread across settles rather than inside one, so coalescing is not what is
-			// being measured here — the change detection is.
 			if (poll % 10 === 0) { await settle(30); }
 		}
 		await settle(60);

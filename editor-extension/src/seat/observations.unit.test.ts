@@ -1,10 +1,6 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import { buildObservations, changeKey, isLive, type Observation, OBSERVATIONS_VERSION, observationFor, parseObservations, type SweepObservation, sweepsPayingTheBound, writerOf } from "./observations"
-import { foldSweep, mergeObservation } from "./observation-merge";
+import { buildObservations, changeKey, isLive, type Observation, OBSERVATIONS_VERSION, observationFor, parseObservations, type SweepObservation, sweepsPayingTheBound, writerOf } from "./observations.ts"
+import { foldSweep, mergeObservation } from "./observation-merge.ts";
 
 const HEALTHY: SweepObservation = {
 	swept: 18,
@@ -47,10 +43,6 @@ describe('the record round-trips', () => {
 	});
 });
 
-/**
- * The fifth criterion, tested at the one place that decides it. Everything else
- * in this file exists so that these hold.
- */
 describe('nothing that only says "again" can cause a write', () => {
 	test('the same observation at a later time is the same key', () => {
 		const early: Observation = { at: '2026-08-13T20:00:00.000Z', outcome: 'ok' };
@@ -74,9 +66,6 @@ describe('nothing that only says "again" can cause a write', () => {
 	});
 
 	test('a count a feature happened to call `at` is still a count', () => {
-		// The timestamps are dropped by name, and `counts` holds names a feature chose.
-		// A number named `at` must not fall through that gap and become the one value
-		// in the record that can change without ever reaching the disk.
 		expect(changeKey({ f: { at: 'x', counts: { at: 2 } } })).not.toBe(
 			changeKey({ f: { at: 'x', counts: { at: 1 } } })
 		);
@@ -181,10 +170,8 @@ describe('a sweep folded against what the window has seen', () => {
 			trigger: 'poll',
 		});
 		const healthy = foldSweep(bad, { ...now, ms: 240, at: 'c', trigger: 'poll' });
-		// The window paid the bound, and still says so.
 		expect(healthy.worstMs).toBe(5301);
 		expect(healthy.worstAt).toBe('b');
-		// It is not paying it now, and says that too.
 		expect(healthy.neverAnswered).toBe(0);
 		expect(healthy.read).toBe(3);
 	});
@@ -193,7 +180,6 @@ describe('a sweep folded against what the window has seen', () => {
 		let sweep = foldSweep(undefined, { ...now, ms: 300, at: 'a', trigger: 'activate' });
 		const first = changeKey({ 'agent-tree': { at: 'a', sweep } });
 		for (let poll = 0; poll < 500; poll += 1) {
-			// Jitter under the mark, which is what a healthy window actually does.
 			sweep = foldSweep(sweep, { ...now, ms: 200 + (poll % 90), at: `t${poll}`, trigger: 'poll' });
 		}
 		expect(changeKey({ 'agent-tree': { at: 'z', sweep } })).toBe(first);
@@ -220,9 +206,6 @@ describe('what a verifier asks the record', () => {
 	});
 
 	test('the liveness question is asked about a run, not a number', () => {
-		// A pid on its own is true again the moment the operating system reuses it,
-		// and a record left by a killed window is the one that sits around long
-		// enough for that to happen.
 		expect(writerOf(RECORD)).toEqual({ pid: 4242, startedAt: 46800522 });
 	});
 });

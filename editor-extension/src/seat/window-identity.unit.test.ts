@@ -1,16 +1,3 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-/**
- * @fileoverview That a window can be told from another window, and from itself later.
- *
- * The parsing is exercised against text rather than against `/proc`, and the
- * liveness against this process and a pid that cannot be running. What cannot be
- * reached from here — that `vscode.env.sessionId` is a constant in a served
- * window — is why the identity does not come from it, and is recorded in
- * `./window-identity.ts` with the drive that established it.
- */
 import { describe, expect, test } from 'bun:test';
 import {
 	isWindowLive,
@@ -18,9 +5,8 @@ import {
 	readWindowIdentity,
 	recordNameFor,
 	sameWindow,
-} from './window-identity';
+} from './window-identity.ts';
 
-// A real line, taken from this fork's own extension host on 2026-08-13.
 const REAL =
 	'3280707 (openvscode-serv) S 2933262 2933262 2933262 0 -1 4194304 2020845 1825297 3 2 ' +
 	'2787 655 953 1669 20 0 22 0 46800522 12345 678 90 0 0 0 0 0 0 0';
@@ -31,10 +17,6 @@ describe('reading a process start time', () => {
 	});
 
 	test('a name holding spaces and brackets does not shift the fields', () => {
-		// THE REASON THIS IS PARSED FROM THE LAST `)` RATHER THAN BY SPLITTING. The
-		// second field is the executable name, it is not escaped, and counting from
-		// the left goes wrong on exactly the processes whose names are least
-		// predictable.
 		const awkward = REAL.replace('(openvscode-serv)', '(Code Helper (Renderer))');
 		expect(parseProcessStart(awkward)).toBe(46800522);
 	});
@@ -52,8 +34,6 @@ describe('telling one window from another', () => {
 	});
 
 	test('the same pid started again is not the same window', () => {
-		// A reused pid is the way a record left behind by a killed window comes to
-		// read as a live one.
 		expect(sameWindow({ pid: 1001, startedAt: 5 }, { pid: 1001, startedAt: 9 })).toBe(false);
 	});
 
@@ -86,15 +66,11 @@ describe('against the running system', () => {
 	});
 
 	test('this pid with another start time reads as gone', async () => {
-		// The pid answers; the run does not match. This is the reuse case, and the
-		// pid-only check that shipped first would have called it live.
 		const self = await readWindowIdentity(process.pid);
 		expect(await isWindowLive({ pid: self.pid, startedAt: self.startedAt + 1 })).toBe(false);
 	});
 
 	test('a record written where /proc said nothing falls back to the pid', async () => {
-		// Zero is "not known" rather than a reading, and degrades to the check these
-		// records had before, which is weaker than this and not wrong.
 		expect(await isWindowLive({ pid: process.pid, startedAt: 0 })).toBe(true);
 		expect(await isWindowLive({ pid: 0, startedAt: 0 })).toBe(false);
 	});

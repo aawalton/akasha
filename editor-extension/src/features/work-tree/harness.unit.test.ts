@@ -1,23 +1,3 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-/**
- * What this panel makes of a tree it has been handed.
- *
- * WHAT IS NO LONGER TESTED HERE: that a changed shape from `ops akasha work-tree --json` arrives as
- * a stated error rather than as a tree built out of `undefined`, and that a row's colour is read
- * under either spelling. There is no longer a process between this panel and the tree — `workTree`
- * composes it in this process and TypeScript says what shape it is — so there is no boundary for a
- * shape to change across, and a parser guarding one would be code with nothing on the other side of
- * it. The two spellings met a build compiled against one talking to a verb sending the other; with
- * one process there is one compile.
- *
- * THE SENTINEL ROW IS WHY `relPath` IS NULLABLE HERE AND NOT IN THE DOMAIN TREE. `no-initiative` is
- * a real row standing for what declared nothing, so it has no document, and a click handler
- * assuming one would open a path with `null` in it. That arm is pinned below.
- */
 import { describe, expect, test } from 'bun:test';
 import { type WorkNode, type WorkTree, countRows, documentPath, workKeys } from './harness.ts';
 import { recolour, rollUp } from './colours.ts';
@@ -133,14 +113,6 @@ describe('documentPath', () => {
 	});
 });
 
-/**
- * What a repaint will and will not do to the rows already on screen.
- *
- * THE COLOUR IS TAKEN FROM THE ANSWER FOR EVERY ROW, never merged onto the rows the answer happens
- * to mention. A seat finishing is reported by its rows dropping OUT of the answer, so a repaint that
- * only wrote the keys it was given would leave a finished seat drawn as live for as long as the
- * window stayed open — and a row drawn in the wrong turn's colour looks exactly like a right one.
- */
 const COLOURED: WorkTree = {
 	repo: '/x',
 	roots: [
@@ -150,7 +122,6 @@ const COLOURED: WorkTree = {
 			relPath: 'pages/initiative/athena-consistent-seats.md',
 			detail: 'athena',
 			note: null,
-			// Raised off the green beneath it as well as held of its own.
 			colour: 'green',
 			children: [
 				{
@@ -211,7 +182,6 @@ describe('recolour', () => {
 	});
 });
 
-/** A row carrying only what the ranking looks at. */
 const row = (key: string, colour: string | null, children: readonly WorkNode[] = []): WorkNode => ({
 	key,
 	label: key,
