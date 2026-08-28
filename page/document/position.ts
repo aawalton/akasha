@@ -2,10 +2,12 @@
 import type { Position, Span } from "./types.ts"
 
 export class Source {
+  readonly text: string
   readonly lines: readonly string[]
   private readonly starts: readonly number[]
 
-  constructor(readonly text: string) {
+  constructor(text: string) {
+    this.text = text
     this.lines = text.split("\n")
     const starts: number[] = []
     let offset = 0

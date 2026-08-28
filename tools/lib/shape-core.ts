@@ -48,12 +48,14 @@ export function assign(target: Record<string, unknown>, key: string, value: unkn
 }
 
 export class Shape<T> {
+  readonly run: (value: unknown, path: ShapePath) => Outcome<T>
   readonly acceptsAbsent: boolean
 
   constructor(
-    readonly run: (value: unknown, path: ShapePath) => Outcome<T>,
+    run: (value: unknown, path: ShapePath) => Outcome<T>,
     acceptsAbsent = false
   ) {
+    this.run = run
     this.acceptsAbsent = acceptsAbsent
   }
 

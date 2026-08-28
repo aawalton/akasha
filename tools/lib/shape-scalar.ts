@@ -125,12 +125,15 @@ export class NumberShape extends Shape<number> {
 }
 
 export class LiteralShape<V extends string> extends Shape<V> {
-  constructor(readonly value: V) {
+  readonly value: V
+
+  constructor(value: V) {
     super((input, path) =>
       input === value
         ? held(value)
         : refused(path, "invalid_value", `Invalid input: expected ${JSON.stringify(value)}`)
     )
+    this.value = value
   }
 }
 

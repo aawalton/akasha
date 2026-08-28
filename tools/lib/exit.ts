@@ -15,12 +15,12 @@ const CARRIES_A_CODE: ReadonlySet<string> = new Set([
 ])
 
 export class ExitError extends Error {
-  constructor(
-    message: string,
-    readonly code: number
-  ) {
+  readonly code: number
+
+  constructor(message: string, code: number) {
     super(message)
     this.name = "ExitError"
+    this.code = code
   }
 }
 

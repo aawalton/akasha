@@ -84,11 +84,13 @@ function parseFields(
 }
 
 export class ObjectShape<F extends Fields, Out> extends Shape<Out> {
-  constructor(
-    private readonly declaration: F,
-    readonly unknowns: Unknowns
-  ) {
+  private readonly declaration: F
+  readonly unknowns: Unknowns
+
+  constructor(declaration: F, unknowns: Unknowns) {
     super((value, path) => parseFields(declaration, unknowns, value, path) as Outcome<Out>)
+    this.declaration = declaration
+    this.unknowns = unknowns
   }
 
   get fields(): Fields {
