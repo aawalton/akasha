@@ -21,3 +21,16 @@ Status, 7 rules each on `collection-template.status`, `story-chapter.status`, `t
 The 13 `daily-tracking` ladders carry 5 rules apiece over the six life areas — faith, fun, health, learn, love, wealth — as both `<area>Points` and `<area>Level`, plus `totalLevel`.
 
 Two consumers survive the rows and one does not. `code:packages/alanwalton/web/app/idle/lib/idle-card-page-type.ts:111,190` holds a compiled-in copy, so idle cards keep their colours. `code:packages/infra/checks/src/checks/check-color-rule-variants.ts` reads `property-definition` rows over `SUPABASE_URL`; with no rows its population is zero and it reports over nothing.
+
+# Re-check
+
+Checked again 2026-08-28 at HEAD, in akasha rather than `~/code`. The mechanism holds and one statement is false rather than merely old.
+
+`labelled()` stands at `shared/pages-access/src/file-property-defs.ts:59-65`, not at the cited `:85-91`, and it does drop `color`: the `SelectOption` it returns is declared `{ id, label }` at `:57`, so colour is absent from the type rather than read and discarded. The gap is wider than the claim. `definitionOf` at `:88-100` emits only `id`, `key`, `title`, `type`, `pageId` and `config.options`; the file-backed `PropertyDefinition` at `page-type-config.ts:9-25` carries no `colorRules` field at all; and the wire `DeclarationSchema` at `shared/pages-query/src/ask.ts:204-214` has nowhere to put one. A property document stating colours reaches no reader at any point on that path, not only at the extraction.
+
+`check-color-rule-variants` does not stand in this repository, so the sentence saying it "reports over nothing" is false here rather than true-but-empty. There is no `infra/checks/` tree; nothing under `infra/cluster-checks/` or `checks-system/` reads property definitions over `SUPABASE_URL`. One consumer survives, not two. The compiled-in copy does survive, at exactly the cited lines: `alanwalton/web/app/idle/lib/idle-card-page-type.ts:111,190`.
+
+The 165 rules cannot be counted again from here: `DATABASE_ADHOC_URL` is named by no code in this tree. Across 2,285 property-definition documents none states `colorRules` and none states a `color:` key. The one authored survivor of the colour-ladder pattern is `pages/page-property-definition/daily-tracking-stoplights.page-property-definition.md:8`, which emits coloured discs from an `expression:` rather than from rules.
+
+What keeps this open is unchanged, and is sharper than when it was written: `pages/page-property-definition/option-color.page-property-definition.md` declares `key: color` on `page-property-type/option`, so the colour a document may state is a live schema in this tree, while `labelled()` at `:61` reads its sibling `label` and nothing else.
+
