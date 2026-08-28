@@ -1,6 +1,6 @@
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { SubclassingSkillMorphsPanelCard } from "@temper/player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card"
 import type { CompletionFilter, CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"

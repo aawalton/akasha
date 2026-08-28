@@ -1,6 +1,9 @@
 "use client"
 
-import { Button, PageLayout, PageTabHeader, PageTitle, ResponsiveColumns } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Button } from "@shared/design-primitives/components/button"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"

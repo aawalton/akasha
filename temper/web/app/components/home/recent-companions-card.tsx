@@ -1,6 +1,9 @@
 "use client"
 
-import { CardDescription, PanelCard, Text, useSurface } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardDescription } from "@shared/design-primitives/components/card"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"

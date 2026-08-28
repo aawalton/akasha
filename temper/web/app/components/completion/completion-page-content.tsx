@@ -1,7 +1,9 @@
 "use client"
 
 import { scrollToCard } from "@shared/design-layout/utils/scroll-to-card"
-import { type BadgeToggleGroupItem, Button, PageLayout, PageLayoutSkeleton, PageTitle, PageTitleBadges } from "@shared/design-system"
+import { type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { PageLayout, PageLayoutSkeleton, PageTitle, PageTitleBadges } from "@shared/design-layout/components/page-layout"
+import { Button } from "@shared/design-primitives/components/button"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { PageTabsTrigger, Tabs, TabsList } from "@shared/design-patterns/components/tabs"
 import { useDebouncedValue } from "@shared/design-primitives/hooks/use-debounced-value"

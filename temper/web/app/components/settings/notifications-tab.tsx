@@ -1,6 +1,11 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem, Input, ResponsiveColumns, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Switch, useSurface } from "@shared/design-system"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Input } from "@shared/design-primitives/components/input"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Switch } from "@shared/design-primitives/components/switch"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type {
   InventoryLoggingLevel,

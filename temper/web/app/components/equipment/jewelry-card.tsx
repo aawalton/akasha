@@ -1,6 +1,7 @@
 "use client"
 
-import { Badge, Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { ClassId } from "@temper/game-characters-classes/classes-data"

@@ -1,4 +1,4 @@
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import type { CharacterSkillMorphProgress } from "@temper/game-characters-skills-morphs-core/morph-progress-types"
 import type { CharacterAchievementProgressResult } from "@temper/player-completion/completion-achievement-progress"
 import { transformCharacterAchievementProgress } from "@temper/player-completion/completion-achievement-progress"

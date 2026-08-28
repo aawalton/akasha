@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import {
   type ArmorSlotId,
   armorSlots,

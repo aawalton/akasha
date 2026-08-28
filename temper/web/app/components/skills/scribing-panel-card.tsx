@@ -1,4 +1,5 @@
-import { Button, PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"

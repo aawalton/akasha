@@ -1,5 +1,5 @@
 import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { SkillMorphsProgressPanelCard } from "@temper/player-completion-skills-morphs-ui/skill-morphs-progress-panel-card"
 import type { CompletionFilter, CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"

@@ -1,4 +1,8 @@
-import { Button, Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Text, useSurface } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Dialog, DialogBody, DialogContent, DialogFooter, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"
 import {

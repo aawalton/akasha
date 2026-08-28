@@ -1,4 +1,4 @@
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import { useAccountCompletion, useAccountCompletionByUser, useCompletionCharacters, useCompletionCharactersByUser, useCompletionCompanions, useCompletionCompanionsByUser } from "@temper/player-completion-ui/use-completion"
 import type { AccountSummaryData, CharacterSummaryData, CompanionSummaryData } from "@temper/player-completion/completion-card-registry"
 import type { AccountProgressData } from "@/components/completion/completion-progress/account-progress"

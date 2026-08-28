@@ -1,6 +1,6 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import type { SortDirection, SortOption } from "@shared/design-patterns/utils/sort-types"
 import type { CompletionFilter, CompletionSortMode } from "@temper/player-completion-ui/completion-panel-card"
 import { createContext, useContext } from "react"

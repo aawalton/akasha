@@ -1,6 +1,7 @@
 "use client"
 
-import { type BadgeToggleGroupItem, PanelToggleProvider } from "@shared/design-system"
+import { type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
 import { buildCharacterSummary } from "@temper/player-completion/completion-summary"

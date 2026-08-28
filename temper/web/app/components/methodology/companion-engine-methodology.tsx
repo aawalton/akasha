@@ -1,4 +1,8 @@
-import { CardContent, CardHeader, CardTitle, Heading, PanelCard, Text, useSurface } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Text } from "@shared/design-primitives/components/text"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 
 function InlineCode({ children }: { children: React.ReactNode }) {

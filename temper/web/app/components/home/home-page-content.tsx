@@ -2,7 +2,11 @@
 
 import { useAuth } from "@shared/auth/use-auth"
 import { formatGold } from "@shared/design-primitives/utils/format-gold"
-import { Button, ListContentSkeleton, PageLayout, PageTitle, PanelCard, ResponsiveColumns } from "@shared/design-system"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Button } from "@shared/design-primitives/components/button"
 import { simplePageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { QueryErrorBoundary } from "@shared/design-patterns/components/query-error-boundary"

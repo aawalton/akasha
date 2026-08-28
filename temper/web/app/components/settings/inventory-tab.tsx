@@ -1,7 +1,10 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { LayoutLink, ResponsiveColumns, Skeleton, Switch } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
+import { Switch } from "@shared/design-primitives/components/switch"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { extractGuildBankKeys } from "@temper/game-items-core/inventory-guild-bank-filter"

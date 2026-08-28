@@ -1,16 +1,11 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-  Heading,
-  PanelCard,
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-  ResponsiveColumns,
-  Switch,
-} from "@shared/design-system"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Heading } from "@shared/design-primitives/components/heading"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { Switch } from "@shared/design-primitives/components/switch"
 import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import type {
   CharacterAutomationToggles,

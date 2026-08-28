@@ -1,6 +1,9 @@
 "use client"
 
-import { Input, ResponsiveColumns, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, useSurface } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Input } from "@shared/design-primitives/components/input"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { SupabaseUser } from "@shared/supabase-rr/auth/server"
 import type { ProfileMetadata } from "@temper/game-characters/build-metadata"

@@ -1,6 +1,9 @@
 "use client"
 
-import { Button, Card, CardContent, LayoutLink, PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { FolderOpen } from "lucide-react"
 

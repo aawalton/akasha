@@ -1,4 +1,6 @@
-import { Button, Command, CommandInput, CommandList, Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Command, CommandInput, CommandList } from "@shared/design-primitives/components/command"
+import { Dialog, DialogBody, DialogContent, DialogHeader, DialogTitle } from "@shared/design-primitives/components/dialog"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import { skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"
 import type { ScribedSkill } from "@temper/game-characters-skills/scribing/scribed-skill-types"

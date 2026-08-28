@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
 import type { ClassId } from "@temper/game-characters-classes/classes-data"
 import { canClassEquipSet } from "@temper/game-characters-equipment/sets/class-restrictions"
 import {

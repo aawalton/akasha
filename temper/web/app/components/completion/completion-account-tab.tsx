@@ -1,6 +1,11 @@
 "use client"
 
-import { BadgeToggleGroup, type BadgeToggleGroupItem, Button, Card, CardContent, LayoutLink, PageTabHeader, PanelToggleProvider } from "@shared/design-system"
+import { BadgeToggleGroup, type BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelToggleProvider } from "@shared/design-layout/components/panel-toggle-provider"
+import { LayoutLink } from "@shared/design-layout/router-context"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { AddFilterButton } from "@shared/design-patterns/components/add-filter-button"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"

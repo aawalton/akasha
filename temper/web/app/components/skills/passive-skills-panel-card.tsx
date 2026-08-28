@@ -1,12 +1,8 @@
 "use client"
 
-import {
-  Collapsible,
-  CollapsibleContent,
-  CollapsibleTrigger,
-  Heading,
-  PanelCard,
-} from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@shared/design-primitives/components/collapsible"
+import { Heading } from "@shared/design-primitives/components/heading"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { SkillLineCategoryId } from "@temper/game-characters-skill-lines/skill-line-categories"
 import { skillLineCategoriesSorted } from "@temper/game-characters-skill-lines/skill-line-categories"

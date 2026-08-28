@@ -1,7 +1,7 @@
 "use client"
 
 import { AuthContext, type AuthContextValue } from "@shared/auth/use-auth"
-import { SurfaceProvider } from "@shared/design-system"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { SupabasePageResolverProvider } from "@shared/pages-ui/supabase/page-resolver-provider"
 import { reportPagesStoreStall } from "@shared/pages-ui-store/report-stall"
