@@ -1,0 +1,14 @@
+import type { PageType } from "./page-type.page-type.ts"
+
+export type Page = {
+  id: string
+  slug: string
+  definition: string
+}
+
+export const page = {
+  id: "01a049b9-856c-7090-bd14-5a916f574259",
+  slug: "page",
+  definition: "what is recorded about one thing of a specific type",
+  extendsSlug: null,
+} as const satisfies PageType
