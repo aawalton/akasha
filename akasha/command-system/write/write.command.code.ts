@@ -4,6 +4,7 @@ import type {
   Change,
   Held,
   Indexing,
+  Judging,
   Landing,
   Refusal,
 } from "../../write-system/landing.module.code.ts"
@@ -32,6 +33,10 @@ type Parsed = {
   readonly writes: readonly Asked[]
   readonly removals: readonly string[]
   readonly refusals: readonly string[]
+}
+
+function nothingJudged(): Judging {
+  return { named: [], over: () => [] }
 }
 
 function nothingKept(): Indexing {
@@ -128,6 +133,8 @@ export function write(argv: readonly string[], given: Given): Answer {
     index: nothingKept(),
     bodies: given.bodies,
     readAs: `${given.calledAs.replace(/ write$/, "")} read`,
+    judge: nothingJudged(),
+    root: given.root,
   }
   const refusals: string[] = [...asked.refusals]
   const changes: Change[] = []
@@ -167,6 +174,12 @@ export function write(argv: readonly string[], given: Given): Answer {
     ])
   }
   const done = land(changes, held)
+  if (done.kind === "refused") {
+    return refusing([
+      ...done.by.map((one) => `${one.path} — ${one.reason}`),
+      `nothing was written — ${done.by.length} check(s) refused this change`,
+    ])
+  }
   const report: string[] = []
   for (const one of changes) {
     const named = one.path.startsWith(`${given.from}/`)
@@ -175,6 +188,11 @@ export function write(argv: readonly string[], given: Given): Answer {
     if (one.kind === "remove") report.push(`${TOOK}${named}`)
     else report.push(`${WROTE}${named}  ${Buffer.byteLength(one.body)} bytes`)
   }
-  report.push(`${WROTE}${done.length} change(s) landed together`)
+  report.push(`${WROTE}${done.paths.length} change(s) landed together`)
+  report.push(
+    done.consulted.length === 0
+      ? `${WROTE}no checks were consulted — nothing here judged this change beyond the witness`
+      : `${WROTE}${done.consulted.length} check(s) consulted: ${done.consulted.join(", ")}`
+  )
   return { report, refusals: [], code: 0 }
 }

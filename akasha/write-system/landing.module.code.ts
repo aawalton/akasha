@@ -33,6 +33,34 @@ export type BodyStore = {
   readonly keep: (oid: Oid, body: string) => void
 }
 
+export type Judged = {
+  readonly path: string
+  readonly reason: string
+}
+
+export type Leaving = {
+  readonly root: string
+  readonly changed: readonly string[]
+  readonly at: (path: string) => string | null
+}
+
+export type Judging = {
+  readonly named: readonly string[]
+  readonly over: (leaving: Leaving) => readonly Judged[]
+}
+
+export type Landed =
+  | {
+      readonly kind: "landed"
+      readonly paths: readonly string[]
+      readonly consulted: readonly string[]
+    }
+  | {
+      readonly kind: "refused"
+      readonly by: readonly Judged[]
+      readonly consulted: readonly string[]
+    }
+
 export type Indexing = {
   readonly wrote: (path: string, body: string, before: string | null) => void
   readonly took: (path: string, before: string | null) => void
@@ -46,6 +74,8 @@ export type Held = {
   readonly index: Indexing
   readonly bodies: BodyStore
   readonly readAs: string
+  readonly judge: Judging
+  readonly root: string
 }
 
 function refusal(said: string): Refusal {
@@ -150,29 +180,51 @@ export function takingAway(path: string, held: Held): Removal {
   return { kind: "remove", path, by: held.writer, at: Date.now() } as unknown as Removal
 }
 
-export function land(all: readonly Change[], held: Held): readonly string[] {
-  const done: string[] = []
+export function leavingOf(all: readonly Change[], root: string): Leaving {
+  const asked = new Map<string, string | null>()
+  for (const one of all) asked.set(one.path, one.kind === "remove" ? null : one.body)
+  return {
+    root,
+    changed: [...asked.keys()].sort(),
+    at: (path) => {
+      const now = asked.get(path)
+      if (now !== undefined) return now
+      try {
+        return readFileSync(path, "utf8")
+      } catch {
+        return null
+      }
+    },
+  }
+}
+
+export function land(all: readonly Change[], held: Held): Landed {
+  const consulted = held.judge.named
+  const by = held.judge.over(leavingOf(all, held.root))
+  if (by.length > 0) return { kind: "refused", by, consulted }
+  for (const one of all) {
+    if (one.kind === "remove" || one.prior === null) continue
+    const before = existsSync(one.path) ? readFileSync(one.path, "utf8") : null
+    if ((before === null ? null : oidOf(before)) !== one.prior) {
+      throw new Error(`${one.path} is not as the witness says it was, so nothing was written`)
+    }
+  }
+  const paths: string[] = []
   for (const one of all) {
     const before = existsSync(one.path) ? readFileSync(one.path, "utf8") : null
     if (one.kind === "remove") {
       rmSync(one.path, { force: true })
       held.index.took(one.path, before)
-      done.push(one.path)
+      paths.push(one.path)
       continue
-    }
-    if (one.prior !== null) {
-      const standing = before === null ? null : oidOf(before)
-      if (standing !== one.prior) {
-        throw new Error(`${one.path} is not as the witness says it was, so nothing was written`)
-      }
     }
     writeFileSync(one.path, one.body)
     held.record.keep(one.path, oidOf(one.body), Date.now())
     held.bodies.keep(oidOf(one.body), one.body)
     held.index.wrote(one.path, one.body, before)
-    done.push(one.path)
+    paths.push(one.path)
   }
   held.index.settle()
   held.record.flush()
-  return done
+  return { kind: "landed", paths, consulted }
 }
