@@ -2,16 +2,17 @@ export const summary = "Read a file, and after the first time only what changed"
 
 import { existsSync, mkdtempSync, rmSync, statSync } from "node:fs"
 import { discarded } from "../../../agent/discarded.ts"
-import { canonicalize } from "../../../repo/path/path.ts"
 import { ANSWER_CEILING, costOf, restCall } from "../../../agent/read-answer.ts"
-import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional.ts"
-import { agentPageFor, readRecordFor, replacedAt } from "../../../agent/read-record.ts"
 import { readOne } from "../../../agent/read-one.ts"
+import { agentPageFor, readRecordFor, replacedAt } from "../../../agent/read-record.ts"
+import { recordRead } from "../../../agent/record-read.ts"
+import { writerId } from "../../../agent/writer.ts"
+import { canonicalize } from "../../../repo/path/path.ts"
+import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional.ts"
+import { doubleRun } from "./double-run.ts"
 import { requiredFor } from "./required.ts"
 import { seatTargets } from "./seat.ts"
 import { type Target, targetOf } from "./target.ts"
-import { recordRead } from "../../../agent/record-read.ts"
-import { writerId } from "../../../agent/writer.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -61,7 +62,8 @@ function parseArgs(argv: readonly string[]): Args {
       `${SEAT} is the whole set this seat is required to have read, so it takes no ${FILE_PATH} beside it`
     )
   }
-  if (paths.length === 0 && !seat) throw new Error(`${FILE_PATH} names a file to read, and none was given`)
+  if (paths.length === 0 && !seat)
+    throw new Error(`${FILE_PATH} names a file to read, and none was given`)
   return { paths, full, seat }
 }
 
@@ -184,7 +186,9 @@ export default async function read(argv: readonly string[]): Promise<void> {
     asked.add(target.absolute)
     return target
   })
-  const required = args.seat ? { targets: [] as readonly Target[], caption: "" } : requiredFor(targets, from)
+  const required = args.seat
+    ? { targets: [] as readonly Target[], caption: "" }
+    : requiredFor(targets, from)
 
   const report: string[] = []
   const refusals: string[] = []
@@ -208,11 +212,14 @@ export default async function read(argv: readonly string[]): Promise<void> {
         "you and the change you make next is refused for it"
     )
   }
+  const oldSeen = new Map<string, string>()
   const workspace = mkdtempSync(`${SCRATCH}/akasha-read-`)
   const queue = [...targets, ...required.targets]
   const conditional = args.seat ? conditionalBelow(queue, from) : []
   const definitions =
-    conditional.length === 0 ? [] : [conditionalCaption(conditional.length), ...conditional.map(conditionalText)]
+    conditional.length === 0
+      ? []
+      : [conditionalCaption(conditional.length), ...conditional.map(conditionalText)]
   const kept = costOf(definitions)
   let taken = 0
   let left: readonly Target[] = []
@@ -252,6 +259,8 @@ export default async function read(argv: readonly string[]): Promise<void> {
       }
       say(...lines)
       taken += 1
+      const settled = emission.record?.oid ?? reading?.oid
+      if (settled !== undefined) oldSeen.set(canonical, settled)
       if (page !== null && emission.record !== null) {
         recordRead(page, cutoff, canonical, emission.record.seenAt, emission.record.oid)
       }
@@ -262,6 +271,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
   say(...definitions)
   say(...restCall(left, full))
   if (report.length > 0) process.stdout.write(`${report.join("\n")}\n`)
+  doubleRun(argv, agent, oldSeen)
   if (refusals.length === 0) return
   process.stderr.write(`refused:\n${refusals.map((one) => `  ${one}`).join("\n")}\n`)
   process.exitCode = 1
