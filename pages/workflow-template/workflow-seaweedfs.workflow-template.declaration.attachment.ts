@@ -12,7 +12,16 @@ const SKIP_CHECK = [
   'if [ "$CURRENT_HASH" = "$CONTENT_HASH" ]; then echo "Content hash unchanged, skipping"; exit 0; fi',
 ]
 
-const K8S = "infra/seaweedfs/k8s/generated"
+const MASTER = "infra/seaweedfs/master/generated"
+const VOLUME = "infra/seaweedfs/volume/generated"
+const FILER = "infra/seaweedfs/filer/generated"
+const S3_GATEWAY = "infra/seaweedfs/s3-gateway/generated"
+const BACKUP_CNPG = "infra/seaweedfs/backup-cnpg/generated"
+const BACKUP_BULK = "infra/seaweedfs/backup-bulk/generated"
+const BACKUP_ASSETS = "infra/seaweedfs/backup-assets/generated"
+const PRUNE_SESSIONS = "infra/seaweedfs/prune-sessions/generated"
+const MAINTENANCE = "infra/seaweedfs/maintenance/generated"
+const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
   kind: "foundation",
@@ -22,7 +31,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
     kubectlApply({
       name: "seaweedfs-apply-namespace",
       namespace: "seaweedfs",
-      files: `${K8S}/namespace.generated.yaml`,
+      files: `${MASTER}/namespace.generated.yaml`,
       serverSide: true,
     }),
 
@@ -41,7 +50,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         environment: { HOME: "/tmp" },
         commands: [
           "set -e",
-          `kubectl apply --server-side --force-conflicts -f ${K8S}/pv.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -f ${MASTER}/pv.generated.yaml`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -54,7 +63,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-pvc",
         namespace: "seaweedfs",
-        files: `${K8S}/pvc.generated.yaml`,
+        files: `${MASTER}/pvc.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-pv"],
@@ -91,11 +100,20 @@ const foundationSeaweedfs = workflow("seaweedfs", {
     },
 
     {
-      ...kubectlApply({
+      ...step({
         name: "seaweedfs-apply-services",
-        namespace: "seaweedfs",
-        files: `${K8S}/services.generated.yaml`,
-        serverSide: true,
+        image: IMAGES.KUBECTL,
+        environment: { HOME: "/tmp" },
+        commands: [
+          "set -e",
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${MASTER}/service.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${VOLUME}/service.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${FILER}/service.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${S3_GATEWAY}/service.generated.yaml`,
+        ],
+        backendOptions: {
+          kubernetes: { serviceAccountName: "pipeline-engine" },
+        },
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },
@@ -109,7 +127,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${K8S}/master.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${MASTER}/master.generated.yaml`,
           ...verifyRolloutCommands({
             namespace: "seaweedfs",
             deployment: "master",
@@ -135,7 +153,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${K8S}/volume.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${VOLUME}/volume.generated.yaml`,
           ...verifyRolloutCommands({
             namespace: "seaweedfs",
             deployment: "volume",
@@ -157,7 +175,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${K8S}/filer.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -n seaweedfs -f ${FILER}/filer.generated.yaml`,
           ...verifyRolloutCommands({
             namespace: "seaweedfs",
             deployment: "filer",
@@ -182,7 +200,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
             read: "kubectl get secret seaweedfs-creds -n seaweedfs -o jsonpath='{.data.s3-config\\.json}'",
             subject: "seaweedfs-creds",
           }),
-          `sed "s|checksum/s3-config:.*|checksum/s3-config: \\"${"$"}{S3_CONFIG_HASH}\\"|" ${K8S}/s3-gateway.generated.yaml | kubectl apply --server-side --force-conflicts -n seaweedfs -f -`,
+          `sed "s|checksum/s3-config:.*|checksum/s3-config: \\"${"$"}{S3_CONFIG_HASH}\\"|" ${S3_GATEWAY}/s3-gateway.generated.yaml | kubectl apply --server-side --force-conflicts -n seaweedfs -f -`,
           ...verifyRolloutCommands({
             namespace: "seaweedfs",
             deployment: "s3-gateway",
@@ -251,7 +269,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         environment: { HOME: "/tmp" },
         commands: [
           "set -e",
-          `kubectl apply --server-side --force-conflicts -f ${K8S}/backup-pv.generated.yaml`,
+          `kubectl apply --server-side --force-conflicts -f ${MASTER}/backup-pv.generated.yaml`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -263,7 +281,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-backup-pvc",
         namespace: "seaweedfs",
-        files: `${K8S}/backup-pvc.generated.yaml`,
+        files: `${MASTER}/backup-pvc.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-backup-pv"],
@@ -272,7 +290,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-backup-cnpg",
         namespace: "seaweedfs",
-        files: `${K8S}/backup-cnpg.generated.yaml`,
+        files: `${BACKUP_CNPG}/backup-cnpg.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-backup-pvc", "seaweedfs-ensure-bucket"],
@@ -281,7 +299,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-backup-bulk",
         namespace: "seaweedfs",
-        files: `${K8S}/backup-bulk.generated.yaml`,
+        files: `${BACKUP_BULK}/backup-bulk.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-backup-pvc", "seaweedfs-ensure-bucket"],
@@ -291,7 +309,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-backup-assets",
         namespace: "seaweedfs",
-        files: `${K8S}/backup-assets.generated.yaml`,
+        files: `${BACKUP_ASSETS}/backup-assets.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: [
@@ -305,7 +323,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-prune",
         namespace: "seaweedfs",
-        files: `${K8S}/prune-sessions.generated.yaml`,
+        files: `${PRUNE_SESSIONS}/prune-sessions.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-s3-gateway", "seaweedfs-ensure-bucket"],
@@ -323,7 +341,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-etcd-snapshot",
         namespace: "seaweedfs",
-        files: `${K8S}/etcd-snapshot.generated.yaml`,
+        files: `${ETCD_SNAPSHOT}/etcd-snapshot.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: [
@@ -337,7 +355,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...kubectlApply({
         name: "seaweedfs-apply-maintenance",
         namespace: "seaweedfs",
-        files: `${K8S}/maintenance.generated.yaml`,
+        files: `${MAINTENANCE}/maintenance.generated.yaml`,
         serverSide: true,
       }),
       dependsOn: ["seaweedfs-apply-master", "seaweedfs-ensure-bucket"],
