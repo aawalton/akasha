@@ -174,22 +174,19 @@ export function pageOidsIn(root: string): ReadonlyMap<string, string> {
   return made
 }
 
-export function markFor(root: string): string {
+export function markFrom(oids: ReadonlyMap<string, string>): string {
   const inputs: { path: string; oid: string }[] = []
-  for (const [path, oid] of pageOidsIn(root)) inputs.push({ path, oid })
+  for (const [path, oid] of oids) inputs.push({ path, oid })
   return markOf(KIND, NAME, process.version, inputs)
 }
 
-export function marksOver(roots: Roots): BuiltFrom {
+export function markFor(root: string): string {
+  return markFrom(pageOidsIn(root))
+}
+
+export function marksFrom(oids: ReadonlyMap<string, ReadonlyMap<string, string>>): BuiltFrom {
   const made: Record<string, string> = {}
-  // WALKED BY REPOSITORY NAME RATHER THAN BY KEY. `Roots` carries a `target` key beside the roots,
-  // whose value is a repository name and not a path, so an entries walk handed `git -C akasha` and
-  // threw on a directory of that name not being there.
-  for (const repo of REPOS) {
-    const root = roots[repo]
-    if (root === undefined) continue
-    made[repo] = markFor(root)
-  }
+  for (const [repo, held] of oids) made[repo] = markFrom(held)
   return made
 }
 

@@ -16,6 +16,7 @@ import { linkTargetsFrom } from "./link/link.ts"
 import { identityFile, relationFileFor } from "./place/place.ts"
 import { type Holds, type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
 import { trackedIn } from "../tracked/tracked.ts"
+import { REPOS } from "../../repo/roots/roots.ts"
 import {
   builtFrom,
   keepBuiltFrom,
@@ -24,7 +25,7 @@ import {
   loadPages,
   loadRelations,
   markFor,
-  marksOver,
+  marksFrom,
   pageOidsIn,
   settleIdentityFiles,
   settleRelationFiles,
@@ -110,7 +111,11 @@ function holdsOver(roots: Roots): Holds {
 
 function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>> {
   const made = new Map<string, ReadonlyMap<string, string>>()
-  for (const [repo, root] of Object.entries(roots)) {
+  // WALKED BY REPOSITORY NAME RATHER THAN BY KEY. `Roots` carries a `target` key beside the roots,
+  // whose value is a repository name and not a path, so an entries walk handed `git -C akasha` and
+  // threw on a directory of that name not being there.
+  for (const repo of REPOS) {
+    const root = roots[repo]
     if (root === undefined) continue
     made.set(repo, pageOidsIn(root))
   }
@@ -126,6 +131,7 @@ function oidsOver(roots: Roots): ReadonlyMap<string, ReadonlyMap<string, string>
 function missedDuring(
   roots: Roots,
   was: ReadonlyMap<string, ReadonlyMap<string, string>>,
+  standing: ReadonlyMap<string, ReadonlyMap<string, string>>,
   walked: readonly Held[]
 ): readonly Landed[] {
   const seen = new Map<string, Held>()
@@ -134,7 +140,7 @@ function missedDuring(
   for (const [repo, root] of Object.entries(roots)) {
     if (root === undefined) continue
     const before = was.get(repo) ?? new Map<string, string>()
-    const now = pageOidsIn(root)
+    const now = standing.get(repo) ?? new Map<string, string>()
     for (const key of new Set([...before.keys(), ...now.keys()])) {
       if (before.get(key) === now.get(key)) continue
       const named = pageNameOf(key)
@@ -198,9 +204,13 @@ export function buildOver(roots: Roots): Built {
     settleIdentityFiles(buckets)
     keepPages(stated)
     keepRelations(relations)
-    const missed = missedDuring(roots, was, identity.pages)
+    // ONE GIT WALK RATHER THAN TWO. Naming what moved and marking what the index covers
+    // both want every repository's page oids, and a walk for each cost a fifth of a
+    // second of held lock for nothing.
+    const standing = oidsOver(roots)
+    const missed = missedDuring(roots, was, standing, identity.pages)
     if (missed.length > 0) appliedInto(stated, missed, holds)
-    keepBuiltFrom(marksOver(roots))
+    keepBuiltFrom(marksFrom(standing))
     return { files: under.size, entries, pages: stated.length, buckets: buckets.size, handles }
   })
 }
