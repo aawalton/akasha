@@ -1,6 +1,31 @@
 import { describe, expect, it } from "bun:test"
 
-import { pullFirstChunkAndWrap, type StreamObserver } from "./retry.ts"
+import { isTransientTransportError, pullFirstChunkAndWrap, type StreamObserver } from "./retry.ts"
+
+const IDLE_TIMEOUT_MESSAGE =
+  "oauth-proxy upstream idle timeout: no upstream bytes for 600000ms (acct /v1/messages)"
+
+describe("isTransientTransportError beyond the socket-close wordings", () => {
+  it("reads a socket hang up as transient, which is how node words the same drop", () => {
+    expect(isTransientTransportError(new TypeError("socket hang up"))).toBe(true)
+  })
+
+  it("reads our own upstream idle timeout as transient", () => {
+    expect(
+      isTransientTransportError(new DOMException(IDLE_TIMEOUT_MESSAGE, "TimeoutError"))
+    ).toBe(true)
+  })
+
+  it("leaves a downstream cancel alone, which must never be retried", () => {
+    expect(isTransientTransportError(new DOMException("aborted", "AbortError"))).toBe(false)
+  })
+
+  it("leaves a timeout that is not our idle guard alone", () => {
+    expect(isTransientTransportError(new DOMException("something else", "TimeoutError"))).toBe(
+      false
+    )
+  })
+})
 
 function streamThatThrowsAfter(
   chunks: readonly Uint8Array[],

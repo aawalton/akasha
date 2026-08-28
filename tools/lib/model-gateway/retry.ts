@@ -1,4 +1,4 @@
-import type { IdleResettable } from "./idle-timeout.ts"
+import { type IdleResettable, UPSTREAM_IDLE_TIMEOUT_TOKEN } from "./idle-timeout.ts"
 import {
   buildKeepaliveEmitter,
   KEEPALIVE_COMMENT_BYTES,
@@ -11,8 +11,10 @@ export const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
 
 const NEWLINE_BYTES = new Uint8Array([0x0a])
 
-export function isTransientTransportError(err: unknown): err is TypeError {
-  if (err instanceof DOMException && err.name === "AbortError") return false
+export function isTransientTransportError(err: unknown): err is TypeError | DOMException {
+  if (err instanceof DOMException) {
+    return err.name === "TimeoutError" && err.message.includes(UPSTREAM_IDLE_TIMEOUT_TOKEN)
+  }
   if (!(err instanceof TypeError)) return false
   const msg = err.message.toLowerCase()
   return TRANSIENT_TRANSPORT_PATTERNS.some((p) => msg.includes(p))
@@ -21,6 +23,7 @@ export function isTransientTransportError(err: unknown): err is TypeError {
 const TRANSIENT_TRANSPORT_PATTERNS = [
   "socket connection was closed unexpectedly",
   "socket close",
+  "socket hang up",
   "connection reset",
   "econnreset",
   "eof",
