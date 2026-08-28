@@ -23,10 +23,10 @@ A file under a `__fixtures__` directory is outside this domain.
 
 ## No Code Comments
 
-**Write a code comment only in one of the code comment forms; everything else goes to a domain.**
+**Write a code comment only in one of the code comment forms; delete every other one.**
 
 Opus 5 obeys a comment as readily as a domain, so a drifted one competes with what stands.
 
-Land what the comment said before you delete it.
+Delete what it said rather than rehome it.
 
-Pick a domain whose code-path reaches this file.
+Add it to a domain later, only where needed.
