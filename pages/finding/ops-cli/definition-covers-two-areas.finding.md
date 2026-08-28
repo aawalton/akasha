@@ -3,7 +3,7 @@ id: c761430e-6f00-54ef-83cd-220118b00f41
 slug: definition-covers-two-areas
 page-type-slug: finding
 title: "Definition covers two areas"
-domain-slug: domain/ops-instructions
+domain-slug: domain/ops-cli
 ---
 
 # Claim
