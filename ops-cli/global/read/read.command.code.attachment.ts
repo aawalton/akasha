@@ -95,9 +95,10 @@ export const help = {
     "\n" +
     `WHAT THIS SEAT IS BOUND TO IS NAMED IN ONE CALL. \`${SEAT}\` takes no path: it names every document ` +
     "the seat's persona, domain, role, task and initiative bind it to, in whichever repository each " +
-    "stands, whole and recorded, and it does that whether or not the record already holds them — the " +
-    "record outlives a context that lost the bodies, so a difference against it would hand back nothing " +
-    "where everything is needed. Under those come the DEFINITIONS of what those documents name as " +
+    "stands, answered from the record exactly as a named path is — whole the first time, one line where " +
+    "it has not moved, and the difference where it has. A seat owing one document pays for one and not " +
+    `for the set. Where a context was lost while the record stands, \`${FULL}\` returns the bodies. ` +
+    "Under those come the DEFINITIONS of what those documents name as " +
     "`conditional-reading-slugs:`, each one line: enough to judge which bears on the work, and not the " +
     "body, which you read by its path when it does.\n" +
     "\n" +
@@ -136,7 +137,7 @@ export const help = {
     },
     {
       name: SEAT,
-      description: `Every document this seat is bound to, whole; takes no ${FILE_PATH} beside it.`,
+      description: `Every document this seat is bound to, as the record leaves it; takes no ${FILE_PATH} beside it.`,
     },
   ],
 }
@@ -174,7 +175,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
         "`ops seat set` is what records what a seat is"
     )
   }
-  const full = args.full || args.seat
+  const full = args.full
 
   const declared: readonly Target[] = bound ?? args.paths.map((one) => targetOf(one, from))
   const asked = new Set<string>()
@@ -226,7 +227,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
         continue
       }
       const canonical = canonicalize(absolute)
-      const forced = args.seat || (args.full && asked.has(absolute))
+      const forced = args.full && asked.has(absolute)
       const reading = log === null || forced ? null : log.reading(canonical)
       const emission = readOne({ named, absolute, reading, forced, root: target.root, workspace })
       const lines = [
