@@ -14,9 +14,6 @@ export const akashaMigration = {
     "akasha-ablation",
     "akasha-milestone",
   ],
-  condition: [
-    "A mechanical migration is done by a generalized akasha command.",
-  ],
   rule: [
     {
       name: "Accrete And Ablate",
