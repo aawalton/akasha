@@ -11,6 +11,10 @@ settled: true
 
 - **Supervisor** — the process that runs an agent in a seat.
 
+# Design
+
+A supervisor writes a seat page by running the writer, never by holding it in memory.
+
 # Intent
 
 A supervisor picks up new code in place, without a restart.
