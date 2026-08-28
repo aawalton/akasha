@@ -53,7 +53,7 @@ for (const [relPath, text] of Object.entries(FILES)) {
   writeFileSync(join(root, relPath), text)
 }
 mkdirSync(join(root, "pages/keeper"), { recursive: true })
-writeFileSync(join(root, "pages/keeper/ada.md"), page(["page-type-slug: keeper", "title: Ada"]))
+writeFileSync(join(root, "pages/keeper/ada.keeper.md"), page(["page-type-slug: keeper", "title: Ada"]))
 writeFileSync(join(root, ".gitignore"), "*.uncommitted.yaml\n*.uncommitted.jsonl\n*.lock/\n")
 
 git(root, ["init", "--initial-branch", "main"])
@@ -72,7 +72,7 @@ afterAll(() => {
 // a directory that could not be opened rather than as a repository that is not here.
 const ROOTS: Roots = { akasha: root }
 
-const SIDECAR = "pages/keeper/ada.days.jsonl"
+const SIDECAR = "pages/keeper/ada.keeper.days.jsonl"
 
 const commits = (): number => Number(git(root, ["rev-list", "--count", "HEAD"]).stdout)
 
@@ -99,7 +99,7 @@ describe("a page type another page holds in its rows", () => {
     const at = whereRowsStand(ROOTS, "keeper-day", "ada")
     expect(at?.relPath).toBe(SIDECAR)
     writeRow(ROOTS, "keeper-day", "ada", { slug: "ada-2026-08-19", mood: "bright" }, "watcher")
-    expect(existsSync(join(root, "pages/keeper/ada-2026-08-19.md"))).toBe(false)
+    expect(existsSync(join(root, "pages/keeper/ada-2026-08-19.keeper-day.md"))).toBe(false)
     expect(rows().map((one) => one["slug"])).toEqual(["ada-2026-08-19"])
   })
 
@@ -111,13 +111,13 @@ describe("a page type another page holds in its rows", () => {
     const written = writeRow(ROOTS, "keeper-day", "no-such-keeper", { slug: "x" }, "watcher")
     expect(written?.absent).toContain("keeper")
     expect(written?.absent).toContain("no-such-keeper")
-    expect(existsSync(join(root, "pages/keeper/no-such-keeper.days.jsonl"))).toBe(false)
+    expect(existsSync(join(root, "pages/keeper/no-such-keeper.keeper.days.jsonl"))).toBe(false)
   })
 
   it("is read back by the same reader that answers a query over it", () => {
     writeRow(ROOTS, "keeper-day", "ada", { slug: "ada-one", mood: "bright" }, "watcher")
     writeRow(ROOTS, "keeper-day", "ada", { slug: "ada-two", mood: "low" }, "watcher")
-    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
+    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.keeper.md`, "ada", "keeper", "days", false, () => {})
     expect(read.map((one) => one.named)).toEqual(["ada-one", "ada-two"])
     expect(read[0]?.values["keeper-slug"]).toBe("ada")
   })
@@ -248,7 +248,7 @@ describe("a rows property whose rows pass one file's bound", () => {
       expect(statSync(path).size).toBeLessThanOrEqual(PART_CEILING_BYTES + 200_100)
     }
     expect(rows().length).toBe(60)
-    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.md`, "ada", "keeper", "days", false, () => {})
+    const read = rowsPagesIn(ROOTS, `akasha:pages/keeper/ada.keeper.md`, "ada", "keeper", "days", false, () => {})
     expect(read.length).toBe(60)
     expect(read.map((one) => one.named)).toContain("wide-59")
   })
@@ -281,7 +281,7 @@ describe("many writers appending to one sidecar", () => {
   })
 })
 
-const NOTES = "pages/keeper/ada.notes.uncommitted.jsonl"
+const NOTES = "pages/keeper/ada.keeper.notes.uncommitted.jsonl"
 
 const notes = (): readonly Record<string, unknown>[] => {
   if (!existsSync(join(root, NOTES))) return []
