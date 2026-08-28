@@ -32,6 +32,20 @@ function textIn(values: Readonly<Record<string, unknown>>, key: string): string 
   return typeof held === "string" && held !== "" ? held : null
 }
 
+/**
+ * A QUERY THAT COULD NOT BE ASKED IS NOT A PERSON WITHOUT A FEED. This answered `null` on
+ * `!asked.ok`, and `writeNotification` below turns `null` into "no notification feed names the
+ * person `alan`, so this push reaches nobody". With the page-query service unreachable, that is
+ * what every push to Alan reported — while `pages/notification-feed/alan.notification-feed.md`
+ * was on disk the whole time carrying `person-slug: alan`, so the message sent each agent hunting
+ * for a page that was never missing.
+ *
+ * The other three asks in this file — `readNotificationsAfter`, `newestNotificationAt` and
+ * `countOpenQuestions` — have always thrown `asked.why` here. This one line was the file
+ * disagreeing with itself.
+ *
+ * `null` now means only what it says: the query ran, and named no feed.
+ */
 export async function feedFor(personSlug: string): Promise<string | null> {
   const asked = await askComposed({
     "page-type": NOTIFICATION_FEED_PAGE_TYPE_SLUG,
@@ -39,7 +53,7 @@ export async function feedFor(personSlug: string): Promise<string | null> {
     keys: ["person-slug"],
     limit: 1,
   })
-  if (!asked.ok) return null
+  if (!asked.ok) throw new Error(`feedFor(\`${personSlug}\`) went unasked: ${asked.why}`)
   return textIn(asked.answer.rows[0]?.values ?? {}, "person-slug")
 }
 
