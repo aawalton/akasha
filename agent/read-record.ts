@@ -34,6 +34,7 @@ export type Entry = {
   oid: string
   seenAt: number
   mechanicalOid?: string
+  expiredAt?: number
 }
 
 export type Records = Record<string, Entry>
@@ -46,15 +47,17 @@ export interface Reading {
 
 function entryOf(value: unknown): Entry | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { oid, seenAt, mechanicalOid } = value as {
+  const { oid, seenAt, mechanicalOid, expiredAt } = value as {
     oid?: unknown
     seenAt?: unknown
     mechanicalOid?: unknown
+    expiredAt?: unknown
   }
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
   const entry: Entry = { oid, seenAt }
   if (typeof mechanicalOid === "string" && mechanicalOid !== "") entry.mechanicalOid = mechanicalOid
+  if (typeof expiredAt === "number" && Number.isFinite(expiredAt)) entry.expiredAt = expiredAt
   return entry
 }
 
@@ -156,19 +159,30 @@ function parsedAt(path: string): unknown {
   }
 }
 
-export function replacedAt(page: string): number {
+export interface Replacement {
+  readonly at: number
+  readonly source: string
+}
+
+export function replacedBy(page: string): Replacement | null {
   const held = parsedAt(besidePage(page, UNCOMMITTED_SUFFIX))
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return 0
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
   const stated = (held as Record<string, unknown>)[CONTEXT_REPLACED]
-  if (stated === null || typeof stated !== "object" || Array.isArray(stated)) return 0
+  if (stated === null || typeof stated !== "object" || Array.isArray(stated)) return null
   const { value, at } = stated as { value?: unknown; at?: unknown }
-  if (typeof value !== "string" || value === RETAINED) return 0
-  return typeof at === "number" && Number.isFinite(at) ? at : 0
+  if (typeof value !== "string" || value === RETAINED) return null
+  if (typeof at !== "number" || !Number.isFinite(at)) return null
+  return { at, source: value }
+}
+
+export function replacedAt(page: string): number {
+  return replacedBy(page)?.at ?? 0
 }
 
 function readingOf(value: unknown, cutoff: number): Reading | null {
   const entry = entryOf(value)
   if (entry === null) return null
+  if (entry.expiredAt !== undefined) return null
   if (cutoff !== 0 && !(entry.seenAt > cutoff)) return null
   return {
     oid: entry.oid,
@@ -182,6 +196,8 @@ export interface ReadRecord {
   readonly at: string
   readonly reading: (absolutePath: string) => Reading | null
   readonly paths: () => readonly string[]
+  readonly replaced: Replacement | null
+  readonly expired: (absolutePath: string) => boolean
 }
 
 export function readRecordFor(writer: string): ReadRecord | null {
@@ -193,7 +209,8 @@ export function readRecordFor(writer: string): ReadRecord | null {
     held === null || typeof held !== "object" || Array.isArray(held)
       ? {}
       : (held as Record<string, unknown>)
-  const cutoff = replacedAt(page)
+  const replaced = replacedBy(page)
+  const cutoff = replaced?.at ?? 0
   const known = new Map<string, Reading | null>()
   const reading = (absolutePath: string): Reading | null => {
     const already = known.get(absolutePath)
@@ -202,10 +219,14 @@ export function readRecordFor(writer: string): ReadRecord | null {
     known.set(absolutePath, made)
     return made
   }
+  const expired = (absolutePath: string): boolean =>
+    entryOf(records[absolutePath]) !== null && reading(absolutePath) === null
   return {
     page,
     at,
     reading,
     paths: () => Object.keys(records).filter((one) => reading(one) !== null),
+    replaced,
+    expired,
   }
 }

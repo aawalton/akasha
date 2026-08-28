@@ -19,7 +19,13 @@ function vouched(records: Records, cutoff: number): Records {
   if (cutoff === 0) return records
   const kept: Records = {}
   for (const [path, entry] of Object.entries(records)) {
-    if (entry.seenAt > cutoff) kept[path] = entry
+    if (entry.seenAt > cutoff) {
+      kept[path] = entry
+      continue
+    }
+    if (entry.expiredAt === undefined || entry.expiredAt === cutoff) {
+      kept[path] = { ...entry, expiredAt: cutoff }
+    }
   }
   return kept
 }
@@ -54,7 +60,11 @@ function heldFor(page: string, cutoff: number): Records {
 }
 
 export function recordsFor(page: string, cutoff: number): Records {
-  return heldFor(page, cutoff)
+  const live: Records = {}
+  for (const [path, entry] of Object.entries(heldFor(page, cutoff))) {
+    if (entry.expiredAt === undefined) live[path] = entry
+  }
+  return live
 }
 
 export function recordRead(
@@ -88,7 +98,7 @@ export function resetReadings(page: string, cutoff: number): void {
   exclusively(recordPathFor(page), () => {
     const standing = standingOn(page)
     const kept = vouched(standing, cutoff)
-    if (Object.keys(kept).length === Object.keys(standing).length) return
+    if (JSON.stringify(kept) === JSON.stringify(standing)) return
     landReadings(page, kept)
   })
 }
