@@ -11,14 +11,14 @@ describe("computeFillAggregatesForPage", () => {
     {
       id: "durationSeconds",
       title: "Duration Seconds",
-      type: "formula",
-      config: { expression: "(endTime - startTime) / 1000", returnType: "number" },
+      type: "number",
+      config: { expression: "(endTime - startTime) / 1000" },
     },
     {
       id: "weightedValue",
       title: "Weighted Value",
-      type: "formula",
-      config: { expression: "value * ((endTime - startTime) / 1000)", returnType: "number" },
+      type: "number",
+      config: { expression: "value * ((endTime - startTime) / 1000)" },
     },
   ]
 

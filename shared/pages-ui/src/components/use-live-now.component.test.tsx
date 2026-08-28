@@ -6,10 +6,9 @@ import { useLiveNow } from "./use-live-now"
 const liveFormulaDef = (live: boolean): PropertyDefinition => ({
   id: "f",
   title: "F",
-  type: "formula",
+  type: "number",
   config: {
     expression: "if(now == 0, 111, 222)",
-    returnType: "number",
     ...(live ? { live: true } : {}),
   },
 })

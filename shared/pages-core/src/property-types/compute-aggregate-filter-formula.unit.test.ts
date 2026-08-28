@@ -72,21 +72,21 @@ describe("computeAggregate — pre-fold filter", () => {
   })
 })
 
-describe("computeAggregate over a formula target", () => {
+describe("computeAggregate over a computed target", () => {
   const SESSION_TYPE = "session-type"
 
   const sessionDefs: readonly PropertyDefinition[] = [
     {
       id: "durationSeconds",
       title: "Duration Seconds",
-      type: "formula",
-      config: { expression: "(endTime - startTime) / 1000", returnType: "number" },
+      type: "number",
+      config: { expression: "(endTime - startTime) / 1000" },
     },
     {
       id: "weightedValue",
       title: "Weighted Value",
-      type: "formula",
-      config: { expression: "value * ((endTime - startTime) / 1000)", returnType: "number" },
+      type: "number",
+      config: { expression: "value * ((endTime - startTime) / 1000)" },
     },
   ]
 
@@ -173,7 +173,7 @@ describe("computeAggregate over a formula target", () => {
     expect(computeAggregate(cfg, { items: ["x1", "x2"] }, stored)).toBe(30)
   })
 
-  test("stored target ignored by formula path when not a formula def", () => {
+  test("stored target read as written where the def carries no expression", () => {
     const storedDefs: readonly PropertyDefinition[] = [
       { id: "score", title: "Score", type: "number", config: {} },
     ]
