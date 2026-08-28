@@ -268,7 +268,7 @@ function annualDumpSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-annual-dump/k8s/generated/cronjob.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infra/k8s-postgres-annual-dump/generated/cronjob.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
