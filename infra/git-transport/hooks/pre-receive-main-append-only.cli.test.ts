@@ -1,6 +1,6 @@
-import { beforeEach, describe, expect, test } from "bun:test"
+import { afterAll, beforeEach, describe, expect, test } from "bun:test"
 import { spawnSync } from "node:child_process"
-import { chmodSync, cpSync, mkdtempSync } from "node:fs"
+import { chmodSync, cpSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 
 const HOOK_SRC = join(import.meta.dir, "pre-receive-main-append-only")
@@ -8,6 +8,12 @@ const HOOK_SRC = join(import.meta.dir, "pre-receive-main-append-only")
 type Ctx = { root: string; bare: string; work: string }
 
 let ctx: Ctx
+
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
 
 type Result = { readonly stdout: string; readonly stderr: string; readonly code: number }
 
@@ -47,6 +53,7 @@ function seedMain(): undefined {
 
 beforeEach(() => {
   const root = mkdtempSync("/var/tmp/append-only-test-")
+  made.push(root)
   const bare = join(root, "origin.git")
   const work = join(root, "work")
   shOk(`git init --bare --initial-branch=main ${bare}`, root)
