@@ -13,7 +13,7 @@ const ANSWER = {
       pageType: "job",
       key: "team-slug",
       rows: [
-        { at: "instructions:pages/job/one.md", values: { slug: "one", "team-slug": "team/roots" } },
+        { at: "akasha:pages/job/one.md", values: { slug: "one", "team-slug": "team/roots" } },
       ],
     },
   ],

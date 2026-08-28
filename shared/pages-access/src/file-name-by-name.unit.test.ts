@@ -34,22 +34,22 @@ describe("relPathFor, where the type files by name", () => {
 
 describe("nameFromAt, where the type files by name", () => {
   it("names a page by its stem, wherever the file stands", () => {
-    expect(nameFromAt(BY_NAME, "instructions:pages/gadget/widget.gadget.md")).toBe("widget")
-    expect(nameFromAt(BY_NAME, "instructions:anywhere/at/all/widget.gadget.md")).toBe("widget")
+    expect(nameFromAt(BY_NAME, "akasha:pages/gadget/widget.gadget.md")).toBe("widget")
+    expect(nameFromAt(BY_NAME, "akasha:anywhere/at/all/widget.gadget.md")).toBe("widget")
   })
 
   it("never folds the directory into the name", () => {
-    const name = nameFromAt(BY_NAME, "instructions:pages/gadget/widget.gadget.md")
+    const name = nameFromAt(BY_NAME, "akasha:pages/gadget/widget.gadget.md")
     expect(name).not.toContain("/")
   })
 
   it("names nothing for a file that does not carry the page type", () => {
-    expect(nameFromAt(BY_NAME, "instructions:pages/gadget/widget.md")).toBeNull()
-    expect(nameFromAt(BY_NAME, "instructions:pages/gadget/widget.sprocket.md")).toBeNull()
+    expect(nameFromAt(BY_NAME, "akasha:pages/gadget/widget.md")).toBeNull()
+    expect(nameFromAt(BY_NAME, "akasha:pages/gadget/widget.sprocket.md")).toBeNull()
   })
 
   it("round-trips, so reading a page and writing it lands on the same file", () => {
-    const at = "instructions:pages/gadget/widget.gadget.md"
+    const at = "akasha:pages/gadget/widget.gadget.md"
     const name = nameFromAt(BY_NAME, at)
     expect(name).not.toBeNull()
     if (name === null) throw new Error("named nothing")
