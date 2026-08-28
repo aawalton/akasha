@@ -93,7 +93,7 @@ export default workflow("grafana", {
           ...checksumHashCommands({
             variable: "SECRET_HASH",
             read: `sops -d ${ci.workspace}/infra/k8s/src/grafana/grafana.k8s-secret.sops.yaml`,
-            subject: "grafana-secrets.sops.yaml",
+            subject: "grafana.k8s-secret.sops.yaml",
           }),
           'sed "s|checksum/config:.*|checksum/config: \\"${GRAFANA_HASH}\\"|" infra/k8s/src/grafana/generated/deployment.generated.yaml \\',
           '  | sed "s|checksum/grafana-secrets:.*|checksum/grafana-secrets: \\"${SECRET_HASH}\\"|" \\',
