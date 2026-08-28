@@ -1,6 +1,6 @@
 import { seatPageFile, seatPageValue, SEAT_MODE_KEY } from "./hook-seat-page.ts"
 
-const DECISION_PATIENCE = "2"
+const ROWS_ON = "seat-turn-end-decision"
 
 const SEAT_SUFFIX = ".seat"
 
@@ -10,12 +10,7 @@ export interface Keeper {
   readonly seatPage: () => string
   readonly seatName: () => string
   readonly seatMode: () => string
-  readonly record: (verdict: string, reason: string) => void
-}
-
-function originOf(): string {
-  const stated = process.env.PAGE_QUERY_ORIGIN
-  return stated === undefined || stated === "" ? "http://127.0.0.1:8787" : stated
+  readonly record: (verdict: string, reason: string) => Promise<void>
 }
 
 function stamped(): string {
@@ -47,42 +42,28 @@ export function keeper(hookName: string, agent: string, stdin: string): Keeper {
     const stated = seatPageValue(seatPage(), SEAT_MODE_KEY)
     return stated === "interactive" || stated === "headless" ? stated : "unknown"
   }
-  const record = (verdict: string, reason: string): void => {
+  const record = async (verdict: string, reason: string): Promise<void> => {
     const name = seatName()
     if (name === "") return
-    const body = JSON.stringify({
-      writer: hookName,
-      values: {
-        at: stamped(),
-        hook: hookName,
-        "claude-code-session-uuid": sessionIn(stdin),
-        verdict: verdict === "block" ? "refuse" : "allow",
-        reason: reason.replaceAll(/[^a-z0-9-]/g, ""),
-        mode: seatMode(),
-      },
-    })
-    try {
-      Bun.spawnSync({
-        cmd: [
-          "curl",
-          "-s",
-          "-m",
-          DECISION_PATIENCE,
-          "-o",
-          "/dev/null",
-          "-X",
-          "POST",
-          `${originOf()}/write-row/seat-turn-end-decision/${name}`,
-          "-H",
-          "content-type: application/json",
-          "-d",
-          body,
-        ],
-        stdout: "ignore",
-        stderr: "ignore",
-      })
-    } catch {
-      return
+    const values = {
+      at: stamped(),
+      hook: hookName,
+      "claude-code-session-uuid": sessionIn(stdin),
+      verdict: verdict === "block" ? "refuse" : "allow",
+      reason: reason.replaceAll(/[^a-z0-9-]/g, ""),
+      mode: seatMode(),
+    }
+    // THE ROW IS LANDED HERE RATHER THAN DIALLED. This posted to a page query service on loopback
+    // with curl, its body sent to `/dev/null` and its exit status never read, so once that service
+    // was deleted every turn-end decision was lost and nothing said so. The rows are
+    // `uncommitted: true`, so landing one in process costs a file append and no commit.
+    //
+    // THE WRITER IS IMPORTED ON THE FIRST RECORD. This module loads in a hook that runs at every
+    // turn end, and pulling the pages writer in at load would cost the turns that record nothing.
+    const { rowLanding } = await import("./page-query-client.ts")
+    const landed = await rowLanding("write-row", ROWS_ON, name, values, hookName)
+    if (!landed.ok) {
+      process.stderr.write(`[${hookName}] the turn-end decision did not land: ${landed.why}\n`)
     }
   }
   return { seatPage, seatName, seatMode, record }

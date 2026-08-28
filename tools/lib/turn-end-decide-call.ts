@@ -23,9 +23,13 @@ function forget(path: string): void {
   }
 }
 
-export function decideTurnEnd(keeper: Keeper, agent: string, stdin: string): number {
+export async function decideTurnEnd(
+  keeper: Keeper,
+  agent: string,
+  stdin: string
+): Promise<number> {
   if (Bun.which("ops") === null) {
-    keeper.record("allow", "verb-unavailable")
+    await keeper.record("allow", "verb-unavailable")
     return 0
   }
   const said = saidPath(agent)
@@ -44,10 +48,10 @@ export function decideTurnEnd(keeper: Keeper, agent: string, stdin: string): num
   const [decision = "", reason = ""] = lastLine(out).split("\t")
   if (decision !== "allow" && decision !== "block") {
     forget(said)
-    keeper.record("allow", "verb-unavailable")
+    await keeper.record("allow", "verb-unavailable")
     return 0
   }
-  keeper.record(decision, reason)
+  await keeper.record(decision, reason)
   if (decision === "block") {
     const kept = existsSync(said) ? readFileSync(said, "utf8") : ""
     const lines = kept.split("\n")

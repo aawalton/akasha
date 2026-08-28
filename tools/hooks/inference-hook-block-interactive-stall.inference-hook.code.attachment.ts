@@ -13,11 +13,11 @@ async function main(): Promise<number> {
   const agent = process.env.AGENT_ID ?? ""
   const kept = keeper(HOOK_NAME, agent, stdin)
   if (agent === "") {
-    kept.record("allow", "no-agent-id")
+    await kept.record("allow", "no-agent-id")
     return 0
   }
   if (kept.seatMode() !== "interactive") {
-    kept.record("allow", "not-interactive")
+    await kept.record("allow", "not-interactive")
     return 0
   }
   return decideTurnEnd(kept, agent, stdin)

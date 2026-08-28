@@ -3,41 +3,21 @@ import { seatNameOf, seatPageFile } from "../lib/hook-seat-page.ts"
 
 const HOOK_NAME = "local-agent-session-start"
 
-const ROTATION_PATIENCE = "2"
-
 const FLUSH = `${import.meta.dir}/../session-flush.ts`
 
-function originOf(): string {
-  const stated = process.env.PAGE_QUERY_ORIGIN
-  return stated === undefined || stated === "" ? "http://127.0.0.1:8787" : stated
-}
-
-function noteRotation(agent: string, sessionId: string): void {
+// THE ROTATION IS LANDED HERE RATHER THAN DIALLED. This posted to a page query service on loopback
+// with curl, its body sent to `/dev/null` and its exit status never read, so once that service was
+// deleted `rotated-session-uuid` reached no seat page and nothing said so.
+//
+// THE WRITER IS IMPORTED ON A ROTATION, NOT AT LOAD. This hook runs at every session start and
+// rotates on almost none of them.
+async function noteRotation(agent: string, sessionId: string): Promise<void> {
   const seat = seatNameOf(seatPageFile(agent))
   if (seat === "") return
-  const body = JSON.stringify({ writer: HOOK_NAME, values: { "rotated-session-uuid": sessionId } })
-  try {
-    Bun.spawnSync({
-      cmd: [
-        "curl",
-        "-s",
-        "-m",
-        ROTATION_PATIENCE,
-        "-o",
-        "/dev/null",
-        "-X",
-        "POST",
-        `${originOf()}/patch/seat/${seat}`,
-        "-H",
-        "content-type: application/json",
-        "-d",
-        body,
-      ],
-      stdout: "ignore",
-      stderr: "ignore",
-    })
-  } catch {
-    return
+  const { patchPage } = await import("../lib/page-query-client.ts")
+  const landed = await patchPage("seat", seat, { "rotated-session-uuid": sessionId }, HOOK_NAME)
+  if (!landed.ok) {
+    process.stderr.write(`[${HOOK_NAME}] the rotated session uuid did not land: ${landed.why}\n`)
   }
 }
 
@@ -51,7 +31,7 @@ async function main(): Promise<number> {
   if (agent === "") return 0
   if (sessionId === "" || transcriptPath === "") return 0
 
-  if (source === "clear") noteRotation(agent, sessionId)
+  if (source === "clear") await noteRotation(agent, sessionId)
 
   if (process.env.AGENT_LAUNCH === "spawned") {
     try {
