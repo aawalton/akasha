@@ -81,7 +81,7 @@ function shapeStated(type: PageType, slug: string, tree: FileTree): Shape {
   return shapeOf(type.slug, at, text, above)
 }
 
-export function shapeFor(type: PageType, tree: FileTree): Shape {
+function shapeWorkedOut(type: PageType, tree: FileTree): Shape {
   const text = tree.open(type.relPath)
   if (text === null) return no(`\`${type.relPath}\` is not in the repo this call would produce`)
   const { fm, why: unread } = blockOf(text)
@@ -90,4 +90,37 @@ export function shapeFor(type: PageType, tree: FileTree): Shape {
   if (stated === null || stated === NONE)
     return no(`\`${type.relPath}\` states no \`${BODY_SHAPE_KEY}\`, so nothing says what a body of this kind may hold`)
   return shapeStated(type, stated, tree)
+}
+
+const shapes = new WeakMap<FileTree, Map<string, Shape>>()
+
+/**
+ * The shape the bodies of one page type are held to.
+ *
+ * WORKING ONE OUT WALKS THE WHOLE TREE. `shapeAt` turns a body-shape slug into a file by scanning
+ * every path the tree holds, and `shapeChain` scans again for each `extends-slug` above it, so one
+ * shape costs several passes over ninety thousand paths — twenty-four milliseconds measured here.
+ * The answer depends on the type and the tree and on nothing else, yet `page-holds-to-its-type`
+ * asked for one per page: fifty-nine thousand pages carry a page type and three hundred and one
+ * distinct shapes answer for all of them, which is twenty-four minutes spent to learn the same
+ * three hundred and one things over and over. That is why an audit of that check never returned.
+ *
+ * HELD AGAINST THE TREE OBJECT, NOT A NAME FOR IT. A gate and an audit run against different trees
+ * inside one call, and a staged tree carries bodies that stand on no disk, so no mark names one; the
+ * object is the only identity a tree has. An entry therefore cannot outlive the tree it was worked
+ * out against, and the tree is the only thing that could change the answer. The type is keyed by
+ * both its path and its slug because `shapeOf` is handed the slug and reads the file at the path.
+ */
+export function shapeFor(type: PageType, tree: FileTree): Shape {
+  let held = shapes.get(tree)
+  if (held === undefined) {
+    held = new Map<string, Shape>()
+    shapes.set(tree, held)
+  }
+  const key = `${type.relPath}\n${type.slug}`
+  const standing = held.get(key)
+  if (standing !== undefined) return standing
+  const made = shapeWorkedOut(type, tree)
+  held.set(key, made)
+  return made
 }
