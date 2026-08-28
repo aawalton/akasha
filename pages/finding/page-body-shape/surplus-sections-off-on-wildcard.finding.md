@@ -8,12 +8,12 @@ domain-slug: page-type/page-body-shape
 
 # Claim
 
-One level-one wildcard heading anywhere in a schema's `extends` chain turns off surplus-section refusal for the whole document, and no schema declares one today.
+One level-one wildcard heading anywhere in a page body shape's `extends` chain turns off surplus-section refusal and section ordering for the whole document. One shape declares such a wildcard today, and no verdict is wrong for it.
 
 # Evidence
 
-`tools/document/check.ts` sets `anyHeadingAdmitted` where a level-one section part matches any heading, and that single flag gates the entire loop that reports a level-one section the schema does not name. The flag is document-wide rather than scoped to the schema that raised it, so a wildcard declared on one ancestor stops every surplus section being refused anywhere in the document.
+`page/document/check.ts:224` sets `anyHeadingAdmitted` where a level-one section part matches any heading, and `:237` gates two things behind it: the loop reporting a level-one section the shape does not name, and the `checkOrder` call beside it. The flag stands at `:208`, outside the walk, so it is document-wide rather than scoped to the shape that raised it, and a wildcard declared on one ancestor stops both anywhere in the document.
 
-The one `match: "any"` in the corpus stands at level two, in `schemas/principle-or-rule.ts`, and the loop skips parts below level one. So nothing trips this today and no verdict is currently wrong.
+`pages/page-body-shape/notice.page-body-shape.md:25` declares `# {title}`, which is the first level-one wildcard in the corpus. Nothing goes unjudged by it. Ordering was already vacuous, `orderedSections` being filled only from literal level-one headings at `:225` and `notice` naming none; and a surplus level-one section is still refused by cardinality, the `title` block stating no `count:` and so falling to at most one. Checked against `pages/notice/resume.notice.md`, the only notice page: it passes, and a second level-one heading is refused.
 
-That is what makes it worth filing rather than fixing in place: the first level-one wildcard anybody declares silently removes a refusal across every document of that kind, and the corpus stays inside a bound that stopped existing.
+The exposure is a shape naming literal level-one headings and a wildcard one together. No shape does, and nothing extends `notice`.
