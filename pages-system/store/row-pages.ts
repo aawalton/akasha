@@ -15,6 +15,10 @@
  * iterator, for the reason `rows.ts` gives: a caller that walks a set once to index it and again to
  * use it finds the second walk empty otherwise, and nothing says so.
  *
+ * A ROW'S ADDRESS NAMES THE REPOSITORY ITS SIDECAR STANDS IN, as a file page's does. The sidecar
+ * is addressed inside the repository the holder was addressed inside, so nothing here decides which
+ * repository a row came from; it carries the one its holder carried.
+ *
  * A SIDECAR THAT IS NOT THERE IS A PAGE HOLDING NO ROWS. That is an ordinary answer — most pages of
  * a holding page type hold none — and is not reported. A line that is there and is not a row is
  * reported, because the sidecar says it is a page and it cannot be read as one.
@@ -22,6 +26,7 @@
 
 import type { Value, Values } from "../formula/formula.ts"
 import type { Declared, Page } from "../query/query.ts"
+import { type Repo, addressIn, notIn, pathOf } from "./address.ts"
 import { sidecarsOf, textAt } from "./files.ts"
 import { valuedAs } from "./held.ts"
 import { rowsIn } from "./rows.ts"
@@ -63,17 +68,22 @@ const valuesOf = (
 
 /** Walk every sidecar of every holder, yielding a page per row. */
 function* walk(
-  root: string,
+  repo: Repo,
   where: Iterable<Where>,
   declared: Declared,
   now: number
 ): Generator<Page | Unread> {
   for (const one of where) {
-    const holder = stemOf(one.at)
-    for (const sidecar of sidecarsOf(root, one.at, one.key)) {
-      const text = textAt(root, sidecar)
+    const path = pathOf(repo, one.at)
+    if (path === null) {
+      yield { at: one.at, unread: notIn(repo.repo) }
+      continue
+    }
+    const holder = stemOf(path)
+    for (const sidecar of sidecarsOf(repo.root, path, one.key)) {
+      const text = textAt(repo.root, sidecar)
       if (text === null) continue
-      for (const row of rowsIn(sidecar, text, holder)) {
+      for (const row of rowsIn(addressIn(repo.repo, sidecar), text, holder)) {
         if ("unread" in row) {
           yield row
           continue
@@ -94,12 +104,16 @@ function* walk(
  *
  * THE ORDER IS THE ORDER THE HOLDERS ARRIVED IN, and within one holder the order its sidecar holds.
  * No other order is promised, as none is for a page type whose pages are files.
+ *
+ * A HOLDER ADDRESSED IN ANOTHER REPOSITORY ANSWERS ONE UNREAD RATHER THAN NO ROWS. A holder whose
+ * sidecar is simply not there holds no pages, and answering the same for a holder this repository
+ * could never have read would hide the mistake among the ordinary answers.
  */
 export const rowPagesIn = (
-  root: string,
+  repo: Repo,
   where: Iterable<Where>,
   declared: Declared,
   now: number
 ): Iterable<Page | Unread> => ({
-  [Symbol.iterator]: () => walk(root, where, declared, now),
+  [Symbol.iterator]: () => walk(repo, where, declared, now),
 })

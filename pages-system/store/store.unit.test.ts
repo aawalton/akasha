@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
+import type { Repo } from "./address.ts"
 import { declarationOf, extendingIn, holdingsOf, pageAt, pagesOf, type Unread } from "./store.ts"
 
 /**
@@ -8,6 +9,12 @@ import { declarationOf, extendingIn, holdingsOf, pageAt, pagesOf, type Unread } 
  * is one, and this one is the one standing under the file being tested.
  */
 const ROOT = `${import.meta.dir}/../..`
+
+/**
+ * That repository, named as an address names it. Which repository a root is is the caller's to say,
+ * so a test says it, and every address these cases read is one issued from here.
+ */
+const REPO: Repo = { repo: "akasha", root: ROOT }
 
 /** The moment every page in a pass is read at. A store holds no clock, so a test states one. */
 const NOW = 0
@@ -82,11 +89,11 @@ test("the pages of a page type beneath arrive only where the query expands", () 
 
   expect(narrow.pageTypes).toEqual(["domain"])
   expect(wide.pageTypes).toContain("command")
-  expect(pagesOf(ROOT, "command").length).toBeGreaterThan(0)
+  expect(pagesOf(REPO, "command").length).toBeGreaterThan(0)
 })
 
 test("every page of a page type is found by the name of its own file", () => {
-  const found = pagesOf(ROOT, "seat")
+  const found = pagesOf(REPO, "seat")
   expect(found.length).toBeGreaterThan(0)
   for (const at of found) expect(at.endsWith(".seat.md")).toBe(true)
 })
@@ -122,14 +129,14 @@ test("no rows spelling in this repository is beyond what the store reads", () =>
 })
 
 test("a page type whose pages are rows answers none of them, nothing here reading a sidecar", () => {
-  expect(pagesOf(ROOT, "session-tracking")).toEqual([])
+  expect(pagesOf(REPO, "session-tracking")).toEqual([])
 })
 
 test("a page holds what it states, under the type its page type declares", () => {
   const declared = seat()
-  const at = pagesOf(ROOT, "seat")[0]
+  const at = pagesOf(REPO, "seat")[0]
   if (at === undefined) throw new Error("no seat page stands")
-  const read = pageAt(ROOT, at, declared, NOW)
+  const read = pageAt(REPO, at, declared, NOW)
   if ("unread" in read) throw new Error(read.unread)
   expect(read.at).toBe(at)
   expect(read.values.properties["id"]?.kind).toBe("text")
@@ -138,15 +145,35 @@ test("a page holds what it states, under the type its page type declares", () =>
 
 test("a key the page type declares and the page states nothing under holds nothing", () => {
   const declared = seat()
-  const at = pagesOf(ROOT, "seat")[0]
+  const at = pagesOf(REPO, "seat")[0]
   if (at === undefined) throw new Error("no seat page stands")
-  const read = pageAt(ROOT, at, declared, NOW)
+  const read = pageAt(REPO, at, declared, NOW)
   if ("unread" in read) throw new Error(read.unread)
   expect(read.values.properties["cover"]).toEqual({ kind: "absent" })
 })
 
+test("every address a store issues names the repository it was read from", () => {
+  const found = pagesOf(REPO, "seat")
+  expect(found.length).toBeGreaterThan(0)
+  for (const at of found) expect(at.startsWith("akasha:")).toBe(true)
+})
+
 test("an address naming no page answers why it could not be read, rather than empty values", () => {
-  const read = pageAt(ROOT, "agent/seat/nobody-sits-here.seat.md", seat(), NOW)
+  const read = pageAt(REPO, "akasha:agent/seat/nobody-sits-here.seat.md", seat(), NOW)
+  expect("unread" in read).toBe(true)
+})
+
+test("a path with no repository in front of it is no address of this repository", () => {
+  const read = pageAt(REPO, "agent/seat/nobody-sits-here.seat.md", seat(), NOW)
+  if (!("unread" in read)) throw new Error("read")
+  expect(read.unread).toContain("akasha")
+})
+
+test("an address of another repository is not taken against this root", () => {
+  const found = pagesOf(REPO, "seat")[0]
+  if (found === undefined) throw new Error("no seat page stands")
+  const path = found.slice("akasha:".length)
+  const read = pageAt(REPO, `code-editor:${path}`, seat(), NOW)
   expect("unread" in read).toBe(true)
 })
 
@@ -156,8 +183,8 @@ test("the names of the running seats", () => {
   if (!checked.ok) throw new Error(checked.message)
 
   const read = checked.pageTypes
-    .flatMap((one) => pagesOf(ROOT, one))
-    .map((at) => pageAt(ROOT, at, declared, NOW))
+    .flatMap((one) => pagesOf(REPO, one))
+    .map((at) => pageAt(REPO, at, declared, NOW))
   const unread = read.filter((one): one is Unread => "unread" in one)
   expect(unread).toEqual([])
 
@@ -167,6 +194,6 @@ test("the names of the running seats", () => {
   const pages = read.filter((one): one is Page => !("unread" in one))
   const found = runQuery(checked, pages)
   const names = found.map((page) => nameOf(naming, page.values))
-  expect(names.length).toBe(pagesOf(ROOT, "seat").length)
+  expect(names.length).toBe(pagesOf(REPO, "seat").length)
   for (const name of names) expect(typeof name).toBe("string")
 })

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import type { Declared, Page } from "../query/query.ts"
+import { addressIn } from "./address.ts"
 import { rowPagesIn, type Where } from "./row-pages.ts"
 import type { Unread } from "./store.ts"
 
@@ -18,6 +19,9 @@ const DECLARED: Declared = {
   beyond: {},
 }
 
+/** What the scratch root under test is called. A root is a repository only once named as one. */
+const REPO = "scratch"
+
 const HOLDER = "pages/day/monday.log-day.md"
 
 /** A root holding one page and whatever sidecars the case is about. */
@@ -31,10 +35,10 @@ const rootOf = (sidecars: Readonly<Record<string, string>>): string => {
   return root
 }
 
-const WHERE: readonly Where[] = [{ at: HOLDER, key: "lines" }]
+const WHERE: readonly Where[] = [{ at: addressIn(REPO, HOLDER), key: "lines" }]
 
 const read = (root: string): readonly (Page | Unread)[] => [
-  ...rowPagesIn(root, WHERE, DECLARED, NOW),
+  ...rowPagesIn({ repo: REPO, root }, WHERE, DECLARED, NOW),
 ]
 
 const pages = (found: readonly (Page | Unread)[]): readonly Page[] =>
@@ -110,15 +114,24 @@ test("a line that is not a row is answered as unread rather than dropped", () =>
   })
 })
 
-test("a page's address carries the name its row states", () => {
+test("a page's address carries its repository, its sidecar, and the name its row states", () => {
   inRoot({ "monday.log-day.lines.jsonl": `{"slug":"morning"}\n` }, (root) => {
-    expect(pages(read(root))[0]?.at).toBe("pages/day/monday.log-day.lines.jsonl#morning")
+    expect(pages(read(root))[0]?.at).toBe("scratch:pages/day/monday.log-day.lines.jsonl#morning")
+  })
+})
+
+test("a holder addressed in another repository answers one unread rather than no rows", () => {
+  inRoot({ "monday.log-day.lines.jsonl": `{"slug":"a"}\n` }, (root) => {
+    const elsewhere: readonly Where[] = [{ at: addressIn("elsewhere", HOLDER), key: "lines" }]
+    const found = [...rowPagesIn({ repo: REPO, root }, elsewhere, DECLARED, NOW)]
+    expect(found.length).toBe(1)
+    expect(found.every((one) => "unread" in one)).toBe(true)
   })
 })
 
 test("reading the pages twice answers them twice", () => {
   inRoot({ "monday.log-day.lines.jsonl": `{"slug":"a"}\n{"slug":"b"}\n` }, (root) => {
-    const held = rowPagesIn(root, WHERE, DECLARED, NOW)
+    const held = rowPagesIn({ repo: REPO, root }, WHERE, DECLARED, NOW)
     expect([...held].length).toBe(2)
     expect([...held].length).toBe(2)
   })
@@ -127,7 +140,7 @@ test("reading the pages twice answers them twice", () => {
 test("a reader may stop early and leave the rest of the sidecar unread", () => {
   inRoot({ "monday.log-day.lines.jsonl": `{"slug":"a"}\n{"slug":"b"}\n{"slug":"c"}\n` }, (root) => {
     const taken: string[] = []
-    for (const one of rowPagesIn(root, WHERE, DECLARED, NOW)) {
+    for (const one of rowPagesIn({ repo: REPO, root }, WHERE, DECLARED, NOW)) {
       if ("unread" in one) continue
       taken.push(one.at)
       break
@@ -138,6 +151,6 @@ test("a reader may stop early and leave the rest of the sidecar unread", () => {
 
 test("no holder at all holds no pages", () => {
   inRoot({ "monday.log-day.lines.jsonl": `{"slug":"a"}\n` }, (root) => {
-    expect([...rowPagesIn(root, [], DECLARED, NOW)]).toEqual([])
+    expect([...rowPagesIn({ repo: REPO, root }, [], DECLARED, NOW)]).toEqual([])
   })
 })

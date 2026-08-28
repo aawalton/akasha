@@ -13,8 +13,8 @@
  * those pages holds. A resolver is those five and the pure halves put together, and the putting
  * together is the caller's, so that no order of calls is baked in here.
  *
- * WHERE A PAGE STANDS IS AN ADDRESS THIS PACKAGE ISSUES AND READS BACK, never a path a caller may
- * take apart or join to a root. A page is a file and its rows are a sidecar beside it, so a page of
+ * WHERE A PAGE STANDS IS AN ADDRESS THIS PACKAGE ISSUES AND READS BACK — `address.ts` spells one,
+ * naming the repository — never a path a caller may join to a root. A page is a file and its rows are a sidecar beside it, so a page of
  * a page type stating `files: none` — `session-tracking` is one — stands as a line in another page's
  * sidecar and has no file of its own to be named by. Rows enter here and nowhere else: `pagesOf`
  * learns to answer a holder's rows, `pageAt` learns to read one back, and no caller can tell. A
@@ -29,6 +29,7 @@
 
 import type { Property, Value, Values } from "../formula/formula.ts"
 import type { Declared, Extending, Page } from "../query/query.ts"
+import { type Repo, addressIn, notIn, pathOf } from "./address.ts"
 import { type Stated, pagesUnder, statedAt } from "./files.ts"
 import { heldBy, valuedAs } from "./held.ts"
 
@@ -261,9 +262,11 @@ export const holdingsOf = (root: string, pageType: string): Held => {
 /**
  * Where every page of a page type stands, in whatever order they were found.
  *
- * AN ADDRESS IS THIS PACKAGE'S TO READ. A page held in a file is addressed by its path below the
- * root, which is what every address is today; a page held as a row will be addressed by its holder
- * and its place in it, and only `pageAt` will know the difference.
+ * AN ADDRESS IS THIS PACKAGE'S TO READ. A page held in a file is addressed by the repository it
+ * stands in and its path below that repository's root; a page held as a row is addressed by the
+ * sidecar holding it and its name within that, and only `pageAt` knows the difference.
+ *
+ * ONE CALL READS ONE REPOSITORY, and a caller reading across every repository makes one call each.
  *
  * THE PAGE TYPE NEED NOT STAND. A slug naming no page type answers no pages, the same as one whose
  * pages are all gone, because what makes a file a page of this type is its own name and nothing
@@ -276,8 +279,10 @@ export const holdingsOf = (root: string, pageType: string): Held => {
  * NO ORDER IS PROMISED. A caller wanting one sorts, and a query wanting one has nowhere to say so
  * yet.
  */
-export const pagesOf = (root: string, pageType: string): readonly string[] =>
-  pagesUnder(root, new Set([pageType])).get(pageType) ?? []
+export const pagesOf = (repo: Repo, pageType: string): readonly string[] =>
+  (pagesUnder(repo.root, new Set([pageType])).get(pageType) ?? []).map((at) =>
+    addressIn(repo.repo, at)
+  )
 
 /**
  * What one page holds, under the types its page type declares, or why it could not be read.
@@ -294,14 +299,19 @@ export const pagesOf = (root: string, pageType: string): readonly string[] =>
  * page states in a sidecar beside it — the rows under a key declared `pages`, and the values under
  * a key marked `uncommitted` — is stated as truly and is not read here, so such a key answers
  * absent.
+ *
+ * AN ADDRESS OF ANOTHER REPOSITORY IS UNREAD RATHER THAN TAKEN AGAINST THIS ROOT, which would
+ * answer whatever stands at that path here for an address this repository never issued.
  */
 export const pageAt = (
-  root: string,
+  repo: Repo,
   at: string,
   declared: Declared,
   now: number
 ): Page | Unread => {
-  const stated = statedAt(root, at)
+  const path = pathOf(repo, at)
+  if (path === null) return { at, unread: notIn(repo.repo) }
+  const stated = statedAt(repo.root, path)
   if (typeof stated === "string") return { at, unread: stated }
   const properties: Record<string, Value> = {}
   for (const [key, property] of Object.entries(declared.properties)) {
