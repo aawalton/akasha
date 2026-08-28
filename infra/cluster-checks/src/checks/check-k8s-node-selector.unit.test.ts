@@ -130,7 +130,7 @@ describe("scanTsContent — ts-literal rule (extended to workload-class key)", (
 
   test("flags the dotted membership literal outside hostnames.ts (new #11608 behavior)", () => {
     const content = `const x = ${WORKLOAD_CLASS_MEMBER_LITERAL}\n`
-    const v = scanTsContent(content, "infra/k8s/src/postgres/cnpg-cluster.ts")
+    const v = scanTsContent(content, "infra/k8s/src/postgres-cnpg/cnpg-cluster.ts")
     expect(v.map((violation) => violation.kind)).toEqual(["ts-literal"])
   })
 

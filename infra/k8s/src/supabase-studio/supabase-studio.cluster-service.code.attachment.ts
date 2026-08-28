@@ -3,7 +3,7 @@ import {
   CNPG_POSTGRES_PRIMARY_LABELS,
   colocationAffinityPreferred,
 } from "@infra/k8s-types/hostnames"
-import { retryTransientDdl } from "../postgres/retry-transient-ddl"
+import { retryTransientDdl } from "../postgres-cnpg/retry-transient-ddl"
 
 const NAMESPACE = "supabase-studio"
 const APP_NAME = "supabase-studio"
