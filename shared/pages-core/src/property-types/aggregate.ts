@@ -1,5 +1,5 @@
 import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { resolveComputedProperties } from "../formula/resolve"
+import { isComputed, resolveComputedProperties } from "../formula/resolve"
 import { type AggregateFilter, aggregateFilterSchema } from "../schema/property-config-schemas"
 import type { PageDataJSON, PropertyDefinition } from "../types"
 import type { ReadonlyJSONValue } from "../schema/pages"
@@ -48,7 +48,7 @@ function readTargetValue(
     const defs = pageTypes.get(typeId)
     if (defs) {
       const def = defs.find((d) => d.id === targetPropertyId)
-      if (def?.type === "formula") {
+      if (def !== undefined && isComputed(def)) {
         return resolveComputedProperties(page.data, defs)[targetPropertyId] ?? null
       }
     }

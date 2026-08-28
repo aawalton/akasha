@@ -1,12 +1,12 @@
 "use client"
 
-import { isLiveFormulaConfig } from "@shared/pages-core/formula/resolve"
+import { isComputed, isLiveFormulaConfig } from "@shared/pages-core/formula/resolve"
 import { useEffect, useMemo, useState } from "react"
 import type { PropertyDefinition } from "@shared/pages-core/types"
 
 export function useLiveNow(defs: readonly PropertyDefinition[], liveRefreshMs?: number): number {
   const hasLiveField = useMemo(
-    () => defs.some((d) => d.type === "formula" && isLiveFormulaConfig(d.config)),
+    () => defs.some((d) => isComputed(d) && isLiveFormulaConfig(d.config)),
     [defs]
   )
   const [now, setNow] = useState(0)

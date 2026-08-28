@@ -108,4 +108,4 @@ export function resolveComputedProperties(
   return enriched
 }
 
-export { isFormulaError }
+export { isFormulaError, isComputed }

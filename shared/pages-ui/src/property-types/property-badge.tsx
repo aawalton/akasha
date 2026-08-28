@@ -1,8 +1,10 @@
 "use client"
 
+import { Badge } from "@shared/design-badges/components/badge"
 import { BadgeLayoutProvider } from "@shared/design-badges/components/badge-layout-context"
 import { EmptyBadge } from "@shared/design-badges/components/empty-badge"
 import { Icon } from "@shared/design-patterns/components/icon"
+import { isComputed, isFormulaError } from "@shared/pages-core/formula/resolve"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "@shared/pages-core/types"
 import { propertyTypeRendersWhenEmpty } from "@shared/pages-core/property-types/registry"
 import type { ComponentType } from "react"
@@ -69,6 +71,9 @@ export function PropertyBadge(props: PropertyBadgeProps) {
   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
   const Component = propertyBadgeRegistry[property.type]
   const lookup = (type: PropertyType) => propertyBadgeRegistry[type]
+  // A COMPUTED PROPERTY'S TYPE IS THE TYPE IT HOLDS, so an evaluation failure has no badge of its own to
+  // land in: the badge chosen from the type would render the error object as that type's blank value. Every
+  // property passes through here, and the error value comes back only for one carrying an expression.
   return (
     <BadgeLayoutProvider
       truncate={layout.truncate}
@@ -76,7 +81,13 @@ export function PropertyBadge(props: PropertyBadgeProps) {
       display={property.display}
       icon={icon}
     >
-      <Component {...props} lookup={lookup} />
+      {isComputed(property) && isFormulaError(value) ? (
+        <Badge variant="destructive" title={value.__formulaError}>
+          Error
+        </Badge>
+      ) : (
+        <Component {...props} lookup={lookup} />
+      )}
     </BadgeLayoutProvider>
   )
 }
