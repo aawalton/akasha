@@ -11,6 +11,7 @@ import {
   placesIn,
   scanIn,
   soleRepoOf,
+  typeSuffixOf,
 } from "../../page/page-types.ts"
 import { stemOf as slugOf } from "../../page/name/name.ts"
 import { type Roots } from "../../page/page.ts"
@@ -67,8 +68,16 @@ export function whereFor(
   if (repo === null || !isAddressable(repo)) return null
   const root = roots[repo]
   if (root === undefined) return null
+  // A CANDIDATE MUST CARRY THIS PAGE TYPE'S SEGMENT. Both tests below would otherwise claim a file
+  // named `<name>.md` carrying no type at all: the first matches it outright, and `stemOf` cuts at the
+  // first dot, so the second reads its stem as `<name>` too. Nothing offers one today because every
+  // `files:` glob ends `*.<slug>.md` — 313 across `pages/page-type/`, and the two that constrain a
+  // directory constrain the suffix as well — which is a property of the data rather than of this
+  // code. `newPageNameFor` composes `<name>.<slug>.md`, so this asks of a page that stands exactly
+  // what it spells for one that does not.
   const stands = (one: string): boolean => {
     const last = one.split("/").at(-1) ?? one
+    if (typeSuffixOf(last) !== type.slug) return false
     return last === `${name}.md` || slugOf(last) === name
   }
   const statesSlug = (one: string): boolean => {
