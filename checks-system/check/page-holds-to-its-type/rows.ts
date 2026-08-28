@@ -20,8 +20,7 @@ const TARGET_KEY = "target-slug"
  * true empty: there is nothing there to judge and the check is right to walk past it. A path that
  * IS one, whose rows nothing settles a type for, is a fault: the file holds rows, and walking past
  * it leaves every one of them unjudged while the check reports nothing against the file. Answering
- * both with one value is what let 148,081 rows in twenty-four split sidecars go unjudged and unsaid
- * — see `pages/finding/pages-system/a-split-sidecars-key-is-read-as-its-part-number.finding.md`.
+ * both with one value is what let 148,081 rows in twenty-four split sidecars go unjudged and unsaid.
  * `unheld` carries the second and is null for the first, so a caller that reads only `slug` skips
  * both and a caller that reads `unheld` surfaces the fault.
  */

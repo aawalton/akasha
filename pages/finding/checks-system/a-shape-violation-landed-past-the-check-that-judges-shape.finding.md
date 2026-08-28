@@ -11,7 +11,7 @@ domain-slug: domain/checks-system
 
 # Evidence
 
-The page was `pages/finding/pages-system/a-split-sidecars-key-is-read-as-its-part-number.finding.md`, written by this seat and landed at commit `575187de`. The gate's whole answer was `gate: 9 akasha check(s) over 1 changed file(s), none refused`.
+The page was `pages/finding/pages-system/a-split-sidecars-key-is-read-as-its-part-number.finding.md`, written by this seat and landed at commit `575187de`. That page no longer stands in the tree: the defect it named was fixed at `79d791236` and `7bced54af`, and it was deleted as already fixed, so it is read from git rather than from disk. The gate's whole answer was `gate: 9 akasha check(s) over 1 changed file(s), none refused`.
 
 `ops checks audit page-holds-to-its-type` then named three failures against that same file: `# Claim` at line 8 measured 1342 against a bound of 500, the claim paragraph at line 17 measured 504 against 500, and `# Evidence` at line 21 measured 2400 against 2000. The bounds are `lg` and `2xl` on the claim and evidence slots of `pages/page-body-shape/finding.page-body-shape.md`. It was brought inside them at `8ef1bca5`.
 
