@@ -25,7 +25,10 @@ import { resolveMcpConfig } from "./supervisor-mcp.ts"
 import type { CarriedAgentName } from "./supervisor-rebind-carry"
 import type { ClearRebindDeps } from "./supervisor-rebind-deps.ts"
 import { isPendingReExec } from "./supervisor-self-heal-state"
-import { resolveSubagentDefinitions } from "./supervisor-spawn-agents.ts"
+import {
+  disallowedToolsForLaunch,
+  resolveSubagentDefinitions,
+} from "./supervisor-spawn-agents.ts"
 import { materializeSpawnSettings } from "./supervisor-spawn-settings.ts"
 import { setOAuthProxyHandle } from "./supervisor-state.ts"
 import type { AgentProcess } from "./supervisor-types.ts"
@@ -136,7 +139,7 @@ export async function buildIterationSpawnOpts(args: {
   const cliArgs = buildInteractiveCLIArgs({
     mcpConfigPath: iterMcpPath,
     tools: restrictions.tools,
-    disallowedTools: restrictions.disallowedTools,
+    disallowedTools: disallowedToolsForLaunch(restrictions.disallowedTools, agentsJson),
     resume,
     sessionId,
     systemPromptFile,

@@ -10,6 +10,16 @@ const COMPOSE_COMMAND = "compose-subagents"
 
 const COMPOSE_TIMEOUT_MS = 5_000
 
+// THE CLIENT SPELLS ITS DELEGATION TOOL `Agent`. That is the name `settings/agents.json`
+// writes its permission rules against, and the only name delegation carries as a tool name in
+// this account's transcripts. `TaskOutput` and `TaskStop` are other tools and are left alone.
+const DELEGATION_TOOL = "Agent"
+
+const DELEGATION_OFF =
+  `Delegation is OFF for this launch: the ${DELEGATION_TOOL} tool is disallowed, so this seat ` +
+  `cannot dispatch a subagent at all. A subagent started without these definitions is never ` +
+  `told to read its seat, and nothing it can see tells it apart from one that was.`
+
 const AGENT_MAP = shape.record(shape.string(), shape.unknown())
 
 export function renderSubagentDefinitions(raw: string): string | null {
@@ -27,21 +37,30 @@ export function renderSubagentDefinitions(raw: string): string | null {
 export async function resolveSubagentDefinitions(): Promise<string | null> {
   const result = await composed()
   if ("reason" in result) {
-    console.error(
-      `${LOG} subagent definitions NOT loaded: ${result.reason}. Subagents on this seat ` +
-        `run on the client's own prompts and descriptions.`
-    )
+    console.error(`${LOG} subagent definitions NOT loaded: ${result.reason}. ${DELEGATION_OFF}`)
     return null
   }
   const rendered = renderSubagentDefinitions(result.out)
   if (rendered === null) {
     console.error(
       `${LOG} subagent definitions NOT loaded: ${COMPOSE_COMMAND} did not return a non-empty ` +
-        `JSON object of definitions. Subagents on this seat run on the client's own prompts ` +
-        `and descriptions.`
+        `JSON object of definitions. ${DELEGATION_OFF}`
     )
   }
   return rendered
+}
+
+/**
+ * The disallowed-tools list one launch goes out with: the seat's declared list, and the
+ * delegation tool on top of it where the definitions did not compose. A launch carrying no
+ * composed definitions has no preamble to give a subagent, so it dispatches none.
+ */
+export function disallowedToolsForLaunch(
+  declared: readonly string[],
+  agentsJson: string | null
+): readonly string[] {
+  if (agentsJson !== null) return declared
+  return [...declared, DELEGATION_TOOL]
 }
 
 async function composed(): Promise<{ out: string } | { reason: string }> {

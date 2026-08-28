@@ -10,6 +10,7 @@ import {
   buildInteractiveCLIArgs,
   type InteractiveCLIArgsOpts,
 } from "../lib/claude-launch-args.ts"
+import { disallowedToolsForLaunch } from "../lib/supervisor-spawn-agents.ts"
 
 const baseOpts: InteractiveCLIArgsOpts = {
   mcpConfigPath: null,
@@ -26,6 +27,7 @@ const baseOpts: InteractiveCLIArgsOpts = {
 
 const AGENTS_JSON = '{"general-purpose":{"description":"d","prompt":"p"}}'
 const COMPOSED_PROMPT = "/tmp/agent-boot-prompt-019f73b5.md"
+const DECLARED_DISALLOWED = ["Read", "CronCreate"]
 
 const SCENARIOS: readonly Scenario[] = [
   {
@@ -250,6 +252,61 @@ const SCENARIOS: readonly Scenario[] = [
       containsFallbackFlag: buildInteractiveCLIArgs(baseOpts).includes("--fallback-model"),
     }),
     standing: { containsFallbackFlag: false },
+  },
+  // THE WHOLE ARGV, hand-computed from the flag order in `buildInteractiveCLIArgs` and from
+  // `settings/launch-flags.json`. The pair holds that a launch either carries composed
+  // definitions or forbids delegating, and never neither.
+  {
+    name: "a launch whose definitions composed carries them and leaves delegation alone",
+    ported: () => ({
+      argv: buildInteractiveCLIArgs({
+        ...baseOpts,
+        disallowedTools: disallowedToolsForLaunch(DECLARED_DISALLOWED, AGENTS_JSON),
+        agentsJson: AGENTS_JSON,
+      }),
+    }),
+    standing: {
+      argv: [
+        "--dangerously-skip-permissions",
+        "--system-prompt-file",
+        "/tmp/agent-boot-prompt-test.md",
+        "--model",
+        "opus[1m]",
+        "--settings",
+        "/tmp/agent-settings-test.json",
+        "--agents",
+        AGENTS_JSON,
+        "--disallowed-tools",
+        "Read,CronCreate",
+        "--session-id",
+        "test-session-id",
+      ],
+    },
+  },
+  {
+    name: "a launch whose definitions did not compose disallows the delegation tool",
+    ported: () => ({
+      argv: buildInteractiveCLIArgs({
+        ...baseOpts,
+        disallowedTools: disallowedToolsForLaunch(DECLARED_DISALLOWED, null),
+        agentsJson: null,
+      }),
+    }),
+    standing: {
+      argv: [
+        "--dangerously-skip-permissions",
+        "--system-prompt-file",
+        "/tmp/agent-boot-prompt-test.md",
+        "--model",
+        "opus[1m]",
+        "--settings",
+        "/tmp/agent-settings-test.json",
+        "--disallowed-tools",
+        "Read,CronCreate,Agent",
+        "--session-id",
+        "test-session-id",
+      ],
+    },
   },
 ]
 

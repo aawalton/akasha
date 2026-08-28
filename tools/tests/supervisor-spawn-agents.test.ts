@@ -3,6 +3,7 @@ import { describe, expect, it } from "bun:test"
 import { decided, hold } from "../lib/digest-harness.ts"
 import { shape } from "../lib/shape.ts"
 import {
+  disallowedToolsForLaunch,
   renderSubagentDefinitions,
   resolveSubagentDefinitions,
 } from "../lib/supervisor-spawn-agents.ts"
@@ -114,6 +115,48 @@ describe("a tree the command cannot be run from", () => {
         const answer = decided("ported", { value: await resolveSubagentDefinitions(), notice: null })
         expect(hold(one.name, one.standing, answer).matches).toBe(true)
       })
+    })
+  }
+})
+
+interface GuardCase {
+  readonly name: string
+  readonly declared: readonly string[]
+  readonly agentsJson: string | null
+  readonly standing: readonly string[]
+}
+
+const COMPOSED = '{"a":{"description":"d","prompt":"p"}}'
+
+const GUARDED: readonly GuardCase[] = [
+  {
+    name: "leaves the declared list alone where the definitions composed",
+    declared: ["Read", "CronCreate"],
+    agentsJson: COMPOSED,
+    standing: ["Read", "CronCreate"],
+  },
+  {
+    name: "disallows the delegation tool where the definitions did not compose",
+    declared: ["Read", "CronCreate"],
+    agentsJson: null,
+    standing: ["Read", "CronCreate", "Agent"],
+  },
+  {
+    name: "disallows delegation where the seat declared nothing else",
+    declared: [],
+    agentsJson: null,
+    standing: ["Agent"],
+  },
+]
+
+describe("the disallowed-tools list one launch goes out with", () => {
+  for (const one of GUARDED) {
+    it(one.name, () => {
+      const answer = decided("ported", {
+        value: disallowedToolsForLaunch(one.declared, one.agentsJson),
+        notice: null,
+      })
+      expect(hold(one.name, one.standing, answer).matches).toBe(true)
     })
   }
 })
