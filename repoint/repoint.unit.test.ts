@@ -11,9 +11,9 @@ describe("what a rename repoints", () => {
   test("an inbound link is followed to the new path, spelled from the referrer", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("domains/y.md", "# Y\n\nBack to [x](x.md).\n")
-      const body = landed(at.root, moves(["domains/x.md", "folders/x.md"]), "domains/y.md")
+      at.put("docs/x.md", "# X\n")
+      at.put("docs/y.md", "# Y\n\nBack to [x](x.md).\n")
+      const body = landed(at.root, moves(["docs/x.md", "folders/x.md"]), "docs/y.md")
       expect(body).toContain("[x](../folders/x.md)")
     } finally {
       at.dispose()
@@ -24,11 +24,11 @@ describe("what a rename repoints", () => {
     const at = fixture()
     try {
       at.put("schemas/thing.md", "# Thing\n")
-      at.put("domains/x.md", "# X\n\nIt names [thing](../schemas/thing.md) and [y](y.md).\n")
-      at.put("domains/y.md", "# Y\n")
-      const body = landed(at.root, moves(["domains/x.md", "tools/deep/x.md"]), "tools/deep/x.md")
+      at.put("docs/x.md", "# X\n\nIt names [thing](../schemas/thing.md) and [y](y.md).\n")
+      at.put("docs/y.md", "# Y\n")
+      const body = landed(at.root, moves(["docs/x.md", "tools/deep/x.md"]), "tools/deep/x.md")
       expect(body).toContain("[thing](../../schemas/thing.md)")
-      expect(body).toContain("[y](../../domains/y.md)")
+      expect(body).toContain("[y](../../docs/y.md)")
     } finally {
       at.dispose()
     }
@@ -37,9 +37,9 @@ describe("what a rename repoints", () => {
   test("a path written as text is repointed, which is what no link check reaches", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("tools/note.ts", "/** Routed from domains/x.md. */\nexport const note = 1\n")
-      const body = landed(at.root, moves(["domains/x.md", "folders/x.md"]), "tools/note.ts")
+      at.put("docs/x.md", "# X\n")
+      at.put("tools/note.ts", "/** Routed from docs/x.md. */\nexport const note = 1\n")
+      const body = landed(at.root, moves(["docs/x.md", "folders/x.md"]), "tools/note.ts")
       expect(body).toContain("Routed from folders/x.md.")
     } finally {
       at.dispose()
@@ -49,11 +49,11 @@ describe("what a rename repoints", () => {
   test("a root-absolute spelling is repointed and one naming another repo is not", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("notes.md", `# Notes\n\nRun ${at.root}/domains/x.md, never /elsewhere/domains/x.md.\n`)
-      const body = landed(at.root, moves(["domains/x.md", "folders/x.md"]), "notes.md")
+      at.put("docs/x.md", "# X\n")
+      at.put("notes.md", `# Notes\n\nRun ${at.root}/docs/x.md, never /elsewhere/docs/x.md.\n`)
+      const body = landed(at.root, moves(["docs/x.md", "folders/x.md"]), "notes.md")
       expect(body).toContain(`${at.root}/folders/x.md`)
-      expect(body).toContain("/elsewhere/domains/x.md")
+      expect(body).toContain("/elsewhere/docs/x.md")
     } finally {
       at.dispose()
     }
@@ -73,9 +73,9 @@ describe("what a rename repoints", () => {
   test("a relative link inside a fence is left as written, being an example of a spelling", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("folders/guide.md", "# Guide\n\n```\n[x](../domains/x.md)\n```\n")
-      expect(landed(at.root, moves(["domains/x.md", "folders/x.md"]), "folders/guide.md")).toBeNull()
+      at.put("docs/x.md", "# X\n")
+      at.put("folders/guide.md", "# Guide\n\n```\n[x](../docs/x.md)\n```\n")
+      expect(landed(at.root, moves(["docs/x.md", "folders/x.md"]), "folders/guide.md")).toBeNull()
     } finally {
       at.dispose()
     }
@@ -84,9 +84,9 @@ describe("what a rename repoints", () => {
   test("a root-relative path inside a fence IS repointed, so a usage line cannot go stale", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("guide.md", "# Guide\n\n```\nbun tools/rm.ts domains/x.md\n```\n")
-      const body = landed(at.root, moves(["domains/x.md", "folders/x.md"]), "guide.md")
+      at.put("docs/x.md", "# X\n")
+      at.put("guide.md", "# Guide\n\n```\nbun tools/rm.ts docs/x.md\n```\n")
+      const body = landed(at.root, moves(["docs/x.md", "folders/x.md"]), "guide.md")
       expect(body).toContain("bun tools/rm.ts folders/x.md")
     } finally {
       at.dispose()
@@ -228,8 +228,8 @@ describe("what a rename repoints", () => {
   test("a moved file is carried even where nothing in it changed", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      const survey = surveyRename(moves(["domains/x.md", "folders/x.md"]), rootsAt(at.root))
+      at.put("docs/x.md", "# X\n")
+      const survey = surveyRename(moves(["docs/x.md", "folders/x.md"]), rootsAt(at.root))
       expect(survey.entries).toHaveLength(1)
       expect(survey.entries[0]?.relPath).toBe("folders/x.md")
       expect(survey.entries[0]?.body).toBe("# X\n")
@@ -241,9 +241,9 @@ describe("what a rename repoints", () => {
   test("a reference out of quarantine is reported and never rewritten", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("dirty/old.md", "# Old\n\nIt names [x](../domains/x.md).\n")
-      const survey = surveyRename(moves(["domains/x.md", "folders/x.md"]), rootsAt(at.root))
+      at.put("docs/x.md", "# X\n")
+      at.put("dirty/old.md", "# Old\n\nIt names [x](../docs/x.md).\n")
+      const survey = surveyRename(moves(["docs/x.md", "folders/x.md"]), rootsAt(at.root))
       expect(survey.entries.map((e) => e.relPath)).toEqual(["folders/x.md"])
       expect(survey.quarantined[0]).toContain("dirty/old.md:3")
     } finally {
@@ -255,9 +255,9 @@ describe("what a rename repoints", () => {
     const at = fixture()
     try {
       at.put("kinds/x.md", "# X\n")
-      at.put("domains/sibling.md", "# Sibling\n")
-      at.put("domains/parent.md", "# Parent\n\nIt names [x](../kinds/x.md) and [sibling](sibling.md).\n")
-      const body = landed(at.root, moves(["kinds/x.md", "domains/kinds/x.md"]), "domains/parent.md")
+      at.put("docs/sibling.md", "# Sibling\n")
+      at.put("docs/parent.md", "# Parent\n\nIt names [x](../kinds/x.md) and [sibling](sibling.md).\n")
+      const body = landed(at.root, moves(["kinds/x.md", "docs/kinds/x.md"]), "docs/parent.md")
       expect(body).toContain("[x](./kinds/x.md)")
       expect(mentionsOf(body ?? "", ["kinds/x.md"], rootsAt(at.root))).toHaveLength(0)
       expect(body).toContain("[sibling](sibling.md)")
@@ -269,10 +269,10 @@ describe("what a rename repoints", () => {
   test("every rewrite is reported with the line it sits on", () => {
     const at = fixture()
     try {
-      at.put("domains/x.md", "# X\n")
-      at.put("domains/y.md", "# Y\n\nBack to [x](x.md).\n")
-      const survey = surveyRename(moves(["domains/x.md", "folders/x.md"]), rootsAt(at.root))
-      const notes = survey.entries.find((e) => e.relPath === "domains/y.md")?.notes ?? []
+      at.put("docs/x.md", "# X\n")
+      at.put("docs/y.md", "# Y\n\nBack to [x](x.md).\n")
+      const survey = surveyRename(moves(["docs/x.md", "folders/x.md"]), rootsAt(at.root))
+      const notes = survey.entries.find((e) => e.relPath === "docs/y.md")?.notes ?? []
       expect(notes[0]).toContain("3:")
       expect(notes[0]).toContain("../folders/x.md")
     } finally {

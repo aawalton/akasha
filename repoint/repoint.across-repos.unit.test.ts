@@ -13,9 +13,9 @@ function moves(...pairs: readonly (readonly [string, string])[]): Moves {
 
 describe("a move that crosses a repository boundary", () => {
   const twoRepos = (source: string, destination: string): { source: Roots; destination: Roots } => {
-    const both = { ...rootsAt(source), memory: source, "code-editor": destination }
+    const both = { ...rootsAt(source), "code-editor": destination }
     return {
-      source: { ...both, target: "memory" },
+      source: { ...both, target: "akasha" },
       destination: { ...both, target: "code-editor" },
     }
   }
@@ -30,9 +30,9 @@ describe("a move that crosses a repository boundary", () => {
     const to = fixture()
     try {
       from.put("schemas/thing.md", "# Thing\n")
-      from.put("domains/x.md", "# X\n\nIt names [thing](../schemas/thing.md).\n")
+      from.put("docs/x.md", "# X\n\nIt names [thing](../schemas/thing.md).\n")
       const at = twoRepos(from.root, to.root)
-      const survey = surveyRename(moves(["domains/x.md", "pages/x.md"]), at.source, at.destination)
+      const survey = surveyRename(moves(["docs/x.md", "pages/x.md"]), at.source, at.destination)
       const entry = survey.entries.find((e) => e.relPath === "pages/x.md")
       expect(entry?.moved).toBe(true)
       expect(resolve(`${to.root}/pages`, hrefIn(entry?.body, "thing"))).toBe(
@@ -48,11 +48,11 @@ describe("a move that crosses a repository boundary", () => {
     const from = fixture()
     const to = fixture()
     try {
-      from.put("domains/x.md", "# X\n")
-      from.put("domains/y.md", "# Y\n\nBack to [x](x.md).\n")
+      from.put("docs/x.md", "# X\n")
+      from.put("docs/y.md", "# Y\n\nBack to [x](x.md).\n")
       const at = twoRepos(from.root, to.root)
-      const survey = surveyRename(moves(["domains/x.md", "pages/x.md"]), at.source, at.destination)
-      const entry = survey.entries.find((e) => e.relPath === "domains/y.md")
+      const survey = surveyRename(moves(["docs/x.md", "pages/x.md"]), at.source, at.destination)
+      const entry = survey.entries.find((e) => e.relPath === "docs/y.md")
       expect(entry?.moved).toBe(false)
       expect(resolve(`${from.root}/domains`, hrefIn(entry?.body, "x"))).toBe(`${to.root}/pages/x.md`)
     } finally {
