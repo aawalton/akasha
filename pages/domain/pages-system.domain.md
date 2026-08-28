@@ -28,3 +28,15 @@ Page types and property definitions are themselves page types.
 What makes a file a page is the page type its name carries.
 
 A page type states where its pages are written.
+
+# Rules
+
+## Answer Or Refuse
+
+**Refuse where you cannot answer, rather than answering as though there were nothing.**
+
+A true empty and a failed lookup read alike, and only one of them is a fault.
+
+Never fall back to empty when a source is missing.
+
+Never let a failed write return like a done one.
