@@ -2,7 +2,7 @@ import type { Value } from "@shared/pages-query"
 import { fileRelationDeclarations } from "./file-property-defs.ts"
 import { nameOfPageId, type Translated } from "./file-page-name.ts"
 import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation.ts"
-import { kebabizeKey } from "./file-rows.ts"
+import { camelizeKey, kebabizeKey } from "./file-rows.ts"
 import { backings } from "./file-write-backing.ts"
 import { FileWriteError } from "./file-write-error.ts"
 
@@ -52,16 +52,23 @@ export function statedId(values: Readonly<Record<string, Value>>): string | null
   return typeof held === "string" && held !== "" ? held : null
 }
 
+export function declaredKeysOf(
+  declarations: readonly { readonly key: string }[] | null
+): ReadonlyMap<string, string> {
+  return new Map((declarations ?? []).map((one) => [camelizeKey(one.key), one.key]))
+}
+
 export function fileValuesOf(
   op: string,
   pageTypeSlug: string,
-  input: Readonly<Record<string, unknown>>
+  input: Readonly<Record<string, unknown>>,
+  declared: ReadonlyMap<string, string> = new Map()
 ): Record<string, Value> {
   const out: Record<string, Value> = {}
   for (const [rawKey, value] of Object.entries(input)) {
     if (value === undefined) continue
     if (SETTLED_ELSEWHERE.has(rawKey)) continue
-    const key = kebabizeKey(rawKey)
+    const key = declared.get(camelizeKey(rawKey)) ?? kebabizeKey(rawKey)
     out[key] = fileValue(op, pageTypeSlug, key, value)
   }
   return out
@@ -190,7 +197,8 @@ export async function valuesToWrite(
   input: Readonly<Record<string, unknown>>
 ): Promise<Record<string, Value>> {
   await refuseSettledDeclared(op, pageTypeSlug, input)
-  const values = fileValuesOf(op, pageTypeSlug, input)
+  const declared = declaredKeysOf(await fileRelationDeclarations(pageTypeSlug))
+  const values = fileValuesOf(op, pageTypeSlug, input, declared)
   await refuseUnresolvedRelations(op, pageTypeSlug, values)
   return values
 }
