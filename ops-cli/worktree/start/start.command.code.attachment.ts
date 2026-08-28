@@ -4,11 +4,11 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { agentPageFor } from "../../../agent/read-record.ts"
 import { seatId } from "../../../agent/writer.ts"
-import { takeSeqOf } from "../../../page/page-seq.ts"
 import { pageTypePathIn, placeDirOf } from "../../../page/page-types.ts"
 import { landFiles } from "../../../repo/land/land.ts"
 import { handOffPush } from "../../../repo/push/push.ts"
 import { AKASHA, akashaRoot, ownRepoRoot, VENDOR_ROOT } from "../../../repo/roots/roots.ts"
+import { takeSeqOf } from "../../../tools/lib/page-seq.ts"
 
 const FROM = "--from"
 
@@ -184,7 +184,6 @@ export default async function start(argv: readonly string[]): Promise<void> {
   }
 
   const seq = takeSeqOf({
-    instructionsRoot: ownRepoRoot(),
     pageTypeRelPath: pageTypePathIn(ownRepoRoot(), PAGE_TYPE),
     noun: "worktrees",
   })
