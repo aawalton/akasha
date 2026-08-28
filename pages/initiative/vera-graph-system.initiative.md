@@ -132,7 +132,7 @@ A refusal is not kept against the context that got it. The walk is what fills th
 
 What one ask costs, measured 2026-08-27: 143ms for the path-to-oid map, 2ms for the marks, and then 66ms with the answers on disk against 1.4s without, that second figure being the walk over all 11,225 TypeScript files. Every ask after the first is under half a millisecond.
 
-The held answers are demolished a few times an hour. `oidsUnder` is memoized for the life of a process, so a supervisor takes its marks over the repository as it stood when it booted and files under one hours old; `sweep` keeps the run's own mark and drops every other, so it and each fresh run erase each other. Two marks sit under `said/import/`: the 11,125 answers every current process computes, and 93 under one nothing computes any more.
+Nothing fills the held answers but a walk. The gate asks only about the files in one patch, so `said/import/` held 96 answers where the repository has 11,134; the first ask wanting them all refuses, walks, fills them, and every ask after that is 60ms.
 
 `vocabulary` and `rows-homes` are held under a mark taken over the page shape and `CODE_DIRS`, which does not name `tools/`, where `rows-homes` is worked out. `astra-page-index` holds that one.
 
