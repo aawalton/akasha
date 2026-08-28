@@ -4,6 +4,7 @@ import { NONE, stringAt } from "../../text/text.ts"
 import { BY_FILE, type Held, type Resolve, kindOf } from "../identity/identity.ts"
 import { LINK_RELATION } from "../link/link.ts"
 import { pageTargetOf } from "../place/place.ts"
+import { pageTypeOf } from "../../../pages-system/page-type/page-type.ts"
 
 const DEFINITION = "page-property-definition"
 
@@ -20,8 +21,6 @@ const DEFINED_ON = "defined-on-slug"
 const TARGET = "target-slug"
 
 const EXTENDS = "extends-slug"
-
-const PAGE_TYPE_SLUG = "page-type-slug"
 
 const ADDRESS_JOIN = "/"
 
@@ -130,10 +129,12 @@ export function reachedFrom(
   resolve: Resolve,
   holds: Holds
 ): readonly Reached[] {
-  const type = stringAt(at.fm, PAGE_TYPE_SLUG) ?? at.type
+  // THE NAME SETTLES THE PAGE TYPE. This read the page's own `page-type-slug:` first, so a page
+  // whose frontmatter disagreed with its name was indexed under relations it does not declare.
+  const type = pageTypeOf(at.key)
   const found: Reached[] = []
   const seen = new Set<string>()
-  for (const relation of relations.get(type) ?? []) {
+  for (const relation of type === null ? [] : (relations.get(type) ?? [])) {
     // An attachment is named by the convention rather than written in the frontmatter, so the page
     // states nothing to read. What makes the relation true is the file being there.
     if (relation.attachment !== null) {

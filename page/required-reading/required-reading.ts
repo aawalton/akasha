@@ -4,7 +4,8 @@ import { ENDING_WORD, EXTENSION_WORD, HEADING_WORD } from "../index/identity/ide
 import { fileTargetOf } from "../index/relation/relation.ts"
 import { listField } from "../frontmatter.ts"
 import type { PageAt } from "../page.ts"
-import { NONE, PAGE_TYPE_SLUG, stringAt } from "../text/text.ts"
+import { NONE, stringAt } from "../text/text.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 
 const REQUIRED_KEY = "required-reading-slugs"
 
@@ -125,12 +126,19 @@ function packageFor(
   return stringAt(fm, PACKAGE_REPO_KEY) === at.repo ? page : null
 }
 
+/**
+ * The page type page above this page, and each one above that.
+ *
+ * THE NAME SETTLES WHICH CHAIN IS WALKED. This read the page's own `page-type-slug:` first and fell
+ * back to the name only where none was stated, which is the rule inverted: the frontmatter must
+ * AGREE with the kind the name carries rather than override it. A page misfiled by one line of
+ * frontmatter was handed the required reading of a page type it is not of.
+ */
 export function pageTypeChainOf(at: PageAt, index: AddressIndex): readonly PageAt[] {
-  const fm = index.frontmatterOf(at)
   if (at.repo === INSTRUCTIONS && REGISTRY_DIRS.some((one) => at.key.startsWith(one))) return []
-  const stated = fm === null ? null : stringAt(fm, PAGE_TYPE_SLUG)
-  let stem = stated ?? at.type
-  if (stem === "") return []
+  const kind = pageTypeOf(at.key)
+  if (kind === null) return []
+  let stem: string = kind
   const found: PageAt[] = []
   const walked = new Set<string>()
   for (;;) {
