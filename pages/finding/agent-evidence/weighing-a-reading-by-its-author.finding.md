@@ -3,7 +3,7 @@ id: 07217de0-3d5a-5b2d-9153-a384163de9a3
 slug: weighing-a-reading-by-its-author
 page-type-slug: finding
 title: "Weighing a reading by who produced it rather than by what it measured is one error with two directions, and only one of them is guarded"
-domain-slug: agent-evidence
+domain-slug: domain/agent-evidence
 ---
 
 # Claim

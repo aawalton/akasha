@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "An instrument answers the question that was quick to write, which parts from the asked one only where nobody looked"
-domain-slug: agent-harness
+domain-slug: domain/agent-harness
 slug: the-cheap-question-is-the-adjacent-one
 ---
 
