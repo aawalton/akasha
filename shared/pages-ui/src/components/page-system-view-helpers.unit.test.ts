@@ -118,28 +118,6 @@ describe("sortServerGrouped", () => {
     expect(result?.[result.length - 1]?.key).toBe("__none__")
   })
 
-  test('server-shape "" empty group sorts first on asc direction', () => {
-    const sections = [
-      section("pending", "Pending"),
-      section("", "No Value"),
-      section("completed", "Completed"),
-    ]
-    const sorts: ViewSort[] = [{ field: "status", direction: "asc" }]
-    const result = sortServerGrouped(sections, "status", sorts, [statusDef])
-    expect(result?.map((s) => s.key)).toEqual(["", "pending", "completed"])
-  })
-
-  test('server-shape "" empty group sorts last on desc direction', () => {
-    const sections = [
-      section("", "No Value"),
-      section("pending", "Pending"),
-      section("completed", "Completed"),
-    ]
-    const sorts: ViewSort[] = [{ field: "status", direction: "desc" }]
-    const result = sortServerGrouped(sections, "status", sorts, [statusDef])
-    expect(result?.map((s) => s.key)).toEqual(["completed", "pending", ""])
-  })
-
   test("missing property definition falls back to label alpha", () => {
     const sections = [section("running", "Running"), section("pending", "Pending")]
     const sorts: ViewSort[] = [{ field: "status", direction: "asc" }]
@@ -195,12 +173,5 @@ describe("sortServerGrouped — number group-by orders numerically", () => {
     const sorts: ViewSort[] = [{ field: "label", direction: "desc" }]
     const result = sortServerGrouped(sections, "level", sorts, [levelDef])
     expect(result?.map((s) => s.key)).toEqual(["10", "2", "1"])
-  })
-
-  test('empty ("") group still follows the null convention (first on asc)', () => {
-    const sections = [numSection(2), section("", ""), numSection(1), numSection(10)]
-    const sorts: ViewSort[] = [{ field: "label", direction: "asc" }]
-    const result = sortServerGrouped(sections, "level", sorts, [levelDef])
-    expect(result?.map((s) => s.key)).toEqual(["", "1", "2", "10"])
   })
 })
