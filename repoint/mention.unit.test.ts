@@ -6,6 +6,20 @@ import { surveyRename } from "./repoint.ts"
 
 const MOVE = new Map([["roles/reviewer.md", "roles/instructions-reviewer.md"]])
 
+/**
+ * The repositories there are, spelled rather than made.
+ *
+ * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
+ * goes wrong only where something reaches for it.
+ *
+ * NOT `rootsAt`, WHICH MAKES DIRECTORIES. That helper stands up an empty checkout for every
+ * repository beside the target, because a survey walks each root it is handed. `mentionsOf`
+ * compares a mention's prefix against the addressed root and opens nothing, so it wants roots that
+ * are spelled and no tree at all — and handing `rootsAt` a path outside any writable directory
+ * fails on the making rather than on anything the case is about.
+ */
+const NOWHERE: Roots = { akasha: "/nonexistent-akasha", "code-editor": "/nonexistent-code-editor" }
+
 function spellings(at: Fixture): void {
   at.put("roles/reviewer.md", "# Reviewer\n")
   at.put(
@@ -24,22 +38,15 @@ function spellings(at: Fixture): void {
 describe("mentionsOf", () => {
   test("carries the line the occurrence sits on, which is what a removal reports it by", () => {
     const body = ["const HELP = `", "  bun tools/rm.ts <path>", "`", ""].join("\n")
-    const found = mentionsOf(body, ["tools/rm.ts"], rootsAt("/nonexistent-instructions"))
+    const found = mentionsOf(body, ["tools/rm.ts"], NOWHERE)
     expect(found).toHaveLength(1)
     expect(found[0]?.line).toBe(2)
   })
 
-  test("resolves its prefix against the addressed root rather than the instructions one", () => {
-    const roots: Roots = {
-      instructions: "/nonexistent-instructions",
-      code: "/nonexistent-code",
-      memory: "/nonexistent-memory",
-      books: "/nonexistent-books",
-      stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor",
-    }
-    const body = "the project is at /nonexistent-memory/projects/1.md today\n"
-    expect(mentionsOf(body, ["projects/1.md"], { ...roots, target: "memory" })).toHaveLength(1)
-    expect(mentionsOf(body, ["projects/1.md"], { ...roots, target: "instructions" })).toEqual([])
+  test("resolves its prefix against the addressed root rather than another repository's", () => {
+    const body = "the project is at /nonexistent-code-editor/projects/1.md today\n"
+    expect(mentionsOf(body, ["projects/1.md"], { ...NOWHERE, target: "code-editor" })).toHaveLength(1)
+    expect(mentionsOf(body, ["projects/1.md"], { ...NOWHERE, target: "akasha" })).toEqual([])
   })
 })
 
