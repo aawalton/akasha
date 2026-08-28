@@ -8,25 +8,22 @@
  * the same two functions the scanning reader uses. What changes is where the frontmatter comes
  * from, never what is made of it.
  *
- * ONE EXPANDED QUERY. A domain is any page whose type reaches `domain` along `extends-slug`, and a
- * query that expands means that whole family, so the corpus is walked once and each page read once,
- * under the declaration of its own page type. The store answers every value tagged with the kind it
- * holds while a `Frontmatter`'s readers take plain ones, so the tags come off here, and a kind this
- * did not plan for is thrown rather than cast away.
+ * ONE QUERY PER DOMAIN KIND. A domain is any page whose type reaches `domain` along `extends-slug`,
+ * which is 45 page types rather than one, and a query names a single page type. Every one of them
+ * is answered from the held deriver, so the whole set costs one derive and the joins happen here.
  */
 
+import { answer } from "./page-query.ts"
 import { type DomainRow } from "./champions-tree.ts"
 import { type Documents, DOMAIN_SLUG_KEY, championOf, championParentOf, slugsIn } from "./domain.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
-import { type Value } from "../../pages-system/formula/formula.ts"
-import { cycleAmong, familyOf } from "../../pages-system/query/expands.ts"
-import { type Page, checkQuery, runQuery } from "../../pages-system/query/query.ts"
-import { declarationsFor, extendingIn } from "../../pages-system/store/declared.ts"
-import { pageAt, pagesFor } from "../../pages-system/store/store.ts"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { domainKinds } from "../../page/page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { type Roots } from "../../page/page.ts"
-import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA } from "../../repo/roots/roots.ts"
 import { SEQUENCE_KEY } from "./sequence-manifest.ts"
 
 const PERSONA_CHAMPION_KEY = "persona-champion-slug"
@@ -37,40 +34,12 @@ const KEYS: readonly string[] = [DOMAIN_SLUG_KEY, DOMAIN_PARENT_KEY, PERSONA_CHA
 
 const ADDRESS = `${AKASHA}:`
 
-/** The page type at the head of the family a domain stands in. */
-const DOMAIN = "domain"
-
-/**
- * What a page holds under one key, as a `Frontmatter`'s readers take it: a run of characters, a
- * list of them, or `null` where the page holds nothing.
- *
- * A KIND NOT PLANNED FOR IS THROWN RATHER THAN CAST. Every key asked for is declared `slug`,
- * `relation-slug`, `relation-address` or a list of those, all of which the store answers as text.
- * Another kind under one of them means the page type was redeclared, and reading it as text anyway
- * would hand the tree a value it would sort and match on without ever saying where it came from.
- */
-function plainly(value: Value, key: string): string | readonly string[] | null {
-  if (value.kind === "absent") return null
-  if (value.kind === "text") return value.text
-  if (value.kind === "list") {
-    return value.items.map((item) => {
-      if (item.kind !== "text") {
-        throw new Error(`\`${key}\` holds a ${item.kind} among its items, and this reads lists of text`)
-      }
-      return item.text
-    })
-  }
-  throw new Error(`\`${key}\` holds a ${value.kind}, and this reads text and lists of text`)
-}
-
-/** A page's values, standing as the frontmatter every reader of a domain page expects. */
-function frontmatterOf(properties: Readonly<Record<string, Value>>): Frontmatter {
+/** A query row's values, standing as the frontmatter every reader of a domain page expects. */
+function frontmatterOf(values: Readonly<Record<string, unknown>>): Frontmatter {
   const fields = new Map<string, unknown>()
   for (const key of KEYS) {
-    const held = properties[key]
-    if (held === undefined) continue
-    const plain = plainly(held, key)
-    if (plain !== null) fields.set(key, plain)
+    const held = values[key]
+    if (held !== null && held !== undefined) fields.set(key, held)
   }
   return { present: true, fields, keys: [...fields.keys()], error: null, lineCount: 0 }
 }
@@ -88,37 +57,12 @@ function frontmatterOf(properties: Readonly<Record<string, Value>>): Frontmatter
  * the files gives, which is what every reader of this tree has been shown.
  */
 function frontmatterByPath(roots: Roots): ReadonlyMap<string, Frontmatter> {
-  const root = rootFor(roots, AKASHA)
-  const repo = { repo: AKASHA, root }
-  const extending = extendingIn(root)
-  const family = familyOf(DOMAIN, extending)
-  if ("ring" in family) throw new Error(cycleAmong(family.ring))
-  const declaring = declarationsFor(root, family.family)
-  const head = declaring.get(DOMAIN)
-  if (head === undefined) throw new Error(`no page type \`${DOMAIN}\` stands under ${root}`)
-  const checked = checkQuery(
-    { pageType: DOMAIN, expands: true, keys: [...KEYS] },
-    head,
-    extending,
-    declaring
-  )
-  if (!checked.ok) throw new Error(checked.message)
-  const byType = pagesFor(repo, checked.pageTypes)
-  const now = Date.now()
-  const pages: Page[] = []
-  for (const kind of checked.pageTypes) {
-    const declared = declaring.get(kind)
-    if (declared === undefined) throw new Error(`no page type \`${kind}\` stands under ${root}`)
-    for (const at of byType.get(kind) ?? []) {
-      const page = pageAt(repo, at, declared, now)
-      if ("unread" in page) continue
-      pages.push(page)
-    }
-  }
   const found: [string, Frontmatter][] = []
-  for (const page of runQuery(checked, pages)) {
-    if (!page.at.startsWith(ADDRESS)) continue
-    found.push([page.at.slice(ADDRESS.length), frontmatterOf(page.values.properties)])
+  for (const kind of domainKinds(registryOf(diskFileTree(roots)))) {
+    for (const row of answer(roots, { pageType: kind, keys: [...KEYS] })?.rows ?? []) {
+      if (!row.at.startsWith(ADDRESS)) continue
+      found.push([row.at.slice(ADDRESS.length), frontmatterOf(row.values)])
+    }
   }
   return new Map(found.sort(([one], [two]) => (one < two ? -1 : one > two ? 1 : 0)))
 }
