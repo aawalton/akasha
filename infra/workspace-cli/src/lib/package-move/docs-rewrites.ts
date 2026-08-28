@@ -1,10 +1,10 @@
 import { posix } from "node:path"
 import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { z } from "zod"
-import { listFiles, readText, writeText } from "./fs"
-import type { Logger } from "./logger"
-import { applyBoundaryMatch } from "./rename-primitives"
-import type { WorkspaceMove } from "./types"
+import { listFiles, readText, writeText } from "./fs.ts"
+import type { Logger } from "./logger.ts"
+import { applyBoundaryMatch } from "./rename-primitives.ts"
+import type { WorkspaceMove } from "./types.ts"
 
 const FRAGMENT_INDEX_SCHEMA = z.object({ index: z.number() }).passthrough()
 
@@ -16,9 +16,6 @@ function isClaudeMd(path: string): boolean {
   return path.endsWith("/CLAUDE.md") || path === "CLAUDE.md"
 }
 
-// A package's own docs. The layout is <scope>/<name> with no shared prefix, so what makes a
-// path a package's is the workspaces array, not a directory name. Every CLAUDE.md is taken
-// separately by listTargetDocs, wherever it sits.
 export function isPackageDoc(path: string, workspaceDirs: readonly string[]): boolean {
   if (!path.includes("/docs/")) return false
   return workspaceDirs.some((dir) => path.startsWith(`${dir}/`))

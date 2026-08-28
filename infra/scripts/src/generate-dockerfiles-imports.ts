@@ -1,9 +1,9 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { asRecord } from "../../../shared/utils-narrow/src/as-record"
+import { asRecord } from "../../../shared/utils-narrow/src/as-record.ts"
 import { Glob } from "bun"
-import { readJson } from "./generate-dockerfiles-deps"
-import { ROOT } from "./generate-dockerfiles-registry"
+import { readJson } from "./generate-dockerfiles-deps.ts"
+import { ROOT } from "./generate-dockerfiles-registry.ts"
 
 const SOURCE_GLOB = new Glob("**/*.{ts,tsx,mts,js,jsx,mjs}")
 const SOURCE_EXTENSIONS = [".ts", ".tsx", ".mts", ".js", ".jsx", ".mjs"] as const
@@ -29,11 +29,6 @@ function isSourceFile(path: string): boolean {
   return SOURCE_EXTENSIONS.some((ext) => path.endsWith(ext)) && !path.endsWith(".d.ts")
 }
 
-/**
- * The directory whose files can be run inside the image. The app package is
- * copied whole, so any of its runtime modules is a possible entrypoint — not
- * just the one named in `runtime_cmd`.
- */
 function entryRootDir(appDir: string): string {
   const srcDir = join(appDir, "src")
   return existsSync(join(ROOT, srcDir)) ? srcDir : appDir
@@ -125,12 +120,6 @@ function transpilerFor(file: string): Bun.Transpiler {
   return transpiler
 }
 
-/**
- * The workspace packages the image's own source reaches by import, walked with
- * Bun's transpiler so the edges kept here are exactly the ones `bun run` will
- * resolve: type-only imports are erased, value imports are kept whether or not
- * the binding is used.
- */
 export function collectExecutedDeps(
   appDir: string,
   nameMap: Map<string, string>
@@ -174,7 +163,7 @@ export function collectExecutedDeps(
 
       const { name, subpath } = splitBareSpecifier(specifier)
       const pkgDir = nameMap.get(name)
-      if (pkgDir == null) continue // published dependency — arrives via node_modules
+      if (pkgDir == null) continue
 
       reached.add(name)
       const target = packageEntryFile(pkgDir, subpath)

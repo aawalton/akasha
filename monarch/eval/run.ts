@@ -80,10 +80,6 @@ if (import.meta.main) {
   const perStratum = Number.parseInt(flags.get("per-stratum")?.[0] ?? "40", 10)
   if (!Number.isFinite(perStratum) || perStratum <= 0) throw new Error("--per-stratum takes a count")
   const again = flags.has("again")
-  // THIS READ `${process.env.HOME}/...` with no guard. An unset `$HOME` made the default a
-  // relative path under whichever directory the command ran in, and the holdout guard just below
-  // decides whether the set has been read once from whether that exact path exists — so a
-  // misplaced run file reads as a set never seen, and the guard stops guarding without saying so.
   const said = flags.get("out")?.[0]
   const home = process.env.HOME
   if (said === undefined && (home === undefined || home === "")) {

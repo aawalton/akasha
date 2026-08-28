@@ -52,10 +52,8 @@ from fastapi import File, UploadFile
 from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import JSONResponse, Response, StreamingResponse
 
-# Imported for the routes they register on `app` at import time, so the app is
-# whole before uvicorn is handed it.
-import speech_hls  # noqa: F401
-import speech_mp3  # noqa: F401
+import speech_hls
+import speech_mp3
 from voice_inference import (
     _INFER_LOCK,
     _STREAM_HEADERS,

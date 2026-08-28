@@ -2,7 +2,7 @@ import { readFile } from "node:fs/promises"
 import { newPageNameFor } from "../page/page-types.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { diskFileTree } from "../page/file-tree.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { resolveRoots } from "../repo/roots/roots.ts"
 import { join } from "node:path"
 import type { MonarchAccount, MonarchCategory, MonarchHolding, MonarchTag } from "./client.ts"
 import {
@@ -100,9 +100,6 @@ export interface Landing {
   readonly slugs: ReadonlyMap<string, string>
 }
 
-// A page type filed by name tells its type by the file's own name, so a page
-// minted without that name is matched by its own type's glob and belongs to
-// nothing. `newPageNameFor` reads the type's own `files:` to decide.
 function namedForType(pageTypeSlug: string, slug: string): string {
   const type = registryOf(diskFileTree(resolveRoots())).find((one) => one.slug === pageTypeSlug)
   return type === undefined ? `${slug}.md` : newPageNameFor(type, slug)

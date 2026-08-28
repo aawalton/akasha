@@ -24,8 +24,6 @@ if (app == null) fail("--app <web-app-slug> is required")
 if (version == null) fail("--version <hash> is required")
 
 const stands = await askPage(WEB_APP_PAGE_TYPE, app)
-// A READ THAT NEVER LANDED SAYS NOTHING ABOUT THE SLUG. Reported as an absence it sends whoever ran
-// this off to correct an argument that was right.
 if (stands.outcome === "unasked") {
   fail(`whether a web app page is named "${app}" went unread: ${stands.why}`)
 }

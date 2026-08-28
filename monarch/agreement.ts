@@ -5,16 +5,6 @@ import { monarchHeaders } from "./credential.ts"
 import { categoryPages, readAllTransactions } from "./files.ts"
 import { UNCATEGORIZED } from "./transaction.ts"
 
-/**
- * Where the last record filed stands, refusing where nothing says which directory that is.
- *
- * THIS READ `${process.env.HOME}/.cache/...` with no guard. An unset `$HOME` — which is what a
- * systemd unit naming no user hands its process — made that the relative
- * `undefined/.cache/monarch-agreement.json`, so the record landed under whichever directory the
- * command ran in and the next run never found it. Nothing said so: the same disagreement was
- * filed again on every run, because the file the guard reads was never where it looked. A
- * default here puts the file somewhere plausible and wrong, so there is none.
- */
 function lastReported(): string {
   const home = process.env.HOME
   if (home === undefined || home === "") {

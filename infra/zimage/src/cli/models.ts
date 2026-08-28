@@ -38,8 +38,6 @@ interface SamplerProfile {
   readonly defaultGuidance: number
 }
 
-// A distilled checkpoint samples at cfg 1, which collapses the negative branch:
-// its negative prompt is inert. An undistilled one honours a real cfg.
 const DISTILLED: SamplerProfile = { defaultSteps: 8, defaultGuidance: 1.0 }
 const UNDISTILLED: SamplerProfile = { defaultSteps: 50, defaultGuidance: 4 }
 
@@ -63,10 +61,8 @@ export const MODELS: Readonly<Record<ModelId, ModelSpec>> = {
   "z-image-base": zImage("z-image-base", ZIMAGE_BASE_UNET, UNDISTILLED),
   "z-image-turbo": zImage("z-image-turbo", ZIMAGE_TURBO_UNET, DISTILLED),
 
-  // De-distilled turbo: cfg restored, so it samples on the undistilled profile.
   "z-image-de-turbo": zImage("z-image-de-turbo", "z-image-de-turbo_bf16.safetensors", UNDISTILLED),
 
-  // Turbo-family merges carrying the stock 453-tensor Z-Image graph.
   "beyond-reality-3": zImage("beyond-reality-3", "beyond-reality-3_fp8.safetensors", DISTILLED),
   "cyberrealistic-zit-v4": zImage(
     "cyberrealistic-zit-v4",
@@ -75,11 +71,8 @@ export const MODELS: Readonly<Record<ModelId, ModelSpec>> = {
   ),
   "juggernaut-z-v1": zImage("juggernaut-z-v1", "juggernaut-z-v1_fp8.safetensors", DISTILLED),
 
-  // Scale-quantised: 789 tensors carrying per-weight scales. Its own card says 8 steps.
   "redzdpo-v5-veris": zImage("redzdpo-v5-veris", "redzdpo-v5-veris_fp8.safetensors", DISTILLED),
 
-  // 525 tensors under an `all_final_layer.*` namespace rather than the stock 453,
-  // so this is not the architecture the graph builds for. Registered to be tried.
   "twinflow-z-image-turbo": zImage(
     "twinflow-z-image-turbo",
     "twinflow-z-image-turbo_bf16.safetensors",

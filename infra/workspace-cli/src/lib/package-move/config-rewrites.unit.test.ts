@@ -4,10 +4,10 @@ import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import { listWorkspaceDirs } from "@shared/workspace-paths"
 import { codeRoot } from "../../../../../tools/lib/code-root.ts"
-import { PATH_LITERAL_TS_TARGETS, rewriteConfigs } from "./config-rewrites"
-import { exists, listFiles, readText } from "./fs"
-import type { Logger } from "./logger"
-import type { WorkspaceMove } from "./types"
+import { PATH_LITERAL_TS_TARGETS, rewriteConfigs } from "./config-rewrites.ts"
+import { exists, listFiles, readText } from "./fs.ts"
+import type { Logger } from "./logger.ts"
+import type { WorkspaceMove } from "./types.ts"
 
 const REPO_ROOT = codeRoot()
 const CHECKS_SRC = "infra/cluster-checks/src"
@@ -15,8 +15,6 @@ const CHECKS_SRC = "infra/cluster-checks/src"
 const registry = new Set(PATH_LITERAL_TS_TARGETS)
 const silent: Logger = { info: () => {}, warn: () => {} }
 
-// The workspaces array is the authority on what a workspace path is: the layout is
-// <scope>/<name> with no shared prefix, so no single regex recognises one.
 const WORKSPACE_PATHS = new Set<string>()
 for (const dir of listWorkspaceDirs(REPO_ROOT)) {
   const segments = dir.split("/")

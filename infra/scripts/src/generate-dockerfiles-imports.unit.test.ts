@@ -1,8 +1,8 @@
 import { describe, expect, it } from "bun:test"
 
-import { buildPackageNameMap } from "./generate-dockerfiles-deps"
-import { collectExecutedDeps, listEntryRoots } from "./generate-dockerfiles-imports"
-import { SERVICES } from "./generate-dockerfiles-registry"
+import { buildPackageNameMap } from "./generate-dockerfiles-deps.ts"
+import { collectExecutedDeps, listEntryRoots } from "./generate-dockerfiles-imports.ts"
+import { SERVICES } from "./generate-dockerfiles-registry.ts"
 
 const NAME_MAP = buildPackageNameMap()
 
@@ -28,9 +28,6 @@ describe("collectExecutedDeps — a bun-service carries what it imports, not wha
   })
 
   it("roots the closure at every module under the app's src/, not only the CMD entrypoint", () => {
-    // gfs-promoter's image runs two entrypoints: src/main.ts is the Dockerfile CMD,
-    // and the seaweedfs-backup-longtail CronJob overrides `command` with
-    // src/longtail-main.ts. A closure walked from the CMD alone would not cover it.
     const roots = listEntryRoots(GFS_PROMOTER_DIR)
     expect(roots.some((r) => r.endsWith(`${GFS_PROMOTER_DIR}/src/main.ts`))).toBe(true)
     expect(roots.some((r) => r.endsWith(`${GFS_PROMOTER_DIR}/src/longtail-main.ts`))).toBe(true)

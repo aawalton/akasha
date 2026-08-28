@@ -76,11 +76,8 @@ def _pcm_bytes(audio: np.ndarray) -> bytes:
     return (clipped * 32767.0).astype("<i2").tobytes()
 
 
-# The MP3 bitrate both render paths encode at.
 _MP3_BITRATE = "64k"
 
-# Strong references to the in-flight background renders, held by both render
-# paths so a task is not garbage-collected mid-render.
 _BG_RENDER_TASKS: set = set()
 
 
