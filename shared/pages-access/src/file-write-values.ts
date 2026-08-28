@@ -1,11 +1,6 @@
 import type { Value } from "@shared/pages-query"
-import {
-  nameStandingForId,
-  namesNothing,
-  type RelationOnType,
-  relationsOn,
-  standsUnder,
-} from "./file-relation"
+import { nameOfPageId, type Translated } from "./file-page-name"
+import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation"
 import { kebabizeKey } from "./file-rows"
 import { backings } from "./file-write-backing"
 import { FileWriteError } from "./file-write-error"
@@ -82,19 +77,32 @@ export function fileValuesOf(
   return out
 }
 
+// WHAT THIS MAY ADVISE IS BOUNDED BY WHICH OUTCOME CAME BACK. `nameOfPageId` separates a corpus
+// that was read and holds no page under this id from one that was never looked at, and only the
+// first of those licenses telling the writer that what it named is not an id. Collapsing the two —
+// which is what reaching this through a `string | null` did — spends a refused read as though it
+// were an answer, and tells the writer to rename a value that may well have been right.
+function said(relation: RelationOnType, translated: Translated): string {
+  if (translated.outcome === "named") {
+    return `That is the id of \`${translated.name}\`, and a file-backed relation carries the target's name rather than its id, so write \`${translated.name}\`.`
+  }
+  // The corpus was read: `absent` holds no page under that id, and `malformed` is not a uuid at
+  // all, so under neither can this be the id of a page that stands.
+  if (translated.outcome === "absent" || translated.outcome === "malformed") {
+    return `Name it as its file is named.`
+  }
+  return `Whether that is instead the id of a \`${relation.targetSlug}\` page went unestablished — ${translated.why} — so nothing here says to name it any differently.`
+}
+
 function unresolved(
   op: string,
   pageTypeSlug: string,
   key: string,
   relation: RelationOnType,
   named: string,
-  standing: string | null
+  translated: Translated
 ): string {
-  const said =
-    standing === null
-      ? `Name it as its file is named.`
-      : `That is the id of \`${standing}\`, and a file-backed relation carries the target's name rather than its id, so write \`${standing}\`.`
-  return `${op}(${pageTypeSlug}): \`${key}\` points at a \`${relation.targetSlug}\` page by name, and this write names \`${named}\`, which no \`${relation.targetSlug}\` page stands under. ${said} Nothing has been written.`
+  return `${op}(${pageTypeSlug}): \`${key}\` points at a \`${relation.targetSlug}\` page by name, and this write names \`${named}\`, which no \`${relation.targetSlug}\` page stands under. ${said(relation, translated)} Nothing has been written.`
 }
 
 function unreadRoster(
@@ -143,7 +151,7 @@ async function refuseUnresolvedRelations(
           key,
           relation,
           named,
-          await nameStandingForId(relation.targetSlug, named)
+          await nameOfPageId(relation.targetSlug, named)
         )
       )
     }

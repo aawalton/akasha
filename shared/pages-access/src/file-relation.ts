@@ -6,7 +6,6 @@ import {
   type NamingAsked,
 } from "@shared/pages-query/ask"
 import { z } from "zod"
-import { nameOfPageId, type PageNameDeps } from "./file-page-name"
 import { fileRelationDeclarations } from "./file-property-defs"
 import { type FileReadDeps, fileBackedPageTypes, isFileBacked, pageOf } from "./file-read"
 import { buildRawPageRows, kebabizeKey } from "./file-rows"
@@ -99,15 +98,6 @@ export async function standsUnder(
     limit: 1,
   })
   return asked.ok && asked.answer.rows.length > 0
-}
-
-export async function nameStandingForId(
-  targetSlug: string,
-  value: string,
-  deps?: PageNameDeps
-): Promise<string | null> {
-  const translated = await nameOfPageId(targetSlug, value, deps)
-  return translated.outcome === "named" ? translated.name : null
 }
 
 export type GetFilePagesByRelationArgs = {
