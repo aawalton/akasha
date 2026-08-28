@@ -22,7 +22,7 @@ export default workflow("cert-manager", {
       ...sopsDecryptApply({
         name: "cert-manager-apply-cloudflare-token",
         namespace: "cert-manager",
-        secretFile: "infra/k8s/src/cert-manager/k8s/cloudflare-api-token.sops.yaml",
+        secretFile: "infra/k8s/src/cert-manager/cloudflare-api-token.k8s-secret.sops.yaml",
       }),
       dependsOn: ["cert-manager-apply-rbac"],
     },
