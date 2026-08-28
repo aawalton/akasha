@@ -11,6 +11,6 @@ export const indexRelation = {
     "A leaf is named for the source's id.",
     "One write creates and removes only files it alone owns.",
     "A relation free to name more than one page type carries the page type in its value.",
-    "A page's parent is answered here and nowhere else.",
+    "A page's parent is answered only here.",
   ],
 } as const satisfies Domain
