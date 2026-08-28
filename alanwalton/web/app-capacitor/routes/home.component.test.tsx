@@ -21,7 +21,7 @@ let answerKnob: PagesAnswer = NOTHING_ANSWERED
 
 const reported: { message: string; stack: string }[] = []
 
-mock.module("../../../../shared/pages/ui/src/supabase/use-pages", () => ({
+mock.module("@shared/pages-ui/supabase/use-pages", () => ({
   usePagesSupabase: () => ({
     ...answerKnob,
     hasMore: false,
@@ -30,13 +30,13 @@ mock.module("../../../../shared/pages/ui/src/supabase/use-pages", () => ({
   }),
 }))
 
-mock.module("../../../../shared/pages/ui/src/components/view-page-content", () => ({
+mock.module("@shared/pages-ui/components/view-page-content", () => ({
   ViewPageContent: ({ navItemIdParam }: { navItemIdParam: string }) => (
     <div>VIEW-PAGE-CONTENT:{navItemIdParam}</div>
   ),
 }))
 
-mock.module("../../../../shared/errors/client/src/report-error", () => ({
+mock.module("@shared/errors-client/report-error", () => ({
   reportError: (input: { message: string; stack: string }) => {
     reported.push({ message: input.message, stack: input.stack })
   },

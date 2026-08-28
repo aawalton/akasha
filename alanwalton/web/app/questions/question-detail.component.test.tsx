@@ -24,7 +24,7 @@ const PERSONA: Persona = {
   chatHref: "/persona/aura-persona1",
 }
 
-mock.module("../../../../shared/pages/ui/src/supabase/use-page", () => ({
+mock.module("@shared/pages-ui/supabase/use-page", () => ({
   usePage: () => ({ page: undefined }),
 }))
 

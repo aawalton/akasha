@@ -5,14 +5,14 @@ import { createMemoryRouter, RouterProvider } from "react-router"
 
 const viewCalls: string[] = []
 
-mock.module("../../../../shared/pages/ui/src/components/view-page-content", () => ({
+mock.module("@shared/pages-ui/components/view-page-content", () => ({
   ViewPageContent: ({ navItemIdParam }: { navItemIdParam: string }) => {
     viewCalls.push(navItemIdParam)
     return <div>VIEW-PAGE-CONTENT</div>
   },
 }))
 
-mock.module("../../../../shared/pages/ui/src/components/page-detail-content", () => ({
+mock.module("@shared/pages-ui/components/page-detail-content", () => ({
   PageDetailContent: () => <div>PAGE-DETAIL-CONTENT</div>,
 }))
 
@@ -45,7 +45,7 @@ mock.module("../../app/lib/use-is-online", () => ({
   useIsOnline: () => onlineKnob,
 }))
 
-mock.module("../../../../shared/pages/ui/src/supabase/use-reader-neighbors", () => ({
+mock.module("@shared/pages-ui/supabase/use-reader-neighbors", () => ({
   useReaderNeighbors: () => neighborsKnob,
 }))
 
@@ -57,7 +57,7 @@ mock.module("../../app/lib/use-next-unread", () => ({
   useNextUnreadHref: () => null,
 }))
 
-mock.module("../../../../shared/pages/ui/src/supabase/hooks", () => ({
+mock.module("@shared/pages-ui/supabase/hooks", () => ({
   usePageByIdSuffix: () => ({
     page: {
       _id: "persona-id-6fed9037",
