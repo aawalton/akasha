@@ -2,7 +2,7 @@
 id: 061fa6f4-ef16-5b60-9e84-4efa7f22a2c8
 page-type-slug: old-ops-command
 title: "Ops memory work-tree"
-slug: ops-memory-work-tree
+slug: ops-akasha-work-tree
 domain-parent-slug: domain/ops-memory
 required-reading-slugs:
   - page-type/old-ops-command
