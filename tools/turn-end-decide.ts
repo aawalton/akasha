@@ -8,7 +8,7 @@ import { recordedModeOf } from "./lib/attributes.ts"
 import { decideTurnEnd, turnPendingFrom, turnStartSourceFrom } from "./lib/turn-end-decide.ts"
 import { resolveRoots } from "../repo/roots/roots"
 import { seatAssignments } from "./lib/seat-assignments.ts"
-import { setTurn, setTurnState, setTurnStartSource } from "./lib/seat-turn.ts"
+import { setTurnEndReading, setTurnState, setTurnStartSource } from "./lib/seat-turn.ts"
 import { setPending } from "./lib/seat-turn-pending.ts"
 import { setWorking } from "./lib/seat-turn-working.ts"
 import {
@@ -108,7 +108,7 @@ function judgeRead(args: {
   if (ran.status === null)
     return { kind: "answered", status: 124, feedback: "", settled: false }
   const label = labelOfReading(ran.stdout ?? "")
-  setTurn(args.agent, label)
+  setTurnEndReading(args.agent, label)
   const feedback = ran.status === 3 ? whyOfReading(ran.stdout ?? "") : ""
   return {
     kind: "answered",

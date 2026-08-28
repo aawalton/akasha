@@ -1,7 +1,7 @@
 
 import {
   type TurnRecord,
-  turnOf,
+  turnEndReadingOf,
   turnStartOf,
   turnStartSourceOf,
   turnStateOf,
@@ -23,7 +23,7 @@ export interface SeatTurnRecords {
   readonly source: TurnRecord | null
   readonly pending: TurnPending
   readonly working: TurnWorking
-  readonly ended: TurnRecord | null
+  readonly reading: TurnRecord | null
   readonly started: TurnRecord | null
   readonly roleOnCall: boolean
 }
@@ -56,7 +56,7 @@ export function stampIn(recorded: TurnRecord | null): SeatTurnStamp {
 export function tookATurn(kept: SeatTurnRecords): boolean {
   if (anyPendingRead(kept.pending)) return true
   if (anyWorkingRead(kept.working)) return true
-  return [kept.stamped, kept.source, kept.ended, kept.started].some((one) => one !== null)
+  return [kept.stamped, kept.source, kept.reading, kept.started].some((one) => one !== null)
 }
 
 export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
@@ -81,7 +81,7 @@ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
     source: turnStartSourceOf(agent),
     pending: pendingOf(agent),
     working: workingOf(agent),
-    ended: turnOf(agent),
+    reading: turnEndReadingOf(agent),
     started: turnStartOf(agent),
     roleOnCall: roleOnCallOf(agent),
   }

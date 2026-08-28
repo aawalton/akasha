@@ -3,7 +3,7 @@ import { keepSeatRecord, type SeatRecord, seatRecordOf } from "./seat-record.ts"
 
 export type TurnRecord = SeatRecord
 
-const TURN_KEY = "turn"
+const READING_KEY = "turn-end-reading"
 
 const START_KEY = "turn-start-source"
 
@@ -11,12 +11,12 @@ const STARTED_KEY = "turn-start"
 
 const STATE_KEY = "turn-state"
 
-export function turnOf(agent: string): TurnRecord | null {
-  return seatRecordOf(agent, TURN_KEY)
+export function turnEndReadingOf(agent: string): TurnRecord | null {
+  return seatRecordOf(agent, READING_KEY)
 }
 
-export function setTurn(agent: string, value: string): void {
-  keepSeatRecord(agent, TURN_KEY, value)
+export function setTurnEndReading(agent: string, value: string): void {
+  keepSeatRecord(agent, READING_KEY, value)
 }
 
 export function turnStartOf(agent: string): TurnRecord | null {
@@ -49,8 +49,8 @@ function keptLine(label: string, recorded: TurnRecord | null, absent: string): s
   return `  ${label.padEnd(8)} ${said}`
 }
 
-export function turnLine(recorded: TurnRecord | null): string {
-  return keptLine("turn", recorded, "— no turn end read")
+export function turnEndReadingLine(recorded: TurnRecord | null): string {
+  return keptLine("reading", recorded, "— no turn end read")
 }
 
 export function turnStartSourceLine(recorded: TurnRecord | null): string {

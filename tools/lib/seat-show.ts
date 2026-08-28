@@ -20,8 +20,8 @@ import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
 import { workingLines, workingOf } from "./seat-turn-working.ts"
 import {
-  turnLine,
-  turnOf,
+  turnEndReadingLine,
+  turnEndReadingOf,
   turnStartLine,
   turnStartOf,
   turnStartSourceLine,
@@ -63,7 +63,7 @@ export function showLines(agent: string, args: Args): readonly string[] {
     ...linesOf(stated),
     seatTurnStateLine(seatTurnStateOf(agent)),
     turnStartLine(turnStartOf(agent)),
-    turnLine(turnOf(agent)),
+    turnEndReadingLine(turnEndReadingOf(agent)),
     turnStartSourceLine(turnStartSourceOf(agent)),
     ...workingLines(workingOf(agent)),
     ...pendingLines(pendingOf(agent)),
