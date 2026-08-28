@@ -7,7 +7,7 @@ import {
   WRITER,
 } from "./tracking-modules.ts"
 import { upsertPage } from "@shared/pages-access/upsert"
-import { PERSONA_DAY_PAGE_TYPE_SLUG } from "./persona-day-points.ts"
+import { personaDaySlug, PERSONA_DAY_PAGE_TYPE_SLUG } from "./persona-day-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 
 const GREEN_DAY_POINTS_KEY = kebabKey(GREEN_DAY_POINTS_FIELD)
@@ -40,7 +40,7 @@ export function planRescore(
     if (dayStr === undefined) continue
     const storedBar = numberOf(row[GREEN_DAY_POINTS_KEY]) ?? null
     if (storedBar === currentBar) continue
-    drifted.push({ name: `${slug}/${dayStr}`, dayStr, storedBar, newBar: currentBar })
+    drifted.push({ name: personaDaySlug(slug, dayStr), dayStr, storedBar, newBar: currentBar })
   }
   return drifted.sort((a, b) => a.dayStr.localeCompare(b.dayStr))
 }

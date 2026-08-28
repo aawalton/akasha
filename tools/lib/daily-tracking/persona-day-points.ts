@@ -42,6 +42,13 @@ export async function resolvePersonaBySlug(slug: string): Promise<PersonaDayTarg
   }
 }
 
+// `persona-day` is named `{persona-slug}-{date}`, and a file page's slug is that
+// name. Stating it here is what puts a created day at `abby-2026-08-14` carrying
+// `slug: abby-2026-08-14`, as every persona day already standing does.
+export function personaDaySlug(personaSlug: string, dayStr: string): string {
+  return `${personaSlug}-${dayStr}`
+}
+
 async function personaDayStands(personaSlug: string, dayStr: string): Promise<boolean> {
   const asked = await askComposed({
     "page-type": PERSONA_DAY_PAGE_TYPE_SLUG,
@@ -59,6 +66,7 @@ async function patchPersonaDayFields(
 ): Promise<WriteOutcome> {
   const stood = await personaDayStands(persona.slug, dayStr)
   const values: Record<string, string | number> = {
+    slug: personaDaySlug(persona.slug, dayStr),
     "persona-slug": persona.slug,
     date: dayStr,
     "green-day-points": persona.greenDayPoints,
