@@ -24,8 +24,6 @@ const MAY_BE_GONE = "may-be-gone"
 
 const SLUG = "slug"
 
-const RETURN_TYPE = "returnType"
-
 const FROM = "from"
 
 const BACK = "back-from"
@@ -103,7 +101,6 @@ function declaredIn(relPath: string, text: string, reaching: ReadonlySet<string>
       at: relPath,
       on,
       type: stated ?? "",
-      returnType: stringAt(fm, RETURN_TYPE),
       from: listField(fm, FROM),
       back: stringAt(fm, BACK),
       expression: textField(fm, EXPRESSION),

@@ -14,7 +14,6 @@ const MODE: Property = {
   at: "pages/page-property-definition/seat-mode.page-property-definition.md",
   on: "seat",
   type: "select(slug)",
-  returnType: null,
   from: [],
   back: null,
   expression: null,

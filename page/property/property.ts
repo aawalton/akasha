@@ -6,7 +6,6 @@ export interface Property {
   readonly at: string
   readonly on: string
   readonly type: string
-  readonly returnType: string | null
   readonly from: readonly string[]
   readonly back: string | null
   readonly expression: string | null
