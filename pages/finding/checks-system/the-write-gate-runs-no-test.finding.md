@@ -14,7 +14,9 @@ There is no working fallback either. `bun test` over a directory is blocked, and
 
 `b4eeb9b14` removed the `indexed` field from the `Landed` type in `repo/land/land.ts`. `repo/land/landing.unit.test.ts:18` asserted on that field. The gate reported `gate: 8 akasha check(s) over N changed file(s), none refused`, the commit was written, and the push was handed off to origin. The test stood red on main for about three minutes until `11236716e` fixed it, and nothing on the write path had said anything.
 
-The typecheck itself is real and does refuse: composing an edit set that left `page/index/build.ts` importing a function removed from `page/index/store/store.ts` was caught. So the gate is not weak generally — it is specifically blind to tests.
+The typecheck itself is real and does refuse, but only inside the files a change touches. Giving `markFrom` in `page/index/store/store.ts` a wrong return type was refused with three TS2322 lines naming 180, 184 and 189. Renaming that same exported function, which leaves `page/index/build.ts` importing a name that no longer exists, passed with `gate: 8 akasha check(s) over 1 changed file(s), none refused` — a project-wide `tsc --noEmit` fails on it.
+
+So the gate is blind to tests, and separately blind to anything outside the files in front of it. The second gap is filed on its own.
 
 `ops akasha run-checks --check suite-runs`, run at 2026-08-28 02:5x, exits 1 with `ops: unknown command under ops akasha` and prints a usage block listing `akasha work-tree` as the only subcommand. The blocked-`bun test` message that recommends it is at the refusal for `bun test <directory>`.
 
