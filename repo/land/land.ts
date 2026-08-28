@@ -248,7 +248,18 @@ export function landFiles(one: Landings): Landed {
     ...gone,
     ...carrying.filter((held) => carriedHeld.has(held.from)).flatMap((held) => [held.from, held.to]),
   ]
-  const sha = commit(root, named, message)
+  let sha: string | null
+  try {
+    sha = commit(root, named, message)
+  } catch (err) {
+    if (!(err instanceof LandingRefused)) throw err
+    throw new LandingRefused(
+      `${err.message}. ALREADY APPLIED AND UNCOMMITTED: ${[...wrote, ...gone].join(", ")} — ` +
+        "bodies land and removals unlink before anything commits, so this failure is not a " +
+        "no-op. Commit exactly these paths."
+    )
+  }
+
   try {
     indexAfterLanding(one.repo, root, wasBefore, wrote, gone)
   } catch (err) {
