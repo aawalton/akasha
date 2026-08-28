@@ -12,8 +12,19 @@ export const page = {
   slug: "page",
   definition: "what is recorded about one thing of a specific type",
   extendsSlug: null,
+  partSlugs: [
+    "akasha-page-edge",
+  ],
+  requiredReadingSlugs: [
+    "akasha-page-edge",
+  ],
   design: [
+    "A page is one TypeScript file.",
+    "A page is one exported object, named for the page's slug.",
+    "A page has no body; every section is a property.",
     "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
+    "Some page properties have their own files.",
+    "Some page property files are not TypeScript files.",
     "A page is deleted once its purpose is done.",
   ],
 } as const satisfies PageType
