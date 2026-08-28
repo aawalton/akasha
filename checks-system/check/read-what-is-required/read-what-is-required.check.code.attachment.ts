@@ -61,45 +61,58 @@ function refusalOver(
   return null
 }
 
-export const readWhatIsRequired: Check = {
-  slug: SLUG,
-  needs: "tree",
-  needsAuthor: true,
-  run: ({ paths }: Batch, act: Act): readonly CheckFailure[] => {
-    const first = paths[0]
-    if (first === undefined) return []
-    if (act.writer === null) {
-      return [{ path: first, reason: refusalText("writer-unidentified", {}) }]
-    }
-    const log = readRecordFor(act.writer)
-    if (log === null) {
-      return [
-        { path: first, reason: refusalText("agent-page-absent", { agent: act.writer, lapsed: LAPSED }) },
-      ]
-    }
-    const above = seatAbove(act.writer)
-    const seat = above === null ? log.page : agentPageFor(above)
-    if (seat === null) {
-      const agent = above ?? act.writer
-      return [{ path: first, reason: refusalText("agent-page-absent", { agent, lapsed: LAPSED }) }]
-    }
-    const { index, rootOf } = standingHere()
-    const body = textAt("", seat.slice(1))
-    if (body === null) return []
-    const warranted =
-      above === null ? seatWarrantsWithDefaults(body, index) : subagentWarrantsFor(body, index)
-    const failures: CheckFailure[] = []
-    for (const one of warranted) {
-      const root = rootOf(one.page.repo)
-      if (root === undefined) continue
-      const absolute = `${root}/${one.page.key}`
-      const held = textAt(root, one.page.key)
-      if (held === null) continue
-      const said = refusalOver(log.reading(absolute), held, one.page.key, absolute)
-      if (said !== null) failures.push({ path: seat, reason: said })
-    }
-    return failures
-  },
+/**
+ * The check, given how it reads a file's text.
+ *
+ * HANDED RATHER THAN IMPORTED SO NOTHING HAS TO MOCK THE MODULE TO STAND FILES SOMEWHERE ELSE.
+ * `mock.module` is process-global and mutates the namespace object in place, and `mock.restore()`
+ * leaves the replacement standing, so a test that mocks `page/text/text.ts` leaves every other test
+ * file in the same run reading through its stub. Taking the reader as an argument keeps a
+ * substitution to the caller that made it.
+ */
+export function readWhatIsRequiredWith(readText: typeof textAt): Check {
+  return {
+    slug: SLUG,
+    needs: "tree",
+    needsAuthor: true,
+    run: ({ paths }: Batch, act: Act): readonly CheckFailure[] => {
+      const first = paths[0]
+      if (first === undefined) return []
+      if (act.writer === null) {
+        return [{ path: first, reason: refusalText("writer-unidentified", {}) }]
+      }
+      const log = readRecordFor(act.writer)
+      if (log === null) {
+        return [
+          { path: first, reason: refusalText("agent-page-absent", { agent: act.writer, lapsed: LAPSED }) },
+        ]
+      }
+      const above = seatAbove(act.writer)
+      const seat = above === null ? log.page : agentPageFor(above)
+      if (seat === null) {
+        const agent = above ?? act.writer
+        return [{ path: first, reason: refusalText("agent-page-absent", { agent, lapsed: LAPSED }) }]
+      }
+      const { index, rootOf } = standingHere()
+      const body = readText("", seat.slice(1))
+      if (body === null) return []
+      const warranted =
+        above === null ? seatWarrantsWithDefaults(body, index) : subagentWarrantsFor(body, index)
+      const failures: CheckFailure[] = []
+      for (const one of warranted) {
+        const root = rootOf(one.page.repo)
+        if (root === undefined) continue
+        const absolute = `${root}/${one.page.key}`
+        const held = readText(root, one.page.key)
+        if (held === null) continue
+        const said = refusalOver(log.reading(absolute), held, one.page.key, absolute)
+        if (said !== null) failures.push({ path: seat, reason: said })
+      }
+      return failures
+    },
+  }
 }
+
+export const readWhatIsRequired: Check = readWhatIsRequiredWith(textAt)
 
 export default readWhatIsRequired

@@ -70,8 +70,6 @@ function pageFor(writer: string): string | null {
 
 const record = await import("../../../agent/read-record.ts")
 const { sameBody } = record
-const held = await import("../../../page/text/text.ts")
-const { NONE, PAGE_TYPE_SLUG, blockOf, stringAt } = held
 
 mock.module("../../../agent/read-record.ts", () => ({
   sameBody,
@@ -91,14 +89,6 @@ mock.module("../../../agent/required-reading/seat-defaults.ts", () => ({
     ]),
 }))
 
-mock.module("../../../page/text/text.ts", () => ({
-  NONE,
-  PAGE_TYPE_SLUG,
-  blockOf,
-  stringAt,
-  textAt: (root: string, relPath: string) => bodies.get(`${root}/${relPath}`) ?? null,
-}))
-
 mock.module("../../../page/required-reading/warrant/warrant.ts", () => ({
   standingHere: () => ({
     index,
@@ -107,7 +97,19 @@ mock.module("../../../page/required-reading/warrant/warrant.ts", () => ({
   }),
 }))
 
-const { readWhatIsRequired } = await import("./read-what-is-required.check.code.attachment.ts")
+const { readWhatIsRequiredWith } = await import("./read-what-is-required.check.code.attachment.ts")
+
+/**
+ * The fixture files stand in a map, and the check is handed the reader that reaches them.
+ *
+ * NOT `mock.module` ON `page/text/text.ts`. That call is process-global and mutates the namespace
+ * object in place, and `mock.restore()` leaves the replacement standing, so mocking that module here
+ * left every other test file in the same run reading its fixtures through this stub and finding
+ * nothing. Handing the reader to the check keeps the substitution inside this file.
+ */
+const readWhatIsRequired = readWhatIsRequiredWith(
+  (root, relPath) => bodies.get(`${root}/${relPath}`) ?? null
+)
 
 const tree: Tree = {
   root: ROOT,
