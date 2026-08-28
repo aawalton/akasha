@@ -7,6 +7,20 @@ export type Standing = {
   readonly path: string
 }
 
+export type Edges = {
+  readonly partSlugs: readonly string[]
+  readonly requiredReadingSlugs: readonly string[]
+  readonly conditionalReadingSlugs: readonly string[]
+  readonly definition: string
+  readonly raw: Record<string, unknown>
+}
+
+export type Source = {
+  readonly standing: readonly Standing[]
+  readonly edgesOf: (slug: string) => Edges | null
+  readonly parentOf: (slug: string) => string | null
+}
+
 export type Corpus = {
   readonly at: (slug: string) => Standing | null
   readonly partsOf: (slug: string) => readonly string[]
@@ -63,21 +77,13 @@ export function standingIn(root: string): readonly Standing[] {
   return found
 }
 
-type Loaded = {
-  readonly raw: Record<string, unknown>
-  readonly partSlugs: readonly string[]
-  readonly requiredReadingSlugs: readonly string[]
-  readonly conditionalReadingSlugs: readonly string[]
-  readonly definition: string
-}
-
 function listOn(value: Record<string, unknown>, key: string): readonly string[] {
   const held = value[key]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")
 }
 
-async function valueIn(at: Standing): Promise<Loaded | null> {
+async function valueIn(at: Standing): Promise<Edges | null> {
   const oid = oidOf(readFileSync(at.path, "utf8"))
   const mod = (await import(`${at.path}?oid=${oid}`)) as Record<string, unknown>
   for (const held of Object.values(mod)) {
@@ -96,7 +102,7 @@ async function valueIn(at: Standing): Promise<Loaded | null> {
   return null
 }
 
-function reach(from: string, key: string, slug: string, known: ReadonlyMap<string, Standing>): void {
+function reach(from: string, key: string, slug: string, known: ReadonlySet<string>): void {
   if (known.has(slug)) return
   throw new Error(
     `\`${from}\` names \`${slug}\` under \`${key}\`, and no page carries that slug — ` +
@@ -105,44 +111,66 @@ function reach(from: string, key: string, slug: string, known: ReadonlyMap<strin
   )
 }
 
-export async function corpusIn(root: string): Promise<Corpus> {
-  const standing = standingIn(root)
-  const known = new Map<string, Standing>()
-  for (const one of standing) {
-    const already = known.get(one.slug)
-    if (already !== undefined) {
-      throw new Error(
-        `\`${one.slug}\` is carried by both \`${already.path}\` and \`${one.path}\` — ` +
-          "a slug reaches one page or it addresses nothing"
-      )
-    }
-    known.set(one.slug, one)
-  }
-
-  const loaded = new Map<string, Loaded>()
-  await Promise.all(
-    standing.map(async (one) => {
-      const value = await valueIn(one)
-      if (value !== null) loaded.set(one.slug, value)
-    })
-  )
-
+export function parentsByInverting(
+  standing: readonly Standing[],
+  edgesOf: (slug: string) => Edges | null
+): ReadonlyMap<string, string> {
   const parent = new Map<string, string>()
-  for (const [slug, value] of loaded) {
-    for (const part of value.partSlugs) {
-      reach(slug, "partSlugs", part, known)
+  for (const one of standing) {
+    const edges = edgesOf(one.slug)
+    if (edges === null) continue
+    for (const part of edges.partSlugs) {
       const already = parent.get(part)
-      if (already !== undefined && already !== slug) {
+      if (already !== undefined && already !== one.slug) {
         throw new Error(
-          `\`${part}\` is named a part by both \`${already}\` and \`${slug}\` — ` +
+          `\`${part}\` is named a part by both \`${already}\` and \`${one.slug}\` — ` +
             "a page is a part of one whole or the tree above it is two trees"
         )
       }
-      parent.set(part, slug)
+      parent.set(part, one.slug)
     }
-    for (const named of value.requiredReadingSlugs) reach(slug, "requiredReadingSlugs", named, known)
-    for (const named of value.conditionalReadingSlugs) {
-      reach(slug, "conditionalReadingSlugs", named, known)
+  }
+  return parent
+}
+
+export async function readingEvery(root: string): Promise<Source> {
+  const standing = standingIn(root)
+  const known = new Set<string>()
+  for (const one of standing) {
+    if (known.has(one.slug)) {
+      throw new Error(
+        `\`${one.slug}\` is carried by more than one page — ` +
+          "a slug reaches one page or it addresses nothing"
+      )
+    }
+    known.add(one.slug)
+  }
+  const loaded = new Map<string, Edges>()
+  await Promise.all(
+    standing.map(async (one) => {
+      const edges = await valueIn(one)
+      if (edges !== null) loaded.set(one.slug, edges)
+    })
+  )
+  const edgesOf = (slug: string): Edges | null => loaded.get(slug) ?? null
+  const parent = parentsByInverting(standing, edgesOf)
+  return { standing, edgesOf, parentOf: (slug) => parent.get(slug) ?? null }
+}
+
+export function corpusOver(source: Source): Corpus {
+  const known = new Map<string, Standing>()
+  for (const one of source.standing) known.set(one.slug, one)
+  const slugs = new Set(known.keys())
+
+  for (const one of source.standing) {
+    const edges = source.edgesOf(one.slug)
+    if (edges === null) continue
+    for (const named of edges.partSlugs) reach(one.slug, "partSlugs", named, slugs)
+    for (const named of edges.requiredReadingSlugs) {
+      reach(one.slug, "requiredReadingSlugs", named, slugs)
+    }
+    for (const named of edges.conditionalReadingSlugs) {
+      reach(one.slug, "conditionalReadingSlugs", named, slugs)
     }
   }
 
@@ -151,8 +179,8 @@ export async function corpusIn(root: string): Promise<Corpus> {
     const walked = new Set<string>([slug])
     let here = slug
     for (;;) {
-      const next = parent.get(here)
-      if (next === undefined || walked.has(next)) return found
+      const next = source.parentOf(here)
+      if (next === null || walked.has(next)) return found
       walked.add(next)
       found.push(next)
       here = next
@@ -161,15 +189,19 @@ export async function corpusIn(root: string): Promise<Corpus> {
 
   return {
     at: (slug) => known.get(slug) ?? null,
-    partsOf: (slug) => loaded.get(slug)?.partSlugs ?? [],
-    parentOf: (slug) => parent.get(slug) ?? null,
+    partsOf: (slug) => source.edgesOf(slug)?.partSlugs ?? [],
+    parentOf: source.parentOf,
     above,
-    requiredBy: (slug) => loaded.get(slug)?.requiredReadingSlugs ?? [],
-    conditionalBelow: (slug) => loaded.get(slug)?.conditionalReadingSlugs ?? [],
-    definitionOf: (slug) => loaded.get(slug)?.definition ?? "",
-    valueOf: (slug) => loaded.get(slug)?.raw ?? null,
-    every: () => standing,
+    requiredBy: (slug) => source.edgesOf(slug)?.requiredReadingSlugs ?? [],
+    conditionalBelow: (slug) => source.edgesOf(slug)?.conditionalReadingSlugs ?? [],
+    definitionOf: (slug) => source.edgesOf(slug)?.definition ?? "",
+    valueOf: (slug) => source.edgesOf(slug)?.raw ?? null,
+    every: () => source.standing,
   }
+}
+
+export async function corpusIn(root: string): Promise<Corpus> {
+  return corpusOver(await readingEvery(root))
 }
 
 export function closureFor(slug: string, corpus: Corpus): readonly string[] {

@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import type { Corpus } from "./corpus.module.code.ts"
 import { closureFor } from "./corpus.module.code.ts"
 import type { Oid, Record_ } from "./reading.module.code.ts"
@@ -8,6 +8,7 @@ declare const witnessed: unique symbol
 
 export type Landing = {
   readonly [witnessed]: true
+  readonly kind: "write"
   readonly path: string
   readonly prior: Oid | null
   readonly body: string
@@ -15,24 +16,48 @@ export type Landing = {
   readonly at: number
 }
 
+export type Removal = {
+  readonly [witnessed]: true
+  readonly kind: "remove"
+  readonly path: string
+  readonly by: string
+  readonly at: number
+}
+
+export type Change = Landing | Removal
+
 export type Refusal = { readonly refused: string }
+
+export type Indexing = {
+  readonly wrote: (path: string, body: string) => void
+  readonly took: (path: string) => void
+  readonly settle: () => void
+}
 
 export type Held = {
   readonly corpus: Corpus
   readonly record: Record_
   readonly writer: string
   readonly slugOf: (path: string) => string | null
+  readonly index: Indexing
 }
 
 function refusal(said: string): Refusal {
   return { refused: said }
 }
 
-function witness(path: string, prior: Oid | null, body: string, held: Held): Landing {
-  return { path, prior, body, by: held.writer, at: Date.now() } as unknown as Landing
+function witnessWrite(path: string, prior: Oid | null, body: string, held: Held): Landing {
+  return {
+    kind: "write",
+    path,
+    prior,
+    body,
+    by: held.writer,
+    at: Date.now(),
+  } as unknown as Landing
 }
 
-export function refused(one: Landing | Refusal): one is Refusal {
+export function refused(one: Change | Refusal): one is Refusal {
   return "refused" in one
 }
 
@@ -94,7 +119,7 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
   }
   const short = shortOf(path, held)
   if (short !== null) return short
-  return witness(path, standing, body, held)
+  return witnessWrite(path, standing, body, held)
 }
 
 export function creating(path: string, body: string, held: Held): Landing | Refusal {
@@ -103,18 +128,27 @@ export function creating(path: string, body: string, held: Held): Landing | Refu
   }
   const short = shortOf(path, held)
   if (short !== null) return short
-  return witness(path, null, body, held)
+  return witnessWrite(path, null, body, held)
 }
 
 export function carrying(from: string, to: string, held: Held): Landing | Refusal {
   if (!existsSync(from)) return refusal(`${from} does not exist, so nothing can be carried from it`)
-  const body = readFileSync(from, "utf8")
-  return witness(to, null, body, held)
+  return witnessWrite(to, null, readFileSync(from, "utf8"), held)
 }
 
-export function land(all: readonly Landing[], held: Held): readonly string[] {
+export function takingAway(path: string, held: Held): Removal {
+  return { kind: "remove", path, by: held.writer, at: Date.now() } as unknown as Removal
+}
+
+export function land(all: readonly Change[], held: Held): readonly string[] {
   const done: string[] = []
   for (const one of all) {
+    if (one.kind === "remove") {
+      rmSync(one.path, { force: true })
+      held.index.took(one.path)
+      done.push(one.path)
+      continue
+    }
     if (one.prior !== null) {
       const standing = existsSync(one.path) ? oidOf(readFileSync(one.path, "utf8")) : null
       if (standing !== one.prior) {
@@ -125,12 +159,10 @@ export function land(all: readonly Landing[], held: Held): readonly string[] {
     }
     writeFileSync(one.path, one.body)
     held.record.keep(one.path, oidOf(one.body), Date.now())
+    held.index.wrote(one.path, one.body)
     done.push(one.path)
   }
+  held.index.settle()
   held.record.flush()
   return done
-}
-
-export function removing(path: string): string {
-  return path
 }

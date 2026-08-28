@@ -11,6 +11,8 @@ export const corpus = {
     "akasha-file",
   ],
   design: [
+    "A corpus answers from a source it is given, so what supplies the answers can change without anything above it noticing.",
+    "Inverting `partSlugs` is not an optimisation: with no parent pointer, it is the only way a page's parent exists at all.",
     "A page's slug and page type are its filename, so where a page stands is answered without opening it.",
     "A file is a page only where its suffix is a page type slug; a property's file carries a property slug there instead.",
     "A page loaded by the oid of its body cannot go stale, because a page rewritten in one process is a different specifier.",

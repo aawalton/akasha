@@ -11,6 +11,8 @@ export const landing = {
     "akasha-type",
   ],
   design: [
+    "A removal reaches disk through the same door as a write, so nothing changes the tree unseen.",
+    "The door is the only way to disk, so an index the door keeps cannot drift from the tree it describes.",
     "The witness is a mark on the type and never on the value, so no witness carries it once the code runs.",
     "A witness comes into being in one function, and that assertion is the only one.",
     "The door re-derives what it was handed, so the cheapest way to forge a witness is to do the read it stands for.",
