@@ -30,15 +30,6 @@ export const ENDING_WORD = "ending"
 
 export const HEADING_WORD = "heading"
 
-export const IDENTITY_WORDS: readonly string[] = [
-  ID_WORD,
-  SLUG_WORD,
-  NAME_WORD,
-  SEQ_WORD,
-  EXTENSION_WORD,
-  ENDING_WORD,
-  HEADING_WORD,
-]
 
 const KINDS: readonly string[] = [BY_ADDRESS, BY_SLUG, BY_NAME, BY_SEQ, BY_ID, BY_FILE]
 

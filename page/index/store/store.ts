@@ -12,10 +12,9 @@ import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
 import { exclusively } from "../../../exclusive/exclusive.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
-import { REPOS, rootBeside } from "../../../repo/roots/roots.ts"
+import { rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
 import { writeWhole } from "../../../write-whole/write-whole.ts"
-import type { Roots } from "../../page.ts"
 import { pageNameOf } from "../../name/name.ts"
 import {
   type Named,
@@ -242,18 +241,6 @@ export function indexFreshFor(repo: string, root: string): boolean {
   return now
 }
 
-export function staleIn(roots: Roots): readonly string[] {
-  const held = builtFrom()
-  const named = REPOS.filter((repo) => roots[repo] !== undefined)
-  if (held === null) return named
-  const behind: string[] = []
-  for (const repo of named) {
-    const root = roots[repo]
-    if (root === undefined) continue
-    if (held[repo] !== markFor(root)) behind.push(repo)
-  }
-  return behind
-}
 
 type HeldPages = { readonly at: string; readonly stamp: string; readonly pages: readonly Stated[] }
 
