@@ -25,5 +25,6 @@ A page type's shape is data rather than code.
 
 Page types and property definitions are themselves page types.
 
-A page type states each repo and path its pages stand in, rather than that being read off what is on disk.
+What makes a file a page is the page type its name carries.
 
+A page type states where its pages are written.
