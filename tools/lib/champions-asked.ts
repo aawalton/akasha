@@ -49,16 +49,22 @@ function frontmatterOf(values: Readonly<Record<string, unknown>>): Frontmatter {
  *
  * AKASHA ONLY, because that is where domains stand and where the tree's paths are taken relative
  * to. A row answered against any other checkout carries a path this tree cannot open.
+ *
+ * IN PATH ORDER, WHICH SETTLES A TIE. Two pages of different types may carry one slug — `list` is a
+ * command, a page type and a property type at once — and the tree keys a parent by the bare slug,
+ * so which of them a child hangs under is settled by which came last. Asked type by type that
+ * would be whatever order the page types happen to be listed in; sorted, it is the order a walk of
+ * the files gives, which is what every reader of this tree has been shown.
  */
 function frontmatterByPath(roots: Roots): ReadonlyMap<string, Frontmatter> {
-  const found = new Map<string, Frontmatter>()
+  const found: [string, Frontmatter][] = []
   for (const kind of domainKinds(registryOf(diskFileTree(roots)))) {
     for (const row of answer(roots, { pageType: kind, keys: [...KEYS] })?.rows ?? []) {
       if (!row.at.startsWith(ADDRESS)) continue
-      found.set(row.at.slice(ADDRESS.length), frontmatterOf(row.values))
+      found.push([row.at.slice(ADDRESS.length), frontmatterOf(row.values)])
     }
   }
-  return found
+  return new Map(found.sort(([one], [two]) => (one < two ? -1 : one > two ? 1 : 0)))
 }
 
 export function askedDomainRows(roots: Roots): readonly DomainRow[] {
