@@ -1,6 +1,6 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
-import { backupPvcYaml, backupPvYaml } from "../synth-backup"
+import { backupPvcYaml, backupPvYaml } from "../synth-backup.ts"
 import {
   COMPONENT_MASTER,
   componentLabels,
@@ -12,8 +12,10 @@ import {
   NAMESPACE_LABELS,
   selectorLabels,
   STORAGE_LABELS,
-} from "../synth-constants"
-import { masterDeploymentYaml } from "../synth-deployments"
+} from "../synth-constants.ts"
+import { masterDeploymentYaml } from "../synth-deployments.ts"
+
+const SHARED_BACKUP = "seaweedfs-backup"
 
 function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
@@ -94,7 +96,7 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "pvc", yaml: pvcYaml() },
     { name: "service", yaml: serviceYaml() },
     { name: "master", yaml: masterDeploymentYaml() },
-    { name: "backup-pv", yaml: backupPvYaml() },
-    { name: "backup-pvc", yaml: backupPvcYaml() },
+    { name: "backup-pv", yaml: backupPvYaml(NAMESPACE, SHARED_BACKUP) },
+    { name: "backup-pvc", yaml: backupPvcYaml(NAMESPACE, SHARED_BACKUP) },
   ]
 }

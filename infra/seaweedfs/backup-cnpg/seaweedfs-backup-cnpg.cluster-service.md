@@ -5,7 +5,7 @@ title: "SeaweedFS backup CNPG"
 slug: seaweedfs-backup-cnpg
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: seaweedfs
+namespace: seaweedfs-backup-cnpg
 resource-name: seaweedfs-backup-cnpg
 ---
 

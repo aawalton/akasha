@@ -5,7 +5,7 @@ title: "SeaweedFS backup bulk"
 slug: seaweedfs-backup-bulk
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: seaweedfs
+namespace: seaweedfs-backup-bulk
 resource-name: seaweedfs-backup-bulk
 ---
 

@@ -1,19 +1,17 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { capabilitySelector, HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
-import { componentLabels, NAMESPACE, S3_GATEWAY_HTTP_PORT } from "./synth-constants"
+import { componentLabels, S3_GATEWAY_ENDPOINT } from "./synth-constants.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 
-const SRC_ENDPOINT = `http://s3-gateway.${NAMESPACE}.svc.cluster.local:${S3_GATEWAY_HTTP_PORT}`
-
 const SRC_SECRET = "seaweedfs-creds"
 
-const COMPONENT_BACKUP = "backup"
+export const COMPONENT_BACKUP = "backup"
 
 const BACKUP_NODE = "node-06"
 const BACKUP_HOST_PATH = "/var/lib/seaweedfs-backup"
-const BACKUP_PV_NAME = "seaweedfs-backup"
-const BACKUP_PVC_NAME = "seaweedfs-backup"
+export const CNPG_NAMESPACE = "seaweedfs-backup-cnpg"
+export const BULK_NAMESPACE = "seaweedfs-backup-bulk"
 const BACKUP_CAPACITY = "500Gi"
 const BACKUP_MOUNT = "/backup"
 
@@ -26,7 +24,7 @@ function rcloneEnv(goMemLimit?: string) {
     { name: "HOME", value: "/tmp" },
     { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
     { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
-    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: SRC_ENDPOINT },
+    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
     secretEnv("RCLONE_CONFIG_SRC_ACCESS_KEY_ID", SRC_SECRET, "access_key"),
     secretEnv("RCLONE_CONFIG_SRC_SECRET_ACCESS_KEY", SRC_SECRET, "secret_key"),
     ...(goMemLimit !== undefined ? [{ name: "GOMEMLIMIT", value: goMemLimit }] : []),
@@ -64,6 +62,7 @@ function syncScript(buckets: readonly string[], useMmap: boolean): string {
 
 interface BackupCronJobConfig {
   readonly name: string
+  readonly namespace: string
   readonly schedule: string
   readonly buckets: readonly string[]
   readonly memoryLimit: string
@@ -71,12 +70,12 @@ interface BackupCronJobConfig {
 }
 
 function backupCronJobYaml(config: BackupCronJobConfig): string {
-  const { name, schedule, buckets, memoryLimit, goMemLimit } = config
+  const { name, namespace, schedule, buckets, memoryLimit, goMemLimit } = config
   const labels = componentLabels(COMPONENT_BACKUP)
-  return synthOne(NAMESPACE, name, {
+  return synthOne(namespace, name, {
     apiVersion: "batch/v1",
     kind: "CronJob",
-    metadata: { name, namespace: NAMESPACE, labels },
+    metadata: { name, namespace, labels },
     spec: {
       schedule,
       concurrencyPolicy: "Forbid",
@@ -138,7 +137,7 @@ function backupCronJobYaml(config: BackupCronJobConfig): string {
               ],
               volumes: [
                 { name: "tmp", emptyDir: { sizeLimit: "512Mi" } },
-                { name: "backup", persistentVolumeClaim: { claimName: BACKUP_PVC_NAME } },
+                { name: "backup", persistentVolumeClaim: { claimName: name } },
               ],
             },
           },
@@ -151,6 +150,7 @@ function backupCronJobYaml(config: BackupCronJobConfig): string {
 export function backupCnpgCronJobYaml(): string {
   return backupCronJobYaml({
     name: "seaweedfs-backup-cnpg",
+    namespace: CNPG_NAMESPACE,
     schedule: "7,22,37,52 * * * *",
     buckets: ["postgres-cnpg-backups"],
     memoryLimit: "512Mi",
@@ -160,6 +160,7 @@ export function backupCnpgCronJobYaml(): string {
 export function backupBulkCronJobYaml(): string {
   return backupCronJobYaml({
     name: "seaweedfs-backup-bulk",
+    namespace: BULK_NAMESPACE,
     schedule: "40 4 * * *",
     buckets: ["loki-chunks", "agent-sessions", "headscale-db"],
     memoryLimit: "1Gi",
@@ -167,11 +168,11 @@ export function backupBulkCronJobYaml(): string {
   })
 }
 
-export function backupPvYaml(): string {
-  return synthOne(NAMESPACE, "backup-pv", {
+export function backupPvYaml(namespace: string, name: string): string {
+  return synthOne(namespace, "backup-pv", {
     apiVersion: "v1",
     kind: "PersistentVolume",
-    metadata: { name: BACKUP_PV_NAME, labels: componentLabels(COMPONENT_BACKUP) },
+    metadata: { name, labels: componentLabels(COMPONENT_BACKUP) },
     spec: {
       capacity: { storage: BACKUP_CAPACITY },
       volumeMode: "Filesystem",
@@ -179,7 +180,7 @@ export function backupPvYaml(): string {
       persistentVolumeReclaimPolicy: "Retain",
       storageClassName: "",
       hostPath: { path: BACKUP_HOST_PATH, type: "DirectoryOrCreate" },
-      claimRef: { namespace: NAMESPACE, name: BACKUP_PVC_NAME },
+      claimRef: { namespace, name },
       nodeAffinity: {
         required: {
           nodeSelectorTerms: [
@@ -193,19 +194,19 @@ export function backupPvYaml(): string {
   })
 }
 
-export function backupPvcYaml(): string {
-  return synthOne(NAMESPACE, "backup-pvc", {
+export function backupPvcYaml(namespace: string, name: string): string {
+  return synthOne(namespace, "backup-pvc", {
     apiVersion: "v1",
     kind: "PersistentVolumeClaim",
     metadata: {
-      name: BACKUP_PVC_NAME,
-      namespace: NAMESPACE,
+      name,
+      namespace,
       labels: componentLabels(COMPONENT_BACKUP),
     },
     spec: {
       accessModes: ["ReadWriteOnce"],
       storageClassName: "",
-      volumeName: BACKUP_PV_NAME,
+      volumeName: name,
       resources: { requests: { storage: BACKUP_CAPACITY } },
     },
   })

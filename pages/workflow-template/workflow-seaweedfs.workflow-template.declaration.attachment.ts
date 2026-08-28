@@ -16,8 +16,6 @@ const MASTER = "infra/seaweedfs/master/generated"
 const VOLUME = "infra/seaweedfs/volume/generated"
 const FILER = "infra/seaweedfs/filer/generated"
 const S3_GATEWAY = "infra/seaweedfs/s3-gateway/generated"
-const BACKUP_CNPG = "infra/seaweedfs/backup-cnpg/generated"
-const BACKUP_BULK = "infra/seaweedfs/backup-bulk/generated"
 const BACKUP_ASSETS = "infra/seaweedfs/backup-assets/generated"
 const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
 
@@ -284,24 +282,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       }),
       dependsOn: ["seaweedfs-apply-backup-pv"],
     },
-    {
-      ...kubectlApply({
-        name: "seaweedfs-apply-backup-cnpg",
-        namespace: "seaweedfs",
-        files: `${BACKUP_CNPG}/backup-cnpg.generated.yaml`,
-        serverSide: true,
-      }),
-      dependsOn: ["seaweedfs-apply-backup-pvc", "seaweedfs-ensure-bucket"],
-    },
-    {
-      ...kubectlApply({
-        name: "seaweedfs-apply-backup-bulk",
-        namespace: "seaweedfs",
-        files: `${BACKUP_BULK}/backup-bulk.generated.yaml`,
-        serverSide: true,
-      }),
-      dependsOn: ["seaweedfs-apply-backup-pvc", "seaweedfs-ensure-bucket"],
-    },
 
     {
       ...kubectlApply({
@@ -361,8 +341,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
         "seaweedfs-apply-filer",
         "seaweedfs-apply-s3-gateway",
         "seaweedfs-ensure-bucket",
-        "seaweedfs-apply-backup-cnpg",
-        "seaweedfs-apply-backup-bulk",
         "seaweedfs-apply-etcd-snapshot",
       ],
     },
