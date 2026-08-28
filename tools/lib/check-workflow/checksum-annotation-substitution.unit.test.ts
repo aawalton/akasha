@@ -174,7 +174,7 @@ describe("scanChecksumAnnotationSubstitution — one substitution site per emit"
     ])
     expect(v.map((x) => x.file)).toEqual([
       "infra/k8s/src/buildkit/synth.ts",
-      "infra/k8s/src/grafana/synth.ts",
+      "infra/k8s/src/grafana/grafana.cluster-service.code.attachment.ts",
     ])
   })
 

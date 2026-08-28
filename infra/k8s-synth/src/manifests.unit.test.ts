@@ -3,7 +3,7 @@ import { describeDrift, generatedPathFor, pathHasComponent, reachedThroughSrc } 
 
 describe("reachedThroughSrc", () => {
   it("keeps a service the k8s package holds in its own source root", () => {
-    expect(reachedThroughSrc("infra/k8s/src/grafana/synth.ts")).toBe(false)
+    expect(reachedThroughSrc("infra/k8s/src/grafana/grafana.cluster-service.code.attachment.ts")).toBe(false)
   })
 
   it("skips a service reached through some other package's source root", () => {
@@ -17,7 +17,7 @@ describe("reachedThroughSrc", () => {
 
 describe("pathHasComponent", () => {
   it("matches the service component naming the package", () => {
-    expect(pathHasComponent("infra/k8s/src/grafana/synth.ts", "grafana")).toBe(true)
+    expect(pathHasComponent("infra/k8s/src/grafana/grafana.cluster-service.code.attachment.ts", "grafana")).toBe(true)
   })
 
   it("matches either component of a nested service", () => {
@@ -28,12 +28,12 @@ describe("pathHasComponent", () => {
 
   it("never matches a structural component, which names no service", () => {
     for (const structural of ["k8s", "deploy", "src", "synth.ts"]) {
-      expect(pathHasComponent("infra/k8s/src/grafana/synth.ts", structural)).toBe(false)
+      expect(pathHasComponent("infra/k8s/src/grafana/grafana.cluster-service.code.attachment.ts", structural)).toBe(false)
     }
   })
 
   it("matches a whole component only, never a substring of one", () => {
-    expect(pathHasComponent("infra/k8s/src/grafana/synth.ts", "graf")).toBe(false)
+    expect(pathHasComponent("infra/k8s/src/grafana/grafana.cluster-service.code.attachment.ts", "graf")).toBe(false)
   })
 })
 
