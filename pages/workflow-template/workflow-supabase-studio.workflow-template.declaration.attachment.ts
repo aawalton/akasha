@@ -43,7 +43,7 @@ export default workflow("supabase-studio", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-studio/secrets/supabase-studio-secrets.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-studio/supabase-studio.k8s-secret.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-studio -f -`,
           `echo "$DECRYPTED" | kubectl apply -n supabase-studio -f -`,
         ],
