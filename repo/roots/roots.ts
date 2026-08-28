@@ -162,9 +162,13 @@ export function resolveRoots(target: Repo = AKASHA): Roots {
  * type-checks, and the first `rootFor` then throws naming the repository that was asked for rather
  * than the key that was wrong, so the fault reads as the caller's. Build the object here and a key
  * naming no repository is refused where it was written, against the set that is addressable.
+ *
+ * The target names a repository rather than a root, as it does on `Roots` itself, and is judged
+ * against the same set: a fixture aiming at a repository that no longer exists is the same fault.
  */
-export function rootsNamed(at: Readonly<Record<string, string>>): Roots {
-  const stray = Object.keys(at).filter((one) => !isAddressable(one))
+export function rootsNamed(at: Readonly<Record<string, string>>, target?: Repo): Roots {
+  const asked = [...Object.keys(at), ...(target === undefined ? [] : [target])]
+  const stray = [...new Set(asked)].filter((one) => !isAddressable(one))
   if (stray.length > 0) {
     const named = stray.map((one) => `\`${one}\``).join(", ")
     const name = stray.length === 1 ? "names" : "name"
@@ -172,7 +176,7 @@ export function rootsNamed(at: Readonly<Record<string, string>>): Roots {
       `${named} ${name} no repository here; the repositories are ${ADDRESSABLE_NAMED}`
     )
   }
-  return { ...at }
+  return target === undefined ? { ...at } : { ...at, target }
 }
 
 export function targetRepo(roots: Roots): Repo {
