@@ -23,7 +23,9 @@ The function, whole:
 
 The first disjunct is the exposed one. `slugOf(last)` in the second parses the stem out of a typed filename; `last === `${name}.md`` asks only whether the file is called what the write is called.
 
-What holds it off is at `page-write-where.ts:65`, where `filed` comes from `scanIn(root, placesIn(type, repo), repo)` — the candidates are whatever that page type's glob matches. Across all 393 page-type pages in the repository the `files:` values tally 324 plain, 67 `none`, and 2 directory-constrained; every one of the 326 that names files ends `*.<slug>.md`. Nothing bare reaches `stands`.
+What holds it off is at `page-write-where.ts:65`, where `filed` comes from `scanIn(root, placesIn(type, repo), repo)` — the candidates are whatever that page type's glob matches. Counted over all 380 pages in `pages/page-type/`, each carrying exactly one `files:` key, the values tally **313 plain, 65 `none`, and 2 directory-constrained**. Every one of the 315 that names files ends `*.<slug>.md`. Nothing bare reaches `stands`.
+
+Five of those 313 state the glob as a YAML list rather than an inline scalar — `domain`, `folder-shape`, `page-property-definition`, `page-query` and `page-type`. A count that reads only the text on the `files:` line itself misses them and reports 308. Each was opened and each holds a single plain `akasha:**/*.<slug>.md` entry, so they move the tally without moving the conclusion. Recorded because a multi-line value is exactly where a suffix-relaxed glob would be easiest to miss, and an earlier draft of this finding did miss them.
 
 So the branch is not merely unreached — it is dead for its apparent purpose. The only way `last === `${name}.md`` can be true today is if the caller's `name` argument itself ends in `.<slug>`, as in `whereFor(roots, "domain", "file-structure.domain")`. `slugOf` is `stemOf` at `page/name/name.ts:20-24`, which cuts at the first dot, so in exactly that case the second disjunct cannot also match. The branch reads like a guard for untyped filenames and can only ever fire on a malformed argument.
 
