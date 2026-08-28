@@ -74,12 +74,10 @@ export function load(roots: Roots, pageType: string): Iterable<Row> | null {
   return deriverFor(roots).rows(pageType)
 }
 
-/** The slots a test states one value in, and the slots it states a list of them in. */
 const SINGLE = ["is", "has", "endsWith", "atOrAfter", "before"] as const
 
 const MANY = ["in", "notIn", "contains"] as const
 
-/** Every value a test states, whichever slot it stands in. */
 function statedIn(test: Test): readonly string[] {
   return [
     ...SINGLE.flatMap((slot) => (test[slot] === undefined ? [] : [test[slot]])),
@@ -87,18 +85,6 @@ function statedIn(test: Test): readonly string[] {
   ]
 }
 
-/**
- * One test with every named time it states swapped for the moment that name stands for.
- *
- * A NAMED TIME IS RESOLVED IN EVERY SLOT, not in the three that compare an instant. `now` and
- * `wake-day` were swapped inside `is`, `at-or-after` and `before` alone and left as literal text
- * everywhere else, so `in: [wake-day]` asked for a row carrying the eight characters `wake-day`.
- * Nothing carries that, and a test matching no row is a legal answer of zero — which is what a
- * true zero looks like — so the query handed back the miss as an answer.
- *
- * SWAPPED ONCE PER TEST rather than at each comparison, because what a name stands for does not
- * vary by row and `passes` runs once per row.
- */
 function resolving(test: Test, type: string | null, at: number, woke: Woke | null): Test {
   const swap = (value: string): string => stated(value, type, at, woke)
   const out: { -readonly [K in keyof Test]: Test[K] } = { ...test }
@@ -174,17 +160,6 @@ function cut(
   })
 }
 
-/**
- * The slots a test states without asking anything of a value. A test stating only these asks
- * nothing of a page, so the key it names is not held against what the page type declares.
- *
- * `empty` IS NOT ONE OF THEM. It stood here, and a test naming a key no property declares and no
- * page carries came back as a clean answer rather than a refusal: `empty: true` held of every page
- * and `empty: false` of none, both marked success. Either reads exactly like the same test on a key
- * that is declared and genuinely empty, which is the one thing `absent` exists to tell apart.
- * `empty` asks what a key holds, as `is` and `notIn` do, so it is held to the declaration as they
- * are.
- */
 const CARRIED: readonly string[] = ["key"]
 
 function valued(test: Test): boolean {
@@ -224,19 +199,12 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   const falling = fallenBack(query)
   const typeOf = (key: string): string | null => derive.typeOf(query.pageType, key)
   const tests = query.where ?? []
-  // WHETHER TO DERIVE THE WAKE INSTANT IS ASKED OF THE SAME SLOTS THE SWAP READS. This scanned
-  // `is`, `at-or-after` and `before` by name — a second list of where a named time can stand —
-  // so a query naming `wake-day` under `in` skipped the derivation as well as the swap, and two
-  // lists that had to agree could disagree without anything saying so.
   const woke = tests.some((one) => statedIn(one).includes(WAKE_DAY)) ? wokeOn(roots, at) : null
   const asked = tests.map((one) => resolving(one, typeOf(one.key), at, woke))
   const unseen = new Set(
     tests.filter(valued).map((test) => test.key).filter((key) => typeOf(key) === null)
   )
   const unfound = new Set((query.keys ?? []).filter((key) => typeOf(key) === null))
-  // ONE WALK OVER THE PAGES, whatever the answer needs of them. The rows are walked rather than
-  // held, so a second pass would read every sidecar again; what only a pass can settle — which
-  // keys no page states — is worked out here, beside the rows the tests keep.
   const matched: Row[] = []
   for (const page of found) {
     const row = falling.length === 0 ? page : stating(page, falling)
@@ -244,14 +212,6 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
     for (const key of unfound) if (row.values[key] !== undefined) unfound.delete(key)
     if (asked.every((test) => passes(row.values, test, typeOf))) matched.push(row)
   }
-  // WHAT NO PROPERTY DECLARES IS ABSENT WHETHER OR NOT A SINGLE PAGE STANDS. Both sets are seeded
-  // from the declaration — `typeOf(key) === null` — so they are already right before the walk, and
-  // the walk only ever takes keys out of them. Withholding them when nothing was walked took the
-  // refusal away from exactly the page types most likely to be addressed by a name they do not
-  // carry: a new one, or one whose pages have all gone. The reader got back the uninformative zero
-  // the refusal itself warns about, marked as success — and then the same call began refusing on
-  // the day that type first page landed, so the mistake surfaced nowhere near the change that
-  // made it.
   const beside = {
     absent: [...unseen].sort(),
     faults: [...derive.faults(), ...reducedFault(query, typeOf)],

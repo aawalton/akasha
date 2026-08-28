@@ -2,7 +2,6 @@ import { describe, expect, it } from "bun:test"
 
 import { parseListeningInodes } from "./port-listener-pid.ts"
 
-// The kernel writes the local port as hex, so 42033 reads A431 here and 39111 reads 98C7.
 const TABLE = [
   "  sl  local_address rem_address   st tx_queue rx_queue tr tm->when retrnsmt   uid  timeout inode",
   "   0: 00000000:A431 00000000:0000 0A 00000000:00000000 00:00000000 00000000  1000        0 5378241 1 0000000000000000 100 0 0 10 0",

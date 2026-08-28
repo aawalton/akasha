@@ -1,13 +1,5 @@
 import { readdirSync, readFileSync, readlinkSync } from "node:fs"
 
-/**
- * Which processes hold a local TCP port open for listening.
- *
- * READ OUT OF /proc RATHER THAN ASKED FOR OVER HTTP, because the holder that has to be cleared off
- * a port is exactly the one that may be too wedged to answer. A port is held whether or not
- * anything on it replies.
- */
-
 const LISTEN_STATE = "0A"
 
 const PROC_NET_TCP = ["/proc/net/tcp", "/proc/net/tcp6"]
@@ -22,7 +14,6 @@ function hexPort(port: number): string {
   return port.toString(16).toUpperCase().padStart(4, "0")
 }
 
-/** The socket inodes one /proc/net/tcp table shows listening on one port. */
 export function parseListeningInodes(table: string, port: number): string[] {
   const wanted = `:${hexPort(port)}`
   const inodes: string[] = []

@@ -50,12 +50,6 @@ interface Parsed {
 
 const parsed = new Map<string, Parsed>()
 
-/**
- * NULL MEANS THE SIDECAR IS NOT THERE. A stat that failed for any other reason raises, because
- * `readParsed` reads this null as "no rows and nothing wrong" — the one answer a caller cannot
- * distinguish from a page whose sidecar it could not open, and the answer a query then reports as
- * a matched zero.
- */
 function stampOf(path: string): string | null {
   try {
     const stat = statSync(path)
@@ -91,9 +85,6 @@ function readParsed(root: string, repo: string, relPath: string, parentNamed: st
   const held = parsed.get(path)
   if (held !== undefined && stamp !== null && held.stamp === stamp) return held
   const text = textAt(root, relPath)
-  // No rows and no faults, which is the right answer only for a page that has no sidecar at all.
-  // Both `stampOf` and `textAt` now reach this null only for a path that is not there; anything
-  // that failed for another reason has already raised rather than arriving here as an empty page.
   if (text === null || stamp === null) return { stamp: "", pages: [], faults: [] }
   const pages: RowsPage[] = []
   const faults: string[] = []

@@ -32,10 +32,6 @@ export function listing(held: Held): readonly string[] {
   return Array.isArray(held) ? held : []
 }
 
-// THE TARGET'S TYPE MAY BE INHERITED RATHER THAN DECLARED WHERE THE RELATION POINTS. `title` stands on
-// `page` and on nothing below it, so a look at the reached page type alone finds nothing and would have to
-// choose between refusing a correct rollup and passing a stale one. `declarationFor` walks `extends-slug`,
-// which is the same walk that settles every other property, so it finds the inherited declaration.
 function staleCopy(
   one: Property,
   declarationFor: (kind: string, key: string) => Property | null

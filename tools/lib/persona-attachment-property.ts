@@ -9,12 +9,6 @@ function personaDir(): string {
   return join(akashaRoot(), placeDirOf("persona"))
 }
 
-/**
- * AN EMPTY MAP MEANS THE PERSONA HAS NO PAGE, and the one caller reads it that way: `seat send`
- * asks for the voice key and treats a blank as "this sender is not a voiced persona", which routes
- * the message differently. A persona page that could not be opened would otherwise answer the same
- * blank, and a voiced persona would be sent as an unvoiced one with nothing saying why.
- */
 export function personaFrontmatter(slug: string): Record<string, string> {
   let text = ""
   try {

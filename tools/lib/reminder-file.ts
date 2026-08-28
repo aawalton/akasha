@@ -2,9 +2,9 @@ import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, statSync, w
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./message-file.ts"
-import { AKASHA, akashaRoot } from "../../repo/roots/roots"
+import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { pageStemOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 
 const PAGE_TYPE = "reminder"
@@ -46,8 +46,6 @@ export function reminderRelPath(to: string, id: string): string {
   return `${reminderDirRelPath(to)}/${id}.${PAGE_TYPE}${PAGE_SUFFIX}`
 }
 
-// A reminder states the name it is addressed by. That name is the id its file is placed under by
-// `reminderRelPath`, which is the file's stem.
 export function composeReminder(stated: {
   readonly slug: string
   readonly to: string

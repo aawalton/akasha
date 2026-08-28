@@ -6,12 +6,12 @@ import type { FileTree } from "../../page/file-tree.ts"
 import { DEFINED_ON, PROPERTY_GLOBS } from "../../page/page-types.ts"
 import { PROPERTY_KEY } from "../../page/property/declarations.ts"
 import { chainOf, compiledPageTypeFor } from "../../page/property/frontmatter.ts"
-import { mentionPatches } from "../../repoint/mention"
+import { mentionPatches } from "../../repoint/mention.ts"
 import { claimant, newPageNameFor, type PageType, pagesOf, reposOf } from "../../page/page-types.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { pageNameOf, pageStemOf } from "../../page/name/name"
-import type { Roots } from "../../page/page"
-import type { Landing } from "../../repo/land/land"
+import { pageNameOf, pageStemOf } from "../../page/name/name.ts"
+import type { Roots } from "../../page/page.ts"
+import type { Landing } from "../../repo/land/land.ts"
 
 export const DEFINING_REPO = "akasha"
 
@@ -156,12 +156,6 @@ export function definitionsOf(tree: FileTree, onType: string, key: string): read
 export const propertyFileName = (on: string, key: string): string =>
   key === on || key.startsWith(`${on}-`) ? key : `${on}-${key}`
 
-/**
- * THE DESTINATION KEEPS THE PAGE TYPE THE DEFINITION'S OWN NAME CARRIES, because what makes a file
- * a page is the page type its name carries. This composed a bare `<name>.md` once, which moved the
- * definition to a file no page type claims: gone from the index and from every check, and never
- * caught, because a move only reaches a path nothing stands at.
- */
 export function definitionDestination(
   definition: string,
   types: readonly PageType[],

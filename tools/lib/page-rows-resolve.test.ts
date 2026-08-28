@@ -50,7 +50,6 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-/** The fixture checkout, named as the repository the pages stand in. */
 const ROOTS = rootsNamed({ akasha: root })
 
 describe("rows whose property is declared on a page type another one extends", () => {

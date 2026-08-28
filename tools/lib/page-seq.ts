@@ -6,16 +6,8 @@ import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
 
-/** How much one spawned call may hand back. Node caps this at a megabyte where bun does not. */
 const OUTPUT_CEILING = 64 * 1024 * 1024
 
-/**
- * The runtime a TypeScript tool is run with.
- *
- * `process.execPath` NAMES BUN ONLY UNDER BUN. Under node — which the editor's extension host is —
- * it names the editor's own binary, and handing that a `.ts` path runs nothing at all. What this
- * spawns is TypeScript either way, so the runner has to be bun wherever the call comes from.
- */
 function runner(): string {
   if (process.versions.bun !== undefined) return process.execPath
   for (const dir of (process.env["PATH"] ?? "").split(":")) {
@@ -81,7 +73,6 @@ function uncommitted(relPath: string): boolean {
   return new TextDecoder().decode(proc.stdout ?? new Uint8Array()).trim() !== ""
 }
 
-/** `#7`, or `#7 to #9`: the run of `count` seqs starting at `first`. */
 function runOf(first: number, count: number): string {
   return count === 1 ? `#${first}` : `#${first} to #${first + count - 1}`
 }
@@ -127,13 +118,6 @@ function advance(source: SeqSource, first: number, count: number): Advance {
   return run
 }
 
-/**
- * The first of `count` consecutive seqs, taken as one act.
- *
- * ONE CALL FOR THE WHOLE RUN RATHER THAN ONE PER SEQ, because each call spawns `ops edit`, which
- * runs the akasha gate and lands a commit of its own. A caller that knows how many it needs says
- * so, and pays the gate and the commit once instead of once per seq.
- */
 export function takeSeqsOf(source: SeqSource, count: number): number {
   if (!Number.isInteger(count) || count <= 0) {
     throw new Error(

@@ -31,12 +31,6 @@ function textIn(values: Readonly<Record<string, unknown>>, key: string): string 
   return typeof held === "string" && held !== "" ? held : null
 }
 
-/**
- * A QUERY THAT COULD NOT BE ASKED IS NOT A PERSON WITHOUT A FEED. `null` here means only what it
- * says: the query ran, and named no feed. Every other outcome throws, because `writeNotification`
- * below turns `null` into "no notification feed names the person `alan`, so this push reaches
- * nobody" — which sends whoever reads it hunting for a page that is on disk and correct.
- */
 export async function feedFor(personSlug: string): Promise<string | null> {
   const asked = await askComposed({
     "page-type": NOTIFICATION_FEED_PAGE_TYPE_SLUG,

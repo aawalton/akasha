@@ -34,13 +34,6 @@ export function objectOfLine(line: string): Record<string, unknown> | null {
     : null
 }
 
-/**
- * AN EMPTY LIST MEANS THE PART HOLDS NO ROWS, so only a part that is not there may answer one.
- *
- * `partsHeld` turns these lines into a `Part` and `writeOutParts` writes that part back whole. A
- * part read as empty because it could not be opened is therefore rewritten as empty: the rows in it
- * are not lost in the reading, they are deleted by the write that follows.
- */
 export function linesIn(path: string): readonly string[] {
   let text: string
   try {
@@ -77,11 +70,6 @@ export function byteLength(text: string): number {
   return new TextEncoder().encode(text).length
 }
 
-/**
- * THE FALLBACK TO THE BASE PATH IS ONLY SOUND BECAUSE `rowsPartsOf` NOW ANSWERS EMPTY ONLY FOR A
- * DIRECTORY THAT IS NOT THERE. Reaching this with parts standing on disk but unlisted would build a
- * single part at the base path holding nothing, and the write back would take the sidecar down to it.
- */
 export function partsHeld(basePath: string): Part[] {
   const standing = rowsPartsOf(basePath)
   const paths = standing.length === 0 ? [basePath] : standing
@@ -108,11 +96,6 @@ export function appendable(basePath: string, parts: Part[], line: string): Part 
   return next
 }
 
-/**
- * ZERO BYTES IS WHAT `appendLines` USES TO DECIDE THE PART HAS ROOM, so only a part that is not
- * there may report it. A part whose size could not be read is not an empty part: appending to it as
- * though it were carries the sidecar past the ceiling the parts exist to keep it under.
- */
 export function lastPartOf(basePath: string): { readonly path: string; readonly bytes: number } {
   const standing = rowsPartsOf(basePath)
   const path = standing.length === 0 ? basePath : (standing[standing.length - 1] as string)

@@ -298,10 +298,6 @@ export function rowAppender(
   return {
     append: (values): undefined => {
       if (refused !== null) return
-      // EVERY ROW IS JUDGED, NOT JUST THE FIRST. A latch here judged one row per appender and let
-      // the rest through, where the landing path judges each row inside its loop. One appender
-      // writes a median of 3,209 rows, so the latch left almost a whole stream unjudged to save
-      // the microsecond a judgment costs against an append of about the same.
       if (properties !== null) {
         const said = judgeRow(values, pageType, properties, null).refusals
         if (said.length > 0) {
@@ -319,9 +315,6 @@ export function rowAppender(
         appendFileSync(path, `${line}\n`, "utf8")
         bytes += size
       } catch (error) {
-        // A SWALLOWED APPEND IS A ROW NOBODY CAN TELL IS MISSING. This caught and discarded, so a
-        // rows file turned unwritable read exactly like a row that landed. The refusal stands from
-        // here on, as a judgment refusal does: a caller told its rows stopped landing can act.
         refused =
           `no row of \`${pageType}\` reached ${path}: ` +
           `${error instanceof Error ? error.message : String(error)}`

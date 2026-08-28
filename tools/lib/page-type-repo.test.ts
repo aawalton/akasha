@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { placedElsewhere } from "./page-type-repo.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const made: string[] = []
 
@@ -15,12 +15,6 @@ function tmp(name: string): string {
   return at
 }
 
-/**
- * THE PAGE TYPE STANDS IN AKASHA AND STATES ITS PAGES ARE CODE-EDITOR'S, so the answer is a path in
- * the second root. What varies between cases is what stands in that root, and the case that matters
- * is the one where nothing does: a caller reaching this only tests the path for existence, so a name
- * no page type claims answers absent for a page that is really there.
- */
 function rootsWith(files: Readonly<Record<string, readonly string[]>>): Roots {
   const akasha = tmp("placed-akasha")
   const codeEditor = tmp("placed-code-editor")
