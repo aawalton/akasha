@@ -1,10 +1,9 @@
-import { IMAGES } from "../../tools/lib/workflow-dsl/images"
-import { SECRETS, secret } from "../../tools/lib/workflow-dsl/secrets"
-import { step } from "../../tools/lib/workflow-dsl/step"
-import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images.ts"
+import { step } from "../../tools/lib/workflow-dsl/step.ts"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 const SKIP_CHECK = [
   "CURRENT_HASH=$(kubectl get configmap supabase-studio-pipeline-state -n supabase-studio -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",
@@ -33,29 +32,6 @@ export default workflow("supabase-studio", {
 
     {
       ...step({
-        name: "supabase-studio-apply-secrets",
-        image: IMAGES.CI,
-        environment: {
-          HOME: "/tmp",
-          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
-        },
-        commands: (ci) => [
-          "set -e",
-          `CONTENT_HASH="${ci.inputsHash}"`,
-          ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/supabase-studio/supabase-studio.k8s-secret.sops.yaml)`,
-          `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-studio -f -`,
-          `echo "$DECRYPTED" | kubectl apply -n supabase-studio -f -`,
-        ],
-        backendOptions: {
-          kubernetes: { serviceAccountName: "pipeline-engine" },
-        },
-      }),
-      dependsOn: ["supabase-studio-apply-rbac"],
-    },
-
-    {
-      ...step({
         name: "supabase-studio-apply-manifests",
         image: IMAGES.KUBECTL,
         environment: { HOME: "/tmp" },
@@ -75,7 +51,7 @@ export default workflow("supabase-studio", {
           kubernetes: { serviceAccountName: "pipeline-engine" },
         },
       }),
-      dependsOn: ["supabase-studio-apply-secrets"],
+      dependsOn: ["supabase-studio-apply-rbac"],
     },
 
     {
@@ -92,7 +68,7 @@ export default workflow("supabase-studio", {
           kubernetes: { serviceAccountName: "pipeline-engine" },
         },
       }),
-      dependsOn: ["supabase-studio-apply-secrets", "supabase-studio-apply-manifests"],
+      dependsOn: ["supabase-studio-apply-manifests"],
     },
   ],
 })
