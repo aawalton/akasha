@@ -16,7 +16,6 @@ const BARE: Stated = {
   task: null,
   initiative: null,
   errand: null,
-  forwardsTo: null,
   registration: null,
   session: null,
   rotated: null,

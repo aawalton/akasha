@@ -5,10 +5,6 @@ export const SEAT_MODE_KEY = "start-mode"
 
 export const SEAT_INITIATIVE_KEY = "initiative-slug"
 
-export const SEAT_FORWARDS_TO_KEY = "forwards-turns-to"
-
-export const SEAT_FORWARDED_UUID_KEY = "forwarded-turn-uuid"
-
 const PAGE_SUFFIX = ".md"
 
 const FENCE = "---"

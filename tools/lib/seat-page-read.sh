@@ -1,8 +1,6 @@
 
 SEAT_MODE_KEY="start-mode"
 SEAT_INITIATIVE_KEY="initiative-slug"
-SEAT_FORWARDS_TO_KEY="forwards-turns-to"
-SEAT_FORWARDED_UUID_KEY="forwarded-turn-uuid"
 
 seat_pages_dir() {
   local here akasha

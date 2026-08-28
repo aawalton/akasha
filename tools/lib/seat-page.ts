@@ -81,9 +81,6 @@ export function seatPageBody(
   if (stated.errand !== null) {
     lines.push(`errand: ${JSON.stringify(clipErrand(stated.errand.value))}`)
   }
-  if (stated.forwardsTo !== null) {
-    lines.push(`forwards-turns-to: ${stated.forwardsTo.value}`)
-  }
   if (stated.registration !== null) {
     lines.push(`registration-account: ${stated.registration.value}`)
   }

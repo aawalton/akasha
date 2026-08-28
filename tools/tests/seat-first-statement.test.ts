@@ -11,8 +11,6 @@ const SEAT = "athena-flex-2-review-instructions"
 
 const ROTATED = "01a03200-0000-7000-8000-000000000000"
 
-const RECORDER = "amy-interview-recorder"
-
 const SEAT_DIR = "agent/seat"
 
 const stoodRoot = process.env.AKASHA_ROOT
@@ -127,14 +125,6 @@ describe("the first thing a spawned seat states", () => {
     const body = seatPageBody({ ...stated, rotated: { value: ROTATED } }, SEAT, resolveRoots())
 
     expect(body).toContain(`rotated-session-uuid: ${ROTATED}`)
-  })
-
-  test("carries the recipient its turns go on to, which the composed page would otherwise drop", () => {
-    const stated = statedNow(AGENT, held, said({}))
-
-    const body = seatPageBody({ ...stated, forwardsTo: { value: RECORDER } }, SEAT, resolveRoots())
-
-    expect(body).toContain(`forwards-turns-to: ${RECORDER}`)
   })
 
   test("is refused where it names no principal, a seat being unnameable without one", () => {
