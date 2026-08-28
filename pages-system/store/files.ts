@@ -26,6 +26,7 @@
  */
 
 import { readdirSync, readFileSync } from "node:fs"
+import { parse } from "yaml"
 import { pageTypeOf } from "../page-type/page-type.ts"
 
 /** What one page's frontmatter says, before any declared type is put to it. */
@@ -89,6 +90,13 @@ export const pagesUnder = (
  * FRONTMATTER IS YAML AND IS READ AS YAML. A page whose frontmatter is not YAML is refused here
  * rather than half-read, because a lenient reader would answer a value for a line it did not
  * understand, and that value would then decide what a query matched.
+ *
+ * THE PARSER IS THE ONE EVERY RUNTIME HAS. This read `Bun.YAML.parse`, which under node throws
+ * `Bun is not defined` — into the refusal below, which then reported every page in the repository as
+ * stating nothing readable. `pageTypesIn` skips a page whose frontmatter answered a string, so the
+ * store answered a node caller an empty map of page types and told it the repository declares none.
+ * The refusal is right for what it was written for and cannot tell a page whose YAML is bad from a
+ * process with no YAML parser, so what must not come back is the runtime-specific parser.
  */
 export const statedAt = (root: string, at: string): Stated | string => {
   let text: string
@@ -102,7 +110,7 @@ export const statedAt = (root: string, at: string): Stated | string => {
   if (closes < 0) return "states nothing: its frontmatter is opened and never closed"
   let held: unknown
   try {
-    held = Bun.YAML.parse(text.slice(OPENS.length, closes + 1))
+    held = parse(text.slice(OPENS.length, closes + 1))
   } catch (why) {
     return `states nothing readable: ${why instanceof Error ? why.message : String(why)}`
   }
