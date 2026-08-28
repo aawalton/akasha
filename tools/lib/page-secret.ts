@@ -35,16 +35,6 @@ export function sidecarFor(relPath: string): string | null {
   return `${relPath.slice(0, -PAGE_SUFFIX.length)}${SIDECAR_SUFFIX}`
 }
 
-export function isSidecar(relPath: string): boolean {
-  const name = nameOf(relPath)
-  return name.endsWith(SIDECAR_SUFFIX) && name !== SIDECAR_SUFFIX
-}
-
-export function pageFor(relPath: string): string | null {
-  if (!isSidecar(relPath)) return null
-  return `${relPath.slice(0, -SIDECAR_SUFFIX.length)}${PAGE_SUFFIX}`
-}
-
 export function keysIn(text: string): readonly string[] {
   return [...text.matchAll(/^([A-Za-z0-9_-]+): ENC\[/gm)].map((one) => one[1] as string).sort()
 }

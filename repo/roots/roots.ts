@@ -4,7 +4,6 @@ import { fileURLToPath } from "node:url"
 import { canonicalize } from "../path/path.ts"
 import type { Repo } from "../../page/document/types.ts"
 import { pageNameOf } from "../../page/name/name.ts"
-import { pageFileIn } from "../../page/page-file.ts"
 import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
@@ -107,12 +106,6 @@ export function isDirty(relPath: string): boolean {
 
 export function isVendored(relPath: string): boolean {
   return relPath.split("/")[0] === VENDOR_ROOT
-}
-
-export function repoPagePath(repo: string): string {
-  const stem = `${repo}${REPO_ENDING}`
-  const root = rootOf(AKASHA)
-  return `${root}/${pageFileIn(root, REPO_PAGES, stem) ?? `${REPO_PAGES}/${stem}.md`}`
 }
 
 export function rootBeside(repo: string): string {

@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { judgeFrontmatter } from "../../page/property/judge.ts"
-import { keysIn, pageFor, sidecarFor } from "../lib/page-secret.ts"
+import { keysIn, sidecarFor } from "../lib/page-secret.ts"
 import { block, fileTreeOf, declaredOn, FILES, vocabularyIn } from "./page-frontmatter-fixture.ts"
 
 const FILE_TREE = fileTreeOf({
@@ -21,12 +21,9 @@ const VOCABULARY = vocabularyIn(FILE_TREE)
 const judged = (lines: readonly string[]) => judgeFrontmatter(block(lines), "leaf", DECLARED, VOCABULARY)
 
 describe("a secret a page holds", () => {
-  test("its sops file is the page's own path with `.md` replaced, and reads back to the page", () => {
+  test("its sops file is the page's own path with `.md` replaced", () => {
     expect(sidecarFor("claude-accounts/one.md")).toBe("claude-accounts/one.sops.yaml")
-    expect(pageFor("claude-accounts/one.sops.yaml")).toBe("claude-accounts/one.md")
     expect(sidecarFor("claude-accounts/one.yaml")).toBeNull()
-    expect(pageFor("claude-accounts/one.md")).toBeNull()
-    expect(pageFor(".sops.yaml")).toBeNull()
   })
 
   test("a key its page type declares secret is refused in frontmatter", () => {
