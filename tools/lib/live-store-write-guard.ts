@@ -47,6 +47,26 @@ function liveCheckoutAt(root: string): string | null {
  * `commitAll` cover a caller that reaches `page-write.ts` directly and never becomes a request. A
  * refusal that named no route would claim to hold ground it does not.
  */
+/**
+ * Refuse where any root a write was handed is one of Alan's own checkouts.
+ *
+ * EVERY ROOT IS JUDGED RATHER THAN THE TARGET ONE, because which repository a write lands in is
+ * settled further down by the page type's own `files:` glob, and is not known here. Stating
+ * `AKASHA_ROOT` moves every sibling root with it, so a test pointed at a fixture has no live root
+ * left among these and passes, while one pointed nowhere has them all.
+ */
+export function refuseALiveTestWriteIn(
+  roots: Readonly<Record<string, string | undefined>>,
+  what: string,
+  route: string
+): void {
+  if (!inATestRun()) return
+  for (const [key, root] of Object.entries(roots)) {
+    if (key === "target" || root === undefined) continue
+    refuseALiveTestWrite(root, what, route)
+  }
+}
+
 export function refuseALiveTestWrite(root: string, what: string, route: string): void {
   if (!inATestRun()) return
   const repo = liveCheckoutAt(root)
