@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
-import { declarationOf, extendingIn, pageAt, pagesOf, type Unread } from "./store.ts"
+import { declarationOf, extendingIn, holdingsOf, pageAt, pagesOf, type Unread } from "./store.ts"
 
 /**
  * The repository this store is read over. A store reads a repository, so what it is tested against
@@ -89,6 +89,36 @@ test("every page of a page type is found by the name of its own file", () => {
   const found = pagesOf(ROOT, "seat")
   expect(found.length).toBeGreaterThan(0)
   for (const at of found) expect(at.endsWith(".seat.md")).toBe(true)
+})
+
+test("a page type whose pages are rows names the page type holding them and the key", () => {
+  const held = holdingsOf(ROOT, "log-line")
+  expect(held.holdings).toContainEqual({ on: "log-day", key: "lines" })
+})
+
+test("a page type whose pages are files is held by nothing", () => {
+  expect(holdingsOf(ROOT, "seat").holdings).toEqual([])
+})
+
+test("a page type may stand as rows of more than one page type", () => {
+  const held = holdingsOf(ROOT, "reference")
+  expect(held.holdings.length).toBeGreaterThan(1)
+  for (const one of held.holdings) expect(one.key).toBe("references")
+})
+
+test("a slug naming no page type is held by nothing", () => {
+  expect(holdingsOf(ROOT, "no-page-type-is-spelt-this-way").holdings).toEqual([])
+})
+
+test("every holding of a page type names a page type and a key", () => {
+  for (const one of holdingsOf(ROOT, "reference").holdings) {
+    expect(one.on.length).toBeGreaterThan(0)
+    expect(one.key.length).toBeGreaterThan(0)
+  }
+})
+
+test("no rows spelling in this repository is beyond what the store reads", () => {
+  expect(holdingsOf(ROOT, "log-line").beyond).toEqual({})
 })
 
 test("a page type whose pages are rows answers none of them, nothing here reading a sidecar", () => {
