@@ -5,7 +5,7 @@ title: "No code comments"
 slug: no-code-comments
 needs: file
 cached: false
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
