@@ -3,6 +3,12 @@ page-type-slug: domain
 title: "Akasha migration"
 slug: akasha-migration
 domain-parent-slug: domain/akasha-system
+sequence-slugs:
+  - domain/akasha-accretion
+  - domain/akasha-ablation
+required-reading-slugs:
+  - domain/akasha-accretion
+  - domain/akasha-ablation
 ---
 
 # Definition
