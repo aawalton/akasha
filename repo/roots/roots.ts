@@ -10,20 +10,19 @@ import type { Roots } from "../../page/page.ts"
 export const AKASHA = "akasha"
 
 /**
- * Where this repository is on disk, for every root worked out from it.
+ * Where the checkout holding this file stands, worked out from this file and nothing else.
  *
- * `AKASHA_ROOT` FIRST, then this file's own place. `rootOf` already prefers that variable for
- * every repository, this one included, so a caller that set it and a `HERE` that ignored it gave
- * two answers for one repository — and `HERE` won, silently, for the pages read at import.
+ * NO VARIABLE REACHES THIS, WHICH IS THE POINT. `HERE` below prefers `AKASHA_ROOT`, and that is how
+ * a caller points the roots at a fixture. This constant is what such a caller points away FROM, so
+ * it is what tells a fixture root from the real one. Let a variable feed it and a write could state
+ * its own innocence in the same breath as making itself.
  *
  * TWO RUNTIMES SPELL THIS FILE'S OWN PLACE DIFFERENTLY. `import.meta.dir` is bun's and reads
  * `undefined` under node, which is what the editor's extension host runs; `import.meta.dirname` is
  * node's and reads `undefined` under bun. `import.meta.url` is carried by both and is what answers
  * where neither name does.
  */
-function akashaHere(): string {
-  const stated = process.env[rootEnvName(AKASHA)]
-  if (stated !== undefined && stated !== "") return resolve(stated)
+function checkoutHere(): string {
   const meta: { readonly dir?: string; readonly dirname?: string; readonly url?: string } = import.meta
   const named = meta.dir ?? meta.dirname
   const dir = named ?? (meta.url === undefined ? undefined : dirname(fileURLToPath(meta.url)))
@@ -33,6 +32,21 @@ function akashaHere(): string {
     )
   }
   return resolve(dir, "..", "..")
+}
+
+export const CHECKOUT_HERE = checkoutHere()
+
+/**
+ * Where this repository is on disk, for every root worked out from it.
+ *
+ * `AKASHA_ROOT` FIRST, then this file's own place. `rootOf` already prefers that variable for
+ * every repository, this one included, so a caller that set it and a `HERE` that ignored it gave
+ * two answers for one repository — and `HERE` won, silently, for the pages read at import.
+ */
+function akashaHere(): string {
+  const stated = process.env[rootEnvName(AKASHA)]
+  if (stated !== undefined && stated !== "") return resolve(stated)
+  return CHECKOUT_HERE
 }
 
 export const HERE = akashaHere()
