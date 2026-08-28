@@ -1,7 +1,6 @@
 
 import { existsSync } from "node:fs"
 import { scanGlob } from "../../page/glob/glob.ts"
-import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
@@ -27,13 +26,27 @@ export interface InitiativePlace {
   readonly pageTypeSlug: string
 }
 
+/**
+ * The initiatives under initiatives/, the name settling which files those are.
+ *
+ * A FILE IN THE FOLDER IS NOT AN INITIATIVE. This took every document there that was not an
+ * attachment, so `pages/initiative/formula-name-translations.md` — a note carrying no page type in
+ * its name and no frontmatter at all — stood as one of the sixteen spellings a seat could name, and
+ * `refuseInitiative` let it through. `pageTypeOf` is the answer `claimant` and the page query are
+ * both built on, so asking it here is their answer rather than a second one: over this tree the two
+ * name the same fifteen files.
+ *
+ * ASKED OF THE NAME RATHER THAN OF A QUERY, unlike `askedInitiatives`. A query refuses where the
+ * page type does not resolve, and a refusal read as an empty answer takes the seat's initiative off
+ * its page — the fault `initiativeOf` below records. Reading the name cannot refuse.
+ */
 function initiativeFiles(root: string): readonly string[] {
   const found: string[] = []
   for (const dir of PLACES) {
     if (!existsSync(`${root}/${dir}`)) continue
     for (const name of scanGlob("**/*.md", `${root}/${dir}`)) {
       const at = `${dir}/${name}`
-      if (!isAttachmentFile(at)) found.push(at)
+      if (pageTypeOf(at) === KEY) found.push(at)
     }
   }
   return found.sort()
