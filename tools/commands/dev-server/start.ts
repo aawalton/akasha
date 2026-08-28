@@ -1,4 +1,4 @@
-export const summary = "Spawn a Next.js dev server, detach it, and write a state file"
+export const summary = "Spawn a React Router dev server, detach it, and write a state file"
 
 import { existsSync, openSync } from "node:fs"
 import { enforceMemoryGuard } from "@shared/utils-system/memory-guard"
@@ -11,6 +11,7 @@ import {
   writeEnvLocalFromSops,
 } from "../../lib/dev-server-bootstrap.ts"
 import {
+  APP_NAMES,
   computePort,
   type DevServerState,
   ensureDevServerDirs,
@@ -36,7 +37,7 @@ export const help: CommandHelp = {
       argLabel: "<name>",
       valueShape: "token",
       required: true,
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     {
       name: "--port",
