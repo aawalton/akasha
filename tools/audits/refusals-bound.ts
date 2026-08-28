@@ -5,7 +5,7 @@ import { HOLES_KEY } from "../../page/document/holes.ts"
 import type { Check } from "../lib/check.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
-import { refusalDirIn, fromDisk, refusalText } from "../lib/refusal.ts"
+import { REFUSAL_DIR, fromDisk, refusalText } from "../lib/refusal.ts"
 import { judge, over } from "../../outcome/outcome"
 import { AKASHA as SIBLING, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { fileStemOf } from "../../page/name/name"
@@ -95,8 +95,7 @@ const listed = (names: readonly string[]): string => names.map((name) => `\`${na
 export const refusalsBound: Check = (repo) => {
   const root = rootFor(repo.roots, SIBLING)
   const documents = new Map<string, string[]>()
-  const refusals = refusalDirIn(root)
-  for (const relPath of new Glob(`${refusals}/*.md`).scanSync(root)) {
+  for (const relPath of new Glob(`${REFUSAL_DIR}/*.md`).scanSync(root)) {
     const slug = fileStemOf(relPath)
     documents.set(slug, declaredIn(readFileSync(`${root}/${relPath}`, "utf8")))
   }

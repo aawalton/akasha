@@ -7,9 +7,7 @@ import { pageFileIn } from "../../page/page-file.ts"
 export const fromDisk = (absolutePath: string): string | null =>
   existsSync(absolutePath) ? readFileSync(absolutePath, "utf8") : null
 
-export function refusalDirIn(root: string): string {
-  return placeDirOf("refusal")
-}
+export const REFUSAL_DIR = placeDirOf("refusal")
 
 const HEADING = /^#[^\n]*\n/
 
@@ -19,8 +17,8 @@ export function refusalText(
   instructionsRoot: string,
   read: (absolutePath: string) => string | null
 ): string {
-  const dir = refusalDirIn(instructionsRoot)
-  const at = pageFileIn(instructionsRoot, dir, slug) ?? `${dir}/${slug}.md`
+  const at =
+    pageFileIn(instructionsRoot, REFUSAL_DIR, slug) ?? `${REFUSAL_DIR}/${slug}.md`
   const raw = read(`${instructionsRoot}/${at}`)
   if (raw === null) throw new Error(`${at} is not there, so there is no refusal to print`)
   const text = raw.replace(/\r\n/g, "\n")

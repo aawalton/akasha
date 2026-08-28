@@ -13,7 +13,7 @@ import { dirname } from "node:path"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../../page/attachment-file.ts"
 import { blobId } from "../../repo/git/git.ts"
 import { READINGS } from "../lib/read-record.ts"
-import { refusalDirIn } from "../lib/refusal.ts"
+import { REFUSAL_DIR } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { seatAbove } from "../lib/subagent.ts"
 import { AKASHA, REPOS, rootEnvName } from "../../repo/roots/roots.ts"
@@ -63,8 +63,7 @@ interface Held {
 }
 
 export function installRefusals(root: string): void {
-  const dir = refusalDirIn(LIVE)
-  cpSync(`${LIVE}/${dir}`, `${root}/${dir}`, { recursive: true })
+  cpSync(`${LIVE}/${REFUSAL_DIR}`, `${root}/${REFUSAL_DIR}`, { recursive: true })
 }
 
 export function installRepos(root: string): void {
