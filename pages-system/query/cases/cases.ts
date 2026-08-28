@@ -361,6 +361,22 @@ export const cases: QueryCase[] = [
     expected: { outcome: "answers", at: ["nine", "five"] },
   },
   {
+    name: "a sort-by outside the keys asked for still orders the answer",
+    group: "order",
+    from: ORDERS_ITS_ANSWER,
+    claim: ORDERS_BY,
+    query: { pageType: "song", sortBy: "rank", keys: ["title"] },
+    declared: DECLARED,
+    pages: [
+      { at: "three", values: { rank: num(3), title: text("c") } },
+      { at: "one", values: { rank: num(1), title: text("a") } },
+      { at: "two", values: { rank: num(2), title: text("b") } },
+    ],
+    expected: { outcome: "answers", at: ["one", "two", "three"] },
+    // Narrowing to `title` would drop `rank` from every page, and a query that
+    // asked to be ordered would answer in the order the pages arrived.
+  },
+  {
     name: "a limit fewer than no pages is refused",
     group: "limit",
     from: REFUSED_NOT_DROPPED,
