@@ -12,6 +12,21 @@ import type { Json } from "../../../supabase-database/src/generated/database.ts"
 import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "../../../utils-narrow/src/is-json.ts"
 import { useCallback, useRef } from "react"
+import { toast } from "sonner"
+
+export const SAVE_FAILED_MESSAGE = "This note is not saving"
+
+export const SAVE_FAILED_DESCRIPTION =
+  "Your words are on screen but have not been written down. Copy anything you cannot lose."
+
+function announceSaveFailure(): undefined {
+  toast.error(SAVE_FAILED_MESSAGE, {
+    id: "block-editor-save-failed",
+    duration: Number.POSITIVE_INFINITY,
+    description: SAVE_FAILED_DESCRIPTION,
+  })
+  return undefined
+}
 
 function toJson(value: RichDocument | ReadonlyJSONValue): Json {
   if (!isJson(value)) {
@@ -62,8 +77,25 @@ export function useBlockPersistence({
 
   return useCallback(
     (prevDoc: RichDocument, op: EditorOp) => {
-      const next = chainRef.current.then(() => runOne(prevDoc, op))
-      chainRef.current = next.catch(() => undefined)
+      // The edit after this one waits on `gate`, never on `next`. A handler
+      // attached to `next` marks its rejection handled, and the global
+      // `unhandledrejection` listener — the one route a browser failure has to
+      // an error page — would then never hear that the write did not land.
+      let open: () => void = () => undefined
+      const gate = new Promise<void>((resolve) => {
+        open = resolve
+      })
+      const next = chainRef.current.then(async () => {
+        try {
+          await runOne(prevDoc, op)
+        } catch (cause) {
+          announceSaveFailure()
+          throw cause
+        } finally {
+          open()
+        }
+      })
+      chainRef.current = gate
       return next
     },
     [runOne]
