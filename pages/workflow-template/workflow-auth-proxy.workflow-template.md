@@ -5,5 +5,5 @@ title: "Workflow auth proxy"
 slug: workflow-auth-proxy
 kind: foundation
 cluster-service-slugs:
-  - auth-proxy-deployment
+  - auth-proxy
 ---

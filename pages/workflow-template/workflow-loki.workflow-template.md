@@ -5,6 +5,6 @@ title: "Workflow loki"
 slug: workflow-loki
 kind: foundation
 cluster-service-slugs:
-  - loki-deployment
+  - loki
   - promtail
 ---

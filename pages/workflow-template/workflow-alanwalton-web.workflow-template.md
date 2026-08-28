@@ -5,5 +5,5 @@ title: "Workflow alanwalton web"
 slug: workflow-alanwalton-web
 kind: apps
 cluster-service-slugs:
-  - alanwalton-web-deployment
+  - alanwalton-web
 ---

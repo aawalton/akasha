@@ -6,7 +6,7 @@ slug: smilingjenny-web
 repo: akasha
 domain-parent-slug: domain/smilingjenny
 cluster-service-slugs:
-  - smilingjenny-web-deployment
+  - smilingjenny-web
 required-reading-slugs:
   - domain/browser
 ---

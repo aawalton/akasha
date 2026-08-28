@@ -5,5 +5,5 @@ title: "Workflow audhdalan web"
 slug: workflow-audhdalan-web
 kind: apps
 cluster-service-slugs:
-  - audhdalan-web-deployment
+  - audhdalan-web
 ---

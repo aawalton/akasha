@@ -5,5 +5,5 @@ title: "Workflow archive of worlds web"
 slug: workflow-archive-of-worlds-web
 kind: apps
 cluster-service-slugs:
-  - archive-of-worlds-web-deployment
+  - archive-of-worlds-web
 ---

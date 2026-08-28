@@ -6,7 +6,7 @@ slug: alanwalton-atlas-web
 repo: akasha
 domain-parent-slug: domain/atlas-app
 cluster-service-slugs:
-  - alanwalton-atlas-deployment
+  - alanwalton-atlas
 required-reading-slugs:
   - domain/browser
 ---

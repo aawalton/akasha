@@ -5,5 +5,5 @@ title: "Workflow smilingjenny web"
 slug: workflow-smilingjenny-web
 kind: apps
 cluster-service-slugs:
-  - smilingjenny-web-deployment
+  - smilingjenny-web
 ---

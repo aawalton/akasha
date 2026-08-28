@@ -5,5 +5,5 @@ title: "Workflow alanwalton atlas"
 slug: workflow-alanwalton-atlas
 kind: apps
 cluster-service-slugs:
-  - alanwalton-atlas-deployment
+  - alanwalton-atlas
 ---
