@@ -39,7 +39,7 @@ const COUNT = /^-?\d+(?:\.\d+)?$/
 const SEQ = /^[1-9]\d*$/
 const INSTANT = /^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}:\d{2}/
 const WEB = /^https?:\/\/\S+$/
-const PROCESS = /^\d+\.\d+$/
+const PROCESS = /^\d+-\d+$/
 const ONE_FILE = /^[A-Za-z0-9._-]+(?:\/[A-Za-z0-9._-]+)*$/
 const INNER = String.raw`[a-z][a-z0-9-]*(?:\([^()]*\))?`
 const BOUND = String.raw`(?:,\s*max\s+([1-9]\d*)\s*)?`
@@ -151,7 +151,7 @@ export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
     },
   ],
   ["uuid", scalarRule("a UUID", (text) => UUID.test(text))],
-  ["process", scalarRule("a pid and a start time, written `<pid>.<start>`", (text) => PROCESS.test(text))],
+  ["process", scalarRule("a pid and a start time, written `<pid>-<start>`", (text) => PROCESS.test(text))],
   ["relation-id", points],
   ["relation-seq", scalarRule("the seq of the page it points at", (text) => SEQ.test(text))],
   [RELATION_SLUG, relationSlugRule(null)],
