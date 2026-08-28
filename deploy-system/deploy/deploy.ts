@@ -10,8 +10,9 @@ const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "D
 
 const STAND_INS: readonly { readonly what: string; readonly found: RegExp }[] = [
   {
-    what: "a checksum a synth cannot know, which is filled in from what the workload reads",
-    found: /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):/gm,
+    what: "a checksum left for something after the synth to fill in, rather than a digest",
+    found:
+      /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):[ \t]*(?!["']?[0-9a-f]{32,64}["']?[ \t]*$)\S.*$/gm,
   },
   {
     what: "an image a synth cannot know, which is filled in from what the build produced",
@@ -196,16 +197,6 @@ export interface Deployed {
   readonly ran: readonly Ran[]
 }
 
-/**
- * Apply this service's manifests, and wait for its rollout where it has one.
- *
- * A SERVICE THAT BUILDS IN ITS POD IS NOT WAITED FOR HERE, and `awaitRollout` is how a caller says
- * so. Applying such a service moves its pod to a working directory whose build has not been made
- * yet, so the new pod cannot start and the rollout cannot finish. Waiting on it would spend the
- * timeout and then fail, and the build that would have made the pod startable never runs. The build
- * is exec'd into the pod that is still up, into the node checkout both pods share, and the restart
- * and the wait belong after it.
- */
 export async function deploy(
   akasha: string,
   plan: Plan,
