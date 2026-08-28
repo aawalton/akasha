@@ -20,3 +20,21 @@ parent-slug: aine-global
 - Every check akasha defines finds nothing on main.
 - Which checks run is settled by their pages, never by a cache.
 - Nothing outside the checks system says what a check is.
+
+# Notes
+
+Alan ruled on each of the following on 2026-08-27. They stand until he rules otherwise, and are here so nobody re-asks him or works against them.
+
+**A check goes on for patches before main is clean.** An on-patch check judges only the files in the change, so a red main does not stop work that does not touch it. His condition, stated in those terms: a change set that does not touch a failing file must not be blocked by it. That condition holds for `typecheck` on four tests at `checks-system/check/typecheck/typecheck.on-checks.test.ts:61`, `:75`, `:89` and `:106` — a fault is reported where its file is in the change set or in an import cycle with one, and a file that merely imports what is judged, or is merely imported by it, is left to whoever touches it. A check whose scope is not bounded that way does not carry this licence.
+
+**Checks are reviewed one page type at a time.** "No, review one at a time." What he rules for one page type is not carried across the rest.
+
+**`folder-matches-a-shape` stays disabled.** "This is experimental, leave it disabled." 1,264 folders fail it on 2026-08-28, the repository root among them.
+
+**Neither naming check is repointed at the computed `name` until Astra's naming migration lands.** `pages/page-property-definition/page-name.page-property-definition.md` declares `key: name` and `computed: true`, and `pages-system/name/name.ts` stands with its unit tests, but on 2026-08-28 109 page types still declare `named-for`, none declares a `name` formula, and nothing imports the resolver. Repointing before the expressions are in the new language takes `page-named-as-stated` and `page-name-unique` off every page type left behind: their failures fall, and what fell is judgment rather than fault. The resolver's default is `{slug} ?? {id}`, which demands uuid filenames of any page type whose pages carry no slug.
+
+**A page's file stem is the page's name, and a folder names no part of a page.** That is where naming is going; it stands as Intent on the page-name property definition rather than as law. Royal Road chapters are the exception he drew: they keep their nesting, and renaming 17,902 of them to make 290 name collisions unique was weighed and refused.
+
+**`read-what-is-required` does not go on.** As it stands it would refuse the seats that read and pass the subagents that write. The reading is filed under `pages/finding/domain/checks-system/`.
+
+**`import-resolves` is approved, and stands off until the packages here answer their own specifiers.** 19 do not on 2026-08-28, down from 108 on 2026-08-27 as the design and temper exports maps are repaired.
