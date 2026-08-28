@@ -78,7 +78,7 @@ describe("what a page type and its ancestors declare", () => {
 
 describe("which page type a page is judged against", () => {
   const sited = (relPath: string, lines: readonly string[]) =>
-    pageTypeChain(relPath, "instructions", fileTreeOf({ ...FILES, [relPath]: block(lines) }))
+    pageTypeChain(relPath, "akasha", fileTreeOf({ ...FILES, [relPath]: block(lines) }))
 
   test("the page type its name carries claims it, wherever the file sits", () => {
     const { relPaths, why } = sited("elsewhere/odd.leaf.md", ["domain: a-domain"])
@@ -275,11 +275,11 @@ describe("what cannot be judged is reported rather than refused", () => {
       fileTreeOf(except((at) => at === "pages/page-type/page-property-type.page-type.md")),
       "no page type named",
     ],
-    ["no repo holds the page type's own directory", fileTreeOf(FILES, { leaf: "instructions" }), "claims no files"],
+    ["no repo holds the page type's own directory", fileTreeOf(FILES, { leaf: "akasha" }), "claims no files"],
     [
       "the page type's directory stands in a repo this reads none of",
-      fileTreeOf(FILES, { ...PLACED, "page-property-type": "memory" }),
-      "which this reads none of",
+      fileTreeOf(FILES, { ...PLACED, "page-property-type": "code-editor" }),
+      "which nothing here reads",
     ],
     [
       "the page type's own directory holds nothing",

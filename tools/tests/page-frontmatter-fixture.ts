@@ -61,7 +61,7 @@ export const nameOf = (relPath: string): string => {
   return stem.slice(stem.indexOf("-") + 1)
 }
 
-export const PLACED: Readonly<Record<string, string>> = { leaf: "instructions", "page-property-type": "instructions" }
+export const PLACED: Readonly<Record<string, string>> = { leaf: "akasha", "page-property-type": "akasha" }
 
 /**
  * A file tree holding exactly these files and nothing else.
