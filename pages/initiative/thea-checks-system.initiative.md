@@ -37,4 +37,4 @@ Alan ruled on each of the following, on 2026-08-27 and 2026-08-28. They stand un
 
 **Judging an author is not a check.** Code that judges the writer belongs in `ops write` and `ops edit`, the only two commands that hold a write to what its author has read; code that judges the code stays a check. A subagent is judged through its seat's page, taking the persona, role and domain that page type declares as defaults, so a subagent that names none of the three is held to all three.
 
-**`import-resolves` is approved, and stands off until the packages here answer their own specifiers.** 19 do not on 2026-08-28, down from 108 on 2026-08-27 as the design and temper exports maps are repaired.
+**Every code comment outside the code comment forms is deleted, not rehomed.** "If what they said matters, we'll add that back later." The rule is on `pages/domain/code-comment.domain.md`, and `no-code-comments` refuses on a patch.
