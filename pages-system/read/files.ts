@@ -28,12 +28,11 @@ const entriesIn = (dir: string): readonly Dirent[] | string => {
   }
 }
 
-export const pagesUnder = (
+const walked = (
   root: string,
-  kinds: ReadonlySet<string>
-): ReadonlyMap<string, readonly string[]> | string => {
-  const found = new Map<string, string[]>()
-  for (const kind of kinds) found.set(kind, [])
+  keep: (kind: string) => boolean,
+  found: Map<string, string[]>
+): string | null => {
   const walk = (at: string): string | null => {
     const entries = entriesIn(at === "" ? root : `${root}/${at}`)
     if (typeof entries === "string") return entries
@@ -47,12 +46,31 @@ export const pagesUnder = (
         continue
       }
       const kind = pageTypeOf(entry.name)
-      if (kind === null) continue
-      found.get(kind)?.push(under)
+      if (kind === null || !keep(kind)) continue
+      const held = found.get(kind)
+      if (held === undefined) found.set(kind, [under])
+      else held.push(under)
     }
     return null
   }
-  const why = walk("")
+  return walk("")
+}
+
+export const pagesUnder = (
+  root: string,
+  kinds: ReadonlySet<string>
+): ReadonlyMap<string, readonly string[]> | string => {
+  const found = new Map<string, string[]>()
+  for (const kind of kinds) found.set(kind, [])
+  const why = walked(root, (kind) => kinds.has(kind), found)
+  return why === null ? found : why
+}
+
+export const everyPageUnder = (
+  root: string
+): ReadonlyMap<string, readonly string[]> | string => {
+  const found = new Map<string, string[]>()
+  const why = walked(root, () => true, found)
   return why === null ? found : why
 }
 

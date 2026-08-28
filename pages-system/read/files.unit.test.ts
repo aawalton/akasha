@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { chmodSync, mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { pagesUnder, sidecarsOf, textAt } from "./files.ts"
+import { everyPageUnder, pagesUnder, sidecarsOf, textAt } from "./files.ts"
 
 const rootOf = (names: readonly string[]): string => {
   const root = mkdtempSync("/var/tmp/pages-system-files-")
@@ -127,6 +127,38 @@ test("a folder below the root that will not list refuses the walk rather than be
   chmodSync(`${root}/pages/shut`, 0o000)
   try {
     expect(typeof pagesUnder(root, new Set(["log-day"]))).toBe("string")
+  } finally {
+    chmodSync(`${root}/pages/shut`, 0o755)
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("every kind under the root is answered, a kind with no page standing for none", () => {
+  const root = rootOf(["monday.log-day.lines.jsonl"])
+  writeFileSync(`${root}/pages/day/monday.log-day.md`, "")
+  writeFileSync(`${root}/pages/day/vera.seat.md`, "")
+  try {
+    const found = everyPageUnder(root)
+    if (typeof found === "string") throw new Error(found)
+    expect(found.get("log-day")).toEqual(["pages/day/monday.log-day.md"])
+    expect(found.get("seat")).toEqual(["pages/day/vera.seat.md"])
+    expect(found.has("no-page-type-is-spelt-this-way")).toBe(false)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a root that will not list refuses every kind, rather than answering none of them", () => {
+  expect(typeof everyPageUnder("/var/tmp/no-such-root-stands-here")).toBe("string")
+})
+
+test("a folder below the root that will not list refuses the wider walk too", () => {
+  const root = rootOf([])
+  writeFileSync(`${root}/pages/day/monday.log-day.md`, "")
+  mkdirSync(`${root}/pages/shut`)
+  chmodSync(`${root}/pages/shut`, 0o000)
+  try {
+    expect(typeof everyPageUnder(root)).toBe("string")
   } finally {
     chmodSync(`${root}/pages/shut`, 0o755)
     rmSync(root, { recursive: true, force: true })

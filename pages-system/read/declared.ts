@@ -4,7 +4,7 @@ import type { Declared } from "../query/query.ts"
 import { type Stated, pagesUnder, statedAt } from "./files.ts"
 import { heldBy } from "./held.ts"
 
-const PAGE_TYPE = "page-type"
+export const PAGE_TYPE = "page-type"
 
 export const PROPERTY = "page-property-definition"
 
@@ -29,10 +29,13 @@ export const textIn = (stated: Stated, key: string): string | null => {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-const pageTypesIn = (root: string, at: readonly string[]): ReadonlyMap<string, Stated> => {
+export const pageTypesIn = (
+  at: readonly string[],
+  read: (at: string) => Stated | string
+): ReadonlyMap<string, Stated> => {
   const found = new Map<string, Stated>()
   for (const one of at) {
-    const stated = statedAt(root, one)
+    const stated = read(one)
     if (typeof stated === "string") continue
     const slug = textIn(stated, SLUG)
     if (slug !== null && !found.has(slug)) found.set(slug, stated)
@@ -40,10 +43,13 @@ const pageTypesIn = (root: string, at: readonly string[]): ReadonlyMap<string, S
   return found
 }
 
-const propertiesIn = (root: string, at: readonly string[]): ReadonlyMap<string, Stated[]> => {
+export const propertiesIn = (
+  at: readonly string[],
+  read: (at: string) => Stated | string
+): ReadonlyMap<string, Stated[]> => {
   const found = new Map<string, Stated[]>()
   for (const one of at) {
-    const stated = statedAt(root, one)
+    const stated = read(one)
     if (typeof stated === "string") continue
     const on = textIn(stated, DEFINED_ON)
     if (on === null || !on.startsWith(ON)) continue
@@ -94,20 +100,30 @@ const declaredBy = (
   return { properties, beyond }
 }
 
+export const declarationsFrom = (
+  types: ReadonlyMap<string, Stated>,
+  properties: ReadonlyMap<string, Stated[]>,
+  pageTypes: Iterable<string>
+): Map<string, Declared> => {
+  const declarations = new Map<string, Declared>()
+  for (const one of pageTypes) {
+    if (types.has(one)) declarations.set(one, declaredBy(types, properties, one))
+  }
+  return declarations
+}
+
 export const declarationsFor = (
   root: string,
   pageTypes: Iterable<string>
 ): Map<string, Declared> | string => {
   const found = pagesUnder(root, new Set([PAGE_TYPE, PROPERTY]))
   if (typeof found === "string") return found
-  const types = pageTypesIn(root, found.get(PAGE_TYPE) ?? [])
+  const read = (at: string): Stated | string => statedAt(root, at)
+  const types = pageTypesIn(found.get(PAGE_TYPE) ?? [], read)
   const standing: string[] = []
   for (const one of pageTypes) if (types.has(one)) standing.push(one)
-  const declarations = new Map<string, Declared>()
-  if (standing.length === 0) return declarations
-  const declared = propertiesIn(root, found.get(PROPERTY) ?? [])
-  for (const one of standing) declarations.set(one, declaredBy(types, declared, one))
-  return declarations
+  if (standing.length === 0) return new Map<string, Declared>()
+  return declarationsFrom(types, propertiesIn(found.get(PROPERTY) ?? [], read), standing)
 }
 
 export const declarationOf = (root: string, pageType: string): Declared | string | null => {
@@ -116,13 +132,17 @@ export const declarationOf = (root: string, pageType: string): Declared | string
   return found.get(pageType) ?? null
 }
 
-export const extendingIn = (root: string): Extending | string => {
-  const found = pagesUnder(root, new Set([PAGE_TYPE]))
-  if (typeof found === "string") return found
+export const extendingFrom = (types: ReadonlyMap<string, Stated>): Extending => {
   const extending = new Map<string, string>()
-  for (const [slug, stated] of pageTypesIn(root, found.get(PAGE_TYPE) ?? [])) {
+  for (const [slug, stated] of types) {
     const over = textIn(stated, EXTENDS)
     if (over !== null && over !== NONE) extending.set(slug, over)
   }
   return extending
+}
+
+export const extendingIn = (root: string): Extending | string => {
+  const found = pagesUnder(root, new Set([PAGE_TYPE]))
+  if (typeof found === "string") return found
+  return extendingFrom(pageTypesIn(found.get(PAGE_TYPE) ?? [], (at) => statedAt(root, at)))
 }
