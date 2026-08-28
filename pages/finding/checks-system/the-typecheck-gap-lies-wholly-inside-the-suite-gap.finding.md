@@ -41,3 +41,7 @@ falling back to default options, so the narrowing looks like housekeeping while 
 
 VERIFIED: 774 entries, every one tracked, none under `tools/`, none matching the glob. `wc -l` says
 773 because the file carries no trailing newline. The typecheck half was measured by thea.
+
+WHY THEY ARE UNCLAIMED. `typecheck/program.ts:237-241`: where a file's owning project does not name
+it, `rootsFor` returns an empty root set, so no program is built and the check passes.
+`typecheck.check.md:23` states the opposite as Design. Found by astra.
