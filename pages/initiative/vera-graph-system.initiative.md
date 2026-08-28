@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- No held answer outlives the shape it was written in.
 - Whoever asks the graph gets an answer, not pieces to put together.
 
 # Design
@@ -20,11 +19,9 @@ A type earns its place by answering a question something is asking now. Nothing 
 
 ## How the work is shaped
 
-What is left is one body of work rather than several, being all one index, and splitting it between seats yields half-indexes.
-
 ## What Alan settled on 2026-08-27
 
-Nothing the graph has already worked out is worked out again, by Alan's ruling on 2026-08-27. The index and the cache are not clearly defined yet, and settling what each is comes before tuning either.
+Nothing the graph has already worked out is worked out again, and no held answer outlives the shape it was written in, both by Alan's ruling on 2026-08-27. What is left of the second is `vocabulary` and `rows-homes` under `.git/pages-answers`, which `astra-page-index` holds. The index and the cache are not clearly defined yet, and settling what each is comes before tuning either.
 
 He approves each type individually. The `Alan Approves` rule on `domain/the-graph` stands as written: no type enters the graph before he has approved that type.
 
