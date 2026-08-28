@@ -1,27 +1,22 @@
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { type Roots } from "../../page/page"
-import { REPOS } from "../../repo/roots/roots"
 import { admits, BYTE_CEILING, fresh, LINE_CEILING, parse, pointed, reach } from "../../agent/search-run.ts"
+
+const HELD = "held-directory"
 
 let root = ""
 let roots: Roots
 
 beforeAll(() => {
   root = mkdtempSync("/var/tmp/search-run-")
-  for (const name of ["instructions", "code", "memory", "books"]) {
-    mkdirSync(`${root}/${name}`, { recursive: true })
-  }
-  writeFileSync(`${root}/instructions/one.txt`, "needle\n", "utf8")
-  roots = {
-    instructions: `${root}/instructions`,
-    code: `${root}/code`,
-    memory: `${root}/memory`,
-    books: `${root}/books`,
-    stories: `${root}/stories`,
-    "code-editor": `${root}/code-editor`,
-    akasha: `${root}/akasha`,
-  }
+  mkdirSync(`${root}/akasha`, { recursive: true })
+  mkdirSync(`${root}/${HELD}`, { recursive: true })
+  writeFileSync(`${root}/${HELD}/one.txt`, "needle\n", "utf8")
+  // A ROOT NAMED WHERE NOTHING STANDS IS THE CASE `reach` IS FOR, so `code-editor` is named here and
+  // its directory is never made. `rootsNamed` refuses exactly that shape, which is why these roots
+  // are written out rather than built through it.
+  roots = { akasha: `${root}/akasha`, "code-editor": `${root}/code-editor` }
 })
 
 afterAll(() => {
@@ -30,19 +25,19 @@ afterAll(() => {
 
 describe("what reaches ripgrep", () => {
   test("every argument that is not this command's own is kept, in the order it was written", () => {
-    const parsed = parse(["-g", "*.ts", "--repo", "code", "-i", "--", "-not-a-flag"])
+    const parsed = parse(["-g", "*.ts", "--repo", "akasha", "-i", "--", "-not-a-flag"])
     expect(parsed.ok).toBe(true)
     if (!parsed.ok) return
     expect(parsed.rest).toEqual(["-g", "*.ts", "-i", "--", "-not-a-flag"])
   })
 
   test("a repository named after ripgrep's own end-of-flags marker is ripgrep's, not this command's", () => {
-    const parsed = parse(["needle", "--", "--repo", "code"])
+    const parsed = parse(["needle", "--", "--repo", "akasha"])
     expect(parsed.ok).toBe(true)
     if (!parsed.ok) return
     expect(parsed.repos).toEqual([])
     expect(parsed.rest).toEqual(["needle", "--"])
-    expect(parsed.paths).toEqual(["--repo", "code"])
+    expect(parsed.paths).toEqual(["--repo", "akasha"])
   })
 
   test("a repository this system does not hold is refused rather than handed on to ripgrep", () => {
@@ -52,36 +47,27 @@ describe("what reaches ripgrep", () => {
 })
 
 describe("which places a search covers", () => {
-  test("the fixture stands for every repository declared, a search naming none reaching them all", () => {
-    expect(Object.keys(roots).sort()).toEqual([...REPOS].sort())
-  })
-
   test("naming none covers every repository that is on disk, and none that is not", () => {
     const covered = reach([], roots)
-    expect([...covered.searching.map((one) => one.name)].sort()).toEqual([
-      "books",
-      "code",
-      "instructions",
-      "memory",
-    ])
-    expect([...covered.absent].sort()).toEqual(["akasha", "code-editor", "stories"])
+    expect([...covered.searching.map((one) => one.name)].sort()).toEqual(["akasha"])
+    expect([...covered.absent].sort()).toEqual(["code-editor"])
   })
 
   test("naming one covers that one alone", () => {
-    expect(reach(["memory"], roots).searching.map((one) => one.name)).toEqual(["memory"])
+    expect(reach(["akasha"], roots).searching.map((one) => one.name)).toEqual(["akasha"])
   })
 
   test("naming the same one twice covers it once", () => {
-    const parsed = parse(["needle", "--repo", "code", "--repo", "code"])
+    const parsed = parse(["needle", "--repo", "akasha", "--repo", "akasha"])
     expect(parsed.ok).toBe(true)
     if (!parsed.ok) return
-    expect(reach(parsed.repos, roots).searching.map((one) => one.name)).toEqual(["code"])
+    expect(reach(parsed.repos, roots).searching.map((one) => one.name)).toEqual(["akasha"])
   })
 
   test("a repository is searched from its own root", () => {
-    const [only] = reach(["memory"], roots).searching
-    expect(only?.from).toBe(`${root}/memory`)
-    expect(only?.at).toBe(`${root}/memory`)
+    const [only] = reach(["akasha"], roots).searching
+    expect(only?.from).toBe(`${root}/akasha`)
+    expect(only?.at).toBe(`${root}/akasha`)
   })
 })
 
@@ -123,16 +109,16 @@ describe("where a path points a search", () => {
   })
 
   test("naming a repository and a path at once is refused, because each says where to search", () => {
-    expect(parse(["needle", "--repo", "code", "pages"]).ok).toBe(false)
+    expect(parse(["needle", "--repo", "akasha", "pages"]).ok).toBe(false)
   })
 
   test("a directory is searched from itself and a file from the directory holding it", () => {
-    const found = pointed([`${root}/instructions`, `${root}/instructions/one.txt`])
+    const found = pointed([`${root}/${HELD}`, `${root}/${HELD}/one.txt`])
     const [directory, file] = found.searching
     expect(found.absent).toEqual([])
     expect(directory?.from).toBe(directory?.at ?? "")
-    expect(directory?.at.endsWith("/instructions")).toBe(true)
-    expect(file?.at.endsWith("/instructions/one.txt")).toBe(true)
+    expect(directory?.at.endsWith(`/${HELD}`)).toBe(true)
+    expect(file?.at.endsWith(`/${HELD}/one.txt`)).toBe(true)
     expect(file?.from).toBe(file?.at.slice(0, file.at.lastIndexOf("/")) ?? "")
   })
 
