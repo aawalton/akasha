@@ -192,6 +192,11 @@ export const RULES: ReadonlyMap<string, Rule> = new Map<string, Rule>([
   ["relation-seq", scalarRule("the seq of the page it points at", (text) => SEQ.test(text))],
   [RELATION_SLUG, relationSlugRule(null)],
   [RELATION_ADDRESS, scalarRule(ADDRESS_SAYS, (text) => addressParts(text) !== null)],
+  // A NAME IS BOUNDED BY BEING ONE VALUE AND NOT EMPTY, AND BY NOTHING FURTHER. A rule is handed
+  // the value alone and never the corpus, so whether a name reaches a page is not a question it
+  // can answer; what it can answer is that a map, a list and a blank are none of them a name.
+  // Saying that much is what separates a key nothing looked at from one that was looked at.
+  ["relation-name", scalarRule("the name of the page it points at", (text) => text !== "")],
   ["boolean", scalarRule("`true` or `false`", (text) => text === "true" || text === "false")],
   ["number", scalarRule("a number", (text) => COUNT.test(text))],
   ["size", scalarRule(`a rank on the size ladder — ${RANKS}`, (text) => LADDER.has(text.toLowerCase()))],
