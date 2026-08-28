@@ -24,8 +24,6 @@ Doctrine names cited from those comments now appear in no tracked source outside
 
 The distinction that decides a deletion is this: a finding whose stated evidence was deleted is not the same as a finding whose defect was fixed. Where the host file survives and the behaviour is unchanged, the defect is live and only the sentence describing it has gone — and the code now says nothing about it either, so the finding is the sole remaining record.
 
-# Not measured
+Not measured: how many of the surviving host files carry a live defect their stripped comment used to describe. Each has to be opened; the finding cannot answer it, which is the whole point of this one.
 
-How many of the surviving host files carry a live defect their stripped comment used to describe. Each has to be opened; the finding cannot answer it, which is the whole point of this one.
-
-Whether the content of the stripped comments reached a domain in every case, or only in some. The policy states where it goes; nothing measured here confirms it arrived.
+Not measured: whether the content of the stripped comments reached a domain in every case, or only in some. The policy states where it goes; nothing measured here confirms it arrived.
