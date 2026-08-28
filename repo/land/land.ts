@@ -49,7 +49,6 @@ export interface SizeChange {
 export interface Landed {
   readonly sha: string | null
   readonly unheld: readonly string[]
-  readonly indexed: readonly string[]
   readonly wrote: readonly string[]
   readonly gone: readonly string[]
 }
@@ -250,8 +249,17 @@ export function landFiles(one: Landings): Landed {
     ...carrying.filter((held) => carriedHeld.has(held.from)).flatMap((held) => [held.from, held.to]),
   ]
   const sha = commit(root, named, message)
-  const indexed = indexAfterLanding(one.repo, root, wasBefore, wrote, gone)
-  return { sha, unheld, indexed, wrote, gone }
+  try {
+    indexAfterLanding(one.repo, root, wasBefore, wrote, gone)
+  } catch (err) {
+    const said = err instanceof Error ? err.message : String(err)
+    throw new LandingRefused(
+      `${said}. ${sha === null ? "The write" : `Commit ${sha}`} stands in git while the index ` +
+        "no longer describes it, so a scan of these pages answers from rows that have gone " +
+        "stale. Write the index again with `ops index refresh`."
+    )
+  }
+  return { sha, unheld, wrote, gone }
 }
 
 function bodyAside(body: string | Uint8Array): string {
@@ -352,7 +360,6 @@ export function land(
       `write:  ${entries.length} file(s) written${taken}`,
       ...sizeLines(sizes),
       ...carriedLines,
-      ...landed.indexed,
       ...(landed.unheld.length === 0
         ? []
         : [`        NO HISTORY HOLDS WHAT WENT AT ${landed.unheld.join(", ")}, which git never tracked`]),

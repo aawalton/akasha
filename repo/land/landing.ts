@@ -51,24 +51,32 @@ function landingsFor(
   return found
 }
 
+/**
+ * The index brought up to what this landing left on disk, or a refusal.
+ *
+ * A FAILURE HERE REFUSES RATHER THAN PRINTING. A printed line stands in the middle of a report
+ * whose last line says the commit succeeded, so the landing reads as done while the index has
+ * stopped describing the tree. Nothing downstream tells that apart from a repository with no
+ * page in it. Throwing hands the caller the failure while it still knows which commit it
+ * belongs to.
+ */
 export function indexAfterLanding(
   repo: string,
   root: string,
   before: Bodies,
   written: readonly string[],
   removed: readonly string[]
-): readonly string[] {
+): void {
   const landings = landingsFor(repo, root, before, written, removed)
-  if (landings.length === 0) return []
-  if (!indexReaches(repo, root)) return []
+  if (landings.length === 0) return
+  if (!indexReaches(repo, root)) return
   const tracked = new Set(trackedIn(root))
   const holds: Holds = (asked, key) => asked === repo && tracked.has(key)
   try {
     landHere(landings, holds)
   } catch (err) {
     const said = err instanceof Error ? err.message : String(err)
-    return [`        THE PAGE INDEX DID NOT TAKE ${String(landings.length)} PAGE FILE(S): ${said}`]
+    throw new Error(`the page index did not take ${String(landings.length)} page file(s): ${said}`)
   }
   markLanded(repo, root)
-  return []
 }

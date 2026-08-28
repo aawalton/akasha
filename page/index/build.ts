@@ -275,11 +275,26 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
   return found
 }
 
+/**
+ * Every landed page's entries written into the index, or a refusal.
+ *
+ * AN INDEX HOLDING NO PAGE REFUSES RATHER THAN ANSWERING 0. A landing works out what to change
+ * from what the index already says, so against an empty one it has nothing to change, and a 0
+ * reads exactly like a landing that carried no page at all. That is what a rebuild looks like
+ * from here for as long as it runs, and what an index nothing ever wrote looks like for good:
+ * the commit lands in git, the index goes on describing a tree that has moved, and the only
+ * sign of it is a row that is wrong until something else happens to land on the same page.
+ */
 export function landHere(landings: readonly Landing[], holds: Holds): number {
-  const pages = loadPages()
-  if (pages.length === 0) return 0
   const landed = landedOf(landings)
   if (landed.length === 0) return 0
+  const pages = loadPages()
+  if (pages.length === 0) {
+    throw new Error(
+      "the page index holds no page at all, so nothing here can be updated and this landing " +
+        "would otherwise be taken as done"
+    )
+  }
   const stated = restatedAll(pages, landed)
   const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
   let touched = 0
