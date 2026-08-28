@@ -1,5 +1,5 @@
-import { configmapYaml, deploymentYaml, namespaceYaml, serviceYaml } from "./synth-loki"
-import { promtailConfigmapYaml, promtailDaemonsetYaml, promtailRbacYaml } from "./synth-promtail"
+import { configmapYaml, deploymentYaml, namespaceYaml, serviceYaml } from "../synth-loki"
+import { promtailConfigmapYaml, promtailDaemonsetYaml, promtailRbacYaml } from "../synth-promtail"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

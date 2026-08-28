@@ -283,7 +283,7 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
       '          { name: "NODE", valueFrom: { fieldRef: { fieldPath: "spec.nodeName" } } },',
       "          containers: [",
     ].join("\n")
-    const v = scanTsNodeName(content, "infra/loki-service/k8s/synth-promtail.ts")
+    const v = scanTsNodeName(content, "infra/loki-service/synth-promtail.ts")
     expect(v).toEqual([])
   })
 })

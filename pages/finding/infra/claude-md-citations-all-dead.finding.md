@@ -16,7 +16,7 @@ First measured over the code repository's `packages/infra`, where collecting eve
 
 Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`, where infra stands at `infra/` and there is no `packages/` directory. The population is far smaller and the verdict is unchanged. `git ls-files | rg 'CLAUDE\.md'` returns exactly one tracked file, `infra/eso-rig/CLAUDE.md`. Two comments under `infra/` cite a `CLAUDE.md` as documentation and neither resolves:
 
-- `infra/loki-service/k8s/synth-configs.ts:80` — "See ../CLAUDE.md for the measurement and rationale", which from `infra/loki-service/k8s/` names `infra/loki-service/CLAUDE.md`; no such file.
+- `infra/loki-service/synth-configs.ts:80` — "See ../CLAUDE.md for the measurement and rationale", which from `infra/loki-service/k8s/` names `infra/loki-service/CLAUDE.md`; no such file.
 - `infra/k8s/src/buildkit/synth.ts:57` — "see the Deployment resources block and the buildkit CLAUDE.md memory-sizing rationale"; neither `infra/k8s/CLAUDE.md` nor `infra/k8s/src/buildkit/CLAUDE.md` exists.
 
 The remaining `CLAUDE.md` strings under `infra/` are fixture paths inside `infra/workspace-cli/src/lib/package-move/docs-rewrites.unit.test.ts` and the `endsWith("/CLAUDE.md")` predicate at `infra/workspace-cli/src/lib/package-move/docs-rewrites.ts:16`, which are the mover's own subject rather than citations.

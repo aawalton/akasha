@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { requireMatch } from "../../../shared/utils-narrow/src/require-match"
+import { requireMatch } from "../../shared/utils-narrow/src/require-match"
 import { z } from "zod"
 import { PROMTAIL_CONFIG } from "./synth-configs"
 import { promtailDaemonsetYaml } from "./synth-promtail"
