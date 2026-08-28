@@ -211,7 +211,7 @@ const beyondSaid = (named: readonly string[], beyond: Readonly<Record<string, st
 const reductionRefused = (query: Query, declared: Declared): string | null => {
   const how = query.function
   const target = query.target
-  if (how === undefined || target === undefined) return null
+  if (how === undefined && target === undefined) return null
   if (how === undefined) {
     return "a query stating a `target` states how it reduces it, and this one states no `function`"
   }
