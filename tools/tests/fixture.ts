@@ -192,7 +192,7 @@ export function fileKeyDeclared(at: Fixture): void {
 export function personaPages(at: Fixture): void {
   fileKeyDeclared(at)
   at.document(
-    "domains/persona.md",
+    "pages/domain/persona.md",
     `slug: persona\nrequired-reading-slugs:\n  - agent-harness\n${CLAIMED}: pages/persona/aria.persona.md`
   )
   at.document(

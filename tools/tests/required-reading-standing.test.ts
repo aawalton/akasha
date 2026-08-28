@@ -56,8 +56,8 @@ describe("what is required for a path", () => {
 
   test("one required document, read in full, passes", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
-    at.readIt("agent-one", "domains/persona.md")
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.readIt("agent-one", "pages/domain/persona.md")
     const standing = run("pages/persona/aria.persona.md")
     expect(standing.kind).toBe("read")
     expect(standing.detail).toContain("1 document(s) are required reading for this path; all read in full")
@@ -65,13 +65,13 @@ describe("what is required for a path", () => {
 
   test("one required document, unread, refuses and names the route to the whole of it", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
     const standing = run("pages/persona/aria.persona.md")
     expect(standing.kind).toBe("missing")
     expect(said(standing)).toContain("NOT YET READ")
     expect(said(standing)).toContain(
-      "`ops read --file-path domains/persona.md` prints what you are " +
+      "`ops read --file-path pages/domain/persona.md` prints what you are " +
         "missing of it and records the read"
     )
   })
@@ -79,17 +79,17 @@ describe("what is required for a path", () => {
   test("several required documents refuse together, one remedy each", () => {
     fileKeyDeclared(at)
     at.document(
-      "domains/persona.md",
+      "pages/domain/persona.md",
       `required-reading-slugs:\n  - naming\n${CLAIMED}: pages/persona/aria.persona.md`,
       40
     )
-    at.document("domains/tasks/naming.md", "slug: naming", 10)
+    at.document("pages/domain/tasks/naming.md", "slug: naming", 10)
     at.installRecorder()
     const standing = run("pages/persona/aria.persona.md")
     expect(standing.detail).toContain("2 document(s) are required reading for this path; 0 read, 2 not")
     expect(standing.refusals).toHaveLength(3)
-    expect(said(standing)).toContain("domains/persona.md")
-    expect(said(standing)).toContain("domains/tasks/naming.md")
+    expect(said(standing)).toContain("pages/domain/persona.md")
+    expect(said(standing)).toContain("pages/domain/tasks/naming.md")
   })
 
   test("a domain reached transitively through required-reading-slugs is required too", () => {
@@ -97,17 +97,17 @@ describe("what is required for a path", () => {
     at.installRecorder()
     const standing = run("pages/persona/aria.persona.md")
     expect(new Set(standing.required)).toEqual(
-      new Set(["pages/domain/agent-harness.domain.md", "pages/domain/global.domain.md", "domains/persona.md"])
+      new Set(["pages/domain/agent-harness.domain.md", "pages/domain/global.domain.md", "pages/domain/persona.md"])
     )
   })
 
   test("a domain standing above one required is not itself required", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `slug: persona\n${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.document("pages/domain/persona.md", `slug: persona\n${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.document("pages/domain/global.domain.md", "slug: global", 20)
-    at.document("domains/under.md", "slug: under\ndomain-parent-slug: global", 20)
+    at.document("pages/domain/under.md", "slug: under\ndomain-parent-slug: global", 20)
     at.installRecorder()
-    expect(run("pages/persona/aria.persona.md").required).toEqual(["domains/persona.md"])
+    expect(run("pages/persona/aria.persona.md").required).toEqual(["pages/domain/persona.md"])
   })
 
   test("reading some and not others names the ones read and refuses on the rest", () => {
@@ -125,13 +125,13 @@ describe("the repo the call would leave", () => {
     at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
     at.readIt("agent-one", "pages/domain/global.domain.md")
     const standing = landing("pages/persona/aria.persona.md", {
-      "domains/persona.md": documentBody(
+      "pages/domain/persona.md": documentBody(
         `required-reading-slugs:\n  - global\n${CLAIMED}: pages/persona/aria.persona.md`,
         8
       ),
     })
     expect(new Set(standing.required)).toEqual(
-      new Set(["pages/domain/global.domain.md", "domains/persona.md"])
+      new Set(["pages/domain/global.domain.md", "pages/domain/persona.md"])
     )
   })
 
@@ -140,7 +140,7 @@ describe("the repo the call would leave", () => {
     at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
     at.readIt("agent-one", "pages/domain/global.domain.md")
     const standing = landing("pages/persona/aria.persona.md", {
-      "domains/persona.md": documentBody(
+      "pages/domain/persona.md": documentBody(
         `required-reading-slugs:\n  - global\n${CLAIMED}: pages/persona/aria.persona.md`,
         8
       ),
@@ -150,36 +150,36 @@ describe("the repo the call would leave", () => {
 
   test("a claim added to a document already on disk is required from that call", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", "slug: persona", 40)
-    at.readIt("agent-one", "domains/persona.md")
+    at.document("pages/domain/persona.md", "slug: persona", 40)
+    at.readIt("agent-one", "pages/domain/persona.md")
     expect(landing("pages/persona/aria.persona.md", {}).kind).toBe("unrequired")
     const standing = landing("pages/persona/aria.persona.md", {
-      "domains/persona.md": documentBody(`slug: persona\n${CLAIMED}: pages/persona/aria.persona.md`, 40),
+      "pages/domain/persona.md": documentBody(`slug: persona\n${CLAIMED}: pages/persona/aria.persona.md`, 40),
     })
-    expect(standing.required).toEqual(["domains/persona.md"])
+    expect(standing.required).toEqual(["pages/domain/persona.md"])
   })
 
   test("a claim taken away in the same call stops required there", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
     expect(landing("pages/persona/aria.persona.md", {}).kind).toBe("missing")
     const standing = landing("pages/persona/aria.persona.md", {
-      "domains/persona.md": documentBody("slug: persona", 40),
+      "pages/domain/persona.md": documentBody("slug: persona", 40),
     })
     expect(standing.kind).toBe("unrequired")
   })
 
   test("a document required itself is asked for the body on disk, never the one proposed", () => {
     fileKeyDeclared(at)
-    at.document("domains/tasks/itself.md", `${CLAIMED}: domains/tasks/itself.md`, 40)
+    at.document("pages/domain/tasks/itself.md", `${CLAIMED}: pages/domain/tasks/itself.md`, 40)
     at.installRecorder()
     const proposing = (): Standing =>
-      landing("domains/tasks/itself.md", {
-        "domains/tasks/itself.md": documentBody(`${CLAIMED}: domains/tasks/itself.md`, 100),
+      landing("pages/domain/tasks/itself.md", {
+        "pages/domain/tasks/itself.md": documentBody(`${CLAIMED}: pages/domain/tasks/itself.md`, 100),
       })
     expect(said(proposing())).toContain("NOT YET READ")
-    at.readIt("agent-one", "domains/tasks/itself.md")
+    at.readIt("agent-one", "pages/domain/tasks/itself.md")
     expect(proposing().kind).toBe("read")
   })
 })
@@ -188,21 +188,21 @@ describe("the two repos are addressed apart", () => {
   test("a claim on a code path is required for it, and everything it names too", () => {
     fileKeyDeclared(at)
     at.document(
-      "domains/tasks/code-rules.md",
+      "pages/domain/tasks/code-rules.md",
       `required-reading-slugs:\n  - global\n${CLAIMED}: code:infra/scripts/x.ts`,
       12
     )
     at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
     at.installRecorder()
     const standing = run("infra/scripts/x.ts", "agent-one", "code")
-    expect(new Set(standing.required)).toEqual(new Set(["pages/domain/global.domain.md", "domains/tasks/code-rules.md"]))
+    expect(new Set(standing.required)).toEqual(new Set(["pages/domain/global.domain.md", "pages/domain/tasks/code-rules.md"]))
     expect(said(standing)).toContain("in the code repository requires 2 document(s)")
     expect(said(standing)).toContain("--file-path infra/scripts/x.ts")
   })
 
   test("a code path under dirty/ is not quarantined, because dirty/ is an address here", () => {
     fileKeyDeclared(at)
-    at.document("domains/tasks/code-rules.md", `${CLAIMED}: code:dirty/thing.ts`, 12)
+    at.document("pages/domain/tasks/code-rules.md", `${CLAIMED}: code:dirty/thing.ts`, 12)
     at.installRecorder()
     expect(run("dirty/thing.ts", "agent-one", "code").kind).toBe("missing")
   })
@@ -211,38 +211,38 @@ describe("the two repos are addressed apart", () => {
 describe("what counts as having read a document", () => {
   test("read in full, then changed on disk, refuses on the body it names", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
-    at.readIt("agent-one", "domains/persona.md")
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.readIt("agent-one", "pages/domain/persona.md")
     expect(run("pages/persona/aria.persona.md").kind).toBe("read")
-    const absolute = `${at.root}/domains/persona.md`
+    const absolute = `${at.root}/pages/domain/persona.md`
     writeFileSync(absolute, readFileSync(absolute, "utf8").replace("body line 1", "body line X"), "utf8")
     const standing = run("pages/persona/aria.persona.md")
     expect(standing.kind).toBe("missing")
     expect(said(standing)).toContain("CHANGED SINCE YOU READ IT")
     expect(said(standing)).toContain(
-      "`ops read --file-path domains/persona.md` prints what you are missing"
+      "`ops read --file-path pages/domain/persona.md` prints what you are missing"
     )
   })
 
   test("a read recorded by another agent does not authorise this one", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder("agent-one")
-    at.readIt("agent-two", "domains/persona.md")
+    at.readIt("agent-two", "pages/domain/persona.md")
     expect(said(run("pages/persona/aria.persona.md", "agent-one"))).toContain("NOT YET READ")
   })
 
   test("a document with no body at all needs no reading", () => {
     fileKeyDeclared(at)
-    at.put("domains/persona.md", "")
-    at.document("domains/tasks/naming.md", `${CLAIMED}: pages/persona/aria.persona.md`, 5)
-    at.readIt("agent-one", "domains/tasks/naming.md")
+    at.put("pages/domain/persona.md", "")
+    at.document("pages/domain/tasks/naming.md", `${CLAIMED}: pages/persona/aria.persona.md`, 5)
+    at.readIt("agent-one", "pages/domain/tasks/naming.md")
     expect(run("pages/persona/aria.persona.md").kind).toBe("read")
   })
 
   test("a file that does not exist yet has required reading, and authoring it blind is refused", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
+    at.document("pages/domain/persona.md", `${CLAIMED}: pages/persona/aria.persona.md`, 40)
     at.installRecorder()
     expect(existsSync(`${at.root}/pages/persona/aria.persona.md`)).toBe(false)
     expect(run("pages/persona/aria.persona.md").kind).toBe("missing")
@@ -250,21 +250,21 @@ describe("what counts as having read a document", () => {
 
   test("a document that is required for itself is asked for like any other", () => {
     fileKeyDeclared(at)
-    at.document("domains/tasks/itself.md", `${CLAIMED}: domains/tasks/itself.md`, 12)
+    at.document("pages/domain/tasks/itself.md", `${CLAIMED}: pages/domain/tasks/itself.md`, 12)
     at.installRecorder()
-    expect(said(run("domains/tasks/itself.md"))).toContain("`domains/tasks/itself.md` is required reading for this path")
+    expect(said(run("pages/domain/tasks/itself.md"))).toContain("`pages/domain/tasks/itself.md` is required reading for this path")
   })
 
   test("a required document deleted between the scan and the read is not asked for", () => {
     fileKeyDeclared(at)
-    at.document("domains/persona.md", "slug: persona", 40)
+    at.document("pages/domain/persona.md", "slug: persona", 40)
     at.document(
-      "domains/tasks/naming.md",
+      "pages/domain/tasks/naming.md",
       `required-reading-slugs:\n  - persona\n${CLAIMED}: pages/persona/aria.persona.md`,
       10
     )
-    at.readIt("agent-one", "domains/tasks/naming.md")
-    rmSync(`${at.root}/domains/persona.md`, { force: true })
+    at.readIt("agent-one", "pages/domain/tasks/naming.md")
+    rmSync(`${at.root}/pages/domain/persona.md`, { force: true })
     expect(run("pages/persona/aria.persona.md").kind).toBe("read")
   })
 })
