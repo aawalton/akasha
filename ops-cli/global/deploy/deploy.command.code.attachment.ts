@@ -240,6 +240,11 @@ async function deploying(argv: readonly string[]): Promise<void> {
       process.exit(3)
     }
   }
+  for (const one of done.placed) {
+    process.stdout.write(
+      `placed ${one.name} in ${plan.service.namespace} holding ${one.keys.join(", ")}\n`
+    )
+  }
   await buildIfItBuilds(root, plan)
   recordApplied(root, plan, mark)
 }
