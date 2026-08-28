@@ -12,14 +12,14 @@ export default workflow("git-transport", {
     kubectlApply({
       name: "git-transport-apply-git-namespace",
       namespace: "git",
-      files: "infra/git-transport/k8s/generated/namespace.generated.yaml",
+      files: "infra/git-transport/generated/namespace.generated.yaml",
       serverSide: true,
     }),
     {
       ...sopsDecryptApply({
         name: "git-transport-apply-secrets",
         namespace: "git",
-        secretFile: "infra/git-transport/k8s/secrets.sops.yaml",
+        secretFile: "infra/git-transport/git-transport.k8s-secret.sops.yaml",
       }),
       dependsOn: ["git-transport-apply-git-namespace"],
     },
@@ -27,7 +27,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-pv",
         namespace: "git",
-        files: "infra/git-transport/k8s/generated/pv.generated.yaml",
+        files: "infra/git-transport/generated/pv.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-git-namespace"],
@@ -36,7 +36,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-pvc",
         namespace: "git",
-        files: "infra/git-transport/k8s/generated/pvc.generated.yaml",
+        files: "infra/git-transport/generated/pvc.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-pv"],
@@ -45,7 +45,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-deployment",
         namespace: "git",
-        files: "infra/git-transport/k8s/generated/deployment.generated.yaml",
+        files: "infra/git-transport/generated/deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-secrets", "git-transport-apply-pvc"],
@@ -54,7 +54,7 @@ export default workflow("git-transport", {
       ...kubectlApply({
         name: "git-transport-apply-service",
         namespace: "git",
-        files: "infra/git-transport/k8s/generated/service.generated.yaml",
+        files: "infra/git-transport/generated/service.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["git-transport-apply-git-namespace"],

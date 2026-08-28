@@ -24,6 +24,7 @@ export type SynthEntry = z.infer<typeof SynthOutput>[number]
 
 export const DISCOVERY_GLOBS: readonly string[] = [
   "infra/k8s/src/*/*.cluster-service.code.attachment.ts",
+  "infra/*/*.cluster-service.code.attachment.ts",
   "infra/k8s/src/*/synth.ts",
   "infra/k8s/*/*/k8s/synth.ts",
   "infra/*/k8s/synth.ts",
