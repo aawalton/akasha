@@ -71,7 +71,8 @@ export function patchText(
   removals: readonly string[] = [],
   root: string = HERE
 ): string {
-  const index = `${mkdtempSync(`${SCRATCH}/mp-write-`)}.index`
+  const held = mkdtempSync(`${SCRATCH}/mp-write-`)
+  const index = `${held}/index`
   try {
     git(root, index, ["read-tree", "HEAD"])
     for (const one of landings) {
@@ -86,7 +87,7 @@ export function patchText(
     }
     return git(root, index, ["diff", "--cached", "--binary", "HEAD"]).toString("utf8")
   } finally {
-    rmSync(index, { force: true })
+    rmSync(held, { recursive: true, force: true })
   }
 }
 

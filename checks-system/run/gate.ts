@@ -55,7 +55,8 @@ export function applying(checks: readonly Check[], mechanical: boolean): readonl
 }
 
 export function runGate(checks: readonly Check[], patch: Patch): readonly CheckRun[] {
-  const index = `${mkdtempSync(`${SCRATCH}/gate-`)}.index`
+  const held = mkdtempSync(`${SCRATCH}/gate-`)
+  const index = `${held}/index`
   let made: string | null = null
   try {
     const landing = changedBy(patch, index)
@@ -103,7 +104,7 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     ctx.said.done()
     return runs
   } finally {
-    rmSync(index, { force: true })
+    rmSync(held, { recursive: true, force: true })
     if (made !== null) rmSync(made, { recursive: true, force: true })
   }
 }
