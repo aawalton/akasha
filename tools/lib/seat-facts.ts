@@ -1,10 +1,5 @@
-import {
-  seatHolderProcess,
-  seatPageForAgent,
-  seatPresence,
-  type SeatPresence,
-} from "./seat-presence-read.ts"
-import { parseSeatProcKey } from "./seat-proc-key.ts"
+import { seatHolderProcess, seatPageForAgent, seatPresence } from "./seat-presence-read.ts"
+import { parseSeatProcKey, type SeatPresence } from "./seat-proc-key.ts"
 import { seatRoster } from "./seat-roster.ts"
 import { seatWhoami } from "./seat-whoami.ts"
 

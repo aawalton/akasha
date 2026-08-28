@@ -1,9 +1,5 @@
-import {
-  frontmatterOf,
-  seatPagePaths,
-  seatPresence,
-  type SeatPresence,
-} from "./seat-presence-read.ts"
+import { frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
+import type { SeatPresence } from "./seat-proc-key.ts"
 
 const TITLE = "title"
 
