@@ -3,7 +3,7 @@ id: f43f04a7-2bb4-5bfc-bb8f-fdf64905d9f2
 slug: revoke-reports-success-blind
 page-type-slug: finding
 title: "Revoke reports success blind"
-domain-slug: web-app/898
+domain-slug: web-app/alanwalton-web
 ---
 
 # Claim

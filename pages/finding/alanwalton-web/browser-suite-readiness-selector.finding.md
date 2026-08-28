@@ -3,7 +3,7 @@ id: 0f39cdd7-6e41-5b1d-825d-6f7e36ee7f58
 slug: browser-suite-readiness-selector
 page-type-slug: finding
 title: "Browser suite readiness selector"
-domain-slug: web-app/898
+domain-slug: web-app/alanwalton-web
 ---
 
 # Claim
