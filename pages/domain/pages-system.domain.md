@@ -35,8 +35,8 @@ A page type states where its pages are written.
 
 **Refuse where you cannot answer, rather than answering as though there were nothing.**
 
-A true empty and a failed lookup read alike, and only one of them is a fault.
+A true empty and a failure read alike, and only one of them is a fault.
 
-Never fall back to empty when a source is missing.
+Never read a missing source as an empty one.
 
 Never let a failed write return like a done one.
