@@ -26,7 +26,7 @@ export default workflow("voice-infer", {
     kubectlApply({
       name: "voice-infer-apply-namespace",
       namespace: "voice",
-      files: "infra/voice-infer/k8s/generated/namespace.generated.yaml",
+      files: "infra/voice-infer/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -60,7 +60,7 @@ export default workflow("voice-infer", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n voice -f infra/voice-infer/k8s/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n voice -f infra/voice-infer/generated/service.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -81,7 +81,7 @@ export default workflow("voice-infer", {
             read: "kubectl get secret voice-infer-s3-creds -n voice -o jsonpath='{.data.access_key}{.data.secret_key}'",
             subject: "voice-infer-s3-creds",
           }),
-          'sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${S3_CREDS_HASH}\\"|" infra/voice-infer/k8s/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n voice -f -',
+          'sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${S3_CREDS_HASH}\\"|" infra/voice-infer/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n voice -f -',
           ...verifyRolloutCommands({
             namespace: "voice",
             deployment: "voice-infer",
