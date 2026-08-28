@@ -1,11 +1,11 @@
-import { IMAGES } from "../../tools/lib/workflow-dsl/images"
-import { SECRETS, secret } from "../../tools/lib/workflow-dsl/secrets"
-import { step } from "../../tools/lib/workflow-dsl/step"
-import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash"
-import { kubectlApplyClusterScoped } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
-import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
-import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt"
-import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images.ts"
+import { SECRETS, secret } from "../../tools/lib/workflow-dsl/secrets.ts"
+import { step } from "../../tools/lib/workflow-dsl/step.ts"
+import { checksumHashCommands } from "../../tools/lib/workflow-dsl/templates/checksum-hash.ts"
+import { kubectlApplyClusterScoped } from "../../tools/lib/workflow-dsl/templates/kubectl-apply.ts"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply.ts"
+import { sopsDecryptApply } from "../../tools/lib/workflow-dsl/templates/sops-decrypt.ts"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow.ts"
 
 export default workflow("cloudflared", {
   kind: "foundation",
@@ -27,34 +27,6 @@ export default workflow("cloudflared", {
       namespace: "cloudflared",
       secretFile: "infra/k8s/src/cloudflared/cloudflared.k8s-secret.sops.yaml",
     }),
-    kubectlApplyClusterScoped({
-      name: "cloudflared-apply-ddns-namespace",
-      files: "infra/k8s/src/ddns-headscale/generated/namespace.generated.yaml",
-      serverSide: true,
-    }),
-    sopsDecryptApply({
-      name: "cloudflared-apply-ddns-secret",
-      namespace: "ddns-headscale",
-      secretFile: "infra/k8s/src/ddns-headscale/cloudflare-api-token.k8s-secret.sops.yaml",
-    }),
-    {
-      ...step({
-        name: "cloudflared-apply-ddns-cronjob",
-        image: IMAGES.KUBECTL,
-        environment: { HOME: "/tmp" },
-        commands: (ci) => [
-          `kubectl apply --server-side --force-conflicts -n ddns-headscale -f ${ci.workspace}/infra/k8s/src/ddns-headscale/generated/cronjob.generated.yaml`,
-        ],
-        backendOptions: {
-          kubernetes: { serviceAccountName: "pipeline-engine" },
-        },
-      }),
-      dependsOn: [
-        "cloudflared-apply-ddns-namespace",
-        "cloudflared-apply-rbac",
-        "cloudflared-apply-ddns-secret",
-      ],
-    },
     step({
       name: "cloudflared-generate-and-apply-config",
       image: IMAGES.CI,
