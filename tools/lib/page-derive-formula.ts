@@ -34,6 +34,10 @@ export type Reads = (named: string) => Held
  * ended `String(value)`. Everything downstream reads a derived value as a `Held`: a reduction
  * summing it, a `from:` path stepping through it, a query comparing it. Handing those a raw number
  * instead answers absent where a number was meant.
+ *
+ * AN INSTANT COMES BACK ISO 8601, which is the spelling the query layer already compares instants
+ * in and writes `now` as. Its milliseconds since 1970 would be read back by `valuedAs` as absent,
+ * so a formula reading another formula`s instant would answer nothing.
  */
 const heldFrom = (worked: Worked): Held => {
   if (worked.kind === "absent") return null
@@ -42,7 +46,7 @@ const heldFrom = (worked: Worked): Held => {
   if (worked.kind === "list") return worked.items.map((item) => heldFrom(item) as string)
   if (worked.kind === "number") return String(worked.number)
   if (worked.kind === "boolean") return String(worked.boolean)
-  return String(worked.instant)
+  return new Date(worked.instant).toISOString()
 }
 
 /**

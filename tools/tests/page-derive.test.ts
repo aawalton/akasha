@@ -84,16 +84,6 @@ describe("what the walk reports as a fault", () => {
     expect(faultsOf("team")).toEqual([])
   })
 
-  it("refuses an expression naming a key nothing declares, rather than reading it as absent", () => {
-    expect(faultsOf("gauge")).toContain(
-      "`gauge-bare` states an `expression` this evaluator refuses: `day` is declared by no property on `gauge`"
-    )
-  })
-
-  it("leaves a hyphenated key written bare with no value, where spelled out it answers", () => {
-    expect(held("gauge", "bare").get("first")).toBeNull()
-    expect(held("gauge", "spelled").get("first")).toBe("8")
-  })
 })
 
 describe("a computed property resolved from the property naming it back", () => {

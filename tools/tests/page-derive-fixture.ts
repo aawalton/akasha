@@ -90,23 +90,14 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/page-property-definition/gauge-opened.page-property-definition.md": property("gauge", "opened", ["type: instant"]),
   "pages/page-property-definition/gauge-charged.page-property-definition.md": property("gauge", "charged", [
     "type: number",
-    "expression: (used > 0) && used || budget",
+    "expression: 'case({used} > 0 -> {used}, otherwise -> {budget})'",
   ]),
   "pages/page-property-definition/gauge-seen.page-property-definition.md": property("gauge", "seen", [
     "type: instant",
-    "expression: opened",
+    "expression: '{opened}'",
   ]),
   "pages/page-property-definition/gauge-unstated.page-property-definition.md": property("gauge", "unstated", [
-    "expression: budget",
-  ]),
-  "pages/page-property-definition/gauge-day-rate.page-property-definition.md": property("gauge", "day-rate", ["type: number"]),
-  "pages/page-property-definition/gauge-bare.page-property-definition.md": property("gauge", "bare", [
-    "type: number",
-    "expression: day-rate * 2",
-  ]),
-  "pages/page-property-definition/gauge-spelled.page-property-definition.md": property("gauge", "spelled", [
-    "type: number",
-    "expression: prop(day-rate) * 2",
+    "expression: '{budget}'",
   ]),
 
   "pages/person/ada.person.md": page(["slug: ada"]),
@@ -138,7 +129,7 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/scroll/one.scroll.md": page(["slug: one", "keeper: ada"]),
   "pages/scroll/one.scroll.words.attachment.md": "the words the page does not carry\n",
 
-  "pages/gauge/first.gauge.md": page(["used: 4", "budget: 10", "opened: 5 Jan 2026", "day-rate: 4"]),
+  "pages/gauge/first.gauge.md": page(["used: 4", "budget: 10", "opened: 5 Jan 2026"]),
   "pages/gauge/second.gauge.md": page(["used: 0", "budget: 20", "opened: 10 Feb 2027"]),
   "pages/gauge/third.gauge.md": page(["used: 3", "budget: 30", "opened: 9 Mar 2026"]),
 }

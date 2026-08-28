@@ -38,6 +38,9 @@ describe("a formula read through every operator that turns on its type", () => {
 
   it("orders a `sort-by` on a formula returning an instant by moment", () => {
     const sorted = answer(ROOTS, { pageType: "gauge", sortBy: "seen", descending: true, limit: 1 })
-    expect(sorted!.rows[0]?.values.seen).toBe("10 Feb 2027")
+    // Ordered as the text they are written in these read 9 Mar 2026, 5 Jan 2026, 10 Feb 2027, so
+    // the latest moment coming first is what says the ordering read them as moments.
+    expect(sorted!.rows[0]?.at).toBe("akasha:pages/gauge/second.gauge.md")
+    expect(Date.parse(String(sorted!.rows[0]?.values.seen))).toBe(Date.parse("10 Feb 2027"))
   })
 })
