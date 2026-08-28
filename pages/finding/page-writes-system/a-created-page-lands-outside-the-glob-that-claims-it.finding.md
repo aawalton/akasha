@@ -21,7 +21,7 @@ Run against the live tree, `whereFor(roots, pageType, name).relPath`:
     subagent   brand-new-sub        pages/subagent/brand-new-sub.subagent.md
     finding    brand-new-finding    pages/finding/brand-new-finding.finding.md
 
-The first line is the find path working correctly. The second and third are the defect: `pages/seat/` and `pages/subagent/` do not exist on disk, and the globs are `akasha:agent/seat/**/*.seat.md` (`pages/page-type/seat.page-type.md:6`) and `akasha:agent/subagent/**/*.subagent.md` (`pages/page-type/subagent.page-type.md:6`). Neither composed path can match either glob. The fourth line shows why nothing has noticed: for the 324 page types whose glob is location-free, the composed path is correct, so the fallback looks right everywhere anyone has looked.
+The first line is the find path working correctly. The second and third are the defect: `pages/seat/` and `pages/subagent/` do not exist on disk, and the globs are `akasha:agent/seat/**/*.seat.md` (`pages/page-type/seat.page-type.md:6`) and `akasha:agent/subagent/**/*.subagent.md` (`pages/page-type/subagent.page-type.md:6`). Neither composed path can match either glob. The fourth line shows why nothing has noticed: for the 313 page types whose glob is location-free, the composed path is correct, so the fallback looks right everywhere anyone has looked. Only 2 of the 315 page types that name files can hit this, and both are page types nobody creates by hand.
 
 The disagreement is two lines apart in one function, at `tools/lib/page-write-where.ts:64-66`:
 
