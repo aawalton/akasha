@@ -1,6 +1,6 @@
 import { segmentsOf, wordsOf } from "../lib/command-segments.ts"
 import { toolInputText } from "../lib/hook-command.ts"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { ownRepoRoot } from "../../repo/roots/roots"
 
@@ -16,7 +16,7 @@ const SCOPE: readonly string[] = [
   "  SUB-VERB — `worktree list` reads while `worktree remove --force` destroys, `config --get` reads",
   "  while `config --unset` writes — so no verb-level enumeration of any kind can express it. The",
   "  reason is structural: the hazard is \"destroys another agent's uncommitted work in a worktree",
-  "  several agents share\", and git has no notion of several agents sharing a worktree, so it holds",
+  '  several agents share", and git has no notion of several agents sharing a worktree, so it holds',
   "  no opinion to derive from. This list therefore samples an open world; it does not define one.",
   "  NOT REACHED. Each measured against this script, not supposed:",
   "    - git checkout-index -a -f      writes the working tree from the index",
@@ -36,7 +36,15 @@ const SCOPE: readonly string[] = [
   "  what the program says about itself, held as the text it prints rather than as a comment.",
 ]
 
-const BLOCKED_VERBS: readonly string[] = ["stash", "reset", "rebase", "checkout", "restore", "clean", "rm"]
+const BLOCKED_VERBS: readonly string[] = [
+  "stash",
+  "reset",
+  "rebase",
+  "checkout",
+  "restore",
+  "clean",
+  "rm",
+]
 
 const TAKES_A_VALUE: readonly string[] = [
   "-c",
@@ -163,8 +171,9 @@ async function main(): Promise<number> {
   for (const segment of segmentsOf(cleaned(command))) {
     const refusal = refusalFor(segment)
     if (refusal === null) continue
-    const values = refusal.invocation === "" ? {} : { invocation: refusal.invocation }
-    const said = refusalText(refusal.slug, values, canonicalize(ownRepoRoot()), fromDisk)
+    const values: Record<string, string> =
+      refusal.invocation === "" ? {} : { invocation: refusal.invocation }
+    const said = refusalText(refusal.slug, values, canonicalize(ownRepoRoot()))
     process.stderr.write(`${said}\n`)
     console.log(JSON.stringify({ decision: "block", reason: said }, null, 2))
     return 2

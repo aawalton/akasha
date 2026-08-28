@@ -1,8 +1,8 @@
-
+import { existsSync, readFileSync } from "node:fs"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
-import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "editor-extension-single"
 
@@ -78,12 +78,15 @@ export const editorExtensionSingle: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
   const editor = editorRoot()
   const nothing = over(0, "extension registry(ies) his editor reads")
-  const read = fromDisk
+  const read = (at: string): string | null => (existsSync(at) ? readFileSync(at, "utf8") : null)
 
   const manifest = parse(read(`${editor}/${BUILT_IN}`))
   if (manifest === null) {
     return {
-      ...skip(NAME, `${editor}/${BUILT_IN} could not be read, so this tree carries no ops extension for anything to shadow`),
+      ...skip(
+        NAME,
+        `${editor}/${BUILT_IN} could not be read, so this tree carries no ops extension for anything to shadow`
+      ),
       population: nothing,
     }
   }
@@ -147,8 +150,7 @@ export const editorExtensionSingle: Check = (repo) => {
             registry: path,
             commands: collisions.join("`, `"),
           },
-          root,
-          read
+          root
         )
       )
     }
