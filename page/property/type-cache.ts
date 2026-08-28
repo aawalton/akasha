@@ -23,12 +23,12 @@ const CACHE_AT = ".git/pages/resolved/page-type"
  */
 export const CODE_AT: readonly string[] = [
   "cache",
-  "checks-system/refusal",
   "during-call",
   "exclusive",
   "missing",
   "page",
   "pages-system/page-type",
+  "refusal",
   "repo",
   "write-whole",
 ]
