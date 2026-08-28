@@ -279,8 +279,13 @@ function armRule(
   const fields = records === null ? undefined : records.get(one)
   if (fields !== undefined) {
     if (seen.has(one)) return { rule: null, why: `\`${one}\` is built from itself` }
+    // A FIELD'S TYPE IS A WHOLE TYPE, SO IT IS SPLIT INTO ARMS LIKE ANY OTHER. This called
+    // `armRule`, which reads one arm, so a field stating `text | list(text)` was looked up as a
+    // single name, found nowhere, and reported as a type nothing states a rule for — taking the
+    // whole record down with it, and every property typed against that record. `armsRule` is
+    // what a property's own `type:` goes through, and a field states its type the same way.
     return recordRule(one, fields, (field) => {
-      const { rule, why } = armRule(field.type, vocabulary, new Set([...seen, one]))
+      const { rule, why } = armsRule(field.type, vocabulary, new Set([...seen, one]))
       if (rule === null) return { rule: null, why }
       const { bounds, why: bounded } = boundsFor(field.stated)
       return bounds === null ? { rule: null, why: bounded } : { rule: narrowed(rule, bounds), why: null }
@@ -289,7 +294,7 @@ function armRule(
   const set = sets === null ? undefined : sets.get(one)
   if (set !== undefined) {
     if (seen.has(one)) return { rule: null, why: `\`${one}\` is built from itself` }
-    const { rule, why } = armRule(set.of, vocabulary, new Set([...seen, one]))
+    const { rule, why } = armsRule(set.of, vocabulary, new Set([...seen, one]))
     if (rule === null) return { rule: null, why }
     const { bounds, why: bounded } = boundsFor(set.stated)
     return bounds === null ? { rule: null, why: bounded } : { rule: narrowed(rule, bounds), why: null }
@@ -304,9 +309,18 @@ function armRule(
   return { rule: null, why: `\`${one}\` is a type this states no rule for` }
 }
 
-export function ruleFor(
+/**
+ * The rule for a whole stated type, every arm of a `|` union included.
+ *
+ * WHEREVER A TYPE IS STATED, IT IS READ THROUGH HERE. A property states one, and so does a record
+ * field and a named set's `of:`; reading the second and third through `armRule` alone made a
+ * union unreadable in exactly the places a caller could not see it, and the reason handed back
+ * named the whole union as a type nothing states a rule for.
+ */
+function armsRule(
   type: string,
   vocabulary: Vocabulary,
+  seen: ReadonlySet<string>,
   slugProperty: string | null = null
 ): { rule: Rule | null; why: string | null } {
   const named = arms(type)
@@ -314,7 +328,7 @@ export function ruleFor(
   if (first === undefined) return { rule: null, why: "it declares no `type:`" }
   const found: Rule[] = []
   for (const one of named) {
-    const { rule, why } = armRule(one, vocabulary, new Set(), slugProperty)
+    const { rule, why } = armRule(one, vocabulary, seen, slugProperty)
     if (rule === null) return { rule: null, why }
     found.push(rule)
   }
@@ -335,4 +349,12 @@ export function ruleFor(
     },
     why: null,
   }
+}
+
+export function ruleFor(
+  type: string,
+  vocabulary: Vocabulary,
+  slugProperty: string | null = null
+): { rule: Rule | null; why: string | null } {
+  return armsRule(type, vocabulary, new Set(), slugProperty)
 }
