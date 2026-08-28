@@ -205,10 +205,15 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const carried = payload === null ? [] : carriedIn(payload)
   if (pairs.length === 0 && carried.length === 0) {
     if (!takingAway) fail("the payload declares no file, so it asks for no write at all")
-    fail(
-      "the payload declares no file while this call also takes files away — a write and a " +
-        "removal asked for together are one act, and this one asks for no write at all"
-    )
+    // ONLY WHERE A PAYLOAD WAS ACTUALLY READ. A removal-only call reads none and asks for no
+    // write, which is whole; a payload that was read and declared nothing is the write half of
+    // this act asking for nothing, and half an act is refused.
+    if (reads) {
+      fail(
+        "the payload declares no file while this call also takes files away — a write and a " +
+          "removal asked for together are one act, and this one asks for no write at all"
+      )
+    }
   }
 
   const dryRun = argv.includes(DRY_RUN)
