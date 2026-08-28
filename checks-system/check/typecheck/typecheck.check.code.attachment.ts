@@ -331,9 +331,14 @@ export const typecheck: Check = {
     // `shared/design-system/src/index.ts` were put on the board ninety-eight times and every count
     // this check printed stood inflated by however widely the failing file was shared. What a
     // reader is handed is the path and the reason — the line, the code and the message — so a
-    // second copy of that pair says nothing the first did not. Two faults on one line stand
-    // together wherever their messages differ; where they do not, there was one line to print
-    // either way.
+    // second copy of that pair says nothing the first did not.
+    //
+    // THE COLUMN IS IN THE KEY AND NOT IN WHAT IS PRINTED. Two faults on one line carrying the
+    // same message print as one line either way, but dropping the second has this check
+    // under-report where it used to over-report: five such pairs stand in this repository, among
+    // them two `loaderData` references on one line of `page-detail.tsx`. The column tells them
+    // apart, and a file every project reaches yields the same column in each, so holding it here
+    // takes nothing back from what is collapsed.
     const reported = new Set<string>()
     for (const [owner, held] of partition(subjects, projects)) {
       if (owner !== null && owner.foreign !== null) continue
@@ -343,10 +348,10 @@ export const typecheck: Check = {
         if (found.file === undefined || found.start === undefined) continue
         const path = resolve(found.file.fileName)
         if (!scope.has(path) || outward.has(path)) continue
-        const { line } = found.file.getLineAndCharacterOfPosition(found.start)
+        const { line, character } = found.file.getLineAndCharacterOfPosition(found.start)
         const text = ts.flattenDiagnosticMessageText(found.messageText, " ")
         const reason = `line ${line + 1}: TS${found.code}: ${text}`
-        const identity = `${path}\n${reason}`
+        const identity = `${path}\n${character}\n${reason}`
         if (reported.has(identity)) continue
         reported.add(identity)
         failures.push({ path, reason })

@@ -160,3 +160,15 @@ test("two faults on one line are both reported, their messages telling them apar
     expect(failures[0]?.reason).not.toBe(failures[1]?.reason)
   })
 })
+
+test("two faults on one line under one message are both reported, the column telling them apart", () => {
+  planted((at) => {
+    const given = batchOver(at, { "twice.ts": 'export const a: number = "x", b: number = "y"\n' }, ["twice.ts"])
+    const failures = run(given)
+    expect(failures).toHaveLength(2)
+    expect(failures[0]?.path).toBe(resolve(at, "twice.ts"))
+    expect(failures[1]?.path).toBe(resolve(at, "twice.ts"))
+    expect(failures[0]?.reason).toBe(failures[1]?.reason)
+    expect(failures[0]?.reason).toContain("TS2322")
+  })
+})
