@@ -36,6 +36,15 @@ number was true of one instrument and quoted about another: `typecheck-repo` rep
 under one strict configuration where `ops checks audit typecheck` reports 173 by each project's own.
 Caught by an agent that saw 173, doubted the brief rather than its own run, and said so.
 
+A whole mechanism, not a rounding, and the most dangerous form of this. A `tsc -b` run reported
+`@shared/pages-core/types` as having no exported member `StorageTier`. A reading of commit subjects
+and timestamps produced a clean causal story — one commit removed, a later one declared, therefore
+broken in between — which was sent on in the confident register with a table of times in it. The
+files said otherwise: `292f60a42` adds the export and the import in the same commit, and at the
+preceding commit the importing file did not name `StorageTier` at all. No commit ever held the
+break. The subjects supported the story; the contents were never opened. Retracted within the hour,
+after it had already reached one reader and been asked to be passed to a second.
+
 WHAT IS COMMON. In all four the measurement was correct and the summary was not. None needed a
 defect in any code. Each was caught by a second reader checking the number rather than taking it,
 and none by any instrument.
