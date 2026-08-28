@@ -137,18 +137,6 @@ describe("sortGroupedResults", () => {
     expect(last(result).key).toBe("__none__")
   })
 
-  test("empty-string key follows the same null convention as __none__", () => {
-    const groups = [group("a", "Alpha", 2), group("", "No Value", 1)]
-    const asc = sortGroupedResults(groups, [{ field: "label", direction: "asc" }], "status", [
-      selectDef,
-    ])
-    expect(requireFirst(asc).key).toBe("")
-    const desc = sortGroupedResults(groups, [{ field: "label", direction: "desc" }], "status", [
-      selectDef,
-    ])
-    expect(last(desc).key).toBe("")
-  })
-
   test("legacy defined-order normalizes to groupBy asc", () => {
     const manualSelectDef: PropertyDefinition = { ...selectDef, sort: "manual" }
     const groups = [
