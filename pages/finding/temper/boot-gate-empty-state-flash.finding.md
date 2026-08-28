@@ -3,7 +3,7 @@ id: 0c7c0be1-4046-5f3a-8111-16387b015c31
 slug: boot-gate-empty-state-flash
 page-type-slug: finding
 title: "Boot gate empty state flash"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

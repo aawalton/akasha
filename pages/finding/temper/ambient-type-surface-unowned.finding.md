@@ -3,7 +3,7 @@ id: a7f1deb3-4377-5ae0-b4fe-24348a192871
 slug: ambient-type-surface-unowned
 page-type-slug: finding
 title: "Ambient type surface unowned"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

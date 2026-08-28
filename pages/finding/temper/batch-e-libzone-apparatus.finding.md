@@ -3,7 +3,7 @@ id: de4bf986-5380-51d7-ad8c-fd50ccaa4b2b
 slug: batch-e-libzone-apparatus
 page-type-slug: finding
 title: "Batch e libzone apparatus"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

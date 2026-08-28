@@ -3,7 +3,7 @@ id: d4b108ec-a499-56a5-9e8a-bc04f9d930ef
 slug: build-rows-never-linked
 page-type-slug: finding
 title: "Build rows never linked"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

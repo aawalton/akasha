@@ -3,7 +3,7 @@ id: 78d78815-a253-51e4-a0d8-52a8cc18af25
 slug: addon-licences-unshipped
 page-type-slug: finding
 title: "Addon licences unshipped"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

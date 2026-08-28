@@ -3,7 +3,7 @@ id: 9543df77-aafd-5df8-b471-00898fc0df31
 slug: ambient-declaration-collisions
 page-type-slug: finding
 title: "Ambient declaration collisions"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
