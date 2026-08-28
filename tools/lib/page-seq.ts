@@ -81,7 +81,12 @@ function uncommitted(relPath: string): boolean {
   return new TextDecoder().decode(proc.stdout ?? new Uint8Array()).trim() !== ""
 }
 
-function advance(source: SeqSource, seq: number): Advance {
+/** `#7`, or `#7 to #9`: the run of `count` seqs starting at `first`. */
+function runOf(first: number, count: number): string {
+  return count === 1 ? `#${first}` : `#${first} to #${first + count - 1}`
+}
+
+function advance(source: SeqSource, first: number, count: number): Advance {
   const root = rootFor(resolveRoots(), AKASHA)
   const scratch = mkdtempSync(join(SCRATCH_ROOT, "page-seq-"))
   const payloadPath = join(scratch, "advance.json")
@@ -89,8 +94,8 @@ function advance(source: SeqSource, seq: number): Advance {
     payloadPath,
     JSON.stringify({
       file_path: join(root, source.pageTypeRelPath),
-      old_string: `${NEXT_SEQ_KEY}: ${seq}`,
-      new_string: `${NEXT_SEQ_KEY}: ${seq + 1}`,
+      old_string: `${NEXT_SEQ_KEY}: ${first}`,
+      new_string: `${NEXT_SEQ_KEY}: ${first + count}`,
     })
   )
   const proc = spawnSync(
@@ -105,7 +110,7 @@ function advance(source: SeqSource, seq: number): Advance {
           "--input-file",
           payloadPath,
           "--message",
-          `${source.noun}: #${seq} is taken`,
+          `${source.noun}: ${runOf(first, count)} ${count === 1 ? "is" : "are"} taken`,
         ],
         root
       ),
@@ -122,25 +127,43 @@ function advance(source: SeqSource, seq: number): Advance {
   return run
 }
 
-export function takeSeqOf(source: SeqSource): number {
+/**
+ * The first of `count` consecutive seqs, taken as one act.
+ *
+ * ONE CALL FOR THE WHOLE RUN RATHER THAN ONE PER SEQ, because each call spawns `ops edit`, which
+ * runs the akasha gate and lands a commit of its own. A caller that knows how many it needs says
+ * so, and pays the gate and the commit once instead of once per seq.
+ */
+export function takeSeqsOf(source: SeqSource, count: number): number {
+  if (!Number.isInteger(count) || count <= 0) {
+    throw new Error(
+      `no ${source.noun} seq was taken: a run of ${count} is not a whole number above zero`
+    )
+  }
   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
   return exclusively(`${absolute}${ALLOCATING}`, () => {
     const stoodChanged = uncommitted(source.pageTypeRelPath)
-    const seq = readNextSeqOf(source)
-    const run = advance(source, seq)
-    if (run.code === 0) return seq
+    const first = readNextSeqOf(source)
+    const run = advance(source, first, count)
+    if (run.code === 0) return first
     if (!stoodChanged && uncommitted(source.pageTypeRelPath)) {
       throw new Error(
-        `seq ${seq} is spent and nothing was created with it: the edit advancing \`${NEXT_SEQ_KEY}\` ` +
-          `in ${source.pageTypeRelPath} reached disk and the commit that should have carried it did ` +
-          "not, so that file stands changed and uncommitted. Land or undo the change before asking " +
-          `again. What the attempt said:\n${run.output}`
+        `nothing was created and ${count === 1 ? "seq" : "seqs"} ${runOf(first, count)} cannot be ` +
+          `given back: the edit advancing \`${NEXT_SEQ_KEY}\` in ${source.pageTypeRelPath} ` +
+          "reached disk and the commit that should have carried it did not, so that file stands " +
+          "changed and uncommitted. Land or undo the change before asking again. What the attempt " +
+          `said:\n${run.output}`
       )
     }
     throw new Error(
-      `no seq was taken: advancing \`${NEXT_SEQ_KEY}\` in ${source.pageTypeRelPath} was refused ` +
-        `with the counter left where it stood, and nothing was created. Asking again reads the same ` +
-        `number and meets the same refusal, so read what it said and fix that:\n${run.output}`
+      `no ${source.noun} seq was taken: advancing \`${NEXT_SEQ_KEY}\` in ` +
+        `${source.pageTypeRelPath} by ${count} was refused with the counter left where it stood, ` +
+        "and nothing was created. Asking again reads the same number and meets the same refusal, " +
+        `so read what it said and fix that:\n${run.output}`
     )
   })
+}
+
+export function takeSeqOf(source: SeqSource): number {
+  return takeSeqsOf(source, 1)
 }
