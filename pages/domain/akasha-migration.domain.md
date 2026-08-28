@@ -6,9 +6,11 @@ domain-parent-slug: domain/akasha-system
 sequence-slugs:
   - domain/akasha-accretion
   - domain/akasha-ablation
+  - domain/akasha-milestone
 required-reading-slugs:
   - domain/akasha-accretion
   - domain/akasha-ablation
+  - domain/akasha-milestone
 ---
 
 # Definition
