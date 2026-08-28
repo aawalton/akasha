@@ -1,9 +1,10 @@
+import { takeSeqsOf } from "../page-seq.ts"
 import { patchPage, patchState, writePage } from "../page-write.ts"
 import { type Value } from "../page-write-values.ts"
 import { type Where } from "../page-write-where.ts"
 import type { Roots } from "../../../page/page"
 import { PIPELINE } from "./pages.ts"
-import { PIPELINE_SEQS, STEP_SEQS, takeSeqBlock, WORKFLOW_SEQS } from "./seqs.ts"
+import { PIPELINE_SEQS, STEP_SEQS, WORKFLOW_SEQS } from "./seqs.ts"
 
 const WORKFLOW = "workflow"
 
@@ -110,9 +111,9 @@ export function createPipelineTree(roots: Roots, plan: PipelinePlan): Created {
   const workflowCount = plan.workflows.length
   const stepCount = plan.workflows.reduce((held, one) => held + one.steps.length, 0)
 
-  const pipelineSeq = takeSeqBlock(PIPELINE_SEQS, 1)
-  const firstWorkflowSeq = workflowCount === 0 ? 0 : takeSeqBlock(WORKFLOW_SEQS, workflowCount)
-  const firstStepSeq = stepCount === 0 ? 0 : takeSeqBlock(STEP_SEQS, stepCount)
+  const pipelineSeq = takeSeqsOf(PIPELINE_SEQS, 1)
+  const firstWorkflowSeq = workflowCount === 0 ? 0 : takeSeqsOf(WORKFLOW_SEQS, workflowCount)
+  const firstStepSeq = stepCount === 0 ? 0 : takeSeqsOf(STEP_SEQS, stepCount)
 
   let workflowSeq = firstWorkflowSeq
   let stepSeq = firstStepSeq

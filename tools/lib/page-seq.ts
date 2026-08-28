@@ -42,7 +42,7 @@ export interface SeqSource {
   readonly noun: string
 }
 
-export function readNextSeqOf(source: SeqSource): number {
+function readNextSeqOf(source: SeqSource): number {
   const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
   const stated = textField(parseFrontmatter(readFileSync(absolute, "utf8")), NEXT_SEQ_KEY)
   if (stated === null) {
