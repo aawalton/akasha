@@ -68,44 +68,38 @@ const storedAmong = (steps: readonly Step[]): readonly string[] => {
   return [...stored]
 }
 
-class PageNaming {
-  readonly ok: true = true
+declare const pageNaming: unique symbol
 
-  readonly #steps: readonly Step[]
-
+export type Naming = {
+  readonly ok: true
   readonly formula: string
-
   readonly reads: readonly string[]
+  readonly answer: (values: Values) => string | Unnamed
+  readonly [pageNaming]: true
+}
 
-  constructor(steps: readonly Step[], formula: string) {
-    this.#steps = steps
-    this.formula = formula
-    this.reads = storedAmong(steps)
-  }
-
-  answer(values: Values): string | Unnamed {
+const pageNamingOf = (steps: readonly Step[], formula: string): Naming => {
+  const reads = storedAmong(steps)
+  const answer = (values: Values): string | Unnamed => {
     const properties = { ...values.properties }
-    for (const step of this.#steps) {
+    for (const step of steps) {
       properties[step.key] = runFormula(step.formula, { now: values.now, properties })
     }
     const named = properties[NAME]
     if (named !== undefined && named.kind === "text") return named.text
 
-    const missing = this.reads.filter(
-      (key) => (values.properties[key]?.kind ?? "absent") === "absent"
-    )
-    const blamed = missing.length > 0 ? missing : this.reads
+    const missing = reads.filter((key) => (values.properties[key]?.kind ?? "absent") === "absent")
+    const blamed = missing.length > 0 ? missing : reads
     const why =
       blamed.length === 0
-        ? `\`${this.formula}\` answers absent`
+        ? `\`${formula}\` answers absent`
         : missing.length > 0
-          ? `\`${this.formula}\` answers absent, nothing standing under ${listOf(blamed)}`
-          : `\`${this.formula}\` answers absent over ${listOf(blamed)}`
-    return { message: why, formula: this.formula, absent: blamed }
+          ? `\`${formula}\` answers absent, nothing standing under ${listOf(blamed)}`
+          : `\`${formula}\` answers absent over ${listOf(blamed)}`
+    return { message: why, formula, absent: blamed }
   }
+  return { ok: true, formula, reads, answer } as Naming
 }
-
-export type Naming = PageNaming
 
 export const checkNaming = (pageType: PageType): Naming | PageTypeRefused => {
   const held = pageType[NAME]
@@ -119,7 +113,7 @@ export const checkNaming = (pageType: PageType): Naming | PageTypeRefused => {
   const checked = checkPageType({ ...pageType, [NAME]: property })
   if (!checked.ok) return checked
 
-  return new PageNaming(stepsTo(checked.computed, NAME), formula)
+  return pageNamingOf(stepsTo(checked.computed, NAME), formula)
 }
 
 export const nameOf = (naming: Naming, values: Values): string | Unnamed => naming.answer(values)
