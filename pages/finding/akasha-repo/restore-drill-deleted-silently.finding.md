@@ -8,14 +8,16 @@ domain-slug: repo/akasha-repo
 
 # Claim
 
-Nothing rebuilds akasha from its remote. The drill that once did was deleted by a refactor whose message does not mention it, and no successor was written, so the recovery path for everything tracked is untested and unwritten.
+Nothing turns akasha's mirror back into a repository, and the code that would says so in its own words. The replication leg is built, hooked and pushed on every receive; the read leg is unwritten, untested, and absent from all 334 `ops` verbs. A backup never restored and no backup at all are indistinguishable until either is needed.
 
 # Evidence
 
-`ops` lists no restore verb. The only clones in the tree are CI checkout steps, which fetch a bare copy to run a pipeline against and never rebuild a working tree anyone goes on to use.
+`infra/git-transport/src/repos.ts:38-42` gives akasha a mirror at `https://github.com/aawalton/akasha.git`, and `infra/git-transport/hooks/post-receive` pushes to it. The copy exists.
 
-The drill was built deliberately, and its own commit gave the reason: a recovery path that lives inside what it recovers dies with it. It was removed by a refactor whose message names the other capabilities it knew were going, and names restore, the drill and recovery nowhere.
+`infra/git-transport/synth-deployment/init-bare-repo.ts:46-65` holds the one cold clone: where `code.git` is missing or its HEAD unreadable, it clones `--bare` from the GitHub mirror. Akasha's block at `:234-240` does the opposite — "Akasha takes the workstation-authority treatment above unchanged", which is `git init --bare` where the store is absent, and never a clone. The reason stands at `:111-116`: the workstation is this tree's authority and the mirror is downstream of it, so "Restoring this store from that mirror is a separate leg and is deliberately not wired here." `:165` says it again. `:148-152` describes the missing leg exactly: "a clone is the only operation a restore needs."
 
-That reason binds harder now than when the drill was written. akasha absorbed every other repository, so a recovery path kept here is inside the thing it would be recovering, and there is no second tree to run it from.
+`ops --help` lists 334 verbs. Fifteen match restore, recover, backup, clone, mirror, rebuild or drill by keyword, and every one is unrelated — voice cloning, ESO typings, a buy-rule duplicate. None restores a repository.
 
-The asymmetry is what makes this worth filing: a backup never restored and no backup at all are indistinguishable until either is needed. The repository has a remote and an off-cluster mirror, so the copies exist; what does not exist is any evidence they can be turned back into a working tree.
+Correction to this finding's earlier evidence, which said the only clones in the tree are CI checkouts. Six generated deployments run an `init-code` container that clones `alan/akasha.git` from the in-cluster transport into `/app/repo` and installs it, and six apps run out of that tree (`alanwalton/web/generated/web-deployment.generated.yaml:213`). It runs on every cold pod start — but it clones the store a recovery would be recovering, so it exercises reach and not recovery.
+
+The drill itself cannot be read from here. This history opens at `a1d265eda3fb3b5`, and the drill lived in the retired `code` repo, never imported; the completion notice for project #16610 records that it restored the instruction tree rather than this one.
