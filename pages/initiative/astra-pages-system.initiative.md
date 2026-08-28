@@ -19,6 +19,8 @@ These notes hold only constraints.
 
 You are authorized to take any action needed to fulfil the intent without approval, including updating domain lines, making decisions with good judgement, and deciding between alternatives. When faced with a blocker, find a way to resolve the blocker and do not stop working towards the objectives.
 
+You are authorized to create, update and delete child initiatives as needed.
+
 Keep a reminder running at all times, every thirty minutes, to review this initiative's intent and constraints and go on working on them. It runs until every intent is complete.
 
 Take an intent off an initiative once it is fully complete.
