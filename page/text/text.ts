@@ -1,15 +1,25 @@
 import { readFileSync } from "node:fs"
+import { isMissing } from "../../missing/missing.ts"
 import { type Frontmatter, parseFrontmatter } from "../frontmatter.ts"
 
 export const NONE = "none"
 
 export const PAGE_TYPE_SLUG = "page-type-slug"
 
+/**
+ * NULL MEANS THE FILE IS NOT THERE, and nothing else.
+ *
+ * Every caller reads `null` as "no such file, so this page states nothing here" and goes on to
+ * answer, or to write, on that footing. A read that failed for any other reason has not established
+ * that, so it raises rather than borrowing the word for absence: an unreadable page would otherwise
+ * read as a page holding nothing, which is a different and false claim about the same file.
+ */
 export function textAt(root: string, relPath: string): string | null {
   try {
     return readFileSync(`${root}/${relPath}`, "utf8")
-  } catch {
-    return null
+  } catch (thrown) {
+    if (isMissing(thrown)) return null
+    throw thrown
   }
 }
 

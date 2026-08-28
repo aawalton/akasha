@@ -1,5 +1,6 @@
 import { readdirSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { isMissing } from "../missing/missing.ts"
 
 export const PART_CEILING_BYTES = 8 * 1024 * 1024
 
@@ -42,6 +43,15 @@ function quoted(text: string): string {
   return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }
 
+/**
+ * AN EMPTY LIST MEANS THE DIRECTORY HOLDS NO PART OF THIS SIDECAR, and callers act on exactly that:
+ * `partsHeld` falls back to the base path and `writeOutParts` then rewrites that one file whole. So
+ * an unreadable directory answered as an empty one does not merely lose the parts, it overwrites
+ * part one with whatever the caller was adding and drops every other part from the sidecar.
+ *
+ * A directory that is not there is a true empty — the page has no sidecar yet, and the first write
+ * makes it. Any other failure raises, because it says nothing about how many parts stand there.
+ */
 export function rowsPartsOf(rowsPath: string): readonly string[] {
   const dir = dirname(rowsPath)
   const suffix = suffixOf(rowsPath)
@@ -49,7 +59,8 @@ export function rowsPartsOf(rowsPath: string): readonly string[] {
   let names: readonly string[]
   try {
     names = readdirSync(dir)
-  } catch {
+  } catch (thrown) {
+    if (!isMissing(thrown)) throw thrown
     return []
   }
   const shape = new RegExp(`^${quoted(stem)}\\.part(\\d+)${quoted(suffix)}$`)

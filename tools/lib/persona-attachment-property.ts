@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
+import { isMissing } from "../../missing/missing.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 
@@ -8,22 +9,18 @@ function personaDir(): string {
   return join(akashaRoot(), placeDirOf("persona"))
 }
 
-export function personaAttachment(slug: string, key: string): string | undefined {
-  const dir = personaDir()
-  let text = ""
-  try {
-    text = readFileSync(join(dir, `${slug}.${key}.attachment.txt`), "utf8").trim()
-  } catch {
-    return undefined
-  }
-  return text === "" ? undefined : text
-}
-
+/**
+ * AN EMPTY MAP MEANS THE PERSONA HAS NO PAGE, and the one caller reads it that way: `seat send`
+ * asks for the voice key and treats a blank as "this sender is not a voiced persona", which routes
+ * the message differently. A persona page that could not be opened would otherwise answer the same
+ * blank, and a voiced persona would be sent as an unvoiced one with nothing saying why.
+ */
 export function personaFrontmatter(slug: string): Record<string, string> {
   let text = ""
   try {
     text = readFileSync(join(personaDir(), `${slug}.md`), "utf8")
-  } catch {
+  } catch (thrown) {
+    if (!isMissing(thrown)) throw thrown
     return {}
   }
   const out: Record<string, string> = {}
