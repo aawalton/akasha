@@ -9,7 +9,8 @@ import { statingIds } from "./state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose, removeOutside } from "../../../repo/land/land.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "../../../patches/patch.ts"
+import { fail, type Landing as Patched, patchText, valueOf } from "../../../patches/patch.ts"
+import { readPayload, readsPayload } from "../../../tools/lib/payload.ts"
 
 const FILE_PATH = "--file-path"
 
@@ -77,13 +78,7 @@ interface Carried {
   readonly content: string
 }
 
-function carriedIn(text: string, from: string): readonly Carried[] {
-  let read: unknown
-  try {
-    read = JSON.parse(text)
-  } catch (thrown) {
-    fail(`${from} is not JSON this can read: ${thrown instanceof Error ? thrown.message : thrown}`)
-  }
+function carriedIn(read: unknown): readonly Carried[] {
   const many = Array.isArray(read) ? read : [read]
   const found: Carried[] = []
   for (const [at, one] of many.entries()) {
@@ -173,11 +168,27 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   const named = removalsNamed(argv)
-  const wanted = pairs.length === 0 && named.length === 0
-  const text = inputFile !== null || wanted ? payloadText(argv, wanted) : null
-  const carried = text === null ? [] : carriedIn(text, inputFile ?? "stdin")
-  if (pairs.length === 0 && carried.length === 0 && named.length === 0) {
-    fail("the payload declares no file, so it asks for no write at all")
+  const takingAway = named.length > 0
+  const reads = readsPayload(pairs.length, inputFile, takingAway)
+  // A BODY NOTHING WILL READ IS REFUSED RATHER THAN DROPPED. A call that only takes files away
+  // reads no payload, so an open stdin cannot hang it — but a caller who piped a body in meant one
+  // act, and the half that would land alone is the half that destroys.
+  if (!reads && pairs.length === 0 && takingAway && process.stdin.isTTY !== true) {
+    fail(
+      `this call takes ${named.length} path(s) away and names no body, and stdin is not a ` +
+        "terminal. A removal alone reads no payload, so a body piped here would be dropped and " +
+        `only the removal would land. Name it with \`${INPUT_FILE} -\`, or redirect from ` +
+        "/dev/null to say the removal stands alone."
+    )
+  }
+  const payload = reads ? await readPayload(inputFile ?? "-") : null
+  const carried = payload === null ? [] : carriedIn(payload)
+  if (pairs.length === 0 && carried.length === 0) {
+    if (!takingAway) fail("the payload declares no file, so it asks for no write at all")
+    fail(
+      "the payload declares no file while this call also takes files away — a write and a " +
+        "removal asked for together are one act, and this one asks for no write at all"
+    )
   }
 
   const dryRun = argv.includes(DRY_RUN)
