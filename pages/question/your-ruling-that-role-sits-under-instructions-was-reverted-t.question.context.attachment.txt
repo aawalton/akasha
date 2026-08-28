@@ -1,9 +1,0 @@
-At `01c85296` you ruled `role` back under `instructions`, and the message rejects by name the argument that a role's area is the responsibilities rather than the surfaces stating them — adding that "persona and task stay where they are for the same reason." It also records that the closure cost was heard and accepted.
-
-Forty-three minutes later `4f8e3898` reparented nine domains (role, task, persona, domain, principle, meta-harness and three schemas) to `global`, using exactly that rejected argument, with no mention of the ruling. Then `876fc487` restored `global` again, describing your ruling's value as a stale-frontmatter artifact.
-
-No agent may settle this: the review task sends `domain-parents:` back rather than letting a reading decide it, and this is your ruling being contradicted. Restoring `role` alone would leave it inconsistent with the eight reparented in the same act and with your own sentence about persona and task — so the question is whether the whole reparenting stands or is undone.
-
-The deeper problem, which I'd fix either way: a ruling recorded only in a commit message is invisible to every instrument here. `reviewed-alan` stamps a file, not a value, so a ruling about one frontmatter key leaves nothing behind once the key changes. That is how two separate agents came to overwrite this one in good faith.
-
-Nothing is blocked on the answer — the fleet is working. But every new domain landing compounds whichever way is wrong.
