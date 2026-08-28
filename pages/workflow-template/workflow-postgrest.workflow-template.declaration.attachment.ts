@@ -38,13 +38,13 @@ export default workflow("postgrest", {
       ...sopsDecryptApply({
         name: "postgrest-apply-secrets",
         namespace: "postgrest",
-        secretFile: "infra/k8s/src/postgrest/secrets/postgrest-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/postgrest/postgrest.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgrest/secrets/postgrest-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgrest/postgrest.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgrest -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgrest -f -`,
       ],
@@ -55,13 +55,13 @@ export default workflow("postgrest", {
       ...sopsDecryptApply({
         name: "postgrest-apply-authenticator-secrets",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgrest/secrets/authenticator-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/postgrest/authenticator.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgrest/secrets/authenticator-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgrest/authenticator.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -162,7 +162,7 @@ export default workflow("postgrest", {
           "kubectl apply --server-side --force-conflicts -n postgrest -f infra/k8s/src/postgrest/generated/service.generated.yaml",
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/infra/k8s/src/postgrest/secrets/postgrest-secrets.sops.yaml`,
+            read: `sops -d ${ci.workspace}/infra/k8s/src/postgrest/postgrest.k8s-secret.sops.yaml`,
             subject: "postgrest-secrets.sops.yaml",
           }),
           `sed "s|checksum/postgrest-secrets:.*|checksum/postgrest-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/postgrest/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n postgrest -f -`,
