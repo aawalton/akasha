@@ -16,11 +16,11 @@ const ISO_DATETIME =
   /^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?Z$/
 
 export type StringShape = Shape<string> & {
-  min(least: number): StringShape
-  regex(pattern: RegExp): StringShape
-  uuid(): StringShape
-  url(): StringShape
-  datetime(): StringShape
+  min: (least: number) => StringShape
+  regex: (pattern: RegExp) => StringShape
+  uuid: () => StringShape
+  url: () => StringShape
+  datetime: () => StringShape
 }
 
 export function StringShape(
@@ -93,12 +93,12 @@ function numberHeld(value: unknown, path: ShapePath): Outcome<number> {
 }
 
 export type NumberShape = Shape<number> & {
-  int(): NumberShape
-  min(least: number): NumberShape
-  max(most: number): NumberShape
-  positive(): NumberShape
-  nonnegative(): NumberShape
-  finite(): NumberShape
+  int: () => NumberShape
+  min: (least: number) => NumberShape
+  max: (most: number) => NumberShape
+  positive: () => NumberShape
+  nonnegative: () => NumberShape
+  finite: () => NumberShape
 }
 
 export function NumberShape(

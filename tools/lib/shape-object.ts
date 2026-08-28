@@ -86,8 +86,8 @@ function parseFields(
 export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
   readonly unknowns: Unknowns
   readonly fields: Fields
-  strict(): ObjectShape<F, Struct<F>>
-  passthrough(): ObjectShape<F, LooseStruct<F>>
+  strict: () => ObjectShape<F, Struct<F>>
+  passthrough: () => ObjectShape<F, LooseStruct<F>>
 }
 
 export function ObjectShape<F extends Fields, Out>(

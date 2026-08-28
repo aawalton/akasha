@@ -52,15 +52,15 @@ type Runs<T> = (value: unknown, path: ShapePath) => Outcome<T>
 export type Shape<T> = {
   readonly run: Runs<T>
   readonly acceptsAbsent: boolean
-  parse(value: unknown): T
-  safeParse(value: unknown): ShapeResult<T>
-  optional(): Shape<T | undefined>
-  nullable(): Shape<T | null>
+  parse: (value: unknown) => T
+  safeParse: (value: unknown) => ShapeResult<T>
+  optional: () => Shape<T | undefined>
+  nullable: () => Shape<T | null>
   default(fallback: T): Shape<T>
   catch(fallback: T): Shape<T>
-  refine(holds: (value: T) => boolean, options: { readonly message: string }): Shape<T>
-  transform<U>(change: (value: T) => U): Shape<U>
-  pipe<U>(next: Shape<U>): Shape<U>
+  refine: (holds: (value: T) => boolean, options: { readonly message: string }) => Shape<T>
+  transform: <U>(change: (value: T) => U) => Shape<U>
+  pipe: <U>(next: Shape<U>) => Shape<U>
 }
 
 export function Shape<T>(run: Runs<T>, acceptsAbsent = false): Shape<T> {
