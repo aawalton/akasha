@@ -11,7 +11,6 @@ domain-parent-slug: domain/repo-system
 required-reading-slugs:
   - domain/workspace-package
 named-for: "{slug}"
-unique-key: "{repo}/{slug}"
 ---
 
 # Definition

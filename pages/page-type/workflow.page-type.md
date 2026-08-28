@@ -8,7 +8,6 @@ body-shape-slug: empty
 slug: workflow
 domain-parent-slug: page-type/pipeline
 named-for: "{seq}"
-unique-key: "{pipeline-seq}/{slug}"
 next-seq: 1117
 mortal: true
 ---
