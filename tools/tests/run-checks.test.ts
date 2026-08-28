@@ -8,9 +8,19 @@ import { SUITE, runChecks, suitePassed, within } from "../run-checks.ts"
 import { report, tallyOf } from "../audits/suite-runs.ts"
 import { CEILING_MS } from "../lib/run-cost.ts"
 
+/**
+ * A view for one repository, whose roots stand nowhere on purpose.
+ *
+ * NO CHECK LEVIED HERE READS A PATH, and roots that were real would let one reach the live tree
+ * without saying so. `rootsNamed` refuses roots pointed at nothing, which is why these are written
+ * out rather than built through it.
+ *
+ * THE REPOSITORY NAMES THESE CASES LEVY OVER ARE LABELS, carried into an outcome's name and never
+ * looked up as a root, so they need name no repository that exists.
+ */
 function repoViewOf(repo: Repo): RepoView {
   return {
-    roots: { akasha: "/nonexistent-akasha", memory: "/nonexistent-memory", "code-editor": "/nonexistent-code-editor" },
+    roots: { akasha: "/nonexistent-akasha", "code-editor": "/nonexistent-code-editor" },
     name: repo,
     documents: [],
     read: () => "",
