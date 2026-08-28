@@ -27,6 +27,42 @@ function first(lines: readonly string[], noun: string): readonly string[] {
   return lines.length > SHOWN ? [...lines.slice(0, SHOWN), `… and ${lines.length - SHOWN} more ${noun}`] : lines
 }
 
+interface Unjudged {
+  readonly page: string
+  readonly type: string
+  readonly line: string
+}
+
+const KEY = /^`([^`]+)`: /
+
+/**
+ * The keys nothing states a type for, named once each rather than once per page.
+ *
+ * A COUNT OF LINES IS NOT A COUNT OF KEYS. This reported 369 and named none of them, and the 369
+ * turned out to be nine keys over 287 pages, one of them carried 109 times. One line per page
+ * would have buried the two lists beside this under the same nine names repeated, and the reader
+ * would still not have had the nine. `judgeFrontmatter` writes each entry as `` `key`: why ``,
+ * which is what this splits on; a line in another shape is grouped whole rather than dropped,
+ * a key this cannot parse being still a key nobody has been told about.
+ */
+function byKey(lines: readonly Unjudged[]): readonly string[] {
+  const groups = new Map<string, Unjudged[]>()
+  for (const one of lines) {
+    const key = KEY.exec(one.line)?.[1] ?? one.line
+    groups.set(key, [...(groups.get(key) ?? []), one])
+  }
+  const named: string[] = []
+  for (const [key, held] of groups) {
+    const example = held[0]
+    if (example === undefined) continue
+    const types = [...new Set(held.map((one) => one.type))].map((one) => `\`${one}\``).join(", ")
+    named.push(
+      `\`${key}\` — ${held.length} page(s) under ${types}, e.g. ${example.page}: ${example.line.replace(KEY, "")}`
+    )
+  }
+  return named
+}
+
 export const pagesHoldProperties: Check = (repo) => {
   const tree = diskFileTree(repo.roots)
   const types = registryOf(tree)
@@ -40,7 +76,7 @@ export const pagesHoldProperties: Check = (repo) => {
 
   const unjudgeable: string[] = []
   const refusals: string[] = []
-  const unjudged: string[] = []
+  const unjudged: Unjudged[] = []
   let measured = 0
   let holding = 0
 
@@ -72,7 +108,7 @@ export const pagesHoldProperties: Check = (repo) => {
       continue
     }
     measured++
-    for (const key of verdict.unjudged) unjudged.push(`${relPath} — ${key}`)
+    for (const line of verdict.unjudged) unjudged.push({ page: relPath, type: type.slug, line })
     if (verdict.refusals.length === 0) {
       holding++
       continue
@@ -83,12 +119,16 @@ export const pagesHoldProperties: Check = (repo) => {
   const outside = `${holding} of ${measured} hold the properties their page type declares, ${measured - holding} outside them`
   const registry = `${types.length} page type(s) declare a property set`
   const apart = unjudgeable.length === 0 ? "" : `; ${unjudgeable.length} claimed but not judged`
-  const keys = unjudged.length === 0 ? "" : `; ${unjudged.length} key(s) nothing states a type for`
+  const named = byKey(unjudged)
+  const carried = new Set(unjudged.map((one) => one.page)).size
+  const keys =
+    named.length === 0 ? "" : `; ${named.length} key(s) nothing states a type for, on ${carried} page(s)`
 
   return {
     ...advise(NAME, `${outside}, against ${registry}${apart}${keys}`, [
       ...first(unjudgeable, "claimed but not judged"),
       ...first(refusals, "refusal line(s)"),
+      ...first(named, "key(s) nothing states a type for"),
     ]),
     population: over(pages.length, UNIT),
   }
