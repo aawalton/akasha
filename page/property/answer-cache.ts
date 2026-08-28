@@ -5,7 +5,7 @@ const GIT_DIR = ".git"
 
 const ANSWERS_DIR = "pages-answers"
 
-const VERSION = 2
+const VERSION = 3
 
 interface Answer {
   readonly version: number
