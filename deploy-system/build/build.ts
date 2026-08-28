@@ -1,3 +1,4 @@
+import { execFileSync } from "node:child_process"
 import { parseAllDocuments } from "yaml"
 import type { Plan } from "../deploy/deploy.ts"
 import { type Ran, runKubectl } from "../kubectl/kubectl.ts"
@@ -14,6 +15,18 @@ const REPO_PATH = "/app/repo"
 const STAMP_FILE = "build/.build-sha"
 
 const ARTIFACT = "build/server/index.js"
+
+/**
+ * The commit this workstation would deploy.
+ *
+ * THE POD IS MOVED TO A COMMIT, NOT TO A BRANCH. `init-code` resets to `origin/main`, which is
+ * wherever main stands when a pod happens to start; naming the commit is what makes the bundle and
+ * the manifests the same change. A commit that has not reached origin cannot be fetched, and the
+ * fetch fails loudly rather than building something else.
+ */
+export function headSha(root: string): string {
+  return execFileSync("git", ["-C", root, "rev-parse", "HEAD"], { encoding: "utf8" }).trim()
+}
 
 export interface BuildTarget {
   readonly namespace: string
