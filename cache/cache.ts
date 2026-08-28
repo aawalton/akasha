@@ -17,11 +17,21 @@ function pathOf(key: Key): string {
   return `${key.kind}/${key.name}/${key.mark}/${key.subject}${SUFFIX}`
 }
 
-export function answersAt(root: string): string {
-  const dir = execFileSync("git", ["-C", root, "rev-parse", "--absolute-git-dir"], {
+/**
+ * The directory git keeps this checkout in, which is where a cache of answers about it belongs.
+ *
+ * A CACHE LIVES BESIDE THE REPOSITORY IT IS ABOUT AND OUTSIDE THE TREE, so a clone starts cold and
+ * a worktree removed takes its answers with it. What is filed here is filed under a kind of its
+ * own, this being the directory git also keeps its own working files in.
+ */
+export function gitDirAt(root: string): string {
+  return execFileSync("git", ["-C", root, "rev-parse", "--absolute-git-dir"], {
     encoding: "utf8",
   }).trim()
-  return join(dir, ANSWERS)
+}
+
+export function answersAt(root: string): string {
+  return join(gitDirAt(root), ANSWERS)
 }
 
 /**

@@ -1,9 +1,13 @@
 import { createHash } from "node:crypto"
-import { answerAt, answersAt, cacheAnswer, forget, type Key, sweep } from "../../cache/cache.ts"
+import { answerAt, cacheAnswer, forget, gitDirAt, type Key, sweep } from "../../cache/cache.ts"
 import { type Input, markOf } from "../../cache/mark/mark.ts"
 import { RUNTIME_MARK } from "../../page/runtime/runtime.ts"
 import { type Plan, relativeTo } from "../deploy/deploy.ts"
 
+/**
+ * The one kind filed under the git directory rather than under `answers`, and the whole of what
+ * a deploy writes there. Nothing else may be swept from that root.
+ */
 export const DEPLOY_KIND = "deploy"
 
 const APPLIED = "applied"
@@ -57,12 +61,12 @@ function isApplied(value: unknown): value is Applied {
  * other, so a body that changed asks a question nothing has been filed against.
  */
 export function appliedAt(akasha: string, slug: string, mark: string): Applied | null {
-  const held = answerAt(answersAt(akasha), keyFor(slug, mark))
+  const held = answerAt(gitDirAt(akasha), keyFor(slug, mark))
   return isApplied(held) ? held : null
 }
 
 export function recordApplied(akasha: string, plan: Plan, mark: string): void {
-  const at = answersAt(akasha)
+  const at = gitDirAt(akasha)
   const slug = plan.service.slug
   sweep(at, DEPLOY_KIND, slug, mark)
   const applied: Applied = {
@@ -79,5 +83,5 @@ export function recordApplied(akasha: string, plan: Plan, mark: string): void {
  * filed under it answers a question nobody can ask.
  */
 export function forgetGone(akasha: string, slugs: readonly string[]): void {
-  forget(answersAt(akasha), DEPLOY_KIND, slugs)
+  forget(gitDirAt(akasha), DEPLOY_KIND, slugs)
 }
