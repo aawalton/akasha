@@ -11,6 +11,8 @@ const EXCLUSIVE = `${import.meta.dir}/../../exclusive/exclusive.ts`
 const WRITE_WHOLE = `${import.meta.dir}/../../write-whole/write-whole.ts`
 const HOLDER = "held-by"
 
+const RECORD_READ = `${import.meta.dir}/../../agent/record-read.ts`
+
 let at: Fixture
 
 beforeEach(() => {
@@ -112,6 +114,29 @@ async function waitFor(path: string): Promise<boolean> {
   for (let tries = 0; tries < 400; tries++) {
     if (existsSync(path)) return true
     await Bun.sleep(10)
+  }
+  return false
+}
+
+const CARRY_BODY = `
+import { appendFileSync } from "node:fs"
+import { carryReadings } from ${JSON.stringify(RECORD_READ)}
+
+const [, , page, marker] = process.argv
+appendFileSync(marker, "reading\\n")
+carryReadings([{ path: "/f/a.md", from: "aaa", to: "bbb" }], [page])
+`
+
+function pauseFor(ms: number): void {
+  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
+}
+
+/** `waitFor` for a caller inside a lock, which cannot await anything without releasing it. */
+function waitWhileHolding(path: string, ms: number): boolean {
+  const until = Date.now() + ms
+  while (Date.now() < until) {
+    if (existsSync(path)) return true
+    pauseFor(10)
   }
   return false
 }
