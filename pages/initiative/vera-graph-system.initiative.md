@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- No edge the graph draws asserts something that is not true.
 - A producer can answer about one node without producing every node.
 - Nothing the graph has already worked out is worked out again.
 - No held answer outlives the shape it was written in.
@@ -53,6 +52,12 @@ The relation index names an attachment end, by Alan's ruling on 2026-08-27. It a
 A body link is a relation key rather than an edge type of its own, by Alan's ruling on 2026-08-27. It is a pseudo-property: nothing declares it as a page property, and the key `link` is what carries the difference between a page's prose naming a path and a page's frontmatter declaring a claim. Reading `relation` edges unnarrowed therefore mixes the two, and no reader in production does.
 
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
+
+## What Alan settled on 2026-08-28
+
+An `import` edge runs from any file, by Alan's ruling on 2026-08-28. The type narrowed its from-node to `file-extension: ts` while 4,051 of its edges leave a `.tsx` file, and only a file that imports draws one at all.
+
+`relation` is the edge from a page to one it names, by Alan's ruling on 2026-08-28. 2,926 of its 124,533 edges carry the key `link`, which a page names in its prose rather than in its frontmatter, and `relation-key` is what says which of the two it was.
 
 ## Code a page names
 
@@ -114,6 +119,10 @@ The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-
 Every node in akasha was measured against disk on 2026-08-28: 89,439 `file` nodes and 3,395 `folder` nodes, with no key nothing is at, no wrong `file-extension`, no `page-type-slug` naming a page type that is not here or filed somewhere the file is not, and no `package` attribute disagreeing with the `package.json` beside it.
 
 `rootsHere()` hands over `code-editor`, so the standing ruling that no code-editor node enters the graph rests on every caller passing the right repositories rather than on anything refusing them.
+
+Every edge in akasha was measured on 2026-08-28: 250,239 edges, with no end that is no node, none reaching outside akasha, and no `contains` edge whose far end is not directly under its near one.
+
+The `typescript` producer reads imports as TypeScript syntax rather than matching them as text, and its 32,892 edges agree exactly with the compiler's own scan of each of 11,225 files. Matching drew 50 edges from specifiers written inside a string or a template literal, most of them under `tools/lib/temper-addon-data/generators/`, which write import lines into the files they emit.
 
 `file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
