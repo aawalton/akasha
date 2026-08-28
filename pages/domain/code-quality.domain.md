@@ -67,3 +67,13 @@ Both emit runtime code where a type or a file would have done.
 A `const enum` is an enum.
 
 A `declare global` block is not a namespace.
+
+## No Method Signature
+
+**Write a property holding a function type; never a method signature.**
+
+TypeScript checks a method signature's parameters bivariantly, admitting an unsound argument type.
+
+A call signature is not a method signature.
+
+An optional member is judged the same way.
