@@ -1,6 +1,6 @@
 import type { PagePropertyType } from "../page-property-type.page-type.ts"
 
-export type Kind = "text" | "number" | "relation" | "record" | "list"
+export type Kind = "text" | "number" | "relation" | "record" | "list" | "file"
 
 export const kind = {
   id: "01a04a08-fcf3-7000-87b0-81cdbc78ccfb",

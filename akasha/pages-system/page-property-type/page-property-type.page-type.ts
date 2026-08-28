@@ -12,6 +12,7 @@ export type PagePropertyType = PageType &
     | { kind: "number"; max: Max | null }
     | { kind: "relation"; targetPageTypeSlug: TargetPageTypeSlug }
     | { kind: "record" }
+    | { kind: "file" }
     | { kind: "list"; entrySlug: EntrySlug; max: Max | null }
   )
 
