@@ -6,9 +6,6 @@ export const akashaFunctionalCore = {
   slug: "akasha-functional-core",
   definition: "the smallest part of the new system that can run itself",
   intent: [
-    "The akasha system defines itself.",
-    "The akasha system is written as akasha pages.",
-    "The akasha system answers every read of itself.",
     "The akasha system makes every change to itself.",
     "The akasha system checks every change to itself.",
   ],
