@@ -3,7 +3,7 @@ id: 6281ac57-b458-57b1-b981-1a2373bf00a7
 slug: block-shortcut-mod-unresolved
 page-type-slug: finding
 title: "Block shortcut mod unresolved"
-domain-slug: domain/pages-system
+domain-slug: domain/design-system
 ---
 
 # Claim
