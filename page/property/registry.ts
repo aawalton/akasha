@@ -12,7 +12,7 @@ import {
   type StatedPageType,
 } from "../page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
-import { builtFrom, loadPages } from "../index/store/store.ts"
+import { loadPages, rowsStamp } from "../index/store/store.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 import { canonicalize } from "../../repo/path/path.ts"
 
@@ -32,11 +32,15 @@ export function registryOf(tree: FileTree): readonly PageType[] {
  * THE INDEX IS AN INPUT NOW, so a mark taken over the page-type folders alone would hold an answer
  * past the index moving under it. A page type may stand anywhere — `page-type` says its own page
  * lives where its domain lives — so there is no folder to watch in its place.
+ *
+ * THE ROWS ARE WHAT IS STAMPED, RATHER THAN THE RECORD OF WHAT THE INDEX WAS BUILT OVER. What the
+ * registry is read out of is `loadPages`, so the rows are the input; `built-from.json` stood in for
+ * them only because a landing rewrote it every time. A landing that cannot show it is all that has
+ * moved now leaves that record alone and still writes the rows, so a stamp taken over the record
+ * would hold a registry from before them — and `declarations` and `frontmatter` key on this too.
  */
 export function indexStamp(): string {
-  const held = builtFrom()
-  if (held === null) return "none"
-  return createHash("sha256").update(JSON.stringify(held)).digest("hex").slice(0, 16)
+  return createHash("sha256").update(rowsStamp()).digest("hex").slice(0, 16)
 }
 
 /**

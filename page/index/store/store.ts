@@ -276,6 +276,11 @@ function relationsAt(): string {
   return join(indexRoot(), RELATIONS)
 }
 
+export function rowsStamp(): string {
+  const at = pagesAt()
+  return `${at}:${stampOf(at)}`
+}
+
 /**
  * One critical section over the whole index.
  *
