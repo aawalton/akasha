@@ -13,7 +13,7 @@ function namedBy(page: Reached, slugProperty: string | null): string | null {
 
 export function indexingOver(
   beneath: (target: string) => readonly string[],
-  pagesOf: (kind: string) => readonly Reached[]
+  pagesOf: (kind: string) => Iterable<Reached>
 ): (target: string, slugProperty: string | null) => ReadonlyMap<string, Reached> {
   const indexes = new Map<string, ReadonlyMap<string, Reached>>()
   return (target, slugProperty) => {

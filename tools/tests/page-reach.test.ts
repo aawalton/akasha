@@ -86,11 +86,13 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 const ROOTS: Roots = { akasha: root }
 
 const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
-  new Map(deriver(ROOTS).rows(pageType)!.map((row) => [row.values.slug as string, row.values[key]]))
+  new Map([...deriver(ROOTS).rows(pageType)!].map((row) => [row.values.slug as string, row.values[key]]))
 
+// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
+// the deriver has to report stands only once every page has been walked.
 const faultsOf = (pageType: string): readonly string[] => {
   const found = deriver(ROOTS)
-  found.rows(pageType)
+  Array.from(found.rows(pageType) ?? [])
   return found.faults()
 }
 

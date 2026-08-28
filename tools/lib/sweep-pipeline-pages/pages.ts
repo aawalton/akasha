@@ -12,7 +12,7 @@ export interface Snapshot {
   readonly steps: readonly Step[]
 }
 
-function rowsOf(roots: Roots, pageType: string): readonly Row[] {
+function rowsOf(roots: Roots, pageType: string): Iterable<Row> {
   const found = load(roots, pageType)
   if (found === null) {
     throw new Error(`\`${pageType}\` ${UNREACHED}, so the sweep has nothing to read`)
@@ -20,7 +20,7 @@ function rowsOf(roots: Roots, pageType: string): readonly Row[] {
   return found
 }
 
-function held<T>(rows: readonly Row[], of: (row: Row) => T | null): readonly T[] {
+function held<T>(rows: Iterable<Row>, of: (row: Row) => T | null): readonly T[] {
   const out: T[] = []
   for (const row of rows) {
     const one = of(row)

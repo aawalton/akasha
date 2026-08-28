@@ -10,12 +10,21 @@ afterAll(() => rmSync(root, { recursive: true, force: true }))
 
 const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
   new Map(
-    deriver(ROOTS)
-      .rows(pageType)!
-      .map((row) => [row.at.replace(/^.*\//, "").replace(`.${pageType}.md`, ""), row.values[key]])
+    [...deriver(ROOTS).rows(pageType)!].map((row) => [
+      row.at.replace(/^.*\//, "").replace(`.${pageType}.md`, ""),
+      row.values[key],
+    ])
   )
 
 const owners = (): ReadonlyMap<string, unknown> => held("job", "owner")
+
+// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
+// the deriver has to report stands only once every page has been walked.
+const faultsOf = (pageType: string): readonly string[] => {
+  const found = deriver(ROOTS)
+  Array.from(found.rows(pageType) ?? [])
+  return found.faults()
+}
 
 describe("a computed property resolved from its `from:` paths", () => {
   it("walks a relation to the page its `target-slug` names and reads the key there", () => {
@@ -39,7 +48,7 @@ describe("a computed property resolved from its `from:` paths", () => {
   })
 
   it("leaves a page of a type declaring nothing derived exactly as its file states it", () => {
-    const one = deriver(ROOTS).rows("site")!.find((row) => row.at.endsWith("here.site.md"))
+    const one = [...deriver(ROOTS).rows("site")!].find((row) => row.at.endsWith("here.site.md"))
     expect(one?.values).toEqual({ slug: "here" })
   })
 
@@ -52,29 +61,31 @@ describe("a computed property resolved from its `from:` paths", () => {
   })
 })
 
+describe("the pages a page type answers, which are walked rather than gathered", () => {
+  it("answers every page again on a second walk, so a caller may index them and then read them", () => {
+    const rows = deriver(ROOTS).rows("job")!
+    const indexed = new Map([...rows].map((row) => [row.at, row]))
+    const read = [...rows].map((row) => row.at)
+    expect(indexed.size).toBe(6)
+    expect(read).toEqual([...indexed.keys()])
+  })
+})
+
 describe("what the walk reports as a fault", () => {
   it("names a path key no property declares", () => {
-    const found = deriver(ROOTS)
-    found.rows("job")
-    expect(found.faults()).toContain("`no-such-key` is declared by no property on `job`")
+    expect(faultsOf("job")).toContain("`no-such-key` is declared by no property on `job`")
   })
 
   it("names a path walked past a key that is no relation", () => {
-    const found = deriver(ROOTS)
-    found.rows("job")
-    expect(found.faults()).toContain("`title` on `job` names no `target-slug`, so a path cannot be walked past it")
+    expect(faultsOf("job")).toContain("`title` on `job` names no `target-slug`, so a path cannot be walked past it")
   })
 
   it("reports nothing for a path that simply reaches no value", () => {
-    const found = deriver(ROOTS)
-    found.rows("team")
-    expect(found.faults()).toEqual([])
+    expect(faultsOf("team")).toEqual([])
   })
 
   it("refuses an expression naming a key nothing declares, rather than reading it as absent", () => {
-    const found = deriver(ROOTS)
-    found.rows("gauge")
-    expect(found.faults()).toContain(
+    expect(faultsOf("gauge")).toContain(
       "`gauge-bare` states an `expression` this evaluator refuses: `day` is declared by no property on `gauge`"
     )
   })
@@ -105,17 +116,13 @@ describe("a computed property resolved from the property naming it back", () => 
 
 describe("what a walk back reports as a fault", () => {
   it("names a `back-from` no property declares", () => {
-    const found = deriver(ROOTS)
-    found.rows("person")
-    expect(found.faults()).toContain(
+    expect(faultsOf("person")).toContain(
       "`back-from` on `person-nowhere` names `no-such-property`, which no property declares"
     )
   })
 
   it("names a property stating both, rather than reading one and dropping the other", () => {
-    const found = deriver(ROOTS)
-    found.rows("person")
-    expect(found.faults()).toContain(
+    expect(faultsOf("person")).toContain(
       "`person-both` states both `from` and `back-from`, and a property states one or the other"
     )
   })

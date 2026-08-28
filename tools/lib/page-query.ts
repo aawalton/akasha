@@ -2,7 +2,7 @@ import { type Backed, type Row } from "./page-derive-shape.ts"
 import { type Held, type Values } from "./page-file-values.ts"
 import { deriverFor } from "./deriver-hold.ts"
 import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "../../page/name/naming/naming.ts"
-import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused, unfoundIn } from "./page-query-bind.ts"
+import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused } from "./page-query-bind.ts"
 import { comparing, stated } from "./page-query-compare.ts"
 import { queryOf } from "./page-query-fields.ts"
 import { carriesFor } from "./page-query-keys.ts"
@@ -70,7 +70,7 @@ export function statesBoth(query: PageQuery): boolean {
   return query.countBy !== undefined && query.function !== undefined
 }
 
-export function load(roots: Roots, pageType: string): readonly Row[] | null {
+export function load(roots: Roots, pageType: string): Iterable<Row> | null {
   return deriverFor(roots).rows(pageType)
 }
 
@@ -180,7 +180,6 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   const found = derive.rows(query.pageType)
   if (found === null) return null
   const falling = fallenBack(query)
-  const loaded = falling.length === 0 ? found : found.map((row) => stating(row, falling))
   const typeOf = (key: string): string | null => derive.typeOf(query.pageType, key)
   const tests = query.where ?? []
   const named = (one: Test): boolean =>
@@ -189,15 +188,24 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   const unseen = new Set(
     tests.filter(valued).map((test) => test.key).filter((key) => typeOf(key) === null)
   )
-  const matched = loaded.filter((row) => {
+  const unfound = new Set((query.keys ?? []).filter((key) => typeOf(key) === null))
+  // ONE WALK OVER THE PAGES, whatever the answer needs of them. The rows are walked rather than
+  // held, so a second pass would read every sidecar again; what only a pass can settle — which
+  // keys no page states — is worked out here, beside the rows the tests keep.
+  const matched: Row[] = []
+  let walked = 0
+  for (const page of found) {
+    walked += 1
+    const row = falling.length === 0 ? page : stating(page, falling)
     for (const key of unseen) if (row.values[key] !== undefined) unseen.delete(key)
-    return tests.every((test) => passes(row.values, test, typeOf, at, woke))
-  })
+    for (const key of unfound) if (row.values[key] !== undefined) unfound.delete(key)
+    if (tests.every((test) => passes(row.values, test, typeOf, at, woke))) matched.push(row)
+  }
   const beside = {
-    absent: loaded.length === 0 ? [] : [...unseen].sort(),
+    absent: walked === 0 ? [] : [...unseen].sort(),
     faults: [...derive.faults(), ...reducedFault(query, typeOf)],
     omitted: everyKey ? derive.attachmentKeys(query.pageType) : [],
-    unfound: unfoundIn(query.keys, loaded, typeOf),
+    unfound: query.keys === undefined || walked === 0 ? [] : [...unfound].sort(),
   }
   const countBy = query.countBy
   if (countBy !== undefined) {

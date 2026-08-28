@@ -47,8 +47,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const { byKind: declared, bySlug } = declarationsIn(roots)
   const chains = new Map<string, readonly string[]>()
   const loaded = new Map<string, readonly Page[]>()
-  const rowsPages = new Map<string, readonly Page[]>()
-  const filling = new Set<string>()
 
   const carriers = new Map<string, Declared[]>()
   for (const one of bySlug.values()) {
@@ -120,6 +118,10 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return found
   }
 
+  // ONE HOLDER'S ROWS AT A TIME, held no longer than the walk that asked for them. `log-line`
+  // keeps three and a half million rows across eleven thousand sidecars, so a map of them keyed by
+  // holder would carry every one for as long as the deriver stood. `page-rows.ts` holds the
+  // sidecars it has parsed under a bound of its own, so a second walk costs the parse and no more.
   const rowsPagesFor = (parent: Page, declaration: Declared): readonly Page[] => {
     const target = declaration.target
     if (target === null) {
@@ -128,10 +130,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       )
       return []
     }
-    const mark = `${parent.at}#${declaration.key}`
-    const held = rowsPages.get(mark)
-    if (held !== undefined) return held
-    const made = rowsPagesIn(
+    return rowsPagesIn(
       roots,
       parent.at,
       parent.named,
@@ -141,15 +140,11 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       (why) =>
       faults.add(why)
     ).map((one) => ({ ...one, kind: target }))
-    rowsPages.set(mark, made)
-    return made
   }
 
-  const pagesOf = (kind: string): readonly Page[] => {
+  const filedPagesOf = (kind: string): readonly Page[] => {
     const held = loaded.get(kind)
     if (held !== undefined) return held
-    if (filling.has(kind)) return []
-    filling.add(kind)
     const one: Kind | undefined = kinds.get(kind)
     const pages: Page[] = []
     for (const each of one?.filed ?? []) {
@@ -176,13 +171,30 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
         pages.push({ kind, at: `${repo}:${relPath}`, named, values: held.values })
       }
     }
-    for (const declaration of carriers.get(kind) ?? [])
-      for (const parentKind of beneath(declaration.on))
-        for (const parent of pagesOf(parentKind)) pages.push(...rowsPagesFor(parent, declaration))
-    filling.delete(kind)
     loaded.set(kind, pages)
     return pages
   }
+
+  // A PAGE TYPE'S PAGES ARE WALKED, NEVER GATHERED. `log-line` has three and a half million of
+  // them, so an array holding them all is gigabytes where a walk holds one sidecar and one page.
+  //
+  // `through` IS THE CHAIN THIS WALK CAME DOWN, and a page type standing on it already yields
+  // nothing: that is how a page type whose rows are held by one beneath it stops rather than
+  // recurring. It is passed rather than kept beside the deriver because two walks may be open at
+  // once, and a chain kept beside the deriver would read the other walk's steps as its own cycle.
+  function* walkPages(kind: string, through: readonly string[]): Generator<Page> {
+    if (through.includes(kind)) return
+    const chain = [...through, kind]
+    yield* filedPagesOf(kind)
+    for (const declaration of carriers.get(kind) ?? [])
+      for (const parentKind of beneath(declaration.on))
+        for (const parent of walkPages(parentKind, chain))
+          yield* rowsPagesFor(parent, declaration)
+  }
+
+  const pagesOf = (kind: string): Iterable<Page> => ({
+    [Symbol.iterator]: () => walkPages(kind, []),
+  })
 
   const beneath = (target: string): readonly string[] => [
     target,
@@ -312,10 +324,17 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     faults.add(why)
   )
 
-  const rows = (pageType: string): readonly Row[] | null => {
+  // WALKING WHAT COMES BACK TWICE WALKS THE PAGES TWICE. A generator handed back bare is walked
+  // once and reads as empty ever after, with nothing saying so, which is why this answers an
+  // iterable: each time it is asked for a walk it starts a fresh one.
+  const rows = (pageType: string): Iterable<Row> | null => {
     if (!isFiled(pageType) && !isHeld(pageType)) return null
     const derived = keptIn(derivedOn(pageType), onlyFor(pageType))
-    return pagesOf(pageType).map((page) => rowOf(page, derived))
+    return {
+      *[Symbol.iterator]() {
+        for (const page of pagesOf(pageType)) yield rowOf(page, derived)
+      },
+    }
   }
 
   const one = (pageType: string, name: string, slugProperty: string | null = null): Row | null => {

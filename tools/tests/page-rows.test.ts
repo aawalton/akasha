@@ -66,23 +66,31 @@ const ROOTS: Roots = { akasha: root }
 
 describe("a page type whose pages stand in a `rows: jsonl` sidecar", () => {
   it("answers its pages, one per line, though no directory of its own stands for them", () => {
-    const rows = deriver(ROOTS).rows("sighting")
-    expect(rows?.length).toBe(4)
+    const rows = [...deriver(ROOTS).rows("sighting")!]
+    expect(rows).toHaveLength(4)
+  })
+
+  it("answers every one of them again on a second walk, the sidecars being read afresh each time", () => {
+    const rows = deriver(ROOTS).rows("sighting")!
+    const first = [...rows].map((row) => row.at)
+    const second = [...rows].map((row) => row.at)
+    expect(first).toHaveLength(4)
+    expect(second).toEqual(first)
   })
 
   it("names each page by the slug the line states, and by its parent and line where none is stated", () => {
-    const rows = deriver(ROOTS).rows("sighting") ?? []
+    const rows = [...deriver(ROOTS).rows("sighting")!]
     expect(rows.map((row) => row.values.chapter)).toEqual(["one", "two", "three", "four"])
     expect(rows[2]?.at).toBe("akasha:pages/spell/ward.spell.sightings.jsonl#0")
   })
 
   it("carries the page holding it under a key named for that page type", () => {
-    const rows = deriver(ROOTS).rows("sighting") ?? []
+    const rows = [...deriver(ROOTS).rows("sighting")!]
     expect(rows.map((row) => row.values["spell-slug"])).toEqual(["mend", "mend", "ward", "vigil"])
   })
 
   it("gathers the sidecars of a page type extending the one the property is declared on", () => {
-    const rows = deriver(ROOTS).rows("sighting") ?? []
+    const rows = [...deriver(ROOTS).rows("sighting")!]
     expect(rows.at(-1)?.at).toBe("akasha:pages/rite/vigil.rite.sightings.jsonl#0")
   })
 

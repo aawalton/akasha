@@ -23,17 +23,22 @@ function stemOf(at: string): string {
   return dot < 0 ? last : last.slice(0, dot)
 }
 
-function facetsIn(rows: readonly Row[], keys: readonly string[], name: string): ReadonlySet<string> {
+function facetsIn(rows: Iterable<Row>, keys: readonly string[], name: string): ReadonlySet<string> {
   const wanted = slugNamed(name)
   const found = new Set<string>([name, wanted])
-  const one = rows.find(
-    (row) =>
+  let one: Row | undefined
+  for (const row of rows) {
+    const names =
       stemOf(row.at) === wanted ||
       keys.some((key) => {
         const held = textOf(row.values, key)
         return held !== null && (held === name || held === wanted)
       })
-  )
+    if (names) {
+      one = row
+      break
+    }
+  }
   if (one === undefined) return found
   for (const key of keys) {
     const held = textOf(one.values, key)

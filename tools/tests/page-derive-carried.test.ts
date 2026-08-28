@@ -30,7 +30,8 @@ describe("a large property, which is loaded only where it is asked for by name",
 })
 
 const site = (named: string, carries?: { readonly body: boolean }): Values =>
-  deriver(ROOTS, carries).rows("site")!.find((row) => row.at.endsWith(`/${named}.site.md`))!.values
+  [...deriver(ROOTS, carries).rows("site")!].find((row) => row.at.endsWith(`/${named}.site.md`))!
+    .values
 
 describe("a page's body", () => {
   it("is carried where it is asked for, a body being a property like any other", () => {

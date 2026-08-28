@@ -200,8 +200,8 @@ describe("a key a property definition works out with an expression, read through
 
   it("answers nothing for a key whose expression it refuses, and names the property in a fault", () => {
     const found = deriver(roots(PLAIN))
-    const rows = found.rows("claude-account")
-    expect(rows?.every((row) => row.values.broken === null)).toBe(true)
+    const rows = [...found.rows("claude-account")!]
+    expect(rows.every((row) => row.values.broken === null)).toBe(true)
     expect(found.faults()).toContain(
       "`claude-account-broken` states an `expression` this evaluator refuses: `min` reads 2 arguments, and 1 stands here"
     )

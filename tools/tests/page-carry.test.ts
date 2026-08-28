@@ -54,13 +54,15 @@ const ROOTS: Roots = {
 }
 
 const rowOf = (named: string): Record<string, unknown> => {
-  const found = deriver(ROOTS).rows("gauge")!.find((row) => row.at.endsWith(`/${named}.gauge.md`))
+  const found = [...deriver(ROOTS).rows("gauge")!].find((row) => row.at.endsWith(`/${named}.gauge.md`))
   return found!.values as Record<string, unknown>
 }
 
+// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
+// the deriver has to report stands only once every page has been walked.
 const faultsOf = (): readonly string[] => {
   const found = deriver(ROOTS)
-  found.rows("gauge")
+  Array.from(found.rows("gauge") ?? [])
   return found.faults()
 }
 

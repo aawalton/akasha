@@ -38,7 +38,12 @@ const ROOTS: Roots = {
 }
 
 const held = (key: string): ReadonlyMap<string, unknown> =>
-  new Map(deriver(ROOTS).rows("badge")!.map((row) => [row.at.replace(/^.*\/|\.badge\.md$/g, ""), row.values[key]]))
+  new Map(
+    [...deriver(ROOTS).rows("badge")!].map((row) => [
+      row.at.replace(/^.*\/|\.badge\.md$/g, ""),
+      row.values[key],
+    ])
+  )
 
 describe("the default a property declaration states", () => {
   it("stands on a page stating no such key, whether the default is one value", () => {

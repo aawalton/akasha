@@ -45,9 +45,8 @@ const ROOTS: Roots = {
 }
 
 const propertiesOf = (named: string): unknown =>
-  deriver(ROOTS)
-    .rows("page-type")!
-    .find((row) => row.at.endsWith(`/${named}.page-type.md`))!.values.properties
+  [...deriver(ROOTS).rows("page-type")!].find((row) => row.at.endsWith(`/${named}.page-type.md`))!
+    .values.properties
 
 describe("the properties a page type carries", () => {
   test("is every property declared on it and every one up its extends chain, sorted", () => {

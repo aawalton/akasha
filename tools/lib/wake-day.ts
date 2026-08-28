@@ -45,19 +45,25 @@ export function sleepBlocksOn(roots: Roots, dayStr: string): readonly SleepBlock
   const derive = deriverFor(roots)
   const days = derive.rows("daily-tracking")
   if (days === null) return []
-  const day = days.find((row) => textAt(row.values, "date") === dayStr)
-  if (day === undefined) return []
-  const dayId = textAt(day.values, "id")
+  let dayId: string | null = null
+  for (const row of days) {
+    if (textAt(row.values, "date") !== dayStr) continue
+    dayId = textAt(row.values, "id")
+    break
+  }
   if (dayId === null) return []
   const sessions = derive.rows("session-tracking")
   if (sessions === null) return []
-  return sessions
-    .filter((row) => textAt(row.values, "daily-tracking") === dayId)
-    .map((row) => ({
+  const blocks: SleepBlock[] = []
+  for (const row of sessions) {
+    if (textAt(row.values, "daily-tracking") !== dayId) continue
+    blocks.push({
       title: row.values.title,
       startTime: row.values["start-time"],
       endTime: row.values["end-time"],
-    }))
+    })
+  }
+  return blocks
 }
 
 export function wakeInstantOn(roots: Roots, dayStr: string): string {

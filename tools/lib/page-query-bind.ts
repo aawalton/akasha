@@ -2,7 +2,6 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { declaredFor } from "../page/page-rows-home.ts"
 import { kebabized } from "../../page/property/key-spelling.ts"
 import type { PageQuery, Test } from "./page-query.ts"
-import type { Row } from "./page-derive-shape.ts"
 import type { Roots } from "../../page/page.ts"
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
@@ -92,18 +91,6 @@ export function documentFrom(
     .map((one) => unstatedSays(one, permitted))
   if (unstated.length === 0) return query
   return { ...query, unreadable: [...(query.unreadable ?? []), ...unstated] }
-}
-
-export function unfoundIn(
-  keys: readonly string[] | undefined,
-  rows: readonly Row[],
-  typeOf: (key: string) => string | null
-): readonly string[] {
-  if (keys === undefined || rows.length === 0) return []
-  const missing = keys
-    .filter((key) => typeOf(key) === null)
-    .filter((key) => !rows.some((row) => row.values[key] !== undefined))
-  return [...new Set(missing)].sort()
 }
 
 const LIST_TAKE = "list(text)"
