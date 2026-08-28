@@ -4,7 +4,8 @@ import { existsSync, readFileSync, readdirSync, rmdirSync, statSync } from "node
 import { dirname } from "node:path"
 import { sidecarsOf } from "../../../page/sidecar/sidecar.ts"
 import { git, heldByRepo } from "../../../repo/git/git.ts"
-import { land, LandingRefused, MISSING, removeOutside } from "../../../repo/land/land.ts"
+import { land, LandingRefused, MISSING } from "../../../repo/land/land.ts"
+import { removeOutside } from "../../../repo/land/outside.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, valueOf } from "../../../patches/patch.ts"
 
