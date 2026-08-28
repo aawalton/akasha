@@ -37,3 +37,16 @@ export function onceInCall<T>(key: string, make: () => T): T {
   cache.set(key, made)
   return made
 }
+
+/**
+ * Puts an answer into the open call, replacing whatever was held under that key.
+ *
+ * WHOEVER JUST WROTE THE ANSWER KNOWS IT BEST. A writer that has put a value on disk holds the new
+ * value here rather than dropping the key, so the next reader in the same call is served the truth
+ * without going back to disk for it, and never the value from before the write.
+ *
+ * OUTSIDE A CALL THIS DOES NOTHING, so a writer need not ask whether one is open.
+ */
+export function holdInCall<T>(key: string, value: T): void {
+  calls.getStore()?.set(key, value)
+}

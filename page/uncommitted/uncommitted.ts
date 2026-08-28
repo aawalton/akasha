@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { parse, stringify } from "yaml"
+import { holdInCall, onceInCall } from "../../during-call/during-call.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -33,7 +34,11 @@ export function uncommittedPathFor(pagePath: string): string {
   return `${pagePath.slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
 }
 
-export function readUncommitted(pagePath: string): Record<string, unknown> | null {
+function heldUnder(pagePath: string): string {
+  return `uncommitted:${uncommittedPathFor(pagePath)}`
+}
+
+function readUncommittedNow(pagePath: string): Record<string, unknown> | null {
   let raw: string
   try {
     raw = readFileSync(uncommittedPathFor(pagePath), "utf8")
@@ -51,17 +56,34 @@ export function readUncommitted(pagePath: string): Record<string, unknown> | nul
     : null
 }
 
+/**
+ * What stands beside a page, read once per call rather than once per key asked of it.
+ *
+ * ASKING FOR SIX KEYS PARSED THE FILE SIX TIMES. A caller reads one value at a time, so reading one
+ * seat's turn state re-read and re-parsed the same YAML for every key, and a fleet colour read paid
+ * 78 parses to answer 13 questions.
+ *
+ * NOTHING IS HELD OUTSIDE A CALL, which is what keeps this honest across processes. The file is a
+ * channel between processes — a supervisor writes what a reader elsewhere is waiting to see — so a
+ * hold that outlived one call would show a reader a state the writer had already left. A long-lived
+ * process that opens no call goes to disk every time, as it did before.
+ */
+export function readUncommitted(pagePath: string): Record<string, unknown> | null {
+  return onceInCall(heldUnder(pagePath), () => readUncommittedNow(pagePath))
+}
+
 export function writeUncommitted(pagePath: string, values: Record<string, unknown>): void {
   const path = uncommittedPathFor(pagePath)
   mkdirSync(dirname(path), { recursive: true })
   const scratch = `${path}.${process.pid}.part`
   writeFileSync(scratch, stringify(values, STRINGIFY_OPTIONS), "utf8")
   renameSync(scratch, path)
+  holdInCall(heldUnder(pagePath), values)
 }
 
 export function patchUncommitted(pagePath: string, values: Record<string, unknown>): void {
   exclusively(uncommittedPathFor(pagePath), () => {
-    writeUncommitted(pagePath, { ...(readUncommitted(pagePath) ?? {}), ...values })
+    writeUncommitted(pagePath, { ...(readUncommittedNow(pagePath) ?? {}), ...values })
   })
 }
 
@@ -71,7 +93,7 @@ export function patchUncommittedUnder(
   values: Record<string, unknown>
 ): void {
   exclusively(uncommittedPathFor(pagePath), () => {
-    const held = readUncommitted(pagePath) ?? {}
+    const held = readUncommittedNow(pagePath) ?? {}
     const standing = held[key]
     const under =
       typeof standing === "object" && standing !== null && !Array.isArray(standing)
@@ -83,4 +105,5 @@ export function patchUncommittedUnder(
 
 export function removeUncommitted(pagePath: string): void {
   rmSync(uncommittedPathFor(pagePath), { force: true })
+  holdInCall<Record<string, unknown> | null>(heldUnder(pagePath), null)
 }
