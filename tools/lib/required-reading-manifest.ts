@@ -2,16 +2,9 @@
 import { DOMAIN_REQUIRED_READING_KEY } from "./domain.ts"
 import { bullets } from "./markdown.ts"
 import { type Manifest, manifestOf } from "./manifest.ts"
-import { placeDirOf } from "../../page/page-types.ts"
 import { sectionNamed } from "./section.ts"
 
-export type { Manifest }
-
 const NOUN = "term"
-
-export function termDomainPathIn(root: string, slug: string): string {
-  return `${placeDirOf("domain")}/${slug}.md`
-}
 
 export const requiredReadingManifestOf = (body: string): Manifest => manifestOf(body, DOMAIN_REQUIRED_READING_KEY, NOUN)
 
