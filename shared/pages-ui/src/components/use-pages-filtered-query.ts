@@ -179,9 +179,22 @@ export function usePagesFilteredQuery(args: {
     propertiesByPageType,
   })
 
+  // AN AGGREGATE HAS TO STAND ON THE ROW, NOT ONLY IN THE CELL THAT DISPLAYS IT. These items reach
+  // `usePageView`, whose sort accessor reads `row[propertyId]` off them, so an aggregate computed
+  // only for display sorted on whatever the page happened to store under that id — stale where a
+  // value was written, null everywhere else — and produced a plausible wrong order.
+  //
+  // ROLLUPS ARE STILL NOT MERGED HERE. The second builder of these rows, in
+  // `use-view-tab-content-data.ts`, folds `useViewRowRollups` in; this one has never called it, so
+  // sorting this listing by a rollup has the fault this comment describes, unfixed.
   const pageRows = useMemo<PageRow[]>(
-    () => pages.map((p) => ({ ...toPageDataRecord(p.properties), _id: p._id })),
-    [pages]
+    () =>
+      pages.map((p) => {
+        const fill = rowAggregates.get(p._id)
+        const props = fill === undefined ? p.properties : { ...p.properties, ...fill }
+        return { ...toPageDataRecord(props), _id: p._id }
+      }),
+    [pages, rowAggregates]
   )
 
   const serverGrouped = useMemo<readonly ServerGroupedSection[] | undefined>(

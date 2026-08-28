@@ -286,14 +286,26 @@ export function useViewTabContentData({
     [rowPageTypeSlug, allPages, pageTypeSlugById]
   )
 
+  // AN AGGREGATE HAS TO STAND ON THE ROW, NOT ONLY IN THE CELL THAT DISPLAYS IT. The sort accessor
+  // reads `row[propertyId]` straight off these items — pages-core/src/view/sort-accessors.ts — so an
+  // aggregate folded in only at the leaf was never a sort key at all. It did not sort visibly badly
+  // either: `computeFillAggregatesForPage` is a fill, skipping any id the page already stores, so a
+  // row with a stored value sorted on that stale number while every other row sorted as null. The
+  // list came out ordered and plausible and wrong, which is worse than coming out unordered.
+  //
+  // Rollups were merged here for exactly this reason. Aggregates were left at the leaf beside them.
   const pageRows = useMemo<PageRow[]>(
     () =>
       pages.map((p) => {
-        const fill = rowRollups.get(p._id)
-        const props = fill ? { ...p.properties, ...fill } : p.properties
+        const aggregate = rowAggregates.get(p._id)
+        const rollup = rowRollups.get(p._id)
+        const props =
+          aggregate === undefined && rollup === undefined
+            ? p.properties
+            : { ...p.properties, ...aggregate, ...rollup }
         return { ...toPageDataRecord(props), _id: p._id }
       }),
-    [pages, rowRollups]
+    [pages, rowAggregates, rowRollups]
   )
 
   const serverGrouped = useMemo<readonly ServerGroupedSection[] | undefined>(
