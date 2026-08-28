@@ -6,7 +6,7 @@ domain-slug: domain/checks-system
 
 # Claim
 
-Three seats writing a rule against absences read as answers made nine near-misses of that exact kind in one night, across eight incidents, each caught only by a number that failed to move.
+Three seats writing a rule against absences read as answers made ten near-misses of that exact kind in one night, across nine incidents, each caught only by a number that failed to move.
 
 The corpus is said to state the rule 66 times without a directive to cite, a figure recorded below as unreproduced. That says the code obeys it. These nine say it is not obvious to the people arguing for it, which is what `Cut The Obvious` asks before a line earns its cost.
 
@@ -31,6 +31,12 @@ A seat sent to verify that figure then reported it reproducing, and offered as p
 **A truncated list read as a whole list.** A per-item list showed 373 failures where the summary line beneath it said 3. An agent was dispatched against 373.
 
 **A reading taken after its subject moved.** A count was re-read after the tree had changed under it, and the difference attributed to a mistake that had not been made.
+
+**An answer truncated by its reader.** `ops tests run` was asked for the suites covering seven trees and answered honestly, in two processes: `Ran 240 tests across 20 files` and `Ran 150 tests across 16 files`, three failures over 36 files. The run was piped through `tail -30`, which cut the first process's summary off the top, and what survived — `145 pass`, `3 fail`, 16 files — was reported as the run. The count was right and the population was one process of two. It was wrong in the direction that flatters: 36 files sounds like more coverage than 16, and the smaller was claimed while being believed the larger.
+
+Every defence this page argues for passes it clean. The command was cited. The number was taken by the agent quoting it rather than inherited. The denominator was named, and was real — it was simply a different denominator from the one being described. Nor would the repair aimed at this family have caught it: `ac89eb781`, landed an hour earlier by the same agent, voids a verdict holding a process that printed no summary, and here every process printed one. **The instrument was truthful and the reader narrowed it**, which is the one shape on this list with no guard standing in front of it.
+
+It was caught as the paragraph below says the others were — a second figure produced for another reason, a claim already flagged as unverified that had to be closed, and 390 tests across 36 files refused to agree with 150 across 16. What made the difference on the second pass was reading the whole output rather than its tail. **Read the whole answer before quoting any of it** is a habit rather than a rule, and no form on this page would have supplied it.
 
 **The sixty-six is unreproduced.** The figure in the claim is another agent's measurement, and the search that produced it is not stated on this page. An independent search for the warrant's own words returns 5. That is not one population counted two ways — it is two populations, and without knowing which was counted neither number checks the other. The figure has since been repeated in at least four messages, taken from this page without anyone asking what was counted, which is how a number nobody can re-derive keeps travelling. It is recorded here rather than corrected or deleted: a search that will not reproduce is not a search shown false, and the honest state is unreproduced pending someone naming the population. This is the finding's own subject applied to its own evidence.
 
