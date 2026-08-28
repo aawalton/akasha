@@ -37,7 +37,7 @@ Filed as `unused-code/four-names-in-the-page-index-surface-have-no-production-re
 
 **A generator satisfies `Iterable` and is exhausted after one pass**, so a caller looping twice reads the second pass as empty rather than as an error; whatever answers rows gives a fresh walk on each `[Symbol.iterator]`.
 
-**`link/link.ts` is not the index and comes over on its own.** It is pure markdown link parsing co-located under `page/index/` by accident, with `checks-system/check/links-resolve` the sole external caller of all five names it takes. Nothing about moving it waits on the index.
+**`link/link.ts` does not come over on its own.** It imports `proseOnly` from `page/markdown/markdown.ts`, which `composite: true` refuses across packages, and a second copy of that module stands at `tools/lib/markdown.ts`. Its external callers are three, not one.
 
 **Answer Or Refuse stands on `pages/domain/pages-system.domain.md`, and its siting is an open question for Alan.** Three of the nine instances it came off sit under `pages-system` and the rest do not — `test` sits under `domain/instrument-kind` and `test-file` under `file-kind-domain/file-kind-ts`, siblings rather than descendants. Either it is cited from its own three, with the rest as corroboration, or it moves to a craft domain wide enough to reach all nine, at what a line on a widely-read domain costs every reader at every boot. The answer to Dilution is that the corpus arrived at this rule sixty-six times before any page wrote it down: the phrase two checks use, "reads exactly like", stands 66 times across eight top-level areas, 49 of them in `pages/`, canonically on `pages/refusal/command-surface-unread.refusal.md:14`.
 
