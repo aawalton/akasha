@@ -10,7 +10,7 @@ import {
   NETPOL_SUBNET_ROUTER_LABELS,
   TLS_LABELS,
 } from "./synth-constants"
-import { statefulsetYaml, subnetRouterDeploymentYaml } from "./synth-statefulsets"
+import { statefulsetYaml } from "./synth-statefulsets"
 
 const APP_NAME = "headscale"
 const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"
@@ -291,6 +291,5 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     { name: "network-policy", yaml: networkPolicyYaml() },
     { name: "service", yaml: serviceYaml() },
     { name: "statefulset", yaml: statefulsetYaml() },
-    { name: "subnet-router-deployment", yaml: subnetRouterDeploymentYaml() },
   ]
 }

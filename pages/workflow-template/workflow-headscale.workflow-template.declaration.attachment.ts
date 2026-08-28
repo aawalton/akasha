@@ -147,7 +147,8 @@ export default workflow("headscale", {
       ...kubectlApply({
         name: "headscale-apply-subnet-router",
         namespace: "headscale",
-        files: "infra/k8s/src/headscale/generated/subnet-router-deployment.generated.yaml",
+        files:
+          "infra/k8s/src/headscale/talos-subnet-router/generated/subnet-router-deployment.generated.yaml",
         serverSide: true,
       }),
       dependsOn: ["headscale-apply-subnet-router-secret", "headscale-wait-for-rollout"],
