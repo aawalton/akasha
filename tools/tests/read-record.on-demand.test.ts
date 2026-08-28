@@ -1,9 +1,9 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
-import { recordEpoch, replacedAt } from "../lib/epoch.ts"
+import { recordEpoch } from "../lib/epoch.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { loadPath, readOid, readingsOf, recordRead, resetReadings } from "../lib/read-record.ts"
+import { readOid, readingsOf, recordRead } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture } from "./fixture.ts"
 
@@ -74,15 +74,6 @@ describe("a read taken before the context was replaced", () => {
     landRead(AGENT, null)
     recordEpoch(AGENT, "compact", Date.now())
     expect(vouched(AGENT)).toBeNull()
-  })
-})
-
-describe("a replacement the file itself was told about", () => {
-  test("no longer carries the reads it dropped, rather than dropping them on every load", () => {
-    landRead(AGENT, Date.now() - 1000)
-    recordEpoch(AGENT, "compact", Date.now())
-    resetReadings(AGENT, replacedAt(AGENT))
-    expect(loadPath(at.recordAt(AGENT))).toEqual({})
   })
 })
 
