@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { bool, C, L, MIXED, NOTHING, NUMBER, num, refused, TEXT, text } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Refused where the types do not meet
-// ---------------------------------------------------------------------------
-
 export const refusedTypes: FormulaCase[] = [
   {
     name: "adding a text to a number is refused",
@@ -35,7 +31,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: MIXED,
     values: { name: text("41") },
     expected: refused("check", "types-do-not-meet", ["name", "text"]),
-    // "Text that looks like a number is still text."
   },
   {
     name: "no conversion is made to let two types meet",
@@ -136,8 +131,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("check", "types-do-not-meet", ["number"]),
-    // Running this would never reach the `1`. Checking is not running, and
-    // `language-failure.domain.md:27` puts the check before the doing.
   },
   {
     name: "a type fault on a fallback's unreached side is still refused",
@@ -148,8 +141,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: MIXED,
     values: { count: num(1) },
     expected: refused("check", "types-do-not-meet", ["number", "text"]),
-    // `{count}` is there, so running this would answer from the left alone
-    // and never reach the text. It is refused before it is ever run.
   },
   {
     name: "a fallback between a boolean and a number is refused",
@@ -180,8 +171,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: MIXED,
     values: {},
     expected: refused("check", "instant-read-outside-a-function", ["instant"]),
-    // "an instant [...] which only a function taking one may read". An
-    // operator is not a function.
   },
   {
     name: "an instant added to a number is refused",
@@ -222,8 +211,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: MIXED,
     values: { count: num(1) },
     expected: refused("check", "types-do-not-meet", ["number", "text"]),
-    // `==` reaches across absence and nothing else; two kinds that could never
-    // be the same are a fault the check can name.
   },
   {
     name: "comparing a number against a boolean is refused",
@@ -270,8 +257,6 @@ export const refusedTypes: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("check", "types-do-not-meet", ["text"]),
-    // `<` is whether one *number* is less than another. A language ordering
-    // text alphabetically would answer true.
   },
   {
     name: "at most over a text is refused",
@@ -312,7 +297,5 @@ export const refusedTypes: FormulaCase[] = [
     shape: MIXED,
     values: {},
     expected: refused("check", "instant-read-outside-a-function", ["instant"]),
-    // The plainest way to ask which of two instants is later, and there is no
-    // route to it: an operator is not a function taking an instant.
   },
 ]

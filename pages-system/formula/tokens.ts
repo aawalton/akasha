@@ -1,10 +1,3 @@
-/**
- * The characters a formula is written in, read into tokens.
- *
- * Tokenizing knows nothing of how tokens combine: it refuses only a character
- * the language has no use for. What the tokens mean is left to reading.
- */
-
 import type { Operator, TextPart } from "./tree.ts"
 
 const digit = /[0-9]/
@@ -16,7 +9,6 @@ const twoCharacterOperators: ReadonlySet<string> = new Set(["??", "&&", "==", "!
 
 const oneCharacterOperators: ReadonlySet<string> = new Set(["<", ">", "+", "-", "*", "/"])
 
-/** A refusal on its way out of reading, carrying where it happened. */
 export class ReadingRefused extends Error {
   readonly at: number
 
@@ -41,7 +33,6 @@ export const isMark = (token: Token, mark: Mark): boolean => token.kind === "mar
 
 export const isWord = (token: Token, word: string): boolean => token.kind === "word" && token.word === word
 
-/** How a token is spelled back. */
 export const spelling = (token: Token): string => {
   if (token.kind === "number") return String(token.number)
   if (token.kind === "text") return "a text literal"
@@ -51,7 +42,6 @@ export const spelling = (token: Token): string => {
   return token.kind === "mark" ? token.mark : "the end of the formula"
 }
 
-/** What to say about a character the language has no use for. */
 const adviceAbout = (character: string): string => {
   const advice: Readonly<Record<string, string>> = {
     "=": "a single `=` compares nothing; write `==` to ask whether two values are the same",
@@ -68,11 +58,6 @@ const adviceAbout = (character: string): string => {
   return advice[character] ?? `\`${character}\` is no part of the formula language`
 }
 
-/**
- * A reference: a property key between braces. The spec spells the braces, not
- * the key, which is read here as letters, digits, underscores and hyphens, with
- * no space inside the braces.
- */
 const takeReference = (source: string, open: number): { key: string; after: number } => {
   let at = open + 1
   let key = ""
@@ -87,7 +72,6 @@ const takeReference = (source: string, open: number): { key: string; after: numb
   return { key, after: at + 1 }
 }
 
-/** A text literal, holding no quote of its own, with every reference in it filled where it stands. */
 const takeText = (source: string, open: number): { parts: TextPart[]; after: number } => {
   const parts: TextPart[] = []
   let characters = ""
@@ -116,11 +100,6 @@ const takeText = (source: string, open: number): { parts: TextPart[]; after: num
   }
 }
 
-/**
- * A number literal: digits, and at most one point with digits on both sides.
- * There is no sign and no exponent. A leading `-` is not part of the literal:
- * it is the negation operator, read a rung above this.
- */
 const takeNumber = (source: string, start: number): { number: number; after: number } => {
   let at = start
   while (at < source.length && digit.test(source[at] as string)) at += 1
@@ -136,7 +115,6 @@ const takeNumber = (source: string, start: number): { number: number; after: num
   return { number: Number(source.slice(start, at)), after: at }
 }
 
-/** Every token in a formula's text, ending with an end token. */
 export const tokensIn = (source: string): Token[] => {
   const tokens: Token[] = []
   let at = 0

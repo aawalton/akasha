@@ -15,10 +15,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Text literals, and references inside them
-// ---------------------------------------------------------------------------
-
 export const textLiterals: FormulaCase[] = [
   {
     name: "a text literal answers its own characters",
@@ -129,7 +125,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: { name: text("{name}") },
     expected: answersText("{name}"),
-    // Nothing in the specification says a filled value is read again.
   },
   {
     name: "braces in a value filled into a text literal are not read again",
@@ -190,7 +185,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { first: { type: TEXT }, second: { type: TEXT } },
     values: { first: text("green"), second: text("day") },
     expected: refused("check", "types-do-not-meet", ["+", "text"]),
-    // `+` adds one number to another; two texts do not meet it.
   },
   {
     name: "a text literal that is nothing but an absent reference answers absent",
@@ -211,7 +205,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: {},
     expected: ABSENT,
-    // Not "hello ". The words around the hole do not survive it.
   },
   {
     name: "an absent reference does not render as the empty string",
@@ -222,10 +215,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: {},
     expected: answersBoolean(false),
-    // The literal answers absent, and absent is equal only to absent. An
-    // implementation that renders a hole as nothing answers true here. The
-    // empty string is a made value: it answers in place of the one meant and
-    // nothing after it can tell which it got.
   },
   {
     name: "an absent reference does not render as the word absent",
@@ -236,7 +225,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: {},
     expected: answersBoolean(false),
-    // An implementation that spells the absence into the text answers true.
   },
   {
     name: "a text literal holding an absent reference is equal to absent",
@@ -257,7 +245,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { first: { type: TEXT }, second: { type: TEXT } },
     values: { first: text("green") },
     expected: ABSENT,
-    // Not "green-". A partly filled answer is the defect this line closes.
   },
   {
     name: "a text literal answers absent where the first of two references is absent",
@@ -292,8 +279,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
     values: { date: text("2026-08-27") },
     expected: ABSENT,
-    // A page named from more than one part, missing one. Rendering the gap as
-    // nothing answers "-2026-08-27", which reads like a name and is not one.
   },
   {
     name: "the same name shape answers its name where both parts are there",
@@ -314,7 +299,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { "source-slug": { type: TEXT } },
     values: { "source-slug": text("royal-road") },
     expected: answersText("royal-road"),
-    // The braces bound the key, so nothing inside them is read as an operator.
   },
   {
     name: "a fallback around a text literal is the way out",
@@ -325,8 +309,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
     values: { date: text("2026-08-27") },
     expected: answersText("untitled"),
-    // The literal answers absent, so the page type gets a whole name it chose
-    // rather than a partly filled one it did not.
   },
   {
     name: "a fallback around a text literal keeps the literal where nothing is absent",
@@ -351,8 +333,6 @@ export const textLiterals: FormulaCase[] = [
     },
     values: { date: text("2026-08-27") },
     expected: answersText("unknown-2026-08-27"),
-    // The hole is filled where it is declared rather than where it is read, so
-    // every literal naming `safe-source` is whole.
   },
   {
     name: "a computed key that is a text literal carries the absence outward",
@@ -376,8 +356,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: {},
     expected: ABSENT,
-    // The winning row's value is worked out, and what it works out to is
-    // absent.
   },
   {
     name: "a present but empty reference is not an absent one",
@@ -388,8 +366,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NAME,
     values: { name: text("") },
     expected: answersText("ab"),
-    // The page holds something under the key, so nothing is absent and the
-    // literal answers. Empty is a value; absent is the lack of one.
   },
   {
     name: "an expression inside braces is not a key",
@@ -400,9 +376,6 @@ export const textLiterals: FormulaCase[] = [
     shape: { name: { type: TEXT }, id: { type: TEXT } },
     values: { id: text("019f1412") },
     expected: refused("read", "unreadable"),
-    // A formula names a property by putting its key between braces, and a key
-    // is all that goes there. The fallback is written outside the braces, or
-    // on the key's own definition.
   },
   {
     name: "a quote inside a text literal is refused when the formula is read",
@@ -423,8 +396,6 @@ export const textLiterals: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("read", "quote-inside-text-literal"),
-    // The specification allows a text literal no quote of its own and names no
-    // escape, so nothing makes this one legal.
   },
   {
     name: "an unclosed text literal is refused when the formula is read",

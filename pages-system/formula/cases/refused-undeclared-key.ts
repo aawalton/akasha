@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { C, COUNT, call, FLAG, L, NAME, NOTHING, NUMBER, num, refused } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Refused for a key the page type does not declare
-// ---------------------------------------------------------------------------
-
 export const refusedUndeclaredKey: FormulaCase[] = [
   {
     name: "a formula naming a key the page type does not declare is refused",
@@ -35,7 +31,6 @@ export const refusedUndeclaredKey: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1), extra: num(2) },
     expected: refused("check", "undeclared-key", ["extra"]),
-    // The shape settles what may be named, not what the page happens to hold.
   },
   {
     name: "an undeclared key inside a text literal is refused",
@@ -66,8 +61,6 @@ export const refusedUndeclaredKey: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: refused("check", "undeclared-key", ["missing"]),
-    // The check reads the whole formula; that the fallback would never reach
-    // its right side is a run-time fact.
   },
   {
     name: "an undeclared key on a side the short circuit never reaches is refused",

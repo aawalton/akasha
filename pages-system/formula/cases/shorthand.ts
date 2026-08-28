@@ -8,27 +8,6 @@ import type {
   Shape,
 } from "./cases.ts"
 
-// ---------------------------------------------------------------------------
-// Spellings the specification does not settle
-// ---------------------------------------------------------------------------
-
-/**
- * The case form, as `pages/domain/formula-language.domain.md` lines 36, 38 and
- * 42 spell it.
- *
- * `case(` opens and `)` closes, with the rows separated by commas (line 36). A
- * row is its test, then `->`, then its value (line 38). The last row is an
- * `otherwise` row, written with the word `otherwise` where its test would be
- * (line 42), and line 40 requires it.
- *
- *     case({ram} == "64gb" -> 6400, {ram} == "32gb" -> 3200, otherwise -> 0)
- *
- * Whitespace before `->` is alignment rather than syntax, so no case here is
- * written to depend on it: one space sits on each side of every `->`, and one
- * space follows each comma.
- *
- * Change this function and every case-form case is re-spelled.
- */
 export function caseForm(rows: Array<{ test: string; value: string }>, otherwise: string): string {
   const written = [...rows, { test: "otherwise", value: otherwise }]
     .map((row) => `${row.test} -> ${row.value}`)
@@ -36,29 +15,19 @@ export function caseForm(rows: Array<{ test: string; value: string }>, otherwise
   return `case(${written})`
 }
 
-/** A case form written without its `otherwise` row, for the refusal cases. */
 export function caseFormWithoutOtherwise(rows: Array<{ test: string; value: string }>): string {
   const written = rows.map((row) => `${row.test} -> ${row.value}`).join(", ")
   return `case(${written})`
 }
 
-/**
- * A call is its name, then its arguments between parentheses, separated by
- * commas, as `pages/domain/formula-language.domain.md:46` spells it.
- */
 export function call(name: string, ...args: string[]): string {
   return `${name}(${args.join(", ")})`
 }
-
-// ---------------------------------------------------------------------------
-// Short constructors, so a case reads as the claim it tests
-// ---------------------------------------------------------------------------
 
 export const TEXT: FormulaType = { kind: "text" }
 export const NUMBER: FormulaType = { kind: "number" }
 export const BOOLEAN: FormulaType = { kind: "boolean" }
 export const INSTANT: FormulaType = { kind: "instant" }
-/** How a page type declares a day. The value under such a key is a date. */
 export const CALENDAR_DATE: FormulaType = { kind: "calendar-date" }
 export const listOf = (of: FormulaType): FormulaType => ({ kind: "list", of })
 
@@ -89,7 +58,6 @@ export const refused = (
   ...(mustName ? { mustName } : {}),
 })
 
-// Shapes reused across many cases.
 export const NOTHING: Shape = {}
 export const COUNT: Shape = { count: { type: NUMBER } }
 export const NAME: Shape = { name: { type: TEXT } }
@@ -105,7 +73,6 @@ export const MIXED: Shape = {
   finish: { type: INSTANT },
 }
 
-// The pages this corpus is written from.
 export const FORMULA_LANGUAGE = "pages/domain/formula-language.domain.md"
 export const FORMULA_ABSENT_VALUE = "pages/domain/formula-absent-value.domain.md"
 export const FORMULA_VALUES = "pages/list/formula-values.list.md"
@@ -123,7 +90,6 @@ export const namingNo = (page: string, section: string, ...names: string[]): Cit
   names,
 })
 
-// Where each claim is written, once.
 export const L = {
   reference: onLine(FORMULA_LANGUAGE, 26),
   referenceInText: onLine(FORMULA_LANGUAGE, 28),
@@ -194,8 +160,6 @@ export const L = {
   declaredNotGuessed: onLine(LANGUAGE_TYPE_SYSTEM, 17),
   leastPower: onLine(LANGUAGE_POWER, 17),
 
-  // Claims about what a list leaves out. No line carries an absence, so these
-  // name the section and the word that must not appear among its entries.
   noOrOperator: namingNo(FORMULA_OPERATORS, "List", "||"),
   noNotOperator: namingNo(FORMULA_OPERATORS, "List", "!"),
   noRemainderOperator: namingNo(FORMULA_OPERATORS, "List", "%"),

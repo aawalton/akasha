@@ -20,10 +20,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// References — putting a key between braces
-// ---------------------------------------------------------------------------
-
 export const references: FormulaCase[] = [
   {
     name: "reference answers the number under its key",

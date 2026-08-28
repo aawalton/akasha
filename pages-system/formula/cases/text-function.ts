@@ -17,18 +17,6 @@ import {
   text,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// `text`, which writes a whole number out as its digits
-//
-// A bare number does not fill a text literal: a number has many spellings and
-// choosing one would be a value the formula never wrote. `text` is the one way
-// a number reaches a name, and it answers absent rather than rounding where the
-// number is not whole.
-//
-// It takes a number and nothing else. A date needs no function, filling a
-// literal as it stands.
-// ---------------------------------------------------------------------------
-
 const NUMBERED: Shape = {
   count: { type: NUMBER },
   name: { type: TEXT },
@@ -78,8 +66,6 @@ export const textFunction: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersText("2"),
-    // `2.0` and `2` are one number written two ways. The digits are of the
-    // number, so both write out the same.
   },
   {
     name: "a large whole number is written in digits rather than exponent notation",
@@ -90,9 +76,6 @@ export const textFunction: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersText("1000000000000000000000"),
-    // Not `1e+21`. Two spellings for one value is what writing a number out
-    // has to avoid, and an implementation handing the number to its runtime's
-    // default spelling gets the exponent here.
   },
   {
     name: "text over a number that is not whole answers absent",
@@ -103,8 +86,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: { count: num(1.5) },
     expected: ABSENT,
-    // Not "2", not "1", not "1.5". Refusing the value the program cannot use
-    // beats making one it can, and absent is still an answer.
   },
   {
     name: "text over a number that is not whole is not equal to any text",
@@ -115,7 +96,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: { count: num(1.5) },
     expected: answersBoolean(false),
-    // An implementation spelling the fraction out answers true here.
   },
   {
     name: "text over an absent number answers absent",
@@ -163,8 +143,6 @@ export const textFunction: FormulaCase[] = [
     },
     values: { count: num(1.5) },
     expected: ABSENT,
-    // The number is there and the text of it is not, so the whole literal is
-    // absent. Not "n".
   },
   {
     name: "a bare number in a text literal is refused",
@@ -175,8 +153,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: { count: num(3) },
     expected: refused("check", "types-do-not-meet", ["count", "number"]),
-    // Writing the number in would be a conversion made to let two types meet.
-    // `text` on a key of its own is the way through.
   },
   {
     name: "a text literal that is nothing but a number reference is refused",
@@ -197,9 +173,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: { count: num(3) },
     expected: refused("read", "unreadable"),
-    // A formula names a property by putting its key between braces, and a key
-    // is all that goes there. `text` is called on a key of its own, and the
-    // literal names that key.
   },
   {
     name: "text over a boolean is refused",
@@ -240,7 +213,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["day", "date"]),
-    // A date fills a text literal as it stands, so nothing takes one here.
   },
   {
     name: "text over a text is refused",
@@ -251,7 +223,6 @@ export const textFunction: FormulaCase[] = [
     shape: NUMBERED,
     values: {},
     expected: refused("check", "types-do-not-meet", ["name", "text"]),
-    // It writes a number out. It is not a general way to make anything text.
   },
   {
     name: "text given no argument is refused",
@@ -286,7 +257,6 @@ export const textFunction: FormulaCase[] = [
     },
     values: { inventory: text("temper"), "chunk-index": num(3) },
     expected: answersText("temper-3"),
-    // A real name shape, held by many pages.
   },
   {
     name: "the chunk name shape written with a bare number is refused",

@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { answersNumber, C, L, NUMBER, num, refused, TEXT } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Refused for a cycle among a page type's formulas
-// ---------------------------------------------------------------------------
-
 export const refusedCycle: FormulaCase[] = [
   {
     name: "a formula naming itself is a cycle",
@@ -58,8 +54,6 @@ export const refusedCycle: FormulaCase[] = [
     },
     values: { count: num(1) },
     expected: refused("check", "formula-cycle", ["first", "second"]),
-    // The cycle is refused when the page type is checked, not when a formula
-    // that happens to touch it is run.
   },
   {
     name: "a cycle reached through a text literal is refused",
@@ -88,6 +82,5 @@ export const refusedCycle: FormulaCase[] = [
     },
     values: { count: num(2) },
     expected: answersNumber(10),
-    // Two paths reaching one key is a diamond, not a ring.
   },
 ]

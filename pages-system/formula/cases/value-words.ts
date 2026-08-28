@@ -11,10 +11,6 @@ import {
   refused,
 } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Value words, and words that are not
-// ---------------------------------------------------------------------------
-
 export const valueWords: FormulaCase[] = [
   {
     name: "the word true stands for a boolean",
@@ -146,7 +142,5 @@ export const valueWords: FormulaCase[] = [
     values: {},
     expected: refused("read", "unreadable"),
     provisional: "no-list-literal",
-    // Nothing in the specification spells a list literal; a list reaches a
-    // formula only from a key.
   },
 ]

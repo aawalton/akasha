@@ -42,14 +42,12 @@ const answer = (text: string): Value => runFormula(checked(text), values)
 const numberType = { kind: "number" } as const
 const textType = { kind: "text" } as const
 
-/** A page type that stands, for a test asking what it hands back. */
 const standing = (pageType: PageType): CheckedPageType => {
   const said = checkPageType(pageType)
   if (!said.ok) throw new Error(`refused: ${said.message}`)
   return said
 }
 
-/** A page type that does not stand, for a test asking why. */
 const refused = (pageType: PageType): PageTypeRefused => {
   const said = checkPageType(pageType)
   if (said.ok) throw new Error("this page type was expected not to stand")

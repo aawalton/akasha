@@ -1,10 +1,6 @@
 import type { FormulaCase } from "./cases.ts"
 import { C, COUNT, L, listOfValues, MIXED, NAME, NOTHING, num, refused, text } from "./shorthand.ts"
 
-// ---------------------------------------------------------------------------
-// Refused when the formula is read
-// ---------------------------------------------------------------------------
-
 export const refusedAtRead: FormulaCase[] = [
   {
     name: "an empty formula is refused",
@@ -125,8 +121,6 @@ export const refusedAtRead: FormulaCase[] = [
     shape: COUNT,
     values: { count: num(1) },
     expected: refused("read", "unreadable"),
-    // A formula names a property by putting its key between braces, and the
-    // specification names no step after that.
   },
   {
     name: "indexing a list is refused",

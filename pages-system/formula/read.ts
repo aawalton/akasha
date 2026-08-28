@@ -1,13 +1,3 @@
-/**
- * The first moment: reading a formula's text into a tree.
- *
- * Reading knows nothing of what a key holds, so it refuses only what is not
- * written in the language at all. What a formula names is left to checking.
- *
- * Each form stands in one function, so a re-spelling lands in one edit. What a
- * key and a number are made of is the part no page states.
- */
-
 import type { Refused } from "./formula.ts"
 import { refuse } from "./refused.ts"
 import { type Mark, ReadingRefused, isMark, isWord, spelling, type Token, tokensIn } from "./tokens.ts"
@@ -46,7 +36,6 @@ const operationOf = (
   at: number
 ): Expression => ({ node: "operation", operator, left, right, at })
 
-/** One rung of the precedence ladder: an operator joining tighter rungs from the left. */
 const takeRung = (
   reader: Reader,
   operators: ReadonlySet<Operator>,
@@ -61,7 +50,6 @@ const takeRung = (
   }
 }
 
-/** A comparison, which cannot follow another comparison. */
 const takeComparison = (reader: Reader): Expression => {
   const left = takeSum(reader)
   const token = here(reader)
@@ -78,11 +66,6 @@ const takeComparison = (reader: Reader): Expression => {
   return operationOf(token.operator, left, right, token.at)
 }
 
-/**
- * Negation: a `-` with nothing on its left. It binds tighter than every
- * operator, so `-{a} * {b}` is `(-{a}) * {b}`. A `-` with a value on its left
- * never reaches here, the rungs above having taken it as subtraction.
- */
 const takeNegation = (reader: Reader): Expression => {
   const token = here(reader)
   if (token.kind !== "operator" || token.operator !== "-") return takeValue(reader)
@@ -98,17 +81,12 @@ const takeConjunction = (reader: Reader): Expression => takeRung(reader, conjoin
 
 const takeCoalesce = (reader: Reader): Expression => takeRung(reader, coalescing, takeConjunction)
 
-/** Grouping: an expression between `(` and `)`. The `(` has been taken. */
 const takeGrouping = (reader: Reader): Expression => {
   const inner = takeExpression(reader)
   expectMark(reader, ")", "a `(` is opened and never closed")
   return inner
 }
 
-/**
- * A call: a name, then arguments between `(` and `)` separated by `,`. The name
- * has been taken and the `(` is next.
- */
 const takeCall = (reader: Reader, name: string, at: number): Expression => {
   step(reader)
   const argumentsGiven: Expression[] = []
@@ -123,14 +101,6 @@ const takeCall = (reader: Reader, name: string, at: number): Expression => {
   return { node: "call", name, arguments: argumentsGiven, at }
 }
 
-/**
- * A case: the word `case`, then rows between `(` and `)` separated by `,`. A
- * row is a test, `->`, and the value answered where that test answers true. The
- * last row's test is the bare word `otherwise`, and it is required.
- *
- * `case(` is spelled exactly like a call and is not one, so `case` is read as a
- * keyword before a word followed by `(` is read as a call.
- */
 const takeCase = (reader: Reader, at: number): Expression => {
   expectMark(reader, "(", "a case's rows are written between `(` and `)`")
   const rows: CaseRow[] = []
@@ -164,7 +134,6 @@ const takeCase = (reader: Reader, at: number): Expression => {
   return { node: "case", rows, otherwise, at }
 }
 
-/** A word standing for a value, a case, or the name of a call. */
 const takeNamed = (reader: Reader, word: string, at: number): Expression => {
   if (word === "true" || word === "false") {
     return { node: "boolean", boolean: word === "true", at }
@@ -181,7 +150,6 @@ const takeNamed = (reader: Reader, word: string, at: number): Expression => {
   )
 }
 
-/** One value, tighter than every operator. */
 const takeValue = (reader: Reader): Expression => {
   const token = step(reader)
   switch (token.kind) {
@@ -207,7 +175,6 @@ const takeValue = (reader: Reader): Expression => {
 
 const takeExpression = (reader: Reader): Expression => takeCoalesce(reader)
 
-/** Read a formula's text into a tree, or refuse it naming what was wrong and where. */
 export const readFormula = (source: string): Expression | Refused => {
   try {
     const reader: Reader = { tokens: tokensIn(source), index: 0 }

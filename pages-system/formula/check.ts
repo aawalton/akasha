@@ -1,29 +1,13 @@
-/**
- * The second moment: checking a tree against a shape.
- *
- * Checking refuses a formula naming a key the shape does not declare, and a
- * formula whose types do not meet. What passes answers a value or absent, and
- * never fails.
- *
- * Two further faults are found at this same moment and are true of a page
- * type's formulas together rather than of any one of them: a formula answering
- * a kind other than the type its property declares, and a cycle among the
- * formulas. Neither can be seen from one tree, so what finds them stands at the
- * bottom of this file and `checkPageType` puts it to work.
- */
-
 import type { DeclaredType, Refused, Shape, ValueType } from "./formula.ts"
 import { refuse } from "./refused.ts"
 import type { Expression, Operator } from "./tree.ts"
 
-/** What checking answers where nothing was wrong. */
 export type Typed = {
   readonly ok: true
   readonly type: ValueType
   readonly reads: readonly string[]
 }
 
-/** A refusal on its way out of checking, carrying where it happened. */
 class CheckingRefused extends Error {
   readonly at: number
 
@@ -33,19 +17,13 @@ class CheckingRefused extends Error {
   }
 }
 
-/** How a type is named in a refusal, in the terms the formula was written in. */
 const nameOf = (type: DeclaredType | null): string => {
   if (type === null) return "absent"
   return type.kind === "list" ? `list of ${type.of}` : type.kind
 }
 
-/** A name with the article that reads right before it. */
 const an = (name: string): string => `${"aeiou".includes(name[0] ?? "") ? "an" : "a"} ${name}`
 
-/**
- * How a piece of a formula is written, so a refusal names the value its writer
- * wrote rather than the step that broke over it.
- */
 const written = (expression: Expression): string => {
   switch (expression.node) {
     case "reference":
@@ -69,7 +47,6 @@ const written = (expression: Expression): string => {
   }
 }
 
-/** Whether two declared types are the same type. */
 const sameType = (one: DeclaredType, other: DeclaredType): boolean => {
   if (one.kind === "list") return other.kind === "list" && one.of === other.of
   return one.kind === other.kind
@@ -80,7 +57,6 @@ const holding = (kind: DeclaredType["kind"], absent: boolean): ValueType => ({
   absent,
 })
 
-/** The type of a key the shape declares, or a refusal naming the key. */
 const declaredType = (key: string, at: number, shape: Shape, reads: Set<string>): DeclaredType => {
   const declared = shape[key]
   if (declared === undefined) {
@@ -90,12 +66,6 @@ const declaredType = (key: string, at: number, shape: Shape, reads: Set<string>)
   return declared
 }
 
-/**
- * Whether a side holds what an operator takes.
- *
- * A side that only ever answers absent meets anything, since an operator given
- * an absent value answers absent.
- */
 const needs = (
   type: ValueType,
   kind: DeclaredType["kind"],
@@ -109,7 +79,6 @@ const needs = (
   )
 }
 
-/** Whether two sides hold one kind, an always-absent side meeting anything. */
 const meet = (
   left: ValueType,
   right: ValueType,
@@ -126,11 +95,6 @@ const meet = (
   )
 }
 
-/**
- * An instant is read only by a function taking one, so no operator may be given
- * one. `{start} < {finish}` is refused; `hoursBetween({start}, {finish})` is how
- * two instants are compared.
- */
 const notAnInstant = (type: ValueType, where: Expression, operator: Operator): void => {
   if (type.holds === null || type.holds.kind !== "instant") return
   throw new CheckingRefused(
@@ -219,7 +183,6 @@ const typeOfOperation = (
   return { holds: left.holds ?? right.holds, absent: left.absent && right.absent }
 }
 
-/** Whether a call was given the number of arguments its function takes. */
 const takesArguments = (
   expression: Expression & { node: "call" },
   count: number
@@ -246,8 +209,6 @@ const typeOfCall = (
     const given = takesArguments(expression, 1)
     const only = given[0] as Expression
     needs(typeOf(only, shape, reads), "number", only, "the argument of `text`")
-    // Always absent: a number that is not whole answers absent, which nothing
-    // about the argument's own type says.
     return holding("text", true)
   }
   if (name === "hoursBetween" || name === "contains" || name === "hasWord") {
@@ -350,7 +311,6 @@ const typeOf = (expression: Expression, shape: Shape, reads: Set<string>): Value
   }
 }
 
-/** Check a tree against a shape, or refuse it naming what was wrong and where. */
 export const checkTree = (tree: Expression, shape: Shape, source: string): Typed | Refused => {
   const reads = new Set<string>()
   try {
@@ -364,18 +324,6 @@ export const checkTree = (tree: Expression, shape: Shape, source: string): Typed
   }
 }
 
-// ---------------------------------------------------------------------------
-// What holds of a page type's formulas together rather than of any one of them
-// ---------------------------------------------------------------------------
-
-/**
- * How a formula's answer differs from the type its property declares, or null
- * where it meets it.
- *
- * A formula that only ever answers absent meets any declared type, the same way
- * an always-absent side meets any operator: the page holds nothing under that
- * key, and nothing is of no kind.
- */
 export const otherKindThanDeclared = (
   key: string,
   answers: ValueType,
@@ -385,17 +333,9 @@ export const otherKindThanDeclared = (
   return `\`${key}\` is declared ${an(nameOf(declared))}, and its formula answers ${an(nameOf(answers.holds))}`
 }
 
-/** How a cycle is named, in the terms the page type was written in. */
 export const cycleAmong = (ring: readonly string[]): string =>
   `a cycle among the formulas of ${ring.map((key) => `\`${key}\``).join(", ")}`
 
-/**
- * The first ring among a page type's computed keys, following what each formula
- * reads, or null where there is none.
- *
- * A key some formula reads but no formula computes ends a path rather than
- * standing on one, so it is walked no further.
- */
 export const ringAmong = (
   reads: ReadonlyMap<string, readonly string[]>
 ): readonly string[] | null => {

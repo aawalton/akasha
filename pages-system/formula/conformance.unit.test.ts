@@ -1,20 +1,3 @@
-/**
- * The conformance corpus, run against this evaluator.
- *
- * `cases/cases.ts` is plain data written from the specification alone, bound to
- * no function. This file is the binding: it turns each case into a call on
- * `checkFormula`, `checkPageType` and `runFormula`, and holds the answer
- * against what the case says. A failure names the case and the line the claim
- * is written on, so a disagreement is settled by opening the page rather than
- * by reading either side's code.
- *
- * One thing a case asks for stands outside the evaluator and is built here: a
- * computed key's value, worked out before the formula under test is run and put
- * under its key, so a formula names a computed key exactly as it names a stored
- * one. The order that is worked out in comes from `Checked.reads`, the same
- * thing `checkPageType` finds a cycle in.
- */
-
 import { expect, test } from "bun:test"
 import type { Shape as CaseShape, FormulaCase, FormulaType, FormulaValue } from "./cases/cases.ts"
 import { cases, citationText } from "./cases/cases.ts"
@@ -29,35 +12,23 @@ import type {
 } from "./formula.ts"
 import { checkFormula, checkPageType, runFormula } from "./formula.ts"
 
-// ---------------------------------------------------------------------------
-// What a case says, in the terms the evaluator takes
-// ---------------------------------------------------------------------------
-
-/** The kind a list's items are. The corpus nests a type here; the evaluator does not. */
 const scalarKindOf = (type: FormulaType): ScalarKind => {
   if (type.kind === "list") throw new Error("a list of lists is no declared type")
   if (type.kind === "calendar-date") throw new Error("a list of dates is no declared type")
   return type.kind
 }
 
-/**
- * The corpus names a declared type the way a page type declares it, so a day is
- * `calendar-date` there. The evaluator names the value that key holds, which is
- * a date.
- */
 const declaredTypeOf = (type: FormulaType): DeclaredType => {
   if (type.kind === "list") return { kind: "list", of: scalarKindOf(type.of) }
   if (type.kind === "calendar-date") return { kind: "date" }
   return { kind: type.kind }
 }
 
-/** The keys a case's page type declares, without their formulas. */
 const shapeOf = (shape: CaseShape): Shape =>
   Object.fromEntries(
     Object.entries(shape).map(([key, declared]) => [key, declaredTypeOf(declared.type)])
   )
 
-/** The page type a case declares, formulas and all. */
 const pageTypeOf = (shape: CaseShape): PageType =>
   Object.fromEntries(
     Object.entries(shape).map(([key, declared]) => [
@@ -68,7 +39,6 @@ const pageTypeOf = (shape: CaseShape): PageType =>
     ])
   )
 
-/** A value the case gives, with an instant read off its ISO spelling. */
 const valueFor = (given: FormulaValue, declared: DeclaredType | undefined): Value => {
   switch (given.kind) {
     case "text":
@@ -91,11 +61,9 @@ const valueFor = (given: FormulaValue, declared: DeclaredType | undefined): Valu
   }
 }
 
-/** The moment the corpus names, in the evaluator's spelling. */
 const momentOf = (refused: Refused): "read" | "check" =>
   refused.moment === "reading" ? "read" : "check"
 
-/** What the page holds, with every computed key worked out and put under its key. */
 const propertiesFor = (
   one: FormulaCase,
   computed: ReadonlyMap<string, Checked>,
@@ -125,10 +93,6 @@ const propertiesFor = (
   return properties
 }
 
-// ---------------------------------------------------------------------------
-// What each side did, written the same way so the two can be held together
-// ---------------------------------------------------------------------------
-
 const wordFor = (value: Value): string => {
   switch (value.kind) {
     case "absent":
@@ -150,7 +114,6 @@ const wordFor = (value: Value): string => {
 
 const wordForGiven = (given: FormulaValue): string => wordFor(valueFor(given, undefined))
 
-/** What the case says must happen. */
 const wanted = (one: FormulaCase): string => {
   if (one.expected.outcome === "absent") return "absent"
   if (one.expected.outcome === "value") return wordForGiven(one.expected.value)
@@ -159,7 +122,6 @@ const wanted = (one: FormulaCase): string => {
 
 type Answer = { readonly refused: Refused } | { readonly value: Value }
 
-/** The evaluator's own answer, read at the moment the earliest fault is found. */
 const answer = (one: FormulaCase): Answer => {
   const checked = checkFormula(one.formula, shapeOf(one.shape))
   if (!checked.ok && checked.moment === "reading") return { refused: checked }
@@ -173,11 +135,6 @@ const answer = (one: FormulaCase): Answer => {
   }
 }
 
-/**
- * What the evaluator did. A refusal at the moment the case asked for is written
- * as that moment alone; any other refusal carries its message, so a failure
- * says what the evaluator objected to.
- */
 const did = (one: FormulaCase, given: Answer): string => {
   if ("value" in given) return wordFor(given.value)
   const moment = momentOf(given.refused)
