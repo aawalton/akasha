@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { LayoutRouterProvider, SurfaceProvider } from "@shared/design-system"
+import { LayoutRouterProvider } from "@shared/design-layout/router-context"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { ClientSheet } from "../lib/client-session"

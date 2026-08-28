@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-system"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { ClientQuest } from "../lib/client-session"
 import { deriveQuestPanel } from "../lib/quest-projection"

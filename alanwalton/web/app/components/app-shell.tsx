@@ -1,5 +1,5 @@
 import { LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@shared/design-layout/router-context"
-import { AppShell as SharedAppShell } from "@shared/design-system"
+import { AppShell as SharedAppShell } from "@shared/design-layout/components/app-shell"
 import { useSidebarState } from "@shared/design-layout/hooks/use-sidebar-state"
 import { type AppNavConfig } from "@shared/design-layout/types/nav-types"
 import { createPage } from "@shared/pages-access/create"

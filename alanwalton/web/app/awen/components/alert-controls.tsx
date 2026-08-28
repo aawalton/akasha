@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 
 export function AlertControls({

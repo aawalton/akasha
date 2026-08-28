@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-system"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { useReportRenderError } from "@shared/errors-client/use-report-render-error"
 import { isRouteErrorResponse, Link, useRouteError } from "react-router"
 

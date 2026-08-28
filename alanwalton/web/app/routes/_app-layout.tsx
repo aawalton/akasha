@@ -1,4 +1,4 @@
-import { Toaster } from "@shared/design-system"
+import { Toaster } from "@shared/design-primitives/components/sonner"
 import { askComposed } from "@shared/pages-query/ask"
 import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
 import { SupabaseProvider } from "@shared/supabase-rr/provider"

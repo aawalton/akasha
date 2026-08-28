@@ -3,7 +3,7 @@
 import { PageLayoutSkeleton } from "@shared/design-layout/components/page-layout"
 import { tabbedPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
-import { PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { reportError } from "@shared/errors-client/report-error"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { usePagesSupabase } from "@shared/pages-ui/supabase/use-pages"

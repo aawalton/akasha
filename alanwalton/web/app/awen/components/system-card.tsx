@@ -1,4 +1,4 @@
-import { SurfaceProvider } from "@shared/design-system"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 
 export function SystemCard({
   title,

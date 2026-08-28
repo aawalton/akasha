@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
 import { ViewPageContent } from "@shared/pages-ui/components/view-page-content"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { getRequestServerClient } from "@shared/supabase-rr/request-session-cache"

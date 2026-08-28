@@ -1,7 +1,8 @@
 "use client"
 
 import { type ActionBarMessageKind, classifyActionBarMessage } from "@alanwalton/awen-core/action-bar-message"
-import { Button, Input } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Input } from "@shared/design-primitives/components/input"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { type FormEvent, useEffect, useState } from "react"
 import { SignedOutNotice } from "~/components/signed-out-notice"

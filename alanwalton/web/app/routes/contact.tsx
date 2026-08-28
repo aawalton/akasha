@@ -1,4 +1,5 @@
-import { PageTitle, PanelCard } from "@shared/design-system"
+import { PageTitle } from "@shared/design-layout/components/page-layout"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 
 export function meta() {
   return [

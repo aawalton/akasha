@@ -1,4 +1,5 @@
-import { Popover, PopoverContent, PopoverTrigger, SurfaceProvider } from "@shared/design-system"
+import { Popover, PopoverContent, PopoverTrigger } from "@shared/design-primitives/components/popover"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@shared/design-patterns/components/tabs"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { ClientSheet } from "../lib/client-session"

@@ -1,4 +1,4 @@
-import { PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
 import { ApotheosisPanel } from "~/idle/components/apotheosis-panel"
 import { LegacyPerksPanel } from "~/idle/components/legacy-perks-panel"
 import type { GameState } from "../lib/core/types"

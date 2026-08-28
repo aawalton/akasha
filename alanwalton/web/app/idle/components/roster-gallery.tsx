@@ -1,4 +1,5 @@
-import { Dialog, DialogBody, DialogContent, DialogTitle, useSurface } from "@shared/design-system"
+import { Dialog, DialogBody, DialogContent, DialogTitle } from "@shared/design-primitives/components/dialog"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { DegradingImage } from "@shared/pages-ui/components/degrading-image"

@@ -1,6 +1,8 @@
 "use client"
 
-import { Badge, Button, Textarea } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { Button } from "@shared/design-primitives/components/button"
+import { Textarea } from "@shared/design-primitives/components/textarea"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { formatRelativeTime } from "@shared/design-primitives/utils/format-relative-time"
 import {

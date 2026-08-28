@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
 import { Heart, Sparkles } from "lucide-react"
 import { useState } from "react"
 import { gainedStars, sumOwnedRanks } from "../lib/core/accrual"

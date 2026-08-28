@@ -1,4 +1,8 @@
-import { Heading, PageLayout, PageTabHeader, PageTitle, PanelCard, ResponsiveColumns } from "@shared/design-system"
+import { PageLayout, PageTitle } from "@shared/design-layout/components/page-layout"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@shared/design-patterns/components/tabs"
 import { List } from "lucide-react"
 

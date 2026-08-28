@@ -1,4 +1,6 @@
-import { Heading, PageTitle, PanelCard } from "@shared/design-system"
+import { PageTitle } from "@shared/design-layout/components/page-layout"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Heading } from "@shared/design-primitives/components/heading"
 import { getUser } from "@shared/supabase-rr/auth/server"
 import { Link, redirect } from "react-router"
 import type { Route } from "./+types/landing"
