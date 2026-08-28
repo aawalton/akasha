@@ -297,7 +297,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 }
 
-export function removalsIn(at: Addressed, named: readonly string[]): readonly string[] {
+function removalsIn(at: Addressed, named: readonly string[]): readonly string[] {
   const relPaths = named.map((one) => relPathIn(at, one))
   const held = heldByRepo(at.root, relPaths)
   const removals: string[] = []

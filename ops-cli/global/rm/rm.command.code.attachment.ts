@@ -72,7 +72,7 @@ function beneath(one: string): string {
   return `      ${one}\n`
 }
 
-export function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
+function openedIn(at: Addressed, named: readonly string[]): readonly string[] {
   const relPaths = named.map((one) => relPathIn(at, one))
   if (new Set(relPaths).size !== relPaths.length) fail("a path is declared more than once")
   const held = heldByRepo(at.root, relPaths)
