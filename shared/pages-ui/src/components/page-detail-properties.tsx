@@ -1,12 +1,11 @@
 "use client"
 
-import { resolveComputedProperties } from "@shared/pages-core/formula/resolve"
 import { useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
-import { PropertyBadge } from "../property-types/property-badge"
-import type { PropertyValue } from "../property-types/types"
-import { SortablePropertyList } from "./page-detail-sortable-list"
-import { RESERVED_PROPERTY_IDS } from "./page-properties-shared"
+import { PropertyBadge } from "../property-types/property-badge.tsx"
+import type { PropertyValue } from "../property-types/types.ts"
+import { SortablePropertyList } from "./page-detail-sortable-list.tsx"
+import { RESERVED_PROPERTY_IDS } from "./page-properties-shared.ts"
 
 interface PageDetailPropertiesProps {
   definitions?: readonly PropertyDefinition[]
@@ -33,18 +32,13 @@ export function PageDetailProperties({
     const reservedExclusions: readonly string[] = RESERVED_PROPERTY_IDS
     return definitions?.filter((d) => !reservedExclusions.includes(d.id)) ?? []
   }, [definitions])
-  const enrichedData = useMemo(
-    () => (data && definitions ? resolveComputedProperties(data, definitions) : null),
-    [data, definitions]
-  )
-
   const wrappedOnPropertyChange = onPropertyChange
     ? (propertyId: string, value: PropertyValue) => onPropertyChange(propertyId, value)
     : undefined
 
   const renderBadge = (def: PropertyDefinition) => {
-    if (enrichedData === null) return null
-    const value = enrichedData[def.id] ?? null
+    if (data === undefined) return null
+    const value = data[def.id] ?? null
     return (
       <PropertyBadge
         key={def.id}
@@ -52,7 +46,7 @@ export function PageDetailProperties({
         value={value}
         context="detail"
         editable
-        pageData={enrichedData}
+        pageData={data}
         propertyDefinitions={definitions}
         pageId={pageId}
         pageTypeSlug={pageTypeSlug}
@@ -84,7 +78,7 @@ export function PageDetailProperties({
     </div>
   )
 
-  if (onReorderDefinitions && enrichedData) {
+  if (onReorderDefinitions && data) {
     return (
       <SortablePropertyList
         bodyDefs={bodyDefs}
@@ -96,7 +90,7 @@ export function PageDetailProperties({
 
   return (
     <div className="@container flex flex-col gap-2">
-      {enrichedData &&
+      {data &&
         bodyDefs.map((def) => (
           <div
             key={def.id}

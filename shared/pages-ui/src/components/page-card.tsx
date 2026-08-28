@@ -7,7 +7,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "@shared/design-primiti
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { resolveComputedProperties } from "@shared/pages-core/formula/resolve"
 import { type IconName } from "@shared/pages-core/icon"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"
 import { type GalleryCardSize } from "@shared/pages-core/view/gallery"
@@ -15,11 +14,11 @@ import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"
 import type { PageDataJSON, PropertyDefinition } from "@shared/pages-core/types"
-import { PagesUILink } from "../router-context"
-import { PageActionsMenu } from "./page-actions-menu"
-import { PageCardCover } from "./page-card-cover"
-import { PageCardProperties } from "./page-card-properties"
-import { useOverflowFade } from "./use-overflow-fade"
+import { PagesUILink } from "../router-context.tsx"
+import { PageActionsMenu } from "./page-actions-menu.tsx"
+import { PageCardCover } from "./page-card-cover.tsx"
+import { PageCardProperties } from "./page-card-properties.tsx"
+import { useOverflowFade } from "./use-overflow-fade.ts"
 
 interface PageCardProps extends Omit<React.ComponentProps<"div">, "title" | "id"> {
   id: string
@@ -80,14 +79,9 @@ export function PageCard({
 }: PageCardProps) {
   const surface = useSurface()
   const isWide = coverSize != null || notesSlot != null
-  const enrichedData = useMemo(
-    () => (data && definitions ? resolveComputedProperties(data, definitions) : null),
-    [data, definitions]
-  )
-
   const resolvedTitle = data?.title != null ? String(data.title) : "Untitled"
   const displayTitle = expandDateMentions(resolvedTitle)
-  const ownIconName = enrichedData?.icon != null ? String(enrichedData.icon) : null
+  const ownIconName = data?.icon != null ? String(data.icon) : null
   const displayIconName = ownIconName ?? defaultIconName ?? null
 
   const hasCompletedAtDef = useMemo(

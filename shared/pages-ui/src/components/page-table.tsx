@@ -5,20 +5,19 @@ import { useLoadMore } from "@shared/design-layout/hooks/use-load-more"
 import { Icon } from "@shared/design-patterns/components/icon"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@shared/design-primitives/components/table"
 import { cn } from "@shared/design-primitives/utils/cn"
-import { resolveComputedProperties } from "@shared/pages-core/formula/resolve"
 import { type PageDataJSON } from "@shared/pages-core/types"
 import { expandDateMentions } from "@shared/pages-core/view/expand-date-mentions"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import { PropertyBadge } from "../property-types/property-badge"
-import type { PageRow } from "../view-engine/page-row"
-import { PageActionsMenu } from "./page-actions-menu"
-import { orderTableColumns } from "./page-properties-shared"
-import { PageTableColGroup } from "./page-table-colgroup"
-import { ReorderableColumnTable } from "./page-table-header"
-import { ACTIONS_COLUMN_PX, type PageTableColumn } from "./page-table-shared"
-import { tableMinWidthPx } from "./page-table-widths"
+import { PropertyBadge } from "../property-types/property-badge.tsx"
+import type { PageRow } from "../view-engine/page-row.ts"
+import { PageActionsMenu } from "./page-actions-menu.tsx"
+import { orderTableColumns } from "./page-properties-shared.ts"
+import { PageTableColGroup } from "./page-table-colgroup.tsx"
+import { ReorderableColumnTable } from "./page-table-header.tsx"
+import { ACTIONS_COLUMN_PX, type PageTableColumn } from "./page-table-shared.ts"
+import { tableMinWidthPx } from "./page-table-widths.ts"
 
 interface PageTableProps {
   items: readonly PageRow[]
@@ -142,11 +141,10 @@ export function PageTableRowCells({
   onToggleFavorite,
   onDelete,
 }: PageTableRowCellsProps) {
-  const enriched = resolveComputedProperties(data, definitions)
   const columns = orderTableColumns(definitions, visibleProperties ?? [])
   const resolvedTitle = data.title != null ? String(data.title) : "Untitled"
   const displayTitle = expandDateMentions(resolvedTitle)
-  const iconName = enriched.icon != null ? String(enriched.icon) : null
+  const iconName = data.icon != null ? String(data.icon) : null
   const hasCompletedAtDef = definitions.some((d) => d.id === "completedAt")
   const isCompleted = data.completedAt != null
   const showCompletionToggle = Boolean(onComplete) && hasCompletedAtDef
@@ -193,10 +191,10 @@ export function PageTableRowCells({
           <TableCell key={col.id} className="overflow-hidden text-left font-sans">
             <PropertyBadge
               property={col.def}
-              value={enriched[col.def.id] ?? null}
+              value={data[col.def.id] ?? null}
               context="card"
               editable={onPropertyChange != null}
-              pageData={enriched}
+              pageData={data}
               propertyDefinitions={definitions}
               onPropertyChange={onPropertyChange}
               onCreateOption={onCreateOption}

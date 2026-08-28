@@ -1,12 +1,11 @@
-import { resolveComputedProperties } from "../formula/resolve"
-import type { PageTypePropertiesMap } from "../property-types/rollup"
-import type { ViewConfig } from "../schema/view-data"
-import type { PropertyDefinition } from "../types"
-import type { FilterableRow } from "./apply-filters"
-import { applyFilters } from "./apply-filters"
-import type { PageResolver } from "./apply-grouping-shared"
-import { applySorts } from "./apply-sorts"
-import { generateSortAccessors } from "./sort-accessors"
+import type { PageTypePropertiesMap } from "../property-types/rollup.ts"
+import type { ViewConfig } from "../schema/view-data.ts"
+import type { PropertyDefinition } from "../types.ts"
+import type { FilterableRow } from "./apply-filters.ts"
+import { applyFilters } from "./apply-filters.ts"
+import type { PageResolver } from "./apply-grouping-shared.ts"
+import { applySorts } from "./apply-sorts.ts"
+import { generateSortAccessors } from "./sort-accessors.ts"
 
 export function applyView<T extends FilterableRow>(
   items: readonly T[],
@@ -16,10 +15,7 @@ export function applyView<T extends FilterableRow>(
   propertiesByPageType?: PageTypePropertiesMap,
   resolver?: PageResolver | null
 ): readonly T[] {
-  let result: readonly T[] = items.map((row) => ({
-    ...row,
-    ...resolveComputedProperties(row, properties),
-  }))
+  let result: readonly T[] = items
 
   if (config.filters && config.filters.length > 0) {
     result = applyFilters(result, config.filters, properties, pageTypeId, propertiesByPageType)

@@ -1,10 +1,10 @@
 import { describe, expect, test } from "bun:test"
-import { requireFirst } from "../../../utils-narrow/src/require-first"
-import type { ViewConfig } from "../schema/view-data"
-import type { PropertyDefinition } from "../types"
-import type { ReadonlyJSONValue } from "../schema/pages"
-import type { FilterableRow } from "./apply-filters"
-import { applyView } from "./apply-view"
+import { requireFirst } from "../../../utils-narrow/src/require-first.ts"
+import type { ViewConfig } from "../schema/view-data.ts"
+import type { PropertyDefinition } from "../types.ts"
+import type { ReadonlyJSONValue } from "../schema/pages.ts"
+import type { FilterableRow } from "./apply-filters.ts"
+import { applyView } from "./apply-view.ts"
 
 function at<T>(array: readonly T[], index: number): T {
   const value = array[index]
@@ -22,24 +22,8 @@ function row(id: string, data: Record<string, ReadonlyJSONValue>): TestRow {
 
 const textDef: PropertyDefinition = { id: "t", title: "Text", type: "text" }
 const numberDef: PropertyDefinition = { id: "n", title: "Num", type: "number" }
-const formulaNumberDef: PropertyDefinition = {
-  id: "f",
-  title: "Formula",
-  type: "formula",
-  config: { expression: "prop(n) + 10", returnType: "number" },
-}
 
 describe("applyView — composition order", () => {
-  test("resolve runs before filter (formula values visible to filter)", () => {
-    const items = [row("1", { n: 10 }), row("2", { n: 3 })]
-    const config: ViewConfig = {
-      filters: [{ propertyId: "f", operator: "gt", value: 15 }],
-    }
-    const result = applyView(items, [numberDef, formulaNumberDef], config)
-    expect(result.length).toBe(1)
-    expect(requireFirst(result)._id).toBe("1")
-  })
-
   test("filter runs before sort (sort operates on filtered set)", () => {
     const items = [row("1", { n: 5 }), row("2", { n: 1 }), row("3", { n: 10 })]
     const config: ViewConfig = {
@@ -120,30 +104,6 @@ describe("applyView — empty items", () => {
     }
     const result = applyView([], [textDef, numberDef], config)
     expect(result).toEqual([])
-  })
-})
-
-describe("applyView — empty config", () => {
-  test("returns items with resolved computed properties only", () => {
-    const items = [row("1", { n: 5 }), row("2", { n: 10 })]
-    const config: ViewConfig = {}
-    const result = applyView(items, [numberDef, formulaNumberDef], config)
-    expect(result.length).toBe(2)
-    expect(requireFirst(result).f).toBe(15)
-    expect(at(result, 1).f).toBe(20)
-  })
-})
-
-describe("applyView — formula resolution flows through to filters", () => {
-  test("computed field value matches a filter", () => {
-    const items = [row("1", { n: 10 }), row("2", { n: 5 })]
-    const config: ViewConfig = {
-      filters: [{ propertyId: "f", operator: "equals", value: 20 }],
-    }
-    const result = applyView(items, [numberDef, formulaNumberDef], config)
-    expect(result.length).toBe(1)
-    expect(requireFirst(result)._id).toBe("1")
-    expect(requireFirst(result).f).toBe(20)
   })
 })
 
