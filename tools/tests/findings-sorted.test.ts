@@ -6,6 +6,7 @@ import { type RepoView, listDocuments } from "../lib/check.ts"
 import { findingsDirIn } from "../lib/finding.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { fixture, type Fixture } from "./fixture.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const store = (): string => findingsDirIn(at.root)
 
@@ -18,7 +19,7 @@ afterEach(() => at.dispose())
 
 function repo(): RepoView {
   return {
-    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: at.root }),
     name: "akasha",
     documents: listDocuments(at.root),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),

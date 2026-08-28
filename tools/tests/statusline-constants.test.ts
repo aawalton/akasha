@@ -5,6 +5,7 @@ import { describe, expect, test } from "bun:test"
 import { statuslineConstants } from "../audits/statusline-constants.ts"
 import type { RepoView } from "../lib/check.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
 
@@ -22,7 +23,7 @@ const DECLARES = "persona domain role task"
 
 function repo(bodies: Readonly<Record<string, string>>): RepoView {
   return {
-    roots: { akasha: ROOT, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: ROOT }),
     name: "akasha",
     documents: [],
     read: (relPath) => bodies[relPath] ?? live(relPath),

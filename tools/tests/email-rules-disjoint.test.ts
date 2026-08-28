@@ -5,6 +5,7 @@ import { emailRulesDisjoint } from "../audits/email-rules-disjoint.ts"
 import type { RepoView } from "../lib/check.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 import { emailRuleStore } from "./rules-fixture.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 let at: Fixture
 
@@ -25,7 +26,7 @@ function repo(): RepoView {
   const documents: string[] = []
   for (const relPath of new Bun.Glob("**/*.md").scanSync({ cwd: at.root })) documents.push(relPath)
   return {
-    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: at.root }),
     name: "akasha",
     documents: documents.sort(),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),

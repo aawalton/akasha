@@ -27,7 +27,9 @@ const FAILING =
   "bun test v1.3.14\n\n(fail) the command > refuses a body it cannot gate\n 820 pass\n 2 fail\nRan 822 tests across 55 files. [9.02s]\n"
 
 const NOWHERE = {
-  roots: { akasha: "/nonexistent-akasha", "code-editor": "/nonexistent-code-editor" },
+  // ROOTS THAT STAND NOWHERE, on purpose, which is what `NOWHERE` names. `rootsNamed` refuses this
+  // shape, so these are written out rather than built through it.
+  roots: { akasha: "/nonexistent-akasha" },
   name: "akasha",
   documents: [],
   read: () => "",

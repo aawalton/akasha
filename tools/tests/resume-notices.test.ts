@@ -6,6 +6,7 @@ import { resumeNotices } from "../audits/resume-notices.ts"
 import { noticesIn, render } from "../compose-notices.ts"
 import type { RepoView } from "../lib/check.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const ROOT = resolve(import.meta.dir, "..", "..")
 const DOCUMENT = "pages/notice/resume.notice.md"
@@ -30,7 +31,7 @@ const says = (slug: string, values: Readonly<Record<string, string>> = {}): stri
 
 function repo(body: string | null, asker: string = asks(PINNED_KEYS)): RepoView {
   return {
-    roots: { akasha: ROOT, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: ROOT }),
     name: "akasha",
     documents: [],
     read: (relPath) => {

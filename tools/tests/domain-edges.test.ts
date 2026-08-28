@@ -7,6 +7,7 @@ import { fromDisk, refusalText } from "../lib/refusal.ts"
 import type { Stated } from "../../page/index/identity/identity.ts"
 import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture } from "./fixture.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 // WHAT A PAGE TYPE MUST DECLARE TO CLAIM A DOCUMENT. `files:` is what makes a suffix resolve to
 // this type, and `extends-slug` is what `domainKinds` walks to decide a type is a domain kind —
@@ -73,10 +74,7 @@ afterEach(() => at.dispose())
 
 function repo(): RepoView {
   return {
-    // THE REPOSITORIES THERE ARE, and no others. This named `instructions`, `code`, `memory`,
-    // `books` and `stories` — all absorbed into akasha — and named no `akasha` at all, so the
-    // `rootFor(roots, AKASHA)` the audit goes through threw before it read a single document.
-    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: at.root }),
     name: "akasha",
     documents: listDocuments(at.root),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),

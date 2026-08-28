@@ -5,6 +5,7 @@ import { tmpdir } from "node:os"
 import type { CheckOutcome, RepoView } from "../lib/check.ts"
 import { bashEnvInside, declaredIn } from "../audits/bash-env-inside.ts"
 import { installRefusals } from "./fixture.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 const STARTUP = "tools/bash-env.sh"
 const INSIDE = `$HOME/repos/akasha/${STARTUP}`
@@ -16,7 +17,7 @@ function declaring(value: string): string {
 
 function repoViewOf(root: string): RepoView {
   return {
-    roots: { akasha: root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: root }),
     name: "akasha",
     documents: [],
     read: (relPath) => readFileSync(`${root}/${relPath}`, "utf8"),

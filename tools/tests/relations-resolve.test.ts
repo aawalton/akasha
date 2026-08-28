@@ -6,6 +6,7 @@ import type { Subject } from "../lib/gate.ts"
 import type { Stated } from "../../page/index/identity/identity.ts"
 import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture, documentBody } from "./fixture.ts"
+import { rootsNamed } from "../../repo/roots/roots.ts"
 
 /**
  * The rows that say these page types are there, and a place to write them that is not the live one.
@@ -81,7 +82,7 @@ function subject(relPath: string, body: string, alsoPending: Record<string, stri
   return {
     relPath,
     body,
-    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    roots: rootsNamed({ akasha: at.root }),
     agent: "agent-one",
     mechanical: false,
     exists: (absolutePath) => bodies.has(relative(absolutePath)) || existsSync(absolutePath),
