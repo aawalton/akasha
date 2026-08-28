@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
 import { heldOf } from "../lib/page-rows.ts"
 import { valuesIn } from "../lib/page-file-values.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -46,8 +46,6 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
 const ROOTS: Roots = {
   akasha: root,
 }
@@ -57,8 +55,6 @@ const rowOf = (named: string): Record<string, unknown> => {
   return found!.values as Record<string, unknown>
 }
 
-// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
-// the deriver has to report stands only once every page has been walked.
 const faultsOf = (): readonly string[] => {
   const found = deriver(ROOTS)
   Array.from(found.rows("gauge") ?? [])
@@ -80,9 +76,6 @@ describe("a mapping written in a page's frontmatter", () => {
     expect(rowOf("mapped-bare")["mapped-bare"]).toBe('{"a":"one"}')
   })
 
-  // A MAPPING REACHES NO FORMULA. The formula language holds six types and a mapping is none of
-  // them, so a formula naming this key is refused where it is checked rather than handed the JSON
-  // text of it, which is what the evaluator this replaced compared against.
   it("is refused by a formula naming it, and the refusal says which property stated it", () => {
     expect(rowOf("mapped")["reads-mapped"]).toBeNull()
     expect(faultsOf().join("\n")).toContain("`gauge-reads-mapped`")

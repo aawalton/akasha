@@ -63,16 +63,6 @@ export const nameOf = (relPath: string): string => {
 
 export const PLACED: Readonly<Record<string, string>> = { leaf: "akasha", "page-property-type": "akasha" }
 
-/**
- * A file tree holding exactly these files and nothing else.
- *
- * EVERY PATH IS PENDING, which is what makes the registry see them. `registryOf` reads the page
- * types off the page INDEX rather than off a glob, and the index knows only what has landed — so a
- * tree that exists only in this file contributed nothing and every fixture page type was invisible.
- * `pending` is the door a gate judges an unlanded write through, and a fixture is exactly that: a
- * tree of files no commit holds. The index's own entries still drop out, `open` answering null for
- * every path this fixture does not carry.
- */
 export function fileTreeOf(
   files: Readonly<Record<string, string>>,
   placed: Readonly<Record<string, string>> = PLACED

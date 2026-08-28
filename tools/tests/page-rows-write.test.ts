@@ -15,7 +15,7 @@ import {
   writeRows,
 } from "../lib/page-rows-write.ts"
 import { rowsPagesIn } from "../lib/page-rows.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -67,9 +67,6 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-// ONLY THE REPOSITORIES CLONED HERE. `Roots` names a root only where the repository stands,
-// and every scan walks each root it names, so naming an uncloned one reads its absence as
-// a directory that could not be opened rather than as a repository that is not here.
 const ROOTS: Roots = { akasha: root }
 
 const SIDECAR = "pages/keeper/ada.keeper.days.jsonl"

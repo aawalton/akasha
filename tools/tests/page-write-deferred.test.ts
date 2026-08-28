@@ -5,7 +5,7 @@ import { git } from "../../repo/git/git.ts"
 import { drainCommits, forgetCommits, standing } from "../lib/page-commit-queue.ts"
 import { deferCommits } from "../lib/page-commit-queue.ts"
 import { patchPage, removePage, writePage } from "../lib/page-write.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -40,8 +40,6 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
 const ROOTS: Roots = {
   akasha: root,
 }

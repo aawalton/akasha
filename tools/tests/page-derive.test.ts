@@ -18,8 +18,6 @@ const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
 
 const owners = (): ReadonlyMap<string, unknown> => held("job", "owner")
 
-// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
-// the deriver has to report stands only once every page has been walked.
 const faultsOf = (pageType: string): readonly string[] => {
   const found = deriver(ROOTS)
   Array.from(found.rows(pageType) ?? [])

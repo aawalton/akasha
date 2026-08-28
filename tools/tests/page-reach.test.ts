@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
 import { answer } from "../lib/page-query.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -80,16 +80,11 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-// ONLY THE REPOSITORIES CLONED HERE. `Roots` names a root only where the repository stands,
-// and every scan walks each root it names, so naming an uncloned one reads its absence as
-// a directory that could not be opened rather than as a repository that is not here.
 const ROOTS: Roots = { akasha: root }
 
 const held = (pageType: string, key: string): ReadonlyMap<string, unknown> =>
   new Map([...deriver(ROOTS).rows(pageType)!].map((row) => [row.values.slug as string, row.values[key]]))
 
-// A FAULT ARRIVES ON THE WALK. `rows` answers pages to walk and reads none of them itself, so what
-// the deriver has to report stands only once every page has been walked.
 const faultsOf = (pageType: string): readonly string[] => {
   const found = deriver(ROOTS)
   Array.from(found.rows(pageType) ?? [])

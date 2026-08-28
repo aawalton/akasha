@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { answer } from "../lib/page-query.ts"
 import { textOf } from "../lib/page-query-values.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -38,9 +38,6 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-// ONLY THE REPOSITORIES CLONED HERE. `Roots` names a root only where the repository stands,
-// and every scan walks each root it names, so naming an uncloned one reads its absence as
-// a directory that could not be opened rather than as a repository that is not here.
 const ROOTS: Roots = { akasha: root }
 
 const NOON = Date.parse("2026-08-19T02:30:00Z")

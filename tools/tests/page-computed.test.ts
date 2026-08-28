@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { declarationsFromFiles } from "../../page/property/declarations.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -37,8 +37,6 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
 const ROOTS: Roots = {
   akasha: root,
 }

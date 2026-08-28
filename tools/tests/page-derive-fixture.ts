@@ -1,6 +1,6 @@
 import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -134,8 +134,6 @@ const FILES: Readonly<Record<string, string>> = {
   "pages/gauge/third.gauge.md": page(["used: 3", "budget: 30", "opened: 9 Mar 2026"]),
 }
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
 export function plantPages(): { readonly root: string; readonly roots: Roots } {
   const root = mkdtempSync(join("/var/tmp", "page-derive-"))
 

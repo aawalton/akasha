@@ -5,7 +5,7 @@ import { git } from "../../repo/git/git.ts"
 import { forgetCommits } from "../lib/page-commit-queue.ts"
 import { patchPage, removePage, writePage } from "../lib/page-write.ts"
 import { splitValues } from "../lib/page-write-values.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
 
@@ -47,15 +47,6 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
-// not there raises ENOENT rather than reading as a repository holding nothing.
-// THE PAGE TYPE REGISTRY IS READ OFF THE INDEX RATHER THAN OFF THIS TREE. `page/property/registry.ts`
-// builds every page type out of `loadPages()` and the tree's own `pending` set, and `loadPages()`
-// reads the index under the root `AKASHA_ROOT` names — the live checkout, never this temp one. A
-// `probe` page type invented here stands in no index, so `whereFor` finds no type and `writePage`
-// answers null, writing nothing and saying nothing. These cases are right about where a write lands:
-// they pass whole against a temp root whose index is built, and fail until the registry reads the
-// tree it is handed as well as the index.
 const ROOTS: Roots = {
   akasha: root,
 }
