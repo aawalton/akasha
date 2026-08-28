@@ -255,7 +255,7 @@ export function staleIn(roots: Roots): readonly string[] {
   return behind
 }
 
-type HeldPages = { readonly stamp: string; readonly pages: readonly Stated[] }
+type HeldPages = { readonly at: string; readonly stamp: string; readonly pages: readonly Stated[] }
 
 let heldPages: HeldPages | null = null
 
@@ -393,13 +393,18 @@ export function keepPages(stated: Iterable<Stated>): void {
   const at = pagesAt()
   mkdirSync(dirname(at), { recursive: true })
   writeWhole(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
-  heldPages = { stamp: stampOf(at), pages: held }
+  heldPages = { at, stamp: stampOf(at), pages: held }
 }
 
+/**
+ * THE PATH IS PART OF WHAT THE ROWS ARE HELD AGAINST, not the stamp alone. `indexRoot` follows
+ * `AKASHA_ROOT`, so one process reads one index and then another, and a modification time and a
+ * size are something two different files can carry alike.
+ */
 export function loadPages(): readonly Stated[] {
   const at = pagesAt()
   const stamp = stampOf(at)
-  if (heldPages !== null && heldPages.stamp === stamp) return heldPages.pages
+  if (heldPages !== null && heldPages.at === at && heldPages.stamp === stamp) return heldPages.pages
   if (!existsSync(at)) return []
   const found: Stated[] = []
   for (const line of readFileSync(at, "utf8").split("\n")) {
@@ -410,7 +415,7 @@ export function loadPages(): readonly Stated[] {
       continue
     }
   }
-  heldPages = { stamp, pages: found }
+  heldPages = { at, stamp, pages: found }
   return found
 }
 
