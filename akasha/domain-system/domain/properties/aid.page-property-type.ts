@@ -8,7 +8,7 @@ export const aid = {
   slug: "aid",
   definition: "a ruling on one act a reader is about to take, for or against",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 50,
   nameFormatSlug: null,
 } as const satisfies PagePropertyType

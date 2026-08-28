@@ -8,7 +8,7 @@ export const warrant = {
   slug: "warrant",
   definition: "the general fact an act follows from",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 100,
   nameFormatSlug: null,
 } as const satisfies PagePropertyType

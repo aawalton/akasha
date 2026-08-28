@@ -1,14 +1,14 @@
 import type { PagePropertyType } from "../page-property-type.page-type.ts"
 import type { Slug } from "../../page/properties/slug.page-property-type.ts"
 
-export type OfSlug = Slug
+export type EntrySlug = Slug
 
-export const ofSlug = {
+export const entrySlug = {
   id: "01a04a08-fcf3-7002-9fe1-8bba60a8d78d",
   pageTypeSlug: "page-property-type",
-  slug: "of-slug",
-  definition: "the property type a list's entries are",
+  slug: "entry-slug",
+  definition: "the property type of a list's entries",
   extendsSlug: null,
-  type: "relation",
+  kind: "relation",
   targetPageTypeSlug: "page-property-type",
 } as const satisfies PagePropertyType

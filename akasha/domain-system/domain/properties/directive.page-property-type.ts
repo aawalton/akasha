@@ -17,5 +17,5 @@ export const directive = {
   slug: "directive",
   definition: "what a domain tells whoever reads it to do",
   extendsSlug: null,
-  type: "record",
+  kind: "record",
 } as const satisfies PagePropertyType

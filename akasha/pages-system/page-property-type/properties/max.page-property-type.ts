@@ -8,6 +8,6 @@ export const max = {
   slug: "max",
   definition: "the most a value may run to, in characters or entries",
   extendsSlug: null,
-  type: "number",
+  kind: "number",
   max: null,
 } as const satisfies PagePropertyType

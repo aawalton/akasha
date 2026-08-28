@@ -1,6 +1,6 @@
+import type { EntrySlug } from "./properties/entry-slug.page-property-type.ts"
 import type { Max } from "./properties/max.page-property-type.ts"
 import type { NameFormatSlug } from "./properties/name-format-slug.page-property-type.ts"
-import type { OfSlug } from "./properties/of-slug.page-property-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { TargetPageTypeSlug } from "./properties/target-page-type-slug.page-property-type.ts"
 
@@ -8,11 +8,11 @@ export type List<T> = readonly T[]
 
 export type PagePropertyType = PageType &
   (
-    | { type: "text"; max: Max; nameFormatSlug: NameFormatSlug | null }
-    | { type: "number"; max: Max | null }
-    | { type: "relation"; targetPageTypeSlug: TargetPageTypeSlug }
-    | { type: "record" }
-    | { type: "list"; ofSlug: OfSlug; max: Max | null }
+    | { kind: "text"; max: Max; nameFormatSlug: NameFormatSlug | null }
+    | { kind: "number"; max: Max | null }
+    | { kind: "relation"; targetPageTypeSlug: TargetPageTypeSlug }
+    | { kind: "record" }
+    | { kind: "list"; entrySlug: EntrySlug; max: Max | null }
   )
 
 export const pagePropertyType = {

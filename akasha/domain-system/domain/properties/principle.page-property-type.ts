@@ -10,7 +10,7 @@ export const principle = {
   slug: "principle",
   definition: "a truth packed tight so it reaches many cases",
   extendsSlug: null,
-  type: "list",
-  ofSlug: "directive",
+  kind: "list",
+  entrySlug: "directive",
   max: null,
 } as const satisfies PagePropertyType

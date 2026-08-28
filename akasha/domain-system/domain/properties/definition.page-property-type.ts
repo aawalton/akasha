@@ -8,7 +8,7 @@ export const definition = {
   slug: "definition",
   definition: "the sentence naming what a page's subject is",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 100,
   nameFormatSlug: null,
   design: [

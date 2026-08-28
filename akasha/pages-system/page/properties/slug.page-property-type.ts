@@ -8,7 +8,7 @@ export const slug = {
   slug: "slug",
   definition: "the name a page is reached by",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 100,
   nameFormatSlug: null,
   design: [

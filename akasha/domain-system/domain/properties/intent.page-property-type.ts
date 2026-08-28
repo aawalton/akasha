@@ -9,8 +9,8 @@ export const intent = {
   slug: "intent",
   definition: "an invariant that does not hold yet",
   extendsSlug: "invariant",
-  type: "list",
-  ofSlug: "statement",
+  kind: "list",
+  entrySlug: "statement",
   max: null,
   design: [
     "An intent entry names a state the domain should be in, never an act to take or a reason for it.",

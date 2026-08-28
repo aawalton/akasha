@@ -8,7 +8,7 @@ export const statement = {
   slug: "statement",
   definition: "one sentence of a page's prose",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 200,
   nameFormatSlug: null,
 } as const satisfies PagePropertyType

@@ -10,7 +10,7 @@ export const invariant = {
   slug: "invariant",
   definition: "what must always be true of a page",
   extendsSlug: null,
-  type: "list",
-  ofSlug: "statement",
+  kind: "list",
+  entrySlug: "statement",
   max: null,
 } as const satisfies PagePropertyType

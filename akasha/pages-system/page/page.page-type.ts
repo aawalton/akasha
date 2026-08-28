@@ -23,7 +23,7 @@ export const page = {
   ],
   design: [
     "A page is one TypeScript file.",
-    "A page's module does nothing when loaded but declare its value.",
+    "Loading a page's file declares its value and does nothing else.",
     "A page is one exported object, named for the page's slug.",
     "A page has no body; every section is a property.",
     "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",

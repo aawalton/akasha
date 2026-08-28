@@ -8,7 +8,7 @@ export const id = {
   slug: "id",
   definition: "the identity a page keeps for its whole life",
   extendsSlug: null,
-  type: "text",
+  kind: "text",
   max: 36,
   nameFormatSlug: null,
 } as const satisfies PagePropertyType

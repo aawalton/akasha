@@ -10,7 +10,7 @@ export const rule = {
   slug: "rule",
   definition: "a standing instruction, leaving only whether it was done",
   extendsSlug: null,
-  type: "list",
-  ofSlug: "directive",
+  kind: "list",
+  entrySlug: "directive",
   max: null,
 } as const satisfies PagePropertyType

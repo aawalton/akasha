@@ -10,8 +10,8 @@ export const requiredReadingSlugs = {
   slug: "required-reading-slugs",
   definition: "the pages that must be read before an act is allowed",
   extendsSlug: null,
-  type: "list",
-  ofSlug: "page-slug",
+  kind: "list",
+  entrySlug: "page-slug",
   max: null,
   design: [
     "A domain may name one below it in the tree.",

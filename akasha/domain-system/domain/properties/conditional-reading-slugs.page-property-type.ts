@@ -8,9 +8,9 @@ export const conditionalReadingSlugs = {
   id: "01a04a10-319c-7001-82f9-688f289cb246",
   pageTypeSlug: "page-property-type",
   slug: "conditional-reading-slugs",
-  definition: "the pages required once a reader judges them relevant",
+  definition: "the pages that must be read once the agent judges them relevant",
   extendsSlug: null,
-  type: "list",
-  ofSlug: "page-slug",
+  kind: "list",
+  entrySlug: "page-slug",
   max: null,
 } as const satisfies PagePropertyType
