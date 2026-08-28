@@ -80,9 +80,20 @@ if (import.meta.main) {
   const perStratum = Number.parseInt(flags.get("per-stratum")?.[0] ?? "40", 10)
   if (!Number.isFinite(perStratum) || perStratum <= 0) throw new Error("--per-stratum takes a count")
   const again = flags.has("again")
-  const out =
-    flags.get("out")?.[0] ??
-    `${process.env.HOME}/monarch-eval-18119/${pool.toLowerCase()}-${perStratum}.json`
+  // THIS READ `${process.env.HOME}/...` with no guard. An unset `$HOME` made the default a
+  // relative path under whichever directory the command ran in, and the holdout guard just below
+  // decides whether the set has been read once from whether that exact path exists — so a
+  // misplaced run file reads as a set never seen, and the guard stops guarding without saying so.
+  const said = flags.get("out")?.[0]
+  const home = process.env.HOME
+  if (said === undefined && (home === undefined || home === "")) {
+    throw new Error(
+      "$HOME is unset and --out names no path, so nothing says where the run file stands. A " +
+        "default here would put it somewhere plausible and wrong, and the holdout guard reads a " +
+        "misplaced file as a set never seen."
+    )
+  }
+  const out = said ?? `${home}/monarch-eval-18119/${pool.toLowerCase()}-${perStratum}.json`
 
   if (pool === "HOLDOUT" && !again && (await Bun.file(out).exists())) {
     throw new Error(

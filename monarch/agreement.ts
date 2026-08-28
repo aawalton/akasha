@@ -5,7 +5,23 @@ import { monarchHeaders } from "./credential.ts"
 import { categoryPages, readAllTransactions } from "./files.ts"
 import { UNCATEGORIZED } from "./transaction.ts"
 
-const LAST_REPORTED = `${process.env.HOME}/.cache/monarch-agreement.json`
+/**
+ * Where the last record filed stands, refusing where nothing says which directory that is.
+ *
+ * THIS READ `${process.env.HOME}/.cache/...` with no guard. An unset `$HOME` — which is what a
+ * systemd unit naming no user hands its process — made that the relative
+ * `undefined/.cache/monarch-agreement.json`, so the record landed under whichever directory the
+ * command ran in and the next run never found it. Nothing said so: the same disagreement was
+ * filed again on every run, because the file the guard reads was never where it looked. A
+ * default here puts the file somewhere plausible and wrong, so there is none.
+ */
+function lastReported(): string {
+  const home = process.env.HOME
+  if (home === undefined || home === "") {
+    throw new Error("$HOME is unset, so nothing says where the last record filed stands")
+  }
+  return `${home}/.cache/monarch-agreement.json`
+}
 
 export interface Reading {
   readonly what: string
@@ -82,8 +98,9 @@ function line(r: Reading): string {
 }
 
 async function alreadyReported(body: string): Promise<boolean> {
+  const at = lastReported()
   try {
-    return (await Bun.file(LAST_REPORTED).text()) === body
+    return (await Bun.file(at).text()) === body
   } catch {
     return false
   }
@@ -112,7 +129,7 @@ export async function report(
     console.log("  (unchanged since the last record filed, so no second one)")
     return parted
   }
-  await Bun.write(LAST_REPORTED, body)
+  await Bun.write(lastReported(), body)
   const child = Bun.spawn(["ops", "seat", "record", recordTo, "--content-file", "-"], {
     stdin: new TextEncoder().encode(body),
     stdout: "pipe",
