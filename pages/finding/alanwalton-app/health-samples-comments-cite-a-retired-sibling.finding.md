@@ -27,4 +27,4 @@ The cost is a broken argument rather than a broken link. Both comments justify a
 
 Not established: whether the retirement meant these to be rewritten as history or missed them. Project #18149 records the route removal as checked with a manager PASS and says nothing about the comments.
 
-Distinct from two standing findings I opened before filing: `pages/finding/code-repo/quarantined-doc-references-dangle.finding.md` covers `See docs/…` pointers left by the 2026-08-03 quarantine move, and `pages/finding/alanwalton-app/cardio-rate-stated-twice.finding.md` covers the cardio points rate.
+Distinct from two standing findings I opened before filing: `pages/finding/akasha-repo/quarantined-doc-references-dangle.finding.md` covers `See docs/…` pointers left by the 2026-08-03 quarantine move, and `pages/finding/alanwalton-app/cardio-rate-stated-twice.finding.md` covers the cardio points rate.

@@ -34,4 +34,4 @@ The distance is what hides it — the constant at line 63, the contradicting pro
 
 Found while ingesting `dirty/code/packages-alanwalton-native-shell-docs-native-seams.md`, whose line 140 reads "Gated ON by default (`NATIVE_SHELL_WIDGET`, #15097)" and matches the constant. That document is being emptied, so afterwards the correct reading stands only in the constant.
 
-Filed apart from `pages/finding/code-repo/quarantined-doc-references-dangle.finding.md`, which counts this same script's dangling `See docs/…` comments: that class is about targets that no longer exist, this is about prose contradicting a constant in the same file.
+Filed apart from `pages/finding/akasha-repo/quarantined-doc-references-dangle.finding.md`, which counts this same script's dangling `See docs/…` comments: that class is about targets that no longer exist, this is about prose contradicting a constant in the same file.
