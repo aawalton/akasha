@@ -70,6 +70,10 @@ const typesSaid = (slugs: readonly string[]): string => {
  * nothing declares. A store reads no value for such a key, so asking for it would answer absent on
  * every page — the same silence, reported as the wrong fault.
  *
+ * A PAGE TYPE IS NAMED RATHER THAN THE KEYS IT MISSES. What a reader does about a page type
+ * covering none of the asked keys is narrow the set or ask for a key it declares, and either needs
+ * the page type named; the keys were in the query already.
+ *
  * A KEY NOWHERE IS REPORTED BEFORE A PAGE TYPE COVERING NOTHING. The first is a fault in the words
  * the query was written in and the second is a fault in the set it was pointed at, and a reader
  * mending the words may not need to hear about the set at all.
@@ -115,7 +119,7 @@ export const keysRefused = (
     return `no page type this asks about declares ${keysSaid(nowhere)}`
   }
   if (bare.length > 0) {
-    return `${typesSaid(bare)} declares none of the keys asked for, and every page of that would answer absent under all of them`
+    return `no key asked for is declared by ${typesSaid(bare)}, whose pages would answer absent under every one of them`
   }
   return null
 }

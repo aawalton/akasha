@@ -66,7 +66,7 @@ test("a key declared to hold what a page is not answered with is refused saying 
 test("a page type declaring none of the keys asked for is refused, naming it", () => {
   const held = declaring({ a: declaredOf("slug"), b: declaredOf("other") })
   expect(keysRefused(["slug"], ["a", "b"], held)).toBe(
-    "`b` declares none of the keys asked for, and every page of that would answer absent under all of them"
+    "no key asked for is declared by `b`, whose pages would answer absent under every one of them"
   )
 })
 

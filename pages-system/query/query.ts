@@ -205,11 +205,10 @@ const beyondSaid = (named: readonly string[], beyond: Readonly<Record<string, st
  * has no set of pages to be about at all, so it is refused before its `where` is read; a fault in
  * the `where` of a query whose subject is undefined would be reported about nothing.
  *
- * ONE DECLARATION COVERS THE WHOLE FAMILY. The `where` is held to what the page type NAMED declares,
- * which is what every page type beneath it inherits, and the pairing under `runQuery` reads every
- * page of the family under that same declaration. A page type beneath restating a key under another
- * type is a fault of that page type, found where page types are checked, rather than a second
- * meaning a query quietly takes on.
+ * ONE DECLARATION COVERS THE `where`. It is held to what the page type NAMED declares, which is what
+ * every page type beneath it inherits. A page type beneath restating a key under another type is a
+ * fault of that page type, found where page types are checked, rather than a second meaning a query
+ * quietly takes on.
  *
  * THE KEYS ARE NOT HELD TO ONE DECLARATION, unlike the `where`. Which page types beneath the one
  * named actually declare a key added further down is what `declaring` answers, and it is what a
@@ -267,8 +266,13 @@ export const checkQuery = (
  *
  * WHICH PAGES THESE ARE IS THE CALLER'S. A query names its page types and this does not enumerate,
  * so handing it the pages of another page type answers nonsense rather than a refusal. The pairing
- * is `checked.pageTypes.flatMap((one) => pagesOf(root, one))`, each page read under the declaration
- * the query was checked against.
+ * is `checked.pageTypes.flatMap((one) => pagesOf(repo, one))`, each page read under what THAT page
+ * type declares — the set `checkQuery` was handed as `declaring`.
+ *
+ * READING A FAMILY UNDER THE HEAD'S DECLARATION ANSWERS ABSENT UNDER EVERY KEY A PAGE TYPE BENEATH
+ * ADDS. A page type inherits every key its parent declares and may add more, so the head's
+ * declaration is the keys the whole family shares rather than the keys any of it holds, and a page
+ * read under it holds nothing under the keys its own page type added.
  */
 export const runQuery = (checked: Checked, pages: readonly Page[]): readonly Page[] =>
   checked.answer(pages)

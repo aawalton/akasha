@@ -289,7 +289,7 @@ test("a page type asked about declaring none of the keys asked for is refused, n
       declaring({ domain: above, oddity: apart })
     )
   ).toBe(
-    "`oddity` declares none of the keys asked for, and every page of that would answer absent under all of them"
+    "no key asked for is declared by `oddity`, whose pages would answer absent under every one of them"
   )
 })
 
