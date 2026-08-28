@@ -10,6 +10,7 @@ export const akashaMigration = {
   design: [
     "A migrated command runs the new implementation beside the old and records where they disagree.",
     "The second implementation changes neither the answer nor whether the command succeeds.",
+    "Ablation severs the only wire the old side has.",
   ],
   rule: [
     {
