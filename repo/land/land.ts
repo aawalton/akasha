@@ -16,7 +16,7 @@ import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
 import { fail, GATED, gateOrRefuse } from "../../patches/patch.ts"
-import { blobId, commitPaths, gitAskingPaths, gitIgnoring, whileHoldingLanding } from "../git/git.ts"
+import { blobId, commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
 import { canonicalize } from "../path/path.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
 import { AKASHA } from "../roots/roots.ts"
@@ -180,6 +180,8 @@ export function landFiles(one: Landings): Landed {
   const touching = [...entries.map((held) => held.relPath), ...composing.map((held) => held.relPath)]
   const wasBefore = bodiesBefore(root, [...touching, ...removing])
   const unheld = strayed(root, removing)
+  // Asked before the removals run, part of the answer being the worktree they change.
+  const heldBefore = heldByRepo(root, removing)
   const carriedHeld = namesGitHolds(
     root,
     carrying.map((held) => held.from)
@@ -227,7 +229,8 @@ export function landFiles(one: Landings): Landed {
       rmSync(absolute, { force: true })
       return was
     })
-    if (stood) gone.push(relPath)
+    // A path the worktree had already lost still goes: HEAD holds it, and this commit lands that.
+    if (stood || heldBefore.has(relPath)) gone.push(relPath)
   }
   for (const held of carrying) {
     const to = `${root}/${held.to}`
