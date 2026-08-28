@@ -41,6 +41,18 @@ export const limitRefused = (query: Query): string | null => {
   return null
 }
 
+export const offsetRefused = (query: Query): string | null => {
+  const offset = query.offset
+  if (offset === undefined) return null
+  if (!Number.isInteger(offset)) {
+    return `an \`offset\` is a whole number of pages, and this one states \`${offset}\``
+  }
+  if (offset < 0) {
+    return `an \`offset\` is how many pages a query passes over, so it is never fewer than none, and this one states \`${offset}\``
+  }
+  return null
+}
+
 export const reductionRefused = (query: Query, declared: Declared): string | null => {
   const how = query.function
   const target = query.target

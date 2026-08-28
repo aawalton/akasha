@@ -12,7 +12,14 @@ import { type Extending, cycleAmong, familyOf } from "./expands.ts"
 import { type Ordering, ordered, orderRefused, orderingOf } from "./order.ts"
 import { type Declaring, keysRefused, narrowed } from "./keys.ts"
 import type { How, Reduction } from "./reduce.ts"
-import { answering, beyondSaid, limitRefused, reductionRefused, refuseQuery } from "./refuse.ts"
+import {
+  answering,
+  beyondSaid,
+  limitRefused,
+  offsetRefused,
+  reductionRefused,
+  refuseQuery,
+} from "./refuse.ts"
 
 const BOOLEAN = "boolean"
 
@@ -34,6 +41,7 @@ export type Query = {
   readonly sortBy?: string
   readonly descending?: boolean
   readonly limit?: number
+  readonly offset?: number
   readonly function?: How
   readonly target?: string
 }
@@ -51,6 +59,8 @@ class CheckedQuery {
 
   readonly #limit: number | null
 
+  readonly #offset: number | null
+
   readonly reduction: Reduction | null
 
   constructor(
@@ -59,7 +69,8 @@ class CheckedQuery {
     keys: readonly string[] | null,
     reduction: Reduction | null,
     ordering: Ordering | null,
-    limit: number | null
+    limit: number | null,
+    offset: number | null
   ) {
     this.pageTypes = pageTypes
     this.#test = test
@@ -67,6 +78,7 @@ class CheckedQuery {
     this.reduction = reduction
     this.#ordering = ordering
     this.#limit = limit
+    this.#offset = offset
   }
 
   answer(pages: readonly Page[]): readonly Page[] {
@@ -79,7 +91,8 @@ class CheckedQuery {
             return held.kind === "boolean" && held.boolean
           })
     const inOrder = this.#ordering === null ? found : ordered(found, this.#ordering)
-    const limited = this.#limit === null ? inOrder : inOrder.slice(0, this.#limit)
+    const past = this.#offset === null ? inOrder : inOrder.slice(this.#offset)
+    const limited = this.#limit === null ? past : past.slice(0, this.#limit)
     return narrowed(limited, this.#keys)
   }
 }
@@ -125,6 +138,10 @@ export const checkQuery = (
   if (overLimit !== null) return refuseQuery(overLimit)
   const limit = query.limit ?? null
 
+  const pastStart = offsetRefused(query)
+  if (pastStart !== null) return refuseQuery(pastStart)
+  const offset = query.offset ?? null
+
   const wrong = reductionRefused(query, declared)
   if (wrong !== null) return refuseQuery(wrong)
   const reduction: Reduction | null =
@@ -134,7 +151,7 @@ export const checkQuery = (
 
   const where = query.where
   if (where === undefined) {
-    return new CheckedQuery(pageTypes, null, keys, reduction, ordering, limit)
+    return new CheckedQuery(pageTypes, null, keys, reduction, ordering, limit, offset)
   }
 
   const checked = checkFormula(where, shapeOf(declared))
@@ -148,7 +165,7 @@ export const checkQuery = (
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering, limit)
+  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering, limit, offset)
 }
 
 export const runQuery = (checked: Checked, pages: readonly Page[]): readonly Page[] =>

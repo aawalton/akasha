@@ -13,7 +13,7 @@ export type Outcome =
   | { readonly outcome: "refused"; readonly mustName: readonly string[] }
   | { readonly outcome: "answers"; readonly at: readonly string[] }
 
-export type CaseGroup = "order" | "limit"
+export type CaseGroup = "order" | "limit" | "offset"
 
 export interface QueryCase {
   readonly name: string
@@ -70,6 +70,11 @@ const HOW_MANY: Citation = {
   line: 14,
 }
 
+const PASSES_OVER: Citation = {
+  page: "pages/page-property-definition/page-query-offset.page-property-definition.md",
+  line: 14,
+}
+
 const NOT_DROPPED = "A narrow the query cannot read is refused, never dropped."
 const DECLARED_TYPE = "A page query compares a value by the type its property declares."
 const ORDERS_BY = "Page query sort by — the property a page query orders its answer by."
@@ -79,6 +84,8 @@ const NEITHER =
   "Before and at or after divide the pages carrying a value in two, each falling on one side. A page carrying no value at all falls on neither."
 const IS_LESS = "< — whether one number is less than another."
 const ANSWERS_WITH = "Page query limit — how many pages a page query answers with."
+const PASSES_BEFORE =
+  "Page query offset — how many pages a page query passes over before the ones it answers with."
 
 export const cases: QueryCase[] = [
   {
@@ -309,6 +316,54 @@ export const cases: QueryCase[] = [
       { at: "two", values: { rank: num(2), title: text("b") } },
     ],
     expected: { outcome: "answers", at: ["one", "two", "three"] },
+  },
+  {
+    name: "a query passes over as many pages as its offset",
+    group: "offset",
+    from: PASSES_OVER,
+    claim: PASSES_BEFORE,
+    query: { pageType: "song", sortBy: "rank", offset: 1 },
+    declared: DECLARED,
+    pages: [
+      { at: "one", values: { rank: num(1) } },
+      { at: "two", values: { rank: num(2) } },
+      { at: "three", values: { rank: num(3) } },
+    ],
+    expected: { outcome: "answers", at: ["two", "three"] },
+  },
+  {
+    name: "an offset passes over pages before a limit counts, so the two name a window",
+    group: "offset",
+    from: PASSES_OVER,
+    claim: PASSES_BEFORE,
+    query: { pageType: "song", sortBy: "rank", offset: 1, limit: 1 },
+    declared: DECLARED,
+    pages: [
+      { at: "one", values: { rank: num(1) } },
+      { at: "two", values: { rank: num(2) } },
+      { at: "three", values: { rank: num(3) } },
+    ],
+    expected: { outcome: "answers", at: ["two"] },
+  },
+  {
+    name: "an offset past every page found answers none",
+    group: "offset",
+    from: PASSES_OVER,
+    claim: PASSES_BEFORE,
+    query: { pageType: "song", offset: 9 },
+    declared: DECLARED,
+    pages: [{ at: "one", values: { rank: num(1) } }],
+    expected: { outcome: "answers", at: [] },
+  },
+  {
+    name: "an offset fewer than no pages is refused",
+    group: "offset",
+    from: REFUSED_NOT_DROPPED,
+    claim: NOT_DROPPED,
+    query: { pageType: "song", offset: -3 },
+    declared: DECLARED,
+    pages: NOTHING,
+    expected: { outcome: "refused", mustName: ["offset", "-3"] },
   },
   {
     name: "a limit fewer than no pages is refused",
