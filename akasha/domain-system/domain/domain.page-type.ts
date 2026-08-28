@@ -25,4 +25,32 @@ export const domain = {
   slug: "domain",
   definition: "a bounded area of concern",
   extendsSlug: "page",
+  design: [
+    "What makes a page a domain is its page type, never the folder it sits in.",
+    "Everything a domain carries could matter to every domain beneath it.",
+    "A domain is never weighed against how many domains there are.",
+    "A slug and a definition is a whole domain, not a stub waiting to be filled in.",
+    "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
+  ],
+  intent: [
+    "An agent writes a domain's lines as well as Alan would.",
+  ],
+  rule: [
+    {
+      act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
+      warrant: "Readers below inherit these, so a wrong one is obeyed, not caught.",
+      aids: [
+        "Approving the shape is not approving the words.",
+        "His release covers a piece of work, not the next.",
+      ],
+    },
+    {
+      act: "Write every definition and invariant again, simpler, plainer, clearer, shorter.",
+      warrant: "Agents work better when given fewer, plainer words in simpler grammar.",
+      aids: [
+        "A different claim is not a plainer line.",
+        "Shorter is only better when it is not less clear.",
+      ],
+    },
+  ],
 } as const satisfies PageType

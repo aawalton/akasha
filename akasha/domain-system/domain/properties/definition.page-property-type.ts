@@ -9,4 +9,10 @@ export const definition = {
   extendsSlug: null,
   nameFormatSlug: null,
   max: 100,
+  design: [
+    "A definition holds no clause saying what the thing is for, why it is worth having, or where it sits.",
+    "A definition names one concern. Where a second is needed to cover the area, the area is more than one domain.",
+    "A fact true of every sibling stands on the parent's line rather than on each sibling's own line.",
+    "What a domain is about stays on its own line, even where every sibling is about it too.",
+  ],
 } as const satisfies PagePropertyType

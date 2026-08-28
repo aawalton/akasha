@@ -9,4 +9,7 @@ export const slug = {
   extendsSlug: null,
   nameFormatSlug: null,
   max: null,
+  design: [
+    "A slug is unique among the pages of its page type.",
+  ],
 } as const satisfies PagePropertyType

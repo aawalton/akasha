@@ -5,7 +5,7 @@ export type Max = number
 export const max = {
   id: "01a049b9-856c-7599-ab4a-e644848ad626",
   slug: "max",
-  definition: "the most characters a text value may run to",
+  definition: "the most a value may run to, in characters or entries",
   extendsSlug: null,
   nameFormatSlug: null,
   max: null,

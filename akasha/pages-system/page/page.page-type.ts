@@ -12,4 +12,8 @@ export const page = {
   slug: "page",
   definition: "what is recorded about one thing of a specific type",
   extendsSlug: null,
+  design: [
+    "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
+    "A page is deleted once its purpose is done.",
+  ],
 } as const satisfies PageType

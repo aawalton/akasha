@@ -10,4 +10,17 @@ export const intent = {
   extendsSlug: "invariant",
   nameFormatSlug: null,
   max: null,
+  design: [
+    "An intent entry names a state the domain should be in, never an act to take or a reason for it.",
+  ],
+  rule: [
+    {
+      act: "Move or delete an intent entry as soon as you find it true, not when the work on it closes.",
+      warrant: "Nothing re-reads an entry, so one that came true and stayed sends someone at a gap already shut.",
+      aids: [
+        "Check the whole claim, not just the case you met.",
+        "Resolve the entry you found, not the section.",
+      ],
+    },
+  ],
 } as const satisfies PagePropertyType

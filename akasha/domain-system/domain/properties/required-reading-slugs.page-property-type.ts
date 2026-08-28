@@ -10,4 +10,8 @@ export const requiredReadingSlugs = {
   extendsSlug: null,
   nameFormatSlug: null,
   max: null,
+  design: [
+    "A domain may name one below it in the tree.",
+    "A domain's required reading names only the terms a reader would misread it without.",
+  ],
 } as const satisfies PagePropertyType
