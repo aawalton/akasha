@@ -20,6 +20,6 @@ No file under `tools/gates/` imports `readUncommitted` or `uncommittedPathFor`, 
 
 Observed 2026-08-24. `pages/page-property-definition/agent-readings.md` declares `type: map(reading)`, and the record type declares `content-hash` and `spans` as required, plus `seen-at` and `mechanical-hash`. Sixteen standing agents carry 2,184 readings written by this route. A reading missing a required field, or carrying one the record does not declare, would land and be read back with nothing saying so.
 
-Alan asked for the record type in place of `type: json` so that the values could be validated. The declaration buys one spelling for the four field names across code and data, which `type: json` would not; it does not buy the judging.
+The record type was asked for in place of `type: json` so the values could be validated. It buys one spelling for the four field names across code and data, which `type: json` would not; it does not buy the judging.
 
 A second thing rests on the same gap. `defined-on-slug: reading` names two documents — `pages/page-property-type/page-property-type-reading.md`, the record type, and `pages/page-type/reading.md`, a page type under `narrative-world`. `domain-dictionary` allows one spelling under two domains. Which of them the four `reading-*` properties bind to cannot be observed, because nothing judges an uncommitted value and the page type states `files: none`, so it has no pages that could fail.
