@@ -43,7 +43,7 @@ export default workflow("grafana", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/grafana/secrets/grafana-secrets.sops.yaml)`,
+          `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/grafana/grafana.k8s-secret.sops.yaml)`,
           `echo "$DECRYPTED" | kubectl apply --dry-run=client -n grafana -f -`,
           `echo "$DECRYPTED" | kubectl apply -n grafana -f -`,
         ],
@@ -92,7 +92,7 @@ export default workflow("grafana", {
           }),
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/infra/k8s/src/grafana/secrets/grafana-secrets.sops.yaml`,
+            read: `sops -d ${ci.workspace}/infra/k8s/src/grafana/grafana.k8s-secret.sops.yaml`,
             subject: "grafana-secrets.sops.yaml",
           }),
           'sed "s|checksum/config:.*|checksum/config: \\"${GRAFANA_HASH}\\"|" infra/k8s/src/grafana/generated/deployment.generated.yaml \\',
