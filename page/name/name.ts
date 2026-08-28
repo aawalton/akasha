@@ -17,8 +17,18 @@ export function pageNameOf(key: string): PageName | null {
   return { stem: rest.slice(0, dot), type: rest.slice(dot + 1) }
 }
 
-export function stemOf(key: string): string {
+export function pageStemOf(key: string): string {
+  const named = pageNameOf(key)
+  if (named === null) throw new Error(`\`${key}\` carries no page type, so it has no page stem`)
+  return named.stem
+}
+
+export function fileStemOf(key: string): string {
   const base = key.slice(key.lastIndexOf("/") + 1)
   const dot = base.indexOf(DOT)
   return dot <= 0 ? base : base.slice(0, dot)
+}
+
+export function stemOf(key: string): string {
+  return fileStemOf(key)
 }
