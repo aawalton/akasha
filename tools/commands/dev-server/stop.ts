@@ -5,6 +5,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import {
+  APP_NAMES,
   type DevServerState,
   errnoCode,
   isPidAlive,
@@ -26,7 +27,7 @@ export const help: CommandHelp = {
       name: "--app",
       argLabel: "<name>",
       valueShape: "token",
-      description: "App identifier (one of: alanwalton, temper)",
+      description: `App identifier (one of: ${APP_NAMES.join(", ")})`,
     },
     { name: "--all", description: "Stop every state-file-tracked dev server" },
     { name: "--json", description: "Emit JSON result instead of human-readable lines" },
