@@ -43,7 +43,12 @@ function fileValue(op: string, pageTypeSlug: string, key: string, value: unknown
   )
 }
 
-/** Spelled camel, and asked camel — the read seam asks the same question at `file-rows.ts:192`. */
+/**
+ * Spelled camel, because camel is what the row store calls its own columns. THE READ SEAM DOES NOT
+ * ASK THIS SAME QUESTION: `SETTLED_BY_ROW` at `file-rows.ts:24` holds `seq` as well, and
+ * `file-rows.ts:163` tests it AFTER camelizing where this tests the raw key, so a page holding
+ * `user-id` in its own frontmatter is kept here and dropped there.
+ */
 const SETTLED_ELSEWHERE: ReadonlySet<string> = new Set(["pageTypeSlug", "pageTypeId", "userId"])
 
 const PAGE_ID = "id"
