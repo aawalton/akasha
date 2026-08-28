@@ -24,4 +24,8 @@ The audit does not share the gap. A file under no project is judged under defaul
 
 One instance found by that difference: `tools/lib/local-executor/index.ts` forwards four names on lines 3, 5, 6 and 7 that `./executor.ts` does not export — the same shape as a barrel removed from `shared/pages-core` on 2026-08-27, alive and unreported because no root reference reaches `tools/`.
 
-Not measured: whether extending the references list would make the root build agree with the audit, or what it would cost.
+Read again at `045b6daa0`: the list now names 53 references and reaches five top-level directories, `pages-system` having been added since the reading above, so extending it is something already being done rather than a thing nobody has tried.
+
+Extending it cannot reach `tools/`. Each of the nine directories named above carries a `tsconfig.json` and so could be named as a reference. `tools/` carries none — not at its root and nowhere beneath it — so there is no project to name. That is why it falls to the audit's default-options path rather than to a project. Closing the gap for the nine is a list edit; closing it for `tools/` is creating a project first, and `tools/lib/` is where an agent changing this repository's own commands works.
+
+Not measured: what either would cost to run, and whether a project over `tools/` would pass once it existed.
