@@ -44,6 +44,7 @@ export async function written(
   request: Request,
   says: string
 ): Promise<Said> {
+  refuseALiveTestWriteIn(roots, `${act} ${pageType}/${rawName}`, "`written`")
   const began = Date.now()
   const spent: string[] = []
   let mark = began
