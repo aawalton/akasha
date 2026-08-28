@@ -1,5 +1,8 @@
 
-import { classifyOverloadDeath } from "./classify-overload-death.ts"
+import {
+  classifyTurnEndErrorDeath,
+  CONNECTION_STATUS,
+} from "./classify-turn-end-error-death.ts"
 import { OVERLOAD_MAX_WAIT_MS, overloadWaitMs } from "./decide-overload-resume.ts"
 import { USER_ID } from "./user-id.ts"
 import {
@@ -13,15 +16,19 @@ import { askSupervisorDecide } from "./supervisor-limit-resume-effects.ts"
 import {
   askOverloadResume,
   type AskDecide,
-  OVERLOAD_RESUME_DECISION,
   type OverloadResumeVerdict,
 } from "./supervisor-overload-resume-answer.ts"
-
-export { type AskDecide, OVERLOAD_RESUME_DECISION }
 
 const OVERLOAD_RESUME_INTERVAL_MS = 30_000
 
 type TickKind = OverloadResumeVerdict["kind"] | "unreachable" | "none"
+
+function kindsOf(statuses: readonly number[]): string {
+  const seen = [...new Set(statuses)].map((one) =>
+    one === CONNECTION_STATUS ? "connection" : "overload"
+  )
+  return seen.length === 0 ? "none" : seen.join(" and ")
+}
 
 export function startOverloadResumeMonitor(opts: {
   getAgentId: () => string | null
@@ -66,7 +73,7 @@ export function startOverloadResumeMonitor(opts: {
       const agentId = opts.getAgentId()
       if (agentId === null) return
       const text = readTranscriptTail(agentId)
-      const reading = text === null ? null : classifyOverloadDeath(text)
+      const reading = text === null ? null : classifyTurnEndErrorDeath(text)
       if (reading === null || !reading.detected) {
         lastKind = "none"
         lastNudgeAtMs = null
@@ -78,8 +85,9 @@ export function startOverloadResumeMonitor(opts: {
       if (waitMs >= OVERLOAD_MAX_WAIT_MS && !ceilingReported) {
         ceilingReported = true
         opts.log?.(
-          `overload-resume: ${agentId} has been overloaded ${reading.consecutive} times running ` +
-            "and its wait is at the ceiling — still being nudged, and still not working"
+          `overload-resume: ${agentId} has died ${reading.consecutive} times running ` +
+            `(${kindsOf(reading.statuses)}) and its wait is at the ceiling — ` +
+            "still being nudged, and still not working"
         )
       }
       const answer = await askOverloadResume(ask, {
@@ -104,7 +112,9 @@ export function startOverloadResumeMonitor(opts: {
       await injectNudge(agentId, verdict.nudge)
       lastNudgeAtMs = now
       lastKind = "nudge"
-      opts.log?.(`overload-resume: nudged ${agentId} — ${verdict.reason}`)
+      opts.log?.(
+        `overload-resume: nudged ${agentId} after ${kindsOf(reading.statuses)} — ${verdict.reason}`
+      )
     } catch (err) {
       opts.log?.(`overload-resume: tick error: ${String(err)}`)
     } finally {
