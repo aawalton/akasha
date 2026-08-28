@@ -6,7 +6,7 @@ import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { advise, over, skip } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { claiming, type PageType } from "../../page/page-types.ts"
+import { claimant, type PageType } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -91,8 +91,8 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
   }
 
   for (const relPath of pages) {
-    const [type, ...also] = claiming(relPath, repo.name, types)
-    if (type === undefined || also.length > 0) continue
+    const type = claimant(relPath, types).type
+    if (type === null) continue
     const under = covered.get(type.relPath)
     if (under === undefined) continue
     const read = fill(under.template, repo.read(relPath))

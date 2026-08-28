@@ -5,7 +5,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { hold, type Shape } from "../../page/shape/shape.ts"
 import { partOutsideShape } from "../../page/shape/words.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
-import { claiming, PAGE_TYPE_GLOBS, placesIn, reposOf, scanIn, type PageType } from "../../page/page-types.ts"
+import { claimant, PAGE_TYPE_GLOBS, placesIn, reposOf, scanIn, type PageType } from "../../page/page-types.ts"
 import { isDirty, rootFor } from "../../repo/roots/roots"
 
 const NAME = "pages-hold-shape"
@@ -48,13 +48,8 @@ export const pagesHoldShape: Check = (repo) => {
   let holding = 0
 
   for (const relPath of pages) {
-    const [type, ...also] = claiming(relPath, repo.name, types)
-    if (type === undefined) continue
-    if (also.length > 0) {
-      const named = [type, ...also].map((one) => `\`${one.slug}\``).join(", ")
-      unjudgeable.push(`${relPath} — ${also.length + 1} page types claim it: ${named}`)
-      continue
-    }
+    const type = claimant(relPath, types).type
+    if (type === null) continue
     const shape = shapes.get(type.relPath)!
     if (shape.compiled === null) {
       unjudgeable.push(`${relPath} — \`${type.slug}\` states no shape this can hold a body to: ${shape.why}`)

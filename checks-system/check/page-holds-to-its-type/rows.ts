@@ -3,7 +3,7 @@ import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
 import { judgeRow } from "../../../page/property/judge.ts"
 import type { Property } from "../../../page/property/property.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
-import { claiming, type PageType } from "../../../page/page-types.ts"
+import { claimant, type PageType } from "../../../page/page-types.ts"
 
 const DATA_FILE = /^(.*)\.([a-z0-9-]+)\.jsonl$/
 
@@ -21,15 +21,14 @@ const none: RowsHeld = { slug: null, properties: null }
 
 export function rowsHeldBy(
   relPath: string,
-  repo: string,
   types: readonly PageType[],
   tree: FileTree
 ): RowsHeld {
   const split = DATA_FILE.exec(relPath)
   if (split === null) return none
-  const owners = claiming(`${split[1] as string}.md`, repo, types)
-  if (owners.length !== 1) return none
-  const { properties: onParent } = compiledPageTypeFor(owners[0] as PageType, tree)
+  const beside = claimant(`${split[1] as string}.md`, types).type
+  if (beside === null) return none
+  const { properties: onParent } = compiledPageTypeFor(beside, tree)
   const holder = onParent?.find((one) => one.name === (split[2] as string))
   if (holder === undefined) return none
   const text = tree.open(holder.at)

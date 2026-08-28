@@ -4,7 +4,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { hold, shapeOf, type Forebear, type Shape } from "../../page/shape/shape.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
-import { claiming, PAGE_GLOBS, scan } from "../../page/page-types.ts"
+import { claimant, PAGE_GLOBS, scan } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
@@ -153,10 +153,9 @@ describe("the pages standing in the instructions repo", () => {
 
   for (const relPath of paths) {
     test(`${relPath} is claimed by one page type, and its body holds to that page type`, () => {
-      const owners = claiming(relPath, "instructions", types)
-      expect(owners.map((one) => one.slug)).toHaveLength(1)
-      const type = owners[0]!
-      const shape = shapeFor(type, tree)
+      const type = claimant(relPath, types).type
+      expect(type).not.toBeNull()
+      const shape = shapeFor(type!, tree)
       expect(shape.why).toBeNull()
       const text = textAt(rootFor(roots, AKASHA), relPath)!
       const { above, why } = aboveOf(relPath, text, tree)

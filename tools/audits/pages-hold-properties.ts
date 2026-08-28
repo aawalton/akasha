@@ -6,7 +6,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { type CompiledPageType, compiledPageTypeFor, PROPERTY_ROOTS } from "../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../page/property/judge.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { claiming, PAGE_TYPE_GLOBS } from "../../page/page-types.ts"
+import { claimant, PAGE_TYPE_GLOBS } from "../../page/page-types.ts"
 import { claimedPages, emptyClaim } from "./pages-hold-shape.ts"
 
 const NAME = "pages-hold-properties"
@@ -35,13 +35,8 @@ export const pagesHoldProperties: Check = (repo) => {
   let holding = 0
 
   for (const relPath of pages) {
-    const [type, ...also] = claiming(relPath, repo.name, types)
-    if (type === undefined) continue
-    if (also.length > 0) {
-      const named = [type, ...also].map((one) => `\`${one.slug}\``).join(", ")
-      unjudgeable.push(`${relPath} — ${also.length + 1} page types claim it: ${named}`)
-      continue
-    }
+    const type = claimant(relPath, types).type
+    if (type === null) continue
     const held = declared.get(type.relPath)!
     const { properties, why } = held
     if (properties === null) {

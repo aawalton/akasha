@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { diskFileTree, type FileTree } from "../../../page/file-tree.ts"
 import { parseFrontmatter } from "../../../page/frontmatter.ts"
-import { claiming, type PageType, placeDirOf } from "../../../page/page-types.ts"
+import { claimant, type PageType, placeDirOf } from "../../../page/page-types.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { rootsHere } from "../../../repo/roots/roots.ts"
 import { idOfFilePage } from "../../../page/name/naming/naming.ts"
@@ -34,7 +34,7 @@ function idToState(
   repo: string,
   types: readonly PageType[]
 ): string | null {
-  if (claiming(relPath, repo, types).length === 0) return null
+  if (claimant(relPath, types).type === null) return null
   if (!body.startsWith(OPENING)) return null
   const fm = parseFrontmatter(body)
   if (!fm.present || fm.error !== null || fm.keys.includes(ID_KEY)) return null

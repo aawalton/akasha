@@ -1,5 +1,5 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
-import { claiming, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
+import { claimant, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
 import { globFor } from "../../../page/glob/glob.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
@@ -80,18 +80,16 @@ export const pageHoldsToItsType: Check = {
       if (at === null) continue
       const text = body.toString("utf8")
       if (path.endsWith(ROWS)) {
-        const { slug, properties } = rowsHeldBy(at.relPath, at.repo, types, tree)
+        const { slug, properties } = rowsHeldBy(at.relPath, types, tree)
         if (slug === null) continue
         for (const reason of rowsOutside(text, slug, properties)) failures.push({ path, reason })
         continue
       }
-      const owners = claiming(at.relPath, at.repo, types)
-      if (owners.length === 0) {
+      const type = claimant(at.relPath, types).type
+      if (type === null) {
         for (const reason of claimedElsewhere(at.relPath, at.repo, types)) failures.push({ path, reason })
         continue
       }
-      if (owners.length !== 1) continue
-      const type = owners[0] as PageType
       for (const reason of outsideShape(at.relPath, text, type, tree)) failures.push({ path, reason })
       for (const reason of outsideProperties(text, type, tree)) failures.push({ path, reason })
     }

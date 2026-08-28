@@ -1,7 +1,5 @@
 import { readdirSync } from "node:fs"
 import { matchesGlob, scanGlob } from "./glob/glob.ts"
-import { isRowsFile } from "./rows-file.ts"
-import { isAttachmentFile } from "./attachment-file.ts"
 import { listField, type Frontmatter } from "./frontmatter.ts"
 import { notIgnored } from "../repo/ignored/ignored.ts"
 import { INSTRUCTIONS, REPOS } from "../repo/roots/roots.ts"
@@ -274,50 +272,6 @@ export function placesIn(one: PageType, repo: string): readonly string[] {
 
 export function pagesOf(root: string, one: PageType, repo: string): readonly string[] {
   return scanIn(root, placesIn(one, repo), repo)
-}
-
-interface Claimants {
-  readonly rank: ReadonlyMap<PageType, number>
-  readonly bySuffix: ReadonlyMap<string, readonly PageType[]>
-  readonly elsewhere: readonly PageType[]
-}
-
-const claimants = new WeakMap<readonly PageType[], Claimants>()
-
-function claimantsOf(types: readonly PageType[]): Claimants {
-  const held = claimants.get(types)
-  if (held !== undefined) return held
-  const rank = new Map<PageType, number>()
-  const bySuffix = new Map<string, PageType[]>()
-  const elsewhere: PageType[] = []
-  for (const one of types) {
-    const places = placesOf(one)
-    if (places.length === 0) continue
-    rank.set(one, rank.size)
-    const suffixes = [...new Set(places.map(typeSuffixIn))]
-    if (suffixes.every((suffix) => suffix !== null)) {
-      for (const suffix of suffixes) {
-        const bucket = bySuffix.get(suffix as string)
-        if (bucket === undefined) bySuffix.set(suffix as string, [one])
-        else bucket.push(one)
-      }
-      continue
-    }
-    elsewhere.push(one)
-  }
-  const made = { rank, bySuffix, elsewhere }
-  claimants.set(types, made)
-  return made
-}
-
-export function claiming(relPath: string, repo: string, types: readonly PageType[]): readonly PageType[] {
-  if (isAttachmentFile(relPath) || isRowsFile(relPath)) return []
-  const { rank, bySuffix, elsewhere } = claimantsOf(types)
-  const named = bySuffix.get(typeSuffixOf(relPath)) ?? []
-  const found = [...named, ...elsewhere].filter(
-    (one) => placesIn(one, repo).some((glob) => matchesGlob(relPath, glob))
-  )
-  return found.length < 2 ? found : found.sort((a, b) => (rank.get(a) ?? 0) - (rank.get(b) ?? 0))
 }
 
 export type Claim =

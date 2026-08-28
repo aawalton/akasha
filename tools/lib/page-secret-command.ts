@@ -5,7 +5,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { cipherFor, keysIn, sidecarFor, valuesIn, type Values } from "./page-secret.ts"
-import { claiming } from "../../page/page-types.ts"
+import { claimant } from "../../page/page-types.ts"
 import { repoOf } from "./payload.ts"
 import { type Roots } from "../../page/page"
 import { resolveRoots, targetRepo, targetRoot } from "../../repo/roots/roots"
@@ -30,14 +30,10 @@ export interface Landed {
 function secretsOn(relPath: string, roots: Roots): readonly string[] {
   const repo = targetRepo(roots)
   const tree = diskFileTree(roots)
-  const owners = claiming(relPath, repo, registryOf(tree))
-  const [type] = owners
-  if (type === undefined) {
-    fail(`no page type claims ${relPath} in ${repo}, so nothing declares which of its properties are secret`)
-  }
-  if (owners.length > 1) {
-    const named = owners.map((one) => `\`${one.slug}\``).join(", ")
-    fail(`${owners.length} page types claim ${relPath} — ${named} — so nothing states what it may hold`)
+  const claim = claimant(relPath, registryOf(tree))
+  const type = claim.type
+  if (type === null) {
+    fail(`${relPath} in ${repo} — ${claim.why}, so nothing declares which of its properties are secret`)
   }
   const { properties, why } = compiledPageTypeFor(type, tree)
   if (properties === null) fail(`\`${type.slug}\` states no property set this can read: ${why}`)

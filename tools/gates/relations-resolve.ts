@@ -4,7 +4,7 @@ import type { FileTree } from "../../page/file-tree.ts"
 import { chainOf } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { fileTreeOf } from "../page/page-file-tree.ts"
-import { claimant, claiming, pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
+import { claimant, pagesOf, reposOf, type PageType } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 import {
@@ -46,7 +46,7 @@ function readingFor(subject: Subject, types: readonly PageType[], tree: FileTree
       if (held !== undefined) return held
       const standing = homesOf(type).flatMap((at) => pagesOf(at.root, type, at.repo))
       const also = reposOf(type).includes(repo)
-        ? [...writing].filter((one) => claiming(one, repo, [type]).length > 0)
+        ? [...writing].filter((one) => claimant(one, [type]).type !== null)
         : []
       const made = [...new Set([...standing, ...also])]
       listings.set(type.relPath, made)

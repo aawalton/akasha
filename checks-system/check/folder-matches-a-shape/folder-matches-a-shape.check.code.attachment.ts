@@ -2,10 +2,10 @@ import { resolve } from "node:path"
 import { type Held, foldersHere, named, namedFew } from "../../../file-structure/folder/folder.ts"
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import { diskFileTree } from "../../../page/file-tree.ts"
-import { claiming, type PageType } from "../../../page/page-types.ts"
+import { claimant, type PageType } from "../../../page/page-types.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { isRowsFile } from "../../../page/rows-file.ts"
-import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
+import { rootsHere } from "../../../repo/roots/roots.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
 const MOST = 6
@@ -96,14 +96,13 @@ function pagesOfOneType(folder: string, one: Held, types: readonly PageType[]): 
   const sidecars: string[] = []
   const strays: string[] = []
   for (const key of one.files) {
-    const owners = claiming(key, AKASHA, types)
-    const owner = owners[0]
-    if (owners.length === 1 && owner !== undefined) {
+    const owner = claimant(key, types).type
+    if (owner !== null) {
       kinds.add(owner.slug)
       stems.push(stemOf(key))
       continue
     }
-    if (owners.length === 0 && (isAttachmentFile(key) || isRowsFile(key))) sidecars.push(key)
+    if (isAttachmentFile(key) || isRowsFile(key)) sidecars.push(key)
     else strays.push(key)
   }
   const loose = sidecars.filter((key) => !stems.some((stem) => key.startsWith(`${stem}.`)))
