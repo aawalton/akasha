@@ -1,15 +1,11 @@
 import type { RuleSet } from "./rules-engine.ts"
-import { type Roots } from "../../page/page"
 import { resolveRoots } from "../../repo/roots/roots"
 import { ruleSetOf, globFor, globsOf } from "./rules-engine-rule-set.ts"
 
 const RULE_SET = "email-rule"
 
 function readRuleSet(): RuleSet {
-  const roots: Roots = {
-    ...resolveRoots(),
-    instructions: new URL("../../", import.meta.url).pathname,
-  }
+  const roots = resolveRoots()
   const globs = globsOf(RULE_SET, roots)
   return {
     ...ruleSetOf(RULE_SET, roots),
