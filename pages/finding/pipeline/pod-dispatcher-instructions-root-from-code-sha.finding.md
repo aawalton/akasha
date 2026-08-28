@@ -3,7 +3,7 @@ id: 3f8c21a4-6d5b-4e97-b0c2-8a1e5d7f9c40
 slug: pod-dispatcher-instructions-root-from-code-sha
 page-type-slug: finding
 title: "The pod dispatcher builds INSTRUCTIONS_ROOT from the code sha"
-domain-slug: domain/992
+domain-slug: page-type/pipeline
 ---
 
 # Claim
