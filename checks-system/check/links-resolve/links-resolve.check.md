@@ -21,3 +21,7 @@ Both ends of a link are judged, the links a change carries and the links reachin
 The links reaching a file are read from the relation index rather than by searching the repository.
 
 A link naming a heading or a quote is judged against the body, so the pages holding those links are read.
+
+A file under a `dirty` folder is not judged.
+
+A page of a type whose body came from elsewhere is not judged.

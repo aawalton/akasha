@@ -16,6 +16,8 @@ const MARKDOWN = ".md"
 
 const JOIN = "/"
 
+const DIRTY_DIR = /(^|\/)dirty\//
+
 export type Held = {
   readonly path: string
   readonly body: string | null
@@ -46,15 +48,24 @@ export type Mortal = (address: string) => boolean
 
 const NEVER_MORTAL: Mortal = () => false
 
+export type Unjudged = (address: string) => boolean
+
+const NEVER_UNJUDGED: Unjudged = () => false
+
+export function underDirty(address: string): boolean {
+  return DIRTY_DIR.test(keyIn(address))
+}
+
 export function judgeLinks(
   staged: ReadonlyMap<string, Held>,
   bodyOf: (address: string) => string | null,
   sourcesOf: Sources,
-  mortal: Mortal = NEVER_MORTAL
+  mortal: Mortal = NEVER_MORTAL,
+  unjudged: Unjudged = NEVER_UNJUDGED
 ): readonly CheckFailure[] {
   const failures: CheckFailure[] = []
   for (const [address, held] of staged) {
-    if (held.body === null || mortal(address)) continue
+    if (held.body === null || mortal(address) || unjudged(address)) continue
     for (const link of linksIn(repoIn(address), keyIn(address), held.body)) {
       if (link.target === null || mortal(link.target)) continue
       const reason = brokenBy(link, `${address}:${link.line}`, link.target, bodyOf(link.target))
@@ -68,7 +79,7 @@ export function judgeLinks(
       if (staged.has(from)) continue
       const text = bodyOf(from)
       if (text === null) continue
-      if (mortal(from)) continue
+      if (mortal(from) || unjudged(from)) continue
       for (const link of linksIn(source.repo, source.key, text)) {
         if (link.target !== address) continue
         const reason = brokenBy(link, `${from}:${link.line}`, address, held.body)
@@ -105,7 +116,8 @@ export const linksResolve: Check = {
         return root === undefined ? null : textAt(root, keyIn(address))
       },
       (target) => [...sourcesAt(LINK_RELATION, target)],
-      (address) => mortalPagesAt(keyIn(address))
+      (address) => mortalPagesAt(keyIn(address)),
+      underDirty
     )
   },
 }
