@@ -12,7 +12,7 @@ import {
   termOf,
 } from "../lib/rename-property.ts"
 import type { PageType } from "../../page/page-types.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "../../repo/roots/roots.ts"
 
 const PAGE = [
   "---",
@@ -142,6 +142,18 @@ describe("definitionDestination", () => {
 
   test("a rename whose file name does not change reads back as the file it already stands at", () => {
     expect(definitionDestination(AT, TYPES, "agent-hook", "code")).toBe(AT)
+  })
+
+  test("a key written in lower camel names its file in lower kebab, which is the form a file name takes", () => {
+    expect(definitionDestination(AT, TYPES, "agent-hook", "kindOfThing")).toBe(
+      "pages/page-property-definition/agent-hook-kind-of-thing.page-property-definition.md"
+    )
+  })
+
+  test("a camel key already carrying the words of the type it is declared on is not prefixed with them twice", () => {
+    expect(definitionDestination(AT, TYPES, "agent-hook", "agentHookKind")).toBe(
+      "pages/page-property-definition/agent-hook-kind.page-property-definition.md"
+    )
   })
 
   test("a definition whose name carries no page type names no file to move to", () => {

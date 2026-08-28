@@ -5,6 +5,7 @@ import { Source } from "../../page/document/position.ts"
 import type { FileTree } from "../../page/file-tree.ts"
 import { DEFINED_ON, PROPERTY_GLOBS } from "../../page/page-types.ts"
 import { PROPERTY_KEY } from "../../page/property/declarations.ts"
+import { kebabized } from "../../page/property/key-spelling.ts"
 import { chainOf, compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { mentionPatches } from "../../repoint/mention.ts"
 import { claimant, newPageNameFor, type PageType, pagesOf, reposOf } from "../../page/page-types.ts"
@@ -153,8 +154,10 @@ export function definitionsOf(tree: FileTree, onType: string, key: string): read
   return found
 }
 
-export const propertyFileName = (on: string, key: string): string =>
-  key === on || key.startsWith(`${on}-`) ? key : `${on}-${key}`
+export const propertyFileName = (on: string, key: string): string => {
+  const named = kebabized(key)
+  return named === on || named.startsWith(`${on}-`) ? named : `${on}-${named}`
+}
 
 export function definitionDestination(
   definition: string,
