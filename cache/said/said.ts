@@ -10,8 +10,6 @@ import { oidsUnder } from "../../repo/oid/oid.ts"
 
 export const SAID_KIND = "said"
 
-const ENGINE = "graph/ask.ts"
-
 const SAID_FIELD = "said"
 
 export type MarkFor = (entry: string) => string
@@ -84,10 +82,6 @@ export function saidUnder(
  * had not moved. A closure taken from the answering file holds only what that answer depends on: a
  * shared helper appears in both closures, and a producer reading another's output has that other
  * inside its own.
- *
- * AN ENTRY THE GRAPH DOES NOT REACH FALLS BACK TO THE ENGINE, because a closure of no files hashes
- * to a mark that never moves, and an answer under a mark that never moves outlives every change to
- * the code that wrote it. Falling back is over-eager, which is the safe direction to be wrong in.
  */
 export function marksHere(
   root: string,
@@ -99,9 +93,7 @@ export function marksHere(
   return (entry) => {
     const had = held.get(entry)
     if (had !== undefined) return had
-    const reached = closureOf(bare, entry, oids)
-    const inputs = reached.length === 0 ? closureOf(bare, ENGINE, oids) : reached
-    const made = markOf(SAID_KIND, entry, runtime, inputs)
+    const made = markOf(SAID_KIND, entry, runtime, closureOf(bare, entry, oids))
     held.set(entry, made)
     return made
   }

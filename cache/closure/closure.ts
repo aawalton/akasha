@@ -11,12 +11,23 @@ function refKey(ref: NodeRef): string {
   return `${ref.repo} ${ref.key}`
 }
 
+/**
+ * Every file reachable from one entry over import edges, with the oid each is at.
+ *
+ * AN ENTRY THAT IS NO NODE IS REFUSED RATHER THAN ANSWERED WITH NOTHING. A closure of no files is
+ * indistinguishable from a file that imports nothing, and a caller marking work by it gets a mark
+ * over the kind and the name alone — one that never moves, under which an answer outlives every
+ * edit to the code that wrote it. `entryOf` named a layout gone since the checks folder took its
+ * domain's name, and every check's mark was that constant until it was found by hand.
+ */
 export function closureOf(
   ctx: BuildContext,
   entry: string,
   oids: ReadonlyMap<string, string>
 ): readonly Input[] {
-  const waiting: NodeRef[] = [{ repo: AKASHA, key: entry }]
+  const from: NodeRef = { repo: AKASHA, key: entry }
+  if (nodeAt(ctx, from) === null) throw new Error(`closure: no node is at ${AKASHA}:${entry}`)
+  const waiting: NodeRef[] = [from]
   const seen = new Set<string>()
   const inputs: Input[] = []
   while (waiting.length > 0) {
