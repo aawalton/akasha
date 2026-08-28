@@ -1,7 +1,6 @@
 import { AKASHA_TREE_STEP_NAME, akashaTreeStep } from "./akasha-tree-step.ts"
 import type { StepDefinition, WorkflowConfigJson } from "./code.ts"
 import type { PipelinePlan, StepPlan, WorkflowPlan } from "./create.ts"
-import { INSTRUCTIONS_TREE_STEP_NAME, instructionsTreeStep } from "./instructions-tree-step.ts"
 import type { Choice } from "./select.ts"
 import { statusAsPagesSpell } from "./vocabulary.ts"
 
@@ -73,28 +72,17 @@ function workflowPlanOf(config: WorkflowConfigJson, changedFiles: readonly strin
 
 const PREPARATION_KIND = "preparation"
 
-const NEEDS_INSTRUCTIONS_TREE = "preparation-prep"
+const NEEDS_AKASHA_TREE = "preparation-prep"
 
-function withInstructionsTree(plan: WorkflowPlan, instructionsCommit: string): WorkflowPlan {
+function withAkashaTree(plan: WorkflowPlan, akashaCommit: string): WorkflowPlan {
   if (plan.kind !== PREPARATION_KIND) return plan
   const steps = plan.steps.map((one) =>
-    one.title === NEEDS_INSTRUCTIONS_TREE && !one.dependsOn.includes(INSTRUCTIONS_TREE_STEP_NAME)
-      ? { ...one, dependsOn: [...one.dependsOn, INSTRUCTIONS_TREE_STEP_NAME] }
-      : one
-  )
-  if (steps.some((one) => one.title === INSTRUCTIONS_TREE_STEP_NAME)) return { ...plan, steps }
-  return { ...plan, steps: [...steps, instructionsTreeStep(instructionsCommit)] }
-}
-
-function withAkashaTree(plan: WorkflowPlan, instructionsCommit: string): WorkflowPlan {
-  if (plan.kind !== PREPARATION_KIND) return plan
-  const steps = plan.steps.map((one) =>
-    one.title === NEEDS_INSTRUCTIONS_TREE && !one.dependsOn.includes(AKASHA_TREE_STEP_NAME)
+    one.title === NEEDS_AKASHA_TREE && !one.dependsOn.includes(AKASHA_TREE_STEP_NAME)
       ? { ...one, dependsOn: [...one.dependsOn, AKASHA_TREE_STEP_NAME] }
       : one
   )
   if (steps.some((one) => one.title === AKASHA_TREE_STEP_NAME)) return { ...plan, steps }
-  return { ...plan, steps: [...steps, akashaTreeStep(instructionsCommit)] }
+  return { ...plan, steps: [...steps, akashaTreeStep(akashaCommit)] }
 }
 
 export function planPipeline(args: PlanArgs): PipelinePlan {
@@ -107,10 +95,7 @@ export function planPipeline(args: PlanArgs): PipelinePlan {
     mainPredecessorSeqs: args.choice.mainPredecessorSeqs,
     overtakenSeqs: args.choice.overtakenSeqs,
     workflows: args.choice.workflows.map((one) =>
-      withAkashaTree(
-        withInstructionsTree(workflowPlanOf(one.config, one.changedFiles), args.instructionsCommit),
-        args.instructionsCommit
-      )
+      withAkashaTree(workflowPlanOf(one.config, one.changedFiles), args.commit)
     ),
   }
 }
