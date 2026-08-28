@@ -3,7 +3,7 @@ id: 4409450d-f4e4-5323-afe8-b4e25ad424b6
 slug: a-positional-payload-waits-on-stdin-forever
 page-type-slug: finding
 title: "A payload passed as a positional argument waits on stdin forever"
-domain-slug: domain/ops-instructions
+domain-slug: domain/ops-cli
 ---
 
 # Claim
