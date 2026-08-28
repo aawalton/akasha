@@ -16,6 +16,7 @@ import { READINGS } from "../lib/read-record.ts"
 import { refusalDirIn } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { seatAbove } from "../lib/subagent.ts"
+import { AKASHA, REPOS, rootEnvName } from "../../repo/roots/roots.ts"
 
 export function documentBody(frontmatter: string, lines = 40): string {
   const body = Array.from({ length: lines }, (_, i) => `body line ${i + 1}`).join("\n")
@@ -100,6 +101,22 @@ export function fixture(): Fixture {
   const priorRoot = process.env.AKASHA_ROOT
   process.env.HOME = home
   process.env.AKASHA_ROOT = root
+  // EVERY OTHER REPOSITORY IS SAID TO BE CHECKED OUT NOWHERE, rather than left naming the live one
+  // beside this repository. A fixture's world holds one repository — this temp one — and
+  // `resolveRoots` names a repository only where a `.git` stands under its root, so an empty
+  // directory says that. Left naming the live `code-editor`, a reader spanning repositories scanned
+  // that live root through the index, and the index under this root is this fixture's: it was never
+  // built over `code-editor`, so `page/index/scan/scan.ts` refused rather than answering an empty
+  // scan. The refusal is right; what was wrong is a fixture claiming a checkout it does not hold.
+  const elsewhere = mkdtempSync(`${SCRATCH}/govtest-elsewhere-`)
+  const priorElsewhere = new Map<string, string | undefined>()
+  for (const repo of REPOS) {
+    if (repo === AKASHA) continue
+    const named = rootEnvName(repo)
+    priorElsewhere.set(named, process.env[named])
+    mkdirSync(`${elsewhere}/${repo}`, { recursive: true })
+    process.env[named] = `${elsewhere}/${repo}`
+  }
 
   const putInto =
     (into: string) =>
@@ -159,6 +176,10 @@ export function fixture(): Fixture {
       if (priorHome !== undefined) process.env.HOME = priorHome
       if (priorRoot === undefined) delete process.env.AKASHA_ROOT
       else process.env.AKASHA_ROOT = priorRoot
+      for (const [named, was] of priorElsewhere) {
+        if (was === undefined) delete process.env[named]
+        else process.env[named] = was
+      }
       for (const page of planted) {
         const dir = dirname(page)
         const stem = `${page.slice(dir.length + 1, -PAGE_SUFFIX.length)}.`
@@ -169,6 +190,7 @@ export function fixture(): Fixture {
       }
       rmSync(root, { recursive: true, force: true })
       rmSync(home, { recursive: true, force: true })
+      rmSync(elsewhere, { recursive: true, force: true })
     },
   }
 }
