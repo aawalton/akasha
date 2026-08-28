@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { EXPIRING_PREFIXES, NON_EXPIRING_PREFIXES } from "./synth-constants"
-import { assetCopyScript, backupAssetsCronJobYaml } from "./synth-longtail-assets"
+import { EXPIRING_PREFIXES, NON_EXPIRING_PREFIXES } from "./synth-constants.ts"
+import { assetCopyScript, backupAssetsCronJobYaml } from "./synth-longtail-assets.ts"
 
 describe("the expiring / non-expiring split", () => {
   const expiring: readonly string[] = EXPIRING_PREFIXES
@@ -81,9 +81,9 @@ describe("backupAssetsCronJobYaml", () => {
     expect(yaml).toContain("name: seaweedfs-backup-assets")
   })
 
-  test("declares a namespaced CronJob that does not overlap itself", () => {
+  test("declares a CronJob in a namespace of its own that does not overlap itself", () => {
     expect(yaml).toContain("kind: CronJob")
-    expect(yaml).toContain("namespace: seaweedfs")
+    expect(yaml).toContain("namespace: seaweedfs-backup-assets")
     expect(yaml).toContain("schedule:")
     expect(yaml).toContain("concurrencyPolicy: Forbid")
   })
@@ -101,6 +101,6 @@ describe("backupAssetsCronJobYaml", () => {
   })
 
   test("mounts the node-06 backup PVC the tier lives on", () => {
-    expect(yaml).toContain("claimName: seaweedfs-backup")
+    expect(yaml).toContain("claimName: seaweedfs-backup-assets")
   })
 })

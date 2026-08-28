@@ -9,6 +9,5 @@ cluster-service-slugs:
   - seaweedfs-volume
   - seaweedfs-filer
   - seaweedfs-s3-gateway
-  - seaweedfs-backup-assets
   - seaweedfs-etcd-snapshot
 ---

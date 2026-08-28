@@ -5,7 +5,7 @@ title: "SeaweedFS backup assets"
 slug: seaweedfs-backup-assets
 domain-parent-slug: page-type/cluster-service
 kind: CronJob
-namespace: seaweedfs
+namespace: seaweedfs-backup-assets
 resource-name: seaweedfs-backup-assets
 ---
 

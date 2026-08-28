@@ -3,20 +3,18 @@ import { capabilitySelector } from "@infra/k8s-types/hostnames"
 import {
   ASSETS_BUCKET,
   componentLabels,
-  NAMESPACE,
   NON_EXPIRING_PREFIXES,
-  S3_GATEWAY_HTTP_PORT,
-} from "./synth-constants"
+  S3_GATEWAY_ENDPOINT,
+} from "./synth-constants.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 
-const SRC_ENDPOINT = `http://s3-gateway.${NAMESPACE}.svc.cluster.local:${S3_GATEWAY_HTTP_PORT}`
-
 const SRC_SECRET = "seaweedfs-creds"
 
-const COMPONENT_BACKUP_ASSETS = "backup-assets"
+export const ASSETS_NAMESPACE = "seaweedfs-backup-assets"
 
-const BACKUP_PVC_NAME = "seaweedfs-backup"
+export const COMPONENT_BACKUP_ASSETS = "backup-assets"
+
 const BACKUP_MOUNT = "/backup"
 
 const ASSET_LONGTAIL_ROOT = `${BACKUP_MOUNT}/_longtail/${ASSETS_BUCKET}`
@@ -36,7 +34,7 @@ function rcloneEnv() {
     { name: "HOME", value: "/tmp" },
     { name: "RCLONE_CONFIG_SRC_TYPE", value: "s3" },
     { name: "RCLONE_CONFIG_SRC_PROVIDER", value: "Other" },
-    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: SRC_ENDPOINT },
+    { name: "RCLONE_CONFIG_SRC_ENDPOINT", value: S3_GATEWAY_ENDPOINT },
     secretEnv("RCLONE_CONFIG_SRC_ACCESS_KEY_ID", SRC_SECRET, "access_key"),
     secretEnv("RCLONE_CONFIG_SRC_SECRET_ACCESS_KEY", SRC_SECRET, "secret_key"),
   ]
@@ -81,10 +79,10 @@ export function assetCopyScript(): string {
 export function backupAssetsCronJobYaml(): string {
   const name = "seaweedfs-backup-assets"
   const labels = componentLabels(COMPONENT_BACKUP_ASSETS)
-  return synthOne(NAMESPACE, name, {
+  return synthOne(ASSETS_NAMESPACE, name, {
     apiVersion: "batch/v1",
     kind: "CronJob",
-    metadata: { name, namespace: NAMESPACE, labels },
+    metadata: { name, namespace: ASSETS_NAMESPACE, labels },
     spec: {
       schedule: "5 5 * * *",
       concurrencyPolicy: "Forbid",
@@ -127,7 +125,7 @@ export function backupAssetsCronJobYaml(): string {
               ],
               volumes: [
                 { name: "tmp", emptyDir: { sizeLimit: "512Mi" } },
-                { name: "backup", persistentVolumeClaim: { claimName: BACKUP_PVC_NAME } },
+                { name: "backup", persistentVolumeClaim: { claimName: ASSETS_NAMESPACE } },
               ],
             },
           },

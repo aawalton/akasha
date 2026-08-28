@@ -16,7 +16,6 @@ const MASTER = "infra/seaweedfs/master/generated"
 const VOLUME = "infra/seaweedfs/volume/generated"
 const FILER = "infra/seaweedfs/filer/generated"
 const S3_GATEWAY = "infra/seaweedfs/s3-gateway/generated"
-const BACKUP_ASSETS = "infra/seaweedfs/backup-assets/generated"
 const ETCD_SNAPSHOT = "infra/seaweedfs/etcd-snapshot/generated"
 
 const foundationSeaweedfs = workflow("seaweedfs", {
@@ -283,19 +282,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       dependsOn: ["seaweedfs-apply-backup-pv"],
     },
 
-    {
-      ...kubectlApply({
-        name: "seaweedfs-apply-backup-assets",
-        namespace: "seaweedfs",
-        files: `${BACKUP_ASSETS}/backup-assets.generated.yaml`,
-        serverSide: true,
-      }),
-      dependsOn: [
-        "seaweedfs-apply-backup-pvc",
-        "seaweedfs-apply-s3-gateway",
-        "seaweedfs-ensure-bucket",
-      ],
-    },
 
 
     {
