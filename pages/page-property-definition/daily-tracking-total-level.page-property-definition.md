@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Daily tracking total level"
 defined-on-slug: page-type/daily-tracking
 key: total-level
-type: formula
-returnType: number
+type: number
 expression: ((prop(faith-level) + prop(love-level) + prop(health-level) + prop(learn-level) + prop(fun-level) + prop(wealth-level)) >= 24) && 4 || ((prop(faith-level) + prop(love-level) + prop(health-level) + prop(learn-level) + prop(fun-level) + prop(wealth-level)) >= 18) && 3 || ((prop(faith-level) + prop(love-level) + prop(health-level) + prop(learn-level) + prop(fun-level) + prop(wealth-level)) >= 12) && 2 || ((prop(faith-level) + prop(love-level) + prop(health-level) + prop(learn-level) + prop(fun-level) + prop(wealth-level)) >= 6) && 1 || 0
 slug: daily-tracking-total-level
 domain-parent-slug: page-type/daily-tracking

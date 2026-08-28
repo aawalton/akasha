@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity hours per connection hour"
 defined-on-slug: page-type/connection-activity
 key: hr-per-ch
-type: formula
-returnType: number
+type: number
 expression: 32 / prop(multiplier)
 slug: connection-activity-hr-per-ch
 domain-parent-slug: page-type/connection-activity

@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Computer server score"
 defined-on-slug: page-type/computer
 key: server-score
-type: formula
+type: number
 expression: (status != "needs-repair") * (cpuScore * 0.5 + ramScore * 0.3 + storageScore * 0.2 + (formFactor == "desktop") * 10)
-returnType: number
 slug: computer-server-score
 domain-parent-slug: page-type/computer
 ---

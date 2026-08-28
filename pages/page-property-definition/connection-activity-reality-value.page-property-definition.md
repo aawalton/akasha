@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity reality value"
 defined-on-slug: page-type/connection-activity
 key: reality-value
-type: formula
-returnType: number
+type: number
 expression: (prop(reality) == 'authentic') * 1.0 + (prop(reality) == 'professional') * 0.5 + (prop(reality) == 'celebrity') * 0.25
 slug: connection-activity-reality-value
 domain-parent-slug: page-type/connection-activity

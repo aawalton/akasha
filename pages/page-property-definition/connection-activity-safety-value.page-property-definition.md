@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Connection activity safety value"
 defined-on-slug: page-type/connection-activity
 key: safety-value
-type: formula
-returnType: number
+type: number
 expression: (prop(safety) == 'L3') * 0.25 + (prop(safety) == 'L4') * 0.5 + (prop(safety) == 'L5') * 0.75 + (prop(safety) == 'L6') * 1.0
 slug: connection-activity-safety-value
 domain-parent-slug: page-type/connection-activity

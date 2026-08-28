@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Computer storage score"
 defined-on-slug: page-type/computer
 key: storage-score
-type: formula
+type: number
 expression: ssd + hdd / 10
-returnType: number
 slug: computer-storage-score
 domain-parent-slug: page-type/computer
 ---

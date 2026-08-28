@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Daily tracking strength calories"
 defined-on-slug: page-type/daily-tracking
 key: strength-calories
-type: formula
+type: number
 expression: prop(strength-volume) && prop(strength-volume) / 7
-returnType: number
 slug: daily-tracking-strength-calories
 domain-parent-slug: page-type/daily-tracking
 ---

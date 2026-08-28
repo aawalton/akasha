@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Daily tracking activity calories"
 defined-on-slug: page-type/daily-tracking
 key: activity-calories
-type: formula
+type: number
 expression: if(prop(active-calories) == null, 0, prop(active-calories)) + if(prop(strength-calories) == null, 0, prop(strength-calories))
-returnType: number
 slug: daily-tracking-activity-calories
 domain-parent-slug: page-type/daily-tracking
 ---
