@@ -18,7 +18,7 @@ THE THROW KEEPS ONE FIELD. `shared/browser-test-harness/src/harness-launch.ts:32
 
 THE RETRY CLASSIFIER CANNOT SEE IT. `tools/lib/verify-render-plan.ts:103-105` is `isRetryableSessionOpenTimeout(err) { return err instanceof Error && err.name === "TimeoutError" }`, and `tools/commands/browser-test/verify-render.ts:87` is `if (!isRetryableSessionOpenTimeout(err)) throw err`. A `new Error(...)` has name `"Error"`, so this throw is never retried.
 
-THE TEST IS ON THE NAME, NOT THE CAUSE. The classifier reads `err.name` and nothing else, so every session-open failure other than a Playwright timeout is non-retryable by construction — a bad credential, a missing env var and an empty supabase-js error are one class to it. The throw above is the only one of these that names no cause at all, and it is the one the narrow test cannot tell apart from the rest.
+THE TEST IS ON THE NAME. The classifier reads `err.name` and nothing else, so a bad credential, a missing env var and an empty supabase-js error are one class to it.
 
 THE INCIDENT, REPORTED RATHER THAN RE-OBSERVED BY ME. #16313's deploy, 2026-07-28 ~00:55Z: `verify-render exited 70 (not PASS/FAIL/INDETERMINATE): harness sign-in (supabase-js): {}` on `throwaway-custom-display (/idle)`, at `deploy_render_gate_failed`. The same page and flag returned `VERDICT: PASS`, exit 0, minutes later with no intervention, and a live-identity `verify-render` passed during the same window — so it was isolated to the throwaway `BROWSER_TEST_*` sign-in and self-healed. I did not reproduce it; the code paths above are what I verified.
 
