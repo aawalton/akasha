@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, PanelCard, ResponsiveColumns, Text } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { Text } from "@shared/design-primitives/components/text"
 import { TabsContent } from "@shared/design-patterns/components/tabs"
 import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@temper/shared-foundation-misc-dungeons/generated/temper-dungeons.generated"
 import { getSoloDifficulty } from "@temper/shared-foundation-misc-dungeons/solo-difficulty"

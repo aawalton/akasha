@@ -1,6 +1,7 @@
 "use client"
 
-import { CardTitleBadges, Text } from "@shared/design-system"
+import { CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Text } from "@shared/design-primitives/components/text"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import { useAutomationSettings } from "@temper/player-inventory-management-ui/hooks-inventory-settings"
 import { AutomationSelect } from "@/components/automation/automation-select"

@@ -1,6 +1,10 @@
 "use client"
 
-import { BadgeToggleGroup, PageLayout, PageTabHeader, ResponsiveColumns, useColumnCount } from "@shared/design-system"
+import { BadgeToggleGroup } from "@shared/design-badges/components/badge-toggle-group"
+import { PageLayout } from "@shared/design-layout/components/page-layout"
+import { PageTabHeader } from "@shared/design-layout/components/page-tab-header"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
+import { useColumnCount } from "@shared/design-layout/components/use-column-count"
 import { COLUMN_WIDTH } from "@shared/design-layout/components/layout-data"
 import { editorPageSkeleton } from "@shared/design-layout/components/skeleton-presets"
 import { FilterButton } from "@shared/design-patterns/components/filter-button"

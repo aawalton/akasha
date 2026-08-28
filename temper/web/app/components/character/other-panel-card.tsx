@@ -1,6 +1,8 @@
 "use client"
 
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Switch, useSurface } from "@shared/design-system"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
+import { Switch } from "@shared/design-primitives/components/switch"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import type { EsoPlusId } from "@temper/game-characters-character/account/eso-plus-source"
 import { type AllianceId, alliances } from "@temper/game-characters-character/alliances-data"

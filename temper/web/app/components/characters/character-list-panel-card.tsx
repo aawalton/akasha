@@ -1,13 +1,7 @@
-import {
-  Badge,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-  CardTitleBadges,
-  PanelCard,
-  Text,
-} from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { CardContent, CardDescription, CardHeader, CardTitle, CardTitleBadges } from "@shared/design-primitives/components/card"
+import { Text } from "@shared/design-primitives/components/text"
 import { PagesUILink as Link } from "@shared/pages-ui/router-context"
 import type { RoleId } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"

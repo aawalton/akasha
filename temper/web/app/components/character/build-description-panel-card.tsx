@@ -1,6 +1,6 @@
 "use client"
 
-import { useSurface } from "@shared/design-system"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { TextAreaPanelCard } from "@/components/ui/text-area-panel-card"
 

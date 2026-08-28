@@ -1,6 +1,7 @@
 "use client"
 
-import { Card, CardAction, CardContent, CardHeader, CardTitle, Skeleton } from "@shared/design-system"
+import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@shared/design-primitives/components/card"
+import { Skeleton } from "@shared/design-primitives/components/skeleton"
 import { PANEL_CARD_WIDTH_CLASSES } from "@shared/design-layout/components/panel-card-data"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { ChevronDown } from "lucide-react"

@@ -1,6 +1,7 @@
 "use client"
 
-import { Button, PanelCard } from "@shared/design-system"
+import { PanelCard } from "@shared/design-layout/components/panel-card"
+import { Button } from "@shared/design-primitives/components/button"
 import { ItemCard } from "@shared/design-patterns/components/item-card"
 import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
 import {

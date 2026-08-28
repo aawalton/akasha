@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import { CompanionArmorPanelCard } from "@/components/companion-equipment/companion-armor-panel-card"
 import { CompanionJewelryPanelCard } from "@/components/companion-equipment/companion-jewelry-panel-card"
 import { CompanionWeaponBarPanelCard } from "@/components/companion-equipment/companion-weapon-bar-panel-card"

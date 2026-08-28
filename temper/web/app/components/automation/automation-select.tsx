@@ -1,6 +1,7 @@
 "use client"
 
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, useSurface } from "@shared/design-system"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { resolveToggle } from "@temper/shared-engine/automation/automation-settings-types"
 

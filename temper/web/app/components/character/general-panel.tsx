@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import type { BuildId } from "@temper/shared-formula-framework/branded"
 import { BuildDescriptionPanelCard } from "@/components/character/build-description-panel-card"

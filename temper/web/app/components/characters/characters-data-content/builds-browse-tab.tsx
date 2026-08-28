@@ -1,6 +1,8 @@
 "use client"
 
-import { Button, Card, CardContent, PaginatedCardGrid } from "@shared/design-system"
+import { PaginatedCardGrid } from "@shared/design-layout/components/paginated-card-grid"
+import { Button } from "@shared/design-primitives/components/button"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyContent, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { getRoleName } from "@temper/game-characters-character/roles"
 import type { CharacterState } from "@temper/game-characters-character/build-types"

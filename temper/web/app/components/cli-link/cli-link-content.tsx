@@ -1,6 +1,7 @@
 "use client"
 
-import { Button, SurfaceProvider, useSurface } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { SurfaceProvider, useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"
 import { isRecord } from "@shared/utils-narrow/is-record"

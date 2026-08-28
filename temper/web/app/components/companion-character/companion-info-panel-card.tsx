@@ -1,6 +1,8 @@
 "use client"
 
-import { Input, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, useSurface } from "@shared/design-system"
+import { Input } from "@shared/design-primitives/components/input"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { toVisibility } from "@temper/game-companions-core/companion-types"
 import { useEffect, useState } from "react"

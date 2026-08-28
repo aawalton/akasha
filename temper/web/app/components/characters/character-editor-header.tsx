@@ -1,7 +1,9 @@
 "use client"
 
 import { LayoutLink as Link } from "@shared/design-layout/router-context"
-import { Badge, Button, InlineEditableText } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { InlineEditableText } from "@shared/design-forms/components/inline-editable-text"
+import { Button } from "@shared/design-primitives/components/button"
 import { PAGE_TITLE_CLASSES } from "@shared/design-layout/components/page-layout-data"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { cn } from "@shared/design-primitives/utils/cn"

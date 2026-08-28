@@ -1,6 +1,8 @@
 "use client"
 
-import { Button, Input, useSurface } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Input } from "@shared/design-primitives/components/input"
+import { useSurface } from "@shared/design-primitives/components/surface-provider"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
 import { capitalize } from "@shared/utils-narrow/capitalize"
 import { Maximize2 } from "lucide-react"

@@ -1,12 +1,6 @@
 "use client"
 
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import { type CurseState, curses } from "@temper/game-characters-character/curse-data"
 import { getRaceSourceById } from "@temper/game-characters-character/race-source"
 import {

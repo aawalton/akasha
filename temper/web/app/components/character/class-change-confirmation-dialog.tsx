@@ -1,16 +1,6 @@
 "use client"
 
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogBody,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-} from "@shared/design-system"
+import { AlertDialog, AlertDialogAction, AlertDialogBody, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle } from "@shared/design-primitives/components/alert-dialog"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { type ClassId, classes } from "@temper/game-characters-classes/classes-data"
 import { type SkillLineId, skillLines } from "@temper/game-characters-skill-lines/skill-lines-data"

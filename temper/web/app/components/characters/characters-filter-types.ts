@@ -1,4 +1,4 @@
-import type { BadgeToggleGroupItem } from "@shared/design-system"
+import type { BadgeToggleGroupItem } from "@shared/design-badges/components/badge-toggle-group"
 import type { SortDirection, SortOption } from "@shared/design-patterns/utils/sort-types"
 import { roles } from "@temper/game-characters-character/generated/temper-character-role.generated"
 import { type RoleId } from "@temper/game-characters-character/roles"

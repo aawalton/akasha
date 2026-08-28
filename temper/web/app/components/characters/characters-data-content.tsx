@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, Card, CardContent, ListContentSkeleton, PageTabHeader, PageTabTitleBadges } from "@shared/design-system"
+import { Badge } from "@shared/design-badges/components/badge"
+import { ListContentSkeleton } from "@shared/design-layout/components/list-content-skeleton"
+import { PageTabHeader, PageTabTitleBadges } from "@shared/design-layout/components/page-tab-header"
+import { Card, CardContent } from "@shared/design-primitives/components/card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyMedia, EmptyTitle } from "@shared/design-patterns/components/empty"
 import { useScrollRestoration } from "@shared/design-patterns/hooks/use-scroll-restoration"
 import { type SortDirection } from "@shared/design-patterns/utils/sort-types"

@@ -1,7 +1,8 @@
 "use client"
 
 import { useAuth } from "@shared/auth/use-auth"
-import { Button, Spinner } from "@shared/design-system"
+import { Button } from "@shared/design-primitives/components/button"
+import { Spinner } from "@shared/design-primitives/components/spinner"
 import { usePagesUIRouter } from "@shared/pages-ui/router-context"
 import { extractCharacterMetadata } from "@temper/game-characters/build-metadata"
 import { createNewCharacter } from "@temper/game-characters-character/build-factory"

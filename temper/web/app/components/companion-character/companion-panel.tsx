@@ -1,14 +1,7 @@
 "use client"
 
-import {
-  MultiSelect,
-  type MultiSelectItem,
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@shared/design-system"
+import { MultiSelect, type MultiSelectItem } from "@shared/design-forms/components/multi-select"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@shared/design-primitives/components/select"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,

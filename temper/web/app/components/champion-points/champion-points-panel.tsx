@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@shared/design-system"
+import { ResponsiveColumns } from "@shared/design-layout/components/responsive-columns"
 import type { ChampionPointId } from "@temper/game-characters-champion-points/champion-points-source"
 import type { CharacterState } from "@temper/game-characters-character/build-types"
 import { ConstellationPanelCard } from "@/components/champion-points/constellation-panel-card"
