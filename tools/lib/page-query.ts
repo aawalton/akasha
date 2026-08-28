@@ -74,16 +74,49 @@ export function load(roots: Roots, pageType: string): Iterable<Row> | null {
   return deriverFor(roots).rows(pageType)
 }
 
-function passes(
-  values: Values,
-  test: Test,
-  typeOf: (key: string) => string | null,
-  at: number,
-  woke: Woke | null
-): boolean {
+/** The slots a test states one value in, and the slots it states a list of them in. */
+const SINGLE = ["is", "has", "endsWith", "atOrAfter", "before"] as const
+
+const MANY = ["in", "notIn", "contains"] as const
+
+/** Every value a test states, whichever slot it stands in. */
+function statedIn(test: Test): readonly string[] {
+  return [
+    ...SINGLE.flatMap((slot) => (test[slot] === undefined ? [] : [test[slot]])),
+    ...MANY.flatMap((slot) => test[slot] ?? []),
+  ]
+}
+
+/**
+ * One test with every named time it states swapped for the moment that name stands for.
+ *
+ * A NAMED TIME IS RESOLVED IN EVERY SLOT, not in the three that compare an instant. `now` and
+ * `wake-day` were swapped inside `is`, `at-or-after` and `before` alone and left as literal text
+ * everywhere else, so `in: [wake-day]` asked for a row carrying the eight characters `wake-day`.
+ * Nothing carries that, and a test matching no row is a legal answer of zero — which is what a
+ * true zero looks like — so the query handed back the miss as an answer.
+ *
+ * SWAPPED ONCE PER TEST rather than at each comparison, because what a name stands for does not
+ * vary by row and `passes` runs once per row.
+ */
+function resolving(test: Test, type: string | null, at: number, woke: Woke | null): Test {
+  const swap = (value: string): string => stated(value, type, at, woke)
+  const out: { -readonly [K in keyof Test]: Test[K] } = { ...test }
+  for (const slot of SINGLE) {
+    const value = test[slot]
+    if (value !== undefined) out[slot] = swap(value)
+  }
+  for (const slot of MANY) {
+    const value = test[slot]
+    if (value !== undefined) out[slot] = value.map(swap)
+  }
+  return out
+}
+
+function passes(values: Values, test: Test, typeOf: (key: string) => string | null): boolean {
   const one = textOf(values, test.key)
   const type = typeOf(test.key)
-  if (test.is !== undefined && one !== stated(test.is, type, at, woke)) return false
+  if (test.is !== undefined && one !== test.is) return false
   if (test.in !== undefined && (one === null || !test.in.includes(one))) return false
   if (test.notIn !== undefined && one !== null && test.notIn.includes(one)) return false
   if (test.has !== undefined && !listOf(values, test.key).includes(test.has)) return false
@@ -96,13 +129,11 @@ function passes(
   if (test.empty !== undefined && (one === null && listOf(values, test.key).length === 0) !== test.empty) {
     return false
   }
-  if (test.atOrAfter !== undefined) {
-    const bound = stated(test.atOrAfter, type, at, woke)
-    if (one === null || comparing(type)(one, bound) < 0) return false
+  if (test.atOrAfter !== undefined && (one === null || comparing(type)(one, test.atOrAfter) < 0)) {
+    return false
   }
-  if (test.before !== undefined) {
-    const bound = stated(test.before, type, at, woke)
-    if (one === null || comparing(type)(one, bound) >= 0) return false
+  if (test.before !== undefined && (one === null || comparing(type)(one, test.before) >= 0)) {
+    return false
   }
   return true
 }
@@ -182,9 +213,12 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   const falling = fallenBack(query)
   const typeOf = (key: string): string | null => derive.typeOf(query.pageType, key)
   const tests = query.where ?? []
-  const named = (one: Test): boolean =>
-    one.is === WAKE_DAY || one.atOrAfter === WAKE_DAY || one.before === WAKE_DAY
-  const woke = tests.some(named) ? wokeOn(roots, at) : null
+  // WHETHER TO DERIVE THE WAKE INSTANT IS ASKED OF THE SAME SLOTS THE SWAP READS. This scanned
+  // `is`, `at-or-after` and `before` by name — a second list of where a named time can stand —
+  // so a query naming `wake-day` under `in` skipped the derivation as well as the swap, and two
+  // lists that had to agree could disagree without anything saying so.
+  const woke = tests.some((one) => statedIn(one).includes(WAKE_DAY)) ? wokeOn(roots, at) : null
+  const asked = tests.map((one) => resolving(one, typeOf(one.key), at, woke))
   const unseen = new Set(
     tests.filter(valued).map((test) => test.key).filter((key) => typeOf(key) === null)
   )
@@ -199,7 +233,7 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
     const row = falling.length === 0 ? page : stating(page, falling)
     for (const key of unseen) if (row.values[key] !== undefined) unseen.delete(key)
     for (const key of unfound) if (row.values[key] !== undefined) unfound.delete(key)
-    if (tests.every((test) => passes(row.values, test, typeOf, at, woke))) matched.push(row)
+    if (asked.every((test) => passes(row.values, test, typeOf))) matched.push(row)
   }
   const beside = {
     absent: walked === 0 ? [] : [...unseen].sort(),
