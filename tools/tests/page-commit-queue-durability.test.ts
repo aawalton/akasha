@@ -93,7 +93,7 @@ describe("a landing the queue has taken on", () => {
     const was = commits()
     holdLandingLive()
     writePage(ROOTS, "probe", "held", { title: "Held" }, "delegate-one")
-    expect(existsSync(join(root, "pages/probe/held.md"))).toBe(true)
+    expect(existsSync(join(root, "pages/probe/held.probe.md"))).toBe(true)
     expect(standing().unlanded).toBe(1)
 
     drainCommits(STALL_ATTEMPTS + 2, 10)
@@ -109,7 +109,7 @@ describe("a landing the queue has taken on", () => {
     releaseLanding()
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/held.md"])
+    expect(named()).toEqual(["pages/probe/held.probe.md"])
     const settled = standing()
     expect(settled.unlanded).toBe(0)
     expect(settled.lastError).toBeNull()
@@ -120,8 +120,8 @@ describe("a landing the queue has taken on", () => {
     writePage(ROOTS, "probe", "recorded", { title: "Recorded" }, "delegate-two")
     const held = readJournals()
     expect(held).toHaveLength(1)
-    expect(Object.keys(held[0]?.paths ?? {})).toEqual(["pages/probe/recorded.md"])
-    expect(held[0]?.paths["pages/probe/recorded.md"]?.act).toContain("delegate-two")
+    expect(Object.keys(held[0]?.paths ?? {})).toEqual(["pages/probe/recorded.probe.md"])
+    expect(held[0]?.paths["pages/probe/recorded.probe.md"]?.act).toContain("delegate-two")
     drainCommits()
     expect(readJournals()).toHaveLength(0)
   })
@@ -146,14 +146,14 @@ describe("a landing the queue has taken on", () => {
     expect(orphaned.stalled).toContain(root)
     expect(landingsHealthy(orphaned)).toBe(false)
 
-    expect(recoverLandings()).toEqual([`${root}/pages/probe/orphan.md`])
+    expect(recoverLandings()).toEqual([`${root}/pages/probe/orphan.probe.md`])
     const carried = standing()
     expect(carried.stalled).toContain(root)
     expect(carried.lastError).toContain("another writer held the landing lock")
 
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/orphan.md"])
+    expect(named()).toEqual(["pages/probe/orphan.probe.md"])
     expect(standing().unlanded).toBe(0)
   })
 
@@ -168,7 +168,7 @@ describe("a landing the queue has taken on", () => {
     }
     expect(ran.exitCode).toBe(1)
     expect(said.files).toHaveLength(1)
-    expect(said.files[0]?.path).toBe("pages/probe/listed.md")
+    expect(said.files[0]?.path).toBe("pages/probe/listed.probe.md")
     expect(said.files[0]?.root).toBe(root)
     expect(said.files[0]?.act).toContain("delegate-four")
     drainCommits()
@@ -190,12 +190,12 @@ describe("a landing the queue has taken on", () => {
     writePage(ROOTS, "probe", "real", { title: "Real" }, "delegate-six")
     writePage(ROOTS, "probe", "fleeting", { title: "Fleeting" }, "delegate-six")
     removePage(ROOTS, "probe", "fleeting", "delegate-six")
-    expect(existsSync(join(root, "pages/probe/fleeting.md"))).toBe(false)
+    expect(existsSync(join(root, "pages/probe/fleeting.probe.md"))).toBe(false)
     expect(standing().unlanded).toBe(2)
 
     drainCommits()
     expect(commits()).toBe(was + 1)
-    expect(named()).toEqual(["pages/probe/real.md"])
+    expect(named()).toEqual(["pages/probe/real.probe.md"])
     expect(standing().unlanded).toBe(0)
   })
 
@@ -203,7 +203,7 @@ describe("a landing the queue has taken on", () => {
     const hook = join(root, ".git", "hooks", "pre-commit")
     writeFileSync(
       hook,
-      "#!/bin/sh\ngit diff --cached --name-only | grep -q '^pages/probe/cursed\\.md$' && exit 1\nexit 0\n"
+      "#!/bin/sh\ngit diff --cached --name-only | grep -q '^pages/probe/cursed\\.probe\\.md$' && exit 1\nexit 0\n"
     )
     chmodSync(hook, 0o755)
     try {
@@ -214,10 +214,10 @@ describe("a landing the queue has taken on", () => {
 
       drainCommits(SPLIT_ATTEMPTS + 1, 10)
       expect(commits()).toBe(was + 1)
-      expect(named()).toEqual(["pages/probe/rider.md"])
+      expect(named()).toEqual(["pages/probe/rider.probe.md"])
       const left = standing()
       expect(left.unlanded).toBe(1)
-      expect(left.lastError).toContain("pages/probe/cursed.md")
+      expect(left.lastError).toContain("pages/probe/cursed.probe.md")
     } finally {
       rmSync(hook, { force: true })
     }
@@ -233,10 +233,10 @@ describe("a landing the queue has taken on", () => {
     drainCommits()
     expect(commits()).toBe(was + 1)
     expect([...named()].sort()).toEqual([
-      "pages/probe/p.md",
-      "pages/probe/q.md",
-      "pages/probe/r.md",
-      "pages/probe/s.md",
+      "pages/probe/p.probe.md",
+      "pages/probe/q.probe.md",
+      "pages/probe/r.probe.md",
+      "pages/probe/s.probe.md",
     ])
     expect(standing().unlanded).toBe(0)
   })
