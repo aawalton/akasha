@@ -1,0 +1,253 @@
+---
+id: e6b64edf-e96e-5463-9b62-87066c4f0f54
+page-type-slug: story-chapter-royal-road
+title: "95 - Dormant Soul"
+slug: 0096-95-dormant-soul
+partOf: every-trope-everywhere-all-at-once-litrpg-progression
+position: 96
+ownLength: 1868
+unit: words
+publishedAt: 2026-08-28
+link: "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3874608/95-dormant-soul"
+royalRoadId: "3874608"
+---
+
+After the entire ordeal with the rubber duck—a magical one, to be specific—we continued walking deeper into the city, keeping our eyes peeled for any other suspicious rubber ducks. Why was the trap a duck instead of a boulder like last time, anyway? This dungeon really was all sorts of messed up.
+
+As we were moving through, looking at Reina reminded me of the hair ties on both of our heads. Aeris must’ve still kept hers on outside the dungeon as well. The only way to confirm it was to check my current statuses.
+
+Status:
+
+[Hair Ties’ Triple Threat]
+
+- Increased strength
+
+- Increased mana regeneration
+
+As long as the three of us kept them on, the buff would still be there. What an oddly specific criterion. But who was I to complain? It would come in handy now that we were back in the dungeon.
+
+But as soon as I blinked…
+
+The status disappeared.
+
+“Really…?” I muttered.
+
+Reina still had hers on. I still had mine on. Which could only mean that Aeris had taken hers off. That came as a surprise considering she had been flaunting the fact that I had tied her hair up back at the ship.
+
+“Huh,” Reina said, looking at her hands. “Why do I feel a little weaker for some reason?”
+
+“You’re probably just tired after running away from the rubber duck,” I said. I didn’t want to explain to her and the rest of the party that keeping our hair ties on gave us buffs.
+
+“Oh yeah. Probably.”
+
+Meriel peeked in between the city’s tall buildings as we were walking through.
+
+“That’s weird,” she said. “The sun should’ve already set by now.”
+
+“We haven’t spent that much time in this dungeon for that to happen, have we?” I asked.
+
+“We haven’t, but we’ve arrived at this city at roughly the same time as last time. The sun had already set back then, and it should’ve done so now as well.”
+
+“Wow, are we really that slow?” Kaelor said. “That’s disappointing. Subsequent dungeon runs are supposed to be faster than the first. Looks like our party’s a special case.”
+
+“That’s because we were sidetracked by the church and the giant statue monster,” Reina said.
+
+“Ah, that’s true.”
+
+Last time we were here, the entire city was covered in a shadow, only illuminated by some of the lights scattered around. But since the sun was still up this time, the entire atmosphere felt completely different. It was still the same white stone buildings connected by bridges and stairways, but instead of giving off an ancient and broken look, it almost seemed… mystical.
+
+My first impression last time was that this looked more like a labyrinth than a city. But now? Not so much. It was a lot easier to see how the different alleyways and buildings formed together with proper lighting. This was, after all, a replica of a city that once existed in the real world. People used to live in these buildings.
+
+“Ah, there it is!” Talon exclaimed, running ahead.
+
+A familiar lantern floated just before us—the same lantern that served as a checkpoint for the dungeon run. I still remembered our party’s first revival as clear as day. Reina was swinging her newly acquired Dawn Sunderer when a huge arc of light suddenly shot out and decapitated me.
+
+Ah, great times.
+
+…
+
+Not.
+
+Unlike last time, the lantern didn’t emit any blue glow. Talon touched the lantern and waited for a few seconds, but no light came.
+
+“That’s weird,” Talon said. “It’s completely dead.”
+
+Meriel leaned in, studying the lantern. “I don’t sense any mana from it, either. I think it’s safe to assume we have zero revives this time.”
+
+Kaelor chuckled. “Nothing to worry about. I’m sure none of us will die.”
+
+He paused for a moment before turning to me.
+
+“What…?” I said.
+
+“Nothing.” He turned away.
+
+“Hey, what do you mean by that?!” I cried. “I’m not going to die!”
+
+“Now, now,” Meriel said, patting my head. “He just thinks a lot of awful coincidences tend to happen around you, and I absolutely agree.”
+
+I frowned. “Well, I’m sorry I have the worst luck ever.”
+
+“And simultaneously the best one,” she added.
+
+I rolled my eyes. We get it already, Meriel. Your awakening made you aware of several things that typical side characters shouldn’t know, including the fact that I’m the protagonist. There’s no need to flaunt your knowledge.
+
+“Anyway, let’s start heading to the manor,” she continued. “We shouldn’t spend too much time in the dungeon. It might collapse while we’re still in it. Allene and Reina, could you two lead the way?”
+
+Reina nodded and pointed to a path on the side. I walked beside her while the others trailed behind. We took them through an alleyway, taking a quick set of stairs before descending back to the ground. After a dozen more twists and turns, I turned to Reina.
+
+“I’m impressed you remember where to go so perfectly,” I said.
+
+She tilted her head. “What do you mean? I don’t.”
+
+“Huh…?”
+
+“I’ve just been following you.”
+
+…
+
+Of course.
+
+“Say,” Talon began. “Did we remember to bring the Soul Anchor ring?”
+
+The others looked at me. After killing Aurelius, I was the one in charge of keeping the ring safe.
+
+“Uh-oh,” I said, my eyes growing wide. “I think I left it back at the house.”
+
+But judging from their expressions… I don’t think now was a very good time for such a joke.
+
+“It’s in my [INVENTORY],” I admitted. “Why?”
+
+“I was thinking we could show it to the people we’re about to meet at the manor,” Talon said. “They’re the ones that Aurelius wanted to save, right? That’s why he was so desperate to get other people’s bodies.”
+
+Meriel nodded. “But remember, these aren’t actually them. This entire dungeon is just a replica of things that once existed in the outside world—including Camille and the others. Based on what Aurelius and his journal said, their souls are still within that manor nonetheless, represented in a different form. It would explain why Camille is in a ghostly form instead of, well, a human.”
+
+Reina crossed her arms as she walked, thinking of something.
+
+“Hm…” she began. “Could that Soul Anchor ring be the key to saving Camille and the others?”
+
+“It would be stranger if it wasn’t,” Kaelor added.
+
+“Not really,” Meriel said. “Because if that was true, Aurelius would’ve already saved them.”
+
+Curious, I pulled the ring out of my [INVENTORY] and inspected it.
+
+[ITEM: SOUL ANCHOR RING]
+
+Rarity: Demonic
+
+Description:
+
+A ring once worn by a demon who feared losing possession of his own soul more than death itself.
+
+Effects:
+
+- Prevents possession of the wearer’s body
+
+- Protects the wearer’s soul from external forces
+
+“From the looks of things, this doesn’t look particularly useful for saving anybody,” I said.
+
+“How could you tell just by looking at it?” Reina asked.
+
+I turned to Meriel, since she knew about my [INSPECT] skill.
+
+“Allene knows how to use an advanced form of Analyze, so we could trust her deductions,” Meriel lied. Actually, was it even a lie? [INSPECT] basically was just Analyze—only a much more comprehensive one.
+
+She walked up to me, leaning in. “You don’t have any other skills to help with this?” she whispered.
+
+I shook my head. “[INSPECT] is the only one that could—wait a minute…”
+
+I quickly looked over my list of active skills, remembering one I had received not so long ago.
+
+[SKILL: SMITH’S EYE]
+
+Type: Active
+
+Effects:
+
+- Reveal an item’s quality, craftsmanship, and durability
+
+- Identify hidden flaws, alterations, and other concealed properties
+
+That sounded useful. It was worth a shot considering the skill didn’t have a cooldown or restriction.
+
+I cast [SMITH’S EYE] on the ring.
+
+[ITEM: SOUL ANCHOR RING]
+
+Quality: Masterwork
+
+Durability: Perfect
+
+Craftsmanship: Impossible. Crafted using techniques unknown to modern blacksmithing.
+
+Hidden Observations:
+
+- This artifact houses a dormant soul
+
+- The soul remains sealed
+
+- Activation requirements are currently unknown
+
+“No way,” I muttered, my eyes widening.
+
+“Allene?” Meriel called.
+
+The others turned my way.
+
+“This ring,” I began. “There’s a soul inside of it.”
+
+“What…?” Kaelor said.
+
+“A soul? Are you sure?” Reina asked.
+
+“I cast another version of Analyze on the ring just now, and it revealed just that,” I said. “It also says that the activation requirements have not been met.”
+
+“Activation requirements?” Talon said. “What are they?”
+
+“I don’t know. It doesn’t say.”
+
+I let the others walk ahead, staying in the back with Meriel.
+
+“Why didn’t [INSPECT] reveal that about the ring before?” she whispered.
+
+I shook my head. “It wasn’t [INSPECT]. It was another skill called [SMITH’S EYE].”
+
+“I see.” She put a hand under her chin. “A soul inside of a ring, huh? Given that Aurelius used to have souls inside of his other rings, that isn’t entirely out of the question. But that does raise an even more alarming question.”
+
+“And that question is whose soul is currently inside of the Soul Anchor ring,” I said.
+
+“Could it be Aurelius’s?”
+
+I thought about it for a moment before laughing. “That’s impossible. We saw his soul being destroyed by Dawn Sunderer.”
+
+“Then I’m all out of ideas.”
+
+After a while, the five of us finally arrived in front of the manor. Before, it had been locked by a gate with a puzzle we had to solve before we could enter. Or at least, a puzzle we were supposed to solve. Reina and I had just broken through back then without even giving the puzzle a shot. That probably wasn’t the approach the dungeon intended, but it was certainly the most fitting for us.
+
+Even so, the gate standing before us now was wide open, as if welcoming us in. Even the two gargoyles that were supposed to be perched on top were completely gone. Could it just be that the dungeon didn’t regenerate properly after our previous run?
+
+We stepped into the courtyard, where stones were scattered around the path toward the manor's front door. There were no stone knights, stone lions, or stone angels. Thank god. The angels were horrifying.
+
+However, not all of them were destroyed. There were still several statues along the path, just like last time. These were the ones that were actually statues instead of monsters. Unless this dungeon pulled some kind of stupid trick, we should be safe.
+
+“Whoa,” Kaelor said, scanning the area. “What’s with all the mess?”
+
+“Reina and I had a bit of a fight with the statues,” I said. “Though I did take care of them with a huge explosion.”
+
+“Huge explosion…?” Meriel said.
+
+“Yup. The same one that accidentally killed you back then while you were trying to train us. Remember what happens when I combine my Fireball with Dawn Sunderer’s divine magic?”
+
+“Kaboom,” Reina said. “A very big kaboom.”
+
+“Ah. Now that’s something I’d rather not remember,” Meriel said.
+
+We walked up to the front door, which was still unlocked from the last time Reina and I entered.
+
+“Here goes nothing,” I said.
+
+[TROPE COMPLETED: THE “HERE GOES NOTHING” ENDING]
+
+[REWARD: None. The sentence was too corny to deserve a reward.]
