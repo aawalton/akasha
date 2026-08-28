@@ -32,7 +32,7 @@ function manifestIn(root: string, dir: string): string | null {
 }
 
 export interface Manifests {
-  slugFor(relPath: string): string | null
+  slugFor: (relPath: string) => string | null
 }
 
 export function manifestsUnder(root: string): Manifests {
