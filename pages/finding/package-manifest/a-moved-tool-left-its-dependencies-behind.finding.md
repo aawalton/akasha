@@ -3,7 +3,7 @@ id: c55d0ad2-9015-55d5-9a96-1fbe00bd43a2
 slug: a-moved-tool-left-its-dependencies-behind
 page-type-slug: finding
 title: "Every tool that moved into akasha kept its dependencies in the repository it left, so the merge of the two manifests is a blocker rather than the last step"
-domain-slug: package-manifest
+domain-slug: domain/package-manifest
 ---
 
 # Claim

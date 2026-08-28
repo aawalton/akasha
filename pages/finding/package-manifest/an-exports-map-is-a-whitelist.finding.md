@@ -3,7 +3,7 @@ id: 4c7a0e87-3954-59d5-800b-71125f33cb12
 slug: an-exports-map-is-a-whitelist
 page-type-slug: finding
 title: "Giving a package its first exports map is the most narrowing edit available, not the additive one it reads as"
-domain-slug: package-manifest
+domain-slug: domain/package-manifest
 ---
 
 # Claim

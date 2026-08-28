@@ -3,7 +3,7 @@ id: 9c1b1038-ba75-5a31-862d-bd9ad743b0b5
 slug: docker-copy-paths-are-build-context-paths
 page-type-slug: finding
 title: "A Dockerfile COPY path is a build-context path, so both the old spelling and the repointed one are broken after a cross-repository move"
-domain-slug: ops-package
+domain-slug: domain/ops-package
 ---
 
 # Claim

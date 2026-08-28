@@ -3,7 +3,7 @@ id: d720436c-d0b0-5a99-ad61-335a4b4890fa
 slug: survey-the-tracked-set
 page-type-slug: finding
 title: "A cross-repository repointer that walks the working tree edits files git will never commit, and reads thirty times what it needs"
-domain-slug: ops-package
+domain-slug: domain/ops-package
 ---
 
 # Claim

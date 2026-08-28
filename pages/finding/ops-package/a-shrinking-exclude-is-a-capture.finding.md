@@ -3,7 +3,7 @@ id: 7352aa9a-9c59-533e-b89a-8bcdf0dc8e84
 slug: a-shrinking-exclude-is-a-capture
 page-type-slug: finding
 title: "A shrinking exclude and a shrinking include are the same set difference, and only the key they came from says which is a capture"
-domain-slug: ops-package
+domain-slug: domain/ops-package
 ---
 
 # Claim

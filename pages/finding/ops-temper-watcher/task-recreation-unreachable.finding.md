@@ -1,7 +1,7 @@
 ---
 page-type-slug: finding
 title: "The Temper watcher's task-recreation path cannot run"
-domain-slug: ops-temper-watcher
+domain-slug: domain/ops-temper-watcher
 slug: task-recreation-unreachable
 ---
 

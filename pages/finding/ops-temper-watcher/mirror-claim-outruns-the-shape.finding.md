@@ -3,7 +3,7 @@ id: 01a045a4-974d-7000-b97b-4f1d1883e05f
 slug: mirror-claim-outruns-the-shape
 page-type-slug: finding
 title: "Mirror claim outruns the shape"
-domain-slug: ops-temper-watcher
+domain-slug: domain/ops-temper-watcher
 ---
 
 # Claim
