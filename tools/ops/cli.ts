@@ -26,7 +26,7 @@ async function main(): Promise<void> {
   })
 
   ignoreClosedConsumerWrites([process.stdout, process.stderr])
-  answerPageQueriesInProcess(process.env)
+  answerPageQueriesInProcess()
 
   const args = process.argv.slice(2)
   const match = findCommand(kit.commands, args)
