@@ -1,5 +1,3 @@
-// The old graph is gone. This table is not the engine: it names file kinds and says which
-// are authored, and every constant it reads is a plain string in a surviving declaration.
 import { CERTIFICATE_FILE_NODE_TYPE } from "./certificate-file/types.ts"
 import { CONF_FILE_NODE_TYPE } from "./conf-file/types.ts"
 import { CSS_FILE_NODE_TYPE } from "./css-file/types.ts"
