@@ -19,21 +19,26 @@ export interface Where {
 /**
  * Where a write addressed `<pageType>/<name>` lands.
  *
- * A PAGE IS SOUGHT BY ITS FILE STEM FIRST AND BY THE SLUG IT STATES ONLY ON A MISS. Both passes
- * stand because either alone loses a page. `page-types.ts:131` and `page/index/identity/identity.ts:158`
- * both derive a page's slug as the stated one falling back to the stem, so the stated slug is the
- * address the rest of the system answers to. Matching the STEM ALONE cannot reach a page whose
- * frontmatter states another slug, and the write then files a second page under an address the
- * first already holds. Matching the STATED SLUG ALONE regresses in mirror image: the page at
- * `pages/life-theme/temper.life-theme.md` states `slug: 946`, so its slug is not `temper`, and a
- * write addressed `life-theme/temper` would stop finding it and file the duplicate at that end
- * instead. Ordered, the two passes reach both and are ambiguous in neither — no name is at once
- * one file's stem and another's stated slug.
+ * A PAGE IS SOUGHT BY ITS FILE STEM FIRST AND BY THE SLUG IT STATES ONLY ON A MISS. `page-types.ts:131`
+ * and `page/index/identity/identity.ts:158` both derive a page's slug as the stated one falling back
+ * to the stem, so the stated slug is the address the rest of the system answers to. BOTH PASSES ARE
+ * LOAD-BEARING, and each was checked by removing it and watching a duplicate appear.
  *
- * THE PASSES ARE ORDERED RATHER THAN COMBINED BECAUSE THE SECOND ONE OPENS FILES. It runs only
- * where the free pass found nothing, which is the create path, where a file write and a commit are
- * about to happen regardless. 58,991 of 58,993 pages are reached by stem, so a patch essentially
- * never pays it. Folding both tests into one predicate would open every candidate on every write:
+ * WITHOUT THE STEM PASS, a page that states no slug is unreachable, and the fallback below then files
+ * a second page at the composed path. That bites wherever a page does not stand at its composed path,
+ * which is every nested one: 34,268 pages stand nested under their type's directory and 160 of those
+ * state no slug at all.
+ *
+ * WITHOUT THE SLUG PASS, a page whose stated slug is not its stem is unreachable the other way, and
+ * the write files a second page carrying an address the first already holds. Two pages of 58,993
+ * stand in that shape today — `pages/life-theme/temper.life-theme.md` states `slug: 946`, and
+ * `graph/edge-producer/relation/relation.graph-edge-producer.md` states `slug: relation-producer`.
+ * Note that a slug-stating page which DOES stand at its composed path is reached either way, because
+ * the fallback rebuilds its exact path; the duplicate needs the drift and a nested page to show up.
+ *
+ * THE PASSES ARE ORDERED RATHER THAN COMBINED BECAUSE THE SECOND ONE OPENS FILES. It runs only where
+ * the free pass found nothing, which is the create path, where a file write and a commit are about to
+ * happen regardless. Folding both tests into one predicate would open every candidate on every write:
  * 279 ms for `story-chapter-royal-road`, whose place holds 17,905 files.
  */
 export function whereFor(
