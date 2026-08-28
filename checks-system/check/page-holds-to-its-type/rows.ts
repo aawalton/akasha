@@ -4,8 +4,8 @@ import { judgeRow } from "../../../page/property/judge.ts"
 import type { Property } from "../../../page/property/property.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
 import { claimant, type PageType } from "../../../page/page-types.ts"
-
-const DATA_FILE = /^(.*)\.([a-z0-9-]+)\.jsonl$/
+import { rowsNamingOf } from "../../../page/rows-file.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 
 const ROWS_KEY = "rows"
 
@@ -13,35 +13,69 @@ const ROWS_JSONL = "jsonl"
 
 const TARGET_KEY = "target-slug"
 
+/**
+ * What a path's rows are held to.
+ *
+ * THE TWO WAYS OF ANSWERING NOTHING ARE NOT THE SAME ANSWER. A path that is no rows sidecar is a
+ * true empty: there is nothing there to judge and the check is right to walk past it. A path that
+ * IS one, whose rows nothing settles a type for, is a fault: the file holds rows, and walking past
+ * it leaves every one of them unjudged while the check reports nothing against the file. Answering
+ * both with one value is what let 148,081 rows in twenty-four split sidecars go unjudged and unsaid
+ * — see `pages/finding/pages-system/a-split-sidecars-key-is-read-as-its-part-number.finding.md`.
+ * `unheld` carries the second and is null for the first, so a caller that reads only `slug` skips
+ * both and a caller that reads `unheld` surfaces the fault.
+ */
 export type RowsHeld =
-  | { readonly slug: string; readonly properties: readonly Property[] }
-  | { readonly slug: null; readonly properties: null }
+  | { readonly slug: string; readonly properties: readonly Property[]; readonly unheld: null }
+  | { readonly slug: null; readonly properties: null; readonly unheld: string | null }
 
-const none: RowsHeld = { slug: null, properties: null }
+const none: RowsHeld = { slug: null, properties: null, unheld: null }
+
+function unheld(relPath: string, key: string, why: string): RowsHeld {
+  return {
+    slug: null,
+    properties: null,
+    unheld: refusalText("rows-sidecar-held-to-no-type", { path: relPath, key, why }),
+  }
+}
 
 export function rowsHeldBy(
   relPath: string,
   types: readonly PageType[],
   tree: FileTree
 ): RowsHeld {
-  const split = DATA_FILE.exec(relPath)
-  if (split === null) return none
-  const beside = claimant(`${split[1] as string}.md`, types).type
-  if (beside === null) return none
+  const named = rowsNamingOf(relPath)
+  if (named === null) return none
+  const { page, key } = named
+  const beside = claimant(`${page}.md`, types).type
+  if (beside === null) return unheld(relPath, key, `no page any page type claims stands at \`${page}.md\``)
   const { properties: onParent } = compiledPageTypeFor(beside, tree)
-  const holder = onParent?.find((one) => one.name === (split[2] as string))
-  if (holder === undefined) return none
+  const holder = onParent?.find((one) => one.name === key)
+  if (holder === undefined) {
+    return unheld(relPath, key, `the \`${beside.slug}\` page type that page holds to declares no \`${key}\` property`)
+  }
   const text = tree.open(holder.at)
-  if (text === null) return none
+  if (text === null) return unheld(relPath, key, `its property definition at \`${holder.at}\` cannot be read`)
   const { fm, why } = blockOf(text)
-  if (why !== null) return none
-  if (stringAt(fm, ROWS_KEY) !== ROWS_JSONL) return none
+  if (why !== null) {
+    return unheld(relPath, key, `the frontmatter of its property definition at \`${holder.at}\` does not parse: ${why}`)
+  }
+  if (stringAt(fm, ROWS_KEY) !== ROWS_JSONL) {
+    return unheld(relPath, key, `\`${holder.at}\` does not declare \`${ROWS_KEY}: ${ROWS_JSONL}\`, so this key holds no rows`)
+  }
   const target = stringAt(fm, TARGET_KEY)
-  const rowType = target === null ? undefined : types.find((one) => one.slug === target)
-  if (rowType === undefined) return none
+  if (target === null) {
+    return unheld(relPath, key, `\`${holder.at}\` states no \`${TARGET_KEY}\`, so nothing says what these rows are`)
+  }
+  const rowType = types.find((one) => one.slug === target)
+  if (rowType === undefined) {
+    return unheld(relPath, key, `\`${holder.at}\` names \`${target}\` as the type of these rows and no page type goes by that slug`)
+  }
   const { properties } = compiledPageTypeFor(rowType, tree)
-  if (properties === null || properties.length === 0) return none
-  return { slug: rowType.slug, properties }
+  if (properties === null || properties.length === 0) {
+    return unheld(relPath, key, `the \`${target}\` page type these rows are held to declares no properties`)
+  }
+  return { slug: rowType.slug, properties, unheld: null }
 }
 
 export function rowsOutside(
