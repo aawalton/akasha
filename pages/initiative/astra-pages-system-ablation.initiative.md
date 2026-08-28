@@ -9,12 +9,11 @@ parent-slug: astra-pages-system
 
 # Intent
 
-- `tools/lib/page-id.ts` is gone, its one line naming two exports that do not exist.
-- The seven zero-importer files are gone: `shared/pages-core/src/index.ts`, `shared/pages-core/src/view-state/index.ts`, `shared/pages-query/src/live-version.ts`, `shared/pages-access/src/answer-write.ts`, `shared/pages-access/src/test-support.ts`, `shared/pages-ui-store/src/realtime/index.ts`, `shared/pages-ui/src/supabase/use-page-type-definitions.ts`.
+- The five zero-importer files are gone: `shared/pages-core/src/index.ts`, `shared/pages-core/src/view-state/index.ts`, `shared/pages-query/src/live-version.ts`, `shared/pages-ui-store/src/realtime/index.ts`, `shared/pages-ui/src/supabase/use-page-type-definitions.ts`.
 - Nothing reaches the dead port 8787: `shared/pages-query/src/index.ts:7-8`, `readouts/ask-over-http.ts:7`, `tools/lib/ci-container-dispatcher/container-manifest.ts:28,96`.
 - `infra/k8s/src/page-query-service/` and `pages/workflow-template/workflow-page-query-service.workflow-template.md` are gone with the service they deploy.
 - `shared/pages-access/`'s thirteen stale documents are gone, describing a PostgREST the code no longer has.
-- Nothing under `shared/` imports from `page/`.
+- Nothing under `shared/` imports from `page/`. One reach remains, in the `shared/pages-access` barrel.
 - `tools/lib/page-href.ts` is gone, byte-identical to `shared/pages-url/src/index.ts`.
 - `tools/lib/page-standing.ts` and `tools/lib/pages-instant.ts` are gone, each read only by its own test.
 - The eleven single-importer files in `tools/lib` are folded into their sole callers.
@@ -45,3 +44,7 @@ Opened 2026-08-28 from a survey of every competing implementation, to hold the t
 **The two `page-seq` forks differ in mechanism, not only root.** `tools/lib/page-seq.ts:84-123` spawns a subprocess through the edit gate; `page/page-seq.ts:79-91` lands in-process via `landFiles`. A survivor targeting the wrong repo reads a stale counter, and `takeSeqOf` then hands back a seq already spent — which creates a colliding page rather than refusing.
 
 **Importer counts, for judging cost:** `page/` 388, `shared/pages-core/` 337, `shared/pages-ui/` 140, `shared/pages-access/` 156, `tools/lib/page-*` 119, `shared/pages-query/` 115.
+
+**The last reach into `page/` is held by a barrel that cannot be edited.** `shared/pages-access/src/index.ts` is 110 lines, every one an `export … from`, so `export-declared-here` refuses all forty forwarded exports for any change to it. A removal is not judged for its body, so the shape is to delete the barrel rather than edit it — and no production code imports it, the package being consumed entirely through subpaths across 218 imports in 154 files. What holds it up is six test files that `mock.module("@shared/pages-access", …)`, and every one of those mocks is inert: the modules under test import subpaths, so a mock keyed on the bare specifier is never on the resolution path. Deleting the barrel opens the question of whether those six tests test what they claim.
+
+**A file move can silently break a package build.** `shared/pages-access/tsconfig.json` carries a hand-maintained explicit `include` list. The gate's typecheck did not see it when `named-for` moved; `bunx tsc -b` inside the package did. It is the only such list in the repo.
