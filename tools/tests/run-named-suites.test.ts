@@ -134,6 +134,21 @@ describe("verdictForNamedSuites — a run that could not be observed", () => {
     expect(v.findings.some((f) => f.detail.includes("5 failing test(s)"))).toBe(true)
   })
 
+  test("a group that died on a signal voids the verdict even where another group failed", () => {
+    const v = verdictForNamedSuites({
+      runs: [
+        { label: UNTYPED, bunExitCode: 137, output: NO_SUMMARY },
+        { label: "unit", bunExitCode: 1, output: RED },
+      ],
+      observedAtMs: AT,
+    })
+    expect(v.kind).toBe("fail")
+    expect(v.reason).toContain("certifies nothing")
+    expect(v.reason).not.toContain("failing test(s)")
+    if (v.kind !== "fail") throw new Error(`expected fail, got ${v.kind}`)
+    expect(v.findings.some((f) => f.detail.includes("died on a signal"))).toBe(true)
+  })
+
   test("a group that printed no summary and exited 0 is not a pass", () => {
     const v = verdictForNamedSuites({
       runs: [
