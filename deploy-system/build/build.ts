@@ -23,6 +23,21 @@ export interface BuildTarget {
 
 export type BuildEnv = readonly { readonly name: string; readonly value: string }[]
 
+/**
+ * One value a service's build needs, either written down or named in the namespace's secret.
+ *
+ * EVERY ENTRY IS DECLARED, WITH NO DEFAULTS ADDED HERE. A build environment assembled partly from
+ * a list on the page and partly from a default applied behind it reads as the list, and the
+ * difference only shows up as a bundle built against the wrong backend. What a service builds with
+ * is what its own attachment says and nothing besides.
+ */
+export type BuildEnvEntry =
+  | { readonly name: string; readonly value: string }
+  | { readonly name: string; readonly fromSecret: { readonly name: string; readonly key: string } }
+
+/** The name a cluster service's attachment exports its build environment under. */
+export const BUILD_ENV_EXPORT = "BUILD_ENV"
+
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null
 }
@@ -174,6 +189,72 @@ export function secretValue(namespace: string, secret: string, key: string): str
   const encoded = ran.stdout.trim()
   if (encoded === "") return null
   return Buffer.from(encoded, "base64").toString("utf8")
+}
+
+function isEntry(value: unknown): value is BuildEnvEntry {
+  if (!isRecord(value) || typeof value.name !== "string") return false
+  if (typeof value.value === "string") return true
+  const from = value.fromSecret
+  return isRecord(from) && typeof from.name === "string" && typeof from.key === "string"
+}
+
+/**
+ * What this service's synth says its build needs, or nothing where it says nothing.
+ *
+ * THE ATTACHMENT IS ASKED RATHER THAN THE WORKFLOW THAT USED TO RUN THE BUILD. A service's build
+ * environment belongs beside the `workingDir` it already sets, so one file answers for how the
+ * service is built as well as how it runs.
+ */
+export async function declaredBuildEnv(synthPath: string): Promise<readonly BuildEnvEntry[]> {
+  const mod: unknown = await import(synthPath)
+  const found = isRecord(mod) ? mod[BUILD_ENV_EXPORT] : undefined
+  if (!Array.isArray(found)) return []
+  return found.filter(isEntry)
+}
+
+export interface Unresolved {
+  readonly entry: BuildEnvEntry
+  readonly why: string
+}
+
+export interface Resolved {
+  readonly env: BuildEnv
+  readonly missing: readonly Unresolved[]
+}
+
+/**
+ * The build environment with every secret read, and whatever could not be read named.
+ *
+ * A MISSING VALUE STOPS THE BUILD RATHER THAN THINNING IT. A bundle built without a key it needed
+ * starts, serves, and is wrong in the browser, so a build with an unresolved entry is refused by
+ * the caller instead of run with the entry dropped.
+ *
+ * `NEXT_PUBLIC_BUILD_SHA` is not declared anywhere: it is the commit being deployed, so it is added
+ * here rather than written on each service where it could disagree.
+ */
+export function resolveBuildEnv(
+  namespace: string,
+  entries: readonly BuildEnvEntry[],
+  sha: string
+): Resolved {
+  const env: { name: string; value: string }[] = [{ name: "NEXT_PUBLIC_BUILD_SHA", value: sha }]
+  const missing: Unresolved[] = []
+  for (const entry of entries) {
+    if ("value" in entry) {
+      env.push({ name: entry.name, value: entry.value })
+      continue
+    }
+    const held = secretValue(namespace, entry.fromSecret.name, entry.fromSecret.key)
+    if (held === null) {
+      missing.push({
+        entry,
+        why: `secret ${entry.fromSecret.name} in ${namespace} has no readable key ${entry.fromSecret.key}`,
+      })
+      continue
+    }
+    env.push({ name: entry.name, value: held })
+  }
+  return { env, missing }
 }
 
 export interface Built {
