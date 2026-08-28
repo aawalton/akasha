@@ -140,8 +140,15 @@ function reachingOver(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[
   return found
 }
 
+/**
+ * A MAP IS KEPT AND A REFUSAL IS NOT. The first ask on a cold cache is refused and walked, and the
+ * walk is what fills the cache, so a refusal kept against the context would go on refusing for the
+ * rest of the run and walk again for every ask after — working out what the first walk had already
+ * worked out. Asking again costs one `existsSync` while the answers are still missing.
+ */
 function reachingIn(ctx: BuildContext): ReadonlyMap<string, readonly EdgeInit[]> | null {
-  if (REACHING.has(ctx)) return REACHING.get(ctx) ?? null
+  const held = REACHING.get(ctx)
+  if (held !== undefined && held !== null) return held
   const made = reachingOver(ctx)
   REACHING.set(ctx, made)
   return made
