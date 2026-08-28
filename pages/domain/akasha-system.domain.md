@@ -16,6 +16,7 @@ required-reading-slugs:
   - domain/akasha-code
   - domain/akasha-data
   - domain/akasha-file
+  - domain/akasha-migration
   - domain/akasha-page
   - domain/akasha-text
   - domain/akasha-type
