@@ -1,4 +1,5 @@
 ---
+id: 32ce2445-bcce-5582-9c6c-347b54b074b8
 page-type-slug: check
 title: "Inbound import resolves"
 slug: inbound-import-resolves
