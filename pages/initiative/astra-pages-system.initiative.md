@@ -27,6 +27,10 @@ Take an intent off an initiative once it is fully complete.
 
 Make only small or very difficult changes directly. Coordinate every other change through subagents, at a rolling concurrency of at most twenty direct subagents.
 
+Other agents work through the night too. Use judgement in answering what they ask of you as users of the pages system.
+
+Recruit another seat where the work reaches into the area that seat holds.
+
 File every issue you find as a finding against the domain it bears on.
 
 Resolve a finding by fixing what it names, or by taking the finding away as wrong.
