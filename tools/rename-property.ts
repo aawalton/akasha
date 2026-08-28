@@ -7,6 +7,8 @@ import { existsSync, readFileSync } from "node:fs"
 import { escapedSpellings, textFiles } from "../repoint/mention"
 import { anyRefused, render } from "../outcome/outcome"
 import { diskFileTree } from "../page/file-tree.ts"
+import { pageNameOf } from "../page/name/name.ts"
+import { newPageNameFor } from "../page/page-types.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { rejectUnknownFlags, repoFlag } from "./lib/payload.ts"
 import { agentId } from "./lib/read-record.ts"
@@ -129,7 +131,12 @@ function main(): void {
   if (clash.length > 0) {
     fail(`\`${next}\` is already a key on \`${onType}\` or on a type beneath it: ${clash.join("; ")}`)
   }
-  const destination = `${definition.slice(0, definition.lastIndexOf("/"))}/${propertyFileName(onType, next)}.md`
+  const carriedType = types.find((one) => one.slug === pageNameOf(definition)?.type)
+  if (carriedType === undefined) {
+    fail(`${definition} carries no page type in its name, so nothing says what the definition it becomes is named`)
+    return
+  }
+  const destination = `${definition.slice(0, definition.lastIndexOf("/"))}/${newPageNameFor(carriedType, propertyFileName(onType, next))}`
   const unmoved = destination === definition
   const landing = unmoved ? "rekeyed where it stands" : `moved to ${destination}`
   if (!unmoved && existsSync(`${root}/${destination}`))
