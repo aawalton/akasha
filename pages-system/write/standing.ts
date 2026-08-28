@@ -27,5 +27,7 @@ export const standingPageAt = (root: string, at: string): StandingPage => {
   }
   if (text === null) return { kind: "none" }
   const parts = partsIn(text)
-  return typeof parts === "string" ? { kind: "unreadable", why: parts } : { kind: "standing", parts }
+  return typeof parts === "string"
+    ? { kind: "unreadable", why: parts }
+    : { kind: "standing", parts }
 }
