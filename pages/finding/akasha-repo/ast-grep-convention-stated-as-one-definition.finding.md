@@ -18,6 +18,6 @@ The ast-grep rule-file convention is defined twice and the two definitions diffe
 
 One sgconfig survives in the tree, `infra/cluster-checks/sgconfig.yml`, whose entire body is `ruleDirs:` with the single entry `rules`. That word is the whole of the agreement. Rename it, and `check-configs-ast-grep` keeps discovering the files under the new name while `yaml-usage` stops recognising them as rules at all — every file under it then reads as orphaned yaml. Three files sit there now: `infra/cluster-checks/rules/mock-module-outside-test-file.yml`, `no-hardcoded-ast-grep-scan.yml` and `no-user-id-comparison-in-web-app.yml`.
 
-What holds the two together is a test rather than a shared definition. `infra/cluster-checks/src/lib/ast-grep-discovery.unit.test.ts:26`-`:30`, named "every rule lives under a `rules/` dir declared by a sibling sgconfig", asserts every discovered path matches `/\/rules\/[^/]+\.ya?ml$/`. That is what reddens on a rename instead of the two splitting in silence. The comment that named the hazard is gone; the test's own name is all that carries it.
+What holds the two together is a test rather than a shared definition. `infra/cluster-checks/src/lib/ast-grep-discovery.unit.test.ts:26`-`:30`, named "every rule lives under a `rules/` dir declared by a sibling sgconfig", asserts every discovered path matches `/\/rules\/[^/]+\.ya?ml$/`. The comment that named the hazard is gone; the test's own name is all that carries it.
 
-Unmeasured. Nothing was run: the divergence is read off the two sources and the one config. Whether a second sgconfig is wanted, and which of the two definitions should give way, is not settled here.
+Unmeasured. Nothing was run: the divergence is read off the two sources and the one config.
