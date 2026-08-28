@@ -67,7 +67,11 @@ function editingOnStdin(next: string, inputFile: readonly string[]): Ran {
   return ranOf(ran)
 }
 
-const HARMLESS = `// the comment a dry run adds and never lands\n${ANCHOR}`
+const HARMLESS = `\n${ANCHOR}`
+
+function subjectBytes(): number {
+  return readFileSync(`${HERE}/${SUBJECT}`).length
+}
 
 describe("what akasha's checks make of a substitution landing here", () => {
   test("the anchor this states its substitution against is in the file", () => {
@@ -89,11 +93,12 @@ describe("what akasha's checks make of a substitution landing here", () => {
   })
 
   test("a body they admit says how many checks weighed it, and lands nothing on a dry run", () => {
+    const before = subjectBytes()
     const ran = editing(HARMLESS)
     expect(ran.said).toMatch(/gate: \d+ akasha check\(s\) over 1 changed file\(s\), none refused/)
     expect(ran.said).toContain("dry-run")
     expect(ran.code).toBe(0)
-    expect(readFileSync(`${HERE}/${SUBJECT}`, "utf8")).not.toContain("the comment a dry run adds")
+    expect(subjectBytes()).toBe(before)
   })
 })
 
