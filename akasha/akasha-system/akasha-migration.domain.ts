@@ -3,7 +3,7 @@ import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 export const akashaMigration = {
   id: "01a049e9-651d-7000-9a0a-24d00bb35526",
   slug: "akasha-migration",
-  definition: "how what exists now becomes the akasha system",
+  definition: "how the old system becomes the new system",
   partSlugs: [
     "akasha-accretion",
     "akasha-ablation",
@@ -13,9 +13,6 @@ export const akashaMigration = {
     "akasha-accretion",
     "akasha-ablation",
     "akasha-milestone",
-  ],
-  condition: [
-    "A mechanical migration is done by a generalized akasha command.",
   ],
   rule: [
     {
