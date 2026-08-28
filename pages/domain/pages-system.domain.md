@@ -29,6 +29,8 @@ What makes a file a page is the page type its name carries.
 
 A page type states where its pages are written.
 
+A page carries no repository field. Its address is its repository, a colon, and its path inside that repository.
+
 # Rules
 
 ## Answer Or Refuse
