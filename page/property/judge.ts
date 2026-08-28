@@ -9,10 +9,21 @@ import { VALUES } from "./stated.ts"
 import type { Held, Rule, Vocabulary } from "./stated.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 
+/**
+ * What a page's frontmatter came to, key by key.
+ *
+ * `unjudged` AND `elsewhere` WERE ONE FIELD, AND THEY ARE NOT ONE THING. A key whose value stands
+ * in a sops file or an attachment beside the page is judged where it stands; this reads
+ * frontmatter, so there is nothing here to judge and nothing is missing. A key whose type rule
+ * could not be armed is the opposite: it is here, and nothing could say whether it holds. Counting
+ * them together made the second unreportable, because a gate that named the sum would refuse 256
+ * lines that are working as designed to reach the 113 that are not.
+ */
 export interface Judgment {
   readonly refusals: readonly string[]
   readonly keys: number
   readonly unjudged: readonly string[]
+  readonly elsewhere: readonly string[]
   readonly why: string | null
 }
 
@@ -108,11 +119,18 @@ export function judgeFrontmatter(
 ): Judgment {
   const fm = parseFrontmatter(text)
   if (fm.error !== null)
-    return { refusals: [], keys: 0, unjudged: [], why: `its frontmatter cannot be accounted for: ${fm.error}` }
+    return {
+      refusals: [],
+      keys: 0,
+      unjudged: [],
+      elsewhere: [],
+      why: `its frontmatter cannot be accounted for: ${fm.error}`,
+    }
   const declared = new Map<string, Property[]>()
   for (const one of properties) declared.set(one.name, [...(declared.get(one.name) ?? []), one])
   const refusals: string[] = []
   const unjudged: string[] = []
+  const elsewhere: string[] = []
   for (const key of fm.keys) {
     const several = declared.get(key)
     if (several === undefined) {
@@ -154,11 +172,11 @@ export function judgeFrontmatter(
   const owed = new Set<string>()
   for (const property of properties) {
     if (property.secret && property.required)
-      unjudged.push(
+      elsewhere.push(
         `\`${property.name}\`: it is secret on \`${property.on}\`, so its value stands in the page's sops file and this reads frontmatter`
       )
     if (property.attachment !== null && property.required)
-      unjudged.push(
+      elsewhere.push(
         `\`${property.name}\`: it is an attachment on \`${property.on}\`, so its value stands beside the page in a \`.attachment.${property.attachment}\` file and this reads frontmatter`
       )
     if (owedKey(property) && !fm.fields.has(property.name) && !owed.has(property.name)) {
@@ -177,6 +195,7 @@ export function judgeFrontmatter(
     refusals: [...refusals, ...chosen.refusals],
     keys: fm.keys.length,
     unjudged: [...unjudged, ...chosen.unjudged],
+    elsewhere,
     why: null,
   }
 }
