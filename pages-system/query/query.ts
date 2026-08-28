@@ -39,12 +39,16 @@ import {
 } from "../formula/formula.ts"
 import { type Extending, cycleAmong, familyOf } from "./expands.ts"
 import { type Declaring, keysRefused, narrowed } from "./keys.ts"
+import type { How, Reduction } from "./reduce.ts"
 
 /** Where a refusal of this package's own points: a `where` is held whole, so at its start. */
 const START: Place = { offset: 0, line: 1, column: 1 }
 
 /** What a `where` must answer. A query narrows by a test, and a test is a boolean. */
 const BOOLEAN = "boolean"
+
+/** What a reduction reduces. Adding one text to another is no sum. */
+const NUMBER = "number"
 
 /** One page, as a query sees it: where it stands, and what it holds. */
 export type Page = {
@@ -86,6 +90,10 @@ export type Query = {
   readonly keys?: readonly string[]
   /** The formula narrowing them, which answers a boolean. A query stating none asks for them all. */
   readonly where?: string
+  /** How the key it targets is reduced. A query stating this states a `target` too. */
+  readonly function?: How
+  /** The key reduced, declared a number. Stated only with a `function`. */
+  readonly target?: string
 }
 
 /** `a` or `an`, for a refusal that names a type. */
@@ -130,14 +138,22 @@ class CheckedQuery {
 
   readonly #keys: readonly string[] | null
 
+  /**
+   * What this query reduces, or null where it answers pages rather than a value. CARRIED IN THE OPEN
+   * so a caller can tell whether asking this query for a value is a question it answers at all.
+   */
+  readonly reduction: Reduction | null
+
   constructor(
     pageTypes: readonly string[],
     test: CheckedFormula | null,
-    keys: readonly string[] | null
+    keys: readonly string[] | null,
+    reduction: Reduction | null
   ) {
     this.pageTypes = pageTypes
     this.#test = test
     this.#keys = keys
+    this.reduction = reduction
   }
 
   /**
@@ -181,6 +197,38 @@ const beyondSaid = (named: readonly string[], beyond: Readonly<Record<string, st
     .sort()
     .map((key) => `\`${key}\` is declared to hold \`${beyond[key]}\`, which no formula holds`)
     .join("; ")
+
+/**
+ * Why a query's reduction cannot be worked out, or nothing where it can.
+ *
+ * THE TWO FIELDS STAND OR FALL TOGETHER. Either alone is a query whose writer meant a reduction and
+ * did not get one, and answering pages instead reads exactly like a query that asked for pages.
+ *
+ * A TARGET IS HELD TO A NUMBER, and to the declaration of the page type NAMED, as the `where` is. A
+ * reduction that skipped every page for holding no number would answer absent over nought — a true
+ * empty spelling for a query pointed at the wrong key.
+ */
+const reductionRefused = (query: Query, declared: Declared): string | null => {
+  const how = query.function
+  const target = query.target
+  if (how === undefined && target === undefined) return null
+  if (how === undefined) {
+    return "a query stating a `target` states how it reduces it, and this one states no `function`"
+  }
+  if (target === undefined) {
+    return "a query stating a `function` states the key it reduces, and this one states no `target`"
+  }
+  const beyond = declared.beyond[target]
+  if (beyond !== undefined) {
+    return `\`${target}\` is declared to hold \`${beyond}\`, which no reduction reduces`
+  }
+  const property = declared.properties[target]
+  if (property === undefined) return `no page type this asks about declares \`${target}\``
+  if (property.type.kind !== NUMBER) {
+    return `a reduction reduces a number, and \`${target}\` holds ${answering(property.type)}`
+  }
+  return null
+}
 
 /**
  * Check a query against what its page type declares.
@@ -239,8 +287,15 @@ export const checkQuery = (
     if (refused !== null) return refuseQuery(refused)
   }
 
+  const wrong = reductionRefused(query, declared)
+  if (wrong !== null) return refuseQuery(wrong)
+  const reduction: Reduction | null =
+    query.function === undefined || query.target === undefined
+      ? null
+      : { how: query.function, target: query.target }
+
   const where = query.where
-  if (where === undefined) return new CheckedQuery(pageTypes, null, keys)
+  if (where === undefined) return new CheckedQuery(pageTypes, null, keys, reduction)
 
   const checked = checkFormula(where, shapeOf(declared))
   if (!checked.ok) return checked
@@ -253,7 +308,7 @@ export const checkQuery = (
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(pageTypes, checked, keys)
+  return new CheckedQuery(pageTypes, checked, keys, reduction)
 }
 
 /**

@@ -27,7 +27,7 @@
  */
 
 import type { Value } from "../formula/formula.ts"
-import type { Page } from "./query.ts"
+import type { Checked, Page } from "./query.ts"
 
 /** The ways a set of numbers is reduced to one. What each means is the ordinary arithmetic. */
 export type How = "sum" | "mean"
@@ -38,6 +38,14 @@ export type Reduced = {
   readonly value: Value
   /** How many pages held a number under the target. */
   readonly over: number
+}
+
+/** What a query reduces: the way it reduces, and the key it reduces. */
+export type Reduction = {
+  /** The way the numbers are reduced to one. */
+  readonly how: How
+  /** The key reduced, held to a key declared a number when the query was checked. */
+  readonly target: string
 }
 
 /** What a reduction answers where no page held a number: no value, over none. */
@@ -100,3 +108,21 @@ export const reducedFor = (
  */
 export const reducedOf = (pages: readonly Page[], target: string, how: How): Reduced =>
   reducedFor(pages, [target], how).get(target) ?? NOTHING
+
+/**
+ * What a checked query reduces over the pages it is handed, or null where it reduces nothing.
+ *
+ * NULL IS NOT AN ANSWER OF NOTHING. It says this query states no reduction at all, which is a
+ * question put to the wrong query rather than a value that came back empty. A reduction that found
+ * nothing to reduce answers a value that is absent, over nought, so the two are told apart by the
+ * type rather than by reading a number.
+ *
+ * THE PAGES ARE THE ONES THE QUERY ANSWERED. A reduction is taken over what the `where` held of, so
+ * a caller hands in what `runQuery` gave back; handing in the pages as they were read reduces over
+ * pages the query excluded.
+ */
+export const runReduction = (checked: Checked, pages: readonly Page[]): Reduced | null => {
+  const reduction = checked.reduction
+  if (reduction === null) return null
+  return reducedOf(pages, reduction.target, reduction.how)
+}
