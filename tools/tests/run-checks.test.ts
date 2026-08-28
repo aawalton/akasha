@@ -15,8 +15,9 @@ import { CEILING_MS } from "../lib/run-cost.ts"
  * without saying so. `rootsNamed` refuses roots pointed at nothing, which is why these are written
  * out rather than built through it.
  *
- * THE REPOSITORY NAMES THESE CASES LEVY OVER ARE LABELS, carried into an outcome's name and never
- * looked up as a root, so they need name no repository that exists.
+ * EVERY REPOSITORY A CASE LEVIES OVER IS NAMED HERE. `runChecks` skips a levy whose repository
+ * these roots do not carry, so a name that is not a key among them runs nothing at all, and the
+ * case then reads as a runner that lost the levy rather than as a fixture that never offered it.
  */
 function repoViewOf(repo: Repo): RepoView {
   return {
@@ -44,28 +45,28 @@ function watcher(name: string, walked: Repo[], measured = 1): Levy["run"] {
 describe("a check levied over one repo", () => {
   test("is run once, over that repo, and names it anyway", async () => {
     const walked: Repo[] = []
-    const outcomes = await runChecks({ one: { repos: ["memory"], run: watcher("one", walked) } }, repoViewOf, [])
-    expect(walked).toEqual(["memory"])
+    const outcomes = await runChecks({ one: { repos: ["code-editor"], run: watcher("one", walked) } }, repoViewOf, [])
+    expect(walked).toEqual(["code-editor"])
     expect(outcomes).toHaveLength(1)
-    expect(outcomes[0]?.name).toBe("one (memory)")
-    expect(outcomes[0]?.detail).toBe("walked memory")
+    expect(outcomes[0]?.name).toBe("one (code-editor)")
+    expect(outcomes[0]?.detail).toBe("walked code-editor")
   })
 })
 
 describe("a check levied over several repos", () => {
   test("is run once per repo, in the order declared", async () => {
     const walked: Repo[] = []
-    await runChecks({ both: { repos: ["memory", "akasha"], run: watcher("both", walked) } }, repoViewOf, [])
-    expect(walked).toEqual(["memory", "akasha"])
+    await runChecks({ both: { repos: ["code-editor", "akasha"], run: watcher("both", walked) } }, repoViewOf, [])
+    expect(walked).toEqual(["code-editor", "akasha"])
   })
 
   test("names each run by its repo, two outcomes being indistinguishable otherwise", async () => {
     const outcomes = await runChecks(
-      { both: { repos: ["akasha", "memory"], run: watcher("both", []) } },
+      { both: { repos: ["akasha", "code-editor"], run: watcher("both", []) } },
       repoViewOf,
       []
     )
-    expect(outcomes.map((outcome) => outcome.name)).toEqual(["both (akasha)", "both (memory)"])
+    expect(outcomes.map((outcome) => outcome.name)).toEqual(["both (akasha)", "both (code-editor)"])
   })
 })
 
@@ -82,11 +83,11 @@ describe("a check that measured nothing", () => {
 
   test("names the repo its search was empty over", async () => {
     const outcomes = await runChecks(
-      { empty: { repos: ["memory"], run: watcher("empty", [], 0) } },
+      { empty: { repos: ["code-editor"], run: watcher("empty", [], 0) } },
       repoViewOf,
       []
     )
-    expect(outcomes[0]?.messages.join("")).toContain("empty (memory)")
+    expect(outcomes[0]?.messages.join("")).toContain("empty (code-editor)")
   })
 
   test("passes once the same check reaches something", async () => {
