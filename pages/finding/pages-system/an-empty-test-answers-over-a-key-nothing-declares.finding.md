@@ -60,9 +60,9 @@ So the two engines disagree on `empty` and agree on `notIn`, once the boundary i
 
 # Bearing
 
-This is the half left open by
-`pages/finding/page-queries-system/a-select-is-silent-and-the-write-seam-is-ungated.finding.md`,
-measured 2026-08-20, which found a bad `where` key loud and a bad `keys` key silent, and wrote
+This is the half left open by a finding slugged `a-select-is-silent-and-the-write-seam-is-ungated`,
+measured 2026-08-20 and taken away on 2026-08-28, its subject having been the page query service
+answering over HTTP, which is deleted. It found a bad `where` key loud and a bad `keys` key silent, and wrote
 that `absent` "already separates the two failure modes; it is simply not computed for `keys`."
 The `keys` half was closed since: `unfound` is computed beside `unseen` and carries it. The shape
 survived in a third place nobody looked, which is the `empty` slot of a `where`.
