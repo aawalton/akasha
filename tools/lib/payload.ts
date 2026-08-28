@@ -1,12 +1,18 @@
-
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { Repo } from "../../page/document/types.ts"
 import { type Repo as Addressable } from "../../page/document/types"
 import { type Roots } from "../../page/page"
-import { AKASHA, ADDRESSABLE_NAMED, isAddressable, locate, resolveRoots } from "../../repo/roots/roots"
+import {
+  AKASHA,
+  ADDRESSABLE_NAMED,
+  isAddressable,
+  locate,
+  resolveRoots,
+} from "../../repo/roots/roots"
 import { fail } from "./command.ts"
-import { decodeUtf8, notUtf8 } from "./utf8-body.ts"
+import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
+import { notUtf8 } from "./utf8-body.ts"
 
 const STANDALONE = [
   "--dry-run",
@@ -201,7 +207,11 @@ export function rejectUnknownFlags(
   }
 }
 
-export function readsPayload(pairs: number, inputFile: string | null, takingAway: boolean): boolean {
+export function readsPayload(
+  pairs: number,
+  inputFile: string | null,
+  takingAway: boolean
+): boolean {
   if (pairs > 0) return false
   return inputFile !== null || !takingAway
 }
@@ -237,7 +247,11 @@ export function record(value: unknown, where: string): Record<string, unknown> {
   return value as Record<string, unknown>
 }
 
-export function requiredString(source: Record<string, unknown>, key: string, where: string): string {
+export function requiredString(
+  source: Record<string, unknown>,
+  key: string,
+  where: string
+): string {
   const value = source[key]
   if (typeof value !== "string") fail(`${where} needs a \`${key}\` string`)
   return value

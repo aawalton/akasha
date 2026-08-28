@@ -14,7 +14,8 @@ import {
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots"
-import { decodeUtf8, notUtf8 } from "../../lib/utf8-body.ts"
+import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
+import { notUtf8 } from "../../lib/utf8-body.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
@@ -115,7 +116,9 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
 
   const relPath = findingPathIn(root, domain, slug)
   if (existsSync(`${root}/${relPath}`)) {
-    throw inputError(`${relPath} already holds a finding — filing never overwrites a claim somebody else made`)
+    throw inputError(
+      `${relPath} already holds a finding — filing never overwrites a claim somebody else made`
+    )
   }
   const body = composeFinding(
     domain,
@@ -128,6 +131,7 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   process.stdout.write(`file:   ${relPath}\n`)
 
   const stated = parsed.string("--message")?.trim()
-  const message = stated === undefined || stated === "" ? defaultMessage(roots, "file", [relPath]) : stated
+  const message =
+    stated === undefined || stated === "" ? defaultMessage(roots, "file", [relPath]) : stated
   land(roots, entries, message, parsed.boolean("--dry-run"))
 }

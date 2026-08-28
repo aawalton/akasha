@@ -1,8 +1,7 @@
-
 import { describe, expect, test } from "bun:test"
 import type { Condition } from "../lib/email-rule.ts"
 import { eachMessage, describe as describeMessage } from "../lib/email-partition.ts"
-import type { Matchable } from "../lib/email-partition.ts"
+import type { Matchable } from "../lib/rules-partition.ts"
 import type { Message } from "../lib/gmail.ts"
 
 const condition = (
@@ -47,7 +46,8 @@ describe("two values one message can hold at once", () => {
     ])
     expect(
       seen.some(
-        (one) => one.message.subject.includes("shipped") && one.message.subject.includes("delivered")
+        (one) =>
+          one.message.subject.includes("shipped") && one.message.subject.includes("delivered")
       )
     ).toBe(true)
     expect(seen.some((one) => one.matched.length === 2)).toBe(true)
@@ -70,7 +70,9 @@ describe("a negated condition", () => {
       condition("from", "is", true, "a@example.com", "b@example.com")
     )
     const seen = walked([residual])
-    const claimed = seen.filter((one) => one.matched.length === 1).map((one) => one.message.fromAddress)
+    const claimed = seen
+      .filter((one) => one.matched.length === 1)
+      .map((one) => one.message.fromAddress)
     expect(claimed).not.toContain("a@example.com")
     expect(claimed).not.toContain("b@example.com")
     expect(claimed.length).toBeGreaterThan(0)
@@ -117,7 +119,11 @@ describe("a walk that would not fit under its ceiling", () => {
   })
 
   test("is not restricted where the whole space fits under it", () => {
-    const reading = eachMessage([rule("one.md", condition("from", "is", false, "a@b.com"))], () => {}, 8)
+    const reading = eachMessage(
+      [rule("one.md", condition("from", "is", false, "a@b.com"))],
+      () => {},
+      8
+    )
     expect(reading.restricted).toBe(false)
     expect(reading.messages).toBe(2)
   })

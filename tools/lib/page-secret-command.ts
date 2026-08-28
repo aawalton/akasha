@@ -9,7 +9,8 @@ import { claimant } from "../../page/page-types.ts"
 import { repoOf } from "./payload.ts"
 import { type Roots } from "../../page/page"
 import { resolveRoots, targetRepo, targetRoot } from "../../repo/roots/roots"
-import { decodeUtf8, notUtf8 } from "./utf8-body.ts"
+import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
+import { notUtf8 } from "./utf8-body.ts"
 
 const STDIN = "-"
 
@@ -33,7 +34,9 @@ function secretsOn(relPath: string, roots: Roots): readonly string[] {
   const claim = claimant(relPath, registryOf(tree))
   const type = claim.type
   if (type === null) {
-    fail(`${relPath} in ${repo} — ${claim.why}, so nothing declares which of its properties are secret`)
+    fail(
+      `${relPath} in ${repo} — ${claim.why}, so nothing declares which of its properties are secret`
+    )
   }
   const { properties, why } = compiledPageTypeFor(type, tree)
   if (properties === null) fail(`\`${type.slug}\` states no property set this can read: ${why}`)
@@ -48,7 +51,8 @@ export function targetOf(filePath: string): Target {
   const root = targetRoot(roots)
   const relPath = toRelPath(filePath, roots)
   const sidecar = sidecarFor(relPath)
-  if (sidecar === null) fail(`${relPath} is not a \`.md\` page, and a sops file stands beside a page`)
+  if (sidecar === null)
+    fail(`${relPath} is not a \`.md\` page, and a sops file stands beside a page`)
   const at = `${root}/${relPath}`
   if (!existsSync(at) || !statSync(at).isFile()) {
     fail(`${relPath} is not a file here — a secret belongs to a page that stands`)
@@ -71,7 +75,8 @@ export function heldIn(target: Target): Values {
 
 export function refuseUndeclared(key: string, target: Target): void {
   if (target.declared.includes(key)) return
-  const named = target.declared.length === 0 ? "declares none" : `declares ${target.declared.join(", ")}`
+  const named =
+    target.declared.length === 0 ? "declares none" : `declares ${target.declared.join(", ")}`
   fail(`\`${key}\` is no secret of ${target.relPath}'s page type, which ${named}`)
 }
 
@@ -87,7 +92,8 @@ async function textGiven(valueFile: string | undefined): Promise<string> {
 export async function valueGiven(valueFile: string | undefined): Promise<string> {
   const text = await textGiven(valueFile)
   const value = text.endsWith("\n") ? text.slice(0, -1) : text
-  if (value === "") fail("the value arrived empty — a secret's value is taken on stdin or at --value-file")
+  if (value === "")
+    fail("the value arrived empty — a secret's value is taken on stdin or at --value-file")
   if (value.includes("\n")) fail("a secret's value is one line, and what arrived holds a newline")
   return value
 }
@@ -95,7 +101,9 @@ export async function valueGiven(valueFile: string | undefined): Promise<string>
 export async function valuesGiven(valueFile: string | undefined, target: Target): Promise<Values> {
   const text = (await textGiven(valueFile)).trim()
   if (text === "") {
-    fail("the payload arrived empty — --json takes an object of key to value on stdin or at --value-file")
+    fail(
+      "the payload arrived empty — --json takes an object of key to value on stdin or at --value-file"
+    )
   }
   let parsed: unknown
   try {
@@ -111,12 +119,14 @@ export async function valuesGiven(valueFile: string | undefined, target: Target)
   const given = new Map<string, string>()
   for (const [key, value] of Object.entries(parsed as Record<string, unknown>)) {
     refuseUndeclared(key, target)
-    if (typeof value !== "string") fail(`a secret's value is text, and \`${key}\` carries something else`)
+    if (typeof value !== "string")
+      fail(`a secret's value is text, and \`${key}\` carries something else`)
     if (value === "") fail(`\`${key}\` arrived empty`)
     if (value.includes("\n")) fail(`a secret's value is one line, and \`${key}\` holds a newline`)
     given.set(key, value)
   }
-  if (given.size === 0) fail("--json takes at least one key, and the object that arrived holds none")
+  if (given.size === 0)
+    fail("--json takes at least one key, and the object that arrived holds none")
   return given
 }
 
@@ -130,7 +140,8 @@ export function landing(target: Target, next: Values, landed: Landed): void {
   const composed = cipherFor(target.root, target.sidecar, next)
   if (composed.text === null) fail(composed.why)
   const back = valuesIn(target.root, target.sidecar, composed.text)
-  if (back.values === null) fail(`what was composed for ${target.sidecar} does not read back: ${back.why}`)
+  if (back.values === null)
+    fail(`what was composed for ${target.sidecar} does not read back: ${back.why}`)
   const unread = [...next.keys()].filter((key) => back.values.get(key) !== next.get(key))
   if (unread.length > 0 || back.values.size !== next.size) {
     fail(

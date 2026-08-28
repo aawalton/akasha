@@ -6,12 +6,9 @@ import type { Condition } from "./email-rule.ts"
 import { rulesOf } from "./email-rules.ts"
 import type { Rule } from "./email-rules.ts"
 import type { Message } from "./gmail.ts"
-import { fromDisk, refusalText } from "./refusal.ts"
+import { refusalText } from "../../refusal/refusal.ts"
 import type { RuleSubject, Group, Meeting, Printers, Unreadable } from "./rules-subject.ts"
 import { CEILING, eachCase, matches, type Case, type Matchable } from "./rules-partition.ts"
-
-export { CEILING }
-export type { Matchable }
 
 export const MESSAGES = "distinguishable message(s)"
 
@@ -103,8 +100,7 @@ const refusals: Printers = {
     refusalText(
       "email-rule-match-unreadable",
       { rule: one.relPath, count: String(one.stray) },
-      root,
-      fromDisk
+      root
     ),
   overlap: (meeting: Meeting, root: string): string =>
     refusalText(
@@ -115,17 +111,15 @@ const refusals: Printers = {
         count: String(meeting.count),
         message: meeting.at,
       },
-      root,
-      fromDisk
+      root
     ),
   unclaimed: (at: string, group: Group, root: string): string =>
-    refusalText("email-message-unclaimed", { folder: group.label, message: at }, root, fromDisk),
+    refusalText("email-message-unclaimed", { folder: group.label, message: at }, root),
   unbounded: (group: Group, ceiling: number, root: string): string =>
     refusalText(
       "email-message-space-unbounded",
       { folder: group.label, ceiling: String(ceiling) },
-      root,
-      fromDisk
+      root
     ),
 }
 
