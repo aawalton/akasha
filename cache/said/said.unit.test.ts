@@ -1,16 +1,15 @@
 import { describe, expect, test } from "bun:test"
-import { marksHere } from "./said.ts"
+import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { marksHere, saidUnder } from "./said.ts"
 import { closureOf } from "../closure/closure.ts"
-import { KEEPS_NOTHING, type SaidName } from "../../graph/build-context/build-context.ts"
-import { FRONTMATTER_SAID } from "../../graph/frontmatter-at/frontmatter-at.ts"
-import { IMPORT_SAID } from "../../graph/edge-producer/import/import.graph-edge-producer.code.attachment.ts"
-import { LINKS_SAID } from "../../graph/edge-producer/relation/relation.graph-edge-producer.code.attachment.ts"
+import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
+import { HELD_ANSWERS } from "../../graph/ask.ts"
 import { AKASHA, rootsHere } from "../../repo/roots/roots.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
 
 const ENGINE = "graph/ask.ts"
 
-const HELD: readonly SaidName[] = [FRONTMATTER_SAID, IMPORT_SAID, LINKS_SAID]
+const HELD = HELD_ANSWERS
 
 const root = rootsHere()[AKASHA] ?? ""
 
@@ -40,5 +39,47 @@ describe("a held answer is marked by the code that works it out", () => {
       return HELD.every((two) => two.name === one.name || !held.has(two.entry))
     })
     expect(new Set(apart.map((one) => markFor(one.entry))).size).toBe(apart.length)
+  })
+})
+
+const SCRATCH = "/var/tmp"
+
+function within(run: (at: string) => void): void {
+  const at = mkdtempSync(`${SCRATCH}/said-`)
+  try {
+    for (const name of [HELD[0]?.name ?? "held", "gone"]) {
+      mkdirSync(`${at}/said/${name}/mark`, { recursive: true })
+      writeFileSync(`${at}/said/${name}/mark/one.json`, '{"said":null}')
+    }
+    run(at)
+  } finally {
+    rmSync(at, { recursive: true, force: true })
+  }
+}
+
+/**
+ * What becomes of answers filed under a name the graph has stopped holding.
+ *
+ * `sweep` REACHES THE MARKS UNDER ONE NAME AND NOTHING REACHED A NAME ITSELF, so renaming an
+ * answer kind left every answer under the old name on disk with nothing that would remove it.
+ */
+describe("a name the graph no longer holds does not keep its answers", () => {
+  test("the graph holds at least one answer kind, or nothing below says anything", () => {
+    expect(HELD.length).toBeGreaterThan(0)
+  })
+
+  test("a run removes a name the graph does not hold and keeps one it does", () => {
+    within((at) => {
+      saidUnder(at, {}, () => "mark", new Map(), HELD).done()
+      expect(existsSync(`${at}/said/gone`)).toBe(false)
+      expect(existsSync(`${at}/said/${HELD[0]?.name ?? "held"}/mark/one.json`)).toBe(true)
+    })
+  })
+
+  test("a run that can name nothing live removes nothing, knowing no names not meaning none are", () => {
+    within((at) => {
+      saidUnder(at, {}, () => "mark", new Map(), []).done()
+      expect(existsSync(`${at}/said/gone`)).toBe(true)
+    })
   })
 })

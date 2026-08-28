@@ -1,11 +1,12 @@
 import containsEdgeProducer from "./edge-producer/contains/contains.graph-edge-producer.code.attachment.ts"
-import relationEdgeProducer from "./edge-producer/relation/relation.graph-edge-producer.code.attachment.ts"
+import relationEdgeProducer, { LINKS_SAID } from "./edge-producer/relation/relation.graph-edge-producer.code.attachment.ts"
 import loaderEdgeProducer from "./edge-producer/loader/loader.graph-edge-producer.code.attachment.ts"
-import importEdgeProducer from "./edge-producer/import/import.graph-edge-producer.code.attachment.ts"
+import importEdgeProducer, { IMPORT_SAID } from "./edge-producer/import/import.graph-edge-producer.code.attachment.ts"
 import type { EdgeAttrs, EdgeInit, EdgeProducer, GraphNode } from "./edge-producer/edge-shape.ts"
 import fileNodeProducer, { type FileNode } from "./node-producer/file/file.graph-node-producer.code.attachment.ts"
 import folderNodeProducer, { type FolderNode } from "./node-producer/folder/folder.graph-node-producer.code.attachment.ts"
-import type { BuildContext } from "./build-context/build-context.ts"
+import type { BuildContext, SaidName } from "./build-context/build-context.ts"
+import { FRONTMATTER_SAID } from "./frontmatter-at/frontmatter-at.ts"
 import type { NodeRef } from "./node-producer/node-shape.ts"
 
 export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
@@ -14,6 +15,14 @@ export const EDGE_PRODUCERS: readonly EdgeProducer[] = [
   loaderEdgeProducer,
   containsEdgeProducer,
 ]
+/**
+ * Every kind of answer the graph holds.
+ *
+ * A NAME MISSING FROM HERE IS TAKEN FOR ABANDONED and its answers are removed, so an answer kind
+ * that stops being listed loses what it had rather than keeping it under a name nothing sweeps.
+ */
+export const HELD_ANSWERS: readonly SaidName[] = [FRONTMATTER_SAID, IMPORT_SAID, LINKS_SAID]
+
 export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {
   return fileNodeProducer.at(ctx, ref)
 }

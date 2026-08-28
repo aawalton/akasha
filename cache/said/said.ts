@@ -2,8 +2,9 @@ import type { BuildContext, Said, SaidName } from "../../graph/build-context/bui
 import type { Roots } from "../../page/page.ts"
 import { KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
-import { type Key, answerAt, answersAt, answersUnder, cacheAnswer, sweep } from "../cache.ts"
+import { type Key, answerAt, answersAt, answersUnder, cacheAnswer, forget, sweep } from "../cache.ts"
 import { closureOf } from "../closure/closure.ts"
+import { HELD_ANSWERS } from "../../graph/ask.ts"
 import { markOf } from "../mark/mark.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
 
@@ -28,7 +29,8 @@ export function saidUnder(
   at: string,
   roots: Roots,
   markFor: MarkFor,
-  known: ReadonlyMap<string, ReadonlyMap<string, string>>
+  known: ReadonlyMap<string, ReadonlyMap<string, string>>,
+  live: readonly SaidName[]
 ): Said {
   const oids = new Map<string, ReadonlyMap<string, string>>(known)
   // Each name against the mark its answers were filed under, so `done` sweeps every name by its
@@ -64,8 +66,11 @@ export function saidUnder(
       }
       return out
     },
+    // A name this run never asked under is still live, so the sweep is by the names the graph
+    // holds rather than by the ones this run happened to use.
     done: () => {
       for (const [name, mark] of marked) sweep(at, SAID_KIND, name, mark)
+      forget(at, SAID_KIND, live.map((one) => one.name))
     },
   }
 }
@@ -109,5 +114,6 @@ export function contextOver(
 ): BuildContext {
   const roots = { [AKASHA]: root }
   const known = new Map([[AKASHA, oids]])
-  return { roots, said: saidUnder(answersAt(root), roots, marksHere(root, runtime, oids), known) }
+  const markFor = marksHere(root, runtime, oids)
+  return { roots, said: saidUnder(answersAt(root), roots, markFor, known, HELD_ANSWERS) }
 }
