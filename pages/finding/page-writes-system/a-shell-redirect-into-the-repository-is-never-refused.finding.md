@@ -25,12 +25,12 @@ No refusal, no gate, no record. The file was removed in the same command and `gi
 
 A guard of exactly this shape exists elsewhere in the toolset and works. `ops read` piped refuses with "this is printing to a pipe, so no body would reach you and a record would have said one had", and it caught the seat that wrote this page four times in one night, every time, without the seat remembering the rule once. `ops write` reports its gate on every call — "gate: 9 akasha check(s) over 1 changed file(s), none refused". Both are cheap and both are unmissable.
 
-Four agents surfaced their own breaches of this rule over 2026-08-27 into 2026-08-28. **Every one of the four was a voluntary disclosure, and not one was produced by a refusal.** One was a redirect to a path under `/var/home/walton/repos/`, noticed by its author only because the command's output came back and the file was sitting there. Its own reading is the reason this page exists: four agents surfacing the same breach in one night reads less like four careful agents than like one gap in the same place.
+Five agents surfaced their own breaches of this rule over 2026-08-27 into 2026-08-28. **Every one of the five was a voluntary disclosure, and not one was produced by a refusal.** One was a redirect to a path under `/var/home/walton/repos/`, noticed by its author only because the command's output came back and the file was sitting there. Its own reading is the reason this page exists: five agents surfacing the same breach in one night reads less like five careful agents than like one gap in the same place. The fifth, seat astra on 2026-08-28, wrote a scratch script under `/var/tmp` with a heredoc redirect while measuring the read ceiling, noticed it unprompted, and re-landed the same content through `ops write`. Nothing refused that one either.
 
 Not measured: whether any hook catches some redirects and missed this one. Not measured: whether the same hole covers `tee`, `sed -i`, `cp`, `mv` and editors, which are writes by the same rule. Not measured: what enforcement would cost, or whether it can be done without refusing legitimate writes to paths outside every repository.
 
 # Bearing
 
-The asymmetry is the whole of it. Where a guard exists the rule is kept by people who have forgotten it. Where none exists the rule is kept by memory, and four disclosures in one night is what that yields from agents who were trying.
+The asymmetry is the whole of it. Where a guard exists the rule is kept by people who have forgotten it. Where none exists the rule is kept by memory, and five disclosures in one night is what that yields from agents who were trying.
 
-Four is a count of disclosures, not of breaches. A breach nobody noticed leaves no record, so the number below the four is not zero and is not knowable from here.
+Five is a count of disclosures, not of breaches. A breach nobody noticed leaves no record, so the number below the five is not zero and is not knowable from here.
