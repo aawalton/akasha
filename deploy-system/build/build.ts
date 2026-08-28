@@ -215,7 +215,7 @@ export function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]
     const one = exec(
       target,
       pod,
-      `trap "rm -f ${REPO_PATH}/.git/index.lock" EXIT INT TERM; cd ${REPO_PATH} && git fetch origin ${sha} && git reset --hard ${sha}`
+      `trap "rm -f ${REPO_PATH}/.git/index.lock" EXIT INT TERM; cd ${REPO_PATH} && git fetch origin main && git reset --hard ${sha}`
     )
     ran.push(one)
     if (one.code === 0) return 0
