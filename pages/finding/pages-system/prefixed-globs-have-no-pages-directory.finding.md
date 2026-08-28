@@ -8,7 +8,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-`relPathFor` composes a write destination as `pages/<slug>/<name>.<slug>.md` whenever `suffixOf` recognises the page type's glob, and that prefix is written into the code rather than read from the glob. `suffixOf` recognises a glob only where it begins `**/`. So the two page types that state a prefixed glob fall to the other branch instead, and widening the pattern to recognise them — the obvious repair for the read-path disagreement `slug-derivations-disagree` names — would route every seat and subagent write into a directory that does not exist.
+`relPathFor` composes `pages/<slug>/<name>.<slug>.md` whenever `suffixOf` recognises a glob, and that prefix is written into the code rather than read from the glob. `suffixOf` recognises a glob only where it begins `**/`, so the two page types stating a prefixed glob take the other branch, which composes `agent/seat/<name>.md` — a name carrying no page type, and so not a page at all. The branch they take now is already wrong, not only the widened one.
 
 # Evidence
 
