@@ -1,8 +1,25 @@
 import { onceInCall } from "../../../during-call/during-call.ts"
 import { matchesGlob } from "../../glob/glob.ts"
+import { REPOS } from "../../../repo/roots/roots.ts"
 import { builtFrom, indexReaches, loadPages } from "../store/store.ts"
 
 const SUFFIXED = /\*\.[a-z0-9-]+\.md$/
+
+/**
+ * The repository whose index describes this root and could have answered these globs, for a caller
+ * that named none.
+ *
+ * THIS CATCHES AN UNNAMED REPOSITORY RATHER THAN ANSWERING THE SCAN. A caller naming no repository
+ * gets the disk walked, and where the index describes that same root the walk and the index can
+ * disagree, so `scanIn` asks this and refuses rather than handing back the walk. The suffix rule
+ * stands here beside the one `scannedFromIndex` applies, so there is one answer to which globs the
+ * index can speak for.
+ */
+export function indexWouldAnswer(root: string, patterns: readonly string[]): string | null {
+  if (patterns.length === 0) return null
+  if (!patterns.every((one) => SUFFIXED.test(one))) return null
+  return REPOS.find((one) => indexReaches(one, root)) ?? null
+}
 
 /**
  * The paths in the index matching these globs, worked out once for the length of a call.

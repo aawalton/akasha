@@ -1,4 +1,5 @@
 import { scanIn } from "../../page/page-types.ts"
+import { AKASHA } from "../../repo/roots/roots.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 import { onceInCall } from "../../during-call/during-call.ts"
@@ -11,7 +12,7 @@ export type Judged = "text" | "writer"
 
 function judgementsIn(root: string): ReadonlyMap<string, Judged> {
   const found = new Map<string, Judged>()
-  for (const relPath of scanIn(root, [GATE_PAGE_GLOB])) {
+  for (const relPath of scanIn(root, [GATE_PAGE_GLOB], AKASHA)) {
     const text = textAt(root, relPath)
     if (text === null) continue
     const { fm, why } = blockOf(text)

@@ -5,7 +5,7 @@ import { notIgnored } from "../repo/ignored/ignored.ts"
 import { REPOS } from "../repo/roots/roots.ts"
 import { MARKDOWN, pageFileIn } from "./page-file.ts"
 import { stemOf } from "./name/name.ts"
-import { scannedFromIndex } from "./index/scan/scan.ts"
+import { indexWouldAnswer, scannedFromIndex } from "./index/scan/scan.ts"
 import type { Roots } from "./page.ts"
 import { blockOf, NONE, stringAt } from "./text/text.ts"
 import { pageTypeOf } from "../pages-system/page-type/page-type.ts"
@@ -83,13 +83,36 @@ export interface PageType {
   readonly namedFor: string | null
 }
 
+/**
+ * The paths under this root matching these globs: off the index where a repository is named, and
+ * off the disk where none is.
+ *
+ * WHICH REPOSITORY THIS ROOT IS HAS TO BE STATED, because that is what decides which of the two is
+ * read. It defaulted to `null`, which reads as an argument nobody needed and means an index nobody
+ * read: four callers omitted it and walked the disk with nothing anywhere saying so. Where a caller
+ * genuinely cannot name the repository, `null` now says that in the open.
+ *
+ * A ROOT THE INDEX DESCRIBES IS NEVER WALKED BEHIND AN UNNAMED REPOSITORY. Requiring the argument
+ * catches this where the types are checked, and `tsc` does not reach `tools/`, where most of these
+ * callers stand — so the refusal stands at the moment the walk would have quietly stood in for the
+ * index, rather than only in a build that never sees it.
+ */
 export function scanIn(
   root: string,
   patterns: readonly string[],
-  repo: string | null = null
+  repo: string | null
 ): readonly string[] {
   const indexed = scannedFromIndex(root, patterns, repo)
   if (indexed !== null) return indexed
+  const unnamed = repo === null ? indexWouldAnswer(root, patterns) : null
+  if (unnamed !== null) {
+    throw new Error(
+      `a scan of ${patterns.join(", ")} named no repository, and the page index describes this root ` +
+        `as \`${unnamed}\`. Walking the disk instead answers from a second source that can disagree ` +
+        `with the index, and nothing downstream would say which of the two it was handed. Name the ` +
+        `repository this root is.`
+    )
+  }
   const suffixes = new Set<string>()
   const walked: string[] = []
   for (const pattern of patterns) {

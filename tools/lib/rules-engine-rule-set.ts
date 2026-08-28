@@ -15,7 +15,7 @@ export const RULE_SET_AT = `${placeDirOf("rules-engine-rule-set")}/`
 function ruleSetAt(roots: Roots, ruleSet: string): string {
   const at = `${RULE_SET_AT}${ruleSet}.md`
   if (existsSync(`${rootFor(roots, AKASHA)}/${at}`)) return at
-  const named = scanIn(rootFor(roots, AKASHA), [`${RULE_SET_AT}**/*.md`]).find(
+  const named = scanIn(rootFor(roots, AKASHA), [`${RULE_SET_AT}**/*.md`], AKASHA).find(
     (one) => slugOf(one) === ruleSet
   )
   if (named !== undefined) return named
@@ -79,7 +79,7 @@ function valuesFor(stated: Read, roots: Roots, types: readonly PageType[]): read
 
 function definitionsOn(appliesTo: string, roots: Roots): readonly Read[] {
   const found: { readonly key: string; readonly stated: Read }[] = []
-  for (const relPath of scanIn(rootFor(roots, AKASHA), PROPERTY_GLOBS)) {
+  for (const relPath of scanIn(rootFor(roots, AKASHA), PROPERTY_GLOBS, AKASHA)) {
     const stated = readAt(rootFor(roots, AKASHA), relPath)
     const held = stated.one("defined-on-slug")
     if (held === null || slugNamed(held) !== appliesTo) continue

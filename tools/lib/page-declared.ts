@@ -103,7 +103,7 @@ export function declaringRoot(roots: Roots): string {
  * about.
  */
 function pageTypePathsIn(root: string): readonly string[] {
-  if (!indexReaches(AKASHA, root)) return scanIn(root, PAGE_TYPE_GLOBS)
+  if (!indexReaches(AKASHA, root)) return scanIn(root, PAGE_TYPE_GLOBS, AKASHA)
   const found = new Set<string>()
   for (const one of loadPages()) {
     if (one.repo === AKASHA && PAGE_TYPE_KINDS.has(one.type)) found.add(one.key)
@@ -183,7 +183,7 @@ export function declarationsIn(roots: Roots): Declarations {
   return onceInCall(`page-property-declarations:${rootsKey(roots)}`, () => {
     const byKind = new Map<string, Map<string, Declared>>()
     const bySlug = new Map<string, Declared>()
-    for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS)) {
+    for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS, AKASHA)) {
       const text = textAt(declaringRoot(roots), relPath)
       if (text === null) continue
       const { fm, why } = blockOf(text)
