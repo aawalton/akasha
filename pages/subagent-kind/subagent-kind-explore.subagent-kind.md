@@ -6,7 +6,6 @@ slug: subagent-kind-explore
 domain-parent-slug: page-type/subagent-kind
 subagent-type: Explore
 model: opus
-probe: anything
 ---
 
 # Definition
