@@ -19,6 +19,7 @@ sequence-slugs:
   - domain/products
 expands: true
 required-reading-slugs:
+  - domain/akasha-system
   - page-type/domain
   - domain/file-structure
   - command/read
