@@ -112,6 +112,13 @@ test("the file looked for carries the extension the page states", () => {
   expect(said[0]?.reason).toContain("akasha/write-system/corpus.module.code.md")
 })
 
+test("a page the tree does not carry is not judged", () => {
+  const root = corpusOf({ [AT]: page(`code: "ts"`) })
+  const tree = treeOver(root)
+  const held = { ...tree, paths: () => tree.paths().filter((one) => one !== resolve(root, AT)) }
+  expect(pagePropertyHasItsFile.run({ root, paths: [], tree: held, keep: () => root })).toEqual([])
+})
+
 test("every page carrying a property of kind file is judged", () => {
   const other = "akasha/write-system/landing.module.ts"
   const said = verdict({

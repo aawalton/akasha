@@ -72,6 +72,7 @@ export const pagePropertyHasItsFile = {
       const raw = corpus.valueOf(page.path)
       if (raw === null) continue
       const at = resolve(under, relative(from, page.path))
+      if (!stood.has(at)) continue
       for (const held of wanted) {
         const stated = raw[held.key]
         if (typeof stated !== "string" || stated === "") continue
