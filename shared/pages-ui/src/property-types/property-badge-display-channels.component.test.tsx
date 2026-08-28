@@ -2,7 +2,7 @@ import { afterEach, describe, expect, it, mock } from "bun:test"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import { PropertyBadge } from "./property-badge"
+import { PropertyBadge } from "./property-badge.tsx"
 
 afterEach(() => {
   cleanup()
@@ -91,7 +91,7 @@ describe("PropertyBadge dispatcher — badge display channels (#14140)", () => {
       title: "N",
       type: "number",
       config: { badgeVariant: "green" },
-      colorRules: [{ when: "value > 10", variant: "red" }],
+      colorRules: [{ when: "{value} > 10", variant: "red" }],
     }
     render(<PropertyBadge property={def} value={20} context="card" pageData={{ n: 20 }} />)
     const badgeRoot = screen.getByText("20").closest<HTMLElement>("[data-slot=badge]")
@@ -105,7 +105,7 @@ describe("PropertyBadge dispatcher — badge display channels (#14140)", () => {
       title: "N",
       type: "number",
       config: { badgeVariant: "green" },
-      colorRules: [{ when: "value > 10", variant: "red" }],
+      colorRules: [{ when: "{value} > 10", variant: "red" }],
     }
     render(<PropertyBadge property={def} value={5} context="card" pageData={{ n: 5 }} />)
     const badgeRoot = screen.getByText("5").closest<HTMLElement>("[data-slot=badge]")

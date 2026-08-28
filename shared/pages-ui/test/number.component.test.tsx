@@ -2,9 +2,9 @@ import { afterEach, describe, expect, it, mock } from "bun:test"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
 import type { PropertyDefinition } from "@shared/pages-core/types"
-import { NumberPropertyBadge } from "../src/property-types/number"
-import type { PropertyValue } from "../src/property-types/types"
-import { asInput } from "./dom-helpers"
+import { NumberPropertyBadge } from "../src/property-types/number.tsx"
+import type { PropertyValue } from "../src/property-types/types.ts"
+import { asInput } from "./dom-helpers.ts"
 
 afterEach(() => {
   cleanup()
@@ -181,8 +181,8 @@ describe("NumberPropertyBadge — colorRules", () => {
   const withRules: PropertyDefinition = {
     ...definition,
     colorRules: [
-      { when: "value >= 10000", variant: "green" },
-      { when: "value > 0", variant: "yellow" },
+      { when: "{value} >= 10000", variant: "green" },
+      { when: "{value} > 0", variant: "yellow" },
       { when: "true", variant: "red" },
     ],
   }

@@ -109,8 +109,8 @@ export const IDLE_CARD_PROPS: readonly PropSpec[] = [
     type: "select",
     options: ["Unlocked", "Locked"],
     colorRules: [
-      { when: `value == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
-      { when: `value == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
+      { when: `{value} == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
+      { when: `{value} == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
     ],
   },
   { stringId: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train },
@@ -188,8 +188,8 @@ export const IDLE_CARD_PROPERTY_DEFINITIONS: readonly PropertyDefinition[] = [
       ],
     },
     colorRules: [
-      { when: `value == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
-      { when: `value == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
+      { when: `{value} == "${IDLE_LOCK_STATE_UNLOCKED}"`, variant: "green" },
+      { when: `{value} == "${IDLE_LOCK_STATE_LOCKED}"`, variant: "default" },
     ],
   },
   { id: IDLE_TRAIN_VERB_ID, ...IDLE_ACTION_BUTTON_BASES.train },

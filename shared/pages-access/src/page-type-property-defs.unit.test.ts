@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { asPropertyDefinitionList } from "./page-type-config"
+import { asPropertyDefinitionList } from "./page-type-config.ts"
 
 describe("asPropertyDefinitionList — read-boundary validation", () => {
   it("returns the list unchanged when every definition parses cleanly", () => {
@@ -9,7 +9,7 @@ describe("asPropertyDefinitionList — read-boundary validation", () => {
         title: "Status",
         type: "select",
         config: { options: [{ id: "open", label: "Open" }] },
-        colorRules: [{ when: 'value == "open"', variant: "green" }],
+        colorRules: [{ when: '{value} == "open"', variant: "green" }],
       },
     ]
     const out = asPropertyDefinitionList(defs)
@@ -24,7 +24,7 @@ describe("asPropertyDefinitionList — read-boundary validation", () => {
         title: "Status",
         type: "select",
         config: { options: [{ id: "resolved", label: "Resolved" }] },
-        colorRules: [{ when: 'value == "resolved"', variant: "muted" }],
+        colorRules: [{ when: '{value} == "resolved"', variant: "muted" }],
       },
     ]
     expect(() => asPropertyDefinitionList(defs)).toThrow(/p-bad/)

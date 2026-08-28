@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import type { PropertyDefinition } from "../types"
-import { resolveComputedProperty } from "./resolve-computed-type"
-import type { PageTypePropertiesMap } from "./rollup"
+import type { PropertyDefinition } from "../types.ts"
+import { resolveComputedProperty } from "./resolve-computed-type.ts"
+import type { PageTypePropertiesMap } from "./rollup.ts"
 
 const emptyTypes: PageTypePropertiesMap = new Map()
 
@@ -103,8 +103,8 @@ describe("resolveComputedProperty — preserves id and name", () => {
 
 describe("resolveComputedProperty — preserves colorRules onto the resolved type", () => {
   const colorRules = [
-    { when: "value == 3", variant: "green" },
-    { when: "value == 1", variant: "red" },
+    { when: "{value} == 3", variant: "green" },
+    { when: "{value} == 1", variant: "red" },
   ] as const
 
   test("formula resolved to number carries colorRules through", () => {

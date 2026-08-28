@@ -1,40 +1,88 @@
-import { evaluateFormula } from "./formula/evaluate"
-import { parseExpression } from "./formula/parser"
-import type { PropertyValue } from "./property-types/types"
-import type { BadgeVariant, ColorRule, ColorRuleVariant } from "./schema/color-rule"
-import type { PageDataJSON, PropertyDefinition } from "./types"
-import type { ReadonlyJSONValue } from "./schema/pages"
-
-export type { BadgeVariant, ColorRule }
+import {
+  checkFormula,
+  runFormula,
+  type DeclaredType,
+  type Shape,
+  type Value,
+} from "../../../pages-system/formula/formula.ts"
+import type { PropertyValue } from "./property-types/types.ts"
+import type { BadgeVariant, ColorRuleVariant } from "./schema/color-rule.ts"
+import type { PageDataJSON, PropertyDefinition, PropertyType } from "./types.ts"
 
 export function colorRuleVariantToBadgeVariant(variant: ColorRuleVariant): BadgeVariant {
   return variant === "default" ? "elevation-muted" : variant
 }
 
+const VALUE_TYPE: Partial<Record<PropertyType, DeclaredType>> = {
+  text: { kind: "text" },
+  markdown: { kind: "text" },
+  url: { kind: "text" },
+  select: { kind: "text" },
+  "path-select": { kind: "text" },
+  "multi-select": { kind: "text" },
+  "calendar-time": { kind: "text" },
+  number: { kind: "number" },
+  progress: { kind: "number" },
+  boolean: { kind: "boolean" },
+  "calendar-date": { kind: "date" },
+  instant: { kind: "instant" },
+}
+
+export function shapeOfColorRule(definition: PropertyDefinition): Shape | null {
+  const declared = VALUE_TYPE[definition.type]
+  return declared === undefined ? null : { value: declared }
+}
+
+function valueFor(declared: DeclaredType, held: PropertyValue): Value {
+  if (declared.kind === "text") {
+    return typeof held === "string" ? { kind: "text", text: held } : { kind: "absent" }
+  }
+  if (declared.kind === "number") {
+    return typeof held === "number" && Number.isFinite(held)
+      ? { kind: "number", number: held }
+      : { kind: "absent" }
+  }
+  if (declared.kind === "boolean") {
+    return typeof held === "boolean" ? { kind: "boolean", boolean: held } : { kind: "absent" }
+  }
+  if (declared.kind === "date") {
+    return typeof held === "string" ? { kind: "date", date: held } : { kind: "absent" }
+  }
+  if (declared.kind === "instant") {
+    return typeof held === "number" && Number.isFinite(held)
+      ? { kind: "instant", instant: held }
+      : { kind: "absent" }
+  }
+  return { kind: "absent" }
+}
+
 export function resolveBadgeVariant(
   definition: PropertyDefinition,
-  pageData: PageDataJSON,
+  _pageData: PageDataJSON,
   value: PropertyValue
 ): BadgeVariant | null {
   const rules = definition.colorRules
   if (!rules || rules.length === 0) return null
 
-  const pageRecord: PageDataJSON = pageData
-  const bindings: Record<string, ReadonlyJSONValue | undefined> = {
-    ...pageRecord,
-    source: pageRecord,
-    value,
+  const shape = shapeOfColorRule(definition)
+  const declared = VALUE_TYPE[definition.type]
+  if (shape === null || declared === undefined) {
+    throw new Error(
+      `a color rule stands on \`${definition.id}\`, whose type \`${definition.type}\` has no value a formula can name`
+    )
   }
 
+  const values = { now: Date.now(), properties: { value: valueFor(declared, value) } }
+
   for (const rule of rules) {
-    let result: ReadonlyJSONValue
-    try {
-      const ast = parseExpression(rule.when)
-      result = evaluateFormula(ast, bindings)
-    } catch {
-      continue
+    const checked = checkFormula(rule.when, shape)
+    if (!checked.ok) {
+      throw new Error(
+        `the color rule \`${rule.when}\` on \`${definition.id}\` is refused: ${checked.message}`
+      )
     }
-    if (result != null && result !== false && result !== 0 && result !== "") {
+    const answered = runFormula(checked, values)
+    if (answered.kind === "boolean" && answered.boolean) {
       return colorRuleVariantToBadgeVariant(rule.variant)
     }
   }
