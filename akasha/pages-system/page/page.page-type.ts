@@ -10,7 +10,7 @@ export type Page = {
 export const page = {
   id: "01a049b9-856c-7090-bd14-5a916f574259",
   slug: "page",
-  definition: "what is recorded about one thing of a specific type",
+  definition: "all that is kept about one thing",
   extendsSlug: null,
   partSlugs: [
     "akasha-page-edge",
