@@ -19,7 +19,7 @@ mortal: true
 
 A finding informs a decision rather than demanding one.
 
-A finding is keyed only by domain and file stem.
+A finding is keyed only by its file stem.
 
 A finding whose claim is no longer true is done.
 

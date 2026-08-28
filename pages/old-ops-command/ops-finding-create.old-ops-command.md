@@ -18,10 +18,13 @@ irreversible: false
 # Help
 
 Compose a finding's frontmatter, its `# Claim` and its `# Evidence` around prose you wrote,
-land it under the domain it bears on, and commit and push exactly that. The domain is stated
-ONCE: the key and the folder are both derived from it, so the two cannot disagree — which is
-the state `tools/audits/findings-sorted.ts` exists to report and which nothing at the command
-could see before.
+land it in the findings directory, and commit and push exactly that. The domain is stated ONCE
+and lands as the `domain-slug:` key. Nothing in the path records it, so a path and a key have
+no way to come apart.
+
+THE FINDINGS DIRECTORY IS FLAT. A finding's slug names its file directly and nothing sits
+between them, so a slug another finding already holds is refused whatever domain that other
+one bears on.
 
 NO FLAG NAMES THE REPOSITORY, and none is needed. `pages/page-type/finding.page-type.md` declares which
 repository holds a finding and where under it, and this reads that declaration rather than

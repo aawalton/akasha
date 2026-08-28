@@ -24,7 +24,6 @@ import { positionalsCoverIdentifiers } from "./audits/positionals-cover-identifi
 import { propertyTypesBind } from "./audits/property-types-bind.ts"
 import { refusalsBound } from "./audits/refusals-bound.ts"
 import { resumeNotices } from "./audits/resume-notices.ts"
-import { findingsSorted } from "./audits/findings-sorted.ts"
 import { statuslineConstants } from "./audits/statusline-constants.ts"
 import { suiteRuns } from "./audits/suite-runs.ts"
 import { testsBounded } from "./audits/tests-bounded.ts"
@@ -34,10 +33,10 @@ import { commandsDeclareSummary } from "./audits/commands-declare-summary.ts"
 import type { Repo } from "../page/document/types.ts"
 import { CHECKS_CEILING_MS, CHECK_BAND, type RepoView, type Levy, listDocuments } from "./lib/check.ts"
 import { refusalText } from "../refusal/refusal.ts"
-import { anyRefused, over, type Outcome, render, skip } from "../outcome/outcome"
+import { anyRefused, over, type Outcome, render, skip } from "../outcome/outcome.ts"
 import { CEILING_MS, type Band, seconds, cpuMs } from "./lib/run-cost.ts"
 import { headSha, writeGreen } from "./lib/test-selection.ts"
-import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 
 export const CHECKS: Readonly<Record<string, Levy>> = {
   "bash-env-inside": { repos: ["akasha"], run: bashEnvInside },
@@ -51,7 +50,6 @@ export const CHECKS: Readonly<Record<string, Levy>> = {
   "editor-extension-single": { repos: ["akasha"], run: editorExtensionSingle },
   "email-rules-cover": { repos: ["akasha"], run: emailRulesCover },
   "email-rules-disjoint": { repos: ["akasha"], run: emailRulesDisjoint },
-  "findings-sorted": { repos: ["akasha"], run: findingsSorted },
   "hooks-agree": { repos: ["akasha"], run: hooksAgree },
   "hooks-delivered": { repos: ["akasha"], run: hooksDelivered },
   "hooks-uncopied": { repos: ["akasha"], run: hooksUncopied },

@@ -62,6 +62,5 @@ Filed as `pages-system/the-new-default-name-formula-is-wired-to-nothing`.
 - Eleven sites read `pageNameOf().type` as a page-type answer, one of them feeding the page index's `type` column, so the index's answer is that function's answer with a cache in front.
 - Filed as `temper/temper-player-holds-a-stray-uuid-in-title-and-owns-by-it`.
 - Filed as `pages-system/ops-food-log-names-its-own-pages`.
-- `finding` cannot take a flat name while `tools/audits/findings-sorted.ts` refuses a name of one segment, which would refuse all 3,456 findings.
 - `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart.
 - `page-property-computed`'s Design line says the formula language has no way to match a whole word. That fails of the language replacing it, which carries `hasWord`. The line goes when the cutover lands.
