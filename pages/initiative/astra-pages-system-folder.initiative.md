@@ -28,9 +28,6 @@ parent-slug: astra-pages-system
 
 **The stand-down was correct while it lasted.** Its own message: every check judges the tree as it should end up, and no subset of a repository's packages can move, because the ones staying are reached by relative path from the ones going — so the tree is broken from the first act until the last, and a gate refusing the first refuses all of them. It also says "this commit is the whole switch and reverting it is the whole restoration", and carves `folder-shape` out by name as the experimental check staying out of scope.
 
-Filed as `checks-system/require-import-extension-refuses-nothing-and-stands-over-ten-thousand-failures`.
-
 **`page-holds-to-its-type` guards the write path again**, and it refuses the whole write rather than the section — so a page landed over its shape while the gate was off cannot be edited at all until it is cut back under. `page-name-unique` is blocked by 878 pages in 309 colliding groups. The question the two remaining raise is not whether they should gate, which is settled, but what has to be true before the switch goes back.
 
-- Filed as `pages-system/royal-road-sync-composes-a-chapter-path-from-a-hardcoded-pages-root`.
 - **What originates off the workstation is `astra-pages-system-service`'s**, opened 2026-08-27 to hold the other half of the same split.

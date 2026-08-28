@@ -47,20 +47,14 @@ parent-slug: astra-pages-system
 
 **A case cites the spec, and the citation is tested.** `cases.unit.test.ts` opens each cited page and fails where the cited line no longer carries the quoted claim. A citation is typed rather than a string, so a claim resting on what a list leaves out names the section and the words that must not appear there, which makes an absence testable.
 
-Filed as `page-property-computed/no-property-reaches-a-file-backed-reader-marked-computed`.
-
 **A page states no name of its own, settled 2026-08-27.** Zero pages carry a bare `name:` key; the name index and the filename hold it as projections of the computed answer. The line is about frontmatter alone.
 
 **The renaming sweep is held on a measurement, 2026-08-27.** Running `nameOf` over 59,000 pages found 476 divergences from the names on disk, not corrections; declaring `{slug}` on `character-build` took that to 305 and its collisions to zero. A sweep is authorised against that number, not before.
-
-Filed as `pages-system/the-new-default-name-formula-is-wired-to-nothing`.
 
 **A file's page type comes from one function, 2026-08-27.**
 
 - `page-name-unique` carries `check-on-patch: false` and `check-on-worktree: false`, so a 495-file write reported zero checks. An unstated key runs, because `check-on-patch` states `default: true` and `checks-system/checks.ts:84` reads `said !== false`.
 - Two functions are named `pageTypeOf`, one naming a file's page type and one building a record.
 - Eleven sites read `pageNameOf().type` as a page-type answer, one of them feeding the page index's `type` column, so the index's answer is that function's answer with a cache in front.
-- Filed as `temper/temper-player-holds-a-stray-uuid-in-title-and-owns-by-it`.
-- Filed as `pages-system/ops-food-log-names-its-own-pages`.
 - `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart.
 - `page-property-computed`'s Design line says the formula language has no way to match a whole word. That fails of the language replacing it, which carries `hasWord`. The line goes when the cutover lands.

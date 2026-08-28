@@ -24,15 +24,15 @@ That is the answer to Dilution, which is the only real objection to siting it wi
 
 **The largest instance so far: 361 refusals in one check.** A fix to read page types off the index rather than globbing reached one reader and not the two beside it, so `pages-hold-properties` reported 429 faults of which 361 were the check unable to reach a declaration and saying the property did not exist — 314 of them for declaring `label` on `readout`, which has always been declared. 429 to 3 at `014a2c82d`.
 
-**The sharpest instances are not functions but types.** `FileTree.roots?: Roots` permits the absence and gives it a meaning: omitting the field compiles, typechecks, passes every gate, and reads as a tree spanning nothing. Filed as `no-value-of-roots-describes-a-tree-over-no-checkout`.
+**The sharpest instances are not functions but types.** `FileTree.roots?: Roots` permits the absence and gives it a meaning: omitting the field compiles, typechecks, passes every gate, and reads as a tree spanning nothing.
 
-**The instruments meant to catch this have it**, in two opposite halves, each surviving a fix to the other: `rootsFor` drops files a project excludes, the root reference list drops whole trees. Filed as `typecheck-drops-620-files-its-own-design-line-says-it-owns` and `the-root-build-is-clean-over-a-third-of-the-tree`.
+**The instruments meant to catch this have it**, in two opposite halves, each surviving a fix to the other: `rootsFor` drops files a project excludes, the root reference list drops whole trees.
 
 **The channel to Alan was the live one**: `feedFor` answered null on a failed query, the caller read null as absence, and `ops ask-alan` reported that no feed names Alan while his feed page sat correct on disk. At least five and a half hours in which no agent could reach him asynchronously. Not established: whether it was failing before the service came down.
 
 **Two questions are open with Alan**: the siting of this rule (`01a047db`), and whether the typecheck gate code or its Design line is wrong (`01a047da`). Proven on 2026-08-28 as far as the feed; whether a feed row reaches his device is not observable from here.
 
-**The rest**, and most of it is now closed — the empty `catch` in `rowAppender`, the `--input-file -` half-act, and both audit populations were repaired on 27-28 August. Still live: `writePage` returns null when it cannot place a page; a fixture checkout without `.git` reads as a workstation holding no seats; a presence check on `git ls-files` exit status passes on a missing file, because it exits 0 when it matches nothing. The mock case is filed as `a-disarmed-mock-dials-the-live-world`.
+**The rest**, and most of it is now closed — the empty `catch` in `rowAppender`, the `--input-file -` half-act, and both audit populations were repaired on 27-28 August. Still live: `writePage` returns null when it cannot place a page; a fixture checkout without `.git` reads as a workstation holding no seats; a presence check on `git ls-files` exit status passes on a missing file, because it exits 0 when it matches nothing.
 
 **A second rule is inside this set and must not be folded in.** `seatWarrantsFor` against `subagentWarrantsFor`; `seatWarrantsFor` against `seatWarrantsWithDefaults`; `replacedAt` resolving the writer's own page while `tools/lib/seat-record.ts:19` resolves the seat's. That fault is not an absence read as an emptiness — it is one question with two spellings that drift apart, each correct about its own premise. Folding it in would make the wider rule look like it covers ground it does not.
 
