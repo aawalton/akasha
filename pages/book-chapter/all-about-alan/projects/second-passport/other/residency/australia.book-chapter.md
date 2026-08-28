@@ -12,7 +12,7 @@ Major reforms under the Albanese Labor government (2022–2026) reshaped most st
 
 ## Visa streams
 
-Each stream is written up in its own file under [`australia/`](../../../../../../../all-about-alan/projects/second-passport/other/residency/australia):
+Each stream is written up in its own file under `australia/`:
 
 - [Skilled Stream](australia/skilled-stream.book-chapter.md) — points-tested (189/190/491), employer-sponsored (482 SID / 186 / 494), and the National Innovation Visa (858).
 - [Business / Investment Stream](australia/business-investment.book-chapter.md) — BIIP (incl. SIV) closed 31 Jul 2024; what remains and what replaced it.

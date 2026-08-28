@@ -12,7 +12,7 @@ description: "Annual net-zero sizing math for the solar power project — PV, ba
 
 Annual-net-zero PV sizing for 1350 Apple Ave, Provo, against Provo City Power's Schedule 1.1 net-metering program. The grid is the seasonal battery: twelve-month production ≥ twelve-month consumption is the target, December-specific parity is not. See [scope.md](scope.book-chapter.md) for the architectural pivot away from the pure-island case.
 
-This file is the index plus the headline planning case. Math is split into six sub-files (each ≤200 lines) under [sizing/](../../../../../all-about-alan/projects/solar-power/sizing), one per dimension.
+This file is the index plus the headline planning case. Math is split into six sub-files (each ≤200 lines) under sizing/, one per dimension.
 
 ## Files
 

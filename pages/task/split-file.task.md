@@ -16,7 +16,7 @@ required-reading-slugs:
 
 1. **The subjects the file is about.**
    - **Read** the whole file before moving anything. A split decided from the first screen divides at where the reader tired rather than at what the code is about.
-   - **Name** each subject, and give it a directory or a sibling named for that subject, per [Domain Directory](../domain/file-structure.domain.md#domain-directory).
+   - **Name** each subject, and give it a directory or a sibling named for that subject, per [File arrangement](../domain/file-arrangement.domain.md).
    - **Match** a layout already standing beside it rather than inventing one. Where a sibling directory has factored out the same subjects, taking its names is the split.
 
 2. **Everything that imports what you are moving.**

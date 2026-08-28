@@ -38,7 +38,7 @@ So Safety is layered inputs at different speeds, not one slow integral. The cloc
 
 A current-state datum that confirms the three-speed model running. In Alan's words: *"Yeah, I'm coming back up from a dip. I think I'm in the 2.5-3.5 range today. Mostly repairing relationship to move the needle at the moment."*
 
-- **Where he is.** Safety today is in the **2.5–3.5 range** — about a level below the [~4.5 baseline, band [4.0, 5.0]](progression.md#progression-history), climbing back from a dip.
+- **Where he is.** Safety today is in the **2.5–3.5 range** — about a level below the [~4.5 baseline, band [4.0, 5.0]](progression.book-chapter.md#progression-history), climbing back from a dip.
 - **Which lever he's pulling.** In a dip he reaches for the **relationship-repair (Jen) lever** — the faster, hours-to-short-horizon channel — not the months-long capacity-surplus one. You reach for the lever that works fastest on the timescale of the problem, and a dip is a short-timescale problem. This is the layered model picking the speed that matches the need.
 
 ### The affordability rule has no high-return exemption
