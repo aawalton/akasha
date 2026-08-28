@@ -15,10 +15,6 @@ irreversible: false
 
 - **Ops temper addon-data generate** — the data files Temper's packages and addons carry, emitted from the pages that hold their source.
 
-# Design
-
-The files this emits are untracked, and the checkout it writes them into is named rather than assumed.
-
 # Help
 
 Read every page type these generators are sourced from, emit the data files the Temper
