@@ -13,6 +13,8 @@ settled: true
 
 # Design
 
+A write makes a patch and changes nothing on disk.
+
 A page write from a browser runs the same exported function on the server, so the guards inside it apply unchanged.
 
 An app states its page writer once at boot, and every write it makes carries that name.
