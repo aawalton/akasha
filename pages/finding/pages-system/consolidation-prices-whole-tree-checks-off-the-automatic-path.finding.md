@@ -7,7 +7,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-Moving every page into one repository multiplied what a whole-tree check costs by roughly sixty. A check that measured one repository's own claim now measures the whole store.
+A whole-tree check now walks 59,024 claimed pages and takes 11.8 seconds. Every page in every repository moved into this one, and a check that measured one repository's own claim now measures the whole store.
 
 The standard suite bounds each test at one second. `pages/domain/test-on-checks.domain.md` settles what happens next: "A test too slow for the checks is an on-demand test instead." So the cheapest way to keep a whole-tree check under the bound is to move it off the automatic path.
 
@@ -25,7 +25,11 @@ That move is correct under the rule and is not the finding. The finding is what 
 
 Two pressures point the same way. `checks-ceiling` was measured at 123.3s and then 124.9s inside one night against a 120s bound — crossed by a widening margin rather than crossed once. And `pages-hold-properties`, repaired the same night from 429 failures to zero, takes about fifteen minutes over the same population.
 
-Not measured: how many checks already sit on the on-demand path for cost rather than for their subject, or when each moved.
+**A ratio was withdrawn from this finding rather than corrected.** It first claimed the cost rose roughly sixtyfold. That figure came through two hands unchecked and does not survive crude arithmetic: 74,389 of 89,410 tracked files sit under `pages/`, so a claimed population of 59,024 is roughly the pages tree, and a sixtyfold rise would require akasha's prior claim to have been about a thousand pages rather than the tens of thousands it appears to have been. The direction is not in doubt — `story-chapter-royal-road` at 17,905, `skill` at 8,972, `class` at 8,380, `music-song` at 4,422 and `book` at 1,579 plainly arrived with consolidation — but the size is unestablished and the claim above needs no ratio to hold.
+
+What would settle it: run the check's own population count at a commit before the consolidation and compare.
+
+Not measured: that ratio; how many checks already sit on the on-demand path for cost rather than for their subject; or when each moved.
 
 # Bearing
 
