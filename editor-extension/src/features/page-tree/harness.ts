@@ -50,10 +50,16 @@ export const PROPERTY_TYPE_QUERY = 'page-property-type-all';
 /**
  * Every domain, filtered to the kind documents once it arrives.
  *
- * ALL OF THEM BECAUSE THE LANGUAGE HAS NO PREFIX TEST. `pages/domain/page-query-language.md` keeps
+ * ALL OF THEM BECAUSE THE READER THIS REACHES HAS NO PREFIX TEST. `tools/lib/page-query.ts` keeps
  * the predicates deliberately few, and none of them matches a slug's opening. Measured: 617 rows and
  * 56,890 bytes to fill a five-entry map, alongside the 443KB the property definitions already carry,
  * and all six asks run together.
+ *
+ * THE DOMAIN NOW STATES THE ANSWER AND IT IS NOT ON THIS PATH.
+ * `pages/domain/page-query-language.domain.md` says a page query "names one page type, and where it
+ * expands means that one with every page type beneath it" — which is what would collapse the two
+ * pairs above into one ask each. That expansion stands in `pages-system/query/`, which nothing
+ * calls yet. This reads through `tools/lib/page-query.ts`, so the six asks are still six.
  */
 export const DOMAIN_QUERY = 'domain-all';
 

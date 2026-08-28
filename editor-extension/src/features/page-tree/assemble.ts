@@ -6,7 +6,7 @@
 /**
  * Rows from the page query service, nested into the two trees the panel draws.
  *
- * WHY THE NESTING IS DONE HERE RATHER THAN ASKED FOR. `pages/domain/page-query-language.md` says a
+ * WHY THE NESTING IS DONE HERE RATHER THAN ASKED FOR. `pages/domain/page-query-language.domain.md` says a
  * page query "tests one page at a time". A tree is a relation between pages, so no query can answer
  * one — a designed limit rather than a gap, and it puts shaping on whoever shapes. The relation is
  * already in the rows: a page type carries `extends-slug`, a property definition carries
