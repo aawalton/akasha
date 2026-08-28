@@ -3,7 +3,7 @@ id: 21df1033-9ba1-56c4-961d-d74d54564681
 slug: one-root-resolves-a-workspace-name
 page-type-slug: finding
 title: "A workspace name resolves within one root, so no package-at-a-time move between two repositories has an unbroken intermediate state"
-domain-slug: workspace-package
+domain-slug: domain/workspace-package
 ---
 
 # Claim

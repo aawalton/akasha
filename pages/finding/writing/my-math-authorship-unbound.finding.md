@@ -3,7 +3,7 @@ id: 2b9b6827-cf1c-5ea2-86bb-90710d14e212
 slug: my-math-authorship-unbound
 page-type-slug: finding
 title: "My math authorship unbound"
-domain-slug: writing
+domain-slug: domain/writing
 ---
 
 # Claim

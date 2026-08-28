@@ -3,7 +3,7 @@ id: 5d4ff430-8ccc-556f-bee1-8b662e2e074e
 slug: repo-key-is-an-equality-filter
 page-type-slug: finding
 title: "A page's repo key filters rather than locates, so a file that changes repository is severed from its page in silence"
-domain-slug: pages-system
+domain-slug: domain/pages-system
 ---
 
 # Claim

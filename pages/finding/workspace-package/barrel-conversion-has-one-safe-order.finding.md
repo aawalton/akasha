@@ -3,7 +3,7 @@ id: c40c9861-88c1-5d2e-9d78-60d9bd1232b2
 slug: barrel-conversion-has-one-safe-order
 page-type-slug: finding
 title: "Converting a package from a barrel to subpath exports is three acts, and only one order of them leaves no broken tree"
-domain-slug: workspace-package
+domain-slug: domain/workspace-package
 ---
 
 # Claim
