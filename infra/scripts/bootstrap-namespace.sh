@@ -27,10 +27,9 @@ WORKSPACE="$1"
 resolve_workspace_dir() {
   local ws="$1"
   case "$ws" in
-    alanwalton|temper|collections) echo "$HOME/repos/code/apps/$ws" ;;
-    cluster) echo "$HOME/repos/code/infra" ;;
-    design-system) echo "$HOME/repos/code/shared/design-system" ;;
-    *) echo "$HOME/repos/code/$ws" ;;
+    cluster) echo "${AKASHA_ROOT}/infra" ;;
+    design-system) echo "${AKASHA_ROOT}/shared/design-system" ;;
+    *) echo "${AKASHA_ROOT}/$ws" ;;
   esac
 }
 WORKSPACE_DIR="$(resolve_workspace_dir "$WORKSPACE")"
