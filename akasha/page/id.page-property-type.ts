@@ -1,5 +1,7 @@
 import type { PagePropertyType } from "./page-property-type.page-type.ts"
 
+export type Id = string
+
 export const id = {
   id: "01a049b9-856c-7ee7-b958-f63eead00582",
   slug: "id",

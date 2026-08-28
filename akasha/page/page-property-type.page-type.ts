@@ -1,8 +1,10 @@
+import type { Max } from "./max.page-property-type.ts"
+import type { NameFormatSlug } from "./name-format-slug.page-property-type.ts"
 import type { PageType } from "./page-type.page-type.ts"
 
 export type PagePropertyType = PageType & {
-  nameFormatSlug: string | null
-  max: number | null
+  nameFormatSlug: NameFormatSlug | null
+  max: Max | null
 }
 
 export const pagePropertyType = {

@@ -1,7 +1,8 @@
+import type { ExtendsSlug } from "./extends-slug.page-property-type.ts"
 import type { Page } from "./page.page-type.ts"
 
 export type PageType = Page & {
-  extendsSlug: string | null
+  extendsSlug: ExtendsSlug | null
 }
 
 export const pageType = {
