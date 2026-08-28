@@ -11,7 +11,7 @@ const SAID = "[great-courses-sync]"
 
 const HELP = `bun services/great-courses-sync.ts — the Great Courses catalogue, read and filed as a page per course
 
-Reads https://www.thegreatcoursesplus.com/allprograms, takes every course and every subject
+Reads https://plus.thegreatcourses.com/allprograms, takes every course and every subject
 shelf off it, and writes a \`great-course\` page for each course the collection does not already
 hold. A course sits on the "All Great Courses" shelf and on the shelf of every subject naming it.
 
