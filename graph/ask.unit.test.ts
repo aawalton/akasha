@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { edgesFrom, edgesInto, nodeAt } from "./ask.ts"
 import { KEEPS_NOTHING } from "./build-context/build-context.ts"
 import { RELATION_EDGE } from "./edge-producer/relation/relation.graph-edge-producer.code.attachment.ts"
-import { IMPORT_EDGE } from "./edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "./edge-producer/import/import.graph-edge-producer.code.attachment.ts"
 import type { EdgeInit } from "./edge-producer/edge-shape.ts"
 import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
 

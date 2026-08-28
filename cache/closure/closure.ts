@@ -1,5 +1,5 @@
 import { edgesFrom, nodeAt } from "../../graph/ask.ts"
-import { IMPORT_EDGE } from "../../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "../../graph/edge-producer/import/import.graph-edge-producer.code.attachment.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
 import type { BuildContext } from "../../graph/build-context/build-context.ts"
 import type { NodeRef } from "../../graph/node-producer/node-shape.ts"

@@ -1,6 +1,6 @@
 import { edgesInto, nodesIn } from "../../graph/ask.ts"
 import { type BuildContext, KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
-import { IMPORT_EDGE } from "../../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "../../graph/edge-producer/import/import.graph-edge-producer.code.attachment.ts"
 import type { FileNode } from "../../graph/node-producer/file/file.graph-node-producer.code.attachment.ts"
 import { AKASHA, rootsHere } from "../../repo/roots/roots.ts"
 import { ROOT_FOLDER, folderOf } from "../section.ts"

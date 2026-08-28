@@ -3,14 +3,14 @@ import { marksHere } from "./said.ts"
 import { closureOf } from "../closure/closure.ts"
 import { KEEPS_NOTHING, type SaidName } from "../../graph/build-context/build-context.ts"
 import { FRONTMATTER_SAID } from "../../graph/frontmatter-at/frontmatter-at.ts"
-import { TYPESCRIPT_SAID } from "../../graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
+import { IMPORT_SAID } from "../../graph/edge-producer/import/import.graph-edge-producer.code.attachment.ts"
 import { LINKS_SAID } from "../../graph/edge-producer/relation/relation.graph-edge-producer.code.attachment.ts"
 import { AKASHA, rootsHere } from "../../repo/roots/roots.ts"
 import { oidsUnder } from "../../repo/oid/oid.ts"
 
 const ENGINE = "graph/ask.ts"
 
-const HELD: readonly SaidName[] = [FRONTMATTER_SAID, TYPESCRIPT_SAID, LINKS_SAID]
+const HELD: readonly SaidName[] = [FRONTMATTER_SAID, IMPORT_SAID, LINKS_SAID]
 
 const root = rootsHere()[AKASHA] ?? ""
 

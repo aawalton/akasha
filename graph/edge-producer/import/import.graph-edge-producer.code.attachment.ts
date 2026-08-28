@@ -10,9 +10,9 @@ import { aliasedTo } from "./tsconfig-paths.ts"
 
 export const IMPORT_EDGE = "import"
 
-export const TYPESCRIPT_SAID: SaidName = {
-  name: "typescript",
-  entry: "graph/edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts",
+export const IMPORT_SAID: SaidName = {
+  name: "import",
+  entry: "graph/edge-producer/import/import.graph-edge-producer.code.attachment.ts",
 }
 
 const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
@@ -54,7 +54,7 @@ function specifiersFor(
   repo: string,
   key: string
 ): readonly string[] {
-  const held = ctx.said.of(TYPESCRIPT_SAID, repo, key, () => {
+  const held = ctx.said.of(IMPORT_SAID, repo, key, () => {
     const text = textAt(root, key)
     return text === null ? null : namedIn(text)
   })
@@ -86,8 +86,8 @@ function fileAt(ctx: BuildContext, base: string): NodeRef | null {
   return null
 }
 
-export const typescriptEdgeProducer: EdgeProducer = {
-  name: "typescript",
+export const importEdgeProducer: EdgeProducer = {
+  name: "import",
   edgeKinds: () => [IMPORT_EDGE],
   from: (ctx, file) => {
     if (file.kind !== FILE_NODE_KIND) return []
@@ -114,4 +114,4 @@ export const typescriptEdgeProducer: EdgeProducer = {
   },
 }
 
-export default typescriptEdgeProducer
+export default importEdgeProducer

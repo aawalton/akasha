@@ -4,7 +4,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { type BuildContext, KEEPS_NOTHING } from "../../build-context/build-context.ts"
 import fileNodeProducer from "../../node-producer/file/file.graph-node-producer.code.attachment.ts"
-import typescriptEdgeProducer, { IMPORT_EDGE, basesOf } from "./typescript.graph-edge-producer.code.attachment.ts"
+import importEdgeProducer, { IMPORT_EDGE, basesOf } from "./import.graph-edge-producer.code.attachment.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -46,7 +46,7 @@ const TRACKED: Readonly<Record<string, string>> = {
 }
 
 function repoAt(): string {
-  const root = mkdtempSync(`${SCRATCH}/typescript-`)
+  const root = mkdtempSync(`${SCRATCH}/import-`)
   execFileSync("git", ["-C", root, "init", "-q"])
   for (const [key, body] of Object.entries(TRACKED)) {
     mkdirSync(dirname(`${root}/${key}`), { recursive: true })
@@ -60,7 +60,7 @@ function reachedFrom(root: string, key: string): readonly string[] {
   const ctx: BuildContext = { roots: { [REPO]: root }, said: KEEPS_NOTHING }
   const node = fileNodeProducer.at(ctx, { repo: REPO, key })
   if (node === null) throw new Error(`${key} is not a node, so nothing can be asked of it`)
-  const edges = typescriptEdgeProducer.from(ctx, node)
+  const edges = importEdgeProducer.from(ctx, node)
   for (const edge of edges) {
     expect(edge.kind).toBe(IMPORT_EDGE)
     expect(edge.from).toEqual({ repo: REPO, key })

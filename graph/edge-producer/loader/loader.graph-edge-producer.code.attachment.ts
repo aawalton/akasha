@@ -5,7 +5,7 @@ import type { NodeRef } from "../../node-producer/node-shape.ts"
 import { attachmentFileOf } from "../../../page/attachment-file.ts"
 import { pagesOfType } from "../../page-index/page-index.ts"
 import type { EdgeInit, EdgeProducer, GraphNode } from "../edge-shape.ts"
-import { IMPORT_EDGE } from "../typescript/typescript.graph-edge-producer.code.attachment.ts"
+import { IMPORT_EDGE } from "../import/import.graph-edge-producer.code.attachment.ts"
 
 const PAGE_TYPE = "page-type"
 
