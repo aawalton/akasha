@@ -4,8 +4,15 @@ import { declarationOf, declarationsFor, extendingIn } from "./declared.ts"
 
 const ROOT = `${import.meta.dir}/../..`
 
+const answered = <T>(found: T | string): T => {
+  if (typeof found === "string") throw new Error(found)
+  return found
+}
+
+const declaring = (pageTypes: Iterable<string>) => answered(declarationsFor(ROOT, pageTypes))
+
 const seat = () => {
-  const declared = declarationOf(ROOT, "seat")
+  const declared = answered(declarationOf(ROOT, "seat"))
   if (declared === null) throw new Error("no seat page type stands under the root")
   return declared
 }
@@ -34,7 +41,7 @@ test("a query naming a key beyond the language is refused by what the store decl
 })
 
 test("every page type asked for at once is declared what it declares on its own", () => {
-  const many = declarationsFor(ROOT, ["seat", "command", "domain"])
+  const many = declaring(["seat", "command", "domain"])
   for (const slug of ["seat", "command", "domain"]) {
     expect(many.get(slug)?.properties["id"]?.type).toEqual({ kind: "text" })
   }
@@ -45,13 +52,13 @@ test("every page type asked for at once is declared what it declares on its own"
 })
 
 test("a slug naming no page type is absent from the declarations, never declaring nothing", () => {
-  const many = declarationsFor(ROOT, ["seat", "no-page-type-is-spelt-this-way"])
+  const many = declaring(["seat", "no-page-type-is-spelt-this-way"])
   expect(many.has("seat")).toBe(true)
   expect(many.has("no-page-type-is-spelt-this-way")).toBe(false)
 })
 
 test("a page type asked for twice over is answered once", () => {
-  const many = declarationsFor(ROOT, ["seat", "seat"])
+  const many = declaring(["seat", "seat"])
   expect([...many.keys()]).toEqual(["seat"])
 })
 
@@ -60,22 +67,22 @@ test("what is asked for is walked once, so a generator is answered in full", () 
     yield "seat"
     yield "command"
   }
-  const many = declarationsFor(ROOT, asking())
+  const many = declaring(asking())
   expect([...many.keys()].sort()).toEqual(["command", "seat"])
 })
 
 test("what a page type extends is answered as that page type states it", () => {
-  const extending = extendingIn(ROOT)
+  const extending = answered(extendingIn(ROOT))
   expect(extending.get("command")).toBe("domain")
   expect(extending.get("seat")).toBe("agent")
 })
 
 test("a page type extending none is not answered as extending anything", () => {
-  expect(extendingIn(ROOT).has("page")).toBe(false)
+  expect(answered(extendingIn(ROOT)).has("page")).toBe(false)
 })
 
 test("a query expanding a page type asks about exactly the page types whose chain reaches it", () => {
-  const extending = extendingIn(ROOT)
+  const extending = answered(extendingIn(ROOT))
   const checked = checkQuery({ pageType: "domain", expands: true }, seat(), extending)
   if (!checked.ok) throw new Error(checked.message)
 

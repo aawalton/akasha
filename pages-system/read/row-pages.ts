@@ -43,7 +43,12 @@ function* walk(
       continue
     }
     const holder = stemOf(path)
-    for (const sidecar of sidecarsOf(repo.root, path, one.key)) {
+    const beside = sidecarsOf(repo.root, path, one.key)
+    if (typeof beside === "string") {
+      yield { at: one.at, unread: beside }
+      continue
+    }
+    for (const sidecar of beside) {
       const text = textAt(repo.root, sidecar)
       if (text === null) continue
       for (const row of rowsIn(addressIn(repo.repo, sidecar), text, holder)) {

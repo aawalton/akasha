@@ -3,7 +3,7 @@ import { checkNaming, nameOf } from "../name/name.ts"
 import { checkQuery, type Page, runQuery } from "../query/query.ts"
 import type { Repo } from "./address.ts"
 import { declarationOf, extendingIn } from "./declared.ts"
-import { holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./pages.ts"
+import { type Held, holdingsOf, pageAt, pagesFor, pagesOf, type Unread } from "./pages.ts"
 
 const ROOT = `${import.meta.dir}/../..`
 
@@ -11,65 +11,74 @@ const REPO: Repo = { repo: "akasha", root: ROOT }
 
 const NOW = 0
 
+const answered = <T>(found: T | string): T => {
+  if (typeof found === "string") throw new Error(found)
+  return found
+}
+
+const pagesIn = (pageType: string): readonly string[] => answered(pagesOf(REPO, pageType))
+
+const holdingIn = (pageType: string): Held => answered(holdingsOf(ROOT, pageType))
+
 const seat = () => {
-  const declared = declarationOf(ROOT, "seat")
+  const declared = answered(declarationOf(ROOT, "seat"))
   if (declared === null) throw new Error("no seat page type stands under the root")
   return declared
 }
 
 test("the pages of a page type beneath arrive only where the query expands", () => {
-  const extending = extendingIn(ROOT)
+  const extending = answered(extendingIn(ROOT))
   const wide = checkQuery({ pageType: "domain", expands: true }, seat(), extending)
   const narrow = checkQuery({ pageType: "domain" }, seat(), extending)
   if (!wide.ok || !narrow.ok) throw new Error("refused")
 
   expect(narrow.pageTypes).toEqual(["domain"])
   expect(wide.pageTypes).toContain("command")
-  expect(pagesOf(REPO, "command").length).toBeGreaterThan(0)
+  expect(pagesIn("command").length).toBeGreaterThan(0)
 })
 
 test("every page of a page type is found by the name of its own file", () => {
-  const found = pagesOf(REPO, "seat")
+  const found = pagesIn("seat")
   expect(found.length).toBeGreaterThan(0)
   for (const at of found) expect(at.endsWith(".seat.md")).toBe(true)
 })
 
 test("a page type whose pages are rows names the page type holding them and the key", () => {
-  const held = holdingsOf(ROOT, "log-line")
+  const held = holdingIn("log-line")
   expect(held.holdings).toContainEqual({ on: "log-day", key: "lines" })
 })
 
 test("a page type whose pages are files is held by nothing", () => {
-  expect(holdingsOf(ROOT, "seat").holdings).toEqual([])
+  expect(holdingIn("seat").holdings).toEqual([])
 })
 
 test("a page type may stand as rows of more than one page type", () => {
-  const held = holdingsOf(ROOT, "reference")
+  const held = holdingIn("reference")
   expect(held.holdings.length).toBeGreaterThan(1)
   for (const one of held.holdings) expect(one.key).toBe("references")
 })
 
 test("a slug naming no page type is held by nothing", () => {
-  expect(holdingsOf(ROOT, "no-page-type-is-spelt-this-way").holdings).toEqual([])
+  expect(holdingIn("no-page-type-is-spelt-this-way").holdings).toEqual([])
 })
 
 test("every holding of a page type names a page type and a key", () => {
-  for (const one of holdingsOf(ROOT, "reference").holdings) {
+  for (const one of holdingIn("reference").holdings) {
     expect(one.on.length).toBeGreaterThan(0)
     expect(one.key.length).toBeGreaterThan(0)
   }
 })
 
 test("no rows spelling in this repository is beyond what the store reads", () => {
-  expect(holdingsOf(ROOT, "log-line").beyond).toEqual({})
+  expect(holdingIn("log-line").beyond).toEqual({})
 })
 
 test("a page type whose pages are rows answers none of them, nothing here reading a sidecar", () => {
-  expect(pagesOf(REPO, "session-tracking")).toEqual([])
+  expect(pagesIn("session-tracking")).toEqual([])
 })
 
 test("every page type asked for at once is answered the pages named for it and no other", () => {
-  const many = pagesFor(REPO, ["seat", "command", "domain"])
+  const many = answered(pagesFor(REPO, ["seat", "command", "domain"]))
   for (const slug of ["seat", "command", "domain"]) {
     const found = many.get(slug)
     if (found === undefined) throw new Error(`no answer for ${slug}`)
@@ -79,14 +88,14 @@ test("every page type asked for at once is answered the pages named for it and n
 })
 
 test("a page type standing with no page of its own is answered nothing, never left out", () => {
-  const many = pagesFor(REPO, ["seat", "session-tracking"])
+  const many = answered(pagesFor(REPO, ["seat", "session-tracking"]))
   expect(many.has("session-tracking")).toBe(true)
   expect(many.get("session-tracking")).toEqual([])
   expect(many.get("seat")?.length).toBeGreaterThan(0)
 })
 
 test("a slug naming no page type is answered no pages, a file being a page by its own name", () => {
-  const many = pagesFor(REPO, ["no-page-type-is-spelt-this-way"])
+  const many = answered(pagesFor(REPO, ["no-page-type-is-spelt-this-way"]))
   expect(many.has("no-page-type-is-spelt-this-way")).toBe(true)
   expect(many.get("no-page-type-is-spelt-this-way")).toEqual([])
 })
@@ -96,12 +105,12 @@ test("what is asked for is walked once, so a generator is answered in full", () 
     yield "seat"
     yield "command"
   }
-  expect([...pagesFor(REPO, asking()).keys()].sort()).toEqual(["command", "seat"])
+  expect([...answered(pagesFor(REPO, asking())).keys()].sort()).toEqual(["command", "seat"])
 })
 
 test("a page holds what it states, under the type its page type declares", () => {
   const declared = seat()
-  const at = pagesOf(REPO, "seat")[0]
+  const at = pagesIn("seat")[0]
   if (at === undefined) throw new Error("no seat page stands")
   const read = pageAt(REPO, at, declared, NOW)
   if ("unread" in read) throw new Error(read.unread)
@@ -112,7 +121,7 @@ test("a page holds what it states, under the type its page type declares", () =>
 
 test("a key the page type declares and the page states nothing under holds nothing", () => {
   const declared = seat()
-  const at = pagesOf(REPO, "seat")[0]
+  const at = pagesIn("seat")[0]
   if (at === undefined) throw new Error("no seat page stands")
   const read = pageAt(REPO, at, declared, NOW)
   if ("unread" in read) throw new Error(read.unread)
@@ -120,7 +129,7 @@ test("a key the page type declares and the page states nothing under holds nothi
 })
 
 test("every address a store issues names the repository it was read from", () => {
-  const found = pagesOf(REPO, "seat")
+  const found = pagesIn("seat")
   expect(found.length).toBeGreaterThan(0)
   for (const at of found) expect(at.startsWith("akasha:")).toBe(true)
 })
@@ -137,7 +146,7 @@ test("a path with no repository in front of it is no address of this repository"
 })
 
 test("an address of another repository is not taken against this root", () => {
-  const found = pagesOf(REPO, "seat")[0]
+  const found = pagesIn("seat")[0]
   if (found === undefined) throw new Error("no seat page stands")
   const path = found.slice("akasha:".length)
   const read = pageAt(REPO, `code-editor:${path}`, seat(), NOW)
@@ -150,7 +159,7 @@ test("the names of the running seats", () => {
   if (!checked.ok) throw new Error(checked.message)
 
   const read = checked.pageTypes
-    .flatMap((one) => pagesOf(REPO, one))
+    .flatMap((one) => pagesIn(one))
     .map((at) => pageAt(REPO, at, declared, NOW))
   const unread = read.filter((one): one is Unread => "unread" in one)
   expect(unread).toEqual([])
@@ -161,6 +170,6 @@ test("the names of the running seats", () => {
   const pages = read.filter((one): one is Page => !("unread" in one))
   const found = runQuery(checked, pages)
   const names = found.map((page) => nameOf(naming, page.values))
-  expect(names.length).toBe(pagesOf(REPO, "seat").length)
+  expect(names.length).toBe(pagesIn("seat").length)
   for (const name of names) expect(typeof name).toBe("string")
 })

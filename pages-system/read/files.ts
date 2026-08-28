@@ -1,3 +1,4 @@
+import type { Dirent } from "node:fs"
 import { readdirSync, readFileSync } from "node:fs"
 import { parse } from "yaml"
 import { pageTypeOf } from "../page-type/page-type.ts"
@@ -11,35 +12,48 @@ const CLOSES = "\n---"
 
 const PAGE = ".md"
 
-const entriesIn = (dir: string) => {
+const isMissing = (thrown: unknown): boolean => {
+  const code = (thrown as { readonly code?: unknown } | null)?.code
+  return code === "ENOENT" || code === "ENOTDIR"
+}
+
+const unlisted = (dir: string, why: unknown): string =>
+  `cannot be listed: ${dir}: ${why instanceof Error ? why.message : String(why)}`
+
+const entriesIn = (dir: string): readonly Dirent[] | string => {
   try {
     return readdirSync(dir, { withFileTypes: true })
-  } catch {
-    return []
+  } catch (why) {
+    return unlisted(dir, why)
   }
 }
 
 export const pagesUnder = (
   root: string,
   kinds: ReadonlySet<string>
-): ReadonlyMap<string, readonly string[]> => {
+): ReadonlyMap<string, readonly string[]> | string => {
   const found = new Map<string, string[]>()
   for (const kind of kinds) found.set(kind, [])
-  const walk = (at: string): void => {
-    for (const entry of entriesIn(at === "" ? root : `${root}/${at}`)) {
+  const walk = (at: string): string | null => {
+    const entries = entriesIn(at === "" ? root : `${root}/${at}`)
+    if (typeof entries === "string") return entries
+    for (const entry of entries) {
       if (entry.isSymbolicLink()) continue
       const under = at === "" ? entry.name : `${at}/${entry.name}`
       if (entry.isDirectory()) {
-        if (!SKIPPED.has(entry.name)) walk(under)
+        if (SKIPPED.has(entry.name)) continue
+        const why = walk(under)
+        if (why !== null) return why
         continue
       }
       const kind = pageTypeOf(entry.name)
       if (kind === null) continue
       found.get(kind)?.push(under)
     }
+    return null
   }
-  walk("")
-  return found
+  const why = walk("")
+  return why === null ? found : why
 }
 
 export const statedAt = (root: string, at: string): Stated | string => {
@@ -66,14 +80,16 @@ export const statedAt = (root: string, at: string): Stated | string => {
 
 const quoted = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 
-export const sidecarsOf = (root: string, at: string, key: string): readonly string[] => {
+export const sidecarsOf = (root: string, at: string, key: string): readonly string[] | string => {
   const stem = at.endsWith(PAGE) ? at.slice(0, -PAGE.length) : at
   const cut = stem.lastIndexOf("/")
   const dir = cut < 0 ? "" : stem.slice(0, cut)
   const base = `${cut < 0 ? stem : stem.slice(cut + 1)}.${key}`
   const named = new RegExp(`^${quoted(base)}(?:\\.part(\\d+))?(\\.uncommitted)?\\.jsonl$`)
+  const entries = entriesIn(dir === "" ? root : `${root}/${dir}`)
+  if (typeof entries === "string") return entries
   const found: { readonly at: string; readonly part: number; readonly late: number }[] = []
-  for (const entry of entriesIn(dir === "" ? root : `${root}/${dir}`)) {
+  for (const entry of entries) {
     if (!entry.isFile()) continue
     const held = named.exec(entry.name)
     if (held === null) continue
@@ -90,7 +106,8 @@ export const sidecarsOf = (root: string, at: string, key: string): readonly stri
 export const textAt = (root: string, at: string): string | null => {
   try {
     return readFileSync(`${root}/${at}`, "utf8")
-  } catch {
-    return null
+  } catch (why) {
+    if (isMissing(why)) return null
+    throw why
   }
 }

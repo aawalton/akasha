@@ -97,8 +97,9 @@ const declaredBy = (
 export const declarationsFor = (
   root: string,
   pageTypes: Iterable<string>
-): Map<string, Declared> => {
+): Map<string, Declared> | string => {
   const found = pagesUnder(root, new Set([PAGE_TYPE, PROPERTY]))
+  if (typeof found === "string") return found
   const types = pageTypesIn(root, found.get(PAGE_TYPE) ?? [])
   const standing: string[] = []
   for (const one of pageTypes) if (types.has(one)) standing.push(one)
@@ -109,11 +110,15 @@ export const declarationsFor = (
   return declarations
 }
 
-export const declarationOf = (root: string, pageType: string): Declared | null =>
-  declarationsFor(root, [pageType]).get(pageType) ?? null
+export const declarationOf = (root: string, pageType: string): Declared | string | null => {
+  const found = declarationsFor(root, [pageType])
+  if (typeof found === "string") return found
+  return found.get(pageType) ?? null
+}
 
-export const extendingIn = (root: string): Extending => {
+export const extendingIn = (root: string): Extending | string => {
   const found = pagesUnder(root, new Set([PAGE_TYPE]))
+  if (typeof found === "string") return found
   const extending = new Map<string, string>()
   for (const [slug, stated] of pageTypesIn(root, found.get(PAGE_TYPE) ?? [])) {
     const over = textIn(stated, EXTENDS)

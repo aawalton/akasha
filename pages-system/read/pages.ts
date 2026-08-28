@@ -26,7 +26,10 @@ export type Held = {
   readonly beyond: Readonly<Record<string, string>>
 }
 
-export const holdingsFor = (root: string, pageTypes: Iterable<string>): Map<string, Held> => {
+export const holdingsFor = (
+  root: string,
+  pageTypes: Iterable<string>
+): Map<string, Held> | string => {
   const filling = new Map<string, { holdings: Holding[]; beyond: Record<string, string> }>()
   for (const one of pageTypes) {
     if (!filling.has(one)) filling.set(one, { holdings: [], beyond: {} })
@@ -34,6 +37,7 @@ export const holdingsFor = (root: string, pageTypes: Iterable<string>): Map<stri
   const held = new Map<string, Held>()
   if (filling.size === 0) return held
   const found = pagesUnder(root, new Set([PROPERTY]))
+  if (typeof found === "string") return found
   for (const one of found.get(PROPERTY) ?? []) {
     const stated = statedAt(root, one)
     if (typeof stated === "string") continue
@@ -58,18 +62,22 @@ export const holdingsFor = (root: string, pageTypes: Iterable<string>): Map<stri
   return held
 }
 
-export const holdingsOf = (root: string, pageType: string): Held =>
-  holdingsFor(root, [pageType]).get(pageType) ?? { holdings: [], beyond: {} }
+export const holdingsOf = (root: string, pageType: string): Held | string => {
+  const found = holdingsFor(root, [pageType])
+  if (typeof found === "string") return found
+  return found.get(pageType) ?? { holdings: [], beyond: {} }
+}
 
 export const pagesFor = (
   repo: Repo,
   pageTypes: Iterable<string>
-): Map<string, readonly string[]> => {
+): Map<string, readonly string[]> | string => {
   const asked = new Set<string>()
   for (const one of pageTypes) asked.add(one)
   const pages = new Map<string, readonly string[]>()
   if (asked.size === 0) return pages
   const found = pagesUnder(repo.root, asked)
+  if (typeof found === "string") return found
   for (const one of asked) {
     pages.set(
       one,
@@ -79,8 +87,11 @@ export const pagesFor = (
   return pages
 }
 
-export const pagesOf = (repo: Repo, pageType: string): readonly string[] =>
-  pagesFor(repo, [pageType]).get(pageType) ?? []
+export const pagesOf = (repo: Repo, pageType: string): readonly string[] | string => {
+  const found = pagesFor(repo, [pageType])
+  if (typeof found === "string") return found
+  return found.get(pageType) ?? []
+}
 
 export const pageAt = (
   repo: Repo,

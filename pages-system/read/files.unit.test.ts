@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { sidecarsOf, textAt } from "./files.ts"
+import { chmodSync, mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { pagesUnder, sidecarsOf, textAt } from "./files.ts"
 
 const rootOf = (names: readonly string[]): string => {
   const root = mkdtempSync("/var/tmp/pages-system-files-")
@@ -105,8 +105,32 @@ test("a page holding no sidecar under a key answers none", () => {
   }
 })
 
-test("a folder that is not there answers no sidecars rather than failing", () => {
-  expect(sidecarsOf("/var/tmp/no-such-root-stands-here", AT, "lines")).toEqual([])
+test("a folder that will not list refuses rather than answering no sidecar", () => {
+  expect(typeof sidecarsOf("/var/tmp/no-such-root-stands-here", AT, "lines")).toBe("string")
+})
+
+test("a root holding no page of a kind answers none, where a root that will not list refuses", () => {
+  const root = mkdtempSync("/var/tmp/pages-system-files-")
+  try {
+    expect(pagesUnder(root, new Set(["log-day"]))).toEqual(new Map([["log-day", []]]))
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+  expect(typeof pagesUnder("/var/tmp/no-such-root-stands-here", new Set(["log-day"]))).toBe("string")
+})
+
+test("a folder below the root that will not list refuses the walk rather than being skipped", () => {
+  const root = rootOf([])
+  writeFileSync(`${root}/pages/day/monday.log-day.md`, "")
+  mkdirSync(`${root}/pages/shut`)
+  writeFileSync(`${root}/pages/shut/tuesday.log-day.md`, "")
+  chmodSync(`${root}/pages/shut`, 0o000)
+  try {
+    expect(typeof pagesUnder(root, new Set(["log-day"]))).toBe("string")
+  } finally {
+    chmodSync(`${root}/pages/shut`, 0o755)
+    rmSync(root, { recursive: true, force: true })
+  }
 })
 
 test("the text of a file is what the file holds", () => {
@@ -121,4 +145,16 @@ test("the text of a file is what the file holds", () => {
 
 test("a file that is not there holds no text", () => {
   expect(textAt("/var/tmp/no-such-root-stands-here", "held.txt")).toBeNull()
+})
+
+test("a file that is there and cannot be read refuses rather than holding no text", () => {
+  const root = mkdtempSync("/var/tmp/pages-system-files-")
+  writeFileSync(`${root}/shut.txt`, "one\n")
+  chmodSync(`${root}/shut.txt`, 0o000)
+  try {
+    expect(() => textAt(root, "shut.txt")).toThrow()
+  } finally {
+    chmodSync(`${root}/shut.txt`, 0o644)
+    rmSync(root, { recursive: true, force: true })
+  }
 })
