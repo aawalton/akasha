@@ -88,34 +88,6 @@ mock.module("@shared/pages-access/upsert", () => ({
   upsertPages: unreached("upsertPages"),
 }))
 
-mock.module("@shared/pages-query", () => ({
-  ASK_CEILING_MS: realPagesQuery.ASK_CEILING_MS,
-  askNamed: realPagesQuery.askNamed,
-  askTaking: realPagesQuery.askTaking,
-  PAGE_QUERY_BROWSER_PREFIX: realPagesQuery.PAGE_QUERY_BROWSER_PREFIX,
-  PAGE_QUERY_ORIGIN: realPagesQuery.PAGE_QUERY_ORIGIN,
-  pageQueryOrigin: realPagesQuery.pageQueryOrigin,
-  patchPage: async (pageType: string, name: string, values: unknown) => {
-    calls.push({ fn: "query.patchPage", args: { pageType, name, values } })
-    return { ok: true, at: `${pageType}/${name}` }
-  },
-  patchPageIfMatch: realPagesQuery.patchPageIfMatch,
-  patchRow: realPagesQuery.patchRow,
-  patchRows: realPagesQuery.patchRows,
-  patchState: realPagesQuery.patchState,
-  readFromPageQueryService: realPagesQuery.readFromPageQueryService,
-  refusalIn: realPagesQuery.refusalIn,
-  removePage: realPagesQuery.removePage,
-  removeRow: realPagesQuery.removeRow,
-  WRITE_CEILING_MS: realPagesQuery.WRITE_CEILING_MS,
-  writePage: realPagesQuery.writePage,
-  writeRow: async (pageType: string, parentName: string, values: unknown) => {
-    calls.push({ fn: "query.writeRow", args: { pageType, parentName, values } })
-    return { ok: true, at: `${pageType}/${parentName}` }
-  },
-  writeRows: realPagesQuery.writeRows,
-}))
-
 const realPagesQuery = await import("@shared/pages-query")
 
 mock.module("@shared/pages-query", () => ({
