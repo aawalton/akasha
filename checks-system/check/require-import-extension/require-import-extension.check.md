@@ -5,7 +5,7 @@ title: "Require import extension"
 slug: require-import-extension
 needs: file
 cached: false
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
