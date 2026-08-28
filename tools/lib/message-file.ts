@@ -72,7 +72,10 @@ export function messageRelPath(to: string, id: string): string {
   return `${messageDirRelPath(to)}/${id}${PAGE_SUFFIX}`
 }
 
+// A message states the name it is addressed by. That name is the id its file is placed under by
+// `messageRelPath`, which is the file's stem.
 export function composeMessage(stated: {
+  readonly slug: string
   readonly to: string
   readonly from: string
   readonly warrant: Warrant
@@ -82,6 +85,7 @@ export function composeMessage(stated: {
   return [
     "---",
     `page-type-slug: ${PAGE_TYPE}`,
+    `slug: ${stated.slug}`,
     `to: ${stated.to}`,
     `from: ${stated.from}`,
     `warrant: ${stated.warrant}`,
@@ -138,7 +142,7 @@ export function writeMessage(stated: {
   const dir = mkdtempSync(join(SCRATCH, "message-file-"))
   try {
     const bodyPath = join(dir, "body.md")
-    writeFileSync(bodyPath, composeMessage(stated), "utf8")
+    writeFileSync(bodyPath, composeMessage({ ...stated, slug: id }), "utf8")
     const wrote = runWriteTool("write.ts", [
       "--repo",
       AKASHA,
