@@ -1,12 +1,9 @@
-import { assertNever } from "../../../utils-narrow/src/assert-never"
-import { isComputed, resolveComputedProperties } from "../formula/resolve"
-import { type AggregateFilter, aggregateFilterSchema } from "../schema/property-config-schemas"
-import type { PageDataJSON, PropertyDefinition } from "../types"
-import type { ReadonlyJSONValue } from "../schema/pages"
-import { matchesAggregateFilter } from "./aggregate-filter"
-import { toNumber } from "./number"
-import type { PageTypePropertiesMap } from "./rollup"
-import type { FilterConfig, FilterOperatorOption, PropertyTypeOps, PropertyValue } from "./types"
+import { assertNever } from "../../../utils-narrow/src/assert-never.ts"
+import { type AggregateFilter, aggregateFilterSchema } from "../schema/property-config-schemas.ts"
+import type { PageDataJSON, PropertyDefinition } from "../types.ts"
+import { matchesAggregateFilter } from "./aggregate-filter.ts"
+import { toNumber } from "./number.ts"
+import type { FilterConfig, FilterOperatorOption, PropertyTypeOps, PropertyValue } from "./types.ts"
 
 export type AggregateFunction = "sum" | "count" | "avg" | "min" | "max" | "first" | "count_distinct"
 
@@ -36,31 +33,10 @@ export interface AggregateInput {
   readonly data: PageDataJSON
 }
 
-const EMPTY_PAGE_TYPES: PageTypePropertiesMap = new Map()
-
-function readTargetValue(
-  page: AggregateInput,
-  targetPropertyId: string,
-  pageTypes: PageTypePropertiesMap
-): ReadonlyJSONValue | null {
-  const typeId = page.data.pageTypeId
-  if (typeof typeId === "string") {
-    const defs = pageTypes.get(typeId)
-    if (defs) {
-      const def = defs.find((d) => d.id === targetPropertyId)
-      if (def !== undefined && isComputed(def)) {
-        return resolveComputedProperties(page.data, defs)[targetPropertyId] ?? null
-      }
-    }
-  }
-  return page.data[targetPropertyId] ?? null
-}
-
 export function computeAggregate(
   config: AggregateConfig,
   currentPageData: PageDataJSON,
-  allPages: readonly AggregateInput[],
-  pageTypes: PageTypePropertiesMap = EMPTY_PAGE_TYPES
+  allPages: readonly AggregateInput[]
 ): number | null {
   const rawTargetIds = currentPageData[config.relationPropertyId]
   if (!Array.isArray(rawTargetIds)) {
@@ -82,14 +58,14 @@ export function computeAggregate(
     for (const id of targetIds) {
       const page = pageById.get(id)
       if (!page) continue
-      const n = toNumber(readTargetValue(page, config.targetPropertyId, pageTypes))
+      const n = toNumber(page.data[config.targetPropertyId] ?? null)
       if (n !== null) return n
     }
     return null
   }
 
   const values = related
-    .map((p) => toNumber(readTargetValue(p, config.targetPropertyId, pageTypes)))
+    .map((p) => toNumber(p.data[config.targetPropertyId] ?? null))
     .filter((v): v is number => v !== null)
 
   if (config.function === "count_distinct") return new Set(values).size
@@ -131,15 +107,14 @@ function parseAggregateConfig(raw: PropertyDefinition["config"]): AggregateConfi
 export function computeAggregatesForPage(
   data: PageDataJSON,
   definitions: readonly PropertyDefinition[],
-  relatedPages: readonly AggregateInput[],
-  pageTypes: PageTypePropertiesMap
+  relatedPages: readonly AggregateInput[]
 ): Record<string, number | null> {
   const result: Record<string, number | null> = {}
   for (const def of definitions) {
     if (def.type !== "aggregate") continue
     const config = parseAggregateConfig(def.config)
     if (config === null) continue
-    result[def.id] = computeAggregate(config, data, relatedPages, pageTypes)
+    result[def.id] = computeAggregate(config, data, relatedPages)
   }
   return result
 }
@@ -147,8 +122,7 @@ export function computeAggregatesForPage(
 export function computeFillAggregatesForPage(
   data: PageDataJSON,
   definitions: readonly PropertyDefinition[],
-  relatedPages: readonly AggregateInput[],
-  pageTypes: PageTypePropertiesMap
+  relatedPages: readonly AggregateInput[]
 ): Record<string, number | null> {
   const fill: Record<string, number | null> = {}
   for (const def of definitions) {
@@ -156,7 +130,7 @@ export function computeFillAggregatesForPage(
     if (data[def.id] != null) continue
     const config = parseAggregateConfig(def.config)
     if (config === null) continue
-    fill[def.id] = computeAggregate(config, data, relatedPages, pageTypes)
+    fill[def.id] = computeAggregate(config, data, relatedPages)
   }
   return fill
 }

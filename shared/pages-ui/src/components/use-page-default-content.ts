@@ -9,20 +9,20 @@ import { resolveDefinitionOptions } from "@shared/pages-core/schema/resolve-sele
 import { type PropertyDefinition } from "@shared/pages-core/types"
 import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { useCallback, useMemo } from "react"
-import { useHostCreateSelectOption } from "../option-create-context"
-import { usePagesUIRouter } from "../router-context"
-import { useAllPages, useRelatedPages } from "../supabase/hooks"
-import { useOptimisticPatchPropertyDefinition } from "../supabase/mutations/use-optimistic-patch-property-definition"
-import { useOptionListLookup } from "../supabase/use-option-list-lookup"
-import { usePage } from "../supabase/use-page"
-import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { createOptionOnDefinition } from "./create-option"
-import { toAggregateInputs, toPageDataJSON, toPageDataRecord } from "./page-data-json"
+import { useHostCreateSelectOption } from "../option-create-context.tsx"
+import { usePagesUIRouter } from "../router-context.tsx"
+import { useAllPages, useRelatedPages } from "../supabase/hooks.ts"
+import { useOptimisticPatchPropertyDefinition } from "../supabase/mutations/use-optimistic-patch-property-definition.ts"
+import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
+import { usePage } from "../supabase/use-page.ts"
+import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic.tsx"
+import { createOptionOnDefinition } from "./create-option.ts"
+import { toAggregateInputs, toPageDataJSON, toPageDataRecord } from "./page-data-json.ts"
 import {
   DETAIL_EXCLUDED_IDS,
   extractPageTypeId,
   PAGE_TYPE_SLUG,
-} from "./page-detail-content-helpers"
+} from "./page-detail-content-helpers.ts"
 
 export function usePageDefaultContent({
   pageTypeSlug,
@@ -121,14 +121,9 @@ export function usePageDefaultContent({
   }, [pageTypes, lookupOptionList])
   const aggregateInputs = useMemo(() => toAggregateInputs(relatedPages), [relatedPages])
   const dataWithComputed = useMemo(() => {
-    const aggregates = computeAggregatesForPage(
-      data,
-      allDefinitions,
-      aggregateInputs,
-      pageTypePropertiesMap
-    )
+    const aggregates = computeAggregatesForPage(data, allDefinitions, aggregateInputs)
     return toPageDataJSON({ ...toPageDataRecord(page?.properties), ...aggregates })
-  }, [page?.properties, data, allDefinitions, aggregateInputs, pageTypePropertiesMap])
+  }, [page?.properties, data, allDefinitions, aggregateInputs])
 
   const setProperty = useSetPropertyOptimistic()
 

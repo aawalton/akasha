@@ -2,8 +2,8 @@ import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-cor
 import { type AggregateConfig, type AggregateFunction, computeAggregate } from "@shared/pages-core/property-types/aggregate"
 import { computeRollup, type PageTypePropertiesMap, parseRollupConfig } from "@shared/pages-core/property-types/rollup"
 import { type PageDataJSON, type PropertyDefinition } from "@shared/pages-core/types"
-import { asPageRecord, asRecord, type PageRow } from "../collection/page-row"
-import { emitStoreDiagnostic } from "../diagnostics"
+import { asPageRecord, asRecord, type PageRow } from "../collection/page-row.ts"
+import { emitStoreDiagnostic } from "../diagnostics.ts"
 
 const warnedUnacquiredTargets = new Set<string>()
 
@@ -180,7 +180,7 @@ function aggregateValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortVal
   const def = ctx.defsById.get(key)
   const config = def === undefined ? null : parseAggregateConfigLocal(def.config)
   if (config === null) return null
-  return computeAggregate(config, pageDataOf(row), ctx.allData, ctx.pageTypes)
+  return computeAggregate(config, pageDataOf(row), ctx.allData)
 }
 
 export function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {

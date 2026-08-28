@@ -176,7 +176,6 @@ export function usePagesFilteredQuery(args: {
     pages: allPages,
     definitions: properties,
     relatedPages,
-    propertiesByPageType,
   })
 
   const pageRows = useMemo<PageRow[]>(

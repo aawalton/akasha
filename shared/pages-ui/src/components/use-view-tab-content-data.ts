@@ -249,7 +249,6 @@ export function useViewTabContentData({
     pages: allPages,
     definitions: properties,
     relatedPages,
-    propertiesByPageType,
   })
 
   const rowRollups = useViewRowRollups({
