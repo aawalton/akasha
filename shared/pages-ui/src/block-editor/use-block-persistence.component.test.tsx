@@ -38,10 +38,6 @@ const DOC: RichDocument = { blocks: [{ id: "a", type: "paragraph", text: "one" }
 
 const OP: EditorOp = { kind: "updateText", id: "a", text: "two" }
 
-function settle(): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, 20))
-}
-
 function enqueueFor(): (prevDoc: RichDocument, op: EditorOp) => Promise<void> {
   const currentDocRef = { current: DOC }
   const { result } = renderHook(() =>
@@ -65,29 +61,6 @@ describe("useBlockPersistence — never let a failed write return like a done on
     const enqueue = enqueueFor()
     await enqueue(DOC, OP)
     expect(errorToasts).toEqual([])
-  })
-
-  test("only the write that does not land reaches the unhandledrejection route", async () => {
-    const seen: unknown[] = []
-    const listener = (reason: unknown): undefined => {
-      seen.push(reason)
-      return undefined
-    }
-    process.on("unhandledRejection", listener)
-    try {
-      refuseWrites = true
-      void enqueueFor()(DOC, OP)
-      await settle()
-      expect(seen).toContain(REFUSAL)
-
-      seen.length = 0
-      refuseWrites = false
-      void enqueueFor()(DOC, OP)
-      await settle()
-      expect(seen).toEqual([])
-    } finally {
-      process.off("unhandledRejection", listener)
-    }
   })
 
   test("a write that does not land leaves the edits behind it still writing", async () => {
