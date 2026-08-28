@@ -215,7 +215,7 @@ export function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]
     const one = exec(
       target,
       pod,
-      `rm -f ${REPO_PATH}/.git/index.lock; find ${REPO_PATH}/.git/refs ${REPO_PATH}/.git/logs/refs -name "*.lock" -delete 2>/dev/null; trap "rm -f ${REPO_PATH}/.git/index.lock" EXIT INT TERM; cd ${REPO_PATH} && git fetch origin main && git reset --hard ${sha}`
+      `U=$(git -C ${REPO_PATH} config --get remote.origin.url); case "$U" in *//*/akasha.git) ;; *) git -C ${REPO_PATH} remote set-url origin "$(printf %s "$U" | sed "s|/[^/]*\\.git$|/akasha.git|")" ;; esac; rm -f ${REPO_PATH}/.git/index.lock; find ${REPO_PATH}/.git/refs ${REPO_PATH}/.git/logs/refs -name "*.lock" -delete 2>/dev/null; trap "rm -f ${REPO_PATH}/.git/index.lock" EXIT INT TERM; cd ${REPO_PATH} && git fetch origin main && git reset --hard ${sha}`
     )
     ran.push(one)
     if (one.code === 0) return 0
