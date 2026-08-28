@@ -3,7 +3,7 @@ id: 9c7cdfa8-3236-5d7a-b7b4-6e0ed0e077c7
 slug: empty-capture-16052
 page-type-slug: finding
 title: "Empty capture 16052"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

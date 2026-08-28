@@ -3,7 +3,7 @@ id: 1db5ea9c-ffba-5c63-a7e8-f8287d26bfd3
 slug: degraded-zero-shows-onboarding
 page-type-slug: finding
 title: "Degraded zero shows onboarding"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

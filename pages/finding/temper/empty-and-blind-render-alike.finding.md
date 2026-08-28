@@ -3,7 +3,7 @@ id: df206954-be2c-5945-a986-eef894108e4d
 slug: empty-and-blind-render-alike
 page-type-slug: finding
 title: "Empty and blind render alike"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
