@@ -13,6 +13,7 @@ import { useSupabase } from "@shared/supabase-rr/provider"
 import { isJson } from "../../../utils-narrow/src/is-json.ts"
 import { useCallback, useRef } from "react"
 import { toast } from "sonner"
+import { createSaveQueue, type SaveQueue } from "./save-queue.ts"
 
 export const SAVE_FAILED_MESSAGE = "This note is not saving"
 
@@ -49,7 +50,9 @@ export function useBlockPersistence({
   currentDocRef,
 }: UseBlockPersistenceArgs): (prevDoc: RichDocument, op: EditorOp) => Promise<void> {
   const client = useSupabase()
-  const chainRef = useRef<Promise<void>>(Promise.resolve())
+  const queueRef = useRef<SaveQueue | null>(null)
+  if (queueRef.current === null) queueRef.current = createSaveQueue(announceSaveFailure)
+  const queue = queueRef.current
 
   const resync = useCallback(async () => {
     await patchPage({
@@ -76,28 +79,7 @@ export function useBlockPersistence({
   )
 
   return useCallback(
-    (prevDoc: RichDocument, op: EditorOp) => {
-      // The edit after this one waits on `gate`, never on `next`. A handler
-      // attached to `next` marks its rejection handled, and the global
-      // `unhandledrejection` listener — the one route a browser failure has to
-      // an error page — would then never hear that the write did not land.
-      let open: () => void = () => undefined
-      const gate = new Promise<void>((resolve) => {
-        open = resolve
-      })
-      const next = chainRef.current.then(async () => {
-        try {
-          await runOne(prevDoc, op)
-        } catch (cause) {
-          announceSaveFailure()
-          throw cause
-        } finally {
-          open()
-        }
-      })
-      chainRef.current = gate
-      return next
-    },
-    [runOne]
+    (prevDoc: RichDocument, op: EditorOp) => queue.enqueue(() => runOne(prevDoc, op)),
+    [queue, runOne]
   )
 }
