@@ -13,9 +13,7 @@ parent-slug: astra-pages-system
 - Nothing reaches the dead port 8787: `shared/pages-query/src/index.ts:7-8`, `readouts/ask-over-http.ts:7`, `tools/lib/ci-container-dispatcher/container-manifest.ts:28,96`.
 - `infra/k8s/src/page-query-service/` and `pages/workflow-template/workflow-page-query-service.workflow-template.md` are gone with the service they deploy.
 - `shared/pages-access/`'s thirteen stale documents are gone, describing a PostgREST the code no longer has.
-- `tools/lib/page-href.ts` is gone, byte-identical to `shared/pages-url/src/index.ts`.
 - The eleven single-importer files in `tools/lib` are folded into their sole callers.
-- One `page-seq` remains, not two.
 - `page/page-type/unsplittable.ts` reads page types through `registryOf` rather than its own glob and frontmatter reader.
 - `graph/frontmatter-at/` and `graph/page-index/` are gone, the page index doing its own caching.
 - `tools/lib/page-expression.ts`, `page-expression-function.ts`, `page-expression-value.ts` and `tools/tests/formula-conformance/` are gone, replaced by `pages-system/formula/`.
@@ -45,7 +43,7 @@ Opened 2026-08-28 from a survey of every competing implementation, to hold the t
 
 **`expression` is dropped three hops above `shared/pages-access/`.** `tools/lib/page-query-shape.ts:99-109` and `shared/pages-query/src/ask.ts:203-213` each build a property definition out of a hand-listed nine fields that do not include it, so `file-property-defs.ts:88-100` is the third link in a three-link break rather than the break. Nothing parse-fails and nothing falls back: `isComputed` reads false, so the value passes through untouched. The successor sets `expression` at all three points or at none. 15 of the 74 are written in the formula language of `{key}` references, all on the `name` property, so whatever starts parsing meets two languages in one field.
 
-**The two `page-seq` forks differ in mechanism, not only root.** `tools/lib/page-seq.ts:84-123` spawns a subprocess through the edit gate; `page/page-seq.ts:79-91` lands in-process via `landFiles`. A survivor targeting the wrong repo reads a stale counter, and `takeSeqOf` then hands back a seq already spent — which creates a colliding page rather than refusing.
+**Seq allocation stands above the gate, and `landFiles` stands below it.** `repo/land/land.ts:271` runs `akashaGated` from `land` alone, so a caller reaching `landFiles` directly moves a `next-seq` counter with nothing checking it. `tools/lib/page-seq.ts` takes every seq by spawning the edit command, which is why it is the one that stands; wherever it moves next, it moves above the gate.
 
 **Importer counts, for judging cost:** `page/` 388, `shared/pages-core/` 337, `shared/pages-ui/` 140, `shared/pages-access/` 156, `tools/lib/page-*` 119, `shared/pages-query/` 115.
 
