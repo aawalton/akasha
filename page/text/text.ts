@@ -4,8 +4,6 @@ import { type Frontmatter, parseFrontmatter } from "../frontmatter.ts"
 
 export const NONE = "none"
 
-export const PAGE_TYPE_SLUG = "page-type-slug"
-
 /**
  * NULL MEANS THE FILE IS NOT THERE, and nothing else.
  *
