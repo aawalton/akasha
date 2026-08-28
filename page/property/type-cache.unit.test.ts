@@ -91,20 +91,32 @@ test("a different chain yields a different key", () => {
 
 test("an untracked page type yields no key", () => {
   const root = repo()
-  writeFileSync(`${root}/pages/page-type/ghost.md`, "---\nextends-slug: page\n---\n")
+  writeFileSync(`${root}/pages/page-type/ghost.page-type.md`, "---\nextends-slug: page\n---\n")
   expect(keyFor(treeAt(root), CHAIN)).toBeNull()
 })
 
 test("an untracked property definition yields no key", () => {
   const root = repo()
-  writeFileSync(`${root}/pages/page-property-definition/ghost.md`, "---\nkey: ghost\n---\n")
+  writeFileSync(`${root}/pages/page-property-definition/ghost.page-property-definition.md`, "---\nkey: ghost\n---\n")
   expect(keyFor(treeAt(root), CHAIN)).toBeNull()
 })
 
 test("an untracked property type yields no key", () => {
   const root = repo()
-  writeFileSync(`${root}/pages/page-property-type/ghost.md`, "---\nkey: ghost\n---\n")
+  writeFileSync(`${root}/pages/page-property-type/ghost.page-property-type.md`, "---\nkey: ghost\n---\n")
   expect(keyFor(treeAt(root), CHAIN)).toBeNull()
+})
+
+test("an untracked declaration file yields a key still", () => {
+  const root = repo()
+  writeFileSync(`${root}/page/stands.d.ts`, "export declare const A: number\n")
+  expect(keyFor(treeAt(root), CHAIN)).toMatch(/^[0-9a-f]{64}$/)
+})
+
+test("an untracked file beside a page that is no page yields a key still", () => {
+  const root = repo()
+  writeFileSync(`${root}/pages/page-type/ghost.page-type.md.staged`, "---\nextends-slug: page\n---\n")
+  expect(keyFor(treeAt(root), CHAIN)).toMatch(/^[0-9a-f]{64}$/)
 })
 
 test("an ignored file yields a key still", () => {

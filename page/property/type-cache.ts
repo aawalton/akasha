@@ -43,6 +43,18 @@ export const ANSWER_SEEDS: readonly string[] = ["page/property/frontmatter.ts", 
 
 const IGNORE_AT = ".gitignore"
 
+/**
+ * Every glob naming pages an answer is worked out from.
+ *
+ * A FOLDER IS WHERE AN INPUT STANDS; A GLOB IS WHAT AN INPUT IS. The untracked check asks over
+ * these rather than over the folders holding them, so a file standing beside a page without being
+ * one moves nothing.
+ */
+const INPUT_GLOBS: readonly string[] = [...PROPERTY_GLOBS, PAGE_PROPERTY_TYPE_GLOB, ...PAGE_TYPE_GLOBS]
+
+/** A pathspec dropping declaration files, which no runtime loads and no answer is read from. */
+const NOT_LOADED = ":(exclude,glob)**/*.d.ts"
+
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
 interface Ground {
@@ -102,10 +114,27 @@ function recordedFor(root: string, named: readonly string[]): readonly string[] 
   return oids.length === named.length ? oids : null
 }
 
-function matchesHead(root: string, named: readonly string[]): boolean {
+/**
+ * The pathspec the untracked check runs over: what an untracked file would have to BE to move an
+ * answer, rather than only where it would have to stand.
+ *
+ * AN UNTRACKED FILE THAT IS NOT AN INPUT MOVES NO ANSWER, and refusing the ground over one costs a
+ * recomputation of every page type in the repository. Asked over the FOLDERS this refused on 68
+ * files no answer reads — emitted `.d.ts` declarations, which no runtime loads, and a `.staged`
+ * leftover matching no page glob — and the cache stood off for fifteen hours on them.
+ *
+ * A PAGE THAT IS REALLY THERE STILL REFUSES THE GROUND. An untracked page is an input the HEAD tree
+ * oids cannot see, so the globs stay, and a case for each kind of page holds that.
+ */
+function looseIn(root: string, code: readonly string[]): readonly string[] {
+  const globs = [...new Set(INPUT_GLOBS)].sort().filter((one) => existsSync(`${root}/${folderIn(one)}`))
+  return [...globs.map((one) => `:(glob)${one}`), ...code, NOT_LOADED]
+}
+
+function matchesHead(root: string, named: readonly string[], loose: readonly string[]): boolean {
   if (gitCapped(root, ["diff-index", "--quiet", "HEAD", "--", ...named]).code !== 0) return false
-  const loose = gitCapped(root, ["ls-files", "--others", "--exclude-standard", "--", ...named])
-  return loose.code === 0 && loose.stdout === ""
+  const others = gitCapped(root, ["ls-files", "--others", "--exclude-standard", "--", ...loose])
+  return others.code === 0 && others.stdout === ""
 }
 
 function blobsUnder(root: string, folders: readonly string[]): ReadonlyMap<string, string> | null {
@@ -130,7 +159,7 @@ function groundOver(root: string): Ground | null {
   const named = [...foldersIn(root), ...code, IGNORE_AT]
   const recorded = recordedFor(root, named)
   if (recorded === null) return null
-  if (!matchesHead(root, [...named, ...types])) return null
+  if (!matchesHead(root, [...named, ...types], looseIn(root, code))) return null
   const blobs = blobsUnder(root, types)
   if (blobs === null) return null
   const inputs = named.map((at, index) => `${at}:${recorded[index]}`)
