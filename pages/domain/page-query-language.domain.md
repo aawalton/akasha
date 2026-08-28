@@ -16,8 +16,6 @@ required-reading-slugs:
 
 A page query is written in page properties alone.
 
-A page query states values, never expressions.
-
 A page query joins its tests with and, and has no or.
 
 A page query tests one page at a time.
@@ -27,6 +25,10 @@ A page query compares a value by the type its property declares.
 A page query either counts by properties or reduces one, never both.
 
 A page query names the arguments it takes, and writes `$` and one's name where a value would stand.
+
+A page query names one page type, and where it expands means that one with every page type beneath it.
+
+A ring among page types is refused when a page query expanding one is checked.
 
 # Intent
 
