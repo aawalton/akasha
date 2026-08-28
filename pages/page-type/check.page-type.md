@@ -20,7 +20,7 @@ sequence-slugs:
 
 A check is handed what it says it needs and nothing more.
 
-A check judging its author is handed the writer, and the tree as it was before.
+A check judges the code, never its author.
 
 Nothing holds a body a program decided to a standard written for an author.
 
