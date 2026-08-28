@@ -1,5 +1,6 @@
 
 import { existsSync } from "node:fs"
+import { scanGlob } from "../../page/glob/glob.ts"
 import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
@@ -30,7 +31,7 @@ function initiativeFiles(root: string): readonly string[] {
   const found: string[] = []
   for (const dir of PLACES) {
     if (!existsSync(`${root}/${dir}`)) continue
-    for (const name of new Bun.Glob("**/*.md").scanSync({ cwd: `${root}/${dir}` })) {
+    for (const name of scanGlob("**/*.md", `${root}/${dir}`)) {
       const at = `${dir}/${name}`
       if (!isAttachmentFile(at)) found.push(at)
     }

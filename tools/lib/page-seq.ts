@@ -1,9 +1,35 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { spawnSync } from "node:child_process"
+import { accessSync, constants, existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
+
+/** How much one spawned call may hand back. Node caps this at a megabyte where bun does not. */
+const OUTPUT_CEILING = 64 * 1024 * 1024
+
+/**
+ * The runtime a TypeScript tool is run with.
+ *
+ * `process.execPath` NAMES BUN ONLY UNDER BUN. Under node — which the editor's extension host is —
+ * it names the editor's own binary, and handing that a `.ts` path runs nothing at all. What this
+ * spawns is TypeScript either way, so the runner has to be bun wherever the call comes from.
+ */
+function runner(): string {
+  if (process.versions.bun !== undefined) return process.execPath
+  for (const dir of (process.env["PATH"] ?? "").split(":")) {
+    if (dir === "") continue
+    const at = join(dir, "bun")
+    try {
+      accessSync(at, constants.X_OK)
+      return at
+    } catch {
+      continue
+    }
+  }
+  throw new Error("no `bun` is on PATH, and what this runs is TypeScript")
+}
 
 const SCRATCH_ROOT = "/var/tmp"
 
@@ -46,11 +72,12 @@ interface Advance {
 }
 
 function uncommitted(relPath: string): boolean {
-  const proc = Bun.spawnSync(
-    ["git", "-C", rootFor(resolveRoots(), AKASHA), "status", "--porcelain", "--", relPath],
-    { stdout: "pipe", stderr: "pipe" }
+  const proc = spawnSync(
+    "git",
+    ["-C", rootFor(resolveRoots(), AKASHA), "status", "--porcelain", "--", relPath],
+    { maxBuffer: OUTPUT_CEILING, stdio: ["ignore", "pipe", "pipe"] }
   )
-  if ((proc.exitCode ?? 1) !== 0) return false
+  if (proc.status !== 0) return false
   return new TextDecoder().decode(proc.stdout ?? new Uint8Array()).trim() !== ""
 }
 
@@ -66,9 +93,9 @@ function advance(source: SeqSource, seq: number): Advance {
       new_string: `${NEXT_SEQ_KEY}: ${seq + 1}`,
     })
   )
-  const proc = Bun.spawnSync(
+  const proc = spawnSync(
+    runner(),
     [
-      process.execPath,
       ...toolArgv(
         "edit.ts",
         [
@@ -83,12 +110,12 @@ function advance(source: SeqSource, seq: number): Advance {
         root
       ),
     ],
-    { cwd: root, stdout: "pipe", stderr: "pipe", env: { ...process.env } }
+    { cwd: root, maxBuffer: OUTPUT_CEILING, stdio: ["ignore", "pipe", "pipe"], env: { ...process.env } }
   )
-  const decode = (raw: Uint8Array | null): string =>
-    raw === null ? "" : new TextDecoder().decode(raw)
+  const decode = (raw: Uint8Array | null | undefined): string =>
+    raw === null || raw === undefined ? "" : new TextDecoder().decode(raw)
   const run = {
-    code: proc.exitCode ?? 1,
+    code: proc.status ?? 1,
     output: `${decode(proc.stdout)}${decode(proc.stderr)}`.trim(),
   }
   rmSync(scratch, { recursive: true, force: true })
