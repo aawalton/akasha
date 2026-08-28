@@ -11,7 +11,7 @@ import {
   received,
   refused,
 } from "./shape-core.ts"
-import { LiteralShape } from "./shape-scalar.ts"
+import type { LiteralShape } from "./shape-scalar.ts"
 
 export type Fields = { readonly [key: string]: Shape<unknown> }
 
@@ -83,31 +83,34 @@ function parseFields(
   return issues.length > 0 ? { ok: false, issues } : held(out)
 }
 
-export class ObjectShape<F extends Fields, Out> extends Shape<Out> {
-  private readonly declaration: F
+export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
   readonly unknowns: Unknowns
+  readonly fields: Fields
+  strict(): ObjectShape<F, Struct<F>>
+  passthrough(): ObjectShape<F, LooseStruct<F>>
+}
 
-  constructor(declaration: F, unknowns: Unknowns) {
-    super((value, path) => parseFields(declaration, unknowns, value, path) as Outcome<Out>)
-    this.declaration = declaration
-    this.unknowns = unknowns
-  }
+export function ObjectShape<F extends Fields, Out>(
+  declaration: F,
+  unknowns: Unknowns
+): ObjectShape<F, Out> {
+  return {
+    ...Shape<Out>((value, path) => parseFields(declaration, unknowns, value, path) as Outcome<Out>),
+    unknowns,
+    fields: declaration,
 
-  get fields(): Fields {
-    return this.declaration
-  }
+    strict() {
+      return ObjectShape<F, Struct<F>>(declaration, "strict")
+    },
 
-  strict(): ObjectShape<F, Struct<F>> {
-    return new ObjectShape(this.declaration, "strict")
-  }
-
-  passthrough(): ObjectShape<F, LooseStruct<F>> {
-    return new ObjectShape(this.declaration, "loose")
+    passthrough() {
+      return ObjectShape<F, LooseStruct<F>>(declaration, "loose")
+    },
   }
 }
 
 export function array<T>(element: Shape<T>): Shape<T[]> {
-  return new Shape((value, path) => {
+  return Shape((value, path) => {
     if (!Array.isArray(value)) {
       return refused(path, "invalid_type", `Invalid input: expected array, received ${received(value)}`)
     }
@@ -125,7 +128,7 @@ export function array<T>(element: Shape<T>): Shape<T[]> {
 type TupleOut<M extends readonly Shape<unknown>[]> = { -readonly [K in keyof M]: Infer<M[K]> }
 
 export function tuple<const M extends readonly Shape<unknown>[]>(items: M): Shape<TupleOut<M>> {
-  return new Shape((value, path) => {
+  return Shape((value, path) => {
     if (!Array.isArray(value)) {
       return refused(path, "invalid_type", `Invalid input: expected tuple, received ${received(value)}`)
     }
@@ -147,7 +150,7 @@ export function tuple<const M extends readonly Shape<unknown>[]>(items: M): Shap
 }
 
 export function record<V>(keys: Shape<string>, values: Shape<V>): Shape<Record<string, V>> {
-  return new Shape((value, path) => {
+  return Shape((value, path) => {
     if (!isObjectLike(value)) {
       return refused(path, "invalid_type", `Invalid input: expected record, received ${received(value)}`)
     }
@@ -169,7 +172,7 @@ export function record<V>(keys: Shape<string>, values: Shape<V>): Shape<Record<s
 }
 
 export function union<const M extends readonly Shape<unknown>[]>(members: M): Shape<Infer<M[number]>> {
-  return new Shape((value, path) => {
+  return Shape((value, path) => {
     for (const member of members) {
       const outcome = member.run(value, path)
       if (outcome.ok) return held(outcome.value as Infer<M[number]>)
@@ -180,21 +183,27 @@ export function union<const M extends readonly Shape<unknown>[]>(members: M): Sh
 
 type Tagged = Shape<unknown> & { readonly fields: Fields }
 
+function literalIn(marker: Shape<unknown> | undefined): LiteralShape<string> | undefined {
+  if (marker === undefined) return undefined
+  if (!("value" in marker) || typeof marker.value !== "string") return undefined
+  return marker as LiteralShape<string>
+}
+
 export function discriminatedUnion<const M extends readonly Tagged[]>(
   key: string,
   members: M
 ): Shape<Infer<M[number]>> {
   const byTag = new Map<string, Shape<unknown>>()
   for (const member of members) {
-    const marker = member.fields[key]
-    if (!(marker instanceof LiteralShape)) {
+    const marker = literalIn(member.fields[key])
+    if (marker === undefined) {
       throw new Error(`shape.discriminatedUnion: a member declares no literal \`${key}\` to sort it by`)
     }
     byTag.set(marker.value, member)
   }
   const expected = [...byTag.keys()].map((tag) => `'${tag}'`).join(" | ")
 
-  return new Shape((value, path) => {
+  return Shape((value, path) => {
     if (!isObjectLike(value)) {
       return refused(path, "invalid_type", `Invalid input: expected object, received ${received(value)}`)
     }
@@ -208,7 +217,7 @@ export function discriminatedUnion<const M extends readonly Tagged[]>(
 }
 
 export const object = <F extends Fields>(fields: F): ObjectShape<F, Struct<F>> =>
-  new ObjectShape(fields, "strip")
+  ObjectShape<F, Struct<F>>(fields, "strip")
 
 export const looseObject = <F extends Fields>(fields: F): ObjectShape<F, LooseStruct<F>> =>
-  new ObjectShape(fields, "loose")
+  ObjectShape<F, LooseStruct<F>>(fields, "loose")

@@ -3,7 +3,7 @@ import { Shape } from "../shape-core.ts"
 import { DEFAULT_DOWNSTREAM_KEEPALIVE_MS } from "./keepalive.ts"
 
 function preprocess<T>(change: (value: unknown) => unknown, inner: Shape<T>): Shape<T> {
-  return new Shape((value, path) => inner.run(change(value), path), inner.acceptsAbsent)
+  return Shape((value, path) => inner.run(change(value), path), inner.acceptsAbsent)
 }
 
 const blankIsAbsent = (value: unknown): unknown =>

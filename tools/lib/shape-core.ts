@@ -47,79 +47,80 @@ export function assign(target: Record<string, unknown>, key: string, value: unkn
   target[key] = value
 }
 
-export class Shape<T> {
-  readonly run: (value: unknown, path: ShapePath) => Outcome<T>
+type Runs<T> = (value: unknown, path: ShapePath) => Outcome<T>
+
+export type Shape<T> = {
+  readonly run: Runs<T>
   readonly acceptsAbsent: boolean
+  parse(value: unknown): T
+  safeParse(value: unknown): ShapeResult<T>
+  optional(): Shape<T | undefined>
+  nullable(): Shape<T | null>
+  default(fallback: T): Shape<T>
+  catch(fallback: T): Shape<T>
+  refine(holds: (value: T) => boolean, options: { readonly message: string }): Shape<T>
+  transform<U>(change: (value: T) => U): Shape<U>
+  pipe<U>(next: Shape<U>): Shape<U>
+}
 
-  constructor(
-    run: (value: unknown, path: ShapePath) => Outcome<T>,
-    acceptsAbsent = false
-  ) {
-    this.run = run
-    this.acceptsAbsent = acceptsAbsent
-  }
-
-  parse(value: unknown): T {
-    const outcome = this.run(value, [])
-    if (outcome.ok) return outcome.value
-    throw new ShapeError(outcome.issues)
-  }
-
-  safeParse(value: unknown): ShapeResult<T> {
-    const outcome = this.run(value, [])
-    return outcome.ok
-      ? { success: true, data: outcome.value }
-      : { success: false, error: new ShapeError(outcome.issues) }
-  }
-
-  optional(): Shape<T | undefined> {
-    return new Shape<T | undefined>(
-      (value, path) => (value === undefined ? held(undefined) : this.run(value, path)),
-      true
-    )
-  }
-
-  nullable(): Shape<T | null> {
-    return new Shape<T | null>(
-      (value, path) => (value === null ? held(null) : this.run(value, path)),
-      this.acceptsAbsent
-    )
-  }
-
-  default(fallback: T): Shape<T> {
-    return new Shape(
-      (value, path) => (value === undefined ? held(fallback) : this.run(value, path)),
-      true
-    )
-  }
-
-  catch(fallback: T): Shape<T> {
-    return new Shape((value, path) => {
-      const outcome = this.run(value, path)
-      return outcome.ok ? outcome : held(fallback)
-    }, true)
-  }
-
-  refine(holds: (value: T) => boolean, options: { readonly message: string }): Shape<T> {
-    return new Shape((value, path) => {
-      const outcome = this.run(value, path)
-      if (!outcome.ok) return outcome
-      return holds(outcome.value) ? outcome : refused(path, "custom", options.message)
-    }, this.acceptsAbsent)
-  }
-
-  transform<U>(change: (value: T) => U): Shape<U> {
-    return new Shape((value, path) => {
-      const outcome = this.run(value, path)
-      return outcome.ok ? held(change(outcome.value)) : outcome
-    }, this.acceptsAbsent)
-  }
-
-  pipe<U>(next: Shape<U>): Shape<U> {
-    return new Shape((value, path) => {
-      const outcome = this.run(value, path)
-      return outcome.ok ? next.run(outcome.value, path) : outcome
-    }, this.acceptsAbsent)
+export function Shape<T>(run: Runs<T>, acceptsAbsent = false): Shape<T> {
+  return {
+    run,
+    acceptsAbsent,
+    parse(value) {
+      const outcome = run(value, [])
+      if (outcome.ok) return outcome.value
+      throw new ShapeError(outcome.issues)
+    },
+    safeParse(value) {
+      const outcome = run(value, [])
+      return outcome.ok
+        ? { success: true, data: outcome.value }
+        : { success: false, error: new ShapeError(outcome.issues) }
+    },
+    optional() {
+      return Shape<T | undefined>(
+        (value, path) => (value === undefined ? held(undefined) : run(value, path)),
+        true
+      )
+    },
+    nullable() {
+      return Shape<T | null>(
+        (value, path) => (value === null ? held(null) : run(value, path)),
+        acceptsAbsent
+      )
+    },
+    default(fallback) {
+      return Shape(
+        (value, path) => (value === undefined ? held(fallback) : run(value, path)),
+        true
+      )
+    },
+    catch(fallback) {
+      return Shape((value, path) => {
+        const outcome = run(value, path)
+        return outcome.ok ? outcome : held(fallback)
+      }, true)
+    },
+    refine(holds, options) {
+      return Shape((value, path) => {
+        const outcome = run(value, path)
+        if (!outcome.ok) return outcome
+        return holds(outcome.value) ? outcome : refused(path, "custom", options.message)
+      }, acceptsAbsent)
+    },
+    transform<U>(change: (value: T) => U) {
+      return Shape<U>((value, path) => {
+        const outcome = run(value, path)
+        return outcome.ok ? held(change(outcome.value)) : outcome
+      }, acceptsAbsent)
+    },
+    pipe<U>(next: Shape<U>) {
+      return Shape<U>((value, path) => {
+        const outcome = run(value, path)
+        return outcome.ok ? next.run(outcome.value, path) : outcome
+      }, acceptsAbsent)
+    },
   }
 }
 
