@@ -5,6 +5,7 @@
 import * as vscode from 'vscode';
 import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
 import { recordObservation } from '../../seat/observation-store.ts';
+import { dropDerivers } from '../../../../tools/lib/deriver-hold.ts';
 import { createSettledRefresh } from '../settled-refresh.ts';
 import { countPages, countRows, readPageTree } from "./harness.ts"
 import { type PageNode } from "./assemble.ts";
@@ -170,6 +171,16 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
 	const settled = createSettledRefresh(SETTLE_MS, refresh);
 
+	// WHAT MAKES A HELD ANSWER WRONG IS A PAGE MOVING, AND THIS IS WHAT REPORTS IT. The page
+	// queries under this panel are held across calls so a refresh costs almost nothing, and the
+	// bound on that hold is a timer in `extension.ts` — a safety net for a change nothing watches,
+	// not the thing that keeps it honest. Dropping here, before the settle rather than after it,
+	// is what lets the hold be long: the read that follows works the pages out again.
+	const moved = (why: string) => (): void => {
+		dropDerivers();
+		settled.request(why);
+	};
+
 	/**
 	 * Watches the instructions repository, so a document written anywhere in it re-reads this view.
 	 *
@@ -196,9 +207,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 			watcher,
 			// ALL THREE, because a page type arrives as a created file and leaves as a deleted one, and
 			// a view that answered only to edits would hold a page type that is gone.
-			watcher.onDidChange(() => settled.request('written')),
-			watcher.onDidCreate(() => settled.request('added')),
-			watcher.onDidDelete(() => settled.request('removed'))
+			watcher.onDidChange(moved('written')),
+			watcher.onDidCreate(moved('added')),
+			watcher.onDidDelete(moved('removed'))
 		);
 		output.appendLine(`watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles`);
 		return undefined;

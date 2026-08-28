@@ -38,10 +38,12 @@ const FEATURE_TIMEOUT_MS = 20_000;
  * the same read held. A feature arming it would be a feature deciding for the others, which is the
  * one thing the seven are kept apart to prevent.
  *
- * WHAT KEEPS IT HONEST is that a panel drops what it holds the moment a watcher says the files
- * moved, so this bound covers only a change no watcher reports.
+ * WHAT KEEPS IT HONEST is that each panel drops what is held the moment its watcher says a page
+ * moved, so this bound is the safety net for a change nothing watches rather than the thing the
+ * answers are kept fresh by. Held for five seconds it expired inside a single round of the four
+ * panels, which take about six seconds cold, so every one of them paid the cold price forever.
  */
-const HOLD_MS = 5_000;
+const HOLD_MS = 60_000;
 
 /**
  * The eight, and they are independent of one another.
