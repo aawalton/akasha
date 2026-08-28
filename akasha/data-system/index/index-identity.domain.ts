@@ -6,12 +6,13 @@ export const indexIdentity = {
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
   design: [
-    "`identity/{scopePageTypeSlug}/{identityPropertySlug}/{value}.jsonl` answers with the page carrying that value.",
-    "The scope is the page type the identifier is unique within; `page` is unique across every page.",
+    "An identity file is found by scope, then property, then value.",
+    "The scope is the page type an identifier is unique within.",
     "Only the `page` page type declares an identifier unique across every page.",
-    "A line carries the page's path and its id, so a slug reaches an id without opening the page.",
+    "A line carries the page's path and its id.",
+    "A slug reaches an id without opening the page.",
   ],
   condition: [
-    "One file holds one line; a second line is two pages claiming one identifier.",
+    "One file holds one line.",
   ],
 } as const satisfies Domain
