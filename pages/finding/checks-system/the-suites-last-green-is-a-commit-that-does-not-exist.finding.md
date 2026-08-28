@@ -6,9 +6,9 @@ domain-slug: domain/checks-system
 
 # Claim
 
-The commit the test suite treats as its last green is not in this repository and cannot be. It names a history the repository merge left behind, so every run since that merge has fallen back to running every test, and will keep doing so until someone resets the file.
+The commit the test suite treats as its last green is not in this repository and cannot be. It names a history the repository merge left behind, so every run since that merge has asked for the whole suite, and will keep doing so until someone resets the file.
 
-The fallback is the safe direction and the suite is not wrong to take it. What is wrong is that a permanent condition is reported in the words of a transient one, and the cost is paid on every run by everyone.
+The suite is then cut off by its own deadline partway through. It says so. What it does not say is why, because the reason is a sentence that reads as a passing git hiccup.
 
 # Evidence
 
@@ -34,8 +34,25 @@ WHAT HAPPENS THEN. `selection` at `:181-184`:
 
 `all` is `{ files: tests, considered: tests }` — the whole suite. Every run takes this branch, and will take it forever: nothing in the flow rewrites `green` on a failed read, so the condition cannot clear itself.
 
-THE MESSAGE IS THE DEFECT. Its wording — "git could not read what changed" — describes a read that failed, which is what a transient fault looks like: a mid-rebase tree, a gc, a race. It is the sentence you skip. The true statement is that the recorded commit does not exist and no future run will change that. A seat watching this line for hours across four commits read it as noise, correctly, because it is written as noise.
+THE CONSEQUENCE, SETTLED. The run is then bounded by a deadline, not by the work: `suite-runs.ts:146` takes `deadlineAt = repo.deadlineAt ?? Date.now() + CHECKS_CEILING_MS` and `:149` computes each batch's budget from what is left. Asking for all 581 files rather than a selection means the budget runs out first, and the suite stops partway.
 
-NOT ESTABLISHED, AND IT MATTERS. Another seat reports the suite at 123.0s against a 120s ceiling, with a spread of 0.3s across three idle readings and near-total insensitivity to load. Running the whole suite rather than a selection is an obvious candidate cause and this finding does not claim it, because the same seat also reports `72 of 581 files reached` — which is the wording of the **success** path at `:194-195`, not the fallback. Those two lines cannot come from one call to `selection`, which returns exactly one reason. So either two roots are being measured, or two runs are being compared. Settling that is the discriminating measurement and it has not been taken.
+Measured by the seat that owns the suite timing, on an idle box:
 
-WHY NOT REPAIRED HERE. The repair is to write a commit into `green`, and that asserts the suite passed at that commit. Nobody has established which commit that is. A wrong value is worse than the present state by exactly the amount that matters: today every test runs, and a bad green makes tests **not** run — the one failure this whole area is trying to avoid. Deleting the file reaches the same behaviour with an honest message (`:180`, "no commit is on record as green"), which may be the right act, but it is still a decision about what the suite's baseline is rather than a defect to quietly correct.
+    load 6.24   123.1s      against a 120s ceiling
+    load 7.84   122.8s
+    load 8.94   123.0s
+    under load ~38:  123.3s, 124.9s
+
+A 0.3s spread across three idle readings, and near-total insensitivity to load. That is the signature of a deadline rather than a workload: a fixed amount of work stretches when the box is busy, and a deadline does not. The 123s is the ceiling being hit, not a suite that takes 123s.
+
+ONE LINE, NOT TWO CALLS. An earlier draft of this finding left open whether two different runs were being compared, because the reported line appeared to carry both the success wording and the fallback wording. It carries one call. `report` at `suite-runs.ts:84` builds `${tally.tests} test(s) across ${tally.files} of ${asked} file(s)`, and `:167` appends `— ${chosen.reason}` to that detail. So `780 test(s) across 72 of 581 file(s) — git could not read what changed since d9e356a9` is a single line: 72 files reached, 581 asked for because `green` is dead, and the reason appended after the dash. That question is closed.
+
+THE SUITE IS NOT SILENT ABOUT THIS, and the finding should not say it is. `report` at `:95-99` computes `unreached = asked - tally.files` and pushes a `suite-unfinished` refusal naming both numbers when it is above zero. Somebody thought about the unfinished case and reports it. The gap is only that the *cause* sits after an em-dash in the words of a transient fault.
+
+THE MESSAGE IS THE DEFECT. "git could not read what changed" is what a passing fault looks like: a mid-rebase tree, a gc, a race. It is the sentence you skip. The true statement is that the recorded commit does not exist and no future run will change that. A seat watching this line for hours across seven runs read it as noise, correctly, because it is written as noise.
+
+SEVEN RUNS, SEVEN FALLBACKS. Every run taken across the night took this branch — four commits hours apart, plus three quiet-box runs at `089353b6`, `457a6017` and `246f7564`. The success branch was not reached once.
+
+WHY NOT REPAIRED HERE. The repair is to write a commit into `green`, and that asserts the suite passed at that commit. Nobody has established which commit that is. A wrong value is worse than the present state by exactly the amount that matters: today every test is asked for, and a bad green makes tests **not** run — the one failure this whole area is trying to avoid. Deleting the file reaches the same behaviour with an honest message (`:180`, "no commit is on record as green"), which may be the right act, but it is still a decision about what the suite's baseline is rather than a defect to quietly correct.
+
+NOT MEASURED. What the suite costs, or how many of the 581 it reaches, once `green` names a commit that exists. Every timing here was taken with the fallback active, so none of them is a reading of the suite's actual runtime.
