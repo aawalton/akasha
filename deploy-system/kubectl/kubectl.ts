@@ -14,3 +14,17 @@ export function runKubectl(argv: readonly string[]): Ran {
     stderr: new TextDecoder().decode(ran.stderr),
   }
 }
+
+export function runKubectlOn(argv: readonly string[], input: string): Ran {
+  const ran = Bun.spawnSync(["kubectl", ...argv], {
+    stdin: new TextEncoder().encode(input),
+    stdout: "pipe",
+    stderr: "pipe",
+  })
+  return {
+    argv,
+    code: ran.exitCode,
+    stdout: new TextDecoder().decode(ran.stdout),
+    stderr: new TextDecoder().decode(ran.stderr),
+  }
+}
