@@ -1,77 +1,23 @@
-# Moved here from packages/books/all-about-alan/src/sl-simulation.py in the code
-# repository on 2026-08-15, when the boundary reading found that package reached by
-# nothing deployed. The book content left for this repo on 2026-08-03 and this file
-# did not travel with it.
-#
-# It sits beside automaticity-systems.md because that note's "quantitative shape"
-# section cites this model for its three numbers. Neither is worth much alone: the
-# note without the model is an unsourced claim, the model without the note is a
-# simulation of nothing in particular.
-
-# Two-pathway learning model for the slow-start / higher-ceiling signature.
-#
-# Models two learners on the same skill:
-#   - SL-intact (typical): implicit pathway saturates near a residual-error
-#     floor, and that saturation suppresses further deliberate practice
-#     (Ericsson's "arrested development" / premature automation).
-#   - SL-absent (Alan, on skills that lean on Systems B or D): no implicit
-#     accelerator fires, so the deliberate pathway runs unsuppressed for the
-#     long tail and reaches a much lower error-rate floor.
-#
-# Functional form: exponential approach to asymptote on each pathway. The
-# SL-intact deliberate rate is gated by an engagement multiplier that decays
-# as implicit skill approaches its asymptote -- once the skill feels "good
-# enough," deliberate practice tapers off.
-#
-# Key parameters and their literature anchors:
-#   A_imp = 0.85      implicit-pathway asymptote (Tsay et al. 2021/2022 --
-#                     residual-error floor in implicit motor adaptation).
-#   k_imp              implicit-pathway rate (~80% of asymptote by t=200 trials).
-#   A_exp = 0.995      deliberate-pathway asymptote, no built-in floor.
-#   k_exp_base         deliberate-pathway rate, ~20x slower than implicit
-#                      (matches the 5-15x acquisition slowdown anchor;
-#                      Solomon et al. on probabilistic RL in autism).
-#   p = 2              engagement-decay exponent (steeper = harder plateau).
-#
-# Exponential-approach functional form: Heathcote, Brown & Mewhort 2000 --
-# individual-subject learning curves are exponential; group-level power-law
-# shape is a compositional artifact.
-#
-# Run: `python3 sl-simulation.py`. Prints acquisition rates, ceiling deltas,
-# the crossover trial, and a sensitivity sweep over engagement-decay,
-# acquisition slowdown, and residual-floor severity.
-#
-# Canonical home for the framework is
-# notes/automaticity-systems.md.
-
 import math
 
 N = 200000
 T = list(range(1, N+1))
 
-A_imp = 0.85                              # implicit asymptote
-k_imp = -math.log(0.2) / 200              # 80% by t=200
-A_exp = 0.995                             # explicit asymptote (no built-in floor)
-k_exp_base = -math.log(0.2) / 4000        # 20x slower base acquisition
+A_imp = 0.85
+k_imp = -math.log(0.2) / 200
+A_exp = 0.995
+k_exp_base = -math.log(0.2) / 4000
 
 skill_imp = [A_imp * (1 - math.exp(-k_imp*t)) for t in T]
 
-# SL-absent: explicit pathway runs unsuppressed for all trials
 sl_absent = [A_exp * (1 - math.exp(-k_exp_base*t)) for t in T]
 
-# SL-intact: explicit pathway exists but its effective rate decays as the implicit
-# pathway saturates (habituation -> "good enough" -> deliberate practice tapers off).
-# Multiplier = max(0.05, 1 - (skill_imp/A_imp)^p)
-# At p=2, when implicit at 50% of asymptote, deliberate runs at 75% rate; at 100%,
-# deliberate runs at 5% (residual ongoing-but-rare practice).
 p = 2
 sl_intact = []
 acc = 0.0
 for i, t in enumerate(T):
     imp = skill_imp[i]
     engagement = max(0.05, 1.0 - (imp/A_imp)**p)
-    # Effective deliberate rate -- integrate dx/dt = engagement * k_exp_base * (A_exp - x)
-    # Discretize:
     dx = engagement * k_exp_base * (A_exp - acc)
     acc += dx
     sl_intact.append(max(imp, acc))
@@ -92,7 +38,6 @@ ceiling_delta = 100 * (asymp_a - asymp_i) / asymp_i
 err_i = (1 - asymp_i) * 100
 err_a = (1 - asymp_a) * 100
 
-# Crossover
 cx = None
 for i in range(200, len(T)):
     if sl_absent[i] >= sl_intact[i]:

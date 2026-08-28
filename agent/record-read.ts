@@ -142,20 +142,6 @@ function carryInto(records: Records, byPath: ReadonlyMap<string, Moved>): number
   return carried
 }
 
-/**
- * Carrying every agent's reading of a file that moved.
- *
- * THE UNLOCKED READ IS A HINT AND NEVER WHAT LANDS. Reading inside the lock unconditionally would
- * take the lock on all of the agent pages on every mechanical landing, and `exclusive.ts` says in
- * its own docblock why a lock wait inside a hook deadline is what a caller under one must avoid. So
- * the first read only asks whether this page has anything to carry, and the answer that lands is
- * read again inside the lock.
- *
- * WHAT THE HINT COSTS IF IT IS WRONG IS ONE LOCK, taken over a page that turned out to have nothing
- * to carry. What reading it inside the lock buys is that no entry another writer landed while this
- * one waited is written back over: the snapshot taken outside was already stale by then, and landing
- * it dropped that entry with nothing saying so.
- */
 export function carryReadings(moves: readonly Moved[], pages: readonly string[]): number {
   if (moves.length === 0) return 0
   const byPath = new Map(moves.map((one) => [one.path, one]))

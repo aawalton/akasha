@@ -1,15 +1,11 @@
 import { patchPage, patchRow, writeRow } from "@shared/pages-query"
-import type { SyncResult } from "./sync-result"
-import { WRITER } from "./sync-source"
+import type { SyncResult } from "./sync-result.ts"
+import { WRITER } from "./sync-source.ts"
 
 const SYNC_RUN_SLUG = "sync-run"
 
 const SYNC_SLUG = "sync"
 
-/**
- * A run stands as a row in `<source>.runs.jsonl` beside the sync it was a pull of.
- * Which run is in flight stands on the sync itself, `fast:` and so never committed.
- */
 export async function trackSyncRun(
   source: string,
   syncFn: () => Promise<SyncResult>
