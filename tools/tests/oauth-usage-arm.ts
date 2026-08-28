@@ -1,5 +1,5 @@
 
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { mock } from "bun:test"
 import { rows } from "./oauth-usage-drive.ts"
@@ -13,6 +13,10 @@ const dir = process.argv[2] ?? `${here}../lib`
 const uncommittedAt = `${here}../../page/uncommitted/uncommitted.ts`
 
 const root = mkdtempSync(`${tmpdir()}/oauth-usage-pages-`)
+// NOT AN `afterAll`: this arm is spawned as a plain `bun` process rather than under the test
+// runner, and `afterAll` throws outside it. An exit hook is what takes the root away, and it
+// stands here rather than at the tail so a failure anywhere below still clears the root.
+process.on("exit", () => rmSync(root, { recursive: true, force: true }))
 mkdirSync(`${root}/pages/claude-account`, { recursive: true })
 for (const account of PAGED_ACCOUNTS) {
   writeFileSync(`${root}/pages/claude-account/${account}.claude-account.md`, "---\nslug: page\n---\n")
