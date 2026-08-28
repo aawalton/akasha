@@ -17,7 +17,7 @@ export const help: CommandHelp = {
     { code: 0, meaning: "systemd was asked, and answered" },
     { code: 1, meaning: "no document carries that name, or systemd refused" },
   ],
-  examples: ["ops service restart temper-watcher", "ops service restart page-query-service"],
+  examples: ["ops service restart temper-watcher"],
 }
 
 export default async function serviceRestart(args: readonly string[]): Promise<void> {
