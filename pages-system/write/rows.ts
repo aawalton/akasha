@@ -1,10 +1,9 @@
+import { namedIn } from "../read/rows.ts"
 import type { Raw } from "./held.ts"
 
 const BREAK = "\n"
 
 const MARK = String.fromCharCode(96)
-
-const NAMING: readonly string[] = ["slug", "id"]
 
 export type Row = Readonly<Record<string, Raw | readonly Raw[]>>
 
@@ -26,13 +25,7 @@ const quoted = (name: string): string => MARK + name + MARK
 
 const refused = (why: string): Composed => ({ kind: "refused", why })
 
-export const nameOf = (row: Row): string | null => {
-  for (const key of NAMING) {
-    const held = row[key]
-    if (typeof held === "string" && held.trim() !== "") return held.trim()
-  }
-  return null
-}
+export const nameOf = (row: Row): string | null => namedIn(row)
 
 const rowIn = (line: string): Row | null => {
   let held: unknown

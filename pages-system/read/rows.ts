@@ -17,7 +17,7 @@ export type RowUnread = {
   readonly unread: string
 }
 
-const namedIn = (stated: Stated): string | null => {
+export const namedIn = (stated: Stated): string | null => {
   for (const key of NAMING) {
     const held = stated[key]
     if (typeof held === "string" && held.trim() !== "") return held.trim()
