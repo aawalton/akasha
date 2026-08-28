@@ -9,6 +9,7 @@ import * as agentTree from './features/agent-tree/activate.ts';
 import * as domainTree from './features/domain-tree/activate.ts';
 import * as editorLayout from './features/editor-layout/activate.ts';
 import * as pageTree from './features/page-tree/activate.ts';
+import * as statusBar from './features/status-bar/activate.ts';
 import * as workTree from './features/work-tree/activate.ts';
 import * as terminalRename from './features/terminal-rename/activate.ts';
 import * as transcript from './features/transcript/activate.ts';
@@ -43,7 +44,7 @@ const FEATURE_TIMEOUT_MS = 20_000;
 const HOLD_MS = 5_000;
 
 /**
- * The seven, and they are independent of one another.
+ * The eight, and they are independent of one another.
  *
  * THE PAGE TREE IS AMONG THEM AGAIN. It was held out at 4.5s over twelve queries, about 90% of
  * that git subprocesses, on a thread where nothing else can run meanwhile. What cost that was not
@@ -53,13 +54,13 @@ const HOLD_MS = 5_000;
  * three out again on every ask. It carries across awaits now, and the same twelve queries answer
  * in 0.44s.
  *
- * THE STATUS BAR IS STILL NOT AMONG THEM. The same change took it from 18.1s to 2.7s, which is no
- * longer a wedged panel but is still seconds of a thread nothing else can use, and it refreshes on
- * a timer rather than on a watcher. Out on Alan's call until it is cheaper.
+ * THE STATUS BAR IS AMONG THEM AGAIN TOO, on the same finding plus one more: `git ls-files` over
+ * the whole repository ran once per readout rather than once per call. Its four groups went from
+ * 18.1s and 264 git subprocesses to 0.96s and 13. It polls every thirty seconds, so what it now
+ * takes of this thread is about three percent of it.
  *
- * WHAT KEEPS THE TREE PANELS OUT OF THAT is that the domain tree and the work tree read through
- * `runVerb` or `runOps`, which are subprocesses, so their work is off this thread whatever it
- * costs them.
+ * WHAT IS LEFT OFF THIS THREAD is the work tree, which still reads through `runOps` — a
+ * subprocess, so its work is off this thread whatever it costs.
  *
  * CHECKED RATHER THAN ASSUMED, on 2026-08-13. No feature's `activate.ts` imports
  * another feature's `activate.ts`, and none reads another's module state — each
@@ -83,11 +84,12 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 	{ name: 'domain-tree', start: async () => domainTree.activate(context) },
 	{ name: 'work-tree', start: async () => workTree.activate(context) },
 	{ name: 'page-tree', start: async () => pageTree.activate(context) },
+	{ name: 'status-bar', start: async () => statusBar.activate(context) },
 	{ name: 'editor-layout', start: async () => editorLayout.activate(context) },
 ];
 
 /**
- * Starts all seven features, each isolated from the others.
+ * Starts all eight features, each isolated from the others.
  *
  * THIS WAS SIX `await`s IN A ROW, and on 2026-08-13 that cost Alan every panel he
  * has. `terminal-rename` went first, awaited a terminal that never reported its

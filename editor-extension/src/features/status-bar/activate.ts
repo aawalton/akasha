@@ -5,6 +5,7 @@
 import * as os from 'node:os';
 import * as path from 'node:path';
 import { getEsoDayStr, getEsoResetTime } from '../../../../day/day.ts';
+import { duringOneCall } from '../../../../during-call/during-call.ts';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
 import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';
@@ -117,12 +118,19 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 		// one never blanks the others — each section renders from its own read.
 		// `readUsage` leaves the database entirely and asks the page query service,
 		// reducing the account pages the daemon writes.
-		const [daily, inbox, upkeep, usage] = await Promise.allSettled([
-			getDailyValues({ day, ask }),
-			getInboxStoplights({ day, ask }),
-			getUpkeepStoplights({ day, ask }),
-			readUsage(),
-		]);
+		// ONE CALL AROUND ALL FOUR. What a readout costs is mostly working out the cache keys its
+		// queries are held against — the file tree, the page type registry, the shape mark taken over
+		// both — and each of those is held for the length of a call and no longer. Outside one, the
+		// four groups worked all three out again per readout, in git subprocesses: measured on
+		// 2026-08-28 at 18.1s and 264 spawns, against 0.96s and 13 for the same four inside one call.
+		const [daily, inbox, upkeep, usage] = await duringOneCall(async () =>
+			Promise.allSettled([
+				getDailyValues({ day, ask }),
+				getInboxStoplights({ day, ask }),
+				getUpkeepStoplights({ day, ask }),
+				readUsage(),
+			])
+		);
 		const outcomes: ReadOutcomes = {
 			daily,
 			inbox,
