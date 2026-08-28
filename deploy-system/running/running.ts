@@ -39,16 +39,6 @@ function workloadsOf(kind: string, stdout: string): readonly Running[] {
   return found
 }
 
-/**
- * Every workload of the named kinds the cluster is running.
- *
- * THE KINDS ARE THE ONES THE PAGES NAME rather than a list written here, so a page naming a kind
- * nothing has named before is asked after on the run it arrives in.
- *
- * ONE CALL PER KIND, AND A KIND THAT COULD NOT BE READ LOSES THE WHOLE ANSWER. A set short of one
- * kind reads exactly like a cluster running none of that kind, and every page naming it would then
- * be reported as a service that is not there.
- */
 export function runningOf(kinds: readonly string[]): Reached {
   const workloads: Running[] = []
   for (const kind of kinds) {
@@ -64,13 +54,6 @@ export function runningOf(kinds: readonly string[]): Reached {
   return { reached: true, workloads }
 }
 
-/**
- * Every workload the cluster runs that no page names.
- *
- * A DEPLOYED SERVICE WITH NO PAGE IS THE ONE NOTHING ELSE REPORTS: it is emitted by no synth here,
- * so no deploy names it and no check reaches it, and it goes on running until somebody notices it
- * by hand.
- */
 export function unpaged(
   workloads: readonly Running[],
   services: readonly ClusterService[]

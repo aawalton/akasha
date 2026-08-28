@@ -1,4 +1,3 @@
-
 import { mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 
 const SPIN_MS = 5
@@ -66,15 +65,6 @@ function abandoned(lock: string, file: string): boolean {
   return holder === null ? agedOut(lock) : !running(holder)
 }
 
-/**
- * One critical section over `path`, held on a lock directory beside it.
- *
- * THE BUDGET IS THE CALLER'S TO SET, because what a refusal is worth depends on what is
- * waiting to hear it. A landing runs inside an agent hook the harness kills at ten or
- * fifteen seconds, so a lock that waits twenty never gets to speak: the hook dies first and
- * whoever reads the output is told a hook failed rather than what actually happened. A
- * caller standing under a deadline passes a budget shorter than it.
- */
 export function exclusively<T>(path: string, act: () => T, waitMs: number = WAIT_MS): T {
   const lock = `${path}.lock`
   const file = `${lock}/${HOLDER}`

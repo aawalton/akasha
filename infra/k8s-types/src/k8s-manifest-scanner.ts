@@ -1,12 +1,12 @@
-import { HOSTNAME_KEY, WORKLOAD_CLASS_KEY } from "./hostnames"
-import { ORCHESTRATOR_CACHE_REPO_PATH } from "./orchestrator-cache-locations"
-import { type ContainerResources, readContainerProbes } from "./k8s-container-probes"
+import { HOSTNAME_KEY, WORKLOAD_CLASS_KEY } from "./hostnames.ts"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "./orchestrator-cache-locations.ts"
+import { type ContainerResources, readContainerProbes } from "./k8s-container-probes.ts"
 import {
   readNodeName,
   readNodeSelector,
   readPodAffinity,
   readPodNodeAffinityKeys,
-} from "./k8s-manifest-node-targeting"
+} from "./k8s-manifest-node-targeting.ts"
 import {
   childBlock,
   type DocSpan,
@@ -16,7 +16,7 @@ import {
   type ScanError,
   splitDocs,
   unquote,
-} from "./k8s-manifest-walker"
+} from "./k8s-manifest-walker.ts"
 
 
 export interface ImageLine {
@@ -149,13 +149,6 @@ function readImageLines(lines: readonly RawLine[], span: DocSpan): readonly Imag
   return out
 }
 
-// A repo-relative TypeScript path, however the manifest spells it. Manifests carry these two
-// ways: absolute under the orchestrator cache root (`/app/repo/<rel>`, what a container command
-// runs), and bare relative (what a ConfigMap value or an `args` entry holds). This anchors on
-// neither a workspace directory name nor a leading path segment, because the flattened layout has
-// no single one to anchor on -- `infra`, `shared`, `temper` and a dozen more are all repo roots
-// now. The lookbehind keeps an unrelated absolute path such as `/etc/foo/bar.ts` out: a bare match
-// may not sit directly after a path character, so only the cache root introduces an absolute one.
 const CACHE_ROOT_ESCAPED = ORCHESTRATOR_CACHE_REPO_PATH.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 
 const REPO_TS_PATH_PATTERN = new RegExp(
@@ -230,4 +223,3 @@ export function scanManifestText(text: string): ScanResult {
 
   return { docs, errors }
 }
-

@@ -75,7 +75,6 @@ function statusesFor(
   }
 }
 
-/** One shape naming `named`, beside a check page saying what it does about a change. */
 function statusBeside(checkBody: string): FolderShapeStatus | undefined {
   return statusesFor({
     [shapeKey("one")]: shapeSaying("one", "check-slug: named\n"),
@@ -96,13 +95,11 @@ test("a shape naming a check that refuses a worktree is enforced", () => {
   expect(statusBeside(body)).toBe(ENFORCED)
 })
 
-/** An audit reports and refuses nothing, so it cannot be what tells `coded` from `enforced`. */
 test("a shape naming a check that only audits is coded", () => {
   const body = "check-on-patch: false\ncheck-on-worktree: false\ncheck-on-audit: true\n"
   expect(statusBeside(body)).toBe(CODED)
 })
 
-/** A phase a check page says nothing about is one it runs on, which is what `runsOn` answers. */
 test("a shape naming a check that stands down nowhere is enforced", () => {
   expect(statusBeside("cached: false\n")).toBe(ENFORCED)
 })
@@ -120,10 +117,6 @@ test("a shape naming no check is a hypothesis", () => {
   expect(statuses.get("one")).toBe(HYPOTHESIS)
 })
 
-/**
- * THE SHAPE PAGE IS THE SAME BYTES IN BOTH HALVES. What moves the status is the check page's own
- * flags and nothing written on the shape, which is the whole reason `status` is computed.
- */
 test("the check it names refusing a patch is what moves a shape from coded to enforced", () => {
   const shape = shapeSaying("one", "check-slug: named\n")
   const coded = statusesFor({ [shapeKey("one")]: shape, [CHECK_KEY]: checkSaying(REFUSES_NOTHING) })

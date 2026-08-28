@@ -27,26 +27,11 @@ interface Place {
   readonly glob: string
 }
 
-/**
- * Where a service page is found, as the `files` glob its page type states.
- *
- * A GLOB RATHER THAN A DIRECTORY, because a service's page is held in the service's own folder
- * beside the synth that emits it, and those folders are spread across the tree by what each
- * service is for. A directory listing would find only the ones not yet moved there.
- */
 const PLACES: readonly Place[] = [
   { where: "cluster", glob: "*.cluster-service.md" },
   { where: "workstation", glob: "*.workstation-service.md" },
 ]
 
-/**
- * Every page the glob names, asked of git rather than of the filesystem.
- *
- * WALKING THE TREE IS NOT AN OPTION: `**` over this repository descends every `node_modules`, and
- * a scan for one page type took three minutes before it was killed. Git holds the same answer as
- * an index it already keeps. A page reaches the store through a commit, so a page git does not
- * hold is a page nothing else can read either.
- */
 function pagesIn(akasha: string, place: Place): readonly string[] {
   const held = git(akasha, ["ls-files", "-z", "--", `*/${place.glob}`, place.glob])
   if (held.code !== 0) {

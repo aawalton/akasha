@@ -50,11 +50,6 @@ describe("markFor", () => {
     )
   })
 
-  /**
-   * A manifest that changed name is applied at the new path and no longer at the old, and what the
-   * cluster took from the old path is left exactly as it was. The mark must not read that as the
-   * same deploy.
-   */
   test("moves where only a path moves", () => {
     expect(markFor(AKASHA, planOf([manifest("one", "a: 1")]))).not.toBe(
       markFor(AKASHA, planOf([manifest("two", "a: 1")]))
@@ -67,10 +62,6 @@ describe("markFor", () => {
     )
   })
 
-  /**
-   * The apply order is the dependency order, and applying the same manifests in another order
-   * reaches the same cluster state. Only what is applied decides the mark.
-   */
   test("holds still where the manifests are given in another order", () => {
     const one = manifest("one", "a: 1")
     const two = manifest("two", "b: 2")

@@ -26,8 +26,6 @@ const SUPPORT_BASENAMES: ReadonlySet<string> = new Set([
   "trigger-pipeline-materialize-workflows.ts",
 ])
 
-// Flattening merged the old `<pkg>/proc/src/` segment pair into one hyphenated package name, so
-// `proc/src` no longer stands anywhere in the tree; the package directory now ends in `-proc`.
 const PROC_SRC_PATH_RE = /^(?:[^/]+\/)*[^/]+-proc\/src\/([^/]+)$/
 const PROC_SRC_DIR_PATH_RE = /^(?:[^/]+\/)*[^/]+-proc\/src\/([^/]+)\/index\.ts$/
 const PROC_SRC_BASENAME_TUPLE = z.tuple([z.string()])

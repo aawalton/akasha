@@ -1,15 +1,12 @@
 import { requireMatchPositional } from "@shared/utils-narrow/validate"
 import { z } from "zod"
-import { authenticate } from "./auth"
-import { handleCgi } from "./cgi"
-import { handlePushEvent } from "./push-event"
-import { transportRepo } from "./repos"
+import { authenticate } from "./auth.ts"
+import { handleCgi } from "./cgi.ts"
+import { handlePushEvent } from "./push-event.ts"
+import { transportRepo } from "./repos.ts"
 
 const PORT = z.coerce.number().int().positive().default(3000).parse(process.env.PORT)
 
-// The three internal endpoints below answer about the repository the pipeline runs on. The path
-// is taken from the transport's own register rather than spelled in each body, so a repository
-// that stops being the one worked in cannot go on being answered about here.
 const ANSWERED_ABOUT = transportRepo("akasha").bareRepoPath
 
 const GIT_ROUTE = /^\/([^/]+\/[^/]+\.git)\/(info\/refs|git-upload-pack|git-receive-pack)$/

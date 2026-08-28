@@ -11,24 +11,14 @@ const CHECK_PAGE_TYPE = "check"
 
 const CHECK_SLUG = "check-slug"
 
-/** A shape written down, with nothing running it. */
 export const HYPOTHESIS = "hypothesis"
 
-/** A shape a check runs, refusing nothing. */
 export const CODED = "coded"
 
-/** A shape a check refuses a change for breaking. */
 export const ENFORCED = "enforced"
 
 export type FolderShapeStatus = typeof HYPOTHESIS | typeof CODED | typeof ENFORCED
 
-/**
- * The check page a shape names, or null where it names none and where it names one that is not here.
- *
- * A SHAPE NAMES A CHECK BY ITS SLUG ALONE, because `check-slug` states `target-slug: check` and so
- * carries a stem rather than a `type/stem` pair. A value with anything else in it names no check
- * page, which is the same answer as naming nothing.
- */
 function checkNamedBy(ctx: BuildContext, at: PageAt): PageAt | null {
   const fm = frontmatterAt(ctx, at.repo, at.key)
   if (fm === null) {
@@ -44,14 +34,6 @@ function checkNamedBy(ctx: BuildContext, at: PageAt): PageAt | null {
   return found === undefined || found.length === 0 ? null : (found[0] as PageAt)
 }
 
-/**
- * How far one folder shape has got toward being enforced.
- *
- * READ OFF THE CHECK, NEVER OFF THE SHAPE. Enforcement is stated once, in the check page's own
- * `check-on-patch` and `check-on-worktree`; a shape carrying a second copy could disagree with the
- * flags that actually decide whether a change is refused, and the shape is the copy nothing would
- * catch. So `status` is a computed property: `ops write` refuses a shape page that states one.
- */
 export function statusOf(ctx: BuildContext, at: PageAt): FolderShapeStatus {
   const check = checkNamedBy(ctx, at)
   if (check === null) return HYPOTHESIS
@@ -71,13 +53,6 @@ export function statusesIn(root: string = akashaRoot()): ReadonlyMap<string, Fol
 
 const HELD = new Map<string, ReadonlyMap<string, FolderShapeStatus>>()
 
-/**
- * The status of the one shape named, worked out from the check that shape names.
- *
- * EVERY SHAPE IS READ AT ONCE AND KEPT FOR THE PROCESS. Working one shape out walks the whole page
- * index, and the deriver asks for each shape in turn, so asking per shape would walk it once per
- * shape. A process outliving an edit to a check page reads the status from before that edit.
- */
 export function statusOfShape(slug: string, root: string = akashaRoot()): FolderShapeStatus {
   const held = HELD.get(root) ?? statusesIn(root)
   HELD.set(root, held)

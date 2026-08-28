@@ -23,15 +23,6 @@ export function isCompositionRoot(workspacePath: string): boolean {
   return TEMPER_COMPOSITION_ROOTS.includes(normalized)
 }
 
-/**
- * Which tier a temper workspace is homed in, or null where it is homed in none.
- *
- * THE TIER IS THE FIRST WORD OF THE DIRECTORY NAME, not a directory of its own: every temper
- * workspace stands directly under `temper/` and carries its tier as a `shared-`, `game-` or
- * `player-` prefix. A reader expecting `temper/game/<name>` writes a segment test, which matches
- * nothing and homes every workspace in no tier — emptying the subject of the monotonicity check
- * while leaving it looking like a tree with no inversions in it.
- */
 export function tierForWorkspacePath(workspacePath: string): TemperTier | null {
   const normalized = workspacePath.replace(/\/+$/, "")
   if (!normalized.startsWith(TEMPER_PREFIX)) return null
