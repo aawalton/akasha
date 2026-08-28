@@ -1,8 +1,8 @@
 
 import { answer } from "./page-query.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { FLEET } from "./compose-seat-name.ts"
-import { type ForestRow } from "./seat-forest.ts"
+import type { ForestRow } from "./seat-forest.ts"
 import { statedProcessPresence } from "./seat-proc-key.ts"
 import { colorOfState } from "./seat-turn-color.ts"
 import { TURN_PENDING_COMPONENTS } from "./seat-turn-pending.ts"

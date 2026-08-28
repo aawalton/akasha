@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { ON_CALL_KEY } from "./frontmatter-keys.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageRelIn } from "../../page/page-types.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { type Found, documentFor } from "./seat-resolve.ts"
 import { pageFlagOf, pageTextOf } from "./seat-page-values.ts"
 

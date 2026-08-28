@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 import { pageFileIn } from "../../page/page-file.ts"
-import { akashaRoot } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import type { SeatTurnState } from "./seat-turn-state.ts"
 
 const DRAWN_AS: Record<SeatTurnState, string> = {

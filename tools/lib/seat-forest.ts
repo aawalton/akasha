@@ -1,8 +1,8 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { existsSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots } from "../../repo/roots/roots.ts"
 import { pageFromHistory } from "./seat-page-history.ts"
 import { frontmatterOf, seatIsPresent, seatPageAt, seatPagePaths } from "./seat-presence-read.ts"
 import { FLEET } from "./compose-seat-name.ts"
