@@ -18,3 +18,7 @@ A browser reaches a page query under `/api` on the app's own origin, never at a 
 A row-write takes one pass over the file holding the rows, whether it carries one row or a batch.
 
 A narrow the query cannot read is refused, never dropped.
+
+Every key a query asks for stands on every page it answers, absent where the page holds nothing under it.
+
+A query over a family reads each page type under its own declaration, never under the family head's.
