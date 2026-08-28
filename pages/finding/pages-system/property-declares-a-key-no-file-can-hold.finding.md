@@ -2,32 +2,34 @@
 id: c72b4231-a580-5bfc-bbd6-547393cc70ce
 slug: property-declares-a-key-no-file-can-hold
 page-type-slug: finding
-title: "One property document declares a key no file page can hold or read back"
+title: "The write seam drops a declared key in silence instead of refusing it"
 domain-slug: domain/pages-system
 ---
 
 # Claim
 
-`properties/temper-net-worth-snapshot-user-id.md` declares `key: userId`, and that key can never be written to a file page nor read back from one. The write seam drops it before anything reaches disk, and the read seam substitutes the row's own column for it. The document describes a property no file can hold.
+`fileValuesOf` drops every key in `SETTLED_ELSEWHERE` without saying so, including one a page type declares `required: true`. A caller hands `userId` to a file-backed write, the write reports done, and the value is gone. Nothing is bleeding today only because the one declaration that collides belongs to a page type that does not go through this seam — so the guard against writing it is an accident of routing rather than anything stated.
+
+The original claim on this page, that the key can never be written to a file page nor read back from one, is false. It is written and read back. The measurement below was taken against the frontmatter seams on a page type that has no frontmatter pages.
 
 # Evidence
 
-Run on 2026-08-20 against the working tree, not read.
+Measured 2026-08-27 at HEAD.
 
-`fileValuesOf("write", "temper-net-worth-snapshot", { userId: "u", totalValue: 5 })` returns `{"total-value":5}`. The `userId` key is gone: `SETTLED_ELSEWHERE` in `packages/shared/pages/access/src/file-write.ts:110` holds `pageTypeSlug`, `pageTypeId` and `userId`, and `fileValuesOf` skips every key in it.
+`temper-net-worth-snapshot` has zero `.md` files. Its pages are rows in a `data: jsonl` sidecar, `pages/temper-net-worth-day/2026-04-29.temper-net-worth-day.snapshots.jsonl` and its siblings, written by `writeRow` and read by `rowsPagesIn`. The seams the original evidence measured — `fileValuesOf` on the way out, `buildRawPageRows` on the way back — are the seams for frontmatter pages. This page type passes through neither.
 
-On the read side, `SETTLED_BY_ROW` in `packages/shared/pages/access/src/file-rows.ts:26` holds `userId, pageTypeId, pageTypeSlug, seq, createdAt, updatedAt, deletedAt`, and `buildRawPageRows` does `continue` on each, so a `userId` stated in a file never reaches `attributes`. Every file page reads back as the universal user instead: a `temper-task` page read through `collectPages` gives `userId: "ffffffff-ffff-ffff-ffff-ffffffffffff"` while its file states none.
+The value is present. The first row of that sidecar carries the keys `id, slug, userId, dataTimestamp, totalValue`, with `userId` reading `9ba554f7-cb18-48bb-a709-ec935a895ca7` — camel, exactly as `temper-net-worth-snapshot-user-id` declares it. Read through the pages system, the page type answers `n=3394` with `userId` and `totalValue` both stated, and `absent: []`, `unfound: []`. `readParsed` applies no settled-key filter at all: every key on the JSON object reaches the page's values.
 
-The two sets disagree about spelling in a way worth noting beside this: the write seam kebabizes first, and `kebabizeKey("userId")` is `user-id`, yet `SETTLED_ELSEWHERE` is tested against the raw key before that conversion. So `userId` is dropped and `user-id` would not be.
+So the declaration is satisfied and the required key is held. Six of that page type's other seven properties are camel too — `currencyGoldValue`, `dataTimestamp`, `goldAmount`, `itemValue`, `totalValue`, `excludedGuildBankValue` — so `userId` is its house spelling rather than an oddity.
 
-`temper-net-worth-snapshot` holds 3,246 rows, counted through the page query service. Its pages live in a `data: jsonl` sidecar under `temper-net-worth-day.snapshots` rather than in `.md` files, so nothing writes this key through the seam today and the fault is latent rather than bleeding.
+What remains is the silence at `shared/pages-access/src/file-write-values.ts`. The set is spelled camel because camel is what the row store calls its own columns, so `userId` is dropped there and `user-id` is kept. That distinction is real and load-bearing: `device-secret` and `device-token` declare `key: user-id`, their writers pass it in kebab, all twelve of their files carry it, and `device-secrets.server.ts:34` returns null without it. But it is a distinction the seam makes without stating, and the drop is the only step in that file that discards a value rather than refusing it — `fileValue` throws a paragraph for a value no frontmatter line can carry, and `refuseUnresolvedRelations` throws for a relation it cannot resolve.
+
+Six property documents declare a key spelled the way the row settles one: `user-id` on `device-secret`, `device-token` and `idle-save`, `page-type-id` and `page-type-slug` on `page`, and `userId` on `temper-net-worth-snapshot`. Five are `required: true`. Only the last collides with the camel set, and only that one would be dropped.
 
 # Re-check
 
-Checked again 2026-08-27 at HEAD. The claim holds; two particulars of the evidence above do not, and are false rather than merely old.
+The paragraph in the original evidence about the two sets disagreeing on spelling described a real thing and has since been proved load-bearing rather than accidental. A change collapsing the two spellings — asking `camelizeKey(rawKey)` on the reasoning that one key should not behave two ways — was landed and reverted within the hour: it stripped `user-id` from every device write, which fails as an authentication that quietly stops recognising anyone. `file-write.unit.test.ts` now pins both spellings; before, it pinned camel alone, which is why the suite stayed green through it.
 
-The spelling paragraph is repaired and no longer describes the code. `fileValuesOf` now asks `SETTLED_ELSEWHERE.has(camelizeKey(rawKey))`, the way the read seam has always asked it, so `userId` and `user-id` are dropped alike and a key the row settles cannot be made writable by respelling it. The seams live at `shared/pages-access/src/file-write-values.ts` and `shared/pages-access/src/file-rows.ts` since the consolidation, not under `packages/`.
+`SETTLED_BY_ROW` holds four keys, not the seven the original evidence read: `userId`, `pageTypeId`, `pageTypeSlug`, `seq`. `createdAt`, `updatedAt` and `deletedAt` reach `attributes` now.
 
-`SETTLED_BY_ROW` holds four keys, not the seven read here: `userId`, `pageTypeId`, `pageTypeSlug`, `seq`. `createdAt`, `updatedAt` and `deletedAt` do reach `attributes` now, so anyone acting on that sentence would be sent at a gap already shut.
-
-What stays open is the claim itself. `userId` still cannot be held on a file page — with the spellings unified it is dropped under both — so `pages/page-property-definition/temper-net-worth-snapshot-user-id.page-property-definition.md` still declares a `required: true` property no file can carry. The drop is deliberate and pinned by `shared/pages-access/src/file-write.unit.test.ts:75`, so the artifact at fault is the declaration rather than the seam. Removing it means deleting a page carrying a Definition line that readers inherit, which is Alan's to rule on.
+The slug on this page still reads `property-declares-a-key-no-file-can-hold`, which the claim above no longer says. Renaming it re-keys the finding, so it is left as it stands.
