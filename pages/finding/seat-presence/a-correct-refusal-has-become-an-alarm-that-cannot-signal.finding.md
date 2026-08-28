@@ -2,7 +2,7 @@
 id: 44ec8daf-f877-5b69-8677-e67c0b8077c4
 page-type-slug: finding
 title: "A correct refusal has become an alarm that cannot signal"
-domain-slug: domain/seat-presence
+domain-slug: page-property-definition/seat-presence
 ---
 
 # Claim
