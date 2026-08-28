@@ -4,9 +4,9 @@ import { akashaRoot } from "../../repo/roots/roots.ts"
 /**
  * Build the page index for whichever akasha root `AKASHA_ROOT` names, and say nothing.
  *
- * A CHILD PROCESS RATHER THAN A CALL, because `page/index/place/place.ts` works the index's place
- * out once and holds it for the life of the process. A test making one fixture after another would
- * write every one of their indexes into the first fixture's `.git`, and read them back out of a
- * directory its `dispose()` had already taken away.
+ * A CHILD PROCESS RATHER THAN A CALL: the root is stated in the child's environment, so the build
+ * runs against it without the calling process moving anything. `page/index/place/place.ts` works
+ * the index's place out against whichever root is named when it is asked, so the index it writes
+ * lands under that root.
  */
 buildOver({ akasha: akashaRoot() })
