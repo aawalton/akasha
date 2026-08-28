@@ -1,6 +1,6 @@
 
 import { addressParts } from "../../page/page-address.ts"
-import { filedIn, pageTypePathIn, placeDirOf, repoPlacings } from "../../page/page-types.ts"
+import { filedIn, pageRelIn, pageTypePathIn, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { type Roots } from "../../page/page"
 import { AKASHA, REPOS, rootFor } from "../../repo/roots/roots"
@@ -50,6 +50,6 @@ export function placedElsewhere(slug: string, from: string, roots: Roots): Place
   if (repo === null) return null
   const root = roots[repo]
   if (root === undefined || root === from) return null
-  const relPath = `${placeDirOf(parts.type)}/${parts.slug}.md`
+  const relPath = pageRelIn(root, parts.type, parts.slug)
   return { repo, root, relPath, absolute: `${root}/${relPath}` }
 }
