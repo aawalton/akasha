@@ -33,7 +33,10 @@ export async function workedOutKeysOf(pageType: string): Promise<ReadonlySet<str
   if (held !== undefined) return held
   const asked = await askComposed({
     "page-type": "page-property-definition",
-    where: { "defined-on-slug": { is: addressOf(PAGE_TYPE_PAGE_TYPE, pageType) }, type: { is: "formula" } },
+    where: {
+      "defined-on-slug": { is: addressOf(PAGE_TYPE_PAGE_TYPE, pageType) },
+      expression: { empty: false },
+    },
     keys: ["key"],
     limit: MAX_PROPERTIES,
   })

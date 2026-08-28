@@ -2,13 +2,8 @@ import { describe, expect, test } from "bun:test"
 import type { PageDataJSON, PropertyDefinition } from "../types"
 import { isFormulaError, isLiveFormulaConfig, resolveComputedProperties } from "./resolve"
 
-function formulaDef(id: string, expression?: string): PropertyDefinition {
-  return {
-    id,
-    title: id,
-    type: "formula",
-    ...(expression != null ? { config: { expression } } : {}),
-  } satisfies PropertyDefinition
+function formulaDef(id: string, expression: string): PropertyDefinition {
+  return { id, title: id, type: "formula", config: { expression } } satisfies PropertyDefinition
 }
 
 function textDef(id: string): PropertyDefinition {
@@ -68,15 +63,6 @@ describe("resolveComputedProperties", () => {
     const result = resolveComputedProperties(data, defs)
     expect(result.a).toBeNull()
     expect(result.b).toBeNull()
-  })
-
-  test("missing expression produces FormulaError sentinel with code no_expression", () => {
-    const data = {} satisfies PageDataJSON
-    const defs: PropertyDefinition[] = [formulaDef("f")]
-    const result = resolveComputedProperties(data, defs)
-    expect(isFormulaError(result.f)).toBe(true)
-    expect(formulaErrorMessage(result.f)).toBe("No expression configured")
-    expect(formulaErrorCode(result.f)).toBe("no_expression")
   })
 
   test("invalid expression produces FormulaError sentinel with code parse_error", () => {

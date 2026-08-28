@@ -6,7 +6,7 @@ import { FormulaEvaluationError, type FormulaEvaluationErrorCode } from "./error
 import { parseExpression } from "./parser"
 import { FormulaParseError } from "./lexer"
 
-export type FormulaErrorCode = FormulaEvaluationErrorCode | "parse_error" | "no_expression"
+export type FormulaErrorCode = FormulaEvaluationErrorCode | "parse_error"
 
 interface FormulaError {
   readonly __formulaError: string
@@ -26,6 +26,14 @@ function isExpressionConfig(
   return typeof value.expression === "string"
 }
 
+type ComputedDefinition = PropertyDefinition & {
+  readonly config: { readonly expression: string }
+}
+
+function isComputed(definition: PropertyDefinition): definition is ComputedDefinition {
+  return isExpressionConfig(definition.config)
+}
+
 const NOW_INPUT_KEY = "now"
 
 export function isLiveFormulaConfig(
@@ -41,7 +49,7 @@ export function resolveComputedProperties(
   definitions: readonly PropertyDefinition[],
   opts?: { readonly now?: number }
 ): PageDataJSON {
-  const formulaDefs = definitions.filter((d) => d.type === "formula")
+  const formulaDefs = definitions.filter(isComputed)
   if (formulaDefs.length === 0) return data
 
   const nowValue = opts?.now ?? 0
@@ -56,15 +64,6 @@ export function resolveComputedProperties(
     const def = formulaDefs.find((d) => d.id === propId)
     if (!def) {
       return data[propId] ?? null
-    }
-
-    if (!isExpressionConfig(def.config)) {
-      const errorVal: FormulaError = {
-        __formulaError: "No expression configured",
-        code: "no_expression",
-      }
-      resolvedCache.set(propId, errorVal)
-      return errorVal
     }
 
     visiting.add(propId)
