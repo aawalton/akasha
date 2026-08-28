@@ -3,7 +3,7 @@ id: 8ea06002-b4f2-5a0d-8653-0f40a35cf95f
 slug: in-game-readiness-gated-on-reboot
 page-type-slug: finding
 title: "In game readiness gated on reboot"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

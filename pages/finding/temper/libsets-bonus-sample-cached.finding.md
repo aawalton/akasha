@@ -3,7 +3,7 @@ id: f3e5547c-3a60-5efb-b5b8-549865e6bd12
 slug: libsets-bonus-sample-cached
 page-type-slug: finding
 title: "Libsets bonus sample cached"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

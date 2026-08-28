@@ -3,7 +3,7 @@ id: 361f5c84-0247-5fe5-aff0-c8f692d9fe8d
 slug: lam-tooltip-toggle-interactive-inert
 page-type-slug: finding
 title: "Lam tooltip toggle interactive inert"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
