@@ -1,6 +1,7 @@
 #!/usr/bin/env bun
 
-import { pageQueryOrigin } from "../tools/lib/page-query-client.ts"
+import { fetchThrough } from "@shared/pages-query/fetcher"
+import { pageQueryInProcess } from "../tools/lib/page-query-in-process.ts"
 import { syncGreatCourses } from "../tools/lib/great-courses/sync.ts"
 import { trackSyncRun } from "../tools/lib/sync-run/track.ts"
 
@@ -19,8 +20,8 @@ Nothing is written where the collection's root says it synced inside the last 30
 The run stands as a row under \`sync/${SOURCE}\`, and the process exits non-zero where any course
 failed, so a failed run is a failed unit rather than silence.
 
-Everything is read and written through the page query service. No credential stands behind it:
-the service owns the repositories and records the writer.
+Everything is read and written in this process, off the checkouts on this machine. No credential
+stands behind it, and nothing is reached over the network but the catalogue itself.
 
 Driven by the great-courses-sync service, whose document states its cadence. Safe to run by hand.
 
@@ -35,7 +36,7 @@ async function main(): Promise<void> {
     return
   }
 
-  process.env.PAGE_QUERY_ORIGIN ??= pageQueryOrigin()
+  fetchThrough(pageQueryInProcess)
 
   await trackSyncRun(SOURCE, syncGreatCourses)
 }

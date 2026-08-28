@@ -1,4 +1,3 @@
-import { operationalError } from "./exit.ts"
 import type { WriteAct } from "./page-landing-judge.ts"
 import { answered, askedFrom } from "./page-query-answer.ts"
 import { written } from "./page-query-landing.ts"
@@ -35,14 +34,6 @@ let held: Roots | null = null
 function roots(): Roots {
   held ??= resolveRoots()
   return held
-}
-
-export function pageQueryOrigin(): string {
-  const stated = process.env.PAGE_QUERY_ORIGIN
-  if (stated !== undefined && stated !== "") return stated
-  throw operationalError(
-    "no page query service answers on this workstation: a command here reaches pages through this module in process, and only an off-workstation caller states PAGE_QUERY_ORIGIN"
-  )
 }
 
 function rowsIn(body: unknown): readonly AnsweredRow[] {

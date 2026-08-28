@@ -14,11 +14,9 @@ import {
 import { readNetBytesForWindow } from "./net-bytes-points.ts"
 import { type PersonaDayTarget, patchPersonaDayField } from "./persona-day-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
-import { askOverHttp, PAGE_QUERY_ORIGIN } from "../../../readouts/ask-over-http.ts"
+import { askHere } from "../../../readouts/ask-here.ts"
 import { readStoplightMeanForDay } from "../../../readouts/stoplight-mean-points.ts"
 import { tallyWeightedIntervals } from "./weighted-interval-points.ts"
-
-export { SOURCE_POINTS_FIELD }
 
 type WriteOutcome = "patched" | "created"
 
@@ -263,7 +261,7 @@ async function computeDayPoints(
         await readStoplightMeanForDay({
           day: dayStr,
           personaId: recipe.id,
-          ask: askOverHttp(PAGE_QUERY_ORIGIN),
+          ask: askHere(),
         })
       ).points
     default:
