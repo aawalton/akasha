@@ -1,7 +1,8 @@
 import { readFileSync } from "node:fs"
+import { placeDirOf } from "../../page/page-types.ts"
 import { AKASHA, rootFor, rootsHere } from "../../repo/roots/roots.ts"
 
-const REFUSAL_DIR = "pages/refusal"
+const REFUSAL_DIR = placeDirOf("refusal")
 
 const REFUSAL_SUFFIX = ".refusal.md"
 

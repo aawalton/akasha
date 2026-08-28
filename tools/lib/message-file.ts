@@ -14,10 +14,11 @@ import { MARKDOWN } from "../../page/page-file.ts"
 import { AKASHA, akashaRoot } from "../../repo/roots/roots"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { placeDirOf } from "../../page/page-types.ts"
 
 const PAGE_TYPE = "message"
 
-const MESSAGES = `pages/${PAGE_TYPE}`
+const MESSAGES = placeDirOf(PAGE_TYPE)
 
 
 const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`

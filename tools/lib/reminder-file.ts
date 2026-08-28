@@ -5,10 +5,11 @@ import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./mess
 import { AKASHA, akashaRoot } from "../../repo/roots/roots"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { pageStemOf } from "../../page/name/name"
-
-export const REMINDERS = "pages/reminder"
+import { placeDirOf } from "../../page/page-types.ts"
 
 const PAGE_TYPE = "reminder"
+
+export const REMINDERS = placeDirOf(PAGE_TYPE)
 
 const PAGE_SUFFIX = ".md"
 

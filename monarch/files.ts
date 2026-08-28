@@ -5,19 +5,20 @@ import { parse } from "../page/document/parse.ts"
 import type { Document } from "../page/document/types.ts"
 import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "../repo/roots/roots"
 import { pageStemOf } from "../page/name/name"
+import { placeDirOf } from "../page/page-types.ts"
 
 const roots = resolveRoots()
 
 export const AKASHA = rootFor(roots, AKASHA_REPO)
 
-export const MONTHS_FOLDER = "pages/monarch-month"
-
 const MONTH_TYPE = "monarch-month"
-export const HOLDING_FOLDER = "pages/monarch-holding"
-export const CATEGORY_FOLDER = "pages/monarch-category"
-export const ACCOUNT_FOLDER = "pages/monarch-account"
-export const TAG_FOLDER = "pages/monarch-tag"
-export const DIRECTION_FOLDER = "pages/monarch-direction"
+
+export const MONTHS_FOLDER = placeDirOf(MONTH_TYPE)
+export const HOLDING_FOLDER = placeDirOf("monarch-holding")
+export const CATEGORY_FOLDER = placeDirOf("monarch-category")
+export const ACCOUNT_FOLDER = placeDirOf("monarch-account")
+export const TAG_FOLDER = placeDirOf("monarch-tag")
+export const DIRECTION_FOLDER = placeDirOf("monarch-direction")
 
 export interface TransactionLine {
   readonly id: string
