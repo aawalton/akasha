@@ -50,11 +50,8 @@ describe("canonical", () => {
     expect(() => canonical({ seats: new Set([1]) })).toThrow(UncarriedError)
   })
 
-  it("refuses a class instance", () => {
-    class Reading {
-      readonly n = 1
-    }
-    expect(() => canonical(new Reading())).toThrow(UncarriedError)
+  it("refuses an object carrying a prototype of its own", () => {
+    expect(() => canonical(Object.create({ n: 1 }))).toThrow(UncarriedError)
   })
 
   it("refuses a function, which is not something a decision answers with", () => {
