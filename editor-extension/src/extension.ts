@@ -4,6 +4,7 @@
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
 import { type Startable, startIsolated } from './activation.ts';
+import { holdDerivers } from '../../tools/lib/deriver-hold.ts';
 import * as agentTree from './features/agent-tree/activate.ts';
 import * as domainTree from './features/domain-tree/activate.ts';
 import * as editorLayout from './features/editor-layout/activate.ts';
@@ -26,6 +27,20 @@ import { readProcess } from './seat/window-identity.ts';
  * case it exists to get out of.
  */
 const FEATURE_TIMEOUT_MS = 20_000;
+
+/**
+ * How long one derived reading of the pages serves before it is worked out again.
+ *
+ * ARMED HERE BECAUSE IT IS A PROPERTY OF THE PROCESS, not of any one feature. Three panels read
+ * through the same deriver, and what a page query costs is almost entirely working out a page
+ * type's properties, declarations and vocabulary — measured on 2026-08-28 at 2.5s against 80ms for
+ * the same read held. A feature arming it would be a feature deciding for the others, which is the
+ * one thing the seven are kept apart to prevent.
+ *
+ * WHAT KEEPS IT HONEST is that a panel drops what it holds the moment a watcher says the files
+ * moved, so this bound covers only a change no watcher reports.
+ */
+const HOLD_MS = 5_000;
 
 /**
  * The seven, and they are independent of one another.
@@ -89,6 +104,7 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
 	const output = vscode.window.createOutputChannel('Ops: Activation');
 	context.subscriptions.push(output);
+	holdDerivers(HOLD_MS);
 
 	// SET UP BEFORE ANY FEATURE STARTS, AND NOT A FEATURE ITSELF. Every feature
 	// reports into this, so it has to exist before the first one runs; and it is

@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import { dropDerivers, holdDerivers } from '../../../../tools/lib/deriver-hold.ts';
+import { dropDerivers } from '../../../../tools/lib/deriver-hold.ts';
 import { askSeatForest } from '../../../../tools/lib/seat-forest-asked.ts';
 import { colorOfState } from '../../../../tools/lib/seat-turn-color.ts';
 import type { SeatMode } from '../../seat/mode.ts';
@@ -24,18 +24,6 @@ import type { SubagentNode, SubagentReader } from './subagents.ts';
  * reading the wrong answer — only of reading none.
  */
 const ALAN = 'alan';
-
-/**
- * How long one derived reading of the pages serves before it is worked out again.
- *
- * ARMED BECAUSE THIS ANSWER IS ASKED FOR EVERY SECOND. Working out a page type's properties, its
- * declarations and its vocabulary is the whole cost of answering at all — about a hundred
- * milliseconds against about one for the same read held. What keeps it honest is `dropSeatAnswers`,
- * called the moment a seat's sidecar moves, so this bound covers only a change no watcher reports.
- */
-const HOLD_MS = 5_000;
-
-holdDerivers(HOLD_MS);
 
 /** Forget every derived reading, so the next one is worked out from the files as they stand now. */
 export function dropSeatAnswers(): void {
