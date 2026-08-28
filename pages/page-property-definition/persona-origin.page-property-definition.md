@@ -13,6 +13,7 @@ values:
   - human
   - invented
   - norse
+  - sanskrit
   - welsh
 slug: persona-origin
 domain-parent-slug: page-type/persona
