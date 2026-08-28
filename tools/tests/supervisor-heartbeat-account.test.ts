@@ -1,6 +1,6 @@
 
 import { afterEach, beforeEach, describe, expect, it } from "bun:test"
-import { statedForPage } from "../lib/supervisor-heartbeat-beat.ts"
+import { statedForPage } from "../seat-page-beat.ts"
 import { type Fixture, fixture } from "./fixture.ts"
 
 const AGENT = "019ee764-0000-7000-8000-0000000000be"

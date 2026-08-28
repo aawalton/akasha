@@ -1,12 +1,8 @@
 import { patchUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { resolveRoots } from "../../repo/roots/roots"
-import { nameFromHistory, parentFromHistory } from "./seat-page-history.ts"
-import { writeSeatPage } from "./seat-page.ts"
+import type { BeatReport } from "../seat-page-beat.ts"
+import { nameFromHistory } from "./seat-page-history.ts"
 import { seatPageDestination } from "./seat-presence-read.ts"
-import { rotatedOf } from "./seat-rotated-session.ts"
-import { sessionRecordOf } from "./seat-session.ts"
-import { type Stated, fallBackToHistory, statedOf } from "./seat-stated.ts"
-import { transcriptRecordOf } from "./seat-transcript-path.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
@@ -14,6 +10,62 @@ import {
 import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { LOG } from "./supervisor-config.ts"
+import { toolArgv } from "./tool-argv.ts"
+
+const BEAT = "seat-page-beat.ts"
+
+/**
+ * THIS FILE IS EVERYTHING A SUPERVISOR HOLDS ABOUT WRITING A SEAT PAGE, AND IT IS A PATH AND AN
+ * ARGUMENT LIST. A supervisor outlives every write it makes and Bun resolves a module once at
+ * process start, so anything reached from here without a spawn is frozen at the moment the
+ * supervisor booted and goes on running after it has been corrected on disk. Every judgement
+ * about what a seat page says belongs in `tools/seat-page-beat.ts`, which is read from disk on
+ * each call. Moving any of it back across this line freezes it again.
+ */
+function reportFrom(output: string, code: number): BeatReport {
+  const line = output.trim().split("\n").at(-1) ?? ""
+  try {
+    const parsed: unknown = JSON.parse(line)
+    if (typeof parsed === "object" && parsed !== null && "outcome" in parsed) {
+      return parsed as BeatReport
+    }
+  } catch {
+    // The writer said something that is not its report, which the refusal below carries whole.
+  }
+  const said = output.trim()
+  return {
+    outcome: {
+      kind: "refused",
+      detail: said === "" ? `the seat page writer exited ${String(code)} saying nothing` : said,
+    },
+    seat: null,
+  }
+}
+
+function runBeat(args: readonly string[]): BeatReport {
+  try {
+    const proc = Bun.spawnSync([process.execPath, ...toolArgv(BEAT, args)], {
+      stdout: "pipe",
+      stderr: "inherit",
+    })
+    return reportFrom(proc.stdout.toString(), proc.exitCode ?? 1)
+  } catch (err) {
+    return { outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` }, seat: null }
+  }
+}
+
+async function runBeatAsync(args: readonly string[]): Promise<BeatReport> {
+  try {
+    const proc = Bun.spawn([process.execPath, ...toolArgv(BEAT, args)], {
+      stdout: "pipe",
+      stderr: "inherit",
+    })
+    const output = await new Response(proc.stdout).text()
+    return reportFrom(output, await proc.exited)
+  } catch (err) {
+    return { outcome: { kind: "refused", detail: `the seat page writer did not run: ${String(err)}` }, seat: null }
+  }
+}
 
 export function writeSeatProcessKey(seatName: string, supervisorPid: number): void {
   const key = readSeatProcKey(supervisorPid)
@@ -25,55 +77,28 @@ export function writeSeatProcessKey(seatName: string, supervisorPid: number): vo
   }
 }
 
-export function statedForPage(agentId: string, account: string | null = null): Stated {
-  const read = statedOf(agentId)
-  const stood = account === null ? read : { ...read, registration: { value: account } }
-  if (getCurrentAgentIdForSelfHeal() !== agentId) return stood
-  const running = sessionRecordOf(getCurrentSessionIdForSelfHeal())
-  return running === null ? stood : { ...stood, session: running }
-}
-
 export function keepSeatSession(agentId: string, sessionId: string): void {
-  const running = sessionRecordOf(sessionId)
-  if (running === null) return
-  const seatName = composedNameOf(agentId) ?? nameFromHistory(agentId, resolveRoots())
-  if (seatName === null) return
-  try {
-    const outcome = writeSeatPage({ ...statedOf(agentId), session: running }, seatName)
-    if (outcome.kind === "refused") {
-      console.error(`${LOG} the session did not reach ${seatName}: ${outcome.detail}`)
-    }
-  } catch (err) {
-    console.error(`${LOG} writing the session to ${seatName} threw:`, err)
+  const report = runBeat(["--agent", agentId, "--session", sessionId])
+  if (report.outcome.kind === "refused") {
+    console.error(`${LOG} the session did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`)
   }
 }
 
 export function keepSeatTranscript(agentId: string, transcriptPath: string): void {
-  const watching = transcriptRecordOf(transcriptPath)
-  if (watching === null) return
-  const seatName = composedNameOf(agentId) ?? nameFromHistory(agentId, resolveRoots())
-  if (seatName === null) return
-  try {
-    const outcome = writeSeatPage({ ...statedOf(agentId), transcript: watching }, seatName)
-    if (outcome.kind === "refused") {
-      console.error(`${LOG} the transcript path did not reach ${seatName}: ${outcome.detail}`)
-    }
-  } catch (err) {
-    console.error(`${LOG} writing the transcript path to ${seatName} threw:`, err)
+  const report = runBeat(["--agent", agentId, "--transcript", transcriptPath])
+  if (report.outcome.kind === "refused") {
+    console.error(
+      `${LOG} the transcript path did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`
+    )
   }
 }
 
 export function clearSeatRotation(agentId: string): void {
-  if (rotatedOf(agentId) === null) return
-  const seatName = composedNameOf(agentId) ?? nameFromHistory(agentId, resolveRoots())
-  if (seatName === null) return
-  try {
-    const outcome = writeSeatPage({ ...statedOf(agentId), rotated: null }, seatName)
-    if (outcome.kind === "refused") {
-      console.error(`${LOG} the rotation was not cleared from ${seatName}: ${outcome.detail}`)
-    }
-  } catch (err) {
-    console.error(`${LOG} clearing the rotation from ${seatName} threw:`, err)
+  const report = runBeat(["--agent", agentId, "--clear-rotation"])
+  if (report.outcome.kind === "refused") {
+    console.error(
+      `${LOG} the rotation was not cleared from ${report.seat ?? agentId}: ${report.outcome.detail}`
+    )
   }
 }
 
@@ -82,22 +107,21 @@ export async function keepSeatPage(
   seatName: string,
   account: string | null = null
 ): Promise<void> {
-  try {
-    const stated = fallBackToHistory(statedForPage(agentId, account), seatName, resolveRoots())
-    const outcome = writeSeatPage(stated, seatName)
-    if (outcome.kind === "refused") {
-      console.error(`${LOG} heartbeat: writing the seat page failed for ${seatName}: ${outcome.detail}`)
-      return
-    }
-    if (outcome.kind !== "unstated") return
-    const above = parentFromHistory(agentId, resolveRoots())
-    if (above === null) return
-    const again = writeSeatPage(stated, seatName, above)
-    if (again.kind === "refused") {
-      console.error(`${LOG} heartbeat: writing the seat page failed for ${seatName}: ${again.detail}`)
-    }
-  } catch (err) {
-    console.error(`${LOG} heartbeat: writing the seat page threw for ${seatName}:`, err)
+  // WHICH AGENT THIS SUPERVISOR RUNS AND WHICH SESSION IT HOLDS ARE THE ONLY FACTS NO FILE HOLDS,
+  // so they cross as they stand. What they mean for the page is weighed on the other side.
+  const selfHealAgent = getCurrentAgentIdForSelfHeal()
+  const selfHealSession = getCurrentSessionIdForSelfHeal()
+  const report = await runBeatAsync([
+    "--agent",
+    agentId,
+    ...(account === null ? [] : ["--account", account]),
+    ...(selfHealAgent === null ? [] : ["--self-heal-agent", selfHealAgent]),
+    ...(selfHealSession === null ? [] : ["--self-heal-session", selfHealSession]),
+  ])
+  if (report.outcome.kind === "refused") {
+    console.error(
+      `${LOG} heartbeat: writing the seat page failed for ${report.seat ?? seatName}: ${report.outcome.detail}`
+    )
   }
 }
 
