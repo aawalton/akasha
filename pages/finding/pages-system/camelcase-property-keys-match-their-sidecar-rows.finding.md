@@ -8,7 +8,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-Forty-two temper property documents declare a camelCase `key:`, and for these three page types that is correct rather than a defect. Their pages are jsonl sidecar rows that spell the same camelCase, so the documents and the data agree and the query path answers correctly. Rewriting these documents to kebab, which is what the fleet-wide convention would suggest, would break three types holding 162,059 rows.
+Forty-two temper property documents declare a camelCase `key:`, and for these three page types that is correct rather than a defect. Their pages are jsonl sidecar rows that spell the same camelCase, so the documents and the data agree and the query path answers correctly. The reason to leave them alone is that agreement, not any breakage a rewrite would cause: the corrected mechanism below shows a kebab rewrite would be safe at the `getPages` boundary.
 
 # Evidence
 
@@ -18,4 +18,8 @@ Reading the first `key:` line of every `properties/temper-*.md`: 42 declare a ke
 
 All three types report `repo: null, glob: null` on the `/page-types` roster and are held in a sidecar — `temper-mine.items`, `temper-mine.quests`, `temper-net-worth-day.snapshots`. Asking the query service for each returns rows whose own keys are camelCase: `temper-mined-item` gives `abilityCooldown, abilityDescription, abilityHeader, armorRating, armorType, enchantDescription`; `temper-mined-quest` gives `minedAt, questId, questType, repeatableType`; `temper-net-worth-snapshot` gives `dataTimestamp, totalValue`. Populations are 155,440, 3,373 and 3,246, which is 162,059.
 
-The reason a kebab rewrite would break them is `camelizeKey` in `packages/shared/pages/access/src/file-rows.ts`. Run against both spellings: `camelizeKey("abilityCooldown")` returns `abilitycooldown` and `camelizeKey("ability-cooldown")` returns `abilityCooldown`. So `getPages` mangles the spelling the data actually uses, while `askComposed` returns whatever key the file states and is correct today. The declaration matches the data; it is the `getPages` boundary that disagrees with both.
+Mechanism corrected 2026-08-28; what stood here was false and is struck. This paragraph read that `camelizeKey` returns `abilitycooldown` for `abilityCooldown`, so that `getPages` mangled the spelling the data uses and a kebab rewrite would break these types.
+
+`camelizeKey` now stands at `shared/pages-access/src/file-rows.ts:37-43`. Run through it: `abilityCooldown` returns `abilityCooldown` and `ability-cooldown` returns `abilityCooldown`; `userId` returns `userId` and `user-id` returns `userId`. It is idempotent on camelCase and carries both spellings to one key, so `getPages` mangles nothing and a kebab rewrite would not break these three types.
+
+What survives is the agreement itself: the documents declare what the rows spell. What does not survive is the deterrent — anyone who read this page as a reason not to rewrite was being held back by a mechanism that is not there.
