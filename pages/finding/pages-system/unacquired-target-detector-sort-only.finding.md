@@ -20,7 +20,7 @@ The failure the derivation prevents is stated at :6-10: a target page-type whose
 
 So of four classes, one is instrumented. A missed `group_by` target groups every affected row under a null bucket; a missed filter target changes which rows are in the view at all — the docblock's own "membership" — and neither emits anything. A missed display target renders a permanently blank cell, indistinguishable from one still filling, since :17-20 says display cells "fill progressively (blank → resolved)".
 
-The detector's own text names the derivation as the thing that fails: `sort-resolve.ts:65` reads "deriveViewTargetSlugs likely missed this target type (#15778)". A miss is anticipated rather than ruled out, and three of the four ways it lands are silent.
+The detector's own text names the derivation as the thing that fails: `sort-resolve.ts:65` reads "deriveViewTargetSlugs likely missed this target type (#15778)".
 
 Not measured: whether a `group_by` or filter key referencing a relation/rollup target occurs in any live view config. `view-target-slugs.unit.test.ts:54-58` exercises all three gating classes as a fixture, but I queried no production configs.
 
