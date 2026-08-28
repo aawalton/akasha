@@ -1,13 +1,12 @@
 import { checkScalar } from "../document/value.ts"
 import { expressionOf, LADDER, RANKS } from "../document/template.ts"
+import { within } from "./stated.ts"
 import type { Fault, Held, Rule, Stated } from "./stated.ts"
 
 export interface Bound {
   readonly says: string
   readonly holds: (text: string) => boolean
 }
-
-const within = (measured: string): Fault => ({ fault: "held", measured, inside: true })
 
 function admittedIn(stated: Held): readonly string[] | null {
   if (typeof stated === "string") return null

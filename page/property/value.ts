@@ -5,7 +5,7 @@ import { CLAIM, fileIn } from "../repo-claim.ts"
 import { recordRule } from "./record.ts"
 import { addressParts, ADDRESS_SAYS, RELATION_ADDRESS } from "../page-address.ts"
 import { boundsFor, narrowed } from "./bounds.ts"
-import { nested, textOf } from "./stated.ts"
+import { nested, scalarRule, textOf, within, wrongShape } from "./stated.ts"
 import type { Fault, Held, Rule, Vocabulary } from "./stated.ts"
 
 export const TYPE = "type"
@@ -47,22 +47,6 @@ const LIST = new RegExp(String.raw`^list\(\s*(${INNER})\s*${BOUND}\)$`)
 const MAP = new RegExp(String.raw`^map\(\s*(${INNER})\s*${BOUND}\)$`)
 const RANGE = new RegExp(String.raw`^range\(\s*(${INNER})\s*\)$`)
 const SELECT_OF = new RegExp(String.raw`^${SELECT}\(\s*(${INNER})\s*\)$`)
-
-export function heldAs(value: Held): string {
-  return typeof value === "string" ? "one value" : Array.isArray(value) ? "a list" : "a map"
-}
-
-const wrongShape = (value: Held): Fault => ({ fault: "held", measured: heldAs(value), inside: false })
-
-const within = (measured: string): Fault => ({ fault: "held", measured, inside: true })
-
-export function scalarRule(says: string, holds: (text: string) => boolean): Rule {
-  return {
-    says,
-    holds: (value) =>
-      typeof value !== "string" ? wrongShape(value) : holds(value.trim()) ? null : { fault: "text", at: value },
-  }
-}
 
 function listRule(of: Rule, max: number): Rule {
   return {

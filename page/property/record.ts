@@ -1,7 +1,7 @@
 import type { Frontmatter } from "../frontmatter.ts"
 import { stringAt } from "../text/text.ts"
-import { nested, textOf } from "./stated.ts"
-import type { Fault, Held, RecordField, Rule, Stated } from "./stated.ts"
+import { nested, textOf, within, wrongShape } from "./stated.ts"
+import type { Held, RecordField, Rule, Stated } from "./stated.ts"
 
 const RECORD = "record"
 
@@ -42,12 +42,6 @@ export function recordsFor(
 
 const spelled = (names: readonly string[], joiner: string): string =>
   names.map((one) => `\`${one}\``).join(joiner)
-
-const heldAs = (value: Held): string => (typeof value === "string" ? "one value" : Array.isArray(value) ? "a list" : "a map")
-
-const wrongShape = (value: Held): Fault => ({ fault: "held", measured: heldAs(value), inside: false })
-
-const within = (measured: string): Fault => ({ fault: "held", measured, inside: true })
 
 export function recordRule(
   slug: string,

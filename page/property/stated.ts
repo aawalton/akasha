@@ -50,6 +50,29 @@ export interface Rule {
   readonly holds: (value: Held) => Fault | null
 }
 
+const heldAs = (value: Held): string =>
+  typeof value === "string" ? "one value" : Array.isArray(value) ? "a list" : "a map"
+
+export const wrongShape = (value: Held): Fault => ({ fault: "held", measured: heldAs(value), inside: false })
+
+export const within = (measured: string): Fault => ({ fault: "held", measured, inside: true })
+
+/**
+ * A rule over one scalar: the text is trimmed for the test and reported as it stands.
+ *
+ * WHAT A WRONG SHAPE IS HAS ONE SPELLING, AND IT SITS WITH `Rule` RATHER THAN WITH THE TABLE OF
+ * RULES. A file stating a rule of its own needs these constructors and not the table, so keeping
+ * them beside `RULES` leaves every such file either importing the table's whole file or carrying
+ * a copy of its own.
+ */
+export function scalarRule(says: string, holds: (text: string) => boolean): Rule {
+  return {
+    says,
+    holds: (value) =>
+      typeof value !== "string" ? wrongShape(value) : holds(value.trim()) ? null : { fault: "text", at: value },
+  }
+}
+
 export interface RecordField {
   readonly name: string
   readonly type: string
