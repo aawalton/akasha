@@ -3,19 +3,19 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { type Startable, startIsolated } from './activation';
-import * as agentTree from './features/agent-tree/activate';
-import * as domainTree from './features/domain-tree/activate';
-import * as editorLayout from './features/editor-layout/activate';
-import * as workTree from './features/work-tree/activate';
-import * as terminalRename from './features/terminal-rename/activate';
-import * as transcript from './features/transcript/activate';
+import { type Startable, startIsolated } from './activation.ts';
+import * as agentTree from './features/agent-tree/activate.ts';
+import * as domainTree from './features/domain-tree/activate.ts';
+import * as editorLayout from './features/editor-layout/activate.ts';
+import * as workTree from './features/work-tree/activate.ts';
+import * as terminalRename from './features/terminal-rename/activate.ts';
+import * as transcript from './features/transcript/activate.ts';
 import {
 	createObservationStore,
 	recordObservation,
 	setObservationStore,
-} from './seat/observation-store';
-import { readProcess } from './seat/window-identity';
+} from './seat/observation-store.ts';
+import { readProcess } from './seat/window-identity.ts';
 
 /**
  * How long any one feature is waited on before activation stops holding for it.

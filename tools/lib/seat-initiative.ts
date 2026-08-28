@@ -1,11 +1,11 @@
 
 import { existsSync } from "node:fs"
 import { isAttachmentFile } from "../../page/attachment-file.ts"
-import { type Roots } from "../../page/page"
-import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { type Roots } from "../../page/page.ts"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 import { frontmatterOf } from "./seat-presence-read.ts"
 

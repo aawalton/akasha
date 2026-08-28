@@ -1,4 +1,4 @@
-import type { Given } from "./page-query-bind"
+import type { Given } from "./page-query-bind.ts"
 import type { Value } from "./page-write-values.ts"
 
 export interface Said {

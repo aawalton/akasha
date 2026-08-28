@@ -23,18 +23,19 @@ import {
   underivable,
   WALKS,
 } from "./page-reach.ts"
-import { evaluate, ExpressionRefused } from "./page-expression.ts"
+import { evaluate } from "./page-expression.ts"
+import { ExpressionRefused } from "./page-expression-value.ts"
 import { noteUnreadable } from "./page-fault.ts"
 import { BODY, type Held, valuesIn, withUncommitted, withLarge } from "./page-file-values.ts"
 import { placeOf } from "../../page/page-types.ts"
 import { NONE, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { scanIn } from "../../page/page-types.ts"
 import { foundIn, indexingOver } from "./page-derive-index.ts"
 import { keptIn, narrowing } from "./page-narrow.ts"
 import { slugNamed } from "../../page/page-address.ts"
-import { type Roots } from "../../page/page"
-import { isAddressable } from "../../repo/roots/roots"
+import { type Roots } from "../../page/page.ts"
+import { isAddressable } from "../../repo/roots/roots.ts"
 import { backingOver } from "./page-derive-backing.ts"
 import { type Carries, type Deriver, type Row, WALK_BOUND } from "./page-derive-shape.ts"
 

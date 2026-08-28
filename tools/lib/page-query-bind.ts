@@ -1,9 +1,9 @@
 import { diskFileTree } from "../../page/file-tree.ts"
-import { declaredFor } from "../page/page-rows-home"
+import { declaredFor } from "../page/page-rows-home.ts"
 import { kebabized } from "../../page/property/key-spelling.ts"
 import type { PageQuery, Test } from "./page-query.ts"
 import type { Row } from "./page-derive-shape.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
 

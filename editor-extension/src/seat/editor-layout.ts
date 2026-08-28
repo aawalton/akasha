@@ -9,7 +9,7 @@
  * NOTHING HERE IMPORTS `vscode`. The shaping is exercised under bun with no workbench;
  * reading the tab groups is the caller's, in `../features/editor-layout/activate.ts`.
  */
-import type { ColumnNumber } from './editor-group';
+import type { ColumnNumber } from './editor-group.ts';
 
 /**
  * What kind of thing a tab holds.

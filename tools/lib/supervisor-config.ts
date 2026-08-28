@@ -2,7 +2,7 @@
 import { lstatSync, mkdirSync, readlinkSync, statSync, symlinkSync, unlinkSync } from "node:fs"
 import { resolve } from "node:path"
 import { configPathForAccount } from "./claude-launch-args.ts"
-import { akashaRoot } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import { shape } from "./shape.ts"
 
 

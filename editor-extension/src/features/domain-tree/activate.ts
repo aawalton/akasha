@@ -3,12 +3,12 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { repositoryPath, unreachableMessage } from '../../harness-call';
-import { recordObservation } from '../../seat/observation-store';
-import { createSettledRefresh } from '../settled-refresh';
-import { countDomains, type DomainNode, readDomainTree } from './harness';
-import { REFRESH_COMMAND, VIEW_ID } from './ids';
-import { createDomainTree } from './tree';
+import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
+import { recordObservation } from '../../seat/observation-store.ts';
+import { createSettledRefresh } from '../settled-refresh.ts';
+import { countDomains, type DomainNode, readDomainTree } from './harness.ts';
+import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { createDomainTree } from './tree.ts';
 
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'domain-tree';

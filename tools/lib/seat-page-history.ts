@@ -2,10 +2,10 @@ import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { DECLARATIONS, type Declaration } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
 import { rootOfPlace, SEAT_PLACES } from "./agent-page-place.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 import { initiativeStemOf } from "./seat-initiative.ts"
 import { frontmatterIn } from "./seat-presence-read.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 
 const PAGE_SUFFIX = ".md"
 

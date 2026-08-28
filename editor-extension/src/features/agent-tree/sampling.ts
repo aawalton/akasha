@@ -3,11 +3,11 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import { recordObservation, recordSweep } from '../../seat/observation-store';
-import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids';
-import { readSeatLookup, readSeatTerminals, type SeatTerminal } from './columns';
-import type { AgentNode } from './forest';
-import { columns, output } from './tree-state';
+import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
+import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
+import { readSeatLookup, readSeatTerminals, type SeatTerminal } from './columns.ts';
+import type { AgentNode } from './forest.ts';
+import { columns, output } from './tree-state.ts';
 
 
 /** Every row on screen, stopped seats included — the log's figure, not the header's. */

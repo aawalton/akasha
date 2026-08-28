@@ -12,8 +12,8 @@
  * keeps working under the strictest content policy and survives the panel being
  * restored from a serialized state.
  */
-import type { Entry, ToolCallEntry } from './model';
-import type { SubagentTranscript } from './sources';
+import type { Entry, ToolCallEntry } from './model.ts';
+import type { SubagentTranscript } from './sources.ts';
 
 /**
  * Every string from a transcript is untrusted: it holds command output, file

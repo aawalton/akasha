@@ -1,5 +1,5 @@
 import { type Carries } from "./page-derive-shape.ts"
-import { BODY } from "./page-file-values"
+import { BODY } from "./page-file-values.ts"
 import type { PageQuery } from "./page-query.ts"
 
 export function askedKeys(query: PageQuery): readonly string[] {

@@ -3,10 +3,10 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter';
-import type { AgentNode } from './forest';
-import { turnColourIn, turnStateSaid } from '../turn-colour';
-import { seatContextValue } from './toggles';
+import { filterTree, textMatches } from '../tree-filter.ts';
+import type { AgentNode } from './forest.ts';
+import { turnColourIn, turnStateSaid } from '../turn-colour.ts';
+import { seatContextValue } from './toggles.ts';
 
 export const REVEAL_TERMINAL_COMMAND = 'opsAgentTree.revealTerminal';
 

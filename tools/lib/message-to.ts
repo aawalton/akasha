@@ -1,5 +1,5 @@
 
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { seatRoster } from "./seat-roster.ts"
 import { resolveSlot, scan } from "./seat-resolve.ts"
 

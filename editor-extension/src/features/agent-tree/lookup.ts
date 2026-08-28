@@ -9,9 +9,9 @@
  * caller keeps the import it had: these are pure functions of their arguments,
  * and the assembly file was past the ceiling one file may weigh.
  */
-import { SEAT_MODE_SCHEMA, type SeatMode } from '../../seat/mode';
-import type { AgentNode } from './forest';
-import type { HarnessRow } from './harness';
+import { SEAT_MODE_SCHEMA, type SeatMode } from '../../seat/mode.ts';
+import type { AgentNode } from './forest.ts';
+import type { HarnessRow } from './harness.ts';
 
 /**
  * Where each seat runs, read off the row.

@@ -3,8 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter';
-import { type DomainNode, type DomainTree, documentPath } from './harness';
+import { filterTree, textMatches } from '../tree-filter.ts';
+import { type DomainNode, type DomainTree, documentPath } from './harness.ts';
 
 /**
  * The workbench's own verb for opening a resource. Used rather than a command of this

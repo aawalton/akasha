@@ -13,7 +13,7 @@ import { patchedText } from "./page-write-compose.ts"
 import { rewritten, statedIn, textIn } from "./page-write-text.ts"
 import { splitValues, type Value } from "./page-write-values.ts"
 import { type Where, whereFor } from "./page-write-where.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 export type Compared =
   | { readonly outcome: "won"; readonly at: Where; readonly commitError: string | null }

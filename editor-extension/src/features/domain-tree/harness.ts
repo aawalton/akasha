@@ -22,7 +22,7 @@
 
 import * as path from 'node:path';
 import { z } from 'zod';
-import { runOps } from '../../harness-call';
+import { runOps } from '../../harness-call.ts';
 
 /**
  * The ceiling on the read. It scans every document in the repository, which takes a

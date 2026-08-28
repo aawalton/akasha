@@ -1,8 +1,8 @@
 import { statSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { stemOf as slugOf } from "../../page/name/name.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import {
   type HeldSeatPage,
   newestBodyPerPath,

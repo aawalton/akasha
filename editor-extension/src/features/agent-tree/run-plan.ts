@@ -4,11 +4,11 @@
  *--------------------------------------------------------------------------------------------*/
 
 import * as vscode from 'vscode';
-import { type SeatStep, type SeatToggleState } from "./toggles"
-import { confirmTurnLoss, type SeatAct } from "./confirm";
-import { invokedSeat } from './invoked-seat';
-import { performPlan } from './seat-acts';
-import { output } from './tree-state';
+import { type SeatStep, type SeatToggleState } from "./toggles.ts"
+import { confirmTurnLoss, type SeatAct } from "./confirm.ts";
+import { invokedSeat } from './invoked-seat.ts';
+import { performPlan } from './seat-acts.ts';
+import { output } from './tree-state.ts';
 
 // A toggle changes what the next poll will read, so the tree is re-read as soon
 // as the plan finishes rather than left showing the old state for a whole

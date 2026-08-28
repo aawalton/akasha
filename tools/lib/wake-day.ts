@@ -1,6 +1,6 @@
 import { getEsoDayStr, getEsoDayWindow } from "./eso-day.ts"
 import { deriverFor } from "./deriver-hold.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 export const WAKE_DAY = "wake-day"
 

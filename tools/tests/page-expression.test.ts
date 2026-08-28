@@ -1,6 +1,7 @@
 import { describe, expect, it } from "bun:test"
 import type { Held } from "../lib/page-file-values"
-import { evaluate, ExpressionRefused } from "../lib/page-expression.ts"
+import { evaluate } from "../lib/page-expression.ts"
+import { ExpressionRefused } from "../lib/page-expression-value.ts"
 
 const reading =
   (values: Readonly<Record<string, Held>>) =>

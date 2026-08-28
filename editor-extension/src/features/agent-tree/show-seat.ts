@@ -3,21 +3,21 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { type ColumnNumber, chooseColumn } from '../../seat/editor-group';
+import { type ColumnNumber, chooseColumn } from '../../seat/editor-group.ts';
 import {
 	type PsRow,
 	seatNameForShellPid,
 	type TmuxClient,
-} from '../../seat/terminal-lookup';
-import { identified, readProcessIds } from '../../seat/terminal-pids';
-import { groupForTerminal, openColumns, readSeatLookup } from './columns';
-import { columns, forest, output } from './tree-state';
+} from '../../seat/terminal-lookup.ts';
+import { identified, readProcessIds } from '../../seat/terminal-pids.ts';
+import { groupForTerminal, openColumns, readSeatLookup } from './columns.ts';
+import { columns, forest, output } from './tree-state.ts';
 
 /** The command that opens a seat's transcript, sent rather than called. */
 const OPEN_TRANSCRIPT_COMMAND = 'opsTranscript.open';
-import { ancestorNames } from "./lookup";
-import { type SeatClick } from './tree';
-import { parseSeatClick } from './invoked-seat';
+import { ancestorNames } from "./lookup.ts";
+import { type SeatClick } from './tree.ts';
+import { parseSeatClick } from './invoked-seat.ts';
 
 /**
  * Shows what the clicked seat is doing.

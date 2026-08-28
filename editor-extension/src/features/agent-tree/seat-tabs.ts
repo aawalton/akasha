@@ -32,7 +32,7 @@
  * `package.json` and checks each names a key this file publishes, which it can only do by
  * importing this file outside an extension host.
  */
-import type { SeatMode } from '../../seat/mode';
+import type { SeatMode } from '../../seat/mode.ts';
 
 /**
  * The five keys, one per entry the seat's row offers, so each clause reads one key and

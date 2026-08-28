@@ -22,8 +22,8 @@
 
 import * as path from 'node:path';
 import { z } from 'zod';
-import { runOps, runVerb, verbPath } from '../../harness-call';
-import { rollUp } from './colours';
+import { runOps, runVerb, verbPath } from '../../harness-call.ts';
+import { rollUp } from './colours.ts';
 
 /**
  * The ceiling on the read. It parses every document in the akasha repository — which takes a second

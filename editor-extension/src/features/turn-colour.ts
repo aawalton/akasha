@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import { PALETTE_NAMES } from '../palette';
+import { PALETTE_NAMES } from '../palette.ts';
 
 /**
  * What a seat's turn state draws as, kept apart from the tree so it can be exercised.

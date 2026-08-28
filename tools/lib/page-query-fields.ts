@@ -2,7 +2,7 @@ import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { documentFrom } from "./page-query-bind.ts"
 import { narrowed } from "./page-query-narrow.ts"
 import { type PageQuery, type Reduction } from "./page-query.ts"
-import { type Roots } from "../../page/page"
+import { type Roots } from "../../page/page.ts"
 
 const REDUCTIONS: readonly string[] = ["sum", "mean"]
 

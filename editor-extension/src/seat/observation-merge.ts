@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import type { Observation, SweepObservation } from './observations';
+import type { Observation, SweepObservation } from './observations.ts';
 
 /**
  * What a feature reports, which is everything an `Observation` holds except when.

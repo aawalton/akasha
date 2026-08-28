@@ -1,4 +1,4 @@
-import type { Held } from "./page-file-values"
+import type { Held } from "./page-file-values.ts"
 
 export type RefusedCode =
   | "parse_error"

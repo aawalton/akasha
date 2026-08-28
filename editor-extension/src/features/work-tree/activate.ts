@@ -3,14 +3,14 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { repositoryPath, unreachableMessage } from '../../harness-call';
-import { recordObservation } from '../../seat/observation-store';
-import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color';
-import { createSettledRefresh } from '../settled-refresh';
-import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness"
-import { recolour } from "./colours";
-import { REFRESH_COMMAND, VIEW_ID } from './ids';
-import { createWorkDecorationProvider, createWorkTree } from './tree';
+import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
+import { recordObservation } from '../../seat/observation-store.ts';
+import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
+import { createSettledRefresh } from '../settled-refresh.ts';
+import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness.ts"
+import { recolour } from "./colours.ts";
+import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { createWorkDecorationProvider, createWorkTree } from './tree.ts';
 
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'work-tree';

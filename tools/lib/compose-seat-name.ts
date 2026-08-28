@@ -4,7 +4,7 @@ import { CHAMPIONED_DOMAIN_KEY } from "./domain.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageRelIn, placeDirOf } from "../../page/page-types.ts"
 import { akashaRoot } from "../../repo/roots/roots.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { documentFor, personaIsDefault } from "./seat-resolve.ts"
 
 export const JOINER = "-"

@@ -28,7 +28,7 @@
 import { open, stat } from 'node:fs/promises';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { applyRecord, emptySubagentState, isJsonObject, type RunningSubagent, runningSubagents, type SubagentState } from './subagent-core';
+import { applyRecord, emptySubagentState, isJsonObject, type RunningSubagent, runningSubagents, type SubagentState } from './subagent-core.ts';
 
 /**
  * One transcript line. Claude Code owns this file's shape and versions it

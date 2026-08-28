@@ -1,4 +1,4 @@
-import { type Values } from "./page-file-values"
+import { type Values } from "./page-file-values.ts"
 
 export function textOf(values: Values, key: string): string | null {
   const value = values[key]

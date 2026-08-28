@@ -3,7 +3,8 @@ import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "nod
 import { join } from "node:path"
 import { deriver } from "../lib/page-derive.ts"
 import { type Held } from "../lib/page-file-values"
-import { evaluate, ExpressionRefused } from "../lib/page-expression.ts"
+import { evaluate } from "../lib/page-expression.ts"
+import { ExpressionRefused } from "../lib/page-expression-value.ts"
 import { answer } from "../lib/page-query.ts"
 import type { Roots } from "../../page/page"
 

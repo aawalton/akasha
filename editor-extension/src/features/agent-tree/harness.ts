@@ -29,7 +29,7 @@
  * left this panel empty on 2026-08-13. See that file for the measurement.
  */
 
-import { runVerb, verbPath } from '../../harness-call';
+import { runVerb, verbPath } from '../../harness-call.ts';
 
 /**
  * The ceiling on one call, matching what the code repository's own caller allows a verb in that

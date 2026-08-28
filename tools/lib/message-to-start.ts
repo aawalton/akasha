@@ -7,7 +7,7 @@ import {
   names,
   seatsStating,
 } from "./message-to.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { handlerDerives } from "./seat-answering.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { REPO_ROOT } from "./supervisor-config.ts"

@@ -1,7 +1,7 @@
 import { type Declared, type Kind } from "./page-declared.ts"
 import { type Backed, type Relation } from "./page-derive-shape.ts"
 import { placeOf } from "../../page/page-types.ts"
-import { isAddressable } from "../../repo/roots/roots"
+import { isAddressable } from "../../repo/roots/roots.ts"
 
 
 export interface Backing {

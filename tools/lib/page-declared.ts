@@ -5,11 +5,9 @@ import { computedOn, reachedFor, reachingIn } from "../../page/property/computed
 import { ATTACHMENT, type Held } from "./page-file-values.ts"
 import { DEFINED_ON, filedIn, PAGE_PROPERTY_TYPE_GLOB, PAGE_TYPE_GLOBS, PROPERTY_GLOBS, repoPlacings, scanIn, type Filed } from "../../page/page-types.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { SLUG_PROPERTY } from "../../page/property/stated.ts"
-import type { Roots } from "../../page/page"
-
-export { PROPERTY_GLOBS }
+import type { Roots } from "../../page/page.ts"
 
 export const FROM = "from"
 

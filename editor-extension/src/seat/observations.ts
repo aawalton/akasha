@@ -27,7 +27,7 @@
  * caller's, in `./observation-store.ts`.
  */
 import { z } from 'zod';
-import type { WindowIdentity } from './window-identity';
+import type { WindowIdentity } from './window-identity.ts';
 
 /** The schema version, so a reader meeting a shape it does not know can say so. */
 export const OBSERVATIONS_VERSION = 1;

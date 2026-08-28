@@ -2,12 +2,12 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import { turnColoursVerbPath } from '../../harness-call';
-import type { SeatMode } from '../../seat/mode';
-import { seatTranscriptOf } from '../transcript/sources';
-import { askHarness, askHarnessFile, parseForestRows, parseStateColour } from './harness';
-import { readSeatPlaces } from './lookup';
-import type { SubagentNode, SubagentReader } from './subagents';
+import { turnColoursVerbPath } from '../../harness-call.ts';
+import type { SeatMode } from '../../seat/mode.ts';
+import { seatTranscriptOf } from '../transcript/sources.ts';
+import { askHarness, askHarnessFile, parseForestRows, parseStateColour } from './harness.ts';
+import { readSeatPlaces } from './lookup.ts';
+import type { SubagentNode, SubagentReader } from './subagents.ts';
 
 /**
  * The principal that makes a seat a root, read off the ROW.

@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import type { SeatStep, SeatToggleState } from './toggles';
+import type { SeatStep, SeatToggleState } from './toggles.ts';
 
 /**
  * The acts a row's menu offers, spelled as the triggers the caller already logs

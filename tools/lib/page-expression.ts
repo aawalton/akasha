@@ -1,4 +1,4 @@
-import type { Held } from "./page-file-values"
+import type { Held } from "./page-file-values.ts"
 import { ARITY, CALLS } from "./page-expression-function.ts"
 import {
   ExpressionRefused,
@@ -10,8 +10,6 @@ import {
   type Scalar,
   type Value,
 } from "./page-expression-value.ts"
-
-export { ExpressionRefused }
 
 const PROP_OPEN = "prop("
 

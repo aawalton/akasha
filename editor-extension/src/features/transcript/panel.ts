@@ -18,9 +18,9 @@
  */
 import * as fs from 'node:fs';
 import * as vscode from 'vscode';
-import { buildEntries, type Entry } from './model';
-import { renderEntries } from './render';
-import { readSubagents, readTranscriptText, seatTranscriptOf, type SubagentTranscript } from './sources';
+import { buildEntries, type Entry } from './model.ts';
+import { renderEntries } from './render.ts';
+import { readSubagents, readTranscriptText, seatTranscriptOf, type SubagentTranscript } from './sources.ts';
 
 /** How often the transcript and the sentinel are re-read while a panel is open. */
 const POLL_INTERVAL_MS = 1_000;

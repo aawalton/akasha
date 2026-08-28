@@ -4,8 +4,8 @@
  *--------------------------------------------------------------------------------------------*/
 import * as path from 'node:path';
 import { z } from 'zod';
-import { akashaRoot, repositoryPath, runVerb, turnColoursVerbPath } from '../harness-call';
-import { colorNamed } from '../palette';
+import { akashaRoot, repositoryPath, runVerb, turnColoursVerbPath } from '../harness-call.ts';
+import { colorNamed } from '../palette.ts';
 
 /**
  * The colour a seat's turn state is drawn in, as a colour the tab strip can be painted.

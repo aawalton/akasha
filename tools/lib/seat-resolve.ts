@@ -5,12 +5,12 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { placeDirOf, placesIn, reposOf, scanIn } from "../../page/page-types.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { stemOf as slugOf } from "../../page/name/name.ts"
 import { listDocuments } from "./check.ts"
 import { type Documents, domainNamed, DOMAIN_SLUG_KEY, slugsIn } from "./domain.ts"
 import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
 import { ATTRIBUTES, type AttributeKey, DECLARATIONS, type Declaration } from "./attributes.ts"
-import { isDirty, resolveRoots } from "../../repo/roots/roots"
+import { isDirty, resolveRoots } from "../../repo/roots/roots.ts"
 
 export interface Found {
   readonly docs: Documents

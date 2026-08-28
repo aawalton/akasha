@@ -3,10 +3,10 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { unreachableMessage } from '../../harness-call';
-import { recordObservation, recordSweep } from '../../seat/observation-store';
-import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color';
-import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids';
+import { unreachableMessage } from '../../harness-call.ts';
+import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
+import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
+import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
 import {
 	type ColumnMemory,
 	createColumnMemory,
@@ -14,15 +14,15 @@ import {
 	readSeatTerminals,
 	type SeatTerminal,
 	tabInstanceIds,
-} from './columns';
-import { type AgentNode, readAgentForest } from "./forest"
-import { seatsByName } from "./lookup";
-import { seatTabContext, type SeatTabState } from './seat-tabs';
-import { createSubagentReader } from './subagents';
-import { planPlaceToggle, planReset, planRunToggle, type SeatStep, type SeatToggleState } from "./toggles"
-import { confirmTurnLoss, type SeatAct } from "./confirm";
-import { createAgentDecorationProvider, createAgentTree, REVEAL_TERMINAL_COMMAND } from './tree';
-import { asToggleTarget, invokedSeat } from './invoked-seat';
+} from './columns.ts';
+import { type AgentNode, readAgentForest } from "./forest.ts"
+import { seatsByName } from "./lookup.ts";
+import { seatTabContext, type SeatTabState } from './seat-tabs.ts';
+import { createSubagentReader } from './subagents.ts';
+import { planPlaceToggle, planReset, planRunToggle, type SeatStep, type SeatToggleState } from "./toggles.ts"
+import { confirmTurnLoss, type SeatAct } from "./confirm.ts";
+import { createAgentDecorationProvider, createAgentTree, REVEAL_TERMINAL_COMMAND } from './tree.ts';
+import { asToggleTarget, invokedSeat } from './invoked-seat.ts';
 import {
 	columns,
 	forest,
@@ -34,13 +34,13 @@ import {
 	setOutput,
 	setSeatTabs,
 	setSeatTerminals,
-} from './tree-state';
-import { showSeat } from './show-seat';
-import { performPlan } from './seat-acts';
+} from './tree-state.ts';
+import { showSeat } from './show-seat.ts';
+import { performPlan } from './seat-acts.ts';
 
 
-import { runPlan as runPlanWith } from './run-plan';
-import { countRows, sampleColumns } from './sampling';
+import { runPlan as runPlanWith } from './run-plan.ts';
+import { countRows, sampleColumns } from './sampling.ts';
 import {
 	COPY_SEAT_NAME_COMMAND,
 	PLACE_HEADLESS_COMMAND,
@@ -52,7 +52,7 @@ import {
 	RUN_STOP_COMMAND,
 	SEAT_SETTLE_MS,
 	VIEW_ID,
-} from './ids';
+} from './ids.ts';
 
 /**
  * This feature's name in the observation record, and in `extension.ts`'s list.

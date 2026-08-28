@@ -14,7 +14,8 @@ import {
   read,
   render,
 } from "../lib/formula-conformance.ts"
-import { evaluate, ExpressionRefused } from "../lib/page-expression.ts"
+import { evaluate } from "../lib/page-expression.ts"
+import { ExpressionRefused } from "../lib/page-expression-value.ts"
 import { CONFORMANCE_CASES } from "./formula-conformance/cases.ts"
 import { DIVERGENT_CASES } from "./formula-conformance/divergent.ts"
 

@@ -3,8 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { type ColumnMemory, type SeatTerminal } from './columns';
-import { type AgentNode } from './forest';
+import { type ColumnMemory, type SeatTerminal } from './columns.ts';
+import { type AgentNode } from './forest.ts';
 
 /**
  * The tree's live state, held apart from the view so every part of the feature

@@ -4,9 +4,9 @@
  *--------------------------------------------------------------------------------------------*/
 
 import * as vscode from 'vscode';
-import { describeTerminal, type PidReading, PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids';
-import type { PsRow } from '../../seat/terminal-lookup';
-import { lastAppliedByTerminal, lastColorByTerminal, SILENT_TERMINAL_NAME } from './terminal-marks';
+import { describeTerminal, type PidReading, PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
+import type { PsRow } from '../../seat/terminal-lookup.ts';
+import { lastAppliedByTerminal, lastColorByTerminal, SILENT_TERMINAL_NAME } from './terminal-marks.ts';
 
 
 /**

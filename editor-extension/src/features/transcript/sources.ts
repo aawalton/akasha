@@ -21,8 +21,8 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { seatNameOf, frontmatterValue } from '../../seat/seat-page';
-import { seatPagesDir } from '../../seat/turn-color';
+import { seatNameOf, frontmatterValue } from '../../seat/seat-page.ts';
+import { seatPagesDir } from '../../seat/turn-color.ts';
 
 export interface SeatTranscript {
 	readonly agentId: string;

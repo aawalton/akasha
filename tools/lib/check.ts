@@ -1,11 +1,11 @@
 
 import type { Repo } from "../../page/document/types.ts"
-import type { Outcome, Population } from "../../outcome/outcome"
+import type { Outcome, Population } from "../../outcome/outcome.ts"
 import { isRowsFile } from "../../page/rows-file.ts"
 import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
-import { type Roots } from "../../page/page"
-import { isVendored } from "../../repo/roots/roots"
+import { type Roots } from "../../page/page.ts"
+import { isVendored } from "../../repo/roots/roots.ts"
 import type { Band } from "./run-cost.ts"
 
 export const CHECK_BAND: Band = "lagging"

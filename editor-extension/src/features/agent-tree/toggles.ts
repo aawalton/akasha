@@ -3,8 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import { z } from 'zod';
-import type { SeatMode } from '../../seat/mode';
-import { askHarness } from './harness';
+import type { SeatMode } from '../../seat/mode.ts';
+import { askHarness } from './harness.ts';
 
 /**
  * The two things a row says about a seat, and the two a toggle changes: where it

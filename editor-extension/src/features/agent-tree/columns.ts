@@ -23,22 +23,22 @@
  */
 import * as vscode from 'vscode';
 import { z } from 'zod';
-import type { ColumnNumber } from '../../seat/editor-group';
-import { seatNamesOnDisk } from '../../seat/seat-page';
+import type { ColumnNumber } from '../../seat/editor-group.ts';
+import { seatNamesOnDisk } from '../../seat/seat-page.ts';
 import {
 	loadPsRows,
 	loadTmuxClients,
 	type PsRow,
 	seatNameForShellPid,
 	type TmuxClient,
-} from '../../seat/terminal-lookup';
+} from '../../seat/terminal-lookup.ts';
 import {
 	identified,
 	type PidTally,
 	readProcessIds,
 	tally,
 	tallyLine,
-} from '../../seat/terminal-pids';
+} from '../../seat/terminal-pids.ts';
 
 const MEMENTO_KEY = 'opsAgentTree.lastSeenColumn';
 

@@ -11,8 +11,8 @@
  */
 import * as fs from 'node:fs';
 import * as vscode from 'vscode';
-import { openTranscriptPanel, type TranscriptTarget } from './panel';
-import { readSeatTranscripts } from './sources';
+import { openTranscriptPanel, type TranscriptTarget } from './panel.ts';
+import { readSeatTranscripts } from './sources.ts';
 
 export interface OpenTranscriptArgs extends TranscriptTarget {
 	readonly viewColumn?: vscode.ViewColumn;

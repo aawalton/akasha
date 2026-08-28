@@ -17,7 +17,7 @@
  */
 import { readdir, readFile } from 'node:fs/promises';
 import * as path from 'node:path';
-import { seatDirs } from './turn-color';
+import { seatDirs } from './turn-color.ts';
 
 /**
  * One string value out of a page's frontmatter block, read the way the hooks read it: the block

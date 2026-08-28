@@ -26,8 +26,8 @@ import { PAGE_QUERY_ORIGIN } from '../../../readouts/ask-over-http.ts';
 import { deferCommits } from '../../../tools/lib/page-commit-queue.ts';
 import { written } from '../../../tools/lib/page-query-landing.ts';
 import { rootsHere } from '../../../repo/roots/roots.ts';
-import { changeKey, type Observation } from "./observations"
-import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge";
+import { changeKey, type Observation } from "./observations.ts"
+import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge.ts";
 
 /**
  * What a caller knows about a sweep it just ran, before the window's history is

@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import type { WorkColours, WorkNode, WorkTree } from './harness';
+import type { WorkColours, WorkNode, WorkTree } from './harness.ts';
 
 /**
  * The colour this answer gives a row OF ITS OWN, or null where it gives none.

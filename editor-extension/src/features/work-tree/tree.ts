@@ -3,9 +3,9 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter';
-import { TURN_SCHEME_PATH, turnColourIn } from '../turn-colour';
-import { type WorkNode, type WorkTree, documentPath } from './harness';
+import { filterTree, textMatches } from '../tree-filter.ts';
+import { TURN_SCHEME_PATH, turnColourIn } from '../turn-colour.ts';
+import { type WorkNode, type WorkTree, documentPath } from './harness.ts';
 
 /**
  * This panel's own uri scheme for the rows it colours.
