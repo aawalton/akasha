@@ -30,7 +30,7 @@ parent-slug: astra-pages-system
 
 Filed as `checks-system/require-import-extension-refuses-nothing-and-stands-over-ten-thousand-failures`.
 
-**`page-holds-to-its-type` guards the write path again**, and it refuses the whole write rather than the section — so a page landed over its shape while the gate was off cannot be edited at all until it is cut back under. `astra-pages-system-core` stands at 12,626 characters of `# Notes` and `astra-pages-system-service` at 11,793, against a ceiling of 5,000. `page-name-unique` is blocked by 878 pages in 309 colliding groups. The question the two remaining raise is not whether they should gate, which is settled, but what has to be true before the switch goes back.
+**`page-holds-to-its-type` guards the write path again**, and it refuses the whole write rather than the section — so a page landed over its shape while the gate was off cannot be edited at all until it is cut back under. `page-name-unique` is blocked by 878 pages in 309 colliding groups. The question the two remaining raise is not whether they should gate, which is settled, but what has to be true before the switch goes back.
 
 - Filed as `pages-system/royal-road-sync-composes-a-chapter-path-from-a-hardcoded-pages-root`.
 - **What originates off the workstation is `astra-pages-system-service`'s**, opened 2026-08-27 to hold the other half of the same split.
