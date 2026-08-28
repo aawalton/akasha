@@ -14,7 +14,7 @@ Measured 2026-08-28 by seat astra, after restoring `page-holds-to-its-type` at `
 
 `pages/page-body-shape/finding.page-body-shape.md` bounds a finding's `# Claim` at 500 characters and `# Evidence` at 2000. The refusal is not scoped to the section being changed: a one-character correction to a conforming section is refused because a different section is over.
 
-`ops checks audit page-holds-to-its-type` reports 171 pages outside their shape — 157 findings and 14 others, among them four domain pages and three check pages. That is the gate's own count, from the gate's own instrument.
+`ops checks audit page-holds-to-its-type` reported 171 pages outside their shape at `0a2d75a11` — 157 findings and 14 others, among them four domain pages and three check pages. A second seat ran the same audit minutes later and got 161. Both readings are right: reshaping was trimming pages while each audit ran. The honest form is about 160 and falling. A count of this corpus is a reading with a commit attached, never a fact.
 
 Three earlier attempts at this number were wrong, and how they were wrong is the more useful record.
 
