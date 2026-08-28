@@ -36,13 +36,13 @@ export default workflow("gotrue", {
       ...sopsDecryptApply({
         name: "gotrue-apply-secrets",
         namespace: "gotrue",
-        secretFile: "infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/gotrue/gotrue.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/secrets/gotrue-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/gotrue.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n gotrue -f -`,
         `echo "$DECRYPTED" | kubectl apply -n gotrue -f -`,
       ],
@@ -53,13 +53,13 @@ export default workflow("gotrue", {
       ...sopsDecryptApply({
         name: "gotrue-apply-supabase-auth-admin-secrets",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/gotrue/supabase-auth-admin.k8s-secret.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/secrets/supabase-auth-admin-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/gotrue/supabase-auth-admin.k8s-secret.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
