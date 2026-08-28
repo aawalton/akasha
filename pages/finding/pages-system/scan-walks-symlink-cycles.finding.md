@@ -17,7 +17,7 @@ Measured 2026-08-28 at `8c1650a7`, on Bun 1.3.14 and Node 24.3.0.
 
     const found = walked.flatMap((pattern) => [...scanGlob(pattern, root)])
     if (suffixes.size > 0) {
-      for (const at of scanGlob(\`**/*\${MARKDOWN}\`, root)) {
+      for (const at of scanGlob(`**/*${MARKDOWN}`, root)) {
 
 `scanGlob` at `page/glob/glob.ts:45-47` is `globSync(pattern, { cwd: root })` from `node:fs`.
 
