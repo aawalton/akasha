@@ -51,21 +51,22 @@ const FILE_KEY_TYPE = "file"
 
 const PACKAGE_REPO_KEY = "repo"
 
-const ABSORBED: ReadonlySet<Repo> = new Set([AKASHA, "instructions", "code", "memory", "books", "stories"])
-
 /**
  * Where a repository's package manifests stand.
  *
- * `instructions`, `code`, `memory`, `books` AND `stories` WERE ABSORBED INTO AKASHA, so each answers
- * the root handed in rather than a checkout of its own. `rootFor` throws for a repository nothing has
- * cloned, and these five names outlive their checkouts in package frontmatter — so asking it for one
- * took down every caller wanting to know what a file said to be in that tree must have read.
+ * A REPOSITORY ANSWERS THE ROOT HANDED IN UNLESS IT IS CLONED SEPARATELY HERE. An absorbed name
+ * outlives its checkout in package frontmatter, and `rootFor` throws for a repository nothing has
+ * cloned — so asking it for one took down every caller wanting to know what a file said to be in
+ * that tree must have read. What is on disk answers that, rather than a list of the absorbed names:
+ * the repository absorbed after such a list was written is the one it would break on.
  *
- * `memory` STANDS HERE WITH THE REST. It was absorbed on the same move and was the one name left out,
- * so it alone reached `rootFor` and threw where its four siblings answered.
+ * `akasha` ANSWERS THE ROOT HANDED IN THOUGH IT IS CLONED. Callers hand in the root they are asking
+ * about, and a test points that at a tree of its own.
  */
 function rootOf(repo: Repo, root: string): string {
-  return ABSORBED.has(repo) ? root : rootFor(resolveRoots(), repo)
+  if (repo === AKASHA) return root
+  const roots = resolveRoots()
+  return roots[repo] === undefined ? root : rootFor(roots, repo)
 }
 
 function fileKeysIn(frontmatter: ReadonlyMap<string, Frontmatter>): ReadonlySet<string> {
