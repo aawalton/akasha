@@ -17,6 +17,4 @@ domain-parent-slug: domain/page-property-universal
 
 A slug is unique among the pages of its page type.
 
-Where a page type declares a `unique-key`, that names what its slugs are unique within.
-
 A slug carries whatever characters the name it is written from carries.
