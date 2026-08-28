@@ -227,19 +227,25 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   // held, so a second pass would read every sidecar again; what only a pass can settle — which
   // keys no page states — is worked out here, beside the rows the tests keep.
   const matched: Row[] = []
-  let walked = 0
   for (const page of found) {
-    walked += 1
     const row = falling.length === 0 ? page : stating(page, falling)
     for (const key of unseen) if (row.values[key] !== undefined) unseen.delete(key)
     for (const key of unfound) if (row.values[key] !== undefined) unfound.delete(key)
     if (asked.every((test) => passes(row.values, test, typeOf))) matched.push(row)
   }
+  // WHAT NO PROPERTY DECLARES IS ABSENT WHETHER OR NOT A SINGLE PAGE STANDS. Both sets are seeded
+  // from the declaration — `typeOf(key) === null` — so they are already right before the walk, and
+  // the walk only ever takes keys out of them. Withholding them when nothing was walked took the
+  // refusal away from exactly the page types most likely to be addressed by a name they do not
+  // carry: a new one, or one whose pages have all gone. The reader got back the uninformative zero
+  // the refusal itself warns about, marked as success — and then the same call began refusing on
+  // the day that type first page landed, so the mistake surfaced nowhere near the change that
+  // made it.
   const beside = {
-    absent: walked === 0 ? [] : [...unseen].sort(),
+    absent: [...unseen].sort(),
     faults: [...derive.faults(), ...reducedFault(query, typeOf)],
     omitted: everyKey ? derive.attachmentKeys(query.pageType) : [],
-    unfound: query.keys === undefined || walked === 0 ? [] : [...unfound].sort(),
+    unfound: query.keys === undefined ? [] : [...unfound].sort(),
   }
   const countBy = query.countBy
   if (countBy !== undefined) {
