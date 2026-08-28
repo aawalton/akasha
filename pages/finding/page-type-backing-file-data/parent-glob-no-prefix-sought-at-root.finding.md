@@ -3,7 +3,7 @@ id: 5f581954-00ed-5b0c-9d0c-6821796a6ad2
 slug: parent-glob-no-prefix-sought-at-root
 page-type-slug: finding
 title: "A parent whose glob has no fixed prefix is looked for at the repo root"
-domain-slug: domain/global
+domain-slug: domain/page-storage-rows
 ---
 
 # Claim

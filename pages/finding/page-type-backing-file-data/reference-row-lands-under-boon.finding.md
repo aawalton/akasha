@@ -3,7 +3,7 @@ id: 361e035d-5c57-52b8-aeca-07ab86d7306a
 slug: reference-row-lands-under-boon
 page-type-slug: finding
 title: "A reference row lands in the boon sidecar whatever parent it names"
-domain-slug: domain/global
+domain-slug: domain/page-storage-rows
 ---
 
 # Claim
