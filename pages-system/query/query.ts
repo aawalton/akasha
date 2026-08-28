@@ -40,7 +40,7 @@ import { type Extending, cycleAmong, familyOf } from "./expands.ts"
 import { type Ordering, ordered, orderRefused, orderingOf } from "./order.ts"
 import { type Declaring, keysRefused, narrowed } from "./keys.ts"
 import type { How, Reduction } from "./reduce.ts"
-import { answering, beyondSaid, reductionRefused, refuseQuery } from "./refuse.ts"
+import { answering, beyondSaid, limitRefused, reductionRefused, refuseQuery } from "./refuse.ts"
 
 /** What a `where` must answer. A query narrows by a test, and a test is a boolean. */
 const BOOLEAN = "boolean"
@@ -92,6 +92,11 @@ export type Query = {
   readonly sortBy?: string
   /** Whether that order runs from the highest value down. Stated only with a `sortBy`. */
   readonly descending?: boolean
+  /**
+   * How many pages it answers with, a whole number and never fewer than none. A query stating none
+   * answers every page its `where` held of.
+   */
+  readonly limit?: number
   /** How the key it targets is reduced. A query stating this states a `target` too. */
   readonly function?: How
   /** The key reduced, declared a number. Stated only with a `function`. */
@@ -124,6 +129,8 @@ class CheckedQuery {
 
   readonly #ordering: Ordering | null
 
+  readonly #limit: number | null
+
   /**
    * What this query reduces, or null where it answers pages rather than a value. CARRIED IN THE OPEN
    * so a caller can tell whether asking this query for a value is a question it answers at all.
@@ -135,13 +142,15 @@ class CheckedQuery {
     test: CheckedFormula | null,
     keys: readonly string[] | null,
     reduction: Reduction | null,
-    ordering: Ordering | null
+    ordering: Ordering | null,
+    limit: number | null
   ) {
     this.pageTypes = pageTypes
     this.#test = test
     this.#keys = keys
     this.reduction = reduction
     this.#ordering = ordering
+    this.#limit = limit
   }
 
   /**
@@ -166,7 +175,8 @@ class CheckedQuery {
             return held.kind === "boolean" && held.boolean
           })
     const held = narrowed(found, this.#keys)
-    return this.#ordering === null ? held : ordered(held, this.#ordering)
+    const inOrder = this.#ordering === null ? held : ordered(held, this.#ordering)
+    return this.#limit === null ? inOrder : inOrder.slice(0, this.#limit)
   }
 }
 
@@ -242,6 +252,10 @@ export const checkQuery = (
   if (misordered !== null) return refuseQuery(misordered)
   const ordering = orderingOf(query, declared)
 
+  const overLimit = limitRefused(query)
+  if (overLimit !== null) return refuseQuery(overLimit)
+  const limit = query.limit ?? null
+
   const wrong = reductionRefused(query, declared)
   if (wrong !== null) return refuseQuery(wrong)
   const reduction: Reduction | null =
@@ -250,7 +264,9 @@ export const checkQuery = (
       : { how: query.function, target: query.target }
 
   const where = query.where
-  if (where === undefined) return new CheckedQuery(pageTypes, null, keys, reduction, ordering)
+  if (where === undefined) {
+    return new CheckedQuery(pageTypes, null, keys, reduction, ordering, limit)
+  }
 
   const checked = checkFormula(where, shapeOf(declared))
   if (!checked.ok) return checked
@@ -263,7 +279,7 @@ export const checkQuery = (
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering)
+  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering, limit)
 }
 
 /**

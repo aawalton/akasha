@@ -52,6 +52,31 @@ export const beyondSaid = (
     .join("; ")
 
 /**
+ * Why a query's limit cannot be read, or nothing where it can.
+ *
+ * A LIMIT IS A COUNT OF PAGES, so it is a whole number and never fewer than none.
+ * `pages/page-property-definition/page-query-limit.page-property-definition.md:14` calls it "how
+ * many pages a page query answers with", and there is no such thing as minus three pages or half a
+ * page. A negative limit taken as an offset from the end, or a fraction quietly rounded, answers a
+ * set of pages that reads exactly like the set a whole limit asked for.
+ *
+ * NOUGHT IS A LIMIT AND NOT AN ABSENCE. A query stating `limit: 0` asks for no pages and gets none;
+ * a query stating no limit asks for every page its `where` held of. The two are told apart by
+ * whether the field is stated rather than by reading the number.
+ */
+export const limitRefused = (query: Query): string | null => {
+  const limit = query.limit
+  if (limit === undefined) return null
+  if (!Number.isInteger(limit)) {
+    return `a \`limit\` is a whole number of pages, and this one states \`${limit}\``
+  }
+  if (limit < 0) {
+    return `a \`limit\` is how many pages a query answers with, so it is never fewer than none, and this one states \`${limit}\``
+  }
+  return null
+}
+
+/**
  * Why a query's reduction cannot be worked out, or nothing where it can.
  *
  * THE TWO FIELDS STAND OR FALL TOGETHER. Either alone is a query whose writer meant a reduction and
