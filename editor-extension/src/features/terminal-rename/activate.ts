@@ -4,19 +4,8 @@
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
 import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
-import {
-	describeTerminal,
-	type PidReading,
-	PROCESS_ID_TIMEOUT_MS,
-	readProcessIds,
-	tally,
-} from '../../seat/terminal-pids.ts';
-import {
-	loadPsRows,
-	loadTmuxClients,
-	type PsRow,
-	seatNameForShellPid,
-} from '../../seat/terminal-lookup.ts';
+import { PROCESS_ID_TIMEOUT_MS, readProcessIds, tally } from '../../seat/terminal-pids.ts';
+import { loadPsRows, loadTmuxClients, seatNameForShellPid } from '../../seat/terminal-lookup.ts';
 import { agentIdsForSeatNames, seatNamesOnDisk } from '../../seat/seat-page.ts';
 import { readSeatTurnColors, SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 

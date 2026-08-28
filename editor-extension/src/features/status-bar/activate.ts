@@ -4,7 +4,7 @@
  *--------------------------------------------------------------------------------------------*/
 import * as os from 'node:os';
 import * as path from 'node:path';
-import { getEsoDayStr, getEsoResetTime } from '../../../../day/day.ts';
+import { getEsoDayStr } from '../../../../day/day.ts';
 import { duringOneCall } from '../../../../during-call/during-call.ts';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stoplights.ts';
