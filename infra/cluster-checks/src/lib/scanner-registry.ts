@@ -8,8 +8,6 @@ import { harnessCredentialScriptTextEntry } from "../checks/check-harness-creden
 import { libSetsPerPieceDifficultyBoundaryEntry } from "../checks/check-lib-sets-per-piece-difficulty-boundary.ts"
 import { libcFfiBindingEntry } from "../checks/check-libc-ffi-binding.ts"
 import { methodSignatureBivarianceEntry } from "../checks/check-method-signature-bivariance.ts"
-import { noClassEntry } from "../checks/check-no-class.ts"
-import { noEnumEntry } from "../checks/check-no-enum.ts"
 import { noVoidReturnEntry } from "../checks/check-no-void-return.ts"
 import { popoverViewportSafetyEntry } from "../checks/check-popover-viewport-safety.ts"
 import { populationReadSwallowEntry } from "../checks/check-population-read-swallow.ts"
@@ -23,8 +21,6 @@ import { typeAssertionsEntry } from "../checks/check-type-assertions.ts"
 import type { SyntaxScannerEntry } from "./syntax-scanner-entry.ts"
 
 export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
-  noClassEntry,
-  noEnumEntry,
   methodSignatureBivarianceEntry,
   typeAssertionsEntry,
   noVoidReturnEntry,
