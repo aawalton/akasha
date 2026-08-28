@@ -1,4 +1,3 @@
-
 import { type ChildProcess, spawn } from "node:child_process"
 import { writeFile } from "node:fs/promises"
 import type { Readable } from "node:stream"
@@ -33,7 +32,6 @@ export interface Ran {
   readonly stderr: string
 }
 
-/** Everything a stream hands over, as text. Answers what it read where the stream fails. */
 function textOf(stream: Readable | null): Promise<string> {
   if (stream === null) return Promise.resolve("")
   return new Promise((resolve) => {
@@ -47,12 +45,6 @@ function textOf(stream: Readable | null): Promise<string> {
   })
 }
 
-/**
- * The code a spawned process ended with.
- *
- * A PROCESS THAT NEVER STARTED SAYS SO ON `error` RATHER THAN BY THROWING, and an `error` nobody
- * listens for on a child takes this process down with it.
- */
 function exitOf(proc: ChildProcess): Promise<number> {
   return new Promise((resolve) => {
     proc.on("close", (code) => resolve(code ?? -1))

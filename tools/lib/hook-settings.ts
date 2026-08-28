@@ -1,6 +1,6 @@
-import type { Roots } from "../../page/page"
-import { canonicalize, isInside } from "../../repo/path/path"
-import { AKASHA, isAddressable, rootFor } from "../../repo/roots/roots"
+import type { Roots } from "../../page/page.ts"
+import { canonicalize, isInside } from "../../repo/path/path.ts"
+import { AKASHA, isAddressable, rootFor } from "../../repo/roots/roots.ts"
 
 export const SETTINGS_PATH = "settings/agents.json"
 
@@ -26,15 +26,6 @@ export function tokensIn(command: string): readonly string[] {
   return command.split(/\s+/).map((word) => word.replace(/^['"]+|['"]+$/g, ""))
 }
 
-/**
- * The absolute path a token names, or `null` where it names none here.
- *
- * A `$HOME`-SPELLED TOKEN CARRIES A REPOSITORY'S NAME WHERE AN ABSOLUTE ONE CARRIES ITS ROOT. The
- * name is read off the head of the token and answered from the roots, which are built from the
- * `*.repo.md` pages, so which names resolve is data rather than a name written in here.
- *
- * A head addressing no repository, or one this machine has not cloned, names no path here.
- */
 function absoluteFor(token: string, roots: Roots): string | null {
   for (const prefix of HOME_PREFIXES) {
     if (!token.startsWith(prefix)) continue
@@ -51,14 +42,6 @@ function absoluteFor(token: string, roots: Roots): string | null {
   return token.startsWith("/") ? token : null
 }
 
-/**
- * Where a token stands under this repository, or `null` where it stands outside it.
- *
- * BOTH SPELLINGS TRAVEL ONE JUDGEMENT. A `$HOME`-spelled token is turned into the absolute path it
- * names and then measured against the akasha root exactly as an absolute token is, so two spellings
- * of one file answer alike. A file in another repository stands outside this one under either
- * spelling, every caller joining what comes back to the akasha root.
- */
 export function repoRelative(token: string, roots: Roots): string | null {
   const absolute = absoluteFor(token, roots)
   if (absolute === null) return null

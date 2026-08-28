@@ -53,13 +53,6 @@ export function keeper(hookName: string, agent: string, stdin: string): Keeper {
       reason: reason.replaceAll(/[^a-z0-9-]/g, ""),
       mode: seatMode(),
     }
-    // THE ROW IS LANDED HERE RATHER THAN DIALLED. This posted to a page query service on loopback
-    // with curl, its body sent to `/dev/null` and its exit status never read, so once that service
-    // was deleted every turn-end decision was lost and nothing said so. The rows are
-    // `uncommitted: true`, so landing one in process costs a file append and no commit.
-    //
-    // THE WRITER IS IMPORTED ON THE FIRST RECORD. This module loads in a hook that runs at every
-    // turn end, and pulling the pages writer in at load would cost the turns that record nothing.
     const { rowLanding } = await import("./page-query-client.ts")
     const landed = await rowLanding("write-row", ROWS_ON, name, values, hookName)
     if (!landed.ok) {

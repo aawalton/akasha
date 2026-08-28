@@ -1,4 +1,3 @@
-
 import {
   existsSync,
   mkdtempSync,
@@ -11,7 +10,7 @@ import {
 import { dirname, join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
-import { AKASHA, akashaRoot } from "../../repo/roots/roots"
+import { AKASHA, akashaRoot } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { placeDirOf } from "../../page/page-types.ts"
@@ -73,8 +72,6 @@ export function messageRelPath(to: string, id: string): string {
   return `${messageDirRelPath(to)}/${id}${PAGE_SUFFIX}`
 }
 
-// A message states the name it is addressed by. That name is the id its file is placed under by
-// `messageRelPath`, which is the file's stem.
 export function composeMessage(stated: {
   readonly slug: string
   readonly to: string

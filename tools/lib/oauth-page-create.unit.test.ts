@@ -2,9 +2,6 @@ import { describe, expect, test } from "bun:test"
 import { accountPage } from "./oauth-page-push.ts"
 import { accountPageText } from "./oauth-page-create.ts"
 
-// `createAccountPage` places the page at `accountPage(account)` and composes the body from these
-// lines alone, so a key absent from the composer is a key no account page ever carries. An account
-// page is addressed by its file stem, and a page states the name it is addressed by.
 const ACCOUNT = "aine"
 
 const NO_PAGES = "/var/tmp/oauth-page-create-unit-test-no-such-root"

@@ -1,4 +1,3 @@
-
 import { existsSync } from "node:fs"
 
 import { type GatedAct, landBodies } from "./gated-landing.ts"
@@ -38,8 +37,6 @@ export function accountPageStands(account: string, root = pagesRoot()): boolean 
   return existsSync(`${root}/${accountPage(account, root)}`)
 }
 
-// An account page states the name it is addressed by. That name is the account, which is what
-// `accountPage` places the file under, so it is the file's stem.
 export function accountPageText(args: {
   readonly account: string
   readonly email: string

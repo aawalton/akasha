@@ -1,4 +1,3 @@
-
 import { createHash } from "node:crypto"
 import { chmodSync, existsSync, readFileSync } from "node:fs"
 
@@ -46,9 +45,6 @@ export function accountPage(account: string, root: string = pagesRoot()): string
   return pageFileIn(root, dir, account) ?? `${dir}/${account}.md`
 }
 
-// The pages stand in akasha. They were kept beside this tool once, and the root
-// read here still said so after they landed there, which is why an account with a
-// page read as an account with none.
 export function pagesRoot(): string {
   return canonicalize(akashaRoot())
 }

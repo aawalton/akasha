@@ -49,14 +49,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const loaded = new Map<string, readonly Page[]>()
   const faults = new Set<string>()
 
-  // THE DECLARATIONS THE WRITE PATH READS, read here too. A second reader of the same property
-  // pages stood in this file until it was taken away: it built a record of its own, called the
-  // result `Declarations` as this one does, and keyed it by the property's slug where this one
-  // keys by the page type. Neither name warned of the other, and which answer a caller got
-  // turned on which door it came in by.
-  //
-  // A FAULT IS A READING THAT DID NOT HAPPEN, never a set that came back empty, so it is raised
-  // here rather than left to a caller reading past it.
   const read = declarationsFromFiles(diskFileTree(roots))
   if (read.fault !== null) faults.add(read.fault)
   const declared = new Map<string, Map<string, Property>>()
@@ -141,10 +133,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return found
   }
 
-  // ONE HOLDER'S ROWS AT A TIME, held no longer than the walk that asked for them. `log-line`
-  // keeps three and a half million rows across eleven thousand sidecars, so a map of them keyed by
-  // holder would carry every one for as long as the deriver stood. `page-rows.ts` holds the
-  // sidecars it has parsed under a bound of its own, so a second walk costs the parse and no more.
   const rowsPagesFor = (parent: Page, declaration: Property): readonly Page[] => {
     const target = declaration.target
     if (target === null) {
@@ -198,13 +186,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return pages
   }
 
-  // A PAGE TYPE'S PAGES ARE WALKED, NEVER GATHERED. `log-line` has three and a half million of
-  // them, so an array holding them all is gigabytes where a walk holds one sidecar and one page.
-  //
-  // `through` IS THE CHAIN THIS WALK CAME DOWN, and a page type standing on it already yields
-  // nothing: that is how a page type whose rows are held by one beneath it stops rather than
-  // recurring. It is passed rather than kept beside the deriver because two walks may be open at
-  // once, and a chain kept beside the deriver would read the other walk's steps as its own cycle.
   function* walkPages(kind: string, through: readonly string[]): Generator<Page> {
     if (through.includes(kind)) return
     const chain = [...through, kind]
@@ -335,9 +316,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     faults.add(why)
   )
 
-  // WALKING WHAT COMES BACK TWICE WALKS THE PAGES TWICE. A generator handed back bare is walked
-  // once and reads as empty ever after, with nothing saying so, which is why this answers an
-  // iterable: each time it is asked for a walk it starts a fresh one.
   const rows = (pageType: string): Iterable<Row> | null => {
     if (!isFiled(pageType) && !isHeld(pageType)) return null
     const derived = keptIn(derivedOn(pageType), only)

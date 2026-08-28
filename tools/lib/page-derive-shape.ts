@@ -31,15 +31,6 @@ export interface Backed {
 }
 
 export interface Deriver {
-  /**
-   * Every row of a page type, walked rather than gathered, and `null` where no page type answers.
-   *
-   * WALKING IT TWICE WALKS IT TWICE. What comes back is an iterable rather than an iterator, so a
-   * caller that indexes the rows in one pass and reads them in another finds both passes whole.
-   *
-   * NOTHING IS READ UNTIL IT IS WALKED. Whether a page type answers at all is settled here; every
-   * fault its pages raise stands on the deriver only once the walk has run.
-   */
   readonly rows: (pageType: string) => Iterable<Row> | null
   readonly one: (pageType: string, name: string, slugProperty?: string | null) => Row | null
   readonly relations: (pageType: string) => readonly Relation[]

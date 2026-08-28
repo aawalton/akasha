@@ -1,9 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { composeMessage, messageRelPath } from "./message-file.ts"
 
-// `writeMessage` draws one id, places the file at `messageRelPath(to, id)` and composes the body
-// from these lines alone, so a key absent from the composer is a key no message ever carries. A
-// message is addressed by its file stem, and a page states the name it is addressed by.
 const ID = "01a045c6-af7e-7000-adc5-91b35cbbd2ed"
 
 const TO = "change-harness-cluster-operator"
