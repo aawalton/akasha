@@ -22,7 +22,7 @@ export type Answer = Landed | { readonly refused: string }
 export type Lands = (asked: Asked) => Answer
 
 const UNSTATED =
-  "nothing here says how a page lands: an app states its landing once at boot, and this one wrote before it did"
+  "nothing here says how a page lands: an app states its landing at boot, and this one wrote before it did"
 
 let landing: Lands | null = null
 
