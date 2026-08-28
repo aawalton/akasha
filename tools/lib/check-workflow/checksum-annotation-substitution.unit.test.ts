@@ -231,7 +231,7 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
   test("flags the seaweedfs defect: an emit with no sed anywhere", () => {
     const v = scan([
       {
-        path: "infra/seaweedfs/k8s/synth-deployments.ts",
+        path: "infra/seaweedfs/synth-deployments.ts",
         content: `const d = {
   template: { metadata: { annotations: { "checksum/s3-config": "placeholder" } } },
 }
@@ -248,7 +248,7 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
     expect(v).toHaveLength(1)
     expect(v[0]?.kind).toBe("checksum-annotation-unsubstituted")
     expect(v[0]?.key).toBe("checksum/s3-config")
-    expect(v[0]?.file).toBe("infra/seaweedfs/k8s/synth-deployments.ts")
+    expect(v[0]?.file).toBe("infra/seaweedfs/synth-deployments.ts")
     expect(v[0]?.line).toBe(2)
   })
 

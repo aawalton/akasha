@@ -20,7 +20,7 @@ const SCAN_PATTERNS = [
 
 const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
   {
-    path: "infra/seaweedfs/k8s/synth-deployments.ts",
+    path: "infra/seaweedfs/synth-deployments.ts",
     content: `export function s3GatewayDeploymentYaml(): string {
   return toYaml({
     spec: {

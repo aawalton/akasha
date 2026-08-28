@@ -315,7 +315,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
       ...sopsDecryptApply({
         name: "seaweedfs-apply-etcd-talosconfig",
         namespace: "seaweedfs",
-        secretFile: "infra/seaweedfs/k8s/etcd-talosconfig.sops.yaml",
+        secretFile: "infra/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
       }),
       dependsOn: ["seaweedfs-apply-namespace"],
     },

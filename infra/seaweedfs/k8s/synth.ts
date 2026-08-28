@@ -5,7 +5,7 @@ import {
   backupCnpgCronJobYaml,
   backupPvcYaml,
   backupPvYaml,
-} from "./synth-backup"
+} from "../synth-backup"
 import {
   COMPONENT_FILER,
   COMPONENT_MASTER,
@@ -25,17 +25,17 @@ import {
   selectorLabels,
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
-} from "./synth-constants"
+} from "../synth-constants"
 import {
   filerDeploymentYaml,
   masterDeploymentYaml,
   s3GatewayDeploymentYaml,
   volumeDeploymentYaml,
-} from "./synth-deployments"
-import { etcdSnapshotCronJobYaml } from "./synth-etcd-snapshot"
-import { backupAssetsCronJobYaml } from "./synth-longtail-assets"
-import { maintenanceCronJobYaml } from "./synth-maintenance"
-import { pruneSessionsCronJobYaml } from "./synth-prune"
+} from "../synth-deployments"
+import { etcdSnapshotCronJobYaml } from "../synth-etcd-snapshot"
+import { backupAssetsCronJobYaml } from "../synth-longtail-assets"
+import { maintenanceCronJobYaml } from "../synth-maintenance"
+import { pruneSessionsCronJobYaml } from "../synth-prune"
 
 function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
