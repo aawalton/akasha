@@ -4,6 +4,7 @@ import { AnswerSchema, type QueryAnswer } from "./answer-schema"
 import { openedRows } from "./opened"
 import { pagesFetcher } from "./fetcher"
 import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry"
+import { inATestRun } from "./test-run"
 
 export const PAGE_QUERY_ORIGIN =
   "http://page-query-service.page-query-service.svc.cluster.local:8787"
