@@ -41,7 +41,7 @@ export type Reduced = {
 }
 
 /** What a reduction answers where no page held a number: no value, over none. */
-const NOTHING: Reduced = { value: { kind: "absent" }, over: 0 }
+const NOTHING: Reduced = { value: { kind: "number", number: 0 }, over: 0 }
 
 /**
  * What each target reduces to over these pages, by the key it names.
