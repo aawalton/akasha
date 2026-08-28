@@ -55,7 +55,18 @@ export const pagesHoldShape: Check = (repo) => {
       unjudgeable.push(`${relPath} — \`${type.slug}\` states no shape this can hold a body to: ${shape.why}`)
       continue
     }
-    const text = repo.read(relPath)
+    // A PAGE THE SCAN LISTED CAN BE GONE BY THE TIME IT IS READ. The fleet retires subagent
+    // pages continuously, so a claimed path is a path that stood when the scan ran and nothing
+    // more. An unguarded read throws out of this loop and takes the whole audit with it, and
+    // every check batched behind it, over one page that did what its page type says it should.
+    // `pages-hold-properties.ts` guards the identical call; this is that guard.
+    let text: string
+    try {
+      text = repo.read(relPath)
+    } catch {
+      unjudgeable.push(`${relPath} — \`${type.slug}\` claims it and it left the tree while this ran`)
+      continue
+    }
     const { above, why } = aboveOf(relPath, text, tree)
     if (above === null) {
       unjudgeable.push(`${relPath} — what \`${type.slug}\` extends is unsettled: ${why}`)
