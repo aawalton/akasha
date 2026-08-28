@@ -1,4 +1,5 @@
 import type { Value } from "@shared/pages-query"
+import { fileRelationDeclarations } from "./file-property-defs"
 import { nameOfPageId, type Translated } from "./file-page-name"
 import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation"
 import { kebabizeKey } from "./file-rows"
@@ -158,11 +159,43 @@ async function refuseUnresolvedRelations(
   }
 }
 
+// A SETTLED KEY IS DROPPED WHERE NOTHING DECLARES IT AND REFUSED WHERE THE PAGE TYPE DOES. The
+// drop above is right for a caller that hands one to every write it makes — app-shell.tsx spreads
+// `userId` into the properties of whatever page type is active — because there the key names the
+// row's owner column and the page's own file should not carry it. It is wrong where the page type
+// declares a property under that exact spelling: the value is then the page's own, one such
+// declaration states `required: true`, and discarding it let the write report done.
+async function refuseSettledDeclared(
+  op: string,
+  pageTypeSlug: string,
+  input: Readonly<Record<string, unknown>>
+): Promise<undefined> {
+  const carried = Object.keys(input).filter(
+    (one) => input[one] !== undefined && SETTLED_ELSEWHERE.has(one)
+  )
+  if (carried.length === 0) return
+  const declared = await fileRelationDeclarations(pageTypeSlug)
+  if (declared === null) {
+    throw new FileWriteError(
+      pageTypeSlug,
+      `${op}(${pageTypeSlug}): \`${carried.join("`, `")}\` is what the row store calls one of its own columns, and what this page type declares went unread, so nothing here can say whether it is also a property of its own. Nothing has been written.`
+    )
+  }
+  const keys = new Set(declared.map((one) => one.key))
+  const collides = carried.filter((one) => keys.has(one))
+  if (collides.length === 0) return
+  throw new FileWriteError(
+    pageTypeSlug,
+    `${op}(${pageTypeSlug}): \`${collides.join("`, `")}\` is declared as a property of this page type and is also what the row store calls one of its own columns, so a frontmatter line cannot carry it under that spelling and it was being dropped. Declare the property as \`${kebabizeKey(collides[0] as string)}\`, or hold this page type's pages in a \`rows: jsonl\` sidecar and write them with \`writeRow\`. Nothing has been written.`
+  )
+}
+
 export async function valuesToWrite(
   op: string,
   pageTypeSlug: string,
   input: Readonly<Record<string, unknown>>
 ): Promise<Record<string, Value>> {
+  await refuseSettledDeclared(op, pageTypeSlug, input)
   const values = fileValuesOf(op, pageTypeSlug, input)
   await refuseUnresolvedRelations(op, pageTypeSlug, values)
   return values
