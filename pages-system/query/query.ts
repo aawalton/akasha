@@ -164,6 +164,12 @@ class CheckedQuery {
    *
    * NARROWING TO THE KEYS ASKED FOR HAPPENS HERE rather than in `runQuery`, so a caller holding a
    * checked query cannot reach the pages whole by calling this instead.
+   *
+   * NARROWING COMES LAST, AFTER THE ORDER AND THE LIMIT, for the reason `keys.ts` gives for putting
+   * it after the test: a `sort-by` names the key it names, which need not be among the keys asked
+   * for, and pages narrowed first would be ordered by a key none of them still held. Every page
+   * would rank as holding nothing, the order would come out as the order they arrived in, and a
+   * query that asked to be sorted would answer pages that read exactly like sorted ones.
    */
   answer(pages: readonly Page[]): readonly Page[] {
     const test = this.#test
@@ -174,9 +180,9 @@ class CheckedQuery {
             const held = runFormula(test, page.values)
             return held.kind === "boolean" && held.boolean
           })
-    const held = narrowed(found, this.#keys)
-    const inOrder = this.#ordering === null ? held : ordered(held, this.#ordering)
-    return this.#limit === null ? inOrder : inOrder.slice(0, this.#limit)
+    const inOrder = this.#ordering === null ? found : ordered(found, this.#ordering)
+    const limited = this.#limit === null ? inOrder : inOrder.slice(0, this.#limit)
+    return narrowed(limited, this.#keys)
   }
 }
 
