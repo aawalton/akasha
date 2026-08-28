@@ -12,4 +12,4 @@ domain-slug: barred-meaning/jargon
 
 # Evidence
 
-Reported by the review of `domains/tasks/definer/define-definition.md` on 2026-08-16: that document twice, `define-domain-structure.md:21` and `ops-memory.md:21`. The reviewer left it, holding this the branch-wide call its own line 52 hands to the principal rather than a single document's repair. It is the second retired word this run has met standing in live house usage; the first, "verb", is filed under `pages/finding/ops-instructions/verb-retired-but-load-bearing.finding.md`. Not re-checked here.
+Reported by the review of `domains/tasks/definer/define-definition.md` on 2026-08-16: that document twice, `define-domain-structure.md:21` and `ops-memory.md:21`. The reviewer left it, holding this the branch-wide call its own line 52 hands to the principal rather than a single document's repair. It is the second retired word this run has met standing in live house usage; the first, "verb", is filed under `pages/finding/ops-cli/verb-retired-but-load-bearing.finding.md`. Not re-checked here.
