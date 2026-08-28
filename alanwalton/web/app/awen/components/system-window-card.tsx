@@ -1,6 +1,6 @@
 import type { ItemAward, QuestWindow, StatusAssessment, SystemWindow, TalentActivation } from "@alanwalton/awen-core/system-window-schema"
-import { SurfaceProvider } from "@shared/design-system"
 import { surfaceClass } from "@shared/design-primitives/components/surface-class"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { SystemChoiceCard } from "./system-choice-card"
 

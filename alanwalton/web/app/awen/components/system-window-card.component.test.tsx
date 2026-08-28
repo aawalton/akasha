@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import type { SystemWindow } from "@alanwalton/awen-core/system-window-schema"
-import { SurfaceProvider } from "@shared/design-system"
+import { SurfaceProvider } from "@shared/design-primitives/components/surface-provider"
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
 import { cleanup, fireEvent, screen } from "@shared/utils-test"
 import { render } from "@shared/utils-test/render"
