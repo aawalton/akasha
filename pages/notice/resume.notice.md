@@ -13,7 +13,7 @@ Every notice the supervisor hands to a respawn opens with `[supervisor]`, which 
 
 `limit-resume-nudge` goes to a seat that is ALIVE and idle rather than respawned — its previous turn ended at a Claude usage limit that has since cleared. Its text is also the monitor's anti-hammer key: before sending, the monitor asks whether a message with these exact words landed recently. Editing it retires the old key, so a seat nudged under the previous wording inside that window may be nudged once more under the new one. That is bounded by one window and costs one turn.
 
-`overload-resume-nudge` goes to a seat that is ALIVE and idle whose previous turn was ended by an overloaded model service rather than by the seat itself. Its text is the anti-hammer key in the same way, and the window it is asked against grows with each overload in a row, so editing it retires a key that a growing window was measured against.
+`wait-resume-nudge` goes to a seat that is ALIVE and idle whose previous turn was ended by a failure between it and the model service — the service overloaded, or the connection to it lost — rather than by the seat itself. Its text is the anti-hammer key in the same way, and the window it is asked against grows with each such failure in a row, so editing it retires a key that a growing window was measured against.
 
 `editor-revive` goes to a seat Alan brings back from the Agents panel in his editor. He is at the keyboard when it is composed, so a failure to compose it refuses the revive and tells him, rather than reviving a seat with nothing to say to it.
 
@@ -35,9 +35,9 @@ Every notice the supervisor hands to a respawn opens with `[supervisor]`, which 
 
 ▶️ Your previous turn ended at a Claude usage limit that has since cleared. Resume the work you were doing, continuing from exactly where the limit interrupted it.
 
-## overload-resume-nudge
+## wait-resume-nudge
 
-▶️ Your previous turn was ended by an overloaded model service rather than by you, so nothing you were doing was finished or refused. Resume the work you were doing, continuing from exactly where it was interrupted.
+▶️ Your previous turn was ended by a failure between you and the model service rather than by you, so nothing you were doing was finished or refused. Resume the work you were doing, continuing from exactly where it was interrupted.
 
 ## editor-revive
 

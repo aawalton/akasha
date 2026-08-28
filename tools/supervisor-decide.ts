@@ -28,7 +28,7 @@ import {
 import { fail } from "./lib/command.ts"
 
 const NUDGE_NOTICE = "limit-resume-nudge"
-const OVERLOAD_NUDGE_NOTICE = "overload-resume-nudge"
+const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
 const NOTICE_OWNER = "tools/compose-notices.ts"
 
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
@@ -79,7 +79,7 @@ export type WaitResumeAnswer =
 
 function waitResumeAnswer(decision: WaitResumeDecision): WaitResumeAnswer {
   if (decision.kind !== "nudge") return decision
-  const nudge = requireNotice(notices(), OVERLOAD_NUDGE_NOTICE)
+  const nudge = requireNotice(notices(), WAIT_NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, attempt: decision.attempt, nudge }
 }
 
