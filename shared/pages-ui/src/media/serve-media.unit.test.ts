@@ -8,7 +8,6 @@ import type { PageLookup, ServeMediaParams } from "./serve-media"
 let resolveCalls = 0
 
 mock.module("@shared/supabase-rr/auth/server", () => ({
-  authGuard: async () => ({ headers: new Headers() }),
   getUser: async () => ({ user: null, headers: new Headers() }),
   getUserFromBearerToken: async () => ({ user: null }),
   parseBearerToken: realAuthServer.parseBearerToken,
