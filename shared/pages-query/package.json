@@ -7,6 +7,7 @@
   "exports": {
     ".": "./src/index.ts",
     "./ask": "./src/ask.ts",
+    "./fetcher": "./src/fetcher.ts",
     "./live-version": "./src/live-version.ts",
     "./*": "./src/*.ts"
   },

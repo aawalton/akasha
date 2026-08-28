@@ -9,6 +9,7 @@ import {
   readFromPageQueryService,
   refusalIn,
 } from "./index"
+import { pagesFetcher } from "./fetcher"
 import { openedRows, openedValues } from "./opened"
 import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry"
 
@@ -79,7 +80,7 @@ async function postToPageQueryService(
 
 export async function askComposed(
   query: ComposedQuery,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<Asked> {
   const what = `a composed query over \`${query["page-type"]}\``
@@ -124,7 +125,7 @@ export type PageAsked =
 export async function askPage(
   pageType: string,
   name: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<PageAsked> {
   const safeName = name.split("/").map(encodeURIComponent).join("/")
@@ -175,7 +176,7 @@ export type NamingAsk = {
 
 export async function askNaming(
   ask: NamingAsk,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<NamingAsked> {
   const safeName = ask.name.split("/").map(encodeURIComponent).join("/")
@@ -229,7 +230,7 @@ export type ShapeAsked =
 
 export async function askShape(
   pageType: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<ShapeAsked> {
   const what = `the shape of \`${pageType}\``
@@ -263,7 +264,7 @@ export type RosterAsked =
   | { readonly ok: false; readonly why: string; readonly status?: number }
 
 export async function askPageTypes(
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<RosterAsked> {
   const what = "the file-backed page types"

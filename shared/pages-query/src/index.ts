@@ -2,6 +2,7 @@ import { z } from "zod"
 
 import { AnswerSchema, type QueryAnswer } from "./answer-schema"
 import { openedRows } from "./opened"
+import { pagesFetcher } from "./fetcher"
 import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry"
 
 export const PAGE_QUERY_ORIGIN =
@@ -58,7 +59,7 @@ export type Read<T> =
 export async function readFromPageQueryService(
   url: string,
   what: string,
-  fetcher: Fetcher = fetch
+  fetcher: Fetcher = pagesFetcher()
 ): Promise<Read<unknown>> {
   let response: Response
   try {
@@ -115,7 +116,7 @@ function takingUrl(slug: string, given: Given): string {
 
 export async function askNamed(
   slug: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<Asked> {
   return askTaking(slug, {}, fetcher, naps)
@@ -124,7 +125,7 @@ export async function askNamed(
 export async function askTaking(
   slug: string,
   given: Given,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   naps: Sleeper = sleep
 ): Promise<Asked> {
   const url = takingUrl(slug, given)
@@ -264,7 +265,7 @@ export async function writePage(
   name: string,
   values: Readonly<Record<string, Value>>,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("write", pageType, name, { writer, values }, fetcher, rest)
@@ -275,7 +276,7 @@ export async function patchPage(
   name: string,
   values: Readonly<Record<string, Value>>,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("patch", pageType, name, { writer, values }, fetcher, rest)
@@ -381,7 +382,7 @@ export async function patchPageIfMatch(
   values: Readonly<Record<string, Value>>,
   writer: string,
   clear: readonly string[] = [],
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Compared> {
   const body = {
@@ -414,7 +415,7 @@ export async function patchState(
   name: string,
   values: Readonly<Record<string, unknown>>,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("patch-state", pageType, name, { writer, values }, fetcher, rest)
@@ -425,7 +426,7 @@ export async function writeRow(
   parentName: string,
   values: Readonly<Record<string, unknown>>,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("write-row", pageType, parentName, { writer, values }, fetcher, rest)
@@ -436,7 +437,7 @@ export async function patchRow(
   parentName: string,
   values: Readonly<Record<string, unknown>>,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("patch-row", pageType, parentName, { writer, values }, fetcher, rest)
@@ -447,7 +448,7 @@ export async function writeRows(
   parentName: string,
   rows: readonly Readonly<Record<string, unknown>>[],
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("write-row", pageType, parentName, { writer, rows }, fetcher, rest)
@@ -458,7 +459,7 @@ export async function patchRows(
   parentName: string,
   rows: readonly Readonly<Record<string, unknown>>[],
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("patch-row", pageType, parentName, { writer, rows }, fetcher, rest)
@@ -469,7 +470,7 @@ export async function removeRow(
   parentName: string,
   named: string,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("remove-row", pageType, parentName, { writer, named }, fetcher, rest)
@@ -479,7 +480,7 @@ export async function removePage(
   pageType: string,
   name: string,
   writer: string,
-  fetcher: Fetcher = fetch,
+  fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep
 ): Promise<Written> {
   return writtenBy("remove", pageType, name, { writer }, fetcher, rest)
