@@ -5,8 +5,11 @@ import {
   type KeepaliveEmitter,
   type KeepaliveOptions,
 } from "./keepalive.ts"
+import { buildAnthropicSseErrorFrame } from "./sse-error-frame.ts"
 
 export const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
+
+const NEWLINE_BYTES = new Uint8Array([0x0a])
 
 export function isTransientTransportError(err: unknown): err is TypeError {
   if (err instanceof DOMException && err.name === "AbortError") return false
@@ -72,11 +75,23 @@ function safeCall<A extends ReadonlyArray<unknown>>(
   } catch {}
 }
 
+function buildMidStreamTransportSseError(err: unknown): {
+  errorType: string
+  message: string
+} {
+  const detail = err instanceof Error ? err.message : String(err)
+  return {
+    errorType: "api_error",
+    message: `Upstream connection failed after the response committed to a stream: ${detail}`,
+  }
+}
+
 export async function pullFirstChunkAndWrap(
   body: ReadableStream<Uint8Array> | null,
   observer?: StreamObserver,
   idle?: IdleResettable,
-  keepalive?: KeepaliveOptions
+  keepalive?: KeepaliveOptions,
+  emitSseErrorFrame = false
 ): Promise<ReadableStream<Uint8Array> | null> {
   if (body == null) {
     idle?.stop()
@@ -157,6 +172,15 @@ export async function pullFirstChunkAndWrap(
         }
       } catch (streamErr) {
         if (!cancelled) safeCall(observer?.onUpstreamError, streamErr, Date.now())
+        if (emitSseErrorFrame && !cancelled) {
+          const { errorType, message } = buildMidStreamTransportSseError(streamErr)
+          try {
+            if (!atLineBoundary) controller.enqueue(NEWLINE_BYTES)
+            controller.enqueue(buildAnthropicSseErrorFrame(errorType, message))
+            controller.close()
+            return
+          } catch {}
+        }
         controller.error(streamErr)
       } finally {
         closed = true

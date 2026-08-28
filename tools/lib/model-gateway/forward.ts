@@ -73,7 +73,8 @@ export function buildForward(deps: {
       upstream.body,
       observer,
       idle,
-      keepaliveMs > 0 ? { intervalMs: keepaliveMs } : undefined
+      keepaliveMs > 0 ? { intervalMs: keepaliveMs } : undefined,
+      isEventStream
     )
     return new Response(wrappedBody, {
       status: upstream.status,
