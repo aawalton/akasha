@@ -3,7 +3,7 @@ import { existsSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import { Glob } from "bun"
 import { judge, over } from "../../outcome/outcome"
-import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { buildFrom, readAt } from "../lib/graph/held-snapshot.ts"
 import { nodeKey } from "../lib/graph/key.ts"
@@ -93,8 +93,15 @@ function listOf(attrs: unknown, field: string): readonly string[] {
   return Array.isArray(held) ? held.filter((one): one is string => typeof one === "string") : []
 }
 
+/**
+ * THE REPOSITORY LABEL THIS GRAPH'S NODES CARRY, which is a name inside the graph rather than a
+ * root. It was the roots module's `CODE`, which went when the `code` repository stopped being
+ * addressable; the label it spelled has to stay, every node key here being built from it.
+ */
+const CODE_NODE_REPO = "code"
+
 function codeNode(type: string, key: string): NodeId {
-  return nodeKey({ type, repo: CODE, key })
+  return nodeKey({ type, repo: CODE_NODE_REPO, key })
 }
 
 function pathsOf(node: Node): { readonly paths: readonly string[]; readonly isPackage: boolean } {
@@ -276,8 +283,8 @@ export const foundationSynthWatch: AsyncCheck = async (repo) => {
   // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree these synth sources stand in is
   // this one. This read `repo.roots.code`, which answers `undefined` for a repository nothing has
   // cloned, and judged over a population of zero — no snapshot was taken and no foundation workflow
-  // was weighed, while the suite counted the verdict as not-refused. `CODE` stays imported above: it
-  // labels a graph node's repository in `codeNode`, which is not a root.
+  // was weighed, while the suite counted the verdict as not-refused. The graph's own node label for
+  // that repository is `CODE_NODE_REPO` above, which is a name in the graph rather than a root.
   const codeRoot = rootFor(repo.roots, AKASHA)
 
   let commit: string

@@ -2,20 +2,11 @@ import { relative } from "node:path"
 import type { Check } from "../check-shape.ts"
 import { indexOf, nameOf, pagesOver } from "../../../graph/page-index/page-index.ts"
 import { type PageAt, saidAt } from "../../../page/page.ts"
-import { canonicalize } from "../../../repo/path/path.ts"
-import { AKASHA, INSTRUCTIONS, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA } from "../../../repo/roots/roots.ts"
 import { pageNameOf } from "../../../page/name/name.ts"
-import { trackedIn } from "../../../page/tracked/tracked.ts"
 
 function elsewhere(found: readonly PageAt[], at: PageAt): readonly PageAt[] {
   return found.filter((one) => one.repo !== at.repo || one.key !== at.key)
-}
-
-function stillLent(going: ReadonlySet<string>): readonly string[] {
-  const lending = rootsHere()[INSTRUCTIONS]
-  if (lending === undefined) return []
-  const at = canonicalize(lending)
-  return trackedIn(lending).filter((one) => !going.has(`${at}/${one}`))
 }
 
 export const pageNameUnique: Check = {
@@ -26,13 +17,10 @@ export const pageNameUnique: Check = {
       .map((one) => relative(tree.root, one))
       .filter((one) => pageNameOf(one) !== null)
     if (here.length === 0) return []
-    const every = [
-      ...pagesOver(
-        AKASHA,
-        tree.paths().map((one) => relative(tree.root, one))
-      ),
-      ...pagesOver(INSTRUCTIONS, stillLent(new Set(tree.goneElsewhere()))),
-    ]
+    const every = pagesOver(
+      AKASHA,
+      tree.paths().map((one) => relative(tree.root, one))
+    )
     const byName = indexOf(every).byName
     const failures = []
     for (const key of here) {

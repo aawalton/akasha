@@ -9,10 +9,6 @@ import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
 
-export const CODE = "code"
-
-export const INSTRUCTIONS = "instructions"
-
 /**
  * Where this repository is on disk, for every root worked out from it.
  *
@@ -52,8 +48,6 @@ const REPO_ENDING = "-repo"
 export function rootEnvName(repo: string): string {
   return `${repo.replaceAll("-", "_").toUpperCase()}_ROOT`
 }
-
-const BESIDE = resolve(HERE, "..", INSTRUCTIONS)
 
 export function ownRepoRoot(): string {
   return rootOf(AKASHA)
@@ -108,9 +102,8 @@ export function repoPagePath(repo: string): string {
 }
 
 export function rootBeside(repo: string): string {
-  if (repo === INSTRUCTIONS) return BESIDE
   if (repo === AKASHA) return HERE
-  return resolve(BESIDE, "..", repo)
+  return resolve(HERE, "..", repo)
 }
 
 function rootOf(repo: string): string {
