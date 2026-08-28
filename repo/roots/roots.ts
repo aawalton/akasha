@@ -9,8 +9,6 @@ import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
 
-export const BOOKS = "books"
-
 export const CODE = "code"
 
 export const INSTRUCTIONS = "instructions"
