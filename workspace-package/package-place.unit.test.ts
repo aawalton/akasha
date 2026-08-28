@@ -54,11 +54,11 @@ describe("planFrom", () => {
 describe("collisionsIn", () => {
   test("two packages claiming one place are named, a plan being settled before anything moves", () => {
     const plan: readonly Placing[] = [
-      { name: "@shared/utils-narrow", from: "code:packages/shared/utils/narrow", to: "shared/utils-narrow" },
-      { name: "@shared/utils-narrow", from: "instructions:packages/shared/utils/narrow", to: "shared/utils-narrow" },
+      { name: "@shared/utils-narrow", from: "akasha:packages/shared/utils/narrow", to: "shared/utils-narrow" },
+      { name: "@shared/utils-narrow", from: "code-editor:packages/shared/utils/narrow", to: "shared/utils-narrow" },
     ]
     expect(collisionsIn(plan)).toEqual([
-      "shared/utils-narrow is claimed by code:packages/shared/utils/narrow and instructions:packages/shared/utils/narrow",
+      "shared/utils-narrow is claimed by akasha:packages/shared/utils/narrow and code-editor:packages/shared/utils/narrow",
     ])
   })
 
