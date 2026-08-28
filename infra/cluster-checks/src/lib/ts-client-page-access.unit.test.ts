@@ -16,7 +16,8 @@ const countOf = (source: string, filePath?: string): number =>
 
 const USE_CLIENT = '"use client"\n'
 const PA_IMPORT = 'import { getPages, upsertPage, patchPage } from "@shared/pages-access"\n'
-const UI_IMPORT = 'import { useOptimisticPatchPage } from "@shared/pages-ui/supabase"\n'
+const UI_IMPORT =
+  'import { useOptimisticPatchPage } from "@shared/pages-ui/supabase/mutations/use-optimistic-patch-page"\n'
 
 const subscription = (table: string, receiver = "supabase"): string =>
   `function f(cb) {\n` +
