@@ -1,9 +1,9 @@
 
+import { buildPageHref, PageTypeSlug } from "@shared/pages-url"
 import { InputError } from "./active-core.ts"
 import { createQuestionPage, getOpenQuestions, type OpenQuestion } from "./attention-question.ts"
 import { QUESTION_PAGE_TYPE_SLUG } from "./question-page.ts"
 import { ALAN_PERSON, type NotifyInput, notify } from "./notify.ts"
-import { buildPageHref, PageTypeSlug } from "./page-href.ts"
 import { matchPersonaForAgent } from "./persona-match.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
 import { seatWhoami } from "./seat-whoami.ts"
