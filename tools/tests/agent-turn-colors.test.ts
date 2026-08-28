@@ -1,7 +1,8 @@
 
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { cpSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
+import { ownRepoRoot } from "../../repo/roots/roots.ts"
 import { colorsOfStates, main } from "../agent-turn-colors.ts"
 import { colorsOf } from "../lib/agent-turn-drawn.ts"
 import { SEAT_TURN_STATES } from "../lib/seat-turn-state.ts"
@@ -59,7 +60,14 @@ describe("which ids the seats own records answer for", () => {
 
   beforeAll(() => {
     akasha = mkdtempSync(`${tmpdir()}/agent-turn-colors-`)
+    // A REPOSITORY AND NOT MERELY A DIRECTORY. `resolveRoots` names a repo only where
+    // `<root>/.git` stands, so a fixture without one is dropped from the roots silently: every
+    // reader answers as though no seat page existed anywhere, which is the same shape as a
+    // workstation running none. This marker is what makes the fixture visible at all.
+    mkdirSync(`${akasha}/.git`, { recursive: true })
     mkdirSync(`${akasha}/agent/seat`, { recursive: true })
+    mkdirSync(`${akasha}/pages/repo`, { recursive: true })
+    cpSync(`${ownRepoRoot()}/pages/repo`, `${akasha}/pages/repo`, { recursive: true })
     mkdirSync(`${akasha}/pages/domain`, { recursive: true })
     for (const [state, color] of Object.entries(DRAWN_ON)) {
       const slug = `agent-turn-${state}`
