@@ -19,6 +19,7 @@ import { landMoves } from "../../../move/move.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { pagesOf, type PageType, pageTypePathIn, soleRepoOf } from "../../../page/page-types.ts"
 import { blockOf, stringAt } from "../../../page/text/text.ts"
+import { pageTypeOf } from "../../../pages-system/page-type/page-type.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 export const help: CommandHelp = {
@@ -55,15 +56,13 @@ export const help: CommandHelp = {
 }
 
 function alreadyNamed(relPath: string, slug: string): boolean {
-  const name = relPath.slice(relPath.lastIndexOf("/") + 1)
-  return name.split(".").length === 3 && name.endsWith(`.${slug}.md`)
+  return pageTypeOf(relPath) === slug
 }
 
 function refusalsFor(root: string, relPaths: readonly string[], slug: string): readonly string[] {
   const refusals: string[] = []
   for (const relPath of relPaths) {
-    const name = relPath.slice(relPath.lastIndexOf("/") + 1)
-    if (name.split(".").length > 2 && !alreadyNamed(relPath, slug)) {
+    if (pageTypeOf(relPath) !== null && !alreadyNamed(relPath, slug)) {
       refusals.push(`${relPath} already carries a second suffix, so it is not a bare page file`)
       continue
     }
