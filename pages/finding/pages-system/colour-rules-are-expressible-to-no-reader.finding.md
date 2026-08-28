@@ -33,4 +33,3 @@ Checked again 2026-08-28 at HEAD, in akasha rather than `~/code`. The mechanism 
 The 165 rules cannot be counted again from here: `DATABASE_ADHOC_URL` is named by no code in this tree. Across 2,285 property-definition documents none states `colorRules` and none states a `color:` key. The one authored survivor of the colour-ladder pattern is `pages/page-property-definition/daily-tracking-stoplights.page-property-definition.md:8`, which emits coloured discs from an `expression:` rather than from rules.
 
 What keeps this open is unchanged, and is sharper than when it was written: `pages/page-property-definition/option-color.page-property-definition.md` declares `key: color` on `page-property-type/option`, so the colour a document may state is a live schema in this tree, while `labelled()` at `:61` reads its sibling `label` and nothing else.
-
