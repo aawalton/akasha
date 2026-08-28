@@ -24,10 +24,30 @@ export function answersAt(root: string): string {
   return join(dir, ANSWERS)
 }
 
+/**
+ * One answer, or nothing where it cannot be read as one.
+ *
+ * A CACHE MISS IS THE ANSWER TO EVERY FAILURE HERE. Another run sweeping a stale mark can take a
+ * file away between the moment this looks and the moment it reads, and a write cut short leaves
+ * one that is not JSON. Either way the caller can work the answer out; a throw from a cache stops
+ * work that had nothing wrong with it.
+ */
 export function answerAt(at: string, key: Key): unknown {
-  const file = join(at, pathOf(key))
-  if (!existsSync(file)) return null
-  return JSON.parse(readFileSync(file, "utf8"))
+  return heldAt(join(at, pathOf(key)))
+}
+
+function heldAt(file: string): unknown {
+  let raw: string
+  try {
+    raw = readFileSync(file, "utf8")
+  } catch {
+    return null
+  }
+  try {
+    return JSON.parse(raw)
+  } catch {
+    return null
+  }
 }
 
 export function cacheAnswer(at: string, key: Key, answer: unknown): void {
@@ -53,7 +73,8 @@ export function answersUnder(
   const found = new Map<string, unknown>()
   for (const file of readdirSync(under)) {
     if (!file.endsWith(SUFFIX)) continue
-    found.set(file.slice(0, -SUFFIX.length), JSON.parse(readFileSync(join(under, file), "utf8")))
+    const held = heldAt(join(under, file))
+    if (held !== null) found.set(file.slice(0, -SUFFIX.length), held)
   }
   return found
 }
