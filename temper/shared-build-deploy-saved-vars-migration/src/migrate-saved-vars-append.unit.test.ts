@@ -1,5 +1,5 @@
-import { describe, expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
+import { afterAll, describe, expect, test } from "bun:test"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   appendAddonSavedVars,
@@ -15,8 +15,16 @@ function crlf(lines: readonly string[]): string {
   return lines.join("\r\n")
 }
 
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
+
 function sandbox(): string {
-  return mkdtempSync(join(SCRATCH_ROOT, "sv-consolidate-append-"))
+  const dir = mkdtempSync(join(SCRATCH_ROOT, "sv-consolidate-append-"))
+  made.push(dir)
+  return dir
 }
 
 const ABSORBED_ZO = crlf([
