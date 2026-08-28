@@ -11,7 +11,7 @@ import { fileStemOf } from "../../page/name/name"
 
 const NAME = "refusals-bound"
 const CALL = "refusalText("
-const DEFINES = new RegExp(`export function\\s+${"refusal" + "Text"}\\s*\\(`)
+const DECLARES = /\bfunction\s+$/
 const TESTS = ".test.ts"
 const QUOTED = "\"'`"
 const OPENS = "({["
@@ -115,10 +115,10 @@ export const refusalsBound: Check = (repo) => {
       const relPath = tree.said(key)
       if (relPath.endsWith(TESTS)) continue
       const source = readFileSync(`${tree.at}/${key}`, "utf8")
-      if (DEFINES.test(source)) continue
       const spots: number[] = []
       for (let at = source.indexOf(CALL); at !== -1; at = source.indexOf(CALL, at + CALL.length))
-        if (!QUOTED.includes(source[at - 1] ?? "")) spots.push(at)
+        if (!QUOTED.includes(source[at - 1] ?? "") && !DECLARES.test(source.slice(0, at)))
+          spots.push(at)
       if (spots.length === 0) continue
       callers += 1
       for (const at of spots) {
