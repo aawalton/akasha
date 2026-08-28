@@ -2,8 +2,8 @@
 import type { Transport } from "./oauth-usage-vectors.ts"
 
 export interface PageSeam {
-  pacing(args: { pagePath: string; values: Record<string, unknown> }): void
-  mark(args: { account: string; marks: Record<string, string | null> }): void
+  pacing: (args: { pagePath: string; values: Record<string, unknown> }) => void
+  mark: (args: { account: string; marks: Record<string, string | null> }) => void
 }
 
 export const seam: PageSeam = {
@@ -22,16 +22,20 @@ export interface Cred {
 }
 
 export interface Bound {
-  parseUsageResponse(raw: unknown): unknown
-  fetchUsage(accessToken: string): Promise<unknown>
-  pushPacingToPage(account: string, usage: unknown, logPrefix?: string): Promise<void>
-  markAccountAtLimit(args: { account: string; retryAfterHeader: string | null; logPrefix?: string }): Promise<void>
-  repollUsageAfter429(
+  parseUsageResponse: (raw: unknown) => unknown
+  fetchUsage: (accessToken: string) => Promise<unknown>
+  pushPacingToPage: (account: string, usage: unknown, logPrefix?: string) => Promise<void>
+  markAccountAtLimit: (args: {
+    account: string
+    retryAfterHeader: string | null
+    logPrefix?: string
+  }) => Promise<void>
+  repollUsageAfter429: (
     account: string,
     getToken: (account: string) => Promise<Cred | null>,
     logPrefix?: string
-  ): Promise<void>
-  resetRepollGateForTests(): void
+  ) => Promise<void>
+  resetRepollGateForTests: () => void
 }
 
 export interface Request {
@@ -63,7 +67,7 @@ function respond(transport: Transport): Response {
 }
 
 export function stubFetch(plan: () => Transport, into: Request[]): typeof fetch {
-  const handler = async (input: RequestInfo | URL, init?: RequestInit): Promise<Response> => {
+  const handler = async (input: Parameters<typeof fetch>[0], init?: RequestInit): Promise<Response> => {
     const headers = new Headers(init?.headers)
     into.push({
       url: typeof input === "string" ? input : String(input),
