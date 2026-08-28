@@ -99,7 +99,7 @@ function emit(one: Target, where: Where, full: boolean): Emission {
   const took = snapshot(one.path)
   if (took.kind === "gone") {
     return {
-      headline: `${one.named} — no file stands there, so nothing was read and nothing was recorded of it`,
+      headline: `${one.named} — no file is there, so nothing was read and nothing was recorded of it`,
       body: null,
       oid: null,
     }
@@ -276,7 +276,7 @@ export function read(argv: readonly string[], where: Where): Answer {
   const kept: string[] = []
   if (conditional.length > 0) {
     kept.push(
-      `${READ}${conditional.length} document(s) below are conditional reading: what stands above ` +
+      `${READ}${conditional.length} document(s) below are conditional reading: what is above ` +
         "names them, and each is required once you judge it bears on what you are doing. Its " +
         "definition is here and its body is not — read the one you need by its path and you have it whole."
     )

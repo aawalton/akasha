@@ -99,7 +99,7 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
   const answering = answeringIn(at, named)
   if (answering === null) {
     return refusing(
-      `\`${named}\` stands as a page, and ${at.slice(outside.root.length + 1)} answers to nothing that can be called`
+      `\`${named}\` is a page, and ${at.slice(outside.root.length + 1)} answers to nothing that can be called`
     )
   }
   return answering(argv.slice(1), {

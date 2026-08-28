@@ -69,6 +69,7 @@ function stage(): Stage {
     writer: "athena",
     index,
     bodies: bodiesAt(`${root}/bodies`),
+    readAs: "ops akasha read",
   }
   return { root, corpus, held, wrote, took, settled: () => settles }
 }
@@ -107,7 +108,7 @@ test("a body written over one that stands is refused as a write, not a creation"
   try {
     const what = creating(`${stood.root}/leaf.thing.ts`, "x", stood.held)
     expect(refused(what)).toBe(true)
-    expect(said(what)).toContain("a body written over one that stands is a write, not a creation")
+    expect(said(what)).toContain("a body written over one already there is a write, not a creation")
   } finally {
     away(stood.root)
   }
@@ -239,7 +240,7 @@ test("a file that moved between the witness and the landing is refused, and noth
     const what = authoring(at, "the new body", stood.held)
     if (refused(what)) throw new Error(what.refused)
     writeFileSync(at, "somebody else got here first")
-    expect(() => land([what], stood.held)).toThrow(/does not stand as the witness says it did/)
+    expect(() => land([what], stood.held)).toThrow(/is not as the witness says it was/)
     expect(readFileSync(at, "utf8")).toBe("somebody else got here first")
     expect(stood.wrote).toEqual([])
   } finally {
@@ -379,7 +380,7 @@ test("a carry onto a path that stands is refused, because the witness would be l
   try {
     const what = carrying(`${stood.root}/leaf.thing.ts`, to, stood.held)
     expect(refused(what)).toBe(true)
-    expect(said(what)).toContain("a carry witnesses that nothing did")
+    expect(said(what)).toContain("a carry witnesses that nothing was")
     expect(said(what)).toContain(`--file-path ${to}`)
     expect(readFileSync(to, "utf8")).toBe(was)
   } finally {

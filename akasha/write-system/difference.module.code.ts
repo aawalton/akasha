@@ -59,7 +59,7 @@ export function difference(before: string, now: string, context = 1): readonly s
     }
   }
   if (wanted.size === 0) return []
-  const found: string[] = ["--- as you last read it", "+++ as it stands now"]
+  const found: string[] = ["--- as you last read it", "+++ as it is now"]
   let before_ = 1
   let now_ = 1
   let broken = true

@@ -45,6 +45,7 @@ export type Held = {
   readonly writer: string
   readonly index: Indexing
   readonly bodies: BodyStore
+  readonly readAs: string
 }
 
 function refusal(said: string): Refusal {
@@ -92,7 +93,7 @@ function owedFor(path: string, held: Held): readonly string[] {
 function shortOf(path: string, held: Held): Refusal | null {
   const short = seatShort(held, owedFor(path, held))
   if (short.length === 0) return null
-  const named = short.map((at) => `  akasha read --file-path ${at}`).join("\n")
+  const named = short.map((at) => `  ${held.readAs} --file-path ${at}`).join("\n")
   return refusal(
     `${path} requires ${short.length} document(s) nothing on record says you have read.\n${named}`
   )
@@ -109,13 +110,13 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
   if (reading === null) {
     return refusal(
       `You have not read ${path}, so this change may be landing on top of work someone else did.\n` +
-        `  ops read --file-path ${path}`
+        `  ${held.readAs} --file-path ${path}`
     )
   }
   if (reading.oid !== standing) {
     return refusal(
       `${path} changed after you read it, so what you are overwriting is not what you saw.\n` +
-        `  ops read --file-path ${path}`
+        `  ${held.readAs} --file-path ${path}`
     )
   }
   const short = shortOf(path, held)
@@ -126,7 +127,7 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
 export function creating(path: string, body: string, held: Held): Landing | Refusal {
   if (existsSync(path)) {
     return refusal(
-      `${path} exists — a body written over one that stands is a write, not a creation`
+      `${path} exists — a body written over one already there is a write, not a creation`
     )
   }
   const short = shortOf(path, held)
@@ -138,8 +139,8 @@ export function carrying(from: string, to: string, held: Held): Landing | Refusa
   if (!existsSync(from)) return refusal(`${from} does not exist, so nothing can be carried from it`)
   if (existsSync(to)) {
     return refusal(
-      `${to} stands, and a carry witnesses that nothing did — overwriting it is a write.\n` +
-        `  akasha read --file-path ${to}`
+      `${to} is already there, and a carry witnesses that nothing was — overwriting it is a write.\n` +
+        `  ${held.readAs} --file-path ${to}`
     )
   }
   return witnessWrite(to, null, readFileSync(from, "utf8"), held)
@@ -162,9 +163,7 @@ export function land(all: readonly Change[], held: Held): readonly string[] {
     if (one.prior !== null) {
       const standing = before === null ? null : oidOf(before)
       if (standing !== one.prior) {
-        throw new Error(
-          `${one.path} does not stand as the witness says it did, so nothing was written`
-        )
+        throw new Error(`${one.path} is not as the witness says it was, so nothing was written`)
       }
     }
     writeFileSync(one.path, one.body)

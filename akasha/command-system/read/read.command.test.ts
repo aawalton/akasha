@@ -361,7 +361,7 @@ test("a read stopped at the ceiling leaves its record on disk for the next call"
 test("a file that is not there says so, rather than reporting a race", () =>
   inTree([], {}, ({ root, where }) => {
     const said = text(read(["--file-path", "nowhere.txt"], where))
-    expect(said).toContain("no file stands there")
+    expect(said).toContain("no file is there")
     expect(said).not.toContain("it moved while it was being read")
     expect(where.record.of(`${root}/nowhere.txt`)).toBe(null)
   }))

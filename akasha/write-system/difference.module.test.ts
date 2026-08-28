@@ -14,7 +14,7 @@ test("two bodies that are the same differ in nothing", () => {
 test("a body that gained a line names the line it gained", () => {
   const said = difference("one\ntwo\n", "one\nmiddle\ntwo\n")
   expect(said[0]).toBe("--- as you last read it")
-  expect(said[1]).toBe("+++ as it stands now")
+  expect(said[1]).toBe("+++ as it is now")
   expect(said).toContain("+middle")
   expect(said.filter((one) => one.startsWith("-"))).toEqual(["--- as you last read it"])
 })
@@ -22,7 +22,7 @@ test("a body that gained a line names the line it gained", () => {
 test("a body that lost a line names the line it lost", () => {
   const said = difference("one\nmiddle\ntwo\n", "one\ntwo\n")
   expect(said).toContain("-middle")
-  expect(said.filter((one) => one.startsWith("+"))).toEqual(["+++ as it stands now"])
+  expect(said.filter((one) => one.startsWith("+"))).toEqual(["+++ as it is now"])
 })
 
 test("a line that changed reads as the old one taken away and the new one put in", () => {
@@ -60,9 +60,7 @@ test("a hunk states the line it starts at in each body", () => {
 
 test("a body written from nothing is all additions", () => {
   const said = difference("", "one\ntwo\n")
-  expect(said.filter((one) => one.startsWith("+") && one !== "+++ as it stands now")).toHaveLength(
-    2
-  )
+  expect(said.filter((one) => one.startsWith("+") && one !== "+++ as it is now")).toHaveLength(2)
 })
 
 test("what the difference reports is enough to rebuild the body it reports on", () => {
