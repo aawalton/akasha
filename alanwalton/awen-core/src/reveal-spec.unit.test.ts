@@ -1,11 +1,11 @@
 import { describe, expect, test } from "bun:test"
+import { resolveRevealKeys } from "./reveal-spec.ts"
 import {
   DEFAULT_REVEAL_KEYS,
   narrowRevealed,
   REVEAL_UNIVERSE_KEYS,
   RevealedSheetSchema,
-  resolveRevealKeys,
-} from "./index"
+} from "./revealed.ts"
 
 describe("the reveal universe IS the code-defined floor", () => {
   test("REVEAL_UNIVERSE_KEYS equals the RevealedSheetSchema shape keys (no drift)", () => {

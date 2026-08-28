@@ -1,17 +1,16 @@
 import { describe, expect, test } from "bun:test"
+import { EntitySheetSchema } from "./entity-schema.ts"
 import {
   ControlledEntityKindSchema,
-  EntitySheetSchema,
   GameConfigSchema,
   GameDisplayConfigSchema,
   GameRulebookSchema,
-  GameStateSchema,
-  HudSchema,
   MechanicsWeightSchema,
   ResolutionSchema,
-  RevealedSheetSchema,
-  TurnOptionsSchema,
-} from "./index"
+} from "./game-schema.ts"
+import { RevealedSheetSchema } from "./revealed.ts"
+import { GameStateSchema, HudSchema } from "./state-schema.ts"
+import { TurnOptionsSchema } from "./turn-schema.ts"
 
 function asRecord(value: object): Record<string, unknown> {
   return { ...value }

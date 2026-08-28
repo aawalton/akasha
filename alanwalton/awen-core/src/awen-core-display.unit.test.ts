@@ -4,7 +4,7 @@ import {
   GameDisplayConfigSchema,
   resolveAlertPrefs,
   resolveGameDisplay,
-} from "./index"
+} from "./game-schema.ts"
 
 describe("display module composition (#14226) — modules + resolveGameDisplay", () => {
   test("a module composition parses with per-module options", () => {
