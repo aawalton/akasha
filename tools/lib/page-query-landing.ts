@@ -1,6 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { dropDerivers } from "./deriver-hold.ts"
-import { refuseALiveTestWrite } from "./live-store-write-guard.ts"
+import { refuseALiveTestWriteIn } from "./live-store-write-guard.ts"
 import { dropAnswers } from "./page-query-hold.ts"
 import { reaching, revived } from "./message-reach-write.ts"
 import { comparedResponse } from "./page-compare.ts"
