@@ -43,14 +43,14 @@ export function valueOf(argv: readonly string[], name: string): string | null {
 
 export function payloadText(argv: readonly string[], wanted: boolean): string | null {
   const named = valueOf(argv, "--input-file")
-  if (named !== null) {
+  if (named !== null && named !== "-") {
     try {
       return readFileSync(resolve(process.cwd(), named), "utf8")
-    } catch {
-      return null
+    } catch (thrown) {
+      fail(`${named} could not be read: ${thrown instanceof Error ? thrown.message : String(thrown)}`)
     }
   }
-  if (!wanted) return null
+  if (named === null && !wanted) return null
   if (process.stdin.isTTY === true) return null
   try {
     const read = readFileSync(0, "utf8")

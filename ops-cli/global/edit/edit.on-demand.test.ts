@@ -13,14 +13,22 @@ interface Ran {
   readonly said: string
 }
 
+function payloadFor(next: string): string {
+  return JSON.stringify([{ file_path: `${HERE}/${SUBJECT}`, old_string: ANCHOR, new_string: next }])
+}
+
+function ranOf(ran: { exitCode: number | null; stdout: Buffer; stderr: Buffer }): Ran {
+  return {
+    code: ran.exitCode ?? -1,
+    said: `${ran.stdout.toString()}${ran.stderr.toString()}`,
+  }
+}
+
 function editing(next: string): Ran {
   const dir = mkdtempSync("/var/tmp/akasha-edit-")
   try {
     const payload = `${dir}/payload.json`
-    writeFileSync(
-      payload,
-      JSON.stringify([{ file_path: `${HERE}/${SUBJECT}`, old_string: ANCHOR, new_string: next }])
-    )
+    writeFileSync(payload, payloadFor(next))
     const ran = Bun.spawnSync({
       cmd: [
         process.execPath,
@@ -35,14 +43,31 @@ function editing(next: string): Ran {
       stdout: "pipe",
       stderr: "pipe",
     })
-    return {
-      code: ran.exitCode ?? -1,
-      said: `${ran.stdout.toString()}${ran.stderr.toString()}`,
-    }
+    return ranOf(ran)
   } finally {
     rmSync(dir, { recursive: true, force: true })
   }
 }
+
+function editingOnStdin(next: string, inputFile: readonly string[]): Ran {
+  const ran = Bun.spawnSync({
+    cmd: [
+      process.execPath,
+      `${HERE}/tools/ops/cli.ts`,
+      "edit",
+      "--dry-run",
+      "--mechanical",
+      ...inputFile,
+    ],
+    env: { ...process.env, AKASHA_ROOT: HERE },
+    stdin: new TextEncoder().encode(payloadFor(next)),
+    stdout: "pipe",
+    stderr: "pipe",
+  })
+  return ranOf(ran)
+}
+
+const HARMLESS = `// the comment a dry run adds and never lands\n${ANCHOR}`
 
 describe("what akasha's checks make of a substitution landing here", () => {
   test("the anchor this states its substitution against is in the file", () => {
@@ -63,10 +88,32 @@ describe("what akasha's checks make of a substitution landing here", () => {
   })
 
   test("a body they admit says how many checks weighed it, and lands nothing on a dry run", () => {
-    const ran = editing(`// the comment a dry run adds and never lands\n${ANCHOR}`)
+    const ran = editing(HARMLESS)
     expect(ran.said).toMatch(/gate: \d+ akasha check\(s\) over 1 changed file\(s\), none refused/)
     expect(ran.said).toContain("dry-run")
     expect(ran.code).toBe(0)
     expect(readFileSync(`${HERE}/${SUBJECT}`, "utf8")).not.toContain("the comment a dry run adds")
+  })
+})
+
+describe("where the payload is read from", () => {
+  test("`--input-file -` takes the payload from stdin, which is what the help promises", () => {
+    const ran = editingOnStdin(HARMLESS, ["--input-file", "-"])
+    expect(ran.said).not.toContain("carries no payload")
+    expect(ran.said).toMatch(/gate: \d+ akasha check\(s\) over 1 changed file\(s\), none refused/)
+    expect(ran.code).toBe(0)
+  })
+
+  test("naming no input file reads stdin too, `-` being the default", () => {
+    const ran = editingOnStdin(HARMLESS, [])
+    expect(ran.said).not.toContain("carries no payload")
+    expect(ran.code).toBe(0)
+  })
+
+  test("an input file that is not there says so, rather than reporting an empty payload", () => {
+    const ran = editingOnStdin(HARMLESS, ["--input-file", "/var/tmp/akasha-no-such-payload.json"])
+    expect(ran.said).toContain("could not be read")
+    expect(ran.said).not.toContain("carries no payload")
+    expect(ran.code).toBe(1)
   })
 })
