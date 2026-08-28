@@ -3,7 +3,7 @@ id: 7e7edf89-3a61-5a3e-aabb-611579842b81
 slug: importers-target-retired-schema
 page-type-slug: finding
 title: "Importers target retired schema"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

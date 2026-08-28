@@ -3,7 +3,7 @@ id: 1bf7a7ce-b656-5e2f-93a2-2181868c8e09
 slug: user-scoped-probes-unwrapped
 page-type-slug: finding
 title: "User scoped probes unwrapped"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

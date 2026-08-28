@@ -3,7 +3,7 @@ id: 5c087182-7c64-5bb8-91ed-adab295893c6
 slug: template-parent-unreachable-from-seeding
 page-type-slug: finding
 title: "Template parent unreachable from seeding"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

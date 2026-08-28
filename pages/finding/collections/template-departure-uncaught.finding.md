@@ -3,7 +3,7 @@ id: 9d196f8c-a2be-57d7-a553-eb79171755d1
 slug: template-departure-uncaught
 page-type-slug: finding
 title: "Template departure uncaught"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim

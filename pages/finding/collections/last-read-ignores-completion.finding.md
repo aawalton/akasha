@@ -3,7 +3,7 @@ id: fbe9d406-827c-5483-ab5e-4547ff717eb6
 slug: last-read-ignores-completion
 page-type-slug: finding
 title: "Last read ignores completion"
-domain-slug: domain/922
+domain-slug: domain/collections
 ---
 
 # Claim
