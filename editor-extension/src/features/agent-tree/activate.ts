@@ -4,30 +4,20 @@
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
 import { unreachableMessage } from '../../harness-call.ts';
-import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
+import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
-import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids.ts';
-import {
-	type ColumnMemory,
-	createColumnMemory,
-	readSeatLookup,
-	readSeatTerminals,
-	type SeatTerminal,
-	tabInstanceIds,
-} from './columns.ts';
+import { createColumnMemory, tabInstanceIds } from './columns.ts';
 import { type AgentNode, dropSeatAnswers, readAgentForest } from "./forest.ts"
 import { seatsByName } from "./lookup.ts";
 import { seatTabContext, type SeatTabState } from './seat-tabs.ts';
 import { createSubagentReader } from './subagents.ts';
 import { planPlaceToggle, planReset, planRunToggle, type SeatStep, type SeatToggleState } from "./toggles.ts"
-import { confirmTurnLoss, type SeatAct } from "./confirm.ts";
+import type { SeatAct } from "./confirm.ts";
 import { createAgentDecorationProvider, createAgentTree, REVEAL_TERMINAL_COMMAND } from './tree.ts';
-import { asToggleTarget, invokedSeat } from './invoked-seat.ts';
+import { invokedSeat } from './invoked-seat.ts';
 import {
-	columns,
 	forest,
 	output,
-	seatTabs,
 	seatTerminals,
 	setColumns,
 	setForest,
@@ -36,7 +26,6 @@ import {
 	setSeatTerminals,
 } from './tree-state.ts';
 import { showSeat } from './show-seat.ts';
-import { performPlan } from './seat-acts.ts';
 
 
 import { runPlan as runPlanWith } from './run-plan.ts';
@@ -275,9 +264,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	/**
 	 * Puts the clicked seat's name on the clipboard.
 	 *
-	 * `asToggleTarget` is reused here for its REFUSAL rather than for a toggle: it
-	 * demands `kind: 'seat'`, which is exactly the check this needs, because a
-	 * subagent row has no seat name to copy and is offered no such entry.
+	 * `invokedSeat` is called here for its REFUSAL rather than for a toggle: it gates
+	 * a tree row and a terminal tab's uri alike through `asToggleTarget`, which demands
+	 * `kind: 'seat'` — exactly the check this needs, because a subagent row has no seat
+	 * name to copy and is offered no such entry.
 	 */
 	const copySeatName = async (node: unknown): Promise<undefined> => {
 		const seat = invokedSeat(node);
