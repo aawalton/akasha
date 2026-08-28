@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { landFiles, LandingRefused } from "./land.ts"
 
 const SCRATCH = "/var/tmp"
@@ -91,4 +91,58 @@ test("a removal of a path neither the worktree nor git holds is named in no comm
   const root = scratchRepo()
   committed(root, "was.txt", "body\n")
   expect(namedByRemoving(root, ["never.txt"])).not.toContain("never.txt")
+})
+
+// A git call that could not answer, failed for a real reason rather than stubbed: `ls-files
+// --cached` reads the index, and an index it cannot parse is the shape a transient failure here
+// actually takes.
+function unreadableIndex(root: string): void {
+  writeFileSync(`${root}/.git/index`, "not an index")
+}
+
+// THE COMMIT IS PATHSPEC-LIMITED AND THE RENAME IS ALREADY ON DISK, so a carry dropped from the
+// set named to it lands nowhere while the worktree has moved, and the landing still returns a sha.
+// Nothing is asked of git after the worktree moves, so refusing here takes the whole landing away.
+test("a carry whose ls-files could not answer refuses rather than committing a subset", () => {
+  const root = scratchRepo()
+  committed(root, "was.txt", "body\n")
+  committed(root, "kept.txt", "kept\n")
+  unreadableIndex(root)
+  let named: number | null = null
+  let said = ""
+  try {
+    landFiles({
+      repo: "code-editor",
+      root,
+      message: "carry",
+      entries: [{ relPath: "kept.txt", body: "kept, changed\n" }],
+      carrying: [{ from: "was.txt", to: "now.txt" }],
+      commit: (_root, paths) => {
+        named = paths.length
+        return "sha"
+      },
+    })
+  } catch (err) {
+    said = err instanceof Error ? err.message : String(err)
+  }
+  expect(named).toBe(null)
+  expect(said).toContain("was.txt")
+  expect(existsSync(`${root}/now.txt`)).toBe(false)
+  expect(existsSync(`${root}/was.txt`)).toBe(true)
+  expect(readFileSync(`${root}/kept.txt`, "utf8")).toBe("kept\n")
+})
+
+// NO HISTORY HOLDS WHAT WENT AT is a claim about what git was asked, and a failed ask is not a no.
+test("a removal whose ls-files could not answer refuses rather than calling it untracked", () => {
+  const root = scratchRepo()
+  committed(root, "was.txt", "body\n")
+  unreadableIndex(root)
+  let said = ""
+  try {
+    namedByRemoving(root, ["was.txt"])
+  } catch (err) {
+    said = err instanceof Error ? err.message : String(err)
+  }
+  expect(said).toContain("was.txt")
+  expect(existsSync(`${root}/was.txt`)).toBe(true)
 })

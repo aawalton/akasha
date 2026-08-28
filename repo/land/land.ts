@@ -95,19 +95,45 @@ export function sizeLines(changes: readonly SizeChange[]): readonly string[] {
   })
 }
 
-function namesGitHolds(root: string, paths: readonly string[]): ReadonlySet<string> {
+/**
+ * Which of `paths` git holds in its index, or null where the call could not establish that.
+ *
+ * AN EMPTY SET IS THE ANSWER "GIT HOLDS NONE OF THESE", AND A FAILED CALL HAS NO ANSWER. Both
+ * callers narrow on this set — the pathspec a carry is committed under, and what a removal is
+ * reported to have left no history behind — so an empty set handed back for a failure is a
+ * decision git never made, acted on as one. `heldByRepo` in `git.ts` takes a failure the same way,
+ * and `unknownToGit` beside it takes one the opposite way, planning a commit rather than guarding
+ * one.
+ */
+function namesGitHolds(root: string, paths: readonly string[]): ReadonlySet<string> | null {
   if (paths.length === 0) return new Set()
   const held = gitAskingPaths(root, ["ls-files", "--cached", "-z"], paths)
-  if (held.code !== 0) return new Set()
+  if (held.code !== 0) return null
   return new Set(held.stdout.split("\0").filter((one) => one !== ""))
 }
 
-function strayed(root: string, paths: readonly string[]): readonly string[] {
+function strayed(root: string, paths: readonly string[]): readonly string[] | null {
   const held = namesGitHolds(root, paths)
+  if (held === null) return null
   const rest = paths.filter((one) => !held.has(one))
   if (rest.length === 0) return []
   const skipped = gitIgnoring(root, rest)
+  if (skipped === null) return null
   return rest.filter((one) => !skipped.has(one))
+}
+
+/**
+ * Why a landing stops where git could not answer.
+ *
+ * NOTHING HAS BEEN APPLIED WHERE THIS IS THROWN. Both questions are asked before the first body is
+ * written, so the refusal is a clean no-op and running again is the whole repair — which is why
+ * they are asked up there rather than beside the commit that narrows on them.
+ */
+function gitCouldNotSay(question: string): string {
+  return (
+    `git could not establish ${question}, so this landing stopped before touching anything — ` +
+    "nothing was written, unlinked, renamed or committed. Run it again."
+  )
 }
 
 function movesOf(root: string, entries: readonly Landing[]): readonly Moved[] {
@@ -180,12 +206,16 @@ export function landFiles(one: Landings): Landed {
   const touching = [...entries.map((held) => held.relPath), ...composing.map((held) => held.relPath)]
   const wasBefore = bodiesBefore(root, [...touching, ...removing])
   const unheld = strayed(root, removing)
+  if (unheld === null) {
+    throw new LandingRefused(gitCouldNotSay(`what history holds of ${removing.join(", ")}`))
+  }
   // Asked before the removals run, part of the answer being the worktree they change.
   const heldBefore = heldByRepo(root, removing)
-  const carriedHeld = namesGitHolds(
-    root,
-    carrying.map((held) => held.from)
-  )
+  const carriedNames = carrying.map((held) => held.from)
+  const carriedHeld = namesGitHolds(root, carriedNames)
+  if (carriedHeld === null) {
+    throw new LandingRefused(gitCouldNotSay(`which of ${carriedNames.join(", ")} it holds`))
+  }
   const wrote: string[] = []
   for (const entry of entries) {
     const absolute = `${root}/${entry.relPath}`

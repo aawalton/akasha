@@ -235,12 +235,21 @@ export function gitAskingPaths(
   return { code: 0, stdout: said.join("\0"), stderr: "" }
 }
 
-export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> {
+/**
+ * Which of `paths` this repository ignores, or null where git could not say.
+ *
+ * EXIT 1 IS THE ANSWER "NONE OF THEM"; ANY OTHER NON-ZERO IS A FAILURE, -1 among them, where the
+ * call never started. Null keeps that apart from the empty set, which a caller reads as this
+ * repository ignoring nothing here. `commitPaths` below narrows nothing on a null, as
+ * `unknownToGit` does, git itself refusing a path it cannot take; `strayed` in `land.ts` refuses
+ * on one, having no commit to hand the question to.
+ */
+export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
   if (paths.length === 0) return new Set()
   const proc = ran(root, ["check-ignore", "--stdin", "-z"], {
     input: new TextEncoder().encode(paths.join("\0")),
   })
-  if (proc.code > 1) return new Set()
+  if (proc.code !== 0 && proc.code !== 1) return null
   return new Set(
     new TextDecoder()
       .decode(proc.stdout)
@@ -308,7 +317,8 @@ export function commitPaths(
   const nothing = unknownToGit(root, paths)
   const known = nothing.length === 0 ? paths : paths.filter((one) => !nothing.includes(one))
   const ignored = gitIgnoring(root, known)
-  const landing = ignored.size === 0 ? known : known.filter((one) => !ignored.has(one))
+  const landing =
+    ignored === null || ignored.size === 0 ? known : known.filter((one) => !ignored.has(one))
   if (landing.length === 0) return { ok: true, sha: null, nothing }
   const others = gitAskingPaths(root, ["ls-files", "--others", "-z"], landing)
   if (others.code !== 0) {
