@@ -47,25 +47,13 @@ function ownBody(log: ReadRecord, absolute: string): Reading | null {
 }
 
 function refusalOverTarget(
-  log: ReadRecord,
   reading: Reading | null,
   body: Uint8Array,
   said: string,
   absolute: string
 ): string | null {
   const route = routeTo(absolute)
-  if (reading === null) {
-    const replaced = log.replaced
-    if (replaced !== null && log.expired(absolute)) {
-      return refusalText("file-read-expired", {
-        path: said,
-        when: whenText(replaced.at),
-        source: replaced.source,
-        route,
-      })
-    }
-    return refusalText("file-never-read", { path: said, route })
-  }
+  if (reading === null) return refusalText("file-never-read", { path: said, route })
   const oid = blobId(body)
   if (!bodyItself(reading, oid)) {
     return refusalText(
@@ -127,7 +115,7 @@ export const readBeforeWrite: Check = {
       const key = relative(root, path)
       const before = act.before.at(path)
       if (before !== null) {
-        const said = refusalOverTarget(log, ownBody(log, path), before, key, path)
+        const said = refusalOverTarget(ownBody(log, path), before, key, path)
         if (said !== null) failures.push({ path, reason: said })
       }
       const landing = tree.at(path)
