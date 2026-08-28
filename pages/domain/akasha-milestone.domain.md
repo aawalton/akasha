@@ -11,4 +11,4 @@ required-reading-slugs:
 
 # Definition
 
-- **Akasha milestone** — a state the migration has reached.
+- **Akasha milestone** — a state the migration passes through.

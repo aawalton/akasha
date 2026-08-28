@@ -7,7 +7,7 @@ domain-parent-slug: domain/akasha-milestone
 
 # Definition
 
-- **Akasha functional core** — the least of the new system that can run itself.
+- **Akasha functional core** — the smallest part of the new system that can run itself.
 
 # Intent
 

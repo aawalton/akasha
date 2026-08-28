@@ -15,7 +15,7 @@ required-reading-slugs:
 
 # Definition
 
-- **Akasha migration** — how what exists now becomes the akasha system.
+- **Akasha migration** — how the old system becomes the new system.
 
 # Condition
 
