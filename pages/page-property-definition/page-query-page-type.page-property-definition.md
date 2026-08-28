@@ -4,7 +4,8 @@ page-type-slug: page-property-definition
 title: "Page query page type"
 defined-on-slug: page-type/page-query
 key: page-type
-type: slug
+type: relation-slug
+target-slug: page-type
 required: true
 slug: page-query-page-type
 domain-parent-slug: domain/page-query-language

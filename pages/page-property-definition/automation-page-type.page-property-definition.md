@@ -4,7 +4,8 @@ page-type-slug: page-property-definition
 title: "Page type"
 defined-on-slug: page-type/automation
 key: page-type
-type: slug
+type: relation-slug
+target-slug: page-type
 slug: automation-page-type
 domain-parent-slug: page-type/automation
 ---

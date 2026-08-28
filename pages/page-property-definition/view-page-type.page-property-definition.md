@@ -4,7 +4,8 @@ page-type-slug: page-property-definition
 title: "View page type"
 defined-on-slug: page-type/view
 key: page-type
-type: slug
+type: relation-slug
+target-slug: page-type
 slug: view-page-type
 domain-parent-slug: page-type/view
 ---
