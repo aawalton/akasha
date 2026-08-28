@@ -76,10 +76,24 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, filing(at, "findinsg", "states-destination-twice"))
+      const run = runCommand(at, filing(at, "page-type/findinsg", "states-destination-twice"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("findinsg")
       expect(run.err).toContain("finding")
+      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
+    } finally {
+      at.dispose()
+    }
+  })
+
+  test("a bare slug is refused rather than resolved, a key naming a page type as well", () => {
+    const at = fixture()
+    try {
+      storeAt(at)
+      const run = runCommand(at, filing(at, "finding", "states-destination-twice"))
+      expect(run.code).toBe(1)
+      expect(run.err).toContain("bare slug")
+      expect(run.err).toContain("page-type/finding")
       expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
     } finally {
       at.dispose()
@@ -90,7 +104,7 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, filing(at, "finding", "States Destination Twice"))
+      const run = runCommand(at, filing(at, "page-type/finding", "States Destination Twice"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("kebab-case")
       expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
@@ -107,7 +121,7 @@ describe("what the filing command refuses before it composes anything", () => {
         "pages/finding/finding/taken.finding.md",
         "---\ndomain-slug: finding\n---\n\n# Claim\n\nx\n\n# Evidence\n\ny\n"
       )
-      const run = runCommand(at, filing(at, "finding", "taken"))
+      const run = runCommand(at, filing(at, "page-type/finding", "taken"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("already")
       expect(readFileSync(`${at.root}/pages/finding/finding/taken.finding.md`, "utf8")).toContain("# Claim")
@@ -120,7 +134,7 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, ["--domain", "finding", "--slug", "x", "--title", "x"])
+      const run = runCommand(at, ["--domain", "page-type/finding", "--slug", "x", "--title", "x"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("--claim-file")
     } finally {
@@ -132,7 +146,7 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, [...filing(at, "finding", "x"), "--cluster", "y"])
+      const run = runCommand(at, [...filing(at, "page-type/finding", "x"), "--cluster", "y"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("--cluster")
     } finally {
@@ -144,7 +158,7 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, [...filing(at, "finding", "x"), "--repo", "memory"])
+      const run = runCommand(at, [...filing(at, "page-type/finding", "x"), "--repo", "memory"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("--repo")
     } finally {
@@ -158,7 +172,7 @@ describe("what it puts through the gates", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, [...filing(at, "finding", "states-destination-twice"), "--dry-run"])
+      const run = runCommand(at, [...filing(at, "page-type/finding", "states-destination-twice"), "--dry-run"])
       expect(run.out).toContain("pages/finding/finding/states-destination-twice.finding.md")
       expect(existsSync(`${at.root}/pages/finding/finding/states-destination-twice.finding.md`)).toBe(false)
     } finally {
@@ -197,10 +211,10 @@ describe("what it lands", () => {
       }
       expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
 
-      runCommand(at, filing(at, "finding", "states-destination-twice"))
+      runCommand(at, filing(at, "page-type/finding", "states-destination-twice"))
 
       const landed = "pages/finding/finding/states-destination-twice.finding.md"
-      expect(readFileSync(`${at.root}/${landed}`, "utf8")).toContain("domain-slug: finding")
+      expect(readFileSync(`${at.root}/${landed}`, "utf8")).toContain("domain-slug: page-type/finding")
       const show = Bun.spawnSync({
         cmd: ["git", "show", "--stat", "--name-status", "HEAD"],
         cwd: at.root,
@@ -221,19 +235,19 @@ describe("what it lands", () => {
 
 describe("what the composition is", () => {
   test("the domain and the title reach the keys and the authored prose reaches the two headings", () => {
-    const body = composeFinding("finding", "  A title.  ", "  A claim.  ", "\nThe evidence.\n")
+    const body = composeFinding("page-type/finding", "  A title.  ", "  A claim.  ", "\nThe evidence.\n")
     expect(body).toBe(
-      '---\npage-type-slug: finding\ntitle: "A title."\ndomain-slug: finding\n---\n\n# Claim\n\nA claim.\n\n# Evidence\n\nThe evidence.\n'
+      '---\npage-type-slug: finding\ntitle: "A title."\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nA claim.\n\n# Evidence\n\nThe evidence.\n'
     )
   })
 
   test("the domain key carries the new slug and every other line is left byte for byte", () => {
-    const before = "---\ndomain-slug: role\n---\n\n# Claim\n\nx\n"
-    const spliced = withDomainKey(before, "finding")
+    const before = "---\ndomain-slug: page-type/role\n---\n\n# Claim\n\nx\n"
+    const spliced = withDomainKey(before, "page-type/finding")
     expect("refusal" in spliced).toBe(false)
     if ("refusal" in spliced) return
-    expect(spliced.declared).toBe("role")
-    expect(spliced.body).toBe("---\ndomain-slug: finding\n---\n\n# Claim\n\nx\n")
+    expect(spliced.declared).toBe("page-type/role")
+    expect(spliced.body).toBe("---\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nx\n")
   })
 
   test("a body declaring no domain key is refused rather than having one inserted", () => {

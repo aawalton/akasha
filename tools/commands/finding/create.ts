@@ -9,6 +9,7 @@ import {
   findingPathIn,
   findingRepo,
   kebabRefusal,
+  addressRefusal,
   undeclaredRefusal,
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -20,10 +21,10 @@ export const help: CommandHelp = {
   flags: [
     {
       name: "--domain",
-      argLabel: "<slug>",
+      argLabel: "<address>",
       valueShape: "token",
       required: true,
-      description: "The domain the observation bears on.",
+      description: "The domain the observation bears on. Written `<page-type>/<slug>`.",
     },
     {
       name: "--slug",
@@ -68,15 +69,16 @@ export const help: CommandHelp = {
     {
       code: 1,
       meaning:
-        "input error — a slug that is not kebab-case, a domain no document declares, a destination " +
+        "input error — a slug that is not kebab-case, a domain written as a bare slug rather than an " +
+        "address, a domain no document declares, a destination " +
         "already holding a finding, a claim or evidence file that cannot be read — or a gate refused. " +
         "Nothing was written",
     },
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    'ops finding create --domain ops-cli --slug bounds-unsized --title "The store states its destination twice" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md',
-    "ops finding create --domain ops-cli --slug bounds-unsized --title \"...\" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run",
+    'ops finding create --domain domain/ops-cli --slug bounds-unsized --title "The store states its destination twice" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md',
+    "ops finding create --domain domain/ops-cli --slug bounds-unsized --title \"...\" --claim-file /var/tmp/claim.md --evidence-file /var/tmp/evidence.md --dry-run",
   ],
 }
 
@@ -105,7 +107,10 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
 
   const badSlug = kebabRefusal(slug)
   if (badSlug !== null) throw inputError(badSlug)
-  const undeclared = undeclaredRefusal(domain, declaredDomains(rootFor(roots, AKASHA)))
+  const declared = declaredDomains(rootFor(roots, AKASHA))
+  const bare = addressRefusal(domain, declared)
+  if (bare !== null) throw inputError(bare)
+  const undeclared = undeclaredRefusal(domain, declared)
   if (undeclared !== null) throw inputError(undeclared)
 
   const relPath = findingPathIn(root, domain, slug)

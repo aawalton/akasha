@@ -8,6 +8,7 @@ import {
   findingPathIn,
   findingRepo,
   findingsDirIn,
+  addressRefusal,
   undeclaredRefusal,
   withDomainKey,
 } from "../../lib/finding.ts"
@@ -30,10 +31,10 @@ export const help: CommandHelp = {
     },
     {
       name: "--domain",
-      argLabel: "<slug>",
+      argLabel: "<address>",
       valueShape: "token",
       required: true,
-      description: "The domain it belongs to.",
+      description: "The domain it belongs to. Written `<page-type>/<slug>`.",
     },
     {
       name: "--message",
@@ -49,6 +50,7 @@ export const help: CommandHelp = {
       code: 1,
       meaning:
         "input error — a path outside the repository findings stand in, a path that names no finding, " +
+        "a domain written as a bare slug rather than an address, " +
         "a domain no document declares, a finding declaring no `domain-slug:`, or one already sitting " +
         "under the domain it declares — or a gate or the escaped-spelling survey refused. " +
         "Nothing was moved",
@@ -56,8 +58,8 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain ops-namespace",
-    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain ops-namespace --dry-run",
+    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain domain/ops-namespace",
+    "ops finding rehome --file-path pages/finding/ops-cli/bounds-unsized.md --domain domain/ops-namespace --dry-run",
   ],
 }
 
@@ -91,7 +93,10 @@ export default async function findingRehome(args: readonly string[]): Promise<vo
   const root = targetRoot(roots)
   if (!existsSync(`${root}/.git`)) throw operationalError(`${root} is not a git repo`)
 
-  const undeclared = undeclaredRefusal(domain, declaredDomains(rootFor(roots, AKASHA)))
+  const declared = declaredDomains(rootFor(roots, AKASHA))
+  const bare = addressRefusal(domain, declared)
+  if (bare !== null) throw inputError(bare)
+  const undeclared = undeclaredRefusal(domain, declared)
   if (undeclared !== null) throw inputError(undeclared)
 
   const at = toRelPath(filePath, roots)

@@ -4,7 +4,7 @@ import type { Repo } from "../../page/document/types.ts"
 import { dataError } from "./exit.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
-import { slugNamed } from "../../page/page-address.ts"
+import { addressParts, slugNamed } from "../../page/page-address.ts"
 import { filedIn, pageTypePathIn, placeDirOf } from "../../page/page-types.ts"
 import { scan } from "./seat-resolve.ts"
 
@@ -89,6 +89,26 @@ export function undeclaredRefusal(domain: string, declared: ReadonlyMap<string, 
     `no document declares \`slug: ${domain}\`, so a finding keyed to it would reach nobody — ` +
     `${declared.size} domain(s) are declared, nearest: ${near.join(", ")}. Declare the domain first ` +
     `if it is genuinely new; \`ops domain dag\` prints the map`
+  )
+}
+
+// A BARE SLUG IS REFUSED RATHER THAN RESOLVED. `domain-slug` is a relation address, and a slug is
+// unique within a page type and not across the corpus, so resolving a bare one means taking
+// whichever page a scan reached first. That writes a key that is wrong and plausible, which nobody
+// downstream knows to look at; a refusal costs the caller one retry and says what to write.
+export function addressRefusal(domain: string, declared: ReadonlyMap<string, string>): string | null {
+  if (addressParts(domain) !== null) return null
+  const carrying = [...declared.keys()].filter((key) => addressParts(key)?.slug === domain).sort()
+  const shown = carrying.slice(0, 8)
+  const named =
+    carrying.length === 0
+      ? "No page carries this slug, so check the spelling as well as the page type."
+      : `Write one of: ${shown.join(", ")}${carrying.length > shown.length ? ", …" : ""}.`
+  return (
+    `\`${domain}\` is a bare slug, and this takes a relation address: the page type and the slug ` +
+    `joined by a slash, as \`domain/checks-system\` and \`repo/akasha-repo\` are. A slug is unique ` +
+    `within a page type and not across the corpus, so a bare one names a page only by accident of ` +
+    `which was reached first. ${named}`
   )
 }
 

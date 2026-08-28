@@ -58,8 +58,8 @@ function storeAt(at: Fixture): void {
   )
   at.readIt(AGENT, "pages/page-type/finding.page-type.md")
   at.readIt(AGENT, "pages/domain/global.domain.md")
-  at.put(MOVING, finding("finding", "The store states its destination twice."))
-  at.put(CITING, finding("role", `A worker has no route back, as \`${MOVING}\` also shows.`))
+  at.put(MOVING, finding("page-type/finding", "The store states its destination twice."))
+  at.put(CITING, finding("page-type/role", `A worker has no route back, as \`${MOVING}\` also shows.`))
   for (const args of [
     ["init", "-q", "-b", "main"],
     ["config", "user.email", "test@example.com"],
@@ -89,9 +89,23 @@ describe("what a rehome refuses", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, ["--file-path", MOVING, "--domain", "roel"])
+      const run = runCommand(at, ["--file-path", MOVING, "--domain", "page-type/roel"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("roel")
+      expect(existsSync(`${at.root}/${MOVING}`)).toBe(true)
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
+    } finally {
+      at.dispose()
+    }
+  })
+
+  test("a bare slug is refused rather than resolved, a key naming a page type as well", () => {
+    const at = fixture()
+    try {
+      storeAt(at)
+      const run = runCommand(at, ["--file-path", MOVING, "--domain", "role"])
+      expect(run.code).toBe(1)
+      expect(run.err).toContain("bare slug")
       expect(existsSync(`${at.root}/${MOVING}`)).toBe(true)
       expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
@@ -103,7 +117,7 @@ describe("what a rehome refuses", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, ["--file-path", "pages/page-type/role.page-type.md", "--domain", "finding"])
+      const run = runCommand(at, ["--file-path", "pages/page-type/role.page-type.md", "--domain", "page-type/finding"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("pages/finding/")
       expect(git(at.root, ["status", "--porcelain"])).toBe("")
@@ -117,8 +131,8 @@ describe("what a rehome refuses", () => {
     try {
       storeAt(at)
       const deep = "pages/finding/role/cluster/deep-claim.finding.md"
-      at.put(deep, finding("role", "It sits a folder too far down."))
-      const run = runCommand(at, ["--file-path", deep, "--domain", "role"])
+      at.put(deep, finding("page-type/role", "It sits a folder too far down."))
+      const run = runCommand(at, ["--file-path", deep, "--domain", "page-type/role"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("does not name a finding")
     } finally {
@@ -130,7 +144,7 @@ describe("what a rehome refuses", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runCommand(at, ["--file-path", MOVING, "--domain", "finding"])
+      const run = runCommand(at, ["--file-path", MOVING, "--domain", "page-type/finding"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("asks for no rehome")
       expect(git(at.root, ["status", "--porcelain"])).toBe("")
@@ -148,7 +162,7 @@ describe("what a rehome refuses", () => {
     try {
       storeAt(at)
       mkdirSync(`${beside}/.git`, { recursive: true })
-      const run = runCommand(at, ["--file-path", `${beside}/notes.md`, "--domain", "role"], {
+      const run = runCommand(at, ["--file-path", `${beside}/notes.md`, "--domain", "page-type/role"], {
         CODE_EDITOR_ROOT: beside,
       })
       expect(run.code).toBe(1)
@@ -167,11 +181,11 @@ describe("what a rehome lands", () => {
     try {
       storeAt(at)
       const before = commitsIn(at.root)
-      runCommand(at, ["--file-path", MOVING, "--domain", "role"])
+      runCommand(at, ["--file-path", MOVING, "--domain", "page-type/role"])
       const landed = `${at.root}/pages/finding/role/states-destination-twice.finding.md`
       expect(existsSync(landed)).toBe(true)
       expect(existsSync(`${at.root}/${MOVING}`)).toBe(false)
-      expect(readFileSync(landed, "utf8")).toContain("domain-slug: role")
+      expect(readFileSync(landed, "utf8")).toContain("domain-slug: page-type/role")
       expect(readFileSync(`${at.root}/${CITING}`, "utf8")).toContain(
         "`pages/finding/role/states-destination-twice.finding.md`"
       )
@@ -186,7 +200,7 @@ describe("what a rehome lands", () => {
     const at = fixture()
     try {
       storeAt(at)
-      runCommand(at, ["--file-path", MOVING, "--domain", "role"])
+      runCommand(at, ["--file-path", MOVING, "--domain", "page-type/role"])
       expect(git(at.root, ["log", "-1", "--format=%s"]).trim()).toStartWith("akasha:")
     } finally {
       at.dispose()
