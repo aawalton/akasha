@@ -7,24 +7,22 @@ domain-slug: domain/deploy-system
 
 # Claim
 
-The orphaned-resources sweep is scoped by two declarations that a retired resource no longer carries, so the resources it exists to find are the ones it cannot see.
+The orphaned-resources sweep is scoped by two declarations a retired resource no longer carries — the namespaces in `NAMESPACE_NAMES`, and a `managed-by` of `deploy-script` or `bootstrap` — so what it exists to find is what it cannot see. Either scoping alone hides a resource; one failing both is invisible twice while a run reports clean.
 
-It lists only the namespaces in `NAMESPACE_NAMES`, and it considers only resources labelled `app.kubernetes.io/managed-by` of `deploy-script` or `bootstrap`. A cluster object outlives its declaration by losing exactly those: the namespace it was created in was never in the synthesised list, and the label it carries names the command that made it rather than a deploy. Either scoping alone is enough to hide it, and a resource that fails both is invisible twice over while the sweep reports a clean run.
-
-This is the same shape as a folder-anchored glob answering the folder question rather than the kind question, and as `kubectl get endpoints` answering "No resources found" for a hand-written `EndpointSlice` under a selectorless `Service`, which the endpoints controller never mirrors into an `Endpoints` object. That second comparison first stood here as the shim no longer serving the resource kind, and measured 2026-08-28 that is false: `kubectl get endpoints -A` returns 44 rows beside the deprecation warning, against 44 `endpointslices`. The finding it was drawn from was taken away at `4d3c927e8` for that reason, by a second agent measuring it the same way. The comparison holds on the narrower mechanism and not on the one first written here. A guard scoped by a declaration cannot see what stopped declaring.
+Measured 2026-08-28, no CronJob for the sweep stands in the cluster. This describes a guard that is not running.
 
 # Evidence
 
-Two specimens, both `Service` — a kind the sweep audits, in `AUDITED_KINDS` at `tools/lib/orphaned-resources-sweep/cluster.ts:13`.
+Two specimens, both `Service`, a kind in `AUDITED_KINDS` (`cluster.ts:13`): `page-query-service` on `10.100.134.88:8787` and `graph-service` on `10.103.212.34:8788`, each with an ownerless EndpointSlice declaring `ready: true` for `192.168.68.50`, where `ss -ltn` showed nothing listening. Found by two agents the same night, one from a production failure and one from reading the command that made them.
 
-`page-query-service/page-query-service` on `10.100.134.88:8787`, nine days old, and `graph-service/graph-service` on `10.103.212.34:8788`, six days old. Each stood with an ownerless EndpointSlice declaring `conditions.ready: true` for `192.168.68.50`, this workstation's address, where `ss -ltn` showed nothing listening on either port. Each namespace held nothing else. Both were found by separate agents on the same night, one by measuring a production failure and one by reading the command that made them, which is what makes them a pattern rather than a single slip.
+First scoping: `sweepOrphanedResources` takes its namespaces from `NAMESPACE_NAMES` (`audit.ts:59`), and neither namespace is among the 57 in `app-namespaces/synth.ts`.
 
-The first scoping: `sweepOrphanedResources` takes its namespaces from `NAMESPACE_NAMES` at `tools/lib/orphaned-resources-sweep/audit.ts:59`. `rg` for either name in `infra/k8s/src/app-namespaces/synth.ts` returns nothing, against 57 namespaces declared there. Neither namespace is listed, so neither was ever asked after.
+Second: `orphansAmong` (`audit.ts:43-44`) returns false unless `managed-by` is in `{deploy-script, bootstrap}` (`audit.ts:9`). Both specimens carried `ops-service-install` (`service-cluster-reach.ts:4,50`). Across 44 live services: 17 `bootstrap`, 12 `deploy-script`, 11 carrying no such key, 3 `cloudnative-pg`, 1 `talos-migration-11917` — so 15 are unreachable by the label test, and the guard misses what never declared as well as what stopped.
 
-The second scoping: `orphansAmong` at `audit.ts:43-44` returns false for any resource whose `managed-by` is absent or outside `MANAGED_BY_A_DEPLOY`, which is `{"deploy-script", "bootstrap"}` at `audit.ts:9`. `kubectl get svc -o jsonpath='{.items[*].metadata.labels}'` returned `app.kubernetes.io/managed-by: ops-service-install` for both, set at `tools/lib/service-cluster-reach.ts:4,50`. So each would have been skipped even had its namespace been listed.
+`kubectl get cronjob -A` returns 14, none of them this sweep.
 
-The label test measured across the whole cluster afterwards: of 44 live services, 17 carry `bootstrap` and 12 `deploy-script`, so 29 are visible to `orphansAmong`. The other 15 are not — 11 carry no `app.kubernetes.io/managed-by` key at all and are refused by the `managedBy === null` test before the value test runs, 3 carry `cloudnative-pg` and 1 `talos-migration-11917`. So the guard also misses what never declared, not only what stopped declaring.
+A comparison first drawn here was false and is corrected: `kubectl get endpoints` was said to answer "No resources found" because the shim no longer serves the kind. Measured 2026-08-28 it returns 44 rows against 44 endpointslices. The comparison holds only on the narrower mechanism — a hand-written EndpointSlice under a selectorless `Service` is never mirrored into an `Endpoints` object. The finding it was drawn from was removed at `4d3c927e8`.
 
-Both specimens were deleted after this reading, so the claim about the two objects is no longer checkable in the cluster; their manifests were captured first. The claim about the two scopings is unchanged by that and stands in the code cited.
+Both specimens were deleted after this reading, their manifests captured first. The scopings stand in the code cited.
 
-NOT MEASURED. Whether the sweep has ever reported an orphan it did find, so nothing here says the audit works on the population it does reach. Whether any resource of the other two audited kinds, `Deployment` and `StatefulSet`, is hidden the same way — only `Service` was examined. How many namespaces exist in the cluster beyond the 57 declared. Whether the sweep is running at all on its schedule, which was not checked. Whether the eleven unlabelled services and the four labelled otherwise are each accounted for by a file — three of them are not, and that stands as its own finding.
+NOT MEASURED. Whether the sweep ever reported an orphan it did find. Whether `Deployment` or `StatefulSet` hide the same way; only `Service` was examined. When the CronJob left the cluster, or whether it ever stood there. Whether the three live services no file declares are each accounted for.
