@@ -181,8 +181,10 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   const dryRun = argv.includes(DRY_RUN)
-  const removingOnly = pairs.length === 0 && carried.length === 0 && named.length > 0
-  const mechanical = argv.includes(MECHANICAL) || removingOnly
+  // A REMOVAL IS NOT MECHANICAL. This drops `read-before-write` and `read-what-is-required`, the
+  // two checks `needsAuthor` marks, so deriving it from a call that only takes files away exempts
+  // every removal from having read what it deletes. Only the flag sets it.
+  const mechanical = argv.includes(MECHANICAL)
   const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
   const at = addressOf(argv, everyPath)
 
