@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import ts from "typescript"
 import { carriesCode, outwardOf, specifiersIn, targetOf } from "../../imports/imports.ts"
 import type { Check, CheckFailure, Tree, Was } from "../check-shape.ts"
-import { appsIn, bodiesOf, faultsOver, typegenFor } from "./program.ts"
+import { appsIn, bodiesOf, type Fault, faultsOver, giveBackTheProgram, typegenFor } from "./program.ts"
 
 export const ABSENT = "no `typescript` with an API to drive is reachable — run `bun install` in this repository"
 
@@ -53,18 +53,28 @@ function reachingOut(tree: Tree, paths: Iterable<string>): ReadonlySet<string> {
 }
 
 /**
- * Every fault the importers already held, in the tree as it stood before the change.
+ * Every fault the questioned files already held, in the tree as it stood before the change.
  *
- * ROOTED AT THE IMPORTERS ALONE, NOT THE WHOLE SCOPE. The only question this program answers
- * is whether a fault found in a file the change did not touch was already standing there, and that
- * is asked of exactly those files. Rooting it at the subjects as well would parse them and
- * everything they reach a second time for an answer nothing reads, because a fault in a file the
- * change touches is reported however old it is.
+ * ROOTED AT THE FILES THAT ACTUALLY FAULTED, NOT AT EVERY IMPORTER. The only question this program
+ * answers is whether a fault already stood where one now does, so a file that came back clean has
+ * nothing to ask and rooting at it buys nothing. `page/index/store/store.ts` is imported by 998
+ * files; rooting this at all of them doubled the run for one answer, and almost every gate run has
+ * no question to ask at all and now builds no second program whatever.
+ *
+ * A FILE ROOTED ALONE YIELDS THE SAME FAULTS IT YIELDS AMONG ITS FELLOWS. What a program reports
+ * against a root is that root and what it imports, which the root carries with it, so narrowing the
+ * root set takes nothing away from what is asked about the roots that remain.
  */
-function alreadyIn(before: Tree, importers: readonly string[]): ReadonlySet<string> {
+function alreadyIn(before: Tree, questioned: readonly string[]): ReadonlySet<string> {
+  // THE FIRST PROGRAM IS GIVEN BACK BEFORE THE SECOND IS BUILT. The memory reaper kills on VmRSS of
+  // one process at 8 GB, and a whole-set audit already peaks at five to six of that in this same
+  // process, so two `tsc` programs live at once is a reaped run rather than a slow one. `faultsOver`
+  // collects after each project it finishes, which leaves nothing of the first pass standing here;
+  // this says so at the seam rather than leaving it to be inherited from the loop above.
+  giveBackTheProgram()
   const read = bodiesOf(before)
   const found = new Set<string>()
-  faultsOver(before, importers, read, (fault) => found.add(fault.identity))
+  faultsOver(before, questioned, read, (fault) => found.add(fault.identity))
   return found
 }
 
@@ -114,25 +124,32 @@ export const typecheck: Check = {
       typegenFor(tree.root, under)
     }
     const outward = reachingOut(tree, scope)
-    const already =
-      importers.length === 0 || was.before === null
-        ? new Set<string>()
-        : alreadyIn(was.before, importers)
 
-    const failures: CheckFailure[] = []
-    const reported = new Set<string>()
+    const found: Fault[] = []
     faultsOver(tree, roots, read, (fault) => {
       // WHAT THE CHANGE MERELY IMPORTS IS STILL NEVER REPORTED. `scope` is what reaches a subject;
       // a file only reached from one is in the program and outside this.
       if (!scope.has(fault.path) || outward.has(fault.path)) return
-      // A FAULT IN A FILE THE CHANGE DID NOT TOUCH IS THE CHANGE'S ONLY WHERE IT WAS NOT THERE
-      // BEFORE. A change that does not touch a failing file must not be blocked by it; a fault that
-      // change causes in a file it did not touch is its own breakage and is refused.
-      if (!subjects.has(fault.path) && already.has(fault.identity)) return
-      if (reported.has(fault.identity)) return
+      found.push(fault)
+    })
+
+    // A FAULT IN A FILE THE CHANGE DID NOT TOUCH IS THE CHANGE'S OWN ONLY WHERE IT WAS NOT THERE
+    // BEFORE. A change that does not touch a failing file must not be blocked by it; a fault that
+    // change causes in a file it did not touch is its own breakage and is refused.
+    const questioned = [...new Set(found.filter((one) => !subjects.has(one.path)).map((one) => one.path))]
+    const already =
+      questioned.length === 0 || was.before === null
+        ? new Set<string>()
+        : alreadyIn(was.before, questioned)
+
+    const failures: CheckFailure[] = []
+    const reported = new Set<string>()
+    for (const fault of found) {
+      if (!subjects.has(fault.path) && already.has(fault.identity)) continue
+      if (reported.has(fault.identity)) continue
       reported.add(fault.identity)
       failures.push({ path: fault.path, reason: fault.reason })
-    })
+    }
     return failures
   },
 }

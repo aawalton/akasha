@@ -224,7 +224,7 @@ type Collector = { readonly gc: (force: boolean) => void }
  * ASKED FOR THROUGH `globalThis` rather than named outright, so a build whose settings do not
  * carry the runtime's own types still compiles, and a host that is not that runtime does nothing.
  */
-function giveBackTheProgram(): void {
+export function giveBackTheProgram(): void {
   const held = (globalThis as { readonly Bun?: Collector }).Bun
   if (held === undefined) return
   held.gc(true)
