@@ -8,7 +8,7 @@ domain-slug: domain/formula-language
 
 # Claim
 
-Two evaluators stand live over one corpus of 74 formulas, and they implement different languages rather than one language twice. `tools/lib/page-expression.ts` reads 59 of the 74 and `pages-system/formula/` reads 19; four are read by both, and none of those four means the same thing to each. Measured agreement between the two implementations is zero out of 74. The intersection is not the safe part of the corpus but the only part that fails silently, because outside it each evaluator refuses what it cannot read. Replacing one with the other is a rewrite of 55 programs, not a repoint.
+Two evaluators stand live over one corpus of 74 formulas and implement different languages rather than one language twice: `tools/lib/page-expression.ts` reads 59, `pages-system/formula/` reads 19, four are read by both, and measured agreement is zero out of 74.
 
 # Evidence
 
@@ -20,17 +20,11 @@ Measured 2026-08-28 at commit `37e0955be`. The population is all 74 property def
 - read by neither: 0
 - agreeing in meaning: 0
 
-The four both read are the fully double-quoted ones. The old tokenizer takes the whole text as a single literal and returns its characters; the new one fills each reference where it stands, at `pages-system/formula/tokens.ts:91-117`. Over the same values:
+The intersection is the only part that fails silently: outside it each evaluator refuses what it cannot read. The four both read are the fully double-quoted ones. The old tokenizer takes the whole text as a single literal and returns its characters; the new one fills each reference where it stands, at `pages-system/formula/tokens.ts:91-117`. Over the same values:
 
 - `"{source-slug}-{date}"` — old answers `{source-slug}-{date}`, new answers `alan-2026-08-28`
 - `"{persona-slug}-anchor"` — old answers `{persona-slug}-anchor`, new answers `astra-anchor`
 - `"{person-slug}-{access-kind}-{target}"` — old answers the braces, new answers `alan-read-x`
 - `"{source-slug}-{seat-name}-{date}"` — old answers the braces, new answers `alan-astra-2026-08-28`
 
-The languages are disjoint by construction rather than by accident. `pages-system/formula/tokens.ts:55-69` refuses `|`, `!`, `'`, `.` and `[`, each with advice naming what to write instead, and the language has no `prop(`. Constructs used by the 55 that only the old evaluator reads, counted over that population: 15 use `||` as a truthiness cascade where `??` is absent-fallback only; 11 use `if(a,b,c)`; 9 multiply a boolean by a number; 9 compare against `null`; 6 use `parseInstant`; 5 use `containsText`; 5 concatenate text with `+`; 4 use single-quoted text. None uses `%` or `!`.
-
-The call contracts differ too, so even a rewritten corpus is not a call swap. `evaluate(text, reads)` is lazy and lets `page-derive.ts:271-279` recurse per key under its own `walking` cycle guard; `runFormula(checked, {now, properties})` wants every value up front and catches cycles earlier, in `checkPageType`.
-
-A third implementation of the old language stands at `shared/pages-core/src/formula/` — 24 files, entered at `parser.ts:294` — carrying functions `page-expression.ts` does not have: `count`, `toCalendarDate`, `parseCalendarDate`, `timeOfDay`.
-
-For Alan: every key these formulas reference does resolve to a declared type through the extends chain, but three declared type names have no counterpart in the new language's `DeclaredType` — `uuid` at 6 references, `select(slug)` at 5 and `relation-slug` at 5 — so what those 16 references become is a ruling nobody has yet made.
+The languages are disjoint by construction. `pages-system/formula/tokens.ts:55-69` refuses `|`, `!`, `'`, `.` and `[`, each with advice naming what to write instead, and the language has no `prop(`. Constructs used by the 55 that only the old evaluator reads: 15 use `||` as a truthiness cascade where `??` is absent-fallback only; 11 use `if(a,b,c)`; 9 multiply a boolean by a number; 9 compare against `null`; 6 use `parseInstant`; 5 use `containsText`; 5 concatenate text with `+`; 4 use single-quoted text. None uses `%` or `!`.
