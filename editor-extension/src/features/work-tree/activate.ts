@@ -6,6 +6,7 @@ import * as vscode from 'vscode';
 import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
 import { recordObservation } from '../../seat/observation-store.ts';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
+import { dropDerivers } from '../../../../tools/lib/deriver-hold.ts';
 import { createSettledRefresh } from '../settled-refresh.ts';
 import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness.ts"
 import { recolour } from "./colours.ts";
@@ -23,31 +24,22 @@ const FEATURE = 'work-tree';
 const SETTLE_MS = 2_000;
 
 /**
- * WHAT IS WATCHED, AND WHY IT IS NARROWER THAN THE DOMAINS PANEL'S. `ops memory work-tree` reads
- * initiatives and nothing else — those are the only documents that can move a row here. The memory
+ * WHAT IS WATCHED, AND WHY IT IS NARROWER THAN THE DOMAINS PANEL'S. This tree is drawn from
+ * initiatives and nothing else — those are the only documents that can move a row here. The akasha
  * repository also carries findings, tens of thousands of them, written far more often and changing
- * nothing on this tree; watching every document would spend a whole-corpus read on each of them.
+ * nothing on this tree; watching every document would drop the held answers on each of them.
  *
- * BOTH PLACES, BECAUSE THE CORPUS IS MID-MOVE. These documents are migrating from bare
- * `initiatives/` to `pages/initiative/`, and `pagePrefixOf` in the instructions repository accepts
- * either — so the command reads both, and a glob naming one side would go quiet for whatever is
- * standing on the other. This is the same mid-move the seat directories below are in, and it goes
- * away when the move does, not before.
- *
- * IT NAMED ONLY THE BARE FOLDERS UNTIL 2026-08-22, and not one of them is there: the memory root
- * holds `pages/`, `seats/` and `messages/`. The watch therefore matched nothing at all and this panel
- * re-read only when its button was pressed — which is the only reading a watcher that matches nothing
- * ever gives, because it does not fail, it goes quiet.
+ * A WATCH THAT MATCHES NOTHING DOES NOT FAIL, IT GOES QUIET, so this names the one folder an
+ * initiative's page type puts its documents in rather than guessing at a second.
  */
-const CORPUS_GLOB = '{pages/initiative,initiatives}/**/*.md';
+const CORPUS_GLOB = 'pages/initiative/**/*.md';
 
 /**
  * How long the seat files must be quiet before the colours are asked for again.
  *
  * SHORT ENOUGH TO SIT INSIDE THE BUDGET, WHICH IS WHAT SETS IT. A turn state changing is drawn
- * within 100ms, and this wait is spent before the read rather than during it — so at the 250ms it
- * stood at until 2026-08-22 the bound was already lost before anything was asked for, however fast
- * the ask. With the read at 30ms this leaves better than half the budget unspent.
+ * within 100ms, and this wait is spent before the read rather than during it. With the read at 30ms
+ * this leaves better than half the budget unspent.
  *
  * STILL COALESCED RATHER THAN IMMEDIATE. One seat's turn moving writes its sidecar a few times in
  * quick succession, and those writes land within a millisecond or two of each other — which is what
@@ -68,11 +60,9 @@ let output: vscode.OutputChannel;
  * have nested it inside that panel instead, which is not what was asked for.
  *
  * STILL NO POLL, AND NOW NOT A BUTTON EITHER, for the reason the Domains panel states at length.
- * The memory corpus changes when a seat writes to it, and re-reading it means spawning a process
- * that parses several hundred documents — on a timer that is a subprocess a minute, for ever. What
- * it answers to instead is the repository being written, which is the event the timer would have
- * been standing in for. The button stays beside it, because a read that failed is still worth
- * asking for again.
+ * The corpus changes when a seat writes to it, so what this answers to is the repository being
+ * written, which is the event a timer would only have been standing in for. The button stays
+ * beside it, because a read that failed is still worth asking for again.
  */
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
 	output = vscode.window.createOutputChannel('Ops: Work Tree');
@@ -146,8 +136,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 			output.appendLine(`[${trigger}] ${rows} initiative(s) from ${next.repo}`);
 			// SAID OUT LOUD RATHER THAN LEFT TO THE EYE. A row drawn twice is the shape a parent
 			// edge goes wrong in, and a tree quietly holding a row twice looks exactly like a sound
-			// one. The verb is where that would be a defect; this is the panel noticing rather than
-			// trusting, because a wrong tree here is the one thing this panel exists not to show.
+			// one. `workTree` is where that would be a defect; this is the panel noticing rather
+			// than trusting, because a wrong tree is the one thing this panel exists not to show.
 			recordObservation(FEATURE, {
 				outcome: 'ok',
 				counts: {
@@ -185,8 +175,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	 *
 	 * WHY THIS IS NOT `refresh`. A row's colour is the turn state of whatever seats hold it, and that
 	 * moves whenever any seat starts or ends a turn. Re-reading the whole tree on each of those would
-	 * walk every document in the memory repository, re-run this panel's own duplicate check and
-	 * re-publish its observation — all to move a colour on one line.
+	 * ask for every initiative page again, re-run this panel's own duplicate check and re-publish its
+	 * observation — all to move a colour on one line.
 	 *
 	 * NOTHING ON SCREEN YET MEANS NOTHING TO REPAINT. Until the first read has answered there are no
 	 * rows to take colours against, and the read that is coming carries its own.
@@ -238,10 +228,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	);
 
 	/**
-	 * Watches the memory repository, so an initiative written there re-reads this view.
+	 * Watches the akasha repository, so an initiative written there re-reads this view.
 	 *
-	 * THE REPOSITORY IS TAKEN FROM THE VERB'S ANSWER rather than from a path held here, for the
-	 * reason `harness.ts` states: where the memory repository sits is the harness's fact, and a
+	 * THE REPOSITORY IS TAKEN FROM THE TREE'S OWN ANSWER rather than from a path held here, for the
+	 * reason `harness.ts` states: where the akasha repository sits is the harness's fact, and a
 	 * second copy of it in this extension would be a second thing to be wrong. It follows that there
 	 * is no watch until a read has succeeded, which costs nothing — until then there is no tree on
 	 * screen for a watch to keep current.
@@ -252,12 +242,23 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	let watched: string | undefined;
 	const watchCorpus = (named: string): undefined => {
 		if (watched !== undefined) { return undefined; }
-		// SPELLED THE WAY THE WORKSPACE SPELLS IT, WHICH THIS PANEL IS THE REASON FOR. The verb here
-		// builds its root from `$HOME` and answers `/home/walton/repos/memory`, where the workspace holds
-		// `/var/home/walton/repos/memory` — one directory, two spellings. `harness-call` holds the
+		// SPELLED THE WAY THE WORKSPACE SPELLS IT, WHICH THIS PANEL IS THE REASON FOR. The roots are
+		// built from `$HOME` and answer `/home/walton/repos/akasha`, where the workspace holds
+		// `/var/home/walton/repos/akasha` — one directory, two spellings. `harness-call` holds the
 		// measurement.
 		const repo = repositoryPath(named);
 		watched = repo;
+		/**
+		 * A WRITE DROPS THE HELD ANSWERS BEFORE IT ASKS FOR THE READ. The page queries beneath this
+		 * panel are held for a minute at a time, so that four panels reading at once work out the cache
+		 * keys once between them; nothing in that hold watches the disk. So the event saying the corpus
+		 * moved is the event that has to say the hold is stale, or the re-read it triggers answers out
+		 * of the hold with the very rows that changed.
+		 */
+		const moved = (why: string) => (): void => {
+			dropDerivers();
+			settled.request(why);
+		};
 		const watcher = vscode.workspace.createFileSystemWatcher(
 			new vscode.RelativePattern(vscode.Uri.file(repo), CORPUS_GLOB)
 		);
@@ -266,9 +267,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 			// ALL THREE, AND DELETION IS THE ONE THIS PANEL CANNOT DO WITHOUT. An initiative's
 			// document is removed when it is finished, so a view answering only to edits would hold
 			// every finished initiative on screen for as long as the window stayed open.
-			watcher.onDidChange(() => settled.request('written')),
-			watcher.onDidCreate(() => settled.request('added')),
-			watcher.onDidDelete(() => settled.request('removed'))
+			watcher.onDidChange(moved('written')),
+			watcher.onDidCreate(moved('added')),
+			watcher.onDidDelete(moved('removed'))
 		);
 		output.appendLine(`watching ${repo}/${CORPUS_GLOB}, re-reading ${SETTLE_MS}ms after it settles`);
 		return undefined;
