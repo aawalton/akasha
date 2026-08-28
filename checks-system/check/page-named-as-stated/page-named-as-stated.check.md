@@ -4,7 +4,7 @@ page-type-slug: check
 title: "Page named as stated"
 slug: page-named-as-stated
 needs: tree
-check-on-patch: false
+check-on-patch: true
 check-on-worktree: false
 ---
 
