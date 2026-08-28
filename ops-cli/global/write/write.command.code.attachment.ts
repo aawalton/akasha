@@ -11,7 +11,8 @@ import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
 import { landOutside, type Loose, removeOutside } from "../../../repo/land/outside.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { fail, valueOf } from "../../../patches/patch.ts"
+import { heldToWhatItsAuthorRead } from "../../../agent/authored-write/authored-write.ts"
+import { fail, GATED, valueOf } from "../../../patches/patch.ts"
 import { patchAside } from "../../../repo/land/body-aside.ts"
 import { readPayload, readsPayload } from "../../../tools/lib/payload.ts"
 
@@ -212,9 +213,9 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   const dryRun = argv.includes(DRY_RUN)
-  // A REMOVAL IS NOT MECHANICAL. This drops `read-before-write` and `read-what-is-required`, the
-  // two checks `needsAuthor` marks, so deriving it from a call that only takes files away exempts
-  // every removal from having read what it deletes. Only the flag sets it.
+  // A REMOVAL IS NOT MECHANICAL. This drops the judgment of what this write's author read, so
+  // deriving it from a call that only takes files away exempts every removal from having read what
+  // it deletes. Only the flag sets it.
   const mechanical = argv.includes(MECHANICAL)
   const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
   const at = addressOf(argv, everyPath)
@@ -285,6 +286,11 @@ export default async function write(argv: readonly string[]): Promise<void> {
         "nothing was checked or landed\n"
     )
     return
+  }
+
+  // ONLY `write` AND `edit` HOLD A WRITE TO WHAT ITS AUTHOR READ — never the gate beneath them.
+  if (at.repo === AKASHA && !mechanical && process.env[GATED] !== "1") {
+    heldToWhatItsAuthorRead(at.root, entries)
   }
 
   try {
