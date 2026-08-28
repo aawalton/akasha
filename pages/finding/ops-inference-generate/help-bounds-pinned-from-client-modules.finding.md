@@ -3,7 +3,7 @@ id: c1bb2df0-88c7-5589-b0e8-c4a872a91cc3
 slug: help-bounds-pinned-from-client-modules
 page-type-slug: finding
 title: "Help bounds pinned from client modules"
-domain-slug: ops-command/ops-inference-generate
+domain-slug: old-ops-command/ops-inference-generate
 ---
 
 # Claim

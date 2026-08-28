@@ -3,7 +3,7 @@ id: d2da751b-5981-5b69-983f-1a009bb246e8
 slug: help-examples-name-undeclared-flag
 page-type-slug: finding
 title: "Help examples name undeclared flag"
-domain-slug: ops-command/ops-browser-test-verify-render
+domain-slug: old-ops-command/ops-browser-test-verify-render
 ---
 
 # Claim

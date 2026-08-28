@@ -3,7 +3,7 @@ id: 027cf071-c144-5bd8-bbf9-7dd304bbe02b
 slug: no-session-exit-split
 page-type-slug: finding
 title: "No session exit split"
-domain-slug: ops-command/ops-seat-transcript
+domain-slug: old-ops-command/ops-seat-transcript
 ---
 
 # Claim

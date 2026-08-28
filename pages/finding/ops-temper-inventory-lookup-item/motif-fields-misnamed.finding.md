@@ -3,7 +3,7 @@ id: 9619e144-d053-5819-8db8-4c78ed5dbf9e
 slug: motif-fields-misnamed
 page-type-slug: finding
 title: "Motif fields misnamed"
-domain-slug: ops-command/ops-temper-inventory-lookup-item
+domain-slug: old-ops-command/ops-temper-inventory-lookup-item
 ---
 
 # Claim

@@ -3,7 +3,7 @@ id: 8660c39f-83d4-56e7-850f-e7fa235d14b8
 slug: unknown-service-exits-operational
 page-type-slug: finding
 title: "Unknown service exits operational"
-domain-slug: ops-command/ops-inference-voice-design
+domain-slug: old-ops-command/ops-inference-voice-design
 ---
 
 # Claim
