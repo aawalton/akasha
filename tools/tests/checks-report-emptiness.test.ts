@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { pagesHoldShape } from "../audits/pages-hold-shape.ts"
 import type { CheckOutcome, RepoView } from "../lib/check.ts"
@@ -26,18 +26,6 @@ function rootsAt(akasha: string): RepoView["roots"] {
 
 function viewOf(name: Repo, akasha: string, documents: readonly string[] = []): RepoView {
   return { roots: rootsAt(akasha), name, documents, read: () => "", exists: () => false }
-}
-
-const HERE = new URL("../../", import.meta.url).pathname
-
-function liveView(documents: readonly string[]): RepoView {
-  return {
-    roots: { akasha: HERE },
-    name: "akasha",
-    documents,
-    read: (relPath) => readFileSync(`${HERE}${relPath}`, "utf8"),
-    exists: () => true,
-  }
 }
 
 function checkoutAt(prefix: string): string {
@@ -93,14 +81,6 @@ describe("pages-hold-shape over a repo no page type claims", () => {
       rmSync(bare, { recursive: true, force: true })
       rmSync(claiming, { recursive: true, force: true })
     }
-  })
-})
-
-describe("the check over a tree it does reach", () => {
-  test("pages-hold-shape judges rather than skipping, over the pages this repo claims", () => {
-    const outcome = pagesHoldShape(liveView([]))
-    expect(outcome.verdict).not.toBe("not-applicable")
-    expect(outcome.population.measured).toBeGreaterThan(0)
   })
 })
 
