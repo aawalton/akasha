@@ -25,7 +25,7 @@ Earlier readings of the same audit, for comparison: 2,379 sorted under 327 domai
 
 Four sub-claims made about this corpus hold: none carries a bare number, none is missing its page-type prefix, none is missing a slug, and `domain/946` appears nowhere in the repository outside the line asserting it.
 
-One does not. "Every finding names a domain that exists" is false. Of 326 distinct `domain-slug` values, one resolves to no page: `domain/seat-presence`, carried by `pages/finding/seat-presence/a-correct-refusal-has-become-an-alarm-that-cannot-signal.finding.md`. Only `seat-presence.page-property-definition.md` and `seat-presence-*` domain siblings stand. `findings-sorted` passes it because it never checks existence, which is what `pages/finding/finding/dead-domain-folder-passes.finding.md` already states.
+One does not, and the count excluded the page stating it. Of the 326 values at `48a6a7171d`, one resolved to nothing: `domain/seat-presence`. This page did not exist then; landing it made a 327th, `domain/finding` — a page type, not a domain. Both are repaired, at `0fd4221018` and `4c022eab32`. Swept 2026-08-28 over all four types declaring the key: 334 distinct values, none unresolvable — an address resolves against any page type in the `domain` chain, not `*.domain.md` alone. `findings-sorted` passes them all, never checking existence, per `dead-domain-folder-passes`.
 
 Which domain they should carry instead, measured 2026-08-28: for 715 of the 731 none exists. The folder names a retired vocabulary.
 
