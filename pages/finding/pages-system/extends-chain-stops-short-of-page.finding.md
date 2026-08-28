@@ -8,7 +8,7 @@ domain-slug: domain/pages-system
 
 # Claim
 
-`pages/page-type/category-rule.page-type.md` and `pages/page-type/email-rule.page-type.md` do not exist, so the four types naming them in `extends-slug` — `category-rule-agent`, `category-rule-code`, `email-rule-agent`, `email-rule-code` — have a chain that never reaches `page`. None of the universal properties defined on `page` are declared for them, so their 212 live pages are exempt from every one, including the `id` that `pages/page-property-definition/page-id.page-property-definition.md` defines on `page`.
+No `category-rule.page-type.md` and no `email-rule.page-type.md` stand anywhere in the repository, so the four types naming them in `extends-slug` — `category-rule-agent`, `category-rule-code`, `email-rule-agent`, `email-rule-code` — have a chain that never reaches `page`. None of the universal properties defined on `page` are declared for them, so their 212 live pages are exempt from every one, including the `id` that `page-id.page-property-definition.md` defines on `page`.
 
 # Evidence
 
