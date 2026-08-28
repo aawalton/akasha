@@ -5,21 +5,18 @@ export const akashaMigration = {
   pageTypeSlug: "domain",
   slug: "akasha-migration",
   definition: "how the old system becomes the new system",
-  partSlugs: [
-    "akasha-accretion",
-    "akasha-ablation",
-    "akasha-milestone",
-  ],
-  requiredReadingSlugs: [
-    "akasha-accretion",
-    "akasha-ablation",
-    "akasha-milestone",
+  partSlugs: ["akasha-accretion", "akasha-ablation", "akasha-milestone"],
+  requiredReadingSlugs: ["akasha-accretion", "akasha-ablation", "akasha-milestone"],
+  design: [
+    "A migrated command runs the new implementation beside the old and records where they disagree.",
+    "The second implementation changes neither the answer nor whether the command succeeds.",
   ],
   rule: [
     {
       name: "Accrete And Ablate",
       act: "Accrete the new and ablate the old.",
-      warrant: "Every complex system that works evolved incrementally from a simple system that worked.",
+      warrant:
+        "Every complex system that works evolved incrementally from a simple system that worked.",
       aids: [
         "The new is not done while it has findings.",
         "The new is not done while the old exists.",
