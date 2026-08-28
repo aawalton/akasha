@@ -41,7 +41,7 @@ export interface SeatRow {
 	readonly waitingOn: string | null;
 	/**
 	 * The colour name the harness answered, NOT a shade. Which colour a state is drawn in is
-	 * stated in the instructions repository, one line on the state's own domain; what that
+	 * stated in akasha, one line on the state's own domain; what that
 	 * colour looks like is this extension's, contributed in its manifest. A hex crossing the
 	 * boundary would put the palette in the corpus and the decision in the panel, both wrong.
 	 */
@@ -91,7 +91,7 @@ export interface AgentNode {
  * branch fetched back in.
  *
  * WHICH ROWS THOSE ARE IS THE HARNESS'S ANSWER, not this file's. `tools/agent-forest.ts`
- * in the instructions repository holds the live-status filter, the order, the cap
+ * in akasha holds the live-status filter, the order, the cap
  * and the walk back up the ownership chain — one fetch is not enough, and doing
  * that walk on this side of a process boundary would pay a process start per
  * generation. What is here is the part that is about the VIEW: the nesting, the
@@ -147,7 +147,7 @@ export async function readAgentForest(subagents: SubagentReader): Promise<AgentF
  *
  * THE PANEL KNOWS THE STATE AND ASKS ONLY FOR THE COLOUR, which is the division the corpus
  * draws: a subagent is working or stopped, this tree holds only the working ones, and which
- * colour working is stays on `domains/agent-turn-working.md`.
+ * colour working is stays on `pages/domain/agent-turn-working.domain.md`.
  */
 const WORKING = 'working';
 
