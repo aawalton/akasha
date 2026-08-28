@@ -2,8 +2,7 @@
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../../page/name/name"
 import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
-import { keepSeatSession } from "./supervisor-heartbeat-beat.ts"
-import { removeSeatPage } from "./seat-page.ts"
+import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { launchFrom } from "./seat-flex.ts"
 import { principalOf } from "./seat-principal.ts"
 import { frontmatterOf, seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
@@ -81,7 +80,7 @@ async function readPredecessor(agentId: string): Promise<{
 }
 
 async function markStopped(agentId: string): Promise<void> {
-  const taken = removeSeatPage(agentId, "it was rebound and a successor takes its place")
+  const taken = takeSeatPage(agentId, "it was rebound and a successor takes its place")
   if (taken.kind === "refused") {
     throw new Error(`the seat page for ${agentId} did not go: ${taken.detail}`)
   }

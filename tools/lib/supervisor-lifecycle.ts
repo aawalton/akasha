@@ -3,7 +3,7 @@ import { shape } from "./shape.ts"
 import type { ChildExitRuleSource } from "./supervisor-child-exit-rule.ts"
 import { LOG } from "./supervisor-config.ts"
 import { shouldWriteTerminalStoppedStatus } from "./supervisor-lifecycle-death-write.ts"
-import { removeSeatPage } from "./seat-page.ts"
+import { takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { teardownProxyVersionSubscription } from "./supervisor-proxy-version.ts"
 import { attemptInPlaceReExec } from "./supervisor-reexec.ts"
 import { resolveReExecArgv } from "./supervisor-self-heal.ts"
@@ -112,7 +112,7 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   if (shouldWriteTerminalStoppedStatus(isPendingReExec())) {
     const dyingAgentId = getCurrentAgentIdForSelfHeal()
     if (dyingAgentId !== null && exitWrite !== null) {
-      const pageTaken = removeSeatPage(dyingAgentId, exitWrite.stopReason)
+      const pageTaken = takeSeatPage(dyingAgentId, exitWrite.stopReason)
       recordShutdownEvent("seat-page-remove", {
         agentId: dyingAgentId,
         outcome: pageTaken.kind,

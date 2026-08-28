@@ -1,6 +1,7 @@
 import { patchUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import type { BeatReport } from "../seat-page-beat.ts"
+import type { Outcome } from "./gated-write.ts"
 import { nameFromHistory } from "./seat-page-history.ts"
 import { seatPageDestination } from "./seat-presence-read.ts"
 import {
@@ -123,6 +124,18 @@ export async function keepSeatPage(
       `${LOG} heartbeat: writing the seat page failed for ${report.seat ?? seatName}: ${report.outcome.detail}`
     )
   }
+}
+
+/**
+ * Take a seat's page away, the agent that sat in it having gone.
+ *
+ * A SHUTDOWN IS THE ONE WRITE A SUPERVISOR NEVER GETS TO RETRY, so it is spawned like every other
+ * rather than held: what a departing supervisor does to the page is whatever the file on disk
+ * says today, not what it said when that supervisor booted. A stopped seat keeps no page, and its
+ * attributes stand in the repository's history from the commit that removed it.
+ */
+export function takeSeatPage(agentId: string, stopReason: string): Outcome {
+  return runBeat(["--agent", agentId, "--remove", stopReason]).outcome
 }
 
 export async function recordHeartbeat(
