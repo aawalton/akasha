@@ -6,6 +6,7 @@ import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
 import { sidecarsBeside } from "../../../page/sidecar/sidecar.ts"
 import { statingIds } from "./state-id.ts"
+import { heldByRepo } from "../../../repo/git/git.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose, removeOutside } from "../../../repo/land/land.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
@@ -296,13 +297,17 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 }
 
-function removalsIn(at: Addressed, named: readonly string[]): readonly string[] {
+export function removalsIn(at: Addressed, named: readonly string[]): readonly string[] {
+  const relPaths = named.map((one) => relPathIn(at, one))
+  const held = heldByRepo(at.root, relPaths)
   const removals: string[] = []
-  for (const one of named) {
-    const relPath = relPathIn(at, one)
+  for (const relPath of relPaths) {
     const absolute = `${at.root}/${relPath}`
-    if (!existsSync(absolute)) fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
-    if (statSync(absolute).isDirectory()) {
+    if (!held.has(relPath)) {
+      fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
+    }
+    // One git holds and the worktree has lost is a file, git holding no directory of its own.
+    if (existsSync(absolute) && statSync(absolute).isDirectory()) {
       fail(`${REMOVE} ${relPath} is a directory; name its files, so the commit says what went`)
     }
     removals.push(relPath)
