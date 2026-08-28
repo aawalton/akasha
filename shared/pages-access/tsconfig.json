@@ -101,6 +101,7 @@
     "../../page/shape/mark.ts",
     "../../page/text/text.ts",
     "../../page/tracked/tracked.ts",
+    "../../pages-system/page-type/page-type.ts",
     "../../patches/patch.ts",
     "../../repo/git/git.ts",
     "../../repo/holder/holder.ts",
