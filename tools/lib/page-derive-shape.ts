@@ -1,5 +1,4 @@
 import { type Values } from "./page-file-values.ts"
-import { type Narrow } from "./page-narrow.ts"
 
 
 export const WALK_BOUND = 64
@@ -9,7 +8,7 @@ export interface Carries {
   readonly attachment?: readonly string[]
   readonly rows?: readonly string[]
   readonly pages?: boolean
-  readonly only?: Narrow
+  readonly only?: readonly string[]
 }
 
 export interface Row {

@@ -42,9 +42,7 @@ export function deriverFor(roots: Roots, carries: Carries = {}): Deriver {
     (carries.attachment ?? []).join(","),
     (carries.rows ?? []).join(","),
     carries.pages === true,
-    carries.only === undefined
-      ? "*"
-      : `${carries.only.kind}:${[...carries.only.keys].sort().join(",")}`,
+    carries.only === undefined ? "*" : [...carries.only].sort().join(","),
   ].join("|")
   const now = Date.now()
   for (const [named, one] of held) if (now - one.at > deriverTtlMs) held.delete(named)

@@ -42,7 +42,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const carryAttachments = carries.attachment ?? []
   const carryRows = carries.rows ?? []
   const carryPages = carries.pages === true
-  const onlyFor = narrowing(carries.only)
+  const only = narrowing(carries.only)
   const kinds = kindsIn(roots)
   const { byKind: declared, bySlug } = declarationsIn(roots)
   const chains = new Map<string, readonly string[]>()
@@ -329,7 +329,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   // iterable: each time it is asked for a walk it starts a fresh one.
   const rows = (pageType: string): Iterable<Row> | null => {
     if (!isFiled(pageType) && !isHeld(pageType)) return null
-    const derived = keptIn(derivedOn(pageType), onlyFor(pageType))
+    const derived = keptIn(derivedOn(pageType), only)
     return {
       *[Symbol.iterator]() {
         for (const page of pagesOf(pageType)) yield rowOf(page, derived)

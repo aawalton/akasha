@@ -20,6 +20,6 @@ export function carriesFor(query: PageQuery): Carries {
     body: asked.includes(BODY) || whole,
     attachment: keys,
     rows: keys,
-    ...(whole ? {} : { only: { kind: query.pageType, keys: asked } }),
+    ...(whole ? {} : { only: asked }),
   }
 }
