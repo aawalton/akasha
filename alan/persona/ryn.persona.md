@@ -14,7 +14,7 @@ query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: ryn
 championed-domain-slug: domain-system
-role-slug: definer
+role-slug: challenger
 value-slug: wealth
 origin: canon
 voice-lane: "Q"
