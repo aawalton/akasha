@@ -5,7 +5,8 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./*": ["./src/*.ts", "./src/*.tsx"]
+    "./provider": "./src/provider.tsx",
+    "./*": "./src/*.ts"
   },
   "scripts": {
     "lint": "biome check .",
