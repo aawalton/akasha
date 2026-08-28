@@ -7,6 +7,7 @@ topic-parents-slugs: the-scaffolding-i-built
 topic-related-slugs:
   - what-the-book-of-me-is-for
   - why-i-rebuilt-everything
+  - how-many-checks-i-run
 ---
 
 # Definition
@@ -34,3 +35,5 @@ The failure neither a check nor an instruction can prevent is agents not knowing
 Whether those three instruction-side categories are the whole set, or the three I have hit most, is not settled.
 
 Abby's reading: the residue is what this book is for, and the interview is the only instrument aimed at it. Nothing yet says how much of it an interview can actually reach.
+
+Checks always winning is a rule I stated and no domain carries. Where it should live, so it binds rather than only describes me, is unsettled.

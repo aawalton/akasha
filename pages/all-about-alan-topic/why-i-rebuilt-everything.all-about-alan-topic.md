@@ -7,6 +7,8 @@ topic-parents-slugs: the-scaffolding-i-built
 topic-related-slugs:
   - why-i-keep-my-data-in-files
   - how-i-watch-my-agents
+  - how-often-i-start-over
+  - what-happens-when-something-gets-cheap
 ---
 
 # Definition

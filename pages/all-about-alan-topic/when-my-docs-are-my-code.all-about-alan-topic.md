@@ -4,6 +4,7 @@ page-type-slug: all-about-alan-topic
 title: "When My Docs Are My Code"
 slug: when-my-docs-are-my-code
 topic-parents-slugs: why-i-keep-my-data-in-files
+topic-related-slugs: the-graph-i-built-to-run-my-checks
 ---
 
 # Definition
@@ -27,7 +28,5 @@ Data, docs and code being the same thing is a whole different universe from wher
 It is necessary. When the system is primarily agent-driven, all three need to be agent-accessible first, and all other considerations are secondary.
 
 # Questions
-
-The graph system is another system I have not seen anyone else build. I named it and said we could talk about it sometime, and it has no write-up.
 
 What else falls out of the new constraints that the old system could not have given me at any price is what I am still figuring out.
