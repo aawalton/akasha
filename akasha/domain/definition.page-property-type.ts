@@ -1,4 +1,4 @@
-import type { PagePropertyType } from "./page-property-type.page-type.ts"
+import type { PagePropertyType } from "../page/page-property-type.page-type.ts"
 
 export type Definition = string
 

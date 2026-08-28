@@ -1,6 +1,7 @@
 import type { PageType } from "../page/page-type.page-type.ts"
 import type { Page } from "../page/page.page-type.ts"
 import type { Condition } from "./condition.page-property-type.ts"
+import type { Definition } from "./definition.page-property-type.ts"
 import type { Design } from "./design.page-property-type.ts"
 import type { Intent } from "./intent.page-property-type.ts"
 import type { PartSlugs } from "./part-slugs.page-property-type.ts"
@@ -9,13 +10,14 @@ import type { RequiredReadingSlugs } from "./required-reading-slugs.page-propert
 import type { Rule } from "./rule.page-property-type.ts"
 
 export type Domain = Page & {
-  partSlugs: PartSlugs
-  requiredReadingSlugs: RequiredReadingSlugs
-  design: Design
-  condition: Condition
-  intent: Intent
-  principle: Principle
-  rule: Rule
+  definition: Definition
+  partSlugs?: PartSlugs
+  requiredReadingSlugs?: RequiredReadingSlugs
+  design?: Design
+  condition?: Condition
+  intent?: Intent
+  principle?: Principle
+  rule?: Rule
 }
 
 export const domain = {

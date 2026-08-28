@@ -1,4 +1,3 @@
-import type { Definition } from "./definition.page-property-type.ts"
 import type { Id } from "./id.page-property-type.ts"
 import type { PageType } from "./page-type.page-type.ts"
 import type { Slug } from "./slug.page-property-type.ts"
@@ -6,7 +5,6 @@ import type { Slug } from "./slug.page-property-type.ts"
 export type Page = {
   id: Id
   slug: Slug
-  definition: Definition
 }
 
 export const page = {
