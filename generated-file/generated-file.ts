@@ -1,4 +1,4 @@
-import { isAttachmentFile, isCodeAttachmentFile } from "../page/attachment-file.ts"
+import { isAttachmentFile, isSourceAttachmentFile } from "../page/attachment-file.ts"
 import { isRowsFile } from "../page/rows-file.ts"
 
 const GENERATED_DIR = /(^|\/)generated\//
@@ -14,7 +14,7 @@ export function isGeneratedFile(relPath: string, body: string | Uint8Array): boo
   if (GENERATED_NAME.test(relPath)) return true
   if (GENERATED_LOCKFILE.test(relPath)) return true
   if (isRowsFile(relPath)) return true
-  if (isAttachmentFile(relPath) && !isCodeAttachmentFile(relPath)) return true
+  if (isAttachmentFile(relPath) && !isSourceAttachmentFile(relPath)) return true
   if (typeof body !== "string") return false
   return GENERATED_HEADER.test(body.split("\n").slice(0, 3).join("\n"))
 }
