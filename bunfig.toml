@@ -1,5 +1,8 @@
 [test]
-preload = ["@shared/utils-test/setup/component-dom-guard"]
+preload = [
+  "@shared/utils-test/setup/component-dom-guard",
+  "./tools/lib/live-store-write-guard-preload.ts",
+]
 
 [test.reporter]
 dots = true
