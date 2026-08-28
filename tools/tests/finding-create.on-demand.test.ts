@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { composeFinding, withDomainKey } from "../lib/finding.ts"
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
+import { composeFinding } from "../lib/finding.ts"
 import { fixture, installPages, installRepos, type Fixture } from "./fixture.ts"
 
 const ARM = `${import.meta.dir}/command-arm.ts`
@@ -78,7 +78,7 @@ describe("what the filing command refuses before it composes anything", () => {
       expect(run.code).toBe(1)
       expect(run.err).toContain("findinsg")
       expect(run.err).toContain("finding")
-      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
+      expect(readdirSync(`${at.root}/pages/finding`)).toEqual([])
     } finally {
       at.dispose()
     }
@@ -92,7 +92,7 @@ describe("what the filing command refuses before it composes anything", () => {
       expect(run.code).toBe(1)
       expect(run.err).toContain("bare slug")
       expect(run.err).toContain("page-type/finding")
-      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
+      expect(readdirSync(`${at.root}/pages/finding`)).toEqual([])
     } finally {
       at.dispose()
     }
@@ -105,7 +105,7 @@ describe("what the filing command refuses before it composes anything", () => {
       const run = runCommand(at, filing(at, "page-type/finding", "States Destination Twice"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("kebab-case")
-      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
+      expect(readdirSync(`${at.root}/pages/finding`)).toEqual([])
     } finally {
       at.dispose()
     }
@@ -116,13 +116,13 @@ describe("what the filing command refuses before it composes anything", () => {
     try {
       storeAt(at)
       at.put(
-        "pages/finding/finding/taken.finding.md",
+        "pages/finding/taken.finding.md",
         "---\ndomain-slug: finding\n---\n\n# Claim\n\nx\n\n# Evidence\n\ny\n"
       )
       const run = runCommand(at, filing(at, "page-type/finding", "taken"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("already")
-      expect(readFileSync(`${at.root}/pages/finding/finding/taken.finding.md`, "utf8")).toContain("# Claim")
+      expect(readFileSync(`${at.root}/pages/finding/taken.finding.md`, "utf8")).toContain("# Claim")
     } finally {
       at.dispose()
     }
@@ -171,8 +171,8 @@ describe("what it puts through the gates", () => {
     try {
       storeAt(at)
       const run = runCommand(at, [...filing(at, "page-type/finding", "states-destination-twice"), "--dry-run"])
-      expect(run.out).toContain("pages/finding/finding/states-destination-twice.finding.md")
-      expect(existsSync(`${at.root}/pages/finding/finding/states-destination-twice.finding.md`)).toBe(false)
+      expect(run.out).toContain("pages/finding/states-destination-twice.finding.md")
+      expect(existsSync(`${at.root}/pages/finding/states-destination-twice.finding.md`)).toBe(false)
     } finally {
       at.dispose()
     }
@@ -181,7 +181,7 @@ describe("what it puts through the gates", () => {
 })
 
 describe("what it lands", () => {
-  test("a domain with no folder yet gets one in the same act, and the commit names the new path", () => {
+  test("the body carries the keys it was given, and one commit names the path", () => {
     const at = fixture()
     try {
       at.document(
@@ -207,11 +207,9 @@ describe("what it lands", () => {
       ]) {
         Bun.spawnSync({ cmd: ["git", ...args], cwd: at.root, stdout: "pipe", stderr: "pipe" })
       }
-      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
-
       runCommand(at, filing(at, "page-type/finding", "states-destination-twice"))
 
-      const landed = "pages/finding/finding/states-destination-twice.finding.md"
+      const landed = "pages/finding/states-destination-twice.finding.md"
       const kept = readFileSync(`${at.root}/${landed}`, "utf8")
       expect(kept).toContain("domain-slug: page-type/finding")
       expect(kept).toContain("slug: states-destination-twice")
@@ -245,19 +243,5 @@ describe("what the composition is", () => {
     expect(body).toBe(
       '---\npage-type-slug: finding\nslug: a-name-of-its-own\ntitle: "A title."\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nA claim.\n\n# Evidence\n\nThe evidence.\n'
     )
-  })
-
-  test("the domain key carries the new slug and every other line is left byte for byte", () => {
-    const before = "---\ndomain-slug: page-type/role\n---\n\n# Claim\n\nx\n"
-    const spliced = withDomainKey(before, "page-type/finding")
-    expect("refusal" in spliced).toBe(false)
-    if ("refusal" in spliced) return
-    expect(spliced.declared).toBe("page-type/role")
-    expect(spliced.body).toBe("---\ndomain-slug: page-type/finding\n---\n\n# Claim\n\nx\n")
-  })
-
-  test("a body declaring no domain key is refused rather than having one inserted", () => {
-    const spliced = withDomainKey("---\ndomain: role\n---\n\n# Claim\n\nx\n", "finding")
-    expect("refusal" in spliced).toBe(true)
   })
 })

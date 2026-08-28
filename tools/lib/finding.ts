@@ -9,20 +9,18 @@ import { scan } from "./seat-resolve.ts"
 
 export const DOMAIN_KEY = "domain-slug"
 
-export const PAGE_TYPE_KEY = "page-type-slug"
+const PAGE_TYPE_KEY = "page-type-slug"
 
 const FINDING = "finding"
 
-const DELIMITER = "---"
-
 const KEBAB = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 
-export function findingsDirIn(root: string): string {
+function findingsDir(): string {
   return placeDirOf(FINDING)
 }
 
 export function findingPathIn(root: string, slug: string): string {
-  const dir = findingsDirIn(root)
+  const dir = findingsDir()
   return pageFileIn(root, dir, slug) ?? `${dir}/${slug}.${FINDING}${MARKDOWN}`
 }
 
@@ -114,26 +112,4 @@ export function composeFinding(
   const front =
     `---\n${PAGE_TYPE_KEY}: ${FINDING}\nslug: ${slug}\ntitle: "${said}"\n${DOMAIN_KEY}: ${domain}\n---`
   return `${front}\n\n# Claim\n\n${claim.trim()}\n\n# Evidence\n\n${evidence.trim()}\n`
-}
-
-export type Splice = { readonly body: string; readonly declared: string } | { readonly refusal: string }
-
-export function withDomainKey(body: string, domain: string): Splice {
-  const fm = parseFrontmatter(body)
-  if (fm.error !== null) return { refusal: `its frontmatter could not be read — ${fm.error}` }
-  if (!fm.present) return { refusal: "it declares no frontmatter, so it holds no `domain-slug:` to rewrite" }
-  const lines = body.split("\n")
-  const close = lines.findIndex((line, index) => index > 0 && line === DELIMITER)
-  if (lines[0] !== DELIMITER || close === -1) {
-    return { refusal: "it opens a frontmatter block this cannot find the edges of" }
-  }
-  const at = lines.findIndex(
-    (line, index) => index > 0 && index < close && line.startsWith(`${DOMAIN_KEY}:`)
-  )
-  if (at === -1) return { refusal: `it declares no \`${DOMAIN_KEY}:\`, so it is not a finding a rehome can move` }
-  const declared = (lines[at] as string).slice(DOMAIN_KEY.length + 1).trim()
-  return {
-    body: [...lines.slice(0, at), `${DOMAIN_KEY}: ${domain}`, ...lines.slice(at + 1)].join("\n"),
-    declared,
-  }
 }
