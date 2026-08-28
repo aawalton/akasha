@@ -5,7 +5,6 @@ title: "Chapter"
 extends-slug: collection
 files: none
 body-shape-slug: text
-unique-key: "{partOf}/{slug}"
 slug: chapter
 domain-parent-slug: domain/writing-definitions
 settled: true

@@ -6,7 +6,6 @@ extends-slug: domain
 files:
   - akasha:**/*.page-property-definition.md
 body-shape-slug: domain
-unique-key: "{page-type.slug}/{defined-on.slug}/{key}"
 slug: page-property-definition
 domain-parent-slug: page-type/page-type
 required-reading-slugs:
