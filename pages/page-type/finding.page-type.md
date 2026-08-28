@@ -21,16 +21,10 @@ A finding informs a decision rather than demanding one.
 
 A finding is keyed only by domain and file stem.
 
-A finding's purpose is done when a decision is made about it, or when its claim stops being true. If the same observation comes up again, it is filed as a new finding rather than the old one restored.
+A finding whose claim is no longer true is done.
 
-# Rules
+A finding carried into a domain intent or an initiative intent is done.
 
-## Staleness
+A finding ruled not worth acting on is done.
 
-**Never report what a finding records about the world as stale.**
-
-A finding is a reading taken on a day, so drift is expected, and age alone is not evidence of it.
-
-Never delete or hedge a finding for its age.
-
-Where you checked and the claim is false, say so.
+If the same observation comes up again, it is filed as a new finding rather than the old one restored.
