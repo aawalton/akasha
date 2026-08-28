@@ -1,13 +1,14 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { fill } from "../page/document/render.ts"
-import { placeDirOf } from "../../page/page-types.ts"
-import { pageFileIn } from "../../page/page-file.ts"
+import { pageRelIn, placeDirOf } from "../../page/page-types.ts"
+
+const REFUSAL_TYPE = "refusal"
 
 export const fromDisk = (absolutePath: string): string | null =>
   existsSync(absolutePath) ? readFileSync(absolutePath, "utf8") : null
 
-export const REFUSAL_DIR = placeDirOf("refusal")
+export const REFUSAL_DIR = placeDirOf(REFUSAL_TYPE)
 
 const HEADING = /^#[^\n]*\n/
 
@@ -17,8 +18,7 @@ export function refusalText(
   instructionsRoot: string,
   read: (absolutePath: string) => string | null
 ): string {
-  const at =
-    pageFileIn(instructionsRoot, REFUSAL_DIR, slug) ?? `${REFUSAL_DIR}/${slug}.md`
+  const at = pageRelIn(instructionsRoot, REFUSAL_TYPE, slug)
   const raw = read(`${instructionsRoot}/${at}`)
   if (raw === null) throw new Error(`${at} is not there, so there is no refusal to print`)
   const text = raw.replace(/\r\n/g, "\n")

@@ -28,7 +28,7 @@ describe("filling a body", () => {
   })
 })
 
-const stub = (body: string) => (path: string) => (path.endsWith("pages/refusal/x.md") ? body : null)
+const stub = (body: string) => (path: string) => (path.endsWith("pages/refusal/x.refusal.md") ? body : null)
 
 describe("a refusal document", () => {
   test("arrives as its prose, with the frontmatter and the heading off", () => {
