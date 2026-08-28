@@ -13,6 +13,7 @@ const NAME = "refusals-bound"
 const CALL = "refusalText("
 const DECLARES = /\bfunction\s+$/
 const TESTS = ".test.ts"
+const DECLARATIONS = ".d.ts"
 const QUOTED = "\"'`"
 const OPENS = "({["
 const CLOSES = ")}]"
@@ -103,7 +104,7 @@ export const refusalsBound: Check = (repo) => {
   const printed = new Set<string>()
   let callers = 0
   for (const relPath of ownTypeScript(root)) {
-    if (relPath.endsWith(TESTS)) continue
+    if (relPath.endsWith(TESTS) || relPath.endsWith(DECLARATIONS)) continue
     const source = readFileSync(`${root}/${relPath}`, "utf8")
     const spots: number[] = []
     for (let at = source.indexOf(CALL); at !== -1; at = source.indexOf(CALL, at + CALL.length))
