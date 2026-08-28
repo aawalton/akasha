@@ -93,7 +93,7 @@ mock.module("@shared/pages-access/upsert", () => ({
   upsertPages: unreached("upsertPages"),
 }))
 
-mock.module("@shared/pages-query", () => ({
+mock.module("@shared/pages-query/ask", () => ({
   ASK_CEILING_MS: unreached("ASK_CEILING_MS"),
   askNamed: unreached("askNamed"),
   askTaking: unreached("askTaking"),
