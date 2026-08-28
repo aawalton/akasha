@@ -19,6 +19,22 @@ settled: true
 
 - **The Graph** — the one model holding every node and every edge.
 
+# Design
+
+No code-editor node enters the graph.
+
+A node names the repository it lives in.
+
+A thing in no repository is not a node; an external package and a host are attributes.
+
+A node type is a different thing; an attribute is the same thing with a property.
+
+An edge type is a different way of connecting; an attribute is the same way with a property.
+
+A thing is a node type where one file holds many of it, and a file with an attribute where a file holds one.
+
+An edge is polymorphic in its ends wherever its way of connecting is.
+
 # Condition
 
 A kind's name in code is its slug.

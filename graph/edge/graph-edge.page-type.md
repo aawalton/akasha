@@ -13,6 +13,10 @@ domain-parent-slug: domain/the-graph
 
 - **Graph edge** — one link from one node to another.
 
+# Design
+
+A node kind on a graph-edge page is a list.
+
 # Condition
 
 An edge runs from the node that names another to the one it names.
