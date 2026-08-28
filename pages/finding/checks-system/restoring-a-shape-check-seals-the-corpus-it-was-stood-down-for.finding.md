@@ -20,4 +20,6 @@ Three earlier attempts at this number were wrong. How they were wrong is filed a
 
 The first gave 479, from a regex over raw section text. `sectionChars` at `page/document/check.ts:148-150` sums `plain(block.content).length` per block, stripping markdown and counting no separator between blocks. The per-page gap is small — 5 to 10% on a dense finding — but this corpus piles up just above the bound, so a small measurement error moves the count nearly threefold. The error worth learning from is the count, not the measure.
 
+That pile-up also says what the sealed population is. These are not pages written far too long. They are pages written at about the right length by writers who never saw the bound, landing just past it — which makes clearing them a morning of work rather than a case against the bound.
+
 Three seats cleared their own sealed pages losing no measurement, so the bound is right. But they knew what each sentence was for; whoever holds the rest will not, and the cheapest legal act on a sealed page is deletion.
