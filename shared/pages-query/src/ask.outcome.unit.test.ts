@@ -1,10 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { askPage } from "./ask"
-import type { Sleeper } from "./retry"
-
-// WHAT THIS PINS IS THAT A CORPUS THAT WAS READ AND A CORPUS THAT WAS NEVER REACHED DO NOT ARRIVE
-// AS THE SAME ANSWER. Flattened to one boolean they read alike, and a caller that mints an id for
-// a page it could not see has spent a failed read as though it were an answer.
+import { askPage } from "./ask.ts"
+import type { Sleeper } from "./retry.ts"
 
 const napless: Sleeper = async () => {}
 

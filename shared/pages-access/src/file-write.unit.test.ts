@@ -1,9 +1,9 @@
 import { describe, expect, it } from "bun:test"
-import { nameFromAt, relPathFor } from "./file-name"
-import { mintedId } from "./file-rows"
-import { writerOf } from "./file-write"
-import { fileValuesOf } from "./file-write-values"
-import { FileWriteError } from "./file-write-error"
+import { nameFromAt, relPathFor } from "./file-name.ts"
+import { mintedId } from "./file-rows.ts"
+import { writerOf } from "./file-write.ts"
+import { fileValuesOf } from "./file-write-values.ts"
+import { FileWriteError } from "./file-write-error.ts"
 
 const FLAT = "zoo/animals/*.md"
 const NESTED = "zoo/habitats/**/*.md"
@@ -77,9 +77,6 @@ describe("fileValuesOf", () => {
     })
   })
 
-  // The case above pins the camel spelling and only the camel spelling, which is how a change
-  // asking `camelizeKey(rawKey)` — collapsing the two, on the reasoning that one key should not
-  // behave two ways — passed the suite while stripping `user-id` from every device write.
   it("keeps the kebab spelling a page holds in its own file, dropping the camel one the row settles", () => {
     expect(fileValuesOf("op", "device-secret", { "user-id": "u", "device-id": "d" })).toEqual({
       "user-id": "u",

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { createPage, createPageIfAbsent } from "./create"
+import { createPage, createPageIfAbsent } from "./create.ts"
 import {
   hardDeletePage,
   hardDeletePageById,
@@ -11,29 +11,19 @@ import {
   undeletePage,
   undeletePageById,
   undeletePages,
-} from "./delete"
+} from "./delete.ts"
 import {
   RosterUnreachable,
   forgetFileBackedPageTypes,
   setFileBackedPageTypes,
   setFileBackedRosterUnread,
-} from "./file-read"
-import { FileWriteError } from "./file-write-error"
-import { PageTypeNotFileBacked } from "./guards"
-import { patchPage, patchPageById, patchPages } from "./patch"
-import { createPageType, getPageTypeBySlug, patchPageTypeById } from "./page-type"
-import { PageTypesMissing } from "./page-type-ids"
-import { bulkUpsertPages, upsertPage, upsertPages } from "./upsert"
-
-/**
- * The roster each case stands on is held through `file-read`'s own seam rather than by replacing
- * that module.
- *
- * NOT `mock.module` ON `./file-read`. That call is process-global and mutates the namespace object
- * in place, and `mock.restore()` leaves it standing, so the last stub installed here — one whose
- * `isFileBacked` always threw — outlived this file and reached `file-write-narrowed.unit.test.ts`,
- * whose two cases then failed in a shared run and passed alone.
- */
+} from "./file-read.ts"
+import { FileWriteError } from "./file-write-error.ts"
+import { PageTypeNotFileBacked } from "./guards.ts"
+import { patchPage, patchPageById, patchPages } from "./patch.ts"
+import { createPageType, getPageTypeBySlug, patchPageTypeById } from "./page-type.ts"
+import { PageTypesMissing } from "./page-type-ids.ts"
+import { bulkUpsertPages, upsertPage, upsertPages } from "./upsert.ts"
 
 const PAGE_TYPE = "page-type"
 

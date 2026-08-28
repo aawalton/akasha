@@ -1,6 +1,5 @@
-
-import type { ReadonlyJSONValue } from "./schema/pages"
-import type { ColorRule } from "./schema/color-rule"
+import type { ReadonlyJSONValue } from "./schema/pages.ts"
+import type { ColorRule } from "./schema/color-rule.ts"
 
 export type PropertyType =
   | "text"
@@ -25,13 +24,6 @@ export type PropertyType =
   | "rich-document"
   | "action-button"
 
-/**
- * Where a property's value is kept.
- *
- * ONE DECLARATION. This tuple is the only statement of the tier vocabulary. The Zod enums that
- * admit a tier and the fields that carry one read it rather than restating it, so a tier added
- * here reaches every one of them at once.
- */
 export const STORAGE_TIERS = ["indexed", "content", "external"] as const
 
 export type StorageTier = (typeof STORAGE_TIERS)[number]

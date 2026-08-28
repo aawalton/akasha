@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { AnswerSchema } from "./answer-schema"
+import { AnswerSchema } from "./answer-schema.ts"
 import {
   ASK_CEILING_MS,
   type Asked,
@@ -8,10 +8,10 @@ import {
   type Read,
   readFromPageQueryService,
   refusalIn,
-} from "./index"
-import { pagesFetcher } from "./fetcher"
-import { openedRows, openedValues } from "./opened"
-import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry"
+} from "./index.ts"
+import { pagesFetcher } from "./fetcher.ts"
+import { openedRows, openedValues } from "./opened.ts"
+import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry.ts"
 
 export const ASK_ATTEMPTS = WRITE_ATTEMPTS
 
@@ -120,16 +120,6 @@ export type WholePage = z.infer<typeof WholeSchema>
 
 const ABSENT = 404
 
-/**
- * WHETHER THE CORPUS WAS READ IS PART OF THE ANSWER. `absent` says the store answered and holds no
- * page under that name; `unasked` says nothing was looked at. Collapsed into one `ok: false` the
- * two read alike, and every caller that mints an id, writes a duplicate, or reports "no such page"
- * off the failure has spent a read that never happened as though it were an answer.
- *
- * A 404 IS THE ONLY ABSENCE. The page query service answers a name it holds no page for with 404
- * and with nothing else; every other refusal — no answer at all, a 5xx, a body this reader cannot
- * parse — leaves the corpus unread, and says nothing about whether that page stands.
- */
 export type PageAsked =
   | { readonly outcome: "found"; readonly page: WholePage }
   | { readonly outcome: "absent"; readonly why: string }

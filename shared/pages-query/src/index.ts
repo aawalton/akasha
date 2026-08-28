@@ -1,10 +1,10 @@
 import { z } from "zod"
 
-import { AnswerSchema, type QueryAnswer } from "./answer-schema"
-import { openedRows } from "./opened"
-import { pagesFetcher } from "./fetcher"
-import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry"
-import { inATestRun } from "./test-run"
+import { AnswerSchema, type QueryAnswer } from "./answer-schema.ts"
+import { openedRows } from "./opened.ts"
+import { pagesFetcher } from "./fetcher.ts"
+import { backoffFor, type Sleeper, sleep, WRITE_ATTEMPTS, worthRetrying } from "./retry.ts"
+import { inATestRun } from "./test-run.ts"
 
 export const PAGE_QUERY_ORIGIN =
   "http://page-query-service.page-query-service.svc.cluster.local:8787"
@@ -38,8 +38,6 @@ function writingLiveFromATest(fetcher: Fetcher): boolean {
   if (typeof Bun === "undefined") return false
   if (statedOrigin() !== undefined) return false
   if (!inATestRun()) return false
-  // THE NATIVE FETCH ONLY. A fetcher installed through `fetchThrough` answers off the checkouts in
-  // this process, and is refused by `tools/lib/live-store-write-guard.ts`, which knows the path.
   return isNativeFetch(fetcher)
 }
 

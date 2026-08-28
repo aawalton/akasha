@@ -1,12 +1,10 @@
 import { afterEach, expect, test } from "bun:test"
-import { forgetAskedShapes } from "./file-property-defs"
-import { valuesToWrite } from "./file-write-values"
+import { forgetAskedShapes } from "./file-property-defs.ts"
+import { valuesToWrite } from "./file-write-values.ts"
 
 const SETTLER = "fixture-declares-user-id"
 const PLAIN = "fixture-declares-note"
 
-// `userId` is what the row store calls its owner column. A page type may also declare a property
-// of its own under that exact spelling; `temper-net-worth-snapshot` does, and states it required.
 function shapeOf(slug: string): unknown {
   const declarations =
     slug === SETTLER
@@ -45,8 +43,6 @@ afterEach(() => {
 
 test("a settled key the page type declares as its own refuses the write", async () => {
   serve()
-  // The value is the page's own property, so dropping it lands a page missing a declared key
-  // while the write reports done.
   await expect(valuesToWrite("write", SETTLER, { userId: "u9", note: "n" })).rejects.toThrow(
     /userId/
   )
@@ -54,7 +50,5 @@ test("a settled key the page type declares as its own refuses the write", async 
 
 test("a settled key the page type does not declare is still dropped", async () => {
   serve()
-  // app-shell.tsx spreads `userId` into the properties of every page it creates. Nothing declares
-  // it there, so it names the row's owner column and the file must not carry it.
   expect(await valuesToWrite("write", PLAIN, { userId: "u9", note: "n" })).toEqual({ note: "n" })
 })
