@@ -37,4 +37,12 @@ Nine checks gate a patch today. A page deleting its identity passes all nine.
 
 WHY NO CHECK REACHES IT. There is no `id` property definition in the repository — no `*.property.md` names it — so it is not among the properties `page-holds-to-its-type` judges a page against, and that check never names `id` in its code. `id` is structural, read by the page parser, and declared by no page type as required of anything. So the four gates standing down are not the explanation: turning all four back on would still not refuse this patch.
 
-NOT MEASURED. How many other pages have lost an id the same way. The one instance here was found by eye over fifteen files, not by a sweep, and the sweep is the obvious next measurement.
+THE SWEEP, AND WHAT IT DOES NOT SHOW. Every tracked page with frontmatter was then read: **80 of 58,992 carry no `id`**, in three page types — 59 findings of 3,068, 15 `story-chapter-royal-road` of 17,905, 6 messages of 68.
+
+**Fifty-nine of those 80 are not instances of this claim, and should not be counted as such.** `tools/lib/finding.ts:117` composes a new finding's frontmatter from three keys — `page-type-slug`, `title`, `domain-slug` — and no `id`. `git log -S` over that file's whole history returns no commit that ever added one, so `ops finding create` has never minted a uuid. The idless findings did not lose an identity; they were never given one. All eight findings filed from this seat tonight, this one included, are among them.
+
+That leaves the check page as the one demonstrated instance of an id being **deleted** by an edit. The claim above stands on it and on the positive control, not on the sweep.
+
+WHAT THE SWEEP FOUND INSTEAD is a disagreement between two page types. `pages/page-type/page.page-type.md:18` says a page's identity is a uuid. `pages/page-type/finding.page-type.md:22` says "A finding is keyed only by domain and file stem." `finding` extends `page`. Either the parent's line does not bind findings — in which case it is written as though it binds every page and does not — or it does, and the sanctioned command for creating findings has been minting non-conforming pages for its entire history. Nothing in the repository decides which, because nothing checks either line.
+
+NOT MEASURED. Whether the 15 chapters and 6 messages are losses or the same never-minted case; each has its own write path and neither was opened.
