@@ -1,9 +1,9 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { BUN_RUNTIME_IMAGE, ORCHESTRATOR_CACHE_REPO_PATH, TEMPER_WEB_CACHE } from "../../../../infra/k8s-types/src/orchestrator-cache-locations"
-import { ADDON_BUNDLE_IMAGE } from "./addon-bundle-image"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
+import { BUN_RUNTIME_IMAGE, ORCHESTRATOR_CACHE_REPO_PATH, TEMPER_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
+import { ADDON_BUNDLE_IMAGE } from "./deploy/addon-bundle-image"
 
 const NAMESPACE = "temper"
 const APP_NAME = "web"

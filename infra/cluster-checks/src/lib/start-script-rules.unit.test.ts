@@ -71,7 +71,7 @@ describe("resolveOwningWorkspace", () => {
 
   test("accepts a Set as the workspace collection", () => {
     expect(
-      resolveOwningWorkspace("temper/web/deploy/k8s/synth.ts", new Set(workspaces))
+      resolveOwningWorkspace("temper/web/temper-web-deployment.cluster-service.code.attachment.ts", new Set(workspaces))
     ).toBe("temper/web")
   })
 })
@@ -88,7 +88,7 @@ describe("findStartScriptViolations", () => {
   test("resolved owner with a start script → zero findings", () => {
     const sites: StartContainerSite[] = [
       {
-        synthPath: "temper/web/deploy/k8s/synth.ts",
+        synthPath: "temper/web/temper-web-deployment.cluster-service.code.attachment.ts",
         owningWorkspace: "temper/web",
         hasStartScript: true,
       },
