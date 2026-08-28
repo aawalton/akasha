@@ -50,16 +50,14 @@ afterAll(() => {
   rmSync(root, { recursive: true, force: true })
 })
 
-const away = join(root, "no-such-repo")
-
-const ROOTS: Roots = {
-  instructions: root,
-  code: away,
-  memory: away,
-  books: away,
-  stories: away,
-  "code-editor": away,
-}
+/**
+ * The fixture checkout, named as the repository the pages stand in.
+ *
+ * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
+ * fails only when something asks for the one that does. Naming `akasha` is what makes this a
+ * repository the code under test can find at all.
+ */
+const ROOTS: Roots = { akasha: root }
 
 describe("rows whose property is declared on a page type another one extends", () => {
   it("stands beside the page that holds them, rather than under the type declaring the property", () => {
