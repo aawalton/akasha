@@ -5,7 +5,6 @@
   "type": "module",
   "private": true,
   "exports": {
-    ".": "./src/index.ts",
     "./answer": "./src/answer.ts",
     "./answer-write": "./src/answer-write.ts",
     "./file-name": "./src/file-name.ts",
