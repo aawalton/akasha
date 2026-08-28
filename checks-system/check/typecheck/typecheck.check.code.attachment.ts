@@ -326,6 +326,15 @@ export const typecheck: Check = {
     const outward = reachingOut(tree, scope)
 
     const failures: CheckFailure[] = []
+    // A DIAGNOSTIC IS ONE FINDING, HOWEVER MANY PROGRAMS SAW IT. A file seven projects reach is
+    // parsed into seven programs, and each reports every fault it holds, so the fourteen faults in
+    // `shared/design-system/src/index.ts` were put on the board ninety-eight times and every count
+    // this check printed stood inflated by however widely the failing file was shared. What a
+    // reader is handed is the path and the reason — the line, the code and the message — so a
+    // second copy of that pair says nothing the first did not. Two faults on one line stand
+    // together wherever their messages differ; where they do not, there was one line to print
+    // either way.
+    const reported = new Set<string>()
     for (const [owner, held] of partition(subjects, projects)) {
       if (owner !== null && owner.foreign !== null) continue
       const options = owner === null ? DEFAULT_OPTIONS : owner.options
@@ -336,7 +345,11 @@ export const typecheck: Check = {
         if (!scope.has(path) || outward.has(path)) continue
         const { line } = found.file.getLineAndCharacterOfPosition(found.start)
         const text = ts.flattenDiagnosticMessageText(found.messageText, " ")
-        failures.push({ path, reason: `line ${line + 1}: TS${found.code}: ${text}` })
+        const reason = `line ${line + 1}: TS${found.code}: ${text}`
+        const identity = `${path}\n${reason}`
+        if (reported.has(identity)) continue
+        reported.add(identity)
+        failures.push({ path, reason })
       }
       giveBackTheProgram()
     }

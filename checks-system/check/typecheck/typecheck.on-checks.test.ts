@@ -116,3 +116,47 @@ test("a file the judged file breaks goes unreported, the program holding only wh
     expect(run(given)).toEqual([])
   })
 })
+
+test("a fault in a file more than one project reaches is one finding, not one for each", () => {
+  planted((at) => {
+    const project = (file: string): string =>
+      JSON.stringify({
+        compilerOptions: {
+          strict: true,
+          noEmit: true,
+          module: "Preserve",
+          moduleResolution: "Bundler",
+          target: "ESNext",
+          allowImportingTsExtensions: true,
+          skipLibCheck: true,
+          types: [],
+        },
+        files: [file],
+      })
+    const given = batchOver(
+      at,
+      {
+        "one/tsconfig.json": project("own.ts"),
+        "one/own.ts": 'import { shared } from "../shared/held.ts"\nexport const one = shared\n',
+        "two/tsconfig.json": project("own.ts"),
+        "two/own.ts": 'import { shared } from "../shared/held.ts"\nexport const two = shared\n',
+        "shared/held.ts": 'export const shared = "shared"\nexport const n: number = "no"\n',
+      },
+      ["one/own.ts", "two/own.ts", "shared/held.ts"]
+    )
+    const failures = run(given)
+    expect(failures).toHaveLength(1)
+    expect(failures[0]?.path).toBe(resolve(at, "shared/held.ts"))
+    expect(failures[0]?.reason).toContain("TS2322")
+  })
+})
+
+test("two faults on one line are both reported, their messages telling them apart", () => {
+  planted((at) => {
+    const given = batchOver(at, { "both.ts": 'export const n: number = "no", s: string = 7\n' }, ["both.ts"])
+    const failures = run(given)
+    expect(failures).toHaveLength(2)
+    expect(failures.map((one) => one.reason.startsWith("line 1: TS2322: "))).toEqual([true, true])
+    expect(failures[0]?.reason).not.toBe(failures[1]?.reason)
+  })
+})
