@@ -1,27 +1,54 @@
-import { expect, mock, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { createPage, createPageIfAbsent } from "./create"
+import {
+  hardDeletePage,
+  hardDeletePageById,
+  hardDeletePageByIds,
+  hardDeletePages,
+  softDeletePage,
+  softDeletePageById,
+  softDeletePages,
+  undeletePage,
+  undeletePageById,
+  undeletePages,
+} from "./delete"
+import {
+  RosterUnreachable,
+  forgetFileBackedPageTypes,
+  setFileBackedPageTypes,
+  setFileBackedRosterUnread,
+} from "./file-read"
+import { FileWriteError } from "./file-write-error"
+import { PageTypeNotFileBacked } from "./guards"
+import { patchPage, patchPageById, patchPages } from "./patch"
+import { createPageType, getPageTypeBySlug, patchPageTypeById } from "./page-type"
+import { PageTypesMissing } from "./page-type-ids"
+import { bulkUpsertPages, upsertPage, upsertPages } from "./upsert"
+
+/**
+ * The roster each case stands on is held through `file-read`'s own seam rather than by replacing
+ * that module.
+ *
+ * NOT `mock.module` ON `./file-read`. That call is process-global and mutates the namespace object
+ * in place, and `mock.restore()` leaves it standing, so the last stub installed here — one whose
+ * `isFileBacked` always threw — outlived this file and reached `file-write-narrowed.unit.test.ts`,
+ * whose two cases then failed in a shared run and passed alone.
+ */
 
 const PAGE_TYPE = "page-type"
 
+const OFF_ROSTER = "a-type-no-roster-names"
+
+const ON_ROSTER = "a-type-the-roster-names"
+
+const UNREAD = "the roster answered 503"
+
+afterAll(() => {
+  forgetFileBackedPageTypes()
+})
+
 test("an absent page-type declaration refuses loudly rather than writing a row", async () => {
-  const real = await import("./file-read")
-  const { PageTypesMissing } = await import("./page-type-ids")
-
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async (slug: string) => slug !== PAGE_TYPE,
-  }))
-
-  const { createPageType, patchPageTypeById, getPageTypeBySlug } = await import("./page-type")
+  setFileBackedPageTypes([])
 
   for (const run of [
     () => createPageType({ properties: { slug: "a-slug", title: "A title" } }),
@@ -33,27 +60,7 @@ test("an absent page-type declaration refuses loudly rather than writing a row",
 })
 
 test("a roster that could not be read is a different refusal from one that answered", async () => {
-  const real = await import("./file-read")
-  const { PageTypesMissing } = await import("./page-type-ids")
-
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async () => {
-      throw new real.RosterUnreachable("the roster answered 503")
-    },
-  }))
-
-  const { getPageTypeBySlug } = await import("./page-type")
+  setFileBackedRosterUnread(UNREAD)
 
   let caught: unknown = null
   try {
@@ -61,33 +68,13 @@ test("a roster that could not be read is a different refusal from one that answe
   } catch (err) {
     caught = err
   }
-  expect(caught).toBeInstanceOf(real.RosterUnreachable)
+  expect(caught).toBeInstanceOf(RosterUnreachable)
   expect(caught instanceof PageTypesMissing).toBe(false)
 })
 
-const OFF_ROSTER = "a-type-no-roster-names"
-
 test("a write to a page type the roster does not name refuses rather than reaching a row", async () => {
-  const real = await import("./file-read")
+  setFileBackedPageTypes([PAGE_TYPE, ON_ROSTER])
 
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async (slug: string) => slug !== OFF_ROSTER,
-  }))
-
-  const { PageTypeNotFileBacked } = await import("./guards")
-  const { upsertPage, upsertPages, bulkUpsertPages } = await import("./upsert")
-  const { createPage, createPageIfAbsent } = await import("./create")
   const where = [{ key: "slug", eq: "a-page" }]
   const set = { title: "A title" }
 
@@ -108,27 +95,7 @@ test("a write to a page type the roster does not name refuses rather than reachi
 })
 
 test("a roster that went unread is a different refusal from one that answered without the type", async () => {
-  const real = await import("./file-read")
-
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async () => {
-      throw new real.RosterUnreachable("the roster answered 503")
-    },
-  }))
-
-  const { PageTypeNotFileBacked } = await import("./guards")
-  const { upsertPage } = await import("./upsert")
+  setFileBackedRosterUnread(UNREAD)
 
   let caught: unknown = null
   try {
@@ -140,39 +107,13 @@ test("a roster that went unread is a different refusal from one that answered wi
   } catch (err) {
     caught = err
   }
-  expect(caught).toBeInstanceOf(real.RosterUnreachable)
+  expect(caught).toBeInstanceOf(RosterUnreachable)
   expect(caught instanceof PageTypeNotFileBacked).toBe(false)
 })
 
 test("a delete or patch on a page type the roster does not name refuses rather than reaching a row", async () => {
-  const real = await import("./file-read")
+  setFileBackedPageTypes([PAGE_TYPE, ON_ROSTER])
 
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async (slug: string) => slug !== OFF_ROSTER,
-  }))
-
-  const { PageTypeNotFileBacked } = await import("./guards")
-  const {
-    softDeletePage,
-    softDeletePages,
-    hardDeletePage,
-    hardDeletePages,
-    softDeletePageById,
-    hardDeletePageById,
-    hardDeletePageByIds,
-  } = await import("./delete")
-  const { patchPage, patchPages, patchPageById } = await import("./patch")
   const where = [{ key: "slug", eq: "a-page" }]
   const id = "0000ffff-0000-7000-8000-000000000000"
   const set = { title: "A title" }
@@ -194,25 +135,8 @@ test("a delete or patch on a page type the roster does not name refuses rather t
 })
 
 test("undelete has no file successor and refuses rather than reaching a row", async () => {
-  const real = await import("./file-read")
+  setFileBackedPageTypes([PAGE_TYPE, "a-filed-type"])
 
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async () => true,
-  }))
-
-  const { FileWriteError } = await import("./file-write-error")
-  const { undeletePage, undeletePages, undeletePageById } = await import("./delete")
   const where = [{ key: "slug", eq: "a-page" }]
   const id = "0000ffff-0000-7000-8000-000000000000"
 
@@ -226,28 +150,8 @@ test("undelete has no file successor and refuses rather than reaching a row", as
 })
 
 test("a roster that went unread keeps delete and patch apart from a roster that answered", async () => {
-  const real = await import("./file-read")
+  setFileBackedRosterUnread(UNREAD)
 
-  mock.module("./file-read", () => ({
-    RosterUnreachable: real.RosterUnreachable,
-    fileBackedPageTypes: real.fileBackedPageTypes,
-    forgetFileBackedPageTypes: real.forgetFileBackedPageTypes,
-    forgetFilePageRuns: real.forgetFilePageRuns,
-    forgetOmittedWarnings: real.forgetOmittedWarnings,
-    getFilePage: real.getFilePage,
-    getFilePageByIdSuffix: real.getFilePageByIdSuffix,
-    getFilePages: real.getFilePages,
-    getFilePagesByIdSuffix: real.getFilePagesByIdSuffix,
-    pickOne: real.pickOne,
-    setFileBackedPageTypes: real.setFileBackedPageTypes,
-    isFileBacked: async () => {
-      throw new real.RosterUnreachable("the roster answered 503")
-    },
-  }))
-
-  const { PageTypeNotFileBacked } = await import("./guards")
-  const { hardDeletePages } = await import("./delete")
-  const { patchPage } = await import("./patch")
   const where = [{ key: "slug", eq: "a-page" }]
 
   for (const run of [
@@ -260,7 +164,7 @@ test("a roster that went unread keeps delete and patch apart from a roster that 
     } catch (err) {
       caught = err
     }
-    expect(caught).toBeInstanceOf(real.RosterUnreachable)
+    expect(caught).toBeInstanceOf(RosterUnreachable)
     expect(caught instanceof PageTypeNotFileBacked).toBe(false)
   }
 })

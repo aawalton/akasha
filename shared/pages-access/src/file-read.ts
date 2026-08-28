@@ -48,15 +48,34 @@ export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
 
 let known: ReadonlySet<string> | null = null
 let asking: Promise<ReadonlySet<string>> | null = null
+let unread: string | null = null
 
 export function setFileBackedPageTypes(slugs: Iterable<string>): undefined {
   known = new Set(slugs)
+  asking = null
+  unread = null
+}
+
+/**
+ * Hold the roster as one that could not be read.
+ *
+ * BESIDE `setFileBackedPageTypes` BECAUSE THE ROSTER HAS TWO ANSWERS, NOT ONE. It either said what
+ * is file-backed, or it could not be reached at all, and a caller has to tell those apart: a type a
+ * roster answered without has nowhere for its pages to land, while a roster that went unread says
+ * nothing about that type either way. Without this, the only way to stand the second state up was
+ * to replace this module with `mock.module`, which is process-global and reaches every other file
+ * in the run.
+ */
+export function setFileBackedRosterUnread(why: string): undefined {
+  unread = why
+  known = null
   asking = null
 }
 
 export function forgetFileBackedPageTypes(): undefined {
   known = null
   asking = null
+  unread = null
 }
 
 export class RosterUnreachable extends Error {
@@ -71,6 +90,7 @@ export class RosterUnreachable extends Error {
 }
 
 export async function fileBackedPageTypes(): Promise<ReadonlySet<string>> {
+  if (unread !== null) throw new RosterUnreachable(unread)
   if (known !== null) return known
   asking ??= askPageTypes().then((asked) => {
     asking = null
