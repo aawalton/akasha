@@ -11,7 +11,6 @@ parent-slug: astra-pages-system
 
 - `pages-system/` answers what a caller needs of a page index, so nothing reaches `page/index/` to get it.
 - `pages-system/` answers what a caller needs of caching, so nothing reaches `tools/lib/deriver-hold.ts` to get it.
-- A page type's globs, property registry and extends chain are resolved when a caller first asks for that page type, not when a deriver is built.
 - A deriver reading rows holds no row it has handed back, and `d.rows("log-line")` costs what its live set costs.
 
 # Notes
@@ -54,7 +53,7 @@ That is the answer to Dilution, which is the only real objection to widening. A 
 
 **The first real caller is the editor's domain tree**, which reads 45 page types beneath one supertype. It cannot move off `page-query` until the store says `<repo>:<relPath>` for a page and a query can project keys across an expanded set — those are the third and fourth intents here, and they are wanted by a caller that exists rather than by a case that might.
 
-**Two measurements bound the caching intent.** 45 page types in one call build 45 separate derivers because `carriesFor` puts the page type into the cache key: 2138ms of build against 1105ms of actual work. One shared deriver does the same build in 275ms. Resolving a page type on first ask rather than at build makes the one-kind case cost one kind and the 45-kind case cost 45, which is what both callers wanted and neither could have.
+**What tied a deriver to one page type was the narrow, and nothing else.** `chainOf`, `derivedOn` and `filedPagesOf` were already lazy and memoised; the build cost was `kindsIn` and `declarationsIn`, which take only `roots` and read all 2,624 page-type and property-definition files with no cache, so 45 derivers read them 45 times. `narrowing` returned the key set only for the matching kind and `null` otherwise, and `null` means derive every key — so a deriver keyed without its kind would have silently un-narrowed the other 44. A narrow now names keys and never a page type. Build for 45 kinds fell 1957ms to 41-63ms with rows and answers unchanged, checked in both orders. **The win lands only where derivers are held**: `deriverFor` returns early when `deriverTtlMs === 0`, so every `ops` run still reads those 2,624 files 45 times until `kindsIn` and `declarationsIn` are held per call under `during-call/during-call.ts`, whose governing line is that nothing is held outside a call.
 
 **`log-line` is the shape that breaks things.** 3.6M rows, and the old deriver materialised them into an array at 6,924 MB retained for the process lifetime. Streaming holds flat at about 500 MB from the first half-million rows to the last. The property that matters is that the working set does not grow with rows read.
 
