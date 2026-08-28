@@ -10,6 +10,7 @@ export type Outside = {
   readonly record: string
   readonly bodies: string
   readonly discardedTo: string | null
+  readonly calledAs: string
 }
 
 export type Answer = {
@@ -25,6 +26,7 @@ export type Given = {
   readonly bodies: BodyStore
   readonly writer: string | null
   readonly discardedTo: string | null
+  readonly calledAs: string
 }
 
 export type Answering = (argv: readonly string[], given: Given) => Answer
@@ -62,8 +64,8 @@ function answeringIn(at: string, slug: string): Answering | null {
   return every.length === 1 && every[0] !== undefined ? (every[0] as Answering) : null
 }
 
-function standing(every: readonly string[]): string {
-  return every.map((one) => `  akasha ${one}`).join("\n")
+function standing(every: readonly string[], calledAs: string): string {
+  return every.map((one) => `  ${calledAs} ${one}`).join("\n")
 }
 
 function refusing(said: string): Answer {
@@ -75,11 +77,15 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
   const every = commandsIn(corpus)
   const named = argv[0]
   if (named === undefined) {
-    return refusing(`akasha takes a command, and none was named. These stand:\n${standing(every)}`)
+    return refusing(
+      `${outside.calledAs} takes a command, and none was named. These stand:\n${standing(every, outside.calledAs)}`
+    )
   }
   const what = corpus.resolve(named, COMMAND)
   if (what.kind === "none") {
-    return refusing(`\`${named}\` is no command akasha carries. These stand:\n${standing(every)}`)
+    return refusing(
+      `\`${named}\` is no command akasha carries. These stand:\n${standing(every, outside.calledAs)}`
+    )
   }
   if (what.kind === "many") {
     const among = what.among.map((one) => `  ${one.path.slice(outside.root.length + 1)}`).join("\n")
@@ -101,5 +107,6 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     bodies: bodiesAt(outside.bodies),
     writer: outside.seat,
     discardedTo: outside.discardedTo,
+    calledAs: `${outside.calledAs} ${named}`,
   })
 }

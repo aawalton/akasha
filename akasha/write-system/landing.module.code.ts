@@ -1,8 +1,8 @@
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import type { Corpus } from "./corpus.module.code.ts"
-import { closureFor } from "./required-reading.module.code.ts"
 import type { Oid, Record_ } from "./reading.module.code.ts"
 import { oidOf } from "./reading.module.code.ts"
+import { closureFor } from "./required-reading.module.code.ts"
 
 declare const witnessed: unique symbol
 
@@ -100,7 +100,9 @@ function shortOf(path: string, held: Held): Refusal | null {
 
 export function authoring(path: string, body: string, held: Held): Landing | Refusal {
   if (!existsSync(path)) {
-    return refusal(`${path} does not exist — a body written over nothing is a creation, not a write`)
+    return refusal(
+      `${path} does not exist — a body written over nothing is a creation, not a write`
+    )
   }
   const standing = oidOf(readFileSync(path, "utf8"))
   const reading = held.record.of(path)
@@ -123,7 +125,9 @@ export function authoring(path: string, body: string, held: Held): Landing | Ref
 
 export function creating(path: string, body: string, held: Held): Landing | Refusal {
   if (existsSync(path)) {
-    return refusal(`${path} exists — a body written over one that stands is a write, not a creation`)
+    return refusal(
+      `${path} exists — a body written over one that stands is a write, not a creation`
+    )
   }
   const short = shortOf(path, held)
   if (short !== null) return short
@@ -132,6 +136,12 @@ export function creating(path: string, body: string, held: Held): Landing | Refu
 
 export function carrying(from: string, to: string, held: Held): Landing | Refusal {
   if (!existsSync(from)) return refusal(`${from} does not exist, so nothing can be carried from it`)
+  if (existsSync(to)) {
+    return refusal(
+      `${to} stands, and a carry witnesses that nothing did — overwriting it is a write.\n` +
+        `  akasha read --file-path ${to}`
+    )
+  }
   return witnessWrite(to, null, readFileSync(from, "utf8"), held)
 }
 

@@ -58,6 +58,7 @@ function stage(all: readonly Held[] = [], plain: Readonly<Record<string, string>
     bodies: bodiesAt(`${root}/bodies`),
     writer: "athena",
     discardedTo: null,
+    calledAs: "ops akasha read",
   }
   return { root, where }
 }
@@ -303,7 +304,7 @@ test("a read too big for one answer returns fewer files and the call that takes 
     const answer = read(argv, where)
     const said = text(answer)
     expect(said).toContain("were left unread here")
-    expect(said).toContain("akasha read --file-path")
+    expect(said).toContain("ops akasha read --file-path")
     expect(said.length).toBeLessThanOrEqual(CEILING + 2000)
     const left = Object.keys(plain).filter((one) => where.record.of(`${root}/${one}`) === null)
     expect(left.length).toBeGreaterThan(0)
@@ -349,6 +350,52 @@ test("a read takes no line range, so no call returns part of a file", () => {
     ]) {
       expect(read([...argv, "--file-path", "notes.txt"], where).code).toBe(1)
     }
+  } finally {
+    away(root)
+  }
+})
+
+test("the call that takes the rest names the invocation this was reached by", () => {
+  const plain: Record<string, string> = {}
+  for (let at = 0; at < 6; at++) plain[`part-${at}.txt`] = `${"y".repeat(7000)}\n`
+  const { root, where } = stage([], plain)
+  try {
+    const argv = Object.keys(plain).flatMap((one) => ["--file-path", one])
+    const said = text(read(argv, { ...where, calledAs: "somewhere else read" }))
+    expect(said).toContain("somewhere else read --file-path")
+    expect(said).not.toContain("ops akasha read --file-path")
+  } finally {
+    away(root)
+  }
+})
+
+test("a read stopped at the ceiling records every file it did return", () => {
+  const plain: Record<string, string> = {}
+  for (let at = 0; at < 6; at++) plain[`part-${at}.txt`] = `${"y".repeat(7000)}\n`
+  const { root, where } = stage([], plain)
+  try {
+    const argv = Object.keys(plain).flatMap((one) => ["--file-path", one])
+    const said = text(read(argv, where))
+    const returned = Object.keys(plain).filter((one) => said.includes(`${one} — `))
+    expect(returned.length).toBeGreaterThan(0)
+    for (const one of returned) {
+      expect(where.record.of(`${root}/${one}`)).not.toBe(null)
+    }
+  } finally {
+    away(root)
+  }
+})
+
+test("a read stopped at the ceiling leaves its record on disk for the next call", () => {
+  const plain: Record<string, string> = {}
+  for (let at = 0; at < 6; at++) plain[`part-${at}.txt`] = `${"z".repeat(7000)}\n`
+  const { root, where } = stage([], plain)
+  try {
+    const argv = Object.keys(plain).flatMap((one) => ["--file-path", one])
+    read(argv, where)
+    const fresh = recordAt(`${root}/record.json`)
+    const known = Object.keys(plain).filter((one) => fresh.of(`${root}/${one}`) !== null)
+    expect(known.length).toBeGreaterThan(0)
   } finally {
     away(root)
   }

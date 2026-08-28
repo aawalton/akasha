@@ -19,6 +19,7 @@ export type Where = {
   readonly bodies: BodyStore
   readonly writer: string | null
   readonly discardedTo: string | null
+  readonly calledAs: string
 }
 
 export type Answer = {
@@ -81,7 +82,11 @@ type Emission = {
 function emit(one: Target, where: Where, full: boolean): Emission {
   const bytes = snapshot(one.path)
   if (bytes === null) {
-    return { headline: `${one.named} — it moved while it was being read, so nothing was recorded of it`, body: null, oid: null }
+    return {
+      headline: `${one.named} — it moved while it was being read, so nothing was recorded of it`,
+      body: null,
+      oid: null,
+    }
   }
   const text = decodes(bytes)
   if (text === null) {
@@ -98,8 +103,15 @@ function emit(one: Target, where: Where, full: boolean): Emission {
   const oid = oidOf(text)
   const held = where.record.of(one.path)
   if (full || held === null) {
-    const why = full ? "the whole file, as `--full` asks" : "nothing on record says you have read it"
-    return { headline: `${one.named} — ${why}; ${countLines(text)} lines`, body: numbered(text), oid, kept: text }
+    const why = full
+      ? "the whole file, as `--full` asks"
+      : "nothing on record says you have read it"
+    return {
+      headline: `${one.named} — ${why}; ${countLines(text)} lines`,
+      body: numbered(text),
+      oid,
+      kept: text,
+    }
   }
   if (held.oid === oid) {
     return {
@@ -138,13 +150,13 @@ function emit(one: Target, where: Where, full: boolean): Emission {
   }
 }
 
-function restCall(left: readonly Target[], full: boolean): readonly string[] {
+function restCall(left: readonly Target[], full: boolean, calledAs: string): readonly string[] {
   const flags = full ? " --full" : ""
   return [
     `${READ}${left.length} file(s) were left unread here: the rest of the set runs past ${CEILING} ` +
       "characters, which is the ceiling this prints to, and a file broken off partway is a body " +
       "the record would say reached you whole. This call takes what is left:",
-    `akasha read${flags}${left.map((one) => ` --file-path ${one.named}`).join("")}`,
+    `${calledAs}${flags}${left.map((one) => ` --file-path ${one.named}`).join("")}`,
   ]
 }
 
@@ -176,7 +188,11 @@ export function read(argv: readonly string[], where: Where): Answer {
     }
   }
   if (asked.length === 0) {
-    return { report: [], refusals: ["--file-path names a file to read, and none was given"], code: 1 }
+    return {
+      report: [],
+      refusals: ["--file-path names a file to read, and none was given"],
+      code: 1,
+    }
   }
 
   const refusals: string[] = []
@@ -192,7 +208,9 @@ export function read(argv: readonly string[], where: Where): Answer {
         continue
       }
       if (what.kind === "many") {
-        const among = what.among.map((each) => `  --file-path ${each.path.slice(where.root.length + 1)}`)
+        const among = what.among.map(
+          (each) => `  --file-path ${each.path.slice(where.root.length + 1)}`
+        )
         refusals.push(
           `\`${named}\` is carried by ${what.among.length} pages, and a slug is unique among the ` +
             `pages of its page type, so this names more than one:\n${among.join("\n")}`
@@ -285,8 +303,12 @@ export function read(argv: readonly string[], where: Where): Answer {
       continue
     }
     const left = queue.slice(order)
-    if (taken > 0 && spent + cost + costOf(kept) + costOf(restCall(left, full)) > CEILING) {
-      report.push(...restCall(left, full))
+    if (
+      taken > 0 &&
+      spent + cost + costOf(kept) + costOf(restCall(left, full, where.calledAs)) > CEILING
+    ) {
+      report.push(...restCall(left, full, where.calledAs))
+      where.record.flush()
       return { report, refusals, code: refusals.length === 0 ? 0 : 1 }
     }
     report.push(...lines)

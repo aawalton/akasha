@@ -371,3 +371,30 @@ test("a prior body too large for the body store still reaches the index whole", 
     away(stood.root)
   }
 })
+
+test("a carry onto a path that stands is refused, because the witness would be lying", () => {
+  const stood = stage()
+  const to = `${stood.root}/whole.thing.ts`
+  const was = readFileSync(to, "utf8")
+  try {
+    const what = carrying(`${stood.root}/leaf.thing.ts`, to, stood.held)
+    expect(refused(what)).toBe(true)
+    expect(said(what)).toContain("a carry witnesses that nothing did")
+    expect(said(what)).toContain(`--file-path ${to}`)
+    expect(readFileSync(to, "utf8")).toBe(was)
+  } finally {
+    away(stood.root)
+  }
+})
+
+test("a carry onto a path that stands is refused however well read the seat is", () => {
+  const stood = stage()
+  const to = `${stood.root}/whole.thing.ts`
+  try {
+    readAlso(to, stood)
+    readEverythingOwed(to, stood)
+    expect(refused(carrying(`${stood.root}/leaf.thing.ts`, to, stood.held))).toBe(true)
+  } finally {
+    away(stood.root)
+  }
+})

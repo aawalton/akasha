@@ -17,6 +17,7 @@ function outsideOf(root: string): Outside {
     record: `${root}/record.json`,
     bodies: `${root}/bodies`,
     discardedTo: null,
+    calledAs: "ops akasha",
   }
 }
 
@@ -87,9 +88,9 @@ test("a call naming no command is refused, and every command that stands is name
     withCommand(root, "hush", ECHOES.replace("echo", "hush"))
     const answer = calling([], outsideOf(root))
     expect(answer.code).toBe(1)
-    expect(answer.refusals[0]).toContain("akasha takes a command, and none was named")
-    expect(answer.refusals[0]).toContain("  akasha echo")
-    expect(answer.refusals[0]).toContain("  akasha hush")
+    expect(answer.refusals[0]).toContain("takes a command, and none was named")
+    expect(answer.refusals[0]).toContain("  ops akasha echo")
+    expect(answer.refusals[0]).toContain("  ops akasha hush")
   } finally {
     away(root)
   }
@@ -102,7 +103,7 @@ test("a call naming no command akasha carries is refused, and says what does sta
     const answer = calling(["elsewhere"], outsideOf(root))
     expect(answer.code).toBe(1)
     expect(answer.refusals[0]).toContain("`elsewhere` is no command akasha carries")
-    expect(answer.refusals[0]).toContain("  akasha echo")
+    expect(answer.refusals[0]).toContain("  ops akasha echo")
   } finally {
     away(root)
   }
@@ -180,6 +181,7 @@ test("a real call of read through calling answers with the file it was given", (
       record: `${root}/record.json`,
       bodies: `${root}/bodies`,
       discardedTo: null,
+      calledAs: "ops akasha",
     })
     expect(answer.code).toBe(0)
     expect(answer.report.join("\n")).toContain("akasha-import.domain.ts")
@@ -200,6 +202,7 @@ test("a real call of read refuses a pipe, so the record is never written from on
       record: `${root}/record.json`,
       bodies: `${root}/bodies`,
       discardedTo: "a pipe",
+      calledAs: "ops akasha",
     })
     expect(answer.code).toBe(1)
     expect(answer.refusals.join("\n")).toContain("nothing was read")
