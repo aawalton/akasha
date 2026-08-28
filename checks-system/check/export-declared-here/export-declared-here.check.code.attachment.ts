@@ -4,8 +4,6 @@ import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
 import { refusalText } from "../../../refusal/refusal.ts"
 import type { Check } from "../check-shape.ts"
 
-const SLUG = "export-not-declared-here"
-
 const CODE = /\.tsx?$/
 
 const FORWARDED = /^export\s+(?:type\s+)?(\*(?:\s+as\s+\w+)?|\{[^}]*\})\s+from\s+"([^"]+)"/gm
@@ -52,14 +50,21 @@ export const exportDeclaredHere = {
     if (text === null || isGeneratedFile(key, text)) return []
     const said: string[] = []
     for (const one of text.matchAll(FORWARDED)) {
-      said.push(refusalText(SLUG, { exported: one[1] as string, source: one[2] as string }))
+      said.push(
+        refusalText("export-not-declared-here", {
+          exported: one[1] as string,
+          source: one[2] as string,
+        })
+      )
     }
     const taken = takenFrom(text)
     for (const one of text.matchAll(EXPORTED)) {
       for (const entry of listed(one[1] as string)) {
         const named = renamed(entry)[0] ?? ""
         const from = taken.get(named)
-        if (from !== undefined) said.push(refusalText(SLUG, { exported: named, source: from }))
+        if (from !== undefined) {
+          said.push(refusalText("export-not-declared-here", { exported: named, source: from }))
+        }
       }
     }
     return said
