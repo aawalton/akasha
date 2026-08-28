@@ -1,6 +1,6 @@
 
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { cpSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { ownRepoRoot } from "../../repo/roots/roots.ts"
 import { colorsOfStates, main } from "../agent-turn-colors.ts"
@@ -15,6 +15,12 @@ const DRAWN: Record<string, string | null> = {
 }
 
 const colorOf = (agent: string): string | null => DRAWN[agent] ?? null
+
+const made: string[] = []
+
+afterAll(() => {
+  for (const one of made) rmSync(one, { recursive: true, force: true })
+})
 
 describe("the color each named seat is drawn in", () => {
   test("a seat drawn in a color stands under its own id", () => {
@@ -60,6 +66,7 @@ describe("which ids the seats own records answer for", () => {
 
   beforeAll(() => {
     akasha = mkdtempSync(`${tmpdir()}/agent-turn-colors-`)
+    made.push(akasha)
     // A REPOSITORY AND NOT MERELY A DIRECTORY. `resolveRoots` names a repo only where
     // `<root>/.git` stands, so a fixture without one is dropped from the roots silently: every
     // reader answers as though no seat page existed anywhere, which is the same shape as a
