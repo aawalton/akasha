@@ -6,10 +6,10 @@ slug: name-form
 domain-parent-slug: domain/writing
 sequence-slugs:
   - domain/kebab-case
-  - domain/snake-case
-  - domain/screaming-snake-case
-  - domain/camel-case
-  - domain/pascal-case
+  - domain/lower-snake-case
+  - domain/upper-snake-case
+  - domain/lower-camel-case
+  - domain/upper-camel-case
   - domain/title-case
   - domain/sentence-case
 ---
