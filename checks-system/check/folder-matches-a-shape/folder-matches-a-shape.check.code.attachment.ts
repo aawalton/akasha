@@ -1,16 +1,13 @@
 import { resolve } from "node:path"
 import { type Held, foldersHere, named, namedFew } from "../../../file-structure/folder/folder.ts"
-import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import { diskFileTree } from "../../../page/file-tree.ts"
 import { claimant, type PageType } from "../../../page/page-types.ts"
 import { registryOf } from "../../../page/property/registry.ts"
-import { isRowsFile } from "../../../page/rows-file.ts"
+import { pageOfSidecar } from "../../../page/sidecar/sidecar.ts"
 import { rootsHere } from "../../../repo/roots/roots.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
 const MOST = 6
-
-const PAGE = ".md"
 
 const DECLARATION = ".d.ts"
 
@@ -24,10 +21,6 @@ type Verdict = {
   readonly ok: boolean
   readonly off: number
   readonly why: string
-}
-
-function stemOf(key: string): string {
-  return key.endsWith(PAGE) ? key.slice(0, -PAGE.length) : key
 }
 
 /**
@@ -92,20 +85,20 @@ function pagesOfOneType(folder: string, one: Held, types: readonly PageType[]): 
   const shape = "pages-of-one-type"
   if (one.files.length === 0) return { shape, ok: false, off: APART, why: "it holds no file at all" }
   const kinds = new Set<string>()
-  const stems: string[] = []
+  const pages = new Set<string>()
   const sidecars: string[] = []
   const strays: string[] = []
   for (const key of one.files) {
     const owner = claimant(key, types).type
     if (owner !== null) {
       kinds.add(owner.slug)
-      stems.push(stemOf(key))
+      pages.add(key)
       continue
     }
-    if (isAttachmentFile(key) || isRowsFile(key)) sidecars.push(key)
+    if (pageOfSidecar(key) !== null) sidecars.push(key)
     else strays.push(key)
   }
-  const loose = sidecars.filter((key) => !stems.some((stem) => key.startsWith(`${stem}.`)))
+  const loose = sidecars.filter((key) => !pages.has(pageOfSidecar(key) as string))
   const spare = kinds.size > 1 ? kinds.size - 1 : 0
   const off = strays.length + loose.length + spare
   if (off === 0) return { shape, ok: true, off: 0, why: "" }
