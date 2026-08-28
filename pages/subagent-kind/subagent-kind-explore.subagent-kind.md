@@ -5,7 +5,6 @@ title: "Subagent kind explore"
 slug: subagent-kind-explore
 domain-parent-slug: page-type/subagent-kind
 subagent-type: Explore
-probe-no-rule: "{slug}"
 model: opus
 ---
 
