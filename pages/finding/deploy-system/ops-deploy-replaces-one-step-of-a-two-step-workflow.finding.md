@@ -22,10 +22,8 @@ Two steps, one declaration: `workflow-smilingjenny-web.workflow-template.declara
 
 `ops deploy` holds no build, exec or restart (`deploy.command.code.attachment.ts`); it applies the same Deployment the first step does.
 
-Observed: `smilingjenny-web` deployed and rolled back twice; the second reached `init-code` success, then `Cannot find module '/app/repo/smilingjenny/web/build/server/index.js'`. The serving build sits at the pre-flattening `/app/repo/packages/…` path, untracked (`smilingjenny/web/.gitignore:2`). The build works: `bun run build` at current main exits 0, emitting that file at 135,735 bytes. What is missing is a runner.
+Observed: `smilingjenny-web` deployed and rolled back twice; the second reached `init-code` success, then `Cannot find module '/app/repo/smilingjenny/web/build/server/index.js'`. The build works: `bun run build` at current main exits 0, emitting that file at 135,735 bytes. What is missing is a runner. All six tested read-only through `code-sync`: each holds an untracked `build/server/index.js` (`.gitignore:2`) at its pre-flattening path and none at the path its manifest now sets — atlas furthest, live `packages/alanwalton/atlas/web` against emitted `alanwalton/atlas-web`.
 
-`code-sync` never built: `name: "code-sync"` and `sleep infinity` both enter at `552f64ed08`, oldest of 43 commits in the retired `code.git`, and read so at `965db687cd~1`. `c6527d265d` strips build-env from it.
+`code-sync` never built: it and its `sleep infinity` enter at `552f64ed08`, oldest of 43 commits in the retired `code.git`, and read so at `965db687cd~1`. `c6527d265d` strips build-env from it.
 
-Ref locks stay uncleared — `orchestrator-cache.ts:44` clears only `.git/index.lock` — per `stale-lock-crashloops-deploy.finding.md`.
-
-NOT MEASURED. Whether the other five fail identically; only smilingjenny was deployed and built. Whether a runner exists outside the retired pipelines. Whether a workstation build matches a pod's. Whether the staleness has been noticed.
+NOT MEASURED. Whether a runner exists outside the retired pipelines. Whether a workstation build matches a pod's. Whether the staleness has been noticed.
