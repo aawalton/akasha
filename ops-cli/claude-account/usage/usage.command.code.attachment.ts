@@ -9,10 +9,13 @@ import type { AccountState } from "../../../tools/lib/oauth-types.ts"
 export const help = {
   description:
     "Print one line per claude account: what it has spent of its five-hour and seven-day " +
-    "windows, when each window resets, and any mark that takes it out of the pool. The `>` " +
-    "names the account the picker would take right now. Every account holding a page is " +
-    "printed, so a count that moves run to run is a fault rather than a quiet drop. The " +
-    "numbers are read from the pages the upkeep service refreshes; nothing here fetches.",
+    "windows, when each window resets, and any mark that takes it out of the pool. An account " +
+    "that can no longer renew itself is marked with the shell function that logs it back in, " +
+    "so the mark is the thing to type rather than a word about it. The `>` names the account " +
+    "the picker would take right now, skipping any whose access token has already lapsed, as " +
+    "the picker does. Every account holding a page is printed, so a count that moves run to " +
+    "run is a fault rather than a quiet drop. The numbers are read from the pages the upkeep " +
+    "service refreshes; nothing here fetches.",
 }
 
 const PAGE_TYPE = "claude-account"
@@ -40,6 +43,13 @@ function percent(values: Values, key: string): number | null {
   return Number.isFinite(found) ? found : null
 }
 
+function instant(values: Values, key: string): number | null {
+  const held = text(values, key)
+  if (held === null) return null
+  const at = Date.parse(held)
+  return Number.isNaN(at) ? null : at
+}
+
 function clock(iso: string | null): string {
   if (iso === null) return ""
   const at = Date.parse(iso)
@@ -48,6 +58,11 @@ function clock(iso: string | null): string {
   const day = on.toLocaleDateString("en-US", { weekday: "short" })
   const time = on.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", hour12: false })
   return `${day} ${time}`
+}
+
+function reauthMark(values: Values): string {
+  const alias = text(values, "alias-index")
+  return alias === null ? "terminal" : `c${alias}`
 }
 
 function resetOrder(line: Line): number {
@@ -67,6 +82,7 @@ export default async function usage(argv: readonly string[]): Promise<void> {
     throw new Error("no claude-account page was found, so there is no account to report on")
   }
 
+  const now = Date.now()
   const lines: Line[] = []
   const states: AccountState[] = []
   for (const row of rows) {
@@ -77,7 +93,7 @@ export default async function usage(argv: readonly string[]): Promise<void> {
     const terminal = text(values, "terminal-at")
     const marks: string[] = []
     if (disabled !== null) marks.push("disabled")
-    if (terminal !== null) marks.push("terminal")
+    if (terminal !== null) marks.push(reauthMark(values))
     if (text(values, "usage-read-at") === null) marks.push("unread")
     const fiveHour = percent(values, "effective-five-hour-percent-used")
     const sevenDay = percent(values, "effective-seven-day-percent-used")
@@ -94,11 +110,14 @@ export default async function usage(argv: readonly string[]): Promise<void> {
       subscriptionDisabled: disabled !== null,
       fiveHourAtLimitUntil: null,
       renewalTerminal: terminal !== null,
-      accessTokenExpiresAt: null,
+      accessTokenExpiresAt: instant(values, "access-token-expires-at"),
     })
   }
 
-  const taken = selectAccount(states, Date.now())
+  const live = states.filter(
+    (one) => one.accessTokenExpiresAt === null || one.accessTokenExpiresAt > now
+  )
+  const taken = selectAccount(live, now)
   const sorted = [...lines].sort((one, two) => {
     const at = resetOrder(one)
     const to = resetOrder(two)
