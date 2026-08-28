@@ -17,8 +17,10 @@ A regex counting raw section text reported 479 findings outside their shape. Tol
 
 The probe bodies were generated from `"Calibration probe by seat astra. ".repeat(n)` — unmarked prose in a single block. `sectionChars` at `page/document/check.ts:148-150` sums `plain(block.content).length` per block, stripping markdown and counting no separator between blocks. Unmarked prose in a single block is the one input shape where the raw and plain counts must agree. The probe could only ever confirm. The real figure was about 160.
 
-Two siblings from the same night. The finding recording that `check-no-void-return --fix` exits 0 without typechecking its own output carried a reproducing case that cannot fire: the fix rewrites caller and callee in one pass, so the named case compiles clean and a reader concludes the fault is gone. And `inbound-import-resolves` greps for a string that appears in no file in the repository.
+Two more the same night. The finding recording that `check-no-void-return --fix` exits 0 without typechecking its output carried a reproducing case that cannot fire: the fix rewrites caller and callee in one pass, so the named case compiles clean. And `inbound-import-resolves` greps for a string that appears in no file.
 
 Why this is not carelessness. A probe feels like verification, so building one satisfies the instinct that would otherwise make you go and read the code. The author had, hours earlier, corrected a finding for this fault and written to a peer that a probe which cannot fire is worse than no probe.
+
+A fourth, a distinct shape: a wait-loop written `until ... ! pgrep -f "<agent-id>"` never terminated, because `pgrep -f` matched the loop own command line. Its population included itself. It sat armed until killed, reporting nothing about the agent it watched, and reading throughout like a watch that had not fired yet.
 
 From outside, a control that cannot fire looks exactly like a control that fired and passed.
