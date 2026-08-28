@@ -6,7 +6,9 @@ test("a page's rows file is generated, being projected from the page beside it",
 })
 
 test("a rows file carrying its page type is generated too", () => {
-  expect(isGeneratedFile("pages/monarch-month/2026-08.monarch-month.transactions.jsonl", "{}\n")).toBe(true)
+  expect(
+    isGeneratedFile("pages/monarch-month/2026-08.monarch-month.transactions.jsonl", "{}\n")
+  ).toBe(true)
 })
 
 test("a rows part and an uncommitted rows file are generated", () => {
@@ -14,8 +16,23 @@ test("a rows part and an uncommitted rows file are generated", () => {
   expect(isGeneratedFile("pages/gadget/widget.rows.uncommitted.jsonl", "{}\n")).toBe(true)
 })
 
-test("a page's attachment is generated, being written beside the page rather than authored", () => {
-  expect(isGeneratedFile("pages/seat/ryn.seat.readings.uncommitted.attachment.json", "{}\n")).toBe(true)
+test("an attachment holding data is generated, whatever key it carries", () => {
+  expect(isGeneratedFile("pages/seat/ryn.seat.readings.uncommitted.attachment.json", "{}\n")).toBe(
+    true
+  )
+  expect(isGeneratedFile("pages/alert/x.alert.description.attachment.txt", "text\n")).toBe(true)
+})
+
+test("an attachment holding source is authored, whatever key it carries", () => {
+  expect(isGeneratedFile("ops-cli/global/rm/rm.command.code.attachment.ts", "const a = 1\n")).toBe(
+    false
+  )
+  expect(
+    isGeneratedFile(
+      "pages/workflow-template/workflow-eso-rig.workflow-template.declaration.attachment.ts",
+      "const a = 1\n"
+    )
+  ).toBe(false)
 })
 
 test("what a file kind claims stands on its own is not generated", () => {
