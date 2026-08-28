@@ -1,54 +1,23 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-/**
- * The webview showing one seat's transcript, and keeping it current.
- *
- * FOLLOWING ALONG IS INCREMENTAL RATHER THAN A RE-RENDER. Re-rendering the
- * whole document on each tick would throw away both the reader's scroll
- * position and every disclosure they had opened — on a 16,684-record transcript
- * it also costs enough to be felt. So the entries are split at the first
- * UNRESOLVED tool call: everything before it can never change again and is
- * appended once, and only the short tail from there is re-rendered each tick.
- *
- * The tail has to be re-rendered rather than appended because a live seat emits
- * a call and its result as two separate records, seconds or minutes apart. A
- * row appended when the call appeared would say "no result" forever.
- */
 import * as fs from 'node:fs';
 import * as vscode from 'vscode';
 import { buildEntries, type Entry } from './model.ts';
 import { renderEntries } from './render.ts';
 import { readSubagents, readTranscriptText, seatTranscriptOf, type SubagentTranscript } from './sources.ts';
 
-/** How often the transcript and the sentinel are re-read while a panel is open. */
 const POLL_INTERVAL_MS = 1_000;
 
 export interface TranscriptTarget {
-	/** A live seat, whose transcript path is resolved off its seat page. */
 	readonly agentId?: string;
-	/** A transcript file directly, for a seat that has since stopped. */
 	readonly transcriptPath?: string;
 	readonly title?: string;
 }
 
 interface RenderedState {
-	/** The transcript this panel is currently following. Changes on rotation. */
 	transcriptPath: string | null;
-	/** How many entries have been appended as settled. */
 	stableCount: number;
-	/** Size of the file at the last read, to skip work when nothing was written. */
 	lastSize: number;
 }
 
-/**
- * The index at which the transcript stops being settled.
- *
- * A tool call with no result yet is the boundary: it and everything after it
- * may still change. Prose already written never changes, so the search can stop
- * at the first unresolved call rather than scanning to the end.
- */
 function stableBoundary(entries: readonly Entry[]): number {
 	for (let index = 0; index < entries.length; index += 1) {
 		const entry = entries[index];
@@ -96,8 +65,6 @@ export function openTranscriptPanel(
 
 	const resolvePath = (): string | null => {
 		if (target.agentId !== undefined) {
-			// Re-read every tick: a resume or a compact mints a new session id and
-			// moves the transcript, and a cached path would silently freeze.
 			return seatTranscriptOf(target.agentId)?.transcriptPath ?? null;
 		}
 		return target.transcriptPath ?? null;
@@ -158,10 +125,6 @@ function nonce(): string {
 	).join('');
 }
 
-/**
- * The shell the updates land in. It carries the only script in the panel, whose
- * whole job is placing incoming HTML and deciding whether to follow the bottom.
- */
 function shellHtml(webview: vscode.Webview): string {
 	const scriptNonce = nonce();
 	return `<!DOCTYPE html>

@@ -1,9 +1,4 @@
-/*---------------------------------------------------------------------------------------------
- *  Copyright (c) Microsoft Corporation. All rights reserved.
- *  Licensed under the MIT License. See License.txt in the project root for license information.
- *--------------------------------------------------------------------------------------------*/
-
-import type { StoplightLegends } from './legends';
+import type { StoplightLegends } from './legends.ts';
 import {
 	applyToItems,
 	type FreshAts,
@@ -11,13 +6,10 @@ import {
 	type RenderItem,
 	type SettledReads,
 	settleReads,
-} from './render';
-import { SLOTS } from './slots';
-import type { UsageReading } from './usage';
+} from './render.ts';
+import { SLOTS } from './slots.ts';
+import type { UsageReading } from './usage.ts';
 
-// A legend as it arrives from the readout documents. The names are FIXTURE data —
-// the bar reads them, it does not hold them — so spelling them here is fine and is
-// the only place in this feature's code they appear.
 export const UPKEEP_LEGEND = 'Plants · Activity · Sleep · Surplus · Capacity · Safety';
 export const INBOX_LEGEND = 'email · tasks · temper-tasks · unread-texts · questions';
 
@@ -35,7 +27,6 @@ export const NO_FRESH = {
 } as const;
 export const NOW = 1_700_000_000_000;
 
-// The usage read's own value — the page query service's two means.
 export const USAGE_FRESH: UsageReading = { sessionPct: 42, weeklyPct: 7 };
 
 const SESSION_ID = 'opsStatusBar.usage.session';
@@ -64,9 +55,6 @@ export function fail(msg: string): PromiseRejectedResult {
 	return { status: 'rejected', reason: new Error(msg) };
 }
 
-// Compose the real refresh pipeline: settle the outcomes, then apply them. The
-// legends default to arrived, so the tests below that are about the READS are not
-// also about legend timing; the ones that are about timing pass their own.
 export function render(
 	outcomes: ReadOutcomes,
 	legends: StoplightLegends = LEGENDS_IN
@@ -77,10 +65,6 @@ export function render(
 	return items;
 }
 
-// Two consecutive polls against ONE items array, carrying each section's
-// lastFreshAt across as `activate.ts` does — the only way to observe that a
-// failed read RETAINS the glyphs the previous poll rendered rather than blanking
-// or re-deriving them.
 export function renderPolls(
 	first: ReadOutcomes,
 	second: ReadOutcomes,
