@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { slugNamed } from "../../page/page-address.ts"
 import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { resolveRoots } from "../../repo/roots/roots"
@@ -48,7 +48,7 @@ function fromStanding(agentId: string, page: string): SeatWhoami {
   const stated = attributesOf(agentId)
   return {
     id: agentId,
-    name: slugOf(page),
+    name: pageStemOf(page),
     role: stated.role?.slug ?? null,
     domain: stated.domain?.slug ?? null,
     persona: stated.persona?.slug ?? null,

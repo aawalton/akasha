@@ -1,7 +1,7 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import {
   installedUnitName,
   isSystemScoped,
@@ -98,7 +98,7 @@ export function readServiceDocs(root: string): readonly ServiceDoc[] {
       continue
     }
     for (const name of names) {
-      const slug = slugOf(name)
+      const slug = fileStemOf(name)
       if (docs.has(slug)) continue
       docs.set(slug, readServiceDoc(root, slug, readFileSync(`${dir}/${name}`, "utf8")))
     }

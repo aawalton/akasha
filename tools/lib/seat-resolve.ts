@@ -5,7 +5,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { placeDirOf, placesIn, reposOf, scanIn } from "../../page/page-types.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 import { listDocuments } from "./check.ts"
 import { type Documents, domainNamed, DOMAIN_SLUG_KEY, slugsIn } from "./domain.ts"
 import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
@@ -48,7 +48,7 @@ function stemsIn(
 ): ReadonlyMap<string, readonly string[]> {
   const byStem = new Map<string, Set<string>>()
   const add = (at: string): void => {
-    const stem = slugOf(at)
+    const stem = fileStemOf(at)
     const held = byStem.get(stem) ?? new Set<string>()
     held.add(at)
     byStem.set(stem, held)

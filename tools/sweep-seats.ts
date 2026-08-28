@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../page/name/name"
+import { pageStemOf } from "../page/name/name"
 import { akashaRoot } from "../repo/roots/roots"
 import { frontmatterOf, seatPagePaths, seatPresence } from "./lib/seat-presence-read.ts"
 import type { SeatPresence } from "./lib/seat-proc-key.ts"
@@ -68,7 +68,7 @@ function seatsStanding(): readonly Seat[] {
   for (const page of seatPagePaths()) {
     const id = frontmatterOf(page)?.id
     if (typeof id !== "string" || id === "") continue
-    found.push({ id, name: slugOf(page), presence: seatPresence(page) })
+    found.push({ id, name: pageStemOf(page), presence: seatPresence(page) })
   }
   return found
 }

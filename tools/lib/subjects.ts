@@ -2,7 +2,7 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { DOMAIN_SLUG_KEY } from "./domain.ts"
-import { stemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
@@ -138,7 +138,7 @@ function byStem(
 ): readonly SubjectRecord[] {
   const at = new Map<string, string[]>()
   for (const rel of relPaths) {
-    const stem = stemOf(rel)
+    const stem = pageStemOf(rel)
     at.set(stem, [...(at.get(stem) ?? []), rel])
   }
   const shared = [...at].filter(([, found]) => found.length > 1)

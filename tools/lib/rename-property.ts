@@ -9,7 +9,7 @@ import { chainOf, compiledPageTypeFor } from "../../page/property/frontmatter.ts
 import { mentionPatches } from "../../repoint/mention"
 import { claimant, type PageType, pagesOf, reposOf } from "../../page/page-types.ts"
 import { blockOf, stringAt, textAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import type { Roots } from "../../page/page"
 import type { Landing } from "../../repo/land/land"
 
@@ -121,7 +121,7 @@ export function chainSlugs(type: PageType, tree: FileTree, cache: Chains): reado
   const held = cache.get(type.slug)
   if (held !== undefined) return held
   const { relPaths } = chainOf(type, tree)
-  const slugs = relPaths === null ? null : relPaths.map(slugOf)
+  const slugs = relPaths === null ? null : relPaths.map((at) => pageStemOf(at))
   cache.set(type.slug, slugs)
   return slugs
 }
@@ -148,7 +148,7 @@ export function definitionsOf(tree: FileTree, onType: string, key: string): read
     if (why !== null) continue
     const held = stringAt(fm, DEFINED_ON)
     if (held === null || slugNamed(held) !== onType) continue
-    if ((stringAt(fm, PROPERTY_KEY) ?? slugOf(relPath)) === key) found.push(relPath)
+    if ((stringAt(fm, PROPERTY_KEY) ?? pageStemOf(relPath)) === key) found.push(relPath)
   }
   return found
 }

@@ -13,7 +13,7 @@
 
 import { answer } from "./page-query.ts"
 import { type Initiatives, type InitiativeDoc } from "./work-tree.ts"
-import { stemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA } from "../../repo/roots/roots.ts"
 
@@ -47,7 +47,7 @@ export function askedInitiatives(roots: Roots): Initiatives {
     if (!row.at.startsWith(ADDRESS)) continue
     const relPath = row.at.slice(ADDRESS.length)
     found.push({
-      slug: textAt(row.values, SLUG_KEY) ?? stemOf(relPath),
+      slug: textAt(row.values, SLUG_KEY) ?? pageStemOf(relPath),
       relPath,
       parent: textAt(row.values, PARENT_KEY),
       persona: textAt(row.values, PERSONA_KEY),

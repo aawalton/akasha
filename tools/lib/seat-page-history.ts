@@ -6,7 +6,7 @@ import { rootOfPlace, SEAT_PLACES } from "./agent-page-place.ts"
 import type { Roots } from "../../page/page.ts"
 import { initiativeStemOf } from "./seat-initiative.ts"
 import { frontmatterIn } from "./seat-presence-read.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf, pageStemOf } from "../../page/name/name.ts"
 
 const PAGE_SUFFIX = ".md"
 
@@ -60,7 +60,7 @@ function pageHeldIn(root: string, dir: string, seatName: string): PageInHistory 
   const lines = (found ?? "").split("\n").map((one) => one.trim()).filter((one) => one !== "")
   const commit = lines[0] ?? ""
   const relPath =
-    lines.slice(1).find((one) => one.endsWith(PAGE_SUFFIX) && slugOf(one) === seatName) ?? ""
+    lines.slice(1).find((one) => one.endsWith(PAGE_SUFFIX) && fileStemOf(one) === seatName) ?? ""
   if (commit === "" || relPath === "") return null
   const body = gitAt(root, ["show", `${commit}:${relPath}`])
   if (body === null) return null
@@ -195,7 +195,7 @@ function seatPageInHistory(agentId: string, roots: Roots): string | null {
 
 export function nameFromHistory(agentId: string, roots: Roots): string | null {
   const relPath = seatPageInHistory(agentId, roots)
-  return relPath === null ? null : slugOf(relPath)
+  return relPath === null ? null : pageStemOf(relPath)
 }
 
 export function frontmatterFromHistory(

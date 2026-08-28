@@ -5,7 +5,7 @@ export const tool = {
 
 import { readFileSync } from "node:fs"
 import { git } from "../repo/git/git.ts"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 import { extractLinks } from "./lib/links.ts"
 import { type Roots } from "../page/page"
 import { normalizeAbsolute } from "../repo/path/path"
@@ -100,7 +100,7 @@ function subjectsIn(root: string): readonly Subject[] {
     .filter((relPath) => relPath.endsWith(".md") && isDirty(relPath))
     .sort()
     .map((relPath) => {
-      const slug = slugOf(relPath)
+      const slug = fileStemOf(relPath)
       return {
         relPath,
         here: relPath,

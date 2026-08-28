@@ -2,7 +2,7 @@ import { existsSync, readFileSync, readdirSync } from "node:fs"
 import { parse } from "yaml"
 import { basename } from "node:path"
 import { onceInCall } from "../../during-call/during-call.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import {
   dirOfPlaceHeld,
@@ -165,7 +165,7 @@ export function agentIsPresent(agentId: string): boolean {
 export function seatNameForAgent(agentId: string): string | null {
   if (agentId === "") return null
   const page = seatPageForAgent(agentId)
-  return page === null ? null : slugOf(page)
+  return page === null ? null : pageStemOf(page)
 }
 
 export function seatNameForSupervisorPid(pid: number): string | null {
@@ -173,7 +173,7 @@ export function seatNameForSupervisorPid(pid: number): string | null {
     const stated = seatHolderProcess(page)
     if (stated === null) continue
     const key = parseSeatProcKey(stated)
-    if (key !== null && key.pid === pid) return slugOf(page)
+    if (key !== null && key.pid === pid) return pageStemOf(page)
   }
   return null
 }

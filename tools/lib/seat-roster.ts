@@ -2,7 +2,7 @@ import { spawnSync } from "node:child_process"
 import { statSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import {
   type HeldSeatPage,
@@ -95,7 +95,7 @@ export function seatsStanding(): readonly (Seated & {
   const found: (Seated & { presence: SeatPresence; present: boolean })[] = []
   const held = new Set<string>()
   for (const page of seatPagePaths()) {
-    const seated = seatedFrom(frontmatterOf(page), slugOf(page), touchedAtMs(page))
+    const seated = seatedFrom(frontmatterOf(page), pageStemOf(page), touchedAtMs(page))
     if (seated === null || held.has(seated.id)) continue
     held.add(seated.id)
     const presence = seatPresence(page)
@@ -125,7 +125,7 @@ export function seatsAbsent(): readonly Seated[] {
     if (body === null) continue
     const seated = seatedFrom(
       frontmatterIn(body),
-      slugOf(held.path),
+      pageStemOf(held.path),
       held.atMs
     )
     if (seated === null || live.has(seated.id)) continue

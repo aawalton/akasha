@@ -1,6 +1,6 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { existsSync } from "node:fs"
 import { resolveRoots } from "../../repo/roots/roots.ts"
 import { pageFromHistory } from "./seat-page-history.ts"
@@ -93,7 +93,7 @@ function seatsStanding(): readonly SeatStanding[] {
   for (const page of seatPagePaths()) {
     const frontmatter = frontmatterOf(page)
     if (frontmatter === null) continue
-    found.push({ name: slugOf(page), frontmatter, live: seatIsPresent(page) })
+    found.push({ name: pageStemOf(page), frontmatter, live: seatIsPresent(page) })
   }
   return found
 }

@@ -1,6 +1,6 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { FLEET, type NameableSeat, composeSeatName } from "./compose-seat-name.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
 import { restateSeatName } from "./seat-name-restate.ts"
@@ -27,7 +27,7 @@ const PAGE_SUFFIX = ".md"
 
 export function composedNameOf(agent: string): string | null {
   const page = seatPageForAgent(agent)
-  return page === null ? null : slugOf(page)
+  return page === null ? null : pageStemOf(page)
 }
 
 const PAGE_SLOTS = ["persona-slug", "domain-slug", "role-slug", "task-slug"] as const

@@ -1,7 +1,7 @@
 
 import { readFileSync } from "node:fs"
 import { DOMAIN_SLUG_KEY } from "./domain.ts"
-import { stemOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { isDirty } from "../../repo/roots/roots"
@@ -40,7 +40,7 @@ export function vocabularyOf(root: string): Vocabulary {
     )
     if (slug !== null) found.domain.push(slug)
     const kind = pageTypeOf(relPath)
-    if (isNamed(kind)) found[kind].push(stemOf(relPath))
+    if (isNamed(kind)) found[kind].push(pageStemOf(relPath))
   }
   return {
     role: found.role.sort(),

@@ -3,7 +3,7 @@ import { slugNamed } from "../../page/page-address.ts"
 import { shapeMarkOf } from "../../page/shape/mark.ts"
 import { DEFINED_ON } from "../../page/page-types.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import type { FileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import type { Property } from "../../page/property/property.ts"
@@ -36,7 +36,7 @@ function homeIn(relPath: string, text: string): RowsHome | null {
   if (target === null || on === null) return null
   return {
     parentType: slugNamed(on),
-    key: stringAt(fm, "key") ?? slugOf(relPath),
+    key: stringAt(fm, "key") ?? pageStemOf(relPath),
     uncommitted: stringAt(fm, UNCOMMITTED) === "true",
     appendOnly: stringAt(fm, APPEND_ONLY) === "true",
     target,

@@ -1,6 +1,6 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
 import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { launchFrom } from "./seat-flex.ts"
@@ -66,7 +66,7 @@ async function readPredecessor(agentId: string): Promise<{
   if (page === null) return null
   const frontmatter = frontmatterOf(page)
   if (frontmatter === null) return null
-  const name = slugOf(page)
+  const name = pageStemOf(page)
   const above = slugAt(frontmatter, PRINCIPAL_KEY)
   return {
     name,

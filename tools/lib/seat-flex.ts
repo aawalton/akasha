@@ -1,6 +1,6 @@
 
 import { basename } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { seatAbove } from "./subagent.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
 import { FLEX } from "./compose-seat-name.ts"
@@ -33,7 +33,7 @@ export function flexInName(name: string): string | null {
 
 export function flexOf(agent: string): FlexRecord | null {
   const page = pageOf(agent)
-  const found = page === null ? null : flexInName(slugOf(page))
+  const found = page === null ? null : flexInName(pageStemOf(page))
   return found === null ? null : { value: found }
 }
 

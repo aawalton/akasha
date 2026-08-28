@@ -1,6 +1,6 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { stemOf as slugOf } from "../../page/name/name"
+import { pageStemOf } from "../../page/name/name"
 import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
@@ -117,8 +117,8 @@ const runTool = writerFor(WRITER)
 
 function takeAnyOtherPage(agent: string, seatName: string): void {
   const standing = seatPageForAgent(agent)
-  if (standing === null || slugOf(standing) === seatName) return
-  const was = slugOf(standing)
+  if (standing === null || pageStemOf(standing) === seatName) return
+  const was = pageStemOf(standing)
   const place = placeHolding(standing, SEAT_PLACES)
   if (place === null) return
   const taken = runTool(
@@ -181,7 +181,7 @@ export function writeSeatPage(stated: Stated, seatName: string, parentName: stri
 export function removeSeatPage(agent: string, stopReason: string): Outcome {
   const page = seatPageForAgent(agent)
   if (page === null) return { kind: "unchanged" }
-  const seatName = slugOf(page)
+  const seatName = pageStemOf(page)
   const place = placeHolding(page, SEAT_PLACES)
   if (place === null) return { kind: "unchanged" }
   const taken = runTool(

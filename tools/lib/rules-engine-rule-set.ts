@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { type PageType, pagesOf, placeDirOf, placeOf, PROPERTY_GLOBS, scanIn, reposOf } from "../../page/page-types.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name"
+import { fileStemOf } from "../../page/name/name"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import type { Roots } from "../../page/page"
@@ -16,7 +16,7 @@ function ruleSetAt(roots: Roots, ruleSet: string): string {
   const at = `${RULE_SET_AT}${ruleSet}.md`
   if (existsSync(`${rootFor(roots, AKASHA)}/${at}`)) return at
   const named = scanIn(rootFor(roots, AKASHA), [`${RULE_SET_AT}**/*.md`], AKASHA).find(
-    (one) => slugOf(one) === ruleSet
+    (one) => fileStemOf(one) === ruleSet
   )
   if (named !== undefined) return named
   throw new Error(`no rule set stands for \`${ruleSet}\``)

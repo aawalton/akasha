@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { readFileSync, readdirSync } from "node:fs"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
@@ -96,7 +96,7 @@ function keptCases(root: string, only: readonly string[]): readonly KeptCase[] {
   const where = `${root}/${CASES_PATH}`
   const named = readdirSync(where)
     .filter((name) => name.endsWith(".md"))
-    .map((name) => ({ stem: slugOf(name), name }))
+    .map((name) => ({ stem: fileStemOf(name), name }))
     .filter(({ stem }) => only.length === 0 || only.includes(stem))
     .sort((a, b) => a.stem.localeCompare(b.stem))
   return named.flatMap(({ stem, name }) => {

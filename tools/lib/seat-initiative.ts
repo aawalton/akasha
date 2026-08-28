@@ -6,7 +6,7 @@ import { type Roots } from "../../page/page.ts"
 import { AKASHA, isDirty, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { fileStemOf } from "../../page/name/name.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 import { frontmatterOf } from "./seat-presence-read.ts"
 
@@ -77,7 +77,7 @@ export function spellingOf(at: string): string | null {
   const where = pagePrefixOf(at, "initiative")
   if (where === null) return null
   const parts = at.slice(where.length).split("/")
-  return [...parts.slice(0, -1), slugOf(parts.at(-1) as string)].join("/")
+  return [...parts.slice(0, -1), fileStemOf(parts.at(-1) as string)].join("/")
 }
 
 export function initiativesIn(root: string): ReadonlyMap<string, readonly string[]> {
@@ -99,7 +99,7 @@ export function refuseInitiative(slug: string, root: string): readonly string[] 
   const at = found.get(slug) ?? []
   if (at.length === 1) return []
   if (at.length > 1) {
-    const apart = at.map((one) => spellingOf(one) ?? slugOf(one))
+    const apart = at.map((one) => spellingOf(one) ?? fileStemOf(one))
     return [
       `initiative: \`${slug}\` names ${at.join(" and ")} — a spelling reaching two files is ` +
         `refused rather than guessed apart. State one of: ${apart.join(", ")}`,

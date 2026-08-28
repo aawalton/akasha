@@ -11,7 +11,7 @@ import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "no
 import { join } from "node:path"
 import { placeHolding, SUBAGENT_PLACES, SUBAGENT_WRITE } from "./agent-page-place.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
-import { stemOf as slugOf } from "../../page/name/name.ts"
+import { pageStemOf } from "../../page/name/name.ts"
 import { frontmatterOf, seatNameForAgent } from "./seat-presence-read.ts"
 import type { StandingSubagent } from "./subagent-guard.ts"
 import { SUBAGENT_MARK, subagentUnder } from "./subagent.ts"
@@ -149,7 +149,7 @@ export function standingSubagentsOf(seat: string): readonly StandingSubagent[] {
   return standingPagePathsOf(seatName).map((absolute) => {
     const stated = frontmatterOf(absolute)?.["subagent-type"]
     return {
-      name: slugOf(absolute),
+      name: pageStemOf(absolute),
       dispatchedAs: typeof stated === "string" && stated !== "" ? stated : "unstated",
     }
   })
