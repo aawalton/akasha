@@ -3,7 +3,7 @@ id: 6bc9c8ef-86bb-5ef3-84e4-252c80f45e5e
 slug: pricing-source-collapsed
 page-type-slug: finding
 title: "Pricing source collapsed"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

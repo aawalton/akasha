@@ -3,7 +3,7 @@ id: 0fc366c0-3bd6-5df0-9921-d1eab3fc1230
 slug: rapport-denominator-fixed
 page-type-slug: finding
 title: "Rapport denominator fixed"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

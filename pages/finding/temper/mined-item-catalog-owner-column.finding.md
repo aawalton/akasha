@@ -3,7 +3,7 @@ id: d7efb25e-e0e3-5536-970f-c46563b3d757
 slug: mined-item-catalog-owner-column
 page-type-slug: finding
 title: "Mined item catalog owner column"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim

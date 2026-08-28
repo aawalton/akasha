@@ -3,7 +3,7 @@ id: 6b8bb7eb-caba-58c7-aec2-caf26cb7c8c9
 slug: pages-cache-timeout-shows-empty-state
 page-type-slug: finding
 title: "Pages cache timeout shows empty state"
-domain-slug: domain/946
+domain-slug: domain/temper
 ---
 
 # Claim
