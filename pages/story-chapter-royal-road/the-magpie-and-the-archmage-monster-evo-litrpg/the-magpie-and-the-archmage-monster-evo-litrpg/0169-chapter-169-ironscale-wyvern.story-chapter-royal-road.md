@@ -1,0 +1,177 @@
+---
+id: 864c7723-08b8-5c74-b699-1e4905a9cf53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169 – Ironscale Wyvern"
+slug: 0169-chapter-169-ironscale-wyvern
+partOf: the-magpie-and-the-archmage-monster-evo-litrpg
+position: 169
+ownLength: 2081
+unit: words
+publishedAt: 2026-08-28
+link: "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3875552/chapter-169-ironscale-wyvern"
+royalRoadId: "3875552"
+---
+
+With Smokey undergoing evolution, there wasn't much the group could do besides wait and watch how the desert shark juveniles methodically consumed their mother. It was an oddly satisfying and equally gruesome sight to witness. Like a bunch of piranhas, they surrounded her corpses and ate.
+
+Even so, Liora felt they weren't fast enough. The horrible stench of a rotting fish carcass was coming all the way to the oasis. Nobody felt like eating. Liora would often fly, simply to get some rest from the stench. Caspian and Cee would hang out underwater where the smell couldn't reach them.
+
+Sadly there just wasn't much that they could do while they were waiting. Liora would occasionally practice her Air Slash, in hopes of getting it over the upgrade threshold, but without a proper target, it appeared that the experience gain for the skill was minimal.
+
+"You could always target the shark juveniles," Renir suggested.
+
+"First, I am not approaching that rotting corpse. Do you know how horrible the stench is?" She muttered. "Second, I don't want desert shark patriarch showing up, seeking revenge for his now murdered wife and even more slaughtered children."
+
+Renir chuckled. "Their so called daddy is likely mixed in somewhere between the juveniles, eating the corpse just as eagerly."
+
+"What?"
+
+"Yeah, the males of this species are just barely bigger than the juveniles. Just check yourself."
+
+Liora focused her gaze on the crowd of munching sharks, reading their labels carefully. Most were juveniles with their harmless green color, but among them she also noticed a few white labels.
+
+[Desert Shark Adult]
+
+"There's multiple of them!" Liora announced in surprise. These shark adults were only slightly larger than the juveniles but they clearly had a stronger bite as they could gauge out chunks of meat much more easily than the little ones.
+
+"Yeah. These guys are opportunists. Now that the matriarch is dead, one of the female adults will rise to take her place. But the process will likely take years."
+
+"You sure know a lot about these sharks. I thought you hadn't been in this dungeon before."
+
+"They aren't exclusive to the dungeon. They are rather common monsters in desert areas."
+
+They talked some more about the monsters they could possibly encounter in the area while flying about. Liora didn't have to expend a lot of energy in her dracoryx form once she was airborne. She could just keep gliding, enjoying the feeling of winds running through her feathers.
+
+It was a comforting feeling, especially after everything that happened with Lucien. It was a much needed time of relaxation, and Renir seemed to be enjoying it too.
+
+"Liora!" Cee suddenly called from the oasis, waving her front legs high.
+
+She had barely heard her spider friend, that's how high up she was, but her movements had instantly alerted her. It appeared that Cee was pointing at the curled up Smokey. Was he done evolving?
+
+Liora flew back to the oasis and landed right next to wyvern. His changes were difficult to point out with him curled up into a ball, but he was definitely larger. His scales had also gotten darker, now looking blood red rather than plain red.
+
+"You think he's done?" Liora asked Cee.
+
+"I heard him growl a little," Cee said.
+
+Caspian also emerged from the water, his nose pressed firmly shut. "I just wish we could get this evolution done already. I want to leave this stinky place already!"
+
+Liora had to agree there. The stench was becoming more and more unbearable by the day.
+
+A rumble came from Smokey, and he stirred slightly. Everyone stared at him, waiting for the wyvern to emerge. His wing twitch, then his claw and finally he began to unfurl himself from the odd sleeping position. Everyone had to take a few steps back to give the wyvern enough room.
+
+"Smokey! You've grown bigger!" Cee cheered, admiring her newly evolved pet.
+
+He sleepily tried to get his eyes to open by rubbing them with his front leg. He had massive claws at the end of them now, looking no less formidable than Liora's own talons. His dark crimson hide shone in the desert sun, and even from a glance Liora could tell that it was incredibly tough. Even the membrane between his wings looked tougher. As if it was made from sturdy tarpaulin rather than just flimsy cloth.
+
+The most different thing was his snout. It had grown thicker and bulkier. He looked more like an adult wyvern now than before, and his teeth looked like they could easily crush bone. Liora was a bit intimidated by Smokey at first.
+
+But then the derp noticed Cee and his tail wagged. He looked like an overgrown dog happy to see his owner, while his tongue lolled out of his mouth in the typical Smokey fashion.
+
+"Yup, that's still Smokey. Although the improvement is quite astounding," Liora noted.
+
+"Aren't they! Look at this big wyvern! Who is a big boy? Yes, you are! You are!" Cee was speaking to Smokey in an exaggerated baby voice.
+
+Caspian looked at Liora with concern. "I-Is she alright?"
+
+"Y…Yeah… She's just happy," Liora said, although the sight of a large spider speaking in a baby voice to a ferocious (kinda) looking wyvern was a bit disconcerting.
+
+"I think we need to test the most important thing. Can Smokey fly with Cee on his back?" Renir said.
+
+Smokey jumped up and down excitedly, stirring up clouds of sand.
+
+"I think he is! Let's test it!" Cee said, jumping nimbly out of the way of sand cloud and onto Smokey's back.
+
+She wove several threads with which she secured herself to Smokey's back.
+
+"Catch her, if she falls to her death…" Caspain whispered to Liora.
+
+"Of course. But if Smokey falls, then it's on him. He looks far too heavy for me to hold up, much less carry."
+
+With webs secured, Smokey flapped his wings and ran while making small jumps, as if trying out his new wings. Sand was going everwhere, but Liora could see that his wings were larger than before, and the new membrane was stronger.
+
+After the final, large leap, Smokey flapped hard and took to the air, with Cee secure on his back.
+
+"It worked!" The spider cheered.
+
+Liora hurriedly flew after Smokey, assessing his flight. It was still far from graceful, and he had to flap a lot to gain altitude. Likely because he was so bulky. But his wing muscles were obviously stronger, and he could fly with Cee on his back.
+
+"Not bad," Liora noted, flying above the wyvern.
+
+The derpy thing looked up at her and lolled out his tongue happily. As if asking "Am I doing good?"
+
+"Yes, you're doing quite fine. I'm not sure how long he can keep this up, but even if we could fly for like half an hour at a time, it would still cover a lot of ground. We can work with that," Liora said.
+
+"Absolutely!" Renir agreed. "I say that with this development, we should move ahead and out of the oasis."
+
+"What about the antkin merchants?" Cee asked.
+
+"I doubt they'll approach this place if the smell is as bad as you say. We should fly ahead and find another oasis. They will likely travel from one oasis to the next to make their way to the merfolk city," Renir explained. "Who knows? Maybe they already came this way but turned back once they saw the shark matriarch."
+
+"We have to catch up to them then!" Liora said.
+
+"Exactly. We can't keep wasting time in the oasis anymore!" Cee said. "Also, I'm so sick of that stench and the carcass isn't even half gone."
+
+Liora and Cee both looked rueful at the shark remains. Even with juveniles gnawing at it day and night, there was still so much left. Also, there was a large portion that the sharks refused to eat. Likely where the concentration of poison was too much for them to stomach.
+
+If that poisoned meat was allowed to sit there in the sun… Liora didn't even want to imagine the smell. While this would be a deviation from their original plan, everyone was of a single mind. They needed to get away from the oasis and the horrid stench.
+
+So after they fed Smokey loads of meat, they all prepared for the flight. Cee would be flying on Smokey's back for as long as the wyvern could handle it. Meanwhile, Liora would have to carry Caspian.
+
+"Are you sure there's not enough space on the wyvern's back? He's big enough to fit us both," Caspian said, nervously eyeing Liora's talons.
+
+"He might be bigger, but it doesn't mean he can carry two people on him. He's heavy and inexperienced. Meanwhile, I am strong and carry you easily, despite use being roughly the same size," Liora explained. She didn't mention the fact that Caspian was about as heavy as a beanpole.
+
+Perhaps in time Smokey could indeed carry him and Cee both, but for the time being, the wyvern needed to focus on training his flight endurance. Caspian would just have to accept that flying will not be a very pleasant experience for him.
+
+After all, Liora couldn't carry him on her back like Smokey could carry Cee. He was too large and would get in the way of her wings. Not to mention, that he would likely pull on her feathers. On the bright side, he could remain in his merman form like this with Cee's web cloak draped over him to protect him from the sun.
+
+"IS everyone ready?" Cee asked, checking the thread that secured her to Smokey.
+
+"Ready!" Renir said.
+
+"Ready," confirmed Liora.
+
+"Not ready! Are you sure I can't go on the wyvern instead?" Caspian complained.
+
+"Nope! You wanted to see the surface. Here's your chance. Or would you rather remain here," Cee snapped.
+
+"No…" Caspian drooped.
+
+"Then let's go!" Liora called, grabbing the merman out of the water. He had thick web padding around his shoulders and upper arms which was comfortable for Liora to grip on.
+
+Still they wouldn't be able to fly this way for long. The best thing Liora could do was cover as much ground as possible in the short while that they had.
+
+Caspian screamed when she took off full speed, Smokey following after her with a delighted roar.
+
+"Stop screaming, it's not so bad," Renir grumbled at the merman.
+
+"Easy for you to say! You wouldn't die if you fell out. You're a rock," Caspian complained.
+
+"This was your choice," Liora said nonchalantly as they continued flying.
+
+Liora remained a good distance ahead of Smokey and Cee, but not so far that they wouldn't be able to follow.
+
+"My arms are hurting…" Caspian complained, barely half an hour later.
+
+They had flown a good distance away from the oasis. The terrain was still most ruled by the desert sharks, but a few other types of monsters had appeared. Namely some large scorpion things with giant claws. There was no sight of another oasis or antkin merchants anywhere.
+
+"We've barely gotten anywhere. Deal with it!" Liora grumbled. The merman had been complaining most of the time. Even Renir complained less.
+
+"I think Smokey is beginning to tire," Renir pointed out.
+
+Liora gasp a glance back and saw that Smokey was further behind than she anticipated. He was flying lower too. It appeared Renir was correct. They would have to land soon.
+
+"We've barely gotten anywhere," Liora grumbled, looking ahead for a good place to land.
+
+There was a rocky outcropping further ahead which was slightly elevated above the desert. It had overhanging edges, meaning that the monster from below couldn't get up. It would be a perfect resting spot.
+
+Liora aimed straight for it, but as she approached, she noticed that there was something on the outcropping. A person… No, rather an insectoid creature, which looked to be clutching at its leg.
+
+"Renir, is that an antkin?" Liora asked hopefully.
+
+"What? I can't see anything yet."
+
+They had to fly closer for Renir to finally notice the ant. However, by then, Liora realized that this ant person was barely holding onto life, with horrible wounds on their legs.
+
+The worst part was that when she was approaching for landing, the barely antkin withdrew a bow and aimed it at her while shouting something at her. She didn't understand a word of what it was saying.
