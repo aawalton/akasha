@@ -7,7 +7,6 @@
   "exports": {
     "./app-version": "./src/app-version/index.ts",
     "./media-server": "./src/media/media-server.ts",
-    "./supabase": "./src/supabase/index.ts",
     "./supabase/page-resolver-provider": "./src/supabase/page-resolver-provider.tsx",
     "./supabase/use-pages": "./src/supabase/use-pages.tsx",
     "./schema": "./src/schema/index.ts",
