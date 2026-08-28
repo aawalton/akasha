@@ -45,7 +45,10 @@ export function reminderRelPath(to: string, id: string): string {
   return `${reminderDirRelPath(to)}/${id}.${PAGE_TYPE}${PAGE_SUFFIX}`
 }
 
+// A reminder states the name it is addressed by. That name is the id its file is placed under by
+// `reminderRelPath`, which is the file's stem.
 export function composeReminder(stated: {
+  readonly slug: string
   readonly to: string
   readonly from: string
   readonly warrant: Warrant
@@ -56,6 +59,7 @@ export function composeReminder(stated: {
   return [
     "---",
     `page-type-slug: ${PAGE_TYPE}`,
+    `slug: ${stated.slug}`,
     `to: ${stated.to}`,
     `from: ${stated.from}`,
     `warrant: ${stated.warrant}`,
@@ -145,7 +149,7 @@ export function writeReminder(stated: {
   const dir = mkdtempSync(join(SCRATCH, "reminder-file-"))
   try {
     const bodyPath = join(dir, "body.md")
-    writeFileSync(bodyPath, composeReminder(stated), "utf8")
+    writeFileSync(bodyPath, composeReminder({ ...stated, slug: id }), "utf8")
     const wrote = runWriteTool(
       "write.ts",
       [
