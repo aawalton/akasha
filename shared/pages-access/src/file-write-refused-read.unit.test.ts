@@ -100,8 +100,12 @@ let stop: (() => void) | null = null
  * `refuseTheIdAsk` refuses exactly the query `nameOfPageId` makes — the one keyed on `id` against
  * the target type — and nothing else. Refusing every query would trip an earlier guard and prove
  * nothing about this seam.
+ *
+ * `refuseTheNameAsk` refuses the two lookups `standsUnder` makes for a name — the whole-page read
+ * and the query keyed on `slug` — and leaves every other query answering. Off, both are answered
+ * and hold nothing, which is a corpus that was read and holds no page under that name.
  */
-function serve(refuseTheIdAsk: boolean): Served {
+function serve(refuseTheIdAsk: boolean, refuseTheNameAsk = false): Served {
   const served: Served = { patched: [] }
   const real = globalThis.fetch
   forgetFileBackedPageTypes()
@@ -115,13 +119,20 @@ function serve(refuseTheIdAsk: boolean): Served {
   globalThis.fetch = async (input, init) => {
     const url = typeof input === "string" ? input : input instanceof URL ? input.href : input.url
     const path = new URL(url, "http://fixture.invalid").pathname
-    if (PAGE_PATH.test(path)) return reply({ error: "no page stands there" }, 404)
+    if (PAGE_PATH.test(path)) {
+      if (refuseTheNameAsk) return reply({ error: "the page query service is unreachable" }, 503)
+      return reply({ error: "no page stands there" }, 404)
+    }
     if (path === "/q") {
       const query = parseQueryBody(init)
       const type = query["page-type"]
       const where = parseQueryWhere(query.where)
       if (type === TARGET && where.id !== undefined) {
         if (refuseTheIdAsk) return reply({ error: "the page query service is unreachable" }, 503)
+        return reply({ n: 0, rows: [] })
+      }
+      if (type === TARGET && where.slug !== undefined) {
+        if (refuseTheNameAsk) return reply({ error: "the page query service is unreachable" }, 503)
         return reply({ n: 0, rows: [] })
       }
       if (type === "page-type") {
@@ -210,6 +221,35 @@ describe("a write refusal advises a rename only where the corpus was read", () =
     // What it must NOT do is spend the refused lookup as though it had been answered.
     await expect(going).rejects.not.toThrow(/Name it as its file is named/)
     await expect(going).rejects.toThrow(/went unestablished/)
+    expect(served.patched).toEqual([])
+  })
+})
+
+// WHAT A WRITE REFUSAL MAY ASSERT IS BOUNDED BY WHETHER ANYTHING LOOKED. `standsUnder` reads the
+// target twice — the page by name, then a query keyed on `slug` — and a refusal of either leaves
+// the corpus unread. Spelled as a name that no page stands under, a read that failed sends the
+// writer to correct a value that was very likely right.
+describe("a write refusal reports a name absent only where the corpus was read", () => {
+  test("a corpus that was read and holds no such page says no page stands under the name", async () => {
+    const served = serve(false)
+    const going = patchPage({
+      pageTypeSlug: HOLDER,
+      where: ONE,
+      set: { ownerAccount: "nobody-at-all" },
+    })
+    await expect(going).rejects.toThrow(/which no `refused-read-account` page stands under/)
+    expect(served.patched).toEqual([])
+  })
+
+  test("a target lookup nothing answered does not report the name absent", async () => {
+    const served = serve(false, true)
+    const going = patchPage({
+      pageTypeSlug: HOLDER,
+      where: ONE,
+      set: { ownerAccount: "nobody-at-all" },
+    })
+    await expect(going).rejects.not.toThrow(/which no `refused-read-account` page stands under/)
+    await expect(going).rejects.toThrow(/went unlooked-for/)
     expect(served.patched).toEqual([])
   })
 })
