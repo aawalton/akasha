@@ -16,12 +16,12 @@
     Cambria, serif;
 }
 
-@source "../../../shared/design/system/src/**/*.{ts,tsx}";
-@source "../../../shared/design/badges/src/**/*.{ts,tsx}";
-@source "../../../shared/design/layout/src/**/*.{ts,tsx}";
-@source "../../../shared/design/forms/src/**/*.{ts,tsx}";
-@source "../../../shared/design/patterns/src/**/*.{ts,tsx}";
-@source "../../../shared/design/primitives/src/**/*.{ts,tsx}";
-@source "../../../shared/pages/ui/src/**/*.{ts,tsx}";
+@source "../../../shared/design-system/src/**/*.{ts,tsx}";
+@source "../../../shared/design-badges/src/**/*.{ts,tsx}";
+@source "../../../shared/design-layout/src/**/*.{ts,tsx}";
+@source "../../../shared/design-forms/src/**/*.{ts,tsx}";
+@source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
+@source "../../../shared/design-primitives/src/**/*.{ts,tsx}";
+@source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
 @source "../app/**/*.{ts,tsx}";
 @source "./**/*.{ts,tsx}";

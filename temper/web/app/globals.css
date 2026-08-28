@@ -3,17 +3,17 @@
 @import "@shared/design-system/styles.css";
 @import "tw-animate-css";
 
-@source "../../../shared/design/system/src/**/*.{ts,tsx}";
-@source "../../../shared/design/badges/src/**/*.{ts,tsx}";
-@source "../../../shared/design/layout/src/**/*.{ts,tsx}";
-@source "../../../shared/design/forms/src/**/*.{ts,tsx}";
-@source "../../../shared/design/patterns/src/**/*.{ts,tsx}";
-@source "../../../shared/design/primitives/src/**/*.{ts,tsx}";
-@source "../../../shared/pages/ui/src/**/*.{ts,tsx}";
-@source "../../game/characters/equipment/ui/src/**/*.{ts,tsx}";
-@source "../../player/completion/ui/src/**/*.{ts,tsx}";
-@source "../../player/economics/ui/src/**/*.{ts,tsx}";
-@source "../../player/inventory-management/ui/src/**/*.{ts,tsx}";
+@source "../../../shared/design-system/src/**/*.{ts,tsx}";
+@source "../../../shared/design-badges/src/**/*.{ts,tsx}";
+@source "../../../shared/design-layout/src/**/*.{ts,tsx}";
+@source "../../../shared/design-forms/src/**/*.{ts,tsx}";
+@source "../../../shared/design-patterns/src/**/*.{ts,tsx}";
+@source "../../../shared/design-primitives/src/**/*.{ts,tsx}";
+@source "../../../shared/pages-ui/src/**/*.{ts,tsx}";
+@source "../../game-characters-equipment-ui/src/**/*.{ts,tsx}";
+@source "../../player-completion-ui/src/**/*.{ts,tsx}";
+@source "../../player-economics-ui/src/**/*.{ts,tsx}";
+@source "../../player-inventory-management-ui/src/**/*.{ts,tsx}";
 
 [data-label].enclosing {
   cursor: pointer;
