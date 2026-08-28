@@ -117,6 +117,18 @@ describe("regular pipeline — durable behaviours", () => {
     expect(r.count).toBe(4)
   })
 
+  test("ordering: a null sorts first ascending, matching the file read path", async () => {
+    const r = await run({ pageTypeSlug: "type-a", order: [{ by: "title", dir: "asc" }] })
+    expect(r.ids).toEqual([uuid(3), uuid(2), uuid(6), uuid(1)])
+    expect(r.count).toBe(4)
+  })
+
+  test("ordering: a null sorts last descending", async () => {
+    const r = await run({ pageTypeSlug: "type-a", order: [{ by: "title", dir: "desc" }] })
+    expect(r.ids).toEqual([uuid(1), uuid(2), uuid(6), uuid(3)])
+    expect(r.count).toBe(4)
+  })
+
   test("totalCount is the full filtered size, independent of limit", async () => {
     const r = await run({ pageTypeSlug: "type-a", order: [{ by: "seq", dir: "asc" }], limit: 2 })
     expect(r.ids).toEqual([uuid(2), uuid(6)])

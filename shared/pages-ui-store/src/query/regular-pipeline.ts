@@ -1,5 +1,6 @@
 import type { PageOrder } from "@shared/pages-access/types"
 import { isPromotedKey, PROMOTED_COLUMN } from "@shared/pages-access/routing-core"
+import { nullOrderSign } from "@shared/pages-core/null-ordering"
 import { and, type Collection, createLiveQueryCollection } from "@tanstack/db"
 import { asPageRecord, asPageRowList, asRecord, type PageRow } from "../collection/page-row"
 import type { PageConditionLike, UsePagesOptions } from "../sql/options"
@@ -95,8 +96,7 @@ function compareClause(a: PageRow, b: PageRow, clause: OrderClause): number {
   const aNull = va === null || va === undefined
   const bNull = vb === null || vb === undefined
   if (aNull && bNull) return 0
-  if (aNull) return clause.dir === "asc" ? 1 : -1
-  if (bNull) return clause.dir === "asc" ? -1 : 1
+  if (aNull || bNull) return nullOrderSign(aNull, clause.dir === "desc")
   let c: number
   if (typeof va === "number" && typeof vb === "number") c = va < vb ? -1 : va > vb ? 1 : 0
   else {
