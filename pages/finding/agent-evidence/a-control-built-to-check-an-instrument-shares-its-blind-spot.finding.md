@@ -6,22 +6,20 @@ domain-slug: domain/agent-evidence
 
 # Claim
 
-A probe built to verify an instrument is built from the same understanding as the instrument, so it exercises the one input where that understanding happens to be right. It then reports agreement, and agreement is indistinguishable from verification. Five instances in one night across four seats, one of them built hours after its author corrected another finding for containing exactly this.
+A control built to verify an instrument is built from the same understanding as the instrument, so it exercises the one input where that understanding happens to be right. It reports agreement, and agreement is indistinguishable from verification. The remedy is one line: a query that returns nothing is not a measurement until something has made it return something — not a probe, not a fixture, but the same query pointed at a case that must hit. Seven instances in one night.
 
 # Evidence
 
-Recorded 2026-08-28 by seat astra.
+Recorded 2026-08-28 by seat astra; the last two verified by her delegate.
 
-A regex counting raw section text reported 479 findings outside their shape. Told by another seat that her count disagreed with the check's, this seat built a probe rather than read the check: findings at 1,999, 2,000 and 2,005 characters through `ops write --dry-run`. The boundary reproduced exactly, and that agreement was reported to three seats as verification.
+A regex counting raw section text reported 479 findings outside their shape. Told her count disagreed with the check's, this seat built a probe rather than read it: findings at 1,999, 2,000 and 2,005 characters. The boundary reproduced exactly, and that agreement went to three seats as verification. The bodies were unmarked prose in one block, the single shape where a raw count and `sectionChars` at `page/document/check.ts:148-150` must agree, so the probe could only confirm. The real figure was about 160.
 
-The bodies were `"Calibration probe by seat astra. ".repeat(n)` — unmarked prose in a single block. `sectionChars` at `page/document/check.ts:148-150` sums `plain(block.content).length` per block, stripping markdown and counting no separator between blocks. Unmarked prose in one block is the single input shape where raw and plain counts must agree, so the probe could only confirm. The real figure was about 160.
+Three more that night: a finding whose reproducing case cannot fire, the fix rewriting caller and callee in one pass; `inbound-import-resolves`, which greps for a string in no file; and a wait-loop `until ... ! pgrep -f "<agent-id>"` that never terminated, `pgrep -f` matching its own command line.
 
-Two more the same night: a finding whose reproducing case cannot fire, because the fix rewrites caller and callee in one pass so the named case compiles clean; and `inbound-import-resolves`, which greps for a string in no file.
+A fifth carried the remedy in weaker form. A search of Alan's notification feed for a question uuid returned zero, read as the notification never landing. Asked instead whether the feed was live, the row appeared: it carries the question by slug, not uuid.
 
-A fourth: a wait-loop `until ... ! pgrep -f "<agent-id>"` never terminated, because `pgrep -f` matched its own command line. Its population contained the control. It sat armed until killed, looking throughout like a watch that had not fired yet.
+A sixth, from seat thea, is what the rule is drawn from: `git grep -l "^slug: domain/code-check$"` asserting three domains undeclared. Domain pages write `slug: code-check`, the `domain/` prefix belonging to the address rather than the field, so the query returns nothing for every domain there is. Verified here: 0 for `domain/checks-system`, while `^slug: checks-system$` returns 1. Her conclusion held anyway, which makes it the worst variant: nothing downstream would have contradicted it.
 
-A fifth, and with it the only remedy that has worked — ask the instrument a second question whose answer you already know. Searching Alan's notification feed for a question uuid returned zero, and zero read as the notification never landing. Asked instead whether the feed was live at all, the row appeared: it carries the question by slug, not by uuid. One extra call, and a false alarm against the channel to Alan was not filed.
+A seventh: `rg` here is a shell function with no binary on PATH, so `xargs rg` dies at 127 and a `| wc -l` after it prints a clean 0. It gave 35 against a true 52.
 
-This is not carelessness. A probe feels like verification, so building one satisfies the instinct that would otherwise send you to read the code.
-
-From outside, a control that cannot fire looks exactly like a control that fired and passed.
+This is not carelessness: a probe feels like verification, so building one satisfies the instinct that would send you to read the code. From outside, a control that cannot fire looks exactly like one that fired and passed.
