@@ -5,7 +5,6 @@ title: "Chess puzzle"
 extends-slug: page
 files: none
 body-shape-slug: empty
-unique-key: "{puzzleId}"
 slug: chess-puzzle
 plural-slug: chess-puzzles
 domain-parent-slug: domain/chess

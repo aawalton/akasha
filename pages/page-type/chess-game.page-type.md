@@ -5,7 +5,6 @@ title: "Chess game"
 extends-slug: page
 files: akasha:**/*.chess-game.md
 body-shape-slug: empty
-unique-key: "{externalId}"
 slug: chess-game
 plural-slug: chess-games
 domain-parent-slug: domain/chess
