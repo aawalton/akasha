@@ -90,6 +90,12 @@ describe("the first thing a spawned seat states", () => {
     expect(body).toContain("start-mode: headless")
   })
 
+  test("states its seat name as its slug, a seat's file stem being its seat name", () => {
+    const body = seatPageBody(statedNow(AGENT, held, said({})), SEAT, resolveRoots())
+
+    expect(body).toContain(`slug: ${SEAT}`)
+  })
+
   test("carries an on-call assignment taken in the same breath", () => {
     const body = seatPageBody(statedNow(AGENT, held, said({ onCall: true })), SEAT, resolveRoots())
 

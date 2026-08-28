@@ -71,6 +71,7 @@ export function seatPageBody(
     "---",
     `page-type-slug: ${PAGE_TYPE}`,
     `id: ${agent}`,
+    `slug: ${seatName}`,
     `title: "${seatName}"`,
     ...(persona === null ? [] : [`persona-slug: ${persona}`]),
     `domain-slug: ${domainAddress(domain, rootFor(roots, AKASHA))}`,
