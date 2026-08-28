@@ -21,7 +21,11 @@ You are authorized to take any action needed to fulfil the intent without approv
 
 You are authorized to create, update and delete child initiatives as needed.
 
+When something goes badly wrong, fix it.
+
 Keep a reminder running at all times, every thirty minutes, to review this initiative's intent and constraints and go on working on them. It runs until every intent is complete.
+
+When the reminder comes round, check every seat and subagent you are waiting on, so that another's stall does not become yours.
 
 Take an intent off an initiative once it is fully complete.
 
