@@ -9,7 +9,6 @@ parent-slug: aine-global
 
 # Intent
 
-- No node the graph holds asserts something that is not true.
 - No edge the graph draws asserts something that is not true.
 - A producer can answer about one node without producing every node.
 - Nothing the graph has already worked out is worked out again.
@@ -112,11 +111,13 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. Neither `tools/lib/graph/` nor `infra/cluster-checks/` is in the root tsconfig references, so no error in either reaches that number.
 
+Every node in akasha was measured against disk on 2026-08-28: 89,439 `file` nodes and 3,395 `folder` nodes, with no key nothing is at, no wrong `file-extension`, no `page-type-slug` naming a page type that is not here or filed somewhere the file is not, and no `package` attribute disagreeing with the `package.json` beside it.
+
+`rootsHere()` hands over `code-editor`, so the standing ruling that no code-editor node enters the graph rests on every caller passing the right repositories rather than on anything refusing them.
+
 `file` and `folder` both come from what git tracks, so the node line costs one pass over the tracked keys and nothing for each node beyond it. It stops being free as a node type lands claiming something a tracked path does not settle.
 
 `edgesInto` asks a producer that can name what reaches a node to answer directly, and walks every node in every repository only for the producers that cannot. Asked about 2,240 nodes, `relation` answers from the reverse index in 1,135ms against 4,504ms for the walk, and the two answers are the same set; asked about five it is 197ms against 4,428ms. `graph/ask.unit.test.ts` fell from 8.6s to 635ms on it.
-
-The `Said` memo at `build-context.ts` is the one held answer today, keyed by a file's git blob oid and a mark hashing the graph engine's own import closure, so it drops itself when an extractor changes.
 
 `cache/closure/closure.ts` holds the only transitive walk in the repository, written by hand because the graph answers one hop. It is what the last intent is aimed at.
 
