@@ -18,7 +18,7 @@ const temperWeb = workflow("temper-web", {
     kubectlApply({
       name: "temper-web-apply-deployment",
       namespace: "temper",
-      files: "temper/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "temper/web/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {

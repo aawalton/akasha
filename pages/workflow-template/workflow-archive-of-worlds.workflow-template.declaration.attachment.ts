@@ -16,7 +16,7 @@ export const workflows = [
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",
         namespace: "archive-of-worlds",
-        files: "archive-of-worlds/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "archive-of-worlds/web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({

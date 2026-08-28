@@ -23,7 +23,7 @@ export const workflows = [
             read: "kubectl get secret alanwalton-s3-creds -n alanwalton -o jsonpath='{.data.access_key}{.data.secret_key}'",
             subject: "alanwalton-s3-creds",
           }),
-          `sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${"$"}{S3_CREDS_HASH}\\"|" ${ci.workspace}/alanwalton/atlas-web/deploy/k8s/generated/atlas-deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
+          `sed "s|checksum/s3-creds:.*|checksum/s3-creds: \\"${"$"}{S3_CREDS_HASH}\\"|" ${ci.workspace}/alanwalton/atlas-web/generated/atlas-deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n alanwalton -f -`,
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },

@@ -13,7 +13,7 @@ export const workflows = [
       kubectlApply({
         name: "audhdalan-infra-apply-service",
         namespace: "audhdalan",
-        files: "audhdalan/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "audhdalan/web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({

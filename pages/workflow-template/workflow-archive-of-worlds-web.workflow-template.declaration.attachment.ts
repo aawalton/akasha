@@ -14,7 +14,7 @@ const archiveOfWorlds = workflow("archive-of-worlds-web", {
     kubectlApply({
       name: "archive-of-worlds-web-apply-deployment",
       namespace: "archive-of-worlds",
-      files: "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "archive-of-worlds/web/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {

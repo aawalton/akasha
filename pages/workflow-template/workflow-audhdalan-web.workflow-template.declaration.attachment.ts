@@ -14,7 +14,7 @@ const audhdalan = workflow("audhdalan-web", {
     kubectlApply({
       name: "audhdalan-web-apply-deployment",
       namespace: "audhdalan",
-      files: "audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "audhdalan/web/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {

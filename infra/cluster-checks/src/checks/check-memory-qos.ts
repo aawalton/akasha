@@ -37,29 +37,29 @@ interface Violation {
 
 const BURSTABLE_EXEMPTIONS: readonly (readonly [string, string])[] = [
   [
-    "alanwalton/atlas-web/deploy/k8s/generated/atlas-deployment.generated.yaml",
+    "alanwalton/atlas-web/generated/atlas-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "alanwalton/atlas-web/deploy/k8s/generated/atlas-deployment.generated.yaml",
+    "alanwalton/atlas-web/generated/atlas-deployment.generated.yaml",
     "code-sync",
   ],
-  ["alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["alanwalton/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["alanwalton/web/generated/web-deployment.generated.yaml", "init-code"],
+  ["alanwalton/web/generated/web-deployment.generated.yaml", "code-sync"],
   [
-    "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+    "archive-of-worlds/web/generated/web-deployment.generated.yaml",
     "init-code",
   ],
   [
-    "archive-of-worlds/web/deploy/k8s/generated/web-deployment.generated.yaml",
+    "archive-of-worlds/web/generated/web-deployment.generated.yaml",
     "code-sync",
   ],
-  ["audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["audhdalan/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
-  ["smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
-  ["temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "init-code"],
-  ["temper/web/deploy/k8s/generated/web-deployment.generated.yaml", "code-sync"],
+  ["audhdalan/web/generated/web-deployment.generated.yaml", "init-code"],
+  ["audhdalan/web/generated/web-deployment.generated.yaml", "code-sync"],
+  ["smilingjenny/web/generated/web-deployment.generated.yaml", "init-code"],
+  ["smilingjenny/web/generated/web-deployment.generated.yaml", "code-sync"],
+  ["temper/web/generated/web-deployment.generated.yaml", "init-code"],
+  ["temper/web/generated/web-deployment.generated.yaml", "code-sync"],
   ["infra/seaweedfs/k8s/generated/backup-bulk.generated.yaml", "rclone-sync"],
 ]
 

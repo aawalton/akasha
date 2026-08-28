@@ -11,7 +11,7 @@ const smilingjenny = workflow("smilingjenny-web", {
     kubectlApply({
       name: "smilingjenny-web-apply-deployment",
       namespace: "smilingjenny",
-      files: "smilingjenny/web/deploy/k8s/generated/web-deployment.generated.yaml",
+      files: "smilingjenny/web/generated/web-deployment.generated.yaml",
       serverSide: true,
     }),
     {

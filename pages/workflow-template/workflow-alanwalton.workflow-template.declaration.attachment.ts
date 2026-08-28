@@ -15,7 +15,7 @@ export const workflows = [
       kubectlApply({
         name: "alanwalton-infra-apply-service",
         namespace: "alanwalton",
-        files: "alanwalton/web/deploy/k8s/generated/web-service.generated.yaml",
+        files: "alanwalton/web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
       sopsDecryptApply({
