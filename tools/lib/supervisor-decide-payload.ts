@@ -1,7 +1,7 @@
 
 import type { ClaimedCandidate, ClaimedTranscriptFinding } from "./decide-claimed-redelivery.ts"
 import type { LimitResumeInput } from "./decide-limit-resume.ts"
-import type { OverloadResumeInput } from "./decide-overload-resume.ts"
+import type { WaitResumeInput } from "./decide-wait-resume.ts"
 import type { RcDegradedSeat } from "./decide-rc-degraded.ts"
 import type { RemoteControlSeatQuestion } from "./decide-remote-control.ts"
 import type { RestartPreserveEvent } from "./decide-restart-notice.ts"
@@ -92,11 +92,11 @@ export function parseLimitResume(value: unknown, path: string): LimitResumeInput
   return holdMs === null ? base : { ...base, eligibilityHoldMs: holdMs }
 }
 
-export function parseOverloadResume(value: unknown, path: string): OverloadResumeInput {
+export function parseWaitResume(value: unknown, path: string): WaitResumeInput {
   const input = obj(value, path)
   return {
-    overloadDetected: bool(input.overloadDetected, `${path}.overloadDetected`),
-    consecutiveOverloads: num(input.consecutiveOverloads, `${path}.consecutiveOverloads`),
+    deathDetected: bool(input.deathDetected, `${path}.deathDetected`),
+    consecutiveDeaths: num(input.consecutiveDeaths, `${path}.consecutiveDeaths`),
     lastNudgeAtMs: maybe(input.lastNudgeAtMs, `${path}.lastNudgeAtMs`, num),
     now: num(input.now, `${path}.now`),
   }

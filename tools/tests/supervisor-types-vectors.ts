@@ -79,7 +79,7 @@ export const STANDING: readonly Declaration[] = [
       "    limitResumeMonitor: {",
       "        stop: () => void;",
       "    } | null;",
-      "    overloadResumeMonitor: {",
+      "    waitResumeMonitor: {",
       "        stop: () => void;",
       "    } | null;",
       "    mcpConfigPath: string | null;",

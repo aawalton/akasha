@@ -3,12 +3,12 @@ import { shape } from "./shape.ts"
 import { type Infer } from "./shape-core"
 import { SUPERVISOR_DECIDE_COMMAND } from "./supervisor-limit-resume-effects.ts"
 
-export const OVERLOAD_RESUME_DECISION = "overloadResume"
+export const WAIT_RESUME_DECISION = "waitResume"
 
 export type AskDecide = (stdin: string) => Promise<unknown>
 
-const OverloadResumeAnswerShape = shape.object({
-  [OVERLOAD_RESUME_DECISION]: shape.discriminatedUnion("kind", [
+const WaitResumeAnswerShape = shape.object({
+  [WAIT_RESUME_DECISION]: shape.discriminatedUnion("kind", [
     shape.object({
       kind: shape.literal("nudge"),
       reason: shape.string(),
@@ -26,32 +26,32 @@ const OverloadResumeAnswerShape = shape.object({
   ]),
 })
 
-export type OverloadResumeVerdict =
-  Infer<typeof OverloadResumeAnswerShape>[typeof OVERLOAD_RESUME_DECISION]
+export type WaitResumeVerdict =
+  Infer<typeof WaitResumeAnswerShape>[typeof WAIT_RESUME_DECISION]
 
-export type OverloadResumeQuestion = {
-  readonly overloadDetected: true
-  readonly consecutiveOverloads: number
+export type WaitResumeQuestion = {
+  readonly deathDetected: true
+  readonly consecutiveDeaths: number
   readonly lastNudgeAtMs: number | null
   readonly now: number
 }
 
-export async function askOverloadResume(
+export async function askWaitResume(
   ask: AskDecide,
-  question: OverloadResumeQuestion
-): Promise<{ verdict: OverloadResumeVerdict } | { unreachable: string }> {
+  question: WaitResumeQuestion
+): Promise<{ verdict: WaitResumeVerdict } | { unreachable: string }> {
   let answered: unknown
   try {
-    answered = await ask(JSON.stringify({ [OVERLOAD_RESUME_DECISION]: question }))
+    answered = await ask(JSON.stringify({ [WAIT_RESUME_DECISION]: question }))
   } catch (error) {
-    const what = `could not decide \`${OVERLOAD_RESUME_DECISION}\``
+    const what = `could not decide \`${WAIT_RESUME_DECISION}\``
     return { unreachable: `${SUPERVISOR_DECIDE_COMMAND} ${what}: ${String(error)}` }
   }
-  const read = OverloadResumeAnswerShape.safeParse(answered)
-  if (read.success) return { verdict: read.data[OVERLOAD_RESUME_DECISION] }
+  const read = WaitResumeAnswerShape.safeParse(answered)
+  if (read.success) return { verdict: read.data[WAIT_RESUME_DECISION] }
   const issue = read.error.issues[0]
   const at = issue === undefined || issue.path.length === 0 ? "" : ` at \`${issue.path.join(".")}\``
   const why = issue?.message ?? "no reason given"
-  const what = `answered nothing this can use for \`${OVERLOAD_RESUME_DECISION}\``
+  const what = `answered nothing this can use for \`${WAIT_RESUME_DECISION}\``
   return { unreachable: `${SUPERVISOR_DECIDE_COMMAND} ${what}${at}: ${why}` }
 }

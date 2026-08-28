@@ -22,7 +22,7 @@ function makeProc(overrides: Partial<AgentProcess> = {}): AgentProcess {
     stopCredentialWatch: null,
     proxyLivenessMonitor: null,
     limitResumeMonitor: null,
-    overloadResumeMonitor: null,
+    waitResumeMonitor: null,
     mcpConfigPath: null,
     configDir: null,
     ...overrides,
@@ -67,7 +67,7 @@ describe("processCleanup — stop-first teardown (#14686)", () => {
     const calls: Record<string, number> = {
       proxy: 0,
       limit: 0,
-      overload: 0,
+      wait: 0,
       credWatch: 0,
       sessionWatch: 0,
     }
@@ -83,7 +83,7 @@ describe("processCleanup — stop-first teardown (#14686)", () => {
     const proc = makeProc({
       proxyLivenessMonitor: { stop: bump("proxy") },
       limitResumeMonitor: { stop: bump("limit") },
-      overloadResumeMonitor: { stop: bump("overload") },
+      waitResumeMonitor: { stop: bump("wait") },
       stopCredentialWatch: bump("credWatch"),
       stopSessionWatch: bump("sessionWatch"),
     })
@@ -91,7 +91,7 @@ describe("processCleanup — stop-first teardown (#14686)", () => {
     expect(calls).toEqual({
       proxy: 1,
       limit: 1,
-      overload: 1,
+      wait: 1,
       credWatch: 1,
       sessionWatch: 1,
     })

@@ -7,7 +7,7 @@ import { pollSupervisorFileVersion } from "./supervisor-file-version.ts"
 import { handleVersionUpdate } from "./supervisor-self-heal.ts"
 import { SUPERVISOR_SCRIPT } from "./supervisor-self-heal-state"
 import { startLimitResumeMonitor } from "./supervisor-limit-resume.ts"
-import { startOverloadResumeMonitor } from "./supervisor-overload-resume.ts"
+import { startWaitResumeMonitor } from "./supervisor-wait-resume.ts"
 import { startProxyLivenessMonitor } from "./supervisor-proxy-liveness.ts"
 import { handleProxyVersionUpdate } from "./supervisor-proxy-version.ts"
 import type { ProxyLivenessRuleSource } from "./supervisor-proxy-liveness-rule.ts"
@@ -17,7 +17,7 @@ export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>
   proxyLivenessMonitor: { stop: () => void }
   limitResumeMonitor: { stop: () => void }
-  overloadResumeMonitor: { stop: () => void }
+  waitResumeMonitor: { stop: () => void }
 }
 
 export function startPerAgentMonitors(args: {
@@ -64,12 +64,12 @@ export function startPerAgentMonitors(args: {
 
   const limitResumeMonitor = startLimitResumeMonitor({ getAgentId: args.getAgentId, log })
 
-  const overloadResumeMonitor = startOverloadResumeMonitor({ getAgentId: args.getAgentId, log })
+  const waitResumeMonitor = startWaitResumeMonitor({ getAgentId: args.getAgentId, log })
 
   return {
     heartbeatTimer,
     proxyLivenessMonitor,
     limitResumeMonitor,
-    overloadResumeMonitor,
+    waitResumeMonitor,
   }
 }

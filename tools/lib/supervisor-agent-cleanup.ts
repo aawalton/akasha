@@ -47,7 +47,7 @@ export async function processCleanup(
   if (proc.credentialRefreshTimer) clearInterval(proc.credentialRefreshTimer)
   proc.proxyLivenessMonitor?.stop()
   proc.limitResumeMonitor?.stop()
-  proc.overloadResumeMonitor?.stop()
+  proc.waitResumeMonitor?.stop()
   if (proc.stopCredentialWatch) proc.stopCredentialWatch()
   if (proc.stopSessionWatch) proc.stopSessionWatch()
 

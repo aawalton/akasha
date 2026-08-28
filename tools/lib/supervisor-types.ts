@@ -31,7 +31,7 @@ export type AgentProcess = {
   stopCredentialWatch: (() => void) | null
   proxyLivenessMonitor: { stop: () => void } | null
   limitResumeMonitor: { stop: () => void } | null
-  overloadResumeMonitor: { stop: () => void } | null
+  waitResumeMonitor: { stop: () => void } | null
   mcpConfigPath: string | null
   configDir: string | null
   stopSessionWatch?: () => void

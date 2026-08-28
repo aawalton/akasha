@@ -11,7 +11,7 @@ const getOAuthProxyHandle = () => { seq += 1; return { pid: 4000 + seq, port: 31
 const HB_TIMER = { __sentinel: "heartbeat-timer" }
 const PROXY_MON = { __sentinel: "proxy-monitor", stop: () => {} }
 const LIMIT_MON = { __sentinel: "limit-monitor", stop: () => {} }
-const OVERLOAD_MON = { __sentinel: "overload-monitor", stop: () => {} }
+const WAIT_MON = { __sentinel: "wait-monitor", stop: () => {} }
 
 mock.module(\`\${DIR}/supervisor-config.ts\`, () => ({ LOG: "[local]" }))
 mock.module(\`\${DIR}/supervisor-state.ts\`, () => ({ getOAuthProxyHandle, getAgentActionHandler: () => null }))
@@ -50,10 +50,10 @@ mock.module(\`\${DIR}/supervisor-limit-resume.ts\`, () => ({
   },
 }))
 
-mock.module(\`\${DIR}/supervisor-overload-resume.ts\`, () => ({
-  startOverloadResumeMonitor: (a) => {
-    rec.calls.push({ fn: "startOverloadResumeMonitor", keys: Object.keys(a).sort(), agentId: a.getAgentId() })
-    return OVERLOAD_MON
+mock.module(\`\${DIR}/supervisor-wait-resume.ts\`, () => ({
+  startWaitResumeMonitor: (a) => {
+    rec.calls.push({ fn: "startWaitResumeMonitor", keys: Object.keys(a).sort(), agentId: a.getAgentId() })
+    return WAIT_MON
   },
 }))
 
@@ -103,7 +103,7 @@ for (const v of VECTORS) {
       proxyLivenessMonitorIsStarted: result.proxyLivenessMonitor === PROXY_MON,
       limitResumeMonitorIsStarted: result.limitResumeMonitor === LIMIT_MON,
       limitResumeMonitorIsNull: result.limitResumeMonitor === null,
-      overloadResumeMonitorIsStarted: result.overloadResumeMonitor === OVERLOAD_MON,
+      waitResumeMonitorIsStarted: result.waitResumeMonitor === WAIT_MON,
     },
   })
 }

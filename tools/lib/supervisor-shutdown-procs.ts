@@ -58,7 +58,7 @@ export async function killProcessesForShutdown(preserveClaude: boolean): Promise
       if (p.heartbeatTimer) clearInterval(p.heartbeatTimer)
       p.proxyLivenessMonitor?.stop()
       p.limitResumeMonitor?.stop()
-      p.overloadResumeMonitor?.stop()
+      p.waitResumeMonitor?.stop()
       p.stopCredentialWatch?.()
       if (p.proc) {
         if (preserveClaude && p.interactive) {

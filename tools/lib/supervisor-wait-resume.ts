@@ -3,7 +3,7 @@ import {
   classifyTurnEndErrorDeath,
   CONNECTION_STATUS,
 } from "./classify-turn-end-error-death.ts"
-import { OVERLOAD_MAX_WAIT_MS, overloadWaitMs } from "./decide-overload-resume.ts"
+import { WAIT_MAX_MS, waitMs } from "./decide-wait-resume.ts"
 import { USER_ID } from "./user-id.ts"
 import {
   ANNOUNCE,
@@ -14,14 +14,14 @@ import {
 import { readOwnTranscriptTail } from "./agent-io-probe.ts"
 import { askSupervisorDecide } from "./supervisor-limit-resume-effects.ts"
 import {
-  askOverloadResume,
+  askWaitResume,
   type AskDecide,
-  type OverloadResumeVerdict,
-} from "./supervisor-overload-resume-answer.ts"
+  type WaitResumeVerdict,
+} from "./supervisor-wait-resume-answer.ts"
 
-const OVERLOAD_RESUME_INTERVAL_MS = 30_000
+const WAIT_RESUME_INTERVAL_MS = 30_000
 
-type TickKind = OverloadResumeVerdict["kind"] | "unreachable" | "none"
+type TickKind = WaitResumeVerdict["kind"] | "unreachable" | "none"
 
 function kindsOf(statuses: readonly number[]): string {
   const seen = [...new Set(statuses)].map((one) =>
@@ -30,7 +30,7 @@ function kindsOf(statuses: readonly number[]): string {
   return seen.length === 0 ? "none" : seen.join(" and ")
 }
 
-export function startOverloadResumeMonitor(opts: {
+export function startWaitResumeMonitor(opts: {
   getAgentId: () => string | null
   log?: (line: string) => void
   readTranscriptTail?: (agentId: string) => string | null
@@ -81,48 +81,48 @@ export function startOverloadResumeMonitor(opts: {
         return
       }
       const now = nowFn()
-      const waitMs = overloadWaitMs(reading.consecutive)
-      if (waitMs >= OVERLOAD_MAX_WAIT_MS && !ceilingReported) {
+      const currentWaitMs = waitMs(reading.consecutive)
+      if (currentWaitMs >= WAIT_MAX_MS && !ceilingReported) {
         ceilingReported = true
         opts.log?.(
-          `overload-resume: ${agentId} has died ${reading.consecutive} times running ` +
+          `wait-resume: ${agentId} has died ${reading.consecutive} times running ` +
             `(${kindsOf(reading.statuses)}) and its wait is at the ceiling — ` +
             "still being nudged, and still not working"
         )
       }
-      const answer = await askOverloadResume(ask, {
-        overloadDetected: true,
-        consecutiveOverloads: reading.consecutive,
+      const answer = await askWaitResume(ask, {
+        deathDetected: true,
+        consecutiveDeaths: reading.consecutive,
         lastNudgeAtMs,
         now,
       })
       if ("unreachable" in answer) {
-        note("unreachable", `overload-resume: ${answer.unreachable}`)
+        note("unreachable", `wait-resume: ${answer.unreachable}`)
         return
       }
       const verdict = answer.verdict
       if (verdict.kind !== "nudge") {
-        note(verdict.kind, `overload-resume: ${verdict.kind} for ${agentId} — ${verdict.reason}`)
+        note(verdict.kind, `wait-resume: ${verdict.kind} for ${agentId} — ${verdict.reason}`)
         return
       }
-      if (await hasRecentNudge(agentId, verdict.nudge, waitMs)) {
-        note("hold", `overload-resume: ${agentId} was nudged within ${waitMs}ms — holding`)
+      if (await hasRecentNudge(agentId, verdict.nudge, currentWaitMs)) {
+        note("hold", `wait-resume: ${agentId} was nudged within ${currentWaitMs}ms — holding`)
         return
       }
       await injectNudge(agentId, verdict.nudge)
       lastNudgeAtMs = now
       lastKind = "nudge"
       opts.log?.(
-        `overload-resume: nudged ${agentId} after ${kindsOf(reading.statuses)} — ${verdict.reason}`
+        `wait-resume: nudged ${agentId} after ${kindsOf(reading.statuses)} — ${verdict.reason}`
       )
     } catch (err) {
-      opts.log?.(`overload-resume: tick error: ${String(err)}`)
+      opts.log?.(`wait-resume: tick error: ${String(err)}`)
     } finally {
       tickInFlight = false
     }
   }
 
-  const timer = setInterval(() => void tick(), opts.tickMs ?? OVERLOAD_RESUME_INTERVAL_MS)
+  const timer = setInterval(() => void tick(), opts.tickMs ?? WAIT_RESUME_INTERVAL_MS)
   timer.unref?.()
 
   return {

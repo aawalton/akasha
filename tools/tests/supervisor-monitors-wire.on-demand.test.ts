@@ -14,15 +14,15 @@ const PROXY_KEYS = ["getAgentId", "getLogDir", "getProxyHandle", "proxyLivenessR
 const RETURNED_KEYS = [
   "heartbeatTimer",
   "limitResumeMonitor",
-  "overloadResumeMonitor",
   "proxyLivenessMonitor",
+  "waitResumeMonitor",
 ]
 const RETURNED = {
   heartbeatTimerIsBuilt: true,
   proxyLivenessMonitorIsStarted: true,
   limitResumeMonitorIsStarted: true,
   limitResumeMonitorIsNull: false,
-  overloadResumeMonitorIsStarted: true,
+  waitResumeMonitorIsStarted: true,
 }
 
 const HEARTBEAT_KEYS_HERE = ["getAgentId", "polls"]
@@ -50,7 +50,7 @@ const standingFor = (
       ruleIsCalledAtWireTime: false,
     },
     { fn: "startLimitResumeMonitor", keys: ["getAgentId", "log"], agentId },
-    { fn: "startOverloadResumeMonitor", keys: ["getAgentId", "log"], agentId },
+    { fn: "startWaitResumeMonitor", keys: ["getAgentId", "log"], agentId },
   ],
   logLines: ["[local] probe-line"],
   stateGetterCallsDuringArm: 2,

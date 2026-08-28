@@ -7,9 +7,9 @@ import {
   type LimitResumeDecision,
 } from "./lib/decide-limit-resume.ts"
 import {
-  decideOverloadResume,
-  type OverloadResumeDecision,
-} from "./lib/decide-overload-resume.ts"
+  decideWaitResume,
+  type WaitResumeDecision,
+} from "./lib/decide-wait-resume.ts"
 import { decideRcDegradedBatch } from "./lib/decide-rc-degraded.ts"
 import { decideRemoteControlBatch } from "./lib/decide-remote-control.ts"
 import { planRestartNotice, type ResumeNotices } from "./lib/decide-restart-notice.ts"
@@ -19,7 +19,7 @@ import { RULE_DECISIONS } from "./lib/supervisor-decide-rules.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,
-  parseOverloadResume,
+  parseWaitResume,
   parseRcDegraded,
   parseRemoteControl,
   parseRestartNotice,
@@ -67,7 +67,7 @@ function limitResumeAnswer(decision: LimitResumeDecision): LimitResumeAnswer {
   return { kind: "nudge", reason: decision.reason, nudge, floorMs: LIMIT_RESUME_FLOOR_MS }
 }
 
-export type OverloadResumeAnswer =
+export type WaitResumeAnswer =
   | {
       readonly kind: "nudge"
       readonly reason: string
@@ -77,7 +77,7 @@ export type OverloadResumeAnswer =
   | { readonly kind: "wait"; readonly reason: string; readonly readyAtMs: number }
   | { readonly kind: "hold"; readonly reason: string }
 
-function overloadResumeAnswer(decision: OverloadResumeDecision): OverloadResumeAnswer {
+function waitResumeAnswer(decision: WaitResumeDecision): WaitResumeAnswer {
   if (decision.kind !== "nudge") return decision
   const nudge = requireNotice(notices(), OVERLOAD_NUDGE_NOTICE)
   return { kind: "nudge", reason: decision.reason, attempt: decision.attempt, nudge }
@@ -88,8 +88,8 @@ const DECISIONS: Readonly<Record<string, (value: unknown, path: string) => unkno
   remoteControl: (value, path) => decideRemoteControlBatch(parseRemoteControl(value, path)),
   claimedRedelivery: (value, path) => decideClaimedRedelivery(parseClaimedRedelivery(value, path)),
   limitResume: (value, path) => limitResumeAnswer(decideLimitResume(parseLimitResume(value, path))),
-  overloadResume: (value, path) =>
-    overloadResumeAnswer(decideOverloadResume(parseOverloadResume(value, path))),
+  waitResume: (value, path) =>
+    waitResumeAnswer(decideWaitResume(parseWaitResume(value, path))),
   rcDegraded: (value, path) => decideRcDegradedBatch(parseRcDegraded(value, path)),
   restartNotice: (value, path) => {
     const { event, ctx } = parseRestartNotice(value, path)
