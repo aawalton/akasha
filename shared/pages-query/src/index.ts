@@ -37,7 +37,9 @@ function isNativeFetch(candidate: unknown): boolean {
 function writingLiveFromATest(fetcher: Fetcher): boolean {
   if (typeof Bun === "undefined") return false
   if (statedOrigin() !== undefined) return false
-  if (!/\.test\.tsx?$/.test(Bun.main)) return false
+  if (!inATestRun()) return false
+  // THE NATIVE FETCH ONLY. A fetcher installed through `fetchThrough` answers off the checkouts in
+  // this process, and is refused by `tools/lib/live-store-write-guard.ts`, which knows the path.
   return isNativeFetch(fetcher)
 }
 
