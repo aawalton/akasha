@@ -10,6 +10,7 @@ import type { NamedSet, Vocabulary } from "./stated.ts"
 import { shapeMarkOf } from "../shape/mark.ts"
 import { type FileTree } from "../file-tree.ts"
 import { registryOf } from "./registry.ts"
+import { AKASHA, REPOS } from "../../repo/roots/roots.ts"
 import { recordsFor } from "./record.ts"
 import type { RecordField } from "./stated.ts"
 import { answeredWhole } from "./answer-cache.ts"
@@ -22,7 +23,18 @@ export const PROPERTY_ROOTS: readonly string[] = PROPERTY_GLOBS.map((one) =>
     .join("/")
 )
 
-const INSTRUCTIONS_REPO = "instructions"
+/**
+ * Which repositories a tree reads its files out of.
+ *
+ * A TREE SPANNING SEVERAL NAMES THEM ON `roots`, and one built over akasha alone names none, so an
+ * absent `roots` reads akasha rather than nothing. Filtered through `REPOS` so a repository named
+ * on `roots` but standing on no disk here is not counted as one this reads.
+ */
+function reposRead(tree: FileTree): readonly string[] {
+  const roots = tree.roots
+  if (roots === undefined) return [AKASHA]
+  return REPOS.filter((one) => roots[one] !== undefined)
+}
 
 export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabulary {
   const naming = types.find((one) => one.slug === TYPE_VOCABULARY)
@@ -31,11 +43,15 @@ export function vocabularyOf(types: readonly PageType[], tree: FileTree): Vocabu
   const claimedBy = reposOf(naming)
   if (claimedBy.length === 0)
     return { names: null, why: `\`${TYPE_VOCABULARY}\` claims no files, so nothing names the types` }
-  if (!claimedBy.includes(INSTRUCTIONS_REPO))
+  const read = reposRead(tree)
+  const unread = claimedBy.filter((one) => !read.includes(one))
+  if (unread.length === claimedBy.length) {
+    const here = read.length === 0 ? "no repository stands here" : `this reads \`${read.join("` and `")}\``
     return {
       names: null,
-      why: `\`${TYPE_VOCABULARY}\` claims its files in \`${claimedBy.join("` and `")}\`, which this reads none of`,
+      why: `\`${TYPE_VOCABULARY}\` claims its files in \`${unread.join("` and `")}\`, which nothing here reads — ${here}`,
     }
+  }
   const place = placeOf(naming.slug)
   const { standing, types: stated } = propertyTypesOf(tree)
   if (standing.length === 0)
@@ -149,7 +165,7 @@ export function chainOf(type: PageType, tree: FileTree, index?: ReadonlyMap<stri
 }
 
 export function pageTypeChain(relPath: string, repo: string, tree: FileTree): Specifiers {
-  const ownRepo = tree.roots !== undefined || repo === INSTRUCTIONS_REPO
+  const ownRepo = tree.roots !== undefined || repo === AKASHA
   if (ownRepo && matchesAny(relPath, globsIn(tree.roots, PAGE_TYPE_GLOBS)))
     return { relPaths: null, why: "the registry requires no reading of its own files" }
   const claim = claimant(relPath, registryOf(tree))
