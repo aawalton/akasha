@@ -13,10 +13,26 @@
     "./schema": "./src/schema/index.ts",
     "./router-context": "./src/router-context.tsx",
     "./vite": "./src/vite.ts",
-    "./*": [
-      "./src/*.ts",
-      "./src/*.tsx"
-    ]
+    "./capabilities/capability-hosts": "./src/capabilities/capability-hosts.tsx",
+    "./components/degrading-image": "./src/components/degrading-image.tsx",
+    "./components/nav-command-bindings-registrar": "./src/components/nav-command-bindings-registrar.tsx",
+    "./components/page-card-renderer": "./src/components/page-card-renderer.tsx",
+    "./components/page-detail-content": "./src/components/page-detail-content.tsx",
+    "./components/page-system-view": "./src/components/page-system-view.tsx",
+    "./components/pages-by-relation-content": "./src/components/pages-by-relation-content.tsx",
+    "./components/quick-add/create-page-dialog": "./src/components/quick-add/create-page-dialog.tsx",
+    "./components/reader-chrome": "./src/components/reader-chrome.tsx",
+    "./components/sortable-navs": "./src/components/sortable-navs.tsx",
+    "./components/use-app-nav-items": "./src/components/use-app-nav-items.tsx",
+    "./components/view-page-content": "./src/components/view-page-content.tsx",
+    "./components/view-page-frame": "./src/components/view-page-frame.tsx",
+    "./frame/display-frame": "./src/frame/display-frame.tsx",
+    "./frame/frame-view-properties-menu": "./src/frame/frame-view-properties-menu.tsx",
+    "./media/page-media-player": "./src/media/page-media-player.tsx",
+    "./media/playing-session-context": "./src/media/playing-session-context.tsx",
+    "./option-create-context": "./src/option-create-context.tsx",
+    "./use-user-id": "./src/use-user-id.tsx",
+    "./*": "./src/*.ts"
   },
   "peerDependencies": {
     "@dnd-kit/core": ">=6",
