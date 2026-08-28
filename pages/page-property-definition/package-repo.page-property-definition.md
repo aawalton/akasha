@@ -6,8 +6,7 @@ defined-on-slug: page-type/package
 key: repo
 type: select(slug)
 values:
-  - code
-  - instructions
+  - akasha
 required: true
 slug: package-repo
 domain-parent-slug: page-type/package
