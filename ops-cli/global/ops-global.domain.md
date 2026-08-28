@@ -11,3 +11,7 @@ required-reading-slugs:
 # Definition
 
 - **Ops global** — the commands `ops` answers to by name alone.
+
+# Design
+
+Only `write` and `edit` hold a write to what its author has read.
