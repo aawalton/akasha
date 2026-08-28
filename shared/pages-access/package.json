@@ -15,7 +15,6 @@
     "./file-shape": "./src/file-shape.ts",
     "./file-write": "./src/file-write.ts",
     "./over-server": "./src/over-server.ts",
-    "./test-support": "./src/test-support.ts",
     "./*": "./src/*.ts"
   },
   "dependencies": {
