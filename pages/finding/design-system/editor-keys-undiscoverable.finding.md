@@ -3,7 +3,7 @@ id: afb079c1-2ac6-5d77-8d56-55561e8b47ea
 slug: editor-keys-undiscoverable
 page-type-slug: finding
 title: "Editor keys undiscoverable"
-domain-slug: domain/pages-system
+domain-slug: domain/design-system
 ---
 
 # Claim
