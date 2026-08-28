@@ -77,11 +77,20 @@ export const relationsResolve: Check = (repo) => {
     }
   }
   const broken = clean.length + quarantined.length
+  const unreadable = bearers.missed.size === 0 ? [] : unread(bearers.missed)
+  // EVERY LINE THAT DECIDES THE VERDICT IS A LINE THE READER IS SHOWN. `refusing` was once built
+  // here and thrown away, a second list going out as `messages`, so a page whose frontmatter would
+  // not parse failed this check on a line nobody ever saw: the verdict read `fail` under a summary
+  // whose every count read clean. `refusing` is a prefix of `shown`, and the summary names all
+  // three counts, so no number here stands without its lines under it.
+  const refusing = [...clean, ...unreadable]
+  const shown = [...refusing, ...quarantined]
   const verdict = judge(
     NAME,
     `${total - broken} of ${total} relations resolve across ${pages} page(s) of ${types.length} ` +
-      `page type(s) — ${clean.length} unresolved among the live pages, ${quarantined.length} under quarantine`,
-    [...clean, ...(bearers.missed.size === 0 ? [] : unread(bearers.missed))]
+      `page type(s) — ${clean.length} unresolved among the live pages, ${quarantined.length} under ` +
+      `quarantine, ${bearers.missed.size} page(s) that could not be read`,
+    refusing
   )
-  return { ...verdict, messages: [...clean, ...quarantined], population: over(total, "relation(s)") }
+  return { ...verdict, messages: shown, population: over(total, "relation(s)") }
 }
