@@ -3,10 +3,10 @@ import {
   GREEN_DAY_POINTS_FIELD,
   kebabKey,
   numberOf,
-  patchPage,
   textOf,
   WRITER,
 } from "./tracking-modules.ts"
+import { upsertPage } from "@shared/pages-access/upsert"
 import { PERSONA_DAY_PAGE_TYPE_SLUG } from "./persona-day-points.ts"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 
@@ -69,15 +69,15 @@ export async function rescorePersona(args: {
   let written = 0
   if (!dryRun) {
     for (const day of drifted) {
-      const landed = await patchPage(
-        PERSONA_DAY_PAGE_TYPE_SLUG,
-        day.name,
-        { [GREEN_DAY_POINTS_KEY]: day.newBar },
-        WRITER
-      )
-      if (!landed.ok) {
-        throw new Error(`the ${day.name} bar went unwritten: ${landed.why}`)
-      }
+      await upsertPage({
+        pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
+        where: [
+          { key: "persona-slug", eq: slug },
+          { key: "date", eq: day.dayStr },
+        ],
+        set: { [GREEN_DAY_POINTS_KEY]: day.newBar },
+        writer: WRITER,
+      })
       written++
     }
   }

@@ -1,11 +1,6 @@
 import { z } from "zod"
-import {
-  askComposed,
-  DEFAULT_GREEN_DAY_POINTS,
-  kebabKey,
-  patchPage,
-  WRITER,
-} from "./tracking-modules.ts"
+import { askComposed, DEFAULT_GREEN_DAY_POINTS, kebabKey, WRITER } from "./tracking-modules.ts"
+import { upsertPage } from "@shared/pages-access/upsert"
 import { personaRecipeRows } from "./persona-recipe-rows.ts"
 import type { WriteOutcome } from "./tracking-types.ts"
 
@@ -72,15 +67,15 @@ async function patchPersonaDayFields(
   if (!stood) values["source-points"] = 0
   for (const [key, value] of Object.entries(fields)) values[kebabKey(key)] = value
 
-  const written = await patchPage(
-    PERSONA_DAY_PAGE_TYPE_SLUG,
-    `${persona.slug}/${dayStr}`,
-    values,
-    WRITER
-  )
-  if (!written.ok) {
-    throw new Error(`the ${persona.title} persona day for ${dayStr} went unwritten: ${written.why}`)
-  }
+  await upsertPage({
+    pageTypeSlug: PERSONA_DAY_PAGE_TYPE_SLUG,
+    where: [
+      { key: "persona-slug", eq: persona.slug },
+      { key: "date", eq: dayStr },
+    ],
+    set: values,
+    writer: WRITER,
+  })
   return stood ? "patched" : "created"
 }
 
