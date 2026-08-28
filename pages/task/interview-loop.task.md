@@ -17,7 +17,7 @@ domain-parent-slug: page-type/task
    - **Follow** what they just said rather than returning to the questions you drew up. Those were written before they spoke, so a session that is working leaves most of them unasked, and reading down the list turns an interview into a form.
 
 2. **Where the answer goes.**
-   - **Land** it against the standing domain where one already holds the subject, per the rules binding whichever part you would change.
+   - **Delegate** the landing to a subagent, naming the standing domain it goes against and the rules binding whichever part it would change. Landing in-session spends the context the conversation runs on and stalls the turn you owe them.
    - **Run** [define-domain-structure](define-domain-structure.task.md) where what they said needs a domain that is not there. Creating one outside that task lands a shape nobody settled, and the edges are the expensive part to move afterwards.
    - **File** it through [file-finding](file-finding.task.md) where what they said is an observation nobody has judged yet.
 
