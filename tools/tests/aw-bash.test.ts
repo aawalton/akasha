@@ -84,11 +84,11 @@ describe("generateBashInit — the set it defines", () => {
     expect(cuMatch[0] ?? "").not.toContain(PROXY)
   })
 
-  it("cu reads the account pages themselves rather than running a script over them", () => {
+  it("cu delegates to the ops command that reads the account pages", () => {
     const body = output.match(new RegExp(`${implName("cu")}\\(\\) \\{[\\s\\S]*?^}`, "m"))?.[0] ?? ""
-    expect(body).toContain('"$_root/pages/claude-account"')
-    expect(body).toContain("*.uncommitted.yaml")
-    expect(body).not.toContain("bun run")
+    expect(body).toContain(`bun run ${OPS} claude-account usage`)
+    expect(body).not.toContain("uncommitted.yaml")
+    expect(body).not.toContain("awk")
   })
 
   it("every reauth function ends with `tput reset` + exit-code preservation (initiative #11586)", () => {
