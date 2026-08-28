@@ -1,0 +1,12 @@
+import type { PagePropertyType } from "../page/page-property-type.page-type.ts"
+
+export type Warrant = string
+
+export const warrant = {
+  id: "01a049c9-3a2c-73fb-98e4-6576fd3968b4",
+  slug: "warrant",
+  definition: "the general fact an act follows from",
+  extendsSlug: null,
+  nameFormatSlug: null,
+  max: 100,
+} as const satisfies PagePropertyType

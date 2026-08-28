@@ -4,7 +4,9 @@ import type { Condition } from "./condition.page-property-type.ts"
 import type { Design } from "./design.page-property-type.ts"
 import type { DomainParentSlug } from "./domain-parent-slug.page-property-type.ts"
 import type { Intent } from "./intent.page-property-type.ts"
+import type { Principles } from "./principles.page-property-type.ts"
 import type { RequiredReadingSlugs } from "./required-reading-slugs.page-property-type.ts"
+import type { Rules } from "./rules.page-property-type.ts"
 import type { SequenceSlugs } from "./sequence-slugs.page-property-type.ts"
 import type { Settled } from "./settled.page-property-type.ts"
 
@@ -16,6 +18,8 @@ export type Domain = Page & {
   design: Design
   condition: Condition
   intent: Intent
+  principles: Principles
+  rules: Rules
 }
 
 export const domain = {
