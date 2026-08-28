@@ -39,9 +39,9 @@ export interface Where {
  * state no slug at all.
  *
  * WITHOUT THE SLUG PASS, a page whose stated slug is not its stem is unreachable the other way, and
- * the write files a second page carrying an address the first already holds. Two pages of 58,993
- * stand in that shape today — `pages/life-theme/temper.life-theme.md` states `slug: 946`, and
- * `graph/edge-producer/relation/relation.graph-edge-producer.md` states `slug: relation-producer`.
+ * the write files a second page carrying an address the first already holds. No page of 59,247
+ * stands in that shape: the two that did were faults `page-named-as-stated` reported, and each has
+ * been named to its stem, so the pass guards a shape the corpus no longer holds.
  * Note that a slug-stating page which DOES stand at its composed path is reached either way, because
  * the fallback rebuilds its exact path; the duplicate needs the drift and a nested page to show up.
  *
