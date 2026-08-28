@@ -13,6 +13,8 @@ import {
 } from "../page-types.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { builtFrom, loadPages } from "../index/store/store.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
+import { canonicalize } from "../../repo/path/path.ts"
 
 const registries = new WeakMap<FileTree, readonly PageType[]>()
 
@@ -82,16 +84,37 @@ function statedOver(relPaths: readonly string[], tree: FileTree): ReadonlyMap<st
  * what has not. A path this write takes away wants no subtracting: the caller opens each one
  * against the proposed tree, which answers null for a page that is going.
  */
+/**
+ * Whether the index answers for this tree.
+ *
+ * THE INDEX IS BUILT OVER ONE CHECKOUT, the one `AKASHA_ROOT` names, and it carries that
+ * checkout's paths and no others. A tree standing anywhere else holds none of them: a fixture
+ * written into a temp directory, or one composed in memory that names no root at all. Folded into
+ * such a tree the index hands it every path the real akasha holds, `open` answers null for each,
+ * and `declaredOver` reads each null as a declaration the tree could not produce and refuses the
+ * whole reading over — 2288 of them against a fixture holding twenty.
+ *
+ * A TREE THAT NAMES NO ROOT STANDS OVER NO CHECKOUT, which is the reading `composed` and every
+ * held answer already take of an absent `root`.
+ */
+function overTheIndex(tree: FileTree): boolean {
+  const root = tree.root
+  if (root === undefined) return false
+  return canonicalize(root) === canonicalize(akashaRoot())
+}
+
 export function indexedPaths(
   tree: FileTree,
   kinds: ReadonlySet<string>,
   globs: readonly string[]
 ): readonly string[] {
   const found = new Set<string>()
-  for (const one of loadPages()) {
-    if (!kinds.has(one.type)) continue
-    if (tree.roots !== undefined && tree.roots[one.repo] === undefined) continue
-    found.add(one.key)
+  if (overTheIndex(tree)) {
+    for (const one of loadPages()) {
+      if (!kinds.has(one.type)) continue
+      if (tree.roots !== undefined && tree.roots[one.repo] === undefined) continue
+      found.add(one.key)
+    }
   }
   for (const relPath of [...tree.paths(globsIn(tree.roots, globs)), ...(tree.pending ?? [])]) {
     const kind = pageTypeOf(relPath)
