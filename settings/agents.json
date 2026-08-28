@@ -264,11 +264,6 @@
         "hooks": [
           {
             "type": "command",
-            "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/agent-hook-forward-turn-to-recorder.agent-hook.code.attachment.ts",
-            "timeout": 1
-          },
-          {
-            "type": "command",
             "command": "$HOME/.bun/bin/bun $HOME/repos/akasha/tools/hooks/inference-hook-block-headless-halt.inference-hook.code.attachment.ts",
             "timeout": 25
           },
