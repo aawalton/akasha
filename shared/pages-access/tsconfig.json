@@ -53,6 +53,7 @@
     "../../graph/node-producer/node-shape.ts",
     "../../graph/page-index/page-index.ts",
     "../../graph/page-type-above/page-type-above.ts",
+    "../../missing/missing.ts",
     "../../named-for/named-for.ts",
     "../../page/attachment-file.ts",
     "../../page/document/frontmatter.ts",
