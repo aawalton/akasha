@@ -120,6 +120,18 @@ export function rootBeside(repo: string): string {
   return resolve(HERE, "..", repo)
 }
 
+/**
+ * Where one repository's real checkout stands, whatever any `*_ROOT` variable says.
+ *
+ * `rootBeside` ANSWERS WHERE A CALLER IS POINTED; THIS ANSWERS WHERE ALAN'S OWN COPY IS. They read
+ * the same on a run that states no root, and apart on one that states a fixture — which is the only
+ * case either is asked about.
+ */
+export function checkoutBeside(repo: string): string {
+  if (repo === AKASHA) return CHECKOUT_HERE
+  return resolve(CHECKOUT_HERE, "..", repo)
+}
+
 function rootOf(repo: string): string {
   const stated = process.env[rootEnvName(repo)]
   if (stated === undefined || stated === "") return rootBeside(repo)
