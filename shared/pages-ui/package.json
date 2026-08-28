@@ -9,7 +9,6 @@
     "./media-server": "./src/media/media-server.ts",
     "./supabase/page-resolver-provider": "./src/supabase/page-resolver-provider.tsx",
     "./supabase/use-pages": "./src/supabase/use-pages.tsx",
-    "./schema": "./src/schema/index.ts",
     "./router-context": "./src/router-context.tsx",
     "./vite": "./src/vite.ts",
     "./capabilities/capability-hosts": "./src/capabilities/capability-hosts.tsx",
