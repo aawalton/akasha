@@ -7,15 +7,21 @@ import type { Repo } from "../../page/document/types.ts"
 import { over } from "../../outcome/outcome"
 import { runChecks } from "../run-checks.ts"
 
+/** The repository beside the pages, standing empty so that no page type here claims it. */
+const BESIDE = "code-editor"
+
+const EMPTY = `empty-${BESIDE}`
+
+/**
+ * A fixture checkout named as the repository the pages stand in, beside an empty checkout of the
+ * one repository standing next to it.
+ *
+ * `Roots` is an open record, so a key naming a repository that no longer exists type-checks and
+ * goes wrong only where something reaches for it. Every root named here is walked whole, so each
+ * must be a directory that stands rather than a path that is merely spelled.
+ */
 function rootsAt(akasha: string): RepoView["roots"] {
-  return {
-    akasha,
-    code: `${akasha}/nonexistent-code`,
-    memory: `${akasha}/nonexistent-memory`,
-    books: `${akasha}/nonexistent-books`,
-    stories: `${akasha}/nonexistent-stories`,
-    "code-editor": `${akasha}/nonexistent-code-editor`,
-  }
+  return { akasha, [BESIDE]: join(akasha, EMPTY) }
 }
 
 function viewOf(name: Repo, akasha: string, documents: readonly string[] = []): RepoView {
@@ -26,7 +32,7 @@ const HERE = new URL("../../", import.meta.url).pathname
 
 function liveView(documents: readonly string[]): RepoView {
   return {
-    roots: rootsAt(HERE),
+    roots: { akasha: HERE },
     name: "akasha",
     documents,
     read: (relPath) => readFileSync(`${HERE}${relPath}`, "utf8"),
@@ -34,8 +40,14 @@ function liveView(documents: readonly string[]): RepoView {
   }
 }
 
-function registryClaimingInstructions(): string {
-  const root = mkdtempSync(join("/var/tmp", "8b62-registry-"))
+function checkoutAt(prefix: string): string {
+  const root = mkdtempSync(join("/var/tmp", prefix))
+  mkdirSync(join(root, EMPTY), { recursive: true })
+  return root
+}
+
+function registryClaimingAkasha(): string {
+  const root = checkoutAt("8b62-registry-")
   mkdirSync(join(root, "pages", "page-type"), { recursive: true })
   writeFileSync(
     join(root, "pages", "page-type", "domain.page-type.md"),
@@ -47,9 +59,9 @@ function registryClaimingInstructions(): string {
 
 describe("pages-hold-shape over a repo no page type claims", () => {
   test("says it does not apply, rather than passing or failing", () => {
-    const root = registryClaimingInstructions()
+    const root = registryClaimingAkasha()
     try {
-      const outcome = pagesHoldShape(viewOf("books", root))
+      const outcome = pagesHoldShape(viewOf(BESIDE, root))
       expect(outcome.verdict).toBe("not-applicable")
       expect(outcome.population).toEqual(over(0, "claimed page(s)"))
     } finally {
@@ -58,22 +70,22 @@ describe("pages-hold-shape over a repo no page type claims", () => {
   })
 
   test("names why it did not apply, an unexplained skip being the defect rather than the fix", () => {
-    const root = registryClaimingInstructions()
+    const root = registryClaimingAkasha()
     try {
-      const outcome = pagesHoldShape(viewOf("books", root))
-      expect(outcome.detail).toContain("books")
-      expect(outcome.detail).toContain("no page type names books")
+      const outcome = pagesHoldShape(viewOf(BESIDE, root))
+      expect(outcome.detail).toContain(BESIDE)
+      expect(outcome.detail).toContain(`no page type names ${BESIDE}`)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
   })
 
   test("parts a registry claiming nothing anywhere from one claiming another repo", () => {
-    const bare = mkdtempSync(join("/var/tmp", "8b62-bare-"))
-    const claiming = registryClaimingInstructions()
+    const bare = checkoutAt("8b62-bare-")
+    const claiming = registryClaimingAkasha()
     try {
-      const outcome = pagesHoldShape(viewOf("books", bare))
-      const elsewhere = pagesHoldShape(viewOf("books", claiming))
+      const outcome = pagesHoldShape(viewOf(BESIDE, bare))
+      const elsewhere = pagesHoldShape(viewOf(BESIDE, claiming))
       expect(outcome.verdict).toBe("not-applicable")
       expect(elsewhere.verdict).toBe("not-applicable")
       expect(outcome.detail).not.toBe(elsewhere.detail)
@@ -103,7 +115,7 @@ describe("a not-applicable a check certified over an empty population", () => {
 
   test("survives certification, having already said what it measured and why", async () => {
     const outcomes = await runChecks(
-      { quiet: { repos: ["books"], run: () => skipped("quiet") } },
+      { quiet: { repos: [BESIDE], run: () => skipped("quiet") } },
       (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
@@ -113,7 +125,7 @@ describe("a not-applicable a check certified over an empty population", () => {
 
   test("does not stop the suite, an honest emptiness being no refusal", async () => {
     const outcomes = await runChecks(
-      { quiet: { repos: ["books"], run: () => skipped("quiet") } },
+      { quiet: { repos: [BESIDE], run: () => skipped("quiet") } },
       (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
@@ -129,7 +141,7 @@ describe("a not-applicable a check certified over an empty population", () => {
       population: over(0, "thing(s)"),
     })
     const outcomes = await runChecks(
-      { quiet: { repos: ["books"], run: passing } },
+      { quiet: { repos: [BESIDE], run: passing } },
       (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
