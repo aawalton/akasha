@@ -5,6 +5,8 @@ import { type Frontmatter, listField, textField } from "../../page/frontmatter.t
 import { slugNamed } from "../../page/page-address.ts"
 import { computedOn } from "../../page/property/computed.ts"
 import { ATTACHMENT, type Held } from "./page-file-values.ts"
+import type { Property } from "../../page/property/property.ts"
+import type { Held as Declaring } from "../../page/property/stated.ts"
 import {
   DEFINED_ON,
   filedIn,
@@ -81,6 +83,24 @@ function fallbackIn(fm: Frontmatter, key: string): Held {
   const stated = textField(fm, key)
   if (stated !== null) return stated
   const listed = listField(fm, key)
+  return listed.length === 0 ? null : listed
+}
+
+/**
+ * What a property's `default:` is worth to a page.
+ *
+ * A DECLARATION HOLDS A WIDER VALUE THAN A PAGE DOES. `Property.default` is the frontmatter as it
+ * parsed, which may nest maps; a value handed back for a page is a string, a list of strings, or
+ * nothing. This is the one place that gap is crossed: a string trimmed, an empty one taken as
+ * none, a list kept for its strings alone, and anything else taken as none.
+ */
+export function fallbackOf(one: Property): Held {
+  const held: Declaring | null = one.default
+  if (typeof held === "string") return held.trim() === "" ? null : held.trim()
+  if (!Array.isArray(held)) return null
+  const listed = held
+    .filter((each): each is string => typeof each === "string")
+    .map((each) => each.trim())
   return listed.length === 0 ? null : listed
 }
 

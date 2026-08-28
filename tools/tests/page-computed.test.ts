@@ -1,7 +1,8 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { declarationsIn } from "../lib/page-declared.ts"
+import { declarationsFromFiles } from "../../page/property/declarations.ts"
+import { diskFileTree } from "../../page/file-tree.ts"
 import type { Roots } from "../../page/page"
 
 const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n---\n`
@@ -42,7 +43,10 @@ const ROOTS: Roots = {
   akasha: root,
 }
 
-const computedOf = (slug: string): boolean | undefined => declarationsIn(ROOTS).bySlug.get(slug)?.computed
+const computedOf = (slug: string): boolean | undefined =>
+  (declarationsFromFiles(diskFileTree(ROOTS)).bySlug.get("tree") ?? []).find(
+    (one) => one.slug === slug
+  )?.computed
 
 describe("whether a property is computed", () => {
   it("is answered by an expression, which is what says a property is worked out", () => {

@@ -1,4 +1,5 @@
-import { type Declared, type Kind } from "./page-declared.ts"
+import { type Kind } from "./page-declared.ts"
+import type { Property } from "../../page/property/property.ts"
 import { type Backed, type Relation } from "./page-derive-shape.ts"
 import { placeOf } from "../../page/page-types.ts"
 import { isAddressable } from "../../repo/roots/roots.ts"
@@ -13,8 +14,8 @@ export interface Backing {
 
 export function backingOver(
   kinds: ReadonlyMap<string, Kind>,
-  declared: ReadonlyMap<string, ReadonlyMap<string, Declared>>,
-  carriers: ReadonlyMap<string, readonly Declared[]>,
+  declared: ReadonlyMap<string, ReadonlyMap<string, Property>>,
+  carriers: ReadonlyMap<string, readonly Property[]>,
   chainOf: (kind: string) => readonly string[],
   fault: (why: string) => void
 ): Backing {
@@ -38,7 +39,7 @@ export function backingOver(
   const backed = (): readonly Backed[] => {
     const found: Backed[] = []
     for (const [slug, kind] of kinds) {
-      const heldBy = (carriers.get(slug) ?? []).map((each) => `${each.on}.${each.key}`).sort()
+      const heldBy = (carriers.get(slug) ?? []).map((each) => `${each.on}.${each.name}`).sort()
       const filed = isFiled(slug)
       if (!filed && heldBy.length === 0) continue
       const namedFor =

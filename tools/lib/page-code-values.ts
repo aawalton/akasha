@@ -1,5 +1,5 @@
 import { statusOfShape } from "../../file-structure/folder-shape/folder-shape.ts"
-import type { Declared } from "./page-declared.ts"
+import type { Property } from "../../page/property/property.ts"
 import type { Held } from "./page-file-values.ts"
 import type { Reached } from "./page-reach.ts"
 import { seatIsAttached } from "./seat-attached-read.ts"
@@ -18,7 +18,7 @@ const PRESENCE_HELD: Readonly<Record<SeatPresence, Held>> = {
 }
 
 export interface Deriving {
-  readonly declared: ReadonlyMap<string, ReadonlyMap<string, Declared>>
+  readonly declared: ReadonlyMap<string, ReadonlyMap<string, Property>>
   readonly chainOf: (pageType: string) => readonly string[]
 }
 

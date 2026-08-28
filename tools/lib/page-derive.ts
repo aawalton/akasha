@@ -3,14 +3,16 @@ import { rowsPagesIn } from "./page-rows.ts"
 import {
   BACK,
   ROWS,
-  type Declared,
-  declarationsIn,
+  fallbackOf,
   EXPRESSION,
   FROM,
   type Kind,
   kindsIn,
   TARGET,
 } from "./page-declared.ts"
+import type { Property } from "../../page/property/property.ts"
+import { declarationsFromFiles } from "../../page/property/declarations.ts"
+import { diskFileTree } from "../../page/file-tree.ts"
 import {
   along,
   listing,
@@ -44,11 +46,32 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const carryPages = carries.pages === true
   const only = narrowing(carries.only)
   const kinds = kindsIn(roots)
-  const { byKind: declared, bySlug } = declarationsIn(roots)
   const chains = new Map<string, readonly string[]>()
   const loaded = new Map<string, readonly Page[]>()
+  const faults = new Set<string>()
 
-  const carriers = new Map<string, Declared[]>()
+  // THE DECLARATIONS THE WRITE PATH READS, read here too. A second reader of the same property
+  // pages stood in this file until it was taken away: it built a record of its own, called the
+  // result `Declarations` as this one does, and keyed it by the property's slug where this one
+  // keys by the page type. Neither name warned of the other, and which answer a caller got
+  // turned on which door it came in by.
+  //
+  // A FAULT IS A READING THAT DID NOT HAPPEN, never a set that came back empty, so it is raised
+  // here rather than left to a caller reading past it.
+  const read = declarationsFromFiles(diskFileTree(roots))
+  if (read.fault !== null) faults.add(read.fault)
+  const declared = new Map<string, Map<string, Property>>()
+  const bySlug = new Map<string, Property>()
+  for (const [on, standing] of read.bySlug) {
+    const held = new Map<string, Property>()
+    for (const one of standing) {
+      if (!held.has(one.name)) held.set(one.name, one)
+      if (!bySlug.has(one.slug)) bySlug.set(one.slug, one)
+    }
+    declared.set(on, held)
+  }
+
+  const carriers = new Map<string, Property[]>()
   for (const one of bySlug.values()) {
     if (one.rows === null || one.target === null) continue
     const held = carriers.get(one.target) ?? []
@@ -60,7 +83,6 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const namers = new Map<string, ReadonlyMap<string, readonly string[]>>()
   const walking = new Set<string>()
   const naming = new Set<string>()
-  const faults = new Set<string>()
 
   const chainOf = (kind: string): readonly string[] => {
     const held = chains.get(kind)
@@ -77,7 +99,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return chain
   }
 
-  const declarationFor = (kind: string, key: string): Declared | null => {
+  const declarationFor = (kind: string, key: string): Property | null => {
     for (const one of chainOf(kind)) {
       const found = declared.get(one)?.get(key)
       if (found !== undefined) return found
@@ -88,7 +110,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   const typeOf = (kind: string, key: string): string | null => {
     const declaration = declarationFor(kind, key)
     if (declaration === null) return null
-    return declaration.type
+    return declaration.type === "" ? null : declaration.type
   }
 
   const largeKeys = (kind: string): readonly string[] => {
@@ -99,15 +121,15 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     return [...found].sort()
   }
 
-  const derivedOn = (kind: string): ReadonlyMap<string, Declared> => {
-    const found = new Map<string, Declared>()
+  const derivedOn = (kind: string): ReadonlyMap<string, Property> => {
+    const found = new Map<string, Property>()
     for (const one of chainOf(kind))
       for (const [key, declaration] of declared.get(one) ?? [])
         if (
           !found.has(key) &&
           (declaration.from.length > 0 ||
             declaration.back !== null ||
-            declaration.fallback !== null ||
+            fallbackOf(declaration) !== null ||
             declaration.expression !== null ||
             declaration.relation !== null ||
             declaration.reduction !== null ||
@@ -122,7 +144,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
   // keeps three and a half million rows across eleven thousand sidecars, so a map of them keyed by
   // holder would carry every one for as long as the deriver stood. `page-rows.ts` holds the
   // sidecars it has parsed under a bound of its own, so a second walk costs the parse and no more.
-  const rowsPagesFor = (parent: Page, declaration: Declared): readonly Page[] => {
+  const rowsPagesFor = (parent: Page, declaration: Property): readonly Page[] => {
     const target = declaration.target
     if (target === null) {
       faults.add(
@@ -135,7 +157,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       parent.at,
       parent.named,
       declaration.on,
-      declaration.key,
+      declaration.name,
       declaration.uncommitted,
       (why) =>
       faults.add(why)
@@ -212,7 +234,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     bound: WALK_BOUND,
   }
 
-  const namersFor = (declaration: Declared, depth: number): ReadonlyMap<string, readonly string[]> => {
+  const namersFor = (declaration: Property, depth: number): ReadonlyMap<string, readonly string[]> => {
     const held = namers.get(declaration.slug)
     if (held !== undefined) return held
     const source = declaration.back === null ? undefined : bySlug.get(declaration.back)
@@ -226,7 +248,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
     const made = new Map<string, string[]>()
     for (const kind of beneath(source.on))
       for (const page of pagesOf(kind))
-        for (const named of listing(valueOf(page, source.key, depth + 1))) {
+        for (const named of listing(valueOf(page, source.name, depth + 1))) {
           const at = slugNamed(named)
           const names = made.get(at) ?? []
           names.push(page.named)
@@ -291,12 +313,12 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
         return null
       }
       if (depth >= WALK_BOUND) return null
-      return namersFor(declaration, depth).get(page.named) ?? declaration.fallback
+      return namersFor(declaration, depth).get(page.named) ?? fallbackOf(declaration)
     }
     if (declaration.rows !== null) return rowsPagesFor(page, declaration).map((one) => one.named)
     const computed = codeValueFor(declaration.slug)
     if (computed !== undefined) return computed(page, { declared, chainOf })
-    if (declaration.from.length === 0) return declaration.fallback
+    if (declaration.from.length === 0) return fallbackOf(declaration)
     const mark = `${page.at}#${key}`
     const answered = settled.get(mark)
     if (answered !== undefined) return answered
@@ -308,12 +330,12 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       if (answer !== null) break
     }
     walking.delete(mark)
-    if (answer === null) answer = declaration.fallback
+    if (answer === null) answer = fallbackOf(declaration)
     settled.set(mark, answer)
     return answer
   }
 
-  const rowOf = (page: Page, derived: ReadonlyMap<string, Declared>): Row => {
+  const rowOf = (page: Page, derived: ReadonlyMap<string, Property>): Row => {
     if (derived.size === 0) return { at: page.at, values: page.values }
     const values: Record<string, Held> = { ...page.values }
     for (const key of derived.keys()) values[key] = valueOf(page, key, 0)

@@ -1,4 +1,5 @@
-import { type Declared, OVER, REDUCTION, RELATION, TARGET } from "./page-declared.ts"
+import { fallbackOf, OVER, REDUCTION, RELATION, TARGET } from "./page-declared.ts"
+import type { Property } from "../../page/property/property.ts"
 import type { Held, Values } from "./page-file-values.ts"
 import { foundIn } from "./page-derive-index.ts"
 
@@ -18,7 +19,7 @@ export interface Reached {
 }
 
 export interface Reaching {
-  readonly declarationFor: (kind: string, key: string) => Declared | null
+  readonly declarationFor: (kind: string, key: string) => Property | null
   readonly indexFor: (target: string, slugProperty: string | null) => ReadonlyMap<string, Reached>
   readonly valueOf: (page: Reached, key: string, depth: number) => Held
   readonly fault: (why: string) => void
@@ -36,14 +37,14 @@ export function listing(held: Held): readonly string[] {
 // choose between refusing a correct rollup and passing a stale one. `declarationFor` walks `extends-slug`,
 // which is the same walk that settles every other property, so it finds the inherited declaration.
 function staleCopy(
-  one: Declared,
-  declarationFor: (kind: string, key: string) => Declared | null
+  one: Property,
+  declarationFor: (kind: string, key: string) => Property | null
 ): string | null {
   const walked = declarationFor(one.on, one.relation ?? "")
   const reaches = walked?.target ?? null
   if (reaches === null) return null
   const held = declarationFor(reaches, one.over ?? "")
-  if (held === null || held.type === null || one.type === null || held.type === one.type) return null
+  if (held === null || held.type === "" || one.type === "" || held.type === one.type) return null
   return (
     `states \`type: ${one.type}\` and reads \`${OVER}: ${one.over}\` on \`${reaches}\`, which holds ` +
     `\`${held.type}\`, so a reader of this property is told it holds one type and handed another`
@@ -51,8 +52,8 @@ function staleCopy(
 }
 
 export function underivable(
-  one: Declared,
-  declarationFor: (kind: string, key: string) => Declared | null
+  one: Property,
+  declarationFor: (kind: string, key: string) => Property | null
 ): string | null {
   if (one.relation === null) {
     if (one.reduction === null) return null
@@ -101,7 +102,7 @@ export function along(
 
 function reachedFrom(
   page: Reached,
-  declaration: Declared,
+  declaration: Property,
   depth: number,
   reach: Reaching
 ): readonly Reached[] {
@@ -121,7 +122,7 @@ function reachedFrom(
   }
   const index = reach.indexFor(relation.target, relation.slugProperty)
   const found: Reached[] = []
-  for (const one of listing(reach.valueOf(page, relation.key, depth + 1))) {
+  for (const one of listing(reach.valueOf(page, relation.name, depth + 1))) {
     const next = foundIn(index, one)
     if (next !== undefined) found.push(next)
   }
@@ -130,11 +131,11 @@ function reachedFrom(
 
 export function reducedFrom(
   page: Reached,
-  declaration: Declared,
+  declaration: Property,
   depth: number,
   reach: Reaching
 ): Held {
-  const at = `${page.at}#${declaration.key}`
+  const at = `${page.at}#${declaration.name}`
   if (reach.walking.has(at) || depth >= reach.bound) return null
   reach.walking.add(at)
   try {
@@ -145,7 +146,7 @@ export function reducedFrom(
         const held = reach.valueOf(one, over, depth + 1)
         if (held !== null) return held
       }
-      return declaration.fallback
+      return fallbackOf(declaration)
     }
     if (declaration.reduction === COUNT) return String(reached.length)
     let total = 0
@@ -158,7 +159,7 @@ export function reducedFrom(
       total += value
       seen += 1
     }
-    return seen === 0 ? declaration.fallback : String(total)
+    return seen === 0 ? fallbackOf(declaration) : String(total)
   } finally {
     reach.walking.delete(at)
   }
