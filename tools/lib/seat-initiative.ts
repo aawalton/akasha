@@ -52,9 +52,9 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   for (const at of initiativeFiles(root)) {
     const held = frontmatterOf(`${root}/${at}`)
     if (held === null || held[SLUG_KEY] !== bare) continue
-    // THE NAME SETTLES THE PAGE TYPE. This read the file’s own `page-type-slug:` and handed that
-    // on as the initiative’s page type, so a file under initiatives/ claiming another kind sent
-    // `initiativeWarrant` to that kind’s page type page for its required reading, and the page type
+    // THE NAME SETTLES THE PAGE TYPE. This read the file's own `page-type-slug:` and handed that
+    // on as the initiative's page type, so a file under initiatives/ claiming another kind sent
+    // `initiativeWarrant` to that kind's page type page for its required reading, and the page type
     // the name carries went unread. The path that decides it was already in hand a line above.
     return { relPath: at, pageTypeSlug: pageTypeOf(at) ?? KEY }
   }
