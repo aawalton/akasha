@@ -5,8 +5,6 @@ import { supabaseClientEnvDefine } from "@shared/supabase-rr/vite"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig } from "vite"
 
-const r = (path: string) => fileURLToPath(new URL(path, import.meta.url))
-
 export default defineConfig({
   plugins: [tailwindcss(), reactRouter()],
   define: { ...supabaseClientEnvDefine(), ...buildShaDefine() },
@@ -18,31 +16,37 @@ export default defineConfig({
     alias: [
       {
         find: /^@\/lib\/next-seam-adapters$/,
-        replacement: r("./app/bridge/lib/next-seam-adapters.tsx"),
+        replacement: fileURLToPath(
+          new URL("./app/bridge/lib/next-seam-adapters.tsx", import.meta.url)
+        ),
       },
       {
         find: /^@\/lib\/(.*)$/,
-        replacement: r("./app/lib/$1"),
+        replacement: fileURLToPath(new URL("./app/lib/$1", import.meta.url)),
       },
       {
         find: /^@\/app\/characters\/import-actions$/,
-        replacement: r("./app/bridge/app/characters/import-actions.ts"),
+        replacement: fileURLToPath(
+          new URL("./app/bridge/app/characters/import-actions.ts", import.meta.url)
+        ),
       },
       {
         find: /^@\/app\/companions\/import-actions$/,
-        replacement: r("./app/bridge/app/companions/import-actions.ts"),
+        replacement: fileURLToPath(
+          new URL("./app/bridge/app/companions/import-actions.ts", import.meta.url)
+        ),
       },
       {
         find: /^@\/app\/(.*)$/,
-        replacement: r("./app/bridge/app/$1"),
+        replacement: fileURLToPath(new URL("./app/bridge/app/$1", import.meta.url)),
       },
       {
         find: /^@\/components\/(.*)$/,
-        replacement: r("./app/components/$1"),
+        replacement: fileURLToPath(new URL("./app/components/$1", import.meta.url)),
       },
       {
         find: /^@\/hooks\/(.*)$/,
-        replacement: r("./app/hooks/$1"),
+        replacement: fileURLToPath(new URL("./app/hooks/$1", import.meta.url)),
       },
     ],
   },
