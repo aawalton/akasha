@@ -1,7 +1,5 @@
 
 import { addressParts } from "../../page/page-address.ts"
-import { indexReaches, loadPages } from "../../page/index/store/store.ts"
-import { pageStemOf } from "../../page/name/name.ts"
 import { filedIn, pageTypePathIn, placeDirOf, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { type Roots } from "../../page/page"
