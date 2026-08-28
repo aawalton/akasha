@@ -17,6 +17,8 @@ required-reading-slugs:
 
 A page is one TypeScript file.
 
+A page's identity is a uuid version 7, unchanged when its path, slug or title changes.
+
 A page is one exported object, named for the page's slug.
 
 A page has no body; every section is a property.
