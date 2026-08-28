@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { chmodSync, mkdtempSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { everyPageUnder, pagesUnder, sidecarsOf, textAt } from "./files.ts"
+import { frontOf } from "../write/front.ts"
+import { besideOf, everyPageUnder, pagesUnder, partsIn, sidecarsOf, textAt } from "./files.ts"
 
 const rootOf = (names: readonly string[]): string => {
   const root = mkdtempSync("/var/tmp/pages-system-files-")
@@ -109,6 +110,33 @@ test("a folder that will not list refuses rather than answering no sidecar", () 
   expect(typeof sidecarsOf("/var/tmp/no-such-root-stands-here", AT, "lines")).toBe("string")
 })
 
+test("everything named for a page stands beside it, whatever its ending", () => {
+  const root = rootOf([
+    "monday.log-day.md",
+    "monday.log-day.lines.jsonl",
+    "monday.log-day.lines.uncommitted.jsonl",
+    "monday.log-day.shot.attachment.png",
+    "monday.log-day.uncommitted.yaml",
+    "tuesday.log-day.md",
+    "tuesday.log-day.lines.jsonl",
+  ])
+  mkdirSync(`${root}/pages/day/monday.log-day.folder`)
+  try {
+    expect(besideOf(root, AT)).toEqual([
+      "pages/day/monday.log-day.lines.jsonl",
+      "pages/day/monday.log-day.lines.uncommitted.jsonl",
+      "pages/day/monday.log-day.shot.attachment.png",
+      "pages/day/monday.log-day.uncommitted.yaml",
+    ])
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a folder that will not list refuses rather than answering nothing beside", () => {
+  expect(typeof besideOf("/var/tmp/no-such-root-stands-here", AT)).toBe("string")
+})
+
 test("a root holding no page of a kind answers none, where a root that will not list refuses", () => {
   const root = mkdtempSync("/var/tmp/pages-system-files-")
   try {
@@ -189,4 +217,58 @@ test("a file that is there and cannot be read refuses rather than holding no tex
     chmodSync(`${root}/shut.txt`, 0o644)
     rmSync(root, { recursive: true, force: true })
   }
+})
+
+const bodyThrough = (body: string): string => {
+  const composed = frontOf({
+    pageType: "log-day",
+    id: "019ffe30-e158-7000-8ab9-73591dbe0225",
+    entries: [["title", { kind: "value", raw: "Monday" }]],
+    body,
+  })
+  if (composed.kind !== "text") throw new Error(composed.why)
+  const parts = partsIn(composed.text)
+  if (typeof parts === "string") throw new Error(parts)
+  return parts.body
+}
+
+test("the body a page was composed with is the body read back out of it", () => {
+  expect(bodyThrough("# Monday\n\nWhat stood.\n")).toBe("# Monday\n\nWhat stood.\n")
+  expect(bodyThrough("\n# Monday\n")).toBe("\n# Monday\n")
+  expect(bodyThrough("")).toBe("")
+})
+
+test("the break after the closing fence stands with the fence, not at the head of the body", () => {
+  const parts = partsIn("---\ntitle: Monday\n---\n# Monday\n")
+  if (typeof parts === "string") throw new Error(parts)
+  expect(parts.stated).toEqual({ title: "Monday" })
+  expect(parts.body).toBe("# Monday\n")
+})
+
+test("a body opening on a blank line keeps that line", () => {
+  const parts = partsIn("---\ntitle: Monday\n---\n\n# Monday\n")
+  if (typeof parts === "string") throw new Error(parts)
+  expect(parts.body).toBe("\n# Monday\n")
+})
+
+test("a page with nothing after its frontmatter holds an empty body", () => {
+  const parts = partsIn("---\ntitle: Monday\n---\n")
+  if (typeof parts === "string") throw new Error(parts)
+  expect(parts.body).toBe("")
+})
+
+test("a text opening on no fence states nothing rather than being split", () => {
+  expect(typeof partsIn("# Monday\n")).toBe("string")
+})
+
+test("a fence opened and never closed states nothing rather than taking the file", () => {
+  expect(typeof partsIn("---\ntitle: Monday\n")).toBe("string")
+})
+
+test("frontmatter that will not parse states nothing rather than throwing", () => {
+  expect(typeof partsIn("---\nkeys: [one, two\n---\n# Monday\n")).toBe("string")
+})
+
+test("frontmatter that is a list rather than a set of keys states nothing", () => {
+  expect(typeof partsIn("---\n- one\n---\n# Monday\n")).toBe("string")
 })
