@@ -4,6 +4,13 @@ title: "Akasha system"
 slug: akasha-system
 domain-parent-slug: domain/global
 persona-champion-slug: astra
+required-reading-slugs:
+  - domain/akasha-code
+  - domain/akasha-data
+  - domain/akasha-file
+  - domain/akasha-page
+  - domain/akasha-text
+  - domain/akasha-type
 ---
 
 # Definition

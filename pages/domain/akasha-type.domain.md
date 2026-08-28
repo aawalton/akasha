@@ -12,3 +12,5 @@ domain-parent-slug: domain/akasha-system
 # Design
 
 A type is gone by the time the code runs.
+
+A page's type is derived from the page's value.
