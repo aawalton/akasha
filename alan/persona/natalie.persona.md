@@ -2,14 +2,12 @@
 page-type-slug: persona
 id: 019f046c-3682-7964-a989-e5e5ebb74699
 title: Natalie
-total-points: 21722
+total-points: 22082
 cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef"
 slug: natalie
 domain-parent-slug: readout-group/personas
 group-slugs:
   - personas
-unit: green day units
-scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: natalie
