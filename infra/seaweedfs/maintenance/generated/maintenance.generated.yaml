@@ -1,0 +1,81 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  labels:
+    app.kubernetes.io/component: maintenance
+    app.kubernetes.io/instance: seaweedfs
+    app.kubernetes.io/managed-by: bootstrap
+    app.kubernetes.io/name: seaweedfs
+    app.kubernetes.io/part-of: cluster-object-store
+  name: seaweedfs-maintenance
+  namespace: seaweedfs-maintenance
+spec:
+  concurrencyPolicy: Forbid
+  failedJobsHistoryLimit: 3
+  jobTemplate:
+    spec:
+      activeDeadlineSeconds: 14400
+      backoffLimit: 1
+      template:
+        metadata:
+          labels:
+            app.kubernetes.io/component: maintenance
+            app.kubernetes.io/instance: seaweedfs
+            app.kubernetes.io/managed-by: bootstrap
+            app.kubernetes.io/name: seaweedfs
+            app.kubernetes.io/part-of: cluster-object-store
+        spec:
+          containers:
+            - command:
+                - /bin/sh
+                - -c
+                - |-
+                  set -eu
+                  echo "seaweedfs weekly maintenance: quota set + enforce + vacuum"
+                  weed shell -master=master.seaweedfs.svc.cluster.local:9333 <<'WEED'
+                  lock
+                  s3.bucket.quota -name=postgres-cnpg-backups -op=set -sizeMB=358400
+                  s3.bucket.quota -name=atlas-basemap -op=set -sizeMB=51200
+                  s3.bucket.quota -name=agent-sessions -op=set -sizeMB=30720
+                  s3.bucket.quota -name=loki-chunks -op=set -sizeMB=20480
+                  s3.bucket.quota.enforce -apply
+                  volume.vacuum -garbageThreshold=0.1
+                  unlock
+                  WEED
+                  echo "maintenance complete"
+              env:
+                - name: HOME
+                  value: /tmp
+              image: chrislusf/seaweedfs:3.73
+              name: weed-maintenance
+              resources:
+                limits:
+                  memory: 256Mi
+                requests:
+                  cpu: 100m
+                  memory: 256Mi
+              securityContext:
+                allowPrivilegeEscalation: false
+                capabilities:
+                  drop:
+                    - ALL
+                readOnlyRootFilesystem: true
+                runAsNonRoot: true
+                runAsUser: 1000
+              volumeMounts:
+                - mountPath: /tmp
+                  name: tmp
+          nodeSelector:
+            alanwalton.com/workload-class: serve
+          restartPolicy: Never
+          securityContext:
+            seccompProfile:
+              type: RuntimeDefault
+          volumes:
+            - emptyDir:
+                sizeLimit: 256Mi
+              name: tmp
+      ttlSecondsAfterFinished: 3600
+  schedule: 43 6 * * 0
+  startingDeadlineSeconds: 300
+  successfulJobsHistoryLimit: 1
