@@ -3,7 +3,6 @@ page-type-slug: domain
 title: "Akasha system"
 slug: akasha-system
 domain-parent-slug: domain/global
-persona-champion-slug: astra
 sequence-slugs:
   - domain/akasha-code
   - domain/akasha-data
