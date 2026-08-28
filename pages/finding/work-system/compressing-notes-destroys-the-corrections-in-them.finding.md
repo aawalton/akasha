@@ -8,7 +8,7 @@ domain-slug: domain/work-system
 
 # Claim
 
-Cutting a false line from an initiative's Notes leaves the document more correct and the record poorer. Nothing refuses it: Notes with a false line gone are well-formed, and `initiative.page-type.md:45` requires a done step not to stand there. So the instrument that keeps an initiative honest is the one that destroys corrections. Three naming verifications went this way at `0085b82266`, and the rules they overturned still stand in a file no check reaches.
+Cutting a false line from an initiative's Notes leaves the document more correct and the record poorer. Nothing refuses it: Notes with a false line gone are well-formed, and `initiative.page-type.md:45` requires a done step not to stand there. So the instrument that keeps an initiative honest is the one that destroys corrections. Four verifications went this way, three at `0085b82266` and one at `a4f5321cf2`; the rules the first three overturned still stand in a file no check reaches.
 
 # Evidence
 
@@ -24,4 +24,4 @@ ONE CORRECTION SURVIVED, written onto a finding instead of left in Notes: `build
 
 Amending it cost more than the correction: its Evidence stood at 2,468 against a 2,000 cap, so a finding predating the cap stands over it and any amendment forces a rewrite, not an edit.
 
-Not measured: how many other Notes sections have been compressed the same way.
+A FOURTH, at `a4f5321cf2`. Notes said `suffix.ts:57` genuinely disagreed, calling `a.b.domain.md` no domain; `a28da29500` had repaired it. Re-verified 2026-08-28: `:58-59` is `pageTypeOf(relPath) === slug`, and `pageTypeOf("a.b.domain.md")` answers `domain`. How many more is unmeasured.
