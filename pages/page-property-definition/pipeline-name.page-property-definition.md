@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Pipeline name"
 defined-on-slug: page-type/pipeline
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '"{branch}-{commit}" ?? {slug} ?? {id}'
 slug: pipeline-name

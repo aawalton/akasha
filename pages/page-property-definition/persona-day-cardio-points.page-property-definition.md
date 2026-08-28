@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Persona day cardio points"
 defined-on-slug: page-type/persona-day
 key: cardio-points
-type: formula
+type: number
 expression: prop(active-calories)
-returnType: number
 slug: persona-day-cardio-points
 domain-parent-slug: page-type/persona-day
 ---

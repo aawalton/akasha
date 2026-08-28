@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona anchor image name"
 defined-on-slug: page-type/persona-anchor-image
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '"{persona-slug}-anchor"'
 slug: persona-anchor-image-name

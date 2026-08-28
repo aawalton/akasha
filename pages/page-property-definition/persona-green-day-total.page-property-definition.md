@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona green day total"
 defined-on-slug: page-type/persona
 key: green-day-total
-type: formula
-returnType: number
+type: number
 expression: prop(total-points) / (prop(green-day-points) || 10000)
 slug: persona-green-day-total
 domain-parent-slug: domain/persona-points

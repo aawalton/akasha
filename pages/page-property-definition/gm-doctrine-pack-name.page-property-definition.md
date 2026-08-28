@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "GM doctrine pack name"
 defined-on-slug: page-type/gm-doctrine-pack
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{external-id} ?? {slug} ?? {id}'
 slug: gm-doctrine-pack-name

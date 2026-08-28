@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Persona day strength points"
 defined-on-slug: page-type/persona-day
 key: strength-points
-type: formula
+type: number
 expression: prop(strength-volume) / 7
-returnType: number
 slug: persona-day-strength-points
 domain-parent-slug: page-type/persona-day
 ---

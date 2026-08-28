@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat log day name"
 defined-on-slug: page-type/seat-log-day
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '"{source-slug}-{seat-name}-{date}"'
 slug: seat-log-day-name

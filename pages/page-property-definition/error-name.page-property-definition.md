@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Error name"
 defined-on-slug: page-type/error
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{fingerprint}'
 slug: error-name

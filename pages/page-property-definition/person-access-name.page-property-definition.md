@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Person access name"
 defined-on-slug: page-type/person-access
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '"{person-slug}-{access-kind}-{target}"'
 slug: person-access-name

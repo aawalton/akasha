@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Log day name"
 defined-on-slug: page-type/log-day
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '"{source-slug}-{date}"'
 slug: log-day-name

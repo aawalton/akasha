@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Persona percent progress"
 defined-on-slug: page-type/persona
 key: percent-progress
-type: formula
-returnType: number
+type: number
 expression: (prop(total-points) >= 769*(prop(green-day-points)||10000)) && 100 || (prop(total-points) >= 229*(prop(green-day-points)||10000)) && ((prop(total-points) - 229*(prop(green-day-points)||10000)) / (540*(prop(green-day-points)||10000)) * 100) || (prop(total-points) >= 49*(prop(green-day-points)||10000)) && ((prop(total-points) - 49*(prop(green-day-points)||10000)) / (180*(prop(green-day-points)||10000)) * 100) || (prop(total-points) >= 7*(prop(green-day-points)||10000)) && ((prop(total-points) - 7*(prop(green-day-points)||10000)) / (42*(prop(green-day-points)||10000)) * 100) || (prop(total-points) / (7*(prop(green-day-points)||10000)) * 100)
 slug: persona-percent-progress
 domain-parent-slug: domain/persona-points

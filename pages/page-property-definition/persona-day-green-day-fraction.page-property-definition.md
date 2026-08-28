@@ -4,9 +4,8 @@ page-type-slug: page-property-definition
 title: "Persona day green day fraction"
 defined-on-slug: page-type/persona-day
 key: green-day-fraction
-type: formula
+type: number
 expression: prop(green-day-points) > 0 && prop(points) / prop(green-day-points) || 0
-returnType: number
 slug: persona-day-green-day-fraction
 domain-parent-slug: page-type/persona-day
 ---

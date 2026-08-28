@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Notification feed name"
 defined-on-slug: page-type/notification-feed
 key: name
-type: formula
-returnType: text
+type: text
 narrows-slug: page
 expression: '{person-slug}'
 slug: notification-feed-name
