@@ -74,6 +74,7 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
       pageType: GROUP,
       name: groupName,
       values: {
+        slug: groupName,
         title: groupName,
         "window-name": window,
         position: group.position,
@@ -87,6 +88,7 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
         pageType: TAB,
         name: tabName,
         values: {
+          slug: tabName,
           title: tabName,
           "group-name": groupName,
           place: index + 1,
@@ -100,6 +102,7 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
         pageType: TERMINAL,
         name: terminal,
         values: {
+          slug: terminal,
           title: terminal,
           process: terminal,
           ...(tab.seat === undefined ? {} : { "seat-name": tab.seat }),
@@ -108,7 +111,7 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
     })
   }
   return [
-    { pageType: WINDOW, name: window, values: { title: window, process: window } },
+    { pageType: WINDOW, name: window, values: { slug: window, title: window, process: window } },
     ...groups,
     ...terminals,
     ...tabs,
