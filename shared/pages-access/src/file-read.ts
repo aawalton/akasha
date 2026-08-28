@@ -1,13 +1,13 @@
 import { askComposed, askPageTypes, type ComposedQuery } from "@shared/pages-query/ask"
-import { type Asked } from "../../pages-query/src/index"
-import type { Json } from "../../supabase-database/src/generated/database"
-import { isJson } from "../../utils-narrow/src/is-json"
-import { type CursorPayload, decodeCursor, encodeCursor } from "./cursor"
-import { askableNarrows, declaredAs, fieldFor, matches, narrowing, ranked } from "./file-narrow"
-import { buildRawPageRows } from "./file-rows"
-import type { PropertyDefinition } from "./page-type-config"
-import { flattenRow } from "./routing-core"
-import { type PageCursor, type PageOrder, type PageSelect } from "./types"
+import { type Asked } from "../../pages-query/src/index.ts"
+import type { Json } from "../../supabase-database/src/generated/database.ts"
+import { isJson } from "../../utils-narrow/src/is-json.ts"
+import { type CursorPayload, decodeCursor, encodeCursor } from "./cursor.ts"
+import { askableNarrows, declaredAs, fieldFor, matches, narrowing, ranked } from "./file-narrow.ts"
+import { buildRawPageRows } from "./file-rows.ts"
+import type { PropertyDefinition } from "./page-type-config.ts"
+import { flattenRow } from "./routing-core.ts"
+import { type PageCursor, type PageOrder, type PageSelect } from "./types.ts"
 import { Page, type PageWhere } from "@shared/pages-core/page-types"
 
 export type FileReadShape = {
@@ -56,16 +56,6 @@ export function setFileBackedPageTypes(slugs: Iterable<string>): undefined {
   unread = null
 }
 
-/**
- * Hold the roster as one that could not be read.
- *
- * BESIDE `setFileBackedPageTypes` BECAUSE THE ROSTER HAS TWO ANSWERS, NOT ONE. It either said what
- * is file-backed, or it could not be reached at all, and a caller has to tell those apart: a type a
- * roster answered without has nowhere for its pages to land, while a roster that went unread says
- * nothing about that type either way. Without this, the only way to stand the second state up was
- * to replace this module with `mock.module`, which is process-global and reaches every other file
- * in the run.
- */
 export function setFileBackedRosterUnread(why: string): undefined {
   unread = why
   known = null

@@ -206,11 +206,6 @@ async function syncStory(
       const stem = `${String(position).padStart(4, "0")}-${base === "" ? chapter.id : base}`
       const slug = taken.has(stem) ? `${stem}-${chapter.id}` : stem
       taken.add(slug)
-      // THE TYPE IS IN THE FILENAME, not only in the body. `page-type/story-chapter-royal-road`
-      // is filed as `akasha:**/*.story-chapter-royal-road.md`, and the page index reads a page's
-      // type off its filename alone, so a chapter landed as `{slug}.md` states a type in its
-      // frontmatter that nothing outside the frontmatter can see. Fifteen chapters landed that way
-      // before this was found, each one a page the index holds no type for.
       const fileName = `${slug}.${CHAPTER_TYPE}.md`
       landing.push({
         relPath: `${CHAPTER_DIR}/${story.home}/${fileName}`,

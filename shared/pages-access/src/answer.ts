@@ -1,20 +1,8 @@
 import { askComposed, askPageTypes } from "@shared/pages-query/ask"
-import { type Asked } from "../../pages-query/src/index"
-import { buildRawPageRows } from "./file-rows"
-import { getPageTypeBySlug } from "./page-type"
-import { getPropertyDefinitions, type PropertyDefinition } from "./page-type-config"
-
-/**
- * What a web app answers on `/api/page-types` and `/api/pages/:pageTypeSlug`.
- *
- * A browser cannot reach the page query service: it stands on the workstation
- * behind a cluster DNS name nothing outside the cluster resolves. So each app
- * answers these two on its own origin, and every app answers them the same way
- * — hence here rather than once per app.
- *
- * Nothing here imports a router or a server client. Both are handed in, so this
- * module carries no server-only import into an app that reads it.
- */
+import { type Asked } from "../../pages-query/src/index.ts"
+import { buildRawPageRows } from "./file-rows.ts"
+import { getPageTypeBySlug } from "./page-type.ts"
+import { getPropertyDefinitions, type PropertyDefinition } from "./page-type-config.ts"
 
 export const LISTING_CEILING = 5_000
 
@@ -48,13 +36,9 @@ export async function answerPageTypes(request: Request, deps: PageTypesDeps): Pr
   if (!asked.ok) {
     return Response.json({ error: UNREAD_ROSTER, unread: [asked.why] }, { status: 503, headers })
   }
-  // The whole backing goes out, not just the slug. `readRosterBody` in the
-  // pages store reads `slug` alone, and `askPageTypes` in a browser reads this
-  // same route as its stand-in for the service and wants every field back.
   return Response.json({ types: asked.types }, { headers })
 }
 
-/** What the page type states about itself, as one read. */
 export type PageTypeReading = {
   readonly pageTypeId: string
   readonly definitions: readonly PropertyDefinition[]
@@ -86,9 +70,6 @@ export async function answerPages(
   pageTypeSlug: string,
   deps: PagesDeps
 ): Promise<Response> {
-  // `readUser` returns the session-refresh cookie on `headers`. Every response
-  // below carries it, a refusal included: a refusal that dropped it would leave
-  // the browser holding a token this route had just declined to renew.
   const { user, headers } = await deps.readUser(request)
   if (user === null) {
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401, headers })

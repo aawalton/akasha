@@ -6,12 +6,12 @@ import {
   type NamingAsked,
 } from "@shared/pages-query/ask"
 import { z } from "zod"
-import { fileRelationDeclarations } from "./file-property-defs"
-import { type FileReadDeps, fileBackedPageTypes, isFileBacked, pageOf } from "./file-read"
-import { buildRawPageRows, kebabizeKey } from "./file-rows"
-import { fileShapeOf } from "./file-shape"
-import { applySelect } from "./routing-core"
-import type { PageSelect } from "./types"
+import { fileRelationDeclarations } from "./file-property-defs.ts"
+import { type FileReadDeps, fileBackedPageTypes, isFileBacked, pageOf } from "./file-read.ts"
+import { buildRawPageRows, kebabizeKey } from "./file-rows.ts"
+import { fileShapeOf } from "./file-shape.ts"
+import { applySelect } from "./routing-core.ts"
+import type { PageSelect } from "./types.ts"
 import type { Page } from "@shared/pages-core/page-types"
 
 const RPC_DEFAULT_LIMIT = 20_000
@@ -83,12 +83,6 @@ export function namesNothing(value: string): boolean {
   return named === "" || named === SETTLED_BY_THE_ROW
 }
 
-/**
- * WHETHER A NAMED PAGE STANDS, AND WHETHER ANYTHING LOOKED. `absent` is the corpus answering that
- * it holds no such page; `unasked` is nothing having read the corpus at all. Collapsed into one
- * boolean the two read alike, and a caller taking the second for the first tells its writer that
- * the name it gave stands under nothing, when what happened is that nobody looked.
- */
 export type Standing =
   | { readonly outcome: "stands" }
   | { readonly outcome: "absent" }
@@ -113,9 +107,6 @@ export async function standsUnder(
     return { outcome: "unasked", why: `${first}${asked.why}` }
   }
   if (asked.answer.rows.length > 0) return { outcome: "stands" }
-  // THE SECOND ASK ANSWERS A NARROWER QUESTION THAN THE FIRST. It asks which pages carry `slug`,
-  // where the first asked which page stands at that name, so no row here settles absence unless
-  // the first was answered too.
   if (page.outcome === "unasked") return { outcome: "unasked", why: page.why }
   return { outcome: "absent" }
 }

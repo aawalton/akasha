@@ -1,15 +1,11 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import { z } from "zod"
-import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read"
-import { forgetFileShapes } from "./file-shape"
-import { forgetFileBackings, setFileBackings } from "./file-write-backing"
-import { nameOfPageId } from "./file-page-name"
-import { patchPage } from "./patch"
+import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read.ts"
+import { forgetFileShapes } from "./file-shape.ts"
+import { forgetFileBackings, setFileBackings } from "./file-write-backing.ts"
+import { nameOfPageId } from "./file-page-name.ts"
+import { patchPage } from "./patch.ts"
 import type { PageWhere } from "@shared/pages-core/page-types"
-
-// WHAT THIS PINS IS THAT A REFUSED LOOKUP AND AN EMPTY ONE DO NOT ARRIVE AS THE SAME VALUE.
-// `nameOfPageId` separates them; the write refusal that quotes it must keep them apart, because the
-// advice it gives — rename this, it is not an id — is only true when the corpus was actually read.
 
 const HOLDER = "refused-read-holder"
 const TARGET = "refused-read-account"
@@ -18,8 +14,6 @@ const TARGET_GLOB = "fixture-2999-13-46-accounts/*.md"
 
 const HOLDER_NAME = "holder-01"
 const HOLDER_ID = "019f0000-0000-7000-8001-000000000001"
-// A well-formed uuid that no page carries, so `nameOfPageId` reaches its ask rather than
-// answering `malformed` off the shape of the string.
 const NOBODYS_ID = "019f0000-0000-7000-a001-0000000000ff"
 
 const QUERY_BODY = z.record(z.string(), z.unknown())
@@ -96,15 +90,6 @@ type Served = { patched: readonly string[] }
 
 let stop: (() => void) | null = null
 
-/**
- * `refuseTheIdAsk` refuses exactly the query `nameOfPageId` makes — the one keyed on `id` against
- * the target type — and nothing else. Refusing every query would trip an earlier guard and prove
- * nothing about this seam.
- *
- * `refuseTheNameAsk` refuses the two lookups `standsUnder` makes for a name — the whole-page read
- * and the query keyed on `slug` — and leaves every other query answering. Off, both are answered
- * and hold nothing, which is a corpus that was read and holds no page under that name.
- */
 function serve(refuseTheIdAsk: boolean, refuseTheNameAsk = false): Served {
   const served: Served = { patched: [] }
   const real = globalThis.fetch
@@ -195,9 +180,6 @@ describe("nameOfPageId keeps a refused lookup apart from an empty one", () => {
 })
 
 describe("a write refusal advises a rename only where the corpus was read", () => {
-  // THE ONE THAT MATTERS. A genuine absence must still read as absent: the corpus was reached, it
-  // holds no page under that id, so telling the writer to name the page as its file is named is
-  // the right advice and must survive.
   test("a genuine absence still advises naming the file", async () => {
     const served = serve(false)
     const going = patchPage({
@@ -216,19 +198,13 @@ describe("a write refusal advises a rename only where the corpus was read", () =
       where: ONE,
       set: { ownerAccount: NOBODYS_ID },
     })
-    // The write is still refused — that part is `standsUnder`, and is not what this pins.
     await expect(going).rejects.toThrow(/points at a `refused-read-account` page by name/)
-    // What it must NOT do is spend the refused lookup as though it had been answered.
     await expect(going).rejects.not.toThrow(/Name it as its file is named/)
     await expect(going).rejects.toThrow(/went unestablished/)
     expect(served.patched).toEqual([])
   })
 })
 
-// WHAT A WRITE REFUSAL MAY ASSERT IS BOUNDED BY WHETHER ANYTHING LOOKED. `standsUnder` reads the
-// target twice — the page by name, then a query keyed on `slug` — and a refusal of either leaves
-// the corpus unread. Spelled as a name that no page stands under, a read that failed sends the
-// writer to correct a value that was very likely right.
 describe("a write refusal reports a name absent only where the corpus was read", () => {
   test("a corpus that was read and holds no such page says no page stands under the name", async () => {
     const served = serve(false)

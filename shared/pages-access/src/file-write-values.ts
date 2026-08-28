@@ -1,10 +1,10 @@
 import type { Value } from "@shared/pages-query"
-import { fileRelationDeclarations } from "./file-property-defs"
-import { nameOfPageId, type Translated } from "./file-page-name"
-import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation"
-import { kebabizeKey } from "./file-rows"
-import { backings } from "./file-write-backing"
-import { FileWriteError } from "./file-write-error"
+import { fileRelationDeclarations } from "./file-property-defs.ts"
+import { nameOfPageId, type Translated } from "./file-page-name.ts"
+import { namesNothing, type RelationOnType, relationsOn, standsUnder } from "./file-relation.ts"
+import { kebabizeKey } from "./file-rows.ts"
+import { backings } from "./file-write-backing.ts"
+import { FileWriteError } from "./file-write-error.ts"
 
 function describeValue(value: unknown): string {
   if (Array.isArray(value)) {
@@ -43,12 +43,6 @@ function fileValue(op: string, pageTypeSlug: string, key: string, value: unknown
   )
 }
 
-/**
- * Spelled camel, because camel is what the row store calls its own columns. THE READ SEAM DOES NOT
- * ASK THIS SAME QUESTION: `SETTLED_BY_ROW` at `file-rows.ts:24` holds `seq` as well, and
- * `file-rows.ts:163` tests it AFTER camelizing where this tests the raw key, so a page holding
- * `user-id` in its own frontmatter is kept here and dropped there.
- */
 const SETTLED_ELSEWHERE: ReadonlySet<string> = new Set(["pageTypeSlug", "pageTypeId", "userId"])
 
 const PAGE_ID = "id"
@@ -66,16 +60,6 @@ export function fileValuesOf(
   const out: Record<string, Value> = {}
   for (const [rawKey, value] of Object.entries(input)) {
     if (value === undefined) continue
-    // TESTED ON THE RAW KEY, BEFORE KEBABIZING, AND THE ORDER IS LOAD-BEARING. This set is spelled
-    // camel because camel is what the row store calls its own columns. So `userId` names the row s
-    // user column and is dropped here, while `user-id` names a property the page holds in its own
-    // file and is kept. The two spellings do not mean the same thing.
-    //
-    // Four file-backed page types turn on that difference. `device-secret` and `device-token`
-    // declare `key: user-id`, their writers pass it in kebab, their files carry it, and
-    // `device-secrets.server.ts:34` reads the page back through it and returns null without it.
-    // Asking `camelizeKey(rawKey)` here collapses the two spellings and strips `user-id` from
-    // every device write, which fails as an authentication that quietly stops recognising anyone.
     if (SETTLED_ELSEWHERE.has(rawKey)) continue
     const key = kebabizeKey(rawKey)
     out[key] = fileValue(op, pageTypeSlug, key, value)
@@ -83,17 +67,10 @@ export function fileValuesOf(
   return out
 }
 
-// WHAT THIS MAY ADVISE IS BOUNDED BY WHICH OUTCOME CAME BACK. `nameOfPageId` separates a corpus
-// that was read and holds no page under this id from one that was never looked at, and only the
-// first of those licenses telling the writer that what it named is not an id. Collapsing the two —
-// which is what reaching this through a `string | null` did — spends a refused read as though it
-// were an answer, and tells the writer to rename a value that may well have been right.
 function said(relation: RelationOnType, translated: Translated): string {
   if (translated.outcome === "named") {
     return `That is the id of \`${translated.name}\`, and a file-backed relation carries the target's name rather than its id, so write \`${translated.name}\`.`
   }
-  // The corpus was read: `absent` holds no page under that id, and `malformed` is not a uuid at
-  // all, so under neither can this be the id of a page that stands.
   if (translated.outcome === "absent" || translated.outcome === "malformed") {
     return `Name it as its file is named.`
   }
@@ -111,9 +88,6 @@ function unresolved(
   return `${op}(${pageTypeSlug}): \`${key}\` points at a \`${relation.targetSlug}\` page by name, and this write names \`${named}\`, which no \`${relation.targetSlug}\` page stands under. ${said(relation, translated)} Nothing has been written.`
 }
 
-// WHAT A REFUSAL MAY ASSERT IS BOUNDED BY WHETHER ANYTHING LOOKED. `unresolved` states that no page
-// stands under the name, which is true only where the target corpus was read. Where it was not,
-// this stands in its place and says what actually happened.
 function unreadTarget(
   op: string,
   pageTypeSlug: string,
@@ -185,12 +159,6 @@ async function refuseUnresolvedRelations(
   }
 }
 
-// A SETTLED KEY IS DROPPED WHERE NOTHING DECLARES IT AND REFUSED WHERE THE PAGE TYPE DOES. The
-// drop above is right for a caller that hands one to every write it makes — app-shell.tsx spreads
-// `userId` into the properties of whatever page type is active — because there the key names the
-// row's owner column and the page's own file should not carry it. It is wrong where the page type
-// declares a property under that exact spelling: the value is then the page's own, one such
-// declaration states `required: true`, and discarding it let the write report done.
 async function refuseSettledDeclared(
   op: string,
   pageTypeSlug: string,

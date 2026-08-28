@@ -1,39 +1,18 @@
-/**
- * A LEXER ENOUGH TO TELL CODE FROM TEXT. What a rename must read inside a module — a string
- * standing as an argument, the static text of a template — is spelled exactly the same inside a
- * comment, inside another string and inside a regular expression, where it names nothing. A survey
- * that cannot tell those apart refuses moves nobody needs refused and rewrites text nobody wrote
- * as a path.
- *
- * This walks a body once and hands back the same body with every comment and every stretch of TEXT
- * blanked to spaces — positions and line breaks kept, so an index into one is an index into the
- * other and a pattern run over it can only match CODE. The strings and templates are handed back
- * beside it, keyed by where they start, so a caller that has found an argument's span can ask what
- * literal stands there.
- *
- * A STRING HOLDING A BACKSLASH REPORTS NO VALUE. Working out what an escape sequence means is
- * guessing, and a caller resolving a path wants the characters rather than a guess at them.
- */
-
 export interface Span {
   readonly start: number
   readonly end: number
 }
 
 export interface StringToken extends Span {
-  /** What stands between the quotes, or null where an escape means this cannot say. */
   readonly value: string | null
 }
 
 export interface TemplateToken extends Span {
-  /** The stretches of static text, always one more than there are expressions. */
   readonly quasis: readonly Span[]
-  /** The stretches of code between a `${` and its `}`. */
   readonly exprs: readonly Span[]
 }
 
 export interface Tokens {
-  /** The body with every comment and every stretch of text blanked, positions kept. */
   readonly masked: string
   readonly strings: ReadonlyMap<number, StringToken>
   readonly templates: ReadonlyMap<number, TemplateToken>
@@ -43,7 +22,6 @@ const WORD = /[A-Za-z0-9_$]/
 
 const SPACE = /\s/
 
-// A `/` after one of these words opens a regular expression; after any other word it divides.
 const BEFORE_PATTERN = new Set([
   "return",
   "typeof",
@@ -204,10 +182,6 @@ export function tokensOf(body: string): Tokens {
   return { masked: mask.join(""), strings, templates }
 }
 
-/**
- * The top-level argument spans of the call whose `(` stands at `open`, read off a MASKED body so
- * that a bracket inside a string cannot throw the depth off. Null where the call never closes.
- */
 export function argumentsOf(masked: string, open: number): readonly Span[] | null {
   const spans: Span[] = []
   let depth = 0

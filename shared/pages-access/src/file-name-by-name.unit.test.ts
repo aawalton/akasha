@@ -1,8 +1,6 @@
 import { describe, expect, it } from "bun:test"
-import { nameFromAt, relPathFor, suffixOf } from "./file-name"
+import { nameFromAt, relPathFor, suffixOf } from "./file-name.ts"
 
-// A page type filed by name matches its files wherever they stand, telling its
-// type by the file's own name rather than by the folder holding it.
 const BY_NAME = "**/*.gadget.md"
 const BY_FOLDER = "zoo/animals/*.md"
 

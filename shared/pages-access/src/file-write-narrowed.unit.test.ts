@@ -1,16 +1,10 @@
 import { afterEach, describe, expect, test } from "bun:test"
 import { z } from "zod"
-import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read"
-import { forgetFileShapes } from "./file-shape"
-import { forgetFileBackings, setFileBackings } from "./file-write-backing"
-import { patchPage } from "./patch"
-import { upsertPage } from "./upsert"
-
-// `locate` reads a page over a query, which answers in kebab, and then filters what came back
-// with `matches`, which reads a page that `flattenRow` has already put into camel. Only the
-// property definitions say which kebab key is which camel one, so a filter given none of them
-// silently matches nothing whose key is more than one word — and the write then takes the page
-// for absent and tries to create a second one over it. These narrow on a two-word property.
+import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read.ts"
+import { forgetFileShapes } from "./file-shape.ts"
+import { forgetFileBackings, setFileBackings } from "./file-write-backing.ts"
+import { patchPage } from "./patch.ts"
+import { upsertPage } from "./upsert.ts"
 
 const TYPE = "fixture-note"
 const GLOB = "fixture-2999-13-46/*.md"

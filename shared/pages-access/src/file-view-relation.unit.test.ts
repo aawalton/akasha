@@ -1,15 +1,15 @@
 import { afterEach, beforeEach, describe, expect, it } from "bun:test"
 import type { ComposedQuery, NamingAsk, NamingAsked } from "@shared/pages-query/ask"
 import { fetchThrough } from "@shared/pages-query/fetcher"
-import type { QueryRow } from "../../pages-query/src/answer-schema"
-import type { Asked, Fetcher } from "../../pages-query/src/index"
-import type { FileReadDeps } from "./file-read"
-import { forgetFilePageRuns, setFileBackedPageTypes } from "./file-read"
-import type { FileRelationDeps } from "./file-relation"
-import { forgetFileShapes } from "./file-shape"
-import { getPagesByRelation } from "./get-by-relation"
-import { getPagesForView } from "./get-for-view"
-import type { PageCursor } from "./types"
+import type { QueryRow } from "../../pages-query/src/answer-schema.ts"
+import type { Asked, Fetcher } from "../../pages-query/src/index.ts"
+import type { FileReadDeps } from "./file-read.ts"
+import { forgetFilePageRuns, setFileBackedPageTypes } from "./file-read.ts"
+import type { FileRelationDeps } from "./file-relation.ts"
+import { forgetFileShapes } from "./file-shape.ts"
+import { getPagesByRelation } from "./get-by-relation.ts"
+import { getPagesForView } from "./get-for-view.ts"
+import type { PageCursor } from "./types.ts"
 import type { Page } from "@shared/pages-core/page-types"
 
 const TASK_TYPE_ID = "019db533-f381-7454-a6e4-fed5397cfd84"
@@ -121,15 +121,6 @@ const PAGE_TYPE_ROWS: readonly QueryRow[] = [
   { at: "fixture:zoo/kinds/task.md", values: { slug: "task", id: TASK_TYPE_ID } },
 ]
 
-/**
- * Answer the shape ask off the same fixtures the composed-query stub answers from.
- *
- * A WORLD HANDED IN DOES NOT REACH THE SHAPE. `filePropertyDefinitions` asks a page type's shape by
- * URL rather than through the `ask` these tests pass, so `serving(world(n))` leaves that one read
- * dialing an origin. `@shared/pages-query` answers through an installed fetcher where one is
- * installed, which is what `ops` does on this workstation, so the shape is served the same way here
- * rather than over a wire.
- */
 function declaredBy(row: QueryRow): Record<string, unknown> {
   const key = String(row.values.key)
   return {

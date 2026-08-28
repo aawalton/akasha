@@ -1,13 +1,10 @@
 import { afterEach, expect, test } from "bun:test"
 import { z } from "zod"
-import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read"
-import { forgetFileShapes } from "./file-shape"
-import { createFilePage, upsertFilePage } from "./file-write"
-import { forgetFileBackings, setFileBackings } from "./file-write-backing"
+import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read.ts"
+import { forgetFileShapes } from "./file-shape.ts"
+import { createFilePage, upsertFilePage } from "./file-write.ts"
+import { forgetFileBackings, setFileBackings } from "./file-write-backing.ts"
 
-// A page type named `{id}` is the plainest case of a rule naming a key the write
-// settles rather than one the caller states: nothing else fills it, so the name a
-// write lands under is the id that write mints.
 const SLUG = "fixture-2999-13-45-idled"
 const GLOB = "fixture-2999-13-45-idled/*.md"
 const STATED_ID = "019f0000-0000-7000-a000-0000000000id".replace("id", "01")
