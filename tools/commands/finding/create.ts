@@ -13,7 +13,7 @@ import {
   undeclaredRefusal,
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import { notUtf8 } from "../../lib/utf8-body.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
@@ -114,7 +114,7 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   const undeclared = undeclaredRefusal(domain, declared)
   if (undeclared !== null) throw inputError(undeclared)
 
-  const relPath = findingPathIn(root, domain, slug)
+  const relPath = findingPathIn(root, slug)
   if (existsSync(`${root}/${relPath}`)) {
     throw inputError(
       `${relPath} already holds a finding — filing never overwrites a claim somebody else made`

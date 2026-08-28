@@ -15,8 +15,8 @@ import {
 import { parseArgs } from "../../lib/parse-args.ts"
 import { repoOf } from "../../lib/payload.ts"
 import { pageNameOf } from "../../../page/name/name.ts"
-import { type Roots } from "../../../page/page"
-import { AKASHA, resolveRoots, rootFor, targetRepo, targetRoot } from "../../../repo/roots/roots"
+import { type Roots } from "../../../page/page.ts"
+import { AKASHA, resolveRoots, rootFor, targetRepo, targetRoot } from "../../../repo/roots/roots.ts"
 import { landMoves } from "../../../move/move.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
@@ -127,7 +127,7 @@ export default async function findingRehome(args: readonly string[]): Promise<vo
         "belongs is worked out from that name"
     )
   }
-  const to = findingPathIn(root, domain, stem)
+  const to = findingPathIn(root, stem)
   if (to === at && spliced.declared === domain) {
     throw inputError(
       `${at} already stands under \`${domain}\` and already declares it. Nothing was written: ` +

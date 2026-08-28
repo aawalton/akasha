@@ -4,7 +4,7 @@ import type { Repo } from "../../page/document/types.ts"
 import { dataError } from "./exit.ts"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
-import { addressParts, slugNamed } from "../../page/page-address.ts"
+import { addressParts } from "../../page/page-address.ts"
 import { filedIn, pageTypePathIn, placeDirOf } from "../../page/page-types.ts"
 import { scan } from "./seat-resolve.ts"
 
@@ -22,12 +22,8 @@ export function findingsDirIn(root: string): string {
   return placeDirOf(FINDING)
 }
 
-// THE FOLDER IS THE SLUG HALF, never the whole address. `domain-slug:` is a relation-address, so
-// `--domain domain/checks-system` is the right way to name a domain and validates as one; used
-// verbatim as a folder it landed the file two deep, which `finding-too-deep` then refused. Only a
-// domain slug names a folder here.
-export function findingPathIn(root: string, domain: string, slug: string): string {
-  const dir = `${findingsDirIn(root)}/${slugNamed(domain)}`
+export function findingPathIn(root: string, slug: string): string {
+  const dir = findingsDirIn(root)
   return pageFileIn(root, dir, slug) ?? `${dir}/${slug}.${FINDING}${MARKDOWN}`
 }
 
