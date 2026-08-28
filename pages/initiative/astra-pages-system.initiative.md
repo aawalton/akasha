@@ -10,3 +10,5 @@ parent-slug: aine-global
 # Intent
 
 # Notes
+
+These notes hold only constraints.
