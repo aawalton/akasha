@@ -1,9 +1,9 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { BUN_RUNTIME_IMAGE, ORCHESTRATOR_CACHE_REPO_PATH, TEMPER_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
-import { ADDON_BUNDLE_IMAGE } from "./deploy/addon-bundle-image"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
+import { BUN_RUNTIME_IMAGE, ORCHESTRATOR_CACHE_REPO_PATH, TEMPER_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
+import { ADDON_BUNDLE_IMAGE } from "./deploy/addon-bundle-image.ts"
 
 const NAMESPACE = "temper"
 const APP_NAME = "web"
@@ -144,6 +144,7 @@ function webDeploymentYaml(): string {
               envFrom: [{ secretRef: { name: SECRET_NAME } }],
               env: [
                 { name: "NODE_ENV", value: "production" },
+                { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: "3000" },
                 { name: "PAGE_WRITER", value: "temper-web" },
@@ -214,6 +215,24 @@ function webServiceYaml(): string {
     },
   })
 }
+
+export const BUILD_ENV = [
+  { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  {
+    name: "NEXT_PUBLIC_ELECTRIC_URL",
+    value: "https://supabase.alanwalton.com/electric/v1/shape",
+  },
+  {
+    name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
+    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
+  },
+  { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".tempereso.com" },
+  { name: "SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  {
+    name: "SUPABASE_SERVICE_ROLE_KEY",
+    fromSecret: { name: SECRET_NAME, key: "SUPABASE_SERVICE_ROLE_KEY" },
+  },
+] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
