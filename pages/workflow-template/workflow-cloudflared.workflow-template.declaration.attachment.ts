@@ -35,7 +35,7 @@ export default workflow("cloudflared", {
     sopsDecryptApply({
       name: "cloudflared-apply-ddns-secret",
       namespace: "ddns-headscale",
-      secretFile: "infra/k8s/src/ddns-headscale/k8s/cloudflare-api-token.sops.yaml",
+      secretFile: "infra/k8s/src/ddns-headscale/cloudflare-api-token.k8s-secret.sops.yaml",
     }),
     {
       ...step({
