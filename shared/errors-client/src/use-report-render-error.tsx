@@ -1,6 +1,6 @@
 "use client"
 
-import { normalizeThrowable } from "../../core/src/normalize-throwable"
+import { normalizeThrowable } from "../../errors-core/src/normalize-throwable"
 import { useEffect, useRef } from "react"
 import { reportError } from "./report-error"
 import type { ErrorApp } from "./setup-global-error-handlers"
