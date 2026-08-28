@@ -4,6 +4,7 @@ import { discoverSynthFiles, generatedPathFor, loadSynthOutputs } from "@infra/k
 import { parseAllDocuments } from "yaml"
 import { type Ran, runKubectl } from "../kubectl/kubectl.ts"
 import { DeployRefused } from "../refusal/refusal.ts"
+import { type Placed, placeSecrets } from "../secret/secret.ts"
 import type { ClusterService, Service } from "../service/service.ts"
 
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
@@ -195,6 +196,7 @@ export interface Deployed {
   readonly plan: Plan
   readonly written: readonly string[]
   readonly ran: readonly Ran[]
+  readonly placed: readonly Placed[]
 }
 
 export async function deploy(
@@ -205,13 +207,25 @@ export async function deploy(
   refuseStandIns(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []
-  for (const manifest of plan.manifests) {
+  const opens = plan.manifests.filter((one) => opensTheNamespace(one, plan.service))
+  const rest = plan.manifests.filter((one) => !opens.includes(one))
+  for (const manifest of opens) {
     const one = runKubectl(applyOf(plan, manifest))
     ran.push(one)
-    if (one.code !== 0) return { plan, written, ran }
+    if (one.code !== 0) return { plan, written, ran, placed: [] }
   }
-  if (!awaitRollout) return { plan, written, ran }
+  const secrets = placeSecrets(akasha, plan)
+  ran.push(...secrets.ran)
+  if (secrets.ran.some((one) => one.code !== 0)) {
+    return { plan, written, ran, placed: secrets.placed }
+  }
+  for (const manifest of rest) {
+    const one = runKubectl(applyOf(plan, manifest))
+    ran.push(one)
+    if (one.code !== 0) return { plan, written, ran, placed: secrets.placed }
+  }
+  if (!awaitRollout) return { plan, written, ran, placed: secrets.placed }
   const rollout = rolloutOf(plan)
   if (rollout !== null) ran.push(runKubectl(rollout))
-  return { plan, written, ran }
+  return { plan, written, ran, placed: secrets.placed }
 }
