@@ -49,7 +49,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres/generated/postgres-cnpg-objectstore.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres-cnpg/generated/postgres-cnpg-objectstore.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -70,13 +70,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-cnpg-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres/k8s/postgres-cnpg-superuser.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/k8s/postgres-cnpg-superuser.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres/k8s/postgres-cnpg-superuser.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/postgres-cnpg-superuser.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -87,13 +87,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-grafana-ro-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres/k8s/grafana-ro-password.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/k8s/grafana-ro-password.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres/k8s/grafana-ro-password.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/grafana-ro-password.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -104,13 +104,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
       ...sopsDecryptApply({
         name: "postgres-apply-agent-adhoc-secret",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres/k8s/agent-adhoc-password.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/k8s/agent-adhoc-password.sops.yaml",
       }),
       commands: (ci: CIContext) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres/k8s/agent-adhoc-password.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/agent-adhoc-password.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -126,7 +126,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres/generated/postgres-cnpg-cluster.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres-cnpg/generated/postgres-cnpg-cluster.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -151,7 +151,7 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...skipCheck,
-          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres/generated/postgres-cnpg-scheduledbackup.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres-cnpg/generated/postgres-cnpg-scheduledbackup.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -314,7 +314,7 @@ const foundationPostgres = workflow("postgres", {
     kubectlApply({
       name: "postgres-apply-namespace",
       namespace: "postgres",
-      files: "infra/k8s/src/postgres/generated/namespace.generated.yaml",
+      files: "infra/k8s/src/postgres-cnpg/generated/namespace.generated.yaml",
       serverSide: true,
     }),
 
@@ -327,7 +327,7 @@ const foundationPostgres = workflow("postgres", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -f infra/k8s/src/postgres/generated/postgres-cnpg-pv.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -f infra/k8s/src/postgres-cnpg/generated/postgres-cnpg-pv.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -340,13 +340,13 @@ const foundationPostgres = workflow("postgres", {
       ...sopsDecryptApply({
         name: "postgres-apply-secrets",
         namespace: "postgres",
-        secretFile: "infra/k8s/src/postgres/k8s/postgres-secrets.sops.yaml",
+        secretFile: "infra/k8s/src/postgres-cnpg/k8s/postgres-secrets.sops.yaml",
       }),
       commands: (ci) => [
         "set -e",
         `CONTENT_HASH="${ci.inputsHash}"`,
         ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres/k8s/postgres-secrets.sops.yaml)`,
+        `DECRYPTED=$(sops -d ${ci.workspace}/infra/k8s/src/postgres-cnpg/k8s/postgres-secrets.sops.yaml)`,
         `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
         `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
       ],
@@ -356,8 +356,8 @@ const foundationPostgres = workflow("postgres", {
     {
       ...buildkitBuild({
         name: "postgres-build-cnpg-image",
-        context: "infra/k8s/src/postgres/build-cnpg",
-        dockerfile: "infra/k8s/src/postgres/build-cnpg",
+        context: "infra/k8s/src/postgres-cnpg/build-cnpg",
+        dockerfile: "infra/k8s/src/postgres-cnpg/build-cnpg",
         tag: IMAGE_TAG_CNPG,
         cache: false,
       }),
@@ -375,7 +375,7 @@ const foundationPostgres = workflow("postgres", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres/generated/postgres-service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n postgres -f infra/k8s/src/postgres-cnpg/generated/postgres-service.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
