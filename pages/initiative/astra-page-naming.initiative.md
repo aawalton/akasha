@@ -20,7 +20,7 @@ parent-slug: astra-pages-system
 
 **A page lives where its domain lives**, rather than under a page-type folder.
 
-**A file's page type comes from its frontmatter, settled 2026-08-27.** The glob no longer decides and goes away entirely. The file kind must agree with the frontmatter, so a `.domain.md` file whose frontmatter says `person` is a refusal rather than a third answer. `page-types-system` at `58fa00a` carries the three intents.
+**A file's page type comes from the name it carries, settled 2026-08-27.** The glob no longer decides and goes away entirely. The frontmatter must agree with the kind and does not decide it, so a `.domain.md` whose frontmatter says `person` is a refusal rather than a third answer. `page-types-system` at `58fa00a` carries the three intents.
 
 **Nothing in the data violates the new rule.** Zero of 61,153 markdown files disagree, so the ruling was a code ablation rather than a data migration.
 
