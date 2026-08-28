@@ -5,17 +5,10 @@ import { Page } from "@shared/pages-core/page-types"
 import * as realAuthServer from "@shared/supabase-rr/auth/server"
 import type { PageLookup, ServeMediaParams } from "./serve-media"
 
-const realRefreshSession = realAuthServer.refreshSession
-const realGetRequestServerClient = realAuthServer.getRequestServerClient
-const realResolveRequestSession = realAuthServer.resolveRequestSession
-
 let resolveCalls = 0
 
 mock.module("@shared/supabase-rr/auth/server", () => ({
-  refreshSession: realRefreshSession,
   authGuard: async () => ({ headers: new Headers() }),
-  getRequestServerClient: realGetRequestServerClient,
-  resolveRequestSession: realResolveRequestSession,
   getUser: async () => ({ user: null, headers: new Headers() }),
   getUserFromBearerToken: async () => ({ user: null }),
   parseBearerToken: realAuthServer.parseBearerToken,
