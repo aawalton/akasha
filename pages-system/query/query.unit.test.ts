@@ -1,10 +1,11 @@
 import { expect, test } from "bun:test"
 import type { Value, Values } from "../formula/formula.ts"
+import type { Extending } from "./expands.ts"
+import type { Declaring } from "./keys.ts"
 import {
   type Checked,
   checkQuery,
   type Declared,
-  type Extending,
   type Page,
   type Query,
   runQuery,
@@ -33,9 +34,10 @@ const boolean = (of: boolean): Value => ({ kind: "boolean", boolean: of })
 const checked = (
   query: Query,
   declared: Declared = declaredOf(),
-  extending?: Extending
+  extending?: Extending,
+  declaring?: Declaring
 ): Checked => {
-  const answer = checkQuery(query, declared, extending)
+  const answer = checkQuery(query, declared, extending, declaring)
   if (!answer.ok) throw new Error(`refused: ${answer.message}`)
   return answer
 }
@@ -43,15 +45,23 @@ const checked = (
 const refusalOf = (
   query: Query,
   declared: Declared = declaredOf(),
-  extending?: Extending
+  extending?: Extending,
+  declaring?: Declaring
 ): string => {
-  const answer = checkQuery(query, declared, extending)
+  const answer = checkQuery(query, declared, extending, declaring)
   if (answer.ok) throw new Error("checked")
   return answer.message
 }
 
 /** What each page type extends, written the way a page type states it: the slug it builds on. */
 const extending = (of: Record<string, string>): Extending => new Map(Object.entries(of))
+
+/** What each page type asked about declares, as a store would hand it in. */
+const declaring = (of: Record<string, Declared>): Declaring => new Map(Object.entries(of))
+
+/** The keys a page answered under, in the order the query asked for them. */
+const keysOf = (page: Page | undefined): readonly string[] =>
+  Object.keys(page?.values.properties ?? {})
 
 /** The family a checked query asks about, in an order a case can state. */
 const family = (query: Checked): readonly string[] => [...query.pageTypes].sort()
@@ -233,6 +243,104 @@ test("a where wrong in its own text is refused at reading, not at checking", () 
   const answer = checkQuery({ pageType: "run", where: "{slug" }, declaredOf())
   if (answer.ok) throw new Error("checked")
   expect(answer.moment).toBe("reading")
+})
+
+test("a key some page types beneath declare and others do not is answered by every one of them", () => {
+  const above = declaredOf()
+  const below = declaredOf({ enabled: { type: BOOLEAN } })
+  const query = checked(
+    { pageType: "domain", expands: true, keys: ["slug", "enabled"] },
+    above,
+    extending({ command: "domain", task: "domain" }),
+    declaring({ domain: above, command: below, task: above })
+  )
+  const found = runQuery(query, [
+    pageOf("akasha:one.domain.md", { slug: text("one"), id: text("1") }),
+    pageOf("akasha:two.command.md", { slug: text("two"), enabled: boolean(true) }),
+  ])
+  expect(found.map((page) => page.values.properties["enabled"])).toEqual([
+    { kind: "absent" },
+    boolean(true),
+  ])
+  expect(found.map((page) => page.values.properties["slug"])).toEqual([text("one"), text("two")])
+  for (const page of found) expect(keysOf(page)).toEqual(["slug", "enabled"])
+})
+
+test("a key no page type asked about declares is refused rather than answered absent everywhere", () => {
+  const above = declaredOf()
+  expect(
+    refusalOf(
+      { pageType: "domain", expands: true, keys: ["slug", "running"] },
+      above,
+      extending({ command: "domain" }),
+      declaring({ domain: above, command: above })
+    )
+  ).toBe("no page type this asks about declares `running`")
+})
+
+test("a page type asked about declaring none of the keys asked for is refused, naming it", () => {
+  const above = declaredOf()
+  const apart: Declared = { properties: { code: { type: TEXT } }, beyond: {} }
+  expect(
+    refusalOf(
+      { pageType: "domain", expands: true, keys: ["slug"] },
+      above,
+      extending({ oddity: "domain" }),
+      declaring({ domain: above, oddity: apart })
+    )
+  ).toBe(
+    "`oddity` declares none of the keys asked for, and every page of that would answer absent under all of them"
+  )
+})
+
+test("a query asking for keys with nothing said of what each page type declares is refused", () => {
+  expect(
+    refusalOf(
+      { pageType: "domain", expands: true, keys: ["slug"] },
+      declaredOf(),
+      extending({ command: "domain" })
+    )
+  ).toContain("`command`")
+})
+
+test("a query naming one page type holds its keys to that page type alone", () => {
+  expect(refusalOf({ pageType: "seat", keys: ["running"] })).toBe(
+    "no page type this asks about declares `running`"
+  )
+})
+
+test("a key declared to hold what a page is not answered with is refused saying what it holds", () => {
+  const declared = declaredOf({}, { "turn-end-decisions": "pages" })
+  expect(refusalOf({ pageType: "seat", keys: ["turn-end-decisions"] }, declared)).toBe(
+    "`turn-end-decisions` is declared to hold `pages`, which a page is not answered with"
+  )
+})
+
+test("a query asking for keys and naming none is refused", () => {
+  expect(refusalOf({ pageType: "seat", keys: [] })).toContain("at least one")
+})
+
+test("a query asking for no keys answers the pages as they were read", () => {
+  const pages = [pageOf("a", { slug: text("a"), id: text("1") })]
+  expect(runQuery(checked({ pageType: "seat" }), pages)).toBe(pages)
+})
+
+test("a where may name a key the query did not ask for, the narrowing coming after the test", () => {
+  const declared = declaredOf({ "on-call": { type: BOOLEAN } })
+  const query = checked({ pageType: "seat", keys: ["slug"], where: "{on-call}" }, declared)
+  const found = runQuery(query, [
+    pageOf("in", { slug: text("in"), "on-call": boolean(true) }),
+    pageOf("out", { slug: text("out"), "on-call": boolean(false) }),
+  ])
+  expect(at(found)).toEqual(["in"])
+  expect(keysOf(found[0])).toEqual(["slug"])
+})
+
+test("a checked query cannot be reached past its keys by answering the pages itself", () => {
+  const query = checked({ pageType: "seat", keys: ["slug"] })
+  expect(keysOf(query.answer([pageOf("a", { slug: text("a"), id: text("1") })])[0])).toEqual([
+    "slug",
+  ])
 })
 
 test("a refusal is not something runQuery can be handed", () => {

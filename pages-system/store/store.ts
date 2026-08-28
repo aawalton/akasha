@@ -28,7 +28,8 @@
  */
 
 import type { Property, Value, Values } from "../formula/formula.ts"
-import type { Declared, Extending, Page } from "../query/query.ts"
+import type { Extending } from "../query/expands.ts"
+import type { Declared, Page } from "../query/query.ts"
 import { type Repo, addressIn, notIn, pathOf } from "./address.ts"
 import { type Stated, pagesUnder, statedAt } from "./files.ts"
 import { heldBy, valuedAs } from "./held.ts"
