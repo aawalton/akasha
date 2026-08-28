@@ -56,7 +56,7 @@ Filed as `page-property-computed/no-property-reaches-a-file-backed-reader-marked
 
 Filed as `pages-system/the-new-default-name-formula-is-wired-to-nothing`.
 
-**A file's page type comes from one function, 2026-08-27.** Five sites still read frontmatter first, two of them inverting the settled rule. `suffix.ts:57` genuinely disagrees, calling `a.b.domain.md` no domain at all.
+**A file's page type comes from one function, 2026-08-27.**
 
 - `page-name-unique` carries `check-on-patch: false` and `check-on-worktree: false`, so a 495-file write reported zero checks. An unstated key runs, because `check-on-patch` states `default: true` and `checks-system/checks.ts:84` reads `said !== false`.
 - Two functions are named `pageTypeOf`, one naming a file's page type and one building a record.
