@@ -26,9 +26,9 @@
 
 import type { DailyValues, ValueFace } from '../../../../readouts/daily-stoplights.ts';
 import type * as vscode from 'vscode';
-import type { StoplightLegends } from './legends';
-import { SLOTS } from './slots';
-import type { UsageReading } from './usage';
+import type { StoplightLegends } from './legends.ts';
+import { SLOTS } from './slots.ts';
+import type { UsageReading } from './usage.ts';
 
 // One read's outcome for its section: the fresh value (or undefined when the
 // read failed and the section retains its last value), whether it is stale, and

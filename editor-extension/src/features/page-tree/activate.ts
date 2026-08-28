@@ -3,13 +3,13 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { repositoryPath, unreachableMessage } from '../../harness-call';
-import { recordObservation } from '../../seat/observation-store';
-import { createSettledRefresh } from '../settled-refresh';
-import { countPages, countRows, readPageTree } from "./harness"
-import { type PageNode } from "./assemble";
-import { REFRESH_COMMAND, VIEW_ID } from './ids';
-import { createPageTree } from './tree';
+import { repositoryPath, unreachableMessage } from '../../harness-call.ts';
+import { recordObservation } from '../../seat/observation-store.ts';
+import { createSettledRefresh } from '../settled-refresh.ts';
+import { countPages, countRows, readPageTree } from "./harness.ts"
+import { type PageNode } from "./assemble.ts";
+import { REFRESH_COMMAND, VIEW_ID } from './ids.ts';
+import { createPageTree } from './tree.ts';
 
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'page-tree';

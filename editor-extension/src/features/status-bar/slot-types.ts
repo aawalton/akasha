@@ -2,7 +2,7 @@
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
-import type { UsageReading } from './usage';
+import type { UsageReading } from './usage.ts';
 
 // A cross-account usage mean. Its `read` takes its own source: the two means come from
 // the page query service, which reduces the account PAGES.

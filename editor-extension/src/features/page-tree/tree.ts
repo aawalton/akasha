@@ -3,9 +3,9 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
-import { filterTree, textMatches } from '../tree-filter';
-import { documentPath } from "./harness"
-import { type PageNode, type PageTree } from "./assemble";
+import { filterTree, textMatches } from '../tree-filter.ts';
+import { documentPath } from "./harness.ts"
+import { type PageNode, type PageTree } from "./assemble.ts";
 
 /**
  * The workbench's own command for opening a resource, as the two trees beside this one use: opening

@@ -48,7 +48,7 @@
  * lands — a refresh that fails or comes back empty costs a tooltip nothing.
  */
 
-import { STOPLIGHTS_SECTIONS, type StoplightsSection } from './slot-types';
+import { STOPLIGHTS_SECTIONS, type StoplightsSection } from './slot-types.ts';
 
 // Generous against the ~7s a cold group resolve measures, so a slow-but-working
 // resolve is never cut off; short enough that a stuck one frees within a handful of

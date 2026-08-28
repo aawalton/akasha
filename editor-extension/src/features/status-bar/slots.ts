@@ -36,8 +36,8 @@
  * they arrive.
  */
 
-import type { SlotDef } from './slot-types';
-import { BLUE_HEX, PURPLE_HEX } from './theme';
+import type { SlotDef } from './slot-types.ts';
+import { BLUE_HEX, PURPLE_HEX } from './theme.ts';
 
 
 // A usage mean is null when no claude-account PAGE carried the attribute, or when the

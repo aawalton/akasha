@@ -29,8 +29,8 @@ import * as path from 'node:path';
 import { z } from 'zod';
 import { askHere } from '../../../../readouts/ask-here.ts';
 import type { Ask } from '../../../../readouts/readout-resolver.ts';
-import { akashaRoot } from '../../harness-call';
-import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
+import { akashaRoot } from '../../harness-call.ts';
+import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble.ts';
 
 
 /**

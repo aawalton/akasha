@@ -9,11 +9,11 @@ import {
 } from "./page-query.ts"
 import { queryFrom } from "./page-query-fields.ts"
 import { whole } from "./page-query-whole.ts"
-import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind"
+import { absentSays, bind, composedFrom, isRefused } from "./page-query-bind.ts"
 import { pagesNaming } from "./page-query-naming.ts"
 import { shapeOf } from "./page-query-shape.ts"
 import { asRecord, givenIn, namedSafely, type Said, said } from "./page-query-request.ts"
-import type { Roots } from "../../page/page"
+import type { Roots } from "../../page/page.ts"
 
 export const READ_ROUTE = /^\/page\/([a-z0-9-]+)\/(.+)$/
 

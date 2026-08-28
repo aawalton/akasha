@@ -10,13 +10,13 @@ import { getDailyValues, getValuesLegend } from '../../../../readouts/daily-stop
 import { getInboxLegend, getInboxStoplights } from '../../../../readouts/inbox-stoplights.ts';
 import { getUpkeepLegend, getUpkeepStoplights } from '../../../../readouts/upkeep-stoplights.ts';
 import * as vscode from 'vscode';
-import { recordObservation } from '../../seat/observation-store';
-import { createLegendStore } from './legends';
-import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render';
-import { SLOTS } from "./slots"
-import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "./theme";
-import type { StoplightsSection } from './slot-types';
-import { readUsage } from './usage';
+import { recordObservation } from '../../seat/observation-store.ts';
+import { createLegendStore } from './legends.ts';
+import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render.ts';
+import { SLOTS } from "./slots.ts"
+import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "./theme.ts";
+import type { StoplightsSection } from './slot-types.ts';
+import { readUsage } from './usage.ts';
 
 /**
  * This feature's name in the observation record, and in `extension.ts`'s list.
