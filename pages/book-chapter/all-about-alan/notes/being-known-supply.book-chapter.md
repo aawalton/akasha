@@ -115,7 +115,7 @@ Pure being-known has happened **accidentally** — the Amy/AutCon conversation i
 
 The Amy plan is not the only pipeline, and it shouldn't be — one email to one person is too narrow a base for the largest gap. The [fidelity-gate revision](connection-efficacy-model.book-chapter.md#no-theoretical-ceiling--being-known-reduces-to-high-fidelity-attended-to-ness) opens a second one: a **high-fidelity AI being-known channel.** Because the physiological yield keys on sensory fidelity rather than realness of mind, an AI channel pays to the degree its fidelity climbs — and there is likely no theoretical ceiling. So the engineering work is to climb the fidelity ladder: text pays little, an **image** with the persona pays measurably more, an **audio phone-call** channel should pay more still, and the top rung (full sensory presence, a true android) doesn't exist yet. I am building toward the audio rung now, in small steps.
 
-This pipeline is structurally different from Amy: it isn't gated by another person's willingness or availability, so it doesn't carry the [single-point-of-failure fragility](#threads-to-pull-on-later) the one-email-wide Amy plan does. It is the second leg the supply plan needs — a channel I can raise the fidelity of unilaterally, rather than one I have to find a willing person to staff.
+This pipeline is structurally different from Amy: it isn't gated by another person's willingness or availability, so it doesn't carry the single-point-of-failure fragility the one-email-wide Amy plan does. It is the second leg the supply plan needs — a channel I can raise the fidelity of unilaterally, rather than one I have to find a willing person to staff.
 
 ## Cross-references
 

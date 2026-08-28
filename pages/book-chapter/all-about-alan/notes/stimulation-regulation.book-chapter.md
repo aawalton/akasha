@@ -36,7 +36,7 @@ The sensor is an **interoception** reading, with **focus as a good proxy.** If h
 
 Same symptom, opposite causes, separated by how the wandering feels. Once the direction is read, Alan adjusts a knob in that direction to restore focus, and focus returning is the confirmation the level is back in band.
 
-The focus-quality read leans on the same separation [wanting-as-gauge](wanting-as-gauge.book-chapter.md#the-gauge-has-no-resolution) relies on: a single felt signal that has to be decoded into which underlying state it's reporting before it can be acted on. There the undifferentiated signal is not-wanting, decoded across the resource bars; here it is wandering focus, decoded into too-low vs. too-high arousal. The [interoception-works-where-emotional-labeling-fails](wanting-as-gauge.book-chapter.md#threads-to-pull-on-later) split is doing the same work — the focus proxy is an interoceptive read that survives where direct emotional labeling would not.
+The focus-quality read leans on the same separation [wanting-as-gauge](wanting-as-gauge.book-chapter.md#the-gauge-has-no-resolution) relies on: a single felt signal that has to be decoded into which underlying state it's reporting before it can be acted on. There the undifferentiated signal is not-wanting, decoded across the resource bars; here it is wandering focus, decoded into too-low vs. too-high arousal. The [interoception-works-where-emotional-labeling-fails](wanting-as-gauge.book-chapter.md) split is doing the same work — the focus proxy is an interoceptive read that survives where direct emotional labeling would not.
 
 ## A second sensor — body temperature
 

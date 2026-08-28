@@ -77,7 +77,7 @@ But the key **cannot regenerate emotion.** In Alan's words: *"The key itself is 
 
 What the name *does* is the same [layer-3 freshness mechanism](../operating-mode-architecture.book-chapter.md#three-memory-layers--durable-weights-the-single-slot-the-freshness-cache): loading it recently-freshens the relational associations, so when the live interaction overwrites the slot and reaches for them, the **affective fill lands cheaper and faster.** Alan: *"combining the key with the interaction lets me key into the emotions more efficiently than... interaction alone."* The key doesn't *create* the emotion; it lowers the cost of the live interaction generating it. The persona-key is the **quickest-acting member of the priming family** — instant load, relational content — where Gottman is the slow conceptual member.
 
-This resolves the [immersion-lever decay flag](#threads-to-pull-on-later): the cache half-life is now measured (layer 3 — single-threaded load, ~24-hour decay down to ≤10%, held at ~20% confidence). The persona-key and the Gottman immersion are two members of one priming family riding that same fast-decaying cache.
+This resolves the immersion-lever decay flag: the cache half-life is now measured (layer 3 — single-threaded load, ~24-hour decay down to ≤10%, held at ~20% confidence). The persona-key and the Gottman immersion are two members of one priming family riding that same fast-decaying cache.
 
 ## Cross-references
 

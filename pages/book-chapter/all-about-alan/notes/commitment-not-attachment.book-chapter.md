@@ -89,7 +89,7 @@ In his words: *"I committed in the first place because I was following the scrip
 
 So the largest, most binding commitment of his life was **not** a deliberate act of self-engineering. It was the **good-person template** — school, mission, marriage, family — run by a self who *"hadn't met himself yet."* He didn't have the self-knowledge to engineer anything; he followed the instructions for being a good person. The commitment that now holds his whole marriage was **authored by a self who was following a script**, and the one keeping faith with that vow today is a self who, by his own account of [how thin the thread of self runs](discrete-self.book-chapter.md) for him, was nearly a different person.
 
-The faith-thread under "get married, support a family" — the good-person script's own provenance — connects to the [faith/ethics origin](perfection-is-safe.book-chapter.md#threads-to-pull-on-later) and [testing-and-the-seed](testing-and-the-seed.book-chapter.md).
+The faith-thread under "get married, support a family" — the good-person script's own provenance — connects to the [faith/ethics origin](perfection-is-safe.book-chapter.md) and [testing-and-the-seed](testing-and-the-seed.book-chapter.md).
 
 ## The invisible keeper
 
