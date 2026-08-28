@@ -17,6 +17,10 @@ const CODE_EXTENSION = "ts"
 
 const NONE = "none"
 
+const CODE_TAIL = `.${CODE_KEY}.attachment.${CODE_EXTENSION}`
+
+const PAGE_TAIL = ".md"
+
 const HELD = new WeakMap<BuildContext, ReadonlyMap<string, NodeRef>>()
 
 function statedLoader(said: unknown): NodeRef | null {
@@ -48,20 +52,36 @@ function loadersIn(ctx: BuildContext): ReadonlyMap<string, NodeRef> {
   return made
 }
 
+function loadingOf(ctx: BuildContext, page: GraphNode, ref: NodeRef): readonly EdgeInit[] {
+  if (page.kind !== FILE_NODE_KIND) return []
+  const type = page.attrs["page-type-slug"]
+  if (typeof type !== "string") return []
+  const loader = loadersIn(ctx).get(type)
+  if (loader === undefined) return []
+  if (fileNodeProducer.at(ctx, ref) === null) return []
+  if (ref.repo === loader.repo && ref.key === loader.key) return []
+  const edge: EdgeInit = { kind: IMPORT_EDGE, from: loader, to: ref, attrs: {} }
+  return [edge]
+}
+
 export const loaderEdgeProducer: EdgeProducer = {
   name: "loader",
   edgeKinds: () => [IMPORT_EDGE],
   from: (ctx: BuildContext, file: GraphNode) => {
     if (file.kind !== FILE_NODE_KIND) return []
-    const type = file.attrs["page-type-slug"]
-    if (typeof type !== "string") return []
-    const loader = loadersIn(ctx).get(type)
-    if (loader === undefined) return []
     const ref = { repo: file.repo, key: attachmentFileOf(file.key, CODE_KEY, CODE_EXTENSION) }
-    if (fileNodeProducer.at(ctx, ref) === null) return []
-    if (ref.repo === loader.repo && ref.key === loader.key) return []
-    const edge: EdgeInit = { kind: IMPORT_EDGE, from: loader, to: ref, attrs: {} }
-    return [edge]
+    return loadingOf(ctx, file, ref)
+  },
+  // A loader edge reaches a page's code attachment and nothing else, and the page that attachment
+  // belongs to is its own key with the attachment tail swapped for the page one. So the single page
+  // an edge here could come from is named rather than searched for, and no node but that page and
+  // the one asked after is produced.
+  into: (ctx: BuildContext, ref: NodeRef) => {
+    if (!ref.key.endsWith(CODE_TAIL)) return []
+    const key = `${ref.key.slice(0, -CODE_TAIL.length)}${PAGE_TAIL}`
+    const page = fileNodeProducer.at(ctx, { repo: ref.repo, key })
+    if (page === null) return []
+    return loadingOf(ctx, page, ref)
   },
 }
 
