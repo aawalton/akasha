@@ -3,7 +3,7 @@
 import { AuthContext, type AuthContextValue } from "@shared/auth/use-auth"
 import { SurfaceProvider } from "@shared/design-system"
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
-import { SupabasePageResolverProvider } from "@shared/pages-ui/supabase"
+import { SupabasePageResolverProvider } from "@shared/pages-ui/supabase/page-resolver-provider"
 import { reportPagesStoreStall } from "@shared/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@shared/pages-ui-store/singleton"
 import { PageTypeSlug } from "@shared/pages-url"
