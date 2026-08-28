@@ -15,7 +15,9 @@ Measured 2026-08-28 by seat astra, after restoring `page-holds-to-its-type` at `
 
 `pages/page-body-shape/finding.page-body-shape.md` bounds a finding's `# Claim` at 500 characters and `# Evidence` at 2000. The refusal is not scoped to the section being changed: a one-character correction to a conforming section is refused because a different section is over.
 
-Over the 3,099 tracked findings, 479 stand outside the shape — 168 over on Claim, 392 over on Evidence. Under `domain/pages-system` and the 375 nodes beneath it, 43 of 93 findings are frozen.
+Over the 3,099 tracked findings, 479 stand outside the shape — 168 over on Claim, 392 over on Evidence. The 479 is the check own measure: probes at 1,999, 2,000 and 2,005 characters passed, passed and were refused, the refusal reporting `measured 2005`.
+
+Two seats cleared their own sealed pages losing no measurement, and the bound is right. But they knew what each sentence was for; whoever holds the rest will not, and the cheapest legal act on a sealed page is deletion. Under `domain/pages-system` and the 375 nodes beneath it, 43 of 93 findings are frozen.
 
 Three delegates hit the wall independently in one night, each while trying to record something true:
 
