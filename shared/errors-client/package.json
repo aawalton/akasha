@@ -5,6 +5,8 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./error-capture-installer": "./src/error-capture-installer.tsx",
+    "./use-report-render-error": "./src/use-report-render-error.tsx",
     "./*": "./src/*.ts"
   },
   "peerDependencies": {
