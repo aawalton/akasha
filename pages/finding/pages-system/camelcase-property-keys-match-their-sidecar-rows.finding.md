@@ -22,4 +22,4 @@ Mechanism corrected 2026-08-28; what stood here was false and is struck. This pa
 
 `camelizeKey` now stands at `shared/pages-access/src/file-rows.ts:37-43`. Run through it: `abilityCooldown` returns `abilityCooldown` and `ability-cooldown` returns `abilityCooldown`; `userId` returns `userId` and `user-id` returns `userId`. It is idempotent on camelCase and carries both spellings to one key, so `getPages` mangles nothing and a kebab rewrite would not break these three types.
 
-What survives is the agreement itself: the documents declare what the rows spell. What does not survive is the deterrent — anyone who read this page as a reason not to rewrite was being held back by a mechanism that is not there.
+What survives is the agreement itself: the documents declare what the rows spell. The deterrent does not survive.
