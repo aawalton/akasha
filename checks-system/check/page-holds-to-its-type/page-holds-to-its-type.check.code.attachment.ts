@@ -2,7 +2,7 @@ import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import { claimant, type PageType, placesOf, reposOf } from "../../../page/page-types.ts"
 import { globFor } from "../../../page/glob/glob.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
-import { compiledPageTypeFor } from "../../../page/property/frontmatter.ts"
+import { compiledPageTypeFor, vocabularyFor } from "../../../page/property/frontmatter.ts"
 import { judgeFrontmatter } from "../../../page/property/judge.ts"
 import { registryOf } from "../../../page/property/registry.ts"
 import { aboveOf, shapeFor } from "../../../page/shape/chain.ts"
@@ -29,12 +29,35 @@ function outsideShape(relPath: string, body: string, type: PageType, tree: FileT
   return verdict.refusals.map((one) => partOutsideShape(one, `line ${one.span.start.line}`))
 }
 
+/**
+ * The keys nothing here could judge, said to the writer rather than counted somewhere else.
+ *
+ * A KEY NOTHING JUDGED READS EXACTLY LIKE A KEY THAT WAS JUDGED AND HELD, which is why this is a
+ * refusal rather than a number. `unjudged` names the keys whose type rule could not be armed. The
+ * keys whose value stands beside the page or in its sops file are `elsewhere` instead, judged
+ * where they stand, so nothing here is missing for them and they are not reported.
+ *
+ * WHERE NOTHING NAMED THE TYPES AT ALL, EVERY KEY IS UNJUDGED AND NO ONE OF THEM IS THE FAULT.
+ * An unread vocabulary would otherwise reach the writer as a refusal per key on every page the
+ * write touches, each naming its key rather than the one thing that went wrong. That is a fault
+ * about the whole tree, so it is left to the checks that weigh the whole tree.
+ */
+function unjudgedHere(unjudged: readonly string[], tree: FileTree): readonly string[] {
+  if (unjudged.length === 0 || vocabularyFor(tree).why !== null) return []
+  return unjudged.map(
+    (one) =>
+      `nothing here could judge ${one}. A key admitted because nothing judged it reads exactly ` +
+      `like a key that was judged and held.`
+  )
+}
+
 function outsideProperties(body: string, type: PageType, tree: FileTree): readonly string[] {
   const held = compiledPageTypeFor(type, tree)
   const { properties } = held
   if (properties === null || properties.length === 0) return []
   const verdict = judgeFrontmatter(body, type.slug, properties, null, held)
-  return verdict.why === null ? verdict.refusals : [verdict.why]
+  if (verdict.why !== null) return [verdict.why]
+  return [...verdict.refusals, ...unjudgedHere(verdict.unjudged, tree)]
 }
 
 function claimedElsewhere(
