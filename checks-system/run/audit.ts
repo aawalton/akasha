@@ -13,16 +13,6 @@ export function judgesAuthor(check: Check): boolean {
   return check.needsAuthor === true
 }
 
-/**
- * Every check run over the whole tree, inside one call scope.
- *
- * THE SCOPE IS WHAT MAKES THIS FINISH. `onceInCall` holds nothing unless some caller has opened a
- * call around it, and nothing had: every scan a check asks for was worked out again from scratch
- * on every file it was asked about. `file-length` alone asks three of them per file over the
- * ceiling, each walking every row the page index holds, which over this tree is nine thousand
- * files against sixty thousand rows — the audit ran for tens of minutes and printed nothing. The
- * tree does not move under an audit, so one answer per scan is the right number.
- */
 export function runAudit(checks: readonly Check[], root: string): readonly CheckRun[] {
   return duringOneCall(() => auditRun(checks, root))
 }
@@ -42,8 +32,6 @@ function auditRun(checks: readonly Check[], root: string): readonly CheckRun[] {
   const runs = checks
     .filter((one) => !judgesAuthor(one))
     .map((check) =>
-      // NO EARLIER TREE, BECAUSE AN AUDIT JUDGES A TREE NOTHING IS CHANGING. A check asking what a
-      // change caused has nothing to subtract here and answers about the one tree it is given.
       runKept(check, subjects, RUNTIME_MARK, answers, tree, {
         act: null,
         before: null,

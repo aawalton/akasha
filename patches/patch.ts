@@ -74,13 +74,6 @@ export function patchText(
   const held = mkdtempSync(`${SCRATCH}/mp-write-`)
   const index = `${held}/index`
   try {
-    // THE BASE IS PINNED TO A COMMIT RATHER THAN LEFT AS `HEAD`. Each landing below is a
-    // `hash-object` and an `update-index`, so a large change set holds this loop open for minutes
-    // while other seats land on main at about six commits a minute. `read-tree HEAD` fills the index
-    // from the commit standing when it runs, and `diff --cached HEAD` compares that index against
-    // whichever commit stands when IT runs, so every path the two commits differ on enters the patch
-    // as a reversion the writer never made — and the checks then refuse the write over files it never
-    // touched. One `rev-parse` makes both ends name the same commit.
     const base = git(root, null, ["rev-parse", "HEAD"]).toString("utf8").trim()
     git(root, index, ["read-tree", base])
     for (const one of landings) {

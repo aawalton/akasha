@@ -44,12 +44,6 @@ function named(patch: Patch, index: string, base: string, filter: string): reado
   return out.toString("utf8").split("\0").filter((one) => one !== "")
 }
 
-// WHICH COMMIT THE PATCH STANDS OVER IS NAMED ONCE AND CARRIED THROUGH. `read-tree` fills the index
-// from the commit it is handed, and each `diff --cached` after it compares that index against the
-// commit IT is handed; where both are spelled `HEAD` they are resolved at different moments, and
-// other seats land on main at about six commits a minute while a large patch is applied and its
-// blobs are read. Every path those two commits differ on would then be handed to the checks as a
-// file this write changed, and refused as one its writer had not read.
 export function baseOf(patch: Patch, index: string): string {
   return git(patch, index, ["rev-parse", "HEAD"]).toString("utf8").trim()
 }
@@ -102,11 +96,6 @@ export function runGate(checks: readonly Check[], patch: Patch): readonly CheckR
     forgetRetired(answers, checksFound(patch.root))
     const oids = oidsUnder(patch.root, null)
     const ctx = contextOver(patch.root, RUNTIME_MARK, oids)
-    // THE TREE AS IT WAS IS BUILT FOR EVERY WRITE, MECHANICAL OR NOT. It used to be reachable
-    // only through `act`, which a mechanical write does not have, so a check wanting nothing but
-    // the earlier tree had to claim it judged its author to get one — and claiming that would have
-    // dropped it from every mechanical write and every audit. The two are handed over separately
-    // so neither need drags the other's exclusions along.
     const before = onDisk(patch.root)
     const act = patch.mechanical ? null : { writer: patch.writer, before }
     const runs = applying(checks, patch.mechanical).map((check) =>

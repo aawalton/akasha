@@ -189,7 +189,6 @@ export default async function edit(argv: readonly string[]): Promise<void> {
       ? readFileSync(messageFile, "utf8").trim()
       : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "edit", landings.map((one) => one.relPath)))
 
-  // ONLY `write` AND `edit` HOLD A WRITE TO WHAT ITS AUTHOR READ — never the gate beneath them.
   if (at.repo === AKASHA && !argv.includes(MECHANICAL) && process.env[GATED] !== "1") {
     heldToWhatItsAuthorRead(at.root, landings)
   }

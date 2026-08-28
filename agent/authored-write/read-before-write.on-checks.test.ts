@@ -20,7 +20,6 @@ const record = await import("../read-record.ts")
 const { bodyItself, sameBody } = record
 const { blobId } = await import("../../repo/git/git.ts")
 
-/** What the writer has read, keyed by absolute path, as the record would answer. */
 const readings = new Map<string, Reading>()
 
 mock.module("../read-record.ts", () => ({
@@ -39,13 +38,6 @@ mock.module("../read-record.ts", () => ({
       : null,
 }))
 
-/**
- * An index that addresses nothing, so `requiredReadingFor` answers with no warrant.
- *
- * WHAT A PAGE WARRANTS IS TESTED WHERE IT IS COMPUTED. These cases are about the file being
- * written — whether its author had seen the body they are landing on top of — and an index that
- * resolved addresses would put a second, unrelated source of refusals into every one of them.
- */
 const index: AddressIndex = {
   frontmatterOf: () => null,
   domainAt: () => null,

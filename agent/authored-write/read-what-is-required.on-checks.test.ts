@@ -42,8 +42,6 @@ fileAt(
 )
 fileAt(SUBAGENT_PAGE, "---\npage-type-slug: subagent\nsubagent-id: kid\n---\n")
 fileAt(ORPHAN_PAGE, "---\npage-type-slug: subagent\nsubagent-id: kid\n---\n")
-// UNREADABLE_SEAT_PAGE is deliberately absent from `bodies`: the page a writer is judged through
-// stands at a path and will not read.
 
 pageAt("domain", "seat-domain", "required-reading-slugs:\n  - domain/under-seat-domain\n")
 pageAt("domain", "under-seat-domain", "")
@@ -95,17 +93,6 @@ mock.module("../../page/required-reading/warrant/warrant.ts", () => ({
 
 const { unreadForSeatWith } = await import("./read-what-is-required.ts")
 
-/**
- * The fixture files stand in a map, and the judgment is handed both the reader that reaches them
- * and the defaults a seat silent on an attribute stands on.
- *
- * NOT `mock.module` ON `page/text/text.ts` OR ON `agent/required-reading/seat-defaults.ts`. That
- * call is process-global and mutates the namespace object in place, and `mock.restore()` leaves the
- * replacement standing, so mocking either module here reached every other test file in the same
- * run. The first left them reading their fixtures through this stub and finding nothing; the second
- * left `required-reading.on-checks.test.ts` standing on these two defaults rather than the ones the
- * seat page type declares, which drops the domain it asserts.
- */
 const unreadForSeat = unreadForSeatWith(
   (root, relPath) => bodies.get(`${root}/${relPath}`) ?? null,
   new Map([

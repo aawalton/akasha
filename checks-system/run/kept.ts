@@ -38,17 +38,6 @@ function under(check: Check, tree: Tree, subject: Subject): string {
   return oidOfBody(Buffer.from(relative(tree.root, subject.at)))
 }
 
-/**
- * Answers filed under a check that is no longer registered, removed.
- *
- * `sweep` REACHES THE MARKS UNDER ONE SLUG AND NOTHING REACHED A SLUG ITSELF, so a check that is
- * retired or renamed leaves its outcomes behind with nothing that would ever take them, the way
- * `outcome/import-reach` sat here after that check left the registry.
- *
- * THE WHOLE REGISTRY IS WHAT IS LIVE, never the set being run: a gate runs the on-patch checks and
- * an audit skips the ones judging an author, and either list read as the live one would take the
- * answers of every check it left out.
- */
 export function forgetRetired(answers: string, registry: readonly Check[]): void {
   const live = registry.map((one) => one.slug)
   forget(answers, OUTCOME_KIND, live)

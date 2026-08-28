@@ -11,13 +11,11 @@ import { refusalText } from "../../refusal/refusal.ts"
 
 const OWED = "for this path"
 
-/** One file a write would land: where it goes, and the body it would end at. */
 export interface Writing {
   readonly relPath: string
   readonly body: string | Uint8Array
 }
 
-/** How a body already on disk is reached, so a fixture tree can stand somewhere else. */
 export type BodyOnDisk = (absolute: string) => Uint8Array | null
 
 function fromDisk(absolute: string): Uint8Array | null {
@@ -104,21 +102,6 @@ function refusalOverRequired(
   return null
 }
 
-/**
- * What this write stands on and its author has not read, as refusal lines.
- *
- * A FILE NOT THERE YET HAS NO BODY TO HAVE BEEN READ, and what it warrants is judged still.
- *
- * A BODY EQUAL TO WHAT STANDS IS NOT JUDGED. Nothing about the file changes, so there is no work
- * this could be landing on top of, and nothing the new text could newly warrant.
- *
- * EVERY WARRANT IS JUDGED ONCE FOR THE WHOLE CHANGE rather than once for each file naming it.
- *
- * HANDED HOW IT READS A FILE SO NOTHING HAS TO MOCK A MODULE TO STAND FILES SOMEWHERE ELSE.
- * `mock.module` is process-global and mutates the namespace object in place, and `mock.restore()`
- * leaves the replacement standing, so a test mocking `page/text/text.ts` leaves every other test
- * file in the same run reading through its stub.
- */
 export function unreadBeforeWriteWith(
   bodyOnDisk: BodyOnDisk,
   readText: typeof textAt

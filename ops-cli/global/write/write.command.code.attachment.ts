@@ -108,14 +108,6 @@ function removalsNamed(argv: readonly string[]): readonly string[] {
   return found
 }
 
-/**
- * Whether a body could be waiting on stdin, answered without reading it.
- *
- * A REMOVAL-ONLY CALL READS NO PAYLOAD, so an open stdin cannot hang it, and a body piped in would
- * be dropped. Refusing every stdin that is not a terminal would refuse `< /dev/null` too, which is
- * how a script says the removal stands alone. A character device and an empty file carry nothing.
- * A pipe cannot be told apart from an empty one without the read that would hang, so it is refused.
- */
 function couldCarryBody(): boolean {
   if (process.stdin.isTTY === true) return false
   try {
@@ -186,9 +178,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const named = removalsNamed(argv)
   const takingAway = named.length > 0
   const reads = readsPayload(pairs.length, inputFile, takingAway)
-  // A BODY NOTHING WILL READ IS REFUSED RATHER THAN DROPPED. A call that only takes files away
-  // reads no payload, so an open stdin cannot hang it — but a caller who piped a body in meant one
-  // act, and the half that would land alone is the half that destroys.
   if (!reads && pairs.length === 0 && takingAway && couldCarryBody()) {
     fail(
       `this call takes ${named.length} path(s) away and names no body, and stdin is not a ` +
@@ -201,9 +190,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const carried = payload === null ? [] : carriedIn(payload)
   if (pairs.length === 0 && carried.length === 0) {
     if (!takingAway) fail("the payload declares no file, so it asks for no write at all")
-    // ONLY WHERE A PAYLOAD WAS ACTUALLY READ. A removal-only call reads none and asks for no
-    // write, which is whole; a payload that was read and declared nothing is the write half of
-    // this act asking for nothing, and half an act is refused.
     if (reads) {
       fail(
         "the payload declares no file while this call also takes files away — a write and a " +
@@ -213,9 +199,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   const dryRun = argv.includes(DRY_RUN)
-  // A REMOVAL IS NOT MECHANICAL. This drops the judgment of what this write's author read, so
-  // deriving it from a call that only takes files away exempts every removal from having read what
-  // it deletes. Only the flag sets it.
   const mechanical = argv.includes(MECHANICAL)
   const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
   const at = addressOf(argv, everyPath)
@@ -288,7 +271,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
     return
   }
 
-  // ONLY `write` AND `edit` HOLD A WRITE TO WHAT ITS AUTHOR READ — never the gate beneath them.
   if (at.repo === AKASHA && !mechanical && process.env[GATED] !== "1") {
     heldToWhatItsAuthorRead(at.root, entries)
   }
@@ -313,7 +295,6 @@ function removalsIn(at: Addressed, named: readonly string[]): readonly string[] 
     if (!held.has(relPath)) {
       fail(`${REMOVE} ${relPath} is not there, so the removal would take nothing away`)
     }
-    // One git holds and the worktree has lost is a file, git holding no directory of its own.
     if (existsSync(absolute) && statSync(absolute).isDirectory()) {
       fail(`${REMOVE} ${relPath} is a directory; name its files, so the commit says what went`)
     }
