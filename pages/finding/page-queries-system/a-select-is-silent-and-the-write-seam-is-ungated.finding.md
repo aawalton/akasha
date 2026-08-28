@@ -3,7 +3,7 @@ id: db339a91-6ae4-5b48-8c2c-a2cfa5a41ac2
 slug: a-select-is-silent-and-the-write-seam-is-ungated
 page-type-slug: finding
 title: "The service answers a bad select silently, and its write seam admits a value the write command refuses"
-domain-slug: workstation-service/928
+domain-slug: domain/page-queries-system
 ---
 
 # Claim
