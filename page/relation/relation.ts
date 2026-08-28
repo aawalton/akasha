@@ -4,7 +4,7 @@ import { compiledPageTypeFor } from "../property/frontmatter.ts"
 import type { Property } from "../property/property.ts"
 import { type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
-import { stemOf as slugOf } from "../name/name.ts"
+import { pageStemOf } from "../name/name.ts"
 import { addressOf } from "../page-address.ts"
 
 const POINTS = /\brelation(-(?:slug|seq|id|name|address))?\b/
@@ -87,9 +87,9 @@ export function borneBy(
 ): string | null {
   if (points === "id") return stringAt(fm, "id")
   if (points === "seq") return stringAt(fm, SEQ)
-  if (points === "address") return addressOf(type.slug, stringAt(fm, "slug") ?? slugOf(relPath))
+  if (points === "address") return addressOf(type.slug, stringAt(fm, "slug") ?? pageStemOf(relPath))
   if (slugProperty !== null) return stringAt(fm, slugProperty)
-  return stringAt(fm, "slug") ?? slugOf(relPath)
+  return stringAt(fm, "slug") ?? pageStemOf(relPath)
 }
 
 export function wantsOf(

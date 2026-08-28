@@ -8,7 +8,7 @@ import {
 } from "../../../page/index/link/link.ts"
 import { sourcesAt } from "../../../page/index/store/store.ts"
 import { mortalPagesAt } from "../../../page/mortal/mortal.ts"
-import { stemOf } from "../../../page/name/name.ts"
+import { pageStemOf } from "../../../page/name/name.ts"
 import { claimant, type PageType } from "../../../page/page-types.ts"
 import { chainOf } from "../../../page/property/frontmatter.ts"
 import { registryOf } from "../../../page/property/registry.ts"
@@ -84,7 +84,7 @@ export function fromElsewhereIn(defs: FileTree, types: readonly PageType[]): Unj
     const standing = said.get(claim.type.relPath)
     if (standing !== undefined) return standing
     const { relPaths } = chainOf(claim.type, defs)
-    const made = relPaths !== null && relPaths.some((at) => stemOf(at) === FROM_ELSEWHERE)
+    const made = relPaths !== null && relPaths.some((at) => pageStemOf(at) === FROM_ELSEWHERE)
     said.set(claim.type.relPath, made)
     return made
   }

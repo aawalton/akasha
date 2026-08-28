@@ -4,7 +4,7 @@ import { parse } from "../document/parse.ts"
 import type { Document, Refusal, Verdict } from "../document/types.ts"
 import type { Choice, PartDef, CompiledShape } from "../document/shape-types.ts"
 import { levelOf, type Level } from "./level.ts"
-import { stemOf } from "../name/name.ts"
+import { pageStemOf } from "../name/name.ts"
 import { refusalText } from "../../checks-system/refusal/refusal.ts"
 
 export interface Shape {
@@ -39,7 +39,7 @@ export function shapeOf(slug: string, relPath: string, text: string, above: read
     for (const [key, narrows] of level.keys) {
       const already = from.get(key) ?? []
       if (narrows !== null) {
-        if (!already.some((one) => stemOf(one) === narrows))
+        if (!already.some((one) => pageStemOf(one) === narrows))
           return refusalText("page-block-narrowing-unresolved", { path: at, key, narrows })
       } else if (already.length > 0) {
         return refusalText("page-block-redeclaration-silent", {
@@ -120,7 +120,7 @@ export function hold(shape: Shape, relPath: string, text: string, above: readonl
     if (!shape.bindsHoles) return verdict
     return alsoHeld(verdict, holeFaults(doc).map((one) => ({ path: relPath, ...one })))
   }
-  const declared = shapeOf(stemOf(relPath), relPath, text, above)
+  const declared = shapeOf(pageStemOf(relPath), relPath, text, above)
   if (declared.compiled !== null) return { ok: true, path: relPath, parts: 1 }
   return {
     ok: false,

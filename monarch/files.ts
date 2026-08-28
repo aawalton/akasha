@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { parse } from "../page/document/parse.ts"
 import type { Document } from "../page/document/types.ts"
 import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "../repo/roots/roots"
-import { stemOf as slugOf } from "../page/name/name"
+import { pageStemOf } from "../page/name/name"
 
 const roots = resolveRoots()
 
@@ -119,7 +119,7 @@ export function sidecarOf(slug: string): string {
 export async function monthSlugs(): Promise<readonly string[]> {
   return (await readdir(join(AKASHA, MONTHS_FOLDER)))
     .filter((name) => name.endsWith(`.${MONTH_TYPE}.md`))
-    .map((name) => slugOf(name))
+    .map((name) => pageStemOf(name))
     .sort()
 }
 

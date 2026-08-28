@@ -1,7 +1,7 @@
 import { propertyTypesOf } from "./computed.ts"
 import { claimant, globsIn, matchesAny, PAGE_TYPE_GLOBS, placeOf, reposOf, PROPERTY_GLOBS, type PageType } from "../page-types.ts"
 import { NONE, blockOf, stringAt } from "../text/text.ts"
-import { stemOf } from "../name/name.ts"
+import { pageStemOf } from "../name/name.ts"
 import { backReference, SELECT, TYPE_SLUG, TYPE_VOCABULARY } from "./value.ts"
 import { armFor, type Armed } from "./judge.ts"
 import { declarationsFromFiles, declarationsOf } from "./declarations.ts"
@@ -150,7 +150,7 @@ export function chainOf(type: PageType, tree: FileTree, index?: ReadonlyMap<stri
   let at = type.relPath
   for (;;) {
     if (seen.has(at))
-      return { relPaths: null, why: `the \`extends-slug\` chain above \`${type.slug}\` returns to \`${stemOf(at)}\`` }
+      return { relPaths: null, why: `the \`extends-slug\` chain above \`${type.slug}\` returns to \`${pageStemOf(at)}\`` }
     seen.add(at)
     relPaths.push(at)
     const text = tree.open(at)
@@ -186,7 +186,7 @@ export function propertiesFor(
   const { bySlug, fault } = declarationsFromFiles(tree)
   if (fault !== null) return { properties: null, why: fault }
   const properties: Property[] = []
-  for (const slug of new Set(relPaths.map((at) => stemOf(at))))
+  for (const slug of new Set(relPaths.map((at) => pageStemOf(at))))
     for (const one of bySlug.get(slug) ?? []) properties.push(one)
   properties.sort((a, b) => (a.at < b.at ? -1 : a.at > b.at ? 1 : 0))
   return { properties, why: null }
@@ -255,7 +255,7 @@ export function compiledPageTypeFor(type: PageType, tree: FileTree): CompiledPag
   }
   const made: CompiledPageType = {
     slug: type.slug,
-    chain: chain === null ? null : chain.map((at) => stemOf(at)),
+    chain: chain === null ? null : chain.map((at) => pageStemOf(at)),
     properties,
     armed,
     ownType: (property, named) => armOnce(property, named, ground),

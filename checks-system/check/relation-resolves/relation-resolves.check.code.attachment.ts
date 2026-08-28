@@ -1,6 +1,6 @@
 import { isAttachmentFile } from "../../../page/attachment-file.ts"
 import type { FileTree } from "../../../page/file-tree.ts"
-import { pageNameOf, stemOf } from "../../../page/name/name.ts"
+import { pageNameOf, pageStemOf } from "../../../page/name/name.ts"
 import { pageTargetOf } from "../../../page/index/place/place.ts"
 import { loadRelations, sourcesAt } from "../../../page/index/store/store.ts"
 import { mortalityIn, type Mortality } from "../../../page/mortal/mortal.ts"
@@ -70,7 +70,7 @@ function chainsOver(defs: FileTree): Chains {
     const standing = chains.get(type.relPath)
     if (standing !== undefined) return standing
     const { relPaths } = chainOf(type, defs)
-    const made = relPaths === null ? [type.slug] : relPaths.map(stemOf)
+    const made = relPaths === null ? [type.slug] : relPaths.map((at) => pageStemOf(at))
     chains.set(type.relPath, made)
     return made
   }

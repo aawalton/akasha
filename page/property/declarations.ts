@@ -3,7 +3,7 @@ import { slugNamed } from "../page-address.ts"
 import { computedOn } from "./computed.ts"
 import { DEFINED_ON, PROPERTY_GLOBS, PROPERTY_KINDS } from "../page-types.ts"
 import { blockOf, stringAt } from "../text/text.ts"
-import { stemOf } from "../name/name.ts"
+import { pageStemOf } from "../name/name.ts"
 import { TYPE } from "./value.ts"
 import { SLUG_PROPERTY, VALUES } from "./stated.ts"
 import type { Held, Stated } from "./stated.ts"
@@ -112,8 +112,8 @@ function declaredIn(relPath: string, text: string): Declared | null {
   return {
     on,
     one: {
-      name: stringAt(fm, PROPERTY_KEY) ?? stemOf(relPath),
-      slug: stringAt(fm, SLUG) ?? stemOf(relPath),
+      name: stringAt(fm, PROPERTY_KEY) ?? pageStemOf(relPath),
+      slug: stringAt(fm, SLUG) ?? pageStemOf(relPath),
       at: relPath,
       on,
       type: stated ?? "",

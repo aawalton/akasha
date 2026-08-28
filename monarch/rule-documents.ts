@@ -1,6 +1,6 @@
 
 import { readFile, readdir } from "node:fs/promises"
-import { stemOf as slugOf } from "../page/name/name"
+import { fileStemOf } from "../page/name/name"
 import { join } from "node:path"
 import { parse } from "../page/document/parse.ts"
 import type { Document } from "../page/document/types.ts"
@@ -211,7 +211,7 @@ async function standing(): Promise<readonly Standing[]> {
     const folder = folders[kind] as string
     for (const name of (await readdir(join(ROOT, folder))).sort()) {
       if (!name.endsWith(".md")) continue
-      const slug = slugOf(name)
+      const slug = fileStemOf(name)
       const path = `${folder}/${name}`
       const already = held.get(slug)
       if (already !== undefined) {
