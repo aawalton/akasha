@@ -40,7 +40,6 @@ const MINED_ITEM_DATA_KEYS = [
 
 const LEAKED_KEYS = ["userId", "id", "seq", "pageTypeId", "slug", "title"]
 
-/** A row as the page query service reports it: every value is text. */
 const ROW_FIELDS: Record<string, unknown> = {
   itemId: "12345",
   name: "Ring of the Wild Hunt",
