@@ -16,7 +16,7 @@ Measured 2026-08-28 at `08d5363e90`.
 
 74 property definition documents carry an `expression:` key.
 
-The break is one hop. `definitionOf` at `shared/pages-access/src/file-property-defs.ts:88-99` emits `id`, `key`, `title`, `type`, `pageId` and, only where options exist, `config.options`. No branch sets `expression`.
+The break is three links, and `expression` is gone two above `definitionOf`. `declarationOf` at `tools/lib/page-query-shape.ts:95-110` builds the nine fields of its `Declaration` at `:31-41` off row values that do carry the key; `DeclarationSchema` at `shared/pages-query/src/ask.ts:229-239` re-declares the same nine; `definitionOf` at `file-property-defs.ts:88-100` imports that type at `:1` and emits `id`, `key`, `title`, `type`, `pageId` and, where options exist, `config.options`. Repairing it alone changes nothing.
 
 `isComputed` at `shared/pages-core/src/formula/resolve.ts:33-34` is `isExpressionConfig(definition.config)`, which at `:25-26` requires an `expression` key holding a string. It answers false for every definition this path builds.
 
