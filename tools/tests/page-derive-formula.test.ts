@@ -9,16 +9,16 @@ const { root, roots: ROOTS } = plantPages()
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-describe("the type a property declared as a formula answers to", () => {
-  it("is the return type the formula states, rather than the word `formula`", () => {
+describe("the type a computed property answers to", () => {
+  it("is the type it states, which names what it holds rather than how", () => {
     expect(deriver(ROOTS).typeOf("gauge", "charged")).toBe("number")
   })
 
-  it("is nothing where the formula states no return type, rather than a guess at one", () => {
+  it("is nothing where it states no type, rather than a guess at one", () => {
     expect(deriver(ROOTS).typeOf("gauge", "unstated")).toBeNull()
   })
 
-  it("is the stated type itself where the property is no formula", () => {
+  it("is the stated type itself where the property works nothing out", () => {
     expect(deriver(ROOTS).typeOf("gauge", "used")).toBe("number")
   })
 })

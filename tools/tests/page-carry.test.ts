@@ -15,9 +15,8 @@ const property = (on: string, key: string, lines: readonly string[]): string =>
   page([`defined-on-slug: ${on}`, `key: ${key}`, ...lines])
 
 const reads = (of: string): readonly string[] => [
-  "type: formula",
+  "type: number",
   `expression: prop(${of}) && 100 || other`,
-  "returnType: number",
 ]
 
 const FILES: Readonly<Record<string, string>> = {

@@ -1,8 +1,6 @@
 import {
   AGGREGATE,
   type Declared,
-  EXPRESSION,
-  FORMULA,
   OVER,
   REDUCTION,
   RELATION,
@@ -21,8 +19,6 @@ const COUNT = "count"
 const REDUCTIONS: readonly string[] = [SUM, COUNT]
 
 export const WALKS: readonly string[] = [AGGREGATE, ROLLUP]
-
-export const REACHED: readonly string[] = [FORMULA, ...WALKS]
 
 export interface Reached {
   readonly kind: string
@@ -46,13 +42,10 @@ export function listing(held: Held): readonly string[] {
 }
 
 export function underivable(one: Declared): string | null {
-  if (one.type === FORMULA && one.expression === null) {
-    return `states \`type: ${FORMULA}\` and no \`${EXPRESSION}\`, so nothing says what it works its value out with`
-  }
-  if (one.reaches && !REACHED.includes(one.type ?? "")) {
+  if (one.reaches && !WALKS.includes(one.type ?? "")) {
     return (
       `states \`type: ${one.type}\`, which the vocabulary marks as reached for, and this deriver reaches ` +
-      `a value for ${REACHED.join(", ")} and no other type`
+      `a value for ${WALKS.join(", ")} and no other type`
     )
   }
   if (one.type === AGGREGATE) {
