@@ -1,0 +1,13 @@
+import type { PagePropertyType } from "../page-property-type.page-type.ts"
+import type { Slug } from "../../page/properties/slug.page-property-type.ts"
+
+export type TargetPageTypeSlug = Slug
+
+export const targetPageTypeSlug = {
+  id: "01a04a08-fcf3-7001-9f43-3bfdc57c3676",
+  slug: "target-page-type-slug",
+  definition: "the page type a relation may name",
+  extendsSlug: null,
+  type: "relation",
+  targetPageTypeSlug: "page-type",
+} as const satisfies PagePropertyType

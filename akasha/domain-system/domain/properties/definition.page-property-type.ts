@@ -7,8 +7,9 @@ export const definition = {
   slug: "definition",
   definition: "the sentence naming what a page's subject is",
   extendsSlug: null,
-  nameFormatSlug: null,
+  type: "text",
   max: 100,
+  nameFormatSlug: null,
   design: [
     "A definition holds no clause saying what the thing is for, why it is worth having, or where it sits.",
     "A definition names one concern. Where a second is needed to cover the area, the area is more than one domain.",

@@ -7,6 +7,7 @@ export const name = {
   slug: "name",
   definition: "what a directive is called",
   extendsSlug: null,
-  nameFormatSlug: null,
+  type: "text",
   max: 30,
+  nameFormatSlug: null,
 } as const satisfies PagePropertyType

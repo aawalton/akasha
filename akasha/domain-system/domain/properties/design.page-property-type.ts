@@ -8,7 +8,8 @@ export const design = {
   slug: "design",
   definition: "an invariant that holds now",
   extendsSlug: "invariant",
-  nameFormatSlug: null,
+  type: "list",
+  ofSlug: "statement",
   max: null,
   design: [
     "A design entry is an invariant a reader gets wrong, in these kinds and no others: a departure, an absence, or a constraint.",

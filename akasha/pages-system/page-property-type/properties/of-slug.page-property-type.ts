@@ -1,13 +1,13 @@
 import type { PagePropertyType } from "../page-property-type.page-type.ts"
 import type { Slug } from "../../page/properties/slug.page-property-type.ts"
 
-export type NameFormatSlug = Slug
+export type OfSlug = Slug
 
-export const nameFormatSlug = {
-  id: "01a049b9-856c-73f0-bea2-c3036209aa09",
-  slug: "name-format-slug",
-  definition: "the format a text value is written in",
+export const ofSlug = {
+  id: "01a04a08-fcf3-7002-9fe1-8bba60a8d78d",
+  slug: "of-slug",
+  definition: "the property type a list's entries are",
   extendsSlug: null,
   type: "relation",
-  targetPageTypeSlug: "domain",
+  targetPageTypeSlug: "page-property-type",
 } as const satisfies PagePropertyType
