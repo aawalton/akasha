@@ -1,6 +1,7 @@
 
 import { readFileSync } from "node:fs"
-import { DOMAIN_SLUG_KEY, stemOf } from "./domain.ts"
+import { DOMAIN_SLUG_KEY } from "./domain.ts"
+import { stemOf } from "../../page/name/name.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 import { isDirty } from "../../repo/roots/roots"

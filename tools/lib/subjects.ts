@@ -1,7 +1,8 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { DOMAIN_SLUG_KEY, stemOf } from "./domain.ts"
+import { DOMAIN_SLUG_KEY } from "./domain.ts"
+import { stemOf } from "../../page/name/name.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"

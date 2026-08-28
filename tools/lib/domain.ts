@@ -3,8 +3,7 @@ import { closure } from "./closure.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { stemOf } from "../../page/name/name.ts"
-
-export { stemOf }
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 
 export const DOMAIN_SLUG_KEY = "slug"
 
@@ -26,8 +25,6 @@ export function domainNameOf(relPath: string): string {
 
 export const CHAMPIONED_DOMAIN_KEY = "championed-domain-slug"
 
-export const PAGE_TYPE_SLUG_KEY = "page-type-slug"
-
 export interface Documents {
   frontmatterOf(relPath: string): Frontmatter | null
   domainAt(slug: string): string | null
@@ -48,7 +45,10 @@ export function slugsIn(frontmatter: ReadonlyMap<string, Frontmatter>): {
   for (const [relPath, fm] of frontmatter) {
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (slug === null) continue
-    const type = textField(fm, PAGE_TYPE_SLUG_KEY)
+    // THE NAME SETTLES THE PAGE TYPE, so the address is built from the kind the file carries rather
+    // than from a `page-type-slug:` the frontmatter states. The two must agree, and where they did
+    // not it was this that decided — the address a page is reached by, taken off the wrong side.
+    const type = pageTypeOf(relPath)
     // FIRST CLAIM WINS HERE TOO, which decides nothing: no two pages of one type may carry one
     // slug, so a second claim on an address is a corpus fault the duplicates below already name.
     if (type !== null) {

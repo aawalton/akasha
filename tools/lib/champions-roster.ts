@@ -1,7 +1,7 @@
 
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./check.ts"
-import { type Documents, domainNamed, DOMAIN_SLUG_KEY, PAGE_TYPE_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
+import { type Documents, domainNamed, DOMAIN_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
@@ -124,7 +124,7 @@ export function readRoster(roots: Roots): Roster {
     // page of some other type had taken first — the domain vanished from the tree and its
     // children were promoted to roots of their own. A type carries a slug once, so asking by
     // address answers the question the guard was for and only that one.
-    const type = textField(fm, PAGE_TYPE_SLUG_KEY)
+    const type = pageTypeOf(relPath)
     const named = type === null ? slugs.get(slug) : domainNamed(slugs, addressOf(type, slug))
     if (named !== relPath) continue
     slugAt.set(relPath, slug)
