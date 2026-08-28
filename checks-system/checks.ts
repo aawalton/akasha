@@ -22,14 +22,6 @@ const CODE_KEY = "code"
 
 const CODE_EXTENSION = "ts"
 
-// BUILT WHEN A CHECK IS LOADED, NOT AT IMPORT. `import.meta` is empty in a CommonJS bundle, so
-// this read `undefined/checks.ts` and `createRequire` refused a filename that was not an
-// absolute path — thrown while the module was still loading, which took down every build that
-// imports this file for anything else. The editor extension was one, and it loaded nothing.
-//
-// FROM THE ROOT BEING CHECKED. The paths handed to the result are absolute already, so what it
-// resolves against only has to be some real absolute path, and that root is one this file was
-// given rather than one it has to work out.
 function loaderIn(root: string): ReturnType<typeof createRequire> {
   return createRequire(resolve(root, CHECKS_AT))
 }
@@ -62,15 +54,6 @@ function checkAt(root: string, at: PageAt): Check {
   return check
 }
 
-/**
- * Whether a check page says it runs in one phase.
- *
- * A PAGE THAT WILL NOT READ IS AN ERROR, NOT A CHECK THAT RUNS. This answered `true` for an
- * unreadable page, so a check standing down in its own frontmatter came back on the moment
- * anything stopped the page being read — and nothing about that reads as a fault, because a
- * check that runs is the ordinary case. When the page index drifted, every stood-down check
- * turned on at once and the tree came back with thousands of violations nowhere near the change.
- */
 function runsOn(ctx: BuildContext, at: PageAt, key: string): boolean {
   const fm = frontmatterAt(ctx, at.repo, at.key)
   if (fm === null) {
@@ -84,24 +67,10 @@ function runsOn(ctx: BuildContext, at: PageAt, key: string): boolean {
   return said !== false && said !== "false"
 }
 
-/**
- * Whether a check page says it refuses a change.
- *
- * AN AUDIT REFUSES NOTHING, so `check-on-audit` is not asked about here. An audit reports what it
- * found and the change lands either way, and a check standing only on audit stops nobody.
- */
 export function refusesChange(ctx: BuildContext, at: PageAt): boolean {
   return runsOn(ctx, at, ON_PATCH) || runsOn(ctx, at, ON_WORKTREE)
 }
 
-/**
- * THE MODULE OF A CHECK THAT RUNS NOWHERE IS NEVER ASKED FOR. Every check page was loaded before
- * anything asked whether it runs, so one whose module had gone took the whole registry down —
- * and with it `ops edit`, `ops write` and `ops mv`, which is to say every tool that could put the
- * module back. A check standing down in all three phases is not needed to answer any question
- * this registry is asked, so its absence is reported by whoever looks at the tree rather than by
- * wedging the tools.
- */
 function foundIn(root: string): Found {
   const ctx = contextOn(root)
   const pages = [...pagesOfType(ctx, PAGE_TYPE)].sort((one, two) => (one.stem < two.stem ? -1 : 1))

@@ -31,8 +31,6 @@ export function saidUnder(
   live: readonly SaidName[]
 ): Said {
   const oids = new Map<string, ReadonlyMap<string, string>>(known)
-  // Each name against the mark its answers were filed under, so `done` sweeps every name by its
-  // own mark rather than by one shared across them.
   const marked = new Map<string, string>()
   return {
     of: (said, repo, key, work) => {
@@ -53,7 +51,6 @@ export function saidUnder(
       cacheAnswer(at, named, { [SAID_FIELD]: answer })
       return answer
     },
-    // Reading the whole of one name files nothing, so it leaves `done` nothing to sweep by.
     held: (said) => {
       const found = answersUnder(at, SAID_KIND, said.name, markFor(said.entry))
       if (found === null) return null
@@ -64,8 +61,6 @@ export function saidUnder(
       }
       return out
     },
-    // A name this run never asked under is still live, so the sweep is by the names the graph
-    // holds rather than by the ones this run happened to use.
     done: () => {
       for (const [name, mark] of marked) sweep(at, SAID_KIND, name, mark)
       forget(at, SAID_KIND, live.map((one) => one.name))
@@ -73,16 +68,6 @@ export function saidUnder(
   }
 }
 
-/**
- * A mark for each held answer, taken over the closure of the code that works that answer out.
- *
- * ONE MARK OVER THE WHOLE ENGINE CHARGED EVERY PRODUCER FOR ANY ONE'S CHANGE. Landing the
- * `contains` producer, which holds no answers at all and reads everything off the path, put a file
- * in the engine's closure and so dropped all 59,376 answers held by `typescript`, whose extraction
- * had not moved. A closure taken from the answering file holds only what that answer depends on: a
- * shared helper appears in both closures, and a producer reading another's output has that other
- * inside its own.
- */
 export function marksHere(
   root: string,
   runtime: string,

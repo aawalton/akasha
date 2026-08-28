@@ -13,17 +13,6 @@ const ROWS_JSONL = "jsonl"
 
 const TARGET_KEY = "target-slug"
 
-/**
- * What a path's rows are held to.
- *
- * THE TWO WAYS OF ANSWERING NOTHING ARE NOT THE SAME ANSWER. A path that is no rows sidecar is a
- * true empty: there is nothing there to judge and the check is right to walk past it. A path that
- * IS one, whose rows nothing settles a type for, is a fault: the file holds rows, and walking past
- * it leaves every one of them unjudged while the check reports nothing against the file. Answering
- * both with one value is what let 148,081 rows in twenty-four split sidecars go unjudged and unsaid.
- * `unheld` carries the second and is null for the first, so a caller that reads only `slug` skips
- * both and a caller that reads `unheld` surfaces the fault.
- */
 export type RowsHeld =
   | { readonly slug: string; readonly properties: readonly Property[]; readonly unheld: null }
   | { readonly slug: null; readonly properties: null; readonly unheld: string | null }

@@ -15,7 +15,6 @@ const APART = Number.POSITIVE_INFINITY
 
 type Enters = (folder: string, key: string) => boolean
 
-/** How far a folder is from one shape: `off` is 0 where it matches and `APART` where the shape is not in play. */
 type Verdict = {
   readonly shape: string
   readonly ok: boolean
@@ -23,22 +22,10 @@ type Verdict = {
   readonly why: string
 }
 
-/**
- * The code files among these, which is every one that is not a type declaration.
- *
- * A DECLARATION FILE IS NOT A CODE FILE TO THIS SHAPE ALONE. `pages-of-one-type` still counts it
- * among the files sitting in a folder, so this narrowing belongs here rather than in `foldersHere`.
- */
 function running(keys: readonly string[]): readonly string[] {
   return keys.filter((key) => !key.endsWith(DECLARATION))
 }
 
-/**
- * SINGLE ENTRANCE — one code file in the folder is imported from outside it, and no other code
- * file anywhere beneath the folder is. `deep` is every code file under a subfolder, so a door
- * one level down disqualifies the folder as surely as a second door beside the first. A type
- * declaration file counts as neither the entry nor a second one.
- */
 function singleEntrance(folder: string, one: Held, enters: Enters): Verdict {
   const shape = "single-entrance"
   const here = running(one.code)
@@ -76,11 +63,6 @@ function singleEntrance(folder: string, one: Held, enters: Enters): Verdict {
   }
 }
 
-/**
- * PAGES OF ONE TYPE — every file sitting in the folder is a page of one single page type, or a
- * sidecar of such a page. Subfolders are not looked at: each is a folder in its own right and is
- * judged on its own account. A folder holding no file at all is not this shape but `subfolders-only`.
- */
 function pagesOfOneType(folder: string, one: Held, types: readonly PageType[]): Verdict {
   const shape = "pages-of-one-type"
   if (one.files.length === 0) return { shape, ok: false, off: APART, why: "it holds no file at all" }

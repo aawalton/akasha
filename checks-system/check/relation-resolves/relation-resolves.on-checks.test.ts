@@ -83,18 +83,6 @@ type Patch = Readonly<Record<string, string | null>>
 
 type Ruling = { readonly root: string; readonly failures: readonly CheckFailure[] }
 
-/**
- * The `page-type` pages the fixture pages themselves are of.
- *
- * A page states `page-type-slug` as a relation onto the `page-type` page carrying that slug, so a
- * fixture tree holding only its own pages leaves every one of them naming a page that is not there.
- * These stand so that relation resolves here as it does in the tree, leaving each case to turn on
- * the relation it is about.
- *
- * THE PAGES A CASE EXPECTS REFUSED ARE DOMAINS AND PERSONAS. A relation with a mortal page at either
- * end is not judged, and `seat` is a mortal page type, so a case that turns on a refusal takes page
- * types nothing deletes. The seat pages stand only in the cases about mortality itself.
- */
 const PAGE_TYPES: World = {
   "pages/page-type/page-type.page-type.md": pageTypePage("page-type"),
   "pages/page-type/domain.page-type.md": pageTypePage("domain"),
@@ -206,11 +194,6 @@ test("a removal whose value a page the same call creates still carries is not re
   expect(verdict(world, patch, [namesGoing]).failures).toEqual([])
 })
 
-/**
- * The two cases below stand on `seat` pages because `principal-seat-name` is the only relation here
- * marked `may-be-gone`, and every page type carrying such a relation is mortal. Mortality alone
- * would pass them, so what they hold is that the marking is still read, not that it is needed.
- */
 test("a relation that may be gone is outside the removal end", () => {
   const world = { [SEAT_GOING_AT]: seat(), [SEAT_NAMER_AT]: seat(`${PRINCIPAL}: ${GOING}`) }
   const naming: Naming = { key: PRINCIPAL, target: `${GOING}.seat`, at: SEAT_NAMER_AT }

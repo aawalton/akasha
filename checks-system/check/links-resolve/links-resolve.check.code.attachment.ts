@@ -64,18 +64,6 @@ export function underDirty(address: string): boolean {
   return DIRTY_DIR.test(keyIn(address))
 }
 
-/**
- * Whether a page's body came from elsewhere, so the links it holds are nobody here's to have got
- * right.
- *
- * THE PAGE TYPE SAYS IT AND NO PROPERTY DOES. `story-chapter-read` states that a read chapter's
- * source is the page type it is, so this is ancestry over `extends-slug` rather than a flag on a
- * page: a type filed below `story-chapter-read` later is covered with nobody updating a list.
- *
- * A CHAIN RETURNING ON ITSELF IS JUDGED. `chainOf` stops at the slug a cycle comes back to and
- * answers `relPaths: null`, which is read here as reaching nothing — so a looped page type is
- * judged as any other page is, rather than passed or walked forever.
- */
 export function fromElsewhereIn(defs: FileTree, types: readonly PageType[]): Unjudged {
   const said = new Map<string, boolean>()
   return (address) => {
@@ -90,7 +78,6 @@ export function fromElsewhereIn(defs: FileTree, types: readonly PageType[]): Unj
   }
 }
 
-/** Every ground on which a file holding a link is passed over rather than judged. */
 export function unjudgedIn(defs: FileTree, types: readonly PageType[]): Unjudged {
   const elsewhere = fromElsewhereIn(defs, types)
   return (address) => underDirty(address) || elsewhere(address)

@@ -51,13 +51,6 @@ function isPage(relPath: string): boolean {
   return relPath.endsWith(MARKDOWN) && !isAttachmentFile(relPath)
 }
 
-/**
- * Whether the page a want names is of a mortal page type.
- *
- * NO PAGE STANDS AT THAT END TO ASK. A want is judged only where nothing carries its value, so what
- * would have stood there is read from the value where the value says it — an address names its own
- * page type — and from the target the property declares otherwise.
- */
 function namesMortal(want: Want, mortal: Mortality): boolean {
   const stated = want.relation.points === "address" ? addressParts(want.value)?.type ?? null : null
   const named = stated ?? want.relation.target

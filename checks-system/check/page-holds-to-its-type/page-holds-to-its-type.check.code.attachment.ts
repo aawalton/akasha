@@ -29,19 +29,6 @@ function outsideShape(relPath: string, body: string, type: PageType, tree: FileT
   return verdict.refusals.map((one) => partOutsideShape(one, `line ${one.span.start.line}`))
 }
 
-/**
- * The keys nothing here could judge, said to the writer rather than counted somewhere else.
- *
- * A KEY NOTHING JUDGED READS EXACTLY LIKE A KEY THAT WAS JUDGED AND HELD, which is why this is a
- * refusal rather than a number. `unjudged` names the keys whose type rule could not be armed. The
- * keys whose value stands beside the page or in its sops file are `elsewhere` instead, judged
- * where they stand, so nothing here is missing for them and they are not reported.
- *
- * WHERE NOTHING NAMED THE TYPES AT ALL, EVERY KEY IS UNJUDGED AND NO ONE OF THEM IS THE FAULT.
- * An unread vocabulary would otherwise reach the writer as a refusal per key on every page the
- * write touches, each naming its key rather than the one thing that went wrong. That is a fault
- * about the whole tree, so it is left to the checks that weigh the whole tree.
- */
 function unjudgedHere(unjudged: readonly string[], tree: FileTree): readonly string[] {
   if (unjudged.length === 0 || vocabularyFor(tree).why !== null) return []
   return unjudged.map(
@@ -104,8 +91,6 @@ export const pageHoldsToItsType: Check = {
       const text = body.toString("utf8")
       if (path.endsWith(ROWS)) {
         const { slug, properties, unheld } = rowsHeldBy(at.relPath, types, tree)
-        // A SIDECAR NOTHING SETTLES A TYPE FOR IS REPORTED, NOT WALKED PAST. `unheld` is null only
-        // where the path is no rows sidecar at all, which is the one case there is nothing to say.
         if (slug === null) {
           if (unheld !== null) failures.push({ path, reason: unheld })
           continue

@@ -8,15 +8,6 @@ const CHECKS = "checks-system/check"
 
 const CHECK_TAIL = "check.code.attachment.ts"
 
-/**
- * The file whose code an outcome's mark is taken over.
- *
- * A PATH NOTHING IS AT LEAVES THE MARK STANDING STILL. `closureOf` answers no files for a key the
- * graph does not reach, and `markOf` over no files hashes the kind, the slug and the runtime alone
- * — one mark per check for as long as the bun does not change, under which an outcome would outlive
- * every edit to the check that reached it. This named `checks/check/{slug}/{slug}.ts`, a layout
- * gone since the checks folder took its domain's name, so every check's mark was that constant.
- */
 export function entryOf(slug: string): string {
   return `${CHECKS}/${slug}/${slug}.${CHECK_TAIL}`
 }

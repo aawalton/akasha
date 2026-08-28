@@ -57,12 +57,6 @@ function within(run: (at: string) => void): void {
   }
 }
 
-/**
- * What becomes of answers filed under a name the graph has stopped holding.
- *
- * `sweep` REACHES THE MARKS UNDER ONE NAME AND NOTHING REACHED A NAME ITSELF, so renaming an
- * answer kind left every answer under the old name on disk with nothing that would remove it.
- */
 describe("a name the graph no longer holds does not keep its answers", () => {
   test("the graph holds at least one answer kind, or nothing below says anything", () => {
     expect(HELD.length).toBeGreaterThan(0)

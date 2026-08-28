@@ -7,24 +7,6 @@ import type { Batch } from "../check-shape.ts"
 
 const GONE = null
 
-/**
- * The batch read as a tree, staged content standing over what is on disk.
- *
- * A BODY IS FETCHED WHEN IT IS ASKED FOR, NEVER HELD FOR EVERY PATH IN THE BATCH. This decoded
- * every path's body up front and kept the lot in a map. Over a patch that is a handful of files;
- * over a whole-tree audit `paths` is every tracked file, so the map became the whole repository as
- * strings — 2.9 GiB of them, built once here for each of the three checks that ask for a tree.
- * `page-holds-to-its-type` alone reached 8.3 GiB and the audit was reaped, because a live set that
- * size also stops the collector reclaiming the garbage the judging loop makes. Almost none of it
- * was ever read: that check opens twenty thousand paths out of eighty-nine thousand held, and
- * `relation-resolves` six hundred. Fetching on demand goes through `batch.tree.at`, which is the
- * same route and the same answer this map was filled from, so staged content still stands over
- * disk and a path the batch deletes still reads as gone.
- *
- * THE STANDING PATHS ARE KEPT AS AN ARRAY AND A SET BOTH. `paths` and `repoOf` walk them in order
- * and `open` asks after one, and rebuilding either shape per call is a scan of the whole tree in a
- * function called hundreds of times.
- */
 export function treeOver(batch: Batch): FileTree | null {
   const roots = rootsHere()
   const root = rootFor(roots, AKASHA)
@@ -42,12 +24,6 @@ export function treeOver(batch: Batch): FileTree | null {
   const placed = repoPlacings(roots)
   return {
     root,
-    // THE ROOTS TRAVEL WITH THE TREE. `FileTree.roots` is optional, so leaving it off compiled
-    // and read as a tree that spans nothing. `globsIn` answers an absent `roots` with the globs
-    // unchanged, keeping the directory each one was written with, where roots flatten them to
-    // `**/<name>`. Eleven page types filed outside the directory their glob names — four
-    // `readout-*` and seven `graph-*` — went unfound, and every page holding a property they
-    // declare was refused for declaring it nowhere.
     roots,
     pending: held,
     open: (relPath) => {

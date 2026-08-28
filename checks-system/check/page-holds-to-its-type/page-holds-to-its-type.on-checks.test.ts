@@ -7,11 +7,6 @@ const ROOT = akashaRoot()
 
 const AT = "checks/check/trial/trial.check.md"
 
-// A PAGE TYPE THE BATCH CARRIES, NOT ONE THE TREE HOLDS. This case named `finding`, which was
-// filed into the memory repo until `aac8f7e0a` moved the memory page types into akasha and the
-// memory repo went away. No page type in the tree is filed anywhere but akasha now, so a case
-// naming a real one weighs nothing and passes for want of a population. The registry is read off
-// the batch, so the page type filed elsewhere is written into the batch beside the path it claims.
 const ELSEWHERE_TYPE = "checks-system/check/trial/trial-elsewhere.page-type.md"
 
 const ELSEWHERE_AT = "trials/held/somewhere.md"

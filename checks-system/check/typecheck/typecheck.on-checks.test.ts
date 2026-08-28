@@ -8,10 +8,6 @@ const SCRATCH = "/var/tmp"
 
 const check = typecheck.run as (given: Batch, was: Was) => readonly CheckFailure[]
 
-/**
- * The check run over a change with no earlier tree behind it, which is what an audit hands it.
- * A case that has one passes it, and only those cases can tell an old fault from a new one.
- */
 function run(given: Batch, before: Tree | null = null): readonly CheckFailure[] {
   return check(given, { before })
 }
