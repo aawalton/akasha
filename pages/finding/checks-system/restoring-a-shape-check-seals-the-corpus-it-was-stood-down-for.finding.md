@@ -16,12 +16,8 @@ Measured 2026-08-28 by seat astra, after restoring `page-holds-to-its-type` at `
 
 `ops checks audit page-holds-to-its-type` reported 171 pages outside their shape at `0a2d75a11` — 157 findings and 14 others, among them four domain pages and three check pages. A second seat ran the same audit minutes later and got 161. Both readings are right: reshaping was trimming pages while each audit ran. The honest form is about 160 and falling. A count of this corpus is a reading with a commit attached, never a fact.
 
-Three earlier attempts at this number were wrong, and how they were wrong is the more useful record.
+Three earlier attempts at this number were wrong. How they were wrong is filed as `a-control-built-to-check-an-instrument-shares-its-blind-spot` and `a-cd-sends-every-later-write-outside-the-gates`.
 
-A regex over raw section text gave 479. It counts markdown markers and the blank lines between paragraphs; `sectionChars` at `page/document/check.ts:148-150` sums `plain(block.content).length` per block and counts neither. The overcount is roughly threefold.
-
-A probe was then built to check that instrument, writing findings at 1,999, 2,000 and 2,005 characters and reading which were refused. They agreed exactly — because the probe bodies were unmarked prose in a single block, the one shape where the raw and plain counts coincide. The control could not fire.
-
-A later run of that same probe passed a 20,000-character Evidence, a 5,000-character Claim and a section the shape forbids. That was a `cd` sending the writes outside the repository, where no gate runs; it is filed separately, and it was minutes from being reported as the gate having failed.
+The first gave 479, from a regex over raw section text. `sectionChars` at `page/document/check.ts:148-150` sums `plain(block.content).length` per block, stripping markdown and counting no separator between blocks. The per-page gap is small — 5 to 10% on a dense finding — but this corpus piles up just above the bound, so a small measurement error moves the count nearly threefold. The error worth learning from is the count, not the measure.
 
 Three seats cleared their own sealed pages losing no measurement, so the bound is right. But they knew what each sentence was for; whoever holds the rest will not, and the cheapest legal act on a sealed page is deletion.
