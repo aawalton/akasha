@@ -31,7 +31,7 @@ export default workflow("headscale", {
     sopsDecryptApply({
       name: "headscale-apply-secret",
       namespace: "headscale",
-      secretFile: "infra/k8s/src/headscale/k8s/secret.sops.yaml",
+      secretFile: "infra/k8s/src/headscale/headscale.k8s-secret.sops.yaml",
     }),
     kubectlApply({
       name: "headscale-apply-configmap",
@@ -126,7 +126,7 @@ export default workflow("headscale", {
     sopsDecryptApply({
       name: "headscale-apply-subnet-router-secret",
       namespace: "headscale",
-      secretFile: "infra/k8s/src/headscale/k8s/subnet-router-secret.sops.yaml",
+      secretFile: "infra/k8s/src/headscale/talos-subnet-router/talos-subnet-router.k8s-secret.sops.yaml",
     }),
     {
       ...step({
