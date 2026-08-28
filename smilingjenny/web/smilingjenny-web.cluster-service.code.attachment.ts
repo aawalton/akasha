@@ -1,8 +1,8 @@
 import { synthOne } from "@infra/k8s-types/cdk8s-synth"
 import { workloadClassMemberSelector } from "@infra/k8s-types/hostnames"
 import { orchestratorCacheChownInitContainer, orchestratorCacheInitContainer, orchestratorCacheSyncSidecar } from "@infra/k8s-types/orchestrator-cache"
-import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers"
-import { BUN_RUNTIME_IMAGE, SMILINGJENNY_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations"
+import { orchestratorCacheEntrypointPath, orchestratorCacheVolumeMounts, orchestratorCacheVolumes } from "../../infra/k8s-types/src/orchestrator-cache-helpers.ts"
+import { BUN_RUNTIME_IMAGE, SMILINGJENNY_WEB_CACHE } from "../../infra/k8s-types/src/orchestrator-cache-locations.ts"
 
 const NAMESPACE = "smilingjenny"
 const APP_NAME = "web"
@@ -116,6 +116,24 @@ function webServiceYaml(): string {
     },
   })
 }
+
+/**
+ * What this app's bundle is built against. Read by `ops deploy` when it builds in the pod.
+ *
+ * Every value the build needs stands here, with nothing added behind it, so what the bundle was
+ * built against is what this list says.
+ */
+export const BUILD_ENV = [
+  { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+  {
+    name: "NEXT_PUBLIC_ELECTRIC_URL",
+    value: "https://supabase.alanwalton.com/electric/v1/shape",
+  },
+  {
+    name: "NEXT_PUBLIC_SUPABASE_ANON_KEY",
+    fromSecret: { name: SECRET_NAME, key: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
+  },
+] as const
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
