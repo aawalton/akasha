@@ -15,4 +15,4 @@ to-node:
 
 # Definition
 
-- **Relation** — the edge from a page to one its frontmatter names.
+- **Relation** — the edge from a page to one it names.
