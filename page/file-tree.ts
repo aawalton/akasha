@@ -38,18 +38,19 @@ function builtDiskTree(roots: Roots): FileTree {
   }
 }
 
-// KEYED BY EVERY ROOT, NOT AKASHA'S ALONE. A tree is built from all of them — `paths` scans
-// each repo and `open` falls through them in turn — so two callers passing the same akasha root
-// and a different anything else want different trees. Keyed by akasha alone the first built won,
+// KEYED BY EVERY ROOT, NOT AKASHA'S ALONE. What is held under this key is built from all of them —
+// a tree's `paths` scans each repo and its `open` falls through them in turn, and a page type's
+// `filed` falls back to wherever its repo places it — so two callers passing the same akasha root
+// and a different anything else want different answers. Keyed by akasha alone the first built won,
 // and the second silently read a tree missing the repos it had asked for: a page filed into
 // `instructions:` came back absent, which reads as a page that is not there rather than as a
 // tree that could not see it. Widening a key only ever splits an entry, never merges two.
-function keyFor(roots: Roots): string {
+export function rootsKey(roots: Roots): string {
   return REPOS.map((repo) => roots[repo] ?? "").join("|")
 }
 
 export function diskFileTree(roots: Roots): FileTree {
-  return onceInCall(`disk:${keyFor(roots)}`, () => builtDiskTree(roots))
+  return onceInCall(`disk:${rootsKey(roots)}`, () => builtDiskTree(roots))
 }
 
 function builtSpanningTree(roots: Roots): FileTree {
@@ -65,5 +66,5 @@ function builtSpanningTree(roots: Roots): FileTree {
 }
 
 export function spanningFileTree(roots: Roots): FileTree {
-  return onceInCall(`spanning:${keyFor(roots)}`, () => builtSpanningTree(roots))
+  return onceInCall(`spanning:${rootsKey(roots)}`, () => builtSpanningTree(roots))
 }

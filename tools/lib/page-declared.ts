@@ -1,4 +1,6 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
+import { onceInCall } from "../../during-call/during-call.ts"
+import { rootsKey } from "../../page/file-tree.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { computedOn } from "../../page/property/computed.ts"
@@ -109,26 +111,43 @@ function pageTypePathsIn(root: string): readonly string[] {
   return [...found].sort()
 }
 
+/**
+ * Every page type standing in akasha, by the slug its file's name carries.
+ *
+ * HELD FOR THE LENGTH OF ONE CALL AND NO LONGER. A deriver reads this as it is built, and a call
+ * builds one deriver per set of keys asked for, so the editor's domain tree — 45 page types inside
+ * one call — parsed all 393 page-type files 45 times. A call is short enough that these files
+ * cannot meaningfully change inside one, and nothing is held outside a call, so a page type written
+ * between two calls is read fresh by the second: there is no window in which a stale one is
+ * answered, and no lifetime to tune.
+ *
+ * A CALLER THAT WROTE A PAGE TYPE AND THEN READ IT BACK INSIDE ONE CALL would be handed the answer
+ * from before its own write. None does — the only writers inside an open call are rows sidecars and
+ * uncommitted files, and neither is a page-type or property-definition page — and one that did
+ * would read past this hold, the way `readUncommittedNow` stands apart from `readUncommitted`.
+ */
 export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
-  const placed = repoPlacings(roots)
-  const root = declaringRoot(roots)
-  const kinds = new Map<string, Kind>()
-  for (const relPath of pageTypePathsIn(root)) {
-    const text = textAt(root, relPath)
-    if (text === null) continue
-    const { fm, why } = blockOf(text)
-    if (why !== null) continue
-    const slug = slugOf(relPath)
-    if (kinds.has(slug)) continue
-    const stated = filedIn(fm)
-    const fallback = placed.get(slug) ?? null
-    kinds.set(slug, {
-      filed: stated ?? (fallback === null ? [] : [{ repo: fallback, place: null }]),
-      above: stringAt(fm, EXTENDS),
-      namedFor: stringAt(fm, NAMED_FOR),
-    })
-  }
-  return kinds
+  return onceInCall(`page-type-kinds:${rootsKey(roots)}`, () => {
+    const placed = repoPlacings(roots)
+    const root = declaringRoot(roots)
+    const kinds = new Map<string, Kind>()
+    for (const relPath of pageTypePathsIn(root)) {
+      const text = textAt(root, relPath)
+      if (text === null) continue
+      const { fm, why } = blockOf(text)
+      if (why !== null) continue
+      const slug = slugOf(relPath)
+      if (kinds.has(slug)) continue
+      const stated = filedIn(fm)
+      const fallback = placed.get(slug) ?? null
+      kinds.set(slug, {
+        filed: stated ?? (fallback === null ? [] : [{ repo: fallback, place: null }]),
+        above: stringAt(fm, EXTENDS),
+        namedFor: stringAt(fm, NAMED_FOR),
+      })
+    }
+    return kinds
+  })
 }
 
 export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
@@ -156,20 +175,26 @@ export function declaredIn(fm: Frontmatter, relPath: string): Declared | null {
   }
 }
 
+/**
+ * Every property declaration standing in akasha, held for one call for the reason `kindsIn` gives:
+ * this parses 2,231 files, and a call building several derivers parsed them once for each.
+ */
 export function declarationsIn(roots: Roots): Declarations {
-  const byKind = new Map<string, Map<string, Declared>>()
-  const bySlug = new Map<string, Declared>()
-  for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS)) {
-    const text = textAt(declaringRoot(roots), relPath)
-    if (text === null) continue
-    const { fm, why } = blockOf(text)
-    if (why !== null) continue
-    const one = declaredIn(fm, relPath)
-    if (one === null) continue
-    const held = byKind.get(one.on) ?? new Map<string, Declared>()
-    if (!held.has(one.key)) held.set(one.key, one)
-    if (!bySlug.has(one.slug)) bySlug.set(one.slug, one)
-    byKind.set(one.on, held)
-  }
-  return { byKind, bySlug }
+  return onceInCall(`page-property-declarations:${rootsKey(roots)}`, () => {
+    const byKind = new Map<string, Map<string, Declared>>()
+    const bySlug = new Map<string, Declared>()
+    for (const relPath of scanIn(declaringRoot(roots), PROPERTY_GLOBS)) {
+      const text = textAt(declaringRoot(roots), relPath)
+      if (text === null) continue
+      const { fm, why } = blockOf(text)
+      if (why !== null) continue
+      const one = declaredIn(fm, relPath)
+      if (one === null) continue
+      const held = byKind.get(one.on) ?? new Map<string, Declared>()
+      if (!held.has(one.key)) held.set(one.key, one)
+      if (!bySlug.has(one.slug)) bySlug.set(one.slug, one)
+      byKind.set(one.on, held)
+    }
+    return { byKind, bySlug }
+  })
 }
