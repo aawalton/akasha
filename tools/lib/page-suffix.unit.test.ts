@@ -9,8 +9,8 @@ test("a page file's suffixes are its page type and then its file kind", () => {
 })
 
 test("a page nested under its folder keeps every folder it sat in", () => {
-  expect(suffixedPath("pages/finding/ops-cli/example-finding.md", "finding")).toBe(
-    "pages/finding/ops-cli/example-finding.finding.md"
+  expect(suffixedPath("ops-cli/global/read/read.md", "command")).toBe(
+    "ops-cli/global/read/read.command.md"
   )
 })
 

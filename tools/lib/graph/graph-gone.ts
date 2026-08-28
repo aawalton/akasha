@@ -3,7 +3,7 @@ export class OldGraphGone extends Error {}
 export function oldGraphGone(what: string): never {
   throw new OldGraphGone(
     `\`${what}\` asked the old graph, which is gone. Its caller has not been migrated onto ` +
-      `\`graph/ask.ts\` yet — see \`pages/finding/graph-system/the-old-graph-is-stubs-nothing-removes.finding.md\`.`
+      `\`graph/ask.ts\` yet.`
   )
 }
 
