@@ -16,7 +16,11 @@ if [ ! -f "$_rr_own/tools/ops/cli.ts" ]; then
 fi
 
 export AKASHA_ROOT="${AKASHA_ROOT:-$_rr_own}"
-export MEMORY_ROOT="${MEMORY_ROOT:-$_rr_beside/memory}"
-export CODE_EDITOR_ROOT="${CODE_EDITOR_ROOT:-$_rr_beside/code-editor}"
+
+# A sibling is exported only where it is a checkout, on the same rule `repo/roots/roots.ts` applies
+# to the repositories it derives: a name that is set stands for a root that is there.
+if [ -e "$_rr_beside/code-editor/.git" ]; then
+  export CODE_EDITOR_ROOT="${CODE_EDITOR_ROOT:-$_rr_beside/code-editor}"
+fi
 
 unset _rr_self _rr_own _rr_beside
