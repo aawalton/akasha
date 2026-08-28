@@ -1,3 +1,4 @@
+import { createRequire } from "node:module"
 import { readFileSync, readdirSync } from "node:fs"
 import { oidOf } from "./reading.module.code.ts"
 
@@ -83,9 +84,11 @@ function listOn(value: Record<string, unknown>, key: string): readonly string[] 
   return held.filter((one): one is string => typeof one === "string")
 }
 
-async function valueIn(at: Standing): Promise<Edges | null> {
+const reach_ = createRequire(import.meta.url)
+
+function valueIn(at: Standing): Edges | null {
   const oid = oidOf(readFileSync(at.path, "utf8"))
-  const mod = (await import(`${at.path}?oid=${oid}`)) as Record<string, unknown>
+  const mod = reach_(`${at.path}?oid=${oid}`) as Record<string, unknown>
   for (const held of Object.values(mod)) {
     if (held === null || typeof held !== "object") continue
     const value = held as Record<string, unknown>
@@ -133,7 +136,7 @@ export function parentsByInverting(
   return parent
 }
 
-export async function readingEvery(root: string): Promise<Source> {
+export function readingEvery(root: string): Source {
   const standing = standingIn(root)
   const known = new Set<string>()
   for (const one of standing) {
@@ -146,12 +149,10 @@ export async function readingEvery(root: string): Promise<Source> {
     known.add(one.slug)
   }
   const loaded = new Map<string, Edges>()
-  await Promise.all(
-    standing.map(async (one) => {
-      const edges = await valueIn(one)
-      if (edges !== null) loaded.set(one.slug, edges)
-    })
-  )
+  for (const one of standing) {
+    const edges = valueIn(one)
+    if (edges !== null) loaded.set(one.slug, edges)
+  }
   const edgesOf = (slug: string): Edges | null => loaded.get(slug) ?? null
   const parent = parentsByInverting(standing, edgesOf)
   return { standing, edgesOf, parentOf: (slug) => parent.get(slug) ?? null }
@@ -200,8 +201,8 @@ export function corpusOver(source: Source): Corpus {
   }
 }
 
-export async function corpusIn(root: string): Promise<Corpus> {
-  return corpusOver(await readingEvery(root))
+export function corpusIn(root: string): Corpus {
+  return corpusOver(readingEvery(root))
 }
 
 export function closureFor(slug: string, corpus: Corpus): readonly string[] {

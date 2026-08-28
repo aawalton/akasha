@@ -11,6 +11,7 @@ export const corpus = {
     "akasha-file",
   ],
   design: [
+    "A page is loaded synchronously, which is safe only because a page's module does nothing when loaded but declare its value.",
     "A corpus answers from a source it is given, so what supplies the answers can change without anything above it noticing.",
     "Inverting `partSlugs` is not an optimisation: with no parent pointer, it is the only way a page's parent exists at all.",
     "A page's slug and page type are its filename, so where a page stands is answered without opening it.",
