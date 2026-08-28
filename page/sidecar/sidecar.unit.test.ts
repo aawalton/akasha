@@ -76,8 +76,8 @@ describe("sidecarCarriedTo", () => {
   test("carries the sidecar to the same name beside the page's destination", () => {
     expect(
       sidecarCarriedTo(
-        "domains/personas/astra.portrait.attachment.txt",
-        "domains/personas/astra.md",
+        "pages/persona/astra.portrait.attachment.txt",
+        "pages/persona/astra.md",
         "pages/persona/astra.persona.md"
       )
     ).toBe("pages/persona/astra.persona.portrait.attachment.txt")

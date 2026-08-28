@@ -4,7 +4,7 @@ import { refusalText } from "../../lib/refusal.ts"
 
 describe("filling a body", () => {
   test("puts each value where its hole is marked", () => {
-    expect(fill("You wrote to {path}.", { path: "domains/x.md" })).toBe("You wrote to domains/x.md.")
+    expect(fill("You wrote to {path}.", { path: "pages/x.md" })).toBe("You wrote to pages/x.md.")
   })
 
   test("fills a hole inside a code span, a declaring document being a template throughout", () => {
@@ -20,7 +20,7 @@ describe("filling a body", () => {
   })
 
   test("refuses a value the body marks nowhere, which would render clean and say less", () => {
-    expect(() => fill("You wrote somewhere.", { path: "domains/x.md" })).toThrow(HoleMismatch)
+    expect(() => fill("You wrote somewhere.", { path: "pages/x.md" })).toThrow(HoleMismatch)
   })
 
   test("leaves a body carrying no hole alone", () => {
