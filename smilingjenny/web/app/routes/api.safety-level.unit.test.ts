@@ -1,22 +1,6 @@
-import { afterAll, afterEach, beforeEach, describe, expect, mock, test } from "bun:test"
-import * as askThrough from "@shared/status-bar-access/ask-through"
-import * as readings from "@shared/status-bar-access/readings"
-import * as stoplights from "@shared/status-bar-access/stoplights"
-
-const realStatusBarAccess = { ...askThrough, ...readings, ...stoplights }
+import { afterEach, beforeEach, describe, expect, mock, test } from "bun:test"
 import type { AppLoadContext } from "react-router"
 import { z } from "zod"
-
-const realGreenDayUnitsLadder = realStatusBarAccess.GREEN_DAY_UNITS_LADDER
-const realReadPersonaDaily = realStatusBarAccess.readPersonaDaily
-const realGetInboxStoplightTiers = realStatusBarAccess.getInboxStoplightTiers
-const realGetUpkeepStoplightTiers = realStatusBarAccess.getUpkeepStoplightTiers
-
-let currentGetUpkeepStoplightTiers: typeof realGetUpkeepStoplightTiers = realGetUpkeepStoplightTiers
-
-afterAll(() => {
-  currentGetUpkeepStoplightTiers = realGetUpkeepStoplightTiers
-})
 
 const JENNYS_CAPTION = "Alan's Safety"
 
@@ -41,10 +25,9 @@ const notThisRoute = (what: string) => () => {
   throw new Error(`this route reads the safety level alone and never ${what}`)
 }
 
-currentGetUpkeepStoplightTiers = notThisRoute("reads the six upkeep circles")
-
-mock.module("@shared/recurrence/reset-times", () => ({
+mock.module("../../../../day/day", () => ({
   getEsoDayStr: () => ESO_DAY,
+  dayAfter: notThisRoute("asks for the next day"),
   getEsoResetTime: notThisRoute("asks for a reset time"),
   getEsoDayAnchor: notThisRoute("asks for a day anchor"),
   getEsoDayStrOffset: notThisRoute("asks for another day"),
@@ -57,42 +40,11 @@ mock.module("@shared/recurrence/reset-times", () => ({
   getMountainEveningDayStr: notThisRoute("asks for a mountain evening"),
 }))
 
-mock.module("@shared/status-bar-access", () => ({
+mock.module("@shared/status-bar-access/stoplights", () => ({
   getSafetyStoplightTiers: async (args: { day: string }) => {
     daysAsked.push(args.day)
     return [safetyAnswer]
   },
-  resolveOneReadout: notThisRoute("resolves one readout on its own"),
-  resolveReadout: realStatusBarAccess.resolveReadout,
-  resolveReadoutGroup: realStatusBarAccess.resolveReadoutGroup,
-  readReadoutReading: realStatusBarAccess.readReadoutReading,
-  readoutRing: realStatusBarAccess.readoutRing,
-  upkeepStoplight: realStatusBarAccess.upkeepStoplight,
-  getUpkeepStoplightTiers: (...args: Parameters<typeof realGetUpkeepStoplightTiers>) =>
-    currentGetUpkeepStoplightTiers(...args),
-  getUpkeepStoplights: notThisRoute("reads the six upkeep circles"),
-  aggregateValueUnits: notThisRoute("aggregates value units"),
-  GREEN_DAY_UNITS_LADDER: realGreenDayUnitsLadder,
-  getDailyPerfectDay: notThisRoute("reads a perfect day"),
-  getDailyStoplightFaces: notThisRoute("reads stoplight faces"),
-  getDailyValues: notThisRoute("reads daily values"),
-  readPersonaDaily: realReadPersonaDaily,
-  getValuesLegend: notThisRoute("reads the values legend"),
-  getInboxStoplights: notThisRoute("reads inbox stoplights"),
-  getInboxStoplightTiers: realGetInboxStoplightTiers,
-  getInboxLegend: notThisRoute("reads the inbox legend"),
-  getPersonaDayColours: notThisRoute("reads persona day colours"),
-  getPersonaStoplights: notThisRoute("reads persona stoplights"),
-  doneByColumn: notThisRoute("reads the done columns"),
-  fetchFinishedSince: notThisRoute("reads what finished"),
-  trackOfLineageRows: notThisRoute("reads each row's track"),
-  tierFloorValues: notThisRoute("reads tier floor values"),
-  TIER_ORDER: realStatusBarAccess.TIER_ORDER,
-  cardioReading: realStatusBarAccess.cardioReading,
-  readDayMeasures: realStatusBarAccess.readDayMeasures,
-  readSessionPages: realStatusBarAccess.readSessionPages,
-  wakeWindow: realStatusBarAccess.wakeWindow,
-  getUpkeepLegend: notThisRoute("reads the upkeep legend"),
 }))
 
 const { loader } = await import("./api.safety-level")
