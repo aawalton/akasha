@@ -46,43 +46,26 @@ export type Query = {
   readonly target?: string
 }
 
-class CheckedQuery {
-  readonly ok: true = true
+declare const checkedQuery: unique symbol
 
+export type Checked = {
+  readonly ok: true
   readonly pageTypes: readonly string[]
-
-  readonly #test: CheckedFormula | null
-
-  readonly #keys: readonly string[] | null
-
-  readonly #ordering: Ordering | null
-
-  readonly #limit: number | null
-
-  readonly #offset: number | null
-
   readonly reduction: Reduction | null
+  readonly answer: (pages: readonly Page[]) => readonly Page[]
+  readonly [checkedQuery]: true
+}
 
-  constructor(
-    pageTypes: readonly string[],
-    test: CheckedFormula | null,
-    keys: readonly string[] | null,
-    reduction: Reduction | null,
-    ordering: Ordering | null,
-    limit: number | null,
-    offset: number | null
-  ) {
-    this.pageTypes = pageTypes
-    this.#test = test
-    this.#keys = keys
-    this.reduction = reduction
-    this.#ordering = ordering
-    this.#limit = limit
-    this.#offset = offset
-  }
-
-  answer(pages: readonly Page[]): readonly Page[] {
-    const test = this.#test
+const checkedQueryOf = (
+  pageTypes: readonly string[],
+  test: CheckedFormula | null,
+  keys: readonly string[] | null,
+  reduction: Reduction | null,
+  ordering: Ordering | null,
+  limit: number | null,
+  offset: number | null
+): Checked => {
+  const answer = (pages: readonly Page[]): readonly Page[] => {
     const found =
       test === null
         ? pages
@@ -90,14 +73,13 @@ class CheckedQuery {
             const held = runFormula(test, page.values)
             return held.kind === "boolean" && held.boolean
           })
-    const inOrder = this.#ordering === null ? found : ordered(found, this.#ordering)
-    const past = this.#offset === null ? inOrder : inOrder.slice(this.#offset)
-    const limited = this.#limit === null ? past : past.slice(0, this.#limit)
-    return narrowed(limited, this.#keys)
+    const inOrder = ordering === null ? found : ordered(found, ordering)
+    const past = offset === null ? inOrder : inOrder.slice(offset)
+    const limited = limit === null ? past : past.slice(0, limit)
+    return narrowed(limited, keys)
   }
+  return { ok: true, pageTypes, reduction, answer } as Checked
 }
-
-export type Checked = CheckedQuery
 
 const shapeOf = (declared: Declared): Shape => {
   const shape: Record<string, DeclaredType> = {}
@@ -151,7 +133,7 @@ export const checkQuery = (
 
   const where = query.where
   if (where === undefined) {
-    return new CheckedQuery(pageTypes, null, keys, reduction, ordering, limit, offset)
+    return checkedQueryOf(pageTypes, null, keys, reduction, ordering, limit, offset)
   }
 
   const checked = checkFormula(where, shapeOf(declared))
@@ -165,7 +147,7 @@ export const checkQuery = (
     return refuseQuery(`a \`where\` answers a boolean, and this one answers ${answering(holds)}`)
   }
 
-  return new CheckedQuery(pageTypes, checked, keys, reduction, ordering, limit, offset)
+  return checkedQueryOf(pageTypes, checked, keys, reduction, ordering, limit, offset)
 }
 
 export const runQuery = (checked: Checked, pages: readonly Page[]): readonly Page[] =>
