@@ -39,7 +39,7 @@ So the test is not "does this root have an index" but "is this root the one froz
 
 AN EARLIER DRAFT OF THIS FINDING SAID a worktree can never match and that every scan in a worktree falls past the index. That is wrong and is corrected here. In the suite's tree `AKASHA_ROOT` is the live checkout, so a scan taking `resolveRoots()` presents the live checkout and the index does answer. What falls through is a caller presenting a different root — `tools/lib/subjects.unit.test.ts:8` takes `new URL("../../", import.meta.url)`, which inside the worktree is the worktree, and passes it as `akasha`.
 
-WHY `AKASHA_ROOT` IS THE LIVE CHECKOUT INSIDE A PINNED TREE, which is a defect of its own. `suiteTreeEnv` at `tools/lib/suite-tree.ts:23-32` assigns the pinned tree only where `repo === "instructions"`, and `REPOS` is `akasha, code-editor` — there is no `instructions` repository since the rename. The branch is dead, so every root it exports is the live one and the pinned tree is the working directory only.
+WHY `AKASHA_ROOT` IS THE LIVE CHECKOUT INSIDE A PINNED TREE. It is, and that is what sets the two roots against each other here. Why it is stands as its own claim in `pages/finding/checks-system/pinned-files-live-roots.finding.md`, which binds it; it is not restated here.
 
 WHAT IT FALLS TO. `page/page-types.ts:123-128` walks the disk, and for a location-free suffix glob it walks the whole tree:
 
