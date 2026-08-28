@@ -12,6 +12,7 @@ export const read = {
     "required-reading",
   ],
   design: [
+    "A slug naming pages of two types is refused with a path for each, rather than answered with one of them.",
     "A read returns the whole file where the agent asks for it or nothing says what it last saw.",
     "A read takes no line range, so no call returns part of a file.",
     "A read too big for one answer returns fewer files and the call that takes the rest.",

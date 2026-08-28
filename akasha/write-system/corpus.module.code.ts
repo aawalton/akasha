@@ -18,25 +18,43 @@ export type Edges = {
 
 export type Source = {
   readonly standing: readonly Standing[]
-  readonly edgesOf: (slug: string) => Edges | null
-  readonly parentOf: (slug: string) => string | null
+  readonly edgesOf: (path: string) => Edges | null
+  readonly parentOf: (path: string) => string | null
 }
 
+export type Resolution =
+  | { readonly kind: "one"; readonly at: Standing }
+  | { readonly kind: "none" }
+  | { readonly kind: "many"; readonly among: readonly Standing[] }
+
 export type Corpus = {
-  readonly at: (slug: string) => Standing | null
-  readonly partsOf: (slug: string) => readonly string[]
-  readonly parentOf: (slug: string) => string | null
-  readonly above: (slug: string) => readonly string[]
-  readonly requiredBy: (slug: string) => readonly string[]
-  readonly conditionalBelow: (slug: string) => readonly string[]
-  readonly definitionOf: (slug: string) => string
-  readonly valueOf: (slug: string) => Record<string, unknown> | null
+  readonly at: (path: string) => Standing | null
+  readonly resolve: (slug: string, target: string | null) => Resolution
+  readonly admits: (actual: string, wanted: string) => boolean
+  readonly targetFor: (propertySlug: string) => string | null
+  readonly partsOf: (path: string) => readonly string[]
+  readonly parentOf: (path: string) => string | null
+  readonly above: (path: string) => readonly string[]
+  readonly requiredBy: (path: string) => readonly string[]
+  readonly conditionalBelow: (path: string) => readonly string[]
+  readonly definitionOf: (path: string) => string
+  readonly valueOf: (path: string) => Record<string, unknown> | null
   readonly every: () => readonly Standing[]
 }
 
 const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY_TYPE = "page-property-type"
+
+const EXTENDS = "extendsSlug"
+
+const PART_SLUGS = "part-slugs"
+
+const REQUIRED_READING_SLUGS = "required-reading-slugs"
+
+const CONDITIONAL_READING_SLUGS = "conditional-reading-slugs"
 
 function filesUnder(root: string): readonly string[] {
   const found: string[] = []
@@ -105,80 +123,159 @@ function valueIn(at: Standing): Edges | null {
   return null
 }
 
-function reach(from: string, key: string, slug: string, known: ReadonlySet<string>): void {
-  if (known.has(slug)) return
-  throw new Error(
-    `\`${from}\` names \`${slug}\` under \`${key}\`, and no page carries that slug — ` +
+type Reading = {
+  readonly bySlug: ReadonlyMap<string, readonly Standing[]>
+  readonly edgesOf: (path: string) => Edges | null
+}
+
+function readingOf(standing: readonly Standing[], edgesOf: (path: string) => Edges | null): Reading {
+  const bySlug = new Map<string, Standing[]>()
+  for (const one of standing) {
+    const held = bySlug.get(one.slug)
+    if (held === undefined) bySlug.set(one.slug, [one])
+    else held.push(one)
+  }
+  return { bySlug, edgesOf }
+}
+
+function pageTypePageIn(held: Reading, slug: string): Standing | null {
+  for (const one of held.bySlug.get(slug) ?? []) {
+    if (one.pageTypeSlug === PAGE_TYPE) return one
+  }
+  return null
+}
+
+function admitsIn(held: Reading, actual: string, wanted: string): boolean {
+  const walked = new Set<string>()
+  let here: string | null = actual
+  while (here !== null && !walked.has(here)) {
+    if (here === wanted) return true
+    walked.add(here)
+    const page = pageTypePageIn(held, here)
+    const value = page === null ? null : held.edgesOf(page.path)?.raw
+    const above = value === undefined || value === null ? null : value[EXTENDS]
+    here = typeof above === "string" ? above : null
+  }
+  return false
+}
+
+function resolveIn(held: Reading, slug: string, target: string | null): Resolution {
+  const among = held.bySlug.get(slug) ?? []
+  const fit = target === null ? among : among.filter((one) => admitsIn(held, one.pageTypeSlug, target))
+  const first = fit[0]
+  if (first === undefined) return { kind: "none" }
+  if (fit.length > 1) return { kind: "many", among: fit }
+  return { kind: "one", at: first }
+}
+
+function targetsIn(held: Reading): ReadonlyMap<string, string> {
+  const kinds = new Map<string, Record<string, unknown>>()
+  for (const [slug, among] of held.bySlug) {
+    for (const one of among) {
+      if (one.pageTypeSlug !== PAGE_PROPERTY_TYPE) continue
+      const raw = held.edgesOf(one.path)?.raw
+      if (raw !== undefined) kinds.set(slug, raw)
+    }
+  }
+  const found = new Map<string, string>()
+  const targetOf = (slug: string, walked: ReadonlySet<string>): string | null => {
+    if (walked.has(slug)) return null
+    const raw = kinds.get(slug)
+    if (raw === undefined) return null
+    const kind = raw["kind"]
+    if (kind === "relation") {
+      const named = raw["targetPageTypeSlug"]
+      return typeof named === "string" ? named : null
+    }
+    if (kind !== "list") return null
+    const entry = raw["entrySlug"]
+    return typeof entry === "string" ? targetOf(entry, new Set([...walked, slug])) : null
+  }
+  for (const slug of kinds.keys()) {
+    const target = targetOf(slug, new Set())
+    if (target !== null) found.set(slug, target)
+  }
+  return found
+}
+
+function said(from: Standing, key: string, slug: string, what: Resolution): string {
+  if (what.kind === "none") {
+    return (
+      `\`${from.slug}\` names \`${slug}\` under \`${key}\`, and no page carries that slug — ` +
       "a reading named and never reached is one the agent is never handed, so it is " +
       "refused here rather than dropped"
+    )
+  }
+  const among = what.kind === "many" ? what.among.map((one) => `\`${one.pageTypeSlug}\``).join(" and ") : ""
+  return (
+    `\`${from.slug}\` names \`${slug}\` under \`${key}\`, and ${among} both carry that slug — ` +
+    "a slug is unique among the pages of its page type, so this one is answered only where the " +
+    "relation narrows it, and here it does not"
   )
 }
 
-export function parentsByInverting(
-  standing: readonly Standing[],
-  edgesOf: (slug: string) => Edges | null
-): ReadonlyMap<string, string> {
-  const parent = new Map<string, string>()
-  for (const one of standing) {
-    const edges = edgesOf(one.slug)
-    if (edges === null) continue
-    for (const part of edges.partSlugs) {
-      const already = parent.get(part)
-      if (already !== undefined && already !== one.slug) {
-        throw new Error(
-          `\`${part}\` is named a part by both \`${already}\` and \`${one.slug}\` — ` +
-            "a page is a part of one whole or the tree above it is two trees"
-        )
-      }
-      parent.set(part, one.slug)
-    }
-  }
-  return parent
+function targetUnder(targets: ReadonlyMap<string, string>, key: string): string | null {
+  return targets.get(key) ?? null
 }
 
 export function readingEvery(root: string): Source {
   const standing = standingIn(root)
-  const known = new Set<string>()
-  for (const one of standing) {
-    if (known.has(one.slug)) {
-      throw new Error(
-        `\`${one.slug}\` is carried by more than one page — ` +
-          "a slug reaches one page or it addresses nothing"
-      )
-    }
-    known.add(one.slug)
-  }
   const loaded = new Map<string, Edges>()
   for (const one of standing) {
     const edges = valueIn(one)
-    if (edges !== null) loaded.set(one.slug, edges)
+    if (edges !== null) loaded.set(one.path, edges)
   }
-  const edgesOf = (slug: string): Edges | null => loaded.get(slug) ?? null
-  const parent = parentsByInverting(standing, edgesOf)
-  return { standing, edgesOf, parentOf: (slug) => parent.get(slug) ?? null }
+  const edgesOf = (path: string): Edges | null => loaded.get(path) ?? null
+  const held = readingOf(standing, edgesOf)
+  const targets = targetsIn(held)
+  const partTarget = targetUnder(targets, PART_SLUGS)
+
+  const parent = new Map<string, string>()
+  for (const one of standing) {
+    const edges = edgesOf(one.path)
+    if (edges === null) continue
+    for (const part of edges.partSlugs) {
+      const what = resolveIn(held, part, partTarget)
+      if (what.kind !== "one") continue
+      const already = parent.get(what.at.path)
+      if (already !== undefined && already !== one.path) {
+        throw new Error(
+          `\`${part}\` is named a part by both \`${already}\` and \`${one.path}\` — ` +
+            "a page is a part of one whole or the tree above it is two trees"
+        )
+      }
+      parent.set(what.at.path, one.path)
+    }
+  }
+  return { standing, edgesOf, parentOf: (path) => parent.get(path) ?? null }
 }
 
 export function corpusOver(source: Source): Corpus {
-  const known = new Map<string, Standing>()
-  for (const one of source.standing) known.set(one.slug, one)
-  const slugs = new Set(known.keys())
+  const byPath = new Map<string, Standing>()
+  for (const one of source.standing) byPath.set(one.path, one)
+  const held = readingOf(source.standing, source.edgesOf)
+  const targets = targetsIn(held)
 
   for (const one of source.standing) {
-    const edges = source.edgesOf(one.slug)
+    const edges = source.edgesOf(one.path)
     if (edges === null) continue
-    for (const named of edges.partSlugs) reach(one.slug, "partSlugs", named, slugs)
-    for (const named of edges.requiredReadingSlugs) {
-      reach(one.slug, "requiredReadingSlugs", named, slugs)
-    }
-    for (const named of edges.conditionalReadingSlugs) {
-      reach(one.slug, "conditionalReadingSlugs", named, slugs)
+    for (const [key, named] of [
+      [PART_SLUGS, edges.partSlugs],
+      [REQUIRED_READING_SLUGS, edges.requiredReadingSlugs],
+      [CONDITIONAL_READING_SLUGS, edges.conditionalReadingSlugs],
+    ] as const) {
+      const target = targetUnder(targets, key)
+      for (const slug of named) {
+        const what = resolveIn(held, slug, target)
+        if (what.kind !== "one") throw new Error(said(one, key, slug, what))
+      }
     }
   }
 
-  const above = (slug: string): readonly string[] => {
+  const above = (path: string): readonly string[] => {
     const found: string[] = []
-    const walked = new Set<string>([slug])
-    let here = slug
+    const walked = new Set<string>([path])
+    let here = path
     for (;;) {
       const next = source.parentOf(here)
       if (next === null || walked.has(next)) return found
@@ -188,32 +285,34 @@ export function corpusOver(source: Source): Corpus {
     }
   }
 
+  const pathsUnder = (path: string, key: string, named: readonly string[]): readonly string[] => {
+    const target = targetUnder(targets, key)
+    const found: string[] = []
+    for (const slug of named) {
+      const what = resolveIn(held, slug, target)
+      if (what.kind === "one") found.push(what.at.path)
+    }
+    return found
+  }
+
   return {
-    at: (slug) => known.get(slug) ?? null,
-    partsOf: (slug) => source.edgesOf(slug)?.partSlugs ?? [],
+    at: (path) => byPath.get(path) ?? null,
+    resolve: (slug, target) => resolveIn(held, slug, target),
+    admits: (actual, wanted) => admitsIn(held, actual, wanted),
+    targetFor: (slug) => targetUnder(targets, slug),
+    partsOf: (path) => pathsUnder(path, PART_SLUGS, source.edgesOf(path)?.partSlugs ?? []),
     parentOf: source.parentOf,
     above,
-    requiredBy: (slug) => source.edgesOf(slug)?.requiredReadingSlugs ?? [],
-    conditionalBelow: (slug) => source.edgesOf(slug)?.conditionalReadingSlugs ?? [],
-    definitionOf: (slug) => source.edgesOf(slug)?.definition ?? "",
-    valueOf: (slug) => source.edgesOf(slug)?.raw ?? null,
+    requiredBy: (path) =>
+      pathsUnder(path, REQUIRED_READING_SLUGS, source.edgesOf(path)?.requiredReadingSlugs ?? []),
+    conditionalBelow: (path) =>
+      pathsUnder(path, CONDITIONAL_READING_SLUGS, source.edgesOf(path)?.conditionalReadingSlugs ?? []),
+    definitionOf: (path) => source.edgesOf(path)?.definition ?? "",
+    valueOf: (path) => source.edgesOf(path)?.raw ?? null,
     every: () => source.standing,
   }
 }
 
 export function corpusIn(root: string): Corpus {
   return corpusOver(readingEvery(root))
-}
-
-export function closureFor(slug: string, corpus: Corpus): readonly string[] {
-  const reached = new Set<string>()
-  const queue = [...corpus.above(slug), ...corpus.requiredBy(slug)]
-  while (queue.length > 0) {
-    const one = queue.shift()
-    if (one === undefined || one === slug || reached.has(one)) continue
-    reached.add(one)
-    for (const next of corpus.requiredBy(one)) queue.push(next)
-    for (const next of corpus.above(one)) queue.push(next)
-  }
-  return [...reached].sort()
 }

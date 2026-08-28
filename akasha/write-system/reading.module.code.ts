@@ -12,9 +12,13 @@ export const BODY_CEILING = 32_768
 
 export type Record_ = {
   readonly of: (path: string) => Reading | null
-  readonly bodyOf: (path: string) => string | null
-  readonly keep: (path: string, oid: Oid, seenAt: number, body?: string) => void
+  readonly keep: (path: string, oid: Oid, seenAt: number) => void
   readonly flush: () => void
+}
+
+export type BodyStore = {
+  readonly of: (oid: Oid) => string | null
+  readonly keep: (oid: Oid, body: string) => void
 }
 
 export function oidOf(body: string): Oid {
@@ -25,7 +29,7 @@ export function oidOf(body: string): Oid {
     .digest("hex")
 }
 
-type Held = Record<string, { oid: string; seenAt: number; body?: string }>
+type Held = Record<string, { oid: string; seenAt: number; expiredAt?: number; mechanicalOid?: string }>
 
 export function recordAt(path: string): Record_ {
   let held: Held = {}
@@ -36,19 +40,16 @@ export function recordAt(path: string): Record_ {
       held = {}
     }
   }
-  const pending = new Map<string, { oid: string; seenAt: number; body?: string }>()
+  const pending = new Map<string, Held[string]>()
   return {
     of: (at) => {
       const one = pending.get(at) ?? held[at]
-      return one === undefined ? null : { oid: one.oid, seenAt: one.seenAt }
+      if (one === undefined) return null
+      if (one.expiredAt !== undefined) return null
+      return { oid: one.oid, seenAt: one.seenAt }
     },
-    bodyOf: (at) => {
-      const one = pending.get(at) ?? held[at]
-      return one?.body ?? null
-    },
-    keep: (at, oid, seenAt, body) => {
-      const kept = body !== undefined && body.length <= BODY_CEILING ? { oid, seenAt, body } : { oid, seenAt }
-      pending.set(at, kept)
+    keep: (at, oid, seenAt) => {
+      pending.set(at, { oid, seenAt })
     },
     flush: () => {
       if (pending.size === 0) return
@@ -59,6 +60,25 @@ export function recordAt(path: string): Record_ {
       writeFileSync(path, `${JSON.stringify(all, null, 2)}\n`)
       held = all
       pending.clear()
+    },
+  }
+}
+
+export function bodiesAt(dir: string): BodyStore {
+  return {
+    of: (oid) => {
+      try {
+        return readFileSync(`${dir}/${oid}`, "utf8")
+      } catch {
+        return null
+      }
+    },
+    keep: (oid, body) => {
+      if (body.length > BODY_CEILING) return
+      const at = `${dir}/${oid}`
+      if (existsSync(at)) return
+      mkdirSync(dir, { recursive: true })
+      writeFileSync(at, body)
     },
   }
 }

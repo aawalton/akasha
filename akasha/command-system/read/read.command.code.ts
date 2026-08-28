@@ -2,7 +2,7 @@ import { readFileSync, statSync } from "node:fs"
 import { resolve } from "node:path"
 import type { Corpus } from "../../write-system/corpus.module.code.ts"
 import { difference } from "../../write-system/difference.module.code.ts"
-import type { Record_ } from "../../write-system/reading.module.code.ts"
+import type { BodyStore, Record_ } from "../../write-system/reading.module.code.ts"
 import { oidOf } from "../../write-system/reading.module.code.ts"
 import { conditionalFor, warrantsFor } from "../../write-system/required-reading.module.code.ts"
 
@@ -16,6 +16,7 @@ export type Where = {
   readonly root: string
   readonly corpus: Corpus
   readonly record: Record_
+  readonly bodies: BodyStore
   readonly writer: string | null
   readonly discardedTo: string | null
 }
@@ -26,7 +27,7 @@ export type Answer = {
   readonly code: number
 }
 
-type Target = { readonly slug: string | null; readonly path: string; readonly named: string }
+type Target = { readonly path: string; readonly named: string }
 
 function costOf(lines: readonly string[]): number {
   let held = 0
@@ -110,7 +111,7 @@ function emit(one: Target, where: Where, full: boolean): Emission {
       kept: text,
     }
   }
-  const before = where.record.bodyOf(one.path)
+  const before = where.bodies.of(held.oid)
   if (before === null) {
     return {
       headline: `${one.named} — changed since you read it at ${whenText(held.seenAt)}, and the body you read was not kept, so the whole file follows; ${countLines(text)} lines`,
@@ -183,20 +184,24 @@ export function read(argv: readonly string[], where: Where): Answer {
   const seen = new Set<string>()
   for (const one of asked) {
     let path: string
-    let slug: string | null = null
     if (one.startsWith("slug:")) {
       const named = one.slice(5)
-      const at = where.corpus.at(named)
-      if (at === null) {
+      const what = where.corpus.resolve(named, null)
+      if (what.kind === "none") {
         refusals.push(`no page carries the slug \`${named}\``)
         continue
       }
-      path = at.path
-      slug = named
+      if (what.kind === "many") {
+        const among = what.among.map((each) => `  --file-path ${each.path.slice(where.root.length + 1)}`)
+        refusals.push(
+          `\`${named}\` is carried by ${what.among.length} pages, and a slug is unique among the ` +
+            `pages of its page type, so this names more than one:\n${among.join("\n")}`
+        )
+        continue
+      }
+      path = what.at.path
     } else {
       path = resolve(where.root, one)
-      const at = where.corpus.every().find((each) => each.path === path)
-      slug = at?.slug ?? null
     }
     if (!path.startsWith(`${where.root}/`)) {
       refusals.push(`${one} is outside the akasha folder, which is all this reads`)
@@ -207,28 +212,26 @@ export function read(argv: readonly string[], where: Where): Answer {
       continue
     }
     seen.add(path)
-    targets.push({ slug, path, named: path.slice(where.root.length + 1) })
+    targets.push({ path, named: path.slice(where.root.length + 1) })
   }
   if (targets.length === 0) return { report: [], refusals, code: 1 }
 
   const owed = new Set<string>()
   for (const one of targets) {
-    if (one.slug === null) continue
-    for (const named of warrantsFor(one.slug, where.corpus)) owed.add(named)
+    if (where.corpus.at(one.path) === null) continue
+    for (const named of warrantsFor(one.path, where.corpus)) owed.add(named)
   }
-  for (const one of targets) if (one.slug !== null) owed.delete(one.slug)
+  for (const one of targets) owed.delete(one.path)
 
   const required: Target[] = []
-  for (const named of [...owed].sort()) {
-    const at = where.corpus.at(named)
-    if (at === null) continue
-    required.push({ slug: named, path: at.path, named: at.path.slice(where.root.length + 1) })
+  for (const path of [...owed].sort()) {
+    required.push({ path, named: path.slice(where.root.length + 1) })
   }
 
   const conditional = conditionalFor(
-    [...targets, ...required].flatMap((one) => (one.slug === null ? [] : [one.slug])),
+    [...targets, ...required].map((one) => one.path),
     where.corpus
-  ).filter((one) => !owed.has(one) && !targets.some((each) => each.slug === one))
+  ).filter((one) => !owed.has(one) && !targets.some((each) => each.path === one))
 
   const kept: string[] = []
   if (conditional.length > 0) {
@@ -240,8 +243,8 @@ export function read(argv: readonly string[], where: Where): Answer {
     for (const one of conditional) {
       const at = where.corpus.at(one)
       if (at === null) continue
-      kept.push(`${COND}${one} — ${at.path.slice(where.root.length + 1)}`)
-      kept.push(`- **${one}** — ${where.corpus.definitionOf(one)}`)
+      kept.push(`${COND}${at.slug} — ${one.slice(where.root.length + 1)}`)
+      kept.push(`- **${at.slug}** — ${where.corpus.definitionOf(one)}`)
     }
   }
 
@@ -290,7 +293,10 @@ export function read(argv: readonly string[], where: Where): Answer {
     spent += cost
     taken += 1
     if (isRequired) opened = true
-    if (emission.oid !== null) where.record.keep(one.path, emission.oid, Date.now(), emission.kept)
+    if (emission.oid !== null) {
+      where.record.keep(one.path, emission.oid, Date.now())
+      if (emission.kept !== undefined) where.bodies.keep(emission.oid, emission.kept)
+    }
   }
 
   report.push(...kept)

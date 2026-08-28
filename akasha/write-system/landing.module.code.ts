@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import type { Corpus } from "./corpus.module.code.ts"
-import { closureFor } from "./corpus.module.code.ts"
+import { closureFor } from "./required-reading.module.code.ts"
 import type { Oid, Record_ } from "./reading.module.code.ts"
 import { oidOf } from "./reading.module.code.ts"
 
@@ -28,6 +28,11 @@ export type Change = Landing | Removal
 
 export type Refusal = { readonly refused: string }
 
+export type BodyStore = {
+  readonly of: (oid: Oid) => string | null
+  readonly keep: (oid: Oid, body: string) => void
+}
+
 export type Indexing = {
   readonly wrote: (path: string, body: string) => void
   readonly took: (path: string) => void
@@ -38,8 +43,8 @@ export type Held = {
   readonly corpus: Corpus
   readonly record: Record_
   readonly writer: string
-  readonly slugOf: (path: string) => string | null
   readonly index: Indexing
+  readonly bodies: BodyStore
 }
 
 function refusal(said: string): Refusal {
@@ -66,34 +71,28 @@ const cleared = new WeakMap<Record_, ReadonlySet<string>>()
 function seatShort(held: Held, owed: readonly string[]): readonly string[] {
   const already = cleared.get(held.record)
   const short: string[] = []
-  for (const slug of owed) {
-    if (already?.has(slug) === true) continue
-    const at = held.corpus.at(slug)
-    if (at === null) continue
-    const reading = held.record.of(at.path)
-    if (reading === null) short.push(slug)
-    else if (reading.oid !== oidOf(readFileSync(at.path, "utf8"))) short.push(slug)
+  for (const path of owed) {
+    if (already?.has(path) === true) continue
+    const reading = held.record.of(path)
+    if (reading === null) short.push(path)
+    else if (reading.oid !== oidOf(readFileSync(path, "utf8"))) short.push(path)
   }
   if (short.length === 0) {
     const now = new Set(already ?? [])
-    for (const slug of owed) now.add(slug)
+    for (const path of owed) now.add(path)
     cleared.set(held.record, now)
   }
   return short
 }
 
 function owedFor(path: string, held: Held): readonly string[] {
-  const slug = held.slugOf(path)
-  return slug === null ? [] : closureFor(slug, held.corpus)
+  return held.corpus.at(path) === null ? [] : closureFor(path, held.corpus)
 }
 
 function shortOf(path: string, held: Held): Refusal | null {
   const short = seatShort(held, owedFor(path, held))
   if (short.length === 0) return null
-  const named = short
-    .map((slug) => held.corpus.at(slug)?.path ?? slug)
-    .map((at) => `  ops read --file-path ${at}`)
-    .join("\n")
+  const named = short.map((at) => `  akasha read --file-path ${at}`).join("\n")
   return refusal(
     `${path} requires ${short.length} document(s) nothing on record says you have read.\n${named}`
   )
@@ -158,7 +157,8 @@ export function land(all: readonly Change[], held: Held): readonly string[] {
       }
     }
     writeFileSync(one.path, one.body)
-    held.record.keep(one.path, oidOf(one.body), Date.now(), one.body)
+    held.record.keep(one.path, oidOf(one.body), Date.now())
+    held.bodies.keep(oidOf(one.body), one.body)
     held.index.wrote(one.path, one.body)
     done.push(one.path)
   }
