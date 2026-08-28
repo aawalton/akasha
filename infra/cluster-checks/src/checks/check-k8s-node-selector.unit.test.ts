@@ -240,7 +240,7 @@ describe("scanTsNodeName — the TS surface (builders that emit no yaml)", () =>
   })
 
   test("reaches a module outside infra/, judged like the platform's", () => {
-    const v = scanTsNodeName(POD_SPEC, "alanwalton/web/deploy/k8s/synth.ts")
+    const v = scanTsNodeName(POD_SPEC, "alanwalton/web/alanwalton-web-deployment.cluster-service.code.attachment.ts")
     expect(v.map((x) => x.kind)).toEqual(["ts-node-name"])
   })
 
