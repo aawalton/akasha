@@ -6,6 +6,7 @@ defined-on-slug: page-type/connection-activity
 key: safety
 type: text
 pattern: '^L[2-6]$'
+backstop: 6
 required: true
 slug: connection-activity-safety
 domain-parent-slug: page-type/connection-activity
