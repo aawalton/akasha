@@ -11,6 +11,7 @@ import { ownRepoRoot } from "../../repo/roots/roots"
 const SCRATCH = "/var/tmp"
 const PAGES = "pages/workflow-template"
 const GIT_CEILING_MS = 120_000
+const TEARDOWN_CEILING_MS = 120_000
 
 const PROBE = "workflow-pinning-probe"
 const LATER = "workflow-pinning-later"
@@ -104,7 +105,7 @@ const stands = await workflowsAt(after)
 
 afterAll(() => {
   rmSync(repo, { recursive: true, force: true })
-})
+}, TEARDOWN_CEILING_MS)
 
 test("a commit's workflows are the ones that stood at it, not the ones standing now", () => {
   expect(Object.keys(stood).sort()).toEqual(["pinning-probe"])
