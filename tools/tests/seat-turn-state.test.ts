@@ -13,8 +13,7 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
     source: null,
     pending: {},
     working: {},
-    ended: null,
-    started: null,
+    reading: null,
     roleOnCall: false,
     ...over,
   }
@@ -74,11 +73,7 @@ describe("a seat that has kept no turn record at all", () => {
 
 describe("a seat keeping records from before the stamps", () => {
   test("a turn end read but no stamp is idle, which is what an older seat holds", () => {
-    expect(readSeatTurn(kept({ ended: at("allow:none", 100) })).state).toBe("idle")
-  })
-
-  test("a turn start but no stamp is idle, the start alone saying a turn was taken", () => {
-    expect(readSeatTurn(kept({ started: at("prompt", 100) })).state).toBe("idle")
+    expect(readSeatTurn(kept({ reading: at("allow:none", 100) })).state).toBe("idle")
   })
 
   test("an unstamped seat is read against what is arranged like any other idle one", () => {
