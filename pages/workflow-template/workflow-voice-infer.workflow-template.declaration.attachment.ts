@@ -22,12 +22,6 @@ export default workflow("voice-infer", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "package:code:@infra/voice-infer",
-    "workflow:instructions:voice-infer",
-    "ts-file:code:packages/infra/voice-infer/k8s/synth.ts",
-    "dockerfile-file:code:packages/infra/voice-infer/Containerfile.cu121",
-  ],
   steps: [
     kubectlApply({
       name: "voice-infer-apply-namespace",

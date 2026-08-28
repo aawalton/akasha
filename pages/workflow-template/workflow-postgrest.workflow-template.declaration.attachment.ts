@@ -18,10 +18,6 @@ export default workflow("postgrest", {
   kind: "foundation",
   dependsOn: ["postgres", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:postgrest",
-    "ts-file:code:packages/infra/k8s/src/postgrest/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "postgrest-apply-namespace",

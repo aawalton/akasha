@@ -11,7 +11,6 @@ export default workflow("cloudflared", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["tunnel-config-recipe:code:cloudflared"],
   dispatchNodeTypes: ["tunnel-route"],
   steps: [
     kubectlApplyClusterScoped({

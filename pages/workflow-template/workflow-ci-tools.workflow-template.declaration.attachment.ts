@@ -7,7 +7,6 @@ export default workflow("ci-tools", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["workflow:instructions:ci-tools"],
   steps: [
     kubectlApply({
       name: "ci-tools-apply-ci-namespace",

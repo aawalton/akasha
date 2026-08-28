@@ -11,10 +11,6 @@ const primitivesBootstrap = workflow("primitives", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:primitives",
-    "ts-file:code:packages/infra/k8s/src/primitives/synth.ts",
-  ],
   steps: [
     step({
       name: "primitives-apply-runtime-class",

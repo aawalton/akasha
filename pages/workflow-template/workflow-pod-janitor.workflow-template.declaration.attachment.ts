@@ -8,10 +8,6 @@ export default workflow("pod-janitor", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:pod-janitor",
-    "ts-file:code:packages/infra/k8s/src/pod-janitor/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "pod-janitor-apply-namespace",

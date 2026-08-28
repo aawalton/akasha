@@ -10,14 +10,6 @@ export default workflow("buildkit", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:buildkit",
-    "k8s-resource:code:Namespace//buildkit",
-    "k8s-resource:code:ConfigMap//buildkit-config",
-    "k8s-resource:code:Deployment//buildkit",
-    "k8s-resource:code:Service//buildkit",
-    "k8s-resource:code:CronJob//buildkit-prune",
-  ],
   steps: [
     step({
       name: "buildkit-apply-namespace",

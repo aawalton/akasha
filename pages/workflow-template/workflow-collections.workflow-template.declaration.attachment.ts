@@ -9,10 +9,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation", "seaweedfs", "app-namespaces"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: [
-      "ts-file:instructions:tools/lib/rbac/collections.ts",
-      "yaml-file:code:packages/infra/k8s/src/collections/secrets.sops.yaml",
-    ],
     steps: [
       applyRbac({
         name: "collections-apply-rbac",

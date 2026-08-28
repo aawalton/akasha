@@ -8,7 +8,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@smilingjenny/web"],
     steps: [
       applyRbac({ name: "smilingjenny-apply-rbac", rbacFile: "tools/lib/rbac/smilingjenny-web.ts" }),
       kubectlApply({

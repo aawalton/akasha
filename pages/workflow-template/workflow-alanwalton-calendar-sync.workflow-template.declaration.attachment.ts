@@ -8,13 +8,6 @@ export default workflow("alanwalton-calendar-sync", {
   package: "@alanwalton/calendar-sync",
   dependsOn: ["preparation", "alanwalton"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "package:code:@alanwalton/calendar-sync",
-    "json-file:code:package.json",
-    "lock-file:code:bun.lock",
-    "json-file:code:tsconfig.base.json",
-    "tsconfig-file:code:tsconfig.base.json",
-  ],
   steps: [
     {
       ...buildkitBuild({

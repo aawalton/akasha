@@ -16,10 +16,6 @@ export default workflow("gotrue", {
   kind: "foundation",
   dependsOn: ["postgres", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:gotrue",
-    "ts-file:code:packages/infra/k8s/src/gotrue/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "gotrue-apply-namespace",

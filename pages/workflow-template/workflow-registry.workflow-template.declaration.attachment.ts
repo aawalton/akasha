@@ -10,19 +10,6 @@ export default workflow("registry", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:registry",
-    "ts-file:code:packages/infra/k8s/src/registry/synth-constants.ts",
-    "k8s-resource:code:Namespace//registry",
-    "k8s-resource:code:PersistentVolumeClaim//registry-data",
-    "k8s-resource:code:Deployment//registry",
-    "k8s-resource:code:Service//registry",
-    "k8s-resource:code:ServiceAccount/registry/registry-gc",
-    "k8s-resource:code:Role/registry/registry-gc",
-    "k8s-resource:code:RoleBinding/registry/registry-gc",
-    "k8s-resource:code:CronJob/registry/registry-gc",
-    "yaml-file:code:packages/infra/k8s/src/registry/secrets/registry-tls.sops.yaml",
-  ],
   steps: [
     step({
       name: "registry-apply-namespaces",

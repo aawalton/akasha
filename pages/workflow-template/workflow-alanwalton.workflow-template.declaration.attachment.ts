@@ -10,7 +10,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation", "seaweedfs"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@alanwalton/web"],
     steps: [
       applyRbac({ name: "alanwalton-apply-rbac", rbacFile: "tools/lib/rbac/alanwalton-web.ts" }),
       kubectlApply({

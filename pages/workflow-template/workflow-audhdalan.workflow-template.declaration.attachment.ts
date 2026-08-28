@@ -8,7 +8,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@audhdalan/web"],
     steps: [
       applyRbac({ name: "audhdalan-apply-rbac", rbacFile: "tools/lib/rbac/audhdalan-web.ts" }),
       kubectlApply({

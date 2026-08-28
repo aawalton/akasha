@@ -14,11 +14,6 @@ export default workflow("eso-rig", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:eso-rig",
-    "ts-file:instructions:tools/lib/rbac/eso-rig.ts",
-    "ts-file:code:packages/infra/eso-rig/k8s/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "eso-rig-apply-namespace",

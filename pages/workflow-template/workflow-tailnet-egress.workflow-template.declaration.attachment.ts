@@ -7,10 +7,6 @@ export default workflow("tailnet-egress", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:tailnet-egress",
-    "ts-file:code:packages/infra/k8s/src/tailnet-egress/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "tailnet-egress-apply-namespace",

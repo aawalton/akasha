@@ -7,14 +7,6 @@ export default workflow("ci", {
   kind: "foundation",
   dependsOn: ["ci-tools", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:ci",
-    "package:code:@infra/ci-workflows",
-    "k8s-resource:code:Namespace//ci",
-    "k8s-resource:instructions:ServiceAccount/ci/pipeline-engine",
-    "k8s-resource:instructions:Role/ci/pipeline-engine",
-    "k8s-resource:instructions:RoleBinding/ci/pipeline-engine",
-  ],
   steps: [
     {
       ...step({

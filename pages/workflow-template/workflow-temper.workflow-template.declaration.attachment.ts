@@ -8,7 +8,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@temper/web"],
     steps: [
       applyRbac({ name: "temper-apply-rbac", rbacFile: "tools/lib/rbac/temper-web.ts" }),
       kubectlApply({

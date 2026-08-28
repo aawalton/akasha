@@ -10,7 +10,6 @@ const archiveOfWorlds = workflow("archive-of-worlds-web", {
   dependsOn: ["preparation", "archive-of-worlds"],
   when: { branch: "main", event: "push" },
   package: "@archive-of-worlds/web",
-  dispatchNodes: ["package:code:@archive-of-worlds/web"],
   steps: [
     kubectlApply({
       name: "archive-of-worlds-web-apply-deployment",

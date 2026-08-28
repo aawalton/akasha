@@ -5,10 +5,6 @@ export default workflow("page-query-service", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:page-query-service",
-    "ts-file:code:packages/infra/k8s/src/page-query-service/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "page-query-service-apply-namespace",

@@ -15,15 +15,6 @@ export default workflow("prometheus", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:prometheus",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-constants.ts",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-exporters.ts",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-kube-state-metrics.ts",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-pgbouncer-exporter.ts",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-prometheus.ts",
-    "ts-file:code:packages/infra/k8s/src/prometheus/synth-prometheus-configs.ts",
-  ],
   steps: [
     kubectlApply({
       name: "prometheus-apply-namespace",

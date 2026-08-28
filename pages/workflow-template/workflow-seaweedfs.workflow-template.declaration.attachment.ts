@@ -18,7 +18,6 @@ const foundationSeaweedfs = workflow("seaweedfs", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["package:code:@infra/seaweedfs"],
   steps: [
     kubectlApply({
       name: "seaweedfs-apply-namespace",

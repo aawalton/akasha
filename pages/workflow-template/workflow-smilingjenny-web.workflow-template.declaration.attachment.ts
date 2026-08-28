@@ -7,7 +7,6 @@ const smilingjenny = workflow("smilingjenny-web", {
   dependsOn: ["preparation", "smilingjenny"],
   when: { branch: "main", event: "push" },
   package: "@smilingjenny/web",
-  dispatchNodes: ["package:code:@smilingjenny/web"],
   steps: [
     kubectlApply({
       name: "smilingjenny-web-apply-deployment",

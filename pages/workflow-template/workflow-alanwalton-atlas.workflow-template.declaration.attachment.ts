@@ -11,7 +11,6 @@ export const workflows = [
     dependsOn: ["preparation", "alanwalton-atlas-foundation"],
     when: { branch: "main", event: "push" },
     package: "@alanwalton/atlas-web",
-    dispatchNodes: ["package:code:@alanwalton/atlas-web"],
     steps: [
       step({
         name: "alanwalton-atlas-apply-deployment",

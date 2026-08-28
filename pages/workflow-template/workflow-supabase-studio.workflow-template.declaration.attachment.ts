@@ -15,10 +15,6 @@ export default workflow("supabase-studio", {
   kind: "foundation",
   dependsOn: ["postgres", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:supabase-studio",
-    "ts-file:code:packages/infra/k8s/src/supabase-studio/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "supabase-studio-apply-namespace",

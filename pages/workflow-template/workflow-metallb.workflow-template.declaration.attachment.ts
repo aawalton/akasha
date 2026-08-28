@@ -12,10 +12,6 @@ export default workflow("metallb", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:metallb",
-    "ts-file:code:packages/infra/k8s/src/metallb/synth.ts",
-  ],
   steps: [
     applyRbac({ name: "metallb-apply-rbac", rbacFile: "tools/lib/rbac/metallb.ts" }),
     {

@@ -6,7 +6,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["preparation", "alanwalton"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@alanwalton/atlas-web"],
     steps: [
       kubectlApply({
         name: "alanwalton-atlas-foundation-apply-service",

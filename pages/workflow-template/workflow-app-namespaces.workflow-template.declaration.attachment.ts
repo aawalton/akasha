@@ -5,10 +5,6 @@ export default workflow("app-namespaces", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:app-namespaces",
-    "ts-file:code:packages/infra/k8s/src/app-namespaces/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "app-namespaces-apply",

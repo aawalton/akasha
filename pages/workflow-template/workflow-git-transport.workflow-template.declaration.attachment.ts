@@ -7,7 +7,6 @@ export default workflow("git-transport", {
   kind: "foundation",
   dependsOn: ["ci-images", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["package:code:@infra/git-transport"],
   steps: [
     kubectlApply({
       name: "git-transport-apply-git-namespace",

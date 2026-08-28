@@ -12,10 +12,6 @@ export default workflow("cloudnative-pg", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:cloudnative-pg",
-    "ts-file:code:packages/infra/k8s/src/cloudnative-pg/synth.ts",
-  ],
   steps: [
     step({
       name: "cloudnative-pg-apply-namespace",

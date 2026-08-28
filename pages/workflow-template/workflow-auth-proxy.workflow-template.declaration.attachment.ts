@@ -10,7 +10,6 @@ export default workflow("auth-proxy", {
   kind: "foundation",
   dependsOn: ["ci-images", "preparation", "gotrue"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["package:code:@infra/auth-proxy"],
   steps: [
     kubectlApply({
       name: "auth-proxy-apply-namespace",

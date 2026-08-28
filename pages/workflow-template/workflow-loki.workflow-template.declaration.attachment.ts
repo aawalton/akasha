@@ -15,7 +15,6 @@ export default workflow("loki", {
   kind: "foundation",
   dependsOn: ["preparation", "seaweedfs"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: ["package:code:@infra/loki-service"],
   steps: [
     kubectlApply({
       name: "loki-apply-namespace",

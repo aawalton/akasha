@@ -8,7 +8,6 @@ export const workflows = [
     kind: "foundation",
     dependsOn: ["ci-images", "preparation", "app-namespaces"],
     when: { branch: "main", event: "push" },
-    dispatchNodes: ["package:code:@archive-of-worlds/web"],
     steps: [
       applyRbac({
         name: "archive-of-worlds-apply-rbac",

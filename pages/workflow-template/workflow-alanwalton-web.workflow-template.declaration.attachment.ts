@@ -10,7 +10,6 @@ const alanwalton = workflow("alanwalton-web", {
   dependsOn: ["preparation", "alanwalton"],
   when: { branch: "main", event: "push" },
   package: "@alanwalton/web",
-  dispatchNodes: ["package:code:@alanwalton/web"],
   steps: [
     step({
       name: "alanwalton-web-apply-deployment",

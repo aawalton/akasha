@@ -15,20 +15,6 @@ export default workflow("temper-watcher", {
   kind: "foundation",
   dependsOn: ["buildkit", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:temper-watcher",
-    "package:code:@temper/scripts",
-    "dockerfile-file:code:packages/infra/k8s/src/temper-watcher/build/Dockerfile",
-    "toml-file:code:packages/temper/watcher-tray/Cargo.toml",
-    "rust-file:code:packages/temper/watcher-tray/build.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/main.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/installer.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/logger.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/supervisor.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/tray.rs",
-    "rust-file:code:packages/temper/watcher-tray/src/updater.rs",
-    "image-file:code:packages/temper/watcher-tray/assets/icon.ico",
-  ],
   steps: [
     {
       ...buildkitBuild({

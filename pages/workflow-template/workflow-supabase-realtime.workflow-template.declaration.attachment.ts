@@ -18,11 +18,6 @@ export default workflow("supabase-realtime", {
   kind: "foundation",
   dependsOn: ["postgres", "gotrue", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:supabase-realtime",
-    "ts-file:code:packages/infra/k8s/src/supabase-realtime/synth.ts",
-    "ts-file:code:packages/infra/k8s/src/supabase-realtime/scripts/bootstrap-tenant.ts",
-  ],
   steps: [
     kubectlApply({
       name: "supabase-realtime-apply-namespace",

@@ -13,10 +13,6 @@ export default workflow("cert-manager", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:cert-manager",
-    "ts-file:code:packages/infra/k8s/src/cert-manager/synth.ts",
-  ],
   steps: [
     applyRbac({
       name: "cert-manager-apply-rbac",

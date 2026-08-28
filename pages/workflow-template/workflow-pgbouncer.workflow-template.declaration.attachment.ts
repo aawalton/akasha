@@ -15,10 +15,6 @@ export default workflow("pgbouncer", {
   kind: "foundation",
   dependsOn: ["postgres", "preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:pgbouncer",
-    "ts-file:code:packages/infra/k8s/src/pgbouncer/synth.ts",
-  ],
   steps: [
     kubectlApply({
       name: "pgbouncer-apply-namespace",

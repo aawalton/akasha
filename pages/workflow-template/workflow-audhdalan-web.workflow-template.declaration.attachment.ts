@@ -10,7 +10,6 @@ const audhdalan = workflow("audhdalan-web", {
   dependsOn: ["preparation", "audhdalan"],
   when: { branch: "main", event: "push" },
   package: "@audhdalan/web",
-  dispatchNodes: ["package:code:@audhdalan/web"],
   steps: [
     kubectlApply({
       name: "audhdalan-web-apply-deployment",

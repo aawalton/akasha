@@ -15,13 +15,6 @@ export default workflow("grafana", {
   kind: "foundation",
   dependsOn: ["preparation"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:grafana",
-    "ts-file:code:packages/infra/k8s/src/grafana/synth.ts",
-    "json-file:code:packages/infra/k8s/src/grafana/data/resources.json",
-    "json-file:code:packages/infra/k8s/src/grafana/data/pods.json",
-    "json-file:code:packages/infra/k8s/src/grafana/data/database.json",
-  ],
   steps: [
     kubectlApply({
       name: "grafana-apply-namespace",

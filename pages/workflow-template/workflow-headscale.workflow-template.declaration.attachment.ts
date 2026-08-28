@@ -17,13 +17,6 @@ export default workflow("headscale", {
   kind: "foundation",
   dependsOn: ["metallb", "cert-manager", "preparation", "seaweedfs"],
   when: { branch: "main", event: "push" },
-  dispatchNodes: [
-    "workflow:instructions:headscale",
-    "ts-file:code:packages/infra/k8s/src/headscale/synth.ts",
-    "ts-file:code:packages/infra/k8s/src/headscale/synth-constants.ts",
-    "ts-file:code:packages/infra/k8s/src/headscale/synth-statefulsets.ts",
-    "ts-file:code:packages/infra/k8s/src/headscale/synth-configmaps.ts",
-  ],
   steps: [
     kubectlApply({
       name: "headscale-apply-namespace",
