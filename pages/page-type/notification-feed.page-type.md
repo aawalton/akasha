@@ -17,6 +17,6 @@ named-for: "{person-slug}"
 
 # Design
 
-A feed stands in the memory repository rather than beside the person's own document, so a push writes nothing into the instructions.
+A feed stands in its own place rather than beside the person's document.
 
 One person has one feed, whatever pushed at them.
