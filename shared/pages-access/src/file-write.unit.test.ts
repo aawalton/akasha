@@ -76,6 +76,19 @@ describe("fileValuesOf", () => {
       note: "x",
     })
   })
+
+  // The case above pins the camel spelling and only the camel spelling, which is how a change
+  // asking `camelizeKey(rawKey)` — collapsing the two, on the reasoning that one key should not
+  // behave two ways — passed the suite while stripping `user-id` from every device write.
+  it("keeps the kebab spelling a page holds in its own file, dropping the camel one the row settles", () => {
+    expect(fileValuesOf("op", "device-secret", { "user-id": "u", "device-id": "d" })).toEqual({
+      "user-id": "u",
+      "device-id": "d",
+    })
+    expect(fileValuesOf("op", "temper-net-worth-snapshot", { userId: "u", totalValue: 5 })).toEqual({
+      "total-value": 5,
+    })
+  })
 })
 
 describe("mintedId", () => {

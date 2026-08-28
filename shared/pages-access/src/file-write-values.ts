@@ -6,7 +6,7 @@ import {
   relationsOn,
   standsUnder,
 } from "./file-relation"
-import { camelizeKey, kebabizeKey } from "./file-rows"
+import { kebabizeKey } from "./file-rows"
 import { backings } from "./file-write-backing"
 import { FileWriteError } from "./file-write-error"
 
@@ -47,7 +47,7 @@ function fileValue(op: string, pageTypeSlug: string, key: string, value: unknown
   )
 }
 
-/** Spelled camel, and asked camel — see `fileValuesOf` below and `file-rows.ts:187` opposite. */
+/** Spelled camel, and asked camel — the read seam asks the same question at `file-rows.ts:192`. */
 const SETTLED_ELSEWHERE: ReadonlySet<string> = new Set(["pageTypeSlug", "pageTypeId", "userId"])
 
 const PAGE_ID = "id"
@@ -65,12 +65,17 @@ export function fileValuesOf(
   const out: Record<string, Value> = {}
   for (const [rawKey, value] of Object.entries(input)) {
     if (value === undefined) continue
-    // WHICH KEYS THE ROW SETTLES IS ASKED OF ONE SPELLING, the way the read seam asks it:
-    // `file-rows.ts` camelizes at line 187 and tests the same question at 192. This tested
-    // `rawKey` before kebabizing it, so `userId` was dropped and `user-id` was not — whether a
-    // declared key survived the write depended on how its caller happened to spell it, and nothing
-    // anywhere said so. A value the row settles must not become writable by respelling the key.
-    if (SETTLED_ELSEWHERE.has(camelizeKey(rawKey))) continue
+    // TESTED ON THE RAW KEY, BEFORE KEBABIZING, AND THE ORDER IS LOAD-BEARING. This set is spelled
+    // camel because camel is what the row store calls its own columns. So `userId` names the row s
+    // user column and is dropped here, while `user-id` names a property the page holds in its own
+    // file and is kept. The two spellings do not mean the same thing.
+    //
+    // Four file-backed page types turn on that difference. `device-secret` and `device-token`
+    // declare `key: user-id`, their writers pass it in kebab, their files carry it, and
+    // `device-secrets.server.ts:34` reads the page back through it and returns null without it.
+    // Asking `camelizeKey(rawKey)` here collapses the two spellings and strips `user-id` from
+    // every device write, which fails as an authentication that quietly stops recognising anyone.
+    if (SETTLED_ELSEWHERE.has(rawKey)) continue
     const key = kebabizeKey(rawKey)
     out[key] = fileValue(op, pageTypeSlug, key, value)
   }
