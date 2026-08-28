@@ -1,6 +1,7 @@
-import { describe, expect, test } from "bun:test"
-import { HoleMismatch, fill } from "./render.ts"
-import { refusalText } from "../../lib/refusal.ts"
+import { afterAll, beforeAll, describe, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { HoleMismatch, fill, refusalText } from "./refusal.ts"
 
 describe("filling a body", () => {
   test("puts each value where its hole is marked", () => {
@@ -28,20 +29,38 @@ describe("filling a body", () => {
   })
 })
 
-const stub = (body: string) => (path: string) => (path.endsWith("pages/refusal/x.refusal.md") ? body : null)
+let root = ""
+
+beforeAll(() => {
+  root = mkdtempSync(`${tmpdir()}/refusal-`)
+  mkdirSync(`${root}/pages/refusal`, { recursive: true })
+})
+
+afterAll(() => {
+  rmSync(root, { recursive: true, force: true })
+})
+
+function standing(slug: string, body: string): string {
+  writeFileSync(`${root}/pages/refusal/${slug}.refusal.md`, body)
+  return slug
+}
 
 describe("a refusal document", () => {
   test("arrives as its prose, with the frontmatter and the heading off", () => {
-    const body = "---\nholes:\n  - path\n---\n\n# Refusal\n\nYou wrote to {path}.\n"
-    expect(refusalText("x", { path: "a/b.md" }, "/root", stub(body))).toBe("You wrote to a/b.md.")
+    const slug = standing("framed", "---\nholes:\n  - path\n---\n\n# Refusal\n\nYou wrote to {path}.\n")
+    expect(refusalText(slug, { path: "a/b.md" }, root)).toBe("You wrote to a/b.md.")
   })
 
   test("keeps the blank line between its paragraphs, which is what makes it two", () => {
-    const body = "# Refusal\n\nFirst, at {path}.\n\nSecond.\n"
-    expect(refusalText("x", { path: "a" }, "/root", stub(body))).toBe("First, at a.\n\nSecond.")
+    const slug = standing("paired", "# Refusal\n\nFirst, at {path}.\n\nSecond.\n")
+    expect(refusalText(slug, { path: "a" }, root)).toBe("First, at a.\n\nSecond.")
   })
 
   test("refuses a slug naming no document rather than printing nothing", () => {
-    expect(() => refusalText("absent", {}, "/root", stub(""))).toThrow()
+    expect(() => refusalText("absent", {}, root)).toThrow()
+  })
+
+  test("names the typed path it looked in, a bare `.md` being a name the corpus never holds", () => {
+    expect(() => refusalText("absent", {}, root)).toThrow(/absent\.refusal\.md/)
   })
 })
