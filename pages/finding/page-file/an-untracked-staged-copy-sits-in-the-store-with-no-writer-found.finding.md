@@ -21,8 +21,8 @@ No writer for it was found. `grep -rn "\.staged" --include=*.ts` over `tools/`, 
 
 It is inert as far as page reading goes. The page type's declared glob is `akasha:**/*.page-property-definition.md`, which the file does not match, so no page walk picks it up and the page beside it answers normally.
 
-Worth noting against `pages/domain/page-file.domain.md:15`, "A page file's suffixes are its page type and then its file kind." `.staged` is not a file kind, so this file has a page type suffix and then something else. The Design line describes what a page file is; it does not say what a file shaped like this one is, and on that reading this is not a page file at all but debris wearing most of a page file's name.
+`pages/domain/page-file.domain.md:15` reads "A page file's suffixes are its page type and then its file kind." `.staged` is not a file kind, so this file has a page type suffix and then something else.
 
 Not measured: what created it. Not measured: whether any reader outside the four trees searched matches the suffix. Not measured: whose act left it, or whether the act that left it also failed.
 
-The file has deliberately not been removed. It is byte-identical to a tracked page, so nothing is lost by keeping it and nothing is at risk from it, and it is the only specimen anyone could use to identify the mechanism. Removing it would tidy the store and destroy the evidence in the same act, which is the wrong trade while the writer is unknown.
+The file has deliberately not been removed: it is the only specimen.
