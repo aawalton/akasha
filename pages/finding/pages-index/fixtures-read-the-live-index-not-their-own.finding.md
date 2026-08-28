@@ -15,6 +15,8 @@ The first is the one that shows: `tools/tests/relations-resolve.test.ts` and `to
 
 The second does not show at all: every other fixture-backed test that reaches the index is answered from the live repository. Those tests pass, and they pass on page types their fixture never declared.
 
+Which means the green here is order-dependent. `tools/tests/hold-seat-mode.test.ts` fails 7 of 7 run on its own and passes only inside a batch, carried by a file that ran earlier and pinned the index to the live checkout before it asked. A test whose verdict turns on what ran before it has not been run, so 143 failing is a floor rather than a ceiling, and the state of this estate is unknown rather than known-good. Green for the wrong reason is worse than red, because red gets looked at.
+
 Making `indexRoot` hold its answer against the root it was worked out for fixes the first and exposes the second. Measured: the 36 refusals go to 0, and 41 tests across 7 files begin failing on `scan.ts`'s refusal that the index was not built over the repository asked about — the count of that refusal over a full run going from 3 to 93. Those 41 are not new defects. They are tests that were passing by reading a repository they were not testing.
 
 The refusal is right and wants no change: a fixture carrying no index must not answer as a repository with no pages. What the two cannot both have is one process-wide index root and fixtures that each need their own. Which way that resolves — fixtures carrying an index, or fixture-backed tests not reaching the index at all — is a larger piece than the memo, and is the decision this records.
