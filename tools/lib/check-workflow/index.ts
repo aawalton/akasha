@@ -1,12 +1,12 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { IMAGES } from "../workflow-dsl/images"
-import { SECRETS, secret } from "../workflow-dsl/secrets"
-import { step } from "../workflow-dsl/step"
-import { workflow } from "../workflow-dsl/workflow"
+import { IMAGES } from "../workflow-dsl/images.ts"
+import { SECRETS, secret } from "../workflow-dsl/secrets.ts"
+import { step } from "../workflow-dsl/step.ts"
+import { workflow } from "../workflow-dsl/workflow.ts"
 import type { BackendOptions, CIContext, Step, Workflow } from "../workflow-dsl/types.ts"
 import { STATIC_CHECKS } from "./check-configs.ts"
-import { type CheckConfig } from "./check-configs-types"
+import { type CheckConfig } from "./check-configs-types.ts"
 import { acyclicityChecks } from "./check-configs-acyclicity.ts"
 import { addonChecks } from "./check-configs-addons.ts"
 import {
@@ -26,7 +26,6 @@ import { buildLcccVendorDriftCheck, CODEGEN_CHECKS } from "./check-configs-codeg
 import { COMPONENT_CHECKS } from "./check-configs-component.ts"
 import { K8S_CHECKS } from "./check-configs-k8s.ts"
 import { PACKAGE_CHECKS } from "./check-configs-package.ts"
-import { RAW_BYTE_CHECKS } from "./check-configs-raw-bytes.ts"
 import { RBAC_CHECKS } from "./check-configs-rbac.ts"
 import {
   buildServiceTypecheckChecks,
@@ -201,7 +200,6 @@ function checkConfigs(codeRoot: string): readonly CheckConfig[] {
     buildLcccVendorDriftCheck(discoverLcccVendorSites(codeRoot)),
     ...K8S_CHECKS,
     ...PACKAGE_CHECKS,
-    ...RAW_BYTE_CHECKS,
     ...SOURCE_SCANNER_CHECKS,
     ...TYPESAFETY_CHECKS,
     ...generatedTestStepConfigs,
