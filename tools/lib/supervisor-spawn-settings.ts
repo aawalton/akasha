@@ -1,6 +1,7 @@
 
+import { spawnSync } from "node:child_process"
 import { createHash } from "node:crypto"
-import { existsSync, readFileSync, renameSync, writeFileSync } from "node:fs"
+import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { shape } from "./shape.ts"
 
 const LOG = "[spawn-settings]"
@@ -54,18 +55,25 @@ export type AskAgentSettings = () => Promise<{
 
 const EXIT_DATA = 2
 
+const MOST = 32 * 1024 * 1024
+
+const AGENT_SETTINGS_AT = new URL("../agent-settings.ts", import.meta.url).pathname
+
 const liveAsk: AskAgentSettings = async () => {
-  try {
-    return { stdout: readFileSync(AGENT_SETTINGS_PATH, "utf8"), stderr: "", code: 0 }
-  } catch (cause) {
+  const ran = spawnSync(process.execPath, [AGENT_SETTINGS_AT], {
+    encoding: "utf8",
+    maxBuffer: MOST,
+  })
+  if (ran.error !== undefined) {
     return {
       stdout: "",
       stderr:
-        `the agent settings document at ${AGENT_SETTINGS_PATH} could not be read, so nothing is ` +
-        `answered about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`,
+        `\`${AGENT_SETTINGS_COMMAND}\` could not be run at ${AGENT_SETTINGS_AT}, so nothing is ` +
+        `answered about what the fleet loads: ${ran.error.message}`,
       code: EXIT_DATA,
     }
   }
+  return { stdout: ran.stdout ?? "", stderr: ran.stderr ?? "", code: ran.status ?? EXIT_DATA }
 }
 
 export async function readAgentSettingsBase(
