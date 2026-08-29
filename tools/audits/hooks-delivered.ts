@@ -1,6 +1,7 @@
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
+import { hooksFrom, hooksMerged } from "../lib/akasha-hooks.ts"
 import { entriesOf, type HookEntry } from "../lib/hook-merge.ts"
 import { advise, judge, over, skip } from "../../outcome/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
@@ -132,12 +133,28 @@ export const hooksDelivered: Check = (repo) => {
       population: over(0, "live seat(s)"),
     }
   }
-  const ours = parsed(repo.read(SETTINGS_PATH))
-  if (ours === null) {
+  const stated = parsed(repo.read(SETTINGS_PATH))
+  if (stated === null) {
     return {
       ...skip(
         NAME,
         `${SETTINGS_PATH} is not readable JSON, so which hooks it registers cannot be known`
+      ),
+      population: over(0, "live seat(s)"),
+    }
+  }
+  let ours: Record<string, unknown>
+  try {
+    ours = {
+      ...(stated as Record<string, unknown>),
+      hooks: hooksMerged((stated as { hooks?: unknown }).hooks, hooksFrom(root)),
+    }
+  } catch (cause) {
+    return {
+      ...skip(
+        NAME,
+        "the hooks akasha states could not be read, so which hooks a seat should carry cannot " +
+          `be known: ${cause instanceof Error ? cause.message : String(cause)}`
       ),
       population: over(0, "live seat(s)"),
     }
