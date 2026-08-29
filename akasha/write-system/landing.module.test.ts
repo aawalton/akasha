@@ -34,10 +34,10 @@ function stage() {
     mkdirSync(at.slice(0, at.lastIndexOf("/")), { recursive: true })
     const named = one.at.slice(one.at.lastIndexOf("/") + 1).split(".")[0] ?? "held"
     const key = named.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase())
-    const body = JSON.stringify({ slug: named, ...one.value }, null, 2)
-    writeFileSync(at, `export const ${key} = ${body}\n`)
+    writeFileSync(at, `export const ${key} = ${JSON.stringify({ slug: named, ...one.value })}\n`)
   }
   const corpus = corpusIn(root)
+  if ("refused" in corpus) throw new Error(corpus.refused)
   const wrote: { path: string; body: string; before: string | null }[] = []
   const took: { path: string; before: string | null }[] = []
   let settles = 0
@@ -77,9 +77,7 @@ function readied(stood: Stage): string {
   return at
 }
 
-function leaf(stood: Stage): string {
-  return `${stood.root}/leaf.thing.ts`
-}
+const leaf = (stood: Stage) => `${stood.root}/leaf.thing.ts`
 
 function must(one: Landing | Refusal): Landing {
   if (refused(one)) throw new Error(one.refused)
@@ -100,18 +98,17 @@ function landed(what: ReturnType<typeof land>): readonly string[] {
   return what.paths
 }
 
-function said(one: Landing | Refusal): string {
-  return refused(one) ? one.refused : ""
-}
+const said = (one: Landing | Refusal): string => (refused(one) ? one.refused : "")
 
 function text(bytes: Uint8Array | null): string {
   if (bytes === null) throw new Error("nothing was there to read")
   return Buffer.from(bytes).toString("utf8")
 }
 
-function judging(named: readonly string[], over: (leaving: Leaving) => readonly Judged[]) {
-  return { named, over }
-}
+const judging = (named: readonly string[], over: (leaving: Leaving) => readonly Judged[]) => ({
+  named,
+  over,
+})
 
 test("a body written over nothing is refused as a creation, not a write", () =>
   inTree((stood) => {

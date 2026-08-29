@@ -53,7 +53,9 @@ function treeOf(all: readonly Held[]): { root: string; corpus: Corpus } {
     const key = named.replace(/-([a-z])/g, (_, c: string) => c.toUpperCase())
     writeFileSync(at, `export const ${key} = ${JSON.stringify(one.value, null, 2)}\n`)
   }
-  return { root, corpus: corpusIn(root) }
+  const corpus = corpusIn(root)
+  if ("refused" in corpus) throw new Error(corpus.refused)
+  return { root, corpus }
 }
 
 function away(root: string): void {

@@ -23,6 +23,8 @@ export type Source = {
   readonly parentOf: (path: string) => string | null
 }
 
+export type Refusal = { readonly refused: string }
+
 export type Resolution =
   | { readonly kind: "one"; readonly at: Filed }
   | { readonly kind: "none" }
@@ -223,11 +225,19 @@ function said(from: Filed, key: string, slug: string, what: Resolution): string 
   )
 }
 
+function everyOne(wrong: readonly string[]): string {
+  const first = wrong[0]
+  if (wrong.length === 1 && first !== undefined) return first
+  return `${wrong.length} relations name no page akasha carries:\n${wrong
+    .map((one) => `  ${one}`)
+    .join("\n")}`
+}
+
 function targetUnder(targets: ReadonlyMap<string, string>, key: string): string | null {
   return targets.get(key) ?? null
 }
 
-export function readingEvery(root: string): Source {
+export function readingEvery(root: string): Source | Refusal {
   const filed = filedIn(root)
   const loaded = new Map<string, Edges>()
   for (const one of filed) {
@@ -248,10 +258,11 @@ export function readingEvery(root: string): Source {
       if (what.kind !== "one") continue
       const already = parent.get(what.at.path)
       if (already !== undefined && already !== one.path) {
-        throw new Error(
-          `\`${part}\` is named a part by both \`${already}\` and \`${one.path}\` — ` +
-            "a page is a part of one whole or the tree above it is two trees"
-        )
+        return {
+          refused:
+            `\`${part}\` is named a part by both \`${already}\` and \`${one.path}\` — ` +
+            "a page is a part of one whole or the tree above it is two trees",
+        }
       }
       parent.set(what.at.path, one.path)
     }
@@ -259,11 +270,12 @@ export function readingEvery(root: string): Source {
   return { filed, edgesOf, parentOf: (path) => parent.get(path) ?? null }
 }
 
-export function corpusOver(source: Source): Corpus {
+export function corpusOver(source: Source): Corpus | Refusal {
   const byPath = new Map<string, Filed>()
   for (const one of source.filed) byPath.set(one.path, one)
   const held = readingOf(source.filed, source.edgesOf)
   const targets = targetsIn(held)
+  const wrong: string[] = []
 
   for (const one of source.filed) {
     const edges = source.edgesOf(one.path)
@@ -276,10 +288,11 @@ export function corpusOver(source: Source): Corpus {
       const target = targetUnder(targets, key)
       for (const slug of named) {
         const what = resolveIn(held, slug, target)
-        if (what.kind !== "one") throw new Error(said(one, key, slug, what))
+        if (what.kind !== "one") wrong.push(said(one, key, slug, what))
       }
     }
   }
+  if (wrong.length > 0) return { refused: everyOne(wrong) }
 
   const above = (path: string): readonly string[] => {
     const found: string[] = []
@@ -326,6 +339,7 @@ export function corpusOver(source: Source): Corpus {
   }
 }
 
-export function corpusIn(root: string): Corpus {
-  return corpusOver(readingEvery(root))
+export function corpusIn(root: string): Corpus | Refusal {
+  const source = readingEvery(root)
+  return "refused" in source ? source : corpusOver(source)
 }

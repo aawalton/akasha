@@ -52,9 +52,11 @@ function stage(all: readonly Held[] = [], plain: Readonly<Record<string, string>
     mkdirSync(to.slice(0, to.lastIndexOf("/")), { recursive: true })
     writeFileSync(to, body)
   }
+  const corpus = corpusIn(root)
+  if ("refused" in corpus) throw new Error(corpus.refused)
   const where: Where = {
     root,
-    corpus: corpusIn(root),
+    corpus,
     record: recordAt(`${root}/record.json`),
     bodies: bodiesAt(`${root}/bodies`),
     writer: "athena",

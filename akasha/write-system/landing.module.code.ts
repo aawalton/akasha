@@ -1,5 +1,5 @@
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import type { Corpus } from "./corpus.module.code.ts"
+import type { Corpus, Refusal } from "./corpus.module.code.ts"
 import type { Oid, Record_ } from "./reading.module.code.ts"
 import { oidOf } from "./reading.module.code.ts"
 import { closureFor } from "./required-reading.module.code.ts"
@@ -26,7 +26,7 @@ export type Removal = {
 
 export type Change = Landing | Removal
 
-export type Refusal = { readonly refused: string }
+export type { Refusal }
 
 export type BodyStore = {
   readonly of: (oid: Oid) => string | null

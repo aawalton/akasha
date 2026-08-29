@@ -41,11 +41,13 @@ function stage(writer: string | null = "athena"): Stage {
       `export const ${key} = ${JSON.stringify({ slug: named, ...one.value }, null, 2)}\n`
     )
   }
+  const corpus = corpusIn(root)
+  if ("refused" in corpus) throw new Error(corpus.refused)
   return {
     root,
     given: {
       root,
-      corpus: corpusIn(root),
+      corpus,
       record: recordAt(`${root}/record.json`),
       bodies: bodiesAt(`${root}/bodies`),
       index: `${root}/index`,

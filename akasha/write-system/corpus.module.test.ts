@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve as resolvePath } from "node:path"
-import type { Edges, Filed, Source } from "./corpus.module.code.ts"
+import type { Corpus, Edges, Filed, Source } from "./corpus.module.code.ts"
 import { corpusIn, corpusOver, filedIn } from "./corpus.module.code.ts"
 
 const AKASHA = resolvePath(import.meta.dir, "..")
@@ -63,6 +63,18 @@ function treeOf(all: readonly Held[]): string {
   return root
 }
 
+function refusalIn(root: string): string {
+  const held = corpusIn(root)
+  if (!("refused" in held)) throw new Error("the corpus was built where it should have refused")
+  return held.refused
+}
+
+function corpusAt(root: string): Corpus {
+  const held = corpusIn(root)
+  if ("refused" in held) throw new Error(held.refused)
+  return held
+}
+
 function away(root: string): void {
   rmSync(root, { recursive: true, force: true })
 }
@@ -75,7 +87,7 @@ const DUP: readonly Held[] = [
 test("two pages of different page types carry one slug and the corpus builds", () => {
   const root = treeOf(DUP)
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.every().filter((one) => one.slug === "dup")).toHaveLength(2)
   } finally {
     away(root)
@@ -85,7 +97,7 @@ test("two pages of different page types carry one slug and the corpus builds", (
 test("a slug two page types carry resolves to neither where nothing narrows it", () => {
   const root = treeOf(DUP)
   try {
-    const what = corpusIn(root).resolve("dup", null)
+    const what = corpusAt(root).resolve("dup", null)
     expect(what.kind).toBe("many")
     if (what.kind !== "many") return
     expect(what.among.map((one) => one.pageTypeSlug).sort()).toEqual(["other", "thing"])
@@ -97,7 +109,7 @@ test("a slug two page types carry resolves to neither where nothing narrows it",
 test("the relation's declared target narrows a shared slug to one page, each way", () => {
   const root = treeOf(DUP)
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     const thing = corpus.resolve("dup", "thing")
     const other = corpus.resolve("dup", "other")
     expect(thing.kind).toBe("one")
@@ -113,7 +125,7 @@ test("the relation's declared target narrows a shared slug to one page, each way
 test("a target both page types extend narrows nothing", () => {
   const root = treeOf(DUP)
   try {
-    expect(corpusIn(root).resolve("dup", "page").kind).toBe("many")
+    expect(corpusAt(root).resolve("dup", "page").kind).toBe("many")
   } finally {
     away(root)
   }
@@ -125,9 +137,9 @@ test("naming a slug two page types carry is refused, and the refusal names both"
     { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["dup"] } },
   ])
   try {
-    expect(() => corpusIn(root)).toThrow(/`asks` names `dup` under `required-reading-slugs`/)
-    expect(() => corpusIn(root)).toThrow(/`thing` and `other` both carry that slug/)
-    expect(() => corpusIn(root)).toThrow(/a slug is unique among the pages of its page type/)
+    expect(refusalIn(root)).toMatch(/`asks` names `dup` under `required-reading-slugs`/)
+    expect(refusalIn(root)).toMatch(/`thing` and `other` both carry that slug/)
+    expect(refusalIn(root)).toMatch(/a slug is unique among the pages of its page type/)
   } finally {
     away(root)
   }
@@ -140,13 +152,7 @@ test("the refusal naming two candidates words them the same way every run", () =
   ])
   try {
     const said = new Set<string>()
-    for (let go = 0; go < 4; go++) {
-      try {
-        corpusIn(root)
-      } catch (thrown) {
-        said.add(thrown instanceof Error ? thrown.message : String(thrown))
-      }
-    }
+    for (let go = 0; go < 4; go++) said.add(refusalIn(root))
     expect(said.size).toBe(1)
   } finally {
     away(root)
@@ -158,8 +164,8 @@ test("a slug no page carries is refused rather than dropped", () => {
     { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["missing"] } },
   ])
   try {
-    expect(() => corpusIn(root)).toThrow(/no page carries that slug/)
-    expect(() => corpusIn(root)).toThrow(/refused here rather than dropped/)
+    expect(refusalIn(root)).toMatch(/no page carries that slug/)
+    expect(refusalIn(root)).toMatch(/refused here rather than dropped/)
   } finally {
     away(root)
   }
@@ -169,7 +175,7 @@ test("a slug named under part-slugs and under conditional-reading-slugs is refus
   for (const key of ["partSlugs", "conditionalReadingSlugs"]) {
     const root = treeOf([{ at: "asks.thing.ts", value: { slug: "asks", [key]: ["missing"] } }])
     try {
-      expect(() => corpusIn(root)).toThrow(/no page carries that slug/)
+      expect(refusalIn(root)).toMatch(/no page carries that slug/)
     } finally {
       away(root)
     }
@@ -179,7 +185,7 @@ test("a slug named under part-slugs and under conditional-reading-slugs is refus
 test("a page type admits the one it extends, transitively, and no sibling", () => {
   const root = treeOf([])
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.admits("deep", "thing")).toBe(true)
     expect(corpus.admits("deep", "page")).toBe(true)
     expect(corpus.admits("deep", "deep")).toBe(true)
@@ -193,7 +199,7 @@ test("a page type admits the one it extends, transitively, and no sibling", () =
 test("a list property's target is the target of the relation it holds", () => {
   const root = treeOf([])
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.targetFor("part-slugs")).toBe("page")
     expect(corpus.targetFor("thing-slug")).toBe("thing")
     expect(corpus.targetFor("nothing-of-the-kind")).toBe(null)
@@ -209,7 +215,7 @@ test("parenthood is inverted from part-slugs, and above climbs it", () => {
     { at: "leaf.thing.ts", value: { slug: "leaf" } },
   ])
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.parentOf(`${root}/leaf.thing.ts`)).toBe(`${root}/middle.thing.ts`)
     expect(corpus.above(`${root}/leaf.thing.ts`)).toEqual([
       `${root}/middle.thing.ts`,
@@ -228,9 +234,7 @@ test("one page named a part by two wholes is refused", () => {
     { at: "leaf.thing.ts", value: { slug: "leaf" } },
   ])
   try {
-    expect(() => corpusIn(root)).toThrow(
-      /a page is a part of one whole or the tree above it is two trees/
-    )
+    expect(refusalIn(root)).toMatch(/a page is a part of one whole or the tree above it is two trees/)
   } finally {
     away(root)
   }
@@ -242,7 +246,7 @@ test("a part-slugs cycle does not hang above", () => {
     { at: "two.thing.ts", value: { slug: "two", partSlugs: ["one"] } },
   ])
   try {
-    expect(corpusIn(root).above(`${root}/one.thing.ts`)).toEqual([`${root}/two.thing.ts`])
+    expect(corpusAt(root).above(`${root}/one.thing.ts`)).toEqual([`${root}/two.thing.ts`])
   } finally {
     away(root)
   }
@@ -258,7 +262,7 @@ test("required reading and conditional reading answer with paths", () => {
     { at: "maybe.thing.ts", value: { slug: "maybe", definition: "what may be owed" } },
   ])
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.requiredBy(`${root}/asks.thing.ts`)).toEqual([`${root}/given.thing.ts`])
     expect(corpus.conditionalBelow(`${root}/asks.thing.ts`)).toEqual([`${root}/maybe.thing.ts`])
     expect(corpus.definitionOf(`${root}/maybe.thing.ts`)).toBe("what may be owed")
@@ -271,7 +275,7 @@ test("a file whose suffix is no page type is not a page", () => {
   const root = treeOf([{ at: "corpus.module.code.ts", value: { slug: "corpus" } }])
   try {
     expect(
-      corpusIn(root)
+      corpusAt(root)
         .every()
         .some((one) => one.slug === "corpus")
     ).toBe(false)
@@ -284,12 +288,12 @@ test("a file whose suffix is no page type is not a page", () => {
 test("a page rewritten on disk is read again rather than served from the module cache", () => {
   const root = treeOf([{ at: "held.thing.ts", value: { slug: "held", definition: "what it was" } }])
   try {
-    expect(corpusIn(root).definitionOf(`${root}/held.thing.ts`)).toBe("what it was")
+    expect(corpusAt(root).definitionOf(`${root}/held.thing.ts`)).toBe("what it was")
     writeFileSync(
       `${root}/held.thing.ts`,
       `export const held = { "slug": "held", "definition": "what it became" }\n`
     )
-    expect(corpusIn(root).definitionOf(`${root}/held.thing.ts`)).toBe("what it became")
+    expect(corpusAt(root).definitionOf(`${root}/held.thing.ts`)).toBe("what it became")
   } finally {
     away(root)
   }
@@ -312,6 +316,7 @@ test("a corpus is built over a source that touches no filesystem", () => {
     parentOf: () => null,
   }
   const corpus = corpusOver(source)
+  if ("refused" in corpus) throw new Error(corpus.refused)
   expect(corpus.at("/nowhere/leaf.thing.ts")?.slug).toBe("leaf")
   expect(corpus.definitionOf("/nowhere/leaf.thing.ts")).toBe("made of nothing on disk")
   expect(corpus.admits("thing", "page")).toBe(true)
@@ -334,7 +339,7 @@ function definitionOn(raw: Record<string, unknown>): string {
 }
 
 test("every page filed in akasha resolves, so the folder itself builds", () => {
-  const corpus = corpusIn(AKASHA)
+  const corpus = corpusAt(AKASHA)
   expect(corpus.every().length).toBeGreaterThan(40)
   for (const one of corpus.every()) {
     expect(corpus.at(one.path)).not.toBe(null)
@@ -342,7 +347,7 @@ test("every page filed in akasha resolves, so the folder itself builds", () => {
 })
 
 test("no page in akasha carries a slug another page of its own page type carries", () => {
-  const corpus = corpusIn(AKASHA)
+  const corpus = corpusAt(AKASHA)
   const seen = new Map<string, string>()
   for (const one of corpus.every()) {
     const key = `${one.pageTypeSlug}/${one.slug}`
@@ -355,7 +360,7 @@ test("no page in akasha carries a slug another page of its own page type carries
 test("a value naming its page type resolves where the bare slug is ambiguous", () => {
   const root = treeOf(DUP)
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.resolve("dup", "page").kind).toBe("many")
     const one = corpus.resolve("thing/dup", "page")
     expect(one.kind).toBe("one")
@@ -373,7 +378,7 @@ test("a page named by page type and slug is reached as required reading", () => 
     { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["thing/dup"] } },
   ])
   try {
-    const corpus = corpusIn(root)
+    const corpus = corpusAt(root)
     expect(corpus.requiredBy(`${root}/asks.thing.ts`)).toEqual([`${root}/one/dup.thing.ts`])
   } finally {
     away(root)
@@ -386,7 +391,7 @@ test("a value naming a page type that does not carry the slug is refused", () =>
     { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["deep/dup"] } },
   ])
   try {
-    expect(() => corpusIn(root)).toThrow(/no page carries that slug/)
+    expect(refusalIn(root)).toMatch(/no page carries that slug/)
   } finally {
     away(root)
   }

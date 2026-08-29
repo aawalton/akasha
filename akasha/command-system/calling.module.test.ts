@@ -2,9 +2,16 @@ import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve as resolvePath } from "node:path"
+import type { Corpus } from "../write-system/corpus.module.code.ts"
 import { corpusIn } from "../write-system/corpus.module.code.ts"
 import type { Outside } from "./calling.module.code.ts"
 import { calling, codeBeside, commandsIn } from "./calling.module.code.ts"
+
+function corpusAt(root: string): Corpus {
+  const held = corpusIn(root)
+  if ("refused" in held) throw new Error(held.refused)
+  return held
+}
 
 const AKASHA = resolvePath(import.meta.dir, "..")
 
@@ -164,14 +171,14 @@ test("the commands it carries are the pages whose page type is a command", () =>
       `${root}/held.module.ts`,
       `export const held = { "slug": "held", "code": "ts" }\n`
     )
-    expect(commandsIn(corpusIn(root))).toEqual(["echo"])
+    expect(commandsIn(corpusAt(root))).toEqual(["echo"])
   } finally {
     away(root)
   }
 })
 
 test("read is the command akasha carries, and it is reached by its slug", () => {
-  expect(commandsIn(corpusIn(AKASHA))).toContain("read")
+  expect(commandsIn(corpusAt(AKASHA))).toContain("read")
 })
 
 test("a real call of read through calling answers with the file it was given", () => {
@@ -230,5 +237,39 @@ test("a root named with a trailing slash gates a write exactly as the same root 
     expect(slashed.code).toBe(plain.code)
   } finally {
     away(kept)
+  }
+})
+
+test("a corpus that cannot be built is refused rather than thrown out of", () => {
+  const root = tree()
+  try {
+    withCommand(root, "echo", ECHOES)
+    writeFileSync(
+      `${root}/asks.module.ts`,
+      `export const asks = { "slug": "asks", "requiredReadingSlugs": ["nowhere"] }\n`
+    )
+    const answer = calling(["echo"], outsideOf(root))
+    expect(answer.code).toBe(1)
+    expect(answer.refusals.join("\n")).toContain("no page carries that slug")
+  } finally {
+    away(root)
+  }
+})
+
+test("every relation naming no page is named at once, so one run is the whole worklist", () => {
+  const root = tree()
+  try {
+    withCommand(root, "echo", ECHOES)
+    for (const one of ["a", "b", "c"]) {
+      writeFileSync(
+        `${root}/${one}.module.ts`,
+        `export const ${one} = { "slug": "${one}", "requiredReadingSlugs": ["no-${one}"] }\n`
+      )
+    }
+    const said = calling(["echo"], outsideOf(root)).refusals.join("\n")
+    expect(said).toContain("3 relations name no page akasha carries")
+    for (const one of ["no-a", "no-b", "no-c"]) expect(said).toContain(`\`${one}\``)
+  } finally {
+    away(root)
   }
 })

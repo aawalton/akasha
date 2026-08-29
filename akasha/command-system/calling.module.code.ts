@@ -80,6 +80,7 @@ function refusing(said: string): Answer {
 export function calling(argv: readonly string[], outside: Outside): Answer {
   const root = resolve(outside.root)
   const corpus = corpusIn(root)
+  if ("refused" in corpus) return refusing(corpus.refused)
   const every = commandsIn(corpus)
   const named = argv[0]
   if (named === undefined) {
