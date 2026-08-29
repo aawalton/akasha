@@ -1,7 +1,10 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { Unique } from "./properties/unique.relation-property.ts"
 
-export type PageProperty = Domain
+export type PageProperty = Domain & {
+  unique?: Unique
+}
 
 export type List<T> = readonly T[]
 
@@ -16,8 +19,10 @@ export const pageProperty = {
     "number-property/total",
     "relation-property/name-format-slug",
     "relation-property/target-page-type-slug",
+    "relation-property/unique",
   ],
   extendsSlug: "page-type/domain",
+  properties: [{ pagePropertySlug: "unique", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",
