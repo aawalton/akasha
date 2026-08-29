@@ -7,6 +7,8 @@ export const SEAT_INITIATIVE_KEY = "initiative-slug"
 
 const PAGE_SUFFIX = ".md"
 
+const SIDECAR_SUFFIX = ".uncommitted.yaml"
+
 const FENCE = "---"
 
 export function seatPagesDir(): string {
@@ -44,12 +46,57 @@ function seatPageNamed(key: string, value: string): string {
   return ""
 }
 
+function sidecarHolds(body: string, key: string, value: string): boolean {
+  let under = false
+  for (const line of body.split("\n")) {
+    if (line === `${key}:`) {
+      under = true
+      continue
+    }
+    if (!/^\s/.test(line)) {
+      under = false
+      continue
+    }
+    if (!under) continue
+    const said = line.trim()
+    if (!said.startsWith("value:")) continue
+    const held = said.slice("value:".length).trim()
+    if (held.replace(/^"/, "").replace(/"$/, "") === value) return true
+  }
+  return false
+}
+
+export function seatSidecarNamed(key: string, value: string): string {
+  if (value === "") return ""
+  const dir = seatPagesDir()
+  if (dir === "" || !existsSync(dir)) return ""
+  let held: readonly string[]
+  try {
+    held = readdirSync(dir)
+  } catch {
+    return ""
+  }
+  for (const name of [...held].filter((one) => one.endsWith(SIDECAR_SUFFIX)).sort()) {
+    let body: string
+    try {
+      body = readFileSync(`${dir}/${name}`, "utf8")
+    } catch {
+      continue
+    }
+    if (!sidecarHolds(body, key, value)) continue
+    const page = `${dir}/${name.slice(0, -SIDECAR_SUFFIX.length)}${PAGE_SUFFIX}`
+    if (existsSync(page)) return page
+  }
+  return ""
+}
+
 export function seatPageFile(agent: string): string {
   let found = seatPageNamed("id", agent)
   if (found === "" && agent.includes("--")) {
     found = seatPageNamed("id", agent.slice(0, agent.indexOf("--")))
   }
   if (found === "") found = seatPageNamed("claude-code-session-uuid", agent)
+  if (found === "") found = seatSidecarNamed("claude-code-session-uuid", agent)
   return found
 }
 

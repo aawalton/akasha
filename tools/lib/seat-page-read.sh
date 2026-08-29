@@ -18,6 +18,34 @@ seat_page_named() {
   return 0
 }
 
+seat_sidecar_named() {
+  local key="${1:-}" value="${2:-}" dir file page
+  if [ -z "$value" ]; then return 0; fi
+  dir=$(seat_pages_dir)
+  if [ ! -d "$dir" ]; then return 0; fi
+  for file in "$dir"/*.uncommitted.yaml; do
+    if [ ! -f "$file" ]; then continue; fi
+    if awk -v key="$key" -v want="$value" '
+      $0 == key ":" { under = 1; next }
+      /^[^[:space:]]/ { under = 0; next }
+      under {
+        held = $0
+        sub(/^[[:space:]]+/, "", held)
+        if (index(held, "value:") != 1) next
+        held = substr(held, 7)
+        sub(/^[[:space:]]+/, "", held)
+        gsub(/^"|"$/, "", held)
+        if (held == want) { found = 1; exit }
+      }
+      END { exit found ? 0 : 1 }
+    ' "$file"; then
+      page="${file%.uncommitted.yaml}.md"
+      if [ -f "$page" ]; then printf '%s' "$page"; return 0; fi
+    fi
+  done
+  return 0
+}
+
 seat_page_file() {
   local agent="${1:-}" found
   found=$(seat_page_named id "$agent")
@@ -26,6 +54,9 @@ seat_page_file() {
   fi
   if [ -z "$found" ]; then
     found=$(seat_page_named claude-code-session-uuid "$agent")
+  fi
+  if [ -z "$found" ]; then
+    found=$(seat_sidecar_named claude-code-session-uuid "$agent")
   fi
   printf '%s' "$found"
   return 0
