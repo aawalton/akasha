@@ -5,23 +5,27 @@ import type { RunsAt } from "./properties/runs-at.page-property-type.ts"
 
 export type AgentHook = Module & {
   runsAt: RunsAt
-  overTools: OverTools
+  overTools?: OverTools
 }
 
 export const agentHook = {
   id: "01a04e0a-f8fa-7fb8-a730-0e27c83701be",
   pageTypeSlug: "page-type",
   slug: "agent-hook",
-  definition: "a module the agent harness runs before a tool call",
+  definition: "a module the agent harness runs at the events it names",
   extendsSlug: "page-type/module",
   properties: [
     { propertySlug: "page-property-type/runs-at", required: true, many: true },
-    { propertySlug: "page-property-type/over-tools", required: true, many: true },
+    { propertySlug: "page-property-type/over-tools", required: false, many: true },
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A hook is handed one tool call and answers whether it may run.",
+      statement: "A hook is handed what the harness sends at its event.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook at a tool call answers whether that call may run.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +33,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook answers by refusing or by standing aside, and changes nothing itself.",
+      statement: "A hook that judges a call changes nothing but its answer.",
     },
     {
       invariantKind: "absence",

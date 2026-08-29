@@ -18,7 +18,7 @@ export const overTools = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A hook states its tools.",
+      statement: "A hook at a tool call states its tools.",
     },
     {
       invariantKind: "departure",
