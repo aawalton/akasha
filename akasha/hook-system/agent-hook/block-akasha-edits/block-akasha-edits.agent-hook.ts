@@ -36,7 +36,8 @@ export const blockAkashaEdits = {
     },
     {
       invariantKind: "absence",
-      statement: "A shell write is no business of this hook.",
+      statement:
+        "A shell write is no business of this hook. `block-akasha-shell-writes` samples those.",
     },
     {
       invariantKind: "absence",

@@ -39,6 +39,7 @@ export const SCOPE: readonly string[] = [
   "NOT REACHED. Each of these stands outside the class, and is not a hole inside it:",
   "  - a write through `Bash`. A shell writes a file in more ways than can be named, and the Bash",
   "    hooks sample that open world. This hook is handed no Bash call and judges none.",
+  "    `block-akasha-shell-writes` samples the copies, moves and redirects among them.",
   "  - a tool this hook does not name. The closure is over Write, Edit and NotebookEdit, never over",
   "    writing. A fourth writing tool passes unjudged until it is named in `overTools`.",
   "  - a call carrying no path, or an empty one. There is nothing to resolve and nothing to refuse.",
