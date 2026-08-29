@@ -13,9 +13,11 @@ export const indexIdentity = {
     "A slug reaches an id without opening the page.",
     "The identifiers are `id` and `slug`.",
     "The identifiers are named in code rather than declared.",
+    "A file holds one line for each page carrying the value.",
   ],
   condition: [
-    "One file holds one line.",
+    "No two pages carry one id.",
+    "No two pages of one page type carry one slug.",
   ],
   intent: [
     "The index takes its identifiers from what the properties declare.",
