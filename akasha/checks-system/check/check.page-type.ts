@@ -37,6 +37,7 @@ export const check = {
     "check/no-raw-nul-bytes",
     "check/no-rule-in-two-files",
     "check/no-second-spelling",
+    "check/no-tmp",
     "check/page-matches-its-type",
     "check/page-named-as-stated",
     "check/page-property-has-its-file",
