@@ -13,7 +13,7 @@ const FEATURE = 'work-tree';
 
 const SETTLE_MS = 2_000;
 
-const CORPUS_GLOB = 'pages/initiative/**/*.md';
+const CORPUS_GLOB = 'akasha/**/*.initiative.ts';
 
 const SEAT_SETTLE_MS = 25;
 
