@@ -37,20 +37,47 @@ function firstValueIn(declared: Record<string, unknown>): Value | null {
   return null
 }
 
-export function valueIn(body: string): Value | null {
+export type Loaded = {
+  readonly value: Value | null
+  readonly failed: string | null
+}
+
+const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
+
+export function loadedFrom(body: string): Loaded {
   const held = mkdtempSync(join(tmpdir(), "akasha-index-"))
   try {
     const at = join(held, "held.page.ts")
     writeFileSync(at, body)
-    return firstValueIn(loadFrom(at) as Record<string, unknown>)
+    return { value: firstValueIn(loadFrom(at) as Record<string, unknown>), failed: null }
+  } catch (why) {
+    return { value: null, failed: why instanceof Error ? why.message : String(why) }
   } finally {
     rmSync(held, { recursive: true, force: true })
   }
 }
 
+export function valueIn(body: string): Value | null {
+  return loadedFrom(body).value
+}
+
 function valueAt(path: string): Value | null {
   if (!existsSync(path)) return null
-  return firstValueIn(loadFrom(path) as Record<string, unknown>)
+  return loadedFrom(readFileSync(path, "utf8")).value
+}
+
+export function pageTypesIn(root: string): ReadonlySet<string> {
+  const dir = join(root, "identity", "page-type", "slug")
+  if (!existsSync(dir)) return new Set<string>(["page-type"])
+  return new Set<string>([
+    "page-type",
+    ...readdirSync(dir).map((one) => one.slice(0, -".jsonl".length)),
+  ])
+}
+
+export function pageTyped(path: string, pageTypes: ReadonlySet<string>): boolean {
+  const said = NAMED.exec(path.slice(path.lastIndexOf("/") + 1))
+  return said !== null && said[2] !== undefined && pageTypes.has(said[2])
 }
 
 function textAt(value: Value, key: string): string | null {
@@ -308,7 +335,7 @@ function settleOver(
 
 
 function pagesUnder(tree: string): readonly string[] {
-  const named = /^(.+)\.([a-z0-9-]+)\.ts$/
+  const named = NAMED
   const found: string[] = []
   const walk = (at: string): void => {
     for (const one of readdirSync(at, { withFileTypes: true })) {
@@ -390,10 +417,21 @@ export function indexingAt(root: string): Indexing {
     wrote: (path, body, before) => note(path, before, body),
     took: (path, before) => note(path, before, null),
     settle: () => {
+      const pageTypes = pageTypesIn(root)
+      const noted: string[] = []
+      const readInto = (body: string | null, path: string): Value | null => {
+        if (body === null) return null
+        const loaded = loadedFrom(body)
+        if (loaded.failed !== null && pageTyped(path, pageTypes)) {
+          noted.push(`${path}: its body did not load, so it is not indexed — ${loaded.failed}`)
+        }
+        return loaded.value
+      }
+
       const held = [...pending].map(([path, one]) => ({
         path,
-        was: one.before === null ? null : valueIn(one.before),
-        now: one.after === null ? null : valueIn(one.after),
+        was: readInto(one.before, path),
+        now: readInto(one.after, path),
       }))
       pending.clear()
 
@@ -411,7 +449,7 @@ export function indexingAt(root: string): Indexing {
         was.flatMap((one) => one.entries),
         now.flatMap((one) => one.entries)
       )
-      return now.flatMap((one) => one.refused)
+      return [...noted, ...now.flatMap((one) => one.refused)]
     },
   }
 }

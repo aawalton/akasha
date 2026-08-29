@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
+import { indexingAt, rebuiltFrom, valueIn } from "./indexing.module.code.ts"
 
 type Held = Record<string, unknown>
 
@@ -264,6 +264,44 @@ test("a rebuild takes away an entry no page carries", () => {
 
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
+  rmSync(tree, { recursive: true, force: true })
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a body that will not load answers with no value rather than throwing", () => {
+  expect(valueIn(`import { oidOf } from "./reading.module.code.ts"\nexport const it = { id: oidOf("x") }\n`)).toBe(null)
+  expect(valueIn("the new body")).toBe(null)
+})
+
+test("a file whose suffix names no page type is passed over without a word", () => {
+  const tree = treeAt()
+  const root = rootAt()
+  const at = put(tree, "held.module.code.ts", { id: A })
+  writeFileSync(at, `import { x } from "./nowhere.ts"\nexport const it = { id: x("${A}") }\n`)
+  const indexing = indexingAt(root)
+  indexing.wrote(at, readFileSync(at, "utf8"), null)
+
+  expect((indexing.settle() as unknown as readonly string[]).length).toBe(0)
+  rmSync(tree, { recursive: true, force: true })
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a page whose body will not load is reported rather than passed over", () => {
+  const tree = treeAt()
+  const root = rootAt()
+  const kind = { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }
+  let indexing = indexingAt(root)
+  indexing.wrote(put(tree, "domain.page-type.ts", kind), bodyOf(kind), null)
+  indexing.settle()
+
+  const at = join(tree, "broken.domain.ts")
+  writeFileSync(at, "the new body")
+  indexing = indexingAt(root)
+  indexing.wrote(at, "the new body", null)
+
+  const noted = indexing.settle() as unknown as readonly string[]
+  expect(noted.length).toBe(1)
+  expect(noted[0] ?? "").toMatch(/did not load/)
   rmSync(tree, { recursive: true, force: true })
   rmSync(root, { recursive: true, force: true })
 })
