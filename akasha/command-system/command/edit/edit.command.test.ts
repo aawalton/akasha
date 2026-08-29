@@ -1,15 +1,19 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
+import { scratchWorld } from "../../scratching.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit } from "./edit.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
 const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -23,7 +27,7 @@ function put(root: string, path: string, body: string): string {
 }
 
 function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-edit-"))
+  const root = scratch.rootFor("akasha-edit-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -67,7 +71,6 @@ test("a stated substitution is worked into a whole body and landed", () => {
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\ndelta\ngamma\n")
   expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
-  rmSync(root, { recursive: true })
 })
 
 test("substitutions against one file are worked in order, each against what the one before left", () => {
@@ -83,7 +86,6 @@ test("substitutions against one file are worked in order, each against what the 
   )
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("gamma\n")
-  rmSync(root, { recursive: true })
 })
 
 test("a substitution matching no times is refused before any check runs", () => {
@@ -105,7 +107,6 @@ test("a substitution matching no times is refused before any check runs", () => 
   )
   expect(also.code).toBe(0)
   expect(existsSync(join(root, "ran.txt"))).toBe(true)
-  rmSync(root, { recursive: true })
 })
 
 test("a substitution matching more than once is refused before any check runs", () => {
@@ -121,7 +122,6 @@ test("a substitution matching more than once is refused before any check runs", 
   expect(existsSync(join(root, "ran.txt"))).toBe(false)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\nbeta\nalpha\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a refused change writes nothing and moves no head", () => {
@@ -136,7 +136,6 @@ test("a refused change writes nothing and moves no head", () => {
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a path that is not there is refused", () => {
@@ -148,11 +147,10 @@ test("a path that is not there is refused", () => {
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("is not there")
   expect(existsSync(join(root, "akasha/nowhere.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a body that is not text is refused", () => {
-  const root = mkdtempSync(join(tmpdir(), "akasha-edit-"))
+  const root = scratch.rootFor("akasha-edit-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -166,7 +164,6 @@ test("a body that is not text is refused", () => {
   )
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("is not text")
-  rmSync(root, { recursive: true })
 })
 
 test("a file that changed under a call, between its read and its write, refuses the whole call", () => {
@@ -184,7 +181,6 @@ test("a file that changed under a call, between its read and its write, refuses 
   expect(said.refusals.join("\n")).toContain("changed after this call read it")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a file that stands as the call read it is landed", () => {
@@ -199,7 +195,6 @@ test("a file that stands as the call read it is landed", () => {
   })
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("worked out\n")
-  rmSync(root, { recursive: true })
 })
 
 test("a replacement carrying dollar patterns lands as the bytes it is", () => {
@@ -210,7 +205,6 @@ test("a replacement carrying dollar patterns lands as the bytes it is", () => {
   )
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("$& $' $` $1\n")
-  rmSync(root, { recursive: true })
 })
 
 test("a path outside the akasha folder is refused", () => {
@@ -222,7 +216,6 @@ test("a path outside the akasha folder is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not under `akasha/`")
   expect(readFileSync(join(root, "elsewhere/two.ts"), "utf8")).toBe("alpha\n")
-  rmSync(root, { recursive: true })
 })
 
 test("an old file closed by no new file is refused", () => {
@@ -233,7 +226,6 @@ test("an old file closed by no new file is refused", () => {
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("closed by no --new-file")
-  rmSync(root, { recursive: true })
 })
 
 test("a file path stating no substitution is refused", () => {
@@ -241,7 +233,6 @@ test("a file path stating no substitution is refused", () => {
   const said = edit(["--file-path", "akasha/one.ts"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("states no --old-file")
-  rmSync(root, { recursive: true })
 })
 
 test("an empty passage names no place and is refused", () => {
@@ -252,7 +243,6 @@ test("an empty passage names no place and is refused", () => {
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names no place")
-  rmSync(root, { recursive: true })
 })
 
 test("a dry run gates and writes nothing at all", () => {
@@ -266,7 +256,6 @@ test("a dry run gates and writes nothing at all", () => {
   expect(said.report.join("\n")).toContain("nothing was written")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("breaking the glass runs no check and says so in the commit", () => {
@@ -289,7 +278,6 @@ test("breaking the glass runs no check and says so in the commit", () => {
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: the checks are themselves broken"
   )
-  rmSync(root, { recursive: true })
 })
 
 test("one path named twice by one call is refused", () => {
@@ -308,7 +296,6 @@ test("one path named twice by one call is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("named more than once")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\nbeta\n")
-  rmSync(root, { recursive: true })
 })
 
 test("several files are one act, refused whole when one of them cannot be worked out", () => {
@@ -328,5 +315,4 @@ test("several files are one act, refused whole when one of them cannot be worked
   expect(said.code).toBe(2)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
