@@ -7,6 +7,7 @@ export const remove = {
   definition: "named paths taken away, gated together and removed or refused as one",
   code: "ts",
   test: "ts",
+  mechanical: true,
   invariants: [
     {
       invariantKind: "departure",

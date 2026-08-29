@@ -7,6 +7,7 @@ export const write = {
   definition: "whole file bodies carried in, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
+  mechanical: false,
   invariants: [
     {
       invariantKind: "departure",

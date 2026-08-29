@@ -7,6 +7,7 @@ export const index = {
   definition: "the index rebuilt from the commit at HEAD and put in place whole",
   code: "ts",
   test: "ts",
+  mechanical: true,
   invariants: [
     {
       invariantKind: "departure",

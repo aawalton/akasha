@@ -8,6 +8,7 @@ export const move = {
     "files carried to new paths, with everything the moved bodies name repointed in the same act",
   code: "ts",
   test: "ts",
+  mechanical: true,
   invariants: [
     {
       invariantKind: "absence",

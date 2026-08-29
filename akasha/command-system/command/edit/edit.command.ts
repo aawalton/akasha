@@ -8,6 +8,7 @@ export const edit = {
     "stated substitutions worked out into whole bodies, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
+  mechanical: false,
   invariants: [
     {
       invariantKind: "departure",
