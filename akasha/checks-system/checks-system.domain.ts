@@ -8,13 +8,12 @@ export const checksSystem = {
   partSlugs: ["page-type/check", "module/judging", "module/checking"],
   requiredReadingSlugs: [],
   design: [
-    "The checks reach the akasha folder and nothing above it.",
-    "A change is judged before it reaches disk, so a refused change leaves nothing behind.",
-    "Audit alone judges every page; patch, worktree and deploy judge a set of changes.",
+    "Checks reach no further than the akasha folder.",
+    "A change is judged before it reaches disk, so a refused one leaves nothing behind.",
+    "Audit judges every page; the other phases judge only what changed.",
   ],
   intent: [
-    "A change costs the checks what the change is worth, never what the corpus is worth.",
-    "A check is run over the changes it was given, and never over the corpus.",
-    "What a check must know beyond the file it was handed, it asks the index.",
+    "A check runs over the changes it was given, never over the corpus.",
+    "A check asks the index for anything beyond the file it was handed.",
   ],
 } as const satisfies Domain
