@@ -74,8 +74,6 @@ export function givenIn(root: string): Given {
   return { root, calledAs: "akasha move", from: root, writer: null, agentId: null }
 }
 
-export { stands } from "../../../testing-system/putting.module.code.ts"
-
 export const head = headOf
 
 export function importing(root: string, target: string, importers: readonly string[]): void {

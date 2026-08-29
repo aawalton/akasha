@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting.module.code.ts"
+import { stands } from "../../../testing-system/putting.module.code.ts"
 import { move, PATHS_AT, pairsIn, surface } from "./move.command.code.ts"
 import {
   AAAA,
@@ -26,7 +27,6 @@ import {
   repoWith,
   SPELLS,
   scratch,
-  stands,
   TARGET,
   THREE,
 } from "./move.command.test-fixtures.ts"

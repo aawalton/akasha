@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting.module.code.ts"
+import { stands } from "../../../testing-system/putting.module.code.ts"
 import {
   emptiedBy,
   namedIn,
@@ -22,7 +23,6 @@ import {
   naming,
   repoWith,
   scratch,
-  stands,
 } from "./remove.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)

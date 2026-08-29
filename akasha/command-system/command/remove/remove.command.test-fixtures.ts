@@ -34,8 +34,6 @@ export function naming(...paths: readonly string[]): readonly string[] {
   return paths.flatMap((one) => ["--file-path", one])
 }
 
-export { stands } from "../../../testing-system/putting.module.code.ts"
-
 export const head = headOf
 
 export const HELD = "akasha/one/held.module.ts"
