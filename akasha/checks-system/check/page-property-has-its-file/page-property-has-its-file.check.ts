@@ -34,7 +34,17 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "constraint",
       statement:
-        "What stands at a path the change does not name is answered by the base commit, so a file written into the worktree and never committed reads as absent.",
+        "What stands at a path the change does not name is answered by the base commit, so a file never committed reads as absent unless its declaration says the value is uncommitted.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file holding an uncommitted value is present when it stands in the worktree, because the page standing in the commit is what obliges it to stand.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a value is uncommitted is read from the declaration the page's type carries for it, so the same property can be committed under one page type and not under another.",
     },
     {
       invariantKind: "departure",
