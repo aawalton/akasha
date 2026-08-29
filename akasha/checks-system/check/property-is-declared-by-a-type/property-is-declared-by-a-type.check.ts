@@ -10,7 +10,7 @@ export const propertyIsDeclaredByAType = {
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
