@@ -1,8 +1,8 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
-import { headOf, stampIn, unlandedIn } from "../../../data-system/index/index-stamp.module.code.ts"
-import { rebuiltFrom } from "../../../data-system/index/indexing.module.code.ts"
+import { indexIn } from "../../../pages-system/index/index-reading.module.code.ts"
+import { headOf, stampIn, unlandedIn } from "../../../pages-system/index/index-stamp.module.code.ts"
+import { rebuiltFrom } from "../../../pages-system/index/indexing.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { holding, oneLine } from "../../landing.module.code.ts"
 

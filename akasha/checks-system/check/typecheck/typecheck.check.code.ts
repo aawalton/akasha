@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
-import { importersOf, indexIn } from "../../../data-system/index/index-reading.module.code.ts"
+import { importersOf, indexIn } from "../../../pages-system/index/index-reading.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"

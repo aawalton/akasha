@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
-import { indexIn, standingByPath } from "../../../data-system/index/index-reading.module.code.ts"
+import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"

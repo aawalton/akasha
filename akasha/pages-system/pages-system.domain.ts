@@ -16,6 +16,7 @@ export const pagesSystem = {
     "page-type/relation-property",
     "page-type/record-property",
     "page-type/file-property",
+    "domain/index",
     "module/page-address",
     "module/page-file-name",
     "module/page-export-name",

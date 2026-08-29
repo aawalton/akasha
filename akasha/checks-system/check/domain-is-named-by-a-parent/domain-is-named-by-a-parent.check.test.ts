@@ -116,7 +116,7 @@ test("a page whose page type merely descends from domain is not judged", () => {
   for (const path of [
     "akasha/checks-system/check/one/one.check.ts",
     "akasha/code-system/module/module.page-type.ts",
-    "akasha/data-system/index/indexing.module.ts",
+    "akasha/pages-system/index/indexing.module.ts",
     "akasha/command-system/command/write/write.command.ts",
   ]) {
     expect(reasonsIn(at(root, path))).toEqual([])

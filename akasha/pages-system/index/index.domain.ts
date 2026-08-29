@@ -19,6 +19,14 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The index is written under `.git/data`, which git does not track.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index can be written again from the pages alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index file is named for the value it answers.",
     },
     {

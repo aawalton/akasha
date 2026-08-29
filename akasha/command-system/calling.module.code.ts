@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, relative, resolve } from "node:path"
-import { indexIn, slugsOfType, standingAt } from "../data-system/index/index-reading.module.code.ts"
+import { indexIn, slugsOfType, standingAt } from "../pages-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
 

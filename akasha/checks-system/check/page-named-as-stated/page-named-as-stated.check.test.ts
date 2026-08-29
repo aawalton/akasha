@@ -94,7 +94,7 @@ test("a page property's code file is no page, so a value it holds is passed over
 
 test("a page property's test file is no page, so a fixture it holds is passed over", () => {
   const body = page("note", "relation-property")
-  expect(reasons("akasha/data-system/index/indexing.module.test.ts", body)).toEqual([])
+  expect(reasons("akasha/pages-system/index/indexing.module.test.ts", body)).toEqual([])
 })
 
 test("a property newly held in a file is passed over, the set being the index's and not a list here", () => {

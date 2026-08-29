@@ -1,4 +1,4 @@
-import { idsNaming, standingAt } from "../../../data-system/index/index-reading.module.code.ts"
+import { idsNaming, standingAt } from "../../../pages-system/index/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { overEachFile } from "../../checking.module.code.ts"
