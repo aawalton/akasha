@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
+import { speltIn } from "../../../code-system/code-rule.module.code.ts"
 import type { Owner } from "./no-second-spelling.check.code.ts"
-import { reasonsIn, speltIn } from "./no-second-spelling.check.code.ts"
+import { reasonsIn } from "./no-second-spelling.check.code.ts"
 
 const EXPORTED_AS = `export function exportedAs(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
@@ -12,39 +13,11 @@ const CAMEL = `function camel(slug: string): string {
 }
 `
 
-function ruleFor(text: string, name: string): string {
-  const found = speltIn("one.ts", text).find((each) => each.name === name)
-  if (found === undefined) throw new Error(`no \`${name}\` was read out of the text`)
-  return found.rule
-}
-
 function owning(text: string, name: string, path: string): ReadonlyMap<string, Owner> {
-  return new Map<string, Owner>([[ruleFor(text, name), { path, name }]])
+  const found = speltIn(path, text).find((each) => each.name === name)
+  if (found === undefined) throw new Error(`no \`${name}\` was read out of the text`)
+  return new Map<string, Owner>([[found.rule, { path, name }]])
 }
-
-test("a rule is the same when only the function and its names differ", () => {
-  expect(ruleFor(CAMEL, "camel")).toBe(ruleFor(EXPORTED_AS, "exportedAs"))
-})
-
-test("a rule differs when what the function does differs", () => {
-  const other = `function camel(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toLowerCase())
-}
-`
-  expect(ruleFor(other, "camel")).not.toBe(ruleFor(EXPORTED_AS, "exportedAs"))
-})
-
-test("a function a module exports is marked, and one it keeps is not", () => {
-  const both = `${EXPORTED_AS}\n${CAMEL}`
-  const found = speltIn("one.module.code.ts", both)
-  expect(found.find((each) => each.name === "exportedAs")?.exported).toBe(true)
-  expect(found.find((each) => each.name === "camel")?.exported).toBe(false)
-})
-
-test("an exported arrow bound to a const is marked too", () => {
-  const said = `export const twice = (one: number): number => one * 2\n`
-  expect(speltIn("one.module.code.ts", said)[0]?.exported).toBe(true)
-})
 
 test("a second spelling of what a module owns is refused, and names where to reach", () => {
   const owned = owning(

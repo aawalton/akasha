@@ -5,5 +5,5 @@ export const codeSystem = {
   pageTypeSlug: "domain",
   slug: "code-system",
   definition: "how we write what runs",
-  partSlugs: ["page-type/module", "module/code-specifier"],
+  partSlugs: ["page-type/module", "module/code-specifier", "module/code-rule"],
 } as const satisfies Domain
