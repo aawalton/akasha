@@ -42,6 +42,18 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A change that never took the hold is refused unjudged and unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that throws has committed nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit that landed is never answered as nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The index is settled before the commit, so no commit lands on an index blind to it.",
     },
     {

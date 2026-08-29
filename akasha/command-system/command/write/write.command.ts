@@ -22,6 +22,10 @@ export const write = {
       statement:
         "The bodies written and the paths taken away by one call are one gated commit, or none.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What a call said is read here; what it asked for is landed by `asking`.",
+    },
   ],
   intent: [
     {

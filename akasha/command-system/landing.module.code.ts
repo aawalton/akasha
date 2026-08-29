@@ -8,9 +8,7 @@ import {
   readSync,
   rmSync,
   statSync,
-  unlinkSync,
   writeFileSync,
-  writeSync,
 } from "node:fs"
 import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
@@ -18,6 +16,9 @@ import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
 import { indexIn } from "../data-system/index/index-reading.module.code.ts"
 import type { Indexing } from "../data-system/index/indexing.module.code.ts"
+import { holding } from "./holding.module.code.ts"
+
+export { holding }
 
 export type Change = {
   readonly path: string
@@ -41,11 +42,7 @@ export type Refused = {
   readonly refusals: readonly string[]
 }
 
-const LOCK_AT = ".git/akasha-landing.lock"
-
-const HELD_FOR = 120000
-
-const WAITED = 50
+export const UNNAMED = "unnamed"
 
 const CHECKING = "../checks-system/checking.module.code.ts"
 
@@ -327,63 +324,6 @@ function judged(judging: Judging, leaving: Leaving): readonly Judged[] {
   }
 }
 
-function heldBy(at: string): number | null {
-  try {
-    const first = readFileSync(at, "utf8").trim().split(" ")[0]
-    if (first === undefined) return null
-    const pid = Number.parseInt(first, 10)
-    return Number.isNaN(pid) ? null : pid
-  } catch {
-    return null
-  }
-}
-
-function alive(pid: number): boolean {
-  try {
-    process.kill(pid, 0)
-    return true
-  } catch {
-    return false
-  }
-}
-
-function taken(at: string): boolean {
-  try {
-    const held = openSync(at, "wx")
-    writeSync(held, `${process.pid} ${Date.now()}`)
-    closeSync(held)
-    return true
-  } catch {
-    return false
-  }
-}
-
-export function holding<T>(root: string, act: () => T, waited: number = HELD_FOR): T {
-  const at = join(root, LOCK_AT)
-  mkdirSync(dirname(at), { recursive: true })
-  const until = Date.now() + waited
-  while (!taken(at)) {
-    const pid = heldBy(at)
-    if (pid !== null && !alive(pid)) {
-      rmSync(at, { force: true })
-      continue
-    }
-    if (Date.now() > until) {
-      throw new Error(
-        `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`
-      )
-    }
-    Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, WAITED)
-  }
-  try {
-    return act()
-  } finally {
-    try {
-      unlinkSync(at)
-    } catch {}
-  }
-}
-
 function wroteOnto(root: string, changed: readonly Change[]): {
   readonly wrote: readonly string[]
   readonly took: readonly string[]
@@ -431,11 +371,20 @@ function indexed(
   return held.settle()
 }
 
+function nameOf(root: string): string {
+  try {
+    return gitIn(root, ["rev-parse", "HEAD"]).trim()
+  } catch {
+    return UNNAMED
+  }
+}
+
 function committed(
   root: string,
   paths: readonly string[],
   message: string,
-  writer: string | null
+  writer: string | null,
+  base: string
 ): string | null {
   for (const one of paths) {
     try {
@@ -447,8 +396,14 @@ function committed(
     return null
   } catch {}
   const named = writer === null ? [] : [`--author=${writer}`]
-  gitIn(root, ["commit", ...named, "-m", message, "--", ...paths])
-  return gitIn(root, ["rev-parse", "HEAD"]).trim()
+  try {
+    gitIn(root, ["commit", ...named, "-m", message, "--", ...paths])
+  } catch (thrown) {
+    const now = nameOf(root)
+    if (now === base || now === UNNAMED) throw thrown
+    return now
+  }
+  return nameOf(root)
 }
 
 export function landing(
@@ -478,7 +433,7 @@ export function landing(
     const keeping = indexingLoaded()
     const put = wroteOnto(root, changes)
     const noted = indexed(root, changes, before, keeping)
-    const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer)
+    const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer, base)
     return { base, commit, wrote: put.wrote, took: put.took, noted }
   })
 }

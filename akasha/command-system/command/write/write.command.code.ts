@@ -1,18 +1,41 @@
-import { readFileSync } from "node:fs"
-import { isAbsolute, join, relative, resolve } from "node:path"
-import type { Judged, Judging } from "../../../checks-system/judging.module.code.ts"
+import { isAbsolute, relative, resolve } from "node:path"
 import type { Answer, Given } from "../../calling.module.code.ts"
-import type { Change, Landed } from "../../landing.module.code.ts"
+import type { Asked, Held, Saying, Trouble } from "../../asking.module.code.ts"
 import {
-  baseOf,
-  bodyAt,
-  CHECKING_AT,
-  gateBuilt,
-  holding,
-  landing,
-  leavingOf,
-  NO_GATE,
-} from "../../landing.module.code.ts"
+  BREAK_GLASS,
+  bytesAt,
+  counted,
+  DRY_RUN,
+  judgedBy,
+  landingAsked,
+  mistaking,
+  passedOver,
+  textAt,
+  textOf,
+  troubling,
+  unloadable,
+  wroteAndTook,
+} from "../../asking.module.code.ts"
+import type { Change } from "../../landing.module.code.ts"
+import { baseOf, bodyAt } from "../../landing.module.code.ts"
+
+export type { Asked, Held, Saying, Trouble }
+
+export {
+  BREAK_GLASS,
+  bytesAt,
+  counted,
+  DRY_RUN,
+  judgedBy,
+  landingAsked,
+  mistaking,
+  passedOver,
+  textAt,
+  textOf,
+  troubling,
+  unloadable,
+  wroteAndTook,
+}
 
 export const FILE_PATH = "--file-path"
 
@@ -20,73 +43,15 @@ export const MESSAGE = "--message"
 
 export const MESSAGE_FILE = "--message-file"
 
-export const DRY_RUN = "--dry-run"
-
-export const BREAK_GLASS = "--break-the-glass"
-
 const CONTENT_FILE = "--content-file"
 
 const REMOVE = "--remove"
 
 const AKASHA = "akasha"
 
-const NOTHING = "nothing was judged and nothing was written"
-
 const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
-
-export type Held = {
-  readonly path: string
-  readonly was: Uint8Array
-}
-
-export type Saying = (said: Landed) => readonly string[]
-
-export type Asked = {
-  readonly changes: readonly Change[]
-  readonly message: string
-  readonly dryRun: boolean
-  readonly glass: string | null
-  readonly unmoved: readonly Held[]
-  readonly saying: Saying
-}
-
-export type Trouble = {
-  readonly mistaken: readonly string[]
-  readonly wrong: readonly string[]
-}
-
-export function mistaking(said: readonly string[]): Answer {
-  return { report: [], refusals: said, code: 1 }
-}
-
-export function troubling(found: Trouble): Answer | null {
-  const said = [...found.mistaken, ...found.wrong]
-  if (said.length === 0) return null
-  return { report: [], refusals: [...said, NOTHING], code: found.mistaken.length > 0 ? 1 : 2 }
-}
-
-export function bytesAt(at: string): Uint8Array | null {
-  try {
-    return readFileSync(at)
-  } catch {
-    return null
-  }
-}
-
-export function textOf(bytes: Uint8Array): string | null {
-  try {
-    return new TextDecoder("utf-8", { fatal: true }).decode(bytes)
-  } catch {
-    return null
-  }
-}
-
-export function textAt(at: string): string | null {
-  const bytes = bytesAt(at)
-  return bytes === null ? null : textOf(bytes)
-}
 
 export function pathInside(root: string, said: string): string | null {
   const full = isAbsolute(said) ? resolve(said) : resolve(root, said)
@@ -182,144 +147,6 @@ export function messageIn(
 export function defaultMessage(what: string, paths: readonly string[]): string {
   if (paths.length <= 3) return `${what} ${[...paths].sort().join(", ")}`
   return `${what} ${paths.length} files`
-}
-
-function sameBytes(one: Uint8Array | null, two: Uint8Array): boolean {
-  if (one === null || one.byteLength !== two.byteLength) return false
-  for (let at = 0; at < one.byteLength; at += 1) {
-    if (one[at] !== two[at]) return false
-  }
-  return true
-}
-
-function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
-  return {
-    named: judging.named,
-    over: (leaving) => {
-      const moved: Judged[] = []
-      for (const one of held) {
-        if (sameBytes(bytesAt(join(leaving.root, one.path)), one.was)) continue
-        moved.push({
-          path: one.path,
-          reason:
-            "changed after this call read it, so the body worked out for it is not the body on disk — run it again",
-        })
-      }
-      return moved.length > 0 ? moved : judging.over(leaving)
-    },
-  }
-}
-
-export function unloadable(why: string): Answer {
-  return {
-    report: [],
-    refusals: [
-      `the checks could not be loaded from ${CHECKING_AT}, so no check could run — ${why}`,
-      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this stand in the commit`,
-    ],
-    code: 3,
-  }
-}
-
-function gateFor(asked: Asked, held: Judging): Judging {
-  return asked.unmoved.length === 0 ? held : alsoUnmoved(held, asked.unmoved)
-}
-
-function messageWith(asked: Asked, broken: string | null): string {
-  if (asked.glass === null) return asked.message
-  const held = `${asked.message}\n\nChecks-bypassed: ${asked.glass}`
-  return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
-}
-
-function reportOf(
-  said: Landed,
-  asked: Asked,
-  broken: string | null,
-  checks: number
-): readonly string[] {
-  const found = [...asked.saying(said)]
-  if (asked.glass === null) {
-    found.push(judgedBy(checks, asked.changes.length))
-  } else {
-    found.push(`no check ran — the glass was broken for: ${asked.glass}`)
-    if (broken !== null) {
-      found.push(
-        `the checks could not be loaded from ${CHECKING_AT} either, so none could have run — ${broken}`
-      )
-    }
-  }
-  found.push(...said.noted.map((one) => `the index took less than the whole of this — ${one}`))
-  found.push(
-    said.commit === null
-      ? "nothing was committed — what was asked for already stands"
-      : `committed as ${said.commit}`
-  )
-  return found
-}
-
-export function wroteAndTook(said: Landed): readonly string[] {
-  return [
-    ...said.wrote.map((one) => `wrote ${one}`),
-    ...said.took.map((one) => `took away ${one}`),
-  ]
-}
-
-export function counted(many: number, one: string): string {
-  return `${many} ${one}${many === 1 ? "" : "s"}`
-}
-
-export function passedOver(checks: number, paths: number): string {
-  if (checks === 0) {
-    return `no check runs at this phase, so the ${counted(paths, "path")} asked for went unjudged`
-  }
-  return `${counted(checks, "check")} passed over the ${counted(paths, "path")} asked for`
-}
-
-export function judgedBy(checks: number, paths: number): string {
-  if (checks === 0) {
-    return `no check runs at this phase, so the ${counted(paths, "path")} asked for landed unjudged`
-  }
-  return `${counted(checks, "check")} judged the ${counted(paths, "path")} asked for, and none refused`
-}
-
-function reporting(root: string, asked: Asked, gate: Judging): Answer {
-  const said = holding(root, () =>
-    gate.over(leavingOf(root, { base: baseOf(root), changed: asked.changes }))
-  )
-  if (said.length > 0) {
-    return {
-      report: [],
-      refusals: [
-        ...said.map((one) => `${one.path} — ${one.reason}`),
-        `nothing was written — ${DRY_RUN} writes nothing either way`,
-      ],
-      code: 3,
-    }
-  }
-  return {
-    report: [
-      passedOver(gate.named.length, asked.changes.length),
-      `nothing was written — ${DRY_RUN}`,
-    ],
-    refusals: [],
-    code: 0,
-  }
-}
-
-export function landingAsked(given: Given, asked: Asked): Answer {
-  if (asked.dryRun && asked.glass !== null) {
-    return mistaking([
-      `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
-    ])
-  }
-  const built = gateBuilt(given.root)
-  if ("broken" in built && asked.glass === null) return unloadable(built.broken)
-  const broken = "broken" in built ? built.broken : null
-  const gate = gateFor(asked, asked.glass === null && "gate" in built ? built.gate : NO_GATE)
-  if (asked.dryRun) return reporting(given.root, asked, gate)
-  const said = landing(given.root, asked.changes, messageWith(asked, broken), gate, given.writer)
-  if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  return { report: reportOf(said, asked, broken, gate.named.length), refusals: [], code: 0 }
 }
 
 type Pair = {

@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
-import { judgedBy, passedOver, write } from "./write.command.code.ts"
+import { write } from "./write.command.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -57,13 +57,6 @@ const REFUSES =
   "}\n"
 
 const ADMITS = "export function admits() {\n  return []\n}\n"
-
-const REFUSES_TAKING =
-  "export function refusesTaking(leaving) {\n" +
-  "  return leaving.changed\n" +
-  "    .filter((path) => leaving.at(path) === null)\n" +
-  '    .map((path) => ({ path, reason: "a check judged this going away" }))\n' +
-  "}\n"
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
@@ -138,117 +131,6 @@ test("a removal of what is not there is refused as data that is wrong", () => {
   rmSync(root, { recursive: true })
 })
 
-test("a dry run gates and writes nothing at all, index entry included", () => {
-  const root = repoWith()
-  const was = headOf(root)
-  const from = put(root, "body.txt", 'import { one } from "./one.ts"\n')
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run",
-  ], givenIn(root))
-  expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("nothing was written")
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  expect(headOf(root)).toBe(was)
-  expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
-  expect(existsSync(join(root, ".git/data/index/import"))).toBe(false)
-  rmSync(root, { recursive: true })
-})
-
-test("a dry run over a change the checks refuse reports the refusal", () => {
-  const root = repoWith()
-  checking(root, "refuses", REFUSES)
-  const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run",
-  ], givenIn(root))
-  expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("refused for the test")
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
-})
-
-test("a check is handed a removal, and can refuse it", () => {
-  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  checking(root, "refuses-taking", REFUSES_TAKING)
-  const said = write(["--remove", "akasha/two.ts", "--dry-run"], givenIn(root))
-  expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
-  rmSync(root, { recursive: true })
-})
-
-test("that same check lets a written body through, so it refuses the going and not the arriving", () => {
-  const root = repoWith()
-  checking(root, "refuses-taking", REFUSES_TAKING)
-  const from = bodyIn(root)
-  const said = write(
-    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
-    givenIn(root)
-  )
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  rmSync(root, { recursive: true })
-})
-
-test("a gate counts the removal it judged beside the body it wrote, so a move is not doubled", () => {
-  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  checking(root, "admits", ADMITS)
-  const from = bodyIn(root)
-  const said = write(
-    [
-      "--file-path", "akasha/three.ts", "--content-file", from,
-      "--remove", "akasha/two.ts", "--dry-run",
-    ],
-    givenIn(root)
-  )
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toBe("1 check passed over the 2 paths asked for")
-  rmSync(root, { recursive: true })
-})
-
-test("a pass names how many checks ran and how many paths they were handed", () => {
-  expect(passedOver(1, 1)).toBe("1 check passed over the 1 path asked for")
-  expect(passedOver(12, 6)).toBe("12 checks passed over the 6 paths asked for")
-  expect(passedOver(0, 2)).toBe(
-    "no check runs at this phase, so the 2 paths asked for went unjudged"
-  )
-})
-
-test("a landing names what judged it, and says so when nothing did", () => {
-  expect(judgedBy(1, 1)).toBe("1 check judged the 1 path asked for, and none refused")
-  expect(judgedBy(0, 1)).toBe(
-    "no check runs at this phase, so the 1 path asked for landed unjudged"
-  )
-})
-
-test("a landing whose phase runs no check says the paths landed unjudged", () => {
-  const root = repoWith()
-  rmSync(join(root, CHECKS_AT, "admits.jsonl"))
-  checking(root, "later", ADMITS, "deploy")
-  const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--message", "held",
-  ], givenIn(root))
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("no check runs at this phase, so the 1 path asked for landed unjudged")
-  rmSync(root, { recursive: true })
-})
-
-test("breaking the glass runs no check and says so in the commit", () => {
-  const root = repoWith()
-  checking(root, "refuses", REFUSES)
-  const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from,
-    "--message", "held", "--break-the-glass", "the checks are themselves broken",
-  ], givenIn(root))
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
-  expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
-    "Checks-bypassed: the checks are themselves broken"
-  )
-  rmSync(root, { recursive: true })
-})
-
 test("breaking the glass with no reason is refused", () => {
   const root = repoWith()
   const from = bodyIn(root)
@@ -258,17 +140,6 @@ test("breaking the glass with no reason is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is empty")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
-})
-
-test("a dry run that breaks the glass is refused, having nothing to report", () => {
-  const root = repoWith()
-  const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run", "--break-the-glass", "why",
-  ], givenIn(root))
-  expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("report nothing")
   rmSync(root, { recursive: true })
 })
 
