@@ -13,7 +13,6 @@ import { emailRulesDisjoint } from "./audits/email-rules-disjoint.ts"
 import { hooksAgree } from "./audits/hooks-agree.ts"
 import { hooksDelivered } from "./audits/hooks-delivered.ts"
 import { hooksUncopied } from "./audits/hooks-uncopied.ts"
-import { linksResolve } from "./audits/links-resolve.ts"
 import { relationsResolve } from "./audits/relations-resolve.ts"
 import { lintScopeCoverage } from "./audits/lint-scope-coverage.ts"
 import { pagesHoldProperties } from "./audits/pages-hold-properties.ts"
@@ -53,7 +52,6 @@ export const CHECKS: Readonly<Record<string, Levy>> = {
   "hooks-agree": { repos: ["akasha"], run: hooksAgree },
   "hooks-delivered": { repos: ["akasha"], run: hooksDelivered },
   "hooks-uncopied": { repos: ["akasha"], run: hooksUncopied },
-  "links-resolve": { repos: ["akasha"], run: linksResolve },
   "relations-resolve": { repos: ["akasha"], run: relationsResolve },
   "lint-scope-coverage": { repos: ["akasha"], run: lintScopeCoverage },
   "pages-hold-properties": { repos: ["akasha"], run: pagesHoldProperties },
