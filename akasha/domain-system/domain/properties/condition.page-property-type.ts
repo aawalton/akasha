@@ -15,4 +15,16 @@ export const condition = {
   kind: "list",
   entrySlug: "invariant",
   max: null,
+  design: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Any condition that could be made always true is paired with an intent to make it so.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A condition nothing could make always true is a state we keep bringing the system back to.",
+    },
+  ],
 } as const satisfies PagePropertyType
