@@ -8,4 +8,5 @@ domain-slug: domain/alan-harness
 role-slug: definer
 person-slug: alan
 start-mode: interactive
+on-call: true
 ---
