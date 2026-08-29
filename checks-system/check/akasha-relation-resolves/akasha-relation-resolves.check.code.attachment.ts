@@ -31,7 +31,9 @@ export const akashaRelationResolves: Check = {
     if (paths.length === 0) return []
     const dir = standIn(root, paths, tree.at)
     try {
-      const said = relationRefusals(corpusIn(dir))
+      const corpus = corpusIn(dir)
+      if ("refused" in corpus) return [{ path: under, reason: corpus.refused }]
+      const said = relationRefusals(corpus)
       return said.map((one): CheckFailure => {
         const named = SAID.exec(one)
         if (named === null) return { path: under, reason: one }

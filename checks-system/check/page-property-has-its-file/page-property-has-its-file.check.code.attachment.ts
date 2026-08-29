@@ -1,5 +1,5 @@
 import { dirname, relative, resolve } from "node:path"
-import type { Corpus } from "../../../akasha/write-system/corpus.module.code.ts"
+import type { Corpus, Refusal } from "../../../akasha/write-system/corpus.module.code.ts"
 import { corpusIn } from "../../../akasha/write-system/corpus.module.code.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
@@ -34,11 +34,11 @@ function fileKindIn(corpus: Corpus): readonly Held[] {
   return [...found.values()]
 }
 
-function loaded(from: string): Corpus | null {
+function loaded(from: string): Corpus | Refusal {
   try {
     return corpusIn(from)
-  } catch {
-    return null
+  } catch (thrown) {
+    return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }
 }
 
@@ -61,9 +61,11 @@ export const pagePropertyHasItsFile = {
   needs: "tree",
   run: ({ root, tree }) => {
     const under = resolve(root, AKASHA)
+    const inside = tree.paths().filter((one) => one.startsWith(`${under}/`))
+    if (inside.length === 0) return []
     const from = resolve(tree.dir(), AKASHA)
     const corpus = loaded(from)
-    if (corpus === null) return []
+    if ("refused" in corpus) return [{ path: under, reason: corpus.refused }]
     const wanted = fileKindIn(corpus)
     if (wanted.length === 0) return []
     const stood = new Set(tree.paths())
