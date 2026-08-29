@@ -4,6 +4,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import {
+  AUTHOR,
   INPUT,
   OK,
   OPERATIONAL,
@@ -118,6 +119,19 @@ test("a stated root wins over where the dispatcher stands", () => {
 test("an empty stated root is treated as none stated", () => {
   const said = outsideOf([], { AKASHA_ROOT: "" }, AT, "/nowhere")
   expect(said.root).toBe("/somewhere")
+})
+
+test("a commit is authored by akasha when nothing states a writer", () => {
+  expect(outsideOf([], {}, AT, "/nowhere").writer).toBe("Akasha <akasha@alanwalton.com>")
+})
+
+test("an empty stated writer is treated as none stated", () => {
+  expect(outsideOf([], { AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(AUTHOR)
+})
+
+test("a stated writer wins over akasha", () => {
+  const said = outsideOf([], { AKASHA_WRITER: "Someone <one@two.three>" }, AT, "/nowhere")
+  expect(said.writer).toBe("Someone <one@two.three>")
 })
 
 test("the name it was invoked by is carried in", () => {

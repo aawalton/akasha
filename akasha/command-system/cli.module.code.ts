@@ -12,6 +12,8 @@ export const OPERATIONAL = 3
 
 export const UNCLASSIFIED = 70
 
+export const AUTHOR = "Akasha <akasha@alanwalton.com>"
+
 export type Said = {
   readonly out: readonly string[]
   readonly err: readonly string[]
@@ -29,11 +31,12 @@ export function outsideOf(
   from: string
 ): Outside {
   const stated = env["AKASHA_ROOT"]
+  const said = env["AKASHA_WRITER"]
   return {
     root: stated === undefined || stated === "" ? rootOf(at) : resolve(stated),
     calledAs: "akasha",
     from,
-    writer: env["AKASHA_WRITER"] ?? null,
+    writer: said === undefined || said === "" ? AUTHOR : said,
   }
 }
 
