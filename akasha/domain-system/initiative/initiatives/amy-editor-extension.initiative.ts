@@ -22,7 +22,7 @@ export const amyEditorExtension = {
     },
     {
       invariantKind: "gap",
-      statement: "Every akasha page stands under a parent, whether or not it stands under a domain.",
+      statement: "A page type's properties and its parts name the same pages, neither one over.",
     },
     {
       invariantKind: "gap",
