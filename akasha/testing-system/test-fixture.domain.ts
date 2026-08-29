@@ -8,8 +8,7 @@ export const testFixture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A fixture carries the page it needs rather than restating its values, so it cannot fall behind what the corpus declares.",
+      statement: "A fixture carries the page it needs rather than restating its values.",
     },
     {
       invariantKind: "departure",
@@ -17,8 +16,7 @@ export const testFixture = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A fixture is built by the system it feeds and never by the code under test, so a test proves more than that the code agrees with itself.",
+      statement: "A fixture stands in a world the system could have built.",
     },
     {
       invariantKind: "absence",
