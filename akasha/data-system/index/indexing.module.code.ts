@@ -1,6 +1,7 @@
 import {
   existsSync,
   mkdirSync,
+  readFileSync,
   readdirSync,
   renameSync,
   rmSync,
@@ -15,6 +16,7 @@ import {
   filePropertiesAt,
   filePropertiesIn,
   identityIn,
+  importIn,
   knownIn,
   linesIn,
   loadedFrom,
@@ -109,6 +111,21 @@ function pagesUnder(tree: string): readonly string[] {
   })
 }
 
+const TS = ".ts"
+
+function bodiesUnder(tree: string): readonly string[] {
+  const found: string[] = []
+  const walk = (at: string): void => {
+    for (const one of readdirSync(at, { withFileTypes: true })) {
+      const here = join(at, one.name)
+      if (one.isDirectory()) walk(here)
+      else if (one.name.endsWith(TS)) found.push(here)
+    }
+  }
+  walk(tree)
+  return found
+}
+
 function filesUnder(at: string): readonly string[] {
   if (!existsSync(at)) return []
   const found: string[] = []
@@ -161,9 +178,13 @@ export function rebuiltFrom(
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, "relation"), relation, root)
+  const imported = bodiesUnder(tree).flatMap((path) =>
+    importIn(readFileSync(path, "utf8"), path, repo)
+  )
+  reconcile(join(root, "import"), imported, root)
   return {
     pages: held.length,
-    entries: identity.length + schema.length + relation.length,
+    entries: identity.length + schema.length + relation.length + imported.length,
     refused: filed.flatMap((one) => one.refused),
   }
 }
@@ -193,10 +214,18 @@ export function indexingAt(root: string, repo: string): Indexing {
 
       const held = [...pending].map(([path, one]) => ({
         path,
+        before: one.before,
+        after: one.after,
         was: readInto(one.before, path),
         now: readInto(one.after, path),
       }))
       pending.clear()
+
+      settleOver(
+        root,
+        held.flatMap((one) => (one.before === null ? [] : importIn(one.before, one.path, repo))),
+        held.flatMap((one) => (one.after === null ? [] : importIn(one.after, one.path, repo)))
+      )
 
       const fileProperties = new Set<string>([
         ...filePropertiesAt(root),

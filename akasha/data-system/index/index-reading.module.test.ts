@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { indexIn, schemaOf, standingById, standingByPath } from "./index-reading.module.code.ts"
+import { importersOf, indexIn, schemaOf, standingById, standingByPath } from "./index-reading.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -101,5 +101,26 @@ test("a property the index does not carry is answered with nothing rather than b
   const root = rootAt()
 
   expect(schemaOf(root, "nowhere")).toBe(null)
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a path the index carries edges for is answered with every file importing it", () => {
+  const root = rootAt()
+  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
+    JSON.stringify({ path: "akasha/two.module.code.ts" }),
+    JSON.stringify({ path: "akasha/one.module.code.ts" }),
+  ])
+
+  expect(importersOf(root, "akasha/a.module.code.ts")).toEqual([
+    "akasha/one.module.code.ts",
+    "akasha/two.module.code.ts",
+  ])
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a path nothing imports is answered with nothing rather than by throwing", () => {
+  const root = rootAt()
+
+  expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
   rmSync(root, { recursive: true, force: true })
 })

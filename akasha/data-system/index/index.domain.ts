@@ -4,11 +4,13 @@ export const index = {
   id: "01a04a4a-23e9-7114-90a5-11acf49a937d",
   pageTypeSlug: "domain",
   slug: "index",
-  definition: "which file holds each page, which pages name it, and what shape each property holds",
+  definition:
+    "which file holds each page, which pages name it, which files import it, and what shape each property holds",
   partSlugs: [
     "domain/index-identity",
     "domain/index-relation",
     "domain/index-schema",
+    "domain/index-import",
     "module/index-entries",
     "module/indexing",
     "module/index-reading",

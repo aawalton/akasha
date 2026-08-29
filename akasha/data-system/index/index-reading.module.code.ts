@@ -16,6 +16,8 @@ const INDEX_AT = ".git/data/index"
 
 const IDENTITY = "identity"
 
+const IMPORT = "import"
+
 const RELATION = "relation"
 
 const SCHEMA = "schema"
@@ -56,6 +58,21 @@ export function standingById(root: string, id: string): Standing | null {
 
 export function standingByPath(root: string, path: string): readonly Standing[] {
   return standingIn(join(indexIn(root), IDENTITY, "page", "path", `${path}${ENDING}`))
+}
+
+function pathsIn(at: string): readonly string[] {
+  if (!existsSync(at)) return []
+  const found: string[] = []
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    if (line === "") continue
+    const said = JSON.parse(line) as { readonly path?: unknown }
+    if (typeof said.path === "string") found.push(said.path)
+  }
+  return found.sort()
+}
+
+export function importersOf(root: string, path: string): readonly string[] {
+  return pathsIn(join(indexIn(root), IMPORT, "path", `${path}${ENDING}`))
 }
 
 function schemaIn(at: string): readonly Schema[] {

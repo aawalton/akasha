@@ -1,7 +1,8 @@
 import { createRequire } from "node:module"
 import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
-import { isAbsolute, join, relative } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import { tmpdir } from "node:os"
+import ts from "typescript"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
@@ -165,6 +166,61 @@ export function schemaIn(value: Value): readonly Entry[] {
     entrySlug: slugAt(value, "entrySlug"),
   }
   return [{ at: join("schema", PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
+}
+
+const RELATIVE = /^\.\.?\//
+
+const OUTSIDE = ".."
+
+export function specifiersIn(at: string, text: string): readonly string[] {
+  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, false, ts.ScriptKind.TS)
+  const found: string[] = []
+  const held = (node: ts.Node): void => {
+    if (
+      (ts.isImportDeclaration(node) || ts.isExportDeclaration(node)) &&
+      node.moduleSpecifier !== undefined &&
+      ts.isStringLiteral(node.moduleSpecifier)
+    ) {
+      found.push(node.moduleSpecifier.text)
+    }
+    if (
+      ts.isCallExpression(node) &&
+      (node.expression.kind === ts.SyntaxKind.ImportKeyword ||
+        (ts.isIdentifier(node.expression) && node.expression.text === "require"))
+    ) {
+      const one = node.arguments[0]
+      if (one !== undefined && ts.isStringLiteral(one)) found.push(one.text)
+    }
+    if (ts.isExternalModuleReference(node) && ts.isStringLiteral(node.expression)) {
+      found.push(node.expression.text)
+    }
+    if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument)) {
+      const one = node.argument.literal
+      if (ts.isStringLiteral(one)) found.push(one.text)
+    }
+    ts.forEachChild(node, held)
+  }
+  ts.forEachChild(source, held)
+  return found
+}
+
+export function importedBy(path: string, specifier: string): string | null {
+  if (!RELATIVE.test(specifier)) return null
+  const landed = join(dirname(path), specifier)
+  return landed === OUTSIDE || landed.startsWith(`${OUTSIDE}/`) ? null : landed
+}
+
+export function importIn(body: string, path: string, repo: string): readonly Entry[] {
+  const own = under(repo, path)
+  if (!own.endsWith(TS)) return []
+  const line = JSON.stringify({ path: own })
+  const found: Entry[] = []
+  for (const one of specifiersIn(own, body)) {
+    const landed = importedBy(own, one)
+    if (landed === null) continue
+    found.push({ at: join("import", "path", `${landed}.jsonl`), line })
+  }
+  return found
 }
 
 export function linesIn(at: string): readonly string[] {
