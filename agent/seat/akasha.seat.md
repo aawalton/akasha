@@ -10,4 +10,5 @@ person-slug: alan
 start-mode: interactive
 on-call: true
 claude-code-session-uuid: 4d44d457-e319-4dc6-a883-cab04f21eca3
+transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/4d44d457-e319-4dc6-a883-cab04f21eca3.jsonl
 ---
