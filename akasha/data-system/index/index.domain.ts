@@ -42,12 +42,7 @@ export const index = {
       statement: "A path in the index is relative to the repository root.",
     },
   ],
-  condition: [
-    {
-      invariantKind: "departure",
-      statement: "The index holds every page.",
-    },
-  ],
+  condition: ["The index holds every page."],
   intent: [
     {
       invariantKind: "gap",
