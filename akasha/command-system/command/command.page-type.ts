@@ -14,9 +14,5 @@ export const command = {
       invariantKind: "departure",
       statement: "A command's slug is what it is invoked by.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A command is handed what it needs from outside as one value.",
-    },
   ],
 } as const satisfies PageType
