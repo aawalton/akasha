@@ -5,14 +5,14 @@ import {
   filePropertiesAt,
   importedBy,
   pageTypesIn,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,
   importersOf,
   indexIn,
-} from "../../../pages-system/indexes/index-reading.module.code.ts"
-import { type Known, knownIn } from "../../../pages-system/indexes/reaching.module.code.ts"
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,

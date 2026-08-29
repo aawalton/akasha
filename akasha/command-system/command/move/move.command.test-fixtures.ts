@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
+import { stampKept } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"

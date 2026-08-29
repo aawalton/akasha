@@ -2,8 +2,11 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
 import { indexSchema } from "../../../pages-system/indexes/index/index-schema/index-schema.index.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries.module.code.ts"
-import { indexAt, indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  indexAt,
+  indexIn,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"

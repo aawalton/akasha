@@ -9,13 +9,13 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { namedIn, pageNamed } from "../page/page-file-name/page-file-name.module.code.ts"
-import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
-import { indexImport } from "./index/index-import/index-import.index.ts"
-import { indexPath } from "./index/index-path/index-path.index.ts"
-import { indexRelation } from "./index/index-relation/index-relation.index.ts"
-import { indexSchema } from "./index/index-schema/index-schema.index.ts"
-import type { Entry, Value } from "./index-entries.module.code.ts"
+import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
+import { indexImport } from "../index/index-import/index-import.index.ts"
+import { indexPath } from "../index/index-path/index-path.index.ts"
+import { indexRelation } from "../index/index-relation/index-relation.index.ts"
+import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import type { Entry, Value } from "../index-entries/index-entries.module.code.ts"
 import {
   filePropertiesAt,
   filePropertiesIn,
@@ -29,16 +29,16 @@ import {
   slugAt,
   textAt,
   valueAt,
-} from "./index-entries.module.code.ts"
-import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
+} from "../index-entries/index-entries.module.code.ts"
+import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
   type Filing,
   overlaidOn,
   type Reading,
   readingAt,
   readingOf,
-} from "./index-surface.module.code.ts"
-import { knownIn, NOTHING_FILED, relationIn } from "./reaching.module.code.ts"
+} from "../index-surface/index-surface.module.code.ts"
+import { knownIn, NOTHING_FILED, relationIn } from "../reaching/reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
 

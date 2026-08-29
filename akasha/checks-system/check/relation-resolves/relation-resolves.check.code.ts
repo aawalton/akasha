@@ -6,14 +6,14 @@ import {
   type Value,
   valueAt,
   valueIn,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
   indexIn,
   standingAt,
   standingById,
   standingByPath,
-} from "../../../pages-system/indexes/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Known,
   knownIn,
@@ -21,7 +21,7 @@ import {
   reaches,
   recordsIn,
   type Shaped,
-} from "../../../pages-system/indexes/reaching.module.code.ts"
+} from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import {
   namedIn,
   pageNamed,

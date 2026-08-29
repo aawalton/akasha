@@ -1,14 +1,14 @@
 import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
-import { generatedProperties } from "../../../pages-system/indexes/generated-properties.module.code.ts"
+import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   importersOf,
   indexAt,
   indexIn,
-} from "../../../pages-system/indexes/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"

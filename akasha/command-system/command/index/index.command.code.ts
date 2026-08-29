@@ -1,12 +1,12 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   headOf,
   stampIn,
   unlandedIn,
-} from "../../../pages-system/indexes/index-stamp.module.code.ts"
-import { rebuiltFrom } from "../../../pages-system/indexes/indexing.module.code.ts"
+} from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { counted } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { holding } from "../../holding.module.code.ts"

@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { gitIn } from "../../testing-system/gitting.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting.module.code.ts"
+import { indexingAt, rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import {
   headOf,
   staleFor,
@@ -11,7 +12,6 @@ import {
   stampKept,
   stampSettled,
 } from "./index-stamp.module.code.ts"
-import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 
 const NOWHERE = "0000000000000000000000000000000000000000"
 

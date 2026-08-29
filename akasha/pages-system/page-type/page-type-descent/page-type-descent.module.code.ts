@@ -1,5 +1,5 @@
-import { type Value, valueAt } from "../../indexes/index-entries.module.code.ts"
-import { everyOfType } from "../../indexes/index-reading.module.code.ts"
+import { type Value, valueAt } from "../../indexes/index-entries/index-entries.module.code.ts"
+import { everyOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

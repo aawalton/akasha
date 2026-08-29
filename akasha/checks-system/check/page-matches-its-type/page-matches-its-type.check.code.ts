@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { generatedProperties } from "../../../pages-system/indexes/generated-properties.module.code.ts"
+import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
   pageTypesIn,
@@ -8,12 +8,12 @@ import {
   type Value,
   valueAt,
   valueIn,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   indexIn,
   schemaOf,
   standingAt,
-} from "../../../pages-system/indexes/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"

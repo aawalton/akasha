@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const indexing = {
   id: "01a04a62-b0ad-71cf-ae80-7af5dfb84ffd",

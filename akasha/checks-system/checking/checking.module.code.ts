@@ -7,7 +7,7 @@ import {
   everyOfType,
   everyPath,
   indexAt,
-} from "../../pages-system/indexes/index-reading.module.code.ts"
+} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,

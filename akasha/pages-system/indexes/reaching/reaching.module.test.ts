@@ -1,5 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { A, B, C, D, grounded, scratch, standing } from "./index-entries.module.test-fixtures.ts"
+import {
+  A,
+  B,
+  C,
+  D,
+  grounded,
+  scratch,
+  standing,
+} from "../index-entries/index-entries.module.test-fixtures.ts"
 import { knownIn, reaches, relationIn } from "./reaching.module.code.ts"
 
 afterAll(scratch.sweep)

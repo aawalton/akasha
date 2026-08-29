@@ -1,5 +1,8 @@
-import { valueAt } from "../../pages-system/indexes/index-entries.module.code.ts"
-import { everyOfType, idsNaming } from "../../pages-system/indexes/index-reading.module.code.ts"
+import { valueAt } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  idsNaming,
+} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { gather } from "../grouping/grouping.module.code.ts"
 

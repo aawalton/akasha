@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { id as idPage } from "../page/properties/id.text-property.ts"
-import { slug as slugPage } from "../page/properties/slug.text-property.ts"
-import type { Shaped } from "./reaching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { id as idPage } from "../../page/properties/id.text-property.ts"
+import { slug as slugPage } from "../../page/properties/slug.text-property.ts"
+import type { Shaped } from "../reaching/reaching.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"

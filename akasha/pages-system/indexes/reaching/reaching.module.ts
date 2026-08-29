@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const reaching = {
   id: "01a04f4d-00d6-727f-b504-659312870b32",

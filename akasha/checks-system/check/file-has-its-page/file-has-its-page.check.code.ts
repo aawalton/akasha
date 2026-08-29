@@ -3,8 +3,11 @@ import {
   pageTypesIn,
   pathsOf,
   valueIn,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
-import { indexIn, standingByPath } from "../../../pages-system/indexes/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  indexIn,
+  standingByPath,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"

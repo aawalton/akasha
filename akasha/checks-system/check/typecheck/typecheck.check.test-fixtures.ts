@@ -1,8 +1,11 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import { importIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
-import { headOf, stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
+import { importIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  headOf,
+  stampKept,
+} from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"

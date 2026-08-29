@@ -1,8 +1,8 @@
 import { join } from "node:path"
-import { addressIn } from "../page/page-address/page-address.module.code.ts"
-import { slugFor } from "../page-property/page-property-key/page-property-key.module.code.ts"
-import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
-import { indexRelation } from "./index/index-relation/index-relation.index.ts"
+import { addressIn } from "../../page/page-address/page-address.module.code.ts"
+import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
+import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
+import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import {
   type Entry,
   type Standing,
@@ -12,8 +12,8 @@ import {
   under,
   type Value,
   valueAt,
-} from "./index-entries.module.code.ts"
-import { type Reading, readingOf } from "./index-surface.module.code.ts"
+} from "../index-entries/index-entries.module.code.ts"
+import { type Reading, readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
 

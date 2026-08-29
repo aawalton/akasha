@@ -2,9 +2,12 @@ import {
   pageTypesIn,
   textAt,
   type Value,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
-import { indexIn, standingAt } from "../../../pages-system/indexes/index-reading.module.code.ts"
-import { namesIn } from "../../../pages-system/indexes/reaching.module.code.ts"
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  indexIn,
+  standingAt,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {

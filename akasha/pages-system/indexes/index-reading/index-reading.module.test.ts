@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { gitIn } from "../../testing-system/gitting.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting.module.code.ts"
+import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import {
   everyPath,
   importersOf,
@@ -11,7 +12,6 @@ import {
   standingById,
   standingByPath,
 } from "./index-reading.module.code.ts"
-import { stampKept } from "./index-stamp.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"

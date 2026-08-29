@@ -1,5 +1,5 @@
-import { schemaAt, textAt, valueAt } from "./index-entries.module.code.ts"
-import { indexIn, standingAt } from "./index-reading.module.code.ts"
+import { schemaAt, textAt, valueAt } from "../index-entries/index-entries.module.code.ts"
+import { indexIn, standingAt } from "../index-reading/index-reading.module.code.ts"
 
 const GENERATOR = "generator"
 

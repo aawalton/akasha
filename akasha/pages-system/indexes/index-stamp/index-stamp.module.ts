@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const indexStamp = {
   id: "01a04de3-e304-7fef-8bb0-6f9d46ccea03",
