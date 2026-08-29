@@ -24,9 +24,5 @@ export const amyEditorExtension = {
       invariantKind: "gap",
       statement: "A page type's properties and its parts name the same pages, neither one over.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A page arriving under no parent is refused before it lands, not at audit.",
-    },
   ],
 } as const satisfies Initiative
