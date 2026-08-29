@@ -1,6 +1,9 @@
 
 import { readFileSync } from "node:fs"
 
+import type { HookRegistration } from "./lib/akasha-hooks.ts"
+import { hooksFrom, hooksMerged } from "./lib/akasha-hooks.ts"
+
 const SETTINGS_RELPATH = "settings/agents.json"
 
 const EXIT_INPUT = 1
@@ -75,7 +78,20 @@ function main(): void {
     )
   }
 
-  process.stdout.write(`${JSON.stringify(parsed)}\n`)
+  const document = parsed as Record<string, unknown>
+  const root = new URL("..", import.meta.url).pathname
+  let derived: Record<string, HookRegistration[]>
+  try {
+    derived = hooksFrom(root)
+  } catch (cause) {
+    refuse(
+      `the agent hooks akasha states could not be read, so nothing is answered about what the ` +
+        `fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`,
+      EXIT_DATA
+    )
+  }
+
+  process.stdout.write(`${JSON.stringify({ ...document, hooks: hooksMerged(document["hooks"], derived) })}\n`)
 }
 
 if (import.meta.main) main()
