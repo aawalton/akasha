@@ -14,7 +14,7 @@ function initiativesIn(repo: string): Initiatives {
       slug: one.slug,
       relPath: one.path,
       parent: one.parent,
-      persona: null,
+      persona: one.persona,
     })),
   }
 }
