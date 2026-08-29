@@ -28,7 +28,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The identifiers are `id`, `slug` and `path`.",
+      statement: "The identifiers are `id` and `slug`.",
     },
     {
       invariantKind: "departure",

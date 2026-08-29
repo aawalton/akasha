@@ -171,7 +171,7 @@ export function rebuiltFrom(
     if (value !== null) held.push({ path, value })
   }
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, fileProperties))
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo))
   reconcile(join(root, "identity"), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, "path"), paths, root)
@@ -238,12 +238,8 @@ export function indexingAt(root: string, repo: string): Indexing {
       ])
       settleOver(
         root,
-        held.flatMap((one) =>
-          one.was === null ? [] : identityIn(one.was, one.path, repo, fileProperties)
-        ),
-        held.flatMap((one) =>
-          one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)
-        )
+        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo))),
+        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo)))
       )
       settleOver(
         root,

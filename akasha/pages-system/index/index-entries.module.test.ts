@@ -96,27 +96,23 @@ test("a body that will not load is answered with why rather than by throwing", (
   expect(typeof loaded.failed).toBe("string")
 })
 
-test("a value carrying its three identifiers is filed under its id, its page type and slug, and its path", () => {
+test("a value carrying its two identifiers is filed under its id and under its page type and slug", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
-  expect(identityIn(value, "/repo/a.domain.ts", "/repo", new Set())).toEqual([
+  expect(identityIn(value, "/repo/a.domain.ts", "/repo")).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
     { at: "identity/domain/slug/a.jsonl", line },
-    { at: "identity/page/path/a.domain.ts.jsonl", line },
   ])
 })
 
-test("a property held in a file is filed under the path the naming grammar gives it", () => {
+test("a page holding files is filed under no path here, a path being no identifier", () => {
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
   const line = `{"path":"deep/a.module.ts","id":"${A}"}`
 
-  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo", new Set(["code", "test"]))).toEqual([
+  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo")).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
     { at: "identity/module/slug/a.jsonl", line },
-    { at: "identity/page/path/deep/a.module.ts.jsonl", line },
-    { at: "identity/page/path/deep/a.module.code.ts.jsonl", line },
-    { at: "identity/page/path/deep/a.module.test.ts.jsonl", line },
   ])
 })
 

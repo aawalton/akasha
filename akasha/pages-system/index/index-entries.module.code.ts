@@ -117,12 +117,7 @@ export function pathsOf(
   return found
 }
 
-export function identityIn(
-  value: Value,
-  path: string,
-  repo: string,
-  fileProperties: ReadonlySet<string>
-): readonly Entry[] {
+export function identityIn(value: Value, path: string, repo: string): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
@@ -131,10 +126,6 @@ export function identityIn(
   return [
     { at: join("identity", "page", "id", `${id}.jsonl`), line },
     { at: join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line },
-    ...pathsOf(value, path, repo, fileProperties).map((one) => ({
-      at: join("identity", "page", "path", `${one}.jsonl`),
-      line,
-    })),
   ]
 }
 
