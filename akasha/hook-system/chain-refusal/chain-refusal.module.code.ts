@@ -8,3 +8,10 @@ export function refusalOver<Call>(
   }
   return null
 }
+
+export function judgingCalls<Call>(
+  callsIn: (command: string) => readonly Call[],
+  refusalFor: (call: Call) => string | null
+): (command: string) => string | null {
+  return (command) => refusalOver(callsIn(command), refusalFor)
+}

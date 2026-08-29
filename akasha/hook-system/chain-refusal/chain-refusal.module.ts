@@ -23,6 +23,11 @@ export const chainRefusal = {
       statement: "A line carrying no call at all is refused for nothing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A hook judging every call it cuts the same way binds this rather than spelling the loop, so what stands in the hook is which calls and which judgement, never how the two are put together.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here knows what a call is or why one would be refused. A hook hands in the calls it cut and the judgement it makes, and is handed back the one refusal or none.",

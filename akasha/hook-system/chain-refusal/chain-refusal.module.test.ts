@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refusalOver } from "./chain-refusal.module.code.ts"
+import { judgingCalls, refusalOver } from "./chain-refusal.module.code.ts"
 
 const NO = "no"
 
@@ -30,4 +30,21 @@ test("judging stops at the first refusal", () => {
     return refusalFor(call)
   })
   expect(seen).toEqual(["one", "no-two"])
+})
+
+test("a judgement bound to a reader of calls answers a whole line", () => {
+  const judging = judgingCalls((command: string) => command.split(" "), refusalFor)
+  expect(judging("one no-two")).toBe("no-two is refused")
+  expect(judging("one two")).toBeNull()
+})
+
+test("the calls are read from the line handed in, never from the binding", () => {
+  const seen: string[] = []
+  const judging = judgingCalls((command: string) => {
+    seen.push(command)
+    return command.split(" ")
+  }, refusalFor)
+  judging("one")
+  judging("two")
+  expect(seen).toEqual(["one", "two"])
 })

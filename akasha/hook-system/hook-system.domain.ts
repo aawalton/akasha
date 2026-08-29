@@ -11,6 +11,7 @@ export const hookSystem = {
     "module/chain-refusal",
     "module/git-calls",
     "module/hook-answer",
+    "module/hook-judging",
     "module/hook-payload",
     "module/path-showing",
     "module/settling",
