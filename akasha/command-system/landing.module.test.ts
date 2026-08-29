@@ -3,7 +3,7 @@ import { spawn, spawnSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
-import { rebuiltFrom } from "../pages-system/index/indexing.module.code.ts"
+import { rebuiltFrom } from "../pages-system/indexes/indexing.module.code.ts"
 import {
   baseOf,
   bodyAt,

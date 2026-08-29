@@ -1,5 +1,5 @@
-import { valueAt } from "../../pages-system/index/index-entries.module.code.ts"
-import { everyOfType, idsNaming } from "../../pages-system/index/index-reading.module.code.ts"
+import { valueAt } from "../../pages-system/indexes/index-entries.module.code.ts"
+import { everyOfType, idsNaming } from "../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "initiative"

@@ -1,9 +1,9 @@
-import { type Value, valueAt } from "../../pages-system/index/index-entries.module.code.ts"
+import { type Value, valueAt } from "../../pages-system/indexes/index-entries.module.code.ts"
 import {
   everyOfType,
   idsNaming,
   type Standing,
-} from "../../pages-system/index/index-reading.module.code.ts"
+} from "../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../pages-system/page-type/page-type-descent.module.code.ts"
 

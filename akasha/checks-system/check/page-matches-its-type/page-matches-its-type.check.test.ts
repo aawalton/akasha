@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "../../../pages-system/index/index-entries.module.code.ts"
+import type { Value } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import {
   declaredFor,

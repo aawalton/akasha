@@ -5,7 +5,7 @@ import {
   indexIn,
   slugsOfType,
   standingAt,
-} from "../pages-system/index/index-reading.module.code.ts"
+} from "../pages-system/indexes/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
 

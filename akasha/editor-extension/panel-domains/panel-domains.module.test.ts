@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { indexIn } from "../../pages-system/index/index-reading.module.code.ts"
+import { indexIn } from "../../pages-system/indexes/index-reading.module.code.ts"
 import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"

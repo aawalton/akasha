@@ -6,7 +6,7 @@ import {
   importersOf,
   indexIn,
   standingByPath,
-} from "../../../pages-system/index/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"

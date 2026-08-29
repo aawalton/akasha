@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { stampKept } from "../../../pages-system/index/index-stamp.module.code.ts"
+import { stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"

@@ -2,9 +2,9 @@ import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSy
 import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
-import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
-import { besideAt } from "../../pages-system/page/page-file-name.module.code.ts"
-import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
+import { addressIn } from "../page/page-address.module.code.ts"
+import { besideAt } from "../page/page-file-name.module.code.ts"
+import { slugFor } from "../page-property/page-property-key.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 

@@ -6,12 +6,12 @@ import {
   type Value,
   valueAt,
   valueIn,
-} from "../../../pages-system/index/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
   indexIn,
   schemaOf,
   standingAt,
-} from "../../../pages-system/index/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"

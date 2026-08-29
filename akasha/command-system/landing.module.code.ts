@@ -13,8 +13,8 @@ import {
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
-import { indexIn } from "../pages-system/index/index-reading.module.code.ts"
-import type { Indexing } from "../pages-system/index/indexing.module.code.ts"
+import { indexIn } from "../pages-system/indexes/index-reading.module.code.ts"
+import type { Indexing } from "../pages-system/indexes/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
 import { SCRATCH_AT } from "./scratching.module.code.ts"
 
@@ -48,9 +48,9 @@ const CHECKING = "../checks-system/checking.module.code.ts"
 
 export const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
 
-const INDEXING = "../pages-system/index/indexing.module.code.ts"
+const INDEXING = "../pages-system/indexes/indexing.module.code.ts"
 
-export const INDEXING_AT = "akasha/pages-system/index/indexing.module.code.ts"
+export const INDEXING_AT = "akasha/pages-system/indexes/indexing.module.code.ts"
 
 const PATCH = "patch"
 

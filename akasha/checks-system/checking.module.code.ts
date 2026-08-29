@@ -1,7 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { everyOfType, everyPath, indexIn } from "../pages-system/index/index-reading.module.code.ts"
+import {
+  everyOfType,
+  everyPath,
+  indexIn,
+} from "../pages-system/indexes/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import { besideAt, namedIn } from "../pages-system/page/page-file-name.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"

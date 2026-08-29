@@ -4,12 +4,12 @@ import {
   pageTypesIn,
   reaches,
   valueIn,
-} from "../../../pages-system/index/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
   idsNaming,
   indexIn,
   standingById,
-} from "../../../pages-system/index/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"

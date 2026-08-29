@@ -7,13 +7,13 @@ import {
   type Known,
   knownIn,
   pageTypesIn,
-} from "../../../pages-system/index/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
   everyOfType,
   everyPath,
   importersOf,
   indexIn,
-} from "../../../pages-system/index/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
 import { besideAt, heldIn, namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"

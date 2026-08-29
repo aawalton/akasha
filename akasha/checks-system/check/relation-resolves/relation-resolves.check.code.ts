@@ -12,14 +12,14 @@ import {
   type Value,
   valueAt,
   valueIn,
-} from "../../../pages-system/index/index-entries.module.code.ts"
+} from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
   idsNaming,
   indexIn,
   standingAt,
   standingById,
   standingByPath,
-} from "../../../pages-system/index/index-reading.module.code.ts"
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
