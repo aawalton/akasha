@@ -1,15 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync, spawn, spawnSync } from "node:child_process"
-import {
-  existsSync,
-  mkdirSync,
-  mkdtempSync,
-  readdirSync,
-  readFileSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { rebuiltFrom } from "../data-system/index/indexing.module.code.ts"
@@ -23,15 +14,20 @@ import {
   oneLine,
   readingEnded,
 } from "./landing.module.code.ts"
+import { scratchWorld } from "./scratching.module.code.ts"
 
 const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
 function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-landing-"))
+  const root = scratch.rootFor("akasha-landing-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -64,7 +60,6 @@ test("a body the change does not touch is read from the base commit, not the wor
   const said = leaving.at("two.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("committed")
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("a body the change touches is read as the change would leave it", () => {
@@ -76,7 +71,6 @@ test("a body the change touches is read as the change would leave it", () => {
   const said = leaving.at("one.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("proposed")
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("a body the change takes away reads as gone rather than as what stands", () => {
@@ -87,7 +81,6 @@ test("a body the change takes away reads as gone rather than as what stands", ()
   })
   expect(leaving.at("one.txt")).toBeNull()
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for byte", () => {
@@ -101,7 +94,6 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
   expect(leaving.at("nul.bin")).toEqual(nul)
   expect(leaving.at("broken.bin")).toEqual(broken)
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("a path the base commit does not carry reads as nothing rather than as trouble", () => {
@@ -110,14 +102,12 @@ test("a path the base commit does not carry reads as nothing rather than as trou
   expect(bodyAt(root, base, "nowhere.txt")).toBeNull()
   expect(bodyAt(root, base, "one.txt/deeper.txt")).toBeNull()
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("a base that names no commit is said out loud rather than read as nothing", () => {
   const root = repoWith({ "one.txt": "committed" })
   expect(() => bodyAt(root, "0".repeat(40), "one.txt")).toThrow("names no commit")
   readingEnded()
-  rmSync(root, { recursive: true })
 })
 
 test("reading a body the base commit does not carry says nothing on stderr", () => {
@@ -136,7 +126,6 @@ readingEnded()`,
   )
   expect(said.stderr).toBe("")
   expect(said.status).toBe(0)
-  rmSync(root, { recursive: true })
 })
 
 function gitOver(root: string): readonly string[] {
@@ -169,7 +158,6 @@ test("no git outlives a landing, nor one a check throws through", () => {
   )
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
-  rmSync(root, { recursive: true })
 })
 
 async function until(said: () => boolean, waited = 10000): Promise<boolean> {
@@ -194,7 +182,6 @@ setInterval(() => {}, 1000)`,
   expect(await until(() => gitOver(root).length === 1)).toBe(true)
   kid.kill("SIGKILL")
   expect(await until(() => gitOver(root).length === 0)).toBe(true)
-  rmSync(root, { recursive: true })
 })
 
 const ID = "01a04e11-0000-7000-8000-000000000001"
@@ -233,7 +220,6 @@ test("a landing files the index entries its page implies, with no rebuild run by
     "identity/page/path/akasha/a.domain.ts.jsonl",
   ]
   for (const at of named) expect(readFileSync(join(held, at), "utf8").trim()).toBe(LINE)
-  rmSync(root, { recursive: true })
 })
 
 test("a landing that takes a page away takes its index entries with it", () => {
@@ -244,14 +230,12 @@ test("a landing that takes a page away takes its index entries with it", () => {
   landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
   expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(false)
   expect(existsSync(join(held, "identity/domain"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a landing no check judged keeps the index all the same", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
   expect(existsSync(join(indexIn(root), `identity/page/id/${ID}.jsonl`))).toBe(true)
-  rmSync(root, { recursive: true })
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
@@ -261,7 +245,6 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
   const said = landing(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }], "held", REFUSES)
   expect("refusals" in said).toBe(true)
   expect(everyFileUnder(indexIn(root))).toEqual(was)
-  rmSync(root, { recursive: true })
 })
 
 const butTheStamp = (found: readonly string[]): readonly string[] =>
@@ -271,11 +254,9 @@ test("the index two landings leave is the index a rebuild from those pages build
   const root = repoWith({ "seed.txt": "held" })
   landing(root, [{ path: "akasha/domain.page-type.ts", body: bytes(TYPE) }], "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
-  const rebuilt = mkdtempSync(join(tmpdir(), "akasha-rebuilt-"))
+  const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(indexIn(root))))
-  rmSync(root, { recursive: true })
-  rmSync(rebuilt, { recursive: true })
 })
 
 test("a refused change leaves nothing behind", () => {
@@ -285,7 +266,6 @@ test("a refused change leaves nothing behind", () => {
   expect("refusals" in said).toBe(true)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a refusal says nothing was written and how many changes were asked for", () => {
@@ -294,7 +274,6 @@ test("a refusal says nothing was written and how many changes were asked for", (
   const refusals = "refusals" in said ? said.refusals : []
   expect(refusals[refusals.length - 1]).toContain("nothing was written")
   expect(refusals[refusals.length - 1]).toContain("land together or not at all")
-  rmSync(root, { recursive: true })
 })
 
 test("a change that passes is written and committed onto the base it was judged against", () => {
@@ -306,7 +285,6 @@ test("a change that passes is written and committed onto the base it was judged 
   expect(said.wrote).toEqual(["new.txt"])
   expect(said.commit).not.toBeNull()
   expect(git(root, ["rev-parse", "HEAD^"]).trim()).toBe(said.base)
-  rmSync(root, { recursive: true })
 })
 
 test("a change that takes a file away removes it and commits the removal", () => {
@@ -317,7 +295,6 @@ test("a change that takes a file away removes it and commits the removal", () =>
   expect(existsSync(join(root, "two.txt"))).toBe(false)
   expect(said.took).toEqual(["two.txt"])
   expect(git(root, ["ls-files"]).trim()).toBe("one.txt")
-  rmSync(root, { recursive: true })
 })
 
 test("asking for nothing is refused rather than committed empty", () => {
@@ -326,7 +303,6 @@ test("asking for nothing is refused rather than committed empty", () => {
   const said = landing(root, [], "held", ADMITS)
   expect("refusals" in said).toBe(true)
   expect(baseOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a change asking for what already stands commits nothing", () => {
@@ -337,7 +313,6 @@ test("a change asking for what already stands commits nothing", () => {
   if ("refusals" in said) return
   expect(said.commit).toBeNull()
   expect(baseOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("the checks are shown every path the change touches", () => {
@@ -360,7 +335,6 @@ test("the checks are shown every path the change touches", () => {
     watching
   )
   expect(seen).toEqual(["a.txt", "b.txt"])
-  rmSync(root, { recursive: true })
 })
 
 test("the gate reaches the checks late, and a root carrying no check index will not build one", () => {
@@ -370,7 +344,6 @@ test("the gate reaches the checks late, and a root carrying no check index will 
   const why = "broken" in said ? said.broken : ""
   expect(why).toContain("identity/check/slug")
   expect(why).not.toContain("a gate is built from")
-  rmSync(root, { recursive: true })
 })
 
 test("a gate that could not be built judges nothing rather than passing everything", () => {
