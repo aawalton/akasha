@@ -10,6 +10,7 @@ export const hookSystem = {
     "module/bun-calls",
     "module/git-calls",
     "module/hook-answer",
+    "module/hook-payload",
     "module/settling",
     "module/shell-calls",
   ],
