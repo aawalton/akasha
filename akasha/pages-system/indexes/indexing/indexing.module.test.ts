@@ -209,7 +209,7 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
 
-const CORPUS = join(rootOf(import.meta.dir) ?? "", "akasha")
+const CORPUS = join(rootOf(import.meta.dir), "akasha")
 
 function everyBodyUnder(at: string): readonly string[] {
   const found: string[] = []

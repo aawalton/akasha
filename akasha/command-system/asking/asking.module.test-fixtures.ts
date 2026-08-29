@@ -15,7 +15,7 @@ export const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const ADMITS_AT = "akasha/admits.check*"
 
-const REPO_AT = rootOf(import.meta.dir) ?? ""
+const REPO_AT = rootOf(import.meta.dir)
 
 const MODULES = "node_modules"
 

@@ -50,7 +50,7 @@ export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.t
 
 export const INDEXING_AT = "akasha/pages-system/indexes/indexing/indexing.module.code.ts"
 
-const HERE = rootOf(import.meta.path) ?? ""
+const HERE = rootOf(import.meta.path)
 
 const CHECKING = join(HERE, CHECKING_AT)
 

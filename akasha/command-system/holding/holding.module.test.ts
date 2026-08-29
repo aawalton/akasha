@@ -11,7 +11,7 @@ import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 
-const HERE = rootOf(import.meta.path) ?? ""
+const HERE = rootOf(import.meta.path)
 
 const HOLDING_AT = join(HERE, "akasha/command-system/holding/holding.module.code.ts")
 

@@ -5,7 +5,7 @@ import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { formattedBody } from "./code-format.module.code.ts"
 
-const REPO_AT = rootOf(import.meta.dir) ?? ""
+const REPO_AT = rootOf(import.meta.dir)
 
 const MODULES = "node_modules"
 

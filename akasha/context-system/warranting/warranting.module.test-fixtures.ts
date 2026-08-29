@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
-const HERE = rootOf(import.meta.path) ?? ""
+const HERE = rootOf(import.meta.path)
 
 const WARRANTS_IN = "akasha/context-system/context-warrant"
 

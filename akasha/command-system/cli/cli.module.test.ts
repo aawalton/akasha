@@ -34,7 +34,7 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function checkoutOf(): string {
-  const from = rootOf(import.meta.path) ?? ""
+  const from = rootOf(import.meta.path)
   const root = scratch.rootFor("akasha-cli-")
   cpSync(join(from, "akasha"), join(root, "akasha"), { recursive: true })
   for (const one of CARRIED) cpSync(join(from, one), join(root, one))
