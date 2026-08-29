@@ -1,4 +1,3 @@
-import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
 import { addressIn } from "../page/page-address/page-address.module.code.ts"
 import { slugFor } from "../page-property/page-property-key/page-property-key.module.code.ts"
@@ -6,7 +5,6 @@ import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
 import { indexRelation } from "./index/index-relation/index-relation.index.ts"
 import {
   type Entry,
-  linesIn,
   type Standing,
   schemaAt,
   slugOf,
@@ -15,6 +13,7 @@ import {
   type Value,
   valueAt,
 } from "./index-entries.module.code.ts"
+import { type Reading, readingOf } from "./index-surface.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
 
@@ -28,8 +27,10 @@ const SAID = "pagePropertySlug"
 
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 
-function standingIn(at: string): readonly Standing[] {
-  return linesIn(at).map((one) => JSON.parse(one) as Standing)
+const ENDING = ".jsonl"
+
+function standingIn(reading: Reading, at: string): readonly Standing[] {
+  return reading.lines(at).map((one) => JSON.parse(one) as Standing)
 }
 
 export type Known = {
@@ -43,11 +44,10 @@ export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
 }
 
-function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
-  const dir = join(root, IDENTITY, pageTypeSlug, "slug")
-  if (!existsSync(dir)) return []
+function everyPageOf(reading: Reading, pageTypeSlug: string): readonly Standing[] {
+  const dir = join(IDENTITY, pageTypeSlug, "slug")
   const found: Standing[] = []
-  for (const one of readdirSync(dir)) found.push(...standingIn(join(dir, one)))
+  for (const one of reading.listing(dir)) found.push(...standingIn(reading, join(dir, one.name)))
   return found
 }
 
@@ -63,16 +63,21 @@ function fieldsIn(value: Value): readonly string[] {
   return found
 }
 
-export function knownIn(root: string, repo: string): Shaped {
+export function knownIn(
+  given: string | Reading,
+  repo: string,
+  pageOf: (path: string) => Value | null = (path) => valueAt(path, repo)
+): Shaped {
+  const reading = readingOf(given)
   const target = new Map<string, string>()
-  for (const [slug, held] of schemaAt(root)) {
+  for (const [slug, held] of schemaAt(reading)) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(slug, named)
   }
 
   const above = new Map<string, string>()
-  for (const one of everyPageOf(root, "page-type")) {
-    const value = valueAt(one.path, repo)
+  for (const one of everyPageOf(reading, "page-type")) {
+    const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
     const extendsSlug = textAt(value, "extendsSlug")
@@ -81,8 +86,8 @@ export function knownIn(root: string, repo: string): Shaped {
   const everyType = new Set<string>([...above.keys(), ...above.values()])
 
   const fields = new Map<string, readonly string[]>()
-  for (const one of everyPageOf(root, RECORD)) {
-    const value = valueAt(one.path, repo)
+  for (const one of everyPageOf(reading, RECORD)) {
+    const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
     if (slug !== null) fields.set(slug, fieldsIn(value))
@@ -113,8 +118,8 @@ export function knownIn(root: string, repo: string): Shaped {
     targetOf,
     admitting,
     at: (pageTypeSlug, slug) =>
-      standingIn(join(root, IDENTITY, pageTypeSlug, "slug", `${slug}.jsonl`)),
-    byId: (id) => standingIn(join(root, IDENTITY, "page", "id", `${id}.jsonl`))[0] ?? null,
+      standingIn(reading, join(IDENTITY, pageTypeSlug, "slug", `${slug}${ENDING}`)),
+    byId: (id) => standingIn(reading, join(IDENTITY, "page", "id", `${id}${ENDING}`))[0] ?? null,
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
   }
 }

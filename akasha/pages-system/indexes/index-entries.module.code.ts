@@ -1,4 +1,4 @@
-import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { specifiersIn } from "../../code-system/code-specifier/code-specifier.module.code.ts"
@@ -10,6 +10,9 @@ import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
 import { indexImport } from "./index/index-import/index-import.index.ts"
 import { indexPath } from "./index/index-path/index-path.index.ts"
 import { indexSchema } from "./index/index-schema/index-schema.index.ts"
+import { type Reading, readingOf } from "./index-surface.module.code.ts"
+
+const ENDING = ".jsonl"
 
 const IDENTITY = indexIdentity.indexName
 
@@ -76,12 +79,13 @@ export function valueAt(path: string, repo: string): Value | null {
   return loadedFrom(readFileSync(at, "utf8")).value
 }
 
-export function pageTypesIn(root: string): ReadonlySet<string> {
-  const dir = join(root, IDENTITY, "page-type", "slug")
-  if (!existsSync(dir)) return new Set<string>(["page-type"])
+export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
+  const dir = join(IDENTITY, "page-type", "slug")
   return new Set<string>([
     "page-type",
-    ...readdirSync(dir).map((one) => one.slice(0, -".jsonl".length)),
+    ...readingOf(given)
+      .listing(dir)
+      .map((one) => one.name.slice(0, -ENDING.length)),
   ])
 }
 
@@ -225,27 +229,22 @@ export function importIn(body: string, path: string, repo: string): readonly Ent
   return found
 }
 
-export function linesIn(at: string): readonly string[] {
-  if (!existsSync(at)) return []
-  return readFileSync(at, "utf8")
-    .split("\n")
-    .filter((one) => one !== "")
-}
-
-export function schemaAt(root: string): ReadonlyMap<string, Schema> {
-  const dir = join(root, SCHEMA, PROPERTY, "slug")
-  if (!existsSync(dir)) return new Map<string, Schema>()
+export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
+  const reading = readingOf(given)
+  const dir = join(SCHEMA, PROPERTY, "slug")
   const found = new Map<string, Schema>()
-  for (const one of readdirSync(dir)) {
-    const line = linesIn(join(dir, one))[0]
-    if (line !== undefined) found.set(one.slice(0, -".jsonl".length), JSON.parse(line) as Schema)
+  for (const one of reading.listing(dir)) {
+    const line = reading.lines(join(dir, one.name))[0]
+    if (line !== undefined) {
+      found.set(one.name.slice(0, -ENDING.length), JSON.parse(line) as Schema)
+    }
   }
   return found
 }
 
-export function filePropertiesAt(root: string): ReadonlySet<string> {
+export function filePropertiesAt(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const [slug, held] of schemaAt(root))
+  for (const [slug, held] of schemaAt(given))
     if (held.pageTypeSlug === "file-property") found.add(slug)
   return found
 }

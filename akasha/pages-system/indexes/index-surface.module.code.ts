@@ -44,6 +44,10 @@ export function readingAt(index: string): Reading {
   }
 }
 
+export function readingOf(given: string | Reading): Reading {
+  return typeof given === "string" ? readingAt(given) : given
+}
+
 export function beneath(at: string, name: string): string {
   return at === "" ? name : `${at}${SLASH}${name}`
 }

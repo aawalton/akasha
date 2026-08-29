@@ -1,4 +1,3 @@
-import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
 import { indexImport } from "./index/index-import/index-import.index.ts"
@@ -6,6 +5,7 @@ import { indexPath } from "./index/index-path/index-path.index.ts"
 import { indexRelation } from "./index/index-relation/index-relation.index.ts"
 import { indexSchema } from "./index/index-schema/index-schema.index.ts"
 import { staleFor } from "./index-stamp.module.code.ts"
+import { beneath, type Reading, readingAt, readingOf } from "./index-surface.module.code.ts"
 
 export type Standing = {
   readonly path: string
@@ -33,22 +33,7 @@ const PROPERTY = "page-property"
 
 const ENDING = ".jsonl"
 
-function named(said: unknown): string | null {
-  return typeof said === "string" ? said : null
-}
-
-function standingIn(at: string): readonly Standing[] {
-  if (!existsSync(at)) return []
-  const found: Standing[] = []
-  for (const line of readFileSync(at, "utf8").split("\n")) {
-    if (line === "") continue
-    const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
-    if (typeof said.path === "string" && typeof said.id === "string") {
-      found.push({ path: said.path, id: said.id })
-    }
-  }
-  return found
-}
+const SLUG = "slug"
 
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
@@ -58,43 +43,75 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
-export function standingAt(root: string, pageTypeSlug: string, slug: string): readonly Standing[] {
-  return standingIn(join(root, indexAt(IDENTITY, pageTypeSlug, "slug", `${slug}${ENDING}`)))
+function overIndex(given: string | Reading): Reading {
+  return readingOf(typeof given === "string" ? indexIn(given) : given)
 }
 
-export function standingById(root: string, id: string): Standing | null {
-  const found = standingIn(join(root, indexAt(IDENTITY, "page", "id", `${id}${ENDING}`)))
+function named(said: unknown): string | null {
+  return typeof said === "string" ? said : null
+}
+
+function standingIn(reading: Reading, at: string): readonly Standing[] {
+  const found: Standing[] = []
+  for (const line of reading.lines(at)) {
+    const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
+    if (typeof said.path === "string" && typeof said.id === "string") {
+      found.push({ path: said.path, id: said.id })
+    }
+  }
+  return found
+}
+
+function endingIn(said: readonly { readonly name: string }[]): readonly string[] {
+  return said
+    .map((one) => one.name)
+    .filter((one) => one.endsWith(ENDING))
+    .map((one) => one.slice(0, -ENDING.length))
+    .sort()
+}
+
+export function standingAt(
+  given: string | Reading,
+  pageTypeSlug: string,
+  slug: string
+): readonly Standing[] {
+  const reading = overIndex(given)
+  return standingIn(reading, join(IDENTITY, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+}
+
+export function standingById(given: string | Reading, id: string): Standing | null {
+  const found = standingIn(overIndex(given), join(IDENTITY, "page", "id", `${id}${ENDING}`))
   return found[0] ?? null
 }
 
-export function standingByPath(root: string, path: string): readonly Standing[] {
-  return standingIn(join(root, indexAt(PATH, `${path}${ENDING}`)))
+export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
+  return standingIn(overIndex(given), join(PATH, `${path}${ENDING}`))
 }
 
-function pathsIn(at: string): readonly string[] {
-  if (!existsSync(at)) return []
+function pathsIn(reading: Reading, at: string): readonly string[] {
   const found: string[] = []
-  for (const line of readFileSync(at, "utf8").split("\n")) {
-    if (line === "") continue
+  for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as { readonly path?: unknown }
     if (typeof said.path === "string") found.push(said.path)
   }
   return found.sort()
 }
 
-export function importersOf(root: string, path: string): readonly string[] {
+export function importersOf(
+  root: string,
+  path: string,
+  reading: Reading = readingAt(indexIn(root))
+): readonly string[] {
   const why = staleFor(root, indexIn(root))
   if (why !== null) {
     throw new Error(`which files import \`${path}\` could not be answered — ${why}`)
   }
-  return pathsIn(join(root, indexAt(IMPORT, "path", `${path}${ENDING}`)))
+  return pathsIn(reading, join(IMPORT, "path", `${path}${ENDING}`))
 }
 
-function schemaIn(at: string): readonly Schema[] {
-  if (!existsSync(at)) return []
+function schemaIn(reading: Reading, at: string): readonly Schema[] {
   const found: Schema[] = []
-  for (const line of readFileSync(at, "utf8").split("\n")) {
-    if (line === "") continue
+  for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as Record<string, unknown>
     const pageTypeSlug = named(said["pageTypeSlug"])
     if (pageTypeSlug === null) continue
@@ -106,63 +123,56 @@ function schemaIn(at: string): readonly Schema[] {
   return found
 }
 
-export function schemaOf(root: string, propertySlug: string): Schema | null {
-  const found = schemaIn(join(root, indexAt(SCHEMA, PROPERTY, "slug", `${propertySlug}${ENDING}`)))
-  return found[0] ?? null
+export function schemaOf(given: string | Reading, propertySlug: string): Schema | null {
+  const at = join(SCHEMA, PROPERTY, SLUG, `${propertySlug}${ENDING}`)
+  return schemaIn(overIndex(given), at)[0] ?? null
 }
 
-export function everyOfType(root: string, pageTypeSlug: string): readonly Standing[] {
-  const dir = join(root, indexAt(IDENTITY, pageTypeSlug, "slug"))
-  if (!existsSync(dir)) return []
+function byPath(one: Standing, two: Standing): number {
+  return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+}
+
+function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
   const found: Standing[] = []
-  for (const name of readdirSync(dir)) {
-    if (!name.endsWith(ENDING)) continue
-    found.push(...standingIn(join(dir, name)))
+  for (const one of reading.listing(dir)) {
+    if (!one.name.endsWith(ENDING)) continue
+    found.push(...standingIn(reading, join(dir, one.name)))
   }
-  return [...found].sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+  return [...found].sort(byPath)
 }
 
-export function slugsOfType(root: string, pageTypeSlug: string): readonly string[] {
-  const dir = join(root, indexAt(IDENTITY, pageTypeSlug, "slug"))
-  if (!existsSync(dir)) return []
-  return readdirSync(dir)
-    .filter((one) => one.endsWith(ENDING))
-    .map((one) => one.slice(0, -ENDING.length))
-    .sort()
+export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Standing[] {
+  const reading = overIndex(given)
+  return gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
 }
 
-export function idsNaming(root: string, id: string, propertySlug: string): readonly string[] {
-  const dir = join(root, indexAt(RELATION, "page", "id", id, propertySlug))
-  if (!existsSync(dir)) return []
-  return readdirSync(dir)
-    .filter((one) => one.endsWith(ENDING))
-    .map((one) => one.slice(0, -ENDING.length))
-    .sort()
+export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
+  return endingIn(overIndex(given).listing(join(IDENTITY, pageTypeSlug, SLUG)))
 }
 
-export function everyPage(root: string): readonly Standing[] {
-  const dir = join(root, indexAt(IDENTITY, "page", "id"))
-  if (!existsSync(dir)) return []
-  const found: Standing[] = []
-  for (const name of readdirSync(dir)) {
-    if (!name.endsWith(ENDING)) continue
-    found.push(...standingIn(join(dir, name)))
-  }
-  return [...found].sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
+export function idsNaming(
+  given: string | Reading,
+  id: string,
+  propertySlug: string
+): readonly string[] {
+  return endingIn(overIndex(given).listing(join(RELATION, "page", "id", id, propertySlug)))
 }
 
-function underneath(at: string, said: string, found: string[]): void {
-  for (const one of readdirSync(at, { withFileTypes: true })) {
-    const named = `${said}${one.name}`
-    if (one.isDirectory()) underneath(join(at, one.name), `${named}/`, found)
-    else if (one.name.endsWith(ENDING)) found.push(named.slice(0, -ENDING.length))
+export function everyPage(given: string | Reading): readonly Standing[] {
+  const reading = overIndex(given)
+  return gatheredIn(reading, join(IDENTITY, "page", "id"))
+}
+
+function underneath(reading: Reading, at: string, said: string, found: string[]): void {
+  for (const one of reading.listing(at)) {
+    const held = `${said}${one.name}`
+    if (one.directory) underneath(reading, beneath(at, one.name), `${held}/`, found)
+    else if (one.name.endsWith(ENDING)) found.push(held.slice(0, -ENDING.length))
   }
 }
 
-export function everyPath(root: string): readonly string[] {
-  const dir = join(root, indexAt(PATH))
-  if (!existsSync(dir)) return []
+export function everyPath(given: string | Reading): readonly string[] {
   const found: string[] = []
-  underneath(dir, "", found)
+  underneath(overIndex(given), PATH, "", found)
   return found.sort()
 }
