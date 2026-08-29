@@ -4,7 +4,7 @@ export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",
   pageTypeSlug: "module",
   slug: "code-specifier",
-  definition: "the text naming what a file reaches for, read from the source that names it",
+  definition: "the strings a body holds, both the ones naming a module and all of them",
   code: "ts",
   test: "ts",
   invariants: [
@@ -16,12 +16,27 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
+        "Every string a body holds is answered too, because a path is spelled in places where no module is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What names a module is a part of what a body spells, read by the same walk and answered the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A specifier is answered with where it stands, so the same reading serves a file being judged and a file being written over.",
     },
     {
       invariantKind: "departure",
       statement:
         "Specifiers are answered in the order they are written, however deep in the body they sit.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A template is no string here. Only a body's plain quoted text is answered, because nothing else can be written over without reading what fills it.",
     },
     {
       invariantKind: "absence",

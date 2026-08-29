@@ -1,7 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
-import { placedIn } from "../../../code-system/code-specifier.module.code.ts"
+import { placedIn, spelledIn } from "../../../code-system/code-specifier.module.code.ts"
 import {
+  everyPath,
   importersOf,
   indexIn,
   standingByPath,
@@ -48,7 +49,7 @@ export const surface: Surface = {
     `${FROM} and ${TO} repeat in pairs, so several bodies move in one commit.`,
     "a page states its own slug, so a move carries a body and never renames it.",
     "the `code` and `test` files standing beside what you name go with it.",
-    "the files importing what moves are repointed in the same commit.",
+    "the files naming what moves are repointed in the same commit.",
   ],
 }
 
@@ -63,7 +64,7 @@ const NO_PATHS =
   "missing is not an index naming no page"
 
 const NO_IMPORTS =
-  `\`${IMPORTS_AT}\` is not there, so what imports the moved files could not be answered and ` +
+  `\`${IMPORTS_AT}\` is not there, so what names the moved files could not be answered and ` +
   "none were repointed — an index that is missing is not an index naming no importer"
 
 const OUTSIDE_INDEX =
@@ -194,6 +195,22 @@ function specifierFor(dir: string, target: string): string {
   return said.startsWith(".") ? said : `./${said}`
 }
 
+function nextFor(
+  was: string,
+  dir: string,
+  said: string,
+  moved: ReadonlyMap<string, string>,
+  specifier: boolean
+): string | null {
+  const rooted = moved.get(said)
+  if (rooted !== undefined) return rooted
+  const landed = landedAt(was, said)
+  if (landed === null) return null
+  const there = moved.get(landed)
+  if (there !== undefined) return specifierFor(dir, there)
+  return specifier ? specifierFor(dir, landed) : null
+}
+
 export function repointed(
   was: string,
   now: string,
@@ -201,17 +218,34 @@ export function repointed(
   moved: ReadonlyMap<string, string>
 ): string {
   const dir = dirname(now)
+  const specifier = new Set(placedIn(now, text).map((one) => one.start))
   let out = ""
   let at = 0
-  for (const one of placedIn(now, text)) {
-    const landed = landedAt(was, one.text)
-    if (landed === null) continue
-    const next = specifierFor(dir, moved.get(landed) ?? landed)
-    if (next === one.text) continue
+  for (const one of spelledIn(now, text)) {
+    const next = nextFor(was, dir, one.text, moved, specifier.has(one.start))
+    if (next === null || next === one.text) continue
     out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
     at = one.end
   }
   return `${out}${text.slice(at)}`
+}
+
+function spellingOf(
+  root: string,
+  moved: ReadonlyMap<string, string>,
+  known: ReadonlySet<string>
+): readonly string[] {
+  const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
+  const found: string[] = []
+  for (const path of everyPath(root)) {
+    if (!path.endsWith(TS) || moved.has(path) || known.has(path)) continue
+    const full = join(root, path)
+    if (!existsSync(full)) continue
+    const text = textOf(readFileSync(full))
+    if (text === null) continue
+    if (names.some((name) => text.includes(name))) found.push(path)
+  }
+  return found
 }
 
 type Sided = {
@@ -319,10 +353,10 @@ function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): read
   }
   if (reached.unread !== null) report.push(reached.unread)
   else if (reached.repointed.length === 0) {
-    report.push("the index names no file importing what moved, so none needed repointing")
+    report.push("no file naming what moved needed repointing")
   } else {
     report.push(
-      `${counted(reached.repointed.length, "file")} importing what moved ` +
+      `${counted(reached.repointed.length, "file")} naming what moved ` +
         `${dry ? "would be" : "was"} repointed — ${reached.repointed.join(", ")}`
     )
   }
@@ -371,7 +405,9 @@ export function move(argv: readonly string[], given: Given): Answer {
   const reading = importingOf(root, moved)
   const repointing: string[] = []
   if ("importers" in reading) {
-    for (const path of reading.importers) {
+    const naming = new Set<string>(reading.importers)
+    for (const path of spellingOf(root, moved, naming)) naming.add(path)
+    for (const path of [...naming].sort()) {
       const full = join(root, path)
       if (!path.endsWith(TS) || !existsSync(full)) continue
       const text = textOf(readFileSync(full))
@@ -379,7 +415,7 @@ export function move(argv: readonly string[], given: Given): Answer {
         return answering(
           [],
           [
-            `${path} imports what moved and its bytes are not utf-8, so its specifiers cannot be repointed`,
+            `${path} names what moved and its bytes are not utf-8, so what it says cannot be repointed`,
           ],
           2
         )

@@ -34,6 +34,16 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
+        "A path spelled as plain text is repointed as readily as one naming a module, because a body reaches by both.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A string standing for no path that moves is left as it is, unless it names a module and the body holding it moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A file moving in the same act is repointed from its own body and never again as an importer.",
     },
     {

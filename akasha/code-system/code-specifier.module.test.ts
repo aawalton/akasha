@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { placedIn, specifiersIn } from "./code-specifier.module.code.ts"
+import { placedIn, spelledIn, specifiersIn } from "./code-specifier.module.code.ts"
 
 const AT = "akasha/held.ts"
 
@@ -53,4 +53,24 @@ test("the text of a specifier is what the placed one carries", () => {
 
 test("a body naming no module is read as naming none", () => {
   expect(placedIn(AT, "export const one = 1\n")).toEqual([])
+})
+
+test("every string a body holds is spelled, whether or not it names a module", () => {
+  const body = 'import { one } from "./one.ts"\nconst two = "../two/three.module.code.ts"\n'
+  expect(spelledIn(AT, body).map((one) => one.text)).toEqual([
+    "./one.ts",
+    "../two/three.module.code.ts",
+  ])
+  expect(specifiersIn(AT, body)).toEqual(["./one.ts"])
+})
+
+test("what a body spells carries where it stands, so it can be written over in place", () => {
+  const body = 'const one = "akasha/one/held.module.code.ts"\n'
+  const held = spelledIn(AT, body)[0]
+  if (held === undefined) throw new Error("nothing was read out of the body")
+  expect(body.slice(held.start, held.end)).toBe('"akasha/one/held.module.code.ts"')
+})
+
+test("a template is no string here, because what fills it is not read", () => {
+  expect(spelledIn(AT, "const one = `./one.ts`\n")).toEqual([])
 })
