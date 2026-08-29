@@ -1,0 +1,270 @@
+import { afterAll, expect, test } from "bun:test"
+import { appendFileSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { dirname, join } from "node:path"
+import type { Leaving } from "../../judging.module.code.ts"
+import {
+  danglingIn,
+  knownAcross,
+  namersOf,
+  relationProperties,
+  relationResolves,
+} from "./relation-resolves.check.code.ts"
+
+const INDEX = join(".git", "data", "index")
+
+const A = "akasha/t/a.note.ts"
+
+const D = "akasha/t/d.domain.ts"
+
+const E = "akasha/t/e.domain.ts"
+
+const OTHER = "akasha/t/other.domain.ts"
+
+const A_ID = "01a04d99-71ca-7e06-8000-000000000001"
+
+const D_ID = "01a04d99-71ca-7e06-8000-000000000002"
+
+const E_ID = "01a04d99-71ca-7e06-8000-000000000003"
+
+const OTHER_ID = "01a04d99-71ca-7e06-8000-000000000004"
+
+const NOWHERE_ID = "01a04d99-71ca-7e06-8000-00000000ffff"
+
+const TYPES: readonly (readonly [string, string | null])[] = [
+  ["page-type", null],
+  ["domain", "page-type/page-type"],
+  ["note", "page-type/domain"],
+]
+
+const SCHEMA: Record<string, Record<string, string | null>> = {
+  "page-type-slug": { kind: "relation", targetPageTypeSlug: "page-type", entrySlug: null },
+  "domain-slug": { kind: "relation", targetPageTypeSlug: "domain", entrySlug: null },
+  "part-slugs": { kind: "list", targetPageTypeSlug: null, entrySlug: "domain-slug" },
+  definition: { kind: "text", targetPageTypeSlug: null, entrySlug: null },
+}
+
+const held: string[] = []
+
+afterAll(() => {
+  for (const one of held) rmSync(one, { recursive: true, force: true })
+})
+
+function put(root: string, at: string, body: string): void {
+  const full = join(root, at)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, body, "utf8")
+}
+
+function filed(root: string, at: string, line: string): void {
+  const full = join(root, INDEX, at)
+  mkdirSync(dirname(full), { recursive: true })
+  appendFileSync(full, `${line}\n`, "utf8")
+}
+
+function stating(id: string, slug: string, pageTypeSlug: string, stated: string = ""): string {
+  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
+}
+
+function standing(root: string, path: string, id: string, pageTypeSlug: string, slug: string): void {
+  const line = JSON.stringify({ path, id })
+  filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
+  filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
+  filed(root, join("identity", "page", "path", `${path}.jsonl`), line)
+}
+
+function naming(root: string, target: string, propertySlug: string, id: string, path: string): void {
+  filed(root, join("relation", "page", "id", target, propertySlug, `${id}.jsonl`), JSON.stringify({ path }))
+}
+
+function rooted(carrying: boolean = true): string {
+  const root = mkdtempSync(join(tmpdir(), "akasha-relation-resolves-"))
+  held.push(root)
+  let count = 0
+  for (const [slug, extendsSlug] of TYPES) {
+    count += 1
+    const path = `akasha/t/${slug}.page-type.ts`
+    const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
+    const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
+    put(root, path, stating(id, slug, "page-type", `, extendsSlug: ${said}`))
+    standing(root, path, id, "page-type", slug)
+  }
+  for (const [slug, shape] of Object.entries(SCHEMA)) {
+    filed(root, join("schema", "page-property-type", "slug", `${slug}.jsonl`), JSON.stringify(shape))
+  }
+  if (carrying) standing(root, D, D_ID, "domain", "d")
+  return root
+}
+
+function over(root: string, changed: readonly string[], bodies: Record<string, string | null>): Leaving {
+  const encoder = new TextEncoder()
+  return {
+    root,
+    changed,
+    at: (path) => {
+      const said = bodies[path]
+      if (said === undefined || said === null) return null
+      return encoder.encode(said)
+    },
+  }
+}
+
+function note(stated: string): Record<string, string | null> {
+  return { [A]: stating(A_ID, "a", "note", stated) }
+}
+
+test("a page naming a page the index already carries is let through", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([])
+})
+
+test("a page naming a slug that reaches nothing is refused, and the refusal names the property", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/gone"')))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `gone`" },
+  ])
+})
+
+test("a bare name is looked for under every page type admitting the target", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [A], note(', domainSlug: "d"')))).toEqual([])
+  expect(relationResolves(over(root, [A], note(', domainSlug: "nope"')))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no page admitting `domain` carries the slug `nope`" },
+  ])
+})
+
+test("an id reaching no page is refused, and an id reaching one is let through", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [A], note(`, domainSlug: "${D_ID}"`)))).toEqual([])
+  expect(relationResolves(over(root, [A], note(`, domainSlug: "${NOWHERE_ID}"`)))).toEqual([
+    { path: A, reason: `states \`domain-slug\`, and no page carries the id \`${NOWHERE_ID}\`` },
+  ])
+})
+
+test("an id reaches a page the change carries, and reaches nothing it takes away", () => {
+  const root = rooted()
+  const both = { ...note(`, domainSlug: "${E_ID}"`), [E]: stating(E_ID, "e", "domain") }
+  expect(relationResolves(over(root, [A, E], both))).toEqual([])
+  const taken = { ...note(`, domainSlug: "${D_ID}"`), [D]: null }
+  expect(relationResolves(over(root, [A, D], taken))).toEqual([
+    { path: A, reason: `states \`domain-slug\`, and no page carries the id \`${D_ID}\`` },
+  ])
+})
+
+test("the page type a page states is a relation like any other", () => {
+  const root = rooted()
+  const bodies = { [A]: stating(A_ID, "a", "typo") }
+  expect(relationResolves(over(root, [A], bodies))).toEqual([
+    { path: A, reason: "states `page-type-slug`, and no page admitting `page-type` carries the slug `typo`" },
+  ])
+})
+
+test("every name in a list is judged, not only the first", () => {
+  const root = rooted()
+  const said = relationResolves(over(root, [A], note(', partSlugs: ["domain/d", "domain/gone"]')))
+  expect(said).toEqual([
+    { path: A, reason: "states `part-slugs`, and no `domain` carries the slug `gone`" },
+  ])
+})
+
+test("a property the schema does not call a relation is never resolved", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [A], note(', definition: "domain/gone"')))).toEqual([])
+})
+
+test("a page and the page it names land together when the change carries both", () => {
+  const root = rooted()
+  const bodies = {
+    ...note(', domainSlug: "domain/e"'),
+    [E]: stating(E_ID, "e", "domain"),
+  }
+  expect(relationResolves(over(root, [A, E], bodies))).toEqual([])
+  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/e"')))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `e`" },
+  ])
+})
+
+test("a change taking away a page refuses the page still naming it, though the change never names it", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  standing(root, A, A_ID, "note", "a")
+  const bodies = { ...note(', domainSlug: "domain/d"'), [D]: null }
+  expect(relationResolves(over(root, [D], bodies))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
+  ])
+})
+
+test("a change taking away the page and the page naming it together is silent", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  standing(root, A, A_ID, "note", "a")
+  expect(relationResolves(over(root, [D, A], { [A]: null, [D]: null }))).toEqual([])
+})
+
+test("a change taking away a page nothing names is silent", () => {
+  const root = rooted()
+  standing(root, OTHER, OTHER_ID, "domain", "other")
+  expect(relationResolves(over(root, [OTHER], { [OTHER]: null }))).toEqual([])
+})
+
+test("a name narrowing to more than one page is refused, not taken as reached", () => {
+  const root = rooted()
+  standing(root, OTHER, OTHER_ID, "domain", "d")
+  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([
+    {
+      path: A,
+      reason: `states \`domain-slug\`, and \`domain/d\` narrows to 2 pages and must name its page type — ${D}, ${OTHER}`,
+    },
+  ])
+})
+
+test("a change rewriting a page's slug takes the old slug away with it", () => {
+  const root = rooted()
+  const bodies = {
+    ...note(', domainSlug: "domain/d"'),
+    [D]: stating(D_ID, "renamed", "domain"),
+  }
+  expect(relationResolves(over(root, [A, D], bodies))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
+  ])
+})
+
+test("a change naming no page and taking nothing away asks the index nothing", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))).toEqual([])
+})
+
+test("which properties are relations is read from the schema in the index", () => {
+  const root = rooted()
+  const known = knownAcross(over(root, [], {}), [])
+  expect(relationProperties(root, known)).toEqual(["domain-slug", "page-type-slug", "part-slugs"])
+})
+
+test("the pages to judge for a page taken away are the ones the reverse edges name", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  standing(root, A, A_ID, "note", "a")
+  const leaving = over(root, [D], { [D]: null })
+  expect(namersOf(leaving, ["domain-slug", "part-slugs"])).toEqual([A])
+  expect(namersOf(over(root, [D], { [D]: "held" }), ["domain-slug"])).toEqual([])
+})
+
+test("a refusal is laid on the page that names, and one is raised for each name", () => {
+  const root = rooted()
+  const known = knownAcross(over(root, [], {}), [])
+  const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
+  expect(danglingIn(A, value, known).map((one) => one.reason)).toEqual([
+    "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
+    "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
+  ])
+})
+
+test("the check reads the index under the root it was given, and no other", () => {
+  const named = rooted()
+  const bare = rooted(false)
+  const bodies = note(', domainSlug: "domain/d"')
+  expect(relationResolves(over(named, [A], bodies))).toEqual([])
+  expect(relationResolves(over(bare, [A], bodies))).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
+  ])
+})
