@@ -18,6 +18,10 @@ export const amySeatSystem = {
     },
     {
       invariantKind: "gap",
+      statement: "What is observed of a seat is not committed.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Every agent hook standing in the tree is one the spawn settings carry.",
     },
     {
@@ -79,6 +83,7 @@ export const amySeatSystem = {
     "The intents above stand in the order they are to be taken. The order is forced in three places and free everywhere else. Nothing later can begin before a seat page is written under one lock, because widening an unlocked write to two destinations widens the worst race in the system. Nothing in the migration can begin before a page property can hold a value the commit does not carry, because until then there is nowhere valid to put twenty observed values. And no reader can move before the location is spelled once, or four codebases must change together and two of them would not notice being wrong.",
     "A seat's id is the agent's id. The reading record under `.git/data/reads` is keyed by it, and the directories standing there today are seat ids. A migration that reissues a seat's id discards every read that seat has recorded, and the gate refuses a body whose writer has no record of reading it. Ids carry over unchanged, or seats lose the ability to write at all.",
     "The seat page is written by a plain write with no lock and no rename, so a reader can see it half written. Every reader treats a malformed page as empty rather than as an error, so a torn read shows as a seat that does not exist. This stands today, with one writer, and is not something dual-writing would introduce. It is why the first intent is first.",
+    "What a seat holds is either declared of it or observed of it, and the old system files each property under one or the other. The split is not honoured in the storage: `turn-state` and `cost-usd` are observed and stand beside the page, while `claude-code-session-uuid` and `transcript-path` are observed and stand on it, so a session rotation rewrites and commits the page. Take the observed values off the page and what is left is identity and declarations, changing only when someone states them. That is a page in the new system's sense, and it is a smaller thing to move.",
     "Twenty of the seat's thirty-seven properties are observed rather than declared. Ten of them are ever written. Build the vocabulary for the ten and leave the rest until something writes them.",
     "The page changes about once an hour and the values beside it change about once a second. They are two problems that share a name, and the second is the one with no answer in the new system yet.",
     "The hooks standing under `tools/hooks` are carried by no settings file and fire never. What writes the values beside a seat is the supervisor heartbeat, the model gateway and the usage reader. Any plan resting on those hooks rests on nothing.",
