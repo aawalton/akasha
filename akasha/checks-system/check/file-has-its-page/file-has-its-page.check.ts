@@ -23,17 +23,22 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a page already claims a path is one index read.",
+      statement: "Whether a page claims a path is one index read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page the change itself carries claims its paths too, so a page and its files arrive together.",
+        "The index is read as this change leaves it, so a page the change carries claims its paths and a claim the change withdraws is none.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page body is read only for a path nothing in the index claims, so a change with nothing unclaimed loads no page.",
+        "A file property the change introduces names its file, because what names a file is read as the change leaves it too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What claims a path is asked of the index rather than worked out here, so this answers as the settled index will.",
     },
     {
       invariantKind: "absence",
@@ -43,11 +48,6 @@ export const fileHasItsPage = {
     {
       invariantKind: "departure",
       statement: "A path the change takes away is passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The index is read as the last landed change left it, and a claim still standing there is taken as a claim.",
     },
     {
       invariantKind: "gap",
