@@ -7,9 +7,9 @@ export const codeSystem = {
   definition: "how we write what runs",
   partSlugs: [
     "page-type/module",
-    "module/code-lint",
-    "module/code-rule",
     "module/code-specifier",
+    "module/code-rule",
     "module/code-tests",
+    "module/code-format",
   ],
 } as const satisfies Domain

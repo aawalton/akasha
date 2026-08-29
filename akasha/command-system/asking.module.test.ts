@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../checks-system/checking.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
@@ -13,6 +13,29 @@ import { scratchWorld } from "./scratching.module.code.ts"
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const ADMITS_AT = "akasha/admits.check*"
+
+const REPO_AT = join(import.meta.dir, "..", "..")
+
+const MODULES = "node_modules"
+
+const CONFIG = "biome.json"
+
+const BIOME = JSON.stringify({
+  formatter: { indentStyle: "space", indentWidth: 2, lineWidth: 100 },
+  assist: { actions: { source: { organizeImports: "on" } } },
+  javascript: { formatter: { quoteStyle: "double", semicolons: "asNeeded" } },
+})
+
+const LOOSE =
+  'import {b} from "./b.ts"\nimport {a} from "./a.ts"\nconst   x   =   1\nexport {a,b,x}\n'
+
+const TIDY =
+  'import { a } from "./a.ts"\nimport { b } from "./b.ts"\n\nconst x = 1\n\nexport { a, b, x }\n'
+
+const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
+
+const REFORMATTED =
+  "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
 
 const scratch = scratchWorld()
 
@@ -44,6 +67,14 @@ function repoWith(
   return root
 }
 
+function repoWithTheFormatter(named?: Readonly<Record<string, string>>): string {
+  const root = named === undefined ? repoWith() : repoWith(named)
+  symlinkSync(join(REPO_AT, MODULES), join(root, MODULES))
+  writeFileSync(join(root, CONFIG), BIOME)
+  put(root, ".git/info/exclude", `${ADMITS_AT}\n${MODULES}\n${CONFIG}\n`)
+  return root
+}
+
 let minted = 0
 
 function checking(root: string, slug: string, body: string, phase: Phase = "patch"): void {
@@ -57,6 +88,13 @@ const REFUSES_TAKING =
   "  return leaving.changed\n" +
   "    .filter((path) => leaving.at(path) === null)\n" +
   '    .map((path) => ({ path, reason: "a check judged this going away" }))\n' +
+  "}\n"
+
+const REFUSES_LOOSE =
+  "export function refusesLoose(leaving) {\n" +
+  "  return leaving.changed\n" +
+  '    .filter((path) => new TextDecoder().decode(leaving.at(path)).includes("   "))\n' +
+  '    .map((path) => ({ path, reason: "a check was handed a body nobody formatted" }))\n' +
   "}\n"
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
@@ -305,4 +343,66 @@ test("a dry run that breaks the glass is refused, having nothing to report", () 
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("report nothing")
+})
+
+test("a loose body lands formatted and sorted, and the report says it did", () => {
+  const root = repoWithTheFormatter()
+  const from = put(root, "body.txt", LOOSE)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
+  expect(git(root, ["show", "HEAD:akasha/two.ts"])).toBe(TIDY)
+  expect(said.report).toContain(REFORMATTED)
+})
+
+test("a body that will not parse lands whole rather than blank", () => {
+  const root = repoWithTheFormatter()
+  const from = put(root, "body.txt", BROKEN)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    givenIn(root)
+  )
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(BROKEN)
+  expect(said.report).not.toContain(REFORMATTED)
+})
+
+test("a body already formatted lands untouched, and the report says nothing extra", () => {
+  const root = repoWithTheFormatter()
+  const from = put(root, "body.txt", TIDY)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    givenIn(root)
+  )
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
+  expect(said.report).not.toContain(REFORMATTED)
+})
+
+test("a removal is carried through the formatter untouched, and nothing is said of it", () => {
+  const root = repoWithTheFormatter({
+    "akasha/one.ts": "committed\n",
+    "akasha/two.ts": "committed\n",
+  })
+  const said = write(["--remove", "akasha/two.ts", "--message", "held"], givenIn(root))
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("took away akasha/two.ts")
+  expect(said.report).not.toContain(REFORMATTED)
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+})
+
+test("a dry run gates the formatted body, so what a check judged is what would land", () => {
+  const root = repoWithTheFormatter()
+  checking(root, "refuses-loose", REFUSES_LOOSE)
+  const from = put(root, "body.txt", LOOSE)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
 })

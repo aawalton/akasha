@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judged, Judging } from "../checks-system/judging.module.code.ts"
+import { formattedBody } from "../code-system/code-format.module.code.ts"
 import type { Answer, Given } from "./calling.module.code.ts"
 import { holding } from "./holding.module.code.ts"
 import type { Change, Landed, Refused } from "./landing.module.code.ts"
@@ -40,6 +41,36 @@ export type Asked = {
 export type Trouble = {
   readonly mistaken: readonly string[]
   readonly wrong: readonly string[]
+}
+
+export type Formatting = {
+  readonly changes: readonly Change[]
+  readonly formatted: readonly string[]
+}
+
+export function formattingIn(root: string, changes: readonly Change[]): Formatting {
+  const held: Change[] = []
+  const formatted: string[] = []
+  for (const one of changes) {
+    if (one.body === null) {
+      held.push(one)
+      continue
+    }
+    const said = formattedBody(root, one.path, one.body)
+    if (!said.changed) {
+      held.push(one)
+      continue
+    }
+    held.push({ path: one.path, body: said.body })
+    formatted.push(one.path)
+  }
+  return { changes: held, formatted }
+}
+
+export function formattedSaid(paths: readonly string[]): readonly string[] {
+  return paths.map(
+    (one) => `formatted ${one} as it landed — what stands there is not what was handed in`
+  )
 }
 
 export function mistaking(said: readonly string[]): Answer {
@@ -156,9 +187,11 @@ function reportOf(
   said: Landed,
   asked: Asked,
   broken: string | null,
-  checks: number
+  checks: number,
+  formatted: readonly string[]
 ): readonly string[] {
   const found = [...asked.saying(said)]
+  found.push(...formattedSaid(formatted))
   if (asked.glass === null) {
     found.push(judgedBy(checks, asked.changes.length))
   } else {
@@ -178,13 +211,15 @@ function reported(
   said: Landed,
   asked: Asked,
   broken: string | null,
-  checks: number
+  checks: number,
+  formatted: readonly string[]
 ): readonly string[] {
   try {
-    return reportOf(said, asked, broken, checks)
+    return reportOf(said, asked, broken, checks, formatted)
   } catch (thrown) {
     return [
       ...wroteAndTook(said),
+      ...formattedSaid(formatted),
       committedLine(said),
       `the report could not be built — ${whyOf(thrown)}`,
     ]
@@ -221,17 +256,23 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
+  const formatting = formattingIn(given.root, asked.changes)
+  const held: Asked = { ...asked, changes: formatting.changes }
   const built = gateBuilt(given.root)
-  if ("broken" in built && asked.glass === null) return unloadable(built.broken)
+  if ("broken" in built && held.glass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
-  const gate = gateFor(asked, asked.glass === null && "gate" in built ? built.gate : NO_GATE)
-  if (asked.dryRun) return reporting(given.root, asked, gate)
+  const gate = gateFor(held, held.glass === null && "gate" in built ? built.gate : NO_GATE)
+  if (held.dryRun) return reporting(given.root, held, gate)
   let said: Landed | Refused
   try {
-    said = landing(given.root, asked.changes, messageWith(asked, broken), gate, given.writer)
+    said = landing(given.root, held.changes, messageWith(held, broken), gate, given.writer)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  return { report: reported(said, asked, broken, gate.named.length), refusals: [], code: 0 }
+  return {
+    report: reported(said, held, broken, gate.named.length, formatting.formatted),
+    refusals: [],
+    code: 0,
+  }
 }

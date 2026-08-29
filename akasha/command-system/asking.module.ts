@@ -29,6 +29,20 @@ export const asking = {
       statement: "A dry run gates under the hold and writes nothing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Every body is formatted before the gate sees it, so what a check counts and what a check runs is the body that lands rather than the one handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body that landed other than as it was handed in is named in the report, so a rewrite is said out loud rather than done quietly.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal is never formatted, because a body going away is no body.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },
