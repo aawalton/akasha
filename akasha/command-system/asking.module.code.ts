@@ -36,6 +36,7 @@ export type Asked = {
   readonly glass: string | null
   readonly unmoved: readonly Held[]
   readonly saying: Saying
+  readonly read?: string | null
 }
 
 export type Trouble = {
@@ -265,9 +266,20 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   if (held.dryRun) return reporting(given.root, held, gate)
   let said: Landed | Refused
   try {
-    said = landing(given.root, held.changes, messageWith(held, broken), gate, given.writer)
+    said = landing(
+      given.root,
+      held.changes,
+      messageWith(held, broken),
+      gate,
+      given.writer,
+      held.read ?? null
+    )
   } catch (thrown) {
-    return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }
+    return {
+      report: [],
+      refusals: [`nothing was committed and what was written was put back — ${whyOf(thrown)}`],
+      code: 3,
+    }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   return {

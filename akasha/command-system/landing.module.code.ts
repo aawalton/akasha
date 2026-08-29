@@ -364,21 +364,28 @@ function beforeOf(
   root: string,
   base: string,
   changed: readonly Change[]
-): Map<string, string | null> {
-  const held = new Map<string, string | null>()
-  for (const one of changed) held.set(one.path, textOf(bodyAt(root, base, one.path)))
+): Map<string, Uint8Array | null> {
+  const held = new Map<string, Uint8Array | null>()
+  for (const one of changed) held.set(one.path, bodyAt(root, base, one.path))
   return held
+}
+
+function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): void {
+  wroteOnto(
+    root,
+    [...before].map(([path, body]) => ({ path, body }))
+  )
 }
 
 function indexed(
   root: string,
   changed: readonly Change[],
-  before: ReadonlyMap<string, string | null>,
+  before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): readonly string[] {
   const held = keeping(indexIn(root), root)
   for (const one of changed) {
-    const was = before.get(one.path) ?? null
+    const was = textOf(before.get(one.path) ?? null)
     if (one.body === null) held.took(one.path, was)
     else held.wrote(one.path, TEXT.decode(one.body), was)
   }
@@ -425,13 +432,23 @@ export function landing(
   changes: readonly Change[],
   message: string,
   judging: Judging,
-  writer: string | null = null
+  writer: string | null = null,
+  read: string | null = null
 ): Landed | Refused {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
   return holding(root, () => {
     const base = baseOf(root)
+    if (read !== null && read !== base) {
+      return {
+        refusals: [
+          `the bodies this change carries were read against \`${read}\` and this repository now ` +
+            `stands at \`${base}\`, so writing them would put back whatever moved in between`,
+          "nothing was written — ask for it again against what stands now",
+        ],
+      }
+    }
     const proposed = { base, changed: changes }
     const leaving = leavingOf(root, proposed)
     const before = beforeOf(root, base, changes)
@@ -445,9 +462,14 @@ export function landing(
       }
     }
     const keeping = indexingLoaded()
-    const put = wroteOnto(root, changes)
-    const noted = indexed(root, changes, before, keeping)
-    const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer, base)
-    return { base, commit, wrote: put.wrote, took: put.took, noted }
+    try {
+      const put = wroteOnto(root, changes)
+      const noted = indexed(root, changes, before, keeping)
+      const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer, base)
+      return { base, commit, wrote: put.wrote, took: put.took, noted }
+    } catch (thrown) {
+      restored(root, before)
+      throw thrown
+    }
   })
 }

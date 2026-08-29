@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { spawn, spawnSync } from "node:child_process"
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { rebuiltFrom } from "../pages-system/index/indexing.module.code.ts"
@@ -305,4 +305,60 @@ test("why a gate could not be built is carried as one line a commit trailer can 
   )
   expect(oneLine("held ".repeat(200))).toEndWith("...")
   expect(oneLine("held ".repeat(200)).length).toBe(240)
+})
+
+test("a change read against a commit the repository has moved off is refused unwritten", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const read = baseOf(root)
+  writeFileSync(join(root, "later.txt"), "later")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "second"])
+  const said = landing(
+    root,
+    [{ path: "akasha/a.domain.ts", body: bytes("moved") }],
+    "m",
+    ADMITS,
+    null,
+    read
+  )
+  expect("refusals" in said).toBe(true)
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("moved in between")
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
+})
+
+test("a change read against the commit that stands is landed", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const said = landing(
+    root,
+    [
+      { path: "akasha/a.domain.ts", body: bytes(A) },
+      { path: "akasha/b.txt", body: bytes("new") },
+    ],
+    "m",
+    ADMITS,
+    null,
+    baseOf(root)
+  )
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
+})
+
+test("what was written is put back when the landing throws after writing", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  mkdirSync(join(root, ".git/data"), { recursive: true })
+  writeFileSync(indexIn(root), "no directory stands here")
+  const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
+  expect(() =>
+    landing(
+      root,
+      [
+        { path: "akasha/a.domain.ts", body: bytes("written over") },
+        { path: "akasha/b.domain.ts", body: bytes(b) },
+      ],
+      "m",
+      ADMITS
+    )
+  ).toThrow()
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
+  expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
 })

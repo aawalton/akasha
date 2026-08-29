@@ -39,6 +39,31 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A change may state the commit its bodies were read against, and one read against a commit the repository has moved off is refused unwritten rather than written over what moved.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A change stating no commit it was read against is taken as read against what stands, because a body given from outside was never read from this repository at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What was written is put back when anything after the writing throws, so a call that commits nothing leaves nothing behind either.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is put back is the base commit's bodies, so a body standing apart from the base before the writing is not the body put back.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The index is not put back with the bodies, so a landing that throws part way through settling leaves it to be built again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One hold spans reading the base, judging, writing, indexing and committing.",
     },
     {

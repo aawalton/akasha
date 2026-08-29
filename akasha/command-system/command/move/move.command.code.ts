@@ -11,6 +11,7 @@ import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
+import { baseOf } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
@@ -375,6 +376,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
+  const stood = baseOf(root)
   const sided = sidedIn(root, given, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
@@ -439,6 +441,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     dryRun: read.dryRun,
     glass: glass.glass,
     unmoved: [],
+    read: stood,
     saying: () => carrying(sided.sides, reached, false),
   }
   const landed = landingAsked({ ...given, root }, asked)

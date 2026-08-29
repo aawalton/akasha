@@ -77,10 +77,11 @@ test("a landing that threw before its commit is operational rather than unclassi
   expect(headOf(root)).toBe(was)
 })
 
-test("a landing that threw before its commit leaves what it wrote outside any commit", () => {
+test("a landing that threw before its commit puts back what it wrote", () => {
   const root = repoWith()
-  landingAsked(givenIn(root), blocked(root))
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
+  const said = landingAsked(givenIn(root), blocked(root))
+  expect(said.refusals.join("\n")).toContain("what was written was put back")
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(git(root, ["ls-tree", "--name-only", "HEAD", "akasha/two.ts"]).trim()).toBe("")
 })
 
