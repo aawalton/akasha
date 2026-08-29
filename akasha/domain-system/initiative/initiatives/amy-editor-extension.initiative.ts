@@ -10,19 +10,19 @@ export const amyEditorExtension = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Every initiative the akasha system holds is drawn in the work panel.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "An initiative is drawn beneath the initiative it stands under.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Nothing the work panel draws comes from outside the akasha folder.",
     },
     {
       invariantKind: "gap",
       statement: "The old system carries no initiative.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An initiative's persona is drawn beside it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A seat's initiative is one the akasha system holds.",
     },
   ],
 } as const satisfies Initiative
