@@ -8,6 +8,7 @@ export const hookSystem = {
   partSlugs: [
     "page-type/agent-hook",
     "module/bun-calls",
+    "module/chain-refusal",
     "module/git-calls",
     "module/hook-answer",
     "module/hook-payload",

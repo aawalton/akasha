@@ -1,3 +1,4 @@
+import { refusalOver } from "../../chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
 import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
@@ -175,11 +176,7 @@ export function refusalFor(call: GitCall): string | null {
 }
 
 export function refusalIn(command: string): string | null {
-  for (const call of gitCallsIn(command)) {
-    const reason = refusalFor(call)
-    if (reason !== null) return reason
-  }
-  return null
+  return refusalOver(gitCallsIn(command), refusalFor)
 }
 
 if (import.meta.main) {
