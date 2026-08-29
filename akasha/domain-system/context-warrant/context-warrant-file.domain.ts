@@ -11,6 +11,7 @@ export const contextWarrantFile = {
     "domain/context-warrant-file-page-type",
     "domain/context-warrant-file-property",
     "domain/context-warrant-file-property-file",
+    "domain/context-warrant-file-import",
   ],
   design: [
     {
