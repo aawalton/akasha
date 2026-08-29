@@ -3,15 +3,15 @@ import type { PageType } from "../../pages-system/page-type/page-type.page-type.
 import type { Definition } from "./properties/definition.page-property-type.ts"
 import type { Invariants } from "./properties/invariants.page-property-type.ts"
 import type { PartSlugs } from "./properties/part-slugs.page-property-type.ts"
-import type { Principle } from "./properties/principle.page-property-type.ts"
-import type { Rule } from "./properties/rule.page-property-type.ts"
+import type { Principles } from "./properties/principles.page-property-type.ts"
+import type { Rules } from "./properties/rules.page-property-type.ts"
 
 export type Domain = Page & {
   definition: Definition
   partSlugs?: PartSlugs
   invariants?: Invariants
-  principle?: Principle
-  rule?: Rule
+  principles?: Principles
+  rules?: Rules
 }
 
 export const domain = {
@@ -24,8 +24,8 @@ export const domain = {
     { propertySlug: "page-property-type/definition", required: true, many: false },
     { propertySlug: "page-property-type/part-slugs", required: false, many: true },
     { propertySlug: "page-property-type/invariants", required: false, many: true },
-    { propertySlug: "page-property-type/principle", required: false, many: true },
-    { propertySlug: "page-property-type/rule", required: false, many: true },
+    { propertySlug: "page-property-type/principles", required: false, many: true },
+    { propertySlug: "page-property-type/rules", required: false, many: true },
   ],
   invariants: [
     {
@@ -54,7 +54,7 @@ export const domain = {
       statement: "An agent writes a domain's lines as well as Alan would.",
     },
   ],
-  rule: [
+  rules: [
     {
       name: "Every Changed Line",
       act: "Show Alan each line you change in a domain's definition, invariants, or directives.",

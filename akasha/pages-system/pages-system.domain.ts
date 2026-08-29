@@ -28,7 +28,7 @@ export const pagesSystem = {
       statement: "What makes a file a page is the page type its name carries.",
     },
   ],
-  rule: [
+  rules: [
     {
       name: "Answer Or Refuse",
       act: "Refuse where you cannot answer, rather than answering as though there were nothing.",

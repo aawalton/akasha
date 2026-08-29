@@ -37,7 +37,7 @@ export const check = {
         "A check that must know more than the change it was handed asks the index, never the tree.",
     },
   ],
-  rule: [
+  rules: [
     {
       name: "Alan Approves",
       act: "Add a check to akasha only where Alan has approved that check.",

@@ -28,7 +28,7 @@ export const invariant = {
       statement: "An invariant true of every page below a domain belongs to the domain.",
     },
   ],
-  rule: [
+  rules: [
     {
       name: "Move When It Turns",
       act: "Move an invariant to the property that fits, or delete it, as soon as its truth changes.",
