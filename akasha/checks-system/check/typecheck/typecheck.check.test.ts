@@ -1,6 +1,13 @@
 import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { appendFileSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import {
+  appendFileSync,
+  mkdirSync,
+  mkdtempSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import ts from "typescript"
@@ -93,7 +100,11 @@ test("akasha TypeScript that compiles is judged clean", () => {
 
 test("a proposed body whose type does not hold is refused, and names the line", () => {
   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
-  const said = over(root, "akasha/one.ts", "export const one: number = 1\nexport const two: string = one\n")
+  const said = over(
+    root,
+    "akasha/one.ts",
+    "export const one: number = 1\nexport const two: string = one\n"
+  )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/one.ts")
   expect(said[0]?.reason).toContain("line 2")
@@ -123,7 +134,11 @@ test("a type is judged across files, so a caller is refused for a callee it no l
     "akasha/held.ts": "export function held(one: number): number {\n  return one\n}\n",
     "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
   })
-  const said = over(root, "akasha/calls.ts", 'import { held } from "./held.ts"\nexport const one = held("no")\n')
+  const said = over(
+    root,
+    "akasha/calls.ts",
+    'import { held } from "./held.ts"\nexport const one = held("no")\n'
+  )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
   rmSync(root, { recursive: true })
@@ -134,7 +149,11 @@ test("a change that would break a file it does not touch is refused, and answers
     "akasha/held.ts": "export function held(one: number): number {\n  return one\n}\n",
     "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
   })
-  const said = over(root, "akasha/held.ts", "export function held(one: string): string {\n  return one\n}\n")
+  const said = over(
+    root,
+    "akasha/held.ts",
+    "export function held(one: string): string {\n  return one\n}\n"
+  )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/calls.ts")
   expect(said[0]?.reason).toContain("does not compile")

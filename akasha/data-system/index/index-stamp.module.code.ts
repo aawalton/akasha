@@ -79,12 +79,18 @@ export function changedSince(
   head: string,
   tree: string
 ): readonly string[] | null {
-  return pathsIn(gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree]))
+  return pathsIn(
+    gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", commit, head, "--", tree])
+  )
 }
 
 export function unlandedIn(repo: string, tree: string): readonly string[] {
-  const changed = pathsIn(gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", "HEAD", "--", tree]))
-  const untracked = pathsIn(gitIn(repo, ["ls-files", "--others", "--exclude-standard", "-z", "--", tree]))
+  const changed = pathsIn(
+    gitIn(repo, ["diff", "--name-only", "--no-renames", "-z", "HEAD", "--", tree])
+  )
+  const untracked = pathsIn(
+    gitIn(repo, ["ls-files", "--others", "--exclude-standard", "-z", "--", tree])
+  )
   return [...new Set([...(changed ?? []), ...(untracked ?? [])])].sort()
 }
 

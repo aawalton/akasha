@@ -13,7 +13,10 @@ const INSIDE = "akasha/"
 
 const TS = ".ts"
 
-export function pagesTouchedBy(leaving: Leaving, pageTypes: ReadonlySet<string>): readonly string[] {
+export function pagesTouchedBy(
+  leaving: Leaving,
+  pageTypes: ReadonlySet<string>
+): readonly string[] {
   const found = new Set<string>()
   for (const path of leaving.changed) {
     if (!path.startsWith(INSIDE)) continue
@@ -32,7 +35,11 @@ export function statedBy(page: string, path: string): string {
   return `\`${tail.slice(0, at)}: "${tail.slice(at + 1)}"\``
 }
 
-export function missingFor(leaving: Leaving, page: string, fileProperties: ReadonlySet<string>): readonly Judged[] {
+export function missingFor(
+  leaving: Leaving,
+  page: string,
+  fileProperties: ReadonlySet<string>
+): readonly Judged[] {
   const bytes = leaving.at(page)
   if (bytes === null) return []
   const text = bodyOf({ root: leaving.root, path: page, bytes })

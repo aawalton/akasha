@@ -108,9 +108,7 @@ test("an edge filed under another property is not a page naming it among its par
 test("akasha-system stands under nothing, so it alone is passed over", () => {
   const root = rooted()
   standing(root, "akasha-system", ONE)
-  expect(reasonsIn(at(root, "akasha/akasha-system/akasha-system.domain.ts"))).toEqual(
-    []
-  )
+  expect(reasonsIn(at(root, "akasha/akasha-system/akasha-system.domain.ts"))).toEqual([])
 })
 
 test("a page whose page type merely descends from domain is not judged", () => {
@@ -138,18 +136,14 @@ test("a file outside the akasha folder is not this check's business", () => {
 
 test("a domain the index answers no page to is thrown on rather than passed", () => {
   const root = rooted()
-  expect(() => reasonsIn(at(root, "akasha/held.domain.ts"))).toThrow(
-    "the index answers 0 pages"
-  )
+  expect(() => reasonsIn(at(root, "akasha/held.domain.ts"))).toThrow("the index answers 0 pages")
 })
 
 test("a domain the index answers two pages to is thrown on rather than passed", () => {
   const root = rooted()
   twice(root, "held", ONE, TWO)
   edging(root, ONE, "part-slugs", TWO)
-  expect(() => reasonsIn(at(root, "akasha/held.domain.ts"))).toThrow(
-    "the index answers 2 pages"
-  )
+  expect(() => reasonsIn(at(root, "akasha/held.domain.ts"))).toThrow("the index answers 2 pages")
 })
 
 test("the check reads the index under the root it was given, and no other", () => {

@@ -1,8 +1,8 @@
+import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
 import {
   emptiedBy,
@@ -239,7 +239,9 @@ test("a bare path is refused, and the refusal says what to type instead", () => 
 
 test("--file-path with nothing after it, or another flag after it, is refused", () => {
   const ends = namedIn(["--file-path"])
-  expect("refused" in ends ? ends.refused : "").toBe("--file-path takes a path, and none follows it")
+  expect("refused" in ends ? ends.refused : "").toBe(
+    "--file-path takes a path, and none follows it"
+  )
   const flagged = namedIn(["--file-path", "--dry-run"])
   expect("refused" in flagged ? flagged.refused : "").toBe(
     "--file-path takes a path, and `--dry-run` names another flag"

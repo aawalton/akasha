@@ -126,7 +126,10 @@ export function gateBuilt(root: string): Built {
 }
 
 function gitIn(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 })
+  return execFileSync("git", ["-C", root, ...argv], {
+    encoding: "utf8",
+    maxBuffer: 64 * 1024 * 1024,
+  })
 }
 
 export function baseOf(root: string): string {
@@ -324,7 +327,10 @@ function judged(judging: Judging, leaving: Leaving): readonly Judged[] {
   }
 }
 
-function wroteOnto(root: string, changed: readonly Change[]): {
+function wroteOnto(
+  root: string,
+  changed: readonly Change[]
+): {
   readonly wrote: readonly string[]
   readonly took: readonly string[]
 } {
@@ -350,7 +356,11 @@ function textOf(body: Uint8Array | null): string | null {
   return body === null ? null : TEXT.decode(body)
 }
 
-function beforeOf(root: string, base: string, changed: readonly Change[]): Map<string, string | null> {
+function beforeOf(
+  root: string,
+  base: string,
+  changed: readonly Change[]
+): Map<string, string | null> {
   const held = new Map<string, string | null>()
   for (const one of changed) held.set(one.path, textOf(bodyAt(root, base, one.path)))
   return held

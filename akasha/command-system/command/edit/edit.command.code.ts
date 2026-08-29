@@ -5,8 +5,8 @@ import type { Held } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
-  defaultMessage,
   DRY_RUN,
+  defaultMessage,
   FILE_PATH,
   glassIn,
   landingAsked,
@@ -122,10 +122,7 @@ export function substituted(body: string, said: string, put: string): string {
   return body.slice(0, at) + put + body.slice(at + said.length)
 }
 
-type Worked =
-  | { readonly body: string }
-  | { readonly mistaken: string }
-  | { readonly wrong: string }
+type Worked = { readonly body: string } | { readonly mistaken: string } | { readonly wrong: string }
 
 function working(path: string, body: string, stated: readonly Stated[]): Worked {
   let held = body
@@ -135,7 +132,9 @@ function working(path: string, body: string, stated: readonly Stated[]): Worked 
     const put = textAt(one.put)
     if (put === null) return { mistaken: `${NEW_FILE} ${one.put} could not be read as text` }
     if (said === "") {
-      return { mistaken: `${OLD_FILE} ${one.old} is empty, and an empty passage names no place in ${path}` }
+      return {
+        mistaken: `${OLD_FILE} ${one.old} is empty, and an empty passage names no place in ${path}`,
+      }
     }
     const found = counted(held, said)
     if (found !== 1) {
@@ -205,7 +204,12 @@ export function edit(argv: readonly string[], given: Given): Answer {
 
   return landingAsked(given, {
     changes,
-    message: message.message ?? defaultMessage("edit", changes.map((one) => one.path)),
+    message:
+      message.message ??
+      defaultMessage(
+        "edit",
+        changes.map((one) => one.path)
+      ),
     dryRun: argv.includes(DRY_RUN),
     glass: glass.glass,
     unmoved,

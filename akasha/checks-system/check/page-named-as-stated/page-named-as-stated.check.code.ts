@@ -7,7 +7,7 @@ import type { Body } from "../../checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
-const NAMED =/^(.+)\.([a-z0-9-]+)\.ts$/
+const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const SCHEMA_AT = ".git/data/index/schema/page-property-type/slug"
 

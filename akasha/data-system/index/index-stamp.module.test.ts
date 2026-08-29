@@ -5,20 +5,24 @@ import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import {
   headOf,
+  staleFor,
   stampBuilt,
   stampIn,
   stampKept,
   stampSettled,
-  staleFor,
 } from "./index-stamp.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 
 const NOWHERE = "0000000000000000000000000000000000000000"
 
-const A_PAGE = 'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: null } as const\n'
+const A_PAGE =
+  'export const it = { id: "01a04de3-0000-7000-8000-00000000000a", pageTypeSlug: "page-type", slug: "a", extendsSlug: null } as const\n'
 
 function gitIn(repo: string, ...argv: readonly string[]): string {
-  return execFileSync("git", ["-C", repo, ...argv], { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] })
+  return execFileSync("git", ["-C", repo, ...argv], {
+    encoding: "utf8",
+    stdio: ["ignore", "pipe", "ignore"],
+  })
 }
 
 function repoAt(): string {

@@ -1,18 +1,26 @@
+import { expect, test } from "bun:test"
 import { execFileSync, spawnSync } from "node:child_process"
-import { appendFileSync, cpSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import {
+  appendFileSync,
+  cpSync,
+  mkdirSync,
+  mkdtempSync,
+  rmSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import {
   AUTHOR,
+  answering,
   INPUT,
   OK,
   OPERATIONAL,
-  UNCLASSIFIED,
-  answering,
   outsideOf,
   rootOf,
   saidOf,
+  UNCLASSIFIED,
 } from "./cli.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
@@ -69,7 +77,10 @@ function checkoutOf(): string {
   return root
 }
 
-function ran(root: string, argv: readonly string[]): { readonly said: string; readonly code: number } {
+function ran(
+  root: string,
+  argv: readonly string[]
+): { readonly said: string; readonly code: number } {
   const held = spawnSync(process.execPath, [join(root, DISPATCHER), ...argv], {
     encoding: "utf8",
     cwd: root,
@@ -96,7 +107,13 @@ test("the glass carries a change past checks that cannot be loaded at all", () =
   expect(gated.said).toContain(`the checks could not be loaded from ${CHECKING_AT}`)
   expect(gated.said).toContain("nothing was judged and nothing was written")
 
-  const broke = ran(root, [...naming, "--message", "held arrives", "--break-the-glass", "mid-refactor"])
+  const broke = ran(root, [
+    ...naming,
+    "--message",
+    "held arrives",
+    "--break-the-glass",
+    "mid-refactor",
+  ])
   expect(broke.code).toBe(OK)
   expect(broke.said).toContain("wrote akasha/held.ts")
   expect(broke.said).toContain("no check ran — the glass was broken for: mid-refactor")
@@ -157,7 +174,10 @@ test("a name no command carries is a caller's mistake too", () => {
   const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
   const dir = join(root, IDENTITY_AT, "command", "slug")
   mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, "read.jsonl"), `${JSON.stringify({ path: "akasha/r.command.ts", id: ID })}\n`)
+  writeFileSync(
+    join(dir, "read.jsonl"),
+    `${JSON.stringify({ path: "akasha/r.command.ts", id: ID })}\n`
+  )
   const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")

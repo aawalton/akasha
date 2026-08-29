@@ -58,9 +58,7 @@ test("a method signature named by a computed key or a string is still named in t
 })
 
 test("an optional method signature is a method signature", () => {
-  expect(reasonsIn(given("akasha/held.ts", "type One = {\n  a?(): void\n}\n"))).toHaveLength(
-    1
-  )
+  expect(reasonsIn(given("akasha/held.ts", "type One = {\n  a?(): void\n}\n"))).toHaveLength(1)
 })
 
 test("a method signature in a type literal standing as a parameter type is judged", () => {

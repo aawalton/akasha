@@ -159,9 +159,7 @@ export function pruneEmptied(root: string, gone: readonly string[]): readonly st
       if (!existsSync(at) || readdirSync(at).length > 0) continue
       rmdirSync(at)
       pruned.push(dir)
-    } catch {
-      continue
-    }
+    } catch {}
   }
   return pruned
 }
@@ -240,7 +238,9 @@ function wouldGo(
 ): readonly string[] {
   const report = paths.map((one) => `${one} would be taken away`)
   if (under.length > 0) {
-    report.push(`these stand under a directory you named and would go with it — ${under.join(", ")}`)
+    report.push(
+      `these stand under a directory you named and would go with it — ${under.join(", ")}`
+    )
   }
   if (beside.length > 0) {
     report.push(`these stand beside what you named and would go with it — ${beside.join(", ")}`)

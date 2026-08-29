@@ -1,7 +1,7 @@
+import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import { calling, commandsIn } from "./calling.module.code.ts"
 
 const COMMANDS_AT = ".git/data/index/identity/command/slug"
@@ -65,9 +65,7 @@ test("a name no command carries is refused, and the commands are listed", () => 
 })
 
 test("a name carried by more than one command is refused rather than chosen between", () => {
-  const root = rootWith([
-    { slug: "held", body: ANSWERS, also: "akasha/elsewhere/held.command.ts" },
-  ])
+  const root = rootWith([{ slug: "held", body: ANSWERS, also: "akasha/elsewhere/held.command.ts" }])
   const said = calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names more than one")
@@ -100,7 +98,7 @@ function rooted(root: string): void {
   writeFileSync(
     `${at.slice(0, -".ts".length)}.code.ts`,
     "export function index(argv, given) {\n" +
-      "  return { report: [argv.join(\" \"), given.calledAs], refusals: [], code: 0 }\n" +
+      '  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }\n' +
       "}\n"
   )
 }

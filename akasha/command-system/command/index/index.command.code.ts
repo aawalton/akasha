@@ -1,11 +1,4 @@
-import {
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  readdirSync,
-  renameSync,
-  rmSync,
-} from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
 import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import { headOf, stampIn, unlandedIn } from "../../../data-system/index/index-stamp.module.code.ts"
@@ -74,7 +67,9 @@ export function readIn(argv: readonly string[]): Read {
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\` and \`${UNLANDED}\``)
+      refusals.push(
+        `\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\` and \`${UNLANDED}\``
+      )
       continue
     }
     if (act !== null) {
@@ -200,7 +195,9 @@ function refreshing(root: string, read: { dryRun: boolean; unlanded: boolean }):
       )
     }
     report.push(
-      read.dryRun ? `nothing was put in place — ${DRY_RUN}` : `${relative(root, at)} was replaced whole`
+      read.dryRun
+        ? `nothing was put in place — ${DRY_RUN}`
+        : `${relative(root, at)} was replaced whole`
     )
     if (!read.dryRun) swapped(at, aside)
     return {

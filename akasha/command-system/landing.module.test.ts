@@ -1,25 +1,25 @@
+import { expect, test } from "bun:test"
 import { execFileSync, spawn, spawnSync } from "node:child_process"
 import {
   existsSync,
   mkdirSync,
   mkdtempSync,
-  readFileSync,
   readdirSync,
+  readFileSync,
   rmSync,
   writeFileSync,
 } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { rebuiltFrom } from "../data-system/index/indexing.module.code.ts"
 import {
-  NO_GATE,
   baseOf,
   bodyAt,
   gateBuilt,
   landing,
   leavingOf,
+  NO_GATE,
   oneLine,
   readingEnded,
 } from "./landing.module.code.ts"
@@ -375,9 +375,7 @@ test("the gate reaches the checks late, and a root carrying no check index will 
 
 test("a gate that could not be built judges nothing rather than passing everything", () => {
   expect(NO_GATE.named).toEqual([])
-  expect(
-    NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], at: () => null })
-  ).toEqual([])
+  expect(NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], at: () => null })).toEqual([])
 })
 
 test("why a gate could not be built is carried as one line a commit trailer can hold", () => {

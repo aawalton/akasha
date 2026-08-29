@@ -1,19 +1,16 @@
 import {
   existsSync,
   mkdirSync,
-  readFileSync,
   readdirSync,
+  readFileSync,
   renameSync,
-  rmSync,
   rmdirSync,
+  rmSync,
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import type { Entry, Value } from "./index-entries.module.code.ts"
-import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
 import {
-  NAMED,
-  NOTHING_FILED,
   filePropertiesAt,
   filePropertiesIn,
   identityIn,
@@ -21,12 +18,15 @@ import {
   knownIn,
   linesIn,
   loadedFrom,
+  NAMED,
+  NOTHING_FILED,
   pageTyped,
   pageTypesIn,
   relationIn,
   schemaIn,
   valueAt,
 } from "./index-entries.module.code.ts"
+import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
 
 function pruneAbove(at: string, root: string): void {
   let here = at
@@ -61,11 +61,7 @@ function keyOf(one: Entry): string {
   return `${one.at} ${one.line}`
 }
 
-function settleOver(
-  root: string,
-  was: readonly Entry[],
-  now: readonly Entry[]
-): void {
+function settleOver(root: string, was: readonly Entry[], now: readonly Entry[]): void {
   const withdrawn = new Map<string, Set<string>>()
   const added = new Map<string, Set<string>>()
   const kept = new Set(now.map(keyOf))
@@ -241,8 +237,12 @@ export function indexingAt(root: string, repo: string): Indexing {
       ])
       settleOver(
         root,
-        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo, fileProperties))),
-        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)))
+        held.flatMap((one) =>
+          one.was === null ? [] : identityIn(one.was, one.path, repo, fileProperties)
+        ),
+        held.flatMap((one) =>
+          one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)
+        )
       )
       settleOver(
         root,
@@ -251,8 +251,12 @@ export function indexingAt(root: string, repo: string): Indexing {
       )
 
       const known = knownIn(root, repo)
-      const was = held.map((one) => (one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known, repo)))
-      const now = held.map((one) => (one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)))
+      const was = held.map((one) =>
+        one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known, repo)
+      )
+      const now = held.map((one) =>
+        one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
+      )
       settleOver(
         root,
         was.flatMap((one) => one.entries),

@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
 import { indexIn, standingByPath } from "../../../data-system/index/index-reading.module.code.ts"
@@ -128,9 +128,7 @@ export function besideOf(root: string, path: string): readonly string[] {
   return found.sort()
 }
 
-export type Naming =
-  | { readonly names: readonly string[] }
-  | { readonly unread: string }
+export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
   const index = indexIn(root)
@@ -254,7 +252,9 @@ function sidedIn(
       continue
     }
     if (from === to) {
-      refusals.push(`${from} is named as both sides of a pair, so this pair asks for no move at all`)
+      refusals.push(
+        `${from} is named as both sides of a pair, so this pair asks for no move at all`
+      )
       continue
     }
     if (!existsSync(join(root, from))) {
@@ -355,11 +355,16 @@ export function move(argv: readonly string[], given: Given): Answer {
     } catch {
       return answering(
         [],
-        [`${one.from} is named \`${TS}\` and its bytes are not utf-8, so its specifiers cannot be read`],
+        [
+          `${one.from} is named \`${TS}\` and its bytes are not utf-8, so its specifiers cannot be read`,
+        ],
         2
       )
     }
-    changes.push({ path: one.to, body: new TextEncoder().encode(repointed(one.from, one.to, text, moved)) })
+    changes.push({
+      path: one.to,
+      body: new TextEncoder().encode(repointed(one.from, one.to, text, moved)),
+    })
     changes.push({ path: one.from, body: null })
   }
   const message =

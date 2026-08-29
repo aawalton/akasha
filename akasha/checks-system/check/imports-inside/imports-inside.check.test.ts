@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reasonsIn, landingOf, specifiersIn } from "./imports-inside.check.code.ts"
+import { landingOf, reasonsIn, specifiersIn } from "./imports-inside.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -104,9 +104,7 @@ test("a sibling folder whose name begins with akasha is outside the akasha folde
 })
 
 test("a specifier climbing to the repo root is refused", () => {
-  expect(reasonsIn(given("akasha/held.ts", 'import { one } from "../root.ts"\n'))).toHaveLength(
-    1
-  )
+  expect(reasonsIn(given("akasha/held.ts", 'import { one } from "../root.ts"\n'))).toHaveLength(1)
 })
 
 test("an absolute specifier is refused, because no absolute path is inside the akasha folder", () => {

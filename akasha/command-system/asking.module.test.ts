@@ -1,12 +1,12 @@
+import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import type { Asked } from "./asking.module.code.ts"
 import { committedLine, judgedBy, landingAsked, passedOver } from "./asking.module.code.ts"
-import { UNNAMED } from "./landing.module.code.ts"
 import { write } from "./command/write/write.command.code.ts"
+import { UNNAMED } from "./landing.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -177,9 +177,10 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
   const root = repoWith()
   const was = headOf(root)
   const from = put(root, "body.txt", 'import { one } from "./one.ts"\n')
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing was written")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -193,9 +194,10 @@ test("a dry run over a change the checks refuse reports the refusal", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES)
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
+    givenIn(root)
+  )
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -230,8 +232,13 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   const from = bodyIn(root)
   const said = write(
     [
-      "--file-path", "akasha/three.ts", "--content-file", from,
-      "--remove", "akasha/two.ts", "--dry-run",
+      "--file-path",
+      "akasha/three.ts",
+      "--content-file",
+      from,
+      "--remove",
+      "akasha/two.ts",
+      "--dry-run",
     ],
     givenIn(root)
   )
@@ -260,11 +267,14 @@ test("a landing whose phase runs no check says the paths landed unjudged", () =>
   rmSync(join(root, CHECKS_AT, "admits.jsonl"))
   checking(root, "later", ADMITS, "deploy")
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--message", "held",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
-  expect(said.report).toContain("no check runs at this phase, so the 1 path asked for landed unjudged")
+  expect(said.report).toContain(
+    "no check runs at this phase, so the 1 path asked for landed unjudged"
+  )
   rmSync(root, { recursive: true })
 })
 
@@ -272,10 +282,19 @@ test("breaking the glass runs no check and says so in the commit", () => {
   const root = repoWith()
   checking(root, "refuses", REFUSES)
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from,
-    "--message", "held", "--break-the-glass", "the checks are themselves broken",
-  ], givenIn(root))
+  const said = write(
+    [
+      "--file-path",
+      "akasha/two.ts",
+      "--content-file",
+      from,
+      "--message",
+      "held",
+      "--break-the-glass",
+      "the checks are themselves broken",
+    ],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
@@ -287,9 +306,18 @@ test("breaking the glass runs no check and says so in the commit", () => {
 test("a dry run that breaks the glass is refused, having nothing to report", () => {
   const root = repoWith()
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run", "--break-the-glass", "why",
-  ], givenIn(root))
+  const said = write(
+    [
+      "--file-path",
+      "akasha/two.ts",
+      "--content-file",
+      from,
+      "--dry-run",
+      "--break-the-glass",
+      "why",
+    ],
+    givenIn(root)
+  )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("report nothing")
   rmSync(root, { recursive: true })

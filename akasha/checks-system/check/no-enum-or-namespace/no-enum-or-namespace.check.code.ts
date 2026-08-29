@@ -16,7 +16,11 @@ function foundIn(at: string, text: string): readonly string[] {
     if (ts.isEnumDeclaration(node)) {
       found.push(`line ${lineOf(node)} declares \`enum ${node.name.text}\``)
     }
-    if (ts.isModuleDeclaration(node) && ts.isIdentifier(node.name) && node.name.text !== AUGMENTED) {
+    if (
+      ts.isModuleDeclaration(node) &&
+      ts.isIdentifier(node.name) &&
+      node.name.text !== AUGMENTED
+    ) {
       found.push(`line ${lineOf(node)} declares \`namespace ${node.name.text}\``)
     }
     ts.forEachChild(node, held)

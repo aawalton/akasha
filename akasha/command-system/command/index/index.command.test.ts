@@ -1,16 +1,16 @@
+import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import {
   existsSync,
   mkdirSync,
   mkdtempSync,
-  readFileSync,
   readdirSync,
+  readFileSync,
   rmSync,
   writeFileSync,
 } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import { stampIn } from "../../../data-system/index/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../data-system/index/indexing.module.code.ts"

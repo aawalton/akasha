@@ -1,7 +1,7 @@
+import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { expect, test } from "bun:test"
 import {
   checkPagesIn,
   checksAt,
@@ -128,9 +128,10 @@ test("a path the change takes away is handed to every check, and can be refused"
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
   const root = mkdtempSync(join(tmpdir(), "akasha-each-file-"))
   writeFileSync(join(root, "here.ts"), "here")
-  const said = overEachFile({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root) }, (given) => [
-    `${given.path} holds ${given.bytes.length} bytes`,
-  ])
+  const said = overEachFile(
+    { root, changed: ["gone.ts", "here.ts"], at: onDisk(root) },
+    (given) => [`${given.path} holds ${given.bytes.length} bytes`]
+  )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
   rmSync(root, { recursive: true })
 })

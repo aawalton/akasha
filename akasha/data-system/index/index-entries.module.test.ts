@@ -38,8 +38,18 @@ function grounded(): { readonly root: string; readonly repo: string } {
     mkdirSync(dirname(join(root, at)), { recursive: true })
     writeFileSync(join(root, at), `${line}\n`)
   }
-  page("domain.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" })
-  page("module.page-type.ts", { id: "2", pageTypeSlug: "page-type", slug: "module", extendsSlug: "domain" })
+  page("domain.page-type.ts", {
+    id: "1",
+    pageTypeSlug: "page-type",
+    slug: "domain",
+    extendsSlug: "page",
+  })
+  page("module.page-type.ts", {
+    id: "2",
+    pageTypeSlug: "page-type",
+    slug: "module",
+    extendsSlug: "domain",
+  })
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
   filed("schema/page-property-type/slug/code.jsonl", SCHEMA.code)
@@ -61,7 +71,10 @@ function standing(pages: Readonly<Record<string, string>>): Known {
 }
 
 test("a body exporting one object is answered with that object", () => {
-  expect(valueIn(`export const it = { id: "${A}", slug: "a" } as const\n`)).toEqual({ id: A, slug: "a" })
+  expect(valueIn(`export const it = { id: "${A}", slug: "a" } as const\n`)).toEqual({
+    id: A,
+    slug: "a",
+  })
 })
 
 test("a body that will not load is answered with why rather than by throwing", () => {
@@ -120,7 +133,13 @@ test("a property whose name is written in camel is filed under its kebab slug", 
 })
 
 test("a property type is filed under its slug with its kind, its target and its entry", () => {
-  const value = { id: A, pageTypeSlug: "page-property-type", slug: "part-slugs", kind: "list", entrySlug: "domain-slug" }
+  const value = {
+    id: A,
+    pageTypeSlug: "page-property-type",
+    slug: "part-slugs",
+    kind: "list",
+    entrySlug: "domain-slug",
+  }
 
   expect(schemaIn(value)).toEqual([
     { at: "schema/page-property-type/slug/part-slugs.jsonl", line: SCHEMA.partSlugs },
@@ -128,7 +147,12 @@ test("a property type is filed under its slug with its kind, its target and its 
 })
 
 test("a target naming its page type is filed as the slug alone", () => {
-  const value = { pageTypeSlug: "page-property-type", slug: "domain-slug", kind: "relation", targetPageTypeSlug: "page-type/domain" }
+  const value = {
+    pageTypeSlug: "page-property-type",
+    slug: "domain-slug",
+    kind: "relation",
+    targetPageTypeSlug: "page-type/domain",
+  }
 
   expect(schemaIn(value)).toEqual([
     { at: "schema/page-property-type/slug/domain-slug.jsonl", line: SCHEMA.domainSlug },
@@ -186,7 +210,9 @@ test("a property naming a page is filed under that page's id against the propert
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
 
   expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
-    entries: [{ at: `relation/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' }],
+    entries: [
+      { at: `relation/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
     refused: [],
   })
 })
@@ -200,7 +226,11 @@ test("a property naming no page is reported and files no edge", () => {
 })
 
 test("a body that will not load answers with no value rather than throwing", () => {
-  expect(valueIn(`import { oidOf } from "./reading.module.code.ts"\nexport const it = { id: oidOf("x") }\n`)).toBe(null)
+  expect(
+    valueIn(
+      `import { oidOf } from "./reading.module.code.ts"\nexport const it = { id: oidOf("x") }\n`
+    )
+  ).toBe(null)
   expect(valueIn("the new body")).toBe(null)
 })
 
@@ -208,19 +238,30 @@ test("a relative specifier is filed under the path it reaches, against the path 
   const body = 'import { one } from "../one.module.code.ts"\nexport * from "./two.module.code.ts"\n'
 
   expect(importIn(body, "/repo/akasha/deep/a.module.code.ts", "/repo")).toEqual([
-    { at: "import/path/akasha/one.module.code.ts.jsonl", line: '{"path":"akasha/deep/a.module.code.ts"}' },
-    { at: "import/path/akasha/deep/two.module.code.ts.jsonl", line: '{"path":"akasha/deep/a.module.code.ts"}' },
+    {
+      at: "import/path/akasha/one.module.code.ts.jsonl",
+      line: '{"path":"akasha/deep/a.module.code.ts"}',
+    },
+    {
+      at: "import/path/akasha/deep/two.module.code.ts.jsonl",
+      line: '{"path":"akasha/deep/a.module.code.ts"}',
+    },
   ])
 })
 
 test("a type-only import files the same edge as any other import", () => {
-  const filed = importIn('import type { One } from "./one.module.ts"\n', "akasha/a.module.code.ts", "/repo")
+  const filed = importIn(
+    'import type { One } from "./one.module.ts"\n',
+    "akasha/a.module.code.ts",
+    "/repo"
+  )
 
   expect(filed.map((one) => one.at)).toEqual(["import/path/akasha/one.module.ts.jsonl"])
 })
 
 test("a package specifier files no edge, and a file it names that does not stand files one", () => {
-  const body = 'import ts from "typescript"\nimport { x } from "node:fs"\nimport { y } from "./gone.ts"\n'
+  const body =
+    'import ts from "typescript"\nimport { x } from "node:fs"\nimport { y } from "./gone.ts"\n'
 
   expect(importIn(body, "akasha/a.module.code.ts", "/repo").map((one) => one.at)).toEqual([
     "import/path/akasha/gone.ts.jsonl",
@@ -228,7 +269,9 @@ test("a package specifier files no edge, and a file it names that does not stand
 })
 
 test("a specifier reaching above the repository root files no edge", () => {
-  expect(importIn('import { x } from "../../../away.ts"\n', "akasha/a.module.code.ts", "/repo")).toEqual([])
+  expect(
+    importIn('import { x } from "../../../away.ts"\n', "akasha/a.module.code.ts", "/repo")
+  ).toEqual([])
 })
 
 test("a file that is not TypeScript files no edge whatever its body says", () => {

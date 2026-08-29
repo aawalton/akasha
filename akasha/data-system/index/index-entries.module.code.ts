@@ -1,7 +1,7 @@
+import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, isAbsolute, join, relative } from "node:path"
 import { tmpdir } from "node:os"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 
@@ -318,7 +318,8 @@ export function knownIn(root: string, repo: string): Known {
   return {
     targetOf,
     admitting,
-    at: (pageTypeSlug, slug) => standingIn(join(root, "identity", pageTypeSlug, "slug", `${slug}.jsonl`)),
+    at: (pageTypeSlug, slug) =>
+      standingIn(join(root, "identity", pageTypeSlug, "slug", `${slug}.jsonl`)),
     byId: (id) => standingIn(join(root, "identity", "page", "id", `${id}.jsonl`))[0] ?? null,
   }
 }
@@ -348,16 +349,20 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
     const found = known.at(pageTypeSlug, slug)
     const one = only(found)
     if (one !== null) return { id: one.id }
-    if (found.length === 0) return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
+    if (found.length === 0)
+      return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
     return { refused: among(named, found) }
   }
   if (wanted === null) {
     return { refused: `\`${named}\` names no page type and its property declares no target` }
   }
-  const found = known.admitting(wanted).flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
+  const found = known
+    .admitting(wanted)
+    .flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
   const one = only(found)
   if (one !== null) return { id: one.id }
-  if (found.length === 0) return { refused: `no page admitting \`${wanted}\` carries the slug \`${named}\`` }
+  if (found.length === 0)
+    return { refused: `no page admitting \`${wanted}\` carries the slug \`${named}\`` }
   return { refused: among(named, found) }
 }
 

@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, readdirSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { staleFor } from "./index-stamp.module.code.ts"
 

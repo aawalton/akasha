@@ -1,5 +1,13 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join, relative } from "node:path"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
@@ -34,7 +42,13 @@ function put(tree: string, at: string, body: string): string {
   return path
 }
 
-function wroteText(root: string, tree: string, at: string, body: string, before: string | null): string {
+function wroteText(
+  root: string,
+  tree: string,
+  at: string,
+  body: string,
+  before: string | null
+): string {
   const path = put(tree, at, body)
   const indexing = indexingAt(root, tree)
   indexing.wrote(path, body, before)
@@ -82,7 +96,10 @@ function aType(id: string, slug: string, extendsSlug: string | null): Named {
 }
 
 function aProperty(id: string, slug: string, rest: Held): Named {
-  return [`${slug}.page-property-type.ts`, { id, pageTypeSlug: "page-property-type", slug, ...rest }]
+  return [
+    `${slug}.page-property-type.ts`,
+    { id, pageTypeSlug: "page-property-type", slug, ...rest },
+  ]
 }
 
 const NOTE = aProperty("8", "note", { kind: "relation", targetPageTypeSlug: "domain" })
@@ -197,11 +214,19 @@ test("two pages carrying one value leave two lines in one file", () => {
 test("a property type that changes its kind changes what its entry says", () => {
   const { tree, root } = grounded()
   settled(root, tree, ...NOTE, null)
-  expect(said(schemaFile(root, "note"))).toEqual({ kind: "relation", targetPageTypeSlug: "domain", entrySlug: null })
+  expect(said(schemaFile(root, "note"))).toEqual({
+    kind: "relation",
+    targetPageTypeSlug: "domain",
+    entrySlug: null,
+  })
 
   settled(root, tree, NOTE[0], aProperty("8", "note", { kind: "text" })[1], NOTE[1])
 
-  expect(said(schemaFile(root, "note"))).toEqual({ kind: "text", targetPageTypeSlug: null, entrySlug: null })
+  expect(said(schemaFile(root, "note"))).toEqual({
+    kind: "text",
+    targetPageTypeSlug: null,
+    entrySlug: null,
+  })
   clear(tree, root)
 })
 
@@ -226,7 +251,13 @@ test("a value naming its page type is filed under the target's id", () => {
 
 test("a bare value reaches a page type extending the one its property names", () => {
   const { tree, root } = grounded()
-  settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["c"] }, null)
+  settled(
+    root,
+    tree,
+    "a.domain.ts",
+    { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["c"] },
+    null
+  )
 
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
   clear(tree, root)
@@ -236,7 +267,13 @@ test("a retargeted value withdraws the edge it left", () => {
   const { tree, root } = grounded()
   const was = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
   settled(root, tree, "a.domain.ts", was, null)
-  settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }, was)
+  settled(
+    root,
+    tree,
+    "a.domain.ts",
+    { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] },
+    was
+  )
 
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
@@ -271,7 +308,8 @@ function everyFileUnder(at: string): readonly string[] {
 test("a rebuild from the pages agrees with the index a write left", () => {
   const { tree, root: landed } = bare()
   const indexing = indexingAt(landed, tree)
-  for (const [at, value] of VOCABULARY) indexing.wrote(put(tree, at, bodyOf(value)), bodyOf(value), null)
+  for (const [at, value] of VOCABULARY)
+    indexing.wrote(put(tree, at, bodyOf(value)), bodyOf(value), null)
   const b = { id: B, pageTypeSlug: "domain", slug: "b" }
   const a = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", partSlugs: ["domain/b"] }
   indexing.wrote(put(tree, "b.domain.ts", bodyOf(b)), bodyOf(b), null)
@@ -358,7 +396,13 @@ test("a page whose body will not load is reported rather than passed over", () =
 
 test("a path the index stores is relative to the repository root", () => {
   const { tree, root } = grounded()
-  settled(root, tree, "deep/a.module.ts", { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }, null)
+  settled(
+    root,
+    tree,
+    "deep/a.module.ts",
+    { id: A, pageTypeSlug: "module", slug: "a", code: "ts" },
+    null
+  )
 
   const held = everyFileUnder(root)
     .flatMap((one) => one.split("\n"))

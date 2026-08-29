@@ -1,8 +1,8 @@
+import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit } from "./edit.command.code.ts"
 
@@ -45,7 +45,11 @@ function checking(root: string, slug: string, body: string): void {
     `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOn: ["patch"],\n}\n`
   )
   put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
-  put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000002" })}\n`)
+  put(
+    root,
+    join(CHECKS_AT, `${slug}.jsonl`),
+    `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000002" })}\n`
+  )
 }
 
 const REFUSES =
@@ -88,7 +92,8 @@ test("substitutions against one file are worked in order, each against what the 
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
   const said = edit(
     [
-      "--file-path", "akasha/one.ts",
+      "--file-path",
+      "akasha/one.ts",
       ...stating(root, "a", "alpha", "beta"),
       ...stating(root, "b", "beta", "gamma"),
     ],
@@ -287,8 +292,13 @@ test("breaking the glass runs no check and says so in the commit", () => {
   checking(root, "refuses", REFUSES)
   const said = edit(
     [
-      "--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta"),
-      "--message", "held", "--break-the-glass", "the checks are themselves broken",
+      "--file-path",
+      "akasha/one.ts",
+      ...stating(root, "a", "alpha", "delta"),
+      "--message",
+      "held",
+      "--break-the-glass",
+      "the checks are themselves broken",
     ],
     givenIn(root)
   )
@@ -304,8 +314,12 @@ test("one path named twice by one call is refused", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\nbeta\n" })
   const said = edit(
     [
-      "--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta"),
-      "--file-path", "akasha/one.ts", ...stating(root, "b", "beta", "epsilon"),
+      "--file-path",
+      "akasha/one.ts",
+      ...stating(root, "a", "alpha", "delta"),
+      "--file-path",
+      "akasha/one.ts",
+      ...stating(root, "b", "beta", "epsilon"),
     ],
     givenIn(root)
   )
@@ -320,8 +334,12 @@ test("several files are one act, refused whole when one of them cannot be worked
   const was = headOf(root)
   const said = edit(
     [
-      "--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta"),
-      "--file-path", "akasha/two.ts", ...stating(root, "b", "nowhere", "epsilon"),
+      "--file-path",
+      "akasha/one.ts",
+      ...stating(root, "a", "alpha", "delta"),
+      "--file-path",
+      "akasha/two.ts",
+      ...stating(root, "b", "nowhere", "epsilon"),
     ],
     givenIn(root)
   )

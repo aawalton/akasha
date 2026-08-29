@@ -1,5 +1,4 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Asked, Held, Saying, Trouble } from "../../asking.module.code.ts"
 import {
   BREAK_GLASS,
@@ -16,6 +15,7 @@ import {
   unloadable,
   wroteAndTook,
 } from "../../asking.module.code.ts"
+import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing.module.code.ts"
 
@@ -65,7 +65,11 @@ export function outside(said: string): string {
   return `${said} is not under \`${AKASHA}/\`, and this writes nothing the checks do not address`
 }
 
-export function valuesOf(argv: readonly string[], flag: string, valued: readonly string[]): readonly (string | null)[] {
+export function valuesOf(
+  argv: readonly string[],
+  flag: string,
+  valued: readonly string[]
+): readonly (string | null)[] {
   const found: (string | null)[] = []
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
@@ -107,11 +111,15 @@ export function glassIn(
   const said = valuesOf(argv, BREAK_GLASS, valued)
   if (said.length === 0) return { glass: null }
   if (said.length > 1) {
-    return { refusals: [`${BREAK_GLASS} is given ${said.length} times, and one call bypasses once`] }
+    return {
+      refusals: [`${BREAK_GLASS} is given ${said.length} times, and one call bypasses once`],
+    }
   }
   const one = said[0]
   if (one === undefined || one === null || one.trim() === "") {
-    return { refusals: [`${BREAK_GLASS} takes the reason no check is to run, and this one is empty`] }
+    return {
+      refusals: [`${BREAK_GLASS} takes the reason no check is to run, and this one is empty`],
+    }
   }
   return { glass: one.trim() }
 }
@@ -123,15 +131,20 @@ export function messageIn(
   const said = valuesOf(argv, MESSAGE, valued)
   const from = valuesOf(argv, MESSAGE_FILE, valued)
   const refusals: string[] = []
-  if (said.length > 1) refusals.push(`${MESSAGE} is given ${said.length} times, and one commit carries one message`)
-  if (from.length > 1) refusals.push(`${MESSAGE_FILE} is given ${from.length} times, and one commit carries one message`)
+  if (said.length > 1)
+    refusals.push(`${MESSAGE} is given ${said.length} times, and one commit carries one message`)
+  if (from.length > 1)
+    refusals.push(
+      `${MESSAGE_FILE} is given ${from.length} times, and one commit carries one message`
+    )
   if (said.length > 0 && from.length > 0) {
     refusals.push(`${MESSAGE} and ${MESSAGE_FILE} each carry the message, and both are given`)
   }
   const one = said[0]
   const two = from[0]
   if (one === null) refusals.push(`${MESSAGE} takes the commit message, and none follows it`)
-  if (two === null) refusals.push(`${MESSAGE_FILE} takes a file to read the message from, and none follows it`)
+  if (two === null)
+    refusals.push(`${MESSAGE_FILE} takes a file to read the message from, and none follows it`)
   if (refusals.length > 0) return { refusals }
   let message: string | null = null
   if (typeof one === "string") message = one.trim()
@@ -140,7 +153,8 @@ export function messageIn(
     if (read === null) return { refusals: [`${MESSAGE_FILE} ${two} could not be read as text`] }
     message = read.trim()
   }
-  if (message === "") return { refusals: ["the message given is empty, and a commit says what it is for"] }
+  if (message === "")
+    return { refusals: ["the message given is empty, and a commit says what it is for"] }
   return { message }
 }
 
@@ -175,7 +189,9 @@ function readIn(argv: readonly string[]): Read {
         break
       }
       if (open !== null) {
-        refusals.push(`${FILE_PATH} ${open} is closed by no ${CONTENT_FILE} before the next ${FILE_PATH}`)
+        refusals.push(
+          `${FILE_PATH} ${open} is closed by no ${CONTENT_FILE} before the next ${FILE_PATH}`
+        )
       }
       open = value
       at += 1
@@ -241,7 +257,9 @@ export function write(argv: readonly string[], given: Given): Answer {
     seen.add(path)
     const body = bytesAt(one.from)
     if (body === null) {
-      mistaken.push(`${CONTENT_FILE} ${one.from} could not be read, so ${path} has no body to write`)
+      mistaken.push(
+        `${CONTENT_FILE} ${one.from} could not be read, so ${path} has no body to write`
+      )
       continue
     }
     changes.push({ path, body })
@@ -269,7 +287,12 @@ export function write(argv: readonly string[], given: Given): Answer {
 
   return landingAsked(given, {
     changes,
-    message: said.message ?? defaultMessage("write", changes.map((one) => one.path)),
+    message:
+      said.message ??
+      defaultMessage(
+        "write",
+        changes.map((one) => one.path)
+      ),
     dryRun: argv.includes(DRY_RUN),
     glass: glass.glass,
     unmoved: [],

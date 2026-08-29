@@ -121,10 +121,7 @@ function messageWith(asked: Asked, broken: string | null): string {
 }
 
 export function wroteAndTook(said: Landed): readonly string[] {
-  return [
-    ...said.wrote.map((one) => `wrote ${one}`),
-    ...said.took.map((one) => `took away ${one}`),
-  ]
+  return [...said.wrote.map((one) => `wrote ${one}`), ...said.took.map((one) => `took away ${one}`)]
 }
 
 export function counted(many: number, one: string): string {

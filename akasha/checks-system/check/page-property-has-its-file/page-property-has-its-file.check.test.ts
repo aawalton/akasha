@@ -35,17 +35,33 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-property-filed-"))
   held.push(root)
   for (const one of ["module", "check", "domain", "page-type"]) {
-    filed(root, join("identity", "page-type", "slug", `${one}.jsonl`), JSON.stringify({ path: "", id: "" }))
+    filed(
+      root,
+      join("identity", "page-type", "slug", `${one}.jsonl`),
+      JSON.stringify({ path: "", id: "" })
+    )
   }
   for (const one of fileProperties) {
-    filed(root, join("schema", "page-property-type", "slug", `${one}.jsonl`), JSON.stringify({ kind: "file" }))
+    filed(
+      root,
+      join("schema", "page-property-type", "slug", `${one}.jsonl`),
+      JSON.stringify({ kind: "file" })
+    )
   }
-  filed(root, join("schema", "page-property-type", "slug", "definition.jsonl"), JSON.stringify({ kind: "text" }))
+  filed(
+    root,
+    join("schema", "page-property-type", "slug", "definition.jsonl"),
+    JSON.stringify({ kind: "text" })
+  )
   return root
 }
 
 function claiming(root: string, path: string, page: string): void {
-  filed(root, join("identity", "page", "path", `${path}.jsonl`), JSON.stringify({ path: page, id: ID }))
+  filed(
+    root,
+    join("identity", "page", "path", `${path}.jsonl`),
+    JSON.stringify({ path: page, id: ID })
+  )
 }
 
 function landed(root: string): void {
@@ -58,8 +74,16 @@ function body(stated: string, slug: string = "held"): Uint8Array {
   )
 }
 
-function over(root: string, changed: readonly string[], bodies: Record<string, Uint8Array | null>): Leaving {
-  return { root, changed, at: (path) => (path in bodies ? bodies[path] ?? null : new Uint8Array(0)) }
+function over(
+  root: string,
+  changed: readonly string[],
+  bodies: Record<string, Uint8Array | null>
+): Leaving {
+  return {
+    root,
+    changed,
+    at: (path) => (path in bodies ? (bodies[path] ?? null) : new Uint8Array(0)),
+  }
 }
 
 test("a page whose stated code file stands in the change is let through", () => {
@@ -71,7 +95,9 @@ test("a page whose stated code file stands in the change is let through", () => 
 
 test("a page stating a code file that stands nowhere is refused, and the refusal names both", () => {
   const root = rooted()
-  const said = pagePropertyHasItsFile(over(root, [PAGE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], { [PAGE]: body(', code: "ts"'), [CODE]: null })
+  )
   expect(said).toEqual([
     { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
   ])
@@ -80,7 +106,9 @@ test("a page stating a code file that stands nowhere is refused, and the refusal
 test("a change taking away a code file refuses the page that still states it, though the change never names that page", () => {
   const root = rooted()
   landed(root)
-  const said = pagePropertyHasItsFile(over(root, [CODE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
+  const said = pagePropertyHasItsFile(
+    over(root, [CODE], { [PAGE]: body(', code: "ts"'), [CODE]: null })
+  )
   expect(said).toEqual([
     { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
   ])
@@ -88,13 +116,17 @@ test("a change taking away a code file refuses the page that still states it, th
 
 test("a change taking away the page and its code file together is silent", () => {
   const root = rooted()
-  expect(pagePropertyHasItsFile(over(root, [PAGE, CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
+  expect(pagePropertyHasItsFile(over(root, [PAGE, CODE], { [PAGE]: null, [CODE]: null }))).toEqual(
+    []
+  )
 })
 
 test("an empty file is a file, and presence is the whole test", () => {
   const root = rooted()
   expect(
-    pagePropertyHasItsFile(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"'), [CODE]: new Uint8Array(0) }))
+    pagePropertyHasItsFile(
+      over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"'), [CODE]: new Uint8Array(0) })
+    )
   ).toEqual([])
 })
 

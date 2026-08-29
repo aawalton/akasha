@@ -78,15 +78,31 @@ function stating(id: string, slug: string, pageTypeSlug: string, stated: string 
   return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
 }
 
-function standing(root: string, path: string, id: string, pageTypeSlug: string, slug: string): void {
+function standing(
+  root: string,
+  path: string,
+  id: string,
+  pageTypeSlug: string,
+  slug: string
+): void {
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
   filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
   filed(root, join("identity", "page", "path", `${path}.jsonl`), line)
 }
 
-function naming(root: string, target: string, propertySlug: string, id: string, path: string): void {
-  filed(root, join("relation", "page", "id", target, propertySlug, `${id}.jsonl`), JSON.stringify({ path }))
+function naming(
+  root: string,
+  target: string,
+  propertySlug: string,
+  id: string,
+  path: string
+): void {
+  filed(
+    root,
+    join("relation", "page", "id", target, propertySlug, `${id}.jsonl`),
+    JSON.stringify({ path })
+  )
 }
 
 function rooted(carrying: boolean = true): string {
@@ -103,13 +119,21 @@ function rooted(carrying: boolean = true): string {
     standing(root, path, id, "page-type", slug)
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
-    filed(root, join("schema", "page-property-type", "slug", `${slug}.jsonl`), JSON.stringify(shape))
+    filed(
+      root,
+      join("schema", "page-property-type", "slug", `${slug}.jsonl`),
+      JSON.stringify(shape)
+    )
   }
   if (carrying) standing(root, D, D_ID, "domain", "d")
   return root
 }
 
-function over(root: string, changed: readonly string[], bodies: Record<string, string | null>): Leaving {
+function over(
+  root: string,
+  changed: readonly string[],
+  bodies: Record<string, string | null>
+): Leaving {
   const encoder = new TextEncoder()
   return {
     root,
@@ -146,7 +170,10 @@ test("a bare name is looked for under every page type admitting the target", () 
   const root = rooted()
   expect(relationResolves(over(root, [A], note(', domainSlug: "d"')))).toEqual([])
   expect(relationResolves(over(root, [A], note(', domainSlug: "nope"')))).toEqual([
-    { path: A, reason: "states `domain-slug`, and no page admitting `domain` carries the slug `nope`" },
+    {
+      path: A,
+      reason: "states `domain-slug`, and no page admitting `domain` carries the slug `nope`",
+    },
   ])
 })
 
@@ -172,7 +199,10 @@ test("the page type a page states is a relation like any other", () => {
   const root = rooted()
   const bodies = { [A]: stating(A_ID, "a", "typo") }
   expect(relationResolves(over(root, [A], bodies))).toEqual([
-    { path: A, reason: "states `page-type-slug`, and no page admitting `page-type` carries the slug `typo`" },
+    {
+      path: A,
+      reason: "states `page-type-slug`, and no page admitting `page-type` carries the slug `typo`",
+    },
   ])
 })
 
@@ -248,7 +278,9 @@ test("a change rewriting a page's slug takes the old slug away with it", () => {
 
 test("a change naming no page and taking nothing away asks the index nothing", () => {
   const root = rooted()
-  expect(relationResolves(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))).toEqual([])
+  expect(
+    relationResolves(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))
+  ).toEqual([])
 })
 
 test("which properties are relations is read from the schema in the index", () => {
@@ -343,7 +375,10 @@ test("every name in a list reaching a mortal page is refused, one refusal each",
   standing(root, T, T_ID, "spark", "t")
   const said = reaching(root, ', partSlugs: ["spark/s", "spark/t"]')
   const one = "states `part-slugs`, and a page that is not mortal cannot name a mortal `spark`"
-  expect(said).toEqual([{ path: A, reason: one }, { path: A, reason: one }])
+  expect(said).toEqual([
+    { path: A, reason: one },
+    { path: A, reason: one },
+  ])
 })
 
 test("a mortal page reaching a mortal page through a target that is not is silent", () => {

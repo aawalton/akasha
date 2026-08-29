@@ -1,8 +1,8 @@
+import { expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import { write } from "./write.command.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
@@ -67,9 +67,10 @@ const bodyIn = (root: string): string => put(root, "body.txt", "proposed\n")
 test("a change that passes is written and committed", () => {
   const root = repoWith()
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--message", "held",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
+    givenIn(root)
+  )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
@@ -96,9 +97,10 @@ test("the bodies written and the paths taken away are one commit, refused togeth
   checking(root, "refuses", REFUSES)
   const was = headOf(root)
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
+    givenIn(root)
+  )
   expect(said.code).toBe(3)
   expect(existsSync(join(root, "akasha/three.ts"))).toBe(false)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("committed\n")
@@ -109,9 +111,10 @@ test("the bodies written and the paths taken away are one commit, refused togeth
 test("a removal takes the file away and commits it with the write", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/three.ts", "--content-file", from, "--remove", "akasha/two.ts"],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual([
@@ -134,9 +137,10 @@ test("a removal of what is not there is refused as data that is wrong", () => {
 test("breaking the glass with no reason is refused", () => {
   const root = repoWith()
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from, "--break-the-glass", "   ",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--break-the-glass", "   "],
+    givenIn(root)
+  )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is empty")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -189,9 +193,10 @@ test("a call asking for nothing is refused", () => {
 test("one path written and taken away by one call is refused", () => {
   const root = repoWith()
   const from = bodyIn(root)
-  const said = write([
-    "--file-path", "akasha/one.ts", "--content-file", from, "--remove", "akasha/one.ts",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/one.ts", "--content-file", from, "--remove", "akasha/one.ts"],
+    givenIn(root)
+  )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("both written and taken away")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("committed\n")
@@ -202,15 +207,23 @@ test("the message is trimmed whether it is stated or read from a file", () => {
   const root = repoWith()
   const from = bodyIn(root)
   put(root, "message.txt", "  from a file  \n")
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", from,
-    "--message-file", join(root, "message.txt"),
-  ], givenIn(root))
+  const said = write(
+    [
+      "--file-path",
+      "akasha/two.ts",
+      "--content-file",
+      from,
+      "--message-file",
+      join(root, "message.txt"),
+    ],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("from a file")
-  const also = write([
-    "--file-path", "akasha/three.ts", "--content-file", from, "--message", "  stated  ",
-  ], givenIn(root))
+  const also = write(
+    ["--file-path", "akasha/three.ts", "--content-file", from, "--message", "  stated  "],
+    givenIn(root)
+  )
   expect(also.code).toBe(0)
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("stated")
   rmSync(root, { recursive: true })
@@ -218,9 +231,10 @@ test("the message is trimmed whether it is stated or read from a file", () => {
 
 test("a content file that is not there is a caller's mistake, not a refusal by the gate", () => {
   const root = repoWith()
-  const said = write([
-    "--file-path", "akasha/two.ts", "--content-file", join(root, "nowhere.txt"),
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", join(root, "nowhere.txt")],
+    givenIn(root)
+  )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("could not be read")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
@@ -231,9 +245,10 @@ test("a body that is not text lands as the bytes it is", () => {
   const root = repoWith()
   const at = join(root, "body.bin")
   writeFileSync(at, new Uint8Array([0xff, 0xfe, 0x01, 0x02]))
-  const said = write([
-    "--file-path", "akasha/two.bin", "--content-file", at, "--message", "held",
-  ], givenIn(root))
+  const said = write(
+    ["--file-path", "akasha/two.bin", "--content-file", at, "--message", "held"],
+    givenIn(root)
+  )
   expect(said.code).toBe(0)
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([0xff, 0xfe, 0x01, 0x02])
   rmSync(root, { recursive: true })

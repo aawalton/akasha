@@ -100,7 +100,9 @@ export function checksIn(root: string): readonly Gathered[] {
     const full = join(root, path)
     const stated = statedIn(full, slug)
     if (stated === null) {
-      throw new Error(`${path} is a check page, and answers to no \`${camel(slug)}\` a runner can read`)
+      throw new Error(
+        `${path} is a check page, and answers to no \`${camel(slug)}\` a runner can read`
+      )
     }
     const runsOn = runsOnIn(stated)
     if (runsOn === null) {
@@ -109,7 +111,9 @@ export function checksIn(root: string): readonly Gathered[] {
     const beside = codeBeside(full)
     const run = runningIn(beside, slug)
     if (run === null) {
-      throw new Error(`${path} is a check page, and ${codeBeside(path)} answers to nothing that can be run`)
+      throw new Error(
+        `${path} is a check page, and ${codeBeside(path)} answers to nothing that can be run`
+      )
     }
     found.push({ slug, page: path, runsOn, run })
   }

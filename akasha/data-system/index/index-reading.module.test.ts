@@ -62,7 +62,9 @@ test("a path the index carries is answered with the page carrying it", () => {
   const root = rootAt()
   filed(root, "identity/page/path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
 
-  expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([{ path: "akasha/a.module.ts", id: A }])
+  expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([
+    { path: "akasha/a.module.ts", id: A },
+  ])
   rmSync(root, { recursive: true, force: true })
 })
 
@@ -70,7 +72,9 @@ test("a page's own path is answered with itself", () => {
   const root = rootAt()
   filed(root, "identity/page/path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
 
-  expect(standingByPath(root, "akasha/a.module.ts")).toEqual([{ path: "akasha/a.module.ts", id: A }])
+  expect(standingByPath(root, "akasha/a.module.ts")).toEqual([
+    { path: "akasha/a.module.ts", id: A },
+  ])
   rmSync(root, { recursive: true, force: true })
 })
 
@@ -96,7 +100,9 @@ test("every path the index files is answered, however deep the folders it files 
   const root = rootAt()
   filed(root, "identity/page/path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
   filed(root, "identity/page/path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
-  filed(root, "identity/page/path/akasha/held/b.module.ts.jsonl", [line("akasha/held/b.module.ts", B)])
+  filed(root, "identity/page/path/akasha/held/b.module.ts.jsonl", [
+    line("akasha/held/b.module.ts", B),
+  ])
 
   expect(everyPath(root)).toEqual([
     "akasha/a.module.code.ts",
@@ -128,7 +134,11 @@ function schemaFiled(root: string, slug: string, line: string): void {
 
 test("a relation property is answered with its kind and the page type it may name", () => {
   const root = rootAt()
-  schemaFiled(root, "domain-slug", '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}')
+  schemaFiled(
+    root,
+    "domain-slug",
+    '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}'
+  )
 
   expect(schemaOf(root, "domain-slug")).toEqual({
     kind: "relation",
@@ -149,7 +159,11 @@ test("a property that names no page is answered with a kind that is not a relati
 
 test("a list property is answered with the property its entries are", () => {
   const root = rootAt()
-  schemaFiled(root, "part-slugs", '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}')
+  schemaFiled(
+    root,
+    "part-slugs",
+    '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}'
+  )
 
   expect(schemaOf(root, "part-slugs")?.entrySlug).toBe("domain-slug")
   rmSync(root, { recursive: true, force: true })

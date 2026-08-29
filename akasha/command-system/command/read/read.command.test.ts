@@ -1,12 +1,14 @@
+import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
 import { ANSWER_CEILING, costOf, read } from "./read.command.code.ts"
 
 const CALLED_AS = "akasha read"
 
-function rootWith(named: readonly { readonly at: string; readonly body: string | Uint8Array }[]): string {
+function rootWith(
+  named: readonly { readonly at: string; readonly body: string | Uint8Array }[]
+): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-read-"))
   for (const one of named) {
     const at = join(root, one.at)
@@ -99,7 +101,9 @@ test("naming one file twice is refused before anything is read", () => {
 })
 
 test("a body that is not UTF-8 text says what it is instead of the body", () => {
-  const root = rootWith([{ at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00, 0x41]) }])
+  const root = rootWith([
+    { at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00, 0x41]) },
+  ])
   const said = read(["--file-path", "akasha/one/held.bin"], givenAt(root))
   expect(said.code).toBe(0)
   expect(said.report.length).toBe(1)

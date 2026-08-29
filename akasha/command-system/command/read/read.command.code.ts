@@ -87,9 +87,7 @@ function aiming(paths: readonly string[], given: Given): Aimed {
   for (const named of paths) {
     const absolute = resolve(named.startsWith("/") ? named : join(given.from, named))
     if (absolute !== bound && !absolute.startsWith(`${bound}/`)) {
-      refusals.push(
-        `${named} stands outside \`${INSIDE}/\`, and this reads what stands inside it`
-      )
+      refusals.push(`${named} stands outside \`${INSIDE}/\`, and this reads what stands inside it`)
       continue
     }
     if (already.has(absolute)) {

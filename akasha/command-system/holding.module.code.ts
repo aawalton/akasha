@@ -1,4 +1,12 @@
-import { closeSync, mkdirSync, openSync, readFileSync, rmSync, unlinkSync, writeSync } from "node:fs"
+import {
+  closeSync,
+  mkdirSync,
+  openSync,
+  readFileSync,
+  rmSync,
+  unlinkSync,
+  writeSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 
 export const LOCK_AT = ".git/akasha-landing.lock"

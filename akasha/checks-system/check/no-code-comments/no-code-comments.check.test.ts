@@ -12,7 +12,9 @@ test("a file carrying no comment is let through", () => {
 })
 
 test("a line of prose is refused, and names the line it stands on", () => {
-  const body = ["export const one = 1", "// this holds the count", "export const two = 2"].join("\n")
+  const body = ["export const one = 1", "// this holds the count", "export const two = 2"].join(
+    "\n"
+  )
   const said = reasonsIn(given(`${body}\n`))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 2")
@@ -37,7 +39,9 @@ test("a declared form is let through", () => {
 })
 
 test("a form another language parses stands for nothing in a TypeScript folder", () => {
-  const body = ["// shellcheck disable=SC2086", "// @noSelfInFile", "export const one = 1"].join("\n")
+  const body = ["// shellcheck disable=SC2086", "// @noSelfInFile", "export const one = 1"].join(
+    "\n"
+  )
   expect(reasonsIn(given(`${body}\n`))).toHaveLength(2)
 })
 
@@ -81,7 +85,8 @@ test("a shebang on the first line is trivia rather than a comment", () => {
 })
 
 test("a form is let through only where it stands alone, never buried in prose", () => {
-  const body = "/*\n * @deprecated use the other one\n * and this line is prose\n */\nexport const one = 1\n"
+  const body =
+    "/*\n * @deprecated use the other one\n * and this line is prose\n */\nexport const one = 1\n"
   expect(reasonsIn(given(body))).toHaveLength(1)
 })
 
@@ -97,7 +102,11 @@ test("every comment a file carries is reported, one reason each", () => {
 })
 
 test("a file that is not TypeScript is passed over", () => {
-  const held = { root: ROOT, path: "akasha/notes.md", bytes: new TextEncoder().encode("// prose\n") }
+  const held = {
+    root: ROOT,
+    path: "akasha/notes.md",
+    bytes: new TextEncoder().encode("// prose\n"),
+  }
   expect(reasonsIn(held)).toEqual([])
 })
 

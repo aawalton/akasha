@@ -8,9 +8,9 @@ function given(at: string, body: string) {
 }
 
 test("a file declaring no class is let through", () => {
-  expect(reasonsIn(given("akasha/held.ts", "export function one(): number {\n  return 1\n}\n"))).toEqual(
-    []
-  )
+  expect(
+    reasonsIn(given("akasha/held.ts", "export function one(): number {\n  return 1\n}\n"))
+  ).toEqual([])
 })
 
 test("a class declaration is refused, and the reason names the line and the class", () => {

@@ -8,7 +8,9 @@ function given(body: string) {
 }
 
 function page(id: string) {
-  return given(`export const held = {\n  id: "${id}",\n  slug: "held",\n} as const satisfies Check\n`)
+  return given(
+    `export const held = {\n  id: "${id}",\n  slug: "held",\n} as const satisfies Check\n`
+  )
 }
 
 test("a page stating a lowercase uuid version 7 is let through", () => {
