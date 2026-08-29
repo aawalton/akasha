@@ -14,7 +14,12 @@ export const graphEdge = {
   slug: "graph-edge",
   definition: "a way one thing reaches another",
   pluralSlug: "graph-edges",
-  partSlugs: ["relation-property/index-slug", "relation-property/attribute-slugs"],
+  partSlugs: [
+    "graph-edge/import",
+    "graph-edge/relation",
+    "relation-property/index-slug",
+    "relation-property/attribute-slugs",
+  ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "index-slug", required: false, many: false },
