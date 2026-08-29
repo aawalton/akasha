@@ -3,7 +3,7 @@ import type { FileTree } from "../../page/file-tree.ts"
 import { placeDirOf, repoPlacings, scanIn } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
 import { AKASHA, rootFor, rootsHere } from "../../repo/roots/roots.ts"
-import type { Batch } from "../check-shape.ts"
+import type { Batch } from "./check-shape.ts"
 
 const GONE = null
 
