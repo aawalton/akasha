@@ -5,4 +5,8 @@ export const unenforcedInvariant = {
   pageTypeSlug: "domain",
   slug: "unenforced-invariant",
   definition: "an invariant nothing enforces",
+  intent: [
+    "Every invariant this system states has something enforcing it.",
+    "Something reports which invariants are unenforced.",
+  ],
 } as const satisfies Domain
