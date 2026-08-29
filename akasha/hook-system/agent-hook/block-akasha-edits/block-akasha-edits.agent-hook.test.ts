@@ -1,7 +1,7 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import {
   askedIn,
   insideOf,
@@ -15,8 +15,12 @@ const HERE = rootOf(import.meta.path)
 
 const SCRIPT = join(import.meta.dir, "block-akasha-edits.agent-hook.code.ts")
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function repo(): string {
-  const root = realpathSync(mkdtempSync(join(tmpdir(), "block-akasha-edits-")))
+  const root = realpathSync(scratch.rootFor("block-akasha-edits-"))
   mkdirSync(join(root, "akasha/hook-system"), { recursive: true })
   mkdirSync(join(root, ".git/data/index/identity"), { recursive: true })
   mkdirSync(join(root, "tools"), { recursive: true })
@@ -70,7 +74,7 @@ test("a symlinked directory reaching akasha is refused", () => {
 
 test("the repository root reached through a symlink is the same root", () => {
   const root = repo()
-  const near = join(realpathSync(mkdtempSync(join(tmpdir(), "block-akasha-edits-link-"))), "repo")
+  const near = join(realpathSync(scratch.rootFor("block-akasha-edits-link-")), "repo")
   symlinkSync(root, near)
   const said = refusalFor(asking("Write", "akasha/held.ts", near), near, near)
   expect(said).toContain("--file-path akasha/held.ts")
