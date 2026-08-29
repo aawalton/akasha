@@ -15,8 +15,8 @@ export const page = {
   slug: "page",
   definition: "all that is kept about one thing",
   extendsSlug: null,
-  partSlugs: ["domain/akasha-page-edge"],
-  requiredReadingSlugs: ["domain/akasha-page-edge"],
+  partSlugs: ["domain/page-edge"],
+  requiredReadingSlugs: ["domain/page-edge"],
   design: [
     "A page is one TypeScript file.",
     "A page is one exported object, named for the page's slug.",

@@ -8,7 +8,7 @@ export const indexing = {
   code: "ts",
   test: "ts",
   requiredReadingSlugs: [
-    "domain/akasha-page-edge",
+    "domain/page-edge",
     "domain/index-identity",
     "domain/index-relation",
   ],
