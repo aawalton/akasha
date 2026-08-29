@@ -85,6 +85,11 @@ export const move = {
       statement: "`--dry-run` names every pair it would carry.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A reading of what a move carries is carried with it, so the move holds nobody to reading again.",
+    },
+    {
       invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",
     },

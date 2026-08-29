@@ -22,6 +22,8 @@ import type { Answer, Given, Surface } from "../../calling/calling.module.code.t
 import { answering } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing.module.code.ts"
+import type { Carry } from "../../reading/reading.module.code.ts"
+import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import {
   COMMITTING,
   glassIn,
@@ -335,6 +337,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const changes: Change[] = []
+  const carries: Carry[] = []
   for (const one of sided.sides) {
     const bytes = bodyAt(root, stood, one.from)
     if (bytes === null) {
@@ -344,6 +347,7 @@ export function move(argv: readonly string[], given: Given): Answer {
         2
       )
     }
+    carries.push({ was: one.from, now: one.to, from: blobIdOf(bytes) })
     if (!one.from.endsWith(TS)) {
       changes.push({ path: one.to, body: bytes })
       changes.push({ path: one.from, body: null })
@@ -387,6 +391,7 @@ export function move(argv: readonly string[], given: Given): Answer {
       const next = repointed(path, path, text, moved)
       if (next === text) continue
       repointing.push(path)
+      carries.push({ was: path, now: path, from: blobIdOf(held) })
       changes.push({ path, body: new TextEncoder().encode(next) })
     }
   }
@@ -407,6 +412,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     saying: () => carrying(sided.sides, reached, false),
   }
   const landed = landingAsked({ ...given, root }, asked)
+  if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
   return answering([...carrying(sided.sides, reached, true), ...landed.report], [], 0)
 }

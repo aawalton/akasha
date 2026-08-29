@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { blobIdOf, readingIn } from "../command-system/reading/reading.module.code.ts"
+import { blobIdOf, readingIn, sameBody } from "../command-system/reading/reading.module.code.ts"
 import {
   everyOfType,
   slugsOfType,
@@ -200,7 +200,7 @@ export function unreadIn(
       asked.add(warrant.path)
       const held = readingIn(root, agentId, warrant.path)
       if (held === null) said.push(notReadOf(warrant))
-      else if (held.oid !== warrant.oid) said.push(movedOf(warrant, held.oid))
+      else if (!sameBody(held, warrant.oid)) said.push(movedOf(warrant, held.oid))
     }
   }
   return said

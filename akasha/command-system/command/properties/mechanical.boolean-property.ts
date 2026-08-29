@@ -13,11 +13,11 @@ export const mechanical = {
       statement: "A command that changes nothing states nothing here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "Nobody is held to having read what a mechanical command changes.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A read still counts after a mechanical change to what was read.",
     },
   ],

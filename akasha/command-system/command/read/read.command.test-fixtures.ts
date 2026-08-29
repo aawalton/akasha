@@ -67,6 +67,11 @@ export function lettered(many: number): string {
 
 export function telling(was: Uint8Array | null, now: string): readonly string[] {
   const bytes = bodyOf(now)
-  const seen = { path: HELD, oid: blobIdOf(was ?? bodyOf("elsewhere\n")), seenAt: 1 }
+  const seen = {
+    path: HELD,
+    oid: blobIdOf(was ?? bodyOf("elsewhere\n")),
+    seenAt: 1,
+    mechanicalOid: null,
+  }
   return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
 }

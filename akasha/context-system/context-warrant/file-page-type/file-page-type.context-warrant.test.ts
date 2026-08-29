@@ -126,7 +126,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
   warrantsStanding(root)
   typeWorld(root)
   const oid = standing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1 })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(3)
   expect(said[0]).toContain(TYPE)
@@ -138,7 +138,12 @@ test("one reading of a type answers for every path of that type", () => {
   const chain = typeWorld(root)
   const other = "akasha/thing/other.module.ts"
   for (const at of [PATH, other]) {
-    recordRead(root, AGENT, { path: at, oid: standing(root, at, "one\n"), seenAt: 1 })
+    recordRead(root, AGENT, {
+      path: at,
+      oid: standing(root, at, "one\n"),
+      seenAt: 1,
+      mechanicalOid: null,
+    })
   }
   expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(chain.length)
 })

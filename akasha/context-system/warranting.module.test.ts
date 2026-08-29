@@ -147,7 +147,7 @@ test("a path the record holds no reading of is refused", () => {
 test("a reading of the body standing now answers for it", () => {
   const root = rootWith()
   const oid = standing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1 })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
@@ -155,7 +155,7 @@ test("a reading of another body is refused, and both ids are said", () => {
   const root = rootWith()
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const oid = standing(root, PATH, "two\n")
-  recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1 })
+  recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
   expect(said[0]).toContain("it has changed since")
@@ -163,17 +163,25 @@ test("a reading of another body is refused, and both ids are said", () => {
   expect(said[0]).toContain(oid)
 })
 
+test("a reading whose mechanical id is the body standing now answers for it", () => {
+  const root = rootWith()
+  const was = blobIdOf(new TextEncoder().encode("one\n"))
+  const oid = standing(root, PATH, "two\n")
+  recordRead(root, AGENT, { path: PATH, oid: was, seenAt: 1, mechanicalOid: oid })
+  expect(unreadIn(root, AGENT, [PATH])).toEqual([])
+})
+
 test("when the body was read is not asked, only which body", () => {
   const root = rootWith()
   const oid = standing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0 })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 
 test("one agent's reading answers for no other agent's write", () => {
   const root = rootWith()
   const oid = standing(root, PATH, "one\n")
-  recordRead(root, OTHER, { path: PATH, oid, seenAt: 1 })
+  recordRead(root, OTHER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
   expect(unreadIn(root, AGENT, [PATH]).length).toBe(1)
 })
 

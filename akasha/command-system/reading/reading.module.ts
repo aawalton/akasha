@@ -14,7 +14,8 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the path read, the object id of what was read, and when.",
+      statement:
+        "A line carries the path read, the object id of what was read, when, and the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -32,6 +33,26 @@ export const reading = {
     {
       invariantKind: "departure",
       statement: "A reading of a path replaces the one before it, so a path stands at one body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body answers a reading where it is the body read or the body a mechanical change left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Reading a body again clears what a mechanical change left, because the agent has seen what stands there now.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A mechanical change carries a reading of what it changed onto the body it left, and to the path it left it at.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading is carried only where the body it holds is the one the mechanical change started from.",
     },
     {
       invariantKind: "gap",

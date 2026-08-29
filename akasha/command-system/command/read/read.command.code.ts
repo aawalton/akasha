@@ -277,7 +277,12 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     spent += cost
     taken += 1
     if (given.agentId !== null && textOf(bytes) !== null) {
-      recordRead(given.root, given.agentId, { path: at, oid, seenAt: Date.now() })
+      recordRead(given.root, given.agentId, {
+        path: at,
+        oid,
+        seenAt: Date.now(),
+        mechanicalOid: null,
+      })
     }
   }
   if (taken > 0 && given.agentId === null) {

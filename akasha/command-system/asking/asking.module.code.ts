@@ -260,6 +260,7 @@ export function recordLanded(given: Given, changes: readonly Change[]): void {
       path: one.path,
       oid: blobIdOf(one.body),
       seenAt: Date.now(),
+      mechanicalOid: null,
     })
   }
 }

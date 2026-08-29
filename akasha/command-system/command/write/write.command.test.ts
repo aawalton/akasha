@@ -34,7 +34,7 @@ function repoWith(
   git(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(named)) {
     put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1 })
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, mechanicalOid: null })
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
@@ -73,6 +73,7 @@ test("a path taken away is warranted as one written over is", () => {
     path: "akasha/two.ts",
     oid: blobIdOf(bytes("elsewhere\n")),
     seenAt: 1,
+    mechanicalOid: null,
   })
   const said = write(["--remove", "akasha/two.ts"], givenIn(root))
   expect(said.code).toBe(2)
@@ -85,6 +86,7 @@ test("a write over a body that changed since it was read is refused", () => {
     path: "akasha/one.ts",
     oid: blobIdOf(bytes("elsewhere\n")),
     seenAt: 1,
+    mechanicalOid: null,
   })
   const said = write(
     ["--file-path", "akasha/one.ts", "--content-file", bodyIn(root)],

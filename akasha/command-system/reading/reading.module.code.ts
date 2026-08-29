@@ -1,5 +1,14 @@
 import { createHash } from "node:crypto"
-import { fstatSync, mkdirSync, readFileSync, type Stats, statSync, writeFileSync } from "node:fs"
+import {
+  fstatSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  rmSync,
+  type Stats,
+  statSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 
 export const READS_AT = ".git/data/reads"
@@ -8,6 +17,13 @@ export type Reading = {
   readonly path: string
   readonly oid: string
   readonly seenAt: number
+  readonly mechanicalOid: string | null
+}
+
+export type Carry = {
+  readonly was: string
+  readonly now: string
+  readonly from: string
 }
 
 export type Discard = "/dev/null" | "a pipe" | "a file only this redirect opened"
@@ -22,15 +38,17 @@ export function readingFileAt(root: string, agentId: string, path: string): stri
 
 function readingOf(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { path, oid, seenAt } = value as {
+  const { path, oid, seenAt, mechanicalOid } = value as {
     path?: unknown
     oid?: unknown
     seenAt?: unknown
+    mechanicalOid?: unknown
   }
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
-  return { path, oid, seenAt }
+  const left = typeof mechanicalOid === "string" && mechanicalOid !== "" ? mechanicalOid : null
+  return { path, oid, seenAt, mechanicalOid: left }
 }
 
 export function readingIn(root: string, agentId: string, path: string): Reading | null {
@@ -53,6 +71,51 @@ export function recordRead(root: string, agentId: string, held: Reading): void {
   const at = readingFileAt(root, agentId, held.path)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, `${JSON.stringify(held)}\n`)
+}
+
+export function sameBody(held: Reading | null, oid: string): boolean {
+  return held !== null && (held.oid === oid || held.mechanicalOid === oid)
+}
+
+export function carriedInto(held: Reading, carry: Carry, to: string): Reading | null {
+  if ((held.mechanicalOid ?? held.oid) !== carry.from) return null
+  return { path: carry.now, oid: held.oid, seenAt: held.seenAt, mechanicalOid: to }
+}
+
+export function agentIdsIn(root: string): readonly string[] {
+  let found: readonly string[]
+  try {
+    found = readdirSync(join(root, READS_AT, "agent", "id"), { withFileTypes: true })
+      .filter((one) => one.isDirectory())
+      .map((one) => one.name)
+  } catch {
+    return []
+  }
+  return [...found].sort()
+}
+
+export function carryReadings(root: string, carries: readonly Carry[]): void {
+  const agentIds = agentIdsIn(root)
+  for (const carry of carries) {
+    let to: string
+    try {
+      to = blobIdOf(readFileSync(join(root, carry.now)))
+    } catch {
+      continue
+    }
+    for (const agentId of agentIds) {
+      const held = readingIn(root, agentId, carry.was)
+      if (held === null) continue
+      const carried = carriedInto(held, carry, to)
+      if (carried === null) continue
+      try {
+        recordRead(root, agentId, carried)
+        if (carry.now !== carry.was) {
+          rmSync(readingFileAt(root, agentId, carry.was), { force: true })
+        }
+      } catch {}
+    }
+  }
 }
 
 function same(one: Stats, other: Stats): boolean {

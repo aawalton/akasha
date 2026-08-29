@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { unreadIn } from "../../../context-system/warranting.module.code.ts"
+import { warrantsStanding } from "../../../context-system/warranting.module.test-fixtures.ts"
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
 import { stands } from "../../../testing-system/putting/putting.module.code.ts"
+import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { move, PATHS_AT, pairsIn, surface } from "./move.command.code.ts"
 import {
   AAAA,
@@ -34,6 +37,18 @@ import {
 } from "./move.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+function held(root: string, path: string, body: string): void {
+  warrantsStanding(root, ["file-itself"])
+  recordRead(root, AGENT, {
+    path,
+    oid: blobIdOf(new TextEncoder().encode(body)),
+    seenAt: 1,
+    mechanicalOid: null,
+  })
+}
 
 function renamed(root: string): string {
   const said = move(RENAME, givenIn(root))
@@ -95,6 +110,27 @@ test("what imports or spells what moved is repointed, and a dry run writes none"
   expect(said.refusals).toEqual([])
   expect(readFileSync(join(root, HOLDER), "utf8")).toContain('from "../four/other.module.code.ts"')
   expect(readFileSync(join(root, NAMER), "utf8")).toBe(`export const at = "${ARRIVES}"\n`)
+})
+
+test("a reading carries to the new path, and the write it warranted is not refused", () => {
+  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  held(root, HOLDER, CODE)
+  const said = move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
+  expect(said.refusals).toEqual([])
+  const now = readingIn(root, AGENT, DEEPER)
+  expect(now?.oid).toBe(blobIdOf(new TextEncoder().encode(CODE)))
+  expect(now?.mechanicalOid).toBe(blobIdOf(readFileSync(join(root, DEEPER))))
+  expect(readingIn(root, AGENT, HOLDER)).toBeNull()
+  expect(unreadIn(root, AGENT, [DEEPER])).toEqual([])
+})
+
+test("a dry run carries no reading anywhere", () => {
+  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  held(root, HOLDER, CODE)
+  const said = move(["--from", HOLDER, "--to", DEEPER, "--dry-run"], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(readingIn(root, AGENT, DEEPER)).toBeNull()
+  expect(readingIn(root, AGENT, HOLDER)?.mechanicalOid).toBeNull()
 })
 
 test("a file moving in the same act is repointed from its body, not as an importer", () => {
