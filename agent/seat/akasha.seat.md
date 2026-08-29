@@ -7,4 +7,5 @@ persona-slug: akasha
 domain-slug: domain/akasha-system
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
