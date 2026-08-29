@@ -8,7 +8,8 @@ export const indexName = {
   slug: "index-name",
   definition: "the name an index's answers are filed under",
   max: 30,
-  nameFormatSlug: null,
+  nameFormatSlug: "name-format/lower-kebab-case",
+  unique: "page-type",
   invariants: [
     {
       invariantKind: "departure",
