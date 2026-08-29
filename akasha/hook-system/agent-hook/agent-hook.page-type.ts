@@ -40,8 +40,9 @@ export const agentHook = {
       statement: "A call a hook let through is not a call it allowed.",
     },
   ],
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Alan Approves",
       act: "Add a hook to akasha only where Alan has approved that hook.",
       warrant:

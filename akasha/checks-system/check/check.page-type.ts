@@ -37,8 +37,9 @@ export const check = {
         "A check that must know more than the change it was handed asks the index, never the tree.",
     },
   ],
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Alan Approves",
       act: "Add a check to akasha only where Alan has approved that check.",
       warrant:
@@ -49,6 +50,7 @@ export const check = {
       ],
     },
     {
+      directiveKind: "rule",
       name: "Fail Closed",
       act: "Fail a check that could not run.",
       warrant:
@@ -59,6 +61,7 @@ export const check = {
       ],
     },
     {
+      directiveKind: "rule",
       name: "Zero At Landing",
       act: "Fix every violation a new check finds before landing it, never freezing the ones left into a list.",
       warrant:

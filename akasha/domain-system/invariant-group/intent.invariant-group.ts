@@ -5,8 +5,9 @@ export const intent = {
   pageTypeSlug: "invariant-group",
   slug: "intent",
   definition: "an invariant that does not hold yet",
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Resolve When Found",
       act: "Move or delete an intent entry as soon as you find it true, not when the work on it closes.",
       warrant:

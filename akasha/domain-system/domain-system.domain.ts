@@ -10,6 +10,7 @@ export const domainSystem = {
     "page-type/finding",
     "page-type/invariant-group",
     "page-type/invariant-kind",
+    "page-type/directive-kind",
     "domain/context-warrant",
   ],
   invariants: [

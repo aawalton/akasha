@@ -5,8 +5,9 @@ export const design = {
   pageTypeSlug: "invariant-group",
   slug: "design",
   definition: "an invariant that holds now",
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Move When False",
       act: "Move a design entry to intent, or delete it, as soon as you find it no longer true.",
       warrant:

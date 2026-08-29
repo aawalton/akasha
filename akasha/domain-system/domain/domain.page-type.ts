@@ -1,17 +1,15 @@
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Definition } from "./properties/definition.page-property-type.ts"
+import type { Directives } from "./properties/directives.page-property-type.ts"
 import type { Invariants } from "./properties/invariants.page-property-type.ts"
 import type { PartSlugs } from "./properties/part-slugs.page-property-type.ts"
-import type { Principles } from "./properties/principles.page-property-type.ts"
-import type { Rules } from "./properties/rules.page-property-type.ts"
 
 export type Domain = Page & {
   definition: Definition
   partSlugs?: PartSlugs
   invariants?: Invariants
-  principles?: Principles
-  rules?: Rules
+  directives?: Directives
 }
 
 export const domain = {
@@ -24,8 +22,7 @@ export const domain = {
     { propertySlug: "page-property-type/definition", required: true, many: false },
     { propertySlug: "page-property-type/part-slugs", required: false, many: true },
     { propertySlug: "page-property-type/invariants", required: false, many: true },
-    { propertySlug: "page-property-type/principles", required: false, many: true },
-    { propertySlug: "page-property-type/rules", required: false, many: true },
+    { propertySlug: "page-property-type/directives", required: false, many: true },
   ],
   invariants: [
     {
@@ -54,8 +51,9 @@ export const domain = {
       statement: "An agent writes a domain's lines as well as Alan would.",
     },
   ],
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Every Changed Line",
       act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
       warrant: "The first words are almost never the right words. Fresh eyes see new options.",

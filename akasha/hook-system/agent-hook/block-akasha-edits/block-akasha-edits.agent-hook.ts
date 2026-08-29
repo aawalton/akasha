@@ -47,8 +47,9 @@ export const blockAkashaEdits = {
       statement: "An agent refused here still writes the file the akasha command reads.",
     },
   ],
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "The Index Is Akasha",
       act: "Guard `.git/data` as the akasha folder is guarded.",
       warrant:

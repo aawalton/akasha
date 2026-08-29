@@ -12,8 +12,9 @@ export const akashaMigration = {
       statement: "Akasha is one repository, and anything built for many is left behind.",
     },
   ],
-  rules: [
+  directives: [
     {
+      directiveKind: "rule",
       name: "Accrete And Ablate",
       act: "Accrete the new and ablate the old.",
       warrant:
