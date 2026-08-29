@@ -1,3 +1,5 @@
+import { createRequire } from "node:module"
+import { join } from "node:path"
 import {
   pageTypesIn,
   valueAt,
@@ -5,8 +7,10 @@ import {
   type Value,
 } from "../../../pages-system/index/index-entries.module.code.ts"
 import { indexIn, schemaOf, standingAt } from "../../../pages-system/index/index-reading.module.code.ts"
+import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
+import { besideAt, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
@@ -16,6 +20,12 @@ const INSIDE = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
+const NAME_FORMAT = "name-format"
+
+const CODE = "code"
+
+const TS = "ts"
+
 const TEXT = "text-property"
 
 const RECORD = "record-property"
@@ -23,6 +33,10 @@ const RECORD = "record-property"
 const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
+
+const FORMAT = "nameFormatSlug"
+
+const reach_ = createRequire(import.meta.url)
 
 export type Declared = {
   readonly required: boolean
@@ -32,6 +46,8 @@ export type Declared = {
 }
 
 export type Reading = (pageTypeSlug: string, slug: string) => Value | null
+
+export type Formatting = (nameFormatSlug: string) => Matching
 
 function wordAt(held: Record<string, unknown>, key: string): string | null {
   const said = held[key]
@@ -91,10 +107,60 @@ export function declaredFor(
   return found
 }
 
+export function matchingIn(root: string): Formatting {
+  const held = new Map<string, Matching>()
+  return (nameFormatSlug) => {
+    const found = held.get(nameFormatSlug)
+    if (found !== undefined) return found
+    const slug = slugOf(nameFormatSlug)
+    if (slug === null) {
+      throw new Error(
+        `\`${nameFormatSlug}\` names a name format by id, and a format is reached here by slug`
+      )
+    }
+    const one = standingAt(root, NAME_FORMAT, slug)[0]
+    if (one === undefined) {
+      throw new Error(`no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`)
+    }
+    const beside = besideAt(one.path, CODE, TS)
+    if (beside === null) {
+      throw new Error(
+        `${one.path} is a name format, and no code file can stand beside a name like it`
+      )
+    }
+    let mod: Record<string, unknown>
+    try {
+      mod = reach_(join(root, beside)) as Record<string, unknown>
+    } catch (thrown) {
+      throw new Error(
+        `${one.path} is a name format, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+      )
+    }
+    const named = mod[exportedAs(slug)]
+    if (typeof named !== "function") {
+      throw new Error(`${one.path} is a name format, and ${beside} answers to nothing that can judge`)
+    }
+    const matching = named as Matching
+    held.set(nameFormatSlug, matching)
+    return matching
+  }
+}
+
 function overMax(said: unknown, max: number | null, slug: string, where: string): string | null {
   if (typeof said !== "string" || max === null) return null
   if (said.length <= max) return null
   return `${where}\`${slug}\` runs to ${said.length} characters, over the max of ${max}`
+}
+
+function offFormat(
+  said: unknown,
+  nameFormatSlug: string | null,
+  formatting: Formatting,
+  slug: string
+): string | null {
+  if (typeof said !== "string" || nameFormatSlug === null) return null
+  if (formatting(nameFormatSlug)(said)) return null
+  return `\`${slug}\` is "${said}", which is not written in \`${nameFormatSlug}\``
 }
 
 function overTotal(held: readonly unknown[], total: number | null, slug: string): string | null {
@@ -123,7 +189,8 @@ export function reasonsIn(
   value: Value,
   declared: ReadonlyMap<string, Declared>,
   property: (slug: string) => Value | null,
-  named: string
+  named: string,
+  formatting: Formatting
 ): readonly string[] {
   const said: string[] = []
   for (const [slug, one] of declared) {
@@ -155,9 +222,12 @@ export function reasonsIn(
     const shape = wordAt(page, "pageTypeSlug")
     if (shape === TEXT) {
       const max = countAt(page, "max")
+      const format = wordAt(page, FORMAT)
       for (const each of listed ? held : [held]) {
         const why = overMax(each, max, slug, "")
         if (why !== null) said.push(why)
+        const off = offFormat(each, format, formatting, slug)
+        if (off !== null) said.push(off)
       }
       continue
     }
@@ -178,6 +248,7 @@ export function reasonsIn(
         }
         const held_ = property(field)
         const max = held_ === null ? null : countAt(held_, "max")
+        const format = held_ === null ? null : wordAt(held_, FORMAT)
         const many = Array.isArray(value_)
         if (shaped.many && many && shaped.max !== null && value_.length > shaped.max) {
           said.push(`holds ${value_.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
@@ -191,6 +262,8 @@ export function reasonsIn(
         for (const each of many ? value_ : [value_]) {
           const why = overMax(each, max, `${slug} ${field}`, "")
           if (why !== null) said.push(why)
+          const off = offFormat(each, format, formatting, `${slug} ${field}`)
+          if (off !== null) said.push(off)
         }
       }
     }
@@ -225,6 +298,7 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     const schema = schemaOf(leaving.root, slug)
     return schema === null ? null : read(schema.pageTypeSlug, slug)
   }
+  const formatting = matchingIn(leaving.root)
   const judged: Judged[] = []
   for (const path of leaving.changed) {
     if (!path.startsWith(INSIDE)) continue
@@ -241,7 +315,7 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
-    for (const reason of reasonsIn(value, declared, property, named)) {
+    for (const reason of reasonsIn(value, declared, property, named, formatting)) {
       judged.push({ path, reason })
     }
   }

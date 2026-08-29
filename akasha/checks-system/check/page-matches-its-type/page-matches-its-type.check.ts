@@ -37,6 +37,11 @@ export const pageMatchesItsType = {
         "A page whose page type declares nothing is passed over, because nothing settles what it would be held to.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A text property stating a name format has each of its values judged by that format's own code, never by a shape written here.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A max on a declaration counts entries, and a max on a text property counts characters, from one property page read two ways.",
@@ -45,6 +50,11 @@ export const pageMatchesItsType = {
       invariantKind: "constraint",
       statement:
         "A total on a declaration counts the characters of a list's values taken together, and is never a third thing a max means.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A name format is reached through the index and loaded off the disk, so a format and the first property naming it do not land together.",
     },
     {
       invariantKind: "absence",

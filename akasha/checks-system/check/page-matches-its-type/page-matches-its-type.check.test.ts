@@ -1,6 +1,15 @@
 import { expect, test } from "bun:test"
 import type { Value } from "../../../pages-system/index/index-entries.module.code.ts"
-import { declaredFor, reasonsIn, slugOf, type Reading } from "./page-matches-its-type.check.code.ts"
+import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
+import {
+  declaredFor,
+  type Formatting,
+  reasonsIn,
+  type Reading,
+  slugOf,
+} from "./page-matches-its-type.check.code.ts"
+
+const FORMAT = "all-lower"
 
 const TYPES: Record<string, Value> = {
   page: {
@@ -46,10 +55,10 @@ const TYPES: Record<string, Value> = {
 
 const PROPERTIES: Record<string, Value> = {
   id: { pageTypeSlug: "text-property", slug: "id", max: 36 },
-  slug: { pageTypeSlug: "text-property", slug: "slug", max: 8 },
+  slug: { pageTypeSlug: "text-property", slug: "slug", max: 8, nameFormatSlug: FORMAT },
   test: { pageTypeSlug: "text-property", slug: "test", max: 4 },
   aids: { pageTypeSlug: "text-property", slug: "aids", max: 5 },
-  name: { pageTypeSlug: "text-property", slug: "name", max: 8 },
+  name: { pageTypeSlug: "text-property", slug: "name", max: 8, nameFormatSlug: FORMAT },
   directives: {
     pageTypeSlug: "record-property",
     slug: "directives",
@@ -65,8 +74,25 @@ const read: Reading = (pageTypeSlug, slug) =>
 
 const property = (slug: string): Value | null => PROPERTIES[slug] ?? null
 
+function allLower(name: string): boolean {
+  return name === name.toLowerCase()
+}
+
+function formatting(nameFormatSlug: string): Matching {
+  if (nameFormatSlug !== FORMAT) {
+    throw new Error(`no name format carries the slug \`${nameFormatSlug}\``)
+  }
+  return allLower
+}
+
 function over(value: Value, pageTypeSlug: string): readonly string[] {
-  return reasonsIn(value, declaredFor(pageTypeSlug, read), property, `page-type/${pageTypeSlug}`)
+  return reasonsIn(
+    value,
+    declaredFor(pageTypeSlug, read),
+    property,
+    `page-type/${pageTypeSlug}`,
+    formatting
+  )
 }
 
 test("a slug is taken off a qualified address and an id answers nothing", () => {
@@ -160,4 +186,47 @@ test("a list repeating a value is refused, and one carrying each once is not", (
     `repeats "x" in \`aids\`, and a list carries each value once`,
   ])
   expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "y"] }, "check")).toEqual([])
+})
+
+test("a value the format its property states refuses is refused here", () => {
+  expect(over({ id: "a", slug: "One", test: "ts" }, "check")).toEqual([
+    '`slug` is "One", which is not written in `all-lower`',
+  ])
+})
+
+test("a value the format its property states admits raises nothing", () => {
+  expect(over({ id: "a", slug: "one-two", test: "ts" }, "check")).toEqual([])
+})
+
+test("a text property stating no format has its values passed over", () => {
+  expect(over({ id: "a", slug: "one", test: "TS" }, "check")).toEqual([])
+})
+
+test("a record field is judged by the format its own property states", () => {
+  expect(over({ id: "a", slug: "one", directives: [{ name: "Go" }] }, "told")).toEqual([
+    '`directives name` is "Go", which is not written in `all-lower`',
+  ])
+})
+
+test("a value both over its max and off its format is refused for each", () => {
+  expect(over({ id: "a", slug: "Far-Too-Long", test: "ts" }, "check")).toEqual([
+    "`slug` runs to 12 characters, over the max of 8",
+    '`slug` is "Far-Too-Long", which is not written in `all-lower`',
+  ])
+})
+
+test("a format is asked for only where a property states one", () => {
+  const asked: string[] = []
+  const watching: Formatting = (nameFormatSlug) => {
+    asked.push(nameFormatSlug)
+    return allLower
+  }
+  reasonsIn(
+    { id: "a", slug: "one", test: "ts" },
+    declaredFor("check", read),
+    property,
+    "page-type/check",
+    watching
+  )
+  expect(asked).toEqual([FORMAT])
 })
