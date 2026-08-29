@@ -30,7 +30,22 @@ export const identifierNamesOnePage = {
     {
       invariantKind: "departure",
       statement:
-        "An entry the index holds for a path the change carries is passed over, because what stands there is about to be replaced.",
+        "The index is read as this change leaves it, so an entry standing at a key is what the change files there, and an entry the change withdraws is none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The rule is that the index files one page at a key, so two paths standing at one key is the whole of what is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page of a page type the change itself adds is judged, because which page types stand is read as the change leaves it too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The schema is read as the change leaves it, so a property the change stops declaring `unique` stops being enforced and one it starts declaring is enforced at once.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +55,7 @@ export const identifierNamesOnePage = {
     {
       invariantKind: "absence",
       statement:
-        "No file is read. A page is judged from the body the change carries and the entries the index holds.",
+        "No page outside the change is opened to be judged — the index answers for it. Working the index out does open the page type and record property pages it names.",
     },
   ],
 } as const satisfies Check

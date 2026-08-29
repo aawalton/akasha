@@ -2,16 +2,9 @@ import { filedIn } from "../../../pages-system/indexes/index/index-identity/inde
 import {
   pageTypesIn,
   uniquePropertiesAt,
-  uniquePropertiesIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  indexIn,
-  standingNamed,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  type Reading,
-  readingAt,
-} from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
@@ -20,16 +13,6 @@ export type Stated = {
   readonly scope: string
   readonly propertySlug: string
   readonly said: string
-}
-
-export function uniqueAcross(
-  reading: Reading,
-  carried: readonly Carried[]
-): ReadonlyMap<string, string> {
-  return new Map<string, string>([
-    ...uniquePropertiesAt(reading),
-    ...uniquePropertiesIn(carried.map((one) => one.value)),
-  ])
 }
 
 export function statedBy(
@@ -72,24 +55,27 @@ function reasonFor(one: Stated, other: string, how: string): string {
 }
 
 export function identifierNamesOnePage(leaving: Leaving): readonly Judged[] {
-  const reading = readingAt(indexIn(leaving.root))
-  const carried = carriedBy(leaving, pageTypesIn(reading))
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const shadow = cast.shadow
+  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
-  const touched = new Set(leaving.changed)
   const said: Judged[] = []
-  for (const held of statedByKey(statedBy(carried, uniqueAcross(reading, carried))).values()) {
+  for (const held of statedByKey(statedBy(carried, uniquePropertiesAt(shadow.reading))).values()) {
     const one = held[0]
     if (one === undefined) continue
-    for (const later of held.slice(1)) {
-      said.push({ path: later.path, reason: reasonFor(later, one.path, CARRIES) })
+    const standing = standingNamed(shadow.reading, one.scope, one.propertySlug, one.said)
+    if (standing.length < 2) continue
+    const carrying = new Set(held.map((each) => each.path))
+    const elsewhere = standing.find((found) => !carrying.has(found.path))
+    if (elsewhere === undefined) {
+      for (const later of held.slice(1)) {
+        said.push({ path: later.path, reason: reasonFor(later, one.path, CARRIES) })
+      }
+      continue
     }
-    const standing = standingNamed(reading, one.scope, one.propertySlug, one.said).filter(
-      (found) => !touched.has(found.path)
-    )
-    const first = standing[0]
-    if (first === undefined) continue
     for (const each of held) {
-      said.push({ path: each.path, reason: reasonFor(each, first.path, STANDS) })
+      said.push({ path: each.path, reason: reasonFor(each, elsewhere.path, STANDS) })
     }
   }
   return said

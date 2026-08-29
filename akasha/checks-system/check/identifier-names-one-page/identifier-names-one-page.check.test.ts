@@ -13,6 +13,8 @@ const ONE = "01a04f76-7430-7001-8000-000000000001"
 
 const TWO = "01a04f76-7430-7002-8000-000000000002"
 
+const THREE = "01a04f76-7430-7003-8000-000000000003"
+
 const held: string[] = []
 
 afterAll(() => {
@@ -92,10 +94,14 @@ test("a page taking the slug a page the same change renames away is let through"
   const root = rooted()
   filed(root, "check", "slug", "held", pathFor("check", "one"))
   const said = identifierNamesOnePage(
-    landing(root, {
-      [pathFor("check", "one")]: body("check", "freed", ONE),
-      [pathFor("check", "two")]: body("check", "held", TWO),
-    })
+    landing(
+      root,
+      {
+        [pathFor("check", "one")]: body("check", "freed", ONE),
+        [pathFor("check", "two")]: body("check", "held", TWO),
+      },
+      { [pathFor("check", "one")]: body("check", "held", ONE) }
+    )
   )
   expect(said).toEqual([])
 })
@@ -139,26 +145,64 @@ test("two pages of different page types carrying one slug are let through", () =
   expect(said).toEqual([])
 })
 
+function propertyBody(unique: string | null): Uint8Array {
+  const said = unique === null ? "" : `, unique: ${JSON.stringify(unique)}`
+  return bytesOf(
+    `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "text-property", ` +
+      `slug: "name"${said} }\n`
+  )
+}
+
+function naming(slug: string, id: string): Uint8Array {
+  return bytesOf(
+    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "check", ` +
+      `slug: ${JSON.stringify(slug)}, name: "shared" }\n`
+  )
+}
+
 test("a property page the change carries makes its property an identifier at once", () => {
   const root = rooted()
-  const property = bytesOf(
-    'export const held = { id: "01a04f76-7430-7003-8000-000000000003", ' +
-      'pageTypeSlug: "text-property", slug: "name", unique: "always" }\n'
-  )
-  const naming = (slug: string, id: string): Uint8Array =>
-    bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "check", ` +
-        `slug: ${JSON.stringify(slug)}, name: "shared" }\n`
-    )
   const said = identifierNamesOnePage(
     landing(root, {
-      [pathFor("text-property", "name")]: property,
+      [pathFor("text-property", "name")]: propertyBody("always"),
       [pathFor("check", "one")]: naming("one", ONE),
       [pathFor("check", "two")]: naming("two", TWO),
     })
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("page/name/shared")
+})
+
+test("a value a property the change stops making an identifier is let through", () => {
+  const root = rooted()
+  schemad(root, "name", "always")
+  const said = identifierNamesOnePage(
+    landing(
+      root,
+      {
+        [pathFor("text-property", "name")]: propertyBody(null),
+        [pathFor("check", "one")]: naming("one", ONE),
+        [pathFor("check", "two")]: naming("two", TWO),
+      },
+      { [pathFor("text-property", "name")]: propertyBody("always") }
+    )
+  )
+  expect(said).toEqual([])
+})
+
+test("two pages of a page type the change itself adds carrying one slug are refused", () => {
+  const root = rooted()
+  const said = identifierNamesOnePage(
+    landing(root, {
+      [pathFor("page-type", "widget")]: body("page-type", "widget", THREE),
+      [pathFor("widget", "one")]: body("widget", "held", ONE),
+      [pathFor("widget", "two")]: body("widget", "held", TWO),
+    })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("widget", "two"))
+  expect(said[0]?.reason).toContain(pathFor("widget", "one"))
+  expect(said[0]?.reason).toContain("widget/slug/held")
 })
 
 test("a change carrying no page is passed over", () => {
@@ -170,10 +214,14 @@ test("a page the change takes away frees what it carried", () => {
   const root = rooted()
   filed(root, "check", "slug", "held", pathFor("check", "one"))
   const said = identifierNamesOnePage(
-    landing(root, {
-      [pathFor("check", "one")]: null,
-      [pathFor("check", "two")]: body("check", "held", TWO),
-    })
+    landing(
+      root,
+      {
+        [pathFor("check", "one")]: null,
+        [pathFor("check", "two")]: body("check", "held", TWO),
+      },
+      { [pathFor("check", "one")]: body("check", "held", ONE) }
+    )
   )
   expect(said).toEqual([])
 })
