@@ -1,13 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  basenameOf,
-  dequoted,
-  gitCallIn,
-  gitCallsIn,
-  joinedContinuations,
-  segmentsOf,
-  wordsOf,
-} from "./git-calls.module.code.ts"
+import { gitCallIn, gitCallsIn } from "./git-calls.module.code.ts"
 
 test("a plain call is read into its verb and the words after it", () => {
   expect(gitCallIn("git reset --hard")).toEqual({ verb: "reset", rest: ["--hard"] })
@@ -50,11 +42,6 @@ test("git named by a path is git, because the basename is what is matched", () =
   expect(gitCallIn("/usr/bin/git stash")).toEqual({ verb: "stash", rest: [] })
 })
 
-test("basenameOf takes the last part of a path, and a bare word is its own basename", () => {
-  expect(basenameOf("/usr/local/bin/git")).toBe("git")
-  expect(basenameOf("git")).toBe("git")
-})
-
 test("a tool with a subcommand grammar of its own is not read as git", () => {
   expect(gitCallIn("kubectl rm one")).toBeNull()
   expect(gitCallIn("ssh reset --hard")).toBeNull()
@@ -73,16 +60,6 @@ test("git carrying no verb is no call here", () => {
 
 test("an empty segment is no call here", () => {
   expect(gitCallIn("")).toBeNull()
-})
-
-test("a quoted run is taken out before the cut", () => {
-  expect(dequoted('git commit -m "git reset --hard"')).toBe("git commit -m ")
-  expect(dequoted("git commit -m 'git reset --hard'")).toBe("git commit -m ")
-})
-
-test("a quoted run spanning lines is taken out whole", () => {
-  expect(dequoted('git commit -m "one\ntwo" -- one.ts')).toBe("git commit -m  -- one.ts")
-  expect(dequoted("git commit -m 'one\ntwo' -- one.ts")).toBe("git commit -m  -- one.ts")
 })
 
 test("a message of more than one line does not cut the paths off its own call", () => {
@@ -104,12 +81,10 @@ test("the verb of the call carrying a quoted payload is still read", () => {
 })
 
 test("a line continuation is joined, so the verb behind it is read", () => {
-  expect(joinedContinuations("git \\\nreset --hard")).toBe("git  reset --hard")
   expect(gitCallsIn("git \\\nreset --hard")).toEqual([{ verb: "reset", rest: ["--hard"] }])
 })
 
 test("a separator cuts one line into segments, and each is read on its own", () => {
-  expect(segmentsOf("cd one && git reset --hard")).toEqual(["cd one ", "git reset --hard"])
   expect(gitCallsIn("cd one && git reset --hard")).toEqual([{ verb: "reset", rest: ["--hard"] }])
 })
 
@@ -124,7 +99,6 @@ test("a newline cuts as a separator does", () => {
 })
 
 test("leading space on a segment is taken off before the head is read", () => {
-  expect(segmentsOf("   git stash")).toEqual(["git stash"])
   expect(gitCallsIn("  git stash")).toEqual([{ verb: "stash", rest: [] }])
 })
 
@@ -133,10 +107,6 @@ test("every call on a line is read, not only the first", () => {
     { verb: "add", rest: ["."] },
     { verb: "commit", rest: ["-m", "one"] },
   ])
-})
-
-test("wordsOf drops the runs of space between words", () => {
-  expect(wordsOf("  git   reset  --hard ")).toEqual(["git", "reset", "--hard"])
 })
 
 test("a heredoc body naming a verb is read as a call, which this does not tell apart", () => {
