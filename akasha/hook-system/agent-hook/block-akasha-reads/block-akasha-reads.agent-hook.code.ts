@@ -1,5 +1,6 @@
-import { join, relative, resolve } from "node:path"
+import { join, resolve } from "node:path"
 import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
+import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
 const HOOK = "block-akasha-reads"
@@ -39,11 +40,6 @@ export const SCOPE: readonly string[] = [
   "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this stands: it is",
   "what the program says about itself, held as the text it prints rather than as a comment.",
 ]
-
-function shownIn(root: string, at: string): string {
-  const named = relative(root, at)
-  return named === "" || !insideOf(root, at) ? at : named
-}
 
 export function refusalFor(shown: string): string {
   return [

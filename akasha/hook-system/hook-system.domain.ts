@@ -11,6 +11,7 @@ export const hookSystem = {
     "module/git-calls",
     "module/hook-answer",
     "module/hook-payload",
+    "module/path-showing",
     "module/settling",
     "module/shell-calls",
   ],

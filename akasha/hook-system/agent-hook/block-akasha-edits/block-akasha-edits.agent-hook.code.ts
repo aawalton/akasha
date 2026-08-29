@@ -1,5 +1,6 @@
-import { basename, join, relative, resolve } from "node:path"
+import { basename, join, resolve } from "node:path"
 import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"
@@ -99,11 +100,6 @@ export function askedIn(raw: string): Asked | null {
     filePath: named === "" ? texted(fieldOf(input, "notebook_path")) : named,
     from: texted(fieldOf(payload, "cwd")),
   }
-}
-
-function shownIn(root: string, at: string): string {
-  const said = relative(root, at)
-  return said === "" || !insideOf(root, at) ? at : said
 }
 
 function refusingPages(toolName: string, shown: string, name: string, held: string): string {
