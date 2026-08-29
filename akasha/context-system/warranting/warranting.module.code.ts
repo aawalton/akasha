@@ -1,17 +1,17 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { blobIdOf, readingIn, sameBody } from "../command-system/reading/reading.module.code.ts"
+import { blobIdOf, readingIn, sameBody } from "../../command-system/reading/reading.module.code.ts"
 import {
   everyOfType,
   slugsOfType,
-} from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
+} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
   namedIn,
-} from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { standingAbove } from "../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { standingAbove } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"
 

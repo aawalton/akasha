@@ -1,6 +1,6 @@
 import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { type Knowing, standingOf, type Warrant } from "../../warranting.module.code.ts"
+import { type Knowing, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const TYPE = "A page answers to its type, and to every type that one extends."
 

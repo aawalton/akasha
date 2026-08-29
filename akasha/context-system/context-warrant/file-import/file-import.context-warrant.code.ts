@@ -1,4 +1,4 @@
-import type { Warrant } from "../../warranting.module.code.ts"
+import type { Warrant } from "../../warranting/warranting.module.code.ts"
 
 export function fileImport(): readonly Warrant[] {
   return []

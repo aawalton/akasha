@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "../command-system/rooting/rooting.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
+import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 const HERE = rootOf(import.meta.path) ?? ""
 

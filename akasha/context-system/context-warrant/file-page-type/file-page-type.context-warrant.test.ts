@@ -3,8 +3,8 @@ import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { knowingIn, unreadIn, type Warrant } from "../../warranting.module.code.ts"
-import { warrantsStanding } from "../../warranting.module.test-fixtures.ts"
+import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
+import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
 
 const scratch = scratchWorld()

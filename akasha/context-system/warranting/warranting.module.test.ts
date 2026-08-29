@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { blobIdOf, recordRead } from "../command-system/reading/reading.module.code.ts"
-import { scratchWorld } from "../command-system/scratching/scratching.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { blobIdOf, recordRead } from "../../command-system/reading/reading.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { gatheredIn, NO_AGENT, unreadIn, warrantsIn } from "./warranting.module.code.ts"
 
 const scratch = scratchWorld()
