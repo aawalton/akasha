@@ -21,8 +21,7 @@ export const noRawNulBytes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A NUL is counted in the bytes, so a body that is not text is judged the same as one that is.",
+      statement: "A NUL is counted in the bytes, never in the decoded text.",
     },
   ],
 } as const satisfies Check

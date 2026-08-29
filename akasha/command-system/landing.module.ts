@@ -12,13 +12,12 @@ export const landing = {
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "A change is a base commit and the bodies it would leave, so nothing is serialised to be read straight back.",
+      statement: "A change is a base commit and the bodies it would leave.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A body the change does not touch is read from the base commit, never from the working tree, so what is judged is what was proposed.",
+        "A body the change does not touch is read from the base commit, never from the working tree.",
     },
     {
       invariantKind: "departure",
@@ -27,13 +26,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One hold spans reading the base, judging, writing and committing, because a gate that ends before the write judged a tree that has moved.",
+      statement: "One hold spans reading the base, judging, writing and committing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body reaches disk only after every check has passed, so a refused change leaves nothing behind.",
+      statement: "A body reaches disk only after every check has passed.",
     },
   ],
   intent: [

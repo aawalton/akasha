@@ -11,7 +11,7 @@ export const calling = {
   design: [
     {
       invariantKind: "departure",
-      statement: "A command and its page cannot drift apart, because the page names the export.",
+      statement: "The page names the export it runs.",
     },
     {
       invariantKind: "departure",

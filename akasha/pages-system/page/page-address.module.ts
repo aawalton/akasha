@@ -15,7 +15,8 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type and a slug are cut at the first `/`, so a slug may carry later ones.",
+      statement:
+        "A page type and a slug are cut at the first `/`, and a slug may carry later ones.",
     },
   ],
 } as const satisfies Module

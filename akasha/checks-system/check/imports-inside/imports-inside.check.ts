@@ -22,18 +22,15 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A specifier is judged where it is written, so a file is judged by its own body alone.",
+      statement: "A specifier is judged where it is written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A specifier is judged by where it lands, never by what is there, so the check asks after no file and reads the same on every machine.",
+      statement: "A specifier is judged by where it lands, never by what is there.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder whose name begins with the akasha folder's name is outside it, so the boundary is drawn at the separator.",
+      statement: "The boundary is drawn at the path separator.",
     },
   ],
   intent: [

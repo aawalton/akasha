@@ -23,13 +23,11 @@ export const requireImportExtension = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A specifier is judged where it is written, so a file is judged by its own body alone.",
+      statement: "A specifier is judged where it is written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "No compiler setting decides the answer, because reaching for one would judge a file by something outside the change.",
+      statement: "No compiler setting decides the answer.",
     },
   ],
 } as const satisfies Check

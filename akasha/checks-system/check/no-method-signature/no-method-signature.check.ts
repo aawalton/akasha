@@ -22,8 +22,7 @@ export const noMethodSignature = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property holding a function type says the same thing and is checked both ways round, so the method form is the one refused.",
+      statement: "The method form is refused and the function-type property is not.",
     },
   ],
 } as const satisfies Check

@@ -11,8 +11,7 @@ export const read = {
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "A read returns the whole file, because nothing here records what a reader last saw.",
+      statement: "A read returns the whole file.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +39,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The call for what is left over is priced as it is printed, so the answer naming it still fits.",
+      statement: "The call for what is left over is priced as it is printed.",
     },
   ],
 } as const satisfies Command

@@ -26,8 +26,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name is judged against what the page states rather than against the index, because a page this change adds is in no index yet.",
+      statement: "The name is judged against what the page states, never against the index.",
     },
   ],
 } as const satisfies Check

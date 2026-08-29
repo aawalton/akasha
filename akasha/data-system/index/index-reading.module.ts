@@ -16,12 +16,11 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "A directory listed is one page type's own, so it grows with that type and not with the corpus.",
+        "A directory listed is one page type's own, and grows with that type and not with the corpus.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page the index names is answered as a path, because a reader wants the file and not the entry.",
+      statement: "A page the index names is answered as a path, never as the entry.",
     },
   ],
 } as const satisfies Module

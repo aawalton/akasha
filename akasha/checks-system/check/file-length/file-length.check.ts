@@ -21,8 +21,7 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file is judged by its own size alone, so nothing about the rest of the change changes the answer.",
+      statement: "A file is judged by its own size alone.",
     },
   ],
 } as const satisfies Check

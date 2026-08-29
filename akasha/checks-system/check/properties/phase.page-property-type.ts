@@ -14,7 +14,7 @@ export const phase = {
   design: [
     {
       invariantKind: "absence",
-      statement: "Audit is no phase, because it judges every page rather than a set of changes.",
+      statement: "Audit is no phase.",
     },
   ],
 } as const satisfies PagePropertyType

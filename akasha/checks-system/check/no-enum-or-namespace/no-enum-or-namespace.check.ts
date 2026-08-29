@@ -21,8 +21,7 @@ export const noEnumOrNamespace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An enum and a namespace are one check, because both are a runtime value a type alone would have carried.",
+      statement: "An enum and a namespace are one check.",
     },
   ],
 } as const satisfies Check

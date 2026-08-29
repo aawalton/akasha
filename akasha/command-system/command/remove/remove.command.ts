@@ -31,13 +31,11 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Everything taken without being named is reported, so a caller reads what went beyond what it asked for.",
+      statement: "Everything taken without being named is reported.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every path a call names is refused in one answer, so a caller is not told about them one at a time.",
+      statement: "Every path a call names is refused in one answer.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +50,7 @@ export const remove = {
     {
       invariantKind: "departure",
       statement:
-        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer, so what the removal bypassed and why stands in the history.",
+        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer.",
     },
     {
       invariantKind: "constraint",

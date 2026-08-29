@@ -22,13 +22,11 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A comment is read from the token stream, so text shaped like a comment inside a string or a regex is not one.",
+      statement: "A comment is read from the token stream, never from the text.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The forms are held in the check's own code, because an akasha file reads nothing outside the akasha folder.",
+      statement: "The forms are held in the check's own code.",
     },
     {
       invariantKind: "constraint",

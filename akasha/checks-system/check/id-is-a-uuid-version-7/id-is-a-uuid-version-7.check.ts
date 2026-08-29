@@ -23,8 +23,7 @@ export const idIsAUuidVersion7 = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An id is read from the object literal rather than the body, so text shaped like an id elsewhere is not one.",
+      statement: "An id is read from the object literal, never from the body.",
     },
     {
       invariantKind: "departure",

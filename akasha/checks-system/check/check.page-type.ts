@@ -36,7 +36,7 @@ export const check = {
     {
       invariantKind: "gap",
       statement:
-        "A check that must know more than the file it was handed asks the index, never the tree.",
+        "A check that must know more than the change it was handed asks the index, never the tree.",
     },
   ],
   rule: [

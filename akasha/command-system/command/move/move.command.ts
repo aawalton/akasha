@@ -20,13 +20,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is carried as it stands but for the specifiers it holds, so a page's id crosses the move untouched.",
+      statement: "A body is carried as it stands but for the specifiers it holds.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A move changes where a file stands, never what it is called, because a page states its own slug and other pages name it by that slug.",
+      statement: "A move changes where a file stands, never what it is called.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +33,7 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every pair a call names lands together or not at all, because two files naming each other cannot move one at a time in any order.",
+      statement: "Every pair a call names lands together or not at all.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +43,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer, so what the move bypassed and why stands in the history.",
+        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer.",
     },
     {
       invariantKind: "constraint",

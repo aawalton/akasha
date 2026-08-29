@@ -11,36 +11,36 @@ export const checking = {
   design: [
     {
       invariantKind: "departure",
-      statement: "A check and its page cannot drift apart, because the page names the export.",
+      statement: "The page names the export it runs.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The checks are found in the index, so finding them costs nothing the corpus grows.",
+        "The checks are found in the index, and finding them costs nothing the corpus grows.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A check is run once for each changed file it was given, and never once for the corpus.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A check that threw refuses the change it could not judge.",
+        "A check is run once over the whole change it was given, and never over the corpus.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the change takes away is handed to every check needing only the path, and passed over only by the checks needing bytes it has none of.",
+        "A check that threw refuses the change it could not judge, and the refusal names the check's own page, because a check that never ran named no file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What was judged is counted from the same handing that runs the checks, so a caller is never told a number larger than the checks saw.",
+        "A path the change takes away is handed to every check, reading as a path whose body is nothing, so a removal is judged rather than passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Audit is the same run over every page the index knows, so no phase walks the tree.",
+        "Judging each standing body in turn is a helper a check reaches for, so a check that would judge a path the change takes away walks the change itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Audit is the same run over every page the index knows.",
     },
   ],
 } as const satisfies Module

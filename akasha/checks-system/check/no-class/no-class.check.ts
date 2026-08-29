@@ -23,7 +23,7 @@ export const noClass = {
     {
       invariantKind: "departure",
       statement:
-        "A class is read out of the syntax alone, so what it extends is judged by the name written rather than by what that name resolves to.",
+        "What a class extends is judged by the name written, never by what that name resolves to.",
     },
   ],
 } as const satisfies Check

@@ -28,17 +28,15 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A diagnostic against a file the change did not touch is still reported, against every changed file, because a check is handed its file and never the set.",
+        "A diagnostic against a file the change did not touch is still reported, against every path the change holds, because the change lands whole and a refusal names a path its writer can act on.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A diagnostic against a file the change takes away is dropped, because a file that is going answers for nothing; what its going breaks is answered for by the files left standing.",
+      statement: "A diagnostic against a file the change takes away is dropped.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A diagnostic naming no file is the compiler failing to run, so it is thrown rather than reported.",
+      statement: "A diagnostic naming no file is thrown, never reported.",
     },
     {
       invariantKind: "constraint",

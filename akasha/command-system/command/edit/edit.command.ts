@@ -21,8 +21,7 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that is not there is refused, because `edit` changes a file that is and `write` makes one.",
+      statement: "A path that is not there is refused.",
     },
     {
       invariantKind: "departure",
@@ -36,13 +35,11 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Exact passages rather than a diff, because a diff whose offsets have drifted still looks applicable.",
+      statement: "A change is stated as exact passages, never as a diff.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A passage is the bytes of the file naming it, so a trailing newline in an `--old-file` is part of the match.",
+      statement: "A passage is the bytes of the file naming it, trailing newline and all.",
     },
     {
       invariantKind: "departure",

@@ -12,12 +12,11 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A body reaches this only as a file named at `--content-file`, so no body is carried on the command line.",
+        "A body reaches this only as a file named at `--content-file`, never on the command line.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path outside the akasha folder is refused, because nothing outside it is what these checks address.",
+      statement: "A path outside the akasha folder is refused.",
     },
     {
       invariantKind: "departure",
@@ -36,8 +35,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--dry-run` and `--break-the-glass` together are refused, because one reports what the checks say and the other runs none.",
+      statement: "`--dry-run` and `--break-the-glass` are refused together.",
     },
   ],
   intent: [

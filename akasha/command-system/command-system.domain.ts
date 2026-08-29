@@ -14,7 +14,7 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command is found in the index, so naming one costs the same at any size.",
+      statement: "A command is found in the index, and naming one costs the same at any size.",
     },
     {
       invariantKind: "departure",

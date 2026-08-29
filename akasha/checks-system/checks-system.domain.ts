@@ -15,7 +15,7 @@ export const checksSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A change is judged before it reaches disk, so a refused one leaves nothing behind.",
+        "A change is judged before it reaches disk, and a refused one leaves nothing behind.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +29,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "A check asks the index for anything beyond the file it was handed.",
+      statement: "A check asks the index for anything beyond the change it was handed.",
     },
   ],
 } as const satisfies Domain
