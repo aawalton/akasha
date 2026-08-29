@@ -4,7 +4,6 @@ import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
-import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -70,11 +69,6 @@ export function pageTypesIn(root: string): ReadonlySet<string> {
     "page-type",
     ...readdirSync(dir).map((one) => one.slice(0, -".jsonl".length)),
   ])
-}
-
-export function pageTyped(path: string, pageTypes: ReadonlySet<string>): boolean {
-  const said = namedIn(path)
-  return said !== null && pageTypes.has(said.tail)
 }
 
 function slugOf(named: string): string {

@@ -9,7 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
+import { namedIn, pageNamed } from "../../pages-system/page/page-file-name.module.code.ts"
 import type { Entry, Value } from "./index-entries.module.code.ts"
 import {
   filePropertiesAt,
@@ -20,7 +20,6 @@ import {
   linesIn,
   loadedFrom,
   NOTHING_FILED,
-  pageTyped,
   pageTypesIn,
   relationIn,
   schemaIn,
@@ -209,7 +208,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       const readInto = (body: string | null, path: string): Value | null => {
         if (body === null || !pageShaped(path, filed)) return null
         const loaded = loadedFrom(body)
-        if (loaded.failed !== null && pageTyped(path, pageTypes)) {
+        if (loaded.failed !== null && pageNamed(path, pageTypes)) {
           noted.push(`${path}: its body did not load, so it is not indexed — ${loaded.failed}`)
         }
         return loaded.value

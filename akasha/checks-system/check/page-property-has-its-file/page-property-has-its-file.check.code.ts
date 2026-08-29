@@ -1,11 +1,11 @@
 import {
   filePropertiesAt,
-  pageTyped,
   pageTypesIn,
   pathsOf,
   valueIn,
 } from "../../../data-system/index/index-entries.module.code.ts"
 import { indexIn, standingByPath } from "../../../data-system/index/index-reading.module.code.ts"
+import { pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
@@ -20,7 +20,7 @@ export function pagesTouchedBy(
   const found = new Set<string>()
   for (const path of leaving.changed) {
     if (!path.startsWith(INSIDE)) continue
-    if (pageTyped(path, pageTypes)) found.add(path)
+    if (pageNamed(path, pageTypes)) found.add(path)
     for (const one of standingByPath(leaving.root, path)) {
       if (one.path.startsWith(INSIDE)) found.add(one.path)
     }

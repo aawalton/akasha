@@ -1,7 +1,6 @@
 import {
   type Known,
   knownIn,
-  pageTyped,
   pageTypesIn,
   reaches,
   type Standing,
@@ -17,7 +16,7 @@ import {
   standingById,
   standingByPath,
 } from "../../../data-system/index/index-reading.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { namedIn, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
@@ -58,7 +57,7 @@ export function valueFor(leaving: Leaving, path: string): Value | null {
 export function carriedBy(leaving: Leaving, pageTypes: ReadonlySet<string>): readonly Carried[] {
   const found: Carried[] = []
   for (const path of leaving.changed) {
-    if (!path.startsWith(INSIDE) || !pageTyped(path, pageTypes)) continue
+    if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
     const value = valueFor(leaving, path)
     if (value !== null) found.push({ path, value })
   }
