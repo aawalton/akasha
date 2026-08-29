@@ -21,7 +21,7 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
-import type { Judging, Standing } from "./shapes/folder-shape.page-type.ts"
+import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
 
