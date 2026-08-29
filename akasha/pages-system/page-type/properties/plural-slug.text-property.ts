@@ -20,9 +20,5 @@ export const pluralSlug = {
       statement:
         "A folder holding many pages of one type is named for this, and so is the address those pages are reached by from outside.",
     },
-    {
-      invariantKind: "gap",
-      statement: "Every page type states one, and this is required of them.",
-    },
   ],
 } as const satisfies TextProperty

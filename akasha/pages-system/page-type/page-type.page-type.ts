@@ -8,7 +8,7 @@ export type PageType = Domain & {
   extendsSlug: ExtendsSlug | null
   properties?: Properties
   mortal?: Mortal
-  pluralSlug?: PluralSlug
+  pluralSlug: PluralSlug
 }
 
 export const pageType = {
@@ -33,7 +33,7 @@ export const pageType = {
     { pagePropertySlug: "extends-slug", required: true, many: false },
     { pagePropertySlug: "properties", required: false, many: true, max: null },
     { pagePropertySlug: "mortal", required: false, many: false },
-    { pagePropertySlug: "plural-slug", required: false, many: false },
+    { pagePropertySlug: "plural-slug", required: true, many: false },
   ],
   invariants: [
     {
