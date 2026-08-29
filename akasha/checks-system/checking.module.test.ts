@@ -2,9 +2,11 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
-import { checksAt, checksIn, judgingBy, onDisk } from "./checking.module.code.ts"
+import { checksAt, checksIn, everyFileIn, everythingIn, judgingBy, onDisk } from "./checking.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
+
+const PAGES_AT = ".git/data/index/identity/page/id"
 
 function rootWith(
   named: readonly {
@@ -16,6 +18,8 @@ function rootWith(
 ): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-checking-"))
   mkdirSync(join(root, CHECKS_AT), { recursive: true })
+  mkdirSync(join(root, PAGES_AT), { recursive: true })
+  let minted = 0
   for (const one of named) {
     const at = `akasha/checks-system/check/${one.slug}/${one.slug}.check.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
@@ -24,15 +28,17 @@ function rootWith(
       join(root, at),
       `export const ${camel} = {\n` +
         `  slug: "${one.slug}",\n` +
+        `  code: "ts",\n` +
         `  needs: "${one.needs}",\n` +
         `  runsOn: ${JSON.stringify(one.runsOn)},\n` +
         `}\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
-    writeFileSync(
-      join(root, CHECKS_AT, `${one.slug}.jsonl`),
-      `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000000" })}\n`
-    )
+    minted = minted + 1
+    const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
+    const line = `${JSON.stringify({ path: at, id })}\n`
+    writeFileSync(join(root, CHECKS_AT, `${one.slug}.jsonl`), line)
+    writeFileSync(join(root, PAGES_AT, `${id}.jsonl`), line)
   }
   return root
 }
@@ -103,6 +109,27 @@ test("a phase takes only the checks that state it", () => {
   expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
+  rmSync(root, { recursive: true })
+})
+
+test("audit takes a page and the files its own properties imply", () => {
+  const root = rootWith([
+    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
+  ])
+  const every = everyFileIn(root)
+  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.ts")
+  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.code.ts")
+  rmSync(root, { recursive: true })
+})
+
+test("audit reads the body of every file it takes", () => {
+  const root = rootWith([
+    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
+  ])
+  const leaving = everythingIn(root)
+  expect(leaving.root).toBe(root)
+  expect(leaving.changed.length).toBeGreaterThan(0)
+  for (const path of leaving.changed) expect(leaving.at(path)).not.toBeNull()
   rmSync(root, { recursive: true })
 })
 
