@@ -1,10 +1,10 @@
 import {
-  namesIn,
   pageTypesIn,
   textAt,
   type Value,
 } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import { indexIn, standingAt } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { namesIn } from "../../../pages-system/indexes/reaching.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {

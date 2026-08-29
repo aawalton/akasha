@@ -17,6 +17,7 @@ export const indexes = {
     "module/index-reading",
     "module/index-stamp",
     "module/generated-properties",
+    "module/reaching",
   ],
   invariants: [
     {

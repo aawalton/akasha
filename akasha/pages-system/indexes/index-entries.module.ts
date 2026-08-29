@@ -13,23 +13,5 @@ export const indexEntries = {
       invariantKind: "departure",
       statement: "A page's body can be loaded after the file it came from is gone.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A property's target is read from the index rather than from the corpus.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A name saying its own page type is held to the target its property declares, so naming a page of the wrong type is refused rather than resolved.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A value that narrows to more than one page is refused, never resolved to one of them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A value the index cannot resolve is reported, never thrown.",
-    },
   ],
 } as const satisfies Module

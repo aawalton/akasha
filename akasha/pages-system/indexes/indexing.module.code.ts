@@ -21,13 +21,10 @@ import {
   filePropertiesIn,
   identityIn,
   importIn,
-  knownIn,
   linesIn,
   loadedFrom,
-  NOTHING_FILED,
   pageTypesIn,
   pathIn,
-  relationIn,
   schemaAt,
   schemaIn,
   slugAt,
@@ -35,6 +32,7 @@ import {
   valueAt,
 } from "./index-entries.module.code.ts"
 import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
+import { knownIn, NOTHING_FILED, relationIn } from "./reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
 

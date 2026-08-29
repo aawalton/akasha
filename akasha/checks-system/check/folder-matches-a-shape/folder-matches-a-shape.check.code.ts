@@ -4,8 +4,6 @@ import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts
 import {
   filePropertiesAt,
   importedBy,
-  type Known,
-  knownIn,
   pageTypesIn,
 } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
@@ -14,6 +12,7 @@ import {
   importersOf,
   indexIn,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { type Known, knownIn } from "../../../pages-system/indexes/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
 import { besideAt, heldIn, namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"

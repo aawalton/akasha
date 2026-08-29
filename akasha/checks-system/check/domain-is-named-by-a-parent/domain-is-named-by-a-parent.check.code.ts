@@ -1,15 +1,10 @@
-import {
-  type Known,
-  namesIn,
-  pageTypesIn,
-  reaches,
-  valueIn,
-} from "../../../pages-system/indexes/index-entries.module.code.ts"
+import { pageTypesIn, valueIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import {
   idsNaming,
   indexIn,
   standingById,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { type Known, namesIn, reaches } from "../../../pages-system/indexes/reaching.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"

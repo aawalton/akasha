@@ -1,11 +1,5 @@
 import {
-  type Known,
-  knownIn,
-  namesIn,
   pageTypesIn,
-  reaches,
-  recordsIn,
-  type Shaped,
   type Standing,
   schemaAt,
   textAt,
@@ -20,6 +14,14 @@ import {
   standingById,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import {
+  type Known,
+  knownIn,
+  namesIn,
+  reaches,
+  recordsIn,
+  type Shaped,
+} from "../../../pages-system/indexes/reaching.module.code.ts"
 import { namedIn, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
