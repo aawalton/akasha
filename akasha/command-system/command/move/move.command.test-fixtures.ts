@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
 import { gitIn, headOf } from "../../../testing-system/gitting.module.code.ts"
@@ -74,9 +74,7 @@ export function givenIn(root: string): Given {
   return { root, calledAs: "akasha move", from: root, writer: null, agentId: null }
 }
 
-export function stands(root: string, path: string): boolean {
-  return existsSync(join(root, path))
-}
+export { stands } from "../../../testing-system/putting.module.code.ts"
 
 export const head = headOf
 

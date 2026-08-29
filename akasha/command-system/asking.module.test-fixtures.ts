@@ -3,6 +3,7 @@ import { join } from "node:path"
 import type { Phase } from "../checks-system/checking.module.code.ts"
 import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../testing-system/minting.module.code.ts"
+import { put } from "../testing-system/putting.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
@@ -41,12 +42,7 @@ export const scratch = scratchWorld()
 
 export const git = gitIn
 
-export function put(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, body)
-  return at
-}
+export { put }
 
 export function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { gitIn, headOf } from "../../../testing-system/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
@@ -34,9 +34,7 @@ export function naming(...paths: readonly string[]): readonly string[] {
   return paths.flatMap((one) => ["--file-path", one])
 }
 
-export function stands(root: string, path: string): boolean {
-  return existsSync(join(root, path))
-}
+export { stands } from "../../../testing-system/putting.module.code.ts"
 
 export const head = headOf
 

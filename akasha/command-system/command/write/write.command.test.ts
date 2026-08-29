@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { gitIn as git, headOf } from "../../../testing-system/gitting.module.code.ts"
 import {
@@ -8,6 +8,8 @@ import {
   minting,
   REFUSES_CODE,
 } from "../../../testing-system/minting.module.code.ts"
+import { put } from "../../../testing-system/putting.module.code.ts"
+import { bodyIn, givenIn } from "../../asking.module.test-fixtures.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { surface, write } from "./write.command.code.ts"
 
@@ -16,13 +18,6 @@ const ADMITS_AT = "akasha/admits.check*"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function put(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, body)
-  return at
-}
 
 function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
@@ -46,16 +41,6 @@ function checking(root: string, slug: string, body: string): void {
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
   minting(root, slug, id, MINTED, body)
 }
-
-const givenIn = (root: string) => ({
-  root,
-  calledAs: "akasha write",
-  from: root,
-  writer: null,
-  agentId: null,
-})
-
-const bodyIn = (root: string): string => put(root, "body.txt", "proposed\n")
 
 test("a change that passes is written and committed", () => {
   const root = repoWith()

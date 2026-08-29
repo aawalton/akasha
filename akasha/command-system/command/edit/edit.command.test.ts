@@ -9,6 +9,7 @@ import {
   minting,
   REFUSES_CODE,
 } from "../../../testing-system/minting.module.code.ts"
+import { put } from "../../../testing-system/putting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit, surface } from "./edit.command.code.ts"
@@ -20,13 +21,6 @@ const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function put(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, body)
-  return at
-}
 
 function repoWith(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-edit-")
