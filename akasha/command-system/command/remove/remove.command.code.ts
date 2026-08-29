@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
-import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
@@ -20,8 +21,6 @@ const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
 
-const TS = ".ts"
-
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 export const surface: Surface = {
@@ -35,8 +34,6 @@ export const surface: Surface = {
     "the `code` and `test` files standing beside what you name go with it.",
   ],
 }
-
-const BESIDE = /^(code|test)\.[a-z0-9]+$/
 
 export type Read =
   | { readonly named: readonly string[]; readonly dryRun: boolean }
@@ -92,26 +89,6 @@ export function underAkasha(root: string, from: string, named: string): string |
   if (path === "" || path.startsWith("..") || isAbsolute(path)) return null
   if (path !== AKASHA && !path.startsWith(INSIDE)) return null
   return path
-}
-
-function dirOf(path: string): string {
-  const at = path.lastIndexOf("/")
-  return at === -1 ? "" : path.slice(0, at)
-}
-
-export function besideOf(root: string, path: string): readonly string[] {
-  if (!path.endsWith(TS)) return []
-  const stem = basename(path).slice(0, -TS.length)
-  const dir = dirOf(path)
-  const full = join(root, dir)
-  if (!existsSync(full)) return []
-  const found: string[] = []
-  for (const name of readdirSync(full)) {
-    if (!name.startsWith(`${stem}.`)) continue
-    if (!BESIDE.test(name.slice(stem.length + 1))) continue
-    found.push(dir === "" ? name : `${dir}/${name}`)
-  }
-  return found.sort()
 }
 
 export function trackedUnder(root: string, path: string): readonly string[] | null {

@@ -2,6 +2,7 @@ import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
 import { placedIn } from "../../../code-system/code-specifier.module.code.ts"
 import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
+import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
@@ -44,8 +45,6 @@ export const surface: Surface = {
 }
 
 const RELATIVE = /^\.\.?\//
-
-const BESIDE = /^(code|test)\.[a-z0-9]+$/
 
 export const PATHS_AT = ".git/data/index/identity/page/path"
 
@@ -116,26 +115,6 @@ export function underAkasha(root: string, from: string, named: string): string |
   if (path === "" || path.startsWith("..") || isAbsolute(path)) return null
   if (path !== AKASHA && !path.startsWith(INSIDE)) return null
   return path
-}
-
-function dirOf(path: string): string {
-  const at = path.lastIndexOf("/")
-  return at === -1 ? "" : path.slice(0, at)
-}
-
-export function besideOf(root: string, path: string): readonly string[] {
-  if (!path.endsWith(TS)) return []
-  const stem = basename(path).slice(0, -TS.length)
-  const dir = dirOf(path)
-  const full = join(root, dir)
-  if (!existsSync(full)) return []
-  const found: string[] = []
-  for (const name of readdirSync(full)) {
-    if (!name.startsWith(`${stem}.`)) continue
-    if (!BESIDE.test(name.slice(stem.length + 1))) continue
-    found.push(dir === "" ? name : `${dir}/${name}`)
-  }
-  return found.sort()
 }
 
 export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
@@ -275,7 +254,7 @@ function sidedIn(
     for (const held of besideOf(root, from)) {
       if (seen.has(held)) continue
       seen.add(held)
-      const there = `${dirOf(to)}/${basename(held)}`
+      const there = join(dirname(to), basename(held))
       if (existsSync(join(root, there))) {
         refusals.push(`${there} already stands, and the sidecar ${held} goes with what you named`)
         continue

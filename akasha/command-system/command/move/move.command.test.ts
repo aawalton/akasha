@@ -5,15 +5,7 @@ import { join } from "node:path"
 import type { Given } from "../../calling.module.code.ts"
 import { admitting, refusing } from "../../minting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import {
-  besideOf,
-  move,
-  PATHS_AT,
-  pairsIn,
-  repointed,
-  surface,
-  underAkasha,
-} from "./move.command.code.ts"
+import { move, PATHS_AT, pairsIn, repointed, surface, underAkasha } from "./move.command.code.ts"
 
 const scratch = scratchWorld()
 
@@ -331,20 +323,6 @@ test("a path is read against the folder the call ran in", () => {
   expect(underAkasha("/root", "/root/akasha/one", "held.ts")).toBe("akasha/one/held.ts")
   expect(underAkasha("/root", "/root", "elsewhere/held.ts")).toBeNull()
   expect(underAkasha("/root", "/root", "/root/akasha/held.ts")).toBe("akasha/held.ts")
-})
-
-test("a sidecar is found by the name it stands under, not by what the page states", () => {
-  const root = repoWith({
-    [HELD]: PAGE,
-    "akasha/one/held.module.code.ts": OTHER,
-    "akasha/one/held.module.test.ts": OTHER,
-    "akasha/one/held.module.notes.ts": OTHER,
-    "akasha/one/heldover.module.ts": OTHER,
-  })
-  expect(besideOf(root, HELD)).toEqual([
-    "akasha/one/held.module.code.ts",
-    "akasha/one/held.module.test.ts",
-  ])
 })
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {

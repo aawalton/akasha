@@ -20,6 +20,7 @@ export const pagesSystem = {
     "module/page-address",
     "module/page-file-name",
     "module/page-export-name",
+    "module/page-beside",
   ],
   invariants: [
     {
