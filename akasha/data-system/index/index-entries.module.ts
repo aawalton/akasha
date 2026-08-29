@@ -1,0 +1,17 @@
+import type { Module } from "../../code-system/module/module.page-type.ts"
+
+export const indexEntries = {
+  id: "01a04b79-16c5-70d4-884a-66c95ddbec0d",
+  pageTypeSlug: "module",
+  slug: "index-entries",
+  definition: "the entries a page's value implies",
+  code: "ts",
+  test: "ts",
+  requiredReadingSlugs: ["domain/index-identity", "domain/index-relation"],
+  design: [
+    "A page's body can be loaded after the file it came from is gone.",
+    "A property's target is read from the index rather than from the corpus.",
+    "A value that narrows to more than one page is refused, never resolved to one of them.",
+    "A value the index cannot resolve is reported, never thrown.",
+  ],
+} as const satisfies Module

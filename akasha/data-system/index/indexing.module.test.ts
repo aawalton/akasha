@@ -2,7 +2,8 @@ import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join, relative } from "node:path"
-import { indexingAt, rebuiltFrom, valueIn } from "./indexing.module.code.ts"
+import { valueIn } from "./index-entries.module.code.ts"
+import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 
 type Held = Record<string, unknown>
 
