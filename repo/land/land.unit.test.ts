@@ -3,6 +3,7 @@ import { execFileSync } from "node:child_process"
 import {
   chmodSync,
   existsSync,
+  mkdirSync,
   mkdtempSync,
   readdirSync,
   readFileSync,
@@ -179,4 +180,36 @@ test("a new body carrying no shebang does not land executable", () => {
   const at = `${root}/plain.txt`
   put(at, "no shebang\n")
   expect(statSync(at).mode & 0o111).toBe(0)
+})
+
+function landOne(root: string, relPath: string, body: string): void {
+  landFiles({
+    repo: "code-editor",
+    root,
+    message: "hold it",
+    entries: [{ relPath, body }],
+    commit: () => "sha",
+  })
+}
+
+test("a body landing in a directory that does not stand yet is written", () => {
+  const root = scratchRepo()
+  landOne(root, "deep/under/here.txt", "body\n")
+  expect(readFileSync(`${root}/deep/under/here.txt`, "utf8")).toBe("body\n")
+})
+
+test("a body lands under the lock, so a lock left by a dead writer is reclaimed", () => {
+  const root = scratchRepo()
+  const at = `${root}/held.txt`
+  mkdirSync(`${at}.lock`)
+  writeFileSync(`${at}.lock/held-by`, "2147483647 nothing", "utf8")
+  landOne(root, "held.txt", "body\n")
+  expect(readFileSync(at, "utf8")).toBe("body\n")
+  expect(existsSync(`${at}.lock`)).toBe(false)
+})
+
+test("the lock does not stand once a body has landed", () => {
+  const root = scratchRepo()
+  landOne(root, "held.txt", "body\n")
+  expect(readdirSync(root).filter((one) => one.endsWith(".lock"))).toEqual([])
 })

@@ -209,8 +209,9 @@ export function landFiles(one: Landings): Landed {
   const wrote: string[] = []
   for (const entry of entries) {
     const absolute = `${root}/${entry.relPath}`
+    mkdirSync(dirname(absolute), { recursive: true })
     try {
-      put(absolute, entry.body)
+      exclusively(absolute, () => put(absolute, entry.body))
     } catch (err) {
       throw new LandingRefused(
         `could not write ${entry.relPath}: ${err instanceof Error ? err.message : String(err)}`
