@@ -11,5 +11,6 @@ export const codeSystem = {
     "module/code-rule",
     "module/code-tests",
     "module/code-format",
+    "module/code-lint",
   ],
 } as const satisfies Domain
