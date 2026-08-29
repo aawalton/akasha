@@ -1,11 +1,12 @@
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -41,7 +42,7 @@ export type Loaded = {
 }
 
 export function loadedFrom(body: string): Loaded {
-  const held = mkdtempSync(join(tmpdir(), "akasha-index-"))
+  const held = mkdtempSync(join(SCRATCH_AT, "akasha-index-"))
   try {
     const at = join(held, "held.page.ts")
     writeFileSync(at, body)

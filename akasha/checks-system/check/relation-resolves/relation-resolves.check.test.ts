@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import { appendFileSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
@@ -12,6 +11,8 @@ import {
   relationProperties,
   relationResolves,
 } from "./relation-resolves.check.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -106,7 +107,7 @@ function naming(
 }
 
 function rooted(carrying: boolean = true): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-relation-resolves-"))
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-relation-resolves-"))
   held.push(root)
   let count = 0
   for (const [slug, extendsSlug, mortal] of TYPES) {

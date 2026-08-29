@@ -1,6 +1,7 @@
 import { mkdtempSync, rmSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
+
+const SCRATCH_AT = "/var/tmp"
 
 export type Scratch = {
   readonly rootFor: (prefix: string) => string
@@ -11,7 +12,7 @@ export function scratchWorld(): Scratch {
   const held: string[] = []
   return {
     rootFor: (prefix: string): string => {
-      const root = mkdtempSync(join(tmpdir(), prefix))
+      const root = mkdtempSync(join(SCRATCH_AT, prefix))
       held.push(root)
       return root
     },

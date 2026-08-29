@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Leaving } from "../../judging.module.code.ts"
 import {
@@ -8,6 +7,8 @@ import {
   pagesTouchedBy,
   statedBy,
 } from "./page-property-has-its-file.check.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -32,7 +33,7 @@ function filed(root: string, at: string, line: string): void {
 }
 
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-property-filed-"))
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-property-filed-"))
   held.push(root)
   for (const one of ["module", "check", "domain", "page-type"]) {
     filed(

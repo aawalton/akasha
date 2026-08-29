@@ -11,7 +11,6 @@ import {
   writeFileSync,
 } from "node:fs"
 import { createRequire } from "node:module"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
 import { indexIn } from "../pages-system/index/index-reading.module.code.ts"
@@ -55,6 +54,8 @@ export const INDEXING_AT = "akasha/pages-system/index/indexing.module.code.ts"
 const PATCH = "patch"
 
 const SAID_AT_MOST = 240
+
+const SCRATCH_AT = "/var/tmp"
 
 const CAT_FILE = "akasha-cat-file-"
 
@@ -163,7 +164,7 @@ export function readingEnded(): void {
 }
 
 function readerOn(root: string): Reading {
-  const dir = mkdtempSync(join(tmpdir(), CAT_FILE))
+  const dir = mkdtempSync(join(SCRATCH_AT, CAT_FILE))
   const sayingAt = join(dir, SAYING)
   const troubleAt = join(dir, TROUBLE)
   const saying = openSync(sayingAt, "w")

@@ -1,11 +1,12 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import { besideOf } from "./page-beside.module.code.ts"
 
+const SCRATCH_AT = "/var/tmp"
+
 function rootWith(paths: readonly string[]): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-beside-"))
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-beside-"))
   for (const one of paths) {
     const at = join(root, one)
     mkdirSync(dirname(at), { recursive: true })

@@ -1,11 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { readdirSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
 import { blobIdOf } from "./reading.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const scratch = scratchWorld()
 
@@ -109,8 +110,8 @@ test("a body that is not text is no difference", () => {
 })
 
 test("the files a difference was taken over are gone when it is answered", () => {
-  const before = readdirSync(tmpdir()).filter((one) => one.startsWith("akasha-differing-")).length
+  const before = readdirSync(SCRATCH_AT).filter((one) => one.startsWith("akasha-differing-")).length
   differenceOf(bodyOf("one\n"), bodyOf("two\n"))
-  const after = readdirSync(tmpdir()).filter((one) => one.startsWith("akasha-differing-")).length
+  const after = readdirSync(SCRATCH_AT).filter((one) => one.startsWith("akasha-differing-")).length
   expect(after).toBe(before)
 })

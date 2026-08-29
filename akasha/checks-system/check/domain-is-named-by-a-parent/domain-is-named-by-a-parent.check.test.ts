@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { join } from "node:path"
 import {
   domainIsNamedByAParent,
   domainSlugOf,
   reasonsIn,
 } from "./domain-is-named-by-a-parent.check.code.ts"
+
+const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -23,7 +24,7 @@ afterAll(() => {
 })
 
 function rooted(): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-parented-"))
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-parented-"))
   held.push(root)
   return root
 }
