@@ -1,4 +1,9 @@
 import ts from "typescript"
+import type { Judged } from "../../../write-system/landing.module.code.ts"
+import type { Whole } from "../../checking.module.code.ts"
+import { textIn } from "../../checking.module.code.ts"
+
+const TS = ".ts"
 
 export function witnessTypesIn(path: string, text: string): readonly string[] {
   const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
@@ -40,27 +45,51 @@ function assertedTo(node: ts.TypeNode): string | null {
   return ts.isIdentifier(named) ? named.text : null
 }
 
-export function assertionRefusals(
+export function assertionFindings(
   path: string,
   text: string,
-  witnessTypes: ReadonlyMap<string, string>
-): readonly string[] {
+  witnessTypes: ReadonlyMap<string, string>,
+  named: (at: string) => string
+): readonly Judged[] {
   const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
-  const said: string[] = []
+  const said: Judged[] = []
   const visit = (node: ts.Node): void => {
     if (ts.isAsExpression(node) || ts.isTypeAssertionExpression(node)) {
-      const named = assertedTo(node.type)
-      const declaredIn = named === null ? undefined : witnessTypes.get(named)
-      if (named !== null && declaredIn !== undefined && declaredIn !== path) {
+      const held = assertedTo(node.type)
+      const declaredIn = held === null ? undefined : witnessTypes.get(held)
+      if (held !== null && declaredIn !== undefined && declaredIn !== path) {
         const line = source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1
-        said.push(
-          `${path}: line ${line} asserts to \`${named}\`, which ${declaredIn} declares as a ` +
-            "witness — a witness is obtained from the module that declares it or not at all"
-        )
+        said.push({
+          path,
+          reason:
+            `line ${line} asserts to \`${held}\`, which ${named(declaredIn)} declares as a ` +
+            "witness — a witness is obtained from the module that declares it or not at all",
+        })
       }
     }
     ts.forEachChild(node, visit)
   }
   ts.forEachChild(source, visit)
+  return said
+}
+
+export function witnessNotAsserted(given: Whole): readonly Judged[] {
+  const named = (at: string): string =>
+    at.startsWith(`${given.root}/`) ? at.slice(given.root.length + 1) : at
+  const bodies = new Map<string, string>()
+  for (const path of given.paths) {
+    if (!path.endsWith(TS)) continue
+    const text = textIn(given, path)
+    if (text !== null) bodies.set(path, text)
+  }
+  const witnessTypes = new Map<string, string>()
+  for (const [path, text] of bodies) {
+    for (const one of witnessTypesIn(path, text)) witnessTypes.set(one, path)
+  }
+  if (witnessTypes.size === 0) return []
+  const said: Judged[] = []
+  for (const [path, text] of bodies) {
+    said.push(...assertionFindings(path, text, witnessTypes, named))
+  }
   return said
 }

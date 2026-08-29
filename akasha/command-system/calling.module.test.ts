@@ -19,6 +19,7 @@ let count = 0
 
 function outsideOf(root: string): Outside {
   return {
+    repo: root,
     root,
     seat: "athena",
     record: `${root}/record.json`,
@@ -185,6 +186,7 @@ test("a real call of read through calling answers with the file it was given", (
   const root = mkdtempSync(`${tmpdir()}/akasha-calling-real-`)
   try {
     const answer = calling(["read", "--file-path", "akasha-system/akasha-import.domain.ts"], {
+      repo: AKASHA,
       root: AKASHA,
       seat: "athena",
       record: `${root}/record.json`,
@@ -208,6 +210,7 @@ test("a real call of read refuses a pipe, so the record is never written from on
   const root = mkdtempSync(`${tmpdir()}/akasha-calling-pipe-`)
   try {
     const answer = calling(["read", "--file-path", "akasha-system/akasha-import.domain.ts"], {
+      repo: AKASHA,
       root: AKASHA,
       seat: "athena",
       record: `${root}/record.json`,

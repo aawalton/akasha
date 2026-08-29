@@ -1,14 +1,12 @@
 import { resolve } from "node:path"
 import {
-  assertionRefusals,
+  assertionFindings,
   witnessTypesIn,
-} from "../../../akasha/write-system/witness-not-asserted.module.code.ts"
+} from "../../../akasha/checks-system/check/witness-not-asserted/witness-not-asserted.check.code.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import type { Check, CheckFailure } from "../check-shape.ts"
 
 const AKASHA = "akasha"
-
-const SAID = /^(.*?): /
 
 export const akashaWitnessNotAsserted: Check = {
   slug: "akasha-witness-not-asserted",
@@ -32,12 +30,10 @@ export const akashaWitnessNotAsserted: Check = {
     }
     if (witnessTypes.size === 0) return []
 
+    const named = (at: string): string => at
     const found: CheckFailure[] = []
     for (const [path, text] of bodies) {
-      for (const one of assertionRefusals(path, text, witnessTypes)) {
-        const named = SAID.exec(one)
-        found.push({ path, reason: named === null ? one : one.slice(named[0].length) })
-      }
+      found.push(...assertionFindings(path, text, witnessTypes, named))
     }
     return found
   },

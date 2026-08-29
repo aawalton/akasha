@@ -9,8 +9,6 @@ export const writeSystem = {
     "module/corpus",
     "module/reading",
     "module/landing",
-    "module/relation-resolves",
-    "module/witness-not-asserted",
     "module/required-reading",
     "module/difference",
   ],

@@ -1,4 +1,7 @@
-import type { Corpus, Filed } from "./corpus.module.code.ts"
+import type { Corpus, Filed } from "../../../write-system/corpus.module.code.ts"
+import type { Judged } from "../../../write-system/landing.module.code.ts"
+import type { Whole } from "../../checking.module.code.ts"
+import { corpusFor } from "../../checking.module.code.ts"
 
 const NOT_A_PROPERTY = new Set(["id", "slug", "pageTypeSlug"])
 
@@ -12,25 +15,33 @@ function namesIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
-export function relationRefusals(corpus: Corpus): readonly string[] {
-  const said: string[] = []
+export function relationFindings(corpus: Corpus): readonly Judged[] {
+  const said: Judged[] = []
   const seen = (at: Filed, key: string, named: string, wanted: string): void => {
     const what = corpus.resolve(named, wanted)
     if (what.kind === "one") return
     if (what.kind === "many") {
-      said.push(
-        `${at.path}: \`${key}\` names \`${named}\`, and ` +
-          `${what.among.map((one) => `\`${one.pageTypeSlug}\``).join(" and ")} both carry it`
-      )
+      said.push({
+        path: at.path,
+        reason:
+          `\`${key}\` names \`${named}\`, and ` +
+          `${what.among.map((one) => `\`${one.pageTypeSlug}\``).join(" and ")} both carry it`,
+      })
       return
     }
     const anywhere = corpus.resolve(named, null)
     if (anywhere.kind === "none") {
-      said.push(`${at.path}: \`${key}\` names \`${named}\`, and no page carries that slug`)
+      said.push({
+        path: at.path,
+        reason: `\`${key}\` names \`${named}\`, and no page carries that slug`,
+      })
       return
     }
     const is = anywhere.kind === "one" ? anywhere.at.pageTypeSlug : "page of another type"
-    said.push(`${at.path}: \`${key}\` may name a \`${wanted}\`, and \`${named}\` is a \`${is}\``)
+    said.push({
+      path: at.path,
+      reason: `\`${key}\` may name a \`${wanted}\`, and \`${named}\` is a \`${is}\``,
+    })
   }
 
   for (const at of corpus.every()) {
@@ -44,4 +55,13 @@ export function relationRefusals(corpus: Corpus): readonly string[] {
     }
   }
   return said
+}
+
+export function relationResolves(given: Whole): readonly Judged[] {
+  const read = corpusFor(given)
+  if (read.kind === "unread") return [{ path: given.root, reason: read.reason }]
+  return relationFindings(read.corpus).map((one) => ({
+    path: read.back(one.path),
+    reason: one.reason,
+  }))
 }

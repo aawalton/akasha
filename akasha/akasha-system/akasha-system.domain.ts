@@ -19,10 +19,12 @@ export const akashaSystem = {
     "domain/write-system",
     "domain/data-system",
     "domain/command-system",
+    "domain/checks-system",
     "domain/akasha-migration",
   ],
   requiredReadingSlugs: [
     "domain/akasha-check",
+    "domain/checks-system",
     "domain/unenforced-invariant",
     "domain/akasha-code",
     "domain/code-system",
