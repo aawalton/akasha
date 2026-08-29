@@ -40,6 +40,12 @@ export function keepSeatRecord(
   }
 }
 
+export function backfillSeatRecord(agent: string, key: string, held: string | null): void {
+  if (held === null || held === "") return
+  if (seatRecordOf(agent, key) !== null) return
+  keepSeatRecord(agent, key, held)
+}
+
 export function dropSeatRecord(agent: string, key: string): void {
   if (agent === "") return
   const page = seatPageForAgent(agent)

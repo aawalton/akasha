@@ -1,17 +1,12 @@
 import { resolveRoots } from "../../repo/roots/roots"
-import {
-  frontmatterFromHistory,
-  nameFromHistory,
-  sessionFromHistory,
-} from "./seat-page-history.ts"
+import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { frontmatterOf, seatPageForAgent, seatPresence } from "./seat-presence-read.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
+import { sessionOf } from "./seat-session.ts"
 
 const TITLE = "title"
 
 const ACCOUNT_KEY = "registration-account"
-
-const SESSION_KEY = "claude-code-session-uuid"
 
 export interface RelaunchTarget {
   readonly name: string | null
@@ -33,7 +28,7 @@ function fromHistory(agentId: string): RelaunchTarget | null {
     name,
     account: textAt(frontmatterFromHistory(agentId, roots), ACCOUNT_KEY),
     presence: "absent",
-    sessionId: sessionFromHistory(agentId, roots),
+    sessionId: null,
   }
 }
 
@@ -52,7 +47,7 @@ export async function resolveRelaunchTarget(
       name: textAt(seat, TITLE),
       account: textAt(seat, ACCOUNT_KEY),
       presence: seatPresence(page),
-      sessionId: textAt(seat, SESSION_KEY),
+      sessionId: sessionOf(agentId)?.value ?? null,
     },
   }
 }

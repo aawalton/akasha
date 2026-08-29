@@ -5,9 +5,9 @@ import { nameFromHistory, parentFromHistory } from "./lib/seat-page-history.ts"
 import { removeSeatPage, writeSeatPage } from "./lib/seat-page.ts"
 import { composedNameOf } from "./lib/seat-rename.ts"
 import { rotatedOf } from "./lib/seat-rotated-session.ts"
-import { sessionRecordOf } from "./lib/seat-session.ts"
-import { type Stated, fallBackToHistory, statedOf } from "./lib/seat-stated.ts"
-import { transcriptRecordOf } from "./lib/seat-transcript-path.ts"
+import { keepSession, sessionRecordOf } from "./lib/seat-session.ts"
+import { backfillObserved, type Stated, fallBackToHistory, statedOf } from "./lib/seat-stated.ts"
+import { keepTranscript, transcriptRecordOf } from "./lib/seat-transcript-path.ts"
 
 export interface BeatReport {
   readonly outcome: Outcome
@@ -46,10 +46,18 @@ export function beat(argv: readonly string[]): BeatReport {
   const seat = composedNameOf(agentId) ?? nameFromHistory(agentId, roots)
   if (seat === null) return { outcome: { kind: "unchanged" }, seat: null }
 
+  backfillObserved(agentId)
+
+  const healing = valueOf(argv, "--self-heal-session")
+  if (healing !== null && valueOf(argv, "--self-heal-agent") === agentId) {
+    keepSession(agentId, healing)
+  }
+
   const sessionId = valueOf(argv, "--session")
   if (sessionId !== null) {
     const running = sessionRecordOf(sessionId)
     if (running === null) return { outcome: { kind: "unchanged" }, seat }
+    keepSession(agentId, running.value)
     return { outcome: writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
   }
 
@@ -57,6 +65,7 @@ export function beat(argv: readonly string[]): BeatReport {
   if (transcriptPath !== null) {
     const watching = transcriptRecordOf(transcriptPath)
     if (watching === null) return { outcome: { kind: "unchanged" }, seat }
+    keepTranscript(agentId, watching.value)
     return { outcome: writeSeatPage({ ...statedOf(agentId), transcript: watching }, seat), seat }
   }
 

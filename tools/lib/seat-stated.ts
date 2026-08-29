@@ -9,10 +9,18 @@ import { type ErrandRecord, errandOf } from "./seat-errand.ts"
 import { type InitiativeRecord, initiativeOf } from "./seat-initiative.ts"
 import { type PrincipalRecord, principalOf } from "./seat-principal.ts"
 import { type RegistrationRecord, registrationAccountOf } from "./seat-registration-account.ts"
-import { rotatedOf } from "./seat-rotated-session.ts"
-import { type SessionRecord, sessionOf } from "./seat-session.ts"
+import { pageTextOf } from "./seat-page-values.ts"
+import { backfillSeatRecord } from "./seat-record.ts"
+import { ROTATED_KEY, rotatedOf } from "./seat-rotated-session.ts"
+import { SESSION_KEY, type SessionRecord, sessionOf } from "./seat-session.ts"
 import { type TaskRecord, taskOf } from "./seat-task.ts"
-import { type TranscriptRecord, transcriptOf } from "./seat-transcript-path.ts"
+import { TRANSCRIPT_KEY, type TranscriptRecord, transcriptOf } from "./seat-transcript-path.ts"
+
+const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
+
+export function backfillObserved(agent: string): void {
+  for (const key of OBSERVED) backfillSeatRecord(agent, key, pageTextOf(agent, key))
+}
 
 export interface Stated {
   readonly agent: string
