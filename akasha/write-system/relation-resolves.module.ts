@@ -11,7 +11,7 @@ export const relationResolves = {
     "akasha-page-edge",
   ],
   design: [
-    "A relation check that does not walk `extendsSlug` is worthless, because a domain is a page and almost every relation crosses that.",
+    "A relation check walks `extendsSlug`.",
     "The type carries which page type a relation may name; whether that page exists is a different claim, answered here.",
   ],
 } as const satisfies Module

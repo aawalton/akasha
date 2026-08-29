@@ -12,7 +12,8 @@ export const reading = {
     "akasha-text",
   ],
   design: [
-    "The record holds an oid and when it was seen and nothing else, because the old reader writes the same file and knows no other field.",
+    "The record holds an oid and when it was seen and nothing else.",
+    "The old reader writes the same file and knows no other field.",
     "A reading the old path marked expired is not a reading here either.",
     "A body is kept in a store of its own keyed by its oid, so one body read by two seats is one entry and pruning it touches no reading.",
     "The body a read recorded is kept beside its oid, so what moved is answered here rather than asked of git.",
