@@ -8,11 +8,11 @@ export const akashaRequiredReading = {
   intent: [
     {
       invariantKind: "gap",
-      statement: "When a domain should be required reading is clearly defined.",
+      statement: "What a seat must read is worked out from what it is and what it has in hand.",
     },
     {
       invariantKind: "gap",
-      statement: "Required reading for current domains is correctly set.",
+      statement: "No reading an agent needs falls outside the warrants.",
     },
     {
       invariantKind: "gap",
