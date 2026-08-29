@@ -25,12 +25,17 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "departure",
       statement:
+        "A page type the change itself puts under `page-property` counts, because which page types stand under it is read from the index as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A record property declares its fields the same way a page type declares its properties, so both are read as declarations.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What declares a page is read from the change and the index together, so a property and the type declaring it land as one.",
+        "What declares a page is one directory listed on the index as the change leaves it, so a type landing in the change and one the change withdraws are answered by the same lookup.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +44,18 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement: "An index answering other than one page to the slug is thrown on, never passed.",
+      statement:
+        "A page type the change takes away leaves the properties it declared judged, because those are looked for in the body the change withdrew and not among the pages the change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index answering other than one page to the slug is passed over, not thrown on, because a check that throws leaves every other page in the change unjudged.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Why the index answers none or two is not said here. A page stating no `id`, a body that will not load, a file named otherwise than its slug and a slug two pages carry are refused in words beside this.",
     },
     {
       invariantKind: "departure",
