@@ -8,10 +8,10 @@ export const folderMatchesAShape = {
   partSlugs: ["page-type/folder-shape"],
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -42,11 +42,6 @@ export const folderMatchesAShape = {
       invariantKind: "absence",
       statement:
         "A folder already matching no shape that the change does not touch is named by nothing here, and this does not go looking for it. Audit judges every folder.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "This runs at no phase. Folders stand today that match no shape, and a check refusing them would refuse every change until they are gone.",
     },
   ],
 } as const satisfies Check
