@@ -135,6 +135,23 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
+const TS_ENDING = `.${TS}`
+
+export function overEachText(
+  found: (path: string, text: string) => readonly string[]
+): (given: Body) => readonly string[] {
+  return (given) => {
+    if (!given.path.endsWith(TS_ENDING)) return []
+    const text = bodyOf(given)
+    if (text === null) return []
+    return found(given.path, text)
+  }
+}
+
+export function judgingEachFile(judge: (given: Body) => readonly string[]): Running {
+  return (leaving) => overEachFile(leaving, judge)
+}
+
 export function overEachFile(
   leaving: Leaving,
   judge: (given: Body) => readonly string[]

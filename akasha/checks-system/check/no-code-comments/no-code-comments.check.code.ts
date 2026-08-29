@@ -1,7 +1,5 @@
 import ts from "typescript"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf, overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
 const TS = ".ts"
 
@@ -91,12 +89,9 @@ function looksParsed(one: Found): boolean {
   return PARSED.some((marker) => said.startsWith(marker) || bare.startsWith(marker))
 }
 
-export function reasonsIn(given: Body): readonly string[] {
-  if (!given.path.endsWith(TS)) return []
-  const text = bodyOf(given)
-  if (text === null) return []
+function found(path: string, text: string): readonly string[] {
   const said: string[] = []
-  for (const one of commentsIn(given.path, text)) {
+  for (const one of commentsIn(path, text)) {
     if (isForm(one)) continue
     const what = looksParsed(one) ? "a directive nothing declares" : "prose"
     said.push(`line ${one.line} carries ${what}, which is none of the code comment forms`)
@@ -104,6 +99,6 @@ export function reasonsIn(given: Body): readonly string[] {
   return said
 }
 
-export function noCodeComments(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
-}
+export const reasonsIn = overEachText(found)
+
+export const noCodeComments = judgingEachFile(reasonsIn)

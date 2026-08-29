@@ -1,7 +1,5 @@
 import ts from "typescript"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf, overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
 const TS = ".ts"
 
@@ -81,13 +79,10 @@ export function reasonsFor(at: string, text: string): readonly string[] {
   return said
 }
 
-export function reasonsIn(given: Body): readonly string[] {
-  if (!given.path.endsWith(TS)) return []
-  const text = bodyOf(given)
-  if (text === null) return []
-  return reasonsFor(given.path, text)
+function found(path: string, text: string): readonly string[] {
+  return reasonsFor(path, text)
 }
 
-export function noTmp(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
-}
+export const reasonsIn = overEachText(found)
+
+export const noTmp = judgingEachFile(reasonsIn)

@@ -1,6 +1,5 @@
 import type { Body } from "../../checking.module.code.ts"
-import { overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { judgingEachFile } from "../../checking.module.code.ts"
 
 const NUL = 0
 
@@ -42,6 +41,4 @@ export function reasonsIn(given: Body): readonly string[] {
   return reasonFor(sitesIn(given.bytes))
 }
 
-export function noRawNulBytes(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
-}
+export const noRawNulBytes = judgingEachFile(reasonsIn)

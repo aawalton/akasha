@@ -1,7 +1,5 @@
 import ts from "typescript"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf, overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
 const TS = ".ts"
 
@@ -82,18 +80,15 @@ function reasonFor(one: Stated): string | null {
   return `${states} is written in upper uuid, and a uuid is written in lower uuid`
 }
 
-export function reasonsIn(given: Body): readonly string[] {
-  if (!given.path.endsWith(TS)) return []
-  const text = bodyOf(given)
-  if (text === null) return []
+function found(path: string, text: string): readonly string[] {
   const said: string[] = []
-  for (const stated of statedIn(given.path, text)) {
+  for (const stated of statedIn(path, text)) {
     const reason = reasonFor(stated)
     if (reason !== null) said.push(reason)
   }
   return said
 }
 
-export function idIsAUuidVersion7(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
-}
+export const reasonsIn = overEachText(found)
+
+export const idIsAUuidVersion7 = judgingEachFile(reasonsIn)

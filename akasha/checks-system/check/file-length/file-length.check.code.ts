@@ -1,6 +1,5 @@
 import type { Body } from "../../checking.module.code.ts"
-import { overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { judgingEachFile } from "../../checking.module.code.ts"
 
 export const CEILING = 15000
 
@@ -12,6 +11,4 @@ export function reasonsIn(given: Body): readonly string[] {
   return [`${held.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} byte ceiling`]
 }
 
-export function fileLength(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
-}
+export const fileLength = judgingEachFile(reasonsIn)

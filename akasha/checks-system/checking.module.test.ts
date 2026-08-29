@@ -11,7 +11,9 @@ import {
   everythingIn,
   judgingBy,
   onDisk,
+  judgingEachFile,
   overEachFile,
+  overEachText,
 } from "./checking.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
@@ -141,6 +143,33 @@ test("the helper hands over each body the change leaves standing, and no path it
     (given) => [`${given.path} holds ${given.bytes.length} bytes`]
   )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
+})
+
+test("reading each text hands the path and the body on, and passes over what is no TypeScript", () => {
+  const seen: string[] = []
+  const judge = overEachText((path, text) => {
+    seen.push(path)
+    return [`${path} says ${text.length}`]
+  })
+  const bytes = new TextEncoder().encode("held")
+  expect(judge({ root: "/nowhere", path: "one.ts", bytes })).toEqual(["one.ts says 4"])
+  expect(judge({ root: "/nowhere", path: "one.md", bytes })).toEqual([])
+  expect(seen).toEqual(["one.ts"])
+})
+
+test("reading each text passes over a body that is no text at all", () => {
+  const judge = overEachText(() => ["read"])
+  const bytes = Uint8Array.from([0xff, 0xfe, 0xfd])
+  expect(judge({ root: "/nowhere", path: "one.ts", bytes })).toEqual([])
+})
+
+test("judging each file makes a runner of a judge, naming the path each refusal is for", () => {
+  const root = scratch.rootFor("akasha-each-run-")
+  writeFileSync(join(root, "here.ts"), "here")
+  const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
+  expect(run({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) })).toEqual(
+    [{ path: "here.ts", reason: "here.ts holds 4 bytes" }]
+  )
 })
 
 test("a phase takes only the checks that state it", () => {

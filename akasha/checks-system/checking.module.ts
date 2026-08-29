@@ -52,5 +52,10 @@ export const checking = {
       statement:
         "A path is read out of the change by name as well as in turn, so a check needing what it was not handed reads the body the change would leave rather than the one on disk.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "How a check runs over each file, and how a text is read out of a body, are held here rather than written again in every check, so a check says what it looks for and not how it is walked.",
+    },
   ],
 } as const satisfies Module
