@@ -8,8 +8,9 @@ export const commandSystem = {
   partSlugs: ["page-type/command", "module/calling", "module/landing", "module/cli"],
   requiredReadingSlugs: [],
   design: [
-    "A command reaches the akasha folder and nothing above it.",
-    "The commands are found in the index, so naming one costs nothing the corpus grows.",
-    "A command answers with what to report and what refused it, and never writes to the console itself.",
+    "A command reaches no further than the akasha folder.",
+    "A command is found in the index, so naming one costs the same at any size.",
+    "A command answers with what to report and what refused it, and prints nothing itself.",
+    "A command's answer carries a code saying whose fault it was: the caller's, the data's, or the command's.",
   ],
 } as const satisfies Domain
