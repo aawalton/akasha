@@ -76,8 +76,8 @@ const REFUSES_PAGE = `export const refuses = {
 }
 `
 
-const REFUSES_CODE = `export function refuses() {
-  return ["refused for the test"]
+const REFUSES_CODE = `export function refuses(leaving) {
+  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
 }
 `
 
