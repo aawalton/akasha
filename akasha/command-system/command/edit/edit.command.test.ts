@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bytes } from "../../../testing-system/bodying.module.code.ts"
-import { gitIn as git, headOf } from "../../../testing-system/gitting.module.code.ts"
+import { gitIn as git } from "../../../testing-system/gitting.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
@@ -11,6 +11,7 @@ import {
 } from "../../../testing-system/minting.module.code.ts"
 import { put } from "../../../testing-system/putting.module.code.ts"
 import { landingAsked } from "../../asking.module.code.ts"
+import { baseOf as headOf } from "../../landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { edit, surface } from "./edit.command.code.ts"

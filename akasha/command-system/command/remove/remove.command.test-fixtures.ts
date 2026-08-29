@@ -1,8 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { gitIn, headOf } from "../../../testing-system/gitting.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
+import { baseOf } from "../../landing.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 
 export const scratch = scratchWorld()
@@ -34,7 +35,7 @@ export function naming(...paths: readonly string[]): readonly string[] {
   return paths.flatMap((one) => ["--file-path", one])
 }
 
-export const head = headOf
+export const head = baseOf
 
 export const HELD = "akasha/one/held.module.ts"
 

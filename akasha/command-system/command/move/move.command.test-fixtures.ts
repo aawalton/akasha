@@ -1,9 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
-import { gitIn, headOf } from "../../../testing-system/gitting.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
+import { baseOf } from "../../landing.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { IMPORTS_AT, PATHS_AT } from "./move.command.code.ts"
 
@@ -74,7 +75,7 @@ export function givenIn(root: string): Given {
   return { root, calledAs: "akasha move", from: root, writer: null, agentId: null }
 }
 
-export const head = headOf
+export const head = baseOf
 
 export function importing(root: string, target: string, importers: readonly string[]): void {
   const at = join(root, IMPORTS_AT, `${target}.jsonl`)
