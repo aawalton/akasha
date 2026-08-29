@@ -7,6 +7,7 @@ import { gitIn as git } from "../testing-system/gitting.module.code.ts"
 import { until } from "../testing-system/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
+import { declaring } from "./landing.module.test-fixtures.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname
@@ -101,6 +102,7 @@ test("callers asking at once take the hold one at a time, and none overlaps anot
 
 test("landings at once each land, and none takes another back", async () => {
   const root = repoWith({ "seed.txt": "held" })
+  declaring(root)
   const was = baseOf(root)
   const go = join(root, "go")
   const ready = (one: string): string => join(root, `ready-${one}`)

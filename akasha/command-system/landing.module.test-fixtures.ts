@@ -2,6 +2,10 @@ import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
+import type { Value } from "../pages-system/indexes/index-entries.module.code.ts"
+import { schemaIn } from "../pages-system/indexes/index-entries.module.code.ts"
+import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"
+import { slug as slugPage } from "../pages-system/page/properties/slug.text-property.ts"
 import { bytesOf } from "../testing-system/bodying.module.code.ts"
 import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
@@ -55,3 +59,14 @@ export const indexIn = (root: string): string => join(root, ".git/data/index")
 
 export const butTheStamp = (found: readonly string[]): readonly string[] =>
   found.filter((one) => !one.startsWith("/stamp.jsonl "))
+
+export function declaring(root: string): void {
+  const pages: readonly Value[] = [idPage, slugPage]
+  for (const page of pages) {
+    for (const one of schemaIn(page)) {
+      const at = join(indexIn(root), one.at)
+      mkdirSync(join(at, ".."), { recursive: true })
+      writeFileSync(at, `${one.line}\n`)
+    }
+  }
+}

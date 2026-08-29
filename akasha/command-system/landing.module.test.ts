@@ -21,6 +21,7 @@ import {
   ADMITS,
   butTheStamp,
   bytes,
+  declaring,
   git,
   gitOver,
   ID,
@@ -160,6 +161,7 @@ setInterval(() => {}, 1000)`,
 
 test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
   const root = repoWith({ "seed.txt": "held" })
+  declaring(root)
   const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   const held = indexIn(root)
@@ -173,6 +175,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
 
 test("a landing that takes a page away takes its index entries with it", () => {
   const root = repoWith({ "seed.txt": "held" })
+  declaring(root)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const held = indexIn(root)
   expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(true)
@@ -183,6 +186,7 @@ test("a landing that takes a page away takes its index entries with it", () => {
 
 test("a landing no check judged keeps the index all the same", () => {
   const root = repoWith({ "seed.txt": "held" })
+  declaring(root)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
   expect(existsSync(join(indexIn(root), `identity/page/id/${ID}.jsonl`))).toBe(true)
 })

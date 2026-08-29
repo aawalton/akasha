@@ -4,6 +4,9 @@ import { join } from "node:path"
 import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { stampIn } from "../../../pages-system/indexes/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing.module.code.ts"
+import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
+import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
+import { textProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
 import { gitIn as git } from "../../../testing-system/gitting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { calling } from "../../calling.module.code.ts"
@@ -39,6 +42,9 @@ const PAGES: Readonly<Record<string, string>> = {
     pageTypeSlug: "page-type",
     slug: "domain",
   }),
+  "akasha/text-property.page-type.ts": bodyOf(textProperty),
+  "akasha/id.text-property.ts": bodyOf(idPage),
+  "akasha/slug.text-property.ts": bodyOf(slugPage),
   "akasha/a.domain.ts": bodyOf({ id: A_ID, pageTypeSlug: "domain", slug: "a" }),
   "akasha/a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
   [PAGE_AT]: bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "index-command" }),
