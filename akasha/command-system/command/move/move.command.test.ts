@@ -1,18 +1,22 @@
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
 import { admitting, refusing } from "../../minting.module.code.ts"
+import { scratchWorld } from "../../scratching.module.code.ts"
 import { besideOf, move, pairsIn, PATHS_AT, repointed, underAkasha } from "./move.command.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
 function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-move-"))
+  const root = scratch.rootFor("akasha-move-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -38,10 +42,6 @@ function stands(root: string, path: string): boolean {
 
 function head(root: string): string {
   return git(root, ["rev-parse", "HEAD"]).trim()
-}
-
-function swept(root: string): void {
-  rmSync(root, { recursive: true })
 }
 
 const HELD = "akasha/one/held.module.ts"
@@ -80,7 +80,6 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(said.report.join("\n")).not.toContain("wrote ")
   expect(said.report.join("\n")).not.toContain("took away ")
   expect(said.report.at(-1)).toStartWith("committed as ")
-  swept(root)
 })
 
 test("a page's sidecars go with it without being named", () => {
@@ -96,7 +95,6 @@ test("a page's sidecars go with it without being named", () => {
   expect(stands(root, "akasha/one/deep/held.module.test.ts")).toBe(true)
   expect(stands(root, "akasha/one/held.module.code.ts")).toBe(false)
   expect(said.report.join("\n")).toContain("stood beside what you named")
-  swept(root)
 })
 
 test("a moved body's relative specifier is repointed, and one naming a package is left alone", () => {
@@ -112,14 +110,12 @@ test("a moved body's relative specifier is repointed, and one naming a package i
   const now = readFileSync(join(root, "akasha/one/deep/held.module.code.ts"), "utf8")
   expect(now).toContain('from "../../two/other.module.code.ts"')
   expect(now).toContain('import ts from "typescript"')
-  swept(root)
 })
 
 test("every answer says the files importing what moved were not established", () => {
   const root = repoWith({ [HELD]: PAGE })
   const said = move(PAIR, givenIn(root))
   expect(said.report.join("\n")).toContain("the index carries no edge")
-  swept(root)
 })
 
 const AAAA = "01a04bed-1450-7000-8000-00000000aaaa"
@@ -161,7 +157,6 @@ test("a rename names what names the file, and only where the index answers one p
   expect(two).not.toContain(READER)
   claiming(root, HELD, [AAAA])
   expect(renamed(root)).toContain(READER)
-  swept(root)
 })
 
 test("a refused move leaves nothing behind", () => {
@@ -176,7 +171,6 @@ test("a refused move leaves nothing behind", () => {
   expect(stands(root, THREE)).toBe(false)
   expect(stands(root, "akasha/three")).toBe(false)
   expect(head(root)).toBe(was)
-  swept(root)
 })
 
 test("a path that is not there is refused", () => {
@@ -188,7 +182,6 @@ test("a path that is not there is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not there")
   expect(stands(root, "akasha/three")).toBe(false)
-  swept(root)
 })
 
 test("a destination that already stands is refused", () => {
@@ -197,7 +190,6 @@ test("a destination that already stands is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("already stands")
   expect(readFileSync(join(root, THREE), "utf8")).toBe(OTHER)
-  swept(root)
 })
 
 test("a side standing outside the akasha folder is refused", () => {
@@ -205,7 +197,6 @@ test("a side standing outside the akasha folder is refused", () => {
   const said = move(["--from", HELD, "--to", "elsewhere/held.module.ts"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("stands outside")
-  swept(root)
 })
 
 test("naming no pair is refused rather than committed empty", () => {
@@ -213,7 +204,6 @@ test("naming no pair is refused rather than committed empty", () => {
   const said = move([], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("name at least one pair")
-  swept(root)
 })
 
 test("a --from with no --to is refused", () => {
@@ -235,7 +225,6 @@ test("a dry run gates and writes nothing at all", () => {
   expect(stands(root, THREE)).toBe(true)
   expect(stands(root, HELD)).toBe(false)
   expect(head(root)).not.toBe(was)
-  swept(root)
 })
 
 test("a dry run names the pairs it would carry, sidecars and all", () => {
@@ -252,7 +241,6 @@ test("a dry run names the pairs it would carry, sidecars and all", () => {
   expect(report).toContain("akasha/one/held.module.code.ts to akasha/one/deep/held.module.code.ts")
   expect(report).toContain("akasha/one/held.module.test.ts to akasha/one/deep/held.module.test.ts")
   expect(report).toContain("the index carries no edge")
-  swept(root)
 })
 
 test("a dry run over a move the checks refuse reports the refusal and carries nothing", () => {
@@ -263,7 +251,6 @@ test("a dry run over a move the checks refuse reports the refusal and carries no
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(stands(root, "akasha/three")).toBe(false)
   expect(stands(root, HELD)).toBe(true)
-  swept(root)
 })
 
 test("breaking the glass carries a move the checks refuse, and only breaking it does", () => {
@@ -290,7 +277,6 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
     "held moves\n\nChecks-bypassed: the check is wrong"
   )
-  swept(root)
 })
 
 test("breaking the glass with no reason, or alongside a dry run, is refused", () => {
@@ -311,7 +297,6 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
     "--dry-run reports what the checks say and --break-the-glass runs none, so together they report nothing"
   )
   expect(stands(root, "akasha/three")).toBe(false)
-  swept(root)
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
@@ -330,7 +315,6 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   const said = move([...PAIR, "--message-file", at], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("carried by a file")
-  swept(root)
 })
 
 test("a path is read against the folder the call ran in", () => {
@@ -351,7 +335,6 @@ test("a sidecar is found by the name it stands under, not by what the page state
     "akasha/one/held.module.code.ts",
     "akasha/one/held.module.test.ts",
   ])
-  swept(root)
 })
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {
