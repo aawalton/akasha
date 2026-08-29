@@ -1,16 +1,20 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asked } from "./asking.module.code.ts"
 import { committedLine, judgedBy, landingAsked, passedOver } from "./asking.module.code.ts"
 import { write } from "./command/write/write.command.code.ts"
 import { UNNAMED } from "./landing.module.code.ts"
+import { scratchWorld } from "./scratching.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const ADMITS_AT = "akasha/checks-system/check/admits/"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -26,7 +30,7 @@ function put(root: string, path: string, body: string): string {
 function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
 ): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-asking-"))
+  const root = scratch.rootFor("akasha-asking-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -102,7 +106,6 @@ test("a report that could not be built leaves the landing standing, and says so"
   expect(said.report.join("\n")).toContain(
     "the report could not be built — a report that could not be built"
   )
-  rmSync(root, { recursive: true })
 })
 
 test("a report that could not be built over a removal leaves the removal standing", () => {
@@ -116,7 +119,6 @@ test("a report that could not be built over a removal leaves the removal standin
   expect(headOf(root)).not.toBe(was)
   expect(said.report).toContain("took away akasha/two.ts")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a report that could not be built over a broken glass leaves the stamp on the commit", () => {
@@ -128,7 +130,6 @@ test("a report that could not be built over a broken glass leaves the stamp on t
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: the checks are themselves broken"
   )
-  rmSync(root, { recursive: true })
 })
 
 function blocked(root: string): Asked {
@@ -151,7 +152,6 @@ test("a landing that threw before its commit is operational rather than unclassi
   expect(said.refusals.join("\n")).toContain("nothing was committed")
   expect(said.refusals.join("\n")).toContain("akasha/three.ts")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a landing that threw before its commit leaves what it wrote outside any commit", () => {
@@ -159,7 +159,6 @@ test("a landing that threw before its commit leaves what it wrote outside any co
   landingAsked(givenIn(root), blocked(root))
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
   expect(git(root, ["ls-tree", "--name-only", "HEAD", "akasha/two.ts"]).trim()).toBe("")
-  rmSync(root, { recursive: true })
 })
 
 test("a commit that could not be named is said to stand rather than said to be nothing", () => {
@@ -187,7 +186,6 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
   expect(headOf(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
   expect(existsSync(join(root, ".git/data/index/import"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a dry run over a change the checks refuse reports the refusal", () => {
@@ -201,7 +199,6 @@ test("a dry run over a change the checks refuse reports the refusal", () => {
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a check is handed a removal, and can refuse it", () => {
@@ -210,7 +207,6 @@ test("a check is handed a removal, and can refuse it", () => {
   const said = write(["--remove", "akasha/two.ts", "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
-  rmSync(root, { recursive: true })
 })
 
 test("that same check lets a written body through, so it refuses the going and not the arriving", () => {
@@ -223,7 +219,6 @@ test("that same check lets a written body through, so it refuses the going and n
   )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  rmSync(root, { recursive: true })
 })
 
 test("a gate counts the removal it judged beside the body it wrote, so a move is not doubled", () => {
@@ -244,7 +239,6 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
   )
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("1 check passed over the 2 paths asked for")
-  rmSync(root, { recursive: true })
 })
 
 test("a pass names how many checks ran and how many paths they were handed", () => {
@@ -275,7 +269,6 @@ test("a landing whose phase runs no check says the paths landed unjudged", () =>
   expect(said.report).toContain(
     "no check runs at this phase, so the 1 path asked for landed unjudged"
   )
-  rmSync(root, { recursive: true })
 })
 
 test("breaking the glass runs no check and says so in the commit", () => {
@@ -300,7 +293,6 @@ test("breaking the glass runs no check and says so in the commit", () => {
   expect(git(root, ["log", "-1", "--pretty=%B"])).toContain(
     "Checks-bypassed: the checks are themselves broken"
   )
-  rmSync(root, { recursive: true })
 })
 
 test("a dry run that breaks the glass is refused, having nothing to report", () => {
@@ -320,5 +312,4 @@ test("a dry run that breaks the glass is refused, having nothing to report", () 
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("report nothing")
-  rmSync(root, { recursive: true })
 })
