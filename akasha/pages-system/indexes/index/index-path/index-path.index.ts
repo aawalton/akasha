@@ -1,10 +1,11 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Index } from "../index.page-type.ts"
 
 export const indexPath = {
   id: "01a04ede-d0fc-7000-bfe5-c9f320b833c7",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "index",
   slug: "index-path",
   definition: "an index from a path to the page whose file it is",
+  indexName: "path",
   invariants: [
     {
       invariantKind: "departure",
@@ -33,4 +34,4 @@ export const indexPath = {
       statement: "Every path the index files is found by walking this tree, and it is the corpus.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Index

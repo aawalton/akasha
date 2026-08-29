@@ -10,7 +10,7 @@ export const indexes = {
     "domain/index-relation",
     "domain/index-schema",
     "index/index-import",
-    "domain/index-path",
+    "index/index-path",
     "page-type/index",
     "text-property/index-name",
     "module/index-entries",
