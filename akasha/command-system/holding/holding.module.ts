@@ -18,11 +18,30 @@ export const holding = {
     },
     {
       invariantKind: "departure",
+      statement: "The hold names the process that took it and the moment that process started.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hold left by a process that is gone is taken, not waited on.",
     },
     {
       invariantKind: "departure",
+      statement:
+        "A holder is weighed by the moment its process started as well as its number, so a pid used again is no holder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A hold naming no holder that can be read is taken once it has stood too long, so a mark nobody wrote wedges nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A hold is released however the act inside it ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A hold is released only by the process whose mark stands in it, so one caller never releases what another took.",
     },
     {
       invariantKind: "departure",

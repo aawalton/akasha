@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
@@ -194,4 +194,36 @@ test("a hold is released however the act inside it ends, so one failure wedges n
   const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(existsSync(at)).toBe(false)
+})
+
+test("a hold another process took over is not released by the one that lost it", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const at = join(root, LOCK_AT)
+  const theirs = "999999999 0"
+  holding(root, () => {
+    writeFileSync(at, theirs)
+  })
+  expect(existsSync(at)).toBe(true)
+  expect(readFileSync(at, "utf8")).toBe(theirs)
+})
+
+test("a holder whose pid stands for another process than the one that took it is no holder", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  mkdirSync(join(root, ".git"), { recursive: true })
+  writeFileSync(join(root, LOCK_AT), `${process.pid} 1`)
+  const from = Date.now()
+  expect(holding(root, () => "held", 10000)).toBe("held")
+  expect(Date.now() - from).toBeLessThan(2000)
+})
+
+test("a mark no holder can be read from wedges nothing once it has stood too long", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const at = join(root, LOCK_AT)
+  mkdirSync(join(root, ".git"), { recursive: true })
+  writeFileSync(at, "nothing a holder reads from")
+  const long = new Date(Date.now() - 60000)
+  utimesSync(at, long, long)
+  const from = Date.now()
+  expect(holding(root, () => "held", 10000)).toBe("held")
+  expect(Date.now() - from).toBeLessThan(2000)
 })

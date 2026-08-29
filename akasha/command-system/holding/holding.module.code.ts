@@ -4,6 +4,7 @@ import {
   openSync,
   readFileSync,
   rmSync,
+  statSync,
   unlinkSync,
   writeSync,
 } from "node:fs"
@@ -11,34 +12,78 @@ import { dirname, join } from "node:path"
 
 export const LOCK_AT = ".git/akasha-landing.lock"
 
-const HELD_FOR = 120000
+const WAITED_AT_MOST = 120000
 
 const WAITED = 50
 
-function heldBy(at: string): number | null {
+const STOOD_TOO_LONG = 10000
+
+const UNKNOWN = "-"
+
+const STARTED = 19
+
+type Holder = {
+  readonly pid: number
+  readonly started: string
+}
+
+export function startedAt(pid: number): string {
   try {
-    const first = readFileSync(at, "utf8").trim().split(" ")[0]
-    if (first === undefined) return null
-    const pid = Number.parseInt(first, 10)
-    return Number.isNaN(pid) ? null : pid
+    const said = readFileSync(`/proc/${pid}/stat`, "utf8")
+    const fields = said
+      .slice(said.lastIndexOf(")") + 1)
+      .trim()
+      .split(/\s+/)
+    return fields[STARTED] ?? UNKNOWN
+  } catch {
+    return UNKNOWN
+  }
+}
+
+export function markIn(at: string): string | null {
+  try {
+    const said = readFileSync(at, "utf8").trim()
+    return said === "" ? null : said
   } catch {
     return null
   }
 }
 
-function alive(pid: number): boolean {
+export function holderOf(mark: string | null): Holder | null {
+  if (mark === null) return null
+  const [said, started] = mark.split(" ")
+  const pid = Number.parseInt(said ?? "", 10)
+  if (Number.isNaN(pid) || pid < 1) return null
+  return { pid, started: started === undefined || started === "" ? UNKNOWN : started }
+}
+
+export function alive(held: Holder): boolean {
   try {
-    process.kill(pid, 0)
-    return true
+    process.kill(held.pid, 0)
+  } catch {
+    return false
+  }
+  const started = startedAt(held.pid)
+  return held.started === UNKNOWN || started === UNKNOWN || started === held.started
+}
+
+function agedOut(at: string): boolean {
+  try {
+    return Date.now() - statSync(at).mtimeMs >= STOOD_TOO_LONG
   } catch {
     return false
   }
 }
 
-function taken(at: string): boolean {
+function abandoned(at: string): boolean {
+  const held = holderOf(markIn(at))
+  return held === null ? agedOut(at) : !alive(held)
+}
+
+function taken(at: string, mine: string): boolean {
   try {
     const held = openSync(at, "wx")
-    writeSync(held, `${process.pid} ${Date.now()}`)
+    writeSync(held, mine)
     closeSync(held)
     return true
   } catch {
@@ -46,13 +91,13 @@ function taken(at: string): boolean {
   }
 }
 
-export function holding<T>(root: string, act: () => T, waited: number = HELD_FOR): T {
+export function holding<T>(root: string, act: () => T, waited: number = WAITED_AT_MOST): T {
   const at = join(root, LOCK_AT)
   mkdirSync(dirname(at), { recursive: true })
+  const mine = `${process.pid} ${startedAt(process.pid)}`
   const until = Date.now() + waited
-  while (!taken(at)) {
-    const pid = heldBy(at)
-    if (pid !== null && !alive(pid)) {
+  while (!taken(at, mine)) {
+    if (abandoned(at)) {
       rmSync(at, { force: true })
       continue
     }
@@ -66,8 +111,10 @@ export function holding<T>(root: string, act: () => T, waited: number = HELD_FOR
   try {
     return act()
   } finally {
-    try {
-      unlinkSync(at)
-    } catch {}
+    if (markIn(at) === mine) {
+      try {
+        unlinkSync(at)
+      } catch {}
+    }
   }
 }
