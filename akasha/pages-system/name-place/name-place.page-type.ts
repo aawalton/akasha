@@ -19,6 +19,7 @@ export const namePlace = {
     "name-place/file-name",
     "name-place/file-role",
     "name-place/folder-name",
+    "name-place/foreign-name",
     "name-place/function-identifier",
     "name-place/listing-href",
     "name-place/page-href",
