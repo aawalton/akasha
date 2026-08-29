@@ -14,8 +14,9 @@ test("a first word opening lower is lower camel case, not this", () => {
   expect(upperCamelCase("pagePropertySlug")).toBe(false)
 })
 
-test("two capitals touching are not two words", () => {
-  expect(upperCamelCase("PageUUID")).toBe(false)
+test("a word may be one letter, so an acronym is let through either way it is written", () => {
+  expect(upperCamelCase("PageUuid")).toBe(true)
+  expect(upperCamelCase("PageUUID")).toBe(true)
 })
 
 test("anything between the words is not written in it", () => {
