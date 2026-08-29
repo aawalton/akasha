@@ -1,21 +1,7 @@
 import { payloadText } from "../lib/hook-command.ts"
-import { seatNameOf, seatPageFile } from "../lib/hook-seat-page.ts"
 import { keepRotated } from "../lib/seat-rotated-session.ts"
 
-const HOOK_NAME = "local-agent-session-start"
-
 const FLUSH = `${import.meta.dir}/../session-flush.ts`
-
-async function noteRotation(agent: string, sessionId: string): Promise<void> {
-  keepRotated(agent, sessionId)
-  const seat = seatNameOf(seatPageFile(agent))
-  if (seat === "") return
-  const { patchPage } = await import("../lib/page-query-client.ts")
-  const landed = await patchPage("seat", seat, { "rotated-session-uuid": sessionId }, HOOK_NAME)
-  if (!landed.ok) {
-    process.stderr.write(`[${HOOK_NAME}] the rotated session uuid did not land: ${landed.why}\n`)
-  }
-}
 
 async function main(): Promise<number> {
   const stdin = await Bun.stdin.text()
@@ -27,7 +13,7 @@ async function main(): Promise<number> {
   if (agent === "") return 0
   if (sessionId === "" || transcriptPath === "") return 0
 
-  if (source === "clear") await noteRotation(agent, sessionId)
+  if (source === "clear") keepRotated(agent, sessionId)
 
   if (process.env.AGENT_LAUNCH === "spawned") {
     try {

@@ -84,15 +84,6 @@ export function seatPageBody(
   if (stated.registration !== null) {
     lines.push(`registration-account: ${stated.registration.value}`)
   }
-  if (stated.session !== null) {
-    lines.push(`claude-code-session-uuid: ${stated.session.value}`)
-  }
-  if (stated.rotated !== null) {
-    lines.push(`rotated-session-uuid: ${stated.rotated.value}`)
-  }
-  if (stated.transcript !== null) {
-    lines.push(`transcript-path: ${stated.transcript.value}`)
-  }
   lines.push("---", "")
   return lines.join("\n")
 }
