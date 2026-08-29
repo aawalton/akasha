@@ -57,6 +57,10 @@ export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
 const reach_ = createRequire(import.meta.url)
 
+export function answering(report: readonly string[], refusals: readonly string[], code: number): Answer {
+  return { report, refusals, code }
+}
+
 export function commandsIn(root: string): readonly string[] {
   return slugsOfType(root, COMMAND)
 }

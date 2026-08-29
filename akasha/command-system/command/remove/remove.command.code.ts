@@ -3,6 +3,7 @@ import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import { answering } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
@@ -210,10 +211,6 @@ function openedIn(
   }
   if (refusals.length > 0) return { refusals }
   return { opened, under }
-}
-
-function answering(report: readonly string[], refusals: readonly string[], code: number): Answer {
-  return { report, refusals, code }
 }
 
 function wouldGo(

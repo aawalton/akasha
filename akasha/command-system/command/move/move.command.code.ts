@@ -4,6 +4,7 @@ import { placedIn } from "../../../code-system/code-specifier.module.code.ts"
 import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import { answering } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
@@ -177,10 +178,6 @@ export function repointed(
     at = one.end
   }
   return `${out}${text.slice(at)}`
-}
-
-function answering(report: readonly string[], refusals: readonly string[], code: number): Answer {
-  return { report, refusals, code }
 }
 
 type Sided = {
