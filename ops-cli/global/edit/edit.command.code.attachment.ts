@@ -23,7 +23,9 @@ const MECHANICAL = "--mechanical"
 
 const DRY_RUN = "--dry-run"
 
-const VALUE_FLAGS = [REPO, INPUT_FILE, MESSAGE, MESSAGE_FILE]
+const BREAK_GLASS = "--break-the-glass"
+
+const VALUE_FLAGS = [REPO, INPUT_FILE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE_FLAGS = [DRY_RUN, MECHANICAL, "--help", "-h"]
 
@@ -154,6 +156,14 @@ export const help = {
     { name: MESSAGE_FILE, argLabel: "<f>", valueShape: "token" as const, path: true, description: "Read the commit message from a file." },
     { name: DRY_RUN, description: "Gate and report; write and commit nothing." },
     { name: MECHANICAL, description: "This substitution was decided by a program, not authored. The gates about what its writer read stand aside." },
+    {
+      name: BREAK_GLASS,
+      argLabel: "<reason>",
+      valueShape: "prose" as const,
+      description:
+        "Land without running the checks, recording this reason in the commit. For a change that " +
+        "must land while the checks themselves are broken.",
+    },
   ],
   positionals: [],
 }
@@ -175,6 +185,14 @@ export default async function edit(argv: readonly string[]): Promise<void> {
   const entries = prepare(declared, at)
   refuseWhatMoved(entries)
 
+  const glass = valueOf(argv, BREAK_GLASS)
+  if (glass !== null && glass.trim() === "") {
+    fail(`${BREAK_GLASS} takes the reason the checks are being bypassed, and this one is empty`)
+  }
+  if (glass !== null && (at === null || at.repo !== AKASHA)) {
+    fail(`${BREAK_GLASS} bypasses the checks akasha defines, and nothing outside akasha is checked`)
+  }
+
   const dryRun = argv.includes(DRY_RUN)
   if (at === null) {
     const loose: Loose[] = entries.map((one) => ({ absolute: one.absolute, body: one.body }))
@@ -194,7 +212,7 @@ export default async function edit(argv: readonly string[]): Promise<void> {
   }
 
   try {
-    land(at, landings, message, dryRun, [], [], argv.includes(MECHANICAL))
+    land(at, landings, message, dryRun, [], [], argv.includes(MECHANICAL), [], new Map(), glass)
   } catch (thrown) {
     if (thrown instanceof LandingRefused) {
       process.stderr.write(`error: ${thrown.message}\n`)
