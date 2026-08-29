@@ -5,29 +5,19 @@ import {
   idsNaming,
 } from "../../pages-system/index/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
-
-const PAGE_TYPE = "page-type"
+import { kindsUnder } from "../../pages-system/page-type/page-type-descent.module.code.ts"
 
 const DOMAIN = "domain"
 
 const PARTS = "part-slugs"
 
-const EXTENDS = "extendsSlug"
-
 const PART_SLUGS = "partSlugs"
-
-const SLUG = "slug"
 
 export type DomainRow = {
   readonly slug: string
   readonly path: string
   readonly parent: string | null
   readonly sequence: readonly string[]
-}
-
-function slugOf(address: string): string {
-  const at = address.indexOf("/")
-  return at === -1 ? address : address.slice(at + 1)
 }
 
 function addressOf(path: string): string | null {
@@ -49,25 +39,7 @@ function partsIn(value: Value | null): readonly string[] {
 }
 
 export function kindsUnderDomain(root: string): ReadonlySet<string> {
-  const above = new Map<string, string>()
-  for (const one of everyOfType(root, PAGE_TYPE)) {
-    const value = valueAt(one.path, root)
-    if (value === null) continue
-    const slug = value[SLUG]
-    const said = value[EXTENDS]
-    if (typeof slug === "string" && typeof said === "string") above.set(slug, slugOf(said))
-  }
-  const under = new Set<string>([DOMAIN])
-  for (;;) {
-    let grew = false
-    for (const [slug, parent] of above) {
-      if (!under.has(slug) && under.has(parent)) {
-        under.add(slug)
-        grew = true
-      }
-    }
-    if (!grew) return under
-  }
+  return kindsUnder(root, DOMAIN)
 }
 
 export function domainsDrawn(root: string): readonly DomainRow[] {
