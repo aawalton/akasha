@@ -1,15 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync, spawnSync } from "node:child_process"
-import {
-  appendFileSync,
-  cpSync,
-  mkdirSync,
-  mkdtempSync,
-  rmSync,
-  symlinkSync,
-  writeFileSync,
-} from "node:fs"
-import { tmpdir } from "node:os"
+import { appendFileSync, cpSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   AUTHOR,
@@ -23,6 +14,7 @@ import {
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
 import { minting, REFUSES_CODE } from "./minting.module.code.ts"
+import { scratchWorld } from "./scratching.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
@@ -36,13 +28,17 @@ const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
 const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
 function checkoutOf(): string {
   const from = rootOf(import.meta.path)
-  const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
+  const root = scratch.rootFor("akasha-cli-")
   cpSync(join(from, "akasha"), join(root, "akasha"), { recursive: true })
   for (const one of CARRIED) cpSync(join(from, one), join(root, one))
   git(root, ["init", "--quiet"])
@@ -102,7 +98,6 @@ test("the glass carries a change past checks that cannot be loaded at all", () =
   const body = git(root, ["log", "-1", "--pretty=%B"])
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain("Checks-unloadable: BuildMessage:")
-  rmSync(root, { recursive: true })
 }, 60000)
 
 test("the root is the folder two above the dispatcher when nothing states one", () => {
@@ -152,7 +147,7 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 })
 
 test("a name no command carries is a caller's mistake too", () => {
-  const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
+  const root = scratch.rootFor("akasha-cli-")
   const dir = join(root, IDENTITY_AT, "command", "slug")
   mkdirSync(dir, { recursive: true })
   writeFileSync(
@@ -162,7 +157,6 @@ test("a name no command carries is a caller's mistake too", () => {
   const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
-  rmSync(root, { recursive: true })
 })
 
 test("a name looked for where no index stands says nothing was read, not that none is carried", () => {
