@@ -42,8 +42,26 @@ test("a page whose name begins with this one's is not beside it, the part read b
   expect(besideOf(root, PAGE)).toEqual([])
 })
 
-test("a file named for the page but holding no property is passed over", () => {
-  const root = rootWith([PAGE, "akasha/one/held.module.notes.md", "akasha/one/held.module.code.ts"])
+test("a file holding any property goes with the page, whatever the property is called", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.test-fixtures.ts",
+    "akasha/one/held.module.notes.md",
+    "akasha/one/held.module.code.ts",
+  ])
+  expect(besideOf(root, PAGE)).toEqual([
+    "akasha/one/held.module.code.ts",
+    "akasha/one/held.module.notes.md",
+    "akasha/one/held.module.test-fixtures.ts",
+  ])
+})
+
+test("a file carrying more than one part past the page's name is not beside it", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.code.d.ts",
+    "akasha/one/held.module.code.ts",
+  ])
   expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.code.ts"])
 })
 

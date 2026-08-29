@@ -3,7 +3,7 @@ import { basename, dirname, join } from "node:path"
 
 const TS = ".ts"
 
-const BESIDE = /^(code|test)\.[a-z0-9]+$/
+const BESIDE = /^[a-z0-9-]+\.[a-z0-9]+$/
 
 export function besideOf(root: string, path: string): readonly string[] {
   if (!path.endsWith(TS)) return []

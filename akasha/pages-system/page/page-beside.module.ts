@@ -34,9 +34,14 @@ export const pageBeside = {
         "What is answered is sorted, so what stands beside a page reads the same however the folder was listed.",
     },
     {
-      invariantKind: "absence",
+      invariantKind: "departure",
       statement:
-        "Which properties may stand beside a page is written here as `code` and `test` rather than asked of the schema, so a file property added elsewhere is not seen until this is changed.",
+        "One part more is a property's file whatever the property is called, so a file property added elsewhere is seen here without this being changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The schema is not asked, because a file no page claims cannot stand and the naming grammar lets only this page claim a file carrying its whole name and one part more.",
     },
   ],
 } as const satisfies Module
