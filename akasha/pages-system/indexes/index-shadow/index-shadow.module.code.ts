@@ -1,3 +1,4 @@
+import { textOf } from "../../../code-system/body-text/body-text.module.code.ts"
 import { type Value, valueAt, valueIn } from "../index-entries/index-entries.module.code.ts"
 import { indexIn } from "../index-reading/index-reading.module.code.ts"
 import { overlaidOn, type Reading, readingAt } from "../index-surface/index-surface.module.code.ts"
@@ -18,12 +19,6 @@ export type Shadow = {
 export type Cast = { readonly shadow: Shadow } | { readonly refused: string }
 
 export const NOT_WORKED_OUT = "the index as this change leaves it could not be worked out"
-
-const TEXT = new TextDecoder()
-
-function textOf(bytes: Uint8Array | null): string | null {
-  return bytes === null ? null : TEXT.decode(bytes)
-}
 
 function remembering(pageOf: (path: string) => Value | null): (path: string) => Value | null {
   const held = new Map<string, Value | null>()

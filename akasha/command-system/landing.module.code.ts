@@ -13,6 +13,7 @@ import {
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../checks-system/judging/judging.module.code.ts"
+import { textIn, textOf } from "../code-system/body-text/body-text.module.code.ts"
 import { indexIn } from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
@@ -358,12 +359,6 @@ function wroteOnto(
   return { wrote, took }
 }
 
-const TEXT = new TextDecoder()
-
-function textOf(body: Uint8Array | null): string | null {
-  return body === null ? null : TEXT.decode(body)
-}
-
 function beforeOf(
   root: string,
   base: string,
@@ -391,7 +386,7 @@ function indexed(
   for (const one of changed) {
     const was = textOf(before.get(one.path) ?? null)
     if (one.body === null) held.took(one.path, was)
-    else held.wrote(one.path, TEXT.decode(one.body), was)
+    else held.wrote(one.path, textIn(one.body), was)
   }
   return held.settle()
 }
