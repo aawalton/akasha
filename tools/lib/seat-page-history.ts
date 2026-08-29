@@ -105,8 +105,6 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
   }
 }
 
-const SESSION_KEY = "claude-code-session-uuid"
-
 const PRINCIPAL_KEY = "principal-seat-name"
 
 export interface HeldSeatPage {
@@ -234,10 +232,6 @@ function fieldFromHistory(agentId: string, roots: Roots, key: string): string | 
   return null
 }
 
-export function sessionFromHistory(agentId: string, roots: Roots): string | null {
-  return fieldFromHistory(agentId, roots, SESSION_KEY)
-}
-
 export function fieldInCommits(
   relPath: string,
   commits: readonly string[],
@@ -255,14 +249,6 @@ export function fieldInCommits(
     if (held !== null) return held
   }
   return null
-}
-
-export function sessionInCommits(
-  relPath: string,
-  commits: readonly string[],
-  roots: Roots
-): string | null {
-  return fieldInCommits(relPath, commits, roots, SESSION_KEY)
 }
 
 export function parentFromHistory(agentId: string, roots: Roots): string | null {

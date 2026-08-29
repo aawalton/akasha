@@ -4,15 +4,10 @@ import { slugNamed } from "../../page/page-address.ts"
 import { basename } from "node:path"
 import { pageStemOf } from "../../page/name/name.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import {
-  type HeldSeatPage,
-  newestBodyPerPath,
-  seatHistoryRoot,
-  sessionFromHistory,
-  sessionInCommits,
-} from "./seat-page-history.ts"
+import { newestBodyPerPath, seatHistoryRoot } from "./seat-page-history.ts"
 import { frontmatterIn, frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
+import { sessionOf } from "./seat-session.ts"
 
 const PAGE_SUFFIX = ".md"
 
@@ -98,7 +93,8 @@ export function seatsStanding(): readonly (Seated & {
     if (seated === null || held.has(seated.id)) continue
     held.add(seated.id)
     const presence = seatPresence(page)
-    found.push({ ...seated, presence, present: presence === "present" })
+    const session = sessionOf(seated.id)?.value ?? seated.session
+    found.push({ ...seated, session, presence, present: presence === "present" })
   }
   return found
 }
@@ -118,32 +114,15 @@ export function seatsAbsent(): readonly Seated[] {
   )
   const roots = resolveRoots()
   const seatRoot = seatHistoryRoot(roots) ?? rootFor(roots, AKASHA)
-  const heldById = new Map<string, HeldSeatPage>()
   for (const held of newestBodyPerPath(seatRoot)) {
     const body = gitAt(seatRoot, ["show", `${held.commit}:${held.path}`])
     if (body === null) continue
-    const seated = seatedFrom(
-      frontmatterIn(body),
-      pageStemOf(held.path),
-      held.atMs
-    )
+    const seated = seatedFrom(frontmatterIn(body), pageStemOf(held.path), held.atMs)
     if (seated === null || live.has(seated.id)) continue
     const already = byId.get(seated.id)
-    if (already === undefined || already.activeAtMs < seated.activeAtMs) {
-      byId.set(seated.id, seated)
-      heldById.set(seated.id, held)
-    }
+    if (already === undefined || already.activeAtMs < seated.activeAtMs) byId.set(seated.id, seated)
   }
-  const carried = [...byId.values()].map((one) => {
-    if (one.session !== null) return one
-    const held = heldById.get(one.id)
-    const session =
-      held === undefined
-        ? sessionFromHistory(one.id, roots)
-        : sessionInCommits(held.path, held.commits, roots)
-    return { ...one, session }
-  })
-  return carried.filter((one) => one.session !== null)
+  return [...byId.values()]
 }
 
 export function seatRoster(live: boolean): readonly Seated[] {
