@@ -14,6 +14,14 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "The command that repairs the index is found by its path, never through the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command found by its path is listed among the commands only when its page stands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name carried by more than one command is refused rather than chosen between.",
     },
     {

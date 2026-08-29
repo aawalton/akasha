@@ -91,6 +91,50 @@ test("a command page whose code will not load is refused with why, not with a gu
   rmSync(root, { recursive: true })
 })
 
+const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
+
+function rooted(root: string): void {
+  const at = join(root, ROOTED_AT)
+  mkdirSync(join(at, ".."), { recursive: true })
+  writeFileSync(at, 'export const index = { slug: "index" }\n')
+  writeFileSync(
+    `${at.slice(0, -".ts".length)}.code.ts`,
+    "export function index(argv, given) {\n" +
+      "  return { report: [argv.join(\" \"), given.calledAs], refusals: [], code: 0 }\n" +
+      "}\n"
+  )
+}
+
+test("the command that repairs the index is found with no index at all", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  rooted(root)
+  rmSync(join(root, ".git"), { recursive: true })
+  const said = calling(["index", "refresh"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("refresh")
+  expect(said.report[1]).toBe("akasha index")
+  rmSync(root, { recursive: true })
+})
+
+test("a command found by its path is listed though the index names it nowhere", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  rooted(root)
+  const said = calling([], { ...OUTSIDE, root })
+  expect(said.refusals[0]).toContain("akasha index")
+  expect(said.refusals[0]).toContain("akasha held")
+  rmSync(root, { recursive: true })
+})
+
+test("a name looked for where no index stands is answered as unread, not as uncarried", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  rmSync(join(root, ".git"), { recursive: true })
+  const said = calling(["held"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("was looked for and not read")
+  expect(said.refusals[0]).not.toContain("is no command akasha carries")
+  rmSync(root, { recursive: true })
+})
+
 test("the commands there are come from the index", () => {
   const root = rootWith([
     { slug: "held", body: ANSWERS },

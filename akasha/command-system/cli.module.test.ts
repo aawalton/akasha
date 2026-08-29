@@ -154,9 +154,22 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 })
 
 test("a name no command carries is a caller's mistake too", () => {
-  const said = answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+  const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
+  const dir = join(root, IDENTITY_AT, "command", "slug")
+  mkdirSync(dir, { recursive: true })
+  writeFileSync(join(dir, "read.jsonl"), `${JSON.stringify({ path: "akasha/r.command.ts", id: ID })}\n`)
+  const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
+  rmSync(root, { recursive: true })
+})
+
+test("a name looked for where no index stands says nothing was read, not that none is carried", () => {
+  const said = answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
+  expect(said.code).toBe(INPUT)
+  expect(said.err[0]).toContain("was looked for and not read")
+  expect(said.err[0]).toContain("No index stands at `.git/data/index`")
+  expect(said.err[0]).not.toContain("is no command akasha carries")
 })
 
 test("a failure of no known kind says so rather than claiming one", () => {

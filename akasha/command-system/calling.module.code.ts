@@ -1,6 +1,7 @@
+import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
-import { join, resolve } from "node:path"
-import { slugsOfType, standingAt } from "../data-system/index/index-reading.module.code.ts"
+import { join, relative, resolve } from "node:path"
+import { indexIn, slugsOfType, standingAt } from "../data-system/index/index-reading.module.code.ts"
 
 export type Outside = {
   readonly root: string
@@ -20,6 +21,10 @@ export type Given = Outside
 export type Answering = (argv: readonly string[], given: Given) => Answer
 
 const COMMAND = "command"
+
+export const ROOTED = "index"
+
+export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
 const reach_ = createRequire(import.meta.url)
 
@@ -61,20 +66,75 @@ function refusing(said: string): Answer {
   return { report: [], refusals: [said], code: 1 }
 }
 
+export function unreadIn(root: string, calledAs: string): string | null {
+  const at = relative(root, indexIn(root))
+  const said = `\`${calledAs} ${ROOTED}\` is found without the index and says what it can do.`
+  if (!existsSync(indexIn(root))) {
+    return `No index stands at \`${at}\`, so no command was read. ${said}`
+  }
+  if (commandsIn(root).length === 0) {
+    return `The index at \`${at}\` carries no command, so none was read. ${said}`
+  }
+  return null
+}
+
+function answeredBy(
+  named: string,
+  path: string,
+  root: string,
+  argv: readonly string[],
+  outside: Outside
+): Answer {
+  const reached = reachedIn(codeBeside(join(root, path)))
+  if ("why" in reached) {
+    return refusing(
+      `\`${named}\` is a command page, and ${codeBeside(path)} could not be loaded — ${reached.why}`
+    )
+  }
+  const answering = answeringOf(reached.mod, named)
+  if (answering === null) {
+    return refusing(
+      `\`${named}\` is a command page, and ${codeBeside(path)} answers to nothing that can be called`
+    )
+  }
+  return answering(argv, {
+    root,
+    calledAs: `${outside.calledAs} ${named}`,
+    from: outside.from,
+    writer: outside.writer,
+  })
+}
+
+export function everyIn(root: string): readonly string[] {
+  const held = commandsIn(root)
+  if (held.includes(ROOTED) || !existsSync(join(root, ROOTED_AT))) return held
+  return [...held, ROOTED].sort()
+}
+
 export function calling(argv: readonly string[], outside: Outside): Answer {
   const root = resolve(outside.root)
-  const every = commandsIn(root)
   const named = argv[0]
+  if (named === ROOTED) return answeredBy(named, ROOTED_AT, root, argv.slice(1), outside)
+  const every = everyIn(root)
+  const unread = unreadIn(root, outside.calledAs)
+  const carried = (said: string): Answer => {
+    const held = [said]
+    if (unread !== null) held.push(unread)
+    if (every.length > 0) {
+      held.push(`These are the commands it carries:\n${listed(every, outside.calledAs)}`)
+    }
+    return refusing(held.join(" "))
+  }
   if (named === undefined) {
-    return refusing(
-      `${outside.calledAs} takes a command, and none was named. These are the commands it carries:\n${listed(every, outside.calledAs)}`
-    )
+    return carried(`${outside.calledAs} takes a command, and none was named.`)
   }
   const standing = standingAt(root, COMMAND, named)
   const first = standing[0]
   if (first === undefined) {
-    return refusing(
-      `\`${named}\` is no command akasha carries. These are the commands it carries:\n${listed(every, outside.calledAs)}`
+    return carried(
+      unread === null
+        ? `\`${named}\` is no command akasha carries.`
+        : `\`${named}\` was looked for and not read.`
     )
   }
   if (standing.length > 1) {
@@ -83,23 +143,5 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
       `\`${named}\` is carried by ${standing.length} commands, so this names more than one:\n${among}`
     )
   }
-  const at = codeBeside(join(root, first.path))
-  const reached = reachedIn(at)
-  if ("why" in reached) {
-    return refusing(
-      `\`${named}\` is a command page, and ${codeBeside(first.path)} could not be loaded — ${reached.why}`
-    )
-  }
-  const answering = answeringOf(reached.mod, named)
-  if (answering === null) {
-    return refusing(
-      `\`${named}\` is a command page, and ${codeBeside(first.path)} answers to nothing that can be called`
-    )
-  }
-  return answering(argv.slice(1), {
-    root,
-    calledAs: `${outside.calledAs} ${named}`,
-    from: outside.from,
-    writer: outside.writer,
-  })
+  return answeredBy(named, first.path, root, argv.slice(1), outside)
 }
