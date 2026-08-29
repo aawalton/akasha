@@ -351,3 +351,43 @@ test("no page in akasha carries a slug another page of its own page type carries
     seen.set(key, one.path)
   }
 })
+
+test("a value naming its page type resolves where the bare slug is ambiguous", () => {
+  const root = treeOf(DUP)
+  try {
+    const corpus = corpusIn(root)
+    expect(corpus.resolve("dup", "page").kind).toBe("many")
+    const one = corpus.resolve("thing/dup", "page")
+    expect(one.kind).toBe("one")
+    if (one.kind === "one") expect(one.at.pageTypeSlug).toBe("thing")
+    const other = corpus.resolve("other/dup", "page")
+    if (other.kind === "one") expect(other.at.pageTypeSlug).toBe("other")
+  } finally {
+    away(root)
+  }
+})
+
+test("a page named by page type and slug is reached as required reading", () => {
+  const root = treeOf([
+    ...DUP,
+    { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["thing/dup"] } },
+  ])
+  try {
+    const corpus = corpusIn(root)
+    expect(corpus.requiredBy(`${root}/asks.thing.ts`)).toEqual([`${root}/one/dup.thing.ts`])
+  } finally {
+    away(root)
+  }
+})
+
+test("a value naming a page type that does not carry the slug is refused", () => {
+  const root = treeOf([
+    ...DUP,
+    { at: "asks.thing.ts", value: { slug: "asks", requiredReadingSlugs: ["deep/dup"] } },
+  ])
+  try {
+    expect(() => corpusIn(root)).toThrow(/no page carries that slug/)
+  } finally {
+    away(root)
+  }
+})

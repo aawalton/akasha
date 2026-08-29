@@ -1,5 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
+import { addressIn } from "../pages-system/page/page-address.module.code.ts"
 import { oidOf } from "./reading.module.code.ts"
 
 export type Filed = {
@@ -159,8 +160,14 @@ function admitsIn(held: Reading, actual: string, wanted: string): boolean {
   return false
 }
 
-function resolveIn(held: Reading, slug: string, target: string | null): Resolution {
-  const among = held.bySlug.get(slug) ?? []
+function resolveIn(held: Reading, named: string, target: string | null): Resolution {
+  const address = addressIn(named)
+  if (address.kind === "id") return { kind: "none" }
+  const carrying = held.bySlug.get(address.slug) ?? []
+  const among =
+    address.kind === "qualified"
+      ? carrying.filter((one) => one.pageTypeSlug === address.pageTypeSlug)
+      : carrying
   const fit =
     target === null ? among : among.filter((one) => admitsIn(held, one.pageTypeSlug, target))
   const first = fit[0]
