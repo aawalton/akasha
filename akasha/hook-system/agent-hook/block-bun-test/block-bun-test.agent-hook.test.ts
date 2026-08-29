@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import {

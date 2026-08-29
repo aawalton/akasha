@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
   basenameOf,

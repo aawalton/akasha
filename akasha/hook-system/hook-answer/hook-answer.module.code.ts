@@ -1,4 +1,4 @@
-import { rootFor } from "../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 
 export const SCOPE_FLAG = "--scope"
 
@@ -68,10 +68,6 @@ export function said(answer: Answer): number {
   if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
   if (answer.err !== "") process.stderr.write(`${answer.err}\n`)
   return answer.code
-}
-
-export function rootOf(at: string): string {
-  return rootFor(at)
 }
 
 export function fromIn(raw: string): string {

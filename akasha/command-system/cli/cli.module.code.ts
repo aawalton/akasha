@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
-import { rootFor } from "../rooting/rooting.module.code.ts"
+import { rootOf } from "../rooting/rooting.module.code.ts"
 
 export const OK = 0
 
@@ -30,7 +30,7 @@ export function outsideOf(
   const said = env["AKASHA_WRITER"]
   const named = env["AGENT_ID"]
   return {
-    root: stated === undefined || stated === "" ? rootFor(at) : resolve(stated),
+    root: stated === undefined || stated === "" ? rootOf(at) : resolve(stated),
     calledAs: "akasha",
     from,
     writer: said === undefined || said === "" ? AUTHOR : said,

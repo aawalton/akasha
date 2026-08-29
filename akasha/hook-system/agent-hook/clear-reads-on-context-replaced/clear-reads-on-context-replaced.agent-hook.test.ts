@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { READS_AT } from "../../../command-system/reading/reading.module.code.ts"
-import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import {
   agentIn,
   cleared,
