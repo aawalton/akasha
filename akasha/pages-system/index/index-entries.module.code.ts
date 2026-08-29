@@ -82,7 +82,7 @@ function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path
 }
 
-function textAt(value: Value, key: string): string | null {
+export function textAt(value: Value, key: string): string | null {
   const held = value[key]
   return typeof held === "string" ? held : null
 }
@@ -353,7 +353,7 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
   return { refused: among(named, found) }
 }
 
-function namesIn(held: unknown): readonly string[] {
+export function namesIn(held: unknown): readonly string[] {
   if (typeof held === "string") return [held]
   if (!Array.isArray(held)) return []
   return held.filter((one): one is string => typeof one === "string")

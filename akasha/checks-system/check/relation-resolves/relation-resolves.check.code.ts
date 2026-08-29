@@ -1,9 +1,11 @@
 import {
   type Known,
   knownIn,
+  namesIn,
   pageTypesIn,
   reaches,
   type Standing,
+  textAt,
   schemaAt,
   type Value,
   valueAt,
@@ -31,17 +33,6 @@ export type Carried = {
 type Named = Standing & {
   readonly slug: string
   readonly pageTypeSlug: string
-}
-
-function textAt(value: Value, key: string): string | null {
-  const held = value[key]
-  return typeof held === "string" ? held : null
-}
-
-function namesIn(held: unknown): readonly string[] {
-  if (typeof held === "string") return [held]
-  if (!Array.isArray(held)) return []
-  return held.filter((one): one is string => typeof one === "string")
 }
 
 export function valueFor(leaving: Leaving, path: string): Value | null {
