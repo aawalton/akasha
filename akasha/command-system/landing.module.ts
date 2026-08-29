@@ -38,7 +38,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "One hold spans reading the base, judging, writing and committing.",
+      statement: "One hold spans reading the base, judging, writing, indexing and committing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index is settled before the commit, so no commit lands on an index blind to it.",
     },
     {
       invariantKind: "departure",
@@ -56,6 +60,11 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "The checks are reached only to judge, so reaching a command never asks them to load.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The index is reached only to keep it, so a refused change and a dry run never ask it to load.",
     },
     {
       invariantKind: "departure",

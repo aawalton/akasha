@@ -1,9 +1,18 @@
-import { execFileSync, spawnSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { execFileSync, spawn, spawnSync } from "node:child_process"
+import {
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Judging } from "../checks-system/judging.module.code.ts"
+import { rebuiltFrom } from "../data-system/index/indexing.module.code.ts"
 import {
   NO_GATE,
   baseOf,
@@ -161,6 +170,102 @@ test("no git outlives a landing, nor one a check throws through", () => {
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
   rmSync(root, { recursive: true })
+})
+
+async function until(said: () => boolean, waited = 10000): Promise<boolean> {
+  const end = Date.now() + waited
+  while (Date.now() < end && !said()) await Bun.sleep(20)
+  return said()
+}
+
+test("a parent killed outright leaves no git behind it", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const kid = spawn(
+    "bun",
+    [
+      "-e",
+      `import { baseOf, bodyAt } from ${JSON.stringify(MODULE_AT)}
+const root = ${JSON.stringify(root)}
+bodyAt(root, baseOf(root), "one.txt")
+setInterval(() => {}, 1000)`,
+    ],
+    { stdio: "ignore" }
+  )
+  expect(await until(() => gitOver(root).length === 1)).toBe(true)
+  kid.kill("SIGKILL")
+  expect(await until(() => gitOver(root).length === 0)).toBe(true)
+  rmSync(root, { recursive: true })
+})
+
+const ID = "01a04e11-0000-7000-8000-000000000001"
+
+const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
+
+const TYPE =
+  'export const domain = { id: "01a04e11-0000-7000-8000-000000000002",' +
+  ' pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }\n'
+
+const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
+
+const indexIn = (root: string): string => join(root, ".git/data/index")
+
+function everyFileUnder(at: string): readonly string[] {
+  const found: string[] = []
+  const walk = (here: string): void => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
+    }
+  }
+  walk(at)
+  return found.sort()
+}
+
+test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
+  const root = repoWith({ "seed.txt": "held" })
+  const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  expect("refusals" in said).toBe(false)
+  const held = indexIn(root)
+  const named = [
+    `identity/page/id/${ID}.jsonl`,
+    "identity/domain/slug/a.jsonl",
+    "identity/page/path/akasha/a.domain.ts.jsonl",
+  ]
+  for (const at of named) expect(readFileSync(join(held, at), "utf8").trim()).toBe(LINE)
+  rmSync(root, { recursive: true })
+})
+
+test("a landing that takes a page away takes its index entries with it", () => {
+  const root = repoWith({ "seed.txt": "held" })
+  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const held = indexIn(root)
+  expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(true)
+  landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
+  expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(false)
+  expect(existsSync(join(held, "identity/domain"))).toBe(false)
+  rmSync(root, { recursive: true })
+})
+
+test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
+  const root = repoWith({ "seed.txt": "held" })
+  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const was = everyFileUnder(indexIn(root))
+  const said = landing(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }], "held", REFUSES)
+  expect("refusals" in said).toBe(true)
+  expect(everyFileUnder(indexIn(root))).toEqual(was)
+  rmSync(root, { recursive: true })
+})
+
+test("the index two landings leave is the index a rebuild from those pages builds", () => {
+  const root = repoWith({ "seed.txt": "held" })
+  landing(root, [{ path: "akasha/domain.page-type.ts", body: bytes(TYPE) }], "held", ADMITS)
+  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  const rebuilt = mkdtempSync(join(tmpdir(), "akasha-rebuilt-"))
+  rebuiltFrom(join(root, "akasha"), rebuilt, root)
+  expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(indexIn(root)))
+  rmSync(root, { recursive: true })
+  rmSync(rebuilt, { recursive: true })
 })
 
 test("a refused change leaves nothing behind", () => {

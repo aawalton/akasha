@@ -1,4 +1,4 @@
-import { execFileSync, spawn } from "node:child_process"
+import { execFileSync } from "node:child_process"
 import {
   closeSync,
   mkdirSync,
@@ -16,6 +16,8 @@ import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
+import { indexIn } from "../data-system/index/index-reading.module.code.ts"
+import type { Indexing } from "../data-system/index/indexing.module.code.ts"
 
 export type Change = {
   readonly path: string
@@ -32,6 +34,7 @@ export type Landed = {
   readonly commit: string | null
   readonly wrote: readonly string[]
   readonly took: readonly string[]
+  readonly noted: readonly string[]
 }
 
 export type Refused = {
@@ -48,13 +51,15 @@ const CHECKING = "../checks-system/checking.module.code.ts"
 
 export const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
 
+const INDEXING = "../data-system/index/indexing.module.code.ts"
+
+export const INDEXING_AT = "akasha/data-system/index/indexing.module.code.ts"
+
 const PATCH = "patch"
 
 const SAID_AT_MOST = 240
 
 const CAT_FILE = "akasha-cat-file-"
-
-const NAMING = "naming"
 
 const SAYING = "saying"
 
@@ -104,6 +109,16 @@ function checkingLoaded(): Checking {
   return held as Checking
 }
 
+type Keeping = (root: string, repo: string) => Indexing
+
+function indexingLoaded(): Keeping {
+  const held = reach_(INDEXING) as { readonly indexingAt?: unknown }
+  if (typeof held.indexingAt !== "function") {
+    throw new Error(`${INDEXING_AT} answers to no \`indexingAt\` the index is kept by`)
+  }
+  return held.indexingAt as Keeping
+}
+
 export function gateBuilt(root: string): Built {
   try {
     const held = checkingLoaded()
@@ -149,16 +164,14 @@ export function readingEnded(): void {
 
 function readerOn(root: string): Reading {
   const dir = mkdtempSync(join(tmpdir(), CAT_FILE))
-  const namingAt = join(dir, NAMING)
   const sayingAt = join(dir, SAYING)
   const troubleAt = join(dir, TROUBLE)
-  execFileSync("mkfifo", [namingAt])
-  const naming = openSync(namingAt, "r+")
-  const heard = openSync(namingAt, "r")
   const saying = openSync(sayingAt, "w")
   const trouble = openSync(troubleAt, "w")
-  const kid = spawn("git", ["-C", root, "cat-file", "--batch", "-z"], {
-    stdio: [heard, saying, trouble],
+  const kid = Bun.spawn(["git", "-C", root, "cat-file", "--batch", "-z"], {
+    stdin: "pipe",
+    stdout: saying,
+    stderr: trouble,
   })
   kid.unref()
   const rfd = openSync(sayingAt, "r")
@@ -173,10 +186,14 @@ function readerOn(root: string): Reading {
     to: 0,
     took: 0,
     asked: (name) => {
-      writeSync(naming, `${name}\0`)
+      kid.stdin.write(`${name}\0`)
+      kid.stdin.flush()
     },
     ended: () => {
-      for (const one of [naming, heard, rfd, saying, trouble]) {
+      try {
+        kid.stdin.end()
+      } catch {}
+      for (const one of [rfd, saying, trouble]) {
         try {
           closeSync(one)
         } catch {}
@@ -387,6 +404,33 @@ function wroteOnto(root: string, changed: readonly Change[]): {
   return { wrote, took }
 }
 
+const TEXT = new TextDecoder()
+
+function textOf(body: Uint8Array | null): string | null {
+  return body === null ? null : TEXT.decode(body)
+}
+
+function beforeOf(root: string, base: string, changed: readonly Change[]): Map<string, string | null> {
+  const held = new Map<string, string | null>()
+  for (const one of changed) held.set(one.path, textOf(bodyAt(root, base, one.path)))
+  return held
+}
+
+function indexed(
+  root: string,
+  changed: readonly Change[],
+  before: ReadonlyMap<string, string | null>,
+  keeping: Keeping
+): readonly string[] {
+  const held = keeping(indexIn(root), root)
+  for (const one of changed) {
+    const was = before.get(one.path) ?? null
+    if (one.body === null) held.took(one.path, was)
+    else held.wrote(one.path, TEXT.decode(one.body), was)
+  }
+  return held.settle()
+}
+
 function committed(
   root: string,
   paths: readonly string[],
@@ -420,7 +464,9 @@ export function landing(
   return holding(root, () => {
     const base = baseOf(root)
     const proposed = { base, changed: changes }
-    const said = judged(judging, leavingOf(root, proposed))
+    const leaving = leavingOf(root, proposed)
+    const before = beforeOf(root, base, changes)
+    const said = judged(judging, leaving)
     if (said.length > 0) {
       return {
         refusals: [
@@ -429,8 +475,10 @@ export function landing(
         ],
       }
     }
+    const keeping = indexingLoaded()
     const put = wroteOnto(root, changes)
+    const noted = indexed(root, changes, before, keeping)
     const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer)
-    return { base, commit, wrote: put.wrote, took: put.took }
+    return { base, commit, wrote: put.wrote, took: put.took, noted }
   })
 }

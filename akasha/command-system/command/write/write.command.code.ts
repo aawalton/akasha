@@ -248,6 +248,7 @@ function reportOf(
       )
     }
   }
+  found.push(...said.noted.map((one) => `the index took less than the whole of this — ${one}`))
   found.push(
     said.commit === null
       ? "nothing was committed — what was asked for already stands"
