@@ -13,6 +13,7 @@ import {
 import { dirname, join } from "node:path"
 import { tmpdir } from "node:os"
 import type { Indexing } from "../../write-system/landing.module.code.ts"
+import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -217,8 +218,6 @@ export function knownIn(root: string): Known {
   }
 }
 
-const AN_ID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/
-
 export type Reached = { readonly id: string } | { readonly refused: string }
 
 function only(found: readonly Standing[]): Standing | null {
@@ -233,13 +232,14 @@ function among(named: string, found: readonly Standing[]): string {
 }
 
 export function reaches(named: string, wanted: string | null, known: Known): Reached {
-  if (AN_ID.test(named)) {
-    return known.byId(named) === null ? { refused: `no page carries the id \`${named}\`` } : { id: named }
+  const address = addressIn(named)
+  if (address.kind === "id") {
+    return known.byId(address.id) === null
+      ? { refused: `no page carries the id \`${address.id}\`` }
+      : { id: address.id }
   }
-  const cut = named.indexOf("/")
-  if (cut !== -1) {
-    const pageTypeSlug = named.slice(0, cut)
-    const slug = named.slice(cut + 1)
+  if (address.kind === "qualified") {
+    const { pageTypeSlug, slug } = address
     const found = known.at(pageTypeSlug, slug)
     const one = only(found)
     if (one !== null) return { id: one.id }
@@ -249,7 +249,7 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
   if (wanted === null) {
     return { refused: `\`${named}\` names no page type and its property declares no target` }
   }
-  const found = known.admitting(wanted).flatMap((pageTypeSlug) => known.at(pageTypeSlug, named))
+  const found = known.admitting(wanted).flatMap((pageTypeSlug) => known.at(pageTypeSlug, address.slug))
   const one = only(found)
   if (one !== null) return { id: one.id }
   if (found.length === 0) return { refused: `no page admitting \`${wanted}\` carries the slug \`${named}\`` }
