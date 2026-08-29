@@ -7,13 +7,13 @@ import {
   SCOPE,
 } from "./block-git-writes.agent-hook.code.ts"
 
-const WRITE = 'bun akasha/command-system/cli.module.code.ts write --file-path <path> --content-file <body> --message "<why>"'
+const WRITE = 'akasha write --file-path <path> --content-file <body> --message "<why>"'
 
-const EDIT = 'bun akasha/command-system/cli.module.code.ts edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
+const EDIT = 'akasha edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
 
-const MOVE = 'bun akasha/command-system/cli.module.code.ts move --from <path> --to <path> --message "<why>"'
+const MOVE = 'akasha move --from <path> --to <path> --message "<why>"'
 
-const REMOVE = 'bun akasha/command-system/cli.module.code.ts remove --file-path <path> --message "<why>"'
+const REMOVE = 'akasha remove --file-path <path> --message "<why>"'
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()
@@ -23,7 +23,7 @@ test("a commit naming no paths is refused, and this is the call that took the ga
 })
 
 test("a commit refusal says what a commit taking akasha content costs", () => {
-  expect(refusalIn("git commit")).toContain("leaves the index stamp behind HEAD")
+  expect(refusalIn("git commit")).toContain("leaves the akasha index behind HEAD")
 })
 
 test("every verb it names is refused when the call names no paths", () => {
@@ -109,8 +109,7 @@ test("every refusal names the akasha commands, with their flags filled in", () =
     expect(said).toContain(EDIT)
     expect(said).toContain(MOVE)
     expect(said).toContain(REMOVE)
-    expect(said).toContain("--message-file <file>")
-  }
+    }
 })
 
 test("a move refusal names the move command with its own flags", () => {
@@ -130,10 +129,10 @@ test("every refusal names the hook that made it", () => {
 test("an akasha command stands aside, and commits for itself", () => {
   expect(
     refusalIn(
-      'bun akasha/command-system/cli.module.code.ts write --file-path akasha/one.ts --content-file /tmp/one --message "one"'
+      'akasha write --file-path akasha/one.ts --content-file /tmp/one --message "one"'
     )
   ).toBeNull()
-  expect(refusalIn("bun akasha/command-system/cli.module.code.ts index refresh")).toBeNull()
+  expect(refusalIn("akasha index refresh")).toBeNull()
 })
 
 test("a verb this does not name is stood aside from, whatever else it does", () => {

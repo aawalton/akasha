@@ -12,7 +12,7 @@ const HOOK = "block-git-writes"
 
 const SCOPE_FLAG = "--scope"
 
-const AKASHA = "bun akasha/command-system/cli.module.code.ts"
+const AKASHA = "akasha"
 
 const PATHS = "--"
 
@@ -21,12 +21,11 @@ const INSIDE = "akasha"
 const UNBOUNDED: readonly string[] = [".", "..", "./", "/", "*"]
 
 const COMMANDS = [
-  "Akasha content is landed by the akasha commands, which commit for themselves:",
+  "Land akasha content with the akasha commands, which commit for themselves:",
   `  ${AKASHA} write --file-path <path> --content-file <body> --message "<why>"`,
   `  ${AKASHA} edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"`,
   `  ${AKASHA} move --from <path> --to <path> --message "<why>"`,
   `  ${AKASHA} remove --file-path <path> --message "<why>"`,
-  "Each takes --message-file <file> in place of --message.",
 ]
 
 const OVER_VERBS = new Map<string, readonly string[]>([
@@ -34,8 +33,7 @@ const OVER_VERBS = new Map<string, readonly string[]>([
     "commit",
     [
       "`git commit` writes tracked content into a commit.",
-      "What it would carry is in the index, and the index is not on this line.",
-      "A commit taking akasha content leaves the index stamp behind HEAD, and every agent",
+      "A commit carrying akasha content leaves the akasha index behind HEAD, and every agent",
       "here loses the gate until someone puts it back.",
       "",
       ...COMMANDS,

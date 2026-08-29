@@ -25,17 +25,17 @@ test("a refusal says what the call would destroy", () => {
 test("a refusal over a body names the write and edit commands, with their flags filled in", () => {
   const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
   expect(said).toContain(
-    'bun akasha/command-system/cli.module.code.ts write --file-path <path> --content-file <body> --message "<why>"'
+    'akasha write --file-path <path> --content-file <body> --message "<why>"'
   )
   expect(said).toContain(
-    'bun akasha/command-system/cli.module.code.ts edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
+    'akasha edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
   )
   expect(said).toContain("--message-file <file>")
 })
 
 test("a refusal over a deletion names the remove command, with its flags filled in", () => {
   expect(refusalIn("git rm akasha/one.ts")).toContain(
-    'bun akasha/command-system/cli.module.code.ts remove --file-path <path> --message "<why>"'
+    'akasha remove --file-path <path> --message "<why>"'
   )
 })
 
@@ -57,7 +57,7 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 
 test("an amend refusal names the command that lands another commit", () => {
   expect(refusalIn("git commit --amend")).toContain(
-    'bun akasha/command-system/cli.module.code.ts write --file-path <path> --content-file <body> --message "<why>"'
+    'akasha write --file-path <path> --content-file <body> --message "<why>"'
   )
 })
 
@@ -87,10 +87,10 @@ test("a read is stood aside from", () => {
 test("an akasha command stands aside, whatever verb its words carry", () => {
   expect(
     refusalIn(
-      'bun akasha/command-system/cli.module.code.ts write --file-path akasha/one.ts --content-file /tmp/one --message "reset the thing"'
+      'akasha write --file-path akasha/one.ts --content-file /tmp/one --message "reset the thing"'
     )
   ).toBeNull()
-  expect(refusalIn("bun akasha/command-system/cli.module.code.ts remove --file-path akasha/one.ts")).toBeNull()
+  expect(refusalIn("akasha remove --file-path akasha/one.ts")).toBeNull()
 })
 
 test("a command that is not git carrying a named verb stands aside", () => {

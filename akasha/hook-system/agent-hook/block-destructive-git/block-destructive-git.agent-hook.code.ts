@@ -12,7 +12,7 @@ const HOOK = "block-destructive-git"
 
 const SCOPE_FLAG = "--scope"
 
-const AKASHA = "bun akasha/command-system/cli.module.code.ts"
+const AKASHA = "akasha"
 
 const NONE = [
   "No akasha command does this, and none is planned.",
