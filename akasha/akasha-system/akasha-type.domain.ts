@@ -8,11 +8,23 @@ export const akashaType = {
   partSlugs: ["domain/akasha-import"],
   requiredReadingSlugs: [],
   design: [
-    "A type is gone by the time the code runs.",
-    "A page's type is derived from the page's value.",
+    {
+      invariantKind: "constraint",
+      statement: "A type is gone by the time the code runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's type is derived from the page's value.",
+    },
   ],
   intent: [
-    "A page of the wrong shape does not compile.",
-    "A limit no type can carry is enforced by a check.",
+    {
+      invariantKind: "gap",
+      statement: "A page of the wrong shape does not compile.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A limit no type can carry is enforced by a check.",
+    },
   ],
 } as const satisfies Domain

@@ -22,9 +22,21 @@ export const akashaSystem = {
   ],
   requiredReadingSlugs: [],
   design: [
-    "The akasha system is the `akasha` subfolder in the `akasha` repo.",
-    "Code and data are text.",
-    "Code and text are data.",
-    "Data and text are code.",
+    {
+      invariantKind: "departure",
+      statement: "The akasha system is the `akasha` subfolder in the `akasha` repo.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Code and data are text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Code and text are data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Data and text are code.",
+    },
   ],
 } as const satisfies Domain

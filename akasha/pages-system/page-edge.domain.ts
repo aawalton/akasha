@@ -6,9 +6,22 @@ export const pageEdge = {
   slug: "page-edge",
   definition: "a reference from one page to another",
   design: [
-    "An edge is an import where the target is needed to derive this page's type, and a slug everywhere else.",
-    "Every import edge is a slug property as well.",
-    "A slug edge is checked for its shape and never for what it names.",
-    "An edge imports only a type, and is gone before the page runs.",
+    {
+      invariantKind: "departure",
+      statement:
+        "An edge is an import where the target is needed to derive this page's type, and a slug everywhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every import edge is a slug property as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug edge is checked for its shape and never for what it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edge imports only a type, and is gone before the page runs.",
+    },
   ],
 } as const satisfies Domain

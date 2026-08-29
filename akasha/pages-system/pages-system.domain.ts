@@ -13,8 +13,14 @@ export const pagesSystem = {
   ],
   requiredReadingSlugs: [],
   design: [
-    "Page types and page property types are themselves page types.",
-    "What makes a file a page is the page type its name carries.",
+    {
+      invariantKind: "departure",
+      statement: "Page types and page property types are themselves page types.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What makes a file a page is the page type its name carries.",
+    },
   ],
   rule: [
     {

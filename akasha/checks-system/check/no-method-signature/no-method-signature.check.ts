@@ -10,8 +10,20 @@ export const noMethodSignature = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "A call, construct or index signature is not a method signature, and is not judged.",
-    "A method written on a class or an object literal is not a signature, and is not judged.",
-    "A property holding a function type says the same thing and is checked both ways round, so the method form is the one refused.",
+    {
+      invariantKind: "absence",
+      statement:
+        "A call, construct or index signature is not a method signature, and is not judged.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A method written on a class or an object literal is not a signature, and is not judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property holding a function type says the same thing and is checked both ways round, so the method form is the one refused.",
+    },
   ],
 } as const satisfies Check

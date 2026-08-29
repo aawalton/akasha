@@ -6,20 +6,53 @@ export const indexIdentity = {
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
   design: [
-    "An identity file is found by scope, then property, then value.",
-    "The scope is the page type an identifier is unique within.",
-    "Only the `page` page type declares an identifier unique across every page.",
-    "A line carries the page's path and its id.",
-    "A slug reaches an id without opening the page.",
-    "The identifiers are `id` and `slug`.",
-    "The identifiers are named in code rather than declared.",
-    "A file holds one line for each page carrying the value.",
+    {
+      invariantKind: "departure",
+      statement: "An identity file is found by scope, then property, then value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scope is the page type an identifier is unique within.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the `page` page type declares an identifier unique across every page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line carries the page's path and its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug reaches an id without opening the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The identifiers are `id`, `slug` and `path`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The identifiers are named in code rather than declared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file holds one line for each page carrying the value.",
+    },
   ],
   condition: [
-    "No two pages carry one id.",
-    "No two pages of one page type carry one slug.",
+    {
+      invariantKind: "departure",
+      statement: "No two pages carry one id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No two pages of one page type carry one slug.",
+    },
   ],
   intent: [
-    "The index takes its identifiers from what the properties declare.",
+    {
+      invariantKind: "gap",
+      statement: "The index takes its identifiers from what the properties declare.",
+    },
   ],
 } as const satisfies Domain

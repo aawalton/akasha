@@ -14,7 +14,14 @@ export const runsOn = {
   entrySlug: "phase",
   max: null,
   design: [
-    "A check states its phases, because nothing yet derives them from what the check reads.",
-    "A check runs on audit whatever it states here.",
+    {
+      invariantKind: "departure",
+      statement:
+        "A check states its phases, because nothing yet derives them from what the check reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check runs on audit whatever it states here.",
+    },
   ],
 } as const satisfies PagePropertyType

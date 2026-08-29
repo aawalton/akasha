@@ -10,7 +10,15 @@ export const command = {
   definition: "a module reached by name from the command line",
   extendsSlug: "page-type/module",
   design: [
-    "A command's slug is what it is invoked by, so nothing states an invocation twice.",
-    "A command is handed what it needs from outside as one value, so nothing it does depends on where it was run from.",
+    {
+      invariantKind: "departure",
+      statement:
+        "A command's slug is what it is invoked by, so nothing states an invocation twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command is handed what it needs from outside as one value, so nothing it does depends on where it was run from.",
+    },
   ],
 } as const satisfies PageType

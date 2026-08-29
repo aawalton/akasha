@@ -15,8 +15,17 @@ export const module = {
   definition: "code reached by importing it",
   extendsSlug: "page-type/domain",
   design: [
-    "A module's code is a page property, held in a file beside the page.",
-    "A module page states what its code is for; the code states how.",
-    "A module's test is a page property of its own, beside its code.",
+    {
+      invariantKind: "departure",
+      statement: "A module's code is a page property, held in a file beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module page states what its code is for; the code states how.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module's test is a page property of its own, beside its code.",
+    },
   ],
 } as const satisfies PageType

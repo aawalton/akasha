@@ -9,10 +9,38 @@ export const checking = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "A check and its page cannot drift apart, because the page names the export.",
-    "The checks are found in the index, so finding them costs nothing the corpus grows.",
-    "A check is run once for each changed file it was given, and never once for the corpus.",
-    "A check that threw refuses the change it could not judge.",
-    "Audit is the same run over every page the index knows, so no phase walks the tree.",
+    {
+      invariantKind: "departure",
+      statement: "A check and its page cannot drift apart, because the page names the export.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The checks are found in the index, so finding them costs nothing the corpus grows.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check is run once for each changed file it was given, and never once for the corpus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check that threw refuses the change it could not judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the change takes away is handed to every check needing only the path, and passed over only by the checks needing bytes it has none of.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What was judged is counted from the same handing that runs the checks, so a caller is never told a number larger than the checks saw.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Audit is the same run over every page the index knows, so no phase walks the tree.",
+    },
   ],
 } as const satisfies Module

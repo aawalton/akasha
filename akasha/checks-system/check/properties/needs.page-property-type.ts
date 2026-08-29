@@ -12,7 +12,25 @@ export const needs = {
   max: 10,
   nameFormatSlug: null,
   design: [
-    "A check needing only the path is not handed the body, so a rename is judged without a read.",
-    "Nothing hands a check the tree; what it must know beyond its file, it asks the index.",
+    {
+      invariantKind: "departure",
+      statement:
+        "A check needing only the path is not handed the body, so a rename is judged without a read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check needing only the path is handed a path the change takes away, and told that it is being taken away, so a removal is judged rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check needing the file is passed over where the change takes the path away, because there are no bytes to hand it and it can judge nothing without them.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Nothing hands a check the tree; what it must know beyond its file, it asks the index.",
+    },
   ],
 } as const satisfies PagePropertyType

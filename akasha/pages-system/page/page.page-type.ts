@@ -18,13 +18,40 @@ export const page = {
   partSlugs: ["domain/page-edge"],
   requiredReadingSlugs: [],
   design: [
-    "A page is one TypeScript file.",
-    "A page is one exported object, named for the page's slug.",
-    "A page has no body; every section is a property.",
-    "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
-    "Some page properties have their own files.",
-    "Some page property files are not TypeScript files.",
-    "A page is deleted once its purpose is done.",
+    {
+      invariantKind: "departure",
+      statement: "A page is one TypeScript file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is one exported object, named for the page's slug.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page has no body; every section is a property.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Some page properties have their own files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Some page property files are not TypeScript files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is deleted once its purpose is done.",
+    },
   ],
-  condition: ["Loading a page's file declares its value and does nothing else."],
+  condition: [
+    {
+      invariantKind: "departure",
+      statement: "Loading a page's file declares its value and does nothing else.",
+    },
+  ],
 } as const satisfies PageType

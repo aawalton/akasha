@@ -7,6 +7,16 @@ export const domainSystem = {
   definition: "how we define how things should be",
   partSlugs: ["page-type/domain", "page-type/finding"],
   requiredReadingSlugs: [],
-  design: ["Context a choice does not need does not reach the agent making it."],
-  intent: ["Agents have the context each choice needs at the time they make it."],
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "Context a choice does not need does not reach the agent making it.",
+    },
+  ],
+  intent: [
+    {
+      invariantKind: "gap",
+      statement: "Agents have the context each choice needs at the time they make it.",
+    },
+  ],
 } as const satisfies Domain

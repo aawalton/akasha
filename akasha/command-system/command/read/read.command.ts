@@ -9,13 +9,39 @@ export const read = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "A read returns the whole file, because nothing here records what a reader last saw.",
-    "A read of a body that is not UTF-8 text returns what it is instead of the body.",
-    "A read takes no line range.",
-    "A read too big for one answer returns fewer files and how to ask for the rest.",
-    "A body past what one answer holds returns what it is, and no call returns it.",
-    "A read reaches no file outside the akasha folder.",
-    "The line numbers a read prints are not part of the file.",
-    "The call for what is left over is priced as it is printed, so the answer naming it still fits.",
+    {
+      invariantKind: "departure",
+      statement:
+        "A read returns the whole file, because nothing here records what a reader last saw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read of a body that is not UTF-8 text returns what it is instead of the body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A read takes no line range.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read too big for one answer returns fewer files and how to ask for the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body past what one answer holds returns what it is, and no call returns it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read reaches no file outside the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The line numbers a read prints are not part of the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The call for what is left over is priced as it is printed, so the answer naming it still fits.",
+    },
   ],
 } as const satisfies Command

@@ -7,7 +7,12 @@ export const akashaMigration = {
   definition: "how the old system becomes the new system",
   partSlugs: ["domain/akasha-accretion", "domain/akasha-ablation", "domain/akasha-milestone"],
   requiredReadingSlugs: [],
-  design: ["Akasha is one repository, so anything built for many is left behind."],
+  design: [
+    {
+      invariantKind: "constraint",
+      statement: "Akasha is one repository, so anything built for many is left behind.",
+    },
+  ],
   rule: [
     {
       name: "Accrete And Ablate",

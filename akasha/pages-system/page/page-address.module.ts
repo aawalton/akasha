@@ -9,7 +9,13 @@ export const pageAddress = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "This says what form an address takes and looks no page up.",
-    "A page type and a slug are cut at the first `/`, so a slug may carry later ones.",
+    {
+      invariantKind: "departure",
+      statement: "This says what form an address takes and looks no page up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type and a slug are cut at the first `/`, so a slug may carry later ones.",
+    },
   ],
 } as const satisfies Module

@@ -8,7 +8,13 @@ export const dataSystem = {
   partSlugs: ["domain/index"],
   requiredReadingSlugs: [],
   design: [
-    "The data system is written under `.git/data`, which git does not track.",
-    "Every part of the data system can be written again from the pages alone.",
+    {
+      invariantKind: "departure",
+      statement: "The data system is written under `.git/data`, which git does not track.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every part of the data system can be written again from the pages alone.",
+    },
   ],
 } as const satisfies Domain

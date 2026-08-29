@@ -15,13 +15,29 @@ export const check = {
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
   design: [
-    "A check is handed what it says it needs and nothing more.",
-    "A check judges the code, never its author.",
-    "A check takes and gives paths under the root it was given.",
+    {
+      invariantKind: "departure",
+      statement: "A check is handed what it says it needs and nothing more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check judges the code, never its author.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check takes and gives paths under the root it was given.",
+    },
   ],
   intent: [
-    "A check looks for no files.",
-    "A check that must know more than the file it was handed asks the index, never the tree.",
+    {
+      invariantKind: "gap",
+      statement: "A check looks for no files.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A check that must know more than the file it was handed asks the index, never the tree.",
+    },
   ],
   rule: [
     {
@@ -39,12 +55,16 @@ export const check = {
       act: "Fail a check that could not run.",
       warrant:
         "A check that could not look verified nothing, so passing it lets a change land unjudged.",
-      aids: ["A check that threw could not run.", "Never answer for a check by catching its error."],
+      aids: [
+        "A check that threw could not run.",
+        "Never answer for a check by catching its error.",
+      ],
     },
     {
       name: "Zero At Landing",
       act: "Fix every violation a new check finds before landing it, never freezing the ones left into a list.",
-      warrant: "The check reads green while every defect it found is still there, so it blocks nobody.",
+      warrant:
+        "The check reads green while every defect it found is still there, so it blocks nobody.",
       aids: [
         "Never narrow its reach to make the count zero.",
         "Where zero is out of reach, do not land it.",

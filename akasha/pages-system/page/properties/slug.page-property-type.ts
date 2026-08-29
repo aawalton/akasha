@@ -11,5 +11,10 @@ export const slug = {
   kind: "text",
   max: 100,
   nameFormatSlug: null,
-  design: ["A slug is unique among the pages of its page type."],
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "A slug is unique among the pages of its page type.",
+    },
+  ],
 } as const satisfies PagePropertyType

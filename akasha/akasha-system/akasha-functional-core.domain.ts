@@ -6,8 +6,17 @@ export const akashaFunctionalCore = {
   slug: "akasha-functional-core",
   definition: "the smallest part of the new system that can run itself",
   intent: [
-    "Every change to the akasha system is made by it.",
-    "A change the akasha system makes is gated, written and committed as one act.",
-    "The akasha system checks every change to itself.",
+    {
+      invariantKind: "gap",
+      statement: "Every change to the akasha system is made by it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A change the akasha system makes is gated, written and committed as one act.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The akasha system checks every change to itself.",
+    },
   ],
 } as const satisfies Domain

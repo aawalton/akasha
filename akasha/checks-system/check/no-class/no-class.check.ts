@@ -10,8 +10,20 @@ export const noClass = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "A class extending `Error` is let through, because the language gives no other way to make a thrown value carry a type.",
-    "A class expression is judged wherever a declaration would be, and it is never let through.",
-    "A class is read out of the syntax alone, so what it extends is judged by the name written rather than by what that name resolves to.",
+    {
+      invariantKind: "constraint",
+      statement:
+        "A class extending `Error` is let through, because the language gives no other way to make a thrown value carry a type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A class expression is judged wherever a declaration would be, and it is never let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A class is read out of the syntax alone, so what it extends is judged by the name written rather than by what that name resolves to.",
+    },
   ],
 } as const satisfies Check

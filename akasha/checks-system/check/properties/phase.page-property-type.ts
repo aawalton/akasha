@@ -12,6 +12,9 @@ export const phase = {
   max: 10,
   nameFormatSlug: null,
   design: [
-    "Audit is no phase, because it judges every page rather than a set of changes.",
+    {
+      invariantKind: "absence",
+      statement: "Audit is no phase, because it judges every page rather than a set of changes.",
+    },
   ],
 } as const satisfies PagePropertyType

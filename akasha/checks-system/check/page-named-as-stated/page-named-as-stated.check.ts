@@ -10,9 +10,24 @@ export const pageNamedAsStated = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "The stem is bound to the `slug` the page states, never to anything a reader would call its title.",
-    "A page naming itself otherwise than its file is invisible to the corpus, so nothing else would report it.",
-    "A file holding no page value is a property's file, and is not judged here.",
-    "The name is judged against what the page states rather than against the index, because a page this change adds is in no index yet.",
+    {
+      invariantKind: "departure",
+      statement:
+        "The stem is bound to the `slug` the page states, never to anything a reader would call its title.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page naming itself otherwise than its file is invisible to the corpus, so nothing else would report it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file holding no page value is a property's file, and is not judged here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name is judged against what the page states rather than against the index, because a page this change adds is in no index yet.",
+    },
   ],
 } as const satisfies Check

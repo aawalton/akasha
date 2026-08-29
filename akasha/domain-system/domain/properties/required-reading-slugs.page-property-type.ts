@@ -16,7 +16,14 @@ export const requiredReadingSlugs = {
   entrySlug: "page-slug",
   max: null,
   design: [
-    "A domain may name one below it in the tree.",
-    "A domain's required reading names only the terms a reader would misread it without.",
+    {
+      invariantKind: "departure",
+      statement: "A domain may name one below it in the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A domain's required reading names only the terms a reader would misread it without.",
+    },
   ],
 } as const satisfies PagePropertyType

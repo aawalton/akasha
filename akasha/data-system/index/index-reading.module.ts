@@ -9,8 +9,19 @@ export const indexReading = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "An answer is one file read or one directory listed, and never a walk.",
-    "A directory listed is one page type's own, so it grows with that type and not with the corpus.",
-    "A page the index names is answered as a path, because a reader wants the file and not the entry.",
+    {
+      invariantKind: "departure",
+      statement: "An answer is one file read or one directory listed, and never a walk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A directory listed is one page type's own, so it grows with that type and not with the corpus.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page the index names is answered as a path, because a reader wants the file and not the entry.",
+    },
   ],
 } as const satisfies Module

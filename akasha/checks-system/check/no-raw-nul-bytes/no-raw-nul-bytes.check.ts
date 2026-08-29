@@ -10,8 +10,19 @@ export const noRawNulBytes = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "Every file in the akasha folder is judged, and no kind of file is exempt.",
-    "A file carrying more than one NUL is reported at the first, with how many stand in it.",
-    "A NUL is counted in the bytes, so a body that is not text is judged the same as one that is.",
+    {
+      invariantKind: "departure",
+      statement: "Every file in the akasha folder is judged, and no kind of file is exempt.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file carrying more than one NUL is reported at the first, with how many stand in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A NUL is counted in the bytes, so a body that is not text is judged the same as one that is.",
+    },
   ],
 } as const satisfies Check

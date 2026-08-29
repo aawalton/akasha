@@ -11,9 +11,25 @@ export const idIsAUuidVersion7 = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "The id judged is the one the page states, so an id computed elsewhere is outside this check.",
-    "A file stating no page is a file stating no id, and passes for having nothing to judge.",
-    "An id is read from the object literal rather than the body, so text shaped like an id elsewhere is not one.",
-    "The id judged is a property of the page itself, so an id nested deeper is another page's business.",
+    {
+      invariantKind: "departure",
+      statement:
+        "The id judged is the one the page states, so an id computed elsewhere is outside this check.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file stating no page is a file stating no id, and passes for having nothing to judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An id is read from the object literal rather than the body, so text shaped like an id elsewhere is not one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The id judged is a property of the page itself, so an id nested deeper is another page's business.",
+    },
   ],
 } as const satisfies Check

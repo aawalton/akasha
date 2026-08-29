@@ -14,17 +14,45 @@ export const index = {
   ],
   requiredReadingSlugs: [],
   design: [
-    "An index file is named for the value it answers.",
-    "A value no page carries has no file.",
-    "A question the index answers is one file read, never a walk.",
-    "A directory is divided into no buckets.",
-    "The index is written by the door and by nothing else.",
-    "A page property held in its own file is not indexed.",
-    "A path in the index is relative to the repository root.",
+    {
+      invariantKind: "departure",
+      statement: "An index file is named for the value it answers.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A value no page carries has no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question the index answers is one file read, never a walk.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A directory is divided into no buckets.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index is written by the door and by nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path in the index is relative to the repository root.",
+    },
   ],
-  condition: ["The index holds every page."],
+  condition: [
+    {
+      invariantKind: "departure",
+      statement: "The index holds every page.",
+    },
+  ],
   intent: [
-    "No page's entry is older than the files its properties hold.",
-    "Nothing in the index differs from the pages.",
+    {
+      invariantKind: "gap",
+      statement: "No page's entry is older than the files its properties hold.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing in the index differs from the pages.",
+    },
   ],
 } as const satisfies Domain

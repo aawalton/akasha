@@ -9,13 +9,32 @@ export const indexing = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "An index file is replaced whole, never appended to.",
-    "Identity is settled for every page in a write before any relation is.",
-    "A rebuild reads the index only to find what no page carries.",
-    "A body that will not load is reported only for a page.",
-    "The repository root is given to the index rather than derived from where the index sits.",
+    {
+      invariantKind: "departure",
+      statement: "An index file is replaced whole, never appended to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Identity is settled for every page in a write before any relation is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild reads the index only to find what no page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that will not load is reported only for a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The repository root is given to the index rather than derived from where the index sits.",
+    },
   ],
   intent: [
-    "A page the index cannot read is reported, never answered as empty.",
+    {
+      invariantKind: "gap",
+      statement: "A page the index cannot read is reported, never answered as empty.",
+    },
   ],
 } as const satisfies Module

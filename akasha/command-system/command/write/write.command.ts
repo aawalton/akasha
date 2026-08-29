@@ -9,12 +9,42 @@ export const write = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "A body reaches this only as a file named at `--content-file`, so no body is carried on the command line.",
-    "A path outside the akasha folder is refused, because nothing outside it is what these checks address.",
-    "The bodies written and the paths taken away by one call are one gated commit, or none.",
-    "`--dry-run` gates and reports and writes nothing at all, not a file and not a loose object.",
-    "Breaking the glass runs no check, and says in the commit itself that none ran and why.",
-    "`--dry-run` and `--break-the-glass` together are refused, because one reports what the checks say and the other runs none.",
+    {
+      invariantKind: "departure",
+      statement:
+        "A body reaches this only as a file named at `--content-file`, so no body is carried on the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path outside the akasha folder is refused, because nothing outside it is what these checks address.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The bodies written and the paths taken away by one call are one gated commit, or none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--dry-run` gates and reports and writes nothing at all, not a file and not a loose object.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Breaking the glass runs no check, and says in the commit itself that none ran and why.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--dry-run` and `--break-the-glass` together are refused, because one reports what the checks say and the other runs none.",
+    },
   ],
-  intent: ["A caller hands in whole bodies and learns whether they were taken, never half-taken."],
+  intent: [
+    {
+      invariantKind: "gap",
+      statement:
+        "A caller hands in whole bodies and learns whether they were taken, never half-taken.",
+    },
+  ],
 } as const satisfies Command

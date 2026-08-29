@@ -9,9 +9,25 @@ export const cli = {
   test: "ts",
   requiredReadingSlugs: [],
   design: [
-    "What akasha needs from outside is gathered here and nowhere deeper, so nothing below reads the environment.",
-    "A command answers and this prints, so a command can be run by a test without a process.",
-    "What was done is printed apart from what refused it, because one is an answer and the other is a reason.",
-    "An exit code says which kind of thing went wrong, and an unclassified failure says so rather than claiming a kind.",
+    {
+      invariantKind: "departure",
+      statement:
+        "What akasha needs from outside is gathered here and nowhere deeper, so nothing below reads the environment.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command answers and this prints, so a command can be run by a test without a process.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What was done is printed apart from what refused it, because one is an answer and the other is a reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An exit code says which kind of thing went wrong, and an unclassified failure says so rather than claiming a kind.",
+    },
   ],
 } as const satisfies Module

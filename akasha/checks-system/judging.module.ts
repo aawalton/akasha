@@ -7,5 +7,10 @@ export const judging = {
   definition: "the change a check is shown, and the refusals it answers with",
   code: "ts",
   requiredReadingSlugs: [],
-  design: ["Nothing here imports a check or a door."],
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "Nothing here imports a check or a door.",
+    },
+  ],
 } as const satisfies Module

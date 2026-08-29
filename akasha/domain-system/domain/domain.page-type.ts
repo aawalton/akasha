@@ -29,13 +29,34 @@ export const domain = {
   definition: "a bounded area of concern",
   extendsSlug: "page-type/page",
   design: [
-    "What makes a page a domain is its page type, never the folder it sits in.",
-    "Everything a domain carries could matter to every domain beneath it.",
-    "A domain is never weighed against how many domains there are.",
-    "A slug and a definition is a whole domain, not a stub waiting to be filled in.",
-    "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
+    {
+      invariantKind: "departure",
+      statement: "What makes a page a domain is its page type, never the folder it sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Everything a domain carries could matter to every domain beneath it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain is never weighed against how many domains there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug and a definition is a whole domain, not a stub waiting to be filled in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
+    },
   ],
-  intent: ["An agent writes a domain's lines as well as Alan would."],
+  intent: [
+    {
+      invariantKind: "gap",
+      statement: "An agent writes a domain's lines as well as Alan would.",
+    },
+  ],
   rule: [
     {
       name: "Every Changed Line",

@@ -10,8 +10,19 @@ export const noEnumOrNamespace = {
   needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
-    "A module named by a string is a declaration about a package rather than a namespace, and is not judged.",
-    "`declare global` is left alone, because it names no namespace of its own.",
-    "An enum and a namespace are one check, because both are a runtime value a type alone would have carried.",
+    {
+      invariantKind: "absence",
+      statement:
+        "A module named by a string is a declaration about a package rather than a namespace, and is not judged.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`declare global` is left alone, because it names no namespace of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An enum and a namespace are one check, because both are a runtime value a type alone would have carried.",
+    },
   ],
 } as const satisfies Check

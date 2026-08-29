@@ -15,5 +15,10 @@ export const partSlugs = {
   kind: "list",
   entrySlug: "domain-slug",
   max: null,
-  design: ["A page's parent is this edge inverted."],
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "A page's parent is this edge inverted.",
+    },
+  ],
 } as const satisfies PagePropertyType
