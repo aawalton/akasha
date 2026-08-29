@@ -8,11 +8,14 @@ import { until } from "../testing-system/waiting/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 import { CARRIED } from "./landing.module.test-fixtures.ts"
+import { rootOf } from "./rooting/rooting.module.code.ts"
 import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
-const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname
+const HERE = rootOf(import.meta.path) ?? ""
 
-const LANDING_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
+const HOLDING_AT = join(HERE, "akasha/command-system/holding.module.code.ts")
+
+const LANDING_AT = join(HERE, "akasha/command-system/landing.module.code.ts")
 
 const scratch = scratchWorld()
 

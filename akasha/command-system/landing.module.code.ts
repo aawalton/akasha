@@ -18,6 +18,7 @@ import { indexIn } from "../pages-system/indexes/index-reading/index-reading.mod
 import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
 import type { Reading as AsRead } from "./reading/reading.module.code.ts"
+import { rootOf } from "./rooting/rooting.module.code.ts"
 import { SCRATCH_AT } from "./scratching/scratching.module.code.ts"
 import { INSIDE, movedOnDisk, reachedSince } from "./standing/standing.module.code.ts"
 
@@ -45,13 +46,15 @@ export type Refused = {
 
 export const UNNAMED = "unnamed"
 
-const CHECKING = "../checks-system/checking/checking.module.code.ts"
-
 export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
-const INDEXING = "../pages-system/indexes/indexing/indexing.module.code.ts"
-
 export const INDEXING_AT = "akasha/pages-system/indexes/indexing/indexing.module.code.ts"
+
+const HERE = rootOf(import.meta.path) ?? ""
+
+const CHECKING = join(HERE, CHECKING_AT)
+
+const INDEXING = join(HERE, INDEXING_AT)
 
 const PATCH = "patch"
 
