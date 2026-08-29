@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { everyFileUnder } from "../../testing-system/walking.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
@@ -206,6 +206,42 @@ test("a rebuild from the pages agrees with the index a write left", () => {
 
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
+})
+
+const CORPUS = new URL("../..", import.meta.url).pathname
+
+function everyBodyUnder(at: string): readonly string[] {
+  const found: string[] = []
+  const walk = (here: string): void => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else if (one.name.endsWith(".ts")) found.push(next)
+    }
+  }
+  walk(at)
+  return found
+}
+
+const butTheStamp = (found: readonly string[]): readonly string[] =>
+  found.filter((one) => !one.startsWith("/stamp.jsonl "))
+
+test("a rebuild of the corpus and a settle over it leave the same index", () => {
+  const repo = heldAt()
+  const tree = join(repo, "akasha")
+  cpSync(CORPUS, tree, { recursive: true })
+
+  const built = heldAt()
+  const said = rebuiltFrom(tree, built, repo)
+  expect(said.pages).toBeGreaterThan(0)
+  expect(said.refused).toEqual([])
+
+  const kept = heldAt()
+  const indexing = indexingAt(kept, repo)
+  for (const path of everyBodyUnder(tree)) indexing.wrote(path, readFileSync(path, "utf8"), null)
+  expect(indexing.settle()).toEqual([])
+
+  expect(butTheStamp(everyFileUnder(kept))).toEqual(butTheStamp(everyFileUnder(built)))
 })
 
 test("a rebuild takes away an entry no page carries", () => {

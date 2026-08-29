@@ -1,6 +1,8 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
+import { id as idPage } from "../page/properties/id.text-property.ts"
+import { slug as slugPage } from "../page/properties/slug.text-property.ts"
 import type { Shaped } from "./index-entries.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
@@ -12,8 +14,16 @@ export const SCHEMA = {
   code: '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null}',
   domainSlug: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
   partSlugs: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
-  id: '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"always"}',
-  slug: '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}',
+  id: JSON.stringify({
+    pageTypeSlug: idPage.pageTypeSlug,
+    targetPageTypeSlug: null,
+    unique: idPage.unique,
+  }),
+  slug: JSON.stringify({
+    pageTypeSlug: slugPage.pageTypeSlug,
+    targetPageTypeSlug: null,
+    unique: slugPage.unique,
+  }),
 } as const
 
 export const scratch = scratchWorld()
