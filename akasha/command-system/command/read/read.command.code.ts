@@ -2,10 +2,12 @@ import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { bytesAt, textOf } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import { bodyRead, differenceOf } from "../../differing.module.code.ts"
 import {
   blobIdOf,
   type Discard,
   discarded,
+  type Reading,
   readingIn,
   recordRead,
 } from "../../reading.module.code.ts"
@@ -24,14 +26,27 @@ const NUMBER_WIDTH = 6
 
 const LEADING = 8
 
+const MOVED = "it changed since you read it"
+
+const NOT_IN_GIT = `${MOVED}, and the body you read is not in git`
+
+const NOT_TEXT = `${MOVED}, and the body you read is not text`
+
+const NO_DIFFERENCE = `${MOVED}, and git made no difference of it`
+
+const NO_SHORTER = `${MOVED}, and what changed is no shorter than the file`
+
+const TOO_MUCH = `${MOVED}, and what changed is past what one answer holds`
+
 export const surface: Surface = {
   taking: [
-    { said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read whole" },
-    { said: FULL, takes: "the body even where your record already holds it" },
+    { said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read" },
+    { said: FULL, takes: "the whole body, whatever your record holds" },
   ],
   notes: [
     `${FILE_PATH} repeats, so several files come back from one call.`,
     "a body your record already holds comes back as one line rather than the file.",
+    "a body that moved since your record holds it comes back as what changed, where that is shorter.",
     `a read takes no line range, and one answer holds ${ANSWER_CEILING} bytes.`,
   ],
 }
@@ -156,6 +171,51 @@ export function linesFor(named: string, bytes: Uint8Array): readonly string[] {
   return [`${named} — the whole file follows, ${held} lines`, numbered(text)]
 }
 
+function wholeOf(named: string, text: string, why: string): readonly string[] {
+  const held = countLines(text)
+  if (held === 0) return [`${named} — ${why}, and it is empty now; nothing follows`]
+  return [`${named} — ${why}, so the whole file follows, ${held} lines`, numbered(text)]
+}
+
+function movedOf(named: string, text: string, difference: string): readonly string[] {
+  return [
+    `${named} — ${MOVED}, ${countLines(text)} lines now, and what changed follows`,
+    difference,
+  ]
+}
+
+export function tellingWith(
+  named: string,
+  bytes: Uint8Array,
+  oid: string,
+  seen: Reading | null,
+  was: Uint8Array | null
+): readonly string[] {
+  if (seen === null) return linesFor(named, bytes)
+  if (seen.oid === oid) return [alreadyOf(named, bytes)]
+  const text = textOf(bytes)
+  if (text === null) return linesFor(named, bytes)
+  if (was === null) return wholeOf(named, text, NOT_IN_GIT)
+  if (textOf(was) === null) return wholeOf(named, text, NOT_TEXT)
+  const difference = differenceOf(was, bytes)
+  if (difference === null) return wholeOf(named, text, NO_DIFFERENCE)
+  const moved = movedOf(named, text, difference)
+  if (costOf(moved) >= costOf(linesFor(named, bytes))) return wholeOf(named, text, NO_SHORTER)
+  if (costOf(moved) > ANSWER_CEILING) return wholeOf(named, text, TOO_MUCH)
+  return moved
+}
+
+function tellingOf(
+  root: string,
+  named: string,
+  bytes: Uint8Array,
+  oid: string,
+  seen: Reading | null
+): readonly string[] {
+  const asked = seen === null || seen.oid === oid ? null : seen.oid
+  return tellingWith(named, bytes, oid, seen, asked === null ? null : bodyRead(root, asked))
+}
+
 export function readWith(argv: readonly string[], given: Given, thrown: Discard | null): Answer {
   if (thrown !== null) {
     return {
@@ -197,8 +257,7 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     const oid = blobIdOf(bytes)
     const seen =
       meant.full || given.agentId === null ? null : readingIn(given.root, given.agentId, at)
-    const lines =
-      seen !== null && seen.oid === oid ? [alreadyOf(named, bytes)] : linesFor(named, bytes)
+    const lines = tellingOf(given.root, named, bytes, oid, seen)
     const cost = costOf(lines)
     if (cost > ANSWER_CEILING) {
       refusals.push(

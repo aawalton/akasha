@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import { blobIdOf, readingIn } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { ANSWER_CEILING, costOf, readWith, surface } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, readWith, surface, tellingWith } from "./read.command.code.ts"
 
 const CALLED_AS = "akasha read"
 
@@ -281,16 +282,78 @@ test("--full returns the body whatever the record holds", () => {
   expect(said.report.join("\n")).toContain("the whole file follows")
 })
 
-test("a body that moved since it was read comes back whole", () => {
-  const root = rootWith([{ at: "akasha/one/held.ts", body: "before\n" }])
-  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
-  writeFileSync(join(root, "akasha/one/held.ts"), "after\n")
-  const said = read(["--file-path", "akasha/one/held.ts"], givenFor(root))
-  expect(said.report.join("\n")).toContain("the whole file follows")
+const HELD = "akasha/one/held.ts"
+
+test("a body that moved where git holds nothing comes back whole and says why", () => {
+  const root = rootWith([{ at: HELD, body: "before\n" }])
+  read(["--file-path", HELD], givenFor(root))
+  writeFileSync(join(root, HELD), "after\n")
+  const said = read(["--file-path", HELD], givenFor(root))
+  expect(said.report[0]).toContain("it changed since you read it")
+  expect(said.report[0]).toContain("the body you read is not in git")
+  expect(said.report[0]).toContain("the whole file follows, 1 lines")
+})
+
+function lettered(many: number): string {
+  const said: string[] = []
+  for (let one = 0; one < many; one += 1) said.push(`line ${one} ${"x".repeat(60)}`)
+  return `${said.join("\n")}\n`
+}
+
+function telling(was: Uint8Array | null, now: string): readonly string[] {
+  const bytes = bodyOf(now)
+  const seen = { path: HELD, oid: blobIdOf(was ?? bodyOf("elsewhere\n")), seenAt: 1 }
+  return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
+}
+
+test("a body that moved since it was read comes back as what changed", () => {
+  const now = lettered(80).replace("line 40 ", "line forty ")
+  const said = telling(bodyOf(lettered(80)), now)
+  expect(said[0]).toContain("it changed since you read it, 80 lines now, and what changed follows")
+  expect(said[1]).toContain("-line 40 ")
+  expect(said[1]).toContain("+line forty ")
+  expect(costOf([...said])).toBeLessThan(costOf([...telling(null, now)]))
+})
+
+test("a rewrite whose difference is no shorter than the file comes back whole", () => {
+  const said = telling(bodyOf("one\ntwo\nthree\n"), "four\nfive\nsix\n")
+  expect(said[0]).toContain("what changed is no shorter than the file")
+  expect(said[1]).toContain("     1\tfour")
+})
+
+test("a base that is not text comes back whole and says so", () => {
+  const said = telling(new Uint8Array([0xff, 0xfe, 0x00, 0x41]), lettered(40))
+  expect(said[0]).toContain("the body you read is not text")
+  expect(said[0]).toContain("the whole file follows, 40 lines")
+})
+
+test("a file past what one answer holds comes back as its difference", () => {
+  const body = lettered(600)
+  expect(costOf([body])).toBeGreaterThan(ANSWER_CEILING)
+  const said = telling(bodyOf(body), body.replace("line 300 ", "line three hundred "))
+  expect(said[0]).toContain("what changed follows")
+  expect(costOf([...said])).toBeLessThanOrEqual(ANSWER_CEILING)
+})
+
+test("a committed body is found again, so a moved body is what changed", () => {
+  const root = rootWith([{ at: HELD, body: lettered(80) }])
+  for (const one of [
+    ["init", "--quiet"],
+    ["add", "--", HELD],
+    ["-c", "user.email=h@a", "-c", "user.name=h", "commit", "--quiet", "-m", HELD, "--", HELD],
+  ]) {
+    execFileSync("git", ["-C", root, ...one], { stdio: "ignore" })
+  }
+  read(["--file-path", HELD], givenFor(root))
+  const now = lettered(80).replace("line 40 ", "line forty ")
+  writeFileSync(join(root, HELD), now)
+  const said = read(["--file-path", HELD], givenFor(root))
+  expect(said.report[0]).toContain("80 lines now, and what changed follows")
+  expect(readingIn(root, AGENT, HELD)?.oid).toBe(blobIdOf(bodyOf(now)))
 })
 
 test("an agent whose record holds nothing gets the body whole", () => {
-  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
-  const said = read(["--file-path", "akasha/one/held.ts"], givenAt(root))
+  const root = rootWith([{ at: HELD, body: "one\n" }])
+  const said = read(["--file-path", HELD], givenAt(root))
   expect(said.report.join("\n")).toContain("the whole file follows")
 })
