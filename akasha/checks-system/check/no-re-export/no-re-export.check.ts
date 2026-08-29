@@ -8,9 +8,9 @@ export const noReExport = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -41,11 +41,6 @@ export const noReExport = {
       invariantKind: "absence",
       statement:
         "A file outside the akasha folder is passed over rather than refused, the akasha folder being as far as a check reaches.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "Every phase is off while three re-export statements stand inside akasha, so this states its rule and binds nobody; the phases go on at zero.",
     },
   ],
 } as const satisfies Check
