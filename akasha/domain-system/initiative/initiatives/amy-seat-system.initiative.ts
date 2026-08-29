@@ -18,10 +18,6 @@ export const amySeatSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "Every agent hook standing in the tree is one the spawn settings carry.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Where a seat page stands is spelled in one place.",
     },
     {
@@ -82,7 +78,7 @@ export const amySeatSystem = {
     "What a seat holds is either declared of it or observed of it, and the old system files each property under one or the other. The storage did not honour the split: the session uuid, the transcript path and the rotated session uuid were observed and stood on the page, so a session rotation rewrote and committed it. They now stand beside the page with the other nine observed values, and what is left on it is identity and declarations, changing only when someone states them. That is a page in the new system's sense, and it is a smaller thing to move.",
     "Twenty of the seat's thirty-seven properties are observed rather than declared. Ten of them are ever written. Build the vocabulary for the ten and leave the rest until something writes them.",
     "The page changes about once an hour and the values beside it change about once a second. They are two problems that share a name, and the second is the one with no answer in the new system yet.",
-    "The hooks standing under `tools/hooks` are carried by no settings file and fire never. What writes the values beside a seat is the supervisor heartbeat, the model gateway and the usage reader. Any plan resting on those hooks rests on nothing.",
+    "Twenty-five hooks stand under `tools/hooks` that no settings file carries, and they fire never. The spawn settings are built from the new system's index alone, and the old pages name no event to run at, so the loader would refuse them even if it looked there. Two are safely superseded, five are partly covered, and sixteen are behaviour nothing else performs. Three of those losses bear on this domain. Nothing sets `ACTING_AGENT_ID` to a subagent's id any more, so a subagent's reads and writes are recorded against its parent seat. Nothing writes a seat's `active-turn` or `compacting` values, which `seat-show` still reads. And no session boundary expires a seat's read records. Restoring any of this is not work this initiative holds; what matters here is that a plan resting on those hooks rests on nothing. What writes the values beside a seat is the supervisor heartbeat, the model gateway and the usage reader.",
     "Every intent up to the seat standing as a page is reversible. That one is the first one-way door: once seats stand in the new system under their real ids, backing out means reconciling two live stores rather than deleting a file.",
     "The set of writers cannot be closed by reading this repository, because the page-serving daemon is not in it. Make the write safe rather than reasoning about who writes.",
     "A reader that cannot find a seat answers with nothing rather than refusing, all the way down through the id lookup, the page read and the value read. Three probes written against this work reported a clean wrong answer before they reported a true one, each time from a mistyped id or path. The collapse of the four location spellings is the intent where that shape turns from rework into a fleet that reads as empty, so let that one refuse a root it finds no seats under.",
