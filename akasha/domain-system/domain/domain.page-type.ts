@@ -20,7 +20,6 @@ export const domain = {
     "relation-property/directive-kind",
     "relation-property/domain-slug",
     "relation-property/invariant-kind",
-    "relation-property/page-slug",
     "relation-property/part-slugs",
     "text-property/act",
     "text-property/aids",
