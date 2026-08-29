@@ -22,7 +22,17 @@ export const scratch = scratchWorld()
 
 export const heldAt = (): string => scratch.rootFor("akasha-index-")
 
-export const bare = (): Pair => ({ tree: heldAt(), root: heldAt() })
+export const bare = (): Pair => {
+  const tree = heldAt()
+  const root = heldAt()
+  const indexing = indexingAt(root, tree)
+  for (const [at, value] of IDENTIFIERS) {
+    const body = bodyOf(value)
+    indexing.wrote(put(tree, at, body), body, null)
+  }
+  indexing.settle()
+  return { tree, root }
+}
 
 export function put(tree: string, at: string, body: string): string {
   const path = join(tree, at)
@@ -97,10 +107,16 @@ export function aProperty(id: string, slug: string, shape: string, rest: Held = 
 
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
 
+export const IDENTIFIERS: readonly Named[] = [
+  aType("9", "text-property", "page-property"),
+  aProperty("12", "id", "text-property", { unique: "always" }),
+  aProperty("13", "slug", "text-property", { unique: "page-type" }),
+]
+
 export const VOCABULARY: readonly Named[] = [
   aType("0", "page", null),
   aType("5", "page-property", "page"),
-  aType("9", "text-property", "page-property"),
+  ...IDENTIFIERS,
   aType("10", "relation-property", "page-property"),
   aType("11", "file-property", "page-property"),
   aType("1", "domain", "page"),

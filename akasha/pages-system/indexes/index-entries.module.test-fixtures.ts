@@ -9,9 +9,11 @@ export const C = "01a04b79-0000-7000-8000-00000000000c"
 export const D = "01a04b79-0000-7000-8000-00000000000d"
 
 export const SCHEMA = {
-  code: '{"pageTypeSlug":"file-property","targetPageTypeSlug":null}',
-  domainSlug: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}',
-  partSlugs: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}',
+  code: '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null}',
+  domainSlug: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
+  partSlugs: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
+  id: '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"always"}',
+  slug: '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}',
 } as const
 
 export const scratch = scratchWorld()
@@ -50,6 +52,8 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   filed("schema/page-property/slug/code.jsonl", SCHEMA.code)
   filed("schema/page-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
   filed("schema/page-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
+  filed("schema/page-property/slug/id.jsonl", SCHEMA.id)
+  filed("schema/page-property/slug/slug.jsonl", SCHEMA.slug)
   return { root, repo }
 }
 

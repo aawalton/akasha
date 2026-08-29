@@ -24,6 +24,11 @@ import {
   standing,
 } from "./index-entries.module.test-fixtures.ts"
 
+const UNIQUE = new Map([
+  ["id", "always"],
+  ["slug", "page-type"],
+])
+
 afterAll(scratch.sweep)
 
 test("a body exporting one object is answered with that object", () => {
@@ -43,7 +48,7 @@ test("a value carrying its two identifiers is filed under its id and under its p
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
-  expect(identityIn(value, "/repo/a.domain.ts", "/repo")).toEqual([
+  expect(identityIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
     { at: "identity/domain/slug/a.jsonl", line },
   ])
@@ -53,7 +58,7 @@ test("a page holding files is filed under no path here, a path being no identifi
   const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
   const line = `{"path":"deep/a.module.ts","id":"${A}"}`
 
-  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo")).toEqual([
+  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo", UNIQUE)).toEqual([
     { at: `identity/page/id/${A}.jsonl`, line },
     { at: "identity/module/slug/a.jsonl", line },
   ])

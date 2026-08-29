@@ -28,7 +28,10 @@ import {
   pageTypesIn,
   pathIn,
   relationIn,
+  schemaAt,
   schemaIn,
+  slugAt,
+  textAt,
   valueAt,
 } from "./index-entries.module.code.ts"
 import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
@@ -175,6 +178,24 @@ export type Indexing = {
   readonly settle: () => readonly string[]
 }
 
+function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const value of values) {
+    const reach = slugAt(value, "unique")
+    const slug = textAt(value, "slug")
+    if (reach !== null && slug !== null) found.set(slug, reach)
+  }
+  return found
+}
+
+function uniquePropertiesAt(root: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const [slug, held] of schemaAt(root)) {
+    if (held.unique !== null) found.set(slug, held.unique)
+  }
+  return found
+}
+
 export function rebuiltFrom(
   tree: string,
   root: string,
@@ -186,7 +207,8 @@ export function rebuiltFrom(
     if (value !== null) held.push({ path, value })
   }
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo))
+  const unique = uniquePropertiesIn(held.map((one) => one.value))
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, unique))
   reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, PATH), paths, root)
@@ -251,10 +273,16 @@ export function indexingAt(root: string, repo: string): Indexing {
         ...filed,
         ...filePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
       ])
+      const unique = new Map<string, string>([
+        ...uniquePropertiesAt(root),
+        ...uniquePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
+      ])
       settleOver(
         root,
-        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo))),
-        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo)))
+        held.flatMap((one) =>
+          one.was === null ? [] : identityIn(one.was, one.path, repo, unique)
+        ),
+        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo, unique)))
       )
       settleOver(
         root,

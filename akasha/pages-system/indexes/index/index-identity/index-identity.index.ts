@@ -29,11 +29,8 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The identifiers are `id` and `slug`.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The identifiers are named in code rather than declared.",
+      statement:
+        "The identifiers are the properties stating a `unique`, which today are `id` and `slug`.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +45,7 @@ export const indexIdentity = {
       statement: "No two pages of one page type carry one slug.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "The index takes its identifiers from what the properties declare.",
     },
     {

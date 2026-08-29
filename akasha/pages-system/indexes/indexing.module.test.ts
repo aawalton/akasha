@@ -117,6 +117,7 @@ test("a property that changes its shape changes what its entry says", () => {
   expect(said(schemaFile(root, "note"))).toEqual({
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
+    unique: null,
   })
 
   tookAway(root, tree, at, bodyOf(NOTE[1]))
@@ -125,6 +126,7 @@ test("a property that changes its shape changes what its entry says", () => {
   expect(said(schemaFile(root, "note"))).toEqual({
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
+    unique: null,
   })
 })
 
@@ -253,8 +255,7 @@ test("a file a page property holds is not loaded, so it is neither run nor read 
 })
 
 test("a page whose body will not load is reported rather than passed over", () => {
-  const { tree, root } = bare()
-  settled(root, tree, ...aType("1", "domain", "page"), null)
+  const { tree, root } = grounded()
 
   const indexing = indexingAt(root, tree)
   indexing.wrote(join(tree, "broken.domain.ts"), "the new body", null)

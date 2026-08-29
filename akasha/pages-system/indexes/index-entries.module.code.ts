@@ -3,6 +3,7 @@ import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
 import { addressIn } from "../page/page-address.module.code.ts"
+import { exportedAs } from "../page/page-export-name.module.code.ts"
 import { besideAt } from "../page/page-file-name.module.code.ts"
 import { slugFor } from "../page-property/page-property-key.module.code.ts"
 import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
@@ -40,6 +41,7 @@ export type Standing = {
 export type Schema = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
+  readonly unique: string | null
 }
 
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
@@ -132,17 +134,30 @@ export function pathsOf(
   return found
 }
 
-export function identityIn(value: Value, path: string, repo: string): readonly Entry[] {
+export function identityIn(
+  value: Value,
+  path: string,
+  repo: string,
+  unique: ReadonlyMap<string, string>
+): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
-  return [
-    { at: join(IDENTITY, "page", "id", `${id}.jsonl`), line },
-    { at: join(IDENTITY, pageTypeSlug, "slug", `${slug}.jsonl`), line },
-  ]
+  const held: Entry[] = []
+  for (const [named, reach] of unique) {
+    const said = textAt(value, exportedAs(named))
+    if (said === null) continue
+    const scope = reach === ALWAYS ? PAGE : pageTypeSlug
+    held.push({ at: join(IDENTITY, scope, named, `${said}.jsonl`), line })
+  }
+  return held
 }
+
+const ALWAYS = "always"
+
+const PAGE = "page"
 
 const PATH_AT = PATH
 
@@ -174,7 +189,7 @@ const SHAPES = new Set([
   "file-property",
 ])
 
-function slugAt(value: Value, key: string): string | null {
+export function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
   return named === null ? null : slugOf(named)
 }
@@ -187,6 +202,7 @@ export function schemaIn(value: Value): readonly Entry[] {
   const held: Schema = {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
+    unique: slugAt(value, "unique"),
   }
   return [{ at: join(SCHEMA, PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
 }
