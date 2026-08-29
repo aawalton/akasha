@@ -1,9 +1,17 @@
 import { afterAll, expect, test as check } from "bun:test"
-import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
+import {
+  existsSync,
+  lstatSync,
+  mkdirSync,
+  readFileSync,
+  realpathSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../command-system/scratching.module.code.ts"
 import {
   alreadyRunning,
+  CARRIED,
   plain,
   ranOver,
   RUNNING,
@@ -11,6 +19,7 @@ import {
   testBesideOf,
   testsUnder,
   verdictOf,
+  worldOf,
 } from "./code-tests.module.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
@@ -20,6 +29,8 @@ const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expe
 const MARKED =
   'import { expect, test } from "bun:test"\n' +
   `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
+
+const UNDER = "/var/tmp/"
 
 const scratch = scratchWorld()
 
@@ -34,6 +45,13 @@ function repo(files: Record<string, string>): string {
     writeFileSync(at, body)
   }
   return root
+}
+
+function handing(held: Record<string, string>): (path: string) => Uint8Array | null {
+  return (path: string): Uint8Array | null => {
+    const body = held[path]
+    return body === undefined ? null : new TextEncoder().encode(body)
+  }
 }
 
 check("the test files under a path are counted, and other files are not", () => {
@@ -128,4 +146,74 @@ check("the mark a run carries is read back by whoever stands inside it", () => {
   expect(alreadyRunning()).toBe(false)
   if (was === undefined) delete process.env[RUNNING]
   else process.env[RUNNING] = was
+})
+
+check("a world is written out of the bodies handed in, not off the tree it is made from", () => {
+  const from = repo({ "one.ts": "what stands on disk\n" })
+  const world = worldOf(from, ["akasha/one.ts"], handing({ "akasha/one.ts": "what is proposed\n" }))
+  try {
+    expect(readFileSync(join(world.root, "akasha/one.ts"), "utf8")).toBe("what is proposed\n")
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a path answered by no body is not written into the world", () => {
+  const from = repo({ "one.ts": "held\n", "gone.ts": "held\n" })
+  const named = ["akasha/one.ts", "akasha/gone.ts"]
+  const world = worldOf(from, named, handing({ "akasha/one.ts": "held\n" }))
+  try {
+    expect(existsSync(join(world.root, "akasha/one.ts"))).toBe(true)
+    expect(existsSync(join(world.root, "akasha/gone.ts"))).toBe(false)
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a world carries the index, what a run is configured by, and a link to the modules", () => {
+  const from = repo({})
+  mkdirSync(join(from, ".git/data/index"), { recursive: true })
+  writeFileSync(join(from, ".git/data/index/held.jsonl"), "{}\n")
+  mkdirSync(join(from, "node_modules"), { recursive: true })
+  for (const one of CARRIED) writeFileSync(join(from, one), "{}\n")
+  const world = worldOf(from, [], handing({}))
+  try {
+    expect(readFileSync(join(world.root, ".git/data/index/held.jsonl"), "utf8")).toBe("{}\n")
+    for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(true)
+    expect(lstatSync(join(world.root, "node_modules")).isSymbolicLink()).toBe(true)
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a world made from a root holding none of that still stands", () => {
+  const from = repo({})
+  const world = worldOf(from, ["akasha/one.ts"], handing({ "akasha/one.ts": "held\n" }))
+  try {
+    expect(existsSync(join(world.root, ".git"))).toBe(false)
+    expect(existsSync(join(world.root, "node_modules"))).toBe(false)
+    for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(false)
+    expect(readFileSync(join(world.root, "akasha/one.ts"), "utf8")).toBe("held\n")
+  } finally {
+    world.sweep()
+  }
+})
+
+check("a world stands under /var/tmp and is gone once it is swept", () => {
+  const world = worldOf(repo({}), [], handing({}))
+  expect(world.root.startsWith(UNDER)).toBe(true)
+  expect(existsSync(world.root)).toBe(true)
+  world.sweep()
+  expect(existsSync(world.root)).toBe(false)
+})
+
+check("a run over a world answers the bodies handed in, not the ones on disk", () => {
+  const from = repo({ "one.test.ts": PASSES })
+  const world = worldOf(from, ["akasha/one.test.ts"], handing({ "akasha/one.test.ts": FAILS }))
+  try {
+    expect(ranOver(world.root, ["akasha/one.test.ts"], 1).verdict).toBe("fail")
+    expect(ranOver(from, ["akasha/one.test.ts"], 1).verdict).toBe("pass")
+  } finally {
+    world.sweep()
+  }
 })

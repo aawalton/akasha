@@ -4,7 +4,8 @@ export const codeTests = {
   id: "01a04eb6-9e5f-7000-9bb8-11bc82309d76",
   pageTypeSlug: "module",
   slug: "code-tests",
-  definition: "running the tests standing under a path, and reading what the run said",
+  definition:
+    "standing a change up as a tree of its own, running the tests in it, and reading what the run said",
   code: "ts",
   test: "ts",
   invariants: [
@@ -34,6 +35,31 @@ export const codeTests = {
         "The test standing beside a file is named by the same rule that names any file beside a page, so a code file and its page answer the same test.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A world is written out of bodies handed in, not read off the working tree, so a run judges what a change proposes rather than what happens to stand on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A world borrows from the tree it is made from only what a run cannot stand without: the index, what a run is configured by, and a link to the modules imported.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What is borrowed is skipped where it is not there, so a root holding none of it still stands a world up.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A world is held under `/var/tmp` rather than `/tmp`, because `/tmp` is memory this machine shares and a tree left there is a tree taken out of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A world is swept by whoever asked for it, so nothing decides on its own when it goes.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here says which tests inside a file run. A run is named by path, and the runner chooses the rest.",
@@ -42,6 +68,11 @@ export const codeTests = {
       invariantKind: "absence",
       statement:
         "How a run is reported is not answered here. What is printed, how much of it a caller may hold, and what a refusal says belong to whoever asked for the run.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Which paths a world is written over is not answered here. A caller hands in the paths and the bodies, and a world is only what is made of them.",
     },
   ],
 } as const satisfies Module

@@ -1,5 +1,15 @@
-import { existsSync, readdirSync, statSync } from "node:fs"
-import { join } from "node:path"
+import {
+  cpSync,
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  readdirSync,
+  rmSync,
+  statSync,
+  symlinkSync,
+  writeFileSync,
+} from "node:fs"
+import { dirname, join } from "node:path"
 import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
 
 const SUFFIX = ".test.ts"
@@ -20,7 +30,17 @@ const ESCAPE = String.fromCharCode(27)
 
 const MARK = "1"
 
+const HOLD = "/var/tmp"
+
+const PREFIX = "akasha-world-"
+
+const DATA = ".git/data"
+
+const MODULES = "node_modules"
+
 export const RUNNING = "AKASHA_TESTS_RUNNING"
+
+export const CARRIED: readonly string[] = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
 export type Verdict = "pass" | "fail" | "short" | "crash"
 
@@ -35,6 +55,11 @@ export type Ran = {
   readonly output: string
   readonly summary: Summary
   readonly verdict: Verdict
+}
+
+export type World = {
+  readonly root: string
+  readonly sweep: () => void
 }
 
 export function alreadyRunning(): boolean {
@@ -87,6 +112,35 @@ export function verdictOf(code: number, output: string, expected: number): Verdi
   if (said.failed !== null && said.failed > 0) return "fail"
   if (code === 0) return "pass"
   return said.failed === 0 ? "pass" : "fail"
+}
+
+export function worldOf(
+  from: string,
+  paths: readonly string[],
+  at: (path: string) => Uint8Array | null
+): World {
+  const root = mkdtempSync(join(HOLD, PREFIX))
+  for (const one of paths) {
+    const bytes = at(one)
+    if (bytes === null) continue
+    const to = join(root, one)
+    mkdirSync(dirname(to), { recursive: true })
+    writeFileSync(to, bytes)
+  }
+  if (existsSync(join(from, DATA))) {
+    mkdirSync(dirname(join(root, DATA)), { recursive: true })
+    cpSync(join(from, DATA), join(root, DATA), { recursive: true })
+  }
+  for (const one of CARRIED) {
+    if (existsSync(join(from, one))) cpSync(join(from, one), join(root, one))
+  }
+  if (existsSync(join(from, MODULES))) symlinkSync(join(from, MODULES), join(root, MODULES))
+  return {
+    root,
+    sweep: (): void => {
+      rmSync(root, { recursive: true, force: true })
+    },
+  }
 }
 
 export function ranOver(root: string, named: readonly string[], expected: number): Ran {

@@ -1,9 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Ran } from "../../../code-system/code-tests.module.code.ts"
 import { RUNNING } from "../../../code-system/code-tests.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { onDisk } from "../../checking.module.code.ts"
 import type { Leaving } from "../../judging.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
@@ -11,23 +12,47 @@ const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { exp
 
 const FAILS = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(2) })\n'
 
+const HOLDS = "export const held = 1\n"
+
+const BREAKS = "export const held = 2\n"
+
+const READS =
+  'import { expect, test } from "bun:test"\n' +
+  'import { held } from "./one.module.code.ts"\n' +
+  'test("one", () => { expect(held).toBe(1) })\n'
+
+const PATHS_AT = ".git/data/index/identity/page/path"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
 function repo(files: Record<string, string>): string {
   const root = realpathSync(scratch.rootFor("tests-pass-"))
+  mkdirSync(join(root, PATHS_AT), { recursive: true })
   for (const [name, body] of Object.entries(files)) {
     const at = join(root, name)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body)
+    const marked = join(root, PATHS_AT, `${name}.jsonl`)
+    mkdirSync(dirname(marked), { recursive: true })
+    writeFileSync(marked, `${JSON.stringify({ path: name })}\n`)
   }
   return root
 }
 
-function leaving(root: string, changed: readonly string[]): Leaving {
-  const at = (): null => null
+function leaving(
+  root: string,
+  changed: readonly string[],
+  at: (path: string) => Uint8Array | null = onDisk(root)
+): Leaving {
   return { root, changed, at, was: at }
+}
+
+function proposing(root: string, path: string, body: string): (at: string) => Uint8Array | null {
+  const disk = onDisk(root)
+  return (at: string): Uint8Array | null =>
+    at === path ? new TextEncoder().encode(body) : disk(at)
 }
 
 function withoutGuard<T>(run: () => T): T {
@@ -70,6 +95,19 @@ test("a file that is not typescript names no test", () => {
   expect(namedIn(leaving(root, ["akasha/held.md", "akasha/held.json"]))).toEqual([])
 })
 
+test("a test file the change brings is named, though nothing stands at it on disk", () => {
+  const root = repo({})
+  const added = "akasha/new.module.test.ts"
+  const at = proposing(root, added, PASSES)
+  expect(namedIn(leaving(root, ["akasha/new.module.code.ts"], at))).toEqual([added])
+})
+
+test("a test file the change takes away is named by nothing", () => {
+  const root = repo({ "akasha/one.module.test.ts": PASSES })
+  const gone = (): null => null
+  expect(namedIn(leaving(root, ["akasha/one.module.code.ts"], gone))).toEqual([])
+})
+
 test("a change carrying no file with a test beside it is judged by no run", () => {
   const root = repo({ "akasha/held.md": "held" })
   expect(withoutGuard(() => testsPass(leaving(root, ["akasha/held.md"])))).toEqual([])
@@ -93,6 +131,20 @@ test("a change whose tests fail is refused, and the reason says how many", () =>
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
   expect(said[0]?.reason).toContain("1 of 1 tests failed")
+})
+
+test("a change is judged by the body it proposes, not the one standing on disk", () => {
+  const root = repo({
+    "akasha/one.module.code.ts": HOLDS,
+    "akasha/one.module.test.ts": READS,
+  })
+  const at = proposing(root, "akasha/one.module.code.ts", BREAKS)
+  const said = withoutGuard(() => testsPass(leaving(root, ["akasha/one.module.code.ts"], at)))
+  expect(said.length).toBe(1)
+  expect(said[0]?.path).toBe("akasha/one.module.test.ts")
+  expect(said[0]?.reason).toContain("1 of 1 tests failed")
+  expect(readFileSync(join(root, "akasha/one.module.code.ts"), "utf8")).toBe(HOLDS)
+  expect(withoutGuard(() => testsPass(leaving(root, ["akasha/one.module.code.ts"])))).toEqual([])
 })
 
 test("a run already inside a run judges nothing and lets the outer one answer", () => {

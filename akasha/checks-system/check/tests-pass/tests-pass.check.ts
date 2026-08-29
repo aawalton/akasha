@@ -19,8 +19,17 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "Audit is handed every file, so the tests beside all of them are the whole suite.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Audit is handed every file, so the tests beside all of them are the whole suite.",
+        "The tests run in a world written out of what the change proposes, never in the working tree, so what is judged is this change and not whatever else stands on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A test stands beside a changed file when the change answers a body for it, so a test the change brings is run and one it takes away is not.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +37,8 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A run reaching fewer files than it named has failed, because the rest said nothing.",
+      statement:
+        "A run reaching fewer files than it named has failed, because the rest said nothing.",
     },
     {
       invariantKind: "departure",
@@ -42,6 +52,11 @@ export const testsPass = {
       invariantKind: "constraint",
       statement:
         "A test may reach the gate, so a run already inside a run judges nothing and lets the outer one answer.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The world is swept whatever the run said, so no tree is left behind by a refusal.",
     },
     {
       invariantKind: "gap",

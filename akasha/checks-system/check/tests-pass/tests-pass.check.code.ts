@@ -1,12 +1,12 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import type { Ran } from "../../../code-system/code-tests.module.code.ts"
 import {
   alreadyRunning,
   plain,
   ranOver,
   testBesideOf,
+  worldOf,
 } from "../../../code-system/code-tests.module.code.ts"
+import { everyFileIn } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const KEPT = 40
@@ -16,7 +16,7 @@ export function namedIn(leaving: Leaving): readonly string[] {
   for (const one of leaving.changed) {
     const beside = testBesideOf(one)
     if (beside === null) continue
-    if (!existsSync(join(leaving.root, beside))) continue
+    if (leaving.at(beside) === null) continue
     held.add(beside)
   }
   return [...held].sort()
@@ -56,7 +56,13 @@ export function testsPass(leaving: Leaving): readonly Judged[] {
   const named = namedIn(leaving)
   const first = named[0]
   if (first === undefined) return []
-  const ran = ranOver(leaving.root, named, named.length)
-  if (ran.verdict === "pass") return []
-  return [{ path: first, reason: reasonOf(ran, named) }]
+  const over = [...new Set([...everyFileIn(leaving.root), ...leaving.changed])]
+  const world = worldOf(leaving.root, over, leaving.at)
+  try {
+    const ran = ranOver(world.root, named, named.length)
+    if (ran.verdict === "pass") return []
+    return [{ path: first, reason: reasonOf(ran, named) }]
+  } finally {
+    world.sweep()
+  }
 }
