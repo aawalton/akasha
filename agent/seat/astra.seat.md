@@ -7,4 +7,5 @@ persona-slug: astra
 domain-slug: domain/pages-system
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
