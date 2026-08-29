@@ -8,5 +8,5 @@ export const nameFormatSlug = {
   pageTypeSlug: "relation-property",
   slug: "name-format-slug",
   definition: "the format a text value is written in",
-  targetPageTypeSlug: "page-type/domain",
+  targetPageTypeSlug: "page-type/name-format",
 } as const satisfies RelationProperty
