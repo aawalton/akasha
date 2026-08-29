@@ -285,6 +285,16 @@ export function landFiles(one: Landings): Landed {
   return { sha, unheld, wrote, gone }
 }
 
+const BYPASSED = "Checks-bypassed"
+
+const GLASS_BROKEN =
+  "gate:   broken open — no check ran over this change, and the commit says why\n"
+
+function recorded(message: string, glass: string | null): string {
+  if (glass === null) return message
+  return `${message}\n\n${BYPASSED}: ${glass}`
+}
+
 function akashaGated(
   repo: string,
   root: string,
@@ -292,10 +302,15 @@ function akashaGated(
   removing: readonly string[],
   carrying: readonly Carry[],
   goneElsewhere: readonly string[],
-  repointedElsewhere: ReadonlyMap<string, string>
+  repointedElsewhere: ReadonlyMap<string, string>,
+  glass: string | null
 ): void {
   if (repo !== AKASHA) return
   if (process.env[GATED] === "1") return
+  if (glass !== null) {
+    process.stderr.write(GLASS_BROKEN)
+    return
+  }
   const carried = carrying.map((one) => ({ relPath: one.to, from: `${root}/${one.from}` }))
   const removals = [...removing, ...carrying.map((one) => one.from)]
   gateOrRefuse(
@@ -321,10 +336,11 @@ export function land(
   carrying: readonly Carry[] = [],
   mechanical: boolean | ReadonlySet<string> = false,
   goneElsewhere: readonly string[] = [],
-  repointedElsewhere: ReadonlyMap<string, string> = new Map()
+  repointedElsewhere: ReadonlyMap<string, string> = new Map(),
+  glass: string | null = null
 ): Landed | null {
   const { repo, root } = where
-  akashaGated(repo, root, entries, removing, carrying, goneElsewhere, repointedElsewhere)
+  akashaGated(repo, root, entries, removing, carrying, goneElsewhere, repointedElsewhere, glass)
   const taken =
     (removing.length === 0 ? "" : `, ${removing.length} removed`) +
     (carrying.length === 0 ? "" : `, ${carrying.length} carried`)
@@ -347,7 +363,15 @@ export function land(
     )
     return null
   }
-  const landed = landFiles({ repo, root, entries, message, removing, carrying, mechanical })
+  const landed = landFiles({
+    repo,
+    root,
+    entries,
+    message: recorded(message, glass),
+    removing,
+    carrying,
+    mechanical,
+  })
   const missing = removing.filter((relPath) => !landed.gone.includes(relPath))
   if (missing.length > 0) {
     throw new LandingRefused(
