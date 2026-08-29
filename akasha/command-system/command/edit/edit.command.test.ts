@@ -10,6 +10,7 @@ import {
   REFUSES_CODE,
 } from "../../../testing-system/minting.module.code.ts"
 import { put } from "../../../testing-system/putting.module.code.ts"
+import { blobIdOf, recordRead } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit, surface } from "./edit.command.code.ts"
@@ -17,6 +18,10 @@ import { edit, surface } from "./edit.command.code.ts"
 const ADMITS_AT = "akasha/admits.check*"
 
 const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
+
+const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
 
 const scratch = scratchWorld()
 
@@ -27,7 +32,10 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) put(root, path, body)
+  for (const [path, body] of Object.entries(named)) {
+    put(root, path, body)
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+  }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
@@ -52,12 +60,64 @@ const givenIn = (root: string) => ({
   calledAs: "akasha edit",
   from: root,
   writer: null,
-  agentId: null,
+  agentId: AGENT,
 })
 
 function stating(root: string, name: string, was: string, now: string): readonly string[] {
   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]
 }
+
+test("an edit of a body the record does not show read is refused", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  put(root, "akasha/loose.ts", "alpha\n")
+  const was = headOf(root)
+  const said = edit(
+    ["--file-path", "akasha/loose.ts", ...stating(root, "a", "alpha", "delta")],
+    givenIn(root)
+  )
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("the record does not show you read this")
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("alpha\n")
+  expect(headOf(root)).toBe(was)
+})
+
+test("a body the record shows read is edited", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  const said = edit(
+    ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+})
+
+test("the glass broken edits a body the record does not show read", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  put(root, "akasha/loose.ts", "alpha\n")
+  const said = edit(
+    [
+      "--file-path",
+      "akasha/loose.ts",
+      ...stating(root, "a", "alpha", "delta"),
+      "--break-the-glass",
+      "held",
+    ],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("delta\n")
+})
+
+test("an edit charged to no agent is refused whole", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  const said = edit(["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")], {
+    ...givenIn(root),
+    agentId: null,
+  })
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("should not be possible")
+})
 
 test("a stated substitution is worked into a whole body and landed", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\nbeta\ngamma\n" })

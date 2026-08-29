@@ -18,6 +18,7 @@ import {
 import type { Answer, Given, Surface, Taking } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing.module.code.ts"
+import { unreadIn } from "../../warranting.module.code.ts"
 
 export type { Asked, Held, Saying, Trouble }
 
@@ -74,6 +75,19 @@ export const surface: Surface = {
     `${FILE_PATH} and ${CONTENT_FILE} repeat in pairs, so several files land in one commit.`,
     "a body is a file, never text said on the command line.",
   ],
+}
+
+export function unwarrantedIn(
+  given: Given,
+  glass: string | null,
+  changes: readonly Change[]
+): readonly string[] {
+  if (glass !== null) return []
+  return unreadIn(
+    given.root,
+    given.agentId,
+    changes.map((one) => one.path)
+  )
 }
 
 export function pathInside(root: string, said: string): string | null {
@@ -305,6 +319,7 @@ export function write(argv: readonly string[], given: Given): Answer {
     }
     changes.push({ path, body: null })
   }
+  wrong.push(...unwarrantedIn(given, glass.glass, changes))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 

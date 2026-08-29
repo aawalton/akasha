@@ -21,6 +21,7 @@ import {
   textOf,
   troubling,
   unknownIn,
+  unwarrantedIn,
 } from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"
@@ -214,6 +215,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
     changes.push({ path, body: new TextEncoder().encode(worked.body) })
     unmoved.push({ path, was })
   }
+  wrong.push(...unwarrantedIn(given, glass.glass, changes))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 

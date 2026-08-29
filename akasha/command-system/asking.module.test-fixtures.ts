@@ -5,6 +5,7 @@ import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../testing-system/minting.module.code.ts"
 import { put } from "../testing-system/putting.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
+import { blobIdOf, recordRead } from "./reading.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 export { headOf } from "../testing-system/gitting.module.code.ts"
@@ -38,6 +39,10 @@ export const BROKEN = 'import {a} from "./a.ts"\nexport const held = (\n'
 export const REFORMATTED =
   "formatted akasha/two.ts as it landed — what stands there is not what was handed in"
 
+const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
+
 export const scratch = scratchWorld()
 
 export const git = gitIn
@@ -51,7 +56,10 @@ export function repoWith(
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) put(root, path, body)
+  for (const [path, body] of Object.entries(named)) {
+    put(root, path, body)
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+  }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
@@ -94,7 +102,7 @@ export const givenIn = (root: string) => ({
   calledAs: "akasha write",
   from: root,
   writer: null,
-  agentId: null,
+  agentId: AGENT,
 })
 
 export const bodyIn = (root: string): string => put(root, "body.txt", "proposed\n")

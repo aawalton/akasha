@@ -47,6 +47,11 @@ export const edit = {
         "Once the bodies are worked out this lands exactly as `write` lands, on the same gate and the same hold.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A file this call would change is warranted exactly as `write` warrants one, on the same record and the same glass.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller states what a passage is and learns whether it was still that.",
     },

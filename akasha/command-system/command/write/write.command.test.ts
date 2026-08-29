@@ -10,10 +10,15 @@ import {
 } from "../../../testing-system/minting.module.code.ts"
 import { put } from "../../../testing-system/putting.module.code.ts"
 import { bodyIn, givenIn } from "../../asking.module.test-fixtures.ts"
+import { blobIdOf, recordRead } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { surface, write } from "./write.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
+
+const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
 
 const scratch = scratchWorld()
 
@@ -26,7 +31,10 @@ function repoWith(
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) put(root, path, body)
+  for (const [path, body] of Object.entries(named)) {
+    put(root, path, body)
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+  }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
@@ -41,6 +49,91 @@ function checking(root: string, slug: string, body: string): void {
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
   minting(root, slug, id, MINTED, body)
 }
+
+test("a write over a body the record does not show read is refused", () => {
+  const root = repoWith()
+  put(root, "akasha/loose.ts", "loose\n")
+  const was = headOf(root)
+  const said = write(
+    ["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("the record does not show you read this")
+  expect(said.refusals[0]).toContain("akasha read --file-path akasha/loose.ts")
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("loose\n")
+  expect(headOf(root)).toBe(was)
+})
+
+test("a path taken away is warranted as one written over is", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
+  recordRead(root, AGENT, {
+    path: "akasha/two.ts",
+    oid: blobIdOf(bytesOf("elsewhere\n")),
+    seenAt: 1,
+  })
+  const said = write(["--remove", "akasha/two.ts"], givenIn(root))
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("it has changed since")
+})
+
+test("a write over a body that changed since it was read is refused", () => {
+  const root = repoWith()
+  recordRead(root, AGENT, {
+    path: "akasha/one.ts",
+    oid: blobIdOf(bytesOf("elsewhere\n")),
+    seenAt: 1,
+  })
+  const said = write(
+    ["--file-path", "akasha/one.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("it has changed since")
+})
+
+test("a body the record shows read is written over", () => {
+  const root = repoWith()
+  const said = write(
+    ["--file-path", "akasha/one.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+})
+
+test("a path standing at no body is written without a reading", () => {
+  const root = repoWith()
+  const said = write(
+    ["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+})
+
+test("the glass broken writes over a body the record does not show read", () => {
+  const root = repoWith()
+  put(root, "akasha/loose.ts", "loose\n")
+  const said = write(
+    ["--file-path", "akasha/loose.ts", "--content-file", bodyIn(root), "--break-the-glass", "held"],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/loose.ts"), "utf8")).toBe("proposed\n")
+})
+
+test("a write charged to no agent is refused whole", () => {
+  const root = repoWith()
+  const said = write(["--file-path", "akasha/new.ts", "--content-file", bodyIn(root)], {
+    ...givenIn(root),
+    agentId: null,
+  })
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("should not be possible")
+  expect(existsSync(join(root, "akasha/new.ts"))).toBe(false)
+})
 
 test("a change that passes is written and committed", () => {
   const root = repoWith()

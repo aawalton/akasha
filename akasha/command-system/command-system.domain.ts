@@ -15,6 +15,7 @@ export const commandSystem = {
     "module/holding",
     "module/reading",
     "module/scratching",
+    "module/warranting",
   ],
   invariants: [
     {

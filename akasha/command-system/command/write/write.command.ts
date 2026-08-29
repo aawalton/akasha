@@ -28,6 +28,21 @@ export const write = {
       statement: "What a call said is read here; what it asked for is landed by `asking`.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A path this call would change is warranted before anything is judged: the record must show its writer read the body standing there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--break-the-glass` passes the warrants as it passes the checks, and the reason it was broken stands in the commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "`move` and `remove` warrant nothing, their changes being the machine's own; a path this call takes away was chosen by whoever called it, and is warranted.",
+    },
+    {
       invariantKind: "gap",
       statement:
         "A caller hands in whole bodies and learns whether they were taken, never half-taken.",
