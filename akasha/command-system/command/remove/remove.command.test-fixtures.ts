@@ -1,15 +1,13 @@
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { gitIn, headOf } from "../../../testing-system/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 
 export const scratch = scratchWorld()
 
-export function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
+export const git = gitIn
 
 export function repoWith(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-remove-")
@@ -40,9 +38,7 @@ export function stands(root: string, path: string): boolean {
   return existsSync(join(root, path))
 }
 
-export function head(root: string): string {
-  return git(root, ["rev-parse", "HEAD"]).trim()
-}
+export const head = headOf
 
 export const HELD = "akasha/one/held.module.ts"
 

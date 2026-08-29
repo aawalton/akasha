@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
+import { bytesOf as bytes } from "../testing-system/bodying.module.code.ts"
+import { gitIn as git } from "../testing-system/gitting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
@@ -14,10 +15,6 @@ const LANDING_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
 
 function repoWith(named: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-holding-")
@@ -35,8 +32,6 @@ function repoWith(named: Readonly<Record<string, string>>): string {
 }
 
 const ADMITS: Judging = { named: ["admits"], over: () => [] }
-
-const bytes = (said: string): Uint8Array => new TextEncoder().encode(said)
 
 const indexIn = (root: string): string => join(root, ".git/data/index")
 

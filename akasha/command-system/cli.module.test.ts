@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync, spawnSync } from "node:child_process"
+import { spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { gitIn as git } from "../testing-system/gitting.module.code.ts"
 import { minting, REFUSES_CODE } from "../testing-system/minting.module.code.ts"
 import {
   AUTHOR,
@@ -31,10 +32,6 @@ const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
 
 function checkoutOf(): string {
   const from = rootOf(import.meta.path)

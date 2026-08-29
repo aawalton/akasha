@@ -5,7 +5,7 @@ export const testingSystem = {
   pageTypeSlug: "domain",
   slug: "testing-system",
   definition: "what a test stands up to try something, and what it takes away after",
-  partSlugs: ["module/minting", "module/bodying"],
+  partSlugs: ["module/minting", "module/bodying", "module/gitting"],
   invariants: [
     {
       invariantKind: "departure",

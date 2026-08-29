@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bytes } from "../../../testing-system/bodying.module.code.ts"
+import { gitIn as git, headOf } from "../../../testing-system/gitting.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
@@ -20,10 +20,6 @@ const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
 
 function put(root: string, path: string, body: string): string {
   const at = join(root, path)
@@ -56,8 +52,6 @@ const MARKS =
   '  writeFileSync(`${leaving.root}/ran.txt`, "ran")\n' +
   "  return []\n" +
   "}\n"
-
-const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
 const givenIn = (root: string) => ({
   root,

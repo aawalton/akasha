@@ -3,15 +3,14 @@ import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { bytesOf } from "../testing-system/bodying.module.code.ts"
+import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
 export const scratch = scratchWorld()
 
-export function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
+export const git = gitIn
 
 export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
   const root = scratch.rootFor("akasha-landing-")

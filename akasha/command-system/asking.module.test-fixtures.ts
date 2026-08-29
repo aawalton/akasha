@@ -1,10 +1,14 @@
-import { execFileSync } from "node:child_process"
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../checks-system/checking.module.code.ts"
+import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../testing-system/minting.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
+
+export { headOf } from "../testing-system/gitting.module.code.ts"
+
+import { bytesOf as bytes } from "../testing-system/bodying.module.code.ts"
 
 export const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -35,9 +39,7 @@ export const REFORMATTED =
 
 export const scratch = scratchWorld()
 
-export function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
+export const git = gitIn
 
 export function put(root: string, path: string, body: string): string {
   const at = join(root, path)
@@ -91,8 +93,6 @@ export const REFUSES_LOOSE =
   '    .map((path) => ({ path, reason: "a check was handed a body nobody formatted" }))\n' +
   "}\n"
 
-export const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
-
 export const givenIn = (root: string) => ({
   root,
   calledAs: "akasha write",
@@ -102,8 +102,6 @@ export const givenIn = (root: string) => ({
 })
 
 export const bodyIn = (root: string): string => put(root, "body.txt", "proposed\n")
-
-const bytes = (said: string): Uint8Array => new TextEncoder().encode(said)
 
 export function asking(over: Partial<Asked>): Asked {
   return {

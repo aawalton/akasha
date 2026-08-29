@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { gitIn as git, headOf } from "../../../testing-system/gitting.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
@@ -16,10 +16,6 @@ const ADMITS_AT = "akasha/admits.check*"
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
 
 function put(root: string, path: string, body: string): string {
   const at = join(root, path)
@@ -50,8 +46,6 @@ function checking(root: string, slug: string, body: string): void {
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
   minting(root, slug, id, MINTED, body)
 }
-
-const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
 const givenIn = (root: string) => ({
   root,

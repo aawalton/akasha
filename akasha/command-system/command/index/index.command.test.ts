@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { stampIn } from "../../../pages-system/indexes/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing.module.code.ts"
+import { gitIn as git } from "../../../testing-system/gitting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { calling } from "../../calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"
@@ -43,10 +43,6 @@ const PAGES: Readonly<Record<string, string>> = {
   "akasha/a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
   [PAGE_AT]: bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "index-command" }),
   [CODE_AT]: `export { index } from ${JSON.stringify(REAL)}\n`,
-}
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
 function repoAt(): string {
