@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { warrantsStanding } from "../../../context-system/warranting.module.test-fixtures.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
 import {
   ADMITS_CODE,
@@ -40,6 +41,7 @@ function repoWith(
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
+  warrantsStanding(root)
   return root
 }
 

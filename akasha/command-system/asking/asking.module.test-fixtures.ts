@@ -1,6 +1,7 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../../checks-system/checking/checking.module.code.ts"
+import { warrantsStanding } from "../../context-system/warranting.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../../testing-system/minting/minting.module.code.ts"
@@ -60,6 +61,7 @@ export function repoWith(
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
+  warrantsStanding(root)
   return root
 }
 

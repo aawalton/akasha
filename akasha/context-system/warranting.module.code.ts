@@ -1,11 +1,16 @@
 import { readFileSync } from "node:fs"
+import { createRequire } from "node:module"
 import { join } from "node:path"
 import { blobIdOf, readingIn } from "../command-system/reading/reading.module.code.ts"
 import {
+  everyOfType,
   slugsOfType,
-  standingAt,
 } from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { namedIn } from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import {
+  besideAt,
+  namedIn,
+} from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { standingAbove } from "../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"
@@ -18,12 +23,13 @@ const REACH = [
 const SHORTER =
   "A body that moved since your record holds it comes back as what changed, where that is shorter."
 
-export const ITSELF =
-  "A write replaces the body standing there, and what is replaced is read first."
-
-export const TYPE = "A page answers to its type, and to every type that one extends."
-
 const PAGE_TYPE = "page-type"
+
+const WARRANT = "context-warrant"
+
+const CODE = "code"
+
+const TS = "ts"
 
 export const NO_AGENT = [
   "`AGENT_ID` names no agent, so there is no record to ask, and this call is refused whole.",
@@ -46,6 +52,19 @@ export type Known = {
 export type Knowing = () => Known
 
 export type Warranting = (root: string, path: string, knowing: Knowing) => readonly Warrant[]
+
+export type When = "read" | "write"
+
+export type Gathered = {
+  readonly slug: string
+  readonly page: string
+  readonly runsOnRead: boolean
+  readonly runsOnWrite: boolean
+  readonly transitive: boolean
+  readonly warranting: Warranting
+}
+
+const reach_ = createRequire(import.meta.url)
 
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
@@ -82,7 +101,7 @@ export function movedOf(warrant: Warrant, held: string): string {
   ].join("\n")
 }
 
-function standingOf(root: string, path: string): string | null {
+export function standingOf(root: string, path: string): string | null {
   try {
     return blobIdOf(readFileSync(join(root, path)))
   } catch {
@@ -90,44 +109,80 @@ function standingOf(root: string, path: string): string | null {
   }
 }
 
-export function itselfIn(root: string, path: string): readonly Warrant[] {
-  const standing = standingOf(root, path)
-  return standing === null ? [] : [{ path, oid: standing, owed: ITSELF }]
-}
-
-export function typeSlugOf(path: string, types: ReadonlySet<string>): string | null {
-  const said = namedIn(path)
-  if (said === null) return null
-  return types.has(said.tail) ? said.tail : null
-}
-
-export function typeIn(root: string, path: string, knowing: Knowing): readonly Warrant[] {
-  const known = knowing()
-  let here = typeSlugOf(path, known.types)
-  if (here === null) return []
-  const found: Warrant[] = []
-  const walked = new Set<string>()
-  const above = known.above()
-  while (here !== null && !walked.has(here)) {
-    walked.add(here)
-    const standing = standingAt(root, PAGE_TYPE, here)[0]
-    const oid = standing === undefined ? null : standingOf(root, standing.path)
-    if (standing !== undefined && oid !== null) {
-      found.push({ path: standing.path, oid, owed: TYPE })
-    }
-    here = above.get(here) ?? null
+function namedBy(at: string, slug: string): unknown {
+  let mod: Record<string, unknown>
+  try {
+    mod = reach_(at) as Record<string, unknown>
+  } catch {
+    return undefined
   }
-  return found
+  return mod[exportedAs(slug)]
 }
 
-export const WARRANTING: readonly Warranting[] = [itselfIn, typeIn]
+function statedIn(at: string, slug: string): Record<string, unknown> | null {
+  const named = namedBy(at, slug)
+  if (named === null || typeof named !== "object") return null
+  return named as Record<string, unknown>
+}
+
+function saidOf(stated: Record<string, unknown>, named: string): boolean | null {
+  const said = stated[named]
+  return typeof said === "boolean" ? said : null
+}
+
+function warrantingIn(at: string, slug: string): Warranting | null {
+  const named = namedBy(at, slug)
+  return typeof named === "function" ? (named as Warranting) : null
+}
+
+function warrantPagesIn(root: string): readonly string[] {
+  return [...new Set(everyOfType(root, WARRANT).map((one) => one.path))].sort()
+}
+
+export function gatheredIn(root: string): readonly Gathered[] {
+  const found: Gathered[] = []
+  for (const page of warrantPagesIn(root)) {
+    const said = namedIn(page)
+    if (said === null) {
+      throw new Error(`${page} is a warrant page, and its name says no slug a runner can read`)
+    }
+    const slug = said.stem
+    const stated = statedIn(join(root, page), slug)
+    if (stated === null) {
+      throw new Error(
+        `${page} is a warrant page, and answers to no \`${exportedAs(slug)}\` a runner can read`
+      )
+    }
+    const runsOnRead = saidOf(stated, "runsOnRead")
+    const runsOnWrite = saidOf(stated, "runsOnWrite")
+    const transitive = saidOf(stated, "transitive")
+    if (runsOnRead === null || runsOnWrite === null || transitive === null) {
+      throw new Error(`${page} is a warrant page, and states no rule a runner can honour`)
+    }
+    const beside = besideAt(page, CODE, TS)
+    if (beside === null) {
+      throw new Error(`${page} is a warrant page, and no code file can stand beside a name like it`)
+    }
+    const warranting = warrantingIn(join(root, beside), slug)
+    if (warranting === null) {
+      throw new Error(`${page} is a warrant page, and ${beside} answers to nothing that can be run`)
+    }
+    found.push({ slug, page, runsOnRead, runsOnWrite, transitive, warranting })
+  }
+  return found.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
+}
+
+function gatheredAt(every: readonly Gathered[], when: When): readonly Gathered[] {
+  return every.filter((one) => (when === "read" ? one.runsOnRead : one.runsOnWrite))
+}
 
 export function warrantsIn(
   root: string,
   path: string,
+  when: When,
   knowing: Knowing = knowingIn(root)
 ): readonly Warrant[] {
-  return WARRANTING.flatMap((one) => one(root, path, knowing))
+  return gatheredAt(gatheredIn(root), when).flatMap((one) => one.warranting(root, path, knowing))
 }
 
 export function unreadIn(
@@ -140,7 +195,7 @@ export function unreadIn(
   const said: string[] = []
   const asked = new Set<string>()
   for (const path of paths) {
-    for (const warrant of warrantsIn(root, path, knowing)) {
+    for (const warrant of warrantsIn(root, path, "write", knowing)) {
       if (asked.has(warrant.path)) continue
       asked.add(warrant.path)
       const held = readingIn(root, agentId, warrant.path)

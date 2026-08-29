@@ -23,6 +23,8 @@ export const contextWarrant = {
     "boolean-property/transitive",
     "context-warrant/file-domain",
     "context-warrant/file-import",
+    "context-warrant/file-itself",
+    "context-warrant/file-page-type",
     "context-warrant/file-property",
     "context-warrant/file-property-file",
   ],

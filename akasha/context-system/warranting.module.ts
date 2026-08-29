@@ -7,25 +7,12 @@ export const warranting = {
   definition: "the readings a change owes, and which of them the record does not answer for",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "Every path a change names is asked what it warrants, and passes by answering, never by not being asked.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file warrants itself: the body standing at a path is that path's reading.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file not yet standing warrants nothing of itself, there being no body to have read; whatever else warrants it stands unchanged.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The body warranted is the body standing on disk, which is the body a read records.",
     },
     {
       invariantKind: "departure",
@@ -57,31 +44,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "A page answers to its type, and to every type that one extends, so what a page is held to is read before the page is changed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Only a page answers to a type. A file standing beside a page by a file property is no page, and warrants no type of its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A warrant is what the change owes, never what a warranted file would owe were it changed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A type whose page cannot be found is no warrant, and the chain above it is walked all the same.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A chain that turns back on itself is walked once.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "What is warranted here is a file's own body, and the type it is a page of. An import and a property warrant nothing yet, and each is added as a warrant rather than as a case.",
     },
     {
       invariantKind: "gap",

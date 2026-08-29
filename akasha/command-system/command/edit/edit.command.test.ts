@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { warrantsStanding } from "../../../context-system/warranting.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
 import {
@@ -41,6 +42,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
+  warrantsStanding(root)
   return root
 }
 
