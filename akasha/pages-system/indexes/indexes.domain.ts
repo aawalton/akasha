@@ -7,7 +7,7 @@ export const indexes = {
   definition: "the indexes the pages are read through, each answering one question of the corpus",
   partSlugs: [
     "index/index-identity",
-    "domain/index-relation",
+    "index/index-relation",
     "domain/index-schema",
     "index/index-import",
     "index/index-path",
