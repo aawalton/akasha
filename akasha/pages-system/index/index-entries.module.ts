@@ -7,6 +7,7 @@ export const indexEntries = {
   definition: "the entries a page's value implies",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
