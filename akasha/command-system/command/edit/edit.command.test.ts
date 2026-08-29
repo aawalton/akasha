@@ -14,7 +14,7 @@ import { landingAsked } from "../../asking.module.code.ts"
 import { baseOf as headOf } from "../../landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { edit, surface } from "./edit.command.code.ts"
+import { askedIn, edit, surface } from "./edit.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
@@ -254,6 +254,27 @@ test("a file that stands as the call read it is landed", () => {
   })
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("worked out\n")
+})
+
+test("what an edit hands landing carries the bytes it read for each file it changes", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n", "akasha/two.ts": "beta\n" })
+  const asked = askedIn(
+    [
+      "--file-path",
+      "akasha/one.ts",
+      ...stating(root, "a", "alpha", "delta"),
+      "--file-path",
+      "akasha/two.ts",
+      ...stating(root, "b", "beta", "gamma"),
+    ],
+    givenIn(root)
+  )
+  if (!("changes" in asked)) throw new Error(asked.refusals.join("\n"))
+  const held = new TextDecoder()
+  expect(asked.unmoved.map((one) => [one.path, held.decode(one.was)])).toEqual([
+    ["akasha/one.ts", "alpha\n"],
+    ["akasha/two.ts", "beta\n"],
+  ])
 })
 
 test("a replacement carrying dollar patterns lands as the bytes it is", () => {

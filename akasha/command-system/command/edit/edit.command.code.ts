@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import type { Held } from "../../asking.module.code.ts"
+import type { Asked, Held } from "../../asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
@@ -166,7 +166,7 @@ function working(path: string, body: string, stated: readonly Stated[]): Worked 
   return { body: held }
 }
 
-export function edit(argv: readonly string[], given: Given): Answer {
+export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
   const unknown = unknownIn(argv, VALUED, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
@@ -221,7 +221,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 
-  return landingAsked(given, {
+  const asked: Asked = {
     changes,
     message:
       message.message ??
@@ -233,5 +233,11 @@ export function edit(argv: readonly string[], given: Given): Answer {
     glass: glass.glass,
     unmoved,
     saying: (said) => said.wrote.map((one) => `edited ${one}`),
-  })
+  }
+  return asked
+}
+
+export function edit(argv: readonly string[], given: Given): Answer {
+  const asked = askedIn(argv, given)
+  return "changes" in asked ? landingAsked(given, asked) : asked
 }
