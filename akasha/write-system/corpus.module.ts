@@ -15,7 +15,8 @@ export const corpus = {
   ],
   design: [
     "A slug alone is not an address.",
-    "A slug is resolved through the relation that names it.",
+    "A relation admitting one page type takes a bare identifier.",
+    "A relation admitting more than one takes the page type with the identifier.",
     "A page is held by its path, which is unique, and addressed by its slug, which is not.",
     "A page is loaded synchronously.",
     "A corpus answers from a source it is given, so what supplies the answers can change without anything above it noticing.",
