@@ -194,6 +194,13 @@ function uniquePropertiesAt(root: string): ReadonlyMap<string, string> {
   return found
 }
 
+const NOTHING_DECLARES =
+  "the pages declare page properties and none of them declares a `unique`, so no identity would be filed — the index refuses rather than answering empty"
+
+function refusingEmpty(unique: ReadonlyMap<string, string>, properties: number): void {
+  if (properties > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
+}
+
 export function rebuiltFrom(
   tree: string,
   root: string,
@@ -206,11 +213,12 @@ export function rebuiltFrom(
   }
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
   const unique = uniquePropertiesIn(held.map((one) => one.value))
+  const schema = held.flatMap((one) => schemaIn(one.value))
+  refusingEmpty(unique, schema.length)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, unique))
   reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, PATH), paths, root)
-  const schema = held.flatMap((one) => schemaIn(one.value))
   reconcile(join(root, SCHEMA), schema, root)
   const known = knownIn(root, repo)
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
@@ -275,6 +283,11 @@ export function indexingAt(root: string, repo: string): Indexing {
         ...uniquePropertiesAt(root),
         ...uniquePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
       ])
+      refusingEmpty(
+        unique,
+        schemaAt(root).size +
+          held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now))).length
+      )
       settleOver(
         root,
         held.flatMap((one) =>

@@ -244,6 +244,29 @@ test("a rebuild of the corpus and a settle over it leave the same index", () => 
   expect(butTheStamp(everyFileUnder(kept))).toEqual(butTheStamp(everyFileUnder(built)))
 })
 
+test("pages declaring properties and none of them unique are refused rather than filed empty", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  for (const [at, value] of [
+    aType("9", "text-property", "page-property"),
+    aProperty("8", "note", "text-property"),
+  ])
+    put(tree, at, bodyOf(value))
+
+  expect(() => rebuiltFrom(tree, root, tree)).toThrow("none of them declares a `unique`")
+})
+
+test("a settle carrying a property declaring no unique is refused rather than filed empty", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  const indexing = indexingAt(root, tree)
+  const [at, value] = aProperty("8", "note", "text-property")
+  const body = bodyOf(value)
+  indexing.wrote(put(tree, at, body), body, null)
+
+  expect(() => indexing.settle()).toThrow("none of them declares a `unique`")
+})
+
 test("a rebuild takes away an entry no page carries", () => {
   const { tree, root } = bare()
   put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", "page")[1]))
