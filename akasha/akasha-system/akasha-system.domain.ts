@@ -14,6 +14,7 @@ export const akashaSystem = {
     "domain-system",
     "akasha-type",
     "akasha-check",
+    "unenforced-invariant",
     "code-system",
     "write-system",
     "data-system",
@@ -22,6 +23,7 @@ export const akashaSystem = {
   ],
   requiredReadingSlugs: [
     "akasha-check",
+    "unenforced-invariant",
     "akasha-code",
     "code-system",
     "command-system",
