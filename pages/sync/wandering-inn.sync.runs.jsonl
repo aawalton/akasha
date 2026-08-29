@@ -206,3 +206,4 @@
 {"id":"01a03e50-f2da-7000-bcc3-00821c6e85d5","source":"wandering-inn","status":"success","started-at":"2026-08-26T13:44:47.525Z","completed-at":"2026-08-26T13:44:53.254Z","duration-ms":5729,"created-count":0,"updated-count":0,"skipped-count":830,"failed-count":0}
 {"id":"01a04396-1530-7000-9f34-a720d126d7ee","source":"wandering-inn","status":"success","started-at":"2026-08-27T14:18:24.371Z","completed-at":"2026-08-27T14:18:29.514Z","duration-ms":5143,"created-count":0,"updated-count":0,"skipped-count":830,"failed-count":0}
 {"id":"01a0489a-933b-7000-b956-0a128c7e387a","source":"wandering-inn","status":"success","started-at":"2026-08-28T13:41:24.761Z","completed-at":"2026-08-28T13:41:32.053Z","duration-ms":7292,"created-count":0,"updated-count":0,"skipped-count":830,"failed-count":0}
+{"id":"01a04dc0-9583-7000-acd2-b7bbac451081","source":"wandering-inn","status":"running","started-at":"2026-08-29T13:41:01.806Z"}
