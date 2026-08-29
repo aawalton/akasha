@@ -7,6 +7,7 @@ export const indexing = {
   definition: "the index entries the pages imply",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

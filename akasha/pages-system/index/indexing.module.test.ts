@@ -1,124 +1,39 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
-
-type Held = Record<string, unknown>
-
-const idOf = (one: string): string => `01a04a4a-0000-7000-8000-00000000000${one}`
-
-const A = idOf("a")
-const B = idOf("b")
-const C = idOf("c")
-const D = idOf("d")
-
-function bodyOf(value: Held): string {
-  return `export const it = ${JSON.stringify(value, null, 2)} as const\n`
-}
-
-type Pair = { readonly tree: string; readonly root: string }
-
-const scratch = scratchWorld()
+import {
+  A,
+  aProperty,
+  aType,
+  B,
+  bare,
+  bodyOf,
+  C,
+  D,
+  edgeFile,
+  everyFileUnder,
+  grounded,
+  heldAt,
+  IMPORTS,
+  IMPORTS_AT,
+  idFile,
+  importFile,
+  linesIn,
+  NOTE,
+  pathFile,
+  put,
+  said,
+  schemaFile,
+  scratch,
+  settled,
+  slugFile,
+  tookAway,
+  VOCABULARY,
+  wroteText,
+} from "./indexing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-const heldAt = (): string => scratch.rootFor("akasha-index-")
-
-const bare = (): Pair => ({ tree: heldAt(), root: heldAt() })
-
-function put(tree: string, at: string, body: string): string {
-  const path = join(tree, at)
-  mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, body)
-  return path
-}
-
-function wroteText(
-  root: string,
-  tree: string,
-  at: string,
-  body: string,
-  before: string | null
-): string {
-  const path = put(tree, at, body)
-  const indexing = indexingAt(root, tree)
-  indexing.wrote(path, body, before)
-  indexing.settle()
-  return path
-}
-
-function tookAway(root: string, tree: string, at: string, body: string): void {
-  const indexing = indexingAt(root, tree)
-  indexing.took(at, body)
-  indexing.settle()
-}
-
-function settled(root: string, tree: string, at: string, value: Held, before: Held | null): string {
-  return wroteText(root, tree, at, bodyOf(value), before === null ? null : bodyOf(before))
-}
-
-const idFile = (root: string, id: string): string => join(root, `identity/page/id/${id}.jsonl`)
-
-const slugFile = (root: string, type: string, slug: string): string =>
-  join(root, `identity/${type}/slug/${slug}.jsonl`)
-
-const pathFile = (root: string, path: string): string =>
-  join(root, `identity/page/path/${path}.jsonl`)
-
-const edgeFile = (root: string, target: string, property: string, source: string): string =>
-  join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
-
-const schemaFile = (root: string, slug: string): string =>
-  join(root, `schema/page-property/slug/${slug}.jsonl`)
-
-const importFile = (root: string, path: string): string => join(root, `import/path/${path}.jsonl`)
-
-const linesIn = (at: string): readonly string[] =>
-  readFileSync(at, "utf8")
-    .split("\n")
-    .filter((one) => one !== "")
-
-const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
-
-type Named = readonly [string, Held]
-
-function aType(id: string, slug: string, extendsSlug: string | null): Named {
-  return [`${slug}.page-type.ts`, { id, pageTypeSlug: "page-type", slug, extendsSlug }]
-}
-
-function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
-  return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, ...rest }]
-}
-
-const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
-
-const VOCABULARY: readonly Named[] = [
-  aType("0", "page", null),
-  aType("5", "page-property", "page"),
-  aType("9", "text-property", "page-property"),
-  aType("10", "relation-property", "page-property"),
-  aType("11", "file-property", "page-property"),
-  aType("1", "domain", "page"),
-  aType("2", "module", "domain"),
-  aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
-  aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
-  aProperty("6", "code", "file-property"),
-  aProperty("7", "test", "file-property"),
-]
-
-function grounded(): Pair {
-  const { tree, root } = bare()
-  const indexing = indexingAt(root, tree)
-  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
-  const c = { id: C, pageTypeSlug: "module", slug: "c" }
-  for (const [at, value] of [...VOCABULARY, ["b.domain.ts", b], ["c.module.ts", c]] as const) {
-    const body = bodyOf(value)
-    indexing.wrote(put(tree, at, body), body, null)
-  }
-  indexing.settle()
-  return { tree, root }
-}
 
 test("a written page is answered by its id, by its page type and slug, and by its own path", () => {
   const { tree, root } = bare()
@@ -270,19 +185,6 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
 })
 
-function everyFileUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): void => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
-    }
-  }
-  walk(at)
-  return found.sort()
-}
-
 test("a rebuild from the pages agrees with the index a write left", () => {
   const { tree, root: landed } = bare()
   const indexing = indexingAt(landed, tree)
@@ -318,10 +220,6 @@ test("a rebuild takes away an entry no page carries", () => {
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
 })
-
-const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
-
-const IMPORTS_AT = "d/a.module.code.ts"
 
 test("a body that drops an import loses that edge and keeps the one it kept", () => {
   const { tree, root } = bare()
