@@ -53,9 +53,8 @@ export const remove = {
         "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "`--dry-run` and `--break-the-glass` are refused together, one reporting what the checks say and the other running none.",
+      invariantKind: "departure",
+      statement: "`--dry-run` and `--break-the-glass` are refused together.",
     },
   ],
   intent: [

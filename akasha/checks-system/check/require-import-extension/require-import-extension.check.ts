@@ -16,9 +16,8 @@ export const requireImportExtension = {
         "A specifier naming no path of its own is a package, and a package names no file to carry an extension.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "Every file the akasha folder holds is TypeScript, so `.ts` is the only extension a relative specifier carries.",
+      invariantKind: "departure",
+      statement: "`.ts` is the only extension a relative specifier carries.",
     },
     {
       invariantKind: "departure",

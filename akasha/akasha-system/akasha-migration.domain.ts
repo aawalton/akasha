@@ -10,7 +10,7 @@ export const akashaMigration = {
   design: [
     {
       invariantKind: "constraint",
-      statement: "Akasha is one repository, so anything built for many is left behind.",
+      statement: "Akasha is one repository, and anything built for many is left behind.",
     },
   ],
   rule: [

@@ -14,9 +14,8 @@ export const noCodeComments = {
       statement: "A comment no program parses is prose, whatever it says.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "Every file the akasha folder holds is TypeScript, so a form only another language parses stands for nothing here.",
+      invariantKind: "absence",
+      statement: "A form only another language parses stands for nothing here.",
     },
     {
       invariantKind: "departure",
