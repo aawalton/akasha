@@ -8,6 +8,7 @@ import {
   everyPath,
   indexAt,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
@@ -180,13 +181,13 @@ function threw(one: Gathered, thrown: unknown): Judged {
   }
 }
 
-export function everyFileIn(root: string): readonly string[] {
+export function everyFileIn(root: string, given: string | Reading = root): readonly string[] {
   if (!existsSync(join(root, PATHS_AT))) {
     throw new Error(
       `\`${PATHS_AT}\` is not there, so which files stand could not be answered — an index that is missing is not an index naming no file`
     )
   }
-  return [...new Set(everyPath(root))].sort()
+  return [...new Set(everyPath(given))].sort()
 }
 
 export function everythingIn(root: string): Leaving {

@@ -1,4 +1,5 @@
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { bodyOf, everyFileIn, overEachFile, textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -10,8 +11,10 @@ export type Said = {
 }
 
 export function everySpeltIn(leaving: Leaving): ReadonlyMap<string, readonly Said[]> {
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
   const found = new Map<string, Said[]>()
-  for (const path of everyFileIn(leaving.root)) {
+  for (const path of everyFileIn(leaving.root, cast.shadow.reading)) {
     if (!path.endsWith(TS)) continue
     const text = textIn(leaving, path)
     if (text === null) continue

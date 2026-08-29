@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   checkPagesIn,
@@ -237,6 +238,27 @@ test("an index holding no path directory cannot answer, so the audit refuses rat
   rmSync(join(root, PATHS_AT), { recursive: true })
   expect(() => everyFileIn(root)).toThrow("could not be answered")
   expect(() => everythingIn(root)).toThrow(PATHS_AT)
+})
+
+const HANDED: Reading = {
+  holds: () => false,
+  listing: (at) => {
+    if (at === "path") return [{ name: "akasha", directory: true }]
+    if (at === "path/akasha") return [{ name: "held.ts.jsonl", directory: false }]
+    return []
+  },
+  lines: () => [],
+}
+
+test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  expect(everyFileIn(root, HANDED)).toEqual(["akasha/held.ts"])
+})
+
+test("a reading handed in does not stand in for the guard, which is on the root and stays", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  rmSync(join(root, PATHS_AT), { recursive: true })
+  expect(() => everyFileIn(root, HANDED)).toThrow("could not be answered")
 })
 
 test("an index naming no check refuses, a change judged by nothing being no change judged clean", () => {

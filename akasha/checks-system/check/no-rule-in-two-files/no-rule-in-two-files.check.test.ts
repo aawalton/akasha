@@ -1,7 +1,11 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.check.code.ts"
-import { reasonsIn } from "./no-rule-in-two-files.check.code.ts"
+import { everySpeltIn, noRuleInTwoFiles, reasonsIn } from "./no-rule-in-two-files.check.code.ts"
 
 const CAMEL = `function camel(slug: string): string {
   return slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())
@@ -78,4 +82,85 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
   const every = standing([{ path: "two.module.code.ts", text: EXPORTED_AS }])
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
+})
+
+const INDEX = join(".git", "data", "index")
+
+const ID = "01a04d86-434f-75ff-8000-00000000000"
+
+const KINDS = ["module", "page-type", "text-property", "file-property"]
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function filed(root: string, at: string, line: string): void {
+  const full = join(root, INDEX, at)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, `${line}\n`, "utf8")
+}
+
+function property(root: string, slug: string, pageTypeSlug: string, unique: string | null): void {
+  filed(
+    root,
+    join("schema", "page-property", "slug", `${slug}.jsonl`),
+    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, unique })
+  )
+}
+
+function rooted(): string {
+  const root = scratch.rootFor("akasha-two-files-")
+  for (const one of KINDS) {
+    filed(
+      root,
+      join("identity", "page-type", "slug", `${one}.jsonl`),
+      JSON.stringify({ path: `akasha/t/${one}.page-type.ts`, id: `${ID}${one.length}` })
+    )
+  }
+  property(root, "id", "text-property", "always")
+  property(root, "slug", "text-property", "within-page-type")
+  property(root, "code", "file-property", null)
+  filed(
+    root,
+    join("path", "akasha", "t", "standing.module.ts.jsonl"),
+    JSON.stringify({ path: "akasha/t/standing.module.ts", id: `${ID}9` })
+  )
+  return root
+}
+
+const ONE_CODE = "akasha/b/one.module.code.ts"
+
+const TWO_CODE = "akasha/c/two.module.code.ts"
+
+function pageBody(slug: string, last: string): Uint8Array {
+  return new TextEncoder().encode(
+    `export const it = { id: "${ID}${last}", slug: "${slug}", pageTypeSlug: "module", code: "ts" }\n`
+  )
+}
+
+function bothArriving(root: string): Leaving {
+  const bodies: Record<string, Uint8Array> = {
+    "akasha/b/one.module.ts": pageBody("one", "1"),
+    [ONE_CODE]: new TextEncoder().encode(CAMEL),
+    "akasha/c/two.module.ts": pageBody("two", "2"),
+    [TWO_CODE]: new TextEncoder().encode(EXPORTED_AS),
+  }
+  return {
+    root,
+    changed: ["akasha/b/one.module.ts", ONE_CODE, "akasha/c/two.module.ts", TWO_CODE],
+    at: (path: string): Uint8Array | null => bodies[path] ?? null,
+    was: (): null => null,
+  }
+}
+
+test("the files a change brings stand among those a rule is looked for in", () => {
+  const every = everySpeltIn(bothArriving(rooted()))
+  const said = [...every.values()].flat().map((one) => one.path)
+  expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
+})
+
+test("two files arriving in one change, both spelling one rule, are both refused", () => {
+  const said = noRuleInTwoFiles(bothArriving(rooted()))
+  expect(said.map((one) => one.path).sort()).toEqual([ONE_CODE, TWO_CODE])
+  expect(said[0]?.reason).toContain("one rule belongs in one file")
 })
