@@ -15,6 +15,10 @@ const PAGES = "akasha"
 
 const INDEX = join(".git", "data")
 
+const HOLD = "/var/tmp"
+
+const UNNAMED = "unnamed"
+
 const WRITE = "Write"
 
 const EDIT = "Edit"
@@ -67,6 +71,10 @@ export type Guarded = {
 
 export function rootOf(at: string): string {
   return resolve(dirname(at), "..", "..", "..", "..")
+}
+
+export function holdingIn(agentId: string): string {
+  return join(HOLD, agentId.trim() === "" ? UNNAMED : agentId.trim())
 }
 
 function linkAt(at: string): string | null {
@@ -137,18 +145,19 @@ function shownIn(root: string, at: string): string {
   return said === "" || !insideOf(root, at) ? at : said
 }
 
-function refusingPages(toolName: string, shown: string, name: string): string {
+function refusingPages(toolName: string, shown: string, name: string, held: string): string {
   if (toolName === NOTEBOOK_EDIT) {
     return [
       `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside the akasha folder.`,
       "There is no akasha command for a notebook, and the akasha folder holds none.",
     ].join("\n")
   }
-  const door = "The akasha folder is written by the door, which gates the change and commits it."
+  const door = "The akasha commands write that folder — they check the change and commit it."
   const why = '--message "<what this change is for>"'
+  const bound = "only `akasha/` and `.git/data` are refused here."
   if (toolName === EDIT) {
-    const was = `/tmp/${HOOK_NAME}-${name}.old`
-    const now = `/tmp/${HOOK_NAME}-${name}.new`
+    const was = join(held, `${HOOK_NAME}-${name}.old`)
+    const now = join(held, `${HOOK_NAME}-${name}.new`)
     return [
       `${HOOK_NAME}: Edit lands on \`${shown}\`, inside the akasha folder.`,
       door,
@@ -157,10 +166,10 @@ function refusingPages(toolName: string, shown: string, name: string): string {
       "",
       `  akasha edit --file-path ${shown} --old-file ${was} --new-file ${now} ${why}`,
       "",
-      "Write and Edit still write those two files. Only the two guarded roots are refused here.",
+      `Use Write for those two files — ${bound}`,
     ].join("\n")
   }
-  const body = `/tmp/${HOOK_NAME}-${name}`
+  const body = join(held, `${HOOK_NAME}-${name}`)
   return [
     `${HOOK_NAME}: Write lands on \`${shown}\`, inside the akasha folder.`,
     door,
@@ -169,7 +178,7 @@ function refusingPages(toolName: string, shown: string, name: string): string {
     "",
     `  akasha write --file-path ${shown} --content-file ${body} ${why}`,
     "",
-    "Write and Edit still write that file. Only the two guarded roots are refused here.",
+    `Use Write for that file — ${bound}`,
   ].join("\n")
 }
 
@@ -184,7 +193,12 @@ function refusingIndex(toolName: string, shown: string): string {
   ].join("\n")
 }
 
-export function refusalFor(asked: Asked, root: string, fallback: string): string | null {
+export function refusalFor(
+  asked: Asked,
+  root: string,
+  fallback: string,
+  held: string
+): string | null {
   if (!JUDGED.includes(asked.toolName)) return null
   if (asked.filePath.trim() === "") return null
   const from = asked.from === "" ? fallback : asked.from
@@ -192,7 +206,7 @@ export function refusalFor(asked: Asked, root: string, fallback: string): string
   const here = settled(root)
   const guarded = guardedIn(here)
   if (insideOf(guarded.pages, at)) {
-    return refusingPages(asked.toolName, shownIn(here, at), basename(at))
+    return refusingPages(asked.toolName, shownIn(here, at), basename(at), held)
   }
   if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
   return null
@@ -210,7 +224,12 @@ async function main(): Promise<number> {
     process.stderr.write(`${HOOK_NAME}: the hook payload would not read, so nothing was judged\n`)
     return UNREADABLE
   }
-  const said = refusalFor(asked, rootOf(import.meta.path), process.cwd())
+  const said = refusalFor(
+    asked,
+    rootOf(import.meta.path),
+    process.cwd(),
+    holdingIn(process.env["AGENT_ID"] ?? "")
+  )
   if (said === null) return 0
   process.stderr.write(`${said}\n`)
   process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)
