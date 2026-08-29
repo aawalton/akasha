@@ -1,8 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Judged } from "../../judging.module.code.ts"
 import {
   danglingIn,
   knownAcross,
@@ -12,142 +9,31 @@ import {
   relationProperties,
   relationResolves,
 } from "./relation-resolves.check.code.ts"
-
-const INDEX = join(".git", "data", "index")
-
-const A = "akasha/t/a.note.ts"
-
-const D = "akasha/t/d.domain.ts"
-
-const E = "akasha/t/e.domain.ts"
-
-const OTHER = "akasha/t/other.domain.ts"
-
-const S = "akasha/t/s.spark.ts"
-
-const T = "akasha/t/t.spark.ts"
-
-const A_ID = "01a04d99-71ca-7e06-8000-000000000001"
-
-const D_ID = "01a04d99-71ca-7e06-8000-000000000002"
-
-const E_ID = "01a04d99-71ca-7e06-8000-000000000003"
-
-const OTHER_ID = "01a04d99-71ca-7e06-8000-000000000004"
-
-const NOWHERE_ID = "01a04d99-71ca-7e06-8000-00000000ffff"
-
-const S_ID = "01a04d99-71ca-7e06-8000-000000000005"
-
-const T_ID = "01a04d99-71ca-7e06-8000-000000000006"
-
-const TYPES: readonly (readonly [string, string | null, boolean])[] = [
-  ["page-type", null, false],
-  ["domain", "page-type/page-type", false],
-  ["note", "page-type/domain", false],
-  ["spark", "page-type/domain", true],
-]
-
-const SCHEMA: Record<string, Record<string, string | null>> = {
-  "page-type-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "page-type" },
-  "domain-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  "spark-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "spark" },
-  "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-}
-
-const scratch = scratchWorld()
+import {
+  A,
+  A_ID,
+  D,
+  D_ID,
+  E,
+  E_ID,
+  NOWHERE_ID,
+  OTHER,
+  OTHER_ID,
+  S,
+  S_ID,
+  T,
+  T_ID,
+  naming,
+  note,
+  over,
+  rooted,
+  scratch,
+  spark,
+  standing,
+  stating,
+} from "./relation-resolves.check.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function put(root: string, at: string, body: string): void {
-  const full = join(root, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, body, "utf8")
-}
-
-function filed(root: string, at: string, line: string): void {
-  const full = join(root, INDEX, at)
-  mkdirSync(dirname(full), { recursive: true })
-  appendFileSync(full, `${line}\n`, "utf8")
-}
-
-function stating(id: string, slug: string, pageTypeSlug: string, stated: string = ""): string {
-  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
-}
-
-function standing(
-  root: string,
-  path: string,
-  id: string,
-  pageTypeSlug: string,
-  slug: string
-): void {
-  const line = JSON.stringify({ path, id })
-  filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
-  filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
-  filed(root, join("identity", "page", "path", `${path}.jsonl`), line)
-}
-
-function naming(
-  root: string,
-  target: string,
-  propertySlug: string,
-  id: string,
-  path: string
-): void {
-  filed(
-    root,
-    join("relation", "page", "id", target, propertySlug, `${id}.jsonl`),
-    JSON.stringify({ path })
-  )
-}
-
-function rooted(carrying: boolean = true): string {
-  const root = scratch.rootFor("akasha-relation-resolves-")
-  let count = 0
-  for (const [slug, extendsSlug, mortal] of TYPES) {
-    count += 1
-    const path = `akasha/t/${slug}.page-type.ts`
-    const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
-    const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
-    const dies = mortal ? ", mortal: true" : ""
-    put(root, path, stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`))
-    standing(root, path, id, "page-type", slug)
-  }
-  for (const [slug, shape] of Object.entries(SCHEMA)) {
-    filed(root, join("schema", "page-property", "slug", `${slug}.jsonl`), JSON.stringify(shape))
-  }
-  if (carrying) standing(root, D, D_ID, "domain", "d")
-  return root
-}
-
-function over(
-  root: string,
-  changed: readonly string[],
-  bodies: Record<string, string | null>
-): Leaving {
-  const encoder = new TextEncoder()
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    if (said === undefined || said === null) return null
-    return encoder.encode(said)
-  }
-  return {
-    root,
-    changed,
-    at,
-    was: at,
-  }
-}
-
-function note(stated: string): Record<string, string | null> {
-  return { [A]: stating(A_ID, "a", "note", stated) }
-}
-
-function spark(stated: string): Record<string, string | null> {
-  return { [S]: stating(S_ID, "s", "spark", stated) }
-}
 
 test("a page naming a page the index already carries is let through", () => {
   const root = rooted()
@@ -306,6 +192,37 @@ test("a refusal is laid on the page that names, and one is raised for each name"
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
     "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
   ])
+})
+
+test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
+  const root = rooted()
+  const known = knownAcross(over(root, [], {}), [])
+  const value = { pageTypeSlug: "note", marks: [{ domainSlug: "domain/gone" }] }
+  expect(danglingIn(A, value, known, mortalityIn(root, known)).map((one) => one.reason)).toEqual([
+    "states `marks domain-slug`, and no `domain` carries the slug `gone`",
+  ])
+})
+
+test("one name repeated across a record's entries is judged once", () => {
+  const root = rooted()
+  const known = knownAcross(over(root, [], {}), [])
+  const value = {
+    pageTypeSlug: "note",
+    marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
+  }
+  expect(danglingIn(A, value, known, mortalityIn(root, known)).map((one) => one.reason)).toEqual([
+    "states `marks domain-slug`, and no `domain` carries the slug `gone`",
+  ])
+})
+
+test("a field the record does not declare, and a record deeper than one, are left alone", () => {
+  const root = rooted()
+  const known = knownAcross(over(root, [], {}), [])
+  const value = {
+    pageTypeSlug: "note",
+    marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],
+  }
+  expect(danglingIn(A, value, known, mortalityIn(root, known))).toEqual([])
 })
 
 const NOT_MORTAL = "states `spark-slug`, and a page that is not mortal cannot name a mortal `spark`"

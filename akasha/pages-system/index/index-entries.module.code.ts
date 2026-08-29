@@ -366,7 +366,7 @@ export function namesIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
-function recordsIn(held: unknown): readonly Value[] {
+export function recordsIn(held: unknown): readonly Value[] {
   const listed = Array.isArray(held) ? held : [held]
   return listed.filter(
     (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)

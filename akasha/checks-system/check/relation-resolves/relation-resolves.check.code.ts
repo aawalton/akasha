@@ -4,6 +4,8 @@ import {
   namesIn,
   pageTypesIn,
   reaches,
+  recordsIn,
+  type Shaped,
   type Standing,
   schemaAt,
   textAt,
@@ -64,7 +66,7 @@ function namedBy(carried: readonly Carried[]): readonly Named[] {
   return found
 }
 
-export function knownAcross(leaving: Leaving, carried: readonly Carried[]): Known {
+export function knownAcross(leaving: Leaving, carried: readonly Carried[]): Shaped {
   const base = knownIn(indexIn(leaving.root), leaving.root)
   const touched = new Set(leaving.changed)
   const held = namedBy(carried)
@@ -73,6 +75,7 @@ export function knownAcross(leaving: Leaving, carried: readonly Carried[]): Know
   return {
     targetOf: base.targetOf,
     admitting: base.admitting,
+    fieldsOf: base.fieldsOf,
     at: (pageTypeSlug, slug) => [
       ...left(base.at(pageTypeSlug, slug)),
       ...held.filter((one) => one.pageTypeSlug === pageTypeSlug && one.slug === slug),
@@ -153,31 +156,53 @@ function cannot(propertySlug: string, pageTypeSlug: string): string {
 export function danglingIn(
   path: string,
   value: Value,
-  known: Known,
+  known: Shaped,
   mortal: Mortality
 ): readonly Judged[] {
   const own = textAt(value, "pageTypeSlug")
   if (own !== null && mortal.stated(own)) return []
   const said: Judged[] = []
-  for (const [key, held] of Object.entries(value)) {
-    if (held === null) continue
-    const propertySlug = slugFor(key)
+  const seen = new Set<string>()
+  const judge = (propertySlug: string, held: unknown, where: string): void => {
     const wanted = known.targetOf(propertySlug)
-    if (wanted === null) continue
+    if (wanted === null) return
     const names = namesIn(held)
-    if (names.length === 0) continue
+    if (names.length === 0) return
     if (mortal.stated(wanted)) {
-      said.push({ path, reason: cannot(propertySlug, wanted) })
-      continue
+      if (seen.has(where)) return
+      seen.add(where)
+      said.push({ path, reason: cannot(where, wanted) })
+      return
     }
     for (const named of names) {
+      const once = `${where}\n${named}`
+      if (seen.has(once)) continue
+      seen.add(once)
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
-        said.push({ path, reason: `states \`${propertySlug}\`, and ${reached.refused}` })
+        said.push({ path, reason: `states \`${where}\`, and ${reached.refused}` })
         continue
       }
       const dies = mortal.reached(reached.id)
-      if (dies !== null) said.push({ path, reason: cannot(propertySlug, dies) })
+      if (dies !== null) said.push({ path, reason: cannot(where, dies) })
+    }
+  }
+  for (const [key, held] of Object.entries(value)) {
+    if (held === null) continue
+    const propertySlug = slugFor(key)
+    if (known.targetOf(propertySlug) !== null) {
+      judge(propertySlug, held, propertySlug)
+      continue
+    }
+    const fields = known.fieldsOf(propertySlug)
+    if (fields.length === 0) continue
+    for (const entry of recordsIn(held)) {
+      for (const [field, inner] of Object.entries(entry)) {
+        if (inner === null) continue
+        const fieldSlug = slugFor(field)
+        if (!fields.includes(fieldSlug)) continue
+        judge(fieldSlug, inner, `${propertySlug} ${fieldSlug}`)
+      }
     }
   }
   return said

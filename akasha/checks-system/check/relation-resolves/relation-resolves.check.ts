@@ -8,6 +8,7 @@ export const relationResolves = {
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: true,
   runsOnDeploy: true,
@@ -40,6 +41,11 @@ export const relationResolves = {
       invariantKind: "departure",
       statement:
         "A non-mortal page naming a mortal page is refused, judged on the page type the name reaches, or on the property's declared target when it reaches none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name nested one record deep is resolved, and the refusal names the record and the field.",
     },
     {
       invariantKind: "gap",
