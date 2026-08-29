@@ -15,6 +15,7 @@ export type Standing = {
   readonly properties: readonly Held[]
   readonly strays: readonly Held[]
   readonly entered: (path: string) => boolean
+  readonly extending: (pageTypeSlug: string, wanted: string) => boolean
 }
 
 export type Judging = (standing: Standing) => readonly string[]

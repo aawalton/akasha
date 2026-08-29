@@ -17,6 +17,7 @@ function standing(
     properties: [],
     strays: [],
     entered: (one) => entered.includes(one),
+    extending: () => false,
   }
 }
 

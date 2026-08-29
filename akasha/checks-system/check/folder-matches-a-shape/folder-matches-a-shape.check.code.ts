@@ -3,6 +3,8 @@ import { join } from "node:path"
 import {
   filePropertiesAt,
   importedBy,
+  type Known,
+  knownIn,
   pageTypesIn,
   specifiersIn,
 } from "../../../data-system/index/index-entries.module.code.ts"
@@ -151,6 +153,17 @@ export function folderMatchesAShape(leaving: Leaving): readonly Judged[] {
   const index = indexIn(leaving.root)
   const pageTypes = pageTypesIn(index)
   const fileProperties = filePropertiesAt(index)
+  let known: Known | null = null
+  const admits = new Map<string, ReadonlySet<string>>()
+  const extending = (pageTypeSlug: string, wanted: string): boolean => {
+    let held = admits.get(wanted)
+    if (held === undefined) {
+      if (known === null) known = knownIn(index, leaving.root)
+      held = new Set<string>(known.admitting(wanted))
+      admits.set(wanted, held)
+    }
+    return held.has(pageTypeSlug)
+  }
   const files = standingFiles(leaving.root, leaving)
   const entering = enteringOf(leaving)
   const found: Judged[] = []
@@ -167,6 +180,7 @@ export function folderMatchesAShape(leaving: Leaving): readonly Judged[] {
       properties: held.filter((one) => one.kind === "property"),
       strays: held.filter((one) => one.kind === "stray"),
       entered: (path) => entering(folder, path),
+      extending,
     }
     const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(standing) }))
     if (said.some((one) => one.reasons.length === 0)) continue

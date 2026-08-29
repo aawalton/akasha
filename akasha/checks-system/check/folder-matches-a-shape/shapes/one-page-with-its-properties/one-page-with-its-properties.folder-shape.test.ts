@@ -19,6 +19,7 @@ export function standing(names: readonly string[]): Standing {
     properties: held.filter((each) => each.kind === "property"),
     strays: held.filter((each) => each.kind === "stray"),
     entered: () => false,
+    extending: () => false,
   }
 }
 
