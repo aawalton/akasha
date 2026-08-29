@@ -49,5 +49,9 @@ export const finding = {
       statement:
         "If the same observation comes up again, it is filed as a new finding rather than the old one restored.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A file or property close to its length limit is no finding.",
+    },
   ],
 } as const satisfies PageType
