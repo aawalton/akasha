@@ -1,16 +1,27 @@
-import { execFileSync } from "node:child_process"
+import { execFileSync, spawnSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Judging } from "../checks-system/judging.module.code.ts"
-import { NO_GATE, baseOf, gateBuilt, landing, leavingOf, oneLine } from "./landing.module.code.ts"
+import {
+  NO_GATE,
+  baseOf,
+  bodyAt,
+  gateBuilt,
+  landing,
+  leavingOf,
+  oneLine,
+  readingEnded,
+} from "./landing.module.code.ts"
+
+const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
-function repoWith(named: Readonly<Record<string, string>>): string {
+function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-landing-"))
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
@@ -43,6 +54,7 @@ test("a body the change does not touch is read from the base commit, not the wor
   })
   const said = leaving.at("two.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("committed")
+  readingEnded()
   rmSync(root, { recursive: true })
 })
 
@@ -54,6 +66,7 @@ test("a body the change touches is read as the change would leave it", () => {
   })
   const said = leaving.at("one.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("proposed")
+  readingEnded()
   rmSync(root, { recursive: true })
 })
 
@@ -64,6 +77,89 @@ test("a body the change takes away reads as gone rather than as what stands", ()
     changed: [{ path: "one.txt", body: null }],
   })
   expect(leaving.at("one.txt")).toBeNull()
+  readingEnded()
+  rmSync(root, { recursive: true })
+})
+
+test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for byte", () => {
+  const nul = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
+  const broken = new Uint8Array([0xff, 0xfe, 0x41, 0x80, 0x42, 0xc3, 0x28])
+  const root = repoWith({ "nul.bin": nul, "broken.bin": broken })
+  const leaving = leavingOf(root, {
+    base: baseOf(root),
+    changed: [{ path: "one.txt", body: bytes("proposed") }],
+  })
+  expect(leaving.at("nul.bin")).toEqual(nul)
+  expect(leaving.at("broken.bin")).toEqual(broken)
+  readingEnded()
+  rmSync(root, { recursive: true })
+})
+
+test("a path the base commit does not carry reads as nothing rather than as trouble", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const base = baseOf(root)
+  expect(bodyAt(root, base, "nowhere.txt")).toBeNull()
+  expect(bodyAt(root, base, "one.txt/deeper.txt")).toBeNull()
+  readingEnded()
+  rmSync(root, { recursive: true })
+})
+
+test("a base that names no commit is said out loud rather than read as nothing", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  expect(() => bodyAt(root, "0".repeat(40), "one.txt")).toThrow("names no commit")
+  readingEnded()
+  rmSync(root, { recursive: true })
+})
+
+test("reading a body the base commit does not carry says nothing on stderr", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const said = spawnSync(
+    "bun",
+    [
+      "-e",
+      `import { baseOf, bodyAt, readingEnded } from ${JSON.stringify(MODULE_AT)}
+const root = ${JSON.stringify(root)}
+const base = baseOf(root)
+for (const one of ["a.txt", "b.txt", "c.txt"]) bodyAt(root, base, one)
+readingEnded()`,
+    ],
+    { encoding: "utf8" }
+  )
+  expect(said.stderr).toBe("")
+  expect(said.status).toBe(0)
+  rmSync(root, { recursive: true })
+})
+
+function gitOver(root: string): readonly string[] {
+  const said = execFileSync("ps", ["-eo", "args="], { encoding: "utf8" })
+  return said.split("\n").filter((one) => one.includes("cat-file") && one.includes(root))
+}
+
+test("no git outlives a landing, nor one a check throws through", () => {
+  const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
+  const reading: Judging = {
+    named: ["reading"],
+    over: (leaving) => {
+      expect(leaving.at("one.txt")).not.toBeNull()
+      expect(gitOver(root).length).toBe(1)
+      return []
+    },
+  }
+  const throwing: Judging = {
+    named: ["throwing"],
+    over: (leaving) => {
+      expect(leaving.at("one.txt")).not.toBeNull()
+      expect(gitOver(root).length).toBe(1)
+      throw new Error("thrown for the test")
+    },
+  }
+  landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
+  expect(gitOver(root)).toEqual([])
+  expect(() => landing(root, [{ path: "two.txt", body: null }], "held", throwing)).toThrow(
+    "thrown for the test"
+  )
+  expect(gitOver(root)).toEqual([])
+  expect(existsSync(join(root, "two.txt"))).toBe(true)
   rmSync(root, { recursive: true })
 })
 

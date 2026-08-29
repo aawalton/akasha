@@ -22,6 +22,19 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
+        "The bodies the change does not touch are read through one git process for the whole judging, not one for each.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the base commit does not carry is an answer, not an error.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That git process is ended when the judging ends, however it ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The commit the change was judged against is the commit it lands on, or it is refused.",
     },
     {
