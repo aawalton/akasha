@@ -16,6 +16,7 @@ export const pagesSystem = {
     "page-type/record-property",
     "page-type/file-property",
     "page-type/name-format",
+    "page-type/unique-kind",
     "domain/index",
     "module/page-address",
     "module/page-file-name",
