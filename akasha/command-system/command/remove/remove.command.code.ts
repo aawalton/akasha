@@ -1,6 +1,6 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
-import { dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
@@ -99,13 +99,9 @@ function dirOf(path: string): string {
   return at === -1 ? "" : path.slice(0, at)
 }
 
-function nameOf(path: string): string {
-  return path.slice(path.lastIndexOf("/") + 1)
-}
-
 export function besideOf(root: string, path: string): readonly string[] {
   if (!path.endsWith(TS)) return []
-  const stem = nameOf(path).slice(0, -TS.length)
+  const stem = basename(path).slice(0, -TS.length)
   const dir = dirOf(path)
   const full = join(root, dir)
   if (!existsSync(full)) return []

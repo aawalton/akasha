@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
 import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
@@ -123,13 +123,9 @@ function dirOf(path: string): string {
   return at === -1 ? "" : path.slice(0, at)
 }
 
-function nameOf(path: string): string {
-  return path.slice(path.lastIndexOf("/") + 1)
-}
-
 export function besideOf(root: string, path: string): readonly string[] {
   if (!path.endsWith(TS)) return []
-  const stem = nameOf(path).slice(0, -TS.length)
+  const stem = basename(path).slice(0, -TS.length)
   const dir = dirOf(path)
   const full = join(root, dir)
   if (!existsSync(full)) return []
@@ -283,7 +279,7 @@ function sidedIn(
       refusals.push(`${to} already stands, and a move writes over nothing`)
       continue
     }
-    if (nameOf(from) !== nameOf(to)) {
+    if (basename(from) !== basename(to)) {
       const naming = namingOf(root, from)
       const among =
         "unread" in naming
@@ -292,7 +288,7 @@ function sidedIn(
             ? "the index shows no page naming it"
             : `these name it — ${naming.names.join(", ")}`
       refusals.push(
-        `${from} would arrive called \`${nameOf(to)}\` — a move carries a body as it stands, and a ` +
+        `${from} would arrive called \`${basename(to)}\` — a move carries a body as it stands, and a ` +
           `page states its own slug and is named by that slug, so renaming is not a move (${among})`
       )
       continue
@@ -311,7 +307,7 @@ function sidedIn(
     for (const held of besideOf(root, from)) {
       if (seen.has(held)) continue
       seen.add(held)
-      const there = `${dirOf(to)}/${nameOf(held)}`
+      const there = `${dirOf(to)}/${basename(held)}`
       if (existsSync(join(root, there))) {
         refusals.push(`${there} already stands, and the sidecar ${held} goes with what you named`)
         continue
