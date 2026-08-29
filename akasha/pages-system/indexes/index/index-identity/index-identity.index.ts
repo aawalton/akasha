@@ -1,10 +1,11 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { Index } from "../index.page-type.ts"
 
 export const indexIdentity = {
   id: "01a04a4a-23e9-741f-a0ce-e56753a7b13f",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "index",
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
+  indexName: "identity",
   invariants: [
     {
       invariantKind: "departure",
@@ -55,4 +56,4 @@ export const indexIdentity = {
       statement: "A page carrying an identifier another page already carries does not land.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Index

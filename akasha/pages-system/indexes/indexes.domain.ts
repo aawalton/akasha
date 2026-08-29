@@ -6,7 +6,7 @@ export const indexes = {
   slug: "indexes",
   definition: "the indexes the pages are read through, each answering one question of the corpus",
   partSlugs: [
-    "domain/index-identity",
+    "index/index-identity",
     "domain/index-relation",
     "domain/index-schema",
     "domain/index-import",
