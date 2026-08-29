@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
+import { execFileSync } from "node:child_process"
 import { appendFileSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import ts from "typescript"
 import { importIn } from "../../../data-system/index/index-entries.module.code.ts"
+import { headOf, stampKept } from "../../../data-system/index/index-stamp.module.code.ts"
 import type { Leaving } from "../../judging.module.code.ts"
 import { foundOf, reachedBy, typecheck } from "./typecheck.check.code.ts"
 
@@ -20,6 +22,27 @@ function reaching(root: string, files: Readonly<Record<string, string>>): void {
   }
 }
 
+function gitIn(root: string, ...argv: readonly string[]): string {
+  return execFileSync("git", ["-C", root, ...argv], {
+    encoding: "utf8",
+    stdio: ["ignore", "pipe", "ignore"],
+  })
+}
+
+function stamped(root: string): void {
+  gitIn(root, "init", "--quiet")
+  gitIn(root, "config", "user.email", "held@akasha")
+  gitIn(root, "config", "user.name", "held")
+  writeFileSync(join(root, "seed"), "held\n")
+  gitIn(root, "add", "--", "seed")
+  gitIn(root, "commit", "--quiet", "-m", "held", "--", "seed")
+  stampKept(join(root, ".git/data/index"), {
+    commit: headOf(root) ?? "",
+    tree: "akasha",
+    settled: [],
+  })
+}
+
 function staged(files: Readonly<Record<string, string>>): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-typecheck-"))
   mkdirSync(join(root, "akasha"))
@@ -28,6 +51,7 @@ function staged(files: Readonly<Record<string, string>>): string {
     writeFileSync(join(root, at), body)
   }
   reaching(root, files)
+  stamped(root)
   return root
 }
 

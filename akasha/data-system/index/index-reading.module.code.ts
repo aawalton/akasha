@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs"
 import { join } from "node:path"
+import { staleFor } from "./index-stamp.module.code.ts"
 
 export type Standing = {
   readonly path: string
@@ -72,6 +73,10 @@ function pathsIn(at: string): readonly string[] {
 }
 
 export function importersOf(root: string, path: string): readonly string[] {
+  const why = staleFor(root, indexIn(root))
+  if (why !== null) {
+    throw new Error(`which files import \`${path}\` could not be answered — ${why}`)
+  }
   return pathsIn(join(indexIn(root), IMPORT, "path", `${path}${ENDING}`))
 }
 

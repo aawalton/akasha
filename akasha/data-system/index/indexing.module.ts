@@ -22,7 +22,19 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A body is loaded only when its suffix names a page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body that will not load is reported only for a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild stamps the commit the pages were read at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A settle names on the stamp the paths it covered.",
     },
     {
       invariantKind: "departure",

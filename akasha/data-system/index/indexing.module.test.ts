@@ -189,11 +189,8 @@ test("two pages carrying one value leave two lines in one file", () => {
   const { tree, root } = grounded()
   settled(root, tree, "one.domain.ts", { id: A, pageTypeSlug: "domain", slug: "same" }, null)
   settled(root, tree, "two.domain.ts", { id: B, pageTypeSlug: "domain", slug: "same" }, null)
-  settled(root, tree, "x.module.ts", { id: C, pageTypeSlug: "module", slug: "x", code: "ts" }, null)
-  settled(root, tree, "x.module.code.ts", { id: D, pageTypeSlug: "code", slug: "x.module" }, null)
 
   expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
-  expect(linesIn(pathFile(root, "x.module.code.ts")).length).toBe(2)
   clear(tree, root)
 })
 
@@ -333,14 +330,16 @@ test("a file taken away leaves none of the edges it left", () => {
   clear(tree, root)
 })
 
-test("a file whose suffix names no page type is passed over without a word", () => {
-  const { tree, root } = bare()
-  const held = `import { x } from "./nowhere.ts"\nexport const it = { id: x("${A}") }\n`
-  const at = put(tree, "held.module.code.ts", held)
+test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {
+  const { tree, root } = grounded()
+  const ran = join(tree, "ran")
+  const body = `import { writeFileSync } from "node:fs"\nwriteFileSync("${ran}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
   const indexing = indexingAt(root, tree)
-  indexing.wrote(at, held, null)
+  indexing.wrote(put(tree, "x.module.code.ts", body), body, null)
 
-  expect(indexing.settle().length).toBe(0)
+  expect(indexing.settle()).toEqual([])
+  expect(existsSync(ran)).toBe(false)
+  expect(existsSync(idFile(root, D))).toBe(false)
   clear(tree, root)
 })
 

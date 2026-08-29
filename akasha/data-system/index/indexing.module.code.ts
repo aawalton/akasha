@@ -8,8 +8,9 @@ import {
   rmdirSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import type { Entry, Value } from "./index-entries.module.code.ts"
+import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
 import {
   NAMED,
   NOTHING_FILED,
@@ -87,6 +88,11 @@ function settleOver(
     for (const one of come) if (!lines.includes(one)) lines.push(one)
     keepWhole(full, [...lines].sort(), root)
   }
+}
+
+function pageShaped(path: string, fileProperties: ReadonlySet<string>): boolean {
+  const said = NAMED.exec(path.slice(path.lastIndexOf("/") + 1))
+  return said !== null && said[2] !== undefined && !fileProperties.has(said[2])
 }
 
 function pagesUnder(tree: string): readonly string[] {
@@ -182,6 +188,7 @@ export function rebuiltFrom(
     importIn(readFileSync(path, "utf8"), path, repo)
   )
   reconcile(join(root, "import"), imported, root)
+  stampBuilt(repo, tree, root)
   return {
     pages: held.length,
     entries: identity.length + schema.length + relation.length + imported.length,
@@ -202,9 +209,10 @@ export function indexingAt(root: string, repo: string): Indexing {
     took: (path, before) => note(path, before, null),
     settle: () => {
       const pageTypes = pageTypesIn(root)
+      const filed = filePropertiesAt(root)
       const noted: string[] = []
       const readInto = (body: string | null, path: string): Value | null => {
-        if (body === null) return null
+        if (body === null || !pageShaped(path, filed)) return null
         const loaded = loadedFrom(body)
         if (loaded.failed !== null && pageTyped(path, pageTypes)) {
           noted.push(`${path}: its body did not load, so it is not indexed — ${loaded.failed}`)
@@ -228,7 +236,7 @@ export function indexingAt(root: string, repo: string): Indexing {
       )
 
       const fileProperties = new Set<string>([
-        ...filePropertiesAt(root),
+        ...filed,
         ...filePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
       ])
       settleOver(
@@ -249,6 +257,12 @@ export function indexingAt(root: string, repo: string): Indexing {
         root,
         was.flatMap((one) => one.entries),
         now.flatMap((one) => one.entries)
+      )
+
+      stampSettled(
+        repo,
+        root,
+        held.map((one) => (isAbsolute(one.path) ? relative(repo, one.path) : one.path))
       )
       return [...noted, ...now.flatMap((one) => one.refused)]
     },

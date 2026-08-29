@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
@@ -10,6 +11,7 @@ import {
   standingById,
   standingByPath,
 } from "./index-reading.module.code.ts"
+import { stampKept } from "./index-stamp.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -26,6 +28,34 @@ function filed(root: string, at: string, lines: readonly string[]): void {
 
 function line(path: string, id: string): string {
   return JSON.stringify({ path, id })
+}
+
+function gitIn(root: string, ...argv: readonly string[]): string {
+  return execFileSync("git", ["-C", root, ...argv], {
+    encoding: "utf8",
+    stdio: ["ignore", "pipe", "ignore"],
+  })
+}
+
+function committedAt(): string {
+  const root = rootAt()
+  gitIn(root, "init", "--quiet")
+  gitIn(root, "config", "user.email", "held@akasha")
+  gitIn(root, "config", "user.name", "held")
+  writeFileSync(join(root, "held"), "held\n")
+  gitIn(root, "add", "--", "held")
+  gitIn(root, "commit", "--quiet", "-m", "held", "--", "held")
+  return root
+}
+
+function stampedAt(): string {
+  const root = committedAt()
+  stampKept(indexIn(root), {
+    commit: gitIn(root, "rev-parse", "HEAD").trim(),
+    tree: "akasha",
+    settled: [],
+  })
+  return root
 }
 
 test("a path the index carries is answered with the page carrying it", () => {
@@ -133,7 +163,7 @@ test("a property the index does not carry is answered with nothing rather than b
 })
 
 test("a path the index carries edges for is answered with every file importing it", () => {
-  const root = rootAt()
+  const root = stampedAt()
   filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
     JSON.stringify({ path: "akasha/two.module.code.ts" }),
     JSON.stringify({ path: "akasha/one.module.code.ts" }),
@@ -147,8 +177,32 @@ test("a path the index carries edges for is answered with every file importing i
 })
 
 test("a path nothing imports is answered with nothing rather than by throwing", () => {
-  const root = rootAt()
+  const root = stampedAt()
 
   expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("what imports a file is refused when the index names no commit", () => {
+  const root = committedAt()
+  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
+    JSON.stringify({ path: "akasha/one.module.code.ts" }),
+  ])
+
+  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/names no commit/)
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("what imports a file is refused when a commit the index never saw stands", () => {
+  const root = stampedAt()
+  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
+    JSON.stringify({ path: "akasha/one.module.code.ts" }),
+  ])
+  mkdirSync(join(root, "akasha"), { recursive: true })
+  writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
+  gitIn(root, "add", "--", "akasha/late.ts")
+  gitIn(root, "commit", "--quiet", "-m", "late", "--", "akasha/late.ts")
+
+  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
   rmSync(root, { recursive: true, force: true })
 })

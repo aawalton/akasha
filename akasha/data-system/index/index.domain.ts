@@ -14,6 +14,7 @@ export const index = {
     "module/index-entries",
     "module/indexing",
     "module/index-reading",
+    "module/index-stamp",
   ],
   design: [
     {
@@ -40,6 +41,10 @@ export const index = {
       invariantKind: "departure",
       statement: "A path in the index is relative to the repository root.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The index names the commit it describes.",
+    },
   ],
   condition: [
     {
@@ -55,6 +60,10 @@ export const index = {
     {
       invariantKind: "gap",
       statement: "Nothing in the index differs from the pages.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Only what imports a file is refused when the index does not describe HEAD.",
     },
   ],
 } as const satisfies Domain

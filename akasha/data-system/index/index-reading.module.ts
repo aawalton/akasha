@@ -27,5 +27,13 @@ export const indexReading = {
       statement:
         "Every path the index files is answered by walking the one tree those paths are filed in, the answer being the corpus itself, and nothing else here walks.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What imports a file is refused when the index does not describe HEAD.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An answer about one page reads no stamp.",
+    },
   ],
 } as const satisfies Module
