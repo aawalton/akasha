@@ -138,10 +138,10 @@ test("a removal of what is not there is refused as data that is wrong", () => {
   rmSync(root, { recursive: true })
 })
 
-test("a dry run gates and writes nothing at all", () => {
+test("a dry run gates and writes nothing at all, index entry included", () => {
   const root = repoWith()
   const was = headOf(root)
-  const from = bodyIn(root)
+  const from = put(root, "body.txt", 'import { one } from "./one.ts"\n')
   const said = write([
     "--file-path", "akasha/two.ts", "--content-file", from, "--dry-run",
   ], givenIn(root))
@@ -150,6 +150,7 @@ test("a dry run gates and writes nothing at all", () => {
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
+  expect(existsSync(join(root, ".git/data/index/import"))).toBe(false)
   rmSync(root, { recursive: true })
 })
 

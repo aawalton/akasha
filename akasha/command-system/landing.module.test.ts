@@ -247,6 +247,13 @@ test("a landing that takes a page away takes its index entries with it", () => {
   rmSync(root, { recursive: true })
 })
 
+test("a landing no check judged keeps the index all the same", () => {
+  const root = repoWith({ "seed.txt": "held" })
+  landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
+  expect(existsSync(join(indexIn(root), `identity/page/id/${ID}.jsonl`))).toBe(true)
+  rmSync(root, { recursive: true })
+})
+
 test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
