@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { rootAbove } from "../../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
@@ -209,7 +209,7 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
 
-const CORPUS = join(rootAbove(import.meta.dir) ?? "", "akasha")
+const CORPUS = join(rootOf(import.meta.dir) ?? "", "akasha")
 
 function everyBodyUnder(at: string): readonly string[] {
   const found: string[] = []
