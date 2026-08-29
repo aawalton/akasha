@@ -14,6 +14,7 @@ export const agentHook = {
   slug: "agent-hook",
   definition: "a module the agent harness runs at the events it names",
   partSlugs: [
+    "agent-hook/block-akasha-shell-writes",
     "agent-hook/block-akasha-edits",
     "agent-hook/block-akasha-reads",
     "agent-hook/block-biome",
