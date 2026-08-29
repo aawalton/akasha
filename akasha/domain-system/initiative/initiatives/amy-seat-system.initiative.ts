@@ -18,10 +18,6 @@ export const amySeatSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "A file a page property holds counts as present when it stands in the worktree.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A page property can carry a value the commit does not hold.",
     },
     {
