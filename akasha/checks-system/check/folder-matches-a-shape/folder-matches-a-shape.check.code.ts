@@ -10,8 +10,8 @@ import {
   everyOfType,
   everyPath,
   importersOf,
-  indexIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -151,16 +151,18 @@ function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean
 }
 
 export function folderMatchesAShape(leaving: Leaving): readonly Judged[] {
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const shadow = cast.shadow
   const shapes = shapesIn(leaving.root)
-  const index = indexIn(leaving.root)
-  const pageTypes = pageTypesIn(index)
-  const fileProperties = filePropertiesAt(index)
+  const pageTypes = pageTypesIn(shadow.reading)
+  const fileProperties = filePropertiesAt(shadow.reading)
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
     let held = admits.get(wanted)
     if (held === undefined) {
-      if (known === null) known = knownIn(index, leaving.root)
+      if (known === null) known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
       held = new Set<string>(known.admitting(wanted))
       admits.set(wanted, held)
     }

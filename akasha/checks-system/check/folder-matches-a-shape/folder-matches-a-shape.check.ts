@@ -39,6 +39,21 @@ export const folderMatchesAShape = {
         "An import the change takes away is read from the body the change found, never from the index, which files that edge until the change lands.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What is a page type and what names a file are read as the change leaves them, so a page of a page type the change adds is a page rather than a stray.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files stand in a folder is read as the index stands, joined to what the change carries, because a file the change adds that no page claims is exactly the stray a shape is looking for.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The shapes themselves are loaded from what stands on disk, because a shape added by a change has no code file to load until it lands.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "A folder already matching no shape that the change does not touch is named by nothing here, and this does not go looking for it. Audit judges every folder.",
