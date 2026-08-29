@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const nameMatching = {
   id: "01a04eba-7459-7284-8c06-c79e5963387d",

@@ -15,7 +15,7 @@ import {
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
-import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
+import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
