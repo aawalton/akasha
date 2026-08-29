@@ -1,11 +1,13 @@
 import { payloadText } from "../lib/hook-command.ts"
 import { seatNameOf, seatPageFile } from "../lib/hook-seat-page.ts"
+import { keepRotated } from "../lib/seat-rotated-session.ts"
 
 const HOOK_NAME = "local-agent-session-start"
 
 const FLUSH = `${import.meta.dir}/../session-flush.ts`
 
 async function noteRotation(agent: string, sessionId: string): Promise<void> {
+  keepRotated(agent, sessionId)
   const seat = seatNameOf(seatPageFile(agent))
   if (seat === "") return
   const { patchPage } = await import("../lib/page-query-client.ts")

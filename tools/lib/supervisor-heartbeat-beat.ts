@@ -12,6 +12,7 @@ import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { LOG } from "./supervisor-config.ts"
 import { toolArgv } from "./tool-argv.ts"
+import { clearRotated } from "./seat-rotated-session.ts"
 import { keepSession } from "./seat-session.ts"
 import { keepTranscript } from "./seat-transcript-path.ts"
 
@@ -90,6 +91,7 @@ export function keepSeatTranscript(agentId: string, transcriptPath: string): voi
 }
 
 export function clearSeatRotation(agentId: string): void {
+  clearRotated(agentId)
   const report = runBeat(["--agent", agentId, "--clear-rotation"])
   if (report.outcome.kind === "refused") {
     console.error(

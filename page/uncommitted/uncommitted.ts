@@ -86,6 +86,21 @@ export function patchUncommittedUnder(
   })
 }
 
+export function dropUncommitted(pagePath: string, keys: readonly string[]): void {
+  exclusively(uncommittedPathFor(pagePath), () => {
+    const held = readUncommittedNow(pagePath)
+    if (held === null) return
+    const kept: Record<string, unknown> = { ...held }
+    let dropped = false
+    for (const key of keys) {
+      if (!(key in kept)) continue
+      delete kept[key]
+      dropped = true
+    }
+    if (dropped) writeUncommitted(pagePath, kept)
+  })
+}
+
 export function removeUncommitted(pagePath: string): void {
   rmSync(uncommittedPathFor(pagePath), { force: true })
   holdInCall<Record<string, unknown> | null>(heldUnder(pagePath), null)

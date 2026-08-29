@@ -1,5 +1,9 @@
 import { seatPageForAgent } from "./seat-presence-read.ts"
-import { patchUncommitted, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import {
+  dropUncommitted,
+  patchUncommitted,
+  readUncommitted,
+} from "../../page/uncommitted/uncommitted.ts"
 
 export interface SeatRecord {
   readonly value: string
@@ -31,6 +35,17 @@ export function keepSeatRecord(
   if (page === null) return
   try {
     patchUncommitted(page, { [key]: { value, at } })
+  } catch {
+    return
+  }
+}
+
+export function dropSeatRecord(agent: string, key: string): void {
+  if (agent === "") return
+  const page = seatPageForAgent(agent)
+  if (page === null) return
+  try {
+    dropUncommitted(page, [key])
   } catch {
     return
   }
