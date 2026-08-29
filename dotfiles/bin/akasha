@@ -2,14 +2,14 @@
 #
 # The `akasha` name on PATH, resolving into the repository the dispatcher stands in.
 #
-# The dispatcher stands at `akasha/command-system/cli.module.code.ts`, inside the akasha folder
+# The dispatcher stands at `akasha/command-system/cli/cli.module.code.ts`, inside the akasha folder
 # itself, so a change to what `akasha` says or refuses is live on the commit that makes it, with
 # no build and no deploy in between. This file is the only part of the name that lives outside
 # that folder, and it does nothing but name it: an akasha file imports nothing from out here.
 
 set -euo pipefail
 
-dispatcher="${AKASHA_ROOT:-$HOME/repos/akasha}/akasha/command-system/cli.module.code.ts"
+dispatcher="${AKASHA_ROOT:-$HOME/repos/akasha}/akasha/command-system/cli/cli.module.code.ts"
 
 if [[ ! -f $dispatcher ]]; then
   echo "akasha: no dispatcher at $dispatcher — set AKASHA_ROOT to an akasha checkout" >&2
