@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ARRIVES, CODE, HOLDER, TARGET } from "./move.command.test-fixtures.ts"
+import { ARRIVES, CODE, HOLDER, TARGET } from "../move.command.test-fixtures.ts"
 import { repointed } from "./move-repointing.module.code.ts"
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {

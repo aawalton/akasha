@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../../code-system/module/module.page-type.ts"
 
 export const moveRepointing = {
   id: "01a04efb-db14-7000-a96d-4bace8327509",

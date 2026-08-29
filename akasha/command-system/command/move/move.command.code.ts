@@ -24,7 +24,7 @@ import {
   messageIn,
   pathInside,
 } from "../write/write.command.code.ts"
-import { repointed } from "./move-repointing.module.code.ts"
+import { repointed } from "./move-repointing/move-repointing.module.code.ts"
 
 const AKASHA = "akasha"
 
