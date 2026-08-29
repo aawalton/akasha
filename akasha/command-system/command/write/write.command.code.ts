@@ -1,42 +1,18 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import type { Asked, Held, Saying, Trouble } from "../../asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
-  counted,
   DRY_RUN,
-  judgedBy,
   landingAsked,
   mistaking,
-  passedOver,
   textAt,
-  textOf,
   troubling,
-  unloadable,
   wroteAndTook,
 } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface, Taking } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing.module.code.ts"
 import { unreadIn } from "../../warranting.module.code.ts"
-
-export type { Asked, Held, Saying, Trouble }
-
-export {
-  BREAK_GLASS,
-  bytesAt,
-  counted,
-  DRY_RUN,
-  judgedBy,
-  landingAsked,
-  mistaking,
-  passedOver,
-  textAt,
-  textOf,
-  troubling,
-  unloadable,
-  wroteAndTook,
-}
 
 export const FILE_PATH = "--file-path"
 
