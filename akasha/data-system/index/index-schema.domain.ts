@@ -9,11 +9,11 @@ export const indexSchema = {
   design: [
     {
       invariantKind: "departure",
-      statement: "A schema file is found by scope, then property, then value, as an identity file is.",
+      statement: "A schema file is found by scope, then property, then value.",
     },
     {
       invariantKind: "departure",
-      statement: "The scope is `page-property-type`, the page type every property is.",
+      statement: "The scope is always `page-property-type`.",
     },
     {
       invariantKind: "departure",
@@ -25,18 +25,18 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A qualified name is held as its slug alone, so an answer is a key into the index.",
+      statement: "A qualified name is held as its slug alone, and an answer is a key into the index.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An entry is read from the property's own page and from no other, so no other page's change can leave it stale.",
+        "An entry is read from the property's own page and from no other, and no other page's change can leave it stale.",
     },
   ],
   intent: [
     {
       invariantKind: "gap",
-      statement: "A list reaches what its entries may name in one read rather than in one read for each link.",
+      statement: "A list reaches what its entries may name in one read rather than one for each link.",
     },
   ],
 } as const satisfies Domain
