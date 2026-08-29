@@ -13,6 +13,7 @@ export const textProperty = {
   pageTypeSlug: "page-type",
   slug: "text-property",
   definition: "a page property holding text",
+  partSlugs: ["relation-property/name-format-slug"],
   extendsSlug: "page-type/page-property",
   properties: [
     { pagePropertySlug: "max", required: true, many: false },
