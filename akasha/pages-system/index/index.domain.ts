@@ -11,6 +11,7 @@ export const index = {
     "domain/index-relation",
     "domain/index-schema",
     "domain/index-import",
+    "domain/index-path",
     "module/index-entries",
     "module/indexing",
     "module/index-reading",
