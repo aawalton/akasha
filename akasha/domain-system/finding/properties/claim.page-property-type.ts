@@ -7,7 +7,7 @@ export const claim = {
   pageTypeSlug: "page-property-type",
   slug: "claim",
   definition: "what a finding says is so",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "text",
   max: 500,
   nameFormatSlug: null,

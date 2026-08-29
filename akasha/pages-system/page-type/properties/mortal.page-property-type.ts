@@ -7,7 +7,7 @@ export const mortal = {
   pageTypeSlug: "page-property-type",
   slug: "mortal",
   definition: "whether a page type's pages are expected to be deleted",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "boolean",
   design: [
     {

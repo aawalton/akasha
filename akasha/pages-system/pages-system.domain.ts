@@ -9,6 +9,7 @@ export const pagesSystem = {
     "page-type/page",
     "page-type/page-type",
     "page-type/page-property-type",
+    "page-property-type/page-property",
     "module/page-address",
   ],
   design: [

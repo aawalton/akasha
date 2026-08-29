@@ -8,6 +8,7 @@ export type List<T> = readonly T[]
 
 export type PagePropertyType = PageType &
   (
+    | { kind: "root" }
     | { kind: "text"; max: Max; nameFormatSlug: NameFormatSlug | null }
     | { kind: "number"; max: Max | null }
     | { kind: "boolean" }

@@ -11,7 +11,7 @@ export const principle = {
   pageTypeSlug: "page-property-type",
   slug: "principle",
   definition: "a truth packed tight so it reaches many cases",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/directive",
   kind: "list",
   entrySlug: "directive",
   max: null,

@@ -12,7 +12,7 @@ export const invariant = {
   pageTypeSlug: "page-property-type",
   slug: "invariant",
   definition: "one thing that must be true of a page, and which sort it is",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "record",
   design: [
     {

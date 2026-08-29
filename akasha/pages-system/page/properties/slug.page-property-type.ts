@@ -7,7 +7,7 @@ export const slug = {
   pageTypeSlug: "page-property-type",
   slug: "slug",
   definition: "the name a page is reached by",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "text",
   max: 100,
   nameFormatSlug: null,

@@ -12,7 +12,7 @@ export const condition = {
   pageTypeSlug: "page-property-type",
   slug: "condition",
   definition: "a state that holds only while it is kept true",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/invariant",
   kind: "list",
   entrySlug: "invariant",
   max: null,

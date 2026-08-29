@@ -7,7 +7,7 @@ export const definition = {
   pageTypeSlug: "page-property-type",
   slug: "definition",
   definition: "the sentence naming what a page's subject is",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "text",
   max: 100,
   nameFormatSlug: null,

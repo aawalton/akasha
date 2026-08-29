@@ -11,7 +11,7 @@ export const rule = {
   pageTypeSlug: "page-property-type",
   slug: "rule",
   definition: "an instruction that always applies, leaving only whether it was done",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/directive",
   kind: "list",
   entrySlug: "directive",
   max: null,

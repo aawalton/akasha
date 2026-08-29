@@ -7,7 +7,7 @@ export const aid = {
   pageTypeSlug: "page-property-type",
   slug: "aid",
   definition: "a ruling on one act a reader is about to take, for or against",
-  extendsSlug: null,
+  extendsSlug: "page-property-type/page-property",
   kind: "text",
   max: 50,
   nameFormatSlug: null,
