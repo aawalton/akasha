@@ -10,10 +10,6 @@ export const cli = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What akasha needs from outside is gathered here and nowhere deeper.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A command answers and this prints.",
     },
     {
