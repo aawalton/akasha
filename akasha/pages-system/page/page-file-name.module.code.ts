@@ -1,5 +1,7 @@
 const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
+const TS = ".ts"
+
 export type Named = {
   readonly stem: string
   readonly tail: string
@@ -28,6 +30,11 @@ export function namedIn(path: string): Named | null {
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
   const said = namedIn(path)
   return said !== null && pageTypes.has(said.tail)
+}
+
+export function besideAt(path: string, propertySlug: string, held: string): string | null {
+  if (!path.endsWith(TS)) return null
+  return `${path.slice(0, -TS.length)}.${propertySlug}.${held}`
 }
 
 export function heldIn(

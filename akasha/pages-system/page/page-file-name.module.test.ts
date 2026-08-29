@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { heldIn, namedIn, pageNamed } from "./page-file-name.module.code.ts"
+import { besideAt, heldIn, namedIn, pageNamed } from "./page-file-name.module.code.ts"
 
 const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 
@@ -69,4 +69,30 @@ test("a tail naming neither a page type nor a file property is a stray", () => {
 
 test("a file that is not `.ts` at all is a stray", () => {
   expect(heldIn("akasha/one/notes.txt", PAGE_TYPES, FILE_PROPERTIES).kind).toBe("stray")
+})
+
+test("a property's file stands beside its page, named for the property and what it holds", () => {
+  expect(besideAt("akasha/one/file-length.check.ts", "code", "ts")).toBe(
+    "akasha/one/file-length.check.code.ts"
+  )
+})
+
+test("what a property holds names the end, so a property need not be TypeScript", () => {
+  expect(besideAt("akasha/one/file-length.check.ts", "note", "md")).toBe(
+    "akasha/one/file-length.check.note.md"
+  )
+})
+
+test("a path that is no TypeScript file is refused rather than answered", () => {
+  expect(besideAt("akasha/one/notes.txt", "code", "ts")).toBeNull()
+})
+
+test("what besideAt puts together, heldIn takes apart again", () => {
+  const page = "akasha/one/file-length.check.ts"
+  const beside = besideAt(page, "code", "ts")
+  if (beside === null) throw new Error("expected a name beside the page")
+  const said = heldIn(beside, PAGE_TYPES, FILE_PROPERTIES)
+  expect(said.kind).toBe("property")
+  expect(said.propertySlug).toBe("code")
+  expect(said.page).toBe("file-length.check")
 })

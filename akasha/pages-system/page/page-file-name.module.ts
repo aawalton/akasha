@@ -24,6 +24,16 @@ export const pageFileName = {
         "A page and a file standing beside it answer the same page, so the two are matched without either being read.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The name a property's file stands under is built here as well as read here, so what `heldIn` takes apart and what `besideAt` puts together stay one rule.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path that is no TypeScript file is refused rather than answered, so no name is built from one that could carry no page.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one, whether or not that page stands.",
