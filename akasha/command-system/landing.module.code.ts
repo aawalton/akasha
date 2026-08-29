@@ -19,7 +19,7 @@ import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.
 import { holding } from "./holding.module.code.ts"
 import type { Reading as AsRead } from "./reading/reading.module.code.ts"
 import { SCRATCH_AT } from "./scratching/scratching.module.code.ts"
-import { movedOnDisk } from "./standing/standing.module.code.ts"
+import { INSIDE, movedOnDisk, reachedSince } from "./standing/standing.module.code.ts"
 
 export type Change = {
   readonly path: string
@@ -486,6 +486,18 @@ export function landing(
             (one) =>
               `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
           ),
+          "nothing was written — read them again against what stands now",
+        ],
+      }
+    }
+    const now = baseOf(root)
+    const reached = reachedSince(root, base, now)
+    if (reached === null || reached.length > 0) {
+      return {
+        refusals: [
+          reached === null
+            ? `what reached \`${INSIDE}/\` between \`${base}\` and \`${now}\` would not read, so what was judged cannot be shown to be what stands`
+            : `a commit reaching \`${INSIDE}/\` landed while this change was judged, so what was judged is not what stands — it moved ${reached.length} path(s): ${oneLine(reached.join(", "))}`,
           "nothing was written — read them again against what stands now",
         ],
       }

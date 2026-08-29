@@ -60,6 +60,11 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
+        "A change commits only where no commit reaching `akasha/` landed between the base it read and the writing, and one that did is refused unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "What was written is put back when anything after the writing throws, so a call that commits nothing leaves nothing behind either.",
     },
     {

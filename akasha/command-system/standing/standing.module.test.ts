@@ -1,13 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { until } from "../../testing-system/waiting/waiting.module.code.ts"
 import { landing } from "../landing.module.code.ts"
 import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing.module.test-fixtures.ts"
 import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { movedOnDisk } from "./standing.module.code.ts"
+import { movedOnDisk, reachedSince } from "./standing.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -138,4 +139,61 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
   await kid.exited
   expect(said).toContain(MOVED)
   expect(readFileSync(join(root, AT), "utf8")).toBe("moved by the other")
+})
+
+function landedMeanwhile(root: string, path: string, body: string): Judging {
+  return {
+    named: ["landed-meanwhile"],
+    over: () => {
+      const at = join(root, path)
+      mkdirSync(join(at, ".."), { recursive: true })
+      writeFileSync(at, body)
+      git(root, ["add", "--", path])
+      git(root, ["commit", "--quiet", "-m", "meanwhile", "--", path])
+      return []
+    },
+  }
+}
+
+const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
+
+test("a commit reaching `akasha/` is named, and one reaching nothing under it is not", () => {
+  const root = repoWith(PAGES)
+  const base = headOf(root)
+  expect(reachedSince(root, base, base)).toEqual([])
+  writeFileSync(join(root, "outside.txt"), "elsewhere")
+  git(root, ["add", "--", "outside.txt"])
+  git(root, ["commit", "--quiet", "-m", "outside", "--", "outside.txt"])
+  expect(reachedSince(root, base, headOf(root))).toEqual([])
+  writeFileSync(join(root, "akasha/inside.txt"), "inside")
+  git(root, ["add", "--", "akasha/inside.txt"])
+  git(root, ["commit", "--quiet", "-m", "inside", "--", "akasha/inside.txt"])
+  expect(reachedSince(root, base, headOf(root))).toEqual(["akasha/inside.txt"])
+})
+
+test("a commit reaching `akasha/` while the change was judged refuses it unwritten", () => {
+  const root = repoWith(PAGES)
+  const said = landing(
+    root,
+    [{ path: AT, body: bytes("written over") }],
+    "held",
+    landedMeanwhile(root, "akasha/meanwhile.txt", "landed inside")
+  )
+  expect("refusals" in said).toBe(true)
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("reaching `akasha/` landed")
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("akasha/meanwhile.txt")
+  expect(readFileSync(join(root, AT), "utf8")).toBe(A)
+})
+
+test("a commit reaching nothing under `akasha/` while the change was judged refuses nothing", () => {
+  const root = repoWith(PAGES)
+  const said = landing(
+    root,
+    [{ path: AT, body: bytes("written over") }],
+    "held",
+    landedMeanwhile(root, "outside.txt", "landed elsewhere")
+  )
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, AT), "utf8")).toBe("written over")
+  expect(readFileSync(join(root, "outside.txt"), "utf8")).toBe("landed elsewhere")
 })
