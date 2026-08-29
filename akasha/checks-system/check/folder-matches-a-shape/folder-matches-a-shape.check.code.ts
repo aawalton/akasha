@@ -1,0 +1,169 @@
+import { createRequire } from "node:module"
+import { join } from "node:path"
+import {
+  filePropertiesAt,
+  importedBy,
+  pageTypesIn,
+  specifiersIn,
+} from "../../../data-system/index/index-entries.module.code.ts"
+import {
+  everyOfType,
+  everyPath,
+  importersOf,
+  indexIn,
+} from "../../../data-system/index/index-reading.module.code.ts"
+import { heldIn } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { bodyOf, codeBeside } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Judging, Standing } from "./shapes/folder-shape.page-type.ts"
+
+const SHAPE = "folder-shape"
+
+const reach_ = createRequire(import.meta.url)
+
+export type Shape = {
+  readonly slug: string
+  readonly judge: Judging
+}
+
+function camel(slug: string): string {
+  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
+}
+
+function slugOf(path: string): string {
+  const name = path.slice(path.lastIndexOf("/") + 1)
+  return name.slice(0, name.indexOf("."))
+}
+
+export function folderOf(path: string): string {
+  const cut = path.lastIndexOf("/")
+  return cut === -1 ? "" : path.slice(0, cut)
+}
+
+export function ancestorsOf(path: string): readonly string[] {
+  const found: string[] = []
+  let at = folderOf(path)
+  while (at !== "") {
+    found.push(at)
+    at = folderOf(at)
+  }
+  return found
+}
+
+export function reachedFolders(target: string, importer: string): readonly string[] {
+  const found: string[] = []
+  let at = folderOf(target)
+  while (at !== "" && !importer.startsWith(`${at}/`)) {
+    found.push(at)
+    at = folderOf(at)
+  }
+  return found
+}
+
+export function edgesOf(root: string, path: string, bytes: Uint8Array | null): ReadonlySet<string> {
+  const found = new Set<string>()
+  if (bytes === null) return found
+  const text = bodyOf({ root, path, bytes })
+  if (text === null) return found
+  for (const one of specifiersIn(path, text)) {
+    const landed = importedBy(path, one)
+    if (landed !== null) found.add(landed)
+  }
+  return found
+}
+
+export function shapesIn(root: string): readonly Shape[] {
+  const found: Shape[] = []
+  for (const one of everyOfType(root, SHAPE)) {
+    const slug = slugOf(one.path)
+    const beside = codeBeside(one.path)
+    let mod: Record<string, unknown>
+    try {
+      mod = reach_(join(root, beside)) as Record<string, unknown>
+    } catch (thrown) {
+      throw new Error(
+        `${one.path} is a folder shape, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+      )
+    }
+    const named = mod[camel(slug)]
+    if (typeof named !== "function") {
+      throw new Error(`${one.path} is a folder shape, and ${beside} answers to nothing that can judge`)
+    }
+    found.push({ slug, judge: named as Judging })
+  }
+  if (found.length === 0) {
+    throw new Error(
+      "no folder shape stands, so every folder would match nothing and a clean answer would mean nothing"
+    )
+  }
+  return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
+}
+
+export function standingFiles(root: string, leaving: Leaving): readonly string[] {
+  const found = new Set<string>(everyPath(root))
+  for (const one of leaving.changed) {
+    if (leaving.at(one) === null) found.delete(one)
+    else found.add(one)
+  }
+  return [...found].sort()
+}
+
+export function foldersTouchedBy(leaving: Leaving): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of leaving.changed) {
+    for (const at of ancestorsOf(one)) found.add(at)
+    const now = edgesOf(leaving.root, one, leaving.at(one))
+    const before = edgesOf(leaving.root, one, leaving.was(one))
+    for (const target of new Set([...now, ...before])) {
+      if (now.has(target) === before.has(target)) continue
+      for (const at of reachedFolders(target, one)) found.add(at)
+    }
+  }
+  return found
+}
+
+function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean {
+  const now = new Map<string, ReadonlySet<string>>()
+  for (const one of leaving.changed) now.set(one, edgesOf(leaving.root, one, leaving.at(one)))
+  return (folder, path) => {
+    const from = new Set<string>(importersOf(leaving.root, path))
+    for (const [one, edges] of now) {
+      if (edges.has(path)) from.add(one)
+      else from.delete(one)
+    }
+    for (const one of from) {
+      if (!one.startsWith(`${folder}/`)) return true
+    }
+    return false
+  }
+}
+
+export function folderMatchesAShape(leaving: Leaving): readonly Judged[] {
+  const shapes = shapesIn(leaving.root)
+  const index = indexIn(leaving.root)
+  const pageTypes = pageTypesIn(index)
+  const fileProperties = filePropertiesAt(index)
+  const files = standingFiles(leaving.root, leaving)
+  const entering = enteringOf(leaving)
+  const found: Judged[] = []
+  for (const folder of [...foldersTouchedBy(leaving)].sort()) {
+    const here = files.filter((one) => folderOf(one) === folder)
+    if (here.length === 0) continue
+    const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
+    const held = here.map((one) => heldIn(one, pageTypes, fileProperties))
+    const standing: Standing = {
+      folder,
+      files: here,
+      deep,
+      pages: held.filter((one) => one.kind === "page"),
+      properties: held.filter((one) => one.kind === "property"),
+      strays: held.filter((one) => one.kind === "stray"),
+      entered: (path) => entering(folder, path),
+    }
+    const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(standing) }))
+    if (said.some((one) => one.reasons.length === 0)) continue
+    const why = said.map((one) => `as ${one.slug}, ${one.reasons.join(" and ")}`).join("; ")
+    found.push({ path: folder, reason: `this folder matches no folder shape — ${why}` })
+  }
+  return found
+}
