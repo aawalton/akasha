@@ -1,5 +1,12 @@
 {
   "builtinTools": null,
-  "disallowedTools": ["Read", "CronCreate", "CronDelete", "CronList", "ScheduleWakeup"],
-  "alwaysAllowed": ["Grep"]
+  "disallowedTools": [
+    "CronCreate",
+    "CronDelete",
+    "CronList",
+    "ScheduleWakeup"
+  ],
+  "alwaysAllowed": [
+    "Grep"
+  ]
 }

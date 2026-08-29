@@ -37,19 +37,21 @@ function boot(): string {
 }
 
 describe("what a boot prompt carries, now that it carries no document", () => {
-  test("it names who the seat is and the one read, and embeds no document body", () => {
+  test("it names who the seat is, and embeds no document body", () => {
     stateSeat()
     const composed = boot()
     expect(composed).toContain("domain `global`")
-    expect(composed).toContain("ops read --seat")
     expect(composed).not.toContain("<document path=")
     expect(composed).not.toContain("What was decided about a widget.")
     expect(composed).not.toContain("the term the manifest names.")
   })
 
-  test("it counts the documents the seat owes rather than listing their text", () => {
+  test("it names no reading and no gate on having read", () => {
     stateSeat()
-    expect(boot()).toContain("2 document(s) say what that means")
+    const composed = boot()
+    expect(composed).not.toContain("ops read")
+    expect(composed).not.toContain("document(s)")
+    expect(composed).not.toContain("refused")
   })
 
   test("composing it credits nothing, so the seat still owes every document", () => {

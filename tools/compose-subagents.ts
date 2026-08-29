@@ -15,15 +15,6 @@ const SECTION_DEPTH = 1
 
 const SEPARATOR = " — "
 
-const PREAMBLE =
-  "Every document you are bound to is read rather than handed over, so none of them stands in this " +
-  "prompt. This one call names them, reads them and records the reading:\n" +
-  "\n" +
-  "    ops read --seat\n" +
-  "\n" +
-  "Run it before you act. Until you have, every tool that changes anything is refused, and the " +
-  "refusal names this same call."
-
 const HELP = `bun tools/compose-subagents.ts — render the delegate definitions the client takes
 
 Every kind in \`${FOLDER}\`, as the JSON object the client's \`--agents\` flag takes: a map
@@ -89,7 +80,7 @@ function brief(kind: Kind): string {
   if (section === null) throw new Error(`${kind.path} has no Prompt, and a subagent boots on that alone`)
   const prompt = render(section)
   if (prompt === "") throw new Error(`${kind.path} has an empty Prompt, and a subagent boots on that alone`)
-  return `${PREAMBLE}\n\n${prompt}`
+  return prompt
 }
 
 export function kindsIn(kinds: readonly Kind[]): Readonly<Record<string, Definition>> {
