@@ -5,7 +5,7 @@ export const constraint = {
   pageTypeSlug: "invariant-kind",
   slug: "constraint",
   definition: "a limit nobody here chose",
-  groupSlug: "invariant-group/design",
+  invariantGroupSlug: "invariant-group/design",
   invariants: [
     {
       invariantKind: "departure",

@@ -3,7 +3,7 @@ import type { Domain } from "../domain/domain.page-type.ts"
 import type { InvariantGroupSlug } from "./properties/invariant-group-slug.relation-property.ts"
 
 export type InvariantKind = Domain & {
-  groupSlug: InvariantGroupSlug
+  invariantGroupSlug: InvariantGroupSlug
 }
 
 export const invariantKind = {

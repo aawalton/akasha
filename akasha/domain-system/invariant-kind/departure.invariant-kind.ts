@@ -5,7 +5,7 @@ export const departure = {
   pageTypeSlug: "invariant-kind",
   slug: "departure",
   definition: "a decision a reader would not guess right",
-  groupSlug: "invariant-group/design",
+  invariantGroupSlug: "invariant-group/design",
   invariants: [
     {
       invariantKind: "departure",

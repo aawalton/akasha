@@ -5,7 +5,7 @@ export const gap = {
   pageTypeSlug: "invariant-kind",
   slug: "gap",
   definition: "a distance between what the domain says and what it does",
-  groupSlug: "invariant-group/intent",
+  invariantGroupSlug: "invariant-group/intent",
   invariants: [
     {
       invariantKind: "departure",
