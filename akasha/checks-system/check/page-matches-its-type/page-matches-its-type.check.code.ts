@@ -28,6 +28,7 @@ export type Declared = {
   readonly required: boolean
   readonly many: boolean
   readonly max: number | null
+  readonly total: number | null
 }
 
 export type Reading = (pageTypeSlug: string, slug: string) => Value | null
@@ -54,6 +55,15 @@ function entriesAt(held: Record<string, unknown>, key: string): readonly Record<
   return kept
 }
 
+function declaredAt(held: Record<string, unknown>): Declared {
+  return {
+    required: held["required"] === true,
+    many: held["many"] === true,
+    max: countAt(held, "max"),
+    total: countAt(held, "total"),
+  }
+}
+
 export function slugOf(named: string): string | null {
   const address = addressIn(named)
   return address.kind === "id" ? null : address.slug
@@ -73,11 +83,7 @@ export function declaredFor(
     for (const one of entriesAt(value, DECLARED)) {
       const slug = wordAt(one, SAID)
       if (slug === null || found.has(slug)) continue
-      found.set(slug, {
-        required: one["required"] === true,
-        many: one["many"] === true,
-        max: countAt(one, "max"),
-      })
+      found.set(slug, declaredAt(one))
     }
     const above = wordAt(value, "extendsSlug")
     here = above === null ? null : slugOf(above)
@@ -89,6 +95,14 @@ function overMax(said: unknown, max: number | null, slug: string, where: string)
   if (typeof said !== "string" || max === null) return null
   if (said.length <= max) return null
   return `${where}\`${slug}\` runs to ${said.length} characters, over the max of ${max}`
+}
+
+function overTotal(held: readonly unknown[], total: number | null, slug: string): string | null {
+  if (total === null) return null
+  let sum = 0
+  for (const one of held) if (typeof one === "string") sum += one.length
+  if (sum <= total) return null
+  return `holds ${sum} characters of \`${slug}\`, over the total of ${total}`
 }
 
 export function reasonsIn(
@@ -116,6 +130,10 @@ export function reasonsIn(
     if (one.many && listed && one.max !== null && held.length > one.max) {
       said.push(`holds ${held.length} of \`${slug}\`, over the max of ${one.max}`)
     }
+    if (one.many && listed) {
+      const why = overTotal(held, one.total, slug)
+      if (why !== null) said.push(why)
+    }
     const page = property(slug)
     if (page === null) continue
     const shape = wordAt(page, "pageTypeSlug")
@@ -131,13 +149,7 @@ export function reasonsIn(
     const fields = new Map<string, Declared>()
     for (const each of entriesAt(page, DECLARED)) {
       const field = wordAt(each, SAID)
-      if (field !== null) {
-        fields.set(field, {
-          required: each["required"] === true,
-          many: each["many"] === true,
-          max: countAt(each, "max"),
-        })
-      }
+      if (field !== null) fields.set(field, declaredAt(each))
     }
     for (const entry of listed ? entriesAt(value, key) : [held]) {
       if (typeof entry !== "object" || entry === null) continue
@@ -153,6 +165,10 @@ export function reasonsIn(
         const many = Array.isArray(value_)
         if (shaped.many && many && shaped.max !== null && value_.length > shaped.max) {
           said.push(`holds ${value_.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
+        }
+        if (shaped.many && many) {
+          const why = overTotal(value_, shaped.total, `${slug} ${field}`)
+          if (why !== null) said.push(why)
         }
         for (const each of many ? value_ : [value_]) {
           const why = overMax(each, max, `${slug} ${field}`, "")

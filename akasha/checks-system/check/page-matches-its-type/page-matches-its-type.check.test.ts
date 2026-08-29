@@ -24,7 +24,16 @@ const TYPES: Record<string, Value> = {
     extendsSlug: "page-type/module",
     properties: [
       { pagePropertySlug: "test", required: true, many: false },
-      { pagePropertySlug: "aids", required: false, many: true, max: 2 },
+      { pagePropertySlug: "aids", required: false, many: true, max: 2, total: 6 },
+    ],
+  },
+  told: {
+    pageTypeSlug: "page-type",
+    slug: "told",
+    extendsSlug: "page-type/page",
+    properties: [
+      { pagePropertySlug: "directives", required: false, many: true, max: null },
+      { pagePropertySlug: "aids", required: false, many: true, max: null },
     ],
   },
   looping: {
@@ -40,6 +49,15 @@ const PROPERTIES: Record<string, Value> = {
   slug: { pageTypeSlug: "text-property", slug: "slug", max: 8 },
   test: { pageTypeSlug: "text-property", slug: "test", max: 4 },
   aids: { pageTypeSlug: "text-property", slug: "aids", max: 5 },
+  name: { pageTypeSlug: "text-property", slug: "name", max: 8 },
+  directives: {
+    pageTypeSlug: "record-property",
+    slug: "directives",
+    properties: [
+      { pagePropertySlug: "name", required: true, many: false },
+      { pagePropertySlug: "aids", required: false, many: true, max: 3, total: 6 },
+    ],
+  },
 }
 
 const read: Reading = (pageTypeSlug, slug) =>
@@ -93,6 +111,34 @@ test("a value over its text max is refused", () => {
 test("a list over the max its declaration states is refused", () => {
   expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "y", "z"] }, "check")).toEqual([
     "holds 3 of `aids`, over the max of 2",
+  ])
+})
+
+test("a list over the total its declaration states is refused", () => {
+  expect(over({ id: "a", slug: "one", test: "ts", aids: ["hello", "world"] }, "check")).toEqual([
+    "holds 10 characters of `aids`, over the total of 6",
+  ])
+  expect(over({ id: "a", slug: "one", test: "ts", aids: ["ab", "cd"] }, "check")).toEqual([])
+})
+
+test("a declaration stating no total lets a list run to any length", () => {
+  expect(over({ id: "a", slug: "one", aids: ["hello", "world"] }, "told")).toEqual([])
+})
+
+test("a record field over the total its declaration states is refused", () => {
+  const over_ = { id: "a", slug: "one", directives: [{ name: "go", aids: ["hello", "world"] }] }
+  expect(over(over_, "told")).toEqual([
+    "holds 10 characters of `directives aids`, over the total of 6",
+  ])
+  const under = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd"] }] }
+  expect(over(under, "told")).toEqual([])
+})
+
+test("a record field's entries and its characters are counted apart", () => {
+  const value = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd", "ef", "g"] }] }
+  expect(over(value, "told")).toEqual([
+    "holds 4 of `directives aids`, over the max of 3",
+    "holds 7 characters of `directives aids`, over the total of 6",
   ])
 })
 

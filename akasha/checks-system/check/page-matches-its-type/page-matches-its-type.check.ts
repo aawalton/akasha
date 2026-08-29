@@ -42,6 +42,11 @@ export const pageMatchesItsType = {
         "A max on a declaration counts entries, and a max on a text property counts characters, from one property page read two ways.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "A total on a declaration counts the characters of a list's values taken together, and is never a third thing a max means.",
+    },
+    {
       invariantKind: "absence",
       statement: "A value's own sort is not judged here, only whether the page carries what it must.",
     },
