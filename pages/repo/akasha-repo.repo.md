@@ -38,3 +38,13 @@ Never reach for `-a` to make it one command.
 
 Name the files, never a directory that may grow.
 
+## Right Version
+
+**Check a claim about a file against the version it was made about, not the one on disk now.**
+
+A file carries no time, so the wrong version answers as confidently as the right one.
+
+`git show <commit>:<path>` when numbers disagree.
+
+Treat a small unexplained gap as the file moving.
+
