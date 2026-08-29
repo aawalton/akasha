@@ -2,11 +2,13 @@ import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { DomainSlug } from "../domain/properties/domain-slug.relation-property.ts"
 import type { Invariants } from "../domain/properties/invariants.record-property.ts"
+import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
 import type { PersonaSlug } from "./properties/persona-slug.text-property.ts"
 
 export type Initiative = Page & {
   domainSlug: DomainSlug
   personaSlug: PersonaSlug
+  parentSlug?: ParentSlug
   invariants?: Invariants
 }
 
@@ -19,6 +21,7 @@ export const initiative = {
   properties: [
     { propertySlug: "domain-slug", required: true, many: false },
     { propertySlug: "persona-slug", required: true, many: false },
+    { propertySlug: "parent-slug", required: false, many: false },
     { propertySlug: "invariants", required: false, many: true },
   ],
   mortal: true,
