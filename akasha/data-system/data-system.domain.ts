@@ -6,7 +6,6 @@ export const dataSystem = {
   slug: "data-system",
   definition: "how what the pages imply is derived and written down",
   partSlugs: ["domain/index"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

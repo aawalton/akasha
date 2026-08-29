@@ -15,7 +15,6 @@ export const index = {
     "module/indexing",
     "module/index-reading",
   ],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

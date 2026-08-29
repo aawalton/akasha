@@ -6,7 +6,6 @@ export const commandSystem = {
   slug: "command-system",
   definition: "what an agent runs by name",
   partSlugs: ["page-type/command", "module/calling", "module/landing", "module/cli"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

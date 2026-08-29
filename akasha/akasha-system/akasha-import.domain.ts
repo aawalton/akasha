@@ -5,7 +5,6 @@ export const akashaImport = {
   pageTypeSlug: "domain",
   slug: "akasha-import",
   definition: "one file using what another declares",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

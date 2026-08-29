@@ -6,7 +6,6 @@ export const akashaMigration = {
   slug: "akasha-migration",
   definition: "how the old system becomes the new system",
   partSlugs: ["domain/akasha-accretion", "domain/akasha-ablation", "domain/akasha-milestone"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "constraint",

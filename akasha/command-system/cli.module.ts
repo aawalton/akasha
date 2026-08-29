@@ -7,7 +7,6 @@ export const cli = {
   definition: "the name on the path answered, printed and given an exit code",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

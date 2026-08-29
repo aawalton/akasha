@@ -7,7 +7,6 @@ export const indexing = {
   definition: "the index entries the pages imply",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

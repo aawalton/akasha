@@ -16,7 +16,6 @@ export const page = {
   definition: "all that is kept about one thing",
   extendsSlug: null,
   partSlugs: ["domain/page-edge"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

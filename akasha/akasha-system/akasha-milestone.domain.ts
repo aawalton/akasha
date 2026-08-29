@@ -10,7 +10,6 @@ export const akashaMilestone = {
     "domain/akasha-required-reading",
     "domain/akasha-alone",
   ],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

@@ -6,7 +6,6 @@ export const checksSystem = {
   slug: "checks-system",
   definition: "how a change is judged against what must be true of it",
   partSlugs: ["page-type/check", "module/judging", "module/checking"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

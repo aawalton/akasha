@@ -7,7 +7,6 @@ export const calling = {
   definition: "a name from the command line answered by the command that carries it",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

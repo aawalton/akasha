@@ -6,7 +6,6 @@ export const domainSystem = {
   slug: "domain-system",
   definition: "how we define how things should be",
   partSlugs: ["page-type/domain", "page-type/finding", "domain/context-warrant"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

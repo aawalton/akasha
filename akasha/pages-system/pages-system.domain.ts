@@ -11,7 +11,6 @@ export const pagesSystem = {
     "page-type/page-property-type",
     "module/page-address",
   ],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

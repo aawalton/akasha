@@ -20,7 +20,6 @@ export const akashaSystem = {
     "domain/command-system",
     "domain/akasha-migration",
   ],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

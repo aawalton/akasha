@@ -6,7 +6,6 @@ export const akashaType = {
   slug: "akasha-type",
   definition: "the shape a value must have",
   partSlugs: ["domain/akasha-import"],
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "constraint",

@@ -7,7 +7,6 @@ export const indexReading = {
   definition: "the answers the index gives back, each one a file read",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",

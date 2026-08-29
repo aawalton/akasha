@@ -5,7 +5,6 @@ export const indexSchema = {
   pageTypeSlug: "domain",
   slug: "index-schema",
   definition: "an index from a property to the shape of the value it holds",
-  requiredReadingSlugs: [],
   design: [
     {
       invariantKind: "departure",
