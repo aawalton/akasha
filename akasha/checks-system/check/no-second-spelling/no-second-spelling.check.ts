@@ -8,9 +8,9 @@ export const noSecondSpelling = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -58,8 +58,9 @@ export const noSecondSpelling = {
         "Only the paths the change carries are judged, so this holds the count from rising and does not go looking for what already stands.",
     },
     {
-      invariantKind: "gap",
-      statement: "The whole tree is clear, and the phases that read it are turned on.",
+      invariantKind: "departure",
+      statement:
+        "The whole tree carries no second spelling, so every phase reads it and a respelling standing anywhere is refused rather than only one arriving.",
     },
   ],
 } as const satisfies Check
