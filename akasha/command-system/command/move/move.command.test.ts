@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting.module.code.ts"
-import { move, PATHS_AT, pairsIn, repointed, surface, underAkasha } from "./move.command.code.ts"
+import { move, PATHS_AT, pairsIn, repointed, surface } from "./move.command.code.ts"
 import {
   AAAA,
   ARRIVES,
@@ -166,7 +166,7 @@ test("a side standing outside the akasha folder is refused", () => {
   const root = repoWith({ [HELD]: PAGE })
   const said = move(["--from", HELD, "--to", "elsewhere/held.module.ts"], givenIn(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("stands outside")
+  expect(said.refusals[0]).toContain("is not under `akasha/`")
 })
 
 test("naming no pair is refused rather than committed empty", () => {
@@ -275,10 +275,13 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("carried by a file")
 })
 
-test("a path is read against the folder the call ran in", () => {
-  expect(underAkasha("/root", "/root/akasha/one", "held.ts")).toBe("akasha/one/held.ts")
-  expect(underAkasha("/root", "/root", "elsewhere/held.ts")).toBeNull()
-  expect(underAkasha("/root", "/root", "/root/akasha/held.ts")).toBe("akasha/held.ts")
+test("a path is read against the repository root, wherever the call was made", () => {
+  const root = repoWith({ [HELD]: PAGE })
+  const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
+  expect(said.refusals).toEqual([])
+  expect(stands(root, THREE)).toBe(true)
+  const out = move(["--from", HELD, "--to", "one/held.module.ts"], givenIn(root))
+  expect(out.refusals[0]).toContain("read against the repository root")
 })
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {

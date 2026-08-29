@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { basename, dirname, join, relative, resolve } from "node:path"
 import { placedIn, spelledIn } from "../../../code-system/code-specifier.module.code.ts"
 import {
   everyPath,
@@ -23,6 +23,7 @@ import {
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
+  pathInside,
   textOf,
 } from "../write/write.command.code.ts"
 
@@ -51,6 +52,7 @@ export const surface: Surface = {
     "a page states its own slug, so a move carries a body and never renames it.",
     "the `code` and `test` files standing beside what you name go with it.",
     "the files naming what moves are repointed in the same commit.",
+    "a path is read against the repository root, wherever the call was made.",
   ],
 }
 
@@ -123,14 +125,6 @@ export function pairsIn(argv: readonly string[]): Read {
     return { refused: `${FROM} ${pending} has no ${TO} — each pair names both sides` }
   }
   return { pairs, dryRun }
-}
-
-export function underAkasha(root: string, from: string, named: string): string | null {
-  const full = isAbsolute(named) ? named : resolve(from, named)
-  const path = relative(root, full)
-  if (path === "" || path.startsWith("..") || isAbsolute(path)) return null
-  if (path !== AKASHA && !path.startsWith(INSIDE)) return null
-  return path
 }
 
 export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
@@ -263,7 +257,6 @@ type Reached = {
 
 function sidedIn(
   root: string,
-  given: Given,
   pairs: readonly Pair[]
 ): { readonly sides: readonly Sided[] } | { readonly refusals: readonly string[] } {
   const refusals: string[] = []
@@ -271,12 +264,13 @@ function sidedIn(
   const seen = new Set<string>()
   const taken = new Set<string>()
   for (const one of pairs) {
-    const from = underAkasha(root, given.from, one.from)
-    const to = underAkasha(root, given.from, one.to)
+    const from = pathInside(root, one.from)
+    const to = pathInside(root, one.to)
     if (from === null || to === null) {
       const outside = from === null ? one.from : one.to
       refusals.push(
-        `\`${outside}\` stands outside the \`${AKASHA}\` folder, and this carries nothing in or out of it`
+        `\`${outside}\` is not under \`${INSIDE}\` — a path is read against the repository root, ` +
+          "and this carries nothing in or out of that folder"
       )
       continue
     }
@@ -377,7 +371,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
   const stood = baseOf(root)
-  const sided = sidedIn(root, given, read.pairs)
+  const sided = sidedIn(root, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const changes: Change[] = []

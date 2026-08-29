@@ -30,6 +30,11 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
+        "A path is read against the repository root and never against the folder the call was made in, so what is typed means the same wherever it is typed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "What names a moved file is repointed from the index of the files importing a path.",
     },
     {
