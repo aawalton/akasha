@@ -19,5 +19,9 @@ export const invariant = {
       invariantKind: "departure",
       statement: "An entry that is none of the kinds is not an invariant.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An invariant states what is true, never why.",
+    },
   ],
 } as const satisfies PagePropertyType
