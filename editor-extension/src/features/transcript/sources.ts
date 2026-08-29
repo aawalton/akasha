@@ -1,7 +1,7 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { seatNameOf, frontmatterValue } from '../../seat/seat-page.ts';
+import { seatNameOf, frontmatterValue, sidecarValue } from '../../seat/seat-page.ts';
 import { seatPagesDir } from '../../seat/turn-color.ts';
 
 export interface SeatTranscript {
@@ -17,6 +17,18 @@ export interface SubagentTranscript {
 	readonly filePath: string;
 }
 
+const TRANSCRIPT_KEY = 'transcript-path';
+
+function besideThePage(filePath: string, key: string): string | null {
+	let text: string;
+	try {
+		text = fs.readFileSync(filePath.replace(/\.md$/, '.uncommitted.yaml'), 'utf8');
+	} catch {
+		return null;
+	}
+	return sidecarValue(text, key);
+}
+
 function seatTranscriptAt(filePath: string): SeatTranscript | null {
 	let text: string;
 	try {
@@ -25,7 +37,8 @@ function seatTranscriptAt(filePath: string): SeatTranscript | null {
 		return null;
 	}
 	const agentId = frontmatterValue(text, 'id');
-	const transcriptPath = frontmatterValue(text, 'transcript-path');
+	const transcriptPath =
+		besideThePage(filePath, TRANSCRIPT_KEY) ?? frontmatterValue(text, TRANSCRIPT_KEY);
 	if (agentId === null || transcriptPath === null) { return null; }
 	return { agentId, seatName: seatNameOf(path.basename(filePath)), transcriptPath };
 }

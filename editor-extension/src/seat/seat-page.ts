@@ -15,6 +15,20 @@ export function frontmatterValue(text: string, key: string): string | null {
 	return null;
 }
 
+export function sidecarValue(text: string, key: string): string | null {
+	let under = false;
+	for (const line of text.split('\n')) {
+		if (line === `${key}:`) { under = true; continue; }
+		if (!/^\s/.test(line)) { under = false; continue; }
+		if (!under) { continue; }
+		if (!line.startsWith('  ') || line.startsWith('   ')) { continue; }
+		const said = line.trim();
+		if (!said.startsWith('value:')) { continue; }
+		return said.slice('value:'.length).trim().replace(/^"|"$/g, '') || null;
+	}
+	return null;
+}
+
 export function seatNameOf(fileName: string): string {
 	const dot = fileName.indexOf('.');
 	return dot <= 0 ? fileName : fileName.slice(0, dot);
