@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { indexIn } from "../indexes/index-reading.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { indexIn } from "../../indexes/index-reading.module.code.ts"
 import { kindsUnder, standingAbove } from "./page-type-descent.module.code.ts"
 
 const scratch = scratchWorld()

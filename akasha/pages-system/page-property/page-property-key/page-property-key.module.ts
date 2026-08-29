@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const pagePropertyKey = {
   id: "01a04e57-b7b0-7401-852a-4c0be30ace24",

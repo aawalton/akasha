@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const pageTypeDescent = {
   id: "01a04eca-11d6-7481-9151-c390edc031c2",

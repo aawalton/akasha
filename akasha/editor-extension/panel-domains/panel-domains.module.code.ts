@@ -5,7 +5,7 @@ import {
   type Standing,
 } from "../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
-import { kindsUnder } from "../../pages-system/page-type/page-type-descent.module.code.ts"
+import { kindsUnder } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { gather } from "../grouping/grouping.module.code.ts"
 
 const DOMAIN = "domain"
