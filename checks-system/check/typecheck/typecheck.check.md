@@ -14,8 +14,6 @@ check-on-worktree: false
 
 # Design
 
-A diagnostic is reported against a file being checked, or one that reaches it through imports.
-
 Nothing is reported against a file that imports outside this repository.
 
 Every check of a project's files reads the declaration files that project claims.
@@ -27,6 +25,10 @@ Every file with no `tsconfig.json` above it belongs to the default project.
 A `tsconfig.json` carrying another compiler's own key is that compiler's, and none of its files are judged here.
 
 A deployed app runs typegen before the compiler.
+
+# Condition
+
+Which files are judged comes from the paths the change touches and what imports them, never from a project's file list.
 
 # Intent
 
