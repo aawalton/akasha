@@ -60,6 +60,31 @@ export function refusing(reason: string): Answer {
   }
 }
 
+export function payloadIn(raw: string): Record<string, unknown> | null {
+  let held: unknown
+  try {
+    held = JSON.parse(raw)
+  } catch {
+    return null
+  }
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  return held as Record<string, unknown>
+}
+
+export function inputIn(payload: Record<string, unknown>): Record<string, unknown> | null {
+  const held = payload["tool_input"]
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  return held as Record<string, unknown>
+}
+
+export function rewriting(event: string, input: Readonly<Record<string, unknown>>): Answer {
+  return {
+    out: JSON.stringify({ hookSpecificOutput: { hookEventName: event, updatedInput: input } }),
+    err: "",
+    code: ASIDE,
+  }
+}
+
 export function toldOf(hook: string, told: readonly string[]): string {
   return [`${hook} refused this call.`, "", ...told].join("\n")
 }

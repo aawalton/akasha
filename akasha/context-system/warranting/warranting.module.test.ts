@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { blobIdOf, recordRead } from "../../command-system/reading/reading.module.code.ts"
+import {
+  blobIdOf,
+  recordRead,
+  SUBAGENT_MARK,
+} from "../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { gatheredIn, NO_AGENT, unreadIn, warrantsIn } from "./warranting.module.code.ts"
@@ -13,6 +17,8 @@ afterAll(scratch.sweep)
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const OTHER = "01a04ee0-3078-7000-9069-000000000000"
+
+const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
 
 const PATH = "akasha/thing/thing.module.ts"
 
@@ -216,6 +222,34 @@ test("a path warranted by two warrants is judged once", () => {
   standing(root, PATH, "one\n")
   expect(warrantsIn(root, PATH, "write").length).toBe(2)
   expect(unreadIn(root, AGENT, [PATH]).length).toBe(1)
+})
+
+test("a subagent's reading does not answer for its seat", () => {
+  const root = rootWith()
+  const oid = standing(root, PATH, "one\n")
+  recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  expect(unreadIn(root, UNDER, [PATH])).toEqual([])
+  const said = unreadIn(root, AGENT, [PATH])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain("the record does not show you read this")
+})
+
+test("a seat's reading does not answer for a subagent acting under it", () => {
+  const root = rootWith()
+  const oid = standing(root, PATH, "one\n")
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  expect(unreadIn(root, AGENT, [PATH])).toEqual([])
+  const said = unreadIn(root, UNDER, [PATH])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain("the record does not show you read this")
+})
+
+test("one subagent's reading does not answer for another under the same seat", () => {
+  const root = rootWith()
+  const oid = standing(root, PATH, "one\n")
+  recordRead(root, UNDER, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  const other = `${AGENT}${SUBAGENT_MARK}subb`
+  expect(unreadIn(root, other, [PATH]).length).toBe(1)
 })
 
 test("a call charged to no agent is refused whole", () => {

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { READS_AT } from "../../../command-system/reading/reading.module.code.ts"
+import { READS_AT, SUBAGENT_MARK } from "../../../command-system/reading/reading.module.code.ts"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import {
   agentIn,
@@ -11,6 +11,7 @@ import {
   replacing,
   SCOPE,
   sourceIn,
+  underSeat,
 } from "./clear-reads-on-context-replaced.agent-hook.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
@@ -120,6 +121,56 @@ test("one agent's readings are cleared, never another's", () => {
     expect(existsSync(recordAt(root, ONE))).toBe(false)
     expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
   }
+})
+
+const UNDER_ONE = [`${ONE}${SUBAGENT_MARK}suba`, `${ONE}${SUBAGENT_MARK}subb`]
+
+const UNDER_TWO = `${TWO}${SUBAGENT_MARK}subc`
+
+const SEATED: readonly string[] = [ONE, ...UNDER_ONE, TWO, UNDER_TWO]
+
+function seated(): string {
+  const root = mkdtempSync(join(SCRATCH_AT, "akasha-clearing-"))
+  held.push(root)
+  for (const one of SEATED) {
+    const at = readingAt(root, one)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, `{"path":"akasha/a.ts","oid":"${one}","seenAt":1}\n`)
+  }
+  return root
+}
+
+test("a seat's own folder and its subagents' are what the seat takes with it", () => {
+  expect(underSeat(ONE, SEATED)).toEqual([ONE, ...UNDER_ONE])
+  expect(underSeat(TWO, SEATED)).toEqual([TWO, UNDER_TWO])
+})
+
+test("a seat standing beside no subagent takes only its own folder", () => {
+  expect(underSeat(ONE, [ONE, TWO, UNDER_TWO])).toEqual([ONE])
+  expect(underSeat(ONE, [])).toEqual([ONE])
+})
+
+test("a seat's subagents' records go when the seat's context is replaced", () => {
+  for (const one of REPLACING) {
+    const root = seated()
+    expect(cleared(root, ONE, one)).toBe(true)
+    for (const said of [ONE, ...UNDER_ONE]) {
+      expect(existsSync(recordAt(root, said))).toBe(false)
+    }
+  }
+})
+
+test("another seat's subagents' records stand while one seat's are cleared", () => {
+  const root = seated()
+  cleared(root, ONE, "startup")
+  expect(readFileSync(readingAt(root, TWO), "utf8")).toContain(TWO)
+  expect(readFileSync(readingAt(root, UNDER_TWO), "utf8")).toContain(UNDER_TWO)
+})
+
+test("a resumed seat keeps its subagents' records too", () => {
+  const root = seated()
+  expect(cleared(root, ONE, "resume")).toBe(false)
+  for (const one of SEATED) expect(existsSync(readingAt(root, one))).toBe(true)
 })
 
 test("another agent's readings stand through a source that clears nothing", () => {

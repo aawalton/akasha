@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
+import { writerIn } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 
 export const OK = 0
@@ -28,13 +29,12 @@ export function outsideOf(
 ): Outside {
   const stated = env["AKASHA_ROOT"]
   const said = env["AKASHA_WRITER"]
-  const named = env["AGENT_ID"]
   return {
     root: stated === undefined || stated === "" ? rootOf(at) : resolve(stated),
     calledAs: "akasha",
     from,
     writer: said === undefined || said === "" ? AUTHOR : said,
-    agentId: named === undefined || named === "" ? null : named,
+    agentId: writerIn(env),
   }
 }
 

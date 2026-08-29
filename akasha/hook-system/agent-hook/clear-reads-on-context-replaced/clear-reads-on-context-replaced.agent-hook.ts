@@ -29,6 +29,11 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A seat's subagents' records go when the seat's context is replaced, because nothing else takes them away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "With no agent named, nothing is cleared.",
     },
     {

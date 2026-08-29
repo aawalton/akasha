@@ -1,6 +1,10 @@
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { READS_AT } from "../../../command-system/reading/reading.module.code.ts"
+import {
+  agentIdsIn,
+  READS_AT,
+  SUBAGENT_MARK,
+} from "../../../command-system/reading/reading.module.code.ts"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { ASIDE, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
@@ -21,12 +25,15 @@ export const SCOPE: readonly string[] = [
   "record left behind would have the command answer with a diff against bytes nobody is holding.",
   "",
   "WHAT IS TAKEN AWAY:",
-  `  \`${READS_AT}/agent/id/<agent>\`, the one folder, and nothing beside it.`,
+  `  \`${READS_AT}/agent/id/<agent>\`, the seat's own folder.`,
+  `  \`${READS_AT}/agent/id/<agent>${SUBAGENT_MARK}<subagent>\`, every folder a subagent of that`,
+  "    seat kept, because nothing else takes them away and the seat holding none of what they",
+  "    read is the same fact that clears its own.",
   `  The agent is the one \`${NAMED}\` names. With none named, nothing is cleared.`,
-  "  Another agent's folder is never reached, because the agent's own id is the path.",
+  "  Another agent's folder is never reached, because the agent's own id opens the path.",
   "",
-  "This hook acts rather than judges. It is the only one that does, and it is why the folder it",
-  "removes is spelled from a constant the reading module owns rather than written out again.",
+  "This hook acts rather than judges, and it is why the folder it removes and the mark that opens",
+  "a subagent's name are spelled from constants the reading module owns rather than written again.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a source this does not name, which leaves the record standing rather than guessing at it",
@@ -50,11 +57,18 @@ export function recordAt(root: string, agentId: string): string {
   return join(root, READS_AT, "agent", "id", agentId)
 }
 
+export function underSeat(seat: string, standing: readonly string[]): readonly string[] {
+  const held = `${seat}${SUBAGENT_MARK}`
+  return [seat, ...standing.filter((one) => one.startsWith(held))]
+}
+
 export function cleared(root: string, agentId: string | null, source: string): boolean {
   if (agentId === null || agentId === "") return false
   if (!replacing(source)) return false
   try {
-    rmSync(recordAt(root, agentId), { recursive: true, force: true })
+    for (const one of underSeat(agentId, agentIdsIn(root))) {
+      rmSync(recordAt(root, one), { recursive: true, force: true })
+    }
   } catch {
     return false
   }

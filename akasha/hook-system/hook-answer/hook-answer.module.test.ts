@@ -2,8 +2,11 @@ import { expect, test } from "bun:test"
 import {
   ASIDE,
   commandIn,
+  inputIn,
+  payloadIn,
   REFUSED,
   refusing,
+  rewriting,
   STANDING_ASIDE,
   toolInputIn,
   UNREADABLE,
@@ -85,4 +88,43 @@ test("standing aside says nothing and its code is 0", () => {
 test("a reason carrying newlines and quotes survives being made JSON", () => {
   const reason = 'one\ntwo "three"\n  four'
   expect(JSON.parse(refusing(reason).out)).toEqual({ decision: "block", reason })
+})
+
+test("a payload is read whole where a hook needs more of it than the tool input", () => {
+  const held = { agent_id: "one", tool_input: { command: "ls" } }
+  expect(payloadIn(JSON.stringify(held))).toEqual(held)
+})
+
+test("a payload that is not an object of its own reads as nothing", () => {
+  for (const one of ["{ not json", "[]", '["one"]', "null", '"one"', "3", "true", ""]) {
+    expect(payloadIn(one)).toBeNull()
+  }
+})
+
+test("the tool input is read whole where a hook is to hand it back changed", () => {
+  const held = { command: "ls", description: "list" }
+  expect(inputIn({ tool_input: held })).toEqual(held)
+})
+
+test("a tool input that is not an object of its own reads as nothing", () => {
+  for (const one of ["ls", ["ls"], 3, null, undefined, true]) {
+    expect(inputIn({ tool_input: one })).toBeNull()
+  }
+  expect(inputIn({})).toBeNull()
+})
+
+test("a call handed back with its input changed is one JSON object, and its code is 0", () => {
+  const held = { command: "ls" }
+  const said = rewriting("PreToolUse", held)
+  expect(said.code).toBe(ASIDE)
+  expect(said.err).toBe("")
+  expect(JSON.parse(said.out)).toEqual({
+    hookSpecificOutput: { hookEventName: "PreToolUse", updatedInput: held },
+  })
+})
+
+test("the event a changed call is answered at is the one handed in", () => {
+  expect(JSON.parse(rewriting("PostToolUse", {}).out).hookSpecificOutput.hookEventName).toBe(
+    "PostToolUse"
+  )
 })

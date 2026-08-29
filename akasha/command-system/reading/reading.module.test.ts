@@ -3,6 +3,7 @@ import { existsSync, mkdirSync, type Stats, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
+  ACTING_NAMED,
   agentIdsIn,
   blobIdOf,
   carriedInto,
@@ -12,7 +13,11 @@ import {
   readingFileAt,
   readingIn,
   recordRead,
+  SEAT_NAMED,
+  SUBAGENT_MARK,
   sameBody,
+  seatIn,
+  writerIn,
 } from "./reading.module.code.ts"
 
 const scratch = scratchWorld()
@@ -182,6 +187,73 @@ test("every agent holding the body is carried, not the first one found", () => {
     expect(readingIn(root, one, B)?.mechanicalOid).toBe(now)
     expect(readingIn(root, one, A)).toBeNull()
   }
+})
+
+const UNDER = `${AGENT}${SUBAGENT_MARK}sub-one`
+
+test("the mark that opens a subagent's name is spelled here once", () => {
+  expect(SUBAGENT_MARK).toBe("--")
+  expect(SEAT_NAMED).toBe("AGENT_ID")
+  expect(ACTING_NAMED).toBe("ACTING_AGENT_ID")
+})
+
+test("no seat named is no writer at all", () => {
+  expect(writerIn({})).toBeNull()
+  expect(writerIn({ [SEAT_NAMED]: "" })).toBeNull()
+  expect(writerIn({ [SEAT_NAMED]: undefined })).toBeNull()
+  expect(seatIn({})).toBeNull()
+})
+
+test("a seat named and nothing acting is the seat itself", () => {
+  expect(writerIn({ [SEAT_NAMED]: AGENT })).toBe(AGENT)
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: "" })).toBe(AGENT)
+  expect(seatIn({ [SEAT_NAMED]: AGENT })).toBe(AGENT)
+})
+
+test("an acting name the seat's own id begins is the writer", () => {
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: UNDER })).toBe(UNDER)
+})
+
+test("an acting name another seat's id begins is not honoured", () => {
+  const said = `${OTHER}${SUBAGENT_MARK}sub-one`
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: said })).toBe(AGENT)
+})
+
+test("an acting name no seat begins is not honoured", () => {
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: "sub-one" })).toBe(AGENT)
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: AGENT })).toBe(AGENT)
+})
+
+test("an acting name is honoured at the mark and not at a shorter cut of the seat", () => {
+  const said = `${AGENT.slice(0, 8)}${SUBAGENT_MARK}sub-one`
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: said })).toBe(AGENT)
+  expect(writerIn({ [SEAT_NAMED]: AGENT, [ACTING_NAMED]: `${AGENT}-sub` })).toBe(AGENT)
+})
+
+test("an acting name without a seat named is not honoured either", () => {
+  expect(writerIn({ [ACTING_NAMED]: UNDER })).toBeNull()
+  expect(writerIn({ [SEAT_NAMED]: "", [ACTING_NAMED]: UNDER })).toBeNull()
+})
+
+test("a subagent's readings stand under its own name and not its seat's", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+  expect(readingIn(root, UNDER, A)?.oid).toBe("one")
+  expect(readingIn(root, AGENT, A)).toBeNull()
+})
+
+test("a seat's readings do not stand under its subagent's name", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+  expect(readingIn(root, UNDER, A)).toBeNull()
+})
+
+test("a composite owner is a folder of its own beside the seat's", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  for (const one of [AGENT, UNDER]) {
+    recordRead(root, one, { path: A, oid: one, seenAt: 1, mechanicalOid: null })
+  }
+  expect(agentIdsIn(root)).toEqual([AGENT, UNDER])
 })
 
 test("output at /dev/null is thrown away", () => {

@@ -22,6 +22,7 @@ export const agentHook = {
     "agent-hook/block-destructive-git",
     "agent-hook/block-git-writes",
     "agent-hook/clear-reads-on-context-replaced",
+    "agent-hook/name-subagent",
     "text-property/over-tools",
     "text-property/runs-at",
   ],
@@ -37,7 +38,8 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook at a tool call answers whether that call may run.",
+      statement:
+        "A hook at a tool call answers whether that call may run, or hands back the input it is to run with.",
     },
     {
       invariantKind: "departure",

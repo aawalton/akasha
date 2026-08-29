@@ -39,8 +39,19 @@ export const hookAnswer = {
         "A refusal names the hook that refused before it says why, so a reader holding several guards knows which one answered without reading further.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A call handed back with its input changed is one JSON object on standard output, and the exit code is 0, because the call still runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A hook changing a call's input is handed the payload whole, because what it changes the call with stands outside the tool input.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A hook reads no field of the payload but the tool input it is handed.",
+      statement:
+        "A hook that judges a call reads no field of the payload but the tool input it is handed.",
     },
     {
       invariantKind: "departure",

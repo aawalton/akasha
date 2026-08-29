@@ -13,6 +13,28 @@ import { dirname, join } from "node:path"
 
 export const READS_AT = ".git/data/reads"
 
+export const SUBAGENT_MARK = "--"
+
+export const SEAT_NAMED = "AGENT_ID"
+
+export const ACTING_NAMED = "ACTING_AGENT_ID"
+
+function named(env: Readonly<Record<string, string | undefined>>, one: string): string | null {
+  const said = env[one]
+  return said === undefined || said === "" ? null : said
+}
+
+export function seatIn(env: Readonly<Record<string, string | undefined>>): string | null {
+  return named(env, SEAT_NAMED)
+}
+
+export function writerIn(env: Readonly<Record<string, string | undefined>>): string | null {
+  const seat = seatIn(env)
+  if (seat === null) return null
+  const acting = named(env, ACTING_NAMED)
+  return acting?.startsWith(`${seat}${SUBAGENT_MARK}`) === true ? acting : seat
+}
+
 export type Reading = {
   readonly path: string
   readonly oid: string

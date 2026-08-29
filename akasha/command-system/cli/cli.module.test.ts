@@ -132,6 +132,20 @@ test("a named agent is carried in", () => {
   expect(outsideOf({ AGENT_ID: "01a0-one" }, AT, "/nowhere").agentId).toBe("01a0-one")
 })
 
+test("a subagent acting under the seat that named it is the agent carried in", () => {
+  const said = outsideOf({ AGENT_ID: "01a0-one", ACTING_AGENT_ID: "01a0-one--sub" }, AT, "/nowhere")
+  expect(said.agentId).toBe("01a0-one--sub")
+})
+
+test("an acting name another seat's id begins is not the agent carried in", () => {
+  const said = outsideOf({ AGENT_ID: "01a0-one", ACTING_AGENT_ID: "01a0-two--sub" }, AT, "/nowhere")
+  expect(said.agentId).toBe("01a0-one")
+})
+
+test("an acting name with no seat named names nobody", () => {
+  expect(outsideOf({ ACTING_AGENT_ID: "01a0-one--sub" }, AT, "/nowhere").agentId).toBeNull()
+})
+
 test("the name it was invoked by is carried in", () => {
   const said = outsideOf({}, AT, "/nowhere")
   expect(said.calledAs).toBe("akasha")
