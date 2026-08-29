@@ -38,18 +38,12 @@ export const domain = {
   intent: ["An agent writes a domain's lines as well as Alan would."],
   rule: [
     {
-      name: "Every Line Before It Lands",
-      act: "Show Ryn a definition, invariant or directive before you land it.",
-      warrant: "The writer is the last to see that the first words are wrong.",
-      aids: ["You still decide; Ryn only asks.", "A line already landed is late, not excused."],
-    },
-    {
-      name: "Second Draft",
-      act: "Write every definition and invariant again, simpler, plainer, clearer, shorter.",
-      warrant: "Agents work better when given fewer, plainer words in simpler grammar.",
+      name: "Every Changed Line",
+      act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
+      warrant: "The first words are almost never the right words. Fresh eyes see new options.",
       aids: [
-        "A different claim is not a plainer line.",
-        "Shorter is only better when it is not less clear.",
+        "For a mechanical change, show the mechanism.",
+        "You can request a release for wide changes.",
       ],
     },
   ],

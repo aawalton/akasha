@@ -48,22 +48,12 @@ An agent writes a domain's lines as well as Alan would.
 
 # Rules
 
-## Every Line Before It Lands
+## Every Changed Line
 
-**Show Ryn a definition, invariant or directive before you land it.**
+**Show Alan each line you change in a domain's Definition, Invariants, or Directives.**
 
-The writer is the last to see that the first words are wrong.
+The first words are almost never the right words. Fresh eyes see new options.
 
-You still decide; Ryn only asks.
+For a mechanical change, show the mechanism.
 
-A line already landed is late, not excused.
-
-## Second Draft
-
-**Write every definition and invariant again, simpler, plainer, clearer, shorter.**
-
-Agents work better when given fewer, plainer words in simpler grammar.
-
-A different claim is not a plainer line.
-
-Shorter is only better when it is not less clear.
+You can request a release for wide changes.
