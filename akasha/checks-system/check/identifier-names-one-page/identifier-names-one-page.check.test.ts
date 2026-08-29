@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { landing, NO_BYTES, pathFor } from "../../check-scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
@@ -55,26 +56,11 @@ function filed(
   writeFileSync(join(dir, `${said}.jsonl`), `${JSON.stringify({ path, id: ONE })}\n`)
 }
 
-function pathFor(kind: string, name: string): string {
-  return `akasha/${name}.${kind}.ts`
-}
-
 function body(kind: string, slug: string, id: string): Uint8Array {
   return bytesOf(
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
       `slug: ${JSON.stringify(slug)} }\n`
   )
-}
-
-const NO_BYTES = new Uint8Array(0)
-
-function landing(root: string, files: Record<string, Uint8Array | null>) {
-  return {
-    root,
-    changed: Object.keys(files),
-    at: (path: string) => files[path] ?? null,
-    was: () => NO_BYTES,
-  }
 }
 
 test("a slug another page of its type already carries is refused", () => {

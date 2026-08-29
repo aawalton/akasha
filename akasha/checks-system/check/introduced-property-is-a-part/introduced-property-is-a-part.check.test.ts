@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
   introducedPropertyIsAPart,
@@ -57,8 +58,6 @@ function rooted(): string {
   return root
 }
 
-const NO_BYTES = new Uint8Array(0)
-
 function bytesOf(
   slug: string,
   above: string | null,
@@ -66,15 +65,6 @@ function bytesOf(
   parts: readonly string[]
 ): Uint8Array {
   return new TextEncoder().encode(stated(slug, above, declares, parts))
-}
-
-function landing(root: string, files: Record<string, Uint8Array | null>) {
-  return {
-    root,
-    changed: Object.keys(files),
-    at: (path: string) => files[path] ?? null,
-    was: () => NO_BYTES,
-  }
 }
 
 test("a page type naming the property it introduces among its parts is let through", () => {
