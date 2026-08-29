@@ -18,9 +18,11 @@ The editor runs as a desktop application, and is served to a browser only to dri
 
 Seats work in `code-editor`, a candidate in a worktree of it, and Alan runs an artefact under `~/.local/share`.
 
-Only `tools/promote.sh` writes the artefact Alan runs, so a commit elsewhere does not reach him.
+Only the editor's own `tools/promote.sh` writes the artefact Alan runs, so a change to the fork does not reach him until it is promoted.
 
-A promoted change reaches Alan's window only when he reloads it.
+The artefact's `extensions/ops` is a symlink to `editor-extension` in the akasha checkout, so a change to the extension reaches Alan without being promoted.
+
+A change reaches Alan's window only when he reloads it.
 
 # Intent
 
