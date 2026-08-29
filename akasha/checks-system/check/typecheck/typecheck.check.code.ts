@@ -1,7 +1,6 @@
-import { spawnSync } from "node:child_process"
 import { readdirSync } from "node:fs"
-import { createRequire } from "node:module"
-import { join } from "node:path"
+import { dirname, join, resolve } from "node:path"
+import ts from "typescript"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
@@ -10,36 +9,27 @@ const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
 
-const COMPILER = "typescript/bin/tsc"
+const PACKAGES = "node_modules"
 
-const PASSED = new Set(["node_modules", "dist", "build"])
+const PASSED = new Set([PACKAGES, "dist", "build"])
 
-export const SETTINGS: readonly string[] = [
-  "--noEmit",
-  "--strict",
-  "--noUncheckedIndexedAccess",
-  "--allowImportingTsExtensions",
-  "--module",
-  "preserve",
-  "--moduleResolution",
-  "bundler",
-  "--target",
-  "esnext",
-  "--skipLibCheck",
-  "--pretty",
-  "false",
-]
+const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
-const SAID = /^(\S.*)\((\d+),(\d+)\): (?:error|warning) (TS\d+): (.*)$/
-
-type Found = {
-  readonly path: string
-  reason: string
+export const SETTINGS: ts.CompilerOptions = {
+  noEmit: true,
+  strict: true,
+  noUncheckedIndexedAccess: true,
+  allowImportingTsExtensions: true,
+  module: ts.ModuleKind.Preserve,
+  moduleResolution: ts.ModuleResolutionKind.Bundler,
+  target: ts.ScriptTarget.ESNext,
+  skipLibCheck: true,
 }
 
-const reach_ = createRequire(import.meta.url)
-
-const ran_ = new Map<string, ReadonlyMap<string, readonly string[]>>()
+export type Found = {
+  readonly path: string
+  readonly reason: string
+}
 
 function walked(root: string, at: string, found: string[]): void {
   for (const entry of readdirSync(join(root, at), { withFileTypes: true })) {
@@ -56,76 +46,124 @@ export function everyIn(root: string): readonly string[] {
   return found.sort()
 }
 
-function outputOf(root: string, every: readonly string[]): string {
-  const ran = spawnSync(process.execPath, [reach_.resolve(COMPILER), ...SETTINGS, ...every], {
-    cwd: root,
-    encoding: "utf8",
-    maxBuffer: 64 * 1024 * 1024,
-  })
-  if (ran.error !== undefined) {
-    throw new Error(`the compiler could not be run — ${ran.error.message}`)
+export function rootsOf(leaving: Leaving): readonly string[] {
+  const found = new Set(everyIn(leaving.root))
+  for (const one of leaving.changed) {
+    if (one.endsWith(TS) && one.startsWith(INSIDE)) found.add(one)
   }
-  if (ran.status === null) {
-    throw new Error("the compiler was stopped before it answered")
-  }
-  return `${ran.stdout}${ran.stderr}`
+  return [...found].filter((one) => leaving.at(one) !== null).sort()
 }
 
-export function foundIn(output: string): readonly Found[] {
-  const found: Found[] = []
-  for (const line of output.split("\n")) {
-    if (line.trim() === "") continue
-    const matched = SAID.exec(line)
-    if (matched !== null) {
-      const [, path = "", at = "", , code = "", why = ""] = matched
-      found.push({ path, reason: `line ${at}: ${code}: ${why}` })
-      continue
+export function insideOf(root: string, at: string): string | null {
+  if (!at.endsWith(TS)) return null
+  if (at.includes(`/${PACKAGES}/`)) return null
+  if (!at.startsWith(`${root}/`)) return null
+  const rel = at.slice(root.length + 1)
+  return rel.startsWith(INSIDE) ? rel : null
+}
+
+export function bodiesOf(leaving: Leaving): (at: string) => string | undefined {
+  const root = resolve(leaving.root)
+  const held = new Map<string, string | undefined>()
+  return (path) => {
+    const at = resolve(path)
+    const found = held.get(at)
+    if (found !== undefined || held.has(at)) return found
+    const rel = insideOf(root, at)
+    const bytes = rel === null ? null : leaving.at(rel)
+    let said: string | undefined
+    if (rel === null) said = ts.sys.readFile(at)
+    else if (bytes !== null) said = new TextDecoder().decode(bytes)
+    held.set(at, said)
+    return said
+  }
+}
+
+function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const one of every) {
+    let at = dirname(join(root, one))
+    while (at !== "/" && !held.has(at)) {
+      held.add(at)
+      at = dirname(at)
     }
-    const held = found[found.length - 1]
-    if (line.startsWith(" ") && held !== undefined) {
-      held.reason = `${held.reason} ${line.trim()}`
-      continue
-    }
+  }
+  return held
+}
+
+export function hostOver(
+  leaving: Leaving,
+  read: (at: string) => string | undefined,
+  every: readonly string[]
+): ts.CompilerHost {
+  const base = ts.createCompilerHost(SETTINGS, true)
+  const root = resolve(leaving.root)
+  const dirs = directoriesIn(root, every)
+  return {
+    ...base,
+    getCurrentDirectory: () => root,
+    fileExists: (path) =>
+      insideOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
+    directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
+    readFile: read,
+    getSourceFile: (path, language) => {
+      if (insideOf(root, resolve(path)) === null) return base.getSourceFile(path, language)
+      const body = read(path)
+      return body === undefined ? undefined : ts.createSourceFile(path, body, language, true)
+    },
+  }
+}
+
+export function foundOf(root: string, said: ts.Diagnostic): Found {
+  const text = ts.flattenDiagnosticMessageText(said.messageText, " ")
+  if (said.file === undefined || said.start === undefined) {
     throw new Error(
-      `the compiler said \`${line.trim()}\`, which names no file it could be kept against`
+      `the compiler said \`TS${said.code}: ${text}\`, which names no file it could be kept against`
     )
+  }
+  const { line } = said.file.getLineAndCharacterOfPosition(said.start)
+  const at = insideOf(root, resolve(said.file.fileName))
+  return {
+    path: at ?? said.file.fileName,
+    reason: `line ${line + 1}: TS${said.code}: ${text}`,
+  }
+}
+
+export function foundIn(leaving: Leaving): readonly Found[] {
+  const roots = rootsOf(leaving)
+  if (roots.length === 0) return []
+  const root = resolve(leaving.root)
+  const read = bodiesOf(leaving)
+  const program = ts.createProgram({
+    rootNames: roots.map((one) => join(root, one)),
+    options: SETTINGS,
+    host: hostOver(leaving, read, roots),
+  })
+  const held = new Map<string, ts.SourceFile>()
+  for (const file of program.getSourceFiles()) {
+    const at = insideOf(root, resolve(file.fileName))
+    if (at !== null) held.set(at, file)
+  }
+  const found: Found[] = []
+  for (const one of roots) {
+    const file = held.get(one)
+    if (file === undefined) continue
+    const said = [...program.getSyntacticDiagnostics(file), ...program.getSemanticDiagnostics(file)]
+    for (const diagnostic of said) found.push(foundOf(root, diagnostic))
   }
   return found
 }
 
-function ranOver(root: string): ReadonlyMap<string, readonly string[]> {
-  const held = ran_.get(root)
-  if (held !== undefined) return held
-  const every = everyIn(root)
-  const found = every.length === 0 ? [] : foundIn(outputOf(root, every))
-  const said = new Map<string, readonly string[]>()
-  for (const one of found) said.set(one.path, [...(said.get(one.path) ?? []), one.reason])
-  ran_.set(root, said)
-  return said
-}
-
-export function reasonsIn(root: string, at: string, takenAway: boolean): readonly string[] {
-  if (!at.endsWith(TS)) return []
-  if (!at.startsWith(INSIDE)) return []
-  const said = ranOver(root)
-  const elsewhere: string[] = []
-  for (const [path, every] of said) {
-    if (path === at) continue
-    for (const one of every) {
-      elsewhere.push(
-        `\`${path}\` ${one} — the akasha folder does not compile as this change leaves it`
-      )
-    }
-  }
-  const own = takenAway ? [] : (said.get(at) ?? [])
-  return [...own, ...elsewhere.sort()]
-}
-
 export function typecheck(leaving: Leaving): readonly Judged[] {
+  const changed = new Set(leaving.changed)
+  const seen = new Set<string>()
   const said: Judged[] = []
-  for (const path of leaving.changed) {
-    const takenAway = leaving.at(path) === null
-    for (const reason of reasonsIn(leaving.root, path, takenAway)) said.push({ path, reason })
+  for (const one of foundIn(leaving)) {
+    const key = `${one.path}\n${one.reason}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    const reason = changed.has(one.path) ? one.reason : `${one.reason} — ${ELSEWHERE}`
+    said.push({ path: one.path, reason })
   }
   return said
 }

@@ -15,8 +15,7 @@ export const typecheck = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A type holds or fails across files, so the whole akasha folder is compiled and a changed file is handed what the compiler said.",
+      statement: "A type holds or fails across files, so the whole akasha folder is compiled.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +25,12 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A diagnostic against a file the change did not touch is still reported, against every path the change holds.",
+        "A diagnostic against a file the change did not touch is reported once, against that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A diagnostic against a file the change takes away is dropped.",
+      statement:
+        "A path the change takes away is not there for the compiler, so nothing is reported against it and a file still importing it is refused.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const typecheck = {
     {
       invariantKind: "constraint",
       statement:
-        "The folder is read from disk rather than from what the check is handed, because a compiler is given file names and not bodies.",
+        "Every TypeScript file under the akasha folder is read from what the check is handed, so the folder compiles as the change would leave it.",
     },
   ],
   intent: [
