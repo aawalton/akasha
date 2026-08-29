@@ -105,6 +105,21 @@ test("a file outside the akasha folder is outside this check", () => {
   expect(verdict({ "tools/loose.ts": HOLDS })).toEqual([])
 })
 
+test("a corpus that will not load refuses, rather than passing unjudged", () => {
+  const root = mkdtempSync(join(tmpdir(), "akasha-file-has-its-page-"))
+  writeFileSync(resolve(root, "akasha"), "not a folder\n")
+  const tree = treeOver(root)
+  const said = akashaFileHasItsPage.run({ root, paths: [], tree, keep: () => root })
+  expect(said.length).toBe(1)
+  expect(said[0]?.reason ?? "").toContain("no answer about the tree")
+})
+
+test("an absent akasha folder is nothing to judge", () => {
+  const root = mkdtempSync(join(tmpdir(), "akasha-file-has-its-page-"))
+  const tree = treeOver(root)
+  expect(akashaFileHasItsPage.run({ root, paths: [], tree, keep: () => root })).toEqual([])
+})
+
 test("the reason names both shapes a file may take", () => {
   const said = verdict({ "akasha/write-system/notes.txt": "loose\n" })
   const reason = said[0]?.reason ?? ""
