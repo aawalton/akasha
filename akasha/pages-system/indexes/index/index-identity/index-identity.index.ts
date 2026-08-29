@@ -39,11 +39,11 @@ export const indexIdentity = {
       statement: "A file holds one line for each page carrying the value.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "No two pages carry one id.",
     },
     {
-      invariantKind: "stopgap",
+      invariantKind: "departure",
       statement: "No two pages of one page type carry one slug.",
     },
     {
@@ -51,7 +51,7 @@ export const indexIdentity = {
       statement: "The index takes its identifiers from what the properties declare.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A page carrying an identifier another page already carries does not land.",
     },
   ],
