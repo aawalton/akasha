@@ -14,7 +14,7 @@ export const properties = {
   id: "01a04df3-6848-7e77-ba2c-9399e3f6a356",
   pageTypeSlug: "record-property",
   slug: "properties",
-  definition: "the properties a page type adds to what it extends",
+  definition: "the properties a page type adds, and the inherited ones it narrows",
   properties: [
     { pagePropertySlug: "page-property-slug", required: true, many: false },
     { pagePropertySlug: "required", required: true, many: false },
@@ -25,7 +25,17 @@ export const properties = {
     {
       invariantKind: "departure",
       statement:
-        "A page type declares only the properties it adds, and takes the rest from the type it extends.",
+        "A page type declares the properties it adds, and takes the rest from the type it extends.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An inherited property is restated only to narrow it: optional becomes required, and a max only falls.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a property is carried once or many times never changes, because that breaks the type it extends rather than narrowing it.",
     },
     {
       invariantKind: "departure",
