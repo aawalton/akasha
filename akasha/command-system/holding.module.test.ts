@@ -1,22 +1,26 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
+import { scratchWorld } from "./scratching.module.code.ts"
 
 const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname
 
 const LANDING_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
 
 function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-holding-"))
+  const root = scratch.rootFor("akasha-holding-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -103,7 +107,6 @@ test("callers asking at once take the hold one at a time, and none overlaps anot
     expect(said[held]).toStartWith("in ")
     expect(said[held + 1]).toBe(`out ${said[held]?.slice(3)}`)
   }
-  rmSync(root, { recursive: true })
 })
 
 test("landings at once each land, and none takes another back", async () => {
@@ -125,7 +128,6 @@ test("landings at once each land, and none takes another back", async () => {
     expect(existsSync(join(indexIn(root), `identity/page/id/${idOf(one)}.jsonl`))).toBe(true)
     expect(existsSync(join(indexIn(root), `identity/domain/slug/${one}.jsonl`))).toBe(true)
   }
-  rmSync(root, { recursive: true })
 })
 
 test("a hold whose holder is gone is taken rather than waited on", async () => {
@@ -135,7 +137,6 @@ test("a hold whose holder is gone is taken rather than waited on", async () => {
   const from = Date.now()
   expect(holding(root, () => "held", 10000)).toBe("held")
   expect(Date.now() - from).toBeLessThan(2000)
-  rmSync(root, { recursive: true })
 })
 
 test("a landing after a holder was killed outright still lands", async () => {
@@ -145,7 +146,6 @@ test("a landing after a holder was killed outright still lands", async () => {
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
   expect(existsSync(join(root, LOCK_AT))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a caller that waits out the hold is refused, and the landing it would have run never runs", async () => {
@@ -171,7 +171,6 @@ test("a caller that waits out the hold is refused, and the landing it would have
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
   await killed(kid)
-  rmSync(root, { recursive: true })
 })
 
 test("a hold is released however the act inside it ends, so one failure wedges nothing after it", () => {
@@ -199,5 +198,4 @@ test("a hold is released however the act inside it ends, so one failure wedges n
   const said = landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(existsSync(at)).toBe(false)
-  rmSync(root, { recursive: true })
 })
