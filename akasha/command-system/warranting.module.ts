@@ -55,9 +55,28 @@ export const warranting = {
       statement: "Nothing here writes, commits or records; it is asked and it answers.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A page answers to its type, and to every type that one extends, so what a page is held to is read before the page is changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file standing beside a page by a file property answers to the type of that page, the code of a module being held to what a module is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A type whose page cannot be found is no warrant, and the chain above it is walked all the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chain that turns back on itself is walked once.",
+    },
+    {
       invariantKind: "absence",
       statement:
-        "One warrant stands here, a file's own body. A page type, an import and a property warrant nothing yet, and each is added as a warrant rather than as a case.",
+        "What is warranted here is a file's own body, and the type it is a page of. An import and a property warrant nothing yet, and each is added as a warrant rather than as a case.",
     },
     {
       invariantKind: "gap",

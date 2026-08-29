@@ -1,5 +1,12 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  schemaOf,
+  slugsOfType,
+  standingAt,
+} from "../pages-system/indexes/index-reading.module.code.ts"
+import { namedIn } from "../pages-system/page/page-file-name.module.code.ts"
+import { standingAbove } from "../pages-system/page-type/page-type-descent.module.code.ts"
 import { blobIdOf, readingIn } from "./reading.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"
@@ -15,6 +22,12 @@ const SHORTER =
 export const ITSELF =
   "A write replaces the body standing there, and what is replaced is read first."
 
+export const TYPE = "A page answers to its type, and to every type that one extends."
+
+const PAGE_TYPE = "page-type"
+
+const FILE_PROPERTY = "file-property"
+
 export const NO_AGENT = [
   "`AGENT_ID` names no agent, so there is no record to ask, and this call is refused whole.",
   "This should not be possible: the supervisor sets `AGENT_ID` when it spawns an agent, every read",
@@ -28,7 +41,24 @@ export type Warrant = {
   readonly owed: string
 }
 
-export type Warranting = (root: string, path: string) => readonly Warrant[]
+export type Known = {
+  readonly types: ReadonlySet<string>
+  readonly above: () => ReadonlyMap<string, string>
+}
+
+export type Knowing = () => Known
+
+export type Warranting = (root: string, path: string, knowing: Knowing) => readonly Warrant[]
+
+export function knowingIn(root: string): Knowing {
+  let known: Known | null = null
+  let above: ReadonlyMap<string, string> | null = null
+  return () =>
+    (known ??= {
+      types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),
+      above: () => (above ??= standingAbove(root)),
+    })
+}
 
 export function notReadOf(warrant: Warrant): string {
   return [
@@ -68,10 +98,43 @@ export function itselfIn(root: string, path: string): readonly Warrant[] {
   return standing === null ? [] : [{ path, oid: standing, owed: ITSELF }]
 }
 
-export const WARRANTING: readonly Warranting[] = [itselfIn]
+export function typeSlugOf(root: string, path: string, types: ReadonlySet<string>): string | null {
+  const said = namedIn(path)
+  if (said === null) return null
+  if (types.has(said.tail)) return said.tail
+  const schema = schemaOf(root, said.tail)
+  if (schema === null || schema.pageTypeSlug !== FILE_PROPERTY) return null
+  const beside = namedIn(`${said.stem}.ts`)
+  return beside !== null && types.has(beside.tail) ? beside.tail : null
+}
 
-export function warrantsIn(root: string, path: string): readonly Warrant[] {
-  return WARRANTING.flatMap((one) => one(root, path))
+export function typeIn(root: string, path: string, knowing: Knowing): readonly Warrant[] {
+  const known = knowing()
+  let here = typeSlugOf(root, path, known.types)
+  if (here === null) return []
+  const found: Warrant[] = []
+  const walked = new Set<string>()
+  const above = known.above()
+  while (here !== null && !walked.has(here)) {
+    walked.add(here)
+    const standing = standingAt(root, PAGE_TYPE, here)[0]
+    const oid = standing === undefined ? null : standingOf(root, standing.path)
+    if (standing !== undefined && oid !== null) {
+      found.push({ path: standing.path, oid, owed: TYPE })
+    }
+    here = above.get(here) ?? null
+  }
+  return found
+}
+
+export const WARRANTING: readonly Warranting[] = [itselfIn, typeIn]
+
+export function warrantsIn(
+  root: string,
+  path: string,
+  knowing: Knowing = knowingIn(root)
+): readonly Warrant[] {
+  return WARRANTING.flatMap((one) => one(root, path, knowing))
 }
 
 export function unreadIn(
@@ -80,10 +143,11 @@ export function unreadIn(
   paths: readonly string[]
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
+  const knowing = knowingIn(root)
   const said: string[] = []
   const asked = new Set<string>()
   for (const path of paths) {
-    for (const warrant of warrantsIn(root, path)) {
+    for (const warrant of warrantsIn(root, path, knowing)) {
       if (asked.has(warrant.path)) continue
       asked.add(warrant.path)
       const held = readingIn(root, agentId, warrant.path)
