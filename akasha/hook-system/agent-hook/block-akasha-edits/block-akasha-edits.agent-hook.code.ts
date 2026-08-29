@@ -221,7 +221,9 @@ async function main(): Promise<number> {
   if (raw.trim() === "") return 0
   const asked = askedIn(raw)
   if (asked === null) {
-    process.stderr.write(`${HOOK_NAME}: the hook payload would not read, so nothing was judged\n`)
+    process.stderr.write(
+      `${HOOK_NAME}: the hook payload would not read, so nothing was judged and the call was not refused\n`
+    )
     return UNREADABLE
   }
   const said = refusalFor(

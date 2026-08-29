@@ -15,7 +15,11 @@ export type Read = { readonly command: string } | { readonly answer: Answer }
 export const STANDING_ASIDE: Answer = { out: "", err: "", code: ASIDE }
 
 function unreadable(hook: string, why: string): Answer {
-  return { out: "", err: `${hook}: ${why}, so nothing was checked`, code: UNREADABLE }
+  return {
+    out: "",
+    err: `${hook}: ${why}, so nothing was judged and the call was not refused`,
+    code: UNREADABLE,
+  }
 }
 
 function texted(held: unknown): string {
