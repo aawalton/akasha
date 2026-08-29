@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { resolve as resolvePath } from "node:path"
 import { corpusIn } from "../write-system/corpus.module.code.ts"
@@ -214,5 +214,21 @@ test("a real call of read refuses a pipe, so the record is never written from on
     expect(answer.refusals.join("\n")).toContain("nothing was read")
   } finally {
     away(root)
+  }
+})
+
+test("a root named with a trailing slash gates a write exactly as the same root without one", () => {
+  const kept = mkdtempSync(`${tmpdir()}/akasha-calling-slash-`)
+  try {
+    const at = "akasha-system/akasha-import.domain.ts"
+    writeFileSync(`${kept}/body.txt`, readFileSync(`${AKASHA}/${at}`, "utf8"))
+    const asked = ["write", "--file-path", at, "--content-file", `${kept}/body.txt`]
+    const plain = calling(asked, { ...outsideOf(kept), root: AKASHA, from: AKASHA })
+    const slashed = calling(asked, { ...outsideOf(kept), root: `${AKASHA}/`, from: AKASHA })
+    expect(plain.refusals.join()).toContain("You have not read")
+    expect(slashed.refusals).toEqual(plain.refusals)
+    expect(slashed.code).toBe(plain.code)
+  } finally {
+    away(kept)
   }
 })

@@ -1,4 +1,5 @@
 import { createRequire } from "node:module"
+import { resolve } from "node:path"
 import type { Corpus } from "../write-system/corpus.module.code.ts"
 import { corpusIn } from "../write-system/corpus.module.code.ts"
 import type { BodyStore, Record_ } from "../write-system/reading.module.code.ts"
@@ -77,7 +78,8 @@ function refusing(said: string): Answer {
 }
 
 export function calling(argv: readonly string[], outside: Outside): Answer {
-  const corpus = corpusIn(outside.root)
+  const root = resolve(outside.root)
+  const corpus = corpusIn(root)
   const every = commandsIn(corpus)
   const named = argv[0]
   if (named === undefined) {
@@ -92,7 +94,7 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     )
   }
   if (what.kind === "many") {
-    const among = what.among.map((one) => `  ${one.path.slice(outside.root.length + 1)}`).join("\n")
+    const among = what.among.map((one) => `  ${one.path.slice(root.length + 1)}`).join("\n")
     return refusing(
       `\`${named}\` is carried by ${what.among.length} commands, so this names more than one:\n${among}`
     )
@@ -101,11 +103,11 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
   const answering = answeringIn(at, named)
   if (answering === null) {
     return refusing(
-      `\`${named}\` is a page, and ${at.slice(outside.root.length + 1)} answers to nothing that can be called`
+      `\`${named}\` is a page, and ${at.slice(root.length + 1)} answers to nothing that can be called`
     )
   }
   return answering(argv.slice(1), {
-    root: outside.root,
+    root,
     corpus,
     record: recordAt(outside.record),
     bodies: bodiesAt(outside.bodies),
