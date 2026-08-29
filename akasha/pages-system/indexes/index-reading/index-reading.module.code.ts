@@ -40,6 +40,10 @@ const ENDING = ".jsonl"
 
 const SLUG = "slug"
 
+const PAGE = "page"
+
+const ID = "id"
+
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
 }
@@ -75,18 +79,25 @@ function endingIn(said: readonly { readonly name: string }[]): readonly string[]
     .sort()
 }
 
+export function standingNamed(
+  given: string | Reading,
+  scope: string,
+  propertySlug: string,
+  said: string
+): readonly Standing[] {
+  return standingIn(overIndex(given), join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+}
+
 export function standingAt(
   given: string | Reading,
   pageTypeSlug: string,
   slug: string
 ): readonly Standing[] {
-  const reading = overIndex(given)
-  return standingIn(reading, join(IDENTITY, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  return standingNamed(given, pageTypeSlug, SLUG, slug)
 }
 
 export function standingById(given: string | Reading, id: string): Standing | null {
-  const found = standingIn(overIndex(given), join(IDENTITY, "page", "id", `${id}${ENDING}`))
-  return found[0] ?? null
+  return standingNamed(given, PAGE, ID, id)[0] ?? null
 }
 
 export function standingByPath(given: string | Reading, path: string): readonly Standing[] {

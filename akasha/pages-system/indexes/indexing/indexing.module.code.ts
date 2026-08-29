@@ -26,9 +26,8 @@ import {
   filePropertiesIn,
   loadedFrom,
   pageTypesIn,
-  schemaAt,
-  slugAt,
-  textAt,
+  uniquePropertiesAt,
+  uniquePropertiesIn,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
@@ -186,24 +185,6 @@ export type Indexing = {
   readonly wrote: (path: string, body: string, before: string | null) => void
   readonly took: (path: string, before: string | null) => void
   readonly settle: () => readonly string[]
-}
-
-function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const value of values) {
-    const reach = slugAt(value, "unique")
-    const slug = textAt(value, "slug")
-    if (reach !== null && slug !== null) found.set(slug, reach)
-  }
-  return found
-}
-
-function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const [slug, held] of schemaAt(given)) {
-    if (held.unique !== null) found.set(slug, held.unique)
-  }
-  return found
 }
 
 const NOTHING_DECLARES =

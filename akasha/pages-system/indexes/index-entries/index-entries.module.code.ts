@@ -159,3 +159,21 @@ export function filePropertiesAt(given: string | Reading): ReadonlySet<string> {
     if (held.pageTypeSlug === "file-property") found.add(slug)
   return found
 }
+
+export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const value of values) {
+    const reach = slugAt(value, "unique")
+    const slug = textAt(value, "slug")
+    if (reach !== null && slug !== null) found.set(slug, reach)
+  }
+  return found
+}
+
+export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const [slug, held] of schemaAt(given)) {
+    if (held.unique !== null) found.set(slug, held.unique)
+  }
+  return found
+}
