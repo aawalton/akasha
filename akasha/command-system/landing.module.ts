@@ -8,6 +8,7 @@ export const landing = {
     "a change judged against one commit and then written and committed onto it, or refused whole",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

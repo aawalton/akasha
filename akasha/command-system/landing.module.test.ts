@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync, spawn, spawnSync } from "node:child_process"
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { spawn, spawnSync } from "node:child_process"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { rebuiltFrom } from "../pages-system/index/indexing.module.code.ts"
@@ -14,41 +14,26 @@ import {
   oneLine,
   readingEnded,
 } from "./landing.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
-
-const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
-
-const scratch = scratchWorld()
+import {
+  A,
+  ADMITS,
+  butTheStamp,
+  bytes,
+  everyFileUnder,
+  git,
+  gitOver,
+  ID,
+  indexIn,
+  LINE,
+  MODULE_AT,
+  REFUSES,
+  repoWith,
+  scratch,
+  TYPE,
+  until,
+} from "./landing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
-
-function repoWith(named: Readonly<Record<string, string | Uint8Array>>): string {
-  const root = scratch.rootFor("akasha-landing-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    const at = join(root, path)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, body)
-  }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  return root
-}
-
-const ADMITS: Judging = { named: ["admits"], over: () => [] }
-
-const REFUSES: Judging = {
-  named: ["refuses"],
-  over: (leaving) => leaving.changed.map((path) => ({ path, reason: "refused for the test" })),
-}
-
-const bytes = (s: string): Uint8Array => new TextEncoder().encode(s)
 
 test("a body the change does not touch is read from the base commit, not the working tree", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
@@ -128,11 +113,6 @@ readingEnded()`,
   expect(said.status).toBe(0)
 })
 
-function gitOver(root: string): readonly string[] {
-  const said = execFileSync("ps", ["-eo", "args="], { encoding: "utf8" })
-  return said.split("\n").filter((one) => one.includes("cat-file") && one.includes(root))
-}
-
 test("no git outlives a landing, nor one a check throws through", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const reading: Judging = {
@@ -160,12 +140,6 @@ test("no git outlives a landing, nor one a check throws through", () => {
   expect(existsSync(join(root, "two.txt"))).toBe(true)
 })
 
-async function until(said: () => boolean, waited = 10000): Promise<boolean> {
-  const end = Date.now() + waited
-  while (Date.now() < end && !said()) await Bun.sleep(20)
-  return said()
-}
-
 test("a parent killed outright leaves no git behind it", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const kid = spawn(
@@ -183,31 +157,6 @@ setInterval(() => {}, 1000)`,
   kid.kill("SIGKILL")
   expect(await until(() => gitOver(root).length === 0)).toBe(true)
 })
-
-const ID = "01a04e11-0000-7000-8000-000000000001"
-
-const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
-
-const TYPE =
-  'export const domain = { id: "01a04e11-0000-7000-8000-000000000002",' +
-  ' pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }\n'
-
-const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
-
-const indexIn = (root: string): string => join(root, ".git/data/index")
-
-function everyFileUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): void => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
-    }
-  }
-  walk(at)
-  return found.sort()
-}
 
 test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
   const root = repoWith({ "seed.txt": "held" })
@@ -246,9 +195,6 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
   expect("refusals" in said).toBe(true)
   expect(everyFileUnder(indexIn(root))).toEqual(was)
 })
-
-const butTheStamp = (found: readonly string[]): readonly string[] =>
-  found.filter((one) => !one.startsWith("/stamp.jsonl "))
 
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
   const root = repoWith({ "seed.txt": "held" })
