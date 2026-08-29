@@ -13,7 +13,11 @@ export const akashaType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's type is derived from the page's value.",
+      statement: "A page satisfies its type rather than being annotated with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type's TypeScript type is declared in the page type file.",
     },
     {
       invariantKind: "gap",
