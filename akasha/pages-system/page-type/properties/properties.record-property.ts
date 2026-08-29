@@ -1,12 +1,19 @@
 import type { List } from "../../page-property/page-property.page-type.ts"
 import type { Max } from "../../page-property/properties/max.number-property.ts"
+import type { Total } from "../../page-property/properties/total.number-property.ts"
 import type { RecordProperty } from "../../page-property/record-property.page-type.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
 
 export type Declaration =
   | { pagePropertySlug: PagePropertySlug; required: Required; many: false }
-  | { pagePropertySlug: PagePropertySlug; required: Required; many: true; max: Max | null }
+  | {
+      pagePropertySlug: PagePropertySlug
+      required: Required
+      many: true
+      max: Max | null
+      total?: Total | null
+    }
 
 export type Properties = List<Declaration>
 
@@ -20,6 +27,7 @@ export const properties = {
     { pagePropertySlug: "required", required: true, many: false },
     { pagePropertySlug: "many", required: true, many: false },
     { pagePropertySlug: "max", required: false, many: false },
+    { pagePropertySlug: "total", required: false, many: false },
   ],
   invariants: [
     {
@@ -43,7 +51,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying many states a max.",
+      statement: "Only a declaration carrying many states a max or a total.",
     },
   ],
 } as const satisfies RecordProperty
