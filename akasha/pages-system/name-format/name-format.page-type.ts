@@ -8,6 +8,18 @@ export const nameFormat = {
   pageTypeSlug: "page-type",
   slug: "name-format",
   definition: "how a name's parts are joined and capitalized",
+  partSlugs: [
+    "module/name-matching",
+    "name-format/lower-camel-case",
+    "name-format/lower-kebab-case",
+    "name-format/lower-snake-case",
+    "name-format/lower-uuid",
+    "name-format/sentence-case",
+    "name-format/title-case",
+    "name-format/upper-camel-case",
+    "name-format/upper-snake-case",
+    "name-format/upper-uuid",
+  ],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [

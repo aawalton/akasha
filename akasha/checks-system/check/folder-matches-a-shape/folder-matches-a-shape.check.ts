@@ -5,6 +5,9 @@ export const folderMatchesAShape = {
   pageTypeSlug: "check",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
+  partSlugs: [
+    "page-type/folder-shape",
+  ],
   code: "ts",
   test: "ts",
   runsOnPatch: false,

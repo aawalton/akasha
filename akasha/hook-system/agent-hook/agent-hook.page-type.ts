@@ -13,6 +13,15 @@ export const agentHook = {
   pageTypeSlug: "page-type",
   slug: "agent-hook",
   definition: "a module the agent harness runs at the events it names",
+  partSlugs: [
+    "agent-hook/block-akasha-edits",
+    "agent-hook/block-akasha-reads",
+    "agent-hook/block-bun-test",
+    "agent-hook/block-destructive-git",
+    "agent-hook/block-git-writes",
+    "text-property/over-tools",
+    "text-property/runs-at",
+  ],
   extendsSlug: "page-type/module",
   properties: [
     { pagePropertySlug: "runs-at", required: true, many: true, max: null },

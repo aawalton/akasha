@@ -14,6 +14,21 @@ export type Domain = Page & {
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
+  partSlugs: [
+    "record-property/directives",
+    "record-property/invariants",
+    "relation-property/directive-kind",
+    "relation-property/domain-slug",
+    "relation-property/invariant-kind",
+    "relation-property/page-slug",
+    "relation-property/part-slugs",
+    "text-property/act",
+    "text-property/aids",
+    "text-property/definition",
+    "text-property/name",
+    "text-property/statement",
+    "text-property/warrant",
+  ],
   pageTypeSlug: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",

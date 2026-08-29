@@ -10,6 +10,13 @@ export const pageProperty = {
   pageTypeSlug: "page-type",
   slug: "page-property",
   definition: "one value a page carries",
+  partSlugs: [
+    "module/page-property-key",
+    "number-property/max",
+    "number-property/total",
+    "relation-property/name-format-slug",
+    "relation-property/target-page-type-slug",
+  ],
   extendsSlug: "page-type/domain",
   invariants: [
     {

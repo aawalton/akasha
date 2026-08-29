@@ -13,6 +13,10 @@ export const module = {
   pageTypeSlug: "page-type",
   slug: "module",
   definition: "code reached by importing it",
+  partSlugs: [
+    "file-property/code",
+    "file-property/test",
+  ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "code", required: true, many: false },

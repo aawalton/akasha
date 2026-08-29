@@ -11,6 +11,16 @@ export const command = {
   pageTypeSlug: "page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
+  partSlugs: [
+    "boolean-property/mechanical",
+    "command/edit",
+    "command/index",
+    "command/move",
+    "command/read",
+    "command/remove",
+    "command/test",
+    "command/write",
+  ],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "mechanical", required: false, many: false }],
   invariants: [

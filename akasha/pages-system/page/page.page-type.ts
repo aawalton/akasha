@@ -20,7 +20,12 @@ export const page = {
     { pagePropertySlug: "page-type-slug", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
   ],
-  partSlugs: ["domain/page-edge"],
+  partSlugs: [
+    "domain/page-edge",
+    "relation-property/page-type-slug",
+    "text-property/id",
+    "text-property/slug",
+  ],
   invariants: [
     {
       invariantKind: "departure",

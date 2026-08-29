@@ -5,7 +5,14 @@ export const hookSystem = {
   pageTypeSlug: "domain",
   slug: "hook-system",
   definition: "how a tool call is judged before it runs",
-  partSlugs: ["page-type/agent-hook"],
+  partSlugs: [
+    "page-type/agent-hook",
+    "module/bun-calls",
+    "module/git-calls",
+    "module/hook-answer",
+    "module/settling",
+    "module/shell-calls",
+  ],
   invariants: [
     {
       invariantKind: "departure",

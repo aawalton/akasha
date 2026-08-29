@@ -11,6 +11,15 @@ export const invariantKind = {
   pageTypeSlug: "page-type",
   slug: "invariant-kind",
   definition: "which sort one invariant is",
+  partSlugs: [
+    "invariant-kind/absence",
+    "invariant-kind/constraint",
+    "invariant-kind/departure",
+    "invariant-kind/gap",
+    "invariant-kind/stopgap",
+    "invariant-kind/upkeep",
+    "relation-property/invariant-group-slug",
+  ],
   extendsSlug: "page-type/domain",
   properties: [{ pagePropertySlug: "invariant-group-slug", required: true, many: false }],
   invariants: [

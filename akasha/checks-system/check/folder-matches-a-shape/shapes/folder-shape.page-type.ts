@@ -25,6 +25,13 @@ export const folderShape = {
   pageTypeSlug: "page-type",
   slug: "folder-shape",
   definition: "a shape a folder is allowed to have",
+  partSlugs: [
+    "folder-shape/one-page-with-its-properties",
+    "folder-shape/page-with-its-parts",
+    "folder-shape/pages-of-one-type",
+    "folder-shape/property-pages-only",
+    "folder-shape/single-entrance",
+  ],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [
