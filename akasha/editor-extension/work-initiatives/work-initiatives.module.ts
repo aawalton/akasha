@@ -19,7 +19,12 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative naming other than one parent is answered as standing under none.",
+      statement:
+        "The index files a parent edge under the parent, so an initiative's own parent is found by listing what each initiative is named by rather than by reading what it names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An initiative standing under other than one parent is answered as under none.",
     },
     {
       invariantKind: "absence",

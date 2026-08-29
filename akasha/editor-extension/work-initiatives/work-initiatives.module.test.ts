@@ -31,9 +31,9 @@ function standing(root: string, slug: string, id: string): void {
   ])
 }
 
-function under(root: string, id: string, parent: string): void {
-  filed(root, `relation/page/id/${id}/parent-slug/${parent}.jsonl`, [
-    JSON.stringify({ path: pathFor("standing"), id: parent }),
+function under(root: string, child: string, parent: string): void {
+  filed(root, `relation/page/id/${parent}/parent-slug/${child}.jsonl`, [
+    JSON.stringify({ path: pathFor("naming"), id: child }),
   ])
 }
 
@@ -49,13 +49,14 @@ test("an index filing no initiative draws nothing", () => {
   expect(initiativesDrawn(root)).toEqual([])
 })
 
-test("a parent filed by id is answered as a slug", () => {
+test("the edge is filed under the parent, so the child is the one that stands under", () => {
   const root = scratch.rootFor("akasha-work-")
-  standing(root, "amy-one", ONE)
-  standing(root, "amy-two", TWO)
+  standing(root, "amy-parent", ONE)
+  standing(root, "amy-child", TWO)
   under(root, TWO, ONE)
   const drawn = initiativesDrawn(root)
-  expect(drawn.find((one) => one.slug === "amy-two")?.parent).toBe("amy-one")
+  expect(drawn.find((one) => one.slug === "amy-child")?.parent).toBe("amy-parent")
+  expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
 })
 
 test("an initiative naming no parent stands under none", () => {
@@ -71,7 +72,7 @@ test("a parent the index files no initiative for stands under none", () => {
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
-test("an initiative naming two parents stands under none", () => {
+test("an initiative standing under two stands under none", () => {
   const root = scratch.rootFor("akasha-work-")
   standing(root, "amy-one", ONE)
   standing(root, "amy-two", TWO)
@@ -80,6 +81,18 @@ test("an initiative naming two parents stands under none", () => {
   under(root, THREE, TWO)
   const drawn = initiativesDrawn(root)
   expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe(null)
+})
+
+test("a parent standing under two children keeps each of them under it", () => {
+  const root = scratch.rootFor("akasha-work-")
+  standing(root, "amy-one", ONE)
+  standing(root, "amy-two", TWO)
+  standing(root, "amy-three", THREE)
+  under(root, TWO, ONE)
+  under(root, THREE, ONE)
+  const drawn = initiativesDrawn(root)
+  expect(drawn.find((one) => one.slug === "amy-two")?.parent).toBe("amy-one")
+  expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe("amy-one")
 })
 
 test("a path the file name says is no initiative is passed over", () => {
