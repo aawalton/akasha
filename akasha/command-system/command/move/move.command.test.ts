@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting.module.code.ts"
-import { move, PATHS_AT, pairsIn, repointed, surface } from "./move.command.code.ts"
+import { move, PATHS_AT, pairsIn, surface } from "./move.command.code.ts"
 import {
   AAAA,
   ARRIVES,
@@ -282,13 +282,6 @@ test("a path is read against the repository root, wherever the call was made", (
   expect(stands(root, THREE)).toBe(true)
   const out = move(["--from", HELD, "--to", "one/held.module.ts"], givenIn(root))
   expect(out.refusals[0]).toContain("read against the repository root")
-})
-
-test("a specifier reaching a file that moves in the same act reaches its new path", () => {
-  const moved = new Map([[TARGET, ARRIVES]])
-  const said = repointed(HOLDER, HOLDER, CODE, moved)
-  expect(said).toContain('from "../four/other.module.code.ts"')
-  expect(said).toContain('import ts from "typescript"')
 })
 
 test("every flag the surface shows is a flag this takes", () => {

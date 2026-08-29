@@ -10,6 +10,7 @@ export const move = {
   test: "ts",
   testFixtures: "ts",
   mechanical: true,
+  partSlugs: ["module/move-repointing"],
   invariants: [
     {
       invariantKind: "absence",
