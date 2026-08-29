@@ -152,11 +152,19 @@ export const commitNamed: Commit = (root, named, message) => {
 }
 
 export function put(absolute: string, body: string | Uint8Array): void {
-  const creating = !existsSync(absolute)
+  const standing = existsSync(absolute) ? statSync(absolute).mode : null
   mkdirSync(dirname(absolute), { recursive: true })
-  if (typeof body === "string") writeFileSync(absolute, body, "utf8")
-  else writeFileSync(absolute, body)
-  if (creating && typeof body === "string" && carriesShebang(body)) chmodSync(absolute, EXECUTABLE)
+  const part = `${absolute}.${process.pid}.part`
+  try {
+    if (typeof body === "string") writeFileSync(part, body, "utf8")
+    else writeFileSync(part, body)
+    if (standing !== null) chmodSync(part, standing)
+    else if (typeof body === "string" && carriesShebang(body)) chmodSync(part, EXECUTABLE)
+    renameSync(part, absolute)
+  } catch (thrown) {
+    rmSync(part, { force: true })
+    throw thrown
+  }
 }
 
 export function recordOwnWrite(absolute: string, body: string | Uint8Array): void {

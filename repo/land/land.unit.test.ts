@@ -1,7 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { landFiles, LandingRefused } from "./land.ts"
+import {
+  chmodSync,
+  existsSync,
+  mkdtempSync,
+  readdirSync,
+  readFileSync,
+  rmSync,
+  statSync,
+  writeFileSync,
+} from "node:fs"
+import { landFiles, LandingRefused, put } from "./land.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -130,4 +139,44 @@ test("a removal whose ls-files could not answer refuses rather than calling it u
   }
   expect(said).toContain("was.txt")
   expect(existsSync(`${root}/was.txt`)).toBe(true)
+})
+
+test("a body lands whole and leaves no part file behind", () => {
+  const root = scratchRepo()
+  put(`${root}/held/deep.txt`, "the whole body\n")
+  expect(readFileSync(`${root}/held/deep.txt`, "utf8")).toBe("the whole body\n")
+  expect(readdirSync(`${root}/held`)).toEqual(["deep.txt"])
+})
+
+test("a rewrite replaces the file rather than writing over it in place", () => {
+  const root = scratchRepo()
+  const at = `${root}/held.txt`
+  put(at, "first\n")
+  const before = statSync(at).ino
+  put(at, "second\n")
+  expect(readFileSync(at, "utf8")).toBe("second\n")
+  expect(statSync(at).ino).not.toBe(before)
+})
+
+test("a rewrite keeps the mode the standing file already carried", () => {
+  const root = scratchRepo()
+  const at = `${root}/run.sh`
+  put(at, "#!/bin/sh\necho one\n")
+  chmodSync(at, 0o700)
+  put(at, "#!/bin/sh\necho two\n")
+  expect(statSync(at).mode & 0o777).toBe(0o700)
+})
+
+test("a new body carrying a shebang lands executable", () => {
+  const root = scratchRepo()
+  const at = `${root}/fresh.sh`
+  put(at, "#!/bin/sh\necho hi\n")
+  expect(statSync(at).mode & 0o100).toBe(0o100)
+})
+
+test("a new body carrying no shebang does not land executable", () => {
+  const root = scratchRepo()
+  const at = `${root}/plain.txt`
+  put(at, "no shebang\n")
+  expect(statSync(at).mode & 0o111).toBe(0)
 })
