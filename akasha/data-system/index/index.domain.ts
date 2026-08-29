@@ -6,7 +6,7 @@ export const index = {
   slug: "index",
   definition: "which file holds each page, and which pages name it",
   partSlugs: ["domain/index-identity", "domain/index-relation", "module/index-entries", "module/indexing"],
-  requiredReadingSlugs: ["domain/index-identity", "domain/index-relation"],
+  requiredReadingSlugs: [],
   design: [
     "An index file is named for the value it answers.",
     "A value no page carries has no file.",

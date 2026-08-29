@@ -7,7 +7,7 @@ export const indexEntries = {
   definition: "the entries a page's value implies",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["domain/index-identity", "domain/index-relation"],
+  requiredReadingSlugs: [],
   design: [
     "A page's body can be loaded after the file it came from is gone.",
     "A property's target is read from the index rather than from the corpus.",

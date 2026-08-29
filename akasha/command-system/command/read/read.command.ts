@@ -7,7 +7,7 @@ export const read = {
   definition: "the command returning the whole body of each akasha file it is named",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["page-type/command"],
+  requiredReadingSlugs: [],
   design: [
     "A read returns the whole file, because nothing here records what a reader last saw.",
     "A read of a body that is not UTF-8 text returns what it is instead of the body.",

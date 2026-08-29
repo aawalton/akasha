@@ -7,11 +7,7 @@ export const indexing = {
   definition: "the index entries the pages imply",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [
-    "domain/page-edge",
-    "domain/index-identity",
-    "domain/index-relation",
-  ],
+  requiredReadingSlugs: [],
   design: [
     "An index file is replaced whole, never appended to.",
     "Identity is settled for every page in a write before any relation is.",

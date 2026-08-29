@@ -16,7 +16,7 @@ export const page = {
   definition: "all that is kept about one thing",
   extendsSlug: null,
   partSlugs: ["domain/page-edge"],
-  requiredReadingSlugs: ["domain/page-edge"],
+  requiredReadingSlugs: [],
   design: [
     "A page is one TypeScript file.",
     "A page is one exported object, named for the page's slug.",
