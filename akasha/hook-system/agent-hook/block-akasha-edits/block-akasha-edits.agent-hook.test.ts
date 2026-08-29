@@ -2,14 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { insideOf, settled } from "../../settling.module.code.ts"
 import {
   askedIn,
   holdingIn,
-  insideOf,
   refusalFor,
   rootOf,
   SCOPE,
-  settled,
 } from "./block-akasha-edits.agent-hook.code.ts"
 
 const HERE = rootOf(import.meta.path)
