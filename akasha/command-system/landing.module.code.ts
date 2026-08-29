@@ -17,8 +17,9 @@ import { textIn, textOf } from "../code-system/body-text/body-text.module.code.t
 import { indexIn } from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
-import { blobIdOf } from "./reading/reading.module.code.ts"
+import type { Reading as AsRead } from "./reading/reading.module.code.ts"
 import { SCRATCH_AT } from "./scratching/scratching.module.code.ts"
+import { movedOnDisk } from "./standing/standing.module.code.ts"
 
 export type Change = {
   readonly path: string
@@ -28,11 +29,6 @@ export type Change = {
 export type Proposed = {
   readonly base: string
   readonly changed: readonly Change[]
-}
-
-export type AsRead = {
-  readonly path: string
-  readonly oid: string
 }
 
 export type Landed = {
@@ -440,18 +436,6 @@ function movedBetween(
   const moved: string[] = []
   for (const one of changed) {
     if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
-  }
-  return moved.sort()
-}
-
-function movedOnDisk(root: string, asRead: readonly AsRead[]): readonly string[] {
-  const moved: string[] = []
-  for (const one of asRead) {
-    let stood = ""
-    try {
-      stood = blobIdOf(readFileSync(join(root, one.path)))
-    } catch {}
-    if (stood !== one.oid) moved.push(one.path)
   }
   return moved.sort()
 }

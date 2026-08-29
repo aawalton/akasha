@@ -1,0 +1,30 @@
+import type { Module } from "../../code-system/module/module.page-type.ts"
+
+export const standing = {
+  id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",
+  pageTypeSlug: "module",
+  slug: "standing",
+  definition: "the rule holding a change to what stood when its writer read it",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A body is overwritten only where what stands on disk is the body its writer read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is weighed by git's own object id, never by when it was last touched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path whose body will not read at all counts as moved, never as standing.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A path no reading was recorded for is held to nothing, because nothing was read to hold it to.",
+    },
+  ],
+} as const satisfies Module

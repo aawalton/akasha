@@ -4,7 +4,7 @@ import type { Judged, Judging } from "../../checks-system/judging/judging.module
 import { formattedBody } from "../../code-system/code-format/code-format.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { holding } from "../holding.module.code.ts"
-import type { AsRead, Change, Landed, Refused } from "../landing.module.code.ts"
+import type { Change, Landed, Refused } from "../landing.module.code.ts"
 import {
   baseOf,
   CHECKING_AT,
@@ -15,7 +15,7 @@ import {
   oneLine,
   UNNAMED,
 } from "../landing.module.code.ts"
-import { blobIdOf, readingIn, recordRead } from "../reading/reading.module.code.ts"
+import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -265,12 +265,12 @@ export function recordLanded(given: Given, changes: readonly Change[]): void {
   }
 }
 
-export function asReadIn(given: Given, changes: readonly Change[]): readonly AsRead[] {
+export function asReadIn(given: Given, changes: readonly Change[]): readonly Reading[] {
   if (given.agentId === null) return []
-  const held: AsRead[] = []
+  const held: Reading[] = []
   for (const one of changes) {
     const seen = readingIn(given.root, given.agentId, one.path)
-    if (seen !== null) held.push({ path: one.path, oid: seen.oid })
+    if (seen !== null) held.push(seen)
   }
   return held
 }
