@@ -7,13 +7,9 @@ import {
   SCOPE,
 } from "./block-git-writes.agent-hook.code.ts"
 
-const WRITE = 'akasha write --file-path <path> --content-file <body> --message "<why>"'
+const COMMANDS = "  akasha write, akasha edit, akasha move, akasha remove"
 
-const EDIT = 'akasha edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
-
-const MOVE = 'akasha move --from <path> --to <path> --message "<why>"'
-
-const REMOVE = 'akasha remove --file-path <path> --message "<why>"'
+const HELP = "Say `akasha --help` for what each takes."
 
 test("a commit naming no paths is refused, and this is the call that took the gate down", () => {
   expect(refusalIn('git commit -m "one"')).not.toBeNull()
@@ -102,18 +98,26 @@ test("commit has no read let through", () => {
   expect(refusalIn("git commit --dry-run")).not.toBeNull()
 })
 
-test("every refusal names the akasha commands, with their flags filled in", () => {
+test("every refusal names the akasha commands and sends the reader to the help", () => {
   for (const command of ["git commit", "git add .", "git apply one.patch", "git am one.patch"]) {
     const said = refusalIn(command) ?? ""
-    expect(said).toContain(WRITE)
-    expect(said).toContain(EDIT)
-    expect(said).toContain(MOVE)
-    expect(said).toContain(REMOVE)
-    }
+    expect(said).toContain(COMMANDS)
+    expect(said).toContain(HELP)
+  }
 })
 
-test("a move refusal names the move command with its own flags", () => {
-  expect(refusalIn("git mv one two")).toContain(MOVE)
+test("a refusal spells no akasha flag, so no flag of ours can go stale in it", () => {
+  for (const command of ["git commit", "git add .", "git mv one two"]) {
+    const said = refusalIn(command) ?? ""
+    expect(said).not.toContain("--file-path <path>")
+    expect(said).not.toContain("--message-file <file>")
+  }
+})
+
+test("a move refusal names the move command and where to read its flags", () => {
+  const said = refusalIn("git mv one two") ?? ""
+  expect(said).toContain("To move an akasha file, use `akasha move`.")
+  expect(said).toContain("Say `akasha --help` for what it takes.")
 })
 
 test("a refusal names the bounded form of the call for a write that reaches no akasha path", () => {

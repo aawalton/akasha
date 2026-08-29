@@ -12,8 +12,6 @@ const HOOK = "block-git-writes"
 
 const SCOPE_FLAG = "--scope"
 
-const AKASHA = "akasha"
-
 const PATHS = "--"
 
 const INSIDE = "akasha"
@@ -22,10 +20,8 @@ const UNBOUNDED: readonly string[] = [".", "..", "./", "/", "*"]
 
 const COMMANDS = [
   "Land akasha content with the akasha commands, which commit for themselves:",
-  `  ${AKASHA} write --file-path <path> --content-file <body> --message "<why>"`,
-  `  ${AKASHA} edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"`,
-  `  ${AKASHA} move --from <path> --to <path> --message "<why>"`,
-  `  ${AKASHA} remove --file-path <path> --message "<why>"`,
+  "  akasha write, akasha edit, akasha move, akasha remove",
+  "Say `akasha --help` for what each takes.",
 ]
 
 const OVER_VERBS = new Map<string, readonly string[]>([
@@ -58,9 +54,8 @@ const OVER_VERBS = new Map<string, readonly string[]>([
     [
       "`git mv` moves a tracked file and stages the move.",
       "",
-      "To move an akasha file:",
-      `  ${AKASHA} move --from <path> --to <path> --message "<why>"`,
-      "It takes --message-file <file> in place of --message.",
+      "To move an akasha file, use `akasha move`.",
+      "Say `akasha --help` for what it takes.",
       "",
       "To move paths reaching nothing under `akasha/`, name them after `--`:",
       `  git mv ${PATHS} <from> <to>`,

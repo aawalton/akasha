@@ -12,7 +12,9 @@ const HOOK = "block-destructive-git"
 
 const SCOPE_FLAG = "--scope"
 
-const AKASHA = "akasha"
+const HELP = "Say `akasha --help` for what each takes."
+
+const SHARED = "This worktree is shared, so the work it writes over may not be yours."
 
 const NONE = [
   "No akasha command does this, and none is planned.",
@@ -20,22 +22,24 @@ const NONE = [
 ]
 
 const PUT_BACK = [
-  "To put a body back the way you meant it, write it:",
-  `  ${AKASHA} write --file-path <path> --content-file <body> --message "<why>"`,
-  `  ${AKASHA} edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"`,
-  "Each takes --message-file <file> in place of --message.",
+  "To put one file back the way HEAD has it, take the body first:",
+  "  git show HEAD:<path> > <body>",
+  "then write <body> to <path>:",
+  "  under `akasha/`:  akasha write",
+  "  anywhere else:    cp <body> <path>",
+  HELP,
 ]
 
 const TAKE_AWAY = [
-  "To take an akasha file away:",
-  `  ${AKASHA} remove --file-path <path> --message "<why>"`,
-  "It takes --message-file <file> in place of --message.",
+  "To take a file away:",
+  "  under `akasha/`:  akasha remove",
+  '  anywhere else:    rm <path> && git commit -m "<why>" -- <path>',
+  HELP,
 ]
 
 const SAY_AGAIN = [
-  "To change what a commit says, land another one:",
-  `  ${AKASHA} write --file-path <path> --content-file <body> --message "<why>"`,
-  "It takes --message-file <file> in place of --message.",
+  "To change what a commit says, land another one with `akasha write`.",
+  HELP,
 ]
 
 const OVER_VERBS = new Map<string, readonly string[]>([
@@ -64,11 +68,11 @@ const OVER_VERBS = new Map<string, readonly string[]>([
   ],
   [
     "checkout",
-    ["`git checkout` writes the working tree over uncommitted work.", ...PUT_BACK],
+    ["`git checkout` writes the working tree over uncommitted work.", SHARED, ...PUT_BACK],
   ],
   [
     "restore",
-    ["`git restore` writes the working tree over uncommitted work.", ...PUT_BACK],
+    ["`git restore` writes the working tree over uncommitted work.", SHARED, ...PUT_BACK],
   ],
   [
     "clean",
@@ -81,7 +85,8 @@ const OVER_VERBS = new Map<string, readonly string[]>([
   [
     "rm",
     [
-      "`git rm` deletes files from the working tree and stages the deletion.",
+      "`git rm` deletes a file and stages the deletion.",
+      "This worktree is shared, so a staged deletion lands in whatever commits next.",
       ...TAKE_AWAY,
     ],
   ],

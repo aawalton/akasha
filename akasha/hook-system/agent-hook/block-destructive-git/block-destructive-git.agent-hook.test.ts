@@ -22,21 +22,37 @@ test("a refusal says what the call would destroy", () => {
   expect(refusalIn("git stash")).toContain("takes every uncommitted change")
 })
 
-test("a refusal over a body names the write and edit commands, with their flags filled in", () => {
+test("a refusal over a body says how to get that body before it says to write it", () => {
   const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
-  expect(said).toContain(
-    'akasha write --file-path <path> --content-file <body> --message "<why>"'
-  )
-  expect(said).toContain(
-    'akasha edit --file-path <path> --old-file <was> --new-file <now> --message "<why>"'
-  )
-  expect(said).toContain("--message-file <file>")
+  expect(said).toContain("git show HEAD:<path> > <body>")
+  expect(said.indexOf("git show HEAD:")).toBeLessThan(said.indexOf("akasha write"))
 })
 
-test("a refusal over a deletion names the remove command, with its flags filled in", () => {
-  expect(refusalIn("git rm akasha/one.ts")).toContain(
-    'akasha remove --file-path <path> --message "<why>"'
-  )
+test("a refusal over a body names a route inside akasha and a route outside it", () => {
+  const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
+  expect(said).toContain("under `akasha/`:  akasha write")
+  expect(said).toContain("anywhere else:    cp <body> <path>")
+})
+
+test("a refusal over a body says the worktree is shared, not that the file is akasha's", () => {
+  for (const command of ["git checkout -- one.ts", "git restore one.ts"]) {
+    expect(refusalIn(command)).toContain("This worktree is shared")
+  }
+})
+
+test("a refusal over a deletion names a route inside akasha and a route outside it", () => {
+  const said = refusalIn("git rm akasha/one.ts") ?? ""
+  expect(said).toContain("under `akasha/`:  akasha remove")
+  expect(said).toContain('anywhere else:    rm <path> && git commit -m "<why>" -- <path>')
+  expect(said).toContain("This worktree is shared")
+})
+
+test("a refusal names no flag of its own, and sends the reader to the help", () => {
+  for (const command of ["git rm one.ts", "git checkout -- one.ts", "git commit --amend"]) {
+    const said = refusalIn(command) ?? ""
+    expect(said).toContain("Say `akasha --help` for what each takes.")
+    expect(said).not.toContain("--file-path <path>")
+  }
 })
 
 test("a refusal with no akasha command behind it says none does it", () => {
@@ -57,7 +73,7 @@ test("an amend is refused, and a plain commit is not this hook's business", () =
 
 test("an amend refusal names the command that lands another commit", () => {
   expect(refusalIn("git commit --amend")).toContain(
-    'akasha write --file-path <path> --content-file <body> --message "<why>"'
+    "To change what a commit says, land another one with `akasha write`."
   )
 })
 
