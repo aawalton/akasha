@@ -252,3 +252,58 @@ test("the check reads the index under the root it was given, and no other", () =
   expect(pagePropertyHasItsFile(over(named, [CODE], bodies))).toHaveLength(1)
   expect(pagePropertyHasItsFile(over(bare, [CODE], bodies))).toEqual([])
 })
+
+const MODULE_TYPE = "akasha/t/module.page-type.ts"
+
+const ABSENT = `states \`code: "ts"\`, and no file stands at ${CODE}`
+
+function inWorktree(root: string, path: string): void {
+  const full = join(root, path)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, "", "utf8")
+}
+
+function declaring(stated: string): Record<string, Uint8Array> {
+  return {
+    [MODULE_TYPE]: body(
+      `, properties: [{ pagePropertySlug: "code"${stated} }]`,
+      "module",
+      "page-type",
+      `${ID.slice(0, -1)}6`
+    ),
+  }
+}
+
+test("a file holding an uncommitted value stands present when it is in the worktree, though the change never carries it", () => {
+  const root = rooted()
+  inWorktree(root, CODE)
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], {
+      ...declaring(", uncommitted: true"),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+  expect(said).toEqual([])
+})
+
+test("a file holding an uncommitted value that stands nowhere at all is refused like any other", () => {
+  const root = rooted()
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], {
+      ...declaring(", uncommitted: true"),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+  expect(said).toEqual([{ path: PAGE, reason: ABSENT }])
+})
+
+test("a declaration that does not say uncommitted is answered by the change, whatever stands in the worktree", () => {
+  const root = rooted()
+  inWorktree(root, CODE)
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], { ...declaring(""), [PAGE]: body(', code: "ts"'), [CODE]: null })
+  )
+  expect(said).toEqual([{ path: PAGE, reason: ABSENT }])
+})
