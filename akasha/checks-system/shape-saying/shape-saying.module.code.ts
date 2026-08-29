@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import type { Held } from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Held } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
 export function saidInside(
   folder: string,

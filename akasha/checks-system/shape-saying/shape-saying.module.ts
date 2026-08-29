@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const shapeSaying = {
   id: "01a04f44-705b-70b6-8537-9f2a66b2b56a",
