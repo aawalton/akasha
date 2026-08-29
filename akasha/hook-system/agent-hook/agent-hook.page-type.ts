@@ -16,6 +16,7 @@ export const agentHook = {
   partSlugs: [
     "agent-hook/block-akasha-edits",
     "agent-hook/block-akasha-reads",
+    "agent-hook/block-biome",
     "agent-hook/block-bun-test",
     "agent-hook/block-destructive-git",
     "agent-hook/block-git-writes",
