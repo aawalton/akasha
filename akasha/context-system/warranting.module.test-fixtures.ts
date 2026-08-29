@@ -1,9 +1,11 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { fileURLToPath } from "node:url"
+import { join } from "node:path"
+import { rootOf } from "../command-system/rooting/rooting.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
-const HERE = dirname(fileURLToPath(import.meta.url))
+const HERE = rootOf(import.meta.path) ?? ""
+
+const WARRANTS_IN = "akasha/context-system/context-warrant"
 
 const WARRANTS_AT = ".git/data/index/identity/context-warrant/slug"
 
@@ -14,7 +16,7 @@ const MINTED = "a warrant seeded for a test"
 export const WARRANTS: readonly string[] = ["file-itself", "file-page-type"]
 
 function realAt(slug: string): string {
-  return join(HERE, "context-warrant", slug, `${slug}.context-warrant.code.ts`)
+  return join(HERE, WARRANTS_IN, slug, `${slug}.context-warrant.code.ts`)
 }
 
 function pageFor(slug: string, id: string): string {
