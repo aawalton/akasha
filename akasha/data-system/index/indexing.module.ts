@@ -6,6 +6,7 @@ export const indexing = {
   slug: "indexing",
   definition: "the index entries a write adds and withdraws",
   code: "ts",
+  test: "ts",
   requiredReadingSlugs: [
     "akasha-page-edge",
     "index-identity",
