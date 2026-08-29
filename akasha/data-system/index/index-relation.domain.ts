@@ -5,9 +5,7 @@ export const indexRelation = {
   pageTypeSlug: "domain",
   slug: "index-relation",
   definition: "an index from a page to the pages naming it",
-  requiredReadingSlugs: [
-    "part-slugs",
-  ],
+  requiredReadingSlugs: ["page-property-type/part-slugs"],
   design: [
     "An edge file is found by target id, then source property, then source page id.",
     "An edge is filed under the target's id, whichever identifier the source wrote.",

@@ -8,10 +8,10 @@ export const indexing = {
   code: "ts",
   test: "ts",
   requiredReadingSlugs: [
-    "akasha-page-edge",
-    "corpus",
-    "index-identity",
-    "index-relation",
+    "domain/akasha-page-edge",
+    "module/corpus",
+    "domain/index-identity",
+    "domain/index-relation",
   ],
   design: [
     "A page's body can be loaded after the file it came from is gone.",

@@ -13,3 +13,26 @@ export const everyPageType = {
   pagePropertyType,
   pageType,
 } as const
+
+export type Extends = {
+  page: never
+  domain: "page"
+  module: "domain"
+  command: "module"
+  "page-type": "domain"
+  "page-property-type": "page-type"
+}
+
+export type PageTypeSlug = keyof Extends
+
+type Ancestry<K> = K extends PageTypeSlug ? K | Ancestry<Extends[K]> : never
+
+export type Under<T extends PageTypeSlug> = {
+  [K in PageTypeSlug]: T extends Ancestry<K> ? K : never
+}[PageTypeSlug]
+
+export type Many<T extends PageTypeSlug> = [Under<T>] extends [T] ? false : true
+
+export type Qualified<T extends PageTypeSlug> = `${Under<T>}/${string}`
+
+export type Value<T extends PageTypeSlug> = Many<T> extends true ? Qualified<T> : string

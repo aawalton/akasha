@@ -7,7 +7,7 @@ export const calling = {
   definition: "a call from outside answered by the command it names",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["command", "corpus"],
+  requiredReadingSlugs: ["page-type/command", "module/corpus"],
   design: [
     "Everything akasha cannot reach for itself arrives as one argument.",
     "A seat that identifies nobody is carried as nobody.",

@@ -7,7 +7,7 @@ export const write = {
   definition: "whole file bodies carried in, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["command", "landing", "reading", "corpus"],
+  requiredReadingSlugs: ["page-type/command", "module/landing", "module/reading", "module/corpus"],
   design: [
     "A write carries whole bodies, never a patch.",
     "A body arrives as a file, never as an argument.",

@@ -6,7 +6,7 @@ export const dataSystem = {
   slug: "data-system",
   definition: "how what the pages imply is derived and written down",
   partSlugs: ["index"],
-  requiredReadingSlugs: ["index"],
+  requiredReadingSlugs: ["domain/index"],
   design: [
     "The data system is written under `.git/data`, which git does not track.",
     "Every part of the data system can be written again from the pages alone.",

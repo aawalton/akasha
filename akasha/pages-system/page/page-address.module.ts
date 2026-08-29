@@ -7,7 +7,11 @@ export const pageAddress = {
   definition: "what form a relation value takes when it names a page",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["page-slug", "page-type-slug", "id"],
+  requiredReadingSlugs: [
+    "page-property-type/page-slug",
+    "page-property-type/page-type-slug",
+    "page-property-type/id",
+  ],
   design: [
     "This says what form an address takes and looks no page up.",
     "A page type and a slug are cut at the first `/`, so a slug may carry later ones.",

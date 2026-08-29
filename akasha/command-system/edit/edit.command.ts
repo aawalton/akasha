@@ -7,7 +7,13 @@ export const edit = {
   definition: "a span of a file replaced by another, landed through the same door as a write",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["command", "landing", "reading", "corpus", "write"],
+  requiredReadingSlugs: [
+    "page-type/command",
+    "module/landing",
+    "module/reading",
+    "module/corpus",
+    "command/write",
+  ],
   design: [
     "An edit becomes a whole body and lands as a write, reaching disk by no route of its own.",
     "A span matching nowhere, or in more than one place, is refused rather than guessed at.",

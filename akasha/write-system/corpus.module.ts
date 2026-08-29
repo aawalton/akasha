@@ -7,7 +7,12 @@ export const corpus = {
   definition: "the pages as they are on disk, addressed by slug and read as a tree",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["akasha-page-edge", "akasha-file", "part-slugs", "page"],
+  requiredReadingSlugs: [
+    "domain/akasha-page-edge",
+    "domain/akasha-file",
+    "page-property-type/part-slugs",
+    "page-type/page",
+  ],
   design: [
     "A slug alone is not an address.",
     "A relation admitting one page type takes a bare identifier.",

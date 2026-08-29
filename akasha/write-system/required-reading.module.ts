@@ -7,5 +7,5 @@ export const requiredReading = {
   definition: "what must be read before an act on a page is allowed",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["corpus"],
+  requiredReadingSlugs: ["module/corpus"],
 } as const satisfies Module

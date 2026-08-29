@@ -6,7 +6,7 @@ export const pagesSystem = {
   slug: "pages-system",
   definition: "how we keep track of things",
   partSlugs: ["page", "page-type", "page-property-type"],
-  requiredReadingSlugs: ["page", "page-type", "page-property-type"],
+  requiredReadingSlugs: ["page-type/page", "page-type/page-type", "page-type/page-property-type"],
   design: [
     "Page types and page property types are themselves page types.",
     "What makes a file a page is the page type its name carries.",

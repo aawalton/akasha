@@ -6,7 +6,11 @@ export const relationResolves = {
   slug: "relation-resolves",
   definition: "the check refusing a relation that names no page",
   code: "ts",
-  requiredReadingSlugs: ["akasha-check", "akasha-page-edge", "target-page-type-slug"],
+  requiredReadingSlugs: [
+    "domain/akasha-check",
+    "domain/akasha-page-edge",
+    "page-property-type/target-page-type-slug",
+  ],
   design: [
     "A relation check walks `extendsSlug`.",
     "The type carries which page type a relation may name; whether that page exists is a different claim, answered here.",

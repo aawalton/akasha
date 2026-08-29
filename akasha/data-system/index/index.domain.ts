@@ -5,15 +5,8 @@ export const index = {
   pageTypeSlug: "domain",
   slug: "index",
   definition: "which file holds each page, and which pages name it",
-  partSlugs: [
-    "index-identity",
-    "index-relation",
-    "indexing",
-  ],
-  requiredReadingSlugs: [
-    "index-identity",
-    "index-relation",
-  ],
+  partSlugs: ["index-identity", "index-relation", "indexing"],
+  requiredReadingSlugs: ["domain/index-identity", "domain/index-relation"],
   design: [
     "An index file is named for the value it answers.",
     "A value no page carries has no file.",
@@ -22,9 +15,7 @@ export const index = {
     "The index is written by the door and by nothing else.",
     "A page property held in its own file is not indexed.",
   ],
-  condition: [
-    "The index holds every page.",
-  ],
+  condition: ["The index holds every page."],
   intent: [
     "No page's entry is older than the files its properties hold.",
     "Nothing in the index differs from the pages.",

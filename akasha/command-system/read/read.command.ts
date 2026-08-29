@@ -8,7 +8,7 @@ export const read = {
     "a file and what is required for it, recorded as read, and on a re-read only what changed",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["corpus", "reading", "required-reading"],
+  requiredReadingSlugs: ["module/corpus", "module/reading", "module/required-reading"],
   design: [
     "A slug naming pages of two types is refused with a path for each, rather than answered with one of them.",
     "A read returns the whole file where the agent asks for it or nothing says what it last saw.",

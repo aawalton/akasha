@@ -6,7 +6,7 @@ export const domainSystem = {
   slug: "domain-system",
   definition: "how we define how things should be",
   partSlugs: ["domain"],
-  requiredReadingSlugs: ["domain"],
+  requiredReadingSlugs: ["page-type/domain"],
   design: ["Context a choice does not need does not reach the agent making it."],
   intent: ["Agents have the context each choice needs at the time they make it."],
 } as const satisfies Domain
