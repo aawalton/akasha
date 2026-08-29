@@ -6,6 +6,7 @@ import type { BodyStore, Record_ } from "../write-system/reading.module.code.ts"
 import { bodiesAt, recordAt } from "../write-system/reading.module.code.ts"
 
 export type Outside = {
+  readonly repo: string
   readonly root: string
   readonly seat: string | null
   readonly record: string
@@ -23,6 +24,7 @@ export type Answer = {
 }
 
 export type Given = {
+  readonly repo: string
   readonly root: string
   readonly corpus: Corpus
   readonly record: Record_
@@ -108,6 +110,7 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     )
   }
   return answering(argv.slice(1), {
+    repo: outside.repo,
     root,
     corpus,
     record: recordAt(outside.record),

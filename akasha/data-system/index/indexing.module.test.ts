@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { dirname, join } from "node:path"
+import { dirname, join, relative } from "node:path"
 import { indexingAt, rebuiltFrom, valueIn } from "./indexing.module.code.ts"
 
 type Held = Record<string, unknown>
@@ -69,7 +69,7 @@ const VOCABULARY: readonly (readonly [string, Held])[] = [
 function grounded(): { readonly tree: string; readonly root: string } {
   const tree = treeAt()
   const root = rootAt()
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   for (const [at, value] of VOCABULARY) {
     const path = put(tree, at, value)
     indexing.wrote(path, bodyOf(value), null)
@@ -85,12 +85,12 @@ test("a written page is answered by its id and by its page type and slug", () =>
   const root = rootAt()
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const at = put(tree, "a.domain.ts", value)
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(value), null)
   indexing.settle()
 
-  expect(JSON.parse(linesIn(idFile(root, A))[0] ?? "")).toEqual({ path: at, id: A })
-  expect(JSON.parse(linesIn(slugFile(root, "domain", "a"))[0] ?? "")).toEqual({ path: at, id: A })
+  expect(JSON.parse(linesIn(idFile(root, A))[0] ?? "")).toEqual({ path: relative(tree, at), id: A })
+  expect(JSON.parse(linesIn(slugFile(root, "domain", "a"))[0] ?? "")).toEqual({ path: relative(tree, at), id: A })
   rmSync(tree, { recursive: true, force: true })
   rmSync(root, { recursive: true, force: true })
 })
@@ -101,12 +101,12 @@ test("a renamed slug withdraws its old entry and leaves the id entry untouched",
   const was = { id: A, pageTypeSlug: "domain", slug: "a" }
   const now = { id: A, pageTypeSlug: "domain", slug: "renamed" }
   const at = put(tree, "a.domain.ts", was)
-  let indexing = indexingAt(root)
+  let indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(was), null)
   indexing.settle()
 
   writeFileSync(at, bodyOf(now))
-  indexing = indexingAt(root)
+  indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(now), bodyOf(was))
   indexing.settle()
 
@@ -122,11 +122,11 @@ test("a removed page leaves no entry and no empty directory", () => {
   const root = rootAt()
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const at = put(tree, "a.domain.ts", value)
-  let indexing = indexingAt(root)
+  let indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(value), null)
   indexing.settle()
 
-  indexing = indexingAt(root)
+  indexing = indexingAt(root, tree)
   indexing.took(at, bodyOf(value))
   indexing.settle()
 
@@ -142,7 +142,7 @@ test("two pages claiming one page type and slug leave two lines in one file", ()
   const root = rootAt()
   const one = { id: A, pageTypeSlug: "domain", slug: "same" }
   const two = { id: B, pageTypeSlug: "domain", slug: "same" }
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "one.domain.ts", one), bodyOf(one), null)
   indexing.wrote(put(tree, "two.domain.ts", two), bodyOf(two), null)
   indexing.settle()
@@ -156,11 +156,11 @@ test("a value naming its page type is filed under the target's id", () => {
   const { tree, root } = grounded()
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
   const at = put(tree, "a.domain.ts", value)
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(value), null)
   indexing.settle()
 
-  expect(JSON.parse(linesIn(edgeFile(root, B, "part-slugs", A))[0] ?? "")).toEqual({ path: at })
+  expect(JSON.parse(linesIn(edgeFile(root, B, "part-slugs", A))[0] ?? "")).toEqual({ path: relative(tree, at) })
   rmSync(tree, { recursive: true, force: true })
   rmSync(root, { recursive: true, force: true })
 })
@@ -169,7 +169,7 @@ test("a bare value reaches a page type extending the one its property names", ()
   const { tree, root } = grounded()
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["c"] }
   const at = put(tree, "a.domain.ts", value)
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(value), null)
   indexing.settle()
 
@@ -183,12 +183,12 @@ test("a retargeted value withdraws the edge it left", () => {
   const was = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
   const now = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
   const at = put(tree, "a.domain.ts", was)
-  let indexing = indexingAt(root)
+  let indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(was), null)
   indexing.settle()
 
   writeFileSync(at, bodyOf(now))
-  indexing = indexingAt(root)
+  indexing = indexingAt(root, tree)
   indexing.wrote(at, bodyOf(now), bodyOf(was))
   indexing.settle()
 
@@ -201,12 +201,12 @@ test("a retargeted value withdraws the edge it left", () => {
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {
   const { tree, root } = grounded()
   const clash = { id: D, pageTypeSlug: "module", slug: "b" }
-  let indexing = indexingAt(root)
+  let indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "b.module.ts", clash), bodyOf(clash), null)
   indexing.settle()
 
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["b"] }
-  indexing = indexingAt(root)
+  indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "a.domain.ts", value), bodyOf(value), null)
 
   const refused = indexing.settle() as unknown as readonly string[]
@@ -232,7 +232,7 @@ function everyFileUnder(at: string): readonly string[] {
 test("a rebuild from the pages agrees with the index a write left", () => {
   const tree = treeAt()
   const landed = rootAt()
-  const indexing = indexingAt(landed)
+  const indexing = indexingAt(landed, tree)
   for (const [at, value] of VOCABULARY) indexing.wrote(put(tree, at, value), bodyOf(value), null)
   const b = { id: B, pageTypeSlug: "domain", slug: "b" }
   const a = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
@@ -241,7 +241,7 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   indexing.settle()
 
   const rebuilt = rootAt()
-  rebuiltFrom(tree, rebuilt)
+  rebuiltFrom(tree, rebuilt, tree)
 
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
   rmSync(tree, { recursive: true, force: true })
@@ -255,12 +255,12 @@ test("a rebuild takes away an entry no page carries", () => {
   const kind = { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }
   put(tree, "domain.page-type.ts", kind)
   put(tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a" })
-  rebuiltFrom(tree, root)
+  rebuiltFrom(tree, root, tree)
 
   const stale = slugFile(root, "domain", "gone")
   mkdirSync(dirname(stale), { recursive: true })
   writeFileSync(stale, `${JSON.stringify({ path: "nowhere", id: C })}\n`)
-  rebuiltFrom(tree, root)
+  rebuiltFrom(tree, root, tree)
 
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
@@ -278,7 +278,7 @@ test("a file whose suffix names no page type is passed over without a word", () 
   const root = rootAt()
   const at = put(tree, "held.module.code.ts", { id: A })
   writeFileSync(at, `import { x } from "./nowhere.ts"\nexport const it = { id: x("${A}") }\n`)
-  const indexing = indexingAt(root)
+  const indexing = indexingAt(root, tree)
   indexing.wrote(at, readFileSync(at, "utf8"), null)
 
   expect((indexing.settle() as unknown as readonly string[]).length).toBe(0)
@@ -290,18 +290,43 @@ test("a page whose body will not load is reported rather than passed over", () =
   const tree = treeAt()
   const root = rootAt()
   const kind = { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }
-  let indexing = indexingAt(root)
+  let indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "domain.page-type.ts", kind), bodyOf(kind), null)
   indexing.settle()
 
   const at = join(tree, "broken.domain.ts")
   writeFileSync(at, "the new body")
-  indexing = indexingAt(root)
+  indexing = indexingAt(root, tree)
   indexing.wrote(at, "the new body", null)
 
   const noted = indexing.settle() as unknown as readonly string[]
   expect(noted.length).toBe(1)
   expect(noted[0] ?? "").toMatch(/did not load/)
+  rmSync(tree, { recursive: true, force: true })
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a path the index stores is relative to the repository root", () => {
+  const tree = treeAt()
+  const root = rootAt()
+  const indexing = indexingAt(root, tree)
+  for (const [at, value] of VOCABULARY) indexing.wrote(put(tree, at, value), bodyOf(value), null)
+  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
+  const a = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  indexing.wrote(put(tree, "b.domain.ts", b), bodyOf(b), null)
+  indexing.wrote(put(tree, "a.domain.ts", a), bodyOf(a), null)
+  indexing.settle()
+
+  const held = everyFileUnder(root).flatMap((one) =>
+    one
+      .split("\n")
+      .filter((line) => line.includes("{"))
+      .map((line) => line.slice(line.indexOf("{")))
+  )
+  expect(held.length).toBeGreaterThan(0)
+  for (const line of held) {
+    expect((JSON.parse(line) as { path: string }).path.startsWith("/")).toBe(false)
+  }
   rmSync(tree, { recursive: true, force: true })
   rmSync(root, { recursive: true, force: true })
 })

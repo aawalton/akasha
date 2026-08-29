@@ -26,6 +26,7 @@ export function outsideNow(
   seat: string | null,
   thrownAway: string | null
 ): {
+  repo: string
   root: string
   seat: string | null
   record: string
@@ -36,6 +37,7 @@ export function outsideNow(
   from: string
 } {
   return {
+    repo: REPO,
     root: `${REPO}/akasha`,
     seat,
     record: `${REPO}/.git/data/readings/${seat ?? "nobody"}.json`,

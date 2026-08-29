@@ -22,5 +22,6 @@ export const indexing = {
     "A value the index cannot resolve is reported, never thrown.",
     "A rebuild reads the index only to find what no page carries.",
     "A body that will not load is reported only for a page.",
+    "The repository root is given to the index rather than derived from where the index sits.",
   ],
 } as const satisfies Module

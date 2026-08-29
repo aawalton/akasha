@@ -10,7 +10,7 @@ import {
   rmdirSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import { tmpdir } from "node:os"
 import type { Indexing } from "../../write-system/landing.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
@@ -62,9 +62,10 @@ export function valueIn(body: string): Value | null {
   return loadedFrom(body).value
 }
 
-function valueAt(path: string): Value | null {
-  if (!existsSync(path)) return null
-  return loadedFrom(readFileSync(path, "utf8")).value
+function valueAt(path: string, repo: string): Value | null {
+  const at = isAbsolute(path) ? path : join(repo, path)
+  if (!existsSync(at)) return null
+  return loadedFrom(readFileSync(at, "utf8")).value
 }
 
 export function pageTypesIn(root: string): ReadonlySet<string> {
@@ -81,6 +82,10 @@ export function pageTyped(path: string, pageTypes: ReadonlySet<string>): boolean
   return said !== null && said[2] !== undefined && pageTypes.has(said[2])
 }
 
+function under(repo: string, path: string): string {
+  return isAbsolute(path) ? relative(repo, path) : path
+}
+
 function textAt(value: Value, key: string): string | null {
   const held = value[key]
   return typeof held === "string" ? held : null
@@ -90,12 +95,12 @@ function kebab(key: string): string {
   return key.replace(/[A-Z]/g, (one) => `-${one.toLowerCase()}`)
 }
 
-export function identityIn(value: Value, path: string): readonly Entry[] {
+export function identityIn(value: Value, path: string, repo: string): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
-  const line = JSON.stringify({ path, id })
+  const line = JSON.stringify({ path: under(repo, path), id })
   return [
     { at: join("identity", "page", "id", `${id}.jsonl`), line },
     { at: join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line },
@@ -152,11 +157,11 @@ function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
   return found
 }
 
-export function knownIn(root: string): Known {
+export function knownIn(root: string, repo: string): Known {
   const target = new Map<string, string>()
   const entry = new Map<string, string>()
   for (const one of everyPageOf(root, "page-property-type")) {
-    const value = valueAt(one.path)
+    const value = valueAt(one.path, repo)
     if (value === null) continue
     const slug = textAt(value, "slug")
     if (slug === null) continue
@@ -173,7 +178,7 @@ export function knownIn(root: string): Known {
 
   const above = new Map<string, string>()
   for (const one of everyPageOf(root, "page-type")) {
-    const value = valueAt(one.path)
+    const value = valueAt(one.path, repo)
     if (value === null) continue
     const slug = textAt(value, "slug")
     const extendsSlug = textAt(value, "extendsSlug")
@@ -269,10 +274,10 @@ export type Filed = {
 
 const NOTHING_FILED: Filed = { entries: [], refused: [] }
 
-export function relationIn(value: Value, path: string, known: Known): Filed {
+export function relationIn(value: Value, path: string, known: Known, repo: string): Filed {
   const id = textAt(value, "id")
   if (id === null) return NOTHING_FILED
-  const line = JSON.stringify({ path })
+  const line = JSON.stringify({ path: under(repo, path) })
   const entries: Entry[] = []
   const refused: string[] = []
   for (const [key, held] of Object.entries(value)) {
@@ -385,17 +390,18 @@ function reconcile(under: string, entries: readonly Entry[], root: string): void
 
 export function rebuiltFrom(
   tree: string,
-  root: string
+  root: string,
+  repo: string
 ): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
-    const value = valueAt(path)
+    const value = valueAt(path, repo)
     if (value !== null) held.push({ path, value })
   }
-  const identity = held.flatMap((one) => identityIn(one.value, one.path))
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo))
   reconcile(join(root, "identity"), identity, root)
-  const known = knownIn(root)
-  const filed = held.map((one) => relationIn(one.value, one.path, known))
+  const known = knownIn(root, repo)
+  const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, "relation"), relation, root)
   return {
@@ -405,7 +411,7 @@ export function rebuiltFrom(
   }
 }
 
-export function indexingAt(root: string): Indexing {
+export function indexingAt(root: string, repo: string): Indexing {
   const pending = new Map<string, Pending>()
 
   const note = (path: string, before: string | null, after: string | null): void => {
@@ -437,13 +443,13 @@ export function indexingAt(root: string): Indexing {
 
       settleOver(
         root,
-        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path))),
-        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path)))
+        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo))),
+        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo)))
       )
 
-      const known = knownIn(root)
-      const was = held.map((one) => (one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known)))
-      const now = held.map((one) => (one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known)))
+      const known = knownIn(root, repo)
+      const was = held.map((one) => (one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known, repo)))
+      const now = held.map((one) => (one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)))
       settleOver(
         root,
         was.flatMap((one) => one.entries),

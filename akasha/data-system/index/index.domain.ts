@@ -14,6 +14,7 @@ export const index = {
     "A directory is divided into no buckets.",
     "The index is written by the door and by nothing else.",
     "A page property held in its own file is not indexed.",
+    "A path in the index is relative to the repository root.",
   ],
   condition: ["The index holds every page."],
   intent: [

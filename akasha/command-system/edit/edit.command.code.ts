@@ -159,7 +159,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
     corpus: given.corpus,
     record: given.record,
     writer: given.writer,
-    index: indexingAt(given.index),
+    index: indexingAt(given.index, given.repo),
     bodies: given.bodies,
     readAs: `${given.calledAs.replace(/ edit$/, "")} read`,
     judge: nothingJudged(),
