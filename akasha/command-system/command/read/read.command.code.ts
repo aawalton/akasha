@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
-import type { Answer, Given } from "../../calling.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
@@ -15,6 +15,14 @@ const INSIDE = "akasha"
 const NUMBER_WIDTH = 6
 
 const LEADING = 8
+
+export const surface: Surface = {
+  taking: [{ said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read whole" }],
+  notes: [
+    `${FILE_PATH} repeats, so several files come back from one call.`,
+    `a read takes no line range, and one answer holds ${ANSWER_CEILING} bytes.`,
+  ],
+}
 
 export type Target = {
   readonly named: string

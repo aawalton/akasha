@@ -2,11 +2,12 @@ import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
 import { indexIn, standingByPath } from "../../../data-system/index/index-reading.module.code.ts"
-import type { Answer, Given } from "../../calling.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
+  COMMITTING,
   DRY_RUN,
   glassIn,
   landingAsked,
@@ -28,6 +29,19 @@ const TO = "--to"
 const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
+
+export const surface: Surface = {
+  taking: [
+    { said: `${FROM} <path>`, takes: "the path a body stands at now" },
+    { said: `${TO} <path>`, takes: "the path it arrives at, called the same name" },
+    ...COMMITTING,
+  ],
+  notes: [
+    `${FROM} and ${TO} repeat in pairs, so several bodies move in one commit.`,
+    "a page states its own slug, so a move carries a body and never renames it.",
+    "the `code` and `test` files standing beside what you name go with it.",
+  ],
+}
 
 const RELATIVE = /^\.\.?\//
 

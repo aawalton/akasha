@@ -9,7 +9,7 @@ import type { Given } from "../../calling.module.code.ts"
 import { calling } from "../../calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { driftBetween, index, readIn } from "./index.command.code.ts"
+import { driftBetween, index, readIn, surface } from "./index.command.code.ts"
 
 const CODE_AT = "akasha/command-system/command/index/index.command.code.ts"
 
@@ -297,4 +297,11 @@ test("what stands in one and not the other is what drift names", () => {
     changed: ["changed"],
     went: ["went"],
   })
+})
+
+test("every act and flag the surface shows is one this takes", () => {
+  for (const one of surface.taking) {
+    const said = readIn([one.said.split(" ")[0] ?? ""])
+    expect("refused" in said ? said.refused.join(" ") : "").not.toContain("this takes")
+  }
 })

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { ANSWER_CEILING, costOf, read } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, read, surface } from "./read.command.code.ts"
 
 const CALLED_AS = "akasha read"
 
@@ -186,4 +186,12 @@ test("the call for the rest reads exactly what was left, and then the set is don
   const returned = second.report.filter((one) => one.includes("the whole file follows"))
   expect(returned.length).toBe(left.length)
   expect(costOf(second.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+})
+
+test("every argument the surface shows is an argument this takes", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
+  for (const one of surface.taking) {
+    const said = read([one.said.split(" ")[0] ?? ""], givenAt(root))
+    expect(said.refusals.join(" ")).not.toContain("this takes")
+  }
 })

@@ -4,7 +4,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { write } from "./write.command.code.ts"
+import { surface, write } from "./write.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
@@ -235,4 +235,12 @@ test("a change asking for what already stands commits nothing and says so", () =
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing was committed")
   expect(headOf(root)).toBe(was)
+})
+
+test("every flag the surface shows is a flag this takes", () => {
+  const given = givenIn("/nowhere")
+  for (const one of surface.taking) {
+    const said = write([one.said.split(" ")[0] ?? ""], given)
+    expect(said.refusals.join(" ")).not.toContain("this takes")
+  }
 })

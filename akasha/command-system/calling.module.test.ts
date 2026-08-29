@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { calling, commandsIn } from "./calling.module.code.ts"
+import { calling, commandsIn, HELP, HELP_SHORT } from "./calling.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 const COMMANDS_AT = ".git/data/index/identity/command/slug"
@@ -20,7 +20,12 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function rootWith(
-  named: readonly { readonly slug: string; readonly body: string; readonly also?: string }[]
+  named: readonly {
+    readonly slug: string
+    readonly body: string
+    readonly also?: string
+    readonly definition?: string
+  }[]
 ): string {
   const root = scratch.rootFor("akasha-calling-")
   mkdirSync(join(root, COMMANDS_AT), { recursive: true })
@@ -28,7 +33,9 @@ function rootWith(
   for (const one of named) {
     const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
-    writeFileSync(join(root, at), `export const ${one.slug} = { slug: "${one.slug}" }\n`)
+    const stated =
+      one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
+    writeFileSync(join(root, at), `export const ${one.slug} = { slug: "${one.slug}"${stated} }\n`)
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
     const lines = [JSON.stringify({ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` })]
@@ -134,4 +141,59 @@ test("the commands there are come from the index", () => {
     { slug: "other", body: ANSWERS },
   ])
   expect(commandsIn(root)).toEqual(["held", "other"])
+})
+
+const SURFACED = `export function held(argv, given) {
+  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
+}
+
+export const surface = {
+  taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
+  notes: ["it repeats."],
+}
+`
+
+test("asking for help lists the commands with what each page says it is for", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
+  const said = calling([HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report).toContain("  akasha held  what held is for")
+  expect(said.report).toContain("say `akasha <command> --help` for what one takes")
+})
+
+test("`-h` says what `--help` says", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
+  expect(calling([HELP_SHORT], { ...OUTSIDE, root })).toEqual(calling([HELP], { ...OUTSIDE, root }))
+})
+
+test("a command whose page states no definition is listed by name alone", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  const said = calling([HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report).toContain("  akasha held")
+})
+
+test("a command answers for help out of the surface its own code states", () => {
+  const root = rootWith([{ slug: "held", body: SURFACED, definition: "what held is for" }])
+  const said = calling(["held", HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
+  expect(said.report[0]).toBe("akasha held — what held is for")
+  expect(said.report).toContain("  --file-path <path>  a path it takes")
+  expect(said.report).toContain("it repeats.")
+})
+
+test("a command stating no surface is handed the flag to answer for itself", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  const said = calling(["held", HELP], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("--help")
+})
+
+test("a name no command carries is told where the surface is written down", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  const said = calling(["nowhere"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })

@@ -178,3 +178,23 @@ test("the codes are the ones the outer cli uses", () => {
   expect(INPUT).toBe(1)
   expect(UNCLASSIFIED).toBe(70)
 })
+
+test("akasha tells its own surface, and each command tells the flags it takes", () => {
+  const root = checkoutOf()
+
+  const listing = ran(root, ["--help"])
+  expect(listing.code).toBe(OK)
+  expect(listing.said).toContain("akasha carries these commands:")
+  expect(listing.said).toContain("whole file bodies carried in")
+  expect(listing.said).toContain("say `akasha <command> --help` for what one takes")
+
+  const writing = ran(root, ["write", "--help"])
+  expect(writing.code).toBe(OK)
+  expect(writing.said).toContain("--content-file <file>")
+  expect(writing.said).toContain("--break-the-glass <reason>")
+
+  const editing = ran(root, ["edit", "-h"])
+  expect(editing.code).toBe(OK)
+  expect(editing.said).toContain("--old-file <file>")
+  expect(editing.said).toContain("--message <text>")
+}, 60000)

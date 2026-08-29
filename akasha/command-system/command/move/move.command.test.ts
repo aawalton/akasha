@@ -5,7 +5,15 @@ import { afterAll, expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
 import { admitting, refusing } from "../../minting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { besideOf, move, pairsIn, PATHS_AT, repointed, underAkasha } from "./move.command.code.ts"
+import {
+  besideOf,
+  move,
+  pairsIn,
+  PATHS_AT,
+  repointed,
+  surface,
+  underAkasha,
+} from "./move.command.code.ts"
 
 const scratch = scratchWorld()
 
@@ -347,4 +355,11 @@ test("a specifier reaching a file that moves in the same act reaches its new pat
   )
   expect(said).toContain('from "../four/other.module.code.ts"')
   expect(said).toContain('import ts from "typescript"')
+})
+
+test("every flag the surface shows is a flag this takes", () => {
+  for (const one of surface.taking) {
+    const said = pairsIn([one.said.split(" ")[0] ?? ""])
+    expect("refused" in said ? said.refused : "").not.toContain("this takes")
+  }
 })

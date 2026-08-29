@@ -10,6 +10,7 @@ import {
   namedIn,
   pruneEmptied,
   remove,
+  surface,
   underAkasha,
   wouldEmpty,
 } from "./remove.command.code.ts"
@@ -328,4 +329,11 @@ test("the directories a removal could empty stop at the akasha folder", () => {
 test("a path is read against the folder the call ran in", () => {
   expect(underAkasha("/root", "/root/akasha/one", "held.ts")).toBe("akasha/one/held.ts")
   expect(underAkasha("/root", "/root", "elsewhere/held.ts")).toBeNull()
+})
+
+test("every flag the surface shows is a flag this takes", () => {
+  for (const one of surface.taking) {
+    const said = namedIn([one.said.split(" ")[0] ?? ""])
+    expect("refused" in said ? said.refused : "").not.toContain("this takes")
+  }
 })

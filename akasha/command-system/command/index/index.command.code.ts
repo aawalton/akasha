@@ -3,7 +3,7 @@ import { dirname, join, relative, resolve } from "node:path"
 import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import { headOf, stampIn, unlandedIn } from "../../../data-system/index/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../data-system/index/indexing.module.code.ts"
-import type { Answer, Given } from "../../calling.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { holding, oneLine } from "../../landing.module.code.ts"
 
 export const REFRESH = "refresh"
@@ -29,6 +29,18 @@ const COMMITTING = new Map<string, string>([
   ["--message-file", "says what a commit is for, and a refresh makes none"],
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
+
+export const surface: Surface = {
+  taking: [
+    { said: REFRESH, takes: "build the index over `akasha/` as it stands and put it in place" },
+    { said: DRY_RUN, takes: "say what the rebuild would change and put nothing in place" },
+    { said: UNLANDED, takes: "build over paths standing apart from HEAD" },
+  ],
+  notes: [
+    `${REFRESH} is the act it carries, and one call names one act.`,
+    "a refresh makes no commit, so it takes no message and runs no check.",
+  ],
+}
 
 export type Read =
   | { readonly act: string; readonly dryRun: boolean; readonly unlanded: boolean }

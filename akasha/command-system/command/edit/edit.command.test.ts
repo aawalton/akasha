@@ -5,7 +5,7 @@ import { join } from "node:path"
 import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
-import { edit } from "./edit.command.code.ts"
+import { edit, surface } from "./edit.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
@@ -315,4 +315,12 @@ test("several files are one act, refused whole when one of them cannot be worked
   expect(said.code).toBe(2)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("alpha\n")
   expect(headOf(root)).toBe(was)
+})
+
+test("every flag the surface shows is a flag this takes", () => {
+  const given = givenIn("/nowhere")
+  for (const one of surface.taking) {
+    const said = edit([one.said.split(" ")[0] ?? ""], given)
+    expect(said.refusals.join(" ")).not.toContain("this takes")
+  }
 })

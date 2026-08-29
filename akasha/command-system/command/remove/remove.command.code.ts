@@ -1,11 +1,12 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
-import type { Answer, Given } from "../../calling.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
+  COMMITTING,
   DRY_RUN,
   FILE_PATH,
   glassIn,
@@ -22,6 +23,18 @@ const INSIDE = `${AKASHA}/`
 const TS = ".ts"
 
 const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+
+export const surface: Surface = {
+  taking: [
+    { said: `${FILE_PATH} <path>`, takes: "a path under `akasha/` to take away" },
+    ...COMMITTING,
+  ],
+  notes: [
+    `${FILE_PATH} repeats, so several paths go in one commit.`,
+    "a directory named takes away every file git holds under it.",
+    "the `code` and `test` files standing beside what you name go with it.",
+  ],
+}
 
 const BESIDE = /^(code|test)\.[a-z0-9]+$/
 
