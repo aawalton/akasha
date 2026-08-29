@@ -5,6 +5,7 @@ export const graphSystem = {
   pageTypeSlug: "domain",
   slug: "graph-system",
   definition: "what follows from the pages, and what each answer rests on",
+  partSlugs: ["page-type/graph-node", "page-type/graph-edge", "page-type/graph-attribute"],
   invariants: [
     {
       invariantKind: "departure",
