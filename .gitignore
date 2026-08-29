@@ -1,4 +1,45 @@
+# Page data held outside git deliberately.
 *.uncommitted.yaml
 *.uncommitted.jsonl
 *.uncommitted.attachment.*
 *.lock/
+
+# Agent runtime state. `pages/repo/akasha-repo.repo.md` holds that nothing under
+# `.claude` is tracked here.
+.supervisors/
+.claude/
+
+# Installed dependencies and compiled output.
+node_modules/
+dist/
+*.tsbuildinfo
+
+# infra/scripts/__fixtures__ is a fixture tree whose fake node_modules/ and
+# dist/ folders are the thing under test, so it is exempt from the two rules
+# above.
+!infra/scripts/__fixtures__/**
+
+# Declarations tsc emits beside the .ts they came from. Hand-written
+# declarations live under types/ or in the trees named below, and none of those
+# hold an emitted one.
+*.d.ts
+!**/types/**/*.d.ts
+!checks-system/**/*.d.ts
+!editor-extension/**/*.d.ts
+!lua-compiler/**/*.d.ts
+!patches/**/*.d.ts
+!temper/*-addon/**/*.d.ts
+
+# JavaScript compiled in place beside the TypeScript it came from. Every other
+# package emits to dist/ instead.
+temper/addons/scripts/**/*.js
+
+# Kubernetes manifests synthesized from their TypeScript source.
+*.generated.yaml
+
+# Python bytecode.
+__pycache__/
+*.pyc
+
+# Private keys.
+*.key
