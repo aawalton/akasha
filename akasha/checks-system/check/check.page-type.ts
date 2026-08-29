@@ -50,6 +50,11 @@ export const check = {
       statement: "Audit is a phase like any other, and a check states whether it runs there.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A check running on no phase has landed and does not yet judge, which is how a check states its rule before it binds anyone.",
+    },
+    {
       invariantKind: "gap",
       statement: "A check looks for no files.",
     },
@@ -88,13 +93,15 @@ export const check = {
     },
     {
       directiveKind: "rule",
-      name: "Zero At Landing",
-      act: "Fix every violation a new check finds before landing it, never freezing the ones left into a list.",
+      name: "Zero At Turning On",
+      act: "Fix every violation a check finds before any phase of it runs, never freezing the ones left into a list.",
       warrant:
-        "The check reads green while every defect it found is still there, so it blocks nobody.",
+        "A check that judges while the defects it found still stand reads green and blocks nobody.",
       aids: [
-        "Never narrow its reach to make the count zero.",
-        "Where zero is out of reach, do not land it.",
+        "A check may land with every phase off, which claims nothing and hides nothing.",
+        "Landing it off puts the rule up for argument before it binds anyone.",
+        "Never narrow a judging check's reach to make the count zero.",
+        "Where zero is out of reach, leave every phase off until it is not.",
       ],
     },
   ],
