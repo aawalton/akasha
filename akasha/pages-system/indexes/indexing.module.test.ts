@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { everyFileUnder } from "../../testing-system/walking.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
   A,
@@ -12,7 +13,6 @@ import {
   C,
   D,
   edgeFile,
-  everyFileUnder,
   grounded,
   heldAt,
   IMPORTS,

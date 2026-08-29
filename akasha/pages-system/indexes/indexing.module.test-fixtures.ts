@@ -124,8 +124,6 @@ export function grounded(): Pair {
   return { tree, root }
 }
 
-export { everyFileUnder } from "../../testing-system/walking.module.code.ts"
-
 export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
 
 export const IMPORTS_AT = "d/a.module.code.ts"
