@@ -10,4 +10,5 @@ person-slug: alan
 start-mode: interactive
 on-call: true
 registration-account: aawalton
+transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/bb1a57b9-ae2a-486a-95db-8b3a5ced3d4d.jsonl
 ---
