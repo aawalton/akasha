@@ -8,6 +8,7 @@ export const testingSystem = {
   partSlugs: [
     "domain/test",
     "domain/test-fixture",
+    "module/declaring",
     "module/minting",
     "module/bodying",
     "module/gitting",

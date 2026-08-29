@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { stampKept } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+import { declaring } from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
@@ -68,6 +69,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
   admitting(root)
+  declaring(root)
   return root
 }
 

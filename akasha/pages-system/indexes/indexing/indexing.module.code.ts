@@ -206,7 +206,7 @@ function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, string
 }
 
 const NOTHING_DECLARES =
-  "the pages declare page properties and none of them declares a `unique`, so no identity would be filed — the index refuses rather than answering empty"
+  "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
 
 function refusingEmpty(unique: ReadonlyMap<string, string>, properties: number): void {
   if (properties > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
@@ -225,7 +225,7 @@ export function rebuiltFrom(
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
   const unique = uniquePropertiesIn(held.map((one) => one.value))
   const schema = held.flatMap((one) => schemaIn(one.value))
-  refusingEmpty(unique, schema.length)
+  refusingEmpty(unique, held.length)
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, unique))
   reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
@@ -299,7 +299,7 @@ export function settlingOver(
     ...uniquePropertiesIn(standing),
   ])
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
-  refusingEmpty(unique, schemaAt(reading).size + nowSchema.length)
+  refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const identity = filingOf(
     reading,
     held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo, unique))),

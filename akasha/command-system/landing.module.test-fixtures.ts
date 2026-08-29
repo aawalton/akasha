@@ -3,7 +3,6 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import type { Value } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { schemaIn } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { bodyOf, thePage } from "../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
 import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../pages-system/page/properties/slug.text-property.ts"
@@ -72,14 +71,3 @@ export const CARRIED: readonly Change[] = REAL.map((page) => {
   const [at, value] = thePage(page)
   return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
 })
-
-export function declaring(root: string): void {
-  const pages: readonly Value[] = [idPage, slugPage]
-  for (const page of pages) {
-    for (const one of schemaIn(page)) {
-      const at = join(indexIn(root), one.at)
-      mkdirSync(join(at, ".."), { recursive: true })
-      writeFileSync(at, `${one.line}\n`)
-    }
-  }
-}

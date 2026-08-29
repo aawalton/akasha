@@ -50,7 +50,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "A world declaring properties and none of them unique is refused, because identity would file nothing and say nothing of it.",
+        "A world carrying pages and declaring no property unique is refused, because identity would file nothing and say nothing of it.",
     },
     {
       invariantKind: "gap",

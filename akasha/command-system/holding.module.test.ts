@@ -3,11 +3,11 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import { bytesOf as bytes } from "../testing-system/bodying/bodying.module.code.ts"
+import { declaring } from "../testing-system/declaring/declaring.module.code.ts"
 import { gitIn as git } from "../testing-system/gitting/gitting.module.code.ts"
 import { until } from "../testing-system/waiting/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
-import { declaring } from "./landing.module.test-fixtures.ts"
 import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname

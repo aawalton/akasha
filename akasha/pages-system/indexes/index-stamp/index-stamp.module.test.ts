@@ -2,6 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import {
+  declaring,
+  declaringUnder,
+} from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { indexingAt, rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import {
@@ -177,6 +181,7 @@ test("a checkout of a branch leaving the tree unchanged is fresh", () => {
 
 test("a rebuild stamps the commit the pages were read at", () => {
   const repo = repoAt()
+  for (const [at, body] of Object.entries(declaringUnder(TREE))) committed(repo, at, body)
   const head = committed(repo, `${TREE}/a.page-type.ts`, A_PAGE)
   rebuiltFrom(join(repo, TREE), indexAt(repo), repo)
 
@@ -185,6 +190,7 @@ test("a rebuild stamps the commit the pages were read at", () => {
 
 test("a settle names on the stamp the paths it covered", () => {
   const repo = repoAt()
+  for (const [at, body] of Object.entries(declaringUnder(TREE))) committed(repo, at, body)
   committed(repo, `${TREE}/a.page-type.ts`, A_PAGE)
   rebuiltFrom(join(repo, TREE), indexAt(repo), repo)
   const held = indexingAt(indexAt(repo), repo)
@@ -196,6 +202,7 @@ test("a settle names on the stamp the paths it covered", () => {
 
 test("a settle over an unstamped index stamps nothing", () => {
   const repo = repoAt()
+  declaring(repo)
   committed(repo, `${TREE}/a.page-type.ts`, A_PAGE)
   const held = indexingAt(indexAt(repo), repo)
   held.wrote(`${TREE}/b.page-type.ts`, A_PAGE, null)

@@ -28,12 +28,7 @@ export const testFixture = {
     {
       invariantKind: "departure",
       statement:
-        "A system reading what the pages declare refuses a world declaring properties and none of them unique, rather than answering empty.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A world carrying pages and declaring no property at all is refused as well, rather than filed as nothing.",
+        "A system reading what the pages declare refuses a world that carries pages and declares no property unique, rather than answering empty.",
     },
   ],
   directives: [
