@@ -1,8 +1,8 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { calling, commandsIn } from "./calling.module.code.ts"
+import { scratchWorld } from "./scratching.module.code.ts"
 
 const COMMANDS_AT = ".git/data/index/identity/command/slug"
 
@@ -15,10 +15,14 @@ const ANSWERS_NOTHING = `export const held = 1\n`
 
 const WILL_NOT_LOAD = `export function held( {\n`
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function rootWith(
   named: readonly { readonly slug: string; readonly body: string; readonly also?: string }[]
 ): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-calling-"))
+  const root = scratch.rootFor("akasha-calling-")
   mkdirSync(join(root, COMMANDS_AT), { recursive: true })
   let minted = 0
   for (const one of named) {
@@ -44,7 +48,6 @@ test("a command is found through the index and handed the rest of the line", () 
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("one two")
   expect(said.report[1]).toBe("akasha held")
-  rmSync(root, { recursive: true })
 })
 
 test("naming no command is answered with the commands there are", () => {
@@ -53,7 +56,6 @@ test("naming no command is answered with the commands there are", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("takes a command")
   expect(said.refusals[0]).toContain("akasha held")
-  rmSync(root, { recursive: true })
 })
 
 test("a name no command carries is refused, and the commands are listed", () => {
@@ -61,7 +63,6 @@ test("a name no command carries is refused, and the commands are listed", () => 
   const said = calling(["nowhere"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("`nowhere` is no command akasha carries")
-  rmSync(root, { recursive: true })
 })
 
 test("a name carried by more than one command is refused rather than chosen between", () => {
@@ -69,7 +70,6 @@ test("a name carried by more than one command is refused rather than chosen betw
   const said = calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names more than one")
-  rmSync(root, { recursive: true })
 })
 
 test("a command page whose code answers to nothing callable is refused", () => {
@@ -77,7 +77,6 @@ test("a command page whose code answers to nothing callable is refused", () => {
   const said = calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("answers to nothing that can be called")
-  rmSync(root, { recursive: true })
 })
 
 test("a command page whose code will not load is refused with why, not with a guess", () => {
@@ -86,7 +85,6 @@ test("a command page whose code will not load is refused with why, not with a gu
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("could not be loaded — ")
   expect(said.refusals[0]).not.toContain("answers to nothing")
-  rmSync(root, { recursive: true })
 })
 
 const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
@@ -111,7 +109,6 @@ test("the command that repairs the index is found with no index at all", () => {
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("refresh")
   expect(said.report[1]).toBe("akasha index")
-  rmSync(root, { recursive: true })
 })
 
 test("a command found by its path is listed though the index names it nowhere", () => {
@@ -120,7 +117,6 @@ test("a command found by its path is listed though the index names it nowhere", 
   const said = calling([], { ...OUTSIDE, root })
   expect(said.refusals[0]).toContain("akasha index")
   expect(said.refusals[0]).toContain("akasha held")
-  rmSync(root, { recursive: true })
 })
 
 test("a name looked for where no index stands is answered as unread, not as uncarried", () => {
@@ -130,7 +126,6 @@ test("a name looked for where no index stands is answered as unread, not as unca
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("was looked for and not read")
   expect(said.refusals[0]).not.toContain("is no command akasha carries")
-  rmSync(root, { recursive: true })
 })
 
 test("the commands there are come from the index", () => {
@@ -139,5 +134,4 @@ test("the commands there are come from the index", () => {
     { slug: "other", body: ANSWERS },
   ])
   expect(commandsIn(root)).toEqual(["held", "other"])
-  rmSync(root, { recursive: true })
 })
