@@ -5,6 +5,8 @@ import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const NAMED =/^(.+)\.([a-z0-9-]+)\.ts$/
 
+const HELD_IN_A_FILE = ["code", "test"]
+
 const SLUG = "slug"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
@@ -62,6 +64,7 @@ export function reasonsIn(given: Body): readonly string[] {
   const stem = said[1]
   const suffix = said[2]
   if (stem === undefined || suffix === undefined) return []
+  if (HELD_IN_A_FILE.includes(suffix)) return []
   const text = bodyOf(given)
   if (text === null) return []
   const stated = pageIn(given.path, text)

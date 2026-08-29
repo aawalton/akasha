@@ -25,6 +25,15 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
+      statement: "A file is a page only where its own name states a page type.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A page property's file, named `.code.ts` or `.test.ts`, states no page type, so it is not judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The name is judged against what the page states, never against the index.",
     },
   ],

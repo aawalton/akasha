@@ -77,8 +77,29 @@ test("a file is judged by its own name rather than by the folders above it", () 
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  const body = page("corpus.module", "code")
+  const body = page("held.corpus", "module")
+  expect(reasonsIn(given("akasha/held.corpus.module.ts", body))).toEqual([])
+})
+
+test("a page property's code file is no page, so a value it holds is passed over", () => {
+  const body = page("corpse", "domain")
   expect(reasonsIn(given("akasha/corpus.module.code.ts", body))).toEqual([])
+})
+
+test("a page property's test file is no page, so a fixture it holds is passed over", () => {
+  const body = page("note", "page-property-type")
+  expect(reasonsIn(given("akasha/data-system/index/indexing.module.test.ts", body))).toEqual([])
+})
+
+test("a fixture written plainly at the top of a test file is passed over", () => {
+  const body = 'const NOTE = {\n  pageTypeSlug: "page-property-type",\n  slug: "note",\n}\n'
+  expect(reasonsIn(given("akasha/index-schema.module.test.ts", body))).toEqual([])
+})
+
+test("a real page file is still judged, so the reach is narrowed to page files alone", () => {
+  const said = reasonsIn(given("akasha/corpus.module.ts", page("corpse", "module")))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("names itself `corpse`")
 })
 
 test("a value stating a slug but no page type is no page here, so it is passed over", () => {
