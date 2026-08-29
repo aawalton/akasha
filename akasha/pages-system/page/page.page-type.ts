@@ -14,6 +14,7 @@ export const page = {
   pageTypeSlug: "page-type",
   slug: "page",
   definition: "all that is kept about one thing",
+  pluralSlug: "pages",
   extendsSlug: null,
   properties: [
     { pagePropertySlug: "id", required: true, many: false },

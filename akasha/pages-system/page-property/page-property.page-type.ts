@@ -15,6 +15,7 @@ export const pageProperty = {
   pageTypeSlug: "page-type",
   slug: "page-property",
   definition: "one value a page carries",
+  pluralSlug: "page-properties",
   partSlugs: [
     "module/page-property-key",
     "number-property/max",

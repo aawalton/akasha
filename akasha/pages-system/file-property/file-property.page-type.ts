@@ -8,5 +8,6 @@ export const fileProperty = {
   pageTypeSlug: "page-type",
   slug: "file-property",
   definition: "a page property held in its own file",
+  pluralSlug: "file-properties",
   extendsSlug: "page-type/page-property",
 } as const satisfies PageType

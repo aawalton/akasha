@@ -11,6 +11,7 @@ export const namePlace = {
   pageTypeSlug: "page-type",
   slug: "name-place",
   definition: "a place a name appears, and the format it is written in there",
+  pluralSlug: "name-places",
   partSlugs: [
     "name-place/component-identifier",
     "name-place/constant-identifier",

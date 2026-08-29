@@ -8,6 +8,7 @@ export const generatorKind = {
   pageTypeSlug: "page-type",
   slug: "generator-kind",
   definition: "how a property's value is worked out when its page is created",
+  pluralSlug: "generator-kinds",
   partSlugs: ["generator-kind/uuid-v7", "generator-kind/next-seq"],
   extendsSlug: "page-type/domain",
   invariants: [

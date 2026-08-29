@@ -19,6 +19,7 @@ export const initiative = {
   pageTypeSlug: "page-type",
   slug: "initiative",
   definition: "work that closes gaps between how a domain is and how it should be",
+  pluralSlug: "initiatives",
   partSlugs: ["relation-property/parent-slug", "text-property/notes", "text-property/persona-slug"],
   extendsSlug: "page-type/page",
   properties: [

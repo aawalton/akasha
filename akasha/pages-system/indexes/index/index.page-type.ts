@@ -13,6 +13,7 @@ export const index = {
   pageTypeSlug: "page-type",
   slug: "index",
   definition: "one question the corpus can be asked, answered by reading one file",
+  pluralSlug: "indexes",
   partSlugs: ["text-property/index-name"],
   extendsSlug: "page-type/module",
   properties: [

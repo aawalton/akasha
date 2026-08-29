@@ -17,6 +17,7 @@ export const contextWarrant = {
   pageTypeSlug: "page-type",
   slug: "context-warrant",
   definition: "a module naming what a change to a file requires its writer to have read",
+  pluralSlug: "context-warrants",
   partSlugs: [
     "boolean-property/runs-on-read",
     "boolean-property/runs-on-write",

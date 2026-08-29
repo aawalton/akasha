@@ -19,6 +19,7 @@ export const check = {
   pageTypeSlug: "page-type",
   slug: "check",
   definition: "a module run over a change to judge whether it may land",
+  pluralSlug: "checks",
   partSlugs: [
     "boolean-property/runs-on-audit",
     "boolean-property/runs-on-deploy",

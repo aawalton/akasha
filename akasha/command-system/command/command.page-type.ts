@@ -11,6 +11,7 @@ export const command = {
   pageTypeSlug: "page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
+  pluralSlug: "commands",
   partSlugs: [
     "boolean-property/mechanical",
     "command/audit",

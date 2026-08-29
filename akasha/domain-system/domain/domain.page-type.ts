@@ -31,6 +31,7 @@ export const domain = {
   pageTypeSlug: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",
+  pluralSlug: "domains",
   extendsSlug: "page-type/page",
   properties: [
     { pagePropertySlug: "definition", required: true, many: false },
