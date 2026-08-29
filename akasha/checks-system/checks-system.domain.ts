@@ -10,9 +10,11 @@ export const checksSystem = {
   design: [
     "The checks reach the akasha folder and nothing above it.",
     "A change is judged before it reaches disk, so a refused change leaves nothing behind.",
-    "A check is run over the changes it was given, and never over the corpus.",
-    "What a check must know beyond the file it was handed, it asks the index.",
     "Audit alone judges every page; patch, worktree and deploy judge a set of changes.",
   ],
-  intent: ["A change costs the checks what the change is worth, never what the corpus is worth."],
+  intent: [
+    "A change costs the checks what the change is worth, never what the corpus is worth.",
+    "A check is run over the changes it was given, and never over the corpus.",
+    "What a check must know beyond the file it was handed, it asks the index.",
+  ],
 } as const satisfies Domain

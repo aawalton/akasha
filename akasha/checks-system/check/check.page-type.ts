@@ -18,6 +18,8 @@ export const check = {
     "A check is handed what it says it needs and nothing more.",
     "A check judges the code, never its author.",
     "A check takes and gives paths under the root it was given.",
+  ],
+  intent: [
     "A check looks for no files.",
     "A check that must know more than the file it was handed asks the index, never the tree.",
   ],

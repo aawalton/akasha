@@ -16,7 +16,6 @@ export const typecheck = {
     "A diagnostic against a file the change did not touch is still reported, against every changed file, because a check is handed its file and never the set.",
     "A diagnostic naming no file is the compiler failing to run, so it is thrown rather than reported.",
     "The folder is read from disk rather than from what the check is handed, because a compiler is given file names and not bodies.",
-    "Walking the akasha folder is against `A check looks for no files`, and it stands only until a graph can name the files a change reaches.",
   ],
   intent: ["A type error never lands."],
 } as const satisfies Check
