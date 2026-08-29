@@ -5,6 +5,21 @@ import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
 import { addressIn } from "../page/page-address.module.code.ts"
 import { besideAt } from "../page/page-file-name.module.code.ts"
 import { slugFor } from "../page-property/page-property-key.module.code.ts"
+import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
+import { indexImport } from "./index/index-import/index-import.index.ts"
+import { indexPath } from "./index/index-path/index-path.index.ts"
+import { indexRelation } from "./index/index-relation/index-relation.index.ts"
+import { indexSchema } from "./index/index-schema/index-schema.index.ts"
+
+const IDENTITY = indexIdentity.indexName
+
+const IMPORT = indexImport.indexName
+
+const PATH = indexPath.indexName
+
+const RELATION = indexRelation.indexName
+
+const SCHEMA = indexSchema.indexName
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -65,7 +80,7 @@ export function valueAt(path: string, repo: string): Value | null {
 }
 
 export function pageTypesIn(root: string): ReadonlySet<string> {
-  const dir = join(root, "identity", "page-type", "slug")
+  const dir = join(root, IDENTITY, "page-type", "slug")
   if (!existsSync(dir)) return new Set<string>(["page-type"])
   return new Set<string>([
     "page-type",
@@ -124,12 +139,12 @@ export function identityIn(value: Value, path: string, repo: string): readonly E
   if (id === null || slug === null || pageTypeSlug === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
   return [
-    { at: join("identity", "page", "id", `${id}.jsonl`), line },
-    { at: join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line },
+    { at: join(IDENTITY, "page", "id", `${id}.jsonl`), line },
+    { at: join(IDENTITY, pageTypeSlug, "slug", `${slug}.jsonl`), line },
   ]
 }
 
-const PATH_AT = "path"
+const PATH_AT = PATH
 
 export function pathIn(
   value: Value,
@@ -173,7 +188,7 @@ export function schemaIn(value: Value): readonly Entry[] {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
   }
-  return [{ at: join("schema", PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
+  return [{ at: join(SCHEMA, PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
 }
 
 const RELATIVE = /^\.\.?\//
@@ -194,7 +209,7 @@ export function importIn(body: string, path: string, repo: string): readonly Ent
   for (const one of specifiersIn(own, body)) {
     const landed = importedBy(own, one)
     if (landed === null) continue
-    found.push({ at: join("import", "path", `${landed}.jsonl`), line })
+    found.push({ at: join(IMPORT, "path", `${landed}.jsonl`), line })
   }
   return found
 }
@@ -222,7 +237,7 @@ export type Shaped = Known & {
 }
 
 function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
-  const dir = join(root, "identity", pageTypeSlug, "slug")
+  const dir = join(root, IDENTITY, pageTypeSlug, "slug")
   if (!existsSync(dir)) return []
   const found: Standing[] = []
   for (const one of readdirSync(dir)) found.push(...standingIn(join(dir, one)))
@@ -230,7 +245,7 @@ function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
 }
 
 export function schemaAt(root: string): ReadonlyMap<string, Schema> {
-  const dir = join(root, "schema", PROPERTY, "slug")
+  const dir = join(root, SCHEMA, PROPERTY, "slug")
   if (!existsSync(dir)) return new Map<string, Schema>()
   const found = new Map<string, Schema>()
   for (const one of readdirSync(dir)) {
@@ -315,8 +330,8 @@ export function knownIn(root: string, repo: string): Shaped {
     targetOf,
     admitting,
     at: (pageTypeSlug, slug) =>
-      standingIn(join(root, "identity", pageTypeSlug, "slug", `${slug}.jsonl`)),
-    byId: (id) => standingIn(join(root, "identity", "page", "id", `${id}.jsonl`))[0] ?? null,
+      standingIn(join(root, IDENTITY, pageTypeSlug, "slug", `${slug}.jsonl`)),
+    byId: (id) => standingIn(join(root, IDENTITY, "page", "id", `${id}.jsonl`))[0] ?? null,
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
   }
 }
@@ -406,7 +421,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
         refused.push(`${path}: \`${said}\` — ${reached.refused}`)
         continue
       }
-      const at = join("relation", "page", "id", reached.id, propertySlug, `${id}.jsonl`)
+      const at = join(RELATION, "page", "id", reached.id, propertySlug, `${id}.jsonl`)
       if (already.has(at)) continue
       already.add(at)
       entries.push({ at, line })

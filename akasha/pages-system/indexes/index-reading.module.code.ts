@@ -1,5 +1,10 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
+import { indexImport } from "./index/index-import/index-import.index.ts"
+import { indexPath } from "./index/index-path/index-path.index.ts"
+import { indexRelation } from "./index/index-relation/index-relation.index.ts"
+import { indexSchema } from "./index/index-schema/index-schema.index.ts"
 import { staleFor } from "./index-stamp.module.code.ts"
 
 export type Standing = {
@@ -14,15 +19,15 @@ export type Schema = {
 
 const INDEX_AT = ".git/data/index"
 
-const IDENTITY = "identity"
+const IDENTITY = indexIdentity.indexName
 
-const IMPORT = "import"
+const IMPORT = indexImport.indexName
 
-const PATH = "path"
+const PATH = indexPath.indexName
 
-const RELATION = "relation"
+const RELATION = indexRelation.indexName
 
-const SCHEMA = "schema"
+const SCHEMA = indexSchema.indexName
 
 const PROPERTY = "page-property"
 

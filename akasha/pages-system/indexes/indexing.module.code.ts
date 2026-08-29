@@ -10,6 +10,11 @@ import {
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { namedIn, pageNamed } from "../page/page-file-name.module.code.ts"
+import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
+import { indexImport } from "./index/index-import/index-import.index.ts"
+import { indexPath } from "./index/index-path/index-path.index.ts"
+import { indexRelation } from "./index/index-relation/index-relation.index.ts"
+import { indexSchema } from "./index/index-schema/index-schema.index.ts"
 import type { Entry, Value } from "./index-entries.module.code.ts"
 import {
   filePropertiesAt,
@@ -27,6 +32,16 @@ import {
   valueAt,
 } from "./index-entries.module.code.ts"
 import { stampBuilt, stampSettled } from "./index-stamp.module.code.ts"
+
+const IDENTITY = indexIdentity.indexName
+
+const IMPORT = indexImport.indexName
+
+const PATH = indexPath.indexName
+
+const RELATION = indexRelation.indexName
+
+const SCHEMA = indexSchema.indexName
 
 function pruneAbove(at: string, root: string): void {
   let here = at
@@ -172,19 +187,19 @@ export function rebuiltFrom(
   }
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo))
-  reconcile(join(root, "identity"), identity, root)
+  reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
-  reconcile(join(root, "path"), paths, root)
+  reconcile(join(root, PATH), paths, root)
   const schema = held.flatMap((one) => schemaIn(one.value))
-  reconcile(join(root, "schema"), schema, root)
+  reconcile(join(root, SCHEMA), schema, root)
   const known = knownIn(root, repo)
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
-  reconcile(join(root, "relation"), relation, root)
+  reconcile(join(root, RELATION), relation, root)
   const imported = bodiesUnder(tree).flatMap((path) =>
     importIn(readFileSync(path, "utf8"), path, repo)
   )
-  reconcile(join(root, "import"), imported, root)
+  reconcile(join(root, IMPORT), imported, root)
   stampBuilt(repo, tree, root)
   return {
     pages: held.length,
