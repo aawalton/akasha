@@ -19,5 +19,10 @@ export const generatorKind = {
       invariantKind: "departure",
       statement: "A generated value is worked out after the checks pass, so a refusal spends none.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A generator works out a value no check needs to see, so nothing that must be judged is left to one.",
+    },
   ],
 } as const satisfies PageType
