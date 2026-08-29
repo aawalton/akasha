@@ -56,6 +56,7 @@ export type Declared = {
   readonly many: boolean
   readonly max: number | null
   readonly total: number | null
+  readonly uncommitted: boolean
 }
 
 export type Reading = (pageTypeSlug: string, slug: string) => Value | null
@@ -85,6 +86,7 @@ function declaredAt(held: Record<string, unknown>): Declared {
     many: held["many"] === true,
     max: countAt(held, "max"),
     total: countAt(held, "total"),
+    uncommitted: held["uncommitted"] === true,
   }
 }
 
