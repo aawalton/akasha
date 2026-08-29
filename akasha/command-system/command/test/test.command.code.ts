@@ -1,18 +1,12 @@
-import { existsSync, readdirSync, statSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import type { Summary, Verdict } from "../../../code-system/code-tests.module.code.ts"
+import { ranOver, testsUnder } from "../../../code-system/code-tests.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 
 const INSIDE = "akasha"
-
-const SUFFIX = ".test.ts"
-
-const RUNNER = "bun"
-
-const RUNS = "test"
-
-const ESCAPE = String.fromCharCode(27)
 
 export const ANSWER_CEILING = 28000
 
@@ -25,14 +19,6 @@ export const surface: Surface = {
     `named nothing, it runs every test under \`${INSIDE}/\`.`,
     "a run takes no filter for which tests inside a file run.",
   ],
-}
-
-export type Verdict = "pass" | "fail" | "short" | "crash"
-
-export type Summary = {
-  readonly files: number | null
-  readonly failed: number | null
-  readonly passed: number | null
 }
 
 type Meant = {
@@ -89,48 +75,6 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
   return { named, refusals }
 }
 
-export function testsUnder(absolute: string): number {
-  if (!existsSync(absolute)) return 0
-  if (statSync(absolute).isFile()) return absolute.endsWith(SUFFIX) ? 1 : 0
-  let held = 0
-  for (const one of readdirSync(absolute, { withFileTypes: true })) {
-    if (one.isDirectory()) held += testsUnder(join(absolute, one.name))
-    else if (one.isFile() && one.name.endsWith(SUFFIX)) held += 1
-  }
-  return held
-}
-
-export function plain(output: string): string {
-  return output.replace(new RegExp(`${ESCAPE}\\[[0-9;]*m`, "g"), "")
-}
-
-function totalOf(clean: string, shape: RegExp): number | null {
-  let held: number | null = null
-  for (const found of clean.matchAll(shape)) {
-    const one = Number.parseInt(found[1] ?? "", 10)
-    if (Number.isFinite(one)) held = (held ?? 0) + one
-  }
-  return held
-}
-
-export function summaryIn(output: string): Summary {
-  const clean = plain(output)
-  return {
-    files: totalOf(clean, /\bRan\s+\d+\s+tests?\s+across\s+(\d+)\s+files?/g),
-    failed: totalOf(clean, /^\s*(\d+)\s+fail\b/gm),
-    passed: totalOf(clean, /^\s*(\d+)\s+pass\b/gm),
-  }
-}
-
-export function verdictOf(code: number, output: string, expected: number): Verdict {
-  const said = summaryIn(output)
-  if (said.files === null) return "crash"
-  if (expected > 0 && said.files < expected) return "short"
-  if (said.failed !== null && said.failed > 0) return "fail"
-  if (code === 0) return "pass"
-  return said.failed === 0 ? "pass" : "fail"
-}
-
 export function bounded(output: string): readonly string[] {
   const bytes = new TextEncoder().encode(output)
   if (bytes.length <= ANSWER_CEILING) return output.split("\n")
@@ -141,15 +85,6 @@ export function bounded(output: string): readonly string[] {
       "the end is where the summary stands. Name fewer paths to see the rest.",
     ...kept.split("\n").slice(1),
   ]
-}
-
-function running(root: string, named: readonly string[]): { code: number; output: string } {
-  const done = Bun.spawnSync([RUNNER, RUNS, ...named], {
-    cwd: root,
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  return { code: done.exitCode, output: `${done.stdout.toString()}${done.stderr.toString()}` }
 }
 
 function toldOf(verdict: Verdict, said: Summary, expected: number, code: number): readonly string[] {
@@ -182,14 +117,12 @@ export function test(argv: readonly string[], given: Given): Answer {
       code: 1,
     }
   }
-  const done = running(root, aimed.named)
-  const said = summaryIn(done.output)
-  const verdict = verdictOf(done.code, done.output, expected)
+  const done = ranOver(root, aimed.named, expected)
   const report = [...bounded(done.output)]
-  if (verdict === "pass") return { report, refusals: [], code: 0 }
+  if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,
-    refusals: [...toldOf(verdict, said, expected, done.code)],
-    code: verdict === "fail" ? 1 : 3,
+    refusals: [...toldOf(done.verdict, done.summary, expected, done.code)],
+    code: done.verdict === "fail" ? 1 : 3,
   }
 }

@@ -3,16 +3,7 @@ import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "../../calling.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import {
-  aiming,
-  ANSWER_CEILING,
-  bounded,
-  plain,
-  summaryIn,
-  test,
-  testsUnder,
-  verdictOf,
-} from "./test.command.code.ts"
+import { aiming, ANSWER_CEILING, bounded, test } from "./test.command.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
 
@@ -58,7 +49,9 @@ check("a run named nothing runs the whole akasha folder", () => {
 
 check("a path that is not there is refused rather than run", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(aiming(["akasha/nowhere.test.ts"], given(root)).refusals[0]).toContain("nothing that is there")
+  expect(aiming(["akasha/nowhere.test.ts"], given(root)).refusals[0]).toContain(
+    "nothing that is there"
+  )
 })
 
 check("a path named twice is refused rather than run twice", () => {
@@ -79,56 +72,11 @@ check("a flag naming no path is refused", () => {
   expect(test(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
 })
 
-check("the test files under a path are counted, and other files are not", () => {
-  const root = repo({
-    "one.test.ts": PASSES,
-    "held.ts": "export const held = 1\n",
-    "deep/two.test.ts": PASSES,
-  })
-  expect(testsUnder(join(root, "akasha"))).toBe(2)
-  expect(testsUnder(join(root, "akasha/held.ts"))).toBe(0)
-  expect(testsUnder(join(root, "akasha/one.test.ts"))).toBe(1)
-  expect(testsUnder(join(root, "akasha/nowhere"))).toBe(0)
-})
-
 check("a folder holding no test is refused rather than reported as a pass", () => {
   const root = repo({ "held.ts": "export const held = 1\n" })
   const said = test([], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("no file under `akasha` is a test")
-})
-
-check("colour is taken out before the summary is read", () => {
-  const painted = `${String.fromCharCode(27)}[32m 3 pass${String.fromCharCode(27)}[0m`
-  expect(plain(painted)).toBe(" 3 pass")
-  expect(summaryIn(painted).passed).toBe(3)
-})
-
-check("the summary is read out of what the run printed", () => {
-  const output = " 7 pass\n 2 fail\nRan 9 tests across 4 files."
-  expect(summaryIn(output)).toEqual({ files: 4, failed: 2, passed: 7 })
-})
-
-check("a run that printed no summary is read as a crash, whatever it exited", () => {
-  expect(verdictOf(0, "", 3)).toBe("crash")
-  expect(verdictOf(1, "bun: command not found", 3)).toBe("crash")
-})
-
-check("a run reaching fewer files than stand under it is short, not a pass", () => {
-  const output = " 1 pass\n 0 fail\nRan 1 tests across 1 files."
-  expect(verdictOf(0, output, 4)).toBe("short")
-  expect(verdictOf(0, output, 1)).toBe("pass")
-})
-
-check("a green run exiting non-zero on a leaked handle is still a pass", () => {
-  const output = " 9 pass\n 0 fail\nRan 9 tests across 2 files."
-  expect(verdictOf(1, output, 2)).toBe("pass")
-})
-
-check("a run with a failing test is a failure whatever it exited", () => {
-  const output = " 8 pass\n 1 fail\nRan 9 tests across 2 files."
-  expect(verdictOf(0, output, 2)).toBe("fail")
-  expect(verdictOf(1, output, 2)).toBe("fail")
 })
 
 check("an output past what one answer holds keeps its end, where the summary stands", () => {
