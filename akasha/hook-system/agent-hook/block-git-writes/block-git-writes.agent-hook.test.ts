@@ -132,15 +132,17 @@ test("every refusal names the hook that made it", () => {
 
 test("an akasha command stands aside, and commits for itself", () => {
   expect(
-    refusalIn(
-      'akasha write --file-path akasha/one.ts --content-file /tmp/one --message "one"'
-    )
+    refusalIn('akasha write --file-path akasha/one.ts --content-file /tmp/one --message "one"')
   ).toBeNull()
   expect(refusalIn("akasha index refresh")).toBeNull()
 })
 
 test("a verb this does not name is stood aside from, whatever else it does", () => {
-  for (const command of ["git rm akasha/one.ts", "git checkout -- akasha/one.ts", "git restore ."]) {
+  for (const command of [
+    "git rm akasha/one.ts",
+    "git checkout -- akasha/one.ts",
+    "git restore .",
+  ]) {
     expect(refusalIn(command)).toBeNull()
   }
 })

@@ -4,7 +4,8 @@ export const pageWithItsParts = {
   id: "01a04e33-f281-7a77-8901-c9954673963d",
   pageTypeSlug: "folder-shape",
   slug: "page-with-its-parts",
-  definition: "the shape of a folder named for the page it holds, beside the modules that page is made of",
+  definition:
+    "the shape of a folder named for the page it holds, beside the modules that page is made of",
   code: "ts",
   test: "ts",
   invariants: [

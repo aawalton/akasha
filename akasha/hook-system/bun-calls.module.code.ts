@@ -26,9 +26,7 @@ export type BunCall = {
 }
 
 export function bunCallIn(segment: string): BunCall | null {
-  const words = wordsOf(segment).filter(
-    (one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one)
-  )
+  const words = wordsOf(segment).filter((one) => !ASSIGNMENT.test(one) && !SETTING_UP.includes(one))
   const head = words[0]
   if (head === undefined || basenameOf(head) !== BUN) return null
   const after = words.slice(1)

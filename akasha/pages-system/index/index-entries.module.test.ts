@@ -62,10 +62,7 @@ function grounded(): { readonly root: string; readonly repo: string } {
   })
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
-  filed(
-    "identity/record-property/slug/parts.jsonl",
-    '{"path":"parts.record-property.ts","id":"3"}'
-  )
+  filed("identity/record-property/slug/parts.jsonl", '{"path":"parts.record-property.ts","id":"3"}')
   filed("schema/page-property/slug/code.jsonl", SCHEMA.code)
   filed("schema/page-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
   filed("schema/page-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)

@@ -10,7 +10,8 @@ export const upperSnakeCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is words, so it neither opens nor closes with an underscore and holds no empty word.",
+      statement:
+        "A name is words, so it neither opens nor closes with an underscore and holds no empty word.",
     },
   ],
 } as const satisfies NameFormat

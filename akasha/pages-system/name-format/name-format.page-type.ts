@@ -33,8 +33,7 @@ export const nameFormat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A format holds the words of a name unchanged, and says only how they are joined.",
+      statement: "A format holds the words of a name unchanged, and says only how they are joined.",
     },
     {
       invariantKind: "gap",

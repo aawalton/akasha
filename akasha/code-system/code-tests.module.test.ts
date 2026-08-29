@@ -1,4 +1,4 @@
-import { afterAll, expect, test as check } from "bun:test"
+import { afterAll, test as check, expect } from "bun:test"
 import {
   existsSync,
   lstatSync,
@@ -13,8 +13,8 @@ import {
   alreadyRunning,
   CARRIED,
   plain,
-  ranOver,
   RUNNING,
+  ranOver,
   summaryIn,
   testBesideOf,
   testsUnder,

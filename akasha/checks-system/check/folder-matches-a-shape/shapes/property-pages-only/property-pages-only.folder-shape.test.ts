@@ -37,7 +37,11 @@ test("a folder holding no file at all takes the shape", () => {
 
 test("property pages of several value kinds take the shape, which is the whole point", () => {
   const said = propertyPagesOnly(
-    standing(["id.text-property.ts", "slug.text-property.ts", "page-type-slug.relation-property.ts"])
+    standing([
+      "id.text-property.ts",
+      "slug.text-property.ts",
+      "page-type-slug.relation-property.ts",
+    ])
   )
   expect(said).toEqual([])
 })

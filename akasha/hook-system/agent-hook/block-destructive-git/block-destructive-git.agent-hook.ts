@@ -20,8 +20,7 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal names the akasha command that does what was asked, or says none does.",
+      statement: "A refusal names the akasha command that does what was asked, or says none does.",
     },
     {
       invariantKind: "departure",

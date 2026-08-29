@@ -87,7 +87,12 @@ export function bounded(output: string): readonly string[] {
   ]
 }
 
-function toldOf(verdict: Verdict, said: Summary, expected: number, code: number): readonly string[] {
+function toldOf(
+  verdict: Verdict,
+  said: Summary,
+  expected: number,
+  code: number
+): readonly string[] {
   if (verdict === "fail") {
     return [`${said.failed} of ${(said.passed ?? 0) + (said.failed ?? 0)} tests failed.`]
   }

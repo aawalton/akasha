@@ -23,9 +23,7 @@ export function onePageWithItsProperties(standing: Standing): readonly string[] 
   if (standing.pages.length === 1 && one !== undefined) {
     const loose = standing.properties.filter((each) => each.page !== one.page)
     if (loose.length > 0) {
-      said.push(
-        `${loose.length} files stand beside no page here: ${named(standing.folder, loose)}`
-      )
+      said.push(`${loose.length} files stand beside no page here: ${named(standing.folder, loose)}`)
     }
   }
   return said

@@ -139,7 +139,9 @@ test("a property whose shape is not a file names no file, so a path built from i
 
 test("a path the change takes away is passed over", () => {
   const root = rooted()
-  expect(fileHasItsPage({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })).toEqual([])
+  expect(
+    fileHasItsPage({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })
+  ).toEqual([])
 })
 
 test("a path outside the akasha folder is passed over", () => {

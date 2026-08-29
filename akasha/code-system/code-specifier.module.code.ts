@@ -23,7 +23,8 @@ export function placedIn(path: string, text: string): readonly Placed[] {
       took(node.arguments[0])
     }
     if (ts.isExternalModuleReference(node)) took(node.expression)
-    if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument)) took(node.argument.literal)
+    if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument))
+      took(node.argument.literal)
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)

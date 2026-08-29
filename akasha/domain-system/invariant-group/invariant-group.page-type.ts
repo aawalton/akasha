@@ -8,11 +8,7 @@ export const invariantGroup = {
   pageTypeSlug: "page-type",
   slug: "invariant-group",
   definition: "the standing an invariant has",
-  partSlugs: [
-    "invariant-group/condition",
-    "invariant-group/design",
-    "invariant-group/intent",
-  ],
+  partSlugs: ["invariant-group/condition", "invariant-group/design", "invariant-group/intent"],
   extendsSlug: "page-type/domain",
   invariants: [
     {

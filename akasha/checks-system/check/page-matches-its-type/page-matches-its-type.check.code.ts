@@ -3,11 +3,15 @@ import { join } from "node:path"
 import {
   pageTypesIn,
   textAt,
+  type Value,
   valueAt,
   valueIn,
-  type Value,
 } from "../../../pages-system/index/index-entries.module.code.ts"
-import { indexIn, schemaOf, standingAt } from "../../../pages-system/index/index-reading.module.code.ts"
+import {
+  indexIn,
+  schemaOf,
+  standingAt,
+} from "../../../pages-system/index/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
@@ -81,10 +85,7 @@ export function slugOf(named: string): string | null {
   return address.kind === "id" ? null : address.slug
 }
 
-export function declaredFor(
-  pageTypeSlug: string,
-  read: Reading
-): ReadonlyMap<string, Declared> {
+export function declaredFor(pageTypeSlug: string, read: Reading): ReadonlyMap<string, Declared> {
   const found = new Map<string, Declared>()
   const walked = new Set<string>()
   let here: string | null = pageTypeSlug
@@ -116,7 +117,9 @@ export function matchingIn(root: string): Formatting {
     }
     const one = standingAt(root, NAME_FORMAT, slug)[0]
     if (one === undefined) {
-      throw new Error(`no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`)
+      throw new Error(
+        `no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`
+      )
     }
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
@@ -134,7 +137,9 @@ export function matchingIn(root: string): Formatting {
     }
     const named = mod[exportedAs(slug)]
     if (typeof named !== "function") {
-      throw new Error(`${one.path} is a name format, and ${beside} answers to nothing that can judge`)
+      throw new Error(
+        `${one.path} is a name format, and ${beside} answers to nothing that can judge`
+      )
     }
     const matching = named as Matching
     held.set(nameFormatSlug, matching)
@@ -202,8 +207,10 @@ export function reasonsIn(
       continue
     }
     const listed = Array.isArray(held)
-    if (one.many && !listed) said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
-    if (!one.many && listed) said.push(`states \`${slug}\` as a list, and \`${named}\` declares it single`)
+    if (one.many && !listed)
+      said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
+    if (!one.many && listed)
+      said.push(`states \`${slug}\` as a list, and \`${named}\` declares it single`)
     if (one.many && listed && one.max !== null && held.length > one.max) {
       said.push(`holds ${held.length} of \`${slug}\`, over the max of ${one.max}`)
     }

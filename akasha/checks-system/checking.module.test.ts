@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../command-system/scratching.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import {
   checkPagesIn,
   checksAt,
@@ -11,8 +13,6 @@ import {
   onDisk,
   overEachFile,
 } from "./checking.module.code.ts"
-import { scratchWorld } from "../command-system/scratching.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 

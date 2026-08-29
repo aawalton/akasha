@@ -105,42 +105,42 @@ test("the root is the folder two above the dispatcher when nothing states one", 
 })
 
 test("a stated root wins over where the dispatcher stands", () => {
-  const said = outsideOf([], { AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
+  const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
   expect(said.root).toBe("/elsewhere")
 })
 
 test("an empty stated root is treated as none stated", () => {
-  const said = outsideOf([], { AKASHA_ROOT: "" }, AT, "/nowhere")
+  const said = outsideOf({ AKASHA_ROOT: "" }, AT, "/nowhere")
   expect(said.root).toBe("/somewhere")
 })
 
 test("a commit is authored by akasha when nothing states a writer", () => {
-  expect(outsideOf([], {}, AT, "/nowhere").writer).toBe("Akasha <akasha@alanwalton.com>")
+  expect(outsideOf({}, AT, "/nowhere").writer).toBe("Akasha <akasha@alanwalton.com>")
 })
 
 test("an empty stated writer is treated as none stated", () => {
-  expect(outsideOf([], { AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(AUTHOR)
+  expect(outsideOf({ AKASHA_WRITER: "" }, AT, "/nowhere").writer).toBe(AUTHOR)
 })
 
 test("a stated writer wins over akasha", () => {
-  const said = outsideOf([], { AKASHA_WRITER: "Someone <one@two.three>" }, AT, "/nowhere")
+  const said = outsideOf({ AKASHA_WRITER: "Someone <one@two.three>" }, AT, "/nowhere")
   expect(said.writer).toBe("Someone <one@two.three>")
 })
 
 test("an agent is nobody when nothing names one", () => {
-  expect(outsideOf([], {}, AT, "/nowhere").agentId).toBeNull()
+  expect(outsideOf({}, AT, "/nowhere").agentId).toBeNull()
 })
 
 test("an empty named agent is treated as none named", () => {
-  expect(outsideOf([], { AGENT_ID: "" }, AT, "/nowhere").agentId).toBeNull()
+  expect(outsideOf({ AGENT_ID: "" }, AT, "/nowhere").agentId).toBeNull()
 })
 
 test("a named agent is carried in", () => {
-  expect(outsideOf([], { AGENT_ID: "01a0-one" }, AT, "/nowhere").agentId).toBe("01a0-one")
+  expect(outsideOf({ AGENT_ID: "01a0-one" }, AT, "/nowhere").agentId).toBe("01a0-one")
 })
 
 test("the name it was invoked by is carried in", () => {
-  const said = outsideOf([], {}, AT, "/nowhere")
+  const said = outsideOf({}, AT, "/nowhere")
   expect(said.calledAs).toBe("akasha")
   expect(said.from).toBe("/nowhere")
 })

@@ -135,7 +135,9 @@ test("a file importing what moved is repointed, and a dry run writes none of it"
   importing(root, TARGET, [HOLDER])
   const carry = ["--from", TARGET, "--to", ARRIVES]
   const dry = move([...carry, "--dry-run"], givenIn(root))
-  expect(dry.report.join("\n")).toContain(`1 file importing what moved would be repointed — ${HOLDER}`)
+  expect(dry.report.join("\n")).toContain(
+    `1 file importing what moved would be repointed — ${HOLDER}`
+  )
   expect(readFileSync(join(root, HOLDER), "utf8")).toBe(CODE)
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
@@ -149,7 +151,9 @@ test("a file moving in the same act is repointed from its body, not as an import
   const carry = ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER]
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(readFileSync(join(root, DEEPER), "utf8")).toContain('from "../../four/other.module.code.ts"')
+  expect(readFileSync(join(root, DEEPER), "utf8")).toContain(
+    'from "../../four/other.module.code.ts"'
+  )
   expect(said.report.join("\n")).toContain("the index names no file importing what moved")
 })
 

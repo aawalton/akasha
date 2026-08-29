@@ -64,9 +64,9 @@ export const surface: Surface = {
   taking: [
     { said: `${FILE_PATH} <path>`, takes: "a path under `akasha/` to write" },
     {
-    said: `${CONTENT_FILE} <file>`,
-    takes: `the body that lands at the ${FILE_PATH} before it`,
-  },
+      said: `${CONTENT_FILE} <file>`,
+      takes: `the body that lands at the ${FILE_PATH} before it`,
+    },
     { said: `${REMOVE} <path>`, takes: "a path under `akasha/` to take away" },
     ...COMMITTING,
   ],

@@ -25,7 +25,6 @@ export function rootOf(at: string): string {
 }
 
 export function outsideOf(
-  argv: readonly string[],
   env: Readonly<Record<string, string | undefined>>,
   at: string,
   from: string
@@ -53,7 +52,7 @@ export function answering(
   from: string
 ): Said {
   try {
-    return saidOf(calling(argv, outsideOf(argv, env, at, from)))
+    return saidOf(calling(argv, outsideOf(env, at, from)))
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { out: [], err: [`akasha: ${why}`], code: UNCLASSIFIED }

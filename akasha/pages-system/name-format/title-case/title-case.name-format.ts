@@ -20,7 +20,8 @@ export const titleCase = {
     },
     {
       invariantKind: "constraint",
-      statement: "One space parts two words, so a name padded or doubly spaced is not written in it.",
+      statement:
+        "One space parts two words, so a name padded or doubly spaced is not written in it.",
     },
   ],
 } as const satisfies NameFormat

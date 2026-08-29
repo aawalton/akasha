@@ -24,7 +24,8 @@ export const pageTypeDescent = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the corpus. Every page type read is one the index named first.",
+      statement:
+        "Nothing here walks the corpus. Every page type read is one the index named first.",
     },
   ],
 } as const satisfies Module

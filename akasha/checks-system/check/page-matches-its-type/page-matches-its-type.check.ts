@@ -58,7 +58,8 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "absence",
-      statement: "A value's own sort is not judged here, only whether the page carries what it must.",
+      statement:
+        "A value's own sort is not judged here, only whether the page carries what it must.",
     },
   ],
 } as const satisfies Check

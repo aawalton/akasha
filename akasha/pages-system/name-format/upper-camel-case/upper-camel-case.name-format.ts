@@ -10,7 +10,8 @@ export const upperCamelCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name opens with a letter, because a word opening with a digit has no capital to start.",
+      statement:
+        "A name opens with a letter, because a word opening with a digit has no capital to start.",
     },
     {
       invariantKind: "constraint",

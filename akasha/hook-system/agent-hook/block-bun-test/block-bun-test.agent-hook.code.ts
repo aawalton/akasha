@@ -1,13 +1,7 @@
 import { dirname, resolve, sep } from "node:path"
 import type { BunCall } from "../../bun-calls.module.code.ts"
 import { bunCallsIn } from "../../bun-calls.module.code.ts"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  said,
-  STANDING_ASIDE,
-} from "../../hook-answer.module.code.ts"
+import { ASIDE, commandIn, refusing, STANDING_ASIDE, said } from "../../hook-answer.module.code.ts"
 
 const HOOK = "block-bun-test"
 

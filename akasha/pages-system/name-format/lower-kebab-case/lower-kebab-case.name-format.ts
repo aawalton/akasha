@@ -15,7 +15,8 @@ export const lowerKebabCase = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is words, so it neither opens nor closes with a hyphen and holds no empty word.",
+      statement:
+        "A name is words, so it neither opens nor closes with a hyphen and holds no empty word.",
     },
   ],
 } as const satisfies NameFormat

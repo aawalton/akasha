@@ -1,12 +1,6 @@
 import type { GitCall } from "../../git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls.module.code.ts"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  said,
-  STANDING_ASIDE,
-} from "../../hook-answer.module.code.ts"
+import { ASIDE, commandIn, refusing, STANDING_ASIDE, said } from "../../hook-answer.module.code.ts"
 
 const HOOK = "block-git-writes"
 

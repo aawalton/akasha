@@ -48,11 +48,19 @@ function typed(root: string, slug: string, above: string): void {
   const dir = join(root, INDEX, "identity", "page-type", "slug")
   mkdirSync(dir, { recursive: true })
   const path = `akasha/held/${slug}.page-type.ts`
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`, "utf8")
+  writeFileSync(
+    join(dir, `${slug}.jsonl`),
+    `${JSON.stringify({ path, id: `id-${slug}` })}\n`,
+    "utf8"
+  )
   const page = join(root, path)
   mkdirSync(join(root, "akasha", "held"), { recursive: true })
   const said = JSON.stringify(`page-type/${above}`)
-  writeFileSync(page, `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`, "utf8")
+  writeFileSync(
+    page,
+    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`,
+    "utf8"
+  )
 }
 
 function stands(root: string, kind: string, slug: string, id: string): void {

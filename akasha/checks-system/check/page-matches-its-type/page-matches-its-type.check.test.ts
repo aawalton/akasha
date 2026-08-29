@@ -4,8 +4,8 @@ import type { Matching } from "../../../pages-system/name-format/name-matching.m
 import {
   declaredFor,
   type Formatting,
-  reasonsIn,
   type Reading,
+  reasonsIn,
   slugOf,
 } from "./page-matches-its-type.check.code.ts"
 
@@ -161,7 +161,11 @@ test("a record field over the total its declaration states is refused", () => {
 })
 
 test("a record field's entries and its characters are counted apart", () => {
-  const value = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd", "ef", "g"] }] }
+  const value = {
+    id: "a",
+    slug: "one",
+    directives: [{ name: "go", aids: ["ab", "cd", "ef", "g"] }],
+  }
   expect(over(value, "told")).toEqual([
     "holds 4 of `directives aids`, over the max of 3",
     "holds 7 characters of `directives aids`, over the total of 6",

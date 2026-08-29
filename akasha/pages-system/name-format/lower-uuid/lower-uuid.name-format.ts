@@ -10,7 +10,8 @@ export const lowerUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The groups run 8, 4, 4, 4 and 12 hex digits, which is the one shape a uuid is written in.",
+      statement:
+        "The groups run 8, 4, 4, 4 and 12 hex digits, which is the one shape a uuid is written in.",
     },
     {
       invariantKind: "absence",

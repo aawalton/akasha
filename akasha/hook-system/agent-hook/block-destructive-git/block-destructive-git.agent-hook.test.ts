@@ -95,7 +95,12 @@ test("a forced branch delete is refused, and a plain one is not", () => {
 })
 
 test("a read is stood aside from", () => {
-  for (const command of ["git status", "git log --oneline -5", "git diff --stat", "git show HEAD"]) {
+  for (const command of [
+    "git status",
+    "git log --oneline -5",
+    "git diff --stat",
+    "git show HEAD",
+  ]) {
     expect(refusalIn(command)).toBeNull()
   }
 })

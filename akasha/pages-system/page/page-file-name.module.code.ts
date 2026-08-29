@@ -1,4 +1,5 @@
 import { basename } from "node:path"
+
 const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const TS = ".ts"

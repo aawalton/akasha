@@ -17,7 +17,10 @@ function typed(root: string, slug: string, above: string | null): void {
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = above === null ? "null" : JSON.stringify(`page-type/${above}`)
-  writeFileSync(page, `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`)
+  writeFileSync(
+    page,
+    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
+  )
 }
 
 test("a page type stands under itself", () => {
@@ -36,7 +39,12 @@ test("descent reaches as deep as the page types go", () => {
   typed(root, "module", "domain")
   typed(root, "check", "module")
   typed(root, "folder-shape", "check")
-  expect([...kindsUnder(root, "domain")].sort()).toEqual(["check", "domain", "folder-shape", "module"])
+  expect([...kindsUnder(root, "domain")].sort()).toEqual([
+    "check",
+    "domain",
+    "folder-shape",
+    "module",
+  ])
 })
 
 test("a page type standing outside is left out", () => {

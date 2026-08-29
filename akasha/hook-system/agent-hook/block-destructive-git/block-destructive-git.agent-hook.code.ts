@@ -1,12 +1,6 @@
 import type { GitCall } from "../../git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls.module.code.ts"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  said,
-  STANDING_ASIDE,
-} from "../../hook-answer.module.code.ts"
+import { ASIDE, commandIn, refusing, STANDING_ASIDE, said } from "../../hook-answer.module.code.ts"
 
 const HOOK = "block-destructive-git"
 
@@ -37,10 +31,7 @@ const TAKE_AWAY = [
   HELP,
 ]
 
-const SAY_AGAIN = [
-  "To change what a commit says, land another one with `akasha write`.",
-  HELP,
-]
+const SAY_AGAIN = ["To change what a commit says, land another one with `akasha write`.", HELP]
 
 const OVER_VERBS = new Map<string, readonly string[]>([
   [
@@ -105,10 +96,7 @@ const AMENDED = [
   ...SAY_AGAIN,
 ]
 
-const FORCED = [
-  "`git push --force` overwrites commits on a branch other agents push to.",
-  ...NONE,
-]
+const FORCED = ["`git push --force` overwrites commits on a branch other agents push to.", ...NONE]
 
 const DELETED = [
   "`git branch --delete --force` deletes a branch whose commits may be reachable from nowhere else.",
@@ -175,9 +163,7 @@ function amendedIn(rest: readonly string[]): boolean {
 }
 
 function forcedIn(rest: readonly string[]): boolean {
-  return rest.some(
-    (word) => FORCED_PUSH.includes(word) || word.startsWith("--force-with-lease=")
-  )
+  return rest.some((word) => FORCED_PUSH.includes(word) || word.startsWith("--force-with-lease="))
 }
 
 function deletedIn(rest: readonly string[]): boolean {

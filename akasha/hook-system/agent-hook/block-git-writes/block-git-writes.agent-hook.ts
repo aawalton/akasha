@@ -26,7 +26,8 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the bounded form of the call, for a write that reaches no akasha path.",
+      statement:
+        "A refusal names the bounded form of the call, for a write that reaches no akasha path.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +48,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A shell writes a file in more ways than can be named, and this reads git alone.",
+      statement: "A shell writes a file in more ways than can be named, and this reads git alone.",
     },
     {
       invariantKind: "gap",
