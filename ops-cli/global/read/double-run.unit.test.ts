@@ -88,3 +88,20 @@ test("a record holds what it says, keyed by path", () => {
     rmSync(root, { recursive: true, force: true })
   }
 })
+
+test("a run states how many files each reader saw, so agreement and silence differ", () => {
+  const seat = `population-${Date.now()}`
+  const log = `${import.meta.dir}/../../../.git/data/double-run/${seat}`
+  try {
+    doubleRun(["--file-path", "akasha/write-system/corpus.module.ts"], seat, new Map())
+    const day = `${log}/${new Date().toISOString().slice(0, 10)}.jsonl`
+    const lines = readFileSync(day, "utf8").trim().split("\n").filter(Boolean)
+    expect(lines.length).toBeGreaterThan(0)
+    const first = JSON.parse(lines[0] ?? "{}") as Record<string, unknown>
+    expect(first["path"]).toBe("*")
+    expect(String(first["old"])).toContain("file(s)")
+    expect(first).toHaveProperty("apart")
+  } finally {
+    rmSync(log, { recursive: true, force: true })
+  }
+})

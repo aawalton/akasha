@@ -85,20 +85,23 @@ export function doubleRun(
     const now = reachedIn(before, heldAt(record))
     const path = logAt(seat, new Date())
     const at = new Date().toISOString()
-    const lines =
-      now.size === 0 && old.size > 0
-        ? [
-            JSON.stringify({
-              at,
-              path: "*",
-              old: `${old.size} file(s)`,
-              new: answer.refusals[0] ?? "nothing, and it refused nothing",
-            }),
-          ]
-        : apart(old, now).map((one) =>
-            JSON.stringify({ at, path: named(one.path), old: one.old, new: one.new })
-          )
-    if (lines.length > 0) appendFileSync(path, `${lines.join("\n")}\n`)
+    const split = apart(old, now)
+    const lines = [
+      JSON.stringify({
+        at,
+        path: "*",
+        old: `${old.size} file(s)`,
+        new:
+          now.size === 0 && old.size > 0
+            ? (answer.refusals[0] ?? "nothing, and it refused nothing")
+            : `${now.size} file(s)`,
+        apart: split.length,
+      }),
+      ...split.map((one) =>
+        JSON.stringify({ at, path: named(one.path), old: one.old, new: one.new })
+      ),
+    ]
+    appendFileSync(path, `${lines.join("\n")}\n`)
   } catch {
     return
   }
