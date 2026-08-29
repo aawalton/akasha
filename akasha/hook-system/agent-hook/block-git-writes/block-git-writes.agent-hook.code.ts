@@ -1,6 +1,6 @@
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
-import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-git-writes"
 
@@ -165,17 +165,13 @@ export function bounded(rest: readonly string[]): boolean {
   return paths.every(outsideAkasha)
 }
 
-function toldOf(said: readonly string[]): string {
-  return [`${HOOK} refused this call.`, "", ...said].join("\n")
-}
-
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_VERBS.get(call.verb)
   if (over === undefined) return null
   const reads = READ_ONLY.get(call.verb) ?? []
   if (call.rest.some((word) => reads.includes(word))) return null
   if (BOUNDABLE.includes(call.verb) && bounded(call.rest)) return null
-  return toldOf(over)
+  return toldOf(HOOK, over)
 }
 
 export function refusalIn(command: string): string | null {

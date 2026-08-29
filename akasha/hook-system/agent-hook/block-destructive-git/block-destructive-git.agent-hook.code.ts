@@ -1,6 +1,6 @@
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
-import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-destructive-git"
 
@@ -152,10 +152,6 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-function toldOf(said: readonly string[]): string {
-  return [`${HOOK} refused this call.`, "", ...said].join("\n")
-}
-
 function amendedIn(rest: readonly string[]): boolean {
   return rest.some((word) => word === "--amend" || word.startsWith("--amend="))
 }
@@ -171,10 +167,10 @@ function deletedIn(rest: readonly string[]): boolean {
 
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_VERBS.get(call.verb)
-  if (over !== undefined) return toldOf(over)
-  if (call.verb === "commit" && amendedIn(call.rest)) return toldOf(AMENDED)
-  if (call.verb === "push" && forcedIn(call.rest)) return toldOf(FORCED)
-  if (call.verb === "branch" && deletedIn(call.rest)) return toldOf(DELETED)
+  if (over !== undefined) return toldOf(HOOK, over)
+  if (call.verb === "commit" && amendedIn(call.rest)) return toldOf(HOOK, AMENDED)
+  if (call.verb === "push" && forcedIn(call.rest)) return toldOf(HOOK, FORCED)
+  if (call.verb === "branch" && deletedIn(call.rest)) return toldOf(HOOK, DELETED)
   return null
 }
 

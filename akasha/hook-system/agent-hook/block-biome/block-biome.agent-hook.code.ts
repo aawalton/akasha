@@ -1,5 +1,5 @@
 import { resolve, sep } from "node:path"
-import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-biome"
@@ -12,9 +12,7 @@ const SETTING_UP: readonly string[] = ["sudo", "env"]
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
-const REFUSAL = [
-  `${HOOK} refused this call.`,
-  "",
+const REFUSAL = toldOf(HOOK, [
   "`biome` reads and writes the files the akasha commands are the door for.",
   "A biome run that writes reaches akasha content with no gate, no index and no commit, which",
   "leaves the akasha index behind HEAD and takes the gate from every agent working here.",
@@ -25,7 +23,7 @@ const REFUSAL = [
   "",
   "akasha formats every body it lands, so there is no formatting here to run by hand.",
   "Say `akasha lint --help` for what it takes.",
-].join("\n")
+])
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses every call that runs biome, reading as well as writing.`,

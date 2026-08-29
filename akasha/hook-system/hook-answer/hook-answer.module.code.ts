@@ -60,6 +60,10 @@ export function refusing(reason: string): Answer {
   }
 }
 
+export function toldOf(hook: string, told: readonly string[]): string {
+  return [`${hook} refused this call.`, "", ...told].join("\n")
+}
+
 export function said(answer: Answer): number {
   if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
   if (answer.err !== "") process.stderr.write(`${answer.err}\n`)

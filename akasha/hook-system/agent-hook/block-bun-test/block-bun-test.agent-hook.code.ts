@@ -1,7 +1,7 @@
 import { resolve, sep } from "node:path"
 import type { BunCall } from "../../bun-calls/bun-calls.module.code.ts"
 import { bunCallsIn } from "../../bun-calls/bun-calls.module.code.ts"
-import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-bun-test"
 
@@ -114,15 +114,11 @@ export function filtersOf(rest: readonly string[]): readonly string[] {
   return held
 }
 
-function toldOf(told: readonly string[]): string {
-  return [`${HOOK} refused this call.`, "", ...told].join("\n")
-}
-
 export function refusalFor(call: BunCall): string | null {
   if (call.verb !== RUNS) return null
   const filters = filtersOf(call.rest)
-  if (filters.length === 0) return toldOf(UNBOUNDED)
-  return filters.some(reachesAkasha) ? toldOf(REACHING) : null
+  if (filters.length === 0) return toldOf(HOOK, UNBOUNDED)
+  return filters.some(reachesAkasha) ? toldOf(HOOK, REACHING) : null
 }
 
 export function guarding(from: string, root: string): boolean {
