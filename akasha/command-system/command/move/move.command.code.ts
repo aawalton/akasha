@@ -1,9 +1,12 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
+import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
+import { indexPath } from "../../../pages-system/indexes/index/index-path/index-path.index.ts"
+import { indexRelation } from "../../../pages-system/indexes/index/index-relation/index-relation.index.ts"
 import {
   everyPath,
   importersOf,
-  indexIn,
+  indexAt,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
@@ -52,9 +55,11 @@ export const surface: Surface = {
   ],
 }
 
-export const PATHS_AT = ".git/data/index/path"
+const BY_PATH = "path"
 
-export const IMPORTS_AT = ".git/data/index/import/path"
+export const PATHS_AT = indexAt(indexPath.indexName)
+
+export const IMPORTS_AT = indexAt(indexImport.indexName, BY_PATH)
 
 const NO_PATHS =
   `\`${PATHS_AT}\` is not there, so what names it could not be answered — an index that is ` +
@@ -124,7 +129,6 @@ export function pairsIn(argv: readonly string[]): Read {
 export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
-  const index = indexIn(root)
   if (!existsSync(join(root, PATHS_AT))) return { unread: NO_PATHS }
   const standing = standingByPath(root, path)
   if (standing.length > 1) {
@@ -136,7 +140,7 @@ export function namingOf(root: string, path: string): Naming {
   }
   const held = standing[0]
   if (held === undefined) return { names: [] }
-  const dir = join(index, "relation", "page", "id", held.id)
+  const dir = join(root, indexAt(indexRelation.indexName, "page", "id", held.id))
   if (!existsSync(dir)) return { names: [] }
   const found = new Set<string>()
   for (const property of readdirSync(dir)) {

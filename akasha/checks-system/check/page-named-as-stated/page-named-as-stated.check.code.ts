@@ -1,16 +1,21 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
+import { indexSchema } from "../../../pages-system/indexes/index/index-schema/index-schema.index.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { indexAt, indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
-const SCHEMA_AT = ".git/data/index/schema/page-property/slug"
-
 const SLUG = "slug"
+
+const SCHEMA = indexSchema.indexName
+
+const PROPERTY = "page-property"
+
+const SCHEMA_AT = indexAt(SCHEMA, PROPERTY, SLUG)
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
@@ -88,7 +93,7 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
 
 export function heldInAFileAt(root: string): ReadonlySet<string> {
   const index = indexIn(root)
-  if (!existsSync(join(index, "schema", "page-property", "slug"))) {
+  if (!existsSync(join(root, SCHEMA_AT))) {
     throw new Error(
       `\`${SCHEMA_AT}\` is not there, so which properties are held in a file could not be answered — an index that is missing is not an index naming no such property`
     )

@@ -54,17 +54,21 @@ export function indexIn(root: string): string {
   return join(root, INDEX_AT)
 }
 
+export function indexAt(indexName: string, ...parts: readonly string[]): string {
+  return join(INDEX_AT, indexName, ...parts)
+}
+
 export function standingAt(root: string, pageTypeSlug: string, slug: string): readonly Standing[] {
-  return standingIn(join(indexIn(root), IDENTITY, pageTypeSlug, "slug", `${slug}${ENDING}`))
+  return standingIn(join(root, indexAt(IDENTITY, pageTypeSlug, "slug", `${slug}${ENDING}`)))
 }
 
 export function standingById(root: string, id: string): Standing | null {
-  const found = standingIn(join(indexIn(root), IDENTITY, "page", "id", `${id}${ENDING}`))
+  const found = standingIn(join(root, indexAt(IDENTITY, "page", "id", `${id}${ENDING}`)))
   return found[0] ?? null
 }
 
 export function standingByPath(root: string, path: string): readonly Standing[] {
-  return standingIn(join(indexIn(root), PATH, `${path}${ENDING}`))
+  return standingIn(join(root, indexAt(PATH, `${path}${ENDING}`)))
 }
 
 function pathsIn(at: string): readonly string[] {
@@ -83,7 +87,7 @@ export function importersOf(root: string, path: string): readonly string[] {
   if (why !== null) {
     throw new Error(`which files import \`${path}\` could not be answered — ${why}`)
   }
-  return pathsIn(join(indexIn(root), IMPORT, "path", `${path}${ENDING}`))
+  return pathsIn(join(root, indexAt(IMPORT, "path", `${path}${ENDING}`)))
 }
 
 function schemaIn(at: string): readonly Schema[] {
@@ -103,12 +107,12 @@ function schemaIn(at: string): readonly Schema[] {
 }
 
 export function schemaOf(root: string, propertySlug: string): Schema | null {
-  const found = schemaIn(join(indexIn(root), SCHEMA, PROPERTY, "slug", `${propertySlug}${ENDING}`))
+  const found = schemaIn(join(root, indexAt(SCHEMA, PROPERTY, "slug", `${propertySlug}${ENDING}`)))
   return found[0] ?? null
 }
 
 export function everyOfType(root: string, pageTypeSlug: string): readonly Standing[] {
-  const dir = join(indexIn(root), IDENTITY, pageTypeSlug, "slug")
+  const dir = join(root, indexAt(IDENTITY, pageTypeSlug, "slug"))
   if (!existsSync(dir)) return []
   const found: Standing[] = []
   for (const name of readdirSync(dir)) {
@@ -119,7 +123,7 @@ export function everyOfType(root: string, pageTypeSlug: string): readonly Standi
 }
 
 export function slugsOfType(root: string, pageTypeSlug: string): readonly string[] {
-  const dir = join(indexIn(root), IDENTITY, pageTypeSlug, "slug")
+  const dir = join(root, indexAt(IDENTITY, pageTypeSlug, "slug"))
   if (!existsSync(dir)) return []
   return readdirSync(dir)
     .filter((one) => one.endsWith(ENDING))
@@ -128,7 +132,7 @@ export function slugsOfType(root: string, pageTypeSlug: string): readonly string
 }
 
 export function idsNaming(root: string, id: string, propertySlug: string): readonly string[] {
-  const dir = join(indexIn(root), RELATION, "page", "id", id, propertySlug)
+  const dir = join(root, indexAt(RELATION, "page", "id", id, propertySlug))
   if (!existsSync(dir)) return []
   return readdirSync(dir)
     .filter((one) => one.endsWith(ENDING))
@@ -137,7 +141,7 @@ export function idsNaming(root: string, id: string, propertySlug: string): reado
 }
 
 export function everyPage(root: string): readonly Standing[] {
-  const dir = join(indexIn(root), IDENTITY, "page", "id")
+  const dir = join(root, indexAt(IDENTITY, "page", "id"))
   if (!existsSync(dir)) return []
   const found: Standing[] = []
   for (const name of readdirSync(dir)) {
@@ -156,7 +160,7 @@ function underneath(at: string, said: string, found: string[]): void {
 }
 
 export function everyPath(root: string): readonly string[] {
-  const dir = join(indexIn(root), PATH)
+  const dir = join(root, indexAt(PATH))
   if (!existsSync(dir)) return []
   const found: string[] = []
   underneath(dir, "", found)

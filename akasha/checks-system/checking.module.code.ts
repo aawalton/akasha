@@ -1,10 +1,12 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { indexIdentity } from "../pages-system/indexes/index/index-identity/index-identity.index.ts"
+import { indexPath } from "../pages-system/indexes/index/index-path/index-path.index.ts"
 import {
   everyOfType,
   everyPath,
-  indexIn,
+  indexAt,
 } from "../pages-system/indexes/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import { besideAt, namedIn } from "../pages-system/page/page-file-name.module.code.ts"
@@ -29,24 +31,24 @@ export type Gathered = {
 
 const CHECK = "check"
 
-const IDENTITY = "identity"
+const IDENTITY = indexIdentity.indexName
 
 const SLUG = "slug"
 
-const PATH = "path"
+const PATH = indexPath.indexName
 
 const CODE = "code"
 
 const TS = "ts"
 
-const CHECKS_AT = ".git/data/index/identity/check/slug"
+const CHECKS_AT = indexAt(IDENTITY, CHECK, SLUG)
 
-const PATHS_AT = ".git/data/index/path"
+const PATHS_AT = indexAt(PATH)
 
 const reach_ = createRequire(import.meta.url)
 
 export function checkPagesIn(root: string): readonly string[] {
-  if (!existsSync(join(indexIn(root), IDENTITY, CHECK, SLUG))) {
+  if (!existsSync(join(root, CHECKS_AT))) {
     throw new Error(
       `\`${CHECKS_AT}\` is not there, so which checks stand could not be answered — an index that is missing is not an index naming no check`
     )
@@ -176,7 +178,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
 }
 
 export function everyFileIn(root: string): readonly string[] {
-  if (!existsSync(join(indexIn(root), PATH))) {
+  if (!existsSync(join(root, PATHS_AT))) {
     throw new Error(
       `\`${PATHS_AT}\` is not there, so which files stand could not be answered — an index that is missing is not an index naming no file`
     )

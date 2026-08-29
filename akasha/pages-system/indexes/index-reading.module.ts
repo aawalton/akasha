@@ -32,6 +32,11 @@ export const indexReading = {
       statement: "What imports a file is refused when the index does not describe HEAD.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Where an index stands is said here alone, as a path under the root, so a caller that must name one in a refusal says the path it reached rather than spelling it again.",
+    },
+    {
       invariantKind: "absence",
       statement: "An answer about one page reads no stamp.",
     },

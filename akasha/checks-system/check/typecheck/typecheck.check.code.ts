@@ -1,7 +1,8 @@
 import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
-import { importersOf, indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
+import { importersOf, indexAt } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
@@ -12,11 +13,11 @@ const INSIDE = `${AKASHA}/`
 
 const PACKAGES = "node_modules"
 
-const IMPORT = "import"
+const IMPORT = indexImport.indexName
 
 const PATH = "path"
 
-const IMPORTS_AT = ".git/data/index/import/path"
+const IMPORTS_AT = indexAt(IMPORT, PATH)
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
@@ -41,7 +42,7 @@ export function compiled(path: string): boolean {
 }
 
 export function reachingIn(root: string): void {
-  if (existsSync(join(indexIn(root), IMPORT, PATH))) return
+  if (existsSync(join(root, IMPORTS_AT))) return
   throw new Error(
     `\`${IMPORTS_AT}\` is not there, so which files the change reaches could not be answered — an index that is missing is not an index naming no importer`
   )
