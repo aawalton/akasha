@@ -18,8 +18,6 @@ import type { Indexing } from "../pages-system/indexes/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
 import { SCRATCH_AT } from "./scratching.module.code.ts"
 
-export { holding }
-
 export type Change = {
   readonly path: string
   readonly body: Uint8Array | null
