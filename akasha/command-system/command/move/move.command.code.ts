@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
-import ts from "typescript"
+import { placedIn } from "../../../code-system/code-specifier.module.code.ts"
 import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
@@ -170,38 +170,6 @@ export function namingOf(root: string, path: string): Naming {
   return { names: [...found].sort() }
 }
 
-type Held = {
-  readonly start: number
-  readonly end: number
-  readonly text: string
-}
-
-export function specifiersIn(path: string, text: string): readonly Held[] {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
-  const found: Held[] = []
-  const took = (node: ts.Node | undefined): void => {
-    if (node === undefined || !ts.isStringLiteral(node)) return
-    found.push({ start: node.getStart(source), end: node.getEnd(), text: node.text })
-  }
-  const walked = (node: ts.Node): void => {
-    if (ts.isImportDeclaration(node) || ts.isExportDeclaration(node)) took(node.moduleSpecifier)
-    if (
-      ts.isCallExpression(node) &&
-      (node.expression.kind === ts.SyntaxKind.ImportKeyword ||
-        (ts.isIdentifier(node.expression) && node.expression.text === "require"))
-    ) {
-      took(node.arguments[0])
-    }
-    if (ts.isExternalModuleReference(node)) took(node.expression)
-    if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument)) {
-      took(node.argument.literal)
-    }
-    ts.forEachChild(node, walked)
-  }
-  ts.forEachChild(source, walked)
-  return [...found].sort((one, two) => one.start - two.start)
-}
-
 function landedAt(path: string, specifier: string): string | null {
   if (!RELATIVE.test(specifier)) return null
   return join(dirname(path), specifier)
@@ -221,7 +189,7 @@ export function repointed(
   const dir = dirname(now)
   let out = ""
   let at = 0
-  for (const one of specifiersIn(now, text)) {
+  for (const one of placedIn(now, text)) {
     const landed = landedAt(was, one.text)
     if (landed === null) continue
     const next = specifierFor(dir, moved.get(landed) ?? landed)

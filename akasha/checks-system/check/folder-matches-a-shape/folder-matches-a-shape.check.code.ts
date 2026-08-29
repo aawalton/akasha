@@ -1,12 +1,12 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts"
 import {
   filePropertiesAt,
   importedBy,
   type Known,
   knownIn,
   pageTypesIn,
-  specifiersIn,
 } from "../../../pages-system/index/index-entries.module.code.ts"
 import {
   everyOfType,

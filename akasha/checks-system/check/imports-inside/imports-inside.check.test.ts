@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { landingOf, reasonsIn, specifiersIn } from "./imports-inside.check.code.ts"
+import { landingOf, reasonsIn } from "./imports-inside.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -118,11 +118,6 @@ test("a specifier is judged by where it lands, not by what is there", () => {
     given("akasha/held.ts", 'import { one } from "../never-written/at-all.ts"\n')
   )
   expect(said).toHaveLength(1)
-})
-
-test("every specifier a file writes is found, and nothing else is", () => {
-  const body = ['import { a } from "./one.ts"', 'const b = "./not-an-import.ts"'].join("\n")
-  expect(specifiersIn("akasha/held.ts", body)).toEqual(["./one.ts"])
 })
 
 test("a package names no landing, and a relative specifier names one under the holder", () => {

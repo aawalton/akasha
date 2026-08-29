@@ -2,7 +2,7 @@ import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSy
 import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import ts from "typescript"
+import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
@@ -168,38 +168,6 @@ export function schemaIn(value: Value): readonly Entry[] {
 const RELATIVE = /^\.\.?\//
 
 const OUTSIDE = ".."
-
-export function specifiersIn(at: string, text: string): readonly string[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, false, ts.ScriptKind.TS)
-  const found: string[] = []
-  const held = (node: ts.Node): void => {
-    if (
-      (ts.isImportDeclaration(node) || ts.isExportDeclaration(node)) &&
-      node.moduleSpecifier !== undefined &&
-      ts.isStringLiteral(node.moduleSpecifier)
-    ) {
-      found.push(node.moduleSpecifier.text)
-    }
-    if (
-      ts.isCallExpression(node) &&
-      (node.expression.kind === ts.SyntaxKind.ImportKeyword ||
-        (ts.isIdentifier(node.expression) && node.expression.text === "require"))
-    ) {
-      const one = node.arguments[0]
-      if (one !== undefined && ts.isStringLiteral(one)) found.push(one.text)
-    }
-    if (ts.isExternalModuleReference(node) && ts.isStringLiteral(node.expression)) {
-      found.push(node.expression.text)
-    }
-    if (ts.isImportTypeNode(node) && ts.isLiteralTypeNode(node.argument)) {
-      const one = node.argument.literal
-      if (ts.isStringLiteral(one)) found.push(one.text)
-    }
-    ts.forEachChild(node, held)
-  }
-  ts.forEachChild(source, held)
-  return found
-}
 
 export function importedBy(path: string, specifier: string): string | null {
   if (!RELATIVE.test(specifier)) return null

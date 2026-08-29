@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reasonsIn, specifiersIn } from "./require-import-extension.check.code.ts"
+import { reasonsIn } from "./require-import-extension.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -91,23 +91,6 @@ test("a specifier reaching down into a folder is judged by its own ending", () =
 test("a specifier naming a folder rather than a file is refused, because it names no file", () => {
   const body = 'import a from "./one"\n'
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
-})
-
-test("every specifier a file writes is found, whichever form it is written in", () => {
-  const body = [
-    'import a from "./a.ts"',
-    'export { b } from "./b.ts"',
-    'const c = await import("./c.ts")',
-    'const d = require("./d.ts")',
-    'type E = import("./e.ts").E',
-  ].join("\n")
-  expect(specifiersIn("akasha/held.ts", body)).toEqual([
-    "./a.ts",
-    "./b.ts",
-    "./c.ts",
-    "./d.ts",
-    "./e.ts",
-  ])
 })
 
 test("a declaration file is judged, because its name ends in `.ts`", () => {
