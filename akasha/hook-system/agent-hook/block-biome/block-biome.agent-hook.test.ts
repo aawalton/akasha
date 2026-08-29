@@ -1,17 +1,15 @@
 import { expect, test } from "bun:test"
-import { join, resolve } from "node:path"
+import { join } from "node:path"
+import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import { biomeIn, refusalIn, SCOPE } from "./block-biome.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-biome.agent-hook.code.ts")
 
-const ROOT = resolve(import.meta.dir, "..", "..", "..", "..")
+const ROOT = rootOf(import.meta.path)
 
 function judged(command: string, from: string = ROOT): string | null {
   return refusalIn(command, from, ROOT)
-}
-
-function payloadOf(command: string, from: string = ROOT): string {
-  return JSON.stringify({ tool_name: "Bash", tool_input: { command }, cwd: from })
 }
 
 test("a biome call is refused, reading as well as writing", () => {
@@ -92,7 +90,9 @@ test("the scope names the hole in this rule rather than hiding it", () => {
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("biome check .")) })
+  const ran = Bun.spawnSync(["bun", SCRIPT], {
+    stdin: Buffer.from(payloadOf("biome check .", ROOT)),
+  })
   expect(ran.exitCode).toBe(2)
   const said: unknown = JSON.parse(ran.stdout.toString())
   expect(said).toMatchObject({ decision: "block" })
@@ -100,7 +100,9 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
 })
 
 test("the hook stands aside on stdin for a call that is not biome", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("npm run lint")) })
+  const ran = Bun.spawnSync(["bun", SCRIPT], {
+    stdin: Buffer.from(payloadOf("npm run lint", ROOT)),
+  })
   expect(ran.exitCode).toBe(0)
   expect(ran.stdout.toString()).toBe("")
 })

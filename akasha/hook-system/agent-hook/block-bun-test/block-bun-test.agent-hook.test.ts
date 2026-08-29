@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
-import { join, resolve } from "node:path"
+import { join } from "node:path"
+import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import {
   filtersOf,
   guarding,
@@ -10,14 +12,10 @@ import {
 
 const SCRIPT = join(import.meta.dir, "block-bun-test.agent-hook.code.ts")
 
-const ROOT = resolve(import.meta.dir, "..", "..", "..", "..")
+const ROOT = rootOf(import.meta.path)
 
 function judged(command: string, from: string = ROOT): string | null {
   return refusalIn(command, from, ROOT)
-}
-
-function payloadOf(command: string, from: string = ROOT): string {
-  return JSON.stringify({ tool_name: "Bash", tool_input: { command }, cwd: from })
 }
 
 test("a run naming no path is refused, and says what it would reach", () => {
@@ -37,6 +35,10 @@ test("a run reaching the akasha folder is refused, and names the command that ru
   expect(said).toContain("runs the akasha tests outside the akasha commands")
   expect(said).toContain("akasha test --file-path <path>")
   expect(said).toContain("Say `akasha test --help` for what it takes.")
+})
+
+test("every refusal names the hook that made it", () => {
+  expect(judged("bun test")).toContain("block-bun-test refused this call.")
 })
 
 test("every spelling of a path reaching akasha is refused", () => {
@@ -120,7 +122,7 @@ test("the scope names the class it cannot close and the gap it carries", () => {
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test")) })
+  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test", ROOT)) })
   expect(ran.exitCode).toBe(2)
   const said: unknown = JSON.parse(ran.stdout.toString())
   expect(said).toMatchObject({ decision: "block" })
@@ -129,7 +131,7 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
 
 test("the hook stands aside on stdin for a run outside the akasha folder", () => {
   const ran = Bun.spawnSync(["bun", SCRIPT], {
-    stdin: Buffer.from(payloadOf("bun test shared/one")),
+    stdin: Buffer.from(payloadOf("bun test shared/one", ROOT)),
   })
   expect(ran.exitCode).toBe(0)
   expect(ran.stdout.toString()).toBe("")
