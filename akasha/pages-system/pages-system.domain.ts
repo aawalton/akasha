@@ -5,7 +5,12 @@ export const pagesSystem = {
   pageTypeSlug: "domain",
   slug: "pages-system",
   definition: "how we keep track of things",
-  partSlugs: ["page-type/page", "page-type/page-type", "page-type/page-property-type"],
+  partSlugs: [
+    "page-type/page",
+    "page-type/page-type",
+    "page-type/page-property-type",
+    "module/page-address",
+  ],
   requiredReadingSlugs: [],
   design: [
     "Page types and page property types are themselves page types.",

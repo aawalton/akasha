@@ -5,7 +5,7 @@ export const commandSystem = {
   pageTypeSlug: "domain",
   slug: "command-system",
   definition: "what an agent runs by name",
-  partSlugs: ["page-type/command", "module/calling"],
+  partSlugs: ["page-type/command", "module/calling", "module/landing", "module/cli"],
   requiredReadingSlugs: [],
   design: [
     "A command reaches the akasha folder and nothing above it.",
