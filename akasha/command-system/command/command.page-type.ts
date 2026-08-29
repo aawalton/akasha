@@ -15,6 +15,7 @@ export const command = {
     "boolean-property/mechanical",
     "command/edit",
     "command/index",
+    "command/lint",
     "command/move",
     "command/read",
     "command/remove",

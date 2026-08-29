@@ -1,0 +1,35 @@
+import type { Command } from "../command.page-type.ts"
+
+export const lint = {
+  id: "01a04edb-5f33-7000-9f46-2381be320a7b",
+  pageTypeSlug: "command",
+  slug: "lint",
+  definition: "the command saying what the linter finds in the akasha folder and fixing none of it",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A run reaches no file outside the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run named nothing reads every file under the akasha folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run only reads. Nothing is fixed, formatted or written, so the tree stands after it as it stood before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that could not be made is answered as a failure of its own, never as a tree the linter found nothing in.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A run takes no rule to turn on or off. What is checked is what the linter is configured by.",
+    },
+  ],
+} as const satisfies Command
