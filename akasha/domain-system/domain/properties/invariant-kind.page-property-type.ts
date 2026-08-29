@@ -20,39 +20,6 @@ export const invariantKind = {
       statement: "Design, intent and condition each take their own kinds, and share none.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A departure is a decision a reader would not guess right; knowing it stops them undoing it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An absence is something the domain deliberately leaves out; knowing it stops a reader adding it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An absence earns its place only where what is left out is near enough to what is kept to be reached for by mistake.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A constraint is a limit nobody here chose; knowing it stops a reader asking for the impossible.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A gap is a distance between what the domain says and what it does; knowing it stops a reader relying on it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A stopgap is a state kept by hand until something is built to hold it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Upkeep is a state kept by hand because nothing could be built to hold it.",
-    },
-    {
       invariantKind: "constraint",
       statement:
         "The plain word `kind` names which kind of value a property holds, never which kind of invariant.",
