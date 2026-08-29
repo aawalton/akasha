@@ -19,6 +19,11 @@ export const judging = {
     {
       invariantKind: "departure",
       statement:
+        "`at` and `was` answer for any path, not only one the change carries, and a path it never touched reads the base commit through both.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Audit is a change in which every file is unchanged, so `was` and `at` answer alike there and nothing reads as added or taken away.",
     },
   ],
