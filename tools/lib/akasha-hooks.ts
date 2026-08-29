@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 
-import { everyOfType, indexIn } from "../../akasha/data-system/index/index-reading.module.code.ts"
+import { everyOfType, indexIn } from "../../akasha/pages-system/index/index-reading.module.code.ts"
 
 const PAGE_TYPE = "agent-hook"
 
