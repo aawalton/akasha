@@ -23,9 +23,9 @@ const C = "01a04b79-0000-7000-8000-00000000000c"
 const D = "01a04b79-0000-7000-8000-00000000000d"
 
 const SCHEMA = {
-  code: '{"kind":"file","targetPageTypeSlug":null,"entrySlug":null}',
-  domainSlug: '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}',
-  partSlugs: '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}',
+  code: '{"pageTypeSlug":"file-property","targetPageTypeSlug":null}',
+  domainSlug: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}',
+  partSlugs: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}',
 } as const
 
 const scratch = scratchWorld()
@@ -56,9 +56,9 @@ function grounded(): { readonly root: string; readonly repo: string } {
   })
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
-  filed("schema/page-property-type/slug/code.jsonl", SCHEMA.code)
-  filed("schema/page-property-type/slug/domain-slug.jsonl", SCHEMA.domainSlug)
-  filed("schema/page-property-type/slug/part-slugs.jsonl", SCHEMA.partSlugs)
+  filed("schema/page-property/slug/code.jsonl", SCHEMA.code)
+  filed("schema/page-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
+  filed("schema/page-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
   return { root, repo }
 }
 
@@ -111,17 +111,17 @@ test("a property held in a file is filed under the path the naming grammar gives
   ])
 })
 
-test("a property no page property type declares to be a file is filed under no path", () => {
+test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
 
   expect(pathsOf(value, "/repo/a.domain.ts", "/repo", new Set(["code"]))).toEqual(["a.domain.ts"])
 })
 
-test("the properties held in a file are the ones a page property type declares as such", () => {
+test("the properties held in a file are the ones the file shape is", () => {
   const values = [
-    { id: "1", pageTypeSlug: "page-property-type", slug: "code", kind: "file" },
-    { id: "2", pageTypeSlug: "page-property-type", slug: "part-slugs", kind: "list" },
-    { id: "3", pageTypeSlug: "domain", slug: "code", kind: "file" },
+    { id: "1", pageTypeSlug: "file-property", slug: "code" },
+    { id: "2", pageTypeSlug: "relation-property", slug: "part-slugs" },
+    { id: "3", pageTypeSlug: "domain", slug: "code" },
   ]
 
   expect([...filePropertiesIn(values)]).toEqual(["code"])
@@ -136,36 +136,47 @@ test("a property whose name is written in camel is filed under its kebab slug", 
   ])
 })
 
-test("a property type is filed under its slug with its kind, its target and its entry", () => {
+test("a property is filed under its slug with the shape it is, and a target it does not name is held as null", () => {
   const value = {
     id: A,
-    pageTypeSlug: "page-property-type",
-    slug: "part-slugs",
-    kind: "list",
-    entrySlug: "domain-slug",
+    pageTypeSlug: "file-property",
+    slug: "code",
   }
 
   expect(schemaIn(value)).toEqual([
-    { at: "schema/page-property-type/slug/part-slugs.jsonl", line: SCHEMA.partSlugs },
+    { at: "schema/page-property/slug/code.jsonl", line: SCHEMA.code },
   ])
 })
 
 test("a target naming its page type is filed as the slug alone", () => {
   const value = {
-    pageTypeSlug: "page-property-type",
+    pageTypeSlug: "relation-property",
     slug: "domain-slug",
-    kind: "relation",
     targetPageTypeSlug: "page-type/domain",
   }
 
   expect(schemaIn(value)).toEqual([
-    { at: "schema/page-property-type/slug/domain-slug.jsonl", line: SCHEMA.domainSlug },
+    { at: "schema/page-property/slug/domain-slug.jsonl", line: SCHEMA.domainSlug },
   ])
 })
 
-test("a page that is not a property type, and a property stating no kind, are filed with no schema", () => {
-  expect(schemaIn({ id: A, pageTypeSlug: "domain", slug: "a", kind: "list" })).toEqual([])
-  expect(schemaIn({ id: A, pageTypeSlug: "page-property-type", slug: "a" })).toEqual([])
+test("a property naming many pages is filed under its slug with the target it names itself", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "relation-property",
+    slug: "part-slugs",
+    targetPageTypeSlug: "page-type/domain",
+  }
+
+  expect(schemaIn(value)).toEqual([
+    { at: "schema/page-property/slug/part-slugs.jsonl", line: SCHEMA.partSlugs },
+  ])
+})
+
+test("a page that is no property shape, and a property stating no slug, are filed with no schema", () => {
+  expect(schemaIn({ id: A, pageTypeSlug: "domain", slug: "a" })).toEqual([])
+  expect(schemaIn({ id: A, pageTypeSlug: "page-property", slug: "a" })).toEqual([])
+  expect(schemaIn({ id: A, pageTypeSlug: "text-property" })).toEqual([])
 })
 
 test("the properties held in a file are read from the schema the index carries", () => {
@@ -174,11 +185,12 @@ test("the properties held in a file are read from the schema the index carries",
   expect([...filePropertiesAt(root)]).toEqual(["code"])
 })
 
-test("a list property takes its target from the property its entry names, and opens no page to do it", () => {
+test("a property naming many pages takes the target it names itself, and opens no page to do it", () => {
   const { root, repo } = grounded()
   const known = knownIn(root, repo)
 
   expect(known.targetOf("part-slugs")).toBe("domain")
+  expect(known.targetOf("code")).toBe(null)
   expect(known.targetOf("design")).toBe(null)
 })
 
@@ -187,7 +199,7 @@ test("a page type admits a target every page type it extends up to also admits",
   const known = knownIn(root, repo)
 
   expect([...known.admitting("domain")].sort()).toEqual(["domain", "module"])
-  expect(known.admitting("page-property-type")).toEqual([])
+  expect(known.admitting("page-property")).toEqual([])
 })
 
 test("a name carrying no page type reaches the one page admitting its property's target", () => {

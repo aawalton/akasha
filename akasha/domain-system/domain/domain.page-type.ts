@@ -1,9 +1,9 @@
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { Definition } from "./properties/definition.page-property-type.ts"
-import type { Directives } from "./properties/directives.page-property-type.ts"
-import type { Invariants } from "./properties/invariants.page-property-type.ts"
-import type { PartSlugs } from "./properties/part-slugs.page-property-type.ts"
+import type { Definition } from "./properties/definition.text-property.ts"
+import type { Directives } from "./properties/directives.record-property.ts"
+import type { Invariants } from "./properties/invariants.record-property.ts"
+import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
 
 export type Domain = Page & {
   definition: Definition
@@ -19,10 +19,10 @@ export const domain = {
   definition: "a bounded area of concern",
   extendsSlug: "page-type/page",
   properties: [
-    { propertySlug: "page-property-type/definition", required: true, many: false },
-    { propertySlug: "page-property-type/part-slugs", required: false, many: true },
-    { propertySlug: "page-property-type/invariants", required: false, many: true },
-    { propertySlug: "page-property-type/directives", required: false, many: true },
+    { propertySlug: "definition", required: true, many: false },
+    { propertySlug: "part-slugs", required: false, many: true },
+    { propertySlug: "invariants", required: false, many: true },
+    { propertySlug: "directives", required: false, many: true },
   ],
   invariants: [
     {

@@ -44,14 +44,14 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   for (const one of fileProperties) {
     filed(
       root,
-      join("schema", "page-property-type", "slug", `${one}.jsonl`),
-      JSON.stringify({ kind: "file" })
+      join("schema", "page-property", "slug", `${one}.jsonl`),
+      JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null })
     )
   }
   filed(
     root,
-    join("schema", "page-property-type", "slug", "definition.jsonl"),
-    JSON.stringify({ kind: "text" })
+    join("schema", "page-property", "slug", "definition.jsonl"),
+    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
   )
   return root
 }
@@ -151,7 +151,7 @@ test("which properties are held in a file is read from the index, not from a lis
   ])
 })
 
-test("a property whose kind is not file is not asked for a file", () => {
+test("a property whose shape is not a file is not asked for a file", () => {
   const root = rooted(["code"])
   expect(
     pagePropertyHasItsFile(over(root, [PAGE], { [PAGE]: body(', code: "ts", definition: "held"') }))

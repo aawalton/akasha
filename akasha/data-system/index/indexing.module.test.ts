@@ -70,7 +70,7 @@ const edgeFile = (root: string, target: string, property: string, source: string
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
 
 const schemaFile = (root: string, slug: string): string =>
-  join(root, `schema/page-property-type/slug/${slug}.jsonl`)
+  join(root, `schema/page-property/slug/${slug}.jsonl`)
 
 const importFile = (root: string, path: string): string => join(root, `import/path/${path}.jsonl`)
 
@@ -87,24 +87,24 @@ function aType(id: string, slug: string, extendsSlug: string | null): Named {
   return [`${slug}.page-type.ts`, { id, pageTypeSlug: "page-type", slug, extendsSlug }]
 }
 
-function aProperty(id: string, slug: string, rest: Held): Named {
-  return [
-    `${slug}.page-property-type.ts`,
-    { id, pageTypeSlug: "page-property-type", slug, ...rest },
-  ]
+function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
+  return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, ...rest }]
 }
 
-const NOTE = aProperty("8", "note", { kind: "relation", targetPageTypeSlug: "domain" })
+const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
 
 const VOCABULARY: readonly Named[] = [
   aType("0", "page", null),
-  aType("5", "page-property-type", "page"),
+  aType("5", "page-property", "page"),
+  aType("9", "text-property", "page-property"),
+  aType("10", "relation-property", "page-property"),
+  aType("11", "file-property", "page-property"),
   aType("1", "domain", "page"),
   aType("2", "module", "domain"),
-  aProperty("3", "part-slugs", { kind: "list", entrySlug: "domain-slug" }),
-  aProperty("4", "domain-slug", { kind: "relation", targetPageTypeSlug: "domain" }),
-  aProperty("6", "code", { kind: "file" }),
-  aProperty("7", "test", { kind: "file" }),
+  aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
+  aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
+  aProperty("6", "code", "file-property"),
+  aProperty("7", "test", "file-property"),
 ]
 
 function grounded(): Pair {
@@ -196,25 +196,24 @@ test("two pages carrying one value leave two lines in one file", () => {
   expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
 })
 
-test("a property type that changes its kind changes what its entry says", () => {
+test("a property that changes its shape changes what its entry says", () => {
   const { tree, root } = grounded()
-  settled(root, tree, ...NOTE, null)
+  const at = settled(root, tree, ...NOTE, null)
   expect(said(schemaFile(root, "note"))).toEqual({
-    kind: "relation",
+    pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
-    entrySlug: null,
   })
 
-  settled(root, tree, NOTE[0], aProperty("8", "note", { kind: "text" })[1], NOTE[1])
+  tookAway(root, tree, at, bodyOf(NOTE[1]))
+  settled(root, tree, ...aProperty("8", "note", "text-property"), null)
 
   expect(said(schemaFile(root, "note"))).toEqual({
-    kind: "text",
+    pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
-    entrySlug: null,
   })
 })
 
-test("a removed property type leaves no schema entry and leaves the rest standing", () => {
+test("a removed property leaves no schema entry and leaves the rest standing", () => {
   const { tree, root } = grounded()
   const at = settled(root, tree, ...NOTE, null)
   tookAway(root, tree, at, bodyOf(NOTE[1]))

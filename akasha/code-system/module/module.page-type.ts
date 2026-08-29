@@ -1,7 +1,7 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { Code } from "./properties/code.page-property-type.ts"
-import type { Test } from "./properties/test.page-property-type.ts"
+import type { Code } from "./properties/code.file-property.ts"
+import type { Test } from "./properties/test.file-property.ts"
 
 export type Module = Domain & {
   code: Code
@@ -15,8 +15,8 @@ export const module = {
   definition: "code reached by importing it",
   extendsSlug: "page-type/domain",
   properties: [
-    { propertySlug: "page-property-type/code", required: true, many: false },
-    { propertySlug: "page-property-type/test", required: false, many: false },
+    { propertySlug: "code", required: true, many: false },
+    { propertySlug: "test", required: false, many: false },
   ],
   invariants: [
     {

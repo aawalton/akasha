@@ -1,9 +1,9 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { RunsOnAudit } from "./properties/runs-on-audit.page-property-type.ts"
-import type { RunsOnDeploy } from "./properties/runs-on-deploy.page-property-type.ts"
-import type { RunsOnPatch } from "./properties/runs-on-patch.page-property-type.ts"
-import type { RunsOnWorktree } from "./properties/runs-on-worktree.page-property-type.ts"
+import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
+import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
+import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts"
+import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
 
 export type Check = Module & {
   runsOnPatch: RunsOnPatch
@@ -19,10 +19,10 @@ export const check = {
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
   properties: [
-    { propertySlug: "page-property-type/runs-on-patch", required: true, many: false },
-    { propertySlug: "page-property-type/runs-on-worktree", required: true, many: false },
-    { propertySlug: "page-property-type/runs-on-deploy", required: true, many: false },
-    { propertySlug: "page-property-type/runs-on-audit", required: true, many: false },
+    { propertySlug: "runs-on-patch", required: true, many: false },
+    { propertySlug: "runs-on-worktree", required: true, many: false },
+    { propertySlug: "runs-on-deploy", required: true, many: false },
+    { propertySlug: "runs-on-audit", required: true, many: false },
   ],
   invariants: [
     {

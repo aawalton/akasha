@@ -1,6 +1,6 @@
-import type { Max } from "../page-property-type/properties/max.page-property-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { PageProperty } from "./page-property.page-type.ts"
+import type { Max } from "./properties/max.number-property.ts"
 
 export type NumberProperty = PageProperty & {
   max: Max | null
@@ -12,5 +12,5 @@ export const numberProperty = {
   slug: "number-property",
   definition: "a page property holding a number",
   extendsSlug: "page-type/page-property",
-  properties: [{ propertySlug: "page-property-type/max", required: true, many: false }],
+  properties: [{ propertySlug: "max", required: true, many: false }],
 } as const satisfies PageType

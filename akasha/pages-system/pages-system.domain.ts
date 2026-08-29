@@ -8,7 +8,7 @@ export const pagesSystem = {
   partSlugs: [
     "page-type/page",
     "page-type/page-type",
-    "page-type/page-property-type",
+    "page-type/page-property",
     "page-type/page-property",
     "page-type/text-property",
     "page-type/number-property",

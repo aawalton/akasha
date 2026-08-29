@@ -12,11 +12,11 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope is always `page-property-type`.",
+      statement: "The scope is always `page-property`.",
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the property's kind, its target page type and its entry slug.",
+      statement: "A line carries the page type the property is, and its target page type.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +31,6 @@ export const indexSchema = {
       invariantKind: "departure",
       statement:
         "An entry is read from the property's own page alone, and no other page's change can leave it stale.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A list reaches what its entries may name in one read rather than one for each link.",
     },
   ],
 } as const satisfies Domain

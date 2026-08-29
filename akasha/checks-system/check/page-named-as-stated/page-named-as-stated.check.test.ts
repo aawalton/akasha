@@ -93,7 +93,7 @@ test("a page property's code file is no page, so a value it holds is passed over
 })
 
 test("a page property's test file is no page, so a fixture it holds is passed over", () => {
-  const body = page("note", "page-property-type")
+  const body = page("note", "relation-property")
   expect(reasons("akasha/data-system/index/indexing.module.test.ts", body)).toEqual([])
 })
 
@@ -108,8 +108,20 @@ test("an index that cannot say which properties are held in a file refuses, rath
   expect(() => heldInAFileAt(ROOT)).toThrow("could not be answered")
 })
 
+test("a property whose file is named for the shape it states is let through", () => {
+  const body = page("part-slugs", "relation-property")
+  expect(reasons("akasha/part-slugs.relation-property.ts", body)).toEqual([])
+})
+
+test("a property whose file is named for a shape it does not state is refused", () => {
+  const body = page("part-slugs", "text-property")
+  const said = reasons("akasha/part-slugs.relation-property.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("page type as `text-property`")
+})
+
 test("a fixture written plainly at the top of a test file is passed over", () => {
-  const body = 'const NOTE = {\n  pageTypeSlug: "page-property-type",\n  slug: "note",\n}\n'
+  const body = 'const NOTE = {\n  pageTypeSlug: "relation-property",\n  slug: "note",\n}\n'
   expect(reasons("akasha/index-schema.module.test.ts", body)).toEqual([])
 })
 

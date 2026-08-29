@@ -1,6 +1,6 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Domain } from "../domain/domain.page-type.ts"
-import type { InvariantGroupSlug } from "./properties/invariant-group-slug.page-property-type.ts"
+import type { InvariantGroupSlug } from "./properties/invariant-group-slug.relation-property.ts"
 
 export type InvariantKind = Domain & {
   groupSlug: InvariantGroupSlug
@@ -12,9 +12,7 @@ export const invariantKind = {
   slug: "invariant-kind",
   definition: "which sort one invariant is",
   extendsSlug: "page-type/domain",
-  properties: [
-    { propertySlug: "page-property-type/invariant-group-slug", required: true, many: false },
-  ],
+  properties: [{ propertySlug: "invariant-group-slug", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

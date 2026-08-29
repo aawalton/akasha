@@ -20,9 +20,8 @@ export type Standing = {
 }
 
 export type Schema = {
-  readonly kind: string
+  readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
-  readonly entrySlug: string | null
 }
 
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
@@ -94,8 +93,7 @@ const TS = ".ts"
 export function filePropertiesIn(values: Iterable<Value>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const value of values) {
-    if (textAt(value, "pageTypeSlug") !== "page-property-type") continue
-    if (textAt(value, "kind") !== "file") continue
+    if (textAt(value, "pageTypeSlug") !== "file-property") continue
     const slug = textAt(value, "slug")
     if (slug !== null) found.add(slug)
   }
@@ -141,7 +139,16 @@ export function identityIn(
   ]
 }
 
-const PROPERTY = "page-property-type"
+const PROPERTY = "page-property"
+
+const SHAPES = new Set([
+  "text-property",
+  "number-property",
+  "boolean-property",
+  "relation-property",
+  "record-property",
+  "file-property",
+])
 
 function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
@@ -149,14 +156,13 @@ function slugAt(value: Value, key: string): string | null {
 }
 
 export function schemaIn(value: Value): readonly Entry[] {
-  if (textAt(value, "pageTypeSlug") !== PROPERTY) return []
+  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  if (pageTypeSlug === null || !SHAPES.has(pageTypeSlug)) return []
   const slug = textAt(value, "slug")
-  const kind = textAt(value, "kind")
-  if (slug === null || kind === null) return []
+  if (slug === null) return []
   const held: Schema = {
-    kind,
+    pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
-    entrySlug: slugAt(value, "entrySlug"),
   }
   return [{ at: join("schema", PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
 }
@@ -255,18 +261,16 @@ export function schemaAt(root: string): ReadonlyMap<string, Schema> {
 
 export function filePropertiesAt(root: string): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const [slug, held] of schemaAt(root)) if (held.kind === "file") found.add(slug)
+  for (const [slug, held] of schemaAt(root))
+    if (held.pageTypeSlug === "file-property") found.add(slug)
   return found
 }
 
 export function knownIn(root: string, repo: string): Known {
   const target = new Map<string, string>()
-  const entry = new Map<string, string>()
   for (const [slug, held] of schemaAt(root)) {
-    const named = held.kind === "relation" ? held.targetPageTypeSlug : null
+    const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(slug, named)
-    const entered = held.kind === "list" ? held.entrySlug : null
-    if (entered !== null) entry.set(slug, entered)
   }
 
   const above = new Map<string, string>()
@@ -280,15 +284,7 @@ export function knownIn(root: string, repo: string): Known {
   const everyType = new Set<string>([...above.keys(), ...above.values()])
 
   const targetOf = (propertySlug: string): string | null => {
-    const walked = new Set<string>()
-    let here: string | undefined = propertySlug
-    while (here !== undefined && !walked.has(here)) {
-      walked.add(here)
-      const named = target.get(here)
-      if (named !== undefined) return named
-      here = entry.get(here)
-    }
-    return null
+    return target.get(propertySlug) ?? null
   }
 
   const admitting = (wanted: string): readonly string[] => {

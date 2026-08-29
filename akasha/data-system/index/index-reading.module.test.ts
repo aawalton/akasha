@@ -126,41 +126,45 @@ test("an id the index carries is answered with the page carrying it", () => {
 })
 
 function schemaFiled(root: string, slug: string, line: string): void {
-  filed(root, `schema/page-property-type/slug/${slug}.jsonl`, [line])
+  filed(root, `schema/page-property/slug/${slug}.jsonl`, [line])
 }
 
-test("a relation property is answered with its kind and the page type it may name", () => {
+test("a relation property is answered with the shape it is and the page type it may name", () => {
   const root = rootAt()
   schemaFiled(
     root,
     "domain-slug",
-    '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}'
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}'
   )
 
   expect(schemaOf(root, "domain-slug")).toEqual({
-    kind: "relation",
+    pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
-    entrySlug: null,
   })
 })
 
-test("a property that names no page is answered with a kind that is not a relation", () => {
+test("a property that names no page is answered with a shape that is not a relation", () => {
   const root = rootAt()
-  schemaFiled(root, "definition", '{"kind":"text","targetPageTypeSlug":null,"entrySlug":null}')
+  schemaFiled(root, "definition", '{"pageTypeSlug":"text-property","targetPageTypeSlug":null}')
 
-  expect(schemaOf(root, "definition")?.kind).toBe("text")
-  expect(schemaOf(root, "definition")?.targetPageTypeSlug).toBe(null)
+  expect(schemaOf(root, "definition")).toEqual({
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+  })
 })
 
-test("a list property is answered with the property its entries are", () => {
+test("a property naming many pages is answered with the target it names itself", () => {
   const root = rootAt()
   schemaFiled(
     root,
     "part-slugs",
-    '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}'
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}'
   )
 
-  expect(schemaOf(root, "part-slugs")?.entrySlug).toBe("domain-slug")
+  expect(schemaOf(root, "part-slugs")).toEqual({
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "domain",
+  })
 })
 
 test("a property the index does not carry is answered with nothing rather than by throwing", () => {

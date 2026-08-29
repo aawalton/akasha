@@ -1,7 +1,7 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { OverTools } from "./properties/over-tools.page-property-type.ts"
-import type { RunsAt } from "./properties/runs-at.page-property-type.ts"
+import type { OverTools } from "./properties/over-tools.text-property.ts"
+import type { RunsAt } from "./properties/runs-at.text-property.ts"
 
 export type AgentHook = Module & {
   runsAt: RunsAt
@@ -15,8 +15,8 @@ export const agentHook = {
   definition: "a module the agent harness runs at the events it names",
   extendsSlug: "page-type/module",
   properties: [
-    { propertySlug: "page-property-type/runs-at", required: true, many: true },
-    { propertySlug: "page-property-type/over-tools", required: false, many: true },
+    { propertySlug: "runs-at", required: true, many: true },
+    { propertySlug: "over-tools", required: false, many: true },
   ],
   invariants: [
     {

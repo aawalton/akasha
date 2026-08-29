@@ -1,7 +1,7 @@
 import type { PageType } from "../page-type/page-type.page-type.ts"
-import type { Id } from "./properties/id.page-property-type.ts"
-import type { PageTypeSlug } from "./properties/page-type-slug.page-property-type.ts"
-import type { Slug } from "./properties/slug.page-property-type.ts"
+import type { Id } from "./properties/id.text-property.ts"
+import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
+import type { Slug } from "./properties/slug.text-property.ts"
 
 export type Page = {
   id: Id
@@ -16,9 +16,9 @@ export const page = {
   definition: "all that is kept about one thing",
   extendsSlug: null,
   properties: [
-    { propertySlug: "page-property-type/id", required: true, many: false },
-    { propertySlug: "page-property-type/page-type-slug", required: true, many: false },
-    { propertySlug: "page-property-type/slug", required: true, many: false },
+    { propertySlug: "id", required: true, many: false },
+    { propertySlug: "page-type-slug", required: true, many: false },
+    { propertySlug: "slug", required: true, many: false },
   ],
   partSlugs: ["domain/page-edge"],
   invariants: [

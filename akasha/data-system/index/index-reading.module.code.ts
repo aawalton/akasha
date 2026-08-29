@@ -8,9 +8,8 @@ export type Standing = {
 }
 
 export type Schema = {
-  readonly kind: string
+  readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
-  readonly entrySlug: string | null
 }
 
 const INDEX_AT = ".git/data/index"
@@ -23,7 +22,7 @@ const RELATION = "relation"
 
 const SCHEMA = "schema"
 
-const PROPERTY = "page-property-type"
+const PROPERTY = "page-property"
 
 const ENDING = ".jsonl"
 
@@ -86,12 +85,11 @@ function schemaIn(at: string): readonly Schema[] {
   for (const line of readFileSync(at, "utf8").split("\n")) {
     if (line === "") continue
     const said = JSON.parse(line) as Record<string, unknown>
-    const kind = named(said["kind"])
-    if (kind === null) continue
+    const pageTypeSlug = named(said["pageTypeSlug"])
+    if (pageTypeSlug === null) continue
     found.push({
-      kind,
+      pageTypeSlug,
       targetPageTypeSlug: named(said["targetPageTypeSlug"]),
-      entrySlug: named(said["entrySlug"]),
     })
   }
   return found

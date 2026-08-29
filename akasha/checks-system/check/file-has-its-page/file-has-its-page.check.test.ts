@@ -39,14 +39,14 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   for (const one of fileProperties) {
     filed(
       root,
-      join("schema", "page-property-type", "slug", `${one}.jsonl`),
-      JSON.stringify({ kind: "file" })
+      join("schema", "page-property", "slug", `${one}.jsonl`),
+      JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null })
     )
   }
   filed(
     root,
-    join("schema", "page-property-type", "slug", "definition.jsonl"),
-    JSON.stringify({ kind: "text" })
+    join("schema", "page-property", "slug", "definition.jsonl"),
+    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
   )
   return root
 }
@@ -129,7 +129,7 @@ test("which properties name a file is read from the index, not from a list in th
   ).toEqual([])
 })
 
-test("a property whose kind is not file names no file, so a path built from it is unclaimed", () => {
+test("a property whose shape is not a file names no file, so a path built from it is unclaimed", () => {
   const root = rooted(["code"])
   const bodies = { "akasha/b/new.module.ts": pageBody("new", ', definition: "held"') }
   expect(

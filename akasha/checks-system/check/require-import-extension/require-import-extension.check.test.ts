@@ -89,7 +89,7 @@ test("a specifier reaching down into a folder is judged by its own ending", () =
 })
 
 test("a specifier naming a folder rather than a file is refused, because it names no file", () => {
-  const body = 'import a from "./one/"\n'
+  const body = 'import a from "./one"\n'
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
 

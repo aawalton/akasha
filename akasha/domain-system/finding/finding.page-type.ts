@@ -1,8 +1,8 @@
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { DomainSlug } from "../domain/properties/domain-slug.page-property-type.ts"
-import type { Claim } from "./properties/claim.page-property-type.ts"
-import type { Evidence } from "./properties/evidence.page-property-type.ts"
+import type { DomainSlug } from "../domain/properties/domain-slug.relation-property.ts"
+import type { Claim } from "./properties/claim.text-property.ts"
+import type { Evidence } from "./properties/evidence.text-property.ts"
 
 export type Finding = Page & {
   domainSlug: DomainSlug
@@ -17,9 +17,9 @@ export const finding = {
   definition: "something noticed about a domain, written down before anyone judges what it means",
   extendsSlug: "page-type/page",
   properties: [
-    { propertySlug: "page-property-type/domain-slug", required: true, many: false },
-    { propertySlug: "page-property-type/claim", required: true, many: false },
-    { propertySlug: "page-property-type/evidence", required: true, many: false },
+    { propertySlug: "domain-slug", required: true, many: false },
+    { propertySlug: "claim", required: true, many: false },
+    { propertySlug: "evidence", required: true, many: false },
   ],
   mortal: true,
   invariants: [

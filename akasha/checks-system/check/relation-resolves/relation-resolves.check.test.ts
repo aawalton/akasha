@@ -49,11 +49,11 @@ const TYPES: readonly (readonly [string, string | null, boolean])[] = [
 ]
 
 const SCHEMA: Record<string, Record<string, string | null>> = {
-  "page-type-slug": { kind: "relation", targetPageTypeSlug: "page-type", entrySlug: null },
-  "domain-slug": { kind: "relation", targetPageTypeSlug: "domain", entrySlug: null },
-  "spark-slug": { kind: "relation", targetPageTypeSlug: "spark", entrySlug: null },
-  "part-slugs": { kind: "list", targetPageTypeSlug: null, entrySlug: "domain-slug" },
-  definition: { kind: "text", targetPageTypeSlug: null, entrySlug: null },
+  "page-type-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "page-type" },
+  "domain-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
+  "spark-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "spark" },
+  "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
+  definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null },
 }
 
 const held: string[] = []
@@ -119,11 +119,7 @@ function rooted(carrying: boolean = true): string {
     standing(root, path, id, "page-type", slug)
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
-    filed(
-      root,
-      join("schema", "page-property-type", "slug", `${slug}.jsonl`),
-      JSON.stringify(shape)
-    )
+    filed(root, join("schema", "page-property", "slug", `${slug}.jsonl`), JSON.stringify(shape))
   }
   if (carrying) standing(root, D, D_ID, "domain", "d")
   return root
@@ -206,7 +202,7 @@ test("the page type a page states is a relation like any other", () => {
   ])
 })
 
-test("every name in a list is judged, not only the first", () => {
+test("every name a property carries many of is judged, not only the first", () => {
   const root = rooted()
   const said = relationResolves(over(root, [A], note(', partSlugs: ["domain/d", "domain/gone"]')))
   expect(said).toEqual([
@@ -369,7 +365,7 @@ test("a mortal page the change itself carries is read for its page type too", ()
   expect(relationResolves(over(root, [A, S], bodies))).toEqual(refusing)
 })
 
-test("every name in a list reaching a mortal page is refused, one refusal each", () => {
+test("every name a property carries many of reaching a mortal page is refused, one refusal each", () => {
   const root = rooted()
   standing(root, S, S_ID, "spark", "s")
   standing(root, T, T_ID, "spark", "t")

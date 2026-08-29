@@ -8,7 +8,7 @@ import type { Body } from "../../checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
-const SCHEMA_AT = ".git/data/index/schema/page-property-type/slug"
+const SCHEMA_AT = ".git/data/index/schema/page-property/slug"
 
 const SLUG = "slug"
 
@@ -88,7 +88,7 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
 
 export function heldInAFileAt(root: string): ReadonlySet<string> {
   const index = indexIn(root)
-  if (!existsSync(join(index, "schema", "page-property-type", "slug"))) {
+  if (!existsSync(join(index, "schema", "page-property", "slug"))) {
     throw new Error(
       `\`${SCHEMA_AT}\` is not there, so which properties are held in a file could not be answered — an index that is missing is not an index naming no such property`
     )

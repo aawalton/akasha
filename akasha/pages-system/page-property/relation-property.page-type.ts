@@ -1,6 +1,6 @@
-import type { TargetPageTypeSlug } from "../page-property-type/properties/target-page-type-slug.page-property-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { PageProperty } from "./page-property.page-type.ts"
+import type { TargetPageTypeSlug } from "./properties/target-page-type-slug.relation-property.ts"
 
 export type RelationProperty = PageProperty & {
   targetPageTypeSlug: TargetPageTypeSlug
@@ -12,7 +12,5 @@ export const relationProperty = {
   slug: "relation-property",
   definition: "a page property naming another page",
   extendsSlug: "page-type/page-property",
-  properties: [
-    { propertySlug: "page-property-type/target-page-type-slug", required: true, many: false },
-  ],
+  properties: [{ propertySlug: "target-page-type-slug", required: true, many: false }],
 } as const satisfies PageType

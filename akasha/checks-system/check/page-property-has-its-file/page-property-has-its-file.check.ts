@@ -15,7 +15,7 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties are held in a file is read from the page-property-types whose kind is `file`, never from a list written here.",
+        "Which properties are held in a file is read from the page properties whose page type is `file-property`, never from a list written here.",
     },
     {
       invariantKind: "departure",

@@ -1,7 +1,7 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
-import type { ExtendsSlug } from "./properties/extends-slug.page-property-type.ts"
-import type { Mortal } from "./properties/mortal.page-property-type.ts"
-import type { Properties } from "./properties/properties.page-property-type.ts"
+import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
+import type { Mortal } from "./properties/mortal.boolean-property.ts"
+import type { Properties } from "./properties/properties.record-property.ts"
 
 export type PageType = Domain & {
   extendsSlug: ExtendsSlug | null
@@ -16,9 +16,9 @@ export const pageType = {
   definition: "the specification for a kind of page",
   extendsSlug: "page-type/domain",
   properties: [
-    { propertySlug: "page-property-type/extends-slug", required: true, many: false },
-    { propertySlug: "page-property-type/properties", required: false, many: true },
-    { propertySlug: "page-property-type/mortal", required: false, many: false },
+    { propertySlug: "extends-slug", required: true, many: false },
+    { propertySlug: "properties", required: false, many: true },
+    { propertySlug: "mortal", required: false, many: false },
   ],
   invariants: [
     {

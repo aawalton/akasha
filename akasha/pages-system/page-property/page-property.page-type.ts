@@ -3,6 +3,8 @@ import type { PageType } from "../page-type/page-type.page-type.ts"
 
 export type PageProperty = Domain
 
+export type List<T> = readonly T[]
+
 export const pageProperty = {
   id: "01a04dff-9d7d-7459-a8c0-e038dc7714c3",
   pageTypeSlug: "page-type",
@@ -17,6 +19,10 @@ export const pageProperty = {
     {
       invariantKind: "departure",
       statement: "A page property does not extend; only a page type does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many of a property a page carries is stated where it is declared, not here.",
     },
   ],
 } as const satisfies PageType
