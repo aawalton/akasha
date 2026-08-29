@@ -11,8 +11,13 @@ export const indexIdentity = {
     "Only the `page` page type declares an identifier unique across every page.",
     "A line carries the page's path and its id.",
     "A slug reaches an id without opening the page.",
+    "The identifiers are `id` and `slug`.",
+    "The identifiers are named in code rather than declared.",
   ],
   condition: [
     "One file holds one line.",
+  ],
+  intent: [
+    "The index takes its identifiers from what the properties declare.",
   ],
 } as const satisfies Domain

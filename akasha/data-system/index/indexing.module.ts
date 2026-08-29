@@ -21,5 +21,6 @@ export const indexing = {
     "A value that narrows to more than one page is refused, never resolved to one of them.",
     "A value the index cannot resolve is reported, never thrown.",
     "A rebuild reads the index only to find what no page carries.",
+    "A body that will not load is reported only for a page.",
   ],
 } as const satisfies Module
