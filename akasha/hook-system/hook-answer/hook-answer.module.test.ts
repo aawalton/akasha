@@ -88,10 +88,11 @@ test("a reason carrying newlines and quotes survives being made JSON", () => {
   expect(JSON.parse(refusing(reason).out)).toEqual({ decision: "block", reason })
 })
 
-test("a hook's repo root is four folders above the hook's own file", () => {
+test("a hook's root is the folder holding akasha, however deep the hook stands", () => {
   expect(rootOf("/one/akasha/hook-system/agent-hook/block/one.ts")).toBe("/one")
+  expect(rootOf("/two/akasha/hook-system/agent-hook/deep/other/two.ts")).toBe("/two")
 })
 
-test("the root is worked out from the path handed in, never from where the call was made", () => {
-  expect(rootOf("/two/akasha/hook-system/agent-hook/other/two.ts")).toBe("/two")
+test("a hook standing under no akasha folder is refused a root rather than given a wrong one", () => {
+  expect(() => rootOf("/one/two/three.ts")).toThrow("stands under no akasha folder")
 })
