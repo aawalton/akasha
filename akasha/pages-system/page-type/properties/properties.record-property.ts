@@ -4,15 +4,22 @@ import type { Total } from "../../page-property/properties/total.number-property
 import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
+import type { Uncommitted } from "./uncommitted.boolean-property.ts"
 
 export type Declaration =
-  | { pagePropertySlug: PagePropertySlug; required: Required; many: false }
+  | {
+      pagePropertySlug: PagePropertySlug
+      required: Required
+      many: false
+      uncommitted?: Uncommitted
+    }
   | {
       pagePropertySlug: PagePropertySlug
       required: Required
       many: true
       max: Max | null
       total?: Total | null
+      uncommitted?: Uncommitted
     }
 
 export type Properties = List<Declaration>
@@ -28,6 +35,7 @@ export const properties = {
     { pagePropertySlug: "many", required: true, many: false },
     { pagePropertySlug: "max", required: false, many: false },
     { pagePropertySlug: "total", required: false, many: false },
+    { pagePropertySlug: "uncommitted", required: false, many: false },
   ],
   invariants: [
     {
@@ -52,6 +60,11 @@ export const properties = {
     {
       invariantKind: "departure",
       statement: "Only a declaration carrying many states a max or a total.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A value stands in the commit unless the declaration carrying it says it does not.",
     },
   ],
 } as const satisfies RecordProperty
