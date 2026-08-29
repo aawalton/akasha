@@ -80,6 +80,21 @@ test("a quoted run is taken out before the cut", () => {
   expect(dequoted("git commit -m 'git reset --hard'")).toBe("git commit -m ")
 })
 
+test("a quoted run spanning lines is taken out whole", () => {
+  expect(dequoted('git commit -m "one\ntwo" -- one.ts')).toBe("git commit -m  -- one.ts")
+  expect(dequoted("git commit -m 'one\ntwo' -- one.ts")).toBe("git commit -m  -- one.ts")
+})
+
+test("a message of more than one line does not cut the paths off its own call", () => {
+  expect(gitCallsIn('git commit -m "one\ntwo" -- one.ts')).toEqual([
+    { verb: "commit", rest: ["-m", "--", "one.ts"] },
+  ])
+})
+
+test("an unclosed quote leaves the lines under it standing to be judged", () => {
+  expect(gitCallsIn('echo "one\ngit reset --hard')).toEqual([{ verb: "reset", rest: ["--hard"] }])
+})
+
 test("a verb inside a quoted payload is not read as a call", () => {
   expect(gitCallsIn('echo "git reset --hard"')).toEqual([])
 })

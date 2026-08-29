@@ -36,10 +36,7 @@ export function joinedContinuations(command: string): string {
 }
 
 export function dequoted(command: string): string {
-  return command
-    .split("\n")
-    .map((line) => line.replace(SINGLE_QUOTED, "").replace(DOUBLE_QUOTED, ""))
-    .join("\n")
+  return command.replace(SINGLE_QUOTED, "").replace(DOUBLE_QUOTED, "")
 }
 
 export function segmentsOf(command: string): readonly string[] {
