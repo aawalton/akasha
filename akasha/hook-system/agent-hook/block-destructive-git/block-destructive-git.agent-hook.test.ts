@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
+import { payloadOf } from "../../hook-payload.module.code.ts"
 import { refusalFor, refusalIn, SCOPE } from "./block-destructive-git.agent-hook.code.ts"
+
+const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")
 
 const VERBS = ["stash", "reset", "rebase", "checkout", "restore", "clean", "rm"]
 
@@ -180,4 +184,30 @@ test("the scope names the overlap with the other hook rather than hiding it", ()
 test("the scope names every verb the hook refuses", () => {
   const said = SCOPE.join("\n")
   for (const verb of VERBS) expect(said).toContain(verb)
+})
+
+test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
+  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git checkout main")) })
+  expect(ran.exitCode).toBe(2)
+  const said: unknown = JSON.parse(ran.stdout.toString())
+  expect(said).toMatchObject({ decision: "block" })
+  expect((said as { reason: string }).reason).toContain("git checkout")
+})
+
+test("the hook stands aside on stdin for a call it does not name", () => {
+  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git status")) })
+  expect(ran.exitCode).toBe(0)
+  expect(ran.stdout.toString()).toBe("")
+})
+
+test("a payload that will not parse lets the call through rather than refusing it", () => {
+  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from("{") })
+  expect(ran.exitCode).toBe(5)
+  expect(ran.stderr.toString()).toContain("the call was not refused")
+})
+
+test("the hook prints its scope when it is asked", () => {
+  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(ran.exitCode).toBe(0)
+  for (const verb of VERBS) expect(ran.stdout.toString()).toContain(verb)
 })
