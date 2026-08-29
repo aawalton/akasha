@@ -4,7 +4,8 @@ export const relationResolves = {
   id: "01a04d99-71ca-7e06-9f74-3a462cb7d4fb",
   pageTypeSlug: "check",
   slug: "relation-resolves",
-  definition: "the check refusing a page that names a relation reaching no page",
+  definition:
+    "the check refusing a page that names a relation reaching no page, and a non-mortal page that names a mortal one",
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
@@ -27,6 +28,16 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement: "A name narrowing to more than one page is refused, not taken as reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A relation with either end on a mortal page is never refused for reaching no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A non-mortal page naming a page type that is mortal is refused whether or not the name reaches a page.",
     },
     {
       invariantKind: "gap",

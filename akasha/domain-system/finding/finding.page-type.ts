@@ -16,6 +16,7 @@ export const finding = {
   slug: "finding",
   definition: "something noticed about a domain, written down before anyone judges what it means",
   extendsSlug: "page-type/page",
+  mortal: true,
   design: [
     {
       invariantKind: "departure",

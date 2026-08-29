@@ -7,11 +7,13 @@ import {
   pageTypesIn,
   reaches,
   schemaAt,
+  valueAt,
   valueIn,
 } from "../../../data-system/index/index-entries.module.code.ts"
 import {
   idsNaming,
   indexIn,
+  standingAt,
   standingById,
   standingByPath,
 } from "../../../data-system/index/index-reading.module.code.ts"
@@ -121,14 +123,47 @@ export function namersOf(leaving: Leaving, properties: readonly string[]): reado
   return [...found].sort()
 }
 
-export function danglingIn(path: string, value: Value, known: Known): readonly Judged[] {
+export type Mortality = (pageTypeSlug: string) => boolean
+
+const PAGE_TYPE = "page-type"
+
+export function mortalityIn(root: string): Mortality {
+  const answered = new Map<string, boolean>()
+  return (pageTypeSlug) => {
+    const held = answered.get(pageTypeSlug)
+    if (held !== undefined) return held
+    const one = standingAt(root, PAGE_TYPE, pageTypeSlug)[0]
+    const value = one === undefined ? null : valueAt(one.path, root)
+    const said = value !== null && value["mortal"] === true
+    answered.set(pageTypeSlug, said)
+    return said
+  }
+}
+
+export function danglingIn(
+  path: string,
+  value: Value,
+  known: Known,
+  mortal: Mortality
+): readonly Judged[] {
   const said: Judged[] = []
+  const own = textAt(value, "pageTypeSlug")
+  const near = own !== null && mortal(own)
   for (const [key, held] of Object.entries(value)) {
     if (held === null) continue
     const propertySlug = kebab(key)
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) continue
-    for (const named of namesIn(held)) {
+    const names = namesIn(held)
+    if (names.length === 0) continue
+    const far = mortal(wanted)
+    if (far && !near) {
+      const reason = `states \`${propertySlug}\`, and a page that is not mortal cannot name a mortal \`${wanted}\``
+      said.push({ path, reason })
+      continue
+    }
+    if (near || far) continue
+    for (const named of names) {
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
         said.push({ path, reason: `states \`${propertySlug}\`, and ${reached.refused}` })
@@ -144,14 +179,15 @@ export function relationResolves(leaving: Leaving): readonly Judged[] {
   const took = leaving.changed.some((one) => leaving.at(one) === null)
   if (carried.length === 0 && !took) return []
   const known = knownAcross(leaving, carried)
+  const mortal = mortalityIn(leaving.root)
   const said: Judged[] = []
-  for (const one of carried) said.push(...danglingIn(one.path, one.value, known))
+  for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
   for (const path of namersOf(leaving, relationProperties(leaving.root, known))) {
     if (carrying.has(path)) continue
     const value = valueFor(leaving, path)
-    if (value !== null) said.push(...danglingIn(path, value, known))
+    if (value !== null) said.push(...danglingIn(path, value, known, mortal))
   }
   return said
 }

@@ -6,6 +6,7 @@ import type { Leaving } from "../../judging.module.code.ts"
 import {
   danglingIn,
   knownAcross,
+  mortalityIn,
   namersOf,
   relationProperties,
   relationResolves,
@@ -21,6 +22,10 @@ const E = "akasha/t/e.domain.ts"
 
 const OTHER = "akasha/t/other.domain.ts"
 
+const S = "akasha/t/s.spark.ts"
+
+const T = "akasha/t/t.spark.ts"
+
 const A_ID = "01a04d99-71ca-7e06-8000-000000000001"
 
 const D_ID = "01a04d99-71ca-7e06-8000-000000000002"
@@ -31,15 +36,21 @@ const OTHER_ID = "01a04d99-71ca-7e06-8000-000000000004"
 
 const NOWHERE_ID = "01a04d99-71ca-7e06-8000-00000000ffff"
 
-const TYPES: readonly (readonly [string, string | null])[] = [
-  ["page-type", null],
-  ["domain", "page-type/page-type"],
-  ["note", "page-type/domain"],
+const S_ID = "01a04d99-71ca-7e06-8000-000000000005"
+
+const T_ID = "01a04d99-71ca-7e06-8000-000000000006"
+
+const TYPES: readonly (readonly [string, string | null, boolean])[] = [
+  ["page-type", null, false],
+  ["domain", "page-type/page-type", false],
+  ["note", "page-type/domain", false],
+  ["spark", "page-type/domain", true],
 ]
 
 const SCHEMA: Record<string, Record<string, string | null>> = {
   "page-type-slug": { kind: "relation", targetPageTypeSlug: "page-type", entrySlug: null },
   "domain-slug": { kind: "relation", targetPageTypeSlug: "domain", entrySlug: null },
+  "spark-slug": { kind: "relation", targetPageTypeSlug: "spark", entrySlug: null },
   "part-slugs": { kind: "list", targetPageTypeSlug: null, entrySlug: "domain-slug" },
   definition: { kind: "text", targetPageTypeSlug: null, entrySlug: null },
 }
@@ -81,12 +92,13 @@ function rooted(carrying: boolean = true): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-relation-resolves-"))
   held.push(root)
   let count = 0
-  for (const [slug, extendsSlug] of TYPES) {
+  for (const [slug, extendsSlug, mortal] of TYPES) {
     count += 1
     const path = `akasha/t/${slug}.page-type.ts`
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
     const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
-    put(root, path, stating(id, slug, "page-type", `, extendsSlug: ${said}`))
+    const dies = mortal ? ", mortal: true" : ""
+    put(root, path, stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`))
     standing(root, path, id, "page-type", slug)
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
@@ -111,6 +123,10 @@ function over(root: string, changed: readonly string[], bodies: Record<string, s
 
 function note(stated: string): Record<string, string | null> {
   return { [A]: stating(A_ID, "a", "note", stated) }
+}
+
+function spark(stated: string): Record<string, string | null> {
+  return { [S]: stating(S_ID, "s", "spark", stated) }
 }
 
 test("a page naming a page the index already carries is let through", () => {
@@ -237,7 +253,12 @@ test("a change naming no page and taking nothing away asks the index nothing", (
 test("which properties are relations is read from the schema in the index", () => {
   const root = rooted()
   const known = knownAcross(over(root, [], {}), [])
-  expect(relationProperties(root, known)).toEqual(["domain-slug", "page-type-slug", "part-slugs"])
+  expect(relationProperties(root, known)).toEqual([
+    "domain-slug",
+    "page-type-slug",
+    "part-slugs",
+    "spark-slug",
+  ])
 })
 
 test("the pages to judge for a page taken away are the ones the reverse edges name", () => {
@@ -253,10 +274,42 @@ test("a refusal is laid on the page that names, and one is raised for each name"
   const root = rooted()
   const known = knownAcross(over(root, [], {}), [])
   const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
-  expect(danglingIn(A, value, known).map((one) => one.reason)).toEqual([
+  expect(danglingIn(A, value, known, mortalityIn(root)).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
     "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
   ])
+})
+
+const NOT_MORTAL = "states `spark-slug`, and a page that is not mortal cannot name a mortal `spark`"
+
+test("a page that is not mortal naming a mortal page type is refused, reached or not", () => {
+  const root = rooted()
+  standing(root, S, S_ID, "spark", "s")
+  expect(relationResolves(over(root, [A], note(', sparkSlug: "spark/s"')))).toEqual([
+    { path: A, reason: NOT_MORTAL },
+  ])
+  expect(relationResolves(over(root, [A], note(', sparkSlug: "spark/gone"')))).toEqual([
+    { path: A, reason: NOT_MORTAL },
+  ])
+})
+
+test("a mortal page naming a page that reaches nothing is silent", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [S], spark(', domainSlug: "domain/gone"')))).toEqual([])
+})
+
+test("a mortal page naming a mortal page that reaches nothing is silent", () => {
+  const root = rooted()
+  expect(relationResolves(over(root, [S], spark(', sparkSlug: "spark/gone"')))).toEqual([])
+})
+
+test("a change taking a mortal page away is silent though a page still names it", () => {
+  const root = rooted()
+  standing(root, S, S_ID, "spark", "s")
+  naming(root, S_ID, "spark-slug", T_ID, T)
+  standing(root, T, T_ID, "spark", "t")
+  const bodies = { [T]: stating(T_ID, "t", "spark", ', sparkSlug: "spark/s"'), [S]: null }
+  expect(relationResolves(over(root, [S], bodies))).toEqual([])
 })
 
 test("the check reads the index under the root it was given, and no other", () => {

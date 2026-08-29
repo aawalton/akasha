@@ -10,6 +10,7 @@ export type PagePropertyType = PageType &
   (
     | { kind: "text"; max: Max; nameFormatSlug: NameFormatSlug | null }
     | { kind: "number"; max: Max | null }
+    | { kind: "boolean" }
     | { kind: "relation"; targetPageTypeSlug: TargetPageTypeSlug }
     | { kind: "record" }
     | { kind: "file" }
