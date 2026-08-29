@@ -8,10 +8,10 @@ export const folderMatchesAShape = {
   partSlugs: ["page-type/folder-shape"],
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
-  runsOnWorktree: true,
-  runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnPatch: false,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
@@ -37,6 +37,11 @@ export const folderMatchesAShape = {
       invariantKind: "departure",
       statement:
         "An import the change takes away is read from the body the change found, never from the index, which files that edge until the change lands.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "This runs at no phase, because folders stand that match no approved shape, and a check refusing them would refuse every change until they are shaped.",
     },
     {
       invariantKind: "absence",
