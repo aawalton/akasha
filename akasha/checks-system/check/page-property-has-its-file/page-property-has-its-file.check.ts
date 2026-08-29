@@ -51,5 +51,9 @@ export const pagePropertyHasItsFile = {
       statement:
         "The refusal is laid on the page that states the property, not on the missing file.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A file a page has stopped claiming is refused.",
+    },
   ],
 } as const satisfies Check

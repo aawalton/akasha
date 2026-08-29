@@ -40,5 +40,9 @@ export const checksSystem = {
       invariantKind: "gap",
       statement: "A check asks the index for anything beyond the change it was handed.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Every phase a check states is reached by a caller that runs it.",
+    },
   ],
 } as const satisfies Domain

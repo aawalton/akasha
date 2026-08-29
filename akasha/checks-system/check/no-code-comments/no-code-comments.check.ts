@@ -33,5 +33,9 @@ export const noCodeComments = {
       statement:
         "A shebang is trivia the parser takes before any comment, so it is never seen as one.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The code comment forms are read from a page rather than copied into this check.",
+    },
   ],
 } as const satisfies Check

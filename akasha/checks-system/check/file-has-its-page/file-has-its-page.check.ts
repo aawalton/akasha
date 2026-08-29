@@ -49,5 +49,9 @@ export const fileHasItsPage = {
       statement:
         "The index is read as the last landed change left it, and a claim still standing there is taken as a claim.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The audit sees a file that no page claims.",
+    },
   ],
 } as const satisfies Check
