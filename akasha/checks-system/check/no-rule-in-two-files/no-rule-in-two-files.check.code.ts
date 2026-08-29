@@ -34,7 +34,7 @@ export function reasonsIn(
     const apart = (every.get(one.rule) ?? []).filter((each) => each.path !== path)
     const first = apart[0]
     if (first === undefined) continue
-    const more = apart.length > 1 ? `, and in ${apart.length - 1} file more` : ""
+    const more = apart.length > 1 ? `, and in ${apart.length - 1} more` : ""
     said.push(
       `\`${one.name}\` says what \`${first.name}\` in ${first.path} says${more} — ` +
         "one rule belongs in one file, reached by importing it"

@@ -66,7 +66,7 @@ test("a rule standing in more than one other file names one and counts the rest"
   ])
   const said = reasonsIn("one.ts", CAMEL, every)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("and in 1 file more")
+  expect(said[0]).toContain("and in 1 more")
 })
 
 test("a file saying the same thing twice is not judged here, one file being one place", () => {
