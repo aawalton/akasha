@@ -96,6 +96,10 @@ test("a tree with no registry fails, rather than passing unjudged", () => {
   expect(said[0]?.reason ?? "").toContain("the page-type registry is not here")
 })
 
+test("a tree with no akasha folder is nothing to judge", () => {
+  expect(verdict({ "tools/loose.ts": HOLDS })).toEqual([])
+})
+
 test("the object is read through an `as const` assertion", () => {
   const bare =
     `import { page } from "./page.page-type.ts"\n` +
