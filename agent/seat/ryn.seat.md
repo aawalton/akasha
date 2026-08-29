@@ -7,4 +7,5 @@ persona-slug: ryn
 domain-slug: domain/domain-system
 role-slug: challenger
 person-slug: alan
+start-mode: interactive
 ---
