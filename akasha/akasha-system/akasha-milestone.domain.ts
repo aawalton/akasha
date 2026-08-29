@@ -16,9 +16,5 @@ export const akashaMilestone = {
       statement:
         "This domain's parts are the milestones themselves, in the order the migration passes through them.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Milestones turn from capabilities into coverage as the migration runs.",
-    },
   ],
 } as const satisfies Domain
