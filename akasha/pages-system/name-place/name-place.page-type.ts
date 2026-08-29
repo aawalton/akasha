@@ -15,6 +15,9 @@ export const namePlace = {
     "name-place/component-identifier",
     "name-place/constant-identifier",
     "name-place/derived-identifier",
+    "name-place/file-name",
+    "name-place/file-role",
+    "name-place/folder-name",
     "name-place/function-identifier",
     "name-place/type-identifier",
   ],
@@ -39,7 +42,7 @@ export const namePlace = {
     {
       invariantKind: "departure",
       statement:
-        "A place stating no format either holds no name at all or holds one whose owner stands outside akasha, and says which in its own invariants.",
+        "A place stating no format holds no name at all, or holds one whose owner stands outside akasha, or holds a name built of parts each named elsewhere, and says which in its own invariants.",
     },
     {
       invariantKind: "gap",
