@@ -10,6 +10,8 @@ const INDEX_AT = ".git/data/index"
 
 const IDENTITY = "identity"
 
+const RELATION = "relation"
+
 const ENDING = ".jsonl"
 
 function standingIn(at: string): readonly Standing[] {
@@ -38,6 +40,10 @@ export function standingById(root: string, id: string): Standing | null {
   return found[0] ?? null
 }
 
+export function standingByPath(root: string, path: string): readonly Standing[] {
+  return standingIn(join(indexIn(root), IDENTITY, "page", "path", `${path}${ENDING}`))
+}
+
 export function everyOfType(root: string, pageTypeSlug: string): readonly Standing[] {
   const dir = join(indexIn(root), IDENTITY, pageTypeSlug, "slug")
   if (!existsSync(dir)) return []
@@ -51,6 +57,15 @@ export function everyOfType(root: string, pageTypeSlug: string): readonly Standi
 
 export function slugsOfType(root: string, pageTypeSlug: string): readonly string[] {
   const dir = join(indexIn(root), IDENTITY, pageTypeSlug, "slug")
+  if (!existsSync(dir)) return []
+  return readdirSync(dir)
+    .filter((one) => one.endsWith(ENDING))
+    .map((one) => one.slice(0, -ENDING.length))
+    .sort()
+}
+
+export function idsNaming(root: string, id: string, propertySlug: string): readonly string[] {
+  const dir = join(indexIn(root), RELATION, "page", "id", id, propertySlug)
   if (!existsSync(dir)) return []
   return readdirSync(dir)
     .filter((one) => one.endsWith(ENDING))

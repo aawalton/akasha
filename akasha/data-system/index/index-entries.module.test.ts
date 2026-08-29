@@ -3,7 +3,17 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Known } from "./index-entries.module.code.ts"
-import { identityIn, knownIn, loadedFrom, reaches, relationIn, valueIn } from "./index-entries.module.code.ts"
+import {
+  filePropertiesAt,
+  filePropertiesIn,
+  identityIn,
+  knownIn,
+  loadedFrom,
+  pathsOf,
+  reaches,
+  relationIn,
+  valueIn,
+} from "./index-entries.module.code.ts"
 
 const A = "01a04b79-0000-7000-8000-00000000000a"
 const B = "01a04b79-0000-7000-8000-00000000000b"
@@ -34,8 +44,15 @@ function grounded(): { readonly root: string; readonly repo: string } {
     kind: "list",
     entrySlug: "domain-slug",
   })
+  page("code.page-property-type.ts", {
+    id: "5",
+    pageTypeSlug: "page-property-type",
+    slug: "code",
+    kind: "file",
+  })
   page("domain.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" })
   page("module.page-type.ts", { id: "2", pageTypeSlug: "page-type", slug: "module", extendsSlug: "domain" })
+  filed("identity/page-property-type/slug/code.jsonl", '{"path":"code.page-property-type.ts","id":"5"}')
   filed("identity/page-property-type/slug/domain-slug.jsonl", '{"path":"domain-slug.page-property-type.ts","id":"4"}')
   filed("identity/page-property-type/slug/part-slugs.jsonl", '{"path":"part-slugs.page-property-type.ts","id":"3"}')
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
@@ -65,11 +82,61 @@ test("a body that will not load is answered with why rather than by throwing", (
   expect(typeof loaded.failed).toBe("string")
 })
 
-test("a value carrying its three identifiers is filed under its id and under its page type and slug", () => {
-  expect(identityIn({ id: A, pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo")).toEqual([
-    { at: `identity/page/id/${A}.jsonl`, line: `{"path":"a.domain.ts","id":"${A}"}` },
-    { at: "identity/domain/slug/a.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
+test("a value carrying its three identifiers is filed under its id, its page type and slug, and its path", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const line = `{"path":"a.domain.ts","id":"${A}"}`
+
+  expect(identityIn(value, "/repo/a.domain.ts", "/repo", new Set())).toEqual([
+    { at: `identity/page/id/${A}.jsonl`, line },
+    { at: "identity/domain/slug/a.jsonl", line },
+    { at: "identity/page/path/a.domain.ts.jsonl", line },
   ])
+})
+
+test("a property held in a file is filed under the path the naming grammar gives it", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
+  const line = `{"path":"deep/a.module.ts","id":"${A}"}`
+
+  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo", new Set(["code", "test"]))).toEqual([
+    { at: `identity/page/id/${A}.jsonl`, line },
+    { at: "identity/module/slug/a.jsonl", line },
+    { at: "identity/page/path/deep/a.module.ts.jsonl", line },
+    { at: "identity/page/path/deep/a.module.code.ts.jsonl", line },
+    { at: "identity/page/path/deep/a.module.test.ts.jsonl", line },
+  ])
+})
+
+test("a property no page property type declares to be a file is filed under no path", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
+
+  expect(pathsOf(value, "/repo/a.domain.ts", "/repo", new Set(["code"]))).toEqual(["a.domain.ts"])
+})
+
+test("the properties held in a file are the ones a page property type declares as such", () => {
+  const values = [
+    { id: "1", pageTypeSlug: "page-property-type", slug: "code", kind: "file" },
+    { id: "2", pageTypeSlug: "page-property-type", slug: "part-slugs", kind: "list" },
+    { id: "3", pageTypeSlug: "domain", slug: "code", kind: "file" },
+  ]
+
+  expect([...filePropertiesIn(values)]).toEqual(["code"])
+})
+
+test("a property whose name is written in camel is filed under its kebab slug", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", codeOf: "ts" }
+
+  expect(pathsOf(value, "/repo/a.module.ts", "/repo", new Set(["code-of"]))).toEqual([
+    "a.module.ts",
+    "a.module.code-of.ts",
+  ])
+})
+
+test("the properties held in a file are read from the pages the index already names", () => {
+  const { root, repo } = grounded()
+
+  expect([...filePropertiesAt(root, repo)]).toEqual(["code"])
+  rmSync(root, { recursive: true, force: true })
+  rmSync(repo, { recursive: true, force: true })
 })
 
 test("a list property takes its target from the property its entry names", () => {

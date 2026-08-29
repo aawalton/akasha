@@ -89,7 +89,43 @@ function kebab(key: string): string {
   return key.replace(/[A-Z]/g, (one) => `-${one.toLowerCase()}`)
 }
 
-export function identityIn(value: Value, path: string, repo: string): readonly Entry[] {
+const TS = ".ts"
+
+export function filePropertiesIn(values: Iterable<Value>): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const value of values) {
+    if (textAt(value, "pageTypeSlug") !== "page-property-type") continue
+    if (textAt(value, "kind") !== "file") continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) found.add(slug)
+  }
+  return found
+}
+
+export function pathsOf(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: ReadonlySet<string>
+): readonly string[] {
+  const own = under(repo, path)
+  if (!own.endsWith(TS)) return [own]
+  const stem = own.slice(0, -TS.length)
+  const found = [own]
+  for (const [key, held] of Object.entries(value)) {
+    if (typeof held !== "string") continue
+    const propertySlug = kebab(key)
+    if (fileProperties.has(propertySlug)) found.push(`${stem}.${propertySlug}.${held}`)
+  }
+  return found
+}
+
+export function identityIn(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: ReadonlySet<string>
+): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
@@ -98,6 +134,10 @@ export function identityIn(value: Value, path: string, repo: string): readonly E
   return [
     { at: join("identity", "page", "id", `${id}.jsonl`), line },
     { at: join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line },
+    ...pathsOf(value, path, repo, fileProperties).map((one) => ({
+      at: join("identity", "page", "path", `${one}.jsonl`),
+      line,
+    })),
   ]
 }
 
@@ -125,6 +165,15 @@ function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
   const found: Standing[] = []
   for (const one of readdirSync(dir)) found.push(...standingIn(join(dir, one)))
   return found
+}
+
+export function filePropertiesAt(root: string, repo: string): ReadonlySet<string> {
+  const held: Value[] = []
+  for (const one of everyPageOf(root, "page-property-type")) {
+    const value = valueAt(one.path, repo)
+    if (value !== null) held.push(value)
+  }
+  return filePropertiesIn(held)
 }
 
 export function knownIn(root: string, repo: string): Known {

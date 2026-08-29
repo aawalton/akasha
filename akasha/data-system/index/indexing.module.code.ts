@@ -12,6 +12,8 @@ import type { Entry, Value } from "./index-entries.module.code.ts"
 import {
   NAMED,
   NOTHING_FILED,
+  filePropertiesAt,
+  filePropertiesIn,
   identityIn,
   knownIn,
   linesIn,
@@ -149,7 +151,8 @@ export function rebuiltFrom(
     const value = valueAt(path, repo)
     if (value !== null) held.push({ path, value })
   }
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo))
+  const fileProperties = filePropertiesIn(held.map((one) => one.value))
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, "identity"), identity, root)
   const known = knownIn(root, repo)
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
@@ -192,10 +195,14 @@ export function indexingAt(root: string, repo: string): Indexing {
       }))
       pending.clear()
 
+      const fileProperties = new Set<string>([
+        ...filePropertiesAt(root, repo),
+        ...filePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
+      ])
       settleOver(
         root,
-        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo))),
-        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo)))
+        held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo, fileProperties))),
+        held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)))
       )
 
       const known = knownIn(root, repo)
