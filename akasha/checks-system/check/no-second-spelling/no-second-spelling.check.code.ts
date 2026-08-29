@@ -1,8 +1,7 @@
 import { speltIn } from "../../../code-system/code-rule.module.code.ts"
 import { everyOfType } from "../../../pages-system/index/index-reading.module.code.ts"
 import { besideAt } from "../../../pages-system/page/page-file-name.module.code.ts"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { textIn } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const MODULE = "module"
@@ -16,13 +15,6 @@ const TS = ".ts"
 export type Owner = {
   readonly path: string
   readonly name: string
-}
-
-export function textIn(leaving: Leaving, path: string): string | null {
-  const bytes = leaving.at(path)
-  if (bytes === null) return null
-  const given: Body = { root: leaving.root, path, bytes }
-  return bodyOf(given)
 }
 
 export function ownedIn(leaving: Leaving): ReadonlyMap<string, Owner> {

@@ -214,3 +214,9 @@ export function bodyOf(given: Body): string | null {
     return null
   }
 }
+
+export function textIn(leaving: Leaving, path: string): string | null {
+  const bytes = leaving.at(path)
+  if (bytes === null) return null
+  return bodyOf({ root: leaving.root, path, bytes })
+}

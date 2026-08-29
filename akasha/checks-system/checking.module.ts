@@ -47,5 +47,10 @@ export const checking = {
       statement:
         "Audit is the same run over every path the index files, page and property file alike, taken from the index rather than worked out here from the property names a file is held under.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path is read out of the change by name as well as in turn, so a check needing what it was not handed reads the body the change would leave rather than the one on disk.",
+    },
   ],
 } as const satisfies Module
