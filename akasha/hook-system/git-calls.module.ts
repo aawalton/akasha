@@ -10,18 +10,6 @@ export const gitCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command line is cut into segments before any word in it is read as a call.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A quoted run is taken out before the cut, so a payload is never read as a call.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The word that runs a call is matched by its basename, so a path to git is git.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that sets a call up is stepped over, and the call behind it is read.",
     },
     {
@@ -33,12 +21,16 @@ export const gitCalls = {
       statement: "A command carrying no verb is no call here.",
     },
     {
+      invariantKind: "departure",
+      statement: "A word this names as another tool is no git call, whatever its verb reads as.",
+    },
+    {
       invariantKind: "absence",
       statement: "A verb is read here, never judged.",
     },
     {
-      invariantKind: "constraint",
-      statement: "This reads a shell command line without being a shell.",
+      invariantKind: "absence",
+      statement: "The cutting is `shell-calls`, so no rule about quoting or basenames stands here.",
     },
     {
       invariantKind: "gap",

@@ -37,7 +37,7 @@ const UNBOUNDED = [
   "What a run reaches is not on the command line, so the line has to say what the run is for.",
   "",
   `  under \`${INSIDE}/\`:  akasha test`,
-  "  anywhere else:    bun test <path>, naming what the run is for",
+  "  anywhere else:    bun test <path>, naming what it runs",
   "",
   HELP,
 ]

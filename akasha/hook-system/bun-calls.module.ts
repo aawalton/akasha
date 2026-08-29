@@ -10,14 +10,6 @@ export const bunCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command line is cut into segments before any word in it is read as a call.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The word that runs a call is matched by its basename, so a path to bun is bun.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A prefix that sets a call up is stepped over, and the call behind it is read.",
     },
     {
@@ -37,8 +29,8 @@ export const bunCalls = {
       statement: "A verb is read here, never judged.",
     },
     {
-      invariantKind: "constraint",
-      statement: "This reads a shell command line without being a shell.",
+      invariantKind: "absence",
+      statement: "The cutting is `shell-calls`, so no rule about quoting or basenames stands here.",
     },
   ],
 } as const satisfies Module
