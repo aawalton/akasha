@@ -1,12 +1,16 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
+import { scratchWorld } from "../../scratching.module.code.ts"
 import { write } from "./write.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -22,7 +26,7 @@ function put(root: string, path: string, body: string): string {
 function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
 ): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-write-"))
+  const root = scratch.rootFor("akasha-write-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -60,7 +64,6 @@ test("a change that passes is written and committed", () => {
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
   expect(said.report).toContain("1 check judged the 1 path asked for, and none refused")
   expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held")
-  rmSync(root, { recursive: true })
 })
 
 test("a refused change writes nothing and moves no head", () => {
@@ -73,7 +76,6 @@ test("a refused change writes nothing and moves no head", () => {
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("the bodies written and the paths taken away are one commit, refused together", () => {
@@ -89,7 +91,6 @@ test("the bodies written and the paths taken away are one commit, refused togeth
   expect(existsSync(join(root, "akasha/three.ts"))).toBe(false)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("committed\n")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("a removal takes the file away and commits it with the write", () => {
@@ -105,7 +106,6 @@ test("a removal takes the file away and commits it with the write", () => {
     "akasha/one.ts",
     "akasha/three.ts",
   ])
-  rmSync(root, { recursive: true })
 })
 
 test("a removal of what is not there is refused as data that is wrong", () => {
@@ -115,7 +115,6 @@ test("a removal of what is not there is refused as data that is wrong", () => {
   expect(said.code).toBe(2)
   expect(said.refusals[0]).toContain("take nothing away")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
 
 test("breaking the glass with no reason is refused", () => {
@@ -128,7 +127,6 @@ test("breaking the glass with no reason is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is empty")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a path outside the akasha folder is refused", () => {
@@ -138,7 +136,6 @@ test("a path outside the akasha folder is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not under `akasha/`")
   expect(existsSync(join(root, "elsewhere/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a path climbing out of the root is refused", () => {
@@ -147,7 +144,6 @@ test("a path climbing out of the root is refused", () => {
   const said = write(["--file-path", "../akasha/two.ts", "--content-file", from], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not under `akasha/`")
-  rmSync(root, { recursive: true })
 })
 
 test("a file path closed by no content file is refused", () => {
@@ -155,7 +151,6 @@ test("a file path closed by no content file is refused", () => {
   const said = write(["--file-path", "akasha/two.ts"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("closed by no --content-file")
-  rmSync(root, { recursive: true })
 })
 
 test("a flag this does not take is refused rather than ignored", () => {
@@ -163,7 +158,6 @@ test("a flag this does not take is refused rather than ignored", () => {
   const said = write(["--mechanical"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is no flag this takes")
-  rmSync(root, { recursive: true })
 })
 
 test("a call asking for nothing is refused", () => {
@@ -171,7 +165,6 @@ test("a call asking for nothing is refused", () => {
   const said = write(["--message", "held"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("asks for nothing")
-  rmSync(root, { recursive: true })
 })
 
 test("one path written and taken away by one call is refused", () => {
@@ -184,7 +177,6 @@ test("one path written and taken away by one call is refused", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("both written and taken away")
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("committed\n")
-  rmSync(root, { recursive: true })
 })
 
 test("the message is trimmed whether it is stated or read from a file", () => {
@@ -210,7 +202,6 @@ test("the message is trimmed whether it is stated or read from a file", () => {
   )
   expect(also.code).toBe(0)
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("stated")
-  rmSync(root, { recursive: true })
 })
 
 test("a content file that is not there is a caller's mistake, not a refusal by the gate", () => {
@@ -222,7 +213,6 @@ test("a content file that is not there is a caller's mistake, not a refusal by t
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("could not be read")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a body that is not text lands as the bytes it is", () => {
@@ -235,7 +225,6 @@ test("a body that is not text lands as the bytes it is", () => {
   )
   expect(said.code).toBe(0)
   expect([...readFileSync(join(root, "akasha/two.bin"))]).toEqual([0xff, 0xfe, 0x01, 0x02])
-  rmSync(root, { recursive: true })
 })
 
 test("a change asking for what already stands commits nothing and says so", () => {
@@ -246,5 +235,4 @@ test("a change asking for what already stands commits nothing and says so", () =
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("nothing was committed")
   expect(headOf(root)).toBe(was)
-  rmSync(root, { recursive: true })
 })
