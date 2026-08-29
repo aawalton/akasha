@@ -13,6 +13,7 @@ import type {
 } from "../../../checks-system/judging/judging.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { oneLine } from "../../landing/landing.module.code.ts"
 
 export const ANSWER_CEILING = 28000
@@ -43,10 +44,6 @@ export type Meant = {
 export type Narrowed = {
   readonly checks: readonly Gathered[]
   readonly refusals: readonly string[]
-}
-
-function whyOf(thrown: unknown): string {
-  return oneLine(thrown instanceof Error ? thrown.message : String(thrown))
 }
 
 export function meaning(argv: readonly string[]): Meant {

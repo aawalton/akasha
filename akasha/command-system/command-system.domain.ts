@@ -12,6 +12,7 @@ export const commandSystem = {
     "module/cli",
     "module/asking",
     "module/differing",
+    "module/fault-saying",
     "module/holding",
     "module/reading",
     "module/rooting",
