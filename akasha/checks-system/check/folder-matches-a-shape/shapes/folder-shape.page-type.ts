@@ -26,7 +26,7 @@ export const folderShape = {
   slug: "folder-shape",
   definition: "a shape a folder is allowed to have",
   extendsSlug: "page-type/module",
-  properties: [{ propertySlug: "test", required: true, many: false }],
+  properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

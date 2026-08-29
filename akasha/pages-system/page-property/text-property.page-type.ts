@@ -15,7 +15,7 @@ export const textProperty = {
   definition: "a page property holding text",
   extendsSlug: "page-type/page-property",
   properties: [
-    { propertySlug: "max", required: true, many: false },
-    { propertySlug: "name-format-slug", required: true, many: false },
+    { pagePropertySlug: "max", required: true, many: false },
+    { pagePropertySlug: "name-format-slug", required: true, many: false },
   ],
 } as const satisfies PageType

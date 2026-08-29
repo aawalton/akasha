@@ -19,10 +19,10 @@ export const domain = {
   definition: "a bounded area of concern",
   extendsSlug: "page-type/page",
   properties: [
-    { propertySlug: "definition", required: true, many: false },
-    { propertySlug: "part-slugs", required: false, many: true, max: null },
-    { propertySlug: "invariants", required: false, many: true, max: null },
-    { propertySlug: "directives", required: false, many: true, max: null },
+    { pagePropertySlug: "definition", required: true, many: false },
+    { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "invariants", required: false, many: true, max: null },
+    { pagePropertySlug: "directives", required: false, many: true, max: null },
   ],
   invariants: [
     {

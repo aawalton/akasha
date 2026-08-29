@@ -19,10 +19,10 @@ export const initiative = {
   definition: "work that closes gaps between how a domain is and how it should be",
   extendsSlug: "page-type/page",
   properties: [
-    { propertySlug: "domain-slug", required: true, many: false },
-    { propertySlug: "persona-slug", required: true, many: false },
-    { propertySlug: "parent-slug", required: false, many: false },
-    { propertySlug: "invariants", required: false, many: true, max: null },
+    { pagePropertySlug: "domain-slug", required: true, many: false },
+    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "parent-slug", required: false, many: false },
+    { pagePropertySlug: "invariants", required: false, many: true, max: null },
   ],
   mortal: true,
   invariants: [

@@ -16,9 +16,9 @@ export const pageType = {
   definition: "the specification for a kind of page",
   extendsSlug: "page-type/domain",
   properties: [
-    { propertySlug: "extends-slug", required: true, many: false },
-    { propertySlug: "properties", required: false, many: true, max: null },
-    { propertySlug: "mortal", required: false, many: false },
+    { pagePropertySlug: "extends-slug", required: true, many: false },
+    { pagePropertySlug: "properties", required: false, many: true, max: null },
+    { pagePropertySlug: "mortal", required: false, many: false },
   ],
   invariants: [
     {

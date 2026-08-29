@@ -21,11 +21,11 @@ export const check = {
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
   properties: [
-    { propertySlug: "test", required: true, many: false },
-    { propertySlug: "runs-on-patch", required: true, many: false },
-    { propertySlug: "runs-on-worktree", required: true, many: false },
-    { propertySlug: "runs-on-deploy", required: true, many: false },
-    { propertySlug: "runs-on-audit", required: true, many: false },
+    { pagePropertySlug: "test", required: true, many: false },
+    { pagePropertySlug: "runs-on-patch", required: true, many: false },
+    { pagePropertySlug: "runs-on-worktree", required: true, many: false },
+    { pagePropertySlug: "runs-on-deploy", required: true, many: false },
+    { pagePropertySlug: "runs-on-audit", required: true, many: false },
   ],
   invariants: [
     {

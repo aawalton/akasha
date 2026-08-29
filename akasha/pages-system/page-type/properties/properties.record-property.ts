@@ -5,8 +5,8 @@ import type { PagePropertySlug } from "./page-property-slug.relation-property.ts
 import type { Required } from "./required.boolean-property.ts"
 
 export type Declaration =
-  | { propertySlug: PagePropertySlug; required: Required; many: false }
-  | { propertySlug: PagePropertySlug; required: Required; many: true; max: Max | null }
+  | { pagePropertySlug: PagePropertySlug; required: Required; many: false }
+  | { pagePropertySlug: PagePropertySlug; required: Required; many: true; max: Max | null }
 
 export type Properties = List<Declaration>
 
@@ -16,10 +16,10 @@ export const properties = {
   slug: "properties",
   definition: "the properties a page type adds to what it extends",
   properties: [
-    { propertySlug: "page-property-slug", required: true, many: false },
-    { propertySlug: "required", required: true, many: false },
-    { propertySlug: "many", required: true, many: false },
-    { propertySlug: "max", required: false, many: false },
+    { pagePropertySlug: "page-property-slug", required: true, many: false },
+    { pagePropertySlug: "required", required: true, many: false },
+    { pagePropertySlug: "many", required: true, many: false },
+    { pagePropertySlug: "max", required: false, many: false },
   ],
   invariants: [
     {

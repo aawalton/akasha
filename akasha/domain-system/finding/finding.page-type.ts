@@ -17,9 +17,9 @@ export const finding = {
   definition: "something noticed about a domain, written down before anyone judges what it means",
   extendsSlug: "page-type/page",
   properties: [
-    { propertySlug: "domain-slug", required: true, many: false },
-    { propertySlug: "claim", required: true, many: false },
-    { propertySlug: "evidence", required: true, many: false },
+    { pagePropertySlug: "domain-slug", required: true, many: false },
+    { pagePropertySlug: "claim", required: true, many: false },
+    { pagePropertySlug: "evidence", required: true, many: false },
   ],
   mortal: true,
   invariants: [

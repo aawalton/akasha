@@ -15,8 +15,8 @@ export const module = {
   definition: "code reached by importing it",
   extendsSlug: "page-type/domain",
   properties: [
-    { propertySlug: "code", required: true, many: false },
-    { propertySlug: "test", required: false, many: false },
+    { pagePropertySlug: "code", required: true, many: false },
+    { pagePropertySlug: "test", required: false, many: false },
   ],
   invariants: [
     {

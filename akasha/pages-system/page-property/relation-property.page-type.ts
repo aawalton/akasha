@@ -12,5 +12,5 @@ export const relationProperty = {
   slug: "relation-property",
   definition: "a page property naming another page",
   extendsSlug: "page-type/page-property",
-  properties: [{ propertySlug: "target-page-type-slug", required: true, many: false }],
+  properties: [{ pagePropertySlug: "target-page-type-slug", required: true, many: false }],
 } as const satisfies PageType

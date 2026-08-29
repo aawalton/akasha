@@ -16,9 +16,9 @@ export const page = {
   definition: "all that is kept about one thing",
   extendsSlug: null,
   properties: [
-    { propertySlug: "id", required: true, many: false },
-    { propertySlug: "page-type-slug", required: true, many: false },
-    { propertySlug: "slug", required: true, many: false },
+    { pagePropertySlug: "id", required: true, many: false },
+    { pagePropertySlug: "page-type-slug", required: true, many: false },
+    { pagePropertySlug: "slug", required: true, many: false },
   ],
   partSlugs: ["domain/page-edge"],
   invariants: [

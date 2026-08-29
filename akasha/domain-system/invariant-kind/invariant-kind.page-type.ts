@@ -12,7 +12,7 @@ export const invariantKind = {
   slug: "invariant-kind",
   definition: "which sort one invariant is",
   extendsSlug: "page-type/domain",
-  properties: [{ propertySlug: "invariant-group-slug", required: true, many: false }],
+  properties: [{ pagePropertySlug: "invariant-group-slug", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
