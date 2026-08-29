@@ -5,7 +5,7 @@ export const testingSystem = {
   pageTypeSlug: "domain",
   slug: "testing-system",
   definition: "what a test stands up to try something, and what it takes away after",
-  partSlugs: ["module/scratching", "module/minting"],
+  partSlugs: ["module/minting"],
   invariants: [
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "Nothing here is reached by anything the system does when it runs, only by what tries it.",
+        "What stands here is reached by tests alone. A module the running system also reaches for belongs to the system that runs it, however much its tests want it too.",
     },
     {
       invariantKind: "absence",
