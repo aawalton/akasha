@@ -6,6 +6,8 @@ export const testingSystem = {
   slug: "testing-system",
   definition: "what a test stands up to try something, and what it takes away after",
   partSlugs: [
+    "domain/test",
+    "domain/test-fixture",
     "module/minting",
     "module/bodying",
     "module/gitting",
