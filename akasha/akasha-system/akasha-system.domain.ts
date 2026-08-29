@@ -14,6 +14,7 @@ export const akashaSystem = {
     "domain/domain-system",
     "domain/akasha-type",
     "domain/akasha-check",
+    "domain/checks-system",
     "domain/code-system",
     "domain/data-system",
     "domain/akasha-migration",

@@ -78,6 +78,8 @@ export function pagesIn(root: string): readonly string[] {
   return filedUnder(root, PAGES_AT)
 }
 
+const HELD_IN_A_FILE = ["code", "test"]
+
 function needsIn(value: Record<string, unknown>): Needs | null {
   const said = value["needs"]
   if (said === "path" || said === "file") return said
@@ -178,6 +180,25 @@ function overOne(one: Gathered, leaving: Leaving): readonly Judged[] {
     }
   }
   return said
+}
+
+export function everyFileIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const path of pagesIn(root)) {
+    found.push(path)
+    const stated = statedIn(join(root, path), slugOf(path))
+    if (stated === null) continue
+    const stem = path.slice(0, -".ts".length)
+    for (const held of HELD_IN_A_FILE) {
+      const said = stated[held]
+      if (typeof said === "string") found.push(`${stem}.${held}.${said}`)
+    }
+  }
+  return [...new Set(found)].sort()
+}
+
+export function everythingIn(root: string): Leaving {
+  return { root, changed: everyFileIn(root), at: onDisk(root) }
 }
 
 export function judgingBy(every: readonly Gathered[]): Judging {
