@@ -1,8 +1,10 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { Generator } from "./properties/generator.relation-property.ts"
 import type { Unique } from "./properties/unique.relation-property.ts"
 
 export type PageProperty = Domain & {
+  generator?: Generator
   unique?: Unique
 }
 
@@ -17,10 +19,14 @@ export const pageProperty = {
     "module/page-property-key",
     "number-property/max",
     "number-property/total",
+    "relation-property/generator",
     "relation-property/unique",
   ],
   extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "unique", required: false, many: false }],
+  properties: [
+    { pagePropertySlug: "generator", required: false, many: false },
+    { pagePropertySlug: "unique", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
