@@ -14,6 +14,14 @@ export const pageType = {
   pageTypeSlug: "page-type",
   slug: "page-type",
   definition: "the specification for a kind of page",
+  partSlugs: [
+    "boolean-property/many",
+    "boolean-property/mortal",
+    "boolean-property/required",
+    "record-property/properties",
+    "relation-property/extends-slug",
+    "relation-property/page-property-slug",
+  ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "extends-slug", required: true, many: false },
