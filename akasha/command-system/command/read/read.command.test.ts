@@ -1,15 +1,19 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../scratching.module.code.ts"
 import { ANSWER_CEILING, costOf, read } from "./read.command.code.ts"
 
 const CALLED_AS = "akasha read"
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function rootWith(
   named: readonly { readonly at: string; readonly body: string | Uint8Array }[]
 ): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-read-"))
+  const root = scratch.rootFor("akasha-read-")
   for (const one of named) {
     const at = join(root, one.at)
     mkdirSync(at.slice(0, at.lastIndexOf("/")), { recursive: true })
@@ -29,7 +33,6 @@ test("a file inside akasha comes back whole and line-numbered", () => {
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha/one/held.ts — the whole file follows, 3 lines")
   expect(said.report[1]).toBe("     1\tone\n     2\ttwo\n     3\tthree")
-  rmSync(root, { recursive: true })
 })
 
 test("naming no file is a caller mistake and nothing is read", () => {
@@ -38,7 +41,6 @@ test("naming no file is a caller mistake and nothing is read", () => {
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("--file-path names a file to read")
-  rmSync(root, { recursive: true })
 })
 
 test("a path outside akasha is refused rather than read", () => {
@@ -50,7 +52,6 @@ test("a path outside akasha is refused rather than read", () => {
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("stands outside `akasha/`")
-  rmSync(root, { recursive: true })
 })
 
 test("an absolute path inside akasha is read, and one outside it is not", () => {
@@ -62,7 +63,6 @@ test("an absolute path inside akasha is read, and one outside it is not", () => 
   expect(inside.code).toBe(0)
   const outside = read(["--file-path", join(root, "agent/elsewhere.ts")], givenAt(root))
   expect(outside.code).toBe(1)
-  rmSync(root, { recursive: true })
 })
 
 test("a relative path is taken against the directory the call was made in", () => {
@@ -73,7 +73,6 @@ test("a relative path is taken against the directory the call was made in", () =
   })
   expect(said.code).toBe(0)
   expect(said.report[0]).toContain("held.ts — the whole file follows, 1 lines")
-  rmSync(root, { recursive: true })
 })
 
 test("a file that is not there is a caller mistake, and the rest are still read", () => {
@@ -85,7 +84,6 @@ test("a file that is not there is a caller mistake, and the rest are still read"
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names no file")
   expect(said.report[0]).toContain("akasha/one/held.ts")
-  rmSync(root, { recursive: true })
 })
 
 test("naming one file twice is refused before anything is read", () => {
@@ -97,7 +95,6 @@ test("naming one file twice is refused before anything is read", () => {
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("named more than once")
-  rmSync(root, { recursive: true })
 })
 
 test("a body that is not UTF-8 text says what it is instead of the body", () => {
@@ -108,7 +105,6 @@ test("a body that is not UTF-8 text says what it is instead of the body", () => 
   expect(said.code).toBe(0)
   expect(said.report.length).toBe(1)
   expect(said.report[0]).toContain("4 bytes that are not UTF-8 text, beginning `fffe0041`")
-  rmSync(root, { recursive: true })
 })
 
 test("a body past what one answer holds is refused rather than cut", () => {
@@ -117,7 +113,6 @@ test("a body past what one answer holds is refused rather than cut", () => {
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain(`past the ${ANSWER_CEILING} one answer holds`)
-  rmSync(root, { recursive: true })
 })
 
 test("--full and --seat are refused with what they would have meant", () => {
@@ -128,7 +123,6 @@ test("--full and --seat are refused with what they would have meant", () => {
   const seat = read(["--seat"], givenAt(root))
   expect(seat.code).toBe(1)
   expect(seat.refusals[0]).toContain("what a seat is bound to")
-  rmSync(root, { recursive: true })
 })
 
 test("an argument this does not take is a caller mistake", () => {
@@ -136,7 +130,6 @@ test("an argument this does not take is a caller mistake", () => {
   const said = read(["--offset", "20"], givenAt(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not an argument this takes")
-  rmSync(root, { recursive: true })
 })
 
 const MANY = 12
@@ -173,14 +166,12 @@ test("more than one answer holds comes back as fewer files and a call for the re
   for (const one of left) {
     expect(returned.some((two) => two.startsWith(`${one} —`))).toBe(false)
   }
-  rmSync(root, { recursive: true })
 })
 
 test("the answer holding a call for the rest is itself under the ceiling", () => {
   const root = rootWith(manyFiles())
   const said = read(namingAll(), givenAt(root))
   expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
-  rmSync(root, { recursive: true })
 })
 
 test("the call for the rest reads exactly what was left, and then the set is done", () => {
@@ -195,5 +186,4 @@ test("the call for the rest reads exactly what was left, and then the set is don
   const returned = second.report.filter((one) => one.includes("the whole file follows"))
   expect(returned.length).toBe(left.length)
   expect(costOf(second.report)).toBeLessThanOrEqual(ANSWER_CEILING)
-  rmSync(root, { recursive: true })
 })
