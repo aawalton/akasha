@@ -1,7 +1,24 @@
 import { expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { apart, heldAt, reachedIn } from "./double-run.ts"
+import { apart, doubleRun, heldAt, reachedIn } from "./double-run.ts"
+
+const ATTACHMENT = `${import.meta.dir}/read.command.code.attachment.ts`
+
+test("the read calls the second reader, because deleting that call is invisible otherwise", () => {
+  const source = readFileSync(ATTACHMENT, "utf8")
+  expect(source).toContain(`from "./double-run.ts"`)
+  expect(source).toContain("doubleRun(")
+})
+
+test("the second reader failing is swallowed, so no read fails for its shadow", () => {
+  const broken = `nowhere${String.fromCharCode(0)}seat`
+  expect(() => doubleRun(["--file-path", "x"], broken, new Map())).not.toThrow()
+})
+
+test("a call with nobody asking runs no second reader and throws nothing", () => {
+  expect(() => doubleRun(["--file-path", "x"], null, new Map())).not.toThrow()
+})
 
 function held(
   of: Record<string, { oid: string; seenAt: number }>
