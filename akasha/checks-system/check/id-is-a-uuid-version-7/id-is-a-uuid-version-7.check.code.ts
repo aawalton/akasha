@@ -1,8 +1,6 @@
 import ts from "typescript"
 import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
-const TS = ".ts"
-
 const ID = "id"
 
 const ANY_UUID = /^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$/

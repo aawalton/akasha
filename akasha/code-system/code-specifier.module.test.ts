@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { placedIn, spelledIn, specifiersIn } from "./code-specifier.module.code.ts"
+import { placedIn, specifiersIn, spelledIn } from "./code-specifier.module.code.ts"
 
 const AT = "akasha/held.ts"
 

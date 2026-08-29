@@ -1,8 +1,8 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Code } from "./properties/code.file-property.ts"
-import type { TestFixtures } from "./properties/test-fixtures.file-property.ts"
 import type { Test } from "./properties/test.file-property.ts"
+import type { TestFixtures } from "./properties/test-fixtures.file-property.ts"
 
 export type Module = Domain & {
   code: Code

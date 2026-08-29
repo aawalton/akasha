@@ -1,8 +1,6 @@
 import ts from "typescript"
 import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
-const TS = ".ts"
-
 type Found = {
   readonly line: number
   readonly raw: string

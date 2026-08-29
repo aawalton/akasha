@@ -1,8 +1,6 @@
 import ts from "typescript"
 import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
-const TS = ".ts"
-
 function foundIn(at: string, text: string): readonly string[] {
   const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const found: string[] = []

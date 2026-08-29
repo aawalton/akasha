@@ -1,8 +1,6 @@
 import ts from "typescript"
 import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
 
-const TS = ".ts"
-
 const AUGMENTED = "global"
 
 function foundIn(at: string, text: string): readonly string[] {
