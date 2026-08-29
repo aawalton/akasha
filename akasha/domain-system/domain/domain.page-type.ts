@@ -24,6 +24,15 @@ export const domain = {
   slug: "domain",
   definition: "a bounded area of concern",
   extendsSlug: "page-type/page",
+  properties: [
+    { propertySlug: "page-property-type/definition", required: true, many: false },
+    { propertySlug: "page-property-type/part-slugs", required: false, many: true },
+    { propertySlug: "page-property-type/design", required: false, many: true },
+    { propertySlug: "page-property-type/condition", required: false, many: true },
+    { propertySlug: "page-property-type/intent", required: false, many: true },
+    { propertySlug: "page-property-type/principle", required: false, many: true },
+    { propertySlug: "page-property-type/rule", required: false, many: true },
+  ],
   design: [
     {
       invariantKind: "departure",

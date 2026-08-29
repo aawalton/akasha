@@ -12,6 +12,7 @@ export const check = {
   slug: "check",
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
+  properties: [{ propertySlug: "page-property-type/runs-on", required: true, many: true }],
   design: [
     {
       invariantKind: "departure",

@@ -1,0 +1,12 @@
+import type { PagePropertyType } from "../../page-property-type/page-property-type.page-type.ts"
+
+export type Required = boolean
+
+export const required = {
+  id: "01a04df3-6848-79c0-9e0c-aafc52cb12ff",
+  pageTypeSlug: "page-property-type",
+  slug: "required",
+  definition: "whether a page of this type must carry the property",
+  extendsSlug: "page-property-type/page-property",
+  kind: "boolean",
+} as const satisfies PagePropertyType

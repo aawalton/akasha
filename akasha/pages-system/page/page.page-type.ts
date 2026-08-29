@@ -15,6 +15,11 @@ export const page = {
   slug: "page",
   definition: "all that is kept about one thing",
   extendsSlug: null,
+  properties: [
+    { propertySlug: "page-property-type/id", required: true, many: false },
+    { propertySlug: "page-property-type/page-type-slug", required: true, many: false },
+    { propertySlug: "page-property-type/slug", required: true, many: false },
+  ],
   partSlugs: ["domain/page-edge"],
   design: [
     {

@@ -24,4 +24,11 @@ export const pagePropertyType = {
   slug: "page-property-type",
   definition: "the shape of one value a page carries",
   extendsSlug: "page-type/page-type",
+  properties: [
+    { propertySlug: "page-property-type/kind", required: true, many: false },
+    { propertySlug: "page-property-type/max", required: false, many: false },
+    { propertySlug: "page-property-type/name-format-slug", required: false, many: false },
+    { propertySlug: "page-property-type/target-page-type-slug", required: false, many: false },
+    { propertySlug: "page-property-type/entry-slug", required: false, many: false },
+  ],
 } as const satisfies PageType

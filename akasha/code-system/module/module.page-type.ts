@@ -14,6 +14,10 @@ export const module = {
   slug: "module",
   definition: "code reached by importing it",
   extendsSlug: "page-type/domain",
+  properties: [
+    { propertySlug: "page-property-type/code", required: true, many: false },
+    { propertySlug: "page-property-type/test", required: false, many: false },
+  ],
   design: [
     {
       invariantKind: "departure",
