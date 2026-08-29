@@ -1,7 +1,7 @@
-import type { Code } from "./properties/code.page-property-type.ts"
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
-import type { Test } from "./properties/test.page-property-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Code } from "./properties/code.page-property-type.ts"
+import type { Test } from "./properties/test.page-property-type.ts"
 
 export type Module = Domain & {
   code: Code

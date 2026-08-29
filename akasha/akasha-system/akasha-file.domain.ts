@@ -9,7 +9,5 @@ export const akashaFile = {
     "A page's file is named for its slug and its page type.",
     "A page property's file is named for its page and its property.",
   ],
-  condition: [
-    "Every file is a page or one page property's own file.",
-  ],
+  condition: ["Every file is a page or one page property's own file."],
 } as const satisfies Domain

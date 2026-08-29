@@ -23,13 +23,13 @@ export type BodyStore = {
 
 export function oidOf(body: string): Oid {
   const bytes = Buffer.from(body, "utf8")
-  return createHash("sha1")
-    .update(`blob ${bytes.length}\0`)
-    .update(bytes)
-    .digest("hex")
+  return createHash("sha1").update(`blob ${bytes.length}\0`).update(bytes).digest("hex")
 }
 
-type Held = Record<string, { oid: string; seenAt: number; expiredAt?: number; mechanicalOid?: string }>
+type Held = Record<
+  string,
+  { oid: string; seenAt: number; expiredAt?: number; mechanicalOid?: string }
+>
 
 export function recordAt(path: string): Record_ {
   let held: Held = {}

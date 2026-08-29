@@ -1,5 +1,5 @@
-import type { PagePropertyType } from "../page-property-type.page-type.ts"
 import type { Slug } from "../../page/properties/slug.page-property-type.ts"
+import type { PagePropertyType } from "../page-property-type.page-type.ts"
 
 export type EntrySlug = Slug
 

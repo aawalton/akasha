@@ -1,7 +1,7 @@
+import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { EntrySlug } from "./properties/entry-slug.page-property-type.ts"
 import type { Max } from "./properties/max.page-property-type.ts"
 import type { NameFormatSlug } from "./properties/name-format-slug.page-property-type.ts"
-import type { PageType } from "../page-type/page-type.page-type.ts"
 import type { TargetPageTypeSlug } from "./properties/target-page-type-slug.page-property-type.ts"
 
 export type List<T> = readonly T[]

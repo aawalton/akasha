@@ -5,10 +5,6 @@ export const akashaMilestone = {
   pageTypeSlug: "domain",
   slug: "akasha-milestone",
   definition: "a state the migration passes through",
-  partSlugs: [
-    "akasha-functional-core",
-  ],
-  requiredReadingSlugs: [
-    "akasha-functional-core",
-  ],
+  partSlugs: ["akasha-functional-core"],
+  requiredReadingSlugs: ["akasha-functional-core"],
 } as const satisfies Domain

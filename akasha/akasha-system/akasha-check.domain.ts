@@ -5,7 +5,5 @@ export const akashaCheck = {
   pageTypeSlug: "domain",
   slug: "akasha-check",
   definition: "a judgement passed on a change before it lands",
-  intent: [
-    "No check tests what the compiler tests, apart from the one that runs the compiler.",
-  ],
+  intent: ["No check tests what the compiler tests, apart from the one that runs the compiler."],
 } as const satisfies Domain

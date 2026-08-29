@@ -7,10 +7,7 @@ export const reading = {
   definition: "what an agent has read, and the body it read",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [
-    "akasha-data",
-    "akasha-text",
-  ],
+  requiredReadingSlugs: ["akasha-data", "akasha-text"],
   design: [
     "The record holds an oid and when it was seen and nothing else.",
     "The old reader writes the same file and knows no other field.",

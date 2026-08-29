@@ -1,7 +1,7 @@
-import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
-import type { ConditionalReadingSlugs } from "./properties/conditional-reading-slugs.page-property-type.ts"
+import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Condition } from "./properties/condition.page-property-type.ts"
+import type { ConditionalReadingSlugs } from "./properties/conditional-reading-slugs.page-property-type.ts"
 import type { Definition } from "./properties/definition.page-property-type.ts"
 import type { Design } from "./properties/design.page-property-type.ts"
 import type { Intent } from "./properties/intent.page-property-type.ts"
@@ -35,18 +35,13 @@ export const domain = {
     "A slug and a definition is a whole domain, not a stub waiting to be filled in.",
     "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
   ],
-  intent: [
-    "An agent writes a domain's lines as well as Alan would.",
-  ],
+  intent: ["An agent writes a domain's lines as well as Alan would."],
   rule: [
     {
       name: "Every Line Before It Lands",
       act: "Show Ryn a definition, invariant or directive before you land it.",
       warrant: "The writer is the last to see that the first words are wrong.",
-      aids: [
-        "You still decide; Ryn only asks.",
-        "A line already landed is late, not excused.",
-      ],
+      aids: ["You still decide; Ryn only asks.", "A line already landed is late, not excused."],
     },
     {
       name: "Second Draft",

@@ -4,14 +4,11 @@ export const read = {
   id: "01a04a32-495b-7a1e-9231-0acfa8bc4704",
   pageTypeSlug: "command",
   slug: "read",
-  definition: "a file and what is required for it, recorded as read, and on a re-read only what changed",
+  definition:
+    "a file and what is required for it, recorded as read, and on a re-read only what changed",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: [
-    "corpus",
-    "reading",
-    "required-reading",
-  ],
+  requiredReadingSlugs: ["corpus", "reading", "required-reading"],
   design: [
     "A slug naming pages of two types is refused with a path for each, rather than answered with one of them.",
     "A read returns the whole file where the agent asks for it or nothing says what it last saw.",

@@ -1,6 +1,8 @@
-import type { PagePropertyType } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
+import type {
+  List,
+  PagePropertyType,
+} from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 import type { DomainSlug } from "./domain-slug.page-property-type.ts"
-import type { List } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 
 export type PartSlugs = List<DomainSlug>
 
@@ -13,7 +15,5 @@ export const partSlugs = {
   kind: "list",
   entrySlug: "domain-slug",
   max: null,
-  design: [
-    "A page's parent is this edge inverted.",
-  ],
+  design: ["A page's parent is this edge inverted."],
 } as const satisfies PagePropertyType

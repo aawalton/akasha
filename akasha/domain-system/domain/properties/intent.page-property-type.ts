@@ -19,7 +19,8 @@ export const intent = {
     {
       name: "Resolve When Found",
       act: "Move or delete an intent entry as soon as you find it true, not when the work on it closes.",
-      warrant: "Nothing re-reads an entry, so one that came true and stayed sends someone at a gap already shut.",
+      warrant:
+        "Nothing re-reads an entry, so one that came true and stayed sends someone at a gap already shut.",
       aids: [
         "Check the whole claim, not just the case you met.",
         "Resolve the entry you found, not the section.",

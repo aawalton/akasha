@@ -20,7 +20,14 @@ function askGit(body: string): string {
 }
 
 test("the oid computed here is the one git computes for the same body", () => {
-  for (const body of ["", "a", "hello\n", "a page\nwith lines\n", "ünïcøde ✓\n", "\u0000binary-ish\n"]) {
+  for (const body of [
+    "",
+    "a",
+    "hello\n",
+    "a page\nwith lines\n",
+    "ünïcøde ✓\n",
+    "\u0000binary-ish\n",
+  ]) {
     expect(oidOf(body)).toBe(askGit(body))
   }
 })
