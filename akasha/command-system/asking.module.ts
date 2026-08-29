@@ -7,6 +7,7 @@ export const asking = {
   definition: "the change a command asks for, gated and landed and answered for",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
