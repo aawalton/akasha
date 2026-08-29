@@ -74,12 +74,16 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
 
 const NO_BYTES = new Uint8Array(0)
 
-function landing(root: string, files: Record<string, Uint8Array | null>) {
+function landing(
+  root: string,
+  files: Record<string, Uint8Array | null>,
+  before: Record<string, Uint8Array> = {}
+) {
   return {
     root,
     changed: Object.keys(files),
     at: (path: string) => files[path] ?? null,
-    was: () => NO_BYTES,
+    was: (path: string) => before[path] ?? NO_BYTES,
   }
 }
 
@@ -131,6 +135,26 @@ test("a parent that stops naming a part leaves that part refused", () => {
       [pathFor("domain", "under")]: body("domain", "under", ONE),
       [pathFor("domain", "over")]: body("domain", "over", TWO),
     })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("domain", "under"))
+})
+
+test("a parent dropping a part leaves that part refused, though it did not change", () => {
+  const root = rooted()
+  stands(root, "domain", "under", ONE)
+  stands(root, "domain", "over", TWO)
+  identified(root, ONE, pathFor("domain", "under"))
+  edging(root, ONE, "part-slugs", TWO)
+  edging(root, TWO, "part-slugs", UP)
+  identified(root, UP, "akasha/up.domain.ts")
+  const at = pathFor("domain", "over")
+  const said = domainIsNamedByAParent(
+    landing(
+      root,
+      { [at]: body("domain", "over", TWO) },
+      { [at]: body("domain", "over", TWO, ["domain/under"]) }
+    )
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor("domain", "under"))

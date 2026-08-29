@@ -1,7 +1,9 @@
 import {
+  type Known,
   namesIn,
   pageTypesIn,
   reaches,
+  valueIn,
 } from "../../../pages-system/index/index-entries.module.code.ts"
 import {
   idsNaming,
@@ -10,6 +12,7 @@ import {
 } from "../../../pages-system/index/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent.module.code.ts"
+import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
   type Carried,
@@ -40,10 +43,41 @@ export function domainNamedIn(root: string, path: string): Named | null {
   return { pageTypeSlug: said.tail, slug: said.stem }
 }
 
-export function namedAsParts(
+function partsOf(value: Record<string, unknown> | null): readonly string[] {
+  const held = value === null ? null : value[PARTS]
+  return held === null || held === undefined ? [] : namesIn(held)
+}
+
+export type Dropped = {
+  readonly path: string
+  readonly id: string
+  readonly shown: string
+}
+
+export function droppedBy(
+  leaving: Leaving,
   carried: readonly Carried[],
-  known: Parameters<typeof reaches>[2]
-): ReadonlySet<string> {
+  known: Known
+): readonly Dropped[] {
+  const found: Dropped[] = []
+  for (const one of carried) {
+    const was = leaving.was(one.path)
+    if (was === null) continue
+    const text = bodyOf({ root: leaving.root, path: one.path, bytes: was })
+    const before = text === null ? null : valueIn(text)
+    const after = new Set(partsOf(one.value))
+    for (const said of partsOf(before)) {
+      if (after.has(said)) continue
+      const reached = reaches(said, DOMAIN, known)
+      if (!("id" in reached)) continue
+      const standing = known.byId(reached.id)
+      if (standing !== null) found.push({ path: standing.path, id: reached.id, shown: said })
+    }
+  }
+  return found
+}
+
+export function namedAsParts(carried: readonly Carried[], known: Known): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of carried) {
     const held = one.value[PARTS]
@@ -65,11 +99,25 @@ export function namedInIndex(leaving: Leaving, id: string): boolean {
   return false
 }
 
+function reasonFor(shown: string): string {
+  return (
+    `no page names \`${shown}\` among its parts — every page standing under ` +
+    `\`${DOMAIN}\` but \`${DOMAIN}/${THE_WHOLE}\` is a part of a page above it`
+  )
+}
+
 export function domainIsNamedByAParent(leaving: Leaving): readonly Judged[] {
   const carried = carriedBy(leaving, pageTypesIn(indexIn(leaving.root)))
   const known = knownAcross(leaving, carried)
   const named = namedAsParts(carried, known)
   const said: Judged[] = []
+  const judged = new Set<string>()
+  const judge = (path: string, id: string, shown: string): void => {
+    if (judged.has(path)) return
+    judged.add(path)
+    if (named.has(id) || namedInIndex(leaving, id)) return
+    said.push({ path, reason: reasonFor(shown) })
+  }
   for (const path of leaving.changed) {
     if (leaving.at(path) === null) continue
     const held = domainNamedIn(leaving.root, path)
@@ -83,13 +131,8 @@ export function domainIsNamedByAParent(leaving: Leaving): readonly Judged[] {
           `\`${held.slug}\`, so who names it could not be looked up`
       )
     }
-    if (named.has(one.id) || namedInIndex(leaving, one.id)) continue
-    said.push({
-      path,
-      reason:
-        `no page names \`${held.pageTypeSlug}/${held.slug}\` among its parts — every page ` +
-        `standing under \`${DOMAIN}\` but \`${DOMAIN}/${THE_WHOLE}\` is a part of a page above it`,
-    })
+    judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
   }
+  for (const one of droppedBy(leaving, carried, known)) judge(one.path, one.id, one.shown)
   return said
 }
