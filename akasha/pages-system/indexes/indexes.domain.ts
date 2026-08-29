@@ -12,7 +12,6 @@ export const indexes = {
     "index/index-import",
     "index/index-path",
     "page-type/index",
-    "text-property/index-name",
     "module/index-entries",
     "module/indexing",
     "module/index-reading",
