@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { corpusIn } from "../../write-system/corpus.module.code.ts"
-import { bodiesAt, oidOf, recordAt } from "../../write-system/reading.module.code.ts"
-import { closureFor } from "../../write-system/required-reading.module.code.ts"
-import type { Given } from "../calling.module.code.ts"
+import { corpusIn } from "../../../write-system/corpus.module.code.ts"
+import { bodiesAt, oidOf, recordAt } from "../../../write-system/reading.module.code.ts"
+import { closureFor } from "../../../write-system/required-reading.module.code.ts"
+import type { Given } from "../../calling.module.code.ts"
 import { write } from "./write.command.code.ts"
 
 type Held = { readonly at: string; readonly value: Record<string, unknown> }
@@ -46,6 +46,7 @@ function stage(writer: string | null = "athena"): Stage {
   return {
     root,
     given: {
+      repo: root,
       root,
       corpus,
       record: recordAt(`${root}/record.json`),

@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { corpusIn } from "../../write-system/corpus.module.code.ts"
-import { bodiesAt, oidOf, recordAt } from "../../write-system/reading.module.code.ts"
+import { corpusIn } from "../../../write-system/corpus.module.code.ts"
+import { bodiesAt, oidOf, recordAt } from "../../../write-system/reading.module.code.ts"
 import type { Answer, Where } from "./read.command.code.ts"
 import { CEILING, read } from "./read.command.code.ts"
 

@@ -1,4 +1,4 @@
-import type { Command } from "../command/command.page-type.ts"
+import type { Command } from "../command.page-type.ts"
 
 export const write = {
   id: "01a04a63-dbf3-7000-9ac4-2cb2dc42ca8e",

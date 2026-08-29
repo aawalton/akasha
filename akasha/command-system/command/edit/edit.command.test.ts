@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { corpusIn } from "../../write-system/corpus.module.code.ts"
-import { bodiesAt, oidOf, recordAt } from "../../write-system/reading.module.code.ts"
-import { closureFor } from "../../write-system/required-reading.module.code.ts"
-import type { Given } from "../calling.module.code.ts"
+import { corpusIn } from "../../../write-system/corpus.module.code.ts"
+import { bodiesAt, oidOf, recordAt } from "../../../write-system/reading.module.code.ts"
+import { closureFor } from "../../../write-system/required-reading.module.code.ts"
+import type { Given } from "../../calling.module.code.ts"
 import { edit, replacing } from "./edit.command.code.ts"
 
 const SPINE = [
@@ -42,6 +42,7 @@ function stage(writer: string | null = "athena") {
   const corpus = corpusIn(root)
   if ("refused" in corpus) throw new Error(corpus.refused)
   const given: Given = {
+    repo: root,
     root,
     corpus,
     record: recordAt(`${root}/record.json`),

@@ -1,10 +1,10 @@
 import { readFileSync, statSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Corpus } from "../../write-system/corpus.module.code.ts"
-import { difference } from "../../write-system/difference.module.code.ts"
-import type { BodyStore, Record_ } from "../../write-system/reading.module.code.ts"
-import { oidOf } from "../../write-system/reading.module.code.ts"
-import { conditionalFor, warrantsFor } from "../../write-system/required-reading.module.code.ts"
+import type { Corpus } from "../../../write-system/corpus.module.code.ts"
+import { difference } from "../../../write-system/difference.module.code.ts"
+import type { BodyStore, Record_ } from "../../../write-system/reading.module.code.ts"
+import { oidOf } from "../../../write-system/reading.module.code.ts"
+import { conditionalFor, warrantsFor } from "../../../write-system/required-reading.module.code.ts"
 
 export const CEILING = 28_000
 

@@ -1,9 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { indexingAt } from "../../data-system/index/indexing.module.code.ts"
-import type { Change, Held, Judging, Refusal } from "../../write-system/landing.module.code.ts"
-import { authoring, land, refused } from "../../write-system/landing.module.code.ts"
-import type { Given } from "../calling.module.code.ts"
+import { judgingIn } from "../../../checks-system/checking.module.code.ts"
+import { indexingAt } from "../../../data-system/index/indexing.module.code.ts"
+import type { Change, Held, Refusal } from "../../../write-system/landing.module.code.ts"
+import { authoring, land, refused } from "../../../write-system/landing.module.code.ts"
+import type { Given } from "../../calling.module.code.ts"
 
 export type Answer = {
   readonly report: readonly string[]
@@ -22,10 +23,6 @@ type Parsed = {
 
 function refusing(said: readonly string[]): Answer {
   return { report: [], refusals: said, code: 1 }
-}
-
-function nothingJudged(): Judging {
-  return { named: [], over: () => [] }
 }
 
 function decodes(bytes: Buffer): string | null {
@@ -162,7 +159,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
     index: indexingAt(given.index, given.repo),
     bodies: given.bodies,
     readAs: `${given.calledAs.replace(/ edit$/, "")} read`,
-    judge: nothingJudged(),
+    judge: judgingIn(given.corpus),
     root: given.root,
   }
   const refusals: string[] = [...asked.refusals]

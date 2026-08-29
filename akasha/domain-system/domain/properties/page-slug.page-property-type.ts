@@ -1,7 +1,7 @@
+import type { Slug } from "../../../pages-system/page/properties/slug.page-property-type.ts"
 import type { PagePropertyType } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
-import type { Value } from "../../../pages-system/page-type/every-page-type.module.code.ts"
 
-export type PageSlug = Value<"page">
+export type PageSlug = Slug
 
 export const pageSlug = {
   id: "01a04a08-fcf3-7004-af8a-1200dcbd314b",
