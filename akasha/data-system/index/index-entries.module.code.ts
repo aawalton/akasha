@@ -3,8 +3,8 @@ import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
-import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
+import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 

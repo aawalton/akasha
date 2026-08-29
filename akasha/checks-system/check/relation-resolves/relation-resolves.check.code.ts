@@ -16,8 +16,8 @@ import {
   standingById,
   standingByPath,
 } from "../../../data-system/index/index-reading.module.code.ts"
-import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import { namedIn, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
