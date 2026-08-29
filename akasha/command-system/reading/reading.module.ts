@@ -55,6 +55,11 @@ export const reading = {
         "A reading is carried only where the body it holds is the one the mechanical change started from.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The body a mechanical change left answers what a warrant asks, and does not answer writing over that body itself.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing stands in the record that did not reach the agent.",
     },

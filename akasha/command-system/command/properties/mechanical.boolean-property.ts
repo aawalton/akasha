@@ -14,11 +14,13 @@ export const mechanical = {
     },
     {
       invariantKind: "departure",
-      statement: "Nobody is held to having read what a mechanical command changes.",
+      statement:
+        "Nobody is held to reading again what a mechanical command changed, until they come to write over that file itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A read still counts after a mechanical change to what was read.",
+      statement:
+        "A read still counts after a mechanical change to what was read, except for writing over that file itself.",
     },
   ],
 } as const satisfies BooleanProperty
