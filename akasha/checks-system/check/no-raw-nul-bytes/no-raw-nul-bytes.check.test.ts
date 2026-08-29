@@ -1,17 +1,12 @@
 import { expect, test } from "bun:test"
+import { bodiesIn, bytesOf } from "../../../testing-system/bodying.module.code.ts"
 import { reasonsIn, sitesIn } from "./no-raw-nul-bytes.check.code.ts"
 
 const ROOT = "/repo"
 
 const NUL = "\u0000"
 
-function given(at: string, bytes: Uint8Array) {
-  return { root: ROOT, path: at, bytes }
-}
-
-function bytesOf(body: string): Uint8Array {
-  return new TextEncoder().encode(body)
-}
+const given = bodiesIn(ROOT)
 
 test("a body carrying no NUL is let through", () => {
   expect(reasonsIn(given("akasha/held.ts", bytesOf("const one = 1\n")))).toEqual([])

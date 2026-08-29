@@ -2,6 +2,7 @@ import { execFileSync } from "node:child_process"
 import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
+import { bytesOf } from "../testing-system/bodying.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -34,7 +35,7 @@ export const REFUSES: Judging = {
   over: (leaving) => leaving.changed.map((path) => ({ path, reason: "refused for the test" })),
 }
 
-export const bytes = (s: string): Uint8Array => new TextEncoder().encode(s)
+export const bytes = bytesOf
 
 export function gitOver(root: string): readonly string[] {
   const said = execFileSync("ps", ["-eo", "args="], { encoding: "utf8" })

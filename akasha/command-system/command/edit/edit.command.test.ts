@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf as bytes } from "../../../testing-system/bodying.module.code.ts"
 import {
   ADMITS_CODE,
   MINTED,
@@ -65,8 +66,6 @@ const givenIn = (root: string) => ({
   writer: null,
   agentId: null,
 })
-
-const bytes = (s: string): Uint8Array => new TextEncoder().encode(s)
 
 function stating(root: string, name: string, was: string, now: string): readonly string[] {
   return ["--old-file", put(root, `${name}.old`, was), "--new-file", put(root, `${name}.new`, now)]

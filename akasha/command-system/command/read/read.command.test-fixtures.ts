@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf } from "../../../testing-system/bodying.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import { blobIdOf } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
@@ -37,9 +38,7 @@ export function givenFor(root: string) {
   return { root, calledAs: CALLED_AS, from: root, writer: null, agentId: AGENT }
 }
 
-export function bodyOf(said: string): Uint8Array {
-  return new TextEncoder().encode(said)
-}
+export const bodyOf = bytesOf
 
 export function read(argv: readonly string[], given: Given): Answer {
   return readWith(argv, given, null)

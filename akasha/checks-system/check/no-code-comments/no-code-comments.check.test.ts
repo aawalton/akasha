@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesAt } from "../../../testing-system/bodying.module.code.ts"
 import { commentsIn, reasonsIn } from "./no-code-comments.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(body: string) {
-  return { root: ROOT, path: "akasha/held.ts", bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesAt(ROOT, "akasha/held.ts")
 
 test("a file carrying no comment is let through", () => {
   expect(reasonsIn(given('export const one = "held"\n'))).toEqual([])

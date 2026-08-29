@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { reasonsIn } from "./no-enum-or-namespace.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesIn(ROOT)
 
 test("a file declaring neither an enum nor a namespace is let through", () => {
   const body = 'export type Needs = "path" | "file"\n'

@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { landingOf, reasonsIn } from "./imports-inside.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesIn(ROOT)
 
 test("a relative import landing inside the akasha folder is let through", () => {
   const said = reasonsIn(

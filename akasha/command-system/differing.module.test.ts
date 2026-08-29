@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf as bodyOf } from "../testing-system/bodying.module.code.ts"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
 import { blobIdOf } from "./reading.module.code.ts"
 import { SCRATCH_AT, scratchWorld } from "./scratching.module.code.ts"
@@ -11,10 +12,6 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const AT = "held.ts"
-
-function bodyOf(said: string): Uint8Array {
-  return new TextEncoder().encode(said)
-}
 
 function inGit(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], {

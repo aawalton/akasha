@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { reasonsIn } from "./no-tmp.check.code.ts"
 
 const ROOT = "/repo"
@@ -11,9 +12,7 @@ const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = ["no-tmp.check.ts", "no-tmp.check.code.ts", "no-tmp.check.test.ts"]
 
-function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesIn(ROOT)
 
 test("a file reaching for no scratch at all is let through", () => {
   expect(reasonsIn(given(AT, "export function one(): number {\n  return 1\n}\n"))).toEqual([])

@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { CEILING, reasonsIn } from "./file-length.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(at: string, bytes: Uint8Array) {
-  return { root: ROOT, path: at, bytes }
-}
+const given = bodiesIn(ROOT)
 
 function sized(held: number): Uint8Array {
   return new Uint8Array(held).fill(0x61)

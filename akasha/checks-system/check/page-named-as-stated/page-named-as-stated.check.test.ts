@@ -1,13 +1,12 @@
 import { expect, test } from "bun:test"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { heldInAFileAt, pageIn, reasonsIn } from "./page-named-as-stated.check.code.ts"
 
 const ROOT = "/repo"
 
 const HELD: ReadonlySet<string> = new Set(["code", "test"])
 
-function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesIn(ROOT)
 
 function reasons(at: string, body: string, held: ReadonlySet<string> = HELD): readonly string[] {
   return reasonsIn(given(at, body), held)
@@ -94,7 +93,7 @@ test("a page property's code file is no page, so a value it holds is passed over
 
 test("a page property's test file is no page, so a fixture it holds is passed over", () => {
   const body = page("note", "relation-property")
-  expect(reasons("akasha/pages-system/indexes/indexing.module.test.ts", body)).toEqual([])
+  expect(reasons("akasha/pages-system/index/indexing.module.test.ts", body)).toEqual([])
 })
 
 test("a property newly held in a file is passed over, the set being the index's and not a list here", () => {

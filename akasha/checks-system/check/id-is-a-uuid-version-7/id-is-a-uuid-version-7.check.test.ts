@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesAt } from "../../../testing-system/bodying.module.code.ts"
 import { reasonsIn, statedIn } from "./id-is-a-uuid-version-7.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(body: string) {
-  return { root: ROOT, path: "akasha/held.check.ts", bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesAt(ROOT, "akasha/held.check.ts")
 
 function page(id: string) {
   return given(

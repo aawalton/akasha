@@ -1,11 +1,10 @@
 import { expect, test } from "bun:test"
+import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
 import { reasonsIn } from "./require-import-extension.check.code.ts"
 
 const ROOT = "/repo"
 
-function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
-}
+const given = bodiesIn(ROOT)
 
 test("a relative import carrying its extension is let through", () => {
   const body = 'import { one } from "./corpus.module.code.ts"\n'
