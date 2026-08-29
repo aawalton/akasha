@@ -18,7 +18,7 @@ export const module = {
     { propertySlug: "page-property-type/code", required: true, many: false },
     { propertySlug: "page-property-type/test", required: false, many: false },
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A module's code is a page property, held in a file beside the page.",

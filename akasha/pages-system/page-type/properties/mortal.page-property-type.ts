@@ -9,7 +9,7 @@ export const mortal = {
   definition: "whether a page type's pages are expected to be deleted",
   extendsSlug: null,
   kind: "boolean",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page type is mortal only if it says so.",

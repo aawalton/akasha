@@ -9,7 +9,7 @@ export const pageProperty = {
   slug: "page-property",
   definition: "one value a page carries",
   extendsSlug: "page-type/domain",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "What shape a property has is the page type it is, never a value it states.",

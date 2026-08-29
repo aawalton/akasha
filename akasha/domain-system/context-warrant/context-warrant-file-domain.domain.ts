@@ -5,7 +5,7 @@ export const contextWarrantFileDomain = {
   pageTypeSlug: "domain",
   slug: "context-warrant-file-domain",
   definition: "what a seat must read for where the file's page sits",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A file warrants the page that names it among its parts.",

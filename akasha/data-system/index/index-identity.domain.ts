@@ -5,7 +5,7 @@ export const indexIdentity = {
   pageTypeSlug: "domain",
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "An identity file is found by scope, then property, then value.",
@@ -38,8 +38,6 @@ export const indexIdentity = {
       invariantKind: "departure",
       statement: "A file holds one line for each page carrying the value.",
     },
-  ],
-  condition: [
     {
       invariantKind: "stopgap",
       statement: "No two pages carry one id.",
@@ -48,8 +46,6 @@ export const indexIdentity = {
       invariantKind: "stopgap",
       statement: "No two pages of one page type carry one slug.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "The index takes its identifiers from what the properties declare.",

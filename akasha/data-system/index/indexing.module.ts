@@ -7,7 +7,7 @@ export const indexing = {
   definition: "the index entries the pages imply",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "An index file is replaced whole, never appended to.",
@@ -41,8 +41,6 @@ export const indexing = {
       statement:
         "The repository root is given to the index rather than derived from where the index sits.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported, never answered as empty.",

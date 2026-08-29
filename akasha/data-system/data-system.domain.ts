@@ -6,7 +6,7 @@ export const dataSystem = {
   slug: "data-system",
   definition: "how what the pages imply is derived and written down",
   partSlugs: ["domain/index"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The data system is written under `.git/data`, which git does not track.",

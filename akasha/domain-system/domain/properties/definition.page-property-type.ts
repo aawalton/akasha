@@ -11,7 +11,7 @@ export const definition = {
   kind: "text",
   max: 100,
   nameFormatSlug: null,
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement:

@@ -21,7 +21,7 @@ export const page = {
     { propertySlug: "page-property-type/slug", required: true, many: false },
   ],
   partSlugs: ["domain/page-edge"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page is one TypeScript file.",
@@ -51,14 +51,10 @@ export const page = {
       invariantKind: "departure",
       statement: "A page is deleted once its purpose is done.",
     },
-  ],
-  condition: [
     {
       invariantKind: "stopgap",
       statement: "Loading a page's file declares its value and does nothing else.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A page file that does more than declare its value does not land.",

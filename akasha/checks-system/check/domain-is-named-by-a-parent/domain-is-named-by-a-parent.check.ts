@@ -8,7 +8,7 @@ export const domainIsNamedByAParent = {
   code: "ts",
   test: "ts",
   runsOn: [],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:
@@ -42,8 +42,6 @@ export const domainIsNamedByAParent = {
       invariantKind: "absence",
       statement: "This states no phase.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "Every domain is reached by reading down from `akasha-system`.",

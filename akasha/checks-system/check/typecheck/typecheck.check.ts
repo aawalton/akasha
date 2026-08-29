@@ -8,7 +8,7 @@ export const typecheck = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The settings the compiler runs under are stated here.",
@@ -27,7 +27,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that is not there is refused rather than read as one naming no importer.",
+      statement:
+        "An index that is not there is refused rather than read as one naming no importer.",
     },
     {
       invariantKind: "absence",
@@ -36,8 +37,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One program is built for a set of changes, however many files that set holds.",
+      statement: "One program is built for a set of changes, however many files that set holds.",
     },
     {
       invariantKind: "departure",
@@ -61,8 +61,6 @@ export const typecheck = {
       invariantKind: "departure",
       statement: "What is judged is judged as the change would leave it.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A type error never lands.",

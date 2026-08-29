@@ -8,7 +8,7 @@ export const fileLength = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The ceiling is counted in bytes, never in characters.",

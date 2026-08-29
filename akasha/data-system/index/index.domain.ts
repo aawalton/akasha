@@ -16,7 +16,7 @@ export const index = {
     "module/index-reading",
     "module/index-stamp",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "An index file is named for the value it answers.",
@@ -45,14 +45,10 @@ export const index = {
       invariantKind: "departure",
       statement: "The index names the commit it describes.",
     },
-  ],
-  condition: [
     {
       invariantKind: "stopgap",
       statement: "The index holds every page.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "No page's entry is older than the files its properties hold.",

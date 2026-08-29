@@ -18,7 +18,7 @@ export const pagesSystem = {
     "page-type/file-property",
     "module/page-address",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Page types and page property types are themselves page types.",

@@ -5,7 +5,7 @@ export const contextWarrantFilePageType = {
   pageTypeSlug: "domain",
   slug: "context-warrant-file-page-type",
   definition: "what a seat must read for the type of the page it changes",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page warrants its page type and every type that one extends.",

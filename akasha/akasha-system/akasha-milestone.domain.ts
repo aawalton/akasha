@@ -10,7 +10,7 @@ export const akashaMilestone = {
     "domain/akasha-required-reading",
     "domain/akasha-alone",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

@@ -7,7 +7,7 @@ export const write = {
   definition: "whole file bodies carried in, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:
@@ -26,8 +26,6 @@ export const write = {
       invariantKind: "departure",
       statement: "What a call said is read here; what it asked for is landed by `asking`.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement:

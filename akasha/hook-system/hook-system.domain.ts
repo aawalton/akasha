@@ -6,7 +6,7 @@ export const hookSystem = {
   slug: "hook-system",
   definition: "how a tool call is judged before it runs",
   partSlugs: ["page-type/agent-hook"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A hook judges a tool call, never a file.",

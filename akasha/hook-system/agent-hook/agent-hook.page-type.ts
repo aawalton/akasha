@@ -18,7 +18,7 @@ export const agentHook = {
     { propertySlug: "page-property-type/runs-at", required: true, many: true },
     { propertySlug: "page-property-type/over-tools", required: true, many: true },
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A hook is handed one tool call and answers whether it may run.",

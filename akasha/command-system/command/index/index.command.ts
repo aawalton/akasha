@@ -7,7 +7,7 @@ export const index = {
   definition: "the index rebuilt from the commit at HEAD and put in place whole",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "`index` is found by its path, never through the index it repairs.",
@@ -52,8 +52,6 @@ export const index = {
       invariantKind: "absence",
       statement: "A refresh writes nothing tracked and makes no commit.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A body a hand is still writing is taken as it stands.",

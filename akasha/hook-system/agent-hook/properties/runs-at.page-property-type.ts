@@ -15,7 +15,7 @@ export const runsAt = {
   kind: "list",
   entrySlug: "harness-event",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A hook states its harness events.",

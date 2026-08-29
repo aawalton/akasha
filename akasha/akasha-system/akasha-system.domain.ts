@@ -21,7 +21,7 @@ export const akashaSystem = {
     "domain/hook-system",
     "domain/akasha-migration",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The akasha system is the `akasha` subfolder in the `akasha` repo.",

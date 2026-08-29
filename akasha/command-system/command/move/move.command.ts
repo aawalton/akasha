@@ -8,7 +8,7 @@ export const move = {
     "files carried to new paths, with everything the moved bodies name repointed in the same act",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement: "A move repoints a relative specifier only; one naming a package is left alone.",
@@ -46,8 +46,6 @@ export const move = {
       invariantKind: "departure",
       statement: "`--dry-run` names every pair it would carry.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",

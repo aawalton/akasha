@@ -15,7 +15,7 @@ export const invariantKind = {
   properties: [
     { propertySlug: "page-property-type/invariant-group-slug", required: true, many: false },
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A kind stands in one group, so no two groups share a kind.",

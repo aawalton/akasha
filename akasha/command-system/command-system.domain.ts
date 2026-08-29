@@ -6,7 +6,7 @@ export const commandSystem = {
   slug: "command-system",
   definition: "what an agent runs by name",
   partSlugs: ["page-type/command", "module/calling", "module/landing", "module/cli"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A command reaches no further than the akasha folder.",

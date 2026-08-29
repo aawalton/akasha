@@ -11,7 +11,7 @@ export const toolName = {
   kind: "text",
   max: 60,
   nameFormatSlug: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A tool's name is the harness's own.",

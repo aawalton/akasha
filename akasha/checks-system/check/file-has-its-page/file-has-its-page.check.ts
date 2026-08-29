@@ -8,7 +8,7 @@ export const fileHasItsPage = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

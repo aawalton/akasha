@@ -8,7 +8,7 @@ export const edit = {
     "stated substitutions worked out into whole bodies, gated together and landed or refused as one",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:
@@ -45,8 +45,6 @@ export const edit = {
       statement:
         "Once the bodies are worked out this lands exactly as `write` lands, on the same gate and the same hold.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A caller states what a passage is and learns whether it was still that.",

@@ -5,7 +5,7 @@ export const indexImport = {
   pageTypeSlug: "domain",
   slug: "index-import",
   definition: "an index from a file to the files importing it",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "An import file is named for the path imported.",

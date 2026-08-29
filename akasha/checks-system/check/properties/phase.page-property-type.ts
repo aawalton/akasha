@@ -11,7 +11,7 @@ export const phase = {
   kind: "text",
   max: 10,
   nameFormatSlug: null,
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement: "Audit is no phase.",

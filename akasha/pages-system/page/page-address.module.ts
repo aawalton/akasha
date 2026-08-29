@@ -7,7 +7,7 @@ export const pageAddress = {
   definition: "what form a relation value takes when it names a page",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "This says what form an address takes and looks no page up.",

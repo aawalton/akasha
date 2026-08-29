@@ -7,7 +7,7 @@ export const indexReading = {
   definition: "the answers the index gives back, each one a file read",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

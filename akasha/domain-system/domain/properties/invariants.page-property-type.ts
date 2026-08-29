@@ -3,23 +3,22 @@ import type {
   PagePropertyType,
 } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 import type { Invariant } from "./invariant.page-property-type.ts"
-import type { ConditionKind } from "./invariant-kind.page-property-type.ts"
 
-export type Condition = List<Invariant<ConditionKind>>
+export type Invariants = List<Invariant>
 
-export const condition = {
-  id: "01a049c8-3ead-7eb7-8acd-99d8f7acb304",
+export const invariants = {
+  id: "01a04e14-2276-7559-823a-c7ac8abf852e",
   pageTypeSlug: "page-property-type",
-  slug: "condition",
-  definition: "a state that holds only while it is kept true",
+  slug: "invariants",
+  definition: "what must be true of a page, each with the sort it is",
   extendsSlug: null,
   kind: "list",
   entrySlug: "invariant",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
-      statement: "A stopgap is paired with an intent to make it always true.",
+      statement: "One list holds every invariant, because each entry states the kind it is.",
     },
   ],
 } as const satisfies PagePropertyType

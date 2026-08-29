@@ -5,7 +5,7 @@ export const akashaAlone = {
   pageTypeSlug: "domain",
   slug: "akasha-alone",
   definition: "the akasha system as the whole repository",
-  intent: [
+  invariants: [
     {
       invariantKind: "gap",
       statement: "Nothing in the repository is outside the akasha system.",

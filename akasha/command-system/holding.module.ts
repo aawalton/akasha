@@ -7,7 +7,7 @@ export const holding = {
   definition: "the hold one landing takes over a worktree while it judges, writes and commits",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The hold is one file, and taking it is one create that fails if it stands.",
@@ -28,8 +28,6 @@ export const holding = {
       invariantKind: "departure",
       statement: "A caller that never took the hold is refused, and its act never runs.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "Two landings over one worktree never overlap.",

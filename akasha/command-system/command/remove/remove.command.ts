@@ -7,7 +7,7 @@ export const remove = {
   definition: "named paths taken away, gated together and removed or refused as one",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A path that is not there is refused.",
@@ -45,8 +45,6 @@ export const remove = {
       statement:
         "A path is named behind `--file-path`, as `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "What a removal leaves behind still stands up on its own.",

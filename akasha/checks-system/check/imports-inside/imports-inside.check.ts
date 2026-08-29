@@ -8,7 +8,7 @@ export const importsInside = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement:
@@ -31,8 +31,6 @@ export const importsInside = {
       invariantKind: "departure",
       statement: "The boundary is drawn at the path separator.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A reader of akasha needs nothing outside akasha to follow what akasha says.",

@@ -5,7 +5,7 @@ export const contextWarrantFileItself = {
   pageTypeSlug: "domain",
   slug: "context-warrant-file-itself",
   definition: "what a seat must read for the file it changes",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A file warrants itself.",

@@ -8,7 +8,7 @@ export const landing = {
     "a change judged against one commit and then written and committed onto it, or refused whole",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A change is a base commit and the bodies it would leave.",
@@ -54,7 +54,8 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is settled before the commit, so no commit lands on an index blind to it.",
+      statement:
+        "The index is settled before the commit, so no commit lands on an index blind to it.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +72,8 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The checks are reached only to judge, so reaching a command never asks them to load.",
+      statement:
+        "The checks are reached only to judge, so reaching a command never asks them to load.",
     },
     {
       invariantKind: "departure",
@@ -83,8 +85,6 @@ export const landing = {
       statement:
         "Checks that will not load refuse the change; only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A change that was judged is the change that landed.",

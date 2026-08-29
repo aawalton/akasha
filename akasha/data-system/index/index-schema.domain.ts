@@ -5,7 +5,7 @@ export const indexSchema = {
   pageTypeSlug: "domain",
   slug: "index-schema",
   definition: "an index from a property to the shape of the value it holds",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A schema file is found by scope, then property, then value.",
@@ -24,18 +24,18 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A qualified name is held as its slug alone, and reads straight back into the index.",
+      statement:
+        "A qualified name is held as its slug alone, and reads straight back into the index.",
     },
     {
       invariantKind: "departure",
       statement:
         "An entry is read from the property's own page alone, and no other page's change can leave it stale.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
-      statement: "A list reaches what its entries may name in one read rather than one for each link.",
+      statement:
+        "A list reaches what its entries may name in one read rather than one for each link.",
     },
   ],
 } as const satisfies Domain

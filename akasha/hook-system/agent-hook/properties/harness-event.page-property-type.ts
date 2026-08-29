@@ -11,7 +11,7 @@ export const harnessEvent = {
   kind: "text",
   max: 20,
   nameFormatSlug: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A harness event is written as the harness writes it.",

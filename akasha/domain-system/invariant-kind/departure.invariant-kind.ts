@@ -6,7 +6,7 @@ export const departure = {
   slug: "departure",
   definition: "a decision a reader would not guess right",
   groupSlug: "invariant-group/design",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Knowing a departure stops a reader undoing it.",

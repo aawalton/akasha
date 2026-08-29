@@ -9,7 +9,7 @@ export const relationResolves = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:
@@ -38,8 +38,6 @@ export const relationResolves = {
       statement:
         "A non-mortal page naming a mortal page is refused, judged on the page type the name reaches, or on the property's declared target when it reaches none.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A bare name reaches a page of a page type the same change adds.",

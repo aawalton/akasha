@@ -13,7 +13,7 @@ export const contextWarrantFile = {
     "domain/context-warrant-file-property-file",
     "domain/context-warrant-file-import",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A file warrants only for the seat changing it, never for one reading it.",

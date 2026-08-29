@@ -7,7 +7,7 @@ export const indexStamp = {
   definition: "the commit the index was built from",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The stamp names the commit the index was built from.",

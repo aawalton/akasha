@@ -22,7 +22,7 @@ export const finding = {
     { propertySlug: "page-property-type/evidence", required: true, many: false },
   ],
   mortal: true,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A finding informs a decision rather than demanding one.",

@@ -6,7 +6,7 @@ export const absence = {
   slug: "absence",
   definition: "something the domain deliberately leaves out",
   groupSlug: "invariant-group/design",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Knowing an absence stops a reader adding it.",

@@ -5,7 +5,7 @@ export const pageEdge = {
   pageTypeSlug: "domain",
   slug: "page-edge",
   definition: "a reference from one page to another",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

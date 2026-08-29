@@ -8,7 +8,7 @@ export const noCodeComments = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A comment no program parses is prose, whatever it says.",

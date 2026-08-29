@@ -9,7 +9,7 @@ export const idIsAUuidVersion7 = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "The id judged is the one the page states.",

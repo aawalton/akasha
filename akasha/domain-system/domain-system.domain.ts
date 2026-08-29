@@ -12,13 +12,11 @@ export const domainSystem = {
     "page-type/invariant-kind",
     "domain/context-warrant",
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Context a choice does not need does not reach the agent making it.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "Agents have the context each choice needs at the time they make it.",

@@ -5,7 +5,7 @@ export const contextWarrantFilePropertyFile = {
   pageTypeSlug: "domain",
   slug: "context-warrant-file-property-file",
   definition: "what a seat must read for a file that is one property's own",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page property's file warrants its page and its property's type.",

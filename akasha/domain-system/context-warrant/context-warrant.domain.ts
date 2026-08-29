@@ -6,7 +6,7 @@ export const contextWarrant = {
   slug: "context-warrant",
   definition: "why a seat must read a page",
   partSlugs: ["domain/context-warrant-file"],
-  intent: [
+  invariants: [
     {
       invariantKind: "gap",
       statement: "Every page a seat must read stands under whatever warrants it.",

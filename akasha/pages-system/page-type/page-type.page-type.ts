@@ -20,7 +20,7 @@ export const pageType = {
     { propertySlug: "page-property-type/properties", required: false, many: true },
     { propertySlug: "page-property-type/mortal", required: false, many: false },
   ],
-  condition: [
+  invariants: [
     {
       invariantKind: "upkeep",
       statement: "The slug of a page type is singular.",

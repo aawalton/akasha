@@ -9,7 +9,7 @@ export const invariantGroup = {
   slug: "invariant-group",
   definition: "the standing an invariant has",
   extendsSlug: "page-type/domain",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A group is read off the kinds that name it, never stored as a list of them.",

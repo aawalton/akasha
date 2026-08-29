@@ -1,9 +1,7 @@
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { Condition } from "./properties/condition.page-property-type.ts"
 import type { Definition } from "./properties/definition.page-property-type.ts"
-import type { Design } from "./properties/design.page-property-type.ts"
-import type { Intent } from "./properties/intent.page-property-type.ts"
+import type { Invariants } from "./properties/invariants.page-property-type.ts"
 import type { PartSlugs } from "./properties/part-slugs.page-property-type.ts"
 import type { Principle } from "./properties/principle.page-property-type.ts"
 import type { Rule } from "./properties/rule.page-property-type.ts"
@@ -11,9 +9,7 @@ import type { Rule } from "./properties/rule.page-property-type.ts"
 export type Domain = Page & {
   definition: Definition
   partSlugs?: PartSlugs
-  design?: Design
-  condition?: Condition
-  intent?: Intent
+  invariants?: Invariants
   principle?: Principle
   rule?: Rule
 }
@@ -27,13 +23,11 @@ export const domain = {
   properties: [
     { propertySlug: "page-property-type/definition", required: true, many: false },
     { propertySlug: "page-property-type/part-slugs", required: false, many: true },
-    { propertySlug: "page-property-type/design", required: false, many: true },
-    { propertySlug: "page-property-type/condition", required: false, many: true },
-    { propertySlug: "page-property-type/intent", required: false, many: true },
+    { propertySlug: "page-property-type/invariants", required: false, many: true },
     { propertySlug: "page-property-type/principle", required: false, many: true },
     { propertySlug: "page-property-type/rule", required: false, many: true },
   ],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "What makes a page a domain is its page type, never the folder it sits in.",
@@ -55,8 +49,6 @@ export const domain = {
       statement:
         "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "An agent writes a domain's lines as well as Alan would.",

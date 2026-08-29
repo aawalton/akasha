@@ -9,7 +9,7 @@ export const command = {
   slug: "command",
   definition: "a module reached by name from the command line",
   extendsSlug: "page-type/module",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A command's slug is what it is invoked by.",

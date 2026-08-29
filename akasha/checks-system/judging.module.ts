@@ -6,7 +6,7 @@ export const judging = {
   slug: "judging",
   definition: "the change a check is shown, and the refusals it answers with",
   code: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Nothing here imports a check or a door.",

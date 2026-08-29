@@ -15,7 +15,7 @@ export const properties = {
   kind: "list",
   entrySlug: "declaration",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

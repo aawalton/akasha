@@ -8,7 +8,7 @@ export const noEnumOrNamespace = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement: "A declaration about a package is left out.",

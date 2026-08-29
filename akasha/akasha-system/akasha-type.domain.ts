@@ -6,7 +6,7 @@ export const akashaType = {
   slug: "akasha-type",
   definition: "the shape a value must have",
   partSlugs: ["domain/akasha-import"],
-  design: [
+  invariants: [
     {
       invariantKind: "constraint",
       statement: "A type is gone by the time the code runs.",
@@ -15,8 +15,6 @@ export const akashaType = {
       invariantKind: "departure",
       statement: "A page's type is derived from the page's value.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A page of the wrong shape does not compile.",

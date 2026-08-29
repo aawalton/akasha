@@ -7,7 +7,7 @@ export const checking = {
   definition: "every check gathered and run over one change, answering what refuses it",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A check's page names the export it runs.",

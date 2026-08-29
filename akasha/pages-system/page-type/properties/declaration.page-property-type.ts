@@ -16,7 +16,7 @@ export const declaration = {
   definition: "one property a page type carries, and how it carries it",
   extendsSlug: null,
   kind: "record",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "What a property is belongs to the property, how it is carried belongs here.",

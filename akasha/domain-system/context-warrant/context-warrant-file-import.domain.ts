@@ -5,7 +5,7 @@ export const contextWarrantFileImport = {
   pageTypeSlug: "domain",
   slug: "context-warrant-file-import",
   definition: "what a seat must read for what the file imports",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:

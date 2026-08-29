@@ -13,7 +13,7 @@ export const check = {
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
   properties: [{ propertySlug: "page-property-type/runs-on", required: true, many: true }],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement:
@@ -27,8 +27,6 @@ export const check = {
       invariantKind: "departure",
       statement: "A check takes and gives paths under the root it was given.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A check looks for no files.",

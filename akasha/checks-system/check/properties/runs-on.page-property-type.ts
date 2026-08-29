@@ -1,5 +1,7 @@
-import type { List } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
-import type { PagePropertyType } from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
+import type {
+  List,
+  PagePropertyType,
+} from "../../../pages-system/page-property-type/page-property-type.page-type.ts"
 import type { Phase } from "./phase.page-property-type.ts"
 
 export type RunsOn = List<Phase>
@@ -13,7 +15,7 @@ export const runsOn = {
   kind: "list",
   entrySlug: "phase",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A check states its phases.",
@@ -22,8 +24,6 @@ export const runsOn = {
       invariantKind: "departure",
       statement: "A check runs on audit whatever it states here.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A check's phases are derived from what it reads.",

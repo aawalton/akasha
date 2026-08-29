@@ -2,8 +2,8 @@ import type { PagePropertyType } from "../../../pages-system/page-property-type/
 import type { InvariantKind } from "./invariant-kind.page-property-type.ts"
 import type { Statement } from "./statement.page-property-type.ts"
 
-export type Invariant<K extends InvariantKind> = {
-  invariantKind: K
+export type Invariant = {
+  invariantKind: InvariantKind
   statement: Statement
 }
 
@@ -14,7 +14,7 @@ export const invariant = {
   definition: "one thing that must be true of a page, and which sort it is",
   extendsSlug: null,
   kind: "record",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "An entry that is none of the kinds is not an invariant.",

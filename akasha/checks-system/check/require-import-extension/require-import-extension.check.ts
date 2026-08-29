@@ -9,7 +9,7 @@ export const requireImportExtension = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "constraint",
       statement:

@@ -7,7 +7,7 @@ export const cli = {
   definition: "the name on the path answered, printed and given an exit code",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "What akasha needs from outside is gathered here and nowhere deeper.",

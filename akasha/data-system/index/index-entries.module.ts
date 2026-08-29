@@ -7,7 +7,7 @@ export const indexEntries = {
   definition: "the entries a page's value implies",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page's body can be loaded after the file it came from is gone.",

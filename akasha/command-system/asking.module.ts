@@ -7,7 +7,7 @@ export const asking = {
   definition: "the change a command asks for, gated and landed and answered for",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Every command asks for its change through this, so all of them answer alike.",
@@ -28,8 +28,6 @@ export const asking = {
       invariantKind: "departure",
       statement: "A dry run gates under the hold and writes nothing.",
     },
-  ],
-  intent: [
     {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",

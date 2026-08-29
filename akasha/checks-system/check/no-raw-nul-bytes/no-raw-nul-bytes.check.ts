@@ -8,7 +8,7 @@ export const noRawNulBytes = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Every file in the akasha folder is judged, and no kind of file is exempt.",

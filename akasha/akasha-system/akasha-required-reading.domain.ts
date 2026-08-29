@@ -5,7 +5,7 @@ export const akashaRequiredReading = {
   pageTypeSlug: "domain",
   slug: "akasha-required-reading",
   definition: "the reading an agent cannot skip",
-  intent: [
+  invariants: [
     {
       invariantKind: "gap",
       statement: "What a seat must read is worked out from what it is and what it has in hand.",

@@ -5,7 +5,7 @@ export const akashaFile = {
   pageTypeSlug: "domain",
   slug: "akasha-file",
   definition: "a file in the `akasha` folder",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page's file is named for its slug and its page type.",

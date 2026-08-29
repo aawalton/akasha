@@ -6,7 +6,7 @@ export const constraint = {
   slug: "constraint",
   definition: "a limit nobody here chose",
   groupSlug: "invariant-group/design",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "Knowing a constraint stops a reader asking for the impossible.",

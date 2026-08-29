@@ -5,7 +5,7 @@ export const akashaFunctionalCore = {
   pageTypeSlug: "domain",
   slug: "akasha-functional-core",
   definition: "the smallest part of the new system that can run itself",
-  intent: [
+  invariants: [
     {
       invariantKind: "gap",
       statement: "Every change to the akasha system is made by it.",

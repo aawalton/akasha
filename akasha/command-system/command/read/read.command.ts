@@ -7,7 +7,7 @@ export const read = {
   definition: "the command returning the whole body of each akasha file it is named",
   code: "ts",
   test: "ts",
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A read returns the whole file.",

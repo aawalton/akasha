@@ -15,7 +15,7 @@ export const partSlugs = {
   kind: "list",
   entrySlug: "domain-slug",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A page's parent is this edge inverted.",

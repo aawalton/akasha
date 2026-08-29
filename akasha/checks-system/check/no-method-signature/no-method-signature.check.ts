@@ -8,7 +8,7 @@ export const noMethodSignature = {
   code: "ts",
   test: "ts",
   runsOn: ["patch", "worktree", "deploy"],
-  design: [
+  invariants: [
     {
       invariantKind: "absence",
       statement:

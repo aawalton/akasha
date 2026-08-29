@@ -5,7 +5,7 @@ export const akashaCheck = {
   pageTypeSlug: "domain",
   slug: "akasha-check",
   definition: "a judgement passed on a change before it lands",
-  intent: [
+  invariants: [
     {
       invariantKind: "gap",
       statement:

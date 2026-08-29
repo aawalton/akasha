@@ -15,7 +15,7 @@ export const overTools = {
   kind: "list",
   entrySlug: "tool-name",
   max: null,
-  design: [
+  invariants: [
     {
       invariantKind: "departure",
       statement: "A hook states its tools.",
