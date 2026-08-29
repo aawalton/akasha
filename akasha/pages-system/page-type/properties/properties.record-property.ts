@@ -15,6 +15,12 @@ export const properties = {
   pageTypeSlug: "record-property",
   slug: "properties",
   definition: "the properties a page type adds to what it extends",
+  properties: [
+    { propertySlug: "page-property-slug", required: true, many: false },
+    { propertySlug: "required", required: true, many: false },
+    { propertySlug: "many", required: true, many: false },
+    { propertySlug: "max", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

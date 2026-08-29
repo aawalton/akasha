@@ -15,6 +15,10 @@ export const invariants = {
   pageTypeSlug: "record-property",
   slug: "invariants",
   definition: "what must be true of a page, each with the sort it is",
+  properties: [
+    { propertySlug: "invariant-kind", required: true, many: false },
+    { propertySlug: "statement", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
