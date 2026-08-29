@@ -15,6 +15,7 @@ export const nameFormat = {
     "name-format/lower-snake-case",
     "name-format/lower-uuid",
     "name-format/sentence-case",
+    "name-format/start-case",
     "name-format/title-case",
     "name-format/upper-camel-case",
     "name-format/upper-snake-case",
