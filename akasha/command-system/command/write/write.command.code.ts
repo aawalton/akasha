@@ -231,9 +231,16 @@ function messageWith(asked: Asked, broken: string | null): string {
   return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
 }
 
-function reportOf(said: Landed, asked: Asked, broken: string | null): readonly string[] {
+function reportOf(
+  said: Landed,
+  asked: Asked,
+  broken: string | null,
+  checks: number
+): readonly string[] {
   const found = [...asked.saying(said)]
-  if (asked.glass !== null) {
+  if (asked.glass === null) {
+    found.push(judgedBy(checks, asked.changes.length))
+  } else {
     found.push(`no check ran — the glass was broken for: ${asked.glass}`)
     if (broken !== null) {
       found.push(
@@ -265,6 +272,13 @@ export function passedOver(checks: number, paths: number): string {
     return `no check runs at this phase, so the ${counted(paths, "path")} asked for went unjudged`
   }
   return `${counted(checks, "check")} passed over the ${counted(paths, "path")} asked for`
+}
+
+export function judgedBy(checks: number, paths: number): string {
+  if (checks === 0) {
+    return `no check runs at this phase, so the ${counted(paths, "path")} asked for landed unjudged`
+  }
+  return `${counted(checks, "check")} judged the ${counted(paths, "path")} asked for, and none refused`
 }
 
 function reporting(root: string, asked: Asked, gate: Judging): Answer {
@@ -304,7 +318,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   if (asked.dryRun) return reporting(given.root, asked, gate)
   const said = landing(given.root, asked.changes, messageWith(asked, broken), gate, given.writer)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  return { report: reportOf(said, asked, broken), refusals: [], code: 0 }
+  return { report: reportOf(said, asked, broken, gate.named.length), refusals: [], code: 0 }
 }
 
 type Pair = {

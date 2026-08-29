@@ -248,11 +248,13 @@ test("the checks are shown every path the change touches", () => {
   rmSync(root, { recursive: true })
 })
 
-test("the gate is built by reaching the checks late, and a root naming none names none", () => {
+test("the gate reaches the checks late, and a root carrying no check index will not build one", () => {
   const root = repoWith({ "one.txt": "committed" })
   const said = gateBuilt(root)
-  expect("gate" in said).toBe(true)
-  expect("gate" in said ? said.gate.named : ["broken"]).toEqual([])
+  expect("broken" in said).toBe(true)
+  const why = "broken" in said ? said.broken : ""
+  expect(why).toContain("identity/check/slug")
+  expect(why).not.toContain("a gate is built from")
   rmSync(root, { recursive: true })
 })
 

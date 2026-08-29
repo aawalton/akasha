@@ -21,6 +21,11 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
+        "A missing index refuses rather than reading as an index naming nothing, and an index naming no check refuses the change it would leave unjudged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A check is run once over the whole change it was given, and never over the corpus.",
     },
     {

@@ -1,7 +1,7 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { everyOfType, everyPage } from "../data-system/index/index-reading.module.code.ts"
+import { everyOfType, everyPage, indexIn } from "../data-system/index/index-reading.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type Body = {
@@ -23,6 +23,18 @@ export type Gathered = {
 
 const CHECK = "check"
 
+const IDENTITY = "identity"
+
+const SLUG = "slug"
+
+const PAGE = "page"
+
+const ID = "id"
+
+const CHECKS_AT = ".git/data/index/identity/check/slug"
+
+const PAGES_AT = ".git/data/index/identity/page/id"
+
 const reach_ = createRequire(import.meta.url)
 
 function camel(slug: string): string {
@@ -34,10 +46,20 @@ export function codeBeside(path: string): string {
 }
 
 export function checkPagesIn(root: string): readonly string[] {
+  if (!existsSync(join(indexIn(root), IDENTITY, CHECK, SLUG))) {
+    throw new Error(
+      `\`${CHECKS_AT}\` is not there, so which checks stand could not be answered — an index that is missing is not an index naming no check`
+    )
+  }
   return [...new Set(everyOfType(root, CHECK).map((one) => one.path))].sort()
 }
 
 export function pagesIn(root: string): readonly string[] {
+  if (!existsSync(join(indexIn(root), IDENTITY, PAGE, ID))) {
+    throw new Error(
+      `\`${PAGES_AT}\` is not there, so which pages stand could not be answered — an index that is missing is not an index naming no page`
+    )
+  }
   return [...new Set(everyPage(root).map((one) => one.path))].sort()
 }
 
@@ -101,6 +123,11 @@ export function checksIn(root: string): readonly Gathered[] {
       throw new Error(`${path} is a check page, and ${codeBeside(path)} answers to nothing that can be run`)
     }
     found.push({ slug, page: path, runsOn, run })
+  }
+  if (found.length === 0) {
+    throw new Error(
+      `\`${CHECKS_AT}\` names no check, so nothing would judge this change and a clean answer would mean nothing`
+    )
   }
   return found.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }

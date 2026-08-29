@@ -3,6 +3,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import {
+  checkPagesIn,
   checksAt,
   checksIn,
   everyFileIn,
@@ -162,5 +163,36 @@ test("a check page whose code is not there stops the whole run", () => {
 test("a check page stating no runsOn a runner can honour is refused", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["tree"], body: ADMITS_ALL }])
   expect(() => checksIn(root)).toThrow("states no `runsOn`")
+  rmSync(root, { recursive: true })
+})
+
+test("an index holding no check directory cannot answer, and is not read as naming none", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  rmSync(join(root, ".git/data/index/identity/check"), { recursive: true })
+  expect(() => checkPagesIn(root)).toThrow("could not be answered")
+  expect(() => checksIn(root)).toThrow(CHECKS_AT)
+  rmSync(root, { recursive: true })
+})
+
+test("an index holding no page directory cannot answer, so the audit refuses rather than taking nothing", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  rmSync(join(root, PAGES_AT), { recursive: true })
+  expect(() => everyFileIn(root)).toThrow("could not be answered")
+  expect(() => everythingIn(root)).toThrow(PAGES_AT)
+  rmSync(root, { recursive: true })
+})
+
+test("an index naming no check refuses, a change judged by nothing being no change judged clean", () => {
+  const root = rootWith([])
+  expect(checkPagesIn(root)).toEqual([])
+  expect(() => checksIn(root)).toThrow("names no check")
+  rmSync(root, { recursive: true })
+})
+
+test("checks standing but none at a phase leaves that phase empty rather than refusing", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: [], body: ADMITS_ALL }])
+  const every = checksIn(root)
+  expect(every.map((one) => one.slug)).toEqual(["admits-all"])
+  expect(judgingBy(checksAt(every, "patch")).named).toEqual([])
   rmSync(root, { recursive: true })
 })

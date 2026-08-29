@@ -29,6 +29,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
+  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
+  admitting(root)
   return root
 }
 
@@ -78,16 +80,38 @@ const REFUSES_CODE = `export function refuses(leaving) {
 }
 `
 
-function refusing(root: string): void {
-  const at = "akasha/refuses.check.ts"
-  writeFileSync(join(root, at), REFUSES_PAGE)
-  writeFileSync(join(root, "akasha/refuses.check.code.ts"), REFUSES_CODE)
+const ADMITS_PAGE = `export const admits = {
+  id: "01a04bed-1461-7000-8000-00000000cccc",
+  pageTypeSlug: "check",
+  slug: "admits",
+  definition: "a check admitting everything",
+  code: "ts",
+  needs: "path",
+  runsOn: ["patch"],
+}
+`
+
+const ADMITS_CODE = `export function admits() {
+  return []
+}
+`
+
+function minting(root: string, slug: string, page: string, code: string, id: string): void {
+  const at = `akasha/${slug}.check.ts`
+  mkdirSync(join(root, "akasha"), { recursive: true })
+  writeFileSync(join(root, at), page)
+  writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
   const dir = join(root, ".git/data/index/identity/check/slug")
   mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    join(dir, "refuses.jsonl"),
-    `${JSON.stringify({ path: at, id: "01a04bed-1461-7000-8000-00000000bbbb" })}\n`
-  )
+  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+}
+
+function refusing(root: string): void {
+  minting(root, "refuses", REFUSES_PAGE, REFUSES_CODE, "01a04bed-1461-7000-8000-00000000bbbb")
+}
+
+function admitting(root: string): void {
+  minting(root, "admits", ADMITS_PAGE, ADMITS_CODE, "01a04bed-1461-7000-8000-00000000cccc")
 }
 
 test("named paths are taken away and the removal is committed", () => {

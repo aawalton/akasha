@@ -8,6 +8,10 @@ import { edit } from "./edit.command.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
+const ADMITS_AT = "akasha/checks-system/check/admits/"
+
+const ADMITS = "export function admits() {\n  return []\n}\n"
+
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
@@ -27,6 +31,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   for (const [path, body] of Object.entries(named)) put(root, path, body)
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
+  put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
+  checking(root, "admits", ADMITS)
   return root
 }
 
