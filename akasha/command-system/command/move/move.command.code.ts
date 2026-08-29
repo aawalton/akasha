@@ -10,7 +10,7 @@ import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
-import { baseOf } from "../../landing.module.code.ts"
+import { baseOf, bodyAt } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
@@ -180,6 +180,7 @@ export function importingOf(root: string, moved: ReadonlyMap<string, string>): R
 
 function spellingOf(
   root: string,
+  stood: string,
   moved: ReadonlyMap<string, string>,
   known: ReadonlySet<string>
 ): readonly string[] {
@@ -187,9 +188,9 @@ function spellingOf(
   const found: string[] = []
   for (const path of everyPath(root)) {
     if (!path.endsWith(TS) || moved.has(path) || known.has(path)) continue
-    const full = join(root, path)
-    if (!existsSync(full)) continue
-    const text = textOf(readFileSync(full))
+    const held = bodyAt(root, stood, path)
+    if (held === null) continue
+    const text = textOf(held)
     if (text === null) continue
     if (names.some((name) => text.includes(name))) found.push(path)
   }
@@ -329,7 +330,14 @@ export function move(argv: readonly string[], given: Given): Answer {
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const changes: Change[] = []
   for (const one of sided.sides) {
-    const bytes = readFileSync(join(root, one.from))
+    const bytes = bodyAt(root, stood, one.from)
+    if (bytes === null) {
+      return answering(
+        [],
+        [`${one.from} stands in no commit at \`${stood}\`, so what it holds cannot be moved`],
+        2
+      )
+    }
     if (!one.from.endsWith(TS)) {
       changes.push({ path: one.to, body: bytes })
       changes.push({ path: one.from, body: null })
@@ -355,11 +363,12 @@ export function move(argv: readonly string[], given: Given): Answer {
   const repointing: string[] = []
   if ("importers" in reading) {
     const naming = new Set<string>(reading.importers)
-    for (const path of spellingOf(root, moved, naming)) naming.add(path)
+    for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
     for (const path of [...naming].sort()) {
-      const full = join(root, path)
-      if (!path.endsWith(TS) || !existsSync(full)) continue
-      const text = textOf(readFileSync(full))
+      if (!path.endsWith(TS)) continue
+      const held = bodyAt(root, stood, path)
+      if (held === null) continue
+      const text = textOf(held)
       if (text === null) {
         return answering(
           [],

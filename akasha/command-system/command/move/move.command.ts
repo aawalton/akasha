@@ -26,6 +26,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The bodies a move carries and repoints are read from the commit it stood on, never from the working tree.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A move changes where a file stands, never what it is called.",
     },
     {
