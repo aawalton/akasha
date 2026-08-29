@@ -9,4 +9,5 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+claude-code-session-uuid: b8f78244-23a9-423b-98a4-74e08cc50e0e
 ---
