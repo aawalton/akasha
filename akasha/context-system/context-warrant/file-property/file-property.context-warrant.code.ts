@@ -12,12 +12,12 @@ import { type Knowing, standingOf, type Warrant } from "../../warranting/warrant
 export const PROPERTY =
   "A page states each property as the page defining it shapes it, and that page is read first."
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export function statedIn(root: string, path: string, slug: string): readonly string[] {
   let mod: Record<string, unknown>
   try {
-    mod = reach_(join(root, path)) as Record<string, unknown>
+    mod = loadFrom(join(root, path)) as Record<string, unknown>
   } catch {
     return []
   }

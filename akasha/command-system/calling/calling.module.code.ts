@@ -55,7 +55,7 @@ export const ROOTED = "index"
 
 export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export function answering(
   report: readonly string[],
@@ -73,7 +73,7 @@ export function reachedIn(
   at: string
 ): { readonly mod: Record<string, unknown> } | { readonly why: string } {
   try {
-    return { mod: reach_(at) as Record<string, unknown> }
+    return { mod: loadFrom(at) as Record<string, unknown> }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { why: why.replace(/\s+/g, " ").trim() }

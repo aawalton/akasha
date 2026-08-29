@@ -84,7 +84,7 @@ const WAITED_FOR_A_BODY = 1
 
 const READ_AT_MOST = 64 * 1024 * 1024
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export const NO_GATE: Judging = { named: [], over: () => [] }
 
@@ -102,7 +102,7 @@ export function oneLine(said: string): string {
 }
 
 function checkingLoaded(): Checking {
-  const held = reach_(CHECKING) as Partial<Checking>
+  const held = loadFrom(CHECKING) as Partial<Checking>
   const named = [held.checksIn, held.checksAt, held.judgingBy]
   if (named.some((one) => typeof one !== "function")) {
     throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
@@ -113,7 +113,7 @@ function checkingLoaded(): Checking {
 type Keeping = (root: string, repo: string) => Indexing
 
 function indexingLoaded(): Keeping {
-  const held = reach_(INDEXING) as { readonly indexingAt?: unknown }
+  const held = loadFrom(INDEXING) as { readonly indexingAt?: unknown }
   if (typeof held.indexingAt !== "function") {
     throw new Error(`${INDEXING_AT} answers to no \`indexingAt\` the index is kept by`)
   }

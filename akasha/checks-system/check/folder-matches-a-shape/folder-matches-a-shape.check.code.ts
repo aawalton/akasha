@@ -29,7 +29,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export type Shape = {
   readonly slug: string
@@ -89,7 +89,7 @@ export function shapesIn(root: string): readonly Shape[] {
     }
     let mod: Record<string, unknown>
     try {
-      mod = reach_(join(root, beside)) as Record<string, unknown>
+      mod = loadFrom(join(root, beside)) as Record<string, unknown>
     } catch (thrown) {
       throw new Error(
         `${one.path} is a folder shape, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`

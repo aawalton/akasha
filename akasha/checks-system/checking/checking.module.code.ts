@@ -49,7 +49,7 @@ const CHECKS_AT = indexAt(IDENTITY, CHECK, SLUG)
 
 const PATHS_AT = indexAt(PATH)
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export function checkPagesIn(root: string): readonly string[] {
   if (!existsSync(join(root, CHECKS_AT))) {
@@ -80,7 +80,7 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
 function statedIn(at: string, slug: string): Record<string, unknown> | null {
   let mod: Record<string, unknown>
   try {
-    mod = reach_(at) as Record<string, unknown>
+    mod = loadFrom(at) as Record<string, unknown>
   } catch {
     return null
   }
@@ -92,7 +92,7 @@ function statedIn(at: string, slug: string): Record<string, unknown> | null {
 function runningIn(at: string, slug: string): Running | null {
   let mod: Record<string, unknown>
   try {
-    mod = reach_(at) as Record<string, unknown>
+    mod = loadFrom(at) as Record<string, unknown>
   } catch {
     return null
   }

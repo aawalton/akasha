@@ -64,7 +64,7 @@ export type Gathered = {
   readonly warranting: Warranting
 }
 
-const reach_ = createRequire(import.meta.url)
+const loadFrom = createRequire(import.meta.url)
 
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
@@ -112,7 +112,7 @@ export function standingOf(root: string, path: string): string | null {
 function namedBy(at: string, slug: string): unknown {
   let mod: Record<string, unknown>
   try {
-    mod = reach_(at) as Record<string, unknown>
+    mod = loadFrom(at) as Record<string, unknown>
   } catch {
     return undefined
   }
