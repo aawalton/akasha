@@ -21,5 +21,5 @@ export const pagePropertyType = {
   pageTypeSlug: "page-type",
   slug: "page-property-type",
   definition: "the shape of one value a page carries",
-  extendsSlug: "page-type",
+  extendsSlug: "page-type/page-type",
 } as const satisfies PageType

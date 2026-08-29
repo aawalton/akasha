@@ -1,13 +1,14 @@
 import { expect, test } from "bun:test"
 import { everyPageType } from "./every-page-type.module.code.ts"
+import { addressIn } from "../page/page-address.module.code.ts"
 
 const DECLARED: Readonly<Record<string, string | null>> = {
   page: null,
-  domain: "page",
-  module: "domain",
-  command: "module",
-  "page-type": "domain",
-  "page-property-type": "page-type",
+  domain: "page-type/page",
+  module: "page-type/domain",
+  command: "page-type/module",
+  "page-type": "page-type/domain",
+  "page-property-type": "page-type/page-type",
 }
 
 test("what each page type extends is declared as the page itself states it", () => {
@@ -41,6 +42,8 @@ test("exactly one page type extends nothing, so the chain has one root", () => {
 test("what a page type extends is itself a page type, so no chain leaves the set", () => {
   for (const above of Object.values(DECLARED)) {
     if (above === null) continue
-    expect(Object.keys(DECLARED)).toContain(above)
+    const address = addressIn(above)
+    expect(address.kind).toBe("qualified")
+    expect(Object.keys(DECLARED)).toContain(address.kind === "id" ? above : address.slug)
   }
 })

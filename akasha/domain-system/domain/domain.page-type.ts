@@ -27,7 +27,7 @@ export const domain = {
   pageTypeSlug: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",
-  extendsSlug: "page",
+  extendsSlug: "page-type/page",
   design: [
     "What makes a page a domain is its page type, never the folder it sits in.",
     "Everything a domain carries could matter to every domain beneath it.",

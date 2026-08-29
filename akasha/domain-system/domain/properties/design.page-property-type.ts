@@ -8,7 +8,7 @@ export const design = {
   pageTypeSlug: "page-property-type",
   slug: "design",
   definition: "an invariant that holds now",
-  extendsSlug: "invariant",
+  extendsSlug: "page-property-type/invariant",
   kind: "list",
   entrySlug: "statement",
   max: null,

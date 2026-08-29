@@ -5,7 +5,7 @@ export const akashaMigration = {
   pageTypeSlug: "domain",
   slug: "akasha-migration",
   definition: "how the old system becomes the new system",
-  partSlugs: ["akasha-accretion", "akasha-ablation", "akasha-milestone"],
+  partSlugs: ["domain/akasha-accretion", "domain/akasha-ablation", "domain/akasha-milestone"],
   requiredReadingSlugs: [
     "domain/akasha-accretion",
     "domain/akasha-ablation",

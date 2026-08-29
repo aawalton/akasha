@@ -148,6 +148,11 @@ function pageTypePageIn(held: Reading, slug: string): Filed | null {
   return null
 }
 
+function slugOf(named: string): string {
+  const address = addressIn(named)
+  return address.kind === "id" ? named : address.slug
+}
+
 function admitsIn(held: Reading, actual: string, wanted: string): boolean {
   const walked = new Set<string>()
   let here: string | null = actual
@@ -157,7 +162,7 @@ function admitsIn(held: Reading, actual: string, wanted: string): boolean {
     const page = pageTypePageIn(held, here)
     const value = page === null ? null : held.edgesOf(page.path)?.raw
     const above = value === undefined || value === null ? null : value[EXTENDS]
-    here = typeof above === "string" ? above : null
+    here = typeof above === "string" ? slugOf(above) : null
   }
   return false
 }
@@ -195,11 +200,11 @@ function targetsIn(held: Reading): ReadonlyMap<string, string> {
     const kind = raw["kind"]
     if (kind === "relation") {
       const named = raw["targetPageTypeSlug"]
-      return typeof named === "string" ? named : null
+      return typeof named === "string" ? slugOf(named) : null
     }
     if (kind !== "list") return null
     const entry = raw["entrySlug"]
-    return typeof entry === "string" ? targetOf(entry, new Set([...walked, slug])) : null
+    return typeof entry === "string" ? targetOf(slugOf(entry), new Set([...walked, slug])) : null
   }
   for (const slug of kinds.keys()) {
     const target = targetOf(slug, new Set())

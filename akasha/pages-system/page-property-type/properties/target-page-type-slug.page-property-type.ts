@@ -10,5 +10,5 @@ export const targetPageTypeSlug = {
   definition: "the page type this relation's value names, or a page type extending it",
   extendsSlug: null,
   kind: "relation",
-  targetPageTypeSlug: "page-type",
+  targetPageTypeSlug: "page-type/page-type",
 } as const satisfies PagePropertyType

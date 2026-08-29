@@ -8,7 +8,7 @@ export const condition = {
   pageTypeSlug: "page-property-type",
   slug: "condition",
   definition: "an invariant that holds only while it is kept true",
-  extendsSlug: "invariant",
+  extendsSlug: "page-property-type/invariant",
   kind: "list",
   entrySlug: "statement",
   max: null,

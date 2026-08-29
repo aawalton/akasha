@@ -10,5 +10,5 @@ export const entrySlug = {
   definition: "the property type of a list's entries",
   extendsSlug: null,
   kind: "relation",
-  targetPageTypeSlug: "page-property-type",
+  targetPageTypeSlug: "page-type/page-property-type",
 } as const satisfies PagePropertyType

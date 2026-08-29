@@ -82,6 +82,11 @@ export function pageTyped(path: string, pageTypes: ReadonlySet<string>): boolean
   return said !== null && said[2] !== undefined && pageTypes.has(said[2])
 }
 
+function slugOf(named: string): string {
+  const address = addressIn(named)
+  return address.kind === "id" ? named : address.slug
+}
+
 function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path
 }
@@ -168,11 +173,11 @@ export function knownIn(root: string, repo: string): Known {
     const kind = textAt(value, "kind")
     if (kind === "relation") {
       const named = textAt(value, "targetPageTypeSlug")
-      if (named !== null) target.set(slug, named)
+      if (named !== null) target.set(slug, slugOf(named))
     }
     if (kind === "list") {
       const named = textAt(value, "entrySlug")
-      if (named !== null) entry.set(slug, named)
+      if (named !== null) entry.set(slug, slugOf(named))
     }
   }
 
@@ -182,7 +187,7 @@ export function knownIn(root: string, repo: string): Known {
     if (value === null) continue
     const slug = textAt(value, "slug")
     const extendsSlug = textAt(value, "extendsSlug")
-    if (slug !== null && extendsSlug !== null) above.set(slug, extendsSlug)
+    if (slug !== null && extendsSlug !== null) above.set(slug, slugOf(extendsSlug))
   }
   const everyType = new Set<string>([...above.keys(), ...above.values()])
 

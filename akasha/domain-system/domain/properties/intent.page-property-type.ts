@@ -8,7 +8,7 @@ export const intent = {
   pageTypeSlug: "page-property-type",
   slug: "intent",
   definition: "an invariant that does not hold yet",
-  extendsSlug: "invariant",
+  extendsSlug: "page-property-type/invariant",
   kind: "list",
   entrySlug: "statement",
   max: null,

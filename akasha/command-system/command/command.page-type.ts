@@ -8,7 +8,7 @@ export const command = {
   pageTypeSlug: "page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
-  extendsSlug: "module",
+  extendsSlug: "page-type/module",
   design: [
     "A command's slug is what it is invoked by, so nothing states an invocation twice.",
     "A command is found by its page type, never by a list kept beside it.",

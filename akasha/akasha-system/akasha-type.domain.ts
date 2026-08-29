@@ -5,7 +5,7 @@ export const akashaType = {
   pageTypeSlug: "domain",
   slug: "akasha-type",
   definition: "the shape a value must have",
-  partSlugs: ["akasha-import"],
+  partSlugs: ["domain/akasha-import"],
   requiredReadingSlugs: ["domain/akasha-import"],
   design: [
     "A type is gone by the time the code runs.",

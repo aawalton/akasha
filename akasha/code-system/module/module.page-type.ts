@@ -13,7 +13,7 @@ export const module = {
   pageTypeSlug: "page-type",
   slug: "module",
   definition: "code reached by importing it",
-  extendsSlug: "domain",
+  extendsSlug: "page-type/domain",
   design: [
     "A module's code is a page property, held in a file beside the page.",
     "A module page states what its code is for; the code states how.",

@@ -10,5 +10,5 @@ export const nameFormatSlug = {
   definition: "the format a text value is written in",
   extendsSlug: null,
   kind: "relation",
-  targetPageTypeSlug: "domain",
+  targetPageTypeSlug: "page-type/domain",
 } as const satisfies PagePropertyType

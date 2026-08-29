@@ -10,6 +10,6 @@ export const pageType = {
   pageTypeSlug: "page-type",
   slug: "page-type",
   definition: "the specification for a kind of page",
-  extendsSlug: "domain",
+  extendsSlug: "page-type/domain",
   condition: ["The slug of a page type is singular."],
 } as const satisfies PageType

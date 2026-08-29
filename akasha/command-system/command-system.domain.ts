@@ -5,6 +5,6 @@ export const commandSystem = {
   pageTypeSlug: "domain",
   slug: "command-system",
   definition: "what an agent runs by name",
-  partSlugs: ["command", "calling", "read", "write", "edit"],
+  partSlugs: ["page-type/command", "module/calling", "command/read", "command/write", "command/edit"],
   requiredReadingSlugs: ["page-type/command"],
 } as const satisfies Domain
