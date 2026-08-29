@@ -21,6 +21,7 @@ export const agentHook = {
     "agent-hook/block-bun-test",
     "agent-hook/block-destructive-git",
     "agent-hook/block-git-writes",
+    "agent-hook/clear-reads-on-context-replaced",
     "text-property/over-tools",
     "text-property/runs-at",
   ],
