@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   domainIsNamedByAParent,
-  domainSlugOf,
+  domainNamedIn,
   reasonsIn,
 } from "./domain-is-named-by-a-parent.check.code.ts"
 
@@ -49,6 +49,24 @@ function edging(root: string, id: string, propertySlug: string, from: string): v
   writeFileSync(join(dir, `${from}.jsonl`), `${JSON.stringify({ path: "akasha/up.domain.ts" })}\n`)
 }
 
+function typed(root: string, slug: string, above: string): void {
+  const dir = join(root, INDEX, "identity", "page-type", "slug")
+  mkdirSync(dir, { recursive: true })
+  const path = `akasha/held/${slug}.page-type.ts`
+  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`, "utf8")
+  const page = join(root, path)
+  mkdirSync(join(root, "akasha", "held"), { recursive: true })
+  const said = JSON.stringify(`page-type/${above}`)
+  writeFileSync(page, `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`, "utf8")
+}
+
+function stands(root: string, kind: string, slug: string, id: string): void {
+  const dir = join(root, INDEX, "identity", kind, "slug")
+  mkdirSync(dir, { recursive: true })
+  const line = JSON.stringify({ path: `akasha/${slug}.${kind}.ts`, id })
+  writeFileSync(join(dir, `${slug}.jsonl`), `${line}\n`, "utf8")
+}
+
 const NO_BYTES = new Uint8Array(0)
 
 function at(root: string, path: string) {
@@ -76,7 +94,7 @@ test("a domain no page names is refused, and the refusal names the slug", () => 
   const said = reasonsIn(at(root, "akasha/held/held.domain.ts"))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`domain/held`")
-  expect(said[0]).toContain("part of a domain above it")
+  expect(said[0]).toContain("part of a page above it")
 })
 
 test("a domain the change takes away is passed over rather than asked who names it", () => {
@@ -112,16 +130,25 @@ test("akasha-system stands under nothing, so it alone is passed over", () => {
   expect(reasonsIn(at(root, "akasha/akasha-system/akasha-system.domain.ts"))).toEqual([])
 })
 
-test("a page whose page type merely descends from domain is not judged", () => {
+test("a page whose page type descends from domain is judged too", () => {
   const root = rooted()
-  for (const path of [
-    "akasha/checks-system/check/one/one.check.ts",
-    "akasha/code-system/module/module.page-type.ts",
-    "akasha/pages-system/index/indexing.module.ts",
-    "akasha/command-system/command/write/write.command.ts",
-  ]) {
-    expect(reasonsIn(at(root, path))).toEqual([])
-  }
+  typed(root, "module", DOMAIN)
+  stands(root, "module", "held", ONE)
+  expect(reasonsIn(at(root, "akasha/held.module.ts"))).toHaveLength(1)
+})
+
+test("a page whose page type descends from domain and is named is let through", () => {
+  const root = rooted()
+  typed(root, "module", DOMAIN)
+  stands(root, "module", "held", ONE)
+  edging(root, ONE, "part-slugs", TWO)
+  expect(reasonsIn(at(root, "akasha/held.module.ts"))).toEqual([])
+})
+
+test("a page whose page type stands outside domain is not judged", () => {
+  const root = rooted()
+  typed(root, "finding", "page")
+  expect(reasonsIn(at(root, "akasha/held.finding.ts"))).toEqual([])
 })
 
 test("a file that is no page's shape is passed over", () => {
@@ -158,12 +185,21 @@ test("the check reads the index under the root it was given, and no other", () =
 })
 
 test("the slug is the file's stem and the page type its suffix", () => {
-  expect(domainSlugOf("akasha/a/b/index-relation.domain.ts")).toBe("index-relation")
-  expect(domainSlugOf("akasha/held.module.ts")).toBeNull()
-  expect(domainSlugOf("akasha/held.module.code.ts")).toBeNull()
-  expect(domainSlugOf("held.domain.ts")).toBeNull()
+  const root = rooted()
+  expect(domainNamedIn(root, "akasha/a/b/index-relation.domain.ts")).toEqual({
+    pageTypeSlug: "domain",
+    slug: "index-relation",
+  })
+  expect(domainNamedIn(root, "akasha/held.module.code.ts")).toBeNull()
+  expect(domainNamedIn(root, "held.domain.ts")).toBeNull()
+})
+
+test("a page type no page type page declares is not judged", () => {
+  const root = rooted()
+  expect(domainNamedIn(root, "akasha/held.module.ts")).toBeNull()
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  expect(domainSlugOf("akasha/a.b.domain.ts")).toBe("a.b")
+  const root = rooted()
+  expect(domainNamedIn(root, "akasha/a.b.domain.ts")?.slug).toBe("a.b")
 })

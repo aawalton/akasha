@@ -15,11 +15,12 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Only a page whose own page type is `domain` is judged, never one whose page type descends from it.",
+        "Every page whose page type stands under `domain` is judged, not only one whose own page type is `domain`.",
     },
     {
       invariantKind: "departure",
-      statement: "The page is found from its path alone.",
+      statement:
+        "The page is found from its path and the page types the index holds, never by walking.",
     },
     {
       invariantKind: "absence",
@@ -31,7 +32,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "`akasha-system` alone is passed over.",
+      statement: "`domain/akasha-system` alone is passed over, as the one page standing under none.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,7 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "gap",
-      statement: "Every domain is reached by reading down from `akasha-system`.",
+      statement: "Every page standing under `domain` is reached by reading down from `akasha-system`.",
     },
     {
       invariantKind: "gap",
