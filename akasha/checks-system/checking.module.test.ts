@@ -1,6 +1,5 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   checkPagesIn,
@@ -12,12 +11,17 @@ import {
   onDisk,
   overEachFile,
 } from "./checking.module.code.ts"
+import { scratchWorld } from "../command-system/scratching.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const PAGES_AT = ".git/data/index/identity/page/id"
 
 const PATHS_AT = ".git/data/index/identity/page/path"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function filed(root: string, at: string, line: string): void {
   const to = join(root, PATHS_AT, `${at}.jsonl`)
@@ -33,7 +37,7 @@ function rootWith(
     readonly body: string
   }[]
 ): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-checking-"))
+  const root = scratch.rootFor("akasha-checking-")
   mkdirSync(join(root, CHECKS_AT), { recursive: true })
   mkdirSync(join(root, PAGES_AT), { recursive: true })
   mkdirSync(join(root, PATHS_AT), { recursive: true })
@@ -87,7 +91,6 @@ test("a check is found through the index rather than by walking the tree", () =>
   const found = checksIn(root)
   expect(found.map((one) => one.slug)).toEqual(["admits-all"])
   expect(found[0]?.page).toBe("akasha/checks-system/check/admits-all/admits-all.check.ts")
-  rmSync(root, { recursive: true })
 })
 
 test("a check is run once over the whole change, and never over the rest of the tree", () => {
@@ -100,7 +103,6 @@ test("a check is run once over the whole change, and never over the rest of the 
     at: onDisk(root),
   })
   expect(said.map((one) => one.path)).toEqual(["one.ts"])
-  rmSync(root, { recursive: true })
 })
 
 test("a check that threw refuses the change it could not judge, and the refusal names its page", () => {
@@ -114,7 +116,6 @@ test("a check that threw refuses the change it could not judge, and the refusal 
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
   expect(said[0]?.reason).toContain("could not look")
-  rmSync(root, { recursive: true })
 })
 
 test("a path the change takes away is handed to every check, and can be refused", () => {
@@ -127,18 +128,16 @@ test("a path the change takes away is handed to every check, and can be refused"
   })
   expect(said.map((one) => one.path)).toEqual(["gone.ts"])
   expect(said[0]?.reason).toContain("may not be taken away")
-  rmSync(root, { recursive: true })
 })
 
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
-  const root = mkdtempSync(join(tmpdir(), "akasha-each-file-"))
+  const root = scratch.rootFor("akasha-each-file-")
   writeFileSync(join(root, "here.ts"), "here")
   const said = overEachFile(
     { root, changed: ["gone.ts", "here.ts"], at: onDisk(root) },
     (given) => [`${given.path} holds ${given.bytes.length} bytes`]
   )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
-  rmSync(root, { recursive: true })
 })
 
 test("a phase takes only the checks that state it", () => {
@@ -150,7 +149,6 @@ test("a phase takes only the checks that state it", () => {
   expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
-  rmSync(root, { recursive: true })
 })
 
 test("audit takes a page and the files its own properties imply", () => {
@@ -158,7 +156,6 @@ test("audit takes a page and the files its own properties imply", () => {
   const every = everyFileIn(root)
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.ts")
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.code.ts")
-  rmSync(root, { recursive: true })
 })
 
 test("audit takes the paths the index files, and works none of them out from a property name", () => {
@@ -168,7 +165,6 @@ test("audit takes the paths the index files, and works none of them out from a p
   filed(root, `${at.slice(0, -".ts".length)}.note.md`, `${JSON.stringify({ path: at, id })}\n`)
   const every = everyFileIn(root)
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.note.md")
-  rmSync(root, { recursive: true })
 })
 
 test("audit reads no page module to work out what stands, so a page it cannot load is still taken", () => {
@@ -176,7 +172,6 @@ test("audit reads no page module to work out what stands, so a page it cannot lo
   const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
   writeFileSync(join(root, at), "this is not typescript at all (((\n")
   expect(everyFileIn(root)).toContain(`${at.slice(0, -".ts".length)}.code.ts`)
-  rmSync(root, { recursive: true })
 })
 
 test("audit reads the body of every file it takes", () => {
@@ -185,20 +180,17 @@ test("audit reads the body of every file it takes", () => {
   expect(leaving.root).toBe(root)
   expect(leaving.changed.length).toBeGreaterThan(0)
   for (const path of leaving.changed) expect(leaving.at(path)).not.toBeNull()
-  rmSync(root, { recursive: true })
 })
 
 test("a check page whose code is not there stops the whole run", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   rmSync(join(root, "akasha/checks-system/check/admits-all/admits-all.check.code.ts"))
   expect(() => checksIn(root)).toThrow("answers to nothing that can be run")
-  rmSync(root, { recursive: true })
 })
 
 test("a check page stating no phase a runner can honour is refused", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: [], raw: "", body: ADMITS_ALL }])
   expect(() => checksIn(root)).toThrow("states no phase")
-  rmSync(root, { recursive: true })
 })
 
 test("an index holding no check directory cannot answer, and is not read as naming none", () => {
@@ -206,7 +198,6 @@ test("an index holding no check directory cannot answer, and is not read as nami
   rmSync(join(root, ".git/data/index/identity/check"), { recursive: true })
   expect(() => checkPagesIn(root)).toThrow("could not be answered")
   expect(() => checksIn(root)).toThrow(CHECKS_AT)
-  rmSync(root, { recursive: true })
 })
 
 test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
@@ -214,14 +205,12 @@ test("an index holding no path directory cannot answer, so the audit refuses rat
   rmSync(join(root, PATHS_AT), { recursive: true })
   expect(() => everyFileIn(root)).toThrow("could not be answered")
   expect(() => everythingIn(root)).toThrow(PATHS_AT)
-  rmSync(root, { recursive: true })
 })
 
 test("an index naming no check refuses, a change judged by nothing being no change judged clean", () => {
   const root = rootWith([])
   expect(checkPagesIn(root)).toEqual([])
   expect(() => checksIn(root)).toThrow("names no check")
-  rmSync(root, { recursive: true })
 })
 
 test("checks standing but none at a phase leaves that phase empty rather than refusing", () => {
@@ -229,5 +218,4 @@ test("checks standing but none at a phase leaves that phase empty rather than re
   const every = checksIn(root)
   expect(every.map((one) => one.slug)).toEqual(["admits-all"])
   expect(judgingBy(checksAt(every, "patch")).named).toEqual([])
-  rmSync(root, { recursive: true })
 })
