@@ -4,6 +4,7 @@ import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { bytesOf as bytes } from "../testing-system/bodying.module.code.ts"
 import { gitIn as git } from "../testing-system/gitting.module.code.ts"
+import { until } from "../testing-system/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
@@ -42,12 +43,6 @@ const idOf = (one: string): string =>
 
 const pageOf = (one: string): string =>
   `export const ${one} = { id: "${idOf(one)}", pageTypeSlug: "domain", slug: "${one}" }\n`
-
-async function until(said: () => boolean, waited = 10000): Promise<boolean> {
-  const end = Date.now() + waited
-  while (Date.now() < end && !said()) await Bun.sleep(20)
-  return said()
-}
 
 const running = (said: string): Bun.Subprocess => Bun.spawn(["bun", "-e", said], { stderr: "pipe" })
 

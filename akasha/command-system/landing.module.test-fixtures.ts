@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { bytesOf } from "../testing-system/bodying.module.code.ts"
@@ -41,11 +41,7 @@ export function gitOver(root: string): readonly string[] {
   return said.split("\n").filter((one) => one.includes("cat-file") && one.includes(root))
 }
 
-export async function until(said: () => boolean, waited = 10000): Promise<boolean> {
-  const end = Date.now() + waited
-  while (Date.now() < end && !said()) await Bun.sleep(20)
-  return said()
-}
+export { until } from "../testing-system/waiting.module.code.ts"
 
 export const ID = "01a04e11-0000-7000-8000-000000000001"
 
@@ -59,18 +55,7 @@ export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
 export const indexIn = (root: string): string => join(root, ".git/data/index")
 
-export function everyFileUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): void => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
-    }
-  }
-  walk(at)
-  return found.sort()
-}
+export { everyFileUnder } from "../testing-system/walking.module.code.ts"
 
 export const butTheStamp = (found: readonly string[]): readonly string[] =>
   found.filter((one) => !one.startsWith("/stamp.jsonl "))

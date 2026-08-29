@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import { indexingAt } from "./indexing.module.code.ts"
@@ -124,18 +124,7 @@ export function grounded(): Pair {
   return { tree, root }
 }
 
-export function everyFileUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): void => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
-    }
-  }
-  walk(at)
-  return found.sort()
-}
+export { everyFileUnder } from "../../testing-system/walking.module.code.ts"
 
 export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
 
