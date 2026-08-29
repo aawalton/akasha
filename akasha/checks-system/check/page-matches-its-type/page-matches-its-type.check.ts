@@ -57,6 +57,16 @@ export const pageMatchesItsType = {
         "A name format is reached through the index and loaded off the disk, so a format and the first property naming it do not land together.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A file the corpus names as a page and whose body declares no page is refused, and a body that will not load declares none.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page stating no page type is refused, and is not passed over as one nothing settles.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "A value's own sort is not judged here, only whether the page carries what it must.",

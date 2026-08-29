@@ -1,13 +1,36 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
+  DECLARES_NO_PAGE,
   declaredFor,
   type Formatting,
+  pageMatchesItsType,
   type Reading,
   reasonsIn,
+  STATES_NO_PAGE_TYPE,
   slugOf,
 } from "./page-matches-its-type.check.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const HELD_AT = "akasha/held.page-type.ts"
+
+function changing(root: string, bodies: Readonly<Record<string, string>>): Leaving {
+  const at = (path: string): Uint8Array | null => {
+    const said = bodies[path]
+    return said === undefined ? null : new TextEncoder().encode(said)
+  }
+  return { root, changed: Object.keys(bodies).sort(), at, was: at }
+}
+
+function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
+  return pageMatchesItsType(changing(scratch.rootFor("akasha-matches-"), bodies))
+}
 
 const FORMAT = "all-lower"
 
@@ -233,4 +256,36 @@ test("a format is asked for only where a property states one", () => {
     watching
   )
   expect(asked).toEqual([FORMAT])
+})
+
+test("a page stating no page type is refused, and is not passed over", () => {
+  const body = 'export const held = { id: "a", slug: "held" }\n'
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: STATES_NO_PAGE_TYPE }])
+})
+
+test("a page whose body declares no page is refused, and is not passed over", () => {
+  expect(judgedOver({ [HELD_AT]: "export const held = 1\n" })).toEqual([
+    { path: HELD_AT, reason: DECLARES_NO_PAGE },
+  ])
+})
+
+test("a page whose body will not load is refused, and the refusal carries why it would not", () => {
+  const said = judgedOver({ [HELD_AT]: "export const held = (\n" })
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(HELD_AT)
+  expect(said[0]?.reason).toContain("would not load")
+  expect(said[0]?.reason).toContain("Unexpected end of file")
+})
+
+test("a page whose page type declares nothing is passed over, as it was before", () => {
+  const body = 'export const held = { id: "a", slug: "held", pageTypeSlug: "page-type" }\n'
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([])
+})
+
+test("a file the corpus does not name as a page is passed over, whatever its body says", () => {
+  expect(judgedOver({ "akasha/held.ts": "export const held = (\n" })).toEqual([])
+})
+
+test("a path outside the akasha folder is passed over, however it is named", () => {
+  expect(judgedOver({ "shared/held.page-type.ts": "export const held = (\n" })).toEqual([])
 })

@@ -1,6 +1,7 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
+  loadedFrom,
   pageTypesIn,
   textAt,
   type Value,
@@ -297,6 +298,17 @@ export function readingIn(leaving: Leaving): Reading {
   }
 }
 
+export const DECLARES_NO_PAGE =
+  "is named as a page and its body declares no page, so what it carries could not be judged"
+
+export const STATES_NO_PAGE_TYPE =
+  "states no `page-type-slug`, and what a page carries is read from the page type it states"
+
+export function unloadable(why: string | null): string {
+  if (why === null) return DECLARES_NO_PAGE
+  return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
+}
+
 export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
   const pageTypes = pageTypesIn(indexIn(leaving.root))
   const read = readingIn(leaving)
@@ -314,10 +326,17 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     const given: Body = { root: leaving.root, path, bytes }
     const text = bodyOf(given)
     if (text === null) continue
-    const value = valueIn(text)
-    if (value === null) continue
+    const loaded = loadedFrom(text)
+    const value = loaded.value
+    if (value === null) {
+      judged.push({ path, reason: unloadable(loaded.failed) })
+      continue
+    }
     const pageTypeSlug = textAt(value, "pageTypeSlug")
-    if (pageTypeSlug === null) continue
+    if (pageTypeSlug === null) {
+      judged.push({ path, reason: STATES_NO_PAGE_TYPE })
+      continue
+    }
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
