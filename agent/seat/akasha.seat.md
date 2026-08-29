@@ -9,6 +9,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+errand: "Hi Akasha, start by reading akasha/akasha-system and then lets talk"
 registration-account: aawalton
 claude-code-session-uuid: 8a782cd5-e52c-4c41-9edb-c97685e784ca
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/8a782cd5-e52c-4c41-9edb-c97685e784ca.jsonl
