@@ -1,4 +1,4 @@
-import type { InvariantGroup } from "./invariant-group.page-type.ts"
+import type { InvariantGroup } from "../invariant-group.page-type.ts"
 
 export const intent = {
   id: "01a04e11-9f98-71e8-b821-77545c6be68e",

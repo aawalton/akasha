@@ -1,4 +1,4 @@
-import type { InvariantKind } from "./invariant-kind.page-type.ts"
+import type { InvariantKind } from "../invariant-kind.page-type.ts"
 
 export const stopgap = {
   id: "01a04e11-9f98-71ff-aa09-58376078e6f5",

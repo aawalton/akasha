@@ -1,4 +1,4 @@
-import type { DirectiveKind } from "./directive-kind.page-type.ts"
+import type { DirectiveKind } from "../directive-kind.page-type.ts"
 
 export const rule = {
   id: "01a04e1f-cbf6-77de-b4fd-908de465a115",

@@ -1,4 +1,4 @@
-import type { InvariantKind } from "./invariant-kind.page-type.ts"
+import type { InvariantKind } from "../invariant-kind.page-type.ts"
 
 export const departure = {
   id: "01a04e11-9f98-742c-ba51-d96396b9ea5f",
