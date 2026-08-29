@@ -7,23 +7,19 @@ import {
   standingByPath,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
+import type { Asked } from "../../asking.module.code.ts"
+import { BREAK_GLASS, counted, DRY_RUN, landingAsked, textOf } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing.module.code.ts"
-import type { Asked } from "../write/write.command.code.ts"
 import {
-  BREAK_GLASS,
   COMMITTING,
-  counted,
-  DRY_RUN,
   glassIn,
-  landingAsked,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
   pathInside,
-  textOf,
 } from "../write/write.command.code.ts"
 import { repointed } from "./move-repointing.module.code.ts"
 

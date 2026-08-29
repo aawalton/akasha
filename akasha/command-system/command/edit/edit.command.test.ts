@@ -10,9 +10,9 @@ import {
   REFUSES_CODE,
 } from "../../../testing-system/minting.module.code.ts"
 import { put } from "../../../testing-system/putting.module.code.ts"
+import { landingAsked } from "../../asking.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { landingAsked } from "../write/write.command.code.ts"
 import { edit, surface } from "./edit.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
