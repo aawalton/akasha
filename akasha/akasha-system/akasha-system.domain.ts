@@ -18,6 +18,7 @@ export const akashaSystem = {
     "domain/code-system",
     "domain/data-system",
     "domain/command-system",
+    "domain/hook-system",
     "domain/akasha-migration",
   ],
   design: [
