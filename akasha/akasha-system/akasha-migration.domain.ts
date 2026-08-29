@@ -8,8 +8,8 @@ export const akashaMigration = {
   partSlugs: ["domain/akasha-accretion", "domain/akasha-ablation", "domain/akasha-milestone"],
   invariants: [
     {
-      invariantKind: "constraint",
-      statement: "Akasha is one repository, and anything built for many is left behind.",
+      invariantKind: "absence",
+      statement: "Nothing is built for more than this repository.",
     },
   ],
   directives: [
