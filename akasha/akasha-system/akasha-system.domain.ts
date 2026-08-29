@@ -12,6 +12,7 @@ export const akashaSystem = {
     "domain/akasha-file",
     "domain/pages-system",
     "domain/domain-system",
+    "domain/graph-system",
     "domain/akasha-type",
     "domain/akasha-check",
     "domain/checks-system",
