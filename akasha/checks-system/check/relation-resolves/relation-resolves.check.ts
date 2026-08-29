@@ -48,8 +48,19 @@ export const relationResolves = {
         "A name nested one record deep is resolved, and the refusal names the record and the field.",
     },
     {
-      invariantKind: "gap",
-      statement: "A bare name reaches a page of a page type the same change adds.",
+      invariantKind: "departure",
+      statement:
+        "A name reaches a page of a page type the change itself adds, because the index is read as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A relation property the change introduces is judged, because which keys are relations is read as the change leaves it too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which pages named a page being taken away is read from the index as it stands, because an edge the change withdraws is the very thing being looked for.",
     },
   ],
 } as const satisfies Check

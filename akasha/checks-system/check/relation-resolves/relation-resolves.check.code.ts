@@ -4,7 +4,6 @@ import {
   schemaAt,
   textAt,
   type Value,
-  valueAt,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
@@ -14,6 +13,10 @@ import {
   standingById,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  type Shadow,
+  shadowFor,
+} from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import {
   type Known,
   knownIn,
@@ -94,9 +97,9 @@ export function knownAcross(leaving: Leaving, carried: readonly Carried[]): Shap
   }
 }
 
-export function relationProperties(root: string, known: Known): readonly string[] {
+export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
   const found: string[] = []
-  for (const slug of schemaAt(indexIn(root)).keys()) {
+  for (const slug of schemaAt(shadow.reading).keys()) {
     if (known.targetOf(slug) !== null) found.push(slug)
   }
   return found.sort()
@@ -130,14 +133,14 @@ export function pageTypeOf(path: string): string | null {
   return namedIn(path)?.tail ?? null
 }
 
-export function mortalityIn(root: string, known: Known): Mortality {
+export function mortalityIn(shadow: Shadow, known: Known): Mortality {
   const byType = new Map<string, boolean>()
   const byPage = new Map<string, string | null>()
   const stated = (pageTypeSlug: string): boolean => {
     const held = byType.get(pageTypeSlug)
     if (held !== undefined) return held
-    const one = standingAt(root, PAGE_TYPE, pageTypeSlug)[0]
-    const value = one === undefined ? null : valueAt(one.path, root)
+    const one = standingAt(shadow.reading, PAGE_TYPE, pageTypeSlug)[0]
+    const value = one === undefined ? null : shadow.pageOf(one.path)
     const said = value !== null && value["mortal"] === true
     byType.set(pageTypeSlug, said)
     return said
@@ -214,17 +217,19 @@ export function danglingIn(
 }
 
 export function relationResolves(leaving: Leaving): readonly Judged[] {
-  const pageTypes = pageTypesIn(indexIn(leaving.root))
-  const carried = carriedBy(leaving, pageTypes)
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const shadow = cast.shadow
+  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
   const took = leaving.changed.some((one) => leaving.at(one) === null)
   if (carried.length === 0 && !took) return []
-  const known = knownAcross(leaving, carried)
-  const mortal = mortalityIn(leaving.root, known)
+  const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
+  const mortal = mortalityIn(shadow, known)
   const said: Judged[] = []
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
-  for (const path of namersOf(leaving, relationProperties(leaving.root, known))) {
+  for (const path of namersOf(leaving, relationProperties(shadow, known))) {
     if (carrying.has(path)) continue
     const value = valueFor(leaving, path)
     if (value !== null) said.push(...danglingIn(path, value, known, mortal))

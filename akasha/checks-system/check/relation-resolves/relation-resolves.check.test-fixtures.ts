@@ -1,4 +1,4 @@
-import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
@@ -39,12 +39,18 @@ export const TYPES: readonly (readonly [string, string | null, boolean])[] = [
 ]
 
 export const SCHEMA: Record<string, Record<string, string | null>> = {
-  "page-type-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "page-type" },
-  "domain-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  "spark-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "spark" },
-  "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  marks: { pageTypeSlug: "record-property", targetPageTypeSlug: null },
+  id: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "always" },
+  slug: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page-type" },
+  "page-type-slug": {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "page-type",
+    unique: null,
+  },
+  "domain-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain", unique: null },
+  "spark-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "spark", unique: null },
+  "part-slugs": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain", unique: null },
+  definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: null },
+  marks: { pageTypeSlug: "record-property", targetPageTypeSlug: null, unique: null },
 }
 
 export const M = "akasha/t/marks.record-property.ts"
@@ -79,8 +85,10 @@ export function standing(
   path: string,
   id: string,
   pageTypeSlug: string,
-  slug: string
+  slug: string,
+  body: string = stating(id, slug, pageTypeSlug)
 ): void {
+  if (!existsSync(join(root, path))) put(root, path, body)
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
   filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
@@ -110,18 +118,26 @@ export function rooted(carrying: boolean = true): string {
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
     const said = extendsSlug === null ? "null" : `"${extendsSlug}"`
     const dies = mortal ? ", mortal: true" : ""
-    put(root, path, stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`))
-    standing(root, path, id, "page-type", slug)
+    standing(
+      root,
+      path,
+      id,
+      "page-type",
+      slug,
+      stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`)
+    )
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     filed(root, join("schema", "page-property", "slug", `${slug}.jsonl`), JSON.stringify(shape))
   }
-  put(
+  standing(
     root,
     M,
+    M_ID,
+    "record-property",
+    "marks",
     stating(M_ID, "marks", "record-property", ', properties: [{ pagePropertySlug: "domain-slug" }]')
   )
-  standing(root, M, M_ID, "record-property", "marks")
   if (carrying) standing(root, D, D_ID, "domain", "d")
   return root
 }
@@ -137,12 +153,11 @@ export function over(
     if (said === undefined || said === null) return null
     return encoder.encode(said)
   }
-  return {
-    root,
-    changed,
-    at,
-    was: at,
+  const was = (path: string): Uint8Array | null => {
+    const full = join(root, path)
+    return existsSync(full) ? new Uint8Array(readFileSync(full)) : null
   }
+  return { root, changed, at, was }
 }
 
 export function note(stated: string): Record<string, string | null> {
