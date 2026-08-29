@@ -94,14 +94,16 @@ export const check = {
     {
       directiveKind: "rule",
       name: "Zero At Turning On",
-      act: "Fix every violation a check finds before any phase of it runs, never freezing the ones left into a list.",
+      act: "Fix every violation a check finds before it judges the whole tree, never freezing the ones left into a list.",
       warrant:
-        "A check that judges while the defects it found still stand reads green and blocks nobody.",
+        "A check judging the whole tree while the defects it found still stand reads green and blocks nobody, and turning it on before they are fixed stops every writer at once.",
       aids: [
+        "Patch judges only the paths a change carries, so it is turned on before zero: it holds the count from rising while the rest are fixed.",
+        "Patch on means a file still carrying a violation is refused the next time it is touched, which is the ratchet working rather than the check misfiring.",
         "A check may land with every phase off, which claims nothing and hides nothing.",
         "Landing it off puts the rule up for argument before it binds anyone.",
         "Never narrow a judging check's reach to make the count zero.",
-        "Where zero is out of reach, leave every phase off until it is not.",
+        "Where zero is out of reach, leave the whole-tree phases off until it is not.",
       ],
     },
   ],
