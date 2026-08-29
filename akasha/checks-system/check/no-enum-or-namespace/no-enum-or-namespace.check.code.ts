@@ -27,10 +27,6 @@ function foundIn(at: string, text: string): readonly string[] {
   return found
 }
 
-function found(path: string, text: string): readonly string[] {
-  return foundIn(path, text)
-}
-
-export const reasonsIn = overEachText(found)
+export const reasonsIn = overEachText(foundIn)
 
 export const noEnumOrNamespace = judgingEachFile(reasonsIn)
