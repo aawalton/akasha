@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const commentFormsAreCopiedNotRead = {
   id: "01a04bc4-7e87-7182-a031-ca4cb17a70b8",

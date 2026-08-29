@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const fourChecksAwaitARuling = {
   id: "01a04bd1-923f-77b5-bc3b-4553abcbb38e",

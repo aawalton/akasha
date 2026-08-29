@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const deploySelectsNothing = {
   id: "01a04bc4-7e86-75eb-97a4-bd99818492df",

@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const theIndexAnswersNoPropertySchema = {
   id: "01a04bd1-923e-76f1-b810-78d81a549fde",

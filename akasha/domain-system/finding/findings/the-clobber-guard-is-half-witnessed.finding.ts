@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const theClobberGuardIsHalfWitnessed = {
   id: "01a04bf5-74d0-7137-9af8-1af12a86de31",

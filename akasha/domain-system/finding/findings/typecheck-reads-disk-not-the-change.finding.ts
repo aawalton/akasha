@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const typecheckReadsDiskNotTheChange = {
   id: "01a04bc4-7e87-764d-a726-04f7405a3e56",

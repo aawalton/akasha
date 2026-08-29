@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const moveRepointsOutboundOnly = {
   id: "01a04bf5-74d0-72b2-8e6e-b7535bc125c5",

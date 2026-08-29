@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const nineFlagsAwaitAuthorization = {
   id: "01a04bf5-74d0-73c6-b3f7-efebd2649ba8",

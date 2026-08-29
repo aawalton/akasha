@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const relationResolvesIsOneReadAway = {
   id: "01a04bd1-923f-7844-bc44-647752ba5b30",

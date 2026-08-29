@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const theChecksRanFlagIsNotCarriedOver = {
   id: "01a04bdd-596d-768e-95f2-a664804b8b37",

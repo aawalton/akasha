@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const needsTreeIsGone = {
   id: "01a04bc4-7e86-7bab-a8de-524dd359047a",

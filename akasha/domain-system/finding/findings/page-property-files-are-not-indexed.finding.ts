@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const pagePropertyFilesAreNotIndexed = {
   id: "01a04bd1-923f-7633-9316-2f6a77f3e8ce",

@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const thePatchIsAMapNotADiff = {
   id: "01a04bdd-596d-77fd-936a-65eb5a597f88",

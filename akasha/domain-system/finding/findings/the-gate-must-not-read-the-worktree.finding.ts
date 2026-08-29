@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const theGateMustNotReadTheWorktree = {
   id: "01a04bdd-596d-70de-9a5d-dc54eb56b2c9",

@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const aCheckIsNeverHandedADeletion = {
   id: "01a04bd1-923f-7a62-b4a1-cbe2b98d7c2c",

@@ -1,4 +1,4 @@
-import type { Finding } from "../domain-system/finding/finding.page-type.ts"
+import type { Finding } from "../finding.page-type.ts"
 
 export const auditDerivesPropertyFilesByName = {
   id: "01a04bc4-7e87-7fcd-ae2b-4eff54d0b660",
