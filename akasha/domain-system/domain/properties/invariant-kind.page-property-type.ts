@@ -25,6 +25,11 @@ export const invariantKind = {
     {
       invariantKind: "departure",
       statement:
+        "An absence earns its place only where what is left out is near enough to what is kept to be reached for by mistake.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A constraint is a limit from outside the domain; knowing it stops a reader asking for the impossible.",
     },
     {

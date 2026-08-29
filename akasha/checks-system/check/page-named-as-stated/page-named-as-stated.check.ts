@@ -21,7 +21,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "absence",
-      statement: "A file holding no page value is a property's file, and is not judged here.",
+      statement: "A file holding no page value is not judged.",
     },
     {
       invariantKind: "departure",

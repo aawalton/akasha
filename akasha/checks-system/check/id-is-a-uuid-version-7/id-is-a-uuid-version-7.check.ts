@@ -15,9 +15,8 @@ export const idIsAUuidVersion7 = {
       statement: "The id judged is the one the page states.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A file stating no page is a file stating no id, and passes for having nothing to judge.",
+      invariantKind: "absence",
+      statement: "A file stating no page is not judged.",
     },
     {
       invariantKind: "departure",

@@ -11,12 +11,11 @@ export const noEnumOrNamespace = {
   design: [
     {
       invariantKind: "absence",
-      statement:
-        "A module named by a string is a declaration about a package rather than a namespace, and is not judged.",
+      statement: "A declaration about a package is left out.",
     },
     {
       invariantKind: "absence",
-      statement: "`declare global` is left alone, because it names no namespace of its own.",
+      statement: "`declare global` is left alone.",
     },
     {
       invariantKind: "departure",

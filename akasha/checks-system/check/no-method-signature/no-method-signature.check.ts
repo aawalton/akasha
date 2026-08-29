@@ -12,12 +12,7 @@ export const noMethodSignature = {
     {
       invariantKind: "absence",
       statement:
-        "A call, construct or index signature is not a method signature, and is not judged.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "A method written on a class or an object literal is not a signature, and is not judged.",
+        "A call, construct or index signature is left out, and so is a method written out rather than declared.",
     },
     {
       invariantKind: "departure",
