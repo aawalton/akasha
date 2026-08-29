@@ -8,5 +8,5 @@ export const name = {
   slug: "name",
   definition: "what a directive is called",
   max: 30,
-  nameFormatSlug: null,
+  nameFormatSlug: "name-format/start-case",
 } as const satisfies TextProperty
