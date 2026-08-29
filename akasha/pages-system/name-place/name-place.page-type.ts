@@ -11,6 +11,13 @@ export const namePlace = {
   pageTypeSlug: "page-type",
   slug: "name-place",
   definition: "a place a name appears, and the format it is written in there",
+  partSlugs: [
+    "name-place/component-identifier",
+    "name-place/constant-identifier",
+    "name-place/derived-identifier",
+    "name-place/function-identifier",
+    "name-place/type-identifier",
+  ],
   extendsSlug: "page-type/domain",
   properties: [{ pagePropertySlug: "name-format-slug", required: true, many: false }],
   invariants: [
