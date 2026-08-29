@@ -36,7 +36,19 @@ const MECHANICAL = "--mechanical"
 
 const DRY_RUN = "--dry-run"
 
-const VALUE_FLAGS = [REPO, INPUT_FILE, FILE_PATH, CONTENT_FILE, MESSAGE, MESSAGE_FILE, REMOVE, PATCH_FILE]
+const BREAK_GLASS = "--break-the-glass"
+
+const VALUE_FLAGS = [
+  REPO,
+  INPUT_FILE,
+  FILE_PATH,
+  CONTENT_FILE,
+  MESSAGE,
+  MESSAGE_FILE,
+  REMOVE,
+  PATCH_FILE,
+  BREAK_GLASS,
+]
 
 const BARE_FLAGS = [DRY_RUN, MECHANICAL, "--help", "-h"]
 
@@ -143,6 +155,14 @@ export const help = {
     { name: DRY_RUN, description: "Gate and report; write and commit nothing." },
     { name: MECHANICAL, description: "This body was decided by a program, not authored. The gates about what its writer read stand aside." },
     {
+      name: BREAK_GLASS,
+      argLabel: "<reason>",
+      valueShape: "prose" as const,
+      description:
+        "Land without running the checks, recording this reason in the commit. For a change that " +
+        "must land while the checks themselves are broken.",
+    },
+    {
       name: PATCH_FILE,
       argLabel: "<path>",
       valueShape: "token" as const,
@@ -202,6 +222,14 @@ export default async function write(argv: readonly string[]): Promise<void> {
   const mechanical = argv.includes(MECHANICAL)
   const everyPath = [...pairs.map((one) => one.filePath), ...carried.map((one) => one.filePath), ...named]
   const at = addressOf(argv, everyPath)
+
+  const glass = valueOf(argv, BREAK_GLASS)
+  if (glass !== null && glass.trim() === "") {
+    fail(`${BREAK_GLASS} takes the reason the checks are being bypassed, and this one is empty`)
+  }
+  if (glass !== null && (at === null || at.repo !== AKASHA)) {
+    fail(`${BREAK_GLASS} bypasses the checks akasha defines, and nothing outside akasha is checked`)
+  }
 
   if (at === null) {
     if (valueOf(argv, PATCH_FILE) !== null) {
@@ -276,7 +304,7 @@ export default async function write(argv: readonly string[]): Promise<void> {
   }
 
   try {
-    land(at, entries, message, dryRun, removals, [], mechanical)
+    land(at, entries, message, dryRun, removals, [], mechanical, [], new Map(), glass)
   } catch (thrown) {
     if (thrown instanceof LandingRefused) {
       process.stderr.write(`error: ${thrown.message}\n`)
