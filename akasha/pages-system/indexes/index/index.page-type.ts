@@ -1,8 +1,10 @@
-import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
+import type { Test } from "../../../code-system/module/properties/test.file-property.ts"
 import type { PageType } from "../../page-type/page-type.page-type.ts"
 import type { IndexName } from "./properties/index-name.text-property.ts"
 
-export type Index = Domain & {
+export type Index = Module & {
+  test: Test
   indexName: IndexName
 }
 
@@ -12,8 +14,11 @@ export const index = {
   slug: "index",
   definition: "one question the corpus can be asked, answered by reading one file",
   partSlugs: ["text-property/index-name"],
-  extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "index-name", required: true, many: false }],
+  extendsSlug: "page-type/module",
+  properties: [
+    { pagePropertySlug: "index-name", required: true, many: false },
+    { pagePropertySlug: "test", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -27,7 +32,12 @@ export const index = {
     {
       invariantKind: "departure",
       statement:
-        "An index page says what is filed and how it is found, and the modules say how it is written.",
+        "An index page says what is filed, and the code beside it files that and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index states its test, because an index filing the wrong entry is wrong quietly.",
     },
   ],
 } as const satisfies PageType

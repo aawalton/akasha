@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  A,
   B,
   C,
   D,
@@ -8,7 +7,7 @@ import {
   scratch,
   standing,
 } from "../index-entries/index-entries.module.test-fixtures.ts"
-import { knownIn, reaches, relationIn } from "./reaching.module.code.ts"
+import { knownIn, reaches } from "./reaching.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -53,68 +52,10 @@ test("a name carrying a page type the target does not admit is refused, never re
   expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
 
-test("a property naming a page is filed under that page's id against the property's kebab slug", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
-
-  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
-    entries: [
-      { at: `relation/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
-    ],
-    refused: [],
-  })
-})
-
-test("a property naming no page is reported and files no edge", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["nowhere"] }
-  const filed = relationIn(value, "/repo/a.domain.ts", standing({}), "/repo")
-
-  expect(filed.entries).toEqual([])
-  expect(filed.refused[0] ?? "").toMatch(/carries the slug `nowhere`/)
-})
-
 test("a record property answers the fields it declares, and another property answers none", () => {
   const { root, repo } = grounded()
   const known = knownIn(root, repo)
 
   expect(known.fieldsOf("parts")).toEqual(["part-slugs"])
   expect(known.fieldsOf("part-slugs")).toEqual([])
-})
-
-test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
-  const value = {
-    id: A,
-    pageTypeSlug: "domain",
-    slug: "a",
-    parts: [{ partSlugs: ["domain/b"] }, { partSlugs: ["domain/b"] }],
-  }
-
-  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
-    entries: [
-      { at: `relation/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
-    ],
-    refused: [],
-  })
-})
-
-test("a field the record does not declare, and a record nested deeper, file no edge", () => {
-  const value = {
-    id: A,
-    pageTypeSlug: "domain",
-    slug: "a",
-    parts: [{ heldSlugs: ["domain/b"], inner: { partSlugs: ["domain/b"] } }],
-    holds: [{ partSlugs: ["domain/b"] }],
-  }
-
-  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
-    entries: [],
-    refused: [],
-  })
-})
-
-test("a record entry naming no page is reported against the record and the field it states", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", parts: [{ partSlugs: ["nowhere"] }] }
-  const filed = relationIn(value, "/repo/a.domain.ts", standing({}), "/repo")
-
-  expect(filed.entries).toEqual([])
-  expect(filed.refused[0] ?? "").toMatch(/`parts part-slugs`/)
 })

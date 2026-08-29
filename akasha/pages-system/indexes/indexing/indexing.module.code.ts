@@ -10,22 +10,23 @@ import {
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { identityIn } from "../index/index-identity/index-identity.index.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
+import { importIn } from "../index/index-import/index-import.index.code.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
+import { pathIn } from "../index/index-path/index-path.index.code.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
+import { NOTHING_FILED, relationIn } from "../index/index-relation/index-relation.index.code.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
+import { schemaIn } from "../index/index-schema/index-schema.index.code.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry, Value } from "../index-entries/index-entries.module.code.ts"
 import {
   filePropertiesAt,
   filePropertiesIn,
-  identityIn,
-  importIn,
   loadedFrom,
   pageTypesIn,
-  pathIn,
   schemaAt,
-  schemaIn,
   slugAt,
   textAt,
   valueAt,
@@ -38,7 +39,7 @@ import {
   readingAt,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
-import { knownIn, NOTHING_FILED, relationIn } from "../reaching/reaching.module.code.ts"
+import { knownIn } from "../reaching/reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
 

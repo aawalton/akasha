@@ -6,6 +6,8 @@ export const indexIdentity = {
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
   indexName: "identity",
+  code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

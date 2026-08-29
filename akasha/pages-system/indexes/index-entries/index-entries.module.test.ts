@@ -2,20 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import {
   filePropertiesAt,
   filePropertiesIn,
-  identityIn,
-  importIn,
   loadedFrom,
-  pathIn,
   pathsOf,
-  schemaIn,
   valueIn,
 } from "./index-entries.module.code.ts"
-import { A, grounded, SCHEMA, scratch } from "./index-entries.module.test-fixtures.ts"
-
-const UNIQUE = new Map([
-  ["id", "always"],
-  ["slug", "page-type"],
-])
+import { A, grounded, scratch } from "./index-entries.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -30,52 +21,6 @@ test("a body that will not load is answered with why rather than by throwing", (
   const loaded = loadedFrom("the new body")
   expect(loaded.value).toBe(null)
   expect(typeof loaded.failed).toBe("string")
-})
-
-test("a value carrying its two identifiers is filed under its id and under its page type and slug", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
-  const line = `{"path":"a.domain.ts","id":"${A}"}`
-
-  expect(identityIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
-    { at: `identity/page/id/${A}.jsonl`, line },
-    { at: "identity/domain/slug/a.jsonl", line },
-  ])
-})
-
-test("a page holding files is filed under no path here, a path being no identifier", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
-  const line = `{"path":"deep/a.module.ts","id":"${A}"}`
-
-  expect(identityIn(value, "/repo/deep/a.module.ts", "/repo", UNIQUE)).toEqual([
-    { at: `identity/page/id/${A}.jsonl`, line },
-    { at: "identity/module/slug/a.jsonl", line },
-  ])
-})
-
-test("a path is filed under the path alone, with no scope or property above it", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
-  const line = `{"path":"a.domain.ts","id":"${A}"}`
-
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Set())).toEqual([
-    { at: "path/a.domain.ts.jsonl", line },
-  ])
-})
-
-test("a file a page property holds is filed under its own path, naming the page stating it", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
-  const line = `{"path":"deep/a.module.ts","id":"${A}"}`
-
-  expect(pathIn(value, "/repo/deep/a.module.ts", "/repo", new Set(["code", "test"]))).toEqual([
-    { at: "path/deep/a.module.ts.jsonl", line },
-    { at: "path/deep/a.module.code.ts.jsonl", line },
-    { at: "path/deep/a.module.test.ts.jsonl", line },
-  ])
-})
-
-test("a value carrying no slug is filed under no path, as it is filed under no identifier", () => {
-  const value = { id: A, pageTypeSlug: "domain" }
-
-  expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Set())).toEqual([])
 })
 
 test("a property no page property declares to be a file is filed under no path", () => {
@@ -103,49 +48,6 @@ test("a property whose name is written in camel is filed under its kebab slug", 
   ])
 })
 
-test("a property is filed under its slug with the shape it is, and a target it does not name is held as null", () => {
-  const value = {
-    id: A,
-    pageTypeSlug: "file-property",
-    slug: "code",
-  }
-
-  expect(schemaIn(value)).toEqual([
-    { at: "schema/page-property/slug/code.jsonl", line: SCHEMA.code },
-  ])
-})
-
-test("a target naming its page type is filed as the slug alone", () => {
-  const value = {
-    pageTypeSlug: "relation-property",
-    slug: "domain-slug",
-    targetPageTypeSlug: "page-type/domain",
-  }
-
-  expect(schemaIn(value)).toEqual([
-    { at: "schema/page-property/slug/domain-slug.jsonl", line: SCHEMA.domainSlug },
-  ])
-})
-
-test("a property naming many pages is filed under its slug with the target it names itself", () => {
-  const value = {
-    id: A,
-    pageTypeSlug: "relation-property",
-    slug: "part-slugs",
-    targetPageTypeSlug: "page-type/domain",
-  }
-
-  expect(schemaIn(value)).toEqual([
-    { at: "schema/page-property/slug/part-slugs.jsonl", line: SCHEMA.partSlugs },
-  ])
-})
-
-test("a page that is no property shape, and a property stating no slug, are filed with no schema", () => {
-  expect(schemaIn({ id: A, pageTypeSlug: "domain", slug: "a" })).toEqual([])
-  expect(schemaIn({ id: A, pageTypeSlug: "page-property", slug: "a" })).toEqual([])
-  expect(schemaIn({ id: A, pageTypeSlug: "text-property" })).toEqual([])
-})
-
 test("the properties held in a file are read from the schema the index carries", () => {
   const { root } = grounded()
 
@@ -159,48 +61,4 @@ test("a body that will not load answers with no value rather than throwing", () 
     )
   ).toBe(null)
   expect(valueIn("the new body")).toBe(null)
-})
-
-test("a relative specifier is filed under the path it reaches, against the path importing it", () => {
-  const body = 'import { one } from "../one.module.code.ts"\nexport * from "./two.module.code.ts"\n'
-
-  expect(importIn(body, "/repo/akasha/deep/a.module.code.ts", "/repo")).toEqual([
-    {
-      at: "import/path/akasha/one.module.code.ts.jsonl",
-      line: '{"path":"akasha/deep/a.module.code.ts"}',
-    },
-    {
-      at: "import/path/akasha/deep/two.module.code.ts.jsonl",
-      line: '{"path":"akasha/deep/a.module.code.ts"}',
-    },
-  ])
-})
-
-test("a type-only import files the same edge as any other import", () => {
-  const filed = importIn(
-    'import type { One } from "./one.module.ts"\n',
-    "akasha/a.module.code.ts",
-    "/repo"
-  )
-
-  expect(filed.map((one) => one.at)).toEqual(["import/path/akasha/one.module.ts.jsonl"])
-})
-
-test("a package specifier files no edge, and a file it names that does not stand files one", () => {
-  const body =
-    'import ts from "typescript"\nimport { x } from "node:fs"\nimport { y } from "./gone.ts"\n'
-
-  expect(importIn(body, "akasha/a.module.code.ts", "/repo").map((one) => one.at)).toEqual([
-    "import/path/akasha/gone.ts.jsonl",
-  ])
-})
-
-test("a specifier reaching above the repository root files no edge", () => {
-  expect(
-    importIn('import { x } from "../../../away.ts"\n', "akasha/a.module.code.ts", "/repo")
-  ).toEqual([])
-})
-
-test("a file that is not TypeScript files no edge whatever its body says", () => {
-  expect(importIn('import { x } from "./one.ts"\n', "akasha/a.module.md", "/repo")).toEqual([])
 })

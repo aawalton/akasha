@@ -6,6 +6,8 @@ export const indexPath = {
   slug: "index-path",
   definition: "an index from a path to the page whose file it is",
   indexName: "path",
+  code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

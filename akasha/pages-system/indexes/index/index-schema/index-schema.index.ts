@@ -6,6 +6,8 @@ export const indexSchema = {
   slug: "index-schema",
   definition: "an index from a property to the shape of the value it holds",
   indexName: "schema",
+  code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
