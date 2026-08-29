@@ -1,7 +1,8 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { stampKept } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { declaring } from "../../../testing-system/declaring/declaring.module.code.ts"
+import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
+import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
@@ -51,6 +52,8 @@ export const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
 
 export const READER = "akasha/elsewhere/reader.module.ts"
 
+export const VOCABULARY: readonly string[] = Object.keys(declaringUnder("akasha"))
+
 export const scratch = scratchWorld()
 
 export const git = gitIn
@@ -60,7 +63,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
+  for (const [path, body] of Object.entries({ ...declaringUnder("akasha"), ...named })) {
     const at = join(root, path)
     mkdirSync(join(at, ".."), { recursive: true })
     writeFileSync(at, body)
@@ -69,7 +72,12 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
   admitting(root)
-  declaring(root)
+  return root
+}
+
+export function rebuilt(root: string): string {
+  rebuiltFrom(join(root, "akasha"), join(root, ".git/data/index"), root)
+  admitting(root)
   return root
 }
 

@@ -3,11 +3,11 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import { bytesOf as bytes } from "../testing-system/bodying/bodying.module.code.ts"
-import { declaring } from "../testing-system/declaring/declaring.module.code.ts"
 import { gitIn as git } from "../testing-system/gitting/gitting.module.code.ts"
 import { until } from "../testing-system/waiting/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
+import { CARRIED } from "./landing.module.test-fixtures.ts"
 import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname
@@ -102,7 +102,7 @@ test("callers asking at once take the hold one at a time, and none overlaps anot
 
 test("landings at once each land, and none takes another back", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   const was = baseOf(root)
   const go = join(root, "go")
   const ready = (one: string): string => join(root, `ready-${one}`)
@@ -112,8 +112,9 @@ test("landings at once each land, and none takes another back", async () => {
   expect(await until(() => AT_ONCE.every((one) => existsSync(ready(one))))).toBe(true)
   writeFileSync(go, "go")
   expect(await Promise.all(kids.map((one) => one.exited))).toEqual(AT_ONCE.map(() => 0))
+  const carried = CARRIED.map((one) => one.path)
   expect(git(root, ["ls-tree", "--name-only", "-r", "HEAD", "akasha/"]).trim().split("\n")).toEqual(
-    AT_ONCE.map((one) => `akasha/${one}.domain.ts`)
+    [...AT_ONCE.map((one) => `akasha/${one}.domain.ts`), ...carried].sort()
   )
   expect(git(root, ["rev-list", "--count", `${was}..HEAD`]).trim()).toBe(String(AT_ONCE.length))
   for (const one of AT_ONCE) {

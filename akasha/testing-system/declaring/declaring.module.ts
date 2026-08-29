@@ -16,12 +16,7 @@ export const declaring = {
     {
       invariantKind: "departure",
       statement:
-        "A world is served either by carrying the pages into its tree or by filing what they declare, because a rebuild reads the tree and a settle reads the index.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement:
-        "What is filed is worked out by the indexer's own code, so this proves nothing about the shape it files under.",
+        "A world is served by carrying the pages into its tree, because every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
     },
   ],
 } as const satisfies Module

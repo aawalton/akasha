@@ -24,11 +24,13 @@ import {
   PAIR,
   READER,
   RENAME,
+  rebuilt,
   repoWith,
   SPELLS,
   scratch,
   TARGET,
   THREE,
+  VOCABULARY,
 } from "./move.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -43,12 +45,12 @@ function renamed(root: string): string {
 }
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(stands(root, HELD)).toBe(false)
-  expect(git(root, ["ls-files"]).trim()).toBe(THREE)
+  expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
   expect(readFileSync(join(root, THREE), "utf8")).toBe(PAGE)
   expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
   expect(said.report.join("\n")).not.toContain("wrote ")
@@ -57,11 +59,13 @@ test("a file is carried to its new path, the old path goes, and the page's id is
 })
 
 test("a page's sidecars go with it without being named", () => {
-  const root = repoWith({
-    [HELD]: PAGE,
-    [HOLDER]: CODE,
-    "akasha/one/held.module.test.ts": OTHER,
-  })
+  const root = rebuilt(
+    repoWith({
+      [HELD]: PAGE,
+      [HOLDER]: CODE,
+      "akasha/one/held.module.test.ts": OTHER,
+    })
+  )
   const said = move(["--from", HELD, "--to", DEEP], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(stands(root, DEEPER)).toBe(true)
@@ -218,7 +222,7 @@ test("a dry run over a move the checks refuse reports it and carries nothing", (
 })
 
 test("breaking the glass carries a move the checks refuse, and only breaking it does", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
   refusing(root)
   const was = head(root)
   const gated = move([...PAIR, "--message", "held moves"], givenIn(root))
@@ -258,7 +262,7 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
   const at = join(root, "message.txt")
   writeFileSync(at, "carried by a file\n")
   const both = move([...PAIR, "--message", "carried", "--message-file", at], givenIn(root))
@@ -276,7 +280,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
 })
 
 test("a path is read against the repository root, wherever the call was made", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
   const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
   expect(said.refusals).toEqual([])
   expect(stands(root, THREE)).toBe(true)

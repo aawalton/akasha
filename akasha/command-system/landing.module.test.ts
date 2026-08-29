@@ -4,7 +4,6 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import { rebuiltFrom } from "../pages-system/indexes/indexing/indexing.module.code.ts"
-import { declaring } from "../testing-system/declaring/declaring.module.code.ts"
 import { until } from "../testing-system/waiting/waiting.module.code.ts"
 import { everyFileUnder } from "../testing-system/walking/walking.module.code.ts"
 import {
@@ -163,7 +162,7 @@ setInterval(() => {}, 1000)`,
 
 test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
   const root = repoWith({ "seed.txt": "held" })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
   const held = indexIn(root)
@@ -177,7 +176,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
 
 test("a landing that takes a page away takes its index entries with it", () => {
   const root = repoWith({ "seed.txt": "held" })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const held = indexIn(root)
   expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(true)
@@ -188,14 +187,14 @@ test("a landing that takes a page away takes its index entries with it", () => {
 
 test("a landing no check judged keeps the index all the same", () => {
   const root = repoWith({ "seed.txt": "held" })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
   expect(existsSync(join(indexIn(root), `identity/page/id/${ID}.jsonl`))).toBe(true)
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
   const root = repoWith({ "seed.txt": "held" })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const was = everyFileUnder(indexIn(root))
   const said = landing(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }], "held", REFUSES)
@@ -356,7 +355,7 @@ test("a change read against a commit that moved nothing it carries is landed", (
 
 test("a change read against the commit that stands is landed", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  declaring(root)
+  landing(root, CARRIED, "held", ADMITS)
   const said = landing(
     root,
     [
