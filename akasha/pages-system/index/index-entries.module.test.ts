@@ -223,8 +223,18 @@ test("a name carrying no page type and narrowing to two pages is refused rather 
   expect("refused" in reached && reached.refused).toMatch(/narrows to 2 pages/)
 })
 
-test("a name carrying its page type reaches that page whatever its property declares", () => {
+test("a name carrying its page type reaches that page when the property declares no target", () => {
   expect(reaches("domain/b", null, standing({ "domain/b": B }))).toEqual({ id: B })
+})
+
+test("a name carrying a page type standing under the target reaches that page", () => {
+  expect(reaches("module/c", "domain", standing({ "module/c": C }))).toEqual({ id: C })
+})
+
+test("a name carrying a page type the target does not admit is refused, never resolved", () => {
+  const reached = reaches("page-property/b", "domain", standing({ "page-property/b": B }))
+
+  expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
 
 test("a property naming a page is filed under that page's id against the property's kebab slug", () => {

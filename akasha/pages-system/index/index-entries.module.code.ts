@@ -333,6 +333,13 @@ export function reaches(named: string, wanted: string | null, known: Known): Rea
   }
   if (address.kind === "qualified") {
     const { pageTypeSlug, slug } = address
+    if (wanted !== null && !known.admitting(wanted).includes(pageTypeSlug)) {
+      return {
+        refused:
+          `\`${named}\` names a \`${pageTypeSlug}\`, and this property admits only ` +
+          `\`${wanted}\` and what stands under it`,
+      }
+    }
     const found = known.at(pageTypeSlug, slug)
     const one = only(found)
     if (one !== null) return { id: one.id }
