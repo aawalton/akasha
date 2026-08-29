@@ -2,7 +2,7 @@
 page-type-slug: persona
 id: 019f1365-9b2b-78fb-a936-f3ed624ffb7b
 title: Ruby
-total-points: 10612.5008
+total-points: 10672.5008
 cover: "/api/image/019f324d-6dc4-78cd-b139-4cc50c0fa99a"
 slug: ruby
 domain-parent-slug: readout-group/personas
