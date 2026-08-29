@@ -47,7 +47,12 @@ export const page = {
       statement: "A page is deleted once its purpose is done.",
     },
   ],
-  condition: ["Loading a page's file declares its value and does nothing else."],
+  condition: [
+    {
+      invariantKind: "stopgap",
+      statement: "Loading a page's file declares its value and does nothing else.",
+    },
+  ],
   intent: [
     {
       invariantKind: "gap",

@@ -41,7 +41,12 @@ export const index = {
       statement: "A path in the index is relative to the repository root.",
     },
   ],
-  condition: ["The index holds every page."],
+  condition: [
+    {
+      invariantKind: "stopgap",
+      statement: "The index holds every page.",
+    },
+  ],
   intent: [
     {
       invariantKind: "gap",

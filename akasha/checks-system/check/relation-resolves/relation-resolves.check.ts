@@ -38,10 +38,11 @@ export const relationResolves = {
       statement:
         "A non-mortal page naming a mortal page is refused, judged on the page type the name reaches, or on the property's declared target when it reaches none.",
     },
+  ],
+  intent: [
     {
       invariantKind: "gap",
-      statement:
-        "The page types a bare name is looked for under are the ones already landed, so a bare name reaching a page of a page type the same change adds is refused.",
+      statement: "A bare name reaches a page of a page type the same change adds.",
     },
   ],
 } as const satisfies Check

@@ -39,7 +39,16 @@ export const indexIdentity = {
       statement: "A file holds one line for each page carrying the value.",
     },
   ],
-  condition: ["No two pages carry one id.", "No two pages of one page type carry one slug."],
+  condition: [
+    {
+      invariantKind: "stopgap",
+      statement: "No two pages carry one id.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "No two pages of one page type carry one slug.",
+    },
+  ],
   intent: [
     {
       invariantKind: "gap",
