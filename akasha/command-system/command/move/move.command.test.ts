@@ -4,6 +4,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
+import { admitting, refusing } from "../../minting.module.code.ts"
 import { besideOf, move, pairsIn, PATHS_AT, repointed, underAkasha } from "./move.command.code.ts"
 
 function git(root: string, argv: readonly string[]): string {
@@ -66,47 +67,6 @@ export const held = { ts, other }
 `
 
 const OTHER = `export const other = 1\n`
-
-const REFUSES = `export function refuses(leaving) {
-  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
-}
-`
-
-const ADMITS = `export function admits() {
-  return []
-}
-`
-
-function pageFor(slug: string, id: string): string {
-  return `export const ${slug} = {
-  id: "${id}",
-  pageTypeSlug: "check",
-  slug: "${slug}",
-  definition: "a check for the test",
-  code: "ts",
-  needs: "path",
-  runsOn: ["patch"],
-}
-`
-}
-
-function minting(root: string, slug: string, id: string, code: string): void {
-  const at = `akasha/${slug}.check.ts`
-  mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, at), pageFor(slug, id))
-  writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
-  const dir = join(root, ".git/data/index/identity/check/slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
-}
-
-function refusing(root: string): void {
-  minting(root, "refuses", "01a04bed-1450-7000-8000-00000000bbbb", REFUSES)
-}
-
-function admitting(root: string): void {
-  minting(root, "admits", "01a04bed-1450-7000-8000-00000000cccc", ADMITS)
-}
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
   const root = repoWith({ [HELD]: PAGE })

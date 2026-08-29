@@ -29,6 +29,7 @@ function rootWith(
   named: readonly {
     readonly slug: string
     readonly runsOn: readonly string[]
+    readonly raw?: string
     readonly body: string
   }[]
 ): string {
@@ -46,7 +47,11 @@ function rootWith(
       `export const ${camel} = {\n` +
         `  slug: "${one.slug}",\n` +
         `  code: "ts",\n` +
-        `  runsOn: ${JSON.stringify(one.runsOn)},\n` +
+        (one.raw ??
+          `  runsOnPatch: ${one.runsOn.includes("patch")},\n` +
+            `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
+            `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
+            `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
         `}\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
@@ -190,9 +195,9 @@ test("a check page whose code is not there stops the whole run", () => {
   rmSync(root, { recursive: true })
 })
 
-test("a check page stating no runsOn a runner can honour is refused", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["tree"], body: ADMITS_ALL }])
-  expect(() => checksIn(root)).toThrow("states no `runsOn`")
+test("a check page stating no phase a runner can honour is refused", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: [], raw: "", body: ADMITS_ALL }])
+  expect(() => checksIn(root)).toThrow("states no phase")
   rmSync(root, { recursive: true })
 })
 

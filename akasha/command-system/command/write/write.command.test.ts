@@ -43,7 +43,7 @@ function checking(root: string, slug: string, body: string, phase = "patch"): vo
   put(
     root,
     at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOn: ["${phase}"],\n}\n`
+    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOnPatch: ${phase === "patch"},\n  runsOnWorktree: ${phase === "worktree"},\n  runsOnDeploy: ${phase === "deploy"},\n  runsOnAudit: ${phase === "audit"},\n}\n`
   )
   put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
   minted = minted + 1

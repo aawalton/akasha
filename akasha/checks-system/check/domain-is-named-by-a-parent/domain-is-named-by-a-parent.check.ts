@@ -7,7 +7,10 @@ export const domainIsNamedByAParent = {
   definition: "the check refusing a domain that no other page names among its parts",
   code: "ts",
   test: "ts",
-  runsOn: [],
+  runsOnPatch: false,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -39,8 +42,8 @@ export const domainIsNamedByAParent = {
       statement: "A domain the change takes away is passed over.",
     },
     {
-      invariantKind: "absence",
-      statement: "This states no phase.",
+      invariantKind: "departure",
+      statement: "This runs at audit alone.",
     },
     {
       invariantKind: "gap",

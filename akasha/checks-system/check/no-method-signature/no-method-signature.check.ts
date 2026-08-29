@@ -7,7 +7,10 @@ export const noMethodSignature = {
   definition: "the check refusing a method signature in an interface or a type literal",
   code: "ts",
   test: "ts",
-  runsOn: ["patch", "worktree", "deploy"],
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "absence",

@@ -10,7 +10,7 @@ export type Body = {
   readonly bytes: Uint8Array
 }
 
-export type Phase = "patch" | "worktree" | "deploy"
+export type Phase = "patch" | "worktree" | "deploy" | "audit"
 
 export type Running = (leaving: Leaving) => readonly Judged[]
 
@@ -54,13 +54,21 @@ export function checkPagesIn(root: string): readonly string[] {
   return [...new Set(everyOfType(root, CHECK).map((one) => one.path))].sort()
 }
 
+const STATED: readonly (readonly [Phase, string])[] = [
+  ["patch", "runsOnPatch"],
+  ["worktree", "runsOnWorktree"],
+  ["deploy", "runsOnDeploy"],
+  ["audit", "runsOnAudit"],
+]
+
 function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
-  const said = value["runsOn"]
-  if (!Array.isArray(said)) return null
-  const every = said.filter(
-    (one): one is Phase => one === "patch" || one === "worktree" || one === "deploy"
-  )
-  return every.length === said.length ? every : null
+  const held: Phase[] = []
+  for (const [phase, named] of STATED) {
+    const said = value[named]
+    if (typeof said !== "boolean") return null
+    if (said) held.push(phase)
+  }
+  return held
 }
 
 function statedIn(at: string, slug: string): Record<string, unknown> | null {
@@ -106,7 +114,7 @@ export function checksIn(root: string): readonly Gathered[] {
     }
     const runsOn = runsOnIn(stated)
     if (runsOn === null) {
-      throw new Error(`${path} is a check page, and states no \`runsOn\` a runner can honour`)
+      throw new Error(`${path} is a check page, and states no phase a runner can honour`)
     }
     const beside = codeBeside(full)
     const run = runningIn(beside, slug)
@@ -185,7 +193,7 @@ export function judgingIn(root: string, phase: Phase): Judging {
 }
 
 export function auditingIn(root: string): Judging {
-  return judgingBy(checksIn(root))
+  return judgingBy(checksAt(checksIn(root), "audit"))
 }
 
 export function onDisk(root: string): (path: string) => Uint8Array | null {

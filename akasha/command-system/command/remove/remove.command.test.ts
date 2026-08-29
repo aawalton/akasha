@@ -4,6 +4,7 @@ import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import type { Given } from "../../calling.module.code.ts"
+import { admitting, refusing } from "../../minting.module.code.ts"
 import {
   emptiedBy,
   namedIn,
@@ -63,56 +64,6 @@ const KEPT = "akasha/two/kept.module.ts"
 const DEEP = "akasha/one/deep/held.module.ts"
 
 const BODY = `export const held = 1\n`
-
-const REFUSES_PAGE = `export const refuses = {
-  id: "01a04bed-1461-7000-8000-00000000bbbb",
-  pageTypeSlug: "check",
-  slug: "refuses",
-  definition: "a check refusing everything",
-  code: "ts",
-  needs: "path",
-  runsOn: ["patch"],
-}
-`
-
-const REFUSES_CODE = `export function refuses(leaving) {
-  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
-}
-`
-
-const ADMITS_PAGE = `export const admits = {
-  id: "01a04bed-1461-7000-8000-00000000cccc",
-  pageTypeSlug: "check",
-  slug: "admits",
-  definition: "a check admitting everything",
-  code: "ts",
-  needs: "path",
-  runsOn: ["patch"],
-}
-`
-
-const ADMITS_CODE = `export function admits() {
-  return []
-}
-`
-
-function minting(root: string, slug: string, page: string, code: string, id: string): void {
-  const at = `akasha/${slug}.check.ts`
-  mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, at), page)
-  writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
-  const dir = join(root, ".git/data/index/identity/check/slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
-}
-
-function refusing(root: string): void {
-  minting(root, "refuses", REFUSES_PAGE, REFUSES_CODE, "01a04bed-1461-7000-8000-00000000bbbb")
-}
-
-function admitting(root: string): void {
-  minting(root, "admits", ADMITS_PAGE, ADMITS_CODE, "01a04bed-1461-7000-8000-00000000cccc")
-}
 
 test("named paths are taken away and the removal is committed", () => {
   const root = repoWith({ [HELD]: BODY, "akasha/one/kept.module.ts": BODY })

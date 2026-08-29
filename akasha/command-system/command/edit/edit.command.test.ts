@@ -42,7 +42,7 @@ function checking(root: string, slug: string, body: string): void {
   put(
     root,
     at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOn: ["patch"],\n}\n`
+    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOnPatch: true,\n  runsOnWorktree: false,\n  runsOnDeploy: false,\n  runsOnAudit: false,\n}\n`
   )
   put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
   put(

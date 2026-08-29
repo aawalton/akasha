@@ -8,7 +8,10 @@ export const relationResolves = {
     "the check refusing a page that names a relation reaching no page, and a non-mortal page that names a mortal one",
   code: "ts",
   test: "ts",
-  runsOn: ["patch", "worktree", "deploy"],
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",

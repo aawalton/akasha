@@ -1,9 +1,15 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { RunsOn } from "./properties/runs-on.page-property-type.ts"
+import type { RunsOnAudit } from "./properties/runs-on-audit.page-property-type.ts"
+import type { RunsOnDeploy } from "./properties/runs-on-deploy.page-property-type.ts"
+import type { RunsOnPatch } from "./properties/runs-on-patch.page-property-type.ts"
+import type { RunsOnWorktree } from "./properties/runs-on-worktree.page-property-type.ts"
 
 export type Check = Module & {
-  runsOn: RunsOn
+  runsOnPatch: RunsOnPatch
+  runsOnWorktree: RunsOnWorktree
+  runsOnDeploy: RunsOnDeploy
+  runsOnAudit: RunsOnAudit
 }
 
 export const check = {
@@ -12,7 +18,12 @@ export const check = {
   slug: "check",
   definition: "a module run over a change to judge whether it may land",
   extendsSlug: "page-type/module",
-  properties: [{ propertySlug: "page-property-type/runs-on", required: true, many: true }],
+  properties: [
+    { propertySlug: "page-property-type/runs-on-patch", required: true, many: false },
+    { propertySlug: "page-property-type/runs-on-worktree", required: true, many: false },
+    { propertySlug: "page-property-type/runs-on-deploy", required: true, many: false },
+    { propertySlug: "page-property-type/runs-on-audit", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -28,6 +39,14 @@ export const check = {
       statement: "A check takes and gives paths under the root it was given.",
     },
     {
+      invariantKind: "departure",
+      statement: "A check states each phase it runs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Audit is a phase like any other, and a check states whether it runs there.",
+    },
+    {
       invariantKind: "gap",
       statement: "A check looks for no files.",
     },
@@ -35,6 +54,10 @@ export const check = {
       invariantKind: "gap",
       statement:
         "A check that must know more than the change it was handed asks the index, never the tree.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check's phases are derived from what it reads.",
     },
   ],
   directives: [

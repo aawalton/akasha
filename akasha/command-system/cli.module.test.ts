@@ -41,7 +41,10 @@ const REFUSES_PAGE = `export const refuses = {
   slug: "refuses",
   definition: "a check refusing everything",
   code: "ts",
-  runsOn: ["patch"],
+  runsOnPatch: true,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
+  runsOnAudit: false,
 }
 `
 
