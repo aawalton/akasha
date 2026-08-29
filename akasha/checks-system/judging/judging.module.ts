@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const judging = {
   id: "01a04bc4-7e86-7fa6-8d9b-5532730b7daf",

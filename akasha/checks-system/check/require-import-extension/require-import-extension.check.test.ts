@@ -8,7 +8,7 @@ const given = bodiesIn(ROOT)
 
 test("a relative import carrying its extension is let through", () => {
   const body = 'import { one } from "./corpus.module.code.ts"\n'
-  const said = reasonsIn(given("akasha/checks-system/checking.module.code.ts", body))
+  const said = reasonsIn(given("akasha/checks-system/checking/checking.module.code.ts", body))
   expect(said).toEqual([])
 })
 

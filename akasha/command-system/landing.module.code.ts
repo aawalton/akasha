@@ -12,7 +12,7 @@ import {
 } from "node:fs"
 import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
-import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
+import type { Judged, Judging, Leaving } from "../checks-system/judging/judging.module.code.ts"
 import { indexIn } from "../pages-system/indexes/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/indexes/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
@@ -42,9 +42,9 @@ export type Refused = {
 
 export const UNNAMED = "unnamed"
 
-const CHECKING = "../checks-system/checking.module.code.ts"
+const CHECKING = "../checks-system/checking/checking.module.code.ts"
 
-export const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
+export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
 const INDEXING = "../pages-system/indexes/indexing.module.code.ts"
 

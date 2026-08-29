@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judged, Judging } from "../checks-system/judging.module.code.ts"
+import type { Judged, Judging } from "../checks-system/judging/judging.module.code.ts"
 import { formattedBody } from "../code-system/code-format.module.code.ts"
 import type { Answer, Given } from "./calling.module.code.ts"
 import { holding } from "./holding.module.code.ts"

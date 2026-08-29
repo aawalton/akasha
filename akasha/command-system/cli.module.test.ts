@@ -21,7 +21,7 @@ const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
 const DISPATCHER = "akasha/command-system/cli.module.code.ts"
 
-const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
+const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
 const IDENTITY_AT = ".git/data/index/identity"
 

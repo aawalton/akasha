@@ -4,7 +4,7 @@ import type { Value } from "../../../pages-system/indexes/index-entries.module.c
 import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { put } from "../../../testing-system/putting.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,

@@ -4,8 +4,8 @@ import { dirname, join } from "node:path"
 import type { Ran } from "../../../code-system/code-tests.module.code.ts"
 import { RUNNING } from "../../../code-system/code-tests.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import { onDisk } from "../../checking.module.code.ts"
-import type { Leaving } from "../../judging.module.code.ts"
+import { onDisk } from "../../checking/checking.module.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

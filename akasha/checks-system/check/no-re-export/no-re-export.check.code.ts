@@ -1,5 +1,5 @@
 import ts from "typescript"
-import { judgingEachFile, overEachText } from "../../checking.module.code.ts"
+import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const INSIDE = "akasha/"
 

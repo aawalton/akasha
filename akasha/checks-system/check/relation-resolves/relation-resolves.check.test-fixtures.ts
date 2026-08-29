@@ -1,7 +1,7 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import type { Leaving } from "../../judging.module.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 
 export const INDEX = join(".git", "data", "index")
 

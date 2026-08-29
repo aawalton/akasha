@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Leaving } from "../../judging.module.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 import {
   ancestorsOf,
   edgesOf,

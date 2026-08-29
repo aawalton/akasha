@@ -5,9 +5,9 @@ import { indexSchema } from "../../../pages-system/indexes/index/index-schema/in
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import { indexAt, indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf, overEachFile } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Body } from "../../checking/checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const SLUG = "slug"
 

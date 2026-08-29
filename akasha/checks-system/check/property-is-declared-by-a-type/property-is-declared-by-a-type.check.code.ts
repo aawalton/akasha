@@ -16,8 +16,8 @@ import {
 } from "../../../pages-system/indexes/reaching.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { bodyOf } from "../../checking/checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   type Carried,
   carriedBy,

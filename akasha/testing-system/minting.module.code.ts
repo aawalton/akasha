@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "../checks-system/checking.module.code.ts"
+import type { Phase } from "../checks-system/checking/checking.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(leaving) {

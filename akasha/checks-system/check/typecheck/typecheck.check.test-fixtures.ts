@@ -4,7 +4,7 @@ import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import { importIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import { headOf, stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"
 
 export const IMPORTS_AT = ".git/data/index/import/path"

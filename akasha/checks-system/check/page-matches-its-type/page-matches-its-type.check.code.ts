@@ -19,9 +19,9 @@ import { addressIn } from "../../../pages-system/page/page-address.module.code.t
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
 import { besideAt, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
-import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Body } from "../../checking/checking.module.code.ts"
+import { bodyOf } from "../../checking/checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

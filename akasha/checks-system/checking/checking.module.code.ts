@@ -1,16 +1,16 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { indexIdentity } from "../pages-system/indexes/index/index-identity/index-identity.index.ts"
-import { indexPath } from "../pages-system/indexes/index/index-path/index-path.index.ts"
+import { indexIdentity } from "../../pages-system/indexes/index/index-identity/index-identity.index.ts"
+import { indexPath } from "../../pages-system/indexes/index/index-path/index-path.index.ts"
 import {
   everyOfType,
   everyPath,
   indexAt,
-} from "../pages-system/indexes/index-reading.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
-import { besideAt, namedIn } from "../pages-system/page/page-file-name.module.code.ts"
-import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
+} from "../../pages-system/indexes/index-reading.module.code.ts"
+import { exportedAs } from "../../pages-system/page/page-export-name.module.code.ts"
+import { besideAt, namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
+import type { Judged, Judging, Leaving } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string

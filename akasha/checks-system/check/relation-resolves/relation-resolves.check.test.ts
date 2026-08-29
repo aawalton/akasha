@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Judged } from "../../judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,
   knownAcross,

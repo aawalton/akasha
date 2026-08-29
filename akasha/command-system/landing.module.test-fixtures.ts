@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../checks-system/judging.module.code.ts"
+import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import type { Value } from "../pages-system/indexes/index-entries.module.code.ts"
 import { schemaIn } from "../pages-system/indexes/index-entries.module.code.ts"
 import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"

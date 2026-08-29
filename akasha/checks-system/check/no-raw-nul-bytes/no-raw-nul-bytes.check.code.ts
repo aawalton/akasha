@@ -1,5 +1,5 @@
-import type { Body } from "../../checking.module.code.ts"
-import { judgingEachFile } from "../../checking.module.code.ts"
+import type { Body } from "../../checking/checking.module.code.ts"
+import { judgingEachFile } from "../../checking/checking.module.code.ts"
 
 const NUL = 0
 

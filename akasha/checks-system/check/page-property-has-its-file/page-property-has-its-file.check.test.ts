@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import type { Leaving } from "../../judging.module.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,

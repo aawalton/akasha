@@ -1,6 +1,6 @@
 import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "../checks-system/checking.module.code.ts"
+import type { Phase } from "../checks-system/checking/checking.module.code.ts"
 import { bytesOf as bytes } from "../testing-system/bodying.module.code.ts"
 import { gitIn } from "../testing-system/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../testing-system/minting.module.code.ts"

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../checks-system/judging.module.code.ts"
+import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import { bytesOf as bytes } from "../testing-system/bodying.module.code.ts"
 import { gitIn as git } from "../testing-system/gitting.module.code.ts"
 import { until } from "../testing-system/waiting.module.code.ts"

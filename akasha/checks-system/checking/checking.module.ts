@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const checking = {
   id: "01a04bc4-7e86-7df4-a322-36cc3b789fce",

@@ -6,8 +6,8 @@ import {
   testBesideOf,
   worldOf,
 } from "../../../code-system/code-tests.module.code.ts"
-import { everyFileIn } from "../../checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import { everyFileIn } from "../../checking/checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const KEPT = 40
 

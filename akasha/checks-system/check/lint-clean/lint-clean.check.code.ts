@@ -1,7 +1,7 @@
 import type { Found, Linted } from "../../../code-system/code-lint.module.code.ts"
 import { lintedOver } from "../../../code-system/code-lint.module.code.ts"
 import { worldOf } from "../../../code-system/code-tests.module.code.ts"
-import type { Judged, Leaving } from "../../judging.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
 
