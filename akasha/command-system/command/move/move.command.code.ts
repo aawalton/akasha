@@ -1,7 +1,11 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, isAbsolute, join, relative, resolve } from "node:path"
 import { placedIn } from "../../../code-system/code-specifier.module.code.ts"
-import { indexIn, standingByPath } from "../../../pages-system/index/index-reading.module.code.ts"
+import {
+  importersOf,
+  indexIn,
+  standingByPath,
+} from "../../../pages-system/index/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"
@@ -10,12 +14,14 @@ import type { Asked } from "../write/write.command.code.ts"
 import {
   BREAK_GLASS,
   COMMITTING,
+  counted,
   DRY_RUN,
   glassIn,
   landingAsked,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
+  textOf,
 } from "../write/write.command.code.ts"
 
 const AKASHA = "akasha"
@@ -42,6 +48,7 @@ export const surface: Surface = {
     `${FROM} and ${TO} repeat in pairs, so several bodies move in one commit.`,
     "a page states its own slug, so a move carries a body and never renames it.",
     "the `code` and `test` files standing beside what you name go with it.",
+    "the files importing what moves are repointed in the same commit.",
   ],
 }
 
@@ -49,13 +56,19 @@ const RELATIVE = /^\.\.?\//
 
 export const PATHS_AT = ".git/data/index/identity/page/path"
 
+export const IMPORTS_AT = ".git/data/index/import/path"
+
 const NO_PATHS =
   `\`${PATHS_AT}\` is not there, so what names it could not be answered — an index that is ` +
   "missing is not an index naming no page"
 
-const NOT_ESTABLISHED =
-  "nothing was repointed in the files that import what moved — the index carries no edge from a " +
-  "file to the files importing it, so this move did not establish them"
+const NO_IMPORTS =
+  `\`${IMPORTS_AT}\` is not there, so what imports the moved files could not be answered and ` +
+  "none were repointed — an index that is missing is not an index naming no importer"
+
+const OUTSIDE_INDEX =
+  `the index carries \`${INSIDE}\` alone, so a file outside it importing what moved stands ` +
+  "unrepointed and was not looked for"
 
 export type Pair = {
   readonly from: string
@@ -150,6 +163,27 @@ export function namingOf(root: string, path: string): Naming {
   return { names: [...found].sort() }
 }
 
+export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
+
+export function importingOf(root: string, moved: ReadonlyMap<string, string>): Reading {
+  if (!existsSync(join(root, IMPORTS_AT))) return { unread: NO_IMPORTS }
+  const found = new Set<string>()
+  for (const from of moved.keys()) {
+    let said: readonly string[]
+    try {
+      said = importersOf(root, from)
+    } catch (cause) {
+      const why = cause instanceof Error ? cause.message : String(cause)
+      return { unread: `${why}, so none were repointed` }
+    }
+    for (const one of said) {
+      if (moved.has(one)) continue
+      found.add(one)
+    }
+  }
+  return { importers: [...found].sort() }
+}
+
 function landedAt(path: string, specifier: string): string | null {
   if (!RELATIVE.test(specifier)) return null
   return join(dirname(path), specifier)
@@ -184,6 +218,12 @@ type Sided = {
   readonly from: string
   readonly to: string
   readonly named: boolean
+}
+
+type Reached = {
+  readonly repointed: readonly string[]
+  readonly unread: string | null
+  readonly reaching: boolean
 }
 
 function sidedIn(
@@ -264,7 +304,7 @@ function sidedIn(
   return { sides }
 }
 
-function carrying(sides: readonly Sided[], dry: boolean): readonly string[] {
+function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): readonly string[] {
   const report = sides
     .filter((one) => one.named)
     .map((one) => `${one.from} ${dry ? "would move to" : "moved to"} ${one.to}`)
@@ -277,7 +317,16 @@ function carrying(sides: readonly Sided[], dry: boolean): readonly string[] {
         : `these stood beside what you named and went with it — ${said}`
     )
   }
-  report.push(NOT_ESTABLISHED)
+  if (reached.unread !== null) report.push(reached.unread)
+  else if (reached.repointed.length === 0) {
+    report.push("the index names no file importing what moved, so none needed repointing")
+  } else {
+    report.push(
+      `${counted(reached.repointed.length, "file")} importing what moved ` +
+        `${dry ? "would be" : "was"} repointed — ${reached.repointed.join(", ")}`
+    )
+  }
+  if (reached.reaching) report.push(OUTSIDE_INDEX)
   return report
 }
 
@@ -303,10 +352,8 @@ export function move(argv: readonly string[], given: Given): Answer {
       changes.push({ path: one.from, body: null })
       continue
     }
-    let text: string
-    try {
-      text = new TextDecoder("utf-8", { fatal: true }).decode(bytes)
-    } catch {
+    const text = textOf(bytes)
+    if (text === null) {
       return answering(
         [],
         [
@@ -321,6 +368,33 @@ export function move(argv: readonly string[], given: Given): Answer {
     })
     changes.push({ path: one.from, body: null })
   }
+  const reading = importingOf(root, moved)
+  const repointing: string[] = []
+  if ("importers" in reading) {
+    for (const path of reading.importers) {
+      const full = join(root, path)
+      if (!path.endsWith(TS) || !existsSync(full)) continue
+      const text = textOf(readFileSync(full))
+      if (text === null) {
+        return answering(
+          [],
+          [
+            `${path} imports what moved and its bytes are not utf-8, so its specifiers cannot be repointed`,
+          ],
+          2
+        )
+      }
+      const next = repointed(path, path, text, moved)
+      if (next === text) continue
+      repointing.push(path)
+      changes.push({ path, body: new TextEncoder().encode(next) })
+    }
+  }
+  const reached: Reached = {
+    repointed: repointing,
+    unread: "unread" in reading ? reading.unread : null,
+    reaching: [...moved.keys()].some((one) => one.endsWith(TS)),
+  }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
   const asked: Asked = {
@@ -329,9 +403,9 @@ export function move(argv: readonly string[], given: Given): Answer {
     dryRun: read.dryRun,
     glass: glass.glass,
     unmoved: [],
-    saying: () => carrying(sided.sides, false),
+    saying: () => carrying(sided.sides, reached, false),
   }
   const landed = landingAsked({ ...given, root }, asked)
   if (landed.code !== 0 || !read.dryRun) return landed
-  return answering([...carrying(sided.sides, true), ...landed.report], [], 0)
+  return answering([...carrying(sided.sides, reached, true), ...landed.report], [], 0)
 }

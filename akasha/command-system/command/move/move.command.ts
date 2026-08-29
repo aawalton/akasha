@@ -5,7 +5,7 @@ export const move = {
   pageTypeSlug: "command",
   slug: "move",
   definition:
-    "files carried to new paths, with everything the moved bodies name repointed in the same act",
+    "files carried to new paths, with what they name and what names them repointed in the same act",
   code: "ts",
   test: "ts",
   mechanical: true,
@@ -29,7 +29,22 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "What a moved body names is repointed from that body alone; what names a moved file is not.",
+        "What names a moved file is repointed from the index of the files importing a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file moving in the same act is repointed from its own body and never again as an importer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index that cannot answer what imports a path leaves those files as they stand and says so.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The index carries the `akasha/` folder alone, so an importer outside it is neither found nor repointed.",
     },
     {
       invariantKind: "departure",
@@ -50,6 +65,10 @@ export const move = {
     {
       invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Everything that reached a file before the move reaches it after.",
     },
   ],
 } as const satisfies Command
