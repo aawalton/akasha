@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const hookAnswer = {
   id: "01a04e16-d380-7001-96b2-4990b06a9094",

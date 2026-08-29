@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const settling = {
   id: "01a04eb3-0e17-7660-850e-4311257ed9fa",

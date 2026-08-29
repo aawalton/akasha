@@ -1,7 +1,12 @@
 import { resolve } from "node:path"
-import { rootOf } from "../../hook-answer.module.code.ts"
-import { insideOf, settled } from "../../settling.module.code.ts"
-import { basenameOf, dequoted, segmentsOf, wordsOf } from "../../shell-calls.module.code.ts"
+import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { insideOf, settled } from "../../settling/settling.module.code.ts"
+import {
+  basenameOf,
+  dequoted,
+  segmentsOf,
+  wordsOf,
+} from "../../shell-calls/shell-calls.module.code.ts"
 import { guardedIn } from "../block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 
 const HOOK_NAME = "block-akasha-shell-writes"

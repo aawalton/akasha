@@ -1,10 +1,10 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
-export const bunCalls = {
-  id: "01a04eab-d4ef-7000-bdff-3446eef0bf24",
+export const gitCalls = {
+  id: "01a04e16-d380-7000-aca5-c084a6730236",
   pageTypeSlug: "module",
-  slug: "bun-calls",
-  definition: "the bun invocations a shell command line carries",
+  slug: "git-calls",
+  definition: "the git invocations a shell command line carries",
   code: "ts",
   test: "ts",
   invariants: [
@@ -14,15 +14,15 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that takes a value takes the word after it, which is no verb.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What follows the verb is returned unread, so a filter is never taken for a flag.",
+      statement: "A global flag that takes a value takes the word after it, which is no verb.",
     },
     {
       invariantKind: "departure",
       statement: "A command carrying no verb is no call here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word this names as another tool is no git call, whatever its verb reads as.",
     },
     {
       invariantKind: "absence",
@@ -31,6 +31,10 @@ export const bunCalls = {
     {
       invariantKind: "absence",
       statement: "The cutting is `shell-calls`, so no rule about quoting or basenames stands here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A hook reads a git verb out of a command line without writing a shell parser.",
     },
   ],
 } as const satisfies Module

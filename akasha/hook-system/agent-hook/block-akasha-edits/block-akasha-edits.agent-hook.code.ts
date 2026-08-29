@@ -1,6 +1,6 @@
 import { basename, join, relative, resolve } from "node:path"
-import { rootOf } from "../../hook-answer.module.code.ts"
-import { insideOf, settled } from "../../settling.module.code.ts"
+import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
+import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"
 

@@ -1,6 +1,6 @@
 import { resolve, sep } from "node:path"
-import type { BunCall } from "../../bun-calls.module.code.ts"
-import { bunCallsIn } from "../../bun-calls.module.code.ts"
+import type { BunCall } from "../../bun-calls/bun-calls.module.code.ts"
+import { bunCallsIn } from "../../bun-calls/bun-calls.module.code.ts"
 import {
   ASIDE,
   commandIn,
@@ -8,7 +8,7 @@ import {
   rootOf,
   STANDING_ASIDE,
   said,
-} from "../../hook-answer.module.code.ts"
+} from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-bun-test"
 

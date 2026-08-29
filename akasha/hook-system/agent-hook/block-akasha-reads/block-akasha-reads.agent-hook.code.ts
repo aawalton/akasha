@@ -6,8 +6,8 @@ import {
   rootOf,
   STANDING_ASIDE,
   said,
-} from "../../hook-answer.module.code.ts"
-import { insideOf, settled } from "../../settling.module.code.ts"
+} from "../../hook-answer/hook-answer.module.code.ts"
+import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
 const HOOK = "block-akasha-reads"
 

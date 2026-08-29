@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const shellCalls = {
   id: "01a04eab-4522-7000-9e89-8627b48fbcc5",

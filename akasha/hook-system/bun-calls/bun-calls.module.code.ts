@@ -1,4 +1,4 @@
-import { basenameOf, segmentsOf, wordsOf } from "./shell-calls.module.code.ts"
+import { basenameOf, segmentsOf, wordsOf } from "../shell-calls/shell-calls.module.code.ts"
 
 const BUN = "bun"
 

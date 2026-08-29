@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "../../hook-answer.module.code.ts"
+import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
 import { landingsIn, redirectsIn, refusalFor } from "./block-akasha-shell-writes.agent-hook.code.ts"
 
 const ROOT = rootOf(import.meta.path)

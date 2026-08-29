@@ -6,8 +6,8 @@ import {
   rootOf,
   STANDING_ASIDE,
   said,
-} from "../../hook-answer.module.code.ts"
-import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls.module.code.ts"
+} from "../../hook-answer/hook-answer.module.code.ts"
+import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-biome"
 
