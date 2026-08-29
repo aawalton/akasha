@@ -188,3 +188,13 @@ test("the end of the run is what is kept, with its colour taken out", () => {
   expect(said).toContain("line 199")
   expect(said).not.toContain("line 0\n")
 })
+
+test("the reason names a file where it stands in the change, not in the world it ran in", () => {
+  const root = repo({
+    "akasha/one.module.code.ts": "",
+    "akasha/one.module.test.ts": FAILS,
+  })
+  const said = withoutGuard(() => testsPass(leaving(root, ["akasha/one.module.code.ts"])))
+  expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
+  expect(said[0]?.reason).toContain("akasha/one.module.test.ts")
+})

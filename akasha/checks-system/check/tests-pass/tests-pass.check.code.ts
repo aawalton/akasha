@@ -61,7 +61,8 @@ export function testsPass(leaving: Leaving): readonly Judged[] {
   try {
     const ran = ranOver(world.root, named, named.length)
     if (ran.verdict === "pass") return []
-    return [{ path: first, reason: reasonOf(ran, named) }]
+    const said = { ...ran, output: ran.output.replaceAll(`${world.root}/`, "") }
+    return [{ path: first, reason: reasonOf(said, named) }]
   } finally {
     world.sweep()
   }
