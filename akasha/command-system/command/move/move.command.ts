@@ -43,6 +43,16 @@ export const move = {
       statement:
         "`--dry-run` works the whole move out, gates it, and names every pair it would carry, writing nothing at all, not a file and not a loose object.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer, so what the move bypassed and why stands in the history.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "`--dry-run` and `--break-the-glass` are refused together, one reporting what the checks say and the other running none.",
+    },
   ],
   intent: [
     {

@@ -47,7 +47,17 @@ export const remove = {
     {
       invariantKind: "departure",
       statement:
-        "A dry run says that no check judged the removal, a check being never handed a deletion, so it claims nothing about what would stand after.",
+        "A path is named behind `--file-path`, as `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer, so what the removal bypassed and why stands in the history.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "`--dry-run` and `--break-the-glass` are refused together, one reporting what the checks say and the other running none.",
     },
   ],
   intent: [

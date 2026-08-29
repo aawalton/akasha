@@ -1,13 +1,14 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
-import { judgingIn } from "../../../checks-system/checking.module.code.ts"
 import { everyPage, indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
-import { landing } from "../../landing.module.code.ts"
+import type { Asked } from "../write/write.command.code.ts"
 import {
+  BREAK_GLASS,
   DRY_RUN,
+  glassIn,
   landingAsked,
   MESSAGE,
   MESSAGE_FILE,
@@ -24,7 +25,7 @@ const FROM = "--from"
 
 const TO = "--to"
 
-const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE]
+const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
 
@@ -64,7 +65,7 @@ export function pairsIn(argv: readonly string[]): Read {
       }
     }
     const value = argv[at + 1]
-    const carries = token === MESSAGE || token === MESSAGE_FILE
+    const carries = token === MESSAGE || token === MESSAGE_FILE || token === BREAK_GLASS
     if (value === undefined || (value.startsWith("-") && !carries)) {
       return { refused: `${token} needs a value, and the line ends or names another flag` }
     }
@@ -310,6 +311,8 @@ export function move(argv: readonly string[], given: Given): Answer {
   if (read.pairs.length === 0) {
     return answering([], [`name at least one pair to move, as \`${FROM} <path> ${TO} <path>\``], 1)
   }
+  const glass = glassIn(argv, VALUED)
+  if ("refusals" in glass) return answering([], glass.refusals, 1)
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
@@ -339,17 +342,8 @@ export function move(argv: readonly string[], given: Given): Answer {
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
-  if (read.dryRun) {
-    const gated = landingAsked(
-      { ...given, root },
-      { changes, message, dryRun: true, glass: null, unmoved: [] }
-    )
-    if (gated.code !== 0) return gated
-    return answering([...carrying(sided.sides, true), ...gated.report], [], 0)
-  }
-  const landed = landing(root, changes, message, judgingIn(root, "patch"), given.writer)
-  if ("refusals" in landed) return answering([], landed.refusals, 3)
-  const report = [...carrying(sided.sides, false)]
-  if (landed.commit !== null) report.push(`committed as ${landed.commit}`)
-  return answering(report, [], 0)
+  const asked: Asked = { changes, message, dryRun: read.dryRun, glass: glass.glass, unmoved: [] }
+  const landed = landingAsked({ ...given, root }, asked)
+  if (landed.code !== 0) return landed
+  return answering([...carrying(sided.sides, read.dryRun), ...landed.report], [], 0)
 }

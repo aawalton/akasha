@@ -1,11 +1,19 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
-import { judgingIn } from "../../../checks-system/checking.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
-import { baseOf, holding, landing, leavingOf } from "../../landing.module.code.ts"
-import { DRY_RUN, MESSAGE, MESSAGE_FILE, messageIn } from "../write/write.command.code.ts"
+import type { Asked } from "../write/write.command.code.ts"
+import {
+  BREAK_GLASS,
+  DRY_RUN,
+  FILE_PATH,
+  glassIn,
+  landingAsked,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+} from "../write/write.command.code.ts"
 
 const AKASHA = "akasha"
 
@@ -13,15 +21,9 @@ const INSIDE = `${AKASHA}/`
 
 const TS = ".ts"
 
-const PATCH = "patch"
-
-const VALUED = [MESSAGE, MESSAGE_FILE]
+const VALUED = [FILE_PATH, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BESIDE = /^(code|test)\.[a-z0-9]+$/
-
-const NO_CHECK =
-  "no check judged this — a check is never handed a deletion, so this says what would be taken " +
-  "away and nothing about what stands after"
 
 export type Read =
   | { readonly named: readonly string[]; readonly dryRun: boolean }
@@ -39,6 +41,16 @@ export function namedIn(argv: readonly string[]): Read {
       at = at + 1
       continue
     }
+    if (token === FILE_PATH) {
+      const value = argv[at + 1]
+      if (value === undefined) return { refused: `${FILE_PATH} takes a path, and none follows it` }
+      if (value.startsWith("-")) {
+        return { refused: `${FILE_PATH} takes a path, and \`${value}\` names another flag` }
+      }
+      named.push(value)
+      at = at + 2
+      continue
+    }
     if (VALUED.includes(token)) {
       const value = argv[at + 1]
       if (value === undefined) return { refused: `${token} needs a value, and the line ends` }
@@ -48,12 +60,15 @@ export function namedIn(argv: readonly string[]): Read {
     if (token.startsWith("-")) {
       return {
         refused:
-          `\`${token}\` is not a flag this takes — a removal names paths and ` +
-          `\`${MESSAGE}\`, \`${MESSAGE_FILE}\`, \`${DRY_RUN}\``,
+          `\`${token}\` is not a flag this takes — a removal names its paths as \`${FILE_PATH} <path>\` ` +
+          `and takes \`${MESSAGE}\`, \`${MESSAGE_FILE}\`, \`${BREAK_GLASS}\`, \`${DRY_RUN}\``,
       }
     }
-    named.push(token)
-    at = at + 1
+    return {
+      refused:
+        `\`${token}\` stands on its own, and a removal names every path behind a flag — ` +
+        `say \`${FILE_PATH} ${token}\``,
+    }
   }
   return { named, dryRun }
 }
@@ -217,26 +232,12 @@ function answering(report: readonly string[], refusals: readonly string[], code:
   return { report, refusals, code }
 }
 
-function reporting(
+function wouldGo(
   root: string,
   paths: readonly string[],
   under: readonly string[],
   beside: readonly string[]
-): Answer {
-  const changed: readonly Change[] = paths.map((path) => ({ path, body: null }))
-  const said = holding(root, () =>
-    judgingIn(root, PATCH).over(leavingOf(root, { base: baseOf(root), changed }))
-  )
-  if (said.length > 0) {
-    return answering(
-      [],
-      [
-        ...said.map((one) => `${one.path} — ${one.reason}`),
-        `nothing was written — ${DRY_RUN} writes nothing either way`,
-      ],
-      3
-    )
-  }
+): readonly string[] {
   const report = paths.map((one) => `${one} would be taken away`)
   if (under.length > 0) {
     report.push(`these stand under a directory you named and would go with it — ${under.join(", ")}`)
@@ -250,32 +251,18 @@ function reporting(
       `these would be left empty by the removal, and git holds no empty directory — ${pruned.join(", ")}`
     )
   }
-  report.push(NO_CHECK)
-  report.push(`nothing was written — ${DRY_RUN}`)
-  return answering(report, [], 0)
+  return report
 }
 
-export function remove(argv: readonly string[], given: Given): Answer {
-  const read = namedIn(argv)
-  if ("refused" in read) return answering([], [read.refused], 1)
-  if (read.named.length === 0) return answering([], ["name at least one path to remove"], 1)
-  const asked = messageIn(argv, VALUED)
-  if ("refusals" in asked) return answering([], asked.refusals, 1)
-  const root = resolve(given.root)
-  const held = openedIn(root, given, read.named)
-  if ("refusals" in held) return answering([], held.refusals, 1)
-  const beside = [...new Set(held.opened.flatMap((one) => besideOf(root, one)))].filter(
-    (one) => !held.opened.includes(one)
-  )
-  const paths = [...held.opened, ...beside].sort()
-  if (read.dryRun) return reporting(root, paths, held.under, beside)
-  const changes: readonly Change[] = paths.map((path) => ({ path, body: null }))
-  const message = asked.message ?? `remove ${paths.join(", ")}`
-  const said = landing(root, changes, message, judgingIn(root, PATCH), given.writer)
-  if ("refusals" in said) return answering([], said.refusals, 3)
-  const report = said.took.map((one) => `${one} taken away`)
-  if (held.under.length > 0) {
-    report.push(`these stood under a directory you named and went with it — ${held.under.join(", ")}`)
+function wentWith(
+  root: string,
+  paths: readonly string[],
+  under: readonly string[],
+  beside: readonly string[]
+): readonly string[] {
+  const report: string[] = []
+  if (under.length > 0) {
+    report.push(`these stood under a directory you named and went with it — ${under.join(", ")}`)
   }
   if (beside.length > 0) {
     report.push(`these stood beside what you named and went with it — ${beside.join(", ")}`)
@@ -284,6 +271,42 @@ export function remove(argv: readonly string[], given: Given): Answer {
   if (pruned.length > 0) {
     report.push(`emptied by the removal, and git holds no empty directory — ${pruned.join(", ")}`)
   }
-  if (said.commit !== null) report.push(`committed as ${said.commit}`)
-  return answering(report, [], 0)
+  return report
+}
+
+export function remove(argv: readonly string[], given: Given): Answer {
+  const read = namedIn(argv)
+  if ("refused" in read) return answering([], [read.refused], 1)
+  if (read.named.length === 0) {
+    return answering([], [`name at least one path to remove, as \`${FILE_PATH} <path>\``], 1)
+  }
+  const glass = glassIn(argv, VALUED)
+  if ("refusals" in glass) return answering([], glass.refusals, 1)
+  const stated = messageIn(argv, VALUED)
+  if ("refusals" in stated) return answering([], stated.refusals, 1)
+  const root = resolve(given.root)
+  const held = openedIn(root, given, read.named)
+  if ("refusals" in held) return answering([], held.refusals, 1)
+  const beside = [...new Set(held.opened.flatMap((one) => besideOf(root, one)))].filter(
+    (one) => !held.opened.includes(one)
+  )
+  const paths = [...held.opened, ...beside].sort()
+  const changes: readonly Change[] = paths.map((path) => ({ path, body: null }))
+  const asked: Asked = {
+    changes,
+    message: stated.message ?? `remove ${paths.join(", ")}`,
+    dryRun: read.dryRun,
+    glass: glass.glass,
+    unmoved: [],
+  }
+  const said = landingAsked({ ...given, root }, asked)
+  if (said.code !== 0) return said
+  const found = read.dryRun
+    ? wouldGo(root, paths, held.under, beside)
+    : wentWith(root, paths, held.under, beside)
+  return answering(
+    read.dryRun ? [...found, ...said.report] : [...said.report, ...found],
+    [],
+    0
+  )
 }
