@@ -67,8 +67,7 @@ export const idFile = (root: string, id: string): string =>
 export const slugFile = (root: string, type: string, slug: string): string =>
   join(root, `identity/${type}/slug/${slug}.jsonl`)
 
-export const pathFile = (root: string, path: string): string =>
-  join(root, `identity/page/path/${path}.jsonl`)
+export const pathFile = (root: string, path: string): string => join(root, `path/${path}.jsonl`)
 
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)

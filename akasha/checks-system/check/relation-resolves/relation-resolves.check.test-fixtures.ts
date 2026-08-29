@@ -65,7 +65,12 @@ export function filed(root: string, at: string, line: string): void {
   appendFileSync(full, `${line}\n`, "utf8")
 }
 
-export function stating(id: string, slug: string, pageTypeSlug: string, stated: string = ""): string {
+export function stating(
+  id: string,
+  slug: string,
+  pageTypeSlug: string,
+  stated: string = ""
+): string {
   return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
 }
 
@@ -79,7 +84,7 @@ export function standing(
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
   filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
-  filed(root, join("identity", "page", "path", `${path}.jsonl`), line)
+  filed(root, join("path", `${path}.jsonl`), line)
 }
 
 export function naming(
@@ -111,7 +116,11 @@ export function rooted(carrying: boolean = true): string {
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     filed(root, join("schema", "page-property", "slug", `${slug}.jsonl`), JSON.stringify(shape))
   }
-  put(root, M, stating(M_ID, "marks", "record-property", ', properties: [{ pagePropertySlug: "domain-slug" }]'))
+  put(
+    root,
+    M,
+    stating(M_ID, "marks", "record-property", ', properties: [{ pagePropertySlug: "domain-slug" }]')
+  )
   standing(root, M, M_ID, "record-property", "marks")
   if (carrying) standing(root, D, D_ID, "domain", "d")
   return root

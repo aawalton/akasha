@@ -21,7 +21,7 @@ const READS =
   'import { held } from "./one.module.code.ts"\n' +
   'test("one", () => { expect(held).toBe(1) })\n'
 
-const PATHS_AT = ".git/data/index/identity/page/path"
+const PATHS_AT = ".git/data/index/path"
 
 const scratch = scratchWorld()
 

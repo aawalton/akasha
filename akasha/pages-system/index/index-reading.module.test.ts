@@ -64,7 +64,7 @@ function stampedAt(): string {
 
 test("a path the index carries is answered with the page carrying it", () => {
   const root = rootAt()
-  filed(root, "identity/page/path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
 
   expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
@@ -73,7 +73,7 @@ test("a path the index carries is answered with the page carrying it", () => {
 
 test("a page's own path is answered with itself", () => {
   const root = rootAt()
-  filed(root, "identity/page/path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
 
   expect(standingByPath(root, "akasha/a.module.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
@@ -88,21 +88,16 @@ test("a path no page carries is answered with nothing rather than by throwing", 
 
 test("a path two pages fall on is answered with both of them", () => {
   const root = rootAt()
-  filed(root, "identity/page/path/x.module.code.ts.jsonl", [
-    line("x.module.code.ts", B),
-    line("x.module.ts", A),
-  ])
+  filed(root, "path/x.module.code.ts.jsonl", [line("x.module.code.ts", B), line("x.module.ts", A)])
 
   expect(standingByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
 })
 
 test("every path the index files is answered, however deep the folders it files them under", () => {
   const root = rootAt()
-  filed(root, "identity/page/path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
-  filed(root, "identity/page/path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
-  filed(root, "identity/page/path/akasha/held/b.module.ts.jsonl", [
-    line("akasha/held/b.module.ts", B),
-  ])
+  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "path/akasha/held/b.module.ts.jsonl", [line("akasha/held/b.module.ts", B)])
 
   expect(everyPath(root)).toEqual([
     "akasha/a.module.code.ts",

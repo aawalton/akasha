@@ -18,6 +18,8 @@ const IDENTITY = "identity"
 
 const IMPORT = "import"
 
+const PATH = "path"
+
 const RELATION = "relation"
 
 const SCHEMA = "schema"
@@ -57,7 +59,7 @@ export function standingById(root: string, id: string): Standing | null {
 }
 
 export function standingByPath(root: string, path: string): readonly Standing[] {
-  return standingIn(join(indexIn(root), IDENTITY, "page", "path", `${path}${ENDING}`))
+  return standingIn(join(indexIn(root), PATH, `${path}${ENDING}`))
 }
 
 function pathsIn(at: string): readonly string[] {
@@ -149,7 +151,7 @@ function underneath(at: string, said: string, found: string[]): void {
 }
 
 export function everyPath(root: string): readonly string[] {
-  const dir = join(indexIn(root), IDENTITY, "page", "path")
+  const dir = join(indexIn(root), PATH)
   if (!existsSync(dir)) return []
   const found: string[] = []
   underneath(dir, "", found)

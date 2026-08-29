@@ -29,8 +29,6 @@ const IDENTITY = "identity"
 
 const SLUG = "slug"
 
-const PAGE = "page"
-
 const PATH = "path"
 
 const CODE = "code"
@@ -39,7 +37,7 @@ const TS = "ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
-const PATHS_AT = ".git/data/index/identity/page/path"
+const PATHS_AT = ".git/data/index/path"
 
 const reach_ = createRequire(import.meta.url)
 
@@ -174,7 +172,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
 }
 
 export function everyFileIn(root: string): readonly string[] {
-  if (!existsSync(join(indexIn(root), IDENTITY, PAGE, PATH))) {
+  if (!existsSync(join(indexIn(root), PATH))) {
     throw new Error(
       `\`${PATHS_AT}\` is not there, so which files stand could not be answered — an index that is missing is not an index naming no file`
     )

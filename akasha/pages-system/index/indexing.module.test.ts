@@ -100,7 +100,7 @@ test("a removed page takes away the path of its own file and of every file it he
 
   expect(existsSync(pathFile(root, "deep/a.module.ts"))).toBe(false)
   expect(existsSync(pathFile(root, "deep/a.module.code.ts"))).toBe(false)
-  expect(existsSync(join(root, "identity", "page", "path", "deep"))).toBe(false)
+  expect(existsSync(join(root, "path", "deep"))).toBe(false)
 })
 
 test("two pages carrying one value leave two lines in one file", () => {

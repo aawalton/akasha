@@ -49,11 +49,7 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
 }
 
 function claiming(root: string, path: string, page: string): void {
-  filed(
-    root,
-    join("identity", "page", "path", `${path}.jsonl`),
-    JSON.stringify({ path: page, id: ID })
-  )
+  filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id: ID }))
 }
 
 function pageBody(slug: string, stated: string): Uint8Array {

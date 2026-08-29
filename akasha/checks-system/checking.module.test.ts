@@ -10,8 +10,8 @@ import {
   everyFileIn,
   everythingIn,
   judgingBy,
-  onDisk,
   judgingEachFile,
+  onDisk,
   overEachFile,
   overEachText,
 } from "./checking.module.code.ts"
@@ -20,7 +20,7 @@ const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const PAGES_AT = ".git/data/index/identity/page/id"
 
-const PATHS_AT = ".git/data/index/identity/page/path"
+const PATHS_AT = ".git/data/index/path"
 
 const scratch = scratchWorld()
 
@@ -167,9 +167,9 @@ test("judging each file makes a runner of a judge, naming the path each refusal 
   const root = scratch.rootFor("akasha-each-run-")
   writeFileSync(join(root, "here.ts"), "here")
   const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
-  expect(run({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) })).toEqual(
-    [{ path: "here.ts", reason: "here.ts holds 4 bytes" }]
-  )
+  expect(
+    run({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) })
+  ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
 })
 
 test("a phase takes only the checks that state it", () => {

@@ -166,7 +166,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
   const named = [
     `identity/page/id/${ID}.jsonl`,
     "identity/domain/slug/a.jsonl",
-    "identity/page/path/akasha/a.domain.ts.jsonl",
+    "path/akasha/a.domain.ts.jsonl",
   ]
   for (const at of named) expect(readFileSync(join(held, at), "utf8").trim()).toBe(LINE)
 })

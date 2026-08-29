@@ -55,7 +55,7 @@ export const surface: Surface = {
 
 const RELATIVE = /^\.\.?\//
 
-export const PATHS_AT = ".git/data/index/identity/page/path"
+export const PATHS_AT = ".git/data/index/path"
 
 export const IMPORTS_AT = ".git/data/index/import/path"
 

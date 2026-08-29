@@ -21,6 +21,7 @@ import {
   loadedFrom,
   NOTHING_FILED,
   pageTypesIn,
+  pathIn,
   relationIn,
   schemaIn,
   valueAt,
@@ -172,6 +173,8 @@ export function rebuiltFrom(
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, "identity"), identity, root)
+  const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
+  reconcile(join(root, "path"), paths, root)
   const schema = held.flatMap((one) => schemaIn(one.value))
   reconcile(join(root, "schema"), schema, root)
   const known = knownIn(root, repo)
@@ -185,7 +188,7 @@ export function rebuiltFrom(
   stampBuilt(repo, tree, root)
   return {
     pages: held.length,
-    entries: identity.length + schema.length + relation.length + imported.length,
+    entries: identity.length + paths.length + schema.length + relation.length + imported.length,
     refused: filed.flatMap((one) => one.refused),
   }
 }
@@ -240,6 +243,15 @@ export function indexingAt(root: string, repo: string): Indexing {
         ),
         held.flatMap((one) =>
           one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)
+        )
+      )
+      settleOver(
+        root,
+        held.flatMap((one) =>
+          one.was === null ? [] : pathIn(one.was, one.path, repo, fileProperties)
+        ),
+        held.flatMap((one) =>
+          one.now === null ? [] : pathIn(one.now, one.path, repo, fileProperties)
         )
       )
       settleOver(

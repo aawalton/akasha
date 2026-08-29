@@ -138,6 +138,25 @@ export function identityIn(
   ]
 }
 
+const PATH_AT = "path"
+
+export function pathIn(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: ReadonlySet<string>
+): readonly Entry[] {
+  const id = textAt(value, "id")
+  const slug = textAt(value, "slug")
+  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  if (id === null || slug === null || pageTypeSlug === null) return []
+  const line = JSON.stringify({ path: under(repo, path), id })
+  return pathsOf(value, path, repo, fileProperties).map((one) => ({
+    at: join(PATH_AT, `${one}.jsonl`),
+    line,
+  }))
+}
+
 const PROPERTY = "page-property"
 
 const SHAPES = new Set([

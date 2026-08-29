@@ -97,7 +97,7 @@ test("a temp file outside the guarded roots is written as usual", () => {
 
 test("a path under `.git/data` is refused, and names the one repair", () => {
   const root = repo()
-  const said = judged(root, ".git/data/index/identity/page/path/one.jsonl")
+  const said = judged(root, ".git/data/index/path/one.jsonl")
   expect(said).toContain("inside the akasha index")
   expect(said).toContain("akasha index refresh")
   expect(said).toContain("`.git/data` holds the index")
