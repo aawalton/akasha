@@ -8,7 +8,6 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Indexing } from "../../write-system/landing.module.code.ts"
 import type { Entry, Value } from "./index-entries.module.code.ts"
 import {
   NAMED,
@@ -132,6 +131,12 @@ function reconcile(under: string, entries: readonly Entry[], root: string): void
     if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
   }
   for (const [at, lines] of wanted) keepWhole(join(root, at), [...lines].sort(), root)
+}
+
+export type Indexing = {
+  readonly wrote: (path: string, body: string, before: string | null) => void
+  readonly took: (path: string, before: string | null) => void
+  readonly settle: () => readonly string[]
 }
 
 export function rebuiltFrom(

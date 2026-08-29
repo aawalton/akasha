@@ -9,7 +9,6 @@ import { recordRead } from "../../../agent/record-read.ts"
 import { writerId } from "../../../agent/writer.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional.ts"
-import { doubleRun } from "./double-run.ts"
 import { requiredFor } from "./required.ts"
 import { seatTargets } from "./seat.ts"
 import { type Target, targetOf } from "./target.ts"
@@ -212,7 +211,6 @@ export default async function read(argv: readonly string[]): Promise<void> {
         "you and the change you make next is refused for it"
     )
   }
-  const oldSeen = new Map<string, string>()
   const workspace = mkdtempSync(`${SCRATCH}/akasha-read-`)
   const queue = [...targets, ...required.targets]
   const conditional = args.seat ? conditionalBelow(queue, from) : []
@@ -259,8 +257,6 @@ export default async function read(argv: readonly string[]): Promise<void> {
       }
       say(...lines)
       taken += 1
-      const settled = emission.record?.oid ?? reading?.oid
-      if (settled !== undefined) oldSeen.set(canonical, settled)
       if (page !== null && emission.record !== null) {
         recordRead(page, cutoff, canonical, emission.record.seenAt, emission.record.oid)
       }
@@ -271,7 +267,6 @@ export default async function read(argv: readonly string[]): Promise<void> {
   say(...definitions)
   say(...restCall(left, full))
   if (report.length > 0) process.stdout.write(`${report.join("\n")}\n`)
-  doubleRun(argv, agent, oldSeen)
   if (refusals.length === 0) return
   process.stderr.write(`refused:\n${refusals.map((one) => `  ${one}`).join("\n")}\n`)
   process.exitCode = 1

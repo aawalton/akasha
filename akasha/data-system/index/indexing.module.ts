@@ -9,7 +9,6 @@ export const indexing = {
   test: "ts",
   requiredReadingSlugs: [
     "domain/akasha-page-edge",
-    "module/corpus",
     "domain/index-identity",
     "domain/index-relation",
   ],
