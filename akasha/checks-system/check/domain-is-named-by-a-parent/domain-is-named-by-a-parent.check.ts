@@ -7,7 +7,7 @@ export const domainIsNamedByAParent = {
   definition: "the check refusing a domain that no other page names among its parts",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -28,7 +28,8 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a page names it is one identity read and one directory listed.",
+      statement:
+        "Whether a page names it is one identity read and one directory listed, plus the parts the change itself carries.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +46,8 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "This runs at audit alone.",
+      statement:
+        "Who names a page is read from the change and the index together, so a page and the parent naming it land as one.",
     },
     {
       invariantKind: "gap",
@@ -53,8 +55,8 @@ export const domainIsNamedByAParent = {
         "Every page standing under `domain` is reached by reading down from `akasha-system`.",
     },
     {
-      invariantKind: "gap",
-      statement: "A domain arriving with the parent that names it is judged before it lands.",
+      invariantKind: "upkeep",
+      statement: "A page arriving under no parent is refused before it lands.",
     },
   ],
 } as const satisfies Check
