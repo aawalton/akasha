@@ -67,6 +67,21 @@ export const pageMatchesItsType = {
         "A page stating no page type is refused, and is not passed over as one nothing settles.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A property a generator fills is not required of a page being created, and is required of every page already standing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is being created when the base commit carries no body for its path, which is read from the change and not from the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which properties a generator fills is read from the module owning that answer, so a third one binds here with no code changed.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "A value's own sort is not judged here, only whether the page carries what it must.",

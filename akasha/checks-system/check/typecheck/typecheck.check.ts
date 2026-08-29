@@ -66,6 +66,31 @@ export const typecheck = {
       statement: "What is judged is judged as the change would leave it.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A page being created is compiled against its type less the properties a generator fills, so a value nothing has worked out yet is no type error.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The type a body is held to is narrowed, and no diagnostic is suppressed, so an error standing beside a missing property is still refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The narrowing is written on the line the `satisfies` clause already stands on, so every diagnostic answers at the line the body carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page being created and carrying no `satisfies` clause is compiled as it stands, so a body nothing could narrow is judged whole.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No import is added for the narrowing. `Omit` is TypeScript's own, which is why it is the one reached for.",
+    },
+    {
       invariantKind: "gap",
       statement: "A type error never lands.",
     },

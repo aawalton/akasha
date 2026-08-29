@@ -1,8 +1,16 @@
 import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
+import { generatedProperties } from "../../../pages-system/indexes/generated-properties.module.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
-import { importersOf, indexAt } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
+import {
+  importersOf,
+  indexAt,
+  indexIn,
+} from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
+import { pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
@@ -20,6 +28,8 @@ const PATH = "path"
 const IMPORTS_AT = indexAt(IMPORT, PATH)
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
+
+const OMIT = "Omit"
 
 export const SETTINGS: ts.CompilerOptions = {
   noEmit: true,
@@ -76,7 +86,35 @@ export function insideOf(root: string, at: string): string | null {
   return rel.startsWith(INSIDE) ? rel : null
 }
 
-export function bodiesOf(leaving: Leaving): (at: string) => string | undefined {
+export type Minting = (path: string, text: string) => string
+
+export function omittingIn(path: string, text: string, keys: readonly string[]): string | null {
+  if (keys.length === 0) return null
+  const held = keys.map((one) => JSON.stringify(one)).join(" | ")
+  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  for (const statement of source.statements) {
+    if (!ts.isVariableStatement(statement)) continue
+    for (const declared of statement.declarationList.declarations) {
+      const said = declared.initializer
+      if (said === undefined || !ts.isSatisfiesExpression(said)) continue
+      const at = said.type.getStart(source)
+      const to = said.type.getEnd()
+      return `${text.slice(0, at)}${OMIT}<${text.slice(at, to)}, ${held}>${text.slice(to)}`
+    }
+  }
+  return null
+}
+
+export function mintingIn(leaving: Leaving, keys: readonly string[]): Minting {
+  const pageTypes = keys.length === 0 ? null : pageTypesIn(indexIn(leaving.root))
+  return (path, text) => {
+    if (pageTypes === null || !pageNamed(path, pageTypes)) return text
+    if (leaving.was(path) !== null) return text
+    return omittingIn(path, text, keys) ?? text
+  }
+}
+
+export function bodiesOf(leaving: Leaving, minting: Minting): (at: string) => string | undefined {
   const root = resolve(leaving.root)
   const held = new Map<string, string | undefined>()
   return (path) => {
@@ -87,7 +125,7 @@ export function bodiesOf(leaving: Leaving): (at: string) => string | undefined {
     const bytes = rel === null ? null : leaving.at(rel)
     let said: string | undefined
     if (rel === null) said = ts.sys.readFile(at)
-    else if (bytes !== null) said = new TextDecoder().decode(bytes)
+    else if (bytes !== null) said = minting(rel, new TextDecoder().decode(bytes))
     held.set(at, said)
     return said
   }
@@ -147,7 +185,8 @@ export function foundIn(leaving: Leaving): readonly Found[] {
   const roots = rootsOf(leaving)
   if (roots.length === 0) return []
   const root = resolve(leaving.root)
-  const read = bodiesOf(leaving)
+  const keys = [...generatedProperties(leaving.root)].map(exportedAs)
+  const read = bodiesOf(leaving, mintingIn(leaving, keys))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: SETTINGS,

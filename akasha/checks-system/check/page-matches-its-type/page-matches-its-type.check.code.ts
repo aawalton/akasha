@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { generatedProperties } from "../../../pages-system/indexes/generated-properties.module.code.ts"
 import {
   loadedFrom,
   pageTypesIn,
@@ -41,6 +42,8 @@ const DECLARED = "properties"
 const SAID = "pagePropertySlug"
 
 const FORMAT = "nameFormatSlug"
+
+const NOTHING: ReadonlySet<string> = new Set()
 
 const reach_ = createRequire(import.meta.url)
 
@@ -192,11 +195,12 @@ export function reasonsIn(
   declared: ReadonlyMap<string, Declared>,
   property: (slug: string) => Value | null,
   named: string,
-  formatting: Formatting
+  formatting: Formatting,
+  excused: ReadonlySet<string>
 ): readonly string[] {
   const said: string[] = []
   for (const [slug, one] of declared) {
-    if (!one.required) continue
+    if (!one.required || excused.has(slug)) continue
     const key = slug.replace(/-([a-z0-9])/g, (_, ch: string) => ch.toUpperCase())
     if (!(key in value)) said.push(`does not state \`${slug}\`, which \`${named}\` requires`)
   }
@@ -311,6 +315,7 @@ export function unloadable(why: string | null): string {
 
 export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
   const pageTypes = pageTypesIn(indexIn(leaving.root))
+  const generated = generatedProperties(leaving.root)
   const read = readingIn(leaving)
   const property = (slug: string): Value | null => {
     const schema = schemaOf(leaving.root, slug)
@@ -340,7 +345,8 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
-    for (const reason of reasonsIn(value, declared, property, named, formatting)) {
+    const excused = generated.size === 0 || leaving.was(path) !== null ? NOTHING : generated
+    for (const reason of reasonsIn(value, declared, property, named, formatting, excused)) {
       judged.push({ path, reason })
     }
   }

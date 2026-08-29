@@ -2,10 +2,95 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
-import { foundOf, reachedBy, typecheck } from "./typecheck.check.code.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
+import { put } from "../../../testing-system/putting.module.code.ts"
+import { foundOf, omittingIn, reachedBy, typecheck } from "./typecheck.check.code.ts"
 import { IMPORTS_AT, leaving, over, scratch, staged } from "./typecheck.check.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
+
+const THING_AT = "akasha/one.thing.ts"
+
+const TYPE_AT = "akasha/thing.page-type.ts"
+
+const HELD_AT = "akasha/held.text-property.ts"
+
+const THING_TYPE =
+  "export type Thing = { held: string; slug: string }\n" +
+  `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
+
+const HELD_PAGE =
+  `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
+  ' slug: "held", generator: "uuid-v7" }\n'
+
+const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
+
+const WHOLE = `${READS_ITS_TYPE}export const one = { held: "h", slug: "one" } as const satisfies Thing\n`
+
+const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const satisfies Thing\n`
+
+const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
+
+function generating(files: Readonly<Record<string, string>>): string {
+  const root = staged({ [TYPE_AT]: THING_TYPE, [HELD_AT]: HELD_PAGE, ...files })
+  const index = indexIn(root)
+  put(
+    index,
+    "schema/page-property/slug/held.jsonl",
+    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
+  )
+  put(
+    index,
+    "identity/text-property/slug/held.jsonl",
+    `{"path":"${HELD_AT}","id":"${GENERATED_ID}"}\n`
+  )
+  put(
+    index,
+    "identity/page-type/slug/thing.jsonl",
+    `{"path":"${TYPE_AT}","id":"${GENERATED_ID}"}\n`
+  )
+  return root
+}
+
+test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
+  const said = omittingIn(THING_AT, WITHOUT, ["held", "seq"])
+  expect(said).toContain('satisfies Omit<Thing, "held" | "seq">')
+  expect(said?.split("\n").length).toBe(WITHOUT.split("\n").length)
+})
+
+test("the narrowing reaches for no import, `Omit` being TypeScript's own", () => {
+  const said = omittingIn(THING_AT, WITHOUT, ["held"]) ?? ""
+  expect(said.match(/^import/gm)).toEqual(WITHOUT.match(/^import/gm))
+})
+
+test("keys naming nothing narrow nothing at all", () => {
+  expect(omittingIn(THING_AT, WITHOUT, [])).toBe(null)
+})
+
+test("a body carrying no satisfies clause narrows to nothing, so it is judged as it stands", () => {
+  expect(omittingIn("akasha/one.ts", "export const one = 1\n", ["held"])).toBe(null)
+})
+
+test("a page being created compiles without the property a generator fills", () => {
+  expect(typecheck(leaving(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+})
+
+test("a page already standing is refused for dropping the property a generator fills", () => {
+  const said = typecheck(leaving(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("TS1360")
+})
+
+test("a page being created is still refused for what the narrowing does not cover", () => {
+  const said = typecheck(leaving(generating({}), { [THING_AT]: WRONG }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("TS2322")
+  expect(said[0]?.reason).toContain("not assignable")
+})
 
 test("akasha TypeScript that compiles is judged clean", () => {
   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })

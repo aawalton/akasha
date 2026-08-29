@@ -1,7 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries.module.code.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
+import { put } from "../../../testing-system/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
@@ -114,7 +116,8 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
     declaredFor(pageTypeSlug, read),
     property,
     `page-type/${pageTypeSlug}`,
-    formatting
+    formatting,
+    new Set<string>()
   )
 }
 
@@ -253,7 +256,8 @@ test("a format is asked for only where a property states one", () => {
     declaredFor("check", read),
     property,
     "page-type/check",
-    watching
+    watching,
+    new Set<string>()
   )
   expect(asked).toEqual([FORMAT])
 })
@@ -288,4 +292,76 @@ test("a file the corpus does not name as a page is passed over, whatever its bod
 
 test("a path outside the akasha folder is passed over, however it is named", () => {
   expect(judgedOver({ "shared/held.page-type.ts": "export const held = (\n" })).toEqual([])
+})
+
+test("a required property named as excused is not asked for, and the rest of them still are", () => {
+  const declared = declaredFor("check", read)
+  const held = { id: "a", slug: "one" }
+  const excusing = (slug: string): readonly string[] =>
+    reasonsIn(held, declared, property, "page-type/check", formatting, new Set([slug]))
+  expect(excusing("test")).toEqual([])
+  expect(excusing("id")).toEqual(["does not state `test`, which `page-type/check` requires"])
+})
+
+const GENERATED_ID = "01a04f2b-3d23-7798-beae-c2174eaf237f"
+
+const THING_ID = "01a04f2b-3d23-7840-8508-269224959e52"
+
+const THING_AT = "akasha/one.thing.ts"
+
+const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
+
+function generating(): string {
+  const root = scratch.rootFor("akasha-generating-")
+  put(
+    root,
+    "akasha/held.text-property.ts",
+    `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
+      ' slug: "held", generator: "uuid-v7" }\n'
+  )
+  put(
+    root,
+    "akasha/thing.page-type.ts",
+    `export const thing = { id: "${THING_ID}", pageTypeSlug: "page-type", slug: "thing",` +
+      ' extendsSlug: null, properties: [{ pagePropertySlug: "held", required: true, many: false },' +
+      ' { pagePropertySlug: "page-type-slug", required: true, many: false },' +
+      ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
+  )
+  const index = indexIn(root)
+  put(
+    index,
+    "schema/page-property/slug/held.jsonl",
+    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
+  )
+  put(
+    index,
+    "identity/text-property/slug/held.jsonl",
+    `{"path":"akasha/held.text-property.ts","id":"${GENERATED_ID}"}\n`
+  )
+  put(
+    index,
+    "identity/page-type/slug/thing.jsonl",
+    `{"path":"akasha/thing.page-type.ts","id":"${THING_ID}"}\n`
+  )
+  return root
+}
+
+function overThing(standing: boolean): readonly Judged[] {
+  const bytes = new TextEncoder().encode(THING_BODY)
+  return pageMatchesItsType({
+    root: generating(),
+    changed: [THING_AT],
+    at: (path) => (path === THING_AT ? bytes : null),
+    was: (path) => (standing && path === THING_AT ? bytes : null),
+  })
+}
+
+test("a page being created is not refused for a property a generator fills", () => {
+  expect(overThing(false)).toEqual([])
+})
+
+test("a page already standing is refused for dropping a property a generator fills", () => {
+  expect(overThing(true)).toEqual([
+    { path: THING_AT, reason: "does not state `held`, which `page-type/thing` requires" },
+  ])
 })
