@@ -1,0 +1,16 @@
+import type { Module } from "../code-system/module/module.page-type.ts"
+
+export const calling = {
+  id: "01a04bdd-596d-7b89-a6ed-1d12396208f3",
+  pageTypeSlug: "module",
+  slug: "calling",
+  definition: "a name from the command line answered by the command that carries it",
+  code: "ts",
+  test: "ts",
+  requiredReadingSlugs: [],
+  design: [
+    "A command and its page cannot drift apart, because the page names the export.",
+    "A name carried by more than one command is refused rather than chosen between.",
+    "A name no command carries is answered with the commands there are.",
+  ],
+} as const satisfies Module
