@@ -7,13 +7,11 @@ export const fileLength = {
   definition: "the check refusing a file whose body is over the byte ceiling",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "The ceiling is counted in bytes, so what a body costs to read does not depend on how it was encoded.",
+      statement: "The ceiling is counted in bytes, never in characters.",
     },
     {
       invariantKind: "departure",

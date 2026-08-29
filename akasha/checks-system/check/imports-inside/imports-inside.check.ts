@@ -7,7 +7,6 @@ export const importsInside = {
   definition: "the check refusing an akasha file that imports a file outside the akasha folder",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {

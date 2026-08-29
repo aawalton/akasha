@@ -1,6 +1,7 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -35,7 +36,7 @@ export function specifiersIn(path: string, text: string): readonly string[] {
   return found
 }
 
-export function requireImportExtension(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   if (!given.path.endsWith(TS)) return []
   const text = bodyOf(given)
   if (text === null) return []
@@ -46,4 +47,8 @@ export function requireImportExtension(given: Body): readonly string[] {
     said.push(`\`${one}\` is written without the \`.ts\` extension of the file it names`)
   }
   return said
+}
+
+export function requireImportExtension(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

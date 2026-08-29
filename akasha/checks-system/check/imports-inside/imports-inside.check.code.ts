@@ -1,7 +1,8 @@
 import { join } from "node:path"
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -53,7 +54,7 @@ function inside(landed: string): boolean {
   return landed === AKASHA || landed.startsWith(INSIDE)
 }
 
-export function importsInside(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   if (!given.path.endsWith(TS)) return []
   if (!given.path.startsWith(INSIDE)) return []
   const text = bodyOf(given)
@@ -67,4 +68,8 @@ export function importsInside(given: Body): readonly string[] {
     )
   }
   return said
+}
+
+export function importsInside(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

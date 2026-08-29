@@ -7,13 +7,11 @@ export const noCodeComments = {
   definition: "the check refusing a comment that is none of the code comment forms",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "A form earns its place by being parsed by a program, so a comment no program reads is prose whatever it says.",
+      statement: "A comment no program parses is prose, whatever it says.",
     },
     {
       invariantKind: "constraint",

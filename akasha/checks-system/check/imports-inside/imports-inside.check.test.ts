@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { importsInside, landingOf, specifiersIn } from "./imports-inside.check.code.ts"
+import { reasonsIn, landingOf, specifiersIn } from "./imports-inside.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -8,7 +8,7 @@ function given(at: string, body: string) {
 }
 
 test("a relative import landing inside the akasha folder is let through", () => {
-  const said = importsInside(
+  const said = reasonsIn(
     given(
       "akasha/write-system/landing.module.code.ts",
       'import { one } from "./reading.module.code.ts"\n'
@@ -18,7 +18,7 @@ test("a relative import landing inside the akasha folder is let through", () => 
 })
 
 test("a relative import climbing out of the akasha folder is refused, and names where it lands", () => {
-  const said = importsInside(
+  const said = reasonsIn(
     given(
       "akasha/write-system/landing.module.code.ts",
       'import { one } from "../../graph/page-index.ts"\n'
@@ -36,11 +36,11 @@ test("a package is not the akasha folder's business, however it is spelled", () 
     'import { test } from "bun:test"',
     'import one from "@shared/pages-query"',
   ].join("\n")
-  expect(importsInside(given("akasha/held.ts", body))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", body))).toEqual([])
 })
 
 test("a type-only import that leaves is refused the same as a value one", () => {
-  const said = importsInside(
+  const said = reasonsIn(
     given("akasha/held.ts", 'import type { One } from "../shared/verdict/verdict.ts"\n')
   )
   expect(said).toHaveLength(1)
@@ -52,51 +52,51 @@ test("a re-export, a dynamic import and a require are all specifiers", () => {
     'const two = await import("../b.ts")',
     'const three = require("../c.ts")',
   ].join("\n")
-  expect(importsInside(given("akasha/held.ts", body))).toHaveLength(3)
+  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(3)
 })
 
 test("a bare re-export naming everything is a specifier", () => {
-  expect(importsInside(given("akasha/held.ts", 'export * from "../a.ts"\n'))).toHaveLength(1)
+  expect(reasonsIn(given("akasha/held.ts", 'export * from "../a.ts"\n'))).toHaveLength(1)
 })
 
 test("an import written inside a type position is a specifier too", () => {
-  const said = importsInside(given("akasha/held.ts", 'export type One = import("../d.ts").Two\n'))
+  const said = reasonsIn(given("akasha/held.ts", 'export type One = import("../d.ts").Two\n'))
   expect(said).toHaveLength(1)
 })
 
 test("an import equals require is a specifier too", () => {
-  const said = importsInside(given("akasha/held.ts", 'import one = require("../e.ts")\n'))
+  const said = reasonsIn(given("akasha/held.ts", 'import one = require("../e.ts")\n'))
   expect(said).toHaveLength(1)
 })
 
 test("a file that is not TypeScript is passed over", () => {
-  expect(importsInside(given("akasha/notes.txt", 'import { one } from "../a.ts"\n'))).toEqual([])
+  expect(reasonsIn(given("akasha/notes.txt", 'import { one } from "../a.ts"\n'))).toEqual([])
 })
 
 test("a file outside the akasha folder is not this check's business", () => {
-  const said = importsInside(given("shared/held.ts", 'import { one } from "../other/a.ts"\n'))
+  const said = reasonsIn(given("shared/held.ts", 'import { one } from "../other/a.ts"\n'))
   expect(said).toEqual([])
 })
 
 test("a body that is not text is passed over rather than refused", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(importsInside(held)).toEqual([])
+  expect(reasonsIn(held)).toEqual([])
 })
 
 test("where a relative specifier lands is read from the file holding it", () => {
-  const deep = importsInside(
+  const deep = reasonsIn(
     given(
       "akasha/a/b/c/held.ts",
       'import { one } from "../../../write-system/corpus.module.code.ts"\n'
     )
   )
   expect(deep).toEqual([])
-  const out = importsInside(given("akasha/a/held.ts", 'import { one } from "../../outside.ts"\n'))
+  const out = reasonsIn(given("akasha/a/held.ts", 'import { one } from "../../outside.ts"\n'))
   expect(out).toHaveLength(1)
 })
 
 test("a sibling folder whose name begins with akasha is outside the akasha folder", () => {
-  const said = importsInside(
+  const said = reasonsIn(
     given("akasha/a/held.ts", 'import { one } from "../../akasha-notes/z.ts"\n')
   )
   expect(said).toHaveLength(1)
@@ -104,19 +104,19 @@ test("a sibling folder whose name begins with akasha is outside the akasha folde
 })
 
 test("a specifier climbing to the repo root is refused", () => {
-  expect(importsInside(given("akasha/held.ts", 'import { one } from "../root.ts"\n'))).toHaveLength(
+  expect(reasonsIn(given("akasha/held.ts", 'import { one } from "../root.ts"\n'))).toHaveLength(
     1
   )
 })
 
 test("an absolute specifier is refused, because no absolute path is inside the akasha folder", () => {
-  const said = importsInside(given("akasha/held.ts", 'import { one } from "/etc/held.ts"\n'))
+  const said = reasonsIn(given("akasha/held.ts", 'import { one } from "/etc/held.ts"\n'))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("/etc/held.ts")
 })
 
 test("a specifier is judged by where it lands, not by what is there", () => {
-  const said = importsInside(
+  const said = reasonsIn(
     given("akasha/held.ts", 'import { one } from "../never-written/at-all.ts"\n')
   )
   expect(said).toHaveLength(1)

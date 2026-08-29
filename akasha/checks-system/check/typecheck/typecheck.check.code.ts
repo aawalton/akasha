@@ -2,7 +2,7 @@ import { spawnSync } from "node:child_process"
 import { readdirSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { At } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -104,18 +104,28 @@ function ranOver(root: string): ReadonlyMap<string, readonly string[]> {
   return said
 }
 
-export function typecheck(given: At): readonly string[] {
-  if (!given.path.endsWith(TS)) return []
-  if (!given.path.startsWith(INSIDE)) return []
-  const said = ranOver(given.root)
+export function reasonsIn(root: string, at: string, takenAway: boolean): readonly string[] {
+  if (!at.endsWith(TS)) return []
+  if (!at.startsWith(INSIDE)) return []
+  const said = ranOver(root)
   const elsewhere: string[] = []
   for (const [path, every] of said) {
-    if (path === given.path) continue
+    if (path === at) continue
     for (const one of every) {
       elsewhere.push(
         `\`${path}\` ${one} — the akasha folder does not compile as this change leaves it`
       )
     }
   }
-  return [...(said.get(given.path) ?? []), ...elsewhere.sort()]
+  const own = takenAway ? [] : (said.get(at) ?? [])
+  return [...own, ...elsewhere.sort()]
+}
+
+export function typecheck(leaving: Leaving): readonly Judged[] {
+  const said: Judged[] = []
+  for (const path of leaving.changed) {
+    const takenAway = leaving.at(path) === null
+    for (const reason of reasonsIn(leaving.root, path, takenAway)) said.push({ path, reason })
+  }
+  return said
 }

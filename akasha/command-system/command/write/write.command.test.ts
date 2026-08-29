@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
-import { write } from "./write.command.code.ts"
+import { passedOver, write } from "./write.command.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -29,19 +29,35 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
+let minted = 0
+
 function checking(root: string, slug: string, body: string): void {
   const at = `akasha/checks-system/check/${slug}/${slug}.check.ts`
   const camel = slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
   put(
     root,
     at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  needs: "file",\n  runsOn: ["patch"],\n}\n`
+    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOn: ["patch"],\n}\n`
   )
   put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
-  put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000001" })}\n`)
+  minted = minted + 1
+  const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
+  put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
 }
 
-const REFUSES = 'export function refuses() {\n  return ["refused for the test"]\n}\n'
+const REFUSES =
+  "export function refuses(leaving) {\n" +
+  '  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))\n' +
+  "}\n"
+
+const ADMITS = "export function admits() {\n  return []\n}\n"
+
+const REFUSES_TAKING =
+  "export function refusesTaking(leaving) {\n" +
+  "  return leaving.changed\n" +
+  "    .filter((path) => leaving.at(path) === null)\n" +
+  '    .map((path) => ({ path, reason: "a check judged this going away" }))\n' +
+  "}\n"
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
@@ -139,6 +155,52 @@ test("a dry run over a change the checks refuse reports the refusal", () => {
   expect(said.refusals.join("\n")).toContain("refused for the test")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   rmSync(root, { recursive: true })
+})
+
+test("a check is handed a removal, and can refuse it", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
+  checking(root, "refuses-taking", REFUSES_TAKING)
+  const said = write(["--remove", "akasha/two.ts", "--dry-run"], givenIn(root))
+  expect(said.code).toBe(3)
+  expect(said.refusals.join("\n")).toContain("akasha/two.ts — a check judged this going away")
+  rmSync(root, { recursive: true })
+})
+
+test("that same check lets a written body through, so it refuses the going and not the arriving", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n" })
+  checking(root, "refuses-taking", REFUSES_TAKING)
+  const from = put(root, "body.txt", "proposed\n")
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  rmSync(root, { recursive: true })
+})
+
+test("a gate counts the removal it judged beside the body it wrote, so a move is not doubled", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
+  checking(root, "admits", ADMITS)
+  const from = put(root, "body.txt", "proposed\n")
+  const said = write(
+    [
+      "--file-path", "akasha/three.ts", "--content-file", from,
+      "--remove", "akasha/two.ts", "--dry-run",
+    ],
+    givenIn(root)
+  )
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("1 check passed over the 2 paths asked for")
+  rmSync(root, { recursive: true })
+})
+
+test("a pass names how many checks ran and how many paths they were handed", () => {
+  expect(passedOver(1, 1)).toBe("1 check passed over the 1 path asked for")
+  expect(passedOver(12, 6)).toBe("12 checks passed over the 6 paths asked for")
+  expect(passedOver(0, 2)).toBe(
+    "no check runs at this phase, so the 2 paths asked for went unjudged"
+  )
 })
 
 test("breaking the glass runs no check and says so in the commit", () => {

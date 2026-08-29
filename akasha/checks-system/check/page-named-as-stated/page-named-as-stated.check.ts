@@ -7,7 +7,6 @@ export const pageNamedAsStated = {
   definition: "the check refusing a page file named otherwise than the page names itself",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {

@@ -1,10 +1,8 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { Needs } from "./properties/needs.page-property-type.ts"
 import type { RunsOn } from "./properties/runs-on.page-property-type.ts"
 
 export type Check = Module & {
-  needs: Needs
   runsOn: RunsOn
 }
 
@@ -17,7 +15,8 @@ export const check = {
   design: [
     {
       invariantKind: "departure",
-      statement: "A check is handed what it says it needs and nothing more.",
+      statement:
+        "A check is handed the whole change, and decides for itself what work the change warrants.",
     },
     {
       invariantKind: "departure",

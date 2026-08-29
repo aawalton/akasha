@@ -7,7 +7,6 @@ export const noClass = {
   definition: "the check refusing a class that is not an error type",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {

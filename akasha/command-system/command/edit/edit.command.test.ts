@@ -36,19 +36,22 @@ function checking(root: string, slug: string, body: string): void {
   put(
     root,
     at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  needs: "file",\n  runsOn: ["patch"],\n}\n`
+    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOn: ["patch"],\n}\n`
   )
   put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
   put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000002" })}\n`)
 }
 
-const REFUSES = 'export function refuses() {\n  return ["refused for the test"]\n}\n'
+const REFUSES =
+  "export function refuses(leaving) {\n" +
+  '  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))\n' +
+  "}\n"
 
 const MARKS =
   'import { writeFileSync } from "node:fs"\n' +
   "\n" +
-  "export function marks(given) {\n" +
-  '  writeFileSync(`${given.root}/ran.txt`, "ran")\n' +
+  "export function marks(leaving) {\n" +
+  '  writeFileSync(`${leaving.root}/ran.txt`, "ran")\n' +
   "  return []\n" +
   "}\n"
 

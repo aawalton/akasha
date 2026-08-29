@@ -1,6 +1,7 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -63,11 +64,15 @@ function reasonFor(one: Found): string {
   return `line ${one.line} declares \`class ${one.named}\`, which extends \`${one.extending}\``
 }
 
-export function noClass(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   if (!given.path.endsWith(TS)) return []
   const text = bodyOf(given)
   if (text === null) return []
   return classesIn(given.path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)
+}
+
+export function noClass(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

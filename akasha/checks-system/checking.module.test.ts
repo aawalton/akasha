@@ -2,7 +2,15 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
-import { checksAt, checksIn, everyFileIn, everythingIn, judgingBy, onDisk } from "./checking.module.code.ts"
+import {
+  checksAt,
+  checksIn,
+  everyFileIn,
+  everythingIn,
+  judgingBy,
+  onDisk,
+  overEachFile,
+} from "./checking.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -11,7 +19,6 @@ const PAGES_AT = ".git/data/index/identity/page/id"
 function rootWith(
   named: readonly {
     readonly slug: string
-    readonly needs: string
     readonly runsOn: readonly string[]
     readonly body: string
   }[]
@@ -29,7 +36,6 @@ function rootWith(
       `export const ${camel} = {\n` +
         `  slug: "${one.slug}",\n` +
         `  code: "ts",\n` +
-        `  needs: "${one.needs}",\n` +
         `  runsOn: ${JSON.stringify(one.runsOn)},\n` +
         `}\n`
     )
@@ -43,26 +49,32 @@ function rootWith(
   return root
 }
 
-const REFUSES_ALL = `export function refusesAll() {\n  return ["refused"]\n}\n`
+const REFUSES_ALL =
+  "export function refusesAll(leaving) {\n" +
+  '  return leaving.changed.map((path) => ({ path, reason: "refused" }))\n' +
+  "}\n"
 
 const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
 
 const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 
+const REFUSES_TAKING =
+  "export function refusesTaking(leaving) {\n" +
+  "  return leaving.changed\n" +
+  "    .filter((path) => leaving.at(path) === null)\n" +
+  '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
+  "}\n"
+
 test("a check is found through the index rather than by walking the tree", () => {
-  const root = rootWith([
-    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
-  ])
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const found = checksIn(root)
   expect(found.map((one) => one.slug)).toEqual(["admits-all"])
-  expect(found[0]?.needs).toBe("file")
+  expect(found[0]?.page).toBe("akasha/checks-system/check/admits-all/admits-all.check.ts")
   rmSync(root, { recursive: true })
 })
 
-test("a check is run once for each changed file, and not for the rest of the tree", () => {
-  const root = rootWith([
-    { slug: "refuses-all", needs: "file", runsOn: ["patch"], body: REFUSES_ALL },
-  ])
+test("a check is run once over the whole change, and never over the rest of the tree", () => {
+  const root = rootWith([{ slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL }])
   writeFileSync(join(root, "one.ts"), "one")
   writeFileSync(join(root, "two.ts"), "two")
   const said = judgingBy(checksIn(root)).over({
@@ -74,8 +86,8 @@ test("a check is run once for each changed file, and not for the rest of the tre
   rmSync(root, { recursive: true })
 })
 
-test("a check that threw refuses the change it could not judge", () => {
-  const root = rootWith([{ slug: "throws", needs: "file", runsOn: ["patch"], body: THROWS }])
+test("a check that threw refuses the change it could not judge, and the refusal names its page", () => {
+  const root = rootWith([{ slug: "throws", runsOn: ["patch"], body: THROWS }])
   writeFileSync(join(root, "one.ts"), "one")
   const said = judgingBy(checksIn(root)).over({
     root,
@@ -83,27 +95,38 @@ test("a check that threw refuses the change it could not judge", () => {
     at: onDisk(root),
   })
   expect(said.length).toBe(1)
+  expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
   expect(said[0]?.reason).toContain("could not look")
   rmSync(root, { recursive: true })
 })
 
-test("a file the change took away is judged by nothing", () => {
-  const root = rootWith([
-    { slug: "refuses-all", needs: "file", runsOn: ["patch"], body: REFUSES_ALL },
-  ])
+test("a path the change takes away is handed to every check, and can be refused", () => {
+  const root = rootWith([{ slug: "refuses-taking", runsOn: ["patch"], body: REFUSES_TAKING }])
+  writeFileSync(join(root, "stays.ts"), "stays")
   const said = judgingBy(checksIn(root)).over({
     root,
-    changed: ["gone.ts"],
+    changed: ["gone.ts", "stays.ts"],
     at: onDisk(root),
   })
-  expect(said).toEqual([])
+  expect(said.map((one) => one.path)).toEqual(["gone.ts"])
+  expect(said[0]?.reason).toContain("may not be taken away")
+  rmSync(root, { recursive: true })
+})
+
+test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
+  const root = mkdtempSync(join(tmpdir(), "akasha-each-file-"))
+  writeFileSync(join(root, "here.ts"), "here")
+  const said = overEachFile({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root) }, (given) => [
+    `${given.path} holds ${given.bytes.length} bytes`,
+  ])
+  expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
   rmSync(root, { recursive: true })
 })
 
 test("a phase takes only the checks that state it", () => {
   const root = rootWith([
-    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
-    { slug: "refuses-all", needs: "file", runsOn: ["deploy"], body: REFUSES_ALL },
+    { slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL },
+    { slug: "refuses-all", runsOn: ["deploy"], body: REFUSES_ALL },
   ])
   const every = checksIn(root)
   expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
@@ -113,9 +136,7 @@ test("a phase takes only the checks that state it", () => {
 })
 
 test("audit takes a page and the files its own properties imply", () => {
-  const root = rootWith([
-    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
-  ])
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const every = everyFileIn(root)
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.ts")
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.code.ts")
@@ -123,9 +144,7 @@ test("audit takes a page and the files its own properties imply", () => {
 })
 
 test("audit reads the body of every file it takes", () => {
-  const root = rootWith([
-    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
-  ])
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const leaving = everythingIn(root)
   expect(leaving.root).toBe(root)
   expect(leaving.changed.length).toBeGreaterThan(0)
@@ -134,18 +153,14 @@ test("audit reads the body of every file it takes", () => {
 })
 
 test("a check page whose code is not there stops the whole run", () => {
-  const root = rootWith([
-    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
-  ])
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   rmSync(join(root, "akasha/checks-system/check/admits-all/admits-all.check.code.ts"))
   expect(() => checksIn(root)).toThrow("answers to nothing that can be run")
   rmSync(root, { recursive: true })
 })
 
-test("a check page stating no needs a runner can honour is refused", () => {
-  const root = rootWith([
-    { slug: "admits-all", needs: "tree", runsOn: ["patch"], body: ADMITS_ALL },
-  ])
-  expect(() => checksIn(root)).toThrow("states no `needs`")
+test("a check page stating no runsOn a runner can honour is refused", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["tree"], body: ADMITS_ALL }])
+  expect(() => checksIn(root)).toThrow("states no `runsOn`")
   rmSync(root, { recursive: true })
 })

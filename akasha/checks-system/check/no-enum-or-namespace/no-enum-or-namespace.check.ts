@@ -7,7 +7,6 @@ export const noEnumOrNamespace = {
   definition: "the check refusing an enum or a named namespace",
   code: "ts",
   test: "ts",
-  needs: "file",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {

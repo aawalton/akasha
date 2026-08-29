@@ -1,6 +1,7 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -24,9 +25,13 @@ function foundIn(at: string, text: string): readonly string[] {
   return found
 }
 
-export function noEnumOrNamespace(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   if (!given.path.endsWith(TS)) return []
   const text = bodyOf(given)
   if (text === null) return []
   return foundIn(given.path, text)
+}
+
+export function noEnumOrNamespace(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

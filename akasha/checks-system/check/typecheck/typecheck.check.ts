@@ -7,13 +7,11 @@ export const typecheck = {
   definition: "the check refusing TypeScript that does not compile",
   code: "ts",
   test: "ts",
-  needs: "path",
   runsOn: ["patch", "worktree", "deploy"],
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "The settings the compiler runs under are stated here, because a file stating them would be neither a page nor a page property's file.",
+      statement: "The settings the compiler runs under are stated here.",
     },
     {
       invariantKind: "constraint",
@@ -28,7 +26,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A diagnostic against a file the change did not touch is still reported, against every path the change holds, because the change lands whole and a refusal names a path its writer can act on.",
+        "A diagnostic against a file the change did not touch is still reported, against every path the change holds.",
     },
     {
       invariantKind: "departure",

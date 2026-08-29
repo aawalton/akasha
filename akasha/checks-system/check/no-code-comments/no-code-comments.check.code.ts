@@ -1,6 +1,7 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -90,7 +91,7 @@ function looksParsed(one: Found): boolean {
   return PARSED.some((marker) => said.startsWith(marker) || bare.startsWith(marker))
 }
 
-export function noCodeComments(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   if (!given.path.endsWith(TS)) return []
   const text = bodyOf(given)
   if (text === null) return []
@@ -101,4 +102,8 @@ export function noCodeComments(given: Body): readonly string[] {
     said.push(`line ${one.line} carries ${what}, which is none of the code comment forms`)
   }
   return said
+}
+
+export function noCodeComments(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

@@ -4,36 +4,19 @@ import { join } from "node:path"
 import { everyOfType, everyPage } from "../data-system/index/index-reading.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
-export type At = {
+export type Body = {
   readonly root: string
   readonly path: string
-}
-
-export type Body = At & {
   readonly bytes: Uint8Array
 }
 
-export type Needs = "path" | "file"
-
 export type Phase = "patch" | "worktree" | "deploy"
 
-type Given = {
-  path: At
-  file: Body
-}
-
-type Said = {
-  path: readonly string[]
-  file: readonly string[]
-}
-
-type RunOf<K extends Needs> = (given: Given[K]) => Said[K]
-
-export type Running = RunOf<"path"> | RunOf<"file">
+export type Running = (leaving: Leaving) => readonly Judged[]
 
 export type Gathered = {
   readonly slug: string
-  readonly needs: Needs
+  readonly page: string
   readonly runsOn: readonly Phase[]
   readonly run: Running
 }
@@ -59,12 +42,6 @@ export function pagesIn(root: string): readonly string[] {
 }
 
 const HELD_IN_A_FILE = ["code", "test"]
-
-function needsIn(value: Record<string, unknown>): Needs | null {
-  const said = value["needs"]
-  if (said === "path" || said === "file") return said
-  return null
-}
 
 function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   const said = value["runsOn"]
@@ -114,10 +91,6 @@ export function checksIn(root: string): readonly Gathered[] {
     if (stated === null) {
       throw new Error(`${path} is a check page, and answers to no \`${camel(slug)}\` a runner can read`)
     }
-    const needs = needsIn(stated)
-    if (needs === null) {
-      throw new Error(`${path} is a check page, and states no \`needs\` a runner can honour`)
-    }
     const runsOn = runsOnIn(stated)
     if (runsOn === null) {
       throw new Error(`${path} is a check page, and states no \`runsOn\` a runner can honour`)
@@ -127,7 +100,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${codeBeside(path)} answers to nothing that can be run`)
     }
-    found.push({ slug, needs, runsOn, run })
+    found.push({ slug, page: path, runsOn, run })
   }
   return found.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
@@ -136,30 +109,25 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
-function threw(slug: string, path: string, thrown: unknown): Judged {
-  const why = thrown instanceof Error ? thrown.message : String(thrown)
-  return {
-    path,
-    reason: `the check \`${slug}\` threw, so it judged nothing — ${why}`,
-  }
-}
-
-function overOne(one: Gathered, leaving: Leaving): readonly Judged[] {
+export function overEachFile(
+  leaving: Leaving,
+  judge: (given: Body) => readonly string[]
+): readonly Judged[] {
   const said: Judged[] = []
   for (const path of leaving.changed) {
     const bytes = leaving.at(path)
     if (bytes === null) continue
-    try {
-      const reasons =
-        one.needs === "path"
-          ? (one.run as RunOf<"path">)({ root: leaving.root, path })
-          : (one.run as RunOf<"file">)({ root: leaving.root, path, bytes })
-      for (const reason of reasons) said.push({ path, reason })
-    } catch (thrown) {
-      said.push(threw(one.slug, path, thrown))
-    }
+    for (const reason of judge({ root: leaving.root, path, bytes })) said.push({ path, reason })
   }
   return said
+}
+
+function threw(one: Gathered, thrown: unknown): Judged {
+  const why = thrown instanceof Error ? thrown.message : String(thrown)
+  return {
+    path: one.page,
+    reason: `the check \`${one.slug}\` threw, so it judged nothing — ${why}`,
+  }
 }
 
 export function everyFileIn(root: string): readonly string[] {
@@ -186,7 +154,13 @@ export function judgingBy(every: readonly Gathered[]): Judging {
     named: every.map((one) => one.slug),
     over: (leaving) => {
       const said: Judged[] = []
-      for (const one of every) said.push(...overOne(one, leaving))
+      for (const one of every) {
+        try {
+          said.push(...one.run(leaving))
+        } catch (thrown) {
+          said.push(threw(one, thrown))
+        }
+      }
       return said
     },
   }

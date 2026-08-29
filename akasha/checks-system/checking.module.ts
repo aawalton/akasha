@@ -26,17 +26,17 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "A check that threw refuses the change it could not judge, and the refusal names the check's own page, because a check that never ran named no file.",
+        "A check that threw refuses the change it could not judge, and the refusal names the check's own page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the change takes away is handed to every check, reading as a path whose body is nothing, so a removal is judged rather than passed over.",
+        "A path the change takes away is handed to every check, and reads there as a path whose body is nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Judging each standing body in turn is a helper a check reaches for, so a check that would judge a path the change takes away walks the change itself.",
+        "Judging each standing body in turn is a helper a check reaches for, and a check judging a path the change takes away walks the change itself.",
     },
     {
       invariantKind: "departure",

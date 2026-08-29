@@ -1,8 +1,9 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 
-const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
+const NAMED =/^(.+)\.([a-z0-9-]+)\.ts$/
 
 const SLUG = "slug"
 
@@ -54,7 +55,7 @@ export function pageIn(path: string, text: string): Stated | null {
   return null
 }
 
-export function pageNamedAsStated(given: Body): readonly string[] {
+export function reasonsIn(given: Body): readonly string[] {
   const name = given.path.slice(given.path.lastIndexOf("/") + 1)
   const said = NAMED.exec(name)
   if (said === null) return []
@@ -79,4 +80,8 @@ export function pageNamedAsStated(given: Body): readonly string[] {
     )
   }
   return found
+}
+
+export function pageNamedAsStated(leaving: Leaving): readonly Judged[] {
+  return overEachFile(leaving, reasonsIn)
 }

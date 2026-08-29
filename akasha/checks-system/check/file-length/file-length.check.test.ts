@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { CEILING, fileLength } from "./file-length.check.code.ts"
+import { CEILING, reasonsIn } from "./file-length.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -12,52 +12,52 @@ function sized(held: number): Uint8Array {
 }
 
 test("a body under the ceiling is let through", () => {
-  expect(fileLength(given("akasha/held.ts", sized(CEILING - 1)))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", sized(CEILING - 1)))).toEqual([])
 })
 
 test("a body exactly at the ceiling is let through, so the ceiling is the last size allowed", () => {
-  expect(fileLength(given("akasha/held.ts", sized(CEILING)))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", sized(CEILING)))).toEqual([])
 })
 
 test("a body over the ceiling is refused, and the reason names the size and the ceiling", () => {
-  const said = fileLength(given("akasha/held.ts", sized(CEILING + 1)))
+  const said = reasonsIn(given("akasha/held.ts", sized(CEILING + 1)))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("15,001 bytes")
   expect(said[0]).toContain("15,000 byte ceiling")
 })
 
 test("an empty body is let through", () => {
-  expect(fileLength(given("akasha/held.ts", sized(0)))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", sized(0)))).toEqual([])
 })
 
 test("the size counted is bytes rather than characters", () => {
   const one = new TextEncoder().encode("é".repeat(CEILING))
   expect(one.byteLength).toBe(CEILING * 2)
-  expect(fileLength(given("akasha/held.ts", one))).toHaveLength(1)
+  expect(reasonsIn(given("akasha/held.ts", one))).toHaveLength(1)
 })
 
 test("a body that is not text is judged by its size the same as one that is", () => {
   const held = sized(CEILING + 8)
   held[0] = 0xff
   held[1] = 0xfe
-  expect(fileLength(given("akasha/held.ts", held))).toHaveLength(1)
+  expect(reasonsIn(given("akasha/held.ts", held))).toHaveLength(1)
 })
 
 test("what the file is named changes nothing, because no kind of file is exempt", () => {
   const held = sized(CEILING + 1)
   for (const named of ["akasha/held.ts", "akasha/notes.txt", "akasha/data/held.jsonl"]) {
-    expect(fileLength(given(named, held))).toHaveLength(1)
+    expect(reasonsIn(given(named, held))).toHaveLength(1)
   }
 })
 
 test("a body far over the ceiling is refused once rather than once for each line", () => {
   const held = new TextEncoder().encode("one\n".repeat(CEILING))
-  expect(fileLength(given("akasha/held.ts", held))).toHaveLength(1)
+  expect(reasonsIn(given("akasha/held.ts", held))).toHaveLength(1)
 })
 
 test("where the file stands changes nothing, because the size is read from the body alone", () => {
   const held = sized(CEILING + 1)
-  const one = fileLength({ root: "/repo", path: "akasha/held.ts", bytes: held })
-  const two = fileLength({ root: "/elsewhere", path: "akasha/deep/down/held.ts", bytes: held })
+  const one = reasonsIn({ root: "/repo", path: "akasha/held.ts", bytes: held })
+  const two = reasonsIn({ root: "/elsewhere", path: "akasha/deep/down/held.ts", bytes: held })
   expect(one).toEqual(two)
 })

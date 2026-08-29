@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join, relative, resolve } from "node:path"
-import { judgingIn } from "../../../checks-system/checking.module.code.ts"
+import { checksAt, checksIn, judgingBy } from "../../../checks-system/checking.module.code.ts"
 import type { Judged, Judging } from "../../../checks-system/judging.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change, Landed } from "../../landing.module.code.ts"
@@ -201,8 +201,8 @@ function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   }
 }
 
-function judgingFor(root: string, asked: Asked): Judging {
-  const held: Judging = asked.glass === null ? judgingIn(root, PATCH) : { named: [], over: () => [] }
+function gateFor(root: string, asked: Asked): Judging {
+  const held = judgingBy(asked.glass === null ? checksAt(checksIn(root), PATCH) : [])
   return asked.unmoved.length === 0 ? held : alsoUnmoved(held, asked.unmoved)
 }
 
@@ -225,9 +225,20 @@ function reportOf(said: Landed, asked: Asked): readonly string[] {
   return found
 }
 
-function reporting(root: string, asked: Asked, judging: Judging): Answer {
+export function counted(many: number, one: string): string {
+  return `${many} ${one}${many === 1 ? "" : "s"}`
+}
+
+export function passedOver(checks: number, paths: number): string {
+  if (checks === 0) {
+    return `no check runs at this phase, so the ${counted(paths, "path")} asked for went unjudged`
+  }
+  return `${counted(checks, "check")} passed over the ${counted(paths, "path")} asked for`
+}
+
+function reporting(root: string, asked: Asked, gate: Judging): Answer {
   const said = holding(root, () =>
-    judging.over(leavingOf(root, { base: baseOf(root), changed: asked.changes }))
+    gate.over(leavingOf(root, { base: baseOf(root), changed: asked.changes }))
   )
   if (said.length > 0) {
     return {
@@ -241,7 +252,7 @@ function reporting(root: string, asked: Asked, judging: Judging): Answer {
   }
   return {
     report: [
-      `every check passed over ${asked.changes.length} change(s)`,
+      passedOver(gate.named.length, asked.changes.length),
       `nothing was written — ${DRY_RUN}`,
     ],
     refusals: [],
@@ -255,9 +266,9 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
-  const judging = judgingFor(given.root, asked)
-  if (asked.dryRun) return reporting(given.root, asked, judging)
-  const said = landing(given.root, asked.changes, messageWith(asked), judging, given.writer)
+  const gate = gateFor(given.root, asked)
+  if (asked.dryRun) return reporting(given.root, asked, gate)
+  const said = landing(given.root, asked.changes, messageWith(asked), gate, given.writer)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   return { report: reportOf(said, asked), refusals: [], code: 0 }
 }

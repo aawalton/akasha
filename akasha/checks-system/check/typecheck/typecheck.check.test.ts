@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { everyIn, foundIn, typecheck } from "./typecheck.check.code.ts"
+import { everyIn, foundIn, reasonsIn, typecheck } from "./typecheck.check.code.ts"
 
 function staged(files: Readonly<Record<string, string>>): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-typecheck-"))
@@ -12,7 +12,11 @@ function staged(files: Readonly<Record<string, string>>): string {
 }
 
 function over(root: string, path: string) {
-  return typecheck({ root, path })
+  return reasonsIn(root, path, false)
+}
+
+function taking(root: string, path: string) {
+  return reasonsIn(root, path, true)
 }
 
 test("akasha TypeScript that compiles is judged clean", () => {
@@ -61,6 +65,38 @@ test("an index read without a guard is refused, so the settings are the strict o
   const said = over(root, "akasha/one.ts")
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("undefined")
+  rmSync(root, { recursive: true })
+})
+
+test("a file the change takes away answers for none of its own diagnostics", () => {
+  const root = staged({
+    "akasha/one.ts": "export const one: number = 1\nexport const two: string = one\n",
+  })
+  expect(over(root, "akasha/one.ts")).toHaveLength(1)
+  expect(taking(root, "akasha/one.ts")).toEqual([])
+  rmSync(root, { recursive: true })
+})
+
+test("a file the change takes away is still told what its going leaves broken elsewhere", () => {
+  const root = staged({
+    "akasha/held.ts": "export function held(one: string): string {\n  return one\n}\n",
+    "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
+  })
+  const said = taking(root, "akasha/held.ts")
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`akasha/calls.ts`")
+  rmSync(root, { recursive: true })
+})
+
+test("the check reads a path with no body as a path the change takes away", () => {
+  const root = staged({
+    "akasha/held.ts": "export function held(one: string): string {\n  return one\n}\n",
+    "akasha/calls.ts": 'import { held } from "./held.ts"\nexport const one = held(1)\n',
+  })
+  const said = typecheck({ root, changed: ["akasha/held.ts"], at: () => null })
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/held.ts")
+  expect(said[0]?.reason).toContain("`akasha/calls.ts`")
   rmSync(root, { recursive: true })
 })
 
