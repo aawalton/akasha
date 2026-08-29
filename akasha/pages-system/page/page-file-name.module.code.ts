@@ -30,11 +30,6 @@ export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean
   return said !== null && pageTypes.has(said.tail)
 }
 
-export function propertyNamed(path: string, fileProperties: ReadonlySet<string>): boolean {
-  const said = namedIn(path)
-  return said !== null && fileProperties.has(said.tail)
-}
-
 export function heldIn(
   path: string,
   pageTypes: ReadonlySet<string>,

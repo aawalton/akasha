@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { heldIn, namedIn, pageNamed, propertyNamed } from "./page-file-name.module.code.ts"
+import { heldIn, namedIn, pageNamed } from "./page-file-name.module.code.ts"
 
 const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 
@@ -31,11 +31,6 @@ test("a tail is a page only where the sets handed in say so", () => {
   expect(pageNamed("one.check.ts", PAGE_TYPES)).toBe(true)
   expect(pageNamed("one.folder-shape.ts", PAGE_TYPES)).toBe(false)
   expect(pageNamed("one.folder-shape.ts", new Set(["folder-shape"]))).toBe(true)
-})
-
-test("a tail is a property only where the sets handed in say so", () => {
-  expect(propertyNamed("one.check.code.ts", FILE_PROPERTIES)).toBe(true)
-  expect(propertyNamed("one.check.ts", FILE_PROPERTIES)).toBe(false)
 })
 
 test("a page file is held as a page, carrying its slug and its page type", () => {
