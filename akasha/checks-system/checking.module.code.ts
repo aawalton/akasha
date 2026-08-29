@@ -1,6 +1,7 @@
-import { existsSync, readFileSync, readdirSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { everyOfType, everyPage } from "../data-system/index/index-reading.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type At = {
@@ -37,13 +38,7 @@ export type Gathered = {
   readonly run: Running
 }
 
-const INDEX_AT = ".git/data/index"
-
-const CHECKS_AT = "identity/check/slug"
-
-const PAGES_AT = "identity/page/id"
-
-const ENDING = ".jsonl"
+const CHECK = "check"
 
 const reach_ = createRequire(import.meta.url)
 
@@ -55,27 +50,12 @@ export function codeBeside(path: string): string {
   return `${path.slice(0, -".ts".length)}.code.ts`
 }
 
-function filedUnder(root: string, at: string): readonly string[] {
-  const dir = join(root, INDEX_AT, at)
-  if (!existsSync(dir)) return []
-  const found: string[] = []
-  for (const name of readdirSync(dir)) {
-    if (!name.endsWith(ENDING)) continue
-    for (const line of readFileSync(join(dir, name), "utf8").split("\n")) {
-      if (line === "") continue
-      const said = JSON.parse(line) as { readonly path?: unknown }
-      if (typeof said.path === "string") found.push(said.path)
-    }
-  }
-  return [...new Set(found)].sort()
-}
-
 export function checkPagesIn(root: string): readonly string[] {
-  return filedUnder(root, CHECKS_AT)
+  return [...new Set(everyOfType(root, CHECK).map((one) => one.path))].sort()
 }
 
 export function pagesIn(root: string): readonly string[] {
-  return filedUnder(root, PAGES_AT)
+  return [...new Set(everyPage(root).map((one) => one.path))].sort()
 }
 
 const HELD_IN_A_FILE = ["code", "test"]
