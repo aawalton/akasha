@@ -27,7 +27,6 @@ export const folderShape = {
   definition: "a shape a folder is allowed to have",
   partSlugs: [
     "folder-shape/one-page-with-its-properties",
-    "folder-shape/page-with-its-parts",
     "folder-shape/pages-of-one-type",
     "folder-shape/property-pages-only",
     "folder-shape/single-entrance",
