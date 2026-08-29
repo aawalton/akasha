@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, realpathSync, statSync } from "node:fs"
 import { dirname, resolve } from "node:path"
+import { SEAT_DIR } from "../../agent/places.ts"
 
 export const SEAT_MODE_KEY = "start-mode"
 
@@ -20,7 +21,7 @@ export function seatPagesDir(): string {
   }
   const stated = process.env.AKASHA_ROOT
   const akasha = stated === undefined || stated === "" ? `${dirname(here)}/akasha` : stated
-  return `${akasha}/agent/seat`
+  return `${akasha}/${SEAT_DIR}`
 }
 
 function seatPageNamed(key: string, value: string): string {

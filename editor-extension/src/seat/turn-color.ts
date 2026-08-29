@@ -1,4 +1,5 @@
 import * as path from 'node:path';
+import { SEAT_DIR } from '../../../agent/places.ts';
 import { duringOneCall } from '../../../during-call/during-call.ts';
 import { colorsOf } from '../../../tools/lib/agent-turn-drawn.ts';
 import { akashaRoot, repositoryPath } from '../harness-call.ts';
@@ -6,7 +7,7 @@ import { colorNamed } from '../palette.ts';
 
 export const SEAT_SIDECAR_GLOB = '*.uncommitted.yaml';
 
-const AKASHA_SEAT_DIR = path.join('agent', 'seat');
+const AKASHA_SEAT_DIR = SEAT_DIR;
 
 export function seatDirs(): readonly string[] {
 	return [repositoryPath(seatPagesDir())];

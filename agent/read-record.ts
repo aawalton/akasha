@@ -2,14 +2,15 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { parse } from "yaml"
 import { akashaRoot } from "../repo/roots/roots.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
+import { SEAT_DIR, SUBAGENT_DIR } from "./places.ts"
 import { SUBAGENT_MARK } from "./writer.ts"
 
 function seatDir(): string {
-  return `${akashaRoot()}/agent/seat`
+  return `${akashaRoot()}/${SEAT_DIR}`
 }
 
 function subagentDir(): string {
-  return `${akashaRoot()}/agent/subagent`
+  return `${akashaRoot()}/${SUBAGENT_DIR}`
 }
 
 const SEAT_SUFFIX = ".seat.md"

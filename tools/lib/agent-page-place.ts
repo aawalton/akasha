@@ -1,3 +1,4 @@
+import { SEAT_DIR, SUBAGENT_DIR } from "../../agent/places.ts"
 import { type Roots } from "../../page/page.ts"
 import { resolveRoots } from "../../repo/roots/roots.ts"
 
@@ -6,9 +7,9 @@ export interface Place {
   readonly dir: string
 }
 
-const AKASHA_SEAT: Place = { repo: "akasha", dir: "agent/seat" }
+const AKASHA_SEAT: Place = { repo: "akasha", dir: SEAT_DIR }
 
-const AKASHA_SUBAGENT: Place = { repo: "akasha", dir: "agent/subagent" }
+const AKASHA_SUBAGENT: Place = { repo: "akasha", dir: SUBAGENT_DIR }
 
 export const SEAT_PLACES: readonly Place[] = [AKASHA_SEAT]
 
