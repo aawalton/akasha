@@ -1,11 +1,9 @@
 import ts from "typescript"
 import type { Body } from "../../checking.module.code.ts"
-import { bodyOf, overEachFile } from "../../checking.module.code.ts"
+import { HELD_IN_A_FILE, bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const NAMED =/^(.+)\.([a-z0-9-]+)\.ts$/
-
-const HELD_IN_A_FILE = ["code", "test"]
 
 const SLUG = "slug"
 

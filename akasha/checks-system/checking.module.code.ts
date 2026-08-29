@@ -41,7 +41,7 @@ export function pagesIn(root: string): readonly string[] {
   return [...new Set(everyPage(root).map((one) => one.path))].sort()
 }
 
-const HELD_IN_A_FILE = ["code", "test"]
+export const HELD_IN_A_FILE = ["code", "test"]
 
 function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   const said = value["runsOn"]
