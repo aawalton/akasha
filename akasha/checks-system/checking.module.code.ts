@@ -1,9 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { basename, join } from "node:path"
+import { join } from "node:path"
 import { everyOfType, everyPath, indexIn } from "../pages-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
-import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
+import { besideAt, namedIn } from "../pages-system/page/page-file-name.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type Body = {
@@ -94,15 +94,14 @@ function runningIn(at: string, slug: string): Running | null {
   return every.length === 1 && every[0] !== undefined ? (every[0] as Running) : null
 }
 
-function slugOf(path: string): string {
-  const name = basename(path)
-  return name.slice(0, name.indexOf("."))
-}
-
 export function checksIn(root: string): readonly Gathered[] {
   const found: Gathered[] = []
   for (const path of checkPagesIn(root)) {
-    const slug = slugOf(path)
+    const said = namedIn(path)
+    if (said === null) {
+      throw new Error(`${path} is a check page, and its name says no slug a runner can read`)
+    }
+    const slug = said.stem
     const full = join(root, path)
     const stated = statedIn(full, slug)
     if (stated === null) {

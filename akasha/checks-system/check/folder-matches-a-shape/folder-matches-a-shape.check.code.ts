@@ -1,5 +1,5 @@
 import { createRequire } from "node:module"
-import { basename, join } from "node:path"
+import { join } from "node:path"
 import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts"
 import {
   filePropertiesAt,
@@ -15,7 +15,7 @@ import {
   indexIn,
 } from "../../../pages-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
-import { besideAt, heldIn } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { besideAt, heldIn, namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import type { Judging, Standing } from "./shapes/folder-shape.page-type.ts"
@@ -31,11 +31,6 @@ const reach_ = createRequire(import.meta.url)
 export type Shape = {
   readonly slug: string
   readonly judge: Judging
-}
-
-function slugOf(path: string): string {
-  const name = basename(path)
-  return name.slice(0, name.indexOf("."))
 }
 
 export function folderOf(path: string): string {
@@ -78,7 +73,11 @@ export function edgesOf(root: string, path: string, bytes: Uint8Array | null): R
 export function shapesIn(root: string): readonly Shape[] {
   const found: Shape[] = []
   for (const one of everyOfType(root, SHAPE)) {
-    const slug = slugOf(one.path)
+    const said = namedIn(one.path)
+    if (said === null) {
+      throw new Error(`${one.path} is a folder shape, and its name says no slug`)
+    }
+    const slug = said.stem
     const beside = besideAt(one.path, CODE, TS)
     if (beside === null) {
       throw new Error(
