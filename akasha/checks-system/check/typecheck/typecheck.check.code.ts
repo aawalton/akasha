@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
+import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
 import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
@@ -126,7 +127,7 @@ export function bodiesOf(leaving: Leaving, minting: Minting): (at: string) => st
     const bytes = rel === null ? null : leaving.at(rel)
     let said: string | undefined
     if (rel === null) said = ts.sys.readFile(at)
-    else if (bytes !== null) said = minting(rel, new TextDecoder().decode(bytes))
+    else if (bytes !== null) said = minting(rel, textIn(bytes))
     held.set(at, said)
     return said
   }

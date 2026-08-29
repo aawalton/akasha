@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
 import type { Summary, Verdict } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { ranOver, testsUnder } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
@@ -79,7 +80,7 @@ export function bounded(output: string): readonly string[] {
   const bytes = new TextEncoder().encode(output)
   if (bytes.length <= ANSWER_CEILING) return output.split("\n")
   const dropped = bytes.length - ANSWER_CEILING
-  const kept = new TextDecoder().decode(bytes.subarray(dropped))
+  const kept = textIn(bytes.subarray(dropped))
   return [
     `the first ${dropped} bytes of this run are not here — one answer holds ${ANSWER_CEILING}, and ` +
       "the end is where the summary stands. Name fewer paths to see the rest.",
