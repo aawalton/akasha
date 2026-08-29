@@ -1,100 +1,46 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { stampKept } from "../../../pages-system/index/index-stamp.module.code.ts"
-import type { Given } from "../../calling.module.code.ts"
-import { admitting, refusing } from "../../minting.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import { refusing } from "../../minting.module.code.ts"
+import { move, PATHS_AT, pairsIn, repointed, surface, underAkasha } from "./move.command.code.ts"
 import {
-  IMPORTS_AT,
-  move,
-  PATHS_AT,
-  pairsIn,
-  repointed,
-  surface,
-  underAkasha,
-} from "./move.command.code.ts"
-
-const scratch = scratchWorld()
+  AAAA,
+  ARRIVES,
+  CODE,
+  claiming,
+  DEEP,
+  DEEPER,
+  git,
+  givenIn,
+  HELD,
+  HOLDER,
+  head,
+  importing,
+  NAMER,
+  naming,
+  OTHER,
+  PAGE,
+  PAIR,
+  READER,
+  RENAME,
+  repoWith,
+  SPELLS,
+  scratch,
+  stands,
+  TARGET,
+  THREE,
+} from "./move.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
+function renamed(root: string): string {
+  const said = move(RENAME, givenIn(root))
+  const why = said.refusals.join("\n")
+  expect(said.code).toBe(1)
+  expect(why).toContain("renaming is not a move")
+  expect(stands(root, HELD)).toBe(true)
+  return why
 }
-
-function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = scratch.rootFor("akasha-move-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    const at = join(root, path)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, body)
-  }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
-  admitting(root)
-  return root
-}
-
-function givenIn(root: string): Given {
-  return { root, calledAs: "akasha move", from: root, writer: null, agentId: null }
-}
-
-function stands(root: string, path: string): boolean {
-  return existsSync(join(root, path))
-}
-
-function head(root: string): string {
-  return git(root, ["rev-parse", "HEAD"]).trim()
-}
-
-function importing(root: string, target: string, importers: readonly string[]): void {
-  const at = join(root, IMPORTS_AT, `${target}.jsonl`)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, importers.map((path) => `${JSON.stringify({ path })}\n`).join(""))
-  stampKept(join(root, ".git/data/index"), { commit: head(root), tree: "akasha", settled: [] })
-}
-
-const HELD = "akasha/one/held.module.ts"
-
-const THREE = "akasha/three/held.module.ts"
-
-const DEEP = "akasha/one/deep/held.module.ts"
-
-const PAIR = ["--from", HELD, "--to", THREE]
-
-const PAGE = `export const held = {
-  id: "01a04bed-1450-7000-8000-00000000aaaa",
-  pageTypeSlug: "module",
-  slug: "held",
-  definition: "a page carried across a move",
-}
-`
-
-const CODE = `import ts from "typescript"
-import { other } from "../two/other.module.code.ts"
-
-export const held = { ts, other }
-`
-
-const OTHER = `export const other = 1\n`
-
-const HOLDER = "akasha/one/held.module.code.ts"
-
-const TARGET = "akasha/two/other.module.code.ts"
-
-const ARRIVES = "akasha/four/other.module.code.ts"
-
-const DEEPER = "akasha/one/deep/held.module.code.ts"
-
-const NAMER = "akasha/five/namer.module.code.ts"
-
-const SPELLS = `export const at = "akasha/two/other.module.code.ts"\n`
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
   const root = repoWith({ [HELD]: PAGE })
@@ -153,7 +99,9 @@ test("a file moving in the same act is repointed from its body, not as an import
   const carry = ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER]
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(readFileSync(join(root, DEEPER), "utf8")).toContain('from "../../four/other.module.code.ts"')
+  expect(readFileSync(join(root, DEEPER), "utf8")).toContain(
+    'from "../../four/other.module.code.ts"'
+  )
   expect(said.report.join("\n")).toContain("no file naming what moved needed repointing")
 })
 
@@ -164,33 +112,6 @@ test("an unanswerable index leaves the importers as they stand and says so", () 
   expect(readFileSync(join(root, HOLDER), "utf8")).toBe(CODE)
   expect(said.report.join("\n")).toContain("what names the moved files could not be answered")
 })
-
-const AAAA = "01a04bed-1450-7000-8000-00000000aaaa"
-
-const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
-
-const READER = "akasha/elsewhere/reader.module.ts"
-
-function claiming(root: string, path: string, ids: readonly string[]): void {
-  const at = join(root, PATHS_AT, `${path}.jsonl`)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, ids.map((id) => `${JSON.stringify({ path, id })}\n`).join(""))
-}
-
-function naming(root: string, id: string): void {
-  const at = join(root, ".git/data/index/relation/page/id", id, "required-reading-slugs")
-  mkdirSync(at, { recursive: true })
-  writeFileSync(join(at, `${AAAA}.jsonl`), `${JSON.stringify({ path: READER })}\n`)
-}
-
-function renamed(root: string): string {
-  const said = move(RENAME, givenIn(root))
-  const why = said.refusals.join("\n")
-  expect(said.code).toBe(1)
-  expect(why).toContain("renaming is not a move")
-  expect(stands(root, HELD)).toBe(true)
-  return why
-}
 
 test("a rename names what names the file, and only where the index answers one page", () => {
   const root = repoWith({ [HELD]: PAGE })

@@ -8,6 +8,7 @@ export const move = {
     "files carried to new paths, with what they name and what names them repointed in the same act",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   mechanical: true,
   invariants: [
     {
