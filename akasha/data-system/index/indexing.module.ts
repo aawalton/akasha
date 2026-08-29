@@ -14,5 +14,8 @@ export const indexing = {
   design: [
     "A page's body can be loaded after the file it came from is gone.",
     "An index file is replaced whole, never appended to.",
+    "Identity is settled for every page in a write before any relation is.",
+    "A property's target is read from the index rather than from the corpus.",
+    "A value that narrows to more than one page is refused, never resolved to one of them.",
   ],
 } as const satisfies Module
