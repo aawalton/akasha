@@ -43,6 +43,7 @@ export const check = {
     "check/page-matches-its-type",
     "check/page-named-as-stated",
     "check/page-property-has-its-file",
+    "check/property-is-declared-by-a-type",
     "check/relation-resolves",
     "check/require-import-extension",
     "check/tests-pass",
