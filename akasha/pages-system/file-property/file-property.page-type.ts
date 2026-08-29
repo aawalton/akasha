@@ -1,5 +1,5 @@
+import type { PageProperty } from "../page-property/page-property.page-type.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
-import type { PageProperty } from "./page-property.page-type.ts"
 
 export type FileProperty = PageProperty
 

@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../page-property/boolean-property.page-type.ts"
+import type { BooleanProperty } from "../../boolean-property/boolean-property.page-type.ts"
 
 export type Mortal = boolean
 

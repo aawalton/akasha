@@ -1,4 +1,4 @@
-import type { FileProperty } from "../../../pages-system/page-property/file-property.page-type.ts"
+import type { FileProperty } from "../../../pages-system/file-property/file-property.page-type.ts"
 
 export type Test = "ts"
 

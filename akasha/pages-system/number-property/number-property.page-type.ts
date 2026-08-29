@@ -1,6 +1,6 @@
+import type { PageProperty } from "../page-property/page-property.page-type.ts"
+import type { Max } from "../page-property/properties/max.number-property.ts"
 import type { PageType } from "../page-type/page-type.page-type.ts"
-import type { PageProperty } from "./page-property.page-type.ts"
-import type { Max } from "./properties/max.number-property.ts"
 
 export type NumberProperty = PageProperty & {
   max: Max | null

@@ -1,5 +1,5 @@
 import type { List } from "../../../pages-system/page-property/page-property.page-type.ts"
-import type { RecordProperty } from "../../../pages-system/page-property/record-property.page-type.ts"
+import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
 import type { InvariantKind } from "./invariant-kind.relation-property.ts"
 import type { Statement } from "./statement.text-property.ts"
 

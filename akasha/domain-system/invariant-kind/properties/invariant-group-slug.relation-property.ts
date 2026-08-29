@@ -1,5 +1,5 @@
 import type { Slug } from "../../../pages-system/page/properties/slug.text-property.ts"
-import type { RelationProperty } from "../../../pages-system/page-property/relation-property.page-type.ts"
+import type { RelationProperty } from "../../../pages-system/relation-property/relation-property.page-type.ts"
 
 export type InvariantGroupSlug = Slug
 

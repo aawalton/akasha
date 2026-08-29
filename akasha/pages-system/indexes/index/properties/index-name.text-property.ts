@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../../page-property/text-property.page-type.ts"
+import type { TextProperty } from "../../../text-property/text-property.page-type.ts"
 
 export type IndexName = string
 

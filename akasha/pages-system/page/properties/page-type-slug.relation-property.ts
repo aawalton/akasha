@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../../page-property/relation-property.page-type.ts"
+import type { RelationProperty } from "../../relation-property/relation-property.page-type.ts"
 import type { Slug } from "./slug.text-property.ts"
 
 export type PageTypeSlug = Slug

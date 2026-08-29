@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../number-property.page-type.ts"
+import type { NumberProperty } from "../../number-property/number-property.page-type.ts"
 
 export type Total = number
 

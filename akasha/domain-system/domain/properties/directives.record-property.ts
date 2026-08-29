@@ -1,5 +1,5 @@
 import type { List } from "../../../pages-system/page-property/page-property.page-type.ts"
-import type { RecordProperty } from "../../../pages-system/page-property/record-property.page-type.ts"
+import type { RecordProperty } from "../../../pages-system/record-property/record-property.page-type.ts"
 import type { Act } from "./act.text-property.ts"
 import type { Aids } from "./aids.text-property.ts"
 import type { DirectiveKind } from "./directive-kind.relation-property.ts"

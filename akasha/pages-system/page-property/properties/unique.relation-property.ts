@@ -1,4 +1,4 @@
-import type { RelationProperty } from "../relation-property.page-type.ts"
+import type { RelationProperty } from "../../relation-property/relation-property.page-type.ts"
 
 export type Unique = "always" | "page-type"
 
