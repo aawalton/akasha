@@ -29,27 +29,30 @@ function filed(root: string, at: string, line: string): void {
   writeFileSync(full, `${line}\n`, "utf8")
 }
 
+function property(root: string, slug: string, pageTypeSlug: string, unique: string | null): void {
+  filed(
+    root,
+    join("schema", "page-property", "slug", `${slug}.jsonl`),
+    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, unique })
+  )
+}
+
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = scratch.rootFor("akasha-property-filed-")
   for (const one of ["module", "check", "domain", "page-type"]) {
     filed(
       root,
       join("identity", "page-type", "slug", `${one}.jsonl`),
-      JSON.stringify({ path: "", id: "" })
+      JSON.stringify({
+        path: `akasha/t/${one}.page-type.ts`,
+        id: `${ID.slice(0, -1)}${one.length}`,
+      })
     )
   }
-  for (const one of fileProperties) {
-    filed(
-      root,
-      join("schema", "page-property", "slug", `${one}.jsonl`),
-      JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null })
-    )
-  }
-  filed(
-    root,
-    join("schema", "page-property", "slug", "definition.jsonl"),
-    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
-  )
+  property(root, "id", "text-property", "always")
+  property(root, "slug", "text-property", "page-type")
+  for (const one of fileProperties) property(root, one, "file-property", null)
+  property(root, "definition", "text-property", null)
   return root
 }
 
@@ -61,9 +64,14 @@ function landed(root: string): void {
   for (const one of [PAGE, CODE]) claiming(root, one, PAGE)
 }
 
-function body(stated: string, slug: string = "held"): Uint8Array {
+function body(
+  stated: string,
+  slug: string = "held",
+  pageTypeSlug: string = "module",
+  id: string = ID
+): Uint8Array {
   return new TextEncoder().encode(
-    `export const it = { id: "${ID}", slug: "${slug}", pageTypeSlug: "module"${stated} }\n`
+    `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
   )
 }
 
@@ -72,13 +80,12 @@ function over(
   changed: readonly string[],
   bodies: Record<string, Uint8Array | null>
 ): Leaving {
-  const at = (path: string): Uint8Array | null =>
-    path in bodies ? (bodies[path] ?? null) : new Uint8Array(0)
   return {
     root,
     changed,
-    at,
-    was: at,
+    at: (path: string): Uint8Array | null =>
+      path in bodies ? (bodies[path] ?? null) : new Uint8Array(0),
+    was: (): null => null,
   }
 }
 
@@ -147,6 +154,39 @@ test("which properties are held in a file is read from the index, not from a lis
   ])
 })
 
+test("a page named for a page type the change itself carries is judged", () => {
+  const root = rooted()
+  const type = "akasha/x/oddity.page-type.ts"
+  const page = "akasha/b/new.oddity.ts"
+  const code = "akasha/b/new.oddity.code.ts"
+  const said = pagePropertyHasItsFile(
+    over(root, [type, page], {
+      [type]: body("", "oddity", "page-type", `${ID.slice(0, -1)}5`),
+      [page]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
+      [code]: null,
+    })
+  )
+  expect(said).toEqual([
+    { path: page, reason: `states \`code: "ts"\`, and no file stands at ${code}` },
+  ])
+})
+
+test("a file property the change itself introduces is asked for its file", () => {
+  const root = rooted(["code"])
+  const property = "akasha/x/notes.file-property.ts"
+  const notes = "akasha/a/held.module.notes.md"
+  const said = pagePropertyHasItsFile(
+    over(root, [property, PAGE], {
+      [property]: body("", "notes", "file-property", `${ID.slice(0, -1)}7`),
+      [PAGE]: body(', notes: "md"'),
+      [notes]: null,
+    })
+  )
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`notes: "md"\`, and no file stands at ${notes}` },
+  ])
+})
+
 test("a property whose shape is not a file is not asked for a file", () => {
   const root = rooted(["code"])
   expect(
@@ -190,6 +230,12 @@ test("the pages to judge are the pages in the change and the pages the index say
     "akasha/b/new.module.ts",
   ])
   expect(pagesTouchedBy(over(root, ["akasha/a/loose.txt"], {}), pageTypes)).toEqual([])
+})
+
+test("which pages carry a changed path is read from the index as it stands, whatever the change leaves", () => {
+  const root = rooted()
+  landed(root)
+  expect(pagesTouchedBy(over(root, [CODE], {}), new Set<string>())).toEqual([PAGE])
 })
 
 test("the label on a refusal is the property and the value the page states", () => {

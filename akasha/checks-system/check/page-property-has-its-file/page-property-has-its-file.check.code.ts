@@ -6,10 +6,8 @@ import {
   textAt,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  indexIn,
-  standingByPath,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -90,9 +88,10 @@ export function missingFor(
 }
 
 export function pagePropertyHasItsFile(leaving: Leaving): readonly Judged[] {
-  const index = indexIn(leaving.root)
-  const pageTypes = pageTypesIn(index)
-  const fileProperties = filePropertiesAt(index)
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const pageTypes = pageTypesIn(cast.shadow.reading)
+  const fileProperties = filePropertiesAt(cast.shadow.reading)
   const read = readingIn(leaving)
   const said: Judged[] = []
   for (const page of pagesTouchedBy(leaving, pageTypes)) {

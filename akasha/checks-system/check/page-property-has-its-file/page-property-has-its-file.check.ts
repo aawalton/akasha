@@ -49,7 +49,22 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
+        "A page named for a page type the change itself carries is judged, because the index is read as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file property the change introduces is asked for its file, because which properties are held in a file is read as the change leaves it too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A page the index says carries a changed path is judged even when the change never names that page, so taking a file away refuses the page still stating it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which pages the index says carry a changed path is read from the index as it stands, because a claim the change withdraws is the very thing that brings the page still stating it to judgement.",
     },
     {
       invariantKind: "departure",
