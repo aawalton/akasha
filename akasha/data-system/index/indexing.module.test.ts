@@ -1,15 +1,7 @@
-import { expect, test } from "bun:test"
-import {
-  existsSync,
-  mkdirSync,
-  mkdtempSync,
-  readdirSync,
-  readFileSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 
 type Held = Record<string, unknown>
@@ -27,13 +19,13 @@ function bodyOf(value: Held): string {
 
 type Pair = { readonly tree: string; readonly root: string }
 
-const heldAt = (): string => mkdtempSync(join(tmpdir(), "akasha-index-"))
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const heldAt = (): string => scratch.rootFor("akasha-index-")
 
 const bare = (): Pair => ({ tree: heldAt(), root: heldAt() })
-
-const clear = (...held: readonly string[]): void => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-}
 
 function put(tree: string, at: string, body: string): string {
   const path = join(tree, at)
@@ -137,7 +129,6 @@ test("a written page is answered by its id, by its page type and slug, and by it
   expect(said(slugFile(root, "domain", "a"))).toEqual(found)
   expect(said(pathFile(root, "a.domain.ts"))).toEqual(found)
   expect(existsSync(pathFile(root, "a.domain.code.ts"))).toBe(false)
-  clear(tree, root)
 })
 
 test("a renamed slug withdraws its old entry and leaves the id entry untouched", () => {
@@ -149,7 +140,6 @@ test("a renamed slug withdraws its old entry and leaves the id entry untouched",
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
   expect(existsSync(slugFile(root, "domain", "renamed"))).toBe(true)
   expect(existsSync(idFile(root, A))).toBe(true)
-  clear(tree, root)
 })
 
 test("a removed page leaves no entry and no empty directory", () => {
@@ -161,7 +151,6 @@ test("a removed page leaves no entry and no empty directory", () => {
   expect(existsSync(idFile(root, A))).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
   expect(existsSync(join(root, "identity", "domain"))).toBe(false)
-  clear(tree, root)
 })
 
 test("a property held in a file is answered by the page stating it", () => {
@@ -173,7 +162,6 @@ test("a property held in a file is answered by the page stating it", () => {
   expect(said(pathFile(root, "deep/a.module.ts"))).toEqual(found)
   expect(said(pathFile(root, "deep/a.module.code.ts"))).toEqual(found)
   expect(said(pathFile(root, "deep/a.module.test.ts"))).toEqual(found)
-  clear(tree, root)
 })
 
 test("a page whose code is taken away loses that path and keeps the rest", () => {
@@ -187,7 +175,6 @@ test("a page whose code is taken away loses that path and keeps the rest", () =>
   expect(existsSync(pathFile(root, "a.module.code.ts"))).toBe(false)
   expect(existsSync(pathFile(root, "a.module.test.ts"))).toBe(true)
   expect(existsSync(pathFile(root, "a.module.ts"))).toBe(true)
-  clear(tree, root)
 })
 
 test("a removed page takes away the path of its own file and of every file it held", () => {
@@ -199,7 +186,6 @@ test("a removed page takes away the path of its own file and of every file it he
   expect(existsSync(pathFile(root, "deep/a.module.ts"))).toBe(false)
   expect(existsSync(pathFile(root, "deep/a.module.code.ts"))).toBe(false)
   expect(existsSync(join(root, "identity", "page", "path", "deep"))).toBe(false)
-  clear(tree, root)
 })
 
 test("two pages carrying one value leave two lines in one file", () => {
@@ -208,7 +194,6 @@ test("two pages carrying one value leave two lines in one file", () => {
   settled(root, tree, "two.domain.ts", { id: B, pageTypeSlug: "domain", slug: "same" }, null)
 
   expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
-  clear(tree, root)
 })
 
 test("a property type that changes its kind changes what its entry says", () => {
@@ -227,7 +212,6 @@ test("a property type that changes its kind changes what its entry says", () => 
     targetPageTypeSlug: null,
     entrySlug: null,
   })
-  clear(tree, root)
 })
 
 test("a removed property type leaves no schema entry and leaves the rest standing", () => {
@@ -237,7 +221,6 @@ test("a removed property type leaves no schema entry and leaves the rest standin
 
   expect(existsSync(schemaFile(root, "note"))).toBe(false)
   expect(existsSync(schemaFile(root, "part-slugs"))).toBe(true)
-  clear(tree, root)
 })
 
 test("a value naming its page type is filed under the target's id", () => {
@@ -246,7 +229,6 @@ test("a value naming its page type is filed under the target's id", () => {
   const at = settled(root, tree, "a.domain.ts", value, null)
 
   expect(said(edgeFile(root, B, "part-slugs", A))).toEqual({ path: relative(tree, at) })
-  clear(tree, root)
 })
 
 test("a bare value reaches a page type extending the one its property names", () => {
@@ -260,7 +242,6 @@ test("a bare value reaches a page type extending the one its property names", ()
   )
 
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
-  clear(tree, root)
 })
 
 test("a retargeted value withdraws the edge it left", () => {
@@ -277,7 +258,6 @@ test("a retargeted value withdraws the edge it left", () => {
 
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
-  clear(tree, root)
 })
 
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {
@@ -289,7 +269,6 @@ test("a bare value narrowing to more than one page is refused rather than resolv
 
   expect(indexing.settle().join(" ")).toMatch(/narrows to 2 pages/)
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
-  clear(tree, root)
 })
 
 function everyFileUnder(at: string): readonly string[] {
@@ -324,7 +303,6 @@ test("a rebuild from the pages agrees with the index a write left", () => {
 
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
-  clear(tree, landed, rebuilt)
 })
 
 test("a rebuild takes away an entry no page carries", () => {
@@ -340,7 +318,6 @@ test("a rebuild takes away an entry no page carries", () => {
 
   expect(existsSync(stale)).toBe(false)
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
-  clear(tree, root)
 })
 
 const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
@@ -354,7 +331,6 @@ test("a body that drops an import loses that edge and keeps the one it kept", ()
 
   expect(existsSync(importFile(root, "c.ts"))).toBe(false)
   expect(linesIn(importFile(root, "d/b.ts"))).toEqual([`{"path":"${IMPORTS_AT}"}`])
-  clear(tree, root)
 })
 
 test("a file taken away leaves none of the edges it left", () => {
@@ -365,7 +341,6 @@ test("a file taken away leaves none of the edges it left", () => {
   tookAway(root, tree, at, IMPORTS)
 
   expect(existsSync(join(root, "import"))).toBe(false)
-  clear(tree, root)
 })
 
 test("a file a page property holds is not loaded, so it is neither run nor read as a page", () => {
@@ -378,7 +353,6 @@ test("a file a page property holds is not loaded, so it is neither run nor read 
   expect(indexing.settle()).toEqual([])
   expect(existsSync(ran)).toBe(false)
   expect(existsSync(idFile(root, D))).toBe(false)
-  clear(tree, root)
 })
 
 test("a page whose body will not load is reported rather than passed over", () => {
@@ -391,7 +365,6 @@ test("a page whose body will not load is reported rather than passed over", () =
   const noted = indexing.settle()
   expect(noted.length).toBe(1)
   expect(noted[0] ?? "").toMatch(/did not load/)
-  clear(tree, root)
 })
 
 test("a path the index stores is relative to the repository root", () => {
@@ -412,5 +385,4 @@ test("a path the index stores is relative to the repository root", () => {
   for (const line of held) {
     expect((JSON.parse(line) as { path: string }).path.startsWith("/")).toBe(false)
   }
-  clear(tree, root)
 })
