@@ -48,6 +48,11 @@ export const indexing = {
         "The fixture carries the `id` and `slug` property pages themselves, so a test derives from what the pages declare.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A world declaring properties and none of them unique is refused, because identity would file nothing and say nothing of it.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported, never answered as empty.",
     },

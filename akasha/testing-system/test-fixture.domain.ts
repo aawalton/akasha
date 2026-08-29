@@ -26,9 +26,14 @@ export const testFixture = {
         "Nothing says a fixture has fallen behind the system it feeds, so a fixture can go stale while every test still passes.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A system reading what the pages declare refuses a world declaring properties and none of them unique, rather than answering empty.",
+    },
+    {
       invariantKind: "gap",
       statement:
-        "A system reading what the pages declare refuses a world declaring nothing, rather than answering empty.",
+        "A world carrying pages and declaring no property at all is refused as well, rather than filed as nothing.",
     },
   ],
   directives: [
