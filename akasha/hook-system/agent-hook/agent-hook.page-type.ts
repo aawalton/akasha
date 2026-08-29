@@ -45,8 +45,7 @@ export const agentHook = {
       directiveKind: "rule",
       name: "Alan Approves",
       act: "Add a hook to akasha only where Alan has approved that hook.",
-      warrant:
-        "A hook binds every agent on every tool call, and a wrong one costs more than what it guards.",
+      warrant: "A hook binds every agent at once, and a wrong one costs more than what it guards.",
       aids: [
         "Approving the initiative is not approving a hook.",
         "A hook replacing an old one still needs approval.",
