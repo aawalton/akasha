@@ -40,7 +40,13 @@ const MODULES = "node_modules"
 
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
-export const CARRIED: readonly string[] = ["package.json", "tsconfig.json", "tsconfig.base.json"]
+export const CARRIED: readonly string[] = [
+  ".gitignore",
+  "biome.json",
+  "package.json",
+  "tsconfig.json",
+  "tsconfig.base.json",
+]
 
 export type Verdict = "pass" | "fail" | "short" | "crash"
 
