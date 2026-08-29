@@ -27,9 +27,14 @@ export const workInitiatives = {
       statement: "An initiative standing under other than one parent is answered as under none.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A persona is read out of the page, because the index files identities and edges and no text.",
+    },
+    {
       invariantKind: "absence",
       statement:
-        "No page is opened, so a value the index does not file is not answered here. A persona is one such value.",
+        "Nothing here walks the corpus. Every initiative answered is one the index named first.",
     },
   ],
 } as const satisfies Module

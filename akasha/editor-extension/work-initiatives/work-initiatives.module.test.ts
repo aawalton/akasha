@@ -102,3 +102,33 @@ test("a path the file name says is no initiative is passed over", () => {
   ])
   expect(initiativesDrawn(root)).toEqual([])
 })
+
+function pageAt(root: string, slug: string, body: string): void {
+  const path = join(root, pathFor(slug))
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, body)
+}
+
+test("a persona is read out of the page the index named", () => {
+  const root = scratch.rootFor("akasha-work-")
+  standing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", personaSlug: "amy" }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.persona).toBe("amy")
+})
+
+test("a page the index named but no file holds answers no persona", () => {
+  const root = scratch.rootFor("akasha-work-")
+  standing(root, "amy-one", ONE)
+  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
+})
+
+test("a page stating no persona answers none", () => {
+  const root = scratch.rootFor("akasha-work-")
+  standing(root, "amy-one", ONE)
+  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
+  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
+})
