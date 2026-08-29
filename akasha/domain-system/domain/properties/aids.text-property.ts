@@ -10,6 +10,13 @@ export const aids = {
   pageTypeSlug: "text-property",
   slug: "aids",
   definition: "the rulings on acts a reader is about to take, each for or against",
-  max: 50,
+  max: 100,
   nameFormatSlug: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "An aid runs to what an act or a warrant runs to, because every line of a directive is read alike.",
+    },
+  ],
 } as const satisfies TextProperty

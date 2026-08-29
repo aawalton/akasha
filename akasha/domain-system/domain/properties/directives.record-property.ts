@@ -26,12 +26,17 @@ export const directives = {
     { pagePropertySlug: "name", required: true, many: false },
     { pagePropertySlug: "act", required: true, many: false },
     { pagePropertySlug: "warrant", required: true, many: false },
-    { pagePropertySlug: "aids", required: true, many: true, max: 2 },
+    { pagePropertySlug: "aids", required: true, many: true, max: 5 },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "One list holds every directive, because each entry states the kind it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A directive that needs more aids than it may hold is carrying design, which belongs in an invariant.",
     },
   ],
 } as const satisfies RecordProperty
