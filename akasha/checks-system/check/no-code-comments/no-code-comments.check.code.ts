@@ -1,0 +1,104 @@
+import ts from "typescript"
+import type { Body } from "../../checking.module.code.ts"
+import { bodyOf } from "../../checking.module.code.ts"
+
+const TS = ".ts"
+
+type Found = {
+  readonly line: number
+  readonly raw: string
+}
+
+type Form = {
+  readonly handle: string
+  readonly pattern: RegExp
+}
+
+const FORMS: readonly Form[] = [
+  { handle: "expect-error", pattern: /^@ts-expect-error\b/ },
+  { handle: "biome suppression", pattern: /^biome-ignore\b/ },
+  { handle: "triple-slash reference", pattern: /^\/\s*<reference\b/ },
+  { handle: "deprecation", pattern: /^@deprecated\b/ },
+]
+
+const PARSED: readonly string[] = [
+  "@ts-",
+  "biome-",
+  "eslint",
+  "oxlint",
+  "prettier-ignore",
+  "v8 ignore",
+  "c8 ignore",
+  "istanbul ignore",
+  "@license",
+  "@preserve",
+  "<reference",
+  "sourceMappingURL",
+]
+
+export function commentsIn(path: string, text: string): readonly Found[] {
+  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const seen = new Set<number>()
+  const found: Found[] = []
+  const take = (every: readonly ts.CommentRange[] | undefined): void => {
+    for (const range of every ?? []) {
+      if (seen.has(range.pos)) continue
+      seen.add(range.pos)
+      const line = source.getLineAndCharacterOfPosition(range.pos).line + 1
+      found.push({ line, raw: text.slice(range.pos, range.end) })
+    }
+  }
+  const walk = (node: ts.Node): void => {
+    const every = node.getChildren(source)
+    if (every.length > 0) {
+      for (const one of every) walk(one)
+      return
+    }
+    take(ts.getLeadingCommentRanges(text, node.getFullStart()))
+    take(ts.getTrailingCommentRanges(text, node.getEnd()))
+  }
+  walk(source)
+  return found.sort((one, two) => one.line - two.line)
+}
+
+function linesOf(raw: string): readonly string[] {
+  if (raw.startsWith("//")) return [raw.slice(2).trim()]
+  return raw
+    .replace(/^\/\*+/, "")
+    .replace(/\*+\/$/, "")
+    .split("\n")
+    .map((one) => one.replace(/^\s*\*+\s?/, "").trim())
+    .filter((one) => one !== "")
+}
+
+function directiveIn(one: Found): string | null {
+  const said = linesOf(one.raw)
+  const first = said[0]
+  return said.length === 1 && first !== undefined ? first : null
+}
+
+function isForm(one: Found): boolean {
+  const said = directiveIn(one)
+  if (said === null) return false
+  return FORMS.some((form) => form.pattern.test(said))
+}
+
+function looksParsed(one: Found): boolean {
+  const said = directiveIn(one)
+  if (said === null) return false
+  const bare = said.replace(/^[/#]+\s*/, "")
+  return PARSED.some((marker) => said.startsWith(marker) || bare.startsWith(marker))
+}
+
+export function noCodeComments(given: Body): readonly string[] {
+  if (!given.path.endsWith(TS)) return []
+  const text = bodyOf(given)
+  if (text === null) return []
+  const said: string[] = []
+  for (const one of commentsIn(given.path, text)) {
+    if (isForm(one)) continue
+    const what = looksParsed(one) ? "a directive nothing declares" : "prose"
+    said.push(`line ${one.line} carries ${what}, which is none of the code comment forms`)
+  }
+  return said
+}

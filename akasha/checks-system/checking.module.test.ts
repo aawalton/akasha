@@ -133,6 +133,15 @@ test("audit reads the body of every file it takes", () => {
   rmSync(root, { recursive: true })
 })
 
+test("a check page whose code is not there stops the whole run", () => {
+  const root = rootWith([
+    { slug: "admits-all", needs: "file", runsOn: ["patch"], body: ADMITS_ALL },
+  ])
+  rmSync(join(root, "akasha/checks-system/check/admits-all/admits-all.check.code.ts"))
+  expect(() => checksIn(root)).toThrow("answers to nothing that can be run")
+  rmSync(root, { recursive: true })
+})
+
 test("a check page stating no needs a runner can honour is refused", () => {
   const root = rootWith([
     { slug: "admits-all", needs: "tree", runsOn: ["patch"], body: ADMITS_ALL },
