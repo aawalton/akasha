@@ -2,6 +2,7 @@ import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { DomainSlug } from "../domain/properties/domain-slug.relation-property.ts"
 import type { Invariants } from "../domain/properties/invariants.record-property.ts"
+import type { Notes } from "./properties/notes.text-property.ts"
 import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
 import type { PersonaSlug } from "./properties/persona-slug.text-property.ts"
 
@@ -10,6 +11,7 @@ export type Initiative = Page & {
   personaSlug: PersonaSlug
   parentSlug?: ParentSlug
   invariants?: Invariants
+  notes?: readonly Notes[]
 }
 
 export const initiative = {
@@ -17,13 +19,14 @@ export const initiative = {
   pageTypeSlug: "page-type",
   slug: "initiative",
   definition: "work that closes gaps between how a domain is and how it should be",
-  partSlugs: ["relation-property/parent-slug", "text-property/persona-slug"],
+  partSlugs: ["relation-property/parent-slug", "text-property/notes", "text-property/persona-slug"],
   extendsSlug: "page-type/page",
   properties: [
     { pagePropertySlug: "domain-slug", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
     { pagePropertySlug: "parent-slug", required: false, many: false },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
+    { pagePropertySlug: "notes", required: false, many: true, max: null },
   ],
   mortal: true,
   invariants: [
