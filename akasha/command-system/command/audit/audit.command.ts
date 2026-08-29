@@ -11,7 +11,17 @@ export const audit = {
     {
       invariantKind: "departure",
       statement:
-        "An audit judges every file the index names, and takes no argument that would narrow it.",
+        "An audit judges every file the index names, and no argument narrows which files it sees.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run narrowed to named checks says in its answer that it is not an audit, so it is never read as a whole one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A named check that runs at no audit is refused, so a narrowing that would judge nothing does not answer clean.",
     },
     {
       invariantKind: "departure",

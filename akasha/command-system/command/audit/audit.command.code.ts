@@ -1,5 +1,11 @@
 import { resolve } from "node:path"
-import { auditingIn, everythingIn } from "../../../checks-system/checking/checking.module.code.ts"
+import type { Gathered } from "../../../checks-system/checking/checking.module.code.ts"
+import {
+  checksAt,
+  checksIn,
+  everythingIn,
+  judgingBy,
+} from "../../../checks-system/checking/checking.module.code.ts"
 import type {
   Judged,
   Judging,
@@ -11,21 +17,76 @@ import { oneLine } from "../../landing/landing.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
+const CHECK = "--check"
+
+const AUDIT = "audit"
+
 const NOTHING_RUNS =
   "no check runs at audit, so nothing would judge the folder and a clean answer would mean nothing"
 
 export const surface: Surface = {
-  taking: [],
+  taking: [{ said: `${CHECK} <slug>`, takes: "a check that runs at audit, to run on its own" }],
   notes: [
-    "audit takes nothing: it judges every file the index names.",
-    "a flag naming fewer files is refused, because an audit over some of them would answer as " +
-      "though it had judged them all.",
+    `${CHECK} repeats, so several checks run in one call.`,
+    "named nothing, every check that runs at audit judges every file the index names.",
+    `${CHECK} narrows which checks run and never which files they see, and a run it narrows says ` +
+      "in its answer that it is not an audit.",
     "it writes nothing, and holds nothing still while it runs.",
   ],
 }
 
+export type Meant = {
+  readonly only: readonly string[]
+  readonly refusal: string | null
+}
+
+export type Narrowed = {
+  readonly checks: readonly Gathered[]
+  readonly refusals: readonly string[]
+}
+
 function whyOf(thrown: unknown): string {
   return oneLine(thrown instanceof Error ? thrown.message : String(thrown))
+}
+
+export function meaning(argv: readonly string[]): Meant {
+  const refused = (said: string): Meant => ({ only: [], refusal: said })
+  const only: string[] = []
+  for (let at = 0; at < argv.length; at += 1) {
+    const one = argv[at] ?? ""
+    if (one === CHECK) {
+      const value = argv[at + 1]
+      if (value === undefined) return refused(`${CHECK} names a check, and nothing followed it`)
+      if (only.includes(value)) return refused(`\`${value}\` is named more than once`)
+      only.push(value)
+      at += 1
+      continue
+    }
+    return refused(
+      `\`${one}\` is not an argument this takes — an audit judges every file the index names, ` +
+        `and only \`${CHECK} <slug>\` narrows which checks see them`
+    )
+  }
+  return { only, refusal: null }
+}
+
+export function narrowedTo(every: readonly Gathered[], named: readonly string[]): Narrowed {
+  if (named.length === 0) return { checks: every, refusals: [] }
+  const standing = new Map(every.map((one) => [one.slug, one]))
+  const checks: Gathered[] = []
+  const refusals: string[] = []
+  for (const one of named) {
+    const found = standing.get(one)
+    if (found === undefined) {
+      refusals.push(
+        `\`${one}\` is no check that runs at audit — those that do are ` +
+          `\`${every.map((two) => two.slug).join("`, `")}\``
+      )
+      continue
+    }
+    checks.push(found)
+  }
+  return { checks, refusals }
 }
 
 export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
@@ -45,7 +106,7 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
   return held
 }
 
-export function judgedOver(judging: Judging, leaving: Leaving): Answer {
+export function judgedOver(judging: Judging, leaving: Leaving, atAudit: number): Answer {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   let said: readonly Judged[]
   try {
@@ -53,32 +114,41 @@ export function judgedOver(judging: Judging, leaving: Leaving): Answer {
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
-  const over = `${counted(judging.named.length, "check")} judged ${counted(leaving.changed.length, "file")}`
-  if (said.length === 0) return { report: [`${over}, and none refused`], refusals: [], code: 0 }
+  const left = atAudit - judging.named.length
+  const by =
+    left > 0
+      ? `${counted(judging.named.length, "check")} of the ${atAudit} that run at audit`
+      : counted(judging.named.length, "check")
+  const over = `${by} judged ${counted(leaving.changed.length, "file")}`
+  const also =
+    left > 0
+      ? [`this is not an audit — the ${counted(left, "check")} it left out judged nothing`]
+      : []
+  if (said.length === 0) {
+    return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
+  }
   const lines = said.map((one) => `${one.path} — ${oneLine(one.reason)}`)
   return {
-    report: [`${over}, and ${counted(said.length, "refusal")} stands`],
+    report: [`${over}, and ${counted(said.length, "refusal")} stands`, ...also],
     refusals: heldTo(lines, ANSWER_CEILING),
     code: 2,
   }
 }
 
 export function audit(argv: readonly string[], given: Given): Answer {
-  const one = argv[0]
-  if (one !== undefined) {
-    return {
-      report: [],
-      refusals: [
-        `\`${one}\` is not an argument this takes — an audit judges every file the index names, ` +
-          "and takes nothing that would narrow it",
-      ],
-      code: 1,
-    }
-  }
+  const meant = meaning(argv)
+  if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const root = resolve(given.root)
+  let every: readonly Gathered[]
+  let leaving: Leaving
   try {
-    return judgedOver(auditingIn(root), everythingIn(root))
+    every = checksAt(checksIn(root), AUDIT)
+    leaving = everythingIn(root)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
+  if (every.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
+  const narrowed = narrowedTo(every, meant.only)
+  if (narrowed.refusals.length > 0) return { report: [], refusals: [...narrowed.refusals], code: 1 }
+  return judgedOver(judgingBy(narrowed.checks), leaving, every.length)
 }
