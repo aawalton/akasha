@@ -28,6 +28,10 @@ export const checksSystem = {
       invariantKind: "departure",
       statement: "Audit judges every page; the other phases judge only what changed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A check reads the index together with the change, never the index alone.",
+    },
   ],
   intent: [
     {
