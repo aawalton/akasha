@@ -36,6 +36,11 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An index file's name closes with `.jsonl`, and the file carries one answer to a line.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index's answers are filed under a folder named for it.",
     },
     {
