@@ -1,7 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
+import { rootFor } from "../rooting/rooting.module.code.ts"
 
 export const OK = 0
 
@@ -21,12 +21,6 @@ export type Said = {
   readonly code: number
 }
 
-function rootAt(at: string): string {
-  const found = rootOf(at)
-  if (found === null) throw new Error(`the dispatcher at ${at} stands under no akasha folder`)
-  return found
-}
-
 export function outsideOf(
   env: Readonly<Record<string, string | undefined>>,
   at: string,
@@ -36,7 +30,7 @@ export function outsideOf(
   const said = env["AKASHA_WRITER"]
   const named = env["AGENT_ID"]
   return {
-    root: stated === undefined || stated === "" ? rootAt(at) : resolve(stated),
+    root: stated === undefined || stated === "" ? rootFor(at) : resolve(stated),
     calledAs: "akasha",
     from,
     writer: said === undefined || said === "" ? AUTHOR : said,

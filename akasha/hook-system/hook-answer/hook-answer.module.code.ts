@@ -1,4 +1,4 @@
-import { rootOf as rootIn } from "../../command-system/rooting/rooting.module.code.ts"
+import { rootFor } from "../../command-system/rooting/rooting.module.code.ts"
 
 export const SCOPE_FLAG = "--scope"
 
@@ -71,9 +71,7 @@ export function said(answer: Answer): number {
 }
 
 export function rootOf(at: string): string {
-  const found = rootIn(at)
-  if (found === null) throw new Error(`the hook at ${at} stands under no akasha folder`)
-  return found
+  return rootFor(at)
 }
 
 export function fromIn(raw: string): string {

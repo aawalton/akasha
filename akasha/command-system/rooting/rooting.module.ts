@@ -23,5 +23,9 @@ export const rooting = {
       statement:
         "A path standing outside any `akasha` folder answers nothing rather than a wrong root.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A caller that cannot go on without a root is refused rather than handed nothing.",
+    },
   ],
 } as const satisfies Module
