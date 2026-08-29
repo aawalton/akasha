@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import type { Found } from "../../../code-system/code-lint.module.code.ts"
-import { lintedOver } from "../../../code-system/code-lint.module.code.ts"
+import type { Found } from "../../../code-system/code-lint/code-lint.module.code.ts"
+import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { aiming, bounded } from "../test/test.command.code.ts"
 

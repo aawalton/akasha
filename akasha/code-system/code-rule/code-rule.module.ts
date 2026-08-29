@@ -1,4 +1,4 @@
-import type { Module } from "./module/module.page-type.ts"
+import type { Module } from "../module/module.page-type.ts"
 
 export const codeRule = {
   id: "01a04ea7-b2ea-74df-8173-b596f1d191cc",

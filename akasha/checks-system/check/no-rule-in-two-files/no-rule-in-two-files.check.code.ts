@@ -1,4 +1,4 @@
-import { speltIn } from "../../../code-system/code-rule.module.code.ts"
+import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import { bodyOf, everyFileIn, overEachFile, textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 

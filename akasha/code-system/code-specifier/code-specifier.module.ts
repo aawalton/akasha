@@ -1,4 +1,4 @@
-import type { Module } from "./module/module.page-type.ts"
+import type { Module } from "../module/module.page-type.ts"
 
 export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",

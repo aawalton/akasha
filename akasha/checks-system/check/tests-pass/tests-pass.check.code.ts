@@ -1,11 +1,11 @@
-import type { Ran } from "../../../code-system/code-tests.module.code.ts"
+import type { Ran } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
   plain,
   ranOver,
   testBesideOf,
   worldOf,
-} from "../../../code-system/code-tests.module.code.ts"
+} from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { everyFileIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 

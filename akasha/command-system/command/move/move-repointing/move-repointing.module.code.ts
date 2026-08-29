@@ -1,5 +1,8 @@
 import { dirname, join, relative } from "node:path"
-import { placedIn, spelledIn } from "../../../../code-system/code-specifier.module.code.ts"
+import {
+  placedIn,
+  spelledIn,
+} from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
 
 const RELATIVE = /^\.\.?\//
 

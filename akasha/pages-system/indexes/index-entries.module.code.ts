@@ -1,7 +1,7 @@
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { specifiersIn } from "../../code-system/code-specifier.module.code.ts"
+import { specifiersIn } from "../../code-system/code-specifier/code-specifier.module.code.ts"
 import { addressIn } from "../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../page/page-file-name/page-file-name.module.code.ts"

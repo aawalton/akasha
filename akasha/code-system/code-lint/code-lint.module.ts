@@ -1,4 +1,4 @@
-import type { Module } from "./module/module.page-type.ts"
+import type { Module } from "../module/module.page-type.ts"
 
 export const codeLint = {
   id: "01a04edb-5f2c-7000-b8b5-430c5419cbda",

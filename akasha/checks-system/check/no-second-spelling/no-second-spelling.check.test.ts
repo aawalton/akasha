@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { speltIn } from "../../../code-system/code-rule.module.code.ts"
+import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import type { Owner } from "./no-second-spelling.check.code.ts"
 import { reasonsIn } from "./no-second-spelling.check.code.ts"
 

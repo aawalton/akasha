@@ -1,4 +1,4 @@
-import type { Module } from "./module/module.page-type.ts"
+import type { Module } from "../module/module.page-type.ts"
 
 export const codeTests = {
   id: "01a04eb6-9e5f-7000-9bb8-11bc82309d76",

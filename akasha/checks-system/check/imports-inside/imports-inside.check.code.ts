@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts"
+import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const AKASHA = "akasha"
