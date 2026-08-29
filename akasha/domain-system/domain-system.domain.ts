@@ -8,6 +8,7 @@ export const domainSystem = {
   partSlugs: [
     "page-type/domain",
     "page-type/finding",
+    "page-type/initiative",
     "page-type/invariant-group",
     "page-type/invariant-kind",
     "page-type/directive-kind",
