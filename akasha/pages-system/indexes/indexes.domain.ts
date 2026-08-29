@@ -1,11 +1,10 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 
-export const index = {
+export const indexes = {
   id: "01a04a4a-23e9-7114-90a5-11acf49a937d",
   pageTypeSlug: "domain",
-  slug: "index",
-  definition:
-    "which file holds each page, which pages name it, which files import it, and each property's shape",
+  slug: "indexes",
+  definition: "the indexes the pages are read through, each answering one question of the corpus",
   partSlugs: [
     "domain/index-identity",
     "domain/index-relation",
@@ -29,6 +28,15 @@ export const index = {
     {
       invariantKind: "departure",
       statement: "An index file is named for the value it answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index's answers are filed under a folder named for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index answers one question of the corpus, so a question no index answers is a new index rather than a wider one.",
     },
     {
       invariantKind: "absence",
