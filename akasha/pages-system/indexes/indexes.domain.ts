@@ -11,6 +11,8 @@ export const indexes = {
     "domain/index-schema",
     "domain/index-import",
     "domain/index-path",
+    "page-type/index",
+    "text-property/index-name",
     "module/index-entries",
     "module/indexing",
     "module/index-reading",
