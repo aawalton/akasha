@@ -16,6 +16,7 @@ export const indexes = {
     "module/indexing",
     "module/index-reading",
     "module/index-surface",
+    "module/index-shadow",
     "module/index-stamp",
     "module/generated-properties",
     "module/reaching",
