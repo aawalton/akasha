@@ -5,7 +5,7 @@ export const contextSystem = {
   pageTypeSlug: "domain",
   slug: "context-system",
   definition: "what a change requires its writer to have read",
-  partSlugs: ["module/warranting"],
+  partSlugs: ["page-type/context-warrant", "module/warranting"],
   invariants: [
     {
       invariantKind: "departure",
