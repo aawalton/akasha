@@ -29,7 +29,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "What a moved body names is repointed from that body alone; what names a moved file is not, the index carrying no edge from a file to the files importing it.",
+        "What a moved body names is repointed from that body alone; what names a moved file is not.",
     },
     {
       invariantKind: "departure",

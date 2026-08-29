@@ -16,12 +16,17 @@ export const runsOn = {
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "A check states its phases, because nothing yet derives them from what the check reads.",
+      statement: "A check states its phases.",
     },
     {
       invariantKind: "departure",
       statement: "A check runs on audit whatever it states here.",
+    },
+  ],
+  intent: [
+    {
+      invariantKind: "gap",
+      statement: "A check's phases are derived from what it reads.",
     },
   ],
 } as const satisfies PagePropertyType
