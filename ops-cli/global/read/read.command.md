@@ -24,5 +24,3 @@ A read takes no line range.
 A read too big for one answer returns fewer files and how to ask for the rest.
 
 A body past what one answer holds returns what it is, and records nothing.
-
-The second reader changes neither the answer nor whether the read succeeds.
