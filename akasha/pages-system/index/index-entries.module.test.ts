@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import type { Known } from "./index-entries.module.code.ts"
+import type { Shaped } from "./index-entries.module.code.ts"
 import {
   filePropertiesAt,
   filePropertiesIn,
@@ -54,15 +54,25 @@ function grounded(): { readonly root: string; readonly repo: string } {
     slug: "module",
     extendsSlug: "domain",
   })
+  page("parts.record-property.ts", {
+    id: "3",
+    pageTypeSlug: "record-property",
+    slug: "parts",
+    properties: [{ pagePropertySlug: "page-property/part-slugs", required: true, many: true }],
+  })
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
+  filed(
+    "identity/record-property/slug/parts.jsonl",
+    '{"path":"parts.record-property.ts","id":"3"}'
+  )
   filed("schema/page-property/slug/code.jsonl", SCHEMA.code)
   filed("schema/page-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
   filed("schema/page-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
   return { root, repo }
 }
 
-function standing(pages: Readonly<Record<string, string>>): Known {
+function standing(pages: Readonly<Record<string, string>>): Shaped {
   return {
     targetOf: (propertySlug) => (propertySlug === "part-slugs" ? "domain" : null),
     admitting: (target) => (target === "domain" ? ["domain", "module"] : []),
@@ -71,6 +81,7 @@ function standing(pages: Readonly<Record<string, string>>): Known {
       return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
     },
     byId: () => null,
+    fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
   }
 }
 
@@ -233,6 +244,53 @@ test("a property naming no page is reported and files no edge", () => {
 
   expect(filed.entries).toEqual([])
   expect(filed.refused[0] ?? "").toMatch(/carries the slug `nowhere`/)
+})
+
+test("a record property answers the fields it declares, and another property answers none", () => {
+  const { root, repo } = grounded()
+  const known = knownIn(root, repo)
+
+  expect(known.fieldsOf("parts")).toEqual(["part-slugs"])
+  expect(known.fieldsOf("part-slugs")).toEqual([])
+})
+
+test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "domain",
+    slug: "a",
+    parts: [{ partSlugs: ["domain/b"] }, { partSlugs: ["domain/b"] }],
+  }
+
+  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
+    entries: [
+      { at: `relation/page/id/${B}/part-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
+    refused: [],
+  })
+})
+
+test("a field the record does not declare, and a record nested deeper, file no edge", () => {
+  const value = {
+    id: A,
+    pageTypeSlug: "domain",
+    slug: "a",
+    parts: [{ heldSlugs: ["domain/b"], inner: { partSlugs: ["domain/b"] } }],
+    holds: [{ partSlugs: ["domain/b"] }],
+  }
+
+  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
+test("a record entry naming no page is reported against the record and the field it states", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", parts: [{ partSlugs: ["nowhere"] }] }
+  const filed = relationIn(value, "/repo/a.domain.ts", standing({}), "/repo")
+
+  expect(filed.entries).toEqual([])
+  expect(filed.refused[0] ?? "").toMatch(/`parts part-slugs`/)
 })
 
 test("a body that will not load answers with no value rather than throwing", () => {

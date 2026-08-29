@@ -206,6 +206,10 @@ export type Known = {
   readonly byId: (id: string) => Standing | null
 }
 
+export type Shaped = Known & {
+  readonly fieldsOf: (propertySlug: string) => readonly string[]
+}
+
 function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
   const dir = join(root, "identity", pageTypeSlug, "slug")
   if (!existsSync(dir)) return []
@@ -232,7 +236,25 @@ export function filePropertiesAt(root: string): ReadonlySet<string> {
   return found
 }
 
-export function knownIn(root: string, repo: string): Known {
+const RECORD = "record-property"
+
+const DECLARED = "properties"
+
+const SAID = "pagePropertySlug"
+
+function fieldsIn(value: Value): readonly string[] {
+  const declared = value[DECLARED]
+  if (!Array.isArray(declared)) return []
+  const found: string[] = []
+  for (const one of declared) {
+    if (one === null || typeof one !== "object") continue
+    const named = (one as Value)[SAID]
+    if (typeof named === "string") found.push(slugOf(named))
+  }
+  return found
+}
+
+export function knownIn(root: string, repo: string): Shaped {
   const target = new Map<string, string>()
   for (const [slug, held] of schemaAt(root)) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
@@ -248,6 +270,14 @@ export function knownIn(root: string, repo: string): Known {
     if (slug !== null && extendsSlug !== null) above.set(slug, slugOf(extendsSlug))
   }
   const everyType = new Set<string>([...above.keys(), ...above.values()])
+
+  const fields = new Map<string, readonly string[]>()
+  for (const one of everyPageOf(root, RECORD)) {
+    const value = valueAt(one.path, repo)
+    if (value === null) continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) fields.set(slug, fieldsIn(value))
+  }
 
   const targetOf = (propertySlug: string): string | null => {
     return target.get(propertySlug) ?? null
@@ -276,6 +306,7 @@ export function knownIn(root: string, repo: string): Known {
     at: (pageTypeSlug, slug) =>
       standingIn(join(root, "identity", pageTypeSlug, "slug", `${slug}.jsonl`)),
     byId: (id) => standingIn(join(root, "identity", "page", "id", `${id}.jsonl`))[0] ?? null,
+    fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
   }
 }
 
@@ -327,6 +358,13 @@ function namesIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
+function recordsIn(held: unknown): readonly Value[] {
+  const listed = Array.isArray(held) ? held : [held]
+  return listed.filter(
+    (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)
+  )
+}
+
 export type Filed = {
   readonly entries: readonly Entry[]
   readonly refused: readonly string[]
@@ -334,27 +372,42 @@ export type Filed = {
 
 export const NOTHING_FILED: Filed = { entries: [], refused: [] }
 
-export function relationIn(value: Value, path: string, known: Known, repo: string): Filed {
+export function relationIn(value: Value, path: string, known: Shaped, repo: string): Filed {
   const id = textAt(value, "id")
   if (id === null) return NOTHING_FILED
   const line = JSON.stringify({ path: under(repo, path) })
   const entries: Entry[] = []
   const refused: string[] = []
-  for (const [key, held] of Object.entries(value)) {
-    if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = slugFor(key)
+  const already = new Set<string>()
+  const file = (propertySlug: string, held: unknown, said: string): void => {
     const wanted = known.targetOf(propertySlug)
-    if (wanted === null) continue
+    if (wanted === null) return
     for (const named of namesIn(held)) {
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
-        refused.push(`${path}: \`${propertySlug}\` — ${reached.refused}`)
+        refused.push(`${path}: \`${said}\` — ${reached.refused}`)
         continue
       }
-      entries.push({
-        at: join("relation", "page", "id", reached.id, propertySlug, `${id}.jsonl`),
-        line,
-      })
+      const at = join("relation", "page", "id", reached.id, propertySlug, `${id}.jsonl`)
+      if (already.has(at)) continue
+      already.add(at)
+      entries.push({ at, line })
+    }
+  }
+  for (const [key, held] of Object.entries(value)) {
+    if (NOT_A_RELATION.has(key) || held === null) continue
+    const propertySlug = slugFor(key)
+    if (known.targetOf(propertySlug) !== null) {
+      file(propertySlug, held, propertySlug)
+      continue
+    }
+    const fields = known.fieldsOf(propertySlug)
+    if (fields.length === 0) continue
+    for (const entry of recordsIn(held)) {
+      for (const [inner, said] of Object.entries(entry)) {
+        const field = slugFor(inner)
+        if (fields.includes(field)) file(field, said, `${propertySlug} ${field}`)
+      }
     }
   }
   return { entries, refused }
