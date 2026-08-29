@@ -1,20 +1,43 @@
 import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import ts from "typescript"
+import { importIn } from "../../../data-system/index/index-entries.module.code.ts"
 import type { Leaving } from "../../judging.module.code.ts"
-import { everyIn, foundOf, typecheck } from "./typecheck.check.code.ts"
+import { foundOf, reachedBy, typecheck } from "./typecheck.check.code.ts"
+
+const IMPORTS_AT = ".git/data/index/import/path"
+
+function reaching(root: string, files: Readonly<Record<string, string>>): void {
+  mkdirSync(join(root, IMPORTS_AT), { recursive: true })
+  for (const [at, body] of Object.entries(files)) {
+    for (const one of importIn(body, at, root)) {
+      const held = join(root, ".git/data/index", one.at)
+      mkdirSync(dirname(held), { recursive: true })
+      appendFileSync(held, `${one.line}\n`)
+    }
+  }
+}
 
 function staged(files: Readonly<Record<string, string>>): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-typecheck-"))
   mkdirSync(join(root, "akasha"))
-  for (const [at, body] of Object.entries(files)) writeFileSync(join(root, at), body)
+  for (const [at, body] of Object.entries(files)) {
+    mkdirSync(dirname(join(root, at)), { recursive: true })
+    writeFileSync(join(root, at), body)
+  }
+  reaching(root, files)
   return root
 }
 
-function leaving(root: string, over: Readonly<Record<string, string | null>>): Leaving {
+function leaving(
+  root: string,
+  over: Readonly<Record<string, string | null>>,
+  base: Readonly<Record<string, string>> = {}
+): Leaving {
   const held = new Map(Object.entries(over))
+  const standing = new Map(Object.entries(base))
   return {
     root,
     changed: [...held.keys()].sort(),
@@ -23,6 +46,8 @@ function leaving(root: string, over: Readonly<Record<string, string | null>>): L
         const said = held.get(path)
         return said === undefined || said === null ? null : new TextEncoder().encode(said)
       }
+      const found = standing.get(path)
+      if (found !== undefined) return new TextEncoder().encode(found)
       try {
         return readFileSync(join(root, path))
       } catch {
@@ -133,7 +158,8 @@ test("a file the change brings is compiled though no disk holds it", () => {
 
 test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", () => {
   const root = staged({
-    "akasha/broken.ts": "export const one: string = 1\n",
+    "akasha/broken.ts":
+      'import { a } from "./a.ts"\nimport { b } from "./b.ts"\nimport { c } from "./c.ts"\nexport const one: string = a + b + c\n',
     "akasha/a.ts": "export const a = 1\n",
     "akasha/b.ts": "export const b = 2\n",
     "akasha/c.ts": "export const c = 3\n",
@@ -175,13 +201,87 @@ test("a folder holding no TypeScript is judged clean without a program being bui
   rmSync(root, { recursive: true })
 })
 
-test("every TypeScript file under the akasha folder is compiled, and nothing else is", () => {
-  const root = staged({ "akasha/one.ts": "export const one = 1\n", "akasha/notes.txt": "no\n" })
-  mkdirSync(join(root, "akasha/deep"))
-  mkdirSync(join(root, "shared"))
-  writeFileSync(join(root, "akasha/deep/two.ts"), "export const two = 2\n")
-  writeFileSync(join(root, "shared/three.ts"), "export const three = 3\n")
-  expect(everyIn(root)).toEqual(["akasha/deep/two.ts", "akasha/one.ts"])
+test("the files compiled are the change and everything importing it, however far", () => {
+  const root = staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/deep/two.ts": 'import { one } from "../one.ts"\nexport const two = one\n',
+    "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
+  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/deep/three.ts",
+    "akasha/deep/two.ts",
+    "akasha/one.ts",
+  ])
+  expect(reachedBy(leaving(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
+    "akasha/apart.ts",
+  ])
+  rmSync(root, { recursive: true })
+})
+
+test("a file nothing in the change reaches is not compiled, so its standing errors are not this change's", () => {
+  const root = staged({
+    "akasha/broken.ts": "export const one: string = 1\n",
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
+  expect(typecheck(leaving(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
+  rmSync(root, { recursive: true })
+})
+
+test("a file outside the akasha folder never becomes a root, however the index names it", () => {
+  const root = staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
+  })
+  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/one.ts",
+  ])
+  rmSync(root, { recursive: true })
+})
+
+test("an index that is not there is refused, because an absent graph is not a graph naming no importer", () => {
+  const root = staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
+  })
+  rmSync(join(root, ".git"), { recursive: true })
+  expect(() => typecheck(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toThrow(
+    IMPORTS_AT
+  )
+  rmSync(root, { recursive: true })
+})
+
+test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {
+  const root = staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": "export const two = 2\n",
+  })
+  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+    "akasha/one.ts",
+  ])
+  rmSync(root, { recursive: true })
+})
+
+test("a change naming no TypeScript under the akasha folder asks the index nothing", () => {
+  const root = staged({ "akasha/one.ts": "export const one = 1\n" })
+  rmSync(join(root, ".git"), { recursive: true })
+  expect(typecheck(leaving(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
+  rmSync(root, { recursive: true })
+})
+
+test("a file whole at base and deleted from the worktree alone still answers for its errors", () => {
+  const root = staged({
+    "akasha/a.ts": "export const one: number = 1\n",
+    "akasha/b.ts": 'import { one } from "./a.ts"\nexport const two: string = one\n',
+  })
+  const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
+  const changed = { "akasha/a.ts": "export const one: number = 1\n" }
+  const standing = typecheck(leaving(root, changed))
+  rmSync(join(root, "akasha/b.ts"))
+  const gone = typecheck(leaving(root, changed, { "akasha/b.ts": held }))
+  expect(standing).toHaveLength(1)
+  expect(standing[0]?.path).toBe("akasha/b.ts")
+  expect(gone).toEqual(standing)
   rmSync(root, { recursive: true })
 })
 

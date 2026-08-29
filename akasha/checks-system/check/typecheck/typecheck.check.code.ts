@@ -1,6 +1,7 @@
-import { readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
+import { importersOf, indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const TS = ".ts"
@@ -11,7 +12,11 @@ const INSIDE = `${AKASHA}/`
 
 const PACKAGES = "node_modules"
 
-const PASSED = new Set([PACKAGES, "dist", "build"])
+const IMPORT = "import"
+
+const PATH = "path"
+
+const IMPORTS_AT = ".git/data/index/import/path"
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
@@ -31,27 +36,35 @@ export type Found = {
   readonly reason: string
 }
 
-function walked(root: string, at: string, found: string[]): void {
-  for (const entry of readdirSync(join(root, at), { withFileTypes: true })) {
-    if (entry.name.startsWith(".") || PASSED.has(entry.name)) continue
-    const path = `${at}/${entry.name}`
-    if (entry.isDirectory()) walked(root, path, found)
-    else if (entry.name.endsWith(TS)) found.push(path)
-  }
+export function compiled(path: string): boolean {
+  return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
-export function everyIn(root: string): readonly string[] {
-  const found: string[] = []
-  walked(root, AKASHA, found)
-  return found.sort()
+export function reachingIn(root: string): void {
+  if (existsSync(join(indexIn(root), IMPORT, PATH))) return
+  throw new Error(
+    `\`${IMPORTS_AT}\` is not there, so which files the change reaches could not be answered — an index that is missing is not an index naming no importer`
+  )
+}
+
+export function reachedBy(leaving: Leaving): readonly string[] {
+  const seeded = leaving.changed.filter(compiled)
+  if (seeded.length === 0) return []
+  reachingIn(leaving.root)
+  const found = new Set(seeded)
+  const waiting = [...seeded]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    for (const two of importersOf(leaving.root, one)) {
+      if (!compiled(two) || found.has(two)) continue
+      found.add(two)
+      waiting.push(two)
+    }
+  }
+  return [...found].sort()
 }
 
 export function rootsOf(leaving: Leaving): readonly string[] {
-  const found = new Set(everyIn(leaving.root))
-  for (const one of leaving.changed) {
-    if (one.endsWith(TS) && one.startsWith(INSIDE)) found.add(one)
-  }
-  return [...found].filter((one) => leaving.at(one) !== null).sort()
+  return reachedBy(leaving).filter((one) => leaving.at(one) !== null)
 }
 
 export function insideOf(root: string, at: string): string | null {
