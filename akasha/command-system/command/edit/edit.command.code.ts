@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import type { Asked, Held } from "../../asking.module.code.ts"
+import type { Asked, Held } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
@@ -9,8 +9,8 @@ import {
   textAt,
   textOf,
   troubling,
-} from "../../asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+} from "../../asking/asking.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import {
   COMMITTING,

@@ -1,8 +1,8 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { bytesAt, textOf } from "../../asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling.module.code.ts"
-import { bodyRead, differenceOf } from "../../differing.module.code.ts"
+import { bytesAt, textOf } from "../../asking/asking.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import { bodyRead, differenceOf } from "../../differing/differing.module.code.ts"
 import {
   blobIdOf,
   type Discard,
@@ -10,7 +10,7 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "../../reading.module.code.ts"
+} from "../../reading/reading.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 

@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { ADMITS_CODE, REFUSES_CODE } from "../testing-system/minting/minting.module.code.ts"
-import { put } from "../testing-system/putting/putting.module.code.ts"
+import { ADMITS_CODE, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
+import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { write } from "../command/write/write.command.code.ts"
+import { baseOf as headOf, UNNAMED } from "../landing.module.code.ts"
 import { committedLine, judgedBy, landingAsked, passedOver } from "./asking.module.code.ts"
 import {
   asking,
@@ -22,8 +24,6 @@ import {
   scratch,
   TIDY,
 } from "./asking.module.test-fixtures.ts"
-import { write } from "./command/write/write.command.code.ts"
-import { baseOf as headOf, UNNAMED } from "./landing.module.code.ts"
 
 afterAll(scratch.sweep)
 

@@ -1,7 +1,7 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { rootAbove } from "../../testing-system/rooting/rooting.module.code.ts"
 import { formattedBody } from "./code-format.module.code.ts"
 

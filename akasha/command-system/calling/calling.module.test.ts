@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { calling, commandsIn, HELP, HELP_SHORT } from "./calling.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
 
 const COMMANDS_AT = ".git/data/index/identity/command/slug"
 

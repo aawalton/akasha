@@ -16,7 +16,7 @@ import type { Judged, Judging, Leaving } from "../checks-system/judging/judging.
 import { indexIn } from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
-import { SCRATCH_AT } from "./scratching.module.code.ts"
+import { SCRATCH_AT } from "./scratching/scratching.module.code.ts"
 
 export type Change = {
   readonly path: string

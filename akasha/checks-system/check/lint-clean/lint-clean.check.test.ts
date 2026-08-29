@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { onDisk } from "../../checking/checking.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import { carriedIn, judgedOf, lintClean, outsideOf, reasonOf } from "./lint-clean.check.code.ts"

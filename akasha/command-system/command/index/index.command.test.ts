@@ -8,10 +8,10 @@ import { id as idPage } from "../../../pages-system/page/properties/id.text-prop
 import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
 import { textProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
-import type { Given } from "../../calling.module.code.ts"
-import { calling } from "../../calling.module.code.ts"
+import type { Given } from "../../calling/calling.module.code.ts"
+import { calling } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { driftBetween, index, readIn, surface } from "./index.command.code.ts"
 
 const CODE_AT = "akasha/command-system/command/index/index.command.code.ts"

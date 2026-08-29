@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { indexIn } from "../index-reading/index-reading.module.code.ts"
 import { beneath, type Reading, readingAt } from "../index-surface/index-surface.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const asking = {
   id: "01a04df0-ecce-7c46-bec3-1461348a7d55",

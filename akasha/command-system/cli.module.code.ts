@@ -1,6 +1,6 @@
 import { dirname, resolve } from "node:path"
-import type { Answer, Outside } from "./calling.module.code.ts"
-import { calling } from "./calling.module.code.ts"
+import type { Answer, Outside } from "./calling/calling.module.code.ts"
+import { calling } from "./calling/calling.module.code.ts"
 
 export const OK = 0
 

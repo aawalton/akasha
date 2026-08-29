@@ -15,7 +15,7 @@ import {
   saidOf,
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
+import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { beneath, overlaidOn, readingAt } from "./index-surface.module.code.ts"
 

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { refusalIn, SCOPE } from "./block-akasha-reads.agent-hook.code.ts"
 
 const scratch = scratchWorld()

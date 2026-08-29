@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
-import type { Answer, Given } from "../../calling.module.code.ts"
-import { blobIdOf } from "../../reading.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { blobIdOf } from "../../reading/reading.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { readWith, tellingWith } from "./read.command.code.ts"
 
 export const CALLED_AS = "akasha read"

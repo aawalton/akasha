@@ -8,7 +8,7 @@ import { until } from "../testing-system/waiting/waiting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
 import { declaring } from "./landing.module.test-fixtures.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
+import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const HOLDING_AT = new URL("./holding.module.code.ts", import.meta.url).pathname
 

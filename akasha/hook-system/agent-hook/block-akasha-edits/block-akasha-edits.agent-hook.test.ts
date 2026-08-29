@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { rootOf } from "../../hook-answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import { askedIn, holdingIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"

@@ -9,10 +9,10 @@ import {
   REFUSES_CODE,
 } from "../../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import { bodyIn, givenIn } from "../../asking.module.test-fixtures.ts"
+import { bodyIn, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing.module.code.ts"
-import { blobIdOf, recordRead } from "../../reading.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { surface, write } from "./write.command.code.ts"
 
 const ADMITS_AT = "akasha/admits.check*"

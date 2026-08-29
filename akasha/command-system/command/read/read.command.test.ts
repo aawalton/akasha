@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, readingIn } from "../../reading.module.code.ts"
+import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
 import { ANSWER_CEILING, costOf, readWith, surface } from "./read.command.code.ts"
 import {
   AGENT,

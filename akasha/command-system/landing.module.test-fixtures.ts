@@ -11,7 +11,7 @@ import { textProperty } from "../pages-system/text-property/text-property.page-t
 import { bytesOf } from "../testing-system/bodying/bodying.module.code.ts"
 import { gitIn } from "../testing-system/gitting/gitting.module.code.ts"
 import type { Change } from "./landing.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
+import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 

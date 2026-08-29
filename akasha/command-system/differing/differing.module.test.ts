@@ -2,10 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { bytesOf as bodyOf } from "../testing-system/bodying/bodying.module.code.ts"
+import { bytesOf as bodyOf } from "../../testing-system/bodying/bodying.module.code.ts"
+import { blobIdOf } from "../reading/reading.module.code.ts"
+import { SCRATCH_AT, scratchWorld } from "../scratching/scratching.module.code.ts"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
-import { blobIdOf } from "./reading.module.code.ts"
-import { SCRATCH_AT, scratchWorld } from "./scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

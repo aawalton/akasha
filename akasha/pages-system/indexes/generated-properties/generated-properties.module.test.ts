@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { indexIn } from "../index-reading/index-reading.module.code.ts"
 import { generatedProperties } from "./generated-properties.module.code.ts"

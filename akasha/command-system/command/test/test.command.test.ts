@@ -1,8 +1,8 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Given } from "../../calling.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import type { Given } from "../../calling/calling.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { ANSWER_CEILING, aiming, bounded, test } from "./test.command.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

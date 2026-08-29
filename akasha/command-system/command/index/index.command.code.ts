@@ -7,8 +7,8 @@ import {
   unlandedIn,
 } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
-import { counted } from "../../asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import { counted } from "../../asking/asking.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
 import { holding } from "../../holding.module.code.ts"
 import { oneLine } from "../../landing.module.code.ts"
 

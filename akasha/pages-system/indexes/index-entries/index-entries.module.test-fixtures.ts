@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { id as idPage } from "../../page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../page/properties/slug.text-property.ts"
 import type { Shaped } from "../reaching/reaching.module.code.ts"

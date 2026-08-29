@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import type { Summary, Verdict } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { ranOver, testsUnder } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 

@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, readingIn } from "../command-system/reading.module.code.ts"
+import { blobIdOf, readingIn } from "../command-system/reading/reading.module.code.ts"
 import {
   slugsOfType,
   standingAt,

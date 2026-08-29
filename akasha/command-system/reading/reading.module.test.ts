@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, type Stats, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   blobIdOf,
   discardedBy,
@@ -9,7 +10,6 @@ import {
   readingIn,
   recordRead,
 } from "./reading.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
 
 const scratch = scratchWorld()
 
