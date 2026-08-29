@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import { dirname, isAbsolute, join, relative, resolve } from "node:path"
 import ts from "typescript"
-import { everyPage, indexIn } from "../../../data-system/index/index-reading.module.code.ts"
+import { indexIn, standingByPath } from "../../../data-system/index/index-reading.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import type { Asked } from "../write/write.command.code.ts"
@@ -32,6 +32,12 @@ const BARE = [DRY_RUN]
 const RELATIVE = /^\.\.?\//
 
 const BESIDE = /^(code|test)\.[a-z0-9]+$/
+
+export const PATHS_AT = ".git/data/index/identity/page/path"
+
+const NO_PATHS =
+  `\`${PATHS_AT}\` is not there, so what names it could not be answered — an index that is ` +
+  "missing is not an index naming no page"
 
 const NOT_ESTABLISHED =
   "nothing was repointed in the files that import what moved — the index carries no edge from a " +
@@ -122,11 +128,25 @@ export function besideOf(root: string, path: string): readonly string[] {
   return found.sort()
 }
 
-export function namingOf(root: string, path: string): readonly string[] {
-  const held = everyPage(root).find((one) => one.path === path)
-  if (held === undefined) return []
-  const dir = join(indexIn(root), "relation", "page", "id", held.id)
-  if (!existsSync(dir)) return []
+export type Naming =
+  | { readonly names: readonly string[] }
+  | { readonly unread: string }
+
+export function namingOf(root: string, path: string): Naming {
+  const index = indexIn(root)
+  if (!existsSync(join(root, PATHS_AT))) return { unread: NO_PATHS }
+  const standing = standingByPath(root, path)
+  if (standing.length > 1) {
+    return {
+      unread:
+        `the index answers ${standing.length} pages to the path \`${path}\`, so what names it ` +
+        "could not be answered",
+    }
+  }
+  const held = standing[0]
+  if (held === undefined) return { names: [] }
+  const dir = join(index, "relation", "page", "id", held.id)
+  if (!existsSync(dir)) return { names: [] }
   const found = new Set<string>()
   for (const property of readdirSync(dir)) {
     const at = join(dir, property)
@@ -139,7 +159,7 @@ export function namingOf(root: string, path: string): readonly string[] {
       }
     }
   }
-  return [...found].sort()
+  return { names: [...found].sort() }
 }
 
 type Held = {
@@ -252,9 +272,11 @@ function sidedIn(
     if (nameOf(from) !== nameOf(to)) {
       const naming = namingOf(root, from)
       const among =
-        naming.length === 0
-          ? "the index shows no page naming it"
-          : `these name it — ${naming.join(", ")}`
+        "unread" in naming
+          ? naming.unread
+          : naming.names.length === 0
+            ? "the index shows no page naming it"
+            : `these name it — ${naming.names.join(", ")}`
       refusals.push(
         `${from} would arrive called \`${nameOf(to)}\` — a move carries a body as it stands, and a ` +
           `page states its own slug and is named by that slug, so renaming is not a move (${among})`

@@ -32,6 +32,14 @@ export const move = {
     },
     {
       invariantKind: "departure",
+      statement: "A missing index leaves what names a file unread rather than naming nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path two pages claim leaves what names it unread rather than read from either.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every pair a call names lands together or not at all.",
     },
     {

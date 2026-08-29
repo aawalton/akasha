@@ -4,7 +4,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
-import { besideOf, move, pairsIn, repointed, underAkasha } from "./move.command.code.ts"
+import { besideOf, move, pairsIn, PATHS_AT, repointed, underAkasha } from "./move.command.code.ts"
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -67,42 +67,33 @@ export const held = { ts, other }
 
 const OTHER = `export const other = 1\n`
 
-const REFUSES_PAGE = `export const refuses = {
-  id: "01a04bed-1450-7000-8000-00000000bbbb",
-  pageTypeSlug: "check",
-  slug: "refuses",
-  definition: "a check refusing everything",
-  code: "ts",
-  needs: "path",
-  runsOn: ["patch"],
-}
-`
-
-const REFUSES_CODE = `export function refuses(leaving) {
+const REFUSES = `export function refuses(leaving) {
   return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
 }
 `
 
-const ADMITS_PAGE = `export const admits = {
-  id: "01a04bed-1450-7000-8000-00000000cccc",
+const ADMITS = `export function admits() {
+  return []
+}
+`
+
+function pageFor(slug: string, id: string): string {
+  return `export const ${slug} = {
+  id: "${id}",
   pageTypeSlug: "check",
-  slug: "admits",
-  definition: "a check admitting everything",
+  slug: "${slug}",
+  definition: "a check for the test",
   code: "ts",
   needs: "path",
   runsOn: ["patch"],
 }
 `
-
-const ADMITS_CODE = `export function admits() {
-  return []
 }
-`
 
-function minting(root: string, slug: string, page: string, code: string, id: string): void {
+function minting(root: string, slug: string, id: string, code: string): void {
   const at = `akasha/${slug}.check.ts`
   mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, at), page)
+  writeFileSync(join(root, at), pageFor(slug, id))
   writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
   const dir = join(root, ".git/data/index/identity/check/slug")
   mkdirSync(dir, { recursive: true })
@@ -110,11 +101,11 @@ function minting(root: string, slug: string, page: string, code: string, id: str
 }
 
 function refusing(root: string): void {
-  minting(root, "refuses", REFUSES_PAGE, REFUSES_CODE, "01a04bed-1450-7000-8000-00000000bbbb")
+  minting(root, "refuses", "01a04bed-1450-7000-8000-00000000bbbb", REFUSES)
 }
 
 function admitting(root: string): void {
-  minting(root, "admits", ADMITS_PAGE, ADMITS_CODE, "01a04bed-1450-7000-8000-00000000cccc")
+  minting(root, "admits", "01a04bed-1450-7000-8000-00000000cccc", ADMITS)
 }
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
@@ -171,23 +162,45 @@ test("every answer says the files importing what moved were not established", ()
   swept(root)
 })
 
-test("a move that would change what a page is called is refused, and names what names it", () => {
-  const root = repoWith({ [HELD]: PAGE })
-  const id = "01a04bed-1450-7000-8000-00000000aaaa"
-  const naming = join(root, `.git/data/index/relation/page/id/${id}/required-reading-slugs`)
-  mkdirSync(naming, { recursive: true })
-  writeFileSync(
-    join(naming, "01a04bed-1450-7000-8000-00000000cccc.jsonl"),
-    `${JSON.stringify({ path: "akasha/elsewhere/reader.module.ts" })}\n`
-  )
-  const held = join(root, ".git/data/index/identity/page/id")
-  mkdirSync(held, { recursive: true })
-  writeFileSync(join(held, `${id}.jsonl`), `${JSON.stringify({ path: HELD, id })}\n`)
-  const said = move(["--from", HELD, "--to", "akasha/one/other.module.ts"], givenIn(root))
+const AAAA = "01a04bed-1450-7000-8000-00000000aaaa"
+
+const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
+
+const READER = "akasha/elsewhere/reader.module.ts"
+
+function claiming(root: string, path: string, ids: readonly string[]): void {
+  const at = join(root, PATHS_AT, `${path}.jsonl`)
+  mkdirSync(join(at, ".."), { recursive: true })
+  writeFileSync(at, ids.map((id) => `${JSON.stringify({ path, id })}\n`).join(""))
+}
+
+function naming(root: string, id: string): void {
+  const at = join(root, ".git/data/index/relation/page/id", id, "required-reading-slugs")
+  mkdirSync(at, { recursive: true })
+  writeFileSync(join(at, `${AAAA}.jsonl`), `${JSON.stringify({ path: READER })}\n`)
+}
+
+function renamed(root: string): string {
+  const said = move(RENAME, givenIn(root))
+  const why = said.refusals.join("\n")
   expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("renaming is not a move")
-  expect(said.refusals.join("\n")).toContain("akasha/elsewhere/reader.module.ts")
+  expect(why).toContain("renaming is not a move")
   expect(stands(root, HELD)).toBe(true)
+  return why
+}
+
+test("a rename names what names the file, and only where the index answers one page", () => {
+  const root = repoWith({ [HELD]: PAGE })
+  naming(root, AAAA)
+  expect(renamed(root)).toContain(`\`${PATHS_AT}\` is not there, so what names it could not be answered`)
+  claiming(root, "akasha/one/two.module.ts", [AAAA])
+  expect(renamed(root)).toContain("the index shows no page naming it")
+  claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
+  const two = renamed(root)
+  expect(two).toContain(`the index answers 2 pages to the path \`${HELD}\``)
+  expect(two).not.toContain(READER)
+  claiming(root, HELD, [AAAA])
+  expect(renamed(root)).toContain(READER)
   swept(root)
 })
 
@@ -314,7 +327,6 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   )
   expect(stands(root, THREE)).toBe(true)
   expect(stands(root, HELD)).toBe(false)
-  expect(git(root, ["log", "-1", "--pretty=%s"]).trim()).toBe("held moves")
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
     "held moves\n\nChecks-bypassed: the check is wrong"
   )
