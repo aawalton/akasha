@@ -3,11 +3,10 @@ import { join } from "node:path"
 import ts from "typescript"
 import { filePropertiesAt } from "../../../data-system/index/index-entries.module.code.ts"
 import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
+import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
-
-const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const SCHEMA_AT = ".git/data/index/schema/page-property-type/slug"
 
@@ -62,12 +61,10 @@ export function pageIn(path: string, text: string): Stated | null {
 }
 
 export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
-  const name = given.path.slice(given.path.lastIndexOf("/") + 1)
-  const said = NAMED.exec(name)
+  const said = namedIn(given.path)
   if (said === null) return []
-  const stem = said[1]
-  const suffix = said[2]
-  if (stem === undefined || suffix === undefined) return []
+  const stem = said.stem
+  const suffix = said.tail
   if (heldInAFile.has(suffix)) return []
   const text = bodyOf(given)
   if (text === null) return []

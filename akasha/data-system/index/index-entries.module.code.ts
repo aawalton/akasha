@@ -4,6 +4,7 @@ import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
+import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -39,8 +40,6 @@ export type Loaded = {
   readonly failed: string | null
 }
 
-export const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
-
 export function loadedFrom(body: string): Loaded {
   const held = mkdtempSync(join(tmpdir(), "akasha-index-"))
   try {
@@ -74,8 +73,8 @@ export function pageTypesIn(root: string): ReadonlySet<string> {
 }
 
 export function pageTyped(path: string, pageTypes: ReadonlySet<string>): boolean {
-  const said = NAMED.exec(path.slice(path.lastIndexOf("/") + 1))
-  return said !== null && said[2] !== undefined && pageTypes.has(said[2])
+  const said = namedIn(path)
+  return said !== null && pageTypes.has(said.tail)
 }
 
 function slugOf(named: string): string {

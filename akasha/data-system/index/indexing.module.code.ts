@@ -9,6 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
+import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 import type { Entry, Value } from "./index-entries.module.code.ts"
 import {
   filePropertiesAt,
@@ -18,7 +19,6 @@ import {
   knownIn,
   linesIn,
   loadedFrom,
-  NAMED,
   NOTHING_FILED,
   pageTyped,
   pageTypesIn,
@@ -87,29 +87,28 @@ function settleOver(root: string, was: readonly Entry[], now: readonly Entry[]):
 }
 
 function pageShaped(path: string, fileProperties: ReadonlySet<string>): boolean {
-  const said = NAMED.exec(path.slice(path.lastIndexOf("/") + 1))
-  return said !== null && said[2] !== undefined && !fileProperties.has(said[2])
+  const said = namedIn(path)
+  return said !== null && !fileProperties.has(said.tail)
 }
 
 function pagesUnder(tree: string): readonly string[] {
-  const named = NAMED
   const found: string[] = []
   const walk = (at: string): void => {
     for (const one of readdirSync(at, { withFileTypes: true })) {
       const here = join(at, one.name)
       if (one.isDirectory()) walk(here)
-      else if (named.test(one.name)) found.push(here)
+      else if (namedIn(one.name) !== null) found.push(here)
     }
   }
   walk(tree)
   const pageTypes = new Set<string>(["page-type"])
   for (const one of found) {
-    const said = named.exec(one.slice(one.lastIndexOf("/") + 1))
-    if (said !== null && said[2] === "page-type" && said[1] !== undefined) pageTypes.add(said[1])
+    const said = namedIn(one)
+    if (said !== null && said.tail === "page-type") pageTypes.add(said.stem)
   }
   return found.filter((one) => {
-    const said = named.exec(one.slice(one.lastIndexOf("/") + 1))
-    return said !== null && said[2] !== undefined && pageTypes.has(said[2])
+    const said = namedIn(one)
+    return said !== null && pageTypes.has(said.tail)
   })
 }
 

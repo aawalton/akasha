@@ -1,9 +1,8 @@
 import { idsNaming, standingAt } from "../../../data-system/index/index-reading.module.code.ts"
+import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
-
-const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const INSIDE = "akasha/"
 
@@ -15,12 +14,9 @@ const THE_WHOLE = "akasha-system"
 
 export function domainSlugOf(path: string): string | null {
   if (!path.startsWith(INSIDE)) return null
-  const name = path.slice(path.lastIndexOf("/") + 1)
-  const said = NAMED.exec(name)
-  if (said === null) return null
-  const stem = said[1]
-  if (stem === undefined || said[2] !== DOMAIN) return null
-  return stem
+  const said = namedIn(path)
+  if (said === null || said.tail !== DOMAIN) return null
+  return said.stem
 }
 
 export function reasonsIn(given: Body): readonly string[] {

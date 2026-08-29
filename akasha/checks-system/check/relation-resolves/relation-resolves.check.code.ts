@@ -1,7 +1,6 @@
 import {
   type Known,
   knownIn,
-  NAMED,
   pageTyped,
   pageTypesIn,
   reaches,
@@ -18,6 +17,7 @@ import {
   standingById,
   standingByPath,
 } from "../../../data-system/index/index-reading.module.code.ts"
+import { namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
@@ -132,7 +132,7 @@ export type Mortality = {
 const PAGE_TYPE = "page-type"
 
 export function pageTypeOf(path: string): string | null {
-  return NAMED.exec(path.slice(path.lastIndexOf("/") + 1))?.[2] ?? null
+  return namedIn(path)?.tail ?? null
 }
 
 export function mortalityIn(root: string, known: Known): Mortality {
