@@ -137,6 +137,8 @@ export const SCOPE: readonly string[] = [
   "worktree, so it holds no opinion to derive this list from.",
   "This list samples an open world. It does not define one.",
   "",
+  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  git checkout-index -a -f      writes the working tree from the index",
   "  git read-tree -u <tree>       writes the working tree from a tree",

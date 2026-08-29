@@ -136,6 +136,8 @@ export const SCOPE: readonly string[] = [
   "  An absolute path into this repository carries an `akasha` segment for the repository's",
   "    own directory, so it reads as inside and is refused. That is over-refusal, not a gap.",
   "",
+  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "",
   "NOT NAMED HERE ON PURPOSE:",
   "  `rm`, `checkout` and `restore` write tracked akasha content, and this does not name them.",
   "  block-destructive-git refuses every form of all three, at every path, so naming them",
