@@ -48,6 +48,21 @@ export const agentHook = {
       invariantKind: "absence",
       statement: "A call a hook let through is not a call it allowed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What registers a hook is worked out from this page, and no file names one by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A hook binds an agent from its next spawn after the page lands, never mid-session.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "What works the registration out stands outside the akasha system, until akasha answers for its own settings.",
+    },
   ],
   directives: [
     {
