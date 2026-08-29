@@ -7,6 +7,7 @@ domain-parent-slug: domain/domain-shape
 required-reading-slugs:
   - page-body-section/domain-principle
   - page-body-section/domain-rule
+  - page-body-shape/domain
 conditional-reading-slugs:
   - define-directive
 settled: true
@@ -18,7 +19,7 @@ settled: true
 
 # Design
 
-A domain directive stands as four lines: its act, its warrant, and two aids. The act and the warrant run to a hundred characters, the aids to fifty.
+A domain directive stands as four lines: its act, its warrant, and two aids.
 
 A warrant is the general fact the act follows from.
 
