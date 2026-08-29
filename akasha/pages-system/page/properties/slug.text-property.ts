@@ -9,6 +9,7 @@ export const slug = {
   definition: "the name a page is reached by",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
+  unique: "page-type",
   invariants: [
     {
       invariantKind: "departure",

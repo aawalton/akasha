@@ -9,4 +9,5 @@ export const id = {
   definition: "the identity a page keeps for its whole life",
   max: 36,
   nameFormatSlug: "name-format/lower-uuid",
+  unique: "always",
 } as const satisfies TextProperty
