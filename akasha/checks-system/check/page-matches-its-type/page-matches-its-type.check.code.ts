@@ -105,6 +105,20 @@ function overTotal(held: readonly unknown[], total: number | null, slug: string)
   return `holds ${sum} characters of \`${slug}\`, over the total of ${total}`
 }
 
+function twiceIn(held: readonly unknown[], slug: string): string | null {
+  const seen = new Set<string>()
+  for (const one of held) {
+    const key = typeof one === "string" ? one : JSON.stringify(one)
+    if (typeof key !== "string") continue
+    if (seen.has(key)) {
+      const said = typeof one === "string" ? `"${one}"` : "an entry"
+      return `repeats ${said} in \`${slug}\`, and a list carries each value once`
+    }
+    seen.add(key)
+  }
+  return null
+}
+
 export function reasonsIn(
   value: Value,
   declared: ReadonlyMap<string, Declared>,
@@ -133,6 +147,8 @@ export function reasonsIn(
     if (one.many && listed) {
       const why = overTotal(held, one.total, slug)
       if (why !== null) said.push(why)
+      const twice = twiceIn(held, slug)
+      if (twice !== null) said.push(twice)
     }
     const page = property(slug)
     if (page === null) continue
@@ -169,6 +185,8 @@ export function reasonsIn(
         if (shaped.many && many) {
           const why = overTotal(value_, shaped.total, `${slug} ${field}`)
           if (why !== null) said.push(why)
+          const twice = twiceIn(value_, `${slug} ${field}`)
+          if (twice !== null) said.push(twice)
         }
         for (const each of many ? value_ : [value_]) {
           const why = overMax(each, max, `${slug} ${field}`, "")

@@ -154,3 +154,10 @@ test("a single value declared many is refused, and a list declared single is ref
 test("a page type that declares nothing anywhere leaves an empty map", () => {
   expect(declaredFor("no-such-type", read).size).toBe(0)
 })
+
+test("a list repeating a value is refused, and one carrying each once is not", () => {
+  expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "x"] }, "check")).toEqual([
+    `repeats "x" in \`aids\`, and a list carries each value once`,
+  ])
+  expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "y"] }, "check")).toEqual([])
+})
