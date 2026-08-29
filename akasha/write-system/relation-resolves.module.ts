@@ -9,6 +9,7 @@ export const relationResolves = {
   requiredReadingSlugs: [
     "akasha-check",
     "akasha-page-edge",
+    "target-page-type-slug",
   ],
   design: [
     "A relation check walks `extendsSlug`.",
