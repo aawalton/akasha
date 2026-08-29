@@ -11,10 +11,10 @@ import {
   OK,
   OPERATIONAL,
   outsideOf,
-  rootOf,
   saidOf,
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
+import { rootOf } from "./rooting/rooting.module.code.ts"
 import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
@@ -34,7 +34,7 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function checkoutOf(): string {
-  const from = rootOf(import.meta.path)
+  const from = rootOf(import.meta.path) ?? ""
   const root = scratch.rootFor("akasha-cli-")
   cpSync(join(from, "akasha"), join(root, "akasha"), { recursive: true })
   for (const one of CARRIED) cpSync(join(from, one), join(root, one))
@@ -96,10 +96,6 @@ test("the glass carries a change past checks that cannot be loaded at all", () =
   expect(body).toContain("Checks-bypassed: mid-refactor")
   expect(body).toContain("Checks-unloadable: BuildMessage:")
 }, 60000)
-
-test("the root is the folder two above the dispatcher when nothing states one", () => {
-  expect(rootOf(AT)).toBe("/somewhere")
-})
 
 test("a stated root wins over where the dispatcher stands", () => {
   const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
