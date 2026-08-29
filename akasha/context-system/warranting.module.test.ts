@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { blobIdOf, recordRead } from "./reading.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
+import { blobIdOf, recordRead } from "../command-system/reading.module.code.ts"
+import { scratchWorld } from "../command-system/scratching.module.code.ts"
 import { ITSELF, NO_AGENT, TYPE, unreadIn, warrantsIn } from "./warranting.module.code.ts"
 
 const scratch = scratchWorld()
