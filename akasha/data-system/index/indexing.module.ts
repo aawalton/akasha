@@ -24,4 +24,7 @@ export const indexing = {
     "A body that will not load is reported only for a page.",
     "The repository root is given to the index rather than derived from where the index sits.",
   ],
+  intent: [
+    "A page the index cannot read is reported, never answered as empty.",
+  ],
 } as const satisfies Module
