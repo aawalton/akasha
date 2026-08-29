@@ -1,12 +1,15 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import { besideOf } from "./page-beside.module.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function rootWith(paths: readonly string[]): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-beside-"))
+  const root = scratch.rootFor("akasha-beside-")
   for (const one of paths) {
     const at = join(root, one)
     mkdirSync(dirname(at), { recursive: true })

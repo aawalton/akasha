@@ -1,12 +1,11 @@
 import { spawnSync } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { SCRATCH_AT } from "./scratching.module.code.ts"
 
 const OBJECT_ID = /^[0-9a-f]{40,64}$/
 
 const HELD_AT_MOST = 64 * 1024 * 1024
-
-const SCRATCH_AT = "/var/tmp"
 
 const DIFFERING_AT = "akasha-differing-"
 

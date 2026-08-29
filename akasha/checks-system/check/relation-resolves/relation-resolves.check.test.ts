@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
   danglingIn,
@@ -11,8 +12,6 @@ import {
   relationProperties,
   relationResolves,
 } from "./relation-resolves.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -57,11 +56,9 @@ const SCHEMA: Record<string, Record<string, string | null>> = {
   definition: { pageTypeSlug: "text-property", targetPageTypeSlug: null },
 }
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function put(root: string, at: string, body: string): void {
   const full = join(root, at)
@@ -107,8 +104,7 @@ function naming(
 }
 
 function rooted(carrying: boolean = true): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-relation-resolves-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-relation-resolves-")
   let count = 0
   for (const [slug, extendsSlug, mortal] of TYPES) {
     count += 1

@@ -1,14 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Leaving } from "../../judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,
   statedBy,
 } from "./page-property-has-its-file.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -20,11 +19,9 @@ const CODE = "akasha/a/held.module.code.ts"
 
 const TEST = "akasha/a/held.module.test.ts"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function filed(root: string, at: string, line: string): void {
   const full = join(root, INDEX, at)
@@ -33,8 +30,7 @@ function filed(root: string, at: string, line: string): void {
 }
 
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-property-filed-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-property-filed-")
   for (const one of ["module", "check", "domain", "page-type"]) {
     filed(
       root,

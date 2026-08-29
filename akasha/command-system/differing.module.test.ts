@@ -4,9 +4,7 @@ import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
 import { blobIdOf } from "./reading.module.code.ts"
-import { scratchWorld } from "./scratching.module.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
+import { SCRATCH_AT, scratchWorld } from "./scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

@@ -1,13 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import {
   domainIsNamedByAParent,
   domainNamedIn,
   reasonsIn,
 } from "./domain-is-named-by-a-parent.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -17,16 +16,12 @@ const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
 const TWO = "01a04d5f-c731-7002-8000-000000000002"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-parented-"))
-  held.push(root)
-  return root
+  return scratch.rootFor("akasha-parented-")
 }
 
 function standing(root: string, slug: string, id: string): void {

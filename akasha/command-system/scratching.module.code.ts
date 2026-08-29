@@ -1,7 +1,7 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 
-const SCRATCH_AT = "/var/tmp"
+export const SCRATCH_AT = "/var/tmp"
 
 export type Scratch = {
   readonly rootFor: (prefix: string) => string

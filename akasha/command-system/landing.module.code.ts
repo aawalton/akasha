@@ -16,6 +16,7 @@ import type { Judged, Judging, Leaving } from "../checks-system/judging.module.c
 import { indexIn } from "../pages-system/index/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/index/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
+import { SCRATCH_AT } from "./scratching.module.code.ts"
 
 export { holding }
 
@@ -54,8 +55,6 @@ export const INDEXING_AT = "akasha/pages-system/index/indexing.module.code.ts"
 const PATCH = "patch"
 
 const SAID_AT_MOST = 240
-
-const SCRATCH_AT = "/var/tmp"
 
 const CAT_FILE = "akasha-cat-file-"
 

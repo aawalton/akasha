@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Leaving } from "../../judging.module.code.ts"
 import {
   claimedByTheChange,
@@ -9,17 +10,13 @@ import {
   unclaimedIn,
 } from "./file-has-its-page.check.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
-
 const INDEX = join(".git", "data", "index")
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function filed(root: string, at: string, line: string): void {
   const full = join(root, INDEX, at)
@@ -28,8 +25,7 @@ function filed(root: string, at: string, line: string): void {
 }
 
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-claimed-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-claimed-")
   for (const one of ["module", "check", "domain", "page-type"]) {
     filed(
       root,
