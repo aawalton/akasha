@@ -21,6 +21,10 @@ export const contextWarrant = {
     "boolean-property/runs-on-read",
     "boolean-property/runs-on-write",
     "boolean-property/transitive",
+    "context-warrant/file-domain",
+    "context-warrant/file-import",
+    "context-warrant/file-property",
+    "context-warrant/file-property-file",
   ],
   extendsSlug: "page-type/module",
   properties: [
