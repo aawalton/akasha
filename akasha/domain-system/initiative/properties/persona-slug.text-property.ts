@@ -8,7 +8,7 @@ export const personaSlug = {
   slug: "persona-slug",
   definition: "the persona an initiative belongs to",
   max: 100,
-  nameFormatSlug: null,
+  nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",
