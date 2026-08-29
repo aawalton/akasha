@@ -2,12 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import { appendFileSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import type { Leaving } from "../../judging.module.code.ts"
+import type { Judged, Leaving } from "../../judging.module.code.ts"
 import {
   danglingIn,
   knownAcross,
   mortalityIn,
   namersOf,
+  pageTypeOf,
   relationProperties,
   relationResolves,
 } from "./relation-resolves.check.code.ts"
@@ -274,13 +275,16 @@ test("a refusal is laid on the page that names, and one is raised for each name"
   const root = rooted()
   const known = knownAcross(over(root, [], {}), [])
   const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
-  expect(danglingIn(A, value, known, mortalityIn(root)).map((one) => one.reason)).toEqual([
+  expect(danglingIn(A, value, known, mortalityIn(root, known)).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
     "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
   ])
 })
 
 const NOT_MORTAL = "states `spark-slug`, and a page that is not mortal cannot name a mortal `spark`"
+
+const REACHED_MORTAL =
+  "states `domain-slug`, and a page that is not mortal cannot name a mortal `spark`"
 
 test("a page that is not mortal naming a mortal page type is refused, reached or not", () => {
   const root = rooted()
@@ -310,6 +314,55 @@ test("a change taking a mortal page away is silent though a page still names it"
   standing(root, T, T_ID, "spark", "t")
   const bodies = { [T]: stating(T_ID, "t", "spark", ', sparkSlug: "spark/s"'), [S]: null }
   expect(relationResolves(over(root, [S], bodies))).toEqual([])
+})
+
+function reaching(root: string, stated: string): readonly Judged[] {
+  return relationResolves(over(root, [A], note(stated)))
+}
+
+const refusing = [{ path: A, reason: REACHED_MORTAL }]
+
+test("a target that is not mortal is refused for the mortal page the name reaches", () => {
+  const root = rooted()
+  standing(root, S, S_ID, "spark", "s")
+  expect(reaching(root, ', domainSlug: "spark/s"')).toEqual(refusing)
+  expect(reaching(root, ', domainSlug: "s"')).toEqual(refusing)
+  expect(reaching(root, `, domainSlug: "${S_ID}"`)).toEqual(refusing)
+  expect(reaching(root, ', domainSlug: "domain/d"')).toEqual([])
+})
+
+test("a mortal page the change itself carries is read for its page type too", () => {
+  const root = rooted()
+  const bodies = { ...note(', domainSlug: "spark/s"'), [S]: stating(S_ID, "s", "spark") }
+  expect(relationResolves(over(root, [A, S], bodies))).toEqual(refusing)
+})
+
+test("every name in a list reaching a mortal page is refused, one refusal each", () => {
+  const root = rooted()
+  standing(root, S, S_ID, "spark", "s")
+  standing(root, T, T_ID, "spark", "t")
+  const said = reaching(root, ', partSlugs: ["spark/s", "spark/t"]')
+  const one = "states `part-slugs`, and a page that is not mortal cannot name a mortal `spark`"
+  expect(said).toEqual([{ path: A, reason: one }, { path: A, reason: one }])
+})
+
+test("a mortal page reaching a mortal page through a target that is not is silent", () => {
+  const root = rooted()
+  standing(root, S, S_ID, "spark", "s")
+  const bodies = { [T]: stating(T_ID, "t", "spark", ', domainSlug: "spark/s"') }
+  expect(relationResolves(over(root, [T], bodies))).toEqual([])
+})
+
+test("a name reaching nothing under a target that is not mortal is a plain dangle", () => {
+  const root = rooted()
+  expect(reaching(root, ', domainSlug: "spark/gone"')).toEqual([
+    { path: A, reason: "states `domain-slug`, and no `spark` carries the slug `gone`" },
+  ])
+})
+
+test("the page type of a reached page is read from its path, not from a page load", () => {
+  expect(pageTypeOf("akasha/t/s.spark.ts")).toBe("spark")
+  expect(pageTypeOf("akasha/t/held.ts")).toBe(null)
 })
 
 test("the check reads the index under the root it was given, and no other", () => {

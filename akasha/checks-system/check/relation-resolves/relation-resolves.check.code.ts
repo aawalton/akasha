@@ -2,6 +2,7 @@ import {
   type Known,
   type Standing,
   type Value,
+  NAMED,
   knownIn,
   pageTyped,
   pageTypesIn,
@@ -123,21 +124,43 @@ export function namersOf(leaving: Leaving, properties: readonly string[]): reado
   return [...found].sort()
 }
 
-export type Mortality = (pageTypeSlug: string) => boolean
+export type Mortality = {
+  readonly stated: (pageTypeSlug: string) => boolean
+  readonly reached: (id: string) => string | null
+}
 
 const PAGE_TYPE = "page-type"
 
-export function mortalityIn(root: string): Mortality {
-  const answered = new Map<string, boolean>()
-  return (pageTypeSlug) => {
-    const held = answered.get(pageTypeSlug)
+export function pageTypeOf(path: string): string | null {
+  return NAMED.exec(path.slice(path.lastIndexOf("/") + 1))?.[2] ?? null
+}
+
+export function mortalityIn(root: string, known: Known): Mortality {
+  const byType = new Map<string, boolean>()
+  const byPage = new Map<string, string | null>()
+  const stated = (pageTypeSlug: string): boolean => {
+    const held = byType.get(pageTypeSlug)
     if (held !== undefined) return held
     const one = standingAt(root, PAGE_TYPE, pageTypeSlug)[0]
     const value = one === undefined ? null : valueAt(one.path, root)
     const said = value !== null && value["mortal"] === true
-    answered.set(pageTypeSlug, said)
+    byType.set(pageTypeSlug, said)
     return said
   }
+  const reached = (id: string): string | null => {
+    const held = byPage.get(id)
+    if (held !== undefined) return held
+    const one = known.byId(id)
+    const pageTypeSlug = one === null ? null : pageTypeOf(one.path)
+    const said = pageTypeSlug !== null && stated(pageTypeSlug) ? pageTypeSlug : null
+    byPage.set(id, said)
+    return said
+  }
+  return { stated, reached }
+}
+
+function cannot(propertySlug: string, pageTypeSlug: string): string {
+  return `states \`${propertySlug}\`, and a page that is not mortal cannot name a mortal \`${pageTypeSlug}\``
 }
 
 export function danglingIn(
@@ -146,9 +169,9 @@ export function danglingIn(
   known: Known,
   mortal: Mortality
 ): readonly Judged[] {
-  const said: Judged[] = []
   const own = textAt(value, "pageTypeSlug")
-  const near = own !== null && mortal(own)
+  if (own !== null && mortal.stated(own)) return []
+  const said: Judged[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held === null) continue
     const propertySlug = kebab(key)
@@ -156,18 +179,18 @@ export function danglingIn(
     if (wanted === null) continue
     const names = namesIn(held)
     if (names.length === 0) continue
-    const far = mortal(wanted)
-    if (far && !near) {
-      const reason = `states \`${propertySlug}\`, and a page that is not mortal cannot name a mortal \`${wanted}\``
-      said.push({ path, reason })
+    if (mortal.stated(wanted)) {
+      said.push({ path, reason: cannot(propertySlug, wanted) })
       continue
     }
-    if (near || far) continue
     for (const named of names) {
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
         said.push({ path, reason: `states \`${propertySlug}\`, and ${reached.refused}` })
+        continue
       }
+      const dies = mortal.reached(reached.id)
+      if (dies !== null) said.push({ path, reason: cannot(propertySlug, dies) })
     }
   }
   return said
@@ -179,7 +202,7 @@ export function relationResolves(leaving: Leaving): readonly Judged[] {
   const took = leaving.changed.some((one) => leaving.at(one) === null)
   if (carried.length === 0 && !took) return []
   const known = knownAcross(leaving, carried)
-  const mortal = mortalityIn(leaving.root)
+  const mortal = mortalityIn(leaving.root, known)
   const said: Judged[] = []
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said

@@ -31,13 +31,12 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A relation with either end on a mortal page is never refused for reaching no page.",
+      statement: "A mortal page is never refused for a name reaching no page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A non-mortal page naming a page type that is mortal is refused whether or not the name reaches a page.",
+        "A non-mortal page naming a mortal page is refused, judged on the page type the name reaches, or on the property's declared target when it reaches none.",
     },
     {
       invariantKind: "gap",
