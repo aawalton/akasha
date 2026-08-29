@@ -30,6 +30,7 @@ export const check = {
     "check/folder-matches-a-shape",
     "check/id-is-a-uuid-version-7",
     "check/imports-inside",
+    "check/introduced-property-is-a-part",
     "check/lint-clean",
     "check/no-class",
     "check/no-code-comments",

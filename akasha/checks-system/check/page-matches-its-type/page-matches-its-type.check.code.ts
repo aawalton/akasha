@@ -274,11 +274,9 @@ export function reasonsIn(
   return said
 }
 
-export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
-  const index = indexIn(leaving.root)
-  const pageTypes = pageTypesIn(index)
+export function readingIn(leaving: Leaving): Reading {
   const held = new Map<string, Value | null>()
-  const read: Reading = (pageTypeSlug, slug) => {
+  return (pageTypeSlug, slug) => {
     const at = `${pageTypeSlug}/${slug}`
     const found = held.get(at)
     if (found !== undefined) return found
@@ -297,6 +295,11 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     held.set(at, value)
     return value
   }
+}
+
+export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
+  const pageTypes = pageTypesIn(indexIn(leaving.root))
+  const read = readingIn(leaving)
   const property = (slug: string): Value | null => {
     const schema = schemaOf(leaving.root, slug)
     return schema === null ? null : read(schema.pageTypeSlug, slug)
