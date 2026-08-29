@@ -2,6 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { everyOfType, everyPath, indexIn } from "../data-system/index/index-reading.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type Body = {
@@ -36,10 +37,6 @@ const CHECKS_AT = ".git/data/index/identity/check/slug"
 const PATHS_AT = ".git/data/index/identity/page/path"
 
 const reach_ = createRequire(import.meta.url)
-
-function camel(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-}
 
 export function codeBeside(path: string): string {
   return `${path.slice(0, -".ts".length)}.code.ts`
@@ -78,7 +75,7 @@ function statedIn(at: string, slug: string): Record<string, unknown> | null {
   } catch {
     return null
   }
-  const named = mod[camel(slug)]
+  const named = mod[exportedAs(slug)]
   if (named === null || typeof named !== "object") return null
   return named as Record<string, unknown>
 }
@@ -90,7 +87,7 @@ function runningIn(at: string, slug: string): Running | null {
   } catch {
     return null
   }
-  const named = mod[camel(slug)]
+  const named = mod[exportedAs(slug)]
   if (typeof named === "function") return named as Running
   const every = Object.values(mod).filter((one) => typeof one === "function")
   return every.length === 1 && every[0] !== undefined ? (every[0] as Running) : null
@@ -109,7 +106,7 @@ export function checksIn(root: string): readonly Gathered[] {
     const stated = statedIn(full, slug)
     if (stated === null) {
       throw new Error(
-        `${path} is a check page, and answers to no \`${camel(slug)}\` a runner can read`
+        `${path} is a check page, and answers to no \`${exportedAs(slug)}\` a runner can read`
       )
     }
     const runsOn = runsOnIn(stated)

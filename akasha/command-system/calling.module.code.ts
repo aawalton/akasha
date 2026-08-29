@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, relative, resolve } from "node:path"
 import { indexIn, slugsOfType, standingAt } from "../data-system/index/index-reading.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 
 export type Outside = {
   readonly root: string
@@ -28,10 +29,6 @@ export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
 const reach_ = createRequire(import.meta.url)
 
-function camel(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-}
-
 export function codeBeside(path: string): string {
   return `${path.slice(0, -".ts".length)}.code.ts`
 }
@@ -52,7 +49,7 @@ export function reachedIn(
 }
 
 function answeringOf(mod: Record<string, unknown>, slug: string): Answering | null {
-  const named = mod[camel(slug)]
+  const named = mod[exportedAs(slug)]
   if (typeof named === "function") return named as Answering
   const every = Object.values(mod).filter((one) => typeof one === "function")
   return every.length === 1 && every[0] !== undefined ? (every[0] as Answering) : null

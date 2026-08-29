@@ -12,6 +12,7 @@ import {
   overEachFile,
 } from "./checking.module.code.ts"
 import { scratchWorld } from "../command-system/scratching.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
@@ -45,10 +46,9 @@ function rootWith(
   for (const one of named) {
     const at = `akasha/checks-system/check/${one.slug}/${one.slug}.check.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
-    const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())
     writeFileSync(
       join(root, at),
-      `export const ${camel} = {\n` +
+      `export const ${exportedAs(one.slug)} = {\n` +
         `  slug: "${one.slug}",\n` +
         `  code: "ts",\n` +
         (one.raw ??
