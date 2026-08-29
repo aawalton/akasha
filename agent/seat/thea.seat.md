@@ -7,4 +7,5 @@ persona-slug: thea
 domain-slug: domain/checks-system
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
