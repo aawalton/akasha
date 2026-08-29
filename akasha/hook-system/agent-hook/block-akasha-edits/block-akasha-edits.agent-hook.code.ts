@@ -1,4 +1,5 @@
-import { basename, dirname, join, relative, resolve } from "node:path"
+import { basename, join, relative, resolve } from "node:path"
+import { rootOf } from "../../hook-answer.module.code.ts"
 import { insideOf, settled } from "../../settling.module.code.ts"
 
 const HOOK_NAME = "block-akasha-edits"
@@ -64,10 +65,6 @@ export type Asked = {
 export type Guarded = {
   readonly pages: string
   readonly index: string
-}
-
-export function rootOf(at: string): string {
-  return resolve(dirname(at), "..", "..", "..", "..")
 }
 
 export function holdingIn(agentId: string): string {

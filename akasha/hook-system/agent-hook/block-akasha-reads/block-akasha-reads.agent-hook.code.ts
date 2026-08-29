@@ -1,5 +1,12 @@
-import { dirname, join, relative, resolve } from "node:path"
-import { ASIDE, commandIn, refusing, STANDING_ASIDE, said } from "../../hook-answer.module.code.ts"
+import { join, relative, resolve } from "node:path"
+import {
+  ASIDE,
+  commandIn,
+  refusing,
+  rootOf,
+  STANDING_ASIDE,
+  said,
+} from "../../hook-answer.module.code.ts"
 import { insideOf, settled } from "../../settling.module.code.ts"
 
 const HOOK = "block-akasha-reads"
@@ -41,10 +48,6 @@ export const SCOPE: readonly string[] = [
   "Printed by `block-akasha-reads.agent-hook.code.ts --scope`, which is where this stands: it is",
   "what the program says about itself, held as the text it prints rather than as a comment.",
 ]
-
-export function rootOf(at: string): string {
-  return resolve(dirname(at), "..", "..", "..", "..")
-}
 
 function shownIn(root: string, at: string): string {
   const named = relative(root, at)

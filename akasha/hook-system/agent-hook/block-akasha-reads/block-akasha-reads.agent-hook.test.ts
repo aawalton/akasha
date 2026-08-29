@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
-import { refusalIn, rootOf, SCOPE } from "./block-akasha-reads.agent-hook.code.ts"
+import { refusalIn, SCOPE } from "./block-akasha-reads.agent-hook.code.ts"
 
 const scratch = scratchWorld()
 
@@ -96,8 +96,4 @@ test("what this does not reach is printed, and names Grep and Glob", () => {
   expect(SCOPE.join("\n")).toContain("NOT REACHED")
   expect(SCOPE.join("\n")).toContain("Grep and Glob")
   expect(SCOPE.join("\n")).toContain(".git/data")
-})
-
-test("the repository is taken from where the hook's own file stands", () => {
-  expect(rootOf("/one/akasha/hook-system/agent-hook/block/one.ts")).toBe("/one")
 })

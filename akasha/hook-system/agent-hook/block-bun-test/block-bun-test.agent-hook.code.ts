@@ -1,7 +1,14 @@
-import { dirname, resolve, sep } from "node:path"
+import { resolve, sep } from "node:path"
 import type { BunCall } from "../../bun-calls.module.code.ts"
 import { bunCallsIn } from "../../bun-calls.module.code.ts"
-import { ASIDE, commandIn, refusing, STANDING_ASIDE, said } from "../../hook-answer.module.code.ts"
+import {
+  ASIDE,
+  commandIn,
+  refusing,
+  rootOf,
+  STANDING_ASIDE,
+  said,
+} from "../../hook-answer.module.code.ts"
 
 const HOOK = "block-bun-test"
 
@@ -160,7 +167,7 @@ async function main(): Promise<number> {
   const raw = await Bun.stdin.text()
   const read = commandIn(raw, "command", HOOK)
   if ("answer" in read) return said(read.answer)
-  const root = resolve(dirname(import.meta.path), "..", "..", "..", "..")
+  const root = rootOf(import.meta.path)
   const reason = refusalIn(read.command, fromIn(raw), root)
   return said(reason === null ? STANDING_ASIDE : refusing(reason))
 }

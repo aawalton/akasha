@@ -29,6 +29,11 @@ export const hookAnswer = {
       statement: "A payload that will not read is said so and exits 5, having judged nothing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A hook's repository root is four folders above the hook's own file, and that depth is written here rather than worked out, so a hook standing elsewhere would read the wrong root.",
+    },
+    {
       invariantKind: "absence",
       statement: "A hook reads no field of the payload but the tool input it is handed.",
     },

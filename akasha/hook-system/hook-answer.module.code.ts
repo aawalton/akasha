@@ -1,3 +1,5 @@
+import { dirname, resolve } from "node:path"
+
 export const ASIDE = 0
 
 export const REFUSED = 2
@@ -60,4 +62,8 @@ export function said(answer: Answer): number {
   if (answer.out !== "") process.stdout.write(`${answer.out}\n`)
   if (answer.err !== "") process.stderr.write(`${answer.err}\n`)
   return answer.code
+}
+
+export function rootOf(at: string): string {
+  return resolve(dirname(at), "..", "..", "..", "..")
 }

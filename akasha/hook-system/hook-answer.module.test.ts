@@ -4,6 +4,7 @@ import {
   commandIn,
   REFUSED,
   refusing,
+  rootOf,
   STANDING_ASIDE,
   toolInputIn,
   UNREADABLE,
@@ -85,4 +86,12 @@ test("standing aside says nothing and its code is 0", () => {
 test("a reason carrying newlines and quotes survives being made JSON", () => {
   const reason = 'one\ntwo "three"\n  four'
   expect(JSON.parse(refusing(reason).out)).toEqual({ decision: "block", reason })
+})
+
+test("a hook's repo root is four folders above the hook's own file", () => {
+  expect(rootOf("/one/akasha/hook-system/agent-hook/block/one.ts")).toBe("/one")
+})
+
+test("the root is worked out from the path handed in, never from where the call was made", () => {
+  expect(rootOf("/two/akasha/hook-system/agent-hook/other/two.ts")).toBe("/two")
 })
