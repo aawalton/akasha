@@ -330,6 +330,11 @@ function generating(): string {
   const index = indexIn(root)
   put(
     index,
+    "schema/page-property/slug/slug.jsonl",
+    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
+  )
+  put(
+    index,
     "schema/page-property/slug/held.jsonl",
     '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
   )

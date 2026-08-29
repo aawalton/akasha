@@ -21,11 +21,16 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement:
-        "The pages are reached through the index and loaded off the disk, so a property taking a generator and the first page leaning on it do not land together.",
+        "The pages are reached through the shadow of the change being judged, so a property taking a generator and the first page leaning on it land together.",
     },
     {
       invariantKind: "departure",
       statement: "The slugs come back in one order, so what is built from them does not shift.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The shadow is what is asked, never a root, so nothing here can read the committed index by accident.",
     },
     {
       invariantKind: "absence",

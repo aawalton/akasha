@@ -9,6 +9,7 @@ import {
   indexAt,
   indexIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -185,7 +186,9 @@ export function foundIn(leaving: Leaving): readonly Found[] {
   const roots = rootsOf(leaving)
   if (roots.length === 0) return []
   const root = resolve(leaving.root)
-  const keys = [...generatedProperties(leaving.root)].map(exportedAs)
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const keys = [...generatedProperties(cast.shadow)].map(exportedAs)
   const read = bodiesOf(leaving, mintingIn(leaving, keys))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),

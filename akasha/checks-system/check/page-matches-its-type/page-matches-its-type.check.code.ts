@@ -14,6 +14,7 @@ import {
   schemaOf,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
 import { addressIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -318,7 +319,14 @@ export function unloadable(why: string | null): string {
 
 export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
   const pageTypes = pageTypesIn(indexIn(leaving.root))
-  const generated = generatedProperties(leaving.root)
+  let generated: ReadonlySet<string> | null = null
+  const generatedNow = (): ReadonlySet<string> => {
+    if (generated !== null) return generated
+    const cast = shadowFor(leaving)
+    if ("refused" in cast) throw new Error(cast.refused)
+    generated = generatedProperties(cast.shadow)
+    return generated
+  }
   const read = readingIn(leaving)
   const property = (slug: string): Value | null => {
     const schema = schemaOf(leaving.root, slug)
@@ -348,7 +356,7 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
-    const excused = generated.size === 0 || leaving.was(path) !== null ? NOTHING : generated
+    const excused = leaving.was(path) !== null ? NOTHING : generatedNow()
     for (const reason of reasonsIn(value, declared, property, named, formatting, excused)) {
       judged.push({ path, reason })
     }
