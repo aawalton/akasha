@@ -1,15 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import {
-  existsSync,
-  mkdirSync,
-  mkdtempSync,
-  readdirSync,
-  readFileSync,
-  rmSync,
-  writeFileSync,
-} from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import { stampIn } from "../../../data-system/index/index-stamp.module.code.ts"
@@ -17,6 +8,7 @@ import { rebuiltFrom } from "../../../data-system/index/indexing.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { calling } from "../../calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"
+import { scratchWorld } from "../../scratching.module.code.ts"
 import { driftBetween, index, readIn } from "./index.command.code.ts"
 
 const CODE_AT = "akasha/command-system/command/index/index.command.code.ts"
@@ -32,6 +24,10 @@ const TYPE_ID = "01a04de1-2000-7000-8000-000000000001"
 const A_ID = "01a04de1-2000-7000-8000-000000000002"
 
 const B_ID = "01a04de1-2000-7000-8000-000000000003"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function bodyOf(value: Readonly<Record<string, unknown>>): string {
   return `export const held = ${JSON.stringify(value)}\n`
@@ -54,7 +50,7 @@ function git(root: string, argv: readonly string[]): string {
 }
 
 function repoAt(): string {
-  const root = mkdtempSync(join(tmpdir(), "akasha-refresh-"))
+  const root = scratch.rootFor("akasha-refresh-")
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -83,11 +79,9 @@ function everyFileUnder(at: string): ReadonlyMap<string, string> {
 }
 
 function wantedFor(root: string): ReadonlyMap<string, string> {
-  const held = mkdtempSync(join(tmpdir(), "akasha-wanted-"))
+  const held = scratch.rootFor("akasha-wanted-")
   rebuiltFrom(join(root, "akasha"), held, root)
-  const said = everyFileUnder(held)
-  rmSync(held, { recursive: true, force: true })
-  return said
+  return everyFileUnder(held)
 }
 
 function seeded(root: string): void {
@@ -150,7 +144,6 @@ test("an index that is not there is built, and it is the index a clean rebuild b
   expect(answer.code).toBe(OK)
   expect(everyFileUnder(indexIn(root))).toEqual(wanted)
   expect(said(answer)).toContain(".git/data/index was replaced whole")
-  rmSync(root, { recursive: true })
 })
 
 test("the rebuild's stamp is read back and named, and it names HEAD", () => {
@@ -158,7 +151,6 @@ test("the rebuild's stamp is read back and named, and it names HEAD", () => {
   const answer = index(["refresh"], givenAt(root))
   expect(said(answer)).toContain(`stamped with ${git(root, ["rev-parse", "HEAD"]).trim()}`)
   expect(stampIn(indexIn(root))?.settled).toEqual([])
-  rmSync(root, { recursive: true })
 })
 
 test("`index refresh` is reached with no index at all", () => {
@@ -173,7 +165,6 @@ test("`index refresh` is reached with no index at all", () => {
   expect(answer.refusals).toEqual([])
   expect(answer.code).toBe(OK)
   expect(everyFileUnder(indexIn(root))).toEqual(wantedFor(root))
-  rmSync(root, { recursive: true })
 })
 
 test("`index refresh` is reached through an index that will not parse", () => {
@@ -191,7 +182,6 @@ test("`index refresh` is reached through an index that will not parse", () => {
   expect(answer.refusals).toEqual([])
   expect(answer.code).toBe(OK)
   expect(existsSync(join(at, "index.jsonl"))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a damaged index is put back to what a clean rebuild builds", () => {
@@ -206,7 +196,6 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
   expect(answer.code).toBe(OK)
   expect(everyFileUnder(at)).toEqual(wanted)
   expect(said(answer)).toContain("the index differed from what the pages say")
-  rmSync(root, { recursive: true })
 })
 
 test("an index already saying what the pages say is reported as differing in nothing", () => {
@@ -215,7 +204,6 @@ test("an index already saying what the pages say is reported as differing in not
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("nothing in the index differed from what the pages say")
-  rmSync(root, { recursive: true })
 })
 
 test("a worktree standing apart from HEAD is refused, and nothing is put in place", () => {
@@ -232,7 +220,6 @@ test("a worktree standing apart from HEAD is refused, and nothing is put in plac
   expect(answer.refusals[0]).toContain("stands apart from HEAD in 1 path")
   expect(answer.refusals[1]).toContain("--unlanded")
   expect(everyFileUnder(at)).toEqual(was)
-  rmSync(root, { recursive: true })
 })
 
 test("`--unlanded` builds over the worktree, and the stamp names what stands apart", () => {
@@ -246,7 +233,6 @@ test("`--unlanded` builds over the worktree, and the stamp names what stands apa
   expect(existsSync(join(indexIn(root), "identity", "domain", "slug", "b.jsonl"))).toBe(true)
   expect(said(answer)).toContain("stand apart from HEAD and the stamp names them")
   expect(stampIn(indexIn(root))?.settled).toEqual(["akasha/b.domain.ts"])
-  rmSync(root, { recursive: true })
 })
 
 test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
@@ -261,14 +247,12 @@ test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
   expect(said(answer)).toContain("the index differed from what the pages say")
   expect(everyFileUnder(at)).toEqual(was)
   expect(readdirSync(join(root, ".git", "data")).sort()).toEqual(["index"])
-  rmSync(root, { recursive: true })
 })
 
 test("a refresh leaves the landing lock behind it", () => {
   const root = repoAt()
   expect(index(["refresh"], givenAt(root)).code).toBe(OK)
   expect(existsSync(join(root, LOCK_AT))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a lock nothing alive holds is taken over rather than waited on", () => {
@@ -276,38 +260,34 @@ test("a lock nothing alive holds is taken over rather than waited on", () => {
   mkdirSync(join(root, ".git"), { recursive: true })
   writeFileSync(join(root, LOCK_AT), "999999999 0")
   expect(index(["refresh"], givenAt(root)).code).toBe(OK)
-  rmSync(root, { recursive: true })
 })
 
 test("a root holding no akasha folder is refused, and the index stands as it was", () => {
-  const root = mkdtempSync(join(tmpdir(), "akasha-refresh-"))
+  const root = scratch.rootFor("akasha-refresh-")
   git(root, ["init", "--quiet"])
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("stands under")
   expect(existsSync(indexIn(root))).toBe(false)
-  rmSync(root, { recursive: true })
 })
 
 test("a root git does not hold is refused as the command's trouble, not the caller's", () => {
-  const root = mkdtempSync(join(tmpdir(), "akasha-refresh-"))
+  const root = scratch.rootFor("akasha-refresh-")
   mkdirSync(join(root, "akasha"), { recursive: true })
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("no commit could be read")
   expect(answer.refusals[answer.refusals.length - 1]).toContain("the index stands as it did")
-  rmSync(root, { recursive: true })
 })
 
 test("a bad act is the caller's trouble", () => {
   const root = repoAt()
   expect(index(["verify"], givenAt(root)).code).toBe(INPUT)
-  rmSync(root, { recursive: true })
 })
 
 test("what stands in one and not the other is what drift names", () => {
-  const one = mkdtempSync(join(tmpdir(), "akasha-drift-"))
-  const two = mkdtempSync(join(tmpdir(), "akasha-drift-"))
+  const one = scratch.rootFor("akasha-drift-")
+  const two = scratch.rootFor("akasha-drift-")
   writeFileSync(join(one, "went"), "held")
   writeFileSync(join(one, "changed"), "was")
   writeFileSync(join(two, "changed"), "now")
@@ -317,6 +297,4 @@ test("what stands in one and not the other is what drift names", () => {
     changed: ["changed"],
     went: ["went"],
   })
-  rmSync(one, { recursive: true })
-  rmSync(two, { recursive: true })
 })
