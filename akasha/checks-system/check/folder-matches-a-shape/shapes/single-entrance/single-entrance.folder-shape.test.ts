@@ -9,7 +9,15 @@ function standing(
   deep: readonly string[],
   entered: readonly string[]
 ): Standing {
-  return { folder: FOLDER, files, deep, entered: (one) => entered.includes(one) }
+  return {
+    folder: FOLDER,
+    files,
+    deep,
+    pages: [],
+    properties: [],
+    strays: [],
+    entered: (one) => entered.includes(one),
+  }
 }
 
 const DOOR = `${FOLDER}/door.ts`

@@ -1,5 +1,6 @@
 import type { Module } from "../../../../code-system/module/module.page-type.ts"
 import type { Test } from "../../../../code-system/module/properties/test.page-property-type.ts"
+import type { Held } from "../../../../pages-system/page/page-file-name.module.code.ts"
 import type { PageType } from "../../../../pages-system/page-type/page-type.page-type.ts"
 
 export type FolderShape = Module & {
@@ -10,6 +11,9 @@ export type Standing = {
   readonly folder: string
   readonly files: readonly string[]
   readonly deep: readonly string[]
+  readonly pages: readonly Held[]
+  readonly properties: readonly Held[]
+  readonly strays: readonly Held[]
   readonly entered: (path: string) => boolean
 }
 
