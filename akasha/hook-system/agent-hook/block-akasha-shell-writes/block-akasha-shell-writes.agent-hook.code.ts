@@ -26,7 +26,7 @@ function intoOf(words: readonly string[]): string | null {
   for (let at = 1; at < words.length; at += 1) {
     const word = words[at]
     if (word !== undefined && INTO.has(word)) return words[at + 1] ?? null
-    if (word !== undefined && word.startsWith("--target-directory=")) {
+    if (word?.startsWith("--target-directory=")) {
       return word.slice("--target-directory=".length)
     }
   }

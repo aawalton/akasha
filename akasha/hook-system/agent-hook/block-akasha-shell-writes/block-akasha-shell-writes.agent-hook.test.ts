@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
 import { rootOf } from "../block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
 import { landingsIn, redirectsIn, refusalFor } from "./block-akasha-shell-writes.agent-hook.code.ts"
 
