@@ -22,7 +22,7 @@ export const initiative = {
     { propertySlug: "domain-slug", required: true, many: false },
     { propertySlug: "persona-slug", required: true, many: false },
     { propertySlug: "parent-slug", required: false, many: false },
-    { propertySlug: "invariants", required: false, many: true },
+    { propertySlug: "invariants", required: false, many: true, max: null },
   ],
   mortal: true,
   invariants: [

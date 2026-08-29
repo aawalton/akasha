@@ -15,8 +15,8 @@ export const agentHook = {
   definition: "a module the agent harness runs at the events it names",
   extendsSlug: "page-type/module",
   properties: [
-    { propertySlug: "runs-at", required: true, many: true },
-    { propertySlug: "over-tools", required: false, many: true },
+    { propertySlug: "runs-at", required: true, many: true, max: null },
+    { propertySlug: "over-tools", required: false, many: true, max: null },
   ],
   invariants: [
     {

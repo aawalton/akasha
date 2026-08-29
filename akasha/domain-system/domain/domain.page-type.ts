@@ -20,9 +20,9 @@ export const domain = {
   extendsSlug: "page-type/page",
   properties: [
     { propertySlug: "definition", required: true, many: false },
-    { propertySlug: "part-slugs", required: false, many: true },
-    { propertySlug: "invariants", required: false, many: true },
-    { propertySlug: "directives", required: false, many: true },
+    { propertySlug: "part-slugs", required: false, many: true, max: null },
+    { propertySlug: "invariants", required: false, many: true, max: null },
+    { propertySlug: "directives", required: false, many: true, max: null },
   ],
   invariants: [
     {

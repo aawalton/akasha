@@ -17,7 +17,7 @@ export const pageType = {
   extendsSlug: "page-type/domain",
   properties: [
     { propertySlug: "extends-slug", required: true, many: false },
-    { propertySlug: "properties", required: false, many: true },
+    { propertySlug: "properties", required: false, many: true, max: null },
     { propertySlug: "mortal", required: false, many: false },
   ],
   invariants: [
