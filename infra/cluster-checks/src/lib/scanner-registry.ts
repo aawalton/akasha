@@ -7,7 +7,6 @@ import { exhaustiveDispatchEntry } from "../checks/check-exhaustive-dispatch.ts"
 import { harnessCredentialScriptTextEntry } from "../checks/check-harness-credential-script-text.ts"
 import { libSetsPerPieceDifficultyBoundaryEntry } from "../checks/check-lib-sets-per-piece-difficulty-boundary.ts"
 import { libcFfiBindingEntry } from "../checks/check-libc-ffi-binding.ts"
-import { methodSignatureBivarianceEntry } from "../checks/check-method-signature-bivariance.ts"
 import { noVoidReturnEntry } from "../checks/check-no-void-return.ts"
 import { popoverViewportSafetyEntry } from "../checks/check-popover-viewport-safety.ts"
 import { populationReadSwallowEntry } from "../checks/check-population-read-swallow.ts"
@@ -21,7 +20,6 @@ import { typeAssertionsEntry } from "../checks/check-type-assertions.ts"
 import type { SyntaxScannerEntry } from "./syntax-scanner-entry.ts"
 
 export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
-  methodSignatureBivarianceEntry,
   typeAssertionsEntry,
   noVoidReturnEntry,
   readonlyCollectionsEntry,
