@@ -1,10 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Given } from "../../calling.module.code.ts"
-import { admitting, refusing } from "../../minting.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
+import { refusing } from "../../minting.module.code.ts"
 import {
   emptiedBy,
   namedIn,
@@ -14,57 +11,22 @@ import {
   underAkasha,
   wouldEmpty,
 } from "./remove.command.code.ts"
-
-const scratch = scratchWorld()
+import {
+  BESIDE,
+  BODY,
+  DEEP,
+  git,
+  givenIn,
+  HELD,
+  head,
+  KEPT,
+  naming,
+  repoWith,
+  scratch,
+  stands,
+} from "./remove.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function git(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
-}
-
-function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = scratch.rootFor("akasha-remove-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    const at = join(root, path)
-    mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, body)
-  }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
-  admitting(root)
-  return root
-}
-
-function givenIn(root: string): Given {
-  return { root, calledAs: "akasha remove", from: root, writer: null, agentId: null }
-}
-
-function naming(...paths: readonly string[]): readonly string[] {
-  return paths.flatMap((one) => ["--file-path", one])
-}
-
-function stands(root: string, path: string): boolean {
-  return existsSync(join(root, path))
-}
-
-function head(root: string): string {
-  return git(root, ["rev-parse", "HEAD"]).trim()
-}
-
-const HELD = "akasha/one/held.module.ts"
-
-const BESIDE = "akasha/one/held.module.code.ts"
-
-const KEPT = "akasha/two/kept.module.ts"
-
-const DEEP = "akasha/one/deep/held.module.ts"
-
-const BODY = `export const held = 1\n`
 
 test("named paths are taken away and the removal is committed", () => {
   const root = repoWith({ [HELD]: BODY, "akasha/one/kept.module.ts": BODY })
