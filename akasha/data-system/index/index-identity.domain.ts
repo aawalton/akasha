@@ -54,5 +54,9 @@ export const indexIdentity = {
       invariantKind: "gap",
       statement: "The index takes its identifiers from what the properties declare.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A page carrying an identifier another page already carries does not land.",
+    },
   ],
 } as const satisfies Domain

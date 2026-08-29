@@ -54,4 +54,10 @@ export const page = {
       statement: "Loading a page's file declares its value and does nothing else.",
     },
   ],
+  intent: [
+    {
+      invariantKind: "gap",
+      statement: "A page file that does more than declare its value does not land.",
+    },
+  ],
 } as const satisfies PageType

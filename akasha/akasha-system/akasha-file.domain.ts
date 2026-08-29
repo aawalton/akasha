@@ -14,8 +14,6 @@ export const akashaFile = {
       invariantKind: "departure",
       statement: "A page property's file is named for its page and its property.",
     },
-  ],
-  condition: [
     {
       invariantKind: "departure",
       statement: "Every file is a page or one page property's own file.",
