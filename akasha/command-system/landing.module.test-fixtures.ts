@@ -41,8 +41,6 @@ export function gitOver(root: string): readonly string[] {
   return said.split("\n").filter((one) => one.includes("cat-file") && one.includes(root))
 }
 
-export { until } from "../testing-system/waiting.module.code.ts"
-
 export const ID = "01a04e11-0000-7000-8000-000000000001"
 
 export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
@@ -54,8 +52,6 @@ export const TYPE =
 export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
 export const indexIn = (root: string): string => join(root, ".git/data/index")
-
-export { everyFileUnder } from "../testing-system/walking.module.code.ts"
 
 export const butTheStamp = (found: readonly string[]): readonly string[] =>
   found.filter((one) => !one.startsWith("/stamp.jsonl "))

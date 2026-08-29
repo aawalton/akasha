@@ -4,6 +4,8 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../checks-system/judging.module.code.ts"
 import { rebuiltFrom } from "../pages-system/indexes/indexing.module.code.ts"
+import { until } from "../testing-system/waiting.module.code.ts"
+import { everyFileUnder } from "../testing-system/walking.module.code.ts"
 import {
   baseOf,
   bodyAt,
@@ -19,7 +21,6 @@ import {
   ADMITS,
   butTheStamp,
   bytes,
-  everyFileUnder,
   git,
   gitOver,
   ID,
@@ -30,7 +31,6 @@ import {
   repoWith,
   scratch,
   TYPE,
-  until,
 } from "./landing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
