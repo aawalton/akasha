@@ -20,9 +20,5 @@ export const amyEditorExtension = {
       invariantKind: "gap",
       statement: "A seat's initiative is one the akasha system holds.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A page type's properties and its parts name the same pages, neither one over.",
-    },
   ],
 } as const satisfies Initiative
