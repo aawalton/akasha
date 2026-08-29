@@ -8,7 +8,7 @@ export const pageTypeSlug = {
   pageTypeSlug: "page-property-type",
   slug: "page-type-slug",
   definition: "the page type a page is",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "relation",
   targetPageTypeSlug: "page-type/page-type",
 } as const satisfies PagePropertyType

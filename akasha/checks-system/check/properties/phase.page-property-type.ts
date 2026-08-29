@@ -7,7 +7,7 @@ export const phase = {
   pageTypeSlug: "page-property-type",
   slug: "phase",
   definition: "a moment at which a set of changes is judged",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "text",
   max: 10,
   nameFormatSlug: null,

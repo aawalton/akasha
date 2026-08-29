@@ -7,6 +7,6 @@ export const code = {
   pageTypeSlug: "page-property-type",
   slug: "code",
   definition: "the code a page is, held in a file of its own",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "file",
 } as const satisfies PagePropertyType

@@ -11,7 +11,7 @@ export const partSlugs = {
   pageTypeSlug: "page-property-type",
   slug: "part-slugs",
   definition: "the domains this one is made of, in the order they are read",
-  extendsSlug: "page-property-type/domain-slug",
+  extendsSlug: null,
   kind: "list",
   entrySlug: "domain-slug",
   max: null,

@@ -1,0 +1,12 @@
+import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { PageProperty } from "./page-property.page-type.ts"
+
+export type RecordProperty = PageProperty
+
+export const recordProperty = {
+  id: "01a04dff-9d7d-7801-928a-feeaaaa1c8f0",
+  pageTypeSlug: "page-type",
+  slug: "record-property",
+  definition: "a page property holding named fields",
+  extendsSlug: "page-type/page-property",
+} as const satisfies PageType

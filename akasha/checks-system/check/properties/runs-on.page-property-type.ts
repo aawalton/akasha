@@ -9,7 +9,7 @@ export const runsOn = {
   pageTypeSlug: "page-property-type",
   slug: "runs-on",
   definition: "the phases at which a check judges a set of changes",
-  extendsSlug: "page-property-type/phase",
+  extendsSlug: null,
   kind: "list",
   entrySlug: "phase",
   max: null,

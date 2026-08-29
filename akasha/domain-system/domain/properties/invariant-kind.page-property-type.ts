@@ -10,7 +10,7 @@ export const invariantKind = {
   pageTypeSlug: "page-property-type",
   slug: "invariant-kind",
   definition: "which sort of invariant one entry is",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "text",
   max: 10,
   nameFormatSlug: null,

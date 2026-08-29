@@ -14,7 +14,7 @@ export const declaration = {
   pageTypeSlug: "page-property-type",
   slug: "declaration",
   definition: "one property a page type carries, and how it carries it",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "record",
   design: [
     {

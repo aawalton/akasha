@@ -1,5 +1,5 @@
-import type { PagePropertyType } from "../../page-property-type/page-property-type.page-type.ts"
 import type { Slug } from "../../page/properties/slug.page-property-type.ts"
+import type { PagePropertyType } from "../../page-property-type/page-property-type.page-type.ts"
 
 export type ExtendsSlug = Slug
 
@@ -8,7 +8,7 @@ export const extendsSlug = {
   pageTypeSlug: "page-property-type",
   slug: "extends-slug",
   definition: "the type a type takes its properties from",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "relation",
   targetPageTypeSlug: "page-type/page-type",
 } as const satisfies PagePropertyType

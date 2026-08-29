@@ -7,7 +7,7 @@ export const evidence = {
   pageTypeSlug: "page-property-type",
   slug: "evidence",
   definition: "the observations a claim rests on",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "text",
   max: 2000,
   nameFormatSlug: null,

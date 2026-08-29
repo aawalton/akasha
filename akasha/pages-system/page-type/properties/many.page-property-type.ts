@@ -7,6 +7,6 @@ export const many = {
   pageTypeSlug: "page-property-type",
   slug: "many",
   definition: "whether a page of this type carries more than one of the property",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "boolean",
 } as const satisfies PagePropertyType

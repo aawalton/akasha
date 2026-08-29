@@ -11,7 +11,7 @@ export const properties = {
   pageTypeSlug: "page-property-type",
   slug: "properties",
   definition: "the properties a page type adds to what it extends",
-  extendsSlug: "page-property-type/declaration",
+  extendsSlug: null,
   kind: "list",
   entrySlug: "declaration",
   max: null,

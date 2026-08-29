@@ -7,7 +7,7 @@ export const kind = {
   pageTypeSlug: "page-property-type",
   slug: "kind",
   definition: "which kind of value a property holds",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "text",
   max: 10,
   nameFormatSlug: null,

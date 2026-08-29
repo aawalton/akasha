@@ -7,7 +7,7 @@ export const act = {
   pageTypeSlug: "page-property-type",
   slug: "act",
   definition: "what a directive tells its reader to do",
-  extendsSlug: "page-property-type/page-property",
+  extendsSlug: null,
   kind: "text",
   max: 100,
   nameFormatSlug: null,
