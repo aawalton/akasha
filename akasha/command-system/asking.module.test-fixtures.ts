@@ -5,6 +5,7 @@ import { bytesOf as bytes } from "../testing-system/bodying/bodying.module.code.
 import { gitIn } from "../testing-system/gitting/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../testing-system/minting/minting.module.code.ts"
 import { put } from "../testing-system/putting/putting.module.code.ts"
+import { rootAbove } from "../testing-system/rooting/rooting.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 import { blobIdOf, recordRead } from "./reading.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
@@ -13,7 +14,7 @@ export const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const ADMITS_AT = "akasha/admits.check*"
 
-const REPO_AT = join(import.meta.dir, "..", "..")
+const REPO_AT = rootAbove(import.meta.dir) ?? ""
 
 const MODULES = "node_modules"
 
