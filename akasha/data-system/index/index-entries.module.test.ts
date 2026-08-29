@@ -1,7 +1,7 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import type { Known } from "./index-entries.module.code.ts"
 import {
   filePropertiesAt,
@@ -28,9 +28,13 @@ const SCHEMA = {
   partSlugs: '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}',
 } as const
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function grounded(): { readonly root: string; readonly repo: string } {
-  const repo = mkdtempSync(join(tmpdir(), "akasha-entries-repo-"))
-  const root = mkdtempSync(join(tmpdir(), "akasha-entries-root-"))
+  const repo = scratch.rootFor("akasha-entries-repo-")
+  const root = scratch.rootFor("akasha-entries-root-")
   const page = (at: string, value: Record<string, unknown>): void => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
   }
@@ -165,11 +169,9 @@ test("a page that is not a property type, and a property stating no kind, are fi
 })
 
 test("the properties held in a file are read from the schema the index carries", () => {
-  const { root, repo } = grounded()
+  const { root } = grounded()
 
   expect([...filePropertiesAt(root)]).toEqual(["code"])
-  rmSync(root, { recursive: true, force: true })
-  rmSync(repo, { recursive: true, force: true })
 })
 
 test("a list property takes its target from the property its entry names, and opens no page to do it", () => {
@@ -178,8 +180,6 @@ test("a list property takes its target from the property its entry names, and op
 
   expect(known.targetOf("part-slugs")).toBe("domain")
   expect(known.targetOf("design")).toBe(null)
-  rmSync(root, { recursive: true, force: true })
-  rmSync(repo, { recursive: true, force: true })
 })
 
 test("a page type admits a target every page type it extends up to also admits", () => {
@@ -188,8 +188,6 @@ test("a page type admits a target every page type it extends up to also admits",
 
   expect([...known.admitting("domain")].sort()).toEqual(["domain", "module"])
   expect(known.admitting("page-property-type")).toEqual([])
-  rmSync(root, { recursive: true, force: true })
-  rmSync(repo, { recursive: true, force: true })
 })
 
 test("a name carrying no page type reaches the one page admitting its property's target", () => {
