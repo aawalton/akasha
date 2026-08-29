@@ -23,8 +23,6 @@ const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
-
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -36,7 +34,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(named)) {
     put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1 })
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])

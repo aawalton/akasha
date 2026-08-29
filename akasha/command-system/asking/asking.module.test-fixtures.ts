@@ -40,8 +40,6 @@ export const REFORMATTED =
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
-
 export const scratch = scratchWorld()
 
 export const git = gitIn
@@ -55,7 +53,7 @@ export function repoWith(
   git(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(named)) {
     put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1 })
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])

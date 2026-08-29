@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { warrantsStanding } from "../../../context-system/warranting.module.test-fixtures.ts"
+import { bytesOf as bytes } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
 import {
   ADMITS_CODE,
@@ -20,8 +21,6 @@ const ADMITS_AT = "akasha/admits.check*"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
-const bytesOf = (said: string): Uint8Array => new TextEncoder().encode(said)
-
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -35,7 +34,7 @@ function repoWith(
   git(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(named)) {
     put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1 })
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1 })
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
@@ -72,7 +71,7 @@ test("a path taken away is warranted as one written over is", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
   recordRead(root, AGENT, {
     path: "akasha/two.ts",
-    oid: blobIdOf(bytesOf("elsewhere\n")),
+    oid: blobIdOf(bytes("elsewhere\n")),
     seenAt: 1,
   })
   const said = write(["--remove", "akasha/two.ts"], givenIn(root))
@@ -84,7 +83,7 @@ test("a write over a body that changed since it was read is refused", () => {
   const root = repoWith()
   recordRead(root, AGENT, {
     path: "akasha/one.ts",
-    oid: blobIdOf(bytesOf("elsewhere\n")),
+    oid: blobIdOf(bytes("elsewhere\n")),
     seenAt: 1,
   })
   const said = write(
