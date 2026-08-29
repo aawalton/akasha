@@ -12,6 +12,7 @@ import {
   pathsOf,
   reaches,
   relationIn,
+  schemaIn,
   valueIn,
 } from "./index-entries.module.code.ts"
 
@@ -19,6 +20,12 @@ const A = "01a04b79-0000-7000-8000-00000000000a"
 const B = "01a04b79-0000-7000-8000-00000000000b"
 const C = "01a04b79-0000-7000-8000-00000000000c"
 const D = "01a04b79-0000-7000-8000-00000000000d"
+
+const SCHEMA = {
+  code: '{"kind":"file","targetPageTypeSlug":null,"entrySlug":null}',
+  domainSlug: '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}',
+  partSlugs: '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}',
+} as const
 
 function grounded(): { readonly root: string; readonly repo: string } {
   const repo = mkdtempSync(join(tmpdir(), "akasha-entries-repo-"))
@@ -30,33 +37,13 @@ function grounded(): { readonly root: string; readonly repo: string } {
     mkdirSync(dirname(join(root, at)), { recursive: true })
     writeFileSync(join(root, at), `${line}\n`)
   }
-  page("domain-slug.page-property-type.ts", {
-    id: "4",
-    pageTypeSlug: "page-property-type",
-    slug: "domain-slug",
-    kind: "relation",
-    targetPageTypeSlug: "domain",
-  })
-  page("part-slugs.page-property-type.ts", {
-    id: "3",
-    pageTypeSlug: "page-property-type",
-    slug: "part-slugs",
-    kind: "list",
-    entrySlug: "domain-slug",
-  })
-  page("code.page-property-type.ts", {
-    id: "5",
-    pageTypeSlug: "page-property-type",
-    slug: "code",
-    kind: "file",
-  })
   page("domain.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" })
   page("module.page-type.ts", { id: "2", pageTypeSlug: "page-type", slug: "module", extendsSlug: "domain" })
-  filed("identity/page-property-type/slug/code.jsonl", '{"path":"code.page-property-type.ts","id":"5"}')
-  filed("identity/page-property-type/slug/domain-slug.jsonl", '{"path":"domain-slug.page-property-type.ts","id":"4"}')
-  filed("identity/page-property-type/slug/part-slugs.jsonl", '{"path":"part-slugs.page-property-type.ts","id":"3"}')
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
+  filed("schema/page-property-type/slug/code.jsonl", SCHEMA.code)
+  filed("schema/page-property-type/slug/domain-slug.jsonl", SCHEMA.domainSlug)
+  filed("schema/page-property-type/slug/part-slugs.jsonl", SCHEMA.partSlugs)
   return { root, repo }
 }
 
@@ -131,15 +118,36 @@ test("a property whose name is written in camel is filed under its kebab slug", 
   ])
 })
 
-test("the properties held in a file are read from the pages the index already names", () => {
+test("a property type is filed under its slug with its kind, its target and its entry", () => {
+  const value = { id: A, pageTypeSlug: "page-property-type", slug: "part-slugs", kind: "list", entrySlug: "domain-slug" }
+
+  expect(schemaIn(value)).toEqual([
+    { at: "schema/page-property-type/slug/part-slugs.jsonl", line: SCHEMA.partSlugs },
+  ])
+})
+
+test("a target naming its page type is filed as the slug alone", () => {
+  const value = { pageTypeSlug: "page-property-type", slug: "domain-slug", kind: "relation", targetPageTypeSlug: "page-type/domain" }
+
+  expect(schemaIn(value)).toEqual([
+    { at: "schema/page-property-type/slug/domain-slug.jsonl", line: SCHEMA.domainSlug },
+  ])
+})
+
+test("a page that is not a property type, and a property stating no kind, are filed with no schema", () => {
+  expect(schemaIn({ id: A, pageTypeSlug: "domain", slug: "a", kind: "list" })).toEqual([])
+  expect(schemaIn({ id: A, pageTypeSlug: "page-property-type", slug: "a" })).toEqual([])
+})
+
+test("the properties held in a file are read from the schema the index carries", () => {
   const { root, repo } = grounded()
 
-  expect([...filePropertiesAt(root, repo)]).toEqual(["code"])
+  expect([...filePropertiesAt(root)]).toEqual(["code"])
   rmSync(root, { recursive: true, force: true })
   rmSync(repo, { recursive: true, force: true })
 })
 
-test("a list property takes its target from the property its entry names", () => {
+test("a list property takes its target from the property its entry names, and opens no page to do it", () => {
   const { root, repo } = grounded()
   const known = knownIn(root, repo)
 

@@ -21,6 +21,7 @@ import {
   pageTyped,
   pageTypesIn,
   relationIn,
+  schemaIn,
   valueAt,
 } from "./index-entries.module.code.ts"
 
@@ -154,13 +155,15 @@ export function rebuiltFrom(
   const fileProperties = filePropertiesIn(held.map((one) => one.value))
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, "identity"), identity, root)
+  const schema = held.flatMap((one) => schemaIn(one.value))
+  reconcile(join(root, "schema"), schema, root)
   const known = knownIn(root, repo)
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
   reconcile(join(root, "relation"), relation, root)
   return {
     pages: held.length,
-    entries: identity.length + relation.length,
+    entries: identity.length + schema.length + relation.length,
     refused: filed.flatMap((one) => one.refused),
   }
 }
@@ -196,13 +199,18 @@ export function indexingAt(root: string, repo: string): Indexing {
       pending.clear()
 
       const fileProperties = new Set<string>([
-        ...filePropertiesAt(root, repo),
+        ...filePropertiesAt(root),
         ...filePropertiesIn(held.flatMap((one) => (one.now === null ? [] : [one.now]))),
       ])
       settleOver(
         root,
         held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo, fileProperties))),
         held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo, fileProperties)))
+      )
+      settleOver(
+        root,
+        held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was))),
+        held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
       )
 
       const known = knownIn(root, repo)

@@ -6,13 +6,27 @@ export type Standing = {
   readonly id: string
 }
 
+export type Schema = {
+  readonly kind: string
+  readonly targetPageTypeSlug: string | null
+  readonly entrySlug: string | null
+}
+
 const INDEX_AT = ".git/data/index"
 
 const IDENTITY = "identity"
 
 const RELATION = "relation"
 
+const SCHEMA = "schema"
+
+const PROPERTY = "page-property-type"
+
 const ENDING = ".jsonl"
+
+function named(said: unknown): string | null {
+  return typeof said === "string" ? said : null
+}
 
 function standingIn(at: string): readonly Standing[] {
   if (!existsSync(at)) return []
@@ -42,6 +56,28 @@ export function standingById(root: string, id: string): Standing | null {
 
 export function standingByPath(root: string, path: string): readonly Standing[] {
   return standingIn(join(indexIn(root), IDENTITY, "page", "path", `${path}${ENDING}`))
+}
+
+function schemaIn(at: string): readonly Schema[] {
+  if (!existsSync(at)) return []
+  const found: Schema[] = []
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    if (line === "") continue
+    const said = JSON.parse(line) as Record<string, unknown>
+    const kind = named(said["kind"])
+    if (kind === null) continue
+    found.push({
+      kind,
+      targetPageTypeSlug: named(said["targetPageTypeSlug"]),
+      entrySlug: named(said["entrySlug"]),
+    })
+  }
+  return found
+}
+
+export function schemaOf(root: string, propertySlug: string): Schema | null {
+  const found = schemaIn(join(indexIn(root), SCHEMA, PROPERTY, "slug", `${propertySlug}${ENDING}`))
+  return found[0] ?? null
 }
 
 export function everyOfType(root: string, pageTypeSlug: string): readonly Standing[] {

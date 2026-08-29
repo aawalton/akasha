@@ -11,18 +11,15 @@ export const cli = {
   design: [
     {
       invariantKind: "departure",
-      statement:
-        "What akasha needs from outside is gathered here and nowhere deeper, so nothing below reads the environment.",
+      statement: "What akasha needs from outside is gathered here and nowhere deeper.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command answers and this prints, so a command can be run by a test without a process.",
+      statement: "A command answers and this prints.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What was done is printed apart from what refused it, because one is an answer and the other is a reason.",
+      statement: "What was done is printed apart from what refused it.",
     },
     {
       invariantKind: "departure",

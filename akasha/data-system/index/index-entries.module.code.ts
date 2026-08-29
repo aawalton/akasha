@@ -18,6 +18,12 @@ export type Standing = {
   readonly id: string
 }
 
+export type Schema = {
+  readonly kind: string
+  readonly targetPageTypeSlug: string | null
+  readonly entrySlug: string | null
+}
+
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 
 function firstValueIn(declared: Record<string, unknown>): Value | null {
@@ -141,6 +147,26 @@ export function identityIn(
   ]
 }
 
+const PROPERTY = "page-property-type"
+
+function slugAt(value: Value, key: string): string | null {
+  const named = textAt(value, key)
+  return named === null ? null : slugOf(named)
+}
+
+export function schemaIn(value: Value): readonly Entry[] {
+  if (textAt(value, "pageTypeSlug") !== PROPERTY) return []
+  const slug = textAt(value, "slug")
+  const kind = textAt(value, "kind")
+  if (slug === null || kind === null) return []
+  const held: Schema = {
+    kind,
+    targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
+    entrySlug: slugAt(value, "entrySlug"),
+  }
+  return [{ at: join("schema", PROPERTY, "slug", `${slug}.jsonl`), line: JSON.stringify(held) }]
+}
+
 export function linesIn(at: string): readonly string[] {
   if (!existsSync(at)) return []
   return readFileSync(at, "utf8")
@@ -167,32 +193,31 @@ function everyPageOf(root: string, pageTypeSlug: string): readonly Standing[] {
   return found
 }
 
-export function filePropertiesAt(root: string, repo: string): ReadonlySet<string> {
-  const held: Value[] = []
-  for (const one of everyPageOf(root, "page-property-type")) {
-    const value = valueAt(one.path, repo)
-    if (value !== null) held.push(value)
+export function schemaAt(root: string): ReadonlyMap<string, Schema> {
+  const dir = join(root, "schema", PROPERTY, "slug")
+  if (!existsSync(dir)) return new Map<string, Schema>()
+  const found = new Map<string, Schema>()
+  for (const one of readdirSync(dir)) {
+    const line = linesIn(join(dir, one))[0]
+    if (line !== undefined) found.set(one.slice(0, -".jsonl".length), JSON.parse(line) as Schema)
   }
-  return filePropertiesIn(held)
+  return found
+}
+
+export function filePropertiesAt(root: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const [slug, held] of schemaAt(root)) if (held.kind === "file") found.add(slug)
+  return found
 }
 
 export function knownIn(root: string, repo: string): Known {
   const target = new Map<string, string>()
   const entry = new Map<string, string>()
-  for (const one of everyPageOf(root, "page-property-type")) {
-    const value = valueAt(one.path, repo)
-    if (value === null) continue
-    const slug = textAt(value, "slug")
-    if (slug === null) continue
-    const kind = textAt(value, "kind")
-    if (kind === "relation") {
-      const named = textAt(value, "targetPageTypeSlug")
-      if (named !== null) target.set(slug, slugOf(named))
-    }
-    if (kind === "list") {
-      const named = textAt(value, "entrySlug")
-      if (named !== null) entry.set(slug, slugOf(named))
-    }
+  for (const [slug, held] of schemaAt(root)) {
+    const named = held.kind === "relation" ? held.targetPageTypeSlug : null
+    if (named !== null) target.set(slug, named)
+    const entered = held.kind === "list" ? held.entrySlug : null
+    if (entered !== null) entry.set(slug, entered)
   }
 
   const above = new Map<string, string>()

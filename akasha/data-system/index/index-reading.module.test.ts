@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { indexIn, standingById, standingByPath } from "./index-reading.module.code.ts"
+import { indexIn, schemaOf, standingById, standingByPath } from "./index-reading.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -61,5 +61,45 @@ test("an id the index carries is answered with the page carrying it", () => {
 
   expect(standingById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
   expect(standingById(root, B)).toBe(null)
+  rmSync(root, { recursive: true, force: true })
+})
+
+function schemaFiled(root: string, slug: string, line: string): void {
+  filed(root, `schema/page-property-type/slug/${slug}.jsonl`, [line])
+}
+
+test("a relation property is answered with its kind and the page type it may name", () => {
+  const root = rootAt()
+  schemaFiled(root, "domain-slug", '{"kind":"relation","targetPageTypeSlug":"domain","entrySlug":null}')
+
+  expect(schemaOf(root, "domain-slug")).toEqual({
+    kind: "relation",
+    targetPageTypeSlug: "domain",
+    entrySlug: null,
+  })
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a property that names no page is answered with a kind that is not a relation", () => {
+  const root = rootAt()
+  schemaFiled(root, "definition", '{"kind":"text","targetPageTypeSlug":null,"entrySlug":null}')
+
+  expect(schemaOf(root, "definition")?.kind).toBe("text")
+  expect(schemaOf(root, "definition")?.targetPageTypeSlug).toBe(null)
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a list property is answered with the property its entries are", () => {
+  const root = rootAt()
+  schemaFiled(root, "part-slugs", '{"kind":"list","targetPageTypeSlug":null,"entrySlug":"domain-slug"}')
+
+  expect(schemaOf(root, "part-slugs")?.entrySlug).toBe("domain-slug")
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a property the index does not carry is answered with nothing rather than by throwing", () => {
+  const root = rootAt()
+
+  expect(schemaOf(root, "nowhere")).toBe(null)
   rmSync(root, { recursive: true, force: true })
 })

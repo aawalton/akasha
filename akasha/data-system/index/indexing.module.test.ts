@@ -59,6 +59,18 @@ function edgeFile(root: string, target: string, property: string, source: string
   return join(root, "relation", "page", "id", target, property, `${source}.jsonl`)
 }
 
+function schemaFile(root: string, propertySlug: string): string {
+  return join(root, "schema", "page-property-type", "slug", `${propertySlug}.jsonl`)
+}
+
+function noteOf(rest: Held): Held {
+  return { id: "8", pageTypeSlug: "page-property-type", slug: "note", ...rest }
+}
+
+const NOTE = noteOf({ kind: "relation", targetPageTypeSlug: "domain" })
+
+const NOTE_AT = "note.page-property-type.ts"
+
 function linesIn(at: string): readonly string[] {
   return readFileSync(at, "utf8")
     .split("\n")
@@ -202,6 +214,29 @@ test("two pages falling on one path leave two lines in one file", () => {
   clear(tree, root)
 })
 
+test("a property type that changes its kind changes what its entry says", () => {
+  const { tree, root } = grounded()
+  settled(root, tree, NOTE_AT, NOTE, null)
+  expect(said(schemaFile(root, "note"))).toEqual({ kind: "relation", targetPageTypeSlug: "domain", entrySlug: null })
+
+  settled(root, tree, NOTE_AT, noteOf({ kind: "text" }), NOTE)
+
+  expect(said(schemaFile(root, "note"))).toEqual({ kind: "text", targetPageTypeSlug: null, entrySlug: null })
+  clear(tree, root)
+})
+
+test("a removed property type leaves no schema entry and leaves the rest standing", () => {
+  const { tree, root } = grounded()
+  const at = settled(root, tree, NOTE_AT, NOTE, null)
+  const indexing = indexingAt(root, tree)
+  indexing.took(at, bodyOf(NOTE))
+  indexing.settle()
+
+  expect(existsSync(schemaFile(root, "note"))).toBe(false)
+  expect(existsSync(schemaFile(root, "part-slugs"))).toBe(true)
+  clear(tree, root)
+})
+
 test("a value naming its page type is filed under the target's id", () => {
   const { tree, root } = grounded()
   const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
@@ -331,7 +366,7 @@ test("a path the index stores is relative to the repository root", () => {
   const held = everyFileUnder(root).flatMap((one) =>
     one
       .split("\n")
-      .filter((line) => line.includes("{"))
+      .filter((line) => line.includes(`"path"`))
       .map((line) => line.slice(line.indexOf("{")))
   )
   expect(held.length).toBeGreaterThan(0)
