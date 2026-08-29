@@ -101,6 +101,7 @@ test("a check is run once over the whole change, and never over the rest of the 
     root,
     changed: ["one.ts"],
     at: onDisk(root),
+    was: onDisk(root),
   })
   expect(said.map((one) => one.path)).toEqual(["one.ts"])
 })
@@ -112,6 +113,7 @@ test("a check that threw refuses the change it could not judge, and the refusal 
     root,
     changed: ["one.ts"],
     at: onDisk(root),
+    was: onDisk(root),
   })
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
@@ -125,6 +127,7 @@ test("a path the change takes away is handed to every check, and can be refused"
     root,
     changed: ["gone.ts", "stays.ts"],
     at: onDisk(root),
+    was: onDisk(root),
   })
   expect(said.map((one) => one.path)).toEqual(["gone.ts"])
   expect(said[0]?.reason).toContain("may not be taken away")
@@ -134,7 +137,7 @@ test("the helper hands over each body the change leaves standing, and no path it
   const root = scratch.rootFor("akasha-each-file-")
   writeFileSync(join(root, "here.ts"), "here")
   const said = overEachFile(
-    { root, changed: ["gone.ts", "here.ts"], at: onDisk(root) },
+    { root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) },
     (given) => [`${given.path} holds ${given.bytes.length} bytes`]
   )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])

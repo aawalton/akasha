@@ -66,6 +66,15 @@ function leaving(
 ): Leaving {
   const held = new Map(Object.entries(over))
   const standing = new Map(Object.entries(base))
+  const based = (path: string): Uint8Array | null => {
+    const found = standing.get(path)
+    if (found !== undefined) return new TextEncoder().encode(found)
+    try {
+      return readFileSync(join(root, path))
+    } catch {
+      return null
+    }
+  }
   return {
     root,
     changed: [...held.keys()].sort(),
@@ -74,14 +83,9 @@ function leaving(
         const said = held.get(path)
         return said === undefined || said === null ? null : new TextEncoder().encode(said)
       }
-      const found = standing.get(path)
-      if (found !== undefined) return new TextEncoder().encode(found)
-      try {
-        return readFileSync(join(root, path))
-      } catch {
-        return null
-      }
+      return based(path)
     },
+    was: based,
   }
 }
 

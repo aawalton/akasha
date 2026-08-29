@@ -165,7 +165,8 @@ export function everyFileIn(root: string): readonly string[] {
 }
 
 export function everythingIn(root: string): Leaving {
-  return { root, changed: everyFileIn(root), at: onDisk(root) }
+  const at = onDisk(root)
+  return { root, changed: everyFileIn(root), at, was: at }
 }
 
 export function judgingBy(every: readonly Gathered[]): Judging {

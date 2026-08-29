@@ -55,11 +55,11 @@ function at(root: string, path: string) {
 }
 
 function arriving(root: string, path: string) {
-  return { root, changed: [path], at: () => NO_BYTES }
+  return { root, changed: [path], at: () => NO_BYTES, was: () => NO_BYTES }
 }
 
 function taking(root: string, path: string) {
-  return { root, changed: [path], at: () => null }
+  return { root, changed: [path], at: () => null, was: () => NO_BYTES }
 }
 
 test("a domain some page names among its parts is let through", () => {

@@ -7,6 +7,7 @@ export type Leaving = {
   readonly root: string
   readonly changed: readonly string[]
   readonly at: (path: string) => Uint8Array | null
+  readonly was: (path: string) => Uint8Array | null
 }
 
 export type Judging = {

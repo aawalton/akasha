@@ -11,5 +11,15 @@ export const judging = {
       invariantKind: "departure",
       statement: "Nothing here imports a check or a door.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change is shown twice over: `at` answers the body the change leaves, and `was` answers the body it found. A check reading only `at` sees a state rather than a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Audit is a change in which every file is unchanged, so `was` and `at` answer alike there and nothing reads as added or taken away.",
+    },
   ],
 } as const satisfies Module

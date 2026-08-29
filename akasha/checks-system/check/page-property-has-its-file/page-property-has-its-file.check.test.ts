@@ -79,10 +79,13 @@ function over(
   changed: readonly string[],
   bodies: Record<string, Uint8Array | null>
 ): Leaving {
+  const at = (path: string): Uint8Array | null =>
+    path in bodies ? (bodies[path] ?? null) : new Uint8Array(0)
   return {
     root,
     changed,
-    at: (path) => (path in bodies ? (bodies[path] ?? null) : new Uint8Array(0)),
+    at,
+    was: at,
   }
 }
 

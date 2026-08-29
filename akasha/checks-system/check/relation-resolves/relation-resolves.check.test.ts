@@ -131,14 +131,16 @@ function over(
   bodies: Record<string, string | null>
 ): Leaving {
   const encoder = new TextEncoder()
+  const at = (path: string): Uint8Array | null => {
+    const said = bodies[path]
+    if (said === undefined || said === null) return null
+    return encoder.encode(said)
+  }
   return {
     root,
     changed,
-    at: (path) => {
-      const said = bodies[path]
-      if (said === undefined || said === null) return null
-      return encoder.encode(said)
-    },
+    at,
+    was: at,
   }
 }
 

@@ -302,6 +302,14 @@ export function leavingOf(root: string, proposed: Proposed): Leaving {
   const held = new Map<string, Uint8Array | null>()
   for (const one of proposed.changed) held.set(one.path, one.body)
   const read = new Map<string, Uint8Array | null>()
+  const based = (path: string): Uint8Array | null => {
+    const found = read.get(path)
+    if (found !== undefined) return found
+    if (read.has(path)) return null
+    const body = bodyAt(root, proposed.base, path)
+    read.set(path, body)
+    return body
+  }
   return {
     root,
     changed: proposed.changed.map((one) => one.path).sort(),
@@ -309,13 +317,9 @@ export function leavingOf(root: string, proposed: Proposed): Leaving {
       const said = held.get(path)
       if (said !== undefined) return said
       if (held.has(path)) return null
-      const found = read.get(path)
-      if (found !== undefined) return found
-      if (read.has(path)) return null
-      const body = bodyAt(root, proposed.base, path)
-      read.set(path, body)
-      return body
+      return based(path)
     },
+    was: based,
   }
 }
 

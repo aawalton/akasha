@@ -70,7 +70,8 @@ function arriving(
   changed: readonly string[],
   bodies: Record<string, Uint8Array> = {}
 ): Leaving {
-  return { root, changed, at: (path) => bodies[path] ?? new Uint8Array(0) }
+  const at = (path: string): Uint8Array => bodies[path] ?? new Uint8Array(0)
+  return { root, changed, at, was: at }
 }
 
 test("a path the index says a page claims is let through", () => {
@@ -141,7 +142,7 @@ test("a property whose shape is not a file names no file, so a path built from i
 
 test("a path the change takes away is passed over", () => {
   const root = rooted()
-  expect(fileHasItsPage({ root, changed: ["akasha/a/stray.ts"], at: () => null })).toEqual([])
+  expect(fileHasItsPage({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })).toEqual([])
 })
 
 test("a path outside the akasha folder is passed over", () => {
@@ -165,7 +166,7 @@ test("a change with nothing unclaimed asks for no page body", () => {
     asked.push(path)
     return pageBody("held", ', code: "ts"')
   }
-  expect(fileHasItsPage({ root, changed: ["akasha/a/held.module.ts"], at })).toEqual([])
+  expect(fileHasItsPage({ root, changed: ["akasha/a/held.module.ts"], at, was: at })).toEqual([])
   expect(asked).toEqual(["akasha/a/held.module.ts"])
 })
 
@@ -176,7 +177,7 @@ test("a change carrying something unclaimed does ask for the page bodies in it",
     asked.push(path)
     return pageBody("held", ', code: "ts"')
   }
-  expect(fileHasItsPage({ root, changed: ["akasha/a/held.module.ts"], at })).toEqual([])
+  expect(fileHasItsPage({ root, changed: ["akasha/a/held.module.ts"], at, was: at })).toEqual([])
   expect(asked).toEqual(["akasha/a/held.module.ts", "akasha/a/held.module.ts"])
 })
 
