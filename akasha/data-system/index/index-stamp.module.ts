@@ -33,10 +33,4 @@ export const indexStamp = {
       statement: "A rebuild stamps every path the worktree has changed.",
     },
   ],
-  intent: [
-    {
-      invariantKind: "gap",
-      statement: "No command rebuilds the index, so a stale stamp is cleared by hand.",
-    },
-  ],
 } as const satisfies Module

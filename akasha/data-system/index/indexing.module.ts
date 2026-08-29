@@ -22,7 +22,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is loaded only when its suffix names a page type.",
+      statement: "A body a file property holds is never loaded.",
     },
     {
       invariantKind: "departure",

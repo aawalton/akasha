@@ -264,13 +264,16 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
   rmSync(root, { recursive: true })
 })
 
-test("the index two landings leave is the index a rebuild from those pages builds", () => {
+const butTheStamp = (found: readonly string[]): readonly string[] =>
+  found.filter((one) => !one.startsWith("/stamp.jsonl "))
+
+test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, [{ path: "akasha/domain.page-type.ts", body: bytes(TYPE) }], "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const rebuilt = mkdtempSync(join(tmpdir(), "akasha-rebuilt-"))
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
-  expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(indexIn(root)))
+  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(indexIn(root))))
   rmSync(root, { recursive: true })
   rmSync(rebuilt, { recursive: true })
 })
