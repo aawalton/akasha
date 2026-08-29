@@ -6,8 +6,8 @@ import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.co
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { ADMITS_CODE, MINTED, minting } from "../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
-import { rootAbove } from "../../testing-system/rooting/rooting.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
+import { rootAbove } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 

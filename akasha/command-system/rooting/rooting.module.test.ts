@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { rootAbove } from "./rooting.module.code.ts"
 
 const MARK = "node_modules"
