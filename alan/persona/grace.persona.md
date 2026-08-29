@@ -2,7 +2,7 @@
 page-type-slug: persona
 id: 019f18fd-a89d-7fab-b9c0-052ee4db6877
 title: Grace
-total-points: 4174
+total-points: 4191
 cover: "/api/image/019f324d-7395-7630-adc6-91bdb59d2d63"
 slug: grace
 domain-parent-slug: readout-group/personas
