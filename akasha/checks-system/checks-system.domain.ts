@@ -33,6 +33,11 @@ export const checksSystem = {
       statement: "A check reads the index together with the change, never the index alone.",
     },
     {
+      invariantKind: "absence",
+      statement:
+        "No check judges what a repository outside akasha imports from inside it, so such an import breaks silently when akasha moves a file.",
+    },
+    {
       invariantKind: "gap",
       statement: "A check runs over the changes it was given, never over the corpus.",
     },
