@@ -186,8 +186,8 @@ function refusingIndex(toolName: string, shown: string): string {
   return [
     `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the akasha index.`,
     "`.git/data` holds the index, and is guarded as the akasha folder is.",
-    "The pages and the index are two halves of one store.",
-    "A hand-written index cost three outages in one day. Rebuild it instead:",
+    "The pages and the index are two halves of one store, so a hand-written index puts",
+    "them out of step. Rebuild it instead:",
     "",
     "  akasha index refresh",
   ].join("\n")

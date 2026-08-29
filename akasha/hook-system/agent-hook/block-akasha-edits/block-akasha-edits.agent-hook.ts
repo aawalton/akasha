@@ -52,11 +52,10 @@ export const blockAkashaEdits = {
       directiveKind: "rule",
       name: "The Index Is Akasha",
       act: "Guard `.git/data` as the akasha folder is guarded.",
-      warrant:
-        "The pages and the index are two halves of one store, and a hand-written index cost three outages in one day.",
+      warrant: "The pages and the index are two halves of one store.",
       aids: [
-        "The index is derived state, and is still not yours to write.",
-        "`akasha index refresh` is the sanctioned repair, and nothing else writes there.",
+        "Derived state is still not yours to write.",
+        "`akasha index refresh` is the one repair.",
       ],
     },
   ],
