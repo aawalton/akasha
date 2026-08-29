@@ -23,6 +23,11 @@ export const pageTypeDescent = {
         "A page type naming a parent no page type holds is left out, rather than treated as standing under nothing.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Which index is read and how a page type's body is reached are both taken, so a caller holding the index as its change leaves it is answered from that and one holding only a root as before.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here walks the corpus. Every page type read is one the index named first.",

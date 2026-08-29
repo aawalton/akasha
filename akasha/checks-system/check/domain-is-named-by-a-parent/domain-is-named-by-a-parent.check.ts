@@ -20,16 +20,22 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "The page is found from its path and the page types the index holds, never by walking.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "The body is not read.",
+        "A page type the change itself puts under `domain` counts, because which page types stand under `domain` is read from the index as the change leaves it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Whether a page names it is one identity read and one directory listed, plus the parts the change itself carries.",
+        "The page is found from its path and the page types the index holds, never by walking.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "The body of the page judged is not read. The body a change replaces is, because the parts that body named are the pages the change may have orphaned.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a page names it is one directory listed on the index as the change leaves it, so a parent landing in the change and one the change withdraws are answered by the same lookup.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +44,13 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement: "An index answering other than one page to the slug is thrown on, never passed.",
+      statement:
+        "An index answering other than one page to the slug is passed over, not thrown on, because a check that throws leaves every other page in the change unjudged.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Why the index answers none or two is not said here. A page stating no `id`, a body that will not load, a file named otherwise than its slug and a slug two pages carry are refused in words beside this.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +59,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Who names a page is read from the change and the index together, so a page and the parent naming it land as one.",
+        "A parent the change takes away leaves the parts it named judged, because those parts are looked for in the body the change withdrew and not among the pages the change carries.",
     },
     {
       invariantKind: "gap",

@@ -1,26 +1,25 @@
 import {
   pageTypesIn,
+  type Value,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
-  indexIn,
-  standingById,
+  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import {
-  type Known,
+  knownIn,
   namesIn,
   reaches,
 } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  namedIn,
+  pageNamed,
+} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
-import {
-  type Carried,
-  carriedBy,
-  knownAcross,
-} from "../relation-resolves/relation-resolves.check.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -37,68 +36,33 @@ export type Named = {
   readonly slug: string
 }
 
-export function domainNamedIn(root: string, path: string): Named | null {
+export function domainNamedIn(
+  root: string,
+  path: string,
+  under: ReadonlySet<string> = kindsUnder(root, DOMAIN)
+): Named | null {
   if (!path.startsWith(INSIDE)) return null
   const said = namedIn(path)
   if (said === null) return null
-  if (!kindsUnder(root, DOMAIN).has(said.tail)) return null
+  if (!under.has(said.tail)) return null
   return { pageTypeSlug: said.tail, slug: said.stem }
 }
 
-function partsOf(value: Record<string, unknown> | null): readonly string[] {
+function theWhole(path: string): boolean {
+  const said = namedIn(path)
+  return said !== null && said.tail === DOMAIN && said.stem === THE_WHOLE
+}
+
+function partsOf(value: Value | null): readonly string[] {
   const held = value === null ? null : value[PARTS]
   return held === null || held === undefined ? [] : namesIn(held)
 }
 
-export type Dropped = {
-  readonly path: string
-  readonly id: string
-  readonly shown: string
-}
-
-export function droppedBy(
-  leaving: Leaving,
-  carried: readonly Carried[],
-  known: Known
-): readonly Dropped[] {
-  const found: Dropped[] = []
-  for (const one of carried) {
-    const was = leaving.was(one.path)
-    if (was === null) continue
-    const text = bodyOf({ root: leaving.root, path: one.path, bytes: was })
-    const before = text === null ? null : valueIn(text)
-    const after = new Set(partsOf(one.value))
-    for (const said of partsOf(before)) {
-      if (after.has(said)) continue
-      const reached = reaches(said, DOMAIN, known)
-      if (!("id" in reached)) continue
-      const standing = known.byId(reached.id)
-      if (standing !== null) found.push({ path: standing.path, id: reached.id, shown: said })
-    }
-  }
-  return found
-}
-
-export function namedAsParts(carried: readonly Carried[], known: Known): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const one of carried) {
-    const held = one.value[PARTS]
-    if (held === null || held === undefined) continue
-    for (const said of namesIn(held)) {
-      const reached = reaches(said, DOMAIN, known)
-      if ("id" in reached) found.add(reached.id)
-    }
-  }
-  return found
-}
-
-export function namedInIndex(leaving: Leaving, id: string): boolean {
-  const touched = new Set(leaving.changed)
-  for (const namer of idsNaming(leaving.root, id, PART_SLUGS)) {
-    const one = standingById(leaving.root, namer)
-    if (one !== null && !touched.has(one.path)) return true
-  }
-  return false
+function partsWere(leaving: Leaving, path: string): readonly string[] {
+  const bytes = leaving.was(path)
+  if (bytes === null) return []
+  const text = bodyOf({ root: leaving.root, path, bytes })
+  return text === null ? [] : partsOf(valueIn(text))
 }
 
 function reasonFor(shown: string): string {
@@ -109,32 +73,36 @@ function reasonFor(shown: string): string {
 }
 
 export function domainIsNamedByAParent(leaving: Leaving): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(indexIn(leaving.root)))
-  const known = knownAcross(leaving, carried)
-  const named = namedAsParts(carried, known)
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const shadow = cast.shadow
+  const under = kindsUnder(leaving.root, DOMAIN, shadow.reading, shadow.pageOf)
+  const pageTypes = pageTypesIn(shadow.reading)
+  const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string, shown: string): void => {
     if (judged.has(path)) return
     judged.add(path)
-    if (named.has(id) || namedInIndex(leaving, id)) return
+    if (idsNaming(shadow.reading, id, PART_SLUGS).length > 0) return
     said.push({ path, reason: reasonFor(shown) })
   }
   for (const path of leaving.changed) {
-    if (leaving.at(path) === null) continue
-    const held = domainNamedIn(leaving.root, path)
-    if (held === null) continue
-    if (held.pageTypeSlug === DOMAIN && held.slug === THE_WHOLE) continue
-    const found = known.at(held.pageTypeSlug, held.slug)
-    const one = found[0]
-    if (found.length !== 1 || one === undefined) {
-      throw new Error(
-        `the index answers ${found.length} pages to the ${held.pageTypeSlug} slug ` +
-          `\`${held.slug}\`, so who names it could not be looked up`
-      )
+    if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
+    for (const shown of partsWere(leaving, path)) {
+      const reached = reaches(shown, DOMAIN, known)
+      if (!("id" in reached)) continue
+      const standing = known.byId(reached.id)
+      if (standing === null || theWhole(standing.path)) continue
+      judge(standing.path, reached.id, shown)
     }
+    if (leaving.at(path) === null) continue
+    const held = domainNamedIn(leaving.root, path, under)
+    if (held === null || (held.pageTypeSlug === DOMAIN && held.slug === THE_WHOLE)) continue
+    const found = standingAt(shadow.reading, held.pageTypeSlug, held.slug)
+    const one = found[0]
+    if (found.length !== 1 || one === undefined) continue
     judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
   }
-  for (const one of droppedBy(leaving, carried, known)) judge(one.path, one.id, one.shown)
   return said
 }

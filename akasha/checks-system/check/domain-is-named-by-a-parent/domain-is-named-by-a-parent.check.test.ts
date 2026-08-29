@@ -1,9 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdtempSync, rmSync } from "node:fs"
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  declaring,
   edging,
   identified,
+  identifying,
   landing,
   NO_BYTES,
   pathFor,
@@ -20,6 +22,8 @@ const TWO = "01a04d5f-c731-7002-8000-000000000002"
 
 const UP = "01a04d5f-c731-7003-8000-000000000003"
 
+const NEW = "01a04d5f-c731-7004-8000-000000000004"
+
 const UP_AT = "akasha/up.domain.ts"
 
 const held: string[] = []
@@ -32,6 +36,8 @@ function rooted(): string {
   const root = mkdtempSync(join(SCRATCH_AT, "akasha-parented-"))
   held.push(root)
   typed(root, "domain", "page")
+  identifying(root)
+  declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
   return root
 }
 
@@ -41,6 +47,11 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
   )
+}
+
+function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
+  writeFileSync(join(root, path), bytes)
+  return bytes
 }
 
 test("a page the index says some page names among its parts is let through", () => {
@@ -83,14 +94,19 @@ test("a parent that stops naming a part leaves that part refused", () => {
   const root = rooted()
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
-  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
   identified(root, UP, "akasha/up.domain.ts")
+  const at = pathFor("domain", "over")
   const said = domainIsNamedByAParent(
-    landing(root, {
-      [pathFor("domain", "under")]: body("domain", "under", ONE),
-      [pathFor("domain", "over")]: body("domain", "over", TWO),
-    })
+    landing(
+      root,
+      {
+        [pathFor("domain", "under")]: body("domain", "under", ONE),
+        [at]: body("domain", "over", TWO),
+      },
+      { [at]: put(root, at, body("domain", "over", TWO, ["domain/under"])) }
+    )
   )
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor("domain", "under"))
@@ -101,7 +117,7 @@ test("a parent dropping a part leaves that part refused, though it did not chang
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
   identified(root, ONE, pathFor("domain", "under"))
-  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
   edging(root, TWO, "part-slugs", UP, UP_AT)
   identified(root, UP, "akasha/up.domain.ts")
   const at = pathFor("domain", "over")
@@ -109,7 +125,26 @@ test("a parent dropping a part leaves that part refused, though it did not chang
     landing(
       root,
       { [at]: body("domain", "over", TWO) },
-      { [at]: body("domain", "over", TWO, ["domain/under"]) }
+      { [at]: put(root, at, body("domain", "over", TWO, ["domain/under"])) }
+    )
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("domain", "under"))
+})
+
+test("a parent the change takes away leaves the part it named refused", () => {
+  const root = rooted()
+  stands(root, "domain", "under", ONE)
+  stands(root, "domain", "over", TWO)
+  identified(root, ONE, pathFor("domain", "under"))
+  identified(root, TWO, pathFor("domain", "over"))
+  edging(root, ONE, "part-slugs", TWO, pathFor("domain", "over"))
+  const at = pathFor("domain", "over")
+  const said = domainIsNamedByAParent(
+    landing(
+      root,
+      { [at]: null },
+      { [at]: put(root, at, body("domain", "over", TWO, ["domain/under"])) }
     )
   )
   expect(said).toHaveLength(1)
@@ -141,6 +176,20 @@ test("a page whose page type stands under domain is judged too", () => {
   expect(said).toHaveLength(1)
 })
 
+test("a page of a page type the change itself adds is judged too", () => {
+  const root = rooted()
+  const said = domainIsNamedByAParent(
+    landing(root, {
+      "akasha/module.page-type.ts": new TextEncoder().encode(
+        `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
+          `slug: "module", extendsSlug: "page-type/domain" }\n`
+      ),
+      [pathFor("module", "held")]: body("module", "held", ONE),
+    })
+  )
+  expect(said.map((one) => one.path)).toEqual([pathFor("module", "held")])
+})
+
 test("a page whose page type stands outside domain is not judged", () => {
   const root = rooted()
   typed(root, "finding", "page")
@@ -162,13 +211,34 @@ test("a file outside the akasha folder is not this check's business", () => {
   expect(said).toEqual([])
 })
 
-test("a page whose body carries no identity is thrown on rather than passed", () => {
+test("a page arriving with no identity is passed over rather than thrown on", () => {
+  const root = rooted()
+  const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
+  expect(domainIsNamedByAParent(landing(root, { [pathFor("domain", "held")]: bare }))).toEqual([])
+})
+
+test("a page giving up its identity is passed over rather than thrown on", () => {
   const root = rooted()
   stands(root, "domain", "held", ONE)
+  identified(root, ONE, pathFor("domain", "held"))
+  const at = pathFor("domain", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
-  expect(() =>
-    domainIsNamedByAParent(landing(root, { [pathFor("domain", "held")]: bare }))
-  ).toThrow("answers 0 pages")
+  const said = domainIsNamedByAParent(
+    landing(root, { [at]: bare }, { [at]: put(root, at, body("domain", "held", ONE)) })
+  )
+  expect(said).toEqual([])
+})
+
+test("a page whose body will not load is passed over rather than thrown on", () => {
+  const root = rooted()
+  stands(root, "domain", "held", ONE)
+  identified(root, ONE, pathFor("domain", "held"))
+  const at = pathFor("domain", "held")
+  const broken = new TextEncoder().encode("export const held = { this is not a body\n")
+  const said = domainIsNamedByAParent(
+    landing(root, { [at]: broken }, { [at]: put(root, at, body("domain", "held", ONE)) })
+  )
+  expect(said).toEqual([])
 })
 
 test("the slug is the file's stem and the page type its suffix", () => {

@@ -1,5 +1,6 @@
 import { type Value, valueAt } from "../../indexes/index-entries/index-entries.module.code.ts"
 import { everyOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../indexes/index-surface/index-surface.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -18,10 +19,14 @@ function saidIn(value: Value | null, key: string): string | null {
   return typeof said === "string" && said !== "" ? said : null
 }
 
-export function standingAbove(root: string): ReadonlyMap<string, string> {
+export function standingAbove(
+  root: string,
+  given: string | Reading = root,
+  pageOf: (path: string) => Value | null = (path) => valueAt(path, root)
+): ReadonlyMap<string, string> {
   const above = new Map<string, string>()
-  for (const one of everyOfType(root, PAGE_TYPE)) {
-    const value = valueAt(one.path, root)
+  for (const one of everyOfType(given, PAGE_TYPE)) {
+    const value = pageOf(one.path)
     const slug = saidIn(value, SLUG)
     const said = saidIn(value, EXTENDS)
     if (slug !== null && said !== null) above.set(slug, slugOf(said))
@@ -29,8 +34,13 @@ export function standingAbove(root: string): ReadonlyMap<string, string> {
   return above
 }
 
-export function kindsUnder(root: string, slug: string): ReadonlySet<string> {
-  const above = standingAbove(root)
+export function kindsUnder(
+  root: string,
+  slug: string,
+  given: string | Reading = root,
+  pageOf: (path: string) => Value | null = (path) => valueAt(path, root)
+): ReadonlySet<string> {
+  const above = standingAbove(root, given, pageOf)
   const under = new Set<string>([slug])
   for (;;) {
     let grew = false

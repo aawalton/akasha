@@ -2,6 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexIdentity } from "../../pages-system/indexes/index/index-identity/index-identity.index.ts"
 import { indexRelation } from "../../pages-system/indexes/index/index-relation/index-relation.index.ts"
+import { indexSchema } from "../../pages-system/indexes/index/index-schema/index-schema.index.ts"
 import { indexAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Leaving } from "../judging/judging.module.code.ts"
 
@@ -9,9 +10,13 @@ const IDENTITY = indexIdentity.indexName
 
 const RELATION = indexRelation.indexName
 
+const SCHEMA = indexSchema.indexName
+
 const PAGE = "page"
 
 const PAGE_TYPE = "page-type"
+
+const PAGE_PROPERTY = "page-property"
 
 const SLUG = "slug"
 
@@ -40,6 +45,29 @@ export function typed(root: string, slug: string, above: string): void {
     join(root, path),
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
   )
+}
+
+export type Shape = {
+  readonly pageTypeSlug: string
+  readonly targetPageTypeSlug?: string | null
+  readonly unique?: string | null
+}
+
+export function declaring(root: string, slug: string, shape: Shape): void {
+  filed(root, indexAt(SCHEMA, PAGE_PROPERTY, SLUG), slug, {
+    pageTypeSlug: shape.pageTypeSlug,
+    targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
+    unique: shape.unique ?? null,
+  })
+}
+
+export function identifying(root: string): void {
+  declaring(root, ID, { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, SLUG, { pageTypeSlug: "text-property", unique: PAGE_TYPE })
+  declaring(root, "page-type-slug", {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: PAGE_TYPE,
+  })
 }
 
 export function stands(root: string, kind: string, slug: string, id: string): void {

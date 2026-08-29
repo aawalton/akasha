@@ -23,6 +23,11 @@ export const checkScratch = {
         "What a relation points at is handed in rather than assumed, because two checks reading the same edge expect it to land on different pages.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A scratch index says its schema, because identity is filed only under the properties a `unique` names, and a reading naming none refuses rather than answering empty.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "No root is made or swept here. A test says where its scratch stands and how long it lives, and this only writes into it.",
