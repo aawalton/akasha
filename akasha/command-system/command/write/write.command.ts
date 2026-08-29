@@ -38,6 +38,16 @@ export const write = {
         "`--break-the-glass` passes the warrants as it passes the checks, and the reason it was broken stands in the commit.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A path taken away carries the files standing beside it, as `move` and `remove` do, because a page and the files it claims are taken away together or not at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file carried along beside a path taken away is not warranted, being the machine's own choice rather than the caller's; what the caller warranted is the page claiming it.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "`move` and `remove` warrant nothing, their changes being the machine's own; a path this call takes away was chosen by whoever called it, and is warranted.",

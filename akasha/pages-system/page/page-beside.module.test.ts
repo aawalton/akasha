@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
-import { besideOf } from "./page-beside.module.code.ts"
+import { besideAll, besideOf } from "./page-beside.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -63,6 +63,24 @@ test("a file carrying more than one part past the page's name is not beside it",
     "akasha/one/held.module.code.ts",
   ])
   expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.code.ts"])
+})
+
+test("what stands beside several paths is answered once, sorted, and holds none of them", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.code.ts",
+    "akasha/one/other.module.ts",
+    "akasha/one/other.module.code.ts",
+  ])
+  expect(besideAll(root, [PAGE, "akasha/one/other.module.ts"])).toEqual([
+    "akasha/one/held.module.code.ts",
+    "akasha/one/other.module.code.ts",
+  ])
+})
+
+test("a path named among the set is never answered as standing beside another", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.code.ts"])
+  expect(besideAll(root, [PAGE, "akasha/one/held.module.code.ts"])).toEqual([])
 })
 
 test("a path that is no TypeScript file answers nothing", () => {

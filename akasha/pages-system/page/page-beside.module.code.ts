@@ -19,3 +19,14 @@ export function besideOf(root: string, path: string): readonly string[] {
   }
   return found.sort()
 }
+
+export function besideAll(root: string, paths: readonly string[]): readonly string[] {
+  const named = new Set(paths)
+  const found = new Set<string>()
+  for (const one of paths) {
+    for (const held of besideOf(root, one)) {
+      if (!named.has(held)) found.add(held)
+    }
+  }
+  return [...found].sort()
+}

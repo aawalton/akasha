@@ -192,6 +192,38 @@ test("a removal takes the file away and commits it with the write", () => {
   ])
 })
 
+test("a file standing beside a path taken away goes with it, warranted by nobody", () => {
+  const root = repoWith({ "akasha/held.module.ts": "committed\n" })
+  put(root, "akasha/held.module.code.ts", "beside\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "beside"])
+  const said = write(["--remove", "akasha/held.module.ts"], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(existsSync(join(root, "akasha/held.module.code.ts"))).toBe(false)
+})
+
+test("a file standing beside a path this call writes is not taken away", () => {
+  const root = repoWith({
+    "akasha/held.module.ts": "committed\n",
+    "akasha/held.module.code.ts": "committed\n",
+    "akasha/two.ts": "committed\n",
+  })
+  const said = write(
+    [
+      "--file-path",
+      "akasha/held.module.code.ts",
+      "--content-file",
+      bodyIn(root),
+      "--remove",
+      "akasha/two.ts",
+    ],
+    givenIn(root)
+  )
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/held.module.code.ts"), "utf8")).toBe("proposed\n")
+})
+
 test("a removal of what is not there is refused as data that is wrong", () => {
   const root = repoWith()
   const was = headOf(root)

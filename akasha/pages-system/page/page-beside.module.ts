@@ -41,6 +41,11 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
+        "What stands beside several paths is answered once, sorted, holding none of the paths themselves, so every command carrying a file along takes the same files with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The schema is not asked, because a file no page claims cannot stand and the naming grammar lets only this page claim a file carrying its whole name and one part more.",
     },
   ],

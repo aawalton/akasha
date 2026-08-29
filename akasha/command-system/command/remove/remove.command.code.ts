@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
+import { besideAll } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Asked } from "../../asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
@@ -31,7 +31,7 @@ export const surface: Surface = {
   notes: [
     `${FILE_PATH} repeats, so several paths go in one commit.`,
     "a directory named takes away every file git holds under it.",
-    "the `code` and `test` files standing beside what you name go with it.",
+    "the files standing beside what you name go with it.",
   ],
 }
 
@@ -261,9 +261,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const root = resolve(given.root)
   const held = openedIn(root, read.named)
   if ("refusals" in held) return answering([], held.refusals, 1)
-  const beside = [...new Set(held.opened.flatMap((one) => besideOf(root, one)))].filter(
-    (one) => !held.opened.includes(one)
-  )
+  const beside = besideAll(root, held.opened)
   const paths = [...held.opened, ...beside].sort()
   const changes: readonly Change[] = paths.map((path) => ({ path, body: null }))
   const asked: Asked = {

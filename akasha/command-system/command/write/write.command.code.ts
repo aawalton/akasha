@@ -1,4 +1,5 @@
 import { isAbsolute, relative, resolve } from "node:path"
+import { besideAll } from "../../../pages-system/page/page-beside.module.code.ts"
 import {
   BREAK_GLASS,
   bytesAt,
@@ -50,6 +51,7 @@ export const surface: Surface = {
   notes: [
     `${FILE_PATH} and ${CONTENT_FILE} repeat in pairs, so several files land in one commit.`,
     "a body is a file, never text said on the command line.",
+    `the files standing beside a path given to ${REMOVE} go with it.`,
   ],
 }
 
@@ -278,6 +280,7 @@ export function write(argv: readonly string[], given: Given): Answer {
     changes.push({ path, body })
   }
   const base = read.removals.length === 0 ? null : baseOf(given.root)
+  const taken: string[] = []
   for (const one of read.removals) {
     const path = pathInside(given.root, one)
     if (path === null) {
@@ -293,9 +296,17 @@ export function write(argv: readonly string[], given: Given): Answer {
       wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
       continue
     }
+    taken.push(path)
     changes.push({ path, body: null })
   }
   wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  if (base !== null) {
+    for (const one of besideAll(resolve(given.root), taken)) {
+      if (seen.has(one) || bodyAt(given.root, base, one) === null) continue
+      seen.add(one)
+      changes.push({ path: one, body: null })
+    }
+  }
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 
