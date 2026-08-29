@@ -1,7 +1,7 @@
 import * as path from 'node:path';
 import { duringOneCall } from '../../../../during-call/during-call.ts';
-import { type Node, workTree } from '../../../../tools/lib/work-tree.ts';
-import { askedInitiatives } from '../../../../tools/lib/work-tree-asked.ts';
+import { type Initiatives, type Node, workTree } from '../../../../tools/lib/work-tree.ts';
+import { initiativesDrawn } from '../../../../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts';
 import { drawnNow } from '../../../../tools/lib/work-tree-drawn.ts';
 import { AKASHA, resolveRoots, rootFor } from '../../../../repo/roots/roots.ts';
 import { rollUp } from './colours.ts';
@@ -49,11 +49,22 @@ export function documentPath(tree: WorkTree, node: WorkNode): string | undefined
 	return node.relPath === null ? undefined : path.join(tree.repo, node.relPath);
 }
 
+function initiativesIn(repo: string): Initiatives {
+	return {
+		initiatives: initiativesDrawn(repo).map((one) => ({
+			slug: one.slug,
+			relPath: one.path,
+			parent: one.parent,
+			persona: null,
+		})),
+	};
+}
+
 export async function readWorkTree(): Promise<WorkTree> {
-	const roots = resolveRoots();
+	const repo = rootFor(resolveRoots(), AKASHA);
 	return duringOneCall(async () => ({
-		repo: rootFor(roots, AKASHA),
-		roots: rollUp(named(workTree(askedInitiatives(roots), drawnNow()))),
+		repo,
+		roots: rollUp(named(workTree(initiativesIn(repo), drawnNow()))),
 	}));
 }
 

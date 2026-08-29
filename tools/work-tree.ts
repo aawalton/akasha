@@ -3,10 +3,21 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { type Drawn, type Node, workTree, render, walk } from "./lib/work-tree.ts"
-import { askedInitiatives } from "./lib/work-tree-asked.ts"
+import { type Drawn, type Initiatives, type Node, workTree, render, walk } from "./lib/work-tree.ts"
+import { initiativesDrawn } from "../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts"
 import { drawnNow } from "./lib/work-tree-drawn.ts"
-import { akashaRoot, resolveRoots } from "../repo/roots/roots.ts"
+import { akashaRoot } from "../repo/roots/roots.ts"
+
+function initiativesIn(repo: string): Initiatives {
+  return {
+    initiatives: initiativesDrawn(repo).map((one) => ({
+      slug: one.slug,
+      relPath: one.path,
+      parent: one.parent,
+      persona: null,
+    })),
+  }
+}
 
 const HELP = `bun tools/work-tree.ts — print the work tree, composed from the files now
 
@@ -77,7 +88,7 @@ function main(): void {
     process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
     return
   }
-  const tree = workTree(askedInitiatives(resolveRoots()), drawnNow())
+  const tree = workTree(initiativesIn(repo), drawnNow())
   if (argv.includes("--json")) {
     process.stdout.write(`${JSON.stringify({ repo, roots: tree })}\n`)
     return
