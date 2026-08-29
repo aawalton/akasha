@@ -197,7 +197,7 @@ test("a real call of read through calling answers with the file it was given", (
     expect(answer.code).toBe(0)
     expect(answer.report.join("\n")).toContain("akasha-import.domain.ts")
     expect(answer.report.join("\n")).toContain(
-      "An akasha file imports nothing outside the akasha folder"
+      "What akasha needs from outside arrives as one value"
     )
   } finally {
     away(root)
