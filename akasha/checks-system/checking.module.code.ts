@@ -3,7 +3,7 @@ import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
 import type { Corpus } from "../write-system/corpus.module.code.ts"
 import { corpusIn } from "../write-system/corpus.module.code.ts"
-import type { Judged, Judging, Leaving } from "../write-system/landing.module.code.ts"
+import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
 import type { Needs } from "./check/properties/needs.page-property-type.ts"
 
 export type At = {

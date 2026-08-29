@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import type { Leaving } from "../write-system/landing.module.code.ts"
+import type { Leaving } from "../checks-system/judging.module.code.ts"
 import { corpusIn } from "../write-system/corpus.module.code.ts"
 import type { Body, Gathered, Whole } from "./checking.module.code.ts"
 import { checksIn, judgingBy, wholeOf } from "./checking.module.code.ts"

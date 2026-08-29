@@ -1,4 +1,5 @@
 import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import type { Judged, Judging, Leaving } from "../checks-system/judging.module.code.ts"
 import type { Corpus, Refusal } from "./corpus.module.code.ts"
 import type { Oid, Record_ } from "./reading.module.code.ts"
 import { oidOf } from "./reading.module.code.ts"
@@ -27,26 +28,11 @@ export type Removal = {
 export type Change = Landing | Removal
 
 export type { Refusal }
+export type { Judged, Judging, Leaving }
 
 export type BodyStore = {
   readonly of: (oid: Oid) => string | null
   readonly keep: (oid: Oid, body: string) => void
-}
-
-export type Judged = {
-  readonly path: string
-  readonly reason: string
-}
-
-export type Leaving = {
-  readonly root: string
-  readonly changed: readonly string[]
-  readonly at: (path: string) => Uint8Array | null
-}
-
-export type Judging = {
-  readonly named: readonly string[]
-  readonly over: (leaving: Leaving) => readonly Judged[]
 }
 
 export type Landed =

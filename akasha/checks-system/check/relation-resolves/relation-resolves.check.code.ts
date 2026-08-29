@@ -1,5 +1,5 @@
 import type { Corpus, Filed } from "../../../write-system/corpus.module.code.ts"
-import type { Judged } from "../../../write-system/landing.module.code.ts"
+import type { Judged } from "../../../checks-system/judging.module.code.ts"
 import type { Whole } from "../../checking.module.code.ts"
 import { corpusFor } from "../../checking.module.code.ts"
 

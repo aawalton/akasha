@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import type { Leaving } from "../../../write-system/landing.module.code.ts"
+import type { Leaving } from "../../../checks-system/judging.module.code.ts"
 import { wholeOf } from "../../checking.module.code.ts"
 import { fileHasItsPage } from "./file-has-its-page.check.code.ts"
 

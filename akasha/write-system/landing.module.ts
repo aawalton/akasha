@@ -7,7 +7,7 @@ export const landing = {
   definition: "the door a change reaches the tree through",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["domain/akasha-check", "domain/akasha-type"],
+  requiredReadingSlugs: ["domain/akasha-check", "domain/akasha-type", "module/judging"],
   design: [
     "A removal reaches disk through the same door as a write, so nothing changes the tree unseen.",
     "The door is the only way to disk, so an index the door keeps cannot drift from the tree it describes.",

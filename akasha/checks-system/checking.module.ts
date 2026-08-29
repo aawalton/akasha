@@ -7,7 +7,7 @@ export const checking = {
   definition: "every check gathered and run over one change, answering what refuses it",
   code: "ts",
   test: "ts",
-  requiredReadingSlugs: ["page-type/check", "module/corpus", "module/landing"],
+  requiredReadingSlugs: ["page-type/check", "module/corpus", "module/judging"],
   design: [
     "A check and its page cannot drift apart, because the page names the export.",
     "A check that needs a path or a file is run over what the change touched; a check that needs the tree is run over the tree the change would leave.",
