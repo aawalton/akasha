@@ -7,9 +7,13 @@ export const akashaCheck = {
   definition: "a judgement passed on a change before it lands",
   invariants: [
     {
-      invariantKind: "gap",
+      invariantKind: "stopgap",
       statement:
-        "No check tests what the compiler tests, apart from the one that runs the compiler.",
+        "No check stands only to test what the compiler tests, apart from the one that runs it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check that only repeats the compiler does not land.",
     },
   ],
 } as const satisfies Domain
