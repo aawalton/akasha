@@ -49,7 +49,7 @@ export const surface: Surface = {
   notes: [
     `${FROM} and ${TO} repeat in pairs, so several bodies move in one commit.`,
     "a page states its own slug, so a move carries a body and never renames it.",
-    "the `code` and `test` files standing beside what you name go with it.",
+    "the files standing beside what you name go with it.",
     "the files naming what moves are repointed in the same commit.",
     "a path is read against the repository root, wherever the call was made.",
   ],
