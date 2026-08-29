@@ -3,6 +3,7 @@ import { dirname, join, relative, resolve } from "node:path"
 import { indexIn } from "../../../pages-system/index/index-reading.module.code.ts"
 import { headOf, stampIn, unlandedIn } from "../../../pages-system/index/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../pages-system/index/indexing.module.code.ts"
+import { counted } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { holding, oneLine } from "../../landing.module.code.ts"
 
@@ -138,10 +139,6 @@ function swapped(at: string, aside: string): void {
   mkdirSync(dirname(at), { recursive: true })
   renameSync(aside, at)
   rmSync(gone, { recursive: true, force: true })
-}
-
-export function counted(many: number, one: string): string {
-  return `${many} ${one}${many === 1 ? "" : "s"}`
 }
 
 export function named(paths: readonly string[]): string {

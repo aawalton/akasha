@@ -1,5 +1,6 @@
-import { existsSync, readFileSync, statSync } from "node:fs"
+import { existsSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { bytesAt, textOf } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 
 export const ANSWER_CEILING = 28000
@@ -108,14 +109,6 @@ function aiming(paths: readonly string[], given: Given): Aimed {
   return { targets, refusals }
 }
 
-function textOf(bytes: Uint8Array): string | null {
-  try {
-    return new TextDecoder("utf-8", { fatal: true }).decode(bytes)
-  } catch {
-    return null
-  }
-}
-
 function leadingOf(bytes: Uint8Array): string {
   return [...bytes.subarray(0, LEADING)].map((one) => one.toString(16).padStart(2, "0")).join("")
 }
@@ -130,14 +123,6 @@ function numbered(body: string): string {
   const lines = body.split("\n")
   if (lines[lines.length - 1] === "") lines.pop()
   return lines.map((line, at) => `${String(at + 1).padStart(NUMBER_WIDTH)}\t${line}`).join("\n")
-}
-
-function bodyAt(absolute: string): Uint8Array | null {
-  try {
-    return readFileSync(absolute)
-  } catch {
-    return null
-  }
 }
 
 export function linesFor(named: string, bytes: Uint8Array): readonly string[] {
@@ -174,7 +159,7 @@ export function read(argv: readonly string[], given: Given): Answer {
       mistaken = true
       continue
     }
-    const bytes = bodyAt(absolute)
+    const bytes = bytesAt(absolute)
     if (bytes === null) {
       refusals.push(`${named} is there and would not open, so nothing of it is here`)
       failed = true
