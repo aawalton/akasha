@@ -1,0 +1,36 @@
+import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+
+export const testingSystem = {
+  id: "01a04ee7-be05-75c4-ba3c-3fd73f943961",
+  pageTypeSlug: "domain",
+  slug: "testing-system",
+  definition: "what a test stands up to try something, and what it takes away after",
+  partSlugs: ["module/scratching", "module/minting"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Scaffolding a test stands up is not the thing under test, so it stands apart from every system it tries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What the tests of more than one system need stands here; what one module's tests need stands in fixtures beside that module.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A fixture beside a module reaches for what stands here rather than spelling it again, so the two are one floor and one room, never two floors.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Nothing here is reached by anything the system does when it runs, only by what tries it.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No test is written here. What stands here is stood up by the tests that reach for it, and a fixture proving itself proves nothing about the system.",
+    },
+  ],
+} as const satisfies Domain
