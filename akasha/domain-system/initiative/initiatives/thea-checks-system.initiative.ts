@@ -9,11 +9,11 @@ export const theaChecksSystem = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "No finding stands for checks-system or any part beneath it.",
+      statement: "No finding is filed on checks-system or any part beneath it.",
     },
     {
       invariantKind: "gap",
-      statement: "No intent stands on checks-system or any part beneath it.",
+      statement: "No intent is written on checks-system or any part beneath it.",
     },
     {
       invariantKind: "gap",
@@ -21,11 +21,11 @@ export const theaChecksSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "Every check of the old system that still applies stands in the new system.",
+      statement: "The new system carries every check of the old system that still applies.",
     },
     {
       invariantKind: "gap",
-      statement: "No check of the old system stands.",
+      statement: "The old system carries no check.",
     },
   ],
 } as const satisfies Initiative
