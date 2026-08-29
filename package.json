@@ -354,7 +354,6 @@
     "typescript": "5.9.3"
   },
   "scripts": {
-    "lint": "biome check .",
     "typecheck": "bunx @typescript/native-preview -b",
     "clean:stale-folders": "bun infra/scripts/src/clean-stale-folders.ts"
   },
