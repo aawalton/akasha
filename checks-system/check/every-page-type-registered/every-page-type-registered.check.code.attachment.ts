@@ -86,6 +86,8 @@ export const everyPageTypeRegistered = {
   needs: "tree",
   run: ({ root, tree }) => {
     const under = resolve(root, AKASHA)
+    const inside = tree.paths().filter((one) => one.startsWith(`${under}/`))
+    if (inside.length === 0) return []
     const at = resolve(root, REGISTRY)
     const body = tree.at(at)
     if (body === null) return [{ path: at, reason: ABSENT }]
@@ -93,8 +95,8 @@ export const everyPageTypeRegistered = {
     const stood = new Set(tree.paths())
     const failures: CheckFailure[] = []
     const wanted = new Set(held.imported.values())
-    for (const path of tree.paths()) {
-      if (!path.startsWith(`${under}/`) || !path.endsWith(ENDING)) continue
+    for (const path of inside) {
+      if (!path.endsWith(ENDING)) continue
       if (!wanted.has(path)) failures.push({ path, reason: UNHELD })
     }
     const listed = new Set(held.listed)
