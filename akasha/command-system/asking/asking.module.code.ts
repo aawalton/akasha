@@ -15,6 +15,7 @@ import {
   oneLine,
   UNNAMED,
 } from "../landing.module.code.ts"
+import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -251,6 +252,18 @@ function reporting(root: string, asked: Asked, gate: Judging): Answer {
   }
 }
 
+export function recordLanded(given: Given, changes: readonly Change[]): void {
+  if (given.agentId === null) return
+  for (const one of changes) {
+    if (one.body === null) continue
+    recordRead(given.root, given.agentId, {
+      path: one.path,
+      oid: blobIdOf(one.body),
+      seenAt: Date.now(),
+    })
+  }
+}
+
 export function landingAsked(given: Given, asked: Asked): Answer {
   if (asked.dryRun && asked.glass !== null) {
     return mistaking([
@@ -282,6 +295,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
     }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+  recordLanded(given, held.changes)
   return {
     report: reported(said, held, broken, gate.named.length, formatting.formatted),
     refusals: [],

@@ -44,6 +44,11 @@ export const asking = {
       statement: "A removal is never formatted, because a body going away is no body.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A body that lands is recorded as read by whoever landed it, so what the formatter changed is not charged to them.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },

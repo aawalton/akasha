@@ -298,3 +298,31 @@ test("a dry run gates the formatted body, so what a check judged is what would l
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
 })
+
+test("a body that lands is recorded as read, so writing over it again is not refused", () => {
+  const root = repoWith()
+  const first = write(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(first.code).toBe(0)
+  const again = put(root, "again.txt", "written twice\n")
+  const said = write(["--file-path", "akasha/two.ts", "--content-file", again], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+})
+
+test("a body the formatter changed is recorded as it landed, not as it was handed in", () => {
+  const root = repoWithTheFormatter()
+  const first = write(
+    ["--file-path", "akasha/two.ts", "--content-file", put(root, "body.txt", LOOSE)],
+    givenIn(root)
+  )
+  expect(first.report).toContain(REFORMATTED)
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", TIDY)],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+})
