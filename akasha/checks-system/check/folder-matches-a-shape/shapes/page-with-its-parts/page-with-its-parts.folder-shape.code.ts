@@ -1,3 +1,4 @@
+import { basename } from "node:path"
 import type { Held } from "../../../../../pages-system/page/page-file-name.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
@@ -15,7 +16,7 @@ export function pageWithItsParts(standing: Standing): readonly string[] {
       `${standing.strays.length} files are neither a page nor a file standing beside one: ${named(standing.folder, standing.strays)}`
     )
   }
-  const head = standing.folder.slice(standing.folder.lastIndexOf("/") + 1)
+  const head = basename(standing.folder)
   const headline = standing.pages.filter((one) => one.slug === head)
   if (headline.length === 0) {
     said.push(`no page here is named \`${head}\`, for the folder holding it`)

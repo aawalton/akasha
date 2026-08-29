@@ -1,3 +1,4 @@
+import { basename } from "node:path"
 const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const TS = ".ts"
@@ -19,7 +20,7 @@ export type Held = {
 }
 
 export function namedIn(path: string): Named | null {
-  const said = NAMED.exec(path.slice(path.lastIndexOf("/") + 1))
+  const said = NAMED.exec(basename(path))
   if (said === null) return null
   const stem = said[1]
   const tail = said[2]

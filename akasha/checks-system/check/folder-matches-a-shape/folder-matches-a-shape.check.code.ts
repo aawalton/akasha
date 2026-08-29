@@ -1,5 +1,5 @@
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts"
 import {
   filePropertiesAt,
@@ -34,7 +34,7 @@ export type Shape = {
 }
 
 function slugOf(path: string): string {
-  const name = path.slice(path.lastIndexOf("/") + 1)
+  const name = basename(path)
   return name.slice(0, name.indexOf("."))
 }
 

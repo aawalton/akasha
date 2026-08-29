@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { everyOfType, everyPath, indexIn } from "../pages-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
 import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
@@ -95,7 +95,7 @@ function runningIn(at: string, slug: string): Running | null {
 }
 
 function slugOf(path: string): string {
-  const name = path.slice(path.lastIndexOf("/") + 1)
+  const name = basename(path)
   return name.slice(0, name.indexOf("."))
 }
 

@@ -1,4 +1,4 @@
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { specifiersIn } from "../../../code-system/code-specifier.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking.module.code.ts"
@@ -15,7 +15,7 @@ const RELATIVE = /^\.\.?\//
 export function landingOf(at: string, specifier: string): string | null {
   if (specifier.startsWith("/")) return specifier
   if (!RELATIVE.test(specifier)) return null
-  return join(at.slice(0, at.lastIndexOf("/")), specifier)
+  return join(dirname(at), specifier)
 }
 
 function inside(landed: string): boolean {
