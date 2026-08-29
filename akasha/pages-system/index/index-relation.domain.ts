@@ -27,5 +27,9 @@ export const indexRelation = {
       statement:
         "A relation free to name more than one page type carries the page type in its value.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A relation nested in a record files an edge from its page, not from its entry.",
+    },
   ],
 } as const satisfies Domain
