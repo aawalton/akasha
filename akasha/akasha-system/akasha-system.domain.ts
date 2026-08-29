@@ -19,13 +19,17 @@ export const akashaSystem = {
     "domain/command-system",
     "domain/hook-system",
     "domain/editor-extension",
-    "domain/testing-system",
     "domain/akasha-migration",
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The akasha system is the `akasha` subfolder in the `akasha` repo.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The akasha folder holds some four hundred of this repository's near ninety thousand files, and the rest have yet to move in.",
     },
     {
       invariantKind: "departure",

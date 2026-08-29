@@ -34,5 +34,17 @@ export const akashaMigration = {
         "Keep it whole only where half would read wrong.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Measure The Whole Repo",
+      act: "Measure a rule's reach across the whole repository, never across the akasha folder alone.",
+      warrant:
+        "One file in two hundred has moved in, so what akasha lacks is unmigrated rather than untrue.",
+      aids: [
+        "Absence inside akasha is not absence in the repository.",
+        "A check with nothing to judge today may guard what has not arrived.",
+        "Count the old system before ruling that a rule of it no longer applies.",
+      ],
+    },
   ],
 } as const satisfies Domain
