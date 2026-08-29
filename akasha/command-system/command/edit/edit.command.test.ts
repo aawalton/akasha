@@ -2,7 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
+import {
+  ADMITS_CODE,
+  MINTED,
+  minting,
+  REFUSES_CODE,
+} from "../../../testing-system/minting.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit, surface } from "./edit.command.code.ts"

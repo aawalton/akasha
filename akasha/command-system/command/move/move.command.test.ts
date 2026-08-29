@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { refusing } from "../../minting.module.code.ts"
+import { refusing } from "../../../testing-system/minting.module.code.ts"
 import { move, PATHS_AT, pairsIn, repointed, surface, underAkasha } from "./move.command.code.ts"
 import {
   AAAA,

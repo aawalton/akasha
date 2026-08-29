@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync, spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { minting, REFUSES_CODE } from "../testing-system/minting.module.code.ts"
 import {
   AUTHOR,
   answering,
@@ -13,7 +14,6 @@ import {
   saidOf,
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
-import { minting, REFUSES_CODE } from "./minting.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
