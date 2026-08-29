@@ -2,7 +2,14 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { importersOf, indexIn, schemaOf, standingById, standingByPath } from "./index-reading.module.code.ts"
+import {
+  everyPath,
+  importersOf,
+  indexIn,
+  schemaOf,
+  standingById,
+  standingByPath,
+} from "./index-reading.module.code.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -52,6 +59,27 @@ test("a path two pages fall on is answered with both of them", () => {
   ])
 
   expect(standingByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("every path the index files is answered, however deep the folders it files them under", () => {
+  const root = rootAt()
+  filed(root, "identity/page/path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "identity/page/path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
+  filed(root, "identity/page/path/akasha/held/b.module.ts.jsonl", [line("akasha/held/b.module.ts", B)])
+
+  expect(everyPath(root)).toEqual([
+    "akasha/a.module.code.ts",
+    "akasha/a.module.ts",
+    "akasha/held/b.module.ts",
+  ])
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a path directory that is not there is answered with nothing, the caller saying what that means", () => {
+  const root = rootAt()
+
+  expect(everyPath(root)).toEqual([])
   rmSync(root, { recursive: true, force: true })
 })
 

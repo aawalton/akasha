@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { everyOfType, everyPage, indexIn } from "../data-system/index/index-reading.module.code.ts"
+import { everyOfType, everyPath, indexIn } from "../data-system/index/index-reading.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type Body = {
@@ -29,11 +29,11 @@ const SLUG = "slug"
 
 const PAGE = "page"
 
-const ID = "id"
+const PATH = "path"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
-const PAGES_AT = ".git/data/index/identity/page/id"
+const PATHS_AT = ".git/data/index/identity/page/path"
 
 const reach_ = createRequire(import.meta.url)
 
@@ -53,17 +53,6 @@ export function checkPagesIn(root: string): readonly string[] {
   }
   return [...new Set(everyOfType(root, CHECK).map((one) => one.path))].sort()
 }
-
-export function pagesIn(root: string): readonly string[] {
-  if (!existsSync(join(indexIn(root), IDENTITY, PAGE, ID))) {
-    throw new Error(
-      `\`${PAGES_AT}\` is not there, so which pages stand could not be answered — an index that is missing is not an index naming no page`
-    )
-  }
-  return [...new Set(everyPage(root).map((one) => one.path))].sort()
-}
-
-export const HELD_IN_A_FILE = ["code", "test"]
 
 function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   const said = value["runsOn"]
@@ -158,18 +147,12 @@ function threw(one: Gathered, thrown: unknown): Judged {
 }
 
 export function everyFileIn(root: string): readonly string[] {
-  const found: string[] = []
-  for (const path of pagesIn(root)) {
-    found.push(path)
-    const stated = statedIn(join(root, path), slugOf(path))
-    if (stated === null) continue
-    const stem = path.slice(0, -".ts".length)
-    for (const held of HELD_IN_A_FILE) {
-      const said = stated[held]
-      if (typeof said === "string") found.push(`${stem}.${held}.${said}`)
-    }
+  if (!existsSync(join(indexIn(root), IDENTITY, PAGE, PATH))) {
+    throw new Error(
+      `\`${PATHS_AT}\` is not there, so which files stand could not be answered — an index that is missing is not an index naming no file`
+    )
   }
-  return [...new Set(found)].sort()
+  return [...new Set(everyPath(root))].sort()
 }
 
 export function everythingIn(root: string): Leaving {

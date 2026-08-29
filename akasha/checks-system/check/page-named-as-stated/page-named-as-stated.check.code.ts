@@ -1,9 +1,15 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import ts from "typescript"
+import { filePropertiesAt } from "../../../data-system/index/index-entries.module.code.ts"
+import { indexIn } from "../../../data-system/index/index-reading.module.code.ts"
 import type { Body } from "../../checking.module.code.ts"
-import { HELD_IN_A_FILE, bodyOf, overEachFile } from "../../checking.module.code.ts"
+import { bodyOf, overEachFile } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 
 const NAMED =/^(.+)\.([a-z0-9-]+)\.ts$/
+
+const SCHEMA_AT = ".git/data/index/schema/page-property-type/slug"
 
 const SLUG = "slug"
 
@@ -55,14 +61,14 @@ export function pageIn(path: string, text: string): Stated | null {
   return null
 }
 
-export function reasonsIn(given: Body): readonly string[] {
+export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
   const name = given.path.slice(given.path.lastIndexOf("/") + 1)
   const said = NAMED.exec(name)
   if (said === null) return []
   const stem = said[1]
   const suffix = said[2]
   if (stem === undefined || suffix === undefined) return []
-  if (HELD_IN_A_FILE.includes(suffix)) return []
+  if (heldInAFile.has(suffix)) return []
   const text = bodyOf(given)
   if (text === null) return []
   const stated = pageIn(given.path, text)
@@ -83,6 +89,17 @@ export function reasonsIn(given: Body): readonly string[] {
   return found
 }
 
+export function heldInAFileAt(root: string): ReadonlySet<string> {
+  const index = indexIn(root)
+  if (!existsSync(join(index, "schema", "page-property-type", "slug"))) {
+    throw new Error(
+      `\`${SCHEMA_AT}\` is not there, so which properties are held in a file could not be answered — an index that is missing is not an index naming no such property`
+    )
+  }
+  return filePropertiesAt(index)
+}
+
 export function pageNamedAsStated(leaving: Leaving): readonly Judged[] {
-  return overEachFile(leaving, reasonsIn)
+  const heldInAFile = heldInAFileAt(leaving.root)
+  return overEachFile(leaving, (given) => reasonsIn(given, heldInAFile))
 }

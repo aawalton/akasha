@@ -136,3 +136,19 @@ export function everyPage(root: string): readonly Standing[] {
   }
   return [...found].sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
 }
+
+function underneath(at: string, said: string, found: string[]): void {
+  for (const one of readdirSync(at, { withFileTypes: true })) {
+    const named = `${said}${one.name}`
+    if (one.isDirectory()) underneath(join(at, one.name), `${named}/`, found)
+    else if (one.name.endsWith(ENDING)) found.push(named.slice(0, -ENDING.length))
+  }
+}
+
+export function everyPath(root: string): readonly string[] {
+  const dir = join(indexIn(root), IDENTITY, "page", "path")
+  if (!existsSync(dir)) return []
+  const found: string[] = []
+  underneath(dir, "", found)
+  return found.sort()
+}

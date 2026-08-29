@@ -10,7 +10,8 @@ export const indexReading = {
   design: [
     {
       invariantKind: "departure",
-      statement: "An answer is one file read or one directory listed, and never a walk.",
+      statement:
+        "An answer about one page is one file read or one directory listed, and never a walk.",
     },
     {
       invariantKind: "departure",
@@ -20,6 +21,11 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement: "A page the index names is answered as a path, never as the entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every path the index files is answered by walking the one tree those paths are filed in, the answer being the corpus itself, and nothing else here walks.",
     },
   ],
 } as const satisfies Module

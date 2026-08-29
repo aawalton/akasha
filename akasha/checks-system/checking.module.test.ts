@@ -1,6 +1,6 @@
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { expect, test } from "bun:test"
 import {
   checkPagesIn,
@@ -17,6 +17,14 @@ const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const PAGES_AT = ".git/data/index/identity/page/id"
 
+const PATHS_AT = ".git/data/index/identity/page/path"
+
+function filed(root: string, at: string, line: string): void {
+  const to = join(root, PATHS_AT, `${at}.jsonl`)
+  mkdirSync(dirname(to), { recursive: true })
+  writeFileSync(to, line)
+}
+
 function rootWith(
   named: readonly {
     readonly slug: string
@@ -27,6 +35,7 @@ function rootWith(
   const root = mkdtempSync(join(tmpdir(), "akasha-checking-"))
   mkdirSync(join(root, CHECKS_AT), { recursive: true })
   mkdirSync(join(root, PAGES_AT), { recursive: true })
+  mkdirSync(join(root, PATHS_AT), { recursive: true })
   let minted = 0
   for (const one of named) {
     const at = `akasha/checks-system/check/${one.slug}/${one.slug}.check.ts`
@@ -46,6 +55,8 @@ function rootWith(
     const line = `${JSON.stringify({ path: at, id })}\n`
     writeFileSync(join(root, CHECKS_AT, `${one.slug}.jsonl`), line)
     writeFileSync(join(root, PAGES_AT, `${id}.jsonl`), line)
+    filed(root, at, line)
+    filed(root, `${at.slice(0, -".ts".length)}.code.ts`, line)
   }
   return root
 }
@@ -144,6 +155,24 @@ test("audit takes a page and the files its own properties imply", () => {
   rmSync(root, { recursive: true })
 })
 
+test("audit takes the paths the index files, and works none of them out from a property name", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
+  const id = "01a04bc4-0000-7000-8000-000000000001"
+  filed(root, `${at.slice(0, -".ts".length)}.note.md`, `${JSON.stringify({ path: at, id })}\n`)
+  const every = everyFileIn(root)
+  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.note.md")
+  rmSync(root, { recursive: true })
+})
+
+test("audit reads no page module to work out what stands, so a page it cannot load is still taken", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
+  writeFileSync(join(root, at), "this is not typescript at all (((\n")
+  expect(everyFileIn(root)).toContain(`${at.slice(0, -".ts".length)}.code.ts`)
+  rmSync(root, { recursive: true })
+})
+
 test("audit reads the body of every file it takes", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const leaving = everythingIn(root)
@@ -174,11 +203,11 @@ test("an index holding no check directory cannot answer, and is not read as nami
   rmSync(root, { recursive: true })
 })
 
-test("an index holding no page directory cannot answer, so the audit refuses rather than taking nothing", () => {
+test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  rmSync(join(root, PAGES_AT), { recursive: true })
+  rmSync(join(root, PATHS_AT), { recursive: true })
   expect(() => everyFileIn(root)).toThrow("could not be answered")
-  expect(() => everythingIn(root)).toThrow(PAGES_AT)
+  expect(() => everythingIn(root)).toThrow(PATHS_AT)
   rmSync(root, { recursive: true })
 })
 

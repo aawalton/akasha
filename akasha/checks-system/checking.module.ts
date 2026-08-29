@@ -44,7 +44,8 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "Audit is the same run over every page the index knows.",
+      statement:
+        "Audit is the same run over every path the index files, page and property file alike, taken from the index rather than worked out here from the property names a file is held under.",
     },
   ],
 } as const satisfies Module

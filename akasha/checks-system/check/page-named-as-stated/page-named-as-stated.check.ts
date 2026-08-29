@@ -30,11 +30,17 @@ export const pageNamedAsStated = {
     {
       invariantKind: "absence",
       statement:
-        "A page property's file, named `.code.ts` or `.test.ts`, states no page type, so it is not judged.",
+        "A page property's file, named for a property the index holds in a file, states no page type, so it is not judged.",
     },
     {
       invariantKind: "departure",
-      statement: "The name is judged against what the page states, never against the index.",
+      statement:
+        "The name is judged against what the page states, never against what the index records of that page. The index is asked one thing only, which properties are held in a file, and asked once for the whole run rather than once a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An index that cannot say which properties are held in a file refuses the run, rather than reading as an index naming none and judging every property file a page.",
     },
   ],
 } as const satisfies Check
