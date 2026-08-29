@@ -2,6 +2,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
   pageTypesIn,
+  textAt,
   valueAt,
   valueIn,
   type Value,
@@ -49,11 +50,6 @@ export type Reading = (pageTypeSlug: string, slug: string) => Value | null
 
 export type Formatting = (nameFormatSlug: string) => Matching
 
-function wordAt(held: Record<string, unknown>, key: string): string | null {
-  const said = held[key]
-  return typeof said === "string" ? said : null
-}
-
 function countAt(held: Record<string, unknown>, key: string): number | null {
   const said = held[key]
   return typeof said === "number" ? said : null
@@ -97,11 +93,11 @@ export function declaredFor(
     const value = read(PAGE_TYPE, here)
     if (value === null) break
     for (const one of entriesAt(value, DECLARED)) {
-      const slug = wordAt(one, SAID)
+      const slug = textAt(one, SAID)
       if (slug === null || found.has(slug)) continue
       found.set(slug, declaredAt(one))
     }
-    const above = wordAt(value, "extendsSlug")
+    const above = textAt(value, "extendsSlug")
     here = above === null ? null : slugOf(above)
   }
   return found
@@ -219,10 +215,10 @@ export function reasonsIn(
     }
     const page = property(slug)
     if (page === null) continue
-    const shape = wordAt(page, "pageTypeSlug")
+    const shape = textAt(page, "pageTypeSlug")
     if (shape === TEXT) {
       const max = countAt(page, "max")
-      const format = wordAt(page, FORMAT)
+      const format = textAt(page, FORMAT)
       for (const each of listed ? held : [held]) {
         const why = overMax(each, max, slug, "")
         if (why !== null) said.push(why)
@@ -234,7 +230,7 @@ export function reasonsIn(
     if (shape !== RECORD) continue
     const fields = new Map<string, Declared>()
     for (const each of entriesAt(page, DECLARED)) {
-      const field = wordAt(each, SAID)
+      const field = textAt(each, SAID)
       if (field !== null) fields.set(field, declaredAt(each))
     }
     for (const entry of listed ? entriesAt(value, key) : [held]) {
@@ -248,7 +244,7 @@ export function reasonsIn(
         }
         const held_ = property(field)
         const max = held_ === null ? null : countAt(held_, "max")
-        const format = held_ === null ? null : wordAt(held_, FORMAT)
+        const format = held_ === null ? null : textAt(held_, FORMAT)
         const many = Array.isArray(value_)
         if (shaped.many && many && shaped.max !== null && value_.length > shaped.max) {
           said.push(`holds ${value_.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
@@ -310,7 +306,7 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     if (text === null) continue
     const value = valueIn(text)
     if (value === null) continue
-    const pageTypeSlug = wordAt(value, "pageTypeSlug")
+    const pageTypeSlug = textAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) continue
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
