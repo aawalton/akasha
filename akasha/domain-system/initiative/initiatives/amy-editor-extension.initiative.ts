@@ -18,11 +18,15 @@ export const amyEditorExtension = {
     },
     {
       invariantKind: "gap",
-      statement: "An initiative's persona is drawn beside it.",
+      statement: "A seat's initiative is one the akasha system holds.",
     },
     {
       invariantKind: "gap",
-      statement: "A seat's initiative is one the akasha system holds.",
+      statement: "Every akasha page stands under a parent, whether or not it stands under a domain.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page arriving under no parent is refused before it lands, not at audit.",
     },
   ],
 } as const satisfies Initiative
