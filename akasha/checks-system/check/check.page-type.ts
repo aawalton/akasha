@@ -65,13 +65,16 @@ export const check = {
         "Patch on means a file still carrying a violation is refused the next time it is touched, which is the ratchet working rather than the check misfiring.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
+      statement: "A check reads any path by name, and asks the index for paths it cannot name.",
+    },
+    {
+      invariantKind: "stopgap",
       statement: "A check looks for no files.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A check that must know more than the change it was handed asks the index, never the tree.",
+      statement: "A check reaching for the tree does not land.",
     },
     {
       invariantKind: "gap",
