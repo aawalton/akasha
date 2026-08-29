@@ -15,12 +15,29 @@ export const typecheck = {
     },
     {
       invariantKind: "constraint",
-      statement: "A type holds or fails across files, so the whole akasha folder is compiled.",
+      statement: "A type holds or fails across files, so a file cannot be judged by itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files judged are the change and every file that imports it, however far.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which file imports which is read from the index, never from the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that is not there is refused rather than read as one naming no importer.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A file the change does not reach is not judged, and its standing errors are the audit's.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The folder is compiled once for a set of changes, however many files that set holds.",
+        "One program is built for a set of changes, however many files that set holds.",
     },
     {
       invariantKind: "departure",
@@ -37,9 +54,12 @@ export const typecheck = {
       statement: "A diagnostic naming no file is thrown, never reported.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "Every TypeScript file under the akasha folder is read from what the check is handed, so the folder compiles as the change would leave it.",
+      invariantKind: "departure",
+      statement: "A body is read from what the check is handed, never from the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is judged is judged as the change would leave it.",
     },
   ],
   intent: [
