@@ -3,6 +3,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { everyOfType, everyPath, indexIn } from "../data-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
+import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
 import type { Judged, Judging, Leaving } from "./judging.module.code.ts"
 
 export type Body = {
@@ -32,15 +33,15 @@ const PAGE = "page"
 
 const PATH = "path"
 
+const CODE = "code"
+
+const TS = "ts"
+
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
 const PATHS_AT = ".git/data/index/identity/page/path"
 
 const reach_ = createRequire(import.meta.url)
-
-export function codeBeside(path: string): string {
-  return `${path.slice(0, -".ts".length)}.code.ts`
-}
 
 export function checkPagesIn(root: string): readonly string[] {
   if (!existsSync(join(indexIn(root), IDENTITY, CHECK, SLUG))) {
@@ -113,12 +114,13 @@ export function checksIn(root: string): readonly Gathered[] {
     if (runsOn === null) {
       throw new Error(`${path} is a check page, and states no phase a runner can honour`)
     }
-    const beside = codeBeside(full)
-    const run = runningIn(beside, slug)
+    const beside = besideAt(path, CODE, TS)
+    if (beside === null) {
+      throw new Error(`${path} is a check page, and no code file can stand beside a name like it`)
+    }
+    const run = runningIn(join(root, beside), slug)
     if (run === null) {
-      throw new Error(
-        `${path} is a check page, and ${codeBeside(path)} answers to nothing that can be run`
-      )
+      throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
     found.push({ slug, page: path, runsOn, run })
   }

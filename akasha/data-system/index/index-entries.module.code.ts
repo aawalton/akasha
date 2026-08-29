@@ -4,6 +4,7 @@ import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
+import { besideAt } from "../../pages-system/page/page-file-name.module.code.ts"
 import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
@@ -104,13 +105,13 @@ export function pathsOf(
   fileProperties: ReadonlySet<string>
 ): readonly string[] {
   const own = under(repo, path)
-  if (!own.endsWith(TS)) return [own]
-  const stem = own.slice(0, -TS.length)
   const found = [own]
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
     const propertySlug = slugFor(key)
-    if (fileProperties.has(propertySlug)) found.push(`${stem}.${propertySlug}.${held}`)
+    if (!fileProperties.has(propertySlug)) continue
+    const beside = besideAt(own, propertySlug, held)
+    if (beside !== null) found.push(beside)
   }
   return found
 }

@@ -3,6 +3,7 @@ import { createRequire } from "node:module"
 import { join, relative, resolve } from "node:path"
 import { indexIn, slugsOfType, standingAt } from "../data-system/index/index-reading.module.code.ts"
 import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
+import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
 
 export type Outside = {
   readonly root: string
@@ -23,15 +24,15 @@ export type Answering = (argv: readonly string[], given: Given) => Answer
 
 const COMMAND = "command"
 
+const CODE = "code"
+
+const TS = "ts"
+
 export const ROOTED = "index"
 
 export const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
 const reach_ = createRequire(import.meta.url)
-
-export function codeBeside(path: string): string {
-  return `${path.slice(0, -".ts".length)}.code.ts`
-}
 
 export function commandsIn(root: string): readonly string[] {
   return slugsOfType(root, COMMAND)
@@ -82,16 +83,22 @@ function answeredBy(
   argv: readonly string[],
   outside: Outside
 ): Answer {
-  const reached = reachedIn(codeBeside(join(root, path)))
+  const beside = besideAt(path, CODE, TS)
+  if (beside === null) {
+    return refusing(
+      `\`${named}\` is a command page, and no code file can stand beside a name like it`
+    )
+  }
+  const reached = reachedIn(join(root, beside))
   if ("why" in reached) {
     return refusing(
-      `\`${named}\` is a command page, and ${codeBeside(path)} could not be loaded — ${reached.why}`
+      `\`${named}\` is a command page, and ${beside} could not be loaded — ${reached.why}`
     )
   }
   const answering = answeringOf(reached.mod, named)
   if (answering === null) {
     return refusing(
-      `\`${named}\` is a command page, and ${codeBeside(path)} answers to nothing that can be called`
+      `\`${named}\` is a command page, and ${beside} answers to nothing that can be called`
     )
   }
   return answering(argv, {

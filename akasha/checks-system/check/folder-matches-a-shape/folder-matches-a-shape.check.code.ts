@@ -12,22 +12,23 @@ import {
   importersOf,
   indexIn,
 } from "../../../data-system/index/index-reading.module.code.ts"
-import { heldIn } from "../../../pages-system/page/page-file-name.module.code.ts"
-import { bodyOf, codeBeside } from "../../checking.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
+import { besideAt, heldIn } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import type { Judging, Standing } from "./shapes/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
+
+const CODE = "code"
+
+const TS = "ts"
 
 const reach_ = createRequire(import.meta.url)
 
 export type Shape = {
   readonly slug: string
   readonly judge: Judging
-}
-
-function camel(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
 }
 
 function slugOf(path: string): string {
@@ -76,7 +77,12 @@ export function shapesIn(root: string): readonly Shape[] {
   const found: Shape[] = []
   for (const one of everyOfType(root, SHAPE)) {
     const slug = slugOf(one.path)
-    const beside = codeBeside(one.path)
+    const beside = besideAt(one.path, CODE, TS)
+    if (beside === null) {
+      throw new Error(
+        `${one.path} is a folder shape, and no code file can stand beside a name like it`
+      )
+    }
     let mod: Record<string, unknown>
     try {
       mod = reach_(join(root, beside)) as Record<string, unknown>
@@ -85,9 +91,11 @@ export function shapesIn(root: string): readonly Shape[] {
         `${one.path} is a folder shape, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
-    const named = mod[camel(slug)]
+    const named = mod[exportedAs(slug)]
     if (typeof named !== "function") {
-      throw new Error(`${one.path} is a folder shape, and ${beside} answers to nothing that can judge`)
+      throw new Error(
+        `${one.path} is a folder shape, and ${beside} answers to nothing that can judge`
+      )
     }
     found.push({ slug, judge: named as Judging })
   }
