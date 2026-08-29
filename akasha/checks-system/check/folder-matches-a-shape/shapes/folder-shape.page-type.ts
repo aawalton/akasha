@@ -1,6 +1,6 @@
 import type { Module } from "../../../../code-system/module/module.page-type.ts"
 import type { Test } from "../../../../code-system/module/properties/test.file-property.ts"
-import type { Held } from "../../../../pages-system/page/page-file-name.module.code.ts"
+import type { Held } from "../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { PageType } from "../../../../pages-system/page-type/page-type.page-type.ts"
 
 export type FolderShape = Module & {

@@ -1,6 +1,6 @@
 import { speltIn } from "../../../code-system/code-rule.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading.module.code.ts"
-import { besideAt } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { besideAt } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const pageAddress = {
   id: "01a04b14-4355-7352-9c98-ad67e309f5f6",

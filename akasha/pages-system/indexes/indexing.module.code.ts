@@ -9,7 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { namedIn, pageNamed } from "../page/page-file-name.module.code.ts"
+import { namedIn, pageNamed } from "../page/page-file-name/page-file-name.module.code.ts"
 import { indexIdentity } from "./index/index-identity/index-identity.index.ts"
 import { indexImport } from "./index/index-import/index-import.index.ts"
 import { indexPath } from "./index/index-path/index-path.index.ts"

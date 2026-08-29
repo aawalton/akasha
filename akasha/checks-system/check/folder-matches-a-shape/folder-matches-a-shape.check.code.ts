@@ -13,8 +13,12 @@ import {
   indexIn,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
-import { besideAt, heldIn, namedIn } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import {
+  besideAt,
+  heldIn,
+  namedIn,
+} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./shapes/folder-shape.page-type.ts"

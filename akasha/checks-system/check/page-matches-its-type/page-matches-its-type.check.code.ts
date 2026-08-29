@@ -15,9 +15,12 @@ import {
   standingAt,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
-import { addressIn } from "../../../pages-system/page/page-address.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
-import { besideAt, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { addressIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import {
+  besideAt,
+  pageNamed,
+} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"

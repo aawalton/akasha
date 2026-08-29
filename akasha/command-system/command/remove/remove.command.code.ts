@@ -1,7 +1,7 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { besideAll } from "../../../pages-system/page/page-beside.module.code.ts"
+import { besideAll } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import type { Asked } from "../../asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"

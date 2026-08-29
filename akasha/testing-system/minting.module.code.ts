@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../checks-system/checking/checking.module.code.ts"
-import { exportedAs } from "../pages-system/page/page-export-name.module.code.ts"
+import { exportedAs } from "../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(leaving) {
   return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))

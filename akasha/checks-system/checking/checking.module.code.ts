@@ -8,8 +8,11 @@ import {
   everyPath,
   indexAt,
 } from "../../pages-system/indexes/index-reading.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name.module.code.ts"
-import { besideAt, namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
+import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import {
+  besideAt,
+  namedIn,
+} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Judging, Leaving } from "../judging/judging.module.code.ts"
 
 export type Body = {

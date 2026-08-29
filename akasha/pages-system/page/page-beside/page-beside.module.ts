@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 
 export const pageBeside = {
   id: "01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92",

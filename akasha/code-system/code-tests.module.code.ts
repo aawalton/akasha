@@ -10,7 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { besideAt } from "../pages-system/page/page-file-name.module.code.ts"
+import { besideAt } from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
 const SUFFIX = ".test.ts"
 

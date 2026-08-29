@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, readingIn } from "../command-system/reading.module.code.ts"
 import { slugsOfType, standingAt } from "../pages-system/indexes/index-reading.module.code.ts"
-import { namedIn } from "../pages-system/page/page-file-name.module.code.ts"
+import { namedIn } from "../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { standingAbove } from "../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"

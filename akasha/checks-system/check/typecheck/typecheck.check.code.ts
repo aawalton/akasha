@@ -9,8 +9,8 @@ import {
   indexAt,
   indexIn,
 } from "../../../pages-system/indexes/index-reading.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
