@@ -30,7 +30,7 @@ export const invariantKind = {
     {
       invariantKind: "departure",
       statement:
-        "A constraint is a limit from outside the domain; knowing it stops a reader asking for the impossible.",
+        "A constraint is a limit nobody here chose; knowing it stops a reader asking for the impossible.",
     },
     {
       invariantKind: "departure",
