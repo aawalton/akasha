@@ -20,4 +20,4 @@ The module declaring a witness may assert to it, that being the only way one is 
 
 A witness type is found rather than listed, so a new one is covered as soon as it is written.
 
-A repository other than akasha is outside this check.
+Only a file under the `akasha` folder is judged.

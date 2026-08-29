@@ -22,4 +22,4 @@ A slug naming nothing refuses the whole corpus rather than one relation, because
 
 The resolver here is the one the write path uses; there is no second index.
 
-A repository other than akasha is outside this check.
+Only a file under the `akasha` folder is judged.
