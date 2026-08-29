@@ -46,6 +46,14 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A page carrying files beside it stands alone in a folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page that is one file stands with others of its type.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A shape is handed the folder it judges and looks for nothing, so which folders are judged is the check's decision and never a shape's.",
     },
