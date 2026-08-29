@@ -32,6 +32,15 @@ export const landing = {
       invariantKind: "departure",
       statement: "A body reaches disk only after every check has passed.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run may gate and report and leave nothing at all, not a file and not a loose object.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Gating without writing and writing without gating are refused together.",
+    },
   ],
   intent: [
     {

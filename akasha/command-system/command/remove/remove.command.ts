@@ -39,22 +39,12 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--dry-run` names everything that would go, what was named and what was not, writing nothing at all, not a file and not a loose object.",
+      statement: "`--dry-run` names everything that would go, what was named and what was not.",
     },
     {
       invariantKind: "departure",
       statement:
         "A path is named behind `--file-path`, as `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "`--break-the-glass <reason>` runs no check and stamps the reason into the commit as a trailer.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`--dry-run` and `--break-the-glass` are refused together.",
     },
   ],
   intent: [

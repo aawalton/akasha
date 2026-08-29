@@ -23,20 +23,6 @@ export const write = {
       statement:
         "The bodies written and the paths taken away by one call are one gated commit, or none.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "`--dry-run` gates and reports and writes nothing at all, not a file and not a loose object.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Breaking the glass runs no check, and says in the commit itself that none ran and why.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`--dry-run` and `--break-the-glass` are refused together.",
-    },
   ],
   intent: [
     {

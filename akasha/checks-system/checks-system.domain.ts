@@ -19,6 +19,10 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A change may land with no check run, its commit saying that none ran and why.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Audit judges every page; the other phases judge only what changed.",
     },
   ],
