@@ -1,6 +1,8 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
+import { id as idPage } from "../page/properties/id.text-property.ts"
+import { slug as slugPage } from "../page/properties/slug.text-property.ts"
 import { indexingAt } from "./indexing.module.code.ts"
 
 export type Held = Record<string, unknown>
@@ -105,12 +107,16 @@ export function aProperty(id: string, slug: string, shape: string, rest: Held = 
   return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, ...rest }]
 }
 
+export function thePage(value: Held): Named {
+  return [`${String(value.slug)}.${String(value.pageTypeSlug)}.ts`, value]
+}
+
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
 
 export const IDENTIFIERS: readonly Named[] = [
   aType("9", "text-property", "page-property"),
-  aProperty("12", "id", "text-property", { unique: "always" }),
-  aProperty("13", "slug", "text-property", { unique: "page-type" }),
+  thePage(idPage),
+  thePage(slugPage),
 ]
 
 export const VOCABULARY: readonly Named[] = [

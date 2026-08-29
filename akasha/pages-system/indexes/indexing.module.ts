@@ -43,6 +43,11 @@ export const indexing = {
         "The repository root is given to the index rather than derived from where the index sits.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The fixture carries the `id` and `slug` property pages themselves, so a test derives from what the pages declare.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported, never answered as empty.",
     },
