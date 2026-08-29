@@ -1,16 +1,19 @@
 import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../checks-system/judging/judging.module.code.ts"
-import type { Value } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { bodyOf, thePage } from "../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
-import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"
-import { slug as slugPage } from "../pages-system/page/properties/slug.text-property.ts"
-import { textProperty } from "../pages-system/text-property/text-property.page-type.ts"
-import { bytesOf } from "../testing-system/bodying/bodying.module.code.ts"
-import { gitIn } from "../testing-system/gitting/gitting.module.code.ts"
+import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import type { Value } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  bodyOf,
+  thePage,
+} from "../../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
+import { id as idPage } from "../../pages-system/page/properties/id.text-property.ts"
+import { slug as slugPage } from "../../pages-system/page/properties/slug.text-property.ts"
+import { textProperty } from "../../pages-system/text-property/text-property.page-type.ts"
+import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
+import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Change } from "./landing.module.code.ts"
-import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 

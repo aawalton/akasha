@@ -6,7 +6,7 @@ import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
-import type { Change } from "../../landing.module.code.ts"
+import type { Change } from "../../landing/landing.module.code.ts"
 import {
   COMMITTING,
   FILE_PATH,

@@ -9,8 +9,8 @@ import {
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
-import { holding } from "../../holding.module.code.ts"
-import { oneLine } from "../../landing.module.code.ts"
+import { holding } from "../../holding/holding.module.code.ts"
+import { oneLine } from "../../landing/landing.module.code.ts"
 
 export const REFRESH = "refresh"
 

@@ -11,7 +11,7 @@ import {
   troubling,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
-import type { Change } from "../../landing.module.code.ts"
+import type { Change } from "../../landing/landing.module.code.ts"
 import {
   COMMITTING,
   defaultMessage,

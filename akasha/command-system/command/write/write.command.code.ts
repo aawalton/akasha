@@ -12,8 +12,8 @@ import {
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface, Taking } from "../../calling/calling.module.code.ts"
-import type { Change } from "../../landing.module.code.ts"
-import { baseOf, bodyAt } from "../../landing.module.code.ts"
+import type { Change } from "../../landing/landing.module.code.ts"
+import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 

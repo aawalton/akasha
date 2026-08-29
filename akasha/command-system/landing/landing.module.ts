@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const landing = {
   id: "01a04bdd-596d-7df0-b23c-e52139fd8bc2",

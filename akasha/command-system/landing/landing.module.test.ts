@@ -2,10 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { spawn, spawnSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../checks-system/judging/judging.module.code.ts"
-import { rebuiltFrom } from "../pages-system/indexes/indexing/indexing.module.code.ts"
-import { until } from "../testing-system/waiting/waiting.module.code.ts"
-import { everyFileUnder } from "../testing-system/walking/walking.module.code.ts"
+import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
+import { until } from "../../testing-system/waiting/waiting.module.code.ts"
+import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
 import {
   baseOf,
   bodyAt,

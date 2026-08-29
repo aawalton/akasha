@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const holding = {
   id: "01a04df0-eccd-725e-9745-6888f36628bf",

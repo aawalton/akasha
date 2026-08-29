@@ -1,21 +1,21 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Judging } from "../checks-system/judging/judging.module.code.ts"
-import { bytesOf as bytes } from "../testing-system/bodying/bodying.module.code.ts"
-import { gitIn as git } from "../testing-system/gitting/gitting.module.code.ts"
-import { until } from "../testing-system/waiting/waiting.module.code.ts"
+import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
+import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
+import { until } from "../../testing-system/waiting/waiting.module.code.ts"
+import { baseOf, landing } from "../landing/landing.module.code.ts"
+import { CARRIED } from "../landing/landing.module.test-fixtures.ts"
+import { rootOf } from "../rooting/rooting.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
-import { baseOf, landing } from "./landing.module.code.ts"
-import { CARRIED } from "./landing.module.test-fixtures.ts"
-import { rootOf } from "./rooting/rooting.module.code.ts"
-import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const HERE = rootOf(import.meta.path) ?? ""
 
-const HOLDING_AT = join(HERE, "akasha/command-system/holding.module.code.ts")
+const HOLDING_AT = join(HERE, "akasha/command-system/holding/holding.module.code.ts")
 
-const LANDING_AT = join(HERE, "akasha/command-system/landing.module.code.ts")
+const LANDING_AT = join(HERE, "akasha/command-system/landing/landing.module.code.ts")
 
 const scratch = scratchWorld()
 

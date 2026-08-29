@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
-import { baseOf } from "../../landing.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
