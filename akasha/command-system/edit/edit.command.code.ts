@@ -1,12 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type {
-  Change,
-  Held,
-  Indexing,
-  Judging,
-  Refusal,
-} from "../../write-system/landing.module.code.ts"
+import { indexingAt } from "../../data-system/index/indexing.module.code.ts"
+import type { Change, Held, Judging, Refusal } from "../../write-system/landing.module.code.ts"
 import { authoring, land, refused } from "../../write-system/landing.module.code.ts"
 import type { Given } from "../calling.module.code.ts"
 
@@ -31,10 +26,6 @@ function refusing(said: readonly string[]): Answer {
 
 function nothingJudged(): Judging {
   return { named: [], over: () => [] }
-}
-
-function nothingKept(): Indexing {
-  return { wrote: () => undefined, took: () => undefined, settle: () => undefined }
 }
 
 function decodes(bytes: Buffer): string | null {
@@ -168,7 +159,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
     corpus: given.corpus,
     record: given.record,
     writer: given.writer,
-    index: nothingKept(),
+    index: indexingAt(given.index),
     bodies: given.bodies,
     readAs: `${given.calledAs.replace(/ edit$/, "")} read`,
     judge: nothingJudged(),
@@ -239,6 +230,7 @@ export function edit(argv: readonly string[], given: Given): Answer {
   report.push(
     `${EDIT}${asked.edits.length} edit(s) over ${done.paths.length} file(s), landed together`
   )
+  for (const one of done.noted) report.push(`${EDIT}the index did not file: ${one}`)
   report.push(
     done.consulted.length === 0
       ? `${EDIT}no checks were consulted — nothing here judged this change beyond the witness`

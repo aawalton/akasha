@@ -9,6 +9,7 @@ export type Outside = {
   readonly seat: string | null
   readonly record: string
   readonly bodies: string
+  readonly index: string
   readonly discardedTo: string | null
   readonly calledAs: string
   readonly from: string
@@ -25,6 +26,7 @@ export type Given = {
   readonly corpus: Corpus
   readonly record: Record_
   readonly bodies: BodyStore
+  readonly index: string
   readonly writer: string | null
   readonly discardedTo: string | null
   readonly calledAs: string
@@ -107,6 +109,7 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     corpus,
     record: recordAt(outside.record),
     bodies: bodiesAt(outside.bodies),
+    index: outside.index,
     writer: outside.seat,
     discardedTo: outside.discardedTo,
     calledAs: `${outside.calledAs} ${named}`,

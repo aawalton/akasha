@@ -1,9 +1,9 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
+import { indexingAt } from "../../data-system/index/indexing.module.code.ts"
 import type {
   Change,
   Held,
-  Indexing,
   Judging,
   Landing,
   Refusal,
@@ -37,10 +37,6 @@ type Parsed = {
 
 function nothingJudged(): Judging {
   return { named: [], over: () => [] }
-}
-
-function nothingKept(): Indexing {
-  return { wrote: () => undefined, took: () => undefined, settle: () => undefined }
 }
 
 function refusing(said: readonly string[]): Answer {
@@ -130,7 +126,7 @@ export function write(argv: readonly string[], given: Given): Answer {
     corpus: given.corpus,
     record: given.record,
     writer: given.writer,
-    index: nothingKept(),
+    index: indexingAt(given.index),
     bodies: given.bodies,
     readAs: `${given.calledAs.replace(/ write$/, "")} read`,
     judge: nothingJudged(),
@@ -189,6 +185,7 @@ export function write(argv: readonly string[], given: Given): Answer {
     else report.push(`${WROTE}${named}  ${Buffer.byteLength(one.body)} bytes`)
   }
   report.push(`${WROTE}${done.paths.length} change(s) landed together`)
+  for (const one of done.noted) report.push(`${WROTE}the index did not file: ${one}`)
   report.push(
     done.consulted.length === 0
       ? `${WROTE}no checks were consulted — nothing here judged this change beyond the witness`

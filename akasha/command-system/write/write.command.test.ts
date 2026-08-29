@@ -48,6 +48,7 @@ function stage(writer: string | null = "athena"): Stage {
       corpus: corpusIn(root),
       record: recordAt(`${root}/record.json`),
       bodies: bodiesAt(`${root}/bodies`),
+      index: `${root}/index`,
       writer,
       discardedTo: null,
       calledAs: "ops akasha write",

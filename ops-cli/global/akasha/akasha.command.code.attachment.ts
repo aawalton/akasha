@@ -30,6 +30,7 @@ export function outsideNow(
   seat: string | null
   record: string
   bodies: string
+  index: string
   discardedTo: string | null
   calledAs: string
   from: string
@@ -39,6 +40,7 @@ export function outsideNow(
     seat,
     record: `${REPO}/.git/data/readings/${seat ?? "nobody"}.json`,
     bodies: `${REPO}/.git/data/bodies`,
+    index: `${REPO}/.git/data/index`,
     discardedTo: thrownAway,
     calledAs: "ops akasha",
     from: process.cwd(),

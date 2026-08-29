@@ -46,6 +46,7 @@ function stage() {
     took: (path, before) => void took.push({ path, before }),
     settle: () => {
       settles += 1
+      return []
     },
   }
   const held: Held = {
@@ -68,6 +69,16 @@ function readAlso(path: string, stood: Stage): void {
 function ready(stood: Stage, path: string): void {
   readAlso(path, stood)
   for (const owed of closureFor(path, stood.corpus)) readAlso(owed, stood)
+}
+
+function readied(stood: Stage): string {
+  const at = leaf(stood)
+  ready(stood, at)
+  return at
+}
+
+function leaf(stood: Stage): string {
+  return `${stood.root}/leaf.thing.ts`
 }
 
 function must(one: Landing | Refusal): Landing {
@@ -111,14 +122,14 @@ test("a body written over nothing is refused as a creation, not a write", () =>
 
 test("a body written over one already there is refused as a write, not a creation", () =>
   inTree((stood) => {
-    const what = creating(`${stood.root}/leaf.thing.ts`, "x", stood.held)
+    const what = creating(leaf(stood), "x", stood.held)
     expect(refused(what)).toBe(true)
     expect(said(what)).toContain("a body written over one already there is a write, not a creation")
   }))
 
 test("writing a file nothing says you read is refused, and the refusal names the read", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const what = authoring(at, "x", stood.held)
     expect(refused(what)).toBe(true)
     expect(said(what)).toContain("You have not read")
@@ -127,7 +138,7 @@ test("writing a file nothing says you read is refused, and the refusal names the
 
 test("writing a file that moved after you read it is refused", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     readAlso(at, stood)
     writeFileSync(at, `export const leaf = { "slug": "leaf", "definition": "moved" }\n`)
     const what = authoring(at, "x", stood.held)
@@ -137,7 +148,7 @@ test("writing a file that moved after you read it is refused", () =>
 
 test("writing a file whose required reading is short is refused, and each is named", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     readAlso(at, stood)
     const what = authoring(at, "x", stood.held)
     expect(refused(what)).toBe(true)
@@ -147,10 +158,9 @@ test("writing a file whose required reading is short is refused, and each is nam
     }
   }))
 
-test("a write with both obligations discharged is a landing carrying what it was built from", () =>
+test("a write with both obligations discharged carries what it was built from", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     const what = must(authoring(at, "the new body", stood.held))
     expect(what.kind).toBe("write")
     expect(what.path).toBe(at)
@@ -161,7 +171,7 @@ test("a write with both obligations discharged is a landing carrying what it was
 
 test("a creation carries no prior, because there was nothing before it", () =>
   inTree((stood) => {
-    ready(stood, `${stood.root}/leaf.thing.ts`)
+    ready(stood, leaf(stood))
     const what = must(creating(`${stood.root}/new.thing.ts`, "made", stood.held))
     expect(what.prior).toBe(null)
     expect(what.body).toBe("made")
@@ -172,17 +182,14 @@ test("carrying takes the body of the file it comes from, and refuses where there
     const gone = carrying(`${stood.root}/absent.thing.ts`, `${stood.root}/to.thing.ts`, stood.held)
     expect(refused(gone)).toBe(true)
     expect(said(gone)).toContain("nothing can be carried from it")
-    const what = must(
-      carrying(`${stood.root}/leaf.thing.ts`, `${stood.root}/to.thing.ts`, stood.held)
-    )
-    expect(what.body).toBe(readFileSync(`${stood.root}/leaf.thing.ts`, "utf8"))
+    const what = must(carrying(leaf(stood), `${stood.root}/to.thing.ts`, stood.held))
+    expect(what.body).toBe(readFileSync(leaf(stood), "utf8"))
     expect(what.path).toBe(`${stood.root}/to.thing.ts`)
   }))
 
-test("landing a write puts the body on disk, records it read, keeps it, and tells the index", () =>
+test("landing a write puts it on disk, records it read, keeps it, and tells the index", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     const what = must(authoring(at, "the new body", stood.held))
     expect(landed(land([what], stood.held))).toEqual([at])
     expect(readFileSync(at, "utf8")).toBe("the new body")
@@ -195,10 +202,9 @@ test("landing a write puts the body on disk, records it read, keeps it, and tell
     expect(stood.settled()).toBe(1)
   }))
 
-test("a file that moved between the witness and the landing is refused, and nothing is written", () =>
+test("a file moving between the witness and the landing is refused, writing nothing", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     const what = must(authoring(at, "the new body", stood.held))
     writeFileSync(at, "somebody else got here first")
     expect(() => land([what], stood.held)).toThrow(/is not as the witness says it was/)
@@ -208,7 +214,7 @@ test("a file that moved between the witness and the landing is refused, and noth
 
 test("landing a removal takes the file away and tells the index it went", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const what = takingAway(at, stood.held)
     expect(what.kind).toBe("remove")
     expect(landed(land([what], stood.held))).toEqual([at])
@@ -219,8 +225,7 @@ test("landing a removal takes the file away and tells the index it went", () =>
 
 test("the index is settled once for a landing of many changes, not once for each", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     const one = must(authoring(at, "first", stood.held))
     const two = must(creating(`${stood.root}/new.thing.ts`, "second", stood.held))
     expect(landed(land([one, two], stood.held))).toHaveLength(2)
@@ -238,8 +243,7 @@ test("a path the corpus does not carry owes no required reading", () =>
 
 test("a seat cleared for a document stays cleared within the one record it was cleared on", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     expect(refused(authoring(at, "first", stood.held))).toBe(false)
     const owed = closureFor(at, stood.corpus)[0]
     if (owed === undefined) throw new Error("nothing owed to move")
@@ -249,7 +253,7 @@ test("a seat cleared for a document stays cleared within the one record it was c
 
 test("the index is handed the body that was there before the one written over it", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const was = readFileSync(at, "utf8")
     ready(stood, at)
     land([must(authoring(at, "the new body", stood.held))], stood.held)
@@ -259,7 +263,7 @@ test("the index is handed the body that was there before the one written over it
 
 test("the index is handed nothing before a creation, there having been nothing", () =>
   inTree((stood) => {
-    ready(stood, `${stood.root}/leaf.thing.ts`)
+    ready(stood, leaf(stood))
     const what = must(creating(`${stood.root}/new.thing.ts`, "made", stood.held))
     land([what], stood.held)
     expect(stood.wrote[0]?.before).toBe(null)
@@ -267,7 +271,7 @@ test("the index is handed nothing before a creation, there having been nothing",
 
 test("the index is handed the body a removal took away, before it went", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const was = readFileSync(at, "utf8")
     land([takingAway(at, stood.held)], stood.held)
     expect(stood.took[0]?.before).toBe(was)
@@ -275,7 +279,7 @@ test("the index is handed the body a removal took away, before it went", () =>
 
 test("a prior body too large for the body store still reaches the index whole", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const huge = `export const leaf = { "slug": "leaf", "definition": "${"x".repeat(40_000)}" }\n`
     writeFileSync(at, huge)
     ready(stood, at)
@@ -284,11 +288,28 @@ test("a prior body too large for the body store still reaches the index whole", 
     expect(stood.wrote[0]?.before).toBe(huge)
   }))
 
+test("an index that fails is reported, so a landing is never undone by derived data", () =>
+  inTree((stood) => {
+    const at = readied(stood)
+    const angry = {
+      ...stood.held.index,
+      settle: () => {
+        throw new Error("the index disagreed")
+      },
+    }
+    const what = must(authoring(at, "the new body", stood.held))
+    const done = land([what], { ...stood.held, index: angry })
+    expect(done.kind).toBe("landed")
+    expect(recordAt(`${stood.root}/record.json`).of(at)?.oid).toBe(oidOf("the new body"))
+    if (done.kind !== "landed") return
+    expect(done.noted.join("")).toContain("the index disagreed")
+  }))
+
 test("a carry onto an occupied path is refused, because the witness would be lying", () =>
   inTree((stood) => {
     const to = `${stood.root}/whole.thing.ts`
     const was = readFileSync(to, "utf8")
-    const what = carrying(`${stood.root}/leaf.thing.ts`, to, stood.held)
+    const what = carrying(leaf(stood), to, stood.held)
     expect(refused(what)).toBe(true)
     expect(said(what)).toContain("a carry witnesses that nothing was")
     expect(said(what)).toContain(`--file-path ${to}`)
@@ -299,12 +320,12 @@ test("a carry onto an occupied path is refused however well read the seat is", (
   inTree((stood) => {
     const to = `${stood.root}/whole.thing.ts`
     ready(stood, to)
-    expect(refused(carrying(`${stood.root}/leaf.thing.ts`, to, stood.held))).toBe(true)
+    expect(refused(carrying(leaf(stood), to, stood.held))).toBe(true)
   }))
 
 test("a check refusing the change lands nothing, and the refusal is an answer not a throw", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const was = readFileSync(at, "utf8")
     ready(stood, at)
     const what = must(authoring(at, "the new body", stood.held))
@@ -321,7 +342,7 @@ test("a check refusing the change lands nothing, and the refusal is an answer no
 
 test("what a check is shown is the bytes the change would leave, not the tree on disk", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
+    const at = leaf(stood)
     const gone = `${stood.root}/whole.thing.ts`
     const raw = Buffer.from([0xff, 0xfe, 0x00, 0x01, 0x80, 0x41])
     writeFileSync(`${stood.root}/icon.bin`, raw)
@@ -343,10 +364,9 @@ test("what a check is shown is the bytes the change would leave, not the tree on
     expect(held.root).toBe(stood.root)
   }))
 
-test("the checks are consulted before any witness is verified, so a refusal never half-lands", () =>
+test("checks are consulted before any witness, so a refusal never half-lands", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     const what = must(authoring(at, "the new body", stood.held))
     writeFileSync(at, "somebody else got here first")
     const judge = judging(["never-happy"], () => [{ path: at, reason: "no" }])
@@ -354,10 +374,9 @@ test("the checks are consulted before any witness is verified, so a refusal neve
     expect(readFileSync(at, "utf8")).toBe("somebody else got here first")
   }))
 
-test("a landing says which checks it consulted, so an empty set cannot read as a passing one", () =>
+test("a landing says which checks it consulted, so an empty set is not a passing one", () =>
   inTree((stood) => {
-    const at = `${stood.root}/leaf.thing.ts`
-    ready(stood, at)
+    const at = readied(stood)
     expect(land([must(authoring(at, "first", stood.held))], stood.held).consulted).toEqual([])
     const both = { ...stood.held, judge: judging(["a", "b"], () => []) }
     expect(land([must(authoring(at, "second", both))], both).consulted).toEqual(["a", "b"])

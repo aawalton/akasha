@@ -54,6 +54,7 @@ export type Landed =
       readonly kind: "landed"
       readonly paths: readonly string[]
       readonly consulted: readonly string[]
+      readonly noted: readonly string[]
     }
   | {
       readonly kind: "refused"
@@ -64,7 +65,7 @@ export type Landed =
 export type Indexing = {
   readonly wrote: (path: string, body: string, before: string | null) => void
   readonly took: (path: string, before: string | null) => void
-  readonly settle: () => void
+  readonly settle: () => readonly string[]
 }
 
 export type Held = {
@@ -223,7 +224,13 @@ export function land(all: readonly Change[], held: Held): Landed {
     held.index.wrote(one.path, one.body, before)
     paths.push(one.path)
   }
-  held.index.settle()
   held.record.flush()
-  return { kind: "landed", paths, consulted }
+  let noted: readonly string[] = []
+  try {
+    noted = held.index.settle()
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    noted = [`the index was not settled, so it is behind the tree until it is rebuilt — ${why}`]
+  }
+  return { kind: "landed", paths, consulted, noted }
 }
