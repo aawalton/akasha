@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
+import { gitIn } from "../../testing-system/gitting.module.code.ts"
 import {
   headOf,
   staleFor,
@@ -22,19 +22,12 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function gitIn(repo: string, ...argv: readonly string[]): string {
-  return execFileSync("git", ["-C", repo, ...argv], {
-    encoding: "utf8",
-    stdio: ["ignore", "pipe", "ignore"],
-  })
-}
-
 function repoAt(): string {
   const repo = scratch.rootFor("akasha-stamp-")
-  gitIn(repo, "init", "--quiet")
-  gitIn(repo, "config", "user.email", "held@akasha")
-  gitIn(repo, "config", "user.name", "held")
-  gitIn(repo, "config", "commit.gpgsign", "false")
+  gitIn(repo, ["init", "--quiet"])
+  gitIn(repo, ["config", "user.email", "held@akasha"])
+  gitIn(repo, ["config", "user.name", "held"])
+  gitIn(repo, ["config", "commit.gpgsign", "false"])
   return repo
 }
 
@@ -47,8 +40,8 @@ function put(repo: string, at: string, body: string): string {
 
 function committed(repo: string, at: string, body: string): string {
   put(repo, at, body)
-  gitIn(repo, "add", "--", at)
-  gitIn(repo, "commit", "--quiet", "-m", at, "--", at)
+  gitIn(repo, ["add", "--", at])
+  gitIn(repo, ["commit", "--quiet", "-m", at, "--", at])
   return headOf(repo) ?? ""
 }
 
@@ -155,7 +148,7 @@ test("a reset onto an earlier commit is stale rather than answered", () => {
   committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
   const two = committed(repo, `${TREE}/b.ts`, "export const b = 2\n")
   stampBuilt(repo, join(repo, TREE), indexAt(repo))
-  gitIn(repo, "reset", "--hard", "--quiet", `${two}~1`)
+  gitIn(repo, ["reset", "--hard", "--quiet", `${two}~1`])
 
   expect(staleFor(repo, indexAt(repo))).toMatch(/akasha\/b\.ts/)
 })
@@ -163,11 +156,11 @@ test("a reset onto an earlier commit is stale rather than answered", () => {
 test("a checkout of a branch holding other pages is stale rather than answered", () => {
   const repo = repoAt()
   const head = committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
-  gitIn(repo, "checkout", "--quiet", "-b", "held")
+  gitIn(repo, ["checkout", "--quiet", "-b", "held"])
   committed(repo, `${TREE}/held.ts`, "export const held = 1\n")
-  gitIn(repo, "checkout", "--quiet", head)
+  gitIn(repo, ["checkout", "--quiet", head])
   stampBuilt(repo, join(repo, TREE), indexAt(repo))
-  gitIn(repo, "checkout", "--quiet", "held")
+  gitIn(repo, ["checkout", "--quiet", "held"])
 
   expect(staleFor(repo, indexAt(repo))).toMatch(/akasha\/held\.ts/)
 })
@@ -176,7 +169,7 @@ test("a checkout of a branch leaving the tree unchanged is fresh", () => {
   const repo = repoAt()
   committed(repo, `${TREE}/a.ts`, "export const a = 1\n")
   stampBuilt(repo, join(repo, TREE), indexAt(repo))
-  gitIn(repo, "checkout", "--quiet", "-b", "held")
+  gitIn(repo, ["checkout", "--quiet", "-b", "held"])
   committed(repo, "elsewhere/a.ts", "export const a = 1\n")
 
   expect(staleFor(repo, indexAt(repo))).toBe(null)

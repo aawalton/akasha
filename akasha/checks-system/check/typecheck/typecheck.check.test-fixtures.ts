@@ -1,9 +1,9 @@
-import { execFileSync } from "node:child_process"
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import { importIn } from "../../../pages-system/indexes/index-entries.module.code.ts"
 import { headOf, stampKept } from "../../../pages-system/indexes/index-stamp.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"
 
@@ -22,20 +22,13 @@ function reaching(root: string, files: Readonly<Record<string, string>>): void {
   }
 }
 
-function gitIn(root: string, ...argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    stdio: ["ignore", "pipe", "ignore"],
-  })
-}
-
 function stamped(root: string): void {
-  gitIn(root, "init", "--quiet")
-  gitIn(root, "config", "user.email", "held@akasha")
-  gitIn(root, "config", "user.name", "held")
+  gitIn(root, ["init", "--quiet"])
+  gitIn(root, ["config", "user.email", "held@akasha"])
+  gitIn(root, ["config", "user.name", "held"])
   writeFileSync(join(root, "seed"), "held\n")
-  gitIn(root, "add", "--", "seed")
-  gitIn(root, "commit", "--quiet", "-m", "held", "--", "seed")
+  gitIn(root, ["add", "--", "seed"])
+  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed"])
   stampKept(join(root, ".git/data/index"), {
     commit: headOf(root) ?? "",
     tree: "akasha",

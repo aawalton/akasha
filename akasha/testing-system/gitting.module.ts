@@ -15,7 +15,7 @@ export const gitting = {
     {
       invariantKind: "departure",
       statement:
-        "What git says on the error stream is left where it is written, because a test that fails is read by someone who wants it.",
+        "What git says on the error stream is caught rather than shown or thrown away, so a run that passes stays quiet and a run that fails still carries what git said.",
     },
     {
       invariantKind: "departure",

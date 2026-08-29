@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching.module.code.ts"
+import { gitIn } from "../../testing-system/gitting.module.code.ts"
 import {
   everyPath,
   importersOf,
@@ -34,28 +34,21 @@ function line(path: string, id: string): string {
   return JSON.stringify({ path, id })
 }
 
-function gitIn(root: string, ...argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    stdio: ["ignore", "pipe", "ignore"],
-  })
-}
-
 function committedAt(): string {
   const root = rootAt()
-  gitIn(root, "init", "--quiet")
-  gitIn(root, "config", "user.email", "held@akasha")
-  gitIn(root, "config", "user.name", "held")
+  gitIn(root, ["init", "--quiet"])
+  gitIn(root, ["config", "user.email", "held@akasha"])
+  gitIn(root, ["config", "user.name", "held"])
   writeFileSync(join(root, "held"), "held\n")
-  gitIn(root, "add", "--", "held")
-  gitIn(root, "commit", "--quiet", "-m", "held", "--", "held")
+  gitIn(root, ["add", "--", "held"])
+  gitIn(root, ["commit", "--quiet", "-m", "held", "--", "held"])
   return root
 }
 
 function stampedAt(): string {
   const root = committedAt()
   stampKept(indexIn(root), {
-    commit: gitIn(root, "rev-parse", "HEAD").trim(),
+    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
     tree: "akasha",
     settled: [],
   })
@@ -203,8 +196,8 @@ test("what imports a file is refused when a commit the index never saw stands", 
   ])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
-  gitIn(root, "add", "--", "akasha/late.ts")
-  gitIn(root, "commit", "--quiet", "-m", "late", "--", "akasha/late.ts")
+  gitIn(root, ["add", "--", "akasha/late.ts"])
+  gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
 })
