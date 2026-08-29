@@ -14,6 +14,7 @@ export const testingSystem = {
     "module/waiting",
     "module/walking",
     "module/putting",
+    "module/rooting",
   ],
   invariants: [
     {
