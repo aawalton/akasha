@@ -12,6 +12,7 @@ import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { LOG } from "./supervisor-config.ts"
 import { toolArgv } from "./tool-argv.ts"
+import { keepSession } from "./seat-session.ts"
 import { keepTranscript } from "./seat-transcript-path.ts"
 
 const BEAT = "seat-page-beat.ts"
@@ -71,6 +72,7 @@ export function writeSeatProcessKey(seatName: string, supervisorPid: number): vo
 }
 
 export function keepSeatSession(agentId: string, sessionId: string): void {
+  keepSession(agentId, sessionId)
   const report = runBeat(["--agent", agentId, "--session", sessionId])
   if (report.outcome.kind === "refused") {
     console.error(`${LOG} the session did not reach ${report.seat ?? agentId}: ${report.outcome.detail}`)
