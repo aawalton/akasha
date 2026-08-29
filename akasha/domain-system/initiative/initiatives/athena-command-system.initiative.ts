@@ -44,14 +44,6 @@ export const athenaCommandSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "Two landings reaching different paths do not wait on each other.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No landing holds a lock, and the gate runs while none is held.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "A hook guarding a write reaches the whole repository, not the akasha folder alone.",
     },
@@ -66,9 +58,9 @@ export const athenaCommandSystem = {
     "The reason is not tidiness. `move` already states the gap in its own words: the index carries `akasha/` alone, so a file outside it importing what moved stands unrepointed and was not looked for. Five files outside the folder import into it. One of them delivers every hook to every seat, and when an inner rename broke it the fleet ran unguarded until a registration check happened to be run.",
     "A change reaching nothing under `akasha/` was half of the last three hundred commits, so an empty patch is the common case rather than an edge. Telling nothing-to-judge apart from could-not-be-built is where a silent hole would open, and it is the same fault as reading a missing index as an index naming nothing.",
     "Reads and formatting stay bound to `akasha/` for now. Only the commit half has evidence behind it, and widening three disciplines at once would change the friction of every seat while only one of them is answering a fault we have seen.",
-    "The landing lock goes before the reach widens, because a lock held across the gate would become a mutex over every agent write in the repository, and its hold time is a test run. It is also neither necessary nor sufficient: two landings reaching different paths cannot break the index agreeing with HEAD, and a write made outside the commands never takes it.",
-    "HEAD answers what the lock was reaching for. A landing reads its base, is judged while holding nothing, and commits only if nothing reaching `akasha/` landed meanwhile. An intervening change outside the folder cannot alter a verdict, so it is no reason to refuse. The same rule already stands in `edit`, where a stated passage must still stand exactly once.",
+    "The landing lock stays, and the plan that it would go is withdrawn. Two things this initiative said against it are false: two landings on disjoint paths can break the index agreeing with HEAD, because an entry file is keyed by what is referred to rather than by what changed, and HEAD does not answer what the lock was reaching for, because a base read before the gate refuses one of every concurrent pair. What was true of it were its own three defects, and those are fixed.",
+    "Its cost is real and is not a defect. A hold is a test run long, so two landings on unrelated files wait on each other. What would beat it is recording what each check read, absences included, and validating that in a short section after the gate. That is filed as the finding `landing-concurrency-needs-a-read-set` and belongs to the graph system, where what a read reaches is already being written down.",
     "Two things the lock covered are already safe and need nothing: an index entry file is written to a neighbour and renamed into place, which is atomic, and the commit names its paths so another agent's staging is never swept into it. What is left is a body overwritten between the reading and the writing.",
-    "The new rule lands before the lock is taken away, never after. For a while both stand, which costs only waiting; the reverse would leave a window with neither.",
+    "The body rule and the base rule landed while the lock still stood, and they stay standing beside it. Neither depends on it and neither is idle: a write made outside the commands never takes the lock, and those two rules are what refuse it.",
   ],
 } as const satisfies Initiative
