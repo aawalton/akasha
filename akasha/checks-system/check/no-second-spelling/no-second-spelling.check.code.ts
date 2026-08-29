@@ -1,5 +1,6 @@
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { besideAt } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -18,8 +19,10 @@ export type Owner = {
 }
 
 export function ownedIn(leaving: Leaving): ReadonlyMap<string, Owner> {
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
   const found = new Map<string, Owner>()
-  for (const one of everyOfType(leaving.root, MODULE)) {
+  for (const one of everyOfType(cast.shadow.reading, MODULE)) {
     const at = besideAt(one.path, CODE, HELD)
     if (at === null) continue
     const text = textIn(leaving, at)
