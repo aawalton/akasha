@@ -14,6 +14,10 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A path outside the akasha folder is passed over rather than refused.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change is judged before it reaches disk, and a refused one leaves nothing behind.",
     },

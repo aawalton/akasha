@@ -40,15 +40,13 @@ export const pagePropertyHasItsFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the change takes away is passed over, so a page and its files go together.",
+      statement:
+        "A page the change takes away is passed over, so a page and its files go together.",
     },
     {
       invariantKind: "departure",
-      statement: "The refusal is laid on the page that states the property, not on the missing file.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path outside the akasha folder is passed over.",
+      statement:
+        "The refusal is laid on the page that states the property, not on the missing file.",
     },
   ],
 } as const satisfies Check

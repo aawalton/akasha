@@ -43,10 +43,6 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A path outside the akasha folder is passed over.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The index is read as the last landed change left it, and a claim still standing there is taken as a claim.",
     },

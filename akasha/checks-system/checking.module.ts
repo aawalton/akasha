@@ -11,7 +11,7 @@ export const checking = {
   design: [
     {
       invariantKind: "departure",
-      statement: "The page names the export it runs.",
+      statement: "A check's page names the export it runs.",
     },
     {
       invariantKind: "departure",

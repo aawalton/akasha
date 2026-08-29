@@ -11,7 +11,7 @@ export const calling = {
   design: [
     {
       invariantKind: "departure",
-      statement: "The page names the export it runs.",
+      statement: "A command's page names the export it runs.",
     },
     {
       invariantKind: "departure",

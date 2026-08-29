@@ -10,11 +10,8 @@ export const akashaMilestone = {
   design: [
     {
       invariantKind: "departure",
-      statement: "This domain's parts are the milestones themselves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "This domain's parts are in the order the migration passes through them.",
+      statement:
+        "This domain's parts are the milestones themselves, in the order the migration passes through them.",
     },
   ],
 } as const satisfies Domain

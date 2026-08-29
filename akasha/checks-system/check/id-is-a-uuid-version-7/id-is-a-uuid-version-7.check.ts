@@ -23,9 +23,8 @@ export const idIsAUuidVersion7 = {
       statement: "An id is read from the object literal, never from the body.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The id judged is a property of the page itself, so an id nested deeper is another page's business.",
+      invariantKind: "absence",
+      statement: "An id nested deeper in the value is another page's business.",
     },
   ],
 } as const satisfies Check
