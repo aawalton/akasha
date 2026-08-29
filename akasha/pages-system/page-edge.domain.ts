@@ -1,9 +1,9 @@
 import type { Domain } from "../domain-system/domain/domain.page-type.ts"
 
-export const akashaPageEdge = {
+export const pageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",
   pageTypeSlug: "domain",
-  slug: "akasha-page-edge",
+  slug: "page-edge",
   definition: "a reference from one page to another",
   design: [
     "An edge is an import where the target is needed to derive this page's type, and a slug everywhere else.",
