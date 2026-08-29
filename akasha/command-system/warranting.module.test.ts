@@ -176,9 +176,9 @@ test("a type warrants the body standing at the type's page", () => {
   expect(held?.owed).toBe(TYPE)
 })
 
-test("the file beside a page answers to the type of the page it stands beside", () => {
+test("a file standing beside a page warrants no type of its own", () => {
   const root = scratch.rootFor("akasha-warranting-")
-  const chain = typeWorld(root)
+  typeWorld(root)
   indexed(
     root,
     "schema/page-property/slug/code.jsonl",
@@ -186,10 +186,10 @@ test("the file beside a page answers to the type of the page it stands beside", 
   )
   const beside = "akasha/thing/thing.module.code.ts"
   standing(root, beside, "body\n")
-  expect(pathsOf(root, beside)).toEqual([beside, ...chain])
+  expect(pathsOf(root, beside)).toEqual([beside])
 })
 
-test("a file beside a page by no file property answers to no type", () => {
+test("a file named for no page type warrants no type", () => {
   const root = scratch.rootFor("akasha-warranting-")
   typeWorld(root)
   const beside = "akasha/thing/thing.module.notes.ts"

@@ -62,7 +62,12 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "A file standing beside a page by a file property answers to the type of that page, the code of a module being held to what a module is.",
+        "Only a page answers to a type. A file standing beside a page by a file property is no page, and warrants no type of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A warrant is what the change owes, never what a warranted file would owe were it changed.",
     },
     {
       invariantKind: "departure",

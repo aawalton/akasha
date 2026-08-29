@@ -1,10 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  schemaOf,
-  slugsOfType,
-  standingAt,
-} from "../pages-system/indexes/index-reading.module.code.ts"
+import { slugsOfType, standingAt } from "../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../pages-system/page/page-file-name.module.code.ts"
 import { standingAbove } from "../pages-system/page-type/page-type-descent.module.code.ts"
 import { blobIdOf, readingIn } from "./reading.module.code.ts"
@@ -25,8 +21,6 @@ export const ITSELF =
 export const TYPE = "A page answers to its type, and to every type that one extends."
 
 const PAGE_TYPE = "page-type"
-
-const FILE_PROPERTY = "file-property"
 
 export const NO_AGENT = [
   "`AGENT_ID` names no agent, so there is no record to ask, and this call is refused whole.",
@@ -98,19 +92,15 @@ export function itselfIn(root: string, path: string): readonly Warrant[] {
   return standing === null ? [] : [{ path, oid: standing, owed: ITSELF }]
 }
 
-export function typeSlugOf(root: string, path: string, types: ReadonlySet<string>): string | null {
+export function typeSlugOf(path: string, types: ReadonlySet<string>): string | null {
   const said = namedIn(path)
   if (said === null) return null
-  if (types.has(said.tail)) return said.tail
-  const schema = schemaOf(root, said.tail)
-  if (schema === null || schema.pageTypeSlug !== FILE_PROPERTY) return null
-  const beside = namedIn(`${said.stem}.ts`)
-  return beside !== null && types.has(beside.tail) ? beside.tail : null
+  return types.has(said.tail) ? said.tail : null
 }
 
 export function typeIn(root: string, path: string, knowing: Knowing): readonly Warrant[] {
   const known = knowing()
-  let here = typeSlugOf(root, path, known.types)
+  let here = typeSlugOf(path, known.types)
   if (here === null) return []
   const found: Warrant[] = []
   const walked = new Set<string>()
