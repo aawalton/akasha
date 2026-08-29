@@ -23,5 +23,9 @@ export const invariant = {
       invariantKind: "departure",
       statement: "An invariant states what is true, never why.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An invariant true of every page below a domain belongs to the domain.",
+    },
   ],
 } as const satisfies PagePropertyType
