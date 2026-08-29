@@ -12,6 +12,7 @@ import { formatSeatProcKey, readSeatProcKey } from "./seat-proc-key.ts"
 import { composedNameOf } from "./seat-rename.ts"
 import { LOG } from "./supervisor-config.ts"
 import { toolArgv } from "./tool-argv.ts"
+import { keepTranscript } from "./seat-transcript-path.ts"
 
 const BEAT = "seat-page-beat.ts"
 
@@ -77,6 +78,7 @@ export function keepSeatSession(agentId: string, sessionId: string): void {
 }
 
 export function keepSeatTranscript(agentId: string, transcriptPath: string): void {
+  keepTranscript(agentId, transcriptPath)
   const report = runBeat(["--agent", agentId, "--transcript", transcriptPath])
   if (report.outcome.kind === "refused") {
     console.error(
