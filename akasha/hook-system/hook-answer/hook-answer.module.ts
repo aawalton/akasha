@@ -38,8 +38,14 @@ export const hookAnswer = {
       statement: "A hook reads no field of the payload but the tool input it is handed.",
     },
     {
-      invariantKind: "gap",
-      statement: "Two hooks answer the harness alike without saying how twice.",
+      invariantKind: "departure",
+      statement:
+        "A hook that reads its call from the payload is run from here, so how the harness is answered is said once and every hook answering it differently is a hook that has left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a hook refuses is handed in, so the runner knows the shape of a judgement and nothing about what any hook judges.",
     },
   ],
 } as const satisfies Module

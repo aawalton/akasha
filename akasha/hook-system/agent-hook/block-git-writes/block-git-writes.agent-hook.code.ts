@@ -1,16 +1,8 @@
 import type { GitCall } from "../../git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "../../git-calls/git-calls.module.code.ts"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  STANDING_ASIDE,
-  said,
-} from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-git-writes"
-
-const SCOPE_FLAG = "--scope"
 
 const PATHS = "--"
 
@@ -194,15 +186,6 @@ export function refusalIn(command: string): string | null {
   return null
 }
 
-async function main(): Promise<number> {
-  if (Bun.argv[2] === SCOPE_FLAG) {
-    process.stdout.write(`${SCOPE.join("\n")}\n`)
-    return ASIDE
-  }
-  const read = commandIn(await Bun.stdin.text(), "command", HOOK)
-  if ("answer" in read) return said(read.answer)
-  const reason = refusalIn(read.command)
-  return said(reason === null ? STANDING_ASIDE : refusing(reason))
+if (import.meta.main) {
+  process.exit(await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn))
 }
-
-if (import.meta.main) process.exit(await main())

@@ -1,17 +1,8 @@
 import { resolve, sep } from "node:path"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  rootOf,
-  STANDING_ASIDE,
-  said,
-} from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 import { basenameOf, segmentsOf, wordsOf } from "../../shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-biome"
-
-const SCOPE_FLAG = "--scope"
 
 const BIOME = "biome"
 
@@ -107,27 +98,6 @@ export function refusalIn(command: string, from: string, root: string): string |
   return null
 }
 
-function fromIn(raw: string): string {
-  try {
-    const payload: unknown = JSON.parse(raw)
-    const held = (payload as Record<string, unknown> | null)?.["cwd"]
-    return typeof held === "string" ? held : ""
-  } catch {
-    return ""
-  }
+if (import.meta.main) {
+  process.exit(await ranAsHook(HOOK, "command", SCOPE, import.meta.path, refusalIn))
 }
-
-async function main(): Promise<number> {
-  if (Bun.argv[2] === SCOPE_FLAG) {
-    process.stdout.write(`${SCOPE.join("\n")}\n`)
-    return ASIDE
-  }
-  const raw = await Bun.stdin.text()
-  const read = commandIn(raw, "command", HOOK)
-  if ("answer" in read) return said(read.answer)
-  const root = rootOf(import.meta.path)
-  const reason = refusalIn(read.command, fromIn(raw), root)
-  return said(reason === null ? STANDING_ASIDE : refusing(reason))
-}
-
-if (import.meta.main) process.exit(await main())

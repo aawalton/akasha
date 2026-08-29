@@ -1,17 +1,8 @@
 import { join, relative, resolve } from "node:path"
-import {
-  ASIDE,
-  commandIn,
-  refusing,
-  rootOf,
-  STANDING_ASIDE,
-  said,
-} from "../../hook-answer/hook-answer.module.code.ts"
+import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
 const HOOK = "block-akasha-reads"
-
-const SCOPE_FLAG = "--scope"
 
 const FILE_PATH = "file_path"
 
@@ -78,29 +69,6 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   return insideOf(settled(join(here, PAGES)), at) ? refusalFor(shownIn(here, at)) : null
 }
 
-function fromIn(raw: string): string {
-  try {
-    const payload: unknown = JSON.parse(raw)
-    if (payload === null || typeof payload !== "object" || Array.isArray(payload)) {
-      return process.cwd()
-    }
-    const held = (payload as Record<string, unknown>)["cwd"]
-    return typeof held === "string" && held !== "" ? held : process.cwd()
-  } catch {
-    return process.cwd()
-  }
+if (import.meta.main) {
+  process.exit(await ranAsHook(HOOK, FILE_PATH, SCOPE, import.meta.path, refusalIn))
 }
-
-async function main(): Promise<number> {
-  if (Bun.argv[2] === SCOPE_FLAG) {
-    process.stdout.write(`${SCOPE.join("\n")}\n`)
-    return ASIDE
-  }
-  const raw = await Bun.stdin.text()
-  const read = commandIn(raw, FILE_PATH, HOOK)
-  if ("answer" in read) return said(read.answer)
-  const reason = refusalIn(read.command, fromIn(raw), rootOf(import.meta.path))
-  return said(reason === null ? STANDING_ASIDE : refusing(reason))
-}
-
-if (import.meta.main) process.exit(await main())

@@ -1,5 +1,7 @@
 import { dirname, resolve } from "node:path"
 
+export const SCOPE_FLAG = "--scope"
+
 export const ASIDE = 0
 
 export const REFUSED = 2
@@ -66,4 +68,32 @@ export function said(answer: Answer): number {
 
 export function rootOf(at: string): string {
   return resolve(dirname(at), "..", "..", "..", "..")
+}
+
+export function fromIn(raw: string): string {
+  try {
+    const payload: unknown = JSON.parse(raw)
+    const held = (payload as Record<string, unknown> | null)?.["cwd"]
+    return typeof held === "string" ? held : ""
+  } catch {
+    return ""
+  }
+}
+
+export async function ranAsHook(
+  hook: string,
+  key: string,
+  scope: readonly string[],
+  at: string,
+  judging: (command: string, from: string, root: string) => string | null
+): Promise<number> {
+  if (Bun.argv[2] === SCOPE_FLAG) {
+    process.stdout.write(`${scope.join("\n")}\n`)
+    return ASIDE
+  }
+  const raw = await Bun.stdin.text()
+  const read = commandIn(raw, key, hook)
+  if ("answer" in read) return said(read.answer)
+  const reason = judging(read.command, fromIn(raw), rootOf(at))
+  return said(reason === null ? STANDING_ASIDE : refusing(reason))
 }
