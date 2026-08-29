@@ -8,7 +8,7 @@ export const indexes = {
   partSlugs: [
     "index/index-identity",
     "index/index-relation",
-    "domain/index-schema",
+    "index/index-schema",
     "index/index-import",
     "index/index-path",
     "page-type/index",
