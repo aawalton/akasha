@@ -44,12 +44,14 @@ export function shadowAt(root: string): Shadow {
 }
 
 export function shadowOver(patch: Patch): Cast {
+  if (patch.at === patch.was) return { shadow: shadowAt(patch.root) }
   const under = readingAt(indexIn(patch.root))
+  const carried = new Set(patch.changed)
   const pageOf = remembering((path) => {
+    if (!carried.has(path)) return valueAt(path, patch.root)
     const body = textOf(patch.at(path))
     return body === null ? null : valueIn(body)
   })
-  if (patch.at === patch.was) return { shadow: { reading: under, pageOf } }
   try {
     const moving = patch.changed.map((path) => ({
       path,

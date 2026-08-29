@@ -275,3 +275,20 @@ test("one change is one shadow, so a second check asking works nothing out again
   expect(shadowFor(counted)).toBe(first)
   expect(asked).toBe(once)
 })
+
+test("a page the change does not carry is read from the tree the change would land on", () => {
+  const at = inside("b.domain.ts")
+  const repo = seeded()
+  const cast = shadowOver({
+    root: repo,
+    changed: [at],
+    at: (path) =>
+      path === at
+        ? TEXT.encode(bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "b" }))
+        : null,
+    was: onDisk(repo),
+  })
+  if ("refused" in cast) throw new Error(cast.refused)
+  expect(cast.shadow.pageOf(inside("g.domain.ts"))?.["slug"]).toBe("g")
+  expect(cast.shadow.pageOf(at)?.["slug"]).toBe("b")
+})

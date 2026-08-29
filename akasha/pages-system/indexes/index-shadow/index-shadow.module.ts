@@ -26,7 +26,7 @@ export const indexShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A page's body is read from the change where the change carries it, so a page and the property it leans on land together.",
+        "A page's body is read from the change where the change carries it and from the tree where it does not, which are the two places a landing reads.",
     },
     {
       invariantKind: "departure",
