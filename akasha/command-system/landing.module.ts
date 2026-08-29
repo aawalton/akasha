@@ -55,6 +55,11 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
+        "A body is overwritten only where what stands on disk is the body its writer read, and one that moved is refused unwritten.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "What was written is put back when anything after the writing throws, so a call that commits nothing leaves nothing behind either.",
     },
     {

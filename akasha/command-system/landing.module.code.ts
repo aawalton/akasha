@@ -16,6 +16,7 @@ import type { Judged, Judging, Leaving } from "../checks-system/judging/judging.
 import { indexIn } from "../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../pages-system/indexes/indexing/indexing.module.code.ts"
 import { holding } from "./holding.module.code.ts"
+import { blobIdOf } from "./reading/reading.module.code.ts"
 import { SCRATCH_AT } from "./scratching/scratching.module.code.ts"
 
 export type Change = {
@@ -26,6 +27,11 @@ export type Change = {
 export type Proposed = {
   readonly base: string
   readonly changed: readonly Change[]
+}
+
+export type AsRead = {
+  readonly path: string
+  readonly oid: string
 }
 
 export type Landed = {
@@ -443,13 +449,26 @@ function movedBetween(
   return moved.sort()
 }
 
+function movedOnDisk(root: string, asRead: readonly AsRead[]): readonly string[] {
+  const moved: string[] = []
+  for (const one of asRead) {
+    let stood = ""
+    try {
+      stood = blobIdOf(readFileSync(join(root, one.path)))
+    } catch {}
+    if (stood !== one.oid) moved.push(one.path)
+  }
+  return moved.sort()
+}
+
 export function landing(
   root: string,
   changes: readonly Change[],
   message: string,
   judging: Judging,
   writer: string | null = null,
-  read: string | null = null
+  read: string | null = null,
+  asRead: readonly AsRead[] = []
 ): Landed | Refused {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
@@ -477,6 +496,18 @@ export function landing(
         refusals: [
           ...said.map((one) => `${one.path} — ${one.reason}`),
           `nothing was written — ${changes.length} change(s) were asked for and they land together or not at all`,
+        ],
+      }
+    }
+    const stirred = movedOnDisk(root, asRead)
+    if (stirred.length > 0) {
+      return {
+        refusals: [
+          ...stirred.map(
+            (one) =>
+              `${one} — what stands on disk is not the body you read, so writing it would put back what moved in between`
+          ),
+          "nothing was written — read them again against what stands now",
         ],
       }
     }

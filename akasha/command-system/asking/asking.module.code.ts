@@ -4,7 +4,7 @@ import type { Judged, Judging } from "../../checks-system/judging/judging.module
 import { formattedBody } from "../../code-system/code-format/code-format.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { holding } from "../holding.module.code.ts"
-import type { Change, Landed, Refused } from "../landing.module.code.ts"
+import type { AsRead, Change, Landed, Refused } from "../landing.module.code.ts"
 import {
   baseOf,
   CHECKING_AT,
@@ -15,7 +15,7 @@ import {
   oneLine,
   UNNAMED,
 } from "../landing.module.code.ts"
-import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
+import { blobIdOf, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -264,6 +264,16 @@ export function recordLanded(given: Given, changes: readonly Change[]): void {
   }
 }
 
+export function asReadIn(given: Given, changes: readonly Change[]): readonly AsRead[] {
+  if (given.agentId === null) return []
+  const held: AsRead[] = []
+  for (const one of changes) {
+    const seen = readingIn(given.root, given.agentId, one.path)
+    if (seen !== null) held.push({ path: one.path, oid: seen.oid })
+  }
+  return held
+}
+
 export function landingAsked(given: Given, asked: Asked): Answer {
   if (asked.dryRun && asked.glass !== null) {
     return mistaking([
@@ -285,7 +295,8 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       messageWith(held, broken),
       gate,
       given.writer,
-      held.read ?? null
+      held.read ?? null,
+      asReadIn(given, held.changes)
     )
   } catch (thrown) {
     return {
