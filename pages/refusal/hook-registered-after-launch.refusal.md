@@ -10,4 +10,4 @@ holes:
 
 # Refusal
 
-{what} — registered by `settings/agents.json` after pid {pids} started, so no payload those seats could have been handed carries it; they pick it up when they cycle, and nothing written here reaches them.
+{what} — registered by `agent-settings` after pid {pids} started, so no payload those seats could have been handed carries it; they pick it up when they cycle, and nothing written here reaches them.

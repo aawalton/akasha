@@ -11,6 +11,6 @@ holes:
 
 # Refusal
 
-{what} — registered by `settings/agents.json` and absent from {path}, which is what pid {pids} was launched with. That hook does not fire for that seat.
+{what} — registered by `agent-settings` and absent from {path}, which is what pid {pids} was launched with. That hook does not fire for that seat.
 
-What `settings/agents.json` held when that seat started could not be read, so whether the launch order explains it is unsettled.
+What `agent-settings` answered when that seat started could not be read, so whether the launch order explains it is unsettled.

@@ -13,4 +13,4 @@ holes:
 
 {what} — fires for pid {pids} out of {path}. No file here registers that hook.
 
-`settings/agents.json` did not register it either when that seat started, so the launch order does not explain it.
+`agent-settings` did not register it either when that seat started, so the launch order does not explain it.

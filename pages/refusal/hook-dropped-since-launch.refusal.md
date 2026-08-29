@@ -11,4 +11,4 @@ holes:
 
 # Refusal
 
-{what} — fires for pid {pids} out of {path}. `settings/agents.json` registered that hook when that seat started and has since dropped it; it goes when the seat cycles and nothing written here reaches it.
+{what} — fires for pid {pids} out of {path}. `agent-settings` registered that hook when that seat started and has since dropped it; it goes when the seat cycles and nothing written here reaches it.
