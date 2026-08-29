@@ -1,6 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import {
+  edging,
+  identified,
+  landing,
+  NO_BYTES,
+  pathFor,
+  stands,
+  typed,
+} from "../../check-scratch/check-scratch.module.code.ts"
 import {
   propertyIsDeclaredByAType,
   propertyNamedIn,
@@ -8,30 +17,17 @@ import {
 
 const SCRATCH_AT = "/var/tmp"
 
-const INDEX = join(".git", "data", "index")
-
 const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 
 const TWO = "01a04ef8-1a07-7002-8000-000000000002"
+
+const UP_AT = "akasha/up.page-type.ts"
 
 const held: string[] = []
 
 afterAll(() => {
   for (const one of held) rmSync(one, { recursive: true, force: true })
 })
-
-function typed(root: string, slug: string, above: string): void {
-  const dir = join(root, INDEX, "identity", "page-type", "slug")
-  mkdirSync(dir, { recursive: true })
-  const path = `akasha/types/${slug}.page-type.ts`
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`)
-  mkdirSync(join(root, "akasha", "types"), { recursive: true })
-  const said = JSON.stringify(`page-type/${above}`)
-  writeFileSync(
-    join(root, path),
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
-  )
-}
 
 function rooted(): string {
   const root = mkdtempSync(join(SCRATCH_AT, "akasha-declared-"))
@@ -41,34 +37,6 @@ function rooted(): string {
   typed(root, "relation-property", "page-property")
   typed(root, "page-type", "domain")
   return root
-}
-
-function pathFor(kind: string, slug: string): string {
-  return `akasha/${slug}.${kind}.ts`
-}
-
-function stands(root: string, kind: string, slug: string, id: string): void {
-  const dir = join(root, INDEX, "identity", kind, "slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    join(dir, `${slug}.jsonl`),
-    `${JSON.stringify({ path: pathFor(kind, slug), id })}\n`
-  )
-}
-
-function identified(root: string, id: string, path: string): void {
-  const dir = join(root, INDEX, "identity", "page", "id")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${id}.jsonl`), `${JSON.stringify({ path, id })}\n`)
-}
-
-function edging(root: string, id: string, propertySlug: string, from: string): void {
-  const dir = join(root, INDEX, "relation", "page", "id", id, propertySlug)
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    join(dir, `${from}.jsonl`),
-    `${JSON.stringify({ path: "akasha/up.page-type.ts" })}\n`
-  )
 }
 
 function body(kind: string, slug: string, id: string, declares?: readonly string[]): Uint8Array {
@@ -82,25 +50,10 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
   )
 }
 
-const NO_BYTES = new Uint8Array(0)
-
-function landing(
-  root: string,
-  files: Record<string, Uint8Array | null>,
-  before: Record<string, Uint8Array> = {}
-) {
-  return {
-    root,
-    changed: Object.keys(files),
-    at: (path: string) => files[path] ?? null,
-    was: (path: string) => before[path] ?? NO_BYTES,
-  }
-}
-
 test("a property the index says some page type declares is let through", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
-  edging(root, ONE, "page-property-slug", TWO)
+  edging(root, ONE, "page-property-slug", TWO, UP_AT)
   identified(root, TWO, "akasha/up.page-type.ts")
   const said = propertyIsDeclaredByAType(
     landing(root, {
@@ -139,7 +92,7 @@ test("a page type that stops declaring a property leaves that property refused",
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   stands(root, "page-type", "over", TWO)
-  edging(root, ONE, "page-property-slug", TWO)
+  edging(root, ONE, "page-property-slug", TWO, UP_AT)
   const said = propertyIsDeclaredByAType(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
@@ -155,7 +108,7 @@ test("a page type dropping a property leaves it refused, though the property did
   stands(root, "relation-property", "held", ONE)
   stands(root, "page-type", "over", TWO)
   identified(root, ONE, pathFor("relation-property", "held"))
-  edging(root, ONE, "page-property-slug", TWO)
+  edging(root, ONE, "page-property-slug", TWO, UP_AT)
   const at = pathFor("page-type", "over")
   const said = propertyIsDeclaredByAType(
     landing(

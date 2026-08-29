@@ -5,7 +5,13 @@ export const checksSystem = {
   pageTypeSlug: "domain",
   slug: "checks-system",
   definition: "how a change is judged against what must be true of it",
-  partSlugs: ["page-type/check", "module/judging", "module/checking", "module/shape-saying"],
+  partSlugs: [
+    "page-type/check",
+    "module/judging",
+    "module/check-scratch",
+    "module/checking",
+    "module/shape-saying",
+  ],
   invariants: [
     {
       invariantKind: "departure",

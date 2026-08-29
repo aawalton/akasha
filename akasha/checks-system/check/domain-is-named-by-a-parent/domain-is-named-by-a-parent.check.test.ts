@@ -1,17 +1,26 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import {
+  edging,
+  identified,
+  landing,
+  NO_BYTES,
+  pathFor,
+  stands,
+  typed,
+} from "../../check-scratch/check-scratch.module.code.ts"
 import { domainIsNamedByAParent, domainNamedIn } from "./domain-is-named-by-a-parent.check.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
-
-const INDEX = join(".git", "data", "index")
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
 const TWO = "01a04d5f-c731-7002-8000-000000000002"
 
 const UP = "01a04d5f-c731-7003-8000-000000000003"
+
+const UP_AT = "akasha/up.domain.ts"
 
 const held: string[] = []
 
@@ -26,44 +35,6 @@ function rooted(): string {
   return root
 }
 
-function typed(root: string, slug: string, above: string): void {
-  const dir = join(root, INDEX, "identity", "page-type", "slug")
-  mkdirSync(dir, { recursive: true })
-  const path = `akasha/types/${slug}.page-type.ts`
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`)
-  mkdirSync(join(root, "akasha", "types"), { recursive: true })
-  const said = JSON.stringify(`page-type/${above}`)
-  writeFileSync(
-    join(root, path),
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
-  )
-}
-
-function pathFor(kind: string, slug: string): string {
-  return `akasha/${slug}.${kind}.ts`
-}
-
-function stands(root: string, kind: string, slug: string, id: string): void {
-  const dir = join(root, INDEX, "identity", kind, "slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    join(dir, `${slug}.jsonl`),
-    `${JSON.stringify({ path: pathFor(kind, slug), id })}\n`
-  )
-}
-
-function identified(root: string, id: string, path: string): void {
-  const dir = join(root, INDEX, "identity", "page", "id")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${id}.jsonl`), `${JSON.stringify({ path, id })}\n`)
-}
-
-function edging(root: string, id: string, propertySlug: string, from: string): void {
-  const dir = join(root, INDEX, "relation", "page", "id", id, propertySlug)
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${from}.jsonl`), `${JSON.stringify({ path: "akasha/up.domain.ts" })}\n`)
-}
-
 function body(kind: string, slug: string, id: string, parts?: readonly string[]): Uint8Array {
   const said = parts === undefined ? "" : `, partSlugs: ${JSON.stringify(parts)}`
   return new TextEncoder().encode(
@@ -72,25 +43,10 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
   )
 }
 
-const NO_BYTES = new Uint8Array(0)
-
-function landing(
-  root: string,
-  files: Record<string, Uint8Array | null>,
-  before: Record<string, Uint8Array> = {}
-) {
-  return {
-    root,
-    changed: Object.keys(files),
-    at: (path: string) => files[path] ?? null,
-    was: (path: string) => before[path] ?? NO_BYTES,
-  }
-}
-
 test("a page the index says some page names among its parts is let through", () => {
   const root = rooted()
   stands(root, "domain", "held", ONE)
-  edging(root, ONE, "part-slugs", TWO)
+  edging(root, ONE, "part-slugs", TWO, UP_AT)
   identified(root, TWO, "akasha/up.domain.ts")
   const said = domainIsNamedByAParent(
     landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) })
@@ -112,7 +68,7 @@ test("a page and the parent naming it landing together is let through", () => {
   const root = rooted()
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
-  edging(root, TWO, "part-slugs", UP)
+  edging(root, TWO, "part-slugs", UP, UP_AT)
   identified(root, UP, "akasha/up.domain.ts")
   const said = domainIsNamedByAParent(
     landing(root, {
@@ -127,8 +83,8 @@ test("a parent that stops naming a part leaves that part refused", () => {
   const root = rooted()
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
-  edging(root, ONE, "part-slugs", TWO)
-  edging(root, TWO, "part-slugs", UP)
+  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  edging(root, TWO, "part-slugs", UP, UP_AT)
   identified(root, UP, "akasha/up.domain.ts")
   const said = domainIsNamedByAParent(
     landing(root, {
@@ -145,8 +101,8 @@ test("a parent dropping a part leaves that part refused, though it did not chang
   stands(root, "domain", "under", ONE)
   stands(root, "domain", "over", TWO)
   identified(root, ONE, pathFor("domain", "under"))
-  edging(root, ONE, "part-slugs", TWO)
-  edging(root, TWO, "part-slugs", UP)
+  edging(root, ONE, "part-slugs", TWO, UP_AT)
+  edging(root, TWO, "part-slugs", UP, UP_AT)
   identified(root, UP, "akasha/up.domain.ts")
   const at = pathFor("domain", "over")
   const said = domainIsNamedByAParent(
