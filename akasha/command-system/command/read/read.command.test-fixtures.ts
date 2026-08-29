@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { bytesOf } from "../../../testing-system/bodying.module.code.ts"
+import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import { blobIdOf } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"

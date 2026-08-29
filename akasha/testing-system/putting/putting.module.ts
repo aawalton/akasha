@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const putting = {
   id: "01a04efb-4361-7984-87ce-b338a39e98b3",

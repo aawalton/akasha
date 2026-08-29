@@ -6,8 +6,8 @@ import type { Value } from "../pages-system/indexes/index-entries/index-entries.
 import { schemaIn } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../pages-system/page/properties/slug.text-property.ts"
-import { bytesOf } from "../testing-system/bodying.module.code.ts"
-import { gitIn } from "../testing-system/gitting.module.code.ts"
+import { bytesOf } from "../testing-system/bodying/bodying.module.code.ts"
+import { gitIn } from "../testing-system/gitting/gitting.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname

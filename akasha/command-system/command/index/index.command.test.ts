@@ -7,7 +7,7 @@ import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.mod
 import { id as idPage } from "../../../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../../pages-system/page/properties/slug.text-property.ts"
 import { textProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
-import { gitIn as git } from "../../../testing-system/gitting.module.code.ts"
+import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
 import type { Given } from "../../calling.module.code.ts"
 import { calling } from "../../calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"

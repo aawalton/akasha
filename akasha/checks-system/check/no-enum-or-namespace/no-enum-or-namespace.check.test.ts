@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodiesIn } from "../../../testing-system/bodying.module.code.ts"
+import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { reasonsIn } from "./no-enum-or-namespace.check.code.ts"
 
 const ROOT = "/repo"

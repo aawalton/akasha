@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const walking = {
   id: "01a04ef8-da76-76ad-9345-28b37bd75cdd",

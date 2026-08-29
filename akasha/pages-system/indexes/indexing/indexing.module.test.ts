@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { rootAbove } from "../../../testing-system/rooting/rooting.module.code.ts"
-import { everyFileUnder } from "../../../testing-system/walking.module.code.ts"
+import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
   A,

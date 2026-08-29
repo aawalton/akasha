@@ -3,7 +3,7 @@ import { scratchWorld } from "../../../command-system/scratching.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching.module.code.ts"
-import { put } from "../../../testing-system/putting.module.code.ts"
+import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,

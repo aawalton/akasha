@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const minting = {
   id: "01a04e33-9351-7e79-8041-89abfa036830",

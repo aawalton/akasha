@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const bodying = {
   id: "01a04ee7-be07-7a1b-9f3f-f5e6d4693e70",

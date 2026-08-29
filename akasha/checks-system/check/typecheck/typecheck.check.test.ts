@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { put } from "../../../testing-system/putting.module.code.ts"
+import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { foundOf, omittingIn, reachedBy, typecheck } from "./typecheck.check.code.ts"
 import { IMPORTS_AT, leaving, over, scratch, staged } from "./typecheck.check.test-fixtures.ts"
 

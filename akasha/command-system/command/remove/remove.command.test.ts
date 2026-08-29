@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { refusing } from "../../../testing-system/minting.module.code.ts"
-import { stands } from "../../../testing-system/putting.module.code.ts"
+import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
+import { stands } from "../../../testing-system/putting/putting.module.code.ts"
 import {
   emptiedBy,
   namedIn,

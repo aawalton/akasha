@@ -6,7 +6,7 @@ import {
   headOf,
   stampKept,
 } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { gitIn } from "../../../testing-system/gitting.module.code.ts"
+import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"
 
