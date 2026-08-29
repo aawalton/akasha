@@ -131,11 +131,8 @@ test("a body past what one answer holds is refused rather than cut", () => {
   expect(said.refusals[0]).toContain(`past the ${ANSWER_CEILING} one answer holds`)
 })
 
-test("--full and --seat are refused with what they would have meant", () => {
+test("--seat is refused with what it would have meant", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
-  const full = read(["--full", "--file-path", "akasha/one/held.ts"], givenAt(root))
-  expect(full.code).toBe(1)
-  expect(full.refusals[0]).toContain("comes back whole already")
   const seat = read(["--seat"], givenAt(root))
   expect(seat.code).toBe(1)
   expect(seat.refusals[0]).toContain("what a seat is bound to")
@@ -264,4 +261,36 @@ test("one agent's read is not another agent's", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   read(["--file-path", "akasha/one/held.ts"], givenFor(root))
   expect(readingIn(root, "another-agent", "akasha/one/held.ts")).toBeNull()
+})
+
+test("a body the record already holds comes back as one line", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\ntwo\n" }])
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  const said = read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(said.code).toBe(0)
+  expect(said.report.length).toBe(1)
+  expect(said.report[0]).toContain("you read this body already")
+  expect(said.report[0]).toContain("2 lines")
+})
+
+test("--full returns the body whatever the record holds", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\ntwo\n" }])
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  const said = read(["--full", "--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain("the whole file follows")
+})
+
+test("a body that moved since it was read comes back whole", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "before\n" }])
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  writeFileSync(join(root, "akasha/one/held.ts"), "after\n")
+  const said = read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(said.report.join("\n")).toContain("the whole file follows")
+})
+
+test("an agent whose record holds nothing gets the body whole", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
+  const said = read(["--file-path", "akasha/one/held.ts"], givenAt(root))
+  expect(said.report.join("\n")).toContain("the whole file follows")
 })

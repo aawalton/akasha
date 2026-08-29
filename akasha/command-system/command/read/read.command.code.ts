@@ -2,7 +2,13 @@ import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { bytesAt, textOf } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
-import { blobIdOf, type Discard, discarded, recordRead } from "../../reading.module.code.ts"
+import {
+  blobIdOf,
+  type Discard,
+  discarded,
+  readingIn,
+  recordRead,
+} from "../../reading.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
@@ -19,9 +25,13 @@ const NUMBER_WIDTH = 6
 const LEADING = 8
 
 export const surface: Surface = {
-  taking: [{ said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read whole" }],
+  taking: [
+    { said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read whole" },
+    { said: FULL, takes: "the body even where your record already holds it" },
+  ],
   notes: [
     `${FILE_PATH} repeats, so several files come back from one call.`,
+    "a body your record already holds comes back as one line rather than the file.",
     `a read takes no line range, and one answer holds ${ANSWER_CEILING} bytes.`,
   ],
 }
@@ -33,6 +43,7 @@ export type Target = {
 
 type Meant = {
   readonly paths: readonly string[]
+  readonly full: boolean
   readonly refusal: string | null
 }
 
@@ -60,8 +71,9 @@ export function restCall(calledAs: string, left: readonly Target[]): readonly st
 }
 
 function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ paths: [], refusal: said })
+  const refused = (said: string): Meant => ({ paths: [], full: false, refusal: said })
   const paths: string[] = []
+  let full = false
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at] ?? ""
     if (one === FILE_PATH) {
@@ -72,10 +84,8 @@ function meaning(argv: readonly string[]): Meant {
       continue
     }
     if (one === FULL) {
-      return refused(
-        `${FULL} is what overrides a record of what you last read, and every file this is named ` +
-          "comes back whole already"
-      )
+      full = true
+      continue
     }
     if (one === SEAT) {
       return refused(
@@ -86,7 +96,7 @@ function meaning(argv: readonly string[]): Meant {
     return refused(`\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\``)
   }
   if (paths.length === 0) return refused(`${FILE_PATH} names a file to read, and none was given`)
-  return { paths, refusal: null }
+  return { paths, full, refusal: null }
 }
 
 function aiming(paths: readonly string[], given: Given): Aimed {
@@ -124,6 +134,12 @@ function numbered(body: string): string {
   const lines = body.split("\n")
   if (lines[lines.length - 1] === "") lines.pop()
   return lines.map((line, at) => `${String(at + 1).padStart(NUMBER_WIDTH)}\t${line}`).join("\n")
+}
+
+function alreadyOf(named: string, bytes: Uint8Array): string {
+  const text = textOf(bytes)
+  const held = text === null ? 0 : countLines(text)
+  return `${named} — you read this body already, ${held} lines; nothing follows`
 }
 
 export function linesFor(named: string, bytes: Uint8Array): readonly string[] {
@@ -177,7 +193,12 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
       failed = true
       continue
     }
-    const lines = linesFor(named, bytes)
+    const at = relative(resolve(given.root), absolute)
+    const oid = blobIdOf(bytes)
+    const seen =
+      meant.full || given.agentId === null ? null : readingIn(given.root, given.agentId, at)
+    const lines =
+      seen !== null && seen.oid === oid ? [alreadyOf(named, bytes)] : linesFor(named, bytes)
     const cost = costOf(lines)
     if (cost > ANSWER_CEILING) {
       refusals.push(
@@ -197,11 +218,7 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     spent += cost
     taken += 1
     if (given.agentId !== null && textOf(bytes) !== null) {
-      recordRead(given.root, given.agentId, {
-        path: relative(resolve(given.root), absolute),
-        oid: blobIdOf(bytes),
-        seenAt: Date.now(),
-      })
+      recordRead(given.root, given.agentId, { path: at, oid, seenAt: Date.now() })
     }
   }
   if (taken > 0 && given.agentId === null) {

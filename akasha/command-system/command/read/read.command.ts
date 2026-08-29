@@ -10,7 +10,16 @@ export const read = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A read returns the whole file.",
+      statement:
+        "A read returns the whole file, or says the agent read that body already, and never part of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the agent's record already holds comes back as one line saying so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--full` returns the body whatever the record holds.",
     },
     {
       invariantKind: "departure",
