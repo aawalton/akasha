@@ -97,6 +97,9 @@ test("named paths are taken away and the removal is committed", () => {
   expect(said.code).toBe(0)
   expect(stands(root, HELD)).toBe(false)
   expect(git(root, ["ls-files"]).trim()).toBe("akasha/one/kept.module.ts")
+  expect(said.report[0]).toBe(`${HELD} taken away`)
+  expect(said.report.join("\n")).not.toContain("took away ")
+  expect(said.report.at(-1)).toStartWith("committed as ")
   swept(root)
 })
 

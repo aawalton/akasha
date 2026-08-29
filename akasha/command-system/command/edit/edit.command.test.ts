@@ -185,6 +185,7 @@ test("a file that changed under a call, between its read and its write, refuses 
     dryRun: false,
     glass: null,
     unmoved: [{ path: "akasha/one.ts", was: bytes("what this call read\n") }],
+    saying: () => [],
   })
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("changed after this call read it")
@@ -201,6 +202,7 @@ test("a file that stands as the call read it is landed", () => {
     dryRun: false,
     glass: null,
     unmoved: [{ path: "akasha/one.ts", was: bytes("alpha\n") }],
+    saying: () => [],
   })
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("worked out\n")

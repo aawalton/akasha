@@ -298,15 +298,12 @@ export function remove(argv: readonly string[], given: Given): Answer {
     dryRun: read.dryRun,
     glass: glass.glass,
     unmoved: [],
+    saying: (landed) => [
+      ...landed.took.map((one) => `${one} taken away`),
+      ...wentWith(root, paths, held.under, beside),
+    ],
   }
   const said = landingAsked({ ...given, root }, asked)
-  if (said.code !== 0) return said
-  const found = read.dryRun
-    ? wouldGo(root, paths, held.under, beside)
-    : wentWith(root, paths, held.under, beside)
-  return answering(
-    read.dryRun ? [...found, ...said.report] : [...said.report, ...found],
-    [],
-    0
-  )
+  if (said.code !== 0 || !read.dryRun) return said
+  return answering([...wouldGo(root, paths, held.under, beside), ...said.report], [], 0)
 }

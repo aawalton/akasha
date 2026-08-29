@@ -41,6 +41,15 @@ export const landing = {
       invariantKind: "departure",
       statement: "Gating without writing and writing without gating are refused together.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The checks are reached only to judge, so reaching a command never asks them to load.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Checks that will not load refuse the change; only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
+    },
   ],
   intent: [
     {

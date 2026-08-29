@@ -1,10 +1,18 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join, relative, resolve } from "node:path"
-import { checksAt, checksIn, judgingBy } from "../../../checks-system/checking.module.code.ts"
 import type { Judged, Judging } from "../../../checks-system/judging.module.code.ts"
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change, Landed } from "../../landing.module.code.ts"
-import { baseOf, bodyAt, holding, landing, leavingOf } from "../../landing.module.code.ts"
+import {
+  baseOf,
+  bodyAt,
+  CHECKING_AT,
+  gateBuilt,
+  holding,
+  landing,
+  leavingOf,
+  NO_GATE,
+} from "../../landing.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 
@@ -22,8 +30,6 @@ const REMOVE = "--remove"
 
 const AKASHA = "akasha"
 
-const PATCH = "patch"
-
 const NOTHING = "nothing was judged and nothing was written"
 
 const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
@@ -35,12 +41,15 @@ export type Held = {
   readonly was: Uint8Array
 }
 
+export type Saying = (said: Landed) => readonly string[]
+
 export type Asked = {
   readonly changes: readonly Change[]
   readonly message: string
   readonly dryRun: boolean
   readonly glass: string | null
   readonly unmoved: readonly Held[]
+  readonly saying: Saying
 }
 
 export type Trouble = {
@@ -201,28 +210,50 @@ function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   }
 }
 
-function gateFor(root: string, asked: Asked): Judging {
-  const held = judgingBy(asked.glass === null ? checksAt(checksIn(root), PATCH) : [])
+export function unloadable(why: string): Answer {
+  return {
+    report: [],
+    refusals: [
+      `the checks could not be loaded from ${CHECKING_AT}, so no check could run — ${why}`,
+      `${NOTHING} — say \`${BREAK_GLASS} <reason>\` to land without the checks, and both the reason and this stand in the commit`,
+    ],
+    code: 3,
+  }
+}
+
+function gateFor(asked: Asked, held: Judging): Judging {
   return asked.unmoved.length === 0 ? held : alsoUnmoved(held, asked.unmoved)
 }
 
-function messageWith(asked: Asked): string {
+function messageWith(asked: Asked, broken: string | null): string {
   if (asked.glass === null) return asked.message
-  return `${asked.message}\n\nChecks-bypassed: ${asked.glass}`
+  const held = `${asked.message}\n\nChecks-bypassed: ${asked.glass}`
+  return broken === null ? held : `${held}\nChecks-unloadable: ${broken}`
 }
 
-function reportOf(said: Landed, asked: Asked): readonly string[] {
-  const found = [
-    ...said.wrote.map((one) => `wrote ${one}`),
-    ...said.took.map((one) => `took away ${one}`),
-  ]
-  if (asked.glass !== null) found.push(`no check ran — the glass was broken for: ${asked.glass}`)
+function reportOf(said: Landed, asked: Asked, broken: string | null): readonly string[] {
+  const found = [...asked.saying(said)]
+  if (asked.glass !== null) {
+    found.push(`no check ran — the glass was broken for: ${asked.glass}`)
+    if (broken !== null) {
+      found.push(
+        `the checks could not be loaded from ${CHECKING_AT} either, so none could have run — ${broken}`
+      )
+    }
+  }
   found.push(
     said.commit === null
       ? "nothing was committed — what was asked for already stands"
-      : `committed ${said.commit}`
+      : `committed as ${said.commit}`
   )
   return found
+}
+
+export function wroteAndTook(said: Landed): readonly string[] {
+  return [
+    ...said.wrote.map((one) => `wrote ${one}`),
+    ...said.took.map((one) => `took away ${one}`),
+  ]
 }
 
 export function counted(many: number, one: string): string {
@@ -266,11 +297,14 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
-  const gate = gateFor(given.root, asked)
+  const built = gateBuilt(given.root)
+  if ("broken" in built && asked.glass === null) return unloadable(built.broken)
+  const broken = "broken" in built ? built.broken : null
+  const gate = gateFor(asked, asked.glass === null && "gate" in built ? built.gate : NO_GATE)
   if (asked.dryRun) return reporting(given.root, asked, gate)
-  const said = landing(given.root, asked.changes, messageWith(asked), gate, given.writer)
+  const said = landing(given.root, asked.changes, messageWith(asked, broken), gate, given.writer)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  return { report: reportOf(said, asked), refusals: [], code: 0 }
+  return { report: reportOf(said, asked, broken), refusals: [], code: 0 }
 }
 
 type Pair = {
@@ -397,5 +431,6 @@ export function write(argv: readonly string[], given: Given): Answer {
     dryRun: argv.includes(DRY_RUN),
     glass: glass.glass,
     unmoved: [],
+    saying: wroteAndTook,
   })
 }

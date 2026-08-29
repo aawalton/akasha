@@ -342,8 +342,15 @@ export function move(argv: readonly string[], given: Given): Answer {
   }
   const message =
     said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
-  const asked: Asked = { changes, message, dryRun: read.dryRun, glass: glass.glass, unmoved: [] }
+  const asked: Asked = {
+    changes,
+    message,
+    dryRun: read.dryRun,
+    glass: glass.glass,
+    unmoved: [],
+    saying: () => carrying(sided.sides, false),
+  }
   const landed = landingAsked({ ...given, root }, asked)
-  if (landed.code !== 0) return landed
-  return answering([...carrying(sided.sides, read.dryRun), ...landed.report], [], 0)
+  if (landed.code !== 0 || !read.dryRun) return landed
+  return answering([...carrying(sided.sides, true), ...landed.report], [], 0)
 }

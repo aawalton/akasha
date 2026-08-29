@@ -13,6 +13,8 @@ const ANSWERS = `export function held(argv, given) {
 
 const ANSWERS_NOTHING = `export const held = 1\n`
 
+const WILL_NOT_LOAD = `export function held( {\n`
+
 function rootWith(
   named: readonly { readonly slug: string; readonly body: string; readonly also?: string }[]
 ): string {
@@ -77,6 +79,15 @@ test("a command page whose code answers to nothing callable is refused", () => {
   const said = calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("answers to nothing that can be called")
+  rmSync(root, { recursive: true })
+})
+
+test("a command page whose code will not load is refused with why, not with a guess", () => {
+  const root = rootWith([{ slug: "held", body: WILL_NOT_LOAD }])
+  const said = calling(["held"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("could not be loaded — ")
+  expect(said.refusals[0]).not.toContain("answers to nothing")
   rmSync(root, { recursive: true })
 })
 

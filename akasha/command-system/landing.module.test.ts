@@ -4,7 +4,7 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Judging } from "../checks-system/judging.module.code.ts"
-import { baseOf, landing, leavingOf } from "./landing.module.code.ts"
+import { NO_GATE, baseOf, gateBuilt, landing, leavingOf, oneLine } from "./landing.module.code.ts"
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -150,4 +150,27 @@ test("the checks are shown every path the change touches", () => {
   )
   expect(seen).toEqual(["a.txt", "b.txt"])
   rmSync(root, { recursive: true })
+})
+
+test("the gate is built by reaching the checks late, and a root naming none names none", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const said = gateBuilt(root)
+  expect("gate" in said).toBe(true)
+  expect("gate" in said ? said.gate.named : ["broken"]).toEqual([])
+  rmSync(root, { recursive: true })
+})
+
+test("a gate that could not be built judges nothing rather than passing everything", () => {
+  expect(NO_GATE.named).toEqual([])
+  expect(
+    NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], at: () => null })
+  ).toEqual([])
+})
+
+test("why a gate could not be built is carried as one line a commit trailer can hold", () => {
+  expect(oneLine("  Expected identifier\n  but found end of file  ")).toBe(
+    "Expected identifier but found end of file"
+  )
+  expect(oneLine("held ".repeat(200))).toEndWith("...")
+  expect(oneLine("held ".repeat(200)).length).toBe(240)
 })

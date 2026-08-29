@@ -1,7 +1,110 @@
+import { execFileSync, spawnSync } from "node:child_process"
+import { appendFileSync, cpSync, mkdirSync, mkdtempSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { join } from "node:path"
 import { expect, test } from "bun:test"
-import { INPUT, OK, UNCLASSIFIED, answering, outsideOf, rootOf, saidOf } from "./cli.module.code.ts"
+import {
+  INPUT,
+  OK,
+  OPERATIONAL,
+  UNCLASSIFIED,
+  answering,
+  outsideOf,
+  rootOf,
+  saidOf,
+} from "./cli.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
+
+const DISPATCHER = "akasha/command-system/cli.module.code.ts"
+
+const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
+
+const IDENTITY_AT = ".git/data/index/identity"
+
+const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
+
+const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
+
+const REFUSES_PAGE = `export const refuses = {
+  id: "${ID}",
+  pageTypeSlug: "check",
+  slug: "refuses",
+  definition: "a check refusing everything",
+  code: "ts",
+  runsOn: ["patch"],
+}
+`
+
+const REFUSES_CODE = `export function refuses(leaving) {
+  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
+}
+`
+
+function git(root: string, argv: readonly string[]): string {
+  return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
+}
+
+function checkoutOf(): string {
+  const from = rootOf(import.meta.path)
+  const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
+  cpSync(join(from, "akasha"), join(root, "akasha"), { recursive: true })
+  for (const one of CARRIED) cpSync(join(from, one), join(root, one))
+  const at = "akasha/refuses.check.ts"
+  writeFileSync(join(root, at), REFUSES_PAGE)
+  writeFileSync(join(root, "akasha/refuses.check.code.ts"), REFUSES_CODE)
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "first"])
+  symlinkSync(join(from, "node_modules"), join(root, "node_modules"))
+  const dir = join(root, IDENTITY_AT, "check", "slug")
+  mkdirSync(dir, { recursive: true })
+  writeFileSync(join(dir, "refuses.jsonl"), `${JSON.stringify({ path: at, id: ID })}\n`)
+  cpSync(join(from, IDENTITY_AT, "command"), join(root, IDENTITY_AT, "command"), {
+    recursive: true,
+  })
+  return root
+}
+
+function ran(root: string, argv: readonly string[]): { readonly said: string; readonly code: number } {
+  const held = spawnSync(process.execPath, [join(root, DISPATCHER), ...argv], {
+    encoding: "utf8",
+    cwd: root,
+    env: { ...process.env, AKASHA_ROOT: root },
+  })
+  return { said: `${held.stdout}${held.stderr}`, code: held.status ?? UNCLASSIFIED }
+}
+
+test("the glass carries a change past checks that cannot be loaded at all", () => {
+  const root = checkoutOf()
+  const from = join(root, "body.txt")
+  writeFileSync(from, "export const held = 1\n")
+  const naming = ["write", "--file-path", "akasha/held.ts", "--content-file", from]
+
+  const judged = ran(root, [...naming, "--message", "held arrives"])
+  expect(judged.code).toBe(OPERATIONAL)
+  expect(judged.said).toContain("refused for the test")
+
+  appendFileSync(join(root, CHECKING_AT), "export function judgedOver( {\n")
+  git(root, ["commit", "--quiet", "-m", "the checks stop parsing", "--", CHECKING_AT])
+
+  const gated = ran(root, [...naming, "--message", "held arrives"])
+  expect(gated.code).toBe(OPERATIONAL)
+  expect(gated.said).toContain(`the checks could not be loaded from ${CHECKING_AT}`)
+  expect(gated.said).toContain("nothing was judged and nothing was written")
+
+  const broke = ran(root, [...naming, "--message", "held arrives", "--break-the-glass", "mid-refactor"])
+  expect(broke.code).toBe(OK)
+  expect(broke.said).toContain("wrote akasha/held.ts")
+  expect(broke.said).toContain("no check ran — the glass was broken for: mid-refactor")
+  expect(broke.said).toContain(`from ${CHECKING_AT} either, so none could have run`)
+  const body = git(root, ["log", "-1", "--pretty=%B"])
+  expect(body).toContain("Checks-bypassed: mid-refactor")
+  expect(body).toContain("Checks-unloadable: BuildMessage:")
+  rmSync(root, { recursive: true })
+}, 60000)
 
 test("the root is the folder two above the dispatcher when nothing states one", () => {
   expect(rootOf(AT)).toBe("/somewhere")

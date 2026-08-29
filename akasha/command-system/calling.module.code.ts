@@ -35,13 +35,18 @@ export function commandsIn(root: string): readonly string[] {
   return slugsOfType(root, COMMAND)
 }
 
-function answeringIn(at: string, slug: string): Answering | null {
-  let mod: Record<string, unknown>
+export function reachedIn(
+  at: string
+): { readonly mod: Record<string, unknown> } | { readonly why: string } {
   try {
-    mod = reach_(at) as Record<string, unknown>
-  } catch {
-    return null
+    return { mod: reach_(at) as Record<string, unknown> }
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return { why: why.replace(/\s+/g, " ").trim() }
   }
+}
+
+function answeringOf(mod: Record<string, unknown>, slug: string): Answering | null {
   const named = mod[camel(slug)]
   if (typeof named === "function") return named as Answering
   const every = Object.values(mod).filter((one) => typeof one === "function")
@@ -79,7 +84,13 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
     )
   }
   const at = codeBeside(join(root, first.path))
-  const answering = answeringIn(at, named)
+  const reached = reachedIn(at)
+  if ("why" in reached) {
+    return refusing(
+      `\`${named}\` is a command page, and ${codeBeside(first.path)} could not be loaded — ${reached.why}`
+    )
+  }
+  const answering = answeringOf(reached.mod, named)
   if (answering === null) {
     return refusing(
       `\`${named}\` is a command page, and ${codeBeside(first.path)} answers to nothing that can be called`

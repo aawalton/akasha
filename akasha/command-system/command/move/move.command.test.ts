@@ -101,6 +101,10 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(stands(root, HELD)).toBe(false)
   expect(git(root, ["ls-files"]).trim()).toBe(THREE)
   expect(readFileSync(join(root, THREE), "utf8")).toBe(PAGE)
+  expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
+  expect(said.report.join("\n")).not.toContain("wrote ")
+  expect(said.report.join("\n")).not.toContain("took away ")
+  expect(said.report.at(-1)).toStartWith("committed as ")
   swept(root)
 })
 

@@ -9,6 +9,7 @@ import {
   writeFileSync,
   writeSync,
 } from "node:fs"
+import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import type { Judging, Leaving } from "../checks-system/judging.module.code.ts"
 
@@ -38,6 +39,49 @@ const LOCK_AT = ".git/akasha-landing.lock"
 const HELD_FOR = 120000
 
 const WAITED = 50
+
+const CHECKING = "../checks-system/checking.module.code.ts"
+
+export const CHECKING_AT = "akasha/checks-system/checking.module.code.ts"
+
+const PATCH = "patch"
+
+const SAID_AT_MOST = 240
+
+const reach_ = createRequire(import.meta.url)
+
+export const NO_GATE: Judging = { named: [], over: () => [] }
+
+export type Built = { readonly gate: Judging } | { readonly broken: string }
+
+type Checking = {
+  readonly checksIn: (root: string) => readonly unknown[]
+  readonly checksAt: (every: readonly unknown[], phase: string) => readonly unknown[]
+  readonly judgingBy: (every: readonly unknown[]) => Judging
+}
+
+export function oneLine(said: string): string {
+  const held = said.replace(/\s+/g, " ").trim()
+  return held.length <= SAID_AT_MOST ? held : `${held.slice(0, SAID_AT_MOST - 3)}...`
+}
+
+function checkingLoaded(): Checking {
+  const held = reach_(CHECKING) as Partial<Checking>
+  const named = [held.checksIn, held.checksAt, held.judgingBy]
+  if (named.some((one) => typeof one !== "function")) {
+    throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
+  }
+  return held as Checking
+}
+
+export function gateBuilt(root: string): Built {
+  try {
+    const held = checkingLoaded()
+    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), PATCH)) }
+  } catch (thrown) {
+    return { broken: oneLine(thrown instanceof Error ? thrown.message : String(thrown)) }
+  }
+}
 
 function gitIn(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 })

@@ -209,5 +209,6 @@ export function edit(argv: readonly string[], given: Given): Answer {
     dryRun: argv.includes(DRY_RUN),
     glass: glass.glass,
     unmoved,
+    saying: (said) => said.wrote.map((one) => `edited ${one}`),
   })
 }
