@@ -192,34 +192,41 @@ export function knownIn(root: string): Known {
 
 const AN_ID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/
 
-export function reaches(named: string, wanted: string | null, known: Known): string {
+export type Reached = { readonly id: string } | { readonly refused: string }
+
+function only(found: readonly Standing[]): Standing | null {
+  const one = found[0]
+  return found.length === 1 && one !== undefined ? one : null
+}
+
+function among(named: string, found: readonly Standing[]): string {
+  return `\`${named}\` narrows to ${found.length} pages and must name its page type — ${found
+    .map((one) => one.path)
+    .join(", ")}`
+}
+
+export function reaches(named: string, wanted: string | null, known: Known): Reached {
   if (AN_ID.test(named)) {
-    const one = known.byId(named)
-    if (one === null) throw new Error(`no page carries the id \`${named}\``)
-    return named
+    return known.byId(named) === null ? { refused: `no page carries the id \`${named}\`` } : { id: named }
   }
   const cut = named.indexOf("/")
   if (cut !== -1) {
     const pageTypeSlug = named.slice(0, cut)
     const slug = named.slice(cut + 1)
     const found = known.at(pageTypeSlug, slug)
-    if (found.length === 1 && found[0] !== undefined) return found[0].id
-    if (found.length === 0) throw new Error(`no \`${pageTypeSlug}\` carries the slug \`${slug}\``)
-    throw new Error(
-      `\`${named}\` is carried by ${found.length} pages — ` +
-        found.map((one) => one.path).join(", ")
-    )
+    const one = only(found)
+    if (one !== null) return { id: one.id }
+    if (found.length === 0) return { refused: `no \`${pageTypeSlug}\` carries the slug \`${slug}\`` }
+    return { refused: among(named, found) }
   }
-  if (wanted === null) throw new Error(`\`${named}\` names no page type and its property declares no target`)
-  const found = known
-    .admitting(wanted)
-    .flatMap((pageTypeSlug) => known.at(pageTypeSlug, named))
-  if (found.length === 1 && found[0] !== undefined) return found[0].id
-  if (found.length === 0) throw new Error(`no page admitting \`${wanted}\` carries the slug \`${named}\``)
-  throw new Error(
-    `\`${named}\` narrows to ${found.length} pages and must name its page type — ` +
-      found.map((one) => one.path).join(", ")
-  )
+  if (wanted === null) {
+    return { refused: `\`${named}\` names no page type and its property declares no target` }
+  }
+  const found = known.admitting(wanted).flatMap((pageTypeSlug) => known.at(pageTypeSlug, named))
+  const one = only(found)
+  if (one !== null) return { id: one.id }
+  if (found.length === 0) return { refused: `no page admitting \`${wanted}\` carries the slug \`${named}\`` }
+  return { refused: among(named, found) }
 }
 
 function namesIn(held: unknown): readonly string[] {
@@ -228,25 +235,37 @@ function namesIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
-export function relationIn(value: Value, path: string, known: Known): readonly Entry[] {
+export type Filed = {
+  readonly entries: readonly Entry[]
+  readonly refused: readonly string[]
+}
+
+const NOTHING_FILED: Filed = { entries: [], refused: [] }
+
+export function relationIn(value: Value, path: string, known: Known): Filed {
   const id = textAt(value, "id")
-  if (id === null) return []
+  if (id === null) return NOTHING_FILED
   const line = JSON.stringify({ path })
-  const found: Entry[] = []
+  const entries: Entry[] = []
+  const refused: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (NOT_A_RELATION.has(key) || held === null) continue
     const propertySlug = kebab(key)
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(held)) {
-      const targetId = reaches(named, wanted, known)
-      found.push({
-        at: join("relation", "page", "id", targetId, propertySlug, `${id}.jsonl`),
+      const reached = reaches(named, wanted, known)
+      if ("refused" in reached) {
+        refused.push(`${path}: \`${propertySlug}\` — ${reached.refused}`)
+        continue
+      }
+      entries.push({
+        at: join("relation", "page", "id", reached.id, propertySlug, `${id}.jsonl`),
         line,
       })
     }
   }
-  return found
+  return { entries, refused }
 }
 
 type Pending = {
@@ -287,6 +306,78 @@ function settleOver(
   }
 }
 
+
+function pagesUnder(tree: string): readonly string[] {
+  const named = /^(.+)\.([a-z0-9-]+)\.ts$/
+  const found: string[] = []
+  const walk = (at: string): void => {
+    for (const one of readdirSync(at, { withFileTypes: true })) {
+      const here = join(at, one.name)
+      if (one.isDirectory()) walk(here)
+      else if (named.test(one.name)) found.push(here)
+    }
+  }
+  walk(tree)
+  const pageTypes = new Set<string>(["page-type"])
+  for (const one of found) {
+    const said = named.exec(one.slice(one.lastIndexOf("/") + 1))
+    if (said !== null && said[2] === "page-type" && said[1] !== undefined) pageTypes.add(said[1])
+  }
+  return found.filter((one) => {
+    const said = named.exec(one.slice(one.lastIndexOf("/") + 1))
+    return said !== null && said[2] !== undefined && pageTypes.has(said[2])
+  })
+}
+
+function filesUnder(at: string): readonly string[] {
+  if (!existsSync(at)) return []
+  const found: string[] = []
+  const walk = (here: string): void => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else found.push(next)
+    }
+  }
+  walk(at)
+  return found
+}
+
+function reconcile(under: string, entries: readonly Entry[], root: string): void {
+  const wanted = new Map<string, Set<string>>()
+  for (const one of entries) {
+    const held = wanted.get(one.at) ?? new Set<string>()
+    held.add(one.line)
+    wanted.set(one.at, held)
+  }
+  for (const one of filesUnder(under)) {
+    if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
+  }
+  for (const [at, lines] of wanted) keepWhole(join(root, at), [...lines].sort(), root)
+}
+
+export function rebuiltFrom(
+  tree: string,
+  root: string
+): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
+  const held: { readonly path: string; readonly value: Value }[] = []
+  for (const path of pagesUnder(tree)) {
+    const value = valueAt(path)
+    if (value !== null) held.push({ path, value })
+  }
+  const identity = held.flatMap((one) => identityIn(one.value, one.path))
+  reconcile(join(root, "identity"), identity, root)
+  const known = knownIn(root)
+  const filed = held.map((one) => relationIn(one.value, one.path, known))
+  const relation = filed.flatMap((one) => one.entries)
+  reconcile(join(root, "relation"), relation, root)
+  return {
+    pages: held.length,
+    entries: identity.length + relation.length,
+    refused: filed.flatMap((one) => one.refused),
+  }
+}
+
 export function indexingAt(root: string): Indexing {
   const pending = new Map<string, Pending>()
 
@@ -313,11 +404,14 @@ export function indexingAt(root: string): Indexing {
       )
 
       const known = knownIn(root)
+      const was = held.map((one) => (one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known)))
+      const now = held.map((one) => (one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known)))
       settleOver(
         root,
-        held.flatMap((one) => (one.was === null ? [] : relationIn(one.was, one.path, known))),
-        held.flatMap((one) => (one.now === null ? [] : relationIn(one.now, one.path, known)))
+        was.flatMap((one) => one.entries),
+        now.flatMap((one) => one.entries)
       )
+      return now.flatMap((one) => one.refused)
     },
   }
 }

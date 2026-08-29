@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { dirname, join } from "node:path"
-import { indexingAt } from "./indexing.module.code.ts"
+import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 
 type Held = Record<string, unknown>
 
@@ -49,6 +49,11 @@ function linesIn(at: string): readonly string[] {
 }
 
 const VOCABULARY: readonly (readonly [string, Held])[] = [
+  ["page.page-type.ts", { id: "0", pageTypeSlug: "page-type", slug: "page", extendsSlug: null }],
+  [
+    "page-property-type.page-type.ts",
+    { id: "5", pageTypeSlug: "page-type", slug: "page-property-type", extendsSlug: "page" },
+  ],
   ["domain.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }],
   ["module.page-type.ts", { id: "2", pageTypeSlug: "page-type", slug: "module", extendsSlug: "domain" }],
   [
@@ -204,7 +209,61 @@ test("a bare value narrowing to more than one page is refused rather than resolv
   indexing = indexingAt(root)
   indexing.wrote(put(tree, "a.domain.ts", value), bodyOf(value), null)
 
-  expect(() => indexing.settle()).toThrow(/narrows to 2 pages/)
+  const refused = indexing.settle() as unknown as readonly string[]
+  expect(refused.join(" ")).toMatch(/narrows to 2 pages/)
+  expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
+  rmSync(tree, { recursive: true, force: true })
+  rmSync(root, { recursive: true, force: true })
+})
+
+function everyFileUnder(at: string): readonly string[] {
+  const found: string[] = []
+  const walk = (here: string): void => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else found.push(`${next.slice(at.length)} ${readFileSync(next, "utf8")}`)
+    }
+  }
+  walk(at)
+  return found.sort()
+}
+
+test("a rebuild from the pages agrees with the index a write left", () => {
+  const tree = treeAt()
+  const landed = rootAt()
+  const indexing = indexingAt(landed)
+  for (const [at, value] of VOCABULARY) indexing.wrote(put(tree, at, value), bodyOf(value), null)
+  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
+  const a = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  indexing.wrote(put(tree, "b.domain.ts", b), bodyOf(b), null)
+  indexing.wrote(put(tree, "a.domain.ts", a), bodyOf(a), null)
+  indexing.settle()
+
+  const rebuilt = rootAt()
+  rebuiltFrom(tree, rebuilt)
+
+  expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
+  rmSync(tree, { recursive: true, force: true })
+  rmSync(landed, { recursive: true, force: true })
+  rmSync(rebuilt, { recursive: true, force: true })
+})
+
+test("a rebuild takes away an entry no page carries", () => {
+  const tree = treeAt()
+  const root = rootAt()
+  const kind = { id: "1", pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }
+  put(tree, "domain.page-type.ts", kind)
+  put(tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a" })
+  rebuiltFrom(tree, root)
+
+  const stale = slugFile(root, "domain", "gone")
+  mkdirSync(dirname(stale), { recursive: true })
+  writeFileSync(stale, `${JSON.stringify({ path: "nowhere", id: C })}\n`)
+  rebuiltFrom(tree, root)
+
+  expect(existsSync(stale)).toBe(false)
+  expect(existsSync(slugFile(root, "domain", "a"))).toBe(true)
   rmSync(tree, { recursive: true, force: true })
   rmSync(root, { recursive: true, force: true })
 })
