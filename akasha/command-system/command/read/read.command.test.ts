@@ -1,47 +1,27 @@
 import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Answer, Given } from "../../calling.module.code.ts"
 import { blobIdOf, readingIn } from "../../reading.module.code.ts"
-import { scratchWorld } from "../../scratching.module.code.ts"
-import { ANSWER_CEILING, costOf, readWith, surface, tellingWith } from "./read.command.code.ts"
-
-const CALLED_AS = "akasha read"
-
-const scratch = scratchWorld()
+import { ANSWER_CEILING, costOf, readWith, surface } from "./read.command.code.ts"
+import {
+  AGENT,
+  bodyOf,
+  CALLED_AS,
+  givenAt,
+  givenFor,
+  HELD,
+  lettered,
+  MANY,
+  manyFiles,
+  namingAll,
+  read,
+  rootWith,
+  scratch,
+  telling,
+} from "./read.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function rootWith(
-  named: readonly { readonly at: string; readonly body: string | Uint8Array }[]
-): string {
-  const root = scratch.rootFor("akasha-read-")
-  for (const one of named) {
-    const at = join(root, one.at)
-    mkdirSync(at.slice(0, at.lastIndexOf("/")), { recursive: true })
-    writeFileSync(at, one.body)
-  }
-  return root
-}
-
-function givenAt(root: string) {
-  return { root, calledAs: CALLED_AS, from: root, writer: null, agentId: null }
-}
-
-const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
-
-function givenFor(root: string) {
-  return { root, calledAs: CALLED_AS, from: root, writer: null, agentId: AGENT }
-}
-
-function bodyOf(said: string): Uint8Array {
-  return new TextEncoder().encode(said)
-}
-
-function read(argv: readonly string[], given: Given): Answer {
-  return readWith(argv, given, null)
-}
 
 test("a file inside akasha comes back whole and line-numbered", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\ntwo\nthree\n" }])
@@ -145,25 +125,6 @@ test("an argument this does not take is a caller mistake", () => {
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not an argument this takes")
 })
-
-const MANY = 12
-
-const EACH = 40
-
-function manyFiles(): readonly { readonly at: string; readonly body: string }[] {
-  const made: { readonly at: string; readonly body: string }[] = []
-  for (let one = 0; one < MANY; one += 1) {
-    const line = `${"x".repeat(70)}\n`
-    made.push({ at: `akasha/many/file-${one}.ts`, body: line.repeat(EACH) })
-  }
-  return made
-}
-
-function namingAll(): readonly string[] {
-  const said: string[] = []
-  for (let one = 0; one < MANY; one += 1) said.push("--file-path", `akasha/many/file-${one}.ts`)
-  return said
-}
 
 test("more than one answer holds comes back as fewer files and a call for the rest", () => {
   const root = rootWith(manyFiles())
@@ -282,8 +243,6 @@ test("--full returns the body whatever the record holds", () => {
   expect(said.report.join("\n")).toContain("the whole file follows")
 })
 
-const HELD = "akasha/one/held.ts"
-
 test("a body that moved where git holds nothing comes back whole and says why", () => {
   const root = rootWith([{ at: HELD, body: "before\n" }])
   read(["--file-path", HELD], givenFor(root))
@@ -293,18 +252,6 @@ test("a body that moved where git holds nothing comes back whole and says why", 
   expect(said.report[0]).toContain("the body you read is not in git")
   expect(said.report[0]).toContain("the whole file follows, 1 lines")
 })
-
-function lettered(many: number): string {
-  const said: string[] = []
-  for (let one = 0; one < many; one += 1) said.push(`line ${one} ${"x".repeat(60)}`)
-  return `${said.join("\n")}\n`
-}
-
-function telling(was: Uint8Array | null, now: string): readonly string[] {
-  const bytes = bodyOf(now)
-  const seen = { path: HELD, oid: blobIdOf(was ?? bodyOf("elsewhere\n")), seenAt: 1 }
-  return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
-}
 
 test("a body that moved since it was read comes back as what changed", () => {
   const now = lettered(80).replace("line 40 ", "line forty ")

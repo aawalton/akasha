@@ -8,6 +8,7 @@ export const read = {
     "the command returning each akasha file it is named, whole or as what changed since the agent read it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
