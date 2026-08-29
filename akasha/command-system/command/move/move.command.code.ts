@@ -6,6 +6,13 @@ import { everyPage, indexIn } from "../../../data-system/index/index-reading.mod
 import type { Answer, Given } from "../../calling.module.code.ts"
 import type { Change } from "../../landing.module.code.ts"
 import { landing } from "../../landing.module.code.ts"
+import {
+  DRY_RUN,
+  landingAsked,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+} from "../write/write.command.code.ts"
 
 const AKASHA = "akasha"
 
@@ -17,7 +24,9 @@ const FROM = "--from"
 
 const TO = "--to"
 
-const MESSAGE = "--message"
+const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE]
+
+const BARE = [DRY_RUN]
 
 const RELATIVE = /^\.\.?\//
 
@@ -33,31 +42,34 @@ export type Pair = {
 }
 
 export type Read =
-  | { readonly pairs: readonly Pair[]; readonly message: string | null }
+  | { readonly pairs: readonly Pair[]; readonly dryRun: boolean }
   | { readonly refused: string }
 
 export function pairsIn(argv: readonly string[]): Read {
   const pairs: Pair[] = []
   let pending: string | null = null
-  let message: string | null = null
+  let dryRun = false
   let at = 0
   while (at < argv.length) {
     const token = argv[at]
     if (token === undefined) break
-    if (token !== FROM && token !== TO && token !== MESSAGE) {
+    if (BARE.includes(token)) {
+      dryRun = true
+      at = at + 1
+      continue
+    }
+    if (!VALUED.includes(token)) {
       return {
         refused: `\`${token}\` is not a flag this takes — a move names its sides as \`${FROM} <path> ${TO} <path>\``,
       }
     }
     const value = argv[at + 1]
-    if (value === undefined || (value.startsWith("-") && token !== MESSAGE)) {
+    const carries = token === MESSAGE || token === MESSAGE_FILE
+    if (value === undefined || (value.startsWith("-") && !carries)) {
       return { refused: `${token} needs a value, and the line ends or names another flag` }
     }
     at = at + 2
-    if (token === MESSAGE) {
-      message = value
-      continue
-    }
+    if (carries) continue
     if (token === FROM) {
       if (pending !== null) {
         return { refused: `${FROM} ${pending} has no ${TO} — each pair names both sides` }
@@ -74,7 +86,7 @@ export function pairsIn(argv: readonly string[]): Read {
   if (pending !== null) {
     return { refused: `${FROM} ${pending} has no ${TO} — each pair names both sides` }
   }
-  return { pairs, message }
+  return { pairs, dryRun }
 }
 
 export function underAkasha(root: string, from: string, named: string): string | null {
@@ -275,12 +287,31 @@ function sidedIn(
   return { sides }
 }
 
+function carrying(sides: readonly Sided[], dry: boolean): readonly string[] {
+  const report = sides
+    .filter((one) => one.named)
+    .map((one) => `${one.from} ${dry ? "would move to" : "moved to"} ${one.to}`)
+  const beside = sides.filter((one) => !one.named)
+  if (beside.length > 0) {
+    const said = beside.map((one) => `${one.from} to ${one.to}`).join(", ")
+    report.push(
+      dry
+        ? `these stand beside what you named and would go with it — ${said}`
+        : `these stood beside what you named and went with it — ${said}`
+    )
+  }
+  report.push(NOT_ESTABLISHED)
+  return report
+}
+
 export function move(argv: readonly string[], given: Given): Answer {
   const read = pairsIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
   if (read.pairs.length === 0) {
     return answering([], [`name at least one pair to move, as \`${FROM} <path> ${TO} <path>\``], 1)
   }
+  const said = messageIn(argv, VALUED)
+  if ("refusals" in said) return answering([], said.refusals, 1)
   const root = resolve(given.root)
   const sided = sidedIn(root, given, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
@@ -307,21 +338,18 @@ export function move(argv: readonly string[], given: Given): Answer {
     changes.push({ path: one.from, body: null })
   }
   const message =
-    read.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
-  const said = landing(root, changes, message, judgingIn(root, "patch"), given.writer)
-  if ("refusals" in said) return answering([], said.refusals, 3)
-  const beside = sided.sides.filter((one) => !one.named)
-  const report = sided.sides
-    .filter((one) => one.named)
-    .map((one) => `${one.from} moved to ${one.to}`)
-  if (beside.length > 0) {
-    report.push(
-      `these stood beside what you named and went with it — ${beside
-        .map((one) => `${one.from} to ${one.to}`)
-        .join(", ")}`
+    said.message ?? `move ${sided.sides.map((one) => `${one.from} to ${one.to}`).join(", ")}`
+  if (read.dryRun) {
+    const gated = landingAsked(
+      { ...given, root },
+      { changes, message, dryRun: true, glass: null, unmoved: [] }
     )
+    if (gated.code !== 0) return gated
+    return answering([...carrying(sided.sides, true), ...gated.report], [], 0)
   }
-  report.push(NOT_ESTABLISHED)
-  if (said.commit !== null) report.push(`committed as ${said.commit}`)
+  const landed = landing(root, changes, message, judgingIn(root, "patch"), given.writer)
+  if ("refusals" in landed) return answering([], landed.refusals, 3)
+  const report = [...carrying(sided.sides, false)]
+  if (landed.commit !== null) report.push(`committed as ${landed.commit}`)
   return answering(report, [], 0)
 }

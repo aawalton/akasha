@@ -4,7 +4,14 @@ import { tmpdir } from "node:os"
 import { join } from "node:path"
 import { expect, test } from "bun:test"
 import type { Given } from "../../calling.module.code.ts"
-import { emptiedBy, namedIn, remove, underAkasha } from "./remove.command.code.ts"
+import {
+  emptiedBy,
+  namedIn,
+  pruneEmptied,
+  remove,
+  underAkasha,
+  wouldEmpty,
+} from "./remove.command.code.ts"
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -184,9 +191,127 @@ test("naming no path is refused rather than committed empty", () => {
 })
 
 test("a flag the removal does not take is refused rather than read as a path", () => {
-  const said = namedIn(["--dry-run", "akasha/one/held.module.ts"])
+  const said = namedIn(["--force", "akasha/one/held.module.ts"])
   expect("refused" in said).toBe(true)
   expect("refused" in said ? said.refused : "").toContain("is not a flag this takes")
+})
+
+test("a dry run takes nothing away and writes nothing at all", () => {
+  const root = repoWith({
+    "akasha/one/deep/held.module.ts": BODY,
+    "akasha/one/deep/held.module.code.ts": BODY,
+    "akasha/two/kept.module.ts": BODY,
+  })
+  const was = git(root, ["rev-parse", "HEAD"]).trim()
+  const argv = ["akasha/one"]
+  const said = remove([...argv, "--dry-run"], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain("nothing was written")
+  expect(existsSync(join(root, "akasha/one/deep/held.module.ts"))).toBe(true)
+  expect(existsSync(join(root, "akasha/one/deep"))).toBe(true)
+  expect(git(root, ["rev-parse", "HEAD"]).trim()).toBe(was)
+  expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
+  const then = remove(argv, givenIn(root))
+  expect(then.refusals).toEqual([])
+  expect(existsSync(join(root, "akasha/one"))).toBe(false)
+  expect(git(root, ["ls-files"]).trim()).toBe("akasha/two/kept.module.ts")
+  expect(git(root, ["rev-parse", "HEAD"]).trim()).not.toBe(was)
+  rmSync(root, { recursive: true })
+})
+
+test("a dry run names everything that would go, including what was not named", () => {
+  const root = repoWith({
+    "akasha/one/deep/held.module.ts": BODY,
+    "akasha/one/deep/held.module.code.ts": BODY,
+    "akasha/one/deep/held.module.test.ts": BODY,
+    "akasha/two/kept.module.ts": BODY,
+  })
+  const said = remove(["akasha/one/deep/held.module.ts", "--dry-run"], givenIn(root))
+  const report = said.report.join("\n")
+  expect(report).toContain("akasha/one/deep/held.module.ts would be taken away")
+  expect(report).toContain("akasha/one/deep/held.module.code.ts would be taken away")
+  expect(report).toContain("akasha/one/deep/held.module.test.ts would be taken away")
+  expect(report).toContain("stand beside what you named and would go with it")
+  expect(report).toContain("akasha/one/deep")
+  expect(report).toContain("git holds no empty directory")
+  expect(report).not.toContain("akasha/two/kept.module.ts")
+  rmSync(root, { recursive: true })
+})
+
+test("a dry run over a directory names the tracked files it would open onto", () => {
+  const root = repoWith({
+    "akasha/one/held.module.ts": BODY,
+    "akasha/one/deep/under.module.ts": BODY,
+    "akasha/two/kept.module.ts": BODY,
+  })
+  const said = remove(["akasha/one", "--dry-run"], givenIn(root))
+  const report = said.report.join("\n")
+  expect(report).toContain("stand under a directory you named and would go with it")
+  expect(report).toContain("akasha/one/deep/under.module.ts would be taken away")
+  expect(report).toContain("akasha/one/held.module.ts would be taken away")
+  rmSync(root, { recursive: true })
+})
+
+test("a dry run claims no check approved the removal", () => {
+  const root = repoWith({ "akasha/one/held.module.ts": BODY })
+  refusing(root)
+  const said = remove(["akasha/one/held.module.ts", "--dry-run"], givenIn(root))
+  expect(said.code).toBe(0)
+  const report = said.report.join("\n")
+  expect(report).toContain("a check is never handed a deletion")
+  expect(report).not.toContain("every check passed")
+  expect(existsSync(join(root, "akasha/one/held.module.ts"))).toBe(true)
+  rmSync(root, { recursive: true })
+})
+
+test("what a dry run says would be emptied is what the removal empties", () => {
+  const root = repoWith({
+    "akasha/one/deep/held.module.ts": BODY,
+    "akasha/one/kept.module.ts": BODY,
+  })
+  const gone = ["akasha/one/deep/held.module.ts"]
+  const said = wouldEmpty(root, gone)
+  expect(said).toEqual(["akasha/one/deep"])
+  expect(pruneEmptied(root, gone)).toEqual([])
+  rmSync(join(root, gone[0] ?? ""))
+  expect(pruneEmptied(root, gone)).toEqual([...said])
+  rmSync(root, { recursive: true })
+})
+
+test("a message is read from a file and trimmed", () => {
+  const root = repoWith({ "akasha/one/held.module.ts": BODY })
+  const at = join(root, "message.txt")
+  writeFileSync(at, "  taken by a file  \n")
+  const said = remove(["akasha/one/held.module.ts", "--message-file", at], givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe("taken by a file")
+  rmSync(root, { recursive: true })
+})
+
+test("naming both a message and a message file is refused", () => {
+  const root = repoWith({ "akasha/one/held.module.ts": BODY })
+  const at = join(root, "message.txt")
+  writeFileSync(at, "taken by a file\n")
+  const said = remove(
+    ["akasha/one/held.module.ts", "--message", "taken by the line", "--message-file", at],
+    givenIn(root)
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain("both are given")
+  expect(existsSync(join(root, "akasha/one/held.module.ts"))).toBe(true)
+  rmSync(root, { recursive: true })
+})
+
+test("a message file holding only whitespace is refused", () => {
+  const root = repoWith({ "akasha/one/held.module.ts": BODY })
+  const at = join(root, "message.txt")
+  writeFileSync(at, "   \n")
+  const said = remove(["akasha/one/held.module.ts", "--message-file", at], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("the message given is empty")
+  expect(existsSync(join(root, "akasha/one/held.module.ts"))).toBe(true)
+  rmSync(root, { recursive: true })
 })
 
 test("the directories a removal could empty stop at the akasha folder", () => {

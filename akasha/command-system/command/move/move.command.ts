@@ -15,6 +15,7 @@ export const move = {
     "A move changes where a file stands, never what it is called, because a page states its own slug and other pages name it by that slug.",
     "What a moved body names is repointed from that body alone; what names a moved file is not, the index carrying no edge from a file to the files importing it.",
     "Every pair a call names lands together or not at all, because two files naming each other cannot move one at a time in any order.",
+    "`--dry-run` works the whole move out, gates it, and names every pair it would carry, writing nothing at all, not a file and not a loose object.",
   ],
   intent: ["A file arrives at its new path reaching everything it reached before."],
 } as const satisfies Command
