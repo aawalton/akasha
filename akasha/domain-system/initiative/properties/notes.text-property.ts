@@ -7,7 +7,7 @@ export const notes = {
   pageTypeSlug: "text-property",
   slug: "notes",
   definition: "what the persona worked out about the order of the work, kept where the work is",
-  max: 600,
+  max: 5000,
   nameFormatSlug: null,
   invariants: [
     {

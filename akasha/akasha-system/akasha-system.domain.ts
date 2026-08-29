@@ -20,6 +20,7 @@ export const akashaSystem = {
     "domain/hook-system",
     "domain/editor-extension",
     "domain/testing-system",
+    "domain/seat-system",
     "domain/akasha-migration",
   ],
   invariants: [
