@@ -55,6 +55,16 @@ export const check = {
         "A check running on no phase has landed and does not yet judge, which is how a check states its rule before it binds anyone.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Patch judges only the paths a change carries, so it is turned on before zero: it holds the count from rising while the rest are fixed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Patch on means a file still carrying a violation is refused the next time it is touched, which is the ratchet working rather than the check misfiring.",
+    },
+    {
       invariantKind: "gap",
       statement: "A check looks for no files.",
     },
@@ -94,12 +104,11 @@ export const check = {
     {
       directiveKind: "rule",
       name: "Zero At Turning On",
-      act: "Fix every violation a check finds before it judges the whole tree, never freezing the ones left into a list.",
+      act: "Fix every violation a check finds before it judges the whole tree, never freezing them into a list.",
       warrant:
-        "A check judging the whole tree while the defects it found still stand reads green and blocks nobody, and turning it on before they are fixed stops every writer at once.",
+        "A check judging the whole tree while its defects stand reads green and blocks nobody.",
       aids: [
-        "Patch judges only the paths a change carries, so it is turned on before zero: it holds the count from rising while the rest are fixed.",
-        "Patch on means a file still carrying a violation is refused the next time it is touched, which is the ratchet working rather than the check misfiring.",
+        "Turning the whole-tree phases on before zero stops every writer at once.",
         "A check may land with every phase off, which claims nothing and hides nothing.",
         "Landing it off puts the rule up for argument before it binds anyone.",
         "Never narrow a judging check's reach to make the count zero.",
