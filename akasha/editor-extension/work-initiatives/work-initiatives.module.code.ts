@@ -1,6 +1,7 @@
 import { valueAt } from "../../pages-system/indexes/index-entries.module.code.ts"
 import { everyOfType, idsNaming } from "../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
+import { gather } from "../grouping/grouping.module.code.ts"
 
 const PAGE_TYPE = "initiative"
 
@@ -19,12 +20,6 @@ function slugIn(path: string): string | null {
   const said = namedIn(path)
   if (said === null || said.tail !== PAGE_TYPE) return null
   return said.stem
-}
-
-function held(into: Map<string, string[]>, key: string, value: string): void {
-  const at = into.get(key)
-  if (at === undefined) into.set(key, [value])
-  else at.push(value)
 }
 
 function personaAt(root: string, path: string): string | null {
@@ -47,7 +42,7 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
     if (parent === undefined) continue
     for (const naming of idsNaming(root, one.id, PARENT)) {
       const child = slugById.get(naming)
-      if (child !== undefined) held(parentsOf, child, parent)
+      if (child !== undefined) gather(parentsOf, child, parent)
     }
   }
   const drawn: InitiativeRow[] = []

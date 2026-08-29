@@ -6,6 +6,7 @@ import {
 } from "../../pages-system/indexes/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name.module.code.ts"
 import { kindsUnder } from "../../pages-system/page-type/page-type-descent.module.code.ts"
+import { gather } from "../grouping/grouping.module.code.ts"
 
 const DOMAIN = "domain"
 
@@ -23,12 +24,6 @@ export type DomainRow = {
 function addressOf(path: string): string | null {
   const said = namedIn(path)
   return said === null ? null : `${said.tail}/${said.stem}`
-}
-
-function held(into: Map<string, string[]>, key: string, value: string): void {
-  const at = into.get(key)
-  if (at === undefined) into.set(key, [value])
-  else at.push(value)
 }
 
 function partsIn(value: Value | null): readonly string[] {
@@ -60,7 +55,7 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     for (const above of idsNaming(root, one.id, PARTS)) {
       const parent = addressById.get(above)
       if (parent === undefined) continue
-      held(parentsOf, child, parent)
+      gather(parentsOf, child, parent)
       naming.add(parent)
     }
   }
