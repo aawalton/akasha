@@ -25,12 +25,12 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A qualified name is held as its slug alone, and an answer is a key into the index.",
+      statement: "A qualified name is held as its slug alone, and reads straight back into the index.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An entry is read from the property's own page and from no other, and no other page's change can leave it stale.",
+        "An entry is read from the property's own page alone, and no other page's change can leave it stale.",
     },
   ],
   intent: [
