@@ -8,5 +8,5 @@ export const id = {
   slug: "id",
   definition: "the identity a page keeps for its whole life",
   max: 36,
-  nameFormatSlug: null,
+  nameFormatSlug: "name-format/lower-uuid",
 } as const satisfies TextProperty

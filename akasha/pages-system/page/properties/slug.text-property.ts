@@ -8,7 +8,7 @@ export const slug = {
   slug: "slug",
   definition: "the name a page is reached by",
   max: 100,
-  nameFormatSlug: null,
+  nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",
