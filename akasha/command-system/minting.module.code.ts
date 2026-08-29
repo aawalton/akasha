@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Phase } from "../checks-system/checking.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(leaving) {
   return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
@@ -11,18 +12,27 @@ export const ADMITS_CODE = `export function admits() {
 }
 `
 
-export function pageFor(slug: string, id: string, definition: string): string {
-  return `export const ${slug} = {
+function camel(slug: string): string {
+  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
+}
+
+export function pageFor(
+  slug: string,
+  id: string,
+  definition: string,
+  phase: Phase = "patch"
+): string {
+  return `export const ${camel(slug)} = {
   id: "${id}",
   pageTypeSlug: "check",
   slug: "${slug}",
   definition: "${definition}",
   code: "ts",
   needs: "path",
-  runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnPatch: ${phase === "patch"},
+  runsOnWorktree: ${phase === "worktree"},
+  runsOnDeploy: ${phase === "deploy"},
+  runsOnAudit: ${phase === "audit"},
 }
 `
 }
@@ -32,16 +42,19 @@ export function minting(
   slug: string,
   id: string,
   definition: string,
-  code: string
+  code: string,
+  phase: Phase = "patch"
 ): void {
   const at = `akasha/${slug}.check.ts`
   mkdirSync(join(root, "akasha"), { recursive: true })
-  writeFileSync(join(root, at), pageFor(slug, id, definition))
+  writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
   writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
   const dir = join(root, ".git/data/index/identity/check/slug")
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
 }
+
+export const MINTED = "a check minted for a test"
 
 const REFUSES_ID = "01a04bed-1450-7000-8000-00000000bbbb"
 

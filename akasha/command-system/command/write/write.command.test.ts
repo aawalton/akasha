@@ -3,11 +3,10 @@ import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
+import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
 import { write } from "./write.command.code.ts"
 
-const CHECKS_AT = ".git/data/index/identity/check/slug"
-
-const ADMITS_AT = "akasha/checks-system/check/admits/"
+const ADMITS_AT = "akasha/admits.check*"
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -31,32 +30,17 @@ function repoWith(
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
-  checking(root, "admits", ADMITS)
+  checking(root, "admits", ADMITS_CODE)
   return root
 }
 
 let minted = 0
 
-function checking(root: string, slug: string, body: string, phase = "patch"): void {
-  const at = `akasha/checks-system/check/${slug}/${slug}.check.ts`
-  const camel = slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-  put(
-    root,
-    at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOnPatch: ${phase === "patch"},\n  runsOnWorktree: ${phase === "worktree"},\n  runsOnDeploy: ${phase === "deploy"},\n  runsOnAudit: ${phase === "audit"},\n}\n`
-  )
-  put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
+function checking(root: string, slug: string, body: string): void {
   minted = minted + 1
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-  put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+  minting(root, slug, id, MINTED, body)
 }
-
-const REFUSES =
-  "export function refuses(leaving) {\n" +
-  '  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))\n' +
-  "}\n"
-
-const ADMITS = "export function admits() {\n  return []\n}\n"
 
 const headOf = (root: string): string => git(root, ["rev-parse", "HEAD"]).trim()
 
@@ -81,7 +65,7 @@ test("a change that passes is written and committed", () => {
 
 test("a refused change writes nothing and moves no head", () => {
   const root = repoWith()
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const was = headOf(root)
   const from = bodyIn(root)
   const said = write(["--file-path", "akasha/two.ts", "--content-file", from], givenIn(root))
@@ -94,7 +78,7 @@ test("a refused change writes nothing and moves no head", () => {
 
 test("the bodies written and the paths taken away are one commit, refused together", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const was = headOf(root)
   const from = bodyIn(root)
   const said = write(

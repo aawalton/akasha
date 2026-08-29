@@ -2,15 +2,17 @@ import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Phase } from "../checks-system/checking.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 import { committedLine, judgedBy, landingAsked, passedOver } from "./asking.module.code.ts"
 import { write } from "./command/write/write.command.code.ts"
 import { UNNAMED } from "./landing.module.code.ts"
+import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "./minting.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 const CHECKS_AT = ".git/data/index/identity/check/slug"
 
-const ADMITS_AT = "akasha/checks-system/check/admits/"
+const ADMITS_AT = "akasha/admits.check*"
 
 const scratch = scratchWorld()
 
@@ -38,32 +40,17 @@ function repoWith(
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
-  checking(root, "admits", ADMITS)
+  checking(root, "admits", ADMITS_CODE)
   return root
 }
 
 let minted = 0
 
-function checking(root: string, slug: string, body: string, phase = "patch"): void {
-  const at = `akasha/checks-system/check/${slug}/${slug}.check.ts`
-  const camel = slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-  put(
-    root,
-    at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOnPatch: ${phase === "patch"},\n  runsOnWorktree: ${phase === "worktree"},\n  runsOnDeploy: ${phase === "deploy"},\n  runsOnAudit: ${phase === "audit"},\n}\n`
-  )
-  put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
+function checking(root: string, slug: string, body: string, phase: Phase = "patch"): void {
   minted = minted + 1
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-  put(root, join(CHECKS_AT, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+  minting(root, slug, id, MINTED, body, phase)
 }
-
-const REFUSES =
-  "export function refuses(leaving) {\n" +
-  '  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))\n' +
-  "}\n"
-
-const ADMITS = "export function admits() {\n  return []\n}\n"
 
 const REFUSES_TAKING =
   "export function refusesTaking(leaving) {\n" +
@@ -123,7 +110,7 @@ test("a report that could not be built over a removal leaves the removal standin
 
 test("a report that could not be built over a broken glass leaves the stamp on the commit", () => {
   const root = repoWith()
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const said = landingAsked(givenIn(root), asking({ glass: "the checks are themselves broken" }))
   expect(said.code).toBe(0)
   expect(said.report).toContain(`committed as ${headOf(root)}`)
@@ -190,7 +177,7 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
 
 test("a dry run over a change the checks refuse reports the refusal", () => {
   const root = repoWith()
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const from = bodyIn(root)
   const said = write(
     ["--file-path", "akasha/two.ts", "--content-file", from, "--dry-run"],
@@ -223,7 +210,7 @@ test("that same check lets a written body through, so it refuses the going and n
 
 test("a gate counts the removal it judged beside the body it wrote, so a move is not doubled", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
-  checking(root, "admits", ADMITS)
+  checking(root, "admits", ADMITS_CODE)
   const from = bodyIn(root)
   const said = write(
     [
@@ -259,7 +246,7 @@ test("a landing names what judged it, and says so when nothing did", () => {
 test("a landing whose phase runs no check says the paths landed unjudged", () => {
   const root = repoWith()
   rmSync(join(root, CHECKS_AT, "admits.jsonl"))
-  checking(root, "later", ADMITS, "deploy")
+  checking(root, "later", ADMITS_CODE, "deploy")
   const from = bodyIn(root)
   const said = write(
     ["--file-path", "akasha/two.ts", "--content-file", from, "--message", "held"],
@@ -273,7 +260,7 @@ test("a landing whose phase runs no check says the paths landed unjudged", () =>
 
 test("breaking the glass runs no check and says so in the commit", () => {
   const root = repoWith()
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const from = bodyIn(root)
   const said = write(
     [

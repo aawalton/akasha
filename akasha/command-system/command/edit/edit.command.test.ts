@@ -3,14 +3,13 @@ import { execFileSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
+import { ADMITS_CODE, MINTED, minting, REFUSES_CODE } from "../../minting.module.code.ts"
 import { landingAsked } from "../write/write.command.code.ts"
 import { edit } from "./edit.command.code.ts"
 
-const CHECKS_AT = ".git/data/index/identity/check/slug"
+const ADMITS_AT = "akasha/admits.check*"
 
-const ADMITS_AT = "akasha/checks-system/check/admits/"
-
-const ADMITS = "export function admits() {\n  return []\n}\n"
+const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
 
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
@@ -32,30 +31,13 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
-  checking(root, "admits", ADMITS)
+  checking(root, "admits", ADMITS_CODE)
   return root
 }
 
 function checking(root: string, slug: string, body: string): void {
-  const at = `akasha/checks-system/check/${slug}/${slug}.check.ts`
-  const camel = slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
-  put(
-    root,
-    at,
-    `export const ${camel} = {\n  slug: "${slug}",\n  code: "ts",\n  runsOnPatch: true,\n  runsOnWorktree: false,\n  runsOnDeploy: false,\n  runsOnAudit: false,\n}\n`
-  )
-  put(root, `${at.slice(0, -".ts".length)}.code.ts`, body)
-  put(
-    root,
-    join(CHECKS_AT, `${slug}.jsonl`),
-    `${JSON.stringify({ path: at, id: "01a04bc4-0000-7000-8000-000000000002" })}\n`
-  )
+  minting(root, slug, MINTED_ID, MINTED, body)
 }
-
-const REFUSES =
-  "export function refuses(leaving) {\n" +
-  '  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))\n' +
-  "}\n"
 
 const MARKS =
   'import { writeFileSync } from "node:fs"\n' +
@@ -144,7 +126,7 @@ test("a substitution matching more than once is refused before any check runs", 
 
 test("a refused change writes nothing and moves no head", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const was = headOf(root)
   const said = edit(
     ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")],
@@ -289,7 +271,7 @@ test("a dry run gates and writes nothing at all", () => {
 
 test("breaking the glass runs no check and says so in the commit", () => {
   const root = repoWith({ "akasha/one.ts": "alpha\n" })
-  checking(root, "refuses", REFUSES)
+  checking(root, "refuses", REFUSES_CODE)
   const said = edit(
     [
       "--file-path",

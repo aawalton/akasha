@@ -22,6 +22,7 @@ import {
   saidOf,
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
+import { minting, REFUSES_CODE } from "./minting.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
@@ -35,24 +36,6 @@ const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
 const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
 
-const REFUSES_PAGE = `export const refuses = {
-  id: "${ID}",
-  pageTypeSlug: "check",
-  slug: "refuses",
-  definition: "a check refusing everything",
-  code: "ts",
-  runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
-}
-`
-
-const REFUSES_CODE = `export function refuses(leaving) {
-  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
-}
-`
-
 function git(root: string, argv: readonly string[]): string {
   return execFileSync("git", ["-C", root, ...argv], { encoding: "utf8" })
 }
@@ -62,18 +45,13 @@ function checkoutOf(): string {
   const root = mkdtempSync(join(tmpdir(), "akasha-cli-"))
   cpSync(join(from, "akasha"), join(root, "akasha"), { recursive: true })
   for (const one of CARRIED) cpSync(join(from, one), join(root, one))
-  const at = "akasha/refuses.check.ts"
-  writeFileSync(join(root, at), REFUSES_PAGE)
-  writeFileSync(join(root, "akasha/refuses.check.code.ts"), REFUSES_CODE)
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
+  minting(root, "refuses", ID, "a check refusing everything", REFUSES_CODE)
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   symlinkSync(join(from, "node_modules"), join(root, "node_modules"))
-  const dir = join(root, IDENTITY_AT, "check", "slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, "refuses.jsonl"), `${JSON.stringify({ path: at, id: ID })}\n`)
   cpSync(join(from, IDENTITY_AT, "command"), join(root, IDENTITY_AT, "command"), {
     recursive: true,
   })
