@@ -427,6 +427,24 @@ function committed(
   return nameOf(root)
 }
 
+function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
+  if (one === null || two === null) return one === two
+  return Buffer.from(one).equals(Buffer.from(two))
+}
+
+function movedBetween(
+  root: string,
+  read: string,
+  base: string,
+  changed: readonly Change[]
+): readonly string[] {
+  const moved: string[] = []
+  for (const one of changed) {
+    if (!sameBody(bodyAt(root, read, one.path), bodyAt(root, base, one.path))) moved.push(one.path)
+  }
+  return moved.sort()
+}
+
 export function landing(
   root: string,
   changes: readonly Change[],
@@ -440,12 +458,15 @@ export function landing(
   }
   return holding(root, () => {
     const base = baseOf(root)
-    if (read !== null && read !== base) {
+    const moved = read === null || read === base ? [] : movedBetween(root, read, base, changes)
+    if (moved.length > 0) {
       return {
         refusals: [
-          `the bodies this change carries were read against \`${read}\` and this repository now ` +
-            `stands at \`${base}\`, so writing them would put back whatever moved in between`,
-          "nothing was written — ask for it again against what stands now",
+          ...moved.map(
+            (one) =>
+              `${one} — read against \`${read}\`, and what stands at \`${base}\` is not what was read, so writing it would put back what moved in between`
+          ),
+          "nothing was written — read them again against what stands now",
         ],
       }
     }

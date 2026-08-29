@@ -40,7 +40,12 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A change may state the commit its bodies were read against, and one read against a commit the repository has moved off is refused unwritten rather than written over what moved.",
+        "A change may state the commit its bodies were read against, and a path that moved between that commit and what stands is refused unwritten rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A commit landing elsewhere in the repository moves no path this change carries, so this change is not refused for it.",
     },
     {
       invariantKind: "absence",

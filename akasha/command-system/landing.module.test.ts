@@ -307,7 +307,26 @@ test("why a gate could not be built is carried as one line a commit trailer can 
   expect(oneLine("held ".repeat(200)).length).toBe(240)
 })
 
-test("a change read against a commit the repository has moved off is refused unwritten", () => {
+test("a change read against a commit that moved a path it carries is refused unwritten", () => {
+  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
+  const read = baseOf(root)
+  writeFileSync(join(root, "akasha/a.domain.ts"), `${A}\n`)
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "second"])
+  const said = landing(
+    root,
+    [{ path: "akasha/a.domain.ts", body: bytes("moved") }],
+    "m",
+    ADMITS,
+    null,
+    read
+  )
+  expect("refusals" in said).toBe(true)
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("moved in between")
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(`${A}\n`)
+})
+
+test("a change read against a commit that moved nothing it carries is landed", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
   const read = baseOf(root)
   writeFileSync(join(root, "later.txt"), "later")
@@ -321,9 +340,8 @@ test("a change read against a commit the repository has moved off is refused unw
     null,
     read
   )
-  expect("refusals" in said).toBe(true)
-  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("moved in between")
-  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
 })
 
 test("a change read against the commit that stands is landed", () => {
