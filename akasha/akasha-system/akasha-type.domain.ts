@@ -6,7 +6,7 @@ export const akashaType = {
   slug: "akasha-type",
   definition: "the shape a value must have",
   partSlugs: ["domain/akasha-import"],
-  requiredReadingSlugs: ["domain/akasha-import"],
+  requiredReadingSlugs: [],
   design: [
     "A type is gone by the time the code runs.",
     "A page's type is derived from the page's value.",

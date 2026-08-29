@@ -6,11 +6,7 @@ export const akashaMigration = {
   slug: "akasha-migration",
   definition: "how the old system becomes the new system",
   partSlugs: ["domain/akasha-accretion", "domain/akasha-ablation", "domain/akasha-milestone"],
-  requiredReadingSlugs: [
-    "domain/akasha-accretion",
-    "domain/akasha-ablation",
-    "domain/akasha-milestone",
-  ],
+  requiredReadingSlugs: [],
   design: [
     "A migrated command runs the new implementation beside the old and records where they disagree.",
     "The second implementation changes neither the answer nor whether the command succeeds.",

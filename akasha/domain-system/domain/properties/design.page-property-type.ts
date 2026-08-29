@@ -16,8 +16,6 @@ export const design = {
     "A design entry is an invariant a reader gets wrong, in these kinds and no others: a departure, an absence, or a constraint.",
     "A departure is a decision a reader would not guess right; knowing it stops them undoing it.",
     "An absence is something the domain deliberately leaves out; knowing it stops a reader adding it.",
-    "A constraint is a limit from outside the domain; knowing it stops a reader asking for the impossible.",
-    "A design entry holds no instruction to a seat.",
-    "A design entry carries no reason for itself.",
+    "A constraint is a limit from outside the domain; knowing it stops a reader asking for the impossible."
   ],
 } as const satisfies PagePropertyType
