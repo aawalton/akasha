@@ -8,5 +8,6 @@ domain-slug: page-type/persona
 role-slug: persona-craft
 person-slug: alan
 start-mode: interactive
+on-call: true
 registration-account: aawalton
 ---
