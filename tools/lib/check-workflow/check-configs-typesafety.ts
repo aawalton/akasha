@@ -1,5 +1,5 @@
 import type { PopulationEntry } from "../graph/queries/membership.ts"
-import { type CheckConfig, treeShaArgs } from "./check-configs-types"
+import { type CheckConfig, treeShaArgs } from "./check-configs-types.ts"
 
 const TS_POPULATION: readonly PopulationEntry[] = ["ts-file", "tsx-file"]
 
@@ -12,12 +12,6 @@ export const TYPESAFETY_CHECKS: CheckConfig[] = [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-syntax-bundle.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/syntax-scanner-entry.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-file-iteration.ts",
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-no-class.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/ts-class-declarations.ts",
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-no-enum.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/ts-enum-declarations.ts",
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-method-signature-bivariance.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/ts-method-signatures.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-type-assertions.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-type-assertions.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-no-void-return.ts",
