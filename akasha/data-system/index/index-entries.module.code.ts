@@ -3,6 +3,7 @@ import { createRequire } from "node:module"
 import { tmpdir } from "node:os"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import ts from "typescript"
+import { slugFor } from "../../pages-system/page-property/page-property-key.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address.module.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
@@ -84,10 +85,6 @@ function textAt(value: Value, key: string): string | null {
   return typeof held === "string" ? held : null
 }
 
-function kebab(key: string): string {
-  return key.replace(/[A-Z]/g, (one) => `-${one.toLowerCase()}`)
-}
-
 const TS = ".ts"
 
 export function filePropertiesIn(values: Iterable<Value>): ReadonlySet<string> {
@@ -112,7 +109,7 @@ export function pathsOf(
   const found = [own]
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
-    const propertySlug = kebab(key)
+    const propertySlug = slugFor(key)
     if (fileProperties.has(propertySlug)) found.push(`${stem}.${propertySlug}.${held}`)
   }
   return found
@@ -376,7 +373,7 @@ export function relationIn(value: Value, path: string, known: Known, repo: strin
   const refused: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = kebab(key)
+    const propertySlug = slugFor(key)
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(held)) {

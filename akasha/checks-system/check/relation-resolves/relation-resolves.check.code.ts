@@ -16,6 +16,7 @@ import {
   standingById,
   standingByPath,
 } from "../../../data-system/index/index-reading.module.code.ts"
+import { slugFor } from "../../../pages-system/page-property/page-property-key.module.code.ts"
 import { namedIn, pageNamed } from "../../../pages-system/page/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging.module.code.ts"
@@ -30,10 +31,6 @@ export type Carried = {
 type Named = Standing & {
   readonly slug: string
   readonly pageTypeSlug: string
-}
-
-function kebab(key: string): string {
-  return key.replace(/[A-Z]/g, (one) => `-${one.toLowerCase()}`)
 }
 
 function textAt(value: Value, key: string): string | null {
@@ -173,7 +170,7 @@ export function danglingIn(
   const said: Judged[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held === null) continue
-    const propertySlug = kebab(key)
+    const propertySlug = slugFor(key)
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) continue
     const names = namesIn(held)
