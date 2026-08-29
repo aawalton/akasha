@@ -38,7 +38,7 @@ export const pageNamedAsStated = {
     {
       invariantKind: "departure",
       statement:
-        "The name is judged against what the page states, never against what the index records of that page. The index is asked one thing only, which properties are held in a file, and asked once for the whole run rather than once a file.",
+        "The name is judged against what the page states, never what the index records. The index is asked one thing only, which properties are held in a file, and asked once for the whole run.",
     },
     {
       invariantKind: "departure",

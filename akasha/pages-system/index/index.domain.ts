@@ -5,7 +5,7 @@ export const index = {
   pageTypeSlug: "domain",
   slug: "index",
   definition:
-    "which file holds each page, which pages name it, which files import it, and what shape each property holds",
+    "which file holds each page, which pages name it, which files import it, and each property's shape",
   partSlugs: [
     "domain/index-identity",
     "domain/index-relation",

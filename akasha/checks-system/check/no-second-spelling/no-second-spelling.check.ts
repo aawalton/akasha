@@ -20,7 +20,7 @@ export const noSecondSpelling = {
     {
       invariantKind: "departure",
       statement:
-        "Two functions say the same thing when their shape is the same once each name a function binds itself is read as the order it binds them, so a rename of the function, its parameters or its locals hides nothing.",
+        "Two functions say the same thing when their shape matches once each bound name is read as the order it was bound, so renaming the function, its parameters or its locals hides nothing.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const noSecondSpelling = {
     {
       invariantKind: "absence",
       statement:
-        "No rule is too small to own. The smallest a module exports is as short as the idiom every check is written in, so a length below which respelling is allowed would silence the owner rather than the noise.",
+        "No rule is too small to own. The smallest a module exports is as short as the idiom every check is written in, so a floor below which respelling is allowed would silence the owner, not the noise.",
     },
     {
       invariantKind: "absence",
