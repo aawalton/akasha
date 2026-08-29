@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { payloadOf } from "../../hook-payload.module.code.ts"
+import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import {
   bounded,
   outsideAkasha,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { payloadOf } from "../../hook-payload.module.code.ts"
+import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import { refusalFor, refusalIn, SCOPE } from "./block-destructive-git.agent-hook.code.ts"
 
 const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")
