@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { dirname, join } from "node:path"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { onDisk } from "../../checking/checking.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import { carriedIn, judgedOf, lintClean, outsideOf, reasonOf } from "./lint-clean.check.code.ts"
 
-const REPO_AT = resolve(import.meta.dir, "..", "..", "..", "..")
+const REPO_AT = rootOf(import.meta.dir) ?? ""
 
 const MODULES = "node_modules"
 
