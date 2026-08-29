@@ -14,4 +14,10 @@ export const invariant = {
   definition: "one thing that must be true of a page, and the way a reader gets it wrong",
   extendsSlug: null,
   kind: "record",
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "An entry that is none of the kinds is not an invariant.",
+    },
+  ],
 } as const satisfies PagePropertyType
