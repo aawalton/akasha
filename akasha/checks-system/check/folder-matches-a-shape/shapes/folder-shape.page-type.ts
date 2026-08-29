@@ -29,7 +29,6 @@ export const folderShape = {
     "folder-shape/one-page-with-its-properties",
     "folder-shape/pages-of-one-type",
     "folder-shape/property-pages-only",
-    "folder-shape/single-entrance",
   ],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
