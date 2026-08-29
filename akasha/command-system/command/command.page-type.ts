@@ -13,6 +13,7 @@ export const command = {
   definition: "a module reached by name from the command line",
   partSlugs: [
     "boolean-property/mechanical",
+    "command/audit",
     "command/edit",
     "command/index",
     "command/lint",
