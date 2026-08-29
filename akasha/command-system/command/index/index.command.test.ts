@@ -10,7 +10,7 @@ import { textProperty } from "../../../pages-system/text-property/text-property.
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { calling } from "../../calling/calling.module.code.ts"
-import { DATA, INPUT, OK, OPERATIONAL } from "../../cli.module.code.ts"
+import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { driftBetween, index, readIn, surface } from "./index.command.code.ts"
 

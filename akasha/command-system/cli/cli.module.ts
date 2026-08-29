@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/module/module.page-type.ts"
+import type { Module } from "../../code-system/module/module.page-type.ts"
 
 export const cli = {
   id: "01a04bdd-596d-7b27-bcc5-9acb2728eb0f",

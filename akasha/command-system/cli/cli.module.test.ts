@@ -2,8 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { gitIn as git } from "../testing-system/gitting/gitting.module.code.ts"
-import { minting, REFUSES_CODE } from "../testing-system/minting/minting.module.code.ts"
+import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
+import { minting, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
+import { rootOf } from "../rooting/rooting.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   AUTHOR,
   answering,
@@ -14,12 +16,10 @@ import {
   saidOf,
   UNCLASSIFIED,
 } from "./cli.module.code.ts"
-import { rootOf } from "./rooting/rooting.module.code.ts"
-import { scratchWorld } from "./scratching/scratching.module.code.ts"
 
 const AT = "/somewhere/akasha/command-system/cli.module.code.ts"
 
-const DISPATCHER = "akasha/command-system/cli.module.code.ts"
+const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"
 
 const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
