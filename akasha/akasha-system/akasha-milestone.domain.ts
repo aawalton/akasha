@@ -7,4 +7,14 @@ export const akashaMilestone = {
   definition: "a state the migration passes through",
   partSlugs: ["domain/akasha-functional-core"],
   requiredReadingSlugs: [],
+  design: [
+    {
+      invariantKind: "departure",
+      statement: "This domain's parts are the milestones themselves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This domain's parts are in the order the migration passes through them.",
+    },
+  ],
 } as const satisfies Domain
