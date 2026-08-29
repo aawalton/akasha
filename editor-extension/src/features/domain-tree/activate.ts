@@ -11,7 +11,7 @@ const FEATURE = 'domain-tree';
 
 const SETTLE_MS = 2_000;
 
-const CORPUS_GLOB = '**/*.md';
+const CORPUS_GLOB = 'akasha/**/*.ts';
 
 let output: vscode.OutputChannel;
 
