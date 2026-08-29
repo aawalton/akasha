@@ -1,8 +1,8 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { execFileSync } from "node:child_process"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { scratchWorld } from "../../command-system/scratching.module.code.ts"
 import {
   everyPath,
   importersOf,
@@ -16,8 +16,12 @@ import { stampKept } from "./index-stamp.module.code.ts"
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function rootAt(): string {
-  return mkdtempSync(join(tmpdir(), "akasha-reading-"))
+  return scratch.rootFor("akasha-reading-")
 }
 
 function filed(root: string, at: string, lines: readonly string[]): void {
@@ -65,7 +69,6 @@ test("a path the index carries is answered with the page carrying it", () => {
   expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
   ])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a page's own path is answered with itself", () => {
@@ -75,14 +78,12 @@ test("a page's own path is answered with itself", () => {
   expect(standingByPath(root, "akasha/a.module.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
   ])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a path no page carries is answered with nothing rather than by throwing", () => {
   const root = rootAt()
 
   expect(standingByPath(root, "akasha/nowhere.module.ts")).toEqual([])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a path two pages fall on is answered with both of them", () => {
@@ -93,7 +94,6 @@ test("a path two pages fall on is answered with both of them", () => {
   ])
 
   expect(standingByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("every path the index files is answered, however deep the folders it files them under", () => {
@@ -109,14 +109,12 @@ test("every path the index files is answered, however deep the folders it files 
     "akasha/a.module.ts",
     "akasha/held/b.module.ts",
   ])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a path directory that is not there is answered with nothing, the caller saying what that means", () => {
   const root = rootAt()
 
   expect(everyPath(root)).toEqual([])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("an id the index carries is answered with the page carrying it", () => {
@@ -125,7 +123,6 @@ test("an id the index carries is answered with the page carrying it", () => {
 
   expect(standingById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
   expect(standingById(root, B)).toBe(null)
-  rmSync(root, { recursive: true, force: true })
 })
 
 function schemaFiled(root: string, slug: string, line: string): void {
@@ -145,7 +142,6 @@ test("a relation property is answered with its kind and the page type it may nam
     targetPageTypeSlug: "domain",
     entrySlug: null,
   })
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a property that names no page is answered with a kind that is not a relation", () => {
@@ -154,7 +150,6 @@ test("a property that names no page is answered with a kind that is not a relati
 
   expect(schemaOf(root, "definition")?.kind).toBe("text")
   expect(schemaOf(root, "definition")?.targetPageTypeSlug).toBe(null)
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a list property is answered with the property its entries are", () => {
@@ -166,14 +161,12 @@ test("a list property is answered with the property its entries are", () => {
   )
 
   expect(schemaOf(root, "part-slugs")?.entrySlug).toBe("domain-slug")
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a property the index does not carry is answered with nothing rather than by throwing", () => {
   const root = rootAt()
 
   expect(schemaOf(root, "nowhere")).toBe(null)
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a path the index carries edges for is answered with every file importing it", () => {
@@ -187,14 +180,12 @@ test("a path the index carries edges for is answered with every file importing i
     "akasha/one.module.code.ts",
     "akasha/two.module.code.ts",
   ])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("a path nothing imports is answered with nothing rather than by throwing", () => {
   const root = stampedAt()
 
   expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("what imports a file is refused when the index names no commit", () => {
@@ -204,7 +195,6 @@ test("what imports a file is refused when the index names no commit", () => {
   ])
 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/names no commit/)
-  rmSync(root, { recursive: true, force: true })
 })
 
 test("what imports a file is refused when a commit the index never saw stands", () => {
@@ -218,5 +208,4 @@ test("what imports a file is refused when a commit the index never saw stands", 
   gitIn(root, "commit", "--quiet", "-m", "late", "--", "akasha/late.ts")
 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
-  rmSync(root, { recursive: true, force: true })
 })
