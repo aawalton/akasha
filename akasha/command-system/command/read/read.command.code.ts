@@ -1,7 +1,8 @@
 import { existsSync, statSync } from "node:fs"
-import { join, resolve } from "node:path"
+import { join, relative, resolve } from "node:path"
 import { bytesAt, textOf } from "../../asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
+import { blobIdOf, type Discard, discarded, recordRead } from "../../reading.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
@@ -72,8 +73,8 @@ function meaning(argv: readonly string[]): Meant {
     }
     if (one === FULL) {
       return refused(
-        `${FULL} is what overrides a record of what you last read, and this read keeps no record, so ` +
-          "every file it is named comes back whole already"
+        `${FULL} is what overrides a record of what you last read, and every file this is named ` +
+          "comes back whole already"
       )
     }
     if (one === SEAT) {
@@ -139,7 +140,18 @@ export function linesFor(named: string, bytes: Uint8Array): readonly string[] {
   return [`${named} — the whole file follows, ${held} lines`, numbered(text)]
 }
 
-export function read(argv: readonly string[], given: Given): Answer {
+export function readWith(argv: readonly string[], given: Given, thrown: Discard | null): Answer {
+  if (thrown !== null) {
+    return {
+      report: [],
+      refusals: [
+        `this call's output goes to ${thrown}, so the body would reach nobody. What the record says ` +
+          "is that the body reached you, so nothing is read here and nothing is recorded. Run it " +
+          "again with the output reaching you",
+      ],
+      code: 1,
+    }
+  }
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const aimed = aiming(meant.paths, given)
@@ -184,7 +196,24 @@ export function read(argv: readonly string[], given: Given): Answer {
     report.push(...lines)
     spent += cost
     taken += 1
+    if (given.agentId !== null && textOf(bytes) !== null) {
+      recordRead(given.root, given.agentId, {
+        path: relative(resolve(given.root), absolute),
+        oid: blobIdOf(bytes),
+        seenAt: Date.now(),
+      })
+    }
+  }
+  if (taken > 0 && given.agentId === null) {
+    report.push(
+      "nothing here was recorded as read: `AGENT_ID` names no agent, and a reading belongs to one " +
+        "agent or to none"
+    )
   }
   report.push(...restCall(given.calledAs, left))
   return { report, refusals, code: mistaken ? 1 : failed ? 3 : 0 }
+}
+
+export function read(argv: readonly string[], given: Given): Answer {
+  return readWith(argv, given, discarded())
 }

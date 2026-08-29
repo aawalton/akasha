@@ -40,5 +40,17 @@ export const read = {
       invariantKind: "departure",
       statement: "The call for what is left over is priced as it is printed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A read records the body that reached the agent it was for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read whose output is thrown away returns nothing and records nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read for an agent nothing identifies returns the body and records nothing.",
+    },
   ],
 } as const satisfies Command

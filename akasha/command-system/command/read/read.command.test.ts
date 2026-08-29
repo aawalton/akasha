@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Answer, Given } from "../../calling.module.code.ts"
+import { blobIdOf, readingIn } from "../../reading.module.code.ts"
 import { scratchWorld } from "../../scratching.module.code.ts"
-import { ANSWER_CEILING, costOf, read, surface } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, readWith, surface } from "./read.command.code.ts"
 
 const CALLED_AS = "akasha read"
 
@@ -24,6 +26,20 @@ function rootWith(
 
 function givenAt(root: string) {
   return { root, calledAs: CALLED_AS, from: root, writer: null, agentId: null }
+}
+
+const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
+
+function givenFor(root: string) {
+  return { root, calledAs: CALLED_AS, from: root, writer: null, agentId: AGENT }
+}
+
+function bodyOf(said: string): Uint8Array {
+  return new TextEncoder().encode(said)
+}
+
+function read(argv: readonly string[], given: Given): Answer {
+  return readWith(argv, given, null)
 }
 
 test("a file inside akasha comes back whole and line-numbered", () => {
@@ -101,7 +117,7 @@ test("a body that is not UTF-8 text says what it is instead of the body", () => 
   const root = rootWith([
     { at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00, 0x41]) },
   ])
-  const said = read(["--file-path", "akasha/one/held.bin"], givenAt(root))
+  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
   expect(said.code).toBe(0)
   expect(said.report.length).toBe(1)
   expect(said.report[0]).toContain("4 bytes that are not UTF-8 text, beginning `fffe0041`")
@@ -119,7 +135,7 @@ test("--full and --seat are refused with what they would have meant", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   const full = read(["--full", "--file-path", "akasha/one/held.ts"], givenAt(root))
   expect(full.code).toBe(1)
-  expect(full.refusals[0]).toContain("keeps no record")
+  expect(full.refusals[0]).toContain("comes back whole already")
   const seat = read(["--seat"], givenAt(root))
   expect(seat.code).toBe(1)
   expect(seat.refusals[0]).toContain("what a seat is bound to")
@@ -194,4 +210,58 @@ test("every argument the surface shows is an argument this takes", () => {
     const said = read([one.said.split(" ")[0] ?? ""], givenAt(root))
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }
+})
+
+test("a read records the body that reached the agent", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\ntwo\n" }])
+  const said = read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(said.code).toBe(0)
+  const held = readingIn(root, AGENT, "akasha/one/held.ts")
+  expect(held?.oid).toBe(blobIdOf(bodyOf("one\ntwo\n")))
+  expect(held?.seenAt).toBeGreaterThan(0)
+})
+
+test("a read for an agent nothing identifies returns the body and records nothing", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
+  const said = read(["--file-path", "akasha/one/held.ts"], givenAt(root))
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain("the whole file follows")
+  expect(said.report.join("\n")).toContain("names no agent")
+  expect(readingIn(root, AGENT, "akasha/one/held.ts")).toBeNull()
+})
+
+test("a read whose output is thrown away returns nothing and records nothing", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
+  const said = readWith(["--file-path", "akasha/one/held.ts"], givenFor(root), "a pipe")
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("a pipe")
+  expect(readingIn(root, AGENT, "akasha/one/held.ts")).toBeNull()
+})
+
+test("a body that is not text reaches nobody, so nothing is recorded", () => {
+  const root = rootWith([{ at: "akasha/one/held.bin", body: new Uint8Array([0xff, 0xfe, 0x00]) }])
+  const said = read(["--file-path", "akasha/one/held.bin"], givenFor(root))
+  expect(said.code).toBe(0)
+  expect(readingIn(root, AGENT, "akasha/one/held.bin")).toBeNull()
+})
+
+test("an empty body reached the agent whole, so it is recorded", () => {
+  const root = rootWith([{ at: "akasha/one/bare.ts", body: "" }])
+  read(["--file-path", "akasha/one/bare.ts"], givenFor(root))
+  expect(readingIn(root, AGENT, "akasha/one/bare.ts")?.oid).toBe(blobIdOf(bodyOf("")))
+})
+
+test("a second read records the body the file holds now", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "before\n" }])
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  writeFileSync(join(root, "akasha/one/held.ts"), "after\n")
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(readingIn(root, AGENT, "akasha/one/held.ts")?.oid).toBe(blobIdOf(bodyOf("after\n")))
+})
+
+test("one agent's read is not another agent's", () => {
+  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
+  read(["--file-path", "akasha/one/held.ts"], givenFor(root))
+  expect(readingIn(root, "another-agent", "akasha/one/held.ts")).toBeNull()
 })
