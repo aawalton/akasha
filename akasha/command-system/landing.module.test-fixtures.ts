@@ -4,10 +4,13 @@ import { join } from "node:path"
 import type { Judging } from "../checks-system/judging/judging.module.code.ts"
 import type { Value } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { schemaIn } from "../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { bodyOf, thePage } from "../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
 import { id as idPage } from "../pages-system/page/properties/id.text-property.ts"
 import { slug as slugPage } from "../pages-system/page/properties/slug.text-property.ts"
+import { textProperty } from "../pages-system/text-property/text-property.page-type.ts"
 import { bytesOf } from "../testing-system/bodying/bodying.module.code.ts"
 import { gitIn } from "../testing-system/gitting/gitting.module.code.ts"
+import type { Change } from "./landing.module.code.ts"
 import { scratchWorld } from "./scratching.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
@@ -59,6 +62,16 @@ export const indexIn = (root: string): string => join(root, ".git/data/index")
 
 export const butTheStamp = (found: readonly string[]): readonly string[] =>
   found.filter((one) => !one.startsWith("/stamp.jsonl "))
+
+export const identityAmong = (found: readonly string[]): readonly string[] =>
+  found.filter((one) => one.startsWith("/identity/"))
+
+const REAL: readonly Value[] = [textProperty, idPage, slugPage]
+
+export const CARRIED: readonly Change[] = REAL.map((page) => {
+  const [at, value] = thePage(page)
+  return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
+})
 
 export function declaring(root: string): void {
   const pages: readonly Value[] = [idPage, slugPage]

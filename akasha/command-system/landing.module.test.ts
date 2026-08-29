@@ -21,10 +21,12 @@ import {
   ADMITS,
   butTheStamp,
   bytes,
+  CARRIED,
   declaring,
   git,
   gitOver,
   ID,
+  identityAmong,
   indexIn,
   LINE,
   MODULE_AT,
@@ -202,10 +204,13 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
 
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
   const root = repoWith({ "seed.txt": "held" })
+  landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/domain.page-type.ts", body: bytes(TYPE) }], "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
+  expect(identityAmong(everyFileUnder(indexIn(root))).length).toBeGreaterThan(0)
+  expect(identityAmong(everyFileUnder(rebuilt)).length).toBeGreaterThan(0)
   expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(indexIn(root))))
 })
 
