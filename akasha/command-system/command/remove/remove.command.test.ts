@@ -8,7 +8,6 @@ import {
   pruneEmptied,
   remove,
   surface,
-  underAkasha,
   wouldEmpty,
 } from "./remove.command.code.ts"
 import {
@@ -119,7 +118,7 @@ test("a path standing outside the akasha folder, or named twice, is refused", ()
   const root = repoWith({ "elsewhere/held.ts": BODY, [HELD]: BODY })
   const out = remove(naming("elsewhere/held.ts"), givenIn(root))
   expect(out.code).toBe(1)
-  expect(out.refusals[0]).toContain("stands outside")
+  expect(out.refusals[0]).toContain("is not under `akasha/`")
   expect(stands(root, "elsewhere/held.ts")).toBe(true)
   const twice = remove(naming(HELD, HELD), givenIn(root))
   expect(twice.code).toBe(1)
@@ -288,9 +287,12 @@ test("the directories a removal could empty stop at the akasha folder", () => {
   expect(emptiedBy(["akasha/held.ts"])).toEqual([])
 })
 
-test("a path is read against the folder the call ran in", () => {
-  expect(underAkasha("/root", "/root/akasha/one", "held.ts")).toBe("akasha/one/held.ts")
-  expect(underAkasha("/root", "/root", "elsewhere/held.ts")).toBeNull()
+test("a path is read against the repository root, wherever the call was made", () => {
+  const root = repoWith({ [HELD]: BODY })
+  const said = remove(naming(HELD), { ...givenIn(root), from: join(root, "akasha") })
+  expect(said.refusals).toEqual([])
+  const out = remove(["--file-path", "elsewhere/held.ts"], givenIn(root))
+  expect(out.refusals[0]).toContain("read against the repository root")
 })
 
 test("every flag the surface shows is a flag this takes", () => {

@@ -12,6 +12,11 @@ export const remove = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "A path is read against the repository root and never against the folder the call was made in, so what is typed means the same wherever it is typed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path that is not there is refused.",
     },
     {

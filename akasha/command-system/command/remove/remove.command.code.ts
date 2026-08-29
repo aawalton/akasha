@@ -1,6 +1,6 @@
 import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, rmdirSync, statSync } from "node:fs"
-import { dirname, isAbsolute, join, relative, resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import { besideOf } from "../../../pages-system/page/page-beside.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling.module.code.ts"
 import { answering } from "../../calling.module.code.ts"
@@ -16,6 +16,7 @@ import {
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
+  pathInside,
 } from "../write/write.command.code.ts"
 
 const AKASHA = "akasha"
@@ -84,14 +85,6 @@ export function namedIn(argv: readonly string[]): Read {
   return { named, dryRun }
 }
 
-export function underAkasha(root: string, from: string, named: string): string | null {
-  const full = isAbsolute(named) ? named : resolve(from, named)
-  const path = relative(root, full)
-  if (path === "" || path.startsWith("..") || isAbsolute(path)) return null
-  if (path !== AKASHA && !path.startsWith(INSIDE)) return null
-  return path
-}
-
 export function trackedUnder(root: string, path: string): readonly string[] | null {
   try {
     const said = execFileSync("git", ["-C", root, "ls-files", "-z", "--", path], {
@@ -158,7 +151,6 @@ type Opened = {
 
 function openedIn(
   root: string,
-  given: Given,
   named: readonly string[]
 ): Opened | { readonly refusals: readonly string[] } {
   const refusals: string[] = []
@@ -166,10 +158,11 @@ function openedIn(
   const under: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
-    const path = underAkasha(root, given.from, one)
+    const path = pathInside(root, one)
     if (path === null) {
       refusals.push(
-        `\`${one}\` stands outside the \`${AKASHA}\` folder, and this takes nothing from outside it`
+        `\`${one}\` is not under \`${INSIDE}\` — a path is read against the repository root, ` +
+          "and this takes nothing from outside that folder"
       )
       continue
     }
@@ -268,7 +261,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
   const stated = messageIn(argv, VALUED)
   if ("refusals" in stated) return answering([], stated.refusals, 1)
   const root = resolve(given.root)
-  const held = openedIn(root, given, read.named)
+  const held = openedIn(root, read.named)
   if ("refusals" in held) return answering([], held.refusals, 1)
   const beside = [...new Set(held.opened.flatMap((one) => besideOf(root, one)))].filter(
     (one) => !held.opened.includes(one)
