@@ -26,17 +26,28 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Identity is filed only under the properties a `unique` names, and a reading naming none refuses rather than answering empty.",
+      statement: "Identity is filed only under the properties a `unique` names.",
     },
     {
       invariantKind: "departure",
-      statement: "A change is read as the bodies it proposes, falling back to what stands on disk.",
+      statement: "A reading naming none refuses rather than answering empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is read as the bodies it proposes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change falls back to what stands on disk.",
     },
     {
       invariantKind: "absence",
       statement:
-        "No root is made or swept here. A test says where its scratch stands and how long it lives, and this only writes into it.",
+        "No root is made or swept here. A test says where its scratch stands and how long it lives.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This only writes into it.",
     },
     {
       invariantKind: "absence",
