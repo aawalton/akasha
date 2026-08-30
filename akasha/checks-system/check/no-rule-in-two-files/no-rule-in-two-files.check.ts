@@ -8,9 +8,9 @@ export const noRuleInTwoFiles = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -45,17 +45,7 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "departure",
       statement:
-        "Every file the index names is read on each run, which is a cost no phase yet carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "This runs on no phase. It states its rule and judges nothing, so what it would refuse can be read against the tree before it binds anyone.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "The tree carries no rule standing in two files, and the phases that would read it are turned on.",
+        "Every file the index names is read on each run, whatever the change carries, so a rule arriving in one file is answered against the whole tree rather than against the change.",
     },
   ],
 } as const satisfies Check
