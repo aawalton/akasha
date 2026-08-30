@@ -13,8 +13,7 @@ export const valueSlug = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement:
-        "This holds text because the six values a persona stands for do not stand as pages.",
+      statement: "The six values a persona stands for do not stand as pages.",
     },
     {
       invariantKind: "gap",

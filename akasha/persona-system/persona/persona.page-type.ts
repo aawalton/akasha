@@ -111,8 +111,11 @@ export const persona = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement:
-        "This states only some of what a persona holds, so the old persona stands until every property is reviewed and moved.",
+      statement: "This states only some of what a persona holds.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The old persona stands until every property is reviewed and moved.",
     },
     {
       invariantKind: "departure",
@@ -120,8 +123,7 @@ export const persona = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The default persona personifies nothing, so nothing a persona states of her own is required.",
+      statement: "The default persona personifies nothing.",
     },
   ],
 } as const satisfies PageType

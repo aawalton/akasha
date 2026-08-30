@@ -13,8 +13,7 @@ export const championedDomainSlug = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement:
-        "This holds text because five of the thirty-nine domains championed stand as pages.",
+      statement: "Five of the thirty-nine domains championed stand as pages.",
     },
     {
       invariantKind: "gap",
