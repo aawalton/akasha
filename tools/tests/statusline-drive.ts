@@ -10,7 +10,7 @@ export const SCRIPT = resolve(import.meta.dir, "..", "statusline.sh")
 export const SELF_AGENT_ID = "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"
 export const OTHER_AGENT_ID = "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"
 
-export const SLOTS = ["persona", "domain", "role", "task"] as const
+export const SLOTS = ["persona", "domain", "role"] as const
 export type Slot = (typeof SLOTS)[number]
 
 export const STATED_AT = 1_770_000_000_000

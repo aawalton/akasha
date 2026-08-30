@@ -68,7 +68,6 @@ export interface Planted {
   readonly persona?: string
   readonly domain?: string
   readonly role?: string
-  readonly task?: string
   readonly principal?: string
   readonly above?: string
   readonly mode?: Mode
@@ -90,7 +89,6 @@ export function seatPage(seat: Planted): string {
     ...keyed("persona-slug", seat.persona),
     ...keyed("domain-slug", seat.domain),
     ...keyed("role-slug", seat.role),
-    ...keyed("task-slug", seat.task),
     ...keyed("person-slug", seat.principal),
     ...keyed("principal-seat-name", seat.above),
     ...keyed("start-mode", seat.mode),
@@ -114,7 +112,7 @@ export function plantInitiative(at: Fixture, relPath: string, slug: string): voi
   at.document(relPath, `page-type-slug: initiative\ntitle: "${slug}"\nslug: ${slug}\ndomain: global`, 20)
 }
 
-const VOCABULARIES = ["persona", "person", "role", "task"] as const
+const VOCABULARIES = ["persona", "person", "role"] as const
 
 export function seatStore(at: Fixture): void {
   installRepos(at.root)

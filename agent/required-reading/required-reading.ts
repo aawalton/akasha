@@ -10,8 +10,6 @@ const DOMAIN_KEY = "domain-slug"
 
 const ROLE_KEY = "role-slug"
 
-const TASK_KEY = "task-slug"
-
 const INITIATIVE_KEY = "initiative-slug"
 
 const PERSON_KEY = "person-slug"
@@ -33,8 +31,6 @@ const TRUE = "true"
 const PERSONA_TYPE = "persona"
 
 const ROLE_TYPE = "role"
-
-const TASK_TYPE = "task"
 
 const INITIATIVE_TYPE = "initiative"
 
@@ -111,7 +107,6 @@ function warrantsFrom(stated: Stated, index: AddressIndex): readonly Warranted[]
     for (const one of above(domain, index)) found.push({ claimant: "domain", page: one })
   }
   take("role", ROLE_TYPE, stated(ROLE_KEY))
-  take("task", TASK_TYPE, stated(TASK_KEY))
   take("initiative", INITIATIVE_TYPE, stated(INITIATIVE_KEY))
   take("principal", PERSON_TYPE, stated(PERSON_KEY))
   const mode = stated(MODE_KEY)
