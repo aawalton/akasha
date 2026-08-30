@@ -1,11 +1,19 @@
-import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Readout } from "../../readout-system/readout/readout.page-type.ts"
 
 export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
-  pageTypeSlug: "module",
+  pageTypeSlug: "readout",
   slug: "monarch-unreviewed-transactions",
   definition: "how many transactions are unreviewed",
   code: "ts",
+  label: "Unreviewed",
+  unit: "transactions",
+  place: 1,
+  scaleSlug: "backlog-count",
+  groupSlugs: ["categorization"],
+  noneLeftWords: "All reviewed!",
+  noneLeftEmoji: "🎉",
+  wireKey: "unreviewed",
   invariants: [
     {
       invariantKind: "departure",
@@ -37,4 +45,4 @@ export const monarchUnreviewedTransactions = {
       statement: "Nothing here caches a reading or decides when one is taken.",
     },
   ],
-} as const satisfies Module
+} as const satisfies Readout

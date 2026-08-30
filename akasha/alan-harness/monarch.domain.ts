@@ -6,7 +6,7 @@ export const monarch = {
   slug: "monarch",
   definition:
     "the outside service that gathers every account Alan holds into one picture of his money",
-  partSlugs: ["module/monarch-unreviewed-transactions"],
+  partSlugs: ["readout/monarch-unreviewed-transactions"],
   invariants: [
     {
       invariantKind: "departure",
