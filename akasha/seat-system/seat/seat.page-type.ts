@@ -5,6 +5,7 @@ import type { AssignmentSlug } from "./properties/assignment-slug.text-property.
 import type { InitiativeSlug } from "./properties/initiative-slug.relation-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
+import type { PrincipalSeatName } from "./properties/principal-seat-name.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.text-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
@@ -13,7 +14,8 @@ export type Seat = Page & {
   personaSlug: PersonaSlug
   assignmentSlug: AssignmentSlug
   roleSlug: RoleSlug
-  personSlug: PersonSlug
+  personSlug?: PersonSlug
+  principalSeatName?: PrincipalSeatName
   startMode: StartMode
   onCall: OnCall
   registrationAccount: RegistrationAccount
@@ -46,6 +48,7 @@ export const seat = {
     "record-property/turn-pending",
     "relation-property/initiative-slug",
     "relation-property/person-slug",
+    "relation-property/principal-seat-name",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/deferred-restart-notice",
@@ -62,7 +65,8 @@ export const seat = {
     { pagePropertySlug: "persona-slug", required: true, many: false },
     { pagePropertySlug: "assignment-slug", required: true, many: false },
     { pagePropertySlug: "role-slug", required: true, many: false },
-    { pagePropertySlug: "person-slug", required: true, many: false },
+    { pagePropertySlug: "person-slug", required: false, many: false },
+    { pagePropertySlug: "principal-seat-name", required: false, many: false },
     { pagePropertySlug: "start-mode", required: true, many: false },
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },
@@ -107,6 +111,10 @@ export const seat = {
     {
       invariantKind: "departure",
       statement: "A persona holds more than one seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat states the person who opened it or the seat that spawned it, never both.",
     },
   ],
 } as const satisfies PageType
