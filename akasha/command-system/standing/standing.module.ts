@@ -21,7 +21,7 @@ export const standing = {
     {
       invariantKind: "departure",
       statement:
-        "A body carried mechanically since it was read still stands for the reader it was carried for.",
+        "A body carried mechanically after it was read still stands for the reader it was carried for.",
     },
     {
       invariantKind: "departure",
@@ -29,18 +29,16 @@ export const standing = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A path no reading was recorded for is held to nothing, because nothing was read to hold it to.",
+      statement: "A path no reading was recorded for is held to nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change commits only where no commit reaching `akasha/` landed since it read its base.",
+        "A change commits only where no commit reaching `akasha/` landed after it read its base.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A commit reaching nothing under `akasha/` can change no verdict, so it is no reason to refuse.",
+      statement: "A commit reaching nothing under `akasha/` can change no verdict.",
     },
     {
       invariantKind: "departure",
