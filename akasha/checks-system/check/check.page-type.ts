@@ -30,6 +30,7 @@ export const check = {
     "check/file-length",
     "check/folder-matches-a-shape",
     "check/id-is-a-uuid-version-7",
+    "check/identifier-matches-its-place",
     "check/identifier-names-one-page",
     "check/imports-inside",
     "check/introduced-property-is-a-part",
