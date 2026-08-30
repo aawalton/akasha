@@ -1,16 +1,7 @@
 import { expect, test } from "bun:test"
-import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
+import { PROBE_AT, standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { ends, exhaustiveDispatch } from "./exhaustive-dispatch.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
 
 function switching(body: string): string {
   return `function held(one: string): string {\n  switch (one) {\n    case "a":\n      return "a"\n${body}  }\n  return ""\n}\n`
@@ -76,13 +67,7 @@ test("two switches falling out are refused once each", () => {
 })
 
 test("a statement ends the dispatch only where it throws, returns, or asserts never", () => {
-  const source = ts.createSourceFile(
-    PATH,
-    'throw new Error("a")\n',
-    ts.ScriptTarget.Latest,
-    true,
-    ts.ScriptKind.TS
-  )
+  const source = parsedAs(PROBE_AT, 'throw new Error("a")\n')
   const first = source.statements[0]
   expect(first === undefined ? false : ends(first)).toBe(true)
 })

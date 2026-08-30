@@ -1,9 +1,8 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
+import { PROBE_AT } from "../../no-refused-syntax.check.test-fixtures.ts"
 import type { Refusal } from "../syntax-rule.page-type.ts"
 import { noSwallowedRead } from "./no-swallowed-read.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
 
 const WALKING = 'import type { Leaving } from "../checks-system/judging/judging.module.code.ts"\n'
 
@@ -13,7 +12,7 @@ const SWALLOWED =
   "function one(at: string) { try { return readFileSync(at) } catch { return null } }\n"
 
 function over(text: string): readonly Refusal[] {
-  return noSwallowedRead({ path: PATH, source: parsedAs(PATH, text) })
+  return noSwallowedRead({ path: PROBE_AT, source: parsedAs(PROBE_AT, text) })
 }
 
 function walking(body: string): readonly Refusal[] {

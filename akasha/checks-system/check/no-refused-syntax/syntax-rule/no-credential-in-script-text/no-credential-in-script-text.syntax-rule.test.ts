@@ -1,19 +1,9 @@
 import { expect, test } from "bun:test"
-import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import {
   credentialNamedIn,
   noCredentialInScriptText,
 } from "./no-credential-in-script-text.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
 
 test("a file calling nothing is refused nothing", () => {
   expect(noCredentialInScriptText(standing("export const one = 1\n"))).toEqual([])

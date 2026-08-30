@@ -1,16 +1,8 @@
 import { expect, test } from "bun:test"
 import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
+import { PROBE_AT, standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { noSopsOnDevStdin, spelledIn } from "./no-sops-on-dev-stdin.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
 
 test("a file calling nothing is refused nothing", () => {
   expect(noSopsOnDevStdin(standing("export const one = 1\n"))).toEqual([])
@@ -76,13 +68,7 @@ test("only whole literals are read, so a joined path is not seen", () => {
 })
 
 test("strings are gathered out of a nested list and nothing else", () => {
-  const source = ts.createSourceFile(
-    PATH,
-    'const one = ["a", ["b"], 1, held]\n',
-    ts.ScriptTarget.Latest,
-    true,
-    ts.ScriptKind.TS
-  )
+  const source = parsedAs(PROBE_AT, 'const one = ["a", ["b"], 1, held]\n')
   const said = source.statements[0]
   const first =
     said !== undefined && ts.isVariableStatement(said)

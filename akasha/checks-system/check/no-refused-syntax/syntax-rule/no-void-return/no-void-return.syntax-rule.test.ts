@@ -1,16 +1,6 @@
 import { expect, test } from "bun:test"
-import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { noVoidReturn } from "./no-void-return.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
 
 test("a file returning nothing that way is refused nothing", () => {
   expect(noVoidReturn(standing("export const one = 1\n"))).toEqual([])

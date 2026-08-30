@@ -1,19 +1,10 @@
 import { expect, test } from "bun:test"
 import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { PROBE_AT, standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { midnightPinned, noLocalMidnightParse } from "./no-local-midnight-parse.syntax-rule.code.ts"
 
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
-
 function first(text: string): ts.Expression {
-  const source = ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = ts.createSourceFile(PROBE_AT, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const said = source.statements[0]
   if (said === undefined || !ts.isVariableStatement(said)) throw new Error("no declaration")
   const held = said.declarationList.declarations[0]?.initializer

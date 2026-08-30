@@ -1,13 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { noMutableCollection } from "./no-mutable-collection.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return { path: PATH, source: parsedAs(PATH, text) }
-}
 
 test("a file holding no collection at all is refused nothing", () => {
   expect(noMutableCollection(standing("export const one = 1\n"))).toEqual([])

@@ -1,16 +1,8 @@
 import { expect, test } from "bun:test"
 import ts from "typescript"
-import type { Standing } from "../syntax-rule.page-type.ts"
+import { parsedAs } from "../../../../../code-system/code-source/code-source.module.code.ts"
+import { PROBE_AT, standing } from "../../no-refused-syntax.check.test-fixtures.ts"
 import { noDoubleCast, withoutParens } from "./no-double-cast.syntax-rule.code.ts"
-
-const PATH = "akasha/one/probe.module.code.ts"
-
-function standing(text: string): Standing {
-  return {
-    path: PATH,
-    source: ts.createSourceFile(PATH, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS),
-  }
-}
 
 test("a file asserting nothing is refused nothing", () => {
   expect(noDoubleCast(standing("export const one = 1\n"))).toEqual([])
@@ -67,13 +59,7 @@ test("two double casts are refused once each", () => {
 })
 
 test("parentheses are taken off an expression until none are left", () => {
-  const source = ts.createSourceFile(
-    PATH,
-    "const one = ((held))\n",
-    ts.ScriptTarget.Latest,
-    true,
-    ts.ScriptKind.TS
-  )
+  const source = parsedAs(PROBE_AT, "const one = ((held))\n")
   const said = source.statements[0]
   const first =
     said !== undefined && ts.isVariableStatement(said)
