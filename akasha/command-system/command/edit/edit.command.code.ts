@@ -55,6 +55,11 @@ type Stated = {
 
 type Asking = {
   readonly path: string
+  readonly stated: readonly Stated[]
+}
+
+type Building = {
+  readonly path: string
   readonly stated: Stated[]
 }
 
@@ -64,9 +69,9 @@ type Read = {
 }
 
 function readIn(argv: readonly string[]): Read {
-  const asking: Asking[] = []
+  const asking: Building[] = []
   const refusals: string[] = []
-  let open: Asking | null = null
+  let open: Building | null = null
   let old: string | null = null
   for (let at = 0; at < argv.length; at += 1) {
     const token = argv[at]
