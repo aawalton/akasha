@@ -1,4 +1,4 @@
-import type { RingScale } from "../../../../../akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import type { RingScale } from "../../../../../akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 import { askNamed } from "@shared/pages-query"
 
 const READOUT_SCALES_ALL = "readout-scales-all"

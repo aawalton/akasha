@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-import type { RingCounts } from "../../../akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import type { RingCounts } from "../../../akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 
 const absentSecretSendsNoHeader = (value: string | undefined) =>
   value === undefined || value === "" ? undefined : value
