@@ -7,9 +7,9 @@ export const noRuleInTwoFiles = {
   definition: "the check refusing a function whose rule is spelled in another file as well",
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
-  runsOnWorktree: true,
-  runsOnDeploy: true,
+  runsOnPatch: false,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
   runsOnAudit: true,
   invariants: [
     {
@@ -46,6 +46,16 @@ export const noRuleInTwoFiles = {
       invariantKind: "departure",
       statement:
         "Every file the index names is read on each run, whatever the change carries, so a rule arriving in one file is answered against the whole tree rather than against the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "This judges at audit alone, because it reads the whole tree however small the change is, and at patch it refuses a file the change never touched.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A rule standing in two files while one is being moved to the other is what a landing looks like partway, and only a sweep of the settled tree can tell that apart from a rule left in two places.",
     },
   ],
 } as const satisfies Check
