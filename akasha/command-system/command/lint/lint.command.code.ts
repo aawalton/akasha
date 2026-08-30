@@ -40,12 +40,7 @@ function markOf(one: Found): string {
 }
 
 export function reportOf(found: readonly Found[]): readonly string[] {
-  const held = new Map<string, Found[]>()
-  for (const one of found) {
-    const group = held.get(one.path)
-    if (group === undefined) held.set(one.path, [one])
-    else group.push(one)
-  }
+  const held = Map.groupBy(found, (one) => one.path)
   const said: string[] = []
   for (const group of held.values()) {
     if (said.length > 0) said.push("")
