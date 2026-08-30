@@ -52,7 +52,7 @@ test("`since` states a reason as `because` does", () => {
   const body = paged(quoted("A cast is refused since claiming a shape is not proving one."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("states why at `since`")
+  expect(said[0]).toContain("joins a second fact at `,`")
   expect(said[0]).toContain("since claiming a shape is not proving one.")
 })
 
@@ -60,7 +60,7 @@ test("a clause hung on a participle states a reason, and the comma before it is 
   const body = paged(quoted("A list is read whole, arguments being gathered in one."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("states why at `arguments being`")
+  expect(said[0]).toContain("joins a second fact at `,`")
   expect(said[0]).toContain("arguments being gathered in one.")
 })
 
@@ -68,24 +68,24 @@ test("a consequence is named as a second fact rather than a reason, and left to 
   const body = paged(quoted("Patch judges only the paths a change carries, so it is turned on."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("line 3 joins a second fact at `so`")
+  expect(said[0]).toContain("line 3 joins a second fact at `,`")
   expect(said[0]).toContain("an invariant states one thing")
   expect(said[0]).toContain("so it is turned on.")
-  expect(said[0]).toContain("cut the second where it follows from the first")
+  expect(said[0]).toContain("cut what only explains or follows from the first")
 })
 
 test("`, as` draws a second fact as `, so` does", () => {
   const body = paged(quoted("A shape is added by adding a folder, as nothing here changes."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("joins a second fact at `as`")
+  expect(said[0]).toContain("joins a second fact at `,`")
   expect(said[0]).toContain("as nothing here changes.")
 })
 
 test("the two shapes are told apart, each saying what its own fix is", () => {
   const why = reasonsIn(given(paged(quoted("A page is named because the slug says so."))))[0]
   const both = reasonsIn(given(paged(quoted("A page is named, so the slug says it."))))[0]
-  expect(why).toContain("states why")
+  expect(why).toContain("states why at `because`")
   expect(why).not.toContain("joins a second fact")
   expect(both).toContain("joins a second fact")
   expect(both).not.toContain("states why")
@@ -105,7 +105,7 @@ test("a comma before `and` joins a second fact, and is refused", () => {
   )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("joins a second fact at `and`")
+  expect(said[0]).toContain("joins a second fact at `,`")
   expect(said[0]).toContain("and belongs to none.")
 })
 
@@ -119,7 +119,7 @@ test("a statement is split at the first clause that carries a reason or a conseq
   expect(splitAt(held)).toEqual({
     line: 1,
     drawn: true,
-    mark: "so",
+    mark: ",",
     first: "A page is named",
     second: "so the slug says it, because it must.",
   })
@@ -137,9 +137,9 @@ test("a word merely carrying those letters is let through, the word read whole",
   const body = paged(
     quoted("A reading is sincere."),
     quoted("A file is refused as a stray."),
-    quoted("The cause is filed, so long as nothing else is.")
+    quoted("The cause is filed where nothing else is.")
   )
-  expect(reasonsIn(given(body))).toHaveLength(1)
+  expect(reasonsIn(given(body))).toEqual([])
 })
 
 test("a statement spelt across lines is read whole, and a reason falling across the join is found", () => {

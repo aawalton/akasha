@@ -6,7 +6,7 @@ const KIND = "invariantKind"
 
 const STATEMENT = "statement"
 
-const WHY = /\b(because|since)\b|,\s*(so|as|and)\b|(;)|,\s*\w+ being\b/
+const WHY = /\b(because|since)\b|([,;])/
 
 const TRAILING = /[\s,;]+$/
 
@@ -73,7 +73,7 @@ export function splitAt(one: Stated): Split | null {
   if (held === null) return null
   return {
     line: one.line,
-    drawn: held[2] !== undefined || held[3] !== undefined,
+    drawn: held[2] !== undefined,
     mark: held[0].replace(COMMA, ""),
     first: one.text.slice(0, held.index).replace(TRAILING, ""),
     second: one.text.slice(held.index).replace(LEADING, ""),
@@ -85,13 +85,13 @@ function sayingOf(split: Split): string {
     return (
       `line ${split.line} joins a second fact at \`${split.mark}\` — an invariant states one thing\n` +
       `  ${split.second}\n` +
-      "  cut the second where it follows from the first, split it out where it does not"
+      "  cut what only explains or follows from the first. Split out what does not."
     )
   }
   return (
     `line ${split.line} states why at \`${split.mark}\` — an invariant states what is true, never why\n` +
     `  ${split.second}\n` +
-    "  cut what only explains; where a fact stands in there too, split it out and keep it"
+    "  cut what only explains. Split out a fact standing in there and keep it."
   )
 }
 
