@@ -2,10 +2,12 @@ import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { AuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
 import type { PersonSlug } from "./properties/person-authority-person-slug.relation-property.ts"
+import type { Target } from "./properties/person-authority-target.text-property.ts"
 
 export type PersonAuthority = Page & {
   personSlug: PersonSlug
   authorityKind: AuthorityKind
+  target: Target
 }
 
 export const personAuthority = {
@@ -18,9 +20,11 @@ export const personAuthority = {
   partSlugs: [
     "relation-property/person-authority-kind",
     "relation-property/person-authority-person-slug",
+    "text-property/person-authority-target",
   ],
   properties: [
     { pagePropertySlug: "person-authority-person-slug", required: true, many: false },
     { pagePropertySlug: "person-authority-kind", required: true, many: false },
+    { pagePropertySlug: "person-authority-target", required: true, many: false },
   ],
 } as const satisfies PageType
