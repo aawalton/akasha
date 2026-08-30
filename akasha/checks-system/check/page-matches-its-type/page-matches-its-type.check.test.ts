@@ -2,18 +2,17 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,
-  type Formatting,
   pageMatchesItsType,
   type Reading,
   reasonsIn,
   STATES_NO_PAGE_TYPE,
-  slugOf,
 } from "./page-matches-its-type.check.code.ts"
 
 const scratch = scratchWorld()
@@ -120,12 +119,6 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
     new Set<string>()
   )
 }
-
-test("a slug is taken off a qualified address and an id answers nothing", () => {
-  expect(slugOf("page-type/page")).toBe("page")
-  expect(slugOf("page")).toBe("page")
-  expect(slugOf("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
-})
 
 test("the chain is walked and the nearest declaration binds", () => {
   const declared = declaredFor("check", read)

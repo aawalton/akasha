@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import type { Address } from "./page-address.module.code.ts"
-import { addressIn } from "./page-address.module.code.ts"
+import { addressIn, slugIn } from "./page-address.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-address.module.code.ts`
 
@@ -54,6 +54,12 @@ test("an empty value is a bare slug rather than a form of its own", () => {
 
 test("a leading slash names an empty page type rather than no page type", () => {
   expect(qualified(addressIn("/dup"))).toEqual(["", "dup"])
+})
+
+test("a slug is taken off a qualified address and an id answers nothing", () => {
+  expect(slugIn("page-type/page")).toBe("page")
+  expect(slugIn("page")).toBe("page")
+  expect(slugIn("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
 })
 
 test("this module imports nothing, so everything that resolves an address can reach it", () => {

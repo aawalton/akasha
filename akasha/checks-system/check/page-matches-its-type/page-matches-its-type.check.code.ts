@@ -1,5 +1,3 @@
-import { createRequire } from "node:module"
-import { join } from "node:path"
 import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
@@ -14,13 +12,12 @@ import {
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
-import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
-import { addressIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
-  besideAt,
-  pageNamed,
-} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+  type Formatting,
+  matchingIn,
+} from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
+import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
@@ -29,12 +26,6 @@ import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 const INSIDE = "akasha/"
 
 const PAGE_TYPE = "page-type"
-
-const NAME_FORMAT = "name-format"
-
-const CODE = "code"
-
-const TS = "ts"
 
 const TEXT = "text-property"
 
@@ -48,8 +39,6 @@ const FORMAT = "nameFormatSlug"
 
 const NOTHING: ReadonlySet<string> = new Set()
 
-const loadFrom = createRequire(import.meta.url)
-
 export type Declared = {
   readonly required: boolean
   readonly many: boolean
@@ -59,8 +48,6 @@ export type Declared = {
 }
 
 export type Reading = (pageTypeSlug: string, slug: string) => Value | null
-
-export type Formatting = (nameFormatSlug: string) => Matching
 
 function countAt(held: Record<string, unknown>, key: string): number | null {
   const said = held[key]
@@ -89,11 +76,6 @@ function declaredAt(held: Record<string, unknown>): Declared {
   }
 }
 
-export function slugOf(named: string): string | null {
-  const address = addressIn(named)
-  return address.kind === "id" ? null : address.slug
-}
-
 export function declaredFor(pageTypeSlug: string, read: Reading): ReadonlyMap<string, Declared> {
   const found = new Map<string, Declared>()
   const walked = new Set<string>()
@@ -108,52 +90,9 @@ export function declaredFor(pageTypeSlug: string, read: Reading): ReadonlyMap<st
       found.set(slug, declaredAt(one))
     }
     const above = textAt(value, "extendsSlug")
-    here = above === null ? null : slugOf(above)
+    here = above === null ? null : slugIn(above)
   }
   return found
-}
-
-export function matchingIn(root: string): Formatting {
-  const held = new Map<string, Matching>()
-  return (nameFormatSlug) => {
-    const found = held.get(nameFormatSlug)
-    if (found !== undefined) return found
-    const slug = slugOf(nameFormatSlug)
-    if (slug === null) {
-      throw new Error(
-        `\`${nameFormatSlug}\` names a name format by id, and a format is reached here by slug`
-      )
-    }
-    const one = standingAt(root, NAME_FORMAT, slug)[0]
-    if (one === undefined) {
-      throw new Error(
-        `no name format carries the slug \`${slug}\`, so nothing can judge a value said to be written in it`
-      )
-    }
-    const beside = besideAt(one.path, CODE, TS)
-    if (beside === null) {
-      throw new Error(
-        `${one.path} is a name format, and no code file can stand beside a name like it`
-      )
-    }
-    let mod: Record<string, unknown>
-    try {
-      mod = loadFrom(join(root, beside)) as Record<string, unknown>
-    } catch (thrown) {
-      throw new Error(
-        `${one.path} is a name format, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
-      )
-    }
-    const named = mod[exportedAs(slug)]
-    if (typeof named !== "function") {
-      throw new Error(
-        `${one.path} is a name format, and ${beside} answers to nothing that can judge`
-      )
-    }
-    const matching = named as Matching
-    held.set(nameFormatSlug, matching)
-    return matching
-  }
 }
 
 function overMax(said: unknown, max: number | null, slug: string, where: string): string | null {

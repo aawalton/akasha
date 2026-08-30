@@ -12,13 +12,13 @@ import {
   shadowFor,
 } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
+import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   declaredFor,
   type Reading,
   readingIn,
-  slugOf,
 } from "../page-matches-its-type/page-matches-its-type.check.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
@@ -64,7 +64,7 @@ export function declaresIn(value: Value | null): readonly string[] {
 export function introducedIn(value: Value | null, read: Reading): readonly string[] {
   if (value === null) return []
   const said = textAt(value, ABOVE)
-  const above = said === null ? null : slugOf(said)
+  const above = said === null ? null : slugIn(said)
   const inherited = above === null ? null : declaredFor(above, read)
   return declaresIn(value).filter((one) => inherited === null || !inherited.has(one))
 }

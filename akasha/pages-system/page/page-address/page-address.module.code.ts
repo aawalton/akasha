@@ -15,3 +15,8 @@ export function addressIn(named: string): Address {
     slug: named.slice(cut + 1),
   }
 }
+
+export function slugIn(named: string): string | null {
+  const address = addressIn(named)
+  return address.kind === "id" ? null : address.slug
+}

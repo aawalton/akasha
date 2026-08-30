@@ -10,6 +10,7 @@ export const nameFormat = {
   definition: "how a name's parts are joined and capitalized",
   pluralSlug: "name-formats",
   partSlugs: [
+    "module/format-reaching",
     "module/name-matching",
     "name-format/lower-camel-case",
     "name-format/lower-kebab-case",
