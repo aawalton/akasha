@@ -10,15 +10,19 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The cache that holds a ring reading between calls is in akasha.",
+      statement: "The readout page type is in akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "The scale a backlog count is read against is in akasha.",
+      statement: "The scale a reading is read against is in akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "What a readout shows when nothing is left is in akasha.",
+      statement: "Monarch's unreviewed transactions are a readout carrying the reading last taken.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
     },
     {
       invariantKind: "gap",
@@ -26,11 +30,16 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "Alan's categorization route is in akasha.",
+      statement:
+        "Alan's categorization route is in akasha, answering from the readout rather than from Monarch.",
     },
     {
       invariantKind: "gap",
       statement: "The ring a categorize tile draws is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The unreviewed transaction ring never displays an arc.",
     },
     {
       invariantKind: "gap",
@@ -50,7 +59,7 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "The relay that carries Alan's counts to Jenny's site is in akasha.",
+      statement: "The relay that carries Alan's reading to Jenny's site is in akasha.",
     },
     {
       invariantKind: "gap",
@@ -74,11 +83,13 @@ export const amyJennyUnreviewedWidget = {
     },
   ],
   notes: [
-    "Jenny's tile shows Alan's Monarch counts relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
+    "Jenny's tile shows Alan's Monarch reading relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
     "Alan's path is a prefix of Jenny's, so his tile costs nothing beyond what hers already needs and is reached first.",
-    "What the tile counts is already in akasha, so the stack starts at what reads that rather than at Monarch.",
-    "Alan's route cannot move before what it reads has moved: the cache, the scale, the none-left words and the credential are each read by it.",
+    "What the tile counts is already in akasha, so the stack starts at the page type that would hold the reading rather than at Monarch.",
+    "The reading is taken on a workstation because a pod cannot write the page store, and the endpoint that would let one is work of its own rather than this initiative's.",
+    "What a readout shows when nothing is left is carried by the readout, so it arrives with the page type rather than as an intent of its own.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
+    "Dropping the arc drops the fraction, and the fraction is the only reader of intake, so the wire narrows to the one count that is shown.",
     "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
   ],
 } as const satisfies Initiative
