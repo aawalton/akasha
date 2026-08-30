@@ -16,10 +16,5 @@ export const seat = {
       invariantKind: "departure",
       statement: "A seat's attributes can be re-stated without making it another seat.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "What a seat states and what is observed of it are each declared here, settled one at a time against the seats standing today.",
-    },
   ],
 } as const satisfies PageType

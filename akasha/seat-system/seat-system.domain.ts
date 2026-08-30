@@ -35,9 +35,5 @@ export const seatSystem = {
       statement:
         "A seat outlives the editor showing it and the agent sitting in it, so neither can be asked where it stands.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A seat is a page the akasha system holds.",
-    },
   ],
 } as const satisfies Domain
