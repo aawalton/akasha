@@ -20,6 +20,7 @@ export type Stated = {
 export type Split = {
   readonly line: number
   readonly drawn: boolean
+  readonly mark: string
   readonly first: string
   readonly second: string
 }
@@ -71,6 +72,7 @@ export function splitAt(one: Stated): Split | null {
   return {
     line: one.line,
     drawn: held[2] !== undefined,
+    mark: held[0].replace(LEADING, ""),
     first: one.text.slice(0, held.index).replace(TRAILING, ""),
     second: one.text.slice(held.index).replace(LEADING, ""),
   }
@@ -79,16 +81,15 @@ export function splitAt(one: Stated): Split | null {
 function sayingOf(split: Split): string {
   if (split.drawn) {
     return (
-      `line ${split.line} holds two facts in one statement\n` +
-      `  first:  ${split.first}\n` +
-      `  second: ${split.second}\n` +
+      `line ${split.line} joins a second fact at \`${split.mark}\` — an invariant states one thing\n` +
+      `  ${split.second}\n` +
       "  cut the second where it follows from the first, split it out where it does not"
     )
   }
   return (
-    `line ${split.line} states why — an invariant states what is true, never why\n` +
-    `  keep: ${split.first}\n` +
-    `  cut:  ${split.second}`
+    `line ${split.line} states why at \`${split.mark}\` — an invariant states what is true, never why\n` +
+    `  ${split.second}\n` +
+    "  cut what only explains; where a fact stands in there too, split it out and keep it"
   )
 }
 

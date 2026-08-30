@@ -35,40 +35,42 @@ test("an invariant stating only what is true is let through", () => {
   expect(reasonsIn(given(body))).toEqual([])
 })
 
-test("a statement giving its reason is refused, and the clause to cut is shown whole", () => {
+test("a statement giving its reason is refused, and the clause it turns on is named", () => {
   const body = paged(
     quoted("A slug becomes a page's export name because reaching the format would be an import.")
   )
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3")
+  expect(said[0]).toContain("states why at `because`")
   expect(said[0]).toContain("an invariant states what is true, never why")
-  expect(said[0]).toContain("keep: A slug becomes a page's export name")
-  expect(said[0]).toContain("cut:  because reaching the format would be an import.")
+  expect(said[0]).toContain("because reaching the format would be an import.")
+  expect(said[0]).toContain("cut what only explains")
 })
 
 test("`since` states a reason as `because` does", () => {
   const body = paged(quoted("A cast is refused since claiming a shape is not proving one."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("cut:  since claiming a shape is not proving one.")
+  expect(said[0]).toContain("states why at `since`")
+  expect(said[0]).toContain("since claiming a shape is not proving one.")
 })
 
 test("a clause hung on a participle states a reason, and the comma before it is cut away", () => {
   const body = paged(quoted("A list is read whole, arguments being gathered in one."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("keep: A list is read whole")
-  expect(said[0]).toContain("cut:  arguments being gathered in one.")
+  expect(said[0]).toContain("states why at `arguments being`")
+  expect(said[0]).toContain("arguments being gathered in one.")
 })
 
-test("a consequence is named as a second fact rather than a reason, and both halves are shown", () => {
+test("a consequence is named as a second fact rather than a reason, and left to be judged", () => {
   const body = paged(quoted("Patch judges only the paths a change carries, so it is turned on."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("line 3 holds two facts in one statement")
-  expect(said[0]).toContain("first:  Patch judges only the paths a change carries")
-  expect(said[0]).toContain("second: so it is turned on.")
+  expect(said[0]).toContain("line 3 joins a second fact at `so`")
+  expect(said[0]).toContain("an invariant states one thing")
+  expect(said[0]).toContain("so it is turned on.")
   expect(said[0]).toContain("cut the second where it follows from the first")
 })
 
@@ -76,17 +78,17 @@ test("`, as` draws a second fact as `, so` does", () => {
   const body = paged(quoted("A shape is added by adding a folder, as nothing here changes."))
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("holds two facts in one statement")
-  expect(said[0]).toContain("second: as nothing here changes.")
+  expect(said[0]).toContain("joins a second fact at `as`")
+  expect(said[0]).toContain("as nothing here changes.")
 })
 
 test("the two shapes are told apart, each saying what its own fix is", () => {
   const why = reasonsIn(given(paged(quoted("A page is named because the slug says so."))))[0]
   const both = reasonsIn(given(paged(quoted("A page is named, so the slug says it."))))[0]
-  expect(why).toContain("keep:")
-  expect(why).not.toContain("first:")
-  expect(both).toContain("first:")
-  expect(both).not.toContain("keep:")
+  expect(why).toContain("states why")
+  expect(why).not.toContain("joins a second fact")
+  expect(both).toContain("joins a second fact")
+  expect(both).not.toContain("states why")
 })
 
 test("a statement is split at the first clause that carries a reason or a consequence", () => {
@@ -94,6 +96,7 @@ test("a statement is split at the first clause that carries a reason or a conseq
   expect(splitAt(held)).toEqual({
     line: 1,
     drawn: true,
+    mark: "so",
     first: "A page is named",
     second: "so the slug says it, because it must.",
   })
@@ -126,8 +129,8 @@ test("a statement spelt across lines is read whole, and a reason falling across 
   const said = reasonsIn(given(body))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 6")
-  expect(said[0]).toContain("keep: A page is named for its slug")
-  expect(said[0]).toContain("cut:  because the name is the slug.")
+  expect(said[0]).toContain("states why at `because`")
+  expect(said[0]).toContain("because the name is the slug.")
 })
 
 test("the statement is read from the page rather than from the prose around it", () => {
