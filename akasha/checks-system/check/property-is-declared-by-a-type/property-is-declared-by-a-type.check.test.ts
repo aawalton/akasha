@@ -247,6 +247,28 @@ test("a property whose body will not load is passed over rather than thrown on",
   expect(said).toEqual([])
 })
 
+test("a property whose file stem disagrees with the slug it states is judged, not skipped", () => {
+  const root = rooted()
+  const at = pathFor("relation-property", "held")
+  const said = propertyIsDeclaredByAType(
+    landing(root, { [at]: body("relation-property", "other", ONE) })
+  )
+  expect(said.map((filed) => filed.path)).toEqual([at])
+})
+
+test("two properties carrying one slug are each judged, not skipped", () => {
+  const root = rooted()
+  const one = pathFor("relation-property", "held")
+  const two = pathFor("relation-property", "other")
+  const said = propertyIsDeclaredByAType(
+    landing(root, {
+      [one]: body("relation-property", "held", ONE),
+      [two]: body("relation-property", "held", TWO),
+    })
+  )
+  expect(said.map((filed) => filed.path).sort()).toEqual([one, two].sort())
+})
+
 test("the slug is the file's stem and the page type its suffix", () => {
   const root = rooted()
   expect(propertyNamedIn(root, "akasha/a/b/name-format-slug.relation-property.ts")).toEqual({

@@ -6,7 +6,7 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
-  standingAt,
+  standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import {
@@ -102,9 +102,8 @@ export function propertyIsDeclaredByAType(leaving: Leaving): readonly Judged[] {
     if (leaving.at(path) === null) continue
     const held = propertyNamedIn(leaving.root, path, under)
     if (held === null) continue
-    const found = standingAt(shadow.reading, held.pageTypeSlug, held.slug)
-    const one = found[0]
-    if (found.length !== 1 || one === undefined) continue
+    const one = standingByPath(shadow.reading, path).find((filed) => filed.path === path)
+    if (one === undefined) continue
     judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
   }
   return said

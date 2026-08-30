@@ -45,12 +45,17 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "An index answering other than one page to the slug is passed over, not thrown on, because a check that throws leaves every other page in the change unjudged.",
+        "Which page stands at a path is asked of the path index, not of the slug its file name says, so a file named otherwise than the slug it states is still judged, and so is a slug two pages carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the index files nothing for is passed over, not thrown on, because a check that throws leaves every other page in the change unjudged.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Why the index answers none or two is not said here. A page stating no `id`, a body that will not load, a file named otherwise than its slug and a slug two pages carry are refused in words beside this.",
+        "Why nothing is filed for a path is not said here. A page stating no `id` and a body that will not load are refused in words beside this, in every phase.",
     },
     {
       invariantKind: "departure",

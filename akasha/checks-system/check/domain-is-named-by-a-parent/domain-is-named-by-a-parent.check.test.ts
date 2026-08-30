@@ -241,6 +241,23 @@ test("a page whose body will not load is passed over rather than thrown on", () 
   expect(said).toEqual([])
 })
 
+test("a page whose file stem disagrees with the slug it states is judged, not skipped", () => {
+  const root = rooted()
+  const at = pathFor("domain", "held")
+  const said = domainIsNamedByAParent(landing(root, { [at]: body("domain", "other", ONE) }))
+  expect(said.map((filed) => filed.path)).toEqual([at])
+})
+
+test("two pages carrying one slug are each judged, not skipped", () => {
+  const root = rooted()
+  const one = pathFor("domain", "held")
+  const two = pathFor("domain", "other")
+  const said = domainIsNamedByAParent(
+    landing(root, { [one]: body("domain", "held", ONE), [two]: body("domain", "held", TWO) })
+  )
+  expect(said.map((filed) => filed.path).sort()).toEqual([one, two].sort())
+})
+
 test("the slug is the file's stem and the page type its suffix", () => {
   const root = rooted()
   expect(domainNamedIn(root, "akasha/a/b/index-relation.domain.ts")).toEqual({
