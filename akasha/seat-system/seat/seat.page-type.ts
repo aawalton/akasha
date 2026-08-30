@@ -1,9 +1,11 @@
 import type { PersonaSlug } from "../../domain-system/initiative/properties/persona-slug.text-property.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { DomainSlug } from "./properties/domain-slug.text-property.ts"
 
 export type Seat = Page & {
   personaSlug: PersonaSlug
+  domainSlug: DomainSlug
 }
 
 export const seat = {
@@ -14,7 +16,11 @@ export const seat = {
   pluralSlug: "seats",
   extendsSlug: "page-type/page",
   mortal: true,
-  properties: [{ pagePropertySlug: "persona-slug", required: true, many: false }],
+  partSlugs: ["text-property/domain-slug"],
+  properties: [
+    { pagePropertySlug: "persona-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/domain-slug", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
