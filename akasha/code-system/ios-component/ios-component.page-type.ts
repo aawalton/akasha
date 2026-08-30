@@ -12,7 +12,14 @@ export const iosComponent = {
   slug: "ios-component",
   definition: "code an iOS app is built from",
   pluralSlug: "ios-components",
-  partSlugs: ["file-property/swift"],
+  partSlugs: [
+    "ios-component/categorize-ring",
+    "ios-component/ring",
+    "ios-component/safety-ring",
+    "ios-component/surplus-ring",
+    "ios-component/tier",
+    "file-property/swift",
+  ],
   extendsSlug: "page-type/domain",
   properties: [{ pagePropertySlug: "swift", required: true, many: false }],
   invariants: [
