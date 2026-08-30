@@ -5,5 +5,10 @@ export const readoutSystem = {
   pageTypeSlug: "domain",
   slug: "readout-system",
   definition: "how a reading reaches the person it is for",
-  partSlugs: ["page-type/readout", "page-type/readout-group", "page-type/readout-scale"],
+  partSlugs: [
+    "page-type/readout",
+    "page-type/readout-group",
+    "page-type/readout-scale",
+    "page-type/readout-widget",
+  ],
 } as const satisfies Domain

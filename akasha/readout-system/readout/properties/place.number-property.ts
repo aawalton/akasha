@@ -7,6 +7,6 @@ export const place = {
   pageTypeSlug: "number-property",
   slug: "place",
   propertySlug: "place",
-  definition: "where a reading sits among those drawn with it",
+  definition: "where a thing sits among those shown with it",
   max: null,
 } as const satisfies NumberProperty
