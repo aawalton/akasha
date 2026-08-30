@@ -29,7 +29,11 @@ export const move = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A move repoints a relative specifier only; one naming a package is left alone.",
+      statement: "A move repoints a relative specifier only.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "One naming a package is left alone.",
     },
     {
       invariantKind: "departure",

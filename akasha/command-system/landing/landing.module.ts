@@ -108,8 +108,12 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "Checks that will not load refuse the change.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Checks that will not load refuse the change; only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
+        "Only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
     },
     {
       invariantKind: "departure",

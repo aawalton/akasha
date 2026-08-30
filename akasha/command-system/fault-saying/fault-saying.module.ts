@@ -30,8 +30,12 @@ export const faultSaying = {
     },
     {
       invariantKind: "gap",
+      statement: "Nine places outside command-system read a thrown thing for its message by hand.",
+    },
+    {
+      invariantKind: "gap",
       statement:
-        "Nine places outside command-system read a thrown thing for its message by hand; they cannot reach this, standing where it does, and the rule is said here and spelled there.",
+        "They cannot reach this, standing where it does, and the rule is said here and spelled there.",
     },
   ],
 } as const satisfies Module

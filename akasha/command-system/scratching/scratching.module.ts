@@ -21,8 +21,11 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test names only the prefix it wants; the root and its sweeping are not its concern.",
+      statement: "A test names only the prefix it wants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root and its sweeping are not its concern.",
     },
     {
       invariantKind: "departure",

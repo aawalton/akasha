@@ -27,8 +27,12 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "A gate that will not build is handed back as broken rather than thrown.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A gate that will not build is handed back as broken rather than thrown; it says only why the gate is missing, and the caller says what a missing gate means.",
+        "It says only why the gate is missing, and the caller says what a missing gate means.",
     },
     {
       invariantKind: "departure",
