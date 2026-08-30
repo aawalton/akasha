@@ -15,11 +15,11 @@ const ID = "01a04f2b-0000-7000-8000-00000000000a"
 
 const SHAPE = "text-property"
 
-function filed(root: string, at: string, said: Record<string, unknown>): void {
+function filed(root: string, at: string, said: Record<string, unknown>): undefined {
   put(indexIn(root), at, `${JSON.stringify(said)}\n`)
 }
 
-function standing(root: string, slug: string, said: string): void {
+function standing(root: string, slug: string, said: string): undefined {
   const at = `akasha/${slug}.${SHAPE}.ts`
   put(
     root,
@@ -29,7 +29,7 @@ function standing(root: string, slug: string, said: string): void {
   filed(root, `identity/${SHAPE}/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
-function named(root: string, slug: string, unique: string | null = null): void {
+function named(root: string, slug: string, unique: string | null = null): undefined {
   filed(root, `schema/page-property/slug/${slug}.jsonl`, {
     pageTypeSlug: SHAPE,
     targetPageTypeSlug: null,

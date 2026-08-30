@@ -31,10 +31,10 @@ export const scratch = scratchWorld()
 export function grounded(): { readonly root: string; readonly repo: string } {
   const repo = scratch.rootFor("akasha-entries-repo-")
   const root = scratch.rootFor("akasha-entries-root-")
-  const page = (at: string, value: Record<string, unknown>): void => {
+  const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
   }
-  const filed = (at: string, line: string): void => {
+  const filed = (at: string, line: string): undefined => {
     mkdirSync(dirname(join(root, at)), { recursive: true })
     writeFileSync(join(root, at), `${line}\n`)
   }
