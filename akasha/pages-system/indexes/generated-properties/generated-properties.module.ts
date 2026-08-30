@@ -15,32 +15,39 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property is generated when it states a generator, so a third one is answered here with no code changed.",
+      statement: "A property is generated when it states a generator.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The pages are reached through the shadow of the change being judged, so a property taking a generator and the first page leaning on it land together.",
+      statement: "A third generator kind is answered here with no code changed.",
     },
     {
       invariantKind: "departure",
-      statement: "The slugs come back in one order, so what is built from them does not shift.",
+      statement: "The pages are reached through the shadow of the change being judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether a value waits for the checks is read from the generator kind's own page, so the two kinds are told apart by what they say rather than by their names.",
+      statement: "A property taking a generator and the first page leaning on it land together.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A generator naming a kind that stands nowhere is refused, because a kind that cannot be read is not a kind that works its value out early.",
+      statement: "The slugs come back in one order.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The shadow is what is asked, never a root, so nothing here can read the committed index by accident.",
+      statement: "Whether a value waits for the checks is read from the generator kind's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two kinds are told apart by what they say rather than by their names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator naming a kind that stands nowhere is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shadow is what is asked, never a root.",
     },
     {
       invariantKind: "absence",

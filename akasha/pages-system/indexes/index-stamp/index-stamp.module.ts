@@ -14,7 +14,7 @@ export const indexStamp = {
     },
     {
       invariantKind: "departure",
-      statement: "The stamp names the paths settled since that commit.",
+      statement: "The stamp names the paths settled after that commit.",
     },
     {
       invariantKind: "departure",

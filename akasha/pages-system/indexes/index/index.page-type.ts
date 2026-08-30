@@ -28,7 +28,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "An index is derived, so it states no fact the pages do not already carry.",
+      statement: "An index is derived.",
     },
     {
       invariantKind: "departure",
@@ -37,8 +37,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index states its test, because an index filing the wrong entry is wrong quietly.",
+      statement: "An index states its test.",
     },
   ],
 } as const satisfies PageType

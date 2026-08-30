@@ -34,13 +34,16 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where an index stands is said here alone, as a path under the root, so a caller that must name one in a refusal says the path it reached rather than spelling it again.",
+      statement: "An index's path under the root is said here alone.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reader here takes the repository root or a reading of the index, so no caller works out where the index stands to ask a question.",
+        "A caller that must name an index in a refusal says the path it reached rather than spelling it again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader here takes the repository root or a reading of the index.",
     },
     {
       invariantKind: "absence",

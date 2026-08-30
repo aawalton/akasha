@@ -44,13 +44,11 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That folder is read from the index's own page, so no module spells the name of an index.",
+      statement: "That folder is read from the index's own page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index answers one question of the corpus, so a question no index answers is a new index rather than a wider one.",
+      statement: "An index answers one question of the corpus.",
     },
     {
       invariantKind: "absence",

@@ -16,13 +16,15 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reader takes that surface rather than reaching for the disk, so what it reads can be something other than the committed index.",
+      statement: "A reader takes that surface rather than reaching for the disk.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reading laid over another holds only the entry files a change touches, so laying one over costs what the change is, never what the index is.",
+      statement: "What it reads can be something other than the committed index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading laid over another holds only the entry files a change touches.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +33,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A directory holding no emptied path is listed straight through, so nothing is stated about files the change did not touch.",
+      statement: "A directory holding no emptied path is listed straight through.",
     },
     {
       invariantKind: "absence",

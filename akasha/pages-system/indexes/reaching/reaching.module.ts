@@ -14,8 +14,7 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name saying its own page type is held to the target its property declares, so naming a page of the wrong type is refused rather than resolved.",
+      statement: "A name saying its own page type is held to the target its property declares.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +33,7 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement:
-        "What a name reaches is said here alone, and the module saying a page's entries names nothing here, so the two never stand in a circle.",
+        "What a name reaches is said here alone; the module saying a page's entries names nothing here.",
     },
   ],
 } as const satisfies Module
