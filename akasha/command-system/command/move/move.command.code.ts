@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import { indexPath } from "../../../pages-system/indexes/index/index-path/index-path.index.ts"
@@ -10,6 +10,7 @@ import {
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
+import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import {
   BREAK_GLASS,
@@ -209,6 +210,7 @@ type Sided = {
   readonly from: string
   readonly to: string
   readonly named: boolean
+  readonly committed: boolean
 }
 
 type Reached = {
@@ -278,7 +280,7 @@ function sidedIn(
     }
     seen.add(from)
     taken.add(to)
-    sides.push({ from, to, named: true })
+    sides.push({ from, to, named: true, committed: true })
     for (const held of besideOf(root, from)) {
       if (seen.has(held)) continue
       seen.add(held)
@@ -288,11 +290,21 @@ function sidedIn(
         continue
       }
       taken.add(there)
-      sides.push({ from: held, to: there, named: false })
+      sides.push({ from: held, to: there, named: false, committed: !uncommittedNamed(held) })
     }
   }
   if (refusals.length > 0) return { refusals }
   return { sides }
+}
+
+function carryUncommitted(root: string, sides: readonly Sided[]): void {
+  for (const one of sides) {
+    const at = join(root, one.from)
+    if (one.committed || !existsSync(at)) continue
+    const to = join(root, one.to)
+    mkdirSync(dirname(to), { recursive: true })
+    renameSync(at, to)
+  }
 }
 
 function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): readonly string[] {
@@ -339,6 +351,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   const changes: Change[] = []
   const carries: Carry[] = []
   for (const one of sided.sides) {
+    if (!one.committed) continue
     const bytes = bodyAt(root, stood, one.from)
     if (bytes === null) {
       return answering(
@@ -412,7 +425,10 @@ export function move(argv: readonly string[], given: Given): Answer {
     saying: () => carrying(sided.sides, reached, false),
   }
   const landed = landingAsked({ ...given, root }, asked)
-  if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
+  if (landed.code === 0 && !read.dryRun) {
+    carryReadings(root, carries)
+    carryUncommitted(root, sided.sides)
+  }
   if (landed.code !== 0 || !read.dryRun) return landed
   return answering([...carrying(sided.sides, reached, true), ...landed.report], [], 0)
 }

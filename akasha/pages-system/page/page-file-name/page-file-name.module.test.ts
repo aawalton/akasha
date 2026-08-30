@@ -5,6 +5,7 @@ import {
   namedIn,
   pageNamed,
   uncommittedAt,
+  uncommittedNamed,
 } from "./page-file-name.module.code.ts"
 
 const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
@@ -137,4 +138,10 @@ test("an uncommitted file stands beside its page, and heldIn takes that name apa
 
 test("a path that is no TypeScript file carries no uncommitted file", () => {
   expect(uncommittedAt("akasha/one/notes.txt")).toBeNull()
+})
+
+test("a name tailed `uncommitted` is answered as one, and a page or property file is not", () => {
+  expect(uncommittedNamed("akasha/one/file-length.check.uncommitted.ts")).toBe(true)
+  expect(uncommittedNamed("akasha/one/file-length.check.ts")).toBe(false)
+  expect(uncommittedNamed("akasha/one/file-length.check.code.ts")).toBe(false)
 })

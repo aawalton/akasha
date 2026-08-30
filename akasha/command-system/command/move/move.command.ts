@@ -22,6 +22,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file holding uncommitted values goes with the page it stands beside, carried on disk once the move lands, because it stands in no commit for a move to carry.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body is carried as it stands but for the specifiers it holds.",
     },
     {

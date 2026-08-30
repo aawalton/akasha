@@ -36,6 +36,10 @@ export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean
   return said !== null && said.tail !== UNCOMMITTED && pageTypes.has(said.tail)
 }
 
+export function uncommittedNamed(path: string): boolean {
+  return namedIn(path)?.tail === UNCOMMITTED
+}
+
 export function besideAt(path: string, propertySlug: string, held: string): string | null {
   if (!path.endsWith(TS)) return null
   return `${path.slice(0, -TS.length)}.${propertySlug}.${held}`

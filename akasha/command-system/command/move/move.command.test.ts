@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
-import { stands } from "../../../testing-system/putting/putting.module.code.ts"
+import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { move, PATHS_AT, pairsIn, surface } from "./move.command.code.ts"
 import {
@@ -39,6 +39,12 @@ import {
 afterAll(scratch.sweep)
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+const UNSAID = "akasha/one/held.module.uncommitted.ts"
+
+const UNSAID_AT = "akasha/three/held.module.uncommitted.ts"
+
+const VALUES = `export const held = { title: "unsaid" }\n`
 
 function held(root: string, path: string, body: string): void {
   warrantsStanding(root, ["file-itself"])
@@ -329,4 +335,25 @@ test("every flag the surface shows is a flag this takes", () => {
     const said = pairsIn([one.said.split(" ")[0] ?? ""])
     expect("refused" in said ? said.refused : "").not.toContain("this takes")
   }
+})
+
+test("a page holding uncommitted values is carried, and that file goes with it", () => {
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  put(root, UNSAID, VALUES)
+  const said = move(PAIR, givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(stands(root, UNSAID)).toBe(false)
+  expect(readFileSync(join(root, UNSAID_AT), "utf8")).toBe(VALUES)
+  expect(said.report.join("\n")).toContain(`${UNSAID} to ${UNSAID_AT}`)
+})
+
+test("the commit a move lands carries no path holding uncommitted values", () => {
+  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  put(root, UNSAID, VALUES)
+  const said = move(PAIR, givenIn(root))
+  expect(said.refusals).toEqual([])
+  const shown = git(root, ["diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD"])
+  expect(shown.trim().split("\n").sort()).toEqual([HELD, THREE].sort())
+  expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
 })
