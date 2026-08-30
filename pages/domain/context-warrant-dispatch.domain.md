@@ -6,7 +6,6 @@ slug: context-warrant-dispatch
 domain-parent-slug: domain/context-warrant-assignment
 sequence-slugs:
   - domain/context-warrant-initiative
-  - domain/context-warrant-task
   - domain/context-warrant-errand
 settled: true
 ---
