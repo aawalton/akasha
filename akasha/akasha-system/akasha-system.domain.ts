@@ -28,6 +28,7 @@ export const akashaSystem = {
     "domain/agents-system",
     "domain/akasha-required-reading",
     "domain/akasha-migration",
+    "domain/alan-harness",
   ],
   invariants: [
     {
