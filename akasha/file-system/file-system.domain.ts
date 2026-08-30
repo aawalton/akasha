@@ -4,6 +4,6 @@ export const fileSystem = {
   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",
   pageTypeSlug: "domain",
   slug: "file-system",
-  definition: "how processes on one machine take turns over the files they write",
-  partSlugs: ["module/lock-holder"],
+  definition: "where akasha keeps what git does not track, and how processes take turns over it",
+  partSlugs: ["module/data-place", "module/lock-holder"],
 } as const satisfies Domain
