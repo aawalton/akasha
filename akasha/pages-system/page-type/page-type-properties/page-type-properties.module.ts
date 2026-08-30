@@ -4,7 +4,8 @@ export const pageTypeProperties = {
   id: "01a053f6-7bab-764e-b69d-af9ebf0f1558",
   pageTypeSlug: "module",
   slug: "page-type-properties",
-  definition: "the properties a page type carries, each under the key it is read by",
+  definition:
+    "the properties a page type or a record property carries, each under the key it is read by",
   code: "ts",
   test: "ts",
   invariants: [
@@ -29,6 +30,14 @@ export const pageTypeProperties = {
       invariantKind: "departure",
       statement:
         "A declaration reaching no page property is left out rather than keyed by the name it states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record property declares its fields as a page type declares its properties.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field is declared by the record property carrying it.",
     },
     {
       invariantKind: "absence",

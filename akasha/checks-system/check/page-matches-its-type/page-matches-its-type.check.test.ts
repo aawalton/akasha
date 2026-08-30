@@ -27,7 +27,6 @@ import {
   HELD_ID,
   NOW_ALPHA,
   NOW_BETA,
-  property,
   seeded,
   THING_AT,
   THING_BODY,
@@ -94,7 +93,7 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
   return reasonsIn(
     value,
     declaredIn(pageTypeSlug),
-    property,
+    world,
     `page-type/${pageTypeSlug}`,
     formatting,
     new Set<string>()
@@ -180,6 +179,16 @@ test("a record field's entries and its characters are counted apart", () => {
   ])
 })
 
+test("a record field naming its page type is read under the key its own property states", () => {
+  const held = { id: "a", slug: "one", directives: [{ name: "go", tag: "hi" }] }
+  expect(over(held, "told")).toEqual([])
+})
+
+test("a record field's property page is reached by the page type its declaration names", () => {
+  const held = { id: "a", slug: "one", directives: [{ name: "go", tag: "hello" }] }
+  expect(over(held, "told")).toEqual(["`directives tag` runs to 5 characters, over the max of 4"])
+})
+
 test("a single value declared many is refused, and a list declared single is refused", () => {
   expect(over({ id: "a", slug: "one", test: "ts", aids: "x" }, "check")).toEqual([
     "states `aids` singly, and `page-type/check` declares it many",
@@ -236,7 +245,7 @@ test("a format is asked for only where a property states one", () => {
   reasonsIn(
     { id: "a", slug: "one", test: "ts" },
     declaredIn("check"),
-    property,
+    world,
     "page-type/check",
     watching,
     new Set<string>()
@@ -280,7 +289,7 @@ test("a required property named as excused is not asked for, and the rest of the
   const declared = declaredIn("check")
   const held = { id: "a", slug: "one" }
   const excusing = (slug: string): readonly string[] =>
-    reasonsIn(held, declared, property, "page-type/check", formatting, new Set([slug]))
+    reasonsIn(held, declared, world, "page-type/check", formatting, new Set([slug]))
   expect(excusing("test")).toEqual([])
   expect(excusing("id")).toEqual(["does not state `test`, which `page-type/check` requires"])
 })
@@ -365,7 +374,7 @@ function beside(value: Value, uncommitted: boolean): readonly string[] {
   return reasonsIn(
     value,
     besideCarried(uncommitted),
-    property,
+    world,
     "page-type/beside",
     formatting,
     new Set<string>()

@@ -146,6 +146,13 @@ const PROPERTIES: Record<string, Value> = {
     max: 8,
     nameFormatSlug: FORMAT,
   },
+  tag: {
+    id: "01a0540d-0000-7000-8000-000000000014",
+    pageTypeSlug: "text-property",
+    slug: "tag",
+    propertySlug: "tag",
+    max: 4,
+  },
   "page-type-slug": {
     id: "01a0540d-0000-7000-8000-000000000011",
     pageTypeSlug: "relation-property",
@@ -160,6 +167,7 @@ const PROPERTIES: Record<string, Value> = {
     properties: [
       { pagePropertySlug: "name", required: true, many: false },
       { pagePropertySlug: "aids", required: false, many: true, max: 3, total: 6 },
+      { pagePropertySlug: "text-property/tag", required: false, many: false },
     ],
   },
 }
@@ -179,8 +187,6 @@ export function seeded(root: string): Shadow {
   rebuiltFrom(join(root, AKASHA), indexIn(root), root)
   return shadowAt(root)
 }
-
-export const property = (slug: string): Value | null => PROPERTIES[slug] ?? null
 
 const GENERATED_ID = "01a04f2b-3d23-7798-beae-c2174eaf237f"
 

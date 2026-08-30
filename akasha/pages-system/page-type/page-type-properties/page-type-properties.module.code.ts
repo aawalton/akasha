@@ -44,6 +44,40 @@ export function pageAt(
   return one === undefined ? null : pageOf(one.path)
 }
 
+export function carriedIn(
+  value: Value,
+  given: string | Reading,
+  declaredBy: string
+): readonly Carried[] {
+  const carried: Carried[] = []
+  const declared = value[DECLARED]
+  for (const entry of Array.isArray(declared) ? declared : []) {
+    if (typeof entry !== "object" || entry === null || Array.isArray(entry)) continue
+    const one = entry as Value
+    const said = textAt(one, SAID)
+    if (said === null) continue
+    const bare = slugIn(said)
+    if (bare === null) continue
+    const filed = schemaOf(given, said)
+    if ("refused" in filed) continue
+    const { pageTypeSlug, propertySlug } = filed.schema
+    if (propertySlug === null) continue
+    carried.push({
+      pagePropertySlug: bare,
+      pageTypeSlug,
+      propertySlug,
+      key: exportedAs(propertySlug),
+      declaredBy,
+      required: one["required"] === true,
+      many: one["many"] === true,
+      max: numberAt(one, "max"),
+      total: numberAt(one, "total"),
+      uncommitted: one["uncommitted"] === true,
+    })
+  }
+  return carried
+}
+
 export function declarationsOf(
   pageTypeSlug: string,
   given: string | Reading,
@@ -57,31 +91,7 @@ export function declarationsOf(
     walked.add(own)
     const value = pageAt(given, PAGE_TYPE, own, pageOf)
     if (value === null) break
-    const declared = value[DECLARED]
-    for (const entry of Array.isArray(declared) ? declared : []) {
-      if (typeof entry !== "object" || entry === null || Array.isArray(entry)) continue
-      const one = entry as Value
-      const said = textAt(one, SAID)
-      if (said === null) continue
-      const bare = slugIn(said)
-      if (bare === null) continue
-      const filed = schemaOf(given, said)
-      if ("refused" in filed) continue
-      const { pageTypeSlug: shape, propertySlug } = filed.schema
-      if (propertySlug === null) continue
-      carried.push({
-        pagePropertySlug: bare,
-        pageTypeSlug: shape,
-        propertySlug,
-        key: exportedAs(propertySlug),
-        declaredBy: own,
-        required: one["required"] === true,
-        many: one["many"] === true,
-        max: numberAt(one, "max"),
-        total: numberAt(one, "total"),
-        uncommitted: one["uncommitted"] === true,
-      })
-    }
+    carried.push(...carriedIn(value, given, own))
     const above = textAt(value, EXTENDS)
     here = above === null ? null : slugIn(above)
   }
