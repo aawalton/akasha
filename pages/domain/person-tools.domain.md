@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Person tools"
 slug: person-tools
 domain-parent-slug: domain/person-harness
-required-reading-slugs:
-  - page-type/person
 settled: true
 ---
 

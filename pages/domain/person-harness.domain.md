@@ -5,9 +5,6 @@ title: "Person harness"
 slug: person-harness
 domain-parent-slug: domain/alan-harness
 sequence-slugs:
-  - page-type/person
-  - page-type/person-access
-  - page-type/person-authority
   - domain/person-identity
   - domain/person-tools
 settled: true
