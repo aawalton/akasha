@@ -1,15 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync } from "node:fs"
+import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
+  claiming,
   declaring,
   identified,
   landing,
   NO_BYTES,
   pathFor,
+  put,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
@@ -158,6 +162,25 @@ test("a property page the change carries makes its property an identifier at onc
     })
   )
   expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("page/name/shared")
+})
+
+test("a page standing outside the change collides on a property the change makes unique", () => {
+  const root = rooted()
+  declaring(root, "name", { pageTypeSlug: TEXT })
+  mkdirSync(join(root, "akasha"), { recursive: true })
+  const outside = pathFor("check", "outside")
+  put(root, outside, naming("outside", TWO))
+  claiming(root, outside, outside, TWO)
+  const said = judged(
+    landing(root, {
+      [pathFor("text-property", "name")]: propertyBody("always"),
+      [pathFor("check", "one")]: naming("one", ONE),
+    })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("check", "one"))
+  expect(said[0]?.reason).toContain(outside)
   expect(said[0]?.reason).toContain("page/name/shared")
 })
 

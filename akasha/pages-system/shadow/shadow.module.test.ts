@@ -199,6 +199,42 @@ test("a slug two pages carry loses only the line of the page taken away", () => 
   ])
 })
 
+const NAME_AT = "name.text-property.ts"
+
+const SHARED_AT = "k.domain.ts"
+
+const SHARED: Held = { id: idOf("k"), pageTypeSlug: "domain", slug: "k", name: "shared" }
+
+function naming(unique: string | null): Held {
+  const held: Held = {
+    id: idOf("m"),
+    pageTypeSlug: "text-property",
+    slug: "name",
+    propertySlug: "name",
+  }
+  return unique === null ? held : { ...held, unique }
+}
+
+function seededNaming(): string {
+  const repo = scratch.rootFor("akasha-naming-")
+  for (const [at, value] of STANDING) put(repo, join(AKASHA, at), bodyOf(value))
+  put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
+  put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
+  rebuiltFrom(join(repo, AKASHA), indexIn(repo), repo)
+  return repo
+}
+
+test("a property the change stops making unique loses the identity filed for a page outside it", () => {
+  const repo = seededNaming()
+  const at = "identity/page/name/shared.jsonl"
+  expect(readingAt(indexIn(repo)).lines(at)).toEqual([
+    `{"path":"akasha/${SHARED_AT}","id":"${idOf("k")}"}`,
+  ])
+  const reading = shadowOf(shadowFor(changeOver(repo, [aChange(NAME_AT, naming(null))])))
+  expect(reading.lines(at)).toEqual([])
+  expect(reading.holds(at)).toBe(false)
+})
+
 test("a directory the change empties is not listed, and one it fills is", () => {
   const repo = seeded()
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))

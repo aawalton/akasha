@@ -30,6 +30,7 @@ import {
   uniquePropertiesIn,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
+import { everyPath } from "../index-reading/index-reading.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
   type Filing,
@@ -231,6 +232,42 @@ export type Settling = {
   readonly refused: readonly string[]
 }
 
+function turningIn(
+  was: ReadonlyMap<string, string>,
+  now: ReadonlyMap<string, string>
+): ReadonlySet<string> {
+  const said = new Set<string>()
+  for (const slug of new Set([...was.keys(), ...now.keys()])) {
+    if (was.get(slug) !== now.get(slug)) said.add(slug)
+  }
+  return said
+}
+
+function onlyIn(
+  held: ReadonlyMap<string, string>,
+  slugs: ReadonlySet<string>
+): ReadonlyMap<string, string> {
+  const said = new Map<string, string>()
+  for (const [slug, reach] of held) {
+    if (slugs.has(slug)) said.set(slug, reach)
+  }
+  return said
+}
+
+function standingBeside(
+  reading: Reading,
+  carried: ReadonlySet<string>,
+  pageOf: (path: string) => Value | null
+): readonly { readonly path: string; readonly value: Value }[] {
+  const said: { readonly path: string; readonly value: Value }[] = []
+  for (const path of everyPath(reading)) {
+    if (carried.has(path)) continue
+    const value = pageOf(path)
+    if (value !== null) said.push({ path, value })
+  }
+  return said
+}
+
 export function settlingOver(
   given: string | Reading,
   repo: string,
@@ -266,16 +303,34 @@ export function settlingOver(
 
   const standing = held.flatMap((one) => (one.now === null ? [] : [one.now]))
   const fileProperties = new Set<string>([...filed, ...filePropertiesIn(standing)])
-  const unique = new Map<string, string>([
-    ...uniquePropertiesAt(reading),
-    ...uniquePropertiesIn(standing),
-  ])
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
+  const schema = filingOf(
+    reading,
+    held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was))),
+    nowSchema
+  )
+  const wasUnique = uniquePropertiesAt(reading)
+  const unique = uniquePropertiesAt(overlaidOn(reading, schema))
   refusingEmpty(unique, held.filter((one) => one.now !== null).length)
+  const turned = turningIn(wasUnique, unique)
+  const wasTurned = onlyIn(wasUnique, turned)
+  const nowTurned = onlyIn(unique, turned)
+  const carried = new Set(held.map((one) => one.path))
+  const elsewhere = turned.size === 0 ? [] : standingBeside(reading, carried, pageOf)
   const identity = filingOf(
     reading,
-    held.flatMap((one) => (one.was === null ? [] : identityIn(one.was, one.path, repo, unique))),
-    held.flatMap((one) => (one.now === null ? [] : identityIn(one.now, one.path, repo, unique)))
+    [
+      ...held.flatMap((one) =>
+        one.was === null ? [] : identityIn(one.was, one.path, repo, wasUnique)
+      ),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasTurned)),
+    ],
+    [
+      ...held.flatMap((one) =>
+        one.now === null ? [] : identityIn(one.now, one.path, repo, unique)
+      ),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowTurned)),
+    ]
   )
   const paths = filingOf(
     reading,
@@ -283,11 +338,6 @@ export function settlingOver(
       one.was === null ? [] : pathIn(one.was, one.path, repo, fileProperties)
     ),
     held.flatMap((one) => (one.now === null ? [] : pathIn(one.now, one.path, repo, fileProperties)))
-  )
-  const schema = filingOf(
-    reading,
-    held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was))),
-    nowSchema
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
