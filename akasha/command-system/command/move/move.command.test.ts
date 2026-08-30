@@ -47,7 +47,7 @@ const UNSAID_AT = "akasha/three/held.module.uncommitted.ts"
 
 const VALUES = `export const held = { title: "unsaid" }\n`
 
-function held(root: string, path: string, body: string): void {
+function held(root: string, path: string, body: string): undefined {
   warrantsStanding(root, ["file-itself"])
   recordRead(root, AGENT, {
     path,

@@ -87,20 +87,20 @@ export function givenIn(root: string): Given {
 
 export const head = baseOf
 
-export function importing(root: string, target: string, importers: readonly string[]): void {
+export function importing(root: string, target: string, importers: readonly string[]): undefined {
   const at = join(root, IMPORTS_AT, `${target}.jsonl`)
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, importers.map((path) => `${JSON.stringify({ path })}\n`).join(""))
   stampKept(join(root, ".git/data/index"), { commit: head(root), tree: "akasha", settled: [] })
 }
 
-export function claiming(root: string, path: string, ids: readonly string[]): void {
+export function claiming(root: string, path: string, ids: readonly string[]): undefined {
   const at = join(root, PATHS_AT, `${path}.jsonl`)
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, ids.map((id) => `${JSON.stringify({ path, id })}\n`).join(""))
 }
 
-export function naming(root: string, id: string): void {
+export function naming(root: string, id: string): undefined {
   const at = join(root, ".git/data/index/relation/page/id", id, "required-reading-slugs")
   mkdirSync(at, { recursive: true })
   writeFileSync(join(at, `${AAAA}.jsonl`), `${JSON.stringify({ path: READER })}\n`)

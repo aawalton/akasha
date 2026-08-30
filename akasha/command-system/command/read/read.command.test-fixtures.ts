@@ -256,7 +256,7 @@ function pageFor(one: Planted, id: string): string {
   ].join("\n")
 }
 
-function planting(root: string, at: string, body: string): void {
+function planting(root: string, at: string, body: string): undefined {
   const said = join(root, at)
   mkdirSync(said.slice(0, said.lastIndexOf("/")), { recursive: true })
   writeFileSync(said, body)
