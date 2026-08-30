@@ -34,32 +34,7 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "constraint",
       statement:
-        "What stands at a path the change does not name is answered by the base commit, so a file never committed reads as absent unless its declaration says the value is uncommitted.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "Only a patch answers an unnamed path from the base commit. An audit reads the worktree, so reaching for the worktree here bears on a patch and changes nothing on an audit.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file holding an uncommitted value is demanded only where its declaration requires it, and then only that it stands at the moment of the check.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An uncommitted value its declaration does not require is never asked for its file, so a page stands where no such file has been written.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "That a required uncommitted file will still stand after the check is not asserted, because such a file is written and taken away outside any change.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Whether a value is uncommitted is read from the declaration the page's type carries for it, so the same property can be committed under one page type and not under another.",
+        "What stands at a path the change does not name is answered by the base commit, so a file written into the worktree and never committed reads as absent.",
     },
     {
       invariantKind: "departure",

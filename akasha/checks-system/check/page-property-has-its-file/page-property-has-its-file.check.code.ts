@@ -1,9 +1,7 @@
-import { existsSync } from "node:fs"
 import {
   filePropertiesAt,
   pageTypesIn,
   pathsOf,
-  textAt,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -11,11 +9,6 @@ import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shad
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
-import {
-  declaredFor,
-  type Reading,
-  readingIn,
-} from "../page-matches-its-type/page-matches-its-type.check.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -47,32 +40,10 @@ export function statedBy(page: string, path: string): string {
   return `\`${tail.slice(0, at)}: "${tail.slice(at + 1)}"\``
 }
 
-export function propertyOf(page: string, path: string): string {
-  const tail = tailOf(page, path)
-  const at = tail.indexOf(".")
-  return at === -1 ? tail : tail.slice(0, at)
-}
-
-export function standsUncommitted(
-  leaving: Leaving,
-  page: string,
-  path: string,
-  declared: ReadonlyMap<
-    string,
-    { readonly uncommitted: boolean; readonly required: boolean }
-  > | null
-): boolean {
-  const said = declared?.get(propertyOf(page, path))
-  if (said?.uncommitted !== true) return false
-  if (!said.required) return true
-  return existsSync(`${leaving.root}/${path}`)
-}
-
 export function missingFor(
   leaving: Leaving,
   page: string,
-  fileProperties: ReadonlySet<string>,
-  read: Reading
+  fileProperties: ReadonlySet<string>
 ): readonly Judged[] {
   const bytes = leaving.at(page)
   if (bytes === null) return []
@@ -80,13 +51,10 @@ export function missingFor(
   if (text === null) return []
   const value = valueIn(text)
   if (value === null) return []
-  const pageTypeSlug = textAt(value, "pageTypeSlug")
-  const declared = pageTypeSlug === null ? null : declaredFor(pageTypeSlug, read)
   const said: Judged[] = []
   for (const one of pathsOf(value, page, leaving.root, fileProperties)) {
     if (one === page) continue
     if (leaving.at(one) !== null) continue
-    if (standsUncommitted(leaving, page, one, declared)) continue
     said.push({ path: page, reason: `states ${statedBy(page, one)}, and no file stands at ${one}` })
   }
   return said
@@ -97,10 +65,9 @@ export function pagePropertyHasItsFile(leaving: Leaving): readonly Judged[] {
   if ("refused" in cast) throw new Error(cast.refused)
   const pageTypes = pageTypesIn(cast.shadow.reading)
   const fileProperties = filePropertiesAt(cast.shadow.reading)
-  const read = readingIn(leaving)
   const said: Judged[] = []
   for (const page of pagesTouchedBy(leaving, pageTypes)) {
-    said.push(...missingFor(leaving, page, fileProperties, read))
+    said.push(...missingFor(leaving, page, fileProperties))
   }
   return said
 }
