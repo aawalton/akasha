@@ -16,6 +16,16 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
+        "These values are written here rather than by a landing, so a change to them takes no repository hold and makes no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The gate refuses a file no page claims, and no page claims this one, so nothing writes it by a landing even meaning to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The file is replaced by writing a scratch file beside it and renaming it over, so a reader sees the values as they stood before a write or after it, never during.",
     },
     {
