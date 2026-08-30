@@ -41,6 +41,7 @@ export const check = {
     "check/no-code-comments",
     "check/no-enum-or-namespace",
     "check/no-import-cycle",
+    "check/no-index-path-spelled",
     "check/no-method-signature",
     "check/no-raw-nul-bytes",
     "check/no-re-export",
