@@ -3,7 +3,7 @@ import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
-import type { PersonSlug } from "./properties/person-slug.text-property.ts"
+import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.text-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
@@ -39,10 +39,10 @@ export const seat = {
     "process-property/supervisor-process",
     "record-property/proxy",
     "record-property/turn-pending",
+    "relation-property/person-slug",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/model",
-    "text-property/person-slug",
     "text-property/proxy-version",
     "text-property/registration-account",
     "text-property/start-mode",
