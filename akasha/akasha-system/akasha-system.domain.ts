@@ -47,5 +47,26 @@ export const akashaSystem = {
       invariantKind: "departure",
       statement: "Data and text are code.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The repository is a database, and this tree is its master replica.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "There is no fresh start, so what is missing was lost rather than not yet made.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Champions Not Owners",
+      act: "Change what needs changing, wherever it stands, when you hold what it takes to do it right.",
+      warrant:
+        "Work waits at every border a domain draws, and nobody is served by a fix that stops at one.",
+      aids: [
+        "Holding what it takes means having read it, not having heard of it.",
+        "Where you cannot do it right, hand it on rather than halve it.",
+      ],
+    },
   ],
 } as const satisfies Domain
