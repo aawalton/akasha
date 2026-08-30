@@ -81,8 +81,12 @@ export function omittingIn(path: string, text: string, keys: readonly string[]):
   return null
 }
 
-export function mintingIn(leaving: Leaving, keys: readonly string[]): Minting {
-  const pageTypes = keys.length === 0 ? null : pageTypesIn(leaving.root)
+export function mintingIn(
+  leaving: Leaving,
+  keys: readonly string[],
+  given: string | Reading
+): Minting {
+  const pageTypes = keys.length === 0 ? null : pageTypesIn(given)
   return (path, text) => {
     if (pageTypes === null || !pageNamed(path, pageTypes)) return text
     if (leaving.was(path) !== null) return text
@@ -162,7 +166,7 @@ export function foundIn(leaving: Leaving, shadow: Shadow): readonly Found[] {
   if (roots.length === 0) return []
   const root = resolve(leaving.root)
   const keys = [...waitingProperties(shadow)].map(exportedAs)
-  const read = bodiesOf(leaving, mintingIn(leaving, keys))
+  const read = bodiesOf(leaving, mintingIn(leaving, keys, shadow.reading))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: SETTINGS,
