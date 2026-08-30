@@ -10,33 +10,29 @@ export const gateBuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A module is loaded by path through a require made here and imported nowhere, so what loading it costs is paid by whoever asks for it and by nobody else.",
+      statement: "A module is loaded by path through a require made here and imported nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The checks are reached only to judge.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The checks are reached only to judge, so reaching a command never asks them to load.",
+        "A change judged in a scratch tree is judged by the checks standing at the root this code stands under, not by whatever stands in the scratch tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module answering to less than a gate is built from is refused by name.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The path is read from the root this code stands under, so a change judged in a scratch tree is judged by the checks standing here rather than by whatever stands there.",
+        "A gate that will not build is handed back as broken rather than thrown; it says only why the gate is missing, and the caller says what a missing gate means.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A module answering to less than a gate is built from is refused by name, so half a load is never taken for a whole one.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A gate that will not build is handed back as broken rather than thrown, so the caller says what a missing gate means and this says only why it is missing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A gate nobody could build judges nothing rather than passing everything, so a caller reaching past a broken one never holds a gate that admits.",
+      statement: "A gate nobody could build judges nothing rather than passing everything.",
     },
     {
       invariantKind: "departure",
