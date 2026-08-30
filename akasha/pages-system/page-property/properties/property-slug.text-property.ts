@@ -18,13 +18,11 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The key a page carries is this written in camel, so a property is reached by its slug and read by its key.",
+      statement: "The key a page carries is this written in camel.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every property states this, because a slug long enough to stand alone across a page type is rarely the key a page should carry.",
+      statement: "Every property states this.",
     },
   ],
 } as const satisfies TextProperty

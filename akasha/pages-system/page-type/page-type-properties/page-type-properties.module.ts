@@ -15,8 +15,7 @@ export const pageTypeProperties = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every declaration is answered as well as the binding one, because what a restatement narrows cannot be read from the binding alone.",
+      statement: "Every declaration is answered as well as the binding one.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +25,7 @@ export const pageTypeProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A declaration reaching no page property is left out rather than keyed by the name it states, because what a key is cannot be guessed from what reaches it.",
+        "A declaration reaching no page property is left out rather than keyed by the name it states.",
     },
     {
       invariantKind: "absence",

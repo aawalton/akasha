@@ -15,8 +15,11 @@ export const keyNamesOneProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The properties judged are those a page type carries after shadowing, so one inherited and one declared meet as surely as two declared.",
+      statement: "The properties judged are those a page type carries after shadowing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One inherited and one declared meet as surely as two declared.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +28,11 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A restatement carries the property's own key, so a narrowing always stands where another declaration already stands, and the two are one rule rather than two.",
+      statement: "A restatement carries the property's own key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A narrowing stands where another declaration already stands.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +42,7 @@ export const keyNamesOneProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries it, and when the change carries a property it declares, because a key moves where the property stands and collides where the page type stands.",
+        "A page type is judged when the change carries it, and when the change carries a property it declares.",
     },
     {
       invariantKind: "departure",
