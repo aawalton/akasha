@@ -7,6 +7,7 @@ import { gitIn as git } from "../../../testing-system/gitting/gitting.module.cod
 import {
   ADMITS_CODE,
   MINTED,
+  mintedId,
   minting,
   REFUSES_CODE,
 } from "../../../testing-system/minting/minting.module.code.ts"
@@ -19,8 +20,6 @@ import { askedIn, edit } from "./edit.command.code.ts"
 import { edit as editCommand } from "./edit.command.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
-
-const MINTED_ID = "01a04bc4-0000-7000-8000-000000000002"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -46,7 +45,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
 }
 
 function checking(root: string, slug: string, body: string): undefined {
-  minting(root, slug, MINTED_ID, MINTED, body)
+  minting(root, slug, mintedId(slug), MINTED, body)
 }
 
 const MARKS =

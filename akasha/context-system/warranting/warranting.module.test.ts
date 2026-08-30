@@ -9,6 +9,7 @@ import {
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
 import {
   gatheredIn,
   NO_AGENT,
@@ -84,14 +85,11 @@ function codeFor(one: Said): string {
   ].join("\n")
 }
 
-let minted = 0
-
 function warranting(root: string, every: readonly Said[]): undefined {
   mkdirSync(join(root, WARRANTS_AT), { recursive: true })
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
   for (const one of every) {
-    minted = minted + 1
-    const id = `01a04f58-0000-7000-8000-${String(minted).padStart(12, "0")}`
+    const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     standing(root, at, one.page ?? pageFor(one, id))
     standing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? codeFor(one))

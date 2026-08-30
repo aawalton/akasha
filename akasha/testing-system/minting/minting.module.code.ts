@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../../checks-system/checking/checking.module.code.ts"
@@ -12,6 +13,20 @@ export const ADMITS_CODE = `export function admits() {
   return []
 }
 `
+
+const MINTED_FROM = "sha256"
+
+const VERSION_7 = "7"
+
+const VARIANT_8 = "8"
+
+export function mintedId(slug: string): string {
+  const said = createHash(MINTED_FROM).update(slug).digest("hex")
+  const time = `${said.slice(0, 8)}-${said.slice(8, 12)}`
+  const version = `${VERSION_7}${said.slice(13, 16)}`
+  const variant = `${VARIANT_8}${said.slice(17, 20)}`
+  return `${time}-${version}-${variant}-${said.slice(20, 32)}`
+}
 
 export function pageFor(
   slug: string,

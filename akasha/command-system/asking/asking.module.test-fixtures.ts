@@ -4,7 +4,12 @@ import type { Phase } from "../../checks-system/checking/checking.module.code.ts
 import { warrantsStanding } from "../../context-system/warranting/warranting.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
-import { ADMITS_CODE, MINTED, minting } from "../../testing-system/minting/minting.module.code.ts"
+import {
+  ADMITS_CODE,
+  MINTED,
+  mintedId,
+  minting,
+} from "../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -71,17 +76,13 @@ export function repoWithTheFormatter(named?: Readonly<Record<string, string>>): 
   return root
 }
 
-let minted = 0
-
 export function checking(
   root: string,
   slug: string,
   body: string,
   phase: Phase = "patch"
 ): undefined {
-  minted = minted + 1
-  const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-  minting(root, slug, id, MINTED, body, phase)
+  minting(root, slug, mintedId(slug), MINTED, body, phase)
 }
 
 export const REFUSES_TAKING =

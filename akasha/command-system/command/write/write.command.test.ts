@@ -7,6 +7,7 @@ import { gitIn as git } from "../../../testing-system/gitting/gitting.module.cod
 import {
   ADMITS_CODE,
   MINTED,
+  mintedId,
   minting,
   REFUSES_CODE,
 } from "../../../testing-system/minting/minting.module.code.ts"
@@ -45,12 +46,8 @@ function repoWith(
   return root
 }
 
-let minted = 0
-
 function checking(root: string, slug: string, body: string): undefined {
-  minted = minted + 1
-  const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-  minting(root, slug, id, MINTED, body)
+  minting(root, slug, mintedId(slug), MINTED, body)
 }
 
 test("a write over a body the record does not show read is refused", () => {

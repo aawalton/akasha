@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -22,11 +23,8 @@ type Standing = {
   readonly id: string
 }
 
-let minted = 0
-
 function page(root: string, slug: string): Standing {
-  minted = minted + 1
-  const id = `01a04f58-0000-7000-9000-${String(minted).padStart(12, "0")}`
+  const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.domain.ts`
   const held = { path, id }
   standing(root, path, `export const held = { id: "${id}", slug: "${slug}" }\n`)

@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
+import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { blobIdOf } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
@@ -262,8 +263,6 @@ function planting(root: string, at: string, body: string): undefined {
   writeFileSync(said, body)
 }
 
-let minted = 0
-
 export function rootWarranting(
   named: readonly { readonly at: string; readonly body: string | Uint8Array }[],
   also: readonly Planted[] = []
@@ -274,8 +273,7 @@ export function rootWarranting(
     planting(root, join(TYPES_AT, `${one.slug}.jsonl`), `${JSON.stringify({ path: one.at, id })}\n`)
   }
   for (const one of [...REAL, ...also]) {
-    minted = minted + 1
-    const id = `01a04f5a-0000-7000-8000-${String(minted).padStart(12, "0")}`
+    const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     planting(root, at, pageFor(one, id))
     planting(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)

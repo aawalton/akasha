@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
@@ -24,11 +25,8 @@ const TEST_PROPERTY_AT = "akasha/properties/test.file-property.ts"
 
 const TYPE_AT = "akasha/file-property/file-property.page-type.ts"
 
-let minted = 0
-
 function pageType(root: string, slug: string): string {
-  minted = minted + 1
-  const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
+  const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.page-type.ts`
   standing(
     root,
@@ -48,8 +46,7 @@ function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
 }
 
 function filed(root: string, slug: string, pageTypeSlug: string): string {
-  minted = minted + 1
-  const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
+  const id = mintedId(slug)
   const path = `akasha/properties/${slug}.${pageTypeSlug}.ts`
   standing(
     root,

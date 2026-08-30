@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -17,15 +18,8 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const PATH = "akasha/thing/thing.module.ts"
 
-let minted = 0
-
-function mintedId(): string {
-  minted = minted + 1
-  return `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-}
-
 function pageType(root: string, slug: string): undefined {
-  const id = mintedId()
+  const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.page-type.ts`
   standing(
     root,
@@ -36,7 +30,7 @@ function pageType(root: string, slug: string): undefined {
 }
 
 function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
-  const id = mintedId()
+  const id = mintedId(slug)
   const path = `akasha/thing/properties/${slug}.${pageTypeSlug}.ts`
   standing(
     root,
@@ -104,7 +98,7 @@ test("a property the type allows and the page does not state warrants nothing", 
     root,
     "akasha/module/module.page-type.ts",
     [
-      `export const module_ = { id: "${mintedId()}", pageTypeSlug: "page-type", slug: "module",`,
+      `export const module_ = { id: "${mintedId("module")}", pageTypeSlug: "page-type", slug: "module",`,
       `  properties: [{ pagePropertySlug: "definition" }, { pagePropertySlug: "code" }] }`,
       "",
     ].join("\n")
@@ -196,7 +190,7 @@ test("a page defining a property does not warrant itself for it", () => {
   const root = scratch.rootFor("akasha-file-property-")
   pageType(root, "text-property")
   const path = "akasha/thing/properties/slug.text-property.ts"
-  const id = mintedId()
+  const id = mintedId("slug")
   standing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
   indexed(root, "identity/text-property/slug/slug.jsonl", JSON.stringify({ path, id }))
   indexed(

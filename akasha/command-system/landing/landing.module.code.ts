@@ -147,8 +147,6 @@ type Reading = {
 
 let reading: Reading | null = null
 
-let sweeping = false
-
 export function readingEnded(): undefined {
   const held = reading
   reading = null
@@ -156,6 +154,8 @@ export function readingEnded(): undefined {
   held.ended()
   rmSync(held.dir, { recursive: true, force: true })
 }
+
+process.on("exit", readingEnded)
 
 function readerOn(root: string): Reading {
   const dir = mkdtempSync(join(SCRATCH_AT, CAT_FILE))
@@ -201,10 +201,6 @@ function readerOn(root: string): Reading {
 function readingIn(root: string): Reading {
   if (reading !== null && reading.root === root && reading.took < READ_AT_MOST) return reading
   readingEnded()
-  if (!sweeping) {
-    sweeping = true
-    process.on("exit", readingEnded)
-  }
   reading = readerOn(root)
   return reading
 }
