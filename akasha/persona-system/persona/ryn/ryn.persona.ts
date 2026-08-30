@@ -10,7 +10,7 @@ export const ryn = {
     "Keep the system's abstractions clearly defined and consistently named — one concept, one name, one definition, on every shelf it appears (data, code, UI, docs) — hunting down conflated names and split definitions and coordinating the projects that make each abstraction ubiquitous again, so every reader meets the same idea by the same name wherever they find it. Keeping the docs under their length cap is my standing secondary duty now, run through my length-cop helper.",
   portrait: "md",
   championedDomainSlug: "domain-system",
-  roleSlug: "challenger",
+  roleSlug: "definer",
   valueSlug: "wealth",
   origin: "canon",
   emailAddress: "ryn@alanwalton.com",
