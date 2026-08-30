@@ -92,6 +92,17 @@ function personaFrom(root: string, standing: Standing): Persona {
   }
 }
 
+// Who champions what, read from the persona pages that stand. A persona names the one domain
+// she champions, so the map is that edge inverted: the domain's slug to her slug.
+export function championsStanding(root: string): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
+  for (const one of personasStanding(root)) {
+    if (one.championedDomainSlug === null) continue
+    held.set(one.championedDomainSlug, one.slug)
+  }
+  return held
+}
+
 export function personasStanding(root: string): readonly Persona[] {
   const found = everyOfTypeAnswered(root, PAGE_TYPE).map((standing) => personaFrom(root, standing))
   if (found.length === 0) {

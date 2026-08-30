@@ -1,20 +1,21 @@
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { domainsStanding } from "./akasha-domains.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
+import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
+import { fileStemOf } from "../../page/name/name.ts"
+import { placeDirOf, placesIn, reposOf, scanIn } from "../../page/page-types.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { placeDirOf, placesIn, reposOf, scanIn } from "../../page/page-types.ts"
-import { fileStemOf } from "../../page/name/name.ts"
-import { listDocuments } from "./check.ts"
-import { type Documents, domainNamed, DOMAIN_SLUG_KEY, slugsIn } from "./domain.ts"
-import { type Frontmatter, parseFrontmatter } from "../../page/frontmatter.ts"
-import { ATTRIBUTES, type AttributeKey, DECLARATIONS, type Declaration } from "./attributes.ts"
 import { isDirty, resolveRoots } from "../../repo/roots/roots.ts"
+import { domainsStanding } from "./akasha-domains.ts"
+import { ATTRIBUTES, type AttributeKey, DECLARATIONS, type Declaration } from "./attributes.ts"
+import { listDocuments } from "./check.ts"
+import { DOMAIN_SLUG_KEY, type Documents, domainNamed, slugsIn } from "./domain.ts"
 
 export interface Found {
   readonly docs: Documents
   readonly slugs: ReadonlyMap<string, string>
+  readonly frontmatter: ReadonlyMap<string, Frontmatter>
 }
 
 export function scan(root: string): Found {
@@ -40,6 +41,7 @@ export function scan(root: string): Found {
       domainAt: (slug) => domainNamed(slugs, slug),
     },
     slugs,
+    frontmatter,
   }
 }
 
@@ -81,7 +83,9 @@ function stemsIn(
       add(at)
     }
   }
-  return new Map([...byStem].map(([stem, held]): [string, readonly string[]] => [stem, [...held].sort()]))
+  return new Map(
+    [...byStem].map(([stem, held]): [string, readonly string[]] => [stem, [...held].sort()])
+  )
 }
 
 export function documentFor(
@@ -211,5 +215,9 @@ export function resolveAttributes(
   }
 
   if (refusals.length > 0) return { refusals }
-  return { assigned: DECLARATIONS.filter((slot) => claimed.has(slot)).map((slot) => claimed.get(slot) as Claimed) }
+  return {
+    assigned: DECLARATIONS.filter((slot) => claimed.has(slot)).map(
+      (slot) => claimed.get(slot) as Claimed
+    ),
+  }
 }

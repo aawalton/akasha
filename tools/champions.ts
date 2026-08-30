@@ -3,7 +3,6 @@ export const tool = {
   path: "domain champions",
 } as const
 
-import { PERSONA_CHAMPION_KEY } from "./lib/domain.ts"
 import { answersForPath, pathRecord } from "./lib/champions-path.ts"
 import { type Filed, type Held, readRoster, type Roster } from "./lib/champions-roster.ts"
 import { type DomainRow, championTree, treeLines, treeRecord } from "./lib/champions-tree.ts"
@@ -14,7 +13,7 @@ const SUBJECT_KEY = "slug"
 
 const HELP = `bun tools/champions.ts — print who is answerable for what, composed from the files now
 
-A persona champions the domain whose document names her in \`${PERSONA_CHAMPION_KEY}:\`, and with it every
+A persona champions the domain her own page names in \`championedDomainSlug:\`, and with it every
 domain beneath that one, down to where the next persona is named. Championing a domain is answering
 for it rather than holding it: any agent may change it without asking her. The findings and
 initiatives whose own \`${SUBJECT_KEY}:\` key names those domains are hers along with them. Nothing
@@ -75,7 +74,7 @@ function split(held: readonly Held[]): Split {
 function championed(persona: string, at: string, roster: Roster): readonly string[] {
   const held = [...(roster.championedBy.get(persona) ?? [])].sort((a, b) => a.slug.localeCompare(b.slug))
   if (held.length === 0) {
-    return [`${persona}  ${at} — champions nothing: no document names her \`${PERSONA_CHAMPION_KEY}:\``]
+    return [`${persona}  ${at} — champions nothing: her page names no \`championedDomainSlug:\``]
   }
   const { findings, initiatives } = split(held)
   const lines = [`${persona}  ${at} — ${held.length} domain(s), ${findings} finding(s), ${initiatives} initiative(s)`]
@@ -127,7 +126,7 @@ function answersFor(slug: string, roster: Roster): string {
   const champion = roster.championOfSlug.get(slug)
   return champion === undefined
     ? `${slug}  — the descent reaches no persona`
-    : `${slug}  — ${champion.persona}, named by ${champion.at}`
+    : `${slug}  — ${champion.persona}, who champions ${champion.at}`
 }
 
 function argsFor(argv: readonly string[], flag: string): readonly string[] {

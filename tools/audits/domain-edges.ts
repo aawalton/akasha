@@ -1,22 +1,23 @@
-import { personasStanding } from "../lib/akasha-personas.ts"
-import type { Check } from "../lib/check.ts"
-import {
-  type Documents,
-  DOMAIN_PARENTS_KEY,
-  DOMAIN_SLUG_KEY,
-  championOf,
-  PERSONA_CHAMPION_KEY,
-  domainNamed,
-  slugsIn,
-} from "../lib/domain.ts"
-import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
+import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { domainKindTest } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { refusalText } from "../../refusal/refusal.ts"
 import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
+import { personasStanding } from "../lib/akasha-personas.ts"
+import type { Check } from "../lib/check.ts"
+import {
+  championOf,
+  championsAt,
+  DOMAIN_PARENTS_KEY,
+  DOMAIN_SLUG_KEY,
+  type Documents,
+  domainNamed,
+  PERSONA_CHAMPION_KEY,
+  slugsIn,
+} from "../lib/domain.ts"
 
 export const domainEdges: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
@@ -124,13 +125,23 @@ export const domainEdges: Check = (repo) => {
     domainAt: (slug) => domainNamed(slugs, slug),
   }
   const isDomain = domainKindTest(claimants)
+  const championAt = championsAt(
+    new Map(
+      [...personaBySlug.values()].flatMap((one) =>
+        one.championedDomainSlug === null ? [] : [[one.championedDomainSlug, one.slug] as const]
+      )
+    ),
+    frontmatter,
+    slugs,
+    isDomain
+  )
   let domains = 0
   let unchampioned = 0
   for (const [relPath, fm] of frontmatter) {
     if (textField(fm, DOMAIN_SLUG_KEY) === null) continue
     if (!isDomain(relPath)) continue
     domains += 1
-    if (championOf(relPath, docs) !== null) continue
+    if (championOf(relPath, docs, championAt) !== null) continue
     unchampioned += 1
     failures.push(refusalText("domain-unchampioned", { path: relPath }, root))
   }

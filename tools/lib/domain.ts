@@ -1,7 +1,7 @@
-import { closure } from "./closure.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { closure } from "./closure.ts"
 
 export const DOMAIN_SLUG_KEY = "slug"
 
@@ -69,9 +69,11 @@ export function domainsAbove(relPath: string, docs: Documents): readonly string[
   return closure(parentsOf(relPath), parentsOf)
 }
 
-export function requiredReadingClosure(relPaths: readonly string[], docs: Documents): readonly string[] {
-  const namedBy = (at: string): readonly string[] =>
-    pointing(at, DOMAIN_REQUIRED_READING_KEY, docs)
+export function requiredReadingClosure(
+  relPaths: readonly string[],
+  docs: Documents
+): readonly string[] {
+  const namedBy = (at: string): readonly string[] => pointing(at, DOMAIN_REQUIRED_READING_KEY, docs)
   return closure(relPaths.flatMap(namedBy), namedBy)
 }
 
@@ -90,7 +92,41 @@ export interface Champion {
   readonly at: string
 }
 
-export function championOf(relPath: string, docs: Documents): Champion | null {
+// Who champions the domain at one path, or nothing. A champion is read from the persona pages
+// rather than from the domain's own document, so this is handed the answer already resolved.
+export type ChampionAt = (relPath: string) => string | null
+
+// The champion edge, keyed by the path it lands on rather than by slug. A persona names the
+// domain she champions by a bare slug, and a bare slug is claimed by whichever page took it
+// first, which is often not a domain at all: `agent-harness` is claimed by a book chapter and
+// `sleep` by a topic. So a champion is placed only on a page that is a domain and is the page
+// its own slug names, the same two tests the roster uses to decide a domain is real.
+export function championsAt(
+  champions: ReadonlyMap<string, string>,
+  frontmatter: ReadonlyMap<string, Frontmatter>,
+  slugs: ReadonlyMap<string, string>,
+  isDomain: (relPath: string) => boolean
+): ChampionAt {
+  const byPath = new Map<string, string>()
+  for (const [relPath, fm] of frontmatter) {
+    const slug = textField(fm, DOMAIN_SLUG_KEY)
+    if (slug === null) continue
+    const persona = champions.get(slug)
+    if (persona === undefined) continue
+    if (!isDomain(relPath)) continue
+    const type = pageTypeOf(relPath)
+    const named = type === null ? slugs.get(slug) : domainNamed(slugs, addressOf(type, slug))
+    if (named !== relPath) continue
+    byPath.set(relPath, persona)
+  }
+  return (at) => byPath.get(at) ?? null
+}
+
+export function championOf(
+  relPath: string,
+  docs: Documents,
+  championAt: ChampionAt
+): Champion | null {
   const below = (at: string): string | null => {
     const slug = championParentOf(at, docs)
     return slug === null ? null : docs.domainAt(slug)
@@ -99,8 +135,7 @@ export function championOf(relPath: string, docs: Documents): Champion | null {
   let at: string | null = relPath
   while (at !== null && !seen.has(at)) {
     seen.add(at)
-    const fm = docs.frontmatterOf(at)
-    const persona = fm === null ? null : textField(fm, PERSONA_CHAMPION_KEY)
+    const persona = championAt(at)
     if (persona !== null) return { persona, at }
     at = below(at)
   }

@@ -1,15 +1,24 @@
 import { readFileSync } from "node:fs"
-import { personasStanding } from "./akasha-personas.ts"
-import { listDocuments } from "./check.ts"
-import { type Documents, domainNamed, DOMAIN_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
-import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
-import { registryOf } from "../../page/property/registry.ts"
-import { domainKindTest } from "../../page/page-types.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
-import { type Roots } from "../../page/page.ts"
+import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import type { Roots } from "../../page/page.ts"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots.ts"
+import { championsStanding, personasStanding } from "./akasha-personas.ts"
+import { listDocuments } from "./check.ts"
+import {
+  type Champion,
+  championOf,
+  championParentOf,
+  championsAt,
+  DOMAIN_SLUG_KEY,
+  type Documents,
+  domainNamed,
+  slugsIn,
+} from "./domain.ts"
 import { SEQUENCE_KEY } from "./sequence-manifest.ts"
 
 const SUBJECT_KEY = "domain-slug"
@@ -70,6 +79,7 @@ export function readRoster(roots: Roots): Roster {
 
   const claimants = registryOf(diskFileTree(roots))
   const isDomain = domainKindTest(claimants)
+  const championAt = championsAt(championsStanding(root), frontmatter, slugs, isDomain)
   const personas = new Map<string, string>(
     personasStanding(root).map((one) => [one.slug, one.path])
   )
@@ -112,7 +122,7 @@ export function readRoster(roots: Roots): Roster {
     const addressed = championParentOf(relPath, docs)
     const parent = addressed === null ? null : slugNamed(addressed)
     if (parent !== null) championParent.set(slug, parent)
-    const champion = championOf(relPath, docs)
+    const champion = championOf(relPath, docs, championAt)
     if (champion === null) {
       unchampionedDomains += 1
       continue

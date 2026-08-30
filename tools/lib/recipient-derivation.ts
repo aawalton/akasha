@@ -1,20 +1,24 @@
-import { type BlockedPrincipal, decideBlockedPrincipal } from "./decide-blocked-principal.ts"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { textField } from "../../page/frontmatter.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { championsStanding } from "./akasha-personas.ts"
 import {
   type AlertRecipient,
   type AlertRequirementRow,
   decideAlertRecipient,
 } from "./decide-alert-recipient.ts"
+import { type BlockedPrincipal, decideBlockedPrincipal } from "./decide-blocked-principal.ts"
 import {
-  decideDomainLead,
   type DerivedRecipient,
   type DomainLead,
   type DomainOwnerWalk,
+  decideDomainLead,
   recipientFromLead,
 } from "./decide-domain-lead.ts"
-import { championOf } from "./domain.ts"
-import { textField } from "../../page/frontmatter.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { championOf, championsAt } from "./domain.ts"
 import { scan } from "./seat-resolve.ts"
 
 export async function resolveBlockedPrincipal(agentName: string | null): Promise<BlockedPrincipal> {
@@ -30,7 +34,9 @@ export function walkDomainOwner(
   const found = scan(root)
   const at = found.slugs.get(domain.trim())
   if (at === undefined) return { declared: false, persona: null, at: null }
-  const owner = championOf(at, found.docs)
+  const isDomain = domainKindTest(registryOf(diskFileTree(resolveRoots())))
+  const championAt = championsAt(championsStanding(root), found.frontmatter, found.slugs, isDomain)
+  const owner = championOf(at, found.docs, championAt)
   if (owner === null) return { declared: true, persona: null, at: null }
   return { declared: true, persona: owner.persona, at: owner.at }
 }
