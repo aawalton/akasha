@@ -90,10 +90,11 @@ export function pathFiled(root: string, path: string, lines: readonly unknown[])
 
 export function schemaFiled(
   root: string,
+  pageTypeSlug: string,
   propertySlug: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexSchema.indexName, PAGE_PROPERTY, SLUG, propertySlug), lines)
+  filing(root, join(indexSchema.indexName, PAGE_PROPERTY, pageTypeSlug, SLUG, propertySlug), lines)
 }
 
 export function relationFiled(

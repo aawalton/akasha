@@ -54,8 +54,8 @@ export function carriedBy(leaving: Leaving, pageTypes: ReadonlySet<string>): rea
 
 export function relationProperties(shadow: Shadow, known: Known): readonly string[] {
   const found: string[] = []
-  for (const slug of schemaAt(shadow.reading).keys()) {
-    if (known.targetOf(slug) !== null) found.push(slug)
+  for (const held of schemaAt(shadow.reading).values()) {
+    if (known.targetOf(held.slug) !== null) found.push(held.slug)
   }
   return found.sort()
 }

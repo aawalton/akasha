@@ -14,6 +14,8 @@ const ENDING = ".jsonl"
 
 const PROPERTY = "page-property"
 
+const SLUG = "slug"
+
 const SHAPES = new Set([
   "text-property",
   "number-property",
@@ -32,6 +34,13 @@ export function schemaIn(value: Value): readonly Entry[] {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
     unique: slugAt(value, "unique"),
+    slug,
+    propertySlug: textAt(value, "propertySlug") ?? "",
   }
-  return [{ at: join(SCHEMA, PROPERTY, "slug", `${slug}${ENDING}`), line: JSON.stringify(held) }]
+  return [
+    {
+      at: join(SCHEMA, PROPERTY, pageTypeSlug, SLUG, `${slug}${ENDING}`),
+      line: JSON.stringify(held),
+    },
+  ]
 }

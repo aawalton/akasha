@@ -251,8 +251,9 @@ test("a shadow that could not be worked out is refused, never stood in for by th
   const repo = scratch.rootFor("akasha-broken-")
   put(
     indexIn(repo),
-    "schema/page-property/slug/held.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
+    "schema/page-property/text-property/slug/held.jsonl",
+    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,' +
+      '"slug":"held","propertySlug":"held"}\n'
   )
   const cast = shadowFor(leavingOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
   expect("refused" in cast).toBe(true)

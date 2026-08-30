@@ -50,9 +50,9 @@ export function knownIn(
 ): Shaped {
   const reading = readingOf(given)
   const target = new Map<string, string>()
-  for (const [slug, held] of schemaAt(reading)) {
+  for (const held of schemaAt(reading).values()) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
-    if (named !== null) target.set(slug, named)
+    if (named !== null) target.set(held.slug, named)
   }
 
   const above = new Map<string, string>()

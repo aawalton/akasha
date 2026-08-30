@@ -40,8 +40,8 @@ function propertyPage(root: string, slug: string, pageTypeSlug: string): string 
   indexed(root, `identity/${pageTypeSlug}/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
   indexed(
     root,
-    `schema/page-property/slug/${slug}.jsonl`,
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null })
+    `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`,
+    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, slug })
   )
   return path
 }
@@ -128,8 +128,8 @@ test("a property the schema names and the identity index does not warrants nothi
   pageType(root, "module")
   indexed(
     root,
-    "schema/page-property/slug/loose.jsonl",
-    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
+    "schema/page-property/text-property/slug/loose.jsonl",
+    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "loose" })
   )
   stating(root, PATH, ["loose"])
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
@@ -195,8 +195,8 @@ test("a page defining a property does not warrant itself for it", () => {
   indexed(root, "identity/text-property/slug/slug.jsonl", JSON.stringify({ path, id }))
   indexed(
     root,
-    "schema/page-property/slug/slug.jsonl",
-    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
+    "schema/page-property/text-property/slug/slug.jsonl",
+    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" })
   )
   expect(pathsOf(warrantsAt(root, path))).toEqual([])
 })

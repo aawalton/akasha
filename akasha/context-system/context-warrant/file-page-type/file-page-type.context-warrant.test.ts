@@ -65,8 +65,8 @@ test("a file standing beside a page warrants no type of its own", () => {
   typeWorld(root)
   indexed(
     root,
-    "schema/page-property/slug/code.jsonl",
-    JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null })
+    "schema/page-property/file-property/slug/code.jsonl",
+    JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null, slug: "code" })
   )
   const beside = "akasha/thing/thing.module.code.ts"
   standing(root, beside, "body\n")

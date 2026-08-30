@@ -117,7 +117,9 @@ export function rooted(carrying: boolean = true): string {
       stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`)
     )
   }
-  for (const [slug, shape] of Object.entries(SCHEMA)) schemaFiled(root, slug, [shape])
+  for (const [slug, shape] of Object.entries(SCHEMA)) {
+    schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
+  }
   standing(
     root,
     M,

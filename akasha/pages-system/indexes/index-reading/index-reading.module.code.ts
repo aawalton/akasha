@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
@@ -164,9 +165,45 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
   return found
 }
 
-export function schemaOf(given: string | Reading, propertySlug: string): Schema | null {
-  const at = join(SCHEMA, PROPERTY, SLUG, `${propertySlug}${ENDING}`)
-  return schemaIn(readingIn(given), at)[0] ?? null
+export type Schemad = { readonly schema: Schema } | { readonly refused: string }
+
+const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
+
+function filedAt(reading: Reading, pageTypeSlug: string, slug: string): Schema | null {
+  return schemaIn(reading, join(SCHEMA_UNDER, pageTypeSlug, SLUG, `${slug}${ENDING}`))[0] ?? null
+}
+
+function carriesNo(slug: string): string {
+  return `no page property carries the slug \`${slug}\``
+}
+
+function among(slug: string, named: readonly string[]): string {
+  return (
+    `\`${slug}\` narrows to ${named.length} page properties and must name its page type — ` +
+    [...named].sort().join(", ")
+  )
+}
+
+export function schemaOf(given: string | Reading, named: string): Schemad {
+  const reading = readingIn(given)
+  const address = addressIn(named)
+  if (address.kind === "qualified") {
+    const one = filedAt(reading, address.pageTypeSlug, address.slug)
+    return one === null ? { refused: carriesNo(address.slug) } : { schema: one }
+  }
+  const slug = address.kind === "id" ? address.id : address.slug
+  const found: Schema[] = []
+  const qualified: string[] = []
+  for (const shape of reading.listing(SCHEMA_UNDER)) {
+    if (!shape.directory) continue
+    const held = filedAt(reading, shape.name, slug)
+    if (held === null) continue
+    found.push(held)
+    qualified.push(`${shape.name}/${slug}`)
+  }
+  const one = found[0]
+  if (found.length === 1 && one !== undefined) return { schema: one }
+  return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
 }
 
 function byPath(one: Standing, two: Standing): number {

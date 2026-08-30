@@ -149,11 +149,23 @@ export function generating(files: Readonly<Record<string, string>>, generator = 
   })
   named(root, KIND_AT, GENERATOR_KIND, WAITS, GENERATED_ID)
   named(root, EARLY_AT, GENERATOR_KIND, EARLY, GENERATED_ID)
-  schemaFiled(root, "slug", [
-    { pageTypeSlug: TEXT_PROPERTY, targetPageTypeSlug: null, unique: PAGE_TYPE },
+  schemaFiled(root, TEXT_PROPERTY, "slug", [
+    {
+      pageTypeSlug: TEXT_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: PAGE_TYPE,
+      slug: "slug",
+      propertySlug: "slug",
+    },
   ])
-  schemaFiled(root, "held", [
-    { pageTypeSlug: TEXT_PROPERTY, targetPageTypeSlug: null, unique: null },
+  schemaFiled(root, TEXT_PROPERTY, "held", [
+    {
+      pageTypeSlug: TEXT_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "held",
+      propertySlug: "held",
+    },
   ])
   named(root, HELD_AT, TEXT_PROPERTY, "held", GENERATED_ID)
   named(root, THING_TYPE_AT, PAGE_TYPE, "thing", GENERATED_ID)

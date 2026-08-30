@@ -277,8 +277,8 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
   }
   const read = readingIn(leaving)
   const property = (slug: string): Value | null => {
-    const schema = schemaOf(leaving.root, slug)
-    return schema === null ? null : read(schema.pageTypeSlug, slug)
+    const said = schemaOf(leaving.root, slug)
+    return "refused" in said ? null : read(said.schema.pageTypeSlug, slug)
   }
   const formatting = matchingIn(leaving.root)
   const judged: Judged[] = []

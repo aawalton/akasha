@@ -87,8 +87,8 @@ export const butTheStamp = (found: readonly string[]): readonly string[] =>
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
 
-export const schemaFile = (root: string, slug: string): string =>
-  join(root, `schema/page-property/slug/${slug}.jsonl`)
+export const schemaFile = (root: string, pageTypeSlug: string, slug: string): string =>
+  join(root, `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`)
 
 export const importFile = (root: string, path: string): string =>
   join(root, `import/path/${path}.jsonl`)
@@ -107,7 +107,7 @@ export function aType(id: string, slug: string, extendsSlug: string | null): Nam
 }
 
 export function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
-  return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, ...rest }]
+  return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, propertySlug: slug, ...rest }]
 }
 
 export function thePage(value: Held): Named {

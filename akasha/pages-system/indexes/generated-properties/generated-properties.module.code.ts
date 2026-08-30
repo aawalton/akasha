@@ -25,14 +25,14 @@ function waitsFor(shadow: Shadow, kind: string): boolean {
 
 export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generated> {
   const found = new Map<string, Generated>()
-  for (const [slug, held] of schemaAt(shadow.reading)) {
-    for (const one of standingAt(shadow.reading, held.pageTypeSlug, slug)) {
+  for (const held of schemaAt(shadow.reading).values()) {
+    for (const one of standingAt(shadow.reading, held.pageTypeSlug, held.slug)) {
       const value = shadow.pageOf(one.path)
       if (value === null) continue
       const said = textAt(value, GENERATOR)
       if (said === null) continue
       const kind = slugOf(said)
-      found.set(slug, { kind, afterChecks: waitsFor(shadow, kind) })
+      found.set(held.slug, { kind, afterChecks: waitsFor(shadow, kind) })
     }
   }
   return new Map([...found].sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0)))

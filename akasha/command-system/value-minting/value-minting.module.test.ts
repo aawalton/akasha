@@ -47,8 +47,9 @@ function property(
   )
   put(
     indexIn(root),
-    `schema/page-property/slug/${slug}.jsonl`,
-    `{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":${JSON.stringify(unique)}}\n`
+    `schema/page-property/text-property/slug/${slug}.jsonl`,
+    `{"pageTypeSlug":"text-property","targetPageTypeSlug":null,` +
+      `"unique":${JSON.stringify(unique)},"slug":"${slug}","propertySlug":"${slug}"}\n`
   )
   put(
     indexIn(root),

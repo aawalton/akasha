@@ -40,8 +40,8 @@ function pageType(root: string, slug: string): string {
 function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
   indexed(
     root,
-    `schema/page-property/slug/${slug}.jsonl`,
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null })
+    `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`,
+    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, slug })
   )
 }
 

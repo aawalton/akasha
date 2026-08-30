@@ -11,7 +11,8 @@ export const indexSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A schema file is found by scope, then property, then value.",
+      statement:
+        "A schema file is found by scope, then the page type the property is, then property, then value.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +20,13 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the page type the property is, and its target page type.",
+      statement:
+        "A line carries the page type the property is, its target page type, and the key a page reads it by.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page type stands in the path because a property slug stands alone only among the pages of one property type, so two properties may carry one slug and both must be filed.",
     },
     {
       invariantKind: "departure",

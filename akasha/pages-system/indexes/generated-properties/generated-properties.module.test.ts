@@ -42,10 +42,12 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
 }
 
 function named(root: string, slug: string, unique: string | null = null): undefined {
-  filed(root, `schema/page-property/slug/${slug}.jsonl`, {
+  filed(root, `schema/page-property/${SHAPE}/slug/${slug}.jsonl`, {
     pageTypeSlug: SHAPE,
     targetPageTypeSlug: null,
     unique,
+    slug,
+    propertySlug: slug,
   })
 }
 

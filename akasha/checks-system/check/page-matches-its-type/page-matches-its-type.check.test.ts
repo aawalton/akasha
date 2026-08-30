@@ -234,7 +234,8 @@ const THING_AT = "akasha/one.thing.ts"
 const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
 
 const UNIQUE_SLUG =
-  '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
+  '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type",' +
+  '"slug":"slug","propertySlug":"slug"}\n'
 
 const KIND_AT = "akasha/next-seq.generator-kind.ts"
 
@@ -267,11 +268,12 @@ function generating(generator = "next-seq"): string {
       ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
   )
   const index = indexIn(root)
-  put(index, "schema/page-property/slug/slug.jsonl", UNIQUE_SLUG)
+  put(index, "schema/page-property/text-property/slug/slug.jsonl", UNIQUE_SLUG)
   put(
     index,
-    "schema/page-property/slug/held.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
+    "schema/page-property/text-property/slug/held.jsonl",
+    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,' +
+      '"slug":"held","propertySlug":"held"}\n'
   )
   put(
     index,
@@ -346,7 +348,7 @@ function bytesFor(bodies: Readonly<Record<string, string>>): (path: string) => U
 test("a page stating what a page type the change puts above its own declares is let through", () => {
   const root = scratch.rootFor("akasha-extending-")
   put(root, ALPHA_AT, WAS_ALPHA)
-  put(indexIn(root), "schema/page-property/slug/slug.jsonl", UNIQUE_SLUG)
+  put(indexIn(root), "schema/page-property/text-property/slug/slug.jsonl", UNIQUE_SLUG)
   put(
     indexIn(root),
     "identity/page-type/slug/alpha.jsonl",

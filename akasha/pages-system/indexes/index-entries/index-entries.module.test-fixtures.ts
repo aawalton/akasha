@@ -11,18 +11,28 @@ export const C = "01a04b79-0000-7000-8000-00000000000c"
 export const D = "01a04b79-0000-7000-8000-00000000000d"
 
 export const SCHEMA = {
-  code: '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null}',
-  domainSlug: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
-  partSlugs: '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null}',
+  code:
+    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,' +
+    '"slug":"code","propertySlug":"code"}',
+  domainSlug:
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
+    '"slug":"domain-slug","propertySlug":"domain-slug"}',
+  partSlugs:
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
+    '"slug":"part-slugs","propertySlug":"part-slugs"}',
   id: JSON.stringify({
     pageTypeSlug: idPage.pageTypeSlug,
     targetPageTypeSlug: null,
     unique: idPage.unique,
+    slug: idPage.slug,
+    propertySlug: idPage.propertySlug,
   }),
   slug: JSON.stringify({
     pageTypeSlug: slugPage.pageTypeSlug,
     targetPageTypeSlug: null,
     unique: slugPage.unique,
+    slug: slugPage.slug,
+    propertySlug: slugPage.propertySlug,
   }),
 } as const
 
@@ -59,11 +69,11 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
   filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
   filed("identity/record-property/slug/parts.jsonl", '{"path":"parts.record-property.ts","id":"3"}')
-  filed("schema/page-property/slug/code.jsonl", SCHEMA.code)
-  filed("schema/page-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
-  filed("schema/page-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
-  filed("schema/page-property/slug/id.jsonl", SCHEMA.id)
-  filed("schema/page-property/slug/slug.jsonl", SCHEMA.slug)
+  filed("schema/page-property/file-property/slug/code.jsonl", SCHEMA.code)
+  filed("schema/page-property/relation-property/slug/domain-slug.jsonl", SCHEMA.domainSlug)
+  filed("schema/page-property/relation-property/slug/part-slugs.jsonl", SCHEMA.partSlugs)
+  filed(`schema/page-property/${idPage.pageTypeSlug}/slug/id.jsonl`, SCHEMA.id)
+  filed(`schema/page-property/${slugPage.pageTypeSlug}/slug/slug.jsonl`, SCHEMA.slug)
   return { root, repo }
 }
 

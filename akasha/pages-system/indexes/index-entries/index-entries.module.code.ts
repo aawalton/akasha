@@ -31,6 +31,8 @@ export type Schema = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
   readonly unique: string | null
+  readonly slug: string
+  readonly propertySlug: string
 }
 
 function firstValueIn(declared: Record<string, unknown>): Value | null {
@@ -130,7 +132,7 @@ const PROPERTY = "page-property"
 
 const SLUG = "slug"
 
-const SCHEMA_UNDER = join(SCHEMA, PROPERTY, SLUG)
+const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
 
 export function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
@@ -147,27 +149,34 @@ export function importedBy(path: string, specifier: string): string | null {
 
 export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   const reading = readingIn(given)
-  const dir = SCHEMA_UNDER
   const found = new Map<string, Schema>()
-  for (const one of reading.listing(dir)) {
-    const line = reading.lines(join(dir, one.name))[0]
-    if (line === undefined) continue
-    const said: unknown = JSON.parse(line)
-    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
-    const held = said as Value
-    found.set(one.name.slice(0, -ENDING.length), {
-      pageTypeSlug: textAt(held, "pageTypeSlug") ?? "",
-      targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
-      unique: textAt(held, "unique"),
-    })
+  for (const shape of reading.listing(SCHEMA_UNDER)) {
+    if (!shape.directory) continue
+    const dir = join(SCHEMA_UNDER, shape.name, SLUG)
+    for (const one of reading.listing(dir)) {
+      const line = reading.lines(join(dir, one.name))[0]
+      if (line === undefined) continue
+      const said: unknown = JSON.parse(line)
+      if (said === null || typeof said !== "object" || Array.isArray(said)) continue
+      const held = said as Value
+      const pageTypeSlug = textAt(held, "pageTypeSlug") ?? ""
+      const slug = textAt(held, "slug") ?? ""
+      found.set(`${pageTypeSlug}/${slug}`, {
+        pageTypeSlug,
+        targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
+        unique: textAt(held, "unique"),
+        slug,
+        propertySlug: textAt(held, "propertySlug") ?? "",
+      })
+    }
   }
   return found
 }
 
 export function filePropertiesAt(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const [slug, held] of schemaAt(given))
-    if (held.pageTypeSlug === "file-property") found.add(slug)
+  for (const held of schemaAt(given).values())
+    if (held.pageTypeSlug === "file-property") found.add(held.slug)
   return found
 }
 
@@ -183,8 +192,8 @@ export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string,
 
 export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  for (const [slug, held] of schemaAt(given)) {
-    if (held.unique !== null) found.set(slug, held.unique)
+  for (const held of schemaAt(given).values()) {
+    if (held.unique !== null) found.set(held.slug, held.unique)
   }
   return found
 }

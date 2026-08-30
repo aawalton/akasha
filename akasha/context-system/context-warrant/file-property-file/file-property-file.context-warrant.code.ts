@@ -26,8 +26,8 @@ function pageBeside(path: string, said: Named): string | null {
 
 function propertyOf(root: string, propertySlug: string): Warrant | null {
   const said = schemaOf(root, propertySlug)
-  if (said === null) return null
-  const standing = standingAt(root, said.pageTypeSlug, propertySlug)[0]
+  if ("refused" in said) return null
+  const standing = standingAt(root, said.schema.pageTypeSlug, propertySlug)[0]
   if (standing === undefined) return null
   const oid = standingOf(root, standing.path)
   return oid === null ? null : { path: standing.path, oid, owed: PROPERTY }

@@ -31,9 +31,9 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
   if (said === null || !knowing().types.has(said.tail)) return []
   const found: Warrant[] = []
   for (const slug of statedIn(root, path, said.stem)) {
-    const schema = schemaOf(root, slug)
-    if (schema === null) continue
-    const standing = standingAt(root, schema.pageTypeSlug, slug)[0]
+    const filed = schemaOf(root, slug)
+    if ("refused" in filed) continue
+    const standing = standingAt(root, filed.schema.pageTypeSlug, slug)[0]
     if (standing === undefined || standing.path === path) continue
     const oid = standingOf(root, standing.path)
     if (oid === null) continue

@@ -69,36 +69,71 @@ test("a body that will not load answers with no value rather than throwing", () 
   expect(valueIn("the new body")).toBe(null)
 })
 
-function declaring(index: string, slug: string, said: Record<string, unknown>): undefined {
-  const at = join(index, "schema", "page-property", "slug", `${slug}.jsonl`)
+function declaring(
+  index: string,
+  pageTypeSlug: string,
+  slug: string,
+  said: Record<string, unknown>
+): undefined {
+  const at = join(index, "schema", "page-property", pageTypeSlug, "slug", `${slug}.jsonl`)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")
 }
 
 test("a schema line saying nothing about unique declares no identifier", () => {
   const index = scratch.rootFor("akasha-entries-schema-")
-  declaring(index, "held", { pageTypeSlug: "text-property", targetPageTypeSlug: null })
+  declaring(index, "text-property", "held", {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    slug: "held",
+  })
 
-  expect(schemaAt(readingAt(index)).get("held")?.unique).toBe(null)
+  expect(schemaAt(readingAt(index)).get("text-property/held")?.unique).toBe(null)
   expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
 })
 
 test("a schema line saying nothing about its target names no target", () => {
   const index = scratch.rootFor("akasha-entries-target-")
-  declaring(index, "held", { pageTypeSlug: "relation-property" })
+  declaring(index, "relation-property", "held", {
+    pageTypeSlug: "relation-property",
+    slug: "held",
+  })
 
-  expect(schemaAt(readingAt(index)).get("held")?.targetPageTypeSlug).toBe(null)
+  expect(schemaAt(readingAt(index)).get("relation-property/held")?.targetPageTypeSlug).toBe(null)
 })
 
 test("a schema line that does say unique declares it still", () => {
   const index = scratch.rootFor("akasha-entries-unique-")
-  declaring(index, "id", {
+  declaring(index, "text-property", "id", {
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
     unique: "always",
+    slug: "id",
   })
 
   expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([["id", "always"]])
+})
+
+test("two properties of one slug are answered apart, each under the page type it is", () => {
+  const index = scratch.rootFor("akasha-entries-two-")
+  declaring(index, "text-property", "foo", { pageTypeSlug: "text-property", slug: "foo" })
+  declaring(index, "number-property", "foo", { pageTypeSlug: "number-property", slug: "foo" })
+
+  expect([...schemaAt(readingAt(index)).keys()].sort()).toEqual([
+    "number-property/foo",
+    "text-property/foo",
+  ])
+})
+
+test("a line carries the key a page reads the property by", () => {
+  const index = scratch.rootFor("akasha-entries-key-")
+  declaring(index, "text-property", "held", {
+    pageTypeSlug: "text-property",
+    slug: "held",
+    propertySlug: "held",
+  })
+
+  expect(schemaAt(readingAt(index)).get("text-property/held")?.propertySlug).toBe("held")
 })
 
 test("a path standing as a folder holds no page, and is not read as though it were a file", () => {

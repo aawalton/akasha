@@ -48,11 +48,13 @@ export type Shape = {
 }
 
 export function declaring(root: string, slug: string, shape: Shape): undefined {
-  schemaFiled(root, slug, [
+  schemaFiled(root, shape.pageTypeSlug, slug, [
     {
       pageTypeSlug: shape.pageTypeSlug,
       targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
       unique: shape.unique ?? null,
+      slug,
+      propertySlug: slug,
     },
   ])
 }

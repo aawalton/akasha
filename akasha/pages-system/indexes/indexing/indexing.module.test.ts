@@ -113,22 +113,27 @@ test("two pages carrying one value leave two lines in one file", () => {
   expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
 })
 
-test("a property that changes its shape changes what its entry says", () => {
+test("a property that changes its shape changes what its entry says and where it is filed", () => {
   const { tree, root } = grounded()
   const at = settled(root, tree, ...NOTE, null)
-  expect(said(schemaFile(root, "note"))).toEqual({
+  expect(said(schemaFile(root, "relation-property", "note"))).toEqual({
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
     unique: null,
+    slug: "note",
+    propertySlug: "note",
   })
 
   tookAway(root, tree, at, bodyOf(NOTE[1]))
   settled(root, tree, ...aProperty("8", "note", "text-property"), null)
 
-  expect(said(schemaFile(root, "note"))).toEqual({
+  expect(existsSync(schemaFile(root, "relation-property", "note"))).toBe(false)
+  expect(said(schemaFile(root, "text-property", "note"))).toEqual({
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
     unique: null,
+    slug: "note",
+    propertySlug: "note",
   })
 })
 
@@ -137,8 +142,8 @@ test("a removed property leaves no schema entry and leaves the rest standing", (
   const at = settled(root, tree, ...NOTE, null)
   tookAway(root, tree, at, bodyOf(NOTE[1]))
 
-  expect(existsSync(schemaFile(root, "note"))).toBe(false)
-  expect(existsSync(schemaFile(root, "part-slugs"))).toBe(true)
+  expect(existsSync(schemaFile(root, "relation-property", "note"))).toBe(false)
+  expect(existsSync(schemaFile(root, "relation-property", "part-slugs"))).toBe(true)
 })
 
 test("a value naming its page type is filed under the target's id", () => {
