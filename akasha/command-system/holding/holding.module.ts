@@ -14,7 +14,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "The hold stands under `.git`, so no change ever names it.",
+      statement: "The hold stands under `.git`.",
     },
     {
       invariantKind: "departure",
@@ -26,8 +26,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hold naming no holder that can be read is taken once it has stood too long, so a mark nobody wrote wedges nothing.",
+      statement: "A hold naming no holder that can be read is taken once it has stood too long.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +34,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hold is released only by the process whose mark stands in it, so one caller never releases what another took.",
+      statement: "A hold is released only by the process whose mark stands in it.",
     },
     {
       invariantKind: "departure",
