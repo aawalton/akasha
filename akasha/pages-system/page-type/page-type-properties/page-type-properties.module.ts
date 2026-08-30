@@ -10,8 +10,11 @@ export const pageTypeProperties = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The properties a page type carries are its own and those of every type above it, the nearest declaration binding.",
+      statement: "The properties a page type carries are its own and those of every type above it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The nearest declaration binds.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +23,7 @@ export const pageTypeProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A property is keyed by what its own page states, never by the slug the declaration reaches it with.",
+        "A property is keyed by what its own page states rather than by the slug the declaration reaches it with.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +33,11 @@ export const pageTypeProperties = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges what it gathers. Two properties landing on one key are answered as they stand, and refusing that is the check's work.",
+        "Nothing here judges what it gathers. Two properties landing on one key are answered as they stand.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Refusing two properties landing on one key is the check's work.",
     },
     {
       invariantKind: "absence",
