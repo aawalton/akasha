@@ -6,7 +6,6 @@ slug: interviewer
 domain-parent-slug: page-type/role
 conditional-reading-slugs:
   - prepare-interview
-  - interview-loop
 ---
 
 # Definition
