@@ -26,6 +26,7 @@ export const pagesSystem = {
     "module/page-export-name",
     "module/page-beside",
     "module/page-uncommitted",
+    "module/shadow",
   ],
   invariants: [
     {
