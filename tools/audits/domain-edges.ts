@@ -4,7 +4,6 @@ import {
   type Documents,
   DOMAIN_PARENTS_KEY,
   DOMAIN_SLUG_KEY,
-  CHAMPIONED_DOMAIN_KEY,
   championOf,
   PERSONA_CHAMPION_KEY,
   domainNamed,
@@ -52,30 +51,14 @@ export const domainEdges: Check = (repo) => {
       failures.push(refusalText("domain-parent-unresolved", { path: relPath, slug }, root))
     }
   }
+  const personaBySlug = new Map(personasStanding(root).map((one) => [one.slug, one]))
   const claimedBy = new Map<string, string[]>()
   for (const [relPath, fm] of frontmatter) {
     const persona = textField(fm, PERSONA_CHAMPION_KEY)
     if (persona === null) continue
     claimedBy.set(persona, [...(claimedBy.get(persona) ?? []), relPath])
-    const at = domainNamed(slugs, persona) ?? undefined
-    if (at === undefined) {
+    if (!personaBySlug.has(persona)) {
       failures.push(refusalText("persona-champion-unresolved", { path: relPath, persona }, root))
-      continue
-    }
-    const kind = kindOf(at)
-    if (kind !== "persona") {
-      failures.push(
-        refusalText(
-          "persona-champion-not-a-persona",
-          {
-            path: relPath,
-            persona,
-            at,
-            kind: kind === null ? "a file no page type claims" : `a ${kind} document`,
-          },
-          root
-        )
-      )
     }
   }
   for (const [persona, at] of claimedBy) {
@@ -89,7 +72,7 @@ export const domainEdges: Check = (repo) => {
     )
   }
   let paired = 0
-  for (const persona of personasStanding(root)) {
+  for (const persona of personaBySlug.values()) {
     const relPath = persona.path
     const her = persona.slug
     const holds = persona.championedDomainSlug
@@ -121,10 +104,10 @@ export const domainEdges: Check = (repo) => {
     const persona = textField(fm, PERSONA_CHAMPION_KEY)
     const slug = textField(fm, DOMAIN_SLUG_KEY)
     if (persona === null || slug === null) continue
-    const at = domainNamed(slugs, persona) ?? undefined
-    if (at === undefined) continue
-    const hers = frontmatter.get(at)
-    const holds = hers === undefined ? null : textField(hers, CHAMPIONED_DOMAIN_KEY)
+    const hers = personaBySlug.get(persona)
+    if (hers === undefined) continue
+    const at = hers.path
+    const holds = hers.championedDomainSlug
     if (holds === slug) continue
     failures.push(
       holds === null
