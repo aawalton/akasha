@@ -13,9 +13,6 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../alan/persona/closeness/closeness.ts",
-    "../../alan/persona/ledger/ledger.ts",
-    "../../alan/persona/pending-report/pending-report.ts",
     "../../readouts/ring/ladder/ladder.ts",
     "../../readouts/ring/tier/tier.ts"
   ],

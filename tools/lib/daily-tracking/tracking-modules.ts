@@ -13,7 +13,6 @@ export { getEsoDayStr, getEsoDayStrOffset, getEsoDayWindow } from "@shared/recur
 export { cardioReading, readSessionPages } from "@shared/status-bar-access/readings"
 export { assertNever } from "@shared/utils-narrow/assert-never"
 export const SOURCE_POINTS_FIELD = "sourcePoints"
-export { createNetBytesAccumulator } from "../../../alan/persona/ledger/ledger.ts"
 export { DEFAULT_GREEN_DAY_POINTS } from "../../../readouts/ring/ladder/ladder.ts"
 export { wakeWindow } from "../../../readouts/session-readings.ts"
 

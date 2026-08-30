@@ -1,5 +1,4 @@
 import {
-  createNetBytesAccumulator as createNetBytesAccumulatorBridge,
   pathspecsForPrefix as pathspecsForPrefixBridge,
   pathspecsForPrefixes as pathspecsForPrefixesBridge,
 } from "./tracking-modules.ts"
@@ -9,7 +8,32 @@ interface NetBytesAccumulator {
   readonly total: () => number
 }
 
-const createNetBytesAccumulator = createNetBytesAccumulatorBridge as () => NetBytesAccumulator
+const COMMIT_HEADER = /^commit [0-9a-f]/
+
+function createNetBytesAccumulator(): NetBytesAccumulator {
+  let total = 0
+  let added = 0
+  let removed = 0
+  let inCommit = false
+  return {
+    pushLine: (line: string): undefined => {
+      if (COMMIT_HEADER.test(line)) {
+        if (inCommit) total += Math.max(0, added - removed)
+        added = 0
+        removed = 0
+        inCommit = true
+        return undefined
+      }
+      if (line.startsWith("+") && !line.startsWith("+++")) {
+        added += Buffer.byteLength(line, "utf8")
+      } else if (line.startsWith("-") && !line.startsWith("---")) {
+        removed += Buffer.byteLength(line, "utf8")
+      }
+      return undefined
+    },
+    total: (): number => total + (inCommit ? Math.max(0, added - removed) : 0),
+  }
+}
 
 export const pathspecsForPrefix = pathspecsForPrefixBridge as (
   pathPrefix: string
