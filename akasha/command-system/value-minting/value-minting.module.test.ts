@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
-import type { Change } from "../landing/landing.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   earlyIn,
@@ -89,11 +89,11 @@ function rooted(generator: string | null): string {
   return root
 }
 
-function carrying(body: string): Change {
+function carrying(body: string): FileEdit {
   return { path: AT, body: new TextEncoder().encode(body) }
 }
 
-function textOf(changes: readonly Change[]): string {
+function textOf(changes: readonly FileEdit[]): string {
   const found = changes.find((one) => one.path === AT)
   return found?.body === null || found?.body === undefined
     ? ""

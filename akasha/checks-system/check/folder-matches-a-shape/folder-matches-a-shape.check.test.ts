@@ -8,7 +8,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   ancestorsOf,
   edgesOf,
@@ -26,16 +26,16 @@ const ROOT = "/repo"
 
 const encoder = new TextEncoder()
 
-function leaving(
+function change(
   changed: readonly string[],
   now: Readonly<Record<string, string | null>>,
   before: Readonly<Record<string, string | null>>
-): Leaving {
+): Change {
   const bodied = (held: Readonly<Record<string, string | null>>) => (path: string) => {
     const said = held[path]
     return said === undefined || said === null ? null : encoder.encode(said)
   }
-  return { root: ROOT, changed, at: bodied(now), was: bodied(before) }
+  return { root: ROOT, changed, after: bodied(now), before: bodied(before) }
 }
 
 test("a folder is every part of a path but its last", () => {
@@ -65,13 +65,13 @@ test("a body that is nothing makes no edge", () => {
 })
 
 test("a changed path carries every folder above it", () => {
-  const said = foldersTouchedBy(leaving(["akasha/a/b/one.ts"], { "akasha/a/b/one.ts": "" }, {}))
+  const said = foldersTouchedBy(change(["akasha/a/b/one.ts"], { "akasha/a/b/one.ts": "" }, {}))
   expect([...said].sort()).toEqual(["akasha", "akasha/a", "akasha/a/b"])
 })
 
 test("an import the change adds carries the folder it reaches", () => {
   const said = foldersTouchedBy(
-    leaving(
+    change(
       ["akasha/a/one.ts"],
       { "akasha/a/one.ts": 'import { two } from "../c/two.ts"\n' },
       { "akasha/a/one.ts": "" }
@@ -82,7 +82,7 @@ test("an import the change adds carries the folder it reaches", () => {
 
 test("an import the change takes away carries the folder it used to reach", () => {
   const said = foldersTouchedBy(
-    leaving(
+    change(
       ["akasha/a/one.ts"],
       { "akasha/a/one.ts": "" },
       { "akasha/a/one.ts": 'import { two } from "../c/two.ts"\n' }
@@ -94,14 +94,14 @@ test("an import the change takes away carries the folder it used to reach", () =
 test("an import the change leaves standing carries no folder of its own", () => {
   const body = 'import { two } from "../c/two.ts"\n'
   const said = foldersTouchedBy(
-    leaving(["akasha/a/one.ts"], { "akasha/a/one.ts": body }, { "akasha/a/one.ts": body })
+    change(["akasha/a/one.ts"], { "akasha/a/one.ts": body }, { "akasha/a/one.ts": body })
   )
   expect(said.has("akasha/c")).toBe(false)
 })
 
 test("a path the change takes away still carries the folders above it", () => {
   const said = foldersTouchedBy(
-    leaving(["akasha/a/one.ts"], { "akasha/a/one.ts": null }, { "akasha/a/one.ts": "" })
+    change(["akasha/a/one.ts"], { "akasha/a/one.ts": null }, { "akasha/a/one.ts": "" })
   )
   expect(said.has("akasha/a")).toBe(true)
 })
@@ -163,19 +163,19 @@ function rooted(): string {
   return root
 }
 
-function arriving(root: string, bodies: Record<string, string>): Leaving {
+function arriving(root: string, bodies: Record<string, string>): Change {
   return {
     root,
     changed: Object.keys(bodies),
-    at: (path: string): Uint8Array | null => {
+    after: (path: string): Uint8Array | null => {
       const said = bodies[path]
       return said === undefined ? null : encoder.encode(said)
     },
-    was: (): null => null,
+    before: (): null => null,
   }
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return folderMatchesAShape(change, cast.shadow)

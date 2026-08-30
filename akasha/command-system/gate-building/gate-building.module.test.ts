@@ -27,7 +27,7 @@ test("the gate reaches the checks late, and a root carrying no check index will 
 test("a gate that could not be built judges nothing rather than passing everything", () => {
   expect(NO_GATE.named).toEqual([])
   expect(
-    NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], at: () => null, was: () => null })
+    NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], after: () => null, before: () => null })
   ).toEqual([])
 })
 

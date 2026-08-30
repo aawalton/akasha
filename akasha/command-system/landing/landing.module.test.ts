@@ -9,7 +9,7 @@ import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module
 import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { baseOf, landing, leavingOf } from "./landing.module.code.ts"
+import { baseOf, landing, changeOf } from "./landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -31,33 +31,33 @@ afterAll(scratch.sweep)
 test("a body the change does not touch is read from the base commit, not the working tree", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   writeFileSync(join(root, "two.txt"), "dirty in the worktree")
-  const leaving = leavingOf(root, {
+  const change = changeOf(root, {
     base: baseOf(root),
-    changed: [{ path: "one.txt", body: bytes("proposed") }],
+    edits: [{ path: "one.txt", body: bytes("proposed") }],
   })
-  const said = leaving.at("two.txt")
+  const said = change.after("two.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("committed")
   readingEnded()
 })
 
 test("a body the change touches is read as the change would leave it", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const leaving = leavingOf(root, {
+  const change = changeOf(root, {
     base: baseOf(root),
-    changed: [{ path: "one.txt", body: bytes("proposed") }],
+    edits: [{ path: "one.txt", body: bytes("proposed") }],
   })
-  const said = leaving.at("one.txt")
+  const said = change.after("one.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("proposed")
   readingEnded()
 })
 
 test("a body the change takes away reads as gone rather than as what stands", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const leaving = leavingOf(root, {
+  const change = changeOf(root, {
     base: baseOf(root),
-    changed: [{ path: "one.txt", body: null }],
+    edits: [{ path: "one.txt", body: null }],
   })
-  expect(leaving.at("one.txt")).toBeNull()
+  expect(change.after("one.txt")).toBeNull()
   readingEnded()
 })
 
@@ -65,12 +65,12 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
   const nul = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
   const broken = new Uint8Array([0xff, 0xfe, 0x41, 0x80, 0x42, 0xc3, 0x28])
   const root = repoWith({ "nul.bin": nul, "broken.bin": broken })
-  const leaving = leavingOf(root, {
+  const change = changeOf(root, {
     base: baseOf(root),
-    changed: [{ path: "one.txt", body: bytes("proposed") }],
+    edits: [{ path: "one.txt", body: bytes("proposed") }],
   })
-  expect(leaving.at("nul.bin")).toEqual(nul)
-  expect(leaving.at("broken.bin")).toEqual(broken)
+  expect(change.after("nul.bin")).toEqual(nul)
+  expect(change.after("broken.bin")).toEqual(broken)
   readingEnded()
 })
 
@@ -78,16 +78,16 @@ test("no git outlives a landing, nor one a check throws through", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const reading: Judging = {
     named: ["reading"],
-    over: (leaving) => {
-      expect(leaving.at("one.txt")).not.toBeNull()
+    over: (change) => {
+      expect(change.after("one.txt")).not.toBeNull()
       expect(gitOver(root).length).toBe(1)
       return []
     },
   }
   const throwing: Judging = {
     named: ["throwing"],
-    over: (leaving) => {
-      expect(leaving.at("one.txt")).not.toBeNull()
+    over: (change) => {
+      expect(change.after("one.txt")).not.toBeNull()
       expect(gitOver(root).length).toBe(1)
       throw new Error("thrown for the test")
     },
@@ -216,8 +216,8 @@ test("the checks are shown every path the change touches", () => {
   const seen: string[] = []
   const watching: Judging = {
     named: ["watching"],
-    over: (leaving) => {
-      seen.push(...leaving.changed)
+    over: (change) => {
+      seen.push(...change.changed)
       return []
     },
   }

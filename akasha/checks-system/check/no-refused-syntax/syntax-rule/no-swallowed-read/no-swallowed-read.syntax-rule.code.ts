@@ -2,7 +2,7 @@ import ts from "typescript"
 import { lineOf } from "../../../../../code-system/code-source/code-source.module.code.ts"
 import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
-const WALKED: ReadonlySet<string> = new Set(["Leaving", "Judging", "Judged"])
+const WALKED: ReadonlySet<string> = new Set(["Change", "Judging", "Judged"])
 
 const READS: ReadonlySet<string> = new Set([
   "readFileSync",

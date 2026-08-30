@@ -13,7 +13,7 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
-import type { Change } from "../../landing/landing.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 
@@ -36,7 +36,7 @@ const BARE = [DRY_RUN]
 export function unwarrantedIn(
   given: Given,
   glass: string | null,
-  changes: readonly Change[]
+  changes: readonly FileEdit[]
 ): readonly string[] {
   if (glass !== null) return []
   return unreadIn(
@@ -157,7 +157,7 @@ export function defaultMessage(what: string, paths: readonly string[]): string {
 }
 
 export type Removing = {
-  readonly changes: readonly Change[]
+  readonly changes: readonly FileEdit[]
   readonly taken: readonly string[]
   readonly base: string | null
   readonly mistaken: readonly string[]
@@ -171,7 +171,7 @@ export function removingIn(
   both: (path: string) => string
 ): Removing {
   const base = removals.length === 0 ? null : baseOf(given.root)
-  const changes: Change[] = []
+  const changes: FileEdit[] = []
   const taken: string[] = []
   const mistaken: string[] = []
   const wrong: string[] = []
@@ -201,9 +201,9 @@ export function besideTaken(
   base: string | null,
   taken: readonly string[],
   seen: Set<string>
-): readonly Change[] {
+): readonly FileEdit[] {
   if (base === null) return []
-  const changes: Change[] = []
+  const changes: FileEdit[] = []
   for (const one of besideAll(resolve(given.root), taken)) {
     if (seen.has(one) || bodyAt(given.root, base, one) === null) continue
     seen.add(one)
@@ -291,7 +291,7 @@ export function write(argv: readonly string[], given: Given): Answer {
 
   const mistaken: string[] = []
   const wrong: string[] = []
-  const changes: Change[] = []
+  const changes: FileEdit[] = []
   const seen = new Set<string>()
   for (const one of read.pairs) {
     const path = pathInside(given.root, one.path)

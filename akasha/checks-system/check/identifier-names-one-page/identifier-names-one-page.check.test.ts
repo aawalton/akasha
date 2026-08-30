@@ -10,7 +10,7 @@ import {
   NO_BYTES,
   pathFor,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const TEXT = "text-property"
@@ -54,7 +54,7 @@ function body(kind: string, slug: string, id: string): Uint8Array {
   )
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return identifierNamesOnePage(change, cast.shadow)

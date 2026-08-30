@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
@@ -35,22 +35,22 @@ function arriving(
   root: string,
   changed: readonly string[],
   bodies: Record<string, Uint8Array> = {}
-): Leaving {
+): Change {
   return {
     root,
     changed,
-    at: (path: string): Uint8Array => bodies[path] ?? new Uint8Array(0),
-    was: (): null => null,
+    after: (path: string): Uint8Array => bodies[path] ?? new Uint8Array(0),
+    before: (): null => null,
   }
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return fileHasItsPage(change, cast.shadow)
 }
 
-function unclaimed(change: Leaving): readonly string[] {
+function unclaimed(change: Change): readonly string[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return unclaimedIn(change, cast.shadow)
@@ -142,8 +142,8 @@ test("a claim the change withdraws is no claim, and the file it named is refused
   const said = judged({
     root,
     changed: ["akasha/a/held.module.ts", "akasha/a/held.module.code.ts"],
-    at: (path) => at[path] ?? null,
-    was: (path) => was[path] ?? null,
+    after: (path) => at[path] ?? null,
+    before: (path) => was[path] ?? null,
   })
   expect(said.map((one) => one.path)).toEqual(["akasha/a/held.module.code.ts"])
 })
@@ -160,7 +160,7 @@ test("a property whose shape is not a file names no file, so a path built from i
 
 test("a path the change takes away is passed over", () => {
   const root = rooted()
-  expect(judged({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })).toEqual(
+  expect(judged({ root, changed: ["akasha/a/stray.ts"], after: () => null, before: () => null })).toEqual(
     []
   )
 })

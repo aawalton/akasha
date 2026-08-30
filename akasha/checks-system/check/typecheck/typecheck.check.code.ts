@@ -10,7 +10,7 @@ import type { Reading } from "../../../pages-system/indexes/index-surface/index-
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -46,12 +46,12 @@ export function compiled(path: string): boolean {
   return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
-export function reachedBy(leaving: Leaving, reading?: Reading): readonly string[] {
-  return reachingInto(leaving.root, leaving.changed, [IMPORT], compiled, reading)
+export function reachedBy(change: Change, reading?: Reading): readonly string[] {
+  return reachingInto(change.root, change.changed, [IMPORT], compiled, reading)
 }
 
-export function rootsOf(leaving: Leaving, reading?: Reading): readonly string[] {
-  return reachedBy(leaving, reading).filter((one) => leaving.at(one) !== null)
+export function rootsOf(change: Change, reading?: Reading): readonly string[] {
+  return reachedBy(change, reading).filter((one) => change.after(one) !== null)
 }
 
 export function insideOf(root: string, at: string): string | null {
@@ -82,27 +82,27 @@ export function omittingIn(path: string, text: string, keys: readonly string[]):
 }
 
 export function mintingIn(
-  leaving: Leaving,
+  change: Change,
   keys: readonly string[],
   given: string | Reading
 ): Minting {
   const pageTypes = keys.length === 0 ? null : pageTypesIn(given)
   return (path, text) => {
     if (pageTypes === null || !pageNamed(path, pageTypes)) return text
-    if (leaving.was(path) !== null) return text
+    if (change.before(path) !== null) return text
     return omittingIn(path, text, keys) ?? text
   }
 }
 
-export function bodiesOf(leaving: Leaving, minting: Minting): (at: string) => string | undefined {
-  const root = resolve(leaving.root)
+export function bodiesOf(change: Change, minting: Minting): (at: string) => string | undefined {
+  const root = resolve(change.root)
   const held = new Map<string, string | undefined>()
   return (path) => {
     const at = resolve(path)
     const found = held.get(at)
     if (found !== undefined || held.has(at)) return found
     const rel = insideOf(root, at)
-    const bytes = rel === null ? null : leaving.at(rel)
+    const bytes = rel === null ? null : change.after(rel)
     let said: string | undefined
     if (rel === null) said = ts.sys.readFile(at)
     else if (bytes !== null) said = minting(rel, textIn(bytes))
@@ -124,12 +124,12 @@ function directoriesIn(root: string, every: readonly string[]): ReadonlySet<stri
 }
 
 export function hostOver(
-  leaving: Leaving,
+  change: Change,
   read: (at: string) => string | undefined,
   every: readonly string[]
 ): ts.CompilerHost {
   const base = ts.createCompilerHost(SETTINGS, true)
-  const root = resolve(leaving.root)
+  const root = resolve(change.root)
   const dirs = directoriesIn(root, every)
   return {
     ...base,
@@ -161,16 +161,16 @@ export function foundOf(root: string, said: ts.Diagnostic): Found {
   }
 }
 
-export function foundIn(leaving: Leaving, shadow: Shadow): readonly Found[] {
-  const roots = rootsOf(leaving, shadow.reading)
+export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
+  const roots = rootsOf(change, shadow.reading)
   if (roots.length === 0) return []
-  const root = resolve(leaving.root)
+  const root = resolve(change.root)
   const keys = [...waitingProperties(shadow)].map(exportedAs)
-  const read = bodiesOf(leaving, mintingIn(leaving, keys, shadow.reading))
+  const read = bodiesOf(change, mintingIn(change, keys, shadow.reading))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
     options: SETTINGS,
-    host: hostOver(leaving, read, roots),
+    host: hostOver(change, read, roots),
   })
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
@@ -187,11 +187,11 @@ export function foundIn(leaving: Leaving, shadow: Shadow): readonly Found[] {
   return found
 }
 
-export function typecheck(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const changed = new Set(leaving.changed)
+export function typecheck(change: Change, shadow: Shadow): readonly Judged[] {
+  const changed = new Set(change.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
-  for (const one of foundIn(leaving, shadow)) {
+  for (const one of foundIn(change, shadow)) {
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue
     seen.add(key)

@@ -25,8 +25,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
 const MARKS =
   'import { writeFileSync } from "node:fs"\n' +
   "\n" +
-  "export function marks(leaving) {\n" +
-  '  writeFileSync(`${leaving.root}/ran.txt`, "ran")\n' +
+  "export function marks(change) {\n" +
+  '  writeFileSync(`${change.root}/ran.txt`, "ran")\n' +
   "  return []\n" +
   "}\n"
 

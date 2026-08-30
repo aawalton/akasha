@@ -12,7 +12,7 @@ export const noSwallowedRead = {
     {
       invariantKind: "departure",
       statement:
-        "A file importing `Leaving`, `Judging` or `Judged` is walking the paths a change carries, and that is where a read that fails costs a path rather than a caller.",
+        "A file importing `Change`, `Judging` or `Judged` is walking the paths a change carries, and that is where a read that fails costs a path rather than a caller.",
     },
     {
       invariantKind: "departure",

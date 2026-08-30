@@ -9,7 +9,7 @@ import {
   pathFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { gone, leaving, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import { gone, change, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
@@ -61,41 +61,41 @@ test("the tests named are the ones standing beside the files the change carries"
     "akasha/one.module.test.ts": PASSES,
     "akasha/two.module.test.ts": PASSES,
   })
-  const said = namedIn(leaving(root, ["akasha/one.module.code.ts", "akasha/two.module.ts"]))
+  const said = namedIn(change(root, ["akasha/one.module.code.ts", "akasha/two.module.ts"]))
   expect(said).toEqual(["akasha/one.module.test.ts", "akasha/two.module.test.ts"])
 })
 
 test("a page, its code and its test all name the one test beside them", () => {
   const root = repo({ "akasha/one.module.test.ts": PASSES })
   const changed = ["akasha/one.module.ts", "akasha/one.module.code.ts", "akasha/one.module.test.ts"]
-  expect(namedIn(leaving(root, changed))).toEqual(["akasha/one.module.test.ts"])
+  expect(namedIn(change(root, changed))).toEqual(["akasha/one.module.test.ts"])
 })
 
 test("a file whose test does not stand beside it names no test", () => {
   const root = repo({ "akasha/one.module.code.ts": "" })
-  expect(namedIn(leaving(root, ["akasha/one.module.code.ts"]))).toEqual([])
+  expect(namedIn(change(root, ["akasha/one.module.code.ts"]))).toEqual([])
 })
 
 test("a file that is not typescript names no test", () => {
   const root = repo({ "akasha/one.module.test.ts": PASSES })
-  expect(namedIn(leaving(root, ["akasha/held.md", "akasha/held.json"]))).toEqual([])
+  expect(namedIn(change(root, ["akasha/held.md", "akasha/held.json"]))).toEqual([])
 })
 
 test("a test file the change brings is named, though nothing stands at it on disk", () => {
   const root = repo({})
   const added = "akasha/new.module.test.ts"
   const at = proposing(root, added, PASSES)
-  expect(namedIn(leaving(root, ["akasha/new.module.code.ts"], at))).toEqual([added])
+  expect(namedIn(change(root, ["akasha/new.module.code.ts"], at))).toEqual([added])
 })
 
 test("a test file the change takes away is named by nothing", () => {
   const root = repo({ "akasha/one.module.test.ts": PASSES })
-  expect(namedIn(leaving(root, ["akasha/one.module.code.ts"], gone))).toEqual([])
+  expect(namedIn(change(root, ["akasha/one.module.code.ts"], gone))).toEqual([])
 })
 
 test("a change carrying no file with a test beside it is judged by no run", () => {
   const root = repo({ "akasha/held.md": "held" })
-  expect(withoutGuard(() => testsPass(leaving(root, ["akasha/held.md"]), shadowAt(root)))).toEqual(
+  expect(withoutGuard(() => testsPass(change(root, ["akasha/held.md"]), shadowAt(root)))).toEqual(
     []
   )
 })
@@ -106,7 +106,7 @@ test("a change whose tests pass is not refused", () => {
     "akasha/one.module.test.ts": PASSES,
   })
   const said = withoutGuard(() =>
-    testsPass(leaving(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+    testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said).toEqual([])
 })
@@ -117,7 +117,7 @@ test("a change whose tests fail is refused, and the reason says how many", () =>
     "akasha/one.module.test.ts": FAILS,
   })
   const said = withoutGuard(() =>
-    testsPass(leaving(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+    testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
@@ -131,14 +131,14 @@ test("a change is judged by the body it proposes, not the one standing on disk",
   })
   const at = proposing(root, "akasha/one.module.code.ts", BREAKS)
   const said = withoutGuard(() =>
-    testsPass(leaving(root, ["akasha/one.module.code.ts"], at), shadowAt(root))
+    testsPass(change(root, ["akasha/one.module.code.ts"], at), shadowAt(root))
   )
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.module.test.ts")
   expect(said[0]?.reason).toContain("1 of 1 tests failed")
   expect(readFileSync(join(root, "akasha/one.module.code.ts"), "utf8")).toBe(HOLDS)
   expect(
-    withoutGuard(() => testsPass(leaving(root, ["akasha/one.module.code.ts"]), shadowAt(root)))
+    withoutGuard(() => testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root)))
   ).toEqual([])
 })
 
@@ -150,7 +150,7 @@ test("a run already inside a run judges nothing and lets the outer one answer", 
   const held = process.env[RUNNING]
   process.env[RUNNING] = "1"
   try {
-    expect(testsPass(leaving(root, ["akasha/one.module.code.ts"]), shadowAt(root))).toEqual([])
+    expect(testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))).toEqual([])
   } finally {
     if (held === undefined) delete process.env[RUNNING]
     else process.env[RUNNING] = held
@@ -190,7 +190,7 @@ test("the reason names a file where it stands in the change, not in the world it
     "akasha/one.module.test.ts": FAILS,
   })
   const said = withoutGuard(() =>
-    testsPass(leaving(root, ["akasha/one.module.code.ts"]), shadowAt(root))
+    testsPass(change(root, ["akasha/one.module.code.ts"]), shadowAt(root))
   )
   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
   expect(said[0]?.reason).toContain("akasha/one.module.test.ts")

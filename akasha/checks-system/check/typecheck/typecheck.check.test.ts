@@ -4,7 +4,7 @@ import { join } from "node:path"
 import ts from "typescript"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.check.code.ts"
 import {
   declaring,
@@ -12,7 +12,7 @@ import {
   generating,
   LOADED_AT,
   LOADER_CODE_AT,
-  leaving,
+  change,
   scratch,
   staged,
 } from "./typecheck.check.test-fixtures.ts"
@@ -33,19 +33,19 @@ const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const sa
 
 const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return typecheck(change, cast.shadow)
 }
 
 function over(root: string, path: string, body: string | null): readonly Judged[] {
-  return judged(leaving(root, { [path]: body }))
+  return judged(change(root, { [path]: body }))
 }
 
 test("the files compiled are read from the index the change leaves, not the one it found", () => {
   const root = declaring()
-  const gone = leaving(root, { [LOADED_AT]: null })
+  const gone = change(root, { [LOADED_AT]: null })
   const cast = shadowFor(gone)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(rootsOf(gone)).toEqual([LOADER_CODE_AT])
@@ -73,25 +73,25 @@ test("a body carrying no satisfies clause narrows to nothing, so it is judged as
 })
 
 test("a page being created compiles without the property a generator fills after the checks", () => {
-  expect(judged(leaving(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+  expect(judged(change(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
 })
 
 test("a page being created is refused for the property a generator fills before the checks, the value standing in the body by then", () => {
-  const said = judged(leaving(generating({}, EARLY), { [THING_AT]: WITHOUT }))
+  const said = judged(change(generating({}, EARLY), { [THING_AT]: WITHOUT }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(THING_AT)
   expect(said[0]?.reason).toContain("TS1360")
 })
 
 test("a page already standing is refused for dropping the property a generator fills", () => {
-  const said = judged(leaving(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
+  const said = judged(change(generating({ [THING_AT]: WHOLE }), { [THING_AT]: WITHOUT }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(THING_AT)
   expect(said[0]?.reason).toContain("TS1360")
 })
 
 test("a page being created is still refused for what the narrowing does not cover", () => {
-  const said = judged(leaving(generating({}), { [THING_AT]: WRONG }))
+  const said = judged(change(generating({}), { [THING_AT]: WRONG }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(THING_AT)
   expect(said[0]?.reason).toContain("TS2322")
@@ -126,9 +126,9 @@ test("a proposed body that fixes what stands on disk is judged clean, so the cha
 
 test("a proposed body that breaks what stands clean on disk is refused, so the change is what is read", () => {
   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
-  expect(judged(leaving(root, {}))).toEqual([])
+  expect(judged(change(root, {}))).toEqual([])
   expect(over(root, "akasha/one.ts", "export const one: string = 1\n")).toHaveLength(1)
-  expect(judged(leaving(root, {}))).toEqual([])
+  expect(judged(change(root, {}))).toEqual([])
 })
 
 test("a type is judged across files, so a caller is refused for a callee it no longer fits", () => {
@@ -190,7 +190,7 @@ test("an export the change takes away breaks the file reading it", () => {
 
 test("a file the change brings is compiled though no disk holds it", () => {
   const root = staged({ "akasha/one.ts": "export const one: number = 1\n" })
-  const said = judged(leaving(root, { "akasha/two.ts": "export const two: string = 2\n" }))
+  const said = judged(change(root, { "akasha/two.ts": "export const two: string = 2\n" }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe("akasha/two.ts")
 })
@@ -204,7 +204,7 @@ test("a diagnostic against a file the change did not touch is reported once, how
     "akasha/c.ts": "export const c = 3\n",
   })
   const said = judged(
-    leaving(root, {
+    change(root, {
       "akasha/a.ts": "export const a = 10\n",
       "akasha/b.ts": "export const b = 20\n",
       "akasha/c.ts": "export const c = 30\n",
@@ -233,7 +233,7 @@ test("a file that is not TypeScript is passed over, and a file outside the akash
 
 test("a folder holding no TypeScript is judged clean without a program being built", () => {
   const root = staged({ "akasha/notes.txt": "nothing to compile\n" })
-  expect(judged(leaving(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
+  expect(judged(change(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
 })
 
 test("the files compiled are the change and everything importing it, however far", () => {
@@ -243,12 +243,12 @@ test("the files compiled are the change and everything importing it, however far
     "akasha/deep/three.ts": 'import { two } from "./two.ts"\nexport const three = two\n',
     "akasha/apart.ts": "export const apart = 1\n",
   })
-  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/deep/three.ts",
     "akasha/deep/two.ts",
     "akasha/one.ts",
   ])
-  expect(reachedBy(leaving(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
+  expect(reachedBy(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([
     "akasha/apart.ts",
   ])
 })
@@ -258,7 +258,7 @@ test("a file nothing in the change reaches is not compiled, so its standing erro
     "akasha/broken.ts": "export const one: string = 1\n",
     "akasha/apart.ts": "export const apart = 1\n",
   })
-  expect(judged(leaving(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
+  expect(judged(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
 })
 
 test("a file outside the akasha folder never becomes a root, however the index names it", () => {
@@ -266,7 +266,7 @@ test("a file outside the akasha folder never becomes a root, however the index n
     "akasha/one.ts": "export const one = 1\n",
     "shared/two.ts": 'import { one } from "../akasha/one.ts"\nexport const two = one\n',
   })
-  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/one.ts",
   ])
 })
@@ -277,9 +277,9 @@ test("an index naming no commit is refused, because an index that cannot answer 
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
   })
   const changed = { "akasha/one.ts": "export const one = 2\n" }
-  expect(reachedBy(leaving(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  expect(reachedBy(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
   rmSync(join(indexIn(root), STAMP_AT))
-  expect(() => judged(leaving(root, changed))).toThrow(NAMING_NO_COMMIT)
+  expect(() => judged(change(root, changed))).toThrow(NAMING_NO_COMMIT)
 })
 
 test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {
@@ -287,7 +287,7 @@ test("an index standing and naming no importer is an answer, so the change alone
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": "export const two = 2\n",
   })
-  expect(reachedBy(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
+  expect(reachedBy(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/one.ts",
   ])
 })
@@ -295,7 +295,7 @@ test("an index standing and naming no importer is an answer, so the change alone
 test("a change naming no TypeScript under the akasha folder asks the index nothing", () => {
   const root = staged({ "akasha/one.ts": "export const one = 1\n" })
   rmSync(join(root, ".git"), { recursive: true })
-  expect(judged(leaving(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
+  expect(judged(change(root, { "akasha/notes.txt": "nothing to compile\n" }))).toEqual([])
 })
 
 test("a file whole at base and deleted from the worktree alone still answers for its errors", () => {
@@ -305,9 +305,9 @@ test("a file whole at base and deleted from the worktree alone still answers for
   })
   const held = readFileSync(join(root, "akasha/b.ts"), "utf8")
   const changed = { "akasha/a.ts": "export const one: number = 1\n" }
-  const standing = judged(leaving(root, changed))
+  const standing = judged(change(root, changed))
   rmSync(join(root, "akasha/b.ts"))
-  const gone = judged(leaving(root, changed, { "akasha/b.ts": held }))
+  const gone = judged(change(root, changed, { "akasha/b.ts": held }))
   expect(standing).toHaveLength(1)
   expect(standing[0]?.path).toBe("akasha/b.ts")
   expect(gone).toEqual(standing)

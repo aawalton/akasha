@@ -3,7 +3,7 @@ import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import type { Change } from "../../judging/judging.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.check.code.ts"
 import { everySpeltIn, noRuleInTwoFiles, reasonsIn } from "./no-rule-in-two-files.check.code.ts"
 
@@ -114,7 +114,7 @@ function pageBody(slug: string, last: string): Uint8Array {
   )
 }
 
-function bothArriving(root: string): Leaving {
+function bothArriving(root: string): Change {
   const bodies: Record<string, Uint8Array> = {
     "akasha/b/one.module.ts": pageBody("one", "1"),
     [ONE_CODE]: new TextEncoder().encode(CAMEL),
@@ -124,8 +124,8 @@ function bothArriving(root: string): Leaving {
   return {
     root,
     changed: ["akasha/b/one.module.ts", ONE_CODE, "akasha/c/two.module.ts", TWO_CODE],
-    at: (path: string): Uint8Array | null => bodies[path] ?? null,
-    was: (): null => null,
+    after: (path: string): Uint8Array | null => bodies[path] ?? null,
+    before: (): null => null,
   }
 }
 

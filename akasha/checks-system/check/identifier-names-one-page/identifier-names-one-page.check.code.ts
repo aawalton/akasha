@@ -5,7 +5,7 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
 export type Stated = {
@@ -48,8 +48,8 @@ function reasonFor(one: Stated, other: string, how: string): string {
   )
 }
 
-export function identifierNamesOnePage(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
+export function identifierNamesOnePage(change: Change, shadow: Shadow): readonly Judged[] {
+  const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
   const said: Judged[] = []
   for (const held of statedByKey(statedBy(carried, uniquePropertiesAt(shadow.reading))).values()) {

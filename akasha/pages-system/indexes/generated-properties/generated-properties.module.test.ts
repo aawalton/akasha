@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import { type Leaving, shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
+import { type Change, shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
 import { indexIn } from "../index-reading/index-reading.module.code.ts"
 import { generatedProperties, waitingProperties } from "./generated-properties.module.code.ts"
 
@@ -57,7 +57,7 @@ function heldBody(said: string): string {
   return `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "held", propertySlug: "held"${said} }\n`
 }
 
-function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Leaving {
+function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Change {
   const was = (path: string): Uint8Array | null => {
     try {
       return readFileSync(join(root, path))
@@ -68,12 +68,12 @@ function patchOver(root: string, changes: ReadonlyMap<string, string | null>): L
   return {
     root,
     changed: [...changes.keys()].sort(),
-    at: (path) => {
+    after: (path) => {
       if (!changes.has(path)) return was(path)
       const body = changes.get(path) ?? null
       return body === null ? null : new TextEncoder().encode(body)
     },
-    was,
+    before: was,
   }
 }
 

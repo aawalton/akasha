@@ -10,7 +10,7 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { overEachFile, overEachText } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"
@@ -75,10 +75,10 @@ export function refusalsIn(rules: readonly Rule[], path: string, text: string): 
   return said
 }
 
-export function noRefusedSyntax(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const rules = rulesIn(leaving.root, shadow.reading)
+export function noRefusedSyntax(change: Change, shadow: Shadow): readonly Judged[] {
+  const rules = rulesIn(change.root, shadow.reading)
   return overEachFile(
-    leaving,
+    change,
     overEachText((path, text) => refusalsIn(rules, path, text))
   )
 }

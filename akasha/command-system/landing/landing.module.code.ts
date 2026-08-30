@@ -1,6 +1,6 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Judged, Judging, Leaving } from "../../checks-system/judging/judging.module.code.ts"
+import type { Judged, Judging, Change } from "../../checks-system/judging/judging.module.code.ts"
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
@@ -12,7 +12,7 @@ import { holding } from "../holding/holding.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 import { INSIDE, movedOnDisk, reachedSince } from "../standing/standing.module.code.ts"
 
-export type Change = {
+export type FileEdit = {
   readonly path: string
   readonly body: Uint8Array | null
   readonly carried?: boolean
@@ -20,7 +20,7 @@ export type Change = {
 
 export type Proposed = {
   readonly base: string
-  readonly changed: readonly Change[]
+  readonly edits: readonly FileEdit[]
 }
 
 export type Landed = {
@@ -39,9 +39,9 @@ export function baseOf(root: string): string {
   return gitIn(root, ["rev-parse", "HEAD"]).trim()
 }
 
-export function leavingOf(root: string, proposed: Proposed): Leaving {
+export function changeOf(root: string, proposed: Proposed): Change {
   const held = new Map<string, Uint8Array | null>()
-  for (const one of proposed.changed) held.set(one.path, one.body)
+  for (const one of proposed.edits) held.set(one.path, one.body)
   const read = new Map<string, Uint8Array | null>()
   const based = (path: string): Uint8Array | null => {
     const found = read.get(path)
@@ -53,20 +53,20 @@ export function leavingOf(root: string, proposed: Proposed): Leaving {
   }
   return {
     root,
-    changed: proposed.changed.map((one) => one.path).sort(),
-    at: (path) => {
+    changed: proposed.edits.map((one) => one.path).sort(),
+    before: based,
+    after: (path) => {
       const said = held.get(path)
       if (said !== undefined) return said
       if (held.has(path)) return null
       return based(path)
     },
-    was: based,
   }
 }
 
-function judged(judging: Judging, leaving: Leaving): readonly Judged[] {
+function judged(judging: Judging, change: Change): readonly Judged[] {
   try {
-    return judging.over(leaving)
+    return judging.over(change)
   } finally {
     readingEnded()
   }
@@ -74,7 +74,7 @@ function judged(judging: Judging, leaving: Leaving): readonly Judged[] {
 
 function wroteOnto(
   root: string,
-  changed: readonly Change[]
+  changed: readonly FileEdit[]
 ): {
   readonly wrote: readonly string[]
   readonly took: readonly string[]
@@ -98,7 +98,7 @@ function wroteOnto(
 function beforeOf(
   root: string,
   base: string,
-  changed: readonly Change[]
+  changed: readonly FileEdit[]
 ): Map<string, Uint8Array | null> {
   try {
     const held = new Map<string, Uint8Array | null>()
@@ -118,7 +118,7 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
 
 function indexed(
   root: string,
-  changed: readonly Change[],
+  changed: readonly FileEdit[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): readonly string[] {
@@ -140,7 +140,7 @@ function movedBetween(
   root: string,
   read: string,
   base: string,
-  changed: readonly Change[]
+  changed: readonly FileEdit[]
 ): readonly string[] {
   const moved: string[] = []
   for (const one of changed) {
@@ -151,7 +151,7 @@ function movedBetween(
 
 export function landing(
   root: string,
-  changes: readonly Change[],
+  changes: readonly FileEdit[],
   message: string,
   judging: Judging,
   writer: string | null = null,
@@ -175,9 +175,9 @@ export function landing(
         ],
       }
     }
-    const proposed = { base, changed: changes }
-    const leaving = leavingOf(root, proposed)
-    const said = judged(judging, leaving)
+    const proposed = { base, edits: changes }
+    const change = changeOf(root, proposed)
+    const said = judged(judging, change)
     if (said.length > 0) {
       return {
         refusals: [

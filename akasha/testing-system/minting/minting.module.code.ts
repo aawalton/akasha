@@ -5,8 +5,8 @@ import type { Phase } from "../../checks-system/checking/checking.module.code.ts
 import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
-export const REFUSES_CODE = `export function refuses(leaving) {
-  return leaving.changed.map((path) => ({ path, reason: "refused for the test" }))
+export const REFUSES_CODE = `export function refuses(change) {
+  return change.changed.map((path) => ({ path, reason: "refused for the test" }))
 }
 `
 

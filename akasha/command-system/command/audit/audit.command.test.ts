@@ -3,7 +3,7 @@ import type { Gathered } from "../../../checks-system/checking/checking.module.c
 import type {
   Judged,
   Judging,
-  Leaving,
+  Change,
 } from "../../../checks-system/judging/judging.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
 import {
@@ -17,8 +17,8 @@ import {
 
 const ROOT = "/var/tmp/nowhere-an-audit-reaches"
 
-function over(files: readonly string[]): Leaving {
-  return { root: ROOT, changed: files, at: () => null, was: () => null }
+function over(files: readonly string[]): Change {
+  return { root: ROOT, changed: files, after: () => null, before: () => null }
 }
 
 function saying(named: readonly string[], said: readonly Judged[]): Judging {

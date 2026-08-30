@@ -8,11 +8,11 @@ import {
 } from "../indexes/index-surface/index-surface.module.code.ts"
 import { settlingOver } from "../indexes/indexing/indexing.module.code.ts"
 
-export type Leaving = {
+export type Change = {
   readonly root: string
   readonly changed: readonly string[]
-  readonly at: (path: string) => Uint8Array | null
-  readonly was: (path: string) => Uint8Array | null
+  readonly before: (path: string) => Uint8Array | null
+  readonly after: (path: string) => Uint8Array | null
 }
 
 export type Shadow = {
@@ -36,8 +36,8 @@ function remembering(pageOf: (path: string) => Value | null): (path: string) => 
   }
 }
 
-function nothingMoved(leaving: Leaving): boolean {
-  return leaving.at === leaving.was
+function nothingMoved(change: Change): boolean {
+  return change.after === change.before
 }
 
 export function shadowAt(root: string): Shadow {
@@ -47,22 +47,22 @@ export function shadowAt(root: string): Shadow {
   }
 }
 
-function castOver(leaving: Leaving): Cast {
-  if (nothingMoved(leaving)) return { shadow: shadowAt(leaving.root) }
-  const under = readingAt(indexIn(leaving.root))
-  const carried = new Set(leaving.changed)
+function castOver(change: Change): Cast {
+  if (nothingMoved(change)) return { shadow: shadowAt(change.root) }
+  const under = readingAt(indexIn(change.root))
+  const carried = new Set(change.changed)
   const pageOf = remembering((path) => {
-    if (!carried.has(path)) return valueAt(path, leaving.root)
-    const body = textOf(leaving.at(path))
+    if (!carried.has(path)) return valueAt(path, change.root)
+    const body = textOf(change.after(path))
     return body === null ? null : valueIn(body)
   })
   try {
-    const moving = leaving.changed.map((path) => ({
+    const moving = change.changed.map((path) => ({
       path,
-      before: textOf(leaving.was(path)),
-      after: textOf(leaving.at(path)),
+      before: textOf(change.before(path)),
+      after: textOf(change.after(path)),
     }))
-    const found = settlingOver(under, leaving.root, moving, pageOf)
+    const found = settlingOver(under, change.root, moving, pageOf)
     return { shadow: { reading: overlaidOn(under, found.filings), pageOf } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -70,11 +70,11 @@ function castOver(leaving: Leaving): Cast {
   }
 }
 
-export function shadowAsked(leaving: Leaving): Shadow {
+export function shadowAsked(change: Change): Shadow {
   let held: Shadow | null = null
   const worked = (): Shadow => {
     if (held !== null) return held
-    const found = shadowFor(leaving)
+    const found = shadowFor(change)
     if ("refused" in found) throw new Error(found.refused)
     held = found.shadow
     return held
@@ -89,12 +89,12 @@ export function shadowAsked(leaving: Leaving): Shadow {
   }
 }
 
-const cast = new WeakMap<Leaving, Cast>()
+const cast = new WeakMap<Change, Cast>()
 
-export function shadowFor(leaving: Leaving): Cast {
-  const found = cast.get(leaving)
+export function shadowFor(change: Change): Cast {
+  const found = cast.get(change)
   if (found !== undefined) return found
-  const made = castOver(leaving)
-  cast.set(leaving, made)
+  const made = castOver(change)
+  cast.set(change, made)
   return made
 }

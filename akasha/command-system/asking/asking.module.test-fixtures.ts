@@ -87,16 +87,16 @@ export function checking(
 }
 
 export const REFUSES_TAKING =
-  "export function refusesTaking(leaving) {\n" +
-  "  return leaving.changed\n" +
-  "    .filter((path) => leaving.at(path) === null)\n" +
+  "export function refusesTaking(change) {\n" +
+  "  return change.changed\n" +
+  "    .filter((path) => change.after(path) === null)\n" +
   '    .map((path) => ({ path, reason: "a check judged this going away" }))\n' +
   "}\n"
 
 export const REFUSES_LOOSE =
-  "export function refusesLoose(leaving) {\n" +
-  "  return leaving.changed\n" +
-  '    .filter((path) => new TextDecoder().decode(leaving.at(path)).includes("   "))\n' +
+  "export function refusesLoose(change) {\n" +
+  "  return change.changed\n" +
+  '    .filter((path) => new TextDecoder().decode(change.after(path)).includes("   "))\n' +
   '    .map((path) => ({ path, reason: "a check was handed a body nobody formatted" }))\n' +
   "}\n"
 

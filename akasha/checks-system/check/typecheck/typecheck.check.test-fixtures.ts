@@ -15,7 +15,7 @@ import {
 import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import type { Change } from "../../judging/judging.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -194,11 +194,11 @@ export function declaring(): string {
   return root
 }
 
-export function leaving(
+export function change(
   root: string,
   over: Readonly<Record<string, string | null>>,
   base: Readonly<Record<string, string>> = {}
-): Leaving {
+): Change {
   const held = new Map(Object.entries(over))
   const standing = new Map(Object.entries(base))
   const based = (path: string): Uint8Array | null => {
@@ -213,13 +213,13 @@ export function leaving(
   return {
     root,
     changed: [...held.keys()].sort(),
-    at: (path) => {
+    after: (path) => {
       if (held.has(path)) {
         const said = held.get(path)
         return said === undefined || said === null ? null : new TextEncoder().encode(said)
       }
       return based(path)
     },
-    was: based,
+    before: based,
   }
 }

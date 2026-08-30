@@ -8,16 +8,16 @@ import {
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { everyFileIn } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const KEPT = 40
 
-export function namedIn(leaving: Leaving): readonly string[] {
+export function namedIn(change: Change): readonly string[] {
   const held = new Set<string>()
-  for (const one of leaving.changed) {
+  for (const one of change.changed) {
     const beside = testBesideOf(one)
     if (beside === null) continue
-    if (leaving.at(beside) === null) continue
+    if (change.after(beside) === null) continue
     held.add(beside)
   }
   return [...held].sort()
@@ -52,13 +52,13 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
   )
 }
 
-export function testsPass(leaving: Leaving, shadow: Shadow): readonly Judged[] {
+export function testsPass(change: Change, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return []
-  const named = namedIn(leaving)
+  const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const over = [...new Set([...everyFileIn(leaving.root, shadow.reading), ...leaving.changed])]
-  const world = worldOf(leaving.root, over, leaving.at)
+  const over = [...new Set([...everyFileIn(change.root, shadow.reading), ...change.changed])]
+  const world = worldOf(change.root, over, change.after)
   try {
     const ran = ranOver(world.root, named, named.length)
     if (ran.verdict === "pass") return []

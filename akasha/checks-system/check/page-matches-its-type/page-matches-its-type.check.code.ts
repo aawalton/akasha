@@ -20,7 +20,7 @@ import { slugFor } from "../../../pages-system/page-property/page-property-key/p
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -228,7 +228,7 @@ export function reasonsIn(
   return said
 }
 
-export function readingIn(leaving: Leaving, shadow: Shadow): Reading {
+export function readingIn(change: Change, shadow: Shadow): Reading {
   const held = new Map<string, Value | null>()
   return (pageTypeSlug, slug) => {
     const at = `${pageTypeSlug}/${slug}`
@@ -238,10 +238,10 @@ export function readingIn(leaving: Leaving, shadow: Shadow): Reading {
     const one = standing.length === 1 ? standing[0] : undefined
     let value: Value | null = null
     if (one !== undefined) {
-      const bytes = leaving.at(one.path)
+      const bytes = change.after(one.path)
       if (bytes === null) value = shadow.pageOf(one.path)
       else {
-        const given: Body = { root: leaving.root, path: one.path, bytes }
+        const given: Body = { root: change.root, path: one.path, bytes }
         const text = bodyOf(given)
         value = text === null ? null : valueIn(text)
       }
@@ -262,7 +262,7 @@ export function unloadable(why: string | null): string {
   return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
 }
 
-export function pageMatchesItsType(leaving: Leaving, shadow: Shadow): readonly Judged[] {
+export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(shadow.reading)
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
@@ -270,19 +270,19 @@ export function pageMatchesItsType(leaving: Leaving, shadow: Shadow): readonly J
     generated = waitingProperties(shadow)
     return generated
   }
-  const read = readingIn(leaving, shadow)
+  const read = readingIn(change, shadow)
   const property = (slug: string): Value | null => {
-    const said = schemaOf(leaving.root, slug)
+    const said = schemaOf(change.root, slug)
     return "refused" in said ? null : read(said.schema.pageTypeSlug, slug)
   }
-  const formatting = matchingIn(leaving.root)
+  const formatting = matchingIn(change.root)
   const judged: Judged[] = []
-  for (const path of leaving.changed) {
+  for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (!pageNamed(path, pageTypes)) continue
-    const bytes = leaving.at(path)
+    const bytes = change.after(path)
     if (bytes === null) continue
-    const given: Body = { root: leaving.root, path, bytes }
+    const given: Body = { root: change.root, path, bytes }
     const text = bodyOf(given)
     if (text === null) continue
     const loaded = loadedFrom(text)
@@ -299,7 +299,7 @@ export function pageMatchesItsType(leaving: Leaving, shadow: Shadow): readonly J
     const declared = declaredFor(pageTypeSlug, read)
     if (declared.size === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
-    const excused = leaving.was(path) !== null ? NOTHING : generatedNow()
+    const excused = change.before(path) !== null ? NOTHING : generatedNow()
     for (const reason of reasonsIn(value, declared, property, named, formatting, excused)) {
       judged.push({ path, reason })
     }

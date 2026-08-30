@@ -1,7 +1,7 @@
 import type { Found, Linted } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { worldOf } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -9,11 +9,11 @@ const WORLD = "the world this change was stood up in"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
-export function carriedIn(leaving: Leaving): readonly string[] {
+export function carriedIn(change: Change): readonly string[] {
   const held = new Set<string>()
-  for (const one of leaving.changed) {
+  for (const one of change.changed) {
     if (!one.endsWith(TS)) continue
-    if (leaving.at(one) === null) continue
+    if (change.after(one) === null) continue
     held.add(one)
   }
   return [...held].sort()
@@ -37,11 +37,11 @@ export function judgedOf(linted: Linted, first: string, root: string): readonly 
   }))
 }
 
-export function lintClean(leaving: Leaving): readonly Judged[] {
-  const carried = carriedIn(leaving)
+export function lintClean(change: Change): readonly Judged[] {
+  const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
-  const world = worldOf(leaving.root, carried, leaving.at)
+  const world = worldOf(change.root, carried, change.after)
   try {
     return judgedOf(lintedOver(world.root, carried), first, world.root)
   } finally {

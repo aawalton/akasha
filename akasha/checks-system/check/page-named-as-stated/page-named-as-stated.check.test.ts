@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
-import { leaving } from "../../check-scratch/check-scratch.module.code.ts"
+import { change } from "../../check-scratch/check-scratch.module.code.ts"
 import { pageIn, pageNamedAsStated, reasonsIn } from "./page-named-as-stated.check.code.ts"
 
 const ROOT = "/repo"
@@ -108,7 +108,7 @@ test("a property newly held in a file is passed over, the set being the index's 
 })
 
 test("an index that cannot say which properties are held in a file refuses, rather than naming none", () => {
-  expect(() => pageNamedAsStated(leaving(ROOT, []))).toThrow("could not be answered")
+  expect(() => pageNamedAsStated(change(ROOT, []))).toThrow("could not be answered")
 })
 
 test("a property whose file is named for the shape it states is let through", () => {

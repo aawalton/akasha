@@ -8,7 +8,7 @@ import {
   shadowAt,
   shadowFor,
 } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,
   mortalityIn,
@@ -47,7 +47,7 @@ function knowing(shadow: Shadow, root: string): Shaped {
   return knownIn(shadow.reading, root, shadow.pageOf)
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return relationResolves(change, cast.shadow)
@@ -195,8 +195,8 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   standing(root, A, A_ID, "note", "a")
-  const leaving = over(root, [D], { [D]: null })
-  expect(namersOf(leaving, ["domain-slug", "part-slugs"])).toEqual([A])
+  const change = over(root, [D], { [D]: null })
+  expect(namersOf(change, ["domain-slug", "part-slugs"])).toEqual([A])
   expect(namersOf(over(root, [D], { [D]: "held" }), ["domain-slug"])).toEqual([])
 })
 

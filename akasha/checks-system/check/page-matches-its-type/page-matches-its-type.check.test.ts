@@ -5,7 +5,7 @@ import { indexIn } from "../../../pages-system/indexes/index-reading/index-readi
 import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,
@@ -27,15 +27,15 @@ afterAll(scratch.sweep)
 
 const HELD_AT = "akasha/held.page-type.ts"
 
-function changing(root: string, bodies: Readonly<Record<string, string>>): Leaving {
+function changing(root: string, bodies: Readonly<Record<string, string>>): Change {
   const at = (path: string): Uint8Array | null => {
     const said = bodies[path]
     return said === undefined ? null : new TextEncoder().encode(said)
   }
-  return { root, changed: Object.keys(bodies).sort(), at, was: at }
+  return { root, changed: Object.keys(bodies).sort(), after: at, before: at }
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return pageMatchesItsType(change, cast.shadow)
@@ -310,8 +310,8 @@ function overThing(standing: boolean, generator = "waiting"): readonly Judged[] 
   return judged({
     root: generating(generator),
     changed: [THING_AT],
-    at: (path) => (path === THING_AT ? bytes : null),
-    was: (path) => (standing && path === THING_AT ? bytes : null),
+    after: (path) => (path === THING_AT ? bytes : null),
+    before: (path) => (standing && path === THING_AT ? bytes : null),
   })
 }
 
@@ -375,8 +375,8 @@ test("a page stating what a page type the change puts above its own declares is 
     judged({
       root,
       changed: Object.keys(now).sort(),
-      at: bytesFor(now),
-      was: bytesFor({ [ALPHA_AT]: WAS_ALPHA }),
+      after: bytesFor(now),
+      before: bytesFor({ [ALPHA_AT]: WAS_ALPHA }),
     })
   ).toEqual([])
 })

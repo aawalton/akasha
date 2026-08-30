@@ -11,7 +11,7 @@ import {
   troubling,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import type { Change } from "../../landing/landing.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   besideTaken,
@@ -186,7 +186,7 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
 
   const mistaken: string[] = []
   const wrong: string[] = []
-  const changes: Change[] = []
+  const changes: FileEdit[] = []
   const unmoved: Held[] = []
   const seen = new Set<string>()
   for (const one of read.asking) {

@@ -2,7 +2,7 @@ import ts from "typescript"
 import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -45,13 +45,13 @@ export function reachedIn(at: string, text: string): readonly string[] {
   return found
 }
 
-export function reachingIn(leaving: Leaving): ReadonlyMap<string, readonly string[]> {
+export function reachingIn(change: Change): ReadonlyMap<string, readonly string[]> {
   const held = new Set(
-    leaving.changed.filter((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
+    change.changed.filter((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
   )
   const found = new Map<string, readonly string[]>()
   for (const path of [...held].sort()) {
-    const text = textIn(leaving, path)
+    const text = textIn(change, path)
     if (text === null) {
       found.set(path, [])
       continue
@@ -116,9 +116,9 @@ export function reasonFor(at: string, held: readonly string[]): string {
   return `stands in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
-export function noImportCycle(leaving: Leaving): readonly Judged[] {
+export function noImportCycle(change: Change): readonly Judged[] {
   const said: Judged[] = []
-  for (const held of cyclesIn(reachingIn(leaving))) {
+  for (const held of cyclesIn(reachingIn(change))) {
     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
   }
   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))

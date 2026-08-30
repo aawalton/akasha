@@ -26,7 +26,7 @@ import {
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -35,18 +35,18 @@ export type Carried = {
   readonly value: Value
 }
 
-export function valueFor(leaving: Leaving, path: string): Value | null {
-  const bytes = leaving.at(path)
+export function valueFor(change: Change, path: string): Value | null {
+  const bytes = change.after(path)
   if (bytes === null) return null
-  const text = bodyOf({ root: leaving.root, path, bytes })
+  const text = bodyOf({ root: change.root, path, bytes })
   return text === null ? null : valueIn(text)
 }
 
-export function carriedBy(leaving: Leaving, pageTypes: ReadonlySet<string>): readonly Carried[] {
+export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): readonly Carried[] {
   const found: Carried[] = []
-  for (const path of leaving.changed) {
+  for (const path of change.changed) {
     if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
-    const value = valueFor(leaving, path)
+    const value = valueFor(change, path)
     if (value !== null) found.push({ path, value })
   }
   return found
@@ -60,15 +60,15 @@ export function relationProperties(shadow: Shadow, known: Known): readonly strin
   return found.sort()
 }
 
-export function namersOf(leaving: Leaving, properties: readonly string[]): readonly string[] {
+export function namersOf(change: Change, properties: readonly string[]): readonly string[] {
   const found = new Set<string>()
-  for (const path of leaving.changed) {
-    if (leaving.at(path) !== null) continue
-    for (const gone of standingByPath(leaving.root, path)) {
+  for (const path of change.changed) {
+    if (change.after(path) !== null) continue
+    for (const gone of standingByPath(change.root, path)) {
       if (gone.path !== path) continue
       for (const propertySlug of properties) {
-        for (const id of idsNaming(leaving.root, gone.id, propertySlug)) {
-          const naming = standingById(leaving.root, id)
+        for (const id of idsNaming(change.root, gone.id, propertySlug)) {
+          const naming = standingById(change.root, id)
           if (naming !== null) found.add(naming.path)
         }
       }
@@ -171,19 +171,19 @@ export function danglingIn(
   return said
 }
 
-export function relationResolves(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
-  const took = leaving.changed.some((one) => leaving.at(one) === null)
+export function relationResolves(change: Change, shadow: Shadow): readonly Judged[] {
+  const carried = carriedBy(change, pageTypesIn(shadow.reading))
+  const took = change.changed.some((one) => change.after(one) === null)
   if (carried.length === 0 && !took) return []
-  const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
+  const known = knownIn(shadow.reading, change.root, shadow.pageOf)
   const mortal = mortalityIn(shadow, known)
   const said: Judged[] = []
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
-  for (const path of namersOf(leaving, relationProperties(shadow, known))) {
+  for (const path of namersOf(change, relationProperties(shadow, known))) {
     if (carrying.has(path)) continue
-    const value = valueFor(leaving, path)
+    const value = valueFor(change, path)
     if (value !== null) said.push(...danglingIn(path, value, known, mortal))
   }
   return said

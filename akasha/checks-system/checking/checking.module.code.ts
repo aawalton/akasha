@@ -12,7 +12,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Judging, Leaving } from "../judging/judging.module.code.ts"
+import type { Judged, Judging, Change } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string
@@ -22,7 +22,7 @@ export type Body = {
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
 
-export type Running = (leaving: Leaving, shadow: Shadow) => readonly Judged[]
+export type Running = (change: Change, shadow: Shadow) => readonly Judged[]
 
 export type Gathered = {
   readonly slug: string
@@ -140,18 +140,18 @@ export function overEachText(
 }
 
 export function judgingEachFile(judge: (given: Body) => readonly string[]): Running {
-  return (leaving) => overEachFile(leaving, judge)
+  return (change) => overEachFile(change, judge)
 }
 
 export function overEachFile(
-  leaving: Leaving,
+  change: Change,
   judge: (given: Body) => readonly string[]
 ): readonly Judged[] {
   const said: Judged[] = []
-  for (const path of leaving.changed) {
-    const bytes = leaving.at(path)
+  for (const path of change.changed) {
+    const bytes = change.after(path)
     if (bytes === null) continue
-    for (const reason of judge({ root: leaving.root, path, bytes })) said.push({ path, reason })
+    for (const reason of judge({ root: change.root, path, bytes })) said.push({ path, reason })
   }
   return said
 }
@@ -168,20 +168,20 @@ export function everyFileIn(root: string, given: string | Reading = root): reado
   return [...new Set(everyPathAnswered(root, given))].sort()
 }
 
-export function everythingIn(root: string): Leaving {
-  const at = onDisk(root)
-  return { root, changed: everyFileIn(root), at, was: at }
+export function everythingIn(root: string): Change {
+  const both = onDisk(root)
+  return { root, changed: everyFileIn(root), before: both, after: both }
 }
 
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
-    over: (leaving) => {
-      const shadow = shadowAsked(leaving)
+    over: (change) => {
+      const shadow = shadowAsked(change)
       const said: Judged[] = []
       for (const one of every) {
         try {
-          said.push(...one.run(leaving, shadow))
+          said.push(...one.run(change, shadow))
         } catch (thrown) {
           said.push(threw(one, thrown))
         }
@@ -218,8 +218,8 @@ export function bodyOf(given: Body): string | null {
   }
 }
 
-export function textIn(leaving: Leaving, path: string): string | null {
-  const bytes = leaving.at(path)
+export function textIn(change: Change, path: string): string | null {
+  const bytes = change.after(path)
   if (bytes === null) return null
-  return bodyOf({ root: leaving.root, path, bytes })
+  return bodyOf({ root: change.root, path, bytes })
 }

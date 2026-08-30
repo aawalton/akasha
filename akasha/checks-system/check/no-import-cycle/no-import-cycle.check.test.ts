@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import type { Change } from "../../judging/judging.module.code.ts"
 import { cyclesIn, noImportCycle, reachedIn, reachingIn } from "./no-import-cycle.check.code.ts"
 
 const ROOT = "/repo"
@@ -8,21 +8,21 @@ const AT = "akasha/one.ts"
 
 const encoder = new TextEncoder()
 
-function leaving(bodies: Readonly<Record<string, string>>): Leaving {
+function change(bodies: Readonly<Record<string, string>>): Change {
   const at = (path: string): Uint8Array | null => {
     const said = bodies[path]
     return said === undefined ? null : encoder.encode(said)
   }
-  return { root: ROOT, changed: Object.keys(bodies).toSorted(), at, was: at }
+  return { root: ROOT, changed: Object.keys(bodies).toSorted(), after: at, before: at }
 }
 
 function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {
-  return noImportCycle(leaving(bodies)).map((one) => one.path)
+  return noImportCycle(change(bodies)).map((one) => one.path)
 }
 
 test("two files that import each other by value are both refused", () => {
   const said = noImportCycle(
-    leaving({
+    change({
       "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
       "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
     })
@@ -84,7 +84,7 @@ test("a type-only `export from` is no edge, and a value `export from` is", () =>
 })
 
 test("a file that imports itself is refused, and says so plainly", () => {
-  const said = noImportCycle(leaving({ "akasha/one.ts": 'import { a } from "./one.ts"\n' }))
+  const said = noImportCycle(change({ "akasha/one.ts": 'import { a } from "./one.ts"\n' }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("imports itself")
 })
@@ -101,7 +101,7 @@ test("a chain that never comes back around is let through", () => {
 
 test("a cycle of three names the two others it reaches", () => {
   const said = noImportCycle(
-    leaving({
+    change({
       "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
       "akasha/two.ts": 'import { three } from "./three.ts"\n\nexport const two = three\n',
       "akasha/three.ts": 'import { one } from "./one.ts"\n\nexport const three = one\n',
@@ -132,7 +132,7 @@ test("a deferred `import()` is not counted", () => {
 })
 
 test("a specifier landing on no file the folder holds closes nothing", () => {
-  expect(reachingIn(leaving({ [AT]: 'import { a } from "./gone.ts"\n' })).get(AT)).toEqual([])
+  expect(reachingIn(change({ [AT]: 'import { a } from "./gone.ts"\n' })).get(AT)).toEqual([])
 })
 
 test("a package specifier naming no path of its own is passed over", () => {
@@ -141,7 +141,7 @@ test("a package specifier naming no path of its own is passed over", () => {
 
 test("a file outside the akasha folder is no part of the graph", () => {
   const held = reachingIn(
-    leaving({
+    change({
       "tools/one.ts": 'import { two } from "./two.ts"\n',
       "tools/two.ts": 'import { one } from "./one.ts"\n',
     })
@@ -150,12 +150,12 @@ test("a file outside the akasha folder is no part of the graph", () => {
 })
 
 test("a file that is not TypeScript is no part of the graph", () => {
-  expect([...reachingIn(leaving({ "akasha/notes.txt": "" })).keys()]).toEqual([])
+  expect([...reachingIn(change({ "akasha/notes.txt": "" })).keys()]).toEqual([])
 })
 
 test("a body that is not text reaches nothing rather than throwing", () => {
   const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
-  const held = reachingIn({ root: ROOT, changed: ["akasha/raw.ts"], at, was: at })
+  const held = reachingIn({ root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at })
   expect(held.get("akasha/raw.ts")).toEqual([])
 })
 

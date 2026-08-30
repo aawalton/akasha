@@ -1,7 +1,7 @@
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf, everyFileIn, overEachFile, textIn } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
 
@@ -11,12 +11,12 @@ export type Said = {
 }
 
 export function everySpeltIn(
-  leaving: Leaving,
+  change: Change,
   shadow: Shadow
 ): ReadonlyMap<string, readonly Said[]> {
-  const spelt = [...everyFileIn(leaving.root, shadow.reading)].flatMap((path) => {
+  const spelt = [...everyFileIn(change.root, shadow.reading)].flatMap((path) => {
     if (!path.endsWith(TS)) return []
-    const text = textIn(leaving, path)
+    const text = textIn(change, path)
     if (text === null) return []
     return speltIn(path, text).map((one) => ({ rule: one.rule, path, name: one.name }))
   })
@@ -42,9 +42,9 @@ export function reasonsIn(
   return said
 }
 
-export function noRuleInTwoFiles(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const every = everySpeltIn(leaving, shadow)
-  return overEachFile(leaving, (given) => {
+export function noRuleInTwoFiles(change: Change, shadow: Shadow): readonly Judged[] {
+  const every = everySpeltIn(change, shadow)
+  return overEachFile(change, (given) => {
     if (!given.path.endsWith(TS)) return []
     const text = bodyOf(given)
     if (text === null) return []

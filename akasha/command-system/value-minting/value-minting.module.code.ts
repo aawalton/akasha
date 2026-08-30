@@ -8,8 +8,8 @@ import {
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
-import type { Change } from "../landing/landing.module.code.ts"
-import { baseOf, leavingOf } from "../landing/landing.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
+import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const UUID_V7 = "uuid-v7"
 
@@ -23,7 +23,7 @@ export type Filled = {
 }
 
 export type Minted = {
-  readonly changes: readonly Change[]
+  readonly changes: readonly FileEdit[]
   readonly filled: readonly Filled[]
 }
 
@@ -82,9 +82,9 @@ export function mintedFor(kind: string, slug: string): string {
   )
 }
 
-export function earlyIn(root: string, changes: readonly Change[]): ReadonlyMap<string, string> {
-  const leaving = leavingOf(root, { base: baseOf(root), changed: changes })
-  const cast = shadowFor(leaving)
+export function earlyIn(root: string, changes: readonly FileEdit[]): ReadonlyMap<string, string> {
+  const change = changeOf(root, { base: baseOf(root), edits: changes })
+  const cast = shadowFor(change)
   if ("refused" in cast) return new Map()
   const found = new Map<string, string>()
   for (const [slug, one] of generatedProperties(cast.shadow)) {
@@ -93,12 +93,12 @@ export function earlyIn(root: string, changes: readonly Change[]): ReadonlyMap<s
   return found
 }
 
-export function mintingOnto(root: string, changes: readonly Change[]): Minted {
+export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
   const early = earlyIn(root, changes)
   if (early.size === 0) return { changes, filled: [] }
-  const leaving = leavingOf(root, { base: baseOf(root), changed: changes })
+  const change = changeOf(root, { base: baseOf(root), edits: changes })
   const pageTypes = pageTypesIn(root)
-  const held: Change[] = []
+  const held: FileEdit[] = []
   const filled: Filled[] = []
   for (const one of changes) {
     const body = one.body
@@ -106,7 +106,7 @@ export function mintingOnto(root: string, changes: readonly Change[]): Minted {
       body === null ||
       one.carried === true ||
       !pageNamed(one.path, pageTypes) ||
-      leaving.was(one.path) !== null
+      change.before(one.path) !== null
     if (standing) {
       held.push(one)
       continue

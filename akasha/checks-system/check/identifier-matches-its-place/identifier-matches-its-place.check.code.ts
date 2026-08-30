@@ -115,11 +115,11 @@ export function placesIn(root: string): Places {
   }
 }
 
-export const identifierMatchesItsPlace: Running = (leaving) => {
-  const wanted = leaving.changed.some((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
+export const identifierMatchesItsPlace: Running = (change) => {
+  const wanted = change.changed.some((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
   if (!wanted) return []
-  const places = placesIn(leaving.root)
-  return overEachFile(leaving, (given) => {
+  const places = placesIn(change.root)
+  return overEachFile(change, (given) => {
     if (!given.path.startsWith(INSIDE) || !given.path.endsWith(ENDING)) return []
     const text = bodyOf(given)
     return text === null ? [] : refusedIn(given.path, text, places)

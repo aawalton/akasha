@@ -9,19 +9,19 @@ import type { Reading } from "../../../pages-system/indexes/index-surface/index-
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 
 const TS = ".ts"
 
 export function pagesTouchedBy(
-  leaving: Leaving,
+  change: Change,
   pageTypes: ReadonlySet<string>,
   given: string | Reading
 ): readonly string[] {
   const found = new Set<string>()
-  for (const path of leaving.changed) {
+  for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
     for (const one of standingByPath(given, path)) {
@@ -43,31 +43,31 @@ export function statedBy(page: string, path: string): string {
 }
 
 export function missingFor(
-  leaving: Leaving,
+  change: Change,
   page: string,
   fileProperties: ReadonlySet<string>
 ): readonly Judged[] {
-  const bytes = leaving.at(page)
+  const bytes = change.after(page)
   if (bytes === null) return []
-  const text = bodyOf({ root: leaving.root, path: page, bytes })
+  const text = bodyOf({ root: change.root, path: page, bytes })
   if (text === null) return []
   const value = valueIn(text)
   if (value === null) return []
   const said: Judged[] = []
-  for (const one of pathsOf(value, page, leaving.root, fileProperties)) {
+  for (const one of pathsOf(value, page, change.root, fileProperties)) {
     if (one === page) continue
-    if (leaving.at(one) !== null) continue
+    if (change.after(one) !== null) continue
     said.push({ path: page, reason: `states ${statedBy(page, one)}, and no file stands at ${one}` })
   }
   return said
 }
 
-export function pagePropertyHasItsFile(leaving: Leaving, shadow: Shadow): readonly Judged[] {
+export function pagePropertyHasItsFile(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
   const said: Judged[] = []
-  for (const page of pagesTouchedBy(leaving, pageTypes, shadow.reading)) {
-    said.push(...missingFor(leaving, page, fileProperties))
+  for (const page of pagesTouchedBy(change, pageTypes, shadow.reading)) {
+    said.push(...missingFor(change, page, fileProperties))
   }
   return said
 }

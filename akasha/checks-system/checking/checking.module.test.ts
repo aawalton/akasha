@@ -71,8 +71,8 @@ function rootWith(
 }
 
 const REFUSES_ALL =
-  "export function refusesAll(leaving) {\n" +
-  '  return leaving.changed.map((path) => ({ path, reason: "refused" }))\n' +
+  "export function refusesAll(change) {\n" +
+  '  return change.changed.map((path) => ({ path, reason: "refused" }))\n' +
   "}\n"
 
 const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
@@ -80,7 +80,7 @@ const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
 const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 
 const NAMES_SHADOW =
-  "export function namesShadow(leaving, shadow) {\n" +
+  "export function namesShadow(change, shadow) {\n" +
   '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
   "  return held && shadow.reading !== undefined\n" +
   "    ? []\n" +
@@ -88,9 +88,9 @@ const NAMES_SHADOW =
   "}\n"
 
 const REFUSES_TAKING =
-  "export function refusesTaking(leaving) {\n" +
-  "  return leaving.changed\n" +
-  "    .filter((path) => leaving.at(path) === null)\n" +
+  "export function refusesTaking(change) {\n" +
+  "  return change.changed\n" +
+  "    .filter((path) => change.after(path) === null)\n" +
   '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
   "}\n"
 
@@ -109,8 +109,8 @@ test("a check is run once over the whole change, and never over the rest of the 
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["one.ts"],
-    at: held,
-    was: held,
+    after: held,
+    before: held,
   })
   expect(said.map((one) => one.path)).toEqual(["one.ts"])
 })
@@ -122,8 +122,8 @@ test("a check that threw refuses the change it could not judge, and the refusal 
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["one.ts"],
-    at: held,
-    was: held,
+    after: held,
+    before: held,
   })
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
@@ -137,8 +137,8 @@ test("a path the change takes away is handed to every check, and can be refused"
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["gone.ts", "stays.ts"],
-    at: held,
-    was: held,
+    after: held,
+    before: held,
   })
   expect(said.map((one) => one.path)).toEqual(["gone.ts"])
   expect(said[0]?.reason).toContain("may not be taken away")
@@ -148,7 +148,7 @@ test("the helper hands over each body the change leaves standing, and no path it
   const root = scratch.rootFor("akasha-each-file-")
   writeFileSync(join(root, "here.ts"), "here")
   const said = overEachFile(
-    { root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) },
+    { root, changed: ["gone.ts", "here.ts"], after: onDisk(root), before: onDisk(root) },
     (given) => [`${given.path} holds ${given.bytes.length} bytes`]
   )
   expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
@@ -178,7 +178,7 @@ test("judging each file makes a runner of a judge, naming the path each refusal 
   const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
   const held = onDisk(root)
   expect(
-    run({ root, changed: ["gone.ts", "here.ts"], at: held, was: held }, shadowAt(root))
+    run({ root, changed: ["gone.ts", "here.ts"], after: held, before: held }, shadowAt(root))
   ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
 })
 
@@ -218,10 +218,10 @@ test("audit reads no page module to work out what stands, so a page it cannot lo
 
 test("audit reads the body of every file it takes", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  const leaving = everythingIn(root)
-  expect(leaving.root).toBe(root)
-  expect(leaving.changed.length).toBeGreaterThan(0)
-  for (const path of leaving.changed) expect(leaving.at(path)).not.toBeNull()
+  const change = everythingIn(root)
+  expect(change.root).toBe(root)
+  expect(change.changed.length).toBeGreaterThan(0)
+  for (const path of change.changed) expect(change.after(path)).not.toBeNull()
 })
 
 test("a check page whose code is not there stops the whole run", () => {
@@ -290,8 +290,8 @@ test("one shadow is cast over the change and handed to every check that runs", (
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["one.ts"],
-    at: held,
-    was: held,
+    after: held,
+    before: held,
   })
   expect(said).toEqual([])
 })

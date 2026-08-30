@@ -21,7 +21,7 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
@@ -112,21 +112,21 @@ export function shapesIn(root: string, given: string | Reading): readonly Shape[
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function standingFiles(given: string | Reading, leaving: Leaving): readonly string[] {
+export function standingFiles(given: string | Reading, change: Change): readonly string[] {
   const found = new Set<string>(everyPath(given))
-  for (const one of leaving.changed) {
-    if (leaving.at(one) === null) found.delete(one)
+  for (const one of change.changed) {
+    if (change.after(one) === null) found.delete(one)
     else found.add(one)
   }
   return [...found].sort()
 }
 
-export function foldersTouchedBy(leaving: Leaving): ReadonlySet<string> {
+export function foldersTouchedBy(change: Change): ReadonlySet<string> {
   const found = new Set<string>()
-  for (const one of leaving.changed) {
+  for (const one of change.changed) {
     for (const at of ancestorsOf(one)) found.add(at)
-    const now = edgesOf(leaving.root, one, leaving.at(one))
-    const before = edgesOf(leaving.root, one, leaving.was(one))
+    const now = edgesOf(change.root, one, change.after(one))
+    const before = edgesOf(change.root, one, change.before(one))
     for (const target of new Set([...now, ...before])) {
       if (now.has(target) === before.has(target)) continue
       for (const at of reachedFolders(target, one)) found.add(at)
@@ -135,11 +135,11 @@ export function foldersTouchedBy(leaving: Leaving): ReadonlySet<string> {
   return found
 }
 
-function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean {
+function enteringOf(change: Change): (folder: string, path: string) => boolean {
   const now = new Map<string, ReadonlySet<string>>()
-  for (const one of leaving.changed) now.set(one, edgesOf(leaving.root, one, leaving.at(one)))
+  for (const one of change.changed) now.set(one, edgesOf(change.root, one, change.after(one)))
   return (folder, path) => {
-    const from = new Set<string>(importersOf(leaving.root, path))
+    const from = new Set<string>(importersOf(change.root, path))
     for (const [one, edges] of now) {
       if (edges.has(path)) from.add(one)
       else from.delete(one)
@@ -151,8 +151,8 @@ function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean
   }
 }
 
-export function folderMatchesAShape(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const shapes = shapesIn(leaving.root, shadow.reading)
+export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Judged[] {
+  const shapes = shapesIn(change.root, shadow.reading)
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
   let known: Known | null = null
@@ -160,16 +160,16 @@ export function folderMatchesAShape(leaving: Leaving, shadow: Shadow): readonly 
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
     let held = admits.get(wanted)
     if (held === undefined) {
-      if (known === null) known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
+      if (known === null) known = knownIn(shadow.reading, change.root, shadow.pageOf)
       held = new Set<string>(known.admitting(wanted))
       admits.set(wanted, held)
     }
     return held.has(pageTypeSlug)
   }
-  const files = standingFiles(shadow.reading, leaving)
-  const entering = enteringOf(leaving)
+  const files = standingFiles(shadow.reading, change)
+  const entering = enteringOf(change)
   const found: Judged[] = []
-  for (const folder of [...foldersTouchedBy(leaving)].sort()) {
+  for (const folder of [...foldersTouchedBy(change)].sort()) {
     const here = files.filter((one) => folderOf(one) === folder)
     if (here.length === 0) continue
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)

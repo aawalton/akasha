@@ -13,7 +13,7 @@ import {
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import { domainIsNamedByAParent, domainNamedIn } from "./domain-is-named-by-a-parent.check.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
@@ -46,7 +46,7 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
   )
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return domainIsNamedByAParent(change, cast.shadow)

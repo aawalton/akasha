@@ -9,7 +9,7 @@ import {
 import type {
   Judged,
   Judging,
-  Leaving,
+  Change,
 } from "../../../checks-system/judging/judging.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -91,11 +91,11 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
   return held
 }
 
-export function judgedOver(judging: Judging, leaving: Leaving, atAudit: number): Answer {
+export function judgedOver(judging: Judging, change: Change, atAudit: number): Answer {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   let said: readonly Judged[]
   try {
-    said = judging.over(leaving)
+    said = judging.over(change)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
@@ -104,7 +104,7 @@ export function judgedOver(judging: Judging, leaving: Leaving, atAudit: number):
     left > 0
       ? `${counted(judging.named.length, "check")} of the ${atAudit} that run at audit`
       : counted(judging.named.length, "check")
-  const over = `${by} judged ${counted(leaving.changed.length, "file")}`
+  const over = `${by} judged ${counted(change.changed.length, "file")}`
   const also =
     left > 0
       ? [`this is not an audit — the ${counted(left, "check")} it left out judged nothing`]
@@ -125,15 +125,15 @@ export function audit(argv: readonly string[], given: Given): Answer {
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const root = resolve(given.root)
   let every: readonly Gathered[]
-  let leaving: Leaving
+  let change: Change
   try {
     every = checksAt(checksIn(root), AUDIT)
-    leaving = everythingIn(root)
+    change = everythingIn(root)
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
   if (every.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   const narrowed = narrowedTo(every, meant.only)
   if (narrowed.refusals.length > 0) return { report: [], refusals: [...narrowed.refusals], code: 1 }
-  return judgedOver(judgingBy(narrowed.checks), leaving, every.length)
+  return judgedOver(judgingBy(narrowed.checks), change, every.length)
 }

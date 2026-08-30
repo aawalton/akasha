@@ -20,7 +20,7 @@ import {
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
-import type { Change } from "../../landing/landing.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
@@ -307,7 +307,7 @@ export function move(argv: readonly string[], given: Given): Answer {
   const sided = sidedIn(root, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
-  const changes: Change[] = []
+  const changes: FileEdit[] = []
   const carries: Carry[] = []
   for (const one of sided.sides) {
     if (!one.committed) continue

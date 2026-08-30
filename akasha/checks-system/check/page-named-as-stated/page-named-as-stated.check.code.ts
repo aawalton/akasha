@@ -5,7 +5,7 @@ import { exportedAs } from "../../../pages-system/page/page-export-name/page-exp
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const SLUG = "slug"
 
@@ -95,7 +95,7 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
   return found
 }
 
-export function pageNamedAsStated(leaving: Leaving): readonly Judged[] {
-  const heldInAFile = filePropertiesAnswered(leaving.root)
-  return overEachFile(leaving, (given) => reasonsIn(given, heldInAFile))
+export function pageNamedAsStated(change: Change): readonly Judged[] {
+  const heldInAFile = filePropertiesAnswered(change.root)
+  return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }

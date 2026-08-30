@@ -13,7 +13,7 @@ import { textProperty } from "../../pages-system/text-property/text-property.pag
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Change } from "./landing.module.code.ts"
+import type { FileEdit } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
@@ -40,7 +40,7 @@ export const ADMITS: Judging = { named: ["admits"], over: () => [] }
 
 export const REFUSES: Judging = {
   named: ["refuses"],
-  over: (leaving) => leaving.changed.map((path) => ({ path, reason: "refused for the test" })),
+  over: (change) => change.changed.map((path) => ({ path, reason: "refused for the test" })),
 }
 
 export const bytes = bytesOf
@@ -65,7 +65,7 @@ export const identityAmong = (found: readonly string[]): readonly string[] =>
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 
-export const CARRIED: readonly Change[] = REAL.map((page) => {
+export const CARRIED: readonly FileEdit[] = REAL.map((page) => {
   const [at, value] = thePage(page)
   return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
 })

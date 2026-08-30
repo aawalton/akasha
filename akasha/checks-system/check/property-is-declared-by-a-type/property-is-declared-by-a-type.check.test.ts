@@ -13,7 +13,7 @@ import {
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   propertyIsDeclaredByAType,
   propertyNamedIn,
@@ -66,7 +66,7 @@ function rooted(): string {
   return root
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return propertyIsDeclaredByAType(change, cast.shadow)

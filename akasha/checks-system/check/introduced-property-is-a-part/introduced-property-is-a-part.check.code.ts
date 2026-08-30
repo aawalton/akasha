@@ -8,7 +8,7 @@ import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   declaredFor,
   type Reading,
@@ -117,11 +117,11 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
   )
 }
 
-export function introducedPropertyIsAPart(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  if (!leaving.changed.some((path) => typeNamedIn(path) !== null)) return []
-  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
+export function introducedPropertyIsAPart(change: Change, shadow: Shadow): readonly Judged[] {
+  if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
+  const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
-  const read = readingIn(leaving, shadow)
+  const read = readingIn(change, shadow)
   const standing = everyType(shadow, carried)
   const introducers = introducersIn(standing, read)
   const said: Judged[] = []

@@ -9,7 +9,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../checking/checking.module.code.ts"
-import type { Leaving } from "../judging/judging.module.code.ts"
+import type { Change } from "../judging/judging.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -94,12 +94,12 @@ export function landing(
   root: string,
   files: Readonly<Record<string, Uint8Array | null>>,
   before: Readonly<Record<string, Uint8Array>> = {}
-): Leaving {
+): Change {
   return {
     root,
     changed: Object.keys(files),
-    at: (path) => files[path] ?? null,
-    was: (path) => before[path] ?? NO_BYTES,
+    after: (path) => files[path] ?? null,
+    before: (path) => before[path] ?? NO_BYTES,
   }
 }
 
@@ -107,12 +107,12 @@ export function gone(): null {
   return null
 }
 
-export function leaving(
+export function change(
   root: string,
   changed: readonly string[],
   at: (path: string) => Uint8Array | null = onDisk(root)
-): Leaving {
-  return { root, changed, at, was: at }
+): Change {
+  return { root, changed, before: at, after: at }
 }
 
 export function proposing(

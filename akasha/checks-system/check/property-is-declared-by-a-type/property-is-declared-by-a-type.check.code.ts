@@ -20,7 +20,7 @@ import {
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -60,10 +60,10 @@ export function declaredIn(value: Value | null): readonly string[] {
   return found
 }
 
-function declaredWere(leaving: Leaving, path: string): readonly string[] {
-  const bytes = leaving.was(path)
+function declaredWere(change: Change, path: string): readonly string[] {
+  const bytes = change.before(path)
   if (bytes === null) return []
-  const text = bodyOf({ root: leaving.root, path, bytes })
+  const text = bodyOf({ root: change.root, path, bytes })
   return text === null ? [] : declaredIn(valueIn(text))
 }
 
@@ -75,10 +75,10 @@ function reasonFor(shown: string): string {
   )
 }
 
-export function propertyIsDeclaredByAType(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const under = kindsUnder(leaving.root, PAGE_PROPERTY, shadow.reading, shadow.pageOf)
+export function propertyIsDeclaredByAType(change: Change, shadow: Shadow): readonly Judged[] {
+  const under = kindsUnder(change.root, PAGE_PROPERTY, shadow.reading, shadow.pageOf)
   const pageTypes = pageTypesIn(shadow.reading)
-  const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
+  const known = knownIn(shadow.reading, change.root, shadow.pageOf)
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string, shown: string): undefined => {
@@ -87,17 +87,17 @@ export function propertyIsDeclaredByAType(leaving: Leaving, shadow: Shadow): rea
     if (idsNaming(shadow.reading, id, DECLARES).length > 0) return
     said.push({ path, reason: reasonFor(shown) })
   }
-  for (const path of leaving.changed) {
+  for (const path of change.changed) {
     if (!path.startsWith(INSIDE) || !pageNamed(path, pageTypes)) continue
-    for (const shown of declaredWere(leaving, path)) {
+    for (const shown of declaredWere(change, path)) {
       const reached = reaches(shown, PAGE_PROPERTY, known)
       if (!("id" in reached)) continue
       const standing = known.byId(reached.id)
       if (standing === null) continue
       judge(standing.path, reached.id, shown)
     }
-    if (leaving.at(path) === null) continue
-    const held = propertyNamedIn(leaving.root, path, under)
+    if (change.after(path) === null) continue
+    const held = propertyNamedIn(change.root, path, under)
     if (held === null) continue
     const one = standingByPath(shadow.reading, path).find((filed) => filed.path === path)
     if (one === undefined) continue

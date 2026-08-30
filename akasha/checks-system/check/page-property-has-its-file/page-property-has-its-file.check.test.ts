@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,
@@ -54,23 +54,23 @@ function over(
   root: string,
   changed: readonly string[],
   bodies: Record<string, Uint8Array | null>
-): Leaving {
+): Change {
   return {
     root,
     changed,
-    at: (path: string): Uint8Array | null =>
+    after: (path: string): Uint8Array | null =>
       path in bodies ? (bodies[path] ?? null) : new Uint8Array(0),
-    was: (): null => null,
+    before: (): null => null,
   }
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return pagePropertyHasItsFile(change, cast.shadow)
 }
 
-function touched(change: Leaving, pageTypes: ReadonlySet<string>): readonly string[] {
+function touched(change: Change, pageTypes: ReadonlySet<string>): readonly string[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return pagesTouchedBy(change, pageTypes, cast.shadow.reading)

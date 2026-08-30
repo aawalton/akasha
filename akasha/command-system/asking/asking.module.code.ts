@@ -7,8 +7,8 @@ import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
-import type { Change, Landed, Refused } from "../landing/landing.module.code.ts"
-import { baseOf, landing, leavingOf } from "../landing/landing.module.code.ts"
+import type { FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
+import { baseOf, landing, changeOf } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
@@ -27,7 +27,7 @@ export type Held = {
 export type Saying = (said: Landed) => readonly string[]
 
 export type Asked = {
-  readonly changes: readonly Change[]
+  readonly changes: readonly FileEdit[]
   readonly message: string
   readonly dryRun: boolean
   readonly glass: string | null
@@ -42,12 +42,12 @@ export type Trouble = {
 }
 
 export type Formatting = {
-  readonly changes: readonly Change[]
+  readonly changes: readonly FileEdit[]
   readonly formatted: readonly string[]
 }
 
-export function formattingIn(root: string, changes: readonly Change[]): Formatting {
-  const held: Change[] = []
+export function formattingIn(root: string, changes: readonly FileEdit[]): Formatting {
+  const held: FileEdit[] = []
   const formatted: string[] = []
   for (const one of changes) {
     if (one.body === null) {
@@ -121,17 +121,17 @@ function sameBytes(one: Uint8Array | null, two: Uint8Array): boolean {
 function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   return {
     named: judging.named,
-    over: (leaving) => {
+    over: (change) => {
       const moved: Judged[] = []
       for (const one of held) {
-        if (sameBytes(bytesAt(join(leaving.root, one.path)), one.was)) continue
+        if (sameBytes(bytesAt(join(change.root, one.path)), one.was)) continue
         moved.push({
           path: one.path,
           reason:
             "changed after this call read it, so the body worked out for it is not the body on disk — run it again",
         })
       }
-      return moved.length > 0 ? moved : judging.over(leaving)
+      return moved.length > 0 ? moved : judging.over(change)
     },
   }
 }
@@ -230,7 +230,7 @@ function reported(
 
 function reporting(root: string, asked: Asked, gate: Judging): Answer {
   const said = holding(root, () =>
-    gate.over(leavingOf(root, { base: baseOf(root), changed: asked.changes }))
+    gate.over(changeOf(root, { base: baseOf(root), edits: asked.changes }))
   )
   if (said.length > 0) {
     return {
@@ -252,7 +252,7 @@ function reporting(root: string, asked: Asked, gate: Judging): Answer {
   }
 }
 
-export function recordLanded(given: Given, changes: readonly Change[]): undefined {
+export function recordLanded(given: Given, changes: readonly FileEdit[]): undefined {
   if (given.agentId === null) return
   for (const one of changes) {
     if (one.body === null) continue
@@ -265,7 +265,7 @@ export function recordLanded(given: Given, changes: readonly Change[]): undefine
   }
 }
 
-export function asReadIn(given: Given, changes: readonly Change[]): readonly Reading[] {
+export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {
   if (given.agentId === null) return []
   const held: Reading[] = []
   for (const one of changes) {

@@ -3,14 +3,14 @@ export type Judged = {
   readonly reason: string
 }
 
-export type Leaving = {
+export type Change = {
   readonly root: string
   readonly changed: readonly string[]
-  readonly at: (path: string) => Uint8Array | null
-  readonly was: (path: string) => Uint8Array | null
+  readonly before: (path: string) => Uint8Array | null
+  readonly after: (path: string) => Uint8Array | null
 }
 
 export type Judging = {
   readonly named: readonly string[]
-  readonly over: (leaving: Leaving) => readonly Judged[]
+  readonly over: (change: Change) => readonly Judged[]
 }

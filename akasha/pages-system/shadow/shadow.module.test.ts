@@ -17,7 +17,7 @@ import {
   type Named,
   VOCABULARY,
 } from "../indexes/indexing/indexing.module.test-fixtures.ts"
-import { type Cast, type Leaving, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
+import { type Cast, type Change, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -27,7 +27,7 @@ const AKASHA = "akasha"
 
 const TEXT = new TextEncoder()
 
-type Change = {
+type FileEdit = {
   readonly path: string
   readonly body: string | null
 }
@@ -63,7 +63,7 @@ function inside(at: string): string {
   return join(AKASHA, at)
 }
 
-function aChange(at: string, value: Held | null): Change {
+function aChange(at: string, value: Held | null): FileEdit {
   return { path: inside(at), body: value === null ? null : bodyOf(value) }
 }
 
@@ -75,7 +75,7 @@ const NOTE: Held = {
   targetPageTypeSlug: "domain",
 }
 
-const CHANGES: readonly Change[] = [
+const CHANGES: readonly FileEdit[] = [
   aChange("one/same.domain.ts", null),
   aChange("deep/d.module.ts", null),
   { path: inside("deep/d.module.code.ts"), body: null },
@@ -103,23 +103,23 @@ function onDisk(root: string): (path: string) => Uint8Array | null {
   }
 }
 
-function leavingOver(root: string, changes: readonly Change[]): Leaving {
+function changeOver(root: string, changes: readonly FileEdit[]): Change {
   const held = new Map<string, string | null>()
   for (const one of changes) held.set(one.path, one.body)
   const was = onDisk(root)
   return {
     root,
     changed: [...held.keys()].sort(),
-    at: (path) => {
+    before: was,
+    after: (path) => {
       if (!held.has(path)) return was(path)
       const body = held.get(path) ?? null
       return body === null ? null : TEXT.encode(body)
     },
-    was,
   }
 }
 
-function landedInto(root: string, changes: readonly Change[]): string {
+function landedInto(root: string, changes: readonly FileEdit[]): string {
   const twin = scratch.rootFor("akasha-landed-")
   rmSync(twin, { recursive: true, force: true })
   cpSync(root, twin, { recursive: true })
@@ -170,7 +170,7 @@ function shadowOf(cast: Cast): Reading {
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
-  const reading = shadowOf(shadowFor(leavingOver(repo, CHANGES)))
+  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(wholeOf(reading)).toEqual(wholeOf(readingAt(indexIn(twin))))
 })
 
@@ -184,7 +184,7 @@ test("an entry file several pages name comes back with every line the landing le
   const repo = seeded()
   const at = "import/path/akasha/x.ts.jsonl"
   expect(readingAt(indexIn(repo)).lines(at).length).toBe(3)
-  const reading = shadowOf(shadowFor(leavingOver(repo, CHANGES)))
+  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.lines(at)).toEqual(['{"path":"akasha/p.ts"}', '{"path":"akasha/s.ts"}'])
   expect(reading.lines(at)).toEqual(readingAt(indexIn(landedInto(repo, CHANGES))).lines(at))
 })
@@ -193,14 +193,14 @@ test("a slug two pages carry loses only the line of the page taken away", () => 
   const repo = seeded()
   const at = "identity/domain/slug/same.jsonl"
   expect(readingAt(indexIn(repo)).lines(at).length).toBe(2)
-  expect(shadowOf(shadowFor(leavingOver(repo, CHANGES))).lines(at)).toEqual([
+  expect(shadowOf(shadowFor(changeOver(repo, CHANGES))).lines(at)).toEqual([
     `{"path":"akasha/two/same.domain.ts","id":"${idOf("f")}"}`,
   ])
 })
 
 test("a directory the change empties is not listed, and one it fills is", () => {
   const repo = seeded()
-  const reading = shadowOf(shadowFor(leavingOver(repo, CHANGES)))
+  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.holds("path/akasha/deep")).toBe(false)
   expect(reading.holds("path/akasha/one")).toBe(false)
   expect(reading.holds("path/akasha/two")).toBe(true)
@@ -212,7 +212,7 @@ test("a relation through a property the same change declares is filed, as a land
   const repo = seeded()
   const at = `relation/page/id/${idOf("g")}/note/${idOf("b")}.jsonl`
   expect(readingAt(indexIn(repo)).holds(at)).toBe(false)
-  const reading = shadowOf(shadowFor(leavingOver(repo, CHANGES)))
+  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.lines(at)).toEqual(['{"path":"akasha/b.domain.ts"}'])
   expect(reading.lines(at)).toEqual(readingAt(indexIn(landedInto(repo, CHANGES))).lines(at))
 })
@@ -220,14 +220,14 @@ test("a relation through a property the same change declares is filed, as a land
 test("a page of a page type the same change declares stands in the shadow as it stands in a landing", () => {
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
-  const reading = shadowOf(shadowFor(leavingOver(repo, CHANGES)))
+  const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   const at = "identity/tag/slug/h.jsonl"
   expect(reading.lines(at)).toEqual(readingAt(indexIn(twin)).lines(at))
 })
 
 test("a body the change carries is the body the shadow reads a page from", () => {
   const repo = seeded()
-  const cast = shadowFor(leavingOver(repo, CHANGES))
+  const cast = shadowFor(changeOver(repo, CHANGES))
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.pageOf(inside("b.domain.ts"))?.["note"]).toBe("domain/g")
   expect(cast.shadow.pageOf(inside("one/same.domain.ts"))).toBe(null)
@@ -241,8 +241,8 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
     asked += 1
     return held(path)
   }
-  const leaving: Leaving = { root: repo, changed: ["akasha/b.domain.ts"], at, was: at }
-  const cast = shadowFor(leaving)
+  const change: Change = { root: repo, changed: ["akasha/b.domain.ts"], before: at, after: at }
+  const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(asked).toBe(0)
   expect(wholeOf(cast.shadow.reading)).toEqual(wholeOf(readingAt(indexIn(repo))))
@@ -256,7 +256,7 @@ test("a shadow that could not be worked out is refused, never stood in for by th
     '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,' +
       '"slug":"held","propertySlug":"held"}\n'
   )
-  const cast = shadowFor(leavingOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
+  const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
   expect("refused" in cast).toBe(true)
   expect("shadow" in cast).toBe(false)
   if ("refused" in cast) expect(cast.refused).toContain(NOT_WORKED_OUT)
@@ -266,14 +266,14 @@ test("one change is one shadow, so a second check asking works nothing out again
   const repo = seeded()
   let asked = 0
   const held = onDisk(repo)
-  const leaving = leavingOver(repo, CHANGES)
-  const counted: Leaving = {
-    ...leaving,
-    at: (path) => {
+  const change = changeOver(repo, CHANGES)
+  const counted: Change = {
+    ...change,
+    after: (path) => {
       asked += 1
-      return leaving.at(path)
+      return change.after(path)
     },
-    was: held,
+    before: held,
   }
   const first = shadowFor(counted)
   const once = asked
@@ -288,11 +288,11 @@ test("a page the change does not carry is read from the tree the change would la
   const cast = shadowFor({
     root: repo,
     changed: [at],
-    at: (path) =>
+    after: (path) =>
       path === at
         ? TEXT.encode(bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "b" }))
         : null,
-    was: onDisk(repo),
+    before: onDisk(repo),
   })
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.pageOf(inside("g.domain.ts"))?.["slug"]).toBe("g")

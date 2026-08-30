@@ -9,7 +9,7 @@ import {
   schemaFiled,
   standingAlsoFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import type { Change } from "../../judging/judging.module.code.ts"
 
 export const A = "akasha/t/a.note.ts"
 
@@ -137,7 +137,7 @@ export function over(
   root: string,
   changed: readonly string[],
   bodies: Record<string, string | null>
-): Leaving {
+): Change {
   const encoder = new TextEncoder()
   const at = (path: string): Uint8Array | null => {
     const said = bodies[path]
@@ -148,7 +148,7 @@ export function over(
     const full = join(root, path)
     return existsSync(full) ? new Uint8Array(readFileSync(full)) : null
   }
-  return { root, changed, at, was }
+  return { root, changed, after: at, before: was }
 }
 
 export function note(stated: string): Record<string, string | null> {

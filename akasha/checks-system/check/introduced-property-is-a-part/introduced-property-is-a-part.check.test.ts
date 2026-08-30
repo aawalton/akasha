@@ -5,7 +5,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Change } from "../../judging/judging.module.code.ts"
 import {
   declaresIn,
   introducedPropertyIsAPart,
@@ -71,7 +71,7 @@ function bytesOf(
   return new TextEncoder().encode(stated(slug, above, declares, parts))
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return introducedPropertyIsAPart(change, cast.shadow)

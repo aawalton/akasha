@@ -4,7 +4,7 @@ import { PROBE_AT } from "../../no-refused-syntax.check.test-fixtures.ts"
 import type { Refusal } from "../syntax-rule.page-type.ts"
 import { noSwallowedRead } from "./no-swallowed-read.syntax-rule.code.ts"
 
-const WALKING = 'import type { Leaving } from "../checks-system/judging/judging.module.code.ts"\n'
+const WALKING = 'import type { Change } from "../checks-system/judging/judging.module.code.ts"\n'
 
 const APART = 'import { join } from "node:path"\n'
 
@@ -23,7 +23,7 @@ test("a file naming no change is passed over, whatever it swallows", () => {
   expect(over(APART + SWALLOWED)).toEqual([])
 })
 
-test("`Judged` names the change as `Leaving` does", () => {
+test("`Judged` names the change as `Change` does", () => {
   const head = 'import type { Judged } from "../checks-system/judging/judging.module.code.ts"\n'
   expect(over(head + SWALLOWED)).toHaveLength(1)
 })
@@ -36,26 +36,26 @@ test("a read whose failure falls out of the catch is refused", () => {
 
 test("a catch that throws stands", () => {
   const body =
-    "function one(l: Leaving) { try { return readFileSync(l.root) } catch (why) { throw why } }\n"
+    "function one(l: Change) { try { return readFileSync(l.root) } catch (why) { throw why } }\n"
   expect(walking(body)).toEqual([])
 })
 
 test("a catch calling `process.exit` stands", () => {
   const body =
-    "function one(l: Leaving) { try { return readFileSync(l.root) } catch { process.exit(1) } }\n"
+    "function one(l: Change) { try { return readFileSync(l.root) } catch { process.exit(1) } }\n"
   expect(walking(body)).toEqual([])
 })
 
 test("a catch calling a function typed `never` stands", () => {
   const body =
     "function gone(why: string): never { throw new Error(why) }\n" +
-    'function one(l: Leaving) { try { return readFileSync(l.root) } catch { gone("no") } }\n'
+    'function one(l: Change) { try { return readFileSync(l.root) } catch { gone("no") } }\n'
   expect(walking(body)).toEqual([])
 })
 
 test("a catch resuming the walk with `continue` is refused", () => {
   const body =
-    "function one(l: Leaving) { for (const at of l.changed) { try { readFileSync(at) } catch { continue } } }\n"
+    "function one(l: Change) { for (const at of l.changed) { try { readFileSync(at) } catch { continue } } }\n"
   const found = walking(body)
   expect(found).toHaveLength(1)
   expect(found[0]?.reason).toContain("`continue`")
@@ -63,50 +63,50 @@ test("a catch resuming the walk with `continue` is refused", () => {
 
 test("a catch resuming the walk with `break` is refused", () => {
   const body =
-    "function one(l: Leaving) { for (const at of l.changed) { try { readFileSync(at) } catch { break } } }\n"
+    "function one(l: Change) { for (const at of l.changed) { try { readFileSync(at) } catch { break } } }\n"
   expect(walking(body)).toHaveLength(1)
 })
 
 test("an empty catch is refused", () => {
   expect(
-    walking("function one(l: Leaving) { try { readFileSync(l.root) } catch {} }\n")
+    walking("function one(l: Change) { try { readFileSync(l.root) } catch {} }\n")
   ).toHaveLength(1)
 })
 
 test("a read reached through a function beside it is refused", () => {
   const body =
     "function bytesAt(at: string) { return readFileSync(at) }\n" +
-    "function one(l: Leaving) { try { return bytesAt(l.root) } catch { return null } }\n"
+    "function one(l: Change) { try { return bytesAt(l.root) } catch { return null } }\n"
   expect(walking(body)).toHaveLength(1)
 })
 
 test("`Bun.file` is a read", () => {
   const body =
-    "function one(l: Leaving) { try { return Bun.file(l.root) } catch { return null } }\n"
+    "function one(l: Change) { try { return Bun.file(l.root) } catch { return null } }\n"
   expect(walking(body)).toHaveLength(1)
 })
 
 test("a decoder is a read, that being bytes turned into a body", () => {
   const body =
-    'function one(l: Leaving, bytes: Uint8Array) { try { return new TextDecoder("utf-8", { fatal: true }).decode(bytes) } catch { return null } }\n'
+    'function one(l: Change, bytes: Uint8Array) { try { return new TextDecoder("utf-8", { fatal: true }).decode(bytes) } catch { return null } }\n'
   expect(walking(body)).toHaveLength(1)
 })
 
 test("a binding taken from `createRequire` is a read", () => {
   const body =
     "const loadFrom = createRequire(import.meta.url)\n" +
-    "function one(l: Leaving, at: string) { try { return loadFrom(at) } catch { return null } }\n"
+    "function one(l: Change, at: string) { try { return loadFrom(at) } catch { return null } }\n"
   expect(walking(body)).toHaveLength(1)
 })
 
 test("a try reading nothing is left alone", () => {
   const body =
-    "function one(l: Leaving) { try { return JSON.parse(l.root) } catch { return null } }\n"
+    "function one(l: Change) { try { return JSON.parse(l.root) } catch { return null } }\n"
   expect(walking(body)).toEqual([])
 })
 
 test("a read with no try at all is left alone", () => {
-  expect(walking("function one(l: Leaving) { return readFileSync(l.root) }\n")).toEqual([])
+  expect(walking("function one(l: Change) { return readFileSync(l.root) }\n")).toEqual([])
 })
 
 test("the words inside a string literal are no try", () => {
@@ -117,13 +117,13 @@ test("the words inside a string literal are no try", () => {
 test("the line named is the catch's own", () => {
   const body =
     "const one = 1\n" +
-    "function two(l: Leaving) {\n  try {\n    return readFileSync(l.root)\n  } catch {\n    return null\n  }\n}\n"
+    "function two(l: Change) {\n  try {\n    return readFileSync(l.root)\n  } catch {\n    return null\n  }\n}\n"
   expect(walking(body)[0]?.line).toBe(6)
 })
 
 test("two swallows are refused once each", () => {
   const body =
-    "function one(l: Leaving) { try { return readFileSync(l.root) } catch { return null } }\n" +
-    "function two(l: Leaving) { try { return readFileSync(l.root) } catch { return null } }\n"
+    "function one(l: Change) { try { return readFileSync(l.root) } catch { return null } }\n" +
+    "function two(l: Change) { try { return readFileSync(l.root) } catch { return null } }\n"
   expect(walking(body)).toHaveLength(2)
 })

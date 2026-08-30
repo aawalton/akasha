@@ -6,7 +6,7 @@ import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
-import type { Change } from "../../landing/landing.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   FILE_PATH,
@@ -276,7 +276,7 @@ export function remove(argv: readonly string[], given: Given): Answer {
       0
     )
   }
-  const changes: readonly Change[] = paths.map((path) => ({ path, body: null }))
+  const changes: readonly FileEdit[] = paths.map((path) => ({ path, body: null }))
   const asked: Asked = {
     changes,
     message: stated.message ?? `remove ${paths.join(", ")}`,
