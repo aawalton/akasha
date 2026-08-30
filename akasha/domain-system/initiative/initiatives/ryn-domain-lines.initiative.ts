@@ -9,10 +9,6 @@ export const rynDomainLines = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The check over invariant statements is named for both rules it holds.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A prompt run over a text by hand has its answers counted.",
     },
     {
@@ -45,7 +41,7 @@ export const rynDomainLines = {
     "A failure case a haiku model cannot detect is still written down, but only one it can detect can become a check. The detection test doubles as the cases such a check would state. Nothing here builds that check: the model check page type, its cases, and the gateway it reaches a model through are all intents of nimue-model-checks, and writing them here would put one intent in two places. So the failure cases are left in the shape that initiative will want, and this one closes without them running anywhere.",
     "At the start akasha's domains carried an average of 421 characters of directive and invariant each, over 343 domains. Fifty is the target because it is roughly a tenth of that today. An entry is an object carrying `invariantKind` or `directiveKind`, and its characters are its prose fields alone. What an initiative holds is not counted, because an initiative is mortal and its intents go when they are met. An average is deliberately not a total: domains are expected to reach several thousand as the old system migrates in, and an average breathes with that where a total would come to demand three characters a domain. The cost of that choice is that the number falls as domains arrive, so a fall is not by itself the work being done. If the documented failure cases run out while the average still stands above fifty, the number is not met by inventing a failure case to justify the rest. It is raised with Alan and settled then.",
     "The count is taken across the akasha folder alone. `Measure The Whole Repo` on akasha-migration forbids that for a rule's reach, and this narrowing is a deliberate exception to it rather than a reading of it. The old system holds around 92,000 characters of the same doctrine across 720 domain pages, and that doctrine migrates in, so the ceiling can be blown by migration doing its work rather than by anyone writing badly. Whoever meets that files a finding rather than treating the count as failed.",
-    "`no-why-in-a-statement` was named for the one rule it held at landing. It grew a second: a statement holding two facts is refused as one saying why is, a semicolon among the markers that join them. Half its refusals now fall under a name that does not cover them, and a check nobody can read the reach of off the index is one every agent has to open to obey. The rename waits until the agents remediating against it have finished, because the path they verify through is the one it would move.",
+    "The rule over statements closed one mark at a time, and each ban was evaded at the next mark: the causal markers, then a semicolon, then `, and`, then every comma, then a colon and a dash and a second sentence. What stands now is stated as a shape rather than as a list of marks — a statement is one sentence carrying no mark that joins — because a rule written against the instances it has met teaches the next instance. The briefs handed to remediating agents failed the same way, where two examples of a forbidden swap were read as the whole of the prohibition. The check is `statement-states-one-thing`, named for the shape rather than for the first mark it caught.",
     "`An agent writes a domain's lines as well as Alan would.` stood as a gap on the domain page type and was deleted when this initiative was written, ruled impossible rather than merely unmet. Alan's reading here is the work that gap hoped to make unnecessary. When these intents are met the reading intent is deleted rather than returned to a domain, because `Every Changed Line` already covers every line written after.",
   ],
 } as const satisfies Initiative
