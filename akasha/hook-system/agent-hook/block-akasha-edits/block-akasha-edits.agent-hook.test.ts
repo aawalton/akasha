@@ -3,6 +3,7 @@ import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { dataAt } from "../../../file-system/data-place/data-place.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import { askedIn, holdingIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
 
@@ -19,7 +20,7 @@ afterAll(scratch.sweep)
 function repo(): string {
   const root = realpathSync(scratch.rootFor("block-akasha-edits-"))
   mkdirSync(join(root, "akasha/hook-system"), { recursive: true })
-  mkdirSync(join(root, ".git/data/index/identity"), { recursive: true })
+  mkdirSync(join(root, dataAt("index", "identity")), { recursive: true })
   mkdirSync(join(root, "tools"), { recursive: true })
   mkdirSync(join(root, "akasha-other"), { recursive: true })
   writeFileSync(join(root, "akasha/held.ts"), "held\n")
@@ -92,15 +93,15 @@ test("a temp file outside the guarded roots is written as usual", () => {
 
 test("a path under `.git/data` is refused, and names the one repair", () => {
   const root = repo()
-  const said = judged(root, ".git/data/index/path/one.jsonl")
+  const said = judged(root, dataAt("index", "path", "one.jsonl"))
   expect(said).toContain("inside the akasha index")
   expect(said).toContain("akasha index refresh")
-  expect(said).toContain("`.git/data` holds the index")
+  expect(said).toContain(`\`${dataAt()}\` holds the index`)
 })
 
 test("`.git` outside `.git/data` is not guarded here", () => {
   const root = repo()
-  expect(judged(root, ".git/config")).toBeNull()
+  expect(judged(root, join(".git", "config"))).toBeNull()
 })
 
 test("a relative path is resolved against the working directory the call was made in", () => {
@@ -167,7 +168,7 @@ test("the refusal names the akasha commands rather than a word for them", () => 
 test("the refusal bounds itself by naming both guarded roots", () => {
   const root = repo()
   const said = judged(root, "akasha/held.ts") ?? ""
-  expect(said).toContain("only `akasha/` and `.git/data` are refused here.")
+  expect(said).toContain(`only \`akasha/\` and \`${dataAt()}\` are refused here.`)
 })
 
 test("NotebookEdit is refused plainly, and names no command", () => {

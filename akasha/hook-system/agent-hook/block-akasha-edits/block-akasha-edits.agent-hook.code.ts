@@ -1,5 +1,6 @@
 import { basename, join, resolve } from "node:path"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { dataAt, dataIn } from "../../../file-system/data-place/data-place.module.code.ts"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
@@ -10,8 +11,6 @@ const UNREADABLE = 5
 const REFUSED = 2
 
 const PAGES = "akasha"
-
-const INDEX = join(".git", "data")
 
 const HOLD = "/var/tmp"
 
@@ -27,7 +26,7 @@ export const JUDGED: readonly string[] = [WRITE, EDIT, NOTEBOOK_EDIT]
 
 export const SCOPE: readonly string[] = [
   "block-akasha-edits refuses Write, Edit and NotebookEdit landing inside the akasha folder or",
-  "inside `.git/data`, and stands aside everywhere else.",
+  `inside \`${dataAt()}\`, and stands aside everywhere else.`,
   "",
   "CLOSED over the tools it judges. Each of these three carries its target as a path in the",
   "structured tool input — `file_path`, and `notebook_path` for NotebookEdit. No shell reads it, so",
@@ -73,7 +72,7 @@ export function holdingIn(agentId: string): string {
 }
 
 export function guardedIn(root: string): Guarded {
-  return { pages: settled(join(root, PAGES)), index: settled(join(root, INDEX)) }
+  return { pages: settled(join(root, PAGES)), index: settled(dataIn(root)) }
 }
 
 function fieldOf(held: unknown, name: string): unknown {
@@ -111,7 +110,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
   }
   const door = "The akasha commands write that folder — they check the change and commit it."
   const why = '--message "<what this change is for>"'
-  const bound = "only `akasha/` and `.git/data` are refused here."
+  const bound = `only \`${PAGES}/\` and \`${dataAt()}\` are refused here.`
   if (toolName === EDIT) {
     const was = join(held, `${HOOK_NAME}-${name}.old`)
     const now = join(held, `${HOOK_NAME}-${name}.new`)
@@ -142,7 +141,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
 function refusingIndex(toolName: string, shown: string): string {
   return [
     `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the akasha index.`,
-    "`.git/data` holds the index, and is guarded as the akasha folder is.",
+    `\`${dataAt()}\` holds the index, and is guarded as the akasha folder is.`,
     "The pages and the index are two halves of one store, so a hand-written index puts",
     "them out of step. Rebuild it instead:",
     "",
