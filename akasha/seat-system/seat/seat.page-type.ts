@@ -1,7 +1,7 @@
 import type { PersonaSlug } from "../../domain-system/initiative/properties/persona-slug.text-property.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
+import type { AssignmentSlug } from "./properties/assignment-slug.relation-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.text-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
@@ -36,7 +36,7 @@ export const seat = {
     "number-property/cost-usd",
     "number-property/proxy-port",
     "record-property/turn-pending",
-    "text-property/assignment-slug",
+    "relation-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/model",
     "text-property/person-slug",
