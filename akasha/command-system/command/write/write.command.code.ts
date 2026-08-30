@@ -12,8 +12,9 @@ import {
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
-import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import { dropReadings } from "../../reading/reading.module.code.ts"
 
 export const FILE_PATH = "--file-path"

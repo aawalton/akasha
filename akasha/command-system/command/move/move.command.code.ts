@@ -22,8 +22,9 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
+import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
-import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import {

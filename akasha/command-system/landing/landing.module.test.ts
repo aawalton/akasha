@@ -1,20 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { spawn, spawnSync } from "node:child_process"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
-import { until } from "../../testing-system/waiting/waiting.module.code.ts"
 import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
-import {
-  baseOf,
-  bodyAt,
-  gateBuilt,
-  landing,
-  leavingOf,
-  NO_GATE,
-  readingEnded,
-} from "./landing.module.code.ts"
+import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+import { baseOf, gateBuilt, landing, leavingOf, NO_GATE } from "./landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -27,7 +18,6 @@ import {
   identityAmong,
   indexIn,
   LINE,
-  MODULE_AT,
   REFUSES,
   repoWith,
   scratch,
@@ -82,38 +72,6 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
   readingEnded()
 })
 
-test("a path the base commit does not carry reads as nothing rather than as trouble", () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const base = baseOf(root)
-  expect(bodyAt(root, base, "nowhere.txt")).toBeNull()
-  expect(bodyAt(root, base, "one.txt/deeper.txt")).toBeNull()
-  readingEnded()
-})
-
-test("a base that names no commit is said out loud rather than read as nothing", () => {
-  const root = repoWith({ "one.txt": "committed" })
-  expect(() => bodyAt(root, "0".repeat(40), "one.txt")).toThrow("names no commit")
-  readingEnded()
-})
-
-test("reading a body the base commit does not carry says nothing on stderr", () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const said = spawnSync(
-    "bun",
-    [
-      "-e",
-      `import { baseOf, bodyAt, readingEnded } from ${JSON.stringify(MODULE_AT)}
-const root = ${JSON.stringify(root)}
-const base = baseOf(root)
-for (const one of ["a.txt", "b.txt", "c.txt"]) bodyAt(root, base, one)
-readingEnded()`,
-    ],
-    { encoding: "utf8" }
-  )
-  expect(said.stderr).toBe("")
-  expect(said.status).toBe(0)
-})
-
 test("no git outlives a landing, nor one a check throws through", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const reading: Judging = {
@@ -139,24 +97,6 @@ test("no git outlives a landing, nor one a check throws through", () => {
   )
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
-})
-
-test("a parent killed outright leaves no git behind it", async () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const kid = spawn(
-    "bun",
-    [
-      "-e",
-      `import { baseOf, bodyAt } from ${JSON.stringify(MODULE_AT)}
-const root = ${JSON.stringify(root)}
-bodyAt(root, baseOf(root), "one.txt")
-setInterval(() => {}, 1000)`,
-    ],
-    { stdio: "ignore" }
-  )
-  expect(await until(() => gitOver(root).length === 1)).toBe(true)
-  kid.kill("SIGKILL")
-  expect(await until(() => gitOver(root).length === 0)).toBe(true)
 })
 
 test("a landing files the index entries its page implies, with no rebuild run by hand", () => {
