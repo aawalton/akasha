@@ -9,6 +9,6 @@ export const mari = {
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
-  onCall: true,
+  onCall: false,
   registrationAccount: "aawalton",
 } as const satisfies Seat
