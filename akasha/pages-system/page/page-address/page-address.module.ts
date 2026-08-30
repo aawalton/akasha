@@ -14,8 +14,11 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type and a slug are cut at the first `/`, and a slug may carry later ones.",
+      statement: "A page type and a slug are cut at the first `/`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug may carry later slashes.",
     },
     {
       invariantKind: "departure",
