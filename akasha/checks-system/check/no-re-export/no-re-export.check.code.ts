@@ -28,7 +28,11 @@ function cameIn(source: ts.SourceFile): ReadonlyMap<string, string> {
   return found
 }
 
-function sentOn(clause: ts.NamedExportBindings | undefined, at: string, line: number): Found[] {
+function sentOn(
+  clause: ts.NamedExportBindings | undefined,
+  at: string,
+  line: number
+): readonly Found[] {
   if (clause === undefined) return [{ named: null, line, from: at }]
   if (ts.isNamespaceExport(clause)) return [{ named: clause.name.text, line, from: at }]
   return clause.elements.map((each) => ({ named: each.name.text, line, from: at }))
