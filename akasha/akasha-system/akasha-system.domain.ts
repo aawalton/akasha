@@ -24,6 +24,7 @@ export const akashaSystem = {
     "domain/testing-system",
     "domain/seat-system",
     "domain/persona-system",
+    "domain/role-system",
     "domain/context-system",
     "domain/agents-system",
     "domain/akasha-required-reading",
