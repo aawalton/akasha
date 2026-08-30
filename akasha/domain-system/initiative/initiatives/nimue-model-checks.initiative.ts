@@ -24,6 +24,11 @@ export const nimueModelChecks = {
     },
     {
       invariantKind: "gap",
+      statement:
+        "A value minted into a change is worked out from the index that change would leave, so a page of a type the same change introduces is minted like any other.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Which checks stand is read from the shadow, as what they judge already is.",
     },
     {
