@@ -1,4 +1,6 @@
 # Page data held outside git deliberately.
+*.uncommitted.ts
+*.uncommitted.ts.*.part
 *.uncommitted.yaml
 *.uncommitted.jsonl
 *.uncommitted.attachment.*
