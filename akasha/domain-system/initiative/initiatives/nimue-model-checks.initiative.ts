@@ -7,15 +7,12 @@ export const nimueModelChecks = {
   domainSlug: "domain/checks-system",
   personaSlug: "nimue",
   notes: [
-    "The order is bottom up because each layer's failure is invisible from the one above it. A model check that answers wrongly reads like a check that found something. A rename that half lands reads like a rename. A check discovered from the committed index reads like a check that ran. Built downward, each of those would be debugged through the layer standing on it.",
-    "Checking spells the slug of the page type it loads. Once discovery reads the shadow, a rename of that page type cannot land while the literal stands, because discovery would look in the shadow for a page type the change took away and find none. Either the move carries that one authored line with it, or nothing in the tooling spells a page type slug. Which of those is not settled.",
+    "The order is bottom up because each layer's failure is invisible from the one above it. A model check that answers wrongly reads like a check that found something. A rename that half lands reads like a rename. Built downward, each of those would be debugged through the layer standing on it.",
+    "Reading the shadow stops at discovery. What a change holds is read from the shadow, and which checks judge it is read from the committed index, because a change that chose its own judges could add a check that passes it or take away the check that refuses it.",
+    "Checking reached its page type by a spelled slug and now reaches it by id, which no rename touches. What the slug intent is left with is every other place the tooling spells a page type slug.",
     "A model check reaches a model through the gateway a supervisor stands up, and no integration run has one. So the first model check judges at a workstation, and what it costs on every change is answered after it runs at all.",
   ],
   invariants: [
-    {
-      invariantKind: "gap",
-      statement: "Which checks stand is read from the shadow.",
-    },
     {
       invariantKind: "gap",
       statement: "A move either refuses or lands a change that passes checks.",
