@@ -27,12 +27,18 @@ export const seat = {
   extendsSlug: "page-type/page",
   mortal: true,
   partSlugs: [
+    "boolean-property/live-child",
     "boolean-property/on-call",
+    "boolean-property/open-question",
+    "boolean-property/owed",
+    "boolean-property/running-task",
+    "boolean-property/send-in-flight",
     "number-property/context-tokens",
     "number-property/proxy-port",
     "process-property/proxy-process",
     "process-property/supervisor-process",
     "record-property/proxy",
+    "record-property/turn-pending",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/model",
@@ -61,6 +67,7 @@ export const seat = {
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
