@@ -13,7 +13,11 @@ export const bodying = {
     },
     {
       invariantKind: "departure",
-      statement: "Text and bytes are both taken. A check is handed bytes.",
+      statement: "Text and bytes are both taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check is handed bytes.",
     },
     {
       invariantKind: "departure",

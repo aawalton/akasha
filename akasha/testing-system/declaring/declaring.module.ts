@@ -14,8 +14,12 @@ export const declaring = {
     },
     {
       invariantKind: "departure",
+      statement: "A world is served by carrying the pages into its tree.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A world is served by carrying the pages into its tree. Every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
+        "Every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
     },
     {
       invariantKind: "departure",

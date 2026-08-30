@@ -29,12 +29,15 @@ export const iosComponent = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here is imported. Xcode compiles it.",
+      statement: "Nothing here is imported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Xcode compiles it.",
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "The ring components also stand under ios-widget/ring, which is what an app is built from.",
+      statement: "The ring components also stand under ios-widget/ring.",
     },
   ],
 } as const satisfies PageType

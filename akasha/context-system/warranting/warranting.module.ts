@@ -38,8 +38,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Warrants stand over an authored change alone. A change the machine made carries no judgement.",
+      statement: "Warrants stand over an authored change alone.",
     },
     {
       invariantKind: "departure",

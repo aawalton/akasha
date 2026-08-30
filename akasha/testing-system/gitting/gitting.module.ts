@@ -26,8 +26,7 @@ export const gitting = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here is reached by the door. The command system runs git through its own landing.",
+      statement: "Nothing here is reached by the door.",
     },
     {
       invariantKind: "absence",

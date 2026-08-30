@@ -13,7 +13,7 @@ export const fileItself = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file warrants itself: the body standing at a path is that path's reading.",
+      statement: "A file warrants itself.",
     },
     {
       invariantKind: "departure",

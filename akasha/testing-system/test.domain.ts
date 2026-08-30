@@ -16,13 +16,15 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test over the corpus proves what the corpus holds. Neither stands for the other.",
+      statement: "A test over the corpus proves what the corpus holds.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test reaching the corpus reads it whole rather than pinning what it found. The corpus grows under every run.",
+      statement: "Neither stands for the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test reaching the corpus reads it whole rather than pinning what it found.",
     },
     {
       invariantKind: "gap",
