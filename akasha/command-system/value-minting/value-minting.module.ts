@@ -14,6 +14,14 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
+      statement: "A value is worked out from the index the change would leave.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of a page type the same change adds is minted into.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body carried from another path is left alone.",
     },
     {
