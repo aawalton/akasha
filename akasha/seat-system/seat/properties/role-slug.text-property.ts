@@ -6,13 +6,14 @@ export const roleSlug = {
   id: "01a05035-2609-769e-8bce-5f13a7ed3df4",
   pageTypeSlug: "text-property",
   slug: "role-slug",
-  definition: "what a seat is answerable for where it sits",
+  definition: "the role a persona works in, or a seat is answerable for",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "This holds text because the roles a seat can take do not stand as pages.",
+      statement:
+        "This holds text because the roles a persona and a seat take do not stand as pages.",
     },
     {
       invariantKind: "gap",
