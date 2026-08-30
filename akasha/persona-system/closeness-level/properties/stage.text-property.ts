@@ -10,14 +10,4 @@ export const stage = {
   definition: "the phase of closeness a rung belongs to",
   max: 100,
   nameFormatSlug: null,
-  invariants: [
-    {
-      invariantKind: "stopgap",
-      statement: "This holds text because the five stages do not stand as pages.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "This is a relation to a closeness stage.",
-    },
-  ],
 } as const satisfies TextProperty

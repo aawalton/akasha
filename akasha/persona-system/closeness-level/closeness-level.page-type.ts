@@ -42,9 +42,5 @@ export const closenessLevel = {
       invariantKind: "departure",
       statement: "A level is reached by points earned rather than chosen.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The last two levels share a stage, so a stage does not name a level.",
-    },
   ],
 } as const satisfies PageType
