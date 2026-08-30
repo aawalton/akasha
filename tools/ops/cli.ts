@@ -5,7 +5,6 @@ import { codeKit } from "./code.ts"
 import { dispatch, findCommand, reportableMessage } from "./dispatch.ts"
 import { EXIT, exitCodeOf } from "../lib/exit.ts"
 import { ignoreClosedConsumerWrites } from "../lib/closed-consumer.ts"
-import { answerPageQueriesInProcess } from "./page-queries-in-process.ts"
 
 const UNREACHABLE_CODE_REPOSITORY = 70
 
@@ -26,7 +25,6 @@ async function main(): Promise<void> {
   })
 
   ignoreClosedConsumerWrites([process.stdout, process.stderr])
-  answerPageQueriesInProcess()
 
   const args = process.argv.slice(2)
   const match = findCommand(kit.commands, args)

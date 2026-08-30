@@ -8,6 +8,7 @@ import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { isDirty, resolveRoots } from "../../repo/roots/roots.ts"
 import { domainsStanding } from "./akasha-domains.ts"
+import { personaAt, personasStanding } from "./akasha-personas.ts"
 import { ATTRIBUTES, type AttributeKey, DECLARATIONS, type Declaration } from "./attributes.ts"
 import { listDocuments } from "./check.ts"
 import { DOMAIN_SLUG_KEY, type Documents, domainNamed, slugsIn } from "./domain.ts"
@@ -93,6 +94,7 @@ export function documentFor(
   slug: string,
   root: string
 ): string | null {
+  if (slot === "persona") return personaAt(root, slug)?.path ?? null
   const at = stemsIn(root, foldersFor(slot), slot).get(slug) ?? []
   return at.length === 1 ? (at[0] as string) : null
 }
@@ -145,6 +147,19 @@ export function resolveSlot(
       refusal:
         `no document declares \`${DOMAIN_SLUG_KEY}: ${slug}\`, so a statement of domain \`${slug}\` could ` +
         `never be read for. Declared here: ${known.length === 0 ? "none" : known.join(", ")}`,
+    }
+  }
+  // The personas moved into the akasha system, where each stands as a `.persona.ts` page read
+  // through the index rather than as a document under `pages/persona/`. She is read where she
+  // now lives; the old folder holds none of them.
+  if (slot === "persona") {
+    const held = personaAt(root, slug)
+    if (held !== null) return { relPath: held.path }
+    const known = personasStanding(root).map((one) => one.slug)
+    return {
+      refusal:
+        `no persona in the akasha system is named \`${slug}\`, so a statement of persona \`${slug}\` ` +
+        `could never be read for. Standing there: ${known.join(", ")}`,
     }
   }
   const dirs = foldersFor(slot)
