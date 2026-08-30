@@ -213,7 +213,7 @@ const CORPUS = join(rootOf(import.meta.dir), "akasha")
 
 function everyBodyUnder(at: string): readonly string[] {
   const found: string[] = []
-  const walk = (here: string): void => {
+  const walk = (here: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const next = join(here, one.name)
       if (one.isDirectory()) walk(next)

@@ -141,7 +141,7 @@ function landedInto(root: string, changes: readonly Change[]): string {
 
 function wholeOf(reading: Reading): Record<string, unknown> {
   const said: Record<string, unknown> = {}
-  const walk = (at: string): void => {
+  const walk = (at: string): undefined => {
     const listing = [...reading.listing(at)].sort((one, two) =>
       one.name < two.name ? -1 : one.name > two.name ? 1 : 0
     )

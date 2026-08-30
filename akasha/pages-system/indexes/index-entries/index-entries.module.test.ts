@@ -68,7 +68,7 @@ test("a body that will not load answers with no value rather than throwing", () 
   expect(valueIn("the new body")).toBe(null)
 })
 
-function declaring(index: string, slug: string, said: Record<string, unknown>): void {
+function declaring(index: string, slug: string, said: Record<string, unknown>): undefined {
   const at = join(index, "schema", "page-property", "slug", `${slug}.jsonl`)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")

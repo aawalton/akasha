@@ -24,7 +24,7 @@ function rootAt(): string {
   return scratch.rootFor("akasha-reading-")
 }
 
-function filed(root: string, at: string, lines: readonly string[]): void {
+function filed(root: string, at: string, lines: readonly string[]): undefined {
   const path = join(indexIn(root), at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, `${lines.join("\n")}\n`)
@@ -113,7 +113,7 @@ test("an id the index carries is answered with the page carrying it", () => {
   expect(standingById(root, B)).toBe(null)
 })
 
-function schemaFiled(root: string, slug: string, line: string): void {
+function schemaFiled(root: string, slug: string, line: string): undefined {
   filed(root, `schema/page-property/slug/${slug}.jsonl`, [line])
 }
 
