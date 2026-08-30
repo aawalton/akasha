@@ -1,5 +1,6 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Phone } from "../../person-system/person/properties/phone.phone-number-property.ts"
 import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
@@ -20,6 +21,7 @@ export type Persona = Domain & {
   valueSlug?: ValueSlug
   origin?: Origin
   emailAddress?: EmailAddress
+  phone?: Phone
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints
   history?: History
@@ -98,6 +100,7 @@ export const persona = {
     { pagePropertySlug: "value-slug", required: false, many: false },
     { pagePropertySlug: "origin", required: false, many: false },
     { pagePropertySlug: "email-address", required: false, many: false },
+    { pagePropertySlug: "phone", required: false, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
     { pagePropertySlug: "voice-instruction", required: false, many: false },
     { pagePropertySlug: "voice-reference-sha256", required: false, many: false },

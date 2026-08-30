@@ -7,5 +7,5 @@ export const phone = {
   pageTypeSlug: "phone-number-property",
   slug: "phone",
   propertySlug: "phone",
-  definition: "the number a person is reached at",
+  definition: "the number a person or a persona is reached at",
 } as const satisfies PhoneNumberProperty
