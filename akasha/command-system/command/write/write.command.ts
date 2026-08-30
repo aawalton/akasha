@@ -47,8 +47,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path this call would change is warranted before anything is judged: the record must show its writer read the body standing there.",
+      statement: "A path this call would change is warranted before anything is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The record must show a path's writer read the body standing there.",
     },
     {
       invariantKind: "departure",

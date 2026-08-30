@@ -46,7 +46,7 @@ export const commitReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges or writes or commits. It answers what a commit holds.",
+      statement: "Nothing here judges or writes or commits.",
     },
     {
       invariantKind: "absence",

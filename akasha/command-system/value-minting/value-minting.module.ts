@@ -58,8 +58,11 @@ export const valueMinting = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here writes a file or reaches git. It answers the changes as they would stand with their values in.",
+      statement: "Nothing here writes a file or reaches git.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "It answers the changes as they would stand with their values in.",
     },
   ],
 } as const satisfies Module

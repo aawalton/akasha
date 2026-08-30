@@ -9,8 +9,11 @@ export const hookJudging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A test asks about a call made at the root. A call made anywhere else is the exception.",
+      statement: "A test asks about a call made at the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call made anywhere else is the exception.",
     },
     {
       invariantKind: "departure",
@@ -18,18 +21,27 @@ export const hookJudging = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The root a hook is judged against is bound once. A test asking about a call under another root must name it explicitly.",
+      statement: "The root a hook is judged against is bound once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test asking about a call under another root must name it explicitly.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges. A hook's own judgement is handed in and handed back with its root bound.",
+      statement: "Nothing here judges.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No test is written here. What stands here is stood up by the tests that reach for it.",
+      statement: "A hook's own judgement is handed in and handed back with its root bound.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No test is written here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What stands here is stood up by the tests that reach for it.",
     },
     {
       invariantKind: "absence",

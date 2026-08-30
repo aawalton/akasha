@@ -46,8 +46,11 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A command's answer carries a code saying whose fault it was: the caller's or the data's or the command's.",
+      statement: "A command's answer carries a code saying whose fault it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fault is the caller's or the data's or the command's.",
     },
   ],
 } as const satisfies Domain

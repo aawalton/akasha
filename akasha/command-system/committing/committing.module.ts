@@ -35,8 +35,11 @@ export const committing = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges or writes or indexes. A caller has written what it asked for before this is reached.",
+      statement: "Nothing here judges or writes or indexes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller has written what it asked for before this is reached.",
     },
     {
       invariantKind: "absence",

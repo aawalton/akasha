@@ -54,8 +54,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hook changing a call's input is handed the payload whole. What it changes the call with stands outside the tool input.",
+      statement: "A hook changing a call's input is handed the payload whole.",
     },
     {
       invariantKind: "absence",
@@ -64,8 +63,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hook that reads its call from the payload is run from here. How the harness is answered is said once.",
+      statement: "A hook that reads its call from the payload is run from here.",
     },
     {
       invariantKind: "departure",

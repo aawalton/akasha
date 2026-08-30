@@ -26,7 +26,7 @@ export const lint = {
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads. Nothing is fixed or formatted or written.",
+      statement: "A run only reads.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +35,11 @@ export const lint = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A run takes no rule to turn on or off. What is checked is what the linter is configured by.",
+      statement: "A run takes no rule to turn on or off.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What is checked is what the linter is configured by.",
     },
   ],
 } as const satisfies Command

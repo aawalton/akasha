@@ -31,8 +31,11 @@ export const chainRefusal = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here knows what a call is or why one would be refused. A hook hands in the calls it cut and the judgement it makes.",
+      statement: "Nothing here knows what a call is or why one would be refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A hook hands in the calls it cut and the judgement it makes.",
     },
     {
       invariantKind: "absence",

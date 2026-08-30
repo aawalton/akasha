@@ -13,13 +13,16 @@ export const hookPayload = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the call was made is carried.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Where the call was made is carried. A hook that does not refuse on it is handed it anyway rather than being fed a different shape.",
+        "A hook that does not refuse on where the call was made is handed it anyway rather than being fed a different shape.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing in the running system makes a payload. The agent sends it and the hooks read it and this stands so a test can send one too.",
+      statement: "Nothing in the running system makes a payload.",
     },
   ],
 } as const satisfies Module

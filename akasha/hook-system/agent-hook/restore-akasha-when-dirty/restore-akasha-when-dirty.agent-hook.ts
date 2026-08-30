@@ -24,13 +24,11 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What went back is judged by what stands rather than by what the call said. A write reaches this whatever tool carried it.",
+      statement: "What went back is judged by what stands rather than by what the call said.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The tree goes back under the landing lock. A landing part way through is never taken for a write around the gate.",
+      statement: "The tree goes back under the landing lock.",
     },
     {
       invariantKind: "departure",
@@ -54,8 +52,12 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "constraint",
+      statement: "This answers after the write.",
+    },
+    {
+      invariantKind: "constraint",
       statement:
-        "This answers after the write. What it holds is that nothing stands on an ungated change rather than that none was made.",
+        "What this holds is that nothing stands on an ungated change rather than that none was made.",
     },
   ],
 } as const satisfies AgentHook
