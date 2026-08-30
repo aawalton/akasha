@@ -60,11 +60,6 @@ export const TYPE =
 
 export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
-export const indexIn = (root: string): string => join(root, ".git/data/index")
-
-export const butTheStamp = (found: readonly string[]): readonly string[] =>
-  found.filter((one) => !one.startsWith("/stamp.jsonl "))
-
 export const identityAmong = (found: readonly string[]): readonly string[] =>
   found.filter((one) => one.startsWith("/identity/"))
 

@@ -11,6 +11,7 @@ import {
   B,
   bare,
   bodyOf,
+  butTheStamp,
   C,
   D,
   edgeFile,
@@ -223,9 +224,6 @@ function everyBodyUnder(at: string): readonly string[] {
   walk(at)
   return found
 }
-
-const butTheStamp = (found: readonly string[]): readonly string[] =>
-  found.filter((one) => !one.startsWith("/stamp.jsonl "))
 
 test("a rebuild of the corpus and a settle over it leave the same index", () => {
   const repo = heldAt()

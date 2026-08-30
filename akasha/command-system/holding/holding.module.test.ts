@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { until } from "../../testing-system/waiting/waiting.module.code.ts"
@@ -37,8 +38,6 @@ function repoWith(named: Readonly<Record<string, string>>): string {
 }
 
 const ADMITS: Judging = { named: ["admits"], over: () => [] }
-
-const indexIn = (root: string): string => join(root, ".git/data/index")
 
 const AT_ONCE = ["b", "c", "d", "e"]
 

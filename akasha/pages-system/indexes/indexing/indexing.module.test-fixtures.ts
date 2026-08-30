@@ -81,6 +81,9 @@ export const slugFile = (root: string, type: string, slug: string): string =>
 
 export const pathFile = (root: string, path: string): string => join(root, `path/${path}.jsonl`)
 
+export const butTheStamp = (found: readonly string[]): readonly string[] =>
+  found.filter((one) => !one.startsWith("/stamp.jsonl "))
+
 export const edgeFile = (root: string, target: string, property: string, source: string): string =>
   join(root, `relation/page/id/${target}/${property}/${source}.jsonl`)
 
