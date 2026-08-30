@@ -11,6 +11,7 @@ import {
   everyPath,
   importersOf,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -73,9 +74,9 @@ export function edgesOf(root: string, path: string, bytes: Uint8Array | null): R
   return found
 }
 
-export function shapesIn(root: string): readonly Shape[] {
+export function shapesIn(root: string, given: string | Reading): readonly Shape[] {
   const found: Shape[] = []
-  for (const one of everyOfType(root, SHAPE)) {
+  for (const one of everyOfType(given, SHAPE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
@@ -111,8 +112,8 @@ export function shapesIn(root: string): readonly Shape[] {
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
 }
 
-export function standingFiles(root: string, leaving: Leaving): readonly string[] {
-  const found = new Set<string>(everyPath(root))
+export function standingFiles(given: string | Reading, leaving: Leaving): readonly string[] {
+  const found = new Set<string>(everyPath(given))
   for (const one of leaving.changed) {
     if (leaving.at(one) === null) found.delete(one)
     else found.add(one)
@@ -151,7 +152,7 @@ function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean
 }
 
 export function folderMatchesAShape(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const shapes = shapesIn(leaving.root)
+  const shapes = shapesIn(leaving.root, shadow.reading)
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
   let known: Known | null = null
@@ -165,7 +166,7 @@ export function folderMatchesAShape(leaving: Leaving, shadow: Shadow): readonly 
     }
     return held.has(pageTypeSlug)
   }
-  const files = standingFiles(leaving.root, leaving)
+  const files = standingFiles(shadow.reading, leaving)
   const entering = enteringOf(leaving)
   const found: Judged[] = []
   for (const folder of [...foldersTouchedBy(leaving)].sort()) {
