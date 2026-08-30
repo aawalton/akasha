@@ -69,8 +69,7 @@ export const edit = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A removal lands in the same commit as the substitutions, so a change set that both edits and removes never needs two.",
+      statement: "A removal lands in the same commit as the substitutions.",
     },
     {
       invariantKind: "gap",
