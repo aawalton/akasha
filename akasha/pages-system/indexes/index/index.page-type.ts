@@ -35,8 +35,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index page says what is filed, and the code beside it files that and nothing else.",
+      statement: "An index page says what is filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code beside it files that and nothing else.",
     },
     {
       invariantKind: "departure",
