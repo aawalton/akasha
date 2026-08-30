@@ -12,27 +12,35 @@ export const blockDestructiveGit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A verb named here is refused wherever it stands, and no path narrows it.",
+      statement: "A verb named here is refused wherever it stands.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says what the call would destroy, never that it looks unusual.",
+      statement: "No path narrows it.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the akasha command that does what was asked, or says none does.",
+      statement: "A refusal says what the call would destroy rather than that it looks unusual.",
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook, and asked for with `--scope`.",
+      statement: "A refusal names the akasha command that does what was asked or says none does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "absence",
-      statement: "A verb this does not name is unexamined, never safe.",
+      statement: "A verb this does not name is unexamined rather than safe.",
     },
     {
       invariantKind: "constraint",
-      statement: "Git classifies no verb by this hazard, and the list here is a sample, not a set.",
+      statement: "Git classifies no verb by this hazard.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The list here is a sample rather than a set.",
     },
     {
       invariantKind: "constraint",
