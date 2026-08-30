@@ -123,6 +123,12 @@ export function standingByPath(given: string | Reading, path: string): readonly 
   return standingIn(readingIn(given), join(PATH, `${path}${ENDING}`))
 }
 
+export function standingByPathAnswered(given: string | Reading, path: string): readonly Standing[] {
+  return answered(given, PATH, `what names \`${path}\``, (reading) =>
+    standingIn(reading, join(PATH, `${path}${ENDING}`))
+  )
+}
+
 function pathsIn(reading: Reading, at: string): readonly string[] {
   const found: string[] = []
   for (const line of reading.lines(at)) {
@@ -224,4 +230,27 @@ export function everyOfTypeAnswered(
 
 export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
   return answered(root, PATH, "which files stand", () => everyPath(given))
+}
+
+export type Named = {
+  readonly path: string
+  readonly propertySlug: string
+}
+
+export function namersOf(given: string | Reading, id: string): readonly Named[] {
+  const reading = readingIn(given)
+  const dir = join(RELATION, PAGE, ID, id)
+  const found: Named[] = []
+  for (const property of reading.listing(dir)) {
+    if (!property.directory) continue
+    const at = beneath(dir, property.name)
+    for (const one of reading.listing(at)) {
+      for (const line of reading.lines(beneath(at, one.name))) {
+        const said = JSON.parse(line) as { readonly path?: unknown }
+        if (typeof said.path !== "string") continue
+        found.push({ path: said.path, propertySlug: property.name })
+      }
+    }
+  }
+  return found
 }

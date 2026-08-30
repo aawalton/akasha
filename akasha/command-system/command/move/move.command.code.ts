@@ -1,15 +1,12 @@
 import { existsSync, mkdirSync, renameSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
-import { indexPath } from "../../../pages-system/indexes/index/index-path/index-path.index.ts"
-import { indexRelation } from "../../../pages-system/indexes/index/index-relation/index-relation.index.ts"
+import type { Standing } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   everyPath,
   importersOf,
-  indexAt,
-  standingByPath,
+  namersOf,
+  standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { readingAt } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Asked } from "../../asking/asking.module.code.ts"
@@ -49,20 +46,6 @@ const TO = "--to"
 const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
-
-const BY_PATH = "path"
-
-export const PATHS_AT = indexAt(indexPath.indexName)
-
-export const IMPORTS_AT = indexAt(indexImport.indexName, BY_PATH)
-
-const NO_PATHS =
-  `\`${PATHS_AT}\` is not there, so what names it could not be answered — an index that is ` +
-  "missing is not an index naming no page"
-
-const NO_IMPORTS =
-  `\`${IMPORTS_AT}\` is not there, so what names the moved files could not be answered and ` +
-  "none were repointed — an index that is missing is not an index naming no importer"
 
 const OUTSIDE_INDEX =
   `the index carries \`${INSIDE}\` alone, so a file outside it importing what moved stands ` +
@@ -124,8 +107,12 @@ export function pairsIn(argv: readonly string[]): Read {
 export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
-  if (!existsSync(join(root, PATHS_AT))) return { unread: NO_PATHS }
-  const standing = standingByPath(root, path)
+  let standing: readonly Standing[]
+  try {
+    standing = standingByPathAnswered(root, path)
+  } catch (cause) {
+    return { unread: cause instanceof Error ? cause.message : String(cause) }
+  }
   if (standing.length > 1) {
     return {
       unread:
@@ -135,26 +122,13 @@ export function namingOf(root: string, path: string): Naming {
   }
   const held = standing[0]
   if (held === undefined) return { names: [] }
-  const dir = indexAt(indexRelation.indexName, "page", "id", held.id)
-  const reading = readingAt(root)
-  const found = new Set<string>()
-  for (const property of reading.listing(dir)) {
-    if (!property.directory) continue
-    const at = `${dir}/${property.name}`
-    for (const one of reading.listing(at)) {
-      for (const line of reading.lines(`${at}/${one.name}`)) {
-        const said = JSON.parse(line) as { readonly path?: unknown }
-        if (typeof said.path === "string") found.add(`${said.path} (${property.name})`)
-      }
-    }
-  }
+  const found = new Set(namersOf(root, held.id).map((one) => `${one.path} (${one.propertySlug})`))
   return { names: [...found].sort() }
 }
 
 export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
 
 export function importingOf(root: string, moved: ReadonlyMap<string, string>): Reading {
-  if (!existsSync(join(root, IMPORTS_AT))) return { unread: NO_IMPORTS }
   const found = new Set<string>()
   for (const from of moved.keys()) {
     let said: readonly string[]

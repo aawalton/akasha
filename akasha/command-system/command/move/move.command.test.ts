@@ -6,7 +6,7 @@ import { warrantsStanding } from "../../../context-system/warranting/warranting.
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
 import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
-import { move, PATHS_AT, pairsIn } from "./move.command.code.ts"
+import { move, pairsIn } from "./move.command.code.ts"
 import {
   AAAA,
   ARRIVES,
@@ -157,15 +157,15 @@ test("an unanswerable index leaves the importers as they stand and says so", () 
   const said = move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(readFileSync(join(root, HOLDER), "utf8")).toBe(CODE)
-  expect(said.report.join("\n")).toContain("what names the moved files could not be answered")
+  expect(said.report.join("\n")).toContain("could not be answered")
+  expect(said.report.join("\n")).toContain("none were repointed")
 })
 
 test("a rename names what names the file, and only where the index answers one page", () => {
   const root = repoWith({ [HELD]: PAGE })
   naming(root, AAAA)
-  expect(renamed(root)).toContain(
-    `\`${PATHS_AT}\` is not there, so what names it could not be answered`
-  )
+  expect(renamed(root)).toContain(`what names \`${HELD}\` could not be answered`)
+  expect(renamed(root)).toContain("is not an index naming none")
   claiming(root, "akasha/one/two.module.ts", [AAAA])
   expect(renamed(root)).toContain("the index shows no page naming it")
   claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
@@ -251,7 +251,7 @@ test("a dry run names the pairs it would carry, sidecars and all", () => {
   expect(report).toContain("stand beside what you named and would go with it")
   expect(report).toContain("akasha/one/held.module.code.ts to akasha/one/deep/held.module.code.ts")
   expect(report).toContain("akasha/one/held.module.test.ts to akasha/one/deep/held.module.test.ts")
-  expect(report).toContain("what names the moved files could not be answered")
+  expect(report).toContain("none were repointed")
 })
 
 test("a dry run over a move the checks refuse reports it and carries nothing", () => {
