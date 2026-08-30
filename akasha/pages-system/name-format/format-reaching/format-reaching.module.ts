@@ -10,13 +10,16 @@ export const formatReaching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A format is reached by the slug it carries, and a name given by id reaches nothing here.",
+      statement: "A format is reached by the slug it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name given by id reaches nothing here.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A format's judgement is loaded from the code file standing beside the format's own page, never from a shape written here.",
+        "A format's judgement is loaded from the code file standing beside the format's own page rather than from a shape written here.",
     },
     {
       invariantKind: "departure",
