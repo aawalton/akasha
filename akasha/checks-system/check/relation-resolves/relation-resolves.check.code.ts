@@ -1,6 +1,5 @@
 import {
   pageTypesIn,
-  type Standing,
   schemaAt,
   textAt,
   type Value,
@@ -8,7 +7,6 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
-  indexIn,
   standingAt,
   standingById,
   standingByPath,
@@ -40,11 +38,6 @@ export type Carried = {
   readonly value: Value
 }
 
-type Named = Standing & {
-  readonly slug: string
-  readonly pageTypeSlug: string
-}
-
 export function valueFor(leaving: Leaving, path: string): Value | null {
   const bytes = leaving.at(path)
   if (bytes === null) return null
@@ -60,41 +53,6 @@ export function carriedBy(leaving: Leaving, pageTypes: ReadonlySet<string>): rea
     if (value !== null) found.push({ path, value })
   }
   return found
-}
-
-function namedBy(carried: readonly Carried[]): readonly Named[] {
-  const found: Named[] = []
-  for (const one of carried) {
-    const id = textAt(one.value, "id")
-    const slug = textAt(one.value, "slug")
-    const pageTypeSlug = textAt(one.value, "pageTypeSlug")
-    if (id === null || slug === null || pageTypeSlug === null) continue
-    found.push({ path: one.path, id, slug, pageTypeSlug })
-  }
-  return found
-}
-
-export function knownAcross(leaving: Leaving, carried: readonly Carried[]): Shaped {
-  const base = knownIn(indexIn(leaving.root), leaving.root)
-  const touched = new Set(leaving.changed)
-  const held = namedBy(carried)
-  const left = (found: readonly Standing[]): readonly Standing[] =>
-    found.filter((one) => !touched.has(one.path))
-  return {
-    targetOf: base.targetOf,
-    admitting: base.admitting,
-    fieldsOf: base.fieldsOf,
-    at: (pageTypeSlug, slug) => [
-      ...left(base.at(pageTypeSlug, slug)),
-      ...held.filter((one) => one.pageTypeSlug === pageTypeSlug && one.slug === slug),
-    ],
-    byId: (id) => {
-      const carrying = held.find((one) => one.id === id)
-      if (carrying !== undefined) return carrying
-      const one = base.byId(id)
-      return one === null || touched.has(one.path) ? null : one
-    },
-  }
 }
 
 export function relationProperties(shadow: Shadow, known: Known): readonly string[] {

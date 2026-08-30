@@ -1,9 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import {
+  type Shadow,
+  shadowAt,
+} from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import {
+  knownIn,
+  type Shaped,
+} from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,
-  knownAcross,
   mortalityIn,
   namersOf,
   pageTypeOf,
@@ -35,6 +41,10 @@ import {
 } from "./relation-resolves.check.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+function knowing(shadow: Shadow, root: string): Shaped {
+  return knownIn(shadow.reading, root, shadow.pageOf)
+}
 
 test("a page naming a page the index already carries is let through", () => {
   const root = rooted()
@@ -167,8 +177,8 @@ test("a change naming no page and taking nothing away asks the index nothing", (
 
 test("which properties are relations is read from the schema in the index", () => {
   const root = rooted()
-  const known = knownAcross(over(root, [], {}), [])
-  expect(relationProperties(shadowAt(root), known)).toEqual([
+  const shadow = shadowAt(root)
+  expect(relationProperties(shadow, knowing(shadow, root))).toEqual([
     "domain-slug",
     "page-type-slug",
     "part-slugs",
@@ -187,11 +197,10 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
   const root = rooted()
-  const known = knownAcross(over(root, [], {}), [])
+  const shadow = shadowAt(root)
+  const known = knowing(shadow, root)
   const value = { pageTypeSlug: "note", partSlugs: ["gone", "away"] }
-  expect(
-    danglingIn(A, value, known, mortalityIn(shadowAt(root), known)).map((one) => one.reason)
-  ).toEqual([
+  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no page admitting `domain` carries the slug `gone`",
     "states `part-slugs`, and no page admitting `domain` carries the slug `away`",
   ])
@@ -199,33 +208,36 @@ test("a refusal is laid on the page that names, and one is raised for each name"
 
 test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
   const root = rooted()
-  const known = knownAcross(over(root, [], {}), [])
+  const shadow = shadowAt(root)
+  const known = knowing(shadow, root)
   const value = { pageTypeSlug: "note", marks: [{ domainSlug: "domain/gone" }] }
-  expect(
-    danglingIn(A, value, known, mortalityIn(shadowAt(root), known)).map((one) => one.reason)
-  ).toEqual(["states `marks domain-slug`, and no `domain` carries the slug `gone`"])
+  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
+    "states `marks domain-slug`, and no `domain` carries the slug `gone`",
+  ])
 })
 
 test("one name repeated across a record's entries is judged once", () => {
   const root = rooted()
-  const known = knownAcross(over(root, [], {}), [])
+  const shadow = shadowAt(root)
+  const known = knowing(shadow, root)
   const value = {
     pageTypeSlug: "note",
     marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
   }
-  expect(
-    danglingIn(A, value, known, mortalityIn(shadowAt(root), known)).map((one) => one.reason)
-  ).toEqual(["states `marks domain-slug`, and no `domain` carries the slug `gone`"])
+  expect(danglingIn(A, value, known, mortalityIn(shadow, known)).map((one) => one.reason)).toEqual([
+    "states `marks domain-slug`, and no `domain` carries the slug `gone`",
+  ])
 })
 
 test("a field the record does not declare, and a record deeper than one, are left alone", () => {
   const root = rooted()
-  const known = knownAcross(over(root, [], {}), [])
+  const shadow = shadowAt(root)
+  const known = knowing(shadow, root)
   const value = {
     pageTypeSlug: "note",
     marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],
   }
-  expect(danglingIn(A, value, known, mortalityIn(shadowAt(root), known))).toEqual([])
+  expect(danglingIn(A, value, known, mortalityIn(shadow, known))).toEqual([])
 })
 
 const NOT_MORTAL = "states `spark-slug`, and a page that is not mortal cannot name a mortal `spark`"
