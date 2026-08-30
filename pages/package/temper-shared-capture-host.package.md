@@ -5,8 +5,6 @@ title: "Temper shared capture host"
 slug: temper-shared-capture-host
 repo: akasha
 domain-parent-slug: domain/temper-eso-files
-conditional-reading-slugs:
-  - adopt-capture-reader-contract
 ---
 
 # Definition
