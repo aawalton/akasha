@@ -9,6 +9,19 @@ export const rynDomainLines = {
   invariants: [
     {
       invariantKind: "gap",
+      statement:
+        "A way an invariant fails stands as a prompt and the labelled cases that judge it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A prompt is run over a text by hand, and its answers counted.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every prompt standing agrees with the cases Alan labelled for it.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Every way a directive fails is named on the directive kind it fails as.",
     },
     {
