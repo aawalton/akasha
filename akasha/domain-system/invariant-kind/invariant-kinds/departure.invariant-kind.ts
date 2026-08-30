@@ -12,4 +12,17 @@ export const departure = {
       statement: "Knowing a departure stops a reader undoing it.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Guess It First",
+      act: "Delete a departure the domain's definition already implies.",
+      warrant:
+        "A departure is what a reader would not guess, so one that is guessed was never one.",
+      aids: [
+        "Ask what a reader might have chosen instead, never whether this one is obvious.",
+        "An absurd alternative every time is slop, a plausible one a departure, the rest Alan's.",
+      ],
+    },
+  ],
 } as const satisfies InvariantKind
