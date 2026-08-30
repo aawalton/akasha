@@ -5,9 +5,9 @@ import type { PersonSlug } from "./properties/person-authority-person-slug.relat
 import type { Target } from "./properties/person-authority-target.text-property.ts"
 
 export type PersonAuthority = Page & {
-  personSlug: PersonSlug
-  authorityKind: AuthorityKind
-  target: Target
+  personAuthorityPersonSlug: PersonSlug
+  personAuthorityKind: AuthorityKind
+  personAuthorityTarget: Target
 }
 
 export const personAuthority = {

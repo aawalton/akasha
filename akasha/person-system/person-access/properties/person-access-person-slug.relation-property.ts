@@ -7,7 +7,7 @@ export const personAccessPersonSlug = {
   id: "01a05427-ec7b-7f27-8ea5-197566d62862",
   pageTypeSlug: "relation-property",
   slug: "person-access-person-slug",
-  propertySlug: "person-slug",
+  propertySlug: "person-access-person-slug",
   definition: "the person who holds the access",
   targetPageTypeSlug: "page-type/person",
 } as const satisfies RelationProperty

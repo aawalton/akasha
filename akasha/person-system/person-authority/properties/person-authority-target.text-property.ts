@@ -6,7 +6,7 @@ export const personAuthorityTarget = {
   id: "01a05430-c0f0-78db-bb0e-ea07c84713f0",
   pageTypeSlug: "text-property",
   slug: "person-authority-target",
-  propertySlug: "target",
+  propertySlug: "person-authority-target",
   definition: "the area the authority covers",
   max: 100,
   nameFormatSlug: null,

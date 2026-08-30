@@ -6,10 +6,10 @@ import type { Serves } from "./properties/person-access-serves.text-property.ts"
 import type { Target } from "./properties/person-access-target.text-property.ts"
 
 export type PersonAccess = Page & {
-  personSlug: PersonSlug
-  accessKind: AccessKind
-  target: Target
-  serves?: Serves
+  personAccessPersonSlug: PersonSlug
+  personAccessKind: AccessKind
+  personAccessTarget: Target
+  personAccessServes?: Serves
 }
 
 export const personAccess = {
