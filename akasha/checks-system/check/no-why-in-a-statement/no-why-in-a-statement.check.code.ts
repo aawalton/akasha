@@ -6,20 +6,26 @@ const KIND = "invariantKind"
 
 const STATEMENT = "statement"
 
-const WHY = /\b(because|since)\b|([,;])/
+const WHY = /\b(because|since)\b/
 
-const TRAILING = /[\s,;]+$/
+const JOIN = /[,;:—]/
 
-const LEADING = /^[\s,;]+/
+const TWO = /[a-z`)"]\.\s+[A-Z`]/
+
+const TRAILING = /[\s,;:—]+$/
+
+const LEADING = /^[\s,;:—.]+/
 
 export type Stated = {
   readonly line: number
   readonly text: string
 }
 
+export type Shape = "why" | "join" | "two"
+
 export type Split = {
   readonly line: number
-  readonly drawn: boolean
+  readonly shape: Shape
   readonly mark: string
   readonly first: string
   readonly second: string
@@ -67,29 +73,43 @@ export function statementsIn(path: string, text: string): readonly Stated[] {
 }
 
 export function splitAt(one: Stated): Split | null {
-  const held = WHY.exec(one.text)
-  if (held === null) return null
+  const why = WHY.exec(one.text)
+  const join = JOIN.exec(one.text)
+  const two = TWO.exec(one.text)
+  const every: readonly (readonly [number, Shape, string])[] = [
+    why === null ? null : ([why.index, "why", why[0]] as const),
+    join === null ? null : ([join.index, "join", join[0]] as const),
+    two === null ? null : ([two.index + 1, "two", "."] as const),
+  ].filter((held) => held !== null)
+  let best: readonly [number, Shape, string] | null = null
+  for (const held of every) if (best === null || held[0] < best[0]) best = held
+  if (best === null) return null
+  const [at, shape, mark] = best
   return {
     line: one.line,
-    drawn: held[2] !== undefined,
-    mark: held[0],
-    first: one.text.slice(0, held.index).replace(TRAILING, ""),
-    second: one.text.slice(held.index).replace(LEADING, ""),
+    shape,
+    mark,
+    first: one.text.slice(0, at).replace(TRAILING, ""),
+    second: one.text.slice(at).replace(LEADING, ""),
   }
 }
 
 function sayingOf(split: Split): string {
-  if (split.drawn) {
+  if (split.shape === "why") {
     return (
-      `line ${split.line} joins a second fact at \`${split.mark}\` — an invariant states one thing\n` +
+      `line ${split.line} states why at \`${split.mark}\` — an invariant states what is true and never why\n` +
       `  ${split.second}\n` +
-      "  cut what only explains or follows from the first. Split out what does not."
+      "  cut what only explains. Split out a fact standing in there and keep it."
     )
   }
+  const head =
+    split.shape === "two"
+      ? `line ${split.line} holds two sentences — an invariant states one thing`
+      : `line ${split.line} joins a second fact at \`${split.mark}\` — an invariant states one thing`
   return (
-    `line ${split.line} states why at \`${split.mark}\` — an invariant states what is true, never why\n` +
+    `${head}\n` +
     `  ${split.second}\n` +
-    "  cut what only explains. Split out a fact standing in there and keep it."
+    "  cut what only explains or follows from the first. Split out what does not."
   )
 }
 
