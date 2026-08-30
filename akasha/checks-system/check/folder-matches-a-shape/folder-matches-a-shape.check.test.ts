@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import {
+  idFiled,
+  pathFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import {
@@ -12,8 +16,6 @@ import {
   foldersTouchedBy,
   reachedFolders,
 } from "./folder-matches-a-shape.check.code.ts"
-
-const INDEX = join(".git", "data", "index")
 
 const scratch = scratchWorld()
 
@@ -107,10 +109,6 @@ function idFor(n: number): string {
   return `01a04e00-0000-7000-8000-0000000000${String(n).padStart(2, "0")}`
 }
 
-function filed(root: string, at: string, line: string): undefined {
-  standing(root, join(INDEX, at), `${line}\n`)
-}
-
 function stands(
   root: string,
   path: string,
@@ -120,10 +118,10 @@ function stands(
   body: string
 ): undefined {
   standing(root, path, body)
-  const line = JSON.stringify({ path, id })
-  filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
-  filed(root, join("identity", kind, "slug", `${slug}.jsonl`), line)
-  filed(root, join("path", `${path}.jsonl`), line)
+  const held = [{ path, id }]
+  idFiled(root, id, held)
+  standingFiled(root, kind, slug, held)
+  pathFiled(root, path, held)
 }
 
 const SHAPE_CODE = `export function noStrays(standing) {
@@ -146,11 +144,7 @@ function rooted(): string {
     `export const noStrays = { id: "${idFor(1)}", slug: "no-strays", pageTypeSlug: "folder-shape", code: "ts" }\n`
   )
   standing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
-  filed(
-    root,
-    join("path", "akasha/s/no-strays.folder-shape.code.ts.jsonl"),
-    JSON.stringify({ path: shape, id: idFor(1) })
-  )
+  pathFiled(root, "akasha/s/no-strays.folder-shape.code.ts", [{ path: shape, id: idFor(1) }])
   for (const [n, slug] of [
     [2, "page-type"],
     [3, "folder-shape"],

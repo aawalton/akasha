@@ -37,6 +37,12 @@ function filing(root: string, at: string, lines: readonly unknown[]): undefined 
   written(root, `${at}${ENDING}`, lines)
 }
 
+function adding(root: string, at: string, lines: readonly unknown[]): undefined {
+  const path = under(root, `${at}${ENDING}`)
+  mkdirSync(dirname(path), { recursive: true })
+  appendFileSync(path, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
 function standing(root: string, at: string): undefined {
   mkdirSync(under(root, at), { recursive: true })
 }
@@ -62,6 +68,15 @@ export function standingFiled(
   lines: readonly unknown[]
 ): undefined {
   identityFiled(root, pageTypeSlug, SLUG, slug, lines)
+}
+
+export function standingAlsoFiled(
+  root: string,
+  pageTypeSlug: string,
+  slug: string,
+  lines: readonly unknown[]
+): undefined {
+  adding(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, slug), lines)
 }
 
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {

@@ -1,10 +1,15 @@
-import { appendFileSync, existsSync, mkdirSync, readFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import {
+  idFiled,
+  pathFiled,
+  relationFiled,
+  schemaFiled,
+  standingAlsoFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
-
-export const INDEX = join(".git", "data", "index")
 
 export const A = "akasha/t/a.note.ts"
 
@@ -60,12 +65,6 @@ export const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
 
 export const scratch = scratchWorld()
 
-export function filed(root: string, at: string, line: string): undefined {
-  const full = join(root, INDEX, at)
-  mkdirSync(dirname(full), { recursive: true })
-  appendFileSync(full, `${line}\n`, "utf8")
-}
-
 export function stating(
   id: string,
   slug: string,
@@ -84,10 +83,10 @@ export function standing(
   body: string = stating(id, slug, pageTypeSlug)
 ): undefined {
   if (!existsSync(join(root, path))) wrote(root, path, body)
-  const line = JSON.stringify({ path, id })
-  filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
-  filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)
-  filed(root, join("path", `${path}.jsonl`), line)
+  const held = [{ path, id }]
+  idFiled(root, id, held)
+  standingAlsoFiled(root, pageTypeSlug, slug, held)
+  pathFiled(root, path, held)
 }
 
 export function naming(
@@ -97,11 +96,7 @@ export function naming(
   id: string,
   path: string
 ): undefined {
-  filed(
-    root,
-    join("relation", "page", "id", target, propertySlug, `${id}.jsonl`),
-    JSON.stringify({ path })
-  )
+  relationFiled(root, target, propertySlug, id, [{ path }])
 }
 
 export function rooted(carrying: boolean = true): string {
@@ -122,9 +117,7 @@ export function rooted(carrying: boolean = true): string {
       stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`)
     )
   }
-  for (const [slug, shape] of Object.entries(SCHEMA)) {
-    filed(root, join("schema", "page-property", "slug", `${slug}.jsonl`), JSON.stringify(shape))
-  }
+  for (const [slug, shape] of Object.entries(SCHEMA)) schemaFiled(root, slug, [shape])
   standing(
     root,
     M,

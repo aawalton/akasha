@@ -1,5 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { SEEDED_AT } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
+import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
@@ -87,11 +89,9 @@ export function telling(was: Uint8Array | null, now: string): readonly string[] 
   return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
 }
 
-const WARRANTS_AT = ".git/data/index/identity/context-warrant/slug"
+const CONTEXT_WARRANT = "context-warrant"
 
-const TYPES_AT = ".git/data/index/identity/page-type/slug"
-
-const SEEDED_AT = ".git/data/warrant"
+const PAGE_TYPE_SLUG = "page-type"
 
 const BESIDE = join(import.meta.dir, "../../../context-system/context-warrant")
 
@@ -270,14 +270,14 @@ export function rootWarranting(
   const root = rootWith([...named, ...TYPES.map((one) => ({ at: one.at, body: one.body }))])
   for (const [order, one] of TYPES.entries()) {
     const id = `01a04f59-0000-7000-8000-${String(order).padStart(12, "0")}`
-    planting(root, join(TYPES_AT, `${one.slug}.jsonl`), `${JSON.stringify({ path: one.at, id })}\n`)
+    standingFiled(root, PAGE_TYPE_SLUG, one.slug, [{ path: one.at, id }])
   }
   for (const one of [...REAL, ...also]) {
     const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     planting(root, at, pageFor(one, id))
     planting(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
-    planting(root, join(WARRANTS_AT, `${one.slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+    standingFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
   return root
 }
