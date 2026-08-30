@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout-system/readout/readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.ts"
 
 export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
