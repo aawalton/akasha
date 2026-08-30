@@ -25,8 +25,6 @@ export const check = {
     "boolean-property/runs-on-deploy",
     "boolean-property/runs-on-patch",
     "boolean-property/runs-on-worktree",
-    "check/counting-is-whole",
-    "check/counting-never-falls",
     "check/domain-is-named-by-a-parent",
     "check/file-has-its-page",
     "check/file-length",
