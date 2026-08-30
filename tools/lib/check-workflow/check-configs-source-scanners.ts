@@ -81,17 +81,6 @@ export const SOURCE_SCANNER_CHECKS: CheckConfig[] = [
     args: treeShaArgs,
   },
   {
-    name: "tmpfs-scratch",
-    dispatchNodeTypes: TS_POPULATION,
-    dispatchNodes: [
-      "json-file:instructions:infra/cluster-checks/src/lib/tmpfs-scratch.config.json",
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-tmpfs-scratch.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/tmpfs-scratch-coverage.ts",
-      "ts-file:instructions:infra/cluster-checks/src/lib/ts-tmpfs-scratch.ts",
-    ],
-    script: "infra/cluster-checks/src/checks/check-tmpfs-scratch.ts",
-  },
-  {
     name: "tsconfig",
     alwaysRun: true,
     dispatchNodeTypes: [...PACKAGE_POPULATION, "json-file"],
