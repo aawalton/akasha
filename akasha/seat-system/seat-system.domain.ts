@@ -16,6 +16,10 @@ export const seatSystem = {
       statement: "What a seat holds is either declared of it or observed of it.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "Every value observed of a seat is declared on its page type.",
+    },
+    {
       invariantKind: "departure",
       statement: "A seat's id is the agent's id.",
     },
