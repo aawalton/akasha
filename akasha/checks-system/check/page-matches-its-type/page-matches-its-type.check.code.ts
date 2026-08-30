@@ -263,7 +263,7 @@ export function unloadable(why: string | null): string {
 }
 
 export function pageMatchesItsType(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const pageTypes = pageTypesIn(leaving.root)
+  const pageTypes = pageTypesIn(shadow.reading)
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
     if (generated !== null) return generated
