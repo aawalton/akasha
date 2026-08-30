@@ -30,7 +30,11 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "A name outside akasha is passed over. The places hold for the whole repo.",
+      statement: "A name outside akasha is passed over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The places hold for the whole repo.",
     },
     {
       invariantKind: "absence",
@@ -56,8 +60,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name passed over is the one the file's stem makes: in a page file that is the page's value.",
+      statement: "The name passed over is the one the file's stem makes.",
     },
     {
       invariantKind: "departure",
@@ -65,13 +68,15 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A name bound at the top of a file to a value worked out is not judged. Whether such a value is data or a thing the file acts on does not stand in its syntax.",
+      statement: "A name bound at the top of a file to a value worked out is not judged.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "A page file's own value is not judged here. `page-named-as-stated` holds it to the name the slug it states makes.",
+      statement: "A page file's own value is not judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "`page-named-as-stated` holds it to the name the slug it states makes.",
     },
     {
       invariantKind: "gap",

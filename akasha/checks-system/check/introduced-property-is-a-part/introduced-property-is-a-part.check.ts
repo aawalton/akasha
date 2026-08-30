@@ -24,8 +24,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every page type is judged whenever the change carries one: a type that stops declaring a property leaves the remaining introducer judged.",
+      statement: "Every page type is judged whenever the change carries one.",
     },
     {
       invariantKind: "departure",
@@ -51,8 +50,7 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Where the property's page stands in the folders is not judged here. Only what names it a part is judged.",
+      statement: "Where the property's page stands in the folders is not judged here.",
     },
     {
       invariantKind: "absence",

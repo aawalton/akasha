@@ -39,7 +39,11 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A restatement narrows: required never loosens.",
+      statement: "A restatement narrows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Required never loosens.",
     },
     {
       invariantKind: "departure",
@@ -56,13 +60,16 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A declaration reaching no page property is not judged here — a name reaching nothing is `relation-resolves`'s to refuse.",
+      statement: "A declaration reaching no page property is not judged here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaching nothing is `relation-resolves`'s to refuse.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges a key's format nor whether any page type declares the property. Those stand elsewhere.",
+        "Nothing here judges a key's format nor whether any page type declares the property.",
     },
   ],
 } as const satisfies Check

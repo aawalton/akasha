@@ -14,7 +14,7 @@ export const noCodeComments = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A comment no program parses is prose — whatever it says.",
+      statement: "A comment no program parses is prose whatever it says.",
     },
     {
       invariantKind: "absence",
@@ -22,7 +22,7 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment is read from the token stream — never from the text.",
+      statement: "A comment is read from the token stream rather than from the text.",
     },
     {
       invariantKind: "departure",

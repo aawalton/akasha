@@ -40,8 +40,11 @@ export const indexAskedNotReached = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This runs on no phase. It states its rule and judges nothing. What it would refuse can be read against the tree before it binds anyone.",
+      statement: "This runs on no phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What it would refuse can be read against the tree before it binds anyone.",
     },
   ],
 } as const satisfies Check

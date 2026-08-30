@@ -14,8 +14,11 @@ export const noImportCycle = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A cycle belongs to the whole folder and to no single file. This runs at audit alone.",
+      statement: "A cycle belongs to the whole folder and to no single file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This runs at audit alone.",
     },
     {
       invariantKind: "departure",

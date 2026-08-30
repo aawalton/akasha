@@ -14,18 +14,20 @@ export const noClass = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "A class extending `Error` is let through: the language gives no other way to make a thrown value carry a type.",
+      statement: "A class extending `Error` is let through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A class expression is judged wherever a declaration would be.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A class expression is never let through.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A class expression is judged wherever a declaration would be. It is never let through.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What a class extends is judged by the name written — never by what that name resolves to.",
+        "What a class extends is judged by the name written rather than by what that name resolves to.",
     },
   ],
 } as const satisfies Check

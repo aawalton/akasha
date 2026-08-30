@@ -14,23 +14,29 @@ export const lintClean = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The files a change is judged by are the ones it carries: what lands is read the way the linter reads what already stands.",
+      statement: "The files a change is judged by are the ones it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Audit is handed every file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Audit is handed every file: the same reading covers one change and the whole tree and neither phase is named here.",
+        "The same reading covers one change and the whole tree and neither phase is named here.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The linter reads a world written out of what the change proposes — never the working tree.",
+        "The linter reads a world written out of what the change proposes rather than the working tree.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The world holds only the files being judged: the linter reads each file on its own and follows no import out of it.",
+      statement: "The world holds only the files being judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The linter reads each file on its own and follows no import out of it.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +44,7 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "Every finding is answered — each against the file it stands in.",
+      statement: "Every finding is answered against the file it stands in.",
     },
     {
       invariantKind: "departure",
@@ -46,13 +52,15 @@ export const lintClean = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here says what the linter looks for. Which rules bind is what the linter is configured by. This carries what it found.",
+      statement: "Nothing here says what the linter looks for.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing is fixed. This says what stands and refuses. What to change is left to whoever wrote it.",
+      statement: "Which rules bind is what the linter is configured by.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is fixed.",
     },
     {
       invariantKind: "constraint",

@@ -14,13 +14,20 @@ export const identifierNamesOnePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The identifiers judged are the properties declaring a `unique`. They are read from the schema.",
+      statement: "The identifiers judged are the properties declaring a `unique`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The identifiers judged are read from the schema.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How far a value must stand alone is the reach its property declares.",
     },
     {
       invariantKind: "departure",
       statement:
-        "How far a value must stand alone is the reach its property declares: `always` across every page and `page-type` among the pages of one type.",
+        "The reach `always` is across every page and the reach `page-type` is among the pages of one type.",
     },
     {
       invariantKind: "departure",
@@ -32,8 +39,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The rule is that the index files one page at a key: two paths standing at one key is the whole of what is refused.",
+      statement: "The rule is that the index files one page at a key.",
     },
     {
       invariantKind: "departure",
@@ -49,8 +55,12 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "absence",
+      statement: "No page outside the change is opened to be judged.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "No page outside the change is opened to be judged — the index answers for it. Working the index out does open the page type and record property pages it names.",
+        "Working the index out does open the page type and record property pages it names.",
     },
   ],
 } as const satisfies Check
