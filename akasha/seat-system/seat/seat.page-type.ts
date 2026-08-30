@@ -34,6 +34,7 @@ export const seat = {
     "record-property/proxy",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
+    "text-property/model",
     "text-property/person-slug",
     "text-property/proxy-version",
     "text-property/registration-account",
@@ -57,6 +58,7 @@ export const seat = {
     { pagePropertySlug: "transcript-path", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
