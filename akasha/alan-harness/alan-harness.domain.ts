@@ -5,7 +5,7 @@ export const alanHarness = {
   pageTypeSlug: "domain",
   slug: "alan-harness",
   definition: "how Alan does things",
-  partSlugs: ["domain/monarch"],
+  partSlugs: ["domain/monarch", "domain/readout-system"],
   invariants: [
     {
       invariantKind: "constraint",
