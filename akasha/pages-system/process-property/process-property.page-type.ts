@@ -18,13 +18,15 @@ export const processProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A pid is handed out again once its process ends, so a pid alone names no run and this is one value rather than two.",
+      statement: "A pid is handed out again once its process ends.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The start time is counted in clock ticks since the machine booted, so a process names its run within one boot.",
+      statement: "The start time is counted in clock ticks after the machine booted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process names its run within one boot.",
     },
     {
       invariantKind: "departure",

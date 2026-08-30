@@ -13,17 +13,19 @@ export const phoneNumberProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A number is written in E.164, opening with `+` and holding digits alone, so two numbers compare as text.",
+      statement: "A number is written in E.164, opening with `+` and holding digits alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A number carries its own country calling code, so none is read against a default country.",
+      statement: "A number carries its own country calling code.",
     },
     {
       invariantKind: "departure",
-      statement: "A number reaching fifteen digits is the longest there is, so none states a max.",
+      statement: "A number reaching fifteen digits is the longest there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A number states no max.",
     },
   ],
 } as const satisfies PageType

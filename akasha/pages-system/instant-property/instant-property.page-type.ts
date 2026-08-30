@@ -13,8 +13,7 @@ export const instantProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An instant is written as ISO 8601 in UTC, to the millisecond, closing with `Z`, so two instants compare as text.",
+      statement: "An instant is written as ISO 8601 in UTC, to the millisecond, closing with `Z`.",
     },
     {
       invariantKind: "departure",

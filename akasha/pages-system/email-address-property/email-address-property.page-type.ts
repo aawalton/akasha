@@ -13,8 +13,7 @@ export const emailAddressProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An address is written in lowercase, so two addresses compare as text without being folded first.",
+      statement: "An address is written in lowercase.",
     },
     {
       invariantKind: "departure",
@@ -22,13 +21,15 @@ export const emailAddressProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A mailbox tagged after `+` reaches the mailbox itself, so two addresses parting only there are one reach.",
+      statement: "A mailbox tagged after `+` reaches the mailbox itself.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An address reaching 254 characters is the longest there is, so none states a max.",
+      statement: "An address reaching 254 characters is the longest there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address states no max.",
     },
   ],
 } as const satisfies PageType
