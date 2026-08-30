@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileDomain, WHOLE } from "./file-domain.context-warrant.code.ts"
@@ -21,17 +23,6 @@ type Standing = {
 }
 
 let minted = 0
-
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
-
-function indexed(root: string, at: string, line: string): void {
-  standing(root, join(".git/data/index", at), `${line}\n`)
-}
 
 function page(root: string, slug: string): Standing {
   minted = minted + 1
@@ -59,16 +50,12 @@ function names(root: string, whole: Standing, part: Standing): void {
   )
 }
 
-function pathsOf(root: string, path: string): readonly string[] {
-  return fileDomain(root, path).map((one) => one.path)
-}
-
 test("a file warrants the page that names it among its parts", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const whole = page(root, "whole")
   const part = page(root, "part")
   names(root, whole, part)
-  expect(pathsOf(root, part.path)).toEqual([whole.path])
+  expect(pathsOf(fileDomain(root, part.path))).toEqual([whole.path])
 })
 
 test("a file standing beside a page warrants what names that page among its parts", () => {
@@ -76,7 +63,7 @@ test("a file standing beside a page warrants what names that page among its part
   const whole = page(root, "whole")
   const part = page(root, "part")
   names(root, whole, part)
-  expect(pathsOf(root, beside(root, part, "code"))).toEqual([whole.path])
+  expect(pathsOf(fileDomain(root, beside(root, part, "code")))).toEqual([whole.path])
 })
 
 test("a warrant carries the body standing at the naming page, and why it is owed", () => {
@@ -96,7 +83,7 @@ test("a file no page names among its parts warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   page(root, "whole")
   const part = page(root, "part")
-  expect(pathsOf(root, part.path)).toEqual([])
+  expect(pathsOf(fileDomain(root, part.path))).toEqual([])
 })
 
 test("a page naming several parts is warranted by each of them", () => {
@@ -106,8 +93,8 @@ test("a page naming several parts is warranted by each of them", () => {
   const two = page(root, "two")
   names(root, whole, one)
   names(root, whole, two)
-  expect(pathsOf(root, one.path)).toEqual([whole.path])
-  expect(pathsOf(root, two.path)).toEqual([whole.path])
+  expect(pathsOf(fileDomain(root, one.path))).toEqual([whole.path])
+  expect(pathsOf(fileDomain(root, two.path))).toEqual([whole.path])
 })
 
 test("a page named among the parts of several pages warrants every one of them, by path", () => {
@@ -117,14 +104,14 @@ test("a page named among the parts of several pages warrants every one of them, 
   const one = page(root, "one")
   names(root, two, part)
   names(root, one, part)
-  expect(pathsOf(root, part.path)).toEqual([one.path, two.path])
+  expect(pathsOf(fileDomain(root, part.path))).toEqual([one.path, two.path])
 })
 
 test("a cold index warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const path = "akasha/part/part.domain.ts"
   standing(root, path, "body\n")
-  expect(pathsOf(root, path)).toEqual([])
+  expect(pathsOf(fileDomain(root, path))).toEqual([])
 })
 
 test("a path standing at no page warrants nothing", () => {
@@ -134,7 +121,7 @@ test("a path standing at no page warrants nothing", () => {
   names(root, whole, part)
   const loose = "akasha/part/loose.ts"
   standing(root, loose, "body\n")
-  expect(pathsOf(root, loose)).toEqual([])
+  expect(pathsOf(fileDomain(root, loose))).toEqual([])
 })
 
 test("a naming page the index no longer holds warrants nothing of itself", () => {
@@ -143,7 +130,7 @@ test("a naming page the index no longer holds warrants nothing of itself", () =>
   const part = page(root, "part")
   names(root, whole, part)
   rmSync(join(root, PAGES_AT, `${whole.id}.jsonl`))
-  expect(pathsOf(root, part.path)).toEqual([])
+  expect(pathsOf(fileDomain(root, part.path))).toEqual([])
 })
 
 test("a naming page whose body is gone warrants nothing of itself", () => {
@@ -152,14 +139,14 @@ test("a naming page whose body is gone warrants nothing of itself", () => {
   const part = page(root, "part")
   names(root, whole, part)
   rmSync(join(root, whole.path))
-  expect(pathsOf(root, part.path)).toEqual([])
+  expect(pathsOf(fileDomain(root, part.path))).toEqual([])
 })
 
 test("a page naming itself among its parts warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const one = page(root, "one")
   names(root, one, one)
-  expect(pathsOf(root, one.path)).toEqual([])
+  expect(pathsOf(fileDomain(root, one.path))).toEqual([])
 })
 
 test("a naming page not read is refused, and the refusal says why it is owed", () => {

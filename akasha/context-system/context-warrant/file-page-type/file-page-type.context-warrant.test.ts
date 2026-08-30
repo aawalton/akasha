@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
@@ -15,18 +17,7 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const PATH = "akasha/thing/thing.module.ts"
 
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
-
 let minted = 0
-
-function indexed(root: string, at: string, line: string): void {
-  standing(root, join(".git/data/index", at), `${line}\n`)
-}
 
 function pageType(root: string, slug: string, above: string | null): string {
   minted = minted + 1
@@ -53,15 +44,11 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
   return filePageType(root, path, knowingIn(root))
 }
 
-function pathsOf(root: string, path: string): readonly string[] {
-  return warrantsAt(root, path).map((one) => one.path)
-}
-
 test("a page warrants its type, and every type that one extends", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   const chain = typeWorld(root)
   standing(root, PATH, "one\n")
-  expect(pathsOf(root, PATH)).toEqual(chain)
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual(chain)
 })
 
 test("a type warrants the body standing at the type's page", () => {
@@ -85,7 +72,7 @@ test("a file standing beside a page warrants no type of its own", () => {
   )
   const beside = "akasha/thing/thing.module.code.ts"
   standing(root, beside, "body\n")
-  expect(pathsOf(root, beside)).toEqual([])
+  expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
 test("a file named for no page type warrants no type", () => {
@@ -93,7 +80,7 @@ test("a file named for no page type warrants no type", () => {
   typeWorld(root)
   const beside = "akasha/thing/thing.module.notes.ts"
   standing(root, beside, "body\n")
-  expect(pathsOf(root, beside)).toEqual([])
+  expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
 test("a file naming no page type in its name answers to no type", () => {
@@ -101,7 +88,7 @@ test("a file naming no page type in its name answers to no type", () => {
   typeWorld(root)
   const loose = "akasha/thing/loose.ts"
   standing(root, loose, "body\n")
-  expect(pathsOf(root, loose)).toEqual([])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([])
 })
 
 test("a chain that turns back on itself is walked once", () => {
@@ -110,7 +97,7 @@ test("a chain that turns back on itself is walked once", () => {
   const two = pageType(root, "two", "one")
   const at = "akasha/thing/thing.one.ts"
   standing(root, at, "body\n")
-  expect(pathsOf(root, at)).toEqual([one, two])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])
 })
 
 test("a type whose page is not there warrants nothing of itself", () => {
@@ -118,7 +105,7 @@ test("a type whose page is not there warrants nothing of itself", () => {
   const chain = typeWorld(root)
   standing(root, PATH, "one\n")
   rmSync(join(root, chain[0] ?? ""))
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a type not read is refused, and the refusal says the type is owed", () => {

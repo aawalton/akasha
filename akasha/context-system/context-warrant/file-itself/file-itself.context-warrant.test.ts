@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
+import { mkdirSync } from "node:fs"
+import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
@@ -10,13 +10,6 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const PATH = "akasha/thing/thing.module.ts"
-
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
 
 test("a file warrants itself, by the body standing at it", () => {
   const root = scratch.rootFor("akasha-file-itself-")
