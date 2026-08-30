@@ -59,8 +59,11 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a hook refuses is handed in as data; the runner knows only the shape of a judgement, not what any hook judges.",
+      statement: "What a hook refuses is handed in as data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The runner knows only the shape of a judgement, not what any hook judges.",
     },
   ],
 } as const satisfies Module
