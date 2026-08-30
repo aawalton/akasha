@@ -27,11 +27,6 @@ export const holding = {
     {
       invariantKind: "departure",
       statement:
-        "A holder is weighed by the moment its process started as well as its number, so a pid used again is no holder.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A hold naming no holder that can be read is taken once it has stood too long, so a mark nobody wrote wedges nothing.",
     },
     {

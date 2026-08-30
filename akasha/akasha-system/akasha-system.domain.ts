@@ -10,6 +10,7 @@ export const akashaSystem = {
     "domain/akasha-data",
     "domain/akasha-text",
     "domain/akasha-file",
+    "domain/file-system",
     "domain/pages-system",
     "domain/domain-system",
     "domain/graph-system",
