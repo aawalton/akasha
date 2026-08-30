@@ -78,8 +78,11 @@ export const readout = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "What a readout shows is stated on the readout; where and how big is the display's.",
+      statement: "What a readout shows is stated on the readout.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Where and how big is the display's.",
     },
   ],
 } as const satisfies PageType
