@@ -146,6 +146,17 @@ export function carryReadings(root: string, carries: readonly Carry[]): undefine
   }
 }
 
+export function dropReadings(root: string, paths: readonly string[]): undefined {
+  const agentIds = agentIdsIn(root)
+  for (const path of paths) {
+    for (const agentId of agentIds) {
+      try {
+        rmSync(readingFileAt(root, agentId, path), { force: true })
+      } catch {}
+    }
+  }
+}
+
 function same(one: Opening, other: Opening): boolean {
   return one.dev === other.dev && one.ino === other.ino
 }

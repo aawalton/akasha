@@ -73,6 +73,11 @@ export const reading = {
         "An acting name the seat's id does not begin is not honoured, and the seat owns the record instead.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A removal forgets the reading of what went, for every agent, because no body stands at that path to have been read.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing stands in the record that did not reach the agent.",
     },
