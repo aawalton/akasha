@@ -12,7 +12,7 @@ export const blockAkashaEdits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is refused for where it writes, never for what it is.",
+      statement: "A call is refused for where it writes rather than for what it is.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const blockAkashaEdits = {
     },
     {
       invariantKind: "departure",
-      statement: "A path arrives as tool input, and is never parsed out of text.",
+      statement: "A path arrives as tool input and is never parsed out of text.",
     },
     {
       invariantKind: "departure",
