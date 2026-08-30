@@ -4,18 +4,21 @@ export const constantIdentifier = {
   id: "01a04fc9-2ad8-7f99-9d3a-bbae29319b17",
   pageTypeSlug: "name-place",
   slug: "constant-identifier",
-  definition: "the name standing for a value written where it stands",
+  definition: "the name data carries at the top of a file, outside any function",
   nameFormatSlug: "name-format/upper-snake-case",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A value written where it stands is fixed for the life of the file, and its case says so at every use.",
+      statement: "Data is data whether it is written out or built as the file loads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A regular expression, a set of fixed words, and a plain string are alike data.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A regular expression, a set of fixed words, and a plain string are alike written where they stand.",
+        "A name bound to a function is a function wherever it stands, so what a file calls is never named as its data.",
     },
   ],
 } as const satisfies NamePlace
