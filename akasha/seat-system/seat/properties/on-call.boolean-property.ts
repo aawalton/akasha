@@ -11,7 +11,11 @@ export const onCall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What is not on call states false; a page cleared of this is refused.",
+      statement: "What is not on call states false.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page cleared of this is refused.",
     },
   ],
 } as const satisfies BooleanProperty

@@ -17,13 +17,19 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat's id is the agent's id; what an agent has read is found by the seat it works from.",
+      statement: "A seat's id is the agent's id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What an agent has read is found by the seat it works from.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "What is observed of a seat changes every few seconds; a write that commits cannot carry it.",
+      statement: "What is observed of a seat changes every few seconds.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A write that commits cannot carry what is observed of a seat.",
     },
     {
       invariantKind: "departure",

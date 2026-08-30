@@ -31,18 +31,24 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The value goes in first in the literal; every page reads the same way down the page.",
+      statement: "The value goes in first in the literal.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index that will not answer works nothing out; the checks then refuse the page for the value it lacks, and a caller can still write to a repository whose index is damaged.",
+      statement: "An index that will not answer works nothing out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller can still write to a repository whose index is damaged.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Whether the page type declares the property is not asked here.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Whether the page type declares the property is not asked here; a second early property can go into a page whose type declares none, but the checks refuse it and nothing lands.",
+        "A second early property can go into a page whose type declares none, and the checks refuse it.",
     },
     {
       invariantKind: "absence",

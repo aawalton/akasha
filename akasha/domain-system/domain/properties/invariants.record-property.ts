@@ -23,7 +23,7 @@ export const invariants = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One list holds every invariant; each entry states the kind it is.",
+      statement: "One list holds every invariant.",
     },
     {
       invariantKind: "departure",

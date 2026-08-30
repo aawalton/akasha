@@ -39,7 +39,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "What a call said is read here; what it asked for is landed by `asking`.",
+      statement: "What a call said is read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a call asked for is landed by `asking`.",
     },
     {
       invariantKind: "departure",
@@ -54,12 +58,19 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A path taken away carries the files standing beside it, like `move` and `remove` do; a page and the files it claims are taken away together or not at all.",
+        "A path taken away carries the files standing beside it, like `move` and `remove` do.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file carried along beside a path taken away is not warranted, being the machine's own choice rather than the caller's; what the caller warranted is the page claiming it.",
+      statement: "A page and the files it claims are taken away together or not at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carried along beside a path taken away is not warranted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the caller warranted is the page claiming it.",
     },
     {
       invariantKind: "departure",
@@ -71,8 +82,11 @@ export const write = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "`move` and `remove` warrant nothing, their changes being the machine's own; a path this call takes away was chosen by whoever called it, and is warranted.",
+      statement: "`move` and `remove` warrant nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A path this call takes away was chosen by whoever called it, and is warranted.",
     },
     {
       invariantKind: "gap",
