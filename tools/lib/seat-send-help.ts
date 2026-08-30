@@ -33,8 +33,8 @@ export const help: CommandHelp = {
       argLabel: "<slug>",
       valueShape: "token",
       description:
-        "The person this message is for, by the slug their document under " +
-        "pages/person/ declares. Stated alone — being that person is the whole " +
+        "The person this message is for, by the slug their own page " +
+        "states. Stated alone — being that person is the whole " +
         "address. Refused for a person this system carries no mailbox for, naming " +
         "the persona who does reach them.",
     },
