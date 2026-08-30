@@ -11,7 +11,7 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties are generated is read from the pages the index names, never from a list written in code.",
+        "Which properties are generated is read from the pages the index names rather than from a list written in code.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "The shadow is what is asked, never a root.",
+      statement: "The shadow is what is asked rather than a root.",
     },
     {
       invariantKind: "absence",
