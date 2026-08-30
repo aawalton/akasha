@@ -86,7 +86,7 @@ function codeFor(one: Said): string {
 
 let minted = 0
 
-function warranting(root: string, every: readonly Said[]): void {
+function warranting(root: string, every: readonly Said[]): undefined {
   mkdirSync(join(root, WARRANTS_AT), { recursive: true })
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
   for (const one of every) {
