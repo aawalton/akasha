@@ -17,8 +17,11 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file not yet standing warrants nothing of itself, there being no body to have read; whatever else warrants it stands unchanged.",
+      statement: "A file not yet standing warrants nothing of itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whatever else warrants it stands unchanged.",
     },
     {
       invariantKind: "departure",

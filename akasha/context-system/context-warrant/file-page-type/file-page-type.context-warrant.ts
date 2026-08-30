@@ -13,8 +13,11 @@ export const filePageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page answers to its type, and to every type that one extends, so what a page is held to is read before the page is changed.",
+      statement: "A page answers to its type, and to every type that one extends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a page is held to is read before the page is changed.",
     },
     {
       invariantKind: "departure",

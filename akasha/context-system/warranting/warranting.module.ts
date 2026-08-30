@@ -20,8 +20,11 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A warrant carries why the reading is owed, so a refusal says what is owed rather than only that something is.",
+      statement: "A warrant carries why the reading is owed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal says what is owed rather than only that something is.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +38,7 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "Warrants stand over an authored change alone. A change the machine made carries no judgement, so no reading informs it.",
+        "Warrants stand over an authored change alone. A change the machine made carries no judgement.",
     },
     {
       invariantKind: "departure",
@@ -57,8 +60,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Warrants that cannot be worked out hand back the paths handed in, so a read answers what it can.",
+      statement: "Warrants that cannot be worked out hand back the paths handed in.",
     },
     {
       invariantKind: "gap",

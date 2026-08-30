@@ -9,15 +9,13 @@ export const warrantScratch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Where the index stands is reached through the reader that says it, so a test standing " +
-        "one up never spells the path a refusal would name.",
+      statement: "Where the index stands is reached through the reader that says it.",
     },
     {
       invariantKind: "departure",
       statement:
         "What a warrant answered is read for its paths alone, and the warrant that answered is " +
-        "named at the call, so a test never hides which one it is asking.",
+        "named at the call.",
     },
     {
       invariantKind: "absence",
@@ -27,9 +25,11 @@ export const warrantScratch = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No test is written here, as none is written for check-scratch. What stands here is " +
-        "stood up by the warrant tests that reach for it.",
+      statement: "No test is written here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What stands here is stood up by the warrant tests that reach for it.",
     },
   ],
 } as const satisfies Module
