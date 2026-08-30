@@ -6,8 +6,12 @@ import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import {
   everyPath,
+  identityAt,
+  importAt,
   importersOf,
   indexIn,
+  pathAt,
+  relationAt,
   schemaOf,
   standingById,
   standingByPath,
@@ -204,4 +208,12 @@ test("what imports a file is refused when a commit the index never saw stands", 
   gitIn(root, ["commit", "--quiet", "-m", "late", "--", "akasha/late.ts"])
 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
+})
+
+test("an index's own place is answered under the index root, one folder to an index", () => {
+  const held = [identityAt(), importAt(), pathAt(), relationAt()]
+
+  expect(new Set(held).size).toBe(held.length)
+  for (const one of held) expect(one.startsWith(indexIn(""))).toBe(true)
+  expect(identityAt("page", "id")).toBe(`${identityAt()}/page/id`)
 })

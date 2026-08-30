@@ -56,6 +56,22 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
+export function identityAt(...parts: readonly string[]): string {
+  return indexAt(IDENTITY, ...parts)
+}
+
+export function importAt(...parts: readonly string[]): string {
+  return indexAt(IMPORT, ...parts)
+}
+
+export function pathAt(...parts: readonly string[]): string {
+  return indexAt(PATH, ...parts)
+}
+
+export function relationAt(...parts: readonly string[]): string {
+  return indexAt(RELATION, ...parts)
+}
+
 function overIndex(given: string | Reading): Reading {
   return readingOf(typeof given === "string" ? indexIn(given) : given)
 }

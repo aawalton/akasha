@@ -38,6 +38,11 @@ export const indexReading = {
         "Where an index stands is said here alone, as a path under the root, so a caller that must name one in a refusal says the path it reached rather than spelling it again.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Each index's own place is answered here as well as the root, so a caller naming one spells neither where the index stands nor what the index is called.",
+    },
+    {
       invariantKind: "absence",
       statement: "An answer about one page reads no stamp.",
     },
