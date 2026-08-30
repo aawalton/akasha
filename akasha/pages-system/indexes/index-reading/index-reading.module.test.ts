@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
@@ -12,6 +12,7 @@ import {
   standingById,
   standingByPath,
 } from "./index-reading.module.code.ts"
+import { filed } from "./index-reading.module.test-fixtures.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -22,12 +23,6 @@ afterAll(scratch.sweep)
 
 function rootAt(): string {
   return scratch.rootFor("akasha-reading-")
-}
-
-function filed(root: string, at: string, lines: readonly string[]): undefined {
-  const path = join(indexIn(root), at)
-  mkdirSync(dirname(path), { recursive: true })
-  writeFileSync(path, `${lines.join("\n")}\n`)
 }
 
 function line(path: string, id: string): string {
