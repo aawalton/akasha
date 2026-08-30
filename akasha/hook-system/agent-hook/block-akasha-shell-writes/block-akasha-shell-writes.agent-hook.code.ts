@@ -19,7 +19,21 @@ const COPY = "cp"
 
 const MOVE = "mv"
 
+const TEE = "tee"
+
+const DD = "dd"
+
+const REDIRECTED = "a redirect"
+
 const INTO = new Set(["-t", "--target-directory"])
+
+const IN_PLACE = new Set(["sed", "perl", "ruby", "awk", "gawk", "mawk"])
+
+const IN_PLACE_LONG = "--in-place"
+
+const IN_PLACE_FLAG = /^-[0-9a-z]*i[0-9a-z.]*$/
+
+const OUT_FILE = /^of=(.+)$/
 
 const REDIRECT = /^\d*>>?(.*)$/
 
@@ -41,6 +55,16 @@ function intoOf(words: readonly string[]): string | null {
 
 function operandsOf(words: readonly string[]): readonly string[] {
   return words.slice(1).filter((one) => !one.startsWith("-"))
+}
+
+export function editsInPlace(words: readonly string[]): boolean {
+  for (let at = 1; at < words.length; at += 1) {
+    const word = words[at]
+    if (word === undefined) continue
+    if (word === IN_PLACE_LONG || word.startsWith(`${IN_PLACE_LONG}=`)) return true
+    if (IN_PLACE_FLAG.test(word)) return true
+  }
+  return false
 }
 
 export function redirectsIn(words: readonly string[]): readonly string[] {
@@ -71,17 +95,27 @@ export function landingsIn(command: string): readonly Landing[] {
         const last = into ?? (operands.length > 1 ? operands[operands.length - 1] : undefined)
         if (last !== undefined && last !== "") found.push({ at: last, how: tool })
       }
+      if (tool === TEE || (IN_PLACE.has(tool) && editsInPlace(words))) {
+        for (const one of operandsOf(words)) found.push({ at: one, how: tool })
+      }
+      if (tool === DD) {
+        for (const word of words.slice(1)) {
+          const said = OUT_FILE.exec(word)
+          const target = said?.[1]
+          if (target !== undefined && target !== "") found.push({ at: target, how: tool })
+        }
+      }
     }
-    for (const target of redirectsIn(words)) found.push({ at: target, how: "a redirect" })
+    for (const target of redirectsIn(words)) found.push({ at: target, how: REDIRECTED })
   }
   return found
 }
 
 function refusing(how: string, shown: string, index: boolean): string {
   const said =
-    how === COPY || how === MOVE
-      ? `${HOOK_NAME}: \`${how}\` lands on \`${shown}\``
-      : `${HOOK_NAME}: a redirect lands on \`${shown}\``
+    how === REDIRECTED
+      ? `${HOOK_NAME}: a redirect lands on \`${shown}\``
+      : `${HOOK_NAME}: \`${how}\` lands on \`${shown}\``
   if (index) {
     return [
       `${said}, inside the akasha index.`,

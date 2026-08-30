@@ -4,7 +4,7 @@ export const blockAkashaShellWrites = {
   id: "01a04ee9-8899-7bf9-a3e7-3322e3b145d7",
   pageTypeSlug: "agent-hook",
   slug: "block-akasha-shell-writes",
-  definition: "the hook refusing a copy, a move or a redirect that lands inside akasha",
+  definition: "the hook refusing a shell write that lands inside akasha",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -22,25 +22,24 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
-        "Only a copy, a move and a redirect are sampled, so this narrows an open world rather than closing it.",
+        "A copy or a move is judged on where it puts things, so reading a file out of akasha stands.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A copy or a move is judged on where it puts things, so reading a file out of akasha stands.",
+        "A tool told to write the file it reads is judged on every path it names, the flag saying so being what parts it from the same tool reading.",
     },
     {
       invariantKind: "departure",
       statement: "A descriptor redirected onto another is no path, and is passed over.",
     },
     {
-      invariantKind: "absence",
-      statement:
-        "This closes nothing. A shell writes a file in more ways than can be named, and every one not named here still lands.",
+      invariantKind: "gap",
+      statement: "No shell write reaches inside a guarded root.",
     },
     {
       invariantKind: "gap",
-      statement: "No shell write reaches inside a guarded root.",
+      statement: "A path a word stands for rather than spells is judged as a spelled one is.",
     },
   ],
 } as const satisfies AgentHook
