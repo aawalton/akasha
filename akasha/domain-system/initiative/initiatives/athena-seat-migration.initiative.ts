@@ -10,11 +10,6 @@ export const athenaSeatMigration = {
   invariants: [
     {
       invariantKind: "gap",
-      statement:
-        "What a seat states and what is observed of it are each declared in akasha, settled one property at a time.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Every writer of a seat writes it to both systems.",
     },
     {
@@ -41,6 +36,7 @@ export const athenaSeatMigration = {
     "A seat's uncommitted values are reached only through its committed page: `seatPageForAgent` maps an agent's id to a path by reading the `id:` frontmatter of every `agent/seat/*.seat.md`. Taking the old page away orphans the sidecar beside it even where the sidecar survives, so the id lookup answers from akasha before the old page goes. Two readers stop degrading quietly and throw when it does: `setControl` in `tools/lib/seat-control.ts`, and `waitForActionCleared` in `tools/lib/seat-action.ts` on a missing sidecar alone.",
     "A reader that cannot find a seat answers with nothing rather than refusing, all the way down through the id lookup, the page read and the value read. Once the readers move, that shape turns a mispointed root from an error into a fleet that reads as empty, so a moved reader refuses a root it finds no seat under.",
     "The generic page machinery reads seats without naming them. `filedPagesOf` walks the `files:` glob stated on the old page type, so the relation gate and four audits open every seat page with no literal `seat` at the call site. The sidecar beside a page is merged over the committed frontmatter whether or not the type declares it, so a key nothing declares still reaches every reader.",
-    "The four turn keys and `errand` are carried by nothing that runs, so they are left out rather than migrated and are rebuilt later. The six turn hooks are unregistered, `turn-end-decide` lost both its callers, and the `ops` CLI is refused by a hook and broken at its imports. Three of the four turn keys stand on no seat, the fourth stands as `idle` on ten and is written once at launch, and no seat page carries an `errand` line.",
+    "The four turn keys are carried by nothing that runs, so they are left out rather than migrated and are rebuilt later. The six turn hooks are unregistered, `turn-end-decide` lost both its callers, and the `ops` CLI is refused by a hook and broken at its imports. Three of the four stand on no seat, and the fourth stands as `idle` on ten and is written once at launch. `errand` was the same and is gone.",
+    "The akasha sidecar holds a plain value under a camelCase key rather than the old store's `{value, at}` pair, and nothing checks an uncommitted value against its property, so a writer that must honour a `max` checks it before writing. `keepLastMessagedAt` in `tools/lib/akasha-personas.ts` is that shape already.",
   ],
 } as const satisfies Initiative
