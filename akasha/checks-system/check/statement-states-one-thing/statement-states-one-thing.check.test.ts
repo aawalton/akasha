@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { bodiesAt } from "../../../testing-system/bodying/bodying.module.code.ts"
-import { reasonsIn, splitAt, statementsIn } from "./no-why-in-a-statement.check.code.ts"
+import { reasonsIn, splitAt, statementsIn } from "./statement-states-one-thing.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -11,8 +11,8 @@ const AT = "akasha/held.check.ts"
 const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = [
-  "no-why-in-a-statement.check.code.ts",
-  "no-why-in-a-statement.check.test.ts",
+  "statement-states-one-thing.check.code.ts",
+  "statement-states-one-thing.check.test.ts",
 ]
 
 const given = bodiesAt(ROOT, AT)

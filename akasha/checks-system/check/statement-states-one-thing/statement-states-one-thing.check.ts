@@ -1,10 +1,10 @@
 import type { Check } from "../check.page-type.ts"
 
-export const noWhyInAStatement = {
+export const statementStatesOneThing = {
   id: "01a05407-306d-7b50-85c4-bf43575aa786",
   pageTypeSlug: "check",
-  slug: "no-why-in-a-statement",
-  definition: "the check refusing a statement that says why, or holds more than one fact",
+  slug: "statement-states-one-thing",
+  definition: "the check refusing a statement that says why or holds more than one thing",
   code: "ts",
   test: "ts",
   runsOnPatch: false,

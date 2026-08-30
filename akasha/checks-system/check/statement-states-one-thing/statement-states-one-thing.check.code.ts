@@ -124,4 +124,4 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(found)
 
-export const noWhyInAStatement = judgingEachFile(reasonsIn)
+export const statementStatesOneThing = judgingEachFile(reasonsIn)
