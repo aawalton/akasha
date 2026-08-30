@@ -8,6 +8,7 @@ import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
 import type { ValueSlug } from "./properties/value-slug.text-property.ts"
 import type { VoiceInstruction } from "./properties/voice-instruction.text-property.ts"
+import type { VoiceReferenceSha256 } from "./properties/voice-reference-sha256.text-property.ts"
 
 export type Persona = Domain & {
   purpose: Purpose
@@ -18,6 +19,7 @@ export type Persona = Domain & {
   emailAddress?: EmailAddress
   championedDomainSlug?: ChampionedDomainSlug
   voiceInstruction?: VoiceInstruction
+  voiceReferenceSha256?: VoiceReferenceSha256
 }
 
 export const persona = {
@@ -36,6 +38,7 @@ export const persona = {
     "text-property/role-slug",
     "text-property/value-slug",
     "text-property/voice-instruction",
+    "text-property/voice-reference-sha256",
   ],
   properties: [
     { pagePropertySlug: "purpose", required: true, many: false },
@@ -46,6 +49,7 @@ export const persona = {
     { pagePropertySlug: "email-address", required: false, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
     { pagePropertySlug: "voice-instruction", required: false, many: false },
+    { pagePropertySlug: "voice-reference-sha256", required: false, many: false },
   ],
   invariants: [
     {
