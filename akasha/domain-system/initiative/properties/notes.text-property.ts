@@ -13,8 +13,11 @@ export const notes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A note says why the work is ordered as it is, where an intent says only what is not yet so.",
+      statement: "A note says why the work is ordered as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent says only what is not yet so.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +25,11 @@ export const notes = {
     },
     {
       invariantKind: "absence",
-      statement: "A note is no intent, and meeting one is not something anyone can do.",
+      statement: "A note is no intent.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Meeting a note is not something anyone can do.",
     },
   ],
 } as const satisfies TextProperty

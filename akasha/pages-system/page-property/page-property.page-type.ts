@@ -35,7 +35,7 @@ export const pageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What shape a property has is the page type it is, never a value it states.",
+      statement: "What shape a property has is the page type it is rather than a value it states.",
     },
     {
       invariantKind: "departure",
@@ -47,12 +47,16 @@ export const pageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "How many of a property a page carries is stated where it is declared, not here.",
+      statement:
+        "How many of a property a page carries is stated where it is declared rather than here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property is reached by its slug and read by its key, and the two answer to different reaches.",
+      statement: "A property is reached by its slug and read by its key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two answer to different reaches.",
     },
   ],
 } as const satisfies PageType

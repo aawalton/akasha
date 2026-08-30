@@ -9,13 +9,20 @@ export const change = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A change is shown twice over, and anything reading only `after` sees a state rather than a change.",
+      statement: "A change is shown twice over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything reading only `after` sees a state rather than a change.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`before` and `after` answer for any path, not only one the change carries, and a path it never touched reads the base commit through both.",
+        "`before` and `after` answer for any path rather than only one the change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path it never touched reads the base commit through both.",
     },
     {
       invariantKind: "departure",

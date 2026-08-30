@@ -10,12 +10,15 @@ export const akashaPropertyKeys = {
     {
       invariantKind: "gap",
       statement:
-        "A page property states the key its value is carried under, apart from the slug it is reached by.",
+        "A page property states the key its value is carried under apart from the slug it is reached by.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A key names one property among those a page type carries, counting what it inherits, and a page type restating a key narrows the property already standing under it.",
+      statement: "A key names one property among those a page type carries or inherits.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A page type restating a key narrows the property already standing under it.",
     },
     {
       invariantKind: "gap",
@@ -24,7 +27,7 @@ export const akashaPropertyKeys = {
     {
       invariantKind: "gap",
       statement:
-        "Whatever reads a page's key reads it from the property, never from the property's slug.",
+        "Whatever reads a page's key reads it from the property rather than from the property's slug.",
     },
   ],
   notes: [

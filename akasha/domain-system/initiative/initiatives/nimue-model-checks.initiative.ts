@@ -14,6 +14,11 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
+      statement:
+        "A value minted into a change is worked out from the index that change would leave.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Which checks stand is read from the shadow.",
     },
     {
@@ -23,7 +28,7 @@ export const nimueModelChecks = {
     {
       invariantKind: "gap",
       statement:
-        "A move renames a page's slug and repoints every typed edge that addresses it, in the same act.",
+        "A move renames a page's slug and repoints every typed edge that addresses it in the same act.",
     },
     {
       invariantKind: "gap",
@@ -32,17 +37,21 @@ export const nimueModelChecks = {
     },
     {
       invariantKind: "gap",
-      statement: "The phases a check states belong to the checks system, not to one kind of check.",
+      statement:
+        "The phases a check states belong to the checks system rather than to one kind of check.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A check judged by code is a code check.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Check is what both kinds of check stand under.",
     },
     {
       invariantKind: "gap",
       statement:
-        "A check judged by code is a code check, and check is what both kinds of check stand under.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A model check is a page type stating a prompt, its cases, a model family, and the phases it runs on.",
+        "A model check is a page type stating a prompt and its cases and a model family and the phases it runs on.",
     },
     {
       invariantKind: "gap",
@@ -50,7 +59,11 @@ export const nimueModelChecks = {
     },
     {
       invariantKind: "gap",
-      statement: "A model check's cases are run, and one whose cases fail does not land.",
+      statement: "A model check's cases are run.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A model check whose cases fail does not land.",
     },
     {
       invariantKind: "gap",

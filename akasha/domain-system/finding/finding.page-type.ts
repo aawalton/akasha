@@ -48,7 +48,7 @@ export const finding = {
     {
       invariantKind: "departure",
       statement:
-        "If the same observation comes up again, it is filed as a new finding rather than the old one restored.",
+        "If the same observation comes up again it is filed as a new finding rather than the old one restored.",
     },
     {
       invariantKind: "absence",

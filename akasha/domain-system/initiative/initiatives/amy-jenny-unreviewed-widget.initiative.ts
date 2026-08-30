@@ -10,6 +10,23 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
+      statement: "Monarch's unreviewed transactions are a readout carrying the reading last taken.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The credential that guards a readout route is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
+    },
+    {
+      invariantKind: "gap",
       statement: "The ring a categorize tile draws is in akasha.",
     },
     {
@@ -27,19 +44,6 @@ export const amyJennyUnreviewedWidget = {
     {
       invariantKind: "gap",
       statement: "Alan's iOS app is built from akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The credential that guards a readout route is in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "Alan's categorization route is in akasha, answering from the readout rather than from Monarch.",
     },
     {
       invariantKind: "gap",
@@ -78,8 +82,6 @@ export const amyJennyUnreviewedWidget = {
     "What a readout shows when nothing is left is carried by the readout, so it arrived with the page type rather than as an intent of its own.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "Dropping the arc drops the fraction, and the fraction is the only reader of intake, so the wire narrows to the one count that is shown.",
-    "The credential guarding a readout route waits on work being built elsewhere, so it sits beside the reading's taker rather than early.",
-    "The route cannot move before the credential, the readers it uses and the reading itself, and its generated `+types` import cannot move at all until the web app does.",
     "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
   ],
 } as const satisfies Initiative

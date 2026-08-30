@@ -42,7 +42,7 @@ export const domain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "What makes a page a domain is its page type, never the folder it sits in.",
+      statement: "What makes a page a domain is its page type rather than the folder it sits in.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,8 @@ export const domain = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug and a definition is a whole domain, not a stub waiting to be filled in.",
+      statement:
+        "A slug and a definition is a whole domain rather than a stub waiting to be filled in.",
     },
     {
       invariantKind: "departure",

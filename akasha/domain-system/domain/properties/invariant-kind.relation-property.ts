@@ -13,7 +13,7 @@ export const invariantKind = {
     {
       invariantKind: "constraint",
       statement:
-        "The plain word `kind` names which kind of value a property holds, never which kind of invariant.",
+        "The plain word `kind` names which kind of value a property holds rather than which kind of invariant.",
     },
   ],
 } as const satisfies RelationProperty

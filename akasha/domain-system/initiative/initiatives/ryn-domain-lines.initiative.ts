@@ -13,7 +13,7 @@ export const rynDomainLines = {
     },
     {
       invariantKind: "gap",
-      statement: "A prompt is run over a text by hand, and its answers counted.",
+      statement: "A prompt run over a text by hand has its answers counted.",
     },
     {
       invariantKind: "gap",

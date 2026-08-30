@@ -38,7 +38,7 @@ export const page = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is one exported object, named for the page's slug.",
+      statement: "A page is one exported object named for the page's slug.",
     },
     {
       invariantKind: "absence",
@@ -51,7 +51,7 @@ export const page = {
     {
       invariantKind: "departure",
       statement:
-        "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
+        "A page's identity is a uuid version 7 unchanged when its path or slug or title changes.",
     },
     {
       invariantKind: "departure",

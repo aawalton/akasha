@@ -14,8 +14,7 @@ export const directiveKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every kind of directive stands as the same four lines, and differs in what it is.",
+      statement: "Every kind of directive stands as the same four lines and differs in what it is.",
     },
   ],
 } as const satisfies PageType

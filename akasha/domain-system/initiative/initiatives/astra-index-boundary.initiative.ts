@@ -14,7 +14,7 @@ export const astraIndexBoundary = {
     {
       invariantKind: "gap",
       statement:
-        "Nothing outside the indexes folder knows where the index stands, what shape the files under it take, or how one of them is read.",
+        "Nothing outside the indexes folder knows where the index stands or what shape the files under it take or how one of them is read.",
     },
     {
       invariantKind: "gap",
@@ -23,7 +23,7 @@ export const astraIndexBoundary = {
     {
       invariantKind: "gap",
       statement:
-        "What crosses the boundary is a question, its answer, or the index as a change leaves it.",
+        "What crosses the boundary is a question or its answer or the index as a change leaves it.",
     },
     {
       invariantKind: "gap",
