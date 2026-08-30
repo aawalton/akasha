@@ -7,6 +7,7 @@ import type { Origin } from "./properties/origin.relation-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
 import type { ValueSlug } from "./properties/value-slug.text-property.ts"
+import type { VoiceInstruction } from "./properties/voice-instruction.text-property.ts"
 
 export type Persona = Domain & {
   purpose: Purpose
@@ -16,6 +17,7 @@ export type Persona = Domain & {
   origin: Origin
   emailAddress?: EmailAddress
   championedDomainSlug?: ChampionedDomainSlug
+  voiceInstruction?: VoiceInstruction
 }
 
 export const persona = {
@@ -33,6 +35,7 @@ export const persona = {
     "text-property/purpose",
     "text-property/role-slug",
     "text-property/value-slug",
+    "text-property/voice-instruction",
   ],
   properties: [
     { pagePropertySlug: "purpose", required: true, many: false },
@@ -42,6 +45,7 @@ export const persona = {
     { pagePropertySlug: "origin", required: true, many: false },
     { pagePropertySlug: "email-address", required: false, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
+    { pagePropertySlug: "voice-instruction", required: false, many: false },
   ],
   invariants: [
     {
