@@ -14,7 +14,7 @@ export const noWhyInAStatement = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A statement is found by parsing the file, never by loading the page.",
+      statement: "A statement is found by parsing the file rather than by loading the page.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const noWhyInAStatement = {
     {
       invariantKind: "departure",
       statement:
-        "A statement is refused for the words joining two facts in it, never for holding two.",
+        "A statement is refused for the words joining two facts rather than for holding two.",
     },
     {
       invariantKind: "gap",

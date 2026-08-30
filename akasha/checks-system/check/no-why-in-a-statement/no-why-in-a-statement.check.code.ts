@@ -12,8 +12,6 @@ const TRAILING = /[\s,;]+$/
 
 const LEADING = /^[\s,;]+/
 
-const COMMA = /^[\s,]+/
-
 export type Stated = {
   readonly line: number
   readonly text: string
@@ -74,7 +72,7 @@ export function splitAt(one: Stated): Split | null {
   return {
     line: one.line,
     drawn: held[2] !== undefined,
-    mark: held[0].replace(COMMA, ""),
+    mark: held[0],
     first: one.text.slice(0, held.index).replace(TRAILING, ""),
     second: one.text.slice(held.index).replace(LEADING, ""),
   }
