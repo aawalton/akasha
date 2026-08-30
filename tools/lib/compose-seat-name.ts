@@ -1,14 +1,9 @@
 
-import { existsSync, readFileSync } from "node:fs"
 import { answeredByOf, peopleStanding } from "./akasha-people.ts"
-import { CHAMPIONED_DOMAIN_KEY } from "./domain.ts"
-import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { pageRelIn } from "../../page/page-types.ts"
-import { documentFor, personaIsDefault } from "./seat-resolve.ts"
+import { personaAt } from "./akasha-personas.ts"
+import { personaIsDefault } from "./seat-resolve.ts"
 
 export const JOINER = "-"
-
-const DEFAULT_ROLE_KEY = "role-slug"
 
 export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
@@ -48,17 +43,9 @@ export interface PersonaDefaults {
 }
 
 export function personaDefaultsOf(root: string, persona: string): PersonaDefaults | null {
-  const named = documentFor("persona", persona, root)
-  const at =
-    named === null
-      ? `${root}/${pageRelIn(root, "persona", persona)}`
-      : `${root}/${named}`
-  if (!existsSync(at)) return null
-  const frontmatter = parseFrontmatter(readFileSync(at, "utf8"))
-  return {
-    domain: textField(frontmatter, CHAMPIONED_DOMAIN_KEY),
-    role: textField(frontmatter, DEFAULT_ROLE_KEY),
-  }
+  const held = personaAt(root, persona)
+  if (held === null) return null
+  return { domain: held.championedDomainSlug, role: held.roleSlug }
 }
 
 export function identityHeardFrom(root: string, person: string): string | null {

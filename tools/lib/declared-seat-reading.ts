@@ -5,8 +5,8 @@ import { FLEET } from "./compose-seat-name.ts"
 import { type Documents, declaredPathReading, requiredReadingClosure } from "./domain.ts"
 import type { Roots } from "../../page/page"
 import type { SeatDocument } from "./seat-attribute.ts"
+import { personaAt } from "./akasha-personas.ts"
 import { initiativePlaceOf } from "./seat-initiative.ts"
-import { documentFor } from "./seat-resolve.ts"
 
 export interface Warranted {
   readonly claimant: Claimant
@@ -19,8 +19,8 @@ function withAncestry(relPath: string, root: string, docs: Documents): readonly 
 }
 
 export function personaWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
-  const at = documentFor("persona", slug, root)
-  return at === null ? null : withAncestry(at, root, docs)
+  const held = personaAt(root, slug)
+  return held === null ? null : withAncestry(held.path, root, docs)
 }
 
 export function domainWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
