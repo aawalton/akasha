@@ -1,6 +1,7 @@
 import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 import { formatSeatProcKey, parseSeatProcKey, readProcStartTicks } from "./seat-proc-key.ts"
-import { patchUncommitted, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { keepBeside } from "./seat-beside.ts"
 
 export interface OAuthProxyStateToWrite {
   readonly pid: number
@@ -36,7 +37,7 @@ export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite):
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
   const startTicks = readProcStartTicks(state.pid)
-  patchUncommitted(seatPageDestination(seatName), {
+  keepBeside(seatPageDestination(seatName), {
     "proxy-process": startTicks === null ? null : formatSeatProcKey({ pid: state.pid, startTicks }),
     "proxy-port": state.port,
     "proxy-version": state.oauthProxyVersion,
@@ -46,7 +47,7 @@ export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite):
 export function clearProxyState(agentId: string): undefined {
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
-  patchUncommitted(seatPageDestination(seatName), {
+  keepBeside(seatPageDestination(seatName), {
     "proxy-process": null,
     "proxy-port": null,
     "proxy-version": null,

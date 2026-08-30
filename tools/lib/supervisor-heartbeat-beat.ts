@@ -1,4 +1,4 @@
-import { patchUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { keepBeside } from "./seat-beside.ts"
 import { resolveRoots } from "../../repo/roots/roots.ts"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
@@ -66,7 +66,7 @@ export function writeSeatProcessKey(seatName: string, supervisorPid: number): vo
   const key = readSeatProcKey(supervisorPid)
   if (key === null) return
   try {
-    patchUncommitted(seatPageDestination(seatName), { "supervisor-process": formatSeatProcKey(key) })
+    keepBeside(seatPageDestination(seatName), { "supervisor-process": formatSeatProcKey(key) })
   } catch (err) {
     console.error(`${LOG} heartbeat: writing the seat process key failed for ${seatName}:`, err)
   }

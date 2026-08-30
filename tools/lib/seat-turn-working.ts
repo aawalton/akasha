@@ -1,5 +1,6 @@
 
-import { patchUncommittedUnder, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { keepBesideUnder } from "./seat-beside.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
 
 export const WORKING_KEY = "turn-working"
@@ -70,7 +71,7 @@ export function setWorking(
   }
   if (Object.keys(written).length === 0) return
   try {
-    patchUncommittedUnder(page, WORKING_KEY, written)
+    keepBesideUnder(page, WORKING_KEY, written)
   } catch {
     return
   }

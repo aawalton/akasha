@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { pageStemOf } from "../../page/name/name.ts"
 import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
-import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { removeBeside } from "./seat-beside.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
@@ -84,7 +84,7 @@ function takeAnyOtherPage(agent: string, seatName: string): void {
       `${was} is now ${seatName}, and a seat has one page`,
     ]
   )
-  if (taken.code === 0) removeUncommitted(standing)
+  if (taken.code === 0) removeBeside(standing)
 }
 
 // The second write is the migration's, and nothing reads a seat from akasha yet. What it says is
@@ -185,7 +185,7 @@ export function removeSeatPage(agent: string, stopReason: string): Outcome {
     )
     return { kind: "refused", detail }
   }
-  removeUncommitted(page)
+  removeBeside(page)
   let gone: Outcome
   try {
     gone = removeAkashaSeatPage(seatName, resolveRoots(), stopReason)

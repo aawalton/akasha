@@ -1,4 +1,5 @@
-import { patchUncommitted, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { keepBeside } from "./seat-beside.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
 
 const CLEARED = {
@@ -25,11 +26,11 @@ export function setControl(agentId: string, values: Record<string, unknown>): vo
         "A seat with no page has no agent present in it, and a request reaches only a running seat."
     )
   }
-  patchUncommitted(page, { ...CLEARED, ...values })
+  keepBeside(page, { ...CLEARED, ...values })
 }
 
 export function clearControl(agentId: string): void {
   const page = seatPageForAgent(agentId)
   if (page === null) return
-  patchUncommitted(page, CLEARED)
+  keepBeside(page, CLEARED)
 }
