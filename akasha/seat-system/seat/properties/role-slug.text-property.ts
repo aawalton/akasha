@@ -12,11 +12,6 @@ export const roleSlug = {
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
-      invariantKind: "stopgap",
-      statement:
-        "This holds text because the roles a persona and a seat take do not stand as pages.",
-    },
-    {
       invariantKind: "gap",
       statement: "This is a relation to a role.",
     },
