@@ -1,9 +1,10 @@
 
+import { keepLastMessagedAt, personaAt } from "./akasha-personas.ts"
 import { patchState } from "./page-write.ts"
 import { matchPersonaForAgent } from "./persona-match.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
 import { isAlanAuthoredPrompt } from "./prompt-shape.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { seatRecord } from "./seat-facts.ts"
 import { shape } from "./shape.ts"
 
@@ -24,10 +25,27 @@ export async function matchPersonaByAgentId(agentId: string): Promise<MatchedPer
   return hit === undefined ? null : { id: personaId, slug: hit.slug }
 }
 
-export function stampLastMessaged(slug: string): void {
-  patchState(resolveRoots(), "persona", slug, {
-    "last-messaged-at": new Date().toISOString(),
-  })
+function stampInAkasha(root: string, slug: string, at: Date): string | null {
+  const persona = personaAt(root, slug)
+  if (persona === null) {
+    return `\`${slug}\` names no persona standing in akasha, so the new location was left unstamped`
+  }
+  keepLastMessagedAt(root, persona, at)
+  return null
+}
+
+export function stampLastMessaged(slug: string): string | null {
+  const at = new Date()
+  const roots = resolveRoots()
+  patchState(roots, "persona", slug, { "last-messaged-at": at.toISOString() })
+  try {
+    return stampInAkasha(rootFor(roots, AKASHA), slug, at)
+  } catch (cause) {
+    return (
+      `\`${slug}\` was stamped in the old location and not in akasha: ` +
+      `${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
 }
 
 export function promptFromHookPayload(raw: string): string | undefined {
@@ -47,7 +65,8 @@ export function stampsForPrompt(prompt: string | undefined): boolean {
 export async function stampByAgentId(agentId: string): Promise<MatchedPersona | null> {
   const matched = await matchPersonaByAgentId(agentId)
   if (matched === null) return null
-  stampLastMessaged(matched.slug)
+  const complaint = stampLastMessaged(matched.slug)
+  if (complaint !== null) process.stderr.write(`${complaint}\n`)
   return matched
 }
 

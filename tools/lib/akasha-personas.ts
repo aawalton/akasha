@@ -10,7 +10,10 @@ import {
   standingAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE_TYPE = "persona"
 
@@ -124,4 +127,17 @@ export function displayNameOf(slug: string): string {
 export function lastMessagedAt(root: string, persona: Persona): string | null {
   const held = uncommittedIn(root, persona.path)
   return held === null ? null : textAt(held, LAST_MESSAGED_AT)
+}
+
+const LAST_MESSAGED_AT_MAX = 24
+
+export function keepLastMessagedAt(root: string, persona: Persona, at: Date): void {
+  const said = at.toISOString()
+  if (said.length > LAST_MESSAGED_AT_MAX) {
+    throw new Error(
+      `\`${said}\` is ${said.length} characters and \`last-messaged-at\` holds ${LAST_MESSAGED_AT_MAX}, ` +
+        "so writing it would leave an instant the page cannot state"
+    )
+  }
+  mergeUncommitted(root, persona.path, { [LAST_MESSAGED_AT]: said })
 }
