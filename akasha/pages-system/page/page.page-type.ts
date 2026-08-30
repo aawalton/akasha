@@ -1,4 +1,5 @@
 import type { PageType } from "../page-type/page-type.page-type.ts"
+import type { Cover } from "./properties/cover.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
 import type { Slug } from "./properties/slug.text-property.ts"
@@ -7,6 +8,7 @@ export type Page = {
   id: Id
   pageTypeSlug: PageTypeSlug
   slug: Slug
+  cover?: Cover
 }
 
 export const page = {
@@ -20,11 +22,13 @@ export const page = {
     { pagePropertySlug: "id", required: true, many: false },
     { pagePropertySlug: "page-type-slug", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
+    { pagePropertySlug: "cover", required: false, many: false },
   ],
   partSlugs: [
     "domain/page-edge",
     "number-property/seq",
     "relation-property/page-type-slug",
+    "text-property/cover",
     "text-property/id",
     "text-property/slug",
   ],
