@@ -14,10 +14,6 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "The page describing Alan's tile is in akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Alan's site deploys from akasha.",
     },
     {
