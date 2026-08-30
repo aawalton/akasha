@@ -8,16 +8,7 @@ export const categorization = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The backlog counted is a year's and the intake it is measured against is a month's.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The feed also sends the year's total.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No tile draws the year's total.",
+      statement: "The backlog counted is a year's.",
     },
     {
       invariantKind: "departure",
