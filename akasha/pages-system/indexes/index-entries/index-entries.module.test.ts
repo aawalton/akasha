@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { readingAt } from "../index-surface/index-surface.module.code.ts"
 import {
   filePropertiesAt,
   filePropertiesIn,
@@ -56,7 +57,7 @@ test("a property whose name is written in camel is filed under its kebab slug", 
 test("the properties held in a file are read from the schema the index carries", () => {
   const { root } = grounded()
 
-  expect([...filePropertiesAt(root)]).toEqual(["code"])
+  expect([...filePropertiesAt(readingAt(root))]).toEqual(["code"])
 })
 
 test("a body that will not load answers with no value rather than throwing", () => {
@@ -78,15 +79,15 @@ test("a schema line saying nothing about unique declares no identifier", () => {
   const index = scratch.rootFor("akasha-entries-schema-")
   declaring(index, "held", { pageTypeSlug: "text-property", targetPageTypeSlug: null })
 
-  expect(schemaAt(index).get("held")?.unique).toBe(null)
-  expect([...uniquePropertiesAt(index).keys()]).toEqual([])
+  expect(schemaAt(readingAt(index)).get("held")?.unique).toBe(null)
+  expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
 })
 
 test("a schema line saying nothing about its target names no target", () => {
   const index = scratch.rootFor("akasha-entries-target-")
   declaring(index, "held", { pageTypeSlug: "relation-property" })
 
-  expect(schemaAt(index).get("held")?.targetPageTypeSlug).toBe(null)
+  expect(schemaAt(readingAt(index)).get("held")?.targetPageTypeSlug).toBe(null)
 })
 
 test("a schema line that does say unique declares it still", () => {
@@ -97,7 +98,7 @@ test("a schema line that does say unique declares it still", () => {
     unique: "always",
   })
 
-  expect([...uniquePropertiesAt(index).entries()]).toEqual([["id", "always"]])
+  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([["id", "always"]])
 })
 
 test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
