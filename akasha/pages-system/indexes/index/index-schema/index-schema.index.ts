@@ -25,8 +25,15 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property slug stands alone only among the pages of one property type, and two properties carrying one slug are both filed.",
+      statement: "The page type stands in the path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property slug stands alone only among the pages of one property type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two properties carrying one slug are both filed.",
     },
     {
       invariantKind: "departure",
