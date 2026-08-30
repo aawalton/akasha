@@ -11,17 +11,17 @@ export const faultSaying = {
     {
       invariantKind: "departure",
       statement:
-        "A thrown thing that is no Error still has to say something, so what is thrown is read for a message and made to speak either way.",
+        "What is thrown is read for a message and made to speak either way, whether or not it is an Error.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What is said whole and what is said in one line stand apart, because a refusal carries the short one and a caller keeping the fault wants the whole.",
+        "What is said whole and what is said in one line stand apart: a refusal carries the short one, and a caller keeping the fault wants the whole.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Shaping a line stands apart from reading a thrown thing, so a reason worked out rather than thrown is carried by the same rule.",
+        "Shaping a line stands apart from reading a thrown thing, and a reason worked out rather than thrown is carried by the same rule.",
     },
     {
       invariantKind: "absence",
@@ -31,7 +31,7 @@ export const faultSaying = {
     {
       invariantKind: "gap",
       statement:
-        "Nine places outside command-system read a thrown thing for its message by hand. They cannot reach this, standing where it does, so the rule is said here and spelled there.",
+        "Nine places outside command-system read a thrown thing for its message by hand; they cannot reach this, standing where it does, and the rule is said here and spelled there.",
     },
   ],
 } as const satisfies Module
