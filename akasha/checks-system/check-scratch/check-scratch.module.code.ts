@@ -1,27 +1,17 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { basename, dirname, join } from "node:path"
-import { indexIdentity } from "../../pages-system/indexes/index/index-identity/index-identity.index.ts"
-import { indexPath } from "../../pages-system/indexes/index/index-path/index-path.index.ts"
-import { indexRelation } from "../../pages-system/indexes/index/index-relation/index-relation.index.ts"
-import { indexSchema } from "../../pages-system/indexes/index/index-schema/index-schema.index.ts"
-import { indexAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { join } from "node:path"
+import {
+  idFiled,
+  pathFiled,
+  relationFiled,
+  schemaFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../checking/checking.module.code.ts"
 import type { Leaving } from "../judging/judging.module.code.ts"
 
-const IDENTITY = indexIdentity.indexName
-
-const PATH = indexPath.indexName
-
-const RELATION = indexRelation.indexName
-
-const SCHEMA = indexSchema.indexName
-
-const PAGE = "page"
-
 const PAGE_TYPE = "page-type"
-
-const PAGE_PROPERTY = "page-property"
 
 const SLUG = "slug"
 
@@ -40,15 +30,9 @@ export function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
   return bytes
 }
 
-function filed(root: string, under: string, name: string, line: unknown): undefined {
-  const dir = join(root, under)
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${name}.jsonl`), `${JSON.stringify(line)}\n`)
-}
-
 export function typed(root: string, slug: string, above: string): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
-  filed(root, indexAt(IDENTITY, PAGE_TYPE, SLUG), slug, { path, id: `id-${slug}` })
+  standingFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
   const said = JSON.stringify(`${PAGE_TYPE}/${above}`)
   writeFileSync(
@@ -64,11 +48,13 @@ export type Shape = {
 }
 
 export function declaring(root: string, slug: string, shape: Shape): undefined {
-  filed(root, indexAt(SCHEMA, PAGE_PROPERTY, SLUG), slug, {
-    pageTypeSlug: shape.pageTypeSlug,
-    targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
-    unique: shape.unique ?? null,
-  })
+  schemaFiled(root, slug, [
+    {
+      pageTypeSlug: shape.pageTypeSlug,
+      targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
+      unique: shape.unique ?? null,
+    },
+  ])
 }
 
 export function identifying(root: string): undefined {
@@ -81,15 +67,15 @@ export function identifying(root: string): undefined {
 }
 
 export function stands(root: string, kind: string, slug: string, id: string): undefined {
-  filed(root, indexAt(IDENTITY, kind, SLUG), slug, { path: pathFor(kind, slug), id })
+  standingFiled(root, kind, slug, [{ path: pathFor(kind, slug), id }])
 }
 
 export function identified(root: string, id: string, path: string): undefined {
-  filed(root, indexAt(IDENTITY, PAGE, ID), id, { path, id })
+  idFiled(root, id, [{ path, id }])
 }
 
 export function claiming(root: string, path: string, page: string, id: string): undefined {
-  filed(root, indexAt(PATH, dirname(path)), basename(path), { path: page, id })
+  pathFiled(root, path, [{ path: page, id }])
 }
 
 export function edging(
@@ -99,7 +85,7 @@ export function edging(
   from: string,
   at: string
 ): undefined {
-  filed(root, indexAt(RELATION, PAGE, ID, id, propertySlug), from, { path: at })
+  relationFiled(root, id, propertySlug, from, [{ path: at }])
 }
 
 export function landing(

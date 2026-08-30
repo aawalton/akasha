@@ -2,7 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { filed } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import {
+  relationFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"
@@ -12,6 +15,8 @@ const TWO = "01a04e9f-1111-7000-8000-00000000000b"
 const THREE = "01a04e9f-1111-7000-8000-00000000000c"
 
 const KIND = "01a04e9f-1111-7000-8000-00000000000d"
+
+const PART_SLUGS = "part-slugs"
 
 const scratch = scratchWorld()
 
@@ -25,13 +30,13 @@ function pageAt(root: string, path: string, body: string): undefined {
 
 function standing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
   const path = `akasha/held/${slug}.${kind}.ts`
-  filed(root, `identity/${kind}/slug/${slug}.jsonl`, [JSON.stringify({ path, id })])
+  standingFiled(root, kind, slug, [{ path, id }])
   if (body !== undefined) pageAt(root, path, body)
 }
 
 function under(root: string, child: string, parent: string): undefined {
-  filed(root, `relation/page/id/${child}/part-slugs/${parent}.jsonl`, [
-    JSON.stringify({ path: "akasha/held/naming.domain.ts", id: parent }),
+  relationFiled(root, child, PART_SLUGS, parent, [
+    { path: "akasha/held/naming.domain.ts", id: parent },
   ])
 }
 

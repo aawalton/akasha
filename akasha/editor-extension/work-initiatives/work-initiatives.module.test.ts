@@ -2,7 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { filed } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import {
+  relationFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { initiativesDrawn } from "./work-initiatives.module.code.ts"
 
 const ONE = "01a04e9f-0000-7000-8000-00000000000a"
@@ -10,6 +13,10 @@ const ONE = "01a04e9f-0000-7000-8000-00000000000a"
 const TWO = "01a04e9f-0000-7000-8000-00000000000b"
 
 const THREE = "01a04e9f-0000-7000-8000-00000000000c"
+
+const INITIATIVE = "initiative"
+
+const PARENT_SLUG = "parent-slug"
 
 const scratch = scratchWorld()
 
@@ -20,15 +27,11 @@ function pathFor(slug: string): string {
 }
 
 function standing(root: string, slug: string, id: string): undefined {
-  filed(root, `identity/initiative/slug/${slug}.jsonl`, [
-    JSON.stringify({ path: pathFor(slug), id }),
-  ])
+  standingFiled(root, INITIATIVE, slug, [{ path: pathFor(slug), id }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
-  filed(root, `relation/page/id/${parent}/parent-slug/${child}.jsonl`, [
-    JSON.stringify({ path: pathFor("naming"), id: child }),
-  ])
+  relationFiled(root, parent, PARENT_SLUG, child, [{ path: pathFor("naming"), id: child }])
 }
 
 test("every initiative the index files is drawn", () => {
@@ -91,8 +94,8 @@ test("a parent standing under two children keeps each of them under it", () => {
 
 test("a path the file name says is no initiative is passed over", () => {
   const root = scratch.rootFor("akasha-work-")
-  filed(root, "identity/initiative/slug/stray.jsonl", [
-    JSON.stringify({ path: "akasha/editor-extension/stray.module.ts", id: ONE }),
+  standingFiled(root, INITIATIVE, "stray", [
+    { path: "akasha/editor-extension/stray.module.ts", id: ONE },
   ])
   expect(initiativesDrawn(root)).toEqual([])
 })

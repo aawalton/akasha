@@ -14,7 +14,12 @@ import {
   standingById,
   standingByPath,
 } from "./index-reading.module.code.ts"
-import { filed } from "./index-reading.module.test-fixtures.ts"
+import {
+  idFiled,
+  importFiled,
+  pathFiled,
+  schemaFiled,
+} from "./index-reading.module.test-fixtures.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -25,10 +30,6 @@ afterAll(scratch.sweep)
 
 function rootAt(): string {
   return scratch.rootFor("akasha-reading-")
-}
-
-function line(path: string, id: string): string {
-  return JSON.stringify({ path, id })
 }
 
 function committedAt(): string {
@@ -54,7 +55,7 @@ function stampedAt(): string {
 
 test("a path the index carries is answered with the page carrying it", () => {
   const root = rootAt()
-  filed(root, "path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
+  pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
 
   expect(standingByPath(root, "akasha/a.module.code.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
@@ -63,7 +64,7 @@ test("a path the index carries is answered with the page carrying it", () => {
 
 test("a page's own path is answered with itself", () => {
   const root = rootAt()
-  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
 
   expect(standingByPath(root, "akasha/a.module.ts")).toEqual([
     { path: "akasha/a.module.ts", id: A },
@@ -78,16 +79,19 @@ test("a path no page carries is answered with nothing rather than by throwing", 
 
 test("a path two pages fall on is answered with both of them", () => {
   const root = rootAt()
-  filed(root, "path/x.module.code.ts.jsonl", [line("x.module.code.ts", B), line("x.module.ts", A)])
+  pathFiled(root, "x.module.code.ts", [
+    { path: "x.module.code.ts", id: B },
+    { path: "x.module.ts", id: A },
+  ])
 
   expect(standingByPath(root, "x.module.code.ts").map((one) => one.id)).toEqual([B, A])
 })
 
 test("every path the index files is answered, however deep the folders it files them under", () => {
   const root = rootAt()
-  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
-  filed(root, "path/akasha/a.module.code.ts.jsonl", [line("akasha/a.module.ts", A)])
-  filed(root, "path/akasha/held/b.module.ts.jsonl", [line("akasha/held/b.module.ts", B)])
+  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
+  pathFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/a.module.ts", id: A }])
+  pathFiled(root, "akasha/held/b.module.ts", [{ path: "akasha/held/b.module.ts", id: B }])
 
   expect(everyPath(root)).toEqual([
     "akasha/a.module.code.ts",
@@ -104,23 +108,17 @@ test("a path directory that is not there is answered with nothing, the caller sa
 
 test("an id the index carries is answered with the page carrying it", () => {
   const root = rootAt()
-  filed(root, `identity/page/id/${A}.jsonl`, [line("akasha/a.module.ts", A)])
+  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
 
   expect(standingById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
   expect(standingById(root, B)).toBe(null)
 })
 
-function schemaFiled(root: string, slug: string, line: string): undefined {
-  filed(root, `schema/page-property/slug/${slug}.jsonl`, [line])
-}
-
 test("a relation property is answered with the shape it is and the page type it may name", () => {
   const root = rootAt()
-  schemaFiled(
-    root,
-    "domain-slug",
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}'
-  )
+  schemaFiled(root, "domain-slug", [
+    { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
+  ])
 
   expect(schemaOf(root, "domain-slug")).toEqual({
     pageTypeSlug: "relation-property",
@@ -130,7 +128,7 @@ test("a relation property is answered with the shape it is and the page type it 
 
 test("a property that names no page is answered with a shape that is not a relation", () => {
   const root = rootAt()
-  schemaFiled(root, "definition", '{"pageTypeSlug":"text-property","targetPageTypeSlug":null}')
+  schemaFiled(root, "definition", [{ pageTypeSlug: "text-property", targetPageTypeSlug: null }])
 
   expect(schemaOf(root, "definition")).toEqual({
     pageTypeSlug: "text-property",
@@ -140,11 +138,9 @@ test("a property that names no page is answered with a shape that is not a relat
 
 test("a property naming many pages is answered with the target it names itself", () => {
   const root = rootAt()
-  schemaFiled(
-    root,
-    "part-slugs",
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain"}'
-  )
+  schemaFiled(root, "part-slugs", [
+    { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
+  ])
 
   expect(schemaOf(root, "part-slugs")).toEqual({
     pageTypeSlug: "relation-property",
@@ -160,9 +156,9 @@ test("a property the index does not carry is answered with nothing rather than b
 
 test("a path the index carries edges for is answered with every file importing it", () => {
   const root = stampedAt()
-  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
-    JSON.stringify({ path: "akasha/two.module.code.ts" }),
-    JSON.stringify({ path: "akasha/one.module.code.ts" }),
+  importFiled(root, "akasha/a.module.code.ts", [
+    { path: "akasha/two.module.code.ts" },
+    { path: "akasha/one.module.code.ts" },
   ])
 
   expect(importersOf(root, "akasha/a.module.code.ts")).toEqual([
@@ -173,9 +169,7 @@ test("a path the index carries edges for is answered with every file importing i
 
 test("a path nothing imports is answered with nothing rather than by throwing", () => {
   const root = stampedAt()
-  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
-    JSON.stringify({ path: "akasha/one.module.code.ts" }),
-  ])
+  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
 
   expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
 })
@@ -183,23 +177,19 @@ test("a path nothing imports is answered with nothing rather than by throwing", 
 test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
   const root = stampedAt()
 
-  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(".git/data/index/import/path")
+  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/import\/path/)
 })
 
 test("what imports a file is refused when the index names no commit", () => {
   const root = committedAt()
-  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
-    JSON.stringify({ path: "akasha/one.module.code.ts" }),
-  ])
+  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/names no commit/)
 })
 
 test("what imports a file is refused when a commit the index never saw stands", () => {
   const root = stampedAt()
-  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
-    JSON.stringify({ path: "akasha/one.module.code.ts" }),
-  ])
+  importFiled(root, "akasha/a.module.code.ts", [{ path: "akasha/one.module.code.ts" }])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, "akasha", "late.ts"), "export const late = 1\n")
   gitIn(root, ["add", "--", "akasha/late.ts"])
@@ -215,7 +205,7 @@ test("an index's own place is answered under the index root", () => {
 
 test("a reader answers alike whether it is given the root or a reading of the index", () => {
   const root = rootAt()
-  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+  pathFiled(root, "akasha/a.module.ts", [{ path: "akasha/a.module.ts", id: A }])
 
   expect(standingByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
     standingByPath(root, "akasha/a.module.ts")
