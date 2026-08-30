@@ -26,11 +26,6 @@ export type Entry = {
   readonly line: string
 }
 
-export type Standing = {
-  readonly path: string
-  readonly id: string
-}
-
 export type Schema = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null

@@ -1,36 +1,24 @@
-import { join } from "node:path"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
-import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import {
-  type Standing,
   schemaAt,
   slugOf,
   textAt,
   type Value,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  type Standing,
+  standingAt,
+  standingById,
+} from "../index-reading/index-reading.module.code.ts"
 import { type Reading, readingOf } from "../index-surface/index-surface.module.code.ts"
-
-const IDENTITY = indexIdentity.indexName
 
 const RECORD = "record-property"
 
 const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
-
-const ENDING = ".jsonl"
-
-function standingIn(reading: Reading, at: string): readonly Standing[] {
-  const found: Standing[] = []
-  for (const line of reading.lines(at)) {
-    const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
-    if (typeof said.path === "string" && typeof said.id === "string") {
-      found.push({ path: said.path, id: said.id })
-    }
-  }
-  return found
-}
 
 export type Known = {
   readonly targetOf: (propertySlug: string) => string | null
@@ -41,13 +29,6 @@ export type Known = {
 
 export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
-}
-
-function everyPageOf(reading: Reading, pageTypeSlug: string): readonly Standing[] {
-  const dir = join(IDENTITY, pageTypeSlug, "slug")
-  const found: Standing[] = []
-  for (const one of reading.listing(dir)) found.push(...standingIn(reading, join(dir, one.name)))
-  return found
 }
 
 function fieldsIn(value: Value): readonly string[] {
@@ -75,7 +56,7 @@ export function knownIn(
   }
 
   const above = new Map<string, string>()
-  for (const one of everyPageOf(reading, "page-type")) {
+  for (const one of everyOfType(reading, "page-type")) {
     const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
@@ -85,7 +66,7 @@ export function knownIn(
   const everyType = new Set<string>([...above.keys(), ...above.values()])
 
   const fields = new Map<string, readonly string[]>()
-  for (const one of everyPageOf(reading, RECORD)) {
+  for (const one of everyOfType(reading, RECORD)) {
     const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
@@ -116,9 +97,8 @@ export function knownIn(
   return {
     targetOf,
     admitting,
-    at: (pageTypeSlug, slug) =>
-      standingIn(reading, join(IDENTITY, pageTypeSlug, "slug", `${slug}${ENDING}`)),
-    byId: (id) => standingIn(reading, join(IDENTITY, "page", "id", `${id}${ENDING}`))[0] ?? null,
+    at: (pageTypeSlug, slug) => standingAt(reading, pageTypeSlug, slug),
+    byId: (id) => standingById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
   }
 }
