@@ -12,12 +12,11 @@ export const blockAkashaShellWrites = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is refused for where it lands, never for what it is.",
+      statement: "A call is refused for where it lands rather than for what it is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The guarded roots are the akasha folder and `.git/data`, the same as for an edit.",
+      statement: "The guarded roots are the akasha folder and `.git/data`.",
     },
     {
       invariantKind: "departure",
@@ -25,12 +24,19 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A tool told to write the file it reads is judged on every path it names, the flag saying so being what parts it from the same tool reading.",
+      statement: "A tool told to write the file it reads is judged on every path it names.",
     },
     {
       invariantKind: "departure",
-      statement: "A descriptor redirected onto another is no path, and is passed over.",
+      statement: "The flag saying so is what parts it from the same tool reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A descriptor redirected onto another is no path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A descriptor redirected onto another is passed over.",
     },
     {
       invariantKind: "gap",
