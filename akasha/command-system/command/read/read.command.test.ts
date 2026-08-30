@@ -3,29 +3,40 @@ import { execFileSync } from "node:child_process"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
-import { ANSWER_CEILING, costOf, readWith, surface } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, NO_AGENT, readWith, surface } from "./read.command.code.ts"
 import {
   AGENT,
   bodyOf,
   CALLED_AS,
+  ceilinged,
+  everyPaged,
   givenAt,
   givenFor,
   HELD,
+  headedIn,
   lettered,
   MANY,
   manyFiles,
   namingAll,
+  priced,
   read,
   rootWith,
+  STRAY,
   scratch,
+  strayRoot,
+  THING,
+  THING_TYPE,
   telling,
+  thingRoot,
+  WARRANTED,
+  wholeIn,
 } from "./read.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
 test("a file inside akasha comes back whole and line-numbered", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\ntwo\nthree\n" }])
-  const said = read(["--file-path", "akasha/one/held.ts"], givenAt(root))
+  const said = read(["--file-path", "akasha/one/held.ts"], givenFor(root))
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   expect(said.report[0]).toBe("akasha/one/held.ts — the whole file follows, 3 lines")
@@ -34,7 +45,7 @@ test("a file inside akasha comes back whole and line-numbered", () => {
 
 test("naming no file is a caller mistake and nothing is read", () => {
   const root = rootWith([])
-  const said = read([], givenAt(root))
+  const said = read([], givenFor(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("--file-path names a file to read")
@@ -45,7 +56,7 @@ test("a path outside akasha is refused rather than read", () => {
     { at: "akasha/one/held.ts", body: "one\n" },
     { at: "agent/elsewhere.ts", body: "two\n" },
   ])
-  const said = read(["--file-path", "agent/elsewhere.ts"], givenAt(root))
+  const said = read(["--file-path", "agent/elsewhere.ts"], givenFor(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("stands outside `akasha/`")
@@ -56,16 +67,16 @@ test("an absolute path inside akasha is read, and one outside it is not", () => 
     { at: "akasha/one/held.ts", body: "one\n" },
     { at: "agent/elsewhere.ts", body: "two\n" },
   ])
-  const inside = read(["--file-path", join(root, "akasha/one/held.ts")], givenAt(root))
+  const inside = read(["--file-path", join(root, "akasha/one/held.ts")], givenFor(root))
   expect(inside.code).toBe(0)
-  const outside = read(["--file-path", join(root, "agent/elsewhere.ts")], givenAt(root))
+  const outside = read(["--file-path", join(root, "agent/elsewhere.ts")], givenFor(root))
   expect(outside.code).toBe(1)
 })
 
 test("a relative path is taken against the directory the call was made in", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   const said = read(["--file-path", "held.ts"], {
-    ...givenAt(root),
+    ...givenFor(root),
     from: join(root, "akasha/one"),
   })
   expect(said.code).toBe(0)
@@ -76,7 +87,7 @@ test("a file that is not there is a caller mistake, and the rest are still read"
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   const said = read(
     ["--file-path", "akasha/one/gone.ts", "--file-path", "akasha/one/held.ts"],
-    givenAt(root)
+    givenFor(root)
   )
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("names no file")
@@ -87,7 +98,7 @@ test("naming one file twice is refused before anything is read", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   const said = read(
     ["--file-path", "akasha/one/held.ts", "--file-path", "akasha/one/held.ts"],
-    givenAt(root)
+    givenFor(root)
   )
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
@@ -106,7 +117,7 @@ test("a body that is not UTF-8 text says what it is instead of the body", () => 
 
 test("a body past what one answer holds is refused rather than cut", () => {
   const root = rootWith([{ at: "akasha/one/long.ts", body: `${"x".repeat(ANSWER_CEILING + 1)}\n` }])
-  const said = read(["--file-path", "akasha/one/long.ts"], givenAt(root))
+  const said = read(["--file-path", "akasha/one/long.ts"], givenFor(root))
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain(`past the ${ANSWER_CEILING} one answer holds`)
@@ -114,21 +125,21 @@ test("a body past what one answer holds is refused rather than cut", () => {
 
 test("--seat is refused with what it would have meant", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
-  const seat = read(["--seat"], givenAt(root))
+  const seat = read(["--seat"], givenFor(root))
   expect(seat.code).toBe(1)
   expect(seat.refusals[0]).toContain("what a seat is bound to")
 })
 
 test("an argument this does not take is a caller mistake", () => {
   const root = rootWith([])
-  const said = read(["--offset", "20"], givenAt(root))
+  const said = read(["--offset", "20"], givenFor(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not an argument this takes")
 })
 
 test("more than one answer holds comes back as fewer files and a call for the rest", () => {
   const root = rootWith(manyFiles())
-  const said = read(namingAll(), givenAt(root))
+  const said = read(namingAll(), givenFor(root))
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])
   const call = said.report[said.report.length - 1] ?? ""
@@ -145,18 +156,18 @@ test("more than one answer holds comes back as fewer files and a call for the re
 
 test("the answer holding a call for the rest is itself under the ceiling", () => {
   const root = rootWith(manyFiles())
-  const said = read(namingAll(), givenAt(root))
+  const said = read(namingAll(), givenFor(root))
   expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
 })
 
 test("the call for the rest reads exactly what was left, and then the set is done", () => {
   const root = rootWith(manyFiles())
-  const first = read(namingAll(), givenAt(root))
+  const first = read(namingAll(), givenFor(root))
   const call = first.report[first.report.length - 1] ?? ""
   const left = call.split(" --file-path ").slice(1)
   const again: string[] = []
   for (const one of left) again.push("--file-path", one)
-  const second = read(again, givenAt(root))
+  const second = read(again, givenFor(root))
   expect(second.code).toBe(0)
   const returned = second.report.filter((one) => one.includes("the whole file follows"))
   expect(returned.length).toBe(left.length)
@@ -166,7 +177,7 @@ test("the call for the rest reads exactly what was left, and then the set is don
 test("every argument the surface shows is an argument this takes", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   for (const one of surface.taking) {
-    const said = read([one.said.split(" ")[0] ?? ""], givenAt(root))
+    const said = read([one.said.split(" ")[0] ?? ""], givenFor(root))
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }
 })
@@ -180,13 +191,15 @@ test("a read records the body that reached the agent", () => {
   expect(held?.seenAt).toBeGreaterThan(0)
 })
 
-test("a read for an agent nothing identifies returns the body and records nothing", () => {
+test("a read for an agent nothing identifies is refused, and nothing is recorded", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
   const said = read(["--file-path", "akasha/one/held.ts"], givenAt(root))
-  expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain("the whole file follows")
-  expect(said.report.join("\n")).toContain("names no agent")
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual([NO_AGENT])
   expect(readingIn(root, AGENT, "akasha/one/held.ts")).toBeNull()
+  expect(NO_AGENT).toContain("`AGENT_ID`")
+  expect(NO_AGENT).toContain("should not be possible")
 })
 
 test("a read whose output is thrown away returns nothing and records nothing", () => {
@@ -301,6 +314,42 @@ test("a committed body is found again, so a moved body is what changed", () => {
 
 test("an agent whose record holds nothing gets the body whole", () => {
   const root = rootWith([{ at: HELD, body: "one\n" }])
-  const said = read(["--file-path", HELD], givenAt(root))
+  const said = read(["--file-path", HELD], givenFor(root))
   expect(said.report.join("\n")).toContain("the whole file follows")
+})
+
+test("a read of a page hands back the types it stands under, and records them", () => {
+  const root = thingRoot()
+  const said = read(["--file-path", THING], givenFor(root))
+  expect(said.code).toBe(0)
+  expect(wholeIn(said.report).map((one) => one.split(" \u2014")[0])).toEqual([...WARRANTED])
+  for (const one of WARRANTED) expect(readingIn(root, AGENT, one)).not.toBeNull()
+})
+
+test("a file warranted and named both comes back once, and --full expands the same way", () => {
+  const root = thingRoot()
+  const said = read(["--file-path", THING, "--file-path", THING_TYPE], givenFor(root))
+  expect(headedIn(said.report, THING_TYPE)).toBe(1)
+  expect(wholeIn(read(["--full", "--file-path", THING], givenFor(root)).report).length).toBe(3)
+})
+
+test("a warrant naming a file outside the akasha folder reaches no read", () => {
+  const said = read(["--file-path", THING], givenFor(strayRoot())).report.join("\n")
+  expect(said).not.toContain(STRAY)
+})
+
+test("a warranted set past what one answer holds leaves a call that reads the rest", () => {
+  const held = ceilinged()
+  expect(costOf(held.first.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+  expect(held.left.length).toBeGreaterThan(0)
+  expect(held.second.refusals).toEqual([])
+  for (const one of held.left) expect(headedIn(held.second.report, one)).toBe(1)
+  for (const one of everyPaged()) expect(headedIn(held.both, one)).toBeGreaterThan(0)
+})
+
+test("the call for what is left over is priced as it is printed, warrants and all", () => {
+  const { said, call } = priced()
+  expect(costOf(said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
+  expect(said.report[said.report.length - 1]).toBe(call)
+  expect(headedIn(said.report, THING_TYPE)).toBe(1)
 })

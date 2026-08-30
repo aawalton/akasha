@@ -185,6 +185,51 @@ export function warrantsIn(
   return gatheredAt(gatheredIn(root), when).flatMap((one) => one.warranting(root, path, knowing))
 }
 
+function walkingBy(
+  root: string,
+  one: Gathered,
+  path: string,
+  knowing: Knowing,
+  walked: Set<string>,
+  taking: (said: string) => void
+): void {
+  if (walked.has(path)) return
+  walked.add(path)
+  for (const warrant of one.warranting(root, path, knowing)) {
+    taking(warrant.path)
+    if (one.transitive) walkingBy(root, one, warrant.path, knowing, walked, taking)
+  }
+}
+
+export function warrantedIn(root: string, paths: readonly string[]): readonly string[] {
+  const said: string[] = []
+  const held = new Set<string>()
+  const taking = (one: string): void => {
+    if (held.has(one)) return
+    held.add(one)
+    said.push(one)
+  }
+  try {
+    const every = gatheredAt(gatheredIn(root), "read")
+    const knowing = knowingIn(root)
+    const walked = new Map<string, Set<string>>()
+    for (const path of paths) {
+      taking(path)
+      for (const one of every) {
+        let standing = walked.get(one.slug)
+        if (standing === undefined) {
+          standing = new Set<string>()
+          walked.set(one.slug, standing)
+        }
+        walkingBy(root, one, path, knowing, standing, taking)
+      }
+    }
+  } catch {
+    return [...paths]
+  }
+  return said
+}
+
 export function unreadIn(
   root: string,
   agentId: string | null,

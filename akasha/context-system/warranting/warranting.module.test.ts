@@ -9,7 +9,13 @@ import {
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { gatheredIn, NO_AGENT, unreadIn, warrantsIn } from "./warranting.module.code.ts"
+import {
+  gatheredIn,
+  NO_AGENT,
+  unreadIn,
+  warrantedIn,
+  warrantsIn,
+} from "./warranting.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -35,6 +41,7 @@ type Said = {
   readonly slug: string
   readonly runsOnRead?: boolean
   readonly runsOnWrite?: boolean
+  readonly transitive?: boolean
   readonly page?: string
   readonly code?: string
 }
@@ -49,8 +56,18 @@ function pageFor(one: Said, id: string): string {
     `  test: "ts",`,
     `  runsOnRead: ${one.runsOnRead ?? true},`,
     `  runsOnWrite: ${one.runsOnWrite ?? true},`,
-    `  transitive: false,`,
+    `  transitive: ${one.transitive ?? false},`,
     `}`,
+    "",
+  ].join("\n")
+}
+
+function chainOf(said: Record<string, readonly string[]>): string {
+  return [
+    "export function chain(root, path) {",
+    `  const said = ${JSON.stringify(said)}`,
+    '  return (said[path] ?? []).map((one) => ({ path: one, oid: "oid", owed: "owed" }))',
+    "}",
     "",
   ].join("\n")
 }
@@ -260,4 +277,67 @@ test("a call charged to no agent is refused even where nothing stands", () => {
 test("no agent is told as something that should not be possible", () => {
   expect(NO_AGENT).toContain("should not be possible")
   expect(NO_AGENT).toContain("`AGENT_ID`")
+})
+
+const A = "akasha/one/a.ts"
+
+const B = "akasha/one/b.ts"
+
+const X = "akasha/one/x.ts"
+
+const Y = "akasha/one/y.ts"
+
+test("a read is handed the paths it names and what a warrant names for them", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X] }) }])
+  expect(warrantedIn(root, [A])).toEqual([A, X])
+})
+
+test("a file a warrant names comes back after the file that warranted it", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X], [B]: [X, Y] }) }])
+  expect(warrantedIn(root, [A, B])).toEqual([A, X, B, Y])
+})
+
+test("a file named and warranted both comes back once", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X] }) }])
+  expect(warrantedIn(root, [A, X])).toEqual([A, X])
+})
+
+test("a file named twice comes back once", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({}) }])
+  expect(warrantedIn(root, [A, A])).toEqual([A])
+})
+
+test("what a transitive warrant names is asked what that warrant warrants in turn", () => {
+  const root = rootWith([
+    { slug: "chain", transitive: true, code: chainOf({ [A]: [X], [X]: [Y] }) },
+  ])
+  expect(warrantedIn(root, [A])).toEqual([A, X, Y])
+})
+
+test("what a warrant that is not transitive names is asked nothing in turn", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X], [X]: [Y] }) }])
+  expect(warrantedIn(root, [A])).toEqual([A, X])
+})
+
+test("a transitive warrant naming its way back is walked once", () => {
+  const root = rootWith([
+    { slug: "chain", transitive: true, code: chainOf({ [A]: [X], [X]: [A] }) },
+  ])
+  expect(warrantedIn(root, [A])).toEqual([A, X])
+})
+
+test("a warrant that does not run on read hands a read nothing", () => {
+  const root = rootWith([{ slug: "chain", runsOnRead: false, code: chainOf({ [A]: [X] }) }])
+  expect(warrantedIn(root, [A])).toEqual([A])
+})
+
+test("a root the warrants cannot be gathered from hands back the paths handed in", () => {
+  const root = rootWith([{ slug: "chain", page: 'export const chain = { slug: "chain" }\n' }])
+  expect(() => gatheredIn(root)).toThrow()
+  expect(warrantedIn(root, [A, B])).toEqual([A, B])
+})
+
+test("a root carrying no warrant hands back the paths handed in", () => {
+  const root = scratch.rootFor("akasha-warranting-")
+  expect(warrantedIn(root, [A, B])).toEqual([A, B])
 })

@@ -47,6 +47,20 @@ export const warranting = {
         "A warrant is what the change owes, never what a warranted file would owe were it changed.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A read is handed the paths it names, and after each of them what the warrants running on read name for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path stands once in what a read is handed, in the place it first stood.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Warrants that cannot be worked out hand back the paths handed in, so a read answers what it can.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing is changed that its writer has not read.",
     },

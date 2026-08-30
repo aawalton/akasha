@@ -1,5 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { warrantedIn } from "../../../context-system/warranting/warranting.module.code.ts"
 import { bytesAt, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "../../differing/differing.module.code.ts"
@@ -38,6 +39,14 @@ const NO_SHORTER = `${MOVED}, and what changed is no shorter than the file`
 
 const TOO_MUCH = `${MOVED}, and what changed is past what one answer holds`
 
+export const NO_AGENT = [
+  "`AGENT_ID` names no agent, so there is no record to read this into, and this call is refused whole.",
+  "This should not be possible: the supervisor sets `AGENT_ID` when it spawns an agent, every read",
+  "is recorded under it, and a write is refused for a body no record shows you read, so a read",
+  "recorded under nobody is work thrown away.",
+  "Say that `AGENT_ID` is unset and stop here, rather than finding a way around it.",
+].join("\n")
+
 export const surface: Surface = {
   taking: [
     { said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read" },
@@ -45,6 +54,7 @@ export const surface: Surface = {
   ],
   notes: [
     `${FILE_PATH} repeats, so several files come back from one call.`,
+    "a read also hands back what the files you name warrant, so one call answers the gate.",
     "a body your record already holds comes back as one line rather than the file.",
     "a body that moved since your record holds it comes back as what changed, where that is shorter.",
     `a read takes no line range, and one answer holds ${ANSWER_CEILING} bytes.`,
@@ -133,6 +143,21 @@ function aiming(paths: readonly string[], given: Given): Aimed {
     targets.push({ named, absolute })
   }
   return { targets, refusals }
+}
+
+export function spreading(targets: readonly Target[], given: Given): readonly Target[] {
+  const root = resolve(given.root)
+  const from = resolve(given.from)
+  const bound = join(root, INSIDE)
+  const said = new Map<string, string>()
+  for (const one of targets) said.set(relative(root, one.absolute), one.named)
+  const held: Target[] = []
+  for (const at of warrantedIn(root, [...said.keys()])) {
+    const absolute = join(root, at)
+    if (absolute !== bound && !absolute.startsWith(`${bound}/`)) continue
+    held.push({ named: said.get(at) ?? relative(from, absolute), absolute })
+  }
+  return held
 }
 
 function leadingOf(bytes: Uint8Array): string {
@@ -228,11 +253,13 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
       code: 1,
     }
   }
+  const agentId = given.agentId
+  if (agentId === null) return { report: [], refusals: [NO_AGENT], code: 1 }
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const aimed = aiming(meant.paths, given)
   if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
-  const queue = aimed.targets
+  const queue = spreading(aimed.targets, given)
   const report: string[] = []
   const refusals: string[] = []
   let spent = 0
@@ -255,8 +282,7 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     }
     const at = relative(resolve(given.root), absolute)
     const oid = blobIdOf(bytes)
-    const seen =
-      meant.full || given.agentId === null ? null : readingIn(given.root, given.agentId, at)
+    const seen = meant.full ? null : readingIn(given.root, agentId, at)
     const lines = tellingOf(given.root, named, bytes, oid, seen)
     const cost = costOf(lines)
     if (cost > ANSWER_CEILING) {
@@ -276,20 +302,14 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
     report.push(...lines)
     spent += cost
     taken += 1
-    if (given.agentId !== null && textOf(bytes) !== null) {
-      recordRead(given.root, given.agentId, {
+    if (textOf(bytes) !== null) {
+      recordRead(given.root, agentId, {
         path: at,
         oid,
         seenAt: Date.now(),
         mechanicalOid: null,
       })
     }
-  }
-  if (taken > 0 && given.agentId === null) {
-    report.push(
-      "nothing here was recorded as read: `AGENT_ID` names no agent, and a reading belongs to one " +
-        "agent or to none"
-    )
   }
   report.push(...restCall(given.calledAs, left))
   return { report, refusals, code: mistaken ? 1 : failed ? 3 : 0 }

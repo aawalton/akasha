@@ -75,7 +75,34 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A read for an agent nothing identifies returns the body and records nothing.",
+      statement:
+        "A read for an agent nothing identifies is refused, because a read that records nothing is work thrown away and a write after it is refused anyway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read hands back what the file it names warrants, so one call answers the gate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A warrant reaches a read only where it says it runs on one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a warrant names is asked what it warrants in turn only where that warrant is transitive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file named twice, or named and warranted both, comes back once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a warrant names comes back after the file that warranted it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A read the warrants cannot be worked out for returns the files it was named, rather than refusing what it can answer.",
     },
   ],
 } as const satisfies Command
