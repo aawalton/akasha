@@ -100,15 +100,16 @@ export function introducersIn(
   standing: readonly Standing[],
   read: Reading
 ): ReadonlyMap<string, readonly string[]> {
-  const found = new Map<string, string[]>()
-  for (const one of standing) {
-    for (const propertySlug of introducedIn(one.value, read)) {
-      const held = found.get(propertySlug)
-      if (held === undefined) found.set(propertySlug, [one.slug])
-      else held.push(one.slug)
-    }
-  }
-  return found
+  const pairs = standing.flatMap((one) =>
+    introducedIn(one.value, read).map((propertySlug) => ({ propertySlug, slug: one.slug }))
+  )
+  const grouped = Map.groupBy(pairs, (one) => one.propertySlug)
+  return new Map(
+    [...grouped].map(([at, held]): readonly [string, readonly string[]] => [
+      at,
+      held.map((one) => one.slug),
+    ])
+  )
 }
 
 function reasonFor(propertySlug: string, typeSlug: string): string {
