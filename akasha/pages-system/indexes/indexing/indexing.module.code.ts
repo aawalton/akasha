@@ -50,7 +50,7 @@ const RELATION = indexRelation.indexName
 
 const SCHEMA = indexSchema.indexName
 
-function pruneAbove(at: string, root: string): void {
+function pruneAbove(at: string, root: string): undefined {
   let here = at
   while (here !== root && here.startsWith(root)) {
     try {
@@ -62,7 +62,7 @@ function pruneAbove(at: string, root: string): void {
   }
 }
 
-function keepWhole(at: string, lines: readonly string[], root: string): void {
+function keepWhole(at: string, lines: readonly string[], root: string): undefined {
   if (lines.length === 0) {
     if (existsSync(at)) rmSync(at)
     pruneAbove(dirname(at), root)
@@ -120,7 +120,7 @@ function pageShaped(path: string, fileProperties: ReadonlySet<string>): boolean 
 
 function pagesUnder(tree: string): readonly string[] {
   const found: string[] = []
-  const walk = (at: string): void => {
+  const walk = (at: string): undefined => {
     for (const one of readdirSync(at, { withFileTypes: true })) {
       const here = join(at, one.name)
       if (one.isDirectory()) walk(here)
@@ -143,7 +143,7 @@ const TS = ".ts"
 
 function bodiesUnder(tree: string): readonly string[] {
   const found: string[] = []
-  const walk = (at: string): void => {
+  const walk = (at: string): undefined => {
     for (const one of readdirSync(at, { withFileTypes: true })) {
       const here = join(at, one.name)
       if (one.isDirectory()) walk(here)
@@ -157,7 +157,7 @@ function bodiesUnder(tree: string): readonly string[] {
 function filesUnder(at: string): readonly string[] {
   if (!existsSync(at)) return []
   const found: string[] = []
-  const walk = (here: string): void => {
+  const walk = (here: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const next = join(here, one.name)
       if (one.isDirectory()) walk(next)
@@ -168,7 +168,7 @@ function filesUnder(at: string): readonly string[] {
   return found
 }
 
-function reconcile(under: string, entries: readonly Entry[], root: string): void {
+function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
   const wanted = new Map<string, Set<string>>()
   for (const one of entries) {
     const held = wanted.get(one.at) ?? new Set<string>()
@@ -190,7 +190,7 @@ export type Indexing = {
 const NOTHING_DECLARES =
   "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
 
-function refusingEmpty(unique: ReadonlyMap<string, string>, pages: number): void {
+function refusingEmpty(unique: ReadonlyMap<string, string>, pages: number): undefined {
   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
@@ -324,7 +324,7 @@ export function settlingOver(
 export function indexingAt(root: string, repo: string): Indexing {
   const pending = new Map<string, Pending>()
 
-  const note = (path: string, before: string | null, after: string | null): void => {
+  const note = (path: string, before: string | null, after: string | null): undefined => {
     const held = pending.get(path)
     pending.set(path, { before: held === undefined ? before : held.before, after })
   }
