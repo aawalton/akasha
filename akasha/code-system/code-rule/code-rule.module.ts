@@ -11,17 +11,15 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "Two functions say the same thing when their shape is the same once every name a function binds is read as the order it binds them, so renaming the function, a parameter or a local hides nothing.",
+        "Two functions say the same thing when their shape is the same once every name a function binds is read as the order it binds them.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name the function does not bind is read as it is written, so what it reaches for is part of what it says.",
+      statement: "A name the function does not bind is read as it is written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether the file exports a function is answered beside its rule, because who may reach for it cannot be read from the rule.",
+      statement: "Whether the file exports a function is answered beside its rule.",
     },
     {
       invariantKind: "departure",
@@ -30,12 +28,12 @@ export const codeRule = {
     {
       invariantKind: "departure",
       statement:
-        "The source is parsed with parent links, because whether a function is exported is answered by climbing from it to the statement holding it.",
+        "The source is parsed with parent links, and a function's export status is answered by climbing from it to the statement holding it.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Only a function is read. A rule spelled inline, as an expression bound to nothing, says no rule here at all.",
+        "Only a function is read. A rule spelled inline as an expression bound to nothing says no rule here at all.",
     },
     {
       invariantKind: "absence",

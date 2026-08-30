@@ -16,18 +16,16 @@ export const codeLint = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run only reads. No fix, no write and no unsafe change is ever asked for, so the tree stands after a run exactly as it stood before it.",
+      statement: "A run only reads. No fix, no write and no unsafe change is ever asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose answer cannot be read says why rather than an empty list.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A run whose answer cannot be read says why rather than an empty list, because a linter that could not look has verified nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The findings are read from the first line printed that parses as an object carrying diagnostics, so a warning above it and a summary below it are passed over.",
+        "The findings are read from the first line printed that parses as an object carrying diagnostics.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +35,7 @@ export const codeLint = {
     {
       invariantKind: "constraint",
       statement:
-        "Biome says of its own JSON reporter that it is unstable and may change between patches. We read it anyway, because it is the only shape of its answer a machine can take.",
+        "Biome says of its own JSON reporter that it is unstable and may change between patches. We read it anyway; it is the only shape of its answer a machine can take.",
     },
     {
       invariantKind: "absence",

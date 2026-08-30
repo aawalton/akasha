@@ -11,18 +11,17 @@ export const codeFormat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A body is formatted where it is handed in, before anything judges it, so what a check counts and what a check runs is what actually lands.",
+      statement: "A body is formatted where it is handed in, before anything judges it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The formatter is the one the repo already stands on, reached inside the root it is run for, so a body lands by the same rule a working tree is held to.",
+        "The formatter is the one the repo already stands on, reached inside the root it is run for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Formatting sorts the imports as well as the spacing, because import order is enforced here and a body that only had its spacing fixed still fails.",
+        "Formatting sorts the imports as well as the spacing. Import order is enforced, and a body that only had its spacing fixed still fails.",
     },
     {
       invariantKind: "departure",
@@ -36,13 +35,11 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body the formatter does not handle comes back as it went in, so a path of any kind may be handed here without asking first whether it is code.",
+      statement: "A body the formatter does not handle comes back as it went in.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether a body moved is answered beside it, so a caller can say out loud which files landed other than as they were handed in.",
+      statement: "Whether a body moved is answered beside it.",
     },
     {
       invariantKind: "absence",

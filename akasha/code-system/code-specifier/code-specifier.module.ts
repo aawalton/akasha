@@ -15,8 +15,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every string a body holds is answered too, because a path is spelled in places where no module is named.",
+      statement: "Every string a body holds is answered too.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +24,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A specifier is answered with where it stands, so the same reading serves a file being judged and a file being written over.",
+      statement: "A specifier is answered with where it stands.",
     },
     {
       invariantKind: "departure",
@@ -36,12 +34,12 @@ export const codeSpecifier = {
     {
       invariantKind: "absence",
       statement:
-        "A template is no string here. Only a body's plain quoted text is answered, because nothing else can be written over without reading what fills it.",
+        "A template is no string here. Only a body's plain quoted text is answered. Nothing else can be written over without reading what fills it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Where a relative specifier lands is answered as the path it names and nothing more, because that much every caller reads the same way and spelt apart it drifts apart.",
+        "Where a relative specifier lands is answered as the path it names and nothing more.",
     },
     {
       invariantKind: "absence",
@@ -55,8 +53,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The source is parsed without parent links, because nothing here climbs from a node to the one holding it.",
+      statement: "The source is parsed without parent links.",
     },
   ],
 } as const satisfies Module

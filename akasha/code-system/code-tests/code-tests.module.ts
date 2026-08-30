@@ -17,7 +17,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run marks the child it spawns, so a test reaching for this can tell it already stands inside a run and stop rather than starting another.",
+        "A run marks the child it spawns. A test reaching for this can tell it already stands inside a run, and stops rather than starting another.",
     },
     {
       invariantKind: "departure",
@@ -26,18 +26,16 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Colour is taken out before the summary is read, so what a painted run says and what a plain one says are the same.",
+      statement: "Colour is taken out before the summary is read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The test standing beside a file is named by the same rule that names any file beside a page, so a code file and its page answer the same test.",
+        "The test standing beside a file is named by the same rule that names any file beside a page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A world is written out of bodies handed in, not read off the working tree, so a run judges what a change proposes rather than what happens to stand on disk.",
+      statement: "A world is written out of bodies handed in, not read off the working tree.",
     },
     {
       invariantKind: "departure",
@@ -46,18 +44,16 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is borrowed is skipped where it is not there, so a root holding none of it still stands a world up.",
+      statement: "What is borrowed is skipped where it is not there.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A world is held under `/var/tmp` rather than `/tmp`, because `/tmp` is memory this machine shares and a tree left there is a tree taken out of it.",
+        "A world is held under `/var/tmp` rather than `/tmp`. `/tmp` is memory this machine shares, and a tree left there is taken out of it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A world is swept by whoever asked for it, so nothing decides on its own when it goes.",
+      statement: "A world is swept by whoever asked for it.",
     },
     {
       invariantKind: "absence",

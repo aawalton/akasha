@@ -10,23 +10,19 @@ export const codeSource = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "One parse stands for every body read as TypeScript here, so a body reads the same wherever it is read and no caller carries settings of its own.",
+      statement: "One parse stands for every body read as TypeScript here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether a node can be asked what holds it is named, not passed as a bare flag, because a caller reading that flag wrong reads a whole file wrong.",
+      statement: "Whether a node can be asked what holds it is named, not passed as a bare flag.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A line is answered counting from one, because every caller answering a person counts from one and each adding it back is a place to forget.",
+      statement: "A line is answered counting from one.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A node is answered at where its own text starts, past whatever trivia leads it, so a line names what a reader sees rather than the blank above it.",
+      statement: "A node is answered at where its own text starts, past whatever trivia leads it.",
     },
     {
       invariantKind: "absence",
