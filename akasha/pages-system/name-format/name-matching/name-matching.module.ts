@@ -19,8 +19,7 @@ export const nameMatching = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A shape is asked with `test` alone and so carries no `g` flag, which would carry a place between calls.",
+      statement: "A shape is asked with `test` alone and so carries no `g` flag.",
     },
     {
       invariantKind: "absence",
