@@ -77,9 +77,23 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   return { root, repo }
 }
 
+const TARGETS: Readonly<Record<string, string>> = {
+  "part-slugs": "domain",
+  "noted-slugs": "domain",
+}
+
+const KEYED: Readonly<Record<string, string>> = {
+  partSlugs: "part-slugs",
+  notes: "noted-slugs",
+  parts: "parts",
+  heldSlugs: "held-slugs",
+  holds: "holds",
+  inner: "inner",
+}
+
 export function standing(pages: Readonly<Record<string, string>>): Shaped {
   return {
-    targetOf: (propertySlug) => (propertySlug === "part-slugs" ? "domain" : null),
+    targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
     admitting: (target) => (target === "domain" ? ["domain", "module"] : []),
     at: (pageTypeSlug, slug) => {
       const id = pages[`${pageTypeSlug}/${slug}`]
@@ -87,5 +101,6 @@ export function standing(pages: Readonly<Record<string, string>>): Shaped {
     },
     byId: () => null,
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
+    slugOfKey: (key) => KEYED[key] ?? null,
   }
 }

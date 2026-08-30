@@ -109,9 +109,39 @@ test("a schema line that does say unique declares it still", () => {
     targetPageTypeSlug: null,
     unique: "always",
     slug: "id",
+    propertySlug: "id",
   })
 
-  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([["id", "always"]])
+  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
+    ["id", { key: "id", reach: "always" }],
+  ])
+})
+
+test("an identifier is read by the key its property states rather than by its slug", () => {
+  const index = scratch.rootFor("akasha-entries-keyed-")
+  declaring(index, "text-property", "held-name", {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: "page-type",
+    slug: "held-name",
+    propertySlug: "named",
+  })
+
+  expect([...uniquePropertiesAt(readingAt(index)).entries()]).toEqual([
+    ["held-name", { key: "named", reach: "page-type" }],
+  ])
+})
+
+test("a schema line stating no key declares no identifier", () => {
+  const index = scratch.rootFor("akasha-entries-keyless-")
+  declaring(index, "text-property", "id", {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: "always",
+    slug: "id",
+  })
+
+  expect([...uniquePropertiesAt(readingAt(index)).keys()]).toEqual([])
 })
 
 test("two properties of one slug are answered apart, each under the page type it is", () => {

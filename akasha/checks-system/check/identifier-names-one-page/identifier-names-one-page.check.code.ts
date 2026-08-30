@@ -1,6 +1,7 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filedIn } from "../../../pages-system/indexes/index/index-identity/index-identity.index.code.ts"
 import {
+  type Identifier,
   pageTypesIn,
   uniquePropertiesAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
@@ -18,7 +19,7 @@ export type Stated = {
 
 export function statedBy(
   carried: readonly Carried[],
-  unique: ReadonlyMap<string, string>
+  unique: ReadonlyMap<string, Identifier>
 ): readonly Stated[] {
   return carried.flatMap((one) =>
     filedIn(one.value, unique).map((held) => ({

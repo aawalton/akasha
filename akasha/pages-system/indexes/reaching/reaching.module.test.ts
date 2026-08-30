@@ -52,6 +52,15 @@ test("a name carrying a page type the target does not admit is refused, never re
   expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
 
+test("a key reaches the property stating it, and a key no property states reaches none", () => {
+  const { root, repo } = grounded()
+  const known = knownIn(root, repo)
+
+  expect(known.slugOfKey("partSlugs")).toBe("part-slugs")
+  expect(known.slugOfKey("domainSlug")).toBe("domain-slug")
+  expect(known.slugOfKey("design")).toBe(null)
+})
+
 test("a record property answers the fields it declares, and another property answers none", () => {
   const { root, repo } = grounded()
   const known = knownIn(root, repo)

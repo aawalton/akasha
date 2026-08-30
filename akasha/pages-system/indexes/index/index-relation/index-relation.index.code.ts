@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { slugFor } from "../../../page-property/page-property-key/page-property-key.module.code.ts"
 import {
   type Entry,
   textAt,
@@ -46,7 +45,8 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
   }
   for (const [key, held] of Object.entries(value)) {
     if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = slugFor(key)
+    const propertySlug = known.slugOfKey(key)
+    if (propertySlug === null) continue
     if (known.targetOf(propertySlug) !== null) {
       file(propertySlug, held, propertySlug)
       continue
@@ -55,8 +55,8 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
     if (fields.length === 0) continue
     for (const entry of recordsIn(held)) {
       for (const [inner, said] of Object.entries(entry)) {
-        const field = slugFor(inner)
-        if (fields.includes(field)) file(field, said, `${propertySlug} ${field}`)
+        const field = known.slugOfKey(inner)
+        if (field !== null && fields.includes(field)) file(field, said, `${propertySlug} ${field}`)
       }
     }
   }

@@ -14,6 +14,11 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page's key reaches the property stating that key rather than the property its slug camelises to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name saying its own page type is held to the target its property declares.",
     },
     {

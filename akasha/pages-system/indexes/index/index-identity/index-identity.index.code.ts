@@ -1,7 +1,7 @@
 import { join } from "node:path"
-import { exportedAs } from "../../../page/page-export-name/page-export-name.module.code.ts"
 import {
   type Entry,
+  type Identifier,
   textAt,
   under,
   type Value,
@@ -22,16 +22,16 @@ export type Filed = {
   readonly said: string
 }
 
-export function filedIn(value: Value, unique: ReadonlyMap<string, string>): readonly Filed[] {
+export function filedIn(value: Value, unique: ReadonlyMap<string, Identifier>): readonly Filed[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const held: Filed[] = []
-  for (const [propertySlug, reach] of unique) {
-    const said = textAt(value, exportedAs(propertySlug))
+  for (const [propertySlug, one] of unique) {
+    const said = textAt(value, one.key)
     if (said === null) continue
-    held.push({ scope: reach === ALWAYS ? PAGE : pageTypeSlug, propertySlug, said })
+    held.push({ scope: one.reach === ALWAYS ? PAGE : pageTypeSlug, propertySlug, said })
   }
   return held
 }
@@ -40,7 +40,7 @@ export function identityIn(
   value: Value,
   path: string,
   repo: string,
-  unique: ReadonlyMap<string, string>
+  unique: ReadonlyMap<string, Identifier>
 ): readonly Entry[] {
   const id = textAt(value, "id")
   if (id === null) return []

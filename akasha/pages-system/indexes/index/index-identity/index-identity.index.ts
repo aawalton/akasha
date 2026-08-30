@@ -35,6 +35,10 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
+      statement: "An identifier's value is read from a page by the key its property states.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The properties stating a `unique` today are `id` and `slug`.",
     },
     {

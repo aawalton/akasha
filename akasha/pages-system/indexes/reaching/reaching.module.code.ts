@@ -1,4 +1,5 @@
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
+import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import {
   schemaAt,
   slugOf,
@@ -29,6 +30,7 @@ export type Known = {
 
 export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
+  readonly slugOfKey: (key: string) => string | null
 }
 
 function fieldsIn(value: Value): readonly string[] {
@@ -50,9 +52,11 @@ export function knownIn(
 ): Shaped {
   const reading = readingOf(given)
   const target = new Map<string, string>()
+  const keyed = new Map<string, string>()
   for (const held of schemaAt(reading).values()) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(held.slug, named)
+    if (held.propertySlug !== "") keyed.set(exportedAs(held.propertySlug), held.slug)
   }
 
   const above = new Map<string, string>()
@@ -100,6 +104,7 @@ export function knownIn(
     at: (pageTypeSlug, slug) => standingAt(reading, pageTypeSlug, slug),
     byId: (id) => standingById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
+    slugOfKey: (key) => keyed.get(key) ?? null,
   }
 }
 

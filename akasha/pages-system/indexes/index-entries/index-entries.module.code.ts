@@ -3,6 +3,7 @@ import { createRequire } from "node:module"
 import { isAbsolute, join, relative } from "node:path"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
+import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
@@ -180,20 +181,28 @@ export function filePropertiesAt(given: string | Reading): ReadonlySet<string> {
   return found
 }
 
-export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
+export type Identifier = {
+  readonly key: string
+  readonly reach: string
+}
+
+export function uniquePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, Identifier> {
+  const found = new Map<string, Identifier>()
   for (const value of values) {
     const reach = slugAt(value, "unique")
     const slug = textAt(value, "slug")
-    if (reach !== null && slug !== null) found.set(slug, reach)
+    const propertySlug = textAt(value, "propertySlug")
+    if (reach === null || slug === null || propertySlug === null) continue
+    found.set(slug, { key: exportedAs(propertySlug), reach })
   }
   return found
 }
 
-export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
+export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string, Identifier> {
+  const found = new Map<string, Identifier>()
   for (const held of schemaAt(given).values()) {
-    if (held.unique !== null) found.set(held.slug, held.unique)
+    if (held.unique === null || held.propertySlug === "") continue
+    found.set(held.slug, { key: exportedAs(held.propertySlug), reach: held.unique })
   }
   return found
 }

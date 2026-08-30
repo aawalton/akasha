@@ -24,6 +24,7 @@ import type { Entry, Value } from "../index-entries/index-entries.module.code.ts
 import {
   filePropertiesAt,
   filePropertiesIn,
+  type Identifier,
   loadedFrom,
   pageTypesIn,
   uniquePropertiesAt,
@@ -181,7 +182,7 @@ export type Indexing = {
 const NOTHING_DECLARES =
   "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
 
-function refusingEmpty(unique: ReadonlyMap<string, string>, pages: number): undefined {
+function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): undefined {
   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
@@ -233,23 +234,25 @@ export type Settling = {
 }
 
 function turningIn(
-  was: ReadonlyMap<string, string>,
-  now: ReadonlyMap<string, string>
+  was: ReadonlyMap<string, Identifier>,
+  now: ReadonlyMap<string, Identifier>
 ): ReadonlySet<string> {
   const said = new Set<string>()
   for (const slug of new Set([...was.keys(), ...now.keys()])) {
-    if (was.get(slug) !== now.get(slug)) said.add(slug)
+    const before = was.get(slug)
+    const after = now.get(slug)
+    if (before?.key !== after?.key || before?.reach !== after?.reach) said.add(slug)
   }
   return said
 }
 
 function onlyIn(
-  held: ReadonlyMap<string, string>,
+  held: ReadonlyMap<string, Identifier>,
   slugs: ReadonlySet<string>
-): ReadonlyMap<string, string> {
-  const said = new Map<string, string>()
-  for (const [slug, reach] of held) {
-    if (slugs.has(slug)) said.set(slug, reach)
+): ReadonlyMap<string, Identifier> {
+  const said = new Map<string, Identifier>()
+  for (const [slug, one] of held) {
+    if (slugs.has(slug)) said.set(slug, one)
   }
   return said
 }

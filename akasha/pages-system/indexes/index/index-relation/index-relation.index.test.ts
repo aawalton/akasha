@@ -52,6 +52,17 @@ test("a field the record does not declare, and a record nested deeper, file no e
   })
 })
 
+test("a page's key reaches the property stating it rather than the slug the key becomes", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", notes: ["domain/b"] }
+
+  expect(relationIn(value, "/repo/a.domain.ts", standing({ "domain/b": B }), "/repo")).toEqual({
+    entries: [
+      { at: `relation/page/id/${B}/noted-slugs/${A}.jsonl`, line: '{"path":"a.domain.ts"}' },
+    ],
+    refused: [],
+  })
+})
+
 test("a record entry naming no page is reported against the record and the field it states", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", parts: [{ partSlugs: ["nowhere"] }] }
   const filed = relationIn(value, "/repo/a.domain.ts", standing({}), "/repo")
