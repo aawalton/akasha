@@ -23,8 +23,11 @@ export const testingSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the tests of more than one system need stands here; what one module's tests need stands in fixtures beside that module.",
+      statement: "What the tests of more than one system need stands here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What one module's tests need stands in fixtures beside that module.",
     },
     {
       invariantKind: "departure",

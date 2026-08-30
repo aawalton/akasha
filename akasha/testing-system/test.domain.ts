@@ -12,8 +12,12 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A test over invented data proves what the fixture holds.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A test over invented data proves what the fixture holds; a test over the corpus proves what the corpus holds. Neither stands for the other.",
+        "A test over the corpus proves what the corpus holds. Neither stands for the other.",
     },
     {
       invariantKind: "departure",
