@@ -29,6 +29,7 @@ export const seat = {
   partSlugs: [
     "boolean-property/on-call",
     "text-property/assignment-slug",
+    "text-property/claude-code-session-uuid",
     "text-property/person-slug",
     "text-property/registration-account",
     "text-property/start-mode",
@@ -41,6 +42,12 @@ export const seat = {
     { pagePropertySlug: "start-mode", required: true, many: false },
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },
+    {
+      pagePropertySlug: "claude-code-session-uuid",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
