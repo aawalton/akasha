@@ -14,13 +14,15 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A parent is answered as a slug, because the index files that edge by id while the tree is built from slugs.",
+      statement: "A parent is answered as a slug.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index files a parent edge under the parent, so an initiative's own parent is found by listing what each initiative is named by rather than by reading what it names.",
+      statement: "The index files that edge by id while the tree is built from slugs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files a parent edge under the parent.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +30,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A persona is read out of the page, because the index files identities and edges and no text.",
+      statement: "A persona is read out of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files identities and edges and no text.",
     },
     {
       invariantKind: "absence",

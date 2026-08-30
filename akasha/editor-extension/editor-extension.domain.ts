@@ -9,7 +9,7 @@ export const editorExtension = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The editor loads the extension's TypeScript, so nothing is built before it runs.",
+      statement: "The editor loads the extension's TypeScript.",
     },
     {
       invariantKind: "departure",

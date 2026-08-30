@@ -16,17 +16,19 @@ export const panelDomains = {
     {
       invariantKind: "departure",
       statement:
-        "Which page types stand under `domain` is worked out from the page type pages themselves, so a page type added later is drawn without this being touched.",
+        "Which page types stand under `domain` is worked out from the page type pages themselves.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is answered under its address rather than its slug, because two page types may each hold a page of one slug.",
+      statement: "A page is answered under its address rather than its slug.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index files a part edge under the part, so a page's own parent is found by listing what names it.",
+      statement: "Two page types may each hold a page of one slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files a part edge under the part.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +36,11 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An order is read out of the page, because the index files an edge without the place it was stated in.",
+      statement: "An order is read out of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index files an edge without the place it was stated in.",
     },
     {
       invariantKind: "departure",
