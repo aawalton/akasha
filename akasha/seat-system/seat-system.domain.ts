@@ -37,7 +37,16 @@ export const seatSystem = {
     },
     {
       invariantKind: "constraint",
-      statement: "A write that commits cannot carry what is observed of a seat.",
+      statement:
+        "A write that commits cannot carry what is observed of a seat and can be observed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a seat is bound to cannot be observed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a seat is bound to is committed.",
     },
     {
       invariantKind: "departure",

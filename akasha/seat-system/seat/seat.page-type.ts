@@ -2,6 +2,7 @@ import type { PersonaSlug } from "../../domain-system/initiative/properties/pers
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
+import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { InitiativeSlug } from "./properties/initiative-slug.relation-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
@@ -22,6 +23,7 @@ export type Seat = Page & {
   registrationAccount: RegistrationAccount
   initiativeSlug?: InitiativeSlug
   transcriptPath?: TranscriptPath
+  claudeCodeSessionUuid?: ClaudeCodeSessionUuid
 }
 
 export const seat = {
@@ -73,12 +75,7 @@ export const seat = {
     { pagePropertySlug: "registration-account", required: true, many: false },
     { pagePropertySlug: "initiative-slug", required: false, many: false },
     { pagePropertySlug: "transcript-path", required: false, many: false },
-    {
-      pagePropertySlug: "claude-code-session-uuid",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
+    { pagePropertySlug: "claude-code-session-uuid", required: false, many: false },
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
