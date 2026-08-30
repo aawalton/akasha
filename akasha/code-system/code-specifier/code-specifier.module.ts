@@ -11,7 +11,11 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "Every way TypeScript names a module is read as one: an import or export naming where it comes from and a dynamic import and a require call and an import assignment and a module named inside a type.",
+        "TypeScript names a module by an import or an export naming where it comes from or a dynamic import or a require call or an import assignment or a module named inside a type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every way TypeScript names a module is read as one.",
     },
     {
       invariantKind: "departure",
@@ -36,8 +40,15 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A template is no string here. Only a body's plain quoted text is answered. Nothing else can be written over without reading what fills it.",
+      statement: "A template is no string here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Only a body's plain quoted text is answered.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing else can be written over without reading what fills it.",
     },
     {
       invariantKind: "departure",
@@ -46,13 +57,20 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Whether a landing may be reached is not judged here. A caller refusing one that climbs out of the root or answering one spelt from the root keeps that rule where it belongs.",
+      statement: "Whether a landing may be reached is not judged here.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads the disk or the index. A specifier is what the source says whether or not the file it names stands.",
+        "A caller refusing one that climbs out of the root or answering one spelt from the root keeps that rule where it belongs.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the disk or the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A specifier is what the source says whether or not the file it names stands.",
     },
     {
       invariantKind: "departure",
