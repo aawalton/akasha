@@ -34,9 +34,43 @@ export const pageUncommitted = {
         "The exported name carries the page's own name, so a file opened on its own says which page it stands beside.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Every write takes a lock keyed on the file it writes, so writers to one page take turns and writers to different pages never wait on one another.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The lock is a `.lock` directory beside the file, taken by one create that fails where it already stands, and released however the act inside it ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git ignores every `.lock`, so no lock a writer takes is ever committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The lock names the process that took it and the moment that process started, and a lock whose holder is gone is taken rather than waited on.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A lock naming no holder that can be read is taken once it has stood too long, so a mark nobody wrote wedges nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Values merge key by key into what stands, so writers owning different keys of one page never lose one another's.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Dropping names the keys to take away, and taking the whole file away is its own act under its own name, so neither is read as the other.",
+    },
+    {
       invariantKind: "absence",
       statement:
-        "Nothing here takes a lock. Two writers racing lose one another's values, though neither can be read half written.",
+        "A reader takes no lock, because a write lands whole by rename, so no reader ever waits on a writer or holds one up.",
     },
   ],
 } as const satisfies Module
