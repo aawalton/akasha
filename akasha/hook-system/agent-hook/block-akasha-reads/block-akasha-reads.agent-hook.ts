@@ -12,7 +12,11 @@ export const blockAkashaReads = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A Read landing inside the akasha folder is refused, and `akasha read` is named.",
+      statement: "A Read landing inside the akasha folder is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names `akasha read`.",
     },
     {
       invariantKind: "departure",
@@ -20,8 +24,11 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal says the output must reach the agent, a read thrown away recording nothing.",
+      statement: "A refusal says the output must reach the agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A read thrown away records nothing.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +36,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook, and asked for with `--scope`.",
+      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "absence",
