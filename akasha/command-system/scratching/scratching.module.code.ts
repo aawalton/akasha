@@ -5,7 +5,7 @@ export const SCRATCH_AT = "/var/tmp"
 
 export type Scratch = {
   readonly rootFor: (prefix: string) => string
-  readonly sweep: () => void
+  readonly sweep: () => undefined
 }
 
 export function scratchWorld(): Scratch {

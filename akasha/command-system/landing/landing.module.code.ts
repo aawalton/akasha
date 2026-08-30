@@ -137,8 +137,8 @@ type Reading = {
   readonly troubleAt: string
   readonly rfd: number
   readonly bases: Set<string>
-  readonly asked: (name: string) => void
-  readonly ended: () => void
+  readonly asked: (name: string) => undefined
+  readonly ended: () => undefined
   held: Buffer
   from: number
   to: number

@@ -191,7 +191,7 @@ function walkingBy(
   path: string,
   knowing: Knowing,
   walked: Set<string>,
-  taking: (said: string) => void
+  taking: (said: string) => undefined
 ): undefined {
   if (walked.has(path)) return
   walked.add(path)

@@ -65,7 +65,7 @@ export type Ran = {
 
 export type World = {
   readonly root: string
-  readonly sweep: () => void
+  readonly sweep: () => undefined
 }
 
 export function alreadyRunning(): boolean {

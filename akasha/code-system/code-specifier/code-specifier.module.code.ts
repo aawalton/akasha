@@ -7,7 +7,7 @@ export type Placed = {
   readonly text: string
 }
 
-type Taking = (node: ts.Node, took: (said: ts.Node | undefined) => void) => void
+type Taking = (node: ts.Node, took: (said: ts.Node | undefined) => undefined) => undefined
 
 function reading(path: string, text: string, takes: Taking): readonly Placed[] {
   const source = skimmedAs(path, text)

@@ -182,8 +182,8 @@ function reconcile(under: string, entries: readonly Entry[], root: string): unde
 }
 
 export type Indexing = {
-  readonly wrote: (path: string, body: string, before: string | null) => void
-  readonly took: (path: string, before: string | null) => void
+  readonly wrote: (path: string, body: string, before: string | null) => undefined
+  readonly took: (path: string, before: string | null) => undefined
   readonly settle: () => readonly string[]
 }
 
