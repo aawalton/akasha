@@ -15,8 +15,11 @@ export const faultSaying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is said whole and what is said in one line stand apart: a refusal carries the short one and a caller keeping the fault wants the whole.",
+      statement: "A refusal carries what is said in one line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller keeping the fault wants what is said whole.",
     },
     {
       invariantKind: "departure",
