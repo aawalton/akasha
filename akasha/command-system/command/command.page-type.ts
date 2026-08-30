@@ -1,9 +1,13 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
+import type { Notes } from "../../domain-system/initiative/properties/notes.text-property.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Mechanical } from "./properties/mechanical.boolean-property.ts"
+import type { Taking } from "./properties/taking.record-property.ts"
 
 export type Command = Module & {
   mechanical?: Mechanical
+  taking?: Taking
+  notes?: readonly Notes[]
 }
 
 export const command = {
@@ -23,13 +27,24 @@ export const command = {
     "command/remove",
     "command/test",
     "command/write",
+    "record-property/taking",
+    "text-property/said",
+    "text-property/takes",
   ],
   extendsSlug: "page-type/module",
-  properties: [{ pagePropertySlug: "mechanical", required: false, many: false }],
+  properties: [
+    { pagePropertySlug: "mechanical", required: false, many: false },
+    { pagePropertySlug: "taking", required: false, many: true, max: null },
+    { pagePropertySlug: "notes", required: false, many: true, max: null },
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A command's slug is what it is invoked by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command's page states what it takes and what is worth knowing about taking it.",
     },
   ],
 } as const satisfies PageType
