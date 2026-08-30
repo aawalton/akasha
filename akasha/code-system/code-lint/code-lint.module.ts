@@ -12,11 +12,15 @@ export const codeLint = {
     {
       invariantKind: "departure",
       statement:
-        "A run is answered whole: what it exited and how many errors were counted and every finding named and why it could not look where it could not.",
+        "A run is answered as what it exited and how many errors were counted and every finding named and why it could not look where it could not.",
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads. No fix and no write and no unsafe change is ever asked for.",
+      statement: "A run only reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No fix and no write and no unsafe change is ever asked for.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +39,11 @@ export const codeLint = {
     {
       invariantKind: "constraint",
       statement:
-        "Biome says of its own JSON reporter that it is unstable and may change between patches. We read it anyway.",
+        "Biome says of its own JSON reporter that it is unstable and may change between patches.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "We read it anyway.",
     },
     {
       invariantKind: "constraint",
@@ -55,8 +63,12 @@ export const codeLint = {
     },
     {
       invariantKind: "absence",
+      statement: "How findings are reported is not answered here.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "How findings are reported is not answered here. What is printed and how much of it a caller may hold and what exit follows belong to whoever asked for the run.",
+        "What is printed and how much of it a caller may hold and what exit follows belong to whoever asked for the run.",
     },
   ],
 } as const satisfies Module
