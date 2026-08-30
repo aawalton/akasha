@@ -49,7 +49,7 @@ Spend on what makes all later work cheaper.
 
 An agent updates what it believes and what it intends together, so the goal bends the belief.
 
-Open the file rather than trust your memory.
+Open what a claim is about, however it came.
 
 Stop looking once you can make the call.
 
