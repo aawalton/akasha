@@ -48,7 +48,11 @@ export const panelDomains = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the corpus. Every page answered is one the index named first.",
+      statement: "Nothing here walks the corpus.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every page answered is one the index named first.",
     },
   ],
 } as const satisfies Module

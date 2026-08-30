@@ -10,8 +10,11 @@ export const dataPlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The place is said here alone. What stands under it is named by whatever owns that.",
+      statement: "The place is said here alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What stands under it is named by whatever owns that.",
     },
     {
       invariantKind: "departure",

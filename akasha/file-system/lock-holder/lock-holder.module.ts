@@ -45,7 +45,11 @@ export const lockHolder = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here takes a lock or releases one and nothing here knows where a lock stands. What is read is a pid and a mark.",
+        "Nothing here takes a lock or releases one and nothing here knows where a lock stands.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What is read is a pid and a mark.",
     },
   ],
 } as const satisfies Module

@@ -31,7 +31,7 @@ export const graphSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "What the graph derives is a cache and never an index: it can be thrown away.",
+      statement: "What the graph derives is a cache and never an index.",
     },
     {
       invariantKind: "departure",

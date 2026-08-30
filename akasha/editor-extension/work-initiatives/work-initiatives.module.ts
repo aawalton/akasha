@@ -38,8 +38,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here walks the corpus. Every initiative answered is one the index named first.",
+      statement: "Nothing here walks the corpus.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every initiative answered is one the index named first.",
     },
   ],
 } as const satisfies Module

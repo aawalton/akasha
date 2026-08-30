@@ -56,8 +56,7 @@ export const readoutWidget = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A widget draws groups rather than readings, so what it shows can change without it.",
+      statement: "A widget draws groups rather than readings.",
     },
     {
       invariantKind: "departure",

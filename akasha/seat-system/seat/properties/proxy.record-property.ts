@@ -19,8 +19,11 @@ export const proxy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A seat reaches one proxy or none. A proxy short of any of these is no proxy at all.",
+      statement: "A seat reaches one proxy or none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A proxy short of any of these is no proxy at all.",
     },
   ],
 } as const satisfies RecordProperty
