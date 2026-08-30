@@ -28,6 +28,7 @@ export const syntaxRule = {
   partSlugs: [
     "syntax-rule/exhaustive-dispatch",
     "syntax-rule/no-double-cast",
+    "syntax-rule/no-libc-by-name",
     "syntax-rule/no-local-midnight-parse",
     "syntax-rule/no-sops-on-dev-stdin",
     "syntax-rule/no-void-self-in-object-method",
