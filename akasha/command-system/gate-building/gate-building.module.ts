@@ -19,7 +19,7 @@ export const gateBuilding = {
     {
       invariantKind: "departure",
       statement:
-        "A change judged in a scratch tree is judged by the checks standing at the root this code stands under, not by whatever stands in the scratch tree.",
+        "A change judged in a scratch tree is judged by the checks standing at the root this code stands under rather than by whatever stands in the scratch tree.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +31,11 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "It says only why the gate is missing, and the caller says what a missing gate means.",
+      statement: "It says only why the gate is missing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The caller says what a missing gate means.",
     },
     {
       invariantKind: "departure",
@@ -40,13 +43,23 @@ export const gateBuilding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The gate is built for one phase, and which checks stand on a phase is answered where the checks are.",
+      statement: "The gate is built for one phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which checks stand on a phase is answered where the checks are.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges, writes, indexes or commits. What is handed back is what will judge, and this is never told whether it ran.",
+      statement: "Nothing here judges or writes or indexes or commits.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What is handed back is what will judge.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This is never told whether it ran.",
     },
   ],
 } as const satisfies Module
