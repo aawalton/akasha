@@ -61,9 +61,9 @@ func categorizeReading(_ state: FeedState<Categorization>) -> CategorizeReading?
 struct CategorizeTile: View {
     let reading: CategorizeReading?
 
-    private var countColor: Color {
+    private var ringColor: Color {
         guard let reading, let tier = reading.scale?.tier(for: reading.left) else {
-            return Color(.label)
+            return Color(.systemGray5)
         }
         return backlogColor(tier)
     }
@@ -78,7 +78,7 @@ struct CategorizeTile: View {
         Ring(
             stroke: .centred,
             width: LARGE_RING_STROKE,
-            trackColor: Color(.systemGray5),
+            trackColor: ringColor,
             arc: nil,
             lineCap: .round,
             caption: RingCaption(
@@ -91,7 +91,7 @@ struct CategorizeTile: View {
         ) { metrics in
             Text(reading.map { $0.left.formatted() } ?? "—")
                 .font(.system(size: 36, weight: .bold, design: .rounded))
-                .foregroundStyle(countColor)
+                .foregroundStyle(Color(.label))
                 .minimumScaleFactor(0.4)
                 .lineLimit(1)
                 .padding(.horizontal, metrics.strokeWidth + SPACING_1)
