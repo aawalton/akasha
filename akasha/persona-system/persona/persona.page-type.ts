@@ -4,11 +4,13 @@ import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
+import type { ValueSlug } from "./properties/value-slug.text-property.ts"
 
 export type Persona = Domain & {
   purpose: Purpose
   portrait: Portrait
   roleSlug: RoleSlug
+  valueSlug: ValueSlug
   championedDomainSlug?: ChampionedDomainSlug
 }
 
@@ -24,11 +26,13 @@ export const persona = {
     "text-property/championed-domain-slug",
     "text-property/purpose",
     "text-property/role-slug",
+    "text-property/value-slug",
   ],
   properties: [
     { pagePropertySlug: "purpose", required: true, many: false },
     { pagePropertySlug: "portrait", required: true, many: false },
     { pagePropertySlug: "role-slug", required: true, many: false },
+    { pagePropertySlug: "value-slug", required: true, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
   ],
   invariants: [
