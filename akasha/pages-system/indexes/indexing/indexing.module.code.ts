@@ -88,27 +88,19 @@ export function filingOf(
   was: readonly Entry[],
   now: readonly Entry[]
 ): readonly Filing[] {
-  const withdrawn = new Map<string, Set<string>>()
-  const added = new Map<string, Set<string>>()
   const kept = new Set(now.map(keyOf))
-  for (const gone of was) {
-    if (kept.has(keyOf(gone))) continue
-    const held = withdrawn.get(gone.at) ?? new Set<string>()
-    held.add(gone.line)
-    withdrawn.set(gone.at, held)
-  }
-  for (const come of now) {
-    const held = added.get(come.at) ?? new Set<string>()
-    held.add(come.line)
-    added.set(come.at, held)
-  }
+  const withdrawn = Map.groupBy(
+    was.filter((one) => !kept.has(keyOf(one))),
+    (one) => one.at
+  )
+  const added = Map.groupBy(now, (one) => one.at)
   const said: Filing[] = []
   for (const at of new Set([...withdrawn.keys(), ...added.keys()])) {
-    const gone = withdrawn.get(at) ?? new Set<string>()
-    const come = added.get(at) ?? new Set<string>()
-    const lines = [...reading.lines(at)].filter((one) => !gone.has(one))
-    for (const one of come) if (!lines.includes(one)) lines.push(one)
-    said.push({ at, lines: [...lines].sort() })
+    const gone = new Set((withdrawn.get(at) ?? []).map((one) => one.line))
+    const come = new Set((added.get(at) ?? []).map((one) => one.line))
+    const standing = [...reading.lines(at)].filter((one) => !gone.has(one))
+    const coming = [...come].filter((one) => !standing.includes(one))
+    said.push({ at, lines: [...standing, ...coming].sort() })
   }
   return said
 }
@@ -169,16 +161,14 @@ function filesUnder(at: string): readonly string[] {
 }
 
 function reconcile(under: string, entries: readonly Entry[], root: string): undefined {
-  const wanted = new Map<string, Set<string>>()
-  for (const one of entries) {
-    const held = wanted.get(one.at) ?? new Set<string>()
-    held.add(one.line)
-    wanted.set(one.at, held)
-  }
+  const wanted = Map.groupBy(entries, (one) => one.at)
   for (const one of filesUnder(under)) {
     if (!wanted.has(one.slice(root.length + 1))) keepWhole(one, [], root)
   }
-  for (const [at, lines] of wanted) keepWhole(join(root, at), [...lines].sort(), root)
+  for (const [at, held] of wanted) {
+    const lines = new Set(held.map((one) => one.line))
+    keepWhole(join(root, at), [...lines].sort(), root)
+  }
 }
 
 export type Indexing = {
