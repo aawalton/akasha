@@ -10,4 +10,5 @@ export const id = {
   max: 36,
   nameFormatSlug: "name-format/lower-uuid",
   unique: "always",
+  generator: "uuid-v7",
 } as const satisfies TextProperty

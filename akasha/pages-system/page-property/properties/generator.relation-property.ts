@@ -19,9 +19,14 @@ export const generator = {
         "A generated property is filled as its page is created, never on one already standing.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "Nothing fills a generated property yet, so stating one leaves the value to the writer.",
+        "A page being created that states the property keeps what it states, so a value written by hand is never worked out over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body carried from another path is left as it stands, a move being one page arriving somewhere else rather than a second page.",
     },
   ],
 } as const satisfies RelationProperty
