@@ -9,8 +9,8 @@ import {
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { holding } from "../../holding/holding.module.code.ts"
-import { oneLine } from "../../landing/landing.module.code.ts"
 
 export const REFRESH = "refresh"
 
@@ -231,6 +231,6 @@ export function index(argv: readonly string[], given: Given): Answer {
   try {
     return holding(root, () => refreshing(root, read))
   } catch (thrown) {
-    return refusing([oneLine(thrown instanceof Error ? thrown.message : String(thrown))], 3)
+    return refusing([whyOf(thrown)], 3)
   }
 }

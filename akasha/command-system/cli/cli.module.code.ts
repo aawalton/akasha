@@ -1,6 +1,7 @@
 import { resolve } from "node:path"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
+import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { writerIn } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 
@@ -51,7 +52,7 @@ export function answering(
   try {
     return saidOf(calling(argv, outsideOf(env, at, from)))
   } catch (thrown) {
-    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    const why = saidBy(thrown)
     return { out: [], err: [`akasha: ${why}`], code: UNCLASSIFIED }
   }
 }

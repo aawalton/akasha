@@ -8,6 +8,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 
 export type Outside = {
   readonly root: string
@@ -75,7 +76,7 @@ export function reachedIn(
   try {
     return { mod: loadFrom(at) as Record<string, unknown> }
   } catch (thrown) {
-    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    const why = saidBy(thrown)
     return { why: why.replace(/\s+/g, " ").trim() }
   }
 }

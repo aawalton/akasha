@@ -15,6 +15,8 @@ const ANSWERS_NOTHING = `export const held = 1\n`
 
 const WILL_NOT_LOAD = `export function held( {\n`
 
+const THROWS_NO_ERROR = `throw "the door was shut"\n`
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -92,6 +94,13 @@ test("a command page whose code will not load is refused with why, not with a gu
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("could not be loaded — ")
   expect(said.refusals[0]).not.toContain("answers to nothing")
+})
+
+test("a command page throwing what is no Error is still refused with what it said", () => {
+  const root = rootWith([{ slug: "held", body: THROWS_NO_ERROR }])
+  const said = calling(["held"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("could not be loaded — the door was shut")
 })
 
 const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
