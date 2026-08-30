@@ -1,4 +1,4 @@
-import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
+import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
   pageTypesIn,
@@ -273,7 +273,7 @@ export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
     if (generated !== null) return generated
     const cast = shadowFor(leaving)
     if ("refused" in cast) throw new Error(cast.refused)
-    generated = generatedProperties(cast.shadow)
+    generated = waitingProperties(cast.shadow)
     return generated
   }
   const read = readingIn(leaving)

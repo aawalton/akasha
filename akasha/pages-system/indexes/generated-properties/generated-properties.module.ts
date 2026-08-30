@@ -4,7 +4,7 @@ export const generatedProperties = {
   id: "01a04f2b-3d23-790e-b2f2-a9b1e6846e6f",
   pageTypeSlug: "module",
   slug: "generated-properties",
-  definition: "which page properties state a generator, read from the pages the index names",
+  definition: "which page properties state a generator, which kind works each out, and when",
   code: "ts",
   test: "ts",
   invariants: [
@@ -26,6 +26,16 @@ export const generatedProperties = {
     {
       invariantKind: "departure",
       statement: "The slugs come back in one order, so what is built from them does not shift.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a value waits for the checks is read from the generator kind's own page, so the two kinds are told apart by what they say rather than by their names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A generator naming a kind that stands nowhere is refused, because a kind that cannot be read is not a kind that works its value out early.",
     },
     {
       invariantKind: "departure",

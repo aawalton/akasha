@@ -4,7 +4,7 @@ import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
 import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
-import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
+import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
@@ -163,7 +163,7 @@ export function foundIn(leaving: Leaving): readonly Found[] {
   const root = resolve(leaving.root)
   const cast = shadowFor(leaving)
   if ("refused" in cast) throw new Error(cast.refused)
-  const keys = [...generatedProperties(cast.shadow)].map(exportedAs)
+  const keys = [...waitingProperties(cast.shadow)].map(exportedAs)
   const read = bodiesOf(leaving, mintingIn(leaving, keys))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
