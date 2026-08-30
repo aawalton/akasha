@@ -24,7 +24,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read returns the whole file, or what changed since the agent read it, or says the agent read that body already.",
+        "A read returns the whole file, or what changed after the agent read it, or says the agent read that body already.",
     },
     {
       invariantKind: "departure",
@@ -86,12 +86,11 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A read for an agent nothing identifies is refused, because a read that records nothing is work thrown away and a write after it is refused anyway.",
+      statement: "A read for an agent nothing identifies is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A read hands back what the file it names warrants, so one call answers the gate.",
+      statement: "A read hands back what the file it names warrants.",
     },
     {
       invariantKind: "departure",
