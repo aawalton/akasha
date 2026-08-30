@@ -8,16 +8,15 @@ export interface NameVocabulary {
   readonly persons: readonly string[]
   readonly domains: readonly string[]
   readonly roles: readonly string[]
-  readonly tasks: readonly string[]
   readonly rolesLongestFirst: readonly string[]
 }
 
 const heldByRoot = new Map<string, NameVocabulary>()
 
 function readVocabulary(root: string): NameVocabulary {
-  const readings = readCorpora(root, ["personas", "persons", "domains", "roles", "tasks"])
+  const readings = readCorpora(root, ["personas", "persons", "domains", "roles"])
   const slugsOf = (
-    subject: "personas" | "persons" | "domains" | "roles" | "tasks"
+    subject: "personas" | "persons" | "domains" | "roles"
   ): readonly string[] => readings.get(subject)?.records.map((record) => record.slug) ?? []
   const roles = slugsOf("roles").filter((role) => !UNNAMEABLE_ROLES.has(role))
   return {
@@ -25,7 +24,6 @@ function readVocabulary(root: string): NameVocabulary {
     persons: slugsOf("persons"),
     domains: slugsOf("domains"),
     roles,
-    tasks: slugsOf("tasks"),
     rolesLongestFirst: [...roles].sort((a, b) => b.length - a.length),
   }
 }

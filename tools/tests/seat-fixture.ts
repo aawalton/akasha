@@ -20,9 +20,7 @@ const PAGE_TYPES = [
   "pages/page-type/persona.page-type.md",
   "pages/page-type/person.page-type.md",
   "pages/page-type/role.page-type.md",
-  "pages/page-type/task.page-type.md",
   "pages/page-type/initiative.page-type.md",
-  "pages/page-body-shape/task.page-body-shape.md",
   "pages/page-body-shape/initiative.page-body-shape.md",
   "pages/page-body-shape/empty.page-body-shape.md",
   "pages/page-body-shape/domain.page-body-shape.md",
@@ -130,5 +128,4 @@ export function namedIn(at: Fixture): void {
   at.document("pages/persona/athena.persona.md", 'page-type-slug: persona\nslug: athena\ntitle: "Athena"\ndomain-parent-slug: global', 20)
   at.document("pages/person/alan.person.md", 'page-type-slug: person\nslug: alan\ntitle: "Alan"\ndomain-parent-slug: global', 20)
   at.document("pages/role/definer.role.md", 'page-type-slug: role\nslug: definer\ntitle: "Definer"\ndomain-parent-slug: global', 20)
-  at.document("pages/task/change-instructions.task.md", 'page-type-slug: task\nslug: change-instructions\ntitle: "Change instructions"\ndomain-parent-slug: global', 20)
 }

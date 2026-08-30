@@ -2,7 +2,7 @@
 import { FLEX, JOINER } from "./compose-seat-name.ts"
 import type { Vocabulary } from "./seat-vocabulary.ts"
 
-export const SLOTS = ["persona", "domain", "role", "flex", "task"] as const
+export const SLOTS = ["persona", "domain", "role", "flex"] as const
 
 export type Slot = (typeof SLOTS)[number]
 
@@ -10,7 +10,6 @@ export interface Vocabularies {
   readonly personas: ReadonlySet<string>
   readonly domains: ReadonlySet<string>
   readonly roles: ReadonlySet<string>
-  readonly tasks: ReadonlySet<string>
 }
 
 export function vocabulariesOf(vocabulary: Vocabulary): Vocabularies {
@@ -18,7 +17,6 @@ export function vocabulariesOf(vocabulary: Vocabulary): Vocabularies {
     personas: new Set(vocabulary.persona),
     roles: new Set(vocabulary.role),
     domains: new Set(vocabulary.domain),
-    tasks: new Set(vocabulary.task),
   }
 }
 
@@ -28,7 +26,6 @@ function admits(slot: Slot, segment: string, vocabularies: Vocabularies): boolea
   if (slot === "persona") return vocabularies.personas.has(segment)
   if (slot === "domain") return vocabularies.domains.has(segment)
   if (slot === "role") return vocabularies.roles.has(segment)
-  if (slot === "task") return vocabularies.tasks.has(segment)
   return FLEX.test(segment)
 }
 

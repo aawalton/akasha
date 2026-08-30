@@ -18,7 +18,7 @@ function isDocument(relPath: string): boolean {
   return relPath.endsWith(DOC) && !isAttachmentFile(relPath) && !isRowsFile(relPath)
 }
 
-export const SUBJECTS = ["personas", "persons", "roles", "tasks", "domains"] as const
+export const SUBJECTS = ["personas", "persons", "roles", "domains"] as const
 
 export type Subject = (typeof SUBJECTS)[number]
 
@@ -176,7 +176,6 @@ const TYPE_OF: Readonly<Record<Subject, string>> = {
   personas: "persona",
   persons: "person",
   roles: "role",
-  tasks: "task",
 }
 
 function homeOf(root: string, subject: Subject, what: string): Home {

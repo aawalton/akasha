@@ -5,7 +5,7 @@ import { seatPageForAgent } from "./seat-presence-read.ts"
 
 export const ATTRIBUTES = ["persona", "domain", "role"] as const
 
-export const ASSIGNMENTS = ["task", "initiative", "errand", "on-call"] as const
+export const ASSIGNMENTS = ["initiative", "errand", "on-call"] as const
 
 export const CHARTER = ["flex"] as const
 

@@ -44,7 +44,7 @@ TOKENS_DISPLAY=$(echo "$INPUT" | jq -r '
     end
 ' 2>/dev/null || true)
 
-SEAT_RENDER=(persona domain role initiative task)
+SEAT_RENDER=(persona domain role initiative)
 
 . "$(dirname "${BASH_SOURCE[0]}")/lib/seat-page-read.sh"
 
