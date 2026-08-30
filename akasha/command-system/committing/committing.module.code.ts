@@ -43,7 +43,7 @@ function carrying(
   return true
 }
 
-function staged(root: string, paths: readonly string[]): void {
+function staged(root: string, paths: readonly string[]): undefined {
   for (const one of paths) {
     try {
       gitIn(root, ["add", "--intent-to-add", "--", one])

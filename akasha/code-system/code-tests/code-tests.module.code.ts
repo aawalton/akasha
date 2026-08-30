@@ -143,7 +143,7 @@ export function worldOf(
   if (existsSync(join(from, MODULES))) symlinkSync(join(from, MODULES), join(root, MODULES))
   return {
     root,
-    sweep: (): void => {
+    sweep: (): undefined => {
       rmSync(root, { recursive: true, force: true })
     },
   }
