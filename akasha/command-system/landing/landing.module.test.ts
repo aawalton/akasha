@@ -307,3 +307,35 @@ test("what was written is put back when the landing throws after writing", () =>
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
   expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
 })
+
+test("a path a change carries moves on disk and goes into no commit", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
+  const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  const said = landing(root, change, "held", ADMITS, null, null, [], carries)
+  expect("refusals" in said).toBe(false)
+  expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
+  expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
+  expect(git(root, ["ls-files"]).trim().split("\n").sort()).toEqual(["new.txt", "one.txt"])
+})
+
+test("a carry that will not go puts back the ones that went and commits nothing", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const was = baseOf(root)
+  writeFileSync(join(root, "one.uncommitted.ts"), "one")
+  writeFileSync(join(root, "two.uncommitted.ts"), "two")
+  mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })
+  writeFileSync(join(root, "deep/two.uncommitted.ts/in-the-way.txt"), "standing here")
+  const carries = [
+    { from: "one.uncommitted.ts", to: "deep/one.uncommitted.ts" },
+    { from: "two.uncommitted.ts", to: "deep/two.uncommitted.ts" },
+  ]
+  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  expect(() => landing(root, change, "held", ADMITS, null, null, [], carries)).toThrow()
+  expect(readFileSync(join(root, "one.uncommitted.ts"), "utf8")).toBe("one")
+  expect(readFileSync(join(root, "two.uncommitted.ts"), "utf8")).toBe("two")
+  expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)
+  expect(existsSync(join(root, "new.txt"))).toBe(false)
+  expect(baseOf(root)).toBe(was)
+})
