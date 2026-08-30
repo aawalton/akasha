@@ -14,7 +14,7 @@ import {
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { bodyIn, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
-import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
+import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { write } from "./write.command.code.ts"
 import { write as writeCommand } from "./write.command.ts"
@@ -223,6 +223,21 @@ test("a file standing beside a path this call writes is not taken away", () => {
   )
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/held.module.code.ts"), "utf8")).toBe("proposed\n")
+})
+
+test("a path taken away is forgotten by the record, so it can be written again", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "committed\n" })
+  const gone = write(["--remove", "akasha/two.ts"], givenIn(root))
+  expect(gone.refusals).toEqual([])
+  expect(readingIn(root, AGENT, "akasha/two.ts")).toBeNull()
+  expect(readingIn(root, AGENT, "akasha/one.ts")).not.toBeNull()
+  const said = write(
+    ["--file-path", "akasha/two.ts", "--content-file", bodyIn(root)],
+    givenIn(root)
+  )
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe("proposed\n")
 })
 
 test("a removal of what is not there is refused as data that is wrong", () => {

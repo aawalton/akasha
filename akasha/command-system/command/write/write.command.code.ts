@@ -14,6 +14,7 @@ import {
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
+import { dropReadings } from "../../reading/reading.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 
@@ -286,7 +287,8 @@ export function write(argv: readonly string[], given: Given): Answer {
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 
-  return landingAsked(given, {
+  const dryRun = argv.includes(DRY_RUN)
+  const answer = landingAsked(given, {
     changes,
     message:
       said.message ??
@@ -294,9 +296,16 @@ export function write(argv: readonly string[], given: Given): Answer {
         "write",
         changes.map((one) => one.path)
       ),
-    dryRun: argv.includes(DRY_RUN),
+    dryRun,
     glass: glass.glass,
     unmoved: [],
     saying: wroteAndTook,
   })
+  if (answer.code === 0 && !dryRun) {
+    dropReadings(
+      given.root,
+      changes.filter((one) => one.body === null).map((one) => one.path)
+    )
+  }
+  return answer
 }

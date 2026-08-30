@@ -62,6 +62,16 @@ export const write = {
         "A file carried along beside a path taken away is not warranted, being the machine's own choice rather than the caller's; what the caller warranted is the page claiming it.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A path named at `--remove` that stands at no body is refused, because a removal taking nothing away is a mistake in what the call named.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path taken away is forgotten by the record, for every agent, so what is written at that path next is written over nothing rather than over what went.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "`move` and `remove` warrant nothing, their changes being the machine's own; a path this call takes away was chosen by whoever called it, and is warranted.",
