@@ -6,4 +6,5 @@ export const importEdge = {
   slug: "import-edge",
   definition: "one file naming another in its own body",
   indexSlug: "index/index-import",
+  attributeSlugs: ["graph-attribute/known"],
 } as const satisfies GraphEdge

@@ -16,6 +16,8 @@ import {
   readingAt,
 } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
+import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Known } from "../graph-attribute/graph-attributes/known.graph-attribute.ts"
 
 const GRAPH_EDGE = "graph-edge"
 
@@ -33,11 +35,23 @@ const AT_PAGE = "page"
 
 const AT_ID = "id"
 
+const PAGE_TYPE = "page-type"
+
+const PAGE_TYPE_SLUG = "pageTypeSlug"
+
+const LOADED_BY_SLUG = "loadedBySlug"
+
+const CODE = "code"
+
+const TS = "ts"
+
 const ENDING = ".jsonl"
 
 const APART = "\n"
 
-const NO_ATTRIBUTES: Readonly<Record<string, string>> = {}
+const BY_INDEX: Known = "index"
+
+const BY_DECLARATION: Known = "declaration"
 
 export type Edge = {
   readonly kind: string
@@ -107,15 +121,6 @@ function askingFor(root: string, kind: string, asked: string): Asking {
   }
 }
 
-function importsInto(root: string, path: string, asking: Asking): readonly Edge[] {
-  return importersOf(root, path).map((from) => ({
-    kind: asking.kind,
-    from,
-    to: path,
-    attrs: NO_ATTRIBUTES,
-  }))
-}
-
 function attributeFor(asking: Asking, asked: string): string {
   const only = asking.attributeSlugs[0]
   if (asking.attributeSlugs.length !== 1 || only === undefined) {
@@ -124,6 +129,42 @@ function attributeFor(asking: Asking, asked: string): string {
     )
   }
   return only
+}
+
+function loadingInto(root: string, path: string): string | null {
+  const standing = standingByPath(root, path)[0]
+  if (standing === undefined) return null
+  const page = valueAt(standing.path, root)
+  if (page === null) return null
+  const pageTypeSlug = textAt(page, PAGE_TYPE_SLUG)
+  if (pageTypeSlug === null) return null
+  const type = standingAt(root, PAGE_TYPE, pageTypeSlug)[0]
+  if (type === undefined) return null
+  const held = valueAt(type.path, root)
+  if (held === null) return null
+  const named = textAt(held, LOADED_BY_SLUG)
+  if (named === null) return null
+  const address = addressIn(named)
+  if (address.kind !== "qualified") return null
+  const loader = standingAt(root, address.pageTypeSlug, address.slug)[0]
+  if (loader === undefined) return null
+  return besideAt(loader.path, CODE, TS)
+}
+
+function importsInto(root: string, path: string, asking: Asking, asked: string): readonly Edge[] {
+  const attribute = attributeFor(asking, asked)
+  const found: Edge[] = importersOf(root, path).map((from) => ({
+    kind: asking.kind,
+    from,
+    to: path,
+    attrs: { [attribute]: BY_INDEX },
+  }))
+  const loading = loadingInto(root, path)
+  if (loading === null || loading === path) return found
+  return [
+    ...found,
+    { kind: asking.kind, from: loading, to: path, attrs: { [attribute]: BY_DECLARATION } },
+  ]
 }
 
 function sourcesUnder(reading: Reading, at: string): readonly string[] {
@@ -176,7 +217,7 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
     const asking = askingFor(root, kind, asked)
-    if (kind === IMPORT_EDGE) found.push(...importsInto(root, path, asking))
+    if (kind === IMPORT_EDGE) found.push(...importsInto(root, path, asking, asked))
     else if (kind === RELATION) found.push(...relationsInto(root, reading, path, asking, asked))
     else {
       throw new Error(

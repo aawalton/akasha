@@ -23,6 +23,12 @@ const RELATION = "relation"
 
 const PROPERTY = "property"
 
+const KNOWN = "known"
+
+const AT_INDEX = "index"
+
+const DECLARED = "declaration"
+
 const PART = "part-slugs"
 
 const NAMED = "akasha/code-system/module/module.page-type.ts"
@@ -70,6 +76,42 @@ const SECOND_AT = "akasha/held/second.ts"
 const THIRD_AT = "akasha/held/third.ts"
 
 const APART_AT = "akasha/held/apart.txt"
+
+const PAGE_TYPE = "page-type"
+
+const MODULE = "module"
+
+const HELD_TYPE = "held-type"
+
+const HELD_LOADER = "held-loader"
+
+const LOADED = "loaded"
+
+const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
+
+const LOADER_ID = "01a04ff4-0000-7000-8000-000000000010"
+
+const LOADED_ID = "01a04ff4-0000-7000-8000-000000000011"
+
+const MODULE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000012"
+
+const TYPE_AT = "akasha/held/held-type.page-type.ts"
+
+const MODULE_TYPE_AT = "akasha/held/module.page-type.ts"
+
+const LOADER_AT = "akasha/held/held-loader.module.ts"
+
+const LOADER_CODE_AT = "akasha/held/held-loader.module.code.ts"
+
+const LOADED_AT = "akasha/held/loaded.held-type.ts"
+
+const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
+
+const CHECK_AT = "akasha/checks-system/check/typecheck/typecheck.check.ts"
+
+const CHECK_CODE_AT = "akasha/checks-system/check/typecheck/typecheck.check.code.ts"
+
+const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -139,7 +181,7 @@ function stoodUp(indexName: string): string {
     tree: TREE,
     settled: [],
   })
-  edged(root, IMPORT_EDGE, {})
+  edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] })
   indexed(root, indexName)
   return root
 }
@@ -162,6 +204,31 @@ function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): s
   return root
 }
 
+function loadingWorld(loadedBySlug: string | null): string {
+  const root = stoodUp(IMPORT)
+  filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
+  paged(root, TYPE_AT, {
+    id: TYPE_ID,
+    pageTypeSlug: PAGE_TYPE,
+    slug: HELD_TYPE,
+    definition: "a page type a test invented",
+    ...(loadedBySlug === null ? {} : { loadedBySlug }),
+  })
+  filed(root, `identity/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  paged(root, LOADER_AT, {
+    id: LOADER_ID,
+    pageTypeSlug: MODULE,
+    slug: HELD_LOADER,
+    definition: "a module a test invented",
+    code: "ts",
+  })
+  filed(root, `identity/${MODULE}/slug/${HELD_LOADER}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
+  filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  filed(root, `path/${LOADED_CODE_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  return root
+}
+
 test("an empty kind list answers nothing", () => {
   expect(edgesInto(REPO_AT, NAMED, [])).toEqual([])
 })
@@ -174,11 +241,11 @@ test("the folder a relation is read from is the one the edge kind's index page n
   ])
 })
 
-test("a file is answered with every file importing it", () => {
+test("a file is answered with every file importing it, and each says the index knew it", () => {
   const root = importWorld(IMPORT)
 
   expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
 })
 
@@ -225,6 +292,67 @@ test("a page the corpus names is answered with every page naming it, and through
     from: NAMER,
     to: NAMED,
     attrs: { [PROPERTY]: EXTENDS },
+  })
+})
+
+test("a page is answered with the code its page type says loads it, beside what imports it", () => {
+  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
+
+  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_AT, attrs: { [KNOWN]: DECLARED } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+})
+
+test("a file beside a page is answered with the same loader, one declaration covering both", () => {
+  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
+
+  expect(edgesInto(root, LOADED_CODE_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_CODE_AT, attrs: { [KNOWN]: DECLARED } },
+  ])
+})
+
+test("a page type saying nothing loads it is answered with what imports it and nothing more", () => {
+  const root = loadingWorld(null)
+
+  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+})
+
+test("a loader whose own code is asked for is not answered with an edge to itself", () => {
+  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
+  paged(root, MODULE_TYPE_AT, {
+    id: MODULE_TYPE_ID,
+    pageTypeSlug: PAGE_TYPE,
+    slug: MODULE,
+    definition: "the module page type a test invented",
+    loadedBySlug: `${MODULE}/${HELD_LOADER}`,
+  })
+  filed(root, `identity/${PAGE_TYPE}/slug/${MODULE}.jsonl`, {
+    path: MODULE_TYPE_AT,
+    id: MODULE_TYPE_ID,
+  })
+  filed(root, `path/${LOADER_CODE_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+
+  expect(edgesInto(root, LOADER_CODE_AT, [IMPORT_EDGE])).toEqual([])
+})
+
+test("a check page in the corpus is answered with the module that loads it, and so is its code", () => {
+  const page = edgesInto(REPO_AT, CHECK_AT, [IMPORT_EDGE])
+  const code = edgesInto(REPO_AT, CHECK_CODE_AT, [IMPORT_EDGE])
+
+  expect(page).toContainEqual({
+    kind: IMPORT_EDGE,
+    from: CHECKING_AT,
+    to: CHECK_AT,
+    attrs: { [KNOWN]: DECLARED },
+  })
+  expect(code).toContainEqual({
+    kind: IMPORT_EDGE,
+    from: CHECKING_AT,
+    to: CHECK_CODE_AT,
+    attrs: { [KNOWN]: DECLARED },
   })
 })
 
