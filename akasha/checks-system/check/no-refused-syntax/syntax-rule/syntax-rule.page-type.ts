@@ -42,33 +42,27 @@ export const syntaxRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A rule is handed one file already parsed, so every rule reads a file the once and none parses it again.",
+      statement: "A rule is handed one file already parsed.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule is handed every file the check judges and narrows nothing, so what a rule passes over stands in its own code rather than in a skip nobody reads.",
+      statement: "A rule is handed every file the check judges and narrows nothing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every rule judges every file, so one rule refusing a file never stops another from refusing it too.",
+      statement: "Every rule judges every file.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule names the line it refuses, because a reason without a place in the file is not something a reader can act on.",
+      statement: "A rule names the line it refuses.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule refusing nothing found nothing, so a file every rule passed over is clean rather than unjudged.",
+      statement: "A rule refusing nothing found nothing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule states its test, because a rule judging every file in the corpus is wrong quietly.",
+      statement: "A rule states its test.",
     },
     {
       invariantKind: "absence",

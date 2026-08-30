@@ -10,8 +10,7 @@ export const noCredentialInScriptText = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A first argument that is no function is script text, so whatever it names is sent to the browser to be read as source.",
+      statement: "A first argument that is no function is script text.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +44,7 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name is judged rather than what it holds, so a thing named for a credential and holding none is renamed rather than excused.",
+      statement: "A name is judged rather than what it holds.",
     },
     {
       invariantKind: "gap",
@@ -55,8 +53,12 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "stopgap",
+      statement: "No file in reach hands text to a browser to run.",
+    },
+    {
+      invariantKind: "stopgap",
       statement:
-        "No file in reach hands text to a browser to run, so this refuses nothing today; the harness it guards stands outside the akasha folder and arrives when it moves inside.",
+        "The harness it guards stands outside the akasha folder and arrives when it moves inside.",
     },
   ],
 } as const satisfies SyntaxRule

@@ -10,8 +10,7 @@ export const exhaustiveDispatch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A switch naming no default is refused, because a value nobody wrote a case for leaves the switch having done nothing at all.",
+      statement: "A switch naming no default is refused.",
     },
     {
       invariantKind: "departure",
@@ -20,18 +19,15 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A default is read for what its statements do and never for what it says, so a comment promising the case cannot arise counts for nothing.",
+      statement: "A default is read for what its statements do and never for what it says.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A switch nested inside another statement is a switch, so the whole file is walked rather than its top level alone.",
+      statement: "A switch nested inside another statement is a switch.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because a switch falling through in a test misleads exactly as one falling through elsewhere.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "absence",
@@ -40,8 +36,11 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A default ending in a call to something that never returns is refused, because only `assertNever` is known by name here.",
+      statement: "A default ending in a call to something that never returns is refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Only `assertNever` is known by name here.",
     },
   ],
 } as const satisfies SyntaxRule

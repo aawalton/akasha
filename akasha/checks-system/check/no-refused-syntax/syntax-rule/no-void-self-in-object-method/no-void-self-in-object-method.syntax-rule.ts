@@ -10,13 +10,12 @@ export const noVoidSelfInObjectMethod = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A method written into an object literal declaring `this: void` is refused, because the call still hands it the object and every argument after that shifts by one.",
+      statement: "A method written into an object literal declaring `this: void` is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A function assigned to a property is left, being reached with a dot rather than a colon, so declaring no self is right there and wrong here.",
+        "A function assigned to a property is left, being reached with a dot rather than a colon.",
     },
     {
       invariantKind: "departure",
@@ -30,18 +29,16 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A method declaring no `this` at all is left, since what was never written is not a claim that the self is gone.",
+      statement: "A method declaring no `this` at all is left.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because the argument shifts the same wherever the file it came from sat.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "gap",
       statement:
-        "That the generated call uses a colon is assumed here rather than read from the transpiler's settings, so a project emitting otherwise would be refused for no fault.",
+        "That the generated call uses a colon is assumed here rather than read from the transpiler's settings.",
     },
     {
       invariantKind: "gap",

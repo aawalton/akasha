@@ -16,8 +16,7 @@ export const noRefusedSyntax = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The rules are found in the index, so a rule is added by adding a folder and nothing here changes.",
+      statement: "The rules are found in the index.",
     },
     {
       invariantKind: "departure",
@@ -27,22 +26,19 @@ export const noRefusedSyntax = {
     {
       invariantKind: "departure",
       statement:
-        "A file two rules refuse is refused twice, each reason naming the rule that gave it, so fixing one does not hide the other.",
+        "A file two rules refuse is refused twice, each reason naming the rule that gave it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "No rule standing at all is refused, because a clean answer from nothing judged would mean nothing.",
+      statement: "No rule standing at all is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule that throws is not caught here, so a rule that could not judge refuses the whole check rather than passing quietly.",
+      statement: "A rule that throws is not caught here.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A file whose bytes are not valid UTF-8 is passed over rather than refused, so it answers clean without ever being read.",
+      statement: "A file whose bytes are not valid UTF-8 is passed over rather than refused.",
     },
   ],
 } as const satisfies Check

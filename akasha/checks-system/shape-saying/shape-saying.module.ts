@@ -9,23 +9,20 @@ export const shapeSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file is said by its name inside the folder, because the folder is already named in the refusal and saying it twice reads as noise.",
+      statement: "A file is said by its name inside the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Files are said in the order the shape found them.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Files are said in the order the shape found them, so what a reader goes looking for first is what the shape looked at first.",
+        "A shape may cap how many it says, and what is left is counted rather than dropped.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shape may cap how many it says, and what is left is counted rather than dropped, so a refusal never reads as though it named them all.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A file arrives as a path or as a page the index knows, because a shape is handed both and neither is worth adapting at the call.",
+      statement: "A file arrives as a path or as a page the index knows.",
     },
   ],
 } as const satisfies Module

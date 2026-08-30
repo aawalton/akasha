@@ -14,22 +14,19 @@ export const identifierMatchesItsPlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The format is read from the place page, so this check names where a name stands and never says how it is written.",
+      statement: "The format is read from the place page.",
     },
     {
       invariantKind: "departure",
-      statement: "A type and an interface stand in one place, because each gives a name to a type.",
+      statement: "A type and an interface stand in one place.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A function is judged whether it is declared or bound to a name, at any depth, because each puts a function behind an identifier.",
+      statement: "A function is judged whether it is declared or bound to a name, at any depth.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only a declaration is judged, so a name this file merely reads is left to the file declaring it.",
+      statement: "Only a declaration is judged.",
     },
     {
       invariantKind: "absence",

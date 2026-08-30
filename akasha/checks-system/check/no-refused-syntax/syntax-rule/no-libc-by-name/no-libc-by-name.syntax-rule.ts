@@ -11,28 +11,27 @@ export const noLibcByName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A core system library opened by its own name is refused, because the process already holds one and a second brings a second set of its state.",
+      statement: "A core system library opened by its own name is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name one system carries is not the name another carries, so `libc.so.6` names nothing at all where musl is what runs.",
+      statement: "The name one system carries is not the name another carries.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call is found in the parse and never in the text, so a name written inside a string or a comment is not read as a call.",
+      statement: "`libc.so.6` names nothing at all where musl is what runs.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "`dlopen` reached through an object is refused as a bare one is, because where the function came from does not change what it opens.",
+      statement: "A call is found in the parse and never in the text.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A library is named by the last part of its path, so the same name is read alike however many folders lead to it.",
+      statement: "`dlopen` reached through an object is refused as a bare one is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A library is named by the last part of its path.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +40,7 @@ export const noLibcByName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because a second C runtime loaded in a test misleads exactly as one loaded elsewhere.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "gap",

@@ -96,8 +96,12 @@ export const check = {
     },
     {
       invariantKind: "departure",
+      statement: "Patch judges only the paths a change carries.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Patch judges only the paths a change carries, so it is turned on before zero: it holds the count from rising while the rest are fixed.",
+        "Patch turns on before the tree's violation count reaches zero, and holds the count from rising while the rest stay fixed.",
     },
     {
       invariantKind: "departure",

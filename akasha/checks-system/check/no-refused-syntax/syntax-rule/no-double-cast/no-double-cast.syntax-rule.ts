@@ -10,23 +10,19 @@ export const noDoubleCast = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An assertion standing on a widening is refused, because widening first is what lets the assertion after it name any type at all.",
+      statement: "An assertion standing on a widening is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "One assertion on its own stands, since claiming a shape where the checker cannot see is not the same as telling it to stop looking.",
+      statement: "One assertion on its own stands.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "`any` widens as `unknown` does, so an assertion reaching through either is refused and neither is the quiet way round.",
+      statement: "`any` widens as `unknown` does.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A widening standing alone is left, because `x as unknown` claims nothing and only what follows it could.",
+      statement: "A widening standing alone is left.",
     },
     {
       invariantKind: "departure",
@@ -35,13 +31,11 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The angle-bracket spelling is read as `as` is, so neither form escapes by being the rarer one.",
+      statement: "The angle-bracket spelling is read as `as` is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because a checker told to stop looking in a test proves whatever it was aimed at.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "gap",

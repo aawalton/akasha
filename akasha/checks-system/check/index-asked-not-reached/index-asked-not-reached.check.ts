@@ -16,32 +16,28 @@ export const indexAskedNotReached = {
     {
       invariantKind: "departure",
       statement:
-        "The names refused are the ones handing back a path into the index or a raw read of it, and they stay exported because the folder's own modules reach them across files.",
+        "The names refused are the ones handing back a path into the index or a raw read of it, and they stay exported.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is refused is taking the name, never what is done with it, because a path is followed where no source can be read to see it.",
+      statement: "What is refused is taking the name, never what is done with it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file under the indexes folder is passed over, because those names are what its own modules are built from.",
+      statement: "A file under the indexes folder is passed over.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name is judged by what it was declared as rather than what it was taken as, so bringing one in under another name is refused the same.",
+      statement: "A name is judged by what it was declared as rather than what it was taken as.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Where an import lands is read from the specifier alone, so a name of the same spelling taken from anywhere else stands.",
+      statement: "Where an import lands is read from the specifier alone.",
     },
     {
       invariantKind: "departure",
       statement:
-        "This runs on no phase. It states its rule and judges nothing, so what it would refuse can be read against the tree before it binds anyone.",
+        "This runs on no phase. It states its rule and judges nothing. What it would refuse can be read against the tree before it binds anyone.",
     },
   ],
 } as const satisfies Check

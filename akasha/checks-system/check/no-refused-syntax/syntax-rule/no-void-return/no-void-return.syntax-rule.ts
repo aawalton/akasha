@@ -10,8 +10,7 @@ export const noVoidReturn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A return type of `void` is refused, because a slot spelt that way takes a body handing back a value and drops it without a word.",
+      statement: "A return type of `void` is refused.",
     },
     {
       invariantKind: "departure",
@@ -30,13 +29,11 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The line named is the annotation's own, not the function's, because that is the word to change.",
+      statement: "The line named is the annotation's own, not the function's.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "`void` reached as a type argument stands, `Promise<void>` above all, since nothing is dropped where the value is the promise itself.",
+      statement: "`void` reached as a type argument stands, `Promise<void>` above all.",
     },
     {
       invariantKind: "departure",
@@ -44,8 +41,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because a callback dropped in a test proves whatever it was aimed at.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "gap",

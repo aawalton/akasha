@@ -29,13 +29,11 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One shadow is cast over the change here and handed to every check, so a check reads what the change would leave rather than asking for it.",
+      statement: "One shadow is cast over the change here and handed to every check.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shadow that could not be worked out refuses the change before any check runs, so nothing is judged against the index the last commit left.",
+      statement: "A shadow that could not be worked out refuses the change before any check runs.",
     },
     {
       invariantKind: "departure",
@@ -59,13 +57,17 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path is read out of the change by name as well as in turn, so a check needing what it was not handed reads the body the change would leave rather than the one on disk.",
+      statement: "A path is read out of the change by name as well as in turn.",
     },
     {
       invariantKind: "departure",
       statement:
-        "How a check runs over each file, and how a text is read out of a body, are held here rather than written again in every check, so a check says what it looks for and not how it is walked.",
+        "A check needing what it was not handed reads the body the change would leave rather than the one on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "How a check runs over each file, and how a text is read out of a body, are held here rather than written again in every check.",
     },
   ],
 } as const satisfies Module

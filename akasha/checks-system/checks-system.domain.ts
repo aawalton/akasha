@@ -32,7 +32,11 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "Audit judges every page; the other phases judge only what changed.",
+      statement: "Audit judges every page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The other phases judge only what changed.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +44,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No check judges what a repository outside akasha imports from inside it, so such an import breaks silently when akasha moves a file.",
+      statement: "No check judges what a repository outside akasha imports from inside it.",
     },
     {
       invariantKind: "gap",

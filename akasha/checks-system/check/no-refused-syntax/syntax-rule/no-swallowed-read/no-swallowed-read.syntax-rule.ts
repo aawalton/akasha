@@ -31,7 +31,7 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The line named is the catch's own, that being the word to change.",
+      statement: "The line named is the catch's own.",
     },
     {
       invariantKind: "absence",
@@ -40,8 +40,11 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A null answered rather than thrown is followed to the caller reading it, so a failure carried out to a refusal is told apart from one dropped.",
+      statement: "A null answered rather than thrown is followed to the caller reading it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A failure carried out to a refusal is told apart from one dropped.",
     },
   ],
 } as const satisfies SyntaxRule

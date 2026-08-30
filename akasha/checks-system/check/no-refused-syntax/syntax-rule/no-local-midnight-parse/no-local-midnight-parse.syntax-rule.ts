@@ -10,13 +10,11 @@ export const noLocalMidnightParse = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A date joined to a midnight and handed to `Date` is refused, because what comes back is midnight where the machine stands rather than midnight where the day is.",
+      statement: "A date joined to a midnight and handed to `Date` is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A midnight written into a template is read as one written with `+`, so neither spelling is the quiet way round.",
+      statement: "A midnight written into a template is read as one written with `+`.",
     },
     {
       invariantKind: "departure",
@@ -30,13 +28,11 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every piece of a joined chain is read, so a midnight pinned on at the end of a longer sum is refused as one pinned on directly.",
+      statement: "Every piece of a joined chain is read.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only `Date` built with `new` is judged, because it is the reading of the string that goes wrong and nothing else here reads one.",
+      statement: "Only `Date` built with `new` is judged.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +41,7 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, because a date read in the machine's zone passes wherever the machine is set and fails elsewhere.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "gap",

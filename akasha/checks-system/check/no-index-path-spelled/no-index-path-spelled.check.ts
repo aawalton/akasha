@@ -15,23 +15,19 @@ export const noIndexPathSpelled = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Where the index stands is asked of `index-reading` rather than spelt here, so this check is held to the rule it judges by.",
+      statement: "Where the index stands is asked of `index-reading` rather than spelt here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file under the indexes folder is passed over, because that folder is where the index's own layout is said.",
+      statement: "A file under the indexes folder is passed over.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every string a body holds is read, not the specifiers alone, because a path into the index is spelt where no module is named.",
+      statement: "Every string a body holds is read, not the specifiers alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Strings standing next to each other are read joined by a separator, so a path built segment by segment is seen as the path it builds.",
+      statement: "Strings standing next to each other are read joined by a separator.",
     },
     {
       invariantKind: "absence",

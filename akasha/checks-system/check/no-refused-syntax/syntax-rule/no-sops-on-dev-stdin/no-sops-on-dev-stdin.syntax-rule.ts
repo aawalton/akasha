@@ -15,8 +15,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call is known for sops by a marker among its own string arguments, so one naming the binary through a variable is caught as a literal one is.",
+      statement: "A call is known for sops by a marker among its own string arguments.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +25,11 @@ export const noSopsOnDevStdin = {
     {
       invariantKind: "departure",
       statement:
-        "A string reached through an array literal counts as one written straight into the call, arguments being commonly gathered in a list.",
+        "A string reached through an array literal counts as one written straight into the call.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "`/dev/stdin` alone is left, because reading a pipe is ordinary and only sops seeking one is the fault.",
+      statement: "`/dev/stdin` alone is left.",
     },
     {
       invariantKind: "departure",
@@ -39,8 +37,7 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the call is named is not asked, so a sops invocation reached through anything at all is judged by the arguments it carries.",
+      statement: "What the call is named is not asked.",
     },
     {
       invariantKind: "gap",
