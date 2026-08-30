@@ -34,7 +34,7 @@ function underneath(
   said: string,
   path: string,
   found: string[]
-): void {
+): undefined {
   for (const one of reading.listing(at)) {
     const held = beneath(at, one.name)
     if (one.directory) {

@@ -3,7 +3,7 @@ import { standing } from "../../command-system/scratching/scratching.module.test
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Warrant } from "../warranting/warranting.module.code.ts"
 
-export function indexed(root: string, at: string, line: string): void {
+export function indexed(root: string, at: string, line: string): undefined {
   standing(root, join(relative(root, indexIn(root)), at), `${line}\n`)
 }
 

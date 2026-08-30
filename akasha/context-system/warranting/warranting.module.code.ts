@@ -192,7 +192,7 @@ function walkingBy(
   knowing: Knowing,
   walked: Set<string>,
   taking: (said: string) => void
-): void {
+): undefined {
   if (walked.has(path)) return
   walked.add(path)
   for (const warrant of one.warranting(root, path, knowing)) {
@@ -204,7 +204,7 @@ function walkingBy(
 export function warrantedIn(root: string, paths: readonly string[]): readonly string[] {
   const said: string[] = []
   const held = new Set<string>()
-  const taking = (one: string): void => {
+  const taking = (one: string): undefined => {
     if (held.has(one)) return
     held.add(one)
     said.push(one)
