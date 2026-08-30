@@ -190,8 +190,8 @@ export type Indexing = {
 const NOTHING_DECLARES =
   "these pages declare no property carrying a `unique`, so no identity would be filed — the index refuses rather than answering empty"
 
-function refusingEmpty(unique: ReadonlyMap<string, string>, properties: number): void {
-  if (properties > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
+function refusingEmpty(unique: ReadonlyMap<string, string>, pages: number): void {
+  if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
 export function rebuiltFrom(
