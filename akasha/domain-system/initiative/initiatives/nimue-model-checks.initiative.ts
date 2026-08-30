@@ -15,11 +15,6 @@ export const nimueModelChecks = {
     {
       invariantKind: "gap",
       statement:
-        "One shadow answers both the index and the file values a change would leave, and everything judging a change reads it there.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
         "The change a shadow is cast over and the change a check is shown are one shape with one home.",
     },
     {
