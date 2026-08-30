@@ -7,6 +7,7 @@ export const codeSystem = {
   definition: "how we write what runs",
   partSlugs: [
     "page-type/module",
+    "page-type/ios-component",
     "module/body-text",
     "module/code-specifier",
     "module/code-rule",
