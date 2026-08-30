@@ -178,10 +178,10 @@ export function judgingBy(every: readonly Gathered[]): Judging {
     named: every.map((one) => one.slug),
     over: (leaving) => {
       const cast = shadowFor(leaving)
-      if ("refused" in cast) throw new Error(cast.refused)
       const said: Judged[] = []
       for (const one of every) {
         try {
+          if ("refused" in cast) throw new Error(cast.refused)
           said.push(...one.run(leaving, cast.shadow))
         } catch (thrown) {
           said.push(threw(one, thrown))
