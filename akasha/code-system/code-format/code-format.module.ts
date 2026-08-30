@@ -11,27 +11,45 @@ export const codeFormat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is formatted where it is handed in, before anything judges it.",
+      statement: "A body is formatted where it is handed in before anything judges it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The formatter is the one the repo already stands on, reached inside the root it is run for.",
+        "The formatter is the one the repo already stands on reached inside the root it is run for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Formatting sorts the imports as well as the spacing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Import order is enforced.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that only had its spacing fixed still fails.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What comes back is taken only when the run exited clean and said something.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that would not parse leaves the formatter silent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Silence is never a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything short of that answers the body handed in unchanged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Formatting sorts the imports as well as the spacing. Import order is enforced, and a body that only had its spacing fixed still fails.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What comes back is taken only when the run exited clean and said something. A body that would not parse leaves the formatter silent, and silence is never a body.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Anything short of that answers the body handed in, unchanged. A body that cannot be parsed is then refused on its own merits rather than quietly blanked.",
+        "A body that cannot be parsed is then refused on its own merits rather than quietly blanked.",
     },
     {
       invariantKind: "departure",
@@ -43,18 +61,39 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No refusal is spelt here. This rewrites or it does not, and what a body's trouble means is left to the checks that judge it.",
+      statement: "No refusal is spelt here.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "How the formatter is configured is not answered here. The config standing in the root is picked up by the run, and nothing restates it.",
+      statement: "This rewrites or it does not.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Which paths are worth formatting is not answered here. A caller hands in a path and a body, and the formatter itself decides what it touches.",
+      statement: "What a body's trouble means is left to the checks that judge it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "How the formatter is configured is not answered here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The config standing in the root is picked up by the run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing restates it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Which paths are worth formatting is not answered here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller hands in a path and a body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The formatter itself decides what it touches.",
     },
   ],
 } as const satisfies Module
