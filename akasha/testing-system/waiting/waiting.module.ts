@@ -9,18 +9,15 @@ export const waiting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "What is waited for is asked again rather than told, so nothing has to be wired to say when it happened.",
+      statement: "What is waited for is asked again rather than told.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Time running out is said as false rather than thrown, so the test that asked names what it wanted rather than reading a timeout.",
+      statement: "Time running out is said as false rather than thrown.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "It is asked once more after time is up, so something that became true in the last gap is not read as never having.",
+      statement: "It is asked once more after time is up.",
     },
   ],
 } as const satisfies Module

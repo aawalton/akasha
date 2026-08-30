@@ -19,8 +19,7 @@ export const testingSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Scaffolding a test stands up is not the thing under test, so it stands apart from every system it tries.",
+      statement: "Scaffolding a test stands up is not the thing under test.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +29,7 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "A fixture beside a module reaches for what stands here rather than spelling it again, so the two are one floor and one room, never two floors.",
+        "A fixture beside a module reaches for what stands here rather than spelling it again.",
     },
     {
       invariantKind: "departure",

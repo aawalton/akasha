@@ -9,21 +9,19 @@ export const minting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check a test mints states each phase it runs on, as a real check page does.",
+      statement: "A check a test mints states each phase it runs on.",
     },
     {
       invariantKind: "departure",
-      statement: "One place mints them, so a change to what a check page is lands in one place.",
+      statement: "One place mints them.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A minted id is worked out from the slug it is minted for, so nothing counts and no id turns on the order the mints ran in.",
+      statement: "A minted id is worked out from the slug it is minted for.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two slugs minted into one root are two ids, and one slug minted twice is one id, because what a page is stands behind its identity.",
+      statement: "Two slugs minted into one root are two ids, and one slug minted twice is one id.",
     },
   ],
 } as const satisfies Module

@@ -8,8 +8,7 @@ export const test = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A test names one thing held true, so a run that fails says what stopped being so rather than only where it stopped.",
+      statement: "A test names one thing held true.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +18,7 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
-        "A test reaching the corpus reads it whole rather than pinning what it found, because the corpus grows under every run.",
+        "A test reaching the corpus reads it whole rather than pinning what it found. The corpus grows under every run.",
     },
     {
       invariantKind: "gap",

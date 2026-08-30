@@ -9,18 +9,15 @@ export const walking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A path is said from the folder walked rather than from the root, so two trees stood up at different places compare equal.",
+      statement: "A path is said from the folder walked rather than from the root.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The list is sorted, so what the file system happened to hand back in what order says nothing.",
+      statement: "The list is sorted.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is read as text, so a tree holding bytes that are no text is out of reach here.",
+      statement: "A body is read as text.",
     },
   ],
 } as const satisfies Module

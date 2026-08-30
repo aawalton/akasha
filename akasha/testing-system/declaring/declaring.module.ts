@@ -10,13 +10,12 @@ export const declaring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The pages are the corpus's own, imported rather than restated, so a test's world declares what the repository declares.",
+      statement: "The pages are the corpus's own, imported rather than restated.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A world is served by carrying the pages into its tree, because every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
+        "A world is served by carrying the pages into its tree. Every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
     },
     {
       invariantKind: "departure",

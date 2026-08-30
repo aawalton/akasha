@@ -9,18 +9,15 @@ export const putting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The folders a path names are made on the way, so a test says where a file goes without first saying what holds it.",
+      statement: "The folders a path names are made on the way.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path is said from the root handed in rather than from where the test runs, so nothing depends on the working directory.",
+      statement: "A path is said from the root handed in rather than from where the test runs.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where the file landed is handed back, so a test that must name it to something else does not work the same path out twice.",
+      statement: "Where the file landed is handed back.",
     },
   ],
 } as const satisfies Module

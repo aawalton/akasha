@@ -10,17 +10,16 @@ export const gitting = {
     {
       invariantKind: "departure",
       statement:
-        "The repo is named by its root rather than by the folder the test happens to be run from, so nothing depends on where it was called.",
+        "The repo is named by its root rather than by the folder the test happens to be run from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What git says on the error stream is caught rather than shown or thrown away.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What git says on the error stream is caught rather than shown or thrown away, so a run that passes stays quiet and a run that fails still carries what git said.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The commit a repo stands at is taken from landing, which answers it for the door already, so a test and the door read HEAD by one rule.",
+        "The commit a repo stands at is taken from landing, which answers it for the door already.",
     },
     {
       invariantKind: "absence",

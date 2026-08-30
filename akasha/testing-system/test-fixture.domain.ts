@@ -20,8 +20,7 @@ export const testFixture = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing says a fixture has fallen behind the system it feeds, so a fixture can go stale while every test still passes.",
+      statement: "Nothing says a fixture has fallen behind the system it feeds.",
     },
     {
       invariantKind: "departure",

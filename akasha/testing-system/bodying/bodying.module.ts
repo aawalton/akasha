@@ -9,18 +9,15 @@ export const bodying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A test names the root once and is handed a way to make bodies under it, so the root is not spelled again at every body.",
+      statement: "A test names the root once and is handed a way to make bodies under it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Text and bytes are both taken, because what a check is handed is bytes and what a test says is text.",
+      statement: "Text and bytes are both taken. A check is handed bytes, and a test says text.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a test binds is what it was handed, not a function of its own, so binding this again in ten test files says one thing ten times rather than ten things.",
+      statement: "What a test binds is what it was handed, not a function of its own.",
     },
   ],
 } as const satisfies Module
