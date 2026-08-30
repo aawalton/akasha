@@ -346,7 +346,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     }
     carries.push({ was: one.from, now: one.to, from: blobIdOf(bytes) })
     if (!one.from.endsWith(TS)) {
-      changes.push({ path: one.to, body: bytes })
+      changes.push({ path: one.to, body: bytes, carried: true })
       changes.push({ path: one.from, body: null })
       continue
     }
@@ -363,6 +363,7 @@ export function move(argv: readonly string[], given: Given): Answer {
     changes.push({
       path: one.to,
       body: new TextEncoder().encode(repointed(one.from, one.to, text, moved)),
+      carried: true,
     })
     changes.push({ path: one.from, body: null })
   }
@@ -389,7 +390,7 @@ export function move(argv: readonly string[], given: Given): Answer {
       if (next === text) continue
       repointing.push(path)
       carries.push({ was: path, now: path, from: blobIdOf(held) })
-      changes.push({ path, body: new TextEncoder().encode(next) })
+      changes.push({ path, body: new TextEncoder().encode(next), carried: true })
     }
   }
   const reached: Reached = {

@@ -25,6 +25,7 @@ import { INSIDE, movedOnDisk, reachedSince } from "../standing/standing.module.c
 export type Change = {
   readonly path: string
   readonly body: Uint8Array | null
+  readonly carried?: boolean
 }
 
 export type Proposed = {

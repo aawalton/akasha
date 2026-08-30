@@ -16,6 +16,8 @@ import {
   NO_GATE,
 } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
+import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
+import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -72,6 +74,14 @@ export function formattingIn(root: string, changes: readonly Change[]): Formatti
 export function formattedSaid(paths: readonly string[]): readonly string[] {
   return paths.map(
     (one) => `formatted ${one} as it landed — what stands there is not what was handed in`
+  )
+}
+
+export function filledSaid(filled: readonly Filled[]): readonly string[] {
+  return filled.map(
+    (one) =>
+      `worked out ${one.keys.map((key) => `\`${key}\``).join(", ")} for ${one.path} as it landed` +
+      " — a page being created states none of its own"
   )
 }
 
@@ -186,10 +196,10 @@ function reportOf(
   asked: Asked,
   broken: string | null,
   checks: number,
-  formatted: readonly string[]
+  aside: readonly string[]
 ): readonly string[] {
   const found = [...asked.saying(said)]
-  found.push(...formattedSaid(formatted))
+  found.push(...aside)
   if (asked.glass === null) {
     found.push(judgedBy(checks, asked.changes.length))
   } else {
@@ -210,14 +220,14 @@ function reported(
   asked: Asked,
   broken: string | null,
   checks: number,
-  formatted: readonly string[]
+  aside: readonly string[]
 ): readonly string[] {
   try {
-    return reportOf(said, asked, broken, checks, formatted)
+    return reportOf(said, asked, broken, checks, aside)
   } catch (thrown) {
     return [
       ...wroteAndTook(said),
-      ...formattedSaid(formatted),
+      ...aside,
       committedLine(said),
       `the report could not be built — ${whyOf(thrown)}`,
     ]
@@ -277,7 +287,14 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
-  const formatting = formattingIn(given.root, asked.changes)
+  let minted: Minted
+  try {
+    minted = mintingOnto(given.root, asked.changes)
+  } catch (thrown) {
+    return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
+  }
+  const formatting = formattingIn(given.root, minted.changes)
+  const aside = [...filledSaid(minted.filled), ...formattedSaid(formatting.formatted)]
   const held: Asked = { ...asked, changes: formatting.changes }
   const built = gateBuilt(given.root)
   if ("broken" in built && held.glass === null) return unloadable(built.broken)
@@ -305,7 +322,7 @@ export function landingAsked(given: Given, asked: Asked): Answer {
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   recordLanded(given, held.changes)
   return {
-    report: reported(said, held, broken, gate.named.length, formatting.formatted),
+    report: reported(said, held, broken, gate.named.length, aside),
     refusals: [],
     code: 0,
   }

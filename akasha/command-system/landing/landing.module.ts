@@ -127,6 +127,11 @@ export const landing = {
         "Checks that will not load refuse the change; only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A change says whether the body it carries came from another path, because what a page being created is given is not given again to one that only moved.",
+    },
+    {
       invariantKind: "gap",
       statement: "A change that was judged is the change that landed.",
     },

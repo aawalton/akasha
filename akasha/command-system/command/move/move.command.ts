@@ -110,6 +110,11 @@ export const move = {
         "A reading of what a move carries is carried with it, so the move holds nobody to reading again.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A body this carries is marked carried, so a value worked out for a page being created is not worked out again for one that only moved.",
+    },
+    {
       invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",
     },

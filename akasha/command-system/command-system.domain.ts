@@ -19,6 +19,7 @@ export const commandSystem = {
     "module/rooting",
     "module/scratching",
     "module/standing",
+    "module/value-minting",
   ],
   invariants: [
     {
