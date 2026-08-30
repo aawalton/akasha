@@ -29,7 +29,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
   const entries: Entry[] = []
   const refused: string[] = []
   const already = new Set<string>()
-  const file = (propertySlug: string, held: unknown, said: string): void => {
+  const file = (propertySlug: string, held: unknown, said: string): undefined => {
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) return
     for (const named of namesIn(held)) {

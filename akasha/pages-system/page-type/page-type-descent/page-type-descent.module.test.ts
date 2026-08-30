@@ -9,7 +9,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function typed(root: string, slug: string, above: string | null): void {
+function typed(root: string, slug: string, above: string | null): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   const at = join(indexIn(root), `identity/page-type/slug/${slug}.jsonl`)
   mkdirSync(dirname(at), { recursive: true })

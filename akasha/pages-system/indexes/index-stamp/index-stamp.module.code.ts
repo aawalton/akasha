@@ -44,7 +44,7 @@ export function stampIn(at: string): Stamp | null {
   return { commit, tree, settled: settled.filter((one): one is string => typeof one === "string") }
 }
 
-export function stampKept(at: string, held: Stamp): void {
+export function stampKept(at: string, held: Stamp): undefined {
   mkdirSync(at, { recursive: true })
   const near = join(at, `${STAMP}.${process.pid}.part`)
   const said = { commit: held.commit, tree: held.tree, settled: [...new Set(held.settled)].sort() }
@@ -128,14 +128,14 @@ function treeOf(repo: string, tree: string): string {
   return under === "" ? HERE : under
 }
 
-export function stampBuilt(repo: string, tree: string, at: string): void {
+export function stampBuilt(repo: string, tree: string, at: string): undefined {
   const head = headOf(repo)
   if (head === null) return
   const under = treeOf(repo, tree)
   stampKept(at, { commit: head, tree: under, settled: unlandedIn(repo, under) })
 }
 
-export function stampSettled(repo: string, at: string, paths: readonly string[]): void {
+export function stampSettled(repo: string, at: string, paths: readonly string[]): undefined {
   const held = stampIn(at)
   if (held === null) return
   const head = headOf(repo)

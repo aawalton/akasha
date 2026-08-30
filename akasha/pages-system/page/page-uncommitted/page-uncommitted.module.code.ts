@@ -37,7 +37,7 @@ export function uncommittedIn(root: string, page: string): Value | null {
   return held.value
 }
 
-export function keepUncommitted(root: string, page: string, values: Value): void {
+export function keepUncommitted(root: string, page: string, values: Value): undefined {
   const at = uncommittedAt(page)
   if (at === null) {
     throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold values`)
@@ -49,7 +49,7 @@ export function keepUncommitted(root: string, page: string, values: Value): void
   renameSync(scratch, full)
 }
 
-export function dropUncommitted(root: string, page: string): void {
+export function dropUncommitted(root: string, page: string): undefined {
   const at = uncommittedAt(page)
   if (at === null) return
   rmSync(join(root, at), { force: true })
