@@ -17,7 +17,7 @@ function seeded(): string {
 }
 
 function namesIn(said: readonly { readonly name: string }[]): readonly string[] {
-  return said.map((one) => one.name).sort()
+  return said.map((one) => one.name).toSorted()
 }
 
 function everythingUnder(reading: ReturnType<typeof readingAt>, at: string): readonly string[] {
