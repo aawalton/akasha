@@ -26,7 +26,7 @@ export const module = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A module's code is a page property, held in a file beside the page.",
+      statement: "A module's code is a page property held in a file beside the page.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +38,11 @@ export const module = {
     },
     {
       invariantKind: "departure",
-      statement: "A module's test is a page property of its own, beside its code.",
+      statement: "A module's test is a page property of its own beside its code.",
     },
     {
       invariantKind: "departure",
-      statement: "A module's test fixtures are a page property of their own, beside its test.",
+      statement: "A module's test fixtures are a page property of their own beside its test.",
     },
   ],
 } as const satisfies PageType
