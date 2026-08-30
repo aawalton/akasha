@@ -29,6 +29,7 @@ export const readoutWidget = {
   definition: "one tile a person places on a phone",
   pluralSlug: "readout-widgets",
   partSlugs: [
+    "readout-widget/alanwalton-categorize",
     "relation-property/component-slug",
     "text-property/families",
     "text-property/feed",
