@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
 import {
   importFiled,
   pathFiled,
@@ -10,8 +11,10 @@ import {
 import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
+import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
+import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 
 const TREE = "akasha"
@@ -57,6 +60,43 @@ export const AAAA = "01a04bed-1450-7000-8000-00000000aaaa"
 export const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
 
 export const READER = "akasha/elsewhere/reader.module.ts"
+
+export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+export const UNSAID = "akasha/one/held.module.uncommitted.ts"
+
+export const UNSAID_AT = "akasha/three/held.module.uncommitted.ts"
+
+export const VALUES = `export const held = { title: "unsaid" }\n`
+
+export const SECOND = "akasha/two/other.module.ts"
+
+export const SECOND_AT = "akasha/four/other.module.ts"
+
+export const SECOND_UNSAID = "akasha/two/other.module.uncommitted.ts"
+
+export const SECOND_UNSAID_AT = "akasha/four/other.module.uncommitted.ts"
+
+export const SECOND_PAGE = `export const other = {
+  id: "01a04bed-1450-7000-8000-00000000eeee",
+  pageTypeSlug: "module",
+  slug: "other",
+  definition: "a second page carried across a move",
+}
+`
+
+export const BOTH = [...PAIR, "--from", SECOND, "--to", SECOND_AT]
+
+export const NESTED = [
+  "--from",
+  HELD,
+  "--to",
+  `${SECOND_UNSAID_AT}/held.module.ts`,
+  "--from",
+  SECOND,
+  "--to",
+  SECOND_AT,
+]
 
 export const VOCABULARY: readonly string[] = Object.keys(declaringUnder(TREE))
 
@@ -112,4 +152,35 @@ export function claiming(root: string, path: string, ids: readonly string[]): un
 
 export function naming(root: string, id: string): undefined {
   relationFiled(root, id, "required-reading-slugs", AAAA, [{ path: READER }])
+}
+
+export function heldPage(): string {
+  return repoWith({ [HELD]: PAGE })
+}
+
+export function heldIndexed(): string {
+  return rebuilt(heldPage())
+}
+
+export function oneUnsaid(): string {
+  const root = heldIndexed()
+  put(root, UNSAID, VALUES)
+  return root
+}
+
+export function twoUnsaid(): string {
+  const root = rebuilt(repoWith({ [HELD]: PAGE, [SECOND]: SECOND_PAGE }))
+  put(root, UNSAID, VALUES)
+  put(root, SECOND_UNSAID, VALUES)
+  return root
+}
+
+export function held(root: string, path: string, body: string): undefined {
+  warrantsStanding(root, ["file-itself"])
+  recordRead(root, AGENT, {
+    path,
+    oid: blobIdOf(new TextEncoder().encode(body)),
+    seenAt: 1,
+    mechanicalOid: null,
+  })
 }

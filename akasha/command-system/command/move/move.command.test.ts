@@ -2,14 +2,15 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
-import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
-import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
-import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
+import { stands } from "../../../testing-system/putting/putting.module.code.ts"
+import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
 import { move, pairsIn } from "./move.command.code.ts"
 import {
   AAAA,
+  AGENT,
   ARRIVES,
+  BOTH,
   CODE,
   claiming,
   DEEP,
@@ -19,43 +20,36 @@ import {
   HELD,
   HOLDER,
   head,
+  held,
+  heldIndexed,
+  heldPage,
   importing,
   NAMER,
+  NESTED,
   naming,
   OTHER,
+  oneUnsaid,
   PAGE,
   PAIR,
   READER,
   RENAME,
   rebuilt,
   repoWith,
+  SECOND_UNSAID,
+  SECOND_UNSAID_AT,
   SPELLS,
   scratch,
   TARGET,
   THREE,
+  twoUnsaid,
+  UNSAID,
+  UNSAID_AT,
+  VALUES,
   VOCABULARY,
 } from "./move.command.test-fixtures.ts"
 import { move as moveCommand } from "./move.command.ts"
 
 afterAll(scratch.sweep)
-
-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
-
-const UNSAID = "akasha/one/held.module.uncommitted.ts"
-
-const UNSAID_AT = "akasha/three/held.module.uncommitted.ts"
-
-const VALUES = `export const held = { title: "unsaid" }\n`
-
-function held(root: string, path: string, body: string): undefined {
-  warrantsStanding(root, ["file-itself"])
-  recordRead(root, AGENT, {
-    path,
-    oid: blobIdOf(new TextEncoder().encode(body)),
-    seenAt: 1,
-    mechanicalOid: null,
-  })
-}
 
 function renamed(root: string): string {
   const said = move(RENAME, givenIn(root))
@@ -67,7 +61,7 @@ function renamed(root: string): string {
 }
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  const root = heldIndexed()
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -162,7 +156,7 @@ test("an unanswerable index leaves the importers as they stand and says so", () 
 })
 
 test("a rename names what names the file, and only where the index answers one page", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   naming(root, AAAA)
   expect(renamed(root)).toContain(`what names \`${HELD}\` could not be answered`)
   expect(renamed(root)).toContain("is not an index naming none")
@@ -191,7 +185,7 @@ test("a refused move leaves nothing behind", () => {
 })
 
 test("a path that is not there is refused", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   const said = move(
     ["--from", "akasha/one/nowhere.module.ts", "--to", "akasha/three/nowhere.module.ts"],
     givenIn(root)
@@ -210,14 +204,14 @@ test("a destination that already stands is refused", () => {
 })
 
 test("a side standing outside the akasha folder is refused", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   const said = move(["--from", HELD, "--to", "elsewhere/held.module.ts"], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not under `akasha/`")
 })
 
 test("naming no pair is refused rather than committed empty", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   const said = move([], givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("name at least one pair")
@@ -229,7 +223,7 @@ test("a --from with no --to is refused", () => {
 })
 
 test("a dry run gates and writes nothing at all", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   const was = head(root)
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
@@ -255,7 +249,7 @@ test("a dry run names the pairs it would carry, sidecars and all", () => {
 })
 
 test("a dry run over a move the checks refuse reports it and carries nothing", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   refusing(root)
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
@@ -265,7 +259,7 @@ test("a dry run over a move the checks refuse reports it and carries nothing", (
 })
 
 test("breaking the glass carries a move the checks refuse, and only breaking it does", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  const root = heldIndexed()
   refusing(root)
   const was = head(root)
   const gated = move([...PAIR, "--message", "held moves"], givenIn(root))
@@ -291,7 +285,7 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
 })
 
 test("breaking the glass with no reason, or alongside a dry run, is refused", () => {
-  const root = repoWith({ [HELD]: PAGE })
+  const root = heldPage()
   const ends = move([...PAIR, "--break-the-glass"], givenIn(root))
   expect(ends.code).toBe(1)
   expect(ends.refusals[0]).toContain("needs a value, and the line ends")
@@ -305,7 +299,7 @@ test("breaking the glass with no reason, or alongside a dry run, is refused", ()
 })
 
 test("a message is read from a file and trimmed, and stated twice over or empty is refused", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  const root = heldIndexed()
   const at = join(root, "message.txt")
   writeFileSync(at, "carried by a file\n")
   const both = move([...PAIR, "--message", "carried", "--message-file", at], givenIn(root))
@@ -323,7 +317,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
 })
 
 test("a path is read against the repository root, wherever the call was made", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
+  const root = heldIndexed()
   const said = move(PAIR, { ...givenIn(root), from: join(root, "akasha/one") })
   expect(said.refusals).toEqual([])
   expect(stands(root, THREE)).toBe(true)
@@ -339,8 +333,7 @@ test("every flag the surface shows is a flag this takes", () => {
 })
 
 test("a page holding uncommitted values is carried, and that file goes with it", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
-  put(root, UNSAID, VALUES)
+  const root = oneUnsaid()
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
@@ -350,11 +343,35 @@ test("a page holding uncommitted values is carried, and that file goes with it",
 })
 
 test("the commit a move lands carries no path holding uncommitted values", () => {
-  const root = rebuilt(repoWith({ [HELD]: PAGE }))
-  put(root, UNSAID, VALUES)
+  const root = oneUnsaid()
   const said = move(PAIR, givenIn(root))
   expect(said.refusals).toEqual([])
   const shown = git(root, ["diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD"])
   expect(shown.trim().split("\n").sort()).toEqual([HELD, THREE].sort())
   expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
+})
+
+test("two pages each holding uncommitted values carry both of those files with them", () => {
+  const root = twoUnsaid()
+  const said = move(BOTH, givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(stands(root, UNSAID)).toBe(false)
+  expect(stands(root, SECOND_UNSAID)).toBe(false)
+  expect(readFileSync(join(root, UNSAID_AT), "utf8")).toBe(VALUES)
+  expect(readFileSync(join(root, SECOND_UNSAID_AT), "utf8")).toBe(VALUES)
+})
+
+test("an uncommitted file that will not carry leaves the one carried before it where it stood", () => {
+  const root = twoUnsaid()
+  const was = head(root)
+  let code = -1
+  try {
+    code = move(NESTED, givenIn(root)).code
+  } catch {
+    code = -2
+  }
+  expect(head(root)).toBe(was)
+  expect(readFileSync(join(root, UNSAID), "utf8")).toBe(VALUES)
+  expect(stands(root, HELD)).toBe(true)
+  expect(code).toBe(3)
 })
