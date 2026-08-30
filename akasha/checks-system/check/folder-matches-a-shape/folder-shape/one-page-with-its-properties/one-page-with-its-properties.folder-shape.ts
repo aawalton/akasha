@@ -11,12 +11,11 @@ export const onePageWithItsProperties = {
     {
       invariantKind: "departure",
       statement:
-        "A file standing beside a page answers which page it stands beside, so a file whose page is elsewhere fails here rather than passing unnoticed.",
+        "A file standing beside a page answers which page it stands beside: a file whose page is elsewhere fails here rather than passing unnoticed.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subfolder is a folder of its own, so a folder taking this shape may still hold folders under it.",
+      statement: "A subfolder is a folder of its own.",
     },
     {
       invariantKind: "departure",

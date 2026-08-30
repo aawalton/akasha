@@ -17,21 +17,20 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "Which of a page's keys are relations is read from the property schema in the index, never from a list written here.",
+        "Which of a page's keys are relations is read from the property schema in the index — never from a list written here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaches the index and the pages the change itself carries.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name reaches the index and the pages the change itself carries, so a page and the page it names land together.",
+        "A page the change takes away stops being reachable. The pages the index says name it are judged though the change never names them.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page the change takes away stops being reachable, and the pages the index says name it are judged though the change never names them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name narrowing to more than one page is refused, not taken as reached.",
+      statement: "A name narrowing to more than one page is refused — not taken as reached.",
     },
     {
       invariantKind: "departure",
@@ -40,27 +39,24 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "A non-mortal page naming a mortal page is refused, judged on the page type the name reaches, or on the property's declared target when it reaches none.",
+        "A non-mortal page naming a mortal page is refused — judged on the page type the name reaches or on the property's declared target when it reaches none.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name nested one record deep is resolved, and the refusal names the record and the field.",
+        "A name nested one record deep is resolved. The refusal names the record and the field.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name reaches a page of a page type the change itself adds, because the index is read as the change leaves it.",
+      statement: "A name reaches a page of a page type the change itself adds.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A relation property the change introduces is judged, because which keys are relations is read as the change leaves it too.",
+      statement: "A relation property the change introduces is judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which pages named a page being taken away is read from the index as it stands, because an edge the change withdraws is the very thing being looked for.",
+      statement: "Which pages named a page being taken away is read from the index as it stands.",
     },
   ],
 } as const satisfies Check

@@ -20,32 +20,29 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property two page types introduce is passed over, because one page stands under one parent and both introducers cannot have it.",
+      statement: "A property two page types introduce is passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every page type is judged whenever the change carries one, so a type that stops declaring a property leaves the remaining introducer judged.",
+        "Every page type is judged whenever the change carries one: a type that stops declaring a property leaves the remaining introducer judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the change carries is read as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page types stand is read from the index as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a page type above declares is read as the change leaves it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type the change carries is read as the change leaves it, so a type and the parts it gains land together.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which page types stand is read from the index as the change leaves it, so a type the change adds is judged and one it takes away is not.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What a page type above declares is read as the change leaves it, so a type extending one the same change adds inherits from it rather than introducing it again.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A part is matched by the slug it addresses, never by the page type it names.",
+        "A part is matched by the slug it addresses rather than by the page type it names.",
     },
     {
       invariantKind: "departure",
@@ -55,12 +52,11 @@ export const introducedPropertyIsAPart = {
     {
       invariantKind: "absence",
       statement:
-        "Where the property's page stands in the folders is not judged here, only what names it a part.",
+        "Where the property's page stands in the folders is not judged here. Only what names it a part is judged.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "A property a page type restates to narrow it is no introduction, and is not judged here.",
+      statement: "A property a page type restates to narrow it is no introduction.",
     },
     {
       invariantKind: "gap",

@@ -19,20 +19,20 @@ export const typecheck = {
     },
     {
       invariantKind: "constraint",
-      statement: "A type holds or fails across files, so a file cannot be judged by itself.",
+      statement: "A type holds or fails across files.",
     },
     {
       invariantKind: "departure",
-      statement: "The files judged are the change and every file that imports it, however far.",
+      statement: "The files judged are the change and every file that imports it — however far.",
     },
     {
       invariantKind: "departure",
-      statement: "Which file imports which is read from the index, never from the disk.",
+      statement: "Which file imports which is read from the index — never from the disk.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The index read is the one the change leaves, so a page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
+        "The index read is the one the change leaves: a page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
     },
     {
       invariantKind: "departure",
@@ -42,29 +42,29 @@ export const typecheck = {
     {
       invariantKind: "absence",
       statement:
-        "A file the change does not reach is not judged, and its standing errors are the audit's.",
+        "A file the change does not reach is not judged. Its standing errors are the audit's.",
     },
     {
       invariantKind: "departure",
-      statement: "One program is built for a set of changes, however many files that set holds.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A diagnostic against a file the change did not touch is reported once, against that file.",
+      statement: "One program is built for a set of changes — however many files that set holds.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the change takes away is not there for the compiler, so nothing is reported against it and a file still importing it is refused.",
+        "A diagnostic against a file the change did not touch is reported once — against that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A diagnostic naming no file is thrown, never reported.",
+      statement:
+        "A path the change takes away is not there for the compiler: nothing is reported against it and a file still importing it is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A body is read from what the check is handed, never from the disk.",
+      statement: "A diagnostic naming no file is thrown — never reported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is read from what the check is handed — never from the disk.",
     },
     {
       invariantKind: "departure",
@@ -73,27 +73,24 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A page being created is compiled against its type less the properties a generator fills, so a value nothing has worked out yet is no type error.",
+        "A page being created is compiled against its type less the properties a generator fills.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a body is held to is narrowed and no diagnostic is suppressed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The narrowing is written on the line the `satisfies` clause already stands on.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The type a body is held to is narrowed, and no diagnostic is suppressed, so an error standing beside a missing property is still refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The narrowing is written on the line the `satisfies` clause already stands on, so every diagnostic answers at the line the body carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page being created and carrying no `satisfies` clause is compiled as it stands, so a body nothing could narrow is judged whole.",
+        "A page being created and carrying no `satisfies` clause is compiled as it stands.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No import is added for the narrowing. `Omit` is TypeScript's own, which is why it is the one reached for.",
+      statement: "No import is added for the narrowing. `Omit` is TypeScript's own.",
     },
     {
       invariantKind: "gap",

@@ -15,42 +15,37 @@ export const identifierNamesOnePage = {
     {
       invariantKind: "departure",
       statement:
-        "The identifiers judged are the properties declaring a `unique`, read from the schema, so a property becoming an identifier changes nothing here.",
+        "The identifiers judged are the properties declaring a `unique`. They are read from the schema.",
     },
     {
       invariantKind: "departure",
       statement:
-        "How far a value must stand alone is the reach its property declares: `always` across every page, `page-type` among the pages of one type.",
+        "How far a value must stand alone is the reach its property declares: `always` across every page and `page-type` among the pages of one type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the change carries is read from the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index is read as this change leaves it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page the change carries is read from the change, so a page and the rename freeing its old value land together.",
+        "The rule is that the index files one page at a key: two paths standing at one key is the whole of what is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index is read as this change leaves it, so an entry standing at a key is what the change files there, and an entry the change withdraws is none.",
+      statement: "A page of a page type the change itself adds is judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The rule is that the index files one page at a key, so two paths standing at one key is the whole of what is refused.",
+      statement: "The schema is read as the change leaves it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page of a page type the change itself adds is judged, because which page types stand is read as the change leaves it too.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The schema is read as the change leaves it, so a property the change stops declaring `unique` stops being enforced and one it starts declaring is enforced at once.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Two pages in one change carrying one value are refused against each other, not only against what already stands.",
+      statement: "Two pages in one change carrying one value are refused against each other.",
     },
     {
       invariantKind: "absence",

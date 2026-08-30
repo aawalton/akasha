@@ -14,7 +14,7 @@ export const noCodeComments = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A comment no program parses is prose, whatever it says.",
+      statement: "A comment no program parses is prose — whatever it says.",
     },
     {
       invariantKind: "absence",
@@ -22,7 +22,7 @@ export const noCodeComments = {
     },
     {
       invariantKind: "departure",
-      statement: "A comment is read from the token stream, never from the text.",
+      statement: "A comment is read from the token stream — never from the text.",
     },
     {
       invariantKind: "departure",
@@ -30,8 +30,7 @@ export const noCodeComments = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A shebang is trivia the parser takes before any comment, so it is never seen as one.",
+      statement: "A shebang is trivia the parser takes before any comment.",
     },
     {
       invariantKind: "gap",

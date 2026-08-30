@@ -14,8 +14,7 @@ export const fileHasItsPage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file no page claims is enumerated by nothing and audited by nothing, so it escapes every check in the system.",
+      statement: "A file no page claims is enumerated by nothing and audited by nothing.",
     },
     {
       invariantKind: "departure",
@@ -27,23 +26,20 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index is read as this change leaves it, so a page the change carries claims its paths and a claim the change withdraws is none.",
+      statement: "The index is read as this change leaves it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file property the change introduces names its file, because what names a file is read as the change leaves it too.",
+      statement: "A file property the change introduces names its file.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What claims a path is asked of the index rather than worked out here, so this answers as the settled index will.",
+      statement: "What claims a path is asked of the index rather than worked out here.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Only the paths the change names are judged. A file already standing unclaimed is named by no change and by no enumeration, and this does not go looking for it.",
+        "Only the paths the change names are judged. A file already standing unclaimed is named by no change and by no enumeration. This does not go looking for it.",
     },
     {
       invariantKind: "departure",

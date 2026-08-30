@@ -15,7 +15,7 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "departure",
       statement:
-        "Which properties are held in a file is read from the page properties whose page type is `file-property`, never from a list written here.",
+        "Which properties are held in a file is read from the page properties whose page type is `file-property` — never from a list written here.",
     },
     {
       invariantKind: "departure",
@@ -24,47 +24,44 @@ export const pagePropertyHasItsFile = {
     {
       invariantKind: "absence",
       statement:
-        "The index files the path a page states whether or not a file stands there, so it is asked which page to judge and never whether the file is there.",
+        "The index files the path a page states whether or not a file stands there: it is asked which page to judge and never whether the file is there.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file is present when the change answers with a body for its path, and absent when the change answers with nothing.",
+        "A file is present when the change answers with a body for its path. It is absent when the change answers with nothing.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "What stands at a path the change does not name is answered by the base commit, so a file written into the worktree and never committed reads as absent.",
+        "What stands at a path the change does not name is answered by the base commit: a file written into the worktree and never committed reads as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page named for a page type the change itself carries is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file property the change introduces is asked for its file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page named for a page type the change itself carries is judged, because the index is read as the change leaves it.",
+        "A page the index says carries a changed path is judged even when the change never names that page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file property the change introduces is asked for its file, because which properties are held in a file is read as the change leaves it too.",
+        "Which pages the index says carry a changed path is read from the index as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the change takes away is passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page the index says carries a changed path is judged even when the change never names that page, so taking a file away refuses the page still stating it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which pages the index says carry a changed path is read from the index as it stands, because a claim the change withdraws is the very thing that brings the page still stating it to judgement.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page the change takes away is passed over, so a page and its files go together.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The refusal is laid on the page that states the property, not on the missing file.",
+        "The refusal is laid on the page that states the property — not on the missing file.",
     },
     {
       invariantKind: "gap",

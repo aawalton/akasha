@@ -15,17 +15,17 @@ export const noClass = {
     {
       invariantKind: "constraint",
       statement:
-        "A class extending `Error` is let through, because the language gives no other way to make a thrown value carry a type.",
+        "A class extending `Error` is let through: the language gives no other way to make a thrown value carry a type.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A class expression is judged wherever a declaration would be, and it is never let through.",
+        "A class expression is judged wherever a declaration would be. It is never let through.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What a class extends is judged by the name written, never by what that name resolves to.",
+        "What a class extends is judged by the name written — never by what that name resolves to.",
     },
   ],
 } as const satisfies Check

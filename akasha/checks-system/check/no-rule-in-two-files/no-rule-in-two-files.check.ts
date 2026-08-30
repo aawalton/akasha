@@ -15,52 +15,48 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A rule is read from every file the index names, not from module code alone, so a helper two tests share is seen as well as a rule two modules share.",
+        "A rule is read from every file the index names — not from module code alone: a helper two tests share is seen as well as a rule two modules share.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every file carrying a rule that stands elsewhere is refused, because where nothing owns the rule no file among them is the one that may keep it.",
+      statement: "Every file carrying a rule that stands elsewhere is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A refusal names one other file carrying the rule and counts the rest, so what to read next is one path rather than a list.",
+      statement: "A refusal names one other file carrying the rule and counts the rest.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "One file saying the same thing twice is passed over, because one file is already one place.",
+      statement: "One file saying the same thing twice is passed over.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Which file should keep the rule is not said. Choosing the home is a judgement about what a thing is for, and naming the collision is what can be answered from the source.",
+        "Which file should keep the rule is not said. Choosing the home is a judgement about what a thing is for. Naming the collision is what can be answered from the source.",
     },
     {
       invariantKind: "absence",
       statement:
-        "No file owns a rule by exporting it. A module's export was once read as the home a respelling answered to, and that is not read here, so the two files are named alike and the writer picks.",
+        "No file owns a rule by exporting it. A module's export was once read as the home a respelling answered to and that is not read here: the two files are named alike and the writer picks.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Only a function is read and only a renaming is defeated, which is the whole of what the reading beneath this can answer.",
+        "Only a function is read and only a renaming is defeated. That is the whole of what the reading beneath this can answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file the index names is read on each run — whatever the change carries.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every file the index names is read on each run, whatever the change carries, so a rule arriving in one file is answered against the whole tree rather than against the change.",
+        "This judges at audit alone: it reads the whole tree however small the change is and at patch it refuses a file the change never touched.",
     },
     {
       invariantKind: "departure",
       statement:
-        "This judges at audit alone, because it reads the whole tree however small the change is, and at patch it refuses a file the change never touched.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rule standing in two files while one is being moved to the other is what a landing looks like partway, and only a sweep of the settled tree can tell that apart from a rule left in two places.",
+        "A rule standing in two files while one is being moved to the other is what a landing looks like partway. Only a sweep of the settled tree can tell that apart from a rule left in two places.",
     },
   ],
 } as const satisfies Check

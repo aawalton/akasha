@@ -14,32 +14,29 @@ export const noTmp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "`tmpdir` is refused where it is taken from `node:os`, because what it answers is the machine's to say, and here it says /tmp.",
+      statement: "`tmpdir` is refused where it is taken from `node:os`.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A literal is judged by the value it carries, never by the text around it, so a sentence naming /tmp is prose and not a path.",
+      statement: "A literal is judged by the value it carries — never by the text around it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A template is judged by its head alone, since what a substitution will put there is not known.",
+      statement: "A template is judged by its head alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A path is matched from its first character, so /var/tmp is never read as /tmp.",
+      statement: "A path is matched from its first character.",
     },
     {
       invariantKind: "absence",
       statement:
-        "No use of /tmp is kept as permitted, because a run wanting scratch has /var/tmp to make it in.",
+        "No use of /tmp is kept as permitted: a run wanting scratch has /var/tmp to make it in.",
     },
     {
       invariantKind: "gap",
       statement:
-        "A reach for /tmp through a variable, an environment read, or a re-export is not seen.",
+        "A reach for /tmp through a variable or an environment read or a re-export is not seen.",
     },
   ],
 } as const satisfies Check

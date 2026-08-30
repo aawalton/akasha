@@ -19,26 +19,24 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "Audit is handed every file, so the tests beside all of them are the whole suite.",
+      statement: "Audit is handed every file.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The tests run in a world written out of what the change proposes, never in the working tree, so what is judged is this change and not whatever else stands on disk.",
+        "The tests run in a world written out of what the change proposes — never in the working tree.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test stands beside a changed file when the change answers a body for it, so a test the change brings is run and one it takes away is not.",
+      statement: "A test stands beside a changed file when the change answers a body for it.",
     },
     {
       invariantKind: "departure",
-      statement: "The verdict is read from what the run printed, not from its exit code alone.",
+      statement: "The verdict is read from what the run printed — not from its exit code alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run reaching fewer files than it named has failed, because the rest said nothing.",
+      statement: "A run reaching fewer files than it named has failed.",
     },
     {
       invariantKind: "departure",
@@ -51,17 +49,15 @@ export const testsPass = {
     {
       invariantKind: "constraint",
       statement:
-        "A test may reach the gate, so a run already inside a run judges nothing and lets the outer one answer.",
+        "A test may reach the gate: a run already inside a run judges nothing and lets the outer one answer.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The world is swept whatever the run said, so no tree is left behind by a refusal.",
+      statement: "The world is swept whatever the run said.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "No test runs at patch, so a change breaking one lands, and audit is what finds it.",
+      statement: "No test runs at patch: a change breaking one lands and audit is what finds it.",
     },
     {
       invariantKind: "gap",

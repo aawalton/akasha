@@ -15,32 +15,30 @@ export const noReExport = {
     {
       invariantKind: "departure",
       statement:
-        "A name imported and then exported is judged the same as one exported straight from its source, and a new spelling on the way out hides nothing.",
+        "A name imported and then exported is judged the same as one exported straight from its source. A new spelling on the way out hides nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A type-only re-export is a re-export, because who owns a rule is read off what a module exports, and a type barrel splits that as a value barrel does.",
+        "A type-only re-export is a re-export: who owns a rule is read off what a module exports and a type barrel splits that as a value barrel does.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`export *` is refused whole rather than name by name, since what it sends on is the other file's to change and this file cannot say what it is.",
+        "`export *` is refused whole rather than name by name: what it sends on is the other file's to change and this file cannot say what it is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A barrel is what quietly undoes one way into a folder, so this guards the doorway the folder was given, not the code behind it.",
+      statement: "A barrel is what quietly undoes one way into a folder.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Only a name is followed. An imported value bound to a fresh exported name is a declaration this file made, and it passes.",
+        "Only a name is followed. An imported value bound to a fresh exported name is a declaration this file made. It passes.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "A file outside the akasha folder is passed over rather than refused, the akasha folder being as far as a check reaches.",
+      statement: "A file outside the akasha folder is passed over rather than refused.",
     },
   ],
 } as const satisfies Check

@@ -16,32 +16,28 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "What a page must carry is read from its page type and the types above it, never from a list written here.",
+        "What a page must carry is read from its page type and the types above it — never from a list written here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type restating an inherited property narrows it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type restating an inherited property narrows it, so the nearest declaration is the one that binds.",
+        "A property its type declares uncommitted is not demanded of the page: such a value stands in a file beside the page rather than in the page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property its type declares uncommitted is not demanded of the page, because such a value stands in a file beside the page rather than in the page.",
+      statement: "A page stating a property its type declares uncommitted is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page stating a property its type declares uncommitted is refused, because the commit would otherwise carry a value declared to stand outside it.",
+      statement: "A page type the change carries is read as the change leaves it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type the change carries is read as the change leaves it, so a type and a page held to it land together.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Where a page type stands is read from the index as the change leaves it, so a type the change puts above another is walked to and what it declares binds.",
+      statement: "Where a page type stands is read from the index as the change leaves it.",
     },
     {
       invariantKind: "departure",
@@ -49,58 +45,55 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page whose page type declares nothing is passed over, because nothing settles what it would be held to.",
+      statement: "A page whose page type declares nothing is passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A text property stating a name format has each of its values judged by that format's own code, never by a shape written here.",
+        "A text property stating a name format has each of its values judged by that format's own code — never by a shape written here.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A max on a declaration counts entries, and a max on a text property counts characters, from one property page read two ways.",
+        "A max on a declaration counts entries and a max on a text property counts characters — from one property page read two ways.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A total on a declaration counts the characters of a list's values taken together, and is never a third thing a max means.",
+        "A total on a declaration counts the characters of a list's values taken together. It is never a third thing a max means.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A name format is reached through the index and loaded off the disk, so a format and the first property naming it do not land together.",
+      statement: "A name format is reached through the index and loaded off the disk.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file the corpus names as a page and whose body declares no page is refused, and a body that will not load declares none.",
+        "A file the corpus names as a page and whose body declares no page is refused. A body that will not load declares none.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page stating no page type is refused, and is not passed over as one nothing settles.",
+        "A page stating no page type is refused. It is not passed over as one nothing settles.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A property a generator fills is not required of a page being created, and is required of every page already standing.",
+        "A property a generator fills is not required of a page being created. It is required of every page already standing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page is being created when the base commit carries no body for its path, which is read from the change and not from the disk.",
+        "A page is being created when the base commit carries no body for its path. This is read from the change and not from the disk.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which properties a generator fills is read from the module owning that answer, so a third one binds here with no code changed.",
+      statement: "Which properties a generator fills is read from the module owning that answer.",
     },
     {
       invariantKind: "absence",
       statement:
-        "A value's own sort is not judged here, only whether the page carries what it must.",
+        "A value's own sort is not judged here — only whether the page carries what it must.",
     },
   ],
 } as const satisfies Check
