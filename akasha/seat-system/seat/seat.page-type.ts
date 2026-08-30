@@ -42,6 +42,7 @@ export const seat = {
     "relation-property/person-slug",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
+    "text-property/deferred-restart-notice",
     "text-property/model",
     "text-property/proxy-version",
     "text-property/registration-account",
@@ -68,6 +69,12 @@ export const seat = {
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
+    {
+      pagePropertySlug: "deferred-restart-notice",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
