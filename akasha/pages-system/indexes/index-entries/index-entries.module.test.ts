@@ -1,9 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import {
   filePropertiesAt,
   filePropertiesIn,
   loadedFrom,
   pathsOf,
+  schemaAt,
+  uniquePropertiesAt,
+  valueAt,
   valueIn,
 } from "./index-entries.module.code.ts"
 import { A, grounded, scratch } from "./index-entries.module.test-fixtures.ts"
@@ -61,4 +66,56 @@ test("a body that will not load answers with no value rather than throwing", () 
     )
   ).toBe(null)
   expect(valueIn("the new body")).toBe(null)
+})
+
+function declaring(index: string, slug: string, said: Record<string, unknown>): void {
+  const at = join(index, "schema", "page-property", "slug", `${slug}.jsonl`)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, `${JSON.stringify(said)}\n`, "utf8")
+}
+
+test("a schema line saying nothing about unique declares no identifier", () => {
+  const index = scratch.rootFor("akasha-entries-schema-")
+  declaring(index, "held", { pageTypeSlug: "text-property", targetPageTypeSlug: null })
+
+  expect(schemaAt(index).get("held")?.unique).toBe(null)
+  expect([...uniquePropertiesAt(index).keys()]).toEqual([])
+})
+
+test("a schema line saying nothing about its target names no target", () => {
+  const index = scratch.rootFor("akasha-entries-target-")
+  declaring(index, "held", { pageTypeSlug: "relation-property" })
+
+  expect(schemaAt(index).get("held")?.targetPageTypeSlug).toBe(null)
+})
+
+test("a schema line that does say unique declares it still", () => {
+  const index = scratch.rootFor("akasha-entries-unique-")
+  declaring(index, "id", {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: "always",
+  })
+
+  expect([...uniquePropertiesAt(index).entries()]).toEqual([["id", "always"]])
+})
+
+test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
+  const repo = scratch.rootFor("akasha-entries-folder-")
+  mkdirSync(join(repo, "held"), { recursive: true })
+
+  expect(valueAt("held", repo)).toBe(null)
+})
+
+test("a path standing as nothing holds no page", () => {
+  const repo = scratch.rootFor("akasha-entries-gone-")
+
+  expect(valueAt("gone.module.ts", repo)).toBe(null)
+})
+
+test("a path standing as a file is read for the page it holds", () => {
+  const repo = scratch.rootFor("akasha-entries-file-")
+  writeFileSync(join(repo, "held.module.ts"), 'export const held = { slug: "held" }\n', "utf8")
+
+  expect(valueAt("held.module.ts", repo)?.["slug"]).toBe("held")
 })

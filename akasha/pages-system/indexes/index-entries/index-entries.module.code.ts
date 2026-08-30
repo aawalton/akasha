@@ -1,4 +1,4 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
@@ -67,7 +67,8 @@ export function valueIn(body: string): Value | null {
 
 export function valueAt(path: string, repo: string): Value | null {
   const at = isAbsolute(path) ? path : join(repo, path)
-  if (!existsSync(at)) return null
+  const stood = statSync(at, { throwIfNoEntry: false })
+  if (stood === undefined || !stood.isFile()) return null
   return loadedFrom(readFileSync(at, "utf8")).value
 }
 
@@ -147,7 +148,12 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   for (const one of reading.listing(dir)) {
     const line = reading.lines(join(dir, one.name))[0]
     if (line !== undefined) {
-      found.set(one.name.slice(0, -ENDING.length), JSON.parse(line) as Schema)
+      const said = JSON.parse(line) as Partial<Schema>
+      found.set(one.name.slice(0, -ENDING.length), {
+        pageTypeSlug: said.pageTypeSlug ?? "",
+        targetPageTypeSlug: said.targetPageTypeSlug ?? null,
+        unique: said.unique ?? null,
+      })
     }
   }
   return found
