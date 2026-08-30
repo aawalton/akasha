@@ -4,6 +4,7 @@ import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { EmailAddress } from "./properties/email-address.text-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
+import type { LastMessagedAt } from "./properties/last-messaged-at.text-property.ts"
 import type { Origin } from "./properties/origin.relation-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
@@ -20,6 +21,7 @@ export type Persona = Domain & {
   emailAddress?: EmailAddress
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints
+  lastMessagedAt?: LastMessagedAt
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
 }
@@ -37,6 +39,7 @@ export const persona = {
     "relation-property/origin",
     "text-property/championed-domain-slug",
     "text-property/email-address",
+    "text-property/last-messaged-at",
     "text-property/purpose",
     "text-property/role-slug",
     "text-property/value-slug",
@@ -54,6 +57,7 @@ export const persona = {
     { pagePropertySlug: "voice-instruction", required: false, many: false },
     { pagePropertySlug: "voice-reference-sha256", required: false, many: false },
     { pagePropertySlug: "green-day-points", required: false, many: false },
+    { pagePropertySlug: "last-messaged-at", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
