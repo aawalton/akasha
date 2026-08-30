@@ -14,33 +14,53 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The function form stands, its arguments being bound and sent apart from the text rather than written into it.",
+      statement: "The function form stands.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`evaluate`, `evaluateHandle` and `waitForFunction` are read alike, each handing text to the browser to run.",
+        "Its arguments are bound and sent apart from the text rather than written into it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`evaluate` and `evaluateHandle` and `waitForFunction` are read alike.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each hands text to the browser to run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a credential would carry is refused wherever it stands inside the text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property's name reads as any name does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A quoted word spelling `password` is no credential.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rule reads the names code binds and never the words inside a string.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file is judged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name a credential would carry is refused wherever it stands inside the text, a property's name reading as any name does.",
+        "No folder here is the harness and a credential leaks from wherever it is written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A quoted word spelling `password` is no credential, the rule reading the names code binds and never the words inside a string.",
+      statement: "A test file is judged as any other.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every file is judged, no folder here being the harness and a credential leaking from wherever it is written.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A test file is judged as any other, a credential in a failing test's trace being leaked as surely as one in a run.",
+      statement: "A credential in a failing test's trace is leaked as surely as one in a run.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +68,11 @@ export const noCredentialInScriptText = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A credential a function form closes over is not seen, the value never reaching the page and the call failing there instead.",
+      statement: "A credential a function form closes over is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The value never reaches the page and the call fails there instead.",
     },
     {
       invariantKind: "stopgap",

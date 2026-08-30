@@ -47,8 +47,11 @@ export const noImportCycle = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A deferred `import()` is not counted, and a loop closed through one alone is not refused though it may still be one.",
+      statement: "A deferred `import()` is not counted.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A loop closed through one alone is not refused though it may still be one.",
     },
   ],
 } as const satisfies Check

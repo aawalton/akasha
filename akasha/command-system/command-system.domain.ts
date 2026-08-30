@@ -30,17 +30,24 @@ export const commandSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A command is found in the index, and naming one costs the same at any size.",
+      statement: "A command is found in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming one costs the same at any size.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command answers with what to report and what refused it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It prints nothing itself.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A command answers with what to report and what refused it, and prints nothing itself.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A command's answer carries a code saying whose fault it was: the caller's, the data's, or the command's.",
+        "A command's answer carries a code saying whose fault it was: the caller's or the data's or the command's.",
     },
   ],
 } as const satisfies Domain

@@ -14,8 +14,11 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A default is right where it throws, returns, or calls `assertNever`, each of which ends the dispatch rather than falling out of it.",
+      statement: "A default is right where it throws or returns or calls `assertNever`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each of those ends the dispatch rather than falling out of it.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +35,7 @@ export const exhaustiveDispatch = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here says the cases cover the type. What is refused is a switch that could fall out, not one that is short a case.",
+        "Nothing here says the cases cover the type. What is refused is a switch that could fall out rather than one that is short a case.",
     },
     {
       invariantKind: "gap",

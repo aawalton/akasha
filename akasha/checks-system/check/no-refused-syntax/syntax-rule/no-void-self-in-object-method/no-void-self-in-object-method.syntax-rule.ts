@@ -14,18 +14,25 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A function assigned to a property is left, being reached with a dot rather than a colon.",
+      statement: "A function assigned to a property is left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is reached with a dot rather than a colon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A method on a class is left.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A method on a class is left, the object literal being the only place this shorthand is emitted with a colon call.",
+        "The object literal is the only place this shorthand is emitted with a colon call.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Only `void` is refused. A `this` named as some other type says what calls the method, rather than saying nothing does.",
+        "Only `void` is refused. A `this` named as some other type says what calls the method rather than saying nothing does.",
     },
     {
       invariantKind: "departure",
@@ -42,8 +49,11 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A method put onto an object after the literal is written is not seen, standing outside it.",
+      statement: "A method put onto an object after the literal is written is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "It stands outside the object literal.",
     },
   ],
 } as const satisfies SyntaxRule

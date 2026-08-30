@@ -14,11 +14,15 @@ export const fileLength = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ceiling is counted in bytes, never in characters.",
+      statement: "The ceiling is counted in bytes rather than in characters.",
     },
     {
       invariantKind: "departure",
-      statement: "Every file in the akasha folder is judged, and no kind of file is exempt.",
+      statement: "Every file in the akasha folder is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No kind of file is exempt.",
     },
     {
       invariantKind: "departure",

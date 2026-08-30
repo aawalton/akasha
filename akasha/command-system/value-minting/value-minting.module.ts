@@ -14,14 +14,6 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A value is worked out from the index the change would leave.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page of a page type the same change adds is minted into.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body carried from another path is left alone.",
     },
     {
@@ -30,8 +22,11 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only a value worked out before the checks is put in here, the rest waiting until a commit is certain.",
+      statement: "Only a value worked out before the checks is put in here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rest waits until a commit is certain.",
     },
     {
       invariantKind: "departure",
@@ -55,8 +50,11 @@ export const valueMinting = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A second early property can go into a page whose type declares none, and the checks refuse it.",
+      statement: "A second early property can go into a page whose type declares none.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The checks refuse it.",
     },
     {
       invariantKind: "absence",

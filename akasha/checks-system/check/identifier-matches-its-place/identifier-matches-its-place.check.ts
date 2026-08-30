@@ -22,7 +22,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A function is judged whether it is declared or bound to a name, at any depth.",
+      statement: "A function is judged whether it is declared or bound to a name at any depth.",
     },
     {
       invariantKind: "departure",
@@ -30,23 +30,38 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A name outside akasha is passed over. The places hold for the whole repo, and this judges where the repo has arrived.",
+      statement: "A name outside akasha is passed over. The places hold for the whole repo.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This judges where the repo has arrived.",
     },
     {
       invariantKind: "absence",
       statement:
-        "A type parameter, a property key, a parameter and a component are each their own place, and none is judged here.",
+        "A type parameter and a property key and a parameter and a component are each their own place.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "None is judged here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name bound at the top of a file to a literal is judged as a constant.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name bound at the top of a file to a literal is judged as a constant, a literal being an object, an array, a string, a number, a regular expression, `true` or `false`.",
+        "A literal is an object or an array or a string or a number or a regular expression or `true` or `false`.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The name passed over is the one the file's stem makes: in a page file that is the page's value, and in a property file the stem carries a dot and makes no identifier.",
+        "The name passed over is the one the file's stem makes: in a page file that is the page's value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "In a property file the stem carries a dot and makes no identifier.",
     },
     {
       invariantKind: "absence",

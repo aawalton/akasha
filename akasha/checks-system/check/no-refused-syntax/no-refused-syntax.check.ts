@@ -20,13 +20,19 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file is parsed the once and handed to every rule, which is why the rules stand together under one check rather than each apart.",
+      statement: "A file is parsed the once and handed to every rule.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file two rules refuse is refused twice, each reason naming the rule that gave it.",
+      statement: "The rules stand together under one check rather than each apart.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file two rules refuse is refused twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each reason names the rule that gave it.",
     },
     {
       invariantKind: "departure",

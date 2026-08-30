@@ -23,7 +23,7 @@ export const noIndexPathSpelled = {
     },
     {
       invariantKind: "departure",
-      statement: "Every string a body holds is read, not the specifiers alone.",
+      statement: "Every string a body holds is read rather than the specifiers alone.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const noIndexPathSpelled = {
     {
       invariantKind: "absence",
       statement:
-        "A path built from anything but plain strings is not seen. A template holding the place, or a name standing for it, reads as no path here.",
+        "A path built from anything but plain strings is not seen. A template holding the place or a name standing for it reads as no path here.",
     },
     {
       invariantKind: "absence",

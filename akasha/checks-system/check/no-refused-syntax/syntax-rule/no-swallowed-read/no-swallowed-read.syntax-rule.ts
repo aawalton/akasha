@@ -12,22 +12,37 @@ export const noSwallowedRead = {
     {
       invariantKind: "departure",
       statement:
-        "A file importing `Change`, `Judging` or `Judged` is walking the paths a change carries, and that is where a read that fails costs a path rather than a caller.",
+        "A file importing `Change` or `Judging` or `Judged` is walking the paths a change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That is where a read that fails costs a path rather than a caller.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A body is read by `readFileSync` and its kin, by `Bun.file`, by a decoder, or by a binding taken from `createRequire`, in the try itself or through a function beside it.",
+        "A body is read by `readFileSync` and its kin or by `Bun.file` or by a decoder or by a binding taken from `createRequire`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The read stands in the try itself or through a function beside it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A catch that throws, calls `process.exit`, or calls a function typed `never` stands, the run ending there and no path being counted as judged.",
+        "A catch that throws or calls `process.exit` or calls a function typed `never` stands.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A catch resuming the walk with `continue` or `break` is refused, and so is one the failure falls out of.",
+      statement: "The run ends there and no path is counted as judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch resuming the walk with `continue` or `break` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch the failure falls out of is refused.",
     },
     {
       invariantKind: "departure",

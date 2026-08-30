@@ -10,8 +10,11 @@ export const noSopsOnDevStdin = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A call handing `/dev/stdin` to sops is refused, sops opening and seeking what it is given and a pipe answering neither.",
+      statement: "A call handing `/dev/stdin` to sops is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Sops opens and seeks what it is given and a pipe answers neither.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +22,11 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--filename-override` marks a call as sops's, being a flag no other tool here takes.",
+      statement: "`--filename-override` marks a call as sops's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is a flag no other tool here takes.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +39,11 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "departure",
-      statement: "sops alone is left, a call naming it and a real file being what this asks for.",
+      statement: "sops alone is left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming it and a real file is what this asks for.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +51,11 @@ export const noSopsOnDevStdin = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A path built by joining or interpolating is not seen, only a whole literal standing in the call being read.",
+      statement: "A path built by joining or interpolating is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Only a whole literal standing in the call is read.",
     },
   ],
 } as const satisfies SyntaxRule

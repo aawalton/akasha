@@ -14,16 +14,23 @@ export const noRawNulBytes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every file in the akasha folder is judged, and no kind of file is exempt.",
+      statement: "Every file in the akasha folder is judged.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file carrying more than one NUL is reported at the first, with how many stand in it.",
+      statement: "No kind of file is exempt.",
     },
     {
       invariantKind: "departure",
-      statement: "A NUL is counted in the bytes, never in the decoded text.",
+      statement: "A file carrying more than one NUL is reported at the first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report says how many stand in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A NUL is counted in the bytes rather than in the decoded text.",
     },
   ],
 } as const satisfies Check

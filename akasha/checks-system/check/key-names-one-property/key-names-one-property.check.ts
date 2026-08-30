@@ -23,8 +23,11 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two declarations at one key naming different properties collide, and no narrowing makes them one.",
+      statement: "Two declarations at one key naming different properties collide.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No narrowing makes them one.",
     },
     {
       invariantKind: "departure",
@@ -36,13 +39,20 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A restatement narrows: required never loosens, a max only falls, and whether a property is carried once or many never changes.",
+      statement: "A restatement narrows: required never loosens.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A max only falls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a property is carried once or many never changes.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries it, and when the change carries a property it declares.",
+        "A page type is judged when the change carries it and when the change carries a property it declares.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +62,7 @@ export const keyNamesOneProperty = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges a key's format, nor whether any page type declares the property. Those stand elsewhere.",
+        "Nothing here judges a key's format nor whether any page type declares the property. Those stand elsewhere.",
     },
   ],
 } as const satisfies Check

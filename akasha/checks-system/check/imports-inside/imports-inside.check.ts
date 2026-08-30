@@ -14,13 +14,16 @@ export const importsInside = {
   invariants: [
     {
       invariantKind: "absence",
-      statement:
-        "A specifier naming no path of its own is a package, and a package is not the akasha folder's business.",
+      statement: "A specifier naming no path of its own is a package.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A package is not the akasha folder's business.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Where a relative specifier lands is decided by the file holding it, never by where the check was run from.",
+        "Where a relative specifier lands is decided by the file holding it rather than by where the check was run from.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +31,7 @@ export const importsInside = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is judged by where it lands, never by what is there.",
+      statement: "A specifier is judged by where it lands rather than by what is there.",
     },
     {
       invariantKind: "departure",

@@ -66,8 +66,11 @@ export const syntaxRule = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A rule carries no status. A rule that stands is a rule that judges, and one not ready to judge is not written.",
+      statement: "A rule carries no status. A rule that stands is a rule that judges.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "One not ready to judge is not written.",
     },
   ],
 } as const satisfies PageType

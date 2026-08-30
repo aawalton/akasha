@@ -15,8 +15,11 @@ export const requireImportExtension = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "A specifier naming no path of its own is a package, and a package names no file to carry an extension.",
+      statement: "A specifier naming no path of its own is a package.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A package names no file to carry an extension.",
     },
     {
       invariantKind: "departure",

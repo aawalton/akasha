@@ -14,30 +14,45 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`undefined` is what stands in its place, being the one spelling a body returning something cannot fill.",
+      statement: "`undefined` is what stands in its place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is the one spelling a body returning something cannot fill.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An async body is the case this is for: its promise lands in a `void` slot unawaited, and every failure inside it goes unheard.",
+        "An async body is the case this is for: its promise lands in a `void` slot unawaited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every failure inside it goes unheard.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every return position is judged alike — a declaration, an arrow, a method, a function type, a method signature, a call signature and a constructor type.",
+        "Every return position is judged alike — a declaration and an arrow and a method and a function type and a method signature and a call signature and a constructor type.",
     },
     {
       invariantKind: "departure",
-      statement: "The line named is the annotation's own, not the function's.",
+      statement: "The line named is the annotation's own rather than the function's.",
     },
     {
       invariantKind: "departure",
-      statement: "`void` reached as a type argument stands, `Promise<void>` above all.",
+      statement: "`void` reached as a type argument stands.",
     },
     {
       invariantKind: "departure",
-      statement: "`void` used as an operator on an expression is untouched, being no type at all.",
+      statement: "`Promise<void>` stands above all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`void` used as an operator on an expression is untouched.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is no type at all.",
     },
     {
       invariantKind: "departure",

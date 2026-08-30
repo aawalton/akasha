@@ -16,11 +16,15 @@ export const indexAskedNotReached = {
     {
       invariantKind: "departure",
       statement:
-        "The names refused are the ones handing back a path into the index or a raw read of it, and they stay exported.",
+        "The names refused are the ones handing back a path into the index or a raw read of it.",
     },
     {
       invariantKind: "departure",
-      statement: "What is refused is taking the name, never what is done with it.",
+      statement: "They stay exported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is refused is taking the name rather than what is done with it.",
     },
     {
       invariantKind: "departure",

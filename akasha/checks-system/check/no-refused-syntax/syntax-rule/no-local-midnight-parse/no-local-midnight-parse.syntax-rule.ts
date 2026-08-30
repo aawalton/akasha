@@ -18,13 +18,19 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The midnight is looked for at the head of the piece following the date, a midnight further in being text about a time rather than a time being built.",
+      statement: "The midnight is looked for at the head of the piece following the date.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Seconds and a fraction after the midnight are read as the midnight itself, one instant being named at more length.",
+      statement: "A midnight further in is text about a time rather than a time being built.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Seconds and a fraction after the midnight are read as the midnight itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One instant is named at more length.",
     },
     {
       invariantKind: "departure",
@@ -36,8 +42,12 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "departure",
+      statement: "An hour that is not midnight stands.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "An hour that is not midnight stands, the fault being the pretence that a date names an instant rather than the joining itself.",
+        "The fault is the pretence that a date names an instant rather than the joining itself.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +55,11 @@ export const noLocalMidnightParse = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A midnight held in a variable and joined on in a later statement is not seen, the two standing apart.",
+      statement: "A midnight held in a variable and joined on in a later statement is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The two stand apart.",
     },
   ],
 } as const satisfies SyntaxRule

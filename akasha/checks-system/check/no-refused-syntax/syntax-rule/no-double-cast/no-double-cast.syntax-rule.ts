@@ -26,8 +26,11 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A parenthesis between the two changes nothing, the pair being one assertion on another however it is written.",
+      statement: "A parenthesis between the two changes nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pair is one assertion on another however it is written.",
     },
     {
       invariantKind: "departure",
@@ -39,8 +42,11 @@ export const noDoubleCast = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A widening held in a variable and asserted in a later statement is not seen, the two standing apart.",
+      statement: "A widening held in a variable and asserted in a later statement is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The two stand apart.",
     },
   ],
 } as const satisfies SyntaxRule

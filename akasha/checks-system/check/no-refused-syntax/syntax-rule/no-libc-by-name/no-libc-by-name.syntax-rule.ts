@@ -35,8 +35,11 @@ export const noLibcByName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only the C runtime family is named, opening a library in general being an ordinary thing to do.",
+      statement: "Only the C runtime family is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Opening a library in general is an ordinary thing to do.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +47,11 @@ export const noLibcByName = {
     },
     {
       invariantKind: "gap",
-      statement: "A name built as the code runs is not seen, only one written where it is opened.",
+      statement: "A name built as the code runs is not seen.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "One written where it is opened is seen.",
     },
   ],
 } as const satisfies SyntaxRule

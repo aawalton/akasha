@@ -14,8 +14,11 @@ export const noMethodSignature = {
   invariants: [
     {
       invariantKind: "absence",
-      statement:
-        "A call, construct or index signature is left out, and so is a method written out rather than declared.",
+      statement: "A call or construct or index signature is left out.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "So is a method written out rather than declared.",
     },
     {
       invariantKind: "departure",

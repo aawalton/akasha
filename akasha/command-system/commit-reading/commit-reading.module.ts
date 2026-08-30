@@ -14,12 +14,15 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer comes back as bytes, never as text.",
+      statement: "The answer comes back as bytes rather than as text.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path the commit does not carry answers as nothing, and a base that names no commit is said out loud.",
+      statement: "A path the commit does not carry answers as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A base that names no commit is said out loud.",
     },
     {
       invariantKind: "departure",
@@ -43,8 +46,11 @@ export const commitReading = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges, writes or commits. It answers what a commit holds, and the commit is named by whoever asks.",
+      statement: "Nothing here judges or writes or commits. It answers what a commit holds.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The commit is named by whoever asks.",
     },
   ],
 } as const satisfies Module
