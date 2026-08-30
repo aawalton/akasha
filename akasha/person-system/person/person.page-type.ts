@@ -20,6 +20,13 @@ export const person = {
   pluralSlug: "people",
   extendsSlug: "page-type/domain",
   partSlugs: [
+    "person/alan",
+    "person/david",
+    "person/jenny",
+    "person/joseph",
+    "person/katara",
+    "person/ki",
+    "person/lizzy",
     "phone-number-property/phone",
     "relation-property/answered-by",
     "text-property/supabase-auth-user-id",
