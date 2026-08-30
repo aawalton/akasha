@@ -11,7 +11,11 @@ export const indexPath = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path file is found by the path alone, with no scope or property above it.",
+      statement: "A path file is found by the path alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path file has no scope or property above it.",
     },
     {
       invariantKind: "departure",
@@ -19,20 +23,31 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file a page property holds is filed under its own path, and answers the page stating it.",
+      statement: "A file a page property holds is filed under its own path.",
     },
     {
       invariantKind: "departure",
-      statement: "A path cannot collide, one path holding one file and one file being one page.",
+      statement: "A file a page property holds answers the page stating it.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is filed here only when it carries an id, a slug and a page type.",
+      statement: "One path holds one file.",
     },
     {
       invariantKind: "departure",
-      statement: "Every path the index files is found by walking this tree, and it is the corpus.",
+      statement: "One file is one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is filed here only when it carries an id and a slug and a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every path the index files is found by walking this tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This tree is the corpus.",
     },
   ],
 } as const satisfies Index
