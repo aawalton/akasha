@@ -47,10 +47,14 @@ function knowing(shadow: Shadow, root: string): Shaped {
   return knownIn(shadow.reading, root, shadow.pageOf)
 }
 
-function judged(change: Leaving): readonly Judged[] {
+function shadowing(change: Leaving): Shadow {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
-  return relationResolves(change, cast.shadow)
+  return cast.shadow
+}
+
+function judged(change: Leaving): readonly Judged[] {
+  return relationResolves(change, shadowing(change))
 }
 
 test("a page naming a page the index already carries is let through", () => {
@@ -196,8 +200,9 @@ test("the pages to judge for a page taken away are the ones the reverse edges na
   naming(root, D_ID, "domain-slug", A_ID, A)
   standing(root, A, A_ID, "note", "a")
   const leaving = over(root, [D], { [D]: null })
-  expect(namersOf(leaving, ["domain-slug", "part-slugs"])).toEqual([A])
-  expect(namersOf(over(root, [D], { [D]: "held" }), ["domain-slug"])).toEqual([])
+  expect(namersOf(leaving, ["domain-slug", "part-slugs"], shadowing(leaving).reading)).toEqual([A])
+  const held = over(root, [D], { [D]: "held" })
+  expect(namersOf(held, ["domain-slug"], shadowing(held).reading)).toEqual([])
 })
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {

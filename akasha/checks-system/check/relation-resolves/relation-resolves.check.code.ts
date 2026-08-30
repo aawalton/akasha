@@ -11,6 +11,7 @@ import {
   standingById,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import {
   type Known,
   knownIn,
@@ -60,11 +61,15 @@ export function relationProperties(shadow: Shadow, known: Known): readonly strin
   return found.sort()
 }
 
-export function namersOf(leaving: Leaving, properties: readonly string[]): readonly string[] {
+export function namersOf(
+  leaving: Leaving,
+  properties: readonly string[],
+  given: string | Reading
+): readonly string[] {
   const found = new Set<string>()
   for (const path of leaving.changed) {
     if (leaving.at(path) !== null) continue
-    for (const gone of standingByPath(leaving.root, path)) {
+    for (const gone of standingByPath(given, path)) {
       if (gone.path !== path) continue
       for (const propertySlug of properties) {
         for (const id of idsNaming(leaving.root, gone.id, propertySlug)) {
@@ -181,7 +186,7 @@ export function relationResolves(leaving: Leaving, shadow: Shadow): readonly Jud
   for (const one of carried) said.push(...danglingIn(one.path, one.value, known, mortal))
   if (!took) return said
   const carrying = new Set(carried.map((one) => one.path))
-  for (const path of namersOf(leaving, relationProperties(shadow, known))) {
+  for (const path of namersOf(leaving, relationProperties(shadow, known), shadow.reading)) {
     if (carrying.has(path)) continue
     const value = valueFor(leaving, path)
     if (value !== null) said.push(...danglingIn(path, value, known, mortal))
