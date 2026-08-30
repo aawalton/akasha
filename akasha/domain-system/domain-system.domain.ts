@@ -9,6 +9,7 @@ export const domainSystem = {
     "page-type/domain",
     "page-type/finding",
     "page-type/initiative",
+    "page-type/task",
     "page-type/invariant-group",
     "page-type/invariant-kind",
     "page-type/directive-kind",
