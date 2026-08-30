@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { mkdirSync } from "node:fs"
+import { join } from "node:path"
 import {
   blobIdOf,
   recordRead,
   SUBAGENT_MARK,
 } from "../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { gatheredIn, NO_AGENT, unreadIn, warrantsIn } from "./warranting.module.code.ts"
 
@@ -36,13 +37,6 @@ type Said = {
   readonly runsOnWrite?: boolean
   readonly page?: string
   readonly code?: string
-}
-
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
 }
 
 function pageFor(one: Said, id: string): string {

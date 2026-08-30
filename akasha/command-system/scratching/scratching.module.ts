@@ -5,10 +5,18 @@ export const scratching = {
   pageTypeSlug: "module",
   slug: "scratching",
   definition:
-    "the scratch root a test stands up, and the sweep that takes it however the test ends",
+    "the scratch root a test stands up, the bodies it stands there, and the sweep that takes it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A body a test stands in its scratch root is put there through one spelling, which " +
+        "gives back the id git would know it by, so the tests that want that id and those " +
+        "that do not are written alike.",
+    },
     {
       invariantKind: "departure",
       statement: "A scratch root is swept when the test file that stood it up ends, pass or fail.",
