@@ -22,13 +22,11 @@ export const generatorKind = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "When a generated value is worked out is stated by its kind, because what it costs to waste one and what its absence costs are not the same for every kind.",
+      statement: "When a generated value is worked out is stated by its kind.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A generator waiting for the checks works out a value no check sees, so nothing that must be judged is left to one that waits.",
+      statement: "A generator waiting for the checks works out a value no check sees.",
     },
   ],
 } as const satisfies PageType

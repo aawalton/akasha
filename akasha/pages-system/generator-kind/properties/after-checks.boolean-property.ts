@@ -21,8 +21,7 @@ export const afterChecks = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A value the index needs to file a page at all waits for nothing, because a page missing one is filed nowhere and every check reading the index is blind to it.",
+      statement: "A value the index needs to file a page at all waits for nothing.",
     },
   ],
 } as const satisfies BooleanProperty
