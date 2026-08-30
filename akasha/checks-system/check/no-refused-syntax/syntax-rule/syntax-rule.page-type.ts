@@ -25,7 +25,7 @@ export const syntaxRule = {
   slug: "syntax-rule",
   definition: "a pattern a source file may not carry",
   pluralSlug: "syntax-rules",
-  partSlugs: ["syntax-rule/exhaustive-dispatch"],
+  partSlugs: ["syntax-rule/exhaustive-dispatch", "syntax-rule/no-double-cast"],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [
