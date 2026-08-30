@@ -44,8 +44,9 @@ function body(
   pageTypeSlug: string = "module",
   id: string = ID
 ): Uint8Array {
+  const read = pageTypeSlug.endsWith("-property") ? `, propertySlug: "${slug}"` : ""
   return new TextEncoder().encode(
-    `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
+    `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
   )
 }
 

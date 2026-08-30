@@ -71,6 +71,7 @@ const NOTE: Held = {
   id: idOf("n"),
   pageTypeSlug: "relation-property",
   slug: "note",
+  propertySlug: "note",
   targetPageTypeSlug: "domain",
 }
 

@@ -196,7 +196,7 @@ test("a file standing beside a page through a file property the change adds is n
   const root = rooted()
   const said = judged(
     arriving(root, {
-      "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property" }\n`,
+      "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property", propertySlug: "notes" }\n`,
       "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, notes: "ts" }\n`,
       "akasha/b/one.page-type.notes.ts": "export const held = 1\n",
     })

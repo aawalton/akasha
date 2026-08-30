@@ -71,7 +71,8 @@ export function stating(
   pageTypeSlug: string,
   stated: string = ""
 ): string {
-  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${stated} }\n`
+  const read = pageTypeSlug.endsWith("-property") ? `, propertySlug: "${slug}"` : ""
+  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
 }
 
 export function standing(

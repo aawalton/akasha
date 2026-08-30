@@ -26,7 +26,7 @@ function standing(root: string, slug: string, said: string): undefined {
   put(
     root,
     at,
-    `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "${slug}"${said} }\n`
+    `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "${slug}", propertySlug: "${slug}"${said} }\n`
   )
   filed(root, `identity/${SHAPE}/slug/${slug}.jsonl`, { path: at, id: ID })
 }
@@ -54,7 +54,7 @@ function named(root: string, slug: string, unique: string | null = null): undefi
 const HELD_AT = `akasha/held.${SHAPE}.ts`
 
 function heldBody(said: string): string {
-  return `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "held"${said} }\n`
+  return `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "held", propertySlug: "held"${said} }\n`
 }
 
 function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Leaving {
