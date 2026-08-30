@@ -41,13 +41,23 @@ export const properties = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page type declares the properties it adds, and takes the rest from the type it extends.",
+      statement: "A page type declares the properties it adds.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An inherited property is restated only to narrow it: optional becomes required, and a max only falls.",
+      statement: "A page type takes the rest from the type it extends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An inherited property is restated only to narrow it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Optional becomes required.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A max only falls.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +65,11 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "What a property is belongs to the property, how it is carried belongs here.",
+      statement: "What a property is belongs to the property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How it is carried belongs here.",
     },
     {
       invariantKind: "departure",
