@@ -18,8 +18,11 @@ export const definition = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A definition names one concern. Where a second is needed to cover the area it is more than one domain.",
+      statement: "A definition names one concern.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a second concern is needed to cover the area it is more than one domain.",
     },
     {
       invariantKind: "departure",

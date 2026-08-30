@@ -59,8 +59,11 @@ export const domain = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
+      statement: "A domain stays even when nothing needs it any more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A domain goes only when it no longer fits the structure.",
     },
   ],
   directives: [
