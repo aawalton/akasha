@@ -15,7 +15,6 @@ import { registrationAccountLine } from "./seat-registration-account.ts"
 import { onCallLine } from "./seat-on-call.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
 import { type Stated, statedOf } from "./seat-stated.ts"
-import type { TaskRecord } from "./seat-task.ts"
 import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
 import { workingLines, workingOf } from "./seat-turn-working.ts"
@@ -53,7 +52,6 @@ export function showLines(agent: string, args: Args): readonly string[] {
     (key) => stated.attributes[key] !== undefined && own[key] === undefined
   )
   if (seatPageForAgent(agent) === null) {
-    if (stated.task !== null) inherited.push("task")
     if (stated.initiative !== null) inherited.push("initiative")
   }
   return [
@@ -74,7 +72,7 @@ export function statedLines(agent: string): readonly string[] {
 
 function linesOf(stated: Stated): readonly string[] {
   return [
-    ...describe(stated.attributes, stated.task),
+    ...describe(stated.attributes),
     flexLine(stated.flex),
     modeLine(stated.mode, stated.recordedMode),
     principalLine(stated.principal),
@@ -85,14 +83,13 @@ function linesOf(stated: Stated): readonly string[] {
   ]
 }
 
-export function describe(attributes: Attributes, task: TaskRecord | null): readonly string[] {
+export function describe(attributes: Attributes): readonly string[] {
   const lines: string[] = []
   const roots = resolveRoots()
   const root = rootFor(roots, AKASHA)
   const documents = documentsOnDemand(root)
   const stated = {
     attributes,
-    task: task === null ? null : task.value,
     initiative: null,
     mode: null,
     onCall: false,
@@ -110,14 +107,6 @@ export function describe(attributes: Attributes, task: TaskRecord | null): reado
       lines.push(`           ${documentNamed(at, root)}`)
     }
   }
-  if (task === null) {
-    lines.push(`  ${"task".padEnd(8)} — not stated`)
-    return lines
-  }
-  const chain = shown.get("task")?.documents ?? null
-  if (chain === null) return lines
-  lines.push(`  ${"task".padEnd(8)} ${task.value}`)
-  for (const at of chain) lines.push(`           ${documentNamed(at, root)}`)
   return lines
 }
 
@@ -157,7 +146,6 @@ export function fromSeat(
     ["persona", spelled.persona],
     ["domain", spelled.domain ?? defaults?.domain ?? null],
     ["role", spelled.role ?? defaults?.role ?? null],
-    ["task", spelled.task],
   ] as const) {
     if (slug !== null) set[slot] = slug
   }

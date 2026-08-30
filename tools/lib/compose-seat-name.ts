@@ -23,10 +23,6 @@ export interface SeatAttributes {
   readonly role: string | null
 }
 
-export interface SeatAssignments {
-  readonly task: string | null
-}
-
 export const FLEET = "agent"
 
 export function personPrincipals(root: string): readonly string[] {
@@ -50,7 +46,6 @@ export type Principal = string
 
 export interface NameableSeat {
   readonly attributes: SeatAttributes
-  readonly assignments: SeatAssignments
   readonly flex: string | null
   readonly principal: Principal | null
 }
@@ -88,14 +83,13 @@ function spelling(seat: NameableSeat, root: string): readonly (string | null)[] 
   const persona = stated(seat.attributes.persona)
   const domain = stated(seat.attributes.domain)
   const role = stated(seat.attributes.role)
-  const { task } = seat.assignments
   if (role === HANDLER) {
     return [domain]
   }
   if (seat.principal === "alan" && persona !== null && !personaIsDefault(root, persona)) {
     return [persona]
   }
-  return [domain, role, stated(seat.flex), stated(task)]
+  return [domain, role, stated(seat.flex)]
 }
 
 export function composeSeatName(seat: NameableSeat, root: string): string | null {
@@ -109,7 +103,6 @@ export function handlerSeatName(person: string, root: string): string {
   const name = composeSeatName(
     {
       attributes: { persona: null, domain: person, role: HANDLER },
-      assignments: { task: null },
       flex: null,
       principal: null,
     },

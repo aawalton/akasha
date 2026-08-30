@@ -1,7 +1,6 @@
 
 import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { principalOf } from "./seat-principal.ts"
-import { taskOf } from "./seat-task.ts"
 import type { StatedAgentSlots } from "./supervisor-rebind-deps.ts"
 
 export type CarriedAgentName = {
@@ -17,7 +16,6 @@ type CarriedRow =
       role?: string | null
       domain?: string | null
       persona?: string | null
-      task?: string | null
       mode?: string | null
       principal?: string | null
     }
@@ -33,14 +31,12 @@ export function pickCarriedAgentName(row: CarriedRow): CarriedAgentName | null {
   const role = held(row.role)
   const domain = held(row.domain)
   const persona = held(row.persona)
-  const task = held(row.task)
   const mode = held(row.mode)
   const principal = held(row.principal)
   const slots: StatedAgentSlots = {
     ...(role === undefined ? {} : { role }),
     ...(domain === undefined ? {} : { domain }),
     ...(persona === undefined ? {} : { persona }),
-    ...(task === undefined ? {} : { task }),
     ...(mode === undefined ? {} : { mode }),
     ...(principal === undefined ? {} : { principal }),
   }
@@ -58,7 +54,6 @@ export function carriedForSeat(agentId: string, row: CarriedRow): CarriedAgentNa
   const role = stated.role?.slug
   const domain = stated.domain?.slug
   const persona = stated.persona?.slug
-  const task = taskOf(agentId)?.value
   const mode = recordedModeOf(agentId)?.value
   const principal = principalOf(agentId)?.value
   const slots: StatedAgentSlots = {
@@ -66,7 +61,6 @@ export function carriedForSeat(agentId: string, row: CarriedRow): CarriedAgentNa
     ...(role == null ? {} : { role }),
     ...(domain == null ? {} : { domain }),
     ...(persona == null ? {} : { persona }),
-    ...(task == null ? {} : { task }),
     ...(mode == null ? {} : { mode }),
     ...(principal == null ? {} : { principal }),
   }

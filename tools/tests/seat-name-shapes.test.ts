@@ -27,7 +27,6 @@ const vocabularies: AdmissionVocabularies = {
   domains: new Set(["ki", "identity", ...PERSONAS, ...NAMEABLE_ROLES]),
   roles: new Set(NAMEABLE_ROLES),
   rolesLongestFirst: [...NAMEABLE_ROLES].sort((a, b) => b.length - a.length),
-  tasks: new Set<string>(),
 }
 
 function candidateNames(text: string): readonly string[] {

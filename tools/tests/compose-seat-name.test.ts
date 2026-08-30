@@ -26,7 +26,7 @@ function plant(at: Fixture): void {
 
 function seat(
   principal: Principal | null,
-  stated: Partial<{ persona: string; domain: string; role: string; flex: string; task: string }>
+  stated: Partial<{ persona: string; domain: string; role: string; flex: string }>
 ): NameableSeat {
   return {
     attributes: {
@@ -34,7 +34,6 @@ function seat(
       domain: stated.domain ?? null,
       role: stated.role ?? null,
     },
-    assignments: { task: stated.task ?? null },
     flex: stated.flex ?? null,
     principal,
   }
@@ -117,10 +116,6 @@ describe("Alan's principal takes the persona's name and nothing else", () => {
     expect(spell(seat("alan", { persona: "athena", domain: "memory", role: "reviewer" }))).toBe("athena")
   })
 
-  test("no assignment reaches the name — an address Alan types is not where the work a seat was handed is recorded", () => {
-    expect(spell(seat("alan", { persona: "athena", task: "define-task" }))).toBe("athena")
-  })
-
   test("nor the flex, so two of her seats at once would spell one name — which is the shape of a persona sitting in at most one seat at a time", () => {
     expect(spell(seat("alan", { persona: "athena", flex: "flex-2" }))).toBe("athena")
   })
@@ -168,7 +163,6 @@ describe("a handler spells the person it serves, and nothing else", () => {
           domain: "alan",
           role: "handler",
           flex: "flex-2",
-          task: "handle-inbound",
         })
       )
     ).toBe("alan")
@@ -176,12 +170,10 @@ describe("a handler spells the person it serves, and nothing else", () => {
 })
 
 describe("every other seat spells everything it states except its persona", () => {
-  test("domain, role and task, the persona dropped — such a seat is reached by what it is doing rather than by who it is", () => {
+  test("domain and role, the persona dropped — such a seat is reached by what it is doing rather than by who it is", () => {
     expect(
-      spell(
-        seat("agent", { persona: "athena", domain: "agent-harness", role: "lead", task: "define-task" })
-      )
-    ).toBe("agent-harness-lead-define-task")
+      spell(seat("agent", { persona: "athena", domain: "agent-harness", role: "lead" }))
+    ).toBe("agent-harness-lead")
   })
 
   test("a dispatch seat carrying no persona spells the same name one carrying a persona does, which is what makes the name say what the seat is doing and nothing about its authorship", () => {
@@ -196,7 +188,7 @@ describe("every other seat spells everything it states except its persona", () =
 })
 
 describe("the flex property", () => {
-  test("it spells after the attributes and before the task, which is what tells two otherwise identical seats apart", () => {
+  test("it spells after the attributes, which is what tells two otherwise identical seats apart", () => {
     expect(spell(seat("agent", { domain: "memory", role: "worker", flex: "flex-2" }))).toBe(
       "memory-worker-flex-2"
     )

@@ -5,7 +5,6 @@ export const tool = {
 
 import { writeFileSync } from "node:fs"
 import { ATTRIBUTES, type Attributes, attributesOf } from "./lib/attributes.ts"
-import { type TaskRecord, taskOf } from "./lib/seat-task.ts"
 import { fail } from "./lib/command.ts"
 
 const HELP = `bun tools/compose-boot.ts — compose a seat's system prompt: who it is, and what it was sent to do
@@ -57,17 +56,13 @@ function claim(attributes: Attributes): string {
   return named.length === 0 ? "" : named.join(", ")
 }
 
-function sentTo(task: TaskRecord | null): string {
-  return task === null ? "" : `You were sent to do task \`${task.value}\`.`
-}
-
 export function compose(seat: string, sent = ""): string {
   if (seat === "" && sent === "") return ""
   return (seat === "" ? "" : `You are ${seat}.\n`) + (sent === "" ? "" : `\n${sent}\n`)
 }
 
 export function compositionFor(agent: string): string {
-  return compose(claim(attributesOf(agent)), sentTo(taskOf(agent)))
+  return compose(claim(attributesOf(agent)))
 }
 
 function main(): void {

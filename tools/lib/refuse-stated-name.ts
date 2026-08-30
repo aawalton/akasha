@@ -2,7 +2,7 @@ import { readSeatName, SLOTS, type Vocabularies } from "./read-seat-name.ts"
 import { resolveRoots, targetRoot } from "../../repo/roots/roots"
 import { nameVocabularyOf } from "./seat-name-vocabulary.ts"
 
-const ROUTE = "State what this seat is with --persona, --domain, --role, --flex and --task."
+const ROUTE = "State what this seat is with --persona, --domain, --role and --flex."
 
 function slotsSpelling(name: string): string | null {
   let vocabularies: Vocabularies

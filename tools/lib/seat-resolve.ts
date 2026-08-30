@@ -171,7 +171,7 @@ export function resolveAttributes(
     if (standing !== undefined) {
       refusals.push(
         `\`${standing.slug}\` and \`${slug}\` both name the ${slot}, and a seat holds one — ` +
-          `state the slots with --persona, --domain, --role and --task rather than as tokens`
+          `state the slots with --persona, --domain and --role rather than as tokens`
       )
       return
     }

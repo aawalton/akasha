@@ -139,7 +139,7 @@ describe("ops seat start — arg parsing", () => {
 })
 
 describe("ops seat start — stated identity", () => {
-  for (const slot of ["--domain", "--role", "--task"]) {
+  for (const slot of ["--domain", "--role"]) {
     it(`${slot} is a flag this command takes`, async () => {
       const result = await runCli([slot, "no-such-document"], { AGENT_ID: VALID_UUID })
       expect(result.exitCode).toBe(1)

@@ -50,7 +50,6 @@ export const help: CommandHelp = {
       description:
         "Who this seat's output is produced for — a person `pages/person/*.person.md` answers to, or `agent` where it works for the fleet.",
     },
-    { name: "--task", argLabel: "<slug>", valueShape: "token", description: "The task this seat is dispatched to." },
     {
       name: "--flex",
       argLabel: "<flex-n>",

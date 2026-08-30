@@ -12,7 +12,6 @@ import { INITIATIVE_SLUG_KEY } from "./seat-initiative.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 import { onCallOf } from "./seat-on-call.ts"
 import { principalOf } from "./seat-principal.ts"
-import { taskOf } from "./seat-task.ts"
 import { sectionNamed, trimEdges } from "./section.ts"
 
 export const CONDITIONAL_READING_KEY = "conditional-reading-slugs"
@@ -22,11 +21,9 @@ export function seatDocuments(agent: string, roots: Roots): readonly SeatDocumen
   const documents = documentsOnDemand(root)
   const inherited = subagentStated(agent, root)
   const attributes = inherited ?? attributesOf(agent)
-  const task = inherited === null ? taskOf(agent) : null
   const warranted = declaredSeatReading(
     {
       attributes,
-      task: task === null ? null : task.value,
       initiative: inherited === null ? pageTextOf(agent, INITIATIVE_SLUG_KEY) : null,
       mode: inherited === null ? modeOf(agent) : null,
       onCall: inherited === null && onCallOf(agent),

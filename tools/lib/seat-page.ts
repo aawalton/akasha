@@ -73,8 +73,6 @@ export function seatPageBody(
   }
   if (stated.recordedMode !== null) lines.push(`start-mode: ${stated.recordedMode.value}`)
   if (stated.onCall) lines.push("on-call: true")
-  const task = stated.task?.value ?? null
-  if (task !== null) lines.push(`task-slug: ${task}`)
   if (stated.initiative !== null) {
     lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))}`)
   }

@@ -112,13 +112,11 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   }
 
   const flex = await readFlexFlag(parsed.string("--flex"))
-  const task = parsed.string("--task")
 
   const statedIdentity: StatedIdentity = {
     persona: stated.persona,
     domain: stated.domain,
     role: stated.role,
-    task,
   }
   const unresolved = await resolveStatedIdentity(statedIdentity)
   if (unresolved !== null) throw inputError(unresolved)
@@ -130,7 +128,6 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
         domain: stated.domain ?? null,
         role: stated.role ?? null,
       },
-      assignments: { task: task ?? null },
       flex,
       principal: principal ?? null,
     },
@@ -189,7 +186,6 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
     persona: stated.persona,
     domain: stated.domain,
     role: stated.role,
-    task,
     flex,
     initiative: parsed.string("--initiative") ?? null,
     parentName: parent === null ? null : composedNameOf(parent),

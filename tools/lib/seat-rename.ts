@@ -14,7 +14,6 @@ function slotsOf(seat: NameableSeat): string {
     seat.attributes.persona,
     seat.attributes.domain,
     seat.attributes.role,
-    seat.assignments.task,
     seat.principal,
   ]
     .map((one) => one ?? "")
@@ -30,7 +29,7 @@ export function composedNameOf(agent: string): string | null {
   return page === null ? null : pageStemOf(page)
 }
 
-const PAGE_SLOTS = ["persona-slug", "domain-slug", "role-slug", "task-slug"] as const
+const PAGE_SLOTS = ["persona-slug", "domain-slug", "role-slug"] as const
 
 const PERSON_KEY = "person-slug"
 

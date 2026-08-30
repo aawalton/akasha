@@ -29,7 +29,6 @@ function statedFrom(fields: Record<string, unknown>): void {
       onCall: false,
       principal: null,
       registration: null,
-      task: null,
     }),
     fileStemOf(page)
   )

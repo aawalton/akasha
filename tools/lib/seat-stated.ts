@@ -13,7 +13,6 @@ import { pageTextOf } from "./seat-page-values.ts"
 import { backfillSeatRecord } from "./seat-record.ts"
 import { ROTATED_KEY, rotatedOf } from "./seat-rotated-session.ts"
 import { SESSION_KEY, type SessionRecord, sessionOf } from "./seat-session.ts"
-import { type TaskRecord, taskOf } from "./seat-task.ts"
 import { TRANSCRIPT_KEY, type TranscriptRecord, transcriptOf } from "./seat-transcript-path.ts"
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
@@ -30,7 +29,6 @@ export interface Stated {
   readonly recordedMode: declarations.ModeRecord | null
   readonly principal: PrincipalRecord | null
   readonly onCall: boolean
-  readonly task: TaskRecord | null
   readonly initiative: InitiativeRecord | null
   readonly errand: ErrandRecord | null
   readonly registration: RegistrationRecord | null
@@ -48,7 +46,6 @@ export function statedOf(agent: string): Stated {
     recordedMode: declarations.recordedModeOf(agent),
     principal: principalOf(agent),
     onCall: onCallOf(agent),
-    task: taskOf(agent),
     initiative: initiativeOf(agent),
     errand: errandOf(agent),
     registration: registrationAccountOf(agent),
@@ -75,7 +72,6 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
     const slug = held.set[slot]
     if (attributes[slot] === undefined && slug !== undefined) attributes[slot] = { slug }
   }
-  const task = held.set.task
   const principal: Principal | null = held.principal
   return {
     ...standing,
@@ -83,7 +79,6 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
     principal:
       standing.principal ?? (principal === null ? null : { value: principal }),
     onCall: standing.onCall || held.onCall,
-    task: standing.task ?? (task === undefined ? null : { value: task }),
     initiative:
       standing.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
   }
@@ -101,7 +96,6 @@ export interface Said {
   readonly mode: declarations.Mode | null
   readonly onCall: boolean
   readonly principal: Principal | null
-  readonly task: string | null
   readonly errand: string | null
   readonly registration: string | null
 }
@@ -118,7 +112,6 @@ export function statedNow(agent: string, attributes: declarations.Attributes, sa
     recordedMode: said.mode === null ? stood.recordedMode : { value: said.mode },
     principal: said.principal === null ? stood.principal : { value: said.principal },
     onCall: said.onCall || (!gone.has("on-call") && stood.onCall),
-    task: said.task === null ? kept("task", stood.task) : { value: said.task },
     initiative:
       said.initiative === null ? kept("initiative", stood.initiative) : { value: said.initiative },
     errand: said.errand === null ? kept("errand", stood.errand) : { value: said.errand },

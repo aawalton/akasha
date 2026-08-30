@@ -42,7 +42,6 @@ interface AgentWhoamiResult {
   readonly role: string | null
   readonly domain: string | null
   readonly persona: string | null
-  readonly task: string | null
   readonly mode: string | null
   readonly principal: string | null
   readonly parentAgentId: string | null
@@ -55,7 +54,6 @@ function renderKeyLines(result: AgentWhoamiResult): string {
     `role=${result.role ?? ABSENT}`,
     `domain=${result.domain ?? ABSENT}`,
     `persona=${result.persona ?? ABSENT}`,
-    `task=${result.task ?? ABSENT}`,
     `mode=${result.mode ?? ABSENT}`,
     `principal=${result.principal ?? ABSENT}`,
     `parentAgentId=${result.parentAgentId ?? ABSENT}`,

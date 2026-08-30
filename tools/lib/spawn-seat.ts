@@ -24,7 +24,6 @@ export interface StatedIdentity {
   readonly persona?: string
   readonly domain?: string
   readonly role?: string
-  readonly task?: string
 }
 
 export interface SpawnSeatInput {
@@ -99,7 +98,6 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
     persona: stated.persona,
     domain,
     role,
-    task: stated.task,
     flex: input.flex ?? null,
     initiative: input.initiative ?? null,
     errand: input.prompt,

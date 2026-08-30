@@ -14,7 +14,7 @@ describe("readPayload", () => {
     const { readings } = answer({ names: ["amy"] })
     expect(readings[0]).toEqual({
       name: "amy",
-      reading: { persona: "amy", domain: null, role: null, flex: null, task: null },
+      reading: { persona: "amy", domain: null, role: null, flex: null },
     })
   })
 

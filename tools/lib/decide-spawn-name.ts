@@ -49,7 +49,7 @@ export function decideSpawnName(input: SpawnNameInput): SpawnNameDecision {
     reason:
       "nothing to name this seat: nothing was stated for a name to be spelled from. A seat's " +
       "name is spelled from --persona, --domain, --role, --flex and " +
-      "--task, and the role a seat takes when none is stated spells nothing on its own. State " +
+      "and the role a seat takes when none is stated spells nothing on its own. State " +
       "--domain for a seat working on a domain, or --persona with --principal for a seat one " +
       "person addresses.",
   }

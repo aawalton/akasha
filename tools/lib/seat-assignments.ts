@@ -17,7 +17,6 @@ export function seatAssignments(agent: string, roots: Roots): SeatAssignments {
     initiative !== null && initiativeFinishedIn(rootFor(roots, AKASHA))(initiative.value)
 
   const named = [
-    stated.task === null ? null : `task ${stated.task.value}`,
     initiative === null ? null : `initiative ${initiative.value}`,
   ]
   return {

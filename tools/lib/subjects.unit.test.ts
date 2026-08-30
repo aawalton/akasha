@@ -11,7 +11,6 @@ const TYPE_OF: Readonly<Record<Exclude<Subject, "domains">, string>> = {
   personas: "persona",
   persons: "person",
   roles: "role",
-  tasks: "task",
 }
 
 function repoNaming(slug: string): string {

@@ -2,7 +2,6 @@ import { FRESH, type Epoch } from "./epoch.ts"
 import { ATTRIBUTES, type Attribute, type Attributes, type Claimant } from "./attributes.ts"
 import { recordSaid } from "./read-record.ts"
 import { refusalText } from "../../refusal/refusal.ts"
-import type { TaskRecord } from "./seat-task.ts"
 
 const MAX_REPORTED = 12
 
@@ -24,11 +23,6 @@ function named(attributes: Attributes): string {
     .join(", ")
 }
 
-export function sentTo(task: TaskRecord | null): string {
-  if (task === null) return ""
-  return ` You were sent to do ${claimText([{ slot: "task", slug: task.value }])}.`
-}
-
 export function listed(remedies: readonly string[]): string[] {
   const reported = remedies.slice(0, MAX_REPORTED).map((remedy, at) => `${at + 1}. ${remedy}`)
   if (remedies.length > reported.length) {
@@ -42,13 +36,12 @@ export function listed(remedies: readonly string[]): string[] {
 export function unreadLead(
   agent: string,
   held: Attributes,
-  task: TaskRecord | null,
   epoch: Epoch | null,
   count: number,
   root: string
 ): string {
   const attributes = named(held)
-  const assignment = sentTo(task)
+  const assignment = ""
   const record = recordSaid(agent)
   if (epoch === null || epoch.source === FRESH) {
     return refusalText(
@@ -73,13 +66,12 @@ export function unreadLead(
 
 export function movedLead(
   held: Attributes,
-  task: TaskRecord | null,
   count: number,
   root: string
 ): string {
   return refusalText(
     "seat-documents-moved",
-    { attributes: named(held), assignment: sentTo(task), count: `${count}` },
+    { attributes: named(held), assignment: "", count: `${count}` },
     root
   )
 }

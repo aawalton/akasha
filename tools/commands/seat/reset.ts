@@ -27,7 +27,6 @@ interface Kept {
   readonly domain: string | null
   readonly role: string | null
   readonly principal: string | null
-  readonly task: string | null
   readonly flex: string | null
   readonly initiative: string | null
   readonly errand: string | null
@@ -43,7 +42,6 @@ function keptStanding(agentId: string, stated: Stated): Kept {
     domain: stated.attributes.domain?.slug ?? null,
     role: stated.attributes.role?.slug ?? null,
     principal: stated.principal?.value ?? null,
-    task: stated.task?.value ?? null,
     flex: stated.flex?.value ?? null,
     initiative: stated.initiative?.value ?? null,
     errand: stated.errand?.value ?? null,
@@ -61,7 +59,6 @@ function keptRecovered(was: SeatFromHistory): Kept {
     domain: was.set.domain ?? null,
     role: was.set.role ?? null,
     principal: was.principal,
-    task: was.set.task ?? null,
     flex: flexInName(was.seatName),
     initiative: was.initiative,
     errand: was.errand,
@@ -124,7 +121,6 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
   const name = composeSeatName(
     {
       attributes: { persona: kept.persona, domain: kept.domain, role: kept.role },
-      assignments: { task: kept.task },
       flex: kept.flex,
       principal: kept.principal,
     },
@@ -150,7 +146,6 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
     ...(kept.persona === null ? {} : { persona: kept.persona }),
     ...(kept.domain === null ? {} : { domain: kept.domain }),
     ...(kept.role === null ? {} : { role: kept.role }),
-    ...(kept.task === null ? {} : { task: kept.task }),
     flex: kept.flex,
     initiative: kept.initiative,
     errand: kept.errand,

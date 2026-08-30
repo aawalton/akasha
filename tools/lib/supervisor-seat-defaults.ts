@@ -18,7 +18,6 @@ export interface SeatCall {
   readonly persona?: string | null
   readonly domain?: string | null
   readonly role?: string | null
-  readonly task?: string | null
   readonly project?: number | string | null
   readonly flex?: string | null
   readonly principal?: string | null

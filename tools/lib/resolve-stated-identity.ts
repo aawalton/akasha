@@ -8,7 +8,6 @@ export interface StatedIdentity {
   readonly persona?: string
   readonly domain?: string
   readonly role?: string
-  readonly task?: string
 }
 
 export function resolveCall(stated: StatedIdentity): SeatCall | null {

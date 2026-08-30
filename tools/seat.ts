@@ -8,7 +8,6 @@ import { attributeFor } from "./lib/seat-attribute.ts"
 import { SEAT_HELP } from "./lib/seat-help.ts"
 import { type Args, parseArgs } from "./lib/seat-args.ts"
 import { refuseInitiative } from "./lib/seat-initiative.ts"
-import { taskOf } from "./lib/seat-task.ts"
 import { launchOf, launchStating, refuseFlex } from "./lib/seat-flex.ts"
 import { principalOf } from "./lib/seat-principal.ts"
 import { handlerDerives, personaIsHers, refuseAnswering } from "./lib/seat-answering.ts"
@@ -119,7 +118,6 @@ export async function run(argv: readonly string[]): Promise<void> {
   const slugsInTree = (): Found => (scanned ??= scan(pages))
 
   const stands = attributesOf(agent)
-  const standingTask = taskOf(agent)?.value ?? null
 
   let mode = args.mode
   if (args.asDefault) {
@@ -131,10 +129,6 @@ export async function run(argv: readonly string[]): Promise<void> {
       if (standing === undefined || set[key] === undefined) continue
       notes.push(`note:   ${key} stands at \`${standing.slug}\` — a default does not replace what is held`)
       delete set[key]
-    }
-    if (standingTask !== null && set["task"] !== undefined) {
-      notes.push(`note:   task stands at \`${standingTask}\` — a default does not replace what is held`)
-      delete set["task"]
     }
     for (const slot of defaultSlots(pages)) {
       if (stands[slot] !== undefined || set[slot] !== undefined) continue
@@ -206,12 +200,7 @@ export async function run(argv: readonly string[]): Promise<void> {
     return
   }
   const held: { -readonly [K in AttributeKey]?: Attribute } = {}
-  let namedTask: string | null = null
   for (const one of resolved.assigned) {
-    if (one.slot === "task") {
-      namedTask = one.slug
-      continue
-    }
     const key = ATTRIBUTES.find((slot) => slot === one.slot)
     if (key !== undefined) held[key] = attributeFor(one.slug)
   }
@@ -221,7 +210,6 @@ export async function run(argv: readonly string[]): Promise<void> {
     const which = ATTRIBUTES.find((slot) => slot === key)
     if (which !== undefined) delete standing[which]
   }
-  const task = args.clear.includes("task") ? null : (namedTask ?? standingTask)
   if (set["persona"] !== undefined || principal !== null || args.clear.includes("persona")) {
     const wrong = refuseAnswering(pages, {
       persona: standing["persona"]?.slug ?? null,
@@ -232,7 +220,7 @@ export async function run(argv: readonly string[]): Promise<void> {
       return
     }
   }
-  const nameable = nameableFrom(agent, standing, task, args.flex, principal, args.clear)
+  const nameable = nameableFrom(agent, standing, args.flex, principal, args.clear)
   const seatName = nameStanding(agent, pages, nameable)
   const followed = await followName(agent, pages, nameable, args.takeLiveName)
   if (followed.kind === "refused") {
@@ -252,7 +240,6 @@ export async function run(argv: readonly string[]): Promise<void> {
       onCall: nowOnCall,
       principal,
       registration: args.registration,
-      task,
     }
     const page = writeSeatPage(
       statedNow(agent, standing, said),

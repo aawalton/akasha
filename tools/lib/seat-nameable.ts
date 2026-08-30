@@ -15,7 +15,6 @@ export function nameableStated(
       domain: set.domain ?? null,
       role: set.role ?? null,
     },
-    assignments: { task: set.task ?? null },
     flex,
     principal,
   }
@@ -24,7 +23,6 @@ export function nameableStated(
 export function nameableFrom(
   agent: string,
   standing: Attributes,
-  statedTask: string | null,
   statedFlex: string | null,
   statedPrincipal: Principal | null,
   cleared: readonly Declaration[]
@@ -34,7 +32,6 @@ export function nameableFrom(
     const held = standing[key]
     if (held !== undefined) stated[key] = held.slug
   }
-  if (statedTask !== null) stated.task = statedTask
   return nameableStated(
     stated,
     cleared.includes("flex") ? null : (statedFlex ?? flexOf(agent)?.value ?? null),

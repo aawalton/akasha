@@ -8,7 +8,6 @@ const VALUES: readonly (readonly [string, string])[] = [
   ["persona", "--persona"],
   ["domain", "--domain"],
   ["role", "--role"],
-  ["task", "--task"],
   ["initiative", "--initiative"],
   ["errand", "--errand"],
   ["flex", "--flex"],

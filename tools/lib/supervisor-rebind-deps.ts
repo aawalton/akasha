@@ -15,7 +15,6 @@ export interface StatedAgentSlots {
   readonly role?: string
   readonly domain?: string
   readonly persona?: string
-  readonly task?: string
   readonly mode?: string
   readonly principal?: string
 }
@@ -29,7 +28,6 @@ export interface ClearRebindDeps {
     role?: string | null
     domain?: string | null
     persona?: string | null
-    task?: string | null
     mode?: string | null
     principal?: string | null
   } | null>

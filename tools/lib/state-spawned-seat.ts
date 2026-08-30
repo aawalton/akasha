@@ -10,7 +10,6 @@ export interface SeatStatement {
   readonly persona?: string
   readonly domain?: string
   readonly role?: string
-  readonly task?: string
   readonly flex?: string | null
   readonly initiative?: string | null
   readonly errand?: string | null

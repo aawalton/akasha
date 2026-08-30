@@ -19,7 +19,7 @@ function withAncestry(relPath: string, root: string, docs: Documents): readonly 
 }
 
 function namedPageWarrant(
-  slot: "persona" | "role" | "task",
+  slot: "persona" | "role",
   slug: string,
   root: string,
   docs: Documents
@@ -39,10 +39,6 @@ export function domainWarrant(slug: string, root: string, docs: Documents): read
 
 export function roleWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
   return namedPageWarrant("role", slug, root, docs)
-}
-
-export function taskWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
-  return namedPageWarrant("task", slug, root, docs)
 }
 
 export function initiativeWarrant(
@@ -94,7 +90,6 @@ export function withRequired(
 
 export interface SeatStated {
   readonly attributes: Attributes
-  readonly task: string | null
   readonly initiative: string | null
   readonly mode: Mode | null
   readonly onCall: boolean
@@ -118,10 +113,6 @@ export function declaredSeatReading(
           ? domainWarrant(one.slug, root, docs)
           : roleWarrant(one.slug, root, docs)
     out.push({ claimant: slot, slug: one.slug, documents: withRequired(found, root, docs) })
-  }
-  if (stated.task !== null) {
-    const found = taskWarrant(stated.task, root, docs)
-    out.push({ claimant: "task", slug: stated.task, documents: withRequired(found, root, docs) })
   }
   if (stated.initiative !== null) {
     const found = initiativeWarrant(stated.initiative, roots, docs)

@@ -26,7 +26,6 @@ import { type SeatDocument, documentNamed } from "./seat-attribute.ts"
 import { INITIATIVE_SLUG_KEY } from "./seat-initiative.ts"
 import { onCallOf } from "./seat-on-call.ts"
 import { principalOf } from "./seat-principal.ts"
-import { taskOf } from "./seat-task.ts"
 
 export interface Request {
   readonly agent: string | null
@@ -94,9 +93,8 @@ function readSeatStanding(request: Request): Standing {
   const inherited = subagentStated(request.agent, request.root)
   const held = inherited ?? attributesOf(request.agent)
   const attributes = ATTRIBUTES.filter((key) => held[key] !== undefined)
-  const task = inherited === null ? taskOf(request.agent) : null
   const initiative = inherited === null ? pageTextOf(request.agent, INITIATIVE_SLUG_KEY) : null
-  const slots = attributes.length + (task === null ? 0 : 1) + (initiative === null ? 0 : 1)
+  const slots = attributes.length + (initiative === null ? 0 : 1)
   if (slots === 0) {
     return outcome(
       "unstated",
@@ -148,7 +146,6 @@ function readSeatStanding(request: Request): Standing {
   const roots: Roots = { ...resolveRoots(), akasha: request.root }
   const stated = {
     attributes: held,
-    task: task === null ? null : task.value,
     initiative,
     mode,
     onCall: inherited === null && onCallOf(request.agent),
@@ -205,14 +202,13 @@ function readSeatStanding(request: Request): Standing {
           unreadLead(
             request.agent,
             held,
-            task,
             epochOf(request.agent),
             unread.length,
             request.root
           ),
           ...listed(unread),
         ],
-    moved.length === 0 ? [] : [movedLead(held, task, moved.length, request.root), ...listed(moved)],
+    moved.length === 0 ? [] : [movedLead(held, moved.length, request.root), ...listed(moved)],
     owed
   )
 }

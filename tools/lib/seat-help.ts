@@ -3,12 +3,13 @@ import { DECLARATIONS, MODES } from "./attributes.ts"
 
 export const SEAT_HELP = `bun tools/seat.ts — state what a seat IS, so a compaction cannot take it away
 
-Records this seat's persona, domain, role and task. A stated attribute survives compaction;
+Records this seat's persona, domain and role. A stated attribute survives compaction;
 the READS of the documents it names do not, which is the whole of the first guarantee —
 after a compaction the seat still states what it is, so the refusal can say what you lost
 and where to read it back.
 
-AN ATTRIBUTE IS STATED HERE AND INFERRED NOWHERE. Reading a task is not adopting one, and
+AN ATTRIBUTE IS STATED HERE AND INFERRED NOWHERE. Reading a document is not adopting what
+it describes, and
 no read record can tell the two apart, so it is an act you perform rather than one observed
 of you.
 
@@ -46,8 +47,7 @@ slug before it stops the seat it is replacing, and has to know what a seat will 
 before it has a row to record anything on. Neither reaches the store on any path.
 
 Usage:
-  ops seat set --persona <slug> --domain <slug> --role <slug> --task <slug>
-  ops seat set --task <slug>
+  ops seat set --persona <slug> --domain <slug> --role <slug>
   ops seat set --from-seat
   ops seat set --from-history
   ops seat set --mode headless
@@ -65,11 +65,8 @@ Flags:
   --persona <slug>  Who is speaking. Matched against the file name under personas/.
   --domain <slug>   Where the work is. Resolves to whatever declares that slug,
                     often a page type, folder or role rather than a file under domains/.
-  --role <slug>     What it is answerable for across every task. Matched against the file
+  --role <slug>     What it is answerable for across every piece of work. Matched against the file
                     name under roles/, at whatever depth it sits.
-  --task <slug>     What it is doing right now. Matched against the file name under tasks/,
-                    at whatever depth it sits, so a task filed in a subdirectory is reached
-                    by name alone; two files sharing one name are refused rather than guessed.
   --from-seat       Propose persona, domain and role from the seat name on disk, and state
                     them. The domain is the persona's own championed-domain, so a seat named
                     after her carries it without anyone typing one; a persona declaring

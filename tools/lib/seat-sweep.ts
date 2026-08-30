@@ -28,8 +28,6 @@ export interface Reading {
 export function readSeat(stated: Stated, from: Sources): Reading {
   const held: string[] = []
   if (stated.onCall) held.push("on-call")
-  const task = stated.task
-  if (task !== null) held.push(`task:${task.value}`)
   const initiative = stated.initiative
   if (initiative !== null && !from.initiativeFinished(initiative.value)) {
     held.push(`initiative:${initiative.value}`)

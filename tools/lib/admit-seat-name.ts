@@ -68,8 +68,8 @@ function composedIdentity(
   if (name.split(JOINER).length < 2) return false
   const read = readSeatName(name, slotVocabulariesOf(vocabularies))
   if ("unreadable" in read) return read.unreadable.length === 0 ? false : UNREADABLE
-  const { persona, domain, role, flex, task } = read.reading
-  const stated = [persona, domain, role, flex, task].filter((slot) => slot !== null).length
+  const { persona, domain, role, flex } = read.reading
+  const stated = [persona, domain, role, flex].filter((slot) => slot !== null).length
   if (stated === 0) return false
   if (stated === 1 && persona !== null) return false
   return true

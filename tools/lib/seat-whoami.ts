@@ -5,7 +5,6 @@ import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
-import { taskOf } from "./seat-task.ts"
 import { frontmatterOf, seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -16,7 +15,6 @@ export interface SeatWhoami {
   readonly role: string | null
   readonly domain: string | null
   readonly persona: string | null
-  readonly task: string | null
   readonly mode: string | null
   readonly principal: string | null
   readonly parentAgentId: string | null
@@ -52,7 +50,6 @@ function fromStanding(agentId: string, page: string): SeatWhoami {
     role: stated.role?.slug ?? null,
     domain: stated.domain?.slug ?? null,
     persona: stated.persona?.slug ?? null,
-    task: taskOf(agentId)?.value ?? null,
     mode: recordedModeOf(agentId)?.value ?? null,
     principal: principalOf(agentId)?.value ?? null,
     parentAgentId: principalSeatIdOf(agentId),
@@ -69,7 +66,6 @@ function fromHistory(agentId: string): SeatWhoami | null {
     role: slugAt(frontmatter, "role-slug"),
     domain: bareSlug(slugAt(frontmatter, "domain-slug")),
     persona: slugAt(frontmatter, "persona-slug"),
-    task: slugAt(frontmatter, "task-slug"),
     mode: slugAt(frontmatter, "start-mode"),
     principal: slugAt(frontmatter, "person-slug") ?? slugAt(frontmatter, "principal-seat-name"),
     parentAgentId: parentFromFrontmatter(frontmatter),
