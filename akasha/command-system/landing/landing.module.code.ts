@@ -1,4 +1,3 @@
-import { execFileSync } from "node:child_process"
 import {
   closeSync,
   mkdirSync,
@@ -16,6 +15,7 @@ import type { Judged, Judging, Leaving } from "../../checks-system/judging/judgi
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
+import { committed, gitIn } from "../committing/committing.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -43,8 +43,6 @@ export type Landed = {
 export type Refused = {
   readonly refusals: readonly string[]
 }
-
-export const UNNAMED = "unnamed"
 
 export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
@@ -127,13 +125,6 @@ export function gateBuilt(root: string): Built {
   } catch (thrown) {
     return { broken: oneLine(thrown instanceof Error ? thrown.message : String(thrown)) }
   }
-}
-
-function gitIn(root: string, argv: readonly string[]): string {
-  return execFileSync("git", ["-C", root, ...argv], {
-    encoding: "utf8",
-    maxBuffer: 64 * 1024 * 1024,
-  })
 }
 
 export function baseOf(root: string): string {
@@ -390,41 +381,6 @@ function indexed(
   return held.settle()
 }
 
-function nameOf(root: string): string {
-  try {
-    return gitIn(root, ["rev-parse", "HEAD"]).trim()
-  } catch {
-    return UNNAMED
-  }
-}
-
-function committed(
-  root: string,
-  paths: readonly string[],
-  message: string,
-  writer: string | null,
-  base: string
-): string | null {
-  for (const one of paths) {
-    try {
-      gitIn(root, ["add", "--intent-to-add", "--", one])
-    } catch {}
-  }
-  try {
-    gitIn(root, ["diff", "--quiet", "HEAD", "--", ...paths])
-    return null
-  } catch {}
-  const named = writer === null ? [] : [`--author=${writer}`]
-  try {
-    gitIn(root, ["commit", ...named, "-m", message, "--", ...paths])
-  } catch (thrown) {
-    const now = nameOf(root)
-    if (now === base || now === UNNAMED) throw thrown
-    return now
-  }
-  return nameOf(root)
-}
-
 function sameBody(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))
@@ -509,7 +465,7 @@ export function landing(
     try {
       const put = wroteOnto(root, changes)
       const noted = indexed(root, changes, before, keeping)
-      const commit = committed(root, [...put.wrote, ...put.took].sort(), message, writer, base)
+      const commit = committed(root, put.wrote, put.took, message, writer, base)
       return { base, commit, wrote: put.wrote, took: put.took, noted }
     } catch (thrown) {
       restored(root, before)

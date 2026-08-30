@@ -3,6 +3,7 @@ import { join } from "node:path"
 import type { Judged, Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { formattedBody } from "../../code-system/code-format/code-format.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
+import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Change, Landed, Refused } from "../landing/landing.module.code.ts"
@@ -13,7 +14,6 @@ import {
   landing,
   leavingOf,
   NO_GATE,
-  UNNAMED,
 } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
