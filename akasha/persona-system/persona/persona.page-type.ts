@@ -1,9 +1,11 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
 
 export type Persona = Domain & {
   purpose: Purpose
+  portrait: Portrait
 }
 
 export const persona = {
@@ -13,13 +15,20 @@ export const persona = {
   definition: "a part of Alan's life personified as someone who answers for it",
   pluralSlug: "personas",
   extendsSlug: "page-type/domain",
-  partSlugs: ["text-property/purpose"],
-  properties: [{ pagePropertySlug: "purpose", required: true, many: false }],
+  partSlugs: ["file-property/portrait", "text-property/purpose"],
+  properties: [
+    { pagePropertySlug: "purpose", required: true, many: false },
+    { pagePropertySlug: "portrait", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "stopgap",
       statement:
-        "This states one of what a persona holds, so the old persona stands until every property is reviewed and moved.",
+        "This states only some of what a persona holds, so the old persona stands until every property is reviewed and moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona stands alone in a folder, her portrait being a file beside her page.",
     },
   ],
 } as const satisfies PageType
