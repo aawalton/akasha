@@ -10,7 +10,7 @@ export const akashaSeats = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "A seat, its role and its persona are each a page in akasha.",
+      statement: "A seat and its role and its persona are each a page in akasha.",
     },
     {
       invariantKind: "gap",
