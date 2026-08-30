@@ -42,9 +42,28 @@ export const identifierMatchesItsPlace = {
         "A type parameter, a property key, a parameter and a component are each their own place, and none is judged here.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
-        "A constant is judged as well, once `constant-identifier` and `derived-identifier` tell apart what the tree holds rather than what it was hoped to hold.",
+        "A name bound at the top of a file to a literal is judged as a constant, a literal being an object, an array, a string, a number, a regular expression, `true` or `false`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name passed over is the one the file's stem makes: in a page file that is the page's value, and in a property file the stem carries a dot and makes no identifier.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A name bound at the top of a file to a value worked out is not judged. Whether such a value is data or a thing the file acts on does not stand in its syntax.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A page file's own value is not judged here. `page-named-as-stated` holds it to the name the slug it states makes.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A name inside a function is judged against `derived-identifier`.",
     },
   ],
 } as const satisfies Check

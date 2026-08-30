@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { lowerCamelCase } from "../../../pages-system/name-format/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "../../../pages-system/name-format/upper-camel-case/upper-camel-case.name-format.code.ts"
+import { upperSnakeCase } from "../../../pages-system/name-format/upper-snake-case/upper-snake-case.name-format.code.ts"
+import { constantIdentifier } from "../../../pages-system/name-place/name-places/constant-identifier.name-place.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
 import { typeIdentifier } from "../../../pages-system/name-place/name-places/type-identifier.name-place.ts"
 import { type Places, refusedIn } from "./identifier-matches-its-place.check.code.ts"
@@ -14,9 +16,17 @@ const PLACES: Places = {
     nameFormatSlug: functionIdentifier.nameFormatSlug,
     matching: lowerCamelCase,
   },
+  constantIdentifier: {
+    nameFormatSlug: constantIdentifier.nameFormatSlug,
+    matching: upperSnakeCase,
+  },
 }
 
 const AT = "akasha/held.ts"
+
+const PAGE_AT = "akasha/held-over.module.ts"
+
+const BESIDE_AT = "akasha/held-over.module.code.ts"
 
 test("a type in upper camel case and a function in lower camel case are let through", () => {
   const body = "export type PageEdge = { one: string }\nexport function pageEdgeIn() {}\n"
@@ -58,9 +68,50 @@ test("a function bound inside another function is judged as well", () => {
   expect(said[0]).toContain("the function `TwoOf`")
 })
 
-test("a constant is passed over, whether it is written where it stands or worked out", () => {
-  const body = 'const INSIDE = "akasha/"\nconst held = new Set([INSIDE])\nexport { held }\n'
+test("a constant written out at the top of a file is judged, whatever the literal is", () => {
+  const body =
+    'const HELD = "one"\nconst OVER = { one: 1 }\nconst EVERY = [1]\nconst SHAPE = /one/\n' +
+    "const SAID = `one`\nconst ON = true\nconst OFF = false\nconst COUNT = 2\n"
   expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a constant not in upper snake case is refused, naming the line and the format", () => {
+  const said = refusedIn(AT, '\nconst heldAt = "akasha/"\n', PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("the constant `heldAt`")
+  expect(said[0]).toContain("`name-format/upper-snake-case`")
+})
+
+test("a literal is a literal through `as` and `satisfies`", () => {
+  const said = refusedIn(AT, "const held = { one: 1 } as const satisfies object\n", PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the constant `held`")
+})
+
+test("a value worked out at the top of a file is passed over", () => {
+  const body =
+    'const held = new Set(["one"])\nconst over = oneIn()\nconst said = `${held}`\n' +
+    "const every = held\n"
+  expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a name inside a function is passed over", () => {
+  const body = 'export function one() {\n  const held = "two"\n  return held\n}\n'
+  expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a page's own value is passed over, and a name standing beside it is not", () => {
+  const body = 'export const heldOver = { slug: "held-over" } as const\nconst other = "one"\n'
+  const said = refusedIn(PAGE_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the constant `other`")
+})
+
+test("a property file's stem makes no identifier, so nothing there is passed over", () => {
+  const said = refusedIn(BESIDE_AT, 'const heldOver = "one"\n', PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the constant `heldOver`")
 })
 
 test("a name that is read rather than declared is left to the file declaring it", () => {
@@ -86,4 +137,5 @@ test("every name a file declares is reported, not only the first", () => {
 test("the formats judged are the ones the place pages state", () => {
   expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
+  expect(constantIdentifier.nameFormatSlug).toBe("name-format/upper-snake-case")
 })
