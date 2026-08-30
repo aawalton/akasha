@@ -14,12 +14,19 @@ export const bodyText = {
     },
     {
       invariantKind: "departure",
-      statement: "A path standing at nothing says nothing, never empty text.",
+      statement: "A path standing at nothing says nothing rather than empty text.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "Bytes that are not text read as the replacement character rather than refusing. A caller that must refuse them reaches for a decoder that is fatal, and that gate is not here.",
+      statement: "Bytes that are not text read as the replacement character rather than refusing.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A caller that must refuse them reaches for a decoder that is fatal.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "That gate is not here.",
     },
     {
       invariantKind: "absence",
