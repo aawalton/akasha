@@ -19,7 +19,7 @@ export const move = {
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
-  notes: [
+  helpNotes: [
     "--from and --to repeat in pairs, so several bodies move in one commit.",
     "a page states its own slug, so a move carries a body and never renames it.",
     "the files standing beside what you name go with it.",

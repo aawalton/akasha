@@ -41,7 +41,7 @@ function rootWith(
     const shown =
       one.surface === undefined
         ? ""
-        : `, taking: ${JSON.stringify(one.surface.taking)}, notes: ${JSON.stringify(one.surface.notes)}`
+        : `, taking: ${JSON.stringify(one.surface.taking)}, helpNotes: ${JSON.stringify(one.surface.helpNotes)}`
     writeFileSync(
       join(root, at),
       `export const ${one.slug} = { slug: "${one.slug}"${stated}${shown} }\n`
@@ -162,7 +162,7 @@ test("the commands there are come from the index", () => {
 
 const SURFACED: Surface = {
   taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
-  notes: ["it repeats."],
+  helpNotes: ["it repeats."],
 }
 
 test("asking for help lists the commands with what each page says it is for", () => {

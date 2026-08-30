@@ -18,7 +18,7 @@ export const edit = {
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
-  notes: [
+  helpNotes: [
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
     "a passage stated must stand exactly once in the file, or the call is refused.",
     "the passage and what it becomes are files, never text said on the command line.",

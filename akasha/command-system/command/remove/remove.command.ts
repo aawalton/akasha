@@ -16,7 +16,7 @@ export const remove = {
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
-  notes: [
+  helpNotes: [
     "--file-path repeats, so several paths go in one commit.",
     "a directory named takes away every file git holds under it.",
     "the files standing beside what you name go with it.",

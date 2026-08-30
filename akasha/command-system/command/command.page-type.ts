@@ -1,13 +1,13 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
-import type { Notes } from "../../domain-system/initiative/properties/notes.text-property.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { HelpNotes } from "./properties/help-notes.text-property.ts"
 import type { Mechanical } from "./properties/mechanical.boolean-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
 
 export type Command = Module & {
   mechanical?: Mechanical
   taking?: Taking
-  notes?: readonly Notes[]
+  helpNotes?: readonly HelpNotes[]
 }
 
 export const command = {
@@ -28,6 +28,7 @@ export const command = {
     "command/test",
     "command/write",
     "record-property/taking",
+    "text-property/help-notes",
     "text-property/said",
     "text-property/takes",
   ],
@@ -35,7 +36,7 @@ export const command = {
   properties: [
     { pagePropertySlug: "mechanical", required: false, many: false },
     { pagePropertySlug: "taking", required: false, many: true, max: null },
-    { pagePropertySlug: "notes", required: false, many: true, max: null },
+    { pagePropertySlug: "help-notes", required: false, many: true, max: null },
   ],
   invariants: [
     {

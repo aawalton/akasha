@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, relative, resolve } from "node:path"
-import type { Notes } from "../../domain-system/initiative/properties/notes.text-property.ts"
 import {
   indexIn,
   slugsOfType,
@@ -9,6 +8,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
 import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 
@@ -32,7 +32,7 @@ export type Answering = (argv: readonly string[], given: Given) => Answer
 
 export type Surface = {
   readonly taking: Taking
-  readonly notes: readonly Notes[]
+  readonly helpNotes: readonly HelpNotes[]
 }
 
 export const HELP = "--help"
@@ -43,7 +43,7 @@ const DEFINITION = "definition"
 
 const TAKING = "taking"
 
-const NOTES = "notes"
+const HELP_NOTES = "helpNotes"
 
 const COMMAND = "command"
 
@@ -135,9 +135,9 @@ function toldOf(root: string, every: readonly string[], calledAs: string): reado
 function surfaceOf(page: Record<string, unknown> | null): Surface | null {
   if (page === null) return null
   const taking = page[TAKING]
-  const notes = page[NOTES]
-  if (!Array.isArray(taking) || !Array.isArray(notes)) return null
-  return { taking: taking as Taking, notes: notes as readonly Notes[] }
+  const helpNotes = page[HELP_NOTES]
+  if (!Array.isArray(taking) || !Array.isArray(helpNotes)) return null
+  return { taking: taking as Taking, helpNotes: helpNotes as readonly HelpNotes[] }
 }
 
 export function helpOf(
@@ -148,7 +148,7 @@ export function helpOf(
   const wide = widest(surface.taking.map((one) => one.said))
   const report = [definition === null ? calledAs : `${calledAs} — ${definition}`, ""]
   for (const one of surface.taking) report.push(`  ${one.said.padEnd(wide)}  ${one.takes}`)
-  if (surface.notes.length > 0) report.push("", ...surface.notes)
+  if (surface.helpNotes.length > 0) report.push("", ...surface.helpNotes)
   return report
 }
 

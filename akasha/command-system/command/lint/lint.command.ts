@@ -10,7 +10,7 @@ export const lint = {
   taking: [
     { said: "--file-path <path>", takes: "a file or folder under `akasha/` the linter reads" },
   ],
-  notes: [
+  helpNotes: [
     "--file-path repeats, so several paths are read in one call.",
     "named nothing, it reads every file under `akasha/`.",
     "nothing is written — this says what the linter found and fixes none of it.",

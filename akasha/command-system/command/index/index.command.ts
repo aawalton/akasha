@@ -13,7 +13,7 @@ export const index = {
     { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
     { said: "--unlanded", takes: "build over paths standing apart from HEAD" },
   ],
-  notes: [
+  helpNotes: [
     "refresh is the act it carries, and one call names one act.",
     "a refresh makes no commit, so it takes no message and runs no check.",
   ],

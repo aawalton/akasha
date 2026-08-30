@@ -17,7 +17,7 @@ export const write = {
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
     { said: "--dry-run", takes: "say what would happen and write nothing" },
   ],
-  notes: [
+  helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
     "a body is a file, never text said on the command line.",
     "the files standing beside a path given to --remove go with it.",

@@ -13,7 +13,7 @@ export const read = {
     { said: "--file-path <path>", takes: "a file under `akasha/` to read" },
     { said: "--full", takes: "the whole body, whatever your record holds" },
   ],
-  notes: [
+  helpNotes: [
     "--file-path repeats, so several files come back from one call.",
     "a read also hands back what the files you name warrant, so one call answers the gate.",
     "a body your record already holds comes back as one line rather than the file.",
