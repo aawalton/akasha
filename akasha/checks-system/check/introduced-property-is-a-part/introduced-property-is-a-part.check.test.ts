@@ -3,7 +3,9 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   declaresIn,
   introducedPropertyIsAPart,
@@ -69,10 +71,16 @@ function bytesOf(
   return new TextEncoder().encode(stated(slug, above, declares, parts))
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return introducedPropertyIsAPart(change, cast.shadow)
+}
+
 test("a page type naming the property it introduces among its parts is let through", () => {
   const root = rooted()
   standing(root, "held", null, ["mine"], ["text-property/mine"])
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(root, { [pathFor("held")]: bytesOf("held", null, ["mine"], ["text-property/mine"]) })
   )
   expect(said).toEqual([])
@@ -81,9 +89,7 @@ test("a page type naming the property it introduces among its parts is let throu
 test("a page type introducing a property it does not part is refused", () => {
   const root = rooted()
   standing(root, "held", null, ["mine"], [])
-  const said = introducedPropertyIsAPart(
-    landing(root, { [pathFor("held")]: bytesOf("held", null, ["mine"], []) })
-  )
+  const said = judged(landing(root, { [pathFor("held")]: bytesOf("held", null, ["mine"], []) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("`mine`")
   expect(said[0]?.path).toBe(pathFor("held"))
@@ -93,15 +99,13 @@ test("a property restated to narrow it is inherited, not introduced", () => {
   const root = rooted()
   standing(root, "over", null, ["mine"], ["text-property/mine"])
   standing(root, "under", "over", ["mine"], [])
-  const said = introducedPropertyIsAPart(
-    landing(root, { [pathFor("under")]: bytesOf("under", "over", ["mine"], []) })
-  )
+  const said = judged(landing(root, { [pathFor("under")]: bytesOf("under", "over", ["mine"], []) }))
   expect(said).toEqual([])
 })
 
 test("a property restated under a page type the same change adds is inherited, not introduced", () => {
   const root = rooted()
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(root, {
       [pathFor("over")]: bytesOf("over", null, ["mine"], ["text-property/mine"]),
       [pathFor("under")]: bytesOf("under", "over", ["mine"], []),
@@ -112,7 +116,7 @@ test("a property restated under a page type the same change adds is inherited, n
 
 test("a page type the same change adds does not hide the introducer above it", () => {
   const root = rooted()
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(root, {
       [pathFor("over")]: bytesOf("over", null, ["mine"], []),
       [pathFor("under")]: bytesOf("under", "over", ["mine"], []),
@@ -127,9 +131,7 @@ test("a property two page types introduce is passed over", () => {
   const root = rooted()
   standing(root, "one", null, ["shared"], [])
   standing(root, "two", null, ["shared"], [])
-  const said = introducedPropertyIsAPart(
-    landing(root, { [pathFor("one")]: bytesOf("one", null, ["shared"], []) })
-  )
+  const said = judged(landing(root, { [pathFor("one")]: bytesOf("one", null, ["shared"], []) }))
   expect(said).toEqual([])
 })
 
@@ -137,9 +139,7 @@ test("a type that stops introducing a property leaves the other introducer refus
   const root = rooted()
   standing(root, "one", null, ["shared"], [])
   standing(root, "two", null, ["shared"], [])
-  const said = introducedPropertyIsAPart(
-    landing(root, { [pathFor("one")]: bytesOf("one", null, [], []) })
-  )
+  const said = judged(landing(root, { [pathFor("one")]: bytesOf("one", null, [], []) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor("two"))
 })
@@ -147,7 +147,7 @@ test("a type that stops introducing a property leaves the other introducer refus
 test("a part is matched by the slug it addresses, whatever page type it names", () => {
   const root = rooted()
   standing(root, "held", null, ["mine"], ["number-property/mine"])
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(root, { [pathFor("held")]: bytesOf("held", null, ["mine"], ["number-property/mine"]) })
   )
   expect(said).toEqual([])
@@ -156,7 +156,7 @@ test("a part is matched by the slug it addresses, whatever page type it names", 
 test("a part is matched by the slug it addresses, whatever page type the declaration names", () => {
   const root = rooted()
   standing(root, "held", null, [QUALIFIED], [QUALIFIED])
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(root, { [pathFor("held")]: bytesOf("held", null, [QUALIFIED], [QUALIFIED]) })
   )
   expect(said).toEqual([])
@@ -165,9 +165,7 @@ test("a part is matched by the slug it addresses, whatever page type the declara
 test("a page type declaring a property by page type and parting nothing is still refused", () => {
   const root = rooted()
   standing(root, "held", null, [QUALIFIED], [])
-  const said = introducedPropertyIsAPart(
-    landing(root, { [pathFor("held")]: bytesOf("held", null, [QUALIFIED], []) })
-  )
+  const said = judged(landing(root, { [pathFor("held")]: bytesOf("held", null, [QUALIFIED], []) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain(`\`${QUALIFIED}\``)
   expect(said[0]?.path).toBe(pathFor("held"))
@@ -176,16 +174,14 @@ test("a page type declaring a property by page type and parting nothing is still
 test("a change carrying no page type is passed over", () => {
   const root = rooted()
   standing(root, "held", null, ["mine"], [])
-  expect(introducedPropertyIsAPart(landing(root, { "akasha/held.domain.ts": NO_BYTES }))).toEqual(
-    []
-  )
+  expect(judged(landing(root, { "akasha/held.domain.ts": NO_BYTES }))).toEqual([])
 })
 
 test("a page type the change takes away is not judged", () => {
   const root = rooted()
   standing(root, "held", null, ["mine"], [])
   standing(root, "other", null, ["its"], ["text-property/its"])
-  const said = introducedPropertyIsAPart(
+  const said = judged(
     landing(
       root,
       {

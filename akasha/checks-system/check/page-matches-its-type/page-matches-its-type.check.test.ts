@@ -3,6 +3,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
@@ -34,8 +35,14 @@ function changing(root: string, bodies: Readonly<Record<string, string>>): Leavi
   return { root, changed: Object.keys(bodies).sort(), at, was: at }
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return pageMatchesItsType(change, cast.shadow)
+}
+
 function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  return pageMatchesItsType(changing(scratch.rootFor("akasha-matches-"), bodies))
+  return judged(changing(scratch.rootFor("akasha-matches-"), bodies))
 }
 
 function over(value: Value, pageTypeSlug: string): readonly string[] {
@@ -300,7 +307,7 @@ function generating(generator = "waiting"): string {
 
 function overThing(standing: boolean, generator = "waiting"): readonly Judged[] {
   const bytes = new TextEncoder().encode(THING_BODY)
-  return pageMatchesItsType({
+  return judged({
     root: generating(generator),
     changed: [THING_AT],
     at: (path) => (path === THING_AT ? bytes : null),
@@ -365,7 +372,7 @@ test("a page stating what a page type the change puts above its own declares is 
     "akasha/one.alpha.ts": 'export const one = { pageTypeSlug: "alpha", note: "hi" }\n',
   }
   expect(
-    pageMatchesItsType({
+    judged({
       root,
       changed: Object.keys(now).sort(),
       at: bytesFor(now),

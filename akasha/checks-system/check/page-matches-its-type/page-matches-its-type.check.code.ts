@@ -17,7 +17,7 @@ import {
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -228,10 +228,7 @@ export function reasonsIn(
   return said
 }
 
-export function readingIn(leaving: Leaving): Reading {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const shadow = cast.shadow
+export function readingIn(leaving: Leaving, shadow: Shadow): Reading {
   const held = new Map<string, Value | null>()
   return (pageTypeSlug, slug) => {
     const at = `${pageTypeSlug}/${slug}`
@@ -265,17 +262,15 @@ export function unloadable(why: string | null): string {
   return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
 }
 
-export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
+export function pageMatchesItsType(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(leaving.root)
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
     if (generated !== null) return generated
-    const cast = shadowFor(leaving)
-    if ("refused" in cast) throw new Error(cast.refused)
-    generated = waitingProperties(cast.shadow)
+    generated = waitingProperties(shadow)
     return generated
   }
-  const read = readingIn(leaving)
+  const read = readingIn(leaving, shadow)
   const property = (slug: string): Value | null => {
     const said = schemaOf(leaving.root, slug)
     return "refused" in said ? null : read(said.schema.pageTypeSlug, slug)

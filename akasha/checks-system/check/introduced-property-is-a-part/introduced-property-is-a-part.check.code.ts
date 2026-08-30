@@ -7,7 +7,7 @@ import { everyOfType } from "../../../pages-system/indexes/index-reading/index-r
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { type Shadow, shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   declaredFor,
@@ -117,13 +117,11 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
   )
 }
 
-export function introducedPropertyIsAPart(leaving: Leaving): readonly Judged[] {
+export function introducedPropertyIsAPart(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(leaving, pageTypesIn(leaving.root))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const read = readingIn(leaving)
-  const standing = everyType(cast.shadow, carried)
+  const read = readingIn(leaving, shadow)
+  const standing = everyType(shadow, carried)
   const introducers = introducersIn(standing, read)
   const said: Judged[] = []
   for (const one of standing) {
