@@ -2,7 +2,7 @@
 page-type-slug: persona
 id: 019f046c-3682-7964-a989-e5e5ebb74699
 title: Natalie
-total-points: 26962
+total-points: 27242
 cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef"
 slug: natalie
 domain-parent-slug: readout-group/personas
