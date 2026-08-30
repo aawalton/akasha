@@ -10,13 +10,12 @@ export const nameMatching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every format answers through this one rule, so the formats differ by the shape they hand it and by nothing else.",
+      statement: "Every format answers through this one rule.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A format's whole judgement is the shape on the format's own page, so no format is a second spelling of another.",
+        "A format's whole judgement is the shape on the format's own page. No format is a second spelling of another.",
     },
     {
       invariantKind: "constraint",

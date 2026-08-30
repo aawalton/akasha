@@ -11,22 +11,19 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
-        "A page's uncommitted values stand in one file beside it, written and read as a page's own values are, so one loader answers both.",
+        "A page's uncommitted values stand in one file beside it, written and read as a page's own values are.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "These values are written here rather than by a landing, so a change to them takes no repository hold and makes no commit.",
+      statement: "These values are written here rather than by a landing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The gate refuses a file no page claims, and no page claims this one, so nothing writes it by a landing even meaning to.",
+      statement: "The gate refuses a file no page claims, and no page claims this one.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The file is replaced by writing a scratch file beside it and renaming it over, so a reader sees the values as they stood before a write or after it, never during.",
+      statement: "The file is replaced by writing a scratch file beside it and renaming it over.",
     },
     {
       invariantKind: "departure",
@@ -40,13 +37,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The exported name carries the page's own name, so a file opened on its own says which page it stands beside.",
+      statement: "The exported name carries the page's own name.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every write takes a lock keyed on the file it writes, so writers to one page take turns and writers to different pages never wait on one another.",
+      statement: "Every write takes a lock keyed on the file it writes.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +50,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "Git ignores every `.lock`, so no lock a writer takes is ever committed.",
+      statement: "Git ignores every `.lock`.",
     },
     {
       invariantKind: "departure",
@@ -64,23 +59,20 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A lock naming no holder that can be read is taken once it has stood too long, so a mark nobody wrote wedges nothing.",
+      statement: "A lock naming no holder that can be read is taken once it has stood too long.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Values merge key by key into what stands.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Values merge key by key into what stands, so writers owning different keys of one page never lose one another's.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Dropping names the keys to take away, and taking the whole file away is its own act under its own name, so neither is read as the other.",
+        "Dropping names the keys to take away, and taking the whole file away is its own act under its own name.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "A reader takes no lock, because a write lands whole by rename, so no reader ever waits on a writer or holds one up.",
+      statement: "A reader takes no lock.",
     },
   ],
 } as const satisfies Module

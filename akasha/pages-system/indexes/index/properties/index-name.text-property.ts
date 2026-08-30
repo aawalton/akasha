@@ -18,8 +18,7 @@ export const indexName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name is the folder the answers stand in, so reading it is how a caller reaches them.",
+      statement: "The name is the folder the answers stand in.",
     },
   ],
 } as const satisfies TextProperty

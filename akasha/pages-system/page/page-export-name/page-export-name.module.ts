@@ -15,8 +15,7 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name a page is written under and the name it is read back by are one answer, so a minted page answers to the name its runner looks for.",
+      statement: "The name a page is written under and the name it is read back by are one answer.",
     },
     {
       invariantKind: "absence",

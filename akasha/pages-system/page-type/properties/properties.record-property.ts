@@ -51,8 +51,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Whether a property is carried once or many times never changes, because that breaks the type it extends rather than narrowing it.",
+      statement: "Whether a property is carried once or many times never changes.",
     },
     {
       invariantKind: "departure",

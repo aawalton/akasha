@@ -10,13 +10,11 @@ export const sentenceCase = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "Only the opening capital and the single spaces parting the words are judged; the rest of a sentence's case is not.",
+      statement: "Only the opening capital and the single spaces parting the words are judged.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A proper noun cannot be told from the name, so a word after the first opening capital is let through.",
+      statement: "A proper noun cannot be told from the name.",
     },
   ],
 } as const satisfies NameFormat

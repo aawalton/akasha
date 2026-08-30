@@ -11,17 +11,15 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A file stands beside a page when it carries the page's whole name and one part more, so a page whose name merely begins with another's stands beside nothing of it.",
+        "A file stands beside a page when it carries the page's whole name and one part more.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The folder is read, never the index, so a file that stands is answered whether or not anything filed it and whether or not the page states it.",
+      statement: "The folder is read, never the index.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that is no TypeScript file holds no page, so nothing is answered as standing beside it.",
+      statement: "A path that is no TypeScript file holds no page.",
     },
     {
       invariantKind: "departure",
@@ -30,23 +28,25 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is answered is sorted, so what stands beside a page reads the same however the folder was listed.",
+      statement: "What is answered is sorted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One part more is a property's file whatever the property is called.",
     },
     {
       invariantKind: "departure",
       statement:
-        "One part more is a property's file whatever the property is called, so a file property added elsewhere is seen here without this being changed.",
+        "What stands beside several paths is answered once, sorted, holding none of the paths themselves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The schema is not asked.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What stands beside several paths is answered once, sorted, holding none of the paths themselves, so every command carrying a file along takes the same files with it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The schema is not asked, because a file no page claims cannot stand and the naming grammar lets only this page claim a file carrying its whole name and one part more.",
+        "A file no page claims cannot stand, and the naming grammar lets only this page claim a file carrying its whole name and one part more.",
     },
   ],
 } as const satisfies Module

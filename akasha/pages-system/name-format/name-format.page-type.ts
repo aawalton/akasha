@@ -29,7 +29,7 @@ export const nameFormat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name format is a module, because it both judges a name and writes one.",
+      statement: "A name format both judges a name and writes one.",
     },
     {
       invariantKind: "departure",

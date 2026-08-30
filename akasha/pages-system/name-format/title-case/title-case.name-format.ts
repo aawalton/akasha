@@ -10,18 +10,16 @@ export const titleCase = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "The first word and the last are taken as important, because every convention for titles capitalizes both.",
+      statement: "The first word and the last are taken as important.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Which word between the first and the last is important cannot be read off the name, so a lower one is let through.",
+        "Which word between the first and the last is important cannot be read off the name. A lower one is let through.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "One space parts two words, so a name padded or doubly spaced is not written in it.",
+      statement: "A name padded or doubly spaced is not written in it.",
     },
   ],
 } as const satisfies NameFormat

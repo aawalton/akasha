@@ -24,8 +24,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path cannot collide, one path holding one file and one file being one page, so this index reads rather than refuses and stands apart from identity.",
+      statement: "A path cannot collide, one path holding one file and one file being one page.",
     },
     {
       invariantKind: "departure",

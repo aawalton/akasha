@@ -10,17 +10,16 @@ export const startCase = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "Every word is important, so a name carries no word opening lower.",
+      statement: "A name carries no word opening lower.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A lower word between the first and the last is refused here and let through by title case, so this is no second spelling of it.",
+        "A lower word between the first and the last is refused here and let through by title case.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "One space parts two words, so a name padded or doubly spaced is not written in it.",
+      statement: "A name padded or doubly spaced is not written in it.",
     },
   ],
 } as const satisfies NameFormat

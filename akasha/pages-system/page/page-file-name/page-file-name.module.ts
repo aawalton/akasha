@@ -11,7 +11,7 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is read as its last three dotted parts, so a stem carrying a dot stays the stem, and the tail and what the file holds follow it.",
+        "A name is read as its last three dotted parts. A stem carrying a dot stays the stem, and the tail and what the file holds follow it.",
     },
     {
       invariantKind: "departure",
@@ -20,28 +20,26 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is a TypeScript file, so a name tailed by a page type but holding anything else is no page.",
+      statement: "A name tailed by a page type but not a TypeScript file is no page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What a property's file holds is read as it is written, so a property stands in whatever kind of file suits it.",
+        "What a property's file holds is read as it is written. A property stands in whatever kind of file suits it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page and a file standing beside it answer the same page, so the two are matched without either being read.",
+        "A page and a file standing beside it answer the same page. The two are matched without either being read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The name a property's file stands under is built here as well as read here, so what `heldIn` takes apart and what `besideAt` puts together stay one rule.",
+        "The name a property's file stands under is built here as well as read here. What `heldIn` takes apart and what `besideAt` puts together stay one rule.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that is no TypeScript file is refused rather than answered, so no name is built from one that could carry no page.",
+      statement: "A path that is no TypeScript file is refused rather than answered.",
     },
     {
       invariantKind: "departure",

@@ -14,8 +14,7 @@ export const uniqueKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Uniqueness is a reach rather than a yes or no, so a property says how far its value is unique.",
+      statement: "Uniqueness is a reach rather than a yes or no.",
     },
   ],
 } as const satisfies PageType

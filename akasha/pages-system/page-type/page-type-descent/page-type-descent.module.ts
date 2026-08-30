@@ -10,12 +10,11 @@ export const pageTypeDescent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Descent is worked out from the page type pages themselves, so a page type added later is answered without this being touched.",
+      statement: "Descent is worked out from the page type pages themselves.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type stands under itself, so the slug asked for is always in the answer.",
+      statement: "A page type stands under itself.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +24,7 @@ export const pageTypeDescent = {
     {
       invariantKind: "departure",
       statement:
-        "Which index is read and how a page type's body is reached are both taken, so a caller holding the index as its change leaves it is answered from that and one holding only a root as before.",
+        "A caller holding the index as its change leaves it is answered from that. One holding only a root is answered as before.",
     },
     {
       invariantKind: "absence",

@@ -20,12 +20,11 @@ export const formatReaching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is loaded is what the slug's export name answers to, so a code file answering to nothing else is refused.",
+      statement: "What is loaded is what the slug's export name answers to.",
     },
     {
       invariantKind: "departure",
-      statement: "Each format is loaded once and held, so a slug asked for twice is read once.",
+      statement: "Each format is loaded once and held.",
     },
   ],
 } as const satisfies Module

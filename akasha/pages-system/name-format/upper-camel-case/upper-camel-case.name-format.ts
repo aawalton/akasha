@@ -10,18 +10,17 @@ export const upperCamelCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A name opens with a letter, because a word opening with a digit has no capital to start.",
+      statement: "A name opens with a letter.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A capital opens a word and a word may be one letter, so `PageUUID` reads as `Page` and four one-letter words.",
+        "A capital opens a word and a word may be one letter. `PageUUID` reads as `Page` and four one-letter words.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Whether an acronym is one word or several cannot be read off the name, so neither `PageUuid` nor `PageUUID` is refused.",
+        "Whether an acronym is one word or several cannot be read off the name. Neither `PageUuid` nor `PageUUID` is refused.",
     },
   ],
 } as const satisfies NameFormat

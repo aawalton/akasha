@@ -18,7 +18,7 @@ export const slug = {
     },
     {
       invariantKind: "constraint",
-      statement: "A slug becomes a page's export name, so a slug that cannot be one is no slug.",
+      statement: "A slug that cannot become a page's export name is no slug.",
     },
   ],
 } as const satisfies TextProperty

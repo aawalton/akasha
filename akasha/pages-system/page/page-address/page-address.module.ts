@@ -19,18 +19,15 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This module imports nothing, so everything resolving an address can reach it without a cycle.",
+      statement: "This module imports nothing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An address naming a page by id carries no slug, so the slug it names is nothing rather than the id.",
+      statement: "An address naming a page by id carries no slug.",
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "The lower uuid shape stands here a second time, because reaching the format that owns it would be an import.",
+      statement: "The lower uuid shape stands here a second time.",
     },
   ],
 } as const satisfies Module

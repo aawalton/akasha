@@ -21,8 +21,7 @@ export const generator = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page being created that states the property keeps what it states, so a value written by hand is never worked out over.",
+      statement: "A page being created that states the property keeps what it states.",
     },
     {
       invariantKind: "departure",

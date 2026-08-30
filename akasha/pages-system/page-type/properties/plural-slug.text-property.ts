@@ -13,8 +13,7 @@ export const pluralSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A plural is stated rather than worked out, because a plural cannot be read off a singular.",
+      statement: "A plural is stated rather than worked out.",
     },
     {
       invariantKind: "departure",
