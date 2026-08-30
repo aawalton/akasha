@@ -1,11 +1,13 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { EmailAddress } from "../../persona-system/persona/properties/email-address.email-address-property.ts"
 import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"
 import type { Phone } from "./properties/phone.phone-number-property.ts"
 
 export type Person = Domain & {
   answeredBy: AnsweredBy
   phone?: Phone
+  emailAddress?: EmailAddress
 }
 
 export const person = {
@@ -19,5 +21,6 @@ export const person = {
   properties: [
     { pagePropertySlug: "answered-by", required: true, many: false },
     { pagePropertySlug: "phone", required: false, many: false },
+    { pagePropertySlug: "email-address", required: false, many: false },
   ],
 } as const satisfies PageType

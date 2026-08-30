@@ -7,5 +7,5 @@ export const emailAddress = {
   pageTypeSlug: "email-address-property",
   slug: "email-address",
   propertySlug: "email-address",
-  definition: "the address a persona sends and receives mail at",
+  definition: "the address a person or a persona sends and receives mail at",
 } as const satisfies EmailAddressProperty
