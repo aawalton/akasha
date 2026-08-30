@@ -13,6 +13,19 @@ export const role = {
   definition: "the work an agent is answerable for",
   pluralSlug: "roles",
   extendsSlug: "page-type/domain",
+  partSlugs: [
+    "role/coach",
+    "role/companion",
+    "role/definer",
+    "role/game-master",
+    "role/handler",
+    "role/interviewer",
+    "role/loremaster",
+    "role/operator",
+    "role/persona-craft",
+    "role/scenewright",
+    "role/worker",
+  ],
   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
   invariants: [
     {
