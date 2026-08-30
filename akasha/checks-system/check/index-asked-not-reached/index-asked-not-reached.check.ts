@@ -43,10 +43,5 @@ export const indexAskedNotReached = {
       statement:
         "This runs on no phase. It states its rule and judges nothing, so what it would refuse can be read against the tree before it binds anyone.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "The indexes folder answers every question its callers ask, nothing outside it takes a path into the index, and the phases are turned on.",
-    },
   ],
 } as const satisfies Check

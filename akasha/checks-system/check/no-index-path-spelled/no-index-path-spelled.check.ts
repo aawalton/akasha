@@ -43,10 +43,5 @@ export const noIndexPathSpelled = {
       statement:
         "What a caller does with a path it was given is not judged. Whether reaching the disk through `indexIn` is reaching too far is a question this does not ask.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "No file outside the indexes folder spells a path into the index, and the phases reading the whole tree are turned on.",
-    },
   ],
 } as const satisfies Check
