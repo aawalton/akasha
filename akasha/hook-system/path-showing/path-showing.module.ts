@@ -23,7 +23,7 @@ export const pathShowing = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reaches the filesystem. A caller wanting a path's existence checked, or a link on it followed, settles that first.",
+        "Nothing here reaches the filesystem. A caller wanting a path's existence checked or a link on it followed settles that first.",
     },
   ],
 } as const satisfies Module

@@ -24,7 +24,7 @@ export const hookSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is TypeScript, and never a shell script.",
+      statement: "A hook is TypeScript rather than a shell script.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const hookSystem = {
     {
       invariantKind: "constraint",
       statement:
-        "A hook over the ways a shell writes a file samples an open world, too many to name.",
+        "A hook over the ways a shell writes a file samples an open world that is too many to name.",
     },
   ],
 } as const satisfies Domain

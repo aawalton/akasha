@@ -18,12 +18,15 @@ export const cli = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An exit code says which kind of thing went wrong, and an unclassified failure says so rather than claiming a kind.",
+      statement: "An exit code says which kind of thing went wrong.",
     },
     {
       invariantKind: "departure",
-      statement: "A commit is authored by akasha, whatever ran the command.",
+      statement: "An unclassified failure says so rather than claiming a kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit is authored by akasha whatever ran the command.",
     },
   ],
 } as const satisfies Module

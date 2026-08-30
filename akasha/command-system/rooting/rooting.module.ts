@@ -10,12 +10,15 @@ export const rooting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The root is read off the path, never counted.",
+      statement: "The root is read off the path rather than counted.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The last `akasha` in a path marks the folder, the repository being named `akasha` too.",
+      statement: "The last `akasha` in a path marks the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The repository is named `akasha` too.",
     },
     {
       invariantKind: "departure",

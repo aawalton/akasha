@@ -26,11 +26,12 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "The verdict is read from what the run printed, not from its exit code alone.",
+      statement:
+        "The verdict is read from what the run printed rather than from its exit code alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A run reaching fewer files than stand under it has failed, not passed.",
+      statement: "A run reaching fewer files than stand under it has failed rather than passed.",
     },
     {
       invariantKind: "absence",

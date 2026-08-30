@@ -16,7 +16,8 @@ export const standing = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is weighed by git's own object id, never by when it was last touched.",
+      statement:
+        "A body is weighed by git's own object id rather than by when it was last touched.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +26,7 @@ export const standing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path whose body will not read at all counts as moved, never as standing.",
+      statement: "A path whose body will not read at all counts as moved rather than as standing.",
     },
     {
       invariantKind: "absence",
@@ -43,7 +44,7 @@ export const standing = {
     {
       invariantKind: "departure",
       statement:
-        "What reached `akasha/` between two commits, where it will not read at all, is taken as having reached it.",
+        "What reached `akasha/` between two commits and will not read at all is taken as having reached it.",
     },
   ],
 } as const satisfies Module

@@ -10,7 +10,11 @@ export const chainRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command line carries several calls, and one refused call refuses the line.",
+      statement: "A command line carries several calls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One refused call refuses the line.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +32,11 @@ export const chainRefusal = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here knows what a call is or why one would be refused. A hook hands in the calls it cut and the judgement it makes, and is handed back the one refusal or none.",
+        "Nothing here knows what a call is or why one would be refused. A hook hands in the calls it cut and the judgement it makes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A hook is handed back the one refusal or none.",
     },
   ],
 } as const satisfies Module

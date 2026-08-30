@@ -14,7 +14,7 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "What a commit carries is read from its tree, never from a diff.",
+      statement: "What a commit carries is read from its tree rather than from a diff.",
     },
     {
       invariantKind: "departure",
@@ -22,18 +22,25 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Staging is allowed to fail only where the path does not stand on disk, which is a removal of what git never knew.",
+      statement: "Staging is allowed to fail only where the path does not stand on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change asking for what already stands commits nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change asking for what already stands commits nothing, and answers as nothing rather than as a commit.",
+        "A change asking for what already stands answers as nothing rather than as a commit.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges, writes or indexes. A caller has written what it asked for before this is reached, and puts it back itself where this throws.",
+        "Nothing here judges or writes or indexes. A caller has written what it asked for before this is reached.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller puts back what it asked for itself where this throws.",
     },
   ],
 } as const satisfies Module

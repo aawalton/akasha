@@ -34,12 +34,15 @@ export const remove = {
     {
       invariantKind: "departure",
       statement:
-        "A removal forgets the reading of every path it takes, and of a named path already gone, for every agent holding one.",
+        "A removal forgets the reading of every path it takes and of a named path already gone for every agent holding one.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which named paths went and which were already gone is said, and neither is reported as the other.",
+      statement: "Which named paths went and which were already gone is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither is reported as the other.",
     },
     {
       invariantKind: "departure",
@@ -71,12 +74,15 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` names everything that would go, what was named and what was not.",
+      statement: "`--dry-run` names everything that would go whether named or not.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path is named behind `--file-path`, like `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
+      statement: "A path is named behind `--file-path` like `write` and `edit` name theirs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path standing on its own is refused rather than read as one.",
     },
     {
       invariantKind: "gap",

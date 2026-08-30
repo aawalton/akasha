@@ -26,12 +26,12 @@ export const lint = {
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads. Nothing is fixed, formatted or written.",
+      statement: "A run only reads. Nothing is fixed or formatted or written.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A run that could not be made is answered as a failure of its own, never as a tree the linter found nothing in.",
+        "A run that could not be made is answered as a failure of its own rather than as a tree the linter found nothing in.",
     },
     {
       invariantKind: "absence",

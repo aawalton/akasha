@@ -20,11 +20,15 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`index` is found by its path, never through the index it repairs.",
+      statement: "`index` is found by its path rather than through the index it repairs.",
     },
     {
       invariantKind: "departure",
-      statement: "The act is the first word, and `refresh` is the only act there is.",
+      statement: "The act is the first word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`refresh` is the only act there is.",
     },
     {
       invariantKind: "departure",
@@ -32,11 +36,16 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A worktree standing apart from HEAD is refused, and `--unlanded` builds over it.",
+      statement: "A worktree standing apart from HEAD is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "The commit the index names is stamped by the rebuild, never by this command.",
+      statement: "`--unlanded` builds over a worktree standing apart from HEAD.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The commit the index names is stamped by the rebuild rather than by this command.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +65,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry that would not file is refused, and what was built still stands.",
+      statement: "An entry that would not file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What was built still stands.",
     },
     {
       invariantKind: "absence",

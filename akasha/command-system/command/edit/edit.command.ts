@@ -42,30 +42,30 @@ export const edit = {
     {
       invariantKind: "departure",
       statement:
-        "A file that changes under a call, between its read and its write, refuses the whole call.",
+        "A file that changes under a call between its read and its write refuses the whole call.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Substitutions against one file are worked in the order stated, each against what the one before left.",
+        "Substitutions against one file are worked in the order stated with each against what the one before left.",
     },
     {
       invariantKind: "departure",
-      statement: "A change is stated as exact passages, never as a diff.",
+      statement: "A change is stated as exact passages rather than as a diff.",
     },
     {
       invariantKind: "departure",
-      statement: "A passage is the bytes of the file naming it, trailing newline and all.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Once the bodies are worked out this lands exactly as `write` lands, on the same gate and the same hold.",
+      statement: "A passage is the bytes of the file naming it with its trailing newline included.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file this call would change is warranted exactly as `write` warrants one, on the same record and the same glass.",
+        "Once the bodies are worked out this lands exactly as `write` lands on the same gate and the same hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file this call would change is warranted exactly as `write` warrants one on the same record and the same glass.",
     },
     {
       invariantKind: "departure",

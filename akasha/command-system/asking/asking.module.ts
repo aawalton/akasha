@@ -15,7 +15,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A change that landed is answered as landed, whether or not the report was built.",
+      statement: "A change that landed is answered as landed whether or not the report was built.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that threw is answered as operational, never as unclassified.",
+      statement: "A landing that threw is answered as operational rather than as unclassified.",
     },
     {
       invariantKind: "departure",

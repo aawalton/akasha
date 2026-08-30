@@ -10,7 +10,11 @@ export const holding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The hold is one file, and taking it is one create that fails if it stands.",
+      statement: "The hold is one file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking it is one create that fails if it stands.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +26,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold left by a process that is gone is taken, not waited on.",
+      statement: "A hold left by a process that is gone is taken rather than waited on.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +42,11 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller that never took the hold is refused, and its act never runs.",
+      statement: "A caller that never took the hold is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller that never took the hold never has its act run.",
     },
     {
       invariantKind: "gap",

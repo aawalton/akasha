@@ -15,7 +15,7 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
-        "The command that repairs the index is found by its path, never through the index.",
+        "The command that repairs the index is found by its path rather than through the index.",
     },
     {
       invariantKind: "departure",

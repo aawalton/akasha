@@ -24,7 +24,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read returns the whole file, or what changed after the agent read it, or says the agent read that body already.",
+        "A read returns the whole file or what changed after the agent read it or says the agent read that body already.",
     },
     {
       invariantKind: "departure",
@@ -37,12 +37,12 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "What changed is worked out against the body the record names, and against no other.",
+        "What changed is worked out against the body the record names and against no other.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Where the body the agent read cannot be found again, the whole file comes back and one line says why.",
+        "Where the body the agent read cannot be found again the whole file comes back and one line says why.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,11 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A body past what one answer holds returns what it is, and no call returns it.",
+      statement: "A body past what one answer holds returns what it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No call returns a body past what one answer holds.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +107,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A file named twice, or named and warranted both, comes back once.",
+      statement: "A file named twice or named and warranted both comes back once.",
     },
     {
       invariantKind: "departure",
@@ -112,7 +116,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "A read the warrants cannot be worked out for returns the files it was named, rather than refusing what it can answer.",
+        "A read the warrants cannot be worked out for returns the files it was named rather than refusing what it can answer.",
     },
   ],
 } as const satisfies Command

@@ -13,12 +13,15 @@ export const helpNotes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The lines stand in the order they are written, and are shown under the list of what a command takes.",
+      statement: "The lines stand in the order they are written.",
     },
     {
       invariantKind: "departure",
-      statement: "What one thing a command takes is for stands beside that thing, never here.",
+      statement: "The lines are shown under the list of what a command takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What one thing a command takes is for stands beside that thing rather than here.",
     },
   ],
 } as const satisfies TextProperty

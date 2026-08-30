@@ -26,7 +26,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A body reaches this only as a file named at `--content-file`, never on the command line.",
+        "A body reaches this only as a file named at `--content-file` rather than on the command line.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies written and the paths taken away by one call are one gated commit, or none.",
+        "The bodies written and the paths taken away by one call are one gated commit or none.",
     },
     {
       invariantKind: "departure",
@@ -52,13 +52,16 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--break-the-glass` passes the warrants as it passes the checks, and the reason it was broken stands in the commit.",
+      statement: "`--break-the-glass` passes the warrants as it passes the checks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason it was broken stands in the commit.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path taken away carries the files standing beside it, like `move` and `remove` do.",
+        "A path taken away carries the files standing beside it like `move` and `remove` do.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +81,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A path taken away is forgotten by the record, for every agent.",
+      statement: "A path taken away is forgotten by the record for every agent.",
     },
     {
       invariantKind: "absence",
@@ -86,12 +89,16 @@ export const write = {
     },
     {
       invariantKind: "absence",
-      statement: "A path this call takes away was chosen by whoever called it, and is warranted.",
+      statement: "A path this call takes away was chosen by whoever called it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A path this call takes away is warranted.",
     },
     {
       invariantKind: "gap",
       statement:
-        "A caller hands in whole bodies and learns whether they were taken, never half-taken.",
+        "A caller hands in whole bodies and learns whether they were taken rather than half-taken.",
     },
   ],
 } as const satisfies Command

@@ -10,15 +10,23 @@ export const differing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body is found again by the object id git holds it under, and by nothing else.",
+      statement: "A body is found again by the object id git holds it under and by nothing else.",
     },
     {
       invariantKind: "departure",
-      statement: "An object id git does not hold is no body, and nothing is put in its place.",
+      statement: "An object id git does not hold is no body.",
     },
     {
       invariantKind: "departure",
-      statement: "A difference is git's own, and carries one line either side of what moved.",
+      statement: "Nothing is put in its place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A difference is git's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A difference carries one line either side of what moved.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +34,8 @@ export const differing = {
     },
     {
       invariantKind: "departure",
-      statement: "Whatever goes wrong is no difference, never a difference that might be wrong.",
+      statement:
+        "Whatever goes wrong is no difference rather than a difference that might be wrong.",
     },
     {
       invariantKind: "departure",

@@ -17,8 +17,11 @@ export const audit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An audit judges every file the index names, and no argument narrows which files it sees.",
+      statement: "An audit judges every file the index names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No argument narrows which files an audit sees.",
     },
     {
       invariantKind: "departure",
@@ -46,8 +49,11 @@ export const audit = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing holds the folder still while an audit runs, and a change landing under it is judged half as it was.",
+      statement: "Nothing holds the folder still while an audit runs.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change landing under an audit is judged half as it was.",
     },
   ],
 } as const satisfies Command

@@ -10,12 +10,12 @@ export const reading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is found by agent, then by path.",
+      statement: "A reading is found by agent and then by path.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A line carries the path read, the object id of what was read, when, and the object id a mechanical change left.",
+        "A line carries the path read and the object id of what was read and when it was read and the object id a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -23,8 +23,11 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The record stands beside the index under `.git/data`, and is written again from no page.",
+      statement: "The record stands beside the index under `.git/data`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The record is written again from no page.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +49,7 @@ export const reading = {
     {
       invariantKind: "departure",
       statement:
-        "A mechanical change carries a reading of what it changed onto the body it left, and to the path it left it at.",
+        "A mechanical change carries a reading of what it changed onto the body it left and to the path it left it at.",
     },
     {
       invariantKind: "departure",
@@ -55,25 +58,35 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The body a mechanical change left answers what a warrant asks, and does not answer writing over that body itself.",
+      statement: "The body a mechanical change left answers what a warrant asks.",
     },
     {
       invariantKind: "departure",
-      statement: "The record's owner is the seat, or the subagent acting under it.",
+      statement: "The body a mechanical change left does not answer writing over that body itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's readings are its own, and it begins holding none of its seat's.",
+      statement: "The record's owner is the seat or the subagent acting under it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An acting name the seat's id does not begin is not honoured, and the seat owns the record instead.",
+      statement: "A subagent's readings are its own.",
     },
     {
       invariantKind: "departure",
-      statement: "A removal forgets the reading of what went, for every agent.",
+      statement: "A subagent begins holding none of its seat's readings.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An acting name the seat's id does not begin is not honoured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat owns the record when an acting name does not begin with its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal forgets the reading of what went for every agent.",
     },
     {
       invariantKind: "gap",
