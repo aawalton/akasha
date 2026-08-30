@@ -1,16 +1,17 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import { identityAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
+import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 
 const WARRANTS_IN = "akasha/context-system/context-warrant"
 
-export const WARRANTS_AT = identityAt("context-warrant", "slug")
+const CONTEXT_WARRANT = "context-warrant"
 
-export const SEEDED_AT = ".git/data/warrant"
+export const SEEDED_AT = dataAt("warrant")
 
 const MINTED = "a warrant seeded for a test"
 
@@ -44,7 +45,6 @@ function codeFor(slug: string): string {
 
 export function warrantsStanding(root: string, slugs: readonly string[] = WARRANTS): undefined {
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
-  mkdirSync(join(root, WARRANTS_AT), { recursive: true })
   let minted = 0
   for (const slug of slugs) {
     minted = minted + 1
@@ -52,6 +52,6 @@ export function warrantsStanding(root: string, slugs: readonly string[] = WARRAN
     const path = join(SEEDED_AT, `${slug}.context-warrant.ts`)
     writeFileSync(join(root, path), pageFor(slug, id))
     writeFileSync(join(root, `${path.slice(0, -".ts".length)}.code.ts`), codeFor(slug))
-    writeFileSync(join(root, WARRANTS_AT, `${slug}.jsonl`), `${JSON.stringify({ path, id })}\n`)
+    standingFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
   }
 }

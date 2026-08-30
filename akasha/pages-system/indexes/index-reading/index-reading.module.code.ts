@@ -56,10 +56,6 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
-export function identityAt(...parts: readonly string[]): string {
-  return indexAt(IDENTITY, ...parts)
-}
-
 export function readingIn(given: string | Reading): Reading {
   return readingOf(typeof given === "string" ? indexIn(given) : given)
 }

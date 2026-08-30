@@ -6,8 +6,8 @@ import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import {
   everyPath,
-  identityAt,
   importersOf,
+  indexAt,
   indexIn,
   readingIn,
   schemaOf,
@@ -199,8 +199,8 @@ test("what imports a file is refused when a commit the index never saw stands", 
 })
 
 test("an index's own place is answered under the index root", () => {
-  expect(identityAt().startsWith(indexIn(""))).toBe(true)
-  expect(identityAt("page", "id")).toBe(`${identityAt()}/page/id`)
+  expect(indexAt("held").startsWith(indexIn(""))).toBe(true)
+  expect(indexAt("held", "page", "id")).toBe(`${indexAt("held")}/page/id`)
 })
 
 test("a reader answers alike whether it is given the root or a reading of the index", () => {

@@ -8,6 +8,7 @@ import {
 } from "../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
 import {
@@ -17,11 +18,13 @@ import {
   warrantedIn,
   warrantsIn,
 } from "./warranting.module.code.ts"
-import { SEEDED_AT, WARRANTS_AT } from "./warranting.module.test-fixtures.ts"
+import { SEEDED_AT } from "./warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+const CONTEXT_WARRANT = "context-warrant"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -83,14 +86,13 @@ function codeFor(one: Said): string {
 }
 
 function warranting(root: string, every: readonly Said[]): undefined {
-  mkdirSync(join(root, WARRANTS_AT), { recursive: true })
   mkdirSync(join(root, SEEDED_AT), { recursive: true })
   for (const one of every) {
     const id = mintedId(one.slug)
     const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
     standing(root, at, one.page ?? pageFor(one, id))
     standing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? codeFor(one))
-    standing(root, join(WARRANTS_AT, `${one.slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+    standingFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
   }
 }
 
