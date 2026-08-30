@@ -8,9 +8,9 @@ export const statementStatesOneThing = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -28,10 +28,6 @@ export const statementStatesOneThing = {
     {
       invariantKind: "departure",
       statement: "A mark standing inside a spelt name is no mark of the statement's own.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Every phase runs with no statement in the corpus refused.",
     },
   ],
 } as const satisfies Check
