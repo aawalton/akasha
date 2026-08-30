@@ -1,6 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, readFileSync, rmSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  importsStanding,
+  standingTakenFrom,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { ADMITS_CODE, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
 import { write } from "../command/write/write.command.code.ts"
@@ -12,7 +16,6 @@ import {
   BROKEN,
   blocked,
   bodyIn,
-  CHECKS_AT,
   checking,
   git,
   givenIn,
@@ -109,7 +112,7 @@ test("a dry run gates and writes nothing at all, index entry included", () => {
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
-  expect(existsSync(join(root, ".git/data/index/import"))).toBe(false)
+  expect(importsStanding(root)).toBe(false)
 })
 
 test("a dry run over a change the checks refuse reports the refusal", () => {
@@ -182,7 +185,7 @@ test("a landing names what judged it, and says so when nothing did", () => {
 
 test("a landing whose phase runs no check says the paths landed unjudged", () => {
   const root = repoWith()
-  rmSync(join(root, CHECKS_AT, "admits.jsonl"))
+  standingTakenFrom(root, "check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
   const from = bodyIn(root)
   const said = write(

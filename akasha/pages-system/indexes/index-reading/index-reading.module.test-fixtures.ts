@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
@@ -88,6 +88,14 @@ export function importFiled(root: string, path: string, lines: readonly unknown[
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   standing(root, join(indexIdentity.indexName, pageTypeSlug, SLUG))
+}
+
+export function standingTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
+  taking(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+}
+
+export function importsStanding(root: string): boolean {
+  return existsSync(under(root, indexImport.indexName))
 }
 
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {
