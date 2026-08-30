@@ -33,6 +33,7 @@ export const seat = {
     "text-property/person-slug",
     "text-property/registration-account",
     "text-property/start-mode",
+    "text-property/transcript-path",
   ],
   properties: [
     { pagePropertySlug: "persona-slug", required: true, many: false },
@@ -48,6 +49,7 @@ export const seat = {
       many: false,
       uncommitted: true,
     },
+    { pagePropertySlug: "transcript-path", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
