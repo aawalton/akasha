@@ -11,12 +11,15 @@ export const dataPlace = {
     {
       invariantKind: "departure",
       statement:
-        "The place is said here alone. What stands under it is named by whatever owns that, so a subtree is spelled once and the place it stands in is spelled nowhere else.",
+        "The place is said here alone. What stands under it is named by whatever owns that.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The place is answered both under a root and on its own, because a guard settles it against a root and a refusal names it as text.",
+      statement: "The place is answered both under a root and on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard settles the place against a root, and a refusal names it as text.",
     },
     {
       invariantKind: "absence",

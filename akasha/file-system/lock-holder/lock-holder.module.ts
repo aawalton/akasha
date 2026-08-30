@@ -15,8 +15,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A holder is weighed by the moment its process started as well as its number, so a pid used again is no holder.",
+      statement: "A holder is weighed by the moment its process started as well as its number.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +24,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An unknown moment on either side leaves the holder weighed by its number alone, so a process still running is never read as gone.",
+      statement: "An unknown moment on either side leaves the holder weighed by its number alone.",
     },
     {
       invariantKind: "departure",
