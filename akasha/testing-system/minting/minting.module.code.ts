@@ -40,7 +40,6 @@ export function pageFor(
   slug: "${slug}",
   definition: "${definition}",
   code: "ts",
-  needs: "path",
   runsOnPatch: ${phase === "patch"},
   runsOnWorktree: ${phase === "worktree"},
   runsOnDeploy: ${phase === "deploy"},
