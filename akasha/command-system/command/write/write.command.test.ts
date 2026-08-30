@@ -47,7 +47,7 @@ function repoWith(
 
 let minted = 0
 
-function checking(root: string, slug: string, body: string): void {
+function checking(root: string, slug: string, body: string): undefined {
   minted = minted + 1
   const id = `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
   minting(root, slug, id, MINTED, body)

@@ -70,7 +70,7 @@ function repoAt(): string {
 function everyFileUnder(at: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   if (!existsSync(at)) return found
-  const walk = (here: string, said: string): void => {
+  const walk = (here: string, said: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const named = `${said}${one.name}`
       if (one.isDirectory()) walk(join(here, one.name), `${named}/`)
@@ -87,7 +87,7 @@ function wantedFor(root: string): ReadonlyMap<string, string> {
   return everyFileUnder(held)
 }
 
-function seeded(root: string): void {
+function seeded(root: string): undefined {
   rebuiltFrom(join(root, "akasha"), indexIn(root), root)
 }
 

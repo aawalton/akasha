@@ -45,7 +45,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
-function checking(root: string, slug: string, body: string): void {
+function checking(root: string, slug: string, body: string): undefined {
   minting(root, slug, MINTED_ID, MINTED, body)
 }
 
