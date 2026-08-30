@@ -12,13 +12,16 @@ export const akashaRequiredReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only a read the akasha system runs counts as read, and a body counts as read by whoever landed it.",
+      statement: "Only a read the akasha system runs counts as read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body counts as read by whoever landed it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A read stops counting when what was read changes, unless a mechanical change carried it forward.",
+        "A read stops counting when what was read changes unless a mechanical change carried it forward.",
     },
     {
       invariantKind: "departure",
