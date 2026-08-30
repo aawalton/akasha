@@ -11,12 +11,16 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is read as its last three dotted parts. A stem carrying a dot stays the stem, and the tail and what the file holds follow it.",
+        "A name is read as its last three dotted parts. A stem carrying a dot stays the stem.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tail and what the file holds follow the stem.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Whether a tail names a page type or a file property is answered against the sets handed in, never from the name alone.",
+        "Whether a tail names a page type or a file property is answered against the sets handed in rather than from the name alone.",
     },
     {
       invariantKind: "departure",
@@ -44,12 +48,16 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "The tail `uncommitted` is reserved. A file carrying it holds the uncommitted values of the page it stands beside, and is never a property's file nor a page.",
+        "The tail `uncommitted` is reserved. A file carrying it holds the uncommitted values of the page it stands beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carrying the tail `uncommitted` is never a property's file nor a page.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one, whether or not that page stands.",
+        "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one whether or not that page stands.",
     },
   ],
 } as const satisfies Module
