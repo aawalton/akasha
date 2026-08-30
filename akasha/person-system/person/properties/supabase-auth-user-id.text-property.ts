@@ -13,12 +13,15 @@ export const supabaseAuthUserId = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "This names a row Supabase auth holds, so it reaches out of the pages rather than across them.",
+      statement: "This names a row Supabase auth holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A person signing in nowhere states none of this, so most people carry none.",
+      statement: "A person signing in nowhere states none of this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Most people carry none.",
     },
   ],
 } as const satisfies TextProperty
