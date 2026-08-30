@@ -18,16 +18,16 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "The credential that guards a readout route is in akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
     },
     {
       invariantKind: "gap",
       statement:
         "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A readout route opens for the device secret Alan's phone presents.",
     },
     {
       invariantKind: "gap",
@@ -60,12 +60,12 @@ export const amyJennyUnreviewedWidget = {
   ],
   notes: [
     "Jenny's tile shows Alan's Monarch reading relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
-    "Alan's path is a prefix of Jenny's, so his tile costs nothing beyond what hers already needs and is reached first.",
+    "Jenny's tile reaches Alan's route on a relay secret and his own reaches it on a device secret, and only the relay secret opens anything today, so her tile is the nearer of the two to working.",
     "The readout page type, the scale and what the tile counts are all in akasha, so the stack starts at the readout itself.",
     "The reading is taken on a workstation because a pod cannot write the page store, and the endpoint that would let one is work of its own rather than this initiative's.",
     "What a readout shows when nothing is left is carried by the readout, so it arrived with the page type rather than as an intent of its own.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
-    "The credential guarding a readout route waits on work being built elsewhere, so it sits beside the reading's taker rather than early.",
+    "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`, so the device secret half of the guard stayed out of akasha rather than being carried in broken.",
     "The route cannot move before the credential, the readers it uses and the reading itself, and its generated `+types` import cannot move at all until the web app does.",
     "Every tool that builds a widget copies one flat directory of shared Swift, and akasha gives each component a folder of its own, so building an app from akasha changes how the copy is made rather than where it points.",
     "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
