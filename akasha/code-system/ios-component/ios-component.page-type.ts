@@ -1,9 +1,9 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { Code } from "../module/properties/code.file-property.ts"
+import type { Swift } from "./properties/swift.file-property.ts"
 
 export type IosComponent = Domain & {
-  code: Code
+  swift: Swift
 }
 
 export const iosComponent = {
@@ -12,13 +12,13 @@ export const iosComponent = {
   slug: "ios-component",
   definition: "code an iOS app is built from",
   pluralSlug: "ios-components",
-  partSlugs: ["file-property/code"],
+  partSlugs: ["file-property/swift"],
   extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "code", required: true, many: false }],
+  properties: [{ pagePropertySlug: "swift", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An iOS component's code is Swift, held in a file beside the page.",
+      statement: "An iOS component's Swift is held in a file beside the page.",
     },
     {
       invariantKind: "departure",
