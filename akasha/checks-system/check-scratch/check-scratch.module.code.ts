@@ -1,12 +1,15 @@
 import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { indexIdentity } from "../../pages-system/indexes/index/index-identity/index-identity.index.ts"
+import { indexPath } from "../../pages-system/indexes/index/index-path/index-path.index.ts"
 import { indexRelation } from "../../pages-system/indexes/index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../../pages-system/indexes/index/index-schema/index-schema.index.ts"
 import { indexAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Leaving } from "../judging/judging.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
+
+const PATH = indexPath.indexName
 
 const RELATION = indexRelation.indexName
 
@@ -76,6 +79,10 @@ export function stands(root: string, kind: string, slug: string, id: string): un
 
 export function identified(root: string, id: string, path: string): undefined {
   filed(root, indexAt(IDENTITY, PAGE, ID), id, { path, id })
+}
+
+export function claiming(root: string, path: string, page: string, id: string): undefined {
+  filed(root, indexAt(PATH, dirname(path)), basename(path), { path: page, id })
 }
 
 export function edging(

@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
-
-const INDEX = join(".git", "data", "index")
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
 
@@ -15,45 +12,16 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): undefined {
-  const full = join(root, INDEX, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, `${line}\n`, "utf8")
-}
-
-function property(
-  root: string,
-  slug: string,
-  pageTypeSlug: string,
-  unique: string | null
-): undefined {
-  filed(
-    root,
-    join("schema", "page-property", "slug", `${slug}.jsonl`),
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, unique })
-  )
-}
-
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = scratch.rootFor("akasha-claimed-")
   for (const one of KINDS) {
-    filed(
-      root,
-      join("identity", "page-type", "slug", `${one}.jsonl`),
-      JSON.stringify({
-        path: `akasha/t/${one}.page-type.ts`,
-        id: `${ID.slice(0, -1)}${one.length}`,
-      })
-    )
+    stands(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
   }
-  property(root, "id", "text-property", "always")
-  for (const one of fileProperties) property(root, one, "file-property", null)
-  property(root, "definition", "text-property", null)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  for (const one of fileProperties)
+    declaring(root, one, { pageTypeSlug: "file-property", unique: null })
+  declaring(root, "definition", { pageTypeSlug: "text-property", unique: null })
   return root
-}
-
-function claiming(root: string, path: string, page: string): undefined {
-  filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id: ID }))
 }
 
 function pageBody(slug: string, stated: string, pageTypeSlug = "module"): Uint8Array {
@@ -77,7 +45,7 @@ function arriving(
 
 test("a path the index says a page claims is let through", () => {
   const root = rooted()
-  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts")
+  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
   expect(fileHasItsPage(arriving(root, ["akasha/a/held.module.ts"]))).toEqual([])
 })
 
@@ -90,7 +58,7 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
 
 test("a file beside a page that no page property names is refused", () => {
   const root = rooted()
-  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts")
+  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
   const said = fileHasItsPage(
     arriving(root, ["akasha/a/held.module.ts", "akasha/a/held.module.part-two.ts"], {
       "akasha/a/held.module.ts": pageBody("held", ""),
@@ -151,8 +119,8 @@ test("a file property the change itself introduces names its file", () => {
 
 test("a claim the change withdraws is no claim, and the file it named is refused", () => {
   const root = rooted()
-  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts")
-  claiming(root, "akasha/a/held.module.code.ts", "akasha/a/held.module.ts")
+  claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
+  claiming(root, "akasha/a/held.module.code.ts", "akasha/a/held.module.ts", ID)
   const kept = new TextEncoder().encode("held\n")
   const was: Record<string, Uint8Array> = {
     "akasha/a/held.module.ts": pageBody("held", ', code: "ts"'),
@@ -210,7 +178,7 @@ test("a page body that will not load claims nothing beyond what the index alread
 
 test("the unclaimed pass reads the index under the root it was given, and no other", () => {
   const named = rooted()
-  claiming(named, "akasha/a/held.module.ts", "akasha/a/held.module.ts")
+  claiming(named, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
   const bare = rooted()
   expect(unclaimedIn(arriving(named, ["akasha/a/held.module.ts"]))).toEqual([])
   expect(unclaimedIn(arriving(bare, ["akasha/a/held.module.ts"]))).toEqual([

@@ -1,15 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,
   statedBy,
 } from "./page-property-has-its-file.check.code.ts"
-
-const INDEX = join(".git", "data", "index")
 
 const ID = "01a04d86-434f-7119-8000-000000000001"
 
@@ -23,50 +20,21 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): undefined {
-  const full = join(root, INDEX, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, `${line}\n`, "utf8")
-}
-
-function property(
-  root: string,
-  slug: string,
-  pageTypeSlug: string,
-  unique: string | null
-): undefined {
-  filed(
-    root,
-    join("schema", "page-property", "slug", `${slug}.jsonl`),
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, unique })
-  )
-}
-
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = scratch.rootFor("akasha-property-filed-")
   for (const one of ["module", "check", "domain", "page-type"]) {
-    filed(
-      root,
-      join("identity", "page-type", "slug", `${one}.jsonl`),
-      JSON.stringify({
-        path: `akasha/t/${one}.page-type.ts`,
-        id: `${ID.slice(0, -1)}${one.length}`,
-      })
-    )
+    stands(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
   }
-  property(root, "id", "text-property", "always")
-  property(root, "slug", "text-property", "page-type")
-  for (const one of fileProperties) property(root, one, "file-property", null)
-  property(root, "definition", "text-property", null)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
+  for (const one of fileProperties)
+    declaring(root, one, { pageTypeSlug: "file-property", unique: null })
+  declaring(root, "definition", { pageTypeSlug: "text-property", unique: null })
   return root
 }
 
-function claiming(root: string, path: string, page: string): undefined {
-  filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id: ID }))
-}
-
 function landed(root: string): undefined {
-  for (const one of [PAGE, CODE]) claiming(root, one, PAGE)
+  for (const one of [PAGE, CODE]) claiming(root, one, PAGE, ID)
 }
 
 function body(

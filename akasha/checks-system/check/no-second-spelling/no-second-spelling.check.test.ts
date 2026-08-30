@@ -1,8 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import type { Owner } from "./no-second-spelling.check.code.ts"
 import { noSecondSpelling, ownedIn, reasonsIn } from "./no-second-spelling.check.code.ts"
@@ -53,8 +52,6 @@ test("a rule spelled inline is not seen, so this ratchets and proves no absence"
   expect(reasonsIn("one.ts", inline, owning(EXPORTED_AS, "exportedAs", "two.ts"))).toEqual([])
 })
 
-const INDEX = join(".git", "data", "index")
-
 const ID = "01a04d86-434f-75ff-8000-000000000001"
 
 const KINDS = ["module", "page-type", "text-property", "file-property"]
@@ -68,40 +65,14 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): undefined {
-  const full = join(root, INDEX, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, `${line}\n`, "utf8")
-}
-
-function property(
-  root: string,
-  slug: string,
-  pageTypeSlug: string,
-  unique: string | null
-): undefined {
-  filed(
-    root,
-    join("schema", "page-property", "slug", `${slug}.jsonl`),
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, unique })
-  )
-}
-
 function rooted(): string {
   const root = scratch.rootFor("akasha-second-spelling-")
   for (const one of KINDS) {
-    filed(
-      root,
-      join("identity", "page-type", "slug", `${one}.jsonl`),
-      JSON.stringify({
-        path: `akasha/t/${one}.page-type.ts`,
-        id: `${ID.slice(0, -1)}${one.length}`,
-      })
-    )
+    stands(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
   }
-  property(root, "id", "text-property", "always")
-  property(root, "slug", "text-property", "within-page-type")
-  property(root, "code", "file-property", null)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "within-page-type" })
+  declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
   return root
 }
 
