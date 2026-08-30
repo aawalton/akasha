@@ -19,14 +19,17 @@ import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 
 export type Beside = Record<string, unknown>
 
-type Kind = "text" | "number" | "instant"
+export type Kind = "text" | "number" | "instant"
 
-type Carried = { readonly at: readonly string[]; readonly kind: Kind }
+export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
 
 // What akasha declares of a seat, and where each old key stands there. A key absent from this
 // table reaches the old store alone: nothing checks an uncommitted value, so one written to
 // akasha under a name it does not declare would land and never be caught.
-const CARRIED: Readonly<Record<string, Carried>> = {
+//
+// The reader in `seat-akasha-read.ts` walks this same table the other way, so where a value
+// stands in akasha is stated once and the write and the read cannot drift apart.
+export const CARRIED: Readonly<Record<string, Carried>> = {
   "claude-code-session-uuid": { at: ["claudeCodeSessionUuid"], kind: "text" },
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
