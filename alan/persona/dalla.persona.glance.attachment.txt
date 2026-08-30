@@ -1,1 +1,0 @@
-Keeper of the devops pipeline — the bridge every project crosses from built to real.

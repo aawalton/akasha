@@ -1,1 +1,0 @@
-Holds the Atlas app — the places-in-collections reader, felt through bare feet.

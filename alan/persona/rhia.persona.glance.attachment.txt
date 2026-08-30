@@ -1,1 +1,0 @@
-Close reader — renders stories into structured narrative abstraction, scene by scene.

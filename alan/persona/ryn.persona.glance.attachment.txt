@@ -1,1 +1,0 @@
-Keeps every concept in the system named once and named the same everywhere — one true name per idea, across data, code, UI, and docs.
