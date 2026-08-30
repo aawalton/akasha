@@ -13,6 +13,8 @@ import {
 
 const TEXT = "text-property"
 
+const QUALIFIED = `${TEXT}/foo`
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -149,6 +151,26 @@ test("a part is matched by the slug it addresses, whatever page type it names", 
     landing(root, { [pathFor("held")]: bytesOf("held", null, ["mine"], ["number-property/mine"]) })
   )
   expect(said).toEqual([])
+})
+
+test("a part is matched by the slug it addresses, whatever page type the declaration names", () => {
+  const root = rooted()
+  standing(root, "held", null, [QUALIFIED], [QUALIFIED])
+  const said = introducedPropertyIsAPart(
+    landing(root, { [pathFor("held")]: bytesOf("held", null, [QUALIFIED], [QUALIFIED]) })
+  )
+  expect(said).toEqual([])
+})
+
+test("a page type declaring a property by page type and parting nothing is still refused", () => {
+  const root = rooted()
+  standing(root, "held", null, [QUALIFIED], [])
+  const said = introducedPropertyIsAPart(
+    landing(root, { [pathFor("held")]: bytesOf("held", null, [QUALIFIED], []) })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain(`\`${QUALIFIED}\``)
+  expect(said[0]?.path).toBe(pathFor("held"))
 })
 
 test("a change carrying no page type is passed over", () => {
