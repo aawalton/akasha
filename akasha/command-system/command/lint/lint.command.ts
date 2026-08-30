@@ -26,8 +26,7 @@ export const lint = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run only reads. Nothing is fixed, formatted or written, so the tree stands after it as it stood before it.",
+      statement: "A run only reads. Nothing is fixed, formatted or written.",
     },
     {
       invariantKind: "departure",
