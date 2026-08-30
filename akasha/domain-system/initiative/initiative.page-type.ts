@@ -37,17 +37,17 @@ export const initiative = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An initiative stands under another initiative, or under none.",
+      statement: "An initiative stands under another initiative or under none.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An initiative takes each intent off the domain that held it, and holds it as its own.",
+        "An initiative takes each intent off the domain that held it and holds it as its own.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An intent an initiative meets returns to the domain it came from as a design or condition invariant, or is deleted.",
+        "An intent an initiative meets returns to the domain it came from as a design or condition invariant or is deleted.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,7 @@ export const initiative = {
     },
     {
       invariantKind: "upkeep",
-      statement: "An intent is written on a domain or on an initiative, never both.",
+      statement: "An intent is written on a domain or on an initiative but never both.",
     },
     {
       invariantKind: "upkeep",
