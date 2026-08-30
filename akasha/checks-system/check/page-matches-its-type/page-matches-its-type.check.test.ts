@@ -5,7 +5,7 @@ import { indexIn } from "../../../pages-system/indexes/index-reading/index-readi
 import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,

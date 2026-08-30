@@ -10,7 +10,7 @@ import type { Reading } from "../../../pages-system/indexes/index-surface/index-
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
 

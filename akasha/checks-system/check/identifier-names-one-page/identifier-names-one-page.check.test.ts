@@ -10,7 +10,7 @@ import {
   NO_BYTES,
   pathFor,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const TEXT = "text-property"

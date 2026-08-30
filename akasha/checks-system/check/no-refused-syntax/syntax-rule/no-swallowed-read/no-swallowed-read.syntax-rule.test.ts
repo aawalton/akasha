@@ -81,8 +81,7 @@ test("a read reached through a function beside it is refused", () => {
 })
 
 test("`Bun.file` is a read", () => {
-  const body =
-    "function one(l: Change) { try { return Bun.file(l.root) } catch { return null } }\n"
+  const body = "function one(l: Change) { try { return Bun.file(l.root) } catch { return null } }\n"
   expect(walking(body)).toHaveLength(1)
 })
 

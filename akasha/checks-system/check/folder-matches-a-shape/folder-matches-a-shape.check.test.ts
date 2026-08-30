@@ -8,7 +8,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import {
   ancestorsOf,
   edgesOf,

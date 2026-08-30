@@ -12,7 +12,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Judging, Change } from "../judging/judging.module.code.ts"
+import type { Change, Judged, Judging } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string

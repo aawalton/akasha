@@ -13,7 +13,7 @@ import {
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import { domainIsNamedByAParent, domainNamedIn } from "./domain-is-named-by-a-parent.check.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"

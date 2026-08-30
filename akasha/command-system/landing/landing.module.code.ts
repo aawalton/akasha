@@ -1,6 +1,6 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Judged, Judging, Change } from "../../checks-system/judging/judging.module.code.ts"
+import type { Change, Judged, Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"

@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } fro
 import { dirname, join } from "node:path"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { gone, change, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import { change, gone, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { carriedIn, judgedOf, lintClean, outsideOf, reasonOf } from "./lint-clean.check.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)

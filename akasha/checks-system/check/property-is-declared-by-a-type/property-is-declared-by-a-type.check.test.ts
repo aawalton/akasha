@@ -13,7 +13,7 @@ import {
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import {
   propertyIsDeclaredByAType,
   propertyNamedIn,

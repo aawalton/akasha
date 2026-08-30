@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
@@ -160,9 +160,9 @@ test("a property whose shape is not a file names no file, so a path built from i
 
 test("a path the change takes away is passed over", () => {
   const root = rooted()
-  expect(judged({ root, changed: ["akasha/a/stray.ts"], after: () => null, before: () => null })).toEqual(
-    []
-  )
+  expect(
+    judged({ root, changed: ["akasha/a/stray.ts"], after: () => null, before: () => null })
+  ).toEqual([])
 })
 
 test("a path outside the akasha folder is passed over", () => {

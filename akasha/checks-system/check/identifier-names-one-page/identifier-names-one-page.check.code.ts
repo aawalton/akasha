@@ -5,7 +5,7 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged, Change } from "../../judging/judging.module.code.ts"
+import type { Change, Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
 export type Stated = {

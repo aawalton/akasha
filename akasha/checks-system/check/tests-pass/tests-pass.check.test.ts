@@ -9,7 +9,7 @@ import {
   pathFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { gone, change, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import { change, gone, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'

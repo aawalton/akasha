@@ -9,7 +9,7 @@ import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module
 import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { baseOf, landing, changeOf } from "./landing.module.code.ts"
+import { baseOf, changeOf, landing } from "./landing.module.code.ts"
 import {
   A,
   ADMITS,
