@@ -66,11 +66,15 @@ export function introducedIn(value: Value | null, read: Reading): readonly strin
   return declaresIn(value).filter((one) => inherited === null || !inherited.has(one))
 }
 
+export function addressedIn(said: string): string {
+  return slugIn(said) ?? said
+}
+
 export function partedIn(value: Value | null): ReadonlySet<string> {
   const held = value === null ? null : value[PARTS]
   const found = new Set<string>()
   if (held === null || held === undefined) return found
-  for (const said of namesIn(held)) found.add(said.slice(said.indexOf("/") + 1))
+  for (const said of namesIn(held)) found.add(addressedIn(said))
   return found
 }
 
@@ -100,7 +104,7 @@ export function introducersIn(
   const pairs = standing.flatMap((one) =>
     introducedIn(one.value, read).map((propertySlug) => ({ propertySlug, slug: one.slug }))
   )
-  const grouped = Map.groupBy(pairs, (one) => one.propertySlug)
+  const grouped = Map.groupBy(pairs, (one) => addressedIn(one.propertySlug))
   return new Map(
     [...grouped].map(([at, held]): readonly [string, readonly string[]] => [
       at,
@@ -128,8 +132,9 @@ export function introducedPropertyIsAPart(leaving: Leaving): readonly Judged[] {
   for (const one of standing) {
     const parts = partedIn(one.value)
     for (const propertySlug of introducedIn(one.value, read)) {
-      if (parts.has(propertySlug)) continue
-      if ((introducers.get(propertySlug) ?? []).length !== 1) continue
+      const addressed = addressedIn(propertySlug)
+      if (parts.has(addressed)) continue
+      if ((introducers.get(addressed) ?? []).length !== 1) continue
       said.push({ path: one.path, reason: reasonFor(propertySlug, one.slug) })
     }
   }
