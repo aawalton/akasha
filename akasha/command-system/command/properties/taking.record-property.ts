@@ -23,7 +23,7 @@ export const taking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The entries stand in the order they are shown, because that order is read.",
+      statement: "The entries stand in the order they are shown, and that order is read.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const taking = {
     {
       invariantKind: "departure",
       statement:
-        "What a command takes is stated on its page, so its code states only how what was said is worked out.",
+        "What a command takes is stated on its page, and its code states only how what was said is worked out.",
     },
   ],
 } as const satisfies RecordProperty

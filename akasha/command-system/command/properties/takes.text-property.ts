@@ -17,7 +17,7 @@ export const takes = {
     },
     {
       invariantKind: "departure",
-      statement: "It stands on one line beside what is said, because it is read alongside it.",
+      statement: "It stands on one line beside what is said.",
     },
   ],
 } as const satisfies TextProperty
