@@ -24,7 +24,7 @@ export const ryn = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The children of technology are named, defined and ordered.",
+      statement: "The children of technology are named and defined and ordered.",
     },
   ],
 } as const satisfies Persona

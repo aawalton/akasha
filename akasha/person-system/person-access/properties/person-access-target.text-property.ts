@@ -14,7 +14,7 @@ export const personAccessTarget = {
     {
       invariantKind: "departure",
       statement:
-        "A target of `all` is every target of that kind, and is the only pattern an access takes.",
+        "A target of `all` is every target of that kind and is the only pattern an access takes.",
     },
   ],
 } as const satisfies TextProperty

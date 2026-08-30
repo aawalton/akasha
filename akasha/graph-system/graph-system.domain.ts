@@ -27,16 +27,15 @@ export const graphSystem = {
     {
       invariantKind: "departure",
       statement:
-        "What an answer rests on is worked out from the code that computes it, never recorded as it runs.",
+        "What an answer rests on is worked out from the code that computes it rather than recorded as it runs.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the graph derives is a cache and never an index: it can be thrown away, and only speed is lost.",
+      statement: "What the graph derives is a cache and never an index: it can be thrown away.",
     },
     {
       invariantKind: "departure",
-      statement: "A kept answer learns it is stale by being asked, never by being told.",
+      statement: "A kept answer learns it is stale by being asked rather than by being told.",
     },
     {
       invariantKind: "departure",

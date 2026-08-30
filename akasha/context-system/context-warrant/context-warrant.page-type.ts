@@ -44,13 +44,15 @@ export const contextWarrant = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A warrant states whether it runs on read, whether it runs on write, and whether it is transitive.",
+      statement: "A warrant states its reach on read and on write and whether it is transitive.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A warrant running on neither read nor write has landed and holds nobody, which is how a warrant states its rule before it binds anyone.",
+      statement: "A warrant running on neither read nor write has landed and holds nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This is how a warrant states its rule before it binds anyone.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +64,11 @@ export const contextWarrant = {
     },
     {
       invariantKind: "gap",
-      statement: "Every warrant that runs is a page here, and no file names one by hand.",
+      statement: "Every warrant that runs is a page here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No file names one by hand.",
     },
   ],
   directives: [

@@ -12,11 +12,11 @@ export const graphAsking = {
     {
       invariantKind: "departure",
       statement:
-        "An edge going out is read from the body, and an edge coming in is read from the index.",
+        "An edge going out is read from the body and an edge coming in is read from the index.",
     },
     {
       invariantKind: "departure",
-      statement: "A question is answered by reading, never by walking.",
+      statement: "A question is answered by reading rather than by walking.",
     },
   ],
 } as const satisfies Module

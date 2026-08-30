@@ -21,8 +21,11 @@ export const alanHarness = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Everything in Alan's harness changes without a deploy, and a deploy to it only adds, removes or replaces what is there to change.",
+      statement: "Everything in Alan's harness changes without a deploy.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A deploy to it only adds or removes or replaces what is there to change.",
     },
   ],
   directives: [

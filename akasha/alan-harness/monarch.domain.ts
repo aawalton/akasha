@@ -11,7 +11,7 @@ export const monarch = {
     {
       invariantKind: "departure",
       statement:
-        "The categorization ring reads Monarch directly, on Alan's own signed-in browser cookie.",
+        "The categorization ring reads Monarch directly on Alan's own signed-in browser cookie.",
     },
     {
       invariantKind: "constraint",

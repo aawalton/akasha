@@ -9,7 +9,7 @@ export const contextSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A warrant stands over the seat changing a file, never over one reading it.",
+      statement: "A warrant stands over the seat changing a file rather than over one reading it.",
     },
     {
       invariantKind: "departure",
@@ -21,8 +21,11 @@ export const contextSystem = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "What a change owes is worked out from the warrant pages, and no file names them by hand.",
+      statement: "What a change owes is worked out from the warrant pages.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No file names them by hand.",
     },
   ],
 } as const satisfies Domain

@@ -12,11 +12,12 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "Every path a change names is asked what it warrants, and passes by answering, never by not being asked.",
+        "Every path a change names is asked what it warrants and passes by answering rather than by not being asked.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading answers for a warrant by object id alone, never by when it was read.",
+      statement:
+        "A reading answers for a warrant by object id alone rather than by when it was read.",
     },
     {
       invariantKind: "departure",
@@ -28,12 +29,12 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the read that would answer the warrant, ready to run.",
+      statement: "A refusal names the read that would answer the warrant ready to run.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A call charged to no agent is refused whole, and said to be impossible rather than merely wrong.",
+        "A call charged to no agent is refused whole and said to be impossible rather than merely wrong.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here writes, commits or records.",
+      statement: "Nothing here writes or commits or records.",
     },
     {
       invariantKind: "departure",
@@ -51,16 +52,16 @@ export const warranting = {
     {
       invariantKind: "departure",
       statement:
-        "A warrant is what the change owes, never what a warranted file would owe were it changed.",
+        "A warrant is what the change owes rather than what a warranted file would owe were it changed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A read is handed the paths it names, and after each of them what the warrants running on read name for it.",
+        "A read is handed the paths it names and after each of them what the warrants running on read name for it.",
     },
     {
       invariantKind: "departure",
-      statement: "A path stands once in what a read is handed, in the place it first stood.",
+      statement: "Within what a read is handed a path stands once in the place it first stood.",
     },
     {
       invariantKind: "departure",

@@ -13,15 +13,23 @@ export const warrantScratch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a warrant answered is read for its paths alone, and the warrant that answered is " +
-        "named at the call.",
+      statement: "What a warrant answered is read for its paths alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The warrant that answered is named at the call.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No root is made or swept here, and no body is put anywhere but the index. A test says " +
-        "where its scratch stands, and scratching stands the bodies in it.",
+      statement: "No root is made or swept here and no body is put anywhere but the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A test says where its scratch stands.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Scratching stands the bodies in it.",
     },
     {
       invariantKind: "absence",

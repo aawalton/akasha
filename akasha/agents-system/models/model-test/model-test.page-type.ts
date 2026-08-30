@@ -31,7 +31,7 @@ export const modelTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The text judged is appended to the prompt, never filled into a hole in it.",
+      statement: "The text judged is appended to the prompt rather than filled into a hole in it.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const modelTest = {
     {
       invariantKind: "departure",
       statement:
-        "A run that could not reach a model is a failure of its own, never a case that passed.",
+        "A run that could not reach a model is a failure of its own rather than a case that passed.",
     },
   ],
 } as const satisfies PageType

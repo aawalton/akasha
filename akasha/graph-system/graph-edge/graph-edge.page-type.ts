@@ -29,11 +29,19 @@ export const graphEdge = {
     {
       invariantKind: "departure",
       statement:
-        "An edge kind names the index that answers it, the graph derives it here, or both, and one doing both says on each edge which it was.",
+        "An edge kind names the index that answers it or the graph derives it here or both.",
     },
     {
       invariantKind: "departure",
-      statement: "An edge kind names the attributes it carries, and an attribute names no edge.",
+      statement: "One doing both says on each edge which it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edge kind names the attributes it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attribute names no edge.",
     },
   ],
 } as const satisfies PageType

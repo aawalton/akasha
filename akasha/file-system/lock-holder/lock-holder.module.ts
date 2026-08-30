@@ -11,7 +11,11 @@ export const lockHolder = {
     {
       invariantKind: "departure",
       statement:
-        "A mark names the process that wrote it and the moment that process started, in that order, parted by a space.",
+        "A mark names the process that wrote it first and the moment that process started second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two are parted by a space.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +23,11 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The moment a process started is read from `/proc`, and a pid nothing is running under answers unknown rather than failing.",
+      statement: "The moment a process started is read from `/proc`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pid nothing is running under answers unknown rather than failing.",
     },
     {
       invariantKind: "departure",
@@ -29,12 +36,16 @@ export const lockHolder = {
     {
       invariantKind: "departure",
       statement:
-        "A mark that cannot be read, stands empty, or names no number is answered as no holder, which is an answer rather than a failure to read one.",
+        "A mark that cannot be read or stands empty or names no number is answered as no holder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No holder is an answer rather than a failure to read one.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here takes a lock or releases one, and nothing here knows where a lock stands. What is read is a pid and a mark.",
+        "Nothing here takes a lock or releases one and nothing here knows where a lock stands. What is read is a pid and a mark.",
     },
   ],
 } as const satisfies Module

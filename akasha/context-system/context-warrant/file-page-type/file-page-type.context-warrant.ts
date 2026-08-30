@@ -13,7 +13,7 @@ export const filePageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page answers to its type, and to every type that one extends.",
+      statement: "A page answers to its type and to every type that one extends.",
     },
     {
       invariantKind: "departure",
@@ -22,12 +22,15 @@ export const filePageType = {
     {
       invariantKind: "departure",
       statement:
-        "Only a page answers to a type. A file standing beside a page by a file property is no page, and warrants no type of its own.",
+        "Only a page answers to a type. A file standing beside a page by a file property is no page and warrants no type of its own.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A type whose page cannot be found is no warrant, and the chain above it is walked all the same.",
+      statement: "A type whose page cannot be found is no warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The chain above it is walked all the same.",
     },
     {
       invariantKind: "departure",

@@ -17,11 +17,11 @@ export const monarchUnreviewedTransactions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One query answers the unreviewed, total and intake counts together.",
+      statement: "One query answers the unreviewed and total and intake counts together.",
     },
     {
       invariantKind: "departure",
-      statement: "Unreviewed and total are counted over a year, and intake over a month.",
+      statement: "Unreviewed and total are counted over a year and intake over a month.",
     },
     {
       invariantKind: "departure",
@@ -29,8 +29,11 @@ export const monarchUnreviewedTransactions = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The whole Cookie header is taken in, and the X-CSRFToken header is split out of its `csrftoken=` value.",
+      statement: "The whole Cookie header is taken in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The X-CSRFToken header is split out of its `csrftoken=` value.",
     },
     {
       invariantKind: "departure",

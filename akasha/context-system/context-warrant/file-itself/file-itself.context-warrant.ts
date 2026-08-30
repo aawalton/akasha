@@ -25,8 +25,7 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The body warranted is the body standing on disk, which is the body a read records.",
+      statement: "The body warranted is the body standing on disk and the body a read records.",
     },
   ],
 } as const satisfies ContextWarrant

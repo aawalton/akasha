@@ -43,11 +43,11 @@ export const readoutScale = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A scale is named by the readings drawn against it, and belongs to none of them.",
+      statement: "A scale is named by the readings drawn against it and belongs to none of them.",
     },
     {
       invariantKind: "departure",
-      statement: "A scale's rungs run black, red, orange, yellow, green, blue.",
+      statement: "A scale's rungs run black and red and orange and yellow and green and blue.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const readoutScale = {
     },
     {
       invariantKind: "departure",
-      statement: "Rising numbers make a scale ascend, falling ones descend.",
+      statement: "Rising numbers make a scale ascend and falling ones descend.",
     },
     {
       invariantKind: "departure",

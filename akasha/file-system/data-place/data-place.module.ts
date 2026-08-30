@@ -19,17 +19,35 @@ export const dataPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A guard settles the place against a root, and a refusal names it as text.",
+      statement: "A guard settles the place against a root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names it as text.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here reads or writes. Where the place stands is an answer, and whether anything stands there is asked of the disk by whoever asks.",
+      statement: "Nothing here reads or writes.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "What the place holds is not said here. The index, the read record and a test's seeded warrants each name their own, and none of them is known here.",
+      statement: "Where the place stands is an answer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Whether anything stands there is asked of the disk by whoever asks.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What the place holds is not said here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The index and the read record and a test's seeded warrants each name their own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "None of them is known here.",
     },
   ],
 } as const satisfies Module

@@ -10,7 +10,7 @@ export const personaCraft = {
     {
       invariantKind: "departure",
       statement:
-        "Personas are written so that no two can be mistaken for each other, rather than written to a common style.",
+        "Personas are written so that no two can be mistaken for each other rather than written to a common style.",
     },
     {
       invariantKind: "departure",

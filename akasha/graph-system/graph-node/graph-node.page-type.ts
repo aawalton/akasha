@@ -14,8 +14,11 @@ export const graphNode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A node is a path, and a page is a node with a page type rather than a node of its own.",
+      statement: "A node is a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is a node with a page type rather than a node of its own.",
     },
   ],
 } as const satisfies PageType

@@ -111,7 +111,11 @@ export const persona = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A persona stands alone in a folder, her portrait being a file beside her page.",
+      statement: "A persona stands alone in a folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Her portrait is a file beside her page.",
     },
     {
       invariantKind: "departure",

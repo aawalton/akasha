@@ -58,7 +58,7 @@ export const readout = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A readout takes its own reading, the page carrying the code that takes it.",
+      statement: "A readout takes its own reading on the page carrying the code that takes it.",
     },
     {
       invariantKind: "departure",
@@ -66,11 +66,11 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout carries its label and unit, and nothing about how they are drawn.",
+      statement: "A readout carries its label and unit and nothing about how they are drawn.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout carries one place, whatever groups draw it.",
+      statement: "A readout carries one place whatever groups draw it.",
     },
     {
       invariantKind: "departure",
