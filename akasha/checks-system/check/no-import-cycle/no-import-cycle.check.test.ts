@@ -13,7 +13,7 @@ function leaving(bodies: Readonly<Record<string, string>>): Leaving {
     const said = bodies[path]
     return said === undefined ? null : encoder.encode(said)
   }
-  return { root: ROOT, changed: Object.keys(bodies).sort(), at, was: at }
+  return { root: ROOT, changed: Object.keys(bodies).toSorted(), at, was: at }
 }
 
 function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {
