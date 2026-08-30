@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, statSync } from "node:fs"
+import { existsSync, mkdirSync, renameSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import { indexPath } from "../../../pages-system/indexes/index/index-path/index-path.index.ts"
@@ -9,6 +9,7 @@ import {
   indexAt,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { readingAt } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Asked } from "../../asking/asking.module.code.ts"
@@ -133,17 +134,16 @@ export function namingOf(root: string, path: string): Naming {
   }
   const held = standing[0]
   if (held === undefined) return { names: [] }
-  const dir = join(root, indexAt(indexRelation.indexName, "page", "id", held.id))
-  if (!existsSync(dir)) return { names: [] }
+  const dir = indexAt(indexRelation.indexName, "page", "id", held.id)
+  const reading = readingAt(root)
   const found = new Set<string>()
-  for (const property of readdirSync(dir)) {
-    const at = join(dir, property)
-    if (!statSync(at).isDirectory()) continue
-    for (const name of readdirSync(at)) {
-      for (const line of readFileSync(join(at, name), "utf8").split("\n")) {
-        if (line === "") continue
+  for (const property of reading.listing(dir)) {
+    if (!property.directory) continue
+    const at = `${dir}/${property.name}`
+    for (const one of reading.listing(at)) {
+      for (const line of reading.lines(`${at}/${one.name}`)) {
         const said = JSON.parse(line) as { readonly path?: unknown }
-        if (typeof said.path === "string") found.add(`${said.path} (${property})`)
+        if (typeof said.path === "string") found.add(`${said.path} (${property.name})`)
       }
     }
   }
