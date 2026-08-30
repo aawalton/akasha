@@ -47,6 +47,7 @@ export const check = {
     "check/no-refused-syntax",
     "check/no-rule-in-two-files",
     "check/no-tmp",
+    "check/no-why-in-a-statement",
     "check/page-matches-its-type",
     "check/page-named-as-stated",
     "check/page-property-has-its-file",
