@@ -366,6 +366,7 @@ function besideCarried(uncommitted: boolean): readonly Carried[] {
       max: null,
       total: null,
       uncommitted,
+      secret: false,
     },
   ]
 }

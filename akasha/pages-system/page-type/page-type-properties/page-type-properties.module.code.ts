@@ -27,6 +27,7 @@ export type Carried = {
   readonly max: number | null
   readonly total: number | null
   readonly uncommitted: boolean
+  readonly secret: boolean
 }
 
 export function identityOf(one: Carried): string {
@@ -73,6 +74,7 @@ export function carriedIn(
       max: numberAt(one, "max"),
       total: numberAt(one, "total"),
       uncommitted: one["uncommitted"] === true,
+      secret: one["secret"] === true,
     })
   }
   return carried

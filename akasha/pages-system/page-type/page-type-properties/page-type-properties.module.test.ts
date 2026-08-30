@@ -73,6 +73,7 @@ test("a page type carries the properties it declares itself", () => {
       max: 20,
       total: null,
       uncommitted: false,
+      secret: false,
     },
   ])
 })
@@ -242,4 +243,33 @@ test("what binds is the first of the declarations, and the rest are answered her
     "page",
   ])
   expect(carriedBy(root, "page-type").map((one) => one.declaredBy)).toEqual(["page-type", "domain"])
+})
+
+test("a declaration saying its value is secret carries that, and one saying nothing does not", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "access-token", "access-token")
+  propertied(root, "text-property", "plural-slug", "plural-slug")
+  typed(root, "page-type", null, [
+    { pagePropertySlug: "access-token", required: true, many: false, secret: true },
+    { pagePropertySlug: "plural-slug", required: true, many: false },
+  ])
+
+  expect(carriedBy(root, "page-type").map((one) => [one.key, one.secret])).toEqual([
+    ["accessToken", true],
+    ["pluralSlug", false],
+  ])
+})
+
+test("secret and uncommitted are separate, and one declaration may carry both", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "rescued", "rescued")
+  typed(root, "page-type", null, [
+    { pagePropertySlug: "rescued", required: false, many: false, uncommitted: true, secret: true },
+  ])
+
+  const carried = carriedBy(root, "page-type")
+
+  expect(carried).toHaveLength(1)
+  expect(carried[0]?.uncommitted).toBe(true)
+  expect(carried[0]?.secret).toBe(true)
 })
