@@ -63,8 +63,12 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
+      statement: "A state the migration passes through is an initiative.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A state the migration passes through is an initiative. It dies when it is reached rather than standing as a domain that is done.",
+        "An initiative dies when it is reached rather than standing as a domain that is done.",
     },
     {
       invariantKind: "upkeep",
