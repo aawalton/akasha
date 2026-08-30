@@ -11,7 +11,7 @@ export const contextReplacedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A context carried across a restart replaces nothing, so nothing stands here.",
+      statement: "A context carried across a restart replaces nothing.",
     },
     {
       invariantKind: "departure",

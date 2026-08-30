@@ -27,7 +27,7 @@ export const request = {
     },
     {
       invariantKind: "departure",
-      statement: "A request goes when it is carried out, so one standing is one still owed.",
+      statement: "A request goes when it is carried out.",
     },
   ],
 } as const satisfies RecordProperty
