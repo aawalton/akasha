@@ -21,6 +21,28 @@ test("a quoted run spanning lines is taken out whole", () => {
   expect(dequoted("git commit -m 'one\ntwo' -- one.ts")).toBe("git commit -m  -- one.ts")
 })
 
+test("a quoted run holding one bare word is unquoted, so a quoted path stays a path", () => {
+  expect(dequoted('cat one >"akasha/one.ts"')).toBe("cat one >akasha/one.ts")
+  expect(dequoted("cat one >'akasha/one.ts'")).toBe("cat one >akasha/one.ts")
+  expect(dequoted('mv one "akasha/one.ts"')).toBe("mv one akasha/one.ts")
+  expect(dequoted('cp one "akasha/one.ts"')).toBe("cp one akasha/one.ts")
+})
+
+test("a quoted run holding a space is taken out, bare word or not", () => {
+  expect(dequoted('cp one "akasha/one two.ts"')).toBe("cp one ")
+})
+
+test("a quoted run holding a separator is taken out", () => {
+  expect(dequoted('echo "one|two"')).toBe("echo ")
+  expect(dequoted('echo "one;two"')).toBe("echo ")
+  expect(dequoted('echo "one&two"')).toBe("echo ")
+})
+
+test("a quoted run reaching for another call is taken out", () => {
+  expect(dequoted('echo "$(cp one akasha/one.ts)"')).toBe("echo ")
+  expect(dequoted('echo "`cp one akasha/one.ts`"')).toBe("echo ")
+})
+
 test("a separator cuts one line into segments", () => {
   expect(segmentsOf("cd one && git reset --hard")).toEqual(["cd one ", "git reset --hard"])
 })

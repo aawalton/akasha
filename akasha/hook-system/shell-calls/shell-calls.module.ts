@@ -14,7 +14,13 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A quoted run is taken out before the cut, so a payload never reads as a call.",
+      statement:
+        "A quoted run holding one bare word is unquoted before the cut, so a quoted path stays a path.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every other quoted run is taken out before the cut, so a payload never reads as a call.",
     },
     {
       invariantKind: "departure",

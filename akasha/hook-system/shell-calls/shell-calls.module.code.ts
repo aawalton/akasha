@@ -1,6 +1,8 @@
-const SINGLE_QUOTED = /'[^']*'/g
+const SINGLE_QUOTED = /'([^']*)'/g
 
-const DOUBLE_QUOTED = /"[^"]*"/g
+const DOUBLE_QUOTED = /"([^"]*)"/g
+
+const BARE_WORD = /^[^\s|;&<>()`$]+$/
 
 const SEPARATOR = /[|;&]{1,2}/g
 
@@ -12,8 +14,12 @@ export function joinedContinuations(command: string): string {
   return command.replace(CONTINUED, " ")
 }
 
+function kept(_whole: string, inside: string): string {
+  return BARE_WORD.test(inside) ? inside : ""
+}
+
 export function dequoted(command: string): string {
-  return command.replace(SINGLE_QUOTED, "").replace(DOUBLE_QUOTED, "")
+  return command.replace(SINGLE_QUOTED, kept).replace(DOUBLE_QUOTED, kept)
 }
 
 export function segmentsOf(command: string): readonly string[] {
