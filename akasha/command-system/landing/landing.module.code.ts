@@ -149,7 +149,7 @@ let reading: Reading | null = null
 
 let sweeping = false
 
-export function readingEnded(): void {
+export function readingEnded(): undefined {
   const held = reading
   reading = null
   if (held === null) return
@@ -218,7 +218,7 @@ function troubledBy(held: Reading, said: string): Error {
   return new Error(`\`git cat-file --batch\` over ${held.root} ${said}${also}`)
 }
 
-function filled(held: Reading): void {
+function filled(held: Reading): undefined {
   if (held.to === held.held.length) {
     if (held.from > 0) {
       held.held.copyWithin(0, held.from, held.to)
@@ -359,7 +359,7 @@ function beforeOf(
   return held
 }
 
-function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): void {
+function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): undefined {
   wroteOnto(
     root,
     [...before].map(([path, body]) => ({ path, body }))
