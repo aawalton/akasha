@@ -10,8 +10,7 @@ export const rooting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The root is read off the path, never counted, so a file moving deeper still finds it.",
+      statement: "The root is read off the path, never counted.",
     },
     {
       invariantKind: "departure",
