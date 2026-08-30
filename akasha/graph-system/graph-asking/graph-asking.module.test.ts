@@ -57,6 +57,8 @@ const TARGET_AT = "akasha/held/target.page.ts"
 
 const SOURCE_AT = "akasha/held/source.page.ts"
 
+const SIDECAR_AT = "akasha/held/target.page.code.ts"
+
 const INVENTED = "an index a test invented so that no name could be assumed"
 
 const ENDING = ".ts"
@@ -108,15 +110,18 @@ function edged(root: string, kind: string, held: Record<string, unknown>): undef
   filed(root, `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
 }
 
-function relationWorld(filing: boolean): string {
+function relationWorld(lines: number): string {
   const root = scratch.rootFor(PREFIX)
   edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] })
   indexed(root, HELD_RELATION)
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
-  if (filing) {
-    filed(root, `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`, {
-      path: SOURCE_AT,
-    })
+  filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+  if (lines > 0) {
+    filedAll(
+      root,
+      `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`,
+      Array.from({ length: lines }, () => ({ path: SOURCE_AT }))
+    )
   }
   return root
 }
@@ -162,7 +167,7 @@ test("an empty kind list answers nothing", () => {
 })
 
 test("the folder a relation is read from is the one the edge kind's index page names", () => {
-  const root = relationWorld(true)
+  const root = relationWorld(1)
 
   expect(edgesInto(root, TARGET_AT, [RELATION])).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
@@ -177,24 +182,42 @@ test("a file is answered with every file importing it", () => {
   ])
 })
 
-test("an index the answer needs, gone, is refused rather than answered with nothing", () => {
-  const root = relationWorld(false)
+test("a sidecar is answered with what names the page whose file it is, and names that page", () => {
+  const root = relationWorld(1)
 
-  expect(() => edgesInto(root, TARGET_AT, [RELATION])).toThrow(
-    new RegExp(`${HELD_RELATION}.*could not be answered`)
-  )
+  expect(edgesInto(root, SIDECAR_AT, [RELATION])).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
 })
 
-test("an edge kind naming a folder that is not there is refused, though another folder stands", () => {
+test("a leaf holding one path twice is answered with one edge rather than two", () => {
+  const root = relationWorld(2)
+
+  expect(edgesInto(root, TARGET_AT, [RELATION])).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
+})
+
+test("an index the answer needs, gone, is answered with nothing rather than refused", () => {
+  const stands = relationWorld(1)
+  const gone = relationWorld(0)
+
+  expect(edgesInto(stands, TARGET_AT, [RELATION])).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
+  expect(edgesInto(gone, TARGET_AT, [RELATION])).toEqual([])
+})
+
+test("what imports a file is read from the import index, whatever folder the edge page names", () => {
   const root = importWorld(HELD_IMPORT)
 
-  expect(() => edgesInto(root, TARGET_AT, [IMPORT])).toThrow(
-    new RegExp(`${HELD_IMPORT}.*could not be answered`)
-  )
+  expect(edgesInto(root, TARGET_AT, [IMPORT])).toEqual([
+    { kind: IMPORT, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
+  ])
 })
 
 test("a kind no edge page carries is refused rather than answered with nothing", () => {
-  const root = relationWorld(true)
+  const root = relationWorld(1)
 
   expect(() => edgesInto(root, TARGET_AT, [HELD])).toThrow(/`held`.*could not be answered/)
 })

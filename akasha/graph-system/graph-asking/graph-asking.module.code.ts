@@ -29,8 +29,6 @@ const INDEX_NAME = "indexName"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 
-const AT_PATH = "path"
-
 const AT_PAGE = "page"
 
 const AT_ID = "id"
@@ -38,8 +36,6 @@ const AT_ID = "id"
 const ENDING = ".jsonl"
 
 const APART = "\n"
-
-const NAMING_NONE = "an index that is missing is not an index naming no edge"
 
 const NO_ATTRIBUTES: Readonly<Record<string, string>> = {}
 
@@ -111,19 +107,7 @@ function askingFor(root: string, kind: string, asked: string): Asking {
   }
 }
 
-function filedUnder(reading: Reading, at: string, asked: string): string {
-  if (reading.holds(at)) return at
-  throw new Error(`\`${at}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`)
-}
-
-function importsInto(
-  root: string,
-  reading: Reading,
-  path: string,
-  asking: Asking,
-  asked: string
-): readonly Edge[] {
-  filedUnder(reading, indexAt(asking.indexName, AT_PATH), asked)
+function importsInto(root: string, path: string, asking: Asking): readonly Edge[] {
   return importersOf(root, path).map((from) => ({
     kind: asking.kind,
     from,
@@ -161,11 +145,10 @@ function relationsInto(
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const under = filedUnder(reading, indexAt(asking.indexName, AT_PAGE, AT_ID), asked)
+  const under = indexAt(asking.indexName, AT_PAGE, AT_ID)
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
   for (const one of standingByPath(root, path)) {
-    if (one.path !== path) continue
     const here = `${under}/${one.id}`
     for (const property of reading.listing(here)) {
       if (!property.directory) continue
@@ -173,7 +156,7 @@ function relationsInto(
         found.push({
           kind: asking.kind,
           from,
-          to: path,
+          to: one.path,
           attrs: { [attribute]: property.name },
         })
       }
@@ -193,7 +176,7 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
     const asking = askingFor(root, kind, asked)
-    if (kind === IMPORT) found.push(...importsInto(root, reading, path, asking, asked))
+    if (kind === IMPORT) found.push(...importsInto(root, path, asking))
     else if (kind === RELATION) found.push(...relationsInto(root, reading, path, asking, asked))
     else {
       throw new Error(
@@ -201,7 +184,9 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
       )
     }
   }
-  return found.sort((one, two) => {
+  const kept = new Map<string, Edge>()
+  for (const one of found) kept.set(keyOf(one), one)
+  return [...kept.values()].sort((one, two) => {
     const here = keyOf(one)
     const there = keyOf(two)
     return here < there ? -1 : here > there ? 1 : 0
