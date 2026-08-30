@@ -3,7 +3,6 @@ import { seatPageForAgent } from "./seat-presence-read.ts"
 
 const CLEARED = {
   requestedAction: null,
-  dispatchStatus: null,
   interruptMessage: null,
   restartArmedAt: null,
 } as const
@@ -15,11 +14,6 @@ export function controlOf(agentId: string): Record<string, unknown> | null {
 
 export function requestedActionOf(agentId: string): string | null {
   const held = controlOf(agentId)?.requestedAction
-  return typeof held === "string" && held !== "" ? held : null
-}
-
-export function dispatchStatusOf(agentId: string): string | null {
-  const held = controlOf(agentId)?.dispatchStatus
   return typeof held === "string" && held !== "" ? held : null
 }
 

@@ -2,7 +2,7 @@
 import { clearRequestedAction } from "./supervisor-agent-action-clear.ts"
 import type { AgentActionEvent } from "./supervisor-agent-action-types.ts"
 import { LOG } from "./supervisor-config.ts"
-import { setDeferredRestartNotice, withTimeout } from "./supervisor-iteration-outcome-db.ts"
+import { withTimeout } from "./supervisor-iteration-outcome-db.ts"
 import type { LoopState } from "./supervisor-loop-state.ts"
 import { askRestartNotice, type RestartNoticePlan } from "./supervisor-resume-asks.ts"
 import { isPendingReExec } from "./supervisor-self-heal-state.ts"
@@ -32,9 +32,6 @@ export async function handleRestartPreserve(
       await withTimeout(clearRequestedAction(agentId), "clearRequestedAction")
     } catch {
       await withTimeout(clearRequestedAction(agentId), "clearRequestedAction (retry)")
-    }
-    if (plan.route === "rail") {
-      await withTimeout(setDeferredRestartNotice(agentId, plan.notice), "setDeferredRestartNotice")
     }
   } catch (err) {
     console.error(`${LOG} Failed to finalize restart_preserve:`, err)

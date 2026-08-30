@@ -17,7 +17,6 @@ export type ActionAckOutcome =
         readonly agentId: string
         readonly timeoutMs: number
         readonly lastRequestedAction: string | null
-        readonly lastDispatchStatus: string | null
       }
     }
 
@@ -28,8 +27,7 @@ type AckTimeoutReason = Extract<ActionAckOutcome, { ok: false }>["reason"]
 export function describeAckTimeout(verb: AckVerb, reason: AckTimeoutReason): string {
   return (
     `${verb}: the supervisor did not take up requestedAction within ${reason.timeoutMs}ms ` +
-    `(agentId=${reason.agentId}, lastRequestedAction=${reason.lastRequestedAction ?? "null"}, ` +
-    `lastDispatchStatus=${reason.lastDispatchStatus ?? "null"}). ` +
+    `(agentId=${reason.agentId}, lastRequestedAction=${reason.lastRequestedAction ?? "null"}). ` +
     "The supervisor's channel is closed or its process is gone, both of which its recent log names."
   )
 }
@@ -40,7 +38,6 @@ export function buildRequestedActionSet(
 ): Record<string, unknown> {
   const set: Record<string, unknown> = {
     requestedAction: request.action,
-    dispatchStatus: "restart_pending",
   }
   if (request.interruptMessage != null) set.interruptMessage = request.interruptMessage
   if (request.action === "restart_preserve_on_idle" && armedAtMs != null) {
@@ -79,13 +76,9 @@ export async function waitForActionCleared(
       throw new Error(`waitForActionCleared: no seat page stands for agent ${agentId} to answer`)
     }
     const lastRequestedAction = actionText(held.requestedAction)
-    const lastDispatchStatus = actionText(held.dispatchStatus)
     if (lastRequestedAction === null) return { ok: true }
     if (Date.now() >= deadline) {
-      return {
-        ok: false,
-        reason: { agentId, timeoutMs, lastRequestedAction, lastDispatchStatus },
-      }
+      return { ok: false, reason: { agentId, timeoutMs, lastRequestedAction } }
     }
     await new Promise((resolve) => setTimeout(resolve, pollMs))
   }
