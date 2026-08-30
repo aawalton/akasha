@@ -1,10 +1,10 @@
 import type { Module } from "../../code-system/module/module.page-type.ts"
 
-export const monarchRing = {
+export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
   pageTypeSlug: "module",
-  slug: "monarch-ring",
-  definition: "the unreviewed, total and intake counts read from Monarch in one query",
+  slug: "monarch-unreviewed-transactions",
+  definition: "how many transactions are unreviewed",
   code: "ts",
   invariants: [
     {
