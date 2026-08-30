@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aRuleCannotSeeWhatAFileCompilesTo = {
+  id: "01a053eb-5bc5-725b-a09e-1a888cdf89d2",
+  pageTypeSlug: "finding",
+  slug: "a-rule-cannot-see-what-a-file-compiles-to",
+  domainSlug: "domain/checks-system",
+  claim:
+    "The tstl property-callback rule is right and cannot land, because a syntax rule is handed a path and a parsed body and neither says what a file compiles to. Over akasha it refuses 32 property signatures across 643 files, every one of them compiled to JavaScript, where the hazard it guards does not arise. It waits on a way for a file to say it compiles to Lua, which is wanted once the tstl addons port in.",
+  evidence:
+    "`infra/cluster-checks/src/lib/ts-tstl-property-callback-self.ts` refuses a property signature in an interface or type literal whose type is a function type carrying no explicit `this` parameter. The hazard is Lua's alone: tstl compiles a call through such a property so that an implicit `self` can land in the first argument slot, and `(this: void) => void` pins it. The sibling scanner `tstlObjectLiteralSelf` is already landed here as `no-void-self-in-object-method`, so half the pair stands. Measured over akasha it gives 32 refusals across 643 files, among them `judging.module.code.ts:9 at` and `:10 was`, `relation-resolves.check.code.ts:84 stated`, and `folder-shape.page-type.ts:17 entered`. Each compiles to JavaScript, so a `this` parameter on any of them would defend against nothing. It does not contradict `no-method-signature`, whose own invariant reads that the method form is refused and the function-type property is not, so `a: (this: void) => void` satisfies both. The old scanner scoped itself by path prefix, matching `temper/addons/`, `temper/*-addon/` and `temper/shared-addon-libraries-`, with a carved exception for `temper/shared-capture-errors-decision-core/`. That is the skip list the syntax-rule page refuses by name: what a rule passes over stands in its own code rather than in a skip nobody reads. A rule is handed `{ path, source }` and may not ask the index. Two ways out stand open. A `lua-module` page type, which an akasha file name already carries, would let the rule read the target off the path with no index and no skip list, parallel to `component` for `.tsx`. Or `Standing` grows to carry the page type, which hands every rule a fact two rules want.",
+} as const satisfies Finding
