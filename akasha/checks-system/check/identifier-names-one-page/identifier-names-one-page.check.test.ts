@@ -8,7 +8,9 @@ import {
   landing,
   NO_BYTES,
   pathFor,
+  shadowing,
 } from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const TEXT = "text-property"
@@ -52,12 +54,14 @@ function body(kind: string, slug: string, id: string): Uint8Array {
   )
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  return identifierNamesOnePage(change, shadowing(change))
+}
+
 test("a slug another page of its type already carries is refused", () => {
   const root = rooted()
   slugged(root, "check", "held", pathFor("check", "other"))
-  const said = identifierNamesOnePage(
-    landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
-  )
+  const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor("check", "held"))
   expect(said[0]?.reason).toContain(pathFor("check", "other"))
@@ -66,7 +70,7 @@ test("a slug another page of its type already carries is refused", () => {
 
 test("two pages in one change carrying one slug are refused against each other", () => {
   const root = rooted()
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(root, {
       [pathFor("check", "one")]: body("check", "held", ONE),
       [pathFor("check", "two")]: body("check", "held", TWO),
@@ -80,7 +84,7 @@ test("two pages in one change carrying one slug are refused against each other",
 test("a page taking the slug a page the same change renames away is let through", () => {
   const root = rooted()
   slugged(root, "check", "held", pathFor("check", "one"))
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(
       root,
       {
@@ -95,9 +99,7 @@ test("a page taking the slug a page the same change renames away is let through"
 
 test("a page whose identifiers no other page carries is let through", () => {
   const root = rooted()
-  const said = identifierNamesOnePage(
-    landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
-  )
+  const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toEqual([])
 })
 
@@ -105,25 +107,21 @@ test("a page rewritten where it already stands is let through", () => {
   const root = rooted()
   slugged(root, "check", "held", pathFor("check", "held"))
   identified(root, ONE, pathFor("check", "held"))
-  const said = identifierNamesOnePage(
-    landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
-  )
+  const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toEqual([])
 })
 
 test("an id another page carries is refused though the pages are of different types", () => {
   const root = rooted()
   identified(root, ONE, pathFor("module", "other"))
-  const said = identifierNamesOnePage(
-    landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
-  )
+  const said = judged(landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) }))
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain(`page/id/${ONE}`)
 })
 
 test("two pages of different page types carrying one slug are let through", () => {
   const root = rooted()
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(root, {
       [pathFor("check", "held")]: body("check", "held", ONE),
       [pathFor("module", "held")]: body("module", "held", TWO),
@@ -149,7 +147,7 @@ function naming(slug: string, id: string): Uint8Array {
 
 test("a property page the change carries makes its property an identifier at once", () => {
   const root = rooted()
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(root, {
       [pathFor("text-property", "name")]: propertyBody("always"),
       [pathFor("check", "one")]: naming("one", ONE),
@@ -163,7 +161,7 @@ test("a property page the change carries makes its property an identifier at onc
 test("a value a property the change stops making an identifier is let through", () => {
   const root = rooted()
   declaring(root, "name", { pageTypeSlug: TEXT, unique: "always" })
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(
       root,
       {
@@ -179,7 +177,7 @@ test("a value a property the change stops making an identifier is let through", 
 
 test("two pages of a page type the change itself adds carrying one slug are refused", () => {
   const root = rooted()
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(root, {
       [pathFor("page-type", "widget")]: body("page-type", "widget", THREE),
       [pathFor("widget", "one")]: body("widget", "held", ONE),
@@ -194,13 +192,13 @@ test("two pages of a page type the change itself adds carrying one slug are refu
 
 test("a change carrying no page is passed over", () => {
   const root = rooted()
-  expect(identifierNamesOnePage(landing(root, { "akasha/notes.txt": NO_BYTES }))).toEqual([])
+  expect(judged(landing(root, { "akasha/notes.txt": NO_BYTES }))).toEqual([])
 })
 
 test("a page the change takes away frees what it carried", () => {
   const root = rooted()
   slugged(root, "check", "held", pathFor("check", "one"))
-  const said = identifierNamesOnePage(
+  const said = judged(
     landing(
       root,
       {

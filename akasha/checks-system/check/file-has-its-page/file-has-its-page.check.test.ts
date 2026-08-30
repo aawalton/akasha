@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import {
+  claiming,
+  declaring,
+  shadowing,
+  stands,
+} from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
@@ -43,15 +48,23 @@ function arriving(
   }
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  return fileHasItsPage(change, shadowing(change))
+}
+
+function unclaimed(change: Leaving): readonly string[] {
+  return unclaimedIn(change, shadowing(change))
+}
+
 test("a path the index says a page claims is let through", () => {
   const root = rooted()
   claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
-  expect(fileHasItsPage(arriving(root, ["akasha/a/held.module.ts"]))).toEqual([])
+  expect(judged(arriving(root, ["akasha/a/held.module.ts"]))).toEqual([])
 })
 
 test("a path no page claims is refused, and the refusal says why it matters", () => {
   const root = rooted()
-  const said = fileHasItsPage(arriving(root, ["akasha/a/stray.ts"]))
+  const said = judged(arriving(root, ["akasha/a/stray.ts"]))
   expect(said).toEqual([{ path: "akasha/a/stray.ts", reason: UNCLAIMED }])
   expect(UNCLAIMED).toContain("enumerated by nothing and audited by nothing")
 })
@@ -59,7 +72,7 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
 test("a file beside a page that no page property names is refused", () => {
   const root = rooted()
   claiming(root, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
-  const said = fileHasItsPage(
+  const said = judged(
     arriving(root, ["akasha/a/held.module.ts", "akasha/a/held.module.part-two.ts"], {
       "akasha/a/held.module.ts": pageBody("held", ""),
     })
@@ -70,7 +83,7 @@ test("a file beside a page that no page property names is refused", () => {
 test("a page arriving in the change claims its own path, though no index knows it yet", () => {
   const root = rooted()
   expect(
-    fileHasItsPage(
+    judged(
       arriving(root, ["akasha/b/new.module.ts"], { "akasha/b/new.module.ts": pageBody("new", "") })
     )
   ).toEqual([])
@@ -80,9 +93,7 @@ test("a page arriving in the change claims the file its code property names", ()
   const root = rooted()
   const bodies = { "akasha/b/new.module.ts": pageBody("new", ', code: "ts"') }
   expect(
-    fileHasItsPage(
-      arriving(root, ["akasha/b/new.module.ts", "akasha/b/new.module.code.ts"], bodies)
-    )
+    judged(arriving(root, ["akasha/b/new.module.ts", "akasha/b/new.module.code.ts"], bodies))
   ).toEqual([])
 })
 
@@ -90,9 +101,7 @@ test("which properties name a file is read from the index, not from a list in th
   const root = rooted(["code", "notes"])
   const bodies = { "akasha/b/new.module.ts": pageBody("new", ', notes: "md"') }
   expect(
-    fileHasItsPage(
-      arriving(root, ["akasha/b/new.module.ts", "akasha/b/new.module.notes.md"], bodies)
-    )
+    judged(arriving(root, ["akasha/b/new.module.ts", "akasha/b/new.module.notes.md"], bodies))
   ).toEqual([])
 })
 
@@ -103,7 +112,7 @@ test("a file property the change itself introduces names its file", () => {
     "akasha/b/new.module.ts": pageBody("new", ', notes: "md"'),
   }
   expect(
-    fileHasItsPage(
+    judged(
       arriving(
         root,
         [
@@ -130,7 +139,7 @@ test("a claim the change withdraws is no claim, and the file it named is refused
     "akasha/a/held.module.ts": pageBody("held", ""),
     "akasha/a/held.module.code.ts": kept,
   }
-  const said = fileHasItsPage({
+  const said = judged({
     root,
     changed: ["akasha/a/held.module.ts", "akasha/a/held.module.code.ts"],
     at: (path) => at[path] ?? null,
@@ -143,7 +152,7 @@ test("a property whose shape is not a file names no file, so a path built from i
   const root = rooted(["code"])
   const bodies = { "akasha/b/new.module.ts": pageBody("new", ', definition: "held"') }
   expect(
-    fileHasItsPage(
+    judged(
       arriving(root, ["akasha/b/new.module.ts", "akasha/b/new.module.definition.held"], bodies)
     ).map((one) => one.path)
   ).toEqual(["akasha/b/new.module.definition.held"])
@@ -151,26 +160,26 @@ test("a property whose shape is not a file names no file, so a path built from i
 
 test("a path the change takes away is passed over", () => {
   const root = rooted()
-  expect(
-    fileHasItsPage({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })
-  ).toEqual([])
+  expect(judged({ root, changed: ["akasha/a/stray.ts"], at: () => null, was: () => null })).toEqual(
+    []
+  )
 })
 
 test("a path outside the akasha folder is passed over", () => {
   const root = rooted()
-  expect(fileHasItsPage(arriving(root, ["dotfiles/bin/akasha", "README.md"]))).toEqual([])
+  expect(judged(arriving(root, ["dotfiles/bin/akasha", "README.md"]))).toEqual([])
 })
 
 test("a page named for a page type nothing knows still claims the path it stands at", () => {
   const root = rooted()
   const bodies = { "akasha/b/new.oddity.ts": pageBody("new", "") }
-  expect(fileHasItsPage(arriving(root, ["akasha/b/new.oddity.ts"], bodies))).toEqual([])
+  expect(judged(arriving(root, ["akasha/b/new.oddity.ts"], bodies))).toEqual([])
 })
 
 test("a page body that will not load claims nothing beyond what the index already says", () => {
   const root = rooted()
   const broken = new TextEncoder().encode("export const it = (\n")
-  const said = fileHasItsPage(
+  const said = judged(
     arriving(root, ["akasha/a/held.module.ts"], { "akasha/a/held.module.ts": broken })
   )
   expect(said.map((one) => one.path)).toEqual(["akasha/a/held.module.ts"])
@@ -180,8 +189,8 @@ test("the unclaimed pass reads the index under the root it was given, and no oth
   const named = rooted()
   claiming(named, "akasha/a/held.module.ts", "akasha/a/held.module.ts", ID)
   const bare = rooted()
-  expect(unclaimedIn(arriving(named, ["akasha/a/held.module.ts"]))).toEqual([])
-  expect(unclaimedIn(arriving(bare, ["akasha/a/held.module.ts"]))).toEqual([
+  expect(unclaimed(arriving(named, ["akasha/a/held.module.ts"]))).toEqual([])
+  expect(unclaimed(arriving(bare, ["akasha/a/held.module.ts"]))).toEqual([
     "akasha/a/held.module.ts",
   ])
 })

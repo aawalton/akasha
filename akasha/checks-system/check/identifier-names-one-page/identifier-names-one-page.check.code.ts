@@ -4,7 +4,7 @@ import {
   uniquePropertiesAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
@@ -48,10 +48,7 @@ function reasonFor(one: Stated, other: string, how: string): string {
   )
 }
 
-export function identifierNamesOnePage(leaving: Leaving): readonly Judged[] {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const shadow = cast.shadow
+export function identifierNamesOnePage(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
   const said: Judged[] = []

@@ -7,6 +7,7 @@ import {
   schemaFiled,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../checking/checking.module.code.ts"
 import type { Leaving } from "../judging/judging.module.code.ts"
@@ -101,6 +102,12 @@ export function landing(
     at: (path) => files[path] ?? null,
     was: (path) => before[path] ?? NO_BYTES,
   }
+}
+
+export function shadowing(change: Leaving): Shadow {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return cast.shadow
 }
 
 export function gone(): null {
