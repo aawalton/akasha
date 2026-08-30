@@ -11,7 +11,7 @@ export const athenaSeatMigration = {
     {
       invariantKind: "gap",
       statement:
-        "What a seat states and what is observed of it are each declared in akasha, settled one property at a time against the seats standing today.",
+        "What a seat states and what is observed of it are each declared in akasha, settled one property at a time.",
     },
     {
       invariantKind: "gap",
