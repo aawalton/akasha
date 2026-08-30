@@ -23,8 +23,11 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A question reached by a different key is the same index; only a question no index answers is a new one.",
+      statement: "A question reached by a different key is the same index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a question no index answers is a new one.",
     },
     {
       invariantKind: "departure",

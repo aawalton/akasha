@@ -32,8 +32,11 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a name reaches is said here alone; the module saying a page's entries names nothing here.",
+      statement: "What a name reaches is said here alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The module saying a page's entries names nothing here.",
     },
   ],
 } as const satisfies Module
