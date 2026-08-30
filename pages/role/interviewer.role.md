@@ -4,8 +4,6 @@ page-type-slug: role
 title: "Interviewer"
 slug: interviewer
 domain-parent-slug: page-type/role
-conditional-reading-slugs:
-  - prepare-interview
 ---
 
 # Definition
