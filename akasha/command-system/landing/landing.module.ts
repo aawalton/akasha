@@ -26,10 +26,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the base commit does not carry is an answer, not an error.",
-    },
-    {
-      invariantKind: "departure",
       statement: "That git process is ended when the judging ends, however it ends.",
     },
     {
@@ -110,11 +106,6 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "Gating without writing and writing without gating are refused together.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The checks are reached only to judge, so reaching a command never asks them to load.",
     },
     {
       invariantKind: "departure",

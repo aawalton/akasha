@@ -5,16 +5,10 @@ import { formattedBody } from "../../code-system/code-format/code-format.module.
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Change, Landed, Refused } from "../landing/landing.module.code.ts"
-import {
-  baseOf,
-  CHECKING_AT,
-  gateBuilt,
-  landing,
-  leavingOf,
-  NO_GATE,
-} from "../landing/landing.module.code.ts"
+import { baseOf, landing, leavingOf } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
 import { countingOnto, mintingOnto } from "../value-minting/value-minting.module.code.ts"

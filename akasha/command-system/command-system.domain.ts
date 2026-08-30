@@ -15,6 +15,7 @@ export const commandSystem = {
     "module/committing",
     "module/differing",
     "module/fault-saying",
+    "module/gate-building",
     "module/holding",
     "module/reading",
     "module/rooting",

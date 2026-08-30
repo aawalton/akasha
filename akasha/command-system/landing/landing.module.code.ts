@@ -1,16 +1,15 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import type { Judged, Judging, Leaving } from "../../checks-system/judging/judging.module.code.ts"
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Indexing } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, gitIn } from "../committing/committing.module.code.ts"
 import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
+import type { Keeping } from "../gate-building/gate-building.module.code.ts"
+import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
 import { INSIDE, movedOnDisk, reachedSince } from "../standing/standing.module.code.ts"
 
 export type Change = {
@@ -34,58 +33,6 @@ export type Landed = {
 
 export type Refused = {
   readonly refusals: readonly string[]
-}
-
-export const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
-
-export const INDEXING_AT = "akasha/pages-system/indexes/indexing/indexing.module.code.ts"
-
-const HERE = rootOf(import.meta.path)
-
-const CHECKING = join(HERE, CHECKING_AT)
-
-const INDEXING = join(HERE, INDEXING_AT)
-
-const PATCH = "patch"
-
-const loadFrom = createRequire(import.meta.url)
-
-export const NO_GATE: Judging = { named: [], over: () => [] }
-
-export type Built = { readonly gate: Judging } | { readonly broken: string }
-
-type Checking = {
-  readonly checksIn: (root: string) => readonly unknown[]
-  readonly checksAt: (every: readonly unknown[], phase: string) => readonly unknown[]
-  readonly judgingBy: (every: readonly unknown[]) => Judging
-}
-
-function checkingLoaded(): Checking {
-  const held = loadFrom(CHECKING) as Partial<Checking>
-  const named = [held.checksIn, held.checksAt, held.judgingBy]
-  if (named.some((one) => typeof one !== "function")) {
-    throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
-  }
-  return held as Checking
-}
-
-type Keeping = (root: string, repo: string) => Indexing
-
-function indexingLoaded(): Keeping {
-  const held = loadFrom(INDEXING) as { readonly indexingAt?: unknown }
-  if (typeof held.indexingAt !== "function") {
-    throw new Error(`${INDEXING_AT} answers to no \`indexingAt\` the index is kept by`)
-  }
-  return held.indexingAt as Keeping
-}
-
-export function gateBuilt(root: string): Built {
-  try {
-    const held = checkingLoaded()
-    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), PATCH)) }
-  } catch (thrown) {
-    return { broken: oneLine(thrown instanceof Error ? thrown.message : String(thrown)) }
-  }
 }
 
 export function baseOf(root: string): string {
