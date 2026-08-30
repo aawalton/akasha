@@ -24,7 +24,7 @@ import {
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
-import { type Shadow, shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -171,10 +171,7 @@ export function danglingIn(
   return said
 }
 
-export function relationResolves(leaving: Leaving): readonly Judged[] {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const shadow = cast.shadow
+export function relationResolves(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
   const took = leaving.changed.some((one) => leaving.at(one) === null)
   if (carried.length === 0 && !took) return []

@@ -3,8 +3,12 @@ import {
   knownIn,
   type Shaped,
 } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Judged } from "../../judging/judging.module.code.ts"
+import {
+  type Shadow,
+  shadowAt,
+  shadowFor,
+} from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,
   mortalityIn,
@@ -43,22 +47,28 @@ function knowing(shadow: Shadow, root: string): Shaped {
   return knownIn(shadow.reading, root, shadow.pageOf)
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return relationResolves(change, cast.shadow)
+}
+
 test("a page naming a page the index already carries is let through", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([])
+  expect(judged(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([])
 })
 
 test("a page naming a slug that reaches nothing is refused, and the refusal names the property", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/gone"')))).toEqual([
+  expect(judged(over(root, [A], note(', domainSlug: "domain/gone"')))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `gone`" },
   ])
 })
 
 test("a bare name is looked for under every page type admitting the target", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [A], note(', domainSlug: "d"')))).toEqual([])
-  expect(relationResolves(over(root, [A], note(', domainSlug: "nope"')))).toEqual([
+  expect(judged(over(root, [A], note(', domainSlug: "d"')))).toEqual([])
+  expect(judged(over(root, [A], note(', domainSlug: "nope"')))).toEqual([
     {
       path: A,
       reason: "states `domain-slug`, and no page admitting `domain` carries the slug `nope`",
@@ -68,8 +78,8 @@ test("a bare name is looked for under every page type admitting the target", () 
 
 test("an id reaching no page is refused, and an id reaching one is let through", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [A], note(`, domainSlug: "${D_ID}"`)))).toEqual([])
-  expect(relationResolves(over(root, [A], note(`, domainSlug: "${NOWHERE_ID}"`)))).toEqual([
+  expect(judged(over(root, [A], note(`, domainSlug: "${D_ID}"`)))).toEqual([])
+  expect(judged(over(root, [A], note(`, domainSlug: "${NOWHERE_ID}"`)))).toEqual([
     { path: A, reason: `states \`domain-slug\`, and no page carries the id \`${NOWHERE_ID}\`` },
   ])
 })
@@ -77,9 +87,9 @@ test("an id reaching no page is refused, and an id reaching one is let through",
 test("an id reaches a page the change carries, and reaches nothing it takes away", () => {
   const root = rooted()
   const both = { ...note(`, domainSlug: "${E_ID}"`), [E]: stating(E_ID, "e", "domain") }
-  expect(relationResolves(over(root, [A, E], both))).toEqual([])
+  expect(judged(over(root, [A, E], both))).toEqual([])
   const taken = { ...note(`, domainSlug: "${D_ID}"`), [D]: null }
-  expect(relationResolves(over(root, [A, D], taken))).toEqual([
+  expect(judged(over(root, [A, D], taken))).toEqual([
     { path: A, reason: `states \`domain-slug\`, and no page carries the id \`${D_ID}\`` },
   ])
 })
@@ -87,7 +97,7 @@ test("an id reaches a page the change carries, and reaches nothing it takes away
 test("the page type a page states is a relation like any other", () => {
   const root = rooted()
   const bodies = { [A]: stating(A_ID, "a", "typo") }
-  expect(relationResolves(over(root, [A], bodies))).toEqual([
+  expect(judged(over(root, [A], bodies))).toEqual([
     {
       path: A,
       reason: "states `page-type-slug`, and no page admitting `page-type` carries the slug `typo`",
@@ -97,7 +107,7 @@ test("the page type a page states is a relation like any other", () => {
 
 test("every name a property carries many of is judged, not only the first", () => {
   const root = rooted()
-  const said = relationResolves(over(root, [A], note(', partSlugs: ["domain/d", "domain/gone"]')))
+  const said = judged(over(root, [A], note(', partSlugs: ["domain/d", "domain/gone"]')))
   expect(said).toEqual([
     { path: A, reason: "states `part-slugs`, and no `domain` carries the slug `gone`" },
   ])
@@ -105,7 +115,7 @@ test("every name a property carries many of is judged, not only the first", () =
 
 test("a property the schema does not call a relation is never resolved", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [A], note(', definition: "domain/gone"')))).toEqual([])
+  expect(judged(over(root, [A], note(', definition: "domain/gone"')))).toEqual([])
 })
 
 test("a page and the page it names land together when the change carries both", () => {
@@ -114,8 +124,8 @@ test("a page and the page it names land together when the change carries both", 
     ...note(', domainSlug: "domain/e"'),
     [E]: stating(E_ID, "e", "domain"),
   }
-  expect(relationResolves(over(root, [A, E], bodies))).toEqual([])
-  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/e"')))).toEqual([
+  expect(judged(over(root, [A, E], bodies))).toEqual([])
+  expect(judged(over(root, [A], note(', domainSlug: "domain/e"')))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `e`" },
   ])
 })
@@ -125,7 +135,7 @@ test("a change taking away a page refuses the page still naming it, though the c
   naming(root, D_ID, "domain-slug", A_ID, A)
   standing(root, A, A_ID, "note", "a")
   const bodies = { ...note(', domainSlug: "domain/d"'), [D]: null }
-  expect(relationResolves(over(root, [D], bodies))).toEqual([
+  expect(judged(over(root, [D], bodies))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
   ])
 })
@@ -134,19 +144,19 @@ test("a change taking away the page and the page naming it together is silent", 
   const root = rooted()
   naming(root, D_ID, "domain-slug", A_ID, A)
   standing(root, A, A_ID, "note", "a")
-  expect(relationResolves(over(root, [D, A], { [A]: null, [D]: null }))).toEqual([])
+  expect(judged(over(root, [D, A], { [A]: null, [D]: null }))).toEqual([])
 })
 
 test("a change taking away a page nothing names is silent", () => {
   const root = rooted()
   standing(root, OTHER, OTHER_ID, "domain", "other")
-  expect(relationResolves(over(root, [OTHER], { [OTHER]: null }))).toEqual([])
+  expect(judged(over(root, [OTHER], { [OTHER]: null }))).toEqual([])
 })
 
 test("a name narrowing to more than one page is refused, not taken as reached", () => {
   const root = rooted()
   standing(root, OTHER, OTHER_ID, "domain", "d")
-  expect(relationResolves(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([
+  expect(judged(over(root, [A], note(', domainSlug: "domain/d"')))).toEqual([
     {
       path: A,
       reason: `states \`domain-slug\`, and \`domain/d\` narrows to 2 pages and must name its page type — ${D}, ${OTHER}`,
@@ -160,16 +170,14 @@ test("a change rewriting a page's slug takes the old slug away with it", () => {
     ...note(', domainSlug: "domain/d"'),
     [D]: stating(D_ID, "renamed", "domain"),
   }
-  expect(relationResolves(over(root, [A, D], bodies))).toEqual([
+  expect(judged(over(root, [A, D], bodies))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
   ])
 })
 
 test("a change naming no page and taking nothing away asks the index nothing", () => {
   const root = rooted()
-  expect(
-    relationResolves(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))
-  ).toEqual([])
+  expect(judged(over(root, ["akasha/t/loose.txt"], { "akasha/t/loose.txt": "held" }))).toEqual([])
 })
 
 test("which properties are relations is read from the schema in the index", () => {
@@ -245,22 +253,22 @@ const REACHED_MORTAL =
 test("a page that is not mortal naming a mortal page type is refused, reached or not", () => {
   const root = rooted()
   standing(root, S, S_ID, "spark", "s")
-  expect(relationResolves(over(root, [A], note(', sparkSlug: "spark/s"')))).toEqual([
+  expect(judged(over(root, [A], note(', sparkSlug: "spark/s"')))).toEqual([
     { path: A, reason: NOT_MORTAL },
   ])
-  expect(relationResolves(over(root, [A], note(', sparkSlug: "spark/gone"')))).toEqual([
+  expect(judged(over(root, [A], note(', sparkSlug: "spark/gone"')))).toEqual([
     { path: A, reason: NOT_MORTAL },
   ])
 })
 
 test("a mortal page naming a page that reaches nothing is silent", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [S], spark(', domainSlug: "domain/gone"')))).toEqual([])
+  expect(judged(over(root, [S], spark(', domainSlug: "domain/gone"')))).toEqual([])
 })
 
 test("a mortal page naming a mortal page that reaches nothing is silent", () => {
   const root = rooted()
-  expect(relationResolves(over(root, [S], spark(', sparkSlug: "spark/gone"')))).toEqual([])
+  expect(judged(over(root, [S], spark(', sparkSlug: "spark/gone"')))).toEqual([])
 })
 
 test("a change taking a mortal page away is silent though a page still names it", () => {
@@ -269,11 +277,11 @@ test("a change taking a mortal page away is silent though a page still names it"
   naming(root, S_ID, "spark-slug", T_ID, T)
   standing(root, T, T_ID, "spark", "t")
   const bodies = { [T]: stating(T_ID, "t", "spark", ', sparkSlug: "spark/s"'), [S]: null }
-  expect(relationResolves(over(root, [S], bodies))).toEqual([])
+  expect(judged(over(root, [S], bodies))).toEqual([])
 })
 
 function reaching(root: string, stated: string): readonly Judged[] {
-  return relationResolves(over(root, [A], note(stated)))
+  return judged(over(root, [A], note(stated)))
 }
 
 const REFUSING = [{ path: A, reason: REACHED_MORTAL }]
@@ -290,7 +298,7 @@ test("a target that is not mortal is refused for the mortal page the name reache
 test("a mortal page the change itself carries is read for its page type too", () => {
   const root = rooted()
   const bodies = { ...note(', domainSlug: "spark/s"'), [S]: stating(S_ID, "s", "spark") }
-  expect(relationResolves(over(root, [A, S], bodies))).toEqual(REFUSING)
+  expect(judged(over(root, [A, S], bodies))).toEqual(REFUSING)
 })
 
 test("every name a property carries many of reaching a mortal page is refused, one refusal each", () => {
@@ -309,7 +317,7 @@ test("a mortal page reaching a mortal page through a target that is not is silen
   const root = rooted()
   standing(root, S, S_ID, "spark", "s")
   const bodies = { [T]: stating(T_ID, "t", "spark", ', domainSlug: "spark/s"') }
-  expect(relationResolves(over(root, [T], bodies))).toEqual([])
+  expect(judged(over(root, [T], bodies))).toEqual([])
 })
 
 test("a name reaching nothing under a target that is not mortal is a plain dangle", () => {
@@ -328,8 +336,8 @@ test("the check reads the index under the root it was given, and no other", () =
   const named = rooted()
   const bare = rooted(false)
   const bodies = note(', domainSlug: "domain/d"')
-  expect(relationResolves(over(named, [A], bodies))).toEqual([])
-  expect(relationResolves(over(bare, [A], bodies))).toEqual([
+  expect(judged(over(named, [A], bodies))).toEqual([])
+  expect(judged(over(bare, [A], bodies))).toEqual([
     { path: A, reason: "states `domain-slug`, and no `domain` carries the slug `d`" },
   ])
 })
@@ -353,7 +361,7 @@ test("a page type the change introduces admits a page named through it", () => {
     [X]: stating(X_ID, "x", "probe"),
     [A]: stating(A_ID, "a", "note", ', domainSlug: "probe/x"'),
   }
-  expect(relationResolves(over(root, [P, X, A], bodies))).toEqual([])
+  expect(judged(over(root, [P, X, A], bodies))).toEqual([])
 })
 
 test("a relation property the change introduces is judged rather than passed over", () => {
@@ -362,7 +370,7 @@ test("a relation property the change introduces is judged rather than passed ove
     [R]: stating(R_ID, "held", "relation-property", ', targetPageTypeSlug: "page-type/domain"'),
     [A]: stating(A_ID, "a", "note", ', held: "domain/gone"'),
   }
-  expect(relationResolves(over(root, [R, A], bodies))).toEqual([
+  expect(judged(over(root, [R, A], bodies))).toEqual([
     { path: A, reason: "states `held`, and no `domain` carries the slug `gone`" },
   ])
 })

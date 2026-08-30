@@ -6,8 +6,9 @@ import {
   pathFiled,
   standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   ancestorsOf,
   edgesOf,
@@ -174,9 +175,15 @@ function arriving(root: string, bodies: Record<string, string>): Leaving {
   }
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return folderMatchesAShape(change, cast.shadow)
+}
+
 test("a page of a page type the change itself adds is a page, not a stray", () => {
   const root = rooted()
-  const said = folderMatchesAShape(
+  const said = judged(
     arriving(root, {
       "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: null }\n`,
       "akasha/b/x.probe.ts": `export const x = { id: "${idFor(11)}", slug: "x", pageTypeSlug: "probe" }\n`,
@@ -187,7 +194,7 @@ test("a page of a page type the change itself adds is a page, not a stray", () =
 
 test("a file standing beside a page through a file property the change adds is no stray either", () => {
   const root = rooted()
-  const said = folderMatchesAShape(
+  const said = judged(
     arriving(root, {
       "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property" }\n`,
       "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, notes: "ts" }\n`,

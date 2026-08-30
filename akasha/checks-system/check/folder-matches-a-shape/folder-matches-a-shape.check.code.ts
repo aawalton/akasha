@@ -18,7 +18,7 @@ import {
   heldIn,
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
@@ -150,10 +150,7 @@ function enteringOf(leaving: Leaving): (folder: string, path: string) => boolean
   }
 }
 
-export function folderMatchesAShape(leaving: Leaving): readonly Judged[] {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const shadow = cast.shadow
+export function folderMatchesAShape(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(leaving.root)
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
