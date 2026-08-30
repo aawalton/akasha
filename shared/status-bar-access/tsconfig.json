@@ -112,9 +112,6 @@
       "path": "../pages-access"
     },
     {
-      "path": "../pages-query"
-    },
-    {
       "path": "../supabase-auth"
     },
     {

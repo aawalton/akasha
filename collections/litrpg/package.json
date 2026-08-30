@@ -16,7 +16,6 @@
     "@shared/errors-core": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@shared/utils-sync": "workspace:*",

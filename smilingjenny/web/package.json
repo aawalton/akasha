@@ -21,7 +21,6 @@
     "@shared/errors-client": "workspace:*",
     "@shared/monarch-categorization-access": "workspace:*",
     "@shared/notifications": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/status-bar-access": "workspace:*",
     "@shared/supabase-rr": "workspace:*",

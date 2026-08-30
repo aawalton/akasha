@@ -8,7 +8,6 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@shared/pages-query": "workspace:*"
   },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",

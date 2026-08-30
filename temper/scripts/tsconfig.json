@@ -101,9 +101,6 @@
       "path": "../shared-foundation-misc-eso-paths-resolve"
     },
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../shared-saved-variables"
     }
   ],

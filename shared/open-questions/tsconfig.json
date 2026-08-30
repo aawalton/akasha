@@ -22,9 +22,6 @@
       "path": "../pages-core"
     },
     {
-      "path": "../pages-query"
-    },
-    {
       "path": "../supabase-database"
     }
   ]

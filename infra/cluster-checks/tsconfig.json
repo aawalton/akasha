@@ -23,9 +23,6 @@
       "path": "../../shared/graph/producers"
     },
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../../shared/utils-fs"
     },
     {

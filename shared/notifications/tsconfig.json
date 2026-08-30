@@ -14,7 +14,6 @@
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "dist", "./**/*.test.ts"],
   "references": [
-    { "path": "../supabase-auth" },
-    { "path": "../pages-query" }
+    { "path": "../supabase-auth" }
   ]
 }

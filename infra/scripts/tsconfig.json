@@ -27,9 +27,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../../shared/utils-narrow"
     },
     {

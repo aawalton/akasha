@@ -23,7 +23,6 @@
     "@shared/errors-core": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/pages-ui": "workspace:*",
     "@shared/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",

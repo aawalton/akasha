@@ -43,7 +43,6 @@
         "@shared/browser-test-harness": "workspace:*",
         "@shared/cli": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/proc-compiler": "workspace:*",
         "@shared/proc-template": "workspace:*",
@@ -110,7 +109,6 @@
         "@shared/object-store": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-ui-store": "workspace:*",
         "@shared/pages-url": "workspace:*",
@@ -175,7 +173,6 @@
       "dependencies": {
         "@infra/k8s-types": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -237,7 +234,6 @@
         "@alanwalton/email-inbound": "workspace:*",
         "@googleapis/gmail": "^17.0.0",
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -259,7 +255,6 @@
       "name": "@alanwalton/health-samples-access",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -272,7 +267,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@alanwalton/health-samples-access": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -297,7 +291,6 @@
       "name": "@alanwalton/location-traces-access",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
       },
       "devDependencies": {
@@ -310,7 +303,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/utils-fs": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -341,7 +333,6 @@
       "dependencies": {
         "@alanwalton/sms-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
@@ -437,7 +428,6 @@
         "@shared/open-questions": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-ui-store": "workspace:*",
         "@shared/pages-url": "workspace:*",
@@ -512,7 +502,6 @@
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-ui-store": "workspace:*",
         "@shared/pages-url": "workspace:*",
@@ -553,7 +542,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
         "@shared/web-security-headers": "workspace:*",
@@ -582,7 +570,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -599,7 +586,6 @@
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-sync": "workspace:*",
@@ -615,7 +601,6 @@
       "dependencies": {
         "@collections/music-spotify": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -784,7 +769,6 @@
       "name": "@infra/k8s",
       "dependencies": {
         "@infra/k8s-types": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/supabase-server": "workspace:*",
@@ -861,7 +845,6 @@
       "dependencies": {
         "@infra/k8s": "workspace:*",
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-client": "workspace:*",
@@ -1430,7 +1413,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@shared/pages-access": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/supabase-server": "workspace:*",
@@ -1456,7 +1438,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
@@ -1471,7 +1452,6 @@
       "dependencies": {
         "@shared/errors-core": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-url": "workspace:*",
         "@shared/supabase-database": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
@@ -1495,13 +1475,6 @@
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
-      },
-    },
-    "shared/pages-query": {
-      "name": "@shared/pages-query",
-      "version": "0.1.0",
-      "dependencies": {
-        "zod": "^4.3.6",
       },
     },
     "shared/pages-ui": {
@@ -1586,7 +1559,6 @@
       "name": "@shared/person-access",
       "version": "0.1.0",
       "dependencies": {
-        "@shared/pages-query": "workspace:*",
         "@shared/person-target": "workspace:*",
       },
       "devDependencies": {
@@ -1597,9 +1569,6 @@
     "shared/person-authority": {
       "name": "@shared/person-authority",
       "version": "0.1.0",
-      "dependencies": {
-        "@shared/pages-query": "workspace:*",
-      },
       "devDependencies": {
         "@types/bun": "^1.3.9",
         "typescript": "^5.8.3",
@@ -1674,7 +1643,6 @@
         "@alanwalton/personas-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -1813,7 +1781,6 @@
       "dependencies": {
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/supabase-auth": "workspace:*",
         "@shared/supabase-server": "workspace:*",
       },
@@ -1899,7 +1866,6 @@
         "@shared/errors-client": "workspace:*",
         "@shared/monarch-categorization-access": "workspace:*",
         "@shared/notifications": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/status-bar-access": "workspace:*",
         "@shared/supabase-rr": "workspace:*",
@@ -3221,7 +3187,6 @@
       "dependencies": {
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/recurrence": "workspace:*",
         "@shared/supabase-client": "workspace:*",
         "@shared/supabase-database": "workspace:*",
@@ -3889,7 +3854,6 @@
         "@shared/errors-core": "workspace:*",
         "@shared/pages-access": "workspace:*",
         "@shared/pages-core": "workspace:*",
-        "@shared/pages-query": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@shared/pages-ui-store": "workspace:*",
         "@shared/pages-url": "workspace:*",
@@ -4575,8 +4539,6 @@
     "@shared/pages-access": ["@shared/pages-access@workspace:shared/pages-access"],
 
     "@shared/pages-core": ["@shared/pages-core@workspace:shared/pages-core"],
-
-    "@shared/pages-query": ["@shared/pages-query@workspace:shared/pages-query"],
 
     "@shared/pages-ui": ["@shared/pages-ui@workspace:shared/pages-ui"],
 

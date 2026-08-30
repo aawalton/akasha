@@ -10,7 +10,6 @@
   "dependencies": {
     "@alanwalton/sms-core": "workspace:*",
     "@shared/pages-access": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0"
   },

@@ -47,9 +47,6 @@
       "path": "../../shared/pages-access"
     },
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../../shared/web-security-headers"
     },
     {

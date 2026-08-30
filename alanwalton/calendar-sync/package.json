@@ -14,7 +14,6 @@
   "dependencies": {
     "@infra/k8s-types": "workspace:*",
     "@shared/errors-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "zod": "^4.3.6"
   },

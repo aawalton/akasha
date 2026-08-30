@@ -135,9 +135,6 @@
     },
     {
       "path": "../../shared/object-store"
-    },
-    {
-      "path": "../../shared/pages-query"
     }
   ],
   "include": [

@@ -15,7 +15,6 @@
   "exclude": ["node_modules", "dist"],
   "references": [
     { "path": "../../shared/pages-access" },
-    { "path": "../../shared/pages-core" },
-    { "path": "../../shared/pages-query" }
+    { "path": "../../shared/pages-core" }
   ]
 }

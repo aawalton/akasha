@@ -19,7 +19,6 @@
   "dependencies": {
     "@shared/errors-core": "workspace:*",
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

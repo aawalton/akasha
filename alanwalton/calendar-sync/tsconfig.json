@@ -17,7 +17,6 @@
     "dist"
   ],
   "references": [
-    { "path": "../../shared/pages-query" },
     { "path": "../../infra/k8s-types" }
   ]
 }

@@ -13,7 +13,6 @@
   "dependencies": {
     "@infra/k8s": "workspace:*",
     "@shared/pages-access": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/supabase-client": "workspace:*",

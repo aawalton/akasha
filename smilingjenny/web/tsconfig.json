@@ -63,9 +63,6 @@
     },
     {
       "path": "../../shared/web-static-assets"
-    },
-    {
-      "path": "../../shared/pages-query"
     }
   ],
   "include": [

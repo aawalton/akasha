@@ -22,9 +22,6 @@
   ],
   "references": [
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../../shared/recurrence"
     }
   ]

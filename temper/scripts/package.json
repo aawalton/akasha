@@ -3,7 +3,6 @@
   "dependencies": {
     "@shared/pages-access": "workspace:*",
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/supabase-client": "workspace:*",
     "@shared/supabase-database": "workspace:*",

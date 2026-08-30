@@ -15,9 +15,6 @@
       "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/pages-query"
-    },
-    {
       "path": "../../shared/recurrence"
     },
     {

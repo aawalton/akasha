@@ -21,8 +21,5 @@
     "./**/*.test.ts"
   ],
   "references": [
-    {
-      "path": "../pages-query"
-    }
   ]
 }

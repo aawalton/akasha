@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@shared/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/supabase-database": "workspace:*",
     "@supabase/supabase-js": "^2.104.0"
   },

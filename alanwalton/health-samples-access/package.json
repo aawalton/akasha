@@ -9,7 +9,6 @@
     "./*": "./src/*.ts"
   },
   "dependencies": {
-    "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*"
   },
   "scripts": {

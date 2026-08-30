@@ -3,7 +3,6 @@
   "functionalType": "program",
   "dependencies": {
     "@shared/errors-core": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/supabase-auth": "workspace:*",
     "@shared/utils-fs": "workspace:*",
     "@shared/utils-narrow": "workspace:*",

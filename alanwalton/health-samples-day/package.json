@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@alanwalton/health-samples-access": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "@shared/recurrence": "workspace:*"
   },
   "scripts": {
