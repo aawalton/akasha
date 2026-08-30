@@ -9,11 +9,6 @@ export const rynDomainLines = {
   invariants: [
     {
       invariantKind: "gap",
-      statement:
-        "A way an invariant fails stands as a prompt and the labelled cases that judge it.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A prompt is run over a text by hand, and its answers counted.",
     },
     {
