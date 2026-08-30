@@ -34,13 +34,7 @@ export function keyOf(one: Stated): string {
 }
 
 export function statedByKey(stated: readonly Stated[]): ReadonlyMap<string, readonly Stated[]> {
-  const found = new Map<string, Stated[]>()
-  for (const one of stated) {
-    const held = found.get(keyOf(one)) ?? []
-    held.push(one)
-    found.set(keyOf(one), held)
-  }
-  return found
+  return Map.groupBy(stated, keyOf)
 }
 
 const CARRIES = "carries it too in this change"
