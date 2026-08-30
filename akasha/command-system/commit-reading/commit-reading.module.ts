@@ -10,41 +10,36 @@ export const commitReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "One `git cat-file --batch` answers every body asked for, so reading a hundred paths costs one process rather than a hundred.",
+      statement: "One `git cat-file --batch` answers every body asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer comes back as bytes, never as text.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The answer comes back as bytes, never as text, so a body that is no UTF-8 reads as what it is.",
+        "A path the commit does not carry answers as nothing, and a base that names no commit is said out loud.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path the commit does not carry answers as nothing, and a base that names no commit is said out loud, because the first is an answer and the second is not.",
+      statement: "A base is asked after once.",
     },
     {
       invariantKind: "departure",
-      statement: "A base is asked after once, so a commit named again is not looked up again.",
+      statement: "The reader is kept between calls and ended where a call throws.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The reader is kept between calls and ended where a call throws, so what is running is either answering or gone.",
+      statement: "A reader that has answered enough bytes is retired for a fresh one.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reader that has answered enough bytes is retired for a fresh one, so what it holds does not grow without end.",
+      statement: "A reader is ended as the process exits.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader is ended as the process exits, so nothing outlives what asked for it.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "What git says on the error stream is carried into what is thrown, so a reader that answered nothing says why.",
+      statement: "What git says on the error stream is carried into what is thrown.",
     },
     {
       invariantKind: "absence",
