@@ -1,6 +1,6 @@
 import { type Asked, askNamed, type Fetcher } from "@shared/pages-query"
 import { type QueryAnswer } from "../../../../shared/pages-query/src/answer-schema"
-import { READOUT_CACHE_CONTROL } from "~/readout-credential/lib/readout-credential"
+import { READOUT_CACHE_CONTROL } from "../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
 import { guardReadout } from "~/readout-credential/lib/readout-credential.server"
 import type { Route } from "./+types/api.claude-usage"
 

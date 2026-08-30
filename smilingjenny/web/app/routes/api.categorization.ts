@@ -1,34 +1,17 @@
-import { timingSafeEqual } from "node:crypto"
+import {
+  refuseWithoutSecret,
+  RING_CREDENTIAL_HEADER,
+} from "../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
 import { fetchRingCountsFromRoute } from "@shared/monarch-categorization-access/ring-relay"
-import { z } from "zod"
 import type { Route } from "./+types/api.categorization"
 
 const ALAN_RING_ROUTE = "https://alanwalton.com/api/categorization"
 
-const RING_CREDENTIAL_HEADER = "X-Ring-Credential"
-
-function constantTimeEquals(a: string, b: string): boolean {
-  const left = Buffer.from(a, "utf8")
-  const right = Buffer.from(b, "utf8")
-  if (left.length !== right.length) return false
-  return timingSafeEqual(left, right)
-}
-
-const configuredRingCredential = z
-  .string()
-  .trim()
-  .optional()
-  .transform((value) => (value === undefined || value === "" ? undefined : value))
-
 export function refuseUncredentialedRingCaller(request: Request): Response | null {
-  const expected = configuredRingCredential.parse(process.env["SMILINGJENNY_RING_CREDENTIAL"])
-  const presented = request.headers.get(RING_CREDENTIAL_HEADER)
-  const admitted =
-    expected !== undefined && presented !== null && constantTimeEquals(presented, expected)
-  if (admitted) return null
-  return Response.json(
-    { ok: false, error: "Not authenticated." },
-    { status: 401, headers: { "Cache-Control": "no-store" } }
+  return refuseWithoutSecret(
+    request,
+    RING_CREDENTIAL_HEADER,
+    process.env["SMILINGJENNY_RING_CREDENTIAL"]
   )
 }
 

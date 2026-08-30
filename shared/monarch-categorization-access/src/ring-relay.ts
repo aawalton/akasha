@@ -1,11 +1,10 @@
 import { z } from "zod"
 
+import { RELAY_SECRET_HEADER } from "../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
 import type { RingCounts } from "../../../akasha/readout-system/readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 
 const absentSecretSendsNoHeader = (value: string | undefined) =>
   value === undefined || value === "" ? undefined : value
-
-const RELAY_SECRET_HEADER = "X-Relay-Secret"
 
 const relaySecret = z.string().trim().optional().transform(absentSecretSendsNoHeader)
 

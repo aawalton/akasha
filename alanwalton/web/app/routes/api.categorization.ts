@@ -2,7 +2,7 @@ import { fetchRingCountsFromMonarch } from "../../../../akasha/readout-system/re
 import { createRingReader } from "@shared/monarch-categorization-access/ring-reading"
 import { z } from "zod"
 import { readNoneLeft } from "~/readout/lib/readout.server"
-import { READOUT_CACHE_CONTROL } from "~/readout-credential/lib/readout-credential"
+import { READOUT_CACHE_CONTROL } from "../../../../akasha/readout-system/readout-credential/readout-credential.module.code.ts"
 import { guardRingReadout } from "~/readout-credential/lib/readout-credential.server"
 import { readBacklogCountScale } from "~/readout-scale/lib/readout-scale.server"
 import type { Route } from "./+types/api.categorization"
