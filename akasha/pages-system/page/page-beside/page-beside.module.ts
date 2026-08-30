@@ -15,7 +15,7 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder is read, never the index.",
+      statement: "The folder is read rather than the index.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "A folder that is not there holds no file, which is an answer rather than a failure to read one.",
+        "A folder that is not there holds no file which is an answer rather than a failure to read one.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const pageBeside = {
     {
       invariantKind: "departure",
       statement:
-        "What stands beside several paths is answered once, sorted, holding none of the paths themselves.",
+        "What stands beside several paths is answered once and sorted and holding none of the paths themselves.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +45,12 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
+      statement: "A file no page claims cannot stand.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A file no page claims cannot stand, and the naming grammar lets only this page claim a file carrying its whole name and one part more.",
+        "The naming grammar lets only this page claim a file carrying its whole name and one part more.",
     },
   ],
 } as const satisfies Module
