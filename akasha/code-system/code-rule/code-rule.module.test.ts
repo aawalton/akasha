@@ -74,7 +74,7 @@ test("an arrow bound inside a function is read as its own rule", () => {
 }
 `
   const found = speltIn("one.ts", said).map((each) => each.name)
-  expect(found.sort()).toEqual(["held", "twice"])
+  expect(found.toSorted()).toEqual(["held", "twice"])
 })
 
 test("a rule bound to nothing is not read, because only a function is", () => {
