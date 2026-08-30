@@ -57,7 +57,7 @@ function aboveOf(at: string): { readonly dir: string; readonly name: string } {
   return cut < 0 ? { dir: "", name: at } : { dir: at.slice(0, cut), name: at.slice(cut + 1) }
 }
 
-function noteUp(held: Map<string, Map<string, boolean>>, at: string): void {
+function noteUp(held: Map<string, Map<string, boolean>>, at: string): undefined {
   let here = at
   let directory = false
   for (;;) {
@@ -71,7 +71,7 @@ function noteUp(held: Map<string, Map<string, boolean>>, at: string): void {
   }
 }
 
-function markUp(held: Set<string>, at: string): void {
+function markUp(held: Set<string>, at: string): undefined {
   let here = at
   for (;;) {
     const { dir } = aboveOf(here)

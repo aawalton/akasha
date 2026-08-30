@@ -179,7 +179,7 @@ export function everyPage(given: string | Reading): readonly Standing[] {
   return gatheredIn(reading, join(IDENTITY, "page", "id"))
 }
 
-function underneath(reading: Reading, at: string, said: string, found: string[]): void {
+function underneath(reading: Reading, at: string, said: string, found: string[]): undefined {
   for (const one of reading.listing(at)) {
     const held = `${said}${one.name}`
     if (one.directory) underneath(reading, beneath(at, one.name), `${held}/`, found)

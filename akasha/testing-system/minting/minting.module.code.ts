@@ -41,7 +41,7 @@ export function minting(
   definition: string,
   code: string,
   phase: Phase = "patch"
-): void {
+): undefined {
   const at = `akasha/${slug}.check.ts`
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
@@ -57,10 +57,10 @@ const REFUSES_ID = "01a04bed-1450-7000-8000-00000000bbbb"
 
 const ADMITS_ID = "01a04bed-1450-7000-8000-00000000cccc"
 
-export function refusing(root: string): void {
+export function refusing(root: string): undefined {
   minting(root, "refuses", REFUSES_ID, "a check refusing everything", REFUSES_CODE)
 }
 
-export function admitting(root: string): void {
+export function admitting(root: string): undefined {
   minting(root, "admits", ADMITS_ID, "a check admitting everything", ADMITS_CODE)
 }

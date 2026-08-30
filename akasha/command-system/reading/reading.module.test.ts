@@ -34,7 +34,7 @@ const A = "akasha/a.ts"
 
 const B = "akasha/b.ts"
 
-function thinAt(root: string, path: string, said: Record<string, unknown>): void {
+function thinAt(root: string, path: string, said: Record<string, unknown>): undefined {
   const at = readingFileAt(root, AGENT, path)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, `${JSON.stringify(said)}\n`)

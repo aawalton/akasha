@@ -11,11 +11,11 @@ type Taking = (node: ts.Node, took: (said: ts.Node | undefined) => void) => void
 function reading(path: string, text: string, takes: Taking): readonly Placed[] {
   const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, false, ts.ScriptKind.TS)
   const found: Placed[] = []
-  const took = (node: ts.Node | undefined): void => {
+  const took = (node: ts.Node | undefined): undefined => {
     if (node === undefined || !ts.isStringLiteral(node)) return
     found.push({ start: node.getStart(source), end: node.getEnd(), text: node.text })
   }
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     takes(node, took)
     ts.forEachChild(node, walk)
   }

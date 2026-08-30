@@ -57,7 +57,7 @@ export function wroteText(
   return path
 }
 
-export function tookAway(root: string, tree: string, at: string, body: string): void {
+export function tookAway(root: string, tree: string, at: string, body: string): undefined {
   const indexing = indexingAt(root, tree)
   indexing.took(at, body)
   indexing.settle()

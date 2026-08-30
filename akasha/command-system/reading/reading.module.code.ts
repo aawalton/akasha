@@ -95,7 +95,7 @@ export function readingIn(root: string, agentId: string, path: string): Reading 
   }
 }
 
-export function recordRead(root: string, agentId: string, held: Reading): void {
+export function recordRead(root: string, agentId: string, held: Reading): undefined {
   const at = readingFileAt(root, agentId, held.path)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, `${JSON.stringify(held)}\n`)
@@ -122,7 +122,7 @@ export function agentIdsIn(root: string): readonly string[] {
   return [...found].sort()
 }
 
-export function carryReadings(root: string, carries: readonly Carry[]): void {
+export function carryReadings(root: string, carries: readonly Carry[]): undefined {
   const agentIds = agentIdsIn(root)
   for (const carry of carries) {
     let to: string

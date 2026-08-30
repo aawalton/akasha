@@ -16,7 +16,7 @@ export function scratchWorld(): Scratch {
       held.push(root)
       return root
     },
-    sweep: (): void => {
+    sweep: (): undefined => {
       for (const one of held) rmSync(one, { recursive: true, force: true })
     },
   }
