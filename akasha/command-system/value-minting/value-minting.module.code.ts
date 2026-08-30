@@ -8,7 +8,6 @@ import {
   numberAt,
   pageTypesIn,
   textAt,
-  type Value,
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   indexIn,
@@ -206,21 +205,18 @@ export function countingOnto(leaving: Leaving, changes: readonly Change[]): read
   if (slug === null) return changes
   const key = exportedAs(slug)
   const pageTypes = pageTypesIn(indexIn(leaving.root))
-  const taking = new Map<string, string[]>()
-  const values = new Map<string, Value>()
-  for (const one of [...changes].sort((here, there) => (here.path < there.path ? -1 : 1))) {
-    if (one.body === null || one.carried === true) continue
-    if (!pageNamed(one.path, pageTypes) || leaving.was(one.path) !== null) continue
-    const value = loadedFrom(new TextDecoder().decode(one.body)).value
-    if (value === null || value[key] !== undefined) continue
-    const pageTypeSlug = textAt(value, PAGE_TYPE_SLUG)
-    const at = pageTypeSlug === null ? null : typePathIn(shadow, pageTypeSlug)
-    if (at === null) continue
-    values.set(one.path, value)
-    const held = taking.get(at)
-    if (held === undefined) taking.set(at, [one.path])
-    else held.push(one.path)
-  }
+  const minting = [...changes]
+    .sort((here, there) => (here.path < there.path ? -1 : 1))
+    .flatMap((one) => {
+      if (one.body === null || one.carried === true) return []
+      if (!pageNamed(one.path, pageTypes) || leaving.was(one.path) !== null) return []
+      const value = loadedFrom(new TextDecoder().decode(one.body)).value
+      if (value === null || value[key] !== undefined) return []
+      const pageTypeSlug = textAt(value, PAGE_TYPE_SLUG)
+      const at = pageTypeSlug === null ? null : typePathIn(shadow, pageTypeSlug)
+      return at === null ? [] : [{ at, path: one.path }]
+    })
+  const taking = Map.groupBy(minting, (one) => one.at)
   if (taking.size === 0) return changes
   const bodies = new Map<string, Uint8Array>()
   for (const [at, paths] of taking) {
@@ -229,11 +225,11 @@ export function countingOnto(leaving: Leaving, changes: readonly Change[]): read
     const from = value === null ? null : numberAt(value, NEXT_SEQ)
     if (text === null || from === null) continue
     let number = from
-    for (const path of paths) {
-      const held = textIn(leaving, path)
-      const next = held === null ? null : insertedInto(path, held, key, String(number))
+    for (const one of paths) {
+      const held = textIn(leaving, one.path)
+      const next = held === null ? null : insertedInto(one.path, held, key, String(number))
       if (next === null) continue
-      bodies.set(path, formattedOnto(leaving.root, path, next))
+      bodies.set(one.path, formattedOnto(leaving.root, one.path, next))
       number += 1
     }
     if (number === from) continue
