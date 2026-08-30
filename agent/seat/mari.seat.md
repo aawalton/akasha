@@ -8,6 +8,7 @@ domain-slug: domain/arousal
 role-slug: definer
 person-slug: alan
 start-mode: interactive
+on-call: true
 registration-account: aawalton
 claude-code-session-uuid: a212c13b-5054-4921-96f7-86f69af5fa39
 ---
