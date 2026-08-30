@@ -353,7 +353,7 @@ test("a page type the change carries is read as the change leaves it", () => {
   expect(landing(root, { [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([])
 })
 
-function besideCarried(uncommitted: boolean): readonly Carried[] {
+function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {
   return [
     {
       pagePropertySlug: "test",
@@ -366,15 +366,15 @@ function besideCarried(uncommitted: boolean): readonly Carried[] {
       max: null,
       total: null,
       uncommitted,
-      secret: false,
+      secret,
     },
   ]
 }
 
-function beside(value: Value, uncommitted: boolean): readonly string[] {
+function beside(value: Value, uncommitted: boolean, secret = false): readonly string[] {
   return reasonsIn(
     value,
-    besideCarried(uncommitted),
+    besideCarried(uncommitted, secret),
     world,
     "page-type/beside",
     formatting,
@@ -392,4 +392,18 @@ test("a page stating a property its type declares uncommitted is refused, and a 
     "states `test`, which `page-type/beside` declares uncommitted, and such a value stands beside the page rather than in it",
   ])
   expect(beside({ test: "ts" }, false)).toEqual([])
+})
+
+test("a required property its type declares secret is not demanded, and an open one is", () => {
+  expect(beside({}, false, true)).toEqual([])
+  expect(beside({}, false, false)).toEqual([
+    "does not state `test`, which `page-type/beside` requires",
+  ])
+})
+
+test("a page stating a property its type declares secret is refused, and an open one is not", () => {
+  expect(beside({ test: "ts" }, false, true)).toEqual([
+    "states `test`, which `page-type/beside` declares secret, and such a value stands in the page's sops file rather than in it",
+  ])
+  expect(beside({ test: "ts" }, false, false)).toEqual([])
 })

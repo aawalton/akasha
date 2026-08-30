@@ -33,6 +33,18 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement: "A property its type declares secret is not demanded of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a value stands in the page's sops file rather than in the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating a property its type declares secret is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type the change carries is read as the change leaves it.",
     },
     {

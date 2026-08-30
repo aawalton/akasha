@@ -99,7 +99,8 @@ export function reasonsIn(
   const pageFor = (one: Carried): Value | null =>
     pageAt(shadow.reading, one.pageTypeSlug, one.pagePropertySlug, shadow.pageOf)
   for (const one of declared) {
-    if (!one.required || one.uncommitted || excused.has(one.pagePropertySlug)) continue
+    if (!one.required || one.uncommitted || one.secret) continue
+    if (excused.has(one.pagePropertySlug)) continue
     if (!(one.key in value)) {
       said.push(`does not state \`${one.pagePropertySlug}\`, which \`${named}\` requires`)
     }
@@ -114,6 +115,12 @@ export function reasonsIn(
     if (one.uncommitted) {
       said.push(
         `states \`${slug}\`, which \`${named}\` declares uncommitted, and such a value stands beside the page rather than in it`
+      )
+      continue
+    }
+    if (one.secret) {
+      said.push(
+        `states \`${slug}\`, which \`${named}\` declares secret, and such a value stands in the page's sops file rather than in it`
       )
       continue
     }
