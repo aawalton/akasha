@@ -27,6 +27,7 @@ export const syntaxRule = {
   pluralSlug: "syntax-rules",
   partSlugs: [
     "syntax-rule/exhaustive-dispatch",
+    "syntax-rule/no-credential-in-script-text",
     "syntax-rule/no-double-cast",
     "syntax-rule/no-libc-by-name",
     "syntax-rule/no-local-midnight-parse",
