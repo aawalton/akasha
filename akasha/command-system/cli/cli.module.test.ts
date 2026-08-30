@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { spawnSync } from "node:child_process"
-import { appendFileSync, cpSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  identitiesCopied,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { minting, REFUSES_CODE } from "../../testing-system/minting/minting.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -23,7 +28,7 @@ const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"
 
 const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
-const IDENTITY_AT = ".git/data/index/identity"
+const COMMAND = "command"
 
 const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
@@ -45,9 +50,7 @@ function checkoutOf(): string {
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
   symlinkSync(join(from, "node_modules"), join(root, "node_modules"))
-  cpSync(join(from, IDENTITY_AT, "command"), join(root, IDENTITY_AT, "command"), {
-    recursive: true,
-  })
+  identitiesCopied(from, root, COMMAND)
   return root
 }
 
@@ -167,12 +170,7 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 
 test("a name no command carries is a caller's mistake too", () => {
   const root = scratch.rootFor("akasha-cli-")
-  const dir = join(root, IDENTITY_AT, "command", "slug")
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    join(dir, "read.jsonl"),
-    `${JSON.stringify({ path: "akasha/r.command.ts", id: ID })}\n`
-  )
+  standingFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
   const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
@@ -182,7 +180,7 @@ test("a name looked for where no index stands says nothing was read, not that no
   const said = answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("was looked for and not read")
-  expect(said.err[0]).toContain("No index stands at `.git/data/index`")
+  expect(said.err[0]).toContain(`No index stands at \`${indexIn("")}\``)
   expect(said.err[0]).not.toContain("is no command akasha carries")
 })
 

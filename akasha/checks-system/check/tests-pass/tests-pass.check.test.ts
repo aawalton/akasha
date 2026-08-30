@@ -4,6 +4,10 @@ import { dirname, join } from "node:path"
 import type { Ran } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import {
+  noPathsFiled,
+  pathFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gone, leaving, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
@@ -20,22 +24,18 @@ const READS =
   'import { held } from "./one.module.code.ts"\n' +
   'test("one", () => { expect(held).toBe(1) })\n'
 
-const PATHS_AT = ".git/data/index/path"
-
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
 function repo(files: Record<string, string>): string {
   const root = realpathSync(scratch.rootFor("tests-pass-"))
-  mkdirSync(join(root, PATHS_AT), { recursive: true })
+  noPathsFiled(root)
   for (const [name, body] of Object.entries(files)) {
     const at = join(root, name)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body)
-    const marked = join(root, PATHS_AT, `${name}.jsonl`)
-    mkdirSync(dirname(marked), { recursive: true })
-    writeFileSync(marked, `${JSON.stringify({ path: name })}\n`)
+    pathFiled(root, name, [{ path: name }])
   }
   return root
 }

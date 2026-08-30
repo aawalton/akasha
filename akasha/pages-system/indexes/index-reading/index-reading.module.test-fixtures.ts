@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
@@ -88,6 +88,15 @@ export function importFiled(root: string, path: string, lines: readonly unknown[
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   standing(root, join(indexIdentity.indexName, pageTypeSlug, SLUG))
+}
+
+export function noPathsFiled(root: string): undefined {
+  standing(root, indexPath.indexName)
+}
+
+export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
+  const at = join(indexIdentity.indexName, pageTypeSlug)
+  cpSync(under(from, at), under(into, at), { recursive: true })
 }
 
 export function standingTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
