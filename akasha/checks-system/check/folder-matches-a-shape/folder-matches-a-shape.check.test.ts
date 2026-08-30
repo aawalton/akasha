@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { declaring } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import {
   ancestorsOf,
@@ -106,22 +107,8 @@ function idFor(n: number): string {
   return `01a04e00-0000-7000-8000-0000000000${String(n).padStart(2, "0")}`
 }
 
-function put(root: string, at: string, body: string): undefined {
-  const full = join(root, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, body, "utf8")
-}
-
 function filed(root: string, at: string, line: string): undefined {
-  put(root, join(INDEX, at), `${line}\n`)
-}
-
-function property(root: string, slug: string, kind: string, unique: string | null): undefined {
-  filed(
-    root,
-    join("schema", "page-property", "slug", `${slug}.jsonl`),
-    JSON.stringify({ pageTypeSlug: kind, targetPageTypeSlug: null, unique })
-  )
+  standing(root, join(INDEX, at), `${line}\n`)
 }
 
 function stands(
@@ -132,7 +119,7 @@ function stands(
   slug: string,
   body: string
 ): undefined {
-  put(root, path, body)
+  standing(root, path, body)
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
   filed(root, join("identity", kind, "slug", `${slug}.jsonl`), line)
@@ -146,9 +133,9 @@ const SHAPE_CODE = `export function noStrays(standing) {
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-folder-shape-")
-  property(root, "id", "text-property", "always")
-  property(root, "slug", "text-property", "page-type")
-  property(root, "code", "file-property", null)
+  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
+  declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
   const shape = "akasha/s/no-strays.folder-shape.ts"
   stands(
     root,
@@ -158,7 +145,7 @@ function rooted(): string {
     "no-strays",
     `export const noStrays = { id: "${idFor(1)}", slug: "no-strays", pageTypeSlug: "folder-shape", code: "ts" }\n`
   )
-  put(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
+  standing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
   filed(
     root,
     join("path", "akasha/s/no-strays.folder-shape.code.ts.jsonl"),

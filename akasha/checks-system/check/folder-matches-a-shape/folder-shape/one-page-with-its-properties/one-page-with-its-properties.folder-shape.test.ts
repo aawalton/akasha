@@ -1,27 +1,12 @@
 import { expect, test } from "bun:test"
-import { heldIn } from "../../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import type { Standing } from "../folder-shape.page-type.ts"
+import { standingIn } from "../../folder-matches-a-shape.check.test-fixtures.ts"
 import { onePageWithItsProperties } from "./one-page-with-its-properties.folder-shape.code.ts"
 
 const FOLDER = "akasha/one"
 
 const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "check"])
 
-const FILE_PROPERTIES = new Set<string>(["code", "test"])
-
-export function standing(names: readonly string[]): Standing {
-  const held = names.map((each) => heldIn(`${FOLDER}/${each}`, PAGE_TYPES, FILE_PROPERTIES))
-  return {
-    folder: FOLDER,
-    files: held.map((each) => each.path),
-    deep: [],
-    pages: held.filter((each) => each.kind === "page"),
-    properties: held.filter((each) => each.kind === "property"),
-    strays: held.filter((each) => each.kind === "stray"),
-    entered: () => false,
-    extending: () => false,
-  }
-}
+const standing = standingIn({ folder: FOLDER, pageTypes: PAGE_TYPES })
 
 test("a folder holding no file at all takes the shape", () => {
   expect(onePageWithItsProperties(standing([]))).toEqual([])

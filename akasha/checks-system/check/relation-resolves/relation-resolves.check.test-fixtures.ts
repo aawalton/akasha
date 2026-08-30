@@ -1,6 +1,7 @@
-import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 
 export const INDEX = join(".git", "data", "index")
@@ -59,12 +60,6 @@ export const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
 
 export const scratch = scratchWorld()
 
-export function put(root: string, at: string, body: string): undefined {
-  const full = join(root, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, body, "utf8")
-}
-
 export function filed(root: string, at: string, line: string): undefined {
   const full = join(root, INDEX, at)
   mkdirSync(dirname(full), { recursive: true })
@@ -88,7 +83,7 @@ export function standing(
   slug: string,
   body: string = stating(id, slug, pageTypeSlug)
 ): undefined {
-  if (!existsSync(join(root, path))) put(root, path, body)
+  if (!existsSync(join(root, path))) wrote(root, path, body)
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
   filed(root, join("identity", pageTypeSlug, "slug", `${slug}.jsonl`), line)

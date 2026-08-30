@@ -8,6 +8,7 @@ export const folderMatchesAShape = {
   partSlugs: ["page-type/folder-shape"],
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: true,
   runsOnDeploy: true,
