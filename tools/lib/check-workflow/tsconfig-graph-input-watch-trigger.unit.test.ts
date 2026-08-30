@@ -23,7 +23,7 @@ const ROOT_MANIFEST = "package.json"
 
 const LOCKFILE = "bun.lock"
 
-const GRAPH_CHECKS = ["acyclic-imports", "typecheck"] as const
+const GRAPH_CHECKS = ["typecheck"] as const
 
 const fileNode = (type: string, path: string): Node => ({
   type,

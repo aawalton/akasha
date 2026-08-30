@@ -1,10 +1,5 @@
 export const ALLOWLISTED_REPO_WIDE_TS_SCANNERS: ReadonlyMap<string, string> = new Map([
   ["typecheck", "tsc -b runs the project-references build over every TS file in the monorepo."],
-  ["lint", "biome lints every TS/TSX file in the workspace."],
-  [
-    "acyclic-imports",
-    "Builds the runtime import graph from every TS/TSX file to detect import cycles.",
-  ],
   [
     "test-step-paths",
     "Validates per-workspace test-step coverage; the set of test files is over every *.test.ts[x] across the repo.",
