@@ -7,6 +7,7 @@ import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
 import { type Stamp, stampKept } from "../index-stamp/index-stamp.module.code.ts"
+import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { indexIn } from "./index-reading.module.code.ts"
 
 const ENDING = ".jsonl"
@@ -133,8 +134,19 @@ export function entriesFiled(root: string, entries: readonly Entry[]): undefined
   }
 }
 
+export function linesFiled(root: string, at: string, lines: readonly unknown[]): undefined {
+  written(root, at, lines)
+}
+
 export function stampedIn(root: string, held: Stamp): undefined {
   stampKept(indexIn(root), held)
+}
+
+export function rebuiltIn(
+  root: string,
+  tree: string
+): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
+  return rebuiltFrom(join(root, tree), indexIn(root), root)
 }
 
 export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {

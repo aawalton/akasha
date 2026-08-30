@@ -1,6 +1,9 @@
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { stampKept } from "../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+import {
+  linesFiled,
+  stampedIn,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   overlaidOn,
   type Reading,
@@ -110,7 +113,7 @@ export function paged(root: string, at: string, held: Record<string, unknown>): 
 }
 
 function filedAll(root: string, at: string, said: readonly Record<string, string>[]): undefined {
-  put(root, `.git/data/index/${at}`, said.map((one) => `${JSON.stringify(one)}\n`).join(""))
+  linesFiled(root, at, said)
 }
 
 export function filed(root: string, at: string, said: Record<string, string>): undefined {
@@ -186,7 +189,7 @@ function stoodUp(indexName: string): string {
   put(root, HELD, `${HELD}\n`)
   gitIn(root, ["add", "--", HELD])
   gitIn(root, ["commit", "--quiet", "-m", HELD, "--", HELD])
-  stampKept(indexIn(root), {
+  stampedIn(root, {
     commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
     tree: TREE,
     settled: [],

@@ -1,14 +1,20 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { stampKept } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
+import {
+  importFiled,
+  pathFiled,
+  rebuiltIn,
+  relationFiled,
+  stampedIn,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { IMPORTS_AT, PATHS_AT } from "./move.command.code.ts"
+
+const TREE = "akasha"
 
 export const HELD = "akasha/one/held.module.ts"
 
@@ -52,7 +58,7 @@ export const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
 
 export const READER = "akasha/elsewhere/reader.module.ts"
 
-export const VOCABULARY: readonly string[] = Object.keys(declaringUnder("akasha"))
+export const VOCABULARY: readonly string[] = Object.keys(declaringUnder(TREE))
 
 export const scratch = scratchWorld()
 
@@ -63,7 +69,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries({ ...declaringUnder("akasha"), ...named })) {
+  for (const [path, body] of Object.entries({ ...declaringUnder(TREE), ...named })) {
     const at = join(root, path)
     mkdirSync(join(at, ".."), { recursive: true })
     writeFileSync(at, body)
@@ -76,7 +82,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
 }
 
 export function rebuilt(root: string): string {
-  rebuiltFrom(join(root, "akasha"), join(root, ".git/data/index"), root)
+  rebuiltIn(root, TREE)
   admitting(root)
   return root
 }
@@ -88,20 +94,22 @@ export function givenIn(root: string): Given {
 export const head = baseOf
 
 export function importing(root: string, target: string, importers: readonly string[]): undefined {
-  const at = join(root, IMPORTS_AT, `${target}.jsonl`)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, importers.map((path) => `${JSON.stringify({ path })}\n`).join(""))
-  stampKept(join(root, ".git/data/index"), { commit: head(root), tree: "akasha", settled: [] })
+  importFiled(
+    root,
+    target,
+    importers.map((path) => ({ path }))
+  )
+  stampedIn(root, { commit: head(root), tree: TREE, settled: [] })
 }
 
 export function claiming(root: string, path: string, ids: readonly string[]): undefined {
-  const at = join(root, PATHS_AT, `${path}.jsonl`)
-  mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, ids.map((id) => `${JSON.stringify({ path, id })}\n`).join(""))
+  pathFiled(
+    root,
+    path,
+    ids.map((id) => ({ path, id }))
+  )
 }
 
 export function naming(root: string, id: string): undefined {
-  const at = join(root, ".git/data/index/relation/page/id", id, "required-reading-slugs")
-  mkdirSync(at, { recursive: true })
-  writeFileSync(join(at, `${AAAA}.jsonl`), `${JSON.stringify({ path: READER })}\n`)
+  relationFiled(root, id, "required-reading-slugs", AAAA, [{ path: READER }])
 }
