@@ -1,25 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
-import {
-  ADMITS_CODE,
-  MINTED,
-  mintedId,
-  minting,
-  REFUSES_CODE,
-} from "../../../testing-system/minting/minting.module.code.ts"
+import { REFUSES_CODE } from "../../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import { bodyIn, givenIn } from "../../asking/asking.module.test-fixtures.ts"
+import { bodyIn, checking, givenIn, repoAt } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { write } from "./write.command.code.ts"
 import { write as writeCommand } from "./write.command.ts"
-
-const ADMITS_AT = "akasha/admits.check*"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -30,24 +21,7 @@ afterAll(scratch.sweep)
 function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
 ): string {
-  const root = scratch.rootFor("akasha-write-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, mechanicalOid: null })
-  }
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
-  put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
-  checking(root, "admits", ADMITS_CODE)
-  warrantsStanding(root)
-  return root
-}
-
-function checking(root: string, slug: string, body: string): undefined {
-  minting(root, slug, mintedId(slug), MINTED, body)
+  return repoAt(scratch.rootFor("akasha-write-"), named)
 }
 
 test("a write over a body the record does not show read is refused", () => {

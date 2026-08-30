@@ -49,10 +49,7 @@ export const scratch = scratchWorld()
 
 export const git = gitIn
 
-export function repoWith(
-  named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
-): string {
-  const root = scratch.rootFor("akasha-asking-")
+export function repoAt(root: string, named: Readonly<Record<string, string>>): string {
   git(root, ["init", "--quiet"])
   git(root, ["config", "user.email", "held@nowhere"])
   git(root, ["config", "user.name", "Held"])
@@ -66,6 +63,12 @@ export function repoWith(
   checking(root, "admits", ADMITS_CODE)
   warrantsStanding(root)
   return root
+}
+
+export function repoWith(
+  named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
+): string {
+  return repoAt(scratch.rootFor("akasha-asking-"), named)
 }
 
 export function repoWithTheFormatter(named?: Readonly<Record<string, string>>): string {
