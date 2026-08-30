@@ -38,7 +38,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A file holding uncommitted values goes with the page it stands beside, carried on disk once the move lands, because it stands in no commit for a move to carry.",
+        "A file holding uncommitted values goes with the page it stands beside, carried on disk once the move lands.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A path is read against the repository root and never against the folder the call was made in, so what is typed means the same wherever it is typed.",
+        "A path is read against the repository root and never against the folder the call was made in.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "A path spelled as plain text is repointed as readily as one naming a module, because a body reaches by both.",
+        "A path spelled as plain text is repointed as readily as one naming a module, and a body reaches by both.",
     },
     {
       invariantKind: "absence",
@@ -85,8 +85,7 @@ export const move = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The index carries the `akasha/` folder alone, so an importer outside it is neither found nor repointed.",
+      statement: "The index carries the `akasha/` folder alone.",
     },
     {
       invariantKind: "departure",
@@ -106,13 +105,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reading of what a move carries is carried with it, so the move holds nobody to reading again.",
+      statement: "A reading of what a move carries is carried with it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body this carries is marked carried, so a value worked out for a page being created is not worked out again for one that only moved.",
+      statement: "A body this carries is marked carried.",
     },
     {
       invariantKind: "gap",
