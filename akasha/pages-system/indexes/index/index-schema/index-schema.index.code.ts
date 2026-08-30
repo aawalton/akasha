@@ -25,6 +25,7 @@ const SHAPES = new Set([
   "record-property",
   "file-property",
   "phone-number-property",
+  "email-address-property",
 ])
 
 export function schemaIn(value: Value): readonly Entry[] {

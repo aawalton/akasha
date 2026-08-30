@@ -2,7 +2,7 @@ import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
-import type { EmailAddress } from "./properties/email-address.text-property.ts"
+import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
 import type { History } from "./properties/history.text-property.ts"
 import type { LastMessagedAt } from "./properties/last-messaged-at.text-property.ts"
@@ -36,6 +36,7 @@ export const persona = {
   pluralSlug: "personas",
   extendsSlug: "page-type/domain",
   partSlugs: [
+    "email-address-property/email-address",
     "file-property/portrait",
     "number-property/green-day-points",
     "persona/abby",
@@ -82,7 +83,6 @@ export const persona = {
     "persona/zeli",
     "relation-property/origin",
     "text-property/championed-domain-slug",
-    "text-property/email-address",
     "text-property/history",
     "text-property/last-messaged-at",
     "text-property/purpose",
