@@ -96,7 +96,12 @@ function alsoInAkasha(
   roots: Roots,
   parentName: string | null
 ): void {
-  const said = writeAkashaSeatPage(stated, seatName, roots, parentName)
+  let said: Outcome
+  try {
+    said = writeAkashaSeatPage(stated, seatName, roots, parentName)
+  } catch (thrown) {
+    said = { kind: "refused", detail: thrown instanceof Error ? thrown.message : String(thrown) }
+  }
   if (said.kind === "refused") {
     process.stderr.write(`${seatName}'s page stands, and its page in akasha does not: ${said.detail}\n`)
   }
@@ -181,7 +186,12 @@ export function removeSeatPage(agent: string, stopReason: string): Outcome {
     return { kind: "refused", detail }
   }
   removeUncommitted(page)
-  const gone = removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
+  let gone: Outcome
+  try {
+    gone = removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
+  } catch (thrown) {
+    gone = { kind: "refused", detail: thrown instanceof Error ? thrown.message : String(thrown) }
+  }
   if (gone.kind === "refused") {
     process.stderr.write(
       `${seatName}'s page is gone, and its page in akasha stands: ${gone.detail}\n`
