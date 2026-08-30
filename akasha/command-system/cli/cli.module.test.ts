@@ -187,7 +187,12 @@ test("a name looked for where no index stands says nothing was read, not that no
 })
 
 test("a failure of no known kind says so rather than claiming one", () => {
-  const said = answering([], {}, undefined as unknown as string, "/nowhere")
+  const hostile = {
+    get AKASHA_ROOT(): string {
+      throw new Error("the environment itself failed")
+    },
+  }
+  const said = answering([], hostile, AT, "/nowhere")
   expect(said.code).toBe(UNCLASSIFIED)
   expect(said.err[0]).toStartWith("akasha: ")
 })

@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, type Stats, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { standing } from "../scratching/scratching.module.test-fixtures.ts"
+import type { Opening } from "./reading.module.code.ts"
 import {
   ACTING_NAMED,
   agentIdsIn,
@@ -39,17 +40,19 @@ function thinAt(root: string, path: string, said: Record<string, unknown>): void
   writeFileSync(at, `${JSON.stringify(said)}\n`)
 }
 
-function statLike(said: Record<string, unknown>): Stats {
+function opening(said: Partial<Opening>): Opening {
   return {
+    dev: 0,
+    ino: 0,
     isFIFO: () => false,
     isFile: () => true,
     ...said,
-  } as unknown as Stats
+  }
 }
 
-const NOWHERE = statLike({ dev: 1, ino: 1, isFile: () => false })
+const NOWHERE = opening({ dev: 1, ino: 1, isFile: () => false })
 
-const ELSEWHERE = statLike({ dev: 9, ino: 9 })
+const ELSEWHERE = opening({ dev: 9, ino: 9 })
 
 test("a blob id is git's own over the bytes", () => {
   const said = blobIdOf(new TextEncoder().encode("hello world\n"))
@@ -251,11 +254,11 @@ test("a composite owner is a folder of its own beside the seat's", () => {
 })
 
 test("output at /dev/null is thrown away", () => {
-  expect(discardedBy(statLike({ dev: 1, ino: 1 }), ELSEWHERE, NOWHERE)).toBe("/dev/null")
+  expect(discardedBy(opening({ dev: 1, ino: 1 }), ELSEWHERE, NOWHERE)).toBe("/dev/null")
 })
 
 test("output down a pipe is thrown away", () => {
-  const out = statLike({
+  const out = opening({
     dev: 2,
     ino: 2,
     isFIFO: () => true,
@@ -265,18 +268,18 @@ test("output down a pipe is thrown away", () => {
 })
 
 test("output and errors in one file is the harness, not a redirect", () => {
-  const out = statLike({ dev: 3, ino: 3 })
-  expect(discardedBy(out, statLike({ dev: 3, ino: 3 }), NOWHERE)).toBeNull()
+  const out = opening({ dev: 3, ino: 3 })
+  expect(discardedBy(out, opening({ dev: 3, ino: 3 }), NOWHERE)).toBeNull()
 })
 
 test("output alone in a file is a redirect", () => {
-  const out = statLike({ dev: 3, ino: 3 })
-  expect(discardedBy(out, statLike({ dev: 4, ino: 4 }), NOWHERE)).toBe(
+  const out = opening({ dev: 3, ino: 3 })
+  expect(discardedBy(out, opening({ dev: 4, ino: 4 }), NOWHERE)).toBe(
     "a file only this redirect opened"
   )
 })
 
 test("output at a terminal reaches whoever asked", () => {
-  const out = statLike({ dev: 5, ino: 5, isFile: () => false })
+  const out = opening({ dev: 5, ino: 5, isFile: () => false })
   expect(discardedBy(out, ELSEWHERE, NOWHERE)).toBeNull()
 })

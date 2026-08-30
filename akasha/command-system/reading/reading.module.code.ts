@@ -5,7 +5,6 @@ import {
   readdirSync,
   readFileSync,
   rmSync,
-  type Stats,
   statSync,
   writeFileSync,
 } from "node:fs"
@@ -49,6 +48,13 @@ export type Carry = {
 }
 
 export type Discard = "/dev/null" | "a pipe" | "a file only this redirect opened"
+
+export type Opening = {
+  readonly dev: number
+  readonly ino: number
+  readonly isFIFO: () => boolean
+  readonly isFile: () => boolean
+}
 
 export function blobIdOf(bytes: Uint8Array): string {
   return createHash("sha1").update(`blob ${bytes.length}\0`).update(bytes).digest("hex")
@@ -140,11 +146,11 @@ export function carryReadings(root: string, carries: readonly Carry[]): void {
   }
 }
 
-function same(one: Stats, other: Stats): boolean {
+function same(one: Opening, other: Opening): boolean {
   return one.dev === other.dev && one.ino === other.ino
 }
 
-export function discardedBy(out: Stats, said: Stats, nowhere: Stats): Discard | null {
+export function discardedBy(out: Opening, said: Opening, nowhere: Opening): Discard | null {
   if (same(out, nowhere)) return "/dev/null"
   if (out.isFIFO()) return "a pipe"
   if (!out.isFile()) return null
