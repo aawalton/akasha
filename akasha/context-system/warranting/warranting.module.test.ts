@@ -17,6 +17,7 @@ import {
   warrantedIn,
   warrantsIn,
 } from "./warranting.module.code.ts"
+import { SEEDED_AT, WARRANTS_AT } from "./warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -31,10 +32,6 @@ const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
 const PATH = "akasha/thing/thing.module.ts"
 
 const OWED = "a reading this test says is owed"
-
-const WARRANTS_AT = ".git/data/index/identity/context-warrant/slug"
-
-const SEEDED_AT = ".git/data/warrant"
 
 const MODULE_AT = join(import.meta.dir, "warranting.module.code.ts")
 

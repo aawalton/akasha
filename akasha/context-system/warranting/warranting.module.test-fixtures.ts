@@ -1,15 +1,16 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
+import { identityAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 
 const WARRANTS_IN = "akasha/context-system/context-warrant"
 
-const WARRANTS_AT = ".git/data/index/identity/context-warrant/slug"
+export const WARRANTS_AT = identityAt("context-warrant", "slug")
 
-const SEEDED_AT = ".git/data/warrant"
+export const SEEDED_AT = ".git/data/warrant"
 
 const MINTED = "a warrant seeded for a test"
 
