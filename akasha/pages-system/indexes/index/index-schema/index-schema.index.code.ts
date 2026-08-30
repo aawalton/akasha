@@ -20,6 +20,7 @@ const SHAPES = new Set([
   "text-property",
   "number-property",
   "boolean-property",
+  "instant-property",
   "relation-property",
   "record-property",
   "file-property",
