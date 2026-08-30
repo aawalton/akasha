@@ -28,28 +28,17 @@ function importedHere(reading: Reading, at: string, path: string): boolean {
   return false
 }
 
-function underneath(
-  reading: Reading,
-  at: string,
-  said: string,
-  path: string,
-  found: string[]
-): undefined {
-  for (const one of reading.listing(at)) {
+function underneath(reading: Reading, at: string, said: string, path: string): readonly string[] {
+  return reading.listing(at).flatMap((one) => {
     const held = beneath(at, one.name)
-    if (one.directory) {
-      underneath(reading, held, `${said}${one.name}/`, path, found)
-      continue
-    }
-    if (!one.name.endsWith(ENDING)) continue
-    if (importedHere(reading, held, path)) found.push(`${said}${one.name}`.slice(0, -ENDING.length))
-  }
+    if (one.directory) return underneath(reading, held, `${said}${one.name}/`, path)
+    if (!one.name.endsWith(ENDING)) return []
+    return importedHere(reading, held, path) ? [`${said}${one.name}`.slice(0, -ENDING.length)] : []
+  })
 }
 
 export function importedIn(root: string, path: string): readonly string[] {
-  const found: string[] = []
-  underneath(readingAt(indexIn(root)), join(IMPORT, PATH), "", path, found)
-  return found.sort()
+  return [...underneath(readingAt(indexIn(root)), join(IMPORT, PATH), "", path)].sort()
 }
 
 export function pageOf(root: string, path: string): string | null {
