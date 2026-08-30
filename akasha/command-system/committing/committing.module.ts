@@ -10,18 +10,15 @@ export const committing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A commit answered for a change is a commit carrying that change, so a commit landing from elsewhere while this one failed is never answered as this one.",
+      statement: "A commit answered for a change is a commit carrying that change.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a commit carries is read from its tree, never from a diff, because a diff answers that a path git does not track is no difference at all.",
+      statement: "What a commit carries is read from its tree, never from a diff.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that could not be staged refuses the change, because a path git does not know is one the commit would leave out while answering as though it carried it.",
+      statement: "A path that could not be staged refuses the change.",
     },
     {
       invariantKind: "departure",
