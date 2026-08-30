@@ -26,7 +26,6 @@ export const page = {
   ],
   partSlugs: [
     "domain/page-edge",
-    "number-property/seq",
     "relation-property/page-type-slug",
     "text-property/cover",
     "text-property/id",
@@ -49,11 +48,6 @@ export const page = {
       invariantKind: "departure",
       statement:
         "A page's identity is a uuid version 7, unchanged when its path, slug or title changes.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page carries `seq` only where its page type counts, so the property stands here as one a page may have rather than one every page has.",
     },
     {
       invariantKind: "departure",

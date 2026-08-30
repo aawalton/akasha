@@ -1,6 +1,6 @@
 import type { RelationProperty } from "../../relation-property/relation-property.page-type.ts"
 
-export type Generator = "uuid-v7" | "next-seq"
+export type Generator = "uuid-v7"
 
 export const generator = {
   id: "01a04f17-5b7b-7835-87db-af7b36e912b5",
