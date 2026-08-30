@@ -110,14 +110,6 @@ export const persona = {
   ],
   invariants: [
     {
-      invariantKind: "stopgap",
-      statement: "This states only some of what a persona holds.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "The old persona stands until every property is reviewed and moved.",
-    },
-    {
       invariantKind: "departure",
       statement: "A persona stands alone in a folder, her portrait being a file beside her page.",
     },
