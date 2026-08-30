@@ -5,5 +5,11 @@ export const personSystem = {
   pageTypeSlug: "domain",
   slug: "person-system",
   definition: "a human this system reaches, and what serving them takes",
-  partSlugs: ["page-type/person", "page-type/person-access", "page-type/person-authority"],
+  partSlugs: [
+    "page-type/access-kind",
+    "page-type/authority-kind",
+    "page-type/person",
+    "page-type/person-access",
+    "page-type/person-authority",
+  ],
 } as const satisfies Domain
