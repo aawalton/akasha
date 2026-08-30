@@ -7,7 +7,7 @@ import {
   schemaFiled,
   standingFiled,
 } from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { type Carried, propertiesOf } from "./page-type-properties.module.code.ts"
+import { type Carried, declarationsOf, propertiesOf } from "./page-type-properties.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -44,6 +44,10 @@ function propertied(
 
 function carriedBy(root: string, slug: string): readonly Carried[] {
   return propertiesOf(slug, root, (path) => valueAt(path, root))
+}
+
+function declaredIn(root: string, slug: string): readonly Carried[] {
+  return declarationsOf(slug, root, (path) => valueAt(path, root))
 }
 
 function rootAt(): string {
@@ -180,4 +184,62 @@ test("a page type the index does not name is answered with nothing rather than b
   const root = rootAt()
 
   expect(carriedBy(root, "nowhere")).toEqual([])
+})
+
+test("every declaration is answered, the shadowed one standing beside the one that binds", () => {
+  const root = rootAt()
+  propertied(root, "record-property", "properties", "properties")
+  typed(root, "domain", null, [
+    { pagePropertySlug: "properties", required: false, many: true, max: null },
+  ])
+  typed(root, "page-type", "domain", [
+    { pagePropertySlug: "properties", required: true, many: true, max: 20 },
+  ])
+
+  expect(declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.max])).toEqual([
+    ["page-type", "properties", 20],
+    ["domain", "properties", null],
+  ])
+})
+
+test("a shadowed declaration keeps the required it states, not the one that binds", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  typed(root, "domain", null, [{ pagePropertySlug: "definition", required: false, many: false }])
+  typed(root, "page-type", "domain", [
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+  ])
+
+  expect(declaredIn(root, "page-type").map((one) => one.required)).toEqual([true, false])
+})
+
+test("a declaration reaching no page property is left out of the declarations as well", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "plural-slug", "plural-slug")
+  typed(root, "page-type", null, [
+    { pagePropertySlug: "plural-slug", required: true, many: false },
+    { pagePropertySlug: "nowhere", required: true, many: false },
+  ])
+
+  expect(declaredIn(root, "page-type").map((one) => one.key)).toEqual(["pluralSlug"])
+})
+
+test("what binds is the first of the declarations, and the rest are answered here alone", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "text-property", "plural-slug", "plural-slug")
+  typed(root, "page", null, [{ pagePropertySlug: "definition", required: false, many: false }])
+  typed(root, "domain", "page", [
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+  ])
+  typed(root, "page-type", "domain", [
+    { pagePropertySlug: "plural-slug", required: true, many: false },
+  ])
+
+  expect(declaredIn(root, "page-type").map((one) => one.declaredBy)).toEqual([
+    "page-type",
+    "domain",
+    "page",
+  ])
+  expect(carriedBy(root, "page-type").map((one) => one.declaredBy)).toEqual(["page-type", "domain"])
 })

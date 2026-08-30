@@ -16,6 +16,11 @@ export const pageTypeProperties = {
     {
       invariantKind: "departure",
       statement:
+        "Every declaration is answered as well as the binding one, because what a restatement narrows cannot be read from the binding alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A property is keyed by what its own page states, never by the slug the declaration reaches it with.",
     },
     {

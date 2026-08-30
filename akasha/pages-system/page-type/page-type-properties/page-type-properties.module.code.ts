@@ -29,6 +29,10 @@ export type Carried = {
   readonly uncommitted: boolean
 }
 
+export function identityOf(one: Carried): string {
+  return `${one.pageTypeSlug}/${one.pagePropertySlug}`
+}
+
 function pageAt(
   given: string | Reading,
   pageTypeSlug: string,
@@ -40,13 +44,12 @@ function pageAt(
   return one === undefined ? null : pageOf(one.path)
 }
 
-export function propertiesOf(
+export function declarationsOf(
   pageTypeSlug: string,
   given: string | Reading,
   pageOf: (path: string) => Value | null
 ): readonly Carried[] {
   const carried: Carried[] = []
-  const bound = new Set<string>()
   const walked = new Set<string>()
   let here: string | null = pageTypeSlug
   while (here !== null && !walked.has(here)) {
@@ -66,9 +69,6 @@ export function propertiesOf(
       if ("refused" in filed) continue
       const { pageTypeSlug: shape, propertySlug } = filed.schema
       if (propertySlug === null) continue
-      const identity = `${shape}/${bare}`
-      if (bound.has(identity)) continue
-      bound.add(identity)
       carried.push({
         pagePropertySlug: bare,
         pageTypeSlug: shape,
@@ -84,6 +84,22 @@ export function propertiesOf(
     }
     const above = textAt(value, EXTENDS)
     here = above === null ? null : slugIn(above)
+  }
+  return carried
+}
+
+export function propertiesOf(
+  pageTypeSlug: string,
+  given: string | Reading,
+  pageOf: (path: string) => Value | null
+): readonly Carried[] {
+  const carried: Carried[] = []
+  const bound = new Set<string>()
+  for (const one of declarationsOf(pageTypeSlug, given, pageOf)) {
+    const identity = identityOf(one)
+    if (bound.has(identity)) continue
+    bound.add(identity)
+    carried.push(one)
   }
   return carried
 }
