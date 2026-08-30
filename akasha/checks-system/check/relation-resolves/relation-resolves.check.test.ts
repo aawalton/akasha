@@ -279,21 +279,21 @@ function reaching(root: string, stated: string): readonly Judged[] {
   return relationResolves(over(root, [A], note(stated)))
 }
 
-const refusing = [{ path: A, reason: REACHED_MORTAL }]
+const REFUSING = [{ path: A, reason: REACHED_MORTAL }]
 
 test("a target that is not mortal is refused for the mortal page the name reaches", () => {
   const root = rooted()
   standing(root, S, S_ID, "spark", "s")
-  expect(reaching(root, ', domainSlug: "spark/s"')).toEqual(refusing)
-  expect(reaching(root, ', domainSlug: "s"')).toEqual(refusing)
-  expect(reaching(root, `, domainSlug: "${S_ID}"`)).toEqual(refusing)
+  expect(reaching(root, ', domainSlug: "spark/s"')).toEqual(REFUSING)
+  expect(reaching(root, ', domainSlug: "s"')).toEqual(REFUSING)
+  expect(reaching(root, `, domainSlug: "${S_ID}"`)).toEqual(REFUSING)
   expect(reaching(root, ', domainSlug: "domain/d"')).toEqual([])
 })
 
 test("a mortal page the change itself carries is read for its page type too", () => {
   const root = rooted()
   const bodies = { ...note(', domainSlug: "spark/s"'), [S]: stating(S_ID, "s", "spark") }
-  expect(relationResolves(over(root, [A, S], bodies))).toEqual(refusing)
+  expect(relationResolves(over(root, [A, S], bodies))).toEqual(REFUSING)
 })
 
 test("every name a property carries many of reaching a mortal page is refused, one refusal each", () => {

@@ -1,11 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { landing, NO_BYTES, pathFor } from "../../check-scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const INDEX = join(".git", "data", "index")
 
@@ -15,11 +14,9 @@ const TWO = "01a04f76-7430-7002-8000-000000000002"
 
 const THREE = "01a04f76-7430-7003-8000-000000000003"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function schemad(root: string, propertySlug: string, unique: string | null): undefined {
   const dir = join(root, INDEX, "schema", "page-property", "slug")
@@ -36,8 +33,7 @@ function typed(root: string, pageTypeSlug: string): undefined {
 }
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-identifier-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-identifier-")
   schemad(root, "id", "always")
   schemad(root, "slug", "page-type")
   typed(root, "check")

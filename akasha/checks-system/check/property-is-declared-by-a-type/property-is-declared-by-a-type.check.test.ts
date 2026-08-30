@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   declaring,
   edging,
@@ -9,6 +8,7 @@ import {
   landing,
   NO_BYTES,
   pathFor,
+  put,
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
@@ -16,8 +16,6 @@ import {
   propertyIsDeclaredByAType,
   propertyNamedIn,
 } from "./property-is-declared-by-a-type.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 
@@ -29,11 +27,9 @@ const NEW = "01a04ef8-1a07-7004-8000-000000000004"
 
 const UP_AT = "akasha/up.page-type.ts"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function body(kind: string, slug: string, id: string, declares?: readonly string[]): Uint8Array {
   const said =
@@ -46,14 +42,8 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
   )
 }
 
-function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
-  writeFileSync(join(root, path), bytes)
-  return bytes
-}
-
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-declared-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-declared-")
   typed(root, "domain", "page")
   typed(root, "page-property", "domain")
   typed(root, "relation-property", "page-property")

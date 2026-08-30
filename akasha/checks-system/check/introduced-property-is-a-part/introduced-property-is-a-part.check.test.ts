@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
@@ -9,15 +10,11 @@ import {
   typeNamedIn,
 } from "./introduced-property-is-a-part.check.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
-
 const INDEX = join(".git", "data", "index")
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function pathFor(slug: string): string {
   return `akasha/${slug}.page-type.ts`
@@ -61,8 +58,7 @@ function standing(
 }
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-introduced-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-introduced-")
   schemad(root, "id", "always")
   schemad(root, "slug", "page-type")
   return root

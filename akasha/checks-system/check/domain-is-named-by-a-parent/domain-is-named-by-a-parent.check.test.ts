@@ -1,6 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   declaring,
   edging,
@@ -9,12 +8,11 @@ import {
   landing,
   NO_BYTES,
   pathFor,
+  put,
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import { domainIsNamedByAParent, domainNamedIn } from "./domain-is-named-by-a-parent.check.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
@@ -26,15 +24,12 @@ const NEW = "01a04d5f-c731-7004-8000-000000000004"
 
 const UP_AT = "akasha/up.domain.ts"
 
-const held: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-parented-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-parented-")
   typed(root, "domain", "page")
   identifying(root)
   declaring(root, "part-slugs", { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" })
@@ -47,11 +42,6 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
   )
-}
-
-function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
-  writeFileSync(join(root, path), bytes)
-  return bytes
 }
 
 test("a page the index says some page names among its parts is let through", () => {

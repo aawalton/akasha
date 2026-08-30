@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   identifying,
   landing,
@@ -13,15 +14,11 @@ import {
   countingIsWhole,
 } from "./counting-is-whole.check.code.ts"
 
-const SCRATCH_AT = "/var/tmp"
-
 const TYPE = "page-type"
 
-const kept: string[] = []
+const scratch = scratchWorld()
 
-afterAll(() => {
-  for (const one of kept) rmSync(one, { recursive: true, force: true })
-})
+afterAll(scratch.sweep)
 
 function stated(
   slug: string,
@@ -60,8 +57,7 @@ function typing(
 }
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-counting-"))
-  kept.push(root)
+  const root = scratch.rootFor("akasha-counting-")
   identifying(root)
   return root
 }

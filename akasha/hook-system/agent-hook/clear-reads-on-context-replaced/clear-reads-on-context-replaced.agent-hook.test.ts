@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { READS_AT, SUBAGENT_MARK } from "../../../command-system/reading/reading.module.code.ts"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   agentIn,
   cleared,
@@ -13,8 +14,6 @@ import {
   sourceIn,
   underSeat,
 } from "./clear-reads-on-context-replaced.agent-hook.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
 
@@ -30,10 +29,11 @@ const REPLACING: readonly string[] = ["startup", "clear", "compact"]
 
 const STANDING: readonly string[] = ["resume", "", "other", "Startup", "compaction", "session"]
 
-const held: string[] = []
+const scratch = scratchWorld()
 
 afterAll(() => {
-  for (const one of held) rmSync(one, { recursive: true, force: true })
+  for (const one of [ONE, TWO]) rmSync(recordAt(HERE, one), { recursive: true, force: true })
+  scratch.sweep()
 })
 
 function readingAt(root: string, agentId: string): string {
@@ -41,8 +41,7 @@ function readingAt(root: string, agentId: string): string {
 }
 
 function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-clearing-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-clearing-")
   for (const one of [ONE, TWO]) {
     const at = readingAt(root, one)
     mkdirSync(join(at, ".."), { recursive: true })
@@ -52,14 +51,11 @@ function rooted(): string {
 }
 
 function bare(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-clearing-"))
-  held.push(root)
-  return root
+  return scratch.rootFor("akasha-clearing-")
 }
 
 function planted(agentId: string): string {
   const at = readingAt(HERE, agentId)
-  held.push(recordAt(HERE, agentId))
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, `{"path":"akasha/a.ts","oid":"${agentId}","seenAt":1}\n`)
   return at
@@ -130,8 +126,7 @@ const UNDER_TWO = `${TWO}${SUBAGENT_MARK}subc`
 const SEATED: readonly string[] = [ONE, ...UNDER_ONE, TWO, UNDER_TWO]
 
 function seated(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-clearing-"))
-  held.push(root)
+  const root = scratch.rootFor("akasha-clearing-")
   for (const one of SEATED) {
     const at = readingAt(root, one)
     mkdirSync(join(at, ".."), { recursive: true })

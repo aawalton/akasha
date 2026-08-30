@@ -35,6 +35,11 @@ export function pathFor(kind: string, slug: string): string {
   return `akasha/${slug}.${kind}.ts`
 }
 
+export function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
+  writeFileSync(join(root, path), bytes)
+  return bytes
+}
+
 function filed(root: string, under: string, name: string, line: unknown): undefined {
   const dir = join(root, under)
   mkdirSync(dir, { recursive: true })
