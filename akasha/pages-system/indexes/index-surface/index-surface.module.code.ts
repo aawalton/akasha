@@ -57,26 +57,32 @@ function aboveOf(at: string): { readonly dir: string; readonly name: string } {
   return cut < 0 ? { dir: "", name: at } : { dir: at.slice(0, cut), name: at.slice(cut + 1) }
 }
 
-function noteUp(held: Map<string, Map<string, boolean>>, at: string): undefined {
+type Noted = {
+  readonly dir: string
+  readonly name: string
+  readonly directory: boolean
+}
+
+function notedUp(at: string): readonly Noted[] {
+  const found: Noted[] = []
   let here = at
   let directory = false
   for (;;) {
     const { dir, name } = aboveOf(here)
-    const found = held.get(dir) ?? new Map<string, boolean>()
-    found.set(name, directory)
-    held.set(dir, found)
-    if (dir === "") return
+    found.push({ dir, name, directory })
+    if (dir === "") return found
     here = dir
     directory = true
   }
 }
 
-function markUp(held: Set<string>, at: string): undefined {
+function markedUp(at: string): readonly string[] {
+  const found: string[] = []
   let here = at
   for (;;) {
     const { dir } = aboveOf(here)
-    held.add(dir)
-    if (dir === "") return
+    found.push(dir)
+    if (dir === "") return found
     here = dir
   }
 }
@@ -99,13 +105,21 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
 
   const standing = new Set<string>()
   const emptied = new Set<string>()
-  for (const [at, lines] of held) (lines.length === 0 ? emptied : standing).add(at)
+  for (const [at, lines] of held) {
+    if (lines.length === 0) emptied.add(at)
+    else standing.add(at)
+  }
 
-  const added = new Map<string, Map<string, boolean>>()
-  for (const at of standing) noteUp(added, at)
+  const added = new Map(
+    [...Map.groupBy([...standing].flatMap(notedUp), (one) => one.dir)].map(
+      ([dir, noted]): readonly [string, ReadonlyMap<string, boolean>] => [
+        dir,
+        new Map(noted.map((one): readonly [string, boolean] => [one.name, one.directory])),
+      ]
+    )
+  )
 
-  const thinned = new Set<string>()
-  for (const at of emptied) markUp(thinned, at)
+  const thinned = new Set([...emptied].flatMap(markedUp))
 
   const stands = (at: string): boolean => {
     if (standing.has(at)) return true
