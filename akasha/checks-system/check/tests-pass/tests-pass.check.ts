@@ -61,7 +61,7 @@ export const testsPass = {
     {
       invariantKind: "gap",
       statement:
-        "A change breaking a test standing beside another file passes on patch, and audit is what finds it.",
+        "No test runs at patch, so a change breaking one lands, and audit is what finds it.",
     },
     {
       invariantKind: "gap",
