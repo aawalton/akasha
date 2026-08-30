@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { saidBy, whyOf } from "./fault-saying.module.code.ts"
+import { oneLine, saidBy, whyOf } from "./fault-saying.module.code.ts"
 
 test("an Error says its message and nothing about its kind", () => {
   expect(saidBy(new Error("it would not load"))).toBe("it would not load")
@@ -27,4 +27,9 @@ test("a fault too long to carry is cut, and says it was cut", () => {
   const said = whyOf(new Error("held ".repeat(200)))
   expect(said).toEndWith("...")
   expect(said.length).toBe(240)
+})
+
+test("what was never thrown is said in one line too, so a reason a commit carries is shaped here", () => {
+  expect(oneLine("  a b\n  c  ")).toBe("a b c")
+  expect(oneLine("held ".repeat(200)).length).toBe(240)
 })

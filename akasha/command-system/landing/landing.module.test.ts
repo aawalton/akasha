@@ -13,7 +13,6 @@ import {
   landing,
   leavingOf,
   NO_GATE,
-  oneLine,
   readingEnded,
 } from "./landing.module.code.ts"
 import {
@@ -306,14 +305,6 @@ test("a gate that could not be built judges nothing rather than passing everythi
   expect(
     NO_GATE.over({ root: "/nowhere", changed: ["one.txt"], at: () => null, was: () => null })
   ).toEqual([])
-})
-
-test("why a gate could not be built is carried as one line a commit trailer can hold", () => {
-  expect(oneLine("  Expected identifier\n  but found end of file  ")).toBe(
-    "Expected identifier but found end of file"
-  )
-  expect(oneLine("held ".repeat(200))).toEndWith("...")
-  expect(oneLine("held ".repeat(200)).length).toBe(240)
 })
 
 test("a change read against a commit that moved a path it carries is refused unwritten", () => {

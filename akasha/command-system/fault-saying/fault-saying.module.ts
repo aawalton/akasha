@@ -19,6 +19,11 @@ export const faultSaying = {
         "What is said whole and what is said in one line stand apart, because a refusal carries the short one and a caller keeping the fault wants the whole.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Shaping a line stands apart from reading a thrown thing, so a reason worked out rather than thrown is carried by the same rule.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here decides that a fault refuses anything, or with what code. A caller catching one says what it means, and this only says what it said.",

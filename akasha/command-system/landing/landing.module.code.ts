@@ -16,6 +16,7 @@ import { textIn, textOf } from "../../code-system/body-text/body-text.module.cod
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Indexing } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { committed, gitIn } from "../committing/committing.module.code.ts"
+import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -57,8 +58,6 @@ const INDEXING = join(HERE, INDEXING_AT)
 
 const PATCH = "patch"
 
-const SAID_AT_MOST = 240
-
 const CAT_FILE = "akasha-cat-file-"
 
 const SAYING = "saying"
@@ -93,11 +92,6 @@ type Checking = {
   readonly checksIn: (root: string) => readonly unknown[]
   readonly checksAt: (every: readonly unknown[], phase: string) => readonly unknown[]
   readonly judgingBy: (every: readonly unknown[]) => Judging
-}
-
-export function oneLine(said: string): string {
-  const held = said.replace(/\s+/g, " ").trim()
-  return held.length <= SAID_AT_MOST ? held : `${held.slice(0, SAID_AT_MOST - 3)}...`
 }
 
 function checkingLoaded(): Checking {

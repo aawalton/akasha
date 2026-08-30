@@ -13,8 +13,7 @@ import type {
 } from "../../../checks-system/judging/judging.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { oneLine } from "../../landing/landing.module.code.ts"
+import { oneLine, whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
