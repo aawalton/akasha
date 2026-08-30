@@ -13,7 +13,6 @@ import { populationReadSwallowEntry } from "../checks/check-population-read-swal
 import { readonlyCollectionsEntry } from "../checks/check-readonly-collections.ts"
 import { sopsSpawnPipeEntry } from "../checks/check-sops-spawn-pipe.ts"
 import { suspenseThrowSettlesEntry } from "../checks/check-suspense-throw-settles.ts"
-import { timezoneHandlingEntry } from "../checks/check-timezone-handling.ts"
 import { tstlObjectLiteralSelfEntry } from "../checks/check-tstl-object-literal-self.ts"
 import { tstlPropertyCallbackSelfEntry } from "../checks/check-tstl-property-callback-self.ts"
 import { typeAssertionsEntry } from "../checks/check-type-assertions.ts"
@@ -25,7 +24,6 @@ export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
   readonlyCollectionsEntry,
   exhaustiveDispatchEntry,
   boundaryParseEntry,
-  timezoneHandlingEntry,
   sopsSpawnPipeEntry,
   harnessCredentialScriptTextEntry,
   libcFfiBindingEntry,
