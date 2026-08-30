@@ -25,12 +25,11 @@ export const remove = {
     {
       invariantKind: "departure",
       statement:
-        "A path is read against the repository root and never against the folder the call was made in, so what is typed means the same wherever it is typed.",
+        "A path is read against the repository root and never against the folder the call was made in.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that is not there is already gone rather than refused, so naming it again takes nothing away and asks for nothing.",
+      statement: "A path that is not there is already gone rather than refused.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +76,7 @@ export const remove = {
     {
       invariantKind: "departure",
       statement:
-        "A path is named behind `--file-path`, as `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
+        "A path is named behind `--file-path`, like `write` and `edit` name theirs, and a path standing on its own is refused rather than read as one.",
     },
     {
       invariantKind: "gap",
