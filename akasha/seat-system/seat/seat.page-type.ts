@@ -2,6 +2,7 @@ import type { PersonaSlug } from "../../domain-system/initiative/properties/pers
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
+import type { InitiativeSlug } from "./properties/initiative-slug.relation-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
@@ -16,6 +17,7 @@ export type Seat = Page & {
   startMode: StartMode
   onCall: OnCall
   registrationAccount: RegistrationAccount
+  initiativeSlug?: InitiativeSlug
 }
 
 export const seat = {
@@ -42,6 +44,7 @@ export const seat = {
     "record-property/proxy",
     "record-property/request",
     "record-property/turn-pending",
+    "relation-property/initiative-slug",
     "relation-property/person-slug",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
@@ -63,6 +66,7 @@ export const seat = {
     { pagePropertySlug: "start-mode", required: true, many: false },
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },
+    { pagePropertySlug: "initiative-slug", required: false, many: false },
     {
       pagePropertySlug: "claude-code-session-uuid",
       required: false,
