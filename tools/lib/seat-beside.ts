@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
+  removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import {
@@ -52,6 +53,17 @@ const RESUMED = "resume"
 
 const PENDING = "turn-pending"
 
+// The records akasha declares of a seat, and the name each stands under there. A record is carried
+// whole, so it is named here rather than in `CARRIED`, whose entries are single values.
+//
+// THIS IS THE WHOLE TEST, so a record absent from it reaches the old store alone rather than being
+// dropped by a condition written for one key. `turn-working` is absent because akasha declares no
+// such property, and writing it there would land under a name nothing checks: it is carried by
+// adding the property first and a line here second.
+const RECORDS: Readonly<Record<string, string>> = {
+  [PENDING]: "turnPending",
+}
+
 function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
   const rec = held as Record<string, unknown>
@@ -85,8 +97,9 @@ function carriedFrom(values: Beside): Beside | null {
   const held: Beside = {}
   let any = false
   for (const [key, value] of Object.entries(values)) {
-    if (key === PENDING) {
-      held["turnPending"] = value
+    const record = RECORDS[key]
+    if (record !== undefined) {
+      held[record] = value
       any = true
       continue
     }
@@ -142,10 +155,10 @@ export function keepBeside(page: string, values: Beside): void {
 
 export function keepBesideUnder(page: string, key: string, values: Beside): void {
   patchUncommittedUnder(page, key, values)
-  if (key !== PENDING) return
+  if (RECORDS[key] === undefined) return
   const under: Beside = {}
   for (const [name, value] of Object.entries(values)) under[camel(name)] = bare(value)
-  alsoInAkasha(page, { [PENDING]: under })
+  alsoInAkasha(page, { [key]: under })
 }
 
 export function dropBeside(page: string, keys: readonly string[]): void {
@@ -168,8 +181,24 @@ export function dropBeside(page: string, keys: readonly string[]): void {
   }
 }
 
+// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE, IN BOTH SYSTEMS. A sidecar outliving its page is
+// what the outage was made of: the old page went, the values beside it stayed, and every reader
+// reached them only through the page that was no longer there. Akasha states the same rule of
+// itself — the gate refuses a file no page claims — so leaving its sidecar behind builds the same
+// orphan on the other side.
+//
+// The seat is named rather than the page looked up, so this does not turn on whether the akasha
+// page has already gone. Its two callers take the pages away in opposite orders.
 export function removeBeside(page: string): void {
   removeUncommitted(page)
+  try {
+    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(pageStemOf(page)))
+  } catch (thrown) {
+    process.stderr.write(
+      `what was observed of ${pageStemOf(page)} is gone, and what was observed of it in akasha stands: ` +
+        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
+    )
+  }
 }
 
 export const besideForTests = { carriedFrom }
