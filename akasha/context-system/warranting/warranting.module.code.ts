@@ -185,22 +185,6 @@ export function warrantsIn(
   return gatheredAt(gatheredIn(root), when).flatMap((one) => one.warranting(root, path, knowing))
 }
 
-function walkingBy(
-  root: string,
-  one: Gathered,
-  path: string,
-  knowing: Knowing,
-  walked: Set<string>,
-  taking: (said: string) => undefined
-): undefined {
-  if (walked.has(path)) return
-  walked.add(path)
-  for (const warrant of one.warranting(root, path, knowing)) {
-    taking(warrant.path)
-    if (one.transitive) walkingBy(root, one, warrant.path, knowing, walked, taking)
-  }
-}
-
 export function warrantedIn(root: string, paths: readonly string[]): readonly string[] {
   const said: string[] = []
   const held = new Set<string>()
@@ -212,17 +196,21 @@ export function warrantedIn(root: string, paths: readonly string[]): readonly st
   try {
     const every = gatheredAt(gatheredIn(root), "read")
     const knowing = knowingIn(root)
-    const walked = new Map<string, Set<string>>()
+    const walking = every.map((one) => {
+      const walked = new Set<string>()
+      const walk = (path: string): undefined => {
+        if (walked.has(path)) return
+        walked.add(path)
+        for (const warrant of one.warranting(root, path, knowing)) {
+          taking(warrant.path)
+          if (one.transitive) walk(warrant.path)
+        }
+      }
+      return walk
+    })
     for (const path of paths) {
       taking(path)
-      for (const one of every) {
-        let standing = walked.get(one.slug)
-        if (standing === undefined) {
-          standing = new Set<string>()
-          walked.set(one.slug, standing)
-        }
-        walkingBy(root, one, path, knowing, standing, taking)
-      }
+      for (const walk of walking) walk(path)
     }
   } catch {
     return [...paths]
