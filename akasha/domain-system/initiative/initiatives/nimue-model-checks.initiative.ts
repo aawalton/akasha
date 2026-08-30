@@ -25,6 +25,11 @@ export const nimueModelChecks = {
     {
       invariantKind: "gap",
       statement:
+        "The shadow answers what a change makes unique and stops making unique, so a check reading it sees the identifiers that change would leave.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
         "A value minted into a change is worked out from the index that change would leave, so a page of a type the same change introduces is minted like any other.",
     },
     {
