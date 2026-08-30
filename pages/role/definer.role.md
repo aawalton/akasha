@@ -9,14 +9,6 @@ required-reading-slugs:
   - domain/domain-shape
   - domain/domain-directive
   - domain/domain-dictionary
-conditional-reading-slugs:
-  - file-finding
-  - run-naming-exercise
-  - define-definition
-  - define-domain-structure
-  - define-initiative
-  - review-initiative
-  - verify-handback
 ---
 
 # Definition

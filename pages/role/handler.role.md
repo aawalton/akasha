@@ -4,8 +4,6 @@ page-type-slug: role
 title: "Handler"
 slug: handler
 domain-parent-slug: page-type/role
-conditional-reading-slugs:
-  - handle-inbound
 on-call: true
 ---
 

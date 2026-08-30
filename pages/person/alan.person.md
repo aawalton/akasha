@@ -9,9 +9,6 @@ account-user-id: "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 phone: "+16085122510"
 required-reading-slugs:
   - domain/alan-harness-agents-interaction
-conditional-reading-slugs:
-  - change-email-rules
-  - change-category-rules
 ---
 
 # Definition

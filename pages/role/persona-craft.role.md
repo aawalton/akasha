@@ -6,9 +6,6 @@ slug: persona-craft
 domain-parent-slug: page-type/role
 required-reading-slugs:
   - page-type/persona
-conditional-reading-slugs:
-  - create-persona-voice
-  - describe-persona-appearance
 ---
 
 # Definition

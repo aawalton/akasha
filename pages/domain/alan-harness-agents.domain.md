@@ -4,9 +4,6 @@ page-type-slug: domain
 title: "Alan harness agents"
 slug: alan-harness-agents
 domain-parent-slug: domain/alan-harness-tools
-conditional-reading-slugs:
-  - guided-close-read
-  - capture-time-tracking
 settled: true
 ---
 

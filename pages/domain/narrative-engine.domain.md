@@ -5,8 +5,6 @@ title: "Narrative engine"
 slug: narrative-engine
 domain-parent-slug: domain/internal-products
 persona-champion-slug: awen
-conditional-reading-slugs:
-  - read-world-mechanic-name
 ---
 
 # Definition

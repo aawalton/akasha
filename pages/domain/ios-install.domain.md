@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "iOS install"
 slug: ios-install
 domain-parent-slug: domain/change-harness-device
-conditional-reading-slugs:
-  - ship-install
 ---
 
 # Definition

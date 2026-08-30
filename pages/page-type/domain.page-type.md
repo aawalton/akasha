@@ -18,9 +18,6 @@ required-reading-slugs:
   - domain/domain-invariant
   - domain/domain-directive
   - domain/required-reading
-conditional-reading-slugs:
-  - define-definition
-  - define-domain-structure
 settled: true
 ---
 

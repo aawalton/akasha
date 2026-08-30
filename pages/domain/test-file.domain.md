@@ -8,8 +8,6 @@ required-reading-slugs:
   - domain/test
   - domain/file-naming-tests
   - domain/file-arrangement-tests
-conditional-reading-slugs:
-  - review-tests
 ---
 
 # Definition

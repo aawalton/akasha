@@ -7,8 +7,6 @@ domain-parent-slug: domain/coding
 required-reading-slugs:
   - domain/file-structure
   - domain/generated-file
-conditional-reading-slugs:
-  - split-file
 settled: true
 ---
 

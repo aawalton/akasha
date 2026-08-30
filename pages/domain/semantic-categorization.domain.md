@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Semantic categorization"
 slug: semantic-categorization
 domain-parent-slug: domain/automatic-categorization
-conditional-reading-slugs:
-  - review-by-direction
 ---
 
 # Definition

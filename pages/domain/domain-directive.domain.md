@@ -8,8 +8,6 @@ required-reading-slugs:
   - page-body-section/domain-principle
   - page-body-section/domain-rule
   - page-body-shape/domain
-conditional-reading-slugs:
-  - define-directive
 settled: true
 ---
 

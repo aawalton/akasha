@@ -9,9 +9,6 @@ slug: initiative
 plural-slug: initiatives
 domain-parent-slug: domain/work-system
 named-for: "{slug}"
-conditional-reading-slugs:
-  - define-initiative
-  - review-initiative
 settled: true
 mortal: true
 ---

@@ -8,8 +8,6 @@ required-reading-slugs:
   - page-type/book
   - domain/internal-products
 persona-champion-slug: abby
-conditional-reading-slugs:
-  - extract-topics
 ---
 
 # Definition

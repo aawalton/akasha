@@ -4,8 +4,6 @@ page-type-slug: role
 title: "Scenewright"
 slug: scenewright
 domain-parent-slug: page-type/role
-conditional-reading-slugs:
-  - author-persona-scene
 ---
 
 # Definition

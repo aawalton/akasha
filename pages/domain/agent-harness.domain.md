@@ -9,8 +9,6 @@ sequence-slugs:
   - domain/agent-definitions
   - domain/agent-runtime
   - domain/agent-tools
-conditional-reading-slugs:
-  - resolve-agent-case
 settled: true
 ---
 
