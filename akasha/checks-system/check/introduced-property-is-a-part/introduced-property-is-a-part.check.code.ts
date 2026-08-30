@@ -118,7 +118,8 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
 }
 
 export function introducedPropertyIsAPart(leaving: Leaving, shadow: Shadow): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(leaving.root))
+  if (!leaving.changed.some((path) => typeNamedIn(path) !== null)) return []
+  const carried = carriedBy(leaving, pageTypesIn(shadow.reading))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
   const read = readingIn(leaving, shadow)
   const standing = everyType(shadow, carried)
