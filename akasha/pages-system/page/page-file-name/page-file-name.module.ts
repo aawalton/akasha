@@ -55,6 +55,24 @@ export const pageFileName = {
       statement: "A file carrying the tail `uncommitted` is never a property's file nor a page.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The tail `sops` is reserved. A file carrying it holds the secret values of the page it stands beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file carrying the tail `sops` is never a property's file nor a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One sops file holds every secret a page carries, keyed inside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page's sops file is what it already stands under, so a page moving in keeps its name.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one whether or not that page stands.",

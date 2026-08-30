@@ -4,6 +4,8 @@ import {
   heldIn,
   namedIn,
   pageNamed,
+  secretAt,
+  secretNamed,
   uncommittedAt,
   uncommittedNamed,
 } from "./page-file-name.module.code.ts"
@@ -183,4 +185,53 @@ test("a name tailed `uncommitted` is answered as one, and a page or property fil
   expect(uncommittedNamed("akasha/one/file-length.check.uncommitted.ts")).toBe(true)
   expect(uncommittedNamed("akasha/one/file-length.check.ts")).toBe(false)
   expect(uncommittedNamed("akasha/one/file-length.check.code.ts")).toBe(false)
+})
+
+test("a file tailed `sops` is held as its page's secret values, not as a property", () => {
+  expect(heldIn("akasha/one/aine.claude-account.sops.yaml", PAGE_TYPES, FILE_PROPERTIES)).toEqual({
+    path: "akasha/one/aine.claude-account.sops.yaml",
+    kind: "secret",
+    slug: null,
+    pageTypeSlug: null,
+    page: "aine.claude-account",
+    propertySlug: null,
+  })
+})
+
+test("the tail `sops` is reserved, so the sets handed in cannot make it a property or a page", () => {
+  const held = heldIn(
+    "akasha/one/aine.claude-account.sops.yaml",
+    PAGE_TYPES,
+    new Set(["code", "sops"])
+  )
+  expect(held.kind).toBe("secret")
+  expect(held.propertySlug).toBeNull()
+  expect(pageNamed("akasha/one/held.sops.ts", new Set(["sops"]))).toBe(false)
+})
+
+test("a sops file stands beside its page, and heldIn takes that name apart again", () => {
+  const page = "akasha/one/aine.claude-account.ts"
+  const beside = secretAt(page)
+  expect(beside).toBe("akasha/one/aine.claude-account.sops.yaml")
+  if (beside === null) throw new Error("expected a name beside the page")
+  expect(heldIn(beside, PAGE_TYPES, FILE_PROPERTIES).page).toBe("aine.claude-account")
+})
+
+test("a path that is no TypeScript file carries no sops file", () => {
+  expect(secretAt("akasha/one/notes.txt")).toBeNull()
+})
+
+test("a name tailed `sops` is answered as one, and a page or property or uncommitted file is not", () => {
+  expect(secretNamed("akasha/one/aine.claude-account.sops.yaml")).toBe(true)
+  expect(secretNamed("akasha/one/aine.claude-account.ts")).toBe(false)
+  expect(secretNamed("akasha/one/file-length.check.code.ts")).toBe(false)
+  expect(secretNamed("akasha/one/file-length.check.uncommitted.ts")).toBe(false)
+})
+
+test("the uncommitted file and the sops file stand beside one page and are told apart", () => {
+  const page = "akasha/one/aine.claude-account.ts"
+  expect(uncommittedNamed(uncommittedAt(page) as string)).toBe(true)
+  expect(secretNamed(uncommittedAt(page) as string)).toBe(false)
+  expect(secretNamed(secretAt(page) as string)).toBe(true)
+  expect(uncommittedNamed(secretAt(page) as string)).toBe(false)
 })

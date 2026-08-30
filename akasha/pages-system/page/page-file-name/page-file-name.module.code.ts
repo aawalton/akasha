@@ -8,13 +8,17 @@ const HELD_TS = "ts"
 
 const UNCOMMITTED = "uncommitted"
 
+const SOPS = "sops"
+
+const HELD_YAML = "yaml"
+
 export type Named = {
   readonly stem: string
   readonly tail: string
   readonly held: string
 }
 
-export type Kind = "page" | "property" | "uncommitted" | "stray"
+export type Kind = "page" | "property" | "uncommitted" | "secret" | "stray"
 
 export type Held = {
   readonly path: string
@@ -38,12 +42,20 @@ export function namedIn(path: string): Named | null {
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
   const said = namedIn(path)
   return (
-    said !== null && said.held === HELD_TS && said.tail !== UNCOMMITTED && pageTypes.has(said.tail)
+    said !== null &&
+    said.held === HELD_TS &&
+    said.tail !== UNCOMMITTED &&
+    said.tail !== SOPS &&
+    pageTypes.has(said.tail)
   )
 }
 
 export function uncommittedNamed(path: string): boolean {
   return namedIn(path)?.tail === UNCOMMITTED
+}
+
+export function secretNamed(path: string): boolean {
+  return namedIn(path)?.tail === SOPS
 }
 
 export function besideAt(path: string, propertySlug: string, held: string): string | null {
@@ -53,6 +65,10 @@ export function besideAt(path: string, propertySlug: string, held: string): stri
 
 export function uncommittedAt(path: string): string | null {
   return besideAt(path, UNCOMMITTED, HELD_TS)
+}
+
+export function secretAt(path: string): string | null {
+  return besideAt(path, SOPS, HELD_YAML)
 }
 
 export function heldIn(
@@ -68,6 +84,16 @@ export function heldIn(
     return {
       path,
       kind: "uncommitted",
+      slug: null,
+      pageTypeSlug: null,
+      page: said.stem,
+      propertySlug: null,
+    }
+  }
+  if (said.tail === SOPS) {
+    return {
+      path,
+      kind: "secret",
       slug: null,
       pageTypeSlug: null,
       page: said.stem,
