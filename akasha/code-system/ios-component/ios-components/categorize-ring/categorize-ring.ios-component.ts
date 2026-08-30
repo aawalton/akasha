@@ -8,16 +8,20 @@ export const categorizeRing = {
   swift: "swift",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "The arc is the share of the month's intake already reviewed.",
+      invariantKind: "absence",
+      statement: "The tile draws no arc.",
     },
     {
       invariantKind: "departure",
-      statement: "Where the feed sends no intake the tile has no reading at all and draws a dash.",
+      statement: "The count takes the color the feed's scale gives it.",
     },
     {
       invariantKind: "departure",
-      statement: "A color the feed's scale gives stands over the one the arc's own bands give.",
+      statement: "A count the feed sends no scale for takes the label's color.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading of nothing is drawn as the words or the emoji sent for it.",
     },
   ],
 } as const satisfies IosComponent
