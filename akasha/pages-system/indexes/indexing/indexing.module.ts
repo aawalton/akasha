@@ -51,6 +51,16 @@ export const indexing = {
       statement: "A world carrying pages and declaring no property unique is refused.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Which properties carry a `unique` is read from the schema as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change turning a property's `unique` on or off files that property for every standing page.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported, never answered as empty.",
     },

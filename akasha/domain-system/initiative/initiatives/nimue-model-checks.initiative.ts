@@ -14,10 +14,6 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The shadow answers what a change makes unique and stops making unique.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "A value minted into a change is worked out from the index that change would leave.",
     },
