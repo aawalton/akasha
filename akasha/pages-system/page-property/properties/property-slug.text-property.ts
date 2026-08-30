@@ -14,7 +14,11 @@ export const propertySlug = {
     {
       invariantKind: "departure",
       statement:
-        "A key stands alone among the properties one page type carries, counting what it inherits, where a slug stands alone among the pages of one property type.",
+        "A key stands alone among the properties one page type carries including what it inherits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug stands alone among the pages of one property type.",
     },
     {
       invariantKind: "departure",
