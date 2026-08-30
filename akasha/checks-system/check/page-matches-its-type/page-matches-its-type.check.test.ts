@@ -3,17 +3,22 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
-import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,
   pageMatchesItsType,
-  type Reading,
   reasonsIn,
   STATES_NO_PAGE_TYPE,
 } from "./page-matches-its-type.check.code.ts"
+import {
+  allLower,
+  FORMAT,
+  formatting,
+  property,
+  read,
+} from "./page-matches-its-type.check.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -31,82 +36,6 @@ function changing(root: string, bodies: Readonly<Record<string, string>>): Leavi
 
 function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
   return pageMatchesItsType(changing(scratch.rootFor("akasha-matches-"), bodies))
-}
-
-const FORMAT = "all-lower"
-
-const TYPES: Record<string, Value> = {
-  page: {
-    pageTypeSlug: "page-type",
-    slug: "page",
-    extendsSlug: null,
-    properties: [
-      { pagePropertySlug: "id", required: true, many: false },
-      { pagePropertySlug: "slug", required: true, many: false },
-    ],
-  },
-  module: {
-    pageTypeSlug: "page-type",
-    slug: "module",
-    extendsSlug: "page-type/page",
-    properties: [{ pagePropertySlug: "test", required: false, many: false }],
-  },
-  check: {
-    pageTypeSlug: "page-type",
-    slug: "check",
-    extendsSlug: "page-type/module",
-    properties: [
-      { pagePropertySlug: "test", required: true, many: false },
-      { pagePropertySlug: "aids", required: false, many: true, max: 2, total: 6 },
-    ],
-  },
-  told: {
-    pageTypeSlug: "page-type",
-    slug: "told",
-    extendsSlug: "page-type/page",
-    properties: [
-      { pagePropertySlug: "directives", required: false, many: true, max: null },
-      { pagePropertySlug: "aids", required: false, many: true, max: null },
-    ],
-  },
-  looping: {
-    pageTypeSlug: "page-type",
-    slug: "looping",
-    extendsSlug: "page-type/looping",
-    properties: [{ pagePropertySlug: "id", required: false, many: false }],
-  },
-}
-
-const PROPERTIES: Record<string, Value> = {
-  id: { pageTypeSlug: "text-property", slug: "id", max: 36 },
-  slug: { pageTypeSlug: "text-property", slug: "slug", max: 8, nameFormatSlug: FORMAT },
-  test: { pageTypeSlug: "text-property", slug: "test", max: 4 },
-  aids: { pageTypeSlug: "text-property", slug: "aids", max: 5 },
-  name: { pageTypeSlug: "text-property", slug: "name", max: 8, nameFormatSlug: FORMAT },
-  directives: {
-    pageTypeSlug: "record-property",
-    slug: "directives",
-    properties: [
-      { pagePropertySlug: "name", required: true, many: false },
-      { pagePropertySlug: "aids", required: false, many: true, max: 3, total: 6 },
-    ],
-  },
-}
-
-const read: Reading = (pageTypeSlug, slug) =>
-  pageTypeSlug === "page-type" ? (TYPES[slug] ?? null) : null
-
-const property = (slug: string): Value | null => PROPERTIES[slug] ?? null
-
-function allLower(name: string): boolean {
-  return name === name.toLowerCase()
-}
-
-function formatting(nameFormatSlug: string): Matching {
-  if (nameFormatSlug !== FORMAT) {
-    throw new Error(`no name format carries the slug \`${nameFormatSlug}\``)
-  }
-  return allLower
 }
 
 function over(value: Value, pageTypeSlug: string): readonly string[] {
@@ -410,4 +339,39 @@ test("a page stating what a page type the change puts above its own declares is 
       was: bytesFor({ [ALPHA_AT]: WAS_ALPHA }),
     })
   ).toEqual([])
+})
+
+const besideRead =
+  (uncommitted: boolean) =>
+  (pageTypeSlug: string, slug: string): Value | null =>
+    slug === "beside"
+      ? {
+          pageTypeSlug: "page-type",
+          slug: "beside",
+          extendsSlug: null,
+          properties: [{ pagePropertySlug: "test", required: true, many: false, uncommitted }],
+        }
+      : read(pageTypeSlug, slug)
+
+function beside(value: Value, uncommitted: boolean): readonly string[] {
+  return reasonsIn(
+    value,
+    declaredFor("beside", besideRead(uncommitted)),
+    property,
+    "page-type/beside",
+    formatting,
+    new Set<string>()
+  )
+}
+
+test("a required property its type declares uncommitted is not demanded, and a committed one is", () => {
+  expect(beside({}, true)).toEqual([])
+  expect(beside({}, false)).toEqual(["does not state `test`, which `page-type/beside` requires"])
+})
+
+test("a page stating a property its type declares uncommitted is refused, and a committed one is not", () => {
+  expect(beside({ test: "ts" }, true)).toEqual([
+    "states `test`, which `page-type/beside` declares uncommitted, and such a value stands beside the page rather than in it",
+  ])
+  expect(beside({ test: "ts" }, false)).toEqual([])
 })

@@ -144,7 +144,7 @@ export function reasonsIn(
 ): readonly string[] {
   const said: string[] = []
   for (const [slug, one] of declared) {
-    if (!one.required || excused.has(slug)) continue
+    if (!one.required || one.uncommitted || excused.has(slug)) continue
     const key = slug.replace(/-([a-z0-9])/g, (_, ch: string) => ch.toUpperCase())
     if (!(key in value)) said.push(`does not state \`${slug}\`, which \`${named}\` requires`)
   }
@@ -153,6 +153,12 @@ export function reasonsIn(
     const one = declared.get(slug)
     if (one === undefined) {
       said.push(`states \`${key}\`, which \`${named}\` does not declare`)
+      continue
+    }
+    if (one.uncommitted) {
+      said.push(
+        `states \`${slug}\`, which \`${named}\` declares uncommitted, and such a value stands beside the page rather than in it`
+      )
       continue
     }
     const listed = Array.isArray(held)

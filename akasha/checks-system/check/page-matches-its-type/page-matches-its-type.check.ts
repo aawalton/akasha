@@ -7,6 +7,7 @@ export const pageMatchesItsType = {
   definition: "the check refusing a page that does not carry what its page type declares",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: true,
   runsOnDeploy: true,
@@ -21,6 +22,16 @@ export const pageMatchesItsType = {
       invariantKind: "departure",
       statement:
         "A page type restating an inherited property narrows it, so the nearest declaration is the one that binds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A property its type declares uncommitted is not demanded of the page, because such a value stands in a file beside the page rather than in the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page stating a property its type declares uncommitted is refused, because the commit would otherwise carry a value declared to stand outside it.",
     },
     {
       invariantKind: "departure",
