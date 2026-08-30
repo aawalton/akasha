@@ -1,6 +1,5 @@
 
 import { keepLastMessagedAt, personaAt } from "./akasha-personas.ts"
-import { patchState } from "./page-write.ts"
 import { matchPersonaForAgent } from "./persona-match.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
 import { isAlanAuthoredPrompt } from "./prompt-shape.ts"
@@ -35,14 +34,11 @@ function stampInAkasha(root: string, slug: string, at: Date): string | null {
 }
 
 export function stampLastMessaged(slug: string): string | null {
-  const at = new Date()
-  const roots = resolveRoots()
-  patchState(roots, "persona", slug, { "last-messaged-at": at.toISOString() })
   try {
-    return stampInAkasha(rootFor(roots, AKASHA), slug, at)
+    return stampInAkasha(rootFor(resolveRoots(), AKASHA), slug, new Date())
   } catch (cause) {
     return (
-      `\`${slug}\` was stamped in the old location and not in akasha: ` +
+      `\`${slug}\` went unstamped: ` +
       `${cause instanceof Error ? cause.message : String(cause)}`
     )
   }
