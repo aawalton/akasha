@@ -30,6 +30,7 @@ export const syntaxRule = {
     "syntax-rule/no-double-cast",
     "syntax-rule/no-local-midnight-parse",
     "syntax-rule/no-sops-on-dev-stdin",
+    "syntax-rule/no-void-self-in-object-method",
   ],
   extendsSlug: "page-type/module",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
