@@ -17,8 +17,11 @@ export const shapeSaying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shape may cap how many it says, and what is left is counted rather than dropped.",
+      statement: "A shape may cap how many it says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is left is counted rather than dropped.",
     },
     {
       invariantKind: "departure",
