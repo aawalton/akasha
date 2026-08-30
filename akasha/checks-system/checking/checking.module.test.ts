@@ -28,9 +28,18 @@ import {
 
 const CHECK = "check"
 
+const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
+
+type Stands = {
+  readonly slug: string
+  readonly at: string
+}
+
+const STANDS: Stands = { slug: CHECK, at: "akasha/checks-system/check/check.page-type.ts" }
 
 function rootWith(
   named: readonly {
@@ -38,13 +47,15 @@ function rootWith(
     readonly runsOn: readonly string[]
     readonly raw?: string
     readonly body: string
-  }[]
+  }[],
+  stands: Stands = STANDS
 ): string {
   const root = scratch.rootFor("akasha-checking-")
-  noneOfTypeFiled(root, CHECK)
+  noneOfTypeFiled(root, stands.slug)
+  idFiled(root, CHECK_TYPE, [{ path: stands.at, id: CHECK_TYPE }])
   let minted = 0
   for (const one of named) {
-    const at = `akasha/checks-system/check/${one.slug}/${one.slug}.check.ts`
+    const at = `akasha/checks-system/check/${one.slug}/${one.slug}.${stands.slug}.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     writeFileSync(
       join(root, at),
@@ -62,7 +73,7 @@ function rootWith(
     minted = minted + 1
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
     const held = [{ path: at, id }]
-    standingFiled(root, CHECK, one.slug, held)
+    standingFiled(root, stands.slug, one.slug, held)
     idFiled(root, id, held)
     pathFiled(root, at, held)
     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
@@ -99,6 +110,15 @@ test("a check is found through the index rather than by walking the tree", () =>
   const found = checksIn(root)
   expect(found.map((one) => one.slug)).toEqual(["admits-all"])
   expect(found[0]?.page).toBe("akasha/checks-system/check/admits-all/admits-all.check.ts")
+})
+
+test("a check is found by the id its page type carries, whatever slug that page type stands under", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }], {
+    slug: "gate",
+    at: "akasha/gate.page-type.ts",
+  })
+  expect(checkPagesIn(root)).toEqual(["akasha/checks-system/check/admits-all/admits-all.gate.ts"])
+  expect(checksIn(root).map((one) => one.slug)).toEqual(["admits-all"])
 })
 
 test("a check is run once over the whole change, and never over the rest of the tree", () => {

@@ -20,7 +20,7 @@ test("the gate reaches the checks late, and a root carrying no check index will 
   const said = gateBuilt(root)
   expect("broken" in said).toBe(true)
   const why = "broken" in said ? said.broken : ""
-  expect(why).toContain("identity/check/slug")
+  expect(why).toContain("nothing says which pages are checks")
   expect(why).not.toContain("a gate is built from")
 })
 

@@ -5,6 +5,7 @@ import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   everyOfTypeAnswered,
   everyPathAnswered,
+  standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -32,7 +33,7 @@ export type Gathered = {
   readonly run: Running
 }
 
-const CHECK = "check"
+const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
 const CODE = "code"
 
@@ -40,8 +41,22 @@ const TS = "ts"
 
 const loadFrom = createRequire(import.meta.url)
 
+export function checkSlugIn(root: string): string {
+  const standing = standingById(root, CHECK_TYPE)
+  if (standing === null) {
+    throw new Error(
+      `no page carries the id \`${CHECK_TYPE}\`, so nothing says which pages are checks`
+    )
+  }
+  const said = namedIn(standing.path)
+  if (said === null) {
+    throw new Error(`${standing.path} carries the check page type, and its name says no slug`)
+  }
+  return said.stem
+}
+
 export function checkPagesIn(root: string): readonly string[] {
-  return [...new Set(everyOfTypeAnswered(root, CHECK).map((one) => one.path))].sort()
+  return [...new Set(everyOfTypeAnswered(root, checkSlugIn(root)).map((one) => one.path))].sort()
 }
 
 const STATED: readonly (readonly [Phase, string])[] = [
