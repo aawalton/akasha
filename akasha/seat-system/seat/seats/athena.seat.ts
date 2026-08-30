@@ -1,7 +1,7 @@
 import type { Seat } from "../seat.page-type.ts"
 
 export const athena = {
-  id: "01a054ac-5a07-7000-9202-8203b8d5b956",
+  id: "01a054b0-184a-7000-a86b-c500ebce8ea0",
   pageTypeSlug: "seat",
   slug: "athena",
   personaSlug: "athena",
