@@ -210,12 +210,12 @@ test("an index the answer needs, gone, is answered with nothing rather than refu
   expect(edgesInto(gone, TARGET_AT, [RELATION])).toEqual([])
 })
 
-test("what imports a file is read from the import index, whatever folder the edge page names", () => {
+test("an edge kind naming a folder that is not there is refused, though another folder stands", () => {
   const root = importWorld(HELD_IMPORT)
 
-  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
-  ])
+  expect(() => edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toThrow(
+    new RegExp(`${HELD_IMPORT}.*could not be answered`)
+  )
 })
 
 test("a kind no edge page carries is refused rather than answered with nothing", () => {

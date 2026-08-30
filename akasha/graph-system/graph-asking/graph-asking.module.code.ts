@@ -29,6 +29,8 @@ const INDEX_NAME = "indexName"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 
+const AT_PATH = "path"
+
 const AT_PAGE = "page"
 
 const AT_ID = "id"
@@ -36,6 +38,8 @@ const AT_ID = "id"
 const ENDING = ".jsonl"
 
 const APART = "\n"
+
+const NAMING_NONE = "an index that is missing is not an index naming no edge"
 
 const NO_ATTRIBUTES: Readonly<Record<string, string>> = {}
 
@@ -107,7 +111,17 @@ function askingFor(root: string, kind: string, asked: string): Asking {
   }
 }
 
-function importsInto(root: string, path: string, asking: Asking): readonly Edge[] {
+function importsInto(
+  root: string,
+  reading: Reading,
+  path: string,
+  asking: Asking,
+  asked: string
+): readonly Edge[] {
+  const at = indexAt(asking.indexName, AT_PATH)
+  if (!reading.holds(at)) {
+    throw new Error(`\`${at}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`)
+  }
   return importersOf(root, path).map((from) => ({
     kind: asking.kind,
     from,
@@ -176,7 +190,7 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
     const asking = askingFor(root, kind, asked)
-    if (kind === IMPORT_EDGE) found.push(...importsInto(root, path, asking))
+    if (kind === IMPORT_EDGE) found.push(...importsInto(root, reading, path, asking, asked))
     else if (kind === RELATION) found.push(...relationsInto(root, reading, path, asking, asked))
     else {
       throw new Error(
