@@ -28,7 +28,8 @@ export const graphEdge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An edge kind names the index that answers it, or the graph derives it here.",
+      statement:
+        "An edge kind names the index that answers it, the graph derives it here, or both, and one doing both says on each edge which it was.",
     },
     {
       invariantKind: "departure",
