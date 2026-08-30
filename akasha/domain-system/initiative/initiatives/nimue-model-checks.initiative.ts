@@ -19,6 +19,11 @@ export const nimueModelChecks = {
     },
     {
       invariantKind: "gap",
+      statement:
+        "The change a shadow is cast over and the change a check is shown are one shape with one home.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Which checks stand is read from the shadow, as what they judge already is.",
     },
     {
