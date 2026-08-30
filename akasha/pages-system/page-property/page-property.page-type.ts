@@ -39,7 +39,11 @@ export const pageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page property does not extend; only a page type does.",
+      statement: "A page property does not extend.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a page type does.",
     },
     {
       invariantKind: "departure",

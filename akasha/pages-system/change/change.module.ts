@@ -19,8 +19,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Audit is a change in which every file is unchanged, so `before` and `after` answer alike there and nothing reads as added or taken away.",
+      statement: "Audit is a change in which every file is unchanged.",
     },
   ],
 } as const satisfies Module

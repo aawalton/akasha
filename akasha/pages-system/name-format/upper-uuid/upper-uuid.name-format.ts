@@ -15,7 +15,11 @@ export const upperUuid = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here is written in upper uuid; a uuid is written in lower uuid.",
+      statement: "Nothing here is written in upper uuid.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A uuid is written in lower uuid.",
     },
   ],
 } as const satisfies NameFormat

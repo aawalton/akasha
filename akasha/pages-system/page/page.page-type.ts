@@ -42,7 +42,11 @@ export const page = {
     },
     {
       invariantKind: "absence",
-      statement: "A page has no body; every section is a property.",
+      statement: "A page has no body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every section is a property.",
     },
     {
       invariantKind: "departure",
