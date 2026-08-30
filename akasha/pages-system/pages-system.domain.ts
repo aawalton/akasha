@@ -24,6 +24,7 @@ export const pagesSystem = {
     "module/page-file-name",
     "module/page-export-name",
     "module/page-beside",
+    "module/page-uncommitted",
   ],
   invariants: [
     {
