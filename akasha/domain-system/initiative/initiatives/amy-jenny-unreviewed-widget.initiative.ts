@@ -30,6 +30,26 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
+      statement: "The ring a categorize tile draws is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The page describing Alan's tile is in akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Alan's site deploys from akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Alan's iOS app is built from akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Alan's unreviewed transaction iOS widget works.",
+    },
+    {
+      invariantKind: "gap",
       statement: "The relay that carries Alan's counts to Jenny's site is in akasha.",
     },
     {
@@ -38,15 +58,11 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "The ring a categorize tile draws is in akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The page describing Jenny's tile is in akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "Both sites deploy from akasha.",
+      statement: "Jenny's site deploys from akasha.",
     },
     {
       invariantKind: "gap",
@@ -58,10 +74,11 @@ export const amyJennyUnreviewedWidget = {
     },
   ],
   notes: [
-    "Jenny's tile shows Alan's Monarch counts relayed through his site, so every intent on his side comes before hers even though the tile is hers.",
+    "Jenny's tile shows Alan's Monarch counts relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
+    "Alan's path is a prefix of Jenny's, so his tile costs nothing beyond what hers already needs and is reached first.",
     "What the tile counts is already in akasha, so the stack starts at what reads that rather than at Monarch.",
     "Alan's route cannot move before what it reads has moved: the cache, the scale, the none-left words and the credential are each read by it.",
-    "The ring is drawn by one file both tiles share, so moving it serves Alan's tile as well and is not Jenny's alone.",
-    "Deploys are broken today, so the last intents are about the sites and the app being put up rather than about anything being written.",
+    "The ring is drawn by one file both tiles share, so it moves once and serves both.",
+    "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
   ],
 } as const satisfies Initiative
