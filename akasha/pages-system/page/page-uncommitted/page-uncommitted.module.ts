@@ -10,8 +10,11 @@ export const pageUncommitted = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page's uncommitted values stand in one file beside it, written and read as a page's own values are.",
+      statement: "A page's uncommitted values stand in one file beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's uncommitted values are written and read as a page's own values are.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +22,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The gate refuses a file no page claims, and no page claims this one.",
+      statement: "The gate refuses a file no page claims.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page claims this one.",
     },
     {
       invariantKind: "departure",
@@ -28,12 +35,12 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
-        "A page with no file beside it carries no uncommitted values, which is an answer rather than a failure to read one.",
+        "A page with no file beside it carries no uncommitted values which is an answer rather than a failure to read one.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file that stands but will not load, or loads declaring nothing, is refused rather than read as empty.",
+        "A file that stands but will not load or loads declaring nothing is refused rather than read as empty.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +52,15 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The lock is a `.lock` directory beside the file, taken by one create that fails where it already stands, and released however the act inside it ends.",
+      statement: "The lock is a `.lock` directory beside the file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lock is taken by one create that fails where it already stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lock is released however the act inside it ends.",
     },
     {
       invariantKind: "departure",
@@ -54,8 +68,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The lock names the process that took it and the moment that process started, and a lock whose holder is gone is taken rather than waited on.",
+      statement: "The lock names the process that took it and the moment that process started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lock whose holder is gone is taken rather than waited on.",
     },
     {
       invariantKind: "departure",
@@ -67,8 +84,11 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Dropping names the keys to take away, and taking the whole file away is its own act under its own name.",
+      statement: "Dropping names the keys to take away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Taking the whole file away is its own act under its own name.",
     },
     {
       invariantKind: "absence",
