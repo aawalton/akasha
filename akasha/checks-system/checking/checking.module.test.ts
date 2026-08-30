@@ -27,7 +27,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): void {
+function filed(root: string, at: string, line: string): undefined {
   const to = join(root, PATHS_AT, `${at}.jsonl`)
   mkdirSync(dirname(to), { recursive: true })
   writeFileSync(to, line)

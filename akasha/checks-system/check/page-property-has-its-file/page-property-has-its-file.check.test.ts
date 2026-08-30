@@ -23,13 +23,18 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): void {
+function filed(root: string, at: string, line: string): undefined {
   const full = join(root, INDEX, at)
   mkdirSync(dirname(full), { recursive: true })
   writeFileSync(full, `${line}\n`, "utf8")
 }
 
-function property(root: string, slug: string, pageTypeSlug: string, unique: string | null): void {
+function property(
+  root: string,
+  slug: string,
+  pageTypeSlug: string,
+  unique: string | null
+): undefined {
   filed(
     root,
     join("schema", "page-property", "slug", `${slug}.jsonl`),
@@ -56,11 +61,11 @@ function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   return root
 }
 
-function claiming(root: string, path: string, page: string): void {
+function claiming(root: string, path: string, page: string): undefined {
   filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id: ID }))
 }
 
-function landed(root: string): void {
+function landed(root: string): undefined {
   for (const one of [PAGE, CODE]) claiming(root, one, PAGE)
 }
 
