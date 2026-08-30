@@ -14,7 +14,6 @@ import { shadowAt } from "../../pages-system/indexes/index-shadow/index-shadow.m
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
-  CHECKS_AT,
   checkPagesIn,
   checksAt,
   checksIn,
@@ -25,7 +24,6 @@ import {
   onDisk,
   overEachFile,
   overEachText,
-  PATHS_AT,
 } from "./checking.module.code.ts"
 
 const CHECK = "check"
@@ -241,14 +239,14 @@ test("an index holding no check directory cannot answer, and is not read as nami
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   identitiesTakenFrom(root, CHECK)
   expect(() => checkPagesIn(root)).toThrow("could not be answered")
-  expect(() => checksIn(root)).toThrow(CHECKS_AT)
+  expect(() => checksIn(root)).toThrow("identity/check/slug")
 })
 
 test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   pathsTakenFrom(root)
   expect(() => everyFileIn(root)).toThrow("could not be answered")
-  expect(() => everythingIn(root)).toThrow(PATHS_AT)
+  expect(() => everythingIn(root)).toThrow("is not an index naming none")
 })
 
 const HANDED: Reading = {

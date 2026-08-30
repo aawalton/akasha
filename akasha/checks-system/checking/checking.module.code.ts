@@ -1,12 +1,9 @@
-import { existsSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { indexIdentity } from "../../pages-system/indexes/index/index-identity/index-identity.index.ts"
-import { indexPath } from "../../pages-system/indexes/index/index-path/index-path.index.ts"
 import {
-  everyOfType,
-  everyPath,
-  indexAt,
+  everyOfTypeAnswered,
+  everyPathAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Shadow,
@@ -39,29 +36,14 @@ export type Gathered = {
 
 const CHECK = "check"
 
-const IDENTITY = indexIdentity.indexName
-
-const SLUG = "slug"
-
-const PATH = indexPath.indexName
-
 const CODE = "code"
 
 const TS = "ts"
 
-export const CHECKS_AT = indexAt(IDENTITY, CHECK, SLUG)
-
-export const PATHS_AT = indexAt(PATH)
-
 const loadFrom = createRequire(import.meta.url)
 
 export function checkPagesIn(root: string): readonly string[] {
-  if (!existsSync(join(root, CHECKS_AT))) {
-    throw new Error(
-      `\`${CHECKS_AT}\` is not there, so which checks stand could not be answered — an index that is missing is not an index naming no check`
-    )
-  }
-  return [...new Set(everyOfType(root, CHECK).map((one) => one.path))].sort()
+  return [...new Set(everyOfTypeAnswered(root, CHECK).map((one) => one.path))].sort()
 }
 
 const STATED: readonly (readonly [Phase, string])[] = [
@@ -137,7 +119,7 @@ export function checksIn(root: string): readonly Gathered[] {
   }
   if (found.length === 0) {
     throw new Error(
-      `\`${CHECKS_AT}\` names no check, so nothing would judge this change and a clean answer would mean nothing`
+      "the index names no check, so nothing would judge this change and a clean answer would mean nothing"
     )
   }
   return found.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
@@ -186,12 +168,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
 }
 
 export function everyFileIn(root: string, given: string | Reading = root): readonly string[] {
-  if (!existsSync(join(root, PATHS_AT))) {
-    throw new Error(
-      `\`${PATHS_AT}\` is not there, so which files stand could not be answered — an index that is missing is not an index naming no file`
-    )
-  }
-  return [...new Set(everyPath(given))].sort()
+  return [...new Set(everyPathAnswered(root, given))].sort()
 }
 
 export function everythingIn(root: string): Leaving {

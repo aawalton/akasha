@@ -46,7 +46,7 @@ const ID = "id"
 
 const AT_PATH = "path"
 
-const NAMING_NONE = "an index that is missing is not an index naming no importer"
+const NAMING_NONE = "an index that is missing is not an index naming none"
 
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
@@ -58,6 +58,21 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
 
 export function readingIn(given: string | Reading): Reading {
   return readingOf(typeof given === "string" ? indexIn(given) : given)
+}
+
+export function answered<T>(
+  given: string | Reading,
+  at: string,
+  asked: string,
+  said: (reading: Reading) => T
+): T {
+  const reading = readingIn(given)
+  if (!reading.holds(at)) {
+    throw new Error(
+      `\`${indexAt(at)}\` is not there, so ${asked} could not be answered — ${NAMING_NONE}`
+    )
+  }
+  return said(reading)
 }
 
 function named(said: unknown): string | null {
@@ -122,14 +137,11 @@ export function importersOf(
   path: string,
   reading: Reading = readingAt(indexIn(root))
 ): readonly string[] {
-  const asked = `which files import \`${path}\` could not be answered`
+  const asked = `which files import \`${path}\``
   const why = staleFor(root, indexIn(root))
-  if (why !== null) throw new Error(`${asked} — ${why}`)
+  if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
   const under = join(IMPORT, AT_PATH)
-  if (!reading.holds(under)) {
-    throw new Error(`\`${indexAt(IMPORT, AT_PATH)}\` is not there, so ${asked} — ${NAMING_NONE}`)
-  }
-  return pathsIn(reading, join(under, `${path}${ENDING}`))
+  return answered(reading, under, asked, (held) => pathsIn(held, join(under, `${path}${ENDING}`)))
 }
 
 function schemaIn(reading: Reading, at: string): readonly Schema[] {
@@ -196,4 +208,20 @@ function underneath(reading: Reading, at: string, said: string): readonly string
 
 export function everyPath(given: string | Reading): readonly string[] {
   return [...underneath(readingIn(given), PATH, "")].sort()
+}
+
+export function everyOfTypeAnswered(
+  given: string | Reading,
+  pageTypeSlug: string
+): readonly Standing[] {
+  return answered(
+    given,
+    join(IDENTITY, pageTypeSlug, SLUG),
+    `which \`${pageTypeSlug}\` pages stand`,
+    (reading) => everyOfType(reading, pageTypeSlug)
+  )
+}
+
+export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
+  return answered(root, PATH, "which files stand", () => everyPath(given))
 }
