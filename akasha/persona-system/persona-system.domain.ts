@@ -5,5 +5,5 @@ export const personaSystem = {
   pageTypeSlug: "domain",
   slug: "persona-system",
   definition: "who answers for a part of Alan's life, and what is kept of her",
-  partSlugs: ["page-type/origin-kind", "page-type/persona"],
+  partSlugs: ["page-type/closeness-level", "page-type/origin-kind", "page-type/persona"],
 } as const satisfies Domain
