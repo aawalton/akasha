@@ -18,8 +18,7 @@ export const akashaSeats = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A seat at work keeps working while its page moves, so the migration never stops the seats making it.",
+      statement: "A seat at work keeps working while its page moves.",
     },
   ],
 } as const satisfies Initiative

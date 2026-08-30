@@ -26,7 +26,7 @@ export const invariantKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A kind stands in one group, so no two groups share a kind.",
+      statement: "A kind stands in one group.",
     },
   ],
 } as const satisfies PageType

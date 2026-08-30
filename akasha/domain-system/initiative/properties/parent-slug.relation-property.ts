@@ -13,7 +13,7 @@ export const parentSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An initiative lists nothing standing beneath it, so this edge is read inverted.",
+      statement: "An initiative lists nothing standing beneath it. This edge is read inverted.",
     },
   ],
 } as const satisfies RelationProperty

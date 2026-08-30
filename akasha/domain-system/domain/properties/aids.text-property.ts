@@ -2,7 +2,6 @@ import type { List } from "../../../pages-system/page-property/page-property.pag
 import type { TextProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
 
 export type Aid = string
-
 export type Aids = List<Aid>
 
 export const aids = {
@@ -17,7 +16,7 @@ export const aids = {
     {
       invariantKind: "departure",
       statement:
-        "An aid runs to what an act or a warrant runs to, because every line of a directive is read alike.",
+        "Every line of a directive is read alike; an aid runs to what an act or a warrant runs to.",
     },
   ],
 } as const satisfies TextProperty

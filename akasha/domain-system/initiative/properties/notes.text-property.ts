@@ -18,8 +18,7 @@ export const notes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Notes stand in the order they are to be read, because the order is what they carry.",
+      statement: "Notes stand in the order they are to be read. The order is what they carry.",
     },
     {
       invariantKind: "absence",
