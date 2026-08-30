@@ -142,6 +142,16 @@ export const check = {
     },
     {
       directiveKind: "rule",
+      name: "Trust The Index",
+      act: "Read what the index answers without checking it against the tree.",
+      warrant: "Every check guarding the index apart hides one root cause behind many symptoms.",
+      aids: [
+        "A wrong index is a root cause to fix, not a case each check handles.",
+        "An index that cannot answer refuses where it is read, not in the check.",
+      ],
+    },
+    {
+      directiveKind: "rule",
       name: "Zero At Turning On",
       act: "Fix every violation a check finds before it judges the whole tree, never freezing them into a list.",
       warrant:
