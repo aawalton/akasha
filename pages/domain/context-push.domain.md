@@ -7,7 +7,6 @@ domain-parent-slug: domain/context-machinery
 sequence-slugs:
   - domain/declared-reading
   - domain/required-reading
-  - domain/conditional-reading
   - domain/system-prompt
   - domain/tool-definitions
   - domain/incoming-message

@@ -9,7 +9,6 @@ sequence-slugs:
   - page-type/seat
   - page-type/message
   - page-type/role
-  - page-type/task
 settled: true
 ---
 
