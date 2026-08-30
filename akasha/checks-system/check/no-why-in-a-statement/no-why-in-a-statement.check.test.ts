@@ -99,6 +99,21 @@ test("a semicolon joins a second fact, and is refused as a consequence is", () =
   expect(said[0]).toContain("the graph answers what follows.")
 })
 
+test("a comma before `and` joins a second fact, and is refused", () => {
+  const body = paged(
+    quoted("A scale is named by the readings drawn against it, and belongs to none.")
+  )
+  const said = reasonsIn(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("joins a second fact at `and`")
+  expect(said[0]).toContain("and belongs to none.")
+})
+
+test("`and` carrying no comma before it joins nothing", () => {
+  const body = paged(quoted("A reader is kept between calls and ended where a call throws."))
+  expect(reasonsIn(given(body))).toEqual([])
+})
+
 test("a statement is split at the first clause that carries a reason or a consequence", () => {
   const held = { line: 1, text: "A page is named, so the slug says it, because it must." }
   expect(splitAt(held)).toEqual({

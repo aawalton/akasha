@@ -6,7 +6,7 @@ const KIND = "invariantKind"
 
 const STATEMENT = "statement"
 
-const WHY = /\b(because|since)\b|,\s*(so|as)\b|(;)|,\s*\w+ being\b/
+const WHY = /\b(because|since)\b|,\s*(so|as|and)\b|(;)|,\s*\w+ being\b/
 
 const TRAILING = /[\s,;]+$/
 

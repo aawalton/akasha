@@ -22,11 +22,12 @@ export const noWhyInAStatement = {
     },
     {
       invariantKind: "departure",
-      statement: "A semicolon joins two facts and is refused as a consequence is.",
+      statement:
+        "A statement is refused for the words joining two facts in it, never for holding two.",
     },
     {
       invariantKind: "gap",
-      statement: "Every phase runs, and no statement in the corpus is refused.",
+      statement: "Every phase runs with no statement in the corpus refused.",
     },
   ],
 } as const satisfies Check
