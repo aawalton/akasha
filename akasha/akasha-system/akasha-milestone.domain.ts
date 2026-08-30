@@ -8,6 +8,8 @@ export const akashaMilestone = {
   partSlugs: [
     "domain/akasha-functional-core",
     "domain/akasha-required-reading",
+    "domain/akasha-seats",
+    "domain/akasha-seat-reading",
     "domain/akasha-alone",
   ],
   invariants: [
