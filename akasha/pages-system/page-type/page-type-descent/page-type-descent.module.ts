@@ -19,7 +19,7 @@ export const pageTypeDescent = {
     {
       invariantKind: "departure",
       statement:
-        "A page type naming a parent no page type holds is left out, rather than treated as standing under nothing.",
+        "A page type naming a parent no page type holds is left out rather than treated as standing under nothing.",
     },
     {
       invariantKind: "departure",
