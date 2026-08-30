@@ -5,7 +5,7 @@ slug: ryn
 title: "ryn"
 persona-slug: ryn
 domain-slug: domain/domain-system
-role-slug: challenger
+role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
