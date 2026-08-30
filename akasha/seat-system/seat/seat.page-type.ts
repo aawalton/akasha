@@ -1,7 +1,6 @@
 import type { PersonaSlug } from "../../domain-system/initiative/properties/persona-slug.text-property.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { DomainSlug } from "./properties/domain-slug.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.text-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
@@ -10,7 +9,6 @@ import type { StartMode } from "./properties/start-mode.text-property.ts"
 
 export type Seat = Page & {
   personaSlug: PersonaSlug
-  domainSlug: DomainSlug
   roleSlug: RoleSlug
   personSlug: PersonSlug
   startMode: StartMode
@@ -28,14 +26,12 @@ export const seat = {
   mortal: true,
   partSlugs: [
     "boolean-property/on-call",
-    "text-property/domain-slug",
     "text-property/person-slug",
     "text-property/registration-account",
     "text-property/start-mode",
   ],
   properties: [
     { pagePropertySlug: "persona-slug", required: true, many: false },
-    { pagePropertySlug: "text-property/domain-slug", required: true, many: false },
     { pagePropertySlug: "role-slug", required: true, many: false },
     { pagePropertySlug: "person-slug", required: true, many: false },
     { pagePropertySlug: "start-mode", required: true, many: false },

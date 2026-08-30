@@ -19,7 +19,7 @@ export const finding = {
   partSlugs: ["text-property/claim", "text-property/evidence"],
   extendsSlug: "page-type/page",
   properties: [
-    { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
+    { pagePropertySlug: "domain-slug", required: true, many: false },
     { pagePropertySlug: "claim", required: true, many: false },
     { pagePropertySlug: "evidence", required: true, many: false },
   ],

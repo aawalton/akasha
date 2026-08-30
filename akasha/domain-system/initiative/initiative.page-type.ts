@@ -23,7 +23,7 @@ export const initiative = {
   partSlugs: ["relation-property/parent-slug", "text-property/notes", "text-property/persona-slug"],
   extendsSlug: "page-type/page",
   properties: [
-    { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
+    { pagePropertySlug: "domain-slug", required: true, many: false },
     { pagePropertySlug: "persona-slug", required: true, many: false },
     { pagePropertySlug: "parent-slug", required: false, many: false },
     { pagePropertySlug: "invariants", required: false, many: true, max: null },
