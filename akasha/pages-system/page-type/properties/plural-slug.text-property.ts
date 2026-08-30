@@ -17,8 +17,11 @@ export const pluralSlug = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder holding many pages of one type is named for this, and so is the address those pages are reached by from outside.",
+      statement: "A folder holding many pages of one type is named for this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The address those pages are reached by from outside is also named for this.",
     },
   ],
 } as const satisfies TextProperty
