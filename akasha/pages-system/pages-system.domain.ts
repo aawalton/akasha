@@ -18,6 +18,7 @@ export const pagesSystem = {
     "page-type/file-property",
     "page-type/phone-number-property",
     "page-type/email-address-property",
+    "page-type/process-property",
     "page-type/name-format",
     "page-type/name-place",
     "page-type/generator-kind",
