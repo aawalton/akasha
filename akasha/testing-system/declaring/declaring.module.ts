@@ -18,5 +18,10 @@ export const declaring = {
       statement:
         "A world is served by carrying the pages into its tree, because every entry an index holds is one a rebuild or a settle worked out from a page that stands.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A generator kind a property carried here names is carried too, a property naming a kind that stands nowhere being refused rather than guessed at.",
+    },
   ],
 } as const satisfies Module
