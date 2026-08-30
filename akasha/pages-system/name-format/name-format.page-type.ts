@@ -33,11 +33,15 @@ export const nameFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "The formats are the pages of this type, never a list written in a check.",
+      statement: "The formats are the pages of this type rather than a list written in a check.",
     },
     {
       invariantKind: "departure",
-      statement: "A format holds the words of a name unchanged, and says only how they are joined.",
+      statement: "A format holds the words of a name unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A format says only how the words are joined.",
     },
     {
       invariantKind: "gap",
