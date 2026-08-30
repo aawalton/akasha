@@ -5,6 +5,7 @@ export const tool = {
 
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
+import { exclusively } from "../exclusive/exclusive.ts"
 import { fileStemOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
@@ -96,7 +97,8 @@ function orphanSidecarPages(): SidecarSweep {
 function removeSidecars(pagePath: string): void {
   const memory = SEAT_ROOT()
   for (const relPath of sidecarsOf(memory, relPathOf(pagePath))) {
-    rmSync(`${memory}/${relPath}`, { force: true })
+    const at = `${memory}/${relPath}`
+    exclusively(at, () => rmSync(at, { force: true }))
   }
 }
 

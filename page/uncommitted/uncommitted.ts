@@ -102,6 +102,9 @@ export function dropUncommitted(pagePath: string, keys: readonly string[]): void
 }
 
 export function removeUncommitted(pagePath: string): void {
-  rmSync(uncommittedPathFor(pagePath), { force: true })
-  holdInCall<Record<string, unknown> | null>(heldUnder(pagePath), null)
+  const path = uncommittedPathFor(pagePath)
+  exclusively(path, () => {
+    rmSync(path, { force: true })
+    holdInCall<Record<string, unknown> | null>(heldUnder(pagePath), null)
+  })
 }
