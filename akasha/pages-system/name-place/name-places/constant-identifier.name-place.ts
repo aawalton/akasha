@@ -18,7 +18,7 @@ export const constantIdentifier = {
     {
       invariantKind: "departure",
       statement:
-        "A name bound to a function is a function wherever it stands, so what a file calls is never named as its data.",
+        "A name bound to a function, or to a thing the file acts on, is not data wherever it stands.",
     },
   ],
 } as const satisfies NamePlace
