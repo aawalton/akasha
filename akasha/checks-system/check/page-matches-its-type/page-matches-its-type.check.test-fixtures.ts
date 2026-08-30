@@ -84,7 +84,7 @@ export const THING_ID = "01a04f2b-3d23-7840-8508-269224959e52"
 
 export const THING_AT = "akasha/one.thing.ts"
 
-export const THING_BODY = 'export export const one = { pageTypeSlug: "thing", slug: "one" }\n'
+export const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
 
 export const UNIQUE_SLUG =
   '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type",' +
