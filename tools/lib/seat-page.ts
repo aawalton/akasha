@@ -62,6 +62,19 @@ export function seatPageBody(
   if (stated.registration !== null) {
     lines.push(`registration-account: ${stated.registration.value}`)
   }
+  // WHAT A SEAT IS BOUND TO IS COMMITTED, AND IT IS THE ONE OBSERVED VALUE THAT IS. The other
+  // eleven come back by being observed again; this one cannot. A session is not re-derivable from
+  // anything the machine still holds, so beside the page it lives exactly as long as the page
+  // does, and both go together when a seat stops or is swept.
+  //
+  // It was taken off the page on the 29th, when resuming a seat whose page had gone was given up
+  // rather than paid for. The day after, the version walk killed every supervisor, the sweep took
+  // all nine pages as it is meant to, and what those seats were bound to survived in one place
+  // nothing was reading. Committed, it is in the history, which is where a seat's attributes are
+  // read back from after its page goes.
+  if (stated.session !== null) {
+    lines.push(`claude-code-session-uuid: ${stated.session.value}`)
+  }
   lines.push("---", "")
   return lines.join("\n")
 }
