@@ -22,6 +22,8 @@ export const TYPESAFETY_CHECKS: CheckConfig[] = [
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-exhaustive-dispatch.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-boundary-parse.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-boundary-reads.ts",
+      "ts-file:instructions:infra/cluster-checks/src/checks/check-timezone-handling.ts",
+      "ts-file:instructions:infra/cluster-checks/src/lib/ts-timezone-violations.ts",
       "ts-file:instructions:infra/cluster-checks/src/checks/check-population-read-swallow.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/ts-population-read-swallow.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/population.ts",
