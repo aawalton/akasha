@@ -9,8 +9,6 @@ export type RingScale = {
 
 export type RingCounts = {
   readonly unreviewed: number
-  readonly total: number
-  readonly intake: number
   readonly scale?: RingScale
   readonly noneLeftWords?: string
   readonly noneLeftEmoji?: string
@@ -20,8 +18,6 @@ const API_URL = "https://api.monarch.com/graphql"
 const ORIGIN = "https://app.monarch.com"
 
 export const WINDOW_DAYS = 365
-
-export const INTAKE_DAYS = 30
 
 const SETTLED_ONLY = { isPending: false } as const
 
@@ -34,10 +30,8 @@ const csrfToken = z.string().min(1, {
     "from a signed-in session is wanted here, not one of its parts.",
 })
 
-const RING_QUERY = `query RingCounts($backlog: TransactionFilterInput, $all: TransactionFilterInput, $recent: TransactionFilterInput) {
+const RING_QUERY = `query RingCounts($backlog: TransactionFilterInput) {
   unreviewed: allTransactions(filters: $backlog) { totalCount }
-  total: allTransactions(filters: $all) { totalCount }
-  intake: allTransactions(filters: $recent) { totalCount }
 }`
 
 function monarchHeaders(cookie: string): Record<string, string> {
@@ -75,17 +69,12 @@ export async function fetchRingCountsFromMonarch(
   now: Date = new Date()
 ): Promise<RingCounts> {
   const year = windowFilters(now, WINDOW_DAYS)
-  const month = windowFilters(now, INTAKE_DAYS)
   const response = await fetch(API_URL, {
     method: "POST",
     headers: monarchHeaders(cookie),
     body: JSON.stringify({
       query: RING_QUERY,
-      variables: {
-        backlog: { ...year, ...SETTLED_ONLY, needsReview: true },
-        all: { ...year, ...SETTLED_ONLY },
-        recent: { ...month, ...SETTLED_ONLY },
-      },
+      variables: { backlog: { ...year, ...SETTLED_ONLY, needsReview: true } },
     }),
     signal: AbortSignal.timeout(10_000),
   })
@@ -100,18 +89,12 @@ export async function fetchRingCountsFromMonarch(
   const parsed = ringAnswer.safeParse(await response.json())
   if (!parsed.success) {
     throw new Error(
-      "Monarch's answer carried no pair of counts where the ring query asks for them. " +
+      "Monarch's answer carried no count where the ring query asks for one. " +
         "A 200 whose body is an error envelope is the shape a refused query arrives in."
     )
   }
-  return {
-    unreviewed: parsed.data.data.unreviewed.totalCount,
-    total: parsed.data.data.total.totalCount,
-    intake: parsed.data.data.intake.totalCount,
-  }
+  return { unreviewed: parsed.data.data.unreviewed.totalCount }
 }
 
 const totalCount = z.object({ totalCount: z.number().int().nonnegative() })
-const ringAnswer = z.object({
-  data: z.object({ unreviewed: totalCount, total: totalCount, intake: totalCount }),
-})
+const ringAnswer = z.object({ data: z.object({ unreviewed: totalCount }) })

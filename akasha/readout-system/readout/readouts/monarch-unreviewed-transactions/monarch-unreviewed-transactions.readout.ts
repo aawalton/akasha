@@ -17,11 +17,7 @@ export const monarchUnreviewedTransactions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One query answers the unreviewed and total and intake counts together.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Unreviewed and total are counted over a year and intake over a month.",
+      statement: "Unreviewed is counted over the year behind the reading.",
     },
     {
       invariantKind: "departure",
@@ -46,6 +42,10 @@ export const monarchUnreviewedTransactions = {
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when one is taken.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is counted that is not shown.",
     },
   ],
 } as const satisfies Readout
