@@ -4,12 +4,14 @@ const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
 
 const TS = ".ts"
 
+const UNCOMMITTED = "uncommitted"
+
 export type Named = {
   readonly stem: string
   readonly tail: string
 }
 
-export type Kind = "page" | "property" | "stray"
+export type Kind = "page" | "property" | "uncommitted" | "stray"
 
 export type Held = {
   readonly path: string
@@ -31,12 +33,16 @@ export function namedIn(path: string): Named | null {
 
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
   const said = namedIn(path)
-  return said !== null && pageTypes.has(said.tail)
+  return said !== null && said.tail !== UNCOMMITTED && pageTypes.has(said.tail)
 }
 
 export function besideAt(path: string, propertySlug: string, held: string): string | null {
   if (!path.endsWith(TS)) return null
   return `${path.slice(0, -TS.length)}.${propertySlug}.${held}`
+}
+
+export function uncommittedAt(path: string): string | null {
+  return besideAt(path, UNCOMMITTED, TS.slice(1))
 }
 
 export function heldIn(
@@ -47,6 +53,16 @@ export function heldIn(
   const said = namedIn(path)
   if (said === null) {
     return { path, kind: "stray", slug: null, pageTypeSlug: null, page: null, propertySlug: null }
+  }
+  if (said.tail === UNCOMMITTED) {
+    return {
+      path,
+      kind: "uncommitted",
+      slug: null,
+      pageTypeSlug: null,
+      page: said.stem,
+      propertySlug: null,
+    }
   }
   if (pageTypes.has(said.tail)) {
     return {

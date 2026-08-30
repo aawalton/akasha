@@ -34,6 +34,11 @@ export const pageFileName = {
         "A path that is no TypeScript file is refused rather than answered, so no name is built from one that could carry no page.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The tail `uncommitted` is reserved. A file carrying it holds the uncommitted values of the page it stands beside, and is never a property's file nor a page.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one, whether or not that page stands.",

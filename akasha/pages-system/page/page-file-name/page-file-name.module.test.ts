@@ -1,5 +1,11 @@
 import { expect, test } from "bun:test"
-import { besideAt, heldIn, namedIn, pageNamed } from "./page-file-name.module.code.ts"
+import {
+  besideAt,
+  heldIn,
+  namedIn,
+  pageNamed,
+  uncommittedAt,
+} from "./page-file-name.module.code.ts"
 
 const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 
@@ -95,4 +101,40 @@ test("what besideAt puts together, heldIn takes apart again", () => {
   expect(said.kind).toBe("property")
   expect(said.propertySlug).toBe("code")
   expect(said.page).toBe("file-length.check")
+})
+
+test("a file tailed `uncommitted` is held as its page's uncommitted values, not as a property", () => {
+  expect(
+    heldIn("akasha/one/file-length.check.uncommitted.ts", PAGE_TYPES, FILE_PROPERTIES)
+  ).toEqual({
+    path: "akasha/one/file-length.check.uncommitted.ts",
+    kind: "uncommitted",
+    slug: null,
+    pageTypeSlug: null,
+    page: "file-length.check",
+    propertySlug: null,
+  })
+})
+
+test("the tail `uncommitted` is reserved, so the sets handed in cannot make it a property or a page", () => {
+  const held = heldIn(
+    "akasha/one/file-length.check.uncommitted.ts",
+    PAGE_TYPES,
+    new Set(["code", "uncommitted"])
+  )
+  expect(held.kind).toBe("uncommitted")
+  expect(held.propertySlug).toBeNull()
+  expect(pageNamed("akasha/one/held.uncommitted.ts", new Set(["uncommitted"]))).toBe(false)
+})
+
+test("an uncommitted file stands beside its page, and heldIn takes that name apart again", () => {
+  const page = "akasha/one/file-length.check.ts"
+  const beside = uncommittedAt(page)
+  expect(beside).toBe("akasha/one/file-length.check.uncommitted.ts")
+  if (beside === null) throw new Error("expected a name beside the page")
+  expect(heldIn(beside, PAGE_TYPES, FILE_PROPERTIES).page).toBe("file-length.check")
+})
+
+test("a path that is no TypeScript file carries no uncommitted file", () => {
+  expect(uncommittedAt("akasha/one/notes.txt")).toBeNull()
 })
