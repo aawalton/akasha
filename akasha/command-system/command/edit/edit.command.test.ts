@@ -371,6 +371,36 @@ test("several files are one act, refused whole when one of them cannot be worked
   expect(headOf(root)).toBe(was)
 })
 
+test("a substitution and a removal land as one commit", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n", "akasha/two.ts": "beta\n" })
+  const held = ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")]
+  const said = edit([...held, "--remove", "akasha/two.ts"], givenIn(root))
+  expect(said.report.join("\n")).toContain("took away akasha/two.ts")
+  expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe("delta\n")
+})
+
+test("a removal alone lands, and what stands beside it goes with it", () => {
+  const root = repoWith({ "akasha/a.module.ts": "a\n", "akasha/a.module.code.ts": "b\n" })
+  const said = edit(["--remove", "akasha/a.module.ts"], givenIn(root))
+  expect(said.code).toBe(0)
+  expect(existsSync(join(root, "akasha/a.module.code.ts"))).toBe(false)
+})
+
+test("a removal of what is not there is refused", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  const said = edit(["--remove", "akasha/nowhere.ts"], givenIn(root))
+  expect(said.code).toBe(2)
+  expect(said.refusals[0]).toContain("take nothing away")
+})
+
+test("one path changed and taken away by one call is refused", () => {
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
+  const held = ["--file-path", "akasha/one.ts", ...stating(root, "a", "alpha", "delta")]
+  const said = edit([...held, "--remove", "akasha/one.ts"], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("both changed and taken away")
+})
+
 test("every flag the surface shows is a flag this takes", () => {
   const given = givenIn("/nowhere")
   for (const one of editCommand.taking) {

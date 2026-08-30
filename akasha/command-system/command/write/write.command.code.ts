@@ -25,7 +25,7 @@ export const MESSAGE_FILE = "--message-file"
 
 const CONTENT_FILE = "--content-file"
 
-const REMOVE = "--remove"
+export const REMOVE = "--remove"
 
 const AKASHA = "akasha"
 
@@ -156,6 +156,62 @@ export function defaultMessage(what: string, paths: readonly string[]): string {
   return `${what} ${paths.length} files`
 }
 
+export type Removing = {
+  readonly changes: readonly Change[]
+  readonly taken: readonly string[]
+  readonly base: string | null
+  readonly mistaken: readonly string[]
+  readonly wrong: readonly string[]
+}
+
+export function removingIn(
+  given: Given,
+  removals: readonly string[],
+  seen: Set<string>,
+  both: (path: string) => string
+): Removing {
+  const base = removals.length === 0 ? null : baseOf(given.root)
+  const changes: Change[] = []
+  const taken: string[] = []
+  const mistaken: string[] = []
+  const wrong: string[] = []
+  for (const one of removals) {
+    const path = pathInside(given.root, one)
+    if (path === null) {
+      mistaken.push(outside(one))
+      continue
+    }
+    if (seen.has(path)) {
+      mistaken.push(both(path))
+      continue
+    }
+    seen.add(path)
+    if (base !== null && bodyAt(given.root, base, path) === null) {
+      wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
+      continue
+    }
+    taken.push(path)
+    changes.push({ path, body: null })
+  }
+  return { changes, taken, base, mistaken, wrong }
+}
+
+export function besideTaken(
+  given: Given,
+  base: string | null,
+  taken: readonly string[],
+  seen: Set<string>
+): readonly Change[] {
+  if (base === null) return []
+  const changes: Change[] = []
+  for (const one of besideAll(resolve(given.root), taken)) {
+    if (seen.has(one) || bodyAt(given.root, base, one) === null) continue
+    seen.add(one)
+    changes.push({ path: one, body: null })
+  }
+  return changes
+}
+
 type Pair = {
   readonly path: string
   readonly from: string
@@ -257,34 +313,17 @@ export function write(argv: readonly string[], given: Given): Answer {
     }
     changes.push({ path, body })
   }
-  const base = read.removals.length === 0 ? null : baseOf(given.root)
-  const taken: string[] = []
-  for (const one of read.removals) {
-    const path = pathInside(given.root, one)
-    if (path === null) {
-      mistaken.push(outside(one))
-      continue
-    }
-    if (seen.has(path)) {
-      mistaken.push(`${path} is both written and taken away by one call`)
-      continue
-    }
-    seen.add(path)
-    if (base !== null && bodyAt(given.root, base, path) === null) {
-      wrong.push(`${REMOVE} ${path} is not there, so the removal would take nothing away`)
-      continue
-    }
-    taken.push(path)
-    changes.push({ path, body: null })
-  }
+  const removing = removingIn(
+    given,
+    read.removals,
+    seen,
+    (path) => `${path} is both written and taken away by one call`
+  )
+  changes.push(...removing.changes)
+  mistaken.push(...removing.mistaken)
+  wrong.push(...removing.wrong)
   wrong.push(...unwarrantedIn(given, glass.glass, changes))
-  if (base !== null) {
-    for (const one of besideAll(resolve(given.root), taken)) {
-      if (seen.has(one) || bodyAt(given.root, base, one) === null) continue
-      seen.add(one)
-      changes.push({ path: one, body: null })
-    }
-  }
+  changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 

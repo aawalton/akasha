@@ -12,7 +12,9 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
+import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
+  besideTaken,
   defaultMessage,
   FILE_PATH,
   glassIn,
@@ -21,6 +23,8 @@ import {
   messageIn,
   outside,
   pathInside,
+  REMOVE,
+  removingIn,
   unknownIn,
   unwarrantedIn,
 } from "../write/write.command.code.ts"
@@ -29,7 +33,7 @@ const OLD_FILE = "--old-file"
 
 const NEW_FILE = "--new-file"
 
-const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
 
@@ -45,11 +49,13 @@ type Asking = {
 
 type Read = {
   readonly asking: readonly Asking[]
+  readonly removals: readonly string[]
   readonly refusals: readonly string[]
 }
 
 function readIn(argv: readonly string[]): Read {
   const asking: Asking[] = []
+  const removals: string[] = []
   const refusals: string[] = []
   let open: Asking | null = null
   let old: string | null = null
@@ -100,6 +106,16 @@ function readIn(argv: readonly string[]): Read {
       at += 1
       continue
     }
+    if (token === REMOVE) {
+      const value = argv[at + 1]
+      if (value === undefined) {
+        refusals.push(`${REMOVE} takes a path, and none follows it`)
+        break
+      }
+      removals.push(value)
+      at += 1
+      continue
+    }
     if (VALUED.includes(token)) at += 1
   }
   if (old !== null) refusals.push(`${OLD_FILE} ${old} is closed by no ${NEW_FILE}`)
@@ -109,7 +125,7 @@ function readIn(argv: readonly string[]): Read {
     }
     asking.push(open)
   }
-  return { asking, refusals }
+  return { asking, removals, refusals }
 }
 
 export function counted(body: string, said: string): number {
@@ -158,8 +174,10 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
   if (unknown.length > 0) return mistaking(unknown)
   const read = readIn(argv)
   if (read.refusals.length > 0) return mistaking(read.refusals)
-  if (read.asking.length === 0) {
-    return mistaking([`this call names no ${FILE_PATH}, so it asks for no change at all`])
+  if (read.asking.length === 0 && read.removals.length === 0) {
+    return mistaking([
+      `this call names no ${FILE_PATH} to change and no ${REMOVE} to take away, so it asks for nothing`,
+    ])
   }
   const glass = glassIn(argv, VALUED)
   if ("refusals" in glass) return mistaking(glass.refusals)
@@ -204,7 +222,17 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
     changes.push({ path, body: new TextEncoder().encode(worked.body) })
     unmoved.push({ path, was })
   }
+  const removing = removingIn(
+    given,
+    read.removals,
+    seen,
+    (path) => `${path} is both changed and taken away by one call`
+  )
+  changes.push(...removing.changes)
+  mistaken.push(...removing.mistaken)
+  wrong.push(...removing.wrong)
   wrong.push(...unwarrantedIn(given, glass.glass, changes))
+  changes.push(...besideTaken(given, removing.base, removing.taken, seen))
   const troubled = troubling({ mistaken, wrong })
   if (troubled !== null) return troubled
 
@@ -219,12 +247,23 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
     dryRun: argv.includes(DRY_RUN),
     glass: glass.glass,
     unmoved,
-    saying: (said) => said.wrote.map((one) => `edited ${one}`),
+    saying: (said) => [
+      ...said.wrote.map((one) => `edited ${one}`),
+      ...said.took.map((one) => `took away ${one}`),
+    ],
   }
   return asked
 }
 
 export function edit(argv: readonly string[], given: Given): Answer {
   const asked = askedIn(argv, given)
-  return "changes" in asked ? landingAsked(given, asked) : asked
+  if (!("changes" in asked)) return asked
+  const answer = landingAsked(given, asked)
+  if (answer.code === 0 && !asked.dryRun) {
+    dropReadings(
+      given.root,
+      asked.changes.filter((one) => one.body === null).map((one) => one.path)
+    )
+  }
+  return answer
 }

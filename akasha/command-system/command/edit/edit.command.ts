@@ -5,7 +5,7 @@ export const edit = {
   pageTypeSlug: "command",
   slug: "edit",
   definition:
-    "stated substitutions worked out into whole bodies, gated together and landed or refused as one",
+    "stated substitutions and removals worked into one change, landed or refused together",
   code: "ts",
   test: "ts",
   mechanical: false,
@@ -13,6 +13,7 @@ export const edit = {
     { said: "--file-path <path>", takes: "the file under `akasha/` to change" },
     { said: "--old-file <file>", takes: "a file holding the passage to replace" },
     { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
+    { said: "--remove <path>", takes: "a path under `akasha/` to take away" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -22,6 +23,7 @@ export const edit = {
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
     "a passage stated must stand exactly once in the file, or the call is refused.",
     "the passage and what it becomes are files, never text said on the command line.",
+    "the files standing beside a path given to --remove go with it.",
   ],
   invariants: [
     {
@@ -64,6 +66,11 @@ export const edit = {
       invariantKind: "departure",
       statement:
         "A file this call would change is warranted exactly as `write` warrants one, on the same record and the same glass.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A removal lands in the same commit as the substitutions, so a change set that both edits and removes never needs two.",
     },
     {
       invariantKind: "gap",
