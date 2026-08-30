@@ -4,10 +4,10 @@ import { textField } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
 import { refusalText } from "../../refusal/refusal.ts"
 import { COLOR_KEY, VALUE_KEY } from "../lib/seat-value.ts"
+import { personasStanding } from "../lib/akasha-personas.ts"
 import { documentsOfType } from "../lib/pages-of-type.ts"
-import { defaultFor, documentFor, scan } from "../lib/seat-resolve.ts"
+import { defaultFor, scan } from "../lib/seat-resolve.ts"
 
-const PERSONA_TYPE = "persona"
 const VALUE_TYPE = "value"
 
 export const personaValues: Check = (repo) => {
@@ -15,11 +15,9 @@ export const personaValues: Check = (repo) => {
   const found = scan(root)
   const failures: string[] = []
 
-  const byDefault = defaultFor("persona", root)
-  const at = byDefault === null ? null : documentFor("persona", byDefault, root)
-  const exempt = new Set(at === null ? [] : [at])
+  const exempt = defaultFor("persona", root)
 
-  const personas = documentsOfType(repo.roots, repo.name, repo.documents, PERSONA_TYPE)
+  const personas = personasStanding(root)
   const values = documentsOfType(repo.roots, repo.name, repo.documents, VALUE_TYPE)
   const isValue = new Set(values)
 
@@ -30,11 +28,10 @@ export const personaValues: Check = (repo) => {
     failures.push(refusalText("alan-value-no-color", { path: relPath, key: COLOR_KEY }, root))
   }
 
-  for (const relPath of personas) {
-    const fm = found.docs.frontmatterOf(relPath)
-    if (fm === null) continue
-    if (exempt.has(relPath)) continue
-    const slug = textField(fm, VALUE_KEY)
+  for (const persona of personas) {
+    if (persona.slug === exempt) continue
+    const relPath = persona.path
+    const slug = persona.valueSlug
     if (slug === null) {
       failures.push(refusalText("persona-value-unnamed", { path: relPath, key: VALUE_KEY }, root))
       continue

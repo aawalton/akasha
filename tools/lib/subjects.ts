@@ -1,6 +1,7 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { type Persona, personasStanding } from "./akasha-personas.ts"
 import { DOMAIN_SLUG_KEY } from "./domain.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
@@ -93,7 +94,6 @@ function blockOf(
 function byDeclaredSlug(
   root: string,
   relPaths: readonly string[],
-  personas: boolean,
   withBody: boolean
 ): { readonly records: readonly SubjectRecord[]; readonly unnamed: readonly string[] } {
   const records: SubjectRecord[] = []
@@ -112,22 +112,50 @@ function byDeclaredSlug(
     }
     if (seen.has(slug)) continue
     seen.add(slug)
-    if (!personas) {
-      records.push({ slug, path: rel, frontmatter: block, ...carried })
-      continue
-    }
-    const championed = typeof block["championed-domain-slug"] === "string" ? block["championed-domain-slug"].trim() : ""
-    const role = typeof block["role-slug"] === "string" ? block["role-slug"].trim() : ""
-    records.push({
-      slug,
-      path: rel,
-      frontmatter: block,
-      ...(championed === "" ? {} : { championedDomain: championed }),
-      ...(role === "" ? {} : { defaultRole: role }),
-      ...carried,
-    })
+    records.push({ slug, path: rel, frontmatter: block, ...carried })
   }
   return { records: records.sort((a, b) => (a.slug < b.slug ? -1 : 1)), unnamed }
+}
+
+function declaredBy(one: Persona): Readonly<Record<string, unknown>> {
+  const named: Record<string, unknown> = { "page-type-slug": "persona", id: one.id, slug: one.slug }
+  const state = (key: string, value: string | number | null): undefined => {
+    if (value !== null) named[key] = value
+  }
+  state("definition", one.definition)
+  state("purpose", one.purpose)
+  state("portrait", one.portraitPath)
+  state("championed-domain-slug", one.championedDomainSlug)
+  state("role-slug", one.roleSlug)
+  state("value-slug", one.valueSlug)
+  state("origin", one.origin)
+  state("email-address", one.emailAddress)
+  state("voice-instruction", one.voiceInstruction)
+  state("voice-reference-sha256", one.voiceReferenceSha256)
+  state("cover", one.cover)
+  state("green-day-points", one.greenDayPoints)
+  state("history", one.history)
+  return named
+}
+
+function personaRecords(root: string): readonly SubjectRecord[] {
+  let standing: readonly Persona[]
+  try {
+    standing = personasStanding(root)
+  } catch (err) {
+    throw new DeadRead(
+      `no persona resolves under \`${root}\` ` +
+        `(${err instanceof Error ? err.message : String(err)}). That is a dead read rather than a ` +
+        "tree with no personas."
+    )
+  }
+  return standing.map((one) => ({
+    slug: one.slug,
+    path: one.path,
+    frontmatter: declaredBy(one),
+    ...(one.championedDomainSlug === null ? {} : { championedDomain: one.championedDomainSlug }),
+    ...(one.roleSlug === null ? {} : { defaultRole: one.roleSlug }),
+  }))
 }
 
 function byStem(
@@ -200,13 +228,16 @@ function homeOf(root: string, subject: Subject, what: string): Home {
 
 export function readSubject(root: string, subject: Subject, withBody = false): SubjectReading {
   const one = subject.slice(0, -1)
+  if (subject === "personas") {
+    return deadUnless({ records: personaRecords(root), unnamed: [] }, subject, one, root)
+  }
   const home = homeOf(root, subject, one)
   if (subject === "domains") {
-    const walked = byDeclaredSlug(home.root, documentsUnder(home.root, "", one, true), false, withBody)
+    const walked = byDeclaredSlug(home.root, documentsUnder(home.root, "", one, true), withBody)
     return deadUnless(walked, subject, one, home.root)
   }
   const kept = home.relPaths.filter((relPath) => !isDirty(relPath))
-  const found = byDeclaredSlug(home.root, kept, subject === "personas", withBody)
+  const found = byDeclaredSlug(home.root, kept, withBody)
   return deadUnless(found, subject, one, home.root)
 }
 

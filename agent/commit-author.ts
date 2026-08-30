@@ -3,20 +3,14 @@ import { diskFileTree } from "../page/file-tree.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
 import { registryOf } from "../page/property/registry.ts"
-import { trackedIn } from "../page/tracked/tracked.ts"
-import { akashaRoot, rootsHere } from "../repo/roots/roots.ts"
+import { ownRepoRoot, rootsHere } from "../repo/roots/roots.ts"
+import { displayNameOf, personaAt } from "../tools/lib/akasha-personas.ts"
 import { agentPageFor } from "./read-record.ts"
 import { writerId } from "./writer.ts"
-
-const PERSONA_SUFFIX = ".persona.md"
 
 const PERSONA_SLUG_KEY = "persona-slug"
 
 const SEAT_TYPE = "seat"
-
-const TITLE_KEY = "title"
-
-const EMAIL_KEY = "email-address"
 
 export const CLAUDE_AUTHOR = "Claude <noreply@anthropic.com>"
 
@@ -33,21 +27,11 @@ function personaOf(writer: string): string | null {
   return page === null ? null : statedOn(page, PERSONA_SLUG_KEY)
 }
 
-function personaPage(slug: string): string | null {
-  const root = akashaRoot()
-  const wanted = `${slug}${PERSONA_SUFFIX}`
-  for (const relPath of trackedIn(root)) {
-    if (relPath === wanted || relPath.endsWith(`/${wanted}`)) return `${root}/${relPath}`
-  }
-  return null
-}
-
 export function personaAuthor(persona: string): string | null {
-  const page = personaPage(persona)
-  if (page === null) return null
-  const named = statedOn(page, TITLE_KEY)
-  const email = statedOn(page, EMAIL_KEY)
-  return named === null || email === null ? null : `${named} <${email}>`
+  const standing = personaAt(ownRepoRoot(), persona)
+  if (standing === null) return null
+  const email = standing.emailAddress
+  return email === null ? null : `${displayNameOf(standing.slug)} <${email}>`
 }
 
 let statedDefault: string | null | undefined

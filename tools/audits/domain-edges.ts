@@ -1,3 +1,4 @@
+import { personasStanding } from "../lib/akasha-personas.ts"
 import type { Check } from "../lib/check.ts"
 import {
   type Documents,
@@ -88,11 +89,11 @@ export const domainEdges: Check = (repo) => {
     )
   }
   let paired = 0
-  for (const [relPath, fm] of frontmatter) {
-    if (pageTypeOf(relPath) !== "persona") continue
-    const her = textField(fm, DOMAIN_SLUG_KEY)
-    const holds = textField(fm, CHAMPIONED_DOMAIN_KEY)
-    if (her === null || holds === null) continue
+  for (const persona of personasStanding(root)) {
+    const relPath = persona.path
+    const her = persona.slug
+    const holds = persona.championedDomainSlug
+    if (holds === null) continue
     const at = domainNamed(slugs, holds) ?? undefined
     if (at === undefined) {
       failures.push(

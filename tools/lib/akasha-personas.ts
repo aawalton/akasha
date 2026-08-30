@@ -113,6 +113,14 @@ export function personaOr(root: string, slug: string): Persona {
   return held
 }
 
+export function displayNameOf(slug: string): string {
+  const first = slug.slice(0, 1)
+  if (first === "") {
+    throw new Error("an empty slug names nobody, so there is no name to display her under")
+  }
+  return `${first.toUpperCase()}${slug.slice(1)}`
+}
+
 export function lastMessagedAt(root: string, persona: Persona): string | null {
   const held = uncommittedIn(root, persona.path)
   return held === null ? null : textAt(held, LAST_MESSAGED_AT)

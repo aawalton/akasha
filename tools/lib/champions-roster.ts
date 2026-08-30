@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { personasStanding } from "./akasha-personas.ts"
 import { listDocuments } from "./check.ts"
 import { type Documents, domainNamed, DOMAIN_SLUG_KEY, type Champion, championOf, championParentOf, slugsIn } from "./domain.ts"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
@@ -59,7 +60,8 @@ function scan(root: string): Map<string, Frontmatter> {
 }
 
 export function readRoster(roots: Roots): Roster {
-  const frontmatter = scan(rootFor(roots, AKASHA))
+  const root = rootFor(roots, AKASHA)
+  const frontmatter = scan(root)
   const { slugs } = slugsIn(frontmatter)
   const docs: Documents = {
     frontmatterOf: (at) => frontmatter.get(at) ?? null,
@@ -68,12 +70,9 @@ export function readRoster(roots: Roots): Roster {
 
   const claimants = registryOf(diskFileTree(roots))
   const isDomain = domainKindTest(claimants)
-  const personas = new Map<string, string>()
-  for (const [relPath, fm] of frontmatter) {
-    if (pageTypeOf(relPath) !== "persona") continue
-    const slug = textField(fm, DOMAIN_SLUG_KEY)
-    if (slug !== null) personas.set(slug, relPath)
-  }
+  const personas = new Map<string, string>(
+    personasStanding(root).map((one) => [one.slug, one.path])
+  )
 
   const filings = new Map<string, Filed[]>()
   let findings = 0
