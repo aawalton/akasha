@@ -27,13 +27,21 @@ export const codeSource = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges a body or knows why it is read. A check and a rule and a move all parse the same way and differ only in what they then walk.",
+      statement: "Nothing here judges a body or knows why it is read.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads the disk. A path is a name the parse carries so a node can say where it stands rather than a file this opens.",
+        "A check and a rule and a move all parse the same way and differ only in what they then walk.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads the disk.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A path is a name the parse carries so a node can say where it stands rather than a file this opens.",
     },
   ],
 } as const satisfies Module
