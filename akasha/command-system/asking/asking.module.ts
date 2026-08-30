@@ -11,7 +11,7 @@ export const asking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every command asks for its change through this, so all of them answer alike.",
+      statement: "Every command asks for its change through this.",
     },
     {
       invariantKind: "departure",
@@ -31,22 +31,19 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every body is formatted before the gate sees it, so what a check counts and what a check runs is the body that lands rather than the one handed in.",
+      statement: "Every body is formatted before the gate sees it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body that landed other than as it was handed in is named in the report, so a rewrite is said out loud rather than done quietly.",
+      statement: "A body that landed other than as it was handed in is named in the report.",
     },
     {
       invariantKind: "departure",
-      statement: "A removal is never formatted, because a body going away is no body.",
+      statement: "A removal is never formatted.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body that lands is recorded as read by whoever landed it, so what the formatter changed is not charged to them.",
+      statement: "A body that lands is recorded as read by whoever landed it.",
     },
     {
       invariantKind: "gap",
