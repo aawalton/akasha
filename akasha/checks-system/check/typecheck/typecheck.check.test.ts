@@ -21,9 +21,27 @@ const THING_TYPE =
   "export type Thing = { held: string; slug: string }\n" +
   `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
 
-const HELD_PAGE =
-  `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
-  ' slug: "held", generator: "uuid-v7" }\n'
+const WAITS = "next-seq"
+
+const EARLY = "uuid-v7"
+
+const KIND_AT = "akasha/next-seq.generator-kind.ts"
+
+const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
+
+function kindPage(slug: string, afterChecks: boolean): string {
+  return (
+    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
+    ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
+  )
+}
+
+function heldPage(generator: string): string {
+  return (
+    `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
+    ` slug: "held", generator: "${generator}" }\n`
+  )
+}
 
 const READS_ITS_TYPE = 'import type { Thing } from "./thing.page-type.ts"\n\n'
 
@@ -33,9 +51,25 @@ const WITHOUT = `${READS_ITS_TYPE}export const one = { slug: "one" } as const sa
 
 const WRONG = `${READS_ITS_TYPE}export const one = { slug: 1 } as const satisfies Thing\n`
 
-function generating(files: Readonly<Record<string, string>>): string {
-  const root = staged({ [TYPE_AT]: THING_TYPE, [HELD_AT]: HELD_PAGE, ...files })
+function generating(files: Readonly<Record<string, string>>, generator = WAITS): string {
+  const root = staged({
+    [TYPE_AT]: THING_TYPE,
+    [HELD_AT]: heldPage(generator),
+    [KIND_AT]: kindPage(WAITS, true),
+    [EARLY_AT]: kindPage(EARLY, false),
+    ...files,
+  })
   const index = indexIn(root)
+  put(
+    index,
+    `identity/generator-kind/slug/${WAITS}.jsonl`,
+    `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
+  )
+  put(
+    index,
+    `identity/generator-kind/slug/${EARLY}.jsonl`,
+    `{"path":"${EARLY_AT}","id":"${GENERATED_ID}"}\n`
+  )
   put(
     index,
     "schema/page-property/slug/slug.jsonl",
@@ -78,8 +112,15 @@ test("a body carrying no satisfies clause narrows to nothing, so it is judged as
   expect(omittingIn("akasha/one.ts", "export const one = 1\n", ["held"])).toBe(null)
 })
 
-test("a page being created compiles without the property a generator fills", () => {
+test("a page being created compiles without the property a generator fills after the checks", () => {
   expect(typecheck(leaving(generating({}), { [THING_AT]: WITHOUT }))).toEqual([])
+})
+
+test("a page being created is refused for the property a generator fills before the checks, the value standing in the body by then", () => {
+  const said = typecheck(leaving(generating({}, EARLY), { [THING_AT]: WITHOUT }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(THING_AT)
+  expect(said[0]?.reason).toContain("TS1360")
 })
 
 test("a page already standing is refused for dropping the property a generator fills", () => {

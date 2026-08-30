@@ -236,13 +236,27 @@ const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
 const UNIQUE_SLUG =
   '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
 
-function generating(): string {
+const KIND_AT = "akasha/next-seq.generator-kind.ts"
+
+function generating(generator = "next-seq"): string {
   const root = scratch.rootFor("akasha-generating-")
   put(
     root,
     "akasha/held.text-property.ts",
     `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
-      ' slug: "held", generator: "uuid-v7" }\n'
+      ` slug: "held", generator: "${generator}" }\n`
+  )
+  put(
+    root,
+    KIND_AT,
+    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
+      ' slug: "next-seq", afterChecks: true }\n'
+  )
+  put(
+    root,
+    "akasha/uuid-v7.generator-kind.ts",
+    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
+      ' slug: "uuid-v7", afterChecks: false }\n'
   )
   put(
     root,
@@ -269,27 +283,44 @@ function generating(): string {
     "identity/page-type/slug/thing.jsonl",
     `{"path":"akasha/thing.page-type.ts","id":"${THING_ID}"}\n`
   )
+  put(
+    index,
+    "identity/generator-kind/slug/next-seq.jsonl",
+    `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
+  )
+  put(
+    index,
+    "identity/generator-kind/slug/uuid-v7.jsonl",
+    `{"path":"akasha/uuid-v7.generator-kind.ts","id":"${GENERATED_ID}"}\n`
+  )
   return root
 }
 
-function overThing(standing: boolean): readonly Judged[] {
+function overThing(standing: boolean, generator = "next-seq"): readonly Judged[] {
   const bytes = new TextEncoder().encode(THING_BODY)
   return pageMatchesItsType({
-    root: generating(),
+    root: generating(generator),
     changed: [THING_AT],
     at: (path) => (path === THING_AT ? bytes : null),
     was: (path) => (standing && path === THING_AT ? bytes : null),
   })
 }
 
-test("a page being created is not refused for a property a generator fills", () => {
+const DEMANDED = {
+  path: THING_AT,
+  reason: "does not state `held`, which `page-type/thing` requires",
+}
+
+test("a page being created is not refused for a property a generator fills after the checks", () => {
   expect(overThing(false)).toEqual([])
 })
 
+test("a page being created is refused for a property a generator fills before the checks", () => {
+  expect(overThing(false, "uuid-v7")).toEqual([DEMANDED])
+})
+
 test("a page already standing is refused for dropping a property a generator fills", () => {
-  expect(overThing(true)).toEqual([
-    { path: THING_AT, reason: "does not state `held`, which `page-type/thing` requires" },
-  ])
+  expect(overThing(true)).toEqual([DEMANDED])
 })
 
 const ALPHA_AT = "akasha/alpha.page-type.ts"
