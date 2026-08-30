@@ -8,6 +8,7 @@ import { waitingProperties } from "../../../pages-system/indexes/generated-prope
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -46,12 +47,12 @@ export function compiled(path: string): boolean {
   return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
-export function reachedBy(leaving: Leaving): readonly string[] {
-  return reachingInto(leaving.root, leaving.changed, [IMPORT], compiled)
+export function reachedBy(leaving: Leaving, reading?: Reading): readonly string[] {
+  return reachingInto(leaving.root, leaving.changed, [IMPORT], compiled, reading)
 }
 
-export function rootsOf(leaving: Leaving): readonly string[] {
-  return reachedBy(leaving).filter((one) => leaving.at(one) !== null)
+export function rootsOf(leaving: Leaving, reading?: Reading): readonly string[] {
+  return reachedBy(leaving, reading).filter((one) => leaving.at(one) !== null)
 }
 
 export function insideOf(root: string, at: string): string | null {
@@ -158,11 +159,11 @@ export function foundOf(root: string, said: ts.Diagnostic): Found {
 }
 
 export function foundIn(leaving: Leaving): readonly Found[] {
-  const roots = rootsOf(leaving)
-  if (roots.length === 0) return []
-  const root = resolve(leaving.root)
   const cast = shadowFor(leaving)
   if ("refused" in cast) throw new Error(cast.refused)
+  const roots = rootsOf(leaving, cast.shadow.reading)
+  if (roots.length === 0) return []
+  const root = resolve(leaving.root)
   const keys = [...waitingProperties(cast.shadow)].map(exportedAs)
   const read = bodiesOf(leaving, mintingIn(leaving, keys))
   const program = ts.createProgram({

@@ -32,6 +32,11 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
+        "The index read is the one the change leaves, so a page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "An index that is not there is refused rather than read as one naming no importer.",
     },
     {
