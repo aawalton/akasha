@@ -179,16 +179,14 @@ export function everyPage(given: string | Reading): readonly Standing[] {
   return gatheredIn(reading, join(IDENTITY, "page", "id"))
 }
 
-function underneath(reading: Reading, at: string, said: string, found: string[]): undefined {
-  for (const one of reading.listing(at)) {
+function underneath(reading: Reading, at: string, said: string): readonly string[] {
+  return reading.listing(at).flatMap((one) => {
     const held = `${said}${one.name}`
-    if (one.directory) underneath(reading, beneath(at, one.name), `${held}/`, found)
-    else if (one.name.endsWith(ENDING)) found.push(held.slice(0, -ENDING.length))
-  }
+    if (one.directory) return underneath(reading, beneath(at, one.name), `${held}/`)
+    return one.name.endsWith(ENDING) ? [held.slice(0, -ENDING.length)] : []
+  })
 }
 
 export function everyPath(given: string | Reading): readonly string[] {
-  const found: string[] = []
-  underneath(overIndex(given), PATH, "", found)
-  return found.sort()
+  return [...underneath(overIndex(given), PATH, "")].sort()
 }
