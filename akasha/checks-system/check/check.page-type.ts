@@ -35,6 +35,7 @@ export const check = {
     "check/imports-inside",
     "check/index-asked-not-reached",
     "check/introduced-property-is-a-part",
+    "check/key-names-one-property",
     "check/lint-clean",
     "check/no-class",
     "check/no-code-comments",
