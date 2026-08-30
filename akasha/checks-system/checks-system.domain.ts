@@ -23,12 +23,19 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change is judged before it reaches disk, and a refused one leaves nothing behind.",
+      statement: "A change is judged before it reaches disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A change may land with no check run, its commit saying that none ran and why.",
+      statement: "A refused change leaves nothing behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change may land with no check run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Its commit says that none ran and why.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +47,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A check reads the index together with the change, never the index alone.",
+      statement: "A check reads the index together with the change rather than the index alone.",
     },
     {
       invariantKind: "absence",
@@ -48,7 +55,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "A check runs over the changes it was given, never over the corpus.",
+      statement: "A check runs over the changes it was given rather than over the corpus.",
     },
     {
       invariantKind: "gap",
