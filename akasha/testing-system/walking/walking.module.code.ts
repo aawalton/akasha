@@ -3,7 +3,7 @@ import { join } from "node:path"
 
 export function everyFileUnder(at: string): readonly string[] {
   const found: string[] = []
-  const walk = (here: string): void => {
+  const walk = (here: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const next = join(here, one.name)
       if (one.isDirectory()) walk(next)

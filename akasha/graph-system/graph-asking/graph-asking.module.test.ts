@@ -73,19 +73,19 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function paged(root: string, at: string, held: Record<string, unknown>): void {
+function paged(root: string, at: string, held: Record<string, unknown>): undefined {
   put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
 }
 
-function filedAll(root: string, at: string, said: readonly Record<string, string>[]): void {
+function filedAll(root: string, at: string, said: readonly Record<string, string>[]): undefined {
   put(root, `.git/data/index/${at}`, said.map((one) => `${JSON.stringify(one)}\n`).join(""))
 }
 
-function filed(root: string, at: string, said: Record<string, string>): void {
+function filed(root: string, at: string, said: Record<string, string>): undefined {
   filedAll(root, at, [said])
 }
 
-function indexed(root: string, indexName: string): void {
+function indexed(root: string, indexName: string): undefined {
   paged(root, INDEX_AT, {
     id: INDEX_ID,
     pageTypeSlug: INDEX,
@@ -96,7 +96,7 @@ function indexed(root: string, indexName: string): void {
   filed(root, `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
 }
 
-function edged(root: string, kind: string, held: Record<string, unknown>): void {
+function edged(root: string, kind: string, held: Record<string, unknown>): undefined {
   paged(root, EDGE_AT, {
     id: EDGE_ID,
     pageTypeSlug: GRAPH_EDGE,
