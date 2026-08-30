@@ -7,8 +7,8 @@ export const fileDomain = {
   definition: "what a seat must read for where the file's page sits",
   code: "ts",
   test: "ts",
-  runsOnRead: false,
-  runsOnWrite: false,
+  runsOnRead: true,
+  runsOnWrite: true,
   transitive: false,
   invariants: [
     {

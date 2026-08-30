@@ -7,8 +7,8 @@ export const fileImport = {
   definition: "what a seat must read for what the file imports",
   code: "ts",
   test: "ts",
-  runsOnRead: false,
-  runsOnWrite: false,
+  runsOnRead: true,
+  runsOnWrite: true,
   transitive: false,
   invariants: [
     {

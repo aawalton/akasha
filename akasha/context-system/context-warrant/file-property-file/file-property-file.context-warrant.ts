@@ -7,8 +7,8 @@ export const filePropertyFile = {
   definition: "what a seat must read for a file that is one property's own",
   code: "ts",
   test: "ts",
-  runsOnRead: false,
-  runsOnWrite: false,
+  runsOnRead: true,
+  runsOnWrite: true,
   transitive: false,
   invariants: [
     {
