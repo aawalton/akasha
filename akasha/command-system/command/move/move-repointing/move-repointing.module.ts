@@ -15,13 +15,11 @@ export const moveRepointing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name is written back quoted, so what stands in the body is spelled the way the body spells it.",
+      statement: "A name is written back quoted, matching the way the body spells it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name reaching nothing that moved is left as it stands, so a body naming none of them comes back unchanged.",
+      statement: "A name reaching nothing that moved is left as it stands.",
     },
   ],
 } as const satisfies Module
