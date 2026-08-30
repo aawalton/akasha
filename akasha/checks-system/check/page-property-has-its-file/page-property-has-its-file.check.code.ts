@@ -57,9 +57,14 @@ export function standsUncommitted(
   leaving: Leaving,
   page: string,
   path: string,
-  declared: ReadonlyMap<string, { readonly uncommitted: boolean }> | null
+  declared: ReadonlyMap<
+    string,
+    { readonly uncommitted: boolean; readonly required: boolean }
+  > | null
 ): boolean {
-  if (declared?.get(propertyOf(page, path))?.uncommitted !== true) return false
+  const said = declared?.get(propertyOf(page, path))
+  if (said?.uncommitted !== true) return false
+  if (!said.required) return true
   return existsSync(`${leaving.root}/${path}`)
 }
 

@@ -274,9 +274,35 @@ function declaring(stated: string): Record<string, Uint8Array> {
   }
 }
 
-test("a file holding an uncommitted value stands present when it is in the worktree, though the change never carries it", () => {
+const REQUIRED = ", required: true, uncommitted: true"
+
+test("a file holding a required uncommitted value stands present when it is in the worktree, though the change never carries it", () => {
   const root = rooted()
   inWorktree(root, CODE)
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], {
+      ...declaring(REQUIRED),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+  expect(said).toEqual([])
+})
+
+test("a required uncommitted value whose file stands nowhere at all is refused like any other", () => {
+  const root = rooted()
+  const said = pagePropertyHasItsFile(
+    over(root, [PAGE], {
+      ...declaring(REQUIRED),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+  expect(said).toEqual([{ path: PAGE, reason: ABSENT }])
+})
+
+test("an uncommitted value its declaration does not require is not asked for its file", () => {
+  const root = rooted()
   const said = pagePropertyHasItsFile(
     over(root, [PAGE], {
       ...declaring(", uncommitted: true"),
@@ -285,18 +311,6 @@ test("a file holding an uncommitted value stands present when it is in the workt
     })
   )
   expect(said).toEqual([])
-})
-
-test("a file holding an uncommitted value that stands nowhere at all is refused like any other", () => {
-  const root = rooted()
-  const said = pagePropertyHasItsFile(
-    over(root, [PAGE], {
-      ...declaring(", uncommitted: true"),
-      [PAGE]: body(', code: "ts"'),
-      [CODE]: null,
-    })
-  )
-  expect(said).toEqual([{ path: PAGE, reason: ABSENT }])
 })
 
 test("a declaration that does not say uncommitted is answered by the change, whatever stands in the worktree", () => {
