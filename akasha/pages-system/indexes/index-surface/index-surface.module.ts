@@ -11,8 +11,12 @@ export const indexSurface = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "An index is read by three operations and no more.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "An index is read by three operations and no more — whether a path stands and what a directory lists and the lines an entry file holds.",
+        "The three operations are whether a path stands and what a directory lists and the lines an entry file holds.",
     },
     {
       invariantKind: "departure",
@@ -40,13 +44,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here writes. A reading laid over another puts no file on the disk and takes none away.",
+      statement: "Nothing here writes.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here reads a page body. A page's own file stands in the repository rather than in the index.",
+      statement: "Nothing here reads a page body.",
     },
   ],
 } as const satisfies Module

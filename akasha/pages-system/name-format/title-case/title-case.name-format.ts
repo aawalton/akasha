@@ -15,7 +15,11 @@ export const titleCase = {
     {
       invariantKind: "gap",
       statement:
-        "Which word between the first and the last is important cannot be read off the name. A lower one is let through.",
+        "Which word between the first and the last is important cannot be read off the name.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A lower word between the first and the last is let through.",
     },
     {
       invariantKind: "constraint",

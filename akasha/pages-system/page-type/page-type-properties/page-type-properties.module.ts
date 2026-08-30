@@ -41,8 +41,7 @@ export const pageTypeProperties = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here judges what it gathers. Two properties landing on one key are answered as they stand.",
+      statement: "Nothing here judges what it gathers.",
     },
     {
       invariantKind: "absence",
@@ -50,7 +49,7 @@ export const pageTypeProperties = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the corpus. Every page read is one the index named first.",
+      statement: "Nothing here walks the corpus.",
     },
   ],
 } as const satisfies Module

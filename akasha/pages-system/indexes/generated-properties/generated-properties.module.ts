@@ -51,8 +51,7 @@ export const generatedProperties = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here works a value out or fills one in. This says only which properties are filled for the writer.",
+      statement: "Nothing here works a value out or fills one in.",
     },
   ],
 } as const satisfies Module

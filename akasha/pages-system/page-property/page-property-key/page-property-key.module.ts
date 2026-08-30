@@ -14,13 +14,11 @@ export const pagePropertyKey = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This is the way back from `page-export-name`: a key written in camel and the kebab slug it is filed under name one another.",
+      statement: "This is the way back from `page-export-name`.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here reads a page or the disk. A key has a slug whether or not a property of that slug stands.",
+      statement: "Nothing here reads a page or the disk.",
     },
   ],
 } as const satisfies Module

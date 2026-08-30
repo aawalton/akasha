@@ -10,8 +10,7 @@ export const lowerKebabCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A digit stands inside a word rather than between words. `id-is-a-uuid-version-7` is written in this format.",
+      statement: "A digit stands inside a word rather than between words.",
     },
     {
       invariantKind: "departure",

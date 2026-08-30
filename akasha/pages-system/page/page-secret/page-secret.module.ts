@@ -10,7 +10,7 @@ export const pageSecret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's secret values stand in one sops file beside it, keyed inside it.",
+      statement: "A page's secret values stand in one sops file beside it.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +34,11 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "Ciphertext is composed here and landed by the gate, as any other file is.",
+      statement: "Ciphertext is composed here and landed by the gate.",
     },
     {
       invariantKind: "departure",
-      statement: "That is what parts a secret from an uncommitted value, which no landing carries.",
+      statement: "That is what parts a secret from an uncommitted value.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A page with no sops file beside it carries no secrets, which is an answer.",
+      statement: "A page with no sops file beside it carries no secrets.",
     },
     {
       invariantKind: "departure",
@@ -64,8 +64,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`--filename-override` names the sops file the ciphertext is for, so the creation rule matches the page's own name.",
+      statement: "`--filename-override` names the sops file the ciphertext is for.",
     },
     {
       invariantKind: "departure",

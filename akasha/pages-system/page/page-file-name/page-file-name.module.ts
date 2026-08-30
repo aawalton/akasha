@@ -10,8 +10,7 @@ export const pageFileName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A name is read as its last three dotted parts. A stem carrying a dot stays the stem.",
+      statement: "A name is read as its last three dotted parts.",
     },
     {
       invariantKind: "departure",
@@ -28,18 +27,19 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a property's file holds is read as it is written. A property stands in whatever kind of file suits it.",
+      statement: "What a property's file holds is read as it is written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page and a file standing beside it answer the same page. The two are matched without either being read.",
+      statement: "A page and a file standing beside it answer the same page.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name a property's file stands under is built here as well as read here. What `heldIn` takes apart and what `besideAt` puts together stay one rule.",
+      statement: "The name a property's file stands under is built here as well as read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What `heldIn` takes apart and what `besideAt` puts together stay one rule.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +47,12 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "The tail `uncommitted` is reserved.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The tail `uncommitted` is reserved. A file carrying it holds the uncommitted values of the page it stands beside.",
+        "A file carrying the tail `uncommitted` holds the uncommitted values of the page it stands beside.",
     },
     {
       invariantKind: "departure",
@@ -56,8 +60,12 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "The tail `sops` is reserved.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The tail `sops` is reserved. A file carrying it holds the secret values of the page it stands beside.",
+        "A file carrying the tail `sops` holds the secret values of the page it stands beside.",
     },
     {
       invariantKind: "departure",
@@ -65,17 +73,15 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "One sops file holds every secret a page carries, keyed inside it.",
+      statement: "One sops file holds every secret a page carries.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page's sops file is what it already stands under, so a page moving in keeps its name.",
+      statement: "A page's sops file is what it already stands under.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here reads the index or the disk. A name that answers a page is a name shaped like one whether or not that page stands.",
+      statement: "Nothing here reads the index or the disk.",
     },
   ],
 } as const satisfies Module

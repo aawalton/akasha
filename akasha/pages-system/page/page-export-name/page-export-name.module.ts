@@ -19,8 +19,7 @@ export const pageExportName = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here loads a module or reads the disk. A slug has a name whether or not a page of that slug stands.",
+      statement: "Nothing here loads a module or reads the disk.",
     },
   ],
 } as const satisfies Module

@@ -14,13 +14,11 @@ export const upperCamelCase = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A capital opens a word and a word may be one letter. `PageUUID` reads as `Page` and four one-letter words.",
+      statement: "A capital opens a word and a word may be one letter.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "Whether an acronym is one word or several cannot be read off the name. Neither `PageUuid` nor `PageUUID` is refused.",
+      statement: "Whether an acronym is one word or several cannot be read off the name.",
     },
   ],
 } as const satisfies NameFormat

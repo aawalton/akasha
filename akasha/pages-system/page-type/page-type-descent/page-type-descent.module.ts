@@ -23,13 +23,15 @@ export const pageTypeDescent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller holding the index as its change leaves it is answered from that. One holding only a root is answered as before.",
+      statement: "A caller holding the index as its change leaves it is answered from that.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller holding only a root is answered as before.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here walks the corpus. Every page type read is one the index named first.",
+      statement: "Nothing here walks the corpus.",
     },
   ],
 } as const satisfies Module

@@ -14,8 +14,11 @@ export const nameMatching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A format's whole judgement is the shape on the format's own page. No format is a second spelling of another.",
+      statement: "A format's whole judgement is the shape on the format's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No format is a second spelling of another.",
     },
     {
       invariantKind: "constraint",
@@ -23,8 +26,7 @@ export const nameMatching = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here knows a format's slug or reads a page. A shape is handed in and answers for itself.",
+      statement: "Nothing here knows a format's slug or reads a page.",
     },
   ],
 } as const satisfies Module

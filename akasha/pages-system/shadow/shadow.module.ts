@@ -64,7 +64,7 @@ export const shadow = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes to the index. A shadow is read and never landed.",
+      statement: "Nothing here writes to the index.",
     },
   ],
 } as const satisfies Module
