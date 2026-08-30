@@ -14,7 +14,8 @@ export const codeSource = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a node can be asked what holds it is named, not passed as a bare flag.",
+      statement:
+        "Whether a node can be asked what holds it is named rather than passed as a bare flag.",
     },
     {
       invariantKind: "departure",
@@ -22,17 +23,17 @@ export const codeSource = {
     },
     {
       invariantKind: "departure",
-      statement: "A node is answered at where its own text starts, past whatever trivia leads it.",
+      statement: "A node is answered at where its own text starts past whatever trivia leads it.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges a body or knows why it is read. A check, a rule and a move all parse the same way and differ only in what they then walk.",
+        "Nothing here judges a body or knows why it is read. A check and a rule and a move all parse the same way and differ only in what they then walk.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads the disk. A path is a name the parse carries so a node can say where it stands, never a file this opens.",
+        "Nothing here reads the disk. A path is a name the parse carries so a node can say where it stands rather than a file this opens.",
     },
   ],
 } as const satisfies Module
