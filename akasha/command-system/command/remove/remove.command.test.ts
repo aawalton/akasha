@@ -3,6 +3,7 @@ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
 import { stands } from "../../../testing-system/putting/putting.module.code.ts"
+import { readingIn, recordRead } from "../../reading/reading.module.code.ts"
 import { emptiedBy, namedIn, pruneEmptied, remove, wouldEmpty } from "./remove.command.code.ts"
 import {
   BESIDE,
@@ -21,6 +22,10 @@ import { remove as removeCommand } from "./remove.command.ts"
 
 afterAll(scratch.sweep)
 
+const AGENT = "01a04bed-1461-7364-8579-6799d5aa8ea0"
+
+const GONE = "akasha/one/nowhere.ts"
+
 test("named paths are taken away and the removal is committed", () => {
   const root = repoWith({ [HELD]: BODY, "akasha/one/kept.module.ts": BODY })
   const said = remove(naming(HELD), givenIn(root))
@@ -33,12 +38,36 @@ test("named paths are taken away and the removal is committed", () => {
   expect(said.report.at(-1)).toStartWith("committed as ")
 })
 
-test("a path that is not there is refused, and nothing else is taken", () => {
+test("a path that is not there is already gone, and what does stand is still taken", () => {
+  const root = repoWith({ [HELD]: BODY })
+  const said = remove(naming(HELD, GONE), givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe(`${HELD} taken away`)
+  expect(said.report.join("\n")).toContain(`${GONE} was already gone`)
+  expect(stands(root, HELD)).toBe(false)
+})
+
+test("a removal forgets the reading of what went, for every agent holding one", () => {
+  const root = repoWith({ [HELD]: BODY, [KEPT]: BODY })
+  recordRead(root, AGENT, { path: HELD, oid: "one", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: KEPT, oid: "two", seenAt: 1, mechanicalOid: null })
+  const said = remove(naming(HELD), givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(readingIn(root, AGENT, HELD)).toBeNull()
+  expect(readingIn(root, AGENT, KEPT)?.oid).toBe("two")
+})
+
+test("naming a path already gone forgets its reading and commits nothing", () => {
   const root = repoWith({ [HELD]: BODY })
   const was = head(root)
-  const said = remove(naming(HELD, "akasha/one/nowhere.ts"), givenIn(root))
-  expect(said.code).toBe(1)
-  expect(said.refusals.join("\n")).toContain("is not there")
+  recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, mechanicalOid: null })
+  const said = remove(naming(GONE), givenIn(root))
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report.join("\n")).toContain(`${GONE} was already gone`)
+  expect(said.report.join("\n")).toContain("nothing stood to be taken away")
+  expect(readingIn(root, AGENT, GONE)).toBeNull()
   expect(stands(root, HELD)).toBe(true)
   expect(head(root)).toBe(was)
 })

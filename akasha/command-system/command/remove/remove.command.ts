@@ -29,7 +29,22 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A path that is not there is refused.",
+      statement:
+        "A path that is not there is already gone rather than refused, so naming it again takes nothing away and asks for nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A removal forgets the reading of every path it takes, and of a named path already gone, for every agent holding one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which named paths went and which were already gone is said, and neither is reported as the other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call where no named path stood commits nothing and still answers as done.",
     },
     {
       invariantKind: "departure",

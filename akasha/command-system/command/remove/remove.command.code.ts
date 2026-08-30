@@ -7,6 +7,7 @@ import { BREAK_GLASS, DRY_RUN, landingAsked } from "../../asking/asking.module.c
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
+import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
   FILE_PATH,
   glassIn,
@@ -132,6 +133,7 @@ export function pruneEmptied(root: string, gone: readonly string[]): readonly st
 type Opened = {
   readonly opened: readonly string[]
   readonly under: readonly string[]
+  readonly gone: readonly string[]
 }
 
 function openedIn(
@@ -141,6 +143,7 @@ function openedIn(
   const refusals: string[] = []
   const opened: string[] = []
   const under: string[] = []
+  const gone: string[] = []
   const seen = new Set<string>()
   for (const one of named) {
     const path = pathInside(root, one)
@@ -158,7 +161,7 @@ function openedIn(
     seen.add(path)
     const at = join(root, path)
     if (!existsSync(at)) {
-      refusals.push(`${path} is not there, so there is nothing to take away`)
+      gone.push(path)
       continue
     }
     if (statSync(at).isFile()) {
@@ -188,7 +191,15 @@ function openedIn(
     }
   }
   if (refusals.length > 0) return { refusals }
-  return { opened, under }
+  return { opened, under, gone }
+}
+
+function alreadyGone(gone: readonly string[], dry: boolean): readonly string[] {
+  return gone.map((one) =>
+    dry
+      ? `${one} is already gone, so nothing would be taken away for it`
+      : `${one} was already gone, so nothing was taken away for it and any reading of it is forgotten`
+  )
 }
 
 function wouldGo(
@@ -250,6 +261,21 @@ export function remove(argv: readonly string[], given: Given): Answer {
   if ("refusals" in held) return answering([], held.refusals, 1)
   const beside = besideAll(root, held.opened)
   const paths = [...held.opened, ...beside].sort()
+  const gone = [...held.gone].sort()
+  const already = alreadyGone(gone, read.dryRun)
+  if (paths.length === 0) {
+    if (!read.dryRun) dropReadings(root, gone)
+    return answering(
+      [
+        ...already,
+        read.dryRun
+          ? `nothing would be taken away — ${DRY_RUN}`
+          : "nothing stood to be taken away, so nothing was written and nothing was committed",
+      ],
+      [],
+      0
+    )
+  }
   const changes: readonly Change[] = paths.map((path) => ({ path, body: null }))
   const asked: Asked = {
     changes,
@@ -259,10 +285,12 @@ export function remove(argv: readonly string[], given: Given): Answer {
     unmoved: [],
     saying: (landed) => [
       ...landed.took.map((one) => `${one} taken away`),
+      ...already,
       ...wentWith(root, paths, held.under, beside),
     ],
   }
   const said = landingAsked({ ...given, root }, asked)
+  if (said.code === 0 && !read.dryRun) dropReadings(root, [...paths, ...gone])
   if (said.code !== 0 || !read.dryRun) return said
-  return answering([...wouldGo(root, paths, held.under, beside), ...said.report], [], 0)
+  return answering([...wouldGo(root, paths, held.under, beside), ...already, ...said.report], [], 0)
 }
