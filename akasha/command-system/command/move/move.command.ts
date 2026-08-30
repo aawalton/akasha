@@ -41,8 +41,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file holding uncommitted values goes with the page it stands beside, carried on disk once the move lands.",
+      statement: "A file holding uncommitted values goes with the page it stands beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file is carried on disk once the move lands.",
     },
     {
       invariantKind: "departure",
@@ -51,11 +54,11 @@ export const move = {
     {
       invariantKind: "departure",
       statement:
-        "The bodies a move carries and repoints are read from the commit it stood on, never from the working tree.",
+        "The bodies a move carries and repoints are read from the commit it stood on rather than from the working tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A move changes where a file stands, never what it is called.",
+      statement: "A move changes where a file stands rather than what it is called.",
     },
     {
       invariantKind: "departure",
@@ -69,13 +72,16 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path spelled as plain text is repointed as readily as one naming a module, and a body reaches by both.",
+      statement: "A path spelled as plain text is repointed as readily as one naming a module.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body reaches by both.",
     },
     {
       invariantKind: "absence",
       statement:
-        "A string standing for no path that moves is left as it is, unless it names a module and the body holding it moves.",
+        "A string standing for no path that moves is left as it is unless it names a module and the body holding it moves.",
     },
     {
       invariantKind: "departure",
