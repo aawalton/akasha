@@ -6,7 +6,6 @@ import {
   pageTypesIn,
   textAt,
   type Value,
-  valueAt,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
@@ -286,17 +285,20 @@ export function reasonsIn(
 }
 
 export function readingIn(leaving: Leaving): Reading {
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const shadow = cast.shadow
   const held = new Map<string, Value | null>()
   return (pageTypeSlug, slug) => {
     const at = `${pageTypeSlug}/${slug}`
     const found = held.get(at)
     if (found !== undefined) return found
-    const standing = standingAt(leaving.root, pageTypeSlug, slug)
+    const standing = standingAt(shadow.reading, pageTypeSlug, slug)
     const one = standing.length === 1 ? standing[0] : undefined
     let value: Value | null = null
     if (one !== undefined) {
       const bytes = leaving.at(one.path)
-      if (bytes === null) value = valueAt(one.path, leaving.root)
+      if (bytes === null) value = shadow.pageOf(one.path)
       else {
         const given: Body = { root: leaving.root, path: one.path, bytes }
         const text = bodyOf(given)

@@ -35,11 +35,22 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Which page types stand is read from the index as the change leaves it, so a type the change adds is judged and one it takes away is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a page type above declares is read as the change leaves it, so a type extending one the same change adds inherits from it rather than introducing it again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A part is matched by the slug it addresses, never by the page type it names.",
     },
     {
       invariantKind: "departure",
-      statement: "A change carrying no page type is passed over without the index being read.",
+      statement:
+        "A change carrying no page type is passed over before the index as the change leaves it is worked out.",
     },
     {
       invariantKind: "absence",

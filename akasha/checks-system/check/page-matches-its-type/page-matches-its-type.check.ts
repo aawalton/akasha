@@ -29,6 +29,11 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Where a page type stands is read from the index as the change leaves it, so a type the change puts above another is walked to and what it declares binds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A record's fields are judged against the record property that declares them.",
     },
     {

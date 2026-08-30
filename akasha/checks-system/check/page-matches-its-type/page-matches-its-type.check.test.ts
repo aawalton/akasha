@@ -311,6 +311,9 @@ const THING_AT = "akasha/one.thing.ts"
 
 const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
 
+const UNIQUE_SLUG =
+  '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
+
 function generating(): string {
   const root = scratch.rootFor("akasha-generating-")
   put(
@@ -328,11 +331,7 @@ function generating(): string {
       ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
   )
   const index = indexIn(root)
-  put(
-    index,
-    "schema/page-property/slug/slug.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
-  )
+  put(index, "schema/page-property/slug/slug.jsonl", UNIQUE_SLUG)
   put(
     index,
     "schema/page-property/slug/held.jsonl",
@@ -369,4 +368,53 @@ test("a page already standing is refused for dropping a property a generator fil
   expect(overThing(true)).toEqual([
     { path: THING_AT, reason: "does not state `held`, which `page-type/thing` requires" },
   ])
+})
+
+const ALPHA_AT = "akasha/alpha.page-type.ts"
+
+const BOTH = '{ pagePropertySlug: "page-type-slug" }'
+
+function typing(id: string, slug: string, above: string, declares: string): string {
+  return (
+    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}",` +
+    ` extendsSlug: ${above}, properties: [${declares}] }\n`
+  )
+}
+
+const WAS_ALPHA = typing(THING_ID, "alpha", "null", BOTH)
+
+function bytesFor(bodies: Readonly<Record<string, string>>): (path: string) => Uint8Array | null {
+  return (path) => {
+    const said = bodies[path]
+    return said === undefined ? null : new TextEncoder().encode(said)
+  }
+}
+
+test("a page stating what a page type the change puts above its own declares is let through", () => {
+  const root = scratch.rootFor("akasha-extending-")
+  put(root, ALPHA_AT, WAS_ALPHA)
+  put(indexIn(root), "schema/page-property/slug/slug.jsonl", UNIQUE_SLUG)
+  put(
+    indexIn(root),
+    "identity/page-type/slug/alpha.jsonl",
+    `{"path":"${ALPHA_AT}","id":"${THING_ID}"}\n`
+  )
+  const now = {
+    [ALPHA_AT]: typing(THING_ID, "alpha", '"page-type/beta"', BOTH),
+    "akasha/beta.page-type.ts": typing(
+      GENERATED_ID,
+      "beta",
+      "null",
+      `${BOTH}, { pagePropertySlug: "note" }`
+    ),
+    "akasha/one.alpha.ts": 'export const one = { pageTypeSlug: "alpha", note: "hi" }\n',
+  }
+  expect(
+    pageMatchesItsType({
+      root,
+      changed: Object.keys(now).sort(),
+      at: bytesFor(now),
+      was: bytesFor({ [ALPHA_AT]: WAS_ALPHA }),
+    })
+  ).toEqual([])
 })

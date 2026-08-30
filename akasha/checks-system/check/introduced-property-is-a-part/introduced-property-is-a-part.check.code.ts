@@ -4,9 +4,13 @@ import {
   type Value,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
+  everyOfType,
   indexIn,
-  standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  type Shadow,
+  shadowFor,
+} from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
@@ -29,6 +33,8 @@ const SAID = "pagePropertySlug"
 const PARTS = "partSlugs"
 
 const ABOVE = "extendsSlug"
+
+const SLUG = "slug"
 
 export type Standing = {
   readonly slug: string
@@ -71,11 +77,7 @@ export function partedIn(value: Value | null): ReadonlySet<string> {
   return found
 }
 
-export function everyType(
-  leaving: Leaving,
-  read: Reading,
-  carried: readonly Carried[]
-): readonly Standing[] {
+export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly Standing[] {
   const found: Standing[] = []
   const held = new Set<string>()
   for (const one of carried) {
@@ -84,12 +86,12 @@ export function everyType(
     held.add(slug)
     found.push({ slug, path: one.path, value: one.value })
   }
-  const taken = new Set(leaving.changed.filter((one) => leaving.at(one) === null))
-  for (const slug of pageTypesIn(indexIn(leaving.root))) {
-    if (held.has(slug)) continue
-    const at = standingAt(leaving.root, PAGE_TYPE, slug)[0]
-    if (at === undefined || taken.has(at.path)) continue
-    found.push({ slug, path: at.path, value: read(PAGE_TYPE, slug) })
+  for (const at of everyOfType(shadow.reading, PAGE_TYPE)) {
+    const value = shadow.pageOf(at.path)
+    const slug = value === null ? null : textAt(value, SLUG)
+    if (slug === null || held.has(slug)) continue
+    held.add(slug)
+    found.push({ slug, path: at.path, value })
   }
   return found
 }
@@ -119,8 +121,10 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
 export function introducedPropertyIsAPart(leaving: Leaving): readonly Judged[] {
   const carried = carriedBy(leaving, pageTypesIn(indexIn(leaving.root)))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
+  const cast = shadowFor(leaving)
+  if ("refused" in cast) throw new Error(cast.refused)
   const read = readingIn(leaving)
-  const standing = everyType(leaving, read, carried)
+  const standing = everyType(cast.shadow, carried)
   const introducers = introducersIn(standing, read)
   const said: Judged[] = []
   for (const one of standing) {
