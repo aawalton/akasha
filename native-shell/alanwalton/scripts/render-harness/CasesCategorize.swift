@@ -2,30 +2,27 @@ import CoreGraphics
 import Foundation
 import WidgetKit
 
-func categorizeBody(unreviewed: Int, intake: Int = 246) -> String {
-    #"{"unreviewed":\#(unreviewed),"total":2951,"intake":\#(intake)}"#
+func categorizeBody(unreviewed: Int) -> String {
+    #"{"unreviewed":\#(unreviewed)}"#
 }
 
 let CATEGORIZATION_FIXTURE = categorizeBody(unreviewed: 19)
 
 func categorizeCases() -> [RenderCase] {
-    func categorizeWorded(unreviewed: Int, words: String, intake: Int = 246) -> String {
-        #"{"unreviewed":\#(unreviewed),"total":2951,"intake":\#(intake),"#
-            + #""noneLeftWords":"\#(words)"}"#
+    func categorizeWorded(unreviewed: Int, words: String) -> String {
+        #"{"unreviewed":\#(unreviewed),"noneLeftWords":"\#(words)"}"#
     }
     func categorizeCelebrated(
-        unreviewed: Int, emoji: String, words: String? = nil, intake: Int = 246
+        unreviewed: Int, emoji: String, words: String? = nil
     ) -> String {
         let worded = words.map { #","noneLeftWords":"\#($0)""# } ?? ""
-        return #"{"unreviewed":\#(unreviewed),"total":2951,"intake":\#(intake),"#
-            + #""noneLeftEmoji":"\#(emoji)"\#(worded)}"#
+        return #"{"unreviewed":\#(unreviewed),"noneLeftEmoji":"\#(emoji)"\#(worded)}"#
     }
     func categorizeScaled(
-        unreviewed: Int, intake: Int = 246, yellowAt: Int? = 0, orangeAt: Int, redAt: Int,
-        blackAt: Int
+        unreviewed: Int, yellowAt: Int? = 0, orangeAt: Int, redAt: Int, blackAt: Int
     ) -> String {
         let yellowed = yellowAt.map { #""yellowAt":\#($0),"# } ?? ""
-        return #"{"unreviewed":\#(unreviewed),"total":2951,"intake":\#(intake),"#
+        return #"{"unreviewed":\#(unreviewed),"#
             + #""scale":{\#(yellowed)"orangeAt":\#(orangeAt),"redAt":\#(redAt),"#
             + #""blackAt":\#(blackAt)}}"#
     }
@@ -63,20 +60,9 @@ func categorizeCases() -> [RenderCase] {
                 unreviewed: 1, emoji: noneLeftEmoji, words: noneLeftWords)),
     ]
 
-    for band in [
-        (name: "yellow", unreviewed: 80),
-        (name: "red", unreviewed: 150),
-        (name: "black", unreviewed: 220),
-    ] {
-        all.append(
-            RenderCase(
-                name: "categorize-small-\(band.name)", widget: "CategorizeWidget",
-                familySource: "systemSmall", body: categorizeBody(unreviewed: band.unreviewed)))
-    }
-
     all.append(
         RenderCase(
-            name: "categorize-small-past-empty", widget: "CategorizeWidget",
+            name: "categorize-small-nine-hundred", widget: "CategorizeWidget",
             familySource: "systemSmall", body: categorizeBody(unreviewed: 900)))
 
     for band in [
@@ -102,15 +88,6 @@ func categorizeCases() -> [RenderCase] {
             familySource: "systemSmall",
             body: categorizeScaled(
                 unreviewed: 5, yellowAt: nil, orangeAt: 11, redAt: 21, blackAt: 31)))
-
-    for sweep in [(name: "narrow", intake: 60), (name: "wide", intake: 400)] {
-        all.append(
-            RenderCase(
-                name: "categorize-small-scaled-forty-sweep-\(sweep.name)",
-                widget: "CategorizeWidget", familySource: "systemSmall",
-                body: categorizeScaled(
-                    unreviewed: 40, intake: sweep.intake, orangeAt: 11, redAt: 21, blackAt: 31)))
-    }
 
     for moved in [(name: "red-at-twenty", redAt: 20), (name: "red-at-thirty", redAt: 30)] {
         all.append(
@@ -167,12 +144,10 @@ func categorizeCases() -> [RenderCase] {
 
     for empty in [
         (rule: "never-read", body: "", unreadable: true),
-        (rule: "missing-count", body: #"{"total":2951,"intake":246}"#, unreadable: true),
         (
-            rule: "zero-intake", body: #"{"unreviewed":0,"total":0,"intake":0}"#,
-            unreadable: false
+            rule: "missing-count", body: #"{"noneLeftWords":"All reviewed!"}"#,
+            unreadable: true
         ),
-        (rule: "no-intake", body: #"{"unreviewed":19,"total":2951}"#, unreadable: false),
     ] {
         all.append(
             RenderCase(

@@ -24,97 +24,38 @@ func countsThrew(_ json: String) -> Bool {
 }
 
 do {
-    let counts = try decodeCounts(#"{"unreviewed":19,"total":2951,"intake":246}"#)
+    let counts = try decodeCounts(#"{"unreviewed":19}"#)
     check(
         "a well-formed body decodes to its values",
-        counts.unreviewed == 19 && counts.total == 2951 && counts.intake == 246,
-        "unreviewed \(counts.unreviewed), total \(counts.total), "
-            + "intake \(String(describing: counts.intake))")
+        counts.unreviewed == 19,
+        "unreviewed \(counts.unreviewed)")
 } catch {
     check("a well-formed body decodes to its values", false, "threw: \(error)")
 }
 
 check(
     "a body missing unreviewed is rejected rather than read as zero",
-    countsThrew(#"{"total":2951,"intake":246}"#),
+    countsThrew(#"{"noneLeftWords":"All reviewed!"}"#),
     "unreviewed absent")
-check(
-    "a body missing total is rejected rather than read as zero",
-    countsThrew(#"{"unreviewed":19,"intake":246}"#),
-    "total absent")
-
-do {
-    let older = try decodeCounts(#"{"unreviewed":19,"total":2951}"#)
-    check(
-        "a body from before intake existed decodes rather than throwing",
-        older.intake == nil,
-        "intake \(String(describing: older.intake))")
-    check(
-        "and it draws no reading rather than a stale one",
-        older.settledFraction == nil,
-        "settledFraction \(String(describing: older.settledFraction))")
-} catch {
-    check("a body from before intake existed decodes rather than throwing", false, "threw: \(error)")
-    check("and it draws no reading rather than a stale one", false, "it did not decode")
-}
 
 check(
     "a body carrying the pre-#18176 uncategorized key is rejected",
-    countsThrew(#"{"uncategorized":19,"total":2951,"intake":246}"#),
+    countsThrew(#"{"uncategorized":19}"#),
     "the old spelling")
 
 check(
     "a non-integer count is rejected",
-    countsThrew(#"{"unreviewed":"nineteen","total":2951,"intake":246}"#),
+    countsThrew(#"{"unreviewed":"nineteen"}"#),
     "unreviewed as a string")
 
 do {
-    let zero = try decodeCounts(#"{"unreviewed":0,"total":0,"intake":0}"#)
+    let zero = try decodeCounts(#"{"unreviewed":0}"#)
     check(
-        "a 200 carrying zeros decodes rather than failing",
-        zero.unreviewed == 0 && zero.intake == 0,
-        "unreviewed \(zero.unreviewed), intake \(String(describing: zero.intake))")
-    check(
-        "a zero intake is not a fraction of anything",
-        zero.settledFraction == nil,
-        "settledFraction \(String(describing: zero.settledFraction))")
+        "a 200 carrying a zero count decodes rather than failing",
+        zero.unreviewed == 0,
+        "unreviewed \(zero.unreviewed)")
 } catch {
-    check("a 200 carrying zeros decodes rather than failing", false, "threw: \(error)")
-    check("a zero intake is not a fraction of anything", false, "it did not decode")
-}
-
-do {
-    let counts = try decodeCounts(#"{"unreviewed":0,"total":2951,"intake":246}"#)
-    check(
-        "a real intake does produce a fraction",
-        counts.settledFraction == 1,
-        "settledFraction \(String(describing: counts.settledFraction))")
-} catch {
-    check("a real intake does produce a fraction", false, "threw: \(error)")
-}
-
-do {
-    let behind = try decodeCounts(#"{"unreviewed":200,"total":2951,"intake":246}"#)
-    check(
-        "the ring is drawn against the month's intake rather than the year's total",
-        behind.settledFraction.map { $0 < 0.25 } == true,
-        "settledFraction \(String(describing: behind.settledFraction))")
-} catch {
-    check(
-        "the ring is drawn against the month's intake rather than the year's total", false,
-        "threw: \(error)")
-}
-
-do {
-    let swamped = try decodeCounts(#"{"unreviewed":900,"total":2951,"intake":246}"#)
-    check(
-        "a backlog past the month's whole intake draws empty rather than negative",
-        swamped.settledFraction == 0,
-        "settledFraction \(String(describing: swamped.settledFraction))")
-} catch {
-    check(
-        "a backlog past the month's whole intake draws empty rather than negative", false,
-        "threw: \(error)")
+    check("a 200 carrying a zero count decodes rather than failing", false, "threw: \(error)")
 }
 
 private func describeOutcome(_ outcome: FetchOutcome) -> String {
@@ -125,7 +66,7 @@ private func describeOutcome(_ outcome: FetchOutcome) -> String {
     }
 }
 
-private let servedBody = Data(#"{"unreviewed":19,"total":2951,"intake":246}"#.utf8)
+private let servedBody = Data(#"{"unreviewed":19}"#.utf8)
 
 check(
     "a 200 is the body it carried",
