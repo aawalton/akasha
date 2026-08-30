@@ -11,7 +11,7 @@ export const indexIdentity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An identity file is found by scope, then property, then value.",
+      statement: "An identity file is found by scope then property then value.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +31,11 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The identifiers are the properties stating a `unique`, which today are `id` and `slug`.",
+      statement: "The identifiers are the properties stating a `unique`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The properties stating a `unique` today are `id` and `slug`.",
     },
     {
       invariantKind: "departure",
