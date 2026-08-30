@@ -21,7 +21,7 @@ const PAGE = "akasha/one/aine.claude-account.ts"
 
 const BESIDE = "akasha/one/aine.claude-account.sops.yaml"
 
-const REPO = join(dirname(import.meta.path), "..", "..", "..", "..", "..")
+const REPO = join(dirname(import.meta.path), "..", "..", "..", "..")
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-secret-")
