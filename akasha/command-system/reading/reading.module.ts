@@ -28,11 +28,11 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "One agent's readings are one agent's own file, so two agents never write one.",
+      statement: "One agent's readings are one agent's own file.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading of a path replaces the one before it, so a path stands at one body.",
+      statement: "A reading of a path replaces the one before it.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +41,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Reading a body again clears what a mechanical change left, because the agent has seen what stands there now.",
+      statement: "Reading a body again clears what a mechanical change left.",
     },
     {
       invariantKind: "departure",
@@ -74,8 +73,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A removal forgets the reading of what went, for every agent, because no body stands at that path to have been read.",
+      statement: "A removal forgets the reading of what went, for every agent.",
     },
     {
       invariantKind: "gap",
