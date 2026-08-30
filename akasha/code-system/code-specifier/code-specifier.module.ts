@@ -11,7 +11,7 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "Every way TypeScript names a module is read as one: an import or export naming where it comes from, a dynamic import, a require call, an import assignment, and a module named inside a type.",
+        "Every way TypeScript names a module is read as one: an import or export naming where it comes from and a dynamic import and a require call and an import assignment and a module named inside a type.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +19,11 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What names a module is a part of what a body spells, read by the same walk and answered the same way.",
+      statement: "What names a module is a part of what a body spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is read by the same walk and answered the same way.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +32,7 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "Specifiers are answered in the order they are written, however deep in the body they sit.",
+        "Specifiers are answered in the order they are written however deep in the body they sit.",
     },
     {
       invariantKind: "absence",
@@ -44,12 +47,12 @@ export const codeSpecifier = {
     {
       invariantKind: "absence",
       statement:
-        "Whether a landing may be reached is not judged here. A caller refusing one that climbs out of the root, or answering one spelt from the root, keeps that rule where it belongs.",
+        "Whether a landing may be reached is not judged here. A caller refusing one that climbs out of the root or answering one spelt from the root keeps that rule where it belongs.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads the disk or the index. A specifier is what the source says, whether or not the file it names stands.",
+        "Nothing here reads the disk or the index. A specifier is what the source says whether or not the file it names stands.",
     },
     {
       invariantKind: "departure",
