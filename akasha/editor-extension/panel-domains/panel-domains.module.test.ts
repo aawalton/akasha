@@ -17,25 +17,25 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, lines: readonly string[]): void {
+function filed(root: string, at: string, lines: readonly string[]): undefined {
   const path = join(indexIn(root), at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, `${lines.join("\n")}\n`)
 }
 
-function pageAt(root: string, path: string, body: string): void {
+function pageAt(root: string, path: string, body: string): undefined {
   const at = join(root, path)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, body)
 }
 
-function standing(root: string, kind: string, slug: string, id: string, body?: string): void {
+function standing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
   const path = `akasha/held/${slug}.${kind}.ts`
   filed(root, `identity/${kind}/slug/${slug}.jsonl`, [JSON.stringify({ path, id })])
   if (body !== undefined) pageAt(root, path, body)
 }
 
-function under(root: string, child: string, parent: string): void {
+function under(root: string, child: string, parent: string): undefined {
   filed(root, `relation/page/id/${child}/part-slugs/${parent}.jsonl`, [
     JSON.stringify({ path: "akasha/held/naming.domain.ts", id: parent }),
   ])

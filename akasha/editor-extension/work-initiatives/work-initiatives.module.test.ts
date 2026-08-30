@@ -15,7 +15,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, lines: readonly string[]): void {
+function filed(root: string, at: string, lines: readonly string[]): undefined {
   const path = join(indexIn(root), at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, `${lines.join("\n")}\n`)
@@ -25,13 +25,13 @@ function pathFor(slug: string): string {
   return `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`
 }
 
-function standing(root: string, slug: string, id: string): void {
+function standing(root: string, slug: string, id: string): undefined {
   filed(root, `identity/initiative/slug/${slug}.jsonl`, [
     JSON.stringify({ path: pathFor(slug), id }),
   ])
 }
 
-function under(root: string, child: string, parent: string): void {
+function under(root: string, child: string, parent: string): undefined {
   filed(root, `relation/page/id/${parent}/parent-slug/${child}.jsonl`, [
     JSON.stringify({ path: pathFor("naming"), id: child }),
   ])
@@ -103,7 +103,7 @@ test("a path the file name says is no initiative is passed over", () => {
   expect(initiativesDrawn(root)).toEqual([])
 })
 
-function pageAt(root: string, slug: string, body: string): void {
+function pageAt(root: string, slug: string, body: string): undefined {
   const path = join(root, pathFor(slug))
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, body)
