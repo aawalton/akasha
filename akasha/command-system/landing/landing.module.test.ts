@@ -9,7 +9,6 @@ import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module
 import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import type { Passed } from "./landing.module.code.ts"
 import { baseOf, landing, leavingOf } from "./landing.module.code.ts"
 import {
   A,
@@ -303,69 +302,6 @@ test("what was written is put back when the landing throws after writing", () =>
       ],
       "m",
       ADMITS
-    )
-  ).toThrow()
-  expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)
-  expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
-})
-
-test("work handed in for after the checks runs where they passed and not where they refused", () => {
-  const root = repoWith({ "one.txt": "committed" })
-  let ran = 0
-  const work: Passed = (leaving, changes) => {
-    ran += 1
-    expect(leaving.changed).toEqual(["new.txt"])
-    return changes
-  }
-  const asked = [{ path: "new.txt", body: bytes("held") }]
-  landing(root, asked, "held", REFUSES, null, null, [], work)
-  expect(ran).toBe(0)
-  landing(root, asked, "held", ADMITS, null, null, [], work)
-  expect(ran).toBe(1)
-})
-
-test("a path the work adds is written and committed with the rest", () => {
-  const root = repoWith({ "one.txt": "committed" })
-  const work: Passed = (_leaving, changes) => [
-    ...changes,
-    { path: "added.txt", body: bytes("added by the work") },
-  ]
-  const said = landing(
-    root,
-    [{ path: "new.txt", body: bytes("held") }],
-    "held",
-    ADMITS,
-    null,
-    null,
-    [],
-    work
-  )
-  expect("refusals" in said).toBe(false)
-  if ("refusals" in said) return
-  expect(said.wrote).toEqual(["new.txt", "added.txt"])
-  expect(readFileSync(join(root, "added.txt"), "utf8")).toBe("added by the work")
-  expect(git(root, ["ls-files"]).trim().split("\n")).toContain("added.txt")
-})
-
-test("what stood where the work reached is put back when the landing throws after writing", () => {
-  const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  mkdirSync(dataIn(root), { recursive: true })
-  writeFileSync(indexIn(root), "no directory stands here")
-  const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
-  const work: Passed = (_leaving, changes) => [
-    ...changes,
-    { path: "akasha/a.domain.ts", body: bytes("written over by the work") },
-  ]
-  expect(() =>
-    landing(
-      root,
-      [{ path: "akasha/b.domain.ts", body: bytes(b) }],
-      "m",
-      ADMITS,
-      null,
-      null,
-      [],
-      work
     )
   ).toThrow()
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe(A)

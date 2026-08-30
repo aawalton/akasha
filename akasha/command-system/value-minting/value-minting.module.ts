@@ -44,39 +44,9 @@ export const valueMinting = {
         "An index that will not answer works nothing out, the checks then refusing the page for the value it lacks, so a repository whose index is damaged is still one a caller can write to.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A number is worked out once the checks have passed and before anything is written, so a refused change spends none.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page takes the number its own page type holds, and that count rises in the same commit, so no number stands as taken by nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A page type holding no count hands out nothing, which is how a page type says it does not count.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Pages of one type take their numbers in the order of their paths, so one change lands the same numbers however it was written.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A body worked on after the checks is formatted again, the formatter having last seen a body without the value in it.",
-    },
-    {
       invariantKind: "gap",
       statement:
         "Whether the page type declares the property is not asked here, so a second early property would go into pages whose type declares none. The checks refuse those, and nothing lands.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "What lands after the checks pass is not quite what they judged. Only a number goes in, and the page type's count rises, neither of which any check would have spoken to.",
     },
     {
       invariantKind: "absence",

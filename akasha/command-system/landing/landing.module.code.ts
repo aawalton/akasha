@@ -100,9 +100,13 @@ function beforeOf(
   base: string,
   changed: readonly Change[]
 ): Map<string, Uint8Array | null> {
-  const held = new Map<string, Uint8Array | null>()
-  for (const one of changed) held.set(one.path, bodyAt(root, base, one.path))
-  return held
+  try {
+    const held = new Map<string, Uint8Array | null>()
+    for (const one of changed) held.set(one.path, bodyAt(root, base, one.path))
+    return held
+  } finally {
+    readingEnded()
+  }
 }
 
 function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>): undefined {
@@ -145,28 +149,6 @@ function movedBetween(
   return moved.sort()
 }
 
-export type Passed = (leaving: Leaving, changes: readonly Change[]) => readonly Change[]
-
-type Settled = {
-  readonly changes: readonly Change[]
-  readonly before: Map<string, Uint8Array | null>
-}
-
-function settledOn(
-  root: string,
-  base: string,
-  leaving: Leaving,
-  changes: readonly Change[],
-  passed: Passed | null
-): Settled {
-  try {
-    const held = passed === null ? changes : passed(leaving, changes)
-    return { changes: held, before: beforeOf(root, base, held) }
-  } finally {
-    readingEnded()
-  }
-}
-
 export function landing(
   root: string,
   changes: readonly Change[],
@@ -174,8 +156,7 @@ export function landing(
   judging: Judging,
   writer: string | null = null,
   read: string | null = null,
-  asRead: readonly AsRead[] = [],
-  passed: Passed | null = null
+  asRead: readonly AsRead[] = []
 ): Landed | Refused {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
@@ -229,15 +210,15 @@ export function landing(
         ],
       }
     }
-    const settled = settledOn(root, base, leaving, changes, passed)
+    const before = beforeOf(root, base, changes)
     const keeping = indexingLoaded()
     try {
-      const put = wroteOnto(root, settled.changes)
-      const noted = indexed(root, settled.changes, settled.before, keeping)
+      const put = wroteOnto(root, changes)
+      const noted = indexed(root, changes, before, keeping)
       const commit = committed(root, put.wrote, put.took, message, writer, base)
       return { base, commit, wrote: put.wrote, took: put.took, noted }
     } catch (thrown) {
-      restored(root, settled.before)
+      restored(root, before)
       throw thrown
     }
   })

@@ -1,20 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Leaving } from "../../checks-system/judging/judging.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
 import type { Change } from "../landing/landing.module.code.ts"
-import { baseOf, leavingOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
-  countingOnto,
   earlyIn,
   insertedInto,
   mintedFor,
   mintingOnto,
-  numberedIn,
   uuidVersion7,
 } from "./value-minting.module.code.ts"
 
@@ -79,7 +75,7 @@ function rooted(generator: string | null): string {
   property(root, "id", generator, "always")
   property(root, "slug", null, "page-type")
   kind(root, "uuid-v7", false)
-  kind(root, "next-seq", true)
+  kind(root, "held", true)
   put(
     indexIn(root),
     "identity/page-type/slug/thing.jsonl",
@@ -126,7 +122,7 @@ test("a body declaring no literal takes no value", () => {
 })
 
 test("a kind nothing here works out is refused rather than left unfilled", () => {
-  expect(() => mintedFor("next-seq", "seq")).toThrow("nothing here works that kind out")
+  expect(() => mintedFor("held", "id")).toThrow("nothing here works that kind out")
 })
 
 test("a property stating no generator is worked out nowhere", () => {
@@ -136,7 +132,7 @@ test("a property stating no generator is worked out nowhere", () => {
 })
 
 test("a property worked out after the checks is not worked out here", () => {
-  const root = rooted("next-seq")
+  const root = rooted("held")
   expect([...earlyIn(root, [carrying(BODY)])]).toEqual([])
 })
 
@@ -183,111 +179,4 @@ test("a path taken away takes no value", () => {
   const said = mintingOnto(root, [{ path: AT, body: null }])
   expect(said.filled).toEqual([])
   expect(said.changes).toEqual([{ path: AT, body: null }])
-})
-
-const TYPE_AT = "akasha/thing.page-type.ts"
-
-function typed(root: string, count: number | null): undefined {
-  const counted = count === null ? "" : `, nextSeq: ${count}`
-  put(
-    root,
-    TYPE_AT,
-    `export const thing = { id: "${HELD_ID}", pageTypeSlug: "page-type", slug: "thing"` +
-      `${counted} }\n`
-  )
-}
-
-function committed(root: string): string {
-  gitIn(root, ["add", "--", "akasha"])
-  gitIn(root, ["commit", "--quiet", "-m", "stood", "--", "akasha"])
-  return root
-}
-
-function counting(): string {
-  const root = rooted("uuid-v7")
-  property(root, "seq", "next-seq", "page-type")
-  typed(root, 1)
-  return committed(root)
-}
-
-function over(root: string, changes: readonly Change[]): readonly Change[] {
-  const leaving: Leaving = leavingOf(root, { base: baseOf(root), changed: changes })
-  return countingOnto(leaving, changes)
-}
-
-function bodyAt(changes: readonly Change[], path: string): string {
-  const found = changes.find((one) => one.path === path)
-  return found === undefined || found.body === null ? "" : new TextDecoder().decode(found.body)
-}
-
-test("a number already stated is written over where it stands, and nothing else moves", () => {
-  const said = numberedIn(
-    TYPE_AT,
-    'export const thing = { slug: "t", nextSeq: 4 }\n',
-    "nextSeq",
-    "9"
-  )
-  expect(said).toBe('export const thing = { slug: "t", nextSeq: 9 }\n')
-})
-
-test("a key the body does not state is written over nowhere", () => {
-  expect(numberedIn(TYPE_AT, 'export const thing = { slug: "t" }\n', "nextSeq", "9")).toBe(null)
-})
-
-test("a page being created takes the number its page type holds, and the count rises", () => {
-  const root = counting()
-  const said = over(root, [carrying(BODY)])
-  expect(bodyAt(said, AT)).toContain("seq: 1")
-  expect(bodyAt(said, TYPE_AT)).toContain("nextSeq: 2")
-})
-
-test("two pages of one type take two numbers, and the count rises by two", () => {
-  const root = counting()
-  const other = "akasha/two.thing.ts"
-  const said = over(root, [
-    carrying(BODY),
-    { path: other, body: new TextEncoder().encode(BODY.replace("one", "two")) },
-  ])
-  expect(bodyAt(said, AT)).toContain("seq: 1")
-  expect(bodyAt(said, other)).toContain("seq: 2")
-  expect(bodyAt(said, TYPE_AT)).toContain("nextSeq: 3")
-})
-
-test("a page type holding no count hands out nothing, and its pages are left as they stand", () => {
-  const root = rooted("uuid-v7")
-  property(root, "seq", "next-seq", "page-type")
-  typed(root, null)
-  committed(root)
-  const said = over(root, [carrying(BODY)])
-  expect(said).toHaveLength(1)
-  expect(bodyAt(said, AT)).toBe(BODY)
-})
-
-test("a page stating its own number keeps it, and the count does not move", () => {
-  const root = counting()
-  const said = over(root, [carrying(BODY.replace("{ ", "{ seq: 7, "))])
-  expect(said).toHaveLength(1)
-  expect(bodyAt(said, AT)).toContain("seq: 7")
-})
-
-test("a body carried from another path takes no number", () => {
-  const root = counting()
-  const said = over(root, [{ ...carrying(BODY), carried: true }])
-  expect(said).toHaveLength(1)
-})
-
-test("a page already standing takes no number", () => {
-  const root = counting()
-  put(root, AT, BODY)
-  gitIn(root, ["add", "--", AT])
-  gitIn(root, ["commit", "--quiet", "-m", "stood", "--", AT])
-  expect(over(root, [carrying(BODY.replace("one", "two"))])).toHaveLength(1)
-})
-
-test("nothing counts where no property names `next-seq`, and the changes come back as they were", () => {
-  const root = rooted("uuid-v7")
-  typed(root, 1)
-  committed(root)
-  const changes = [carrying(BODY)]
-  expect(over(root, changes)).toBe(changes)
 })
