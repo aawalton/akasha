@@ -16,6 +16,7 @@ export const pagesSystem = {
     "page-type/relation-property",
     "page-type/record-property",
     "page-type/file-property",
+    "page-type/phone-number-property",
     "page-type/name-format",
     "page-type/name-place",
     "page-type/generator-kind",
