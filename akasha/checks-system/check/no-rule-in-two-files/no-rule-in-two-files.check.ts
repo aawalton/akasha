@@ -40,7 +40,12 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "absence",
       statement:
-        "Only a function is read and only a renaming is defeated, as in the reading this shares with no-second-spelling.",
+        "No file owns a rule by exporting it. A module's export was once read as the home a respelling answered to, and that is not read here, so the two files are named alike and the writer picks.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Only a function is read and only a renaming is defeated, which is the whole of what the reading beneath this can answer.",
     },
     {
       invariantKind: "departure",

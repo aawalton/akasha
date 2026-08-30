@@ -48,7 +48,6 @@ export const check = {
     "check/no-re-export",
     "check/no-refused-syntax",
     "check/no-rule-in-two-files",
-    "check/no-second-spelling",
     "check/no-tmp",
     "check/page-matches-its-type",
     "check/page-named-as-stated",
