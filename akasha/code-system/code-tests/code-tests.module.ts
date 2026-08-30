@@ -12,12 +12,20 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run is answered whole: what it exited and what it printed and the summary read out of it and the verdict that follows. Every caller reads one answer rather than repeating how it is read.",
+        "A run is answered as what it exited and what it printed and the summary read out of it and the verdict that follows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every caller reads one answer rather than repeating how it is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run marks the child it spawns.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A run marks the child it spawns. A test reaching for this can tell it already stands inside a run and stops rather than starting another.",
+        "A test reaching for this can tell it already stands inside a run and stops rather than starting another.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +53,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A world borrows from the tree it is made from only what a run cannot stand without: the index and what a run is configured by and a link to the modules imported.",
+        "A world borrows from the tree it is made from only the index and what a run is configured by and a link to the modules imported.",
     },
     {
       invariantKind: "departure",
@@ -81,8 +89,12 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
+      statement: "How a run is reported is not answered here.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "How a run is reported is not answered here. What is printed and how much of it a caller may hold and what a refusal says belong to whoever asked for the run.",
+        "What is printed and how much of it a caller may hold and what a refusal says belong to whoever asked for the run.",
     },
     {
       invariantKind: "absence",
