@@ -4,8 +4,9 @@ export const amyAkashaAlone = {
   id: "01a04e91-5ad5-7ac1-ae90-504da91a967e",
   pageTypeSlug: "initiative",
   slug: "amy-akasha-alone",
-  domainSlug: "domain/akasha-alone",
+  domainSlug: "domain/editor-extension",
   personaSlug: "amy",
+  parentSlug: "akasha-alone",
   invariants: [
     {
       invariantKind: "gap",

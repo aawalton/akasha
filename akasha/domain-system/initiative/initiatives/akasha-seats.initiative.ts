@@ -1,10 +1,12 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Initiative } from "../initiative.page-type.ts"
 
 export const akashaSeats = {
-  id: "01a05012-41a2-7000-a31a-c92cbd92be43",
-  pageTypeSlug: "domain",
+  id: "01a05324-954d-7779-94a2-b303b61ad2f5",
+  pageTypeSlug: "initiative",
   slug: "akasha-seats",
-  definition: "seats, roles and personas kept in akasha",
+  domainSlug: "domain/seat-system",
+  personaSlug: "akasha",
+  parentSlug: "akasha-migration",
   invariants: [
     {
       invariantKind: "gap",
@@ -20,4 +22,4 @@ export const akashaSeats = {
         "A seat at work keeps working while its page moves, so the migration never stops the seats making it.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Initiative

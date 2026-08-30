@@ -51,11 +51,16 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative's name is its persona and its target domain.",
+      statement: "An initiative's name is its persona and what its work is toward.",
     },
     {
       invariantKind: "departure",
       statement: "An initiative's purpose is done once every intent it holds is met.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A state the migration passes through is an initiative, so it dies when it is reached rather than standing as a domain that is done.",
     },
     {
       invariantKind: "upkeep",

@@ -24,6 +24,7 @@ export const akashaSystem = {
     "domain/testing-system",
     "domain/seat-system",
     "domain/context-system",
+    "domain/akasha-required-reading",
     "domain/akasha-migration",
   ],
   invariants: [

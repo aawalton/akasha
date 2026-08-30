@@ -1,10 +1,12 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Initiative } from "../initiative.page-type.ts"
 
 export const akashaSeatReading = {
-  id: "01a05012-41a2-7001-b02c-83c7560a9c1a",
-  pageTypeSlug: "domain",
+  id: "01a05324-954d-733a-a5d2-5404defb82b4",
+  pageTypeSlug: "initiative",
   slug: "akasha-seat-reading",
-  definition: "the reading a seat cannot skip",
+  domainSlug: "domain/akasha-required-reading",
+  personaSlug: "akasha",
+  parentSlug: "akasha-migration",
   invariants: [
     {
       invariantKind: "gap",
@@ -19,4 +21,4 @@ export const akashaSeatReading = {
       statement: "A subagent owes what its seat owes, narrowed to what it was sent to do.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Initiative

@@ -1,10 +1,12 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { Initiative } from "../initiative.page-type.ts"
 
 export const akashaAlone = {
-  id: "01a04d8e-72a5-7b9f-97fd-749b14b8f473",
-  pageTypeSlug: "domain",
+  id: "01a05324-954d-70c5-aefd-044e95822b48",
+  pageTypeSlug: "initiative",
   slug: "akasha-alone",
-  definition: "the akasha system as the whole repository",
+  domainSlug: "domain/akasha-system",
+  personaSlug: "akasha",
+  parentSlug: "akasha-migration",
   invariants: [
     {
       invariantKind: "gap",
@@ -15,4 +17,4 @@ export const akashaAlone = {
       statement: "The akasha folder is the repository root.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies Initiative
