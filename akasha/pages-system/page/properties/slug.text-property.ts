@@ -15,5 +15,10 @@ export const slug = {
       invariantKind: "departure",
       statement: "A slug is unique among the pages of its page type.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A slug whose export name would be a reserved word is no slug: `import`, `default`, `class`, `function` and `new` are lower-kebab-case and reserved words both.",
+    },
   ],
 } as const satisfies TextProperty

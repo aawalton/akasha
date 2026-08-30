@@ -1,7 +1,7 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import.graph-edge.ts"
+import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -22,7 +22,7 @@ const SLUG = "slug"
 
 const ENDING = ".jsonl"
 
-const EDGE_PAGE_AT = "graph/import.graph-edge.ts"
+const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
 const INDEX_PAGE_AT = "graph/index-import.index.ts"
 

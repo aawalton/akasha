@@ -15,7 +15,7 @@ export const graphEdge = {
   definition: "a way one thing reaches another",
   pluralSlug: "graph-edges",
   partSlugs: [
-    "graph-edge/import",
+    "graph-edge/import-edge",
     "graph-edge/relation",
     "relation-property/index-slug",
     "relation-property/attribute-slugs",

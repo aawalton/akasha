@@ -17,6 +17,8 @@ const INDEX = "index"
 
 const IMPORT = "import"
 
+const IMPORT_EDGE = "import-edge"
+
 const RELATION = "relation"
 
 const PROPERTY = "property"
@@ -139,7 +141,7 @@ function stoodUp(indexName: string): string {
     tree: TREE,
     settled: [],
   })
-  edged(root, IMPORT, {})
+  edged(root, IMPORT_EDGE, {})
   indexed(root, indexName)
   return root
 }
@@ -177,8 +179,8 @@ test("the folder a relation is read from is the one the edge kind's index page n
 test("a file is answered with every file importing it", () => {
   const root = importWorld(IMPORT)
 
-  expect(edgesInto(root, TARGET_AT, [IMPORT])).toEqual([
-    { kind: IMPORT, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
+  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
   ])
 })
 
@@ -211,8 +213,8 @@ test("an index the answer needs, gone, is answered with nothing rather than refu
 test("what imports a file is read from the import index, whatever folder the edge page names", () => {
   const root = importWorld(HELD_IMPORT)
 
-  expect(edgesInto(root, TARGET_AT, [IMPORT])).toEqual([
-    { kind: IMPORT, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
+  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
   ])
 })
 
@@ -239,29 +241,31 @@ test("a page the corpus names is answered with every page naming it, and through
 test("a file three deep in what imports it is reached, so the closure closes", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
 
-  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
+  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE])).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
 })
 
 test("a cycle is walked once, so an answer comes back rather than a run that does not end", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [FIRST_AT] })
 
-  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([FIRST_AT, SECOND_AT])
+  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE])).toEqual([FIRST_AT, SECOND_AT])
 })
 
 test("a node the predicate turns away is left out, and what stands behind it is not reached", () => {
   const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
 
-  const kept = reachingInto(root, [FIRST_AT], [IMPORT], (one) => one.endsWith(ENDING))
+  const kept = reachingInto(root, [FIRST_AT], [IMPORT_EDGE], (one) => one.endsWith(ENDING))
 
   expect(kept).toEqual([FIRST_AT])
-  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([APART_AT, FIRST_AT, THIRD_AT])
+  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE])).toEqual([APART_AT, FIRST_AT, THIRD_AT])
 })
 
 test("a seed is part of the answer, and a seed the predicate turns away is none of it", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
 
-  const kept = reachingInto(root, [FIRST_AT, APART_AT], [IMPORT], (one) => one.endsWith(ENDING))
+  const kept = reachingInto(root, [FIRST_AT, APART_AT], [IMPORT_EDGE], (one) =>
+    one.endsWith(ENDING)
+  )
 
-  expect(reachingInto(root, [SECOND_AT], [IMPORT])).toEqual([SECOND_AT])
+  expect(reachingInto(root, [SECOND_AT], [IMPORT_EDGE])).toEqual([SECOND_AT])
   expect(kept).toEqual([FIRST_AT, SECOND_AT])
 })

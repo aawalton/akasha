@@ -19,7 +19,7 @@ import { addressIn } from "../../pages-system/page/page-address/page-address.mod
 
 const GRAPH_EDGE = "graph-edge"
 
-const IMPORT = "import"
+const IMPORT_EDGE = "import-edge"
 
 const RELATION = "relation"
 
@@ -176,7 +176,7 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
     const asking = askingFor(root, kind, asked)
-    if (kind === IMPORT) found.push(...importsInto(root, path, asking))
+    if (kind === IMPORT_EDGE) found.push(...importsInto(root, path, asking))
     else if (kind === RELATION) found.push(...relationsInto(root, reading, path, asking, asked))
     else {
       throw new Error(
