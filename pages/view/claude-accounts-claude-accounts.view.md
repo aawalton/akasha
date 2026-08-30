@@ -62,7 +62,6 @@ hidden-properties-order:
   - default-worker-model
   - detail-config
   - email
-  - extended-context-available
   - fable-at-limit-until
   - fallback-worker-model
   - favorited-at

@@ -8,7 +8,6 @@ email: aawalton@gmail.com
 alias-index: 1
 subscription-type: max
 rate-limit-tier: default_claude_max_20x
-extended-context-available: true
 renewal-day: 27
 scopes:
   - user:inference

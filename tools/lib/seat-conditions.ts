@@ -17,12 +17,19 @@ export interface SeatConditions {
   readonly toolTimeout: string | null
   readonly resumeThresholdMinutes: string | null
   readonly resumeTokenThreshold: string | null
+  readonly extendedContextAvailable: boolean
 }
 
 function stated(values: Values, key: string): string | null {
   const held = textOf(values, key)
   if (held === null || held.trim() === "" || held === NONE) return null
   return held
+}
+
+// A flag a seat runs under. Absent reads as false, the property defaulting so rather than
+// this deciding it.
+function flagged(values: Values, key: string): boolean {
+  return textOf(values, key) === "true"
 }
 
 export function readSeatConditions(): SeatConditions {
@@ -47,5 +54,6 @@ export function readSeatConditions(): SeatConditions {
     toolTimeout: stated(row.values, "tool-timeout"),
     resumeThresholdMinutes: stated(row.values, "resume-threshold-minutes"),
     resumeTokenThreshold: stated(row.values, "resume-token-threshold"),
+    extendedContextAvailable: flagged(row.values, "extended-context-available"),
   }
 }

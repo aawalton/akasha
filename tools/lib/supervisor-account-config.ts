@@ -1,4 +1,3 @@
-import { extendedContextAvailable } from "./claude-account-page.ts"
 import { parseModel, toCliAlias } from "./model-vocab.ts"
 import { readSeatConditions } from "./seat-conditions.ts"
 import { LOG } from "./supervisor-config.ts"
@@ -8,8 +7,11 @@ export type WorkerModelDeps = {
   getExtendedContextAvailable: () => Promise<boolean>
 }
 
+// Whether the long context window may be asked for. This is one answer for the fleet: a seat's
+// model alias is settled at spawn and the account carrying a call is chosen per call afterwards,
+// so no account is known here to ask.
 export async function getExtendedContextAvailable(): Promise<boolean> {
-  return extendedContextAvailable()
+  return readSeatConditions().extendedContextAvailable
 }
 
 const defaultWorkerModelDeps: WorkerModelDeps = {

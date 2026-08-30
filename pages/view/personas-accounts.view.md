@@ -21,7 +21,6 @@ visible-properties:
   - default-headless-model
   - fallback-worker-model
   - default-auto-compact-window
-  - extended-context-available
   - default-agent-effort-level
   - seven-day-utilization
   - session-kind
@@ -37,7 +36,6 @@ always-show-properties:
   - default-headless-model
   - fallback-worker-model
   - default-auto-compact-window
-  - extended-context-available
   - default-agent-effort-level
   - seven-day-utilization
 hidden-properties-order:

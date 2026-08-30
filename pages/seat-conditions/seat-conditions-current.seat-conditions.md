@@ -6,4 +6,5 @@ title: "Seat conditions current"
 subagent-model: none
 fallback-model: fable
 effort-level: none
+extended-context-available: true
 ---
