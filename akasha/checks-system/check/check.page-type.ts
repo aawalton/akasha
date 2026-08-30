@@ -35,6 +35,7 @@ export const check = {
     "check/identifier-matches-its-place",
     "check/identifier-names-one-page",
     "check/imports-inside",
+    "check/index-asked-not-reached",
     "check/introduced-property-is-a-part",
     "check/lint-clean",
     "check/no-class",
