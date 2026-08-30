@@ -22,9 +22,7 @@ export const differing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Both bodies a difference is taken between are written out first, so it is never taken " +
-        "against a file that is still being written.",
+      statement: "Both bodies a difference is taken between are written out first.",
     },
     {
       invariantKind: "departure",
