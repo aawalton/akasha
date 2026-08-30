@@ -23,6 +23,7 @@ export const akashaSystem = {
     "domain/editor-extension",
     "domain/testing-system",
     "domain/seat-system",
+    "domain/persona-system",
     "domain/context-system",
     "domain/akasha-required-reading",
     "domain/akasha-migration",
