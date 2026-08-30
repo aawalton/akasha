@@ -9,7 +9,6 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import { gather } from "../grouping/grouping.module.code.ts"
 
 const DOMAIN = "domain"
 
@@ -50,18 +49,16 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     const address = addressOf(one.path)
     if (address !== null) addressById.set(one.id, address)
   }
-  const parentsOf = new Map<string, string[]>()
-  const naming = new Set<string>()
-  for (const one of standing) {
+  const edges = standing.flatMap((one) => {
     const child = addressById.get(one.id)
-    if (child === undefined) continue
-    for (const above of idsNaming(root, one.id, PARTS)) {
+    if (child === undefined) return []
+    return [...idsNaming(root, one.id, PARTS)].flatMap((above) => {
       const parent = addressById.get(above)
-      if (parent === undefined) continue
-      gather(parentsOf, child, parent)
-      naming.add(parent)
-    }
-  }
+      return parent === undefined ? [] : [{ child, parent }]
+    })
+  })
+  const parentsOf = Map.groupBy(edges, (one) => one.child)
+  const naming = new Set(edges.map((one) => one.parent))
   const sequenceOf = new Map<string, readonly string[]>()
   for (const one of standing) {
     const address = addressById.get(one.id)
@@ -76,7 +73,7 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     drawn.push({
       slug: address,
       path: one.path,
-      parent: above.length === 1 ? (above[0] ?? null) : null,
+      parent: above.length === 1 ? (above[0]?.parent ?? null) : null,
       sequence: sequenceOf.get(address) ?? [],
     })
   }

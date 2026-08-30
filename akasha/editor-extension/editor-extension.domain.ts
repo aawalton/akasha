@@ -5,7 +5,7 @@ export const editorExtension = {
   pageTypeSlug: "domain",
   slug: "editor-extension",
   definition: "what the editor draws of the system it stands in",
-  partSlugs: ["module/work-initiatives", "module/panel-domains", "module/grouping"],
+  partSlugs: ["module/work-initiatives", "module/panel-domains"],
   invariants: [
     {
       invariantKind: "departure",

@@ -4,7 +4,6 @@ import {
   idsNaming,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { gather } from "../grouping/grouping.module.code.ts"
 
 const PAGE_TYPE = "initiative"
 
@@ -39,15 +38,15 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
     const slug = slugIn(one.path)
     if (slug !== null) slugById.set(one.id, slug)
   }
-  const parentsOf = new Map<string, string[]>()
-  for (const one of standing) {
+  const edges = [...standing].flatMap((one) => {
     const parent = slugById.get(one.id)
-    if (parent === undefined) continue
-    for (const naming of idsNaming(root, one.id, PARENT)) {
+    if (parent === undefined) return []
+    return [...idsNaming(root, one.id, PARENT)].flatMap((naming) => {
       const child = slugById.get(naming)
-      if (child !== undefined) gather(parentsOf, child, parent)
-    }
-  }
+      return child === undefined ? [] : [{ child, parent }]
+    })
+  })
+  const parentsOf = Map.groupBy(edges, (one) => one.child)
   const drawn: InitiativeRow[] = []
   for (const one of standing) {
     const slug = slugById.get(one.id)
@@ -56,7 +55,7 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
     drawn.push({
       slug,
       path: one.path,
-      parent: named.length === 1 ? (named[0] ?? null) : null,
+      parent: named.length === 1 ? (named[0]?.parent ?? null) : null,
       persona: personaAt(root, one.path),
     })
   }
