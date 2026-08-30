@@ -2,11 +2,13 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { overEachFile, overEachText } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
@@ -24,9 +26,9 @@ export type Rule = {
   readonly judge: Judging
 }
 
-export function rulesIn(root: string): readonly Rule[] {
+export function rulesIn(root: string, given: string | Reading): readonly Rule[] {
   const found: Rule[] = []
-  for (const one of everyOfType(root, RULE)) {
+  for (const one of everyOfType(given, RULE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)
@@ -73,8 +75,8 @@ export function refusalsIn(rules: readonly Rule[], path: string, text: string): 
   return said
 }
 
-export function noRefusedSyntax(leaving: Leaving): readonly Judged[] {
-  const rules = rulesIn(leaving.root)
+export function noRefusedSyntax(leaving: Leaving, shadow: Shadow): readonly Judged[] {
+  const rules = rulesIn(leaving.root, shadow.reading)
   return overEachFile(
     leaving,
     overEachText((path, text) => refusalsIn(rules, path, text))

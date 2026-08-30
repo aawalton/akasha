@@ -70,5 +70,5 @@ test("what a rule is handed is a parse of the text it was given", () => {
 
 test("a root where no syntax rule stands is refused, never answered clean", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
-  expect(() => rulesIn(root)).toThrow(/no syntax rule stands/)
+  expect(() => rulesIn(root, root)).toThrow(/no syntax rule stands/)
 })
