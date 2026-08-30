@@ -19,8 +19,14 @@ function literalIn(node: ts.Node): string | null {
   return null
 }
 
-function takenIn(source: ts.SourceFile, said: string[]): ReadonlySet<string> {
+type Taken = {
+  readonly bound: ReadonlySet<string>
+  readonly said: readonly string[]
+}
+
+function takenIn(source: ts.SourceFile): Taken {
   const bound = new Set<string>()
+  const said: string[] = []
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const named = specifierOf(one)
@@ -41,7 +47,7 @@ function takenIn(source: ts.SourceFile, said: string[]): ReadonlySet<string> {
       )
     }
   }
-  return bound
+  return { bound, said }
 }
 
 function reached(node: ts.Node, bound: ReadonlySet<string>): string | null {
@@ -53,8 +59,8 @@ function reached(node: ts.Node, bound: ReadonlySet<string>): string | null {
 
 export function reasonsFor(at: string, text: string): readonly string[] {
   const source = parsedAs(at, text)
+  const taken = takenIn(source)
   const said: string[] = []
-  const bound = takenIn(source, said)
   const walk = (node: ts.Node): undefined => {
     const value = literalIn(node)
     if (value !== null && IN_TMP.test(value)) {
@@ -62,7 +68,7 @@ export function reasonsFor(at: string, text: string): readonly string[] {
         `line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours stands`
       )
     }
-    const named = reached(node, bound)
+    const named = reached(node, taken.bound)
     if (named !== null) {
       said.push(
         `line ${lineOf(source, node)} reaches \`${named}.${TMPDIR}\`, and here that answers /tmp`
@@ -71,7 +77,7 @@ export function reasonsFor(at: string, text: string): readonly string[] {
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
-  return said
+  return [...taken.said, ...said]
 }
 
 function found(path: string, text: string): readonly string[] {
