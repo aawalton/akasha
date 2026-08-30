@@ -1,11 +1,5 @@
 import { DEFAULT_GREEN_DAY_POINTS } from "../../../readouts/ring/ladder/ladder.ts"
-import {
-  clampLevel,
-  levelForGreenDays,
-  percentProgressForGreenDays,
-  STAGES,
-  type Stage,
-} from "../closeness/closeness.ts"
+import { levelForGreenDays, percentProgressForGreenDays } from "../closeness/closeness.ts"
 
 export const WALLPAPER_COST = 2 ** 22
 
@@ -60,7 +54,6 @@ export interface Ledger {
   readonly spent: number
   readonly balance: number
   readonly level: number
-  readonly stage: Stage
   readonly percentProgress: number
   readonly nextWallpaperDeficit: number
 }
@@ -71,7 +64,6 @@ export function computeLedger(input: ComputeLedgerInput): Ledger {
   const balance = netBytes - spent
   const greenDayTotal = netBytes / (input.greenDayPoints ?? DEFAULT_GREEN_DAY_POINTS)
   const level = levelForGreenDays(greenDayTotal)
-  const stage = STAGES[clampLevel(level) - 1] ?? STAGES[0]
   const percentProgress = percentProgressForGreenDays(greenDayTotal)
   const nextWallpaperDeficit = Math.max(0, WALLPAPER_COST - balance)
   return {
@@ -81,7 +73,6 @@ export function computeLedger(input: ComputeLedgerInput): Ledger {
     spent,
     balance,
     level,
-    stage,
     percentProgress,
     nextWallpaperDeficit,
   }

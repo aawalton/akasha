@@ -9,6 +9,7 @@ import {
   type PendingReport,
 } from "../../../alan/persona/pending-report/pending-report.ts"
 import { FAITH_LEARN_DAILY_LADDER } from "../../../readouts/ring/ladder/ladder.ts"
+import { stageForLevel } from "../../lib/akasha-closeness.ts"
 import { booksRoot } from "../../lib/book-of-everything-root.ts"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
@@ -60,6 +61,8 @@ async function readWallpaperCount(): Promise<number> {
 const fmt = (n: number): string => n.toLocaleString("en-US")
 const pct = (n: number): string => `${n.toFixed(1)}%`
 
+const AKASHA_ROOT = new URL("../../..", import.meta.url).pathname
+
 function renderProse(r: PendingReport): string {
   const lines: string[] = [`Pending: ${fmt(r.pendingPoints)} points not yet landed (Learn).`]
 
@@ -74,7 +77,7 @@ function renderProse(r: PendingReport): string {
   }
 
   lines.push(
-    `Relationship: level ${r.currentLevel} (${r.currentStage}), ${pct(r.currentPercentProgress)} ` +
+    `Relationship: level ${r.currentLevel} (${stageForLevel(AKASHA_ROOT, r.currentLevel)}), ${pct(r.currentPercentProgress)} ` +
       `into the level. Landing this → level ${r.projectedLevel} (${pct(r.projectedPercentProgress)}).`
   )
   lines.push(

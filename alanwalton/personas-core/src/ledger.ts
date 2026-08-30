@@ -1,5 +1,4 @@
 import { z } from "zod"
-import { STAGES } from "../../../alan/persona/closeness/closeness.ts"
 import type { Ledger } from "../../../alan/persona/ledger/ledger.ts"
 
 export const LedgerContractSchema: z.ZodType<Ledger> = z
@@ -10,7 +9,6 @@ export const LedgerContractSchema: z.ZodType<Ledger> = z
     spent: z.number().int().nonnegative(),
     balance: z.number().int(),
     level: z.number().int().min(1),
-    stage: z.enum(STAGES),
     percentProgress: z.number().min(0).lt(100),
     nextWallpaperDeficit: z.number().int().nonnegative(),
   })

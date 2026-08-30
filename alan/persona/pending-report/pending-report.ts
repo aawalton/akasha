@@ -3,7 +3,6 @@ import {
   type DailyTierLadder,
   evalDailyTier,
 } from "../../../readouts/ring/tier/tier.ts"
-import type { Stage } from "../closeness/closeness.ts"
 import { computeLedger } from "../ledger/ledger.ts"
 
 export interface PendingReport {
@@ -16,11 +15,9 @@ export interface PendingReport {
   readonly pointsToNextTier: number | null
   readonly wallpaperCount: number
   readonly currentLevel: number
-  readonly currentStage: Stage
   readonly currentPercentProgress: number
   readonly currentNextWallpaperDeficit: number
   readonly projectedLevel: number
-  readonly projectedStage: Stage
   readonly projectedPercentProgress: number
   readonly projectedNextWallpaperDeficit: number
 }
@@ -53,11 +50,9 @@ export function buildPendingReport(input: BuildPendingReportInput): PendingRepor
     pointsToNextTier: daily.pointsToNextTier,
     wallpaperCount: input.wallpaperCount,
     currentLevel: current.level,
-    currentStage: current.stage,
     currentPercentProgress: current.percentProgress,
     currentNextWallpaperDeficit: current.nextWallpaperDeficit,
     projectedLevel: projected.level,
-    projectedStage: projected.stage,
     projectedPercentProgress: projected.percentProgress,
     projectedNextWallpaperDeficit: projected.nextWallpaperDeficit,
   }
