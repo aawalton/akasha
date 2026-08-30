@@ -12,11 +12,11 @@ export const codeLint = {
     {
       invariantKind: "departure",
       statement:
-        "A run is answered whole: what it exited, how many errors were counted, every finding named, and why it could not look where it could not.",
+        "A run is answered whole: what it exited and how many errors were counted and every finding named and why it could not look where it could not.",
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads. No fix, no write and no unsafe change is ever asked for.",
+      statement: "A run only reads. No fix and no write and no unsafe change is ever asked for.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const codeLint = {
     {
       invariantKind: "departure",
       statement:
-        "A root holding no linter is a run that was never made, not a tree that came back clean.",
+        "A root holding no linter is a run that was never made rather than a tree that came back clean.",
     },
     {
       invariantKind: "constraint",
@@ -43,13 +43,20 @@ export const codeLint = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here says which rules run. What is checked is what the linter is configured by, and a run carries no configuration of its own.",
+      statement: "Nothing here says which rules run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What is checked is what the linter is configured by.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run carries no configuration of its own.",
     },
     {
       invariantKind: "absence",
       statement:
-        "How findings are reported is not answered here. What is printed, how much of it a caller may hold, and what exit follows belong to whoever asked for the run.",
+        "How findings are reported is not answered here. What is printed and how much of it a caller may hold and what exit follows belong to whoever asked for the run.",
     },
   ],
 } as const satisfies Module
