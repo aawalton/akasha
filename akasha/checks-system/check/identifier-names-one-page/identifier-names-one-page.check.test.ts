@@ -1,11 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { identityAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   declaring,
+  identified,
   landing,
   NO_BYTES,
   pathFor,
@@ -13,6 +12,8 @@ import {
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const TEXT = "text-property"
+
+const PAGE_TYPE = "page-type"
 
 const ONE = "01a04f76-7430-7001-8000-000000000001"
 
@@ -25,10 +26,9 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 function typed(root: string, pageTypeSlug: string): undefined {
-  const dir = join(root, identityAt("page-type", "slug"))
-  mkdirSync(dir, { recursive: true })
-  const said = { path: `akasha/${pageTypeSlug}.page-type.ts`, id: `id-${pageTypeSlug}` }
-  writeFileSync(join(dir, `${pageTypeSlug}.jsonl`), `${JSON.stringify(said)}\n`)
+  standingFiled(root, PAGE_TYPE, pageTypeSlug, [
+    { path: `akasha/${pageTypeSlug}.page-type.ts`, id: `id-${pageTypeSlug}` },
+  ])
 }
 
 function rooted(): string {
@@ -41,16 +41,8 @@ function rooted(): string {
   return root
 }
 
-function filed(
-  root: string,
-  scope: string,
-  propertySlug: string,
-  said: string,
-  path: string
-): undefined {
-  const dir = join(root, identityAt(scope, propertySlug))
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${said}.jsonl`), `${JSON.stringify({ path, id: ONE })}\n`)
+function slugged(root: string, pageTypeSlug: string, slug: string, path: string): undefined {
+  standingFiled(root, pageTypeSlug, slug, [{ path, id: ONE }])
 }
 
 function body(kind: string, slug: string, id: string): Uint8Array {
@@ -62,7 +54,7 @@ function body(kind: string, slug: string, id: string): Uint8Array {
 
 test("a slug another page of its type already carries is refused", () => {
   const root = rooted()
-  filed(root, "check", "slug", "held", pathFor("check", "other"))
+  slugged(root, "check", "held", pathFor("check", "other"))
   const said = identifierNamesOnePage(
     landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
   )
@@ -87,7 +79,7 @@ test("two pages in one change carrying one slug are refused against each other",
 
 test("a page taking the slug a page the same change renames away is let through", () => {
   const root = rooted()
-  filed(root, "check", "slug", "held", pathFor("check", "one"))
+  slugged(root, "check", "held", pathFor("check", "one"))
   const said = identifierNamesOnePage(
     landing(
       root,
@@ -111,8 +103,8 @@ test("a page whose identifiers no other page carries is let through", () => {
 
 test("a page rewritten where it already stands is let through", () => {
   const root = rooted()
-  filed(root, "check", "slug", "held", pathFor("check", "held"))
-  filed(root, "page", "id", ONE, pathFor("check", "held"))
+  slugged(root, "check", "held", pathFor("check", "held"))
+  identified(root, ONE, pathFor("check", "held"))
   const said = identifierNamesOnePage(
     landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
   )
@@ -121,7 +113,7 @@ test("a page rewritten where it already stands is let through", () => {
 
 test("an id another page carries is refused though the pages are of different types", () => {
   const root = rooted()
-  filed(root, "page", "id", ONE, pathFor("module", "other"))
+  identified(root, ONE, pathFor("module", "other"))
   const said = identifierNamesOnePage(
     landing(root, { [pathFor("check", "held")]: body("check", "held", ONE) })
   )
@@ -207,7 +199,7 @@ test("a change carrying no page is passed over", () => {
 
 test("a page the change takes away frees what it carried", () => {
   const root = rooted()
-  filed(root, "check", "slug", "held", pathFor("check", "one"))
+  slugged(root, "check", "held", pathFor("check", "one"))
   const said = identifierNamesOnePage(
     landing(
       root,

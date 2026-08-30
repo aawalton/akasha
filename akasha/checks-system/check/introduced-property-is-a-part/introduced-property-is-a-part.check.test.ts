@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { identityAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
@@ -12,6 +12,8 @@ import {
 } from "./introduced-property-is-a-part.check.code.ts"
 
 const TEXT = "text-property"
+
+const PAGE_TYPE = "page-type"
 
 const QUALIFIED = `${TEXT}/foo`
 
@@ -45,10 +47,8 @@ function standing(
   declares: readonly string[],
   parts: readonly string[]
 ): undefined {
-  const dir = join(root, identityAt("page-type", "slug"))
-  mkdirSync(dir, { recursive: true })
   const path = pathFor(slug)
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`)
+  standingFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, path), stated(slug, above, declares, parts))
 }

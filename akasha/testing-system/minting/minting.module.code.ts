@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Phase } from "../../checks-system/checking/checking.module.code.ts"
-import { identityAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(leaving) {
@@ -14,6 +14,8 @@ export const ADMITS_CODE = `export function admits() {
   return []
 }
 `
+
+const CHECK = "check"
 
 const MINTED_FROM = "sha256"
 
@@ -61,9 +63,7 @@ export function minting(
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
   writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
-  const dir = join(root, identityAt("check", "slug"))
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path: at, id })}\n`)
+  standingFiled(root, CHECK, slug, [{ path: at, id }])
 }
 
 export const MINTED = "a check minted for a test"
