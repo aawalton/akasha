@@ -40,13 +40,12 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A commit landing elsewhere in the repository moves no path this change carries, so this change is not refused for it.",
+      statement: "A commit landing elsewhere in the repository moves no path this change carries.",
     },
     {
       invariantKind: "absence",
       statement:
-        "A change stating no commit it was read against is taken as read against what stands, because a body given from outside was never read from this repository at all.",
+        "A change stating no commit it was read against is taken as read against what stands.",
     },
     {
       invariantKind: "departure",
@@ -60,18 +59,15 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What was written is put back when anything after the writing throws, so a call that commits nothing leaves nothing behind either.",
+      statement: "What was written is put back when anything after the writing throws.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is put back is the base commit's bodies, so a body standing apart from the base before the writing is not the body put back.",
+      statement: "What is put back is the base commit's bodies.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "The index is not put back with the bodies, so a landing that throws part way through settling leaves it to be built again.",
+      statement: "The index is not put back with the bodies.",
     },
     {
       invariantKind: "departure",
@@ -91,8 +87,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index is settled before the commit, so no commit lands on an index blind to it.",
+      statement: "The index is settled before the commit.",
     },
     {
       invariantKind: "departure",
@@ -109,8 +104,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The index is reached only to keep it, so a refused change and a dry run never ask it to load.",
+      statement: "The index is reached only to keep it.",
     },
     {
       invariantKind: "departure",
@@ -119,8 +113,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change says whether the body it carries came from another path, because what a page being created is given is not given again to one that only moved.",
+      statement: "A change says whether the body it carries came from another path.",
     },
     {
       invariantKind: "gap",
