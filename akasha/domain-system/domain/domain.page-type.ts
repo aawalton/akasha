@@ -61,10 +61,6 @@ export const domain = {
       statement:
         "A domain stays even when nothing needs it any more. It goes only when it no longer fits the structure.",
     },
-    {
-      invariantKind: "gap",
-      statement: "An agent writes a domain's lines as well as Alan would.",
-    },
   ],
   directives: [
     {
