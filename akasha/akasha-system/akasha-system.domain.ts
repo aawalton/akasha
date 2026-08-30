@@ -40,7 +40,11 @@ export const akashaSystem = {
     {
       invariantKind: "departure",
       statement:
-        "The akasha folder holds some four hundred of this repository's near ninety thousand files, and the rest have yet to move in.",
+        "The akasha folder holds some four hundred of this repository's near ninety thousand files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rest have yet to move in.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +60,11 @@ export const akashaSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "The repository is a database, and this tree is its master replica.",
+      statement: "The repository is a database.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This tree is its master replica.",
     },
     {
       invariantKind: "departure",
