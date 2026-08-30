@@ -51,6 +51,7 @@ export const seat = {
     "text-property/proxy-version",
     "text-property/registration-account",
     "text-property/requested-action",
+    "text-property/rotated-session-uuid",
     "text-property/start-mode",
     "text-property/transcript-path",
   ],
@@ -77,6 +78,12 @@ export const seat = {
     { pagePropertySlug: "request", required: false, many: false, uncommitted: true },
     {
       pagePropertySlug: "context-replaced-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pagePropertySlug: "rotated-session-uuid",
       required: false,
       many: false,
       uncommitted: true,
