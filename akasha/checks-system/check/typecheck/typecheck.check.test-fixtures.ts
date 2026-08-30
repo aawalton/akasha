@@ -1,26 +1,22 @@
-import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
-  headOf,
-  stampKept,
-} from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+  entriesFiled,
+  noImportersFiled,
+  pathFiled,
+  schemaFiled,
+  stampedIn,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"
-
-export const IMPORTS_AT = ".git/data/index/import/path"
-
-const IDENTITY = "identity"
-
-const SLUG = "slug"
-
-const ENDING = ".jsonl"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -45,6 +41,10 @@ const THING_TYPE =
   `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
 
 const PAGE_TYPE = "page-type"
+
+const TEXT_PROPERTY = "text-property"
+
+const GENERATOR_KIND = "generator-kind"
 
 const MODULE = "module"
 
@@ -71,13 +71,9 @@ const LOADER_BREAKS = "export const one: string = 1\n"
 export const scratch = scratchWorld()
 
 function reaching(root: string, files: Readonly<Record<string, string>>): undefined {
-  mkdirSync(join(root, IMPORTS_AT), { recursive: true })
+  noImportersFiled(root)
   for (const [at, body] of Object.entries(files)) {
-    for (const one of importIn(body, at, root)) {
-      const held = join(root, ".git/data/index", one.at)
-      mkdirSync(dirname(held), { recursive: true })
-      appendFileSync(held, `${one.line}\n`)
-    }
+    entriesFiled(root, importIn(body, at, root))
   }
 }
 
@@ -96,11 +92,7 @@ function named(
   slug: string,
   id: string
 ): undefined {
-  put(
-    indexIn(root),
-    join(IDENTITY, pageTypeSlug, SLUG, `${slug}${ENDING}`),
-    `${JSON.stringify({ path: at, id })}\n`
-  )
+  standingFiled(root, pageTypeSlug, slug, [{ path: at, id }])
 }
 
 function graphed(root: string): undefined {
@@ -117,11 +109,7 @@ function stamped(root: string): undefined {
   writeFileSync(join(root, "seed"), "held\n")
   gitIn(root, ["add", "--", "seed"])
   gitIn(root, ["commit", "--quiet", "-m", "held", "--", "seed"])
-  stampKept(join(root, ".git/data/index"), {
-    commit: headOf(root) ?? "",
-    tree: "akasha",
-    settled: [],
-  })
+  stampedIn(root, { commit: headOf(root) ?? "", tree: "akasha", settled: [] })
 }
 
 export function staged(files: Readonly<Record<string, string>>): string {
@@ -159,37 +147,16 @@ export function generating(files: Readonly<Record<string, string>>, generator = 
     [EARLY_AT]: kindPage(EARLY, false),
     ...files,
   })
-  const index = indexIn(root)
-  put(
-    index,
-    `identity/generator-kind/slug/${WAITS}.jsonl`,
-    `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    `identity/generator-kind/slug/${EARLY}.jsonl`,
-    `{"path":"${EARLY_AT}","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "schema/page-property/slug/slug.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type"}\n'
-  )
-  put(
-    index,
-    "schema/page-property/slug/held.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null}\n'
-  )
-  put(
-    index,
-    "identity/text-property/slug/held.jsonl",
-    `{"path":"${HELD_AT}","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/page-type/slug/thing.jsonl",
-    `{"path":"${THING_TYPE_AT}","id":"${GENERATED_ID}"}\n`
-  )
+  named(root, KIND_AT, GENERATOR_KIND, WAITS, GENERATED_ID)
+  named(root, EARLY_AT, GENERATOR_KIND, EARLY, GENERATED_ID)
+  schemaFiled(root, "slug", [
+    { pageTypeSlug: TEXT_PROPERTY, targetPageTypeSlug: null, unique: PAGE_TYPE },
+  ])
+  schemaFiled(root, "held", [
+    { pageTypeSlug: TEXT_PROPERTY, targetPageTypeSlug: null, unique: null },
+  ])
+  named(root, HELD_AT, TEXT_PROPERTY, "held", GENERATED_ID)
+  named(root, THING_TYPE_AT, PAGE_TYPE, "thing", GENERATED_ID)
   return root
 }
 
@@ -212,11 +179,7 @@ export function declaring(): string {
   })
   named(root, HELD_TYPE_AT, PAGE_TYPE, HELD_TYPE, TYPE_ID)
   named(root, HELD_LOADER_AT, MODULE, HELD_LOADER, LOADER_ID)
-  put(
-    indexIn(root),
-    join("path", `${LOADED_AT}${ENDING}`),
-    `${JSON.stringify({ path: LOADED_AT, id: LOADED_ID })}\n`
-  )
+  pathFiled(root, LOADED_AT, [{ path: LOADED_AT, id: LOADED_ID }])
   return root
 }
 

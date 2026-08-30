@@ -1,10 +1,12 @@
-import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import type { Entry } from "../index-entries/index-entries.module.code.ts"
+import { type Stamp, stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import { indexIn } from "./index-reading.module.code.ts"
 
 const ENDING = ".jsonl"
@@ -92,6 +94,22 @@ export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
 
 export function noPathsFiled(root: string): undefined {
   standing(root, indexPath.indexName)
+}
+
+export function noImportersFiled(root: string): undefined {
+  standing(root, join(indexImport.indexName, AT_PATH))
+}
+
+export function entriesFiled(root: string, entries: readonly Entry[]): undefined {
+  for (const one of entries) {
+    const path = under(root, one.at)
+    mkdirSync(dirname(path), { recursive: true })
+    appendFileSync(path, `${one.line}\n`)
+  }
+}
+
+export function stampedIn(root: string, held: Stamp): undefined {
+  stampKept(indexIn(root), held)
 }
 
 export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
