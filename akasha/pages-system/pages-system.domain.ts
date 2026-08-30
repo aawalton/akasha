@@ -20,6 +20,7 @@ export const pagesSystem = {
     "page-type/generator-kind",
     "page-type/unique-kind",
     "domain/indexes",
+    "domain/naming",
     "module/page-address",
     "module/page-file-name",
     "module/page-export-name",
