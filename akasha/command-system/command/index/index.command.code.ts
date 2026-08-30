@@ -97,7 +97,7 @@ export function readIn(argv: readonly string[]): Read {
 function filesUnder(at: string): readonly string[] {
   if (!existsSync(at)) return []
   const found: string[] = []
-  const walk = (here: string, said: string): void => {
+  const walk = (here: string, said: string): undefined => {
     for (const one of readdirSync(here, { withFileTypes: true })) {
       const named = `${said}${one.name}`
       if (one.isDirectory()) walk(join(here, one.name), `${named}/`)
@@ -125,7 +125,7 @@ export function driftBetween(was: string, now: string): Drift {
   return { added, changed, went: [...before].sort() }
 }
 
-function swapped(at: string, aside: string): void {
+function swapped(at: string, aside: string): undefined {
   const gone = `${at}.${GONE}.${process.pid}`
   rmSync(gone, { recursive: true, force: true })
   if (existsSync(at)) renameSync(at, gone)
