@@ -22,7 +22,14 @@ const SAID = "pagePropertySlug"
 const ENDING = ".jsonl"
 
 function standingIn(reading: Reading, at: string): readonly Standing[] {
-  return reading.lines(at).map((one) => JSON.parse(one) as Standing)
+  const found: Standing[] = []
+  for (const line of reading.lines(at)) {
+    const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
+    if (typeof said.path === "string" && typeof said.id === "string") {
+      found.push({ path: said.path, id: said.id })
+    }
+  }
+  return found
 }
 
 export type Known = {
