@@ -55,13 +55,8 @@ describe("findCheckInvocations", () => {
     ])
   })
 
-  test("recognises a declared entrypoint whose name is not check-*.ts", () => {
-    const [declared] = DECLARED_CHECK_ENTRYPOINTS
-    expect(declared).toBeDefined()
-    const path = declared?.path ?? ""
-    expect(findCheckInvocations(`bun ${RUN_CHECK_PATH} ${path} .`)).toEqual([
-      { script: path, routed: true },
-    ])
+  test("declares no entrypoint outside the check-*.ts naming", () => {
+    expect(DECLARED_CHECK_ENTRYPOINTS).toEqual([])
   })
 
   test("recognises a check outside the checks package, so no directory bounds the scan", () => {

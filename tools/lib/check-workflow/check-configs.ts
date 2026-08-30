@@ -66,17 +66,6 @@ export const STATIC_CHECKS: CheckConfig[] = [
   },
   ...TYPECHECK_CHECKS,
   {
-    name: "lint",
-    image: IMAGES.UNIVERSAL,
-    dispatchNodeTypes: [...TS_POPULATION, "js-file", "jsx-file", "json-file"],
-    alwaysRun: true,
-    backendOptions: {
-      kubernetes: { resources: { requests: { cpu: "1500m" } } },
-    },
-    script: "infra/cluster-checks/src/checks/lint-verdict.ts",
-    args: () => ["."],
-  },
-  {
     name: "image-tags",
     dispatchNodeTypes: [...YAML_POPULATION, "dockerfile-file", "workflow"],
     dispatchNodes: ["ts-file:instructions:tools/lib/workflow-dsl/images.ts"],

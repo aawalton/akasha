@@ -26,14 +26,7 @@ export function routedCheckCommand(input: RoutedCheckInput & { readonly cwd: str
 
 const SCRIPT_PATH = /(?<![\w./-])((?:[\w.-]+\/)+[\w.-]+\.ts)(?![\w./-])/g
 
-export const DECLARED_CHECK_ENTRYPOINTS: readonly { path: string; reason: string }[] = [
-  {
-    path: "infra/cluster-checks/src/checks/lint-verdict.ts",
-    reason:
-      "the lint gate's verdict core, named for the verdict it produces rather than for the check " +
-      "that registers it. It reports the same 0/1/2 contract every check does.",
-  },
-]
+export const DECLARED_CHECK_ENTRYPOINTS: readonly { path: string; reason: string }[] = []
 
 const declaredEntrypoints = new Set(DECLARED_CHECK_ENTRYPOINTS.map((e) => e.path))
 

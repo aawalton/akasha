@@ -1,7 +1,6 @@
 {
   "bypass": {
     "check-addon-build.ts": "writes-its-own-verdict",
-    "check-build-graph.ts": "writes-its-own-verdict",
-    "lint-verdict.ts": "writes-its-own-verdict"
+    "check-build-graph.ts": "writes-its-own-verdict"
   }
 }
