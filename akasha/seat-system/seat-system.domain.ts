@@ -26,6 +26,11 @@ export const seatSystem = {
         "What is observed of a seat changes every few seconds, so a write that commits cannot carry it.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Every writer of a seat's uncommitted values takes a lock keyed on the file it writes.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "A seat outlives the editor showing it and the agent sitting in it, so neither can be asked where it stands.",
