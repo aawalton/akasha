@@ -9,7 +9,7 @@ import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-e
 import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
@@ -157,13 +157,11 @@ export function foundOf(root: string, said: ts.Diagnostic): Found {
   }
 }
 
-export function foundIn(leaving: Leaving): readonly Found[] {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const roots = rootsOf(leaving, cast.shadow.reading)
+export function foundIn(leaving: Leaving, shadow: Shadow): readonly Found[] {
+  const roots = rootsOf(leaving, shadow.reading)
   if (roots.length === 0) return []
   const root = resolve(leaving.root)
-  const keys = [...waitingProperties(cast.shadow)].map(exportedAs)
+  const keys = [...waitingProperties(shadow)].map(exportedAs)
   const read = bodiesOf(leaving, mintingIn(leaving, keys))
   const program = ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),
@@ -185,11 +183,11 @@ export function foundIn(leaving: Leaving): readonly Found[] {
   return found
 }
 
-export function typecheck(leaving: Leaving): readonly Judged[] {
+export function typecheck(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const changed = new Set(leaving.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
-  for (const one of foundIn(leaving)) {
+  for (const one of foundIn(leaving, shadow)) {
     const key = `${one.path}\n${one.reason}`
     if (seen.has(key)) continue
     seen.add(key)

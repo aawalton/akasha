@@ -15,8 +15,7 @@ import {
 import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
-import { typecheck } from "./typecheck.check.code.ts"
+import type { Leaving } from "../../judging/judging.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -223,8 +222,4 @@ export function leaving(
     },
     was: based,
   }
-}
-
-export function over(root: string, path: string, body: string | null): readonly Judged[] {
-  return typecheck(leaving(root, { [path]: body }))
 }
