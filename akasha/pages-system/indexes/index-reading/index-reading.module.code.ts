@@ -271,6 +271,15 @@ export function everyOfTypeAnswered(
   )
 }
 
+export function standingByIdAnswered(given: string | Reading, id: string): Standing | null {
+  return answered(
+    given,
+    join(IDENTITY, PAGE, ID),
+    `which page carries \`${id}\``,
+    (reading) => standingIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
+  )
+}
+
 export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
   return answered(root, PATH, "which files stand", () => everyPath(given))
 }

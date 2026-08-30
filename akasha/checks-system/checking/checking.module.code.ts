@@ -5,7 +5,7 @@ import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   everyOfTypeAnswered,
   everyPathAnswered,
-  standingById,
+  standingByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -42,7 +42,7 @@ const TS = "ts"
 const loadFrom = createRequire(import.meta.url)
 
 export function checkSlugIn(root: string): string {
-  const standing = standingById(root, CHECK_TYPE)
+  const standing = standingByIdAnswered(root, CHECK_TYPE)
   if (standing === null) {
     throw new Error(
       `no page carries the id \`${CHECK_TYPE}\`, so nothing says which pages are checks`

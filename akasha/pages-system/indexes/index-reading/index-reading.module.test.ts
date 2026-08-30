@@ -12,6 +12,7 @@ import {
   readingIn,
   schemaOf,
   standingById,
+  standingByIdAnswered,
   standingByPath,
 } from "./index-reading.module.code.ts"
 import {
@@ -112,6 +113,21 @@ test("an id the index carries is answered with the page carrying it", () => {
 
   expect(standingById(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
   expect(standingById(root, B)).toBe(null)
+})
+
+test("an id the index carries is answered where the id directory stands, and one no page carries is nothing", () => {
+  const root = rootAt()
+  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
+
+  expect(standingByIdAnswered(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
+  expect(standingByIdAnswered(root, B)).toBe(null)
+})
+
+test("which page carries an id is refused when the id directory is not there, no folder being no answer", () => {
+  const root = rootAt()
+
+  expect(() => standingByIdAnswered(root, A)).toThrow(/identity\/page\/id/)
+  expect(() => standingByIdAnswered(root, A)).toThrow(/is not an index naming none/)
 })
 
 test("a relation property is answered with the shape it is and the page type it may name", () => {

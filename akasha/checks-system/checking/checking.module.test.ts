@@ -5,6 +5,7 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import {
   identitiesTakenFrom,
   idFiled,
+  idTakenFrom,
   noneOfTypeFiled,
   pathFiled,
   pathsTakenFrom,
@@ -27,6 +28,8 @@ import {
 } from "./checking.module.code.ts"
 
 const CHECK = "check"
+
+const PAGE = "page"
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
@@ -260,6 +263,20 @@ test("an index holding no check directory cannot answer, and is not read as nami
   identitiesTakenFrom(root, CHECK)
   expect(() => checkPagesIn(root)).toThrow("could not be answered")
   expect(() => checksIn(root)).toThrow("identity/check/slug")
+})
+
+test("an index holding no id directory cannot say which pages are checks, and is not read as naming none", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  identitiesTakenFrom(root, PAGE)
+  expect(() => checkPagesIn(root)).toThrow("identity/page/id")
+  expect(() => checksIn(root)).toThrow("is not an index naming none")
+})
+
+test("an id directory standing but carrying no check page type answers as absent rather than as missing", () => {
+  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
+  idTakenFrom(root, CHECK_TYPE)
+  expect(() => checkPagesIn(root)).toThrow("nothing says which pages are checks")
+  expect(() => checkPagesIn(root)).not.toThrow("is not an index naming none")
 })
 
 test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
