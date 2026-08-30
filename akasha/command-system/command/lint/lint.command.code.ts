@@ -1,23 +1,10 @@
 import { resolve } from "node:path"
 import type { Found } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { aiming, bounded } from "../test/test.command.code.ts"
 
 const FILE_PATH = "--file-path"
-
-const INSIDE = "akasha"
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FILE_PATH} <path>`, takes: "a file or folder under `akasha/` the linter reads" },
-  ],
-  notes: [
-    `${FILE_PATH} repeats, so several paths are read in one call.`,
-    `named nothing, it reads every file under \`${INSIDE}/\`.`,
-    "nothing is written — this says what the linter found and fixes none of it.",
-  ],
-}
 
 type Meant = {
   readonly paths: readonly string[]

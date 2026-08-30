@@ -8,6 +8,15 @@ export const index = {
   code: "ts",
   test: "ts",
   mechanical: true,
+  taking: [
+    { said: "refresh", takes: "build the index over `akasha/` as it stands and put it in place" },
+    { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
+    { said: "--unlanded", takes: "build over paths standing apart from HEAD" },
+  ],
+  notes: [
+    "refresh is the act it carries, and one call names one act.",
+    "a refresh makes no commit, so it takes no message and runs no check.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

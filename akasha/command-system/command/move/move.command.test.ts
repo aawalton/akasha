@@ -6,7 +6,7 @@ import { warrantsStanding } from "../../../context-system/warranting/warranting.
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
 import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 import { blobIdOf, readingIn, recordRead } from "../../reading/reading.module.code.ts"
-import { move, PATHS_AT, pairsIn, surface } from "./move.command.code.ts"
+import { move, PATHS_AT, pairsIn } from "./move.command.code.ts"
 import {
   AAAA,
   ARRIVES,
@@ -35,6 +35,7 @@ import {
   THREE,
   VOCABULARY,
 } from "./move.command.test-fixtures.ts"
+import { move as moveCommand } from "./move.command.ts"
 
 afterAll(scratch.sweep)
 
@@ -331,7 +332,7 @@ test("a path is read against the repository root, wherever the call was made", (
 })
 
 test("every flag the surface shows is a flag this takes", () => {
-  for (const one of surface.taking) {
+  for (const one of moveCommand.taking) {
     const said = pairsIn([one.said.split(" ")[0] ?? ""])
     expect("refused" in said ? said.refused : "").not.toContain("this takes")
   }

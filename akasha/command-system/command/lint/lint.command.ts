@@ -7,6 +7,14 @@ export const lint = {
   definition: "the command saying what the linter finds in the akasha folder and fixing none of it",
   code: "ts",
   test: "ts",
+  taking: [
+    { said: "--file-path <path>", takes: "a file or folder under `akasha/` the linter reads" },
+  ],
+  notes: [
+    "--file-path repeats, so several paths are read in one call.",
+    "named nothing, it reads every file under `akasha/`.",
+    "nothing is written — this says what the linter found and fixes none of it.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

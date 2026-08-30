@@ -19,14 +19,13 @@ import {
   landingAsked,
   textOf,
 } from "../../asking/asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import {
-  COMMITTING,
   glassIn,
   MESSAGE,
   MESSAGE_FILE,
@@ -48,21 +47,6 @@ const TO = "--to"
 const VALUED = [FROM, TO, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FROM} <path>`, takes: "the path a body stands at now" },
-    { said: `${TO} <path>`, takes: "the path it arrives at, called the same name" },
-    ...COMMITTING,
-  ],
-  notes: [
-    `${FROM} and ${TO} repeat in pairs, so several bodies move in one commit.`,
-    "a page states its own slug, so a move carries a body and never renames it.",
-    "the files standing beside what you name go with it.",
-    "the files naming what moves are repointed in the same commit.",
-    "a path is read against the repository root, wherever the call was made.",
-  ],
-}
 
 const BY_PATH = "path"
 

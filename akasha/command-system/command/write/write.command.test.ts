@@ -15,7 +15,8 @@ import { bodyIn, givenIn } from "../../asking/asking.module.test-fixtures.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { surface, write } from "./write.command.code.ts"
+import { write } from "./write.command.code.ts"
+import { write as writeCommand } from "./write.command.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
@@ -358,7 +359,7 @@ test("a change asking for what already stands commits nothing and says so", () =
 
 test("every flag the surface shows is a flag this takes", () => {
   const given = givenIn("/nowhere")
-  for (const one of surface.taking) {
+  for (const one of writeCommand.taking) {
     const said = write([one.said.split(" ")[0] ?? ""], given)
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }

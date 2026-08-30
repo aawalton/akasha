@@ -3,24 +3,13 @@ import { join, relative, resolve } from "node:path"
 import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
 import type { Summary, Verdict } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { ranOver, testsUnder } from "../../../code-system/code-tests/code-tests.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const FILE_PATH = "--file-path"
 
 const INSIDE = "akasha"
 
 export const ANSWER_CEILING = 28000
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FILE_PATH} <path>`, takes: "a file or folder under `akasha/` whose tests run" },
-  ],
-  notes: [
-    `${FILE_PATH} repeats, so several paths run in one call.`,
-    `named nothing, it runs every test under \`${INSIDE}/\`.`,
-    "a run takes no filter for which tests inside a file run.",
-  ],
-}
 
 type Meant = {
   readonly paths: readonly string[]

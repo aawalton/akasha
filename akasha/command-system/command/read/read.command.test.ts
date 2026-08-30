@@ -3,7 +3,7 @@ import { execFileSync } from "node:child_process"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, readingIn } from "../../reading/reading.module.code.ts"
-import { ANSWER_CEILING, costOf, NO_AGENT, readWith, surface } from "./read.command.code.ts"
+import { ANSWER_CEILING, costOf, NO_AGENT, readWith } from "./read.command.code.ts"
 import {
   AGENT,
   bodyOf,
@@ -24,6 +24,7 @@ import {
   STRAY,
   scratch,
   strayRoot,
+  TAKING,
   THING,
   THING_TYPE,
   telling,
@@ -174,9 +175,9 @@ test("the call for the rest reads exactly what was left, and then the set is don
   expect(costOf(second.report)).toBeLessThanOrEqual(ANSWER_CEILING)
 })
 
-test("every argument the surface shows is an argument this takes", () => {
+test("every argument the page shows is an argument this takes", () => {
   const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
-  for (const one of surface.taking) {
+  for (const one of TAKING) {
     const said = read([one.said.split(" ")[0] ?? ""], givenFor(root))
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }

@@ -9,6 +9,17 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  taking: [
+    { said: "--file-path <path>", takes: "a file under `akasha/` to read" },
+    { said: "--full", takes: "the whole body, whatever your record holds" },
+  ],
+  notes: [
+    "--file-path repeats, so several files come back from one call.",
+    "a read also hands back what the files you name warrant, so one call answers the gate.",
+    "a body your record already holds comes back as one line rather than the file.",
+    "a body that moved since your record holds it comes back as what changed, where that is shorter.",
+    "a read takes no line range, and one answer holds 28000 bytes.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

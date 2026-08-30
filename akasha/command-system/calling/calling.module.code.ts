@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join, relative, resolve } from "node:path"
+import type { Notes } from "../../domain-system/initiative/properties/notes.text-property.ts"
 import {
   indexIn,
   slugsOfType,
@@ -8,6 +9,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 
 export type Outside = {
@@ -28,23 +30,20 @@ export type Given = Outside
 
 export type Answering = (argv: readonly string[], given: Given) => Answer
 
-export type Taking = {
-  readonly said: string
-  readonly takes: string
-}
-
 export type Surface = {
-  readonly taking: readonly Taking[]
-  readonly notes: readonly string[]
+  readonly taking: Taking
+  readonly notes: readonly Notes[]
 }
 
 export const HELP = "--help"
 
 export const HELP_SHORT = "-h"
 
-const SURFACE = "surface"
-
 const DEFINITION = "definition"
+
+const TAKING = "taking"
+
+const NOTES = "notes"
 
 const COMMAND = "command"
 
@@ -102,13 +101,21 @@ function pageAt(root: string, slug: string): string | null {
   return slug === ROOTED && existsSync(join(root, ROOTED_AT)) ? ROOTED_AT : null
 }
 
-function definitionIn(root: string, path: string, slug: string): string | null {
+function pageIn(root: string, path: string, slug: string): Record<string, unknown> | null {
   const reached = reachedIn(join(root, path))
   if ("why" in reached) return null
   const page = reached.mod[exportedAs(slug)]
   if (typeof page !== "object" || page === null) return null
-  const said = (page as Record<string, unknown>)[DEFINITION]
+  return page as Record<string, unknown>
+}
+
+function definitionOf(page: Record<string, unknown> | null): string | null {
+  const said = page === null ? null : page[DEFINITION]
   return typeof said === "string" ? said : null
+}
+
+function definitionIn(root: string, path: string, slug: string): string | null {
+  return definitionOf(pageIn(root, path, slug))
 }
 
 function toldOf(root: string, every: readonly string[], calledAs: string): readonly string[] {
@@ -125,12 +132,12 @@ function toldOf(root: string, every: readonly string[], calledAs: string): reado
   )
 }
 
-function surfaceIn(mod: Record<string, unknown>): Surface | null {
-  const held = mod[SURFACE]
-  if (typeof held !== "object" || held === null) return null
-  const said = held as { readonly taking?: unknown; readonly notes?: unknown }
-  if (!Array.isArray(said.taking) || !Array.isArray(said.notes)) return null
-  return held as Surface
+function surfaceOf(page: Record<string, unknown> | null): Surface | null {
+  if (page === null) return null
+  const taking = page[TAKING]
+  const notes = page[NOTES]
+  if (!Array.isArray(taking) || !Array.isArray(notes)) return null
+  return { taking: taking as Taking, notes: notes as readonly Notes[] }
 }
 
 export function helpOf(
@@ -180,10 +187,11 @@ function answeredBy(
       `\`${named}\` is a command page, and ${beside} could not be loaded — ${reached.why}`
     )
   }
-  const surface = surfaceIn(reached.mod)
+  const page = pageIn(root, path, named)
+  const surface = surfaceOf(page)
   if (surface !== null && (argv[0] === HELP || argv[0] === HELP_SHORT)) {
     return {
-      report: helpOf(`${outside.calledAs} ${named}`, definitionIn(root, path, named), surface),
+      report: helpOf(`${outside.calledAs} ${named}`, definitionOf(page), surface),
       refusals: [],
       code: 0,
     }

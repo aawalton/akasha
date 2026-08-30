@@ -12,7 +12,7 @@ import type {
   Leaving,
 } from "../../../checks-system/judging/judging.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { oneLine } from "../../landing/landing.module.code.ts"
 
@@ -24,17 +24,6 @@ const AUDIT = "audit"
 
 const NOTHING_RUNS =
   "no check runs at audit, so nothing would judge the folder and a clean answer would mean nothing"
-
-export const surface: Surface = {
-  taking: [{ said: `${CHECK} <slug>`, takes: "a check that runs at audit, to run on its own" }],
-  notes: [
-    `${CHECK} repeats, so several checks run in one call.`,
-    "named nothing, every check that runs at audit judges every file the index names.",
-    `${CHECK} narrows which checks run and never which files they see, and a run it narrows says ` +
-      "in its answer that it is not an audit.",
-    "it writes nothing, and holds nothing still while it runs.",
-  ],
-}
 
 export type Meant = {
   readonly only: readonly string[]

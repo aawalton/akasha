@@ -11,7 +11,7 @@ import {
   troubling,
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
-import type { Answer, Given, Surface, Taking } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
 import { baseOf, bodyAt } from "../../landing/landing.module.code.ts"
 
@@ -30,30 +30,6 @@ const AKASHA = "akasha"
 const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
-
-export const COMMITTING: readonly Taking[] = [
-  { said: `${MESSAGE} <text>`, takes: "what the commit is for" },
-  { said: `${MESSAGE_FILE} <file>`, takes: "a file the commit message is read from" },
-  { said: `${BREAK_GLASS} <reason>`, takes: "why no check runs, said in the commit" },
-  { said: DRY_RUN, takes: "say what would happen and write nothing" },
-]
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FILE_PATH} <path>`, takes: "a path under `akasha/` to write" },
-    {
-      said: `${CONTENT_FILE} <file>`,
-      takes: `the body that lands at the ${FILE_PATH} before it`,
-    },
-    { said: `${REMOVE} <path>`, takes: "a path under `akasha/` to take away" },
-    ...COMMITTING,
-  ],
-  notes: [
-    `${FILE_PATH} and ${CONTENT_FILE} repeat in pairs, so several files land in one commit.`,
-    "a body is a file, never text said on the command line.",
-    `the files standing beside a path given to ${REMOVE} go with it.`,
-  ],
-}
 
 export function unwarrantedIn(
   given: Given,

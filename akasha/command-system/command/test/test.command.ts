@@ -7,6 +7,14 @@ export const test = {
   definition: "the command running the akasha tests and saying whether they passed",
   code: "ts",
   test: "ts",
+  taking: [
+    { said: "--file-path <path>", takes: "a file or folder under `akasha/` whose tests run" },
+  ],
+  notes: [
+    "--file-path repeats, so several paths run in one call.",
+    "named nothing, it runs every test under `akasha/`.",
+    "a run takes no filter for which tests inside a file run.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

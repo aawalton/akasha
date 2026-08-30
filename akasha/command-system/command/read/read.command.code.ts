@@ -2,7 +2,7 @@ import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { warrantedIn } from "../../../context-system/warranting/warranting.module.code.ts"
 import { bytesAt, textOf } from "../../asking/asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "../../differing/differing.module.code.ts"
 import {
   blobIdOf,
@@ -46,20 +46,6 @@ export const NO_AGENT = [
   "recorded under nobody is work thrown away.",
   "Say that `AGENT_ID` is unset and stop here, rather than finding a way around it.",
 ].join("\n")
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FILE_PATH} <path>`, takes: "a file under `akasha/` to read" },
-    { said: FULL, takes: "the whole body, whatever your record holds" },
-  ],
-  notes: [
-    `${FILE_PATH} repeats, so several files come back from one call.`,
-    "a read also hands back what the files you name warrant, so one call answers the gate.",
-    "a body your record already holds comes back as one line rather than the file.",
-    "a body that moved since your record holds it comes back as what changed, where that is shorter.",
-    `a read takes no line range, and one answer holds ${ANSWER_CEILING} bytes.`,
-  ],
-}
 
 export type Target = {
   readonly named: string

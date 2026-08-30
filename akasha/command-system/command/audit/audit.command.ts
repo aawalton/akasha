@@ -7,6 +7,13 @@ export const audit = {
   definition: "every check that runs at audit, over every file the akasha folder holds",
   code: "ts",
   test: "ts",
+  taking: [{ said: "--check <slug>", takes: "a check that runs at audit, to run on its own" }],
+  notes: [
+    "--check repeats, so several checks run in one call.",
+    "named nothing, every check that runs at audit judges every file the index names.",
+    "--check narrows which checks run and never which files they see, and a run it narrows says in its answer that it is not an audit.",
+    "it writes nothing, and holds nothing still while it runs.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,6 +9,20 @@ export const edit = {
   code: "ts",
   test: "ts",
   mechanical: false,
+  taking: [
+    { said: "--file-path <path>", takes: "the file under `akasha/` to change" },
+    { said: "--old-file <file>", takes: "a file holding the passage to replace" },
+    { said: "--new-file <file>", takes: "a file holding what that passage becomes" },
+    { said: "--message <text>", takes: "what the commit is for" },
+    { said: "--message-file <file>", takes: "a file the commit message is read from" },
+    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+    { said: "--dry-run", takes: "say what would happen and write nothing" },
+  ],
+  notes: [
+    "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
+    "a passage stated must stand exactly once in the file, or the call is refused.",
+    "the passage and what it becomes are files, never text said on the command line.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

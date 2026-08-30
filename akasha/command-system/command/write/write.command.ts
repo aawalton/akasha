@@ -8,6 +8,20 @@ export const write = {
   code: "ts",
   test: "ts",
   mechanical: false,
+  taking: [
+    { said: "--file-path <path>", takes: "a path under `akasha/` to write" },
+    { said: "--content-file <file>", takes: "the body that lands at the --file-path before it" },
+    { said: "--remove <path>", takes: "a path under `akasha/` to take away" },
+    { said: "--message <text>", takes: "what the commit is for" },
+    { said: "--message-file <file>", takes: "a file the commit message is read from" },
+    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+    { said: "--dry-run", takes: "say what would happen and write nothing" },
+  ],
+  notes: [
+    "--file-path and --content-file repeat in pairs, so several files land in one commit.",
+    "a body is a file, never text said on the command line.",
+    "the files standing beside a path given to --remove go with it.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

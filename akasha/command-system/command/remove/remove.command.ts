@@ -9,6 +9,18 @@ export const remove = {
   test: "ts",
   testFixtures: "ts",
   mechanical: true,
+  taking: [
+    { said: "--file-path <path>", takes: "a path under `akasha/` to take away" },
+    { said: "--message <text>", takes: "what the commit is for" },
+    { said: "--message-file <file>", takes: "a file the commit message is read from" },
+    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+    { said: "--dry-run", takes: "say what would happen and write nothing" },
+  ],
+  notes: [
+    "--file-path repeats, so several paths go in one commit.",
+    "a directory named takes away every file git holds under it.",
+    "the files standing beside what you name go with it.",
+  ],
   invariants: [
     {
       invariantKind: "departure",

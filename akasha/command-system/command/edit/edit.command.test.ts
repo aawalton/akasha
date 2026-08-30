@@ -15,7 +15,8 @@ import { landingAsked } from "../../asking/asking.module.code.ts"
 import { baseOf as headOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { askedIn, edit, surface } from "./edit.command.code.ts"
+import { askedIn, edit } from "./edit.command.code.ts"
+import { edit as editCommand } from "./edit.command.ts"
 
 const ADMITS_AT = "akasha/admits.check*"
 
@@ -399,7 +400,7 @@ test("several files are one act, refused whole when one of them cannot be worked
 
 test("every flag the surface shows is a flag this takes", () => {
   const given = givenIn("/nowhere")
-  for (const one of surface.taking) {
+  for (const one of editCommand.taking) {
     const said = edit([one.said.split(" ")[0] ?? ""], given)
     expect(said.refusals.join(" ")).not.toContain("this takes")
   }

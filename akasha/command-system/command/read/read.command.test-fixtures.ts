@@ -12,8 +12,11 @@ import {
   restCall,
   tellingWith,
 } from "./read.command.code.ts"
+import { read as readCommand } from "./read.command.ts"
 
 export const CALLED_AS = "akasha read"
+
+export const TAKING = readCommand.taking
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 

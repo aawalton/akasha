@@ -3,14 +3,7 @@ import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { refusing } from "../../../testing-system/minting/minting.module.code.ts"
 import { stands } from "../../../testing-system/putting/putting.module.code.ts"
-import {
-  emptiedBy,
-  namedIn,
-  pruneEmptied,
-  remove,
-  surface,
-  wouldEmpty,
-} from "./remove.command.code.ts"
+import { emptiedBy, namedIn, pruneEmptied, remove, wouldEmpty } from "./remove.command.code.ts"
 import {
   BESIDE,
   BODY,
@@ -24,6 +17,7 @@ import {
   repoWith,
   scratch,
 } from "./remove.command.test-fixtures.ts"
+import { remove as removeCommand } from "./remove.command.ts"
 
 afterAll(scratch.sweep)
 
@@ -296,7 +290,7 @@ test("a path is read against the repository root, wherever the call was made", (
 })
 
 test("every flag the surface shows is a flag this takes", () => {
-  for (const one of surface.taking) {
+  for (const one of removeCommand.taking) {
     const said = namedIn([one.said.split(" ")[0] ?? ""])
     expect("refused" in said ? said.refused : "").not.toContain("this takes")
   }

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { calling, commandsIn, HELP, HELP_SHORT } from "./calling.module.code.ts"
+import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 
 const COMMANDS_AT = ".git/data/index/identity/command/slug"
 
@@ -27,6 +27,7 @@ function rootWith(
     readonly body: string
     readonly also?: string
     readonly definition?: string
+    readonly surface?: Surface
   }[]
 ): string {
   const root = scratch.rootFor("akasha-calling-")
@@ -37,7 +38,14 @@ function rootWith(
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     const stated =
       one.definition === undefined ? "" : `, definition: ${JSON.stringify(one.definition)}`
-    writeFileSync(join(root, at), `export const ${one.slug} = { slug: "${one.slug}"${stated} }\n`)
+    const shown =
+      one.surface === undefined
+        ? ""
+        : `, taking: ${JSON.stringify(one.surface.taking)}, notes: ${JSON.stringify(one.surface.notes)}`
+    writeFileSync(
+      join(root, at),
+      `export const ${one.slug} = { slug: "${one.slug}"${stated}${shown} }\n`
+    )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
     const lines = [JSON.stringify({ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` })]
@@ -152,15 +160,10 @@ test("the commands there are come from the index", () => {
   expect(commandsIn(root)).toEqual(["held", "other"])
 })
 
-const SURFACED = `export function held(argv, given) {
-  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
-}
-
-export const surface = {
+const SURFACED: Surface = {
   taking: [{ said: "--file-path <path>", takes: "a path it takes" }],
   notes: ["it repeats."],
 }
-`
 
 test("asking for help lists the commands with what each page says it is for", () => {
   const root = rootWith([{ slug: "held", body: ANSWERS, definition: "what held is for" }])
@@ -183,8 +186,10 @@ test("a command whose page states no definition is listed by name alone", () => 
   expect(said.report).toContain("  akasha held")
 })
 
-test("a command answers for help out of the surface its own code states", () => {
-  const root = rootWith([{ slug: "held", body: SURFACED, definition: "what held is for" }])
+test("a command answers for help out of the surface its own page states", () => {
+  const root = rootWith([
+    { slug: "held", body: ANSWERS, definition: "what held is for", surface: SURFACED },
+  ])
   const said = calling(["held", HELP], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.refusals).toEqual([])

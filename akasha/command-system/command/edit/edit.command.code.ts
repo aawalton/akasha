@@ -10,10 +10,9 @@ import {
   textOf,
   troubling,
 } from "../../asking/asking.module.code.ts"
-import type { Answer, Given, Surface } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import type { Change } from "../../landing/landing.module.code.ts"
 import {
-  COMMITTING,
   defaultMessage,
   FILE_PATH,
   glassIn,
@@ -33,20 +32,6 @@ const NEW_FILE = "--new-file"
 const VALUED = [FILE_PATH, OLD_FILE, NEW_FILE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE = [DRY_RUN]
-
-export const surface: Surface = {
-  taking: [
-    { said: `${FILE_PATH} <path>`, takes: "the file under `akasha/` to change" },
-    { said: `${OLD_FILE} <file>`, takes: "a file holding the passage to replace" },
-    { said: `${NEW_FILE} <file>`, takes: "a file holding what that passage becomes" },
-    ...COMMITTING,
-  ],
-  notes: [
-    `${FILE_PATH}, ${OLD_FILE} and ${NEW_FILE} repeat in triples, so several files change as one.`,
-    "a passage stated must stand exactly once in the file, or the call is refused.",
-    "the passage and what it becomes are files, never text said on the command line.",
-  ],
-}
 
 type Stated = {
   readonly old: string
