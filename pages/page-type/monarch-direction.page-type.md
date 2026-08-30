@@ -15,6 +15,6 @@ domain-parent-slug: domain/monarch
 
 # Design
 
-A direction names the task it is handed to, and reaches no transaction outside it.
+A direction reaches no transaction outside the shape it applies to.
 
 A direction says what to weigh, never what to decide.
