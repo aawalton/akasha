@@ -28,6 +28,7 @@ export const seat = {
   mortal: true,
   partSlugs: [
     "boolean-property/on-call",
+    "number-property/context-tokens",
     "number-property/proxy-port",
     "process-property/proxy-process",
     "process-property/supervisor-process",
@@ -59,6 +60,7 @@ export const seat = {
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
