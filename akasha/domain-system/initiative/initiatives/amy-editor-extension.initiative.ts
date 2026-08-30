@@ -6,7 +6,7 @@ export const amyEditorExtension = {
   slug: "amy-editor-extension",
   domainSlug: "domain/editor-extension",
   personaSlug: "amy",
-  parentSlug: "amy-akasha-alone",
+  parentSlug: "akasha-alone",
   invariants: [
     {
       invariantKind: "gap",

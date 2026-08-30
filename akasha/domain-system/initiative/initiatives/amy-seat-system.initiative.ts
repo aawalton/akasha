@@ -6,7 +6,7 @@ export const amySeatSystem = {
   slug: "amy-seat-system",
   domainSlug: "domain/seat-system",
   personaSlug: "amy",
-  parentSlug: "amy-akasha-alone",
+  parentSlug: "akasha-alone",
   invariants: [
     {
       invariantKind: "gap",
