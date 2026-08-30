@@ -8,6 +8,10 @@ import {
   everyPath,
   indexAt,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  type Shadow,
+  shadowFor,
+} from "../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -24,7 +28,7 @@ export type Body = {
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
 
-export type Running = (leaving: Leaving) => readonly Judged[]
+export type Running = (leaving: Leaving, shadow: Shadow) => readonly Judged[]
 
 export type Gathered = {
   readonly slug: string
@@ -199,10 +203,12 @@ export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
     over: (leaving) => {
+      const cast = shadowFor(leaving)
+      if ("refused" in cast) throw new Error(cast.refused)
       const said: Judged[] = []
       for (const one of every) {
         try {
-          said.push(...one.run(leaving))
+          said.push(...one.run(leaving, cast.shadow))
         } catch (thrown) {
           said.push(threw(one, thrown))
         }

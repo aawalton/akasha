@@ -30,6 +30,16 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
+        "One shadow is cast over the change here and handed to every check, so a check reads what the change would leave rather than asking for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A shadow that could not be worked out refuses the change before any check runs, so nothing is judged against the index the last commit left.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A check that threw refuses the change it could not judge, and the refusal names the check's own page.",
     },
     {

@@ -10,6 +10,7 @@ import {
   pathsTakenFrom,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { shadowAt } from "../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -80,6 +81,14 @@ const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
 
 const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 
+const NAMES_SHADOW =
+  "export function namesShadow(leaving, shadow) {\n" +
+  '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
+  "  return held && shadow.reading !== undefined\n" +
+  "    ? []\n" +
+  '    : [{ path: "shadow", reason: "no shadow was handed over" }]\n' +
+  "}\n"
+
 const REFUSES_TAKING =
   "export function refusesTaking(leaving) {\n" +
   "  return leaving.changed\n" +
@@ -98,11 +107,12 @@ test("a check is run once over the whole change, and never over the rest of the 
   const root = rootWith([{ slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL }])
   writeFileSync(join(root, "one.ts"), "one")
   writeFileSync(join(root, "two.ts"), "two")
+  const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["one.ts"],
-    at: onDisk(root),
-    was: onDisk(root),
+    at: held,
+    was: held,
   })
   expect(said.map((one) => one.path)).toEqual(["one.ts"])
 })
@@ -110,11 +120,12 @@ test("a check is run once over the whole change, and never over the rest of the 
 test("a check that threw refuses the change it could not judge, and the refusal names its page", () => {
   const root = rootWith([{ slug: "throws", runsOn: ["patch"], body: THROWS }])
   writeFileSync(join(root, "one.ts"), "one")
+  const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["one.ts"],
-    at: onDisk(root),
-    was: onDisk(root),
+    at: held,
+    was: held,
   })
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
@@ -124,11 +135,12 @@ test("a check that threw refuses the change it could not judge, and the refusal 
 test("a path the change takes away is handed to every check, and can be refused", () => {
   const root = rootWith([{ slug: "refuses-taking", runsOn: ["patch"], body: REFUSES_TAKING }])
   writeFileSync(join(root, "stays.ts"), "stays")
+  const held = onDisk(root)
   const said = judgingBy(checksIn(root)).over({
     root,
     changed: ["gone.ts", "stays.ts"],
-    at: onDisk(root),
-    was: onDisk(root),
+    at: held,
+    was: held,
   })
   expect(said.map((one) => one.path)).toEqual(["gone.ts"])
   expect(said[0]?.reason).toContain("may not be taken away")
@@ -166,8 +178,9 @@ test("judging each file makes a runner of a judge, naming the path each refusal 
   const root = scratch.rootFor("akasha-each-run-")
   writeFileSync(join(root, "here.ts"), "here")
   const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
+  const held = onDisk(root)
   expect(
-    run({ root, changed: ["gone.ts", "here.ts"], at: onDisk(root), was: onDisk(root) })
+    run({ root, changed: ["gone.ts", "here.ts"], at: held, was: held }, shadowAt(root))
   ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
 })
 
@@ -270,4 +283,17 @@ test("checks standing but none at a phase leaves that phase empty rather than re
   const every = checksIn(root)
   expect(every.map((one) => one.slug)).toEqual(["admits-all"])
   expect(judgingBy(checksAt(every, "patch")).named).toEqual([])
+})
+
+test("one shadow is cast over the change and handed to every check that runs", () => {
+  const root = rootWith([{ slug: "names-shadow", runsOn: ["patch"], body: NAMES_SHADOW }])
+  writeFileSync(join(root, "one.ts"), "one")
+  const held = onDisk(root)
+  const said = judgingBy(checksIn(root)).over({
+    root,
+    changed: ["one.ts"],
+    at: held,
+    was: held,
+  })
+  expect(said).toEqual([])
 })
