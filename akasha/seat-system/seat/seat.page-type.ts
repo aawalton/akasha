@@ -1,4 +1,4 @@
-import type { PersonaSlug } from "../../domain-system/initiative/properties/persona-slug.text-property.ts"
+import type { PersonaSlug } from "../../domain-system/initiative/properties/persona-slug.relation-property.ts"
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { AssignmentSlug } from "./properties/assignment-slug.text-property.ts"
