@@ -40,13 +40,11 @@ export const namePlace = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name a page property carries states its format on the property, so no place spells that binding again.",
+      statement: "A name a page property carries states its format on the property.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A place is defined whether or not a file in akasha carries such a name yet, so the standard stands ready before what it governs arrives.",
+      statement: "A place is defined whether or not a file in akasha carries such a name yet.",
     },
     {
       invariantKind: "departure",
@@ -55,8 +53,7 @@ export const namePlace = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A place says in prose where it holds, so a check reaching one still carries its own reach.",
+      statement: "A place says in prose where it holds.",
     },
   ],
 } as const satisfies PageType

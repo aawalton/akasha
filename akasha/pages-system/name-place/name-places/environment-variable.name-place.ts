@@ -9,13 +9,11 @@ export const environmentVariable = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A value handed in from outside stands fixed for the whole of a run, so it takes the case a constant takes.",
+      statement: "A value handed in from outside stands fixed for the whole of a run.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name akasha reads opens with the name of what set it, so what owns a value is read off the name.",
+      statement: "A name akasha reads opens with the name of what set it.",
     },
   ],
 } as const satisfies NamePlace

@@ -10,7 +10,7 @@ export const pageHref = {
     {
       invariantKind: "departure",
       statement:
-        "An address is built of the page type's slug and the page's own, each named elsewhere, so the whole carries no format of its own.",
+        "An address is built of the page type's slug and the page's own, each named elsewhere.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +19,7 @@ export const pageHref = {
     },
     {
       invariantKind: "departure",
-      statement: "A tail makes the part no longer a slug, so what a page is reached by is no slug.",
+      statement: "A tail makes the part no longer a slug.",
     },
   ],
 } as const satisfies NamePlace

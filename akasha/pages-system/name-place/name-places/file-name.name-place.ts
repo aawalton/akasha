@@ -10,7 +10,7 @@ export const fileName = {
     {
       invariantKind: "departure",
       statement:
-        "A file's name is built of parts parted by dots, each part a name stated elsewhere, so the whole carries no format of its own.",
+        "A file's name is built of parts parted by dots, each part a name stated elsewhere.",
     },
     {
       invariantKind: "departure",

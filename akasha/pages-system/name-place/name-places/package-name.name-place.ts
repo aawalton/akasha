@@ -9,8 +9,7 @@ export const packageName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A package name is one slug, or a scope and a slug parted by a slash, so the whole carries no format of its own.",
+      statement: "A package name is one slug, or a scope and a slug parted by a slash.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const routeSegment = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A segment is a word in a path, so it is written as a slug is written.",
+      statement: "A segment is written as a slug is written.",
     },
     {
       invariantKind: "departure",

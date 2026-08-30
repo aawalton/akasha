@@ -24,8 +24,11 @@ export const foreignName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This licenses a name rather than a folder, so a name standing beside one its owner spells still answers the test alone.",
+      statement: "This licenses a name rather than a folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name standing beside one its owner spells still answers the test alone.",
     },
   ],
 } as const satisfies NamePlace

@@ -9,8 +9,7 @@ export const routeParameter = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A parameter is read in code rather than written in a path, so it takes the case code takes and not the case a segment takes.",
+      statement: "A parameter is read in code rather than written in a path.",
     },
     {
       invariantKind: "departure",

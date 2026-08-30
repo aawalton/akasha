@@ -9,13 +9,19 @@ export const propertyKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A key is read in code, so it takes the case code takes, while the property it names is called by its slug.",
+      statement: "A key is read in code.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Lowering each capital and setting a dash before it gives the slug back, so the two are one name in two formats and neither is the other's second spelling.",
+      statement: "The property it names is called by its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Lowering each capital and setting a dash before it gives the slug back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two are one name in two formats and neither is the other's second spelling.",
     },
   ],
 } as const satisfies NamePlace

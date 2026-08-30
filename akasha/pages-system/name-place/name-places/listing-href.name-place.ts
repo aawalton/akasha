@@ -9,8 +9,7 @@ export const listingHref = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An address is built of the page type's plural, named elsewhere, so the whole carries no format of its own.",
+      statement: "An address is built of the page type's plural, named elsewhere.",
     },
     {
       invariantKind: "departure",

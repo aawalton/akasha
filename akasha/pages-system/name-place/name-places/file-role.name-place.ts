@@ -14,7 +14,7 @@ export const fileRole = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's own file states no role, so a role names what stands beside it.",
+      statement: "A page's own file states no role.",
     },
   ],
 } as const satisfies NamePlace

@@ -9,8 +9,7 @@ export const derivedIdentifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A name inside a function belongs to one call rather than to the file, so it never takes a constant's case.",
+      statement: "A name inside a function belongs to one call rather than to the file.",
     },
   ],
 } as const satisfies NamePlace
