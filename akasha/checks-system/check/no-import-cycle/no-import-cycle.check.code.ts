@@ -1,5 +1,6 @@
 import { dirname, join } from "node:path"
 import ts from "typescript"
+import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -35,7 +36,7 @@ function erasedExport(one: ts.ExportDeclaration): boolean {
 }
 
 export function reachedIn(at: string, text: string): readonly string[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, false, ts.ScriptKind.TS)
+  const source = skimmedAs(at, text)
   const found: string[] = []
   for (const one of source.statements) {
     if (ts.isImportDeclaration(one)) {

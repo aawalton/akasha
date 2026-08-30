@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const ID = "id"
@@ -35,8 +36,7 @@ function idIn(source: ts.SourceFile, object: ts.ObjectLiteralExpression): Stated
     if (keyOf(property.name) !== ID) continue
     const said = property.initializer
     if (!ts.isStringLiteral(said)) return null
-    const at = source.getLineAndCharacterOfPosition(property.getStart(source))
-    return { value: said.text, line: at.line + 1 }
+    return { value: said.text, line: lineOf(source, property) }
   }
   return null
 }
@@ -46,7 +46,7 @@ function exported(node: ts.VariableStatement): boolean {
 }
 
 export function statedIn(path: string, text: string): readonly Stated[] {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(path, text)
   const found: Stated[] = []
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement) || !exported(statement)) continue

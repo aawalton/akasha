@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf } from "../../../../../code-system/code-source/code-source.module.code.ts"
 import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
 const UNKNOWN = "unknown"
@@ -18,10 +19,6 @@ export function withoutParens(node: ts.Expression): ts.Expression {
   let held = node
   while (ts.isParenthesizedExpression(held)) held = held.expression
   return held
-}
-
-function lineOf(source: ts.SourceFile, node: ts.Node): number {
-  return source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1
 }
 
 export function noDoubleCast(standing: Standing): readonly Refusal[] {

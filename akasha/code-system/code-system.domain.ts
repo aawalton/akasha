@@ -10,6 +10,7 @@ export const codeSystem = {
     "module/body-text",
     "module/code-specifier",
     "module/code-rule",
+    "module/code-source",
     "module/code-tests",
     "module/code-format",
     "module/code-lint",

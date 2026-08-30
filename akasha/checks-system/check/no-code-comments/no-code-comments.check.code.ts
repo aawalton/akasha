@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 type Found = {
@@ -34,14 +35,14 @@ const PARSED: readonly string[] = [
 ]
 
 export function commentsIn(path: string, text: string): readonly Found[] {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(path, text)
   const seen = new Set<number>()
   const found: Found[] = []
   const take = (every: readonly ts.CommentRange[] | undefined): undefined => {
     for (const range of every ?? []) {
       if (seen.has(range.pos)) continue
       seen.add(range.pos)
-      const line = source.getLineAndCharacterOfPosition(range.pos).line + 1
+      const line = lineAt(source, range.pos)
       found.push({ line, raw: text.slice(range.pos, range.end) })
     }
   }

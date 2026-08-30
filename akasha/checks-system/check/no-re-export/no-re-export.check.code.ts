@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -34,11 +35,11 @@ function sentOn(clause: ts.NamedExportBindings | undefined, at: string, line: nu
 }
 
 export function reExportsIn(at: string, text: string): readonly Found[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(at, text)
   const came = cameIn(source)
   const found: Found[] = []
   for (const one of source.statements) {
-    const line = source.getLineAndCharacterOfPosition(one.getStart(source)).line + 1
+    const line = lineOf(source, one)
     if (ts.isExportAssignment(one) && ts.isIdentifier(one.expression)) {
       const from = came.get(one.expression.text)
       if (from !== undefined) found.push({ named: one.expression.text, line, from })

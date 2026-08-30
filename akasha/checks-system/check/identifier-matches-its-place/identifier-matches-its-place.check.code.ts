@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
@@ -26,7 +27,7 @@ function refusalAt(
   placing: Placing
 ): string | null {
   if (placing.matching(name.text)) return null
-  const line = source.getLineAndCharacterOfPosition(name.getStart(source)).line + 1
+  const line = lineOf(source, name)
   const said = `line ${line} declares the ${kind} \`${name.text}\``
   return `${said}, which is not written in \`${placing.nameFormatSlug}\``
 }
@@ -38,7 +39,7 @@ function boundToAFunction(node: ts.VariableDeclaration): boolean {
 }
 
 export function refusedIn(at: string, text: string, places: Places): readonly string[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(at, text)
   const found: string[] = []
   const take = (name: ts.Identifier, kind: string, placing: Placing): undefined => {
     const said = refusalAt(source, name, kind, placing)

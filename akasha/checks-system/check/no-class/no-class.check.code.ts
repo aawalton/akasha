@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const ERROR = "Error"
@@ -32,13 +33,13 @@ function extendedBy(node: ts.ClassLikeDeclaration): string | null {
 }
 
 export function classesIn(at: string, text: string): readonly Found[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(at, text)
   const found: Found[] = []
   const held = (node: ts.Node): undefined => {
     if (ts.isClassDeclaration(node) || ts.isClassExpression(node)) {
       found.push({
         named: node.name?.text ?? UNNAMED,
-        line: source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1,
+        line: lineOf(source, node),
         expression: ts.isClassExpression(node),
         extending: extendedBy(node),
       })

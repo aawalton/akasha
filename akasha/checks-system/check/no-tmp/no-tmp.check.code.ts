@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const OS = new Set(["node:os", "os"])
@@ -6,10 +7,6 @@ const OS = new Set(["node:os", "os"])
 const TMPDIR = "tmpdir"
 
 const IN_TMP = /^\/tmp(\/|$)/
-
-function lineAt(source: ts.SourceFile, node: ts.Node): number {
-  return source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1
-}
 
 function specifierOf(node: ts.ImportDeclaration): string | null {
   const held = node.moduleSpecifier
@@ -40,7 +37,7 @@ function takenIn(source: ts.SourceFile, said: string[]): ReadonlySet<string> {
     for (const element of held.elements) {
       if ((element.propertyName ?? element.name).text !== TMPDIR) continue
       said.push(
-        `line ${lineAt(source, element)} takes \`${TMPDIR}\` from \`${named}\`, and here that answers /tmp`
+        `line ${lineOf(source, element)} takes \`${TMPDIR}\` from \`${named}\`, and here that answers /tmp`
       )
     }
   }
@@ -55,20 +52,20 @@ function reached(node: ts.Node, bound: ReadonlySet<string>): string | null {
 }
 
 export function reasonsFor(at: string, text: string): readonly string[] {
-  const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(at, text)
   const said: string[] = []
   const bound = takenIn(source, said)
   const walk = (node: ts.Node): undefined => {
     const value = literalIn(node)
     if (value !== null && IN_TMP.test(value)) {
       said.push(
-        `line ${lineAt(source, node)} spells a path in /tmp, where no scratch of ours stands`
+        `line ${lineOf(source, node)} spells a path in /tmp, where no scratch of ours stands`
       )
     }
     const named = reached(node, bound)
     if (named !== null) {
       said.push(
-        `line ${lineAt(source, node)} reaches \`${named}.${TMPDIR}\`, and here that answers /tmp`
+        `line ${lineOf(source, node)} reaches \`${named}.${TMPDIR}\`, and here that answers /tmp`
       )
     }
     ts.forEachChild(node, walk)

@@ -1,7 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import type { SourceFile } from "typescript"
+import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { parsedAs, type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.check.code.ts"
+import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.check.code.ts"
 import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"
 
 const scratch = scratchWorld()

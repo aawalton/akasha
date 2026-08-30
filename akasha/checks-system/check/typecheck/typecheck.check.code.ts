@@ -1,6 +1,7 @@
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
 import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
+import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import.graph-edge.ts"
 import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
@@ -66,7 +67,7 @@ export type Minting = (path: string, text: string) => string
 export function omittingIn(path: string, text: string, keys: readonly string[]): string | null {
   if (keys.length === 0) return null
   const held = keys.map((one) => JSON.stringify(one)).join(" | ")
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(path, text)
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement)) continue
     for (const declared of statement.declarationList.declarations) {
@@ -148,11 +149,11 @@ export function foundOf(root: string, said: ts.Diagnostic): Found {
       `the compiler said \`TS${said.code}: ${text}\`, which names no file it could be kept against`
     )
   }
-  const { line } = said.file.getLineAndCharacterOfPosition(said.start)
+  const line = lineAt(said.file, said.start)
   const at = insideOf(root, resolve(said.file.fileName))
   return {
     path: at ?? said.file.fileName,
-    reason: `line ${line + 1}: TS${said.code}: ${text}`,
+    reason: `line ${line}: TS${said.code}: ${text}`,
   }
 }
 

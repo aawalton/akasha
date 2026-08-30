@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { lineOf } from "../../../../../code-system/code-source/code-source.module.code.ts"
 import type { Refusal, Standing } from "../syntax-rule.page-type.ts"
 
 const NEVER = "assertNever"
@@ -27,10 +28,6 @@ export function ends(statement: ts.Statement): boolean {
   if (ts.isExpressionStatement(statement)) return callsNever(statement.expression)
   if (ts.isBlock(statement)) return statement.statements.some(ends)
   return false
-}
-
-function lineOf(source: ts.SourceFile, node: ts.Node): number {
-  return source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1
 }
 
 export function exhaustiveDispatch(standing: Standing): readonly Refusal[] {

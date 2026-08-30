@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
+import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { indexSchema } from "../../../pages-system/indexes/index/index-schema/index-schema.index.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
@@ -54,7 +55,7 @@ function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
 }
 
 export function pageIn(path: string, text: string): Stated | null {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(path, text)
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement)) continue
     for (const one of statement.declarationList.declarations) {

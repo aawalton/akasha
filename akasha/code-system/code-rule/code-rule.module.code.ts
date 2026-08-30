@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { parsedAs } from "../code-source/code-source.module.code.ts"
 
 export type Spelt = {
   readonly name: string
@@ -54,7 +55,7 @@ function exported(node: ts.Node): boolean {
 }
 
 export function speltIn(path: string, text: string): readonly Spelt[] {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
+  const source = parsedAs(path, text)
   const found: Spelt[] = []
   const walk = (node: ts.Node): void => {
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {

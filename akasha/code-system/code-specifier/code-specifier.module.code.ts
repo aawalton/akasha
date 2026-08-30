@@ -1,4 +1,5 @@
 import ts from "typescript"
+import { skimmedAs } from "../code-source/code-source.module.code.ts"
 
 export type Placed = {
   readonly start: number
@@ -9,7 +10,7 @@ export type Placed = {
 type Taking = (node: ts.Node, took: (said: ts.Node | undefined) => void) => void
 
 function reading(path: string, text: string, takes: Taking): readonly Placed[] {
-  const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, false, ts.ScriptKind.TS)
+  const source = skimmedAs(path, text)
   const found: Placed[] = []
   const took = (node: ts.Node | undefined): undefined => {
     if (node === undefined || !ts.isStringLiteral(node)) return

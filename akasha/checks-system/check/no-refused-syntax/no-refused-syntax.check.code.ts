@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import ts from "typescript"
+import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -60,10 +60,6 @@ export function rulesIn(root: string): readonly Rule[] {
     )
   }
   return [...found].sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
-}
-
-export function parsedAs(path: string, text: string): ts.SourceFile {
-  return ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
 }
 
 export function refusalsIn(rules: readonly Rule[], path: string, text: string): readonly string[] {
