@@ -12,7 +12,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "An answer about one page is one file read or one directory listed, and never a walk.",
+        "An answer about one page is one file read or one directory listed, and a name not saying its page type costs one read for each page type it could be — never a walk of the corpus.",
     },
     {
       invariantKind: "departure",

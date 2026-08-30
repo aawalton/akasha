@@ -24,11 +24,6 @@ export const akashaPropertyKeys = {
     {
       invariantKind: "gap",
       statement:
-        "The schema files a property under its page type as well as its slug, so two properties carrying one slug both stand.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
         "Whatever reads a page's key reads it from the property, never from the property's slug.",
     },
   ],
@@ -48,16 +43,18 @@ export const akashaPropertyKeys = {
       "and `many` never changes. One check carries all four, because all four want the same walk " +
       "up `extendsSlug` — the walk `declaredFor` already makes, discarding the ancestor where it " +
       "should be comparing.",
-    "The schema files every property at `page-property/slug/<slug>`, flat, and reads it back with " +
-      "`[0]`. That holds only while no two properties share a slug. Property slugs keep the same " +
-      "per-page-type reach every other slug has, so two may share one, and the flat key would drop " +
-      "the second without saying so. The page type segment comes along with this work rather than " +
-      "after it, because the freedom is not usable while the index cannot file it.",
-    "The order is: state the key, file it, read from it, then judge it. Stating it changes nothing " +
-      "while nothing reads it, and filing it changes nothing while every key still equals its slug, " +
-      "so the first two landings are mechanical and the whole turn is the third. The check comes " +
-      "last of the four because it cannot resolve a declaration to its key until the schema carries " +
-      "one. Taking a shorter key for a property that has been carrying a qualifier is separate " +
-      "again, one page type at a time, and none of it is owed.",
+    "The readers, the check and the identity index all want one thing: given a page type, the " +
+      "properties it carries after shadowing, each under its key. That is one module rather than " +
+      "the same walk spelled in five places, and it lands before any of them. Without it the " +
+      "identity index would file a page under whichever unique property happened to key alike, " +
+      "because it probes every key against every page rather than asking what the page's type " +
+      "carries.",
+    "The order is: state the key, file it, judge it, then read from it. Stating it changes nothing " +
+      "while nothing reads it, and filing it changes nothing while every key still equals its " +
+      "slug, so those two are mechanical. The check comes before the readers rather than after it: " +
+      "it cannot resolve a declaration to its key until the schema carries one, and until it " +
+      "stands a collision would collapse quietly, which is the very failure being removed. Taking " +
+      "a shorter key for a property that has been carrying a qualifier is separate again, one page " +
+      "type at a time, and none of it is owed.",
   ],
 } as const satisfies Initiative

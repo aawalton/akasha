@@ -32,12 +32,14 @@ export function schemaIn(value: Value): readonly Entry[] {
   if (pageTypeSlug === null || !SHAPES.has(pageTypeSlug)) return []
   const slug = textAt(value, "slug")
   if (slug === null) return []
+  const propertySlug = textAt(value, "propertySlug")
+  if (propertySlug === null) return []
   const held: Schema = {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
     unique: slugAt(value, "unique"),
     slug,
-    propertySlug: textAt(value, "propertySlug") ?? "",
+    propertySlug,
   }
   return [
     {
