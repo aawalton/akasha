@@ -35,6 +35,14 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement: "This index reads rather than refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This index stands apart from identity.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One file is one page.",
     },
     {
