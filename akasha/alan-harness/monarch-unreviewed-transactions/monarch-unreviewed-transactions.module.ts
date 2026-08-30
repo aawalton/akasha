@@ -17,8 +17,7 @@ export const monarchUnreviewedTransactions = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only settled transactions are counted, so a pending one reaches none of the three counts.",
+      statement: "Only settled transactions are counted.",
     },
     {
       invariantKind: "departure",
