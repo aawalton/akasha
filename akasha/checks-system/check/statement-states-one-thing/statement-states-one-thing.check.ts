@@ -7,7 +7,7 @@ export const statementStatesOneThing = {
   definition: "the check refusing a statement that says why or holds more than one thing",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
