@@ -5,6 +5,7 @@ import {
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
@@ -16,13 +17,14 @@ const TS = ".ts"
 
 export function pagesTouchedBy(
   leaving: Leaving,
-  pageTypes: ReadonlySet<string>
+  pageTypes: ReadonlySet<string>,
+  given: string | Reading
 ): readonly string[] {
   const found = new Set<string>()
   for (const path of leaving.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of standingByPath(leaving.root, path)) {
+    for (const one of standingByPath(given, path)) {
       if (one.path.startsWith(INSIDE)) found.add(one.path)
     }
   }
@@ -64,7 +66,7 @@ export function pagePropertyHasItsFile(leaving: Leaving, shadow: Shadow): readon
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
   const said: Judged[] = []
-  for (const page of pagesTouchedBy(leaving, pageTypes)) {
+  for (const page of pagesTouchedBy(leaving, pageTypes, shadow.reading)) {
     said.push(...missingFor(leaving, page, fileProperties))
   }
   return said

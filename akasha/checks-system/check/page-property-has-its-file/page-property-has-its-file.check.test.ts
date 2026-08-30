@@ -69,6 +69,12 @@ function judged(change: Leaving): readonly Judged[] {
   return pagePropertyHasItsFile(change, cast.shadow)
 }
 
+function touched(change: Leaving, pageTypes: ReadonlySet<string>): readonly string[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return pagesTouchedBy(change, pageTypes, cast.shadow.reading)
+}
+
 test("a page whose stated code file stands in the change is let through", () => {
   const root = rooted()
   expect(judged(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"') }))).toEqual([])
@@ -195,17 +201,17 @@ test("the pages to judge are the pages in the change and the pages the index say
   const root = rooted()
   landed(root)
   const pageTypes = new Set(["module"])
-  expect(pagesTouchedBy(over(root, [CODE], {}), pageTypes)).toEqual([PAGE])
-  expect(pagesTouchedBy(over(root, ["akasha/b/new.module.ts"], {}), pageTypes)).toEqual([
+  expect(touched(over(root, [CODE], {}), pageTypes)).toEqual([PAGE])
+  expect(touched(over(root, ["akasha/b/new.module.ts"], {}), pageTypes)).toEqual([
     "akasha/b/new.module.ts",
   ])
-  expect(pagesTouchedBy(over(root, ["akasha/a/loose.txt"], {}), pageTypes)).toEqual([])
+  expect(touched(over(root, ["akasha/a/loose.txt"], {}), pageTypes)).toEqual([])
 })
 
-test("which pages carry a changed path is read from the index as it stands, whatever the change leaves", () => {
+test("a page the index says carries a changed path is judged though the change never names it", () => {
   const root = rooted()
   landed(root)
-  expect(pagesTouchedBy(over(root, [CODE], {}), new Set<string>())).toEqual([PAGE])
+  expect(touched(over(root, [CODE], {}), new Set<string>())).toEqual([PAGE])
 })
 
 test("the label on a refusal is the property and the value the page states", () => {
