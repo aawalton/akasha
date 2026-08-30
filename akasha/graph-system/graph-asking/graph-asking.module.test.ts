@@ -41,8 +41,6 @@ const HELD_INDEX = "held-index"
 
 const HELD_RELATION = "held-relation"
 
-const HELD_IMPORT = "held-import"
-
 const EDGE_ID = "01a04ff4-0000-7000-8000-00000000000e"
 
 const INDEX_ID = "01a04ff4-0000-7000-8000-00000000000d"
@@ -208,14 +206,6 @@ test("an index the answer needs, gone, is answered with nothing rather than refu
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
   expect(edgesInto(gone, TARGET_AT, [RELATION])).toEqual([])
-})
-
-test("an edge kind naming a folder that is not there is refused, though another folder stands", () => {
-  const root = importWorld(HELD_IMPORT)
-
-  expect(() => edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toThrow(
-    new RegExp(`${HELD_IMPORT}.*could not be answered`)
-  )
 })
 
 test("a kind no edge page carries is refused rather than answered with nothing", () => {

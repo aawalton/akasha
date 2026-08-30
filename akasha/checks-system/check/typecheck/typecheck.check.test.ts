@@ -5,9 +5,13 @@ import ts from "typescript"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import { foundOf, omittingIn, reachedBy, typecheck } from "./typecheck.check.code.ts"
-import { IMPORTS_AT, leaving, over, scratch, staged } from "./typecheck.check.test-fixtures.ts"
+import { leaving, over, scratch, staged } from "./typecheck.check.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+const STAMP_AT = "stamp.jsonl"
+
+const NAMING_NO_COMMIT = "names no commit"
 
 const GENERATED_ID = "01a04f2b-3d24-70b3-8c3e-3076a9299145"
 
@@ -311,15 +315,15 @@ test("a file outside the akasha folder never becomes a root, however the index n
   ])
 })
 
-test("an index that is not there is refused, because an absent graph is not a graph naming no importer", () => {
+test("an index naming no commit is refused, because an index that cannot answer names no importer", () => {
   const root = staged({
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
   })
-  rmSync(join(root, IMPORTS_AT), { recursive: true })
-  expect(() => typecheck(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toThrow(
-    IMPORTS_AT
-  )
+  const changed = { "akasha/one.ts": "export const one = 2\n" }
+  expect(reachedBy(leaving(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  rmSync(join(indexIn(root), STAMP_AT))
+  expect(() => typecheck(leaving(root, changed))).toThrow(NAMING_NO_COMMIT)
 })
 
 test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {

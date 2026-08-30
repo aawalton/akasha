@@ -67,5 +67,13 @@ export const graphSystem = {
         "One rule used twice cannot disagree with itself.",
       ],
     },
+    {
+      directiveKind: "rule",
+      name: "Trust The Index",
+      act: "Read what the index answers. Never check that it is there, and never re-derive what it said.",
+      warrant:
+        "A reader that validates pays on every call for a fault the door should never have written.",
+      aids: [],
+    },
   ],
 } as const satisfies Domain
