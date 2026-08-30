@@ -70,12 +70,15 @@ export const check = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A check is handed the whole change, and decides for itself what work the change warrants.",
+      statement: "A check is handed the whole change.",
     },
     {
       invariantKind: "departure",
-      statement: "A check judges the code, never its author.",
+      statement: "A check decides for itself what work the change warrants.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check judges the code rather than its author.",
     },
     {
       invariantKind: "departure",
@@ -87,12 +90,19 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement: "Audit is a phase like any other, and a check states whether it runs there.",
+      statement: "Audit is a phase like any other.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A check running on no phase has landed and does not yet judge, which is how a check states its rule before it binds anyone.",
+      statement: "A check states whether it runs there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check running on no phase has landed and does not yet judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That is how a check states its rule before it binds anyone.",
     },
     {
       invariantKind: "departure",
@@ -100,17 +110,28 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Patch turns on before the tree's violation count reaches zero, and holds the count from rising while the rest stay fixed.",
+      statement: "Patch turns on before the tree's violation count reaches zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Patch holds the count from rising while the rest stay fixed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Patch on means a file still carrying a violation is refused the next time it is touched, which is the ratchet working rather than the check misfiring.",
+        "Patch on means a file still carrying a violation is refused the next time it is touched.",
     },
     {
       invariantKind: "departure",
-      statement: "A check reads any path by name, and asks the index for paths it cannot name.",
+      statement: "That is the ratchet working rather than the check misfiring.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check reads any path by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check asks the index for paths it cannot name.",
     },
     {
       invariantKind: "stopgap",
