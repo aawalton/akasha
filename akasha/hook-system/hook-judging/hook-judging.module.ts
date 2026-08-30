@@ -10,22 +10,22 @@ export const hookJudging = {
     {
       invariantKind: "departure",
       statement:
-        "A test asks about a call made at the root, because that is where an agent's calls are made. A call made anywhere else is the exception, and a test says so out loud.",
+        "A test asks about a call made at the root. A call made anywhere else is the exception, and a test says so out loud.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The root a hook is judged against is bound once, so a test cannot hand it one root and ask about a call made under another without saying it meant to.",
+        "The root a hook is judged against is bound once. A test asking about a call under another root must name it explicitly.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here judges. A hook's own judgement is handed in and handed back with its root bound, so no rule about what is refused stands here.",
+        "Nothing here judges. A hook's own judgement is handed in and handed back with its root bound.",
     },
     {
       invariantKind: "absence",
       statement:
-        "No test is written here, as none is written for hook-payload. What stands here is stood up by the tests that reach for it, and proving itself would prove nothing about any hook.",
+        "No test is written here. What stands here is stood up by the tests that reach for it, and proving itself would prove nothing about any hook.",
     },
   ],
 } as const satisfies Module

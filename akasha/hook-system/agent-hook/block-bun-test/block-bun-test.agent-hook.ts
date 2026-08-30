@@ -12,8 +12,7 @@ export const blockBunTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A `bun test` naming no path is refused, because what it runs is then every test there is.",
+      statement: "A `bun test` naming no path runs every test there is, and is refused.",
     },
     {
       invariantKind: "departure",
@@ -25,12 +24,11 @@ export const blockBunTest = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag's value is never read as a path, so a filter alone bounds a call.",
+      statement: "A flag's value is never read as a path.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call running outside the repository this hook stands in is let through, so a scratch copy is tested as usual.",
+      statement: "A call running outside the repository this hook stands in is let through.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +36,7 @@ export const blockBunTest = {
     },
     {
       invariantKind: "absence",
-      statement: "`bun run test` is not read here, so a package script is not refused.",
+      statement: "`bun run test` is not read here.",
     },
     {
       invariantKind: "constraint",

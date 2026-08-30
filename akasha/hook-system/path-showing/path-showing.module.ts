@@ -10,22 +10,20 @@ export const pathShowing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A path under the root is said relative to it, because a reader standing at the root names it that way and would read the whole one as somewhere else.",
+      statement: "A path under the root is said relative to it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path outside the root is said whole, because no shortening of it still points at the same place.",
+      statement: "A path outside the root is said whole.",
     },
     {
       invariantKind: "departure",
-      statement: "The root itself is said whole, because said relative to itself it is nothing.",
+      statement: "The root itself is said whole.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reaches the filesystem, so a path is shown whether or not anything stands at it, and a link on it is not followed. A caller wanting that settles the path first.",
+        "Nothing here reaches the filesystem. A caller wanting a path's existence checked, or a link on it followed, settles that first.",
     },
   ],
 } as const satisfies Module

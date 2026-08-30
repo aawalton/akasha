@@ -17,12 +17,11 @@ export const blockAkashaShellWrites = {
     {
       invariantKind: "departure",
       statement:
-        "The guarded roots are the akasha folder and `.git/data`, as they are for an edit.",
+        "The guarded roots are the akasha folder and `.git/data`, the same as for an edit.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A copy or a move is judged on where it puts things, so reading a file out of akasha stands.",
+      statement: "A copy or a move is judged on where it puts things.",
     },
     {
       invariantKind: "departure",

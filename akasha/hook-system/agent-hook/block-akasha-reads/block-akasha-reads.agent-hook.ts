@@ -16,7 +16,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is judged by where it lands, so a link pointing out of akasha stands.",
+      statement: "A path is judged by where it lands.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +25,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call running outside the repository this hook stands in is let through, so a scratch copy is read as usual.",
+      statement: "A call running outside the repository this hook stands in is let through.",
     },
     {
       invariantKind: "departure",
@@ -34,11 +33,11 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "absence",
-      statement: "The index is no page, so a Read of `.git/data` stands.",
+      statement: "The index is no page. A Read of `.git/data` stands.",
     },
     {
       invariantKind: "absence",
-      statement: "A search is no read, so what Grep and Glob show is not refused here.",
+      statement: "A search is no read. What Grep and Glob show is not refused here.",
     },
     {
       invariantKind: "gap",

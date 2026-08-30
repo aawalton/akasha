@@ -10,17 +10,15 @@ export const shellCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A line continuation is joined before the line is cut, so one call stays one.",
+      statement: "A line continuation is joined before the line is cut.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A quoted run holding one bare word is unquoted before the cut, so a quoted path stays a path.",
+      statement: "A quoted run holding one bare word is unquoted before the cut.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every other quoted run is taken out before the cut, so a payload never reads as a call.",
+      statement: "Every other quoted run is taken out before the cut.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +30,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A word is matched by its basename, so a path to a tool is that tool.",
+      statement: "A word is matched by its basename.",
     },
     {
       invariantKind: "absence",
@@ -40,7 +38,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "No tool is named here, so nothing here knows which tool it is cutting for.",
+      statement: "No tool is named here.",
     },
     {
       invariantKind: "constraint",

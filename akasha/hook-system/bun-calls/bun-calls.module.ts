@@ -18,7 +18,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "What follows the verb is returned unread, so a filter is never taken for a flag.",
+      statement: "What follows the verb is returned unread.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "The cutting is `shell-calls`, so no rule about quoting or basenames stands here.",
+      statement: "The cutting is `shell-calls`. No rule about quoting or basenames stands here.",
     },
   ],
 } as const satisfies Module

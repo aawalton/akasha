@@ -31,22 +31,21 @@ export const hookAnswer = {
     {
       invariantKind: "departure",
       statement:
-        "A hook's repository root is four folders above the hook's own file, and that depth is written here rather than worked out, so a hook standing elsewhere would read the wrong root.",
+        "A hook's repository root is four folders above the hook's own file, and that depth is written here rather than worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the hook that refused before it says why.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the hook that refused before it says why, so a reader holding several guards knows which one answered without reading further.",
+        "A call handed back with its input changed is one JSON object on standard output, and the exit code is 0.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A call handed back with its input changed is one JSON object on standard output, and the exit code is 0, because the call still runs.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A hook changing a call's input is handed the payload whole, because what it changes the call with stands outside the tool input.",
+        "A hook changing a call's input is handed the payload whole. What it changes the call with stands outside the tool input.",
     },
     {
       invariantKind: "absence",
@@ -56,12 +55,12 @@ export const hookAnswer = {
     {
       invariantKind: "departure",
       statement:
-        "A hook that reads its call from the payload is run from here, so how the harness is answered is said once and every hook answering it differently is a hook that has left.",
+        "A hook that reads its call from the payload is run from here. How the harness is answered is said once, and any hook answering it differently is a hook that has left.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What a hook refuses is handed in, so the runner knows the shape of a judgement and nothing about what any hook judges.",
+        "What a hook refuses is handed in as data; the runner knows only the shape of a judgement, not what any hook judges.",
     },
   ],
 } as const satisfies Module

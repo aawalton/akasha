@@ -12,13 +12,11 @@ export const nameSubagent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A subagent is named by its seat and its own id together, so one seat's subagents are told apart.",
+      statement: "A subagent is named by its seat and its own id together.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name is honoured only where the seat's own id begins it, so no agent claims another's record.",
+      statement: "A name is honoured only where the seat's own id begins it.",
     },
     {
       invariantKind: "departure",

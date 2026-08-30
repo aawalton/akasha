@@ -9,13 +9,12 @@ export const hookPayload = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The payload is built to the shape the agent sends, so a hook spawned in a test is fed what it is fed when it runs for real.",
+      statement: "The payload is built to the shape the agent sends.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Where the call was made is carried, because a hook may refuse on it, and one that does not is handed it anyway rather than being fed a different shape.",
+        "Where the call was made is carried. A hook that does not refuse on it is handed it anyway, rather than being fed a different shape.",
     },
     {
       invariantKind: "absence",

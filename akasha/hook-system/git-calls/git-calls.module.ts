@@ -30,7 +30,7 @@ export const gitCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "The cutting is `shell-calls`, so no rule about quoting or basenames stands here.",
+      statement: "The cutting is `shell-calls`. No rule about quoting or basenames stands here.",
     },
     {
       invariantKind: "gap",

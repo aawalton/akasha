@@ -32,11 +32,11 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "constraint",
-      statement: "Git classifies no verb by this hazard, so the list here is a sample, not a set.",
+      statement: "Git classifies no verb by this hazard, and the list here is a sample, not a set.",
     },
     {
       invariantKind: "constraint",
-      statement: "A longer list is a longer search prompt, so a gap is reported and never filled.",
+      statement: "A longer list is a longer search prompt. A gap is reported and never filled.",
     },
     {
       invariantKind: "gap",

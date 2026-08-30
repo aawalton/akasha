@@ -37,7 +37,7 @@ export const hookSystem = {
     {
       invariantKind: "constraint",
       statement:
-        "A shell writes a file in more ways than can be named, so a hook over them samples an open world.",
+        "A hook over the ways a shell writes a file samples an open world, too many to name.",
     },
   ],
 } as const satisfies Domain

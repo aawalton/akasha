@@ -16,18 +16,17 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call leaving it changed is told so, and told which paths went back, because a write undone in silence reads as a write that worked.",
+      statement: "A call leaving it changed is told so, and told which paths went back.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What went back is judged by what stands, never by what the call said, so a write reaches this whatever tool carried it.",
+        "What went back is judged by what stands, never by what the call said. A write reaches this whatever tool carried it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The tree goes back under the landing lock, so a landing part way through is never taken for a write around the gate.",
+        "The tree goes back under the landing lock. A landing part way through is never taken for a write around the gate.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +44,7 @@ export const restoreAkashaWhenDirty = {
     {
       invariantKind: "constraint",
       statement:
-        "This answers after the write, so what it holds is that nothing stands on an ungated change, not that none is made.",
+        "This answers after the write. What it holds is that nothing stands on an ungated change, not that none was made.",
     },
   ],
 } as const satisfies AgentHook

@@ -10,13 +10,11 @@ export const chainRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A command line carries several calls, and one refused call refuses the line, so a call that would be refused alone is not let through by the ones chained after it.",
+      statement: "A command line carries several calls, and one refused call refuses the line.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Judging stops at the first refusal, so a hook answers with one reason rather than a list a reader has to choose from.",
+      statement: "Judging stops at the first refusal.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +23,7 @@ export const chainRefusal = {
     {
       invariantKind: "departure",
       statement:
-        "A hook judging every call it cuts the same way binds this rather than spelling the loop, so what stands in the hook is which calls and which judgement, never how the two are put together.",
+        "A hook judging every call it cuts the same way binds this rather than spelling the loop.",
     },
     {
       invariantKind: "absence",

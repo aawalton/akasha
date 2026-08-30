@@ -11,12 +11,11 @@ export const clearReadsOnContextReplaced = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A context replaced holds none of what was read into it, so the record goes with it.",
+      statement: "A context replaced holds none of what was read into it.",
     },
     {
       invariantKind: "departure",
-      statement: "A resumed session keeps its readings, because its context stands as it was.",
+      statement: "A resumed session keeps its readings.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +29,7 @@ export const clearReadsOnContextReplaced = {
     {
       invariantKind: "departure",
       statement:
-        "A seat's subagents' records go when the seat's context is replaced, because nothing else takes them away.",
+        "A seat's subagents' records go when the seat's context is replaced. Nothing else takes them away.",
     },
     {
       invariantKind: "departure",

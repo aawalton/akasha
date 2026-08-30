@@ -17,7 +17,7 @@ export const blockGitWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the paths after `--` bound a call, so a flag's value is never read as one.",
+      statement: "Only the paths after `--` bound a call.",
     },
     {
       invariantKind: "departure",
