@@ -22,6 +22,10 @@ export const amySeatSystem = {
     },
     {
       invariantKind: "gap",
+      statement: "A page moves with the uncommitted values standing beside it.",
+    },
+    {
+      invariantKind: "gap",
       statement:
         "A change touching only uncommitted values lands without a commit and without the hold.",
     },
