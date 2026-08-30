@@ -11,6 +11,7 @@ import {
   carriedInto,
   carryReadings,
   discardedBy,
+  dropReadings,
   READS_AT,
   readingFileAt,
   readingIn,
@@ -184,6 +185,28 @@ test("every agent holding the body is carried, not the first one found", () => {
     expect(readingIn(root, one, B)?.mechanicalOid).toBe(now)
     expect(readingIn(root, one, A)).toBeNull()
   }
+})
+
+test("a removal forgets the reading, for every agent holding one", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  for (const one of [AGENT, OTHER]) {
+    recordRead(root, one, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+    recordRead(root, one, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
+  }
+  dropReadings(root, [A])
+  for (const one of [AGENT, OTHER]) {
+    expect(readingIn(root, one, A)).toBeNull()
+    expect(existsSync(readingFileAt(root, one, A))).toBe(false)
+    expect(readingIn(root, one, B)?.oid).toBe("two")
+  }
+})
+
+test("forgetting a reading nobody holds takes nothing away and throws nothing", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
+  expect(() => dropReadings(root, [A])).not.toThrow()
+  expect(() => dropReadings(scratch.rootFor("akasha-reading-"), [A])).not.toThrow()
+  expect(readingIn(root, AGENT, B)?.oid).toBe("two")
 })
 
 const UNDER = `${AGENT}${SUBAGENT_MARK}sub-one`
