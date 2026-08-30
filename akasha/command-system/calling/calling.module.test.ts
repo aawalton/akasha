@@ -113,7 +113,7 @@ test("a command page throwing what is no Error is still refused with what it sai
 
 const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"
 
-function rooted(root: string): void {
+function rooted(root: string): undefined {
   const at = join(root, ROOTED_AT)
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, 'export const index = { slug: "index" }\n')

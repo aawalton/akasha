@@ -25,7 +25,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
-function hookIn(root: string, lines: readonly string[]): void {
+function hookIn(root: string, lines: readonly string[]): undefined {
   const at = join(root, ".git/hooks/pre-commit")
   mkdirSync(join(at, ".."), { recursive: true })
   writeFileSync(at, `${["#!/bin/sh", ...lines].join("\n")}\n`, { mode: 0o755 })
