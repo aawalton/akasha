@@ -1,4 +1,3 @@
-import { readEnrolmentByAccount } from "@shared/person-enrolment/record"
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
 import { z } from "zod"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
@@ -54,11 +53,10 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  const enrolled = await readEnrolmentByAccount(user.id)
   const result = await resolveQuestion({
     ...parsed.data,
     sessionUserId: user.id,
-    sender: { accountUserId: user.id, personSlug: enrolled?.slug ?? null },
+    sender: { accountUserId: user.id, personSlug: null },
   })
   if (!result.ok) {
     return Response.json(

@@ -41,7 +41,6 @@
     "@shared/pages-ui-store": "workspace:*",
     "@shared/pages-url": "workspace:*",
     "@shared/person-access": "workspace:*",
-    "@shared/person-enrolment": "workspace:*",
     "@shared/recurrence": "workspace:*",
     "@shared/status-bar-access": "workspace:*",
     "@shared/supabase-auth": "workspace:*",

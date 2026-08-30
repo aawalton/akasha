@@ -133,12 +133,6 @@
         "**/*.ts"
       ]
     },
-    "shared/person-enrolment": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/person-target": {
       "entry": [
         "**/*.test.{ts,tsx}"

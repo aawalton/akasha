@@ -59,7 +59,6 @@
     "shared/person-access",
     "shared/person-authority",
     "shared/person-document",
-    "shared/person-enrolment",
     "shared/person-target",
     "shared/recurrence",
     "shared/status-bar-access",

@@ -1,4 +1,3 @@
-import { readEnrolmentByAccount } from "@shared/person-enrolment/record"
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
 import { loadGame } from "../awen/lib/game.server"
@@ -56,10 +55,9 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
   try {
-    const enrolled = await readEnrolmentByAccount(user.id)
     await deliverPlayerAction(parsed.data.text, game.coordinatorAgent, {
       accountUserId: user.id,
-      personSlug: enrolled?.slug ?? null,
+      personSlug: null,
     })
   } catch {
     return Response.json(
