@@ -44,7 +44,11 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "constraint",
-      statement: "A longer list is a longer search prompt. A gap is reported and never filled.",
+      statement: "A longer list is a longer search prompt.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A gap is reported and never filled.",
     },
     {
       invariantKind: "gap",
