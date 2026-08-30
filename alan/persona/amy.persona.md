@@ -2,7 +2,7 @@
 page-type-slug: persona
 id: 019eb900-4c8c-7304-aae1-b287c6b53b3e
 title: Amy
-total-points: 79.06290849673202
+total-points: 79.18055555555556
 cover: "/api/image/019f324d-3e75-719b-ba8e-1f2e95425714"
 slug: amy
 domain-parent-slug: readout-group/personas
