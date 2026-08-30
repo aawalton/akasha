@@ -17,26 +17,30 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A body the change does not touch is read from the base commit, never from the working tree.",
+        "A body the change does not touch is read from the base commit rather than from the working tree.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The bodies the change does not touch are read through one git process for the whole judging, not one for each.",
+        "The bodies the change does not touch are read through one git process for the whole judging rather than one for each.",
     },
     {
       invariantKind: "departure",
-      statement: "That git process is ended when the judging ends, however it ends.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The commit the change was judged against is the commit it lands on, or it is refused.",
+      statement: "That git process is ended when the judging ends however it ends.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change may state the commit its bodies were read against, and a path that moved between that commit and what stands is refused unwritten rather than written over.",
+        "The commit the change was judged against is the commit it lands on or it is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change may state the commit its bodies were read against.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path that moved between that commit and what stands is refused unwritten rather than written over.",
     },
     {
       invariantKind: "departure",
@@ -50,12 +54,20 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A body is overwritten only where what stands on disk is the body its writer read, and one that moved is refused unwritten.",
+        "A body is overwritten only where what stands on disk is the body its writer read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One that moved is refused unwritten.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A change commits only where no commit reaching `akasha/` landed between the base it read and the writing, and one that did is refused unwritten.",
+        "A change commits only where no commit reaching `akasha/` landed between the base it read and the writing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One that did is refused unwritten.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +83,8 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "One hold spans reading the base, judging, writing, indexing and committing.",
+      statement:
+        "One hold spans reading the base and judging and writing and indexing and committing.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +109,7 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A run may gate and report and leave nothing at all, not a file and not a loose object.",
+        "A run may gate and report and leave nothing at all: not a file and not a loose object.",
     },
     {
       invariantKind: "departure",
@@ -112,8 +125,11 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only writing without gating carries past them, and why they would not load is said in the answer and in the commit.",
+      statement: "Only writing without gating carries past them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Why they would not load is said in the answer and in the commit.",
     },
     {
       invariantKind: "departure",
