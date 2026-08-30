@@ -14,7 +14,11 @@ export const graphSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The indexes answer what stands; the graph answers what follows from it.",
+      statement: "The indexes answer what stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The graph answers what follows from it.",
     },
     {
       invariantKind: "departure",
