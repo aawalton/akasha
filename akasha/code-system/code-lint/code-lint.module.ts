@@ -35,7 +35,11 @@ export const codeLint = {
     {
       invariantKind: "constraint",
       statement:
-        "Biome says of its own JSON reporter that it is unstable and may change between patches. We read it anyway; it is the only shape of its answer a machine can take.",
+        "Biome says of its own JSON reporter that it is unstable and may change between patches. We read it anyway.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "It is the only shape of its answer a machine can take.",
     },
     {
       invariantKind: "absence",

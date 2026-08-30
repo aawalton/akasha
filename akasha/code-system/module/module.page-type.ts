@@ -30,7 +30,11 @@ export const module = {
     },
     {
       invariantKind: "departure",
-      statement: "A module page states what its code is for; the code states how.",
+      statement: "A module page states what its code is for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code states how.",
     },
     {
       invariantKind: "departure",
