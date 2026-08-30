@@ -15,13 +15,12 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What the change files is worked out by the same rule a landing settles by, so the shadow and the landing cannot say different things.",
+      statement: "What the change files is worked out by the same rule a landing settles by.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The shadow lies over the committed index and holds only the entry files the change touches, so it costs what the change is and not what the index is.",
+        "The shadow lies over the committed index and holds only the entry files the change touches.",
     },
     {
       invariantKind: "departure",
@@ -45,23 +44,20 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One change is one shadow, held against the change itself, so every check asking gets the one that was worked out.",
+      statement: "One change is one shadow, held against the change itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shadow over a change is asked for one way.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A shadow over a change is asked for one way, so no caller chooses between working one out and taking the one already worked out.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A shadow handed to something that may not read it is worked out when it is first read, so a change nothing asks about costs nothing and is refused by nothing.",
+        "A shadow handed to something that may not read it is worked out when it is first read.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing is copied and no scratch directory is made, so there is nothing to sweep and nothing to leak.",
+      statement: "Nothing is copied and no scratch directory is made.",
     },
     {
       invariantKind: "absence",
