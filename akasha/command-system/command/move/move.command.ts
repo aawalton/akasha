@@ -45,7 +45,11 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "The file is carried on disk once the move lands.",
+      statement: "The file is carried on disk under the hold that commits the move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move that refuses or throws leaves the file where it stood.",
     },
     {
       invariantKind: "departure",

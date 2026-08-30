@@ -83,8 +83,24 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A change may name paths carried on disk rather than written and committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those paths are carried after the index is settled and before the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carry that throws puts back the carries made before it in reverse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A commit that throws puts back every carry made for it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "One hold spans reading the base and judging and writing and indexing and committing.",
+        "One hold spans reading the base and judging and writing and indexing and carrying and committing.",
     },
     {
       invariantKind: "departure",
@@ -93,6 +109,10 @@ export const landing = {
     {
       invariantKind: "departure",
       statement: "A landing that throws has committed nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that throws has carried nothing.",
     },
     {
       invariantKind: "departure",

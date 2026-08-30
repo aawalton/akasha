@@ -7,7 +7,7 @@ import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
-import type { FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
+import type { FileCarry, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
@@ -34,6 +34,7 @@ export type Asked = {
   readonly unmoved: readonly Held[]
   readonly saying: Saying
   readonly read?: string | null
+  readonly carries?: readonly FileCarry[]
 }
 
 export type Trouble = {
@@ -304,7 +305,8 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       gate,
       given.writer,
       held.read ?? null,
-      asReadIn(given, held.changes)
+      asReadIn(given, held.changes),
+      held.carries ?? []
     )
   } catch (thrown) {
     return {

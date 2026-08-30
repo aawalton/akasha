@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Judged, Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
@@ -17,6 +17,11 @@ export type FileEdit = {
   readonly path: string
   readonly body: Uint8Array | null
   readonly carried?: boolean
+}
+
+export type FileCarry = {
+  readonly from: string
+  readonly to: string
 }
 
 export type Proposed = {
@@ -117,6 +122,27 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
   )
 }
 
+function carriedOnto(root: string, carries: readonly FileCarry[]): () => undefined {
+  const gone: FileCarry[] = []
+  const back = (): undefined => {
+    for (const one of [...gone].reverse()) renameSync(join(root, one.to), join(root, one.from))
+  }
+  try {
+    for (const one of carries) {
+      const at = join(root, one.from)
+      if (!existsSync(at)) continue
+      const to = join(root, one.to)
+      mkdirSync(dirname(to), { recursive: true })
+      renameSync(at, to)
+      gone.push(one)
+    }
+  } catch (thrown) {
+    back()
+    throw thrown
+  }
+  return back
+}
+
 function indexed(
   root: string,
   changed: readonly FileEdit[],
@@ -157,7 +183,8 @@ export function landing(
   judging: Judging,
   writer: string | null = null,
   read: string | null = null,
-  asRead: readonly AsRead[] = []
+  asRead: readonly AsRead[] = [],
+  carries: readonly FileCarry[] = []
 ): Landed | Refused {
   if (changes.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
@@ -216,8 +243,14 @@ export function landing(
     try {
       const put = wroteOnto(root, changes)
       const noted = indexed(root, changes, before, keeping)
-      const commit = committed(root, put.wrote, put.took, message, writer, base)
-      return { base, commit, wrote: put.wrote, took: put.took, noted }
+      const back = carriedOnto(root, carries)
+      try {
+        const commit = committed(root, put.wrote, put.took, message, writer, base)
+        return { base, commit, wrote: put.wrote, took: put.took, noted }
+      } catch (thrown) {
+        back()
+        throw thrown
+      }
     } catch (thrown) {
       restored(root, before)
       throw thrown

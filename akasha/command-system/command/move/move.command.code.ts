@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, renameSync, statSync } from "node:fs"
+import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import type { Standing } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
@@ -20,7 +20,7 @@ import {
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
+import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
@@ -256,16 +256,6 @@ function sidedIn(
   return { sides }
 }
 
-function carryUncommitted(root: string, sides: readonly Sided[]): undefined {
-  for (const one of sides) {
-    const at = join(root, one.from)
-    if (one.committed || !existsSync(at)) continue
-    const to = join(root, one.to)
-    mkdirSync(dirname(to), { recursive: true })
-    renameSync(at, to)
-  }
-}
-
 function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): readonly string[] {
   const report = sides
     .filter((one) => one.named)
@@ -309,8 +299,12 @@ export function move(argv: readonly string[], given: Given): Answer {
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
   const changes: FileEdit[] = []
   const carries: Carry[] = []
+  const uncommitted: FileCarry[] = []
   for (const one of sided.sides) {
-    if (!one.committed) continue
+    if (!one.committed) {
+      uncommitted.push({ from: one.from, to: one.to })
+      continue
+    }
     const bytes = bodyAt(root, stood, one.from)
     if (bytes === null) {
       return answering(
@@ -382,13 +376,11 @@ export function move(argv: readonly string[], given: Given): Answer {
     glass: glass.glass,
     unmoved: [],
     read: stood,
+    carries: uncommitted,
     saying: () => carrying(sided.sides, reached, false),
   }
   const landed = landingAsked({ ...given, root }, asked)
-  if (landed.code === 0 && !read.dryRun) {
-    carryReadings(root, carries)
-    carryUncommitted(root, sided.sides)
-  }
+  if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
   return answering([...carrying(sided.sides, reached, true), ...landed.report], [], 0)
 }
