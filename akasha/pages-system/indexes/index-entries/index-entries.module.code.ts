@@ -7,7 +7,7 @@ import { besideAt } from "../../page/page-file-name/page-file-name.module.code.t
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
-import { readingIn } from "../index-reading/index-reading.module.code.ts"
+import { indexAt, readingIn } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-surface/index-surface.module.code.ts"
 
 const ENDING = ".jsonl"
@@ -128,6 +128,12 @@ export function pathsOf(
 
 const PROPERTY = "page-property"
 
+const SLUG = "slug"
+
+const SCHEMA_UNDER = join(SCHEMA, PROPERTY, SLUG)
+
+const NAMING_NONE = "an index that is missing is not an index naming no such property"
+
 export function slugAt(value: Value, key: string): string | null {
   const named = textAt(value, key)
   return named === null ? null : slugOf(named)
@@ -143,7 +149,7 @@ export function importedBy(path: string, specifier: string): string | null {
 
 export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   const reading = readingIn(given)
-  const dir = join(SCHEMA, PROPERTY, "slug")
+  const dir = SCHEMA_UNDER
   const found = new Map<string, Schema>()
   for (const one of reading.listing(dir)) {
     const line = reading.lines(join(dir, one.name))[0]
@@ -183,4 +189,15 @@ export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string,
     if (held.unique !== null) found.set(slug, held.unique)
   }
   return found
+}
+
+export function filePropertiesAnswered(given: string | Reading): ReadonlySet<string> {
+  const reading = readingIn(given)
+  if (!reading.holds(SCHEMA_UNDER)) {
+    throw new Error(
+      `\`${indexAt(SCHEMA_UNDER)}\` is not there, so which properties are held in a file could ` +
+        `not be answered — ${NAMING_NONE}`
+    )
+  }
+  return filePropertiesAt(reading)
 }

@@ -1,10 +1,6 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import ts from "typescript"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { indexSchema } from "../../../pages-system/indexes/index/index-schema/index-schema.index.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { indexAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { filePropertiesAnswered } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
@@ -12,12 +8,6 @@ import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
 const SLUG = "slug"
-
-const SCHEMA = indexSchema.indexName
-
-const PROPERTY = "page-property"
-
-const SCHEMA_AT = indexAt(SCHEMA, PROPERTY, SLUG)
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
@@ -105,16 +95,7 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
   return found
 }
 
-export function heldInAFileAt(root: string): ReadonlySet<string> {
-  if (!existsSync(join(root, SCHEMA_AT))) {
-    throw new Error(
-      `\`${SCHEMA_AT}\` is not there, so which properties are held in a file could not be answered — an index that is missing is not an index naming no such property`
-    )
-  }
-  return filePropertiesAt(root)
-}
-
 export function pageNamedAsStated(leaving: Leaving): readonly Judged[] {
-  const heldInAFile = heldInAFileAt(leaving.root)
+  const heldInAFile = filePropertiesAnswered(leaving.root)
   return overEachFile(leaving, (given) => reasonsIn(given, heldInAFile))
 }
