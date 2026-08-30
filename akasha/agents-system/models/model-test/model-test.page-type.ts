@@ -35,13 +35,11 @@ export const modelTest = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test carries no address for a model, because the gateway it is reached through stands only as long as the supervisor that raised it.",
+      statement: "A test carries no address for a model.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A case carries its own text, so no case is answered differently as the corpus changes.",
+      statement: "A case carries its own text.",
     },
     {
       invariantKind: "departure",

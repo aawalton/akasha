@@ -60,7 +60,7 @@ export const akashaSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "There is no fresh start, so what is missing was lost rather than not yet made.",
+      statement: "What is missing was lost rather than not yet made.",
     },
   ],
   directives: [

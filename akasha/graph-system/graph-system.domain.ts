@@ -18,7 +18,7 @@ export const graphSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "The graph is never assembled, so there is no moment at which it stands whole.",
+      statement: "The graph is never assembled.",
     },
     {
       invariantKind: "departure",
@@ -36,8 +36,7 @@ export const graphSystem = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An answer is keyed by what it rests on and marked by the code that made it, so either moving loses it.",
+      statement: "An answer is keyed by what it rests on and marked by the code that made it.",
     },
     {
       invariantKind: "departure",
