@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
 
@@ -22,18 +24,7 @@ const TEST_PROPERTY_AT = "akasha/properties/test.file-property.ts"
 
 const TYPE_AT = "akasha/file-property/file-property.page-type.ts"
 
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
-
 let minted = 0
-
-function indexed(root: string, at: string, line: string): void {
-  standing(root, join(".git/data/index", at), `${line}\n`)
-}
 
 function pageType(root: string, slug: string): string {
   minted = minted + 1
@@ -88,15 +79,11 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
   return filePropertyFile(root, path, knowingIn(root))
 }
 
-function pathsOf(root: string, path: string): readonly string[] {
-  return warrantsAt(root, path).map((one) => one.path)
-}
-
 test("a code file warrants the page it stands beside and the page defining its property", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   const held = propertyWorld(root)
   standing(root, CODE_AT, "code\n")
-  expect(pathsOf(root, CODE_AT)).toEqual([PAGE_AT, held])
+  expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([PAGE_AT, held])
   expect(held).toBe(CODE_PROPERTY_AT)
 })
 
@@ -105,14 +92,14 @@ test("the property is warranted by its own page, never by the page type it answe
   propertyWorld(root)
   standing(root, CODE_AT, "code\n")
   expect(standingOf(root, TYPE_AT)).not.toBeNull()
-  expect(pathsOf(root, CODE_AT)).not.toContain(TYPE_AT)
+  expect(pathsOf(warrantsAt(root, CODE_AT))).not.toContain(TYPE_AT)
 })
 
 test("a test file standing beside the same page warrants that page and its own property", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   propertyWorld(root)
   standing(root, TEST_AT, "test\n")
-  expect(pathsOf(root, TEST_AT)).toEqual([PAGE_AT, TEST_PROPERTY_AT])
+  expect(pathsOf(warrantsAt(root, TEST_AT))).toEqual([PAGE_AT, TEST_PROPERTY_AT])
 })
 
 test("the page and the property are owed for their own reasons, each by the body standing there", () => {
@@ -133,7 +120,7 @@ test("the page and the property are owed for their own reasons, each by the body
 test("a page is no property's file, and warrants nothing here", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   propertyWorld(root)
-  expect(pathsOf(root, PAGE_AT)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PAGE_AT))).toEqual([])
 })
 
 test("a file whose page is not there warrants nothing, there being no page it is one property of", () => {
@@ -141,7 +128,7 @@ test("a file whose page is not there warrants nothing, there being no page it is
   propertyWorld(root)
   standing(root, CODE_AT, "code\n")
   rmSync(join(root, PAGE_AT))
-  expect(pathsOf(root, CODE_AT)).toEqual([])
+  expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([])
 })
 
 test("a file naming a property no page defines still warrants the page it stands beside", () => {
@@ -149,7 +136,7 @@ test("a file naming a property no page defines still warrants the page it stands
   propertyWorld(root)
   const loose = "akasha/thing/thing.module.notes.ts"
   standing(root, loose, "notes\n")
-  expect(pathsOf(root, loose)).toEqual([PAGE_AT])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([PAGE_AT])
 })
 
 test("a file whose tail names a page type is read as a page, never as a property's file", () => {
@@ -157,7 +144,7 @@ test("a file whose tail names a page type is read as a page, never as a property
   propertyWorld(root)
   const named = "akasha/thing/thing.module.page-type.ts"
   standing(root, named, "page\n")
-  expect(pathsOf(root, named)).toEqual([])
+  expect(pathsOf(warrantsAt(root, named))).toEqual([])
 })
 
 test("a property whose page is not there warrants the page alone", () => {
@@ -165,7 +152,7 @@ test("a property whose page is not there warrants the page alone", () => {
   propertyWorld(root)
   standing(root, CODE_AT, "code\n")
   rmSync(join(root, CODE_PROPERTY_AT))
-  expect(pathsOf(root, CODE_AT)).toEqual([PAGE_AT])
+  expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([PAGE_AT])
 })
 
 test("a property the schema does not name warrants the page alone, though a page of that slug stands", () => {
@@ -174,7 +161,7 @@ test("a property the schema does not name warrants the page alone, though a page
   filed(root, "notes", "file-property")
   const loose = "akasha/thing/thing.module.notes.ts"
   standing(root, loose, "notes\n")
-  expect(pathsOf(root, loose)).toEqual([PAGE_AT])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([PAGE_AT])
 })
 
 test("a property the index files under no page warrants the page alone", () => {
@@ -183,14 +170,14 @@ test("a property the index files under no page warrants the page alone", () => {
   schemaed(root, "notes", "text-property")
   const loose = "akasha/thing/thing.module.notes.ts"
   standing(root, loose, "notes\n")
-  expect(pathsOf(root, loose)).toEqual([PAGE_AT])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([PAGE_AT])
 })
 
 test("a cold index knows no page type, so no file stands beside a page", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   standing(root, PAGE_AT, "page\n")
   standing(root, CODE_AT, "code\n")
-  expect(pathsOf(root, CODE_AT)).toEqual([])
+  expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([])
 })
 
 test("a file that is no page's own warrants nothing", () => {
@@ -198,7 +185,7 @@ test("a file that is no page's own warrants nothing", () => {
   propertyWorld(root)
   const loose = "akasha/thing/loose.ts"
   standing(root, loose, "loose\n")
-  expect(pathsOf(root, loose)).toEqual([])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([])
 })
 
 test("a file standing beside a property's file stands beside no page", () => {
@@ -207,12 +194,12 @@ test("a file standing beside a property's file stands beside no page", () => {
   standing(root, CODE_AT, "code\n")
   const under = "akasha/thing/thing.module.code.notes.ts"
   standing(root, under, "notes\n")
-  expect(pathsOf(root, under)).toEqual([])
+  expect(pathsOf(warrantsAt(root, under))).toEqual([])
 })
 
 test("a path not written as it stands under the root warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   propertyWorld(root)
   standing(root, CODE_AT, "code\n")
-  expect(pathsOf(root, `./${CODE_AT}`)).toEqual([])
+  expect(pathsOf(warrantsAt(root, `./${CODE_AT}`))).toEqual([])
 })

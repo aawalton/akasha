@@ -1,9 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, mkdirSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
+import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileImport, IMPORTED, importedIn } from "./file-import.context-warrant.code.ts"
@@ -19,13 +21,6 @@ const INDEX_AT = ".git/data/index"
 const PREFIX = "akasha-file-import-"
 
 let minted = 0
-
-function wrote(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
 
 function filed(root: string, at: string, line: string): void {
   const to = join(root, INDEX_AT, at)
@@ -70,10 +65,6 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
   return fileImport(root, path)
 }
 
-function pathsOf(root: string, path: string): readonly string[] {
-  return warrantsAt(root, path).map((one) => one.path)
-}
-
 test("a file warrants the page of every file it imports", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b", "c", "d"])
@@ -89,7 +80,7 @@ test("a file warrants the page of every file it imports", () => {
       "",
     ].join("\n")
   )
-  expect(pathsOf(root, at)).toEqual([pageAt("b"), pageAt("c"), pageAt("d")])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b"), pageAt("c"), pageAt("d")])
 })
 
 test("a file imported in turn is not warranted, this warrant being no closure", () => {
@@ -98,9 +89,9 @@ test("a file imported in turn is not warranted, this warrant being no closure", 
   const two = codeAt(root, "b", 'import { c } from "../c/c.module.code.ts"\n')
   codeAt(root, "c", "")
   const one = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
-  expect(pathsOf(root, one)).toEqual([pageAt("b")])
-  expect(pathsOf(root, one)).not.toContain(pageAt("c"))
-  expect(pathsOf(root, two)).toEqual([pageAt("c")])
+  expect(pathsOf(warrantsAt(root, one))).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, one))).not.toContain(pageAt("c"))
+  expect(pathsOf(warrantsAt(root, two))).toEqual([pageAt("c")])
 })
 
 test("an imported code file warrants the page whose property it is, never itself", () => {
@@ -108,8 +99,8 @@ test("an imported code file warrants the page whose property it is, never itself
   world(root, ["a", "b"])
   const beside = codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
-  expect(pathsOf(root, at)).toEqual([pageAt("b")])
-  expect(pathsOf(root, at)).not.toContain(beside)
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, at))).not.toContain(beside)
 })
 
 test("two files of one page are one warrant, the page being read once", () => {
@@ -126,7 +117,7 @@ test("two files of one page are one warrant, the page being read once", () => {
       "",
     ].join("\n")
   )
-  expect(pathsOf(root, at)).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
 
 test("a package import warrants nothing, naming no file under the root", () => {
@@ -143,21 +134,21 @@ test("a package import warrants nothing, naming no file under the root", () => {
       "",
     ].join("\n")
   )
-  expect(pathsOf(root, at)).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
 
 test("a file importing packages alone warrants nothing", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a"])
   const at = codeAt(root, "a", 'import { readFileSync } from "node:fs"\n')
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a file importing nothing warrants nothing", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a"])
   const at = codeAt(root, "a", "export const one = 1\n")
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a file importing itself warrants nothing, the file changed being no warrant", () => {
@@ -165,7 +156,7 @@ test("a file importing itself warrants nothing, the file changed being no warran
   world(root, ["a"])
   const page = pageAt("s")
   standing(root, page, page, 'import { held } from "./s.module.ts"\n')
-  expect(pathsOf(root, page)).toEqual([])
+  expect(pathsOf(warrantsAt(root, page))).toEqual([])
 })
 
 test("a page importing its own file warrants nothing, the page being what is changed", () => {
@@ -173,7 +164,7 @@ test("a page importing its own file warrants nothing, the page being what is cha
   const page = pageAt("s")
   standing(root, page, page, 'import { held } from "./s.module.code.ts"\n')
   standing(root, "akasha/s/s.module.code.ts", page, "export const held = 1\n")
-  expect(pathsOf(root, page)).toEqual([])
+  expect(pathsOf(warrantsAt(root, page))).toEqual([])
 })
 
 test("an import index that is not there warrants nothing", () => {
@@ -181,9 +172,9 @@ test("an import index that is not there warrants nothing", () => {
   world(root, ["a", "b"])
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
-  expect(pathsOf(root, at)).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
   rmSync(join(root, INDEX_AT, "import"), { recursive: true, force: true })
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a cold index warrants nothing", () => {
@@ -192,7 +183,7 @@ test("a cold index warrants nothing", () => {
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   rmSync(join(root, ".git"), { recursive: true, force: true })
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a part file left in the index is no import, only a filed one being read", () => {
@@ -203,14 +194,14 @@ test("a part file left in the index is no import, only a filed one being read", 
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   filed(root, "import/path/akasha/c/c.module.code.ts.jsonl.4242.part", JSON.stringify({ path: at }))
   expect(importedIn(root, at)).toEqual(["akasha/b/b.module.code.ts"])
-  expect(pathsOf(root, at)).toEqual([pageAt("b")])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
 
 test("an imported path the index names no page for warrants nothing", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a"])
   const at = codeAt(root, "a", 'import { loose } from "../z/loose.ts"\n')
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("a page that is not standing warrants nothing of itself", () => {
@@ -219,7 +210,7 @@ test("a page that is not standing warrants nothing of itself", () => {
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   rmSync(join(root, pageAt("b")))
-  expect(pathsOf(root, at)).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
 test("an import warrants the body standing at the page, and says why it is owed", () => {

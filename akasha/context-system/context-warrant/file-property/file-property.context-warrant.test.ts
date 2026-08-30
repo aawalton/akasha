@@ -1,8 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
@@ -15,22 +17,11 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const PATH = "akasha/thing/thing.module.ts"
 
-function standing(root: string, path: string, body: string): string {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  return blobIdOf(new TextEncoder().encode(body))
-}
-
 let minted = 0
 
 function mintedId(): string {
   minted = minted + 1
   return `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
-}
-
-function indexed(root: string, at: string, line: string): void {
-  standing(root, join(".git/data/index", at), `${line}\n`)
 }
 
 function pageType(root: string, slug: string): void {
@@ -79,15 +70,11 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
   return fileProperty(root, path, knowingIn(root))
 }
 
-function pathsOf(root: string, path: string): readonly string[] {
-  return warrantsAt(root, path).map((one) => one.path)
-}
-
 test("a page warrants the page defining every property it states", () => {
   const root = scratch.rootFor("akasha-file-property-")
   const every = statingWorld(root)
   stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
-  expect(pathsOf(root, PATH)).toEqual(every)
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
 })
 
 test("a property warrants the body standing at the page defining it", () => {
@@ -105,7 +92,7 @@ test("a page stating no property warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   standing(root, PATH, "export const thing = {}\n")
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a property the type allows and the page does not state warrants nothing", () => {
@@ -123,8 +110,8 @@ test("a property the type allows and the page does not state warrants nothing", 
     ].join("\n")
   )
   stating(root, PATH, ["definition"])
-  expect(pathsOf(root, PATH)).toEqual([definition])
-  expect(pathsOf(root, PATH)).not.toContain(code)
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([definition])
+  expect(pathsOf(warrantsAt(root, PATH))).not.toContain(code)
 })
 
 test("a property whose defining page is not there warrants nothing of itself", () => {
@@ -132,14 +119,14 @@ test("a property whose defining page is not there warrants nothing of itself", (
   const every = statingWorld(root)
   stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
   rmSync(join(root, every[0] ?? ""))
-  expect(pathsOf(root, PATH)).toEqual(every.slice(1))
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual(every.slice(1))
 })
 
 test("a property the index defines nowhere warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   const every = statingWorld(root)
   stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition", "nowhere"])
-  expect(pathsOf(root, PATH)).toEqual(every)
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
 })
 
 test("a property the schema names and the identity index does not warrants nothing", () => {
@@ -151,13 +138,13 @@ test("a property the schema names and the identity index does not warrants nothi
     JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
   )
   stating(root, PATH, ["loose"])
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a cold index warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   stating(root, PATH, ["id", "definition"])
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a file standing beside a page is no page, and warrants nothing", () => {
@@ -165,7 +152,7 @@ test("a file standing beside a page is no page, and warrants nothing", () => {
   statingWorld(root)
   const beside = "akasha/thing/thing.module.code.ts"
   standing(root, beside, `export const thing = { id: "one", definition: "two" }\n`)
-  expect(pathsOf(root, beside)).toEqual([])
+  expect(pathsOf(warrantsAt(root, beside))).toEqual([])
 })
 
 test("a file naming no page type in its name warrants nothing", () => {
@@ -173,7 +160,7 @@ test("a file naming no page type in its name warrants nothing", () => {
   statingWorld(root)
   const notes = "akasha/thing/thing.notes.ts"
   standing(root, notes, `export const thing = { id: "one", definition: "two" }\n`)
-  expect(pathsOf(root, notes)).toEqual([])
+  expect(pathsOf(warrantsAt(root, notes))).toEqual([])
 })
 
 test("a file whose name says no stem and no tail warrants nothing", () => {
@@ -181,28 +168,28 @@ test("a file whose name says no stem and no tail warrants nothing", () => {
   statingWorld(root)
   const loose = "akasha/thing/loose.ts"
   standing(root, loose, `export const loose = { id: "one", definition: "two" }\n`)
-  expect(pathsOf(root, loose)).toEqual([])
+  expect(pathsOf(warrantsAt(root, loose))).toEqual([])
 })
 
 test("a page whose export is no value it can read warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   standing(root, PATH, "export const thing = null\n")
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a page answering to no export named for its slug warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   standing(root, PATH, `export const other = { id: "one", definition: "two" }\n`)
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a page that will not load warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   statingWorld(root)
   standing(root, PATH, "export const thing = {\n")
-  expect(pathsOf(root, PATH)).toEqual([])
+  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
 test("a page defining a property does not warrant itself for it", () => {
@@ -217,7 +204,7 @@ test("a page defining a property does not warrant itself for it", () => {
     "schema/page-property/slug/slug.jsonl",
     JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null })
   )
-  expect(pathsOf(root, path)).toEqual([])
+  expect(pathsOf(warrantsAt(root, path))).toEqual([])
 })
 
 test("a property not read is refused, and the refusal says the property is owed", () => {
