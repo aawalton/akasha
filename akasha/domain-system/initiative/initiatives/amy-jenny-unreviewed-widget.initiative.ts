@@ -10,10 +10,6 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "The scale a reading is read against is in akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Monarch's unreviewed transactions are a readout carrying the reading last taken.",
     },
     {
@@ -81,7 +77,7 @@ export const amyJennyUnreviewedWidget = {
   notes: [
     "Jenny's tile shows Alan's Monarch reading relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
     "Alan's path is a prefix of Jenny's, so his tile costs nothing beyond what hers already needs and is reached first.",
-    "The readout page type and what the tile counts are both in akasha already, so the stack starts at what the reading is read against.",
+    "The readout page type, the scale and what the tile counts are all in akasha, so the stack starts at the readout itself.",
     "The reading is taken on a workstation because a pod cannot write the page store, and the endpoint that would let one is work of its own rather than this initiative's.",
     "What a readout shows when nothing is left is carried by the readout, so it arrived with the page type rather than as an intent of its own.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
