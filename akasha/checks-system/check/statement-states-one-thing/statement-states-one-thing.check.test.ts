@@ -97,6 +97,16 @@ test("a full stop inside a spelt name is no second sentence", () => {
   expect(reasonsIn(given(paged(quoted("The name `libc.so.6` reaches nothing."))))).toEqual([])
 })
 
+test("a mark inside a spelt name is no mark of the statement's own", () => {
+  const body = paged(quoted("`tmpdir` is refused where it is taken from `node:os`."))
+  expect(reasonsIn(given(body))).toEqual([])
+})
+
+test("a mark outside a spelt name is found where a spelt name stands beside it", () => {
+  const body = paged(quoted("A method declaring `this: void` is refused, and nothing else is."))
+  expect(reasonsIn(given(body))[0]).toContain("joins a second fact at `,`")
+})
+
 test("the earliest mark in a statement is the one named", () => {
   const held = { line: 1, text: "A page is named, so the slug says it because it must." }
   expect(splitAt(held)).toEqual({

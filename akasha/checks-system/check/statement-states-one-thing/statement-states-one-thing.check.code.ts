@@ -16,6 +16,8 @@ const TRAILING = /[\s,;:—]+$/
 
 const LEADING = /^[\s,;:—.]+/
 
+const SPELT = /`[^`]*`/g
+
 export type Stated = {
   readonly line: number
   readonly text: string
@@ -72,10 +74,15 @@ export function statementsIn(path: string, text: string): readonly Stated[] {
   return found
 }
 
+function scanned(text: string): string {
+  return text.replace(SPELT, (held) => `\`${"x".repeat(held.length - 2)}\``)
+}
+
 export function splitAt(one: Stated): Split | null {
-  const why = WHY.exec(one.text)
-  const join = JOIN.exec(one.text)
-  const two = TWO.exec(one.text)
+  const said = scanned(one.text)
+  const why = WHY.exec(said)
+  const join = JOIN.exec(said)
+  const two = TWO.exec(said)
   const every: readonly (readonly [number, Shape, string])[] = [
     why === null ? null : ([why.index, "why", why[0]] as const),
     join === null ? null : ([join.index, "join", join[0]] as const),

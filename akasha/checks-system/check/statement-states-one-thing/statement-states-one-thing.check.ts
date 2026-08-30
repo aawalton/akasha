@@ -26,6 +26,10 @@ export const statementStatesOneThing = {
         "A statement is refused for the words joining two facts rather than for holding two.",
     },
     {
+      invariantKind: "departure",
+      statement: "A mark standing inside a spelt name is no mark of the statement's own.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every phase runs with no statement in the corpus refused.",
     },
