@@ -17,7 +17,7 @@ export const generator = {
     {
       invariantKind: "departure",
       statement:
-        "A generated property is filled as its page is created, never on one already standing.",
+        "A generated property is filled as its page is created rather than on one already standing.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +25,11 @@ export const generator = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body carried from another path is left as it stands, a move being one page arriving somewhere else rather than a second page.",
+      statement: "A body carried from another path is left as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move is one page arriving somewhere else rather than a second page.",
     },
   ],
 } as const satisfies RelationProperty
