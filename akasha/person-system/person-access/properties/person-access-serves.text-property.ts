@@ -17,7 +17,7 @@ export const personAccessServes = {
     },
     {
       invariantKind: "stopgap",
-      statement: "This holds text because no page type served by a target stands as a page.",
+      statement: "No page type served by a target stands as a page.",
     },
     {
       invariantKind: "gap",
