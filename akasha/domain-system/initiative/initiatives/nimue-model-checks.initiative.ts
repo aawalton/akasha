@@ -14,11 +14,6 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
-      statement:
-        "The change a shadow is cast over and the change a check is shown are one shape with one home.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The shadow answers what a change makes unique and stops making unique.",
     },
     {
