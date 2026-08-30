@@ -7,7 +7,6 @@ import { fail } from "./command.ts"
 export interface Args {
   readonly set: Partial<Record<Declaration, string>>
   readonly initiative: string | null
-  readonly errand: string | null
   readonly flex: string | null
   readonly tokens: readonly string[]
   readonly clear: readonly Declaration[]
@@ -31,7 +30,6 @@ export function parseArgs(argv: readonly string[]): Args {
   const tokens: string[] = []
   const clear: Declaration[] = []
   let initiative: string | null = null
-  let errand: string | null = null
   let flex: string | null = null
   let principal: Principal | null = null
   let onCall = false
@@ -61,11 +59,6 @@ export function parseArgs(argv: readonly string[]): Args {
       }
     }
     else if (arg === "--initiative") initiative = value()
-    else if (arg === "--errand") {
-      const said = value()
-      if (said === "") clear.push("errand")
-      else errand = said
-    }
     else if (arg === "--flex") flex = value()
     else if (arg === "--on-call") onCall = true
     else if (arg === "--take-live-name") takeLiveName = true
@@ -99,5 +92,5 @@ export function parseArgs(argv: readonly string[]): Args {
       set[stated] = value()
     }
   }
-  return { set, initiative, errand, flex, tokens, clear, show, resolve, name, fromSeat, fromHistory, asDefault, agent, parentName, registration, mode, principal, onCall, takeLiveName }
+  return { set, initiative, flex, tokens, clear, show, resolve, name, fromSeat, fromHistory, asDefault, agent, parentName, registration, mode, principal, onCall, takeLiveName }
 }

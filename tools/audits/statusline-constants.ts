@@ -15,7 +15,7 @@ const SCRIPT_SLOTS = /^SEAT_RENDER=\(([^)]*)\)/m
 const STORE_ATTRIBUTES = /export const ATTRIBUTES = \[([^\]]*)\]/
 const STORE_ASSIGNMENTS = /export const ASSIGNMENTS = \[([^\]]*)\]/
 
-const VALUED: ReadonlySet<string> = new Set(["initiative", "errand", "on-call"])
+const VALUED: ReadonlySet<string> = new Set(["initiative", "on-call"])
 
 interface Pair {
   readonly spelled: string

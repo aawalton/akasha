@@ -5,7 +5,6 @@ import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentNamed } from "./seat-attribute.ts"
 import type { Args } from "./seat-args.ts"
-import { errandLine } from "./seat-errand.ts"
 import { initiativeLine } from "./seat-initiative.ts"
 import { personaDefaultsOf } from "./compose-seat-name.ts"
 import { composedNameOf } from "./seat-rename.ts"
@@ -32,7 +31,6 @@ export function showLines(agent: string, args: Args): readonly string[] {
   const setting = [
     Object.keys(args.set).length > 0 ? "an attribute" : null,
     args.initiative !== null ? "--initiative" : null,
-    args.errand !== null ? "--errand" : null,
     args.flex !== null ? "--flex" : null,
     args.clear.length > 0 ? "--clear" : null,
     args.mode !== null ? "--mode" : null,
@@ -78,7 +76,6 @@ function linesOf(stated: Stated): readonly string[] {
     principalLine(stated.principal),
     onCallLine(stated.onCall),
     initiativeLine(stated.initiative),
-    errandLine(stated.errand),
     registrationAccountLine(stated.registration),
   ]
 }

@@ -5,7 +5,6 @@ import type { Roots } from "../../page/page.ts"
 import { type StatedFromHistory, statedFromHistory } from "./seat-page-history.ts"
 import { onCallOf } from "./seat-on-call.ts"
 import { type FlexRecord, flexOf } from "./seat-flex.ts"
-import { type ErrandRecord, errandOf } from "./seat-errand.ts"
 import { type InitiativeRecord, initiativeOf } from "./seat-initiative.ts"
 import { type PrincipalRecord, principalOf } from "./seat-principal.ts"
 import { type RegistrationRecord, registrationAccountOf } from "./seat-registration-account.ts"
@@ -30,7 +29,6 @@ export interface Stated {
   readonly principal: PrincipalRecord | null
   readonly onCall: boolean
   readonly initiative: InitiativeRecord | null
-  readonly errand: ErrandRecord | null
   readonly registration: RegistrationRecord | null
   readonly session: SessionRecord | null
   readonly rotated: SessionRecord | null
@@ -47,7 +45,6 @@ export function statedOf(agent: string): Stated {
     principal: principalOf(agent),
     onCall: onCallOf(agent),
     initiative: initiativeOf(agent),
-    errand: errandOf(agent),
     registration: registrationAccountOf(agent),
     session: sessionOf(agent),
     rotated: rotatedOf(agent),
@@ -96,7 +93,6 @@ export interface Said {
   readonly mode: declarations.Mode | null
   readonly onCall: boolean
   readonly principal: Principal | null
-  readonly errand: string | null
   readonly registration: string | null
 }
 
@@ -114,7 +110,6 @@ export function statedNow(agent: string, attributes: declarations.Attributes, sa
     onCall: said.onCall || (!gone.has("on-call") && stood.onCall),
     initiative:
       said.initiative === null ? kept("initiative", stood.initiative) : { value: said.initiative },
-    errand: said.errand === null ? kept("errand", stood.errand) : { value: said.errand },
     registration:
       said.registration === null ? stood.registration : { value: said.registration },
     session: stood.session,

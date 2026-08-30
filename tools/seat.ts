@@ -157,7 +157,7 @@ export async function run(argv: readonly string[]): Promise<void> {
   }
 
   const named = DECLARATIONS.filter((key) => set[key] !== undefined)
-  const quiet = args.clear.length === 0 && mode === null && initiative === null && args.flex === null && args.principal === null && args.errand === null && args.registration === null && !onCall
+  const quiet = args.clear.length === 0 && mode === null && initiative === null && args.flex === null && args.principal === null && args.registration === null && !onCall
   if (named.length === 0 && quiet) {
     if (args.asDefault) {
       process.stdout.write(
@@ -232,7 +232,6 @@ export async function run(argv: readonly string[]): Promise<void> {
   if (seatName !== null) {
     const said = {
       clear: args.clear,
-      errand: args.errand,
       flex: args.flex,
       initiative,
       mode,

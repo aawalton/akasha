@@ -261,8 +261,6 @@ const PERSON_KEY = "person-slug"
 
 const START_MODE_KEY = "start-mode"
 
-const ERRAND_KEY = "errand"
-
 const REGISTRATION_KEY = "registration-account"
 
 export interface SeatFromHistory {
@@ -273,7 +271,6 @@ export interface SeatFromHistory {
   readonly parentName: string | null
   readonly onCall: boolean
   readonly initiative: string | null
-  readonly errand: string | null
   readonly account: string | null
   readonly mode: string | null
 }
@@ -294,7 +291,6 @@ export function seatFromHistory(agentId: string, roots: Roots): SeatFromHistory 
     parentName: above,
     onCall: stated.onCall,
     initiative: stated.initiative,
-    errand: textField(frontmatter, ERRAND_KEY),
     account: textField(frontmatter, REGISTRATION_KEY),
     mode: textField(frontmatter, START_MODE_KEY),
   }

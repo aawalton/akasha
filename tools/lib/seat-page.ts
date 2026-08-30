@@ -12,7 +12,6 @@ import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { initiativesIn } from "./seat-initiative.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
-import { clipErrand } from "./seat-errand.ts"
 import type { Stated } from "./seat-stated.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
 
@@ -75,9 +74,6 @@ export function seatPageBody(
   if (stated.onCall) lines.push("on-call: true")
   if (stated.initiative !== null) {
     lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))}`)
-  }
-  if (stated.errand !== null) {
-    lines.push(`errand: ${JSON.stringify(clipErrand(stated.errand.value))}`)
   }
   if (stated.registration !== null) {
     lines.push(`registration-account: ${stated.registration.value}`)

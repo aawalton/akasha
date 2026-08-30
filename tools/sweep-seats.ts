@@ -31,9 +31,7 @@ would send somebody to take away the page of a seat an agent may still be sittin
 An assignment is held unless what it names says otherwise. An \`on-call\` never finishes, so it is
 held on presence. A \`task\` has nothing observable that ends it and is held on presence. An
 \`initiative\` is finished where its document is gone and held otherwise: the document is deleted
-when the intent it quotes is met, so its absence is the whole signal. An \`errand\` is the prompt its
-seat was started with, stated on the seat; nothing observable ends one, so no errand is counted here
-as an assignment a seat still holds.
+when the intent it quotes is met, so its absence is the whole signal.
 
 Usage:
   bun tools/sweep-seats.ts [--json]

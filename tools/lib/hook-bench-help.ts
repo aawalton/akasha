@@ -40,7 +40,7 @@ Usage:
 
 Flags:
   --hooks <path|->        The \`hooks\` object to install, as a settings file spells it. Required.
-  --prompt <text>         The errand the session is given.
+  --prompt <text>         The prompt the session is given.
   --prompt-file <path|->  The same, read from a file — the non-shell route for a long one.
   --agents <path|->       A \`--agents\` object, passed to the client verbatim. Its tool list is
                           yours to state; a subagent gets what you name and nothing else.

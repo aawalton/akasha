@@ -100,7 +100,6 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
     role,
     flex: input.flex ?? null,
     initiative: input.initiative ?? null,
-    errand: input.prompt,
     parentName: input.parent === null ? null : composedNameOf(input.parent),
     account: input.account,
   })

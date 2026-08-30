@@ -52,7 +52,6 @@ Usage:
   ops seat set --from-history
   ops seat set --mode headless
   ops seat set --initiative <slug>
-  ops seat set --errand "<what this seat was asked for>"
   ops seat set --agent <uuid> --flex flex-2
   ops seat set --principal alan
   ops seat set --on-call
@@ -109,14 +108,6 @@ Flags:
                     name is the collision name distinctness exists to prevent. Taking a live
                     seat's name is a real operation and stays available; it is asked for
                     rather than defaulted into.
-  --errand <text>   What this seat was asked for, in its own words. A seat is started with a
-                    prompt and that prompt is its errand until its principal states another,
-                    so an errand survives a compaction the conversation would lose. Clipped
-                    where it runs long, the page stating what a seat holds rather than
-                    keeping a transcript. An EMPTY value clears it, exactly as
-                    \`--clear errand\` does: a caller passing through whatever it was
-                    handed has an empty string where it has nothing, and refusing that
-                    leaves the old errand standing under a new conversation.
   --clear <key>     Unset one key. Repeatable. One of: ${DECLARATIONS.join(", ")}.
   --mode <mode>     Who can hear this seat. One of: ${MODES.join(", ")}.
   --show            Print what this seat states, and exit.

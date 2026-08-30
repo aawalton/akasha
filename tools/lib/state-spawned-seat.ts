@@ -12,7 +12,6 @@ export interface SeatStatement {
   readonly role?: string
   readonly flex?: string | null
   readonly initiative?: string | null
-  readonly errand?: string | null
   readonly onCall?: boolean
   readonly parentName?: string | null
   readonly account?: string | null
@@ -61,7 +60,6 @@ export async function stateSpawnedSeat(statement: SeatStatement): Promise<readon
     principal: statement.principal,
     flex: said(statement.flex),
     initiative: said(statement.initiative),
-    errand: said(statement.errand),
     ...(statement.onCall === true ? { onCall: true } : {}),
     parentName: said(statement.parentName),
     account: said(statement.account),

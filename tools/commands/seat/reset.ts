@@ -29,7 +29,6 @@ interface Kept {
   readonly principal: string | null
   readonly flex: string | null
   readonly initiative: string | null
-  readonly errand: string | null
   readonly account: string
   readonly parentName: string | null
   readonly mode: string
@@ -44,7 +43,6 @@ function keptStanding(agentId: string, stated: Stated): Kept {
     principal: stated.principal?.value ?? null,
     flex: stated.flex?.value ?? null,
     initiative: stated.initiative?.value ?? null,
-    errand: stated.errand?.value ?? null,
     account: stated.registration?.value ?? DEFAULT_ACCOUNT,
     parentName: principalSeatNameOf(agentId),
     mode: stated.mode,
@@ -61,7 +59,6 @@ function keptRecovered(was: SeatFromHistory): Kept {
     principal: was.principal,
     flex: flexInName(was.seatName),
     initiative: was.initiative,
-    errand: was.errand,
     account: was.account ?? DEFAULT_ACCOUNT,
     parentName: was.parentName,
     mode: mode !== null && isSeatMode(mode) ? mode : SEAT_MODE_HEADLESS,
@@ -148,7 +145,6 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
     ...(kept.role === null ? {} : { role: kept.role }),
     flex: kept.flex,
     initiative: kept.initiative,
-    errand: kept.errand,
     onCall: kept.onCall,
     parentName: kept.parentName,
     account: kept.account,
@@ -166,7 +162,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
     name,
     agentId: fresh,
     account: kept.account,
-    prompt: mode === SEAT_MODE_HEADLESS ? (kept.errand ?? "") : "",
+    prompt: "",
     mode,
   })
 
