@@ -2,11 +2,17 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { identityAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
-import { landing, NO_BYTES, pathFor } from "../../check-scratch/check-scratch.module.code.ts"
+import {
+  declaring,
+  landing,
+  NO_BYTES,
+  pathFor,
+} from "../../check-scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
-const INDEX = join(".git", "data", "index")
+const TEXT = "text-property"
 
 const ONE = "01a04f76-7430-7001-8000-000000000001"
 
@@ -18,15 +24,8 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function schemad(root: string, propertySlug: string, unique: string | null): undefined {
-  const dir = join(root, INDEX, "schema", "page-property", "slug")
-  mkdirSync(dir, { recursive: true })
-  const said = { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique }
-  writeFileSync(join(dir, `${propertySlug}.jsonl`), `${JSON.stringify(said)}\n`)
-}
-
 function typed(root: string, pageTypeSlug: string): undefined {
-  const dir = join(root, INDEX, "identity", "page-type", "slug")
+  const dir = join(root, identityAt("page-type", "slug"))
   mkdirSync(dir, { recursive: true })
   const said = { path: `akasha/${pageTypeSlug}.page-type.ts`, id: `id-${pageTypeSlug}` }
   writeFileSync(join(dir, `${pageTypeSlug}.jsonl`), `${JSON.stringify(said)}\n`)
@@ -34,8 +33,8 @@ function typed(root: string, pageTypeSlug: string): undefined {
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-identifier-")
-  schemad(root, "id", "always")
-  schemad(root, "slug", "page-type")
+  declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
   typed(root, "check")
   typed(root, "module")
   typed(root, "text-property")
@@ -49,7 +48,7 @@ function filed(
   said: string,
   path: string
 ): undefined {
-  const dir = join(root, INDEX, "identity", scope, propertySlug)
+  const dir = join(root, identityAt(scope, propertySlug))
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, `${said}.jsonl`), `${JSON.stringify({ path, id: ONE })}\n`)
 }
@@ -171,7 +170,7 @@ test("a property page the change carries makes its property an identifier at onc
 
 test("a value a property the change stops making an identifier is let through", () => {
   const root = rooted()
-  schemad(root, "name", "always")
+  declaring(root, "name", { pageTypeSlug: TEXT, unique: "always" })
   const said = identifierNamesOnePage(
     landing(
       root,

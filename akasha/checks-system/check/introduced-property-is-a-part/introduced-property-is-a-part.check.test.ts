@@ -2,7 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
+import { identityAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import {
   declaresIn,
   introducedPropertyIsAPart,
@@ -10,7 +11,7 @@ import {
   typeNamedIn,
 } from "./introduced-property-is-a-part.check.code.ts"
 
-const INDEX = join(".git", "data", "index")
+const TEXT = "text-property"
 
 const scratch = scratchWorld()
 
@@ -35,13 +36,6 @@ function stated(
   )
 }
 
-function schemad(root: string, propertySlug: string, unique: string): undefined {
-  const dir = join(root, INDEX, "schema", "page-property", "slug")
-  mkdirSync(dir, { recursive: true })
-  const said = { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique }
-  writeFileSync(join(dir, `${propertySlug}.jsonl`), `${JSON.stringify(said)}\n`)
-}
-
 function standing(
   root: string,
   slug: string,
@@ -49,7 +43,7 @@ function standing(
   declares: readonly string[],
   parts: readonly string[]
 ): undefined {
-  const dir = join(root, INDEX, "identity", "page-type", "slug")
+  const dir = join(root, identityAt("page-type", "slug"))
   mkdirSync(dir, { recursive: true })
   const path = pathFor(slug)
   writeFileSync(join(dir, `${slug}.jsonl`), `${JSON.stringify({ path, id: `id-${slug}` })}\n`)
@@ -59,8 +53,8 @@ function standing(
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-introduced-")
-  schemad(root, "id", "always")
-  schemad(root, "slug", "page-type")
+  declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
   return root
 }
 
