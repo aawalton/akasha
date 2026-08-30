@@ -36,13 +36,21 @@ export const codeRule = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Only a function is read. A rule spelled inline as an expression bound to nothing says no rule here at all.",
+      statement: "Only a function is read.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Only a renaming is defeated. The same rule written to a different shape — a loop for a call and statements reordered — reads as another rule.",
+        "A rule spelled inline as an expression bound to nothing says no rule here at all.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Only a renaming is defeated.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "The same rule written as a loop for a call or with statements reordered reads as another rule.",
     },
     {
       invariantKind: "absence",
