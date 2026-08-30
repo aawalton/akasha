@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { dataIn } from "../../../file-system/data-place/data-place.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { stampIn } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
@@ -146,7 +147,7 @@ test("an index that is not there is built, and it is the index a clean rebuild b
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(everyFileUnder(indexIn(root))).toEqual(wanted)
-  expect(said(answer)).toContain(".git/data/index was replaced whole")
+  expect(said(answer)).toContain(`${indexIn("")} was replaced whole`)
 })
 
 test("the rebuild's stamp is read back and named, and it names HEAD", () => {
@@ -251,7 +252,11 @@ test("`--dry-run` puts nothing in place and leaves nothing aside", () => {
   expect(said(answer)).toContain("nothing was put in place — --dry-run")
   expect(said(answer)).toContain("the index differed from what the pages say")
   expect(everyFileUnder(at)).toEqual(was)
-  expect(readdirSync(join(root, ".git", "data")).sort()).toEqual(["index"])
+  expect(
+    readdirSync(dataIn(root))
+      .sort()
+      .map((one) => dataIn(root, one))
+  ).toEqual([indexIn(root)])
 })
 
 test("a refresh leaves the landing lock behind it", () => {

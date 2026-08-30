@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
+import { dataIn } from "../../file-system/data-place/data-place.module.code.ts"
 import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
@@ -290,7 +291,7 @@ test("a change read against the commit that stands is landed", () => {
 
 test("what was written is put back when the landing throws after writing", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  mkdirSync(join(root, ".git/data"), { recursive: true })
+  mkdirSync(dataIn(root), { recursive: true })
   writeFileSync(indexIn(root), "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   expect(() =>
@@ -348,7 +349,7 @@ test("a path the work adds is written and committed with the rest", () => {
 
 test("what stood where the work reached is put back when the landing throws after writing", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  mkdirSync(join(root, ".git/data"), { recursive: true })
+  mkdirSync(dataIn(root), { recursive: true })
   writeFileSync(indexIn(root), "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   const work: Passed = (_leaving, changes) => [

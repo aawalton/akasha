@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { landingsIn, redirectsIn, refusalFor } from "./block-akasha-shell-writes.agent-hook.code.ts"
 
 const ROOT = rootOf(import.meta.path)
@@ -29,7 +30,7 @@ test("an appending redirect is refused as a truncating one is", () => {
 })
 
 test("a redirect onto the index is refused, and names the one repair", () => {
-  expect(said("echo hi > .git/data/index/held.jsonl")).toContain("akasha index refresh")
+  expect(said(`echo hi > ${indexIn("")}/held.jsonl`)).toContain("akasha index refresh")
 })
 
 test("a copy out of akasha stands, because it lands outside", () => {
