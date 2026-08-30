@@ -1,7 +1,7 @@
 import type { Roots } from "../page/page.ts"
 import { rootsHere } from "../repo/roots/roots.ts"
 import { answered } from "../tools/lib/page-query-answer.ts"
-import { answerIn, paramsIn } from "./ask-over-http.ts"
+import { answerIn, paramsIn } from "./ask-answer.ts"
 import type { Ask } from "./readout-resolver.ts"
 
 export function askHere(roots?: Roots): Ask {

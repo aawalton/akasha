@@ -1,10 +1,4 @@
-import type { Ask, Given, QueryAnswer, QueryRow } from "./readout-resolver.ts"
-
-export type Fetching = (url: string, init: RequestInit) => Promise<Response>
-
-const CEILING_MS = 5_000
-
-export const PAGE_QUERY_ORIGIN = "http://127.0.0.1:8787"
+import type { Given, QueryAnswer, QueryRow } from "./readout-resolver.ts"
 
 export function paramsIn(given: Given): URLSearchParams {
   const carried = new URLSearchParams()
@@ -13,12 +7,6 @@ export function paramsIn(given: Given): URLSearchParams {
     else carried.append(key, held as string)
   }
   return carried
-}
-
-export function askedUrl(origin: string, querySlug: string, given: Given): string {
-  const carried = paramsIn(given)
-  const tail = carried.toString()
-  return tail === "" ? `${origin}/q/${querySlug}` : `${origin}/q/${querySlug}?${tail}`
 }
 
 function numberOr(held: unknown, fallback: number): number {
@@ -60,39 +48,5 @@ export function answerIn(body: unknown): QueryAnswer {
     faults: stringsIn(held.faults),
     omitted: stringsIn(held.omitted),
     unfound: stringsIn(held.unfound),
-  }
-}
-
-export function askOverHttp(
-  origin: string,
-  fetching?: Fetching,
-  ceilingMs: number = CEILING_MS
-): Ask {
-  const reaching = fetching ?? fetch
-  return async (querySlug, given) => {
-    const url = askedUrl(origin, querySlug, given)
-    let answered: Response
-    try {
-      answered = await reaching(url, {
-        headers: { accept: "application/json" },
-        signal: AbortSignal.timeout(ceilingMs),
-      })
-    } catch (cause) {
-      throw new Error(
-        `\`${querySlug}\` went unasked: ${url} gave no answer within ${ceilingMs}ms (${String(cause)})`
-      )
-    }
-    if (!answered.ok) {
-      throw new Error(
-        `\`${querySlug}\` went unanswered: the page query service replied ${answered.status}`
-      )
-    }
-    let body: unknown
-    try {
-      body = await answered.json()
-    } catch (cause) {
-      throw new Error(`\`${querySlug}\` replied with what is not JSON (${String(cause)})`)
-    }
-    return answerIn(body)
   }
 }

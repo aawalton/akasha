@@ -1,4 +1,3 @@
-import { PAGE_QUERY_ORIGIN } from '../../../readouts/ask-over-http.ts';
 import { deferCommits } from '../../../tools/lib/page-commit-queue.ts';
 import { written } from '../../../tools/lib/page-query-landing.ts';
 import { rootsHere } from '../../../repo/roots/roots.ts';
@@ -24,6 +23,8 @@ const WRITER = 'editor-observations';
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>;
 
 const SAYS = '[editor-observations]';
+
+const STANDS_IN_FOR_AN_ORIGIN = 'http://127.0.0.1:8787';
 
 function writerFor(window: string): Fetcher {
 	return async (url, init) => {
@@ -56,7 +57,7 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
 	const settleMs = options.settleMs ?? SETTLE_MS;
 	const ask: Fetcher = options.fetch ?? writerFor(options.window);
 	const url =
-		`${options.origin ?? PAGE_QUERY_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
+		`${options.origin ?? STANDS_IN_FOR_AN_ORIGIN}/patch-state/${WINDOW_PAGE_TYPE}/${options.window}`;
 
 	let features: Record<string, Observation> = {};
 	let writtenKey = changeKey({});
