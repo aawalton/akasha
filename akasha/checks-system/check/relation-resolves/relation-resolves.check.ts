@@ -17,7 +17,7 @@ export const relationResolves = {
     {
       invariantKind: "departure",
       statement:
-        "Which of a page's keys are relations is read from the property schema in the index — never from a list written here.",
+        "Which of a page's keys are relations is read from the property schema in the index rather than from a list written here.",
     },
     {
       invariantKind: "departure",
@@ -25,12 +25,15 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page the change takes away stops being reachable. The pages the index says name it are judged though the change never names them.",
+      statement: "A page the change takes away stops being reachable.",
     },
     {
       invariantKind: "departure",
-      statement: "A name narrowing to more than one page is refused — not taken as reached.",
+      statement: "The pages the index says name it are judged though the change never names them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name narrowing to more than one page is refused rather than taken as reached.",
     },
     {
       invariantKind: "departure",
@@ -38,13 +41,20 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A non-mortal page naming a mortal page is refused — judged on the page type the name reaches or on the property's declared target when it reaches none.",
+      statement: "A non-mortal page naming a mortal page is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name nested one record deep is resolved. The refusal names the record and the field.",
+        "It is judged on the page type the name reaches or on the property's declared target when it reaches none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name nested one record deep is resolved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the record and the field.",
     },
     {
       invariantKind: "departure",

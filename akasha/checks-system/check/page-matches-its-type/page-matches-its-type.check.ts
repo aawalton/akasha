@@ -16,7 +16,7 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "What a page must carry is read from its page type and the types above it — never from a list written here.",
+        "What a page must carry is read from its page type and the types above it rather than from a list written here.",
     },
     {
       invariantKind: "departure",
@@ -24,8 +24,11 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property its type declares uncommitted is not demanded of the page: such a value stands in a file beside the page rather than in the page.",
+      statement: "A property its type declares uncommitted is not demanded of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a value stands in a file beside the page rather than in the page.",
     },
     {
       invariantKind: "departure",
@@ -62,17 +65,22 @@ export const pageMatchesItsType = {
     {
       invariantKind: "departure",
       statement:
-        "A text property stating a name format has each of its values judged by that format's own code — never by a shape written here.",
+        "A text property stating a name format has each of its values judged by that format's own code rather than by a shape written here.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A max on a declaration counts entries and a max on a text property counts characters — from one property page read two ways.",
+        "A max on a declaration counts entries and a max on a text property counts characters.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A total on a declaration counts the characters of a list's values taken together. It is never a third thing a max means.",
+        "A max on a declaration and a max on a text property come from one property page read two ways.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A total on a declaration counts the characters of a list's values taken together.",
     },
     {
       invariantKind: "constraint",
@@ -80,23 +88,31 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file the corpus names as a page and whose body declares no page is refused. A body that will not load declares none.",
+      statement: "A file the corpus names as a page and whose body declares no page is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page stating no page type is refused. It is not passed over as one nothing settles.",
+      statement: "A body that will not load declares none.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property a generator fills is not required of a page being created. It is required of every page already standing.",
+      statement: "A page stating no page type is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page is being created when the base commit carries no body for its path. This is read from the change and not from the disk.",
+      statement: "A property a generator fills is not required of a page being created.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It is required of every page already standing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is being created when the base commit carries no body for its path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This is read from the change and not from the disk.",
     },
     {
       invariantKind: "departure",
@@ -104,8 +120,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A value's own sort is not judged here — only whether the page carries what it must.",
+      statement: "A value's own sort is not judged here.",
     },
   ],
 } as const satisfies Check

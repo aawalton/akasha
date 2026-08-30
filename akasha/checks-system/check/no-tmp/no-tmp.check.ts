@@ -18,7 +18,7 @@ export const noTmp = {
     },
     {
       invariantKind: "departure",
-      statement: "A literal is judged by the value it carries — never by the text around it.",
+      statement: "A literal is judged by the value it carries rather than by the text around it.",
     },
     {
       invariantKind: "departure",
@@ -30,8 +30,7 @@ export const noTmp = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No use of /tmp is kept as permitted: a run wanting scratch has /var/tmp to make it in.",
+      statement: "No use of /tmp is kept as permitted.",
     },
     {
       invariantKind: "gap",

@@ -14,13 +14,16 @@ export const propertyIsDeclaredByAType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A page property stands in two trees. This holds the properties tree to the parts tree one page at a time.",
+      statement: "A page property stands in two trees.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This holds the properties tree to the parts tree one page at a time.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every page whose page type stands under `page-property` is judged — not only one whose own page type is `page-property`.",
+        "Every page whose page type stands under `page-property` is judged rather than only one whose own page type is `page-property`.",
     },
     {
       invariantKind: "departure",
@@ -42,22 +45,30 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type the change takes away leaves the properties it declared judged: those are looked for in the body the change withdrew and not among the pages the change carries.",
+      statement: "A page type the change takes away leaves the properties it declared judged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Which page stands at a path is asked of the path index — not of the slug its file name says.",
+        "Those are looked for in the body the change withdrew and not among the pages the change carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the index files nothing for is passed over — not thrown on.",
+      statement:
+        "Which page stands at a path is asked of the path index rather than of the slug its file name says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the index files nothing for is passed over rather than thrown on.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Why nothing is filed for a path is not said here.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Why nothing is filed for a path is not said here. A page stating no `id` and a body that will not load are refused in words beside this — in every phase.",
+        "A page stating no `id` and a body that will not load are refused in words beside this in every phase.",
     },
     {
       invariantKind: "departure",
@@ -65,13 +76,15 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "That a declared property has a page is no business of this check. `relation-resolves` refuses one that does not.",
+      statement: "That a declared property has a page is no business of this check.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "How many page types declare a property is not judged — only that one of them does.",
+      statement: "`relation-resolves` refuses one that does not.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "How many page types declare a property is not judged.",
     },
     {
       invariantKind: "constraint",

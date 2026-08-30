@@ -15,7 +15,7 @@ export const noRuleInTwoFiles = {
     {
       invariantKind: "departure",
       statement:
-        "A rule is read from every file the index names — not from module code alone: a helper two tests share is seen as well as a rule two modules share.",
+        "A rule is read from every file the index names rather than from module code alone.",
     },
     {
       invariantKind: "departure",
@@ -31,32 +31,32 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Which file should keep the rule is not said. Choosing the home is a judgement about what a thing is for. Naming the collision is what can be answered from the source.",
+      statement: "Which file should keep the rule is not said.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No file owns a rule by exporting it. A module's export was once read as the home a respelling answered to and that is not read here: the two files are named alike and the writer picks.",
+      statement: "No file owns a rule by exporting it.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Only a function is read and only a renaming is defeated. That is the whole of what the reading beneath this can answer.",
+      statement: "The two files are named alike and the writer picks.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Only a function is read and only a renaming is defeated.",
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read on each run — whatever the change carries.",
+      statement: "Every file the index names is read on each run whatever the change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This judges at audit alone.",
     },
     {
       invariantKind: "departure",
       statement:
-        "This judges at audit alone: it reads the whole tree however small the change is and at patch it refuses a file the change never touched.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rule standing in two files while one is being moved to the other is what a landing looks like partway. Only a sweep of the settled tree can tell that apart from a rule left in two places.",
+        "A rule standing in two files while one is being moved to the other is what a landing looks like partway.",
     },
   ],
 } as const satisfies Check

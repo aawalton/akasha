@@ -24,7 +24,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "The tests run in a world written out of what the change proposes — never in the working tree.",
+        "The tests run in a world written out of what the change proposes rather than in the working tree.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,8 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "The verdict is read from what the run printed — not from its exit code alone.",
+      statement:
+        "The verdict is read from what the run printed rather than from its exit code alone.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +49,11 @@ export const testsPass = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A test may reach the gate: a run already inside a run judges nothing and lets the outer one answer.",
+      statement: "A test may reach the gate.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run already inside a run judges nothing and lets the outer one answer.",
     },
     {
       invariantKind: "constraint",
@@ -57,7 +61,7 @@ export const testsPass = {
     },
     {
       invariantKind: "gap",
-      statement: "No test runs at patch: a change breaking one lands and audit is what finds it.",
+      statement: "No test runs at patch.",
     },
     {
       invariantKind: "gap",

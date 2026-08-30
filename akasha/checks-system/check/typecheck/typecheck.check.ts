@@ -23,16 +23,20 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "The files judged are the change and every file that imports it — however far.",
+      statement: "The files judged are the change and every file that imports it however far.",
     },
     {
       invariantKind: "departure",
-      statement: "Which file imports which is read from the index — never from the disk.",
+      statement: "Which file imports which is read from the index rather than from the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index read is the one the change leaves.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The index read is the one the change leaves: a page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
+        "A page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
     },
     {
       invariantKind: "departure",
@@ -41,30 +45,36 @@ export const typecheck = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A file the change does not reach is not judged. Its standing errors are the audit's.",
+      statement: "A file the change does not reach is not judged.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Its standing errors are the audit's.",
     },
     {
       invariantKind: "departure",
-      statement: "One program is built for a set of changes — however many files that set holds.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A diagnostic against a file the change did not touch is reported once — against that file.",
+      statement: "One program is built for a set of changes however many files that set holds.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the change takes away is not there for the compiler: nothing is reported against it and a file still importing it is refused.",
+        "A diagnostic against a file the change did not touch is reported once against that file.",
     },
     {
       invariantKind: "departure",
-      statement: "A diagnostic naming no file is thrown — never reported.",
+      statement: "A path the change takes away is not there for the compiler.",
     },
     {
       invariantKind: "departure",
-      statement: "A body is read from what the check is handed — never from the disk.",
+      statement: "Nothing is reported against it and a file still importing it is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A diagnostic naming no file is thrown rather than reported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is read from what the check is handed rather than from the disk.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +100,7 @@ export const typecheck = {
     },
     {
       invariantKind: "absence",
-      statement: "No import is added for the narrowing. `Omit` is TypeScript's own.",
+      statement: "No import is added for the narrowing.",
     },
     {
       invariantKind: "gap",
