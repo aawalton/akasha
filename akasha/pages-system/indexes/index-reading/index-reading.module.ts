@@ -40,7 +40,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "Each index's own place is answered here as well as the root, so a caller naming one spells neither where the index stands nor what the index is called.",
+        "A reader here takes the repository root or a reading of the index, so no caller works out where the index stands to ask a question.",
     },
     {
       invariantKind: "absence",

@@ -7,7 +7,6 @@ import {
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  indexIn,
   schemaOf,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -267,7 +266,7 @@ export function unloadable(why: string | null): string {
 }
 
 export function pageMatchesItsType(leaving: Leaving): readonly Judged[] {
-  const pageTypes = pageTypesIn(indexIn(leaving.root))
+  const pageTypes = pageTypesIn(leaving.root)
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
     if (generated !== null) return generated

@@ -7,11 +7,9 @@ import { stampKept } from "../index-stamp/index-stamp.module.code.ts"
 import {
   everyPath,
   identityAt,
-  importAt,
   importersOf,
   indexIn,
-  pathAt,
-  relationAt,
+  readingIn,
   schemaOf,
   standingById,
   standingByPath,
@@ -210,10 +208,16 @@ test("what imports a file is refused when a commit the index never saw stands", 
   expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(/akasha\/late\.ts/)
 })
 
-test("an index's own place is answered under the index root, one folder to an index", () => {
-  const held = [identityAt(), importAt(), pathAt(), relationAt()]
-
-  expect(new Set(held).size).toBe(held.length)
-  for (const one of held) expect(one.startsWith(indexIn(""))).toBe(true)
+test("an index's own place is answered under the index root", () => {
+  expect(identityAt().startsWith(indexIn(""))).toBe(true)
   expect(identityAt("page", "id")).toBe(`${identityAt()}/page/id`)
+})
+
+test("a reader answers alike whether it is given the root or a reading of the index", () => {
+  const root = rootAt()
+  filed(root, "path/akasha/a.module.ts.jsonl", [line("akasha/a.module.ts", A)])
+
+  expect(standingByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
+    standingByPath(root, "akasha/a.module.ts")
+  )
 })

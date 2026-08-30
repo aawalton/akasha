@@ -60,19 +60,7 @@ export function identityAt(...parts: readonly string[]): string {
   return indexAt(IDENTITY, ...parts)
 }
 
-export function importAt(...parts: readonly string[]): string {
-  return indexAt(IMPORT, ...parts)
-}
-
-export function pathAt(...parts: readonly string[]): string {
-  return indexAt(PATH, ...parts)
-}
-
-export function relationAt(...parts: readonly string[]): string {
-  return indexAt(RELATION, ...parts)
-}
-
-function overIndex(given: string | Reading): Reading {
+export function readingIn(given: string | Reading): Reading {
   return readingOf(typeof given === "string" ? indexIn(given) : given)
 }
 
@@ -105,7 +93,7 @@ export function standingNamed(
   propertySlug: string,
   said: string
 ): readonly Standing[] {
-  return standingIn(overIndex(given), join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+  return standingIn(readingIn(given), join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
 }
 
 export function standingAt(
@@ -121,7 +109,7 @@ export function standingById(given: string | Reading, id: string): Standing | nu
 }
 
 export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
-  return standingIn(overIndex(given), join(PATH, `${path}${ENDING}`))
+  return standingIn(readingIn(given), join(PATH, `${path}${ENDING}`))
 }
 
 function pathsIn(reading: Reading, at: string): readonly string[] {
@@ -164,7 +152,7 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
 
 export function schemaOf(given: string | Reading, propertySlug: string): Schema | null {
   const at = join(SCHEMA, PROPERTY, SLUG, `${propertySlug}${ENDING}`)
-  return schemaIn(overIndex(given), at)[0] ?? null
+  return schemaIn(readingIn(given), at)[0] ?? null
 }
 
 function byPath(one: Standing, two: Standing): number {
@@ -181,12 +169,12 @@ function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Standing[] {
-  const reading = overIndex(given)
+  const reading = readingIn(given)
   return gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return endingIn(overIndex(given).listing(join(IDENTITY, pageTypeSlug, SLUG)))
+  return endingIn(readingIn(given).listing(join(IDENTITY, pageTypeSlug, SLUG)))
 }
 
 export function idsNaming(
@@ -194,11 +182,11 @@ export function idsNaming(
   id: string,
   propertySlug: string
 ): readonly string[] {
-  return endingIn(overIndex(given).listing(join(RELATION, "page", "id", id, propertySlug)))
+  return endingIn(readingIn(given).listing(join(RELATION, "page", "id", id, propertySlug)))
 }
 
 export function everyPage(given: string | Reading): readonly Standing[] {
-  const reading = overIndex(given)
+  const reading = readingIn(given)
   return gatheredIn(reading, join(IDENTITY, "page", "id"))
 }
 
@@ -211,5 +199,5 @@ function underneath(reading: Reading, at: string, said: string): readonly string
 }
 
 export function everyPath(given: string | Reading): readonly string[] {
-  return [...underneath(overIndex(given), PATH, "")].sort()
+  return [...underneath(readingIn(given), PATH, "")].sort()
 }

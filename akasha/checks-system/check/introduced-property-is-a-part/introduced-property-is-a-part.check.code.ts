@@ -3,10 +3,7 @@ import {
   textAt,
   type Value,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  everyOfType,
-  indexIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Shadow,
   shadowFor,
@@ -120,7 +117,7 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
 }
 
 export function introducedPropertyIsAPart(leaving: Leaving): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(indexIn(leaving.root)))
+  const carried = carriedBy(leaving, pageTypesIn(leaving.root))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
   const cast = shadowFor(leaving)
   if ("refused" in cast) throw new Error(cast.refused)

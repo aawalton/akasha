@@ -1,5 +1,4 @@
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typeNamedIn } from "../introduced-property-is-a-part/introduced-property-is-a-part.check.code.ts"
 import {
@@ -19,7 +18,7 @@ export const COUNTS_NOTHING =
   "states `next-seq` and declares no `seq` — a count nothing takes from is a number that never moves"
 
 export function countingIsWhole(leaving: Leaving): readonly Judged[] {
-  const carried = carriedBy(leaving, pageTypesIn(indexIn(leaving.root)))
+  const carried = carriedBy(leaving, pageTypesIn(leaving.root))
   const held = carried.filter((one) => typeNamedIn(one.path) !== null)
   if (held.length === 0) return []
   const read = readingIn(leaving)

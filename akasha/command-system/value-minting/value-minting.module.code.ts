@@ -9,10 +9,7 @@ import {
   pageTypesIn,
   textAt,
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  indexIn,
-  standingAt,
-} from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Shadow,
   shadowFor,
@@ -116,7 +113,7 @@ export function mintingOnto(root: string, changes: readonly Change[]): Minted {
   const early = earlyIn(root, changes)
   if (early.size === 0) return { changes, filled: [] }
   const leaving = leavingOf(root, { base: baseOf(root), changed: changes })
-  const pageTypes = pageTypesIn(indexIn(root))
+  const pageTypes = pageTypesIn(root)
   const held: Change[] = []
   const filled: Filled[] = []
   for (const one of changes) {
@@ -204,7 +201,7 @@ export function countingOnto(leaving: Leaving, changes: readonly Change[]): read
   const slug = countedBy(shadow)
   if (slug === null) return changes
   const key = exportedAs(slug)
-  const pageTypes = pageTypesIn(indexIn(leaving.root))
+  const pageTypes = pageTypesIn(leaving.root)
   const minting = [...changes]
     .sort((here, there) => (here.path < there.path ? -1 : 1))
     .flatMap((one) => {

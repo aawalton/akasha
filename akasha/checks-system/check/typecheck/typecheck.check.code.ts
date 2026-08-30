@@ -6,7 +6,6 @@ import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.mo
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -83,7 +82,7 @@ export function omittingIn(path: string, text: string, keys: readonly string[]):
 }
 
 export function mintingIn(leaving: Leaving, keys: readonly string[]): Minting {
-  const pageTypes = keys.length === 0 ? null : pageTypesIn(indexIn(leaving.root))
+  const pageTypes = keys.length === 0 ? null : pageTypesIn(leaving.root)
   return (path, text) => {
     if (pageTypes === null || !pageNamed(path, pageTypes)) return text
     if (leaving.was(path) !== null) return text

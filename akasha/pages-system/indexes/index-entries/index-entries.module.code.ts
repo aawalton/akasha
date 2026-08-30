@@ -7,7 +7,8 @@ import { besideAt } from "../../page/page-file-name/page-file-name.module.code.t
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
-import { type Reading, readingOf } from "../index-surface/index-surface.module.code.ts"
+import { readingIn } from "../index-reading/index-reading.module.code.ts"
+import type { Reading } from "../index-surface/index-surface.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -72,7 +73,7 @@ export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
   const dir = join(IDENTITY, "page-type", "slug")
   return new Set<string>([
     "page-type",
-    ...readingOf(given)
+    ...readingIn(given)
       .listing(dir)
       .map((one) => one.name.slice(0, -ENDING.length)),
   ])
@@ -141,7 +142,7 @@ export function importedBy(path: string, specifier: string): string | null {
 }
 
 export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
-  const reading = readingOf(given)
+  const reading = readingIn(given)
   const dir = join(SCHEMA, PROPERTY, "slug")
   const found = new Map<string, Schema>()
   for (const one of reading.listing(dir)) {
