@@ -24,7 +24,7 @@ function rooted(): string {
   return root
 }
 
-function standing(root: string, body: string): void {
+function standing(root: string, body: string): undefined {
   writeFileSync(join(root, BESIDE), body, "utf8")
 }
 
