@@ -40,11 +40,19 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "absence",
-      statement: "The index is no page. A Read of `.git/data` stands.",
+      statement: "The index is no page.",
     },
     {
       invariantKind: "absence",
-      statement: "A search is no read. What Grep and Glob show is not refused here.",
+      statement: "A Read of `.git/data` stands.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A search is no read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What Grep and Glob show is not refused here.",
     },
     {
       invariantKind: "gap",
