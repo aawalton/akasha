@@ -33,6 +33,7 @@ export const seat = {
     "boolean-property/owed",
     "boolean-property/running-task",
     "boolean-property/send-in-flight",
+    "instant-property/context-replaced-at",
     "instant-property/restart-armed-at",
     "number-property/context-tokens",
     "number-property/proxy-port",
@@ -74,6 +75,12 @@ export const seat = {
     { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "request", required: false, many: false, uncommitted: true },
+    {
+      pagePropertySlug: "context-replaced-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
     {
       pagePropertySlug: "deferred-restart-notice",
       required: false,
