@@ -32,6 +32,7 @@ export const folderShape = {
     "folder-shape/property-pages-only",
   ],
   extendsSlug: "page-type/module",
+  loadedBySlug: "check/folder-matches-a-shape",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [
     {

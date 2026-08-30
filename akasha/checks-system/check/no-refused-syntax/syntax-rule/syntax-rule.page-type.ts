@@ -37,6 +37,7 @@ export const syntaxRule = {
     "syntax-rule/no-void-self-in-object-method",
   ],
   extendsSlug: "page-type/module",
+  loadedBySlug: "check/no-refused-syntax",
   properties: [{ pagePropertySlug: "test", required: true, many: false }],
   invariants: [
     {
