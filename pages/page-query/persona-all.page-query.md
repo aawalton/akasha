@@ -4,4 +4,16 @@ slug: persona-all
 page-type-slug: page-query
 title: "Persona all"
 page-type: persona
+keys:
+  - id
+  - slug
+  - seq
+  - title
+  - cover
+  - value-slug
+  - green-day-points
+  - total-points
+  - last-messaged-at
+  - email-address
+  - voice-reference-sha256
 ---
