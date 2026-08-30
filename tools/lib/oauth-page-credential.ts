@@ -49,10 +49,17 @@ export function credentialByAccountFromPage(
 }
 
 export function accountsWithPages(root = pagesRoot()): readonly string[] {
+  const dir = `${root}/${accountDirIn(root)}`
   try {
-    const names = readdirSync(`${root}/${accountDirIn(root)}`).filter((one) => one.endsWith(".md"))
+    const names = readdirSync(dir).filter((one) => one.endsWith(".md"))
     return [...new Set(names.map((one) => fileStemOf(one)))].sort()
-  } catch {
+  } catch (thrown) {
+    // A directory that cannot be listed is not a fleet with no accounts in it. Callers here read
+    // the answer as a list either way, so the difference is said aloud rather than swallowed.
+    process.stderr.write(
+      `[oauth] ${dir} could not be listed, so no claude-account is answered from it: ` +
+        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
+    )
     return []
   }
 }

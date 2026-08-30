@@ -8,6 +8,7 @@ import {
 import { USAGE_URL, UPKEEP_RENEWAL_MARGIN_MS } from "./oauth-constants.ts"
 import { type RefreshOutcome, refreshOAuthTokenWithOutcome } from "./oauth-credentials.ts"
 import { allCredentialDocsFromPages } from "./oauth-page-db.ts"
+import { accountDirIn, pagesRoot } from "./oauth-page-push.ts"
 import { decideTokenTerminalAlert } from "./oauth-token-terminal-alert.ts"
 import type { CredentialDoc } from "./oauth-types.ts"
 import { parseUsageResponse, pushPacingToPage, type UsageResponse } from "./oauth-usage.ts"
@@ -213,8 +214,13 @@ export async function runUpkeepPass(
   const creds = allCredentialDocsFromPages()
   const sorted = sortAccountsAlpha(creds)
   if (sorted.length === 0) {
-    console.warn(`${log} no claude-account pages found`)
-    return
+    // Renewing a token happens here and nowhere else, so a pass over no accounts renews nothing
+    // in the whole fleet. Answering that as a done tick would read healthy while every token
+    // ages out, and the tokens would be the first thing to say so, hours later and all at once.
+    throw new Error(
+      `no claude-account pages stand under ${accountDirIn(pagesRoot())}, and renewing a token ` +
+        `happens here and nowhere else, so a pass over none of them is a failure rather than a quiet success`
+    )
   }
   console.log(`${log} starting tick for ${sorted.length} accounts`)
   for (let i = 0; i < sorted.length; i++) {
