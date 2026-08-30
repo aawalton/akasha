@@ -13,9 +13,7 @@ export const scratching = {
     {
       invariantKind: "departure",
       statement:
-        "A body a test stands in its scratch root is put there through one spelling, which " +
-        "gives back the id git would know it by, so the tests that want that id and those " +
-        "that do not are written alike.",
+        "A body a test stands in its scratch root is put there through one spelling, which gives back the id git would know it by.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +38,7 @@ export const scratching = {
     {
       invariantKind: "departure",
       statement:
-        "The place scratch stands in is spelled once, here, and every scratch root the command " +
-        "system takes is taken from it, so what leaks is looked for and swept in one place.",
+        "The place scratch stands in is spelled once, here, and every scratch root the command system takes is taken from it.",
     },
   ],
 } as const satisfies Module
