@@ -28,6 +28,7 @@ export const seat = {
   mortal: true,
   partSlugs: [
     "boolean-property/on-call",
+    "process-property/supervisor-process",
     "text-property/assignment-slug",
     "text-property/claude-code-session-uuid",
     "text-property/person-slug",
@@ -50,6 +51,7 @@ export const seat = {
       uncommitted: true,
     },
     { pagePropertySlug: "transcript-path", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
