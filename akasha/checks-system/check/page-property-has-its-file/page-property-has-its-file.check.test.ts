@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import {
+  claiming,
+  declaring,
+  shadowing,
+  stands,
+} from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,
@@ -62,18 +67,18 @@ function over(
   }
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  return pagePropertyHasItsFile(change, shadowing(change))
+}
+
 test("a page whose stated code file stands in the change is let through", () => {
   const root = rooted()
-  expect(
-    pagePropertyHasItsFile(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"') }))
-  ).toEqual([])
+  expect(judged(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"') }))).toEqual([])
 })
 
 test("a page stating a code file that stands nowhere is refused, and the refusal names both", () => {
   const root = rooted()
-  const said = pagePropertyHasItsFile(
-    over(root, [PAGE], { [PAGE]: body(', code: "ts"'), [CODE]: null })
-  )
+  const said = judged(over(root, [PAGE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
   expect(said).toEqual([
     { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
   ])
@@ -82,9 +87,7 @@ test("a page stating a code file that stands nowhere is refused, and the refusal
 test("a change taking away a code file refuses the page that still states it, though the change never names that page", () => {
   const root = rooted()
   landed(root)
-  const said = pagePropertyHasItsFile(
-    over(root, [CODE], { [PAGE]: body(', code: "ts"'), [CODE]: null })
-  )
+  const said = judged(over(root, [CODE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
   expect(said).toEqual([
     { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
   ])
@@ -92,23 +95,19 @@ test("a change taking away a code file refuses the page that still states it, th
 
 test("a change taking away the page and its code file together is silent", () => {
   const root = rooted()
-  expect(pagePropertyHasItsFile(over(root, [PAGE, CODE], { [PAGE]: null, [CODE]: null }))).toEqual(
-    []
-  )
+  expect(judged(over(root, [PAGE, CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
 })
 
 test("an empty file is a file, and presence is the whole test", () => {
   const root = rooted()
   expect(
-    pagePropertyHasItsFile(
-      over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"'), [CODE]: new Uint8Array(0) })
-    )
+    judged(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"'), [CODE]: new Uint8Array(0) }))
   ).toEqual([])
 })
 
 test("every file property a page states is judged, not only the first", () => {
   const root = rooted()
-  const said = pagePropertyHasItsFile(
+  const said = judged(
     over(root, [PAGE], { [PAGE]: body(', code: "ts", test: "ts"'), [CODE]: null, [TEST]: null })
   )
   expect(said.map((one) => one.reason)).toEqual([
@@ -119,7 +118,7 @@ test("every file property a page states is judged, not only the first", () => {
 
 test("which properties are held in a file is read from the index, not from a list in the check", () => {
   const root = rooted(["code", "notes"])
-  const said = pagePropertyHasItsFile(
+  const said = judged(
     over(root, [PAGE], { [PAGE]: body(', notes: "md"'), "akasha/a/held.module.notes.md": null })
   )
   expect(said.map((one) => one.reason)).toEqual([
@@ -132,7 +131,7 @@ test("a page named for a page type the change itself carries is judged", () => {
   const type = "akasha/x/oddity.page-type.ts"
   const page = "akasha/b/new.oddity.ts"
   const code = "akasha/b/new.oddity.code.ts"
-  const said = pagePropertyHasItsFile(
+  const said = judged(
     over(root, [type, page], {
       [type]: body("", "oddity", "page-type", `${ID.slice(0, -1)}5`),
       [page]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
@@ -148,7 +147,7 @@ test("a file property the change itself introduces is asked for its file", () =>
   const root = rooted(["code"])
   const property = "akasha/x/notes.file-property.ts"
   const notes = "akasha/a/held.module.notes.md"
-  const said = pagePropertyHasItsFile(
+  const said = judged(
     over(root, [property, PAGE], {
       [property]: body("", "notes", "file-property", `${ID.slice(0, -1)}7`),
       [PAGE]: body(', notes: "md"'),
@@ -162,27 +161,27 @@ test("a file property the change itself introduces is asked for its file", () =>
 
 test("a property whose shape is not a file is not asked for a file", () => {
   const root = rooted(["code"])
-  expect(
-    pagePropertyHasItsFile(over(root, [PAGE], { [PAGE]: body(', code: "ts", definition: "held"') }))
-  ).toEqual([])
+  expect(judged(over(root, [PAGE], { [PAGE]: body(', code: "ts", definition: "held"') }))).toEqual(
+    []
+  )
 })
 
 test("an index entry pointing at a page the change takes away raises nothing", () => {
   const root = rooted()
   landed(root)
-  expect(pagePropertyHasItsFile(over(root, [CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
+  expect(judged(over(root, [CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
 })
 
 test("an index entry pointing at a page whose body will not load raises nothing", () => {
   const root = rooted()
   landed(root)
   const broken = new TextEncoder().encode("export const it = (\n")
-  expect(pagePropertyHasItsFile(over(root, [CODE], { [PAGE]: broken, [CODE]: null }))).toEqual([])
+  expect(judged(over(root, [CODE], { [PAGE]: broken, [CODE]: null }))).toEqual([])
 })
 
 test("a path outside the akasha folder is passed over", () => {
   const root = rooted()
-  expect(pagePropertyHasItsFile(over(root, ["dotfiles/bin/akasha"], {}))).toEqual([])
+  expect(judged(over(root, ["dotfiles/bin/akasha"], {}))).toEqual([])
 })
 
 test("a page is judged once, whether the change names the page, the file, or both", () => {
@@ -190,7 +189,7 @@ test("a page is judged once, whether the change names the page, the file, or bot
   landed(root)
   const bodies = { [PAGE]: body(', code: "ts"'), [CODE]: null }
   for (const changed of [[PAGE], [CODE], [PAGE, CODE]]) {
-    expect(pagePropertyHasItsFile(over(root, changed, bodies))).toHaveLength(1)
+    expect(judged(over(root, changed, bodies))).toHaveLength(1)
   }
 })
 
@@ -222,6 +221,6 @@ test("the check reads the index under the root it was given, and no other", () =
   landed(named)
   const bare = rooted()
   const bodies = { [PAGE]: body(', code: "ts"'), [CODE]: null }
-  expect(pagePropertyHasItsFile(over(named, [CODE], bodies))).toHaveLength(1)
-  expect(pagePropertyHasItsFile(over(bare, [CODE], bodies))).toEqual([])
+  expect(judged(over(named, [CODE], bodies))).toHaveLength(1)
+  expect(judged(over(bare, [CODE], bodies))).toEqual([])
 })

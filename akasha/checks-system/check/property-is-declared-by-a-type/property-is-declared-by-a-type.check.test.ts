@@ -9,9 +9,11 @@ import {
   NO_BYTES,
   pathFor,
   put,
+  shadowing,
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   propertyIsDeclaredByAType,
   propertyNamedIn,
@@ -64,12 +66,16 @@ function rooted(): string {
   return root
 }
 
+function judged(change: Leaving): readonly Judged[] {
+  return propertyIsDeclaredByAType(change, shadowing(change))
+}
+
 test("a property the index says some page type declares is let through", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   edging(root, ONE, "page-property-slug", TWO, UP_AT)
   identified(root, TWO, UP_AT)
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
     })
@@ -80,7 +86,7 @@ test("a property the index says some page type declares is let through", () => {
 test("a property no page type declares is refused, and the refusal names the address", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
     })
@@ -93,7 +99,7 @@ test("a property and the page type declaring it landing together is let through"
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   stands(root, "page-type", "over", TWO)
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
       [pathFor("page-type", "over")]: body("page-type", "over", TWO, ["held"]),
@@ -108,7 +114,7 @@ test("a page type that stops declaring a property leaves that property refused",
   stands(root, "page-type", "over", TWO)
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(
       root,
       {
@@ -129,7 +135,7 @@ test("a page type dropping a property leaves it refused, though the property did
   identified(root, ONE, pathFor("relation-property", "held"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(
       root,
       { [at]: body("page-type", "over", TWO) },
@@ -148,7 +154,7 @@ test("a page type the change takes away leaves the property it declared refused"
   identified(root, TWO, pathFor("page-type", "over"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, { [at]: null }, { [at]: put(root, at, body("page-type", "over", TWO, ["held"])) })
   )
   expect(said.map((one) => one.path)).toEqual([pathFor("relation-property", "held")])
@@ -158,7 +164,7 @@ test("a record property declaring a field declares it as a page type would", () 
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   stands(root, "record-property", "over", TWO)
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       [pathFor("relation-property", "held")]: body("relation-property", "held", ONE),
       [pathFor("record-property", "over")]: body("record-property", "over", TWO, ["held"]),
@@ -169,7 +175,7 @@ test("a record property declaring a field declares it as a page type would", () 
 
 test("a property of a page type the change itself adds is judged too", () => {
   const root = rooted()
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       "akasha/measure-property.page-type.ts": new TextEncoder().encode(
         `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
@@ -185,32 +191,26 @@ test("a property the change takes away is passed over", () => {
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   const at = pathFor("relation-property", "held")
-  expect(propertyIsDeclaredByAType(landing(root, { [at]: null }))).toEqual([])
+  expect(judged(landing(root, { [at]: null }))).toEqual([])
 })
 
 test("a page whose page type stands outside page-property is not judged", () => {
   const root = rooted()
   stands(root, "domain", "held", ONE)
-  const said = propertyIsDeclaredByAType(
-    landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) })
-  )
+  const said = judged(landing(root, { [pathFor("domain", "held")]: body("domain", "held", ONE) }))
   expect(said).toEqual([])
 })
 
 test("a file outside the akasha folder is not this check's business", () => {
   const root = rooted()
-  const said = propertyIsDeclaredByAType(
-    landing(root, { "pages/property/held.relation-property.ts": NO_BYTES })
-  )
+  const said = judged(landing(root, { "pages/property/held.relation-property.ts": NO_BYTES }))
   expect(said).toEqual([])
 })
 
 test("a property arriving with no identity is passed over rather than thrown on", () => {
   const root = rooted()
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
-  expect(
-    propertyIsDeclaredByAType(landing(root, { [pathFor("relation-property", "held")]: bare }))
-  ).toEqual([])
+  expect(judged(landing(root, { [pathFor("relation-property", "held")]: bare }))).toEqual([])
 })
 
 test("a property giving up its identity is passed over rather than thrown on", () => {
@@ -219,7 +219,7 @@ test("a property giving up its identity is passed over rather than thrown on", (
   identified(root, ONE, pathFor("relation-property", "held"))
   const at = pathFor("relation-property", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, { [at]: bare }, { [at]: put(root, at, body("relation-property", "held", ONE)) })
   )
   expect(said).toEqual([])
@@ -231,7 +231,7 @@ test("a property whose body will not load is passed over rather than thrown on",
   identified(root, ONE, pathFor("relation-property", "held"))
   const at = pathFor("relation-property", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, { [at]: broken }, { [at]: put(root, at, body("relation-property", "held", ONE)) })
   )
   expect(said).toEqual([])
@@ -240,9 +240,7 @@ test("a property whose body will not load is passed over rather than thrown on",
 test("a property whose file stem disagrees with the slug it states is judged, not skipped", () => {
   const root = rooted()
   const at = pathFor("relation-property", "held")
-  const said = propertyIsDeclaredByAType(
-    landing(root, { [at]: body("relation-property", "other", ONE) })
-  )
+  const said = judged(landing(root, { [at]: body("relation-property", "other", ONE) }))
   expect(said.map((filed) => filed.path)).toEqual([at])
 })
 
@@ -250,7 +248,7 @@ test("two properties carrying one slug are each judged, not skipped", () => {
   const root = rooted()
   const one = pathFor("relation-property", "held")
   const two = pathFor("relation-property", "other")
-  const said = propertyIsDeclaredByAType(
+  const said = judged(
     landing(root, {
       [one]: body("relation-property", "held", ONE),
       [two]: body("relation-property", "held", TWO),

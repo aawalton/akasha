@@ -17,7 +17,7 @@ import {
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -72,10 +72,7 @@ function reasonFor(shown: string): string {
   )
 }
 
-export function domainIsNamedByAParent(leaving: Leaving): readonly Judged[] {
-  const cast = shadowFor(leaving)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const shadow = cast.shadow
+export function domainIsNamedByAParent(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   const under = kindsUnder(leaving.root, DOMAIN, shadow.reading, shadow.pageOf)
   const pageTypes = pageTypesIn(shadow.reading)
   const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
