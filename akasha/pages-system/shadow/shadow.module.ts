@@ -36,7 +36,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A change answering `at` and `was` with one reader is a change nothing moved in, and that is how an audit is known here.",
+        "A change answering `before` and `after` with one reader is a change nothing moved in, and that is how an audit is known here.",
     },
     {
       invariantKind: "departure",

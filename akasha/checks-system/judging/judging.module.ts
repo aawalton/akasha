@@ -14,17 +14,17 @@ export const judging = {
     {
       invariantKind: "departure",
       statement:
-        "A change is shown twice over: `at` answers the body the change leaves, and `was` answers the body it found. A check reading only `at` sees a state rather than a change.",
+        "A change is shown twice over, and a check reading only `after` sees a state rather than a change.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`at` and `was` answer for any path, not only one the change carries, and a path it never touched reads the base commit through both.",
+        "`before` and `after` answer for any path, not only one the change carries, and a path it never touched reads the base commit through both.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Audit is a change in which every file is unchanged, so `was` and `at` answer alike there and nothing reads as added or taken away.",
+        "Audit is a change in which every file is unchanged, so `before` and `after` answer alike there and nothing reads as added or taken away.",
     },
   ],
 } as const satisfies Module
