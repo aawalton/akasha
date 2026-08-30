@@ -3,15 +3,13 @@ import { join } from "node:path"
 import { pageStemOf } from "../../page/name/name.ts"
 import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
-import { documentsOnDemand } from "./documents-on-demand.ts"
-import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import { initiativesIn } from "./seat-initiative.ts"
+import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
+import { domainAddressOf, initiativeSlugOf } from "./seat-page-slugs.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
-import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
+import { seatPageForAgent } from "./seat-presence-read.ts"
 import type { Stated } from "./seat-stated.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
 
@@ -25,20 +23,6 @@ const WRITER = "seat-page-writer"
 
 export function seatPageRelPath(seatName: string): string {
   return `${SEAT_WRITE.dir}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
-}
-
-function initiativeSlugOf(stated: string, root: string): string {
-  const at = initiativesIn(root).get(stated) ?? []
-  const [only] = at
-  if (at.length !== 1 || only === undefined) return stated
-  const slug = frontmatterOf(`${root}/${only}`)?.["slug"]
-  return typeof slug === "string" && slug !== "" ? slug : stated
-}
-
-function domainAddress(named: string, root: string): string {
-  const at = documentsOnDemand(root).domainAt(named)
-  const type = at === null ? null : pageTypeOf(at)
-  return type === null ? named : addressOf(type, slugNamed(named))
 }
 
 export function seatPageBody(
@@ -60,7 +44,7 @@ export function seatPageBody(
     `slug: ${seatName}`,
     `title: "${seatName}"`,
     ...(persona === null ? [] : [`persona-slug: ${persona}`]),
-    `domain-slug: ${domainAddress(domain, rootFor(roots, AKASHA))}`,
+    `domain-slug: ${domainAddressOf(domain, rootFor(roots, AKASHA))}`,
     `role-slug: ${role}`,
   ]
   const person = personPrincipals(rootFor(roots, AKASHA)).includes(principal)
@@ -103,8 +87,34 @@ function takeAnyOtherPage(agent: string, seatName: string): void {
   if (taken.code === 0) removeUncommitted(standing)
 }
 
+// The second write is the migration's, and nothing reads a seat from akasha yet. What it says is
+// said where it can be seen rather than returned, so a seat whose page landed is never reported as
+// one whose page did not.
+function alsoInAkasha(
+  stated: Stated,
+  seatName: string,
+  roots: Roots,
+  parentName: string | null
+): void {
+  const said = writeAkashaSeatPage(stated, seatName, roots, parentName)
+  if (said.kind === "refused") {
+    process.stderr.write(`${seatName}'s page stands, and its page in akasha does not: ${said.detail}\n`)
+  }
+}
+
 export function writeSeatPage(stated: Stated, seatName: string, parentName: string | null = null): Outcome {
   const roots = resolveRoots()
+  const said = writingOld(stated, seatName, roots, parentName)
+  if (said.kind !== "unstated") alsoInAkasha(stated, seatName, roots, parentName)
+  return said
+}
+
+function writingOld(
+  stated: Stated,
+  seatName: string,
+  roots: Roots,
+  parentName: string | null
+): Outcome {
   const body = seatPageBody(stated, seatName, roots, parentName)
   if (body === null) return { kind: "unstated" }
   takeAnyOtherPage(stated.agent, seatName)
@@ -171,5 +181,11 @@ export function removeSeatPage(agent: string, stopReason: string): Outcome {
     return { kind: "refused", detail }
   }
   removeUncommitted(page)
+  const gone = removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
+  if (gone.kind === "refused") {
+    process.stderr.write(
+      `${seatName}'s page is gone, and its page in akasha stands: ${gone.detail}\n`
+    )
+  }
   return { kind: "removed" }
 }
