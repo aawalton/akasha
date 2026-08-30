@@ -132,6 +132,16 @@ export const landing = {
         "A change says whether the body it carries came from another path, because what a page being created is given is not given again to one that only moved.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A landing may be handed work to do once the checks have passed and before anything is written, so a value a refusal must not spend is worked out only where there will be no refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Work handed in that way may add paths to the change, and what stood at each is read before any of it is written, so a failure puts every one of them back.",
+    },
+    {
       invariantKind: "gap",
       statement: "A change that was judged is the change that landed.",
     },

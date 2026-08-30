@@ -1,4 +1,5 @@
 import {
+  numberAt,
   type Value,
   valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
@@ -9,9 +10,7 @@ import { typeNamedIn } from "../introduced-property-is-a-part/introduced-propert
 const NEXT_SEQ = "nextSeq"
 
 export function countAt(value: Value | null): number | null {
-  if (value === null) return null
-  const said = value[NEXT_SEQ]
-  return typeof said === "number" ? said : null
+  return value === null ? null : numberAt(value, NEXT_SEQ)
 }
 
 export function loadedAt(root: string, path: string, bytes: Uint8Array | null): Value | null {

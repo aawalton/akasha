@@ -92,6 +92,11 @@ export function textAt(value: Value, key: string): string | null {
   return typeof held === "string" ? held : null
 }
 
+export function numberAt(value: Value, key: string): number | null {
+  const held = value[key]
+  return typeof held === "number" ? held : null
+}
+
 export function filePropertiesIn(values: Iterable<Value>): ReadonlySet<string> {
   const found = new Set<string>()
   for (const value of values) {

@@ -17,7 +17,7 @@ import {
 } from "../landing/landing.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import type { Filled, Minted } from "../value-minting/value-minting.module.code.ts"
-import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
+import { countingOnto, mintingOnto } from "../value-minting/value-minting.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -310,7 +310,8 @@ export function landingAsked(given: Given, asked: Asked): Answer {
       gate,
       given.writer,
       held.read ?? null,
-      asReadIn(given, held.changes)
+      asReadIn(given, held.changes),
+      countingOnto
     )
   } catch (thrown) {
     return {
