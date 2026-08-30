@@ -14,7 +14,7 @@ export const routeParameter = {
     {
       invariantKind: "departure",
       statement:
-        "A parameter is named for the value it carries, never for how that value is written.",
+        "A parameter is named for the value it carries rather than for how that value is written.",
     },
   ],
 } as const satisfies NamePlace

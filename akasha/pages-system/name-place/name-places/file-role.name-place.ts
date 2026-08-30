@@ -10,7 +10,7 @@ export const fileRole = {
     {
       invariantKind: "departure",
       statement:
-        "A role is a file property the page's type declares, never a word chosen at the file.",
+        "A role is a file property the page's type declares rather than a word chosen at the file.",
     },
     {
       invariantKind: "departure",

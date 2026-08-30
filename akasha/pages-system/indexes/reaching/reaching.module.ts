@@ -19,16 +19,20 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement:
-        "A value that narrows to more than one page is refused, never resolved to one of them.",
+        "A value that narrows to more than one page is refused rather than resolved to one of them.",
     },
     {
       invariantKind: "departure",
-      statement: "A value the index cannot resolve is reported, never thrown.",
+      statement: "A value the index cannot resolve is reported rather than thrown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page naming the same page twice files one edge.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page naming the same page twice files one edge, and a name nested in a record is filed from the page carrying it, never from the record.",
+        "A name nested in a record is filed from the page carrying it rather than from the record.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const phoneNumberProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A number is written in E.164, opening with `+` and holding digits alone.",
+      statement: "A number is written in E.164 and opens with `+` and holds digits alone.",
     },
     {
       invariantKind: "departure",

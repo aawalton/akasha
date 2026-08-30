@@ -26,7 +26,7 @@ export const indexStamp = {
     },
     {
       invariantKind: "departure",
-      statement: "A stamp is written whole, never appended to.",
+      statement: "A stamp is written whole rather than appended to.",
     },
     {
       invariantKind: "departure",

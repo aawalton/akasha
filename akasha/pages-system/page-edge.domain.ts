@@ -8,8 +8,11 @@ export const pageEdge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An edge is an import where the target is needed to derive this page's type, and a slug everywhere else.",
+      statement: "An edge is an import where the target is needed to derive this page's type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edge is a slug everywhere else.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +24,11 @@ export const pageEdge = {
     },
     {
       invariantKind: "departure",
-      statement: "An edge imports only a type, and is gone before the page runs.",
+      statement: "An edge imports only a type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edge is gone before the page runs.",
     },
   ],
 } as const satisfies Domain

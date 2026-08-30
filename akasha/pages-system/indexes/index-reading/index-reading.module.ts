@@ -11,22 +11,34 @@ export const indexReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An answer about one page is one file read or one directory listed, and a name not saying its page type costs one read for each page type it could be — never a walk of the corpus.",
+      statement: "An answer about one page is one file read or one directory listed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A directory listed is one page type's own, and grows with that type and not with the corpus.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page the index names is answered as a path, never as the entry.",
+        "A name not saying its page type costs one read for each page type it could be — never a walk of the corpus.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every path the index files is answered by walking the one tree those paths are filed in, the answer being the corpus itself, and nothing else here walks.",
+        "A directory listed is one page type's own and grows with that type and not with the corpus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the index names is answered as a path rather than as the entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every path the index files is answered by walking the one tree those paths are filed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer is the corpus itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing else here walks.",
     },
     {
       invariantKind: "departure",

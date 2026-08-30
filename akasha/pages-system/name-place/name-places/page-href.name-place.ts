@@ -9,13 +9,19 @@ export const pageHref = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An address is built of the page type's slug and the page's own, each named elsewhere.",
+      statement: "An address is built of the page type's slug and the page's own.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The page's part carries a tail taken from its id, which parts two pages of one slug without either being renamed.",
+      statement: "Each is named elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page's part carries a tail taken from its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tail parts two pages of one slug without either being renamed.",
     },
     {
       invariantKind: "departure",

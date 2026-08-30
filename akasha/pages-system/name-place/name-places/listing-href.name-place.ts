@@ -9,11 +9,19 @@ export const listingHref = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An address is built of the page type's plural, named elsewhere.",
+      statement: "An address is built of the page type's plural.",
     },
     {
       invariantKind: "departure",
-      statement: "A listing closes with a slash, which parts it from the page of the same name.",
+      statement: "The plural is named elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing closes with a slash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slash parts it from the page of the same name.",
     },
   ],
 } as const satisfies NamePlace

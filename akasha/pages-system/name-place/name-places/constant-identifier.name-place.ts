@@ -13,12 +13,12 @@ export const constantIdentifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A regular expression, a set of fixed words, and a plain string are alike data.",
+      statement: "A regular expression and a set of fixed words and a plain string are alike data.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A name bound to a function, or to a thing the file acts on, is not data wherever it stands.",
+        "A name bound to a function or to a thing the file acts on is not data wherever it stands.",
     },
   ],
 } as const satisfies NamePlace

@@ -10,17 +10,24 @@ export const foreignName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is its owner's where renaming it would break what reads it outside akasha, and that is the whole test.",
+        "A name is its owner's where renaming it would break what reads it outside akasha.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An owner is a tool looking for the name, a language spelling it, an engine loading it, or a generator writing it.",
+        "An owner is a tool looking for the name or a language spelling it or an engine loading it or a generator writing it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name its owner spells is judged by no format here, and akasha never states that format, which is the owner's to change.",
+      statement: "A name its owner spells is judged by no format here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Akasha never states that format.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That format is the owner's to change.",
     },
     {
       invariantKind: "departure",

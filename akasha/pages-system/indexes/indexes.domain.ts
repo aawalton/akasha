@@ -23,7 +23,11 @@ export const indexes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is written under `.git/data`, which git does not track.",
+      statement: "The index is written under `.git/data`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git does not track `.git/data`.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +39,11 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An index file's name closes with `.jsonl`, and the file carries one answer to a line.",
+      statement: "An index file's name closes with `.jsonl`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file carries one answer to a line.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +63,7 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "A question the index answers is one file read, never a walk.",
+      statement: "A question the index answers is one file read rather than a walk.",
     },
     {
       invariantKind: "absence",

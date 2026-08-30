@@ -52,7 +52,11 @@ export const namePlace = {
     {
       invariantKind: "departure",
       statement:
-        "A place stating no format holds no name at all, or holds one whose owner stands outside akasha, or holds a name built of parts each named elsewhere, and says which in its own invariants.",
+        "A place stating no format holds no name at all or holds one whose owner stands outside akasha or holds a name built of parts each named elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A place stating no format says which in its own invariants.",
     },
     {
       invariantKind: "gap",

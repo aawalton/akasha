@@ -9,7 +9,7 @@ export const functionIdentifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A function is named for what it answers, never for how it works it out.",
+      statement: "A function is named for what it answers rather than for how it works it out.",
     },
   ],
 } as const satisfies NamePlace

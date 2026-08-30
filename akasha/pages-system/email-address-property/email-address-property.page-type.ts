@@ -17,7 +17,11 @@ export const emailAddressProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "An address holds one `@`, dividing the mailbox from the domain it stands at.",
+      statement: "An address holds one `@`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The `@` divides the mailbox from the domain it stands at.",
     },
     {
       invariantKind: "departure",

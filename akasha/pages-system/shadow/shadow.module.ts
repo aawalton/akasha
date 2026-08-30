@@ -11,7 +11,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A check judging a change reads the index the change leaves, not the index the last commit left.",
+        "A check judging a change reads the index the change leaves rather than the index the last commit left.",
     },
     {
       invariantKind: "departure",
@@ -25,17 +25,20 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A page's body is read from the change where the change carries it and from the tree where it does not, which are the two places a landing reads.",
+        "A page's body is read from the change where the change carries it and from the tree where it does not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit leaves everything as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "There the committed index is the answer worked out from nothing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An audit leaves everything as it stands, and there the committed index is the answer, worked out from nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change answering `before` and `after` with one reader is a change nothing moved in, and that is how an audit is known here.",
+        "A change answering `before` and `after` with one reader is a change nothing moved in.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +47,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "One change is one shadow, held against the change itself.",
+      statement: "One change is one shadow held against the change itself.",
     },
     {
       invariantKind: "departure",

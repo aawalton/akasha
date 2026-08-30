@@ -18,7 +18,8 @@ export const generatorKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A generated value is worked out when its page is created, never written by hand.",
+      statement:
+        "A generated value is worked out when its page is created rather than written by hand.",
     },
     {
       invariantKind: "departure",

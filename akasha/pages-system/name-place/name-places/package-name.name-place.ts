@@ -9,12 +9,15 @@ export const packageName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A package name is one slug, or a scope and a slug parted by a slash.",
+      statement: "A package name is one slug or a scope and a slug parted by a slash.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A scope opens with an at sign, which is the registry's mark rather than a part of either name.",
+      statement: "A scope opens with an at sign.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The at sign is the registry's mark rather than a part of either name.",
     },
   ],
 } as const satisfies NamePlace

@@ -11,7 +11,7 @@ export const indexing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An index file is replaced whole, never appended to.",
+      statement: "An index file is replaced whole rather than appended to.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const indexing = {
     },
     {
       invariantKind: "gap",
-      statement: "A page the index cannot read is reported, never answered as empty.",
+      statement: "A page the index cannot read is reported rather than answered as empty.",
     },
   ],
 } as const satisfies Module

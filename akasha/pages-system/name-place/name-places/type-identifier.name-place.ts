@@ -9,12 +9,11 @@ export const typeIdentifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A type is named for what it holds, never for the file it stands in.",
+      statement: "A type is named for what it holds rather than for the file it stands in.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A type and the value of the same name are parted by their case alone, which is why the two formats differ.",
+      statement: "A type and the value of the same name are parted by their case alone.",
     },
   ],
 } as const satisfies NamePlace

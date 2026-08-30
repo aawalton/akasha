@@ -9,8 +9,11 @@ export const fileName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file's name is built of parts parted by dots, each part a name stated elsewhere.",
+      statement: "A file's name is built of parts parted by dots.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each part is a name stated elsewhere.",
     },
     {
       invariantKind: "departure",
@@ -22,8 +25,11 @@ export const fileName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A part standing after those two is the file's role, and a file naming no role is the page itself.",
+      statement: "A part standing after those two is the file's role.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file naming no role is the page itself.",
     },
   ],
 } as const satisfies NamePlace

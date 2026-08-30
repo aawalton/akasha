@@ -14,7 +14,7 @@ export const processProperty = {
     {
       invariantKind: "departure",
       statement:
-        "A process is its pid and the start time the kernel fixed at exec, joined by a hyphen.",
+        "A process is its pid and the start time the kernel fixed at exec joined by a hyphen.",
     },
     {
       invariantKind: "departure",

@@ -13,8 +13,11 @@ export const routeSegment = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A segment naming a file the route serves carries that file's extension, and the part before the dot is the name.",
+      statement: "A segment naming a file the route serves carries that file's extension.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The part before the dot is the name.",
     },
   ],
 } as const satisfies NamePlace

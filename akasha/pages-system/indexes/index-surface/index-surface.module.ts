@@ -12,7 +12,7 @@ export const indexSurface = {
     {
       invariantKind: "departure",
       statement:
-        "An index is read by three operations and no more — whether a path stands, what a directory lists, and the lines an entry file holds.",
+        "An index is read by three operations and no more — whether a path stands and what a directory lists and the lines an entry file holds.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +28,11 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry file emptied by the change does not stand, and a directory left with nothing standing under it does not list.",
+      statement: "An entry file emptied by the change does not stand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory left with nothing standing under it does not list.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +46,7 @@ export const indexSurface = {
     {
       invariantKind: "absence",
       statement:
-        "Nothing here reads a page body. A page's own file stands in the repository, not in the index.",
+        "Nothing here reads a page body. A page's own file stands in the repository rather than in the index.",
     },
   ],
 } as const satisfies Module
