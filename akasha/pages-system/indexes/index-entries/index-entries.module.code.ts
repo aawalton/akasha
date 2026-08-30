@@ -147,14 +147,15 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   const found = new Map<string, Schema>()
   for (const one of reading.listing(dir)) {
     const line = reading.lines(join(dir, one.name))[0]
-    if (line !== undefined) {
-      const said = JSON.parse(line) as Partial<Schema>
-      found.set(one.name.slice(0, -ENDING.length), {
-        pageTypeSlug: said.pageTypeSlug ?? "",
-        targetPageTypeSlug: said.targetPageTypeSlug ?? null,
-        unique: said.unique ?? null,
-      })
-    }
+    if (line === undefined) continue
+    const said: unknown = JSON.parse(line)
+    if (said === null || typeof said !== "object" || Array.isArray(said)) continue
+    const held = said as Value
+    found.set(one.name.slice(0, -ENDING.length), {
+      pageTypeSlug: textAt(held, "pageTypeSlug") ?? "",
+      targetPageTypeSlug: textAt(held, "targetPageTypeSlug"),
+      unique: textAt(held, "unique"),
+    })
   }
   return found
 }
