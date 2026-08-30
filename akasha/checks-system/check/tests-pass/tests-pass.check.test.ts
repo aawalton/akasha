@@ -4,8 +4,7 @@ import { dirname, join } from "node:path"
 import type { Ran } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { RUNNING } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { onDisk } from "../../checking/checking.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import { gone, leaving, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, tailOf, testsPass } from "./tests-pass.check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
@@ -39,20 +38,6 @@ function repo(files: Record<string, string>): string {
     writeFileSync(marked, `${JSON.stringify({ path: name })}\n`)
   }
   return root
-}
-
-function leaving(
-  root: string,
-  changed: readonly string[],
-  at: (path: string) => Uint8Array | null = onDisk(root)
-): Leaving {
-  return { root, changed, at, was: at }
-}
-
-function proposing(root: string, path: string, body: string): (at: string) => Uint8Array | null {
-  const disk = onDisk(root)
-  return (at: string): Uint8Array | null =>
-    at === path ? new TextEncoder().encode(body) : disk(at)
 }
 
 function withoutGuard<T>(run: () => T): T {
@@ -104,7 +89,6 @@ test("a test file the change brings is named, though nothing stands at it on dis
 
 test("a test file the change takes away is named by nothing", () => {
   const root = repo({ "akasha/one.module.test.ts": PASSES })
-  const gone = (): null => null
   expect(namedIn(leaving(root, ["akasha/one.module.code.ts"], gone))).toEqual([])
 })
 

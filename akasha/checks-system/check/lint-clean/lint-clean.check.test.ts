@@ -3,8 +3,7 @@ import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } fro
 import { dirname, join } from "node:path"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { onDisk } from "../../checking/checking.module.code.ts"
-import type { Leaving } from "../../judging/judging.module.code.ts"
+import { gone, leaving, proposing } from "../../check-scratch/check-scratch.module.code.ts"
 import { carriedIn, judgedOf, lintClean, outsideOf, reasonOf } from "./lint-clean.check.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
@@ -39,20 +38,6 @@ function repo(files: Record<string, string>, linter = true): string {
   return root
 }
 
-function leaving(
-  root: string,
-  changed: readonly string[],
-  at: (path: string) => Uint8Array | null = onDisk(root)
-): Leaving {
-  return { root, changed, at, was: at }
-}
-
-function proposing(root: string, path: string, body: string): (at: string) => Uint8Array | null {
-  const disk = onDisk(root)
-  return (at: string): Uint8Array | null =>
-    at === path ? new TextEncoder().encode(body) : disk(at)
-}
-
 test("the files judged are the typescript ones the change carries, said once and in order", () => {
   const root = repo({ "akasha/two.ts": CLEAN, "akasha/one.ts": CLEAN, "akasha/held.md": "held" })
   const changed = ["akasha/two.ts", "akasha/one.ts", "akasha/two.ts", "akasha/held.md"]
@@ -61,7 +46,6 @@ test("the files judged are the typescript ones the change carries, said once and
 
 test("a file the change takes away is judged by nothing", () => {
   const root = repo({ "akasha/one.ts": CLEAN })
-  const gone = (): null => null
   expect(carriedIn(leaving(root, ["akasha/one.ts"], gone))).toEqual([])
 })
 

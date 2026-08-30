@@ -4,7 +4,8 @@ export const checkScratch = {
   id: "01a04fd0-8a9a-7915-a355-32d5432a7f11",
   pageTypeSlug: "module",
   slug: "check-scratch",
-  definition: "an index stood up in a scratch root for a check's test to judge against",
+  definition:
+    "what a check's test judges: an index stood up in a scratch root, and the change read against it",
   code: "ts",
   invariants: [
     {
@@ -26,6 +27,11 @@ export const checkScratch = {
       invariantKind: "departure",
       statement:
         "A scratch index says its schema, because identity is filed only under the properties a `unique` names, and a reading naming none refuses rather than answering empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change is read as the bodies it proposes, falling back to what stands on disk, because a check judging the disk would judge what the change has not done yet.",
     },
     {
       invariantKind: "absence",

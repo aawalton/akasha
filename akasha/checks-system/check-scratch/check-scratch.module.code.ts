@@ -5,6 +5,8 @@ import { indexPath } from "../../pages-system/indexes/index/index-path/index-pat
 import { indexRelation } from "../../pages-system/indexes/index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../../pages-system/indexes/index/index-schema/index-schema.index.ts"
 import { indexAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
+import { onDisk } from "../checking/checking.module.code.ts"
 import type { Leaving } from "../judging/judging.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName
@@ -106,4 +108,25 @@ export function landing(
     at: (path) => files[path] ?? null,
     was: (path) => before[path] ?? NO_BYTES,
   }
+}
+
+export function gone(): null {
+  return null
+}
+
+export function leaving(
+  root: string,
+  changed: readonly string[],
+  at: (path: string) => Uint8Array | null = onDisk(root)
+): Leaving {
+  return { root, changed, at, was: at }
+}
+
+export function proposing(
+  root: string,
+  path: string,
+  body: string
+): (at: string) => Uint8Array | null {
+  const disk = onDisk(root)
+  return (at: string): Uint8Array | null => (at === path ? bytesOf(body) : disk(at))
 }
