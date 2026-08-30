@@ -1,14 +1,17 @@
 import { basename } from "node:path"
 
-const NAMED = /^(.+)\.([a-z0-9-]+)\.ts$/
+const NAMED = /^(.+)\.([a-z0-9-]+)\.([a-z0-9]+)$/
 
 const TS = ".ts"
+
+const HELD_TS = "ts"
 
 const UNCOMMITTED = "uncommitted"
 
 export type Named = {
   readonly stem: string
   readonly tail: string
+  readonly held: string
 }
 
 export type Kind = "page" | "property" | "uncommitted" | "stray"
@@ -27,13 +30,16 @@ export function namedIn(path: string): Named | null {
   if (said === null) return null
   const stem = said[1]
   const tail = said[2]
-  if (stem === undefined || tail === undefined) return null
-  return { stem, tail }
+  const held = said[3]
+  if (stem === undefined || tail === undefined || held === undefined) return null
+  return { stem, tail, held }
 }
 
 export function pageNamed(path: string, pageTypes: ReadonlySet<string>): boolean {
   const said = namedIn(path)
-  return said !== null && said.tail !== UNCOMMITTED && pageTypes.has(said.tail)
+  return (
+    said !== null && said.held === HELD_TS && said.tail !== UNCOMMITTED && pageTypes.has(said.tail)
+  )
 }
 
 export function uncommittedNamed(path: string): boolean {
@@ -46,7 +52,7 @@ export function besideAt(path: string, propertySlug: string, held: string): stri
 }
 
 export function uncommittedAt(path: string): string | null {
-  return besideAt(path, UNCOMMITTED, TS.slice(1))
+  return besideAt(path, UNCOMMITTED, HELD_TS)
 }
 
 export function heldIn(
@@ -68,7 +74,7 @@ export function heldIn(
       propertySlug: null,
     }
   }
-  if (pageTypes.has(said.tail)) {
+  if (said.held === HELD_TS && pageTypes.has(said.tail)) {
     return {
       path,
       kind: "page",

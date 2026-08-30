@@ -12,10 +12,13 @@ const PAGE_TYPES = new Set<string>(["page-type", "module", "check", "domain"])
 
 const FILE_PROPERTIES = new Set<string>(["code", "test"])
 
-test("a name is read as a stem and the tail before `.ts`", () => {
+const PORTRAIT = new Set<string>(["portrait"])
+
+test("a name is read as a stem, the tail after it, and what the file holds", () => {
   expect(namedIn("akasha/one/file-length.check.ts")).toEqual({
     stem: "file-length",
     tail: "check",
+    held: "ts",
   })
 })
 
@@ -23,10 +26,19 @@ test("a stem carrying a dot stays the stem, so a property file reads as its page
   expect(namedIn("akasha/one/file-length.check.code.ts")).toEqual({
     stem: "file-length.check",
     tail: "code",
+    held: "ts",
   })
 })
 
-test("a name that is not a `.ts` file answers nothing", () => {
+test("what a file holds is read whatever it is, so a property need not be TypeScript", () => {
+  expect(namedIn("akasha/one/sophia.persona.portrait.md")).toEqual({
+    stem: "sophia.persona",
+    tail: "portrait",
+    held: "md",
+  })
+})
+
+test("a name of fewer than three dotted parts answers nothing", () => {
   expect(namedIn("akasha/one/notes.txt")).toBeNull()
 })
 
@@ -78,6 +90,22 @@ test("a file that is not `.ts` at all is a stray", () => {
   expect(heldIn("akasha/one/notes.txt", PAGE_TYPES, FILE_PROPERTIES).kind).toBe("stray")
 })
 
+test("a property file that is not TypeScript is held as a property of its page", () => {
+  expect(heldIn("akasha/one/sophia.persona.portrait.md", PAGE_TYPES, PORTRAIT)).toEqual({
+    path: "akasha/one/sophia.persona.portrait.md",
+    kind: "property",
+    slug: null,
+    pageTypeSlug: null,
+    page: "sophia.persona",
+    propertySlug: "portrait",
+  })
+})
+
+test("a page is a TypeScript file, so a page type tail held as anything else is no page", () => {
+  expect(pageNamed("akasha/one/file-length.check.md", PAGE_TYPES)).toBe(false)
+  expect(heldIn("akasha/one/file-length.check.md", PAGE_TYPES, FILE_PROPERTIES).kind).toBe("stray")
+})
+
 test("a property's file stands beside its page, named for the property and what it holds", () => {
   expect(besideAt("akasha/one/file-length.check.ts", "code", "ts")).toBe(
     "akasha/one/file-length.check.code.ts"
@@ -102,6 +130,17 @@ test("what besideAt puts together, heldIn takes apart again", () => {
   expect(said.kind).toBe("property")
   expect(said.propertySlug).toBe("code")
   expect(said.page).toBe("file-length.check")
+})
+
+test("what besideAt puts together in another kind of file, heldIn takes apart too", () => {
+  const page = "akasha/one/sophia.persona.ts"
+  const beside = besideAt(page, "portrait", "md")
+  if (beside === null) throw new Error("expected a name beside the page")
+  expect(beside).toBe("akasha/one/sophia.persona.portrait.md")
+  const said = heldIn(beside, PAGE_TYPES, PORTRAIT)
+  expect(said.kind).toBe("property")
+  expect(said.propertySlug).toBe("portrait")
+  expect(said.page).toBe("sophia.persona")
 })
 
 test("a file tailed `uncommitted` is held as its page's uncommitted values, not as a property", () => {

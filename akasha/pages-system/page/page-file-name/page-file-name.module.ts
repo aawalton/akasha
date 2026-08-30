@@ -11,12 +11,22 @@ export const pageFileName = {
     {
       invariantKind: "departure",
       statement:
-        "A name is read as its last two dotted parts, so a stem carrying a dot stays the stem and the part before `.ts` is the tail.",
+        "A name is read as its last three dotted parts, so a stem carrying a dot stays the stem, and the tail and what the file holds follow it.",
     },
     {
       invariantKind: "departure",
       statement:
         "Whether a tail names a page type or a file property is answered against the sets handed in, never from the name alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is a TypeScript file, so a name tailed by a page type but holding anything else is no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a property's file holds is read as it is written, so a property stands in whatever kind of file suits it.",
     },
     {
       invariantKind: "departure",
