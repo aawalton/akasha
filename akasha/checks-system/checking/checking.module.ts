@@ -14,18 +14,24 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The checks are found in the index, and finding them costs nothing the corpus grows.",
+      statement: "The checks are found in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Finding them costs nothing the corpus grows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A missing index refuses rather than reading as an index naming nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index naming no check refuses the change it would leave unjudged.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A missing index refuses rather than reading as an index naming nothing, and an index naming no check refuses the change it would leave unjudged.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A check is run once over the whole change it was given, and never over the corpus.",
+        "A check is run once over the whole change it was given rather than over the corpus.",
     },
     {
       invariantKind: "departure",
@@ -37,23 +43,37 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A check that threw refuses the change it could not judge, and the refusal names the check's own page.",
+      statement: "A check that threw refuses the change it could not judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the check's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away is handed to every check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change takes away reads there as a path whose body is nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Judging each standing body in turn is a helper a check reaches for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check judging a path the change takes away walks the change itself.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path the change takes away is handed to every check, and reads there as a path whose body is nothing.",
+        "Audit is the same run over every path the index files including page and property files alike.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Judging each standing body in turn is a helper a check reaches for, and a check judging a path the change takes away walks the change itself.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Audit is the same run over every path the index files, page and property file alike, taken from the index rather than worked out here from the property names a file is held under.",
+        "Every path is taken from the index rather than worked out here from the property names a file is held under.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +87,7 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "How a check runs over each file, and how a text is read out of a body, are held here rather than written again in every check.",
+        "How a check runs over each file and how a text is read out of a body are held here rather than written again in every check.",
     },
   ],
 } as const satisfies Module
