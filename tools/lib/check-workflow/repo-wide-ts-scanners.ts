@@ -47,10 +47,6 @@ export const ALLOWLISTED_REPO_WIDE_TS_SCANNERS: ReadonlyMap<string, string> = ne
     "Same population and same measurement as `rbac-check-cluster-resource-names` above: it runs every discovered `synth.ts` and classifies the kinds emitted, an unmodeled kind or a missing create+patch grant arriving in a synth source that can sit in any package.",
   ],
   [
-    "tmpfs-scratch",
-    "Walks every TS file to detect scratch creation under tmpfs; a scoped population would be blind to exactly the new sites it exists to catch.",
-  ],
-  [
     "syntax-bundle",
     "Coalesces the pure-AST scanners of SYNTAX_SCANNER_ENTRIES (../lib/scanner-registry) over the universal TS/TSX population — repo-wide by construction.",
   ],
