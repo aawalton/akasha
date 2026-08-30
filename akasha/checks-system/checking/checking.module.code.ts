@@ -11,7 +11,7 @@ import {
   besideAt,
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Judging, Leaving } from "../judging/judging.module.code.ts"
 
 export type Body = {
@@ -177,12 +177,11 @@ export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
     over: (leaving) => {
-      const cast = shadowFor(leaving)
+      const shadow = shadowAsked(leaving)
       const said: Judged[] = []
       for (const one of every) {
         try {
-          if ("refused" in cast) throw new Error(cast.refused)
-          said.push(...one.run(leaving, cast.shadow))
+          said.push(...one.run(leaving, shadow))
         } catch (thrown) {
           said.push(threw(one, thrown))
         }

@@ -70,6 +70,25 @@ function castOver(leaving: Leaving): Cast {
   }
 }
 
+export function shadowAsked(leaving: Leaving): Shadow {
+  let held: Shadow | null = null
+  const worked = (): Shadow => {
+    if (held !== null) return held
+    const found = shadowFor(leaving)
+    if ("refused" in found) throw new Error(found.refused)
+    held = found.shadow
+    return held
+  }
+  return {
+    reading: {
+      holds: (at) => worked().reading.holds(at),
+      listing: (at) => worked().reading.listing(at),
+      lines: (at) => worked().reading.lines(at),
+    },
+    pageOf: (path) => worked().pageOf(path),
+  }
+}
+
 const cast = new WeakMap<Leaving, Cast>()
 
 export function shadowFor(leaving: Leaving): Cast {

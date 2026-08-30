@@ -54,6 +54,11 @@ export const shadow = {
         "A shadow over a change is asked for one way, so no caller chooses between working one out and taking the one already worked out.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A shadow handed to something that may not read it is worked out when it is first read, so a change nothing asks about costs nothing and is refused by nothing.",
+    },
+    {
       invariantKind: "absence",
       statement:
         "Nothing is copied and no scratch directory is made, so there is nothing to sweep and nothing to leak.",
