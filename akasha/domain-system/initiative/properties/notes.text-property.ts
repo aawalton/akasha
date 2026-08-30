@@ -6,6 +6,7 @@ export const notes = {
   id: "01a04f23-d2d9-7edc-b47f-5f111ed8a0af",
   pageTypeSlug: "text-property",
   slug: "notes",
+  propertySlug: "notes",
   definition: "what the persona worked out about the order of the work, kept where the work is",
   max: 5000,
   nameFormatSlug: null,

@@ -6,6 +6,7 @@ export const pluralSlug = {
   id: "01a04fd9-50dd-74e4-86cd-6f72698418e2",
   pageTypeSlug: "text-property",
   slug: "plural-slug",
+  propertySlug: "plural-slug",
   definition: "the slug standing for many pages of a page type",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",

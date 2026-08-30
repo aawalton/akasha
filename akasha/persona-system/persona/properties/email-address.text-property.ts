@@ -6,6 +6,7 @@ export const emailAddress = {
   id: "01a05362-e8f6-79ac-a787-5d06f4d26808",
   pageTypeSlug: "text-property",
   slug: "email-address",
+  propertySlug: "email-address",
   definition: "the address a persona sends and receives mail at",
   max: 100,
   nameFormatSlug: null,

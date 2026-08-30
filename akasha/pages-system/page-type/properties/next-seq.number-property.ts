@@ -6,6 +6,7 @@ export const nextSeq = {
   id: "01a05222-9730-75f4-b91e-43403b7dff9b",
   pageTypeSlug: "number-property",
   slug: "next-seq",
+  propertySlug: "next-seq",
   definition: "the number the next page of this page type is given",
   max: null,
   invariants: [

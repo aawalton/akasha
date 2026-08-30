@@ -6,6 +6,7 @@ export const mortal = {
   id: "01a04db0-5818-7000-9db8-d72ace0c1877",
   pageTypeSlug: "boolean-property",
   slug: "mortal",
+  propertySlug: "mortal",
   definition: "whether a page type's pages are expected to be deleted",
   invariants: [
     {

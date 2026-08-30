@@ -6,6 +6,7 @@ export const mechanical = {
   id: "01a04e7f-be3c-78a3-b8f3-7153c8e9e7b6",
   pageTypeSlug: "boolean-property",
   slug: "mechanical",
+  propertySlug: "mechanical",
   definition: "whether a command's changes are the machine's work rather than the caller's",
   invariants: [
     {

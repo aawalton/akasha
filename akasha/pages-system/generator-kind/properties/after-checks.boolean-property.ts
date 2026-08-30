@@ -6,6 +6,7 @@ export const afterChecks = {
   id: "01a05031-3a74-7ba8-849b-751fec68738d",
   pageTypeSlug: "boolean-property",
   slug: "after-checks",
+  propertySlug: "after-checks",
   definition: "whether a value is worked out after the checks pass rather than before them",
   invariants: [
     {

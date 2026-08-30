@@ -7,6 +7,7 @@ export const targetPageTypeSlug = {
   id: "01a04a08-fcf3-7001-9f43-3bfdc57c3676",
   pageTypeSlug: "relation-property",
   slug: "target-page-type-slug",
+  propertySlug: "target-page-type-slug",
   definition: "the page type this relation's value names, or a page type extending it",
   targetPageTypeSlug: "page-type/page-type",
 } as const satisfies RelationProperty

@@ -6,6 +6,7 @@ export const helpNotes = {
   id: "01a0503a-e9d3-7871-a992-1d4e1e22d792",
   pageTypeSlug: "text-property",
   slug: "help-notes",
+  propertySlug: "help-notes",
   definition: "one line a command's help says past the list of what it takes",
   max: 200,
   nameFormatSlug: null,

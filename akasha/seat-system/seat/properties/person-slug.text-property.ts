@@ -6,6 +6,7 @@ export const personSlug = {
   id: "01a05390-11db-7a03-ba9c-c7c30248aee3",
   pageTypeSlug: "text-property",
   slug: "person-slug",
+  propertySlug: "person-slug",
   definition: "the person whose seat this is",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",

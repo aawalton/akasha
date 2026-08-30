@@ -6,6 +6,7 @@ export const generator = {
   id: "01a04f17-5b7b-7835-87db-af7b36e912b5",
   pageTypeSlug: "relation-property",
   slug: "generator",
+  propertySlug: "generator",
   definition: "how this property's value is worked out when its page is created",
   targetPageTypeSlug: "page-type/generator-kind",
   invariants: [

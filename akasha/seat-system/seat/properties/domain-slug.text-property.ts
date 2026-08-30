@@ -6,6 +6,7 @@ export const domainSlug = {
   id: "01a05371-8394-75c5-9866-beca032de307",
   pageTypeSlug: "text-property",
   slug: "domain-slug",
+  propertySlug: "domain-slug",
   definition: "the domain whose work a seat answers to",
   max: 100,
   nameFormatSlug: null,

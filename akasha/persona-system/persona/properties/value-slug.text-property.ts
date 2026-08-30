@@ -6,6 +6,7 @@ export const valueSlug = {
   id: "01a0534e-c7e0-74c3-9eea-499d48af54db",
   pageTypeSlug: "text-property",
   slug: "value-slug",
+  propertySlug: "value-slug",
   definition: "the value a persona stands for",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",

@@ -6,6 +6,7 @@ export const invariantKind = {
   id: "01a04d66-767b-740d-a958-1f84e5858ad0",
   pageTypeSlug: "relation-property",
   slug: "invariant-kind",
+  propertySlug: "invariant-kind",
   definition: "which sort of invariant one entry is",
   targetPageTypeSlug: "page-type/invariant-kind",
   invariants: [

@@ -14,6 +14,7 @@ export const taking = {
   id: "01a05027-c468-74f9-99df-98fc7bd0c372",
   pageTypeSlug: "record-property",
   slug: "taking",
+  propertySlug: "taking",
   definition: "what a command takes on the command line, each with what it is for",
   properties: [
     { pagePropertySlug: "said", required: true, many: false },

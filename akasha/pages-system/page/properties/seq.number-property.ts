@@ -6,6 +6,7 @@ export const seq = {
   id: "01a05222-972f-72b9-b24d-454c84016251",
   pageTypeSlug: "number-property",
   slug: "seq",
+  propertySlug: "seq",
   definition: "the page's place in the order its own page type has counted",
   max: null,
   unique: "page-type",

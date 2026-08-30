@@ -6,6 +6,7 @@ export const roleSlug = {
   id: "01a05035-2609-769e-8bce-5f13a7ed3df4",
   pageTypeSlug: "text-property",
   slug: "role-slug",
+  propertySlug: "role-slug",
   definition: "the role a persona works in, or a seat is answerable for",
   max: 100,
   nameFormatSlug: "name-format/lower-kebab-case",

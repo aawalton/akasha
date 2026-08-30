@@ -6,5 +6,6 @@ export const testFixtures = {
   id: "01a04ed9-bf7f-7000-8467-46048a3d88f4",
   pageTypeSlug: "file-property",
   slug: "test-fixtures",
+  propertySlug: "test-fixtures",
   definition: "what a page's test is set up with",
 } as const satisfies FileProperty

@@ -7,6 +7,7 @@ export const parentSlug = {
   id: "01a04e58-5735-7668-9aee-b2da5c7b346a",
   pageTypeSlug: "relation-property",
   slug: "parent-slug",
+  propertySlug: "parent-slug",
   definition: "the initiative an initiative sits under",
   targetPageTypeSlug: "page-type/initiative",
   invariants: [

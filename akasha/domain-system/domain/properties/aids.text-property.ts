@@ -9,6 +9,7 @@ export const aids = {
   id: "01a049c9-3a2c-7044-a7e7-234356b9df18",
   pageTypeSlug: "text-property",
   slug: "aids",
+  propertySlug: "aids",
   definition: "the rulings on acts a reader is about to take, each for or against",
   max: 100,
   nameFormatSlug: null,
