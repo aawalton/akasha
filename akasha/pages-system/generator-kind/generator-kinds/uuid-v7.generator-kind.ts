@@ -5,4 +5,5 @@ export const uuidV7 = {
   pageTypeSlug: "generator-kind",
   slug: "uuid-v7",
   definition: "a uuid version 7, minted at the moment the page is created",
+  afterChecks: false,
 } as const satisfies GeneratorKind

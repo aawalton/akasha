@@ -5,4 +5,5 @@ export const nextSeq = {
   pageTypeSlug: "generator-kind",
   slug: "next-seq",
   definition: "the next number from the counter its page type carries",
+  afterChecks: true,
 } as const satisfies GeneratorKind
