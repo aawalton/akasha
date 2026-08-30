@@ -11,11 +11,11 @@ export const indexRelation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An edge file is found by target id, then source property, then source page id.",
+      statement: "An edge file is found by target id then source property then source page id.",
     },
     {
       invariantKind: "departure",
-      statement: "An edge is filed under the target's id, whichever identifier the source wrote.",
+      statement: "An edge is filed under the target's id whichever identifier the source wrote.",
     },
     {
       invariantKind: "departure",
@@ -32,11 +32,16 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
-      statement: "A relation nested in a record files an edge from its page, not from its entry.",
+      statement:
+        "A relation nested in a record files an edge from its page rather than from its entry.",
     },
     {
       invariantKind: "departure",
-      statement: "A relation nested one record deep is reached, and one nested deeper is not.",
+      statement: "A relation nested one record deep is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relation nested deeper than one record is not reached.",
     },
   ],
 } as const satisfies Index
