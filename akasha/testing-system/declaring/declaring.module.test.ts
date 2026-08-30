@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { declaringUnder } from "./declaring.module.code.ts"
 
 test("each page is named for the slug and the page type it states", () => {
-  expect(Object.keys(declaringUnder("akasha")).sort()).toEqual([
+  expect(Object.keys(declaringUnder("akasha")).toSorted()).toEqual([
     "akasha/generator-kind.page-type.ts",
     "akasha/id.text-property.ts",
     "akasha/slug.text-property.ts",
