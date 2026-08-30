@@ -1,0 +1,183 @@
+import { afterAll, expect, test } from "bun:test"
+import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { stampKept } from "../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
+import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
+import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { edgesInto } from "./graph-asking.module.code.ts"
+
+const REPO_AT = rootOf(import.meta.dir)
+
+const GRAPH_EDGE = "graph-edge"
+
+const GRAPH_ATTRIBUTE = "graph-attribute"
+
+const INDEX = "index"
+
+const IMPORT = "import"
+
+const RELATION = "relation"
+
+const PROPERTY = "property"
+
+const PART = "part-slugs"
+
+const NAMED = "akasha/code-system/module/module.page-type.ts"
+
+const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
+
+const EXTENDS = "extends-slug"
+
+const HELD = "held"
+
+const TREE = "akasha"
+
+const PREFIX = "graph-asking-"
+
+const HELD_INDEX = "held-index"
+
+const HELD_RELATION = "held-relation"
+
+const HELD_IMPORT = "held-import"
+
+const EDGE_ID = "01a04ff4-0000-7000-8000-00000000000e"
+
+const INDEX_ID = "01a04ff4-0000-7000-8000-00000000000d"
+
+const TARGET_ID = "01a04ff4-0000-7000-8000-00000000000a"
+
+const SOURCE_ID = "01a04ff4-0000-7000-8000-00000000000b"
+
+const EDGE_AT = "akasha/held/held.graph-edge.ts"
+
+const INDEX_AT = "akasha/held/held-index.index.ts"
+
+const TARGET_AT = "akasha/held/target.page.ts"
+
+const SOURCE_AT = "akasha/held/source.page.ts"
+
+const INVENTED = "an index a test invented so that no name could be assumed"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function paged(root: string, at: string, held: Record<string, unknown>): void {
+  put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
+}
+
+function filed(root: string, at: string, said: Record<string, string>): void {
+  put(root, `.git/data/index/${at}`, `${JSON.stringify(said)}\n`)
+}
+
+function indexed(root: string, indexName: string): void {
+  paged(root, INDEX_AT, {
+    id: INDEX_ID,
+    pageTypeSlug: INDEX,
+    slug: HELD_INDEX,
+    definition: INVENTED,
+    indexName,
+  })
+  filed(root, `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
+}
+
+function edged(root: string, kind: string, held: Record<string, unknown>): void {
+  paged(root, EDGE_AT, {
+    id: EDGE_ID,
+    pageTypeSlug: GRAPH_EDGE,
+    slug: kind,
+    definition: "an edge kind a test invented",
+    indexSlug: `${INDEX}/${HELD_INDEX}`,
+    ...held,
+  })
+  filed(root, `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
+}
+
+function relationWorld(filing: boolean): string {
+  const root = scratch.rootFor(PREFIX)
+  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] })
+  indexed(root, HELD_RELATION)
+  filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
+  if (filing) {
+    filed(root, `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`, {
+      path: SOURCE_AT,
+    })
+  }
+  return root
+}
+
+function importWorld(indexName: string): string {
+  const root = scratch.rootFor(PREFIX)
+  gitIn(root, ["init", "--quiet"])
+  gitIn(root, ["config", "user.email", HELD])
+  gitIn(root, ["config", "user.name", HELD])
+  put(root, HELD, `${HELD}\n`)
+  gitIn(root, ["add", "--", HELD])
+  gitIn(root, ["commit", "--quiet", "-m", HELD, "--", HELD])
+  stampKept(indexIn(root), {
+    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
+    tree: TREE,
+    settled: [],
+  })
+  edged(root, IMPORT, {})
+  indexed(root, indexName)
+  filed(root, `${IMPORT}/path/${TARGET_AT}.jsonl`, { path: SOURCE_AT })
+  return root
+}
+
+test("an empty kind list answers nothing", () => {
+  expect(edgesInto(REPO_AT, NAMED, [])).toEqual([])
+})
+
+test("the folder a relation is read from is the one the edge kind's index page names", () => {
+  const root = relationWorld(true)
+
+  expect(edgesInto(root, TARGET_AT, [RELATION])).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
+})
+
+test("a file is answered with every file importing it", () => {
+  const root = importWorld(IMPORT)
+
+  expect(edgesInto(root, TARGET_AT, [IMPORT])).toEqual([
+    { kind: IMPORT, from: SOURCE_AT, to: TARGET_AT, attrs: {} },
+  ])
+})
+
+test("an index the answer needs, gone, is refused rather than answered with nothing", () => {
+  const root = relationWorld(false)
+
+  expect(() => edgesInto(root, TARGET_AT, [RELATION])).toThrow(
+    new RegExp(`${HELD_RELATION}.*could not be answered`)
+  )
+})
+
+test("an edge kind naming a folder that is not there is refused, though another folder stands", () => {
+  const root = importWorld(HELD_IMPORT)
+
+  expect(() => edgesInto(root, TARGET_AT, [IMPORT])).toThrow(
+    new RegExp(`${HELD_IMPORT}.*could not be answered`)
+  )
+})
+
+test("a kind no edge page carries is refused rather than answered with nothing", () => {
+  const root = relationWorld(true)
+
+  expect(() => edgesInto(root, TARGET_AT, [HELD])).toThrow(/`held`.*could not be answered/)
+})
+
+test("a page the corpus names is answered with every page naming it, and through what", () => {
+  const found = edgesInto(REPO_AT, NAMED, [RELATION])
+
+  expect(found.length).toBeGreaterThan(0)
+  expect(found.every((one) => one.kind === RELATION && one.to === NAMED)).toBe(true)
+  expect(found.every((one) => typeof one.attrs[PROPERTY] === "string")).toBe(true)
+  expect(found).toContainEqual({
+    kind: RELATION,
+    from: NAMER,
+    to: NAMED,
+    attrs: { [PROPERTY]: EXTENDS },
+  })
+})
