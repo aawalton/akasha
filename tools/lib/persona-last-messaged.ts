@@ -2,7 +2,6 @@
 import { patchState } from "./page-write.ts"
 import { matchPersonaForAgent } from "./persona-match.ts"
 import { listPersonaTargets } from "./persona-wake-slugs.ts"
-import { followWallpaperByPersonaId } from "./persona-wallpaper-follow.ts"
 import { isAlanAuthoredPrompt } from "./prompt-shape.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import { seatRecord } from "./seat-facts.ts"
@@ -45,11 +44,10 @@ export function stampsForPrompt(prompt: string | undefined): boolean {
   return prompt === undefined ? true : isAlanAuthoredPrompt(prompt)
 }
 
-export async function stampAndFollowByAgentId(agentId: string): Promise<MatchedPersona | null> {
+export async function stampByAgentId(agentId: string): Promise<MatchedPersona | null> {
   const matched = await matchPersonaByAgentId(agentId)
   if (matched === null) return null
   stampLastMessaged(matched.slug)
-  await followWallpaperByPersonaId(matched.id)
   return matched
 }
 
@@ -59,7 +57,7 @@ export async function stampFromHookPayload(
 ): Promise<MatchedPersona | null> {
   if (agentId === undefined || agentId === "") return null
   if (!stampsForPrompt(promptFromHookPayload(payload))) return null
-  return await stampAndFollowByAgentId(agentId)
+  return await stampByAgentId(agentId)
 }
 
 async function main(): Promise<void> {

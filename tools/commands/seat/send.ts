@@ -2,7 +2,7 @@ export const summary = "Send a message to another agent"
 
 import { dataError, inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { stampAndFollowByAgentId } from "../../lib/persona-last-messaged.ts"
+import { stampByAgentId } from "../../lib/persona-last-messaged.ts"
 import { addressPerson } from "../../lib/message-to-person.ts"
 import { readStated, undeclared } from "../../lib/message-to.ts"
 import { decideDirectRevive } from "../../lib/decide-direct-revive.ts"
@@ -156,7 +156,7 @@ export default async function agentSend(args: readonly string[]): Promise<void> 
   const senderIsUnnamed = senderName === null || senderName.trim() === ""
   if (senderIsUnnamed && targetAgentId !== null) {
     try {
-      await stampAndFollowByAgentId(targetAgentId)
+      await stampByAgentId(targetAgentId)
     } catch (err) {
       console.error(
         `[seat send] stamping last-messaged for ${targetAgentId} failed: ${err instanceof Error ? err.message : String(err)}`
