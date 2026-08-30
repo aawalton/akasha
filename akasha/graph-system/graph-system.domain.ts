@@ -35,6 +35,10 @@ export const graphSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "Throwing away what the graph derives costs only speed.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A kept answer learns it is stale by being asked rather than by being told.",
     },
     {
