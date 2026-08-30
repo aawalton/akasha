@@ -1,15 +1,11 @@
-import { existsSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import ts from "typescript"
 import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
+import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
+import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import.graph-edge.ts"
 import { generatedProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
-import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  importersOf,
-  indexAt,
-  indexIn,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -23,11 +19,7 @@ const INSIDE = `${AKASHA}/`
 
 const PACKAGES = "node_modules"
 
-const IMPORT = indexImport.indexName
-
-const PATH = "path"
-
-const IMPORTS_AT = indexAt(IMPORT, PATH)
+const IMPORT = importEdge.slug
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
@@ -53,27 +45,8 @@ export function compiled(path: string): boolean {
   return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
-export function reachingIn(root: string): void {
-  if (existsSync(join(root, IMPORTS_AT))) return
-  throw new Error(
-    `\`${IMPORTS_AT}\` is not there, so which files the change reaches could not be answered — an index that is missing is not an index naming no importer`
-  )
-}
-
 export function reachedBy(leaving: Leaving): readonly string[] {
-  const seeded = leaving.changed.filter(compiled)
-  if (seeded.length === 0) return []
-  reachingIn(leaving.root)
-  const found = new Set(seeded)
-  const waiting = [...seeded]
-  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    for (const two of importersOf(leaving.root, one)) {
-      if (!compiled(two) || found.has(two)) continue
-      found.add(two)
-      waiting.push(two)
-    }
-  }
-  return [...found].sort()
+  return reachingInto(leaving.root, leaving.changed, [IMPORT], compiled)
 }
 
 export function rootsOf(leaving: Leaving): readonly string[] {

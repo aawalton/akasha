@@ -207,3 +207,21 @@ export function edgesInto(root: string, path: string, kinds: readonly string[]):
     return here < there ? -1 : here > there ? 1 : 0
   })
 }
+
+export function reachingInto(
+  root: string,
+  paths: readonly string[],
+  kinds: readonly string[],
+  through: (path: string) => boolean = () => true
+): readonly string[] {
+  const found = new Set(paths.filter((one) => through(one)))
+  const waiting = [...found]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    for (const edge of edgesInto(root, one, kinds)) {
+      if (found.has(edge.from) || !through(edge.from)) continue
+      found.add(edge.from)
+      waiting.push(edge.from)
+    }
+  }
+  return [...found].sort()
+}

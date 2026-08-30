@@ -275,7 +275,7 @@ test("an index that is not there is refused, because an absent graph is not a gr
     "akasha/one.ts": "export const one = 1\n",
     "akasha/two.ts": 'import { one } from "./one.ts"\nexport const two: string = one\n',
   })
-  rmSync(join(root, ".git"), { recursive: true })
+  rmSync(join(root, IMPORTS_AT), { recursive: true })
   expect(() => typecheck(leaving(root, { "akasha/one.ts": "export const one = 2\n" }))).toThrow(
     IMPORTS_AT
   )

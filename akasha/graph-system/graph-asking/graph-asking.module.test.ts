@@ -5,7 +5,7 @@ import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.
 import { stampKept } from "../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
-import { edgesInto } from "./graph-asking.module.code.ts"
+import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -59,6 +59,16 @@ const SOURCE_AT = "akasha/held/source.page.ts"
 
 const INVENTED = "an index a test invented so that no name could be assumed"
 
+const ENDING = ".ts"
+
+const FIRST_AT = "akasha/held/first.ts"
+
+const SECOND_AT = "akasha/held/second.ts"
+
+const THIRD_AT = "akasha/held/third.ts"
+
+const APART_AT = "akasha/held/apart.txt"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -67,8 +77,12 @@ function paged(root: string, at: string, held: Record<string, unknown>): void {
   put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
 }
 
+function filedAll(root: string, at: string, said: readonly Record<string, string>[]): void {
+  put(root, `.git/data/index/${at}`, said.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
 function filed(root: string, at: string, said: Record<string, string>): void {
-  put(root, `.git/data/index/${at}`, `${JSON.stringify(said)}\n`)
+  filedAll(root, at, [said])
 }
 
 function indexed(root: string, indexName: string): void {
@@ -107,7 +121,7 @@ function relationWorld(filing: boolean): string {
   return root
 }
 
-function importWorld(indexName: string): string {
+function stoodUp(indexName: string): string {
   const root = scratch.rootFor(PREFIX)
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", HELD])
@@ -122,7 +136,24 @@ function importWorld(indexName: string): string {
   })
   edged(root, IMPORT, {})
   indexed(root, indexName)
+  return root
+}
+
+function importWorld(indexName: string): string {
+  const root = stoodUp(indexName)
   filed(root, `${IMPORT}/path/${TARGET_AT}.jsonl`, { path: SOURCE_AT })
+  return root
+}
+
+function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): string {
+  const root = stoodUp(IMPORT)
+  for (const [into, from] of Object.entries(reaching)) {
+    filedAll(
+      root,
+      `${IMPORT}/path/${into}.jsonl`,
+      from.map((one) => ({ path: one }))
+    )
+  }
   return root
 }
 
@@ -180,4 +211,34 @@ test("a page the corpus names is answered with every page naming it, and through
     to: NAMED,
     attrs: { [PROPERTY]: EXTENDS },
   })
+})
+
+test("a file three deep in what imports it is reached, so the closure closes", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
+
+  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
+})
+
+test("a cycle is walked once, so an answer comes back rather than a run that does not end", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [FIRST_AT] })
+
+  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a node the predicate turns away is left out, and what stands behind it is not reached", () => {
+  const root = reachingWorld({ [FIRST_AT]: [APART_AT], [APART_AT]: [THIRD_AT] })
+
+  const kept = reachingInto(root, [FIRST_AT], [IMPORT], (one) => one.endsWith(ENDING))
+
+  expect(kept).toEqual([FIRST_AT])
+  expect(reachingInto(root, [FIRST_AT], [IMPORT])).toEqual([APART_AT, FIRST_AT, THIRD_AT])
+})
+
+test("a seed is part of the answer, and a seed the predicate turns away is none of it", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+
+  const kept = reachingInto(root, [FIRST_AT, APART_AT], [IMPORT], (one) => one.endsWith(ENDING))
+
+  expect(reachingInto(root, [SECOND_AT], [IMPORT])).toEqual([SECOND_AT])
+  expect(kept).toEqual([FIRST_AT, SECOND_AT])
 })

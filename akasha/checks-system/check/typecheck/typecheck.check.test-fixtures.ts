@@ -1,16 +1,30 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import.graph-edge.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
+import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
+import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   headOf,
   stampKept,
 } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
+import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { typecheck } from "./typecheck.check.code.ts"
 
 export const IMPORTS_AT = ".git/data/index/import/path"
+
+const IDENTITY = "identity"
+
+const SLUG = "slug"
+
+const ENDING = ".jsonl"
+
+const EDGE_PAGE_AT = "graph/import.graph-edge.ts"
+
+const INDEX_PAGE_AT = "graph/index-import.index.ts"
 
 export const scratch = scratchWorld()
 
@@ -23,6 +37,25 @@ function reaching(root: string, files: Readonly<Record<string, string>>): void {
       appendFileSync(held, `${one.line}\n`)
     }
   }
+}
+
+function paged(root: string, at: string, held: unknown): void {
+  put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
+}
+
+function named(root: string, at: string, pageTypeSlug: string, slug: string, id: string): void {
+  put(
+    indexIn(root),
+    join(IDENTITY, pageTypeSlug, SLUG, `${slug}${ENDING}`),
+    `${JSON.stringify({ path: at, id })}\n`
+  )
+}
+
+function graphed(root: string): void {
+  paged(root, EDGE_PAGE_AT, importEdge)
+  paged(root, INDEX_PAGE_AT, indexImport)
+  named(root, EDGE_PAGE_AT, importEdge.pageTypeSlug, importEdge.slug, importEdge.id)
+  named(root, INDEX_PAGE_AT, indexImport.pageTypeSlug, indexImport.slug, indexImport.id)
 }
 
 function stamped(root: string): void {
@@ -47,6 +80,7 @@ export function staged(files: Readonly<Record<string, string>>): string {
     writeFileSync(join(root, at), body)
   }
   reaching(root, files)
+  graphed(root)
   stamped(root)
   return root
 }
