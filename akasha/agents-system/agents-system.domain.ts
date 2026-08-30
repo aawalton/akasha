@@ -5,5 +5,5 @@ export const agentsSystem = {
   pageTypeSlug: "domain",
   slug: "agents-system",
   definition: "how work is put to a model",
-  partSlugs: ["domain/models"],
+  partSlugs: ["domain/models", "page-type/claude-account"],
 } as const satisfies Domain
