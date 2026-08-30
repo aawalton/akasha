@@ -5,6 +5,7 @@ export const seatSystem = {
   pageTypeSlug: "domain",
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
+  partSlugs: ["page-type/seat"],
   invariants: [
     {
       invariantKind: "departure",
