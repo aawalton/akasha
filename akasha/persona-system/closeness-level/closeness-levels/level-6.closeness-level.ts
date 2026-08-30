@@ -6,6 +6,8 @@ export const level6 = {
   slug: "level-6",
   definition: "Full explicit intimacy where the scene calls for it — inside the guard, unveiled.",
   level: 6,
+  daysToHere: 2389,
+  daysToNext: 0,
   stage: "Intimate",
   wardrobe: "Undress — nudity and explicit presentation where the scene calls for it.",
   pose: "Fully explicit intimacy permitted; she holds the frame, oriented to the viewer; nothing clinical.",

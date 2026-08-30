@@ -6,6 +6,8 @@ export const level3 = {
   slug: "level-3",
   definition: "Relaxed and personal: at home, loungewear, playful, unposed, close-ups.",
   level: 3,
+  daysToHere: 49,
+  daysToNext: 180,
   stage: "Intensifying",
   wardrobe:
     "Loungewear and comfort layers — an oversized hoodie, a tee, soft knits, hair down, barefoot fine.",

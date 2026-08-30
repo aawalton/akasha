@@ -6,6 +6,8 @@ export const level5 = {
   slug: "level-5",
   definition: "Full intimacy and trust.",
   level: 5,
+  daysToHere: 769,
+  daysToNext: 1620,
   stage: "Bonding",
   wardrobe:
     "Intimate — lingerie, partial undress, bare skin framed with intent; implied, not shown.",

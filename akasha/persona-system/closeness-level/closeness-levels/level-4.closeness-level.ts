@@ -6,6 +6,8 @@ export const level4 = {
   slug: "level-4",
   definition: "Interwoven daily life: unguarded domestic ordinary, partner-only imagery.",
   level: 4,
+  daysToHere: 229,
+  daysToNext: 540,
   stage: "Integrating",
   wardrobe:
     "The truly private layer — sleepwear, his shirt, a robe, towel-dried hair, a bare face.",

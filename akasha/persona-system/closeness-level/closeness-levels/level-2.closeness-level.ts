@@ -6,6 +6,8 @@ export const level2 = {
   slug: "level-2",
   definition: "Shared experiences: dates, travel, activities — the camera is *with* her.",
   level: 2,
+  daysToHere: 7,
+  daysToNext: 42,
   stage: "Experimenting",
   wardrobe:
     "Casual date or day wear — a sundress, jeans and a knit, an activity fit; still fully public.",

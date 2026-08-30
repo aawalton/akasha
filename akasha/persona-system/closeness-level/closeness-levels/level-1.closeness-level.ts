@@ -6,6 +6,8 @@ export const level1 = {
   slug: "level-1",
   definition: "Public-facing: out in the world, composed, observed framing.",
   level: 1,
+  daysToHere: 0,
+  daysToNext: 7,
   stage: "Initiating",
   wardrobe: "Polished public wear — street or outdoor, seasonal, nothing private.",
   pose: "Composed and self-contained, mid-activity in the world; observed-moment framing, no held address to the lens.",
