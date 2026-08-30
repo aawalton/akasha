@@ -10,7 +10,6 @@ import {
   schemaOf,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import {
   type Formatting,
   matchingIn,
@@ -18,6 +17,7 @@ import {
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"

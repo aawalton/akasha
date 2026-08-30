@@ -1,5 +1,5 @@
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
-import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf, everyFileIn, overEachFile, textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 

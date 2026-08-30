@@ -1,6 +1,6 @@
+import type { Shadow } from "../../shadow/shadow.module.code.ts"
 import { schemaAt, slugOf, textAt } from "../index-entries/index-entries.module.code.ts"
 import { standingAt } from "../index-reading/index-reading.module.code.ts"
-import type { Shadow } from "../index-shadow/index-shadow.module.code.ts"
 
 const GENERATOR = "generator"
 

@@ -1,12 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  type Shadow,
-  shadowAt,
-} from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
-import {
   knownIn,
   type Shaped,
 } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
+import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,

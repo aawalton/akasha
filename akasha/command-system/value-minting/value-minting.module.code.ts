@@ -10,12 +10,9 @@ import {
   textAt,
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingAt } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  type Shadow,
-  shadowFor,
-} from "../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Change } from "../landing/landing.module.code.ts"
 import { baseOf, leavingOf } from "../landing/landing.module.code.ts"
 

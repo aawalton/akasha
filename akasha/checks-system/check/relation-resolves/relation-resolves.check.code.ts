@@ -12,10 +12,6 @@ import {
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
-  type Shadow,
-  shadowFor,
-} from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
-import {
   type Known,
   knownIn,
   namesIn,
@@ -28,6 +24,7 @@ import {
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
+import { type Shadow, shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 

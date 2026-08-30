@@ -10,9 +10,9 @@ import {
   pathsTakenFrom,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
 import {
   checkPagesIn,
   checksAt,

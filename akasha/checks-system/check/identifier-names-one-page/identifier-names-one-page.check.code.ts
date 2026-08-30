@@ -4,7 +4,7 @@ import {
   uniquePropertiesAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 

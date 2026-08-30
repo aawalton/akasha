@@ -11,7 +11,6 @@ import {
   everyPath,
   importersOf,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -19,6 +18,7 @@ import {
   heldIn,
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"

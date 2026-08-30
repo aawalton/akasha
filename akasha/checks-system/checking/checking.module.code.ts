@@ -5,16 +5,13 @@ import {
   everyOfTypeAnswered,
   everyPathAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  type Shadow,
-  shadowFor,
-} from "../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Judging, Leaving } from "../judging/judging.module.code.ts"
 
 export type Body = {

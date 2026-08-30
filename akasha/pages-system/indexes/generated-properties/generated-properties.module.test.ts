@@ -3,8 +3,8 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
+import { type Leaving, shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
 import { indexIn } from "../index-reading/index-reading.module.code.ts"
-import { type Patch, shadowAt, shadowOver } from "../index-shadow/index-shadow.module.code.ts"
 import { generatedProperties, waitingProperties } from "./generated-properties.module.code.ts"
 
 const scratch = scratchWorld()
@@ -55,7 +55,7 @@ function heldBody(said: string): string {
   return `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "held"${said} }\n`
 }
 
-function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Patch {
+function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Leaving {
   const was = (path: string): Uint8Array | null => {
     try {
       return readFileSync(join(root, path))
@@ -76,7 +76,7 @@ function patchOver(root: string, changes: ReadonlyMap<string, string | null>): P
 }
 
 function overOne(root: string, body: string | null): readonly string[] {
-  const cast = shadowOver(patchOver(root, new Map([[HELD_AT, body]])))
+  const cast = shadowFor(patchOver(root, new Map([[HELD_AT, body]])))
   if ("refused" in cast) throw new Error(cast.refused)
   return [...generatedProperties(cast.shadow).keys()]
 }

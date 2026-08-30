@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { shadowFor } from "../../../pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.check.code.ts"
 import {
   declaring,

@@ -30,7 +30,7 @@ test("a raw read of the index is refused as a path is", () => {
 })
 
 test("the indexes folder is where these are for, so it is passed over", () => {
-  const at = "akasha/pages-system/indexes/index-shadow/index-shadow.module.code.ts"
+  const at = "../../../pages-system/shadow/shadow.module.code.ts"
   expect(reasonsIn(given(at, 'import { indexIn } from "../index-reading/x.ts"\n'))).toEqual([])
 })
 
