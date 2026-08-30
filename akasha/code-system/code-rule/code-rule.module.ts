@@ -23,12 +23,16 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carrying no body says no rule, rather than saying an empty one.",
+      statement: "A declaration carrying no body says no rule rather than saying an empty one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The source is parsed with parent links.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The source is parsed with parent links, and a function's export status is answered by climbing from it to the statement holding it.",
+        "A function's export status is answered by climbing from it to the statement holding it.",
     },
     {
       invariantKind: "absence",
@@ -38,12 +42,19 @@ export const codeRule = {
     {
       invariantKind: "absence",
       statement:
-        "Only a renaming is defeated. The same rule written to a different shape — a loop for a call, statements reordered — reads as another rule.",
+        "Only a renaming is defeated. The same rule written to a different shape — a loop for a call and statements reordered — reads as another rule.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here reads the disk or the index. A rule is what the source says, and what is done with it is answered elsewhere.",
+      statement: "Nothing here reads the disk or the index.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A rule is what the source says.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What is done with it is answered elsewhere.",
     },
   ],
 } as const satisfies Module
