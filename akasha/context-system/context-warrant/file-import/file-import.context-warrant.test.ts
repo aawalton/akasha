@@ -22,13 +22,13 @@ const PREFIX = "akasha-file-import-"
 
 let minted = 0
 
-function filed(root: string, at: string, line: string): void {
+function filed(root: string, at: string, line: string): undefined {
   const to = join(root, INDEX_AT, at)
   mkdirSync(dirname(to), { recursive: true })
   appendFileSync(to, `${line}\n`)
 }
 
-function paged(root: string, path: string, page: string): void {
+function paged(root: string, path: string, page: string): undefined {
   minted = minted + 1
   const id = `01a04f58-0000-7000-9000-${String(minted).padStart(12, "0")}`
   filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id }))
@@ -57,7 +57,7 @@ function codeAt(root: string, slug: string, body: string): string {
   return path
 }
 
-function world(root: string, slugs: readonly string[]): void {
+function world(root: string, slugs: readonly string[]): undefined {
   for (const one of slugs) moduleAt(root, one)
 }
 

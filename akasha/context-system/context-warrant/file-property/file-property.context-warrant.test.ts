@@ -24,7 +24,7 @@ function mintedId(): string {
   return `01a04bc4-0000-7000-8000-${String(minted).padStart(12, "0")}`
 }
 
-function pageType(root: string, slug: string): void {
+function pageType(root: string, slug: string): undefined {
   const id = mintedId()
   const path = `akasha/${slug}/${slug}.page-type.ts`
   standing(

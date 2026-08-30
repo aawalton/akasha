@@ -42,7 +42,7 @@ function beside(root: string, one: Standing, ending: string): string {
   return at
 }
 
-function names(root: string, whole: Standing, part: Standing): void {
+function names(root: string, whole: Standing, part: Standing): undefined {
   indexed(
     root,
     `relation/page/id/${part.id}/part-slugs/${whole.id}.jsonl`,

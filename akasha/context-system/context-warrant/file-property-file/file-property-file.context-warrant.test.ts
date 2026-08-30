@@ -39,7 +39,7 @@ function pageType(root: string, slug: string): string {
   return path
 }
 
-function schemaed(root: string, slug: string, pageTypeSlug: string): void {
+function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
   indexed(
     root,
     `schema/page-property/slug/${slug}.jsonl`,
