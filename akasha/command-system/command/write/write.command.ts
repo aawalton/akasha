@@ -54,7 +54,7 @@ export const write = {
     {
       invariantKind: "departure",
       statement:
-        "A path taken away carries the files standing beside it, as `move` and `remove` do, because a page and the files it claims are taken away together or not at all.",
+        "A path taken away carries the files standing beside it, like `move` and `remove` do; a page and the files it claims are taken away together or not at all.",
     },
     {
       invariantKind: "departure",
@@ -63,13 +63,11 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path named at `--remove` that stands at no body is refused, because a removal taking nothing away is a mistake in what the call named.",
+      statement: "A path named at `--remove` that stands at no body is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path taken away is forgotten by the record, for every agent, so what is written at that path next is written over nothing rather than over what went.",
+      statement: "A path taken away is forgotten by the record, for every agent.",
     },
     {
       invariantKind: "absence",
