@@ -44,6 +44,10 @@ const PAGE = "page"
 
 const ID = "id"
 
+const AT_PATH = "path"
+
+const NAMING_NONE = "an index that is missing is not an index naming no importer"
+
 export function indexIn(root: string): string {
   return join(root, INDEX_AT)
 }
@@ -118,11 +122,14 @@ export function importersOf(
   path: string,
   reading: Reading = readingAt(indexIn(root))
 ): readonly string[] {
+  const asked = `which files import \`${path}\` could not be answered`
   const why = staleFor(root, indexIn(root))
-  if (why !== null) {
-    throw new Error(`which files import \`${path}\` could not be answered — ${why}`)
+  if (why !== null) throw new Error(`${asked} — ${why}`)
+  const under = join(IMPORT, AT_PATH)
+  if (!reading.holds(under)) {
+    throw new Error(`\`${indexAt(IMPORT, AT_PATH)}\` is not there, so ${asked} — ${NAMING_NONE}`)
   }
-  return pathsIn(reading, join(IMPORT, "path", `${path}${ENDING}`))
+  return pathsIn(reading, join(under, `${path}${ENDING}`))
 }
 
 function schemaIn(reading: Reading, at: string): readonly Schema[] {

@@ -176,8 +176,17 @@ test("a path the index carries edges for is answered with every file importing i
 
 test("a path nothing imports is answered with nothing rather than by throwing", () => {
   const root = stampedAt()
+  filed(root, "import/path/akasha/a.module.code.ts.jsonl", [
+    JSON.stringify({ path: "akasha/one.module.code.ts" }),
+  ])
 
   expect(importersOf(root, "akasha/nowhere.module.code.ts")).toEqual([])
+})
+
+test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
+  const root = stampedAt()
+
+  expect(() => importersOf(root, "akasha/a.module.code.ts")).toThrow(".git/data/index/import/path")
 })
 
 test("what imports a file is refused when the index names no commit", () => {
