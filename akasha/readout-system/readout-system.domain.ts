@@ -10,5 +10,6 @@ export const readoutSystem = {
     "page-type/readout-group",
     "page-type/readout-scale",
     "page-type/readout-widget",
+    "module/readout-credential",
   ],
 } as const satisfies Domain
