@@ -4,7 +4,7 @@ export const hookSystem = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
   pageTypeSlug: "domain",
   slug: "hook-system",
-  definition: "how a tool call is judged before it runs",
+  definition: "how a tool call is judged",
   partSlugs: [
     "page-type/agent-hook",
     "module/bun-calls",
@@ -18,10 +18,6 @@ export const hookSystem = {
     "module/shell-calls",
   ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A hook judges a tool call, never a file.",
-    },
     {
       invariantKind: "departure",
       statement: "A hook stands in the akasha folder and is registered outside it.",
