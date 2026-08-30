@@ -43,20 +43,15 @@ type Asking = {
   readonly stated: readonly Stated[]
 }
 
-type Building = {
-  readonly path: string
-  readonly stated: Stated[]
-}
-
 type Read = {
   readonly asking: readonly Asking[]
   readonly refusals: readonly string[]
 }
 
 function readIn(argv: readonly string[]): Read {
-  const asking: Building[] = []
+  const asking: Asking[] = []
   const refusals: string[] = []
-  let open: Building | null = null
+  let open: Asking | null = null
   let old: string | null = null
   for (let at = 0; at < argv.length; at += 1) {
     const token = argv[at]
@@ -98,7 +93,9 @@ function readIn(argv: readonly string[]): Read {
         break
       }
       if (old === null) refusals.push(`${NEW_FILE} ${value} follows no ${OLD_FILE}`)
-      else if (open !== null) open.stated.push({ old, put: value })
+      else if (open !== null) {
+        open = { path: open.path, stated: [...open.stated, { old, put: value }] }
+      }
       old = null
       at += 1
       continue
