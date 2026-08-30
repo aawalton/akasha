@@ -1,11 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
   declaredFor,
@@ -17,8 +18,14 @@ import {
   allLower,
   FORMAT,
   formatting,
+  GENERATED_ID,
+  KIND_AT,
   property,
   read,
+  THING_AT,
+  THING_BODY,
+  THING_ID,
+  UNIQUE_SLUG,
 } from "./page-matches-its-type.check.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -231,20 +238,6 @@ test("a required property named as excused is not asked for, and the rest of the
   expect(excusing("test")).toEqual([])
   expect(excusing("id")).toEqual(["does not state `test`, which `page-type/check` requires"])
 })
-
-const GENERATED_ID = "01a04f2b-3d23-7798-beae-c2174eaf237f"
-
-const THING_ID = "01a04f2b-3d23-7840-8508-269224959e52"
-
-const THING_AT = "akasha/one.thing.ts"
-
-const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
-
-const UNIQUE_SLUG =
-  '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type",' +
-  '"slug":"slug","propertySlug":"slug"}\n'
-
-const KIND_AT = "akasha/waiting.generator-kind.ts"
 
 function generating(generator = "waiting"): string {
   const root = scratch.rootFor("akasha-generating-")

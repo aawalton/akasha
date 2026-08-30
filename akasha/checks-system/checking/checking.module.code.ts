@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   everyOfTypeAnswered,
   everyPathAnswered,
@@ -12,7 +13,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
-import type { Change, Judged, Judging } from "../judging/judging.module.code.ts"
+import type { Judged, Judging } from "../judging/judging.module.code.ts"
 
 export type Body = {
   readonly root: string

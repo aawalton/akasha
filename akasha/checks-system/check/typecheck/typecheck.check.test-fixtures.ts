@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import { indexImport } from "../../../pages-system/indexes/index/index-import/index-import.index.ts"
 import {
@@ -15,7 +16,6 @@ import {
 import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Change } from "../../judging/judging.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 

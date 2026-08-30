@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Change } from "../../judging/judging.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.check.code.ts"
 import { everySpeltIn, noRuleInTwoFiles, reasonsIn } from "./no-rule-in-two-files.check.code.ts"
 

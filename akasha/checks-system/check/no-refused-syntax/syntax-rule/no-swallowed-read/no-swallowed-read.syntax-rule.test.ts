@@ -4,7 +4,7 @@ import { PROBE_AT } from "../../no-refused-syntax.check.test-fixtures.ts"
 import type { Refusal } from "../syntax-rule.page-type.ts"
 import { noSwallowedRead } from "./no-swallowed-read.syntax-rule.code.ts"
 
-const WALKING = 'import type { Change } from "../checks-system/judging/judging.module.code.ts"\n'
+const WALKING = 'import type { Change } from "../pages-system/change/change.module.code.ts"\n'
 
 const APART = 'import { join } from "node:path"\n'
 

@@ -1,6 +1,7 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   filePropertiesAt,
   importedBy,
@@ -21,7 +22,7 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"

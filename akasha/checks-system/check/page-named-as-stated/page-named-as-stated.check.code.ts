@@ -1,11 +1,12 @@
 import ts from "typescript"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAnswered } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 
 const SLUG = "slug"
 

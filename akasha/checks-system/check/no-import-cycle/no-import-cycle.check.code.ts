@@ -1,8 +1,9 @@
 import ts from "typescript"
 import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

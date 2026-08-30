@@ -1,3 +1,4 @@
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
@@ -20,7 +21,7 @@ import { slugFor } from "../../../pages-system/page-property/page-property-key/p
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

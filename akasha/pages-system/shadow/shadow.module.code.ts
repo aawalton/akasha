@@ -1,4 +1,5 @@
 import { textOf } from "../../code-system/body-text/body-text.module.code.ts"
+import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../indexes/index-entries/index-entries.module.code.ts"
 import { indexIn } from "../indexes/index-reading/index-reading.module.code.ts"
 import {
@@ -7,13 +8,6 @@ import {
   readingAt,
 } from "../indexes/index-surface/index-surface.module.code.ts"
 import { settlingOver } from "../indexes/indexing/indexing.module.code.ts"
-
-export type Change = {
-  readonly root: string
-  readonly changed: readonly string[]
-  readonly before: (path: string) => Uint8Array | null
-  readonly after: (path: string) => Uint8Array | null
-}
 
 export type Shadow = {
   readonly reading: Reading

@@ -25,6 +25,7 @@ export const pagesSystem = {
     "page-type/unique-kind",
     "domain/indexes",
     "domain/naming",
+    "module/change",
     "module/page-address",
     "module/page-file-name",
     "module/page-export-name",

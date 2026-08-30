@@ -1,3 +1,4 @@
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   pageTypesIn,
   type Value,
@@ -19,7 +20,7 @@ import {
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
 

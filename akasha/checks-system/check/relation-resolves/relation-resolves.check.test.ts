@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   knownIn,
   type Shaped,
@@ -8,7 +9,7 @@ import {
   shadowAt,
   shadowFor,
 } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   danglingIn,
   mortalityIn,

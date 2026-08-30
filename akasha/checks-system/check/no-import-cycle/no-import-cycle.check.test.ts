@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Change } from "../../judging/judging.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { cyclesIn, noImportCycle, reachedIn, reachingIn } from "./no-import-cycle.check.code.ts"
 
 const ROOT = "/repo"

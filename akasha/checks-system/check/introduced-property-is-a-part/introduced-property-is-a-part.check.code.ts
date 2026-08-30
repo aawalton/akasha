@@ -1,3 +1,4 @@
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   pageTypesIn,
   textAt,
@@ -8,7 +9,7 @@ import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   declaredFor,
   type Reading,

@@ -2,6 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
   pathFiled,
@@ -9,7 +10,6 @@ import {
   schemaFiled,
   standingAlsoFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import type { Change } from "../../judging/judging.module.code.ts"
 
 export const A = "akasha/t/a.note.ts"
 

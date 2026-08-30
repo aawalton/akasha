@@ -2,9 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.check.code.ts"
 import {
   change,

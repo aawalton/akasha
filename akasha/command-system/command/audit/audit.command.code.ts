@@ -6,7 +6,8 @@ import {
   everythingIn,
   judgingBy,
 } from "../../../checks-system/checking/checking.module.code.ts"
-import type { Change, Judged, Judging } from "../../../checks-system/judging/judging.module.code.ts"
+import type { Judged, Judging } from "../../../checks-system/judging/judging.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { oneLine, whyOf } from "../../fault-saying/fault-saying.module.code.ts"

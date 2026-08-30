@@ -1,6 +1,7 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -10,7 +11,7 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { overEachFile, overEachText } from "../../checking/checking.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
 
 const RULE = "syntax-rule"

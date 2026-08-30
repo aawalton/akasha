@@ -1,5 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   idFiled,
   pathFiled,
@@ -9,7 +10,6 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../checking/checking.module.code.ts"
-import type { Change } from "../judging/judging.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

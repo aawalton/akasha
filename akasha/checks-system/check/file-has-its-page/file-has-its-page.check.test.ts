@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"

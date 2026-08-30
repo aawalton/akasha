@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
 import { indexIn } from "../indexes/index-reading/index-reading.module.code.ts"
 import {
@@ -17,7 +18,7 @@ import {
   type Named,
   VOCABULARY,
 } from "../indexes/indexing/indexing.module.test-fixtures.ts"
-import { type Cast, type Change, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
+import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"
 
 const scratch = scratchWorld()
 

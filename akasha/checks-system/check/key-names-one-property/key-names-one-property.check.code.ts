@@ -1,3 +1,4 @@
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   pageTypesIn,
   textAt,
@@ -13,7 +14,7 @@ import {
   identityOf,
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import type { Change, Judged } from "../../judging/judging.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
 const PAGE_TYPE = "page-type"
