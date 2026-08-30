@@ -13,18 +13,13 @@ export type Said = {
 export function everySpeltIn(leaving: Leaving): ReadonlyMap<string, readonly Said[]> {
   const cast = shadowFor(leaving)
   if ("refused" in cast) throw new Error(cast.refused)
-  const found = new Map<string, Said[]>()
-  for (const path of everyFileIn(leaving.root, cast.shadow.reading)) {
-    if (!path.endsWith(TS)) continue
+  const spelt = [...everyFileIn(leaving.root, cast.shadow.reading)].flatMap((path) => {
+    if (!path.endsWith(TS)) return []
     const text = textIn(leaving, path)
-    if (text === null) continue
-    for (const one of speltIn(path, text)) {
-      const held = found.get(one.rule)
-      if (held === undefined) found.set(one.rule, [{ path, name: one.name }])
-      else held.push({ path, name: one.name })
-    }
-  }
-  return found
+    if (text === null) return []
+    return speltIn(path, text).map((one) => ({ rule: one.rule, path, name: one.name }))
+  })
+  return Map.groupBy(spelt, (one) => one.rule)
 }
 
 export function reasonsIn(
