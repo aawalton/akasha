@@ -1,4 +1,5 @@
 
+import { peopleStanding } from "./akasha-people.ts"
 import { readCorpora } from "./subjects.ts"
 
 export interface NameVocabulary {
@@ -10,13 +11,12 @@ export interface NameVocabulary {
 const heldByRoot = new Map<string, NameVocabulary>()
 
 function readVocabulary(root: string): NameVocabulary {
-  const readings = readCorpora(root, ["personas", "persons", "domains"])
-  const slugsOf = (
-    subject: "personas" | "persons" | "domains"
-  ): readonly string[] => readings.get(subject)?.records.map((record) => record.slug) ?? []
+  const readings = readCorpora(root, ["personas", "domains"])
+  const slugsOf = (subject: "personas" | "domains"): readonly string[] =>
+    readings.get(subject)?.records.map((record) => record.slug) ?? []
   return {
     personas: slugsOf("personas"),
-    persons: slugsOf("persons"),
+    persons: peopleStanding(root).map((one) => one.slug),
     domains: slugsOf("domains"),
   }
 }

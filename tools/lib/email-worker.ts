@@ -1,10 +1,9 @@
 
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { personOr } from "./akasha-people.ts"
 import { forwardOf } from "./email-forward.ts"
 import { decide, rulesOf } from "./email-rules.ts"
 import type { Rule } from "./email-rules.ts"
-import { textField, parseFrontmatter } from "../../page/frontmatter.ts"
-import { pageRelIn } from "../../page/page-types.ts"
 import type { Mailbox, Message } from "./gmail.ts"
 
 const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
@@ -47,10 +46,11 @@ function record(entry: Record<string, unknown>): void {
 }
 
 function addressOfPerson(slug: string, root: string): string {
-  const at = `${root}/${pageRelIn(root, "person", slug)}`
-  const found = textField(parseFrontmatter(readFileSync(at, "utf8")), "email")
-  if (found === null) throw new Error(`${slug} carries no email address on ${at}`)
-  return found
+  const person = personOr(root, slug)
+  if (person.emailAddress === null) {
+    throw new Error(`${slug} carries no email address on ${person.path}`)
+  }
+  return person.emailAddress
 }
 
 export function untoldClaims(): readonly Claim[] {

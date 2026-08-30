@@ -1,17 +1,14 @@
 
-import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
+import { answeredByOf, peopleStanding } from "./akasha-people.ts"
 import { CHAMPIONED_DOMAIN_KEY } from "./domain.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { pageRelIn, placeDirOf } from "../../page/page-types.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
-import { fileStemOf } from "../../page/name/name.ts"
+import { pageRelIn } from "../../page/page-types.ts"
 import { documentFor, personaIsDefault } from "./seat-resolve.ts"
 
 export const JOINER = "-"
 
 const DEFAULT_ROLE_KEY = "role-slug"
-
-const IDENTITY_KEY = "identity-slug"
 
 export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
@@ -26,12 +23,7 @@ export interface SeatAttributes {
 export const FLEET = "agent"
 
 export function personPrincipals(root: string): readonly string[] {
-  for (const at of [`${root}/${placeDirOf("person")}`, `${akashaRoot()}/${placeDirOf("person")}`]) {
-    if (!existsSync(at)) continue
-    const found = [...new Set(readdirSync(at).filter((one) => one.endsWith(".md")).map((one) => fileStemOf(one)))].sort()
-    if (found.length > 0) return found
-  }
-  return []
+  return peopleStanding(root).map((one) => one.slug)
 }
 
 export function principalsFrom(persons: readonly string[]): readonly string[] {
@@ -70,9 +62,7 @@ export function personaDefaultsOf(root: string, persona: string): PersonaDefault
 }
 
 export function identityHeardFrom(root: string, person: string): string | null {
-  const at = `${root}/${pageRelIn(root, "person", person)}`
-  if (!existsSync(at)) return null
-  return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
+  return answeredByOf(root, person)
 }
 
 function stated(value: string | null): string | null {

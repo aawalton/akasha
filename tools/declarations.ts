@@ -1,5 +1,5 @@
 export const tool = {
-  summary: "Print what this repository declares about its personas, persons and domains",
+  summary: "Print what this repository declares about its personas and domains",
   path: "domain declarations",
 } as const
 

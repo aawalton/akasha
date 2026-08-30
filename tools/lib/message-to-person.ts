@@ -1,11 +1,5 @@
-import { textField } from "../../page/frontmatter.ts"
-import { addressOf } from "../../page/page-address.ts"
-import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
+import { personAt } from "./akasha-people.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import { resolveSlot, scan } from "./seat-resolve.ts"
-
-const PERSON_TYPE = "person"
-const IDENTITY_KEY = "identity-slug"
 
 export type Addressed =
   | { readonly kind: "inbox"; readonly slug: string }
@@ -16,37 +10,24 @@ export function addressPerson(person: string, inboxSlug: string): Addressed {
   if (wanted === "") {
     return {
       kind: "refuse",
-      reason: "--person names nobody. Give the slug a document under pages/person/ declares.",
+      reason: "--person names nobody. Give the slug a person page states.",
     }
   }
 
   const root = rootFor(resolveRoots(), AKASHA)
-  const found = scan(root)
-  const asPerson = resolveSlot("domain", addressOf(PERSON_TYPE, wanted), root, found)
-  const at = "relPath" in asPerson ? asPerson : resolveSlot("domain", wanted, root, found)
-  if ("refusal" in at) {
+  const found = personAt(root, wanted)
+  if (found === null) {
     return {
       kind: "refuse",
-      reason: `--person '${wanted}': no document declares that slug, so it names no person.`,
-    }
-  }
-
-  const fm = found.docs.frontmatterOf(at.relPath)
-  if (fm === null || pageTypeOf(at.relPath) !== PERSON_TYPE) {
-    return {
-      kind: "refuse",
-      reason:
-        `--person '${wanted}': \`${at.relPath}\` is a domain rather than a person. A domain is ` +
-        "addressed with --domain and a --role beside it.",
+      reason: `--person '${wanted}': no page states that slug, so it names no person.`,
     }
   }
 
   if (wanted !== inboxSlug) {
-    const identity = textField(fm, IDENTITY_KEY)
     const route =
-      identity === null
-        ? `\`${at.relPath}\` names no identity to reach them through.`
-        : `\`${at.relPath}\` names \`${identity}\` as the identity who reaches them.`
+      found.answeredBy === null
+        ? `\`${found.path}\` names no persona to reach them through.`
+        : `\`${found.path}\` names \`${found.answeredBy}\` as the persona who answers them.`
     return {
       kind: "refuse",
       reason:
