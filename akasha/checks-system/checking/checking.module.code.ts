@@ -45,9 +45,9 @@ const CODE = "code"
 
 const TS = "ts"
 
-const CHECKS_AT = indexAt(IDENTITY, CHECK, SLUG)
+export const CHECKS_AT = indexAt(IDENTITY, CHECK, SLUG)
 
-const PATHS_AT = indexAt(PATH)
+export const PATHS_AT = indexAt(PATH)
 
 const loadFrom = createRequire(import.meta.url)
 

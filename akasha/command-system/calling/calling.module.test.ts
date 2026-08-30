@@ -1,10 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import {
+  noneOfTypeFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 
-const COMMANDS_AT = ".git/data/index/identity/command/slug"
+const COMMAND = "command"
 
 const ANSWERS = `export function held(argv, given) {
   return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
@@ -31,7 +35,7 @@ function rootWith(
   }[]
 ): string {
   const root = scratch.rootFor("akasha-calling-")
-  mkdirSync(join(root, COMMANDS_AT), { recursive: true })
+  noneOfTypeFiled(root, COMMAND)
   let minted = 0
   for (const one of named) {
     const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
@@ -48,11 +52,11 @@ function rootWith(
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
-    const lines = [JSON.stringify({ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` })]
+    const lines = [{ path: at, id: `01a04bdd-0000-7000-8000-00000000000${minted}` }]
     if (one.also !== undefined) {
-      lines.push(JSON.stringify({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" }))
+      lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
     }
-    writeFileSync(join(root, COMMANDS_AT, `${one.slug}.jsonl`), `${lines.join("\n")}\n`)
+    standingFiled(root, COMMAND, one.slug, lines)
   }
   return root
 }

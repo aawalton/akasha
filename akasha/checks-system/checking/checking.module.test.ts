@@ -1,10 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import {
+  identitiesTakenFrom,
+  idFiled,
+  noneOfTypeFiled,
+  pathFiled,
+  pathsTakenFrom,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
+  CHECKS_AT,
   checkPagesIn,
   checksAt,
   checksIn,
@@ -15,23 +24,14 @@ import {
   onDisk,
   overEachFile,
   overEachText,
+  PATHS_AT,
 } from "./checking.module.code.ts"
 
-const CHECKS_AT = ".git/data/index/identity/check/slug"
-
-const PAGES_AT = ".git/data/index/identity/page/id"
-
-const PATHS_AT = ".git/data/index/path"
+const CHECK = "check"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function filed(root: string, at: string, line: string): undefined {
-  const to = join(root, PATHS_AT, `${at}.jsonl`)
-  mkdirSync(dirname(to), { recursive: true })
-  writeFileSync(to, line)
-}
 
 function rootWith(
   named: readonly {
@@ -42,9 +42,7 @@ function rootWith(
   }[]
 ): string {
   const root = scratch.rootFor("akasha-checking-")
-  mkdirSync(join(root, CHECKS_AT), { recursive: true })
-  mkdirSync(join(root, PAGES_AT), { recursive: true })
-  mkdirSync(join(root, PATHS_AT), { recursive: true })
+  noneOfTypeFiled(root, CHECK)
   let minted = 0
   for (const one of named) {
     const at = `akasha/checks-system/check/${one.slug}/${one.slug}.check.ts`
@@ -64,11 +62,11 @@ function rootWith(
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
     minted = minted + 1
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
-    const line = `${JSON.stringify({ path: at, id })}\n`
-    writeFileSync(join(root, CHECKS_AT, `${one.slug}.jsonl`), line)
-    writeFileSync(join(root, PAGES_AT, `${id}.jsonl`), line)
-    filed(root, at, line)
-    filed(root, `${at.slice(0, -".ts".length)}.code.ts`, line)
+    const held = [{ path: at, id }]
+    standingFiled(root, CHECK, one.slug, held)
+    idFiled(root, id, held)
+    pathFiled(root, at, held)
+    pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
   }
   return root
 }
@@ -195,7 +193,7 @@ test("audit takes the paths the index files, and works none of them out from a p
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
   const id = "01a04bc4-0000-7000-8000-000000000001"
-  filed(root, `${at.slice(0, -".ts".length)}.note.md`, `${JSON.stringify({ path: at, id })}\n`)
+  pathFiled(root, `${at.slice(0, -".ts".length)}.note.md`, [{ path: at, id }])
   const every = everyFileIn(root)
   expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.note.md")
 })
@@ -228,14 +226,14 @@ test("a check page stating no phase a runner can honour is refused", () => {
 
 test("an index holding no check directory cannot answer, and is not read as naming none", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  rmSync(join(root, ".git/data/index/identity/check"), { recursive: true })
+  identitiesTakenFrom(root, CHECK)
   expect(() => checkPagesIn(root)).toThrow("could not be answered")
   expect(() => checksIn(root)).toThrow(CHECKS_AT)
 })
 
 test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  rmSync(join(root, PATHS_AT), { recursive: true })
+  pathsTakenFrom(root)
   expect(() => everyFileIn(root)).toThrow("could not be answered")
   expect(() => everythingIn(root)).toThrow(PATHS_AT)
 })
@@ -257,7 +255,7 @@ test("a reading handed in says which files stand, so a check may ask of the inde
 
 test("a reading handed in does not stand in for the guard, which is on the root and stays", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  rmSync(join(root, PATHS_AT), { recursive: true })
+  pathsTakenFrom(root)
   expect(() => everyFileIn(root, HANDED)).toThrow("could not be answered")
 })
 
