@@ -18,7 +18,7 @@ export const akashaSeatReading = {
     },
     {
       invariantKind: "gap",
-      statement: "A subagent owes what its seat owes, narrowed to what it was sent to do.",
+      statement: "A subagent owes what its seat owes narrowed to what it was sent to do.",
     },
   ],
 } as const satisfies Initiative
