@@ -41,6 +41,7 @@ export const check = {
     "check/no-method-signature",
     "check/no-raw-nul-bytes",
     "check/no-re-export",
+    "check/no-refused-syntax",
     "check/no-rule-in-two-files",
     "check/no-second-spelling",
     "check/no-tmp",
