@@ -12,7 +12,7 @@ export const indexSchema = {
     {
       invariantKind: "departure",
       statement:
-        "A schema file is found by scope, then the page type the property is, then property, then value.",
+        "A schema file is found by scope then the page type the property is then property then value.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const indexSchema = {
     {
       invariantKind: "departure",
       statement:
-        "A line carries the page type the property is, its target page type, and the key a page reads it by.",
+        "A line carries the page type the property is and its target page type and the key a page reads it by.",
     },
     {
       invariantKind: "departure",
@@ -41,13 +41,19 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A qualified name is held as its slug alone, and reads straight back into the index.",
+      statement: "A qualified name is held as its slug alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry is read from the property's own page alone, and no other page's change can leave it stale.",
+      statement: "A qualified name reads straight back into the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry is read from the property's own page alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No other page's change can leave an entry stale.",
     },
   ],
 } as const satisfies Index
