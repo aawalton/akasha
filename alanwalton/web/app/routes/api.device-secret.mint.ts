@@ -1,8 +1,7 @@
-import { ROUTE_TARGETS } from "@shared/person-access/page-type"
 import { MintDeviceSecretSchema } from "~/device-secret/lib/device-secret"
 import { mintDeviceSecret } from "~/device-secret/lib/device-secrets.server"
 import { capacitorCorsHeaders, withCors } from "~/lib/capacitor-cors"
-import { holdsRouteAccess } from "~/person-access/lib/route-access.server"
+import { holdsRouteAccess, ROUTE_TARGETS } from "~/person-access/lib/route-access.server"
 import { resolveDeviceTokenContext } from "~/push/lib/device-tokens.server"
 import type { Route } from "./+types/api.device-secret.mint"
 

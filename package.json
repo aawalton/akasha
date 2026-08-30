@@ -56,8 +56,6 @@
     "shared/pages-ui-store",
     "shared/pages-ui",
     "shared/pages-url",
-    "shared/person-access",
-    "shared/person-authority",
     "shared/person-document",
     "shared/person-target",
     "shared/recurrence",

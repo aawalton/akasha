@@ -111,20 +111,6 @@
         "**/*.ts"
       ]
     },
-    "shared/person-access": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "shared/person-authority": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/person-document": {
       "entry": [
         "**/*.test.{ts,tsx}"

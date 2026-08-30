@@ -1,11 +1,10 @@
 import { timingSafeEqual } from "node:crypto"
-import { ROUTE_TARGETS } from "@shared/person-access/page-type"
 import { z } from "zod"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
 } from "~/device-secret/lib/device-secrets.server"
-import { holdsRouteAccess } from "~/person-access/lib/route-access.server"
+import { holdsRouteAccess, ROUTE_TARGETS } from "~/person-access/lib/route-access.server"
 import { buildReadoutRefusal } from "./readout-credential"
 
 export type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
