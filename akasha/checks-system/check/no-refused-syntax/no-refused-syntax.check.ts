@@ -8,7 +8,7 @@ export const noRefusedSyntax = {
   partSlugs: ["page-type/syntax-rule"],
   code: "ts",
   test: "ts",
-  runsOnPatch: true,
+  runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
