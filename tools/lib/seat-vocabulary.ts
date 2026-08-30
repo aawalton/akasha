@@ -5,7 +5,7 @@ import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { isDirty } from "../../repo/roots/roots.ts"
 
-const SLOTS = ["role", "persona", "domain"] as const
+const SLOTS = ["persona", "domain"] as const
 
 export type Slot = (typeof SLOTS)[number]
 
@@ -13,14 +13,14 @@ export type Vocabulary = Readonly<Record<Slot, readonly string[]>>
 
 type Named = Exclude<Slot, "domain">
 
-const NAMED = ["role", "persona"] as const
+const NAMED = ["persona"] as const
 
 function isNamed(kind: string | null): kind is Named {
   return NAMED.some((one) => one === kind)
 }
 
 export function vocabularyOf(root: string): Vocabulary {
-  const found: Record<Slot, string[]> = { role: [], persona: [], domain: [] }
+  const found: Record<Slot, string[]> = { persona: [], domain: [] }
   for (const relPath of new Bun.Glob("**/*.md").scanSync({ cwd: root, dot: true })) {
     if (relPath.startsWith(".git/") || isDirty(relPath)) continue
     const slug = textField(
@@ -32,7 +32,6 @@ export function vocabularyOf(root: string): Vocabulary {
     if (isNamed(kind)) found[kind].push(pageStemOf(relPath))
   }
   return {
-    role: found.role.sort(),
     persona: found.persona.sort(),
     domain: found.domain.sort(),
   }

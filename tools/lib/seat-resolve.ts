@@ -154,7 +154,7 @@ export function resolveSlot(
 export interface Claimed {
   readonly slot: Declaration
   readonly slug: string
-  readonly relPath: string
+  readonly relPath: string | null
 }
 
 export function resolveAttributes(
@@ -166,7 +166,7 @@ export function resolveAttributes(
   const claimed = new Map<Declaration, Claimed>()
   const refusals: string[] = []
 
-  const claim = (slot: Declaration, slug: string, relPath: string): void => {
+  const claim = (slot: Declaration, slug: string, relPath: string | null): void => {
     const standing = claimed.get(slot)
     if (standing !== undefined) {
       refusals.push(
@@ -181,23 +181,22 @@ export function resolveAttributes(
   for (const slot of DECLARATIONS) {
     const slug = stated[slot]
     if (slug === undefined) continue
+    if (slot === "role") {
+      claim(slot, slug, null)
+      continue
+    }
     const resolved = resolveSlot(slot, slug, root, found)
     if ("refusal" in resolved) refusals.push(`${slot}: ${resolved.refusal}`)
     else claim(slot, slug, resolved.relPath)
   }
 
   for (const token of tokens) {
-    const asRole = resolveSlot("role", token, root, found)
-    if (!("refusal" in asRole)) {
-      claim("role", token, asRole.relPath)
-      continue
-    }
     const asDomain = resolveSlot("domain", token, root, found)
     if (!("refusal" in asDomain)) {
       claim("domain", token, asDomain.relPath)
       continue
     }
-    refusals.push(`\`${token}\` names neither a role nor a domain. ${asRole.refusal}`)
+    refusals.push(`\`${token}\` names no domain. ${asDomain.refusal}`)
   }
 
   if (refusals.length > 0) return { refusals }

@@ -2,20 +2,18 @@
 import { FLEX, JOINER } from "./compose-seat-name.ts"
 import type { Vocabulary } from "./seat-vocabulary.ts"
 
-export const SLOTS = ["persona", "domain", "role", "flex"] as const
+export const SLOTS = ["persona", "domain", "flex"] as const
 
 export type Slot = (typeof SLOTS)[number]
 
 export interface Vocabularies {
   readonly personas: ReadonlySet<string>
   readonly domains: ReadonlySet<string>
-  readonly roles: ReadonlySet<string>
 }
 
 export function vocabulariesOf(vocabulary: Vocabulary): Vocabularies {
   return {
     personas: new Set(vocabulary.persona),
-    roles: new Set(vocabulary.role),
     domains: new Set(vocabulary.domain),
   }
 }
@@ -25,7 +23,6 @@ export type Reading = { readonly [K in Slot]: string | null }
 function admits(slot: Slot, segment: string, vocabularies: Vocabularies): boolean {
   if (slot === "persona") return vocabularies.personas.has(segment)
   if (slot === "domain") return vocabularies.domains.has(segment)
-  if (slot === "role") return vocabularies.roles.has(segment)
   return FLEX.test(segment)
 }
 

@@ -8,7 +8,6 @@ sequence-slugs:
   - page-type/agent
   - page-type/seat
   - page-type/message
-  - page-type/role
 settled: true
 ---
 

@@ -7,13 +7,12 @@ import {
 } from "./seat-turn.ts"
 import { type TurnPending, anyPendingRead, pendingOf, pendingOn } from "./seat-turn-pending.ts"
 import { type TurnWorking, anyWorking, anyWorkingRead, workingOf } from "./seat-turn-working.ts"
-import { roleOnCallOf } from "./seat-on-call.ts"
 
 export const SEAT_TURN_STAMPS = ["idle", "stopped"] as const
 
 export type SeatTurnStamp = (typeof SEAT_TURN_STAMPS)[number]
 
-export const SEAT_TURN_STATES = ["working", "idle-pending", "idle", "idle-on-call", "stopped"] as const
+export const SEAT_TURN_STATES = ["working", "idle-pending", "idle", "stopped"] as const
 
 export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
 
@@ -23,7 +22,6 @@ export interface SeatTurnRecords {
   readonly pending: TurnPending
   readonly working: TurnWorking
   readonly reading: TurnRecord | null
-  readonly roleOnCall: boolean
 }
 
 export interface SeatTurnReading {
@@ -37,8 +35,8 @@ const UNSTAMPED: SeatTurnStamp = "idle"
 
 const NO_TURN_TAKEN: SeatTurnState = "stopped"
 
-function idleIn(kept: SeatTurnRecords): SeatTurnReading {
-  return { state: kept.roleOnCall ? "idle-on-call" : "idle", waitingOn: null }
+function idleIn(): SeatTurnReading {
+  return { state: "idle", waitingOn: null }
 }
 
 export function turnStillToCome(state: SeatTurnState): boolean {
@@ -63,14 +61,14 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
   if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
   if (anyPendingRead(kept.pending)) {
     const on = pendingOn(kept.pending)
-    if (on.length === 0) return idleIn(kept)
+    if (on.length === 0) return idleIn()
     return { state: "idle-pending", waitingOn: on.join(", ") }
   }
   const { source } = kept
   if (source !== null && source.value !== NOTHING_ARRANGED) {
     return { state: "idle-pending", waitingOn: source.value }
   }
-  return idleIn(kept)
+  return idleIn()
 }
 
 export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
@@ -80,7 +78,6 @@ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
     pending: pendingOf(agent),
     working: workingOf(agent),
     reading: turnEndReadingOf(agent),
-    roleOnCall: roleOnCallOf(agent),
   }
 }
 

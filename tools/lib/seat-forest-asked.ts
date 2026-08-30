@@ -55,32 +55,19 @@ function componentsOf(
   return found
 }
 
-function turnRecordsOf(values: Values, roleOnCall: boolean): SeatTurnRecords {
+function turnRecordsOf(values: Values): SeatTurnRecords {
   return {
     stamped: recordOf(values, "turn-state"),
     source: recordOf(values, "turn-pending-source"),
     pending: componentsOf(values, "turn-pending", TURN_PENDING_COMPONENTS),
     working: componentsOf(values, "turn-working", TURN_WORKING_COMPONENTS),
     reading: recordOf(values, "turn-end-reading"),
-    roleOnCall,
   }
-}
-
-function onCallByRole(roots: ReturnType<typeof resolveRoots>): ReadonlyMap<string, boolean> {
-  const found = new Map<string, boolean>()
-  const asked = answer(roots, { pageType: "role", keys: ["slug", "on-call"] })
-  for (const row of asked?.rows ?? []) {
-    const slug = textAt(row.values, "slug")
-    if (slug === null) continue
-    found.set(slug, textAt(row.values, "on-call") === "true")
-  }
-  return found
 }
 
 export function askSeatForest(): readonly ForestReading[] {
   const roots = resolveRoots()
   const akasha = rootFor(roots, AKASHA)
-  const onCall = onCallByRole(roots)
   const asked = answer(roots, { pageType: "seat", keys: [...SEAT_KEYS], sortBy: "slug" })
   const colours = new Map<SeatTurnState, string | null>()
   const idByName = new Map<string, string>()
@@ -94,7 +81,7 @@ export function askSeatForest(): readonly ForestReading[] {
     const values = row.values
     const person = textAt(values, "person-slug")
     const parentName = textAt(values, "principal-seat-name")
-    const reading = readSeatTurn(turnRecordsOf(values, onCall.get(textAt(values, "role-slug") ?? "") ?? false))
+    const reading = readSeatTurn(turnRecordsOf(values))
     if (!colours.has(reading.state)) colours.set(reading.state, colorOfState(reading.state, akasha))
     found.push({
       id: textAt(values, "id") ?? "",

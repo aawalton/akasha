@@ -145,7 +145,7 @@ export function fromSeat(
   for (const [slot, slug] of [
     ["persona", spelled.persona],
     ["domain", spelled.domain ?? defaults?.domain ?? null],
-    ["role", spelled.role ?? defaults?.role ?? null],
+    ["role", defaults?.role ?? null],
   ] as const) {
     if (slug !== null) set[slot] = slug
   }

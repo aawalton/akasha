@@ -18,27 +18,14 @@ function withAncestry(relPath: string, root: string, docs: Documents): readonly 
   return declaredPathReading(relPath, docs).map((at) => ({ root, relPath: at }))
 }
 
-function namedPageWarrant(
-  slot: "persona" | "role",
-  slug: string,
-  root: string,
-  docs: Documents
-): readonly SeatDocument[] | null {
-  const at = documentFor(slot, slug, root)
-  return at === null ? null : withAncestry(at, root, docs)
-}
-
 export function personaWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
-  return namedPageWarrant("persona", slug, root, docs)
+  const at = documentFor("persona", slug, root)
+  return at === null ? null : withAncestry(at, root, docs)
 }
 
 export function domainWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
   const at = docs.domainAt(slug)
   return at === null ? null : withAncestry(at, root, docs)
-}
-
-export function roleWarrant(slug: string, root: string, docs: Documents): readonly SeatDocument[] | null {
-  return namedPageWarrant("role", slug, root, docs)
 }
 
 export function initiativeWarrant(
@@ -104,14 +91,11 @@ export function declaredSeatReading(
   const root = rootFor(roots, AKASHA)
   const out: Warranted[] = []
   for (const slot of ATTRIBUTES) {
+    if (slot === "role") continue
     const one = stated.attributes[slot]
     if (one === undefined) continue
     const found =
-      slot === "persona"
-        ? personaWarrant(one.slug, root, docs)
-        : slot === "domain"
-          ? domainWarrant(one.slug, root, docs)
-          : roleWarrant(one.slug, root, docs)
+      slot === "persona" ? personaWarrant(one.slug, root, docs) : domainWarrant(one.slug, root, docs)
     out.push({ claimant: slot, slug: one.slug, documents: withRequired(found, root, docs) })
   }
   if (stated.initiative !== null) {

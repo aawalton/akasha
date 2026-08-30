@@ -11,7 +11,6 @@ import { refuseInitiative } from "./lib/seat-initiative.ts"
 import { launchOf, launchStating, refuseFlex } from "./lib/seat-flex.ts"
 import { principalOf } from "./lib/seat-principal.ts"
 import { handlerDerives, personaIsHers, refuseAnswering } from "./lib/seat-answering.ts"
-import { roleGrantsOnCall } from "./lib/seat-on-call.ts"
 import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
 import { defaultLines } from "./lib/seat-defaults.ts"
 import { seatId } from "./lib/read-record.ts"
@@ -229,7 +228,7 @@ export async function run(argv: readonly string[]): Promise<void> {
   }
   if (followed.kind === "renamed") notes.push(`name:   ${followed.name}`)
 
-  const nowOnCall = onCall || roleGrantsOnCall(standing["role"]?.slug ?? null, pages, found)
+  const nowOnCall = onCall
   if (seatName !== null) {
     const said = {
       clear: args.clear,

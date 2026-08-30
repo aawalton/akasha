@@ -7,7 +7,6 @@ domain-parent-slug: domain/context-warrant
 sequence-slugs:
   - domain/context-warrant-persona
   - domain/context-warrant-domain
-  - domain/context-warrant-role
 settled: true
 ---
 

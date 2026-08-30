@@ -3,7 +3,7 @@ id: 4b8d9a0c-2cad-5970-948f-f497fbcd480b
 page-type-slug: domain
 title: "Interview session"
 slug: interview-session
-domain-parent-slug: role/interviewer
+domain-parent-slug: domain/agent-definitions
 ---
 
 # Definition

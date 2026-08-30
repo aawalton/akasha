@@ -64,9 +64,9 @@ Usage:
 Flags:
   --persona <slug>  Who is speaking. Matched against the file name under personas/.
   --domain <slug>   Where the work is. Resolves to whatever declares that slug,
-                    often a page type, folder or role rather than a file under domains/.
-  --role <slug>     What it is answerable for across every piece of work. Matched against the file
-                    name under roles/, at whatever depth it sits.
+                    often a page type or folder rather than a file under domains/.
+  --role <slug>     What it is answerable for across every piece of work. Taken as stated;
+                    roles stand in the akasha system, which this does not read.
   --from-seat       Propose persona, domain and role from the seat name on disk, and state
                     them. The domain is the persona's own championed-domain, so a seat named
                     after her carries it without anyone typing one; a persona declaring
@@ -128,9 +128,8 @@ Flags:
                     TREE claims instead, for a caller writing a default somewhere
                     other than a seat; a slot nothing claims is absent from the answer.
   --token <slug>    A token whose attribute was not named. Repeatable, and
-                    order-independent: each is sorted into role or domain against the
-                    pages — a slug under roles/ is the role, and a slug something
-                    else declares that slug for is the domain. Two tokens
+                    order-independent: each is matched against the pages, and whatever
+                    declares that slug is the domain. Two tokens
                     reaching one attribute are refused rather than guessed apart. Needs
                     --resolve; there is no token form of a statement.
   --agent <id>      Whose seat. Defaults to AGENT_ID, then the session id.

@@ -80,9 +80,6 @@ export function undeclared(stated: Stated): string | null {
   }
 
   const role = stated.kind === "domain" ? stated.role : null
-  if (role !== null && "refusal" in resolveSlot("role", role, root, found)) {
-    return `--role '${role}': nothing under pages/role/ is named \`${role}\`.`
-  }
 
   return null
 }

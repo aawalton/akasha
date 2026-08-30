@@ -18,7 +18,7 @@ function isDocument(relPath: string): boolean {
   return relPath.endsWith(DOC) && !isAttachmentFile(relPath) && !isRowsFile(relPath)
 }
 
-export const SUBJECTS = ["personas", "persons", "roles", "domains"] as const
+export const SUBJECTS = ["personas", "persons", "domains"] as const
 
 export type Subject = (typeof SUBJECTS)[number]
 
@@ -175,7 +175,6 @@ const TYPE_OF: Readonly<Record<Subject, string>> = {
   domains: "domain",
   personas: "persona",
   persons: "person",
-  roles: "role",
 }
 
 function homeOf(root: string, subject: Subject, what: string): Home {
@@ -207,10 +206,7 @@ export function readSubject(root: string, subject: Subject, withBody = false): S
     return deadUnless(walked, subject, one, home.root)
   }
   const kept = home.relPaths.filter((relPath) => !isDirty(relPath))
-  const found =
-    subject === "personas" || subject === "persons"
-      ? byDeclaredSlug(home.root, kept, subject === "personas", withBody)
-      : { records: byStem(home.root, kept, one, withBody), unnamed: [] }
+  const found = byDeclaredSlug(home.root, kept, subject === "personas", withBody)
   return deadUnless(found, subject, one, home.root)
 }
 

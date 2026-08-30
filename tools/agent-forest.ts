@@ -24,12 +24,11 @@ the seat's page names, or \`agent\` where it names a seat above it instead, and 
 is not derivable from \`launch\`.
 A value that is not a string reads as absent rather than as its own rendering.
 
-\`state\` is \`working\`, \`idle-pending\`, \`idle\`, \`idle-on-call\` or \`stopped\`, read from what the seat
-itself keeps rather than from the page. Three of the five are stamped by a hook as the turn moves:
+\`state\` is \`working\`, \`idle-pending\`, \`idle\` or \`stopped\`, read from what the seat
+itself keeps rather than from the page. Three of the four are stamped by a hook as the turn moves:
 working while a turn or a compaction runs, idle once one ends, stopped once the session does.
-The other two are read rather than stamped — an idle seat whose turn start source names anything but
-\`none\` is \`idle-pending\`, and \`waitingOn\` says what it waits on, while an idle seat holding a role
-that stands by rather than waiting on Alan is \`idle-on-call\`. A seat keeping no turn record at all has taken no turn and reads
+The fourth is read rather than stamped — an idle seat whose turn start source names anything but
+\`none\` is \`idle-pending\`, and \`waitingOn\` says what it waits on. A seat keeping no turn record at all has taken no turn and reads
 \`stopped\`, which is what a seat whose session never started holds; one keeping records from
 before the stamps reads idle. Every row carries both keys.
 

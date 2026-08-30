@@ -9,7 +9,6 @@ const DRAWN_AS: Record<SeatTurnState, string> = {
   working: "agent-turn-working",
   "idle-pending": "agent-turn-idle-pending",
   idle: "agent-turn-idle",
-  "idle-on-call": "agent-turn-idle-on-call",
   stopped: "agent-turn-stopped",
 }
 

@@ -8,8 +8,6 @@ const PERSONA_KEY = "persona-slug"
 
 const DOMAIN_KEY = "domain-slug"
 
-const ROLE_KEY = "role-slug"
-
 const INITIATIVE_KEY = "initiative-slug"
 
 const PERSON_KEY = "person-slug"
@@ -29,8 +27,6 @@ const MODE_PREFIX = "seat-mode-"
 const TRUE = "true"
 
 const PERSONA_TYPE = "persona"
-
-const ROLE_TYPE = "role"
 
 const INITIATIVE_TYPE = "initiative"
 
@@ -106,7 +102,6 @@ function warrantsFrom(stated: Stated, index: AddressIndex): readonly Warranted[]
   if (domain !== null) {
     for (const one of above(domain, index)) found.push({ claimant: "domain", page: one })
   }
-  take("role", ROLE_TYPE, stated(ROLE_KEY))
   take("initiative", INITIATIVE_TYPE, stated(INITIATIVE_KEY))
   take("principal", PERSON_TYPE, stated(PERSON_KEY))
   const mode = stated(MODE_KEY)

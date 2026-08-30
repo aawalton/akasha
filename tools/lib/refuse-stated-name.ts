@@ -11,8 +11,6 @@ function slotsSpelling(name: string): string | null {
     vocabularies = {
       personas: new Set(named.personas),
       domains: new Set(named.domains),
-      roles: new Set(named.roles),
-      tasks: new Set(named.tasks),
     }
   } catch {
     return null

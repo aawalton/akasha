@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Alert role slug"
 defined-on-slug: page-type/alert
 key: role-slug
-type: relation-slug
-target-slug: role
+type: text
 slug: alert-role-slug
 domain-parent-slug: page-type/alert
 ---

@@ -27,20 +27,12 @@ const HELP = [
   "reader of both can tell which drifted. Ask here instead.",
   "",
   "VOCABULARIES (no flag). Prints JSON on stdout:",
-  "  { root, vocabularies: { personas, persons, domains, roles, tasks }, rolesLongestFirst, separator }",
+  "  { root, vocabularies: { personas, persons, domains }, separator }",
   "",
   "`separator` is the character a name joins its segments with. It is reported rather than",
   "left for a caller to spell, because a caller building a prefix match over stored names",
   "(`owner LIKE 'amy-%'`) would otherwise hold a second copy of a grammar rule — and one that",
   "looks far too small to be a rule at all, which is exactly why it would never be revisited.",
-  "",
-  "`roles` is what a name MAY SPELL — this repository's roles less `human` and `unknown`, which",
-  "have no role document and never will. For every role the `role` attribute admits, ask",
-  "`declarations.ts roles` instead; that is the repository's question and this is the grammar's.",
-  "",
-  "`rolesLongestFirst` is the order a name is split against, so the more specific role wins",
-  "rather than whichever the repository happened to declare first. It orders the same set and is",
-  "derived in the same read, so no caller need sort its own copy.",
   "",
   "ALL OF THEM COME FROM ONE READING. A name is checked against all of them together, and this",
   "tree moves several times a day, so vocabularies gathered at five moments can describe five",
@@ -53,7 +45,7 @@ const HELP = [
   "  out:  { root, readings: [ { name, reading } | { name, unreadable, unplaceable }, … ] }",
   "",
   "Every name in goes out, in the order it arrived, so a caller may match by position.",
-  "`reading` fills the slots persona, domain, role, flex, task and seq, each a slug or null",
+  "`reading` fills the slots persona, domain and flex, each a slug or null",
   "where the name spells none. An unreadable name carries BOTH of its repairs, because they",
   "want different acts and a caller holding one cannot tell them apart: `unreadable` is every",
   "division that tied, whose repair is a repository one — a slug renamed, or a vocabulary it",
@@ -69,7 +61,7 @@ const HELP = [
   "ADMISSIBILITY AND MEANING ARE DIFFERENT QUESTIONS, which is why this is not --read. --read",
   "answers which SLOTS a name fills; --admits answers which FAMILY admits it, and neither answer",
   "gives the other — `alan` is admitted as `person` and read as `domain=alan`, and `ki-handler`",
-  "as `person` and as `domain=ki role=handler`.",
+  "as `person` and as `domain=ki`.",
   "",
   "`family` is the family that admitted the name, or null where none did. `admitted` is false",
   "exactly when `family` is null. `shapes` is every declared shape, in declaration order, for",
@@ -137,8 +129,6 @@ function slotVocabulariesOf(root: string): Vocabularies {
   return {
     personas: new Set(named.personas),
     domains: new Set(named.domains),
-    roles: new Set(named.roles),
-    tasks: new Set(named.tasks),
   }
 }
 
@@ -148,9 +138,6 @@ function admissionVocabulariesOf(root: string): AdmissionVocabularies {
     personas: new Set(named.personas),
     persons: new Set(named.persons),
     domains: new Set(named.domains),
-    roles: new Set(named.roles),
-    rolesLongestFirst: named.rolesLongestFirst,
-    tasks: new Set(named.tasks),
   }
 }
 
@@ -213,11 +200,10 @@ async function main(): Promise<undefined> {
       answer(() => admitsPayload(payload, root))
       return
     }
-    const { personas, persons, domains, roles, tasks, rolesLongestFirst } = nameVocabularyOf(root)
+    const { personas, persons, domains } = nameVocabularyOf(root)
     const out = {
       root,
-      vocabularies: { personas, persons, domains, roles, tasks },
-      rolesLongestFirst,
+      vocabularies: { personas, persons, domains },
       separator: JOINER,
     }
     process.stdout.write(`${JSON.stringify(out, null, 2)}\n`)

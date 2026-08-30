@@ -11,9 +11,6 @@ export function movesWithTheAttributes(name: string, root: string): boolean {
     personas: new Set(named.personas),
     persons: new Set(named.persons),
     domains: new Set(named.domains),
-    roles: new Set(named.roles),
-    rolesLongestFirst: named.rolesLongestFirst,
-    tasks: new Set(named.tasks),
   })
   return family === null || MOVES.has(family)
 }

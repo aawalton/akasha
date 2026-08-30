@@ -4,8 +4,7 @@ page-type-slug: page-property-definition
 title: "Seat role slug"
 defined-on-slug: page-type/seat
 key: role-slug
-type: relation-slug
-target-slug: role
+type: text
 default: worker
 slug: seat-role-slug
 domain-parent-slug: domain/seat-attribute

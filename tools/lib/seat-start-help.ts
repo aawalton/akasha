@@ -35,7 +35,7 @@ export const help: CommandHelp = {
       argLabel: "<slug>",
       valueShape: "token",
       description:
-        "What this seat does — a slug `pages/role/*.role.md` answers to. Outranks the persona's default, which is how a role DEPARTURE is spelled.",
+        "What this seat does — a role slug, taken as stated. Outranks the persona's default, which is how a role DEPARTURE is spelled.",
     },
     {
       name: "--domain",
