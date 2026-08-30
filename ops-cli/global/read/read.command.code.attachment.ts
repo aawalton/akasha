@@ -8,7 +8,6 @@ import { agentPageFor, readRecordFor, replacedAt } from "../../../agent/read-rec
 import { recordRead } from "../../../agent/record-read.ts"
 import { writerId } from "../../../agent/writer.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
-import { conditionalBelow, conditionalCaption, conditionalText } from "./conditional.ts"
 import { requiredFor } from "./required.ts"
 import { seatTargets } from "./seat.ts"
 import { type Target, targetOf } from "./target.ts"
@@ -99,9 +98,6 @@ export const help = {
     "stands, answered from the record exactly as a named path is — whole the first time, one line where " +
     "it has not moved, and the difference where it has. A seat owing one document pays for one and not " +
     `for the set. Where a context was lost while the record stands, \`${FULL}\` returns the bodies. ` +
-    "Under those come the DEFINITIONS of what those documents name as " +
-    "`conditional-reading-slugs:`, each one line: enough to judge which bears on the work, and not the " +
-    "body, which you read by its path when it does.\n" +
     "\n" +
     "WHAT ONE ANSWER CARRIES BOUNDS WHAT COMES BACK, and no file is broken off partway to fit. Files go " +
     `out whole, in the order above, until the next one would carry the answer past ${ANSWER_CEILING} ` +
@@ -213,12 +209,6 @@ export default async function read(argv: readonly string[]): Promise<void> {
   }
   const workspace = mkdtempSync(`${SCRATCH}/akasha-read-`)
   const queue = [...targets, ...required.targets]
-  const conditional = args.seat ? conditionalBelow(queue, from) : []
-  const definitions =
-    conditional.length === 0
-      ? []
-      : [conditionalCaption(conditional.length), ...conditional.map(conditionalText)]
-  const kept = costOf(definitions)
   let taken = 0
   let left: readonly Target[] = []
   try {
@@ -251,7 +241,7 @@ export default async function read(argv: readonly string[]): Promise<void> {
         continue
       }
       const rest = queue.slice(order + 1)
-      if (taken > 0 && spent + cost + kept + costOf(restCall(rest, full)) > ANSWER_CEILING) {
+      if (taken > 0 && spent + cost + costOf(restCall(rest, full)) > ANSWER_CEILING) {
         left = queue.slice(order)
         break
       }
@@ -264,7 +254,6 @@ export default async function read(argv: readonly string[]): Promise<void> {
   } finally {
     rmSync(workspace, { recursive: true, force: true })
   }
-  say(...definitions)
   say(...restCall(left, full))
   if (report.length > 0) process.stdout.write(`${report.join("\n")}\n`)
   if (refusals.length === 0) return

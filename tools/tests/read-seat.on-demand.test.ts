@@ -18,7 +18,7 @@ beforeEach(() => {
   at.installRecorder()
   at.put(
     "pages/domain/global.domain.md",
-    "---\nslug: global\ndomain-parent-slug: global\nrequired-reading-slugs:\n  - domain/helper\nconditional-reading-slugs:\n  - domain/widget\n---\n\n# Definition\n\n- **Global** — the domain every other sits inside.\n"
+    "---\nslug: global\ndomain-parent-slug: global\nrequired-reading-slugs:\n  - domain/helper\n---\n\n# Definition\n\n- **Global** — the domain every other sits inside.\n"
   )
   at.put(
     "pages/domain/helper.domain.md",
@@ -26,7 +26,7 @@ beforeEach(() => {
   )
   at.put(
     "pages/domain/widget.domain.md",
-    "---\nslug: widget\ndomain-parent-slug: global\n---\n\n# Definition\n\n- **Widget** — the one named as conditional.\n\n# Design\n\nThe body that must not arrive unasked.\n"
+    "---\nslug: widget\ndomain-parent-slug: global\n---\n\n# Definition\n\n- **Widget** — the domain a subagent is pointed at.\n\n# Design\n\nThe body that must not arrive unasked.\n"
   )
   plantSeat(at, { agent: AGENT, name: "reading", domain: "global" })
   Bun.spawnSync(["git", "init", "-q"], { cwd: at.root })
@@ -84,22 +84,6 @@ describe("what one seat read hands back", () => {
   })
 })
 
-describe("what it hands back for a document named as conditional", () => {
-  test("its definition, so the seat can judge whether it bears on the work", () => {
-    const { out } = run(["--seat"])
-    expect(out).toContain("cond:   domain/widget")
-    expect(out).toContain("the one named as conditional.")
-  })
-
-  test("not its body, which is the whole point of naming it rather than requiring it", () => {
-    expect(run(["--seat"]).out).not.toContain("The body that must not arrive unasked.")
-  })
-
-  test("and no reading is recorded against it, a definition not being the document", () => {
-    run(["--seat"])
-    expect(recorded("pages/domain/widget.domain.md")).toBe(false)
-  })
-})
 
 describe("a context that lost the bodies while the record stands", () => {
   test("gets them again rather than a line saying it already read them", () => {

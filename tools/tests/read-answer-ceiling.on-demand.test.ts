@@ -156,12 +156,8 @@ describe("what a seat gets when its own set runs past the ceiling", () => {
       "pages/domain/global.domain.md",
       "---\nslug: global\ndomain-parent-slug: global\nrequired-reading-slugs:\n" +
         SLUGS.map((slug) => `  - domain/${slug}`).join("\n") +
-        "\nconditional-reading-slugs:\n  - domain/widget\n---\n\n# Definition\n\n" +
+        "\n---\n\n# Definition\n\n" +
         "- **Global** — the domain every other sits inside.\n"
-    )
-    at.put(
-      "pages/domain/widget.domain.md",
-      "---\nslug: widget\ndomain-parent-slug: global\n---\n\n# Definition\n\n- **Widget** — the one named as conditional.\n"
     )
     plantSeat(at, { agent: AGENT, domain: "global" })
   }
@@ -176,12 +172,6 @@ describe("what a seat gets when its own set runs past the ceiling", () => {
     expect(continuationIn(out)).toContain("--full")
   })
 
-  test("the conditional definitions it would have got anyway, none of them lost to the ceiling", () => {
-    boundToAll()
-    const { out } = run(["--seat"])
-    expect(out).toContain("cond:   domain/widget")
-    expect(out).toContain("the one named as conditional.")
-  })
 })
 
 describe("what --full forces, and what it leaves to the record", () => {
