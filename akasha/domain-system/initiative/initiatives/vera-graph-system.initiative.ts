@@ -15,5 +15,9 @@ export const veraGraphSystem = {
       invariantKind: "gap",
       statement: "No check's closure is beyond the analysis.",
     },
+    {
+      invariantKind: "gap",
+      statement: "No answer is given where an index it rests on is missing.",
+    },
   ],
 } as const satisfies Initiative
