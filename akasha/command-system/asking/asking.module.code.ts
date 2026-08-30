@@ -248,7 +248,7 @@ function reporting(root: string, asked: Asked, gate: Judging): Answer {
   }
 }
 
-export function recordLanded(given: Given, changes: readonly Change[]): void {
+export function recordLanded(given: Given, changes: readonly Change[]): undefined {
   if (given.agentId === null) return
   for (const one of changes) {
     if (one.body === null) continue
