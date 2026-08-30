@@ -1,12 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  claiming,
-  declaring,
-  shadowing,
-  stands,
-} from "../../check-scratch/check-scratch.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Leaving } from "../../judging/judging.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.check.code.ts"
 import { everySpeltIn, noRuleInTwoFiles, reasonsIn } from "./no-rule-in-two-files.check.code.ts"
@@ -135,14 +131,18 @@ function bothArriving(root: string): Leaving {
 
 test("the files a change brings stand among those a rule is looked for in", () => {
   const change = bothArriving(rooted())
-  const every = everySpeltIn(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const every = everySpeltIn(change, cast.shadow)
   const said = [...every.values()].flat().map((one) => one.path)
   expect(said.sort()).toEqual([ONE_CODE, TWO_CODE])
 })
 
 test("two files arriving in one change, both spelling one rule, are both refused", () => {
   const change = bothArriving(rooted())
-  const said = noRuleInTwoFiles(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const said = noRuleInTwoFiles(change, cast.shadow)
   expect(said.map((one) => one.path).sort()).toEqual([ONE_CODE, TWO_CODE])
   expect(said[0]?.reason).toContain("one rule belongs in one file")
 })

@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   declaring,
   edging,
@@ -9,7 +10,6 @@ import {
   NO_BYTES,
   pathFor,
   put,
-  shadowing,
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
@@ -67,7 +67,9 @@ function rooted(): string {
 }
 
 function judged(change: Leaving): readonly Judged[] {
-  return propertyIsDeclaredByAType(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return propertyIsDeclaredByAType(change, cast.shadow)
 }
 
 test("a property the index says some page type declares is let through", () => {

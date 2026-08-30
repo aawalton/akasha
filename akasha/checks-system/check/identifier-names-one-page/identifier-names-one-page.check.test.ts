@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   declaring,
@@ -8,7 +9,6 @@ import {
   landing,
   NO_BYTES,
   pathFor,
-  shadowing,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
@@ -55,7 +55,9 @@ function body(kind: string, slug: string, id: string): Uint8Array {
 }
 
 function judged(change: Leaving): readonly Judged[] {
-  return identifierNamesOnePage(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return identifierNamesOnePage(change, cast.shadow)
 }
 
 test("a slug another page of its type already carries is refused", () => {

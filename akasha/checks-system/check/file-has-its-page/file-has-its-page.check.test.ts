@@ -1,11 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  claiming,
-  declaring,
-  shadowing,
-  stands,
-} from "../../check-scratch/check-scratch.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.check.code.ts"
 
@@ -49,11 +45,15 @@ function arriving(
 }
 
 function judged(change: Leaving): readonly Judged[] {
-  return fileHasItsPage(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return fileHasItsPage(change, cast.shadow)
 }
 
 function unclaimed(change: Leaving): readonly string[] {
-  return unclaimedIn(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return unclaimedIn(change, cast.shadow)
 }
 
 test("a path the index says a page claims is let through", () => {

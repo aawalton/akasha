@@ -1,11 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  claiming,
-  declaring,
-  shadowing,
-  stands,
-} from "../../check-scratch/check-scratch.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 import {
   pagePropertyHasItsFile,
@@ -68,7 +64,9 @@ function over(
 }
 
 function judged(change: Leaving): readonly Judged[] {
-  return pagePropertyHasItsFile(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return pagePropertyHasItsFile(change, cast.shadow)
 }
 
 test("a page whose stated code file stands in the change is let through", () => {

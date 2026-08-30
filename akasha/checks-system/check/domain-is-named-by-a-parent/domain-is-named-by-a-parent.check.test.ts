@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   declaring,
   edging,
@@ -9,7 +10,6 @@ import {
   NO_BYTES,
   pathFor,
   put,
-  shadowing,
   stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
@@ -47,7 +47,9 @@ function body(kind: string, slug: string, id: string, parts?: readonly string[])
 }
 
 function judged(change: Leaving): readonly Judged[] {
-  return domainIsNamedByAParent(change, shadowing(change))
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return domainIsNamedByAParent(change, cast.shadow)
 }
 
 test("a page the index says some page names among its parts is let through", () => {
