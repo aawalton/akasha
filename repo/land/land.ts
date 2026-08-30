@@ -15,7 +15,7 @@ import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
-import { GATED, gateOrRefuse } from "../../patches/patch.ts"
+import { GATED } from "../../patches/patch.ts"
 import { blobId, commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
 import { canonicalize } from "../path/path.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
@@ -320,15 +320,6 @@ function akashaGated(
     process.stderr.write(GLASS_BROKEN)
     return
   }
-  const carried = carrying.map((one) => ({ relPath: one.to, from: `${root}/${one.from}` }))
-  const removals = [...removing, ...carrying.map((one) => one.from)]
-  gateOrRefuse(
-    patchAside(entries, carried, removals, root),
-    entries.length + carried.length + removals.length,
-    root,
-    goneElsewhere,
-    repointedElsewhere
-  )
 }
 
 export interface Target {

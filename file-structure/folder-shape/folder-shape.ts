@@ -1,4 +1,3 @@
-import { refusesChange } from "../../checks-system/checks.ts"
 import { type BuildContext, KEEPS_NOTHING } from "../../graph/build-context/build-context.ts"
 import { frontmatterAt } from "../../graph/frontmatter-at/frontmatter-at.ts"
 import { nameOf, pageIndexIn, pagesOfType } from "../../graph/page-index/page-index.ts"
@@ -35,9 +34,7 @@ function checkNamedBy(ctx: BuildContext, at: PageAt): PageAt | null {
 }
 
 export function statusOf(ctx: BuildContext, at: PageAt): FolderShapeStatus {
-  const check = checkNamedBy(ctx, at)
-  if (check === null) return HYPOTHESIS
-  return refusesChange(ctx, check) ? ENFORCED : CODED
+  return checkNamedBy(ctx, at) === null ? HYPOTHESIS : CODED
 }
 
 export function statusesOver(ctx: BuildContext): ReadonlyMap<string, FolderShapeStatus> {

@@ -1,15 +1,12 @@
-import type { Outcome } from "../../checks-system/check/check-shape.ts"
 import { type Key, answerAt, cacheAnswer } from "../cache.ts"
 import { type Input, markOf } from "../mark/mark.ts"
 
 export const OUTCOME_KIND = "outcome"
 
-const CHECKS = "checks-system/check"
-
-const CHECK_TAIL = "check.code.attachment.ts"
-
-export function entryOf(slug: string): string {
-  return `${CHECKS}/${slug}/${slug}.${CHECK_TAIL}`
+export type Outcome = {
+  readonly slug: string
+  readonly path: string
+  readonly reasons: readonly string[]
 }
 
 export function outcomeMarkOf(

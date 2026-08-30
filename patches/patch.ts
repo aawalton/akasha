@@ -1,8 +1,6 @@
 import { execFileSync } from "node:child_process"
 import { mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { checksOnPatch } from "../checks-system/checks.ts"
-import { runGate } from "../checks-system/run/gate.ts"
 import { akashaRoot } from "../repo/roots/roots.ts"
 
 export const HERE = realpathSync(akashaRoot())
@@ -91,48 +89,3 @@ export function patchText(
   }
 }
 
-export function refusalsOver(
-  patch: string,
-  root: string,
-  goneElsewhere: readonly string[],
-  repointedElsewhere: ReadonlyMap<string, string>
-): readonly string[] {
-  const held = mkdtempSync(`${SCRATCH}/mp-gate-`)
-  const file = `${held}/change.patch`
-  try {
-    writeFileSync(file, patch)
-    const said: string[] = []
-    const asked = { root, file, goneElsewhere, repointedElsewhere }
-    for (const ran of runGate(checksOnPatch(), asked)) {
-      if ("threw" in ran) {
-        said.push(`${ran.slug} threw: ${ran.threw}`)
-        continue
-      }
-      for (const failure of ran.failures) said.push(`${ran.slug}: ${failure.path} — ${failure.reason}`)
-    }
-    return said
-  } finally {
-    rmSync(held, { recursive: true, force: true })
-  }
-}
-
-export function gateOrRefuse(
-  patch: string,
-  changed: number,
-  root: string = HERE,
-  goneElsewhere: readonly string[] = [],
-  repointedElsewhere: ReadonlyMap<string, string> = new Map()
-): void {
-  if (patch.trim() === "") {
-    process.stderr.write("gate: no line differs from what stands, so no check had anything to judge\n")
-    return
-  }
-  const refused = refusalsOver(patch, root, goneElsewhere, repointedElsewhere)
-  if (refused.length > 0) {
-    process.stderr.write(`${refused.join("\n")}\nnothing was written\n`)
-    process.exit(1)
-  }
-  process.stderr.write(
-    `gate: ${checksOnPatch().length} akasha check(s) over ${changed} changed file(s), none refused\n`
-  )
-}
