@@ -25,6 +25,7 @@ export const pageType = {
     "boolean-property/many",
     "boolean-property/mortal",
     "boolean-property/required",
+    "boolean-property/secret",
     "boolean-property/uncommitted",
     "record-property/properties",
     "relation-property/extends-slug",

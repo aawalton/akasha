@@ -4,6 +4,7 @@ import type { Total } from "../../page-property/properties/total.number-property
 import type { RecordProperty } from "../../record-property/record-property.page-type.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
+import type { Secret } from "./secret.boolean-property.ts"
 import type { Uncommitted } from "./uncommitted.boolean-property.ts"
 
 export type Declaration =
@@ -12,6 +13,7 @@ export type Declaration =
       required: Required
       many: false
       uncommitted?: Uncommitted
+      secret?: Secret
     }
   | {
       pagePropertySlug: PagePropertySlug
@@ -20,6 +22,7 @@ export type Declaration =
       max: Max | null
       total?: Total | null
       uncommitted?: Uncommitted
+      secret?: Secret
     }
 
 export type Properties = List<Declaration>
@@ -37,6 +40,7 @@ export const properties = {
     { pagePropertySlug: "max", required: false, many: false },
     { pagePropertySlug: "total", required: false, many: false },
     { pagePropertySlug: "uncommitted", required: false, many: false },
+    { pagePropertySlug: "secret", required: false, many: false },
   ],
   invariants: [
     {
@@ -79,6 +83,10 @@ export const properties = {
       invariantKind: "departure",
       statement:
         "A value stands in the commit unless the declaration carrying it says it does not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value stands in the open unless the declaration carrying it says it does not.",
     },
   ],
 } as const satisfies RecordProperty
