@@ -20,13 +20,24 @@ afterAll(scratch.sweep)
 
 const AT = "akasha/one.thing.ts"
 
+const TYPE_AT = "akasha/widget.page-type.ts"
+
+const WIDGET_AT = "akasha/one.widget.ts"
+
 const HELD_ID = "01a0503f-14ea-74e4-9759-fe1f54a03d0d"
+
+const TYPE_ID = "01a0503f-14ea-74e4-9759-fe1f54a03d0e"
 
 const SHAPE = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
 
 const BODY =
   'import type { Thing } from "./thing.page-type.ts"\n\n' +
   'export const one = { pageTypeSlug: "thing", slug: "one" } as const satisfies Thing\n'
+
+const TYPE_BODY =
+  `export const widget = { id: "${TYPE_ID}",` + ' pageTypeSlug: "page-type", slug: "widget" }\n'
+
+const WIDGET_BODY = 'export const one = { pageTypeSlug: "widget", slug: "one" }\n'
 
 function property(
   root: string,
@@ -93,8 +104,8 @@ function carrying(body: string): FileEdit {
   return { path: AT, body: new TextEncoder().encode(body) }
 }
 
-function textOf(changes: readonly FileEdit[]): string {
-  const found = changes.find((one) => one.path === AT)
+function textOf(changes: readonly FileEdit[], path: string = AT): string {
+  const found = changes.find((one) => one.path === path)
   return found?.body === null || found?.body === undefined
     ? ""
     : new TextDecoder().decode(found.body)
@@ -142,6 +153,16 @@ test("a page being created is given the value it does not carry", () => {
   const said = mintingOnto(root, [carrying(BODY)])
   expect(said.filled).toEqual([{ path: AT, keys: ["id"] }])
   expect(textOf(said.changes)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
+})
+
+test("a page of a page type landing in the same change is given the value it does not carry", () => {
+  const root = rooted("uuid-v7")
+  const said = mintingOnto(root, [
+    { ...carrying(TYPE_BODY), path: TYPE_AT },
+    { ...carrying(WIDGET_BODY), path: WIDGET_AT },
+  ])
+  expect(said.filled).toEqual([{ path: WIDGET_AT, keys: ["id"] }])
+  expect(textOf(said.changes, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "widget"/)
 })
 
 test("a page carrying the value already keeps the one it carries", () => {

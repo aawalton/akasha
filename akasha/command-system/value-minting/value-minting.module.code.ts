@@ -7,7 +7,7 @@ import {
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
+import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
@@ -82,22 +82,27 @@ export function mintedFor(kind: string, slug: string): string {
   )
 }
 
-export function earlyIn(root: string, changes: readonly FileEdit[]): ReadonlyMap<string, string> {
-  const change = changeOf(root, { base: baseOf(root), edits: changes })
-  const cast = shadowFor(change)
-  if ("refused" in cast) return new Map()
+export function earlyOf(shadow: Shadow): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  for (const [slug, one] of generatedProperties(cast.shadow)) {
+  for (const [slug, one] of generatedProperties(shadow)) {
     if (!one.afterChecks) found.set(slug, one.kind)
   }
   return found
 }
 
+export function earlyIn(root: string, changes: readonly FileEdit[]): ReadonlyMap<string, string> {
+  const cast = shadowFor(changeOf(root, { base: baseOf(root), edits: changes }))
+  if ("refused" in cast) return new Map()
+  return earlyOf(cast.shadow)
+}
+
 export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
-  const early = earlyIn(root, changes)
-  if (early.size === 0) return { changes, filled: [] }
   const change = changeOf(root, { base: baseOf(root), edits: changes })
-  const pageTypes = pageTypesIn(root)
+  const cast = shadowFor(change)
+  if ("refused" in cast) return { changes, filled: [] }
+  const early = earlyOf(cast.shadow)
+  if (early.size === 0) return { changes, filled: [] }
+  const pageTypes = pageTypesIn(cast.shadow.reading)
   const held: FileEdit[] = []
   const filled: Filled[] = []
   for (const one of changes) {
