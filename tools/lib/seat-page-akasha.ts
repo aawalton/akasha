@@ -90,6 +90,9 @@ export function akashaSeatBody(
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${said(registration)},`,
     ...(initiative === null ? [] : [`  initiativeSlug: ${said(initiative)},`]),
+    // The one value observed of a seat that the page carries. It cannot be observed again, so it
+    // outlives the page rather than standing beside it.
+    ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${said(stated.session.value)},`]),
     "} as const satisfies Seat",
     "",
   ]

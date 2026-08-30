@@ -112,6 +112,9 @@ const STATED: Readonly<Record<string, string>> = {
   "registration-account": "registrationAccount",
   "initiative-slug": "initiativeSlug",
   "transcript-path": "transcriptPath",
+  // Observed of a seat and committed all the same, because nothing re-derives it. This is the
+  // read that answers it for a seat whose old page has gone, which is what a resume needs.
+  "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
 
 const TITLE = "title"

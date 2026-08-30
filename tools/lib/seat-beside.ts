@@ -29,8 +29,10 @@ export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
 //
 // The reader in `seat-akasha-read.ts` walks this same table the other way, so where a value
 // stands in akasha is stated once and the write and the read cannot drift apart.
-export const CARRIED: Readonly<Record<string, Carried>> = {
-  "claude-code-session-uuid": { at: ["claudeCodeSessionUuid"], kind: "text" },
+export // `claude-code-session-uuid` is absent because akasha commits it: it stands on the seat's page
+// there, written by the composer, rather than beside it. A value the page carries and the sidecar
+// carries too would drift, and the sidecar is the copy that goes when the page does.
+const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
   model: { at: ["model"], kind: "text" },
