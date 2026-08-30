@@ -44,8 +44,8 @@ test("the files compiled are read from the index the change leaves, not the one 
 })
 
 test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
-  const said = omittingIn(THING_AT, WITHOUT, ["held", "seq"])
-  expect(said).toContain('satisfies Omit<Thing, "held" | "seq">')
+  const said = omittingIn(THING_AT, WITHOUT, ["held", "other"])
+  expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
   expect(said?.split("\n").length).toBe(WITHOUT.split("\n").length)
 })
 

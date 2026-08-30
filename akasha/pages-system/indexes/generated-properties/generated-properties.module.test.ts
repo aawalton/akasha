@@ -86,7 +86,7 @@ function overOne(root: string, body: string | null): readonly string[] {
 function rooted(): string {
   const root = scratch.rootFor("akasha-generated-")
   kind(root, "uuid-v7", false)
-  kind(root, "next-seq", true)
+  kind(root, "waiting", true)
   return root
 }
 
@@ -140,7 +140,7 @@ test("a third property taking a generator is answered with no code changed here"
   const root = rooted()
   for (const slug of ["one", "two", "three"]) {
     named(root, slug)
-    standing(root, slug, ', generator: "next-seq"')
+    standing(root, slug, ', generator: "waiting"')
   }
   expect([...generatedProperties(shadowAt(root)).keys()]).toEqual(["one", "three", "two"])
 })
@@ -194,7 +194,7 @@ test("whether a value waits for the checks is read from the kind's own page", ()
   named(root, "early")
   standing(root, "early", ', generator: "uuid-v7"')
   named(root, "late")
-  standing(root, "late", ', generator: "next-seq"')
+  standing(root, "late", ', generator: "waiting"')
 
   expect(generatedProperties(shadowAt(root)).get("late")?.afterChecks).toBe(true)
   expect([...waitingProperties(shadowAt(root))]).toEqual(["late"])

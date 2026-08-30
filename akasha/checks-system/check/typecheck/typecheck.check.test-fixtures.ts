@@ -28,11 +28,11 @@ const THING_TYPE_AT = "akasha/thing.page-type.ts"
 
 const HELD_AT = "akasha/held.text-property.ts"
 
-const WAITS = "next-seq"
+const WAITS = "waiting"
 
 export const EARLY = "uuid-v7"
 
-const KIND_AT = "akasha/next-seq.generator-kind.ts"
+const KIND_AT = "akasha/waiting.generator-kind.ts"
 
 const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
 

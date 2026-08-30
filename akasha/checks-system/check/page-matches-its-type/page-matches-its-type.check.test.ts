@@ -237,9 +237,9 @@ const UNIQUE_SLUG =
   '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type",' +
   '"slug":"slug","propertySlug":"slug"}\n'
 
-const KIND_AT = "akasha/next-seq.generator-kind.ts"
+const KIND_AT = "akasha/waiting.generator-kind.ts"
 
-function generating(generator = "next-seq"): string {
+function generating(generator = "waiting"): string {
   const root = scratch.rootFor("akasha-generating-")
   put(
     root,
@@ -251,7 +251,7 @@ function generating(generator = "next-seq"): string {
     root,
     KIND_AT,
     `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
-      ' slug: "next-seq", afterChecks: true }\n'
+      ' slug: "waiting", afterChecks: true }\n'
   )
   put(
     root,
@@ -287,7 +287,7 @@ function generating(generator = "next-seq"): string {
   )
   put(
     index,
-    "identity/generator-kind/slug/next-seq.jsonl",
+    "identity/generator-kind/slug/waiting.jsonl",
     `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
   )
   put(
@@ -298,7 +298,7 @@ function generating(generator = "next-seq"): string {
   return root
 }
 
-function overThing(standing: boolean, generator = "next-seq"): readonly Judged[] {
+function overThing(standing: boolean, generator = "waiting"): readonly Judged[] {
   const bytes = new TextEncoder().encode(THING_BODY)
   return pageMatchesItsType({
     root: generating(generator),
