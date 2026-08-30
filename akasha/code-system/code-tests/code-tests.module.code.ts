@@ -10,6 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
+import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
 const SUFFIX = ".test.ts"
@@ -34,7 +35,7 @@ const HOLD = "/var/tmp"
 
 const PREFIX = "akasha-world-"
 
-const DATA = ".git/data"
+const DATA = dataAt()
 
 const MODULES = "node_modules"
 

@@ -9,6 +9,8 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { readingIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { linesFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   alreadyRunning,
   CARRIED,
@@ -172,13 +174,12 @@ check("a path answered by no body is not written into the world", () => {
 
 check("a world carries the index, what a run is configured by, and a link to the modules", () => {
   const from = repo({})
-  mkdirSync(join(from, ".git/data/index"), { recursive: true })
-  writeFileSync(join(from, ".git/data/index/held.jsonl"), "{}\n")
+  linesFiled(from, "held.jsonl", [{}])
   mkdirSync(join(from, "node_modules"), { recursive: true })
   for (const one of CARRIED) writeFileSync(join(from, one), "{}\n")
   const world = worldOf(from, [], handing({}))
   try {
-    expect(readFileSync(join(world.root, ".git/data/index/held.jsonl"), "utf8")).toBe("{}\n")
+    expect(readingIn(world.root).lines("held.jsonl")).toEqual(["{}"])
     for (const one of CARRIED) expect(existsSync(join(world.root, one))).toBe(true)
     expect(lstatSync(join(world.root, "node_modules")).isSymbolicLink()).toBe(true)
   } finally {
