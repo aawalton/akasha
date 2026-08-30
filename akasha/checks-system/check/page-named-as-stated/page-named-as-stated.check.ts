@@ -4,7 +4,7 @@ export const pageNamedAsStated = {
   id: "01a04bcb-c705-720a-a6fb-4dbd5fee1594",
   pageTypeSlug: "check",
   slug: "page-named-as-stated",
-  definition: "the check refusing a page file named otherwise than the page names itself",
+  definition: "the check refusing a page whose file name or export name is not the name it states",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -44,6 +44,11 @@ export const pageNamedAsStated = {
       invariantKind: "departure",
       statement:
         "An index that cannot say which properties are held in a file refuses the run, rather than reading as an index naming none and judging every property file a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name the page's value is bound to is judged against the export name its slug makes, and a value bound to no name is refused.",
     },
   ],
 } as const satisfies Check

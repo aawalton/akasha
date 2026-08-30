@@ -17,8 +17,7 @@ export const slug = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A slug whose export name would be a reserved word is no slug: `import`, `default`, `class`, `function` and `new` are lower-kebab-case and reserved words both.",
+      statement: "A slug becomes a page's export name, so a slug that cannot be one is no slug.",
     },
   ],
 } as const satisfies TextProperty

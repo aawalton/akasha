@@ -8,6 +8,7 @@ import {
   indexAt,
   indexIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf, overEachFile } from "../../checking/checking.module.code.ts"
@@ -23,9 +24,13 @@ const SCHEMA_AT = indexAt(SCHEMA, PROPERTY, SLUG)
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
-type Stated = {
+type Said = {
   readonly slug: string
   readonly pageTypeSlug: string
+}
+
+type Stated = Said & {
+  readonly named: string | null
 }
 
 function textOf(node: ts.Expression | undefined): string | null {
@@ -35,7 +40,7 @@ function textOf(node: ts.Expression | undefined): string | null {
   return null
 }
 
-function statedIn(node: ts.ObjectLiteralExpression): Stated | null {
+function statedIn(node: ts.ObjectLiteralExpression): Said | null {
   let slug: string | null = null
   let pageTypeSlug: string | null = null
   for (const one of node.properties) {
@@ -62,8 +67,8 @@ export function pageIn(path: string, text: string): Stated | null {
       if (one.initializer === undefined) continue
       const literal = literalOf(one.initializer)
       if (literal === null) continue
-      const stated = statedIn(literal)
-      if (stated !== null) return stated
+      const said = statedIn(literal)
+      if (said !== null) return { ...said, named: ts.isIdentifier(one.name) ? one.name.text : null }
     }
   }
   return null
@@ -90,6 +95,14 @@ export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readon
     found.push(
       `the page states its page type as \`${stated.pageTypeSlug}\`, and its file is named ` +
         `\`${suffix}\` — a page's file is named for the page type the page states`
+    )
+  }
+  const wanted = exportedAs(stated.slug)
+  if (stated.named !== wanted) {
+    const bound = stated.named === null ? "bound to no name" : `bound as \`${stated.named}\``
+    found.push(
+      `the page is ${bound}, and the slug it states is named \`${wanted}\` — a page's exported ` +
+        "object is named for the slug the page states"
     )
   }
   return found

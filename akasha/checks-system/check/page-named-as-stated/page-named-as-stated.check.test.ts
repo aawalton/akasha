@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { heldInAFileAt, pageIn, reasonsIn } from "./page-named-as-stated.check.code.ts"
 
@@ -12,9 +13,9 @@ function reasons(at: string, body: string, held: ReadonlySet<string> = HELD): re
   return reasonsIn(given(at, body), held)
 }
 
-function page(slug: string, pageTypeSlug: string): string {
+function page(slug: string, pageTypeSlug: string, named: string = exportedAs(slug)): string {
   return [
-    "export const held = {",
+    `export const ${named} = {`,
     '  id: "01a04b5e-39e5-7fa4-be61-f3fa8d7d1736",',
     `  pageTypeSlug: "${pageTypeSlug}",`,
     `  slug: "${slug}",`,
@@ -61,7 +62,7 @@ test("a property's file holds no page value, so it is not judged here", () => {
 
 test("a page is found through the satisfies and as const it is written with", () => {
   const said = pageIn("akasha/corpus.module.ts", page("corpus", "module"))
-  expect(said).toEqual({ slug: "corpus", pageTypeSlug: "module" })
+  expect(said).toEqual({ slug: "corpus", pageTypeSlug: "module", named: "corpus" })
 })
 
 test("a file whose name is not a page's shape is passed over", () => {
@@ -82,8 +83,10 @@ test("a file is judged by its own name rather than by the folders above it", () 
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  const body = page("held.corpus", "module")
-  expect(reasons("akasha/held.corpus.module.ts", body)).toEqual([])
+  const body = page("held.corpus", "module", "heldCorpus")
+  const said = reasons("akasha/held.corpus.module.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("bound as `heldCorpus`")
 })
 
 test("a page property's code file is no page, so a value it holds is passed over", () => {
@@ -136,7 +139,7 @@ test("a value stating a slug but no page type is no page here, so it is passed o
 })
 
 test("a value the file keeps to itself is judged the same as an exported one", () => {
-  const body = page("corpse", "module").replace("export const held", "const held")
+  const body = page("corpse", "module").replace("export const", "const")
   expect(reasons("akasha/corpus.module.ts", body)).toHaveLength(1)
 })
 
@@ -146,8 +149,36 @@ test("the first page a file states is the one its name is judged against", () =>
 })
 
 test("a page written plainly, with no satisfies at all, is still judged", () => {
-  const body = 'export const held = {\n  pageTypeSlug: "module",\n  slug: "corpse",\n}\n'
+  const body = 'export const corpse = {\n  pageTypeSlug: "module",\n  slug: "corpse",\n}\n'
   const said = reasons("akasha/corpus.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("names itself `corpse`")
+})
+
+test("a page bound to the name its slug makes is let through", () => {
+  const body = page("page-named-as-stated", "check")
+  expect(reasons("akasha/page-named-as-stated.check.ts", body)).toEqual([])
+})
+
+test("a page bound to some other name is refused, and the reason says both names", () => {
+  const body = page("part-slugs", "relation-property", "slugs")
+  const said = reasons("akasha/part-slugs.relation-property.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("bound as `slugs`")
+  expect(said[0]).toContain("named `partSlugs`")
+})
+
+test("a slug whose export name is a reserved word is refused whatever the page is bound to", () => {
+  const body = page("import", "page-type", "importEdge")
+  const said = reasons("akasha/import.page-type.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("bound as `importEdge`")
+  expect(said[0]).toContain("named `import`")
+})
+
+test("a page bound by a pattern rather than a name is refused", () => {
+  const body = 'export const { slug } = {\n  pageTypeSlug: "module",\n  slug: "corpus",\n}\n'
+  const said = reasons("akasha/corpus.module.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("bound to no name")
 })
