@@ -6,6 +6,7 @@ import {
   testBesideOf,
   worldOf,
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
+import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { everyFileIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -51,12 +52,12 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
   )
 }
 
-export function testsPass(leaving: Leaving): readonly Judged[] {
+export function testsPass(leaving: Leaving, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(leaving)
   const first = named[0]
   if (first === undefined) return []
-  const over = [...new Set([...everyFileIn(leaving.root), ...leaving.changed])]
+  const over = [...new Set([...everyFileIn(leaving.root, shadow.reading), ...leaving.changed])]
   const world = worldOf(leaving.root, over, leaving.at)
   try {
     const ran = ranOver(world.root, named, named.length)
