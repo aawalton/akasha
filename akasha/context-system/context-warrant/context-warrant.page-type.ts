@@ -30,6 +30,7 @@ export const contextWarrant = {
     "context-warrant/file-property-file",
   ],
   extendsSlug: "page-type/module",
+  loadedBySlug: "module/warranting",
   properties: [
     { pagePropertySlug: "test", required: true, many: false },
     { pagePropertySlug: "runs-on-read", required: true, many: false },

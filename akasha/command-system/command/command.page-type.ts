@@ -33,6 +33,7 @@ export const command = {
     "text-property/takes",
   ],
   extendsSlug: "page-type/module",
+  loadedBySlug: "module/calling",
   properties: [
     { pagePropertySlug: "mechanical", required: false, many: false },
     { pagePropertySlug: "taking", required: false, many: true, max: null },

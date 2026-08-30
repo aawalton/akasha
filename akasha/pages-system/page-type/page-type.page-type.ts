@@ -1,5 +1,6 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
+import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { NextSeq } from "./properties/next-seq.number-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
@@ -11,6 +12,7 @@ export type PageType = Domain & {
   mortal?: Mortal
   nextSeq?: NextSeq
   pluralSlug: PluralSlug
+  loadedBySlug?: LoadedBySlug
 }
 
 export const pageType = {
@@ -28,6 +30,7 @@ export const pageType = {
     "number-property/next-seq",
     "record-property/properties",
     "relation-property/extends-slug",
+    "relation-property/loaded-by-slug",
     "relation-property/page-property-slug",
     "text-property/plural-slug",
   ],
@@ -38,6 +41,7 @@ export const pageType = {
     { pagePropertySlug: "mortal", required: false, many: false },
     { pagePropertySlug: "next-seq", required: false, many: false },
     { pagePropertySlug: "plural-slug", required: true, many: false },
+    { pagePropertySlug: "loaded-by-slug", required: false, many: false },
   ],
   invariants: [
     {

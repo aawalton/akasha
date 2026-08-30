@@ -58,6 +58,7 @@ export const check = {
     "check/typecheck",
   ],
   extendsSlug: "page-type/module",
+  loadedBySlug: "module/checking",
   properties: [
     { pagePropertySlug: "test", required: true, many: false },
     { pagePropertySlug: "runs-on-patch", required: true, many: false },
