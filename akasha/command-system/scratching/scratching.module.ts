@@ -37,8 +37,11 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shared tmpfs is no scratch disk — filling it takes the whole machine down with it.",
+      statement: "A shared tmpfs is no scratch disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Filling a shared tmpfs takes the whole machine down with it.",
     },
     {
       invariantKind: "departure",
