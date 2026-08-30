@@ -2,6 +2,7 @@ import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
+import type { Origin } from "./properties/origin.relation-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
 import type { ValueSlug } from "./properties/value-slug.text-property.ts"
@@ -11,6 +12,7 @@ export type Persona = Domain & {
   portrait: Portrait
   roleSlug: RoleSlug
   valueSlug: ValueSlug
+  origin: Origin
   championedDomainSlug?: ChampionedDomainSlug
 }
 
@@ -23,6 +25,7 @@ export const persona = {
   extendsSlug: "page-type/domain",
   partSlugs: [
     "file-property/portrait",
+    "relation-property/origin",
     "text-property/championed-domain-slug",
     "text-property/purpose",
     "text-property/role-slug",
@@ -33,6 +36,7 @@ export const persona = {
     { pagePropertySlug: "portrait", required: true, many: false },
     { pagePropertySlug: "role-slug", required: true, many: false },
     { pagePropertySlug: "value-slug", required: true, many: false },
+    { pagePropertySlug: "origin", required: true, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
   ],
   invariants: [

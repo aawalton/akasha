@@ -9,6 +9,17 @@ export const originKind = {
   slug: "origin-kind",
   definition: "where a persona's name comes from",
   pluralSlug: "origin-kinds",
+  partSlugs: [
+    "origin-kind/canon",
+    "origin-kind/celtic",
+    "origin-kind/greek",
+    "origin-kind/hebrew",
+    "origin-kind/human",
+    "origin-kind/invented",
+    "origin-kind/norse",
+    "origin-kind/sanskrit",
+    "origin-kind/welsh",
+  ],
   extendsSlug: "page-type/domain",
   invariants: [
     {
