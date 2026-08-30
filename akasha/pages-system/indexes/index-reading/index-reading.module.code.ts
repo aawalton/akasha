@@ -21,6 +21,9 @@ export type Standing = {
 export type Schema = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
+  readonly unique: string | null
+  readonly slug: string | null
+  readonly propertySlug: string | null
 }
 
 const INDEX_AT = ".git/data/index"
@@ -160,6 +163,9 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
     found.push({
       pageTypeSlug,
       targetPageTypeSlug: named(said["targetPageTypeSlug"]),
+      unique: named(said["unique"]),
+      slug: named(said["slug"]),
+      propertySlug: named(said["propertySlug"]),
     })
   }
   return found

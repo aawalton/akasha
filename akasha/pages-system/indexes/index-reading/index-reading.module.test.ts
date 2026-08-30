@@ -116,49 +116,66 @@ test("an id the index carries is answered with the page carrying it", () => {
 
 test("a relation property is answered with the shape it is and the page type it may name", () => {
   const root = rootAt()
-  schemaFiled(root, "relation-property", "domain-slug", [
-    { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  ])
+  const held = {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "domain",
+    unique: null,
+    slug: "domain-slug",
+    propertySlug: "domain-slug",
+  }
+  schemaFiled(root, "relation-property", "domain-slug", [held])
 
-  expect(schemaOf(root, "domain-slug")).toEqual({
-    schema: { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  })
+  expect(schemaOf(root, "domain-slug")).toEqual({ schema: held })
 })
 
 test("a property that names no page is answered with a shape that is not a relation", () => {
   const root = rootAt()
-  schemaFiled(root, "text-property", "definition", [
-    { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  ])
+  const held = {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: null,
+    slug: "definition",
+    propertySlug: "definition",
+  }
+  schemaFiled(root, "text-property", "definition", [held])
 
-  expect(schemaOf(root, "definition")).toEqual({
-    schema: { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  })
+  expect(schemaOf(root, "definition")).toEqual({ schema: held })
 })
 
 test("a property naming many pages is answered with the target it names itself", () => {
   const root = rootAt()
-  schemaFiled(root, "relation-property", "part-slugs", [
-    { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  ])
+  const held = {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: "domain",
+    unique: null,
+    slug: "part-slugs",
+    propertySlug: "part-slugs",
+  }
+  schemaFiled(root, "relation-property", "part-slugs", [held])
 
-  expect(schemaOf(root, "part-slugs")).toEqual({
-    schema: { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain" },
-  })
+  expect(schemaOf(root, "part-slugs")).toEqual({ schema: held })
 })
 
 test("a name saying its page type reads that one file, and passes over another of the slug", () => {
   const root = rootAt()
-  schemaFiled(root, "text-property", "foo", [
-    { pageTypeSlug: "text-property", targetPageTypeSlug: null },
-  ])
-  schemaFiled(root, "number-property", "foo", [
-    { pageTypeSlug: "number-property", targetPageTypeSlug: null },
-  ])
+  const text = {
+    pageTypeSlug: "text-property",
+    targetPageTypeSlug: null,
+    unique: null,
+    slug: "foo",
+    propertySlug: "foo",
+  }
+  const number = {
+    pageTypeSlug: "number-property",
+    targetPageTypeSlug: null,
+    unique: null,
+    slug: "foo",
+    propertySlug: "foo",
+  }
+  schemaFiled(root, "text-property", "foo", [text])
+  schemaFiled(root, "number-property", "foo", [number])
 
-  expect(schemaOf(root, "number-property/foo")).toEqual({
-    schema: { pageTypeSlug: "number-property", targetPageTypeSlug: null },
-  })
+  expect(schemaOf(root, "number-property/foo")).toEqual({ schema: number })
 })
 
 test("a property the index does not carry is refused rather than answered as nothing", () => {
