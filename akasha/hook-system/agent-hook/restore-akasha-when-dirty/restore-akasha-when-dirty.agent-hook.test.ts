@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync, readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
 import { gitIn } from "../../../command-system/committing/committing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import {
   dirtyIn,
   restoreIn,
@@ -13,12 +14,6 @@ import {
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-function put(root: string, at: string, body: string): undefined {
-  const full = join(root, at)
-  mkdirSync(dirname(full), { recursive: true })
-  writeFileSync(full, body)
-}
 
 function seeded(): string {
   const root = scratch.rootFor("akasha-dirty-")
