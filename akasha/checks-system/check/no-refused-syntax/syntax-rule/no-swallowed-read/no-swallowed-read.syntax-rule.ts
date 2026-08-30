@@ -50,8 +50,7 @@ export const noSwallowedRead = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Only the file handed in is read. A helper in another file that swallows on this one's behalf is not seen from here.",
+      statement: "Only the file handed in is read.",
     },
     {
       invariantKind: "gap",

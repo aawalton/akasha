@@ -15,17 +15,19 @@ export const noReExport = {
     {
       invariantKind: "departure",
       statement:
-        "A name imported and then exported is judged the same as one exported straight from its source. A new spelling on the way out hides nothing.",
+        "A name imported and then exported is judged the same as one exported straight from its source.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A type-only re-export is a re-export: who owns a rule is read off what a module exports and a type barrel splits that as a value barrel does.",
+      statement: "A new spelling on the way out hides nothing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "`export *` is refused whole rather than name by name: what it sends on is the other file's to change and this file cannot say what it is.",
+      statement: "A type-only re-export is a re-export.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`export *` is refused whole rather than name by name.",
     },
     {
       invariantKind: "departure",
@@ -33,8 +35,12 @@ export const noReExport = {
     },
     {
       invariantKind: "absence",
+      statement: "Only a name is followed.",
+    },
+    {
+      invariantKind: "absence",
       statement:
-        "Only a name is followed. An imported value bound to a fresh exported name is a declaration this file made. It passes.",
+        "An imported value bound to a fresh exported name is a declaration this file made.",
     },
     {
       invariantKind: "absence",

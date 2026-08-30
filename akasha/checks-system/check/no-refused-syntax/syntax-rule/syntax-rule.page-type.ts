@@ -66,7 +66,7 @@ export const syntaxRule = {
     },
     {
       invariantKind: "absence",
-      statement: "A rule carries no status. A rule that stands is a rule that judges.",
+      statement: "A rule carries no status.",
     },
     {
       invariantKind: "absence",

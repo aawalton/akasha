@@ -31,13 +31,11 @@ export const noIndexPathSpelled = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A path built from anything but plain strings is not seen. A template holding the place or a name standing for it reads as no path here.",
+      statement: "A path built from anything but plain strings is not seen.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "What a caller does with a path it was given is not judged. Whether reaching the disk through `indexIn` is reaching too far is a question this does not ask.",
+      statement: "What a caller does with a path it was given is not judged.",
     },
   ],
 } as const satisfies Check

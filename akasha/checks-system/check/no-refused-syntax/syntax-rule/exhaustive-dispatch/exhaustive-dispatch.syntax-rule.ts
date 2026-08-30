@@ -34,8 +34,7 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here says the cases cover the type. What is refused is a switch that could fall out rather than one that is short a case.",
+      statement: "Nothing here says the cases cover the type.",
     },
     {
       invariantKind: "gap",

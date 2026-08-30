@@ -22,8 +22,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An async body is the case this is for: its promise lands in a `void` slot unawaited.",
+      statement: "An async body is the case this is for.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +30,12 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
+      statement: "Every return position is judged alike.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "Every return position is judged alike — a declaration and an arrow and a method and a function type and a method signature and a call signature and a constructor type.",
+        "A declaration and an arrow and a method and a function type and a method signature and a call signature and a constructor type are return positions.",
     },
     {
       invariantKind: "departure",
@@ -60,8 +63,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A parameter typed `void` is not seen. Only what a signature hands back is judged here.",
+      statement: "A parameter typed `void` is not seen.",
     },
   ],
 } as const satisfies SyntaxRule

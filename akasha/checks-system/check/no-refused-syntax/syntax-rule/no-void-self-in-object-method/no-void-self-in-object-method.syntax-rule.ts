@@ -31,8 +31,7 @@ export const noVoidSelfInObjectMethod = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Only `void` is refused. A `this` named as some other type says what calls the method rather than saying nothing does.",
+      statement: "Only `void` is refused.",
     },
     {
       invariantKind: "departure",
