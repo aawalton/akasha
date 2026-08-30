@@ -10,11 +10,19 @@ export const bunCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A prefix that sets a call up is stepped over, and the call behind it is read.",
+      statement: "A prefix that sets a call up is stepped over.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag that takes a value takes the word after it, which is no verb.",
+      statement: "The call behind it is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag that takes a value takes the word after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That word is no verb.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +34,7 @@ export const bunCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "A verb is read here, never judged.",
+      statement: "A verb is read here rather than judged.",
     },
     {
       invariantKind: "absence",

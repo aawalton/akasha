@@ -15,8 +15,7 @@ export const contextReplacedAt = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A read taken before this is no longer the seat's, the context that took it being gone.",
+      statement: "A read taken before this is no longer the seat's.",
     },
   ],
 } as const satisfies InstantProperty

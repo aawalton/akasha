@@ -10,11 +10,19 @@ export const gitCalls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A prefix that sets a call up is stepped over, and the call behind it is read.",
+      statement: "A prefix that sets a call up is stepped over.",
     },
     {
       invariantKind: "departure",
-      statement: "A global flag that takes a value takes the word after it, which is no verb.",
+      statement: "The call behind it is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A global flag that takes a value takes the word after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That word is no verb.",
     },
     {
       invariantKind: "departure",
@@ -22,11 +30,11 @@ export const gitCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A word this names as another tool is no git call, whatever its verb reads as.",
+      statement: "A word this names as another tool is no git call whatever its verb reads as.",
     },
     {
       invariantKind: "absence",
-      statement: "A verb is read here, never judged.",
+      statement: "A verb is read here rather than judged.",
     },
     {
       invariantKind: "absence",

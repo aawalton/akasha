@@ -9,7 +9,11 @@ export const seatSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's page stands while an agent is present in it, and goes when none is.",
+      statement: "A seat's page stands while an agent is present in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's page goes when none is.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const fileImport = {
     {
       invariantKind: "departure",
       statement:
-        "A code file warrants the page of every file it imports, never one imported in turn.",
+        "A code file warrants the page of every file it imports rather than one imported in turn.",
     },
     {
       invariantKind: "departure",

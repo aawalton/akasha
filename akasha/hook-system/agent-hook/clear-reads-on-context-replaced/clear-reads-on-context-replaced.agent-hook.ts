@@ -19,12 +19,15 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A startup, a clearing and a compaction each replace the context, and each clears the record.",
+      statement: "A startup and a clearing and a compaction each replace the context.",
     },
     {
       invariantKind: "departure",
-      statement: "One agent's readings are cleared, never another's.",
+      statement: "Each clears the record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One agent's readings are cleared rather than another's.",
     },
     {
       invariantKind: "departure",
@@ -33,17 +36,23 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "With no agent named, nothing is cleared.",
+      statement: "With no agent named nothing is cleared.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A record that cannot be reached is left as it stands, and the session begins either way.",
+      statement: "A record that cannot be reached is left as it stands.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "This hook changes the record rather than judging a call, and is the only one that does.",
+      statement: "The session begins either way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This hook changes the record rather than judging a call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This hook is the only one that does.",
     },
   ],
 } as const satisfies AgentHook

@@ -13,11 +13,15 @@ export const bodying = {
     },
     {
       invariantKind: "departure",
-      statement: "Text and bytes are both taken. A check is handed bytes, and a test says text.",
+      statement: "Text and bytes are both taken. A check is handed bytes.",
     },
     {
       invariantKind: "departure",
-      statement: "What a test binds is what it was handed, not a function of its own.",
+      statement: "A test says text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a test binds is what it was handed rather than a function of its own.",
     },
   ],
 } as const satisfies Module

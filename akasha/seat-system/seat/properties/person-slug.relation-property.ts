@@ -13,8 +13,11 @@ export const personSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Whose seat this is and what work it answers for are two facts, and a seat assigned to a person states that person twice.",
+      statement: "Whose seat this is and what work it answers for are two facts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat assigned to a person states that person twice.",
     },
   ],
 } as const satisfies RelationProperty

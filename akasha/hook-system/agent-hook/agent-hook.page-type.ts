@@ -41,11 +41,15 @@ export const agentHook = {
     {
       invariantKind: "departure",
       statement:
-        "A hook at a tool call answers whether that call may run, or hands back the input it is to run with.",
+        "A hook at a tool call answers whether that call may run or hands back the input it is to run with.",
     },
     {
       invariantKind: "departure",
-      statement: "A hook names the tools it judges, and is handed no others.",
+      statement: "A hook names the tools it judges.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hook is handed no others.",
     },
     {
       invariantKind: "departure",
@@ -57,18 +61,21 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "What registers a hook is worked out from this page, and no file names one by hand.",
+      statement: "What registers a hook is worked out from this page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No file names one by hand.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A hook binds an agent from its next spawn after the page lands, never mid-session.",
+        "A hook binds an agent from its next spawn after the page lands rather than mid-session.",
     },
     {
       invariantKind: "stopgap",
       statement:
-        "What works the registration out stands outside the akasha system, until akasha answers for its own settings.",
+        "What works the registration out stands outside the akasha system until akasha answers for its own settings.",
     },
   ],
   directives: [

@@ -13,8 +13,11 @@ export const claudeCodeSessionUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A seat is answering in one session at a time, and the session it answered in before is not kept.",
+      statement: "A seat is answering in one session at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The session it answered in before is not kept.",
     },
   ],
 } as const satisfies TextProperty

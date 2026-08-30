@@ -10,7 +10,7 @@ export const settling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path is judged by where it lands, never by how it is spelled.",
+      statement: "A path is judged by where it lands rather than by how it is spelled.",
     },
     {
       invariantKind: "departure",

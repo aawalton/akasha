@@ -22,11 +22,19 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "A newline cuts as a separator does, and so does every separator form.",
+      statement: "A newline cuts as a separator does.",
     },
     {
       invariantKind: "departure",
-      statement: "An empty segment is dropped, and leading space is taken off the ones kept.",
+      statement: "Every separator form cuts too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An empty segment is dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Leading space is taken off the ones kept.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +42,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "absence",
-      statement: "The text is cut here, never read for what it means.",
+      statement: "The text is cut here rather than read for what it means.",
     },
     {
       invariantKind: "absence",

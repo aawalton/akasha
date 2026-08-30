@@ -20,8 +20,11 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call a subagent makes carries its name, and a call the seat makes carries nothing.",
+      statement: "A call a subagent makes carries its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call the seat makes carries nothing.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +41,11 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "This hook changes what a call runs rather than judging it, and refuses nothing.",
+      statement: "This hook changes what a call runs rather than judging it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This hook refuses nothing.",
     },
   ],
 } as const satisfies AgentHook

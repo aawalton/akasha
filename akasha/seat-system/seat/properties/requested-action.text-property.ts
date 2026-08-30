@@ -14,7 +14,7 @@ export const requestedAction = {
     {
       invariantKind: "departure",
       statement:
-        "A seat is asked to restart preserving its context, to restart once idle, or to swap its proxy.",
+        "A seat is asked to restart preserving its context or to restart once idle or to swap its proxy.",
     },
     {
       invariantKind: "gap",

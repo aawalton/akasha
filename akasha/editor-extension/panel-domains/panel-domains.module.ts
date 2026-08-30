@@ -11,7 +11,7 @@ export const panelDomains = {
     {
       invariantKind: "departure",
       statement:
-        "A page of every page type standing under `domain` is drawn, not only a page whose own type is `domain`.",
+        "A page of every page type standing under `domain` is drawn rather than only a page whose own type is `domain`.",
     },
     {
       invariantKind: "departure",

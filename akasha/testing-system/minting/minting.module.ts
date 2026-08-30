@@ -21,7 +21,11 @@ export const minting = {
     },
     {
       invariantKind: "departure",
-      statement: "Two slugs minted into one root are two ids, and one slug minted twice is one id.",
+      statement: "Two slugs minted into one root are two ids.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One slug minted twice is one id.",
     },
   ],
 } as const satisfies Module

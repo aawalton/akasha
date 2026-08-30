@@ -16,12 +16,16 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement: "A call leaving it changed is told so, and told which paths went back.",
+      statement: "A call leaving it changed is told so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call leaving it changed is told which paths went back.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What went back is judged by what stands, never by what the call said. A write reaches this whatever tool carried it.",
+        "What went back is judged by what stands rather than by what the call said. A write reaches this whatever tool carried it.",
     },
     {
       invariantKind: "departure",
@@ -30,12 +34,19 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A landing holding the lock longer than this waits leaves the tree alone, an unlanded change being its own rather than a stray.",
+      statement: "A landing holding the lock longer than this waits leaves the tree alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A file the call added goes, and a file it altered or took away comes back.",
+      statement: "An unlanded change is its own rather than a stray.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the call added goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file it altered or took away comes back.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +55,7 @@ export const restoreAkashaWhenDirty = {
     {
       invariantKind: "constraint",
       statement:
-        "This answers after the write. What it holds is that nothing stands on an ungated change, not that none was made.",
+        "This answers after the write. What it holds is that nothing stands on an ungated change rather than that none was made.",
     },
   ],
 } as const satisfies AgentHook

@@ -18,13 +18,20 @@ export const gitting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The commit a repo stands at is taken from landing, which answers it for the door already.",
+      statement: "The commit a repo stands at is taken from landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Landing answers it for the door already.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Nothing here is reached by the door. The command system runs git through its own landing, and this is for tests standing a repo up to look at it.",
+        "Nothing here is reached by the door. The command system runs git through its own landing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "This is for tests standing a repo up to look at it.",
     },
   ],
 } as const satisfies Module

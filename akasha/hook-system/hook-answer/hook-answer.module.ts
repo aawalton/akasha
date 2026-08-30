@@ -14,11 +14,15 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal is one JSON object on standard output, and the exit code is 2.",
+      statement: "A refusal is one JSON object on standard output.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal is written to standard error too, where a reader will see it.",
+      statement: "A refusal exits 2.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal is written to standard error too.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +30,15 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A payload that will not read is said so and exits 5, having judged nothing.",
+      statement: "A payload that will not read is said so and exits 5.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hook's repository root is four folders above the hook's own file, and that depth is written here rather than worked out.",
+      statement: "A hook's repository root is four folders above the hook's own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That depth is written here rather than worked out.",
     },
     {
       invariantKind: "departure",
@@ -39,8 +46,11 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call handed back with its input changed is one JSON object on standard output, and the exit code is 0.",
+      statement: "A call handed back with its input changed is one JSON object on standard output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call handed back with its input changed exits 0.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +65,11 @@ export const hookAnswer = {
     {
       invariantKind: "departure",
       statement:
-        "A hook that reads its call from the payload is run from here. How the harness is answered is said once, and any hook answering it differently is a hook that has left.",
+        "A hook that reads its call from the payload is run from here. How the harness is answered is said once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any hook answering it differently is a hook that has left.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +77,7 @@ export const hookAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "The runner knows only the shape of a judgement, not what any hook judges.",
+      statement: "The runner knows only the shape of a judgement rather than what any hook judges.",
     },
   ],
 } as const satisfies Module

@@ -17,7 +17,7 @@ export const editorExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel finds its pages through the index, never by walking the corpus.",
+      statement: "A panel finds its pages through the index rather than by walking the corpus.",
     },
     {
       invariantKind: "departure",

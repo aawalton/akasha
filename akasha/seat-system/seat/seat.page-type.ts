@@ -9,6 +9,7 @@ import type { PrincipalSeatName } from "./properties/principal-seat-name.relatio
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { RoleSlug } from "./properties/role-slug.text-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
+import type { TranscriptPath } from "./properties/transcript-path.text-property.ts"
 
 export type Seat = Page & {
   personaSlug: PersonaSlug
@@ -20,6 +21,7 @@ export type Seat = Page & {
   onCall: OnCall
   registrationAccount: RegistrationAccount
   initiativeSlug?: InitiativeSlug
+  transcriptPath?: TranscriptPath
 }
 
 export const seat = {
@@ -70,13 +72,13 @@ export const seat = {
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },
     { pagePropertySlug: "initiative-slug", required: false, many: false },
+    { pagePropertySlug: "transcript-path", required: false, many: false },
     {
       pagePropertySlug: "claude-code-session-uuid",
       required: false,
       many: false,
       uncommitted: true,
     },
-    { pagePropertySlug: "transcript-path", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
@@ -107,7 +109,8 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states the person who opened it or the seat that spawned it, never both.",
+      statement:
+        "A seat states the person who opened it or the seat that spawned it rather than both.",
     },
   ],
 } as const satisfies PageType

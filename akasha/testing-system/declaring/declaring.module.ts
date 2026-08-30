@@ -10,7 +10,7 @@ export const declaring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages are the corpus's own, imported rather than restated.",
+      statement: "The pages are the corpus's own imported rather than restated.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +19,11 @@ export const declaring = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A generator kind a property carried here names is carried too, a property naming a kind that stands nowhere being refused rather than guessed at.",
+      statement: "A generator kind a property carried here names is carried too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property naming a kind that stands nowhere is refused rather than guessed at.",
     },
   ],
 } as const satisfies Module

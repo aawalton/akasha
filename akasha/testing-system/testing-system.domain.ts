@@ -37,12 +37,16 @@ export const testingSystem = {
     {
       invariantKind: "departure",
       statement:
-        "What stands here is reached by tests alone. A module the running system also reaches for belongs to the system that runs it, however much its tests want it too.",
+        "What stands here is reached by tests alone. A module the running system also reaches for belongs to the system that runs it however much its tests want it too.",
     },
     {
       invariantKind: "absence",
       statement:
-        "No test is written here. What stands here is stood up by the tests that reach for it, and a fixture proving itself proves nothing about the system.",
+        "No test is written here. What stands here is stood up by the tests that reach for it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A fixture proving itself proves nothing about the system.",
     },
   ],
 } as const satisfies Domain
