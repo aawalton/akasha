@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { placedIn, specifiersIn, spelledIn } from "./code-specifier.module.code.ts"
+import { landingOf, placedIn, specifiersIn, spelledIn } from "./code-specifier.module.code.ts"
 
 const AT = "akasha/held.ts"
 
@@ -73,4 +73,19 @@ test("what a body spells carries where it stands, so it can be written over in p
 
 test("a template is no string here, because what fills it is not read", () => {
   expect(spelledIn(AT, "const one = `./one.ts`\n")).toEqual([])
+})
+
+test("a relative specifier lands under the file holding it", () => {
+  expect(landingOf("akasha/a/b/one.ts", "../two.ts")).toBe("akasha/a/two.ts")
+  expect(landingOf("akasha/a/b/one.ts", "./two.ts")).toBe("akasha/a/b/two.ts")
+})
+
+test("a specifier naming no path relative to the file lands nowhere", () => {
+  expect(landingOf(AT, "typescript")).toBeNull()
+  expect(landingOf(AT, "node:path")).toBeNull()
+  expect(landingOf(AT, "/etc/passwd")).toBeNull()
+})
+
+test("a landing climbing out of the folder is answered as it falls, and not judged here", () => {
+  expect(landingOf("akasha/b.ts", "../../outside.ts")).toBe("../outside.ts")
 })

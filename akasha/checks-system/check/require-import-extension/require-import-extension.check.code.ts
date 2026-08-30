@@ -1,14 +1,15 @@
-import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
+import {
+  landingOf,
+  specifiersIn,
+} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const TS = ".ts"
 
-const RELATIVE = /^\.\.?\//
-
 function found(path: string, text: string): readonly string[] {
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
-    if (!RELATIVE.test(one)) continue
+    if (landingOf(path, one) === null) continue
     if (one.endsWith(TS)) continue
     said.push(`\`${one}\` is written without the \`.ts\` extension of the file it names`)
   }

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
-import { landingOf, reasonsIn } from "./imports-inside.check.code.ts"
+import { reachedBy, reasonsIn } from "./imports-inside.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -120,7 +120,12 @@ test("a specifier is judged by where it lands, not by what is there", () => {
 })
 
 test("a package names no landing, and a relative specifier names one under the holder", () => {
-  expect(landingOf("akasha/a/held.ts", "typescript")).toBeNull()
-  expect(landingOf("akasha/a/held.ts", "./b.ts")).toBe("akasha/a/b.ts")
-  expect(landingOf("akasha/a/held.ts", "../../b.ts")).toBe("b.ts")
+  expect(reachedBy("akasha/a/held.ts", "typescript")).toBeNull()
+  expect(reachedBy("akasha/a/held.ts", "./b.ts")).toBe("akasha/a/b.ts")
+  expect(reachedBy("akasha/a/held.ts", "../../b.ts")).toBe("b.ts")
+})
+
+test("a specifier spelt from the root names itself, so what it reaches is still judged", () => {
+  expect(reachedBy("akasha/a/held.ts", "/etc/passwd")).toBe("/etc/passwd")
+  expect(reasonsIn(given("akasha/held.ts", 'import { one } from "/etc/passwd"\n'))).toHaveLength(1)
 })

@@ -4,7 +4,7 @@ export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",
   pageTypeSlug: "module",
   slug: "code-specifier",
-  definition: "the strings a body holds, both the ones naming a module and all of them",
+  definition: "the strings a body holds, the ones naming a module, and where such a name lands",
   code: "ts",
   test: "ts",
   invariants: [
@@ -39,9 +39,14 @@ export const codeSpecifier = {
         "A template is no string here. Only a body's plain quoted text is answered, because nothing else can be written over without reading what fills it.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "Where a relative specifier lands is answered as the path it names and nothing more, because that much every caller reads the same way and spelt apart it drifts apart.",
+    },
+    {
       invariantKind: "absence",
       statement:
-        "Where a specifier lands is not answered here. Every caller resolves it against a different rule, and a resolution held in common would be one rule serving none of them.",
+        "Whether a landing may be reached is not judged here. A caller refusing one that climbs out of the root, or answering one spelt from the root, keeps that rule where it belongs.",
     },
     {
       invariantKind: "absence",

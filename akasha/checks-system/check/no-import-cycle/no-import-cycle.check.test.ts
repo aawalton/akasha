@@ -1,12 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Leaving } from "../../judging/judging.module.code.ts"
-import {
-  cyclesIn,
-  landingOf,
-  noImportCycle,
-  reachedIn,
-  reachingIn,
-} from "./no-import-cycle.check.code.ts"
+import { cyclesIn, noImportCycle, reachedIn, reachingIn } from "./no-import-cycle.check.code.ts"
 
 const ROOT = "/repo"
 
@@ -143,7 +137,6 @@ test("a specifier landing on no file the folder holds closes nothing", () => {
 
 test("a package specifier naming no path of its own is passed over", () => {
   expect(reachedIn(AT, 'import ts from "typescript"\n')).toEqual(["typescript"])
-  expect(landingOf(AT, "typescript")).toBeNull()
 })
 
 test("a file outside the akasha folder is no part of the graph", () => {
@@ -164,11 +157,6 @@ test("a body that is not text reaches nothing rather than throwing", () => {
   const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
   const held = reachingIn({ root: ROOT, changed: ["akasha/raw.ts"], at, was: at })
   expect(held.get("akasha/raw.ts")).toEqual([])
-})
-
-test("where a specifier lands is decided by the file holding it", () => {
-  expect(landingOf("akasha/a/b/one.ts", "../two.ts")).toBe("akasha/a/two.ts")
-  expect(landingOf("akasha/a/b/one.ts", "./two.ts")).toBe("akasha/a/b/two.ts")
 })
 
 test("two separate cycles are both found", () => {

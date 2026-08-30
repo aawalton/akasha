@@ -1,6 +1,6 @@
-import { dirname, join } from "node:path"
 import ts from "typescript"
 import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
+import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { textIn } from "../../checking/checking.module.code.ts"
 import type { Judged, Leaving } from "../../judging/judging.module.code.ts"
 
@@ -8,16 +8,9 @@ const INSIDE = "akasha/"
 
 const ENDING = ".ts"
 
-const RELATIVE = /^\.\.?\//
-
 const SHOWN = 3
 
 const ITSELF = "no module under akasha imports its way back around to itself"
-
-export function landingOf(at: string, specifier: string): string | null {
-  if (!RELATIVE.test(specifier)) return null
-  return join(dirname(at), specifier)
-}
 
 function erasedImport(clause: ts.ImportClause | undefined): boolean {
   if (clause === undefined) return false

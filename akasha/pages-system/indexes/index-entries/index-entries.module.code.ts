@@ -1,6 +1,7 @@
 import { mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { dirname, isAbsolute, join, relative } from "node:path"
+import { isAbsolute, join, relative } from "node:path"
+import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { besideAt } from "../../page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
@@ -131,13 +132,11 @@ export function slugAt(value: Value, key: string): string | null {
   return named === null ? null : slugOf(named)
 }
 
-const RELATIVE = /^\.\.?\//
-
 const OUTSIDE = ".."
 
 export function importedBy(path: string, specifier: string): string | null {
-  if (!RELATIVE.test(specifier)) return null
-  const landed = join(dirname(path), specifier)
+  const landed = landingOf(path, specifier)
+  if (landed === null) return null
   return landed === OUTSIDE || landed.startsWith(`${OUTSIDE}/`) ? null : landed
 }
 

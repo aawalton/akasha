@@ -1,17 +1,16 @@
-import { dirname, join } from "node:path"
-import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
+import {
+  landingOf,
+  specifiersIn,
+} from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const AKASHA = "akasha"
 
 const INSIDE = `${AKASHA}/`
 
-const RELATIVE = /^\.\.?\//
-
-export function landingOf(at: string, specifier: string): string | null {
+export function reachedBy(at: string, specifier: string): string | null {
   if (specifier.startsWith("/")) return specifier
-  if (!RELATIVE.test(specifier)) return null
-  return join(dirname(at), specifier)
+  return landingOf(at, specifier)
 }
 
 function inside(landed: string): boolean {
@@ -22,7 +21,7 @@ function found(path: string, text: string): readonly string[] {
   if (!path.startsWith(INSIDE)) return []
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
-    const landed = landingOf(path, one)
+    const landed = reachedBy(path, one)
     if (landed === null || inside(landed)) continue
     said.push(
       `\`${one}\` reaches \`${landed}\` — an akasha file imports no file outside the akasha folder`

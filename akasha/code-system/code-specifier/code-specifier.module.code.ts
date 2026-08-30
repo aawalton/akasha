@@ -1,5 +1,8 @@
+import { dirname, join } from "node:path"
 import ts from "typescript"
 import { skimmedAs } from "../code-source/code-source.module.code.ts"
+
+const RELATIVE = /^\.\.?\//
 
 export type Placed = {
   readonly start: number
@@ -46,4 +49,9 @@ export function spelledIn(path: string, text: string): readonly Placed[] {
 
 export function specifiersIn(path: string, text: string): readonly string[] {
   return placedIn(path, text).map((one) => one.text)
+}
+
+export function landingOf(path: string, specifier: string): string | null {
+  if (!RELATIVE.test(specifier)) return null
+  return join(dirname(path), specifier)
 }

@@ -1,15 +1,9 @@
-import { dirname, join, relative } from "node:path"
+import { dirname, relative } from "node:path"
 import {
+  landingOf,
   placedIn,
   spelledIn,
 } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
-
-const RELATIVE = /^\.\.?\//
-
-function landedAt(path: string, specifier: string): string | null {
-  if (!RELATIVE.test(specifier)) return null
-  return join(dirname(path), specifier)
-}
 
 function specifierFor(dir: string, target: string): string {
   const said = relative(dir, target)
@@ -25,7 +19,7 @@ function nextFor(
 ): string | null {
   const rooted = moved.get(said)
   if (rooted !== undefined) return rooted
-  const landed = landedAt(was, said)
+  const landed = landingOf(was, said)
   if (landed === null) return null
   const there = moved.get(landed)
   if (there !== undefined) return specifierFor(dir, there)
