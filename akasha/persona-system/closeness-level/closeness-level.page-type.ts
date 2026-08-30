@@ -20,6 +20,12 @@ export const closenessLevel = {
   pluralSlug: "closeness-levels",
   extendsSlug: "page-type/domain",
   partSlugs: [
+    "closeness-level/level-1",
+    "closeness-level/level-2",
+    "closeness-level/level-3",
+    "closeness-level/level-4",
+    "closeness-level/level-5",
+    "closeness-level/level-6",
     "number-property/level",
     "text-property/pose",
     "text-property/stage",
