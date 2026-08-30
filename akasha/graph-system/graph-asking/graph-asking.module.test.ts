@@ -1,35 +1,54 @@
 import { afterAll, expect, test } from "bun:test"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { stampKept } from "../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
+import {
+  APART_AT,
+  AT_INDEX,
+  DECLARED,
+  EDGE_AT,
+  EDGE_ID,
+  edgeStandsAt,
+  FIRST_AT,
+  filed,
+  HELD,
+  HELD_LOADER,
+  IMPORT,
+  IMPORT_EDGE,
+  INDEX_AT,
+  INDEX_ID,
+  INDEX_STANDS_AT,
+  importWorld,
+  KNOWN,
+  LEAF_AT,
+  LOADED_AT,
+  LOADED_CODE_AT,
+  LOADER_AT,
+  LOADER_CODE_AT,
+  LOADER_ID,
+  laidOver,
+  loadingWorld,
+  MODULE,
+  MODULE_TYPE_AT,
+  MODULE_TYPE_ID,
+  PAGE_TYPE,
+  PART,
+  PROPERTY,
+  paged,
+  RELATION,
+  reachingWorld,
+  relationWorld,
+  SECOND_AT,
+  SIDECAR_AT,
+  SOURCE_AT,
+  scratch,
+  TARGET_AT,
+  THIRD_AT,
+  TYPE_AT,
+  TYPE_ID,
+  TYPE_STANDS_AT,
+} from "./graph-asking.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
-
-const GRAPH_EDGE = "graph-edge"
-
-const GRAPH_ATTRIBUTE = "graph-attribute"
-
-const INDEX = "index"
-
-const IMPORT = "import"
-
-const IMPORT_EDGE = "import-edge"
-
-const RELATION = "relation"
-
-const PROPERTY = "property"
-
-const KNOWN = "known"
-
-const AT_INDEX = "index"
-
-const DECLARED = "declaration"
-
-const PART = "part-slugs"
 
 const NAMED = "akasha/code-system/module/module.page-type.ts"
 
@@ -37,75 +56,7 @@ const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
 
 const EXTENDS = "extends-slug"
 
-const HELD = "held"
-
-const TREE = "akasha"
-
-const PREFIX = "graph-asking-"
-
-const HELD_INDEX = "held-index"
-
-const HELD_RELATION = "held-relation"
-
-const EDGE_ID = "01a04ff4-0000-7000-8000-00000000000e"
-
-const INDEX_ID = "01a04ff4-0000-7000-8000-00000000000d"
-
-const TARGET_ID = "01a04ff4-0000-7000-8000-00000000000a"
-
-const SOURCE_ID = "01a04ff4-0000-7000-8000-00000000000b"
-
-const EDGE_AT = "akasha/held/held.graph-edge.ts"
-
-const INDEX_AT = "akasha/held/held-index.index.ts"
-
-const TARGET_AT = "akasha/held/target.page.ts"
-
-const SOURCE_AT = "akasha/held/source.page.ts"
-
-const SIDECAR_AT = "akasha/held/target.page.code.ts"
-
-const INVENTED = "an index a test invented so that no name could be assumed"
-
 const ENDING = ".ts"
-
-const FIRST_AT = "akasha/held/first.ts"
-
-const SECOND_AT = "akasha/held/second.ts"
-
-const THIRD_AT = "akasha/held/third.ts"
-
-const APART_AT = "akasha/held/apart.txt"
-
-const PAGE_TYPE = "page-type"
-
-const MODULE = "module"
-
-const HELD_TYPE = "held-type"
-
-const HELD_LOADER = "held-loader"
-
-const LOADED = "loaded"
-
-const TYPE_ID = "01a04ff4-0000-7000-8000-00000000000f"
-
-const LOADER_ID = "01a04ff4-0000-7000-8000-000000000010"
-
-const LOADED_ID = "01a04ff4-0000-7000-8000-000000000011"
-
-const MODULE_TYPE_ID = "01a04ff4-0000-7000-8000-000000000012"
-
-const TYPE_AT = "akasha/held/held-type.page-type.ts"
-
-const MODULE_TYPE_AT = "akasha/held/module.page-type.ts"
-
-const LOADER_AT = "akasha/held/held-loader.module.ts"
-
-const LOADER_CODE_AT = "akasha/held/held-loader.module.code.ts"
-
-const LOADED_AT = "akasha/held/loaded.held-type.ts"
-
-const LOADED_CODE_AT = "akasha/held/loaded.held-type.code.ts"
 
 const CHECK_AT = "akasha/checks-system/check/typecheck/typecheck.check.ts"
 
@@ -113,121 +64,7 @@ const CHECK_CODE_AT = "akasha/checks-system/check/typecheck/typecheck.check.code
 
 const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-function paged(root: string, at: string, held: Record<string, unknown>): undefined {
-  put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
-}
-
-function filedAll(root: string, at: string, said: readonly Record<string, string>[]): undefined {
-  put(root, `.git/data/index/${at}`, said.map((one) => `${JSON.stringify(one)}\n`).join(""))
-}
-
-function filed(root: string, at: string, said: Record<string, string>): undefined {
-  filedAll(root, at, [said])
-}
-
-function indexed(root: string, indexName: string): undefined {
-  paged(root, INDEX_AT, {
-    id: INDEX_ID,
-    pageTypeSlug: INDEX,
-    slug: HELD_INDEX,
-    definition: INVENTED,
-    indexName,
-  })
-  filed(root, `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
-}
-
-function edged(root: string, kind: string, held: Record<string, unknown>): undefined {
-  paged(root, EDGE_AT, {
-    id: EDGE_ID,
-    pageTypeSlug: GRAPH_EDGE,
-    slug: kind,
-    definition: "an edge kind a test invented",
-    indexSlug: `${INDEX}/${HELD_INDEX}`,
-    ...held,
-  })
-  filed(root, `identity/${GRAPH_EDGE}/slug/${kind}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
-}
-
-function relationWorld(lines: number): string {
-  const root = scratch.rootFor(PREFIX)
-  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] })
-  indexed(root, HELD_RELATION)
-  filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
-  filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
-  if (lines > 0) {
-    filedAll(
-      root,
-      `${HELD_RELATION}/page/id/${TARGET_ID}/${PART}/${SOURCE_ID}.jsonl`,
-      Array.from({ length: lines }, () => ({ path: SOURCE_AT }))
-    )
-  }
-  return root
-}
-
-function stoodUp(indexName: string): string {
-  const root = scratch.rootFor(PREFIX)
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", HELD])
-  gitIn(root, ["config", "user.name", HELD])
-  put(root, HELD, `${HELD}\n`)
-  gitIn(root, ["add", "--", HELD])
-  gitIn(root, ["commit", "--quiet", "-m", HELD, "--", HELD])
-  stampKept(indexIn(root), {
-    commit: gitIn(root, ["rev-parse", "HEAD"]).trim(),
-    tree: TREE,
-    settled: [],
-  })
-  edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] })
-  indexed(root, indexName)
-  return root
-}
-
-function importWorld(indexName: string): string {
-  const root = stoodUp(indexName)
-  filed(root, `${IMPORT}/path/${TARGET_AT}.jsonl`, { path: SOURCE_AT })
-  return root
-}
-
-function reachingWorld(reaching: Readonly<Record<string, readonly string[]>>): string {
-  const root = stoodUp(IMPORT)
-  for (const [into, from] of Object.entries(reaching)) {
-    filedAll(
-      root,
-      `${IMPORT}/path/${into}.jsonl`,
-      from.map((one) => ({ path: one }))
-    )
-  }
-  return root
-}
-
-function loadingWorld(loadedBySlug: string | null): string {
-  const root = stoodUp(IMPORT)
-  filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
-  paged(root, TYPE_AT, {
-    id: TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
-    slug: HELD_TYPE,
-    definition: "a page type a test invented",
-    ...(loadedBySlug === null ? {} : { loadedBySlug }),
-  })
-  filed(root, `identity/${PAGE_TYPE}/slug/${HELD_TYPE}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
-  paged(root, LOADER_AT, {
-    id: LOADER_ID,
-    pageTypeSlug: MODULE,
-    slug: HELD_LOADER,
-    definition: "a module a test invented",
-    code: "ts",
-  })
-  filed(root, `identity/${MODULE}/slug/${HELD_LOADER}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
-  paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
-  filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
-  filed(root, `path/${LOADED_CODE_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
-  return root
-}
 
 test("an empty kind list answers nothing", () => {
   expect(edgesInto(REPO_AT, NAMED, [])).toEqual([])
@@ -356,6 +193,63 @@ test("a check page in the corpus is answered with the module that loads it, and 
   })
 })
 
+test("an import edge standing only in the reading given is answered, and none without it", () => {
+  const root = importWorld(IMPORT)
+  const over = laidOver(root, { [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }] })
+
+  expect(edgesInto(root, FIRST_AT, [IMPORT_EDGE], over)).toEqual([
+    { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+  expect(edgesInto(root, FIRST_AT, [IMPORT_EDGE])).toEqual([])
+})
+
+test("an import edge the reading given empties is not answered, and stands without it", () => {
+  const root = importWorld(IMPORT)
+  filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
+  const over = laidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
+
+  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE], over)).toEqual([])
+  expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: TARGET_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+})
+
+test("a relation edge standing only in the reading given is answered, and none without it", () => {
+  const root = relationWorld(0)
+  const over = laidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
+
+  expect(edgesInto(root, TARGET_AT, [RELATION], over)).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
+  expect(edgesInto(root, TARGET_AT, [RELATION])).toEqual([])
+})
+
+test("a page type standing only in the reading given answers the code it says loads a page", () => {
+  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`, false)
+  const over = laidOver(root, { [TYPE_STANDS_AT]: [{ path: TYPE_AT, id: TYPE_ID }] })
+
+  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE], over)).toEqual([
+    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_AT, attrs: { [KNOWN]: DECLARED } },
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
+    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
+  ])
+})
+
+test("an edge kind's own pages, standing only in the reading given, still answer it", () => {
+  const root = relationWorld(1, false)
+  const over = laidOver(root, {
+    [edgeStandsAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
+    [INDEX_STANDS_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
+  })
+
+  expect(edgesInto(root, TARGET_AT, [RELATION], over)).toEqual([
+    { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
+  ])
+  expect(() => edgesInto(root, TARGET_AT, [RELATION])).toThrow(/`relation`.*could not be answered/)
+})
+
 test("a file three deep in what imports it is reached, so the closure closes", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT], [SECOND_AT]: [THIRD_AT] })
 
@@ -386,4 +280,13 @@ test("a seed is part of the answer, and a seed the predicate turns away is none 
 
   expect(reachingInto(root, [SECOND_AT], [IMPORT_EDGE])).toEqual([SECOND_AT])
   expect(kept).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a closure walks the edges the reading it was given answers, and none it does not", () => {
+  const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
+  const over = laidOver(root, { [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }] })
+  const every = [FIRST_AT, SECOND_AT, THIRD_AT]
+
+  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], () => true, over)).toEqual(every)
+  expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE])).toEqual([FIRST_AT, SECOND_AT])
 })

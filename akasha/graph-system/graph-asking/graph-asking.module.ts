@@ -7,6 +7,7 @@ export const graphAsking = {
   definition: "what the graph is asked, and where each answer is read from",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

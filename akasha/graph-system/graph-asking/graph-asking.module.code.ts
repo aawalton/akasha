@@ -6,7 +6,7 @@ import {
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   importersOf,
-  indexAt,
+  indexIn,
   type Standing,
   standingAt,
   standingByPath,
@@ -86,8 +86,13 @@ function textFor(held: Value, key: string, path: string, asked: string): string 
   return said
 }
 
-function standingFor(root: string, pageTypeSlug: string, slug: string, asked: string): Standing {
-  const found = standingAt(root, pageTypeSlug, slug)[0]
+function standingFor(
+  reading: Reading,
+  pageTypeSlug: string,
+  slug: string,
+  asked: string
+): Standing {
+  const found = standingAt(reading, pageTypeSlug, slug)[0]
   if (found === undefined) {
     throw new Error(
       `no \`${pageTypeSlug}\` page is slugged \`${slug}\`, so ${asked} could not be answered`
@@ -96,12 +101,12 @@ function standingFor(root: string, pageTypeSlug: string, slug: string, asked: st
   return found
 }
 
-function indexNameFor(root: string, named: string, asked: string): string {
+function indexNameFor(root: string, reading: Reading, named: string, asked: string): string {
   const address = addressIn(named)
   if (address.kind !== "qualified") {
     throw new Error(`\`${named}\` names no page type, so ${asked} could not be answered`)
   }
-  const found = standingFor(root, address.pageTypeSlug, address.slug, asked)
+  const found = standingFor(reading, address.pageTypeSlug, address.slug, asked)
   return textFor(valueFor(root, found.path, asked), INDEX_NAME, found.path, asked)
 }
 
@@ -111,12 +116,12 @@ function attributesIn(held: Value): readonly string[] {
   return said.filter((one): one is string => typeof one === "string").map(slugOf)
 }
 
-function askingFor(root: string, kind: string, asked: string): Asking {
-  const found = standingFor(root, GRAPH_EDGE, kind, asked)
+function askingFor(root: string, reading: Reading, kind: string, asked: string): Asking {
+  const found = standingFor(reading, GRAPH_EDGE, kind, asked)
   const held = valueFor(root, found.path, asked)
   return {
     kind,
-    indexName: indexNameFor(root, textFor(held, INDEX_SLUG, found.path, asked), asked),
+    indexName: indexNameFor(root, reading, textFor(held, INDEX_SLUG, found.path, asked), asked),
     attributeSlugs: attributesIn(held),
   }
 }
@@ -131,14 +136,14 @@ function attributeFor(asking: Asking, asked: string): string {
   return only
 }
 
-function loadingInto(root: string, path: string): string | null {
-  const standing = standingByPath(root, path)[0]
+function loadingInto(root: string, reading: Reading, path: string): string | null {
+  const standing = standingByPath(reading, path)[0]
   if (standing === undefined) return null
   const page = valueAt(standing.path, root)
   if (page === null) return null
   const pageTypeSlug = textAt(page, PAGE_TYPE_SLUG)
   if (pageTypeSlug === null) return null
-  const type = standingAt(root, PAGE_TYPE, pageTypeSlug)[0]
+  const type = standingAt(reading, PAGE_TYPE, pageTypeSlug)[0]
   if (type === undefined) return null
   const held = valueAt(type.path, root)
   if (held === null) return null
@@ -146,20 +151,26 @@ function loadingInto(root: string, path: string): string | null {
   if (named === null) return null
   const address = addressIn(named)
   if (address.kind !== "qualified") return null
-  const loader = standingAt(root, address.pageTypeSlug, address.slug)[0]
+  const loader = standingAt(reading, address.pageTypeSlug, address.slug)[0]
   if (loader === undefined) return null
   return besideAt(loader.path, CODE, TS)
 }
 
-function importsInto(root: string, path: string, asking: Asking, asked: string): readonly Edge[] {
+function importsInto(
+  root: string,
+  reading: Reading,
+  path: string,
+  asking: Asking,
+  asked: string
+): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
-  const found: Edge[] = importersOf(root, path).map((from) => ({
+  const found: Edge[] = importersOf(root, path, reading).map((from) => ({
     kind: asking.kind,
     from,
     to: path,
     attrs: { [attribute]: BY_INDEX },
   }))
-  const loading = loadingInto(root, path)
+  const loading = loadingInto(root, reading, path)
   if (loading === null || loading === path) return found
   return [
     ...found,
@@ -180,16 +191,15 @@ function sourcesUnder(reading: Reading, at: string): readonly string[] {
 }
 
 function relationsInto(
-  root: string,
   reading: Reading,
   path: string,
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const under = indexAt(asking.indexName, AT_PAGE, AT_ID)
+  const under = `${asking.indexName}/${AT_PAGE}/${AT_ID}`
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
-  for (const one of standingByPath(root, path)) {
+  for (const one of standingByPath(reading, path)) {
     const here = `${under}/${one.id}`
     for (const property of reading.listing(here)) {
       if (!property.directory) continue
@@ -210,15 +220,19 @@ function keyOf(one: Edge): string {
   return [one.kind, one.from, one.to, JSON.stringify(one.attrs)].join(APART)
 }
 
-export function edgesInto(root: string, path: string, kinds: readonly string[]): readonly Edge[] {
+export function edgesInto(
+  root: string,
+  path: string,
+  kinds: readonly string[],
+  reading: Reading = readingAt(indexIn(root))
+): readonly Edge[] {
   if (kinds.length === 0) return []
   const asked = askedFor(path, kinds)
-  const reading = readingAt(root)
   const found: Edge[] = []
   for (const kind of new Set(kinds)) {
-    const asking = askingFor(root, kind, asked)
-    if (kind === IMPORT_EDGE) found.push(...importsInto(root, path, asking, asked))
-    else if (kind === RELATION) found.push(...relationsInto(root, reading, path, asking, asked))
+    const asking = askingFor(root, reading, kind, asked)
+    if (kind === IMPORT_EDGE) found.push(...importsInto(root, reading, path, asking, asked))
+    else if (kind === RELATION) found.push(...relationsInto(reading, path, asking, asked))
     else {
       throw new Error(
         `the \`${kind}\` edge is not yet read into a node, so ${asked} could not be answered`
@@ -238,12 +252,13 @@ export function reachingInto(
   root: string,
   paths: readonly string[],
   kinds: readonly string[],
-  through: (path: string) => boolean = () => true
+  through: (path: string) => boolean = () => true,
+  reading: Reading = readingAt(indexIn(root))
 ): readonly string[] {
   const found = new Set(paths.filter((one) => through(one)))
   const waiting = [...found]
   for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
-    for (const edge of edgesInto(root, one, kinds)) {
+    for (const edge of edgesInto(root, one, kinds, reading)) {
       if (found.has(edge.from) || !through(edge.from)) continue
       found.add(edge.from)
       waiting.push(edge.from)
