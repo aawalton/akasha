@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
+import { domainsStanding } from "./akasha-domains.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
@@ -22,7 +23,17 @@ export function scan(root: string): Found {
     if (isDirty(relPath)) continue
     frontmatter.set(relPath, parseFrontmatter(readFileSync(`${root}/${relPath}`, "utf8")))
   }
-  const { slugs } = slugsIn(frontmatter)
+  const standing = domainsStanding(root)
+  for (const one of standing) frontmatter.set(one.relPath, one.frontmatter)
+  const { slugs: fromMarkdown } = slugsIn(frontmatter)
+  const slugs = new Map(fromMarkdown)
+  // A page that has moved is read where it now lives, so the new system takes the
+  // address. A bare slug is left where it stands, because it names whatever claimed
+  // it first and a seat already resolves some of those to something else entirely.
+  for (const one of standing) {
+    slugs.set(one.address, one.relPath)
+    if (!slugs.has(one.slug)) slugs.set(one.slug, one.relPath)
+  }
   return {
     docs: {
       frontmatterOf: (at) => frontmatter.get(at) ?? null,
