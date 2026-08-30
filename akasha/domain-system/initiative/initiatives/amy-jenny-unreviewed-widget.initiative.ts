@@ -14,10 +14,6 @@ export const amyJennyUnreviewedWidget = {
     },
     {
       invariantKind: "gap",
-      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The credential that guards a readout route is in akasha.",
     },
     {
@@ -44,6 +40,10 @@ export const amyJennyUnreviewedWidget = {
     {
       invariantKind: "gap",
       statement: "Alan's iOS app is built from akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The reading is taken by a process running on a workstation rather than by a pod.",
     },
     {
       invariantKind: "gap",
