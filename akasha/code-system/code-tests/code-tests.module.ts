@@ -12,17 +12,21 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run is answered whole: what it exited, what it printed, the summary read out of it, and the verdict that follows. Every caller reads one answer rather than repeating how it is read.",
+        "A run is answered whole: what it exited and what it printed and the summary read out of it and the verdict that follows. Every caller reads one answer rather than repeating how it is read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A run marks the child it spawns. A test reaching for this can tell it already stands inside a run, and stops rather than starting another.",
+        "A run marks the child it spawns. A test reaching for this can tell it already stands inside a run and stops rather than starting another.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run printing no summary is a crash whatever it exited.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A run printing no summary is a crash whatever it exited, and a run reaching fewer files than stand under what was named is short rather than a pass.",
+        "A run reaching fewer files than stand under what was named is short rather than a pass.",
     },
     {
       invariantKind: "departure",
@@ -35,12 +39,13 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world is written out of bodies handed in, not read off the working tree.",
+      statement:
+        "A world is written out of bodies handed in rather than read off the working tree.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A world borrows from the tree it is made from only what a run cannot stand without: the index, what a run is configured by, and a link to the modules imported.",
+        "A world borrows from the tree it is made from only what a run cannot stand without: the index and what a run is configured by and a link to the modules imported.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +53,15 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A world is held under `/var/tmp` rather than `/tmp`. `/tmp` is memory this machine shares, and a tree left there is taken out of it.",
+      statement: "A world is held under `/var/tmp` rather than `/tmp`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`/tmp` is memory this machine shares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree left there is taken out of it.",
     },
     {
       invariantKind: "departure",
@@ -57,18 +69,32 @@ export const codeTests = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here says which tests inside a file run. A run is named by path, and the runner chooses the rest.",
+      statement: "Nothing here says which tests inside a file run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A run is named by path.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The runner chooses the rest.",
     },
     {
       invariantKind: "absence",
       statement:
-        "How a run is reported is not answered here. What is printed, how much of it a caller may hold, and what a refusal says belong to whoever asked for the run.",
+        "How a run is reported is not answered here. What is printed and how much of it a caller may hold and what a refusal says belong to whoever asked for the run.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Which paths a world is written over is not answered here. A caller hands in the paths and the bodies, and a world is only what is made of them.",
+      statement: "Which paths a world is written over is not answered here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A caller hands in the paths and the bodies.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A world is only what is made of them.",
     },
   ],
 } as const satisfies Module
