@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { idTakenFrom } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
@@ -15,8 +16,6 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const AGENT = "01a04f58-a7ee-7000-94ad-769aa16fc838"
-
-const PAGES_AT = ".git/data/index/identity/page/id"
 
 type Standing = {
   readonly path: string
@@ -127,7 +126,7 @@ test("a naming page the index no longer holds warrants nothing of itself", () =>
   const whole = page(root, "whole")
   const part = page(root, "part")
   names(root, whole, part)
-  rmSync(join(root, PAGES_AT, `${whole.id}.jsonl`))
+  idTakenFrom(root, whole.id)
   expect(pathsOf(fileDomain(root, part.path))).toEqual([])
 })
 

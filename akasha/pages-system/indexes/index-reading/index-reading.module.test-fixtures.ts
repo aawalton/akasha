@@ -21,14 +21,20 @@ const PAGE_PROPERTY = "page-property"
 
 const AT_PATH = "path"
 
+const PART = ".4242.part"
+
 function under(root: string, at: string): string {
   return join(indexIn(root), at)
 }
 
-function filing(root: string, at: string, lines: readonly unknown[]): undefined {
-  const path = under(root, `${at}${ENDING}`)
+function written(root: string, at: string, lines: readonly unknown[]): undefined {
+  const path = under(root, at)
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
+function filing(root: string, at: string, lines: readonly unknown[]): undefined {
+  written(root, `${at}${ENDING}`, lines)
 }
 
 function standing(root: string, at: string): undefined {
@@ -88,6 +94,10 @@ export function importFiled(root: string, path: string, lines: readonly unknown[
   filing(root, join(indexImport.indexName, AT_PATH, path), lines)
 }
 
+export function importPartLeft(root: string, path: string, lines: readonly unknown[]): undefined {
+  written(root, join(indexImport.indexName, AT_PATH, `${path}${ENDING}${PART}`), lines)
+}
+
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   standing(root, join(indexIdentity.indexName, pageTypeSlug, SLUG))
 }
@@ -125,10 +135,18 @@ export function importsStanding(root: string): boolean {
   return existsSync(under(root, indexImport.indexName))
 }
 
+export function idTakenFrom(root: string, id: string): undefined {
+  taking(root, join(indexIdentity.indexName, PAGE, ID, `${id}${ENDING}`))
+}
+
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {
   taking(root, join(indexIdentity.indexName, pageTypeSlug))
 }
 
 export function pathsTakenFrom(root: string): undefined {
   taking(root, indexPath.indexName)
+}
+
+export function importsTakenFrom(root: string): undefined {
+  taking(root, indexImport.indexName)
 }

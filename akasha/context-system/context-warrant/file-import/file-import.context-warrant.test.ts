@@ -1,10 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, rmSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { rmSync } from "node:fs"
+import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing as wrote } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
+import {
+  entriesFiled,
+  importPartLeft,
+  importsTakenFrom,
+  pathFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
 import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
@@ -17,25 +23,16 @@ afterAll(scratch.sweep)
 
 const AGENT = "01a04f58-a7ef-7002-942e-14b7c0c71bef"
 
-const INDEX_AT = ".git/data/index"
-
 const PREFIX = "akasha-file-import-"
 
-function filed(root: string, at: string, line: string): undefined {
-  const to = join(root, INDEX_AT, at)
-  mkdirSync(dirname(to), { recursive: true })
-  appendFileSync(to, `${line}\n`)
-}
-
 function paged(root: string, path: string, page: string): undefined {
-  const id = mintedId(page)
-  filed(root, join("path", `${path}.jsonl`), JSON.stringify({ path: page, id }))
+  pathFiled(root, path, [{ path: page, id: mintedId(page) }])
 }
 
 function standing(root: string, path: string, page: string, body: string): string {
   const oid = wrote(root, path, body)
   paged(root, path, page)
-  for (const one of importIn(body, path, root)) filed(root, one.at, one.line)
+  entriesFiled(root, importIn(body, path, root))
   return oid
 }
 
@@ -171,7 +168,7 @@ test("an import index that is not there warrants nothing", () => {
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
-  rmSync(join(root, INDEX_AT, "import"), { recursive: true, force: true })
+  importsTakenFrom(root)
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
@@ -190,7 +187,7 @@ test("a part file left in the index is no import, only a filed one being read", 
   codeAt(root, "b", "")
   codeAt(root, "c", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
-  filed(root, "import/path/akasha/c/c.module.code.ts.jsonl.4242.part", JSON.stringify({ path: at }))
+  importPartLeft(root, "akasha/c/c.module.code.ts", [{ path: at }])
   expect(importedIn(root, at)).toEqual(["akasha/b/b.module.code.ts"])
   expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
