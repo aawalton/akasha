@@ -9,7 +9,6 @@ import { recordRead } from "../../../agent/record-read.ts"
 import { writerId } from "../../../agent/writer.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { requiredFor } from "./required.ts"
-import { seatTargets } from "./seat.ts"
 import { type Target, targetOf } from "./target.ts"
 
 const SCRATCH = "/var/tmp"
@@ -23,13 +22,11 @@ const SEAT = "--seat"
 interface Args {
   readonly paths: readonly string[]
   readonly full: boolean
-  readonly seat: boolean
 }
 
 function parseArgs(argv: readonly string[]): Args {
   const paths: string[] = []
   let full = false
-  let seat = false
   for (let i = 0; i < argv.length; i += 1) {
     const arg = argv[i] ?? ""
     if (arg === FILE_PATH) {
@@ -44,8 +41,10 @@ function parseArgs(argv: readonly string[]): Args {
       continue
     }
     if (arg === SEAT) {
-      seat = true
-      continue
+      throw new Error(
+        `${SEAT} reads what a seat is bound to, and this read answers for the paths it is named and ` +
+          "nothing else"
+      )
     }
     if (arg === "--repo") {
       throw new Error(
@@ -55,14 +54,8 @@ function parseArgs(argv: readonly string[]): Args {
     }
     throw new Error(`\`${arg}\` is not an argument this takes — run it with --help`)
   }
-  if (seat && paths.length > 0) {
-    throw new Error(
-      `${SEAT} is the whole set this seat is required to have read, so it takes no ${FILE_PATH} beside it`
-    )
-  }
-  if (paths.length === 0 && !seat)
-    throw new Error(`${FILE_PATH} names a file to read, and none was given`)
-  return { paths, full, seat }
+  if (paths.length === 0) throw new Error(`${FILE_PATH} names a file to read, and none was given`)
+  return { paths, full }
 }
 
 export const help = {
@@ -93,12 +86,6 @@ export const help = {
     "that does not exist cannot be read, so a write CREATING one is still refused until you have read " +
     "what is required for it.\n" +
     "\n" +
-    `WHAT THIS SEAT IS BOUND TO IS NAMED IN ONE CALL. \`${SEAT}\` takes no path: it names every document ` +
-    "the seat's persona, domain, role, task and initiative bind it to, in whichever repository each " +
-    "stands, answered from the record exactly as a named path is — whole the first time, one line where " +
-    "it has not moved, and the difference where it has. A seat owing one document pays for one and not " +
-    `for the set. Where a context was lost while the record stands, \`${FULL}\` returns the bodies. ` +
-    "\n" +
     "WHAT ONE ANSWER CARRIES BOUNDS WHAT COMES BACK, and no file is broken off partway to fit. Files go " +
     `out whole, in the order above, until the next one would carry the answer past ${ANSWER_CEILING} ` +
     "characters, which is the ceiling this prints to. What is left is neither read nor recorded, and the " +
@@ -126,15 +113,11 @@ export const help = {
       repeatable: true,
       description:
         "A file: relative to the directory this ran in, or absolute and inside any repository. " +
-        "Required unless `--seat`, and repeatable.",
+        "Repeatable.",
     },
     {
       name: FULL,
       description: "The whole file for each path you name, whatever the record says.",
-    },
-    {
-      name: SEAT,
-      description: `Every document this seat is bound to, as the record leaves it; takes no ${FILE_PATH} beside it.`,
     },
   ],
 }
@@ -152,38 +135,16 @@ export default async function read(argv: readonly string[]): Promise<void> {
   const args = parseArgs(argv)
   const from = canonicalize(process.cwd())
   const agent = writerId()
-
-  if (args.seat && agent === null) {
-    throw new Error(
-      `${SEAT} reads what THIS seat is required to have read, and nothing identifies which seat this ` +
-        "is — neither AGENT_ID nor CLAUDE_CODE_SESSION_ID is set"
-    )
-  }
-  const bound = args.seat ? seatTargets(agent as string, from) : null
-  if (args.seat && bound === null) {
-    throw new Error(
-      "no page stands for this seat, so nothing says what it is bound to — " +
-        "`ops seat set` is what records what a seat is"
-    )
-  }
-  if (bound !== null && bound.length === 0) {
-    throw new Error(
-      "this seat states no attributes, so nothing is required reading for it — " +
-        "`ops seat set` is what records what a seat is"
-    )
-  }
   const full = args.full
 
-  const declared: readonly Target[] = bound ?? args.paths.map((one) => targetOf(one, from))
+  const declared: readonly Target[] = args.paths.map((one) => targetOf(one, from))
   const asked = new Set<string>()
   const targets = declared.map((target) => {
     if (asked.has(target.absolute)) throw new Error(`${target.named} is named more than once`)
     asked.add(target.absolute)
     return target
   })
-  const required = args.seat
-    ? { targets: [] as readonly Target[], caption: "" }
-    : requiredFor(targets, from)
+  const required = requiredFor(targets, from)
 
   const report: string[] = []
   const refusals: string[] = []
