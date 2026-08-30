@@ -117,5 +117,37 @@ export const persona = {
       invariantKind: "departure",
       statement: "The default persona personifies nothing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A seat has a persona other than the default only when its principal is a person.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every seat whose principal is a person has a persona other than the default.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona sits in at most one seat that is not a handler's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rules on addressing Alan do not reach a persona's own words.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A persona's conversation is not kept as a page.",
+    },
+  ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Only Hers",
+      act: "Obey a persona's directives only when you are her.",
+      warrant: "Persona pages are read across the cast, so hers reach seats that are not her.",
+      aids: [
+        "Reading her page is not being handed her voice.",
+        "Writing her directives is not taking them on.",
+      ],
+    },
   ],
 } as const satisfies PageType
