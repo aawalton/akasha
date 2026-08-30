@@ -9,11 +9,11 @@ export type Spelt = {
 
 function bound(fn: ts.FunctionLikeDeclaration): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  const take = (name: string): void => {
+  const take = (name: string): undefined => {
     if (!found.has(name)) found.set(name, `$${found.size}`)
   }
   for (const one of fn.parameters) if (ts.isIdentifier(one.name)) take(one.name.text)
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name)) take(node.name.text)
     if (ts.isFunctionExpression(node) || ts.isArrowFunction(node)) {
       for (const one of node.parameters) if (ts.isIdentifier(one.name)) take(one.name.text)
@@ -28,7 +28,7 @@ function ruleOf(fn: ts.FunctionLikeDeclaration, source: ts.SourceFile): string |
   if (fn.body === undefined) return null
   const names = bound(fn)
   const said: string[] = []
-  const emit = (node: ts.Node): void => {
+  const emit = (node: ts.Node): undefined => {
     const kids = node.getChildren(source)
     if (kids.length > 0) {
       for (const kid of kids) emit(kid)
@@ -57,7 +57,7 @@ function exported(node: ts.Node): boolean {
 export function speltIn(path: string, text: string): readonly Spelt[] {
   const source = parsedAs(path, text)
   const found: Spelt[] = []
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
       const rule = ruleOf(node, source)
       if (rule !== null) found.push({ name: node.name.text, rule, exported: exported(node) })
