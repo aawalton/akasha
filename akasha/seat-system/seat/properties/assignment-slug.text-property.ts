@@ -13,18 +13,17 @@ export const assignmentSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A person and a persona each extend a domain, so a seat assigned to either is assigned to a domain.",
+      statement: "A person and a persona each extend a domain.",
     },
     {
       invariantKind: "stopgap",
       statement:
-        "This holds text because five of the domains the seats standing today name have not moved into the new system.",
+        "Five of the domains the seats standing today name have not moved into the new system.",
     },
     {
       invariantKind: "stopgap",
       statement:
-        "This is named for the assignment because a second property page cannot yet carry the slug `domain-slug`.",
+        "This is named for the assignment. A second property page cannot yet carry the slug `domain-slug`.",
     },
     {
       invariantKind: "gap",

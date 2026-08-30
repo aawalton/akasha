@@ -13,8 +13,7 @@ export const proxyVersion = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A build is named by the digest of the source it was built from, so two builds of one source carry one name.",
+      statement: "A build is named by the digest of the source it was built from.",
     },
   ],
 } as const satisfies TextProperty

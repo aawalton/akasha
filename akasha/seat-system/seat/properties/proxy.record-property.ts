@@ -3,11 +3,7 @@ import type { ProxyPort } from "./proxy-port.number-property.ts"
 import type { ProxyProcess } from "./proxy-process.process-property.ts"
 import type { ProxyVersion } from "./proxy-version.text-property.ts"
 
-export type Proxy = {
-  process: ProxyProcess
-  port: ProxyPort
-  version: ProxyVersion
-}
+export type Proxy = { process: ProxyProcess; port: ProxyPort; version: ProxyVersion }
 
 export const proxy = {
   id: "01a0540c-dbbf-7215-9747-624c4ef37e06",
@@ -24,7 +20,7 @@ export const proxy = {
     {
       invariantKind: "departure",
       statement:
-        "A seat reaches one proxy or none, so a proxy short of any of these is no proxy at all.",
+        "A seat reaches one proxy or none. A proxy short of any of these is no proxy at all.",
     },
   ],
 } as const satisfies RecordProperty

@@ -13,8 +13,7 @@ export const transcriptPath = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A transcript stands on the machine its seat does, so this path answers there and nowhere else.",
+      statement: "A transcript stands on the machine its seat does.",
     },
   ],
 } as const satisfies TextProperty

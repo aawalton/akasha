@@ -106,8 +106,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A persona holds more than one seat, so a seat is not reached by naming a persona.",
+      statement: "A persona holds more than one seat.",
     },
   ],
 } as const satisfies PageType
