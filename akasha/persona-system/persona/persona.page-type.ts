@@ -13,11 +13,11 @@ import type { VoiceInstruction } from "./properties/voice-instruction.text-prope
 import type { VoiceReferenceSha256 } from "./properties/voice-reference-sha256.text-property.ts"
 
 export type Persona = Domain & {
-  purpose: Purpose
-  portrait: Portrait
-  roleSlug: RoleSlug
-  valueSlug: ValueSlug
-  origin: Origin
+  purpose?: Purpose
+  portrait?: Portrait
+  roleSlug?: RoleSlug
+  valueSlug?: ValueSlug
+  origin?: Origin
   emailAddress?: EmailAddress
   championedDomainSlug?: ChampionedDomainSlug
   greenDayPoints?: GreenDayPoints
@@ -47,11 +47,11 @@ export const persona = {
     "text-property/voice-reference-sha256",
   ],
   properties: [
-    { pagePropertySlug: "purpose", required: true, many: false },
-    { pagePropertySlug: "portrait", required: true, many: false },
-    { pagePropertySlug: "role-slug", required: true, many: false },
-    { pagePropertySlug: "value-slug", required: true, many: false },
-    { pagePropertySlug: "origin", required: true, many: false },
+    { pagePropertySlug: "purpose", required: false, many: false },
+    { pagePropertySlug: "portrait", required: false, many: false },
+    { pagePropertySlug: "role-slug", required: false, many: false },
+    { pagePropertySlug: "value-slug", required: false, many: false },
+    { pagePropertySlug: "origin", required: false, many: false },
     { pagePropertySlug: "email-address", required: false, many: false },
     { pagePropertySlug: "championed-domain-slug", required: false, many: false },
     { pagePropertySlug: "voice-instruction", required: false, many: false },
@@ -68,6 +68,11 @@ export const persona = {
     {
       invariantKind: "departure",
       statement: "A persona stands alone in a folder, her portrait being a file beside her page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The default persona personifies nothing, so nothing a persona states of her own is required.",
     },
   ],
 } as const satisfies PageType
