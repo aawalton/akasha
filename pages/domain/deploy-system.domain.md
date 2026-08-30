@@ -6,7 +6,6 @@ slug: deploy-system
 domain-parent-slug: domain/change-harness
 persona-champion-slug: dalla
 required-reading-slugs:
-  - domain/graph-artifact-closure
   - domain/caching
 ---
 

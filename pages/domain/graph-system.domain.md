@@ -5,13 +5,6 @@ title: "Graph system"
 slug: graph-system
 domain-parent-slug: domain/global
 persona-champion-slug: vera
-sequence-slugs:
-  - domain/the-graph
-  - domain/graph-attribute
-  - domain/graph-producer
-  - domain/graph-deriver
-  - domain/graph-reader
-  - domain/graph-artifact
 settled: true
 ---
 
