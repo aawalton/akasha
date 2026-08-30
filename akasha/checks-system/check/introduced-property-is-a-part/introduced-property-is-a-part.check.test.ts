@@ -38,7 +38,7 @@ function stated(
   )
 }
 
-function schemad(root: string, propertySlug: string, unique: string): void {
+function schemad(root: string, propertySlug: string, unique: string): undefined {
   const dir = join(root, INDEX, "schema", "page-property", "slug")
   mkdirSync(dir, { recursive: true })
   const said = { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique }
@@ -51,7 +51,7 @@ function standing(
   above: string | null,
   declares: readonly string[],
   parts: readonly string[]
-): void {
+): undefined {
   const dir = join(root, INDEX, "identity", "page-type", "slug")
   mkdirSync(dir, { recursive: true })
   const path = pathFor(slug)

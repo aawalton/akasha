@@ -84,7 +84,7 @@ export function propertyIsDeclaredByAType(leaving: Leaving): readonly Judged[] {
   const known = knownIn(shadow.reading, leaving.root, shadow.pageOf)
   const said: Judged[] = []
   const judged = new Set<string>()
-  const judge = (path: string, id: string, shown: string): void => {
+  const judge = (path: string, id: string, shown: string): undefined => {
     if (judged.has(path)) return
     judged.add(path)
     if (idsNaming(shadow.reading, id, DECLARES).length > 0) return

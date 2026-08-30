@@ -8,7 +8,7 @@ function foundIn(at: string, text: string): readonly string[] {
   const found: string[] = []
   const lineOf = (node: ts.Node): number =>
     source.getLineAndCharacterOfPosition(node.getStart(source)).line + 1
-  const held = (node: ts.Node): void => {
+  const held = (node: ts.Node): undefined => {
     if (ts.isEnumDeclaration(node)) {
       found.push(`line ${lineOf(node)} declares \`enum ${node.name.text}\``)
     }

@@ -129,7 +129,7 @@ export function danglingIn(
   if (own !== null && mortal.stated(own)) return []
   const said: Judged[] = []
   const seen = new Set<string>()
-  const judge = (propertySlug: string, held: unknown, where: string): void => {
+  const judge = (propertySlug: string, held: unknown, where: string): undefined => {
     const wanted = known.targetOf(propertySlug)
     if (wanted === null) return
     const names = namesIn(held)

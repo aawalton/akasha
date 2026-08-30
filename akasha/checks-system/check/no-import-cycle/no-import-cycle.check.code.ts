@@ -82,7 +82,7 @@ export function cyclesIn(
   const standing = new Set<string>()
   const stack: string[] = []
   const found: string[][] = []
-  const walk = (at: string): void => {
+  const walk = (at: string): undefined => {
     index.set(at, counted)
     low.set(at, counted)
     counted += 1

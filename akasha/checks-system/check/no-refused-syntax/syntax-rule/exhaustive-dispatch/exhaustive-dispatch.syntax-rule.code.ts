@@ -35,7 +35,7 @@ function lineOf(source: ts.SourceFile, node: ts.Node): number {
 
 export function exhaustiveDispatch(standing: Standing): readonly Refusal[] {
   const found: Refusal[] = []
-  const visit = (node: ts.Node): void => {
+  const visit = (node: ts.Node): undefined => {
     if (ts.isSwitchStatement(node)) {
       const clause = defaultOf(node)
       const why = clause === null ? NAMES_NONE : clause.statements.some(ends) ? null : FALLS_OUT

@@ -59,13 +59,13 @@ export const M_ID = "01a04d99-71ca-7e06-8000-00000000000a"
 
 export const scratch = scratchWorld()
 
-export function put(root: string, at: string, body: string): void {
+export function put(root: string, at: string, body: string): undefined {
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   writeFileSync(full, body, "utf8")
 }
 
-export function filed(root: string, at: string, line: string): void {
+export function filed(root: string, at: string, line: string): undefined {
   const full = join(root, INDEX, at)
   mkdirSync(dirname(full), { recursive: true })
   appendFileSync(full, `${line}\n`, "utf8")
@@ -87,7 +87,7 @@ export function standing(
   pageTypeSlug: string,
   slug: string,
   body: string = stating(id, slug, pageTypeSlug)
-): void {
+): undefined {
   if (!existsSync(join(root, path))) put(root, path, body)
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)
@@ -101,7 +101,7 @@ export function naming(
   propertySlug: string,
   id: string,
   path: string
-): void {
+): undefined {
   filed(
     root,
     join("relation", "page", "id", target, propertySlug, `${id}.jsonl`),

@@ -34,7 +34,7 @@ function extendedBy(node: ts.ClassLikeDeclaration): string | null {
 export function classesIn(at: string, text: string): readonly Found[] {
   const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const found: Found[] = []
-  const held = (node: ts.Node): void => {
+  const held = (node: ts.Node): undefined => {
     if (ts.isClassDeclaration(node) || ts.isClassExpression(node)) {
       found.push({
         named: node.name?.text ?? UNNAMED,

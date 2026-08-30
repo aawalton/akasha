@@ -28,7 +28,7 @@ const INDEX_PAGE_AT = "graph/index-import.index.ts"
 
 export const scratch = scratchWorld()
 
-function reaching(root: string, files: Readonly<Record<string, string>>): void {
+function reaching(root: string, files: Readonly<Record<string, string>>): undefined {
   mkdirSync(join(root, IMPORTS_AT), { recursive: true })
   for (const [at, body] of Object.entries(files)) {
     for (const one of importIn(body, at, root)) {
@@ -39,11 +39,17 @@ function reaching(root: string, files: Readonly<Record<string, string>>): void {
   }
 }
 
-function paged(root: string, at: string, held: unknown): void {
+function paged(root: string, at: string, held: unknown): undefined {
   put(root, at, `export const held = ${JSON.stringify(held, null, 2)}\n`)
 }
 
-function named(root: string, at: string, pageTypeSlug: string, slug: string, id: string): void {
+function named(
+  root: string,
+  at: string,
+  pageTypeSlug: string,
+  slug: string,
+  id: string
+): undefined {
   put(
     indexIn(root),
     join(IDENTITY, pageTypeSlug, SLUG, `${slug}${ENDING}`),
@@ -51,14 +57,14 @@ function named(root: string, at: string, pageTypeSlug: string, slug: string, id:
   )
 }
 
-function graphed(root: string): void {
+function graphed(root: string): undefined {
   paged(root, EDGE_PAGE_AT, importEdge)
   paged(root, INDEX_PAGE_AT, indexImport)
   named(root, EDGE_PAGE_AT, importEdge.pageTypeSlug, importEdge.slug, importEdge.id)
   named(root, INDEX_PAGE_AT, indexImport.pageTypeSlug, indexImport.slug, indexImport.id)
 }
 
-function stamped(root: string): void {
+function stamped(root: string): undefined {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@akasha"])
   gitIn(root, ["config", "user.name", "held"])

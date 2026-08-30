@@ -21,14 +21,14 @@ afterAll(() => {
   for (const one of held) rmSync(one, { recursive: true, force: true })
 })
 
-function schemad(root: string, propertySlug: string, unique: string | null): void {
+function schemad(root: string, propertySlug: string, unique: string | null): undefined {
   const dir = join(root, INDEX, "schema", "page-property", "slug")
   mkdirSync(dir, { recursive: true })
   const said = { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique }
   writeFileSync(join(dir, `${propertySlug}.jsonl`), `${JSON.stringify(said)}\n`)
 }
 
-function typed(root: string, pageTypeSlug: string): void {
+function typed(root: string, pageTypeSlug: string): undefined {
   const dir = join(root, INDEX, "identity", "page-type", "slug")
   mkdirSync(dir, { recursive: true })
   const said = { path: `akasha/${pageTypeSlug}.page-type.ts`, id: `id-${pageTypeSlug}` }
@@ -52,7 +52,7 @@ function filed(
   propertySlug: string,
   said: string,
   path: string
-): void {
+): undefined {
   const dir = join(root, INDEX, "identity", scope, propertySlug)
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, `${said}.jsonl`), `${JSON.stringify({ path, id: ONE })}\n`)

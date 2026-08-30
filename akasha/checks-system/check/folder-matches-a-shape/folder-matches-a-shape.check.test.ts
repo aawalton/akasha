@@ -106,17 +106,17 @@ function idFor(n: number): string {
   return `01a04e00-0000-7000-8000-0000000000${String(n).padStart(2, "0")}`
 }
 
-function put(root: string, at: string, body: string): void {
+function put(root: string, at: string, body: string): undefined {
   const full = join(root, at)
   mkdirSync(dirname(full), { recursive: true })
   writeFileSync(full, body, "utf8")
 }
 
-function filed(root: string, at: string, line: string): void {
+function filed(root: string, at: string, line: string): undefined {
   put(root, join(INDEX, at), `${line}\n`)
 }
 
-function property(root: string, slug: string, kind: string, unique: string | null): void {
+function property(root: string, slug: string, kind: string, unique: string | null): undefined {
   filed(
     root,
     join("schema", "page-property", "slug", `${slug}.jsonl`),
@@ -131,7 +131,7 @@ function stands(
   kind: string,
   slug: string,
   body: string
-): void {
+): undefined {
   put(root, path, body)
   const line = JSON.stringify({ path, id })
   filed(root, join("identity", "page", "id", `${id}.jsonl`), line)

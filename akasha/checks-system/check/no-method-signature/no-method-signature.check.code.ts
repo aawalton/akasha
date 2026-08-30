@@ -4,7 +4,7 @@ import { judgingEachFile, overEachText } from "../../checking/checking.module.co
 function foundIn(at: string, text: string): readonly string[] {
   const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const found: string[] = []
-  const held = (node: ts.Node): void => {
+  const held = (node: ts.Node): undefined => {
     if (ts.isInterfaceDeclaration(node) || ts.isTypeLiteralNode(node)) {
       for (const one of node.members) {
         if (!ts.isMethodSignature(one)) continue

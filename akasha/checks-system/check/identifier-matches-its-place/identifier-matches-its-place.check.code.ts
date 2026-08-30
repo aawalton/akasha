@@ -40,11 +40,11 @@ function boundToAFunction(node: ts.VariableDeclaration): boolean {
 export function refusedIn(at: string, text: string, places: Places): readonly string[] {
   const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const found: string[] = []
-  const take = (name: ts.Identifier, kind: string, placing: Placing): void => {
+  const take = (name: ts.Identifier, kind: string, placing: Placing): undefined => {
     const said = refusalAt(source, name, kind, placing)
     if (said !== null) found.push(said)
   }
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {

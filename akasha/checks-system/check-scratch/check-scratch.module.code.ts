@@ -30,13 +30,13 @@ export function pathFor(kind: string, slug: string): string {
   return `akasha/${slug}.${kind}.ts`
 }
 
-function filed(root: string, under: string, name: string, line: unknown): void {
+function filed(root: string, under: string, name: string, line: unknown): undefined {
   const dir = join(root, under)
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, `${name}.jsonl`), `${JSON.stringify(line)}\n`)
 }
 
-export function typed(root: string, slug: string, above: string): void {
+export function typed(root: string, slug: string, above: string): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
   filed(root, indexAt(IDENTITY, PAGE_TYPE, SLUG), slug, { path, id: `id-${slug}` })
   mkdirSync(join(root, TYPES_AT), { recursive: true })
@@ -53,7 +53,7 @@ export type Shape = {
   readonly unique?: string | null
 }
 
-export function declaring(root: string, slug: string, shape: Shape): void {
+export function declaring(root: string, slug: string, shape: Shape): undefined {
   filed(root, indexAt(SCHEMA, PAGE_PROPERTY, SLUG), slug, {
     pageTypeSlug: shape.pageTypeSlug,
     targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
@@ -61,7 +61,7 @@ export function declaring(root: string, slug: string, shape: Shape): void {
   })
 }
 
-export function identifying(root: string): void {
+export function identifying(root: string): undefined {
   declaring(root, ID, { pageTypeSlug: "text-property", unique: "always" })
   declaring(root, SLUG, { pageTypeSlug: "text-property", unique: PAGE_TYPE })
   declaring(root, "page-type-slug", {
@@ -70,11 +70,11 @@ export function identifying(root: string): void {
   })
 }
 
-export function stands(root: string, kind: string, slug: string, id: string): void {
+export function stands(root: string, kind: string, slug: string, id: string): undefined {
   filed(root, indexAt(IDENTITY, kind, SLUG), slug, { path: pathFor(kind, slug), id })
 }
 
-export function identified(root: string, id: string, path: string): void {
+export function identified(root: string, id: string, path: string): undefined {
   filed(root, indexAt(IDENTITY, PAGE, ID), id, { path, id })
 }
 
@@ -84,7 +84,7 @@ export function edging(
   propertySlug: string,
   from: string,
   at: string
-): void {
+): undefined {
   filed(root, indexAt(RELATION, PAGE, ID, id, propertySlug), from, { path: at })
 }
 

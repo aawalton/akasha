@@ -58,7 +58,7 @@ export function reasonsFor(at: string, text: string): readonly string[] {
   const source = ts.createSourceFile(at, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const said: string[] = []
   const bound = takenIn(source, said)
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     const value = literalIn(node)
     if (value !== null && IN_TMP.test(value)) {
       said.push(

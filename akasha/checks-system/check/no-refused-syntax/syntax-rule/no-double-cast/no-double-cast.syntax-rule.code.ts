@@ -26,7 +26,7 @@ function lineOf(source: ts.SourceFile, node: ts.Node): number {
 
 export function noDoubleCast(standing: Standing): readonly Refusal[] {
   const found: Refusal[] = []
-  const visit = (node: ts.Node): void => {
+  const visit = (node: ts.Node): undefined => {
     if (ts.isAsExpression(node) || ts.isTypeAssertionExpression(node)) {
       const named = widenedTo(withoutParens(node.expression))
       if (named !== null) {

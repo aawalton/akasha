@@ -37,7 +37,7 @@ export function commentsIn(path: string, text: string): readonly Found[] {
   const source = ts.createSourceFile(path, text, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
   const seen = new Set<number>()
   const found: Found[] = []
-  const take = (every: readonly ts.CommentRange[] | undefined): void => {
+  const take = (every: readonly ts.CommentRange[] | undefined): undefined => {
     for (const range of every ?? []) {
       if (seen.has(range.pos)) continue
       seen.add(range.pos)
@@ -45,7 +45,7 @@ export function commentsIn(path: string, text: string): readonly Found[] {
       found.push({ line, raw: text.slice(range.pos, range.end) })
     }
   }
-  const walk = (node: ts.Node): void => {
+  const walk = (node: ts.Node): undefined => {
     const every = node.getChildren(source)
     if (every.length > 0) {
       for (const one of every) walk(one)

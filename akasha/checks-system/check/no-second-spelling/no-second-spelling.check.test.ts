@@ -68,13 +68,18 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function filed(root: string, at: string, line: string): void {
+function filed(root: string, at: string, line: string): undefined {
   const full = join(root, INDEX, at)
   mkdirSync(dirname(full), { recursive: true })
   writeFileSync(full, `${line}\n`, "utf8")
 }
 
-function property(root: string, slug: string, pageTypeSlug: string, unique: string | null): void {
+function property(
+  root: string,
+  slug: string,
+  pageTypeSlug: string,
+  unique: string | null
+): undefined {
   filed(
     root,
     join("schema", "page-property", "slug", `${slug}.jsonl`),
