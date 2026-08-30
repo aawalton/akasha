@@ -20,19 +20,15 @@ extension BacklogScale {
 
 struct Categorization {
     let unreviewed: Int
-    let total: Int
-    let intake: Int?
     let scale: BacklogScale?
     let noneLeftWords: String?
     let noneLeftEmoji: String?
 
     init(
-        unreviewed: Int, total: Int, intake: Int?, scale: BacklogScale? = nil,
+        unreviewed: Int, scale: BacklogScale? = nil,
         noneLeftWords: String? = nil, noneLeftEmoji: String? = nil
     ) {
         self.unreviewed = unreviewed
-        self.total = total
-        self.intake = intake
         self.scale = scale
         self.noneLeftWords = noneLeftWords
         self.noneLeftEmoji = noneLeftEmoji
@@ -41,66 +37,33 @@ struct Categorization {
 
 extension Categorization: Decodable {
     private enum CodingKeys: String, CodingKey {
-        case unreviewed, total, intake, scale, noneLeftWords, noneLeftEmoji
+        case unreviewed, scale, noneLeftWords, noneLeftEmoji
     }
 
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         unreviewed = try container.decode(Int.self, forKey: .unreviewed)
-        total = try container.decode(Int.self, forKey: .total)
-        intake = try container.decodeIfPresent(Int.self, forKey: .intake)
         scale = try container.decodeIfPresent(BacklogScale.self, forKey: .scale)
         noneLeftWords = try container.decodeIfPresent(String.self, forKey: .noneLeftWords)
         noneLeftEmoji = try container.decodeIfPresent(String.self, forKey: .noneLeftEmoji)
     }
 }
 
-extension Categorization {
-    var settledFraction: Double? {
-        guard let intake, intake > 0 else { return nil }
-        let settled = 1 - Double(unreviewed) / Double(intake)
-        return min(1, max(0, settled))
-    }
-}
-
 typealias CategorizeReading = (
-    settled: Double, left: Int, scale: BacklogScale?, noneLeftWords: String?, noneLeftEmoji: String?
+    left: Int, scale: BacklogScale?, noneLeftWords: String?, noneLeftEmoji: String?
 )
 
 func categorizeReading(_ state: FeedState<Categorization>) -> CategorizeReading? {
-    guard case .loaded(let counts) = state, let settled = counts.settledFraction else { return nil }
-    return (settled, counts.unreviewed, counts.scale, counts.noneLeftWords, counts.noneLeftEmoji)
-}
-
-enum CompletionBand {
-    case black, red, yellow, green, blue
-
-    static func of(_ settled: Double) -> CompletionBand {
-        if settled >= 1 { return .blue }
-        if settled >= 0.75 { return .green }
-        if settled >= 0.5 { return .yellow }
-        if settled >= 0.25 { return .red }
-        return .black
-    }
-
-    var color: Color {
-        switch self {
-        case .black: return Color(.label)
-        case .red: return Color(.systemRed)
-        case .yellow: return Color(.systemYellow)
-        case .green: return Color(.systemGreen)
-        case .blue: return Color(.systemBlue)
-        }
-    }
+    guard case .loaded(let counts) = state else { return nil }
+    return (counts.unreviewed, counts.scale, counts.noneLeftWords, counts.noneLeftEmoji)
 }
 
 struct CategorizeTile: View {
     let reading: CategorizeReading?
 
-    private var arcColor: Color {
-        guard let reading else { return Color(.systemGray3) }
-        guard let tier = reading.scale?.tier(for: reading.left) else {
-            return CompletionBand.of(reading.settled).color
+    private var countColor: Color {
+        guard let reading, let tier = reading.scale?.tier(for: reading.left) else {
+            return Color(.label)
         }
         return backlogColor(tier)
     }
@@ -116,7 +79,7 @@ struct CategorizeTile: View {
             stroke: .centred,
             width: LARGE_RING_STROKE,
             trackColor: Color(.systemGray5),
-            arc: RingArc(fraction: reading?.settled ?? 0, color: arcColor),
+            arc: nil,
             lineCap: .round,
             caption: RingCaption(
                 spacing: SPACING_2,
@@ -128,7 +91,7 @@ struct CategorizeTile: View {
         ) { metrics in
             Text(reading.map { $0.left.formatted() } ?? "—")
                 .font(.system(size: 36, weight: .bold, design: .rounded))
-                .foregroundStyle(Color(.label))
+                .foregroundStyle(countColor)
                 .minimumScaleFactor(0.4)
                 .lineLimit(1)
                 .padding(.horizontal, metrics.strokeWidth + SPACING_1)

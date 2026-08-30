@@ -38,8 +38,6 @@ const relayedScale = z.object({
 
 const relayedCounts = z.object({
   unreviewed: z.number().int().nonnegative(),
-  total: z.number().int().nonnegative(),
-  intake: z.number().int().nonnegative(),
   scale: relayedScale.optional(),
   noneLeftWords: z.string().optional(),
   noneLeftEmoji: z.string().optional(),
