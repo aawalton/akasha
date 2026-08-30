@@ -33,7 +33,7 @@ export function identityOf(one: Carried): string {
   return `${one.pageTypeSlug}/${one.pagePropertySlug}`
 }
 
-function pageAt(
+export function pageAt(
   given: string | Reading,
   pageTypeSlug: string,
   slug: string,

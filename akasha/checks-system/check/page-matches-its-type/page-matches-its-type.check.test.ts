@@ -2,30 +2,37 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Formatting } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import {
+  type Formatting,
+  matchingIn,
+} from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import {
+  type Carried,
+  propertiesOf,
+} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { put } from "../../../testing-system/putting/putting.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   DECLARES_NO_PAGE,
-  declaredFor,
   pageMatchesItsType,
   reasonsIn,
   STATES_NO_PAGE_TYPE,
 } from "./page-matches-its-type.check.code.ts"
 import {
-  allLower,
+  ALPHA_AT,
+  BETA_AT,
+  extending,
   FORMAT,
-  formatting,
-  GENERATED_ID,
-  KIND_AT,
+  generating,
+  HELD_ID,
+  NOW_ALPHA,
+  NOW_BETA,
   property,
-  read,
+  seeded,
   THING_AT,
   THING_BODY,
-  THING_ID,
-  UNIQUE_SLUG,
+  typing,
+  WAS_ALPHA,
 } from "./page-matches-its-type.check.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -34,11 +41,29 @@ afterAll(scratch.sweep)
 
 const HELD_AT = "akasha/held.page-type.ts"
 
-function changing(root: string, bodies: Readonly<Record<string, string>>): Change {
-  const at = (path: string): Uint8Array | null => {
+const rooted = scratch.rootFor("akasha-matches-")
+
+const world = seeded(rooted)
+
+const formatting = matchingIn(rooted)
+
+function declaredIn(pageTypeSlug: string): readonly Carried[] {
+  return propertiesOf(pageTypeSlug, world.reading, world.pageOf)
+}
+
+function slugsIn(declared: readonly Carried[]): readonly string[] {
+  return declared.map((one) => one.pagePropertySlug)
+}
+
+function bytesFor(bodies: Readonly<Record<string, string>>): (path: string) => Uint8Array | null {
+  return (path) => {
     const said = bodies[path]
     return said === undefined ? null : new TextEncoder().encode(said)
   }
+}
+
+function changing(root: string, bodies: Readonly<Record<string, string>>): Change {
+  const at = bytesFor(bodies)
   return { root, changed: Object.keys(bodies).sort(), after: at, before: at }
 }
 
@@ -52,10 +77,23 @@ function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[]
   return judged(changing(scratch.rootFor("akasha-matches-"), bodies))
 }
 
+function landing(
+  root: string,
+  now: Readonly<Record<string, string>>,
+  was: Readonly<Record<string, string>>
+): readonly Judged[] {
+  return judged({
+    root,
+    changed: Object.keys(now).sort(),
+    after: bytesFor(now),
+    before: bytesFor(was),
+  })
+}
+
 function over(value: Value, pageTypeSlug: string): readonly string[] {
   return reasonsIn(
     value,
-    declaredFor(pageTypeSlug, read),
+    declaredIn(pageTypeSlug),
     property,
     `page-type/${pageTypeSlug}`,
     formatting,
@@ -64,14 +102,22 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
 }
 
 test("the chain is walked and the nearest declaration binds", () => {
-  const declared = declaredFor("check", read)
-  expect([...declared.keys()].sort()).toEqual(["aids", "id", "slug", "test"])
-  expect(declared.get("test")?.required).toBe(true)
-  expect(declared.get("id")?.required).toBe(true)
+  const declared = declaredIn("check")
+  expect([...slugsIn(declared)].sort()).toEqual(["aids", "id", "slug", "test"])
+  expect(declared.find((one) => one.pagePropertySlug === "test")?.required).toBe(true)
+  expect(declared.find((one) => one.pagePropertySlug === "id")?.required).toBe(true)
+})
+
+test("a property is keyed by what its own page states, not by the slug reaching it", () => {
+  const declared = declaredIn("check")
+  expect(declared.map((one) => one.key).sort()).toEqual(["aids", "id", "slug", "test"])
+  expect(declared.find((one) => one.pagePropertySlug === "test")?.pageTypeSlug).toBe(
+    "text-property"
+  )
 })
 
 test("a cycle in the chain is walked once and does not hang", () => {
-  expect([...declaredFor("looping", read).keys()]).toEqual(["id"])
+  expect(slugsIn(declaredIn("looping"))).toEqual(["id"])
 })
 
 test("a page carrying what its type declares raises nothing", () => {
@@ -143,8 +189,8 @@ test("a single value declared many is refused, and a list declared single is ref
   ])
 })
 
-test("a page type that declares nothing anywhere leaves an empty map", () => {
-  expect(declaredFor("no-such-type", read).size).toBe(0)
+test("a page type that declares nothing anywhere carries nothing", () => {
+  expect(declaredIn("no-such-type")).toEqual([])
 })
 
 test("a list repeating a value is refused, and one carrying each once is not", () => {
@@ -185,11 +231,11 @@ test("a format is asked for only where a property states one", () => {
   const asked: string[] = []
   const watching: Formatting = (nameFormatSlug) => {
     asked.push(nameFormatSlug)
-    return allLower
+    return formatting(nameFormatSlug)
   }
   reasonsIn(
     { id: "a", slug: "one", test: "ts" },
-    declaredFor("check", read),
+    declaredIn("check"),
     property,
     "page-type/check",
     watching,
@@ -231,7 +277,7 @@ test("a path outside the akasha folder is passed over, however it is named", () 
 })
 
 test("a required property named as excused is not asked for, and the rest of them still are", () => {
-  const declared = declaredFor("check", read)
+  const declared = declaredIn("check")
   const held = { id: "a", slug: "one" }
   const excusing = (slug: string): readonly string[] =>
     reasonsIn(held, declared, property, "page-type/check", formatting, new Set([slug]))
@@ -239,69 +285,10 @@ test("a required property named as excused is not asked for, and the rest of the
   expect(excusing("id")).toEqual(["does not state `test`, which `page-type/check` requires"])
 })
 
-function generating(generator = "waiting"): string {
-  const root = scratch.rootFor("akasha-generating-")
-  put(
-    root,
-    "akasha/held.text-property.ts",
-    `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
-      ` slug: "held", generator: "${generator}" }\n`
-  )
-  put(
-    root,
-    KIND_AT,
-    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
-      ' slug: "waiting", afterChecks: true }\n'
-  )
-  put(
-    root,
-    "akasha/uuid-v7.generator-kind.ts",
-    `export const kind = { id: "${GENERATED_ID}", pageTypeSlug: "generator-kind",` +
-      ' slug: "uuid-v7", afterChecks: false }\n'
-  )
-  put(
-    root,
-    "akasha/thing.page-type.ts",
-    `export const thing = { id: "${THING_ID}", pageTypeSlug: "page-type", slug: "thing",` +
-      ' extendsSlug: null, properties: [{ pagePropertySlug: "held", required: true, many: false },' +
-      ' { pagePropertySlug: "page-type-slug", required: true, many: false },' +
-      ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
-  )
-  const index = indexIn(root)
-  put(index, "schema/page-property/text-property/slug/slug.jsonl", UNIQUE_SLUG)
-  put(
-    index,
-    "schema/page-property/text-property/slug/held.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,' +
-      '"slug":"held","propertySlug":"held"}\n'
-  )
-  put(
-    index,
-    "identity/text-property/slug/held.jsonl",
-    `{"path":"akasha/held.text-property.ts","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/page-type/slug/thing.jsonl",
-    `{"path":"akasha/thing.page-type.ts","id":"${THING_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/generator-kind/slug/waiting.jsonl",
-    `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/generator-kind/slug/uuid-v7.jsonl",
-    `{"path":"akasha/uuid-v7.generator-kind.ts","id":"${GENERATED_ID}"}\n`
-  )
-  return root
-}
-
 function overThing(standing: boolean, generator = "waiting"): readonly Judged[] {
   const bytes = new TextEncoder().encode(THING_BODY)
   return judged({
-    root: generating(generator),
+    root: generating(scratch.rootFor("akasha-generating-"), generator),
     changed: [THING_AT],
     after: (path) => (path === THING_AT ? bytes : null),
     before: (path) => (standing && path === THING_AT ? bytes : null),
@@ -325,71 +312,59 @@ test("a page already standing is refused for dropping a property a generator fil
   expect(overThing(true)).toEqual([DEMANDED])
 })
 
-const ALPHA_AT = "akasha/alpha.page-type.ts"
-
-const BOTH = '{ pagePropertySlug: "page-type-slug" }'
-
-function typing(id: string, slug: string, above: string, declares: string): string {
-  return (
-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}",` +
-    ` extendsSlug: ${above}, properties: [${declares}] }\n`
-  )
-}
-
-const WAS_ALPHA = typing(THING_ID, "alpha", "null", BOTH)
-
-function bytesFor(bodies: Readonly<Record<string, string>>): (path: string) => Uint8Array | null {
-  return (path) => {
-    const said = bodies[path]
-    return said === undefined ? null : new TextEncoder().encode(said)
-  }
-}
-
 test("a page stating what a page type the change puts above its own declares is let through", () => {
-  const root = scratch.rootFor("akasha-extending-")
-  put(root, ALPHA_AT, WAS_ALPHA)
-  put(indexIn(root), "schema/page-property/text-property/slug/slug.jsonl", UNIQUE_SLUG)
-  put(
-    indexIn(root),
-    "identity/page-type/slug/alpha.jsonl",
-    `{"path":"${ALPHA_AT}","id":"${THING_ID}"}\n`
-  )
+  const root = extending(scratch.rootFor("akasha-extending-"))
   const now = {
-    [ALPHA_AT]: typing(THING_ID, "alpha", '"page-type/beta"', BOTH),
-    "akasha/beta.page-type.ts": typing(
-      GENERATED_ID,
-      "beta",
-      "null",
-      `${BOTH}, { pagePropertySlug: "note" }`
-    ),
+    [ALPHA_AT]: NOW_ALPHA,
+    [BETA_AT]: NOW_BETA,
     "akasha/one.alpha.ts": 'export const one = { pageTypeSlug: "alpha", note: "hi" }\n',
   }
-  expect(
-    judged({
-      root,
-      changed: Object.keys(now).sort(),
-      after: bytesFor(now),
-      before: bytesFor({ [ALPHA_AT]: WAS_ALPHA }),
-    })
-  ).toEqual([])
+  expect(landing(root, now, { [ALPHA_AT]: WAS_ALPHA })).toEqual([])
 })
 
-const besideRead =
-  (uncommitted: boolean) =>
-  (pageTypeSlug: string, slug: string): Value | null =>
-    slug === "beside"
-      ? {
-          pageTypeSlug: "page-type",
-          slug: "beside",
-          extendsSlug: null,
-          properties: [{ pagePropertySlug: "test", required: true, many: false, uncommitted }],
-        }
-      : read(pageTypeSlug, slug)
+const ONE_HELD_AT = "akasha/one.held.ts"
+
+const ONE_HELD =
+  'export const one = { id: "01a0540d-0000-7000-8000-0000000000ff",' +
+  ' pageTypeSlug: "held", slug: "one", test: "ts" }\n'
+
+const DEMANDS =
+  '{ pagePropertySlug: "page-type-slug", required: true, many: false }, ' +
+  '{ pagePropertySlug: "test", required: true, many: false }'
+
+const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
+
+test("a page type the change carries is read as the change leaves it", () => {
+  const root = scratch.rootFor("akasha-carried-")
+  seeded(root)
+  const narrowing = { [HELD_AT]: typing(HELD_ID, "held", '"page-type/page"', NARROWED) }
+  expect(landing(root, { ...narrowing, [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([
+    { path: ONE_HELD_AT, reason: "does not state `name`, which `page-type/held` requires" },
+  ])
+  expect(landing(root, { [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([])
+})
+
+function besideCarried(uncommitted: boolean): readonly Carried[] {
+  return [
+    {
+      pagePropertySlug: "test",
+      pageTypeSlug: "text-property",
+      propertySlug: "test",
+      key: "test",
+      declaredBy: "beside",
+      required: true,
+      many: false,
+      max: null,
+      total: null,
+      uncommitted,
+    },
+  ]
+}
 
 function beside(value: Value, uncommitted: boolean): readonly string[] {
   return reasonsIn(
     value,
-    declaredFor("beside", besideRead(uncommitted)),
+    besideCarried(uncommitted),
     property,
     "page-type/beside",
     formatting,

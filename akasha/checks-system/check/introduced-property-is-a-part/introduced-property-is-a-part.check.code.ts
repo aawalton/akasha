@@ -8,13 +8,13 @@ import { everyOfType } from "../../../pages-system/indexes/index-reading/index-r
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  declarationsOf,
+  identityOf,
+  propertiesOf,
+} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
-import {
-  declaredFor,
-  type Reading,
-  readingIn,
-} from "../page-matches-its-type/page-matches-its-type.check.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
 
 const INSIDE = "akasha/"
@@ -56,16 +56,25 @@ export function declaresIn(value: Value | null): readonly string[] {
   return found
 }
 
-export function introducedIn(value: Value | null, read: Reading): readonly string[] {
-  if (value === null) return []
-  const said = textAt(value, ABOVE)
-  const above = said === null ? null : slugIn(said)
-  const inherited = above === null ? null : declaredFor(above, read)
-  return declaresIn(value).filter((one) => inherited === null || !inherited.has(one))
-}
-
 export function addressedIn(said: string): string {
   return slugIn(said) ?? said
+}
+
+export function introducedIn(one: Standing, shadow: Shadow): readonly string[] {
+  const value = one.value
+  if (value === null) return []
+  const said = textAt(value, ABOVE)
+  const over = said === null ? null : slugIn(said)
+  const inherited = new Set(
+    over === null ? [] : propertiesOf(over, shadow.reading, shadow.pageOf).map(identityOf)
+  )
+  const own = declarationsOf(one.slug, shadow.reading, shadow.pageOf).filter(
+    (each) => each.declaredBy === one.slug
+  )
+  const introduced = new Set(
+    own.filter((each) => !inherited.has(identityOf(each))).map((each) => each.pagePropertySlug)
+  )
+  return declaresIn(value).filter((each) => introduced.has(addressedIn(each)))
 }
 
 export function partedIn(value: Value | null): ReadonlySet<string> {
@@ -97,10 +106,10 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
 
 export function introducersIn(
   standing: readonly Standing[],
-  read: Reading
+  shadow: Shadow
 ): ReadonlyMap<string, readonly string[]> {
   const pairs = standing.flatMap((one) =>
-    introducedIn(one.value, read).map((propertySlug) => ({ propertySlug, slug: one.slug }))
+    introducedIn(one, shadow).map((propertySlug) => ({ propertySlug, slug: one.slug }))
   )
   const grouped = Map.groupBy(pairs, (one) => addressedIn(one.propertySlug))
   return new Map(
@@ -122,13 +131,12 @@ export function introducedPropertyIsAPart(change: Change, shadow: Shadow): reado
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
-  const read = readingIn(change, shadow)
   const standing = everyType(shadow, carried)
-  const introducers = introducersIn(standing, read)
+  const introducers = introducersIn(standing, shadow)
   const said: Judged[] = []
   for (const one of standing) {
     const parts = partedIn(one.value)
-    for (const propertySlug of introducedIn(one.value, read)) {
+    for (const propertySlug of introducedIn(one, shadow)) {
       const addressed = addressedIn(propertySlug)
       if (parts.has(addressed)) continue
       if ((introducers.get(addressed) ?? []).length !== 1) continue

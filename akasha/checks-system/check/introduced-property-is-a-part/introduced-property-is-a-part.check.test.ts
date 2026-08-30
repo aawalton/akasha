@@ -20,6 +20,8 @@ const PAGE_TYPE = "page-type"
 
 const QUALIFIED = `${TEXT}/foo`
 
+const REACHED: readonly string[] = ["mine", "shared", "its", "foo"]
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -60,6 +62,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-introduced-")
   declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
   declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
+  for (const one of REACHED) declaring(root, one, { pageTypeSlug: TEXT })
   return root
 }
 
@@ -170,6 +173,14 @@ test("a page type declaring a property by page type and parting nothing is still
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain(`\`${QUALIFIED}\``)
   expect(said[0]?.path).toBe(pathFor("held"))
+})
+
+test("a declaration naming its page type and a bare one reach the same property", () => {
+  const root = rooted()
+  standing(root, "over", null, [QUALIFIED], [QUALIFIED])
+  standing(root, "under", "over", ["foo"], [])
+  const said = judged(landing(root, { [pathFor("under")]: bytesOf("under", "over", ["foo"], []) }))
+  expect(said).toEqual([])
 })
 
 test("a change carrying no page type is passed over", () => {

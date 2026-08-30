@@ -2,22 +2,23 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
+  numberAt,
   pageTypesIn,
   textAt,
   type Value,
-  valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  schemaOf,
-  standingAt,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { schemaOf } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Formatting,
   matchingIn,
 } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
-import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
+import {
+  type Carried,
+  pageAt,
+  propertiesOf,
+} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../checking/checking.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
@@ -47,52 +48,26 @@ export type Declared = {
   readonly uncommitted: boolean
 }
 
-export type Reading = (pageTypeSlug: string, slug: string) => Value | null
-
-function countAt(held: Record<string, unknown>, key: string): number | null {
-  const said = held[key]
-  return typeof said === "number" ? said : null
-}
-
-function entriesAt(held: Record<string, unknown>, key: string): readonly Record<string, unknown>[] {
+function entriesAt(held: Value, key: string): readonly Value[] {
   const said = held[key]
   if (!Array.isArray(said)) return []
-  const kept: Record<string, unknown>[] = []
+  const kept: Value[] = []
   for (const one of said) {
     if (typeof one === "object" && one !== null && !Array.isArray(one)) {
-      kept.push(one as Record<string, unknown>)
+      kept.push(one as Value)
     }
   }
   return kept
 }
 
-function declaredAt(held: Record<string, unknown>): Declared {
+function declaredAt(held: Value): Declared {
   return {
     required: held["required"] === true,
     many: held["many"] === true,
-    max: countAt(held, "max"),
-    total: countAt(held, "total"),
+    max: numberAt(held, "max"),
+    total: numberAt(held, "total"),
     uncommitted: held["uncommitted"] === true,
   }
-}
-
-export function declaredFor(pageTypeSlug: string, read: Reading): ReadonlyMap<string, Declared> {
-  const found = new Map<string, Declared>()
-  const walked = new Set<string>()
-  let here: string | null = pageTypeSlug
-  while (here !== null && !walked.has(here)) {
-    walked.add(here)
-    const value = read(PAGE_TYPE, here)
-    if (value === null) break
-    for (const one of entriesAt(value, DECLARED)) {
-      const slug = textAt(one, SAID)
-      if (slug === null || found.has(slug)) continue
-      found.set(slug, declaredAt(one))
-    }
-    const above = textAt(value, "extendsSlug")
-    here = above === null ? null : slugIn(above)
-  }
-  return found
 }
 
 function overMax(said: unknown, max: number | null, slug: string, where: string): string | null {
@@ -136,25 +111,27 @@ function twiceIn(held: readonly unknown[], slug: string): string | null {
 
 export function reasonsIn(
   value: Value,
-  declared: ReadonlyMap<string, Declared>,
+  declared: readonly Carried[],
   property: (slug: string) => Value | null,
   named: string,
   formatting: Formatting,
   excused: ReadonlySet<string>
 ): readonly string[] {
   const said: string[] = []
-  for (const [slug, one] of declared) {
-    if (!one.required || one.uncommitted || excused.has(slug)) continue
-    const key = slug.replace(/-([a-z0-9])/g, (_, ch: string) => ch.toUpperCase())
-    if (!(key in value)) said.push(`does not state \`${slug}\`, which \`${named}\` requires`)
+  const byKey = new Map(declared.map((one): readonly [string, Carried] => [one.key, one]))
+  for (const one of declared) {
+    if (!one.required || one.uncommitted || excused.has(one.pagePropertySlug)) continue
+    if (!(one.key in value)) {
+      said.push(`does not state \`${one.pagePropertySlug}\`, which \`${named}\` requires`)
+    }
   }
   for (const [key, held] of Object.entries(value)) {
-    const slug = slugFor(key)
-    const one = declared.get(slug)
+    const one = byKey.get(key)
     if (one === undefined) {
       said.push(`states \`${key}\`, which \`${named}\` does not declare`)
       continue
     }
+    const slug = one.pagePropertySlug
     if (one.uncommitted) {
       said.push(
         `states \`${slug}\`, which \`${named}\` declares uncommitted, and such a value stands beside the page rather than in it`
@@ -179,7 +156,7 @@ export function reasonsIn(
     if (page === null) continue
     const shape = textAt(page, "pageTypeSlug")
     if (shape === TEXT) {
-      const max = countAt(page, "max")
+      const max = numberAt(page, "max")
       const format = textAt(page, FORMAT)
       for (const each of listed ? held : [held]) {
         const why = overMax(each, max, slug, "")
@@ -197,7 +174,7 @@ export function reasonsIn(
     }
     for (const entry of listed ? entriesAt(value, key) : [held]) {
       if (typeof entry !== "object" || entry === null) continue
-      for (const [inner, value_] of Object.entries(entry as Record<string, unknown>)) {
+      for (const [inner, value_] of Object.entries(entry as Value)) {
         const field = slugFor(inner)
         const shaped = fields.get(field)
         if (shaped === undefined) {
@@ -205,7 +182,7 @@ export function reasonsIn(
           continue
         }
         const held_ = property(field)
-        const max = held_ === null ? null : countAt(held_, "max")
+        const max = held_ === null ? null : numberAt(held_, "max")
         const format = held_ === null ? null : textAt(held_, FORMAT)
         const many = Array.isArray(value_)
         if (shaped.many && many && shaped.max !== null && value_.length > shaped.max) {
@@ -229,29 +206,6 @@ export function reasonsIn(
   return said
 }
 
-export function readingIn(change: Change, shadow: Shadow): Reading {
-  const held = new Map<string, Value | null>()
-  return (pageTypeSlug, slug) => {
-    const at = `${pageTypeSlug}/${slug}`
-    const found = held.get(at)
-    if (found !== undefined) return found
-    const standing = standingAt(shadow.reading, pageTypeSlug, slug)
-    const one = standing.length === 1 ? standing[0] : undefined
-    let value: Value | null = null
-    if (one !== undefined) {
-      const bytes = change.after(one.path)
-      if (bytes === null) value = shadow.pageOf(one.path)
-      else {
-        const given: Body = { root: change.root, path: one.path, bytes }
-        const text = bodyOf(given)
-        value = text === null ? null : valueIn(text)
-      }
-    }
-    held.set(at, value)
-    return value
-  }
-}
-
 export const DECLARES_NO_PAGE =
   "is named as a page and its body declares no page, so what it carries could not be judged"
 
@@ -271,10 +225,18 @@ export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Jud
     generated = waitingProperties(shadow)
     return generated
   }
-  const read = readingIn(change, shadow)
+  const held = new Map<string, readonly Carried[]>()
+  const carriedBy = (pageTypeSlug: string): readonly Carried[] => {
+    const found = held.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const said = propertiesOf(pageTypeSlug, shadow.reading, shadow.pageOf)
+    held.set(pageTypeSlug, said)
+    return said
+  }
   const property = (slug: string): Value | null => {
     const said = schemaOf(change.root, slug)
-    return "refused" in said ? null : read(said.schema.pageTypeSlug, slug)
+    if ("refused" in said) return null
+    return pageAt(shadow.reading, said.schema.pageTypeSlug, slug, shadow.pageOf)
   }
   const formatting = matchingIn(change.root)
   const judged: Judged[] = []
@@ -297,8 +259,8 @@ export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Jud
       judged.push({ path, reason: STATES_NO_PAGE_TYPE })
       continue
     }
-    const declared = declaredFor(pageTypeSlug, read)
-    if (declared.size === 0) continue
+    const declared = carriedBy(pageTypeSlug)
+    if (declared.length === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
     const excused = change.before(path) !== null ? NOTHING : generatedNow()
     for (const reason of reasonsIn(value, declared, property, named, formatting, excused)) {
