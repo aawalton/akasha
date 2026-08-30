@@ -6,11 +6,13 @@ const KIND = "invariantKind"
 
 const STATEMENT = "statement"
 
-const WHY = /\b(because|since)\b|,\s*(so|as)\b|,\s*\w+ being\b/
+const WHY = /\b(because|since)\b|,\s*(so|as)\b|(;)|,\s*\w+ being\b/
 
-const TRAILING = /[\s,]+$/
+const TRAILING = /[\s,;]+$/
 
-const LEADING = /^[\s,]+/
+const LEADING = /^[\s,;]+/
+
+const COMMA = /^[\s,]+/
 
 export type Stated = {
   readonly line: number
@@ -71,8 +73,8 @@ export function splitAt(one: Stated): Split | null {
   if (held === null) return null
   return {
     line: one.line,
-    drawn: held[2] !== undefined,
-    mark: held[0].replace(LEADING, ""),
+    drawn: held[2] !== undefined || held[3] !== undefined,
+    mark: held[0].replace(COMMA, ""),
     first: one.text.slice(0, held.index).replace(TRAILING, ""),
     second: one.text.slice(held.index).replace(LEADING, ""),
   }

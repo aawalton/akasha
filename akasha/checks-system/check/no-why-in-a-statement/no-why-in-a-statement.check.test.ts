@@ -91,6 +91,14 @@ test("the two shapes are told apart, each saying what its own fix is", () => {
   expect(both).not.toContain("states why")
 })
 
+test("a semicolon joins a second fact, and is refused as a consequence is", () => {
+  const body = paged(quoted("The indexes answer what stands; the graph answers what follows."))
+  const said = reasonsIn(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("joins a second fact at `;`")
+  expect(said[0]).toContain("the graph answers what follows.")
+})
+
 test("a statement is split at the first clause that carries a reason or a consequence", () => {
   const held = { line: 1, text: "A page is named, so the slug says it, because it must." }
   expect(splitAt(held)).toEqual({
@@ -101,6 +109,13 @@ test("a statement is split at the first clause that carries a reason or a conseq
     second: "so the slug says it, because it must.",
   })
   expect(splitAt({ line: 1, text: "A page is named for its slug." })).toBeNull()
+  expect(splitAt({ line: 1, text: "A page is named; the slug says it." })).toEqual({
+    line: 1,
+    drawn: true,
+    mark: ";",
+    first: "A page is named",
+    second: "the slug says it.",
+  })
 })
 
 test("a word merely carrying those letters is let through, the word read whole", () => {
