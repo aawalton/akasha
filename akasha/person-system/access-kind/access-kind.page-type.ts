@@ -9,5 +9,11 @@ export const accessKind = {
   slug: "access-kind",
   definition: "which sort of thing an access reaches",
   pluralSlug: "access-kinds",
+  partSlugs: [
+    "access-kind/database-row",
+    "access-kind/domain",
+    "access-kind/page-type",
+    "access-kind/route",
+  ],
   extendsSlug: "page-type/domain",
 } as const satisfies PageType

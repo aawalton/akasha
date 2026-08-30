@@ -9,5 +9,12 @@ export const authorityKind = {
   slug: "authority-kind",
   definition: "which sort of act an authority permits",
   pluralSlug: "authority-kinds",
+  partSlugs: [
+    "authority-kind/domain",
+    "authority-kind/feature-approval",
+    "authority-kind/feature-request",
+    "authority-kind/page-data",
+    "authority-kind/page-schema",
+  ],
   extendsSlug: "page-type/domain",
 } as const satisfies PageType
