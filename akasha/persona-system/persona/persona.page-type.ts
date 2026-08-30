@@ -1,6 +1,7 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-property.ts"
+import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
 
@@ -8,6 +9,7 @@ export type Persona = Domain & {
   purpose: Purpose
   portrait: Portrait
   roleSlug: RoleSlug
+  championedDomainSlug?: ChampionedDomainSlug
 }
 
 export const persona = {
@@ -17,11 +19,17 @@ export const persona = {
   definition: "a part of Alan's life personified as someone who answers for it",
   pluralSlug: "personas",
   extendsSlug: "page-type/domain",
-  partSlugs: ["file-property/portrait", "text-property/purpose", "text-property/role-slug"],
+  partSlugs: [
+    "file-property/portrait",
+    "text-property/championed-domain-slug",
+    "text-property/purpose",
+    "text-property/role-slug",
+  ],
   properties: [
     { pagePropertySlug: "purpose", required: true, many: false },
     { pagePropertySlug: "portrait", required: true, many: false },
     { pagePropertySlug: "role-slug", required: true, many: false },
+    { pagePropertySlug: "championed-domain-slug", required: false, many: false },
   ],
   invariants: [
     {
