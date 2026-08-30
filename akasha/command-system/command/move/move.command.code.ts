@@ -281,7 +281,7 @@ function sidedIn(
   return { sides }
 }
 
-function carryUncommitted(root: string, sides: readonly Sided[]): void {
+function carryUncommitted(root: string, sides: readonly Sided[]): undefined {
   for (const one of sides) {
     const at = join(root, one.from)
     if (one.committed || !existsSync(at)) continue
