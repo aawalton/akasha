@@ -1,4 +1,4 @@
-import { fetchRingCountsFromMonarch } from "@shared/monarch-categorization-access/monarch-ring"
+import { fetchRingCountsFromMonarch } from "../../../../akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.module.code.ts"
 import { createRingReader } from "@shared/monarch-categorization-access/ring-reading"
 import { z } from "zod"
 import { readNoneLeft } from "~/readout/lib/readout.server"

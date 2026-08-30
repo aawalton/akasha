@@ -1,4 +1,4 @@
-import type { RingScale } from "@shared/monarch-categorization-access/monarch-ring"
+import type { RingScale } from "../../../../../akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.module.code.ts"
 import { askNamed } from "@shared/pages-query"
 
 const READOUT_SCALES_ALL = "readout-scales-all"

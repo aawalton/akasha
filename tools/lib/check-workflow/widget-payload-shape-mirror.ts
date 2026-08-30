@@ -27,8 +27,8 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "Categorization",
     canonical: {
-      file: "shared/monarch-categorization-access/src/monarch-ring.ts",
-      anchor: "export interface RingCounts {",
+      file: "akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.module.code.ts",
+      anchor: "export type RingCounts = {",
       kind: "members",
     },
     unit: "key",
@@ -36,8 +36,8 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "BacklogScale",
     canonical: {
-      file: "shared/monarch-categorization-access/src/monarch-ring.ts",
-      anchor: "export interface RingScale {",
+      file: "akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.module.code.ts",
+      anchor: "export type RingScale = {",
       kind: "members",
     },
     unit: "key",

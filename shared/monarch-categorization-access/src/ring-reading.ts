@@ -1,4 +1,4 @@
-import type { RingCounts } from "./monarch-ring"
+import type { RingCounts } from "../../../akasha/alan-harness/monarch-unreviewed-transactions/monarch-unreviewed-transactions.module.code.ts"
 
 export const REFRESH_AFTER_MS = 5 * 60_000
 
