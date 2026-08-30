@@ -10,13 +10,12 @@ export const pagesOfOneType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file standing beside a page is not a page: a folder holding one takes some other shape than this.",
+      statement: "A file standing beside a page is not a page.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A folder is judged by the page types of the pages sitting in it. That is what the folder groups rather than what any page type says of itself.",
+        "A folder is judged by the page types of the pages sitting in it rather than by what any page type says of itself.",
     },
     {
       invariantKind: "departure",

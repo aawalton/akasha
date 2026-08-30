@@ -41,8 +41,11 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shape judges the files sitting in one folder. Every subfolder is a folder of its own.",
+      statement: "A shape judges the files sitting in one folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every subfolder is a folder of its own.",
     },
     {
       invariantKind: "departure",
@@ -58,13 +61,11 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shape states its test: a shape judging every folder in the corpus is wrong quietly.",
+      statement: "A shape states its test.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "A shape carries no status. A shape that stands is a shape that judges. One not ready to judge is not written.",
+      statement: "A shape carries no status.",
     },
   ],
 } as const satisfies PageType

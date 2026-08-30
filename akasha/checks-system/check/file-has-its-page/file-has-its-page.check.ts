@@ -38,8 +38,7 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Only the paths the change names are judged. A file already standing unclaimed is named by no change and by no enumeration. This does not go looking for it.",
+      statement: "Only the paths the change names are judged.",
     },
     {
       invariantKind: "departure",

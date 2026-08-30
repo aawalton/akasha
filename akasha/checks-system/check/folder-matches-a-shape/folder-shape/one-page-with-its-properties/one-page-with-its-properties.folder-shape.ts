@@ -10,8 +10,7 @@ export const onePageWithItsProperties = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A file standing beside a page answers which page it stands beside: a file whose page is elsewhere fails here rather than passing unnoticed.",
+      statement: "A file standing beside a page answers which page it stands beside.",
     },
     {
       invariantKind: "departure",

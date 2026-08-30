@@ -11,17 +11,25 @@ export const propertyPagesOnly = {
     {
       invariantKind: "departure",
       statement:
-        "A page is a property by the page type it states extending `page-property` — however far above it that stands — never by what its file is named.",
+        "A page is a property by the page type it states extending `page-property` however far above it that stands rather than by what its file is named.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A property page's page type says what kind of value it carries — not which page owns it: the pages here are of several types and that is the shape rather than a fault in it.",
+        "A property page's page type says what kind of value it carries rather than which page owns it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages here are of several types and that is the shape rather than a fault in it.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Which page these are properties of is not judged here. The folder above says that.",
+      statement: "Which page these are properties of is not judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The folder above says which page these are properties of.",
     },
     {
       invariantKind: "departure",
