@@ -2,7 +2,6 @@ import { existsSync } from "node:fs"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
-  removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import {
@@ -181,24 +180,17 @@ export function dropBeside(page: string, keys: readonly string[]): void {
   }
 }
 
-// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE, IN BOTH SYSTEMS. A sidecar outliving its page is
-// what the outage was made of: the old page went, the values beside it stayed, and every reader
-// reached them only through the page that was no longer there. Akasha states the same rule of
-// itself — the gate refuses a file no page claims — so leaving its sidecar behind builds the same
-// orphan on the other side.
+// WHAT AKASHA HOLDS OF A STOPPED SEAT IS LEFT STANDING, AND IT IS THE ONLY PLACE A SESSION KEEPS.
+// A seat's page stopped carrying `claude-code-session-uuid` on the 29th, so what a seat was
+// bound to now stands beside its page and nowhere else. This takes the old one, and taking
+// akasha's with it would leave `ops seat resume` — which answers for a seat "live or stopped" —
+// with no session to bring anything back on, which is the failure the whole fleet just sat in.
 //
-// The seat is named rather than the page looked up, so this does not turn on whether the akasha
-// page has already gone. Its two callers take the pages away in opposite orders.
+// So a sidecar does outlive its page here, and akasha states that the gate refuses a file no page
+// claims. The two cannot both hold. What settles it is where a session lives, not this function:
+// while the only copy is beside the page, taking it on a stop is forgetting rather than tidying.
 export function removeBeside(page: string): void {
   removeUncommitted(page)
-  try {
-    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(pageStemOf(page)))
-  } catch (thrown) {
-    process.stderr.write(
-      `what was observed of ${pageStemOf(page)} is gone, and what was observed of it in akasha stands: ` +
-        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
-    )
-  }
 }
 
 export const besideForTests = { carriedFrom }
