@@ -14,11 +14,6 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
-      statement:
-        "A value minted into a change is worked out from the index that change would leave.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Which checks stand is read from the shadow.",
     },
     {

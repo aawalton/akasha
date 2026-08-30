@@ -40,17 +40,4 @@ export const directives = {
         "A directive that needs more aids than it may hold is carrying design that belongs in an invariant.",
     },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Move When It Turns",
-      act: "Move an invariant to the property that fits, or delete it, as soon as its truth changes.",
-      warrant:
-        "Nothing re-reads an invariant, so one filed where it no longer belongs misleads until tested.",
-      aids: [
-        "Check the whole claim, not just the case you met.",
-        "Move it if still meant, delete it if not.",
-      ],
-    },
-  ],
 } as const satisfies RecordProperty
