@@ -15,7 +15,7 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "Every page whose page type stands under `domain` is judged — not only one whose own page type is `domain`.",
+        "Every page whose page type stands under `domain` is judged rather than only one whose own page type is `domain`.",
     },
     {
       invariantKind: "departure",
@@ -24,12 +24,15 @@ export const domainIsNamedByAParent = {
     {
       invariantKind: "departure",
       statement:
-        "The page is found from its path and the page types the index holds — never by walking.",
+        "The page is found from its path and the page types the index holds rather than by walking.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "The body of the page judged is not read. The body a change replaces is: the parts that body named are the pages the change may have orphaned.",
+      statement: "The body of the page judged is not read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The body a change replaces is read.",
     },
     {
       invariantKind: "departure",
@@ -38,22 +41,25 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`domain/akasha-system` alone is passed over. It is the one page standing under none.",
+      statement: "`domain/akasha-system` alone is passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Which page stands at a path is asked of the path index — not of the slug its file name says.",
+        "Which page stands at a path is asked of the path index rather than of the slug its file name says.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the index files nothing for is passed over — not thrown on.",
+      statement: "A path the index files nothing for is passed over rather than thrown on.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Why nothing is filed for a path is not said here.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Why nothing is filed for a path is not said here. A page stating no `id` and a body that will not load are refused in words beside this — in every phase.",
+        "A page stating no `id` and a body that will not load are refused in words beside this in every phase.",
     },
     {
       invariantKind: "departure",
@@ -61,8 +67,12 @@ export const domainIsNamedByAParent = {
     },
     {
       invariantKind: "departure",
+      statement: "A parent the change takes away leaves the parts it named judged.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A parent the change takes away leaves the parts it named judged: those parts are looked for in the body the change withdrew and not among the pages the change carries.",
+        "Those parts are looked for in the body the change withdrew and not among the pages the change carries.",
     },
     {
       invariantKind: "gap",

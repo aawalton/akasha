@@ -42,8 +42,11 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No root is made or swept here. A test says where its scratch stands and how long it lives.",
+      statement: "No root is made or swept here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A test says where its scratch stands and how long it lives.",
     },
     {
       invariantKind: "absence",
@@ -51,8 +54,11 @@ export const checkScratch = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No test is written here. What stands here is stood up by the check tests that reach for it.",
+      statement: "No test is written here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "What stands here is stood up by the check tests that reach for it.",
     },
   ],
 } as const satisfies Module
