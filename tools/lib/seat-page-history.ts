@@ -242,7 +242,17 @@ export function frontmatterFromHistory(
 
 const FIELD_LOOKBACK = 50
 
+// AKASHA IS ASKED FIRST, AS IT IS FOR A NAME AND FOR A WHOLE FRONTMATTER. This was the one reader
+// here that never learned to, so it answered out of the old store alone: a seat that never held an
+// old page — every seat opened since the write moved — was told its session and its parent were
+// gone the moment its own page was. Committing `claude-code-session-uuid` buys a resume after a
+// stop, and reading it from a store nothing writes any more spends nothing.
 export function fieldFromHistory(agentId: string, roots: Roots, key: string): string | null {
+  const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
+  if (inAkasha !== null) {
+    const said = textField(inAkasha.values, key)
+    if (said !== null) return said
+  }
   const root = seatHistoryRoot(roots)
   const relPath = seatPageInHistory(agentId, roots)
   if (root === null || relPath === null) return null
