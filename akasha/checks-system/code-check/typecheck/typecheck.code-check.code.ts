@@ -6,6 +6,7 @@ import {
   compiled,
   insideOf,
   programOver,
+  readingOf,
 } from "../../../code-system/code-typing/code-typing.module.code.ts"
 import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
@@ -72,15 +73,14 @@ export function mintingIn(
 export function bodiesOf(change: Change, minting: Minting): (at: string) => string | undefined {
   const root = resolve(change.root)
   const held = new Map<string, string | undefined>()
+  const base = readingOf(root, (rel) => {
+    const bytes = change.after(rel)
+    return bytes === null ? null : minting(rel, textIn(bytes))
+  })
   return (path) => {
     const at = resolve(path)
-    const found = held.get(at)
-    if (found !== undefined || held.has(at)) return found
-    const rel = insideOf(root, at)
-    const bytes = rel === null ? null : change.after(rel)
-    let said: string | undefined
-    if (rel === null) said = ts.sys.readFile(at)
-    else if (bytes !== null) said = minting(rel, textIn(bytes))
+    if (held.has(at)) return held.get(at)
+    const said = base(at)
     held.set(at, said)
     return said
   }

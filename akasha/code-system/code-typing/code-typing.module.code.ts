@@ -76,6 +76,15 @@ export function hostOver(root: string, read: Reading, every: readonly string[]):
   }
 }
 
+export function readingOf(root: string, textOf: (path: string) => string | null): Reading {
+  return (at) => {
+    const rel = insideOf(root, resolve(at))
+    if (rel === null) return ts.sys.readFile(at)
+    const text = textOf(rel)
+    return text === null ? undefined : text
+  }
+}
+
 export function programOver(root: string, roots: readonly string[], read: Reading): ts.Program {
   return ts.createProgram({
     rootNames: roots.map((one) => join(root, one)),

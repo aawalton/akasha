@@ -29,7 +29,7 @@ export type Carry = {
   readonly to: string
 }
 
-function kebabOff(said: string, named: string): string | null {
+export function kebabOff(said: string, named: string): string | null {
   if (said === "") return `${named} takes a slug, and none was said`
   return KEBAB.test(said)
     ? null
