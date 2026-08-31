@@ -29,11 +29,6 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path is read against the repository root and never against the folder the call was made in.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body the agent's record already holds comes back as one line saying so.",
     },
     {

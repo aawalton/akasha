@@ -46,7 +46,7 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
   const refusals: string[] = []
   const already = new Set<string>()
   for (const one of paths) {
-    const absolute = resolve(one.startsWith("/") ? one : join(given.from, one))
+    const absolute = resolve(one.startsWith("/") ? one : join(root, one))
     if (absolute !== bound && !absolute.startsWith(`${bound}/`)) {
       refusals.push(`${one} stands outside \`${INSIDE}/\`, and this runs what stands inside it`)
       continue

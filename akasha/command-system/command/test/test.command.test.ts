@@ -107,3 +107,10 @@ check("one named file runs alone, and its neighbour does not", () => {
   const said = test(["--file-path", "akasha/one.test.ts"], given(root))
   expect(said.code).toBe(0)
 })
+
+check("a path is read against the root rather than the folder the call was made in", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  const said = aiming(["akasha/one.test.ts"], { ...given(root), from: join(root, "akasha") })
+  expect(said.refusals).toEqual([])
+  expect(said.named).toEqual(["akasha/one.test.ts"])
+})
