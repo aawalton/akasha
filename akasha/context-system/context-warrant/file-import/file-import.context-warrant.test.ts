@@ -7,7 +7,6 @@ import { standing as wrote } from "../../../command-system/scratching/scratching
 import { importIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import {
   entriesFiled,
-  importPartLeft,
   importsTakenFrom,
   pathFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
@@ -162,14 +161,14 @@ test("a page importing its own file warrants nothing, the page being what is cha
   expect(pathsOf(warrantsAt(root, page))).toEqual([])
 })
 
-test("an import index that is not there warrants nothing", () => {
+test("an import index that is not there warrants what the body says all the same", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b"])
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
   importsTakenFrom(root)
-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
 
 test("a cold index warrants nothing", () => {
@@ -181,15 +180,19 @@ test("a cold index warrants nothing", () => {
   expect(pathsOf(warrantsAt(root, at))).toEqual([])
 })
 
-test("a part file left in the index is no import, only a filed one being read", () => {
+test("what a file imports is read from its own body", () => {
   const root = scratch.rootFor(PREFIX)
-  world(root, ["a", "b", "c"])
+  world(root, ["a", "b"])
   codeAt(root, "b", "")
-  codeAt(root, "c", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
-  importPartLeft(root, "akasha/c/c.module.code.ts", [{ path: at }])
+  importsTakenFrom(root)
   expect(importedIn(root, at)).toEqual(["akasha/b/b.module.code.ts"])
-  expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
+})
+
+test("a file that does not stand imports nothing", () => {
+  const root = scratch.rootFor(PREFIX)
+  world(root, ["a"])
+  expect(importedIn(root, "akasha/gone/gone.module.code.ts")).toEqual([])
 })
 
 test("an imported path the index names no page for warrants nothing", () => {

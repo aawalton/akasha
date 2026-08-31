@@ -20,5 +20,17 @@ export const fileImport = {
       invariantKind: "departure",
       statement: "The page of an imported code property file is the page whose property it is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What a file imports is read from its own body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that does not stand imports nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The index of what imports a path is not read here.",
+    },
   ],
 } as const satisfies ContextWarrant
