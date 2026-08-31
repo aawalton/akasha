@@ -23,7 +23,7 @@ export const pagesSystem = {
     "page-type/name-format",
     "page-type/name-place",
     "page-type/generator-kind",
-    "page-type/uniqueness-kind",
+    "page-type/unique-kind",
     "workspace-package/indexes",
     "domain/naming",
     "module/change",
