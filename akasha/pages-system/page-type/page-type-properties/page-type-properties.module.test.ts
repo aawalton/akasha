@@ -184,6 +184,7 @@ test("a page type standing above itself is walked once rather than forever", () 
 
 test("a page type the index does not name is answered with nothing rather than by throwing", () => {
   const root = rootAt()
+  typed(root, "held", null, [])
 
   expect(carriedBy(root, "nowhere")).toEqual([])
 })

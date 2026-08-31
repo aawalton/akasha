@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { repoWith, scratch } from "../landing/landing.module.test-fixtures.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import {
@@ -20,7 +21,7 @@ test("the gate reaches the checks late, and a root carrying no check index will 
   const said = gateBuilt(root)
   expect("broken" in said).toBe(true)
   const why = "broken" in said ? said.broken : ""
-  expect(why).toContain("identity/page/id")
+  expect(why).toContain(indexNamed())
   expect(why).not.toContain("a gate is built from")
 })
 
