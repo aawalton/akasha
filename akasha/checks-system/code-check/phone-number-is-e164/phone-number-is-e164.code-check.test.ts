@@ -31,6 +31,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-e164-")
   founded(root)
   typed(root, "domain", "page")
+  typed(root, "page-type", "domain")
   typed(root, "page-property", "domain")
   typed(root, "text-property", "page-property")
   typed(root, "phone-number-property", "page-property")
