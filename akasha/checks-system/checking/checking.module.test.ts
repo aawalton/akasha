@@ -192,7 +192,7 @@ test("a check stating no input runs over a change its neighbour sleeps through",
   const every = checksIn(root)
   expect(every.map((one) => `${one.slug} ${one.isInput === null}`)).toEqual([
     "refuses-all true",
-    "wakes-ts false",
+    "input-ts false",
   ])
   const held = onDisk(root)
   const change = { root, changed: ["one.md"], after: held, before: held }
