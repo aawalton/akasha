@@ -186,6 +186,19 @@ function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema
   return found.length === 1 && only !== undefined ? only : null
 }
 
+export function sourceAmong(values: readonly Value[], source: Source): Source {
+  const types = new Map<string, Value>()
+  for (const value of values) {
+    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+    const slug = textAt(value, "slug")
+    if (slug !== null) types.set(slug, value)
+  }
+  return {
+    pageTypeAt: (slug) => types.get(slug) ?? source.pageTypeAt(slug),
+    schemaFor: source.schemaFor,
+  }
+}
+
 export function sourceOver(values: readonly Value[]): Source {
   const types = new Map<string, Value>()
   const schemas = new Map<string, Schema>()

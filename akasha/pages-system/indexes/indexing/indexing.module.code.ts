@@ -13,6 +13,7 @@ import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.mod
 import {
   type Identifying,
   identifyingFrom,
+  sourceAmong,
   sourceIn,
   sourceOver,
 } from "../../page-type/page-type-properties/page-type-properties.module.code.ts"
@@ -345,8 +346,9 @@ export function settlingOver(
     const one = carried.get(under(repo, path))
     return one === undefined ? pageOf(path) : one.was
   }
-  const wasIdentifying = identifyingFrom(sourceIn(reading, wasPageOf))
-  const nowIdentifying = identifyingFrom(sourceIn(overSchema, pageOf))
+  const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
+  const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
+  const nowIdentifying = identifyingFrom(sourceAmong(standing, sourceIn(overSchema, pageOf)))
   const elsewhere =
     turned.size === 0 ? [] : standingBeside(reading, new Set(carried.keys()), pageOf)
   const identity = filingOf(
