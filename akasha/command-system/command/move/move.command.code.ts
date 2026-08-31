@@ -2,9 +2,9 @@ import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import type { Standing } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
-  everyPathAnswered,
+  everyPath,
   importersOf,
-  standingByPathAnswered,
+  standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -117,7 +117,7 @@ export type Naming = { readonly held: Standing | null } | { readonly unread: str
 export function namingOf(root: string, path: string): Naming {
   let standing: readonly Standing[]
   try {
-    standing = standingByPathAnswered(root, path)
+    standing = standingByPath(root, path)
   } catch (cause) {
     return { unread: cause instanceof Error ? cause.message : String(cause) }
   }
@@ -161,7 +161,7 @@ export function spellingOf(
 ): readonly string[] {
   const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
   const found: string[] = []
-  for (const path of everyPathAnswered(root)) {
+  for (const path of everyPath(root)) {
     if (!path.endsWith(TS) || moved.has(path) || known.has(path)) continue
     const held = bodyAt(root, stood, path)
     if (held === null) continue

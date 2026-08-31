@@ -1,6 +1,6 @@
 import {
-  everyOfTypeAnswered,
-  typeSlugByIdAnswered,
+  everyOfType,
+  typeSlugOf,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedIn } from "../../../pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
@@ -52,7 +52,7 @@ export function instantOf(iso: string | null): number | null {
 
 export function readingsIn(root: string): readonly Reading[] {
   const found: Reading[] = []
-  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, ACCOUNT_TYPE))) {
+  for (const one of everyOfType(root, typeSlugOf(root, ACCOUNT_TYPE))) {
     const stated = valueAt(one.path, root)
     if (stated === null) continue
     const account = textIn(stated, "slug")
