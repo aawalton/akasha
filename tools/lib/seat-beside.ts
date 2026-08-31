@@ -5,19 +5,18 @@ import {
   removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { pageStemOf } from "../../page/name/name.ts"
-import {
-  dropUncommitted,
-  patchUncommitted,
-  patchUncommittedUnder,
-  removeUncommitted,
-} from "../../page/uncommitted/uncommitted.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 
-// Every write of what is observed of a seat goes through here, and is carried to both systems.
-// The store beneath takes the same calls from anything with a page path, and a dozen callers
-// reached it directly, so this is where the second write goes rather than in twelve places.
+// EVERY WRITE OF WHAT IS OBSERVED OF A SEAT GOES THROUGH HERE, AND REACHES AKASHA ALONE. A dozen
+// callers reached the old store directly, so this became the one place a second write could go; now
+// it is the one place the first write went, and taking it out here took it out of all twelve.
+//
+// A PAGE PATH IS STILL WHAT THIS IS CALLED WITH, and it is opened for nothing. The seat's name is
+// read off the path, and the name is what addresses its page in akasha. So a caller may name a page
+// that does not stand — `seatPageDestination` composes one for a seat whose page has not landed —
+// and the write still arrives. This is what lets the old pages go without touching twelve callers.
 
 export type { Beside, Carried, Kind } from "./seat-akasha-beside.ts"
 
@@ -98,26 +97,43 @@ function akashaPageOf(page: string): string | null {
   return existsSync(`${root}/${relPath}`) ? relPath : null
 }
 
-// The old write is the one the fleet stands on until the readers move, so what the second one
-// throws is caught here and never reaches the caller.
-function alsoInAkasha(page: string, values: Beside): void {
-  try {
-    const carried = carriedFrom(values)
-    if (carried === null) return
-    const at = akashaPageOf(page)
-    if (at === null) return
-    mergeUncommitted(rootFor(resolveRoots(), AKASHA), at, carried)
-  } catch (thrown) {
-    process.stderr.write(
-      `what is observed of ${pageStemOf(page)} stands beside its page and not beside its page in akasha: ` +
-        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
+// WHAT THIS THROWS REACHES THE CALLER, and it did not while there were two stores. The second write
+// failing was survivable then because the first one had landed and the fleet was reading it; it was
+// caught here so it could not take the surviving write down with it.
+//
+// Nothing survives it now. A write lost here is a value that silently stops moving, and the value
+// that stops moving is usually `supervisor-process` — which does not read as stale, it reads as a
+// definite absence, and an absence is what takes a seat's page away. So the failure that used to be
+// worth swallowing is now the one that must be loudest.
+//
+// Every caller either catches this already or throws on purpose. The heartbeat catches it and logs,
+// so a refused write costs a beat rather than the supervisor.
+function inAkasha(page: string, values: Beside): void {
+  const unknown = Object.keys(values).filter(
+    (key) => CARRIED[key] === undefined && RECORDS[key] === undefined && key !== REPLACED
+  )
+  if (unknown.length > 0) {
+    throw new Error(
+      `akasha carries nothing of a seat named ${unknown.join(", ")}, so what was written under ` +
+        `${unknown.length === 1 ? "it" : "them"} beside ${pageStemOf(page)} has nowhere to land. ` +
+        "This was a silent drop into the old store; it is a refusal now. Carry the key by declaring " +
+        "the property on the seat page type and naming it in CARRIED or RECORDS."
     )
   }
+  const carried = carriedFrom(values)
+  if (carried === null) return
+  const at = akashaPageOf(page)
+  if (at === null) {
+    throw new Error(
+      `no page in akasha stands for the seat ${pageStemOf(page)}, so what is observed of it has ` +
+        "nowhere to be written. This used to be a silent return, when the old store was still taking the write."
+    )
+  }
+  mergeUncommitted(rootFor(resolveRoots(), AKASHA), at, carried)
 }
 
 export function keepBeside(page: string, values: Beside): void {
-  patchUncommitted(page, values)
-  alsoInAkasha(page, values)
+  inAkasha(page, values)
 }
 
 // A RECORD IS HANDED OVER WHOLE AND REACHES BOTH STORES WHOLE. They merge at different depths — the
@@ -133,35 +149,37 @@ export function keepBeside(page: string, values: Beside): void {
 // four fields inside the hour, and the cause was never established. Nothing reads a base now. The
 // caller already held the whole record — it was narrowing it to the changed fields and throwing the
 // rest away — so it hands over what it had.
+//
+// A KEY AKASHA DECLARES NO RECORD FOR IS REFUSED RATHER THAN DROPPED. It used to reach the old
+// store alone, which is why `turn-working` could be written at all; with that store gone there is
+// nowhere for it to land, and returning as though it had landed is the failure this whole migration
+// is made of. It is carried by declaring the property and naming it in `RECORDS`.
 export function keepBesideUnder(page: string, key: string, values: Beside): void {
-  patchUncommittedUnder(page, key, values)
-  if (RECORDS[key] === undefined) return
+  if (RECORDS[key] === undefined) {
+    throw new Error(
+      `akasha declares no record named ${key} of a seat, so what was written under it beside ` +
+        `${pageStemOf(page)} has nowhere to go. Declare the property and name it in RECORDS.`
+    )
+  }
   const under: Beside = {}
   for (const [name, value] of Object.entries(values)) under[camel(name)] = bare(value)
-  alsoInAkasha(page, { [key]: under })
+  inAkasha(page, { [key]: under })
 }
 
+// Only a key standing at the top of the page in akasha can be taken away on its own. A field of a
+// record goes with the record, and nothing drops one.
 export function dropBeside(page: string, keys: readonly string[]): void {
-  dropUncommitted(page, keys)
-  // Only a key standing at the top of the page in akasha can be taken away on its own. A field of
-  // a record goes with the record, and nothing drops one.
   const gone = keys.flatMap((key) => {
     const where = CARRIED[key]
     return where !== undefined && where.at.length === 1 ? [where.at[0] as string] : []
   })
   if (gone.length === 0) return
-  try {
-    const at = akashaPageOf(page)
-    if (at !== null) dropAkasha(rootFor(resolveRoots(), AKASHA), at, gone)
-  } catch (thrown) {
-    process.stderr.write(
-      `${pageStemOf(page)} let a value go beside its page and not beside its page in akasha: ` +
-        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
-    )
-  }
+  const at = akashaPageOf(page)
+  if (at === null) return
+  dropAkasha(rootFor(resolveRoots(), AKASHA), at, gone)
 }
 
-// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE, IN BOTH SYSTEMS. A sidecar outliving its page is
+// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE. A sidecar outliving its page is
 // what the outage was made of, and akasha states the rule of itself: the gate refuses a file no
 // page claims.
 //
@@ -173,8 +191,12 @@ export function dropBeside(page: string, keys: readonly string[]): void {
 //
 // The seat is named rather than the page looked up, so this does not turn on whether the akasha
 // page has already gone. Its callers take the pages away in opposite orders.
+//
+// WHAT THIS THROWS IS STILL CAUGHT, UNLIKE THE WRITES ABOVE. A lost write leaves a value saying
+// something false about a seat that is running. A lost removal leaves a sidecar beside a page that
+// has gone, which the gate names on the next read and a walk sweeps after. Its callers are taking
+// pages away in a loop, and aborting that loop over one of them would leave the rest standing.
 export function removeBeside(page: string): void {
-  removeUncommitted(page)
   try {
     removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(pageStemOf(page)))
   } catch (thrown) {

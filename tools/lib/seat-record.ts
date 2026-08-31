@@ -24,6 +24,16 @@ export function seatRecordOf(agent: string, key: string): SeatRecord | null {
   return akashaSeatRecordOf(agent, key)
 }
 
+// A WRITE THAT DID NOT LAND SAYS SO. This swallowed whatever the write threw, which was survivable
+// while the old store was taking the value regardless. It is not survivable now: five keys reach
+// here that akasha carries nothing for — `turn-state`, `turn-end-reading`, `turn-pending-source`,
+// `claude-code-session-uuid` and `turn-working` — and each of them used to land in the old store
+// and be read back out of it.
+//
+// Their reads already answer null, and have since the reads moved to akasha; sealing the write is
+// what makes that visible rather than what causes it. A caller still gets its quiet return, because
+// none of them can do anything about it, but the refusal is said once where a supervisor log will
+// hold it.
 export function keepSeatRecord(
   agent: string,
   key: string,
@@ -35,8 +45,10 @@ export function keepSeatRecord(
   if (page === null) return
   try {
     keepBeside(page, { [key]: { value, at } })
-  } catch {
-    return
+  } catch (thrown) {
+    process.stderr.write(
+      `${key} was not kept for ${agent}: ${thrown instanceof Error ? thrown.message : String(thrown)}\n`
+    )
   }
 }
 
