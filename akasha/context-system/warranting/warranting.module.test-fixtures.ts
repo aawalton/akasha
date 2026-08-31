@@ -3,10 +3,12 @@ import { join } from "node:path"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
-import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import {
+  idFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
-import { indexed } from "../warrant-scratch/warrant-scratch.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
 
@@ -128,9 +130,9 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
 }
 
 export function seated(root: string, id: string, path: string): undefined {
-  indexed(root, `identity/page/id/${id}.jsonl`, JSON.stringify({ path, id }))
+  idFiled(root, id, [{ path, id }])
 }
 
 export function subaged(root: string, slug: string, path: string): undefined {
-  indexed(root, `identity/subagent/slug/${slug}.jsonl`, JSON.stringify({ path, id: "sub" }))
+  standingFiled(root, "subagent", slug, [{ path, id: "sub" }])
 }

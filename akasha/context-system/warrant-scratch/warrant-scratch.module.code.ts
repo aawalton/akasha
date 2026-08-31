@@ -1,6 +1,10 @@
-import { join } from "node:path"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  idFiled,
+  pathFiled,
+  relationFiled,
+  standingFiled,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
 import type { Warrant } from "../warranting/warranting.module.code.ts"
@@ -10,18 +14,14 @@ export type Standing = {
   readonly id: string
 }
 
-export function indexed(root: string, at: string, line: string): undefined {
-  standing(root, join(indexNamed(), at), `${line}\n`)
-}
-
 export function pathsOf(found: readonly Warrant[]): readonly string[] {
   return found.map((one) => one.path)
 }
 
 function filed(root: string, held: Standing, typeSlug: string, slug: string): undefined {
-  indexed(root, `path/${held.path}.jsonl`, JSON.stringify(held))
-  indexed(root, `identity/page/id/${held.id}.jsonl`, JSON.stringify(held))
-  indexed(root, `identity/${typeSlug}/slug/${slug}.jsonl`, JSON.stringify(held))
+  pathFiled(root, held.path, [held])
+  idFiled(root, held.id, [held])
+  standingFiled(root, typeSlug, slug, [held])
 }
 
 function pageStanding(
@@ -87,7 +87,7 @@ export function pageTypeStanding(root: string, slug: string, above: string | nul
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
   )
-  indexed(root, `identity/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+  standingFiled(root, "page-type", slug, [{ path, id }])
   return path
 }
 
@@ -98,9 +98,5 @@ export function seatStanding(root: string, slug: string, stated: string): string
 }
 
 export function namesPart(root: string, whole: Standing, part: Standing): undefined {
-  indexed(
-    root,
-    `relation/page/id/${part.id}/part-slugs/${whole.id}.jsonl`,
-    JSON.stringify({ path: whole.path })
-  )
+  relationFiled(root, part.id, "part-slugs", whole.id, [{ path: whole.path }])
 }

@@ -4,8 +4,12 @@ import { join } from "node:path"
 import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import {
+  schemaFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
-import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
+import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePropertyFile, PAGE, PROPERTY } from "./file-property-file.context-warrant.code.ts"
 
@@ -33,16 +37,12 @@ function pageType(root: string, slug: string): string {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
   )
-  indexed(root, `identity/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+  standingFiled(root, "page-type", slug, [{ path, id }])
   return path
 }
 
 function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
-  indexed(
-    root,
-    `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`,
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, slug })
-  )
+  schemaFiled(root, pageTypeSlug, slug, [{ pageTypeSlug, targetPageTypeSlug: null, slug }])
 }
 
 function filed(root: string, slug: string, pageTypeSlug: string): string {
@@ -53,7 +53,7 @@ function filed(root: string, slug: string, pageTypeSlug: string): string {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
   )
-  indexed(root, `identity/${pageTypeSlug}/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+  standingFiled(root, pageTypeSlug, slug, [{ path, id }])
   return path
 }
 

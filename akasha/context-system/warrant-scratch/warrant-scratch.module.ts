@@ -9,7 +9,11 @@ export const warrantScratch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where the index stands is reached through the reader that says it.",
+      statement: "A page is filed into the index through the fixtures the indexes name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No directory of the index is spelled here.",
     },
     {
       invariantKind: "departure",

@@ -4,8 +4,12 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import {
+  schemaFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
-import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
+import { pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { fileProperty, PROPERTY } from "./file-property.context-warrant.code.ts"
@@ -26,7 +30,7 @@ function pageType(root: string, slug: string): undefined {
     path,
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
   )
-  indexed(root, `identity/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
+  standingFiled(root, "page-type", slug, [{ path, id }])
 }
 
 function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
@@ -37,12 +41,8 @@ function propertyPage(root: string, slug: string, pageTypeSlug: string): string 
     path,
     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
   )
-  indexed(root, `identity/${pageTypeSlug}/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
-  indexed(
-    root,
-    `schema/page-property/${pageTypeSlug}/slug/${slug}.jsonl`,
-    JSON.stringify({ pageTypeSlug, targetPageTypeSlug: null, slug })
-  )
+  standingFiled(root, pageTypeSlug, slug, [{ path, id }])
+  schemaFiled(root, pageTypeSlug, slug, [{ pageTypeSlug, targetPageTypeSlug: null, slug }])
   return path
 }
 
@@ -126,11 +126,9 @@ test("a property the index defines nowhere warrants nothing", () => {
 test("a property the schema names and the identity index does not warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   pageType(root, "module")
-  indexed(
-    root,
-    "schema/page-property/text-property/slug/loose.jsonl",
-    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "loose" })
-  )
+  schemaFiled(root, "text-property", "loose", [
+    { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "loose" },
+  ])
   stating(root, PATH, ["loose"])
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
@@ -192,12 +190,10 @@ test("a page defining a property does not warrant itself for it", () => {
   const path = "akasha/thing/properties/slug.text-property.ts"
   const id = mintedId("slug")
   standing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
-  indexed(root, "identity/text-property/slug/slug.jsonl", JSON.stringify({ path, id }))
-  indexed(
-    root,
-    "schema/page-property/text-property/slug/slug.jsonl",
-    JSON.stringify({ pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" })
-  )
+  standingFiled(root, "text-property", "slug", [{ path, id }])
+  schemaFiled(root, "text-property", "slug", [
+    { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" },
+  ])
   expect(pathsOf(warrantsAt(root, path))).toEqual([])
 })
 

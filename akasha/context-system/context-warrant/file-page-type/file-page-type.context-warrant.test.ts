@@ -4,11 +4,8 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  indexed,
-  pageTypeStanding,
-  pathsOf,
-} from "../../warrant-scratch/warrant-scratch.module.code.ts"
+import { schemaFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { pageTypeStanding, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
@@ -53,11 +50,9 @@ test("a type warrants the body standing at the type's page", () => {
 test("a file standing beside a page warrants no type of its own", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
   typeWorld(root)
-  indexed(
-    root,
-    "schema/page-property/file-property/slug/code.jsonl",
-    JSON.stringify({ pageTypeSlug: "file-property", targetPageTypeSlug: null, slug: "code" })
-  )
+  schemaFiled(root, "file-property", "code", [
+    { pageTypeSlug: "file-property", targetPageTypeSlug: null, slug: "code" },
+  ])
   const beside = "akasha/thing/thing.module.code.ts"
   standing(root, beside, "body\n")
   expect(pathsOf(warrantsAt(root, beside))).toEqual([])

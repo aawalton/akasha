@@ -4,10 +4,12 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { idTakenFrom } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import {
+  idTakenFrom,
+  pathFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   domainStanding,
-  indexed,
   namesPart,
   pathsOf,
   type Standing,
@@ -25,7 +27,7 @@ const AGENT = "01a04f58-a7ee-7000-94ad-769aa16fc838"
 function beside(root: string, one: Standing, ending: string): string {
   const at = `${one.path.slice(0, -".ts".length)}.${ending}.ts`
   standing(root, at, "body\n")
-  indexed(root, `path/${at}.jsonl`, JSON.stringify(one))
+  pathFiled(root, at, [one])
   return at
 }
 

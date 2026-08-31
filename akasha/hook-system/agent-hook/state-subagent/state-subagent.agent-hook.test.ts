@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
 import { SEAT_NAMED } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { idFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -19,11 +17,7 @@ function payloadOf(said: Record<string, unknown>): string {
 }
 
 function filed(root: string, id: string, path: string): undefined {
-  standing(
-    root,
-    join(indexNamed(), "identity", "page", "id", `${id}.jsonl`),
-    `${JSON.stringify({ path, id })}\n`
-  )
+  idFiled(root, id, [{ path, id }])
 }
 
 function worldNaming(rootFor: (prefix: string) => string, path: string | null): string {

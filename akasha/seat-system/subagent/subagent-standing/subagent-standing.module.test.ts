@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  idFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   assignedTo,
   bodyOf,
@@ -19,11 +21,7 @@ const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
 const OWN = "a38f63805f9b94edf"
 
 function filed(root: string, id: string, path: string): undefined {
-  standing(
-    root,
-    join(indexNamed(), "identity", "page", "id", `${id}.jsonl`),
-    `${JSON.stringify({ path, id })}\n`
-  )
+  idFiled(root, id, [{ path, id }])
 }
 
 test("a slug joins the seat's name to the id the subagent runs under", () => {
@@ -58,11 +56,7 @@ test("a page takes the assignment from the page its seat stands at", () => {
     const root = world.rootFor("subagent-standing-")
     const at = "akasha/seat-system/seat/seats/akasha.seat.ts"
     standing(root, at, `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`)
-    standing(
-      root,
-      join(indexNamed(), "identity", "seat", "slug", "akasha.jsonl"),
-      `${JSON.stringify({ path: at, id: SEAT_ID })}\n`
-    )
+    standingFiled(root, "seat", "akasha", [{ path: at, id: SEAT_ID }])
     expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
   } finally {
     world.sweep()
