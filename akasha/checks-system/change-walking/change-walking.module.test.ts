@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
+  indexTakenFrom,
   pathFiled,
   pathsTakenFrom,
   standingFiled,
@@ -288,15 +289,21 @@ test("a walk over everything reads the body of every file it takes", () => {
   for (const path of change.changed) expect(change.after(path)).not.toBeNull()
 })
 
-test("an index holding no path directory cannot answer, so the walk refuses rather than taking nothing", () => {
+test("an index standing nowhere cannot answer which files stand, so it refuses rather than taking nothing", () => {
   const root = worldOf([PAGE_AT])
-  pathsTakenFrom(root)
+  indexTakenFrom(root)
   expect(() => everyFileIn(root)).toThrow("could not be answered")
   expect(() => everythingIn(root)).toThrow("is not an index naming none")
 })
 
+test("a path directory gone from an index that stands is a true empty rather than a refusal", () => {
+  const root = worldOf([PAGE_AT])
+  pathsTakenFrom(root)
+  expect(everyFileIn(root)).toEqual([])
+})
+
 const HANDED: Reading = {
-  holds: () => false,
+  holds: (at) => at === "",
   listing: (at) => {
     if (at === "path") return [{ name: "akasha", directory: true }]
     if (at === "path/akasha") return [{ name: "held.ts.jsonl", directory: false }]
@@ -309,8 +316,8 @@ test("a reading handed in says which files stand, so a check may ask of the inde
   expect(everyFileIn(worldOf([PAGE_AT]), HANDED)).toEqual(["akasha/held.ts"])
 })
 
-test("a reading handed in does not stand in for the guard, which is on the root and stays", () => {
-  const root = worldOf([PAGE_AT])
-  pathsTakenFrom(root)
-  expect(() => everyFileIn(root, HANDED)).toThrow("could not be answered")
+const HANDED_COLD: Reading = { holds: () => false, listing: () => [], lines: () => [] }
+
+test("a reading handed in that stands nowhere is refused as a root standing nowhere is", () => {
+  expect(() => everyFileIn(worldOf([PAGE_AT]), HANDED_COLD)).toThrow("could not be answered")
 })
