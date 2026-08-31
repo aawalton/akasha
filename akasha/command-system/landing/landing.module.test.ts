@@ -5,6 +5,7 @@ import type { Judging } from "../../checks-system/judging/judging.module.code.ts
 import {
   everythingFiled,
   fileWhereTheIndexStands,
+  identitiesStandingIn,
   idFiledIn,
   standingFiledIn,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
@@ -127,6 +128,7 @@ test("a landing that takes a page away takes its index entries with it", () => {
   landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(false)
   expect(standingFiledIn(root, "domain", "a")).toBe(false)
+  expect(identitiesStandingIn(root, "domain")).toBe(false)
 })
 
 test("a landing no check judged keeps the index all the same", () => {
