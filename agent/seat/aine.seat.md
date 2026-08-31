@@ -9,6 +9,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: aine-initiative-work
 registration-account: aawalton
 claude-code-session-uuid: 0fefd6d4-027f-4e6d-881d-0c25a25ecc14
 ---
