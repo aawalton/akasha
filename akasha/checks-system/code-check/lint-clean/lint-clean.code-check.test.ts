@@ -3,7 +3,10 @@ import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } fro
 import { dirname, join } from "node:path"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { shadowAsked } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { change, gone, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   carriedIn,
   judgedOf,
@@ -32,6 +35,10 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
+function linted(held: Change): readonly Judged[] {
+  return lintClean(held, shadowAsked(held))
+}
+
 function repo(files: Record<string, string>, linter = true): string {
   const root = realpathSync(scratch.rootFor("lint-clean-"))
   writeFileSync(join(root, CONFIG), SETTINGS)
@@ -57,17 +64,17 @@ test("a file the change takes away is judged by nothing", () => {
 
 test("a change carrying no typescript file is judged by no run", () => {
   const root = repo({ "akasha/held.md": "held" })
-  expect(lintClean(change(root, ["akasha/held.md"]))).toEqual([])
+  expect(linted(change(root, ["akasha/held.md"]))).toEqual([])
 })
 
 test("a change the linter finds nothing in is not refused", () => {
   const root = repo({ "akasha/one.ts": CLEAN })
-  expect(lintClean(change(root, ["akasha/one.ts"]))).toEqual([])
+  expect(linted(change(root, ["akasha/one.ts"]))).toEqual([])
 })
 
 test("a change the linter finds fault in is refused, and the reason names the rule", () => {
   const root = repo({ "akasha/one.ts": UNUSED })
-  const said = lintClean(change(root, ["akasha/one.ts"]))
+  const said = linted(change(root, ["akasha/one.ts"]))
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.ts")
   expect(said[0]?.reason).toContain(RULE)
@@ -76,29 +83,29 @@ test("a change the linter finds fault in is refused, and the reason names the ru
 
 test("every finding is answered, each against the file it stands in", () => {
   const root = repo({ "akasha/one.ts": UNUSED, "akasha/two.ts": UNUSED })
-  const said = lintClean(change(root, ["akasha/one.ts", "akasha/two.ts"]))
+  const said = linted(change(root, ["akasha/one.ts", "akasha/two.ts"]))
   expect(said.map((one) => one.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
 })
 
 test("a change is judged by the body it proposes, not the one standing on disk", () => {
   const root = repo({ "akasha/one.ts": CLEAN })
   const at = proposing(root, "akasha/one.ts", UNUSED)
-  const said = lintClean(change(root, ["akasha/one.ts"], at))
+  const said = linted(change(root, ["akasha/one.ts"], at))
   expect(said.length).toBe(1)
   expect(said[0]?.reason).toContain(RULE)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(CLEAN)
-  expect(lintClean(change(root, ["akasha/one.ts"]))).toEqual([])
+  expect(linted(change(root, ["akasha/one.ts"]))).toEqual([])
 })
 
 test("a change taking a fault away passes, though the fault still stands on disk", () => {
   const root = repo({ "akasha/one.ts": UNUSED })
   const at = proposing(root, "akasha/one.ts", CLEAN)
-  expect(lintClean(change(root, ["akasha/one.ts"], at))).toEqual([])
+  expect(linted(change(root, ["akasha/one.ts"], at))).toEqual([])
 })
 
 test("a linter that could not run is a refusal, not a pass", () => {
   const root = repo({ "akasha/one.ts": CLEAN }, false)
-  const said = lintClean(change(root, ["akasha/one.ts"]))
+  const said = linted(change(root, ["akasha/one.ts"]))
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/one.ts")
   expect(said[0]?.reason).toContain("nothing was looked at")
@@ -107,7 +114,7 @@ test("a linter that could not run is a refusal, not a pass", () => {
 
 test("the reason names no tree that has been swept", () => {
   const root = repo({ "akasha/one.ts": CLEAN }, false)
-  const said = lintClean(change(root, ["akasha/one.ts"]))
+  const said = linted(change(root, ["akasha/one.ts"]))
   expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
   expect(said[0]?.reason).toContain("the world this change was stood up in")
 })

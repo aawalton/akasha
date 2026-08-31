@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { shadowAsked } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   cyclesIn,
   noImportCycle,
@@ -21,17 +23,20 @@ function change(bodies: Readonly<Record<string, string>>): Change {
   return { root: ROOT, changed: Object.keys(bodies).toSorted(), after: at, before: at }
 }
 
+function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
+  const held = change(bodies)
+  return noImportCycle(held, shadowAsked(held))
+}
+
 function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {
-  return noImportCycle(change(bodies)).map((one) => one.path)
+  return refused(bodies).map((one) => one.path)
 }
 
 test("two files that import each other by value are both refused", () => {
-  const said = noImportCycle(
-    change({
-      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
-    })
-  )
+  const said = refused({
+    "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
+    "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
+  })
   expect(said.map((each) => each.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
   expect(said[0]?.reason).toContain("`akasha/two.ts`")
   expect(said[1]?.reason).toContain("`akasha/one.ts`")
@@ -89,7 +94,7 @@ test("a type-only `export from` is no edge, and a value `export from` is", () =>
 })
 
 test("a file that imports itself is refused, and says so plainly", () => {
-  const said = noImportCycle(change({ "akasha/one.ts": 'import { a } from "./one.ts"\n' }))
+  const said = refused({ "akasha/one.ts": 'import { a } from "./one.ts"\n' })
   expect(said).toHaveLength(1)
   expect(said[0]?.reason).toContain("imports itself")
 })
@@ -105,13 +110,11 @@ test("a chain that never comes back around is let through", () => {
 })
 
 test("a cycle of three names the two others it reaches", () => {
-  const said = noImportCycle(
-    change({
-      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": 'import { three } from "./three.ts"\n\nexport const two = three\n',
-      "akasha/three.ts": 'import { one } from "./one.ts"\n\nexport const three = one\n',
-    })
-  )
+  const said = refused({
+    "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
+    "akasha/two.ts": 'import { three } from "./three.ts"\n\nexport const two = three\n',
+    "akasha/three.ts": 'import { one } from "./one.ts"\n\nexport const three = one\n',
+  })
   expect(said).toHaveLength(3)
   expect(said[0]?.reason).toContain("`akasha/three.ts`")
   expect(said[0]?.reason).toContain("`akasha/two.ts`")

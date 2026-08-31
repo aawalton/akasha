@@ -5,6 +5,7 @@ import { textAt, type Value } from "../../../pages-system/page/page-value/page-v
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { propertiesOf } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -74,7 +75,7 @@ export function keyedIn(pageTypeSlug: string, under: ReadonlySet<string>, shadow
   return found
 }
 
-export function phoneNumberIsE164(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const under = kindsUnder(change.root, PHONE_NUMBER, shadow.reading, shadow.pageOf)
   const pageTypes = pageTypesIn(shadow.reading)
   const held = new Map<string, Keyed>()
@@ -99,3 +100,5 @@ export function phoneNumberIsE164(change: Change, shadow: Shadow): readonly Judg
   }
   return judged
 }
+
+export const phoneNumberIsE164 = waking(PAGES, refusalsIn)

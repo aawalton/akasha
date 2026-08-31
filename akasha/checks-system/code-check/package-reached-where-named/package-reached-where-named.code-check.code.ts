@@ -18,8 +18,10 @@ import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/pa
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   bodyOf,
+  FILES,
   overEachFile,
   overEachText,
+  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
@@ -186,7 +188,7 @@ export function reasonsIn(
   return said
 }
 
-export function packageReachedWhereNamed(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const standing = manifestsIn(change.root, shadow)
   if (standing.length === 0) return []
   const at = new Set(standing.map((one) => one.at))
@@ -200,3 +202,5 @@ export function packageReachedWhereNamed(change: Change, shadow: Shadow): readon
       : reaching(given)
   )
 }
+
+export const packageReachedWhereNamed = waking(FILES, refusalsIn)

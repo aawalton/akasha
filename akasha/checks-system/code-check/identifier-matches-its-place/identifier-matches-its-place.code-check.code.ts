@@ -7,7 +7,12 @@ import { functionIdentifier } from "../../../pages-system/name-place/name-places
 import { typeIdentifier } from "../../../pages-system/name-place/name-places/type-identifier.name-place.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { bodyOf, overEachFile } from "../../change-walking/change-walking.module.code.ts"
+import {
+  bodyOf,
+  overEachFile,
+  TEXTS,
+  waking,
+} from "../../change-walking/change-walking.module.code.ts"
 import type { Running } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -119,7 +124,7 @@ export function placesIn(
   }
 }
 
-export const identifierMatchesItsPlace: Running = (change, shadow) => {
+const refusalsIn: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
   if (!wanted) return []
   const places = placesIn(change.root, shadow.codeAt)
@@ -128,3 +133,5 @@ export const identifierMatchesItsPlace: Running = (change, shadow) => {
     return refusedIn(given.path, bodyOf(given), places)
   })
 }
+
+export const identifierMatchesItsPlace = waking(TEXTS, refusalsIn)

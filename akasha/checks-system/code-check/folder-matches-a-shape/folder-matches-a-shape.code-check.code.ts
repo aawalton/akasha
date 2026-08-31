@@ -23,7 +23,7 @@ import {
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, FILES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./folder-shape/folder-shape.page-type.ts"
 
@@ -195,7 +195,7 @@ export function claimedIn(
   }
 }
 
-export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = pageTypesIn(shadow.reading)
   const stated = filePropertiesAt(shadow.reading)
@@ -239,3 +239,5 @@ export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Ju
   }
   return found
 }
+
+export const folderMatchesAShape = waking(FILES, refusalsIn)

@@ -16,6 +16,7 @@ import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-e
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { TEXTS, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const IMPORT = importEdge.slug
@@ -122,7 +123,7 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   return found
 }
 
-export function typecheck(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const changed = new Set(change.changed)
   const seen = new Set<string>()
   const said: Judged[] = []
@@ -135,3 +136,5 @@ export function typecheck(change: Change, shadow: Shadow): readonly Judged[] {
   }
   return said
 }
+
+export const typecheck = waking(TEXTS, refusalsIn)

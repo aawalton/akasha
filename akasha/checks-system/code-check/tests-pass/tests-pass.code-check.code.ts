@@ -8,7 +8,7 @@ import {
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { everyFileIn } from "../../change-walking/change-walking.module.code.ts"
+import { everyFileIn, TEXTS, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const KEPT = 40
@@ -53,7 +53,7 @@ export function reasonOf(ran: Ran, named: readonly string[]): string {
   )
 }
 
-export function testsPass(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(change)
   const first = named[0]
@@ -69,3 +69,5 @@ export function testsPass(change: Change, shadow: Shadow): readonly Judged[] {
     world.sweep()
   }
 }
+
+export const testsPass = waking(TEXTS, refusalsIn)

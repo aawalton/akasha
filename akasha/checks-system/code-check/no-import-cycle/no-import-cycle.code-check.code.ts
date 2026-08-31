@@ -2,7 +2,7 @@ import ts from "typescript"
 import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { textIn } from "../../change-walking/change-walking.module.code.ts"
+import { TEXTS, textIn, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -117,10 +117,12 @@ export function reasonFor(at: string, held: readonly string[]): string {
   return `stands in a cycle reaching ${first}${rest} — ${ITSELF}`
 }
 
-export function noImportCycle(change: Change): readonly Judged[] {
+function refusalsIn(change: Change): readonly Judged[] {
   const said: Judged[] = []
   for (const held of cyclesIn(reachingIn(change))) {
     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
   }
   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
 }
+
+export const noImportCycle = waking(TEXTS, refusalsIn)

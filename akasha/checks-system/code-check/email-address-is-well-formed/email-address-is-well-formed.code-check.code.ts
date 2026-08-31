@@ -5,6 +5,7 @@ import { textAt, type Value } from "../../../pages-system/page/page-value/page-v
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { propertiesOf } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -76,7 +77,7 @@ export function reasonsIn(path: string, value: Value, keying: Keying): readonly 
   return said
 }
 
-export function emailAddressIsWellFormed(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
   const under = kindsUnder(change.root, ADDRESS, shadow.reading, shadow.pageOf)
@@ -85,3 +86,5 @@ export function emailAddressIsWellFormed(change: Change, shadow: Shadow): readon
   for (const one of carried) said.push(...reasonsIn(one.path, one.value, keying))
   return said
 }
+
+export const emailAddressIsWellFormed = waking(PAGES, refusalsIn)

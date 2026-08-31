@@ -2,6 +2,7 @@ import type { Found, Linted } from "../../../code-system/code-lint/code-lint.mod
 import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { worldOf } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { TEXTS, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
@@ -38,7 +39,7 @@ export function judgedOf(linted: Linted, first: string, root: string): readonly 
   }))
 }
 
-export function lintClean(change: Change): readonly Judged[] {
+function refusalsIn(change: Change): readonly Judged[] {
   const carried = carriedIn(change)
   const first = carried[0]
   if (first === undefined) return []
@@ -49,3 +50,5 @@ export function lintClean(change: Change): readonly Judged[] {
     world.sweep()
   }
 }
+
+export const lintClean = waking(TEXTS, refusalsIn)

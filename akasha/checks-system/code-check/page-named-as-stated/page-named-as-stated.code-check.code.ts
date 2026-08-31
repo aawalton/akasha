@@ -5,7 +5,12 @@ import { filePropertiesAnswered } from "../../../pages-system/indexes/index-entr
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { bodyOf, overEachFile } from "../../change-walking/change-walking.module.code.ts"
+import {
+  bodyOf,
+  FILES,
+  overEachFile,
+  waking,
+} from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const SLUG = "slug"
@@ -110,7 +115,9 @@ export function reasonsIn(
   return found
 }
 
-export function pageNamedAsStated(change: Change): readonly Judged[] {
+function refusalsIn(change: Change): readonly Judged[] {
   const heldInAFile = filePropertiesAnswered(change.root)
   return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }
+
+export const pageNamedAsStated = waking(FILES, refusalsIn)

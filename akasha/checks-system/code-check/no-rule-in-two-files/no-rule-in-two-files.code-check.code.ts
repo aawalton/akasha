@@ -5,7 +5,9 @@ import {
   bodyOf,
   everyFileIn,
   overEachFile,
+  TEXTS,
   textIn,
+  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
@@ -45,10 +47,12 @@ export function reasonsIn(
   return said
 }
 
-export function noRuleInTwoFiles(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const every = everySpeltIn(change, shadow)
   return overEachFile(change, (given) => {
     if (!given.path.endsWith(TS)) return []
     return reasonsIn(given.path, bodyOf(given), every)
   })
 }
+
+export const noRuleInTwoFiles = waking(TEXTS, refusalsIn)
