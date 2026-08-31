@@ -4,7 +4,7 @@ import { isAbsolute, join, relative } from "node:path"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { besideAt, secretAt } from "../../page/page-file-name/page-file-name.module.code.ts"
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
@@ -119,6 +119,8 @@ export function pathsOf(
 ): readonly string[] {
   const own = under(repo, path)
   const found = [own]
+  const secret = secretAt(own)
+  if (secret !== null) found.push(secret)
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
     const propertySlug = slugFor(key)

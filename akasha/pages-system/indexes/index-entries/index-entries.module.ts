@@ -13,5 +13,17 @@ export const indexEntries = {
       invariantKind: "departure",
       statement: "A page's body can be loaded after the file it came from is gone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page claims its own path and the file each of its file properties names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page claims the sops file standing beside it whatever it carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The naming grammar lets no other page claim that file.",
+    },
   ],
 } as const satisfies Module
