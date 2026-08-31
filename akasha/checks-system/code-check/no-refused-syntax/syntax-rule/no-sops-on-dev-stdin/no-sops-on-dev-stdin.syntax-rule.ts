@@ -10,10 +10,6 @@ export const noSopsOnDevStdin = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call handing `/dev/stdin` to sops is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Sops opens and seeks what it is given and a pipe answers neither.",
     },
     {

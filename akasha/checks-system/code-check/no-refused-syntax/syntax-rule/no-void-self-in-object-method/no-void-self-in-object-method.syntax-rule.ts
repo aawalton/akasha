@@ -10,10 +10,6 @@ export const noVoidSelfInObjectMethod = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A method written into an object literal declaring `this: void` is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A function assigned to a property is left.",
     },
     {

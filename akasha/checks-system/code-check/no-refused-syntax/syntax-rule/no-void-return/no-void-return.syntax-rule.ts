@@ -10,10 +10,6 @@ export const noVoidReturn = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A return type of `void` is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "`undefined` is what stands in its place.",
     },
     {
