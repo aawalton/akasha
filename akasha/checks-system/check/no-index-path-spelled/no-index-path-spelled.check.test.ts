@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { reasonsIn } from "./no-index-path-spelled.check.code.ts"
 
@@ -7,7 +7,7 @@ const ROOT = "/repo"
 
 const given = bodiesIn(ROOT)
 
-const AT = indexIn("")
+const AT = indexNamed()
 
 const HELD = "akasha/command-system/held.module.code.ts"
 

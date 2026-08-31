@@ -2,12 +2,12 @@ import {
   type Placed,
   spelledIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
 
 const INDEXES = "akasha/pages-system/indexes/"
 
-const AT = indexIn("")
+const AT = indexNamed()
 
 const SEGMENTS = 3
 
