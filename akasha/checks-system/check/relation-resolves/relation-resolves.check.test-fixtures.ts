@@ -38,7 +38,7 @@ export const S_ID = "01a04d99-71ca-7e06-8000-000000000005"
 export const T_ID = "01a04d99-71ca-7e06-8000-000000000006"
 
 export const TYPES: readonly (readonly [string, string | null, boolean])[] = [
-  ["page-type", null, false],
+  ["page-type", "page-type/page", false],
   ["domain", "page-type/page-type", false],
   ["note", "page-type/domain", false],
   ["spark", "page-type/domain", true],
@@ -100,8 +100,22 @@ export function naming(
   relationFiled(root, target, propertySlug, id, [{ path }])
 }
 
+const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
+
+const PAGE_DECLARES =
+  ', extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false }' +
+  ', { pagePropertySlug: "slug", required: true, many: false }]'
+
 export function rooted(carrying: boolean = true): string {
   const root = scratch.rootFor("akasha-relation-resolves-")
+  standing(
+    root,
+    "akasha/t/page.page-type.ts",
+    PAGE_ID,
+    "page-type",
+    "page",
+    stating(PAGE_ID, "page", "page-type", PAGE_DECLARES)
+  )
   let count = 0
   for (const [slug, extendsSlug, mortal] of TYPES) {
     count += 1
