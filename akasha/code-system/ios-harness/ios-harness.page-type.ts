@@ -12,6 +12,16 @@ export const iosHarness = {
   slug: "ios-harness",
   definition: "code that proves an iOS component",
   pluralSlug: "ios-harnesses",
+  partSlugs: [
+    "ios-harness/render-harness-cases",
+    "ios-harness/render-harness-cases-categorize",
+    "ios-harness/render-harness-cases-safety",
+    "ios-harness/render-harness-cases-surplus",
+    "ios-harness/render-harness-cases-wide",
+    "ios-harness/render-harness-families",
+    "ios-harness/render-harness-rendering",
+    "ios-harness/render-harness-views",
+  ],
   extendsSlug: "page-type/domain",
   properties: [{ pagePropertySlug: "swift", required: true, many: false }],
   invariants: [
