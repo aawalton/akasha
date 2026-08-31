@@ -13,10 +13,6 @@ export const takes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This says what the thing is for rather than how the command works it out.",
-    },
-    {
-      invariantKind: "departure",
       statement: "It stands on one line beside what is said.",
     },
   ],

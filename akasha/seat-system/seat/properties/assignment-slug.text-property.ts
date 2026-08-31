@@ -13,10 +13,6 @@ export const assignmentSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's assignment is a domain or an initiative.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An assignment stated under no page type names a domain.",
     },
     {

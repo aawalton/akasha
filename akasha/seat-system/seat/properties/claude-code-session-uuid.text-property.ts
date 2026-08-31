@@ -13,10 +13,6 @@ export const claudeCodeSessionUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat is answering in one session at a time.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The session it answered in before is not kept.",
     },
   ],
