@@ -23,6 +23,7 @@ import { positionalsCoverIdentifiers } from "./audits/positionals-cover-identifi
 import { propertyTypesBind } from "./audits/property-types-bind.ts"
 import { refusalsBound } from "./audits/refusals-bound.ts"
 import { resumeNotices } from "./audits/resume-notices.ts"
+import { seatValuesDeclared } from "./audits/seat-values-declared.ts"
 import { statuslineConstants } from "./audits/statusline-constants.ts"
 import { suiteRuns } from "./audits/suite-runs.ts"
 import { testsBounded } from "./audits/tests-bounded.ts"
@@ -62,6 +63,7 @@ export const CHECKS: Readonly<Record<string, Levy>> = {
   "property-types-bind": { repos: ["akasha"], run: propertyTypesBind },
   "refusals-bound": { repos: ["akasha"], run: refusalsBound },
   "resume-notices": { repos: ["akasha"], run: resumeNotices },
+  "seat-values-declared": { repos: ["akasha"], run: seatValuesDeclared },
   "statusline-constants": { repos: ["akasha"], run: statuslineConstants },
   "suite-runs": { repos: ["akasha"], run: suiteRuns, band: "painful" },
   "tests-bounded": { repos: ["akasha"], run: testsBounded },
