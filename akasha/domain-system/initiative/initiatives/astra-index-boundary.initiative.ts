@@ -10,6 +10,8 @@ export const astraIndexBoundary = {
     {
       statement:
         "What crosses the boundary is a question or its answer or the index as a change leaves it.",
+      workingMemory:
+        "`graph-asking` was the last caller reading an index's own directories, spelling `<index>/page/id/<id>/<property>/` and listing it; that reading is `namersOf`'s again, which now takes the index the asking names. What is left crossing is `Reading` itself, out of `index-shape`, whose page says a shape there is what a read of the index is answered with. The constraint saying `Reading` does not cross and the module built to hand it out disagree, and that is Alan's to settle.",
     },
   ],
   constraints: [
