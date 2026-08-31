@@ -31,7 +31,11 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat assigned an initiative goes when that initiative's page does.",
+      statement: "A seat outlives the initiative it was assigned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose initiative is done is assigned again.",
     },
     {
       invariantKind: "departure",
