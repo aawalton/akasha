@@ -10,11 +10,6 @@ import {
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
-import {
-  identifyingFrom,
-  sourceIn,
-  sourceOver,
-} from "../../page-type/page-type-properties/page-type-properties.module.code.ts"
 import { identityIn } from "../index/index-identity/index-identity.index.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { importIn } from "../index/index-import/index-import.index.code.ts"
@@ -25,8 +20,8 @@ import { NOTHING_FILED, relationIn } from "../index/index-relation/index-relatio
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { schemaIn } from "../index/index-schema/index-schema.index.code.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import type { Entry, Value } from "../index-entries/index-entries.module.code.ts"
 import {
-  type Entry,
   filePropertiesAt,
   filePropertiesIn,
   type Identifier,
@@ -35,7 +30,6 @@ import {
   under,
   uniquePropertiesAt,
   uniquePropertiesIn,
-  type Value,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
 import { everyPath, indexIn, readingIn } from "../index-reading/index-reading.module.code.ts"
@@ -58,8 +52,6 @@ const PATH = indexPath.indexName
 const RELATION = indexRelation.indexName
 
 const SCHEMA = indexSchema.indexName
-
-const PAGE_TYPE = "page-type"
 
 function pruneAbove(at: string, root: string): undefined {
   let here = at
@@ -131,10 +123,10 @@ function pagesUnder(tree: string): readonly string[] {
     }
   }
   walk(tree)
-  const pageTypes = new Set<string>([PAGE_TYPE])
+  const pageTypes = new Set<string>(["page-type"])
   for (const one of found) {
     const said = namedIn(one)
-    if (said !== null && said.tail === PAGE_TYPE) pageTypes.add(said.stem)
+    if (said !== null && said.tail === "page-type") pageTypes.add(said.stem)
   }
   return found.filter((one) => {
     const said = namedIn(one)
@@ -205,13 +197,11 @@ export function rebuiltFrom(
     const value = valueAt(path, repo)
     if (value !== null) held.push({ path, value })
   }
-  const values = held.map((one) => one.value)
-  const fileProperties = filePropertiesIn(values)
-  const unique = uniquePropertiesIn(values)
+  const fileProperties = filePropertiesIn(held.map((one) => one.value))
+  const unique = uniquePropertiesIn(held.map((one) => one.value))
   const schema = held.flatMap((one) => schemaIn(one.value))
   refusingEmpty(unique, held.length)
-  const identifying = identifyingFrom(sourceOver(values))
-  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, unique))
   reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, PATH), paths, root)
@@ -253,6 +243,17 @@ function turningIn(
     const before = was.get(slug)
     const after = now.get(slug)
     if (before?.key !== after?.key || before?.reach !== after?.reach) said.add(slug)
+  }
+  return said
+}
+
+function onlyIn(
+  held: ReadonlyMap<string, Identifier>,
+  slugs: ReadonlySet<string>
+): ReadonlyMap<string, Identifier> {
+  const said = new Map<string, Identifier>()
+  for (const [slug, one] of held) {
+    if (slugs.has(slug)) said.set(slug, one)
   }
   return said
 }
@@ -312,33 +313,28 @@ export function settlingOver(
     held.flatMap((one) => (one.was === null ? [] : schemaIn(one.was))),
     nowSchema
   )
-  const overSchema = overlaidOn(reading, schema)
   const wasUnique = uniquePropertiesAt(reading)
-  const unique = uniquePropertiesAt(overSchema)
+  const unique = uniquePropertiesAt(overlaidOn(reading, schema))
   refusingEmpty(unique, held.filter((one) => one.now !== null).length)
   const turned = turningIn(wasUnique, unique)
+  const wasTurned = onlyIn(wasUnique, turned)
+  const nowTurned = onlyIn(unique, turned)
   const carried = new Map(held.map((one) => [under(repo, one.path), one]))
-  const wasPageOf = (path: string): Value | null => {
-    const one = carried.get(under(repo, path))
-    return one === undefined ? pageOf(path) : one.was
-  }
-  const wasIdentifying = identifyingFrom(sourceIn(reading, wasPageOf))
-  const nowIdentifying = identifyingFrom(sourceIn(overSchema, pageOf))
   const elsewhere =
     turned.size === 0 ? [] : standingBeside(reading, new Set(carried.keys()), pageOf)
   const identity = filingOf(
     reading,
     [
       ...held.flatMap((one) =>
-        one.was === null ? [] : identityIn(one.was, one.path, repo, wasIdentifying)
+        one.was === null ? [] : identityIn(one.was, one.path, repo, wasUnique)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasIdentifying, turned)),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, wasTurned)),
     ],
     [
       ...held.flatMap((one) =>
-        one.now === null ? [] : identityIn(one.now, one.path, repo, nowIdentifying)
+        one.now === null ? [] : identityIn(one.now, one.path, repo, unique)
       ),
-      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowIdentifying, turned)),
+      ...elsewhere.flatMap((one) => identityIn(one.value, one.path, repo, nowTurned)),
     ]
   )
   const paths = filingOf(
@@ -350,6 +346,10 @@ export function settlingOver(
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
+  const wasPageOf = (path: string): Value | null => {
+    const one = carried.get(under(repo, path))
+    return one === undefined ? pageOf(path) : one.was
+  }
   const wasKnown = knownIn(reading, repo, wasPageOf)
   const known = knownIn(stepped, repo, pageOf)
   const was = held.map((one) =>
