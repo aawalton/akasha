@@ -12,7 +12,16 @@ import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { whyRefused } from "../tools/lib/gated-write.ts"
 import { removeBeside } from "../tools/lib/seat-beside.ts"
-import { seatPagePaths, seatPresence, seatsDir } from "../tools/lib/seat-presence-read.ts"
+import {
+  akashaSeatPathForAgent,
+  akashaSeatSlugOf,
+} from "../tools/lib/seat-akasha-beside.ts"
+import {
+  frontmatterOf,
+  seatPagePaths,
+  seatPresence,
+  seatsDir,
+} from "../tools/lib/seat-presence-read.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 
 const HELP = `bun services/sweep-seat-pages.ts — delete the page of every seat no agent is present in
@@ -47,6 +56,14 @@ the removal gate refuses over — would otherwise keep every other absent seat s
 
 NOTHING IS REMOVED WITHOUT --remove. The sweep reports by default, because what it takes
 away is a commit in another repository and seeing the list first costs one run.
+
+A SEAT THE NEW SYSTEM CANNOT ANSWER FOR IS NAMED, AND NEVER TAKEN AWAY OVER IT. A seat's page
+in akasha is written under its name and found by its id, so an id that did not land leaves that
+page standing while every reader falling through to akasha answers as though the seat had never
+stated anything. The akasha write is caught where it is called, so it cannot take the old write
+down — which also means its refusal is said once and never again, and a drift stands until
+somebody looks. This is the looking. A drift is repaired by the seat writing its own page again,
+and a run that met one exits non-zero.
 
 Usage:
   bun ~/repos/akasha/services/sweep-seat-pages.ts [--remove]
@@ -109,6 +126,40 @@ function removeSidecars(pagePath: string): void {
     const at = `${memory}/${relPath}`
     exclusively(at, () => rmSync(at, { force: true }))
   }
+}
+
+// A SEAT THE NEW SYSTEM CANNOT ANSWER FOR IS NAMED HERE, BECAUSE NOTHING ELSE LOOKS. A seat's page
+// in akasha is written under its name and found by its id, so an id that did not land leaves the
+// page standing and the seat invisible: every reader that falls through to akasha answers as though
+// the seat had never stated anything. It does not degrade, and it does not heal — the akasha write
+// is caught where it is called so it cannot take the old one down, which also means a refusal is
+// said once to stderr and never again.
+//
+// That is not hypothetical. The `akasha` seat stood diverged for hours on the 31st: its page was
+// written while the gate was refusing every akasha write, the refusal was swallowed, and the seat
+// went on beating with an id no page carried.
+//
+// THIS ONLY REPORTS. A drift is repaired by the seat writing its own page again, never by this
+// reaching into the new system, and a seat is never taken away over one.
+function namedDrift(pagePaths: readonly string[]): readonly string[] {
+  const said: string[] = []
+  for (const pagePath of pagePaths) {
+    const id = frontmatterOf(pagePath)?.["id"]
+    const name = seatNameOf(pagePath)
+    if (typeof id !== "string" || id === "") {
+      said.push(`${name} states no id, so nothing can be found for it in akasha`)
+      continue
+    }
+    if (akashaSeatPathForAgent(id) === null) {
+      said.push(`${name} stands under no page in akasha carrying its id ${id}`)
+      continue
+    }
+    const slug = akashaSeatSlugOf(id)
+    if (slug !== name) {
+      said.push(`${name} is carried in akasha under the name ${slug ?? "nothing"}`)
+    }
+  }
+  return said
 }
 
 function relPathOf(pagePath: string): string {
@@ -187,12 +238,18 @@ function main(argv: readonly string[]): number {
       `uncertain: ${seatNameOf(one)} states no presence that could be read, so its page and its sidecar stand\n`
     )
   }
-  const unresolved = unread.length + orphans.uncertain.length
+  // Only the seats that stay are asked after. One that is about to go is drifted by definition, and
+  // saying so on the run that takes it away would name a fault where there is only a departure.
+  const staying = pages.filter((one) => presenceOf.get(one) !== "absent")
+  const drifted = namedDrift(staying)
+  for (const one of drifted) process.stderr.write(`drifted: ${one}\n`)
+  const unresolved = unread.length + orphans.uncertain.length + drifted.length
   if (argv.includes("--remove")) for (const one of orphans.gone) removeSidecars(one)
   if (absent.length === 0 || !argv.includes("--remove")) {
     process.stderr.write(
       `swept ${pages.length} seat page(s): ${pages.length - absent.length - unread.length} present, ${absent.length} absent, ${unread.length} uncertain` +
         `, ${orphans.gone.length} sidecar(s) with no page and ${orphans.uncertain.length} uncertain sidecar(s)` +
+        `, ${drifted.length} the new system cannot answer for` +
         `${absent.length === 0 || argv.includes("--remove") ? "" : " — nothing removed without --remove"}\n`
     )
     return unresolved === 0 ? 0 : 1
