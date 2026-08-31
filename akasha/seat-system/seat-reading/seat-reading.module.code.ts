@@ -12,6 +12,8 @@ const PAGE_TYPE = "seat"
 
 const SEAT_DIR = "akasha/seat-system/seat/seats/"
 
+const SESSION = "claudeCodeSessionUuid"
+
 const STATED: Readonly<Record<string, string>> = {
   id: "id",
   slug: "slug",
@@ -40,11 +42,26 @@ export function seatPathForAgent(agentId: string, root: string = seatRoot()): st
   return held?.path.startsWith(SEAT_DIR) === true ? held.path : null
 }
 
+export function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
+  if (sessionUuid === "") return null
+  for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+    if (!one.path.startsWith(SEAT_DIR)) continue
+    const held: Value | null = valueAt(one.path, root)
+    if (held === null) continue
+    if ((held as Record<string, unknown>)[SESSION] === sessionUuid) return one.path
+  }
+  return null
+}
+
+export function seatPathFor(handle: string, root: string = seatRoot()): string | null {
+  return seatPathForAgent(handle, root) ?? seatPathForSession(handle, root)
+}
+
 export function seatStating(
-  agentId: string,
+  handle: string,
   root: string = seatRoot()
 ): Record<string, unknown> | null {
-  const page = seatPathForAgent(agentId, root)
+  const page = seatPathFor(handle, root)
   if (page === null) return null
   const held: Value | null = valueAt(page, root)
   if (held === null) return null
@@ -56,18 +73,18 @@ export function seatStating(
   return said
 }
 
-export function seatSaying(agentId: string, key: string, root: string = seatRoot()): string {
-  const held = seatStating(agentId, root)?.[key]
+export function seatSaying(handle: string, key: string, root: string = seatRoot()): string {
+  const held = seatStating(handle, root)?.[key]
   if (typeof held === "string") return held
   if (typeof held === "number" && Number.isFinite(held)) return String(held)
   return ""
 }
 
 function said(argv: readonly string[]): string {
-  const [agentId, ...keys] = argv
-  if (agentId === undefined || keys.length === 0) return ""
+  const [handle, ...keys] = argv
+  if (handle === undefined || keys.length === 0) return ""
   const root = seatRoot()
-  const stating = seatStating(agentId, root)
+  const stating = seatStating(handle, root)
   if (stating === null) return keys.map(() => "").join("\n")
   return keys
     .map((key) => {

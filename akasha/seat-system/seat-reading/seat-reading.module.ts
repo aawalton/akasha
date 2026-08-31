@@ -13,6 +13,10 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat is found by the session it answers in where no seat carries the id.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An id the index does not carry is answered with nothing.",
     },
     {
