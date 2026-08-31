@@ -8,10 +8,10 @@ export const packageReachedWhereNamed = {
     "the check refusing a file outside a package that reaches a path its manifest does not name",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnPatch: true,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -76,14 +76,6 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "absence",
       statement: "A tree naming no package is judged clean.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "This runs on no phase.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "What it would refuse can be read against the tree before it binds anyone.",
     },
   ],
 } as const satisfies CodeCheck
