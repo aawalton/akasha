@@ -6,7 +6,7 @@ import type { Target } from "./properties/person-authority-target.text-property.
 
 export type PersonAuthority = Page & {
   personSlug: PersonSlug
-  personAuthorityKind: AuthorityKind
+  authorityKind: AuthorityKind
   personAuthorityTarget: Target
 }
 

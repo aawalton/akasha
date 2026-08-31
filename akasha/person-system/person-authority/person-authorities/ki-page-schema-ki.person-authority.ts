@@ -5,6 +5,6 @@ export const kiPageSchemaKi = {
   pageTypeSlug: "person-authority",
   slug: "ki-page-schema-ki",
   personSlug: "ki",
-  personAuthorityKind: "page-schema",
+  authorityKind: "page-schema",
   personAuthorityTarget: "ki-*",
 } as const satisfies PersonAuthority

@@ -5,6 +5,6 @@ export const jennyFeatureRequestAll = {
   pageTypeSlug: "person-authority",
   slug: "jenny-feature-request-all",
   personSlug: "jenny",
-  personAuthorityKind: "feature-request",
+  authorityKind: "feature-request",
   personAuthorityTarget: "all",
 } as const satisfies PersonAuthority

@@ -5,6 +5,6 @@ export const alanPageDataAll = {
   pageTypeSlug: "person-authority",
   slug: "alan-page-data-all",
   personSlug: "alan",
-  personAuthorityKind: "page-data",
+  authorityKind: "page-data",
   personAuthorityTarget: "all",
 } as const satisfies PersonAuthority
