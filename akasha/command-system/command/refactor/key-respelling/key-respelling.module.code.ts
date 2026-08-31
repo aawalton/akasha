@@ -10,7 +10,7 @@ import {
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import { pageTypesIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyPathAnswered,
+  everyPath,
   schemaOf,
   standingAt,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -126,7 +126,7 @@ export function respellingFor(
   one: Keying,
   textOf: (path: string) => string | null
 ): Made {
-  const roots = everyPathAnswered(root, given).filter(compiled)
+  const roots = everyPath(given).filter(compiled)
   const typing = typingOver(root, roots, readingOf(root, textOf))
   const declared = declaredIn(typing, given, one)
   if (declared.nodes.size === 0) {
