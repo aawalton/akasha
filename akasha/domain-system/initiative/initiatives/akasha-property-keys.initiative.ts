@@ -10,7 +10,12 @@ export const akashaPropertyKeys = {
     {
       invariantKind: "gap",
       statement:
-        "Whatever reads a page's key reads it from the property rather than from the property's slug.",
+        "Whatever matches a page's key to its property reads the pairing from the property rather than working one out from the other.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A reader asks what a page's type carries rather than probing every key it knows against every page.",
     },
   ],
   notes: [
