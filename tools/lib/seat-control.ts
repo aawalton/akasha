@@ -1,4 +1,3 @@
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
@@ -9,16 +8,15 @@ const CLEARED = {
   restartArmedAt: null,
 } as const
 
-// BOTH STORES, THE OLD ONE WINNING KEY BY KEY. A request is cleared by writing null rather than by
-// dropping it, so a null the old store holds must beat whatever akasha still carries; laying the
-// old sidecar over the top does that. What akasha alone holds is a seat whose old page has gone,
-// which used to read as no request at all.
+// AKASHA ALONE. This laid the old sidecar over the top so that a null it held would beat whatever
+// akasha still carried, a request being cleared by writing null rather than by dropping the key.
+//
+// Akasha is written that null too, and `akashaObservedOf` leaves a null out rather than carrying it
+// through — so a cleared request arrives here as a key that is not there instead of a key that is
+// null. Every reader of this asks whether the value is a non-empty string, which an absent key and
+// a null one both fail, so the two say the same thing to everything that asks.
 export function controlOf(agentId: string): Record<string, unknown> | null {
-  const page = seatPageForAgent(agentId)
-  const held = page === null ? null : readUncommitted(page)
-  const also = akashaObservedOf(agentId)
-  if (also === null) return held
-  return held === null ? also : { ...also, ...held }
+  return akashaObservedOf(agentId)
 }
 
 export function requestedActionOf(agentId: string): string | null {

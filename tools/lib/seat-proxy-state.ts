@@ -1,6 +1,5 @@
 import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 import { formatSeatProcKey, parseSeatProcKey, readProcStartTicks } from "./seat-proc-key.ts"
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
 
@@ -14,15 +13,15 @@ export interface OAuthProxyState extends OAuthProxyStateToWrite {
   readonly supervisorPid?: number
 }
 
-// BOTH STORES, THE OLD ONE WINNING KEY BY KEY. A proxy is cleared by writing null rather than by
-// dropping it, so a null the old store holds must beat whatever akasha still carries. What akasha
-// alone holds is a seat whose old page has gone.
+// AKASHA ALONE. This laid the old sidecar over the top so that a null it held would beat whatever
+// akasha still carried, a proxy being cleared by writing null rather than by dropping the key.
+//
+// Akasha is written that null too, and `akashaObservedOf` leaves a null out rather than carrying it
+// through — so a cleared proxy arrives here as a key that is not there instead of a key that is
+// null. Every reader below already treats the two the same: an absent process key and a null one
+// both fail to parse, which is what says there is no proxy.
 function observedOf(agentId: string): Record<string, unknown> | null {
-  const seatName = seatNameForAgent(agentId)
-  const held = seatName === null ? null : readUncommitted(seatPageDestination(seatName))
-  const also = akashaObservedOf(agentId)
-  if (also === null) return held
-  return held === null ? also : { ...also, ...held }
+  return akashaObservedOf(agentId)
 }
 
 export function readProxyState(agentId: string): OAuthProxyState | null {
