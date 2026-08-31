@@ -4,11 +4,10 @@ import {
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { filePropertiesAnswered } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyOfType,
   everyOfTypeAnswered,
-  standingByPath,
+  standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
@@ -121,7 +120,7 @@ function nameReasonsIn(text: string, matching: Matching): readonly string[] {
 }
 
 function manifestNamed(shadow: Shadow): string {
-  const said = filePropertiesAt(shadow.reading).get(MANIFEST)
+  const said = filePropertiesAnswered(shadow.reading).get(MANIFEST)
   if (said === undefined || said === null) throw new Error(NO_MANIFEST)
   return said
 }
@@ -130,7 +129,7 @@ export function packagePagesIn(root: string, shadow: Shadow): readonly string[] 
   const found = new Set(everyOfTypeAnswered(shadow.reading, PACKAGE).map((one) => one.path))
   for (const kind of kindsUnder(root, PACKAGE, shadow.reading, shadow.pageOf)) {
     if (kind === PACKAGE) continue
-    for (const one of everyOfType(shadow.reading, kind)) found.add(one.path)
+    for (const one of everyOfTypeAnswered(shadow.reading, kind)) found.add(one.path)
   }
   return [...found].sort()
 }
@@ -161,7 +160,7 @@ function within(folder: string, path: string): boolean {
 }
 
 export function pageIn(shadow: Shadow): (at: string) => boolean {
-  return (at) => standingByPath(shadow.reading, at).some((one) => one.path === at)
+  return (at) => standingByPathAnswered(shadow.reading, at).some((one) => one.path === at)
 }
 
 export function reasonsIn(

@@ -2,7 +2,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
@@ -33,7 +33,7 @@ export type Rule = {
 
 export function rulesIn(root: string, shadow: Shadow): readonly Rule[] {
   const found: Rule[] = []
-  for (const one of everyOfType(shadow.reading, RULE)) {
+  for (const one of everyOfTypeAnswered(shadow.reading, RULE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)

@@ -1,6 +1,6 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -92,7 +92,7 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
     held.add(slug)
     found.push({ slug, path: one.path, value: one.value })
   }
-  for (const at of everyOfType(shadow.reading, PAGE_TYPE)) {
+  for (const at of everyOfTypeAnswered(shadow.reading, PAGE_TYPE)) {
     const value = shadow.pageOf(at.path)
     const slug = value === null ? null : textAt(value, SLUG)
     if (slug === null || held.has(slug)) continue

@@ -2,7 +2,7 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
-  standingByPath,
+  standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   knownIn,
@@ -99,7 +99,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     if (change.after(path) === null) continue
     const held = propertyNamedIn(change.root, path, under)
     if (held === null) continue
-    const one = standingByPath(shadow.reading, path).find((filed) => filed.path === path)
+    const one = standingByPathAnswered(shadow.reading, path).find((filed) => filed.path === path)
     if (one === undefined) continue
     judge(path, one.id, `${held.pageTypeSlug}/${held.slug}`)
   }
