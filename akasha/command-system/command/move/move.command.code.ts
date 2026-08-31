@@ -279,7 +279,12 @@ function sidedIn(
 function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): readonly string[] {
   const report = sides
     .filter((one) => one.named)
-    .map((one) => `${one.from} ${dry ? "would move to" : "moved to"} ${one.to}`)
+    .map((one) => {
+      const said = `${one.from} ${dry ? "would move to" : "moved to"} ${one.to}`
+      if (one.renaming === null) return said
+      const now = one.renaming.now
+      return `${said}, ${dry ? "renaming" : "renamed"} from the slug \`${one.renaming.was}\` to \`${now}\``
+    })
   const beside = sides.filter((one) => !one.named)
   if (beside.length > 0) {
     const said = beside.map((one) => `${one.from} to ${one.to}`).join(", ")
@@ -289,8 +294,7 @@ function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): read
         : `these stood beside what you named and went with it — ${said}`
     )
   }
-  if (reached.unread !== null) report.push(reached.unread)
-  else if (reached.repointed.length === 0) {
+  if (reached.repointed.length === 0) {
     report.push("no file naming what moved needed repointing")
   } else {
     report.push(
@@ -298,6 +302,7 @@ function carrying(sides: readonly Sided[], reached: Reached, dry: boolean): read
         `${dry ? "would be" : "was"} repointed — ${reached.repointed.join(", ")}`
     )
   }
+  if (reached.unread !== null) report.push(reached.unread)
   if (reached.reaching) report.push(OUTSIDE_INDEX)
   return report
 }

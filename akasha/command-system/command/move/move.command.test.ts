@@ -164,6 +164,7 @@ test("a rename carries the page, restates its slug, and repoints what names it",
   expect(slugStanding(root, "held")).toEqual([])
   expect(slugStanding(root, "renamed")).toEqual([THING_AT])
   expect(namersIn(root, AAAA)).toEqual(NAMERS)
+  expect(told(said)).toContain("renamed from the slug `held` to `renamed`")
 })
 
 test("a page type's slug is not renamed here", () => {
