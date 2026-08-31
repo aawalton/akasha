@@ -1,16 +1,20 @@
 import { akashaSeatValuesOf } from "./seat-akasha-read.ts"
-import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
 import { seatAbove } from "./subagent.ts"
 
-// A seat is read where it stands, and it stands in both systems while the writers write to both.
-// The old page answers first because it is what the fleet writes; akasha answers for a seat whose
-// old page has gone, which is every seat the sweep took. Without that second read a seat that had
-// only stopped read as a seat that had never stated anything, and nothing it declared — its
-// persona, its domain, its role — could be composed back onto a page.
+// WHAT A SEAT STATES IS READ FROM AKASHA AND FROM NOWHERE ELSE. Both stores are still written, and
+// reading the old one first is what this used to do. It stopped because the two had stopped saying
+// the same thing: the old renderer addresses a seat's assignment against a tree the person pages
+// have left, so it answers `alan` where akasha answers `person/alan`, and reading it first served
+// the drifted value to everything downstream.
+//
+// A fallback to the old page is not kept. Akasha answers for every seat standing — checked field by
+// field across the fleet, committed and observed both — and a fallback would go on hiding the next
+// value that only one of them holds, which is the failure this read is meant to make visible.
+//
+// A subagent states nothing of its own and never had a page here, so it is read from the seat it
+// was spawned under, which is found by splitting its id rather than by opening anything.
 function statedOnAPage(agent: string): Record<string, unknown> | null {
-  const own = seatPageForAgent(agent)
-  const held = own === null ? null : frontmatterOf(own)
-  return held ?? akashaSeatValuesOf(agent)
+  return akashaSeatValuesOf(agent)
 }
 
 export function pageValuesOf(agent: string): Record<string, unknown> | null {
