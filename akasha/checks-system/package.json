@@ -1,0 +1,10 @@
+{
+  "name": "@akasha/checks-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./change-walking": "./change-walking/change-walking.module.code.ts",
+    "./checking": "./checking/checking.module.code.ts",
+    "./judging": "./judging/judging.module.code.ts"
+  }
+}

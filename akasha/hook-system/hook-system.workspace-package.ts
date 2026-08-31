@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const hookSystem = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "hook-system",
   definition: "how a tool call is judged",
+  manifest: "json",
   partSlugs: [
     "page-type/agent-hook",
     "module/bun-calls",
@@ -40,4 +41,4 @@ export const hookSystem = {
         "A hook over the ways a shell writes a file samples an open world that is too many to name.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

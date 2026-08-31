@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/readout-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
+    "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+  }
+}

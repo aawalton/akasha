@@ -1,0 +1,13 @@
+{
+  "name": "@akasha/command-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./committing": "./committing/committing.module.code.ts",
+    "./holding": "./holding/holding.module.code.ts",
+    "./reading": "./reading/reading.module.code.ts",
+    "./rooting": "./rooting/rooting.module.code.ts",
+    "./scratching": "./scratching/scratching.module.code.ts",
+    "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts"
+  }
+}

@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const seatSystem = {
   id: "01a04f23-d2da-7b20-a543-142de383ac28",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
+  manifest: "json",
   partSlugs: ["page-type/seat", "module/seat-reading"],
   invariants: [
     {
@@ -58,4 +59,4 @@ export const seatSystem = {
       statement: "A seat outlives the editor showing it and the agent sitting in it.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

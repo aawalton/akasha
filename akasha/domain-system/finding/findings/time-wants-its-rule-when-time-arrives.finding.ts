@@ -4,7 +4,7 @@ export const timeWantsItsRuleWhenTimeArrives = {
   id: "01a05024-9e8c-7321-910f-8c9e4b2f4ebf",
   pageTypeSlug: "finding",
   slug: "time-wants-its-rule-when-time-arrives",
-  domainSlug: "domain/checks-system",
+  domainSlug: "workspace-package/checks-system",
   claim:
     "The old timezone rule would guard nothing in akasha, which holds no calendar arithmetic at all. The pain behind it is real and is live in this repository outside akasha, where calendar code reconciles named zones against all-day boundaries. The rule wants writing when that code moves in, against what it does then, rather than porting now against nothing.",
   evidence:

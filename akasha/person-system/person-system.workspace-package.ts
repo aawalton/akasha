@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const personSystem = {
   id: "01a053e0-6cf6-7ff5-b070-19e936336f59",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "person-system",
   definition: "a human this system reaches, and what serving them takes",
+  manifest: "json",
   partSlugs: [
     "page-type/access-kind",
     "page-type/authority-kind",
@@ -12,4 +13,4 @@ export const personSystem = {
     "page-type/person-access",
     "page-type/person-authority",
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

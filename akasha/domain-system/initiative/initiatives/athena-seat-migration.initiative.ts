@@ -4,7 +4,7 @@ export const athenaSeatMigration = {
   id: "01a0536a-1d25-72cd-a5d8-617864bb7013",
   pageTypeSlug: "initiative",
   slug: "athena-seat-migration",
-  domainSlug: "domain/seat-system",
+  domainSlug: "workspace-package/seat-system",
   personaSlug: "athena",
   parentSlug: "akasha-seats",
   intents: [

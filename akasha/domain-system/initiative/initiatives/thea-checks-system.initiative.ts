@@ -4,7 +4,7 @@ export const theaChecksSystem = {
   id: "01a04e69-e40a-7287-a2e2-2c49c76c0dee",
   pageTypeSlug: "initiative",
   slug: "thea-checks-system",
-  domainSlug: "domain/checks-system",
+  domainSlug: "workspace-package/checks-system",
   personaSlug: "thea",
   intents: [
     { statement: "Every constraint of the pages system is enforced in the types or the checks." },

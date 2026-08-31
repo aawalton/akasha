@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const commandSystem = {
   id: "01a04bdd-596d-7df2-832e-b8571f8bf0c6",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "command-system",
   definition: "what an agent runs by name",
+  manifest: "json",
   partSlugs: [
     "page-type/command",
     "module/calling",
@@ -53,4 +54,4 @@ export const commandSystem = {
       statement: "The fault is the caller's or the data's or the command's.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

@@ -1,0 +1,14 @@
+{
+  "name": "@akasha/code-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./body-text": "./body-text/body-text.module.code.ts",
+    "./code-format": "./code-format/code-format.module.code.ts",
+    "./code-lint": "./code-lint/code-lint.module.code.ts",
+    "./code-rule": "./code-rule/code-rule.module.code.ts",
+    "./code-source": "./code-source/code-source.module.code.ts",
+    "./code-specifier": "./code-specifier/code-specifier.module.code.ts",
+    "./code-tests": "./code-tests/code-tests.module.code.ts"
+  }
+}

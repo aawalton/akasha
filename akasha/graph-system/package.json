@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/graph-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./graph-asking": "./graph-asking/graph-asking.module.code.ts"
+  }
+}

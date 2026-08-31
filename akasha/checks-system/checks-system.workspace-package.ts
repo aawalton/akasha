@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const checksSystem = {
   id: "01a04bc4-7e85-704f-b87e-eac561795185",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "checks-system",
   definition: "how a change is judged against what must be true of it",
+  manifest: "json",
   partSlugs: [
     "page-type/code-check",
     "module/judging",
@@ -67,4 +68,4 @@ export const checksSystem = {
       statement: "Every phase a check states is reached by a caller that runs it.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

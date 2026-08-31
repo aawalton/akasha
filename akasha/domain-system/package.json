@@ -1,0 +1,6 @@
+{
+  "name": "@akasha/domain-system",
+  "private": true,
+  "type": "module",
+  "exports": {}
+}

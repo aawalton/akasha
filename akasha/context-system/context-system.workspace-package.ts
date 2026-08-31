@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const contextSystem = {
   id: "01a04f50-2a7e-7000-a43d-22ce4657c379",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "context-system",
   definition: "what a change requires its writer to have read",
+  manifest: "json",
   partSlugs: [
     "page-type/context-warrant",
     "module/seat-stated",
@@ -33,4 +34,4 @@ export const contextSystem = {
       statement: "No file names them by hand.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

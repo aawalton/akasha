@@ -4,7 +4,7 @@ export const aRuleCannotSeeWhatAFileCompilesTo = {
   id: "01a053eb-5bc5-725b-a09e-1a888cdf89d2",
   pageTypeSlug: "finding",
   slug: "a-rule-cannot-see-what-a-file-compiles-to",
-  domainSlug: "domain/checks-system",
+  domainSlug: "workspace-package/checks-system",
   claim:
     "The tstl property-callback rule is right and cannot land, because a syntax rule is handed a path and a parsed body and neither says what a file compiles to. Over akasha it refuses 32 property signatures across 643 files, every one of them compiled to JavaScript, where the hazard it guards does not arise. It waits on a way for a file to say it compiles to Lua, which is wanted once the tstl addons port in.",
   evidence:

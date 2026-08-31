@@ -1,10 +1,11 @@
-import type { Domain } from "../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const graphSystem = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "graph-system",
   definition: "what follows from the pages, and what each answer rests on",
+  manifest: "json",
   partSlugs: [
     "page-type/graph-node",
     "page-type/graph-edge",
@@ -82,4 +83,4 @@ export const graphSystem = {
       aids: [],
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

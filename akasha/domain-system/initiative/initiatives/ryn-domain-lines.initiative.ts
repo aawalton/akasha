@@ -4,7 +4,7 @@ export const rynDomainLines = {
   id: "01a053a7-4bd2-7a2f-a7e4-d6b7ed099c7a",
   pageTypeSlug: "initiative",
   slug: "ryn-domain-lines",
-  domainSlug: "domain/domain-system",
+  domainSlug: "workspace-package/domain-system",
   personaSlug: "ryn",
   intents: [
     { statement: "A prompt run over a text by hand has its answers counted." },

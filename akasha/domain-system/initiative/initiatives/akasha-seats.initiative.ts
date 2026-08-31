@@ -4,7 +4,7 @@ export const akashaSeats = {
   id: "01a05324-954d-7779-94a2-b303b61ad2f5",
   pageTypeSlug: "initiative",
   slug: "akasha-seats",
-  domainSlug: "domain/seat-system",
+  domainSlug: "workspace-package/seat-system",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
   intents: [

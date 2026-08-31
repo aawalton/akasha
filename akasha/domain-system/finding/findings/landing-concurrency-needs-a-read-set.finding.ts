@@ -4,7 +4,7 @@ export const landingConcurrencyNeedsAReadSet = {
   id: "01a04fc9-9152-7cc7-b6ab-d0ec7eef28db",
   pageTypeSlug: "finding",
   slug: "landing-concurrency-needs-a-read-set",
-  domainSlug: "domain/command-system",
+  domainSlug: "workspace-package/command-system",
   claim:
     "Two akasha landings can only judge at the same time and both land where what each check read is recorded, absences included. Every cheaper rule either serializes the gate, as the lock does, or refuses one of two unrelated landings.",
   evidence:
