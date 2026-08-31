@@ -66,16 +66,4 @@ export const domain = {
       statement: "A domain goes only when it no longer fits the structure.",
     },
   ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Every Changed Line",
-      act: "Show Alan each line you change in a domain's definition, invariants, or directives.",
-      warrant: "The first words are almost never the right words. Fresh eyes see new options.",
-      aids: [
-        "For a mechanical change, show the mechanism.",
-        "You can request a release for wide changes.",
-      ],
-    },
-  ],
 } as const satisfies PageType
