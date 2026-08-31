@@ -8,7 +8,7 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyOfTypeAnswered,
-  everyPath,
+  everyPathAnswered,
   importersOf,
   standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -116,7 +116,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
 }
 
 export function standingFiles(given: string | Reading, change: Change): readonly string[] {
-  const found = new Set<string>(everyPath(given))
+  const found = new Set<string>(everyPathAnswered(change.root, given))
   for (const one of change.changed) {
     if (change.after(one) === null) found.delete(one)
     else found.add(one)
