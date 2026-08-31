@@ -11,6 +11,7 @@ import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { whyRefused } from "../tools/lib/gated-write.ts"
+import { removeBeside } from "../tools/lib/seat-beside.ts"
 import { seatPagePaths, seatPresence, seatsDir } from "../tools/lib/seat-presence-read.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 
@@ -94,7 +95,15 @@ function orphanSidecarPages(): SidecarSweep {
   return { gone, uncertain }
 }
 
+// THE FUNNEL TAKES WHAT IT KNOWS OF, AND THE WALK TAKES THE REST. `removeBeside` is where a seat's
+// observed values go, in both systems; reaching past it left akasha's sidecar standing beside a
+// page this sweep had just taken away, which is how nine of them accrued in one morning.
+//
+// It does not cover everything standing beside a seat: a readings attachment is written outside
+// the funnel and is named by nothing but the walk. So both run, and the walk is second because
+// what the funnel already took is gone by then and `force` passes over it.
 function removeSidecars(pagePath: string): void {
+  removeBeside(pagePath)
   const memory = SEAT_ROOT()
   for (const relPath of sidecarsOf(memory, relPathOf(pagePath))) {
     const at = `${memory}/${relPath}`

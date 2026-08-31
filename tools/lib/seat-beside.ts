@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import {
   dropUncommitted as dropAkasha,
   mergeUncommitted,
+  removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import {
@@ -182,17 +183,28 @@ export function dropBeside(page: string, keys: readonly string[]): void {
   }
 }
 
-// WHAT AKASHA HOLDS OF A STOPPED SEAT IS LEFT STANDING, AND IT IS THE ONLY PLACE A SESSION KEEPS.
-// A seat's page stopped carrying `claude-code-session-uuid` on the 29th, so what a seat was
-// bound to now stands beside its page and nowhere else. This takes the old one, and taking
-// akasha's with it would leave `ops seat resume` — which answers for a seat "live or stopped" —
-// with no session to bring anything back on, which is the failure the whole fleet just sat in.
+// WHAT STANDS BESIDE A PAGE GOES WITH THE PAGE, IN BOTH SYSTEMS. A sidecar outliving its page is
+// what the outage was made of, and akasha states the rule of itself: the gate refuses a file no
+// page claims.
 //
-// So a sidecar does outlive its page here, and akasha states that the gate refuses a file no page
-// claims. The two cannot both hold. What settles it is where a session lives, not this function:
-// while the only copy is beside the page, taking it on a stop is forgetting rather than tidying.
+// This waited on the session moving onto the page. While what a seat was bound to stood beside it
+// and nowhere else, taking akasha's sidecar was forgetting rather than tidying — it would have
+// left a swept seat with nothing to come back on. Committed, the session outlives both sidecars,
+// and everything still standing beside a seat can be observed again by watching it for a few
+// seconds. So there is nothing left here worth keeping past the page.
+//
+// The seat is named rather than the page looked up, so this does not turn on whether the akasha
+// page has already gone. Its callers take the pages away in opposite orders.
 export function removeBeside(page: string): void {
   removeUncommitted(page)
+  try {
+    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(pageStemOf(page)))
+  } catch (thrown) {
+    process.stderr.write(
+      `what was observed of ${pageStemOf(page)} is gone, and what was observed of it in akasha stands: ` +
+        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
+    )
+  }
 }
 
 export const besideForTests = { carriedFrom }
