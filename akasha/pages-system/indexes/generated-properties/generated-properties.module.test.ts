@@ -6,7 +6,11 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 import { shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
 import { indexIn } from "../index-surface/index-surface.module.code.ts"
-import { generatedProperties, waitingProperties } from "./generated-properties.module.code.ts"
+import {
+  generatedProperties,
+  waitingKeys,
+  waitingProperties,
+} from "./generated-properties.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -56,13 +60,18 @@ function typed(root: string, slug: string, declares: readonly string[]): undefin
   filed(root, `identity/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
-function named(root: string, slug: string, unique: string | null = null): undefined {
+function named(
+  root: string,
+  slug: string,
+  unique: string | null = null,
+  propertySlug: string = slug
+): undefined {
   filed(root, `schema/page-property/${SHAPE}/slug/${slug}.jsonl`, {
     pageTypeSlug: SHAPE,
     targetPageTypeSlug: null,
     unique,
     slug,
-    propertySlug: slug,
+    propertySlug,
   })
 }
 
@@ -195,6 +204,7 @@ test("a generated property carries the kind that works it out", () => {
   standing(root, "held", ', generator: "uuid-v7"')
 
   expect(generatedProperties(shadowAt(root)).get("held")).toEqual({
+    key: "held",
     kind: "uuid-v7",
     afterChecks: false,
   })
@@ -217,4 +227,21 @@ test("a generator naming a kind that stands nowhere is refused rather than guess
   standing(root, "held", ', generator: "no-such-kind"')
 
   expect(() => generatedProperties(shadowAt(root))).toThrow("no `generator-kind` carries that slug")
+})
+
+test("a generated property is read by the key its property states rather than by its slug", () => {
+  const root = rooted()
+  named(root, "held", null, "read-by")
+  standing(root, "held", ', generator: "uuid-v7"')
+
+  expect(generatedProperties(shadowAt(root)).get("held")?.key).toBe("readBy")
+})
+
+test("what waits for the checks is named by its key where a reader asks for keys", () => {
+  const root = rooted()
+  named(root, "held", null, "read-by")
+  standing(root, "held", ', generator: "waiting"')
+
+  expect([...waitingProperties(shadowAt(root))]).toEqual(["held"])
+  expect([...waitingKeys(shadowAt(root))]).toEqual(["readBy"])
 })

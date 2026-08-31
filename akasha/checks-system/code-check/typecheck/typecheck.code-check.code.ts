@@ -11,10 +11,9 @@ import {
 import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
+import { waitingKeys } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -105,7 +104,7 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   const roots = rootsOf(change, shadow.reading)
   if (roots.length === 0) return []
   const root = resolve(change.root)
-  const keys = [...waitingProperties(shadow)].map(exportedAs)
+  const keys = [...waitingKeys(shadow)]
   const read = bodiesOf(change, mintingIn(change, keys, shadow.reading))
   const program = programOver(root, roots, read)
   const held = new Map<string, ts.SourceFile>()

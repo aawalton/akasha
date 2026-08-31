@@ -35,6 +35,19 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "A property carries the key it is read by alongside the slug it is reached by.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That key is read from what the property states rather than camelised from a slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader asking for slugs and one asking for keys are answered separately.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a value waits for the checks is read from the generator kind's own page.",
     },
     {

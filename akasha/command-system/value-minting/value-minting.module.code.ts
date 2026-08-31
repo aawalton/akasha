@@ -1,11 +1,11 @@
 import ts from "typescript"
 import { parsedAs } from "../../code-system/code-source/code-source.module.code.ts"
+import type { Generated } from "../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { generatedProperties } from "../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import {
   loadedFrom,
   pageTypesIn,
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
@@ -82,15 +82,18 @@ export function mintedFor(kind: string, slug: string): string {
   )
 }
 
-export function earlyOf(shadow: Shadow): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
+export function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
+  const found = new Map<string, Generated>()
   for (const [slug, one] of generatedProperties(shadow)) {
-    if (!one.afterChecks) found.set(slug, one.kind)
+    if (!one.afterChecks) found.set(slug, one)
   }
   return found
 }
 
-export function earlyIn(root: string, changes: readonly FileEdit[]): ReadonlyMap<string, string> {
+export function earlyIn(
+  root: string,
+  changes: readonly FileEdit[]
+): ReadonlyMap<string, Generated> {
   const cast = shadowFor(changeOf(root, { base: baseOf(root), edits: changes }))
   if ("refused" in cast) return new Map()
   return earlyOf(cast.shadow)
@@ -123,13 +126,12 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
       continue
     }
     const keys: string[] = []
-    for (const [slug, kind] of early) {
-      const key = exportedAs(slug)
-      if (value[key] !== undefined) continue
-      const next = insertedInto(one.path, text, key, mintedFor(kind, slug))
+    for (const [slug, said] of early) {
+      if (value[said.key] !== undefined) continue
+      const next = insertedInto(one.path, text, said.key, mintedFor(said.kind, slug))
       if (next === null) continue
       text = next
-      keys.push(key)
+      keys.push(said.key)
     }
     if (keys.length === 0) {
       held.push(one)

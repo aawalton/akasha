@@ -1,3 +1,4 @@
+import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import type { Shadow } from "../../shadow/shadow.module.code.ts"
 import { schemaAt, slugOf, textAt } from "../index-entries/index-entries.module.code.ts"
 import { standingAt } from "../index-reading/index-reading.module.code.ts"
@@ -9,6 +10,7 @@ const GENERATOR_KIND = "generator-kind"
 const AFTER_CHECKS = "afterChecks"
 
 export type Generated = {
+  readonly key: string
   readonly kind: string
   readonly afterChecks: boolean
 }
@@ -32,7 +34,11 @@ export function generatedProperties(shadow: Shadow): ReadonlyMap<string, Generat
       const said = textAt(value, GENERATOR)
       if (said === null) continue
       const kind = slugOf(said)
-      found.set(held.slug, { kind, afterChecks: waitsFor(shadow, kind) })
+      found.set(held.slug, {
+        key: exportedAs(held.propertySlug),
+        kind,
+        afterChecks: waitsFor(shadow, kind),
+      })
     }
   }
   return new Map([...found].sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0)))
@@ -42,6 +48,14 @@ export function waitingProperties(shadow: Shadow): ReadonlySet<string> {
   const found: string[] = []
   for (const [slug, held] of generatedProperties(shadow)) {
     if (held.afterChecks) found.push(slug)
+  }
+  return new Set(found)
+}
+
+export function waitingKeys(shadow: Shadow): ReadonlySet<string> {
+  const found: string[] = []
+  for (const held of generatedProperties(shadow).values()) {
+    if (held.afterChecks) found.push(held.key)
   }
   return new Set(found)
 }

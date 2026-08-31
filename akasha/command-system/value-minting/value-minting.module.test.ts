@@ -150,7 +150,9 @@ test("a property worked out after the checks is not worked out here", () => {
 
 test("a page being created is given the value it does not carry", () => {
   const root = rooted("uuid-v7")
-  expect([...earlyIn(root, [carrying(BODY)])]).toEqual([["id", "uuid-v7"]])
+  expect([...earlyIn(root, [carrying(BODY)])]).toEqual([
+    ["id", { key: "id", kind: "uuid-v7", afterChecks: false }],
+  ])
   const said = mintingOnto(root, [carrying(BODY)])
   expect(said.filled).toEqual([{ path: AT, keys: ["id"] }])
   expect(textOf(said.changes)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
