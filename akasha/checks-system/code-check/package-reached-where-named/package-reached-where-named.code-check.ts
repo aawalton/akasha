@@ -5,7 +5,7 @@ export const packageReachedWhereNamed = {
   pageTypeSlug: "code-check",
   slug: "package-reached-where-named",
   definition:
-    "the check refusing a file outside a package that reaches a path its manifest does not name",
+    "the check holding a package to the name its manifest states and the ways in it names",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -47,7 +47,7 @@ export const packageReachedWhereNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A package declaring no interface is not enforced.",
+      statement: "A package declaring no interface is not enforced against what reaches it.",
     },
     {
       invariantKind: "departure",
@@ -64,6 +64,18 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement: "A package whose manifest calls it nothing is named by its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package name is judged where the change carries its manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each part of a package name past the at sign is judged in `lower-kebab-case`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest stating no name states no package name.",
     },
     {
       invariantKind: "departure",

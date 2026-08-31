@@ -1,5 +1,15 @@
 import { expect, test } from "bun:test"
-import { namingIn, type Package, reasonsIn } from "./package-reached-where-named.code-check.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
+import {
+  nameIn,
+  namingIn,
+  type Package,
+  partsIn,
+  reasonsIn,
+  refusalOf,
+} from "./package-reached-where-named.code-check.code.ts"
 
 const FOLDER = "akasha/pages-system/indexes"
 
@@ -21,6 +31,10 @@ const AT_SURFACE = "../indexes/index-surface/index-surface.module.code.ts"
 
 const AT_PAGE = "../indexes/index/index-import/index-import.index.ts"
 
+const REPO_AT = rootOf(import.meta.dir)
+
+const KEBAB = matchingIn(REPO_AT)(lowerKebabCase.slug)
+
 const MANIFEST = JSON.stringify({
   name: "@akasha/indexes",
   exports: {
@@ -40,6 +54,10 @@ function onlyThePage(at: string): boolean {
 function declaring(text: string): readonly Package[] {
   const said = namingIn(FOLDER, text)
   return said === null ? [] : [said]
+}
+
+function refusing(named: string): string {
+  return refusalOf(named, KEBAB) ?? ""
 }
 
 const NAMED = declaring(MANIFEST)
@@ -153,4 +171,45 @@ test("a specifier naming the package rather than a path is the way in", () => {
   expect(
     reasonsIn(NAMED, OUTSIDE, 'import { readingIn } from "@akasha/indexes"\n', nothingIsAPage)
   ).toEqual([])
+})
+
+test("the at sign is the registry's mark, so the scope is judged as the bare name past it", () => {
+  expect(partsIn("@akasha/indexes")).toEqual(["akasha", "indexes"])
+  expect(refusing("@akasha/indexes")).toBe("")
+  expect(refusing("@alanwalton/native-shell")).toBe("")
+})
+
+test("a name carrying no scope is one slug", () => {
+  expect(partsIn("indexes")).toEqual(["indexes"])
+  expect(refusing("indexes")).toBe("")
+})
+
+test("a scope not written in lower kebab is refused, naming the part and the format", () => {
+  const said = refusing("@Akasha/indexes")
+  expect(said).toContain("`Akasha`")
+  expect(said).toContain(lowerKebabCase.slug)
+})
+
+test("a slug not written in lower kebab is refused", () => {
+  expect(refusing("@akasha/Indexes")).toContain("`Indexes`")
+})
+
+test("a name parted by a slash and opening with no at sign is no package name", () => {
+  expect(partsIn("akasha/indexes")).toBe(null)
+  expect(refusing("akasha/indexes")).toContain("indexes")
+})
+
+test("a name parted by more than one slash is no package name", () => {
+  expect(partsIn("@akasha/indexes/deep")).toBe(null)
+})
+
+test("a scope carrying nothing past the at sign is refused", () => {
+  expect(partsIn("@/indexes")).toEqual(["", "indexes"])
+  expect(refusing("@/indexes")).toContain(lowerKebabCase.slug)
+})
+
+test("a manifest stating no name states no package name", () => {
+  expect(nameIn(JSON.stringify({ exports: {} }))).toBe(null)
+  expect(nameIn("{ this is not json\n")).toBe(null)
+  expect(nameIn(JSON.stringify({ name: "@akasha/indexes" }))).toBe("@akasha/indexes")
 })
