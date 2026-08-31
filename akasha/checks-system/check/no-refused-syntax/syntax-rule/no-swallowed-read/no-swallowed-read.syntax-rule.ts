@@ -21,7 +21,16 @@ export const noSwallowedRead = {
     {
       invariantKind: "departure",
       statement:
-        "A body is read by `readFileSync` and its kin or by `Bun.file` or by a decoder or by a binding taken from `createRequire`.",
+        "A body is read by `readFileSync` and its kin or by `Bun.file` or by a binding taken from `createRequire`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A decode is no read.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body that will not decode is a fact about that body rather than a failure to reach it.",
     },
     {
       invariantKind: "departure",
