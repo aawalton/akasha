@@ -152,7 +152,7 @@ export function importingOf(root: string, moved: ReadonlyMap<string, string>): R
   return { importers: [...found].sort() }
 }
 
-function spellingOf(
+export function spellingOf(
   root: string,
   stood: string,
   moved: ReadonlyMap<string, string>,
