@@ -202,7 +202,7 @@ test("an index holding no id directory cannot say which pages are checks, and is
 test("an id directory standing but carrying no check page type answers as absent rather than as missing", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   idTakenFrom(root, CHECK_TYPE)
-  expect(() => checkPagesIn(root)).toThrow("nothing says which pages are checks")
+  expect(() => checkPagesIn(root)).toThrow("no page carries the id")
   expect(() => checkPagesIn(root)).not.toThrow("is not an index naming none")
 })
 
