@@ -8,7 +8,7 @@ export const refactor = {
   code: "ts",
   test: "ts",
   mechanical: true,
-  partSlugs: ["module/type-renaming"],
+  partSlugs: ["module/type-renaming", "module/type-respelling"],
   taking: [
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
     { said: "--from <slug>", takes: "the slug a page type carries now" },
