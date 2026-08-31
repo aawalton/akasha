@@ -60,7 +60,7 @@ STATED=""
 while IFS= read -r HELD; do
   if [ -z "$HELD" ]; then continue; fi
   STATED="${STATED:+$STATED }$HELD"
-done < <("$BUN_BIN" "$SEAT_READER" "${AGENT_ID:-}" "${SEAT_KEYS[@]}" 2>/dev/null || true)
+done < <("$BUN_BIN" "$SEAT_READER" "${AGENT_ID:-$SESSION_ID}" "${SEAT_KEYS[@]}" 2>/dev/null || true)
 
 LINE="[$AGENT_COUNT]"
 if [ -n "$MODEL_DISPLAY" ]; then LINE="$LINE $MODEL_DISPLAY"; fi
