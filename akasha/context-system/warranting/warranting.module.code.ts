@@ -1,10 +1,16 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { blobIdOf, readingIn, sameBody } from "../../command-system/reading/reading.module.code.ts"
+import {
+  blobIdOf,
+  readingIn,
+  SUBAGENT_MARK,
+  sameBody,
+} from "../../command-system/reading/reading.module.code.ts"
 import {
   everyOfType,
   slugsOfType,
+  standingAt,
   standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -13,6 +19,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { standingAbove } from "../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+import { slugOf } from "../../seat-system/subagent/subagent-standing/subagent-standing.module.code.ts"
 
 const READ_CALL = "akasha read --file-path"
 
@@ -29,6 +36,8 @@ const PAGE_TYPE = "page-type"
 const WARRANT = "context-warrant"
 
 const SEAT = "seat"
+
+const SUBAGENT = "subagent"
 
 const CODE = "code"
 
@@ -282,13 +291,30 @@ export function seatPathOf(root: string, agentId: string): string | null {
   return said !== null && said.tail === SEAT ? standing.path : null
 }
 
+export function subagentPathOf(root: string, agentId: string): string | null {
+  const at = agentId.indexOf(SUBAGENT_MARK)
+  if (at <= 0) return null
+  const own = agentId.slice(at + SUBAGENT_MARK.length)
+  if (own === "") return null
+  const seat = seatPathOf(root, agentId.slice(0, at))
+  if (seat === null) return null
+  const said = namedIn(seat)
+  if (said === null) return null
+  const standing = standingAt(root, SUBAGENT, slugOf(said.stem, own))[0]
+  return standing === undefined ? null : standing.path
+}
+
+export function agentPathOf(root: string, agentId: string): string | null {
+  return seatPathOf(root, agentId) ?? subagentPathOf(root, agentId)
+}
+
 export function unheldIn(root: string, agentId: string | null): readonly string[] {
   if (agentId === null) return []
-  const seat = seatPathOf(root, agentId)
-  if (seat === null) return []
+  const page = agentPathOf(root, agentId)
+  if (page === null) return []
   const said: string[] = []
-  const asked = new Set<string>([seat])
-  for (const warrant of warrantsIn(root, seat, "write", knowingIn(root))) {
+  const asked = new Set<string>([page])
+  for (const warrant of warrantsIn(root, page, "write", knowingIn(root))) {
     if (asked.has(warrant.path)) continue
     asked.add(warrant.path)
     const held = readingIn(root, agentId, warrant.path)

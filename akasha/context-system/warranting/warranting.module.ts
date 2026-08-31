@@ -72,11 +72,20 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat owes what its own page names rather than the page itself.",
+      statement: "An agent owes what its own page names rather than the page itself.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent sitting at no seat owes nothing of one.",
+      statement:
+        "The page a subagent owes from is the one standing at its seat's name and the id it runs under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent owes what its own page names rather than what its seat's does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent standing at no page owes nothing of one.",
     },
     {
       invariantKind: "gap",

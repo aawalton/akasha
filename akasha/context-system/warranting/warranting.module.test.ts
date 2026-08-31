@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import {
   blobIdOf,
@@ -8,26 +7,32 @@ import {
 } from "../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
-import { indexed } from "../warrant-scratch/warrant-scratch.module.code.ts"
 import {
+  agentPathOf,
   gatheredIn,
   NO_AGENT,
   seatPathOf,
+  subagentPathOf,
   unheldIn,
   unreadIn,
   warrantedIn,
   warrantsIn,
 } from "./warranting.module.code.ts"
-import { SEEDED_AT } from "./warranting.module.test-fixtures.ts"
+import {
+  chainOf,
+  OWED,
+  type Said,
+  SEAT_AT,
+  SEEDED_AT,
+  SUB_AT,
+  seated,
+  subaged,
+  warrantingStated,
+} from "./warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
-
-const CONTEXT_WARRANT = "context-warrant"
 
 const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -37,71 +42,9 @@ const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
 
 const PATH = "akasha/thing/thing.module.ts"
 
-const OWED = "a reading this test says is owed"
-
-const MODULE_AT = join(import.meta.dir, "warranting.module.code.ts")
-
-type Said = {
-  readonly slug: string
-  readonly runsOnRead?: boolean
-  readonly runsOnWrite?: boolean
-  readonly transitive?: boolean
-  readonly page?: string
-  readonly code?: string
-}
-
-function pageFor(one: Said, id: string): string {
-  return [
-    `export const ${exportedAs(one.slug)} = {`,
-    `  id: "${id}",`,
-    `  pageTypeSlug: "context-warrant",`,
-    `  slug: "${one.slug}",`,
-    `  code: "ts",`,
-    `  test: "ts",`,
-    `  runsOnRead: ${one.runsOnRead ?? true},`,
-    `  runsOnWrite: ${one.runsOnWrite ?? true},`,
-    `  transitive: ${one.transitive ?? false},`,
-    `}`,
-    "",
-  ].join("\n")
-}
-
-function chainOf(said: Record<string, readonly string[]>): string {
-  return [
-    "export function chain(root, path) {",
-    `  const said = ${JSON.stringify(said)}`,
-    '  return (said[path] ?? []).map((one) => ({ path: one, oid: "oid", owed: "owed" }))',
-    "}",
-    "",
-  ].join("\n")
-}
-
-function codeFor(one: Said): string {
-  return [
-    `import { standingOf } from ${JSON.stringify(MODULE_AT)}`,
-    "",
-    `export function ${exportedAs(one.slug)}(root, path) {`,
-    "  const oid = standingOf(root, path)",
-    `  return oid === null ? [] : [{ path, oid, owed: ${JSON.stringify(OWED)} }]`,
-    "}",
-    "",
-  ].join("\n")
-}
-
-function warranting(root: string, every: readonly Said[]): undefined {
-  mkdirSync(join(root, SEEDED_AT), { recursive: true })
-  for (const one of every) {
-    const id = mintedId(one.slug)
-    const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
-    standing(root, at, one.page ?? pageFor(one, id))
-    standing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? codeFor(one))
-    standingFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
-  }
-}
-
 function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
   const root = scratch.rootFor("akasha-warranting-")
-  warranting(root, every)
+  warrantingStated(root, every)
   return root
 }
 
@@ -342,12 +285,6 @@ test("a root carrying no warrant hands back the paths handed in", () => {
   expect(warrantedIn(root, [A, B])).toEqual([A, B])
 })
 
-const SEAT_AT = "akasha/seat-system/seat/seats/one.seat.ts"
-
-function seated(root: string, id: string, path: string): undefined {
-  indexed(root, `identity/page/id/${id}.jsonl`, JSON.stringify({ path, id }))
-}
-
 test("the page a seat owes from is the one standing at its id", () => {
   const root = rootWith()
   seated(root, AGENT, SEAT_AT)
@@ -366,10 +303,52 @@ test("an id standing at no page is no seat", () => {
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
-test("an agent sitting at no seat owes nothing of one", () => {
+test("an agent standing at no page owes nothing of one", () => {
   const root = rootWith()
   seated(root, OTHER, SEAT_AT)
   expect(unheldIn(root, AGENT)).toEqual([])
+})
+
+test("the page a subagent owes from stands at its seat's name and the id it runs under", () => {
+  const root = rootWith()
+  seated(root, AGENT, SEAT_AT)
+  subaged(root, "one-suba", SUB_AT)
+  expect(subagentPathOf(root, UNDER)).toBe(SUB_AT)
+  expect(agentPathOf(root, UNDER)).toBe(SUB_AT)
+})
+
+test("a subagent whose seat stands at no page stands at none", () => {
+  const root = rootWith()
+  subaged(root, "one-suba", SUB_AT)
+  expect(subagentPathOf(root, UNDER)).toBe(null)
+})
+
+test("a subagent the index carries no page for stands at none", () => {
+  const root = rootWith()
+  seated(root, AGENT, SEAT_AT)
+  expect(subagentPathOf(root, UNDER)).toBe(null)
+})
+
+test("an id carrying no mark names no subagent", () => {
+  const root = rootWith()
+  seated(root, AGENT, SEAT_AT)
+  subaged(root, "one-suba", SUB_AT)
+  expect(subagentPathOf(root, AGENT)).toBe(null)
+})
+
+test("a subagent owes what its own page names rather than what its seat's does", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X], [SUB_AT]: [Y] }) }])
+  seated(root, AGENT, SEAT_AT)
+  subaged(root, "one-suba", SUB_AT)
+  const said = unheldIn(root, UNDER)
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain(Y)
+})
+
+test("a subagent standing at no page owes nothing", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  seated(root, AGENT, SEAT_AT)
+  expect(unheldIn(root, UNDER)).toEqual([])
 })
 
 test("a seat owes what its page names", () => {
