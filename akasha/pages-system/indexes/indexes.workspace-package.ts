@@ -1,10 +1,11 @@
-import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
 
 export const indexes = {
   id: "01a04a4a-23e9-7114-90a5-11acf49a937d",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "indexes",
   definition: "the indexes the pages are read through, each answering one question of the corpus",
+  manifest: "json",
   partSlugs: [
     "index/index-identity",
     "index/index-relation",
@@ -100,4 +101,4 @@ export const indexes = {
       statement: "Only what imports a file is refused when the index does not describe HEAD.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

@@ -4,7 +4,7 @@ export const astraIndexBoundary = {
   id: "01a05373-78ba-772e-be45-8404f3cfda5f",
   pageTypeSlug: "initiative",
   slug: "astra-index-boundary",
-  domainSlug: "domain/indexes",
+  domainSlug: "workspace-package/indexes",
   personaSlug: "astra",
   intents: [
     {

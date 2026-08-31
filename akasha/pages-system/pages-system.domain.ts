@@ -24,7 +24,7 @@ export const pagesSystem = {
     "page-type/name-place",
     "page-type/generator-kind",
     "page-type/unique-kind",
-    "domain/indexes",
+    "workspace-package/indexes",
     "domain/naming",
     "module/change",
     "module/page-address",
