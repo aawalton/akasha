@@ -56,10 +56,6 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A page whose page type declares no identifier is refused rather than filed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page carrying an identifier another page already carries does not land.",
     },
   ],

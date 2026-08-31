@@ -77,14 +77,6 @@ test("an identifier held as a number is filed under the text of that number", ()
   ])
 })
 
-test("a page whose type declares no identifier is refused rather than filed nowhere", () => {
-  const value = { id: A, pageTypeSlug: "nowhere", slug: "a" }
-
-  expect(() => identityIn(value, "/repo/a.nowhere.ts", "/repo", UNIQUE)).toThrow(
-    "no identifier is declared by the page type `nowhere`"
-  )
-})
-
 test("only the identifiers named are filed where a set narrows them", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`

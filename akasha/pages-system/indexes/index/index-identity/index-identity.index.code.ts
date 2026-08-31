@@ -16,8 +16,6 @@ const ALWAYS = "always"
 
 const PAGE = "page"
 
-const NOTHING_NAMES = "no identifier is declared by the page type"
-
 export type Filed = {
   readonly scope: string
   readonly propertySlug: string
@@ -33,10 +31,8 @@ export function filedIn(
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
-  const naming = identifying(pageTypeSlug)
-  if (naming.size === 0) throw new Error(`${NOTHING_NAMES} \`${pageTypeSlug}\``)
   const held: Filed[] = []
-  for (const [propertySlug, one] of naming) {
+  for (const [propertySlug, one] of identifying(pageTypeSlug)) {
     if (only !== null && !only.has(propertySlug)) continue
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
