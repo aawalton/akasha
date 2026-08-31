@@ -34,6 +34,7 @@ import type { Renaming } from "./move-renaming/move-renaming.module.code.ts"
 import {
   addressingOver,
   besideRenamed,
+  rebound,
   renamingFor,
   respelled,
   restated,
@@ -268,7 +269,7 @@ function sidedIn(
         to: there,
         named: false,
         committed: !uncommittedNamed(held),
-        renaming: null,
+        renaming,
       })
     }
   }
@@ -326,7 +327,9 @@ export function move(argv: readonly string[], given: Given): Answer {
     const bytes = bodyAt(root, stood, path)
     return bytes === null ? null : textOf(bytes)
   }
-  const renamings = sided.sides.flatMap((one) => (one.renaming === null ? [] : [one.renaming]))
+  const renamings = sided.sides.flatMap((one) =>
+    one.renaming === null || !one.named ? [] : [one.renaming]
+  )
   const addressing = addressingOver(root, renamings, bodyText)
   const changes: FileEdit[] = []
   const carries: Carry[] = []
@@ -363,7 +366,10 @@ export function move(argv: readonly string[], given: Given): Answer {
     const said = repointed(one.from, one.to, text, moved)
     let next = respelled(one.to, said, addressing.get(one.from) ?? NOTHING_SAID)
     const renaming = one.renaming
-    if (renaming !== null) {
+    if (renaming !== null && !one.named) {
+      next = rebound(one.to, next, renaming.was, renaming.now)
+    }
+    if (renaming !== null && one.named) {
       const now = restated(one.to, next, renaming.now)
       if (now === null) {
         return answering(

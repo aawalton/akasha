@@ -25,6 +25,7 @@ export const move = {
     "what addresses a renamed page by its slug is repointed in the same commit.",
     "the files standing beside what you name go with it.",
     "the files naming what moves are repointed in the same commit.",
+    "a value beside a renamed page named for its old slug is renamed with it.",
     "a path is read against the repository root, wherever the call was made.",
   ],
   invariants: [
