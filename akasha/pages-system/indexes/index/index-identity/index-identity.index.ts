@@ -48,6 +48,10 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type no page is filed under has no directory.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No two pages carry one id.",
     },
     {

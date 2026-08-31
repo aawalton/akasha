@@ -250,11 +250,11 @@ test("a check page stating no phase a runner can honour is refused", () => {
   expect(() => checksIn(root)).toThrow("states no phase")
 })
 
-test("an index holding no check directory cannot answer, and is not read as naming none", () => {
+test("an index holding no check directory names no check, and refuses what it would leave unjudged", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   identitiesTakenFrom(root, CHECK)
-  expect(() => checkPagesIn(root)).toThrow("could not be answered")
-  expect(() => checksIn(root)).toThrow("identity/code-check/slug")
+  expect(checkPagesIn(root)).toEqual([])
+  expect(() => checksIn(root)).toThrow("the index names no check")
 })
 
 test("an index holding no id directory cannot say which pages are checks, and is not read as naming none", () => {

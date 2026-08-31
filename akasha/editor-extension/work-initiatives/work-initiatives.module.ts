@@ -15,7 +15,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An index filing initiatives nowhere refuses rather than drawing none.",
+      statement: "An index filing no initiative draws none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot say what an initiative is refuses rather than drawing none.",
     },
     {
       invariantKind: "departure",

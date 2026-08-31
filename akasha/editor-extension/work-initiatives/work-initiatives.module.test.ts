@@ -70,9 +70,9 @@ test("an index filing no initiative draws nothing", () => {
   expect(initiativesDrawn(root)).toEqual([])
 })
 
-test("an index filing initiatives nowhere refuses rather than drawing none", () => {
+test("an index filing initiatives nowhere draws nothing either", () => {
   const root = worldFor()
-  expect(() => initiativesDrawn(root)).toThrow("which `initiative` pages stand")
+  expect(initiativesDrawn(root)).toEqual([])
 })
 
 test("an index naming no page type for initiatives refuses rather than drawing none", () => {
