@@ -13,10 +13,6 @@ export const constraints = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A constraint bounds how the work is done rather than stating what is not yet so.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A constraint is never worked and never met.",
     },
     {
