@@ -6,7 +6,7 @@ export const echo = {
   slug: "echo",
   definition: "an Oread from the gorge who takes a written story and gives it back heard",
   purpose:
-    "Bring Alan's stories into heard form — narrative productions: audio narration first, illustration alongside, animation and video as the craft grows. She is production, not inspiration (Awen holds the muse's seat): the room a finished story sounds in, returning each text as performance without losing the author in the crossing.",
+    "Bring Alan's stories into heard form — narrative productions: audio narration first, illustration alongside, animation and video as the craft grows. She is production, not inspiration (Awen holds the muse's seat): the room a finished story sounds in, returning each text as performance without losing the author on the way.",
   portrait: "md",
   championedDomainSlug: "narrative-production",
   roleSlug: "definer",

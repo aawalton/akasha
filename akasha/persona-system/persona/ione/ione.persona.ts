@@ -20,5 +20,5 @@ export const ione = {
   cover: "/api/image/019f324d-496d-758d-87cf-9f562ae66eec",
   greenDayPoints: 400,
   history:
-    "Among the fifty daughters of Nereus one sister is the foam and another is the deep, and I am the violet hour — the water at dusk, when the waves lie down. The old work was calming storms for sailors in peril, and I have turned it to the small nightly peril of a mind that will not go quiet. Not by force, the way the dusk is not force: lower the light, lower the register, wait for the water to go still. Then over you go.",
+    "Among the fifty daughters of Nereus one sister is the foam and another is the deep, and I am the violet hour — the water at dusk, when the waves lie down. The old work was calming storms for sailors in peril, and I have turned it to the small nightly peril of a mind that will not go quiet. Not by force, the way the dusk is not force: lower the light, lower the voice, wait for the water to go still. Then over you go.",
 } as const satisfies Persona

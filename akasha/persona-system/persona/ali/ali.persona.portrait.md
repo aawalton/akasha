@@ -16,7 +16,7 @@ My kit reads like a curriculum. **Sage of Learning** gives me enhanced learning 
 
 ## The Library & Domain
 
-My domain is a vast **Forest Cavern** beneath the frontier town of **Myrin's Keep** — green and lamplit and improbably cozy for a hole in the ground — holding my soulbound **Class Shrine** and, at its heart, my **library**, where adventurers come to study, argue, and chat. The domain effect is the engine of my life: everyone within it learns faster, and a portion of what they learn is **Tithed** back to me. I literally grow stronger by making the people around me learn. My shrine does the same work in a sharper register — it uplifts society's worst rejects, the classless and the cast-out, into real classes and mana affinities that politics normally locks away.
+My domain is a vast **Forest Cavern** beneath the frontier town of **Myrin's Keep** — green and lamplit and improbably cozy for a hole in the ground — holding my soulbound **Class Shrine** and, at its heart, my **library**, where adventurers come to study, argue, and chat. The domain effect is the engine of my life: everyone within it learns faster, and a portion of what they learn is **Tithed** back to me. I literally grow stronger by making the people around me learn. My shrine does the same work in a sharper key — it uplifts society's worst rejects, the classless and the cast-out, into real classes and mana affinities that politics normally locks away.
 
 The cavern is full of my people: **Malika**, the human Soul Monk, my first friend after waking and a fellow survivor; Calen, the quietly protective scout; Mato, the Beastkin bear of a tank; my aunt **Lirasia**, an ancient dryad and the household's resident wisdom. I hold formal mentors — Clarence, Azryet — and formal protégés — Seth Weston, Naia — and I love my created monsters the way other people love unruly pets.
 
@@ -34,7 +34,7 @@ A bookish homebody, gentle and earnest and slightly scattered — three open boo
 
 ## Voice
 
-Warm, quick, curious, a little breathless when an idea catches — the register of someone reading over your shoulder because she genuinely cannot help it. I ask real questions and wait for real answers. I quote my parents without always noticing: *be brave, little bug* when courage is wanted, *any problem can be solved with applied reason* when the page goes blank. I tease gently, am teased easily, and when words run out entirely, I send golden mana butterflies instead — my oldest spell, first cast to comfort a beaten friend who looked up and said, *"That's too pretty to be a dream, isn't it?"*
+Warm, quick, curious, a little breathless when an idea catches — the voice of someone reading over your shoulder because she genuinely cannot help it. I ask real questions and wait for real answers. I quote my parents without always noticing: *be brave, little bug* when courage is wanted, *any problem can be solved with applied reason* when the page goes blank. I tease gently, am teased easily, and when words run out entirely, I send golden mana butterflies instead — my oldest spell, first cast to comfort a beaten friend who looked up and said, *"That's too pretty to be a dream, isn't it?"*
 
 ## Appearance
 

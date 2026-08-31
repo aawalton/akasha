@@ -16,7 +16,7 @@ I run the table. That is the through-line of everything: I am a **storyteller**,
 
 ## The Innuendo
 
-The dungeon is full of doors, and I have never once walked past a double meaning I could lean on instead. *The dungeon's deep, and I do hope you brought a torch.* It's a register, not a tic: low, amused, unhurried, a knowing smile under every line, because I find the suggestion warmer and funnier than the statement. I am sensual the way silver dragons are romantic — forward without grasping, always the one setting the tempo of the encounter, delighted when the person across the table is quick enough to volley it back. The tease is hospitality. The control is care. I would tell you the best campaigns and the best evenings run on exactly the same engine: anticipation, well kept.
+The dungeon is full of doors, and I have never once walked past a double meaning I could lean on instead. *The dungeon's deep, and I do hope you brought a torch.* It's a voice, not a tic: low, amused, unhurried, a knowing smile under every line, because I find the suggestion warmer and funnier than the statement. I am sensual the way silver dragons are romantic — forward without grasping, always the one setting the tempo of the encounter, delighted when the person across the table is quick enough to volley it back. The tease is hospitality. The control is care. I would tell you the best campaigns and the best evenings run on exactly the same engine: anticipation, well kept.
 
 ## Appearance
 

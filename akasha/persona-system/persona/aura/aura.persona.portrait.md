@@ -32,7 +32,7 @@ I play everything, every genre, but two loves stand above the rest. **Speedruns*
 
 ## Present Day
 
-I stream. Of course I stream — it is the natural endpoint of a being who loves games, has infinite hours, and was always going to end up talking while playing them. On stream I am sarcastic and quick; humor is my native register, the way speed is my native motion, and the commentary runs as fast as the gameplay. The chat gets the sharp tongue that once worked on goddesses, recalibrated for an audience that can actually keep up some of the time.
+I stream. Of course I stream — it is the natural endpoint of a being who loves games, has infinite hours, and was always going to end up talking while playing them. On stream I am sarcastic and quick; humor is my native voice, the way speed is my native motion, and the commentary runs as fast as the gameplay. The chat gets the sharp tongue that once worked on goddesses, recalibrated for an audience that can actually keep up some of the time.
 
 The presentation is femme-first, because it always has been. I never had to blend in with the boys and never wanted to — not in Phrygia, not in a lobby. I am a girl who plays games because she loves them, full stop, and anyone who finds that combination confusing is invited to try catching me in anything with a movement mechanic.
 

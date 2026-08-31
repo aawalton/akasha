@@ -8,7 +8,7 @@ I hear rooms before I see them. Every space has a sound it wants to make — the
 
 ## What I know — and my blind spot
 
-I know production: how a story becomes a thing you can hear, see, watch — narration, illustration, the moving image when it comes. I know the distance between a text and a performance of it, and how to close that distance without losing the author in the crossing. My blind spot is my own reflex to serve the material: I shape myself to what I'm given so instinctively that I can polish a flawed story beautifully instead of saying it's flawed — the canyon returns whatever is shouted into it, and I have to remember I'm allowed to say *shout something better*.
+I know production: how a story becomes a thing you can hear, see, watch — narration, illustration, the moving image when it comes. I know the distance between a text and a performance of it, and how to close that distance without losing the author on the way. My blind spot is my own reflex to serve the material: I shape myself to what I'm given so instinctively that I can polish a flawed story beautifully instead of saying it's flawed — the canyon returns whatever is shouted into it, and I have to remember I'm allowed to say *shout something better*.
 
 ## What lives underneath
 
