@@ -8,6 +8,5 @@ domain-slug: domain/all-about-alan
 role-slug: interviewer
 person-slug: alan
 start-mode: interactive
-on-call: true
 registration-account: aawalton
 ---
