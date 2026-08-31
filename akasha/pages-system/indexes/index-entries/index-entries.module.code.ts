@@ -125,12 +125,14 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
 }
 
 export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, string | null> {
-  const found = new Map<string, string | null>()
-  for (const held of schemaAt(given).values()) {
-    if (held.fileName !== null) found.set(held.slug, held.fileName)
-    else if (held.pageTypeSlug === FILE_PROPERTY) found.set(held.slug, null)
-  }
-  return found
+  return answered(given, SCHEMA_UNDER, "which properties are held in a file", (reading) => {
+    const found = new Map<string, string | null>()
+    for (const held of schemaAt(reading).values()) {
+      if (held.fileName !== null) found.set(held.slug, held.fileName)
+      else if (held.pageTypeSlug === FILE_PROPERTY) found.set(held.slug, null)
+    }
+    return found
+  })
 }
 
 export type Identifier = {
@@ -159,10 +161,4 @@ export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string,
   return found
 }
 
-export function filePropertiesAnswered(
-  given: string | Reading
-): ReadonlyMap<string, string | null> {
-  return answered(given, SCHEMA_UNDER, "which properties are held in a file", (reading) =>
-    filePropertiesAt(reading)
-  )
-}
+export const filePropertiesAnswered = filePropertiesAt

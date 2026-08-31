@@ -37,7 +37,7 @@ import {
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, indexStanding, readingIn } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
@@ -256,12 +256,15 @@ function turningIn(
   return said
 }
 
+const NO_FILE_PROPERTIES: ReadonlyMap<string, string | null> = new Map()
+
 function standingBeside(
   reading: Reading,
   carried: ReadonlySet<string>,
   pageOf: (path: string) => Value | null
 ): readonly { readonly path: string; readonly value: Value }[] {
   const said: { readonly path: string; readonly value: Value }[] = []
+  if (!indexStanding(reading)) return said
   for (const path of everyPath(reading)) {
     if (carried.has(path)) continue
     const value = pageOf(path)
@@ -278,7 +281,7 @@ export function settlingOver(
 ): Settling {
   const reading = readingOf(given)
   const pageTypes = pageTypesIn(reading)
-  const filed = filePropertiesAt(reading)
+  const filed = indexStanding(reading) ? filePropertiesAt(reading) : NO_FILE_PROPERTIES
   const noted: string[] = []
   const readInto = (body: string | null, path: string): Value | null => {
     if (body === null || !pageShaped(path, filed)) return null

@@ -111,7 +111,12 @@ export function standingNamed(
   propertySlug: string,
   said: string
 ): readonly Standing[] {
-  return standingIn(readingIn(given), join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+  return answered(
+    given,
+    IDENTITY,
+    `which \`${scope}\` carries \`${said}\` as its \`${propertySlug}\``,
+    (reading) => standingIn(reading, join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
+  )
 }
 
 export function standingAt(
@@ -123,7 +128,12 @@ export function standingAt(
 }
 
 export function standingById(given: string | Reading, id: string): Standing | null {
-  return standingNamed(given, PAGE, ID, id)[0] ?? null
+  return answered(
+    given,
+    join(IDENTITY, PAGE, ID),
+    `which page carries \`${id}\``,
+    (reading) => standingIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
+  )
 }
 
 export function standingAddressed(
@@ -138,10 +148,6 @@ export function standingAddressed(
 }
 
 export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
-  return standingIn(readingIn(given), join(PATH, `${path}${ENDING}`))
-}
-
-export function standingByPathAnswered(given: string | Reading, path: string): readonly Standing[] {
   return answered(given, PATH, `what names \`${path}\``, (reading) =>
     standingIn(reading, join(PATH, `${path}${ENDING}`))
   )
@@ -205,8 +211,7 @@ function among(slug: string, named: readonly string[]): string {
   )
 }
 
-export function schemaOf(given: string | Reading, named: string): Schemad {
-  const reading = readingIn(given)
+function shapedIn(reading: Reading, named: string): Schemad {
   const address = addressIn(named)
   if (address.kind === "qualified") {
     const one = filedAt(reading, address.pageTypeSlug, address.slug)
@@ -227,6 +232,12 @@ export function schemaOf(given: string | Reading, named: string): Schemad {
   return { refused: found.length === 0 ? carriesNo(slug) : among(slug, qualified) }
 }
 
+export function schemaOf(given: string | Reading, named: string): Schemad {
+  return answered(given, SCHEMA, `what shape \`${named}\` has`, (reading) =>
+    shapedIn(reading, named)
+  )
+}
+
 function byPath(one: Standing, two: Standing): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
@@ -241,12 +252,15 @@ function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Standing[] {
-  const reading = readingIn(given)
-  return gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
+  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
+    gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
+  )
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return endingIn(readingIn(given).listing(join(IDENTITY, pageTypeSlug, SLUG)))
+  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` slugs stand`, (reading) =>
+    endingIn(reading.listing(join(IDENTITY, pageTypeSlug, SLUG)))
+  )
 }
 
 export function idsNaming(
@@ -254,12 +268,12 @@ export function idsNaming(
   id: string,
   propertySlug: string
 ): readonly string[] {
-  return endingIn(readingIn(given).listing(join(RELATION, "page", "id", id, propertySlug)))
-}
-
-export function everyPage(given: string | Reading): readonly Standing[] {
-  const reading = readingIn(given)
-  return gatheredIn(reading, join(IDENTITY, "page", "id"))
+  return answered(
+    given,
+    RELATION,
+    `which pages name \`${id}\` as their \`${propertySlug}\``,
+    (reading) => endingIn(reading.listing(join(RELATION, PAGE, ID, id, propertySlug)))
+  )
 }
 
 function underneath(reading: Reading, at: string, said: string): readonly string[] {
@@ -271,29 +285,9 @@ function underneath(reading: Reading, at: string, said: string): readonly string
 }
 
 export function everyPath(given: string | Reading): readonly string[] {
-  return [...underneath(readingIn(given), PATH, "")].sort()
-}
-
-export function everyOfTypeAnswered(
-  given: string | Reading,
-  pageTypeSlug: string
-): readonly Standing[] {
-  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
-    everyOfType(reading, pageTypeSlug)
+  return answered(given, PATH, "which files stand", (reading) =>
+    [...underneath(reading, PATH, "")].sort()
   )
-}
-
-export function standingByIdAnswered(given: string | Reading, id: string): Standing | null {
-  return answered(
-    given,
-    join(IDENTITY, PAGE, ID),
-    `which page carries \`${id}\``,
-    (reading) => standingIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
-  )
-}
-
-export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
-  return answered(root, PATH, "which files stand", () => everyPath(given))
 }
 
 function slugOf(standing: Standing | null, id: string): string | null {
@@ -311,8 +305,8 @@ export function typeSlugById(given: string | Reading, id: string): string | null
   return slugOf(standingById(given, id), id)
 }
 
-export function typeSlugByIdAnswered(given: string | Reading, id: string): string {
-  const said = slugOf(standingByIdAnswered(given, id), id)
+export function typeSlugOf(given: string | Reading, id: string): string {
+  const said = typeSlugById(given, id)
   if (said === null) {
     throw new Error(`no page carries the id \`${id}\`, so nothing says which pages are of its type`)
   }
@@ -325,19 +319,32 @@ export type Named = {
 }
 
 export function namersOf(given: string | Reading, id: string): readonly Named[] {
-  const reading = readingIn(given)
-  const dir = join(RELATION, PAGE, ID, id)
-  const found: Named[] = []
-  for (const property of reading.listing(dir)) {
-    if (!property.directory) continue
-    const at = beneath(dir, property.name)
-    for (const one of reading.listing(at)) {
-      for (const line of reading.lines(beneath(at, one.name))) {
-        const said = JSON.parse(line) as { readonly path?: unknown }
-        if (typeof said.path !== "string") continue
-        found.push({ path: said.path, propertySlug: property.name })
+  return answered(given, RELATION, `which pages name \`${id}\``, (reading) => {
+    const dir = join(RELATION, PAGE, ID, id)
+    const found: Named[] = []
+    for (const property of reading.listing(dir)) {
+      if (!property.directory) continue
+      const at = beneath(dir, property.name)
+      for (const one of reading.listing(at)) {
+        for (const line of reading.lines(beneath(at, one.name))) {
+          const said = JSON.parse(line) as { readonly path?: unknown }
+          if (typeof said.path !== "string") continue
+          found.push({ path: said.path, propertySlug: property.name })
+        }
       }
     }
-  }
-  return found
+    return found
+  })
+}
+
+export const everyOfTypeAnswered = everyOfType
+
+export const standingByIdAnswered = standingById
+
+export const standingByPathAnswered = standingByPath
+
+export const typeSlugByIdAnswered = typeSlugOf
+
+export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
+  return everyPath(given)
 }
