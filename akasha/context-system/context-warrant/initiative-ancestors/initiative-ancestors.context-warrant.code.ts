@@ -1,0 +1,42 @@
+import {
+  slugAt,
+  valueAt,
+} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import {
+  type Standing,
+  standingAt,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { slugStated, typeStated } from "../../seat-stated/seat-stated.module.code.ts"
+import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
+
+export const UNDER =
+  "A seat answers for the initiative it states, and every initiative that one stands under is read before the seat is changed."
+
+const INITIATIVE_TYPE = "initiative"
+
+const KEY = "assignmentSlug"
+
+const PARENT_KEY = "parentSlug"
+
+function aboveOf(root: string, standing: Standing): Standing | undefined {
+  const value = valueAt(standing.path, root)
+  const named = value === null ? null : slugAt(value, PARENT_KEY)
+  return named === null ? undefined : standingAt(root, INITIATIVE_TYPE, named)[0]
+}
+
+export function initiativeAncestors(root: string, path: string): readonly Warrant[] {
+  const slug = slugStated(root, path, KEY)
+  if (slug === null || typeStated(root, path, KEY) !== INITIATIVE_TYPE) return []
+  const standing = standingAt(root, INITIATIVE_TYPE, slug)[0]
+  if (standing === undefined) return []
+  const found: Warrant[] = []
+  const walked = new Set<string>([standing.id])
+  let above = aboveOf(root, standing)
+  while (above !== undefined && !walked.has(above.id)) {
+    walked.add(above.id)
+    const oid = standingOf(root, above.path)
+    if (oid !== null) found.push({ path: above.path, oid, owed: UNDER })
+    above = aboveOf(root, above)
+  }
+  return found
+}

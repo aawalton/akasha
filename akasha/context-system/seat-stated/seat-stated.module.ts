@@ -4,7 +4,7 @@ export const seatStated = {
   id: "01a0582a-d9ef-72d5-a4df-56bca58d3005",
   pageTypeSlug: "module",
   slug: "seat-stated",
-  definition: "the slug a seat page states under one of its keys",
+  definition: "what a seat page states under one of its keys, as a page type and a slug",
   code: "ts",
   test: "ts",
   invariants: [
@@ -27,6 +27,14 @@ export const seatStated = {
     {
       invariantKind: "departure",
       statement: "A slug stated under a page type is answered by its last part alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type a slug is stated under is answered on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug stated under no page type names none.",
     },
     {
       invariantKind: "absence",

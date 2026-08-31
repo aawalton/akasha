@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { seatStanding } from "../warrant-scratch/warrant-scratch.module.code.ts"
-import { slugStated } from "./seat-stated.module.code.ts"
+import { slugStated, typeStated } from "./seat-stated.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -19,6 +19,25 @@ test("a slug stated under a page type is answered by its last part alone", () =>
   const root = scratch.rootFor("akasha-seat-stated-")
   const at = seatStanding(root, "one", `assignmentSlug: "domain/akasha-system"`)
   expect(slugStated(root, at, "assignmentSlug")).toBe("akasha-system")
+})
+
+test("the page type a slug is stated under is answered on its own", () => {
+  const root = scratch.rootFor("akasha-seat-stated-")
+  const at = seatStanding(root, "one", `assignmentSlug: "initiative/aine-initiative-work"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe("initiative")
+  expect(slugStated(root, at, "assignmentSlug")).toBe("aine-initiative-work")
+})
+
+test("a slug stated under no page type names none", () => {
+  const root = scratch.rootFor("akasha-seat-stated-")
+  const at = seatStanding(root, "one", `assignmentSlug: "akasha-system"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe(null)
+})
+
+test("a key the seat does not state names no page type", () => {
+  const root = scratch.rootFor("akasha-seat-stated-")
+  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe(null)
 })
 
 test("a key the seat does not state answers nothing", () => {
@@ -44,6 +63,7 @@ test("a path that is no seat page states nothing", () => {
   const path = "akasha/persona-system/persona/akasha/akasha.persona.ts"
   standing(root, path, `export const akasha = { personaSlug: "akasha" }\n`)
   expect(slugStated(root, path, "personaSlug")).toBe(null)
+  expect(typeStated(root, path, "personaSlug")).toBe(null)
 })
 
 test("a seat whose body cannot be loaded states nothing", () => {

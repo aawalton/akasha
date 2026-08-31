@@ -1,10 +1,10 @@
 import type { ContextWarrant } from "../context-warrant.page-type.ts"
 
-export const domainAncestors = {
-  id: "01a0582e-282a-7ac8-89a0-dbb5b57e1616",
+export const initiativeAncestors = {
+  id: "01a058d6-2843-7000-81b8-b20476cc7fef",
   pageTypeSlug: "context-warrant",
-  slug: "domain-ancestors",
-  definition: "what a seat must read for the domains above the one it states",
+  slug: "initiative-ancestors",
+  definition: "what a seat must read for the initiatives above the one it states",
   code: "ts",
   test: "ts",
   runsOnRead: true,
@@ -13,11 +13,11 @@ export const domainAncestors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants every domain above the one it answers for.",
+      statement: "A seat warrants every initiative the one it states stands under.",
     },
     {
       invariantKind: "departure",
-      statement: "A domain above another is the one naming it among its parts.",
+      statement: "An initiative above another is the one that other names as its parent.",
     },
     {
       invariantKind: "departure",
@@ -29,15 +29,11 @@ export const domainAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "The domain answered for is no ancestor of itself.",
+      statement: "The initiative the seat states is no ancestor of itself.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat stating an initiative walks from the domain that initiative names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A seat stating a domain nothing stands above warrants none.",
+      statement: "A seat stating no initiative warrants none.",
     },
   ],
 } as const satisfies ContextWarrant

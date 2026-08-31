@@ -24,16 +24,37 @@ function filed(root: string, held: Standing, typeSlug: string, slug: string): un
   indexed(root, `identity/${typeSlug}/slug/${slug}.jsonl`, JSON.stringify(held))
 }
 
-function pageStanding(root: string, path: string, typeSlug: string, slug: string): Standing {
+function pageStanding(
+  root: string,
+  path: string,
+  typeSlug: string,
+  slug: string,
+  stated = ""
+): Standing {
   const id = mintedId(slug)
   const held = { path, id }
-  standing(root, path, `export const ${exportedAs(slug)} = { id: "${id}", slug: "${slug}" }\n`)
+  const said = stated === "" ? "" : `, ${stated}`
+  standing(
+    root,
+    path,
+    `export const ${exportedAs(slug)} = { id: "${id}", slug: "${slug}"${said} }\n`
+  )
   filed(root, held, typeSlug, slug)
   return held
 }
 
 export function domainStanding(root: string, slug: string): Standing {
   return pageStanding(root, `akasha/${slug}/${slug}.domain.ts`, "domain", slug)
+}
+
+export function initiativeStanding(root: string, slug: string, stated = ""): Standing {
+  return pageStanding(
+    root,
+    `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`,
+    "initiative",
+    slug,
+    stated
+  )
 }
 
 export function personaStanding(root: string, slug: string): Standing {

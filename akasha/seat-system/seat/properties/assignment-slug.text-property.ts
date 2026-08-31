@@ -22,19 +22,7 @@ export const assignmentSlug = {
     },
     {
       invariantKind: "stopgap",
-      statement: "This is named for the assignment.",
-    },
-    {
-      invariantKind: "stopgap",
       statement: "A second property page cannot yet carry the slug `domain-slug`.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "This is reached as `domain-slug`.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "This is a relation to a domain.",
     },
   ],
 } as const satisfies TextProperty
