@@ -77,9 +77,11 @@ test("a file whose name is not a page's shape is passed over", () => {
   expect(reasons("akasha/notes.txt", page("corpse", "module"))).toEqual([])
 })
 
-test("a body that is not text is passed over rather than refused", () => {
+test("a body that is not text refuses rather than being passed over", () => {
   const bytes = new Uint8Array([0xff, 0xfe, 0x00])
-  expect(reasonsIn({ root: ROOT, path: "akasha/raw.module.ts", bytes }, HELD)).toEqual([])
+  const raw = { root: ROOT, path: "akasha/raw.module.ts", bytes }
+  expect(() => reasonsIn(raw, HELD)).toThrow("akasha/raw.module.ts")
+  expect(() => reasonsIn(raw, HELD)).toThrow("not valid UTF-8")
 })
 
 test("a file is judged by its own name rather than by the folders above it", () => {

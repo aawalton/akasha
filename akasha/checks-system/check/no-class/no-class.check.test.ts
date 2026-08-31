@@ -73,7 +73,8 @@ test("a declaration file is judged, because its name ends in `.ts`", () => {
   expect(reasonsIn(given("akasha/held.d.ts", "declare class Held {}\n"))).toHaveLength(1)
 })
 
-test("a body that is not text is passed over rather than refused", () => {
+test("a body that is not text refuses rather than being passed over", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(reasonsIn(held)).toEqual([])
+  expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
 })

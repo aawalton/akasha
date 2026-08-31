@@ -97,9 +97,10 @@ test("a file that is not TypeScript is passed over", () => {
   expect(reasonsIn(given("akasha/notes.txt", 'const at = "/tmp"\n'))).toEqual([])
 })
 
-test("a body that is not text is passed over rather than refused", () => {
+test("a body that is not text refuses rather than being passed over", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(reasonsIn(held)).toEqual([])
+  expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
 })
 
 test("the check refuses none of its own three files, though each names the path it refuses", () => {

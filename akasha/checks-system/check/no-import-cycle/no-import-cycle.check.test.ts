@@ -153,10 +153,11 @@ test("a file that is not TypeScript is no part of the graph", () => {
   expect([...reachingIn(change({ "akasha/notes.txt": "" })).keys()]).toEqual([])
 })
 
-test("a body that is not text reaches nothing rather than throwing", () => {
+test("a body that is not text refuses rather than reaching nothing", () => {
   const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
-  const held = reachingIn({ root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at })
-  expect(held.get("akasha/raw.ts")).toEqual([])
+  const held = { root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at }
+  expect(() => reachingIn(held)).toThrow("akasha/raw.ts")
+  expect(() => reachingIn(held)).toThrow("not valid UTF-8")
 })
 
 test("two separate cycles are both found", () => {

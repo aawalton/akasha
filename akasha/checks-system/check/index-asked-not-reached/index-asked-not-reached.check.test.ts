@@ -50,6 +50,8 @@ test("a name brought in under another is judged by what it was taken as", () => 
   expect(said[0]).toContain("`indexIn`")
 })
 
-test("a body that is not text is passed over rather than refused", () => {
-  expect(reasonsIn({ root: ROOT, path: HELD, bytes: new Uint8Array([0xff, 0x00]) })).toEqual([])
+test("a body that is not text refuses rather than being passed over", () => {
+  const held = { root: ROOT, path: HELD, bytes: new Uint8Array([0xff, 0x00]) }
+  expect(() => reasonsIn(held)).toThrow(HELD)
+  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
 })

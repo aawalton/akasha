@@ -65,8 +65,9 @@ test("a method signature in a type literal standing as a parameter type is judge
   expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
 
-test("a file that is not TypeScript, and a body that is not text, are both passed over", () => {
+test("a file that is not TypeScript is passed over, and a body that is not text refuses", () => {
   expect(reasonsIn(given("akasha/notes.txt", "type One = {\n  a(): void\n}\n"))).toEqual([])
   const raw = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(reasonsIn(raw)).toEqual([])
+  expect(() => reasonsIn(raw)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(raw)).toThrow("not valid UTF-8")
 })

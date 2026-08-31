@@ -61,8 +61,9 @@ test("a dotted namespace declares one namespace a name, and each is reported", (
   expect(said[1]).toContain("`namespace Two`")
 })
 
-test("a file that is not TypeScript, and a body that is not text, are both passed over", () => {
+test("a file that is not TypeScript is passed over, and a body that is not text refuses", () => {
   expect(reasonsIn(given("akasha/notes.txt", "enum One {\n  A,\n}\n"))).toEqual([])
   const raw = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
-  expect(reasonsIn(raw)).toEqual([])
+  expect(() => reasonsIn(raw)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(raw)).toThrow("not valid UTF-8")
 })
