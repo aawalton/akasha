@@ -1,0 +1,8 @@
+{
+  "name": "@akasha/persona-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./email-address": "./persona/properties/email-address.email-address-property.ts"
+  }
+}
