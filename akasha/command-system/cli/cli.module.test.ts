@@ -4,7 +4,9 @@ import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
+  idCopied,
   identitiesCopied,
+  idFiled,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
@@ -30,6 +32,8 @@ const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
 const COMMAND = "command"
 
+const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
+
 const CARRIED = ["package.json", "tsconfig.json", "tsconfig.base.json"]
 
 const ID = "01a04bf0-0000-7000-8000-00000000bbbb"
@@ -51,6 +55,7 @@ function checkoutOf(): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   symlinkSync(join(from, "node_modules"), join(root, "node_modules"))
   identitiesCopied(from, root, COMMAND)
+  idCopied(from, root, COMMAND_TYPE)
   return root
 }
 
@@ -171,6 +176,9 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 test("a name no command carries is a caller's mistake too", () => {
   const root = scratch.rootFor("akasha-cli-")
   standingFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
+  idFiled(root, COMMAND_TYPE, [
+    { path: "akasha/command-system/command/command.page-type.ts", id: COMMAND_TYPE },
+  ])
   const said = answering(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("is no command akasha carries")
