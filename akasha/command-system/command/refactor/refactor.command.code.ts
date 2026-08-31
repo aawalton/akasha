@@ -6,7 +6,7 @@ import {
   typingOver,
 } from "../../../code-system/code-typing/code-typing.module.code.ts"
 import {
-  everyPathAnswered,
+  everyPath,
   readingIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -177,11 +177,7 @@ export function landed(
   const standing = (path: string): boolean => existsSync(join(root, path))
   const carries = carriesFor(root, one, standing)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
-  const typing = typingOver(
-    root,
-    everyPathAnswered(root).filter(compiled),
-    readingOf(root, bodyText)
-  )
+  const typing = typingOver(root, everyPath(root).filter(compiled), readingOf(root, bodyText))
   const held: Rewriting = {
     one,
     moved,
@@ -199,7 +195,7 @@ export function landed(
     for (const line of namesStill(said, one.was)) left.push(`  ${path}:${line}`)
   }
   const bodies = new Map<string, Uint8Array>()
-  for (const path of everyPathAnswered(root)) {
+  for (const path of everyPath(root)) {
     if (moved.has(path) || !standing(path)) continue
     if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
     if (!path.endsWith(TS)) continue
