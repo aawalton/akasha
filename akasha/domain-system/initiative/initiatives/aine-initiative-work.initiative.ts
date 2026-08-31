@@ -7,8 +7,11 @@ export const aineInitiativeWork = {
   domainSlug: "domain/domain-system",
   personaSlug: "aine",
   intents: [
-    { statement: "An agent reading one initiative knows how to work it." },
-    { statement: "A seat's initiative is resolved against the initiatives standing in akasha." },
+    {
+      statement: "A seat's initiative is resolved against the initiatives standing in akasha.",
+      workingMemory:
+        "`tools/lib/seat-initiative.ts` globs `pages/initiative/**/*.md` through `PLACES`, and that store holds no initiative, so `refuseInitiative` refuses every slug proposed. `initiativesDrawn` in `akasha/editor-extension/work-initiatives` already answers slug and path and parent and persona for every akasha initiative through the index, and tools may import from akasha because the dependency runs one way. A slug is unique among the pages of its page type, so the spelling machinery collapses.",
+    },
     { statement: "A seat states an initiative as its assignment." },
     {
       statement:
@@ -17,8 +20,5 @@ export const aineInitiativeWork = {
     { statement: "A seat is swept when the initiative it is assigned is done." },
     { statement: "An initiative's name states what its work is toward." },
   ],
-  constraints: [
-    "The method stands on the initiative page type rather than on any initiative.",
-    "The sweep lands with the warrant rather than after it.",
-  ],
+  constraints: ["The sweep lands with the warrant rather than after it."],
 } as const satisfies Initiative
