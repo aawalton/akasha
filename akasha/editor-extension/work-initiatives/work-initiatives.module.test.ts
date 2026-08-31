@@ -3,6 +3,8 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import {
+  idFiled,
+  noneOfTypeFiled,
   relationFiled,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
@@ -16,18 +18,33 @@ const THREE = "01a04e9f-0000-7000-8000-00000000000c"
 
 const INITIATIVE = "initiative"
 
+const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
+
 const PARENT_SLUG = "parent-slug"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function pathFor(slug: string): string {
-  return `akasha/domain-system/initiative/initiatives/${slug}.initiative.ts`
+function pathFor(slug: string, typeSlug: string = INITIATIVE): string {
+  return `akasha/domain-system/initiative/initiatives/${slug}.${typeSlug}.ts`
 }
 
-function standing(root: string, slug: string, id: string): undefined {
-  standingFiled(root, INITIATIVE, slug, [{ path: pathFor(slug), id }])
+function worldFor(typeSlug: string = INITIATIVE): string {
+  const root = scratch.rootFor("akasha-work-")
+  idFiled(root, INITIATIVE_TYPE, [
+    { path: `akasha/domain-system/initiative/${typeSlug}.page-type.ts`, id: INITIATIVE_TYPE },
+  ])
+  return root
+}
+
+function standing(
+  root: string,
+  slug: string,
+  id: string,
+  typeSlug: string = INITIATIVE
+): undefined {
+  standingFiled(root, typeSlug, slug, [{ path: pathFor(slug, typeSlug), id }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
@@ -35,19 +52,36 @@ function under(root: string, child: string, parent: string): undefined {
 }
 
 test("every initiative the index files is drawn", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   standing(root, "amy-two", TWO)
   expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one", "amy-two"])
 })
 
+test("every initiative is drawn though the page type saying what one is carries another slug", () => {
+  const root = worldFor("endeavour")
+  standing(root, "amy-one", ONE, "endeavour")
+  expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one"])
+})
+
 test("an index filing no initiative draws nothing", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
+  noneOfTypeFiled(root, INITIATIVE)
   expect(initiativesDrawn(root)).toEqual([])
 })
 
-test("the edge is filed under the parent, so the child is the one that stands under", () => {
+test("an index filing initiatives nowhere refuses rather than drawing none", () => {
+  const root = worldFor()
+  expect(() => initiativesDrawn(root)).toThrow("which `initiative` pages stand")
+})
+
+test("an index naming no page type for initiatives refuses rather than drawing none", () => {
   const root = scratch.rootFor("akasha-work-")
+  expect(() => initiativesDrawn(root)).toThrow("could not be answered")
+})
+
+test("the edge is filed under the parent, so the child is the one that stands under", () => {
+  const root = worldFor()
   standing(root, "amy-parent", ONE)
   standing(root, "amy-child", TWO)
   under(root, TWO, ONE)
@@ -57,20 +91,20 @@ test("the edge is filed under the parent, so the child is the one that stands un
 })
 
 test("an initiative naming no parent stands under none", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
 test("a parent the index files no initiative for stands under none", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-two", TWO)
   under(root, TWO, THREE)
   expect(initiativesDrawn(root)[0]?.parent).toBe(null)
 })
 
 test("an initiative standing under two stands under none", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   standing(root, "amy-two", TWO)
   standing(root, "amy-three", THREE)
@@ -81,7 +115,7 @@ test("an initiative standing under two stands under none", () => {
 })
 
 test("a parent standing under two children keeps each of them under it", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   standing(root, "amy-two", TWO)
   standing(root, "amy-three", THREE)
@@ -93,7 +127,7 @@ test("a parent standing under two children keeps each of them under it", () => {
 })
 
 test("a path the file name says is no initiative is passed over", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standingFiled(root, INITIATIVE, "stray", [
     { path: "akasha/editor-extension/stray.module.ts", id: ONE },
   ])
@@ -107,7 +141,7 @@ function pageAt(root: string, slug: string, body: string): undefined {
 }
 
 test("a persona is read out of the page the index named", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   pageAt(
     root,
@@ -118,13 +152,13 @@ test("a persona is read out of the page the index named", () => {
 })
 
 test("a page the index named but no file holds answers no persona", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   expect(initiativesDrawn(root)[0]?.persona).toBe(null)
 })
 
 test("a page stating no persona answers none", () => {
-  const root = scratch.rootFor("akasha-work-")
+  const root = worldFor()
   standing(root, "amy-one", ONE)
   pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
   expect(initiativesDrawn(root)[0]?.persona).toBe(null)

@@ -10,6 +10,15 @@ export const workInitiatives = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "An initiative is found through the page type reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index filing initiatives nowhere refuses rather than drawing none.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An initiative's slug is read off its file's name rather than out of its page.",
     },
     {

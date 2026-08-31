@@ -1,11 +1,12 @@
 import { valueAt } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyOfType,
+  everyOfTypeAnswered,
   idsNaming,
+  standingByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
-const PAGE_TYPE = "initiative"
+const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
 const PARENT = "parent-slug"
 
@@ -18,9 +19,23 @@ export type InitiativeRow = {
   readonly persona: string | null
 }
 
-function slugIn(path: string): string | null {
+function typeSlugIn(root: string): string {
+  const standing = standingByIdAnswered(root, INITIATIVE_TYPE)
+  if (standing === null) {
+    throw new Error(
+      `no page carries the id \`${INITIATIVE_TYPE}\`, so nothing says which pages are initiatives`
+    )
+  }
+  const said = namedIn(standing.path)
+  if (said === null) {
+    throw new Error(`${standing.path} carries the initiative page type, and its name says no slug`)
+  }
+  return said.stem
+}
+
+function slugIn(path: string, typeSlug: string): string | null {
   const said = namedIn(path)
-  if (said === null || said.tail !== PAGE_TYPE) return null
+  if (said === null || said.tail !== typeSlug) return null
   return said.stem
 }
 
@@ -32,10 +47,11 @@ function personaAt(root: string, path: string): string | null {
 }
 
 export function initiativesDrawn(root: string): readonly InitiativeRow[] {
-  const standing = everyOfType(root, PAGE_TYPE)
+  const typeSlug = typeSlugIn(root)
+  const standing = everyOfTypeAnswered(root, typeSlug)
   const slugById = new Map<string, string>()
   for (const one of standing) {
-    const slug = slugIn(one.path)
+    const slug = slugIn(one.path, typeSlug)
     if (slug !== null) slugById.set(one.id, slug)
   }
   const edges = [...standing].flatMap((one) => {
