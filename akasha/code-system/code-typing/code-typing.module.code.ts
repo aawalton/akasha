@@ -217,10 +217,11 @@ function shorthandFor(node: ts.Identifier): boolean {
   return up !== undefined && ts.isShorthandPropertyAssignment(up) && up.name === node
 }
 
-function bound(node: ts.Identifier): boolean {
-  const up = node.parent
-  if (up === undefined) return true
-  return !(ts.isImportSpecifier(up) && up.name === node && up.propertyName !== undefined)
+function renamable(symbol: ts.Symbol | undefined): boolean {
+  for (const one of symbol?.declarations ?? []) {
+    if (ts.isImportSpecifier(one) && one.propertyName !== undefined) return false
+  }
+  return true
 }
 
 function standingIn(typing: Typing, node: ts.Identifier): ts.Symbol | undefined {
@@ -246,10 +247,11 @@ export function referencesOf(
     const path = insideOf(root, resolve(source.fileName))
     if (path === null) continue
     const walk = (node: ts.Node): undefined => {
-      if (ts.isIdentifier(node) && bound(node)) {
+      if (ts.isIdentifier(node)) {
         const own = standingIn(typing, node)
         const reached = own === undefined ? undefined : aliasedIn(typing, own)
-        if (declaring(own, declared) || declaring(reached, declared)) {
+        const named = declaring(own, declared) || declaring(reached, declared)
+        if (named && renamable(own)) {
           found.push({
             path,
             start: node.getStart(source),
