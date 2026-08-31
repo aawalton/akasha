@@ -9,6 +9,6 @@ export const tempereso = {
   aliasIndex: 4,
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
-  renewalDay: 9,
+  renewalDay: 19,
   scopes: ["user:inference", "user:mcp_servers", "user:profile", "user:sessions:claude_code"],
 } as const satisfies ClaudeAccount

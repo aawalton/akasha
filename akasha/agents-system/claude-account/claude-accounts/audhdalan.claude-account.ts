@@ -9,6 +9,6 @@ export const audhdalan = {
   aliasIndex: 3,
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
-  renewalDay: 15,
+  renewalDay: 18,
   scopes: ["user:inference", "user:mcp_servers", "user:profile", "user:sessions:claude_code"],
 } as const satisfies ClaudeAccount

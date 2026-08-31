@@ -9,6 +9,6 @@ export const alanwalton = {
   aliasIndex: 2,
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
-  renewalDay: 14,
+  renewalDay: 18,
   scopes: ["user:inference", "user:mcp_servers", "user:profile", "user:sessions:claude_code"],
 } as const satisfies ClaudeAccount
