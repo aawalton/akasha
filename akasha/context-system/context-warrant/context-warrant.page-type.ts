@@ -28,6 +28,7 @@ export const contextWarrant = {
     "context-warrant/file-page-type",
     "context-warrant/file-property",
     "context-warrant/file-property-file",
+    "context-warrant/persona-itself",
   ],
   extendsSlug: "page-type/module",
   loadedBySlug: "module/warranting",
