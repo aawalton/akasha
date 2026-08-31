@@ -2,10 +2,12 @@ import type { PageType } from "../../pages-system/page-type/page-type.page-type.
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.named-file-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
+import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
   capacitorConfig: CapacitorConfig
   gitIgnore: GitIgnore
+  webEntry?: WebEntry
 }
 
 export const iosApp = {
@@ -15,15 +17,22 @@ export const iosApp = {
   definition: "the app on a phone and the shell it runs in",
   pluralSlug: "ios-apps",
   partSlugs: [
+    "file-property/web-entry",
     "ios-app/alanwalton",
     "ios-app/smilingjenny",
     "named-file-property/capacitor-config",
     "named-file-property/git-ignore",
+    "shell-script/build-stamp",
+    "shell-script/monarch-url",
+    "shell-script/stage-web-entry",
+    "shell-script/widget-components",
+    "shell-script/write-capacitor-config",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
     { pagePropertySlug: "capacitor-config", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
+    { pagePropertySlug: "web-entry", required: false, many: false },
   ],
   invariants: [
     {
@@ -33,6 +42,22 @@ export const iosApp = {
     {
       invariantKind: "departure",
       statement: "The programs an app builds stand among its parts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A script one app runs stands beside that app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A script more than one app runs stands above them all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An app's web directory holds what a build put there.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every script an app's manifest names stands in akasha.",
     },
   ],
 } as const satisfies PageType
