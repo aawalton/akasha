@@ -15,10 +15,6 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement: "The name a page is written under and the name it is read back by are one answer.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The type a page type declares is that name with its first character raised.",
     },
     {
