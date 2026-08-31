@@ -8,9 +8,28 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "An akasha command triggers the mac build of an iOS app." },
-    { statement: "Everything Alan's iOS app is built from stands in the akasha folder." },
-    { statement: "Everything Jenny's iOS app is built from stands in the akasha folder." },
+    { statement: "No file imports `@shared/pages-query`." },
+    {
+      statement:
+        "A package reaches another package by the name its manifest states rather than by a path.",
+    },
+    { statement: "Every folder a package reaches is a package." },
+    { statement: "No file Alan's site is built from is too long for akasha to hold." },
+    {
+      statement:
+        "The packages under Alan's site that name no package of their own stand in akasha.",
+    },
+    { statement: "`pages-core` stands in akasha." },
+    { statement: "The packages reading and writing pages stand in akasha." },
+    { statement: "The packages Alan's own work rests on stand in akasha." },
+    { statement: "A page type holds code written in TSX." },
+    { statement: "A page type holds a stylesheet." },
+    { statement: "The design packages stand in akasha." },
+    { statement: "`pages-ui` stands in akasha." },
+    { statement: "The source of Alan's site stands in akasha." },
+    { statement: "A page describes one web app." },
+    { statement: "A page describes the workload a cluster runs for a web app." },
+    { statement: "An akasha command puts up the web app a page describes." },
     { statement: "Alan's site deploys from akasha." },
     {
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
