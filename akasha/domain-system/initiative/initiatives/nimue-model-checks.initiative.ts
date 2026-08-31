@@ -16,11 +16,6 @@ export const nimueModelChecks = {
     {
       invariantKind: "gap",
       statement:
-        "A move renames a page's slug and repoints every typed edge that addresses it in the same act.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
         "A page type the tooling reaches by slug is renamed without breaking the run that renames it.",
     },
     {
