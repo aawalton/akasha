@@ -1,0 +1,551 @@
+---
+id: 9540508a-5ab0-562b-9208-054f786908e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154: Of Full Maws and Crunchy Gains"
+slug: 0157-chapter-154-of-full-maws-and-crunchy-gains
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 157
+ownLength: 2894
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3891839/chapter-154-of-full-maws-and-crunchy-gains"
+royalRoadId: "3891839"
+---
+
+PoV Luna
+
+The Elder Behemoth was the bestest hunt ever!
+
+The last time Luna had so much fun was when she was a little pup, furever ago!
+
+Luna lay on warm stone with her paws spread, her belly pressed flat, her tail twitching in little tired flicks, and her whole body humming from the fight. Exhaustion settled in her claws, jaw, ribs, shoulders, ears, and her happy little heart all at once.
+
+Proper Apex Predator hunt tired!
+
+The biggest prey Luna ever hunted had taken almost a whole hour to kill.
+
+A whole hour!
+
+The smaller behemoths had been huge, stubborn, and delicious, but once Luna and Second broke something important, it stayed broken long enough for the hunt to end. The elder had not been like that, not at all! Small cuts closed too quickly. Scrapes vanished under swelling hide and bristly fur. Even deeper bites tried to knit while Luna still tasted the blood.
+
+Rude healing meat!
+
+So Luna and Second had leaned into the hunt better! Luna opened the throat, Second made it stumble, and Luna hit the same torn place again before the flesh finished closing. When the elder tucked its throat away, Luna went for its face. When it guarded its face, Second struck its legs. When it turned on Second, Luna zoomed back in and made the throat worse.
+
+Again and again and again, until the wounds became too large, too many, too close together, until even the elder’s giant stubborn body could not fix all of them at once.
+
+The beast had learned too. After Luna hurt its throat the first time, it stopped roaring with its neck stretched out. After Syliana flashed its eyes twice, it started lowering its head behind its plates. After Luna bit one side of its jaw raw, it tried to crush her against the mountainside instead of snapping at her.
+
+Smart prey was bestest prey!
+
+It made every part of Luna work.
+
+And that made Luna grow!
+
+Her side still ached where a shockwave had thrown her through a dead tree. Her jaw felt full of hot little complaints from biting through bristle-fur and hide. Her paws tingled from the last super charged zoom into the elder’s wounded face, where Momentum Claw had hit hard enough to make the skull crack against stone.
+
+The valley showed the fight everywhere.
+
+Trees lay in shredded piles. Whole strips of forest had been clawed into splinters. Boulders sat cracked open. The slope wore Luna’s skid marks, Syliana’s blast craters, and the behemoth’s deep gouges where its claws had ripped through the earth and stone. Dust drifted in the low sunlight, and every breath smelled like broken wood, hot stone, blood, cooked magic, and the heavy deep meat-scent of victory!
+
+Luna breathed it in and wiggled against the stone.
+
+So glorious! Luna victorious!
+
+And when the massive beast finally fell, the System chimed again, and Luna’s tired ears perked up again.
+
+【Level Up: 18 → 19】
+
+【Level Up: 19 → 20】
+
+【Level Up: 20 → 21】
+
+【Strength +3 | Vitality +2 | Dexterity +2 | Intelligence +1 | Willpower +1】
+
+【Luck +1】
+
+【When the hills start moving, most creatures run. Away, not headfirst into their sides.】
+
+【Apex Predators in their natural habitats are not the wonderful prey you take them for. Your continued survival is astounding.】
+
+【You chewed through stone, mountain, and behemoth hide. Your teeth desperately need you to consider other hobbies.】
+
+Luna lifted her head, ignoring System meanie.
+
+Three!
+
+Three whole levels from one hunt!
+
+Her tail slammed the stone as she checked her Status.
+
+Name: Luna
+
+Level: 21/25(+14)
+
+Race: Velocity Reaper (Tier 1)
+
+Gender: Female
+
+HP: 121/184
+
+SP: 33/200
+
+MP: 38/124
+
+Strength: 40(+11)
+
+Dexterity: 34(+10)
+
+Vitality: 36(+12)
+
+Intelligence: 26(+6)
+
+Willpower: 17(+5)
+
+Charisma: 9
+
+Luck: 6(+1)
+
+Active Skills:
+
+Strike Lv19(+2)
+
+Bite Lv18(+2)
+
+Jump Lv19(+1)
+
+Momentum Claw Lv23(+5)
+
+Run Lv22(+3)
+
+Shadowmeld Lv19(+1)
+
+Shadow Step Lv18(+1)
+
+Lunar Form Lv24(+3)
+
+Devourer’s Maw Lv10(+4)
+
+Shadow Run Lv17(+7)
+
+Reaper’s Pass Lv10(+4)
+
+Shadow Cloak Lv12(+5)
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv5(+2)
+
+Pain Resistance Lv5(+2)
+
+Poison Resistance (Minor) Lv3(+1)
+
+Devourer’s Right Lv9(+3)
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 19%(+2%)
+
+Effects:
+
+Craving (Unknown)
+
+Luna stared at the words until her tail forgot tiredness and started thumping harder.
+
+“Second,” Luna called.
+
+Syliana sat on a broken slab nearby, one hand braced behind her and the other holding a mana potion. Her hair had come loose from its tie. Her robe was clean where Shadow Cloak had brushed against it earlier, but the fabric still hung torn at one sleeve and scorched along the hem.
+
+Her friend looked tired, but ready to react if anything happened.
+
+Capable Second!
+
+“Yes, Luna?”
+
+“Three levels!”
+
+Syliana smiled despite the tiredness.
+
+“That is an extraordinary gain. Amazing work.”
+
+“Ehehe.”
+
+Syliana smiled and took a slow drink from the potion.
+
+Then Luna looked at the elder behemoth.
+
+It lay across the broken valley like a fallen piece of mountain. Its white-furred feet alone were larger than some carts. Its plated shoulders rose higher than Luna’s head even while dead on the ground. The younger behemoths had fit into her Maw with effort. Big effort, sometimes rude effort, but effort that worked.
+
+This one smelled like a problem.
+
+A delicious problem!
+
+Luna stood, stretched, shook one paw, and opened her Maw.
+
+Darkness unfolded, the Maw widened, and then more, and–
+
+The elder did not move.
+
+Luna narrowed her eyes, and pushed her Skill more.
+
+“Fit.”
+
+The Maw widened more.
+
+But the elder continued being enormous!
+
+Luna tried again, claws scraping stone as she pulled harder. The shadow-mouth stretched around the elder’s head, one shoulder, and far too much bristly mountain-meat, then trembled at the edges and slipped back.
+
+Luna glared at the corpse.
+
+“Fit!”
+
+The elder refused.
+
+Syliana watched from the broken slab where she had sat down to breathe. Her robe was torn at one sleeve, her hair had come loose, and her magic-smell was thin from all the casting, but her eyes stayed warm when Luna looked at her.
+
+“We could cut it into sections first,” Syliana said. “Smaller pieces would be easier to store.”
+
+Luna’s ears snapped up.
+
+“Nuh uh.”
+
+“Luna, this one is far larger than the others.”
+
+“But others fit!”
+
+“With effort.”
+
+“Yesh. This one needs more effort!”
+
+Syliana’s mouth twitched.
+
+Luna opened the Maw again.
+
+Darkness unfolded beside the elder, wider and deeper this time. Luna braced every paw, lowered her shoulders, and pulled. The corpse shifted one heavy inch. Plates scraped stone. One white-furred foot dragged through broken leaves.
+
+Then everything got stuck again.
+
+Luna growled.
+
+“Rude meat.”
+
+Syliana crouched beside her and touched the fur between her shoulders.
+
+“If you’re so set on this… maybe try to see if any of your other skills could help here, perhaps?”
+
+Luna’s ears twitched.
+
+Other skills? But Maw was Maw!
+
+It stored snacks for Luna!
+
+No other Skill of hers did anything close–!
+
+She stopped, and stared at the nommy darkness trying to push a prey too big into itself. The way it twisted and twirled around, pooling and deepening in unseen spaces…
+
+Woo right!
+
+Luna looked down and saw how shadowy darkness curled around her paws, cool and waiting for her to just… ask.
+
+Shadow friends!
+
+Luna was so focused on trying to fit the yummy that she forgot her most loyal friends.
+
+Her shadows spread under the elder in thin dark lines. The Maw’s reach deepened. Shadows wrapped the head, shoulder, and plated back, tugging at the beast, trying to push it in. The elder moved.
+
+Luna’s tail shot up.
+
+“Yesh!”
+
+Shadow friends furever!
+
+The head sank into darkness, and then a shoulder followed. The elder shifted by heavy portions, slow and stubborn, but it kept moving now! Luna dug her claws into the stone and held the Maw open until her mana began draining so fast her whole body shook from the strain.
+
+The edges fluttered.
+
+“No no no!”
+
+She pulled her last mana potion from storage, bit the stopper free, and drank. Tingly potion rushed down her throat and spread through her chest. The Maw steadied as the elder slid farther, nearly half swallowed now, slowly vanishing into the dark.
+
+Then the drain hit her again.
+
+Luna looked up at Syliana with flattened ears and an empty bottle in her mouth.
+
+Syliana shook her head, chuckling softly, and pulled two more potions from her own pouch.
+
+“Here. Those are the last two I have.”
+
+Luna stared, torn between drinking them now, and not wanting to burden her friend.
+
+“Second needs?”
+
+“I need the Behemoth stored before something brave and tough comes to investigate the commotion. Drink.”
+
+Luna didn’t have to be told twice.
+
+Two more potions swallowed, she felt how they fizzed sharply behind her teeth. Mana filled her again, enough for one more proper push!
+
+Luna planted every paw, and pushed her Skill and control over shadows to new extremes!
+
+“Big elder. Good meat. Go in!”
+
+The shadows answered, and her Maw opened deeper.
+
+The elder wobbled, the shadows pulled, and Luna shoved with all her stubborn Apex Predator might, until the elder finally slid!
+
+And once half of it was swallowed, the rest rapidly followed!
+
+The shadows yanked and yoinked, and then it was done!
+
+The Maw snapped shut.
+
+【Devourer’s Maw Lv.10 → Lv.11】
+
+【Shadowmeld Lv.19 → Lv.20】
+
+【Shadowmeld Lv.20 – The shadows listen to you, and you blend into the shadows. Grants increased control over the process. You become 100% harder to spot. Conceals heat and scent. Movement weakens effect.】
+
+Increased control? Shadow friends listen better?!
+
+Awoomazing improvement!
+
+But–
+
+Luna staggered sideways and flopped against Syliana’s legs.
+
+Her Maw felt so full!
+
+Actually full.
+
+It had held so many prey before! Breads, jerky, ant crunchies, drake strips, honey cakes, and many important later-snacks, and even smaller Behemoths. But this felt like Luna ate one soup bowl and three jerky too many and now had to sit very still with her belly out!
+
+Bweh!
+
+Tasty, convenient bweh!
+
+Luna tested the feeling immediately.
+
+The Maw opened slower than usual, heavy around the elder and other big things packed inside it. Luna pressed at the space carefully, feeling the space out.
+
+Snacks and small prey would still fit just fine. Potions, bread, wrapped sweets, ant crunchies, drake strips, shiny useful things! All the little important pieces could be tucked around the edges.
+
+Another giant mountain-meat would make the Maw angry.
+
+Luna’s nose wrinkled.
+
+No more Maw bullying today!
+
+Then the fresh slabs of meat resting on the clean stone Syliana cut off the Elder for cooking breathed hot meat-smell under her nose.
+
+Her tail lifted, and Luna did the only sensible thing she could!
+
+Transformed to enjoy the goodies to come!
+
+“Steak!”
+
+“Yes,” Syliana said, already reaching for the cooking tools. “Steak.”
+
+After the first Behemoth steak Syliana made, post-battle nommies became their little tasty celebration time!
+
+Luna tippy-tapped against the stone, tail wagging furiously.
+
+“Second makes delish.”
+
+Luna forgot the storage problem immediately.
+
+Syliana cut the slabs thinner, set them over hot stone, and seasoned them generously with salt, sharp herbs, and a little spice from her pouch. The meat hissed as fat bubbled along the edges. The outside darkened into crisp stripes while the inside stayed red and juicy.
+
+Steam curled into Luna’s nose, and drool gathered at once.
+
+“Second.”
+
+“It’s not ready yet.”
+
+Luna endured the whole of thirty wag taps against the stone.
+
+“Second.”
+
+“It’s still not ready.”
+
+“But it smells ready!”
+
+“It smells like it’s still cooking.”
+
+“Cooking is almost ready.”
+
+“Almost ready is not ready.”
+
+Luna huffed and crossed her arms in disappointment.
+
+Waiting was terrible!
+
+Syliana glanced toward the broken valley while the meat cooked.
+
+“It really is a small miracle nothing wandered into that fight.”
+
+Luna’s ears turned toward her. She recognized that voice!
+
+Teacher-Second voice.
+
+Syliana had more of that voice now, when it was only the two of them.
+
+During quiet moments between hunts, brushies, meals, and travel, she told Luna things. Tasty and not so tasty things! Like monster territories, or weird human rules. And why some humans paid more for horns than meat. Or how you could count multiples, and not one by one!
+
+Much confuse!
+
+Luna still did not know how to feel about learning so much human stuff.
+
+But teaching made Second smell happy!
+
+So Luna listened.
+
+Syliana pointed with a small thread of spell-light toward the broken tree line.
+
+“Elder behemoths are apex predators in this range. Their territory is marked everywhere with crushed paths and few surviving bones left of prey and unlucky challengers. Smarter monsters learn to avoid those signs fast.”
+
+Luna sniffed and found the faint monster smells far away were moving farther still.
+
+“They ran.”
+
+“Most would. Anything that can fight an Elder Behemoth for an hour becomes another threat to avoid. Still, opportunists might come regardless.”
+
+Luna’s tail thumped against the stone.
+
+Apex predator fight.
+
+Apex predator Luna.
+
+Apex predator Second.
+
+Very good mountain lesson, and right on time.
+
+The steak finally reached Luna’s hands!
+
+She bit in.
+
+Crisp edge cracked first. Hot juice flooded her mouth, rich and deep and full of the elder’s stubborn vitality. Mana tingled through the meat in bright little sparks, stronger than the younger behemoths, thick enough that Luna felt it slide down her throat and bloom behind her ribs.
+
+Her toes tippy-tapped against the stone.
+
+“Mmmhm!”
+
+Syliana ate more slowly, watching Luna over her own steak.
+
+“After this,” she said, “we need to return to civilization.”
+
+Luna paused only long enough to swallow. “For more salt?”
+
+“For several reasons.”
+
+“Spice?”
+
+“That too.”
+
+Luna nodded. She wanted to hunt some more, but spice was too awoomazingly nice to go without!
+
+“We used too many potions here,” Syliana said. “All of yours, and mine. We need to restock and sell part of the behemoth harvest.”
+
+Luna hugged her steak closer.
+
+“Parts you’re not likely to eat,” Syliana said.
+
+Luna relaxed enough to keep chewing.
+
+“As impressive as your appetite is,” Syliana added, “you cannot eat an elder behemoth and twelve normal ones all on your own. And I bet it would taste even better with many cooks helping out.”
+
+“Like Mister Grevan and friends?”
+
+“Yes, Luna. Like Mister Grevan and friends.”
+
+She considered the problem.
+
+Her Maw felt heavy and stretched, her belly was pleasantly full of steak. But–!
+
+Luna’s snacky later-food was becoming smaller and smaller. Luna found that being able to snack on whatever whenever meant she opened the Maw often and ended with ant crunchies, drake strips, spicy jerky, bread, fruit, or whatever other goodie she wanted to nom on next.
+
+Straight to mouth to chew on whenever Luna wished!
+
+She needed more!
+
+And towns had food stalls. Spices, fresh bread, stew bowls, fried fish, maybe new sandwiches, and maybe more human food inventions that happened while Luna was busy hunting.
+
+“Mmhmm,” Luna said, licking juice from her thumb. “Second right.”
+
+Syliana’s eyebrows rose. “Am I?”
+
+“Potions, safe rest, selling extra bits, food stalls, spice, and more Maw snacks is good plan!”
+
+“I would hope so, yes.”
+
+“And preparing more snacks is impawtant!”
+
+“Of course.”
+
+“Like behemoth jerky!”
+
+“Mhm.”
+
+“Behemoth meatloaf?”
+
+“With the right cook, yes.”
+
+Luna’s ears lifted.
+
+“Behemoth sandwich?”
+
+Syliana smiled.
+
+“Almost certainly.”
+
+Luna’s tail thumped against the stone.
+
+Civilization had delicious arguments.
+
+***
+
+Syliana mentioned several possible destinations while they ate, but Luna only half listened. Weird human considerations! She just wanted more tasty food! And potions to hunt more later, yesh.
+
+She listened most carefully when the words were food, spice, selling monster materials, or nearby stalls.
+
+After listing all the options, Syliana leaned back against a stone.
+
+“But let’s choose after we move to a safer campsite. We are too close to the battle site, and it would be best to make some distance before nightfall.”
+
+Luna looked around at broken trees, blood, elder scent, cratered ground, and smelled how the distant monster trails were already shifting now that the range knew its apex predator was gone.
+
+Safer campsite was smart.
+
+Annoying, because steak stone was here, but smart.
+
+They packed what they needed, cleaned the cooking stone, and moved before the light faded. Luna carried Syliana in wolf form again, slower than before because her body was tired and her Maw felt like it had swallowed a mountain, which was almost true. Shadow Cloak lay smooth across her fur, keeping ash, dust, and blood from clinging while Syliana’s hand rested between her shoulders.
+
+They found a sheltered rise with a narrow approach, clean wind, and no fresh monster stink nearby.
+
+Syliana prepared the camp, even as Luna circled the place three times before settling down with her head across Syliana’s legs. The elf sat with her back to a stone, one hand already sinking into the fur between Luna’s ears.
+
+Perfect.
+
+Stars came out above the Vaelthorn Teeth.
+
+Luna watched them until the bright points began to blur. Her bruises pulsed slower under Syliana’s hand. The big hunt hummed through her bones, but tiredness pressed heavier with every breath.
+
+With the next road almost chosen, Luna wondered what her packfriends were doing.
+
+Her tail gave one sleepy thump.
+
+Pack was far away.
+
+But still pack.
+
+Syliana’s fingers moved slowly through her fur, offering gentle scritches.
+
+“Sleep, Luna.”
+
+“Mmhm.”
+
+Luna tucked her nose against Syliana’s knee.
+
+She dreamed of stars above mountain teeth, giant steaks sizzling on hot stone, and many happy voices reaching for shared food.

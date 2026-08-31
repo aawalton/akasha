@@ -1,0 +1,153 @@
+---
+id: 7842ee44-b09e-572c-8714-11c930560522
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60-61: Lord of Nightmares"
+slug: 0341-chapter-60-61-lord-of-nightmares
+partOf: labyrinth-of-the-mad-god
+position: 341
+ownLength: 3714
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3891703/chapter-60-61-lord-of-nightmares"
+royalRoadId: "3891703"
+---
+
+“Fall back!”
+
+After their battle in the Blade World, Fritz and Nick worked together like a well-oiled machine. He switched off Force Acceleration without hesitation as Size Up started wailing in his ear. His body came to a gentle stop while his force clone went barreling toward Zora like a battering ram.
+
+Before the projection reached the dreadbeast’s position, a host of shadowy forms rounded the corner, intercepting the clone and tearing it to shreds. More Nightmares were converging from all sides, including the rooftops and the sky above. Their arrival changed the conflict’s dynamics in an instant. Instead of a one-on-one boss battle, he was facing an army of minions and the monarch pulling their strings.
+
+Nick found himself immersed within a ravenous tide. He was surrounded and severely outnumbered, and the situation was only going to get worse when the dreadbeast recovered from its one-sided beatdown and added its magic to the mix. He’d lost sight of Zora when the swarm appeared, and with so much mana filling the air, he couldn’t track the creature with his energetic senses either. It left him with little choice other than eliminating as many constructs as possible before his dilemma grew more dire than it already was.
+
+He infused Blightbane with Devour and started slinging spells, carving a path through the battalion of shadow beasts hounding for his blood. He cut down a pair of wolves, tore a trio of cats to shreds with a single drill, and unleashed a cascade of darts that erased a dozen winged Nightmares in half as many heartbeats.
+
+All the while, his instincts were screaming that something was wrong, beyond the obvious peril posed by the Concept-spawned horde. A score of constructs had sacrificed themselves to keep him pinned down. The rest of the gloom-shrouded swarm was converging on Zora’s position—far more minions than the space should allow.
+
+When he heard the monarch’s maniacal cackle, Nick realized he’d been tricked. Instead of calling for reinforcements, the dreadbeast was reabsorbing the magic it had instilled within its army, using the energy for another purpose instead.
+
+He tried to brute force his way through the press, but there wasn’t enough time. As he exchanged blows with a squadron of twisted shadows, the rest of the Nightmares reached the monarch’s body, encasing Zora in living darkness as it began to transform.
+
+The mothman abandoned its human guise, swelling to twenty feet tall in ten seconds flat. Midnight wings that would have done a passenger jet proud emerged from its back as chitinous blades erupted from its carapace.
+
+By the time Nick destroyed the final minion headed his way, Zora had completed its metamorphosis and took to the air. The dreadbeast’s features were hideous and combined with the shroud of insatiable darkness pulsating like a demon’s heart, its Nightmarish form was terrifying to behold.
+
+“Witness my true power, vermin!” The Death of Dream’s voice reverberated across the capital. Its rich, almost seductive tone was a thing of the past, replaced by a screeching cadence that sent shivers down his spine.
+
+“You will suffer the fate of all who oppose me. I will drain you dry and reduce your body to a weeping husk, but I will not end your pain. You will watch as I strip the flesh from your friends’ bones and feast upon this world’s core. You will wander the planet’s barren surface until the suffering is too great and you take your own life, cursing your weakness as you wade through the ashes and wallowing in your inadequacy until your final breath.”
+
+The dreadbeasts all had a penchant for monologue, as their kind didn’t have many chances to engage in a proper conversation. It continued to rant while extoling its superiority, and Nick didn’t let the opening go to waste. He kicked his brain into overdrive, evaluating Zora’s new form while coming up with a plan to cut the loquacious bastard down.
+
+The first thing he noticed was the monarch wasn’t wasting time either. While it postured and threatened, the moth’s wings were emitting a venomous cloud infused with death mana. However, Force Armor’s upgrade was filtering the toxin from the air and preventing the miasma from touching his skin, which meant the filth couldn’t hurt him while his aura was intact.
+
+Zora hadn’t realized Nick was immune, which bought him a few precious seconds to complete his analysis and concoct a strategy. Even with his superhuman brain, he didn’t have time to consider the input of each of his senses in turn. Instead, he combined the information from Size Up, mage sight, and mind sense to evaluate his opponent in a flash.
+
+The dreadbeast had grown considerably stronger after reclaiming its magic, but its attributes hadn’t scaled to match its prodigious size. The true threats were the dense weaves of mana swirling in its core and the heavy cloak of Concept encasing Zora’s carapace.
+
+It’s going to use those wings to stay out of reach, wearing me down before going in for the kill. Its Nightmare mantle is a malleable shield, but that doesn’t mean it can’t form more minions at will. I’ll have to keep an eye out for attacks coming from other directions.
+
+Of course, Nick wasn’t just standing there scratching his head while his assessment was underway. A portion of his awareness was hard at work priming his counterattack, conjuring a half-dozen Mana Darts, a trio of Piercing Rays, and an array of Arcane Shields. At the same time, he infused Blightbane with the blend of energies required to fire Sonic and Severing Slice back-to-back while using psychokinesis to draw his wand and send it hovering beside his head.
+
+By now, Zora had realized its venom wasn’t working. It stopped ranting, confirming his theory that while its vitriol was genuine, the dreadbeast’s banter was tactical rather than a consequence of losing control. Its diatribe cut off as heavy flows of mana emerged from its core, casting spells of its own while drawing Nightmare from the Concept enshrouding its wings.
+
+A drop of sweat ran down Nick’s cheek, dripping off his chin as man and dreadbeast prepared to unleash their strongest attacks. When the droplet struck the ground a heartbeat later, both combatants exploded into motion.
+
+The monarch was fast, but he was faster. When he sent a Sonic Slice screaming toward the sky, Zora didn’t have time to get out of the way. Instead of dodging the supersonic attack, the moth used the fraction of a second at its disposal to adjust the shape of its mantle. Its Concept concentrated along the angle of his strike, reaching out to intercept Sonic Slice. It adjusted the technique’s trajectory by a few degrees, slipping past the creature’s thorax with millimeters to spare.
+
+The monarch swerved to evade the Severing Slice that followed in Sonic’s wake, carving off a swath of its shadowy shroud along the way. The interaction confirmed his suspicion that Devour trumped Nightmare when they met head-to-head. While that was a promising development, it wasn’t all good news. The spells he’d fired in time with his techniques disappeared within the monarch’s mantle, extinguished before they contacted the body beyond.
+
+Zora is too fast to land a Severing Slice from this distance, and my spells aren’t strong enough to penetrate its defenses. I need to infuse Blightbane with Devour and attack from melee range. He was ready to skywalk to the dreadbeast’s elevation, but the Death of Dream had no intention of letting him close the distance.
+
+The moth let loose a brutal barrage of jet-black bolts, falling from the sky to claim Nick’s life. He carved the first volley out of the air with Blightbane, neutralizing Zora’s Concept and stealing a portion of the magic the missiles contained. However, the attacks were far more dangerous than mere projectiles. When he dodged the next set, they struck the paving stones behind his back and Size Up issued a warbling wail.
+
+He took the skill’s warning to heart. Acting on instinct, he used Force Acceleration to swerve at breakneck speed… just as a swarm of shadowy forms attacked from his blind spot. It seemed the monarch could change Nightmare’s form freely, alternating between armor, arrow, and minion at will. The magic wasn’t as malleable as Bret’s darkness or Bandit’s Shadow Flame, but each construct could operate independently, making the technique remarkably effective.
+
+He ducked and dodged like a fiend, using spells and swordplay to sever inky bolts and twisted beasts in a frenetic frenzy of motion. The dreadbeast cackled as his position was overrun by a horde of demonic rodents and wolves. He fired his wand and conjured more Arcane Shields, keeping the press off his back while his darts cleared the air of shadowy birds and bats. Nick wanted to execute another Severing Slice, but he couldn’t pull it off while hounded on all sides.
+
+Dealing with Zora’s on-demand army was trouble enough, and the creature had another card to play. The black bolts and ravenous shadows were a merger of darkness and death mana—blended by the dreadbeast’s Concept to produce magic that took on aspects of each. The fire spells Zora stole from Ban-Li were incompatible with the rest, but that didn’t mean the creature couldn’t cast them.
+
+When Nick leapt out of the way of a Nightmare-blade volley that became a horde of serpents upon striking the ground, his combined powers of perception warned him of another impending danger. He had just enough time to set two Arcane Shields in front of him before a tremendous explosion ensued.
+
+The air became flame in the blink of an eye. Both barriers shattered and Force Armor fractured as he went flying like he’d been kicked by a giant. He hit the ground hard, bouncing and spinning as fresh flows of fire mana converged his position.
+
+He switched off Force Acceleration in time to stop himself from rolling into the next blast, then reactivated the ability and threw himself out of the way of the third. Although Nick evaded the brunt of the barrage, the explosions were powerful, draining his mana as Force Armor prevented the pressure from pureeing his organs.
+
+The eruptions hit like a truck, and Zora wasn’t done yet. The dreadbeast supplemented its artillery with infernal pillars of flame. It used the blazing beams to cut off every avenue of escape, driving him into the path of the next detonation.
+
+The assault was ferocious, but Nick’s overclocked brain was quick to adapt. Ever since the moth took to the skies, he had been firing an endless salvo of Piercing Rays and Mana Darts. Far from a futile gesture, he’d been probing the creature’s defenses, watching his magic interact with its Nightmare mantle to discern its limitations.
+
+Zora had to condense its Concept to counter his abilities, which meant if he struck from multiple angles at the same time, some of were bound to break through. His spells were more responsive than ever after his explosive gains, and he could adjust their trajectories effortlessly. He sent five streaking toward the moth’s head. The instant its mantle coalesced to repel them, he bent fifteen more toward its body like fingers curling into a fist.
+
+The dreadbeast screamed when the assortment of whirling drills and silvery wedges struck. The rays cracked its chitin carapace while the darts sank into its energetic network, turning a portion of its vital energy against it. Neither were strong enough critically injure a foe of this caliber, but it was proof that his spells could deal significant damage. If enough attacks landed, they would exact a toll.
+
+Of course, the opposite was true too. Zora’s explosions and searing rays would leave Nick in a bad way if they landed a direct hit, and every spell he countered was draining his mana. He couldn’t afford to let Force Armor shatter, or he would be bathed in the toxic soup drifting from the monarch’s wings.
+
+Combined with the threat of being struck by the moth’s Nightmare bolts and the minions spawning behind his back, this was easily the most difficult fight of his life. The battle was balanced on the blade of a knife, and the Death of Dreams had more tricks in store.
+
+While they traded fire, the monarch assailed Nick’s mind. It wove dream mana into countless forms that were unlike anything he’d encountered before. Some spells created tendrils that entered his brain, manipulating his thoughts and distorting his senses. Others created illusions that hovered before his eyes, depicting his greatest fears.
+
+Resisting them required effort, but by this point in his adventures, his will was stronger than steel. He shook off the monarch’s mind control and purged its foul magic with pure mana and Devour, drawing deeper from Arctic Clarity to keep his emotions on an even keel.
+
+Part of the way through the prolonged mental assault, Nick realized Zora was making a mistake. Its psychic attacks couldn’t befuddle him. The moth was wasting mana and Psi pursuing a path that was ultimately a dead end. Its other attacks were considerably more effective, which made him wonder why the creature was overinvesting in a strategy that only qualified as a modest distraction.
+
+Its Concept is predicated on feasting on fear. Zora is having trouble adjusting to an opponent its magic can’t terrorize.
+
+The poor choice of tactics created a gap in the monarch’s offensive, presenting an opportunity to reposition. The dreadbeast was flying too high for Nick to eliminate from the ground, but he was no longer limited to a horizontal plane. With his upgraded attributes, his platforms could create a stairway to the sky.
+
+Better still, he could ride them without reducing his weight, although they didn’t fly as fast as he could travel by leaping from barrier to barrier. He didn’t have to worry about falling to his death thanks to Force Acceleration, which meant he could bounce around at breakneck speed with nothing holding him back.
+
+The moth banked hard when it saw him coming, gaining altitude as it tried to open some distance. Zora couldn’t divide its attention as effectively Nick, so it prioritized coverage instead of precision. It created a cluster of explosions in its wake while soaring toward the clouds above. At the same time, the monarch turned part of its mantle into a flock of birds, sending them swarming from all sides to delay his advance.
+
+Even still, he was gaining on the cunning creature as the palace shrank to the size of a child’s toy. When the monarch realized it couldn’t get away, it turned on a dime and charged him instead, combining beams and explosions to drive him back while its minions waited in the wings.
+
+Zora could sense the platforms hanging in the air, and after it almost claimed his head by predicting where he would jump, Nick started switching things up. He conjured multiple barriers to increase his options. Sometimes, he leapt from one to another. Others, he surfed on the Shield beneath his boots to move himself out of the way. When a pillar of fire arrived from an angle he couldn’t evade, he tilted the platform like he was riding a wave, blocking the conflagration while trailing blaze like a comet.
+
+The longer the fight wore on, the more certain he became the creature’s core contained a critical weakness. It might be temporary, but right now, too many elements of the other monarchs’ essence, Concepts, and mana remained. While the dreadbeast’s energy was as vast as the sea, the opposing magics rebelled against one another, creating inefficiencies and weaknesses he could exploit.
+
+For one thing, the shadow-aspected minions couldn’t approach the searing tides of flame. For another, while Fenrir’s power let the moth multiply its constructs a hundred times over, Nightmare’s reliance on instilling terror made the summons far weaker against opponents who weren’t afraid.
+
+Zora’s Concept was older and its reserves were deeper, but every aspect of the All-Devouring Blade was unified, all the way down to his abilities and bloodlines. His Build had been refined, tempered, and honed to form a syngenetic whole that grew stronger with every exchange of blows.
+
+Nick carved his way through the winged horde, dodging, blocking, and disrupting fire magic along the way. Blightbane was shining like the full moon, packed full of energy and ready to fire. His next Sonic and Severing Slice combo almost claimed the monarch’s life. It pulled off a desperate dodge at the last possible second while playing its ace in the hole.
+
+Its mantle of Nightmare detached from its body, spreading like a net to engulf him in a living cloud that extinguished the light of the world. He was immersed within an ocean of consummate darkness, rendering his eyes useless as Zora burned through its reserves to regain the upper hand.
+
+It would have been the end of most people, but Nick didn’t need eyes to see. He used Theater of the Mind’s Eye to recreate his surroundings, supplementing his insane powers of visualization with his energetic senses to track the dreadbeast and unravel the nature of its attack.
+
+The cloud of Nightmare was a gigantic minion formed from the full force of Zora’s Concept. It generated a psychic assault that was considerably stronger than any that had come before, trying to make him afraid and siphon his vital energy. The malefic miasma could also condense to launch physical attacks, which meant he was trapped inside a sentient shredder.
+
+He tried slinging spells and letting loose with Severing Slice. The Nightmare behemoth flowed around his magic like missiles through mist, taking negligible damage while chipping away at Force Armor and the bastion of willpower shielding his psyche.
+
+Nick was in a tight spot, but witnessing the dreadbeast’s powers up close led to some profound insights regarding the nature of Concepts, building on what he learned from speaking with Bandit while crossing the dungeon. Unlike abilities granted by the System, Concepts were reflections of their bearers’ quintessential selves—soul granted physical form. They combined essence and mana and could be used in two primary ways.
+
+Concepts could infuse abilities and techniques to grant them additional aspects, but they could also be controlled directly in a process that was similar to free-casting spells. His instincts were telling him this manifestation was the latter, and it could be countered by taking the same approach.
+
+Nick didn’t have as much mana as Zora, and while Devour was more potent and better integrated, he couldn’t manifest nearly as much at the same time. However, he didn’t need to defeat this carnivorous ocean of shadow; he just needed to protect himself long enough to close the distance and take the dreadbeast down.
+
+While weathering endless attacks from the moth’s colossal minion, he visualized the form he wanted, drawing Devour out of his energetic network and into the space around his body. He created a sphere, added blades to the surface, and set it spinning at an incredible rate, forming a ball of magic-severing Concept centered on his position as he launched himself off a platform with explosive speed.
+
+Nick tore the heart out of the Nightmare cloud, slicing and dicing every wisp of shadowy magic that dared to enter Devour’s territory. He carved a path like a comet through smoke, assimilating the shorn scraps of Zora’s mantle and claiming its power for his own.
+
+He thought he could turn this into a technique that would let him control the battlefield, erasing hostile spells and sapping vital energy from his foes while leaving his friends untouched, but that wasn’t important right now.
+
+Ready to enact a gambit of his own, he drew deeply from the magic within and fired two dozen spells at once, casting over and over to form a relentless barrage. Piercing Rays and Mana Darts came at the Death of Dreams from three sides, forcing it to dive to get out of the way.
+
+He kept them coming while adding Severing Slices to the mix, preventing the monarch from reforming its mantle as the ground came rushing up to meet them. The dreadbeast was completely engaged with weathering his full-power assault, which meant the moment of truth had arrived. He didn’t have enough in the tank to try this again, and his fate would be determined within the next fleeting handful of heartbeats.
+
+The next time Nick swung Blightbane, his fingers came free from the hilt. The weapon went spinning through the air in a streaking flash, heading straight for the monarch’s heart.
+
+Zora sensed the Legendary sword coming a bare second before impact. It swerved out of the way while shrieking in delight, thrilled that he’d disarmed himself at this critical juncture—certain that despite facing far fiercer resistance than it had anticipated, fate had smiled upon the monarch once more.
+
+If Nick had let go his blade by accident or intended his throw to land the killing blow, this would have been the final, frustrating sentence in the story of his life.
+
+His tale had only just begun.
+
+Their war in the Blade World had strengthened Fritz too, restoring a portion of the damage his soul suffered while battling the Crimson Blight. Thus, when the king’s regal form materialized beside the soaring sword, the attack he unleashed was an order of magnitude mightier than anything he’d issued before.
+
+Nick had infused Blightbane with pure mana and Devour, tying off the weaves so the magic didn’t dissipate right away. Combining multiple techniques into a seamless tapestry, the Last King of Kastilla kicked off the platform Nick conjured while Zora was distracted.
+
+Fritz reversed his direction while spinning toward the dreadbeast, burning through his energetic reserves to unleash a devastating strike. The colossal cloud of darkness was reaching out to reform the monarch’s mantle, but it was already too late.
+
+The Concept-clad blade sheared off a great, shadowy wing while carving a canyon into the chitin below, driving the Death of Dreams into the ground with an impact that shattered the stonework.
+
+The noble warrior rode the plummeting moth, waiting until the last moment to fling the sword Nick’s way. Fritz dematerialized before the monarch crashed, grinning as Blightbane landed in Nick’s hand and the battle arrived at its gore-splattered finale.

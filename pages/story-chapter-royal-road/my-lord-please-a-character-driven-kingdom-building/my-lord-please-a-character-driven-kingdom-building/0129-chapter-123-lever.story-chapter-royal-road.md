@@ -1,0 +1,211 @@
+---
+id: 68c0ed22-24cc-5946-96e9-2f731ff16e57
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123 Lever"
+slug: 0129-chapter-123-lever
+partOf: my-lord-please-a-character-driven-kingdom-building
+position: 129
+ownLength: 2009
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3891683/chapter-123-lever"
+royalRoadId: "3891683"
+---
+
+“I have something that might help, Lord.”
+
+At the blacksmith's words, Lucien turned to him slightly, his brow lifting in question.
+
+Joren didn't look pleased despite being the one who had spoken, while a huff left Harlon's mouth.
+
+The carpenter gestured toward the bundle behind Joren. “You want to show him that? I thought you said it wasn't ready yet.”
+
+“It's not. But we can't afford to wait any longer, not with orcs sighted near Ashridge,” Joren said, the words coming out rough.
+
+Lucien's gaze moved between them for a brief moment before settling on the blacksmith. “What is it, Joren?”
+
+The man remained still for another breath before exhaling sharply. Turning around, he moved several planks aside and lifted the bundle with more care than his expression suggested.
+
+Setting it down beside the drawing of the scorpion, he unwrapped it.
+
+It was shorter than the stirrup crossbows. That was the first thing that came to mind when Lucien laid eyes on it.
+
+The stock was thicker near the lock and reinforced by narrow bands of dark iron. Some parts of its frame still bore tool marks in places where it had been shaped and reshaped, while one side had clearly been replaced after what must have been an earlier failure during a test.
+
+At some point, Joren reached behind him and took out a crude iron lever with two hooked ends, placing it down beside the short crossbow.
+
+Lucien’s eyes remained fixed on the lever as he tried to recall if he had seen anything like it in his former world. He knew the more familiar versions of crossbows from stories and games, but the one before him did not stir any memory.
+
+He glanced at the blacksmith. “What kind of crossbow is this, Joren?”
+
+Before Joren could reply, Harlon spoke first.
+
+“He calls it a hooked lever.”
+
+Ignoring the annoyed look from Joren, the carpenter blew smoke from his pipe. “Joren came to my shop a few weeks ago with an idea for something that wouldn’t take as much work as the windlass, but still had more bite than the stirrups.”
+
+He gestured to the lever. “Brought that along with him too...well, something close to that shape at least.”
+
+Joren grunted but remained silent while Lucien looked from the lever to the crossbow again.
+
+“How strong is it compared to the stirrup crossbow?” he asked, eyes meeting the blacksmith.
+
+Looking down at the weapon, Joren scratched the corner of his beard before he spoke. “We tested it against a few planks out back...wanted to keep things quiet after hearing Lord Rathenfell had a scribe asking after our crossbows.”
+
+He tapped the stock with one finger. “It bites harder than the stirrups, and the bolts are heavier too. But it doesn't hit like the windlass does, and I don't know how much it can take if the militia use them for long.”
+
+Lucien watched the man closely, realizing that the heavy shadows beneath his eyes likely came from this work, not from the old smith as he had first assumed.
+
+“...Something on my face, Lord?” Joren muttered, glancing away.
+
+Shaking his head, Lucien looked back down at the crossbow. “Can you estimate how long it would take to build, and how difficult it would be?”
+
+Harlon took the pipe from his mouth, pointing at the frame with it. “Not yet, Lord. I have been busy with the work at the housing site and the sawmill...the blades still shake too much when we're cutting wood.”
+
+He shot a look at Joren. “If a certain someone would just come and take a look instead of insisting that the blade is properly forged.”
+
+“It is. I checked more than a few times before sending it off to you,” the blacksmith shot back.
+
+The corner of Lucien's mouth lifted briefly before he cleared his throat, stopping the familiar exchange from devolving further.
+
+“How about this?” He gestured to the weapon. “When do you expect it to be done and ready to test in the field?”
+
+Joren stroked his beard in thought. “All that's left is to smooth out the lock and reinforce the side of the frame that broke when we last tested it.”
+
+He pointed to the same spot Lucien had noticed earlier. “It won't be finished properly, but it'll hold long enough to see if the thing works.”
+
+His thumb brushed over one of the iron bands near the lock. “A day...two if this old man insists on arguing about the frame again.” Joren's gaze flicked toward Harlon.
+
+“That frame is the part keeping your clever iron from throwing itself apart,” the carpenter shot back.
+
+Lucien shook his head. “Two days then. We can't afford to have someone injured during the test. Delay it if you two aren't sure.”
+
+At his words, they stopped their bickering and gave slow nods.
+
+“We can find out how long it takes to build after the test. But if it is truly stronger than the stirrup, we will have the ones most proficient with crossbows use it.” Lucien rested his hands on the table.
+
+His fingers tapped lightly. “Alicia has been keeping track of the men's performance with crossbows for the militia ranking board as well...we can use that to determine who tries it first.”
+
+At the mention of the maid, Joren froze as his eyes drifted toward the scorpion drawing.
+
+It seemed he wasn't the only one who noticed, as Harlon turned slightly toward the blacksmith at the odd reaction.
+
+As the carpenter studied him closely, Lucien was about to interject when movement sounded outside the door.
+
+Joren jerked at once, then turned to drag the cloth over both the drawing and the crossbow.
+
+Harlon's brow creased when he saw who it was at the door.
+
+One of the men Lucien vaguely recognized from among the carpenters hesitantly spoke.
+
+“Apologies, My Lord.” He dipped his head before turning to Harlon.
+
+“Master Harlon...some of the refugees helping us are asking how the marked patterns should be used for the second group of longhouses. I tried asking the carpenters outside, but they aren't very sure either.”
+
+At those words, Harlon let out a breath. “Wait for me outside. I will be there shortly.”
+
+The man bowed toward Lucien once more before leaving.
+
+“I will work on the frame tonight, Joren. Remember to pass me the measurements for your...lever crossbow.” Harlon took the pipe from his mouth and stored it in his pouch.
+
+“Aye. I'll leave them here later. Can't send my apprentices over, so I'll be coming by personally again,” Joren replied.
+
+Turning toward Lucien, Harlon dipped his head. “Lord. If there's nothing else?”
+
+At his gesture, the carpenter turned to leave.
+
+Only when the sound of Harlon's boots had faded entirely did Joren’s shoulders relax.
+
+“Harlon will find out sooner or later, Joren.”
+
+His words caused the blacksmith to tense again before the man exhaled through his nose.
+
+“That oaf's always been the observant sort,” Joren muttered as he took the cloth off the crossbow and Alicia's drawing.
+
+“We can't hide it forever even if he wasn't. Not if I continue to ask her to draw...sooner or later someone will come asking questions,” Lucien replied, looking back down at the drawing of the scorpion.
+
+“I am surprised Harlon didn't question this one in the first place. I thought he would notice something was off.”
+
+At Joren's prolonged silence, Lucien's eyes lifted to see a strangely guilty look on the blacksmith's face.
+
+When he continued staring at the man, Joren finally spoke, teeth gritting. “I told him it was me who gave you the suggestion. Said that I heard about such things from my travels as a journeyman years ago and the crossbow gave me an idea of something like this.”
+
+The blacksmith looked almost ashamed at his own words...it seemed lying wasn't in the man's nature.
+
+“...I see. But that further proves my point. There will come a time when he finds out, even if it isn't this drawing.”
+
+Joren crossed his arms, his brow furrowing. “And what if something happens to her like that hunter if she becomes aware of her...blessing?”
+
+It seemed the blacksmith had arrived at the same possibility Lucien had been circling for weeks.
+
+Lucien rubbed his chin briefly before he spoke. “Sera's blessing changed after a time as well. It no longer seems to burden her as much...perhaps it would be the same for Alicia. Or there might not even be any negative effects at all.”
+
+“But you can't be certain of it, Lord?” the blacksmith pressed, eyes narrowing at him.
+
+When Lucien said nothing, Joren shook his head tiredly, the shadows beneath his eyes making him look even more haggard.
+
+“Her ability and Alicia's are too different, Lord. What's more...it's not just that I'm worried about. What if the village begins turning to her for help more and more?”
+
+He leaned on the table, his weight causing it to creak slightly. “The hunter has a reputation that makes her less approachable compared to Alicia...people are more afraid to ask her for help than not.”
+
+“But Alicia...she's...” He didn't finish the sentence as he exhaled sharply through his nose.
+
+Lucien understood the picture Joren didn't finish painting.
+
+The gentle maid they both knew wouldn't reject helping others with her blessing if she could.
+
+“If I forbid her to do so...” Lucien started, only for the man before him to shake his head firmly.
+
+“And what if she insists? Will you punish her for disobeying, Lord?” Joren cut in, eyes watching him closely.
+
+When Lucien didn't reply, the silence within the room deepened.
+
+“Maybe Bran should decide instead...” Joren muttered after a moment.
+
+“No.”
+
+Joren’s eyes snapped to him. Lucien continued before the blacksmith could mistake the reason for his refusal.
+
+“I will not have a father bear that responsibility, Joren. The burden of whether to tell her or not will lie solely with me.”
+
+Joren's eyes widened before he sighed again.
+
+“Aye...you're right, Lord.”
+
+Lucien had considered leaving the decision to Bran at first, only to abandon the thought after turning it over in his mind. Asking a father to choose between the life his child had always known and the needs of Ashridge would be cruel.
+
+And knowing Bran...that decision would haunt him for the rest of his life if anything happened to Alicia because of it.
+
+Looking down at the parchment, he gestured to it. “We will need the bundled parts, Joren.”
+
+At his words, the blacksmith’s expression tightened. “Lord...”
+
+“I know.” Lucien’s eyes drifted to the scorpion drawing. “And I know what I just said. The decision to ask her is mine, not yours.”
+
+He exhaled faintly. “We both know that while your new crossbow will help...the one Alicia drew is still needed.”
+
+Joren looked ready to argue, but whatever he saw in Lucien's silence made him still himself.
+
+“By your command, My Lord.”
+
+Lucien inclined his head before turning to leave, his fists clenched slightly.
+
+Walking through the village, Lucien could already see the effects of the meeting with Dorian.
+
+The guards stationed at the northern gate stopped any women trying to pass through, asking them to wait until an escort could be found.
+
+Already, he could see them muttering among themselves. If orcs were a known threat on the frontier, then the village would likely know, or at least begin to suspect, sooner or later.
+
+The same sight could likely be found at the eastern gate as well.
+
+Lucien watched them for a brief moment before continuing toward the manor.
+
+As he passed by the nursery, a voice that was usually much softer called urgently.
+
+“Lord Lucien!”
+
+He turned to see Elin running toward him, one hand gripping the side of her skirt. Her face was pale in a way that made the villagers around him straighten.
+
+The boys were right behind her, all of them looking just as breathless.
+
+Coming to a stop in front of him, she took in small gulps of air before quickly speaking. “L-lord Lucien, we...we can't find Cora!”

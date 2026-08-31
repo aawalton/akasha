@@ -1,0 +1,261 @@
+---
+id: bd788be9-17c4-5493-9ed4-d922ee1e95e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: Goldfield"
+slug: 0120-chapter-120-goldfield
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 120
+ownLength: 2814
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3891652/chapter-120-goldfield"
+royalRoadId: "3891652"
+---
+
+Goldfield.
+
+Getting there was the first test.
+
+The platform sat sixty kilometers off the coast of Silberwald, in deep water where the continental shelf dropped into the abyss and the things that lived in the abyss occasionally surfaced to remind humanity that the sea was not its domain.
+
+Titans of the deep patrolled the open water. Ships that ventured more than thirty kilometers from shore returned shattered, or burning, or not at all.
+
+The Imperial Navy had abandoned blue-water operations within a decade of the First Convergence. The fishing fleets that still fed the capital's markets hugged the coastline.
+
+Which meant the only way to reach Goldfield was through the air.
+
+A sustained flight of sixty kilometers over open ocean, at altitude sufficient to clear the reach of whatever surfaced beneath, required a minimum of a Sixth Circle Mage with wind affinity. The passage took forty minutes in favorable conditions. In storm season, it took longer, or it killed you.
+
+The exclusivity was the point.
+
+The Prince of Goldfield had built his principality on a foundation of inaccessibility. His clientele were the powerful, the desperate, and the morally flexible. All three categories tended to overlap.
+
+If you could reach Goldfield, you were worth doing business with. If you couldn't, you were irrelevant.
+
+Elara had made the crossing hundreds of times during the last six years.
+
+She traveled with two escorts. Both Sixth Circle. Both handpicked from a cadre of loyalists whose commitment to her cause had been tested, refined, and tested again until what remained was loyalty born of complicity. They had done things for her that made retreat impossible.
+
+The original structure was still visible beneath the centuries of modification, the industrial skeleton of a deep-sea extraction rig, its four massive support columns descending into the water, its upper decks a lattice of steel beams and concrete platforms that had once housed drilling equipment and crew quarters.
+
+What sat on top of that skeleton bore no resemblance to its origin.
+
+The Prince had built upward. Level upon level of habitation modules, workshop decks, trading floors, and private suites bolted onto the original superstructure in a vertical sprawl that climbed twelve stories above the waterline. Each level had been added by a different builder in a different decade, using whatever materials were available. The result was a tower that looked as though it had grown rather than been built, each floor expressing a different aesthetic united only by the fact that all of them were expensive.
+
+The lower decks were submerged. Through the gaps in the waterline plating, the green glow of underwater mana formations was visible, the Prince's personal ward network extending beneath the surface in a sphere that kept the deep-water predators at a respectful distance.
+
+Elara's escorts brought her down on the twelfth-floor landing platform, a slab of reinforced concrete cantilevered over the open sea. The wind whipped her robes against her body. Salt spray stung her cheeks.
+
+The café occupied the twelfth floor's eastern face. The term was generous. It was a room with a glass wall that looked out over sixty kilometers of empty ocean, furnished with low tables, cushioned chairs, and the kind of deliberate minimalism that announced wealth through the things it chose not to display. The floor was polished stone. The ceiling was bare steel, the original rig's structural framework exposed and lacquered until it gleamed. A bar ran along the northern wall, stocked with bottles whose contents ranged from the merely expensive to the diplomatically sensitive.
+
+The Prince of Goldfield didn't attend these meetings.
+
+He didn't need to. The platform was his territory. Every transaction that occurred within its walls added to his treasury, his intelligence archive, and his leverage over every person who had ever set foot on his steel. He was a Seventh Circle parasite perched on a rock in the middle of the ocean, and the ocean kept him safe while the steel kept his secrets — and the secrets kept everyone who mattered on a leash.
+
+Elara despised him. She also needed him, which was worse.
+
+The table was set for four.
+
+She took her seat and examined the glass that waited at her place. The liquid inside was pale gold, effervescent, the bubbles climbing in steady streams. Champagne. Or what the world called champagne now, seven centuries after the vineyards of France had been consumed by the Titans and the surviving grape varieties had been transplanted to the Californian coast and left to evolve under mana saturation until the fruit they produced bore the same relationship to its ancestor as a wolf bore to a dog.
+
+Out here, sixty kilometers from the court and its eyes and its whispers, she could drink something beautiful and not calculate whether the act of enjoying it would be reported to someone who would use it against her.
+
+She set the glass down.
+
+The first guest was already seated.
+
+He was compact and dark-haired, with the unremarkable features of a man who had built a career on being difficult to remember. His hands rested on the table, still and clean.
+
+He had no name that Elara used. She called him the Contractor. He called her nothing at all, because the Contractor did not use titles or honorifics or any form of address that might, if overheard, connect a speaker to a listener.
+
+"Done," he said.
+
+The word arrived without preamble. The Contractor charged by the hour. Small talk was a billable expense.
+
+"All three?" Elara asked.
+
+"All three. The arrangement was as specified. The tableau will be discovered within the week, assuming the local population investigates the property." He paused. His fingers shifted on the table, the only concession to emphasis his discipline permitted. "The inscription was placed as directed. The phrase matches the material your intelligence provided."
+
+PEACE ABOVE HUMANS.
+
+Elara's mouth curved.
+
+The Aurichts had been a liability since the warehouse in Qalathar burned. Lord Auricht knew the supply chain. Lady Auricht knew the financial structure. The ledgers that linked the Snow Dream export to House Auricht's commercial accounts had been seized by people whose competence Elara had fatally underestimated, and while the physical documents had been destroyed when the family fled, the knowledge in Lord Auricht's head remained a detonation waiting for a fuse.
+
+The false flag was artistry.
+
+The Iron Cross would find the bodies. They would find the inscription. They would connect PEACE ABOVE HUMANS to the coexistence cells, and the investigation would spiral inward, consuming months of operational capacity chasing a network of idealistic students and waterfront philosophers who had nothing to do with the killing and everything to do with keeping Katja's people busy.
+
+Misdirection was the cheapest weapon in the arsenal. It cost less than a single mage's salary and it bought more time than a fortress.
+
+"Payment has been deposited through the standard intermediary," Elara said.
+
+The Contractor nodded once. He stood, crossed the café without looking at anyone, and disappeared through the service corridor that led to the platform's lower levels.
+
+Elara watched him go.
+
+She picked up her glass. Drank.
+
+The second guest arrived.
+
+He entered through the café's eastern door with two attendants flanking him and a third figure — the translator — three paces behind.
+
+The elf was tall. They were always tall. The proportions that humans found unsettling in their species were present in full measure: the elongated limbs, the narrow torso, the face that was too symmetrical and too sharp.
+
+His ears swept back from his skull in tapered points that extended past the crown of his head. His hair was pale silver, worn long, bound at the nape with a cord of something dark.
+
+Commander Aerinvael.
+
+Elara did not know his rank in the elven hierarchy. The title "Commander" was her approximation, derived from the scope of forces he controlled along the Empire's southern frontier. He oversaw the elven formations that pressed against the frontline.
+
+The arrangement had begun with a book. A single volume of elven spellcraft, Third Circle offensive architecture, that Aerinvael had offered through an intermediary as a gesture of goodwill. The book had contained techniques that the Academy had spent decades trying to reconstruct from battlefield fragments. Techniques that Elara had absorbed in three weeks of intensive study and had never shared with anyone.
+
+In exchange, Elara had provided a map. Patrol schedules for the Regular Army. Rotation dates. Strength estimates. The kind of intelligence that, in the hands of an elven commander, would allow precise calibration of pressure.
+
+The arrangement had grown from there.
+
+Aerinvael settled into the chair across from Elara. His attendants took positions against the wall, still as statuary. The translator — a half-elf woman with olive skin and dark eyes who spoke both Elvish and Imperial with native fluency — sat at the table's edge.
+
+The translator spoke. "The Commander extends his greetings. He wishes to know whether the Empire's posture regarding the frontier has changed."
+
+"It has not," Elara said. She addressed the translator. "My brother Kasimir's attention remains fixed on his research. His alliance with House Hexenzeit has consumed his political energy. The garrisons will maintain their current strength and rotation schedule through the winter and into the spring. No reinforcements are planned. No offensive operations are being considered."
+
+The translator relayed the information in Elvish. The sounds were liquid, musical, entirely devoid of the harsh consonants.
+
+Aerinvael listened. His green eyes remained on Elara throughout. When the translator finished, he spoke. A single sentence.
+
+The translator said, "The Commander thanks you for the intelligence."
+
+Elara didn't press. What she needed to know about Aerinvael's strategic posture she obtained through other means — intercepted communications, bribed intermediaries, and the careful analysis of which patrol routes went quiet and which garrison towns reported fewer skirmishes. The picture assembled itself from fragments, and the fragments were enough.
+
+Their interests aligned. That was all an arrangement required.
+
+Aerinvael reached beneath the table.
+
+The book appeared in his hands. He set it on the table between them and spoke a single word.
+
+The translator said, "Fifth Circle."
+
+Elara's hand did not move toward the book.
+
+She let it sit. She finished her champagne. She set the glass down with a soft click of crystal on stone.
+
+Then she took the book and placed it in the leather case beside her chair without opening it. Another volume to her collection.
+
+"Thank you," she said.
+
+Aerinvael's mouth moved. Elves didn't smile the way humans did. The expression was something adjacent — an acknowledgment, perhaps. A recognition that the transaction was complete and the terms had been met.
+
+They left through the same door they'd entered, and the café was empty again.
+
+Elara poured herself a second glass. Kasimir bled searching for a way to avoid conflict. Varen drilled Knights who could not sit at this table. She was the only one who would use Goldfield get more powerful than she was.
+
+The third guest was late.
+
+This was expected. The orcs operated on a temporal framework that bore no relationship to human scheduling. Their concept of punctuality was approximately aligned with their concept of courtesy, which was to say it didn't exist.
+
+He arrived twenty minutes past the agreed time, filling the café's eastern doorway with a frame that made the door look undersized. Though the world called them orcs, the word was a relic of the old world that bore no resemblance to what stood in front of her. What Elara saw when she looked at Commander Gorthar was a demon.
+
+He was massive. His skin was the color of scorched clay, a deep earthen brown with the texture and density of volcanic rock. Thick ridges of scar tissue ran across every visible surface, and the scars glowed. A dull, sullen orange that pulsed with his heartbeat, as though something molten ran beneath the surface.
+
+The horns were the worst of it. They rose from his temples in long, sweeping curves that arced backward and upward.
+
+He wore armor. Not the polished ceremonial plate of a diplomat but the scarred, salt-crusted iron.
+
+He sat.
+
+The chair groaned.
+
+He spoke. The language was percussive, guttural, each word expelled with enough force that flecks of saliva were thrown in her direction.
+
+Elara maintained her expression. But beneath the mask, the revulsion was absolute.
+
+The orcs were the species she would see eradicated.
+
+The translator — a different one, a gaunt man with scars across his throat who spoke Vrakh with the fluency of someone who had learned it under difficult conditions — conveyed the orc's words.
+
+"Commander Gorthar sends word from the northern fleet. The next raid on the Republic's eastern coast is planned for early spring." The translator's voice was flat, practiced. "He asks whether the Princess can generate a distraction within the Republic that would draw the Wolkenmark garrison's attention away from its shores during the landing window."
+
+Elara considered the request.
+
+The Wolkenmark raids were not her concern. The Republic was a foreign nation.
+
+But the orcs sat at this table because they had something she wanted, and maintaining her seat required that the other chairs remain occupied.
+
+"I will look into what can be arranged," she said. The words were measured, noncommittal, the diplomatic equivalent of an empty hand extended palm-up. "At present, I have no assets positioned. The timeline is tight. I make no promises."
+
+The translator relayed it. The orc grunted. The sound was dismissive but not hostile.
+
+Then the orc reached beneath the table.
+
+What he produced was not a book. It was a tooth. A molar the size of Elara's fist, extracted from something that had died badly. The root was black.
+
+The translator said, "A Titan's tooth. Harvested from a carcass the fleet encountered in the northern passage. The bone retains ambient mana at a concentration the Commander believes you will find useful for your research."
+
+Elara looked at the tooth.
+
+Its mana signature was dense. The kind of material that the Academy's alchemists would spend months analyzing and years arguing about.
+
+She took it.
+
+She placed it in the leather case beside the elven book.
+
+"Convey my thanks," she said.
+
+The orc stood.
+
+He left the way he'd come, trailing the particular smell that his species carried. One that Elara found disgusting.
+
+The aide appeared at the café's entrance.
+
+He was young. One of the Sixth Circle escorts, the one with the softer features and the earnest eyes. The kind of man who would follow her into the sea if she asked, and who believed, with the conviction of the truly devoted, that everything she did was in service of a greater good.
+
+Useful men were more useful when they believed.
+
+"Your Highness." He approached the table. "A communication arrived through the priority channel."
+
+Elara set her glass down.
+
+"The facility," the aide said. His voice dropped. "Site East. The research station. Someone attacked it."
+
+Her fingers stilled on the stem of the glass.
+
+"Attacked," she repeated.
+
+"The alchemist is in custody." He swallowed. "The — the asset. It's dead."
+
+The wolf. The three-tailed Titan that Sigrid had spent months drugging and studying and trying to bend to a leash. The centerpiece of the entire operation — dead.
+
+Elara's expression did not change.
+
+The loss was significant. She would need find another centerpiece. Another countermeasure.
+
+"Who?" Elara asked.
+
+The aide hesitated. "The reports are incomplete. The garrison's communication equipment was seized. What we know comes from the survivors who fled during the initial assault." He paused. "Imperial operatives. A small force. Iron Cross, possibly. Led by—" He stopped.
+
+"Say the name."
+
+"Kaspar von Hexenzeit."
+
+Elara picked up her glass. She studied the bubbles rising through the pale gold liquid.
+
+Varen's pet project.
+
+The boy kept appearing. Like a weed that kept pushing through soil that had already been poisoned twice.
+
+"How exposed is the operation?" she asked.
+
+The aide calculated. "Sigrid's identity was known only to the garrison staff. The soldiers wore non-standard insignia." He paused. "The prisoners — the garrison soldiers — are the risk."
+
+"Good." Elara set the glass down. "Then let them have it. Let the Iron Cross spend six months tracing leads to dead intermediaries and dissolved companies."
+
+The aide's shoulders relaxed fractionally.
+
+"And the alchemist?" he asked. "Hayyan. If the Sultan—"
+
+Elara stood. She collected the leather case from beside her chair and walked toward the café's exit, the new knowledge acquired knocking softly against her leg.
+
+"The Sultan will learn that an Imperial operation was manufacturing Snow Dream on his doorstep. He will be furious. He will demand an investigation. The investigation will find Sigrid's operation." She paused at the threshold. "The Sultan's fury will fall on the Empire. And we will save the day, by delivering a scapegoat."
+
+She continued walking toward the landing platform, where her escorts waited with the wind already gathered in their palms.
