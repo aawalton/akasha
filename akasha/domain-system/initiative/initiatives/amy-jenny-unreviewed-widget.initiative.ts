@@ -8,6 +8,10 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
+    { statement: "A page type describes a program the system runs on its own." },
+    { statement: "A page type describes a service the workstation runs." },
+    { statement: "A page type describes a service the cluster runs as a workload." },
+    { statement: "A page describes the service answering page queries." },
     { statement: "A workstation answers a page query over HTTP." },
     { statement: "A page query is answered from an index rather than by reading every page file." },
     { statement: "A page query is answered while another is still being answered." },
