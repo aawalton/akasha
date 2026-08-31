@@ -2,5 +2,7 @@
   "name": "@akasha/seat-system",
   "private": true,
   "type": "module",
-  "exports": {}
+  "exports": {
+    "./subagent-standing": "./subagent/subagent-standing/subagent-standing.module.code.ts"
+  }
 }

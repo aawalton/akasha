@@ -6,7 +6,12 @@ export const seatSystem = {
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",
-  partSlugs: ["page-type/seat", "page-type/subagent", "module/seat-reading"],
+  partSlugs: [
+    "page-type/seat",
+    "page-type/subagent",
+    "module/seat-reading",
+    "module/subagent-standing",
+  ],
   invariants: [
     {
       invariantKind: "departure",
