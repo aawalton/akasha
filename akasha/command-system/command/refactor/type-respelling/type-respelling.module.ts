@@ -78,9 +78,5 @@ export const typeRespelling = {
       invariantKind: "absence",
       statement: "Nothing here writes or moves a file.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "The walk over the addresses a value states stands here a second time.",
-    },
   ],
 } as const satisfies Module

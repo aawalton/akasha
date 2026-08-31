@@ -23,6 +23,10 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
+      statement: "A page's own id and slug and page type file no edge.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One write creates and removes only files it alone owns.",
     },
     {

@@ -6,7 +6,6 @@ import {
   exportsNamed,
   referencesOf,
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
-import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
 import {
   everyOfType,
   namersOf,
@@ -15,8 +14,8 @@ import {
 import {
   knownIn,
   namesIn,
+  namingsIn,
   reaches,
-  recordsIn,
   type Shaped,
 } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
@@ -37,31 +36,15 @@ export type Addressed = {
 export function addressedIn(value: Value, known: Shaped, id: string): readonly Addressed[] {
   const found: Addressed[] = []
   const seen = new Set<string>()
-  const take = (key: string, propertySlug: string, held: unknown): undefined => {
-    const wanted = known.targetOf(propertySlug)
-    if (wanted === null) return
-    for (const named of namesIn(held)) {
+  for (const one of namingsIn(value, known)) {
+    if (one.own) continue
+    const wanted = known.targetOf(one.propertySlug)
+    if (wanted === null) continue
+    for (const named of namesIn(one.held)) {
       const reached = reaches(named, wanted, known)
-      if ("refused" in reached || reached.id !== id || seen.has(`${key} ${named}`)) continue
-      seen.add(`${key} ${named}`)
-      found.push({ key, named })
-    }
-  }
-  for (const [key, held] of Object.entries(value)) {
-    if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = known.slugOfKeyIn(value, key)
-    if (propertySlug === null) continue
-    if (known.targetOf(propertySlug) !== null) {
-      take(key, propertySlug, held)
-      continue
-    }
-    const fields = known.fieldsOf(propertySlug)
-    if (fields.length === 0) continue
-    for (const entry of recordsIn(held)) {
-      for (const [inner, said] of Object.entries(entry)) {
-        const field = known.fieldOfKey(propertySlug, inner)
-        if (field !== null) take(inner, field, said)
-      }
+      if ("refused" in reached || reached.id !== id || seen.has(`${one.key} ${named}`)) continue
+      seen.add(`${one.key} ${named}`)
+      found.push({ key: one.key, named })
     }
   }
   return found

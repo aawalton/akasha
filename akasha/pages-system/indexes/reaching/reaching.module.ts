@@ -65,6 +65,22 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "Which property each of a page's keys carries is read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What stands under that key is answered with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's `id` and `slug` and `pageTypeSlug` are answered as the page's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a caller does about a key being the page's own is that caller's own.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The module saying a page's entries names nothing here.",
     },
   ],

@@ -2,7 +2,6 @@ import { basename } from "node:path"
 import ts from "typescript"
 import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
 import { spelledIn } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
 import {
   namersOf,
   readingIn,
@@ -10,8 +9,8 @@ import {
 import {
   knownIn,
   namesIn,
+  namingsIn,
   reaches,
-  recordsIn,
   type Shaped,
 } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
@@ -125,29 +124,13 @@ export function rebound(path: string, text: string, was: string, now: string): s
 
 export function addressingIn(value: Value, known: Shaped, id: string): readonly string[] {
   const found = new Set<string>()
-  const take = (propertySlug: string, held: unknown): undefined => {
-    const wanted = known.targetOf(propertySlug)
-    if (wanted === null) return
-    for (const named of namesIn(held)) {
+  for (const one of namingsIn(value, known)) {
+    if (one.own) continue
+    const wanted = known.targetOf(one.propertySlug)
+    if (wanted === null) continue
+    for (const named of namesIn(one.held)) {
       const reached = reaches(named, wanted, known)
       if (!("refused" in reached) && reached.id === id) found.add(named)
-    }
-  }
-  for (const [key, held] of Object.entries(value)) {
-    if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = known.slugOfKeyIn(value, key)
-    if (propertySlug === null) continue
-    if (known.targetOf(propertySlug) !== null) {
-      take(propertySlug, held)
-      continue
-    }
-    const fields = known.fieldsOf(propertySlug)
-    if (fields.length === 0) continue
-    for (const entry of recordsIn(held)) {
-      for (const [inner, said] of Object.entries(entry)) {
-        const field = known.fieldOfKey(propertySlug, inner)
-        if (field !== null) take(field, said)
-      }
     }
   }
   return [...found]

@@ -13,8 +13,8 @@ import {
   type Known,
   knownIn,
   namesIn,
+  namingsIn,
   reaches,
-  recordsIn,
   type Shaped,
 } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import {
@@ -151,25 +151,7 @@ export function danglingIn(
       if (dies !== null) said.push({ path, reason: cannot(where, dies) })
     }
   }
-  for (const [key, held] of Object.entries(value)) {
-    if (held === null) continue
-    const propertySlug = known.slugOfKeyIn(value, key)
-    if (propertySlug === null) continue
-    if (known.targetOf(propertySlug) !== null) {
-      judge(propertySlug, held, propertySlug)
-      continue
-    }
-    const fields = known.fieldsOf(propertySlug)
-    if (fields.length === 0) continue
-    for (const entry of recordsIn(held)) {
-      for (const [field, inner] of Object.entries(entry)) {
-        if (inner === null) continue
-        const fieldSlug = known.fieldOfKey(propertySlug, field)
-        if (fieldSlug === null) continue
-        judge(fieldSlug, inner, `${propertySlug} ${fieldSlug}`)
-      }
-    }
-  }
+  for (const one of namingsIn(value, known)) judge(one.propertySlug, one.held, one.said)
   return said
 }
 

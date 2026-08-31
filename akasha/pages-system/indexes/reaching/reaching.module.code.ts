@@ -23,6 +23,8 @@ const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
 
+const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
+
 export type Known = {
   readonly targetOf: (propertySlug: string) => string | null
   readonly admitting: (target: string) => readonly string[]
@@ -201,4 +203,42 @@ export function recordsIn(held: unknown): readonly Value[] {
   return listed.filter(
     (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)
   )
+}
+
+export type Naming = {
+  readonly key: string
+  readonly propertySlug: string
+  readonly said: string
+  readonly held: unknown
+  readonly own: boolean
+}
+
+export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
+  const found: Naming[] = []
+  for (const [key, held] of Object.entries(value)) {
+    if (held === null) continue
+    const propertySlug = known.slugOfKeyIn(value, key)
+    if (propertySlug === null) continue
+    const own = NOT_A_RELATION.has(key)
+    if (known.targetOf(propertySlug) !== null) {
+      found.push({ key, propertySlug, said: propertySlug, held, own })
+      continue
+    }
+    if (known.fieldsOf(propertySlug).length === 0) continue
+    for (const entry of recordsIn(held)) {
+      for (const [inner, said] of Object.entries(entry)) {
+        if (said === null) continue
+        const field = known.fieldOfKey(propertySlug, inner)
+        if (field === null) continue
+        found.push({
+          key: inner,
+          propertySlug: field,
+          said: `${propertySlug} ${field}`,
+          held: said,
+          own,
+        })
+      }
+    }
+  }
+  return found
 }
