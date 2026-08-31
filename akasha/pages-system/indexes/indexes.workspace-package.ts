@@ -67,6 +67,10 @@ export const indexes = {
         "A caller outside is answered or refused rather than reading an index that is missing as one naming none.",
     },
     {
+      invariantKind: "departure",
+      statement: "A caller outside spells no directory the index files under.",
+    },
+    {
       invariantKind: "absence",
       statement: "A value no page carries has no file.",
     },
@@ -105,6 +109,11 @@ export const indexes = {
     {
       invariantKind: "gap",
       statement: "Only what imports a file is refused when the index does not describe HEAD.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "What crosses this boundary is a question or its answer or the index as a change leaves it.",
     },
   ],
 } as const satisfies WorkspacePackage
