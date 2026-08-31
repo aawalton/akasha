@@ -11,9 +11,12 @@ import { standing } from "../../command-system/scratching/scratching.module.test
 import { standingFiled } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
+import { indexed } from "../warrant-scratch/warrant-scratch.module.code.ts"
 import {
   gatheredIn,
   NO_AGENT,
+  seatPathOf,
+  unheldIn,
   unreadIn,
   warrantedIn,
   warrantsIn,
@@ -337,4 +340,73 @@ test("a root the warrants cannot be gathered from hands back the paths handed in
 test("a root carrying no warrant hands back the paths handed in", () => {
   const root = scratch.rootFor("akasha-warranting-")
   expect(warrantedIn(root, [A, B])).toEqual([A, B])
+})
+
+const SEAT_AT = "akasha/seat-system/seat/seats/one.seat.ts"
+
+function seated(root: string, id: string, path: string): undefined {
+  indexed(root, `identity/page/id/${id}.jsonl`, JSON.stringify({ path, id }))
+}
+
+test("the page a seat owes from is the one standing at its id", () => {
+  const root = rootWith()
+  seated(root, AGENT, SEAT_AT)
+  expect(seatPathOf(root, AGENT)).toBe(SEAT_AT)
+})
+
+test("a page standing at the id that is no seat is no seat", () => {
+  const root = rootWith()
+  seated(root, AGENT, PATH)
+  expect(seatPathOf(root, AGENT)).toBe(null)
+})
+
+test("an id standing at no page is no seat", () => {
+  const root = rootWith()
+  expect(seatPathOf(root, AGENT)).toBe(null)
+})
+
+test("an agent sitting at no seat owes nothing of one", () => {
+  const root = rootWith()
+  expect(unheldIn(root, AGENT)).toEqual([])
+})
+
+test("a seat owes what its page names", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  seated(root, AGENT, SEAT_AT)
+  const said = unheldIn(root, AGENT)
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain(X)
+})
+
+test("a seat owes what its page names rather than the page itself", () => {
+  const root = rootWith()
+  standing(root, SEAT_AT, "one\n")
+  seated(root, AGENT, SEAT_AT)
+  expect(warrantsIn(root, SEAT_AT, "write").length).toBe(1)
+  expect(unheldIn(root, AGENT)).toEqual([])
+})
+
+test("a reading of what a seat's page names answers for it", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  seated(root, AGENT, SEAT_AT)
+  recordRead(root, AGENT, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
+  expect(unheldIn(root, AGENT)).toEqual([])
+})
+
+test("one agent's reading does not answer for another agent's seat", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  seated(root, AGENT, SEAT_AT)
+  recordRead(root, OTHER, { path: X, oid: "oid", seenAt: 1, mechanicalOid: null })
+  expect(unheldIn(root, AGENT).length).toBe(1)
+})
+
+test("a seat refusal says what the reading is owed for and names the read", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  seated(root, AGENT, SEAT_AT)
+  expect(unheldIn(root, AGENT)[0]).toContain(`akasha read --file-path ${X}`)
+})
+
+test("a call charged to no agent owes nothing of a seat", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
+  expect(unheldIn(root, null)).toEqual([])
 })
