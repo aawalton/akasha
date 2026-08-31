@@ -122,7 +122,6 @@ export const identifierMatchesItsPlace: Running = (change) => {
   const places = placesIn(change.root)
   return overEachFile(change, (given) => {
     if (!given.path.startsWith(INSIDE) || !given.path.endsWith(ENDING)) return []
-    const text = bodyOf(given)
-    return text === null ? [] : refusedIn(given.path, text, places)
+    return refusedIn(given.path, bodyOf(given), places)
   })
 }

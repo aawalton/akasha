@@ -61,10 +61,11 @@ test("reading each text hands the path and the body on, and passes over what is 
   expect(seen).toEqual(["one.ts"])
 })
 
-test("reading each text passes over a body that is no text at all", () => {
+test("reading each text refuses a body that is no text at all, and names the path", () => {
   const judge = overEachText(() => ["read"])
   const bytes = Uint8Array.from([0xff, 0xfe, 0xfd])
-  expect(judge({ root: "/nowhere", path: "one.ts", bytes })).toEqual([])
+  expect(() => judge({ root: "/nowhere", path: "one.ts", bytes })).toThrow("one.ts")
+  expect(() => judge({ root: "/nowhere", path: "one.ts", bytes })).toThrow("not valid UTF-8")
 })
 
 test("judging each file makes a runner of a judge, naming the path each refusal is for", () => {

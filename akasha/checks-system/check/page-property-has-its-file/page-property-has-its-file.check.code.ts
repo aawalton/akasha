@@ -50,9 +50,7 @@ export function missingFor(
 ): readonly Judged[] {
   const bytes = change.after(page)
   if (bytes === null) return []
-  const text = bodyOf({ root: change.root, path: page, bytes })
-  if (text === null) return []
-  const value = valueIn(text)
+  const value = valueIn(bodyOf({ root: change.root, path: page, bytes }))
   if (value === null) return []
   const said: Judged[] = []
   for (const one of pathsOf(value, page, change.root, fileProperties)) {

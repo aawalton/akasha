@@ -62,8 +62,7 @@ function partsOf(value: Value | null): readonly string[] {
 function partsWere(change: Change, path: string): readonly string[] {
   const bytes = change.before(path)
   if (bytes === null) return []
-  const text = bodyOf({ root: change.root, path, bytes })
-  return text === null ? [] : partsOf(valueIn(text))
+  return partsOf(valueIn(bodyOf({ root: change.root, path, bytes })))
 }
 
 function reasonFor(shown: string): string {

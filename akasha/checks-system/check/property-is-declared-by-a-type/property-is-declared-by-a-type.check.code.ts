@@ -64,8 +64,7 @@ export function declaredIn(value: Value | null): readonly string[] {
 function declaredWere(change: Change, path: string): readonly string[] {
   const bytes = change.before(path)
   if (bytes === null) return []
-  const text = bodyOf({ root: change.root, path, bytes })
-  return text === null ? [] : declaredIn(valueIn(text))
+  return declaredIn(valueIn(bodyOf({ root: change.root, path, bytes })))
 }
 
 function reasonFor(shown: string): string {

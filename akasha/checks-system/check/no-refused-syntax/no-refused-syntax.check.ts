@@ -43,8 +43,8 @@ export const noRefusedSyntax = {
       statement: "A rule that throws is not caught here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A file whose bytes are not valid UTF-8 is passed over rather than refused.",
+      invariantKind: "departure",
+      statement: "A file whose bytes are not valid UTF-8 refuses the check rather than passing.",
     },
   ],
 } as const satisfies Check

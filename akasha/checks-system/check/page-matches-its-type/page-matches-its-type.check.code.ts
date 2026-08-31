@@ -216,9 +216,7 @@ export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Jud
     const bytes = change.after(path)
     if (bytes === null) continue
     const given: Body = { root: change.root, path, bytes }
-    const text = bodyOf(given)
-    if (text === null) continue
-    const loaded = loadedFrom(text)
+    const loaded = loadedFrom(bodyOf(given))
     const value = loaded.value
     if (value === null) {
       judged.push({ path, reason: unloadable(loaded.failed) })

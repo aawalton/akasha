@@ -65,9 +65,7 @@ export function reasonsIn(
   const stem = said.stem
   const suffix = said.tail
   if (heldInAFile.has(suffix)) return []
-  const text = bodyOf(given)
-  if (text === null) return []
-  const stated = pageIn(given.path, text)
+  const stated = pageIn(given.path, bodyOf(given))
   if (stated === null) return []
   const found: string[] = []
   if (stated.slug !== stem) {

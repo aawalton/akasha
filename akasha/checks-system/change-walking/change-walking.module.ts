@@ -25,6 +25,14 @@ export const changeWalking = {
       statement: "A path standing at nothing reads as nothing rather than as unreadable.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body that is not text refuses the check reading it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a body that is not text names the path it stands at.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every check walks a change through this.",
     },

@@ -66,9 +66,7 @@ export function reachedFolders(target: string, importer: string): readonly strin
 export function edgesOf(root: string, path: string, bytes: Uint8Array | null): ReadonlySet<string> {
   const found = new Set<string>()
   if (bytes === null) return found
-  const text = bodyOf({ root, path, bytes })
-  if (text === null) return found
-  for (const one of specifiersIn(path, text)) {
+  for (const one of specifiersIn(path, bodyOf({ root, path, bytes }))) {
     const landed = importedBy(path, one)
     if (landed !== null) found.add(landed)
   }

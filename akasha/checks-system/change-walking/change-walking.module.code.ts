@@ -20,9 +20,7 @@ export function overEachText(
 ): (given: Body) => readonly string[] {
   return (given) => {
     if (!given.path.endsWith(TS_ENDING)) return []
-    const text = bodyOf(given)
-    if (text === null) return []
-    return found(given.path, text)
+    return found(given.path, bodyOf(given))
   }
 }
 
@@ -59,11 +57,11 @@ export function onDisk(root: string): (path: string) => Uint8Array | null {
   }
 }
 
-export function bodyOf(given: Body): string | null {
+export function bodyOf(given: Body): string {
   try {
     return new TextDecoder("utf-8", { fatal: true }).decode(given.bytes)
   } catch {
-    return null
+    throw new Error(`${given.path} is not valid UTF-8, so no check could read it`)
   }
 }
 

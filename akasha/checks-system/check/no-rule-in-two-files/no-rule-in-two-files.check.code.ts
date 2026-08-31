@@ -49,8 +49,6 @@ export function noRuleInTwoFiles(change: Change, shadow: Shadow): readonly Judge
   const every = everySpeltIn(change, shadow)
   return overEachFile(change, (given) => {
     if (!given.path.endsWith(TS)) return []
-    const text = bodyOf(given)
-    if (text === null) return []
-    return reasonsIn(given.path, text, every)
+    return reasonsIn(given.path, bodyOf(given), every)
   })
 }

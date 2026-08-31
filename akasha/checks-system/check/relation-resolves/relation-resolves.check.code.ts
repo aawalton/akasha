@@ -38,8 +38,7 @@ export type Carried = {
 export function valueFor(change: Change, path: string): Value | null {
   const bytes = change.after(path)
   if (bytes === null) return null
-  const text = bodyOf({ root: change.root, path, bytes })
-  return text === null ? null : valueIn(text)
+  return valueIn(bodyOf({ root: change.root, path, bytes }))
 }
 
 export function carriedBy(change: Change, pageTypes: ReadonlySet<string>): readonly Carried[] {
