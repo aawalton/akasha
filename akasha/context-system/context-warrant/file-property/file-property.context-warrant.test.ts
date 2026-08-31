@@ -135,10 +135,10 @@ test("a property the schema names and the identity index does not warrants nothi
   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
 })
 
-test("a cold index warrants nothing", () => {
+test("a cold index is refused rather than warranting nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   stating(root, PATH, ["id", "definition"])
-  expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
+  expect(() => warrantsAt(root, PATH)).toThrow("is not an index naming none")
 })
 
 test("a file standing beside a page is no page, and warrants nothing", () => {

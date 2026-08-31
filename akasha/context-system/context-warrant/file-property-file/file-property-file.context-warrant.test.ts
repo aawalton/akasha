@@ -170,11 +170,11 @@ test("a property the index files under no page warrants the page alone", () => {
   expect(pathsOf(warrantsAt(root, loose))).toEqual([PAGE_AT])
 })
 
-test("a cold index knows no page type, so no file stands beside a page", () => {
+test("a cold index knows no page type, so it is refused rather than warranting nothing", () => {
   const root = scratch.rootFor("akasha-file-property-file-")
   standing(root, PAGE_AT, "page\n")
   standing(root, CODE_AT, "code\n")
-  expect(pathsOf(warrantsAt(root, CODE_AT))).toEqual([])
+  expect(() => warrantsAt(root, CODE_AT)).toThrow("is not an index naming none")
 })
 
 test("a file that is no page's own warrants nothing", () => {
