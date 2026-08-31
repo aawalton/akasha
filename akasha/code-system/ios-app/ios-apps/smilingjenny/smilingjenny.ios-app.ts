@@ -8,9 +8,17 @@ export const smilingjenny = {
   manifest: "json",
   capacitorConfig: "json",
   gitIgnore: "gitignore",
+  webEntry: "html",
   partSlugs: [
     "ios-program/smilingjenny-app",
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
+    "shell-script/smilingjenny-app-entitlements",
+    "shell-script/smilingjenny-decode-harness-run",
+    "shell-script/smilingjenny-ios-add",
+    "shell-script/smilingjenny-ios-seam",
+    "shell-script/smilingjenny-ios-seam-plugins",
+    "shell-script/smilingjenny-ring-credential",
+    "shell-script/smilingjenny-widget-target",
   ],
 } as const satisfies IosApp
