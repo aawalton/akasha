@@ -27,6 +27,7 @@ import {
   type Identifier,
   loadedFrom,
   pageTypesIn,
+  under,
   uniquePropertiesAt,
   uniquePropertiesIn,
   valueAt,
@@ -318,8 +319,9 @@ export function settlingOver(
   const turned = turningIn(wasUnique, unique)
   const wasTurned = onlyIn(wasUnique, turned)
   const nowTurned = onlyIn(unique, turned)
-  const carried = new Set(held.map((one) => one.path))
-  const elsewhere = turned.size === 0 ? [] : standingBeside(reading, carried, pageOf)
+  const carried = new Map(held.map((one) => [under(repo, one.path), one]))
+  const elsewhere =
+    turned.size === 0 ? [] : standingBeside(reading, new Set(carried.keys()), pageOf)
   const identity = filingOf(
     reading,
     [
@@ -344,7 +346,11 @@ export function settlingOver(
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
-  const wasKnown = knownIn(reading, repo, pageOf)
+  const wasPageOf = (path: string): Value | null => {
+    const one = carried.get(under(repo, path))
+    return one === undefined ? pageOf(path) : one.was
+  }
+  const wasKnown = knownIn(reading, repo, wasPageOf)
   const known = knownIn(stepped, repo, pageOf)
   const was = held.map((one) =>
     one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)

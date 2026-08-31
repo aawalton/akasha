@@ -1,5 +1,6 @@
-import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { id as idPage } from "../../page/properties/id.text-property.ts"
 import { slug as slugPage } from "../../page/properties/slug.text-property.ts"
@@ -177,3 +178,40 @@ export function grounded(): Pair {
 export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c.ts"\n'
 
 export const IMPORTS_AT = "d/a.module.code.ts"
+
+export const CORPUS = join(rootOf(import.meta.dir), "akasha")
+
+export function everyBodyUnder(at: string): readonly string[] {
+  const found: string[] = []
+  const walk = (here: string): undefined => {
+    for (const one of readdirSync(here, { withFileTypes: true })) {
+      const next = join(here, one.name)
+      if (one.isDirectory()) walk(next)
+      else if (one.name.endsWith(".ts")) found.push(next)
+    }
+  }
+  walk(at)
+  return found
+}
+
+export function retyped(
+  root: string,
+  tree: string,
+  from: string,
+  to: string,
+  took: readonly string[]
+): readonly string[] {
+  const indexing = indexingAt(root, tree)
+  const at = join(tree, from)
+  const was = readFileSync(at, "utf8")
+  indexing.took(at, was)
+  rmSync(at)
+  const now = was.replaceAll(`"${from.split(".")[0]}"`, `"${to.split(".")[0]}"`)
+  indexing.wrote(put(tree, to, now), now, null)
+  for (const one of took) {
+    const gone = join(tree, one)
+    indexing.took(gone, readFileSync(gone, "utf8"))
+    rmSync(gone)
+  }
+  return indexing.settle()
+}

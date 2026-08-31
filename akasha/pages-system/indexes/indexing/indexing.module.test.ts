@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
@@ -13,8 +12,10 @@ import {
   bodyOf,
   butTheStamp,
   C,
+  CORPUS,
   D,
   edgeFile,
+  everyBodyUnder,
   grounded,
   heldAt,
   IMPORTS,
@@ -27,6 +28,7 @@ import {
   pathFile,
   put,
   renamed,
+  retyped,
   said,
   schemaFile,
   scratch,
@@ -226,6 +228,18 @@ test("a value the change withdraws that would not resolve before it is reported"
   )
 })
 
+test("a page type renamed in the same change withdraws the edge a bare value left", () => {
+  const { tree, root } = grounded()
+  const d = thePage({ id: D, pageTypeSlug: "domain", slug: "d", domainSlug: "c" })
+  expect(stood(root, tree, [d])).toEqual([])
+  const edge = edgeFile(root, C, "domain-slug", D)
+  expect(linesIn(edge)).toEqual(['{"path":"d.domain.ts"}'])
+
+  retyped(root, tree, "module.page-type.ts", "unit.page-type.ts", ["d.domain.ts"])
+
+  expect(existsSync(edge)).toBe(false)
+})
+
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {
   const { tree, root } = grounded()
   settled(root, tree, "b.module.ts", { id: D, pageTypeSlug: "module", slug: "b" }, null)
@@ -257,21 +271,6 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   expect(existsSync(pathFile(landed, "deep/a.module.code.ts"))).toBe(true)
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
-
-const CORPUS = join(rootOf(import.meta.dir), "akasha")
-
-function everyBodyUnder(at: string): readonly string[] {
-  const found: string[] = []
-  const walk = (here: string): undefined => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const next = join(here, one.name)
-      if (one.isDirectory()) walk(next)
-      else if (one.name.endsWith(".ts")) found.push(next)
-    }
-  }
-  walk(at)
-  return found
-}
 
 test("a rebuild of the corpus and a settle over it leave the same index", () => {
   const repo = heldAt()
