@@ -59,6 +59,10 @@ export const read = {
       statement: "A read of a body that is not UTF-8 text returns what it is instead of the body.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body that would not open is refused with why it would not.",
+    },
+    {
       invariantKind: "absence",
       statement: "A read takes no line range.",
     },

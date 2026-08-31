@@ -317,7 +317,16 @@ test("a content file that is not there is a caller's mistake, not a refusal by t
     givenIn(root)
   )
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("could not be read")
+  expect(said.refusals[0]).toContain("is not there")
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+})
+
+test("a content file standing that will not open says so rather than that it is not there", () => {
+  const root = repoWith()
+  const said = write(["--file-path", "akasha/two.ts", "--content-file", root], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("would not open")
+  expect(said.refusals[0]).not.toContain("is not there")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
 })
 

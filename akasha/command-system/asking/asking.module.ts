@@ -46,6 +46,14 @@ export const asking = {
       statement: "A body that lands is recorded as read by whoever landed it.",
     },
     {
+      invariantKind: "departure",
+      statement: "Reaching a body tells a path standing at nothing from one that will not open.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that will not open is answered with why it would not.",
+    },
+    {
       invariantKind: "gap",
       statement: "A caller is never told nothing happened when something did.",
     },

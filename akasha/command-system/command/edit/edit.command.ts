@@ -41,6 +41,10 @@ export const edit = {
     },
     {
       invariantKind: "departure",
+      statement: "A body standing that will not open is refused as itself rather than as absent.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A file that changes under a call between its read and its write refuses the whole call.",
     },
