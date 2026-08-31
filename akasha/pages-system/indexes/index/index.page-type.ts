@@ -5,7 +5,7 @@ import type { IndexName } from "./properties/index-name.text-property.ts"
 
 export type Index = Module & {
   test: Test
-  indexName: IndexName
+  name: IndexName
 }
 
 export const index = {

@@ -24,7 +24,7 @@ const RELATION = "relation"
 
 const INDEX_SLUG = "indexSlug"
 
-const INDEX_NAME = "indexName"
+const INDEX_NAME = "name"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 

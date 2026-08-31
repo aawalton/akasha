@@ -3,7 +3,7 @@ import { specifiersIn } from "../../../../code-system/code-specifier/code-specif
 import { type Entry, importedBy, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexImport } from "./index-import.index.ts"
 
-const IMPORT = indexImport.indexName
+const IMPORT = indexImport.name
 
 const ENDING = ".jsonl"
 

@@ -5,7 +5,7 @@ export const indexImport = {
   pageTypeSlug: "index",
   slug: "index-import",
   definition: "an index from a file to the files importing it",
-  indexName: "import",
+  name: "import",
   code: "ts",
   test: "ts",
   invariants: [

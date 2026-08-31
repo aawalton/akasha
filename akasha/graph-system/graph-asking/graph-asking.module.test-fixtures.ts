@@ -126,7 +126,7 @@ function indexed(root: string, indexName: string, stands: boolean): undefined {
     pageTypeSlug: INDEX,
     slug: HELD_INDEX,
     definition: INVENTED,
-    indexName,
+    name: indexName,
   })
   if (stands) filed(root, INDEX_STANDS_AT, { path: INDEX_AT, id: INDEX_ID })
 }

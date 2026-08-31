@@ -8,7 +8,7 @@ import {
 } from "../../index-entries/index-entries.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
-const PATH = indexPath.indexName
+const PATH = indexPath.name
 
 const ENDING = ".jsonl"
 

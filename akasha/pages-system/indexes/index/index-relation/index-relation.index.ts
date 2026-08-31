@@ -5,7 +5,7 @@ export const indexRelation = {
   pageTypeSlug: "index",
   slug: "index-relation",
   definition: "an index from a page to the pages naming it",
-  indexName: "relation",
+  name: "relation",
   code: "ts",
   test: "ts",
   invariants: [

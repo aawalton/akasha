@@ -31,15 +31,15 @@ export type Schema = {
   readonly fileName: string | null
 }
 
-const IDENTITY = indexIdentity.indexName
+const IDENTITY = indexIdentity.name
 
-const IMPORT = indexImport.indexName
+const IMPORT = indexImport.name
 
-const PATH = indexPath.indexName
+const PATH = indexPath.name
 
-const RELATION = indexRelation.indexName
+const RELATION = indexRelation.name
 
-const SCHEMA = indexSchema.indexName
+const SCHEMA = indexSchema.name
 
 const PROPERTY = "page-property"
 

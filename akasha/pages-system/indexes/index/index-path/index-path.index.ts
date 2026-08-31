@@ -5,7 +5,7 @@ export const indexPath = {
   pageTypeSlug: "index",
   slug: "index-path",
   definition: "an index from a path to the page whose file it is",
-  indexName: "path",
+  name: "path",
   code: "ts",
   test: "ts",
   invariants: [

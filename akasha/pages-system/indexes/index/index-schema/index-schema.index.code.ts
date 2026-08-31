@@ -8,7 +8,7 @@ import {
 } from "../../index-entries/index-entries.module.code.ts"
 import { indexSchema } from "./index-schema.index.ts"
 
-const SCHEMA = indexSchema.indexName
+const SCHEMA = indexSchema.name
 
 const ENDING = ".jsonl"
 

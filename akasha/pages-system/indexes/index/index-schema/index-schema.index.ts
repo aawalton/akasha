@@ -5,7 +5,7 @@ export const indexSchema = {
   pageTypeSlug: "index",
   slug: "index-schema",
   definition: "an index from a property to the shape of the value it holds",
-  indexName: "schema",
+  name: "schema",
   code: "ts",
   test: "ts",
   invariants: [

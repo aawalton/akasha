@@ -13,9 +13,9 @@ import type { Reading } from "../index-shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 
-const IDENTITY = indexIdentity.indexName
+const IDENTITY = indexIdentity.name
 
-const SCHEMA = indexSchema.indexName
+const SCHEMA = indexSchema.name
 
 const SCRATCH_AT = "/var/tmp"
 

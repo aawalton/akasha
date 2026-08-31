@@ -5,7 +5,7 @@ export const indexIdentity = {
   pageTypeSlug: "index",
   slug: "index-identity",
   definition: "an index from an identifier to the page carrying it",
-  indexName: "identity",
+  name: "identity",
   code: "ts",
   test: "ts",
   invariants: [

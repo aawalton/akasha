@@ -83,7 +83,7 @@ function identityFiled(
   said: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexIdentity.indexName, scope, propertySlug, said), lines)
+  filing(root, join(indexIdentity.name, scope, propertySlug, said), lines)
 }
 
 function identityStanding(
@@ -92,7 +92,7 @@ function identityStanding(
   propertySlug: string,
   said: string
 ): boolean {
-  const at = join(indexIdentity.indexName, scope, propertySlug, `${said}${ENDING}`)
+  const at = join(indexIdentity.name, scope, propertySlug, `${said}${ENDING}`)
   return existsSync(under(root, at))
 }
 
@@ -111,7 +111,7 @@ export function standingAlsoFiled(
   slug: string,
   lines: readonly unknown[]
 ): undefined {
-  adding(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, slug), lines)
+  adding(root, join(indexIdentity.name, pageTypeSlug, SLUG, slug), lines)
 }
 
 export function standingFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
@@ -123,7 +123,7 @@ export function standingUnreadableFiled(
   pageTypeSlug: string,
   slug: string
 ): undefined {
-  unreadable(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  unreadable(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
@@ -135,7 +135,7 @@ export function idFiledIn(root: string, id: string): boolean {
 }
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
-  filing(root, join(indexPath.indexName, path), lines)
+  filing(root, join(indexPath.name, path), lines)
 }
 
 export function schemaFiled(
@@ -144,7 +144,7 @@ export function schemaFiled(
   propertySlug: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexSchema.indexName, PAGE_PROPERTY, pageTypeSlug, SLUG, propertySlug), lines)
+  filing(root, join(indexSchema.name, PAGE_PROPERTY, pageTypeSlug, SLUG, propertySlug), lines)
 }
 
 export function relationFiled(
@@ -154,31 +154,31 @@ export function relationFiled(
   from: string,
   lines: readonly unknown[]
 ): undefined {
-  filing(root, join(indexRelation.indexName, PAGE, ID, id, propertySlug, from), lines)
+  filing(root, join(indexRelation.name, PAGE, ID, id, propertySlug, from), lines)
 }
 
 export function importFiled(root: string, path: string, lines: readonly unknown[]): undefined {
-  filing(root, join(indexImport.indexName, AT_PATH, path), lines)
+  filing(root, join(indexImport.name, AT_PATH, path), lines)
 }
 
 export function importUnreadableFiled(root: string, path: string): undefined {
-  unreadable(root, join(indexImport.indexName, AT_PATH, `${path}${ENDING}`))
+  unreadable(root, join(indexImport.name, AT_PATH, `${path}${ENDING}`))
 }
 
 export function importPartLeft(root: string, path: string, lines: readonly unknown[]): undefined {
-  written(root, join(indexImport.indexName, AT_PATH, `${path}${ENDING}${PART}`), lines)
+  written(root, join(indexImport.name, AT_PATH, `${path}${ENDING}${PART}`), lines)
 }
 
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
-  standing(root, join(indexIdentity.indexName, pageTypeSlug, SLUG))
+  standing(root, join(indexIdentity.name, pageTypeSlug, SLUG))
 }
 
 export function noPathsFiled(root: string): undefined {
-  standing(root, indexPath.indexName)
+  standing(root, indexPath.name)
 }
 
 export function noImportersFiled(root: string): undefined {
-  standing(root, join(indexImport.indexName, AT_PATH))
+  standing(root, join(indexImport.name, AT_PATH))
 }
 
 export function entriesFiled(root: string, entries: readonly Entry[]): undefined {
@@ -245,42 +245,42 @@ export function rebuiltApart(root: string, tree: string, aside: string): readonl
 }
 
 export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
-  const at = join(indexIdentity.indexName, pageTypeSlug)
+  const at = join(indexIdentity.name, pageTypeSlug)
   cpSync(under(from, at), under(into, at), { recursive: true })
 }
 
 export function idCopied(from: string, into: string, id: string): undefined {
-  const at = join(indexIdentity.indexName, PAGE, ID, `${id}${ENDING}`)
+  const at = join(indexIdentity.name, PAGE, ID, `${id}${ENDING}`)
   mkdirSync(dirname(under(into, at)), { recursive: true })
   cpSync(under(from, at), under(into, at))
 }
 
 export function standingTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
-  taking(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+  taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
 
 export function importsStanding(root: string): boolean {
-  return existsSync(under(root, indexImport.indexName))
+  return existsSync(under(root, indexImport.name))
 }
 
 export function identitiesStandingIn(root: string, pageTypeSlug: string): boolean {
-  return existsSync(under(root, join(indexIdentity.indexName, pageTypeSlug)))
+  return existsSync(under(root, join(indexIdentity.name, pageTypeSlug)))
 }
 
 export function idTakenFrom(root: string, id: string): undefined {
-  taking(root, join(indexIdentity.indexName, PAGE, ID, `${id}${ENDING}`))
+  taking(root, join(indexIdentity.name, PAGE, ID, `${id}${ENDING}`))
 }
 
 export function identitiesTakenFrom(root: string, pageTypeSlug: string): undefined {
-  taking(root, join(indexIdentity.indexName, pageTypeSlug))
+  taking(root, join(indexIdentity.name, pageTypeSlug))
 }
 
 export function pathsTakenFrom(root: string): undefined {
-  taking(root, indexPath.indexName)
+  taking(root, indexPath.name)
 }
 
 export function importsTakenFrom(root: string): undefined {
-  taking(root, indexImport.indexName)
+  taking(root, indexImport.name)
 }
 
 export function fileWhereTheIndexStands(root: string, text: string): undefined {

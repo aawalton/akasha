@@ -8,7 +8,7 @@ import {
 import { namesIn, reaches, recordsIn, type Shaped } from "../../reaching/reaching.module.code.ts"
 import { indexRelation } from "./index-relation.index.ts"
 
-const RELATION = indexRelation.indexName
+const RELATION = indexRelation.name
 
 const ENDING = ".jsonl"
 
