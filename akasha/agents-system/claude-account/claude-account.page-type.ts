@@ -6,10 +6,7 @@ import type { Email } from "./properties/email.email-address-property.ts"
 import type { RateLimitTier } from "./properties/rate-limit-tier.text-property.ts"
 import type { RenewalDay } from "./properties/renewal-day.number-property.ts"
 import type { Scopes } from "./properties/scopes.text-property.ts"
-import type { SubscriptionDisabledReason } from "./properties/subscription-disabled-reason.text-property.ts"
 import type { SubscriptionType } from "./properties/subscription-type.text-property.ts"
-import type { TerminalAlertedAt } from "./properties/terminal-alerted-at.instant-property.ts"
-import type { TerminalAt } from "./properties/terminal-at.instant-property.ts"
 
 export type ClaudeAccount = Page & {
   accountUuid: AccountUuid
@@ -19,9 +16,6 @@ export type ClaudeAccount = Page & {
   rateLimitTier: RateLimitTier
   renewalDay: RenewalDay
   scopes: Scopes
-  subscriptionDisabledReason?: SubscriptionDisabledReason
-  terminalAt?: TerminalAt
-  terminalAlertedAt?: TerminalAlertedAt
 }
 
 export const claudeAccount = {
@@ -63,9 +57,6 @@ export const claudeAccount = {
     { pagePropertySlug: "rate-limit-tier", required: true, many: false },
     { pagePropertySlug: "renewal-day", required: true, many: false },
     { pagePropertySlug: "scopes", required: true, many: true, max: null },
-    { pagePropertySlug: "subscription-disabled-reason", required: false, many: false },
-    { pagePropertySlug: "terminal-at", required: false, many: false },
-    { pagePropertySlug: "terminal-alerted-at", required: false, many: false },
     { pagePropertySlug: "access-token", required: true, many: false, secret: true },
     { pagePropertySlug: "refresh-token", required: true, many: false, secret: true },
     {
@@ -98,11 +89,27 @@ export const claudeAccount = {
     },
     { pagePropertySlug: "retry-allowed-at", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "usage-read-at", required: false, many: false, uncommitted: true },
+    {
+      pagePropertySlug: "subscription-disabled-reason",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    { pagePropertySlug: "terminal-at", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "terminal-alerted-at", required: false, many: false, uncommitted: true },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "An account is reached by its slug rather than by the address it signs in as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What an account states is settled when the account is made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is observed of an account stands beside its page rather than in it.",
     },
     {
       invariantKind: "departure",
