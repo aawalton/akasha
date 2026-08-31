@@ -31,7 +31,7 @@ import {
   uniquePropertiesIn,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, readingIn } from "../index-reading/index-reading.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
   type Filing,
@@ -362,6 +362,15 @@ export function settlingOver(
     noted,
     refused: now.flatMap((one) => one.refused),
   }
+}
+
+export function readingOver(
+  root: string,
+  moving: readonly Moving[],
+  pageOf: (path: string) => Value | null
+): Reading {
+  const under = readingIn(root)
+  return overlaidOn(under, settlingOver(under, root, moving, pageOf).filings)
 }
 
 export function indexingAt(root: string, repo: string): Indexing {

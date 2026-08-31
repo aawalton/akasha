@@ -1,13 +1,9 @@
 import { textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../indexes/index-entries/index-entries.module.code.ts"
-import { indexIn } from "../indexes/index-reading/index-reading.module.code.ts"
-import {
-  overlaidOn,
-  type Reading,
-  readingAt,
-} from "../indexes/index-surface/index-surface.module.code.ts"
-import { settlingOver } from "../indexes/indexing/indexing.module.code.ts"
+import { readingIn } from "../indexes/index-reading/index-reading.module.code.ts"
+import type { Reading } from "../indexes/index-surface/index-surface.module.code.ts"
+import { readingOver } from "../indexes/indexing/indexing.module.code.ts"
 
 export type Shadow = {
   readonly reading: Reading
@@ -36,14 +32,13 @@ function nothingMoved(change: Change): boolean {
 
 export function shadowAt(root: string): Shadow {
   return {
-    reading: readingAt(indexIn(root)),
+    reading: readingIn(root),
     pageOf: remembering((path) => valueAt(path, root)),
   }
 }
 
 function castOver(change: Change): Cast {
   if (nothingMoved(change)) return { shadow: shadowAt(change.root) }
-  const under = readingAt(indexIn(change.root))
   const carried = new Set(change.changed)
   const pageOf = remembering((path) => {
     if (!carried.has(path)) return valueAt(path, change.root)
@@ -56,8 +51,7 @@ function castOver(change: Change): Cast {
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    const found = settlingOver(under, change.root, moving, pageOf)
-    return { shadow: { reading: overlaidOn(under, found.filings), pageOf } }
+    return { shadow: { reading: readingOver(change.root, moving, pageOf), pageOf } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
