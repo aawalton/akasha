@@ -1,5 +1,4 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
-import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt, secretAt } from "../../page/page-file-name/page-file-name.module.code.ts"
 import { slugAt, textAt, type Value } from "../../page/page-value/page-value.module.code.ts"
@@ -97,14 +96,6 @@ const PROPERTY = "page-property"
 const SLUG = "slug"
 
 const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
-
-const OUTSIDE = ".."
-
-export function importedBy(path: string, specifier: string): string | null {
-  const landed = landingOf(path, specifier)
-  if (landed === null) return null
-  return landed === OUTSIDE || landed.startsWith(`${OUTSIDE}/`) ? null : landed
-}
 
 export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   const reading = readingIn(given)

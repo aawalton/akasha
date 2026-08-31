@@ -23,6 +23,15 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
+      statement: "A specifier landing outside the repository makes none either.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What edges a body makes is answered here rather than worked out again by a caller.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A type-only import makes the same edge as any other.",
     },
     {

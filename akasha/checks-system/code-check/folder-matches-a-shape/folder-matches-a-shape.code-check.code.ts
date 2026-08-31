@@ -1,10 +1,9 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
-import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { edgesIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import {
   filePropertiesAt,
-  importedBy,
   pageTypesIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
@@ -68,13 +67,8 @@ export function reachedFolders(target: string, importer: string): readonly strin
 }
 
 export function edgesOf(root: string, path: string, bytes: Uint8Array | null): ReadonlySet<string> {
-  const found = new Set<string>()
-  if (bytes === null) return found
-  for (const one of specifiersIn(path, bodyOf({ root, path, bytes }))) {
-    const landed = importedBy(path, one)
-    if (landed !== null) found.add(landed)
-  }
-  return found
+  if (bytes === null) return new Set<string>()
+  return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path))
 }
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
