@@ -6,6 +6,7 @@ export const service = {
   slug: "service",
   definition: "the pages reached over HTTP",
   manifest: "json",
+  partSlugs: ["module/page-asking"],
   invariants: [
     {
       invariantKind: "constraint",
@@ -86,6 +87,10 @@ export const service = {
     {
       invariantKind: "gap",
       statement: "It is not what limits any caller of it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An answer costs nothing where the pages it rests on have not changed.",
     },
   ],
 } as const satisfies WorkspacePackage
