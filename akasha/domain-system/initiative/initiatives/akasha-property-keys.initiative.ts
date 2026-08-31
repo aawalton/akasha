@@ -6,53 +6,19 @@ export const akashaPropertyKeys = {
   slug: "akasha-property-keys",
   domainSlug: "domain/pages-system",
   personaSlug: "akasha",
-  invariants: [
+  intents: [
     {
-      invariantKind: "gap",
       statement:
         "Whatever matches a page's key to its property reads the pairing from the property rather than working one out from the other.",
     },
     {
-      invariantKind: "gap",
       statement:
         "A reader asks what a page's type carries rather than probing every key it knows against every page.",
     },
   ],
-  notes: [
-    "The key and the slug come apart because they answer to different reaches. A slug must stand " +
-      "alone among the pages of one property type; a key must stand alone among the properties one " +
-      "page type carries. Today one string does both jobs, which is why `index-name` exists — " +
-      "`name` was taken, so an index's key grew a qualifier it never needed. At eighty properties " +
-      "the two names agree almost everywhere. At thousands they agree almost nowhere, which is why " +
-      "every property states its key rather than falling back to its slug: the fallback would " +
-      "cover the rare case, not the common one.",
-    "Where a key stands alone is a fact about a page type, never about a property. A property " +
-      "states its key and nothing more; whether that key collides depends on which page type " +
-      "carries it and what that page type inherits. So this is a condition on a page type's " +
-      "properties rather than a reach on the key, and it belongs beside the three narrowing rules " +
-      "`properties` already states and nothing enforces: required never loosens, a max only falls, " +
-      "and `many` never changes. One check carries all four, because all four want the same walk " +
-      "up `extendsSlug` — the walk `declaredFor` already makes, discarding the ancestor where it " +
-      "should be comparing.",
-    "The readers, the check and the identity index all want one thing: given a page type, the " +
-      "properties it carries after shadowing, each under its key. That is one module rather than " +
-      "the same walk spelled in five places, and it lands before any of them. Without it the " +
-      "identity index would file a page under whichever unique property happened to key alike, " +
-      "because it probes every key against every page rather than asking what the page's type " +
-      "carries.",
-    "The order is: state the key, file it, judge it, then read from it. Stating it changes nothing " +
-      "while nothing reads it, and filing it changes nothing while every key still equals its " +
-      "slug, so those two are mechanical. The check comes before the readers rather than after it: " +
-      "it cannot resolve a declaration to its key until the schema carries one, and until it " +
-      "stands a collision would collapse quietly, which is the very failure being removed. Taking " +
-      "a shorter key for a property that has been carrying a qualifier is separate again, one page " +
-      "type at a time, and none of it is owed.",
-    "Asking the page's type alone is not enough. Filing was tried that way and taken back: a " +
-      "page whose page type does not stand was filed nowhere rather than refused, so a world " +
-      "where no `page-type` page type stands lost every entry at once, and the readers that " +
-      "reach a page type through the index lost the ground they stand on. `id` and `slug` are " +
-      "carried by every page because `page` is the root every type descends from, so either the " +
-      "walk answers those where the type above cannot be read, or the rebuild refuses the page " +
-      "and says which type it could not read. That choice comes before the filing does.",
+  constraints: [
+    "Every property states its key rather than falling back to its slug.",
+    "Where a key stands alone is a fact about a page type rather than about a property.",
+    "The check comes before the readers, since it cannot resolve a declaration to its key until the schema carries one.",
   ],
 } as const satisfies Initiative

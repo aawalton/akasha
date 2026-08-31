@@ -7,18 +7,9 @@ export const akashaSeatReading = {
   domainSlug: "domain/akasha-required-reading",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
-  invariants: [
-    {
-      invariantKind: "gap",
-      statement: "What a seat must read is worked out from what it is and what it has in hand.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No reading an agent needs falls outside the warrants.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A subagent owes what its seat owes narrowed to what it was sent to do.",
-    },
+  intents: [
+    { statement: "What a seat must read is worked out from what it is and what it has in hand." },
+    { statement: "No reading an agent needs falls outside the warrants." },
+    { statement: "A subagent owes what its seat owes narrowed to what it was sent to do." },
   ],
 } as const satisfies Initiative

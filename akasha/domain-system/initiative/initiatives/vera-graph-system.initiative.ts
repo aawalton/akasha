@@ -6,14 +6,8 @@ export const veraGraphSystem = {
   slug: "vera-graph-system",
   domainSlug: "domain/graph-system",
   personaSlug: "vera",
-  invariants: [
-    {
-      invariantKind: "gap",
-      statement: "No answer rests on a question the corpus must be walked to settle.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No check's closure is beyond the analysis.",
-    },
+  intents: [
+    { statement: "No answer rests on a question the corpus must be walked to settle." },
+    { statement: "No check's closure is beyond the analysis." },
   ],
 } as const satisfies Initiative

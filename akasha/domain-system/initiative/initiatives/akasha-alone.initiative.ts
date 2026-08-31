@@ -7,14 +7,8 @@ export const akashaAlone = {
   domainSlug: "domain/akasha-system",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
-  invariants: [
-    {
-      invariantKind: "gap",
-      statement: "Nothing in the repository is outside the akasha system.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The akasha folder is the repository root.",
-    },
+  intents: [
+    { statement: "Nothing in the repository is outside the akasha system." },
+    { statement: "The akasha folder is the repository root." },
   ],
 } as const satisfies Initiative

@@ -7,72 +7,33 @@ export const amyJennyUnreviewedWidget = {
   domainSlug: "domain/alan-harness",
   personaSlug: "amy",
   parentSlug: "akasha-migration",
-  invariants: [
+  intents: [
+    { statement: "An akasha command triggers the mac build of an iOS app." },
+    { statement: "Everything Alan's iOS app is built from stands in the akasha folder." },
+    { statement: "Everything Jenny's iOS app is built from stands in the akasha folder." },
+    { statement: "Alan's site deploys from akasha." },
     {
-      invariantKind: "gap",
-      statement: "An akasha command triggers the mac build of an iOS app.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Everything Alan's iOS app is built from stands in the akasha folder.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Everything Jenny's iOS app is built from stands in the akasha folder.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Alan's site deploys from akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "The reading is taken by a process running on a workstation rather than by a pod.",
     },
     {
-      invariantKind: "gap",
       statement:
         "Alan's categorization route in akasha answers from the readout rather than from Monarch.",
     },
-    {
-      invariantKind: "gap",
-      statement: "A readout route opens for the device secret Alan's phone presents.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Alan's unreviewed transaction iOS widget works.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The relay that carries Alan's reading to Jenny's site is in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Jenny's categorization route is in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The page describing Jenny's tile is in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Jenny's site deploys from akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Jenny's unreviewed transaction iOS widget works.",
-    },
+    { statement: "A readout route opens for the device secret Alan's phone presents." },
+    { statement: "Alan's unreviewed transaction iOS widget works." },
+    { statement: "The relay that carries Alan's reading to Jenny's site is in akasha." },
+    { statement: "Jenny's categorization route is in akasha." },
+    { statement: "The page describing Jenny's tile is in akasha." },
+    { statement: "Jenny's site deploys from akasha." },
+    { statement: "Jenny's unreviewed transaction iOS widget works." },
   ],
-  notes: [
-    "Jenny's tile shows Alan's Monarch reading relayed through his site, so every intent on his side comes before hers even though the end of the work is hers.",
-    "Jenny's tile reaches Alan's route on a relay secret and his own reaches it on a device secret, and only the relay secret opens anything today, so her tile is the nearer of the two to working.",
-    "The readout page type, the scale and what the tile counts are all in akasha, so the stack starts at the readout itself.",
-    "The reading is taken on a workstation because a pod cannot write the page store, and the endpoint that would let one is work of its own rather than this initiative's.",
-    "What a readout shows when nothing is left is carried by the readout, so it arrived with the page type rather than as an intent of its own.",
+  constraints: [
+    "Every intent on Alan's side comes before Jenny's even though the end of the work is hers.",
+    "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`.",
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
-    "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`, so the device secret half of the guard stayed out of akasha rather than being carried in broken.",
-    "The route cannot move before the credential, the readers it uses and the reading itself, and its generated `+types` import cannot move at all until the web app does.",
-    "An app is built from the native shell, the widget extension, the web the shell wraps and the command driving the mac, and only the five shared ring components stand in akasha, so building from akasha is most of a tree rather than a repointing.",
-    "The old deploy command puts cluster services up from the manifests a synth emits and refuses a workstation service, so what it lends an akasha deploy is its shape rather than its work: name one thing, read what it is made of from its page, refuse what is ambiguous, and do nothing already done.",
-    "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
+    "The reading is taken on a workstation because a pod cannot write the page store.",
+    "The route cannot move before the credential and the readers it uses and the reading itself.",
+    "An akasha deploy names one thing, reads what it is made of from its page, refuses what is ambiguous, and does nothing already done.",
+    "Deploys are broken today, so an intent naming a site or an app being put up is about that rather than about anything being written.",
   ],
 } as const satisfies Initiative

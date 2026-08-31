@@ -7,18 +7,9 @@ export const akashaSeats = {
   domainSlug: "domain/seat-system",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
-  invariants: [
-    {
-      invariantKind: "gap",
-      statement: "A seat and its role and its persona are each a page in akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Nothing outside akasha says what a seat is.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A seat at work keeps working while its page moves.",
-    },
+  intents: [
+    { statement: "A seat and its role and its persona are each a page in akasha." },
+    { statement: "Nothing outside akasha says what a seat is." },
+    { statement: "A seat at work keeps working while its page moves." },
   ],
 } as const satisfies Initiative
