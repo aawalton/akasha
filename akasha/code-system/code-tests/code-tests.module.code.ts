@@ -10,7 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { dataAt } from "../../file-system/data-place/data-place.module.code.ts"
+import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
 const SUFFIX = ".test.ts"
@@ -35,7 +35,7 @@ const HOLD = "/var/tmp"
 
 const PREFIX = "akasha-world-"
 
-const DATA = dataAt()
+const INDEX = indexNamed()
 
 const MODULES = "node_modules"
 
@@ -135,9 +135,9 @@ export function worldOf(
     mkdirSync(dirname(to), { recursive: true })
     writeFileSync(to, bytes)
   }
-  if (existsSync(join(from, DATA))) {
-    mkdirSync(dirname(join(root, DATA)), { recursive: true })
-    cpSync(join(from, DATA), join(root, DATA), { recursive: true })
+  if (existsSync(join(from, INDEX))) {
+    mkdirSync(dirname(join(root, INDEX)), { recursive: true })
+    cpSync(join(from, INDEX), join(root, INDEX), { recursive: true })
   }
   for (const one of CARRIED) {
     if (existsSync(join(from, one))) cpSync(join(from, one), join(root, one))
