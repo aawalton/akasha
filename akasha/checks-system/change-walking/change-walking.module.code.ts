@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { pageTypesIn } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyPath } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import {
   namedIn,
@@ -160,7 +160,7 @@ export function overEachFile(
 }
 
 export function everyFileIn(root: string, given: string | Reading = root): readonly string[] {
-  return [...new Set(everyPathAnswered(root, given))].sort()
+  return [...new Set(everyPath(given))].sort()
 }
 
 export function everythingIn(root: string): Change {
