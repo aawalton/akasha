@@ -5,7 +5,7 @@ import {
 } from "./seat-akasha-beside.ts"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBesideUnder } from "./seat-beside.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 
 export const PENDING_KEY = "turn-pending"
 
@@ -66,8 +66,9 @@ export function setPending(
   values: Partial<Record<TurnPendingComponent, boolean>>
 ): void {
   if (agent === "") return
-  const page = seatPageForAgent(agent)
-  if (page === null) return
+  const seatName = seatNameForAgent(agent)
+  if (seatName === null) return
+  const page = seatPageDestination(seatName)
   const at = Date.now()
   const standing = pendingOf(agent)
   // THE WHOLE RECORD IS HANDED OVER RATHER THAN THE FIELDS THAT CHANGED. Both stores are written

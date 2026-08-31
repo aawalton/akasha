@@ -1,6 +1,6 @@
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 
 const CLEARED = {
   requestedAction: null,
@@ -24,19 +24,22 @@ export function requestedActionOf(agentId: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
+// THE SEAT IS FOUND IN AKASHA RATHER THAN BY ITS OLD PAGE STANDING. Both of these asked for that
+// page and treated its absence as the seat being gone, which was true while every seat had one and
+// stops being true as those pages go.
 export function setControl(agentId: string, values: Record<string, unknown>): void {
-  const page = seatPageForAgent(agentId)
-  if (page === null) {
+  const seatName = seatNameForAgent(agentId)
+  if (seatName === null) {
     throw new Error(
-      `no seat page stands for agent ${agentId}, so there is no uncommitted file to carry the request. ` +
-        "A seat with no page has no agent present in it, and a request reaches only a running seat."
+      `no seat stands in akasha for agent ${agentId}, so there is nothing beside a page to carry the request. ` +
+        "A seat that is not there has no agent present in it, and a request reaches only a running seat."
     )
   }
-  keepBeside(page, { ...CLEARED, ...values })
+  keepBeside(seatPageDestination(seatName), { ...CLEARED, ...values })
 }
 
 export function clearControl(agentId: string): void {
-  const page = seatPageForAgent(agentId)
-  if (page === null) return
-  keepBeside(page, CLEARED)
+  const seatName = seatNameForAgent(agentId)
+  if (seatName === null) return
+  keepBeside(seatPageDestination(seatName), CLEARED)
 }

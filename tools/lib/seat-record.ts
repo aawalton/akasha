@@ -1,6 +1,19 @@
 import { akashaSeatRecordOf } from "./seat-akasha-read.ts"
 import { dropBeside, keepBeside } from "./seat-beside.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
+
+// WHERE A SEAT'S VALUES ARE WRITTEN, FOUND WITHOUT OPENING AN OLD PAGE. This asked for the old
+// page's path and gave up when there was none, which made every write here wait on a file that is
+// on its way out: once the old pages stop being written, a seat that never had one would silently
+// keep nothing.
+//
+// The path is not opened. `keepBeside` reads the seat's name off it and addresses akasha by that
+// name, so what is needed is a name and a place to spell — and `seatPageDestination` composes one
+// for a seat whose old page has already gone. The seat is found in akasha either way.
+function whereToWrite(agent: string): string | null {
+  const seatName = seatNameForAgent(agent)
+  return seatName === null ? null : seatPageDestination(seatName)
+}
 
 export interface SeatRecord {
   readonly value: string
@@ -47,7 +60,7 @@ export function keepSeatRecord(
   at: number = Date.now()
 ): void {
   if (agent === "" || value === "") return
-  const page = seatPageForAgent(agent)
+  const page = whereToWrite(agent)
   if (page === null) return
   try {
     keepBeside(page, { [key]: { value, at } })
@@ -64,7 +77,7 @@ export function backfillSeatRecord(agent: string, key: string, held: string | nu
 
 export function dropSeatRecord(agent: string, key: string): void {
   if (agent === "") return
-  const page = seatPageForAgent(agent)
+  const page = whereToWrite(agent)
   if (page === null) return
   try {
     dropBeside(page, [key])
