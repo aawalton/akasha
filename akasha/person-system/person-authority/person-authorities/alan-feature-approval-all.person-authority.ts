@@ -6,5 +6,5 @@ export const alanFeatureApprovalAll = {
   slug: "alan-feature-approval-all",
   personSlug: "alan",
   authorityKind: "feature-approval",
-  personAuthorityTarget: "all",
+  target: "all",
 } as const satisfies PersonAuthority

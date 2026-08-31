@@ -7,7 +7,7 @@ import type { Target } from "./properties/person-authority-target.text-property.
 export type PersonAuthority = Page & {
   personSlug: PersonSlug
   authorityKind: AuthorityKind
-  personAuthorityTarget: Target
+  target: Target
 }
 
 export const personAuthority = {

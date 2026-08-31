@@ -6,5 +6,5 @@ export const kiPageSchemaKi = {
   slug: "ki-page-schema-ki",
   personSlug: "ki",
   authorityKind: "page-schema",
-  personAuthorityTarget: "ki-*",
+  target: "ki-*",
 } as const satisfies PersonAuthority

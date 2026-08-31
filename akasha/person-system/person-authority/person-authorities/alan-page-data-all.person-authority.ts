@@ -6,5 +6,5 @@ export const alanPageDataAll = {
   slug: "alan-page-data-all",
   personSlug: "alan",
   authorityKind: "page-data",
-  personAuthorityTarget: "all",
+  target: "all",
 } as const satisfies PersonAuthority
