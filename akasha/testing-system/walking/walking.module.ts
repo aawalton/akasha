@@ -13,10 +13,6 @@ export const walking = {
     },
     {
       invariantKind: "departure",
-      statement: "The list is sorted.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body is read as text.",
     },
   ],

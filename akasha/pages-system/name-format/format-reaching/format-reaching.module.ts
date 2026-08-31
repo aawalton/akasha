@@ -10,10 +10,6 @@ export const formatReaching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A format is reached by the slug it carries.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name given by id reaches nothing here.",
     },
     {

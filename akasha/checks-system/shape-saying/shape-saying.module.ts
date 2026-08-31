@@ -9,10 +9,6 @@ export const shapeSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file is said by its name inside the folder.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Files are said in the order the shape found them.",
     },
     {
