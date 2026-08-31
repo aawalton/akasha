@@ -1,11 +1,15 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
+import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.named-file-property.ts"
+import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
+  bundleId: BundleId
   capacitorConfig: CapacitorConfig
+  displayName: DisplayName
   gitIgnore: GitIgnore
   webEntry?: WebEntry
 }
@@ -27,10 +31,14 @@ export const iosApp = {
     "shell-script/stage-web-entry",
     "shell-script/widget-components",
     "shell-script/write-capacitor-config",
+    "text-property/bundle-id",
+    "text-property/display-name",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
+    { pagePropertySlug: "bundle-id", required: true, many: false },
     { pagePropertySlug: "capacitor-config", required: true, many: false },
+    { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
   ],

@@ -6,7 +6,9 @@ export const smilingjenny = {
   slug: "smilingjenny",
   definition: "the app on Jenny's phone and the shell it runs in",
   manifest: "json",
+  bundleId: "me.smilingjenny.app",
   capacitorConfig: "json",
+  displayName: "Smiling Jenny",
   gitIgnore: "gitignore",
   webEntry: "html",
   partSlugs: [

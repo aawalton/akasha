@@ -6,7 +6,9 @@ export const alanwalton = {
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
   manifest: "json",
+  bundleId: "com.alanwalton.app",
   capacitorConfig: "json",
+  displayName: "alanwalton",
   gitIgnore: "gitignore",
   partSlugs: [
     "ios-program/alanwalton-app",
