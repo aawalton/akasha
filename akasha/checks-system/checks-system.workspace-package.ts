@@ -65,6 +65,10 @@ export const checksSystem = {
       statement: "A change to what a check runs with is caught at audit.",
     },
     {
+      invariantKind: "upkeep",
+      statement: "Every check says what it runs on.",
+    },
+    {
       invariantKind: "departure",
       statement: "A check reads the index together with the change rather than the index alone.",
     },

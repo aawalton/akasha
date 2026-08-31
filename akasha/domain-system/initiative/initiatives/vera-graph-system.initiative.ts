@@ -8,11 +8,10 @@ export const veraGraphSystem = {
   personaSlug: "vera",
   intents: [
     {
-      statement: "Every check says what it runs on.",
+      statement: "A check's waking is no wider than what it runs on.",
       workingMemory:
-        "A selector says what a check runs on and wakes on every path it hands over. `FILES`, `TEXTS` and `PAGES` stand in `change-walking`; `judgingEach` builds a check from one, `waking` lays one on a check that keeps its own walking, and `checksWoken` skips a check whose waking no changed path answers. Twenty-two of thirty-six are bound: a non-page `.ts` sleeps seven, a `.md` eighteen. A test runs every bound check over a change its waking turns away and asks for no refusal.",
+        "`FILES`, `TEXTS` and `PAGES` stand in `change-walking`; `judgingEach` builds a check from one, `waking` lays one on a check keeping its own walking. All thirty-six carry one: ten sleep for a non-page `.ts`, twenty-nine for a `.md`. `PAGES` is wider than several need, `introduced-property-is-a-part` running on `*.page-type.ts` alone. A test in `checking` runs every bound check over a change its waking turns away and asks for no refusal.",
     },
-    { statement: "A check's waking is no wider than what it runs on." },
     { statement: "No answer rests on a question the corpus must be walked to settle." },
   ],
 } as const satisfies Initiative
