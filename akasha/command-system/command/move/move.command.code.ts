@@ -2,7 +2,7 @@ import { existsSync, statSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
 import type { Standing } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
-  everyPath,
+  everyPathAnswered,
   importersOf,
   standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -161,7 +161,7 @@ export function spellingOf(
 ): readonly string[] {
   const names = [...new Set([...moved.keys()].map((one) => basename(one)))]
   const found: string[] = []
-  for (const path of everyPath(root)) {
+  for (const path of everyPathAnswered(root)) {
     if (!path.endsWith(TS) || moved.has(path) || known.has(path)) continue
     const held = bodyAt(root, stood, path)
     if (held === null) continue
