@@ -1,17 +1,12 @@
 import { everyOfTypeAnswered } from "../../indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
-import { type Value, valueAt } from "../../page/page-value/page-value.module.code.ts"
+import { slugOf, type Value, valueAt } from "../../page/page-value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
 const EXTENDS = "extendsSlug"
 
 const SLUG = "slug"
-
-function slugOf(address: string): string {
-  const at = address.indexOf("/")
-  return at === -1 ? address : address.slice(at + 1)
-}
 
 function saidIn(value: Value | null, key: string): string | null {
   if (value === null) return null
