@@ -64,16 +64,28 @@ export function setPending(
   if (page === null) return
   const at = Date.now()
   const standing = pendingIn(readUncommitted(page)?.[PENDING_KEY])
-  const written: Record<string, PendingRecord> = {}
+  // THE WHOLE RECORD IS HANDED OVER RATHER THAN THE FIELDS THAT CHANGED. Both stores are written
+  // from this one call and they merge at different depths: the old store merges within the key and
+  // keeps what it is not told about, akasha merges at the top of the page and replaces the record
+  // whole. Handing over the fields that changed alone meant something had to put the other fields
+  // back before akasha saw them, and what did that was a read of the old store — which is the one
+  // thing that has to go before a seat can stop being written outside akasha.
+  //
+  // Nothing has to put them back now, because they were never taken away. A field that did not
+  // change is carried at the stamp it already held, so the record says when each field was last
+  // read rather than when this write happened.
+  const whole: Record<string, PendingRecord> = { ...standing }
+  let changed = false
   for (const component of TURN_PENDING_COMPONENTS) {
     const value = values[component]
     if (typeof value !== "boolean") continue
     if (standing[component]?.value === value) continue
-    written[component] = { value, at }
+    whole[component] = { value, at }
+    changed = true
   }
-  if (Object.keys(written).length === 0) return
+  if (!changed) return
   try {
-    keepBesideUnder(page, PENDING_KEY, written)
+    keepBesideUnder(page, PENDING_KEY, whole)
   } catch {
     return
   }

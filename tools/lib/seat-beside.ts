@@ -9,7 +9,6 @@ import {
   dropUncommitted,
   patchUncommitted,
   patchUncommittedUnder,
-  readUncommitted,
   removeUncommitted,
 } from "../../page/uncommitted/uncommitted.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
@@ -121,29 +120,24 @@ export function keepBeside(page: string, values: Beside): void {
   alsoInAkasha(page, values)
 }
 
-// A RECORD REACHES AKASHA WHOLE, AND THE CALLER NAMES ONLY WHAT IT IS CHANGING. The old store
-// merges within the key and akasha's merges at the top of the page, so carrying just the named
-// fields takes the rest of the record away. It did: every seat's turn stood on four fields in the
-// old store and on whichever one was written last in akasha.
+// A RECORD IS HANDED OVER WHOLE AND REACHES BOTH STORES WHOLE. They merge at different depths — the
+// old store within the key, akasha at the top of the page — so a record is the one shape where
+// handing over less than all of it means two different things in the two places.
 //
-// So the record is read back from the old store after the patch rather than assembled from what was
-// passed in. That read is the merge already done, which is why it is taken from there rather than
-// folded together here a second time.
+// This used to take the fields that changed and put the rest back by reading the record out of the
+// old store. That read is what made the old store the engine this one ran on: akasha held four
+// fields only because the old store had just finished assembling them, and no writer could stop
+// writing outside akasha while it was true.
 //
-// ASSEMBLING IT FROM WHAT AKASHA HOLDS INSTEAD WAS TRIED AND TAKEN BACK OUT. It is the coupling
-// that has to go before any writer can stop writing outside akasha, so it will be tried again — but
-// reading the base from akasha turns a base that could not be read into a base that is empty, and
-// an empty base drops every field the caller did not name. It dropped three of `astra`'s four
-// within the hour. Whatever replaces this has to tell those two apart before it is trusted.
+// Reading the base from akasha instead was tried and taken back out: it dropped three of `astra`'s
+// four fields inside the hour, and the cause was never established. Nothing reads a base now. The
+// caller already held the whole record — it was narrowing it to the changed fields and throwing the
+// rest away — so it hands over what it had.
 export function keepBesideUnder(page: string, key: string, values: Beside): void {
   patchUncommittedUnder(page, key, values)
   if (RECORDS[key] === undefined) return
-  const whole = readUncommitted(page)?.[key]
-  const from = (
-    whole === null || typeof whole !== "object" || Array.isArray(whole) ? values : whole
-  ) as Record<string, unknown>
   const under: Beside = {}
-  for (const [name, value] of Object.entries(from)) under[camel(name)] = bare(value)
+  for (const [name, value] of Object.entries(values)) under[camel(name)] = bare(value)
   alsoInAkasha(page, { [key]: under })
 }
 
