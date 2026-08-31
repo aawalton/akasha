@@ -2,7 +2,7 @@ import {
   textAt,
   type Value,
   valueAt,
-} from "../../akasha/pages-system/indexes/index-entries/index-entries.module.code.ts"
+} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import {
   everyOfTypeAnswered,
   type Standing,

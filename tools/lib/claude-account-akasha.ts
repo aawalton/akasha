@@ -1,7 +1,7 @@
 import {
   type Value,
   valueAt,
-} from "../../akasha/pages-system/indexes/index-entries/index-entries.module.code.ts"
+} from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import { everyOfTypeAnswered } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { secretAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
