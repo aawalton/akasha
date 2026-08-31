@@ -7,6 +7,8 @@ import { bodyOf, pathOf, seatNamedIn, slugOf, wantedIn } from "./subagent-standi
 
 const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
+const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
+
 const OWN = "a38f63805f9b94edf"
 
 function filed(root: string, id: string, path: string): undefined {
@@ -56,7 +58,9 @@ test("a seat is named by the page the index carries for its id", () => {
 test("a seat the index carries no page for is named by nothing", () => {
   const world = scratchWorld()
   try {
-    expect(seatNamedIn(world.rootFor("subagent-standing-"), SEAT_ID)).toBe(null)
+    const root = world.rootFor("subagent-standing-")
+    filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+    expect(seatNamedIn(root, SEAT_ID)).toBe(null)
   } finally {
     world.sweep()
   }

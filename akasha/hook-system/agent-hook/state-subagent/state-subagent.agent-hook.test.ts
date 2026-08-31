@@ -8,6 +8,8 @@ import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"
 
+const ANOTHER = "01a05844-6e60-7000-b54c-4b14559df70c"
+
 const OWN = "a38f63805f9b94edf"
 
 const SEATED: Readonly<Record<string, string>> = { [SEAT_NAMED]: SEAT }
@@ -16,15 +18,18 @@ function payloadOf(said: Record<string, unknown>): string {
   return JSON.stringify(said)
 }
 
+function filed(root: string, id: string, path: string): undefined {
+  standing(
+    root,
+    join(indexNamed(), "identity", "page", "id", `${id}.jsonl`),
+    `${JSON.stringify({ path, id })}\n`
+  )
+}
+
 function worldNaming(rootFor: (prefix: string) => string, path: string | null): string {
   const root = rootFor("state-subagent-")
-  if (path !== null) {
-    standing(
-      root,
-      join(indexNamed(), "identity", "page", "id", `${SEAT}.jsonl`),
-      `${JSON.stringify({ path, id: SEAT })}\n`
-    )
-  }
+  if (path === null) filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+  else filed(root, SEAT, path)
   return root
 }
 
