@@ -5,7 +5,7 @@ export const ryn = {
   pageTypeSlug: "seat",
   slug: "ryn",
   personaSlug: "ryn",
-  assignmentSlug: "domain/domain-system",
+  assignmentSlug: "workspace-package/domain-system",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
