@@ -7,7 +7,10 @@ import {
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
-import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  pageNamed,
+  secretNamed,
+} from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../checking/checking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -57,6 +60,7 @@ export function missingFor(
   const said: Judged[] = []
   for (const one of pathsOf(value, page, change.root, fileProperties)) {
     if (one === page) continue
+    if (secretNamed(one)) continue
     if (change.after(one) !== null) continue
     said.push({ path: page, reason: `states ${statedBy(page, one)}, and no file stands at ${one}` })
   }
