@@ -57,7 +57,7 @@ cat >> "$APPDELEGATE" <<'SWIFT_HEALTH_SAMPLES'
             try? await Task.sleep(nanoseconds: pauseBetweenPostsNanoseconds)
         }
         // `inserted` is what the SERVER had never seen. Above zero here says the anchored drain is
-        // LOSING samples rather than finding none, and it is the only signal in the estate that
+        // LOSING samples rather than finding none, and it is the only signal in this system that
         // says so from the device's own side.
         return
             "\(metric.wireName): nothing new since the last send, but a direct read of \(window) found \(samples.count) samples and sent \(sentTotal) in \(posts) batches — \(insertedTotal) the server had not seen."
