@@ -1,7 +1,7 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Phone } from "../../person-system/person/properties/phone.phone-number-property.ts"
-import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.text-property.ts"
+import type { RoleSlug } from "../../seat-system/seat/properties/role-slug.relation-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.text-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
@@ -84,11 +84,11 @@ export const persona = {
     "persona/zadi",
     "persona/zeli",
     "relation-property/origin",
+    "relation-property/role-slug",
     "text-property/championed-domain-slug",
     "text-property/history",
     "text-property/last-messaged-at",
     "text-property/purpose",
-    "text-property/role-slug",
     "text-property/value-slug",
     "text-property/voice-instruction",
     "text-property/voice-reference-sha256",

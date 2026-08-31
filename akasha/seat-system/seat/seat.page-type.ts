@@ -7,7 +7,7 @@ import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
 import type { PrincipalSeatName } from "./properties/principal-seat-name.relation-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
-import type { RoleSlug } from "./properties/role-slug.text-property.ts"
+import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
 
 export type Seat = Page & {
