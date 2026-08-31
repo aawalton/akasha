@@ -22,11 +22,11 @@ export const gitting = {
     },
     {
       invariantKind: "departure",
-      statement: "Landing answers it for the door already.",
+      statement: "Landing answers it for the commands already.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here is reached by the door.",
+      statement: "Nothing here is reached by a command.",
     },
     {
       invariantKind: "absence",

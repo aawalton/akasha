@@ -9,7 +9,7 @@ export const judging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing here imports a check or a door.",
+      statement: "Nothing here imports a check or a command.",
     },
   ],
 } as const satisfies Module

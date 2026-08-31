@@ -79,7 +79,7 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is written by the door and by nothing else.",
+      statement: "The index is written by the akasha commands and by nothing else.",
     },
     {
       invariantKind: "departure",

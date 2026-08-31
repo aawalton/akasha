@@ -108,7 +108,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
       "There is no akasha command for a notebook, and the akasha folder holds none.",
     ].join("\n")
   }
-  const door = "The akasha commands write that folder — they check the change and commit it."
+  const commands = "The akasha commands write that folder — they check the change and commit it."
   const why = '--message "<what this change is for>"'
   const bound = `only \`${PAGES}/\` and \`${dataAt()}\` are refused here.`
   if (toolName === EDIT) {
@@ -116,7 +116,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
     const now = join(held, `${HOOK_NAME}-${name}.new`)
     return [
       `${HOOK_NAME}: Edit lands on \`${shown}\`, inside the akasha folder.`,
-      door,
+      commands,
       "",
       `Put the text you are replacing in ${was}, and the text replacing it in ${now}, then run:`,
       "",
@@ -128,7 +128,7 @@ function refusingPages(toolName: string, shown: string, name: string, held: stri
   const body = join(held, `${HOOK_NAME}-${name}`)
   return [
     `${HOOK_NAME}: Write lands on \`${shown}\`, inside the akasha folder.`,
-    door,
+    commands,
     "",
     `Put the whole new body in ${body}, then run:`,
     "",

@@ -14,7 +14,7 @@ const SETTING_UP: readonly string[] = ["sudo", "env"]
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
 const REFUSAL = toldOf(HOOK, [
-  "`biome` reads and writes the files the akasha commands are the door for.",
+  "`biome` reads and writes the files the akasha commands write.",
   "A biome run that writes reaches akasha content with no gate, no index and no commit, which",
   "leaves the akasha index behind HEAD and takes the gate from every agent working here.",
   "",

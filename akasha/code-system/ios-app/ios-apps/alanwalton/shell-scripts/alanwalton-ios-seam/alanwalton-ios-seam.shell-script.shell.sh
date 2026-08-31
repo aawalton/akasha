@@ -11,7 +11,7 @@ PACKAGE="$(cd "$HERE/../.." && pwd)"
 IOS_APP_DIR="$(cd "$PACKAGE/../.." && pwd)"
 AKASHA_HERE="$(cd "$IOS_APP_DIR/.." && pwd)"
 # akasha holds text, and a 1024px PNG is not text — no check can read it, so the
-# door refuses it. The icon is the one thing this shell still keeps outside.
+# akasha commands refuse it. The icon is the one thing this shell still keeps outside.
 REPO_ROOT="$(cd "$AKASHA_HERE/../.." && pwd)"
 
 PLIST="ios/App/App/Info.plist"
