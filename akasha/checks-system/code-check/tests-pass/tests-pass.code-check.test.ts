@@ -108,8 +108,8 @@ test("a file the index files a test beside wakes the check", () => {
     "akasha/one.module.test.ts": PASSES,
   })
   const shadow = shadowAt(root)
-  const woken = ["akasha/one.module.ts", "akasha/one.module.code.ts", "akasha/one.module.test.ts"]
-  expect(woken.map((path) => testsPass.isInput(path, shadow))).toEqual([true, true, true])
+  const taken = ["akasha/one.module.ts", "akasha/one.module.code.ts", "akasha/one.module.test.ts"]
+  expect(taken.map((path) => testsPass.isInput(path, shadow))).toEqual([true, true, true])
 })
 
 test("a file the index files no test beside does not wake the check", () => {
