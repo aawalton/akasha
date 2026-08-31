@@ -86,11 +86,11 @@ test("a page named among the parts of several pages warrants every one of them, 
   expect(pathsOf(fileDomain(root, part.path))).toEqual([one.path, two.path])
 })
 
-test("a cold index warrants nothing", () => {
+test("a cold index refuses rather than warranting nothing", () => {
   const root = scratch.rootFor("akasha-file-domain-")
   const path = "akasha/part/part.domain.ts"
   standing(root, path, "body\n")
-  expect(pathsOf(fileDomain(root, path))).toEqual([])
+  expect(() => fileDomain(root, path)).toThrow("is not there")
 })
 
 test("a path standing at no page warrants nothing", () => {

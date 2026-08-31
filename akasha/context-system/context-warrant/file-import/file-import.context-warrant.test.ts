@@ -171,13 +171,13 @@ test("an import index that is not there warrants what the body says all the same
   expect(pathsOf(warrantsAt(root, at))).toEqual([pageAt("b")])
 })
 
-test("a cold index warrants nothing", () => {
+test("a cold index refuses rather than warranting nothing", () => {
   const root = scratch.rootFor(PREFIX)
   world(root, ["a", "b"])
   codeAt(root, "b", "")
   const at = codeAt(root, "a", 'import { b } from "../b/b.module.code.ts"\n')
   rmSync(join(root, ".git"), { recursive: true, force: true })
-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+  expect(() => warrantsAt(root, at)).toThrow("is not there")
 })
 
 test("what a file imports is read from its own body", () => {
