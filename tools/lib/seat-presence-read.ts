@@ -11,7 +11,13 @@ import {
   SEAT_PLACES,
   SEAT_WRITE,
 } from "./agent-page-place.ts"
-import { akashaValueOf, SUPERVISOR_PROCESS } from "./seat-akasha-beside.ts"
+import {
+  akashaHolderProcessOf,
+  akashaSeatPathForAgent,
+  akashaSeatSlugOf,
+  akashaValueOf,
+  SUPERVISOR_PROCESS,
+} from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -145,24 +151,36 @@ export function seatIdForName(name: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
+// WHICH PROCESS HOLDS A SEAT IS READ FROM AKASHA WHEN THE SEAT IS ASKED FOR BY ID. The old sidecar
+// is still written every beat and the two are checked against each other by the sweep, so this
+// stands on one store rather than reading both and preferring one.
+//
+// The path-shaped reads below it still open the old page, because what stands on those is the sweep,
+// whose whole work is the old store's files. They go when those files do.
 export function agentHolderProcess(agentId: string): string | null {
-  const page = seatPageForAgent(agentId)
-  return page === null ? null : seatHolderProcess(page)
+  return akashaHolderProcessOf(agentId)
 }
 
+// A SEAT THAT DOES NOT STAND AND A SEAT WHOSE HOLDER CANNOT BE READ ARE DIFFERENT ANSWERS. No seat
+// is an absence, and it is what lets a stopped agent be revived. A seat standing that names no
+// readable process is uncertain, and delivering to it beats reviving over an agent that may be live.
+// Collapsing the two would stop every revival, so the distinction is kept rather than inherited from
+// what a null process happens to read as.
 export function agentPresence(agentId: string): SeatPresence {
-  const page = seatPageForAgent(agentId)
-  return page === null ? "absent" : seatPresence(page)
+  if (akashaSeatPathForAgent(agentId) === null) return "absent"
+  return statedProcessPresence(akashaHolderProcessOf(agentId))
 }
 
 export function agentIsPresent(agentId: string): boolean {
   return agentPresence(agentId) === "present"
 }
 
+// A SEAT'S NAME IS THE NAME ITS PAGE FILE STANDS UNDER, in either store, so this is read off the
+// path in akasha the way it was read off the path here. The index answers that path already, and
+// asking by id costs no walk of the old directory.
 export function seatNameForAgent(agentId: string): string | null {
   if (agentId === "") return null
-  const page = seatPageForAgent(agentId)
-  return page === null ? null : pageStemOf(page)
+  return akashaSeatSlugOf(agentId)
 }
 
 export function seatNameForSupervisorPid(pid: number): string | null {
