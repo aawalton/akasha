@@ -15,6 +15,7 @@ import {
   CHECK_TYPE,
   HELD_CODE_AT,
   HELD_PAGE_AT,
+  INPUT_THROWS_CHECKS,
   NAMES_SHADOW,
   pagedRoot,
   REFUSES_ALL,
@@ -25,7 +26,6 @@ import {
   scratch,
   THROWS,
   TWO_CHECKS,
-  WAKING_THROWS_CHECKS,
 } from "./checking.module.test-fixtures.ts"
 
 const PAGE = "page"
@@ -201,7 +201,7 @@ test("a check stating no input runs over a change its neighbour sleeps through",
 })
 
 test("a check whose input could not be answered runs, its neighbour taken as it would have been", () => {
-  const root = rootWith(WAKING_THROWS_CHECKS)
+  const root = rootWith(INPUT_THROWS_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   writeFileSync(join(root, "two.ts"), "two")
   const every = checksIn(root)

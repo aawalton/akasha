@@ -140,7 +140,7 @@ export const TWO_CHECKS = [
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
 
-export const WAKING_THROWS_CHECKS = [
+export const INPUT_THROWS_CHECKS = [
   { slug: "waking-throws", runsOn: ["patch"], body: WAKING_THROWS },
   { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
 ]
