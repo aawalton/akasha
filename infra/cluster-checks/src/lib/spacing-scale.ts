@@ -114,7 +114,7 @@ export function findScaleDrift(cssText: string, swiftText: string): readonly Spa
     const swiftStep = bySwiftName.get(swiftName)
     if (swiftStep === undefined) {
       violations.push({
-        message: `--${step.cssVar} (${step.px}px) has no ${swiftName} in Spacing.swift; add \`let ${swiftName}: CGFloat = ${step.px}\``,
+        message: `--${step.cssVar} (${step.px}px) has no ${swiftName} in the spacing component; add \`let ${swiftName}: CGFloat = ${step.px}\``,
         reason: "missing-in-swift",
         at: step.cssVar,
       })
@@ -122,7 +122,7 @@ export function findScaleDrift(cssText: string, swiftText: string): readonly Spa
     }
     if (swiftStep.px !== step.px) {
       violations.push({
-        message: `${swiftName} = ${swiftStep.px} drifted from --${step.cssVar} (${step.px}px); tokens.css is authoritative, so update Spacing.swift to match it`,
+        message: `${swiftName} = ${swiftStep.px} drifted from --${step.cssVar} (${step.px}px); tokens.css is authoritative, so update the spacing component to match it`,
         reason: "mismatch",
         at: step.cssVar,
       })
@@ -132,7 +132,7 @@ export function findScaleDrift(cssText: string, swiftText: string): readonly Spa
   for (const step of swiftSteps) {
     if (expected.has(step.swiftName)) continue
     violations.push({
-      message: `${step.swiftName} = ${step.px} is in Spacing.swift with no --${cssVarFor(step.swiftName)} in tokens.css; a step invented on the native side is not part of the scale`,
+      message: `${step.swiftName} = ${step.px} is in the spacing component with no --${cssVarFor(step.swiftName)} in tokens.css; a step invented on the native side is not part of the scale`,
       reason: "unknown-in-swift",
       at: step.swiftName,
     })
@@ -201,7 +201,7 @@ export function judgeLiterals(
     if (exception === undefined) {
       for (const literal of found) {
         violations.push({
-          message: `${literal.file}:${literal.line}: \`${literal.kind}\` written as ${literal.value}; take the step by name from Spacing.swift, or add an entry to SPACING_EXCEPTIONS saying why no step describes it`,
+          message: `${literal.file}:${literal.line}: \`${literal.kind}\` written as ${literal.value}; take the step by name from the spacing component, or add an entry to SPACING_EXCEPTIONS saying why no step describes it`,
           reason: "literal",
           at: `${literal.file}:${String(literal.line).padStart(4, "0")}`,
         })

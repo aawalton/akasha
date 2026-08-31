@@ -8,7 +8,7 @@ export const WIDGET_SOURCE_GLOBS: readonly string[] = [
 
 export const WIDGET_SOURCE_GLOB = WIDGET_SOURCE_GLOBS.join(" and ")
 
-export const SPACING_SWIFT_BASENAME = "Spacing.swift"
+export const SPACING_SWIFT_BASENAME = "spacing.ios-component.swift.swift"
 
 export const WIDGET_SEAM_GLOB = "../akasha/native-shell/*/scripts/apply-ios-seam.sh"
 
@@ -54,6 +54,19 @@ export type WidgetDisposition =
       readonly hosts: readonly string[]
       readonly hostsWithoutScale: readonly string[]
     }
+
+/**
+ * A widget extension is one Swift compile unit: the sources in the extension's own
+ * directory plus every shared source a seam copies in beside them. Swift names no
+ * imports between files of one unit, so the scale resolves for all of them or for
+ * none of them, whichever directory it is written in.
+ */
+export function unitOf(join: SeamJoin, sites: readonly WidgetSite[]): readonly string[] {
+  return sites
+    .map((site) => site.dir)
+    .filter((dir) => dir === join.extensionDir || coversDir(join.sharedDir, dir))
+    .sort()
+}
 
 export function deriveWidgetSites(swiftPaths: readonly string[]): readonly WidgetSite[] {
   const byDir = new Map<string, string[]>()
@@ -127,16 +140,22 @@ export function disposeWidgetSites(args: {
   const scaleSites = new Set(args.sites.filter(statesOwnScale).map((site) => site.dir))
   const out = new Map<string, WidgetDisposition>()
 
+  const unitStatesScale = (join: SeamJoin): boolean =>
+    unitOf(join, args.sites).some((dir) => scaleSites.has(dir))
+
   for (const site of args.sites) {
     if (scaleSites.has(site.dir)) {
       out.set(site.dir, { kind: "states-scale" })
       continue
     }
-    const hosts = args.joins
-      .filter((join) => coversDir(join.sharedDir, site.dir))
+    const units = args.joins.filter(
+      (join) => join.extensionDir === site.dir || coversDir(join.sharedDir, site.dir)
+    )
+    const hosts = units.map((join) => join.extensionDir).sort()
+    const hostsWithoutScale = units
+      .filter((join) => !unitStatesScale(join))
       .map((join) => join.extensionDir)
       .sort()
-    const hostsWithoutScale = hosts.filter((host) => !scaleSites.has(host))
     if (hosts.length > 0 && hostsWithoutScale.length === 0) {
       out.set(site.dir, { kind: "takes-scale-from", extensions: hosts })
       continue
@@ -178,14 +197,14 @@ export function judgeWidgetScope(args: {
     if (disposition.kind !== "unjudged") continue
     if (disposition.hostsWithoutScale.length > 0) {
       violations.push({
-        message: `${dir} holds shared widget sources copied into ${disposition.hostsWithoutScale.join(", ")}, and ${disposition.hostsWithoutScale.length === 1 ? "that extension states" : "those extensions state"} no ${SPACING_SWIFT_BASENAME}; a step named in shared Swift would not resolve there, so this directory cannot be held to the scale until it does`,
+        message: `${dir} holds widget sources compiled into ${disposition.hostsWithoutScale.join(", ")}, and no directory ${disposition.hostsWithoutScale.length === 1 ? "that extension compiles" : "those extensions compile"} holds a ${SPACING_SWIFT_BASENAME}; a step named anywhere in that unit would not resolve, so this directory cannot be held to the scale until one does`,
         reason: "shared-scale-unresolved",
         at: dir,
       })
       continue
     }
     violations.push({
-      message: `${dir} holds widget sources and this check neither judges it against the spacing scale nor says why it does not; give it a ${SPACING_SWIFT_BASENAME}, or have a shell's ${WIDGET_SEAM_GLOB.split("/").pop()} copy it into extensions that state one, or add a WIDGETS_OUTSIDE_THE_SCALE row saying what a green here does not speak for`,
+      message: `${dir} holds widget sources and this check neither judges it against the spacing scale nor says why it does not; give it a ${SPACING_SWIFT_BASENAME}, or have a shell's ${WIDGET_SEAM_GLOB.split("/").pop()} join it to a compile unit that holds one, or add a WIDGETS_OUTSIDE_THE_SCALE row saying what a green here does not speak for`,
       reason: "widget-unjudged",
       at: dir,
     })
@@ -207,7 +226,7 @@ export function judgeWidgetScope(args: {
         message:
           disposition.kind === "states-scale"
             ? `WIDGETS_OUTSIDE_THE_SCALE says ${declaration.dir} stands outside the scale and it now holds ${SPACING_SWIFT_BASENAME}; the reason has stopped being true, so either drop the row or write it again for the reason that holds now`
-            : `WIDGETS_OUTSIDE_THE_SCALE says ${declaration.dir} stands outside the scale and it is now copied into ${disposition.extensions.join(", ")}, every one of which states the scale; a step named here resolves, so the row describes nothing and should be dropped`,
+            : `WIDGETS_OUTSIDE_THE_SCALE says ${declaration.dir} stands outside the scale and it is now compiled into ${disposition.extensions.join(", ")}, every one of which reaches the scale; a step named here resolves, so the row describes nothing and should be dropped`,
         reason: "declaration-expired",
         at: declaration.dir,
       })
@@ -237,7 +256,7 @@ export function describeWidgetScope(args: {
         break
       case "takes-scale-from":
         lines.push(
-          `Judged against the scale, which it takes from ${disposition.extensions.join(", ")}: ${site.dir} — ${scanned} source(s) scanned for literals.`
+          `Judged against the scale, which reaches it through ${disposition.extensions.join(", ")}: ${site.dir} — ${scanned} source(s) scanned for literals.`
         )
         break
       case "declared-out":

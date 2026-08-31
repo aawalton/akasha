@@ -33,9 +33,8 @@ const PREFIX = "[spacing-scale]"
 
 const TOKENS_CSS_REL = "shared/design-system/src/styles/tokens.css"
 
-const HEADER = `Every Spacing.swift must mirror the --spacing-* scale in ${TOKENS_CSS_REL}, no other source of a judged widget directory may write a dimension as a number, and every widget directory in the tree either states the scale, takes it from the extensions it compiles into, or is declared out by name`
-const SUCCESS =
-  "The spacing scale matches across tokens.css and every Spacing.swift stating it, every source of every judged widget directory takes its gaps by name, and no widget directory is left unaccounted for."
+const HEADER = `Every ${SPACING_SWIFT_BASENAME} must mirror the --spacing-* scale in ${TOKENS_CSS_REL}, no other source of a judged widget directory may write a dimension as a number, and every widget directory in the tree either states the scale, is compiled into a unit that holds it, or is declared out by name`
+const SUCCESS = `The spacing scale matches across tokens.css and every ${SPACING_SWIFT_BASENAME} stating it, every source of every judged widget directory takes its gaps by name, and no widget directory is left unaccounted for.`
 
 function report(args: {
   violations: readonly ReportedViolation[]
