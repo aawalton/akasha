@@ -15,7 +15,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { headOf } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
-import { put } from "../../../testing-system/putting/putting.module.code.ts"
+import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -204,11 +204,7 @@ export function change(
   const based = (path: string): Uint8Array | null => {
     const found = standing.get(path)
     if (found !== undefined) return new TextEncoder().encode(found)
-    try {
-      return readFileSync(join(root, path))
-    } catch {
-      return null
-    }
+    return stands(root, path) ? readFileSync(join(root, path)) : null
   }
   return {
     root,
