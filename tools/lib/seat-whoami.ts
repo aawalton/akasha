@@ -1,12 +1,11 @@
 import { basename } from "node:path"
-import { pageStemOf } from "../../page/name/name"
 import { slugNamed } from "../../page/page-address.ts"
 import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
 import { pageTextOf } from "./seat-page-values.ts"
-import { frontmatterOf, seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
+import { seatIdForName, seatNameForAgent } from "./seat-presence-read.ts"
 
 const PAGE_SUFFIX = ".md"
 
@@ -43,11 +42,11 @@ function parentFromFrontmatter(frontmatter: Record<string, unknown> | null): str
   return name === null ? null : seatIdForName(name)
 }
 
-function fromStanding(agentId: string, page: string): SeatWhoami {
+function fromStanding(agentId: string, seatName: string): SeatWhoami {
   const stated = attributesOf(agentId)
   return {
     id: agentId,
-    name: pageStemOf(page),
+    name: seatName,
     role: stated.role?.slug ?? null,
     domain: stated.domain?.slug ?? null,
     persona: stated.persona?.slug ?? null,
@@ -73,9 +72,17 @@ function fromHistory(agentId: string): SeatWhoami | null {
   }
 }
 
+// A SEAT STANDING IS ANSWERED FROM AKASHA, AND ONLY A SEAT GONE IS ANSWERED FROM THE HISTORY.
+// This opened the old page and read its frontmatter to decide which of the two a seat was. The
+// page was never read for an attribute — `fromStanding` took the name off its path and every other
+// field from readers that answer out of akasha already — so what the frontmatter read decided was
+// only whether a file existed.
+//
+// The history stands behind akasha rather than in front of it, unchanged: a seat still standing is
+// answered from what it holds now rather than from what it last committed.
 export function seatWhoami(agentId: string): SeatWhoami | null {
-  const page = seatPageForAgent(agentId)
-  if (page !== null && frontmatterOf(page) !== null) return fromStanding(agentId, page)
+  const seatName = seatNameForAgent(agentId)
+  if (seatName !== null) return fromStanding(agentId, seatName)
   return fromHistory(agentId)
 }
 

@@ -1,9 +1,8 @@
 import { resolveRoots } from "../../repo/roots/roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
-import { akashaHolderProcessOf } from "./seat-akasha-beside.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
-import { seatPageForAgent, seatPresence } from "./seat-presence-read.ts"
-import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
+import { agentPresence } from "./seat-presence-read.ts"
+import { type SeatPresence } from "./seat-proc-key.ts"
 import { sessionOf } from "./seat-session.ts"
 
 const TITLE = "title"
@@ -40,7 +39,6 @@ export async function resolveRelaunchTarget(
   // The old page, then akasha, then the history — the same order everywhere else reads in. A
   // relaunch stands a seat back up from what this answers, so a seat read as stating nothing is
   // relaunched without the account it signs in as.
-  const page = seatPageForAgent(agentId)
   const seat = pageValuesOf(agentId)
   if (seat === null) {
     const remembered = fromHistory(agentId)
@@ -51,11 +49,10 @@ export async function resolveRelaunchTarget(
     target: {
       name: textAt(seat, TITLE),
       account: textAt(seat, ACCOUNT_KEY),
-      // Presence is read off the page while one stands, and off what akasha holds once none does.
-      presence:
-        page === null
-          ? statedProcessPresence(akashaHolderProcessOf(agentId))
-          : seatPresence(page),
+      // Presence is one answer for a seat standing and a seat gone alike, so it is asked for by
+      // id. This branched on the old page and read presence off it while one stood, which reached
+      // akasha through the page's own id anyway.
+      presence: agentPresence(agentId),
       sessionId: sessionOf(agentId)?.value ?? null,
     },
   }
