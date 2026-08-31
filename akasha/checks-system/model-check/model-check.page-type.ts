@@ -1,0 +1,69 @@
+import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
+import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { AuditRuns } from "./properties/audit-runs.number-property.ts"
+import type { ModelTestSlugs } from "./properties/model-test-slugs.relation-property.ts"
+import type { PatchRuns } from "./properties/patch-runs.number-property.ts"
+
+export type ModelCheck = Domain & {
+  modelTestSlugs: ModelTestSlugs
+  patchRuns: PatchRuns
+  auditRuns: AuditRuns
+}
+
+export const modelCheck = {
+  id: "01a05911-aa15-776e-9726-ed4131cd6b51",
+  pageTypeSlug: "page-type",
+  slug: "model-check",
+  definition: "a check judging a change by putting prompts to a model",
+  pluralSlug: "model-checks",
+  partSlugs: [
+    "number-property/audit-runs",
+    "number-property/patch-runs",
+    "relation-property/model-test-slugs",
+  ],
+  extendsSlug: "page-type/domain",
+  properties: [
+    { pagePropertySlug: "model-test-slugs", required: true, many: true, max: null },
+    { pagePropertySlug: "patch-runs", required: true, many: false },
+    { pagePropertySlug: "audit-runs", required: true, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "One positive among the runs is a positive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two runs of one prompt over one input answer differently.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count of none is a check that stands and does not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit is asked for a count rather than given one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A model check spends a call for each run over each thing it judges.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal says a positive the writer does not think true is brought to Alan rather than argued with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages a test judges is stated in its code rather than in its prompt.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A model check states no phase.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A model check runs.",
+    },
+  ],
+} as const satisfies PageType
