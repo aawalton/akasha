@@ -20,5 +20,9 @@ export const fileLength = {
       invariantKind: "departure",
       statement: "No kind of file is exempt.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a test file names the `test-fixtures` file standing beside it.",
+    },
   ],
 } as const satisfies CodeCheck

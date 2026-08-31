@@ -60,3 +60,19 @@ test("where the file stands changes nothing, because the size is read from the b
   const two = reasonsIn({ root: "/elsewhere", path: "akasha/deep/down/held.ts", bytes: held })
   expect(one).toEqual(two)
 })
+
+test("a too-long test file's refusal names the fixtures standing beside it", () => {
+  const said = reasonsIn(given("akasha/held.module.test.ts", sized(CEILING + 1)))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("15,001 bytes, over the 15,000 byte ceiling")
+  expect(said[0]).toContain("`test-fixtures`")
+})
+
+test("a too-long file that is no test is refused in the words it was refused in before", () => {
+  const said = reasonsIn(given("akasha/held.module.code.ts", sized(CEILING + 1)))
+  expect(said).toEqual(["15,001 bytes, over the 15,000 byte ceiling"])
+})
+
+test("a test file under the ceiling is let through, so naming the relief refuses nothing new", () => {
+  expect(reasonsIn(given("akasha/held.module.test.ts", sized(CEILING)))).toEqual([])
+})
