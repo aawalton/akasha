@@ -3,7 +3,7 @@ import {
   type Standing,
   standingAddressed,
   standingAt,
-  standingByIdAnswered,
+  standingById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../seat-stated/seat-stated.module.code.ts"
@@ -51,7 +51,7 @@ export function domainAncestors(root: string, path: string): readonly Warrant[] 
         if (walked.has(above)) continue
         walked.add(above)
         next.push(above)
-        const said = standingByIdAnswered(root, above)
+        const said = standingById(root, above)
         if (said === null) continue
         const oid = standingOf(root, said.path)
         if (oid === null) continue

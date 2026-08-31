@@ -3,9 +3,9 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { blobIdOf, readingIn, sameBody } from "../../command-system/reading/reading.module.code.ts"
 import {
-  everyOfTypeAnswered,
+  everyOfType,
   slugsOfType,
-  standingByIdAnswered,
+  standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -150,7 +150,7 @@ function warrantingIn(at: string, slug: string): Warranting | null {
 }
 
 function warrantPagesIn(root: string): readonly string[] {
-  return [...new Set(everyOfTypeAnswered(root, WARRANT).map((one) => one.path))].sort()
+  return [...new Set(everyOfType(root, WARRANT).map((one) => one.path))].sort()
 }
 
 export function gatheredIn(root: string): readonly Gathered[] {
@@ -276,7 +276,7 @@ export function unreadIn(
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
-  const standing = standingByIdAnswered(root, agentId)
+  const standing = standingById(root, agentId)
   if (standing === null) return null
   const said = namedIn(standing.path)
   return said !== null && said.tail === SEAT ? standing.path : null

@@ -1,4 +1,4 @@
-import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import {
   type Changing,
@@ -66,7 +66,7 @@ function sensesOf(said: unknown): readonly Sense[] {
 
 export function termsIn(root: string): readonly Term[] {
   const found: Term[] = []
-  for (const standing of everyOfTypeAnswered(root, TERM)) {
+  for (const standing of everyOfType(root, TERM)) {
     const value = valueAt(standing.path, root)
     if (value === null) continue
     const pattern = value["pattern"]
