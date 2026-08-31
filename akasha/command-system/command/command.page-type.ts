@@ -22,6 +22,7 @@ export const command = {
     "command/edit",
     "command/index",
     "command/lint",
+    "command/measure",
     "command/move",
     "command/read",
     "command/remove",
