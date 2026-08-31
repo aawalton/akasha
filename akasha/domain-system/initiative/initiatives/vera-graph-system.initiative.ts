@@ -6,5 +6,4 @@ export const veraGraphSystem = {
   slug: "vera-graph-system",
   domainSlug: "workspace-package/graph-system",
   personaSlug: "vera",
-  intents: [{ statement: "No answer rests on a question the pages must be walked to settle." }],
 } as const satisfies Initiative

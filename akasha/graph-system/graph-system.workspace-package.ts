@@ -31,19 +31,19 @@ export const graphSystem = {
         "What an answer rests on is worked out from the code that computes it rather than recorded as it runs.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "What the graph derives is a cache and never an index.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "Throwing away what the graph derives costs only speed.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A kept answer learns it is stale by being asked rather than by being told.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "An answer is keyed by what it rests on and marked by the code that made it.",
     },
     {
