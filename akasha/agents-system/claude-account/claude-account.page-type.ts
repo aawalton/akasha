@@ -9,13 +9,13 @@ import type { Scopes } from "./properties/scopes.text-property.ts"
 import type { SubscriptionType } from "./properties/subscription-type.text-property.ts"
 
 export type ClaudeAccount = Page & {
-  accountUuid: AccountUuid
+  accountUuid?: AccountUuid
   email: Email
   aliasIndex: AliasIndex
-  subscriptionType: SubscriptionType
-  rateLimitTier: RateLimitTier
-  renewalDay: RenewalDay
-  scopes: Scopes
+  subscriptionType?: SubscriptionType
+  rateLimitTier?: RateLimitTier
+  renewalDay?: RenewalDay
+  scopes?: Scopes
 }
 
 export const claudeAccount = {
@@ -50,13 +50,13 @@ export const claudeAccount = {
     "text-property/subscription-type",
   ],
   properties: [
-    { pagePropertySlug: "account-uuid", required: true, many: false },
+    { pagePropertySlug: "account-uuid", required: false, many: false },
     { pagePropertySlug: "email", required: true, many: false },
     { pagePropertySlug: "alias-index", required: true, many: false },
-    { pagePropertySlug: "subscription-type", required: true, many: false },
-    { pagePropertySlug: "rate-limit-tier", required: true, many: false },
-    { pagePropertySlug: "renewal-day", required: true, many: false },
-    { pagePropertySlug: "scopes", required: true, many: true, max: null },
+    { pagePropertySlug: "subscription-type", required: false, many: false },
+    { pagePropertySlug: "rate-limit-tier", required: false, many: false },
+    { pagePropertySlug: "renewal-day", required: false, many: false },
+    { pagePropertySlug: "scopes", required: false, many: true, max: null },
     { pagePropertySlug: "access-token", required: true, many: false, secret: true },
     { pagePropertySlug: "refresh-token", required: true, many: false, secret: true },
     {
@@ -105,7 +105,13 @@ export const claudeAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "What an account states is settled when the account is made.",
+      statement:
+        "An account is made stating the address it signs in as and the alias it answers to.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The rest of what it states is answered by the upstream probe at its first sign-in.",
     },
     {
       invariantKind: "departure",
