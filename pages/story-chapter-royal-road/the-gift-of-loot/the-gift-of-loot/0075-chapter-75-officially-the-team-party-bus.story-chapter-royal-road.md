@@ -1,0 +1,235 @@
+---
+id: f3918f1d-0e37-5e06-a064-da2dbe2b29ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Officially The Team Party Bus"
+slug: 0075-chapter-75-officially-the-team-party-bus
+partOf: the-gift-of-loot
+position: 75
+ownLength: 2970
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3891397/chapter-75-officially-the-team-party-bus"
+royalRoadId: "3891397"
+---
+
+Thomas and Zach checked the exit room and found a nice reward: a necklace with a fiery pendant attached.
+
+The System tagged it as: Flames of Youth.
+
+"It's a little pretty for me," Thomas said dryly, holding it up by a delicate golden chain.
+
+"Never say never, dude. It could work on a different chain."
+
+Thomas highly doubted it. Normally, he'd consider holding it for Jo, but he never actually saw her wear any jewelry. It just wasn't practical for dungeon diving. With a sigh, he dropped it in his bag to be assessed and sold later. Then he glanced at Zach. "How are you doing on teleportation mana?"
+
+He considered for a moment. "I can handle Jo's house at this point, and if I don't push it, I'll have more in the morning."
+
+Thomas very much doubted Jo was still there, but that was a good place to start. At the very least, they needed to check on her kid, assuming she hadn't been taken too. Still, knowing how Zach liked to push himself, he asked, "Are you sure?"
+
+"Always." His quick grin faded a moment later as he became a little disconcerted. "Actually, I want to see about something with my Teleportation mana, but it has to be out of this dungeon."
+
+Mysterious, but Thomas wasn't going to argue.
+
+They walked back out of the exit room and Thomas called to the kids. "All right, bunch up together. We're getting out of here, but if there's any problem, I want you to go back through and stay in the entrance room until we get you again, okay? Don't enter the dungeon alone. As soon as we exit, a new instance starts, and it won't be cleared of monsters."
+
+He waited until he got their agreement, made sure no one was leaving anything behind (Braxton was holding the napping murderous unicorn), and they all walked out.
+
+The forest outside the dungeon was dark and quiet. Further on, Thomas heard the sound of lake waves lapping against the shoreline. All seemed peaceful.
+
+Of course, he didn't trust that and swept the area with his Health Sight. There was nothing living around except for a few chipmunks—the regular kind, not the firebreathing monster variety.
+
+"Ashton, show Zach your phone."
+
+"Oh man," Ashton muttered but reluctantly unlocked it.
+
+Zach was instantly all business. "Okay, walk me through this. Bring up the snaps from Mariah. Anything in her house or outside of it?"
+
+Ashton was clearly anxious and somewhat mortified as Zach started scrolling through his phone. "I remember one earlier where she was making fun of her neighbor's decorations. They still had their Christmas lights up."
+
+As they worked, Thomas checked his own phone and found one text from Derek.
+
+Derek: Where are you?
+
+Time to face the music. He stepped a few feet off and called him back, steeling himself for a big blowup. Derek had every right to lay into him for putting his kids in danger, even if it had been completely unintended on Thomas' part.
+
+Derek picked up on the third ring.
+
+"They're with me," Thomas blurted. "They're all safe."
+
+There was a pause before Derek spoke. "Were any hurt?"
+
+"No, they're fine. Braxton had a—" He stopped himself. "It's handled."
+
+There was silence on the other end, and Thomas frowned. "Derek? You okay?"
+
+"The cops blocked off the entire apartment complex, so I went and got a hotel room. You can do babysitting tonight since you've already got them."
+
+What? This was not remotely the conversation he was prepared for. Thomas briefly pulled the phone away from his ear to stare at the screen, wondering if this was some sort of a weird joke. In actuality, after all the yelling was done, he had been gearing up to ask Derek to play backup. If he was really diving, he might be the muscle they badly needed. Yes, his brother could be a grade-A asshole, but some small, hopeful part of him had been picturing them working together. Maybe it would help close some of the distance that had opened between them.
+
+Now, though, he was acting strange.
+
+"Derek," he said slowly. "It's not babysitting—"
+
+"If the cops destroyed your place, whatever," Derek continued. "It's not like it's my security deposit on the line."
+
+What the actual fuck. He was too freaked out to feel outraged.
+
+"Derek—"
+
+"Tell the boys I love them," Derek said, cool as anything, then hung up.
+
+Thomas stood there for a few moments after the line went quiet. Something was seriously wrong with his brother.
+
+Could he be under duress? No, there would have been hints or attempts to keep Thomas on the line for tracking reasons like he had seen in movies. This was pure Derek, just... acting very, very oddly.
+
+Unwillingly, his mind went to Tiffany, Derek's estranged wife. Before she took off, she had also been acting really weird, to put it mildly. That had been a whole different situation, though. Derek didn't sound spun out like she had towards the end before she decided to commit to the full-blown addict lifestyle.
+
+Had he gone down that route, though? No, he wasn't the type. Plus Derek had sounded clear, just remote and completely uninterested, as if Thomas had bothered him while he was in the middle of watching his favorite sports team make the last play.
+
+It occurred to him that even though his nephews had been scared and put in strange circumstances today, not one of them had asked for their father.
+
+Okay, he would deal with this. Just... not now.
+
+Lowering his phone, Thomas turned back to see what progress, if any, had been made on the Snapchat front.
+
+Zach seemed to be watching him and, seeing he was done, returned Ashton's phone and came over.
+
+"Hey, can we talk for a second?" he asked in a low tone.
+
+Uh-oh.
+
+Thomas nodded once, and Zach led him a little distance away where they could still see the kids but not be easily overheard.
+
+"What did you find on Ashton's phone?" Thomas asked. The kid was fourteen and had access to the internet. He could only imagine what was on there... though he'd really rather not.
+
+"Huh? No, I got a good enough look at the front of the house from one of Mariah's stories," Zach said absently, like that was supposed to make any sense to Thomas. "But it may not matter because, uh..." He shifted his weight back and forth and scratched the side of his jaw, looking intensely uncomfortable. "I can feel where Jo is. She's alive."
+
+"Oh thank god." Thomas sagged for a moment, then blinked as the weirdness of that registered. "I'm sorry, you can feel what now?"
+
+"I mean, she has to be alive, right?" Zach said, critically not answering his question. "Because mana dissipates after death, and I can definitely feel her mana fingerprint. It's way, way far off. I'm thinking hundreds of miles to the south, but this is a new thing for me and I wasn't sure at first but... I can feel you too." He shrugged and looked away.
+
+"I'm sorry, you can what?" Thomas said again, flatly.
+
+He shrugged again, though it was clear he was incredibly uncomfortable. "New Ability, I think. I didn't notice it in the dungeon because they're closed pocket universes, I can't teleport out, and you weren't out of sight. But yeah, now I'm out and paying attention, I can tell. Hers is a little weaker, so I'm thinking it's people I've teleported and it fades with time."
+
+Thomas got it now. Zach also used Adaptation mana in his core. He had just also gone through a crisis where he had forced himself to teleport to Thomas for help, even though the ambushers had done everything they could to put him down. That crazy act had created a new Ability around sensing people he could teleport to.
+
+He had felt something snap in his core right before Zach had practically landed on him, hadn't he? Maybe it had been that Ability snapping into place.
+
+Well, whatever. Magic AirTag tracker was much more immediately useful than Thomas' new Ability, which was to make someone throw up their everything. So why was Zach being so weird? Thomas had an inkling and decided to test it.
+
+"I'm sure she'll forgive your new stalker sense if it brings her home," he said, and watched Zach wince. There it was. The guy valued his freedom and didn't want to impose constraints on others. Thomas sighed. "Zach, it doesn't bother me. We're being hunted by alien elves, probably, and as a healer, I'm extra tasty to witches. So I'm glad you can be my Liam Neeson if I'm taken."
+
+And he was really, really thankful they had confirmation Jo was alive, even if she had been moved to a secondary location.
+
+Zach nodded. "One other thing, but we'll have to test it to make sure. When I brought you here from the apartment, it cost, like, no teleportation mana other than what I'd usually use to jump. You were free."
+
+"Huh. That's weird..." Thomas trailed off, then felt his eyes go wide.
+
+Zach continued. "I was still kinda out of it and thought I wasn't tracking right..." He must have seen Thomas's expression. "Uh, you okay, dude?"
+
+He gripped Zach's arm. "You're serious? Teleporting me was basically free?" He waited for Zach to nod before he smiled. "I was carrying my backpack of holding with all my loot drops in it."
+
+"Hey, yeah..." He tilted his head. "That should have weighed a ton, mana-wise. If I was thinking straight, I would have told you to leave it behind."
+
+"But it was free." In any other circumstance, Thomas would have cackled. "You think it extends to other passengers, too?"
+
+"I was really focused on getting to you when I created the Ability, so no. I think it's, um, a you thing."
+
+"Shame." He ditched burgeoning plans to hide loot among the team. "After we bring Jo home..." With those words, reality sank back in, and his joy died.
+
+Zach nodded, mouth pulling to one side. He got it. "Get her home and cheese the hell out of this new Ability."
+
+"I'm upgrading my bag," Thomas announced, then turned and walked back to the kids. He called back over his shoulder to Zach, "It's going to hold everything. Anyway, let's check on Jo's house. There might be a clue of where they took her." The government wouldn't leave a ransom note, but maybe elves were the type.
+
+Ashton broke in. "Wait, you guys are seeing if Mariah's okay, too, right?"
+
+"Yes, of course," Thomas said.
+
+"Well, she's not going to want to go anywhere with two random strangers." Ashton paused. "She knows me, though. Sort of."
+
+That made sense, but Thomas wasn't the one doing the magical heavy lifting. He looked questioningly at Zach.
+
+Zach nodded. "He doesn't have a Gift, so that makes him a lightweight."
+
+"Hey," Ashton protested.
+
+Hearing this, Kingston straightened. "Does that mean I'm in charge while you're all gone?"
+
+"Problem Child is in charge," Thomas said. "You'll be second-in-command for like the ten minutes we'll be gone. Do not go into the dungeon. It won't be safe until we can clear it out again."
+
+Braxton, proving he was fully healed body and mind, pouted at being the youngest and therefore the last to be in charge.
+
+The toy unicorn jumped out of his arms and pranced around in a circle as if it understood Thomas and had accepted the mission.
+
+Zach placed one hand on Thomas's shoulder, the other on Ashton's. The next thing Thomas knew, he was standing on a quiet, suburban street. He knew this one: It was full of rental duplexes, all lined up neat and close. It was the sleepy type of place where everyone went inside the moment the sky turned to dusk. No one was out, and a swift scan from his Health Sight showed only a couple of raccoons nearby, as well as the lifesign of a girl sitting in a familiar parked pickup truck in front of one duplex.
+
+"There she is," Ashton said at the same moment. He didn't wait for permission and crossed the street at a jog.
+
+Thomas let him, because he had a point. No sane teenage girl was going to roll her window down for two strange men who radiated "Come with us if you want to live" energy. Ashton would be a familiar face from school.
+
+He was just relieved beyond words that he didn't sense any injuries on her, either.
+
+"How's the Teleportation mana situation?" he asked Zach as he watched Ashton coax her out of the truck.
+
+"Yeah, yeah, you're a free ride," Zach confirmed, amused. "It's official: I have a new Ability."
+
+"Congrats. I'm calling you Team Party Bus from now on."
+
+Zach chuckled softly. He seemed to be slowly getting over his unease regarding his semi-stalkery new power. "I'm the bus, and you bring the party?"
+
+"If by party you mean a metric ass-ton of mana crystals and items, yes," Thomas agreed. He was absolutely going to get a bag that fit everyone else's bags inside. This was going to be great.
+
+The truck door opened and a girl who looked like a miniature version of her mother stepped out, ashy blonde hair and everything.
+
+"This is my Uncle Thomas," Ashton introduced as they approached, "And his friend, Zach."
+
+Thomas crouched a little so he wouldn't loom over the girl. She was Ashton's age, but built slight. "We're your mom's diving team. Can you tell us what happened?"
+
+"I don't... I don't know. I tried calling the cops, but no one came." Mariah's chin trembled. "I don't think the 911 operator believed me."
+
+"We will believe you," Zach said, also in a gentle voice so as not to spook her. "Start from the beginning."
+
+She shook her head then said, "I was helping Mom start dinner when there was a knock at the door. She looked out the window and then just... she just turned and shoved me so I was standing between the fridge and the counter—there's a gap there. She told me not to move or make a sound no matter what. Then she went into the living room and... and there was shouting." She took a shuddering breath. "Men in uniform came in and looked around the kitchen, but I was standing right there and it was like they couldn't see me. A couple of them were white. Not, like, a race." She looked from Thomas to Zach and back again. "Like actual white-white. They were in full-covered uniforms like SWAT teams, but their arms were too long, and I saw their skin between their gloves and their sleeves. I don't think they were human." The last sentence came out in a high-pitched rush. She looked to be on the verge of completely breaking down into tears.
+
+Meanwhile, Thomas felt cold. Jo had hidden her child using her Gift, and Mariah was describing Light Elves. They had chalk-white skin, and elves in general were differently proportioned than humans, with longer arms. Clothing wouldn't fit great if they were wearing human uniforms.
+
+"They weren't human," he said softly.
+
+"Okay, but what's going on?" she demanded. "I heard more yelling—like a guy? Then they all left, and Mom wasn't anywhere. The living room was clean, too. Like, cleaner than we had it before. It's like nothing's happened except she's gone."
+
+No wonder she had been hanging out in the truck outside. That was spooky.
+
+Thomas had an explanation for that. "There are magic skills which can clean. They may have wanted to cover their tracks." Also erase some of Zach's blood because, no doubt, he had been part of some of the yelling.
+
+"We're tracking down your mom, Mariah," Zach said. "I got one of those System skills, and I can tell you for certain she's alive. We're figuring out the rest."
+
+She nodded, reaching up to palm away some tears. Ashton looked like he wanted to comfort her but hung back awkwardly, unsure how.
+
+"In the meantime," Thomas said, "Let's get you somewhere safe. You can't stay out in your truck all night. How about we get you to your grandmother's place?"
+
+Mariah just shook her head fast. "No, she's on the other side of town and... no, I won't go there."
+
+Something was definitely being left unsaid. Thomas was trying to figure out how much to push when Ashton spoke up.
+
+"You can stay with us. We're camping."
+
+"Ashton, we're not camping—" Thomas started.
+
+"It's in a dungeon," Ashton continued, warming up his pitch. "Zach can teleport, and if anything goes wrong, my uncle can heal. He fixed my little brother up just like that. You're part of the school's dungeon diving club, right?"
+
+Dungeon Diving Club? Thomas felt the situation rapidly slipping away from him.
+
+Mariah looked at the men, wary. "Mom's mentioned you two." She focused on Thomas. "You're the one who gave her the great makeover, right?"
+
+Zach barked out a true laugh.
+
+Ashton's head snapped to Thomas. "What? You're not dating Mariah's mom, are you?" He seemed both impressed and offended, like he'd called dibs on the family first, and now Thomas was making it weird for him.
+
+"She's my teammate," Thomas said, flustered. "And it wasn't a makeover. She got poisoned, but--but she's fine! I pulled out the toxins, that's all."
+
+Then he caught Mariah's smug expression and realized a second too late he'd just been outsmarted by a teenager.
+
+"That's what she told me," Mariah said. "I guess you are who you say you are. So, you're going to take me into a dungeon?"
+
+Jo was going to murder him.
