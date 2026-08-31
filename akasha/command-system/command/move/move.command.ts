@@ -170,6 +170,14 @@ export const move = {
     },
     {
       invariantKind: "gap",
+      statement: "A path a body builds in a template is repointed as one written whole is.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A string reading as a moved path is repointed only where it names one.",
+    },
+    {
+      invariantKind: "gap",
       statement: "A file arrives at its new path reaching everything it reached before.",
     },
     {
