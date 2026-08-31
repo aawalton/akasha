@@ -2,9 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
+import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   identitiesTakenFrom,
   idTakenFrom,
+  indexTakenFrom,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
@@ -27,8 +29,6 @@ import {
   THROWS,
   TWO_CHECKS,
 } from "./checking.module.test-fixtures.ts"
-
-const PAGE = "page"
 
 afterAll(scratch.sweep)
 
@@ -132,10 +132,10 @@ test("an index holding no check directory names no check, and refuses what it wo
   expect(() => checksIn(root)).toThrow("the index names no check")
 })
 
-test("an index holding no id directory cannot say which pages are checks, and is not read as naming none", () => {
+test("an index standing nowhere cannot say which pages are checks, and is not read as naming none", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  identitiesTakenFrom(root, PAGE)
-  expect(() => checkPagesIn(root)).toThrow("identity/page/id")
+  indexTakenFrom(root)
+  expect(() => checkPagesIn(root)).toThrow(indexNamed())
   expect(() => checksIn(root)).toThrow("is not an index naming none")
 })
 
