@@ -5,6 +5,7 @@ import {
   addressingIn,
   besideRenamed,
   readdressed,
+  rebound,
   renamingFor,
   respelled,
   restated,
@@ -62,6 +63,24 @@ test("a page states its slug once, and the value it is bound to is named for it"
   expect(now).toContain('slug: "held-again"')
   expect(now).toContain(`id: "${AAAA}"`)
   expect(restated(AT, "export const it = 1\n", "other")).toBeNull()
+})
+
+test("a value named for the old slug beside a renamed page is renamed too", () => {
+  const code = "export const held = 1\nexport const heldTwice = held + held\n"
+  expect(rebound(AT, code, "held", "renamed")).toBe(
+    "export const renamed = 1\nexport const heldTwice = renamed + renamed\n"
+  )
+  const imported = 'import { held } from "./held.thing.code.ts"\nexport const it = held\n'
+  expect(rebound(AT, imported, "held", "renamed")).toContain("import { renamed } from")
+})
+
+test("a rename reaches an identifier and never a string that reads like one", () => {
+  const code = 'export const held = "held"\n'
+  expect(rebound(AT, code, "held", "renamed")).toBe('export const renamed = "held"\n')
+  expect(rebound(AT, code, "held", "held")).toBe(code)
+  expect(rebound(AT, "export const other = 1\n", "held", "renamed")).toBe(
+    "export const other = 1\n"
+  )
 })
 
 test("an address is rewritten in the form it was written in", () => {

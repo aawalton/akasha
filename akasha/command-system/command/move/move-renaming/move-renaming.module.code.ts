@@ -107,6 +107,22 @@ export function restated(path: string, text: string, now: string): string | null
   ])
 }
 
+export function rebound(path: string, text: string, was: string, now: string): string {
+  const from = exportedAs(was)
+  const to = exportedAs(now)
+  if (from === to) return text
+  const source = parsedAs(path, text)
+  const said: (readonly [Spot, string])[] = []
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isIdentifier(node) && node.text === from) {
+      said.push([{ start: node.getStart(source), end: node.getEnd() }, to])
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(source, walk)
+  return splicedIn(text, said)
+}
+
 export function addressingIn(value: Value, known: Shaped, id: string): readonly string[] {
   const found = new Set<string>()
   const take = (propertySlug: string, held: unknown): undefined => {

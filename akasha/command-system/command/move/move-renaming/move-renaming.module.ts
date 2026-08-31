@@ -22,6 +22,18 @@ export const moveRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A value named for the old slug in a file beside a renamed page is renamed too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A runner taking the export a page's slug names finds it under the new name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a body spells as text rather than as an identifier is left as it stands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type's slug is not renamed here.",
     },
     {
