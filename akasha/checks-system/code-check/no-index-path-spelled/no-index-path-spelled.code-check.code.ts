@@ -3,7 +3,11 @@ import {
   spelledIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
+import {
+  judgingEach,
+  overEachText,
+  TEXTS,
+} from "../../change-walking/change-walking.module.code.ts"
 
 const INDEXES = "akasha/pages-system/indexes/"
 
@@ -50,4 +54,4 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(found)
 
-export const noIndexPathSpelled = judgingEachFile(reasonsIn)
+export const noIndexPathSpelled = judgingEach(TEXTS, (given) => found(given.path, given.text))

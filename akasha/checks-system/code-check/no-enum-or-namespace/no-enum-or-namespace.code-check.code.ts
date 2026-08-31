@@ -1,6 +1,10 @@
 import ts from "typescript"
 import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
+import {
+  judgingEach,
+  overEachText,
+  TEXTS,
+} from "../../change-walking/change-walking.module.code.ts"
 
 const AUGMENTED = "global"
 
@@ -26,4 +30,4 @@ function foundIn(at: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(foundIn)
 
-export const noEnumOrNamespace = judgingEachFile(reasonsIn)
+export const noEnumOrNamespace = judgingEach(TEXTS, (given) => foundIn(given.path, given.text))

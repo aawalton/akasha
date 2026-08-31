@@ -1,6 +1,10 @@
 import ts from "typescript"
 import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
+import {
+  judgingEach,
+  overEachText,
+  TEXTS,
+} from "../../change-walking/change-walking.module.code.ts"
 
 const ID = "id"
 
@@ -89,4 +93,4 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(found)
 
-export const idIsAUuidVersion7 = judgingEachFile(reasonsIn)
+export const idIsAUuidVersion7 = judgingEach(TEXTS, (given) => found(given.path, given.text))

@@ -2,7 +2,11 @@ import {
   landingOf,
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
+import {
+  judgingEach,
+  overEachText,
+  TEXTS,
+} from "../../change-walking/change-walking.module.code.ts"
 
 const TS = ".ts"
 
@@ -18,4 +22,4 @@ function found(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(found)
 
-export const requireImportExtension = judgingEachFile(reasonsIn)
+export const requireImportExtension = judgingEach(TEXTS, (given) => found(given.path, given.text))

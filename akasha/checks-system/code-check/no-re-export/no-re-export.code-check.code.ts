@@ -1,6 +1,10 @@
 import ts from "typescript"
 import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
+import {
+  judgingEach,
+  overEachText,
+  TEXTS,
+} from "../../change-walking/change-walking.module.code.ts"
 
 const INSIDE = "akasha/"
 
@@ -79,4 +83,4 @@ function refusalsIn(path: string, text: string): readonly string[] {
 
 export const reasonsIn = overEachText(refusalsIn)
 
-export const noReExport = judgingEachFile(reasonsIn)
+export const noReExport = judgingEach(TEXTS, (given) => refusalsIn(given.path, given.text))

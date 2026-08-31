@@ -1,5 +1,5 @@
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { judgingEachFile } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
 
@@ -11,4 +11,4 @@ export function reasonsIn(given: Body): readonly string[] {
   return [`${held.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} byte ceiling`]
 }
 
-export const fileLength = judgingEachFile(reasonsIn)
+export const fileLength = judgingEach(FILES, reasonsIn)

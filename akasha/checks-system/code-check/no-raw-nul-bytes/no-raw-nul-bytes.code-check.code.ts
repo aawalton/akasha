@@ -1,5 +1,5 @@
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { judgingEachFile } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, judgingEach } from "../../change-walking/change-walking.module.code.ts"
 
 const NUL = 0
 
@@ -41,4 +41,4 @@ export function reasonsIn(given: Body): readonly string[] {
   return reasonFor(sitesIn(given.bytes))
 }
 
-export const noRawNulBytes = judgingEachFile(reasonsIn)
+export const noRawNulBytes = judgingEach(FILES, reasonsIn)
