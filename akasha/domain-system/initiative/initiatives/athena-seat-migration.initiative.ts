@@ -10,10 +10,6 @@ export const athenaSeatMigration = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Every writer of what is observed of a seat writes it to both systems.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Every reader of a seat reads it from akasha.",
     },
     {
