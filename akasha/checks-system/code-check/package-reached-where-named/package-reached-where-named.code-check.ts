@@ -74,6 +74,18 @@ export const packageReachedWhereNamed = {
       statement: "A specifier naming no path is the way in the manifest names.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page is reached from anywhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a package keeps to itself is the code its pages hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing is a page where the index files it under its own path.",
+    },
+    {
       invariantKind: "absence",
       statement: "A tree naming no package is judged clean.",
     },

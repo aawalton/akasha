@@ -13,7 +13,6 @@
     "./stamp": "./index-stamp/index-stamp.module.code.ts",
     "./generated-properties": "./generated-properties/generated-properties.module.code.ts",
     "./import": "./index/index-import/index-import.index.code.ts",
-    "./import/page": "./index/index-import/index-import.index.ts",
     "./identity": "./index/index-identity/index-identity.index.code.ts",
     "./relation": "./index/index-relation/index-relation.index.code.ts",
     "./rebuilding": "./rebuilding/rebuilding.module.code.ts"

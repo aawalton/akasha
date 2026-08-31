@@ -9,6 +9,8 @@ const SHAPE = `${FOLDER}/index-shape/index-shape.module.code.ts`
 
 const SURFACE = `${FOLDER}/index-surface/index-surface.module.code.ts`
 
+const PAGE = `${FOLDER}/index/index-import/index-import.index.ts`
+
 const OUTSIDE = "akasha/pages-system/shadow/shadow.module.test.ts"
 
 const INSIDE = `${FOLDER}/indexing/indexing.module.code.ts`
@@ -17,6 +19,8 @@ const AT_READING = "../indexes/index-reading/index-reading.module.code.ts"
 
 const AT_SURFACE = "../indexes/index-surface/index-surface.module.code.ts"
 
+const AT_PAGE = "../indexes/index/index-import/index-import.index.ts"
+
 const MANIFEST = JSON.stringify({
   name: "@akasha/indexes",
   exports: {
@@ -24,6 +28,14 @@ const MANIFEST = JSON.stringify({
     "./shape": "./index-shape/index-shape.module.code.ts",
   },
 })
+
+function nothingIsAPage(): boolean {
+  return false
+}
+
+function onlyThePage(at: string): boolean {
+  return at === PAGE
+}
 
 function declaring(text: string): readonly Package[] {
   const said = namingIn(FOLDER, text)
@@ -37,11 +49,18 @@ test("each target a manifest names is resolved against the package's folder", ()
 })
 
 test("a reach at a path the manifest names is let through", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`)).toEqual([])
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)
+  ).toEqual([])
 })
 
 test("a reach at a path the manifest does not name is refused, naming where it landed", () => {
-  const said = reasonsIn(NAMED, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`)
+  const said = reasonsIn(
+    NAMED,
+    OUTSIDE,
+    `import { beneath } from "${AT_SURFACE}"\n`,
+    nothingIsAPage
+  )
   expect(said).toHaveLength(1)
   expect(said[0]).toContain(`\`${AT_SURFACE}\``)
   expect(said[0]).toContain(SURFACE)
@@ -51,23 +70,44 @@ test("a reach at a path the manifest does not name is refused, naming where it l
 
 test("a file inside the package reaches a module its manifest does not name", () => {
   const body = 'import { beneath } from "../index-surface/index-surface.module.code.ts"\n'
-  expect(reasonsIn(NAMED, INSIDE, body)).toEqual([])
+  expect(reasonsIn(NAMED, INSIDE, body, nothingIsAPage)).toEqual([])
 })
 
 test("an export from an unnamed path is refused as an import is", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, `export { beneath } from "${AT_SURFACE}"\n`)).toHaveLength(1)
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `export { beneath } from "${AT_SURFACE}"\n`, nothingIsAPage)
+  ).toHaveLength(1)
 })
 
 test("a dynamic import at an unnamed path is refused", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, `const held = import("${AT_SURFACE}")\n`)).toHaveLength(1)
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `const held = import("${AT_SURFACE}")\n`, nothingIsAPage)
+  ).toHaveLength(1)
 })
 
 test("a require of an unnamed path is refused", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, `const held = require("${AT_SURFACE}")\n`)).toHaveLength(1)
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `const held = require("${AT_SURFACE}")\n`, nothingIsAPage)
+  ).toHaveLength(1)
 })
 
 test("a type-only import of an unnamed path is refused", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, `import type { Held } from "${AT_SURFACE}"\n`)).toHaveLength(1)
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `import type { Held } from "${AT_SURFACE}"\n`, nothingIsAPage)
+  ).toHaveLength(1)
+})
+
+test("a reach at a page the manifest does not name is let through", () => {
+  expect(
+    reasonsIn(NAMED, OUTSIDE, `import { indexImport } from "${AT_PAGE}"\n`, onlyThePage)
+  ).toEqual([])
+})
+
+test("a reach at a code file the manifest does not name is refused while a page is not", () => {
+  const body = `import { beneath } from "${AT_SURFACE}"\nimport { indexImport } from "${AT_PAGE}"\n`
+  const said = reasonsIn(NAMED, OUTSIDE, body, onlyThePage)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(SURFACE)
 })
 
 test("a manifest naming no exports declares no interface", () => {
@@ -76,7 +116,9 @@ test("a manifest naming no exports declares no interface", () => {
 
 test("a package declaring no interface is not enforced", () => {
   const held = declaring(JSON.stringify({ name: "@akasha/indexes" }))
-  expect(reasonsIn(held, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`)).toEqual([])
+  expect(
+    reasonsIn(held, OUTSIDE, `import { beneath } from "${AT_SURFACE}"\n`, nothingIsAPage)
+  ).toEqual([])
 })
 
 test("a manifest that will not parse leaves its package declaring nothing", () => {
@@ -85,7 +127,9 @@ test("a manifest that will not parse leaves its package declaring nothing", () =
 
 test("a manifest stating an empty exports map names no way in", () => {
   const held = declaring(JSON.stringify({ name: "@akasha/indexes", exports: {} }))
-  expect(reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`)).toHaveLength(1)
+  expect(
+    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)
+  ).toHaveLength(1)
 })
 
 test("a target that is not a string names no way in", () => {
@@ -95,16 +139,18 @@ test("a target that is not a string names no way in", () => {
 
 test("a package whose manifest calls it nothing is named by its folder", () => {
   const held = declaring(JSON.stringify({ exports: {} }))
-  expect(reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`)[0]).toContain(
-    `\`${FOLDER}\``
-  )
+  expect(
+    reasonsIn(held, OUTSIDE, `import { readingIn } from "${AT_READING}"\n`, nothingIsAPage)[0]
+  ).toContain(`\`${FOLDER}\``)
 })
 
 test("a file reaching into no package at all is untouched", () => {
   const body = 'import { held } from "../../code-system/held/held.module.code.ts"\n'
-  expect(reasonsIn(NAMED, OUTSIDE, body)).toEqual([])
+  expect(reasonsIn(NAMED, OUTSIDE, body, nothingIsAPage)).toEqual([])
 })
 
 test("a specifier naming the package rather than a path is the way in", () => {
-  expect(reasonsIn(NAMED, OUTSIDE, 'import { readingIn } from "@akasha/indexes"\n')).toEqual([])
+  expect(
+    reasonsIn(NAMED, OUTSIDE, 'import { readingIn } from "@akasha/indexes"\n', nothingIsAPage)
+  ).toEqual([])
 })

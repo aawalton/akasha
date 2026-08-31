@@ -5,7 +5,10 @@ import {
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  standingByPath,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   bodyOf,
@@ -83,15 +86,21 @@ function within(folder: string, path: string): boolean {
   return path.startsWith(`${folder}/`)
 }
 
+export function pageIn(shadow: Shadow): (at: string) => boolean {
+  return (at) => standingByPath(shadow.reading, at).some((one) => one.path === at)
+}
+
 export function reasonsIn(
   packages: readonly Package[],
   path: string,
-  text: string
+  text: string,
+  page: (at: string) => boolean
 ): readonly string[] {
   const said: string[] = []
   for (const one of specifiersIn(path, text)) {
     const landed = landingOf(path, one)
     if (landed === null) continue
+    if (page(landed)) continue
     for (const held of packages) {
       if (!within(held.folder, landed)) continue
       if (within(held.folder, path)) continue
@@ -108,8 +117,9 @@ export function reasonsIn(
 export function packageReachedWhereNamed(change: Change, shadow: Shadow): readonly Judged[] {
   const packages = packagesIn(change, shadow)
   if (packages.length === 0) return []
+  const page = pageIn(shadow)
   return overEachFile(
     change,
-    overEachText((path, text) => reasonsIn(packages, path, text))
+    overEachText((path, text) => reasonsIn(packages, path, text, page))
   )
 }
