@@ -32,5 +32,13 @@ export const propertySlug = {
       invariantKind: "departure",
       statement: "Every property states this.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key drops what its declarer's name already says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A qualifier only the slug's wider scope needed is not carried into the key.",
+    },
   ],
 } as const satisfies TextProperty

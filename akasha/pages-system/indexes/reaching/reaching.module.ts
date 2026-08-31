@@ -19,7 +19,11 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A key reaches only a property the page's own type carries.",
+      statement: "A key one property carries reaches it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's own type is asked only where a key is carried by more than one.",
     },
     {
       invariantKind: "departure",
@@ -28,6 +32,10 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement: "One key carried by two properties reaches each under the type carrying it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One a page's type carries neither of reaches nothing.",
     },
     {
       invariantKind: "departure",
