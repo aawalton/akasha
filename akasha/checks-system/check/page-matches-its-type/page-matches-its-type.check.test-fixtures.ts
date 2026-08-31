@@ -79,6 +79,7 @@ const SHAPES: readonly Value[] = [
     extendsSlug: "page-type/page",
     properties: [
       { pagePropertySlug: "extends-slug", required: false, many: false },
+      { pagePropertySlug: "page-type-slug", required: false, many: false },
       { pagePropertySlug: "properties", required: false, many: true, max: null },
     ],
   },
@@ -367,7 +368,21 @@ export const NOW_BETA = typing(
 
 export const NOW_ALPHA = typing(THING_ID, "alpha", '"page-type/beta"', BOTH)
 
+const PAGE_TYPE_ID = "01a0540d-0000-7000-8000-000000000020"
+
+const ROOT_ID = "01a0540d-0000-7000-8000-000000000021"
+
+function grounding(root: string): undefined {
+  const pageAt = "akasha/page.page-type.ts"
+  put(root, pageAt, typing(ROOT_ID, "page", "null", '{ pagePropertySlug: "slug" }'))
+  standingFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
+  const typeAt = "akasha/page-type.page-type.ts"
+  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '"page-type/page"', ""))
+  standingFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
+}
+
 export function extending(root: string): string {
+  grounding(root)
   put(root, ALPHA_AT, WAS_ALPHA)
   schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "relation-property", "page-type-slug")
