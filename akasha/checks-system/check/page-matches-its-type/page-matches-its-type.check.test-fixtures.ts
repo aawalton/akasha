@@ -377,8 +377,14 @@ function grounding(root: string): undefined {
   put(root, pageAt, typing(ROOT_ID, "page", "null", '{ pagePropertySlug: "slug" }'))
   standingFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
-  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '"page-type/page"', ""))
+  const declares =
+    '{ pagePropertySlug: "extends-slug" }, { pagePropertySlug: "page-type-slug" }' +
+    ', { pagePropertySlug: "properties" }'
+  put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '"page-type/page"', declares))
   standingFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
+  schemaFiledFor(root, "relation-property", "extends-slug")
+  schemaFiledFor(root, "relation-property", "page-type-slug")
+  schemaFiledFor(root, "record-property", "properties")
 }
 
 export function extending(root: string): string {
