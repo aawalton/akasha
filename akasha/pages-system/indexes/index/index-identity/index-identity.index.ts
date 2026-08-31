@@ -52,10 +52,6 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "No two pages carry one id.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No two pages of one page type carry one slug.",
     },
     {
