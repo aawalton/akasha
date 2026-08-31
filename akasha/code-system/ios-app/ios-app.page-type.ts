@@ -37,6 +37,7 @@ export const iosApp = {
     "module/app-building",
     "named-file-property/git-ignore",
     "relation-property/build-script",
+    "shell-script/build-sim",
     "shell-script/build-stamp",
     "shell-script/monarch-url",
     "shell-script/stage-web-entry",
