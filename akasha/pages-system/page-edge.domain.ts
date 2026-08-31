@@ -20,7 +20,7 @@ export const pageEdge = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug edge is checked for its shape and never for what it names.",
+      statement: "A slug edge is checked for its shape and for the page it names.",
     },
     {
       invariantKind: "departure",
