@@ -10,10 +10,6 @@ export const exhaustiveDispatch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A switch naming no default is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A default is right where it throws or returns or calls `assertNever`.",
     },
     {

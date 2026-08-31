@@ -11,10 +11,6 @@ export const noLibcByName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A core system library opened by its own name is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The name one system carries is not the name another carries.",
     },
     {
