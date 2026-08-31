@@ -5,6 +5,9 @@ export const claim = {
   pageTypeSlug: "taboo-term",
   slug: "claim",
   tabooSenses: [
-    { sense: "a schema or a document taking a path", instead: "what it is required reading for" },
+    {
+      sense: "a page type or a document taking a path",
+      instead: "what it is required reading for",
+    },
   ],
 } as const satisfies TabooTerm
