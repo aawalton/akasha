@@ -28,9 +28,5 @@ export const assignmentSlug = {
       statement:
         "Five of the domains the seats standing today name have not moved into the new system.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "A second property page cannot yet carry the slug `domain-slug`.",
-    },
   ],
 } as const satisfies TextProperty
