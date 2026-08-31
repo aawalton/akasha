@@ -9,10 +9,6 @@ export const upperCamelCase = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "A name opens with a letter.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A capital opens a word and a word may be one letter.",
     },

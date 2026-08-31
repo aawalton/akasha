@@ -11,10 +11,6 @@ export const lowerCamelCase = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first word opens lower.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Opening lower is what parts this format from upper camel case.",
     },
     {
