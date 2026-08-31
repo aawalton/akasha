@@ -15,10 +15,6 @@ export const seatSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every reader of a seat reads it from akasha.",
-    },
-    {
-      invariantKind: "departure",
       statement: "No writer of a seat writes it outside akasha.",
     },
     {
