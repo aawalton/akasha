@@ -81,7 +81,7 @@ export const agentHook = {
   directives: [
     {
       directiveKind: "rule",
-      name: "Alan Approves",
+      name: "Alan Approves Hooks",
       act: "Add a hook to akasha only where Alan has approved that hook.",
       warrant: "A hook binds every agent at once, and a wrong one costs more than what it guards.",
       aids: [

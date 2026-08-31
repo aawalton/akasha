@@ -150,7 +150,7 @@ export const codeCheck = {
   directives: [
     {
       directiveKind: "rule",
-      name: "Alan Approves",
+      name: "Alan Approves Checks",
       act: "Add a check to akasha only where Alan has approved that check.",
       warrant:
         "A check binds every writer on every change, and a wrong one costs more than what it guards.",

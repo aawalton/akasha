@@ -80,7 +80,7 @@ export const contextWarrant = {
   directives: [
     {
       directiveKind: "rule",
-      name: "Alan Approves",
+      name: "Alan Approves Warrants",
       act: "Add a warrant to akasha only where Alan has approved that warrant.",
       warrant:
         "A warrant binds every writer on every change, and a wrong one stops work it should not.",

@@ -53,7 +53,7 @@ export const graphSystem = {
   directives: [
     {
       directiveKind: "rule",
-      name: "Alan Approves",
+      name: "Alan Approves Kinds",
       act: "Add a node, edge or attribute to the graph only where Alan has approved that kind.",
       warrant:
         "Every reader asks in these terms, so a kind nobody wanted becomes a word the whole system speaks.",

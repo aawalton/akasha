@@ -66,4 +66,19 @@ export const domain = {
       statement: "A domain goes only when it no longer fits the structure.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Alan Approves Directives",
+      act: "Add a directive to a domain only where Alan has approved that directive.",
+      warrant:
+        "A directive binds every reader of a domain, and a wrong one is obeyed until noticed.",
+      aids: [
+        "Approving the initiative is not approving a directive.",
+        "A directive replacing an old one still needs approval.",
+        "Deleting one is changing it.",
+        "A definition or an invariant needs none.",
+      ],
+    },
+  ],
 } as const satisfies PageType
