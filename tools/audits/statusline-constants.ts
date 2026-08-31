@@ -44,11 +44,19 @@ function capture(body: string, pattern: RegExp): string | null {
   return pattern.exec(body)?.[1] ?? null
 }
 
+// THE SLOTS ARE COMPARED AS A SET AND NOT AS A SEQUENCE, so they are sorted before they are
+// joined. The script turns each slot into `<slot>-slug` and asks the reader for it by name, so
+// where a slot stands on the line decides only where it is printed.
+//
+// This compared them in order and refused a line that had been deliberately reordered — the role
+// was put before the assignment so the line settles where it changes least, which is a display
+// choice and no business of the declaration. What must agree is which slots are rendered.
 function slugSlots(body: string): string {
   return body
     .trim()
     .split(/\s+/)
     .filter((word) => word !== "" && !VALUED.has(word))
+    .sort()
     .join(" ")
 }
 
