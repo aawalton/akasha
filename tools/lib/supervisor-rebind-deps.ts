@@ -5,7 +5,16 @@ import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
 import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { launchFrom } from "./seat-flex.ts"
 import { principalOf } from "./seat-principal.ts"
-import { frontmatterOf, seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
+import { akashaSeatIdForName, akashaSeatSlugOf } from "./seat-akasha-beside.ts"
+import { pageValuesOf } from "./seat-page-values.ts"
+import { seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
+
+// A seat's name is its page's stem while that page stands, and the slug its akasha page is named
+// for once it does not. Both spell the same name.
+function nameOf(agentId: string): string | null {
+  const page = seatPageForAgent(agentId)
+  return page === null ? akashaSeatSlugOf(agentId) : pageStemOf(page)
+}
 
 const PAGE_SUFFIX = ".md"
 
@@ -60,19 +69,23 @@ async function readPredecessor(agentId: string): Promise<{
   persona: string | null
   principal: string | null
 } | null> {
-  const page = seatPageForAgent(agentId)
-  if (page === null) return null
-  const frontmatter = frontmatterOf(page)
-  if (frontmatter === null) return null
-  const name = pageStemOf(page)
-  const above = slugAt(frontmatter, PRINCIPAL_KEY)
+  // Through the funnel rather than off the old page. A rebind reads a seat in order to stand a
+  // successor up in its place, so a seat read as stating nothing is a rebind that loses the name,
+  // the role and the persona it was meant to carry over.
+  const stated = pageValuesOf(agentId)
+  if (stated === null) return null
+  const name = nameOf(agentId)
+  if (name === null) return null
+  const above = slugAt(stated, PRINCIPAL_KEY)
   return {
     name,
-    title: slugAt(frontmatter, "title") ?? name,
-    launch: launchFrom(frontmatter),
-    parent: above === null ? null : seatIdForName(above),
-    role: slugAt(frontmatter, "role-slug"),
-    persona: slugAt(frontmatter, "persona-slug"),
+    title: slugAt(stated, "title") ?? name,
+    launch: launchFrom(stated),
+    // The seat above is named rather than identified, and either system can say who holds that
+    // name — the old pages first, as everywhere else.
+    parent: above === null ? null : (seatIdForName(above) ?? akashaSeatIdForName(above)),
+    role: slugAt(stated, "role-slug"),
+    persona: slugAt(stated, "persona-slug"),
     principal: principalOf(agentId)?.value ?? null,
   }
 }
