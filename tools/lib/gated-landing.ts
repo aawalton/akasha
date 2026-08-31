@@ -1,4 +1,4 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { resolveRoots, rootEnvName, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
@@ -78,30 +78,12 @@ function outcomeOf(run: Run): Landed {
   return { ok: false, why: run.output }
 }
 
-export function recordReading(act: GatedAct, relPaths: readonly string[]): string | null {
-  if (relPaths.length === 0) return null
-  const root = rootOf(act)
-  const run = runTool(
-    act,
-    "read.ts",
-    relPaths.flatMap((relPath) => ["--file-path", join(root, relPath)])
-  )
-  return run.code === 0 ? null : `reading what stands was not recorded: ${run.output}`
-}
-
 export function landBodies(
   act: GatedAct,
   bodies: readonly GatedBody[],
   removing: readonly string[] = []
 ): Landed {
   if (bodies.length === 0 && removing.length === 0) return { ok: true, sha: null, unpushed: null }
-  const root = act.root
-  const standing = [...bodies.map((one) => one.relPath), ...removing].filter((relPath) =>
-    root === undefined ? true : existsSync(join(root, relPath))
-  )
-  const unrecorded = recordReading(act, standing)
-  if (unrecorded !== null) return { ok: false, why: unrecorded }
-
   const scratch = mkdtempSync(join(SCRATCH_ROOT, "gated-landing-"))
   try {
     const input = join(scratch, "write.json")

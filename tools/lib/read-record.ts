@@ -1,32 +1,12 @@
-
-import {
-  bodyItself,
-  countLines,
-  type Entry,
-  loadPath,
-  type Reading,
-  type Records,
-  sameBody,
-} from "../../agent/read-record.ts"
-import {
-  carriedReading,
-  type Moved,
-  recordPathFor,
-  recordRead as landRead,
-  recordsFor,
-  resetReadings as resetTo,
-} from "../../agent/record-read.ts"
-import { agentPagePathFor } from "./agent-page.ts"
-import { replacedAt } from "./epoch.ts"
 import { SUBAGENT_MARK } from "./subagent.ts"
 
-export { bodyItself, carriedReading, countLines, loadPath, sameBody }
-export type { Entry, Moved, Reading, Records }
-
-export const DEFAULT_READ_LIMIT = 2000
-
-export const READINGS = "readings"
-
+// WHO IS ACTING, READ OFF THE ENVIRONMENT AND THE HOOK'S PAYLOAD. This module was the way to the
+// read record kept beside a seat's old page, and these four answers rode along in it because every
+// caller of that record needed to name a writer first.
+//
+// The record has gone and they have not. Nothing here opens a file or knows where a reading is
+// kept: an id is what the environment says it is, and a subagent's id is its seat's with its own
+// spelled after it.
 function identifier(value: unknown): string | null {
   return typeof value === "string" && value.trim() !== "" ? value.trim() : null
 }
@@ -51,58 +31,4 @@ export function recordingAgentId(payload: Record<string, unknown>): string | nul
   if (seat === null) return null
   const subagent = identifier(payload.agent_id)
   return subagent === null ? seat : `${seat}${SUBAGENT_MARK}${subagent}`
-}
-
-export function pathFor(agent: string): string | null {
-  const page = agentPagePathFor(agent)
-  return page === null ? null : recordPathFor(page)
-}
-
-export function recordStands(agent: string): boolean {
-  return agentPagePathFor(agent) !== null
-}
-
-export function recordSaid(agent: string): string {
-  return pathFor(agent) ?? "no page carries a read record for this agent"
-}
-
-function held(agent: string): Records {
-  const page = agentPagePathFor(agent)
-  return page === null ? {} : recordsFor(page, replacedAt(agent))
-}
-
-export function recordRead(
-  agent: string,
-  absolutePath: string,
-  seenAt: number,
-  oid: string
-): void {
-  const page = agentPagePathFor(agent)
-  if (page === null) return
-  landRead(page, replacedAt(agent), absolutePath, seenAt, oid)
-}
-
-export function resetReadings(agent: string, cutoff: number): void {
-  const page = agentPagePathFor(agent)
-  if (page === null) return
-  resetTo(page, cutoff)
-}
-
-export function readingsOf(agent: string): Records {
-  return held(agent)
-}
-
-export function ownRead(agent: string, absolutePath: string): Reading | null {
-  const entry = held(agent)[absolutePath]
-  if (entry === undefined) return null
-  return {
-    oid: entry.oid,
-    seenAt: entry.seenAt,
-    mechanicalOid: entry.mechanicalOid ?? null,
-  }
-}
-
-export function readOid(agent: string, absolutePath: string): string | null {
-  const entry = held(agent)[absolutePath]
-  return entry === undefined ? null : entry.oid
 }
