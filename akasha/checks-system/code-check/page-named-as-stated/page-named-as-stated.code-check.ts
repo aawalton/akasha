@@ -48,11 +48,6 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The name is judged against what the page states rather than against what the index records.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The index is asked only which properties are held in a file.",
     },
     {
