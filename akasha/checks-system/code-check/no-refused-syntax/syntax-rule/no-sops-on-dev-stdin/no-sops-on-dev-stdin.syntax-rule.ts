@@ -10,10 +10,6 @@ export const noSopsOnDevStdin = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Sops opens and seeks what it is given and a pipe answers neither.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A call is known for sops by a marker among its own string arguments.",
     },
     {

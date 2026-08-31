@@ -14,10 +14,6 @@ export const identifierMatchesItsPlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The format is read from the place page.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A type and an interface stand in one place.",
     },
     {

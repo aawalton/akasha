@@ -34,11 +34,6 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The bodies written and the paths taken away by one call are one gated commit or none.",
-    },
-    {
-      invariantKind: "departure",
       statement: "What a call said is read here.",
     },
     {

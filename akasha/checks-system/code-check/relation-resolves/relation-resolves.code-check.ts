@@ -41,10 +41,6 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement: "A non-mortal page naming a mortal page is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "It is judged on the page type the name reaches or on the property's declared target when it reaches none.",
     },

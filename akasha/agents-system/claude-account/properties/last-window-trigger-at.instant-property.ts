@@ -8,10 +8,5 @@ export const lastWindowTriggerAt = {
   slug: "last-window-trigger-at",
   propertySlug: "last-window-trigger-at",
   definition: "when an allowance window was last opened by a call made to open it",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A window opened by ordinary work is not marked here.",
-    },
-  ],
+  invariants: [],
 } as const satisfies InstantProperty
