@@ -6,7 +6,7 @@ import {
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyOfType,
+  everyOfTypeAnswered,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
@@ -67,7 +67,7 @@ function manifestNamed(shadow: Shadow): string {
 }
 
 export function packagesIn(change: Change, shadow: Shadow): readonly Package[] {
-  const pages = everyOfType(shadow.reading, PACKAGE)
+  const pages = everyOfTypeAnswered(shadow.reading, PACKAGE)
   if (pages.length === 0) return []
   const manifest = manifestNamed(shadow)
   const found: Package[] = []

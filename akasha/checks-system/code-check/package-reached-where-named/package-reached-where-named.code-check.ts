@@ -86,8 +86,12 @@ export const packageReachedWhereNamed = {
       statement: "A landing is a page where the index files it under its own path.",
     },
     {
+      invariantKind: "departure",
+      statement: "An index that cannot say which packages stand refuses rather than judging clean.",
+    },
+    {
       invariantKind: "absence",
-      statement: "A tree naming no package is judged clean.",
+      statement: "An index naming no package judges clean.",
     },
   ],
 } as const satisfies CodeCheck
