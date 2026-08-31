@@ -48,6 +48,7 @@ export const codeCheck = {
     "code-check/no-refused-syntax",
     "code-check/no-rule-in-two-files",
     "code-check/no-tmp",
+    "code-check/package-reached-where-named",
     "code-check/page-matches-its-type",
     "code-check/page-named-as-stated",
     "code-check/page-property-has-its-file",

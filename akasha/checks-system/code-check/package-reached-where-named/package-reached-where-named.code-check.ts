@@ -1,0 +1,89 @@
+import type { CodeCheck } from "../code-check.page-type.ts"
+
+export const packageReachedWhereNamed = {
+  id: "01a058be-804e-72e0-934d-f1f913e197a6",
+  pageTypeSlug: "code-check",
+  slug: "package-reached-where-named",
+  definition:
+    "the check refusing a file outside a package that reaches a path its manifest does not name",
+  code: "ts",
+  test: "ts",
+  runsOnPatch: false,
+  runsOnWorktree: false,
+  runsOnDeploy: false,
+  runsOnAudit: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The packages are found in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package's folder is the folder its page stands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name a manifest stands under is asked of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest is read as the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a string target in the exports map names a way in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A target is resolved against the package's folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file inside a package reaches its siblings directly.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest stating no exports declares no interface.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package declaring no interface is not enforced.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest that is absent or will not parse declares no interface.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest stating an empty exports map names no way in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package is named in a refusal by what its manifest calls it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A package whose manifest calls it nothing is named by its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every way a specifier can be written is a way in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier naming no path is the way in the manifest names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A tree naming no package is judged clean.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This runs on no phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What it would refuse can be read against the tree before it binds anyone.",
+    },
+  ],
+} as const satisfies CodeCheck
