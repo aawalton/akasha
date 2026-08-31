@@ -56,6 +56,14 @@ export function indexIn(root: string): string {
   return join(root, INDEX_AT)
 }
 
+export function indexNamed(): string {
+  return INDEX_AT
+}
+
+export function indexStanding(given: string | Reading): boolean {
+  return readingIn(given).holds("")
+}
+
 export function indexAt(indexName: string, ...parts: readonly string[]): string {
   return join(INDEX_AT, indexName, ...parts)
 }
