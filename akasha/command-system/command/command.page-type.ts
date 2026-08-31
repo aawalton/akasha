@@ -45,10 +45,6 @@ export const command = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command's slug is what it is invoked by.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A command's page states what it takes and what is worth knowing about taking it.",
     },
     {

@@ -53,10 +53,6 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "An inherited property is restated only to narrow it.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Optional becomes required.",
     },
     {

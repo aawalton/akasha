@@ -16,14 +16,6 @@ export const codeLint = {
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "No fix and no write and no unsafe change is ever asked for.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A run whose answer cannot be read says why rather than an empty list.",
     },
     {

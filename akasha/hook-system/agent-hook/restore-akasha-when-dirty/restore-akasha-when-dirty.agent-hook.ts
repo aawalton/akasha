@@ -44,10 +44,6 @@ export const restoreAkashaWhenDirty = {
     },
     {
       invariantKind: "departure",
-      statement: "A file it altered or took away comes back.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Nothing outside the akasha folder is touched.",
     },
     {

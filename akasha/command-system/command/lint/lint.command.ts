@@ -26,10 +26,6 @@ export const lint = {
     },
     {
       invariantKind: "departure",
-      statement: "A run only reads.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A run that could not be made is answered as a failure of its own rather than as a tree the linter found nothing in.",
     },

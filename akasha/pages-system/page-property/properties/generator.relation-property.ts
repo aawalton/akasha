@@ -16,11 +16,6 @@ export const generator = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A generated property is filled as its page is created rather than on one already standing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page being created that states the property keeps what it states.",
     },
     {

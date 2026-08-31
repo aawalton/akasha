@@ -35,14 +35,6 @@ export const namePlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A format says how a name is written.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A place says where a name appears and which format holds there.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name a page property carries states its format on the property.",
     },
     {

@@ -9,10 +9,6 @@ export const hookPayload = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The payload is built to the shape the agent sends.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Where the call was made is carried.",
     },
     {
