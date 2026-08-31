@@ -16,10 +16,6 @@ export const blockBunTest = {
     },
     {
       invariantKind: "departure",
-      statement: "A `bun test` reaching the akasha folder is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The refusal names `akasha test`.",
     },
     {

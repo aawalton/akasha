@@ -12,10 +12,6 @@ export const blockAkashaReads = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A Read landing inside the akasha folder is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The refusal names `akasha read`.",
     },
     {
