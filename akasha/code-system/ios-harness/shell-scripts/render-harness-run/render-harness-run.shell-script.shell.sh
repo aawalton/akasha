@@ -2,6 +2,10 @@
 set -euo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# The mac leg is this same file, rsynced across and run by name. The name is
+# taken from what is running rather than written out, because a page's file is
+# named for its slug and writing it twice makes the rename silently wrong.
+SELF="$(basename "${BASH_SOURCE[0]}")"
 MAC_HOST="${RENDER_HARNESS_HOST:-macbook}"
 
 usage() {
@@ -102,7 +106,7 @@ if [ "$(uname)" != "Darwin" ] && [ "$ON_MAC" = "0" ]; then
 
   STATUS=0
   # shellcheck disable=SC2029  # client-side expansion is the point here, and the
-  ssh "$MAC_HOST" "bash '$REMOTE/scripts/render-harness/run.sh' $(printf '%q ' "${REMOTE_ARGS[@]}")" || STATUS=$?
+  ssh "$MAC_HOST" "bash '$REMOTE/scripts/render-harness/$SELF' $(printf '%q ' "${REMOTE_ARGS[@]}")" || STATUS=$?
 
   rsync -a "$MAC_HOST:$REMOTE/out/" "$OUT/" 2>/dev/null || true
   echo "IMAGES: $OUT"
