@@ -267,6 +267,7 @@ export const THING_VOCABULARY: Readonly<Record<string, string>> = {
     typed("03", "relation-property", "page-type/page-property"),
     typed("04", "thing", "page-type/page", ["names"]),
     typed("06", "page-type", "page-type/page"),
+    typed("10", "domain", "page-type/page"),
   ]),
   [`${TREE}/names.relation-property.ts`]: stated({
     id: idOf("05"),
