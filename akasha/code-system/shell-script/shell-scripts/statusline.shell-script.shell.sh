@@ -51,7 +51,7 @@ TOKENS_DISPLAY=$(echo "$INPUT" | jq -r '
     end
 ' 2>/dev/null || true)
 
-SEAT_RENDER=(persona domain role initiative)
+SEAT_RENDER=(persona role domain initiative)
 
 SEAT_KEYS=()
 for SLOT in "${SEAT_RENDER[@]}"; do SEAT_KEYS+=("${SLOT}-slug"); done
