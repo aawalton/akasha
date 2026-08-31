@@ -1,0 +1,177 @@
+---
+id: 38dcdee6-3b72-571f-9bd0-421ed5b8ecbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 872 - The Art of the Deal"
+slug: 0200-chapter-872-the-art-of-the-deal
+partOf: hell-difficulty-tutorial
+position: 200
+ownLength: 2510
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3892631/chapter-872-the-art-of-the-deal"
+royalRoadId: "3892631"
+---
+
+“Deal.” Bal smiles at me, causing me to come to a stop and narrow my eyes. For a moment, I want to glance at Tess in search of help, but decide not to show any weakness.
+
+Quickly, I type into the community and decide to resend the message until Lily notices it.
+
+Nathaniel Gwyn (Hell, group 4) - Grumpy, I don’t like this guy. When it comes time to trade, give him healing mark number 3.2
+
+Outwardly, I ask, “How many corporations are there on Xyphos?”
+
+“Aurate Consortium, Novus Venture Corp, Meridian Alliance, Questionable Assets Group, and Coda Collective.”
+
+The asshole doesn’t elaborate, and I know it is on purpose.
+
+Still, I have to ask, “Questionable Assets Group?”
+
+“Yes, that’s their legal name,” he confirms.
+
+“So you are all here to harvest talnium?”
+
+“Most of our main objectives align with this, yes, though some have a side project in observing the Labyrinth, but that’s highly regulated, and permits are rarely issued.”
+
+“Whose control does this planet fall under? Or did, you know, before all this happened.”
+
+“The Ruler of Diligence at the moment, though the Rulers tend to coordinate on that and make changes to oversight procedures.”
+
+I pause and blink a few times, but just in case, I ask, “Tell me, this talnium, is Diligence getting a good chunk of it?”
+
+“As per my knowledge regarding the Ruler of Diligence, not personally of course, though he does a lot of trade through his vessels and through the maintenance of centuries old deals accounting for more than 40% of the talnium harvested on Xyphos, yes.”
+
+I rub my hand across my face and allow myself to have fun in my thoughts, imagining new tales along the lines of: So the Ruler of Diligence didn't find 40% of the talnium on Xyphos sufficient, so he manipulated the system to make Xyphos part of the tutorial, allowing him to seize the rest while masking the move as an unexpected occurrence through fake system messages.
+
+Quickly, I shake the thoughts away and curse in my mind at Lily for not having read my community message yet. Our group has long since been drilled into checking the messages often, given the way it allows for hidden conversation, but the petite healer is clearly slacking.
+
+So I resend it again, for like the tenth time.
+
+Nathaniel Gwyn (Hell, group 4) - Grumpy, I do not like this guy. When it comes to trade, give him healing mark number 3.2
+
+Esos (Hell, All Business) - Oh, shut the fuck up finally. People here are trying to organize, so go fuck yourself, you and this Grumpy!
+
+“Why does so much of talnium go to Diligence?” I ask Bal.
+
+“The Ruler of Diligence is one of the very few in the universe known to be capable of reliably creating Spatial Caches within his World Forge on Domus. Talnium is one of the extremely rare materials used in the process.”
+
+“I guess that makes sense,” I agree with him. “How many can he create?”
+
+“At the smallest size of a cache, probably one or two per millennium. The highest quality ones often require tens of thousands of years.”
+
+Once again, I blink a few times and ask a bit more carefully, “Doesn’t that seem a bit lazy? Or is he limiting the supply to keep the value ridiculously high?”
+
+Bal smiles, and for the first time, he almost looks condescending, but not in a truly arrogant way. It is more like the question itself is ridiculous, as if his child had asked if they could go out and pet the cute baby bear waiting outside with its momma.
+
+“I personally couldn’t even fathom the sheer effort, thaumic mastery, and complex processes that go into the creation of a simple spatial cache, Mister Gwyn. We’re talking about folding the very fabric of reality into a non Euclidean manifold and pinning that fold to a physical anchor. Said anchor must be calibrated to resonate perfectly with the structure of a spatial cache, otherwise, the inner space of a cache effectively detaches the moment it’s moved, leaving the inventory floating at a fixed set of coordinates in the void."
+
+It seems to be something he’s actually taken an interest in, like someone who admires a great car or enjoys discussing insane theoretical technology that might allow humans to travel between the stars. So I just nod and listen as he talks.
+
+"Furthermore, there’s the issue of maintaining the structural integrity of the inventory space. Reality has a natural and aggressive tendency to equalize, so creating a stable, isolated volume of space should be impossible. I cannot imagine, no, I can not fathom what it requires to prevent the construct from unwinding or, worse, collapsing. Then you must consider the concealment of the spatial cache. Left on its own, it radiates a signature that’s as bright as a beacon to anything sensitive to spatial anomalies. Masking that sort of signature is an art form in itself."
+
+"It sounds like it is." I nod again.
+
+"Right!? And worst of all, you have to mitigate the effects of spatial radiation. When you compress space to that degree, the friction between the inner space of a cache and the external world generates static that can crystallize one’s mana channels in most cases! There are great masters who have dedicated entire lifetimes to the study of spatial caches, and yet, most of them gave up on understanding the theory, never managing to take even the first step. It is a miracle anyone can craft them at all!”
+
+“I see,” I nod, and can't help but feel Bal's excitement. Maybe Diligence is kind of cool after all. Still, I send it into the community.
+
+Nathaniel Gwyn (Hell, group 4) - Grumpy, I do not like this guy. When it comes to trade, give him healing mark number 3.2
+
+Esos (Hell, All Business) - Oh, not again. I’ve had a shitty day already without this dumbass being annoying. This is like the 30th time, you fuck. You'd better pray I don’t meet you somewhere.
+
+Lisjek (Normal, Rat Buds) - There’s no need to be such a bitch about it, he’s probably spamming it to get an answer from his group, but with so many people chatting here, it keeps getting lost.
+
+Esos (Hell, All Business) - As if I care.
+
+Sset (Hell, group 4) - Group 4? Isn't the current guildmaster of the Primordial Knights also from group 4?
+
+Piere (Hell, 123456) - Nyssa Volare? Is she even still in the tutorial?
+
+Treeson (Hell, S.T.A.R) - No, they had a new coronation. The new guildmaster is that mana lunatic, but I don't remember his name.
+
+Piere (Hell, 123456) - Oh… that guy.
+
+Lisjek (Normal, Rat Buds) - Sset, aren't you in group 4 going by your alias!?
+
+Sset (Hell, group 4) - Hehe.
+
+When I glance at the blonde, she is smiling, and after making fun of me for a bit longer, she leans closer to Lily and very quietly whispers something into her ear.
+
+“How many Adjudicators does the Aurate Consortium have?” I ask Bal and check the community, where Lily finally answers.
+
+Grumpy (Hell, group 4) - Got it!
+
+Then there is a bit of a pause as she reads the older messages and a new one.
+
+Grumpy (Hell, group 4) - I’m offering a healing mark capable of restoring limbs in exchange for the location of this annoying guy called Esos.
+
+Treeson (Hell, S.T.A.R) - I think I know where some attendees from his planet are gathering. I can share that information, but I’ll do it for free. I’ve met you in the Beyond, and you healed a friend of mine.
+
+Esos (Hell, All Business) - Hey, what the fuck is this?
+
+I ignore the rest of the conversation and listen to Bal, who says, “The number of Adjudicators is unknown. If you offer a second healing mark, I am willing to share the way we categorize them and our theories as to how the Aurate Consortium creates them.”
+
+To that, I shrug, “Isn't that obvious? They are where they are, around what they are, and have access to what they have in exchange for what they must do.”
+
+Bal's smile widens, “You are very well informed for a tutorial attendee, Mister Gwyn.”
+
+For a while, I wonder what face he’d be making if I told him who I learned it from and that I also met the real Kindness, not some crappy clone of hers that the Aurate Consortium is clearly creating from her flesh. But seeing how they’ve been doing it without much effort to hide, Kindness likely doesn't care, as long as most of their budget goes into trying to find ways to kill her.
+
+I'm once again reminded how ridiculous this is. 90% of the Aurate Consortium's budget goes into finding a way to kill her, and even with the remaining 10% of it, they’re still the most powerful corporation by far.
+
+Weapons made from the flesh and body of a Ruler with a level 99 skill, clones of her to be used as their warriors, and god knows what else, they truly know how to get the most out of it in ways I even have to admire.
+
+“I just overheard some B ranks talking about it somewhere in the Beyond,” I say to Bal, “how much more do you think I can ask?”
+
+“I'm sure you did hear it there, Mister Gwyn. As for the number of questions, this is open to negotiations where both of our sides will agree. After all, we aren't shameless enough to try to trick you or Lady Healer.”
+
+“Sure. Want to ask them a few things?” I look at Tess, who just agrees with a nod and moves ahead.
+
+She starts with some pleasantries before rapid-firing a barrage of questions I bet she has been preparing. She asks if there are any Absolutes present on Xyphos, and learns that there are only two, as limited per contract. One of them hired by the Corporations, and the other as an overseer appointed by the Rulers. She asks about Champions, and the answer is a limit of two per corporation. Then she gets into what territories the corporations have and how they’ve split their lines of influence and stuff, and many similar questions besides.
+
+I already told her about what happened during the Game, so later she asks them about it as well.
+
+“What can you tell us about Starless Sky?” she asks directly.
+
+But to that question, Bal instantly shakes his head, “Any information on gods is extremely valuable, and I am afraid you likely don’t have much of equal value to offer. Though, Mister Gwyn, it has been seen that you’ve been given a dagger previously owned by Absolute Candidate Euris by your sister.”
+
+“Out of the question,” I just say, and it seems the selari man had expected it.
+
+For a bit, I wonder how they would behave if not for Diligence threatening everyone present to keep them from messing with the attendees. Would they try to steal it? Would they try to kidnap Lily or even myself for my traits? And lastly, I have to wonder what they think of Tacita just disappearing.
+
+Of course, I saw her sneak inside, as did Tess, more likely than not, but they don’t seem to have noticed, so do they think she left? Or maybe they know she’s there, and they’re hoping to trap her?
+
+Shaking these thoughts, I ignore it. Tacita knows her abilities better than I do, and she’s been clearing the tutorial’s floors on her own.
+
+“That much should be enough information for the value of a single healing mark from the Lady Healer, do you agree?” Bal says after Tess gets a few more answers from him, and in the end, we agree.
+
+I can almost see the greed in Bal's eyes as they bring out what feels to be a level 150 monster that reminds me of a monkey, with four arms, a single long horn, and a tail ending in a bony, mace-like appendage.
+
+“Be careful with the mark I’m placing. It’s single-use, and it activates automatically when the host takes damage,” Lily says.
+
+“What scale of damage are we talking about?”
+
+“A scratch,” Lily says, occupied with working on the mark so she doesn’t notice how wide Bal's eyes get in that moment. His two assistants begin to whisper excitedly, and that causes him to frown at them, but it’s already too late, and when he turns back, he must have realized Tess and I noticed.
+
+Bal gives a polite smile and calls inside, causing another selari to come out, this one clearly combat-oriented, likely one of the guards. Then they take the monkey away very carefully, moving it back in a cage and even restricting it, likely so it doesn’t damage itself by mistake and cause the mark to disappear.
+
+“Lady Healer, if you would be willing, I believe we could make a deal for a second healing mark,” he says shamelessly. It is just so obvious, even to me, that he thinks they overwhelmingly came out on top from this exchange.
+
+Meanwhile, Lily looks at Tess, who shakes her head, and Lily straight up rejects the disappointed selari.
+
+Still, they don’t interfere as we begin to move away, towards the closest member of group 4 the compass is now pointing us towards.
+
+Tess sighs and scratches the back of her neck when we are further away, “I just heard them laugh, and one of his assistants called us dumb attendees,” she says, showing off her talent at strengthening her senses.
+
+Meanwhile, I open the community and check the messages, where I find a few interesting tidbits.
+
+Sset (Hell, group 4) - Tacita, on your way out, can you scratch that monkey they’re keeping in the cage? They should be passing by. I think Nathaniel and Grumpy would appreciate it.
+
+Barely two minutes later, Tacita steps out of her field next to us, slowing her run to a pace matching ours. Even then, her walking speed feels like she is annoyed at us for moving so slowly.
+
+She throws something at me, and I catch it automatically. Glancing down at it, I see that it’s a mana stone meant to serve as information storage. There are still a few connections hanging off of it, meaning she likely just pulled it from somewhere. And seeing the level of encryption, which is likely going to take me days or weeks to break through, it must have come from an important place.
+
+When I lift my eyebrow in a question, asking what she might want in exchange, she simply draws a shape in the air.
+
+(‾꒳‾ )
+
+It makes me realize that she’s buttering me up for our deal with the dagger, and for some reason, I have no doubt that she managed to scratch that monkey, causing the healing mark to trigger and leaving Novus Venture Corp with nothing.
