@@ -27,10 +27,6 @@ export const commandSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A command reaches no further than the akasha folder.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A command is found in the index.",
     },
     {
