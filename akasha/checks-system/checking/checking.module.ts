@@ -43,6 +43,10 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "Why a check page or its code would not load is carried into the refusal.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check that threw refuses the change it could not judge.",
     },
     {

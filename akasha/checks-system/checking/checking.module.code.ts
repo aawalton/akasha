@@ -64,24 +64,28 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   return held
 }
 
-function statedIn(at: string, slug: string): Record<string, unknown> | null {
+function saidBy(thrown: unknown): string {
+  return thrown instanceof Error ? thrown.message : String(thrown)
+}
+
+function statedIn(at: string, slug: string, page: string): Record<string, unknown> | null {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
-  } catch {
-    return null
+  } catch (thrown) {
+    throw new Error(`${page} is a check page, and would not load — ${saidBy(thrown)}`)
   }
   const named = mod[exportedAs(slug)]
   if (named === null || typeof named !== "object") return null
   return named as Record<string, unknown>
 }
 
-function runningIn(at: string, slug: string): Running | null {
+function runningIn(at: string, slug: string, beside: string): Running | null {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
-  } catch {
-    return null
+  } catch (thrown) {
+    throw new Error(`${beside} is a check's code, and would not load — ${saidBy(thrown)}`)
   }
   const named = mod[exportedAs(slug)]
   if (typeof named === "function") return named as Running
@@ -98,7 +102,7 @@ export function checksIn(root: string): readonly Gathered[] {
     }
     const slug = said.stem
     const full = join(root, path)
-    const stated = statedIn(full, slug)
+    const stated = statedIn(full, slug, path)
     if (stated === null) {
       throw new Error(
         `${path} is a check page, and answers to no \`${exportedAs(slug)}\` a runner can read`
@@ -112,7 +116,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (beside === null) {
       throw new Error(`${path} is a check page, and no code file can stand beside a name like it`)
     }
-    const run = runningIn(join(root, beside), slug)
+    const run = runningIn(join(root, beside), slug, beside)
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
@@ -131,10 +135,9 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
 }
 
 function threw(one: Gathered, thrown: unknown): Judged {
-  const why = thrown instanceof Error ? thrown.message : String(thrown)
   return {
     path: one.page,
-    reason: `the check \`${one.slug}\` threw, so it judged nothing — ${why}`,
+    reason: `the check \`${one.slug}\` threw, so it judged nothing — ${saidBy(thrown)}`,
   }
 }
 
