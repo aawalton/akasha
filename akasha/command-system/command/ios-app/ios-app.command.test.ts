@@ -32,7 +32,25 @@ test("one call names one app", () => {
 })
 
 test("an app and an act stand as the first word and the second", () => {
-  expect(readIn(["build", "alanwalton"])).toEqual({ act: "build", app: "alanwalton" })
+  expect(readIn(["build", "alanwalton"])).toEqual({ act: "build", app: "alanwalton", www: null })
+})
+
+test("a site is named by a flag rather than by its place among the words", () => {
+  expect(readIn(["build", "alanwalton", "--www", "/var/tmp/site"])).toEqual({
+    act: "build",
+    app: "alanwalton",
+    www: "/var/tmp/site",
+  })
+})
+
+test("a flag naming no directory is refused rather than taken as the app", () => {
+  const held = readIn(["build", "alanwalton", "--www"])
+  expect("refused" in held ? held.refused : "").toContain("names a directory")
+})
+
+test("a flag this does not take is refused rather than ignored", () => {
+  const held = readIn(["build", "alanwalton", "--release"])
+  expect("refused" in held ? held.refused : "").toContain("--release")
 })
 
 test("an app no page is slugged for refuses at the data rather than the caller", () => {
@@ -54,7 +72,7 @@ test("a caller saying nothing is refused as the caller's fault", () => {
 test("every act the page shows is one this takes", () => {
   for (const one of page.taking) {
     const first = one.said.split(" ")[0] ?? ""
-    if (first.startsWith("<")) continue
+    if (first.startsWith("<") || first.startsWith("-")) continue
     const held = readIn([first])
     expect("refused" in held ? held.refused : "").not.toContain("is no act this carries")
   }

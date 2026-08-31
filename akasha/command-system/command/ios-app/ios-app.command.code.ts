@@ -8,6 +8,8 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 export const BUILD = "build"
 
+export const WWW = "--www"
+
 const ACTS = [BUILD]
 
 const HOST_ENV = "AKASHA_MAC_HOST"
@@ -18,20 +20,43 @@ const RUN_ROOT = ".akasha-ios-build"
 
 const SCRATCH_AT = "/var/tmp"
 
+const WWW_AT = "www-staged"
+
 const EXCLUDES = ["node_modules", "ios", "build", ".DS_Store"]
 
 const MAC_PATH = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
 const DONE = /BUILD_SIM_OK[^\n]*udid=([0-9A-Fa-f-]{8,})/
 
-export type Read = { readonly act: string; readonly app: string } | { readonly refused: string }
+export type Read =
+  | { readonly act: string; readonly app: string; readonly www: string | null }
+  | { readonly refused: string }
+
+const acts = (): string => ACTS.join("`, `")
 
 export function readIn(argv: readonly string[]): Read {
-  const [act, app, ...rest] = argv
-  if (act === undefined)
-    return { refused: `this names no act — it carries \`${ACTS.join("`, `")}\`` }
+  const bare: string[] = []
+  let www: string | null = null
+  for (let at = 0; at < argv.length; at += 1) {
+    const one = argv[at]
+    if (one === undefined) continue
+    if (one === WWW) {
+      const value = argv[at + 1]
+      if (value === undefined)
+        return { refused: `\`${WWW}\` names a directory, and nothing followed it` }
+      www = value
+      at += 1
+      continue
+    }
+    if (one.startsWith("-")) {
+      return { refused: `\`${one}\` is no flag this takes — it takes \`${WWW} <dir>\`` }
+    }
+    bare.push(one)
+  }
+  const [act, app, ...rest] = bare
+  if (act === undefined) return { refused: `this names no act — it carries \`${acts()}\`` }
   if (!ACTS.includes(act)) {
-    return { refused: `\`${act}\` is no act this carries — it carries \`${ACTS.join("`, `")}\`` }
+    return { refused: `\`${act}\` is no act this carries — it carries \`${acts()}\`` }
   }
   if (app === undefined) return { refused: `\`${act}\` names an app, and nothing followed it` }
   if (rest.length > 0) {
@@ -39,7 +64,7 @@ export function readIn(argv: readonly string[]): Read {
       refused: `\`${rest.join("`, `")}\` follows the app \`${app}\`, and one call names one app`,
     }
   }
-  return { act, app }
+  return { act, app, www }
 }
 
 function said(chunk: Uint8Array | null): string {
@@ -80,9 +105,10 @@ function delivered(root: string, plan: Plan, host: string): readonly string[] {
   return []
 }
 
-function scriptOf(root: string, plan: Plan): string {
+function scriptOf(root: string, plan: Plan, www: string | null): string {
   const shellDir = `$HOME/${RUN_ROOT}/${plan.shellPath}`
   const head = [MAC_PATH, `export NATIVE_SHELL_DIR="${shellDir}"`, ...plan.exports]
+  if (www !== null) head.push(`export STAGED_WWW_DIR="$HOME/${RUN_ROOT}/${WWW_AT}"`)
   return `${head.join("\n")}\n${readFileSync(join(root, plan.buildScriptPath), "utf8")}`
 }
 
@@ -111,7 +137,18 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
   ]
   const short = delivered(given.root, plan, host)
   if (short.length > 0) return { report, refusals: short, code: 3 }
-  const done = built(scriptOf(given.root, plan), host)
+  if (read.www !== null) {
+    const sent = ran(["rsync", "-az", "--delete", `${read.www}/`, `${host}:${RUN_ROOT}/${WWW_AT}/`])
+    if (sent.code !== 0) {
+      return {
+        report,
+        refusals: [`${read.www} did not reach ${host} — ${sent.out.trim()}`],
+        code: 3,
+      }
+    }
+    report.push(`staged the site standing at ${read.www}`)
+  }
+  const done = built(scriptOf(given.root, plan, read.www), host)
   report.push(done.out.trimEnd())
   const found = DONE.exec(done.out)
   if (found === null) {

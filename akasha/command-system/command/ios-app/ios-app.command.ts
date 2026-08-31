@@ -10,6 +10,7 @@ export const iosApp = {
   taking: [
     { said: "build", takes: "the act, which is to build one app and install it on a simulator" },
     { said: "<app>", takes: "the app to build, which is the slug of an ios-app page" },
+    { said: "--www <dir>", takes: "the site to install inside it, as some other build left it" },
   ],
   helpNotes: [
     "the act is the first word and the app is the second.",
@@ -17,6 +18,7 @@ export const iosApp = {
     "what an app is built from is read from its page rather than said here.",
     "a build needs Xcode, so a workstation that is not a mac hands it to one that is.",
     "nothing is said until the build has finished, because a command prints nothing itself.",
+    "a build naming no site installs whatever the delivered package already carried.",
   ],
   invariants: [
     {
@@ -46,6 +48,10 @@ export const iosApp = {
     {
       invariantKind: "constraint",
       statement: "Nothing is reported until the build has finished.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The site an app carries is handed in rather than read from its page.",
     },
   ],
 } as const satisfies Command
