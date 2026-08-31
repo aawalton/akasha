@@ -4,13 +4,13 @@ import { addressIn } from "../../pages-system/page/page-address/page-address.mod
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
-const SEAT = "seat"
+const AGENT: ReadonlySet<string> = new Set(["seat", "subagent"])
 
 const loadFrom = createRequire(import.meta.url)
 
 function statedIn(root: string, path: string, key: string): string | null {
   const said = namedIn(path)
-  if (said === null || said.tail !== SEAT) return null
+  if (said === null || !AGENT.has(said.tail)) return null
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(join(root, path)) as Record<string, unknown>
