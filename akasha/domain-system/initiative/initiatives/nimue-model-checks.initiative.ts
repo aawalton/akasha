@@ -15,10 +15,6 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "A move either refuses or lands a change that passes checks.",
-    },
-    {
-      invariantKind: "gap",
       statement:
         "A move renames a page's slug and repoints every typed edge that addresses it in the same act.",
     },
