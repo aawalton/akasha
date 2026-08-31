@@ -1,6 +1,11 @@
 import ts from "typescript"
 import { parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
-import { landingOf } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
+import type { Typing } from "../../../../code-system/code-typing/code-typing.module.code.ts"
+import {
+  boundAs,
+  exportsNamed,
+  referencesOf,
+} from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
 import type { Value } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { valueIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
@@ -17,6 +22,10 @@ import {
   type Shaped,
 } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
+import {
+  exportedAs,
+  typedAs,
+} from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import type { Renaming, Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 
@@ -133,53 +142,23 @@ export function respelled(
   return spots.length === 0 ? text : splicedIn(text, spots)
 }
 
-function stands(node: ts.Identifier): boolean {
-  const up = node.parent
-  if (up === undefined) return true
-  if (ts.isPropertyAssignment(up) && up.name === node) return false
-  if (ts.isPropertyAccessExpression(up) && up.name === node) return false
-  if (ts.isPropertySignature(up) && up.name === node) return false
-  return true
-}
+export type Bindings = ReadonlyMap<string, readonly (readonly [Spot, string])[]>
 
-function spotOf(source: ts.SourceFile, node: ts.Node): Spot {
-  return { start: node.getStart(source), end: node.getEnd() }
-}
-
-export function renamed(
-  path: string,
-  text: string,
-  was: string,
-  now: string,
-  from: string | null
-): string | null {
-  const source = parsedAs(path, text)
-  const spots: (readonly [Spot, string])[] = []
-  let local = from === null ? was : null
-  for (const statement of from === null ? [] : source.statements) {
-    if (!ts.isImportDeclaration(statement) || !ts.isStringLiteral(statement.moduleSpecifier)) {
-      continue
-    }
-    if (landingOf(path, statement.moduleSpecifier.text) !== from) continue
-    const bindings = statement.importClause?.namedBindings
-    if (bindings === undefined || !ts.isNamedImports(bindings)) continue
-    for (const one of bindings.elements) {
-      if ((one.propertyName?.text ?? one.name.text) !== was) continue
-      if (one.propertyName === undefined) local = one.name.text
-      else spots.push([spotOf(source, one.propertyName), now])
+export function bindingsOver(typing: Typing, root: string, one: Renaming): Bindings {
+  const found = new Map<string, (readonly [Spot, string])[]>()
+  const take = (was: string, now: string, ownToo: boolean): undefined => {
+    const declared = new Set(exportsNamed(typing, one.path, was))
+    if (declared.size === 0) return
+    for (const held of referencesOf(typing, root, declared)) {
+      if (!ownToo && held.path === one.path) continue
+      const at = found.get(held.path) ?? []
+      at.push([{ start: held.start, end: held.end }, boundAs(held, was, now)])
+      found.set(held.path, at)
     }
   }
-  if (local !== null) {
-    const held = local
-    const walk = (node: ts.Node): undefined => {
-      if (ts.isIdentifier(node) && node.text === held && stands(node)) {
-        spots.push([spotOf(source, node), now])
-      }
-      ts.forEachChild(node, walk)
-    }
-    ts.forEachChild(source, walk)
-  }
-  return spots.length === 0 ? null : splicedIn(text, spots)
+  take(typedAs(one.was), typedAs(one.now), true)
+  take(exportedAs(one.was), exportedAs(one.now), false)
+  return found
 }
 
 const EDGE = new Set(["/", ".", "*"])

@@ -1,13 +1,14 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import {
+  compiled,
+  readingOf,
+  typingOver,
+} from "../../../code-system/code-typing/code-typing.module.code.ts"
+import {
   everyPathAnswered,
   readingIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  exportedAs,
-  typedAs,
-} from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { uncommittedNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Asked } from "../../asking/asking.module.code.ts"
 import {
@@ -35,12 +36,13 @@ import {
   pagesOf,
   renamingFor,
   restated,
+  splicedIn,
 } from "./type-renaming/type-renaming.module.code.ts"
-import type { Spelling } from "./type-respelling/type-respelling.module.code.ts"
+import type { Bindings, Spelling } from "./type-respelling/type-respelling.module.code.ts"
 import {
+  bindingsOver,
   namesStill,
   pathRespelled,
-  renamed,
   respelled,
   spellingOver,
 } from "./type-respelling/type-respelling.module.code.ts"
@@ -100,18 +102,15 @@ type Rewriting = {
   readonly moved: ReadonlyMap<string, string>
   readonly spelling: Spelling
   readonly pages: ReadonlySet<string>
+  readonly bindings: Bindings
 }
 
 function rewritten(held: Rewriting, from: string, to: string, text: string): string {
   const one = held.one
   const own = from === one.path
   let next = text
-  const typed = renamed(from, next, typedAs(one.was), typedAs(one.now), own ? null : one.path)
-  if (typed !== null) next = typed
-  if (!own) {
-    const value = renamed(from, next, exportedAs(one.was), exportedAs(one.now), one.path)
-    if (value !== null) next = value
-  }
+  const bound = held.bindings.get(from)
+  if (bound !== undefined) next = splicedIn(next, bound)
   const spelled = held.spelling.get(from)
   if (spelled !== undefined) next = respelled(from, next, spelled.said, spelled.keys)
   const said = own
@@ -178,11 +177,17 @@ export function landed(
   const standing = (path: string): boolean => existsSync(join(root, path))
   const carries = carriesFor(root, one, standing)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
+  const typing = typingOver(
+    root,
+    everyPathAnswered(root).filter(compiled),
+    readingOf(root, bodyText)
+  )
   const held: Rewriting = {
     one,
     moved,
     spelling: spellingOver(root, one, bodyText),
     pages: new Set(pagesOf(root, one)),
+    bindings: bindingsOver(typing, root, one),
   }
   const reading = importingOf(root, moved)
   if ("unread" in reading) return answering([], [reading.unread], 2)

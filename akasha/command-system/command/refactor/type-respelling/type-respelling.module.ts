@@ -40,6 +40,10 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
+      statement: "Which places name the page type is read from the checker rather than from text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name imported under another is renamed where imported and not where used.",
     },
     {
@@ -77,10 +81,6 @@ export const typeRespelling = {
     {
       invariantKind: "stopgap",
       statement: "The walk over the addresses a value states stands here a second time.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A name shadowing an imported one inside a scope is left as it stands.",
     },
   ],
 } as const satisfies Module

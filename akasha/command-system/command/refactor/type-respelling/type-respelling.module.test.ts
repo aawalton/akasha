@@ -1,15 +1,47 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import type { Typing } from "../../../../code-system/code-typing/code-typing.module.code.ts"
+import {
+  insideOf,
+  typingOver,
+} from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import type { Shaped } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
+import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import type { Renaming } from "../type-renaming/type-renaming.module.code.ts"
+import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 import {
   addressedIn,
+  bindingsOver,
   namesStill,
   pathRespelled,
   pathSpelled,
   readdressed,
-  renamed,
   respelled,
 } from "./type-respelling.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function typed(said: Readonly<Record<string, string>>): { root: string; typing: Typing } {
+  const root = scratch.rootFor("akasha-respelling-")
+  for (const [path, text] of Object.entries(said)) {
+    const at = join(root, path)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, text)
+  }
+  const typing = typingOver(root, Object.keys(said), (at) => {
+    const rel = insideOf(root, at)
+    if (rel !== null) return said[rel]
+    try {
+      return readFileSync(at, "utf8")
+    } catch {
+      return undefined
+    }
+  })
+  return { root, typing }
+}
 
 const SEAT_ID = "01a0587c-0000-7000-8000-00000000000a"
 
@@ -123,46 +155,6 @@ test("nothing to respell leaves the body exactly as it stands", () => {
   expect(respelled(PAGE_AT, text, new Map(), new Set(["partSlugs"]))).toBe(text)
 })
 
-test("a name imported from the page type's own file is renamed with it", () => {
-  const text =
-    'import type { Seat } from "../seat.page-type.ts"\n\n' +
-    "export const vera = {} as const satisfies Seat\n"
-  expect(renamed(PAGE_AT, text, "Seat", "Chair", TYPE_AT)).toBe(
-    'import type { Chair } from "../seat.page-type.ts"\n\n' +
-      "export const vera = {} as const satisfies Chair\n"
-  )
-})
-
-test("a name imported under another name is renamed where it is imported and not where it is used", () => {
-  const text =
-    'import type { Seat as Held } from "../seat.page-type.ts"\n\n' +
-    "export const vera = {} as const satisfies Held\n"
-  const said = renamed(PAGE_AT, text, "Seat", "Chair", TYPE_AT)
-  expect(said).toContain("{ Chair as Held }")
-  expect(said).toContain("satisfies Held")
-})
-
-test("a file importing nothing from the page type's own file is left alone", () => {
-  expect(renamed(PAGE_AT, "const Seat = 1\n", "Seat", "Chair", TYPE_AT)).toBe(null)
-})
-
-test("the page type's own file is renamed throughout rather than through an import", () => {
-  const text = "export type Seat = Page & { one?: Seat }\n"
-  expect(renamed(TYPE_AT, text, "Seat", "Chair", null)).toBe(
-    "export type Chair = Page & { one?: Chair }\n"
-  )
-})
-
-test("a key spelled like the name is no use of it", () => {
-  const text =
-    'import type { Seat } from "../seat.page-type.ts"\n' +
-    "export const one = { Seat: 1 } as const satisfies Seat\n"
-  const said = renamed(PAGE_AT, text, "Seat", "Chair", TYPE_AT)
-  expect(said).toContain("{ Seat: 1 }")
-  expect(said).toContain("satisfies Chair")
-  expect(said).toContain("{ Chair }")
-})
-
 test("a slug standing between path marks is repointed", () => {
   expect(pathSpelled("akasha/checks-system/check/one.check.ts", "check", "code-check")).toBe(
     "akasha/checks-system/code-check/one.code-check.ts"
@@ -214,4 +206,47 @@ test("a module named for the renamed type is named", () => {
 
 test("a longer name carrying the old slug is not named", () => {
   expect(namesStill("checks-system\nchecking\ncode-check\n", "check")).toEqual([])
+})
+
+const TYPE_BODY = 'export type Seat = { id: string }\nexport const seat = { id: "one" }\n'
+
+test("a name imported from the page type's own file is renamed with it", () => {
+  const page =
+    'import type { Seat } from "../seat.page-type.ts"\n' +
+    'export const vera = { id: "two" } as const satisfies Seat\n'
+  const { root, typing } = typed({ [TYPE_AT]: TYPE_BODY, [PAGE_AT]: page })
+  const spots = bindingsOver(typing, root, ONE).get(PAGE_AT) ?? []
+
+  expect(splicedIn(page, spots)).toBe(
+    'import type { Chair } from "../seat.page-type.ts"\n' +
+      'export const vera = { id: "two" } as const satisfies Chair\n'
+  )
+})
+
+test("the page type's own file is renamed throughout rather than through an import", () => {
+  const { root, typing } = typed({ [TYPE_AT]: TYPE_BODY })
+  const spots = bindingsOver(typing, root, ONE).get(TYPE_AT) ?? []
+
+  expect(splicedIn(TYPE_BODY, spots)).toBe(
+    'export type Chair = { id: string }\nexport const seat = { id: "one" }\n'
+  )
+})
+
+test("a name shadowing an imported one inside a scope is left as it stands", () => {
+  const page =
+    'import { seat } from "../seat.page-type.ts"\n' +
+    "export function firstOf(said: readonly { id: string }[]): string {\n" +
+    "  const seat = said[0]\n" +
+    '  return seat === undefined ? "" : seat.id\n' +
+    "}\n" +
+    "export function ownOf(): string {\n  return seat.id\n}\n"
+  const { root, typing } = typed({ [TYPE_AT]: TYPE_BODY, [PAGE_AT]: page })
+  const spots = bindingsOver(typing, root, ONE).get(PAGE_AT) ?? []
+  const said = splicedIn(page, spots)
+
+  expect(spots).toHaveLength(2)
+  expect(said).toContain("  const seat = said[0]")
+  expect(said).toContain('return seat === undefined ? "" : seat.id')
+  expect(said).toContain('import { chair } from "../seat.page-type.ts"')
+  expect(said).toContain("return chair.id")
 })
