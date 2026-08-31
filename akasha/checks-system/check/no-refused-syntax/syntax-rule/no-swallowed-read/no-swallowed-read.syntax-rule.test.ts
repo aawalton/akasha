@@ -91,6 +91,26 @@ test("a decoder is no read, the bytes having already arrived", () => {
   expect(walking(body)).toEqual([])
 })
 
+test("a catch carrying what it caught stands", () => {
+  const body =
+    "function why(t: unknown) { return String(t) }\n" +
+    "function one(l: Change) { try { return readFileSync(l.root) } catch (t) { return { broken: why(t) } } }\n"
+  expect(walking(body)).toEqual([])
+})
+
+test("a catch binding what it caught and never using it is refused", () => {
+  const body =
+    "function one(l: Change) { try { return readFileSync(l.root) } catch (t) { return null } }\n"
+  expect(walking(body)).toHaveLength(1)
+})
+
+test("a catch carrying what it caught but resuming the walk is refused", () => {
+  const body =
+    "function why(t: unknown) { return String(t) }\n" +
+    "function one(l: Change) { for (const at of l.changed) { try { readFileSync(at) } catch (t) { why(t); continue } } }\n"
+  expect(walking(body)).toHaveLength(1)
+})
+
 test("a binding taken from `createRequire` is a read", () => {
   const body =
     "const loadFrom = createRequire(import.meta.url)\n" +

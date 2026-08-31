@@ -66,8 +66,12 @@ export const noSwallowedRead = {
       statement: "A null answered rather than thrown is followed to the caller reading it.",
     },
     {
-      invariantKind: "gap",
-      statement: "A failure carried out to a refusal is told apart from one dropped.",
+      invariantKind: "departure",
+      statement: "A catch using what it caught is carrying it rather than dropping it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch that never names what it caught has dropped it.",
     },
   ],
 } as const satisfies SyntaxRule

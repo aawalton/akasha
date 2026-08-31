@@ -165,6 +165,13 @@ function endsTheRun(one: ts.Statement, never: ReadonlySet<string>): boolean {
   return false
 }
 
+function carriesTheFault(caught: ts.CatchClause): boolean {
+  const named = caught.variableDeclaration
+  if (named === undefined || !ts.isIdentifier(named.name)) return false
+  const wanted = named.name.text
+  return holdsOne(caught.block, (node) => ts.isIdentifier(node) && node.text === wanted)
+}
+
 function resumesTheWalk(block: ts.Block): string | undefined {
   let said: string | undefined
   const visit = (node: ts.Node): undefined => {
@@ -211,9 +218,9 @@ export function noSwallowedRead(standing: Standing): readonly Refusal[] {
       const said =
         resumed !== undefined
           ? `this catch resumes the walk with \`${resumed}\``
-          : caught.block.statements.some((one) => endsTheRun(one, never))
+          : caught.block.statements.some((one) => endsTheRun(one, never)) || carriesTheFault(caught)
             ? undefined
-            : "this catch neither throws nor ends the run"
+            : "this catch neither ends the run nor carries what it caught"
       if (said !== undefined) {
         found.push({
           line: lineOf(source, caught),
