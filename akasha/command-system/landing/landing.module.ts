@@ -78,8 +78,16 @@ export const landing = {
       statement: "What is put back is the base commit's bodies.",
     },
     {
-      invariantKind: "gap",
-      statement: "The index is not put back with the bodies.",
+      invariantKind: "departure",
+      statement: "The index is put back with the bodies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What was staged for a commit that threw is unstaged with them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repair that fails leaves the fault that caused it to be thrown.",
     },
     {
       invariantKind: "departure",

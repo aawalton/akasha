@@ -121,6 +121,34 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
   )
 }
 
+function reindexed(
+  root: string,
+  changed: readonly FileEdit[],
+  before: ReadonlyMap<string, Uint8Array | null>,
+  keeping: Keeping
+): undefined {
+  const held = keeping(root)
+  for (const one of changed) {
+    const was = textOf(one.body)
+    const back = before.get(one.path) ?? null
+    if (back === null) held.took(one.path, was)
+    else held.wrote(one.path, textIn(back), was)
+  }
+  held.settle()
+}
+
+function unstaged(root: string, changed: readonly FileEdit[]): undefined {
+  gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
+}
+
+function quietly(act: () => undefined): undefined {
+  try {
+    act()
+  } catch {
+    return
+  }
+}
+
 function carriedOnto(root: string, carries: readonly FileCarry[]): () => undefined {
   const gone: FileCarry[] = []
   const back = (): undefined => {
@@ -252,6 +280,8 @@ export function landing(
       }
     } catch (thrown) {
       restored(root, before)
+      quietly(() => reindexed(root, changes, before, keeping))
+      quietly(() => unstaged(root, changes))
       throw thrown
     }
   })
