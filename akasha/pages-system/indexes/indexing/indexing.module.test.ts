@@ -22,14 +22,18 @@ import {
   idFile,
   importFile,
   linesIn,
+  type Named,
   NOTE,
   pathFile,
   put,
+  renamed,
   said,
   schemaFile,
   scratch,
   settled,
   slugFile,
+  stood,
+  thePage,
   tookAway,
   VOCABULARY,
   wroteText,
@@ -181,6 +185,45 @@ test("a retargeted value withdraws the edge it left", () => {
 
   expect(existsSync(edgeFile(root, B, "part-slugs", A))).toBe(false)
   expect(existsSync(edgeFile(root, C, "part-slugs", A))).toBe(true)
+})
+
+const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
+
+const aSource = (slug: string, names: string): Named =>
+  thePage({ id: A, pageTypeSlug: "domain", slug, partSlugs: [`domain/${names}`] })
+
+test("renaming a page and the page naming it by slug leaves no line for where it was", () => {
+  const { tree, root } = grounded()
+  expect(stood(root, tree, [aTarget("was"), aSource("from", "was")])).toEqual([])
+  const edge = edgeFile(root, D, "part-slugs", A)
+  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+
+  renamed(root, tree, [
+    ["was.domain.ts", aTarget("now")],
+    ["from.domain.ts", aSource("to", "now")],
+  ])
+
+  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+})
+
+test("a page moved on its own keeps one edge naming where it moved to", () => {
+  const { tree, root } = grounded()
+  expect(stood(root, tree, [aSource("from", "b")])).toEqual([])
+  const edge = edgeFile(root, B, "part-slugs", A)
+  expect(linesIn(edge)).toEqual(['{"path":"from.domain.ts"}'])
+
+  expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]])).toEqual([])
+
+  expect(linesIn(edge)).toEqual(['{"path":"to.domain.ts"}'])
+})
+
+test("a value the change withdraws that would not resolve before it is reported", () => {
+  const { tree, root } = grounded()
+  expect(stood(root, tree, [aSource("from", "ghost")]).join(" ")).toMatch(/slug `ghost`/)
+
+  expect(renamed(root, tree, [["from.domain.ts", aSource("to", "b")]]).join(" ")).toMatch(
+    /slug `ghost`/
+  )
 })
 
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {

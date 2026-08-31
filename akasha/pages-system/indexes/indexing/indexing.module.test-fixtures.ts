@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { id as idPage } from "../../page/properties/id.text-property.ts"
@@ -61,6 +61,31 @@ export function tookAway(root: string, tree: string, at: string, body: string): 
   const indexing = indexingAt(root, tree)
   indexing.took(at, body)
   indexing.settle()
+}
+
+export function stood(root: string, tree: string, named: readonly Named[]): readonly string[] {
+  const indexing = indexingAt(root, tree)
+  for (const [at, value] of named) {
+    const body = bodyOf(value)
+    indexing.wrote(put(tree, at, body), body, null)
+  }
+  return indexing.settle()
+}
+
+export function renamed(
+  root: string,
+  tree: string,
+  moves: readonly (readonly [string, Named])[]
+): readonly string[] {
+  const indexing = indexingAt(root, tree)
+  for (const [from, [at, value]] of moves) {
+    const gone = join(tree, from)
+    indexing.took(gone, readFileSync(gone, "utf8"))
+    rmSync(gone)
+    const body = bodyOf(value)
+    indexing.wrote(put(tree, at, body), body, null)
+  }
+  return indexing.settle()
 }
 
 export function settled(
