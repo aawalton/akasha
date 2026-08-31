@@ -32,7 +32,7 @@ const TAKE_AWAY = [
 
 const SAY_AGAIN = ["To change what a commit says, land another one with `akasha write`.", HELP]
 
-const OVER_VERBS = new Map<string, readonly string[]>([
+const OVER_ACTS = new Map<string, readonly string[]>([
   [
     "stash",
     [
@@ -103,38 +103,38 @@ const DELETED = [
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses seven git verbs, and three flagged forms of three more.`,
+  `${HOOK} refuses seven git acts, and three flagged forms of three more.`,
   "  stash reset rebase checkout restore clean rm",
   "  commit --amend",
   "  push --force / -f / --force-with-lease / --force-if-includes",
   "  branch -D / branch --delete --force",
   "",
   "WHERE THE LIST COMES FROM: nowhere.",
-  "Git names its verbs exactly and classifies none of them by this hazard.",
-  "All seven verbs sit in `list-mainporcelain`, beside status, log, diff and grep.",
-  "`list-worktree` holds two of the seven, plus two verbs that destroy nothing.",
+  "Git names its acts exactly and classifies none of them by this hazard.",
+  "All seven acts sit in `list-mainporcelain`, beside status, log, diff and grep.",
+  "`list-worktree` holds two of the seven, plus two acts that destroy nothing.",
   "Five of the seven sit in no attribute group at all.",
   "Refusing a whole group would refuse ordinary reading.",
-  "The hazard also sits under the verb rather than at it:",
+  "The hazard also sits under the act rather than at it:",
   "  `worktree list` reads and `worktree remove --force` destroys",
   "  `config --get` reads and `config --unset` writes",
-  "No enumeration of verbs can say that.",
+  "No enumeration of acts can say that.",
   "The reason is structural. The hazard is `destroys another agent's uncommitted work in a",
   "worktree several agents share`, and git holds no notion of several agents sharing a",
   "worktree, so it holds no opinion to derive this list from.",
   "This list samples an open world. It does not define one.",
   "",
-  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  git checkout-index -a -f      writes the working tree from the index",
   "  git read-tree -u <tree>       writes the working tree from a tree",
   "  git worktree remove --force   removes a worktree holding uncommitted work",
   "  git update-ref, symbolic-ref, update-index, switch, revert, apply, reflog expire, gc",
-  "  any verb reached through an alias — `git undo` carries the verb `undo`",
-  "  a git call carrying no verb — bare `git`, or global flags alone",
-  "  a verb inside a quoted run, which the dequoting step takes out before the cut",
-  "  a verb in a heredoc body, which that step does not take out, so data naming a verb is",
+  "  any act reached through an alias — `git undo` carries the act `undo`",
+  "  a git call carrying no act — bare `git`, or global flags alone",
+  "  an act inside a quoted run, which the dequoting step takes out before the cut",
+  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
   "  a git call another program builds — `sh -c`, `xargs git`, `make`, a script file",
   "  every way to destroy shared work that is not a git call at all",
@@ -143,9 +143,9 @@ export const SCOPE: readonly string[] = [
   "  `git commit --amend` naming no paths is refused by block-git-writes as well.",
   "  Both refusals are true. Neither of them says the call is safe.",
   "",
-  "The absence of a verb from this list is NOT a finding that it is safe. It is unexamined.",
-  "Do not close a gap here by adding the verb. A denylist over an open hazard family teaches",
-  "its own holes: the refusal is what sends a reader looking for the neighbouring verb it did",
+  "The absence of an act from this list is NOT a finding that it is safe. It is unexamined.",
+  "Do not close a gap here by adding the act. A denylist over an open hazard family teaches",
+  "its own holes: the refusal is what sends a reader looking for the neighbouring act it did",
   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
   "this guard cannot close its class, not an invitation to extend it.",
   "",
@@ -167,11 +167,11 @@ function deletedIn(rest: readonly string[]): boolean {
 }
 
 export function refusalFor(call: GitCall): string | null {
-  const over = OVER_VERBS.get(call.verb)
+  const over = OVER_ACTS.get(call.act)
   if (over !== undefined) return toldOf(HOOK, over)
-  if (call.verb === "commit" && amendedIn(call.rest)) return toldOf(HOOK, AMENDED)
-  if (call.verb === "push" && forcedIn(call.rest)) return toldOf(HOOK, FORCED)
-  if (call.verb === "branch" && deletedIn(call.rest)) return toldOf(HOOK, DELETED)
+  if (call.act === "commit" && amendedIn(call.rest)) return toldOf(HOOK, AMENDED)
+  if (call.act === "push" && forcedIn(call.rest)) return toldOf(HOOK, FORCED)
+  if (call.act === "branch" && deletedIn(call.rest)) return toldOf(HOOK, DELETED)
   return null
 }
 

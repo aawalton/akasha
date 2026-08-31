@@ -26,9 +26,9 @@ test("a commit refusal says what a commit taking akasha content costs", () => {
   expect(refusalIn("git commit")).toContain("leaves the akasha index behind HEAD")
 })
 
-test("every verb it names is refused when the call names no paths", () => {
-  for (const verb of ["commit", "add", "mv", "apply", "am"]) {
-    expect(refusalIn(`git ${verb}`)).not.toBeNull()
+test("every act it names is refused when the call names no paths", () => {
+  for (const act of ["commit", "add", "mv", "apply", "am"]) {
+    expect(refusalIn(`git ${act}`)).not.toBeNull()
   }
 })
 
@@ -141,7 +141,7 @@ test("an akasha command stands aside, and commits for itself", () => {
   expect(refusalIn("akasha index refresh")).toBeNull()
 })
 
-test("a verb this does not name is stood aside from, whatever else it does", () => {
+test("an act this does not name is stood aside from, whatever else it does", () => {
   for (const command of [
     "git rm akasha/one.ts",
     "git checkout -- akasha/one.ts",
@@ -163,11 +163,11 @@ test("sudo, an assignment and a path to git do not hide the call", () => {
   expect(refusalIn("/usr/bin/git commit")).not.toBeNull()
 })
 
-test("a verb inside a quoted payload is not a call, and is stood aside from", () => {
+test("an act inside a quoted payload is not a call, and is stood aside from", () => {
   expect(refusalIn('echo "git commit -am one"')).toBeNull()
 })
 
-test("git carrying no verb is stood aside from", () => {
+test("git carrying no act is stood aside from", () => {
   expect(refusalIn("git")).toBeNull()
   expect(refusalIn("git -C /elsewhere")).toBeNull()
 })
@@ -182,9 +182,9 @@ test("an empty command is stood aside from", () => {
 })
 
 test("refusalFor judges one call, and reads no other word on the line", () => {
-  expect(refusalFor({ verb: "commit", rest: [] })).not.toBeNull()
-  expect(refusalFor({ verb: "commit", rest: ["--", "tools/one.ts"] })).toBeNull()
-  expect(refusalFor({ verb: "status", rest: [] })).toBeNull()
+  expect(refusalFor({ act: "commit", rest: [] })).not.toBeNull()
+  expect(refusalFor({ act: "commit", rest: ["--", "tools/one.ts"] })).toBeNull()
+  expect(refusalFor({ act: "status", rest: [] })).toBeNull()
 })
 
 test("the scope says what it does not reach, and refuses to be extended", () => {
@@ -196,7 +196,7 @@ test("the scope says what it does not reach, and refuses to be extended", () => 
   expect(said).toContain("every writer that is not git")
 })
 
-test("the scope says which verbs it leaves to the other hook, and why", () => {
+test("the scope says which acts it leaves to the other hook, and why", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("block-destructive-git")
   expect(said).toContain("`rm`, `checkout` and `restore`")

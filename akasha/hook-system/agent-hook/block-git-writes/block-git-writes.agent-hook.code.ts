@@ -17,7 +17,7 @@ const COMMANDS = [
   "Say `akasha --help` for what each takes.",
 ]
 
-const OVER_VERBS = new Map<string, readonly string[]>([
+const OVER_ACTS = new Map<string, readonly string[]>([
   [
     "commit",
     [
@@ -87,7 +87,7 @@ const READ_ONLY = new Map<string, readonly string[]>([
 ])
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses five git verbs: commit, add, mv, apply, am.`,
+  `${HOOK} refuses five git acts: commit, add, mv, apply, am.`,
   "A call is let through only when it names paths after `--` and every one of them stands",
   "outside the akasha folder, or when it carries a flag that writes nothing.",
   "",
@@ -109,12 +109,12 @@ export const SCOPE: readonly string[] = [
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  git stash pop, merge, pull, cherry-pick, revert, rebase — each writes tracked content",
   "  git update-index, read-tree, checkout-index, symbolic-ref, update-ref, notes, fast-import",
-  "  git commit-tree piped into git update-ref, which builds a commit naming no verb here",
+  "  git commit-tree piped into git update-ref, which builds a commit naming no act here",
   "  git filter-branch, git replace, git worktree add carrying a checkout",
-  "  any verb reached through an alias — `git ci -am one` carries the verb `ci`",
-  "  a git call carrying no verb — bare `git`, or global flags alone",
-  "  a verb inside a quoted run, which the dequoting step takes out before the cut",
-  "  a verb in a heredoc body, which that step does not take out, so data naming a verb is",
+  "  any act reached through an alias — `git ci -am one` carries the act `ci`",
+  "  a git call carrying no act — bare `git`, or global flags alone",
+  "  an act inside a quoted run, which the dequoting step takes out before the cut",
+  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
   "  a git call another program builds — `sh -c`, `xargs git commit`, `make`, a script file",
   "  every writer that is not git — `cp`, `mv`, a redirect, `sed -i`, an editor, a test",
@@ -123,13 +123,13 @@ export const SCOPE: readonly string[] = [
   "  It bounds a call by the paths it names, never by where the call runs.",
   `  \`git -C /elsewhere commit ${PATHS} one.ts\` is let through, and \`/elsewhere\` is not read.`,
   "  A call in another repository is refused the same as one here, and `-C` is read only far",
-  "    enough to find the verb behind it.",
+  "    enough to find the act behind it.",
   "  A path is judged by its own words. A segment `akasha` means inside.",
   "  `../akasha/one.ts` and `.` and `*` and a pathspec magic word are read as unbounded.",
   "  An absolute path into this repository carries an `akasha` segment for the repository's",
   "    own directory, so it reads as inside and is refused. That is over-refusal, not a gap.",
   "",
-  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT NAMED HERE ON PURPOSE:",
   "  `rm`, `checkout` and `restore` write tracked akasha content, and this does not name them.",
@@ -139,9 +139,9 @@ export const SCOPE: readonly string[] = [
   "  `git commit --amend` is refused here when it is unbounded, and by block-destructive-git",
   "  always. Both refusals are true. Neither of them says the call is safe.",
   "",
-  "The absence of a verb from this list is NOT a finding that it is safe. It is unexamined.",
-  "Do not close a gap here by adding the verb. A denylist over an open hazard family teaches",
-  "its own holes: the refusal is what sends a reader looking for the neighbouring verb it did",
+  "The absence of an act from this list is NOT a finding that it is safe. It is unexamined.",
+  "Do not close a gap here by adding the act. A denylist over an open hazard family teaches",
+  "its own holes: the refusal is what sends a reader looking for the neighbouring act it did",
   "not name, and a longer list is a longer search prompt. A gap found here is evidence that",
   "this guard cannot close its class, not an invitation to extend it.",
   "",
@@ -167,11 +167,11 @@ export function bounded(rest: readonly string[]): boolean {
 }
 
 export function refusalFor(call: GitCall): string | null {
-  const over = OVER_VERBS.get(call.verb)
+  const over = OVER_ACTS.get(call.act)
   if (over === undefined) return null
-  const reads = READ_ONLY.get(call.verb) ?? []
+  const reads = READ_ONLY.get(call.act) ?? []
   if (call.rest.some((word) => reads.includes(word))) return null
-  if (BOUNDABLE.includes(call.verb) && bounded(call.rest)) return null
+  if (BOUNDABLE.includes(call.act) && bounded(call.rest)) return null
   return toldOf(HOOK, over)
 }
 

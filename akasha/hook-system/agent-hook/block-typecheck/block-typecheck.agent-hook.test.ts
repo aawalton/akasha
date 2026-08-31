@@ -57,7 +57,7 @@ test("the bun refusal names what a script compiles rather than the empty root", 
   expect(said).toContain("akasha audit --check typecheck")
 })
 
-test("another bun verb and another script are let through", () => {
+test("another bun act and another script are let through", () => {
   expect(judged("bun run build")).toBeNull()
   expect(judged("bun tools/run-checks.ts")).toBeNull()
   expect(judged("bun run lint")).toBeNull()

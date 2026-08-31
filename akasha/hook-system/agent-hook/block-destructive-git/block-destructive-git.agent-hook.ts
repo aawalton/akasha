@@ -12,7 +12,7 @@ export const blockDestructiveGit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A verb named here is refused wherever it stands.",
+      statement: "An act named here is refused wherever it stands.",
     },
     {
       invariantKind: "departure",
@@ -32,11 +32,11 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "absence",
-      statement: "A verb this does not name is unexamined rather than safe.",
+      statement: "An act this does not name is unexamined rather than safe.",
     },
     {
       invariantKind: "constraint",
-      statement: "Git classifies no verb by this hazard.",
+      statement: "Git classifies no act by this hazard.",
     },
     {
       invariantKind: "constraint",

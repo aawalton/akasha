@@ -42,7 +42,7 @@ export const SCOPE: readonly string[] = [
   "    checked as usual. A second worktree of this repository is not guarded from here either.",
   "  A call stating no working directory is judged as though it ran here.",
   "",
-  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  a package script reaching biome. A script carries no `biome` word for this to read, so it",

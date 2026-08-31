@@ -5,15 +5,15 @@ import { refusalFor, refusalIn, SCOPE } from "./block-destructive-git.agent-hook
 
 const SCRIPT = join(import.meta.dir, "block-destructive-git.agent-hook.code.ts")
 
-const VERBS = ["stash", "reset", "rebase", "checkout", "restore", "clean", "rm"]
+const ACTS = ["stash", "reset", "rebase", "checkout", "restore", "clean", "rm"]
 
-test("every verb it names is refused on its own", () => {
-  for (const verb of VERBS) {
-    expect(refusalIn(`git ${verb}`)).not.toBeNull()
+test("every act it names is refused on its own", () => {
+  for (const act of ACTS) {
+    expect(refusalIn(`git ${act}`)).not.toBeNull()
   }
 })
 
-test("a verb it names is refused whatever follows it, and no path narrows it", () => {
+test("an act it names is refused whatever follows it, and no path narrows it", () => {
   expect(refusalIn("git reset --hard")).not.toBeNull()
   expect(refusalIn("git reset --soft HEAD~1")).not.toBeNull()
   expect(refusalIn("git checkout -- tools/one.ts")).not.toBeNull()
@@ -109,7 +109,7 @@ test("a read is stood aside from", () => {
   }
 })
 
-test("an akasha command stands aside, whatever verb its words carry", () => {
+test("an akasha command stands aside, whatever act its words carry", () => {
   expect(
     refusalIn(
       'akasha write --file-path akasha/one.ts --content-file /tmp/one --message "reset the thing"'
@@ -118,7 +118,7 @@ test("an akasha command stands aside, whatever verb its words carry", () => {
   expect(refusalIn("akasha remove --file-path akasha/one.ts")).toBeNull()
 })
 
-test("a command that is not git carrying a named verb stands aside", () => {
+test("a command that is not git carrying a named act stands aside", () => {
   expect(refusalIn("rm -rf one")).toBeNull()
   expect(refusalIn("echo reset")).toBeNull()
 })
@@ -135,12 +135,12 @@ test("a path to git does not hide the call", () => {
   expect(refusalIn("/usr/bin/git stash")).not.toBeNull()
 })
 
-test("a verb inside a quoted payload is not a call, and is stood aside from", () => {
+test("an act inside a quoted payload is not a call, and is stood aside from", () => {
   expect(refusalIn('echo "git reset --hard"')).toBeNull()
   expect(refusalIn("git commit -m 'git reset --hard'")).toBeNull()
 })
 
-test("git carrying no verb is stood aside from", () => {
+test("git carrying no act is stood aside from", () => {
   expect(refusalIn("git")).toBeNull()
   expect(refusalIn("git --no-pager")).toBeNull()
   expect(refusalIn("git -C /elsewhere")).toBeNull()
@@ -160,8 +160,8 @@ test("the first refusal on a line is the one given", () => {
 })
 
 test("refusalFor judges one call, and reads no other word on the line", () => {
-  expect(refusalFor({ verb: "stash", rest: [] })).not.toBeNull()
-  expect(refusalFor({ verb: "status", rest: [] })).toBeNull()
+  expect(refusalFor({ act: "stash", rest: [] })).not.toBeNull()
+  expect(refusalFor({ act: "status", rest: [] })).toBeNull()
 })
 
 test("an empty command is stood aside from", () => {
@@ -181,9 +181,9 @@ test("the scope names the overlap with the other hook rather than hiding it", ()
   expect(SCOPE.join("\n")).toContain("block-git-writes")
 })
 
-test("the scope names every verb the hook refuses", () => {
+test("the scope names every act the hook refuses", () => {
   const said = SCOPE.join("\n")
-  for (const verb of VERBS) expect(said).toContain(verb)
+  for (const act of ACTS) expect(said).toContain(act)
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
@@ -209,5 +209,5 @@ test("a payload that will not parse lets the call through rather than refusing i
 test("the hook prints its scope when it is asked", () => {
   const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
   expect(ran.exitCode).toBe(0)
-  for (const verb of VERBS) expect(ran.stdout.toString()).toContain(verb)
+  for (const act of ACTS) expect(ran.stdout.toString()).toContain(act)
 })

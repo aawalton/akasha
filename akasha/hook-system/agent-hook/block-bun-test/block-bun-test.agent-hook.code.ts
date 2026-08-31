@@ -48,7 +48,7 @@ const REACHING = [
 ]
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses two forms of one verb, \`bun test\`:`,
+  `${HOOK} refuses two forms of one act, \`bun test\`:`,
   "  naming no path, which runs every test in this repository",
   "  naming a path that reaches the akasha folder, which the akasha commands run instead",
   "A call naming only paths outside the akasha folder is let through.",
@@ -70,7 +70,7 @@ export const SCOPE: readonly string[] = [
   "    from here either, which is the same bound `block-akasha-edits` carries.",
   "  A call stating no working directory is judged as though it ran here.",
   "",
-  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `bun run test`, and every package script that reaches a test runner",
@@ -79,8 +79,8 @@ export const SCOPE: readonly string[] = [
   "    anywhere in a path: `bun test command-system` reaches akasha and is let through. That is",
   "    a gap, not a rule, and it is why this guard cannot close its class.",
   "  a call another program builds — `sh -c`, `xargs bun`, `make`, a script file",
-  "  a verb inside a quoted run, which the dequoting step takes out before the cut",
-  "  a verb in a heredoc body, which that step does not take out, so data naming a verb is",
+  "  an act inside a quoted run, which the dequoting step takes out before the cut",
+  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
   "    refused as though it were a command",
   "",
   "The absence of a runner from this list is NOT a finding that it is safe. It is unexamined.",
@@ -116,7 +116,7 @@ export function filtersOf(rest: readonly string[]): readonly string[] {
 }
 
 export function refusalFor(call: BunCall): string | null {
-  if (call.verb !== RUNS) return null
+  if (call.act !== RUNS) return null
   const filters = filtersOf(call.rest)
   if (filters.length === 0) return toldOf(HOOK, UNBOUNDED)
   return filters.some(reachesAkasha) ? toldOf(HOOK, REACHING) : null

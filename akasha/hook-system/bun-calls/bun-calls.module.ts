@@ -22,19 +22,19 @@ export const bunCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "That word is no verb.",
+      statement: "That word is no act.",
     },
     {
       invariantKind: "departure",
-      statement: "What follows the verb is returned unread.",
+      statement: "What follows the act is returned unread.",
     },
     {
       invariantKind: "departure",
-      statement: "A command carrying no verb is no call here.",
+      statement: "A command carrying no act is no call here.",
     },
     {
       invariantKind: "absence",
-      statement: "A verb is read here rather than judged.",
+      statement: "An act is read here rather than judged.",
     },
     {
       invariantKind: "absence",

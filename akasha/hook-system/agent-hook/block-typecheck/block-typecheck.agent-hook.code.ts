@@ -72,7 +72,7 @@ export const SCOPE: readonly string[] = [
   "    checked as usual. A second worktree of this repository is not guarded from here either.",
   "  A call stating no working directory is judged as though it ran here.",
   "",
-  "A refusal answers the whole call. One refused verb in a chain refuses every command in it.",
+  "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `vue-tsc`, `tsgo`, `ts-node --type-check`, and every other compiler under another name",
@@ -111,8 +111,8 @@ export function tscIn(segment: string): boolean {
 }
 
 export function refusalFor(call: BunCall): string | null {
-  if (call.verb === RUNS) return BUN_REFUSAL
-  if (call.verb !== RUN) return null
+  if (call.act === RUNS) return BUN_REFUSAL
+  if (call.act !== RUN) return null
   return call.rest[0] === RUNS ? BUN_REFUSAL : null
 }
 

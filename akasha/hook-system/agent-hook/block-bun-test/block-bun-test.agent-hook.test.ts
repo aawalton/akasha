@@ -86,7 +86,7 @@ test("a flag's value is never read as a path", () => {
   expect(filtersOf(["--coverage", "shared/one"])).toEqual(["shared/one"])
 })
 
-test("a bun verb this hook does not name is stood aside", () => {
+test("a bun act this hook does not name is stood aside", () => {
   for (const one of ["bun install", "bun run build", "bun x tsc", "bun one.ts"]) {
     expect(judged(one)).toBeNull()
   }
@@ -102,12 +102,12 @@ test("a runner that is not bun is stood aside", () => {
   }
 })
 
-test("a refusal answers the whole call, wherever the verb stands in the chain", () => {
+test("a refusal answers the whole call, wherever the act stands in the chain", () => {
   expect(judged("ls && bun test")).not.toBeNull()
   expect(judged("bun test akasha/ ; echo done")).not.toBeNull()
 })
 
-test("a verb inside a quoted run is not read as a call", () => {
+test("an act inside a quoted run is not read as a call", () => {
   expect(judged('echo "bun test"')).toBeNull()
 })
 

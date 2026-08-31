@@ -22,19 +22,19 @@ export const gitCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "That word is no verb.",
+      statement: "That word is no act.",
     },
     {
       invariantKind: "departure",
-      statement: "A command carrying no verb is no call here.",
+      statement: "A command carrying no act is no call here.",
     },
     {
       invariantKind: "departure",
-      statement: "A word this names as another tool is no git call whatever its verb reads as.",
+      statement: "A word this names as another tool is no git call whatever its act reads as.",
     },
     {
       invariantKind: "absence",
-      statement: "A verb is read here rather than judged.",
+      statement: "An act is read here rather than judged.",
     },
     {
       invariantKind: "absence",
@@ -46,7 +46,7 @@ export const gitCalls = {
     },
     {
       invariantKind: "gap",
-      statement: "A hook reads a git verb out of a command line without writing a shell parser.",
+      statement: "A hook reads a git act out of a command line without writing a shell parser.",
     },
   ],
 } as const satisfies Module

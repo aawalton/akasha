@@ -21,7 +21,7 @@ const TAKES_A_VALUE: readonly string[] = [
 ]
 
 export type BunCall = {
-  readonly verb: string
+  readonly act: string
   readonly rest: readonly string[]
 }
 
@@ -40,8 +40,8 @@ export function bunCallIn(segment: string): BunCall | null {
     if (!one.startsWith("-")) break
     at += 1
   }
-  const verb = after[at]
-  return verb === undefined ? null : { verb, rest: after.slice(at + 1) }
+  const act = after[at]
+  return act === undefined ? null : { act, rest: after.slice(at + 1) }
 }
 
 export function bunCallsIn(command: string): readonly BunCall[] {
