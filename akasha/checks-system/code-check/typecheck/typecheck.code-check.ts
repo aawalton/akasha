@@ -14,10 +14,6 @@ export const typecheck = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "The settings the compiler runs under are stated here.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A type holds or fails across files.",
     },

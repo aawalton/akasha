@@ -17,6 +17,7 @@ export const codeSystem = {
     "module/code-specifier",
     "module/code-rule",
     "module/code-source",
+    "module/code-typing",
     "module/code-tests",
     "module/code-format",
     "module/code-lint",

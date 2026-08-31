@@ -1,7 +1,12 @@
-import { dirname, join, resolve } from "node:path"
+import { resolve } from "node:path"
 import ts from "typescript"
 import { textIn } from "../../../code-system/body-text/body-text.module.code.ts"
 import { lineAt, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
+import {
+  compiled,
+  insideOf,
+  programOver,
+} from "../../../code-system/code-typing/code-typing.module.code.ts"
 import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
 import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
@@ -13,38 +18,15 @@ import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-n
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
-const TS = ".ts"
-
-const AKASHA = "akasha"
-
-const INSIDE = `${AKASHA}/`
-
-const PACKAGES = "node_modules"
-
 const IMPORT = importEdge.slug
 
 const ELSEWHERE = "the akasha folder does not compile as this change leaves it"
 
 const OMIT = "Omit"
 
-export const SETTINGS: ts.CompilerOptions = {
-  noEmit: true,
-  strict: true,
-  noUncheckedIndexedAccess: true,
-  allowImportingTsExtensions: true,
-  module: ts.ModuleKind.Preserve,
-  moduleResolution: ts.ModuleResolutionKind.Bundler,
-  target: ts.ScriptTarget.ESNext,
-  skipLibCheck: true,
-}
-
 export type Found = {
   readonly path: string
   readonly reason: string
-}
-
-export function compiled(path: string): boolean {
-  return path.endsWith(TS) && path.startsWith(INSIDE) && !path.includes(`/${PACKAGES}/`)
 }
 
 export function reachedBy(change: Change, reading?: Reading): readonly string[] {
@@ -53,14 +35,6 @@ export function reachedBy(change: Change, reading?: Reading): readonly string[] 
 
 export function rootsOf(change: Change, reading?: Reading): readonly string[] {
   return reachedBy(change, reading).filter((one) => change.after(one) !== null)
-}
-
-export function insideOf(root: string, at: string): string | null {
-  if (!at.endsWith(TS)) return null
-  if (at.includes(`/${PACKAGES}/`)) return null
-  if (!at.startsWith(`${root}/`)) return null
-  const rel = at.slice(root.length + 1)
-  return rel.startsWith(INSIDE) ? rel : null
 }
 
 export type Minting = (path: string, text: string) => string
@@ -112,41 +86,6 @@ export function bodiesOf(change: Change, minting: Minting): (at: string) => stri
   }
 }
 
-function directoriesIn(root: string, every: readonly string[]): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const one of every) {
-    let at = dirname(join(root, one))
-    while (at !== "/" && !held.has(at)) {
-      held.add(at)
-      at = dirname(at)
-    }
-  }
-  return held
-}
-
-export function hostOver(
-  change: Change,
-  read: (at: string) => string | undefined,
-  every: readonly string[]
-): ts.CompilerHost {
-  const base = ts.createCompilerHost(SETTINGS, true)
-  const root = resolve(change.root)
-  const dirs = directoriesIn(root, every)
-  return {
-    ...base,
-    getCurrentDirectory: () => root,
-    fileExists: (path) =>
-      insideOf(root, resolve(path)) === null ? ts.sys.fileExists(path) : read(path) !== undefined,
-    directoryExists: (path) => dirs.has(resolve(path)) || ts.sys.directoryExists(path),
-    readFile: read,
-    getSourceFile: (path, language) => {
-      if (insideOf(root, resolve(path)) === null) return base.getSourceFile(path, language)
-      const body = read(path)
-      return body === undefined ? undefined : ts.createSourceFile(path, body, language, true)
-    },
-  }
-}
-
 export function foundOf(root: string, said: ts.Diagnostic): Found {
   const text = ts.flattenDiagnosticMessageText(said.messageText, " ")
   if (said.file === undefined || said.start === undefined) {
@@ -168,11 +107,7 @@ export function foundIn(change: Change, shadow: Shadow): readonly Found[] {
   const root = resolve(change.root)
   const keys = [...waitingProperties(shadow)].map(exportedAs)
   const read = bodiesOf(change, mintingIn(change, keys, shadow.reading))
-  const program = ts.createProgram({
-    rootNames: roots.map((one) => join(root, one)),
-    options: SETTINGS,
-    host: hostOver(change, read, roots),
-  })
+  const program = programOver(root, roots, read)
   const held = new Map<string, ts.SourceFile>()
   for (const file of program.getSourceFiles()) {
     const at = insideOf(root, resolve(file.fileName))
