@@ -16,6 +16,7 @@ export const iosComponent = {
     "ios-component/categorize-ring",
     "ios-component/ring",
     "ios-component/safety-ring",
+    "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
     "file-property/swift",
