@@ -1,5 +1,5 @@
 import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { slugStated } from "../../seat-stated/seat-stated.module.code.ts"
+import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
 import type { Knowing, Warrant } from "../../warranting/warranting.module.code.ts"
 import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
 

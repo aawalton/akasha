@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { seatStanding } from "../warrant-scratch/warrant-scratch.module.code.ts"
-import { slugStated, typeStated } from "./seat-stated.module.code.ts"
+import { slugStated, typeStated } from "./agent-stated.module.code.ts"
 
 const scratch = scratchWorld()
 

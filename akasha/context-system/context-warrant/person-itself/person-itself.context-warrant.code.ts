@@ -1,5 +1,5 @@
 import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { slugStated } from "../../seat-stated/seat-stated.module.code.ts"
+import { slugStated } from "../../agent-stated/agent-stated.module.code.ts"
 import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const PERSON =

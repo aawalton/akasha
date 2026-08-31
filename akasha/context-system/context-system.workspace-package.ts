@@ -8,7 +8,7 @@ export const contextSystem = {
   manifest: "json",
   partSlugs: [
     "page-type/context-warrant",
-    "module/seat-stated",
+    "module/agent-stated",
     "module/warrant-scratch",
     "module/warranting",
   ],
