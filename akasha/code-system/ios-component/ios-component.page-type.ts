@@ -36,8 +36,8 @@ export const iosComponent = {
       statement: "Xcode compiles it.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The ring components also stand under ios-widget/ring.",
+      invariantKind: "departure",
+      statement: "A shell's seam copies these into the widget extension it builds.",
     },
   ],
 } as const satisfies PageType

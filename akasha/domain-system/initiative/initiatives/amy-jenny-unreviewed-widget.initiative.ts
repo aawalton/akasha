@@ -10,14 +10,6 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Alan's iOS app is built from akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Jenny's iOS app is built from akasha.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Alan's site deploys from akasha.",
     },
     {
@@ -67,7 +59,6 @@ export const amyJennyUnreviewedWidget = {
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`, so the device secret half of the guard stayed out of akasha rather than being carried in broken.",
     "The route cannot move before the credential, the readers it uses and the reading itself, and its generated `+types` import cannot move at all until the web app does.",
-    "Every tool that builds a widget copies one flat directory of shared Swift, and akasha gives each component a folder of its own, so building an app from akasha changes how the copy is made rather than where it points.",
     "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
   ],
 } as const satisfies Initiative
