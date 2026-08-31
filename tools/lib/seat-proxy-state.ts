@@ -1,6 +1,7 @@
 import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 import { formatSeatProcKey, parseSeatProcKey, readProcStartTicks } from "./seat-proc-key.ts"
 import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
 
 export interface OAuthProxyStateToWrite {
@@ -13,10 +14,19 @@ export interface OAuthProxyState extends OAuthProxyStateToWrite {
   readonly supervisorPid?: number
 }
 
-export function readProxyState(agentId: string): OAuthProxyState | null {
+// BOTH STORES, THE OLD ONE WINNING KEY BY KEY. A proxy is cleared by writing null rather than by
+// dropping it, so a null the old store holds must beat whatever akasha still carries. What akasha
+// alone holds is a seat whose old page has gone.
+function observedOf(agentId: string): Record<string, unknown> | null {
   const seatName = seatNameForAgent(agentId)
-  if (seatName === null) return null
-  const held = readUncommitted(seatPageDestination(seatName))
+  const held = seatName === null ? null : readUncommitted(seatPageDestination(seatName))
+  const also = akashaObservedOf(agentId)
+  if (also === null) return held
+  return held === null ? also : { ...also, ...held }
+}
+
+export function readProxyState(agentId: string): OAuthProxyState | null {
+  const held = observedOf(agentId)
   if (held === null) return null
   const proc = parseSeatProcKey(String(held["proxy-process"] ?? ""))
   const port = held["proxy-port"]

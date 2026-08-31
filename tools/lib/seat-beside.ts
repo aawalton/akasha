@@ -9,6 +9,7 @@ import {
   dropUncommitted,
   patchUncommitted,
   patchUncommittedUnder,
+  readUncommitted,
   removeUncommitted,
 } from "../../page/uncommitted/uncommitted.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
@@ -63,7 +64,7 @@ const PENDING = "turn-pending"
 // dropped by a condition written for one key. `turn-working` is absent because akasha declares no
 // such property, and writing it there would land under a name nothing checks: it is carried by
 // adding the property first and a line here second.
-const RECORDS: Readonly<Record<string, string>> = {
+export const RECORDS: Readonly<Record<string, string>> = {
   [PENDING]: "turnPending",
 }
 
@@ -160,11 +161,23 @@ export function keepBeside(page: string, values: Beside): void {
   alsoInAkasha(page, values)
 }
 
+// A RECORD REACHES AKASHA WHOLE, AND THE CALLER NAMES ONLY WHAT IT IS CHANGING. The old store
+// merges within the key and akasha's merges at the top of the page, so carrying just the named
+// fields takes the rest of the record away. It did: every seat's turn stood on four fields in the
+// old store and on whichever one was written last in akasha.
+//
+// So the record is read back from the old store after the patch rather than assembled from what was
+// passed in. That read is the merge already done, which is why it is taken from there rather than
+// folded together here a second time.
 export function keepBesideUnder(page: string, key: string, values: Beside): void {
   patchUncommittedUnder(page, key, values)
   if (RECORDS[key] === undefined) return
+  const whole = readUncommitted(page)?.[key]
+  const from = (
+    whole === null || typeof whole !== "object" || Array.isArray(whole) ? values : whole
+  ) as Record<string, unknown>
   const under: Beside = {}
-  for (const [name, value] of Object.entries(values)) under[camel(name)] = bare(value)
+  for (const [name, value] of Object.entries(from)) under[camel(name)] = bare(value)
   alsoInAkasha(page, { [key]: under })
 }
 

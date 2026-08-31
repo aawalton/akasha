@@ -12,7 +12,7 @@ import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/pag
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import { CARRIED } from "./seat-beside.ts"
+import { CARRIED, RECORDS } from "./seat-beside.ts"
 import type { SeatRecord } from "./seat-record.ts"
 
 // What is observed of a seat stands beside its page in akasha. Reaching it through the old page
@@ -138,6 +138,38 @@ export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | n
   const slug = values[SLUG]
   if (typeof slug === "string" && values[TITLE] === undefined) values[TITLE] = slug
   return values
+}
+
+// The old store keeps an instant as milliseconds and akasha writes it as ISO 8601, so a value
+// carried out through `CARRIED` is carried back the same way. A reader taking this instead of the
+// raw sidecar must not have to know which of the two it is holding.
+function asOldKind(held: unknown, kind: string): unknown {
+  if (kind !== "instant") return held
+  if (typeof held !== "string") return held
+  const ms = Date.parse(held)
+  return Number.isFinite(ms) ? ms : null
+}
+
+// EVERY VALUE AKASHA HOLDS BESIDE A SEAT, UNDER THE KEYS THE OLD SIDECAR CARRIED. `CARRIED` and
+// `RECORDS` walked the other way, so a reader that took the raw sidecar can take this instead
+// without learning akasha's names. What akasha does not carry is absent here rather than null,
+// which lets a caller lay the old sidecar over the top and have a value it holds win.
+//
+// `context-replaced` is left out: it is the one key the old store stamps and reads back as a pair,
+// and `akashaSeatRecordOf` answers it in that shape already.
+export function akashaObservedOf(agentId: string): Record<string, unknown> | null {
+  const values = akashaBesideOf(agentId)
+  if (values === null) return null
+  const held: Record<string, unknown> = {}
+  for (const [key, where] of Object.entries(CARRIED)) {
+    const said = asOldKind(heldAt(values, where.at), where.kind)
+    if (said !== undefined && said !== null) held[key] = said
+  }
+  for (const [key, name] of Object.entries(RECORDS)) {
+    const said = values[name]
+    if (said !== undefined && said !== null) held[key] = said
+  }
+  return held
 }
 
 const REPLACED = "context-replaced"
