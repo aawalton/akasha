@@ -4,7 +4,6 @@ import type { Standing } from "../../../pages-system/indexes/index-reading/index
 import {
   everyPath,
   importersOf,
-  namersOf,
   standingByPathAnswered,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { besideOf } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
@@ -31,6 +30,14 @@ import {
   messageIn,
   pathInside,
 } from "../write/write.command.code.ts"
+import type { Renaming } from "./move-renaming/move-renaming.module.code.ts"
+import {
+  addressingOver,
+  besideRenamed,
+  renamingFor,
+  respelled,
+  restated,
+} from "./move-renaming/move-renaming.module.code.ts"
 import { repointed } from "./move-repointing/move-repointing.module.code.ts"
 
 const AKASHA = "akasha"
@@ -104,7 +111,7 @@ export function pairsIn(argv: readonly string[]): Read {
   return { pairs, dryRun }
 }
 
-export type Naming = { readonly names: readonly string[] } | { readonly unread: string }
+export type Naming = { readonly held: Standing | null } | { readonly unread: string }
 
 export function namingOf(root: string, path: string): Naming {
   let standing: readonly Standing[]
@@ -120,11 +127,10 @@ export function namingOf(root: string, path: string): Naming {
         "could not be answered",
     }
   }
-  const held = standing[0]
-  if (held === undefined) return { names: [] }
-  const found = new Set(namersOf(root, held.id).map((one) => `${one.path} (${one.propertySlug})`))
-  return { names: [...found].sort() }
+  return { held: standing[0] ?? null }
 }
+
+const NOTHING_SAID: ReadonlyMap<string, string> = new Map()
 
 export type Reading = { readonly importers: readonly string[] } | { readonly unread: string }
 
@@ -170,6 +176,7 @@ type Sided = {
   readonly to: string
   readonly named: boolean
   readonly committed: boolean
+  readonly renaming: Renaming | null
 }
 
 type Reached = {
@@ -215,19 +222,25 @@ function sidedIn(
       refusals.push(`${to} already stands, and a move writes over nothing`)
       continue
     }
+    let renaming: Renaming | null = null
     if (basename(from) !== basename(to)) {
       const naming = namingOf(root, from)
-      const among =
-        "unread" in naming
-          ? naming.unread
-          : naming.names.length === 0
-            ? "the index shows no page naming it"
-            : `these name it — ${naming.names.join(", ")}`
-      refusals.push(
-        `${from} would arrive called \`${basename(to)}\` — a move carries a body as it stands, and a ` +
-          `page states its own slug and is named by that slug, so renaming is not a move (${among})`
-      )
-      continue
+      if ("unread" in naming) {
+        refusals.push(naming.unread)
+        continue
+      }
+      if (naming.held === null || naming.held.path !== from) {
+        refusals.push(
+          `${from} is no page's own file, and the one name a move changes is a page's own slug`
+        )
+        continue
+      }
+      const asked = renamingFor(from, to, naming.held.id)
+      if ("refused" in asked) {
+        refusals.push(asked.refused)
+        continue
+      }
+      renaming = asked.renaming
     }
     if (seen.has(from)) {
       refusals.push(`${from} is named as the source of more than one pair`)
@@ -239,17 +252,24 @@ function sidedIn(
     }
     seen.add(from)
     taken.add(to)
-    sides.push({ from, to, named: true, committed: true })
+    sides.push({ from, to, named: true, committed: true, renaming })
     for (const held of besideOf(root, from)) {
       if (seen.has(held)) continue
       seen.add(held)
-      const there = join(dirname(to), basename(held))
+      const name = basename(held)
+      const there = join(dirname(to), renaming === null ? name : besideRenamed(name, renaming))
       if (existsSync(join(root, there))) {
         refusals.push(`${there} already stands, and the sidecar ${held} goes with what you named`)
         continue
       }
       taken.add(there)
-      sides.push({ from: held, to: there, named: false, committed: !uncommittedNamed(held) })
+      sides.push({
+        from: held,
+        to: there,
+        named: false,
+        committed: !uncommittedNamed(held),
+        renaming: null,
+      })
     }
   }
   if (refusals.length > 0) return { refusals }
@@ -297,6 +317,12 @@ export function move(argv: readonly string[], given: Given): Answer {
   const sided = sidedIn(root, read.pairs)
   if ("refusals" in sided) return answering([], sided.refusals, 1)
   const moved = new Map<string, string>(sided.sides.map((one) => [one.from, one.to]))
+  const bodyText = (path: string): string | null => {
+    const bytes = bodyAt(root, stood, path)
+    return bytes === null ? null : textOf(bytes)
+  }
+  const renamings = sided.sides.flatMap((one) => (one.renaming === null ? [] : [one.renaming]))
+  const addressing = addressingOver(root, renamings, bodyText)
   const changes: FileEdit[] = []
   const carries: Carry[] = []
   const uncommitted: FileCarry[] = []
@@ -329,38 +355,50 @@ export function move(argv: readonly string[], given: Given): Answer {
         2
       )
     }
-    changes.push({
-      path: one.to,
-      body: new TextEncoder().encode(repointed(one.from, one.to, text, moved)),
-      carried: true,
-    })
-    changes.push({ path: one.from, body: null })
-  }
-  const reading = importingOf(root, moved)
-  const repointing: string[] = []
-  if ("importers" in reading) {
-    const naming = new Set<string>(reading.importers)
-    for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
-    for (const path of [...naming].sort()) {
-      if (!path.endsWith(TS)) continue
-      const held = bodyAt(root, stood, path)
-      if (held === null) continue
-      const text = textOf(held)
-      if (text === null) {
+    const said = repointed(one.from, one.to, text, moved)
+    let next = respelled(one.to, said, addressing.get(one.from) ?? NOTHING_SAID)
+    const renaming = one.renaming
+    if (renaming !== null) {
+      const now = restated(one.to, next, renaming.now)
+      if (now === null) {
         return answering(
           [],
-          [
-            `${path} names what moved and its bytes are not utf-8, so what it says cannot be repointed`,
-          ],
+          [`${one.from} states no slug, so \`${renaming.now}\` would rename nothing`],
           2
         )
       }
-      const next = repointed(path, path, text, moved)
-      if (next === text) continue
-      repointing.push(path)
-      carries.push({ was: path, now: path, from: blobIdOf(held) })
-      changes.push({ path, body: new TextEncoder().encode(next), carried: true })
+      next = now
     }
+    changes.push({ path: one.to, body: new TextEncoder().encode(next), carried: true })
+    changes.push({ path: one.from, body: null })
+  }
+  const reading = importingOf(root, moved)
+  const naming = new Set<string>("importers" in reading ? reading.importers : [])
+  for (const path of addressing.keys()) naming.add(path)
+  if ("importers" in reading) {
+    for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
+  }
+  const repointing: string[] = []
+  for (const path of [...naming].sort()) {
+    if (!path.endsWith(TS) || moved.has(path)) continue
+    const held = bodyAt(root, stood, path)
+    if (held === null) continue
+    const text = textOf(held)
+    if (text === null) {
+      return answering(
+        [],
+        [
+          `${path} names what moved and its bytes are not utf-8, so what it says cannot be repointed`,
+        ],
+        2
+      )
+    }
+    const said = repointed(path, path, text, moved)
+    const next = respelled(path, said, addressing.get(path) ?? NOTHING_SAID)
+    if (next === text) continue
+    repointing.push(path)
+    carries.push({ was: path, now: path, from: blobIdOf(held) })
+    changes.push({ path, body: new TextEncoder().encode(next), carried: true })
   }
   const reached: Reached = {
     repointed: repointing,

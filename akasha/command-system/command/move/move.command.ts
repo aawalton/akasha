@@ -13,7 +13,7 @@ export const move = {
   partSlugs: ["module/move-renaming", "module/move-repointing"],
   taking: [
     { said: "--from <path>", takes: "the path a body stands at now" },
-    { said: "--to <path>", takes: "the path it arrives at, called the same name" },
+    { said: "--to <path>", takes: "the path it arrives at" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -21,7 +21,8 @@ export const move = {
   ],
   helpNotes: [
     "--from and --to repeat in pairs, so several bodies move in one commit.",
-    "a page states its own slug, so a move carries a body and never renames it.",
+    "a page's own file arriving called something else renames the slug the page states.",
+    "what addresses a renamed page by its slug is repointed in the same commit.",
     "the files standing beside what you name go with it.",
     "the files naming what moves are repointed in the same commit.",
     "a path is read against the repository root, wherever the call was made.",
@@ -62,7 +63,48 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A move changes where a file stands rather than what it is called.",
+      statement: "A file that is no page's own arrives under the name it already has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's own file arriving called something else renames that page's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename keeps the tail the file already carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type's slug is not renamed by a move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A renamed page states the new slug in its own body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A renamed page's value is bound to the name that slug makes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file standing beside a renamed page arrives under the new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page addressing a renamed page is repointed in the same commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages address it is read from the index as it stands before the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a rename leaves an edge naming nobody is answered by the checks rather than here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name a page imports a renamed page's value by is left as it stands.",
     },
     {
       invariantKind: "departure",
