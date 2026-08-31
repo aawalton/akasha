@@ -3,14 +3,14 @@ import { basename, join } from "node:path"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { edgesIn } from "../../../pages-system/indexes/index/index-import/index-import.index.code.ts"
 import {
-  filePropertiesAnswered,
+  filePropertiesAt,
   pageTypesIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  everyPathAnswered,
+  everyOfType,
+  everyPath,
   importersOf,
-  standingByPathAnswered,
+  standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
@@ -73,7 +73,7 @@ export function edgesOf(root: string, path: string, bytes: Uint8Array | null): R
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   const found: Shape[] = []
-  for (const one of everyOfTypeAnswered(shadow.reading, SHAPE)) {
+  for (const one of everyOfType(shadow.reading, SHAPE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
@@ -116,7 +116,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
 }
 
 export function standingFiles(given: string | Reading, change: Change): readonly string[] {
-  const found = new Set<string>(everyPathAnswered(change.root, given))
+  const found = new Set<string>(everyPath(given))
   for (const one of change.changed) {
     if (change.after(one) === null) found.delete(one)
     else found.add(one)
@@ -177,7 +177,7 @@ export function claimedIn(
   if (held.kind !== "stray") return held
   const propertySlug = filing.get(basename(held.path))
   if (propertySlug === undefined) return held
-  const claiming = standingByPathAnswered(given, held.path)[0]
+  const claiming = standingByPath(given, held.path)[0]
   if (claiming === undefined) return held
   return {
     path: held.path,
@@ -192,7 +192,7 @@ export function claimedIn(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = pageTypesIn(shadow.reading)
-  const stated = filePropertiesAnswered(shadow.reading)
+  const stated = filePropertiesAt(shadow.reading)
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
   let known: Known | null = null

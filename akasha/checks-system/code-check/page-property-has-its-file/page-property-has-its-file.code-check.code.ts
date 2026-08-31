@@ -1,11 +1,11 @@
 import { dirname, join } from "node:path"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
-  filePropertiesAnswered,
+  filePropertiesAt,
   pageTypesIn,
   pathsOf,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { standingByPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { valueIn } from "../../../pages-system/page/page-value/page-value.module.code.ts"
@@ -26,7 +26,7 @@ export function pagesTouchedBy(
   for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
     if (pageNamed(path, pageTypes)) found.add(path)
-    for (const one of standingByPathAnswered(given, path)) {
+    for (const one of standingByPath(given, path)) {
       if (one.path.startsWith(INSIDE)) found.add(one.path)
     }
   }
@@ -84,7 +84,7 @@ export function missingFor(
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(shadow.reading)
-  const fileProperties = filePropertiesAnswered(shadow.reading)
+  const fileProperties = filePropertiesAt(shadow.reading)
   const said: Judged[] = []
   for (const page of pagesTouchedBy(change, pageTypes, shadow.reading)) {
     said.push(...missingFor(change, page, fileProperties))
