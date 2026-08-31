@@ -6,7 +6,6 @@ import { nextAliasIndex, syncAliasSnapshotFromPages } from "../../lib/alias-snap
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { accountPageStands, createAccountPage } from "../../lib/oauth-page-create.ts"
-import { pagesRoot } from "../../lib/oauth-page-push.ts"
 import { aliasIndexesFromPages } from "../../lib/oauth-page-state.ts"
 
 export const help: CommandHelp = {
@@ -42,7 +41,6 @@ export default async function claudeAccountAdd(args: readonly string[]): Promise
   if (account == null || account.length === 0) throw inputError("--account is required")
   if (email == null || email.length === 0) throw inputError("--email is required")
 
-  const root = pagesRoot()
   if (accountPageStands(account)) throw inputError(`account already exists: ${account}`)
 
   const aliasIndex = aliasIndexOverride ?? nextAliasIndex(aliasIndexesFromPages())

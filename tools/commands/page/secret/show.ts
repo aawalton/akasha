@@ -23,7 +23,7 @@ export const help: CommandHelp = {
         "input error, the path is no `.md` page, no page stands there, or no page type claims it",
     },
   ],
-  examples: ["ops page secret show --file-path ~/repos/akasha/pages/claude-account/one.md"],
+  examples: ["ops page secret show --file-path ~/repos/akasha/pages/telnyx-account/outbound.telnyx-account.md"],
 }
 
 export default async function pageSecretShow(args: readonly string[]): Promise<void> {

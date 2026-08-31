@@ -32,7 +32,7 @@ export const help: CommandHelp = {
     },
   ],
   examples: [
-    "ops page secret reveal --file-path ~/repos/akasha/pages/claude-account/one.md --key access-token",
+    "ops page secret reveal --file-path ~/repos/akasha/pages/telnyx-account/outbound.telnyx-account.md --key api-key",
   ],
 }
 

@@ -13,14 +13,6 @@ import {
   akashaSecretPath,
   holdBesideAccount,
 } from "./claude-account-akasha.ts"
-import { placeDirOf } from "../../page/page-types.ts"
-import { pageFileIn } from "../../page/page-file.ts"
-import { canonicalize } from "../../repo/path/path.ts"
-import { akashaRoot as repoRoot } from "../../repo/roots/roots.ts"
-
-export function accountDirIn(root: string): string {
-  return placeDirOf("claude-account")
-}
 
 const WRITER = "claude-account-credential-writer"
 
@@ -44,15 +36,6 @@ export function digestOf(value: string): string {
   return createHash("sha256").update(value).digest("hex").slice(0, DIGEST_CHARS)
 }
 
-export function accountPage(account: string, root: string = pagesRoot()): string {
-  const dir = accountDirIn(root)
-  return pageFileIn(root, dir, account) ?? `${dir}/${account}.md`
-}
-
-export function pagesRoot(): string {
-  return canonicalize(repoRoot())
-}
-
 export type PagePush =
   | {
       readonly kind: "pushed"
@@ -72,7 +55,6 @@ export interface CredentialPagePush {
   readonly accessToken: string
   readonly refreshToken: string
   readonly expiresAt: number
-  readonly root?: string
 }
 
 function heldBy(account: string): ReadonlyMap<string, string> | string {

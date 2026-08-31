@@ -3,7 +3,6 @@ import { writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 
-import { pagesRoot } from "./oauth-page-push.ts"
 import { aliasIndexesFromPages } from "./oauth-page-state.ts"
 
 export const ACCOUNT_ALIAS_SNAPSHOT_PATH = join(homedir(), ".claude", "account-aliases.json")
@@ -33,8 +32,7 @@ export function writeAliasSnapshot(
 }
 
 export function syncAliasSnapshotFromPages(
-  path = ACCOUNT_ALIAS_SNAPSHOT_PATH,
-  root = pagesRoot()
+  path = ACCOUNT_ALIAS_SNAPSHOT_PATH
 ): readonly AliasEntry[] {
   const entries = sortAliasEntries(
     [...aliasIndexesFromPages()].map(([account, aliasIndex]) => ({ account, aliasIndex }))

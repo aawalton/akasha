@@ -1,5 +1,5 @@
 import { accountsWithPages, readCredentialFromPage } from "./oauth-page-credential.ts"
-import { pagesRoot, type PagePush, pushCredentialToPage } from "./oauth-page-push.ts"
+import { type PagePush, pushCredentialToPage } from "./oauth-page-push.ts"
 import {
   accountStateFromPage,
   type PageAccountState,
@@ -25,7 +25,6 @@ export interface CredentialStore {
 
 export function credentialDocFromPage(
   account: string,
-  root = pagesRoot(),
   logPrefix = "[oauth]"
 ): CredentialDoc | null {
   const held = readCredentialFromPage(account)
@@ -41,13 +40,10 @@ export function credentialDocFromPage(
   }
 }
 
-export function allCredentialDocsFromPages(
-  root = pagesRoot(),
-  logPrefix = "[oauth]"
-): CredentialDoc[] {
+export function allCredentialDocsFromPages(logPrefix = "[oauth]"): CredentialDoc[] {
   const out: CredentialDoc[] = []
   for (const account of accountsWithPages()) {
-    const doc = credentialDocFromPage(account, root, logPrefix)
+    const doc = credentialDocFromPage(account, logPrefix)
     if (doc !== null) out.push(doc)
   }
   return out
@@ -59,14 +55,11 @@ export function saidOf(outcome: PagePush): string {
   return `${outcome.account}: ${outcome.why}`
 }
 
-export function pageCredentialStore(
-  root = pagesRoot(),
-  logPrefix = "[oauth]"
-): CredentialStore {
+export function pageCredentialStore(logPrefix = "[oauth]"): CredentialStore {
   return {
-    getCredential: async (account: string) => credentialDocFromPage(account, root, logPrefix),
+    getCredential: async (account: string) => credentialDocFromPage(account, logPrefix),
     updateTokenIfNewer: async (args) => {
-      const outcome = pushCredentialToPage({ ...args, root })
+      const outcome = pushCredentialToPage(args)
       if (outcome.kind === "stale") return
       if (outcome.kind === "refused" || outcome.kind === "skipped") {
         throw new Error(`${logPrefix} the credential did not reach its page — ${saidOf(outcome)}`)
@@ -96,7 +89,7 @@ export function accountStateFrom(held: PageAccountState): AccountState {
   }
 }
 
-export function pacingFromPages(root = pagesRoot()): Map<string, AccountState> {
+export function pacingFromPages(): Map<string, AccountState> {
   const out = new Map<string, AccountState>()
   for (const [account, held] of statesFromPages()) {
     out.set(account, accountStateFrom(held))
@@ -104,10 +97,10 @@ export function pacingFromPages(root = pagesRoot()): Map<string, AccountState> {
   return out
 }
 
-export function pageCredentialDb(root = pagesRoot(), logPrefix = "[oauth]"): CredentialDb {
+export function pageCredentialDb(logPrefix = "[oauth]"): CredentialDb {
   return {
-    ...pageCredentialStore(root, logPrefix),
-    getAllCredentials: async () => allCredentialDocsFromPages(root, logPrefix),
-    getClaudeAccountPacing: async () => pacingFromPages(root),
+    ...pageCredentialStore(logPrefix),
+    getAllCredentials: async () => allCredentialDocsFromPages(logPrefix),
+    getClaudeAccountPacing: async () => pacingFromPages(),
   }
 }

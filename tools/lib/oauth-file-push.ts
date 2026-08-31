@@ -57,7 +57,7 @@ export async function pushCredentialFileToPage(
       throw new Error(message)
     }
     case "match":
-      await pageCredentialStore(undefined, logPrefix).updateTokenIfNewer({
+      await pageCredentialStore(logPrefix).updateTokenIfNewer({
         account,
         accessToken: oauth.accessToken,
         refreshToken: oauth.refreshToken,

@@ -9,7 +9,6 @@ import {
   writeCredentialFile,
 } from "./oauth-credential-file.ts"
 import { readCredentialFromPage } from "./oauth-page-credential.ts"
-import { pagesRoot } from "./oauth-page-push.ts"
 import {
   handleCredentialFileChange,
   pushCredentialFileToPage,

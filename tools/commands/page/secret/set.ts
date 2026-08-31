@@ -61,8 +61,8 @@ export const help: CommandHelp = {
     { code: 3, meaning: "operational: the write or the commit failed" },
   ],
   examples: [
-    "printf %s $TOKEN | ops page secret set --file-path ~/repos/akasha/pages/claude-account/one.md --key access-token",
-    "ops page secret set --file-path ~/repos/akasha/pages/claude-account/one.md --json --value-file /var/tmp/pair.json",
+    "printf %s $TOKEN | ops page secret set --file-path ~/repos/akasha/pages/telnyx-account/outbound.telnyx-account.md --key api-key",
+    "ops page secret set --file-path ~/repos/akasha/pages/telnyx-account/outbound.telnyx-account.md --json --value-file /var/tmp/pair.json",
   ],
 }
 
