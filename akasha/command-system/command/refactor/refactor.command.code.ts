@@ -168,7 +168,8 @@ export function landed(
     const bytes = bodyAt(root, stood, path)
     return bytes === null ? null : textOf(bytes)
   }
-  const carries = carriesFor(root, one, (path) => existsSync(join(root, path)))
+  const standing = (path: string): boolean => existsSync(join(root, path))
+  const carries = carriesFor(root, one, standing)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
   const held: Rewriting = {
     one,
@@ -185,13 +186,16 @@ export function landed(
   const noting = (path: string, said: string): undefined => {
     for (const line of namesStill(said, one.was)) left.push(`  ${path}:${line}`)
   }
+  const bodies = new Map<string, Uint8Array>()
   for (const path of everyPathAnswered(root)) {
-    if (moved.has(path)) continue
+    if (moved.has(path) || !standing(path)) continue
     if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
     if (!path.endsWith(TS)) continue
     const bytes = bodyAt(root, stood, path)
-    const said = bytes === null ? null : textOf(bytes)
-    if (said?.includes(one.was) === true) naming.add(path)
+    const text = bytes === null ? null : textOf(bytes)
+    if (bytes === null || text === null || !text.includes(one.was)) continue
+    bodies.set(path, bytes)
+    naming.add(path)
   }
   const changes: FileEdit[] = []
   const readings: Reading[] = []
@@ -218,7 +222,7 @@ export function landed(
   const repointing: string[] = []
   for (const path of [...naming].sort()) {
     if (!path.endsWith(TS) || moved.has(path)) continue
-    const bytes = bodyAt(root, stood, path)
+    const bytes = bodies.get(path) ?? bodyAt(root, stood, path)
     if (bytes === null) continue
     const text = textOf(bytes)
     if (text === null) return unread(path, `names what moved and its bytes are not utf-8`)
