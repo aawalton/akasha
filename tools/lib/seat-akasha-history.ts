@@ -30,6 +30,7 @@ const OUTPUT_CEILING = 64 * 1024 * 1024
 export interface SeatInHistory {
   readonly commit: string
   readonly path: string
+  readonly atMs: number
   readonly values: Record<string, unknown>
 }
 
@@ -54,29 +55,41 @@ function valuesAt(root: string, commit: string, path: string): Record<string, un
   return underOldKeys(held.value as Record<string, unknown>)
 }
 
-// The newest commit that wrote each seat page, which is the last thing that page said. A removal is
-// left out: what it holds is the absence, and the body before it is what the seat stated.
-function newestPerPath(root: string): ReadonlyMap<string, string> {
+interface Wrote {
+  readonly commit: string
+  readonly atMs: number
+}
+
+// The newest commit that wrote each seat page, which is the last thing that page said, and when it
+// said it. A removal is left out: what it holds is the absence, and the body before it is what the
+// seat stated. The moment is the commit's, which is the newest a stopped seat can be read as active
+// — nothing observes it after its page goes.
+function newestPerPath(root: string): ReadonlyMap<string, Wrote> {
   const log = gitAt(root, [
     "log",
     "--diff-filter=AM",
-    "--format=%H",
+    "--format=%H %ct",
     "--name-only",
     "--",
     SEATS,
   ])
-  const found = new Map<string, string>()
+  const found = new Map<string, Wrote>()
   if (log === null) return found
-  let commit = ""
+  let wrote: Wrote = { commit: "", atMs: 0 }
   for (const line of log.split("\n")) {
     const said = line.trim()
     if (said === "") continue
-    if (!said.includes("/")) {
-      commit = said
+    const split = said.indexOf(" ")
+    if (split > 0) {
+      const seconds = Number.parseInt(said.slice(split + 1), 10)
+      wrote = {
+        commit: said.slice(0, split),
+        atMs: Number.isFinite(seconds) ? seconds * 1000 : 0,
+      }
       continue
     }
     if (!said.startsWith(`${SEATS}/`) || !said.endsWith(SUFFIX)) continue
-    if (!found.has(said)) found.set(said, commit)
+    if (!found.has(said)) found.set(said, wrote)
   }
   return found
 }
@@ -85,12 +98,12 @@ const heldPerRoot = new Map<string, ReadonlyMap<string, SeatInHistory>>()
 
 function walkForSeats(root: string): ReadonlyMap<string, SeatInHistory> {
   const byId = new Map<string, SeatInHistory>()
-  for (const [path, commit] of newestPerPath(root)) {
-    const values = valuesAt(root, commit, path)
+  for (const [path, wrote] of newestPerPath(root)) {
+    const values = valuesAt(root, wrote.commit, path)
     if (values === null) continue
     const id = values[ID]
     if (typeof id !== "string" || id === "" || byId.has(id)) continue
-    byId.set(id, { commit, path, values })
+    byId.set(id, { commit: wrote.commit, path, atMs: wrote.atMs, values })
   }
   return byId
 }
@@ -107,6 +120,13 @@ function seatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
 
 export function dropAkashaSeatsInHistory(): void {
   heldPerRoot.clear()
+}
+
+// EVERY SEAT AKASHA'S HISTORY HOLDS, each as the last thing its page said. A seat standing now is
+// in here too, under the commit that last wrote it; a caller wanting only the stopped ones takes
+// out the ones standing, which it can name and this cannot.
+export function akashaSeatsInHistory(root: string): ReadonlyMap<string, SeatInHistory> {
+  return seatsInHistory(root)
 }
 
 export function akashaSeatInHistory(agentId: string, root: string): SeatInHistory | null {
