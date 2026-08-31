@@ -29,7 +29,10 @@ type Stands = {
   readonly at: string
 }
 
-const STANDS: Stands = { slug: CHECK, at: "akasha/checks-system/check/check.page-type.ts" }
+const STANDS: Stands = {
+  slug: CHECK,
+  at: "akasha/checks-system/code-check/code-check.page-type.ts",
+}
 
 function rootWith(
   named: readonly {

@@ -58,9 +58,9 @@ const EXTENDS = "extends-slug"
 
 const ENDING = ".ts"
 
-const CHECK_AT = "akasha/checks-system/check/typecheck/typecheck.check.ts"
+const CHECK_AT = "akasha/checks-system/code-check/typecheck/typecheck.code-check.ts"
 
-const CHECK_CODE_AT = "akasha/checks-system/check/typecheck/typecheck.check.code.ts"
+const CHECK_CODE_AT = "akasha/checks-system/code-check/typecheck/typecheck.code-check.code.ts"
 
 const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
 
