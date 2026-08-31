@@ -9,9 +9,9 @@ export const noIndexPathSpelled = {
   code: "ts",
   test: "ts",
   runsOnPatch: true,
-  runsOnWorktree: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnWorktree: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -20,6 +20,14 @@ export const noIndexPathSpelled = {
     {
       invariantKind: "departure",
       statement: "A file under the indexes folder is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is judged from its own body alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every phase judges alike.",
     },
     {
       invariantKind: "departure",
