@@ -12,7 +12,7 @@ const RELATION = indexRelation.indexName
 
 const ENDING = ".jsonl"
 
-const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
+export const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 
 export type Filed = {
   readonly entries: readonly Entry[]

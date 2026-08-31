@@ -10,7 +10,7 @@ export const move = {
   test: "ts",
   testFixtures: "ts",
   mechanical: true,
-  partSlugs: ["module/move-repointing"],
+  partSlugs: ["module/move-renaming", "module/move-repointing"],
   taking: [
     { said: "--from <path>", takes: "the path a body stands at now" },
     { said: "--to <path>", takes: "the path it arrives at, called the same name" },
