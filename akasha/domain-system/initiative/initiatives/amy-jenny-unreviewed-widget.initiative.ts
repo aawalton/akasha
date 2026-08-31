@@ -10,6 +10,18 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
+      statement: "An akasha command triggers the mac build of an iOS app.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Everything Alan's iOS app is built from stands in the akasha folder.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Everything Jenny's iOS app is built from stands in the akasha folder.",
+    },
+    {
+      invariantKind: "gap",
       statement: "Alan's site deploys from akasha.",
     },
     {
@@ -59,6 +71,8 @@ export const amyJennyUnreviewedWidget = {
     "The ring is drawn by one file both tiles share, so it moves once and serves both.",
     "Route access refuses every caller until person enrolment is rebuilt on `supabase-auth-user-id`, so the device secret half of the guard stayed out of akasha rather than being carried in broken.",
     "The route cannot move before the credential, the readers it uses and the reading itself, and its generated `+types` import cannot move at all until the web app does.",
+    "An app is built from the native shell, the widget extension, the web the shell wraps and the command driving the mac, and only the five shared ring components stand in akasha, so building from akasha is most of a tree rather than a repointing.",
+    "The old deploy command puts cluster services up from the manifests a synth emits and refuses a workstation service, so what it lends an akasha deploy is its shape rather than its work: name one thing, read what it is made of from its page, refuse what is ambiguous, and do nothing already done.",
     "Deploys are broken today, so the intents naming a site or an app being put up are about that rather than about anything being written.",
   ],
 } as const satisfies Initiative
