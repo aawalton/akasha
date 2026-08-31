@@ -57,7 +57,7 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   return held
 }
 
-function wakingIn(run: Running): Input | null {
+function inputIn(run: Running): Input | null {
   const said = (run as { readonly isInput?: unknown }).isInput
   return typeof said === "function" ? (said as Input) : null
 }
@@ -118,7 +118,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, runsOn, isInput: wakingIn(run), run })
+    found.push({ slug, page: path, runsOn, isInput: inputIn(run), run })
   }
   if (found.length === 0) {
     throw new Error(
