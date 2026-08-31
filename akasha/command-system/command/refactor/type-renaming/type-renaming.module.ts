@@ -4,7 +4,7 @@ export const typeRenaming = {
   id: "01a0587b-6769-7174-8713-f1d9fe7fd25d",
   pageTypeSlug: "module",
   slug: "type-renaming",
-  definition: "what a page type's slug rename asks of the corpus, worked out before anything moves",
+  definition: "every file a page type's slug rename would move or change",
   code: "ts",
   test: "ts",
   invariants: [
