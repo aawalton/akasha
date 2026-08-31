@@ -10,7 +10,7 @@ import {
   identityOf,
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
+import { input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -138,4 +138,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const keyNamesOneProperty = waking(PAGES, refusalsIn)
+export const keyNamesOneProperty = input(PAGES, refusalsIn)

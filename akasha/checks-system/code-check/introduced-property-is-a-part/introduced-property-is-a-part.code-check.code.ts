@@ -11,7 +11,7 @@ import {
   propertiesOf,
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { pagesTailed, waking } from "../../change-walking/change-walking.module.code.ts"
+import { input, pagesTailed } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -144,4 +144,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const introducedPropertyIsAPart = waking(pagesTailed(PAGE_TYPE), refusalsIn)
+export const introducedPropertyIsAPart = input(pagesTailed(PAGE_TYPE), refusalsIn)

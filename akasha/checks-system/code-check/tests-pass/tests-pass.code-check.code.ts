@@ -11,10 +11,10 @@ import { standingByPath } from "../../../pages-system/indexes/index-reading/inde
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
+  input,
   type Selector,
   TEXTS,
   type Text,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
@@ -91,4 +91,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
 }
 
-export const testsPass = waking(TESTED, refusalsIn)
+export const testsPass = input(TESTED, refusalsIn)

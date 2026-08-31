@@ -8,8 +8,8 @@ import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import {
   bodyOf,
   FILES,
+  input,
   overEachFile,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
@@ -120,4 +120,4 @@ function refusalsIn(change: Change): readonly Judged[] {
   return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }
 
-export const pageNamedAsStated = waking(FILES, refusalsIn)
+export const pageNamedAsStated = input(FILES, refusalsIn)

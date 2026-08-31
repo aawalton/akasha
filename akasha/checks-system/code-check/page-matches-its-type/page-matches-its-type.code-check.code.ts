@@ -20,7 +20,7 @@ import {
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { bodyOf, PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -238,4 +238,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return judged
 }
 
-export const pageMatchesItsType = waking(PAGES, refusalsIn)
+export const pageMatchesItsType = input(PAGES, refusalsIn)

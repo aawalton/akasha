@@ -9,7 +9,7 @@ import {
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { FILES, textIn, waking } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, input, textIn } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const NAME_FORMAT = "name-format"
@@ -131,4 +131,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return found
 }
 
-export const nameFormatJudgesByOneShape = waking(FILES, refusalsIn)
+export const nameFormatJudgesByOneShape = input(FILES, refusalsIn)

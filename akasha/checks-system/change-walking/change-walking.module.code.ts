@@ -130,7 +130,7 @@ export function judgingEach<T extends { readonly path: string }>(
   return Object.assign(run, { wakesOn: selector.wakesOn })
 }
 
-export function waking<T>(selector: Selector<T>, run: Running): Bounded {
+export function input<T>(selector: Selector<T>, run: Running): Bounded {
   const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
   return Object.assign(bound, { wakesOn: selector.wakesOn })
 }

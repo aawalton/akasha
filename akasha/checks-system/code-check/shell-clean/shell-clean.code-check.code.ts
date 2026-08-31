@@ -2,7 +2,7 @@ import { worldOf } from "../../../code-system/code-tests/code-tests.module.code.
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
-import { everyFileIn, FILES, waking } from "../../change-walking/change-walking.module.code.ts"
+import { everyFileIn, FILES, input } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const SH = ".sh"
@@ -138,4 +138,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
 }
 
-export const shellClean = waking(SHELLS, refusalsIn)
+export const shellClean = input(SHELLS, refusalsIn)

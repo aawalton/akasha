@@ -12,10 +12,10 @@ import {
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
+  input,
   overEachFile,
   overEachText,
   TEXTS,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
@@ -146,4 +146,4 @@ function refusedIn(change: Change, shadow: Shadow): readonly Judged[] {
   )
 }
 
-export const noRefusedSyntax = waking(TEXTS, refusedIn)
+export const noRefusedSyntax = input(TEXTS, refusedIn)

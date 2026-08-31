@@ -10,9 +10,9 @@ import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
   FILES,
+  input,
   overEachFile,
   textIn,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
@@ -314,4 +314,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   })
 }
 
-export const manifestNamesWhatIsReached = waking(FILES, refusalsIn)
+export const manifestNamesWhatIsReached = input(FILES, refusalsIn)

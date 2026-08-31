@@ -3,10 +3,10 @@ import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/pa
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import {
+  input,
   overEachFile,
   overEachText,
   TEXTS,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { pageIn } from "../page-named-as-stated/page-named-as-stated.code-check.code.ts"
@@ -42,4 +42,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return overEachFile(change, reasonsIn(under))
 }
 
-export const instantPropertySlugClosesWithAt = waking(TEXTS, refusalsIn)
+export const instantPropertySlugClosesWithAt = input(TEXTS, refusalsIn)

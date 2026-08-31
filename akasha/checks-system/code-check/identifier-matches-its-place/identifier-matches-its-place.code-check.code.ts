@@ -10,9 +10,9 @@ import { exportedAs } from "../../../pages-system/page/page-export-name/page-exp
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
   bodyOf,
+  input,
   overEachFile,
   TEXTS,
-  waking,
 } from "../../change-walking/change-walking.module.code.ts"
 import type { Running } from "../../judging/judging.module.code.ts"
 
@@ -206,4 +206,4 @@ const refusalsIn: Running = (change, shadow) => {
   })
 }
 
-export const identifierMatchesItsPlace = waking(TEXTS, refusalsIn)
+export const identifierMatchesItsPlace = input(TEXTS, refusalsIn)

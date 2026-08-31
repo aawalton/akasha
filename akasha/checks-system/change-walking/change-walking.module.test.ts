@@ -14,6 +14,7 @@ import {
   everyFileIn,
   everythingIn,
   FILES,
+  input,
   judgingEach,
   judgingEachFile,
   onDisk,
@@ -23,7 +24,6 @@ import {
   pagesTailed,
   type Selector,
   TEXTS,
-  waking,
 } from "./change-walking.module.code.ts"
 
 const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
@@ -229,7 +229,7 @@ test("a waking laid on a runner wraps it, leaving the runner it was handed carry
   const change = mixedWorld()
   const shadow = shadowAt(change.root)
   const run = (held: Change) => [{ path: held.changed[0] ?? "", reason: "said" }]
-  const bound = waking(TEXTS, run)
+  const bound = input(TEXTS, run)
   expect(Object.hasOwn(run, "wakesOn")).toBe(false)
   expect(Object.hasOwn(bound, "wakesOn")).toBe(true)
   expect(bound.wakesOn("one.ts", shadow)).toBe(true)

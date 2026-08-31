@@ -2,7 +2,7 @@ import ts from "typescript"
 import { skimmedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { TEXTS, textIn, waking } from "../../change-walking/change-walking.module.code.ts"
+import { input, TEXTS, textIn } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -125,4 +125,4 @@ function refusalsIn(change: Change): readonly Judged[] {
   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
 }
 
-export const noImportCycle = waking(TEXTS, refusalsIn)
+export const noImportCycle = input(TEXTS, refusalsIn)

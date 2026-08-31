@@ -2,7 +2,7 @@ import type { Found, Linted } from "../../../code-system/code-lint/code-lint.mod
 import { lintedOver } from "../../../code-system/code-lint/code-lint.module.code.ts"
 import { worldOf } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { TEXTS, waking } from "../../change-walking/change-walking.module.code.ts"
+import { input, TEXTS } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"
@@ -51,4 +51,4 @@ function refusalsIn(change: Change): readonly Judged[] {
   }
 }
 
-export const lintClean = waking(TEXTS, refusalsIn)
+export const lintClean = input(TEXTS, refusalsIn)
