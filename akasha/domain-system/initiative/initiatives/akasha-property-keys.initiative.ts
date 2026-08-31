@@ -47,5 +47,12 @@ export const akashaPropertyKeys = {
       "stands a collision would collapse quietly, which is the very failure being removed. Taking " +
       "a shorter key for a property that has been carrying a qualifier is separate again, one page " +
       "type at a time, and none of it is owed.",
+    "Asking the page's type alone is not enough. Filing was tried that way and taken back: a " +
+      "page whose page type does not stand was filed nowhere rather than refused, so a world " +
+      "where no `page-type` page type stands lost every entry at once, and the readers that " +
+      "reach a page type through the index lost the ground they stand on. `id` and `slug` are " +
+      "carried by every page because `page` is the root every type descends from, so either the " +
+      "walk answers those where the type above cannot be read, or the rebuild refuses the page " +
+      "and says which type it could not read. That choice comes before the filing does.",
   ],
 } as const satisfies Initiative
