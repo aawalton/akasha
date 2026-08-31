@@ -9,9 +9,8 @@ export function initiativeFinishedIn(memory: string): (slug: string) => boolean 
   return (slug: string): boolean => {
     const already = answered.get(slug)
     if (already !== undefined) return already
-    const at = byStem.get(slug) ?? []
-    const one = at.length === 1 ? `${memory}/${at[0] as string}` : null
-    const finished = one === null ? at.length === 0 : !existsSync(one)
+    const at = byStem.get(slug)
+    const finished = at === undefined || !existsSync(`${memory}/${at}`)
     answered.set(slug, finished)
     return finished
   }

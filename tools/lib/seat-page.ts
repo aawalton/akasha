@@ -58,7 +58,7 @@ export function seatPageBody(
   if (stated.recordedMode !== null) lines.push(`start-mode: ${stated.recordedMode.value}`)
   if (stated.onCall) lines.push("on-call: true")
   if (stated.initiative !== null) {
-    lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))}`)
+    lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value)}`)
   }
   if (stated.registration !== null) {
     lines.push(`registration-account: ${stated.registration.value}`)

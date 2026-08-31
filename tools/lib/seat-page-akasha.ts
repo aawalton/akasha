@@ -72,7 +72,7 @@ export function akashaSeatBody(
   const above = person ? null : (parentName ?? principalSeatNameOf(stated.agent))
   if (!person && (above === null || above === "")) return null
   const initiative =
-    stated.initiative === null ? null : initiativeSlugOf(stated.initiative.value, root)
+    stated.initiative === null ? null : initiativeSlugOf(stated.initiative.value)
   const lines: string[] = [
     'import type { Seat } from "../seat.page-type.ts"',
     "",
