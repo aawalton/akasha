@@ -26,6 +26,10 @@ export const codeSource = {
       statement: "A node is answered at where its own text starts past whatever trivia leads it.",
     },
     {
+      invariantKind: "departure",
+      statement: "The object literal a declaration holds is answered past whatever casts wrap it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a body or knows why it is read.",
     },

@@ -1,6 +1,6 @@
 import { basename } from "node:path"
 import ts from "typescript"
-import { parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
+import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
 import { spelledIn } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
 import type { Value } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
@@ -60,12 +60,6 @@ export function besideRenamed(name: string, one: Renaming): string {
 }
 
 type Spot = { readonly start: number; readonly end: number }
-
-function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
-  if (ts.isObjectLiteralExpression(node)) return node
-  if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)
-  return null
-}
 
 function slugSpotIn(source: ts.SourceFile, held: ts.ObjectLiteralExpression): Spot | null {
   for (const one of held.properties) {

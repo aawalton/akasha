@@ -19,3 +19,9 @@ export function lineAt(source: ts.SourceFile, at: number): number {
 export function lineOf(source: ts.SourceFile, node: ts.Node): number {
   return lineAt(source, node.getStart(source))
 }
+
+export function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
+  if (ts.isObjectLiteralExpression(node)) return node
+  if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)
+  return null
+}

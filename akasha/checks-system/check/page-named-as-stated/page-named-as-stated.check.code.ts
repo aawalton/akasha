@@ -1,5 +1,5 @@
 import ts from "typescript"
-import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
+import { literalOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAnswered } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -39,12 +39,6 @@ function statedIn(node: ts.ObjectLiteralExpression): Said | null {
   }
   if (slug === null || pageTypeSlug === null) return null
   return { slug, pageTypeSlug }
-}
-
-function literalOf(node: ts.Expression): ts.ObjectLiteralExpression | null {
-  if (ts.isObjectLiteralExpression(node)) return node
-  if (ts.isAsExpression(node) || ts.isSatisfiesExpression(node)) return literalOf(node.expression)
-  return null
 }
 
 export function pageIn(path: string, text: string): Stated | null {
