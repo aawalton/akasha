@@ -191,8 +191,8 @@ test("a check stating no input runs over a change its neighbour sleeps through",
   writeFileSync(join(root, "one.md"), "one")
   const every = checksIn(root)
   expect(every.map((one) => `${one.slug} ${one.isInput === null}`)).toEqual([
-    "refuses-all true",
     "input-ts false",
+    "refuses-all true",
   ])
   const held = onDisk(root)
   const change = { root, changed: ["one.md"], after: held, before: held }
@@ -212,8 +212,8 @@ test("a check whose input could not be answered runs, its neighbour taken as it 
     "input-throws",
   ])
   expect(checksFor(every, overTs, shadowAsked(overTs)).map((one) => one.slug)).toEqual([
-    "input-ts",
     "input-throws",
+    "input-ts",
   ])
   expect(
     judgingBy(every)
@@ -251,7 +251,7 @@ test("a page is input to a check bounded to the pages, its input having asked th
   const root = pagedRoot()
   const held = onDisk(root)
   const change = { root, changed: [HELD_PAGE_AT], after: held, before: held }
-  expect(judgingBy(checksIn(root)).checksFor(change)).toEqual(["refuses-all", "input-pages"])
+  expect(judgingBy(checksIn(root)).checksFor(change)).toEqual(["input-pages", "refuses-all"])
   expect(
     judgingBy(checksIn(root))
       .over(change)
@@ -268,9 +268,9 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
   const gate = judgingBy(checksIn(root))
   const overMd = { root, changed: ["one.md"], after: held, before: held }
   const overBoth = { root, changed: ["one.md", "two.ts"], after: held, before: held }
-  expect(gate.named).toEqual(["refuses-all", "input-ts"])
+  expect(gate.named).toEqual(["input-ts", "refuses-all"])
   expect(gate.checksFor(overMd)).toEqual(["refuses-all"])
-  expect(gate.checksFor(overBoth)).toEqual(["refuses-all", "input-ts"])
+  expect(gate.checksFor(overBoth)).toEqual(["input-ts", "refuses-all"])
   expect(gate.over(overMd).map((one) => one.reason)).toEqual(["refused"])
 })
 
