@@ -1,8 +1,8 @@
 import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
 import { InputError } from "@shared/errors-core/exit"
-import { type MobileApp, shellRepoPath as shellRepoPathOf } from "./apps"
+import { type MobileApp, shellRepoPath as shellRepoPathOf, splitRepoPath } from "./apps"
 import { MACBOOK } from "./host"
 import { rsyncToHost, runSshCapture } from "./ssh"
 
@@ -13,6 +13,7 @@ import { rsyncToHost, runSshCapture } from "./ssh"
 const SEAM_SHARED_REPO_PATHS: readonly string[] = [
   "akasha/code-system/ios-app/shell-scripts",
   "akasha/code-system/ios-component/ios-components",
+  "akasha/code-system/ios-program/ios-programs",
 ]
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
@@ -30,8 +31,16 @@ export function shellRepoPath(app: MobileApp): string {
   return shellRepoPathOf(app).path
 }
 
+// The icon is the one thing the seam reads that akasha does not hold — akasha
+// holds text and a 1024px PNG is not text — so it is named on the app's page and
+// the directory holding it is delivered beside the rest.
+function iconDirRepoPath(app: MobileApp): readonly string[] {
+  if (app.iconRepoPath === null) return []
+  return [dirname(splitRepoPath(app.iconRepoPath).path)]
+}
+
 export function simRunSourceRepoPaths(app: MobileApp): readonly string[] {
-  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS]
+  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS, ...iconDirRepoPath(app)]
 }
 
 export function simRunNativeShellDir(app: MobileApp): string {
