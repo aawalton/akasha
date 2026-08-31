@@ -19,7 +19,7 @@ function over(files: readonly string[]): Change {
 }
 
 function saying(named: readonly string[], said: readonly Judged[]): Judging {
-  return { named, over: () => said }
+  return { named, wokenBy: () => named, over: () => said }
 }
 
 function standing(slugs: readonly string[]): readonly Gathered[] {
@@ -27,6 +27,7 @@ function standing(slugs: readonly string[]): readonly Gathered[] {
     slug,
     page: `${slug}.code-check.ts`,
     runsOn: ["audit"],
+    wakesOn: null,
     run: () => [],
   }))
 }
@@ -88,6 +89,7 @@ test("a reason spanning lines comes back on one, so one refusal is one line", ()
 test("a judging that throws is refused as unjudged rather than answered clean", () => {
   const judging: Judging = {
     named: ["one"],
+    wokenBy: () => ["one"],
     over: () => {
       throw new Error("the checks could not be reached")
     },

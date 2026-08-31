@@ -96,11 +96,12 @@ export function judgedOver(judging: Judging, change: Change, atAudit: number): A
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
-  const left = atAudit - judging.named.length
+  const woke = judging.wokenBy(change).length
+  const left = atAudit - woke
   const by =
     left > 0
-      ? `${counted(judging.named.length, "check")} of the ${atAudit} that run at audit`
-      : counted(judging.named.length, "check")
+      ? `${counted(woke, "check")} of the ${atAudit} that run at audit`
+      : counted(woke, "check")
   const over = `${by} judged ${counted(change.changed.length, "file")}`
   const also =
     left > 0

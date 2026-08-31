@@ -12,7 +12,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
-import { checkPagesIn, checksAt, checksIn, judgingBy } from "./checking.module.code.ts"
+import { checkPagesIn, checksAt, checksIn, checksWoken, judgingBy } from "./checking.module.code.ts"
 
 const CHECK = "code-check"
 
@@ -97,6 +97,18 @@ const REFUSES_TAKING =
   "    .filter((path) => change.after(path) === null)\n" +
   '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
   "}\n"
+
+const WAKES_TS =
+  "export function wakesTs(change) {\n" +
+  '  return change.changed.map((path) => ({ path, reason: "ts woke" }))\n' +
+  "}\n" +
+  'wakesTs.wakesOn = (path) => path.endsWith(".ts")\n'
+
+const TWO_CHECKS = [
+  { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
+  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
+]
+
 test("a check is found through the index rather than by walking the tree", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const found = checksIn(root)
@@ -235,4 +247,58 @@ test("one shadow is cast over the change and handed to every check that runs", (
     before: held,
   })
   expect(said).toEqual([])
+})
+
+test("a check whose waking no changed path answers does not run", () => {
+  const root = rootWith(TWO_CHECKS)
+  writeFileSync(join(root, "one.md"), "one")
+  const held = onDisk(root)
+  const said = judgingBy(checksIn(root)).over({
+    root,
+    changed: ["one.md"],
+    after: held,
+    before: held,
+  })
+  expect(said.map((one) => one.reason)).toEqual(["refused"])
+  expect(said.map((one) => one.reason)).not.toContain("ts woke")
+})
+
+test("a check carrying no waking runs over a change its woken neighbour sleeps through", () => {
+  const root = rootWith(TWO_CHECKS)
+  writeFileSync(join(root, "one.md"), "one")
+  const every = checksIn(root)
+  expect(every.map((one) => `${one.slug} ${one.wakesOn === null}`)).toEqual([
+    "refuses-all true",
+    "wakes-ts false",
+  ])
+  const held = onDisk(root)
+  const woken = checksWoken(every, { root, changed: ["one.md"], after: held, before: held })
+  expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
+})
+
+test("a check whose waking a changed path answers runs, and judges every path in the change", () => {
+  const root = rootWith(TWO_CHECKS)
+  writeFileSync(join(root, "two.ts"), "two")
+  const held = onDisk(root)
+  const said = judgingBy(checksIn(root)).over({
+    root,
+    changed: ["two.ts"],
+    after: held,
+    before: held,
+  })
+  expect(said.map((one) => one.reason).sort()).toEqual(["refused", "ts woke"])
+})
+
+test("`wokenBy` names the checks that ran and `named` names every check the gate holds", () => {
+  const root = rootWith(TWO_CHECKS)
+  writeFileSync(join(root, "one.md"), "one")
+  writeFileSync(join(root, "two.ts"), "two")
+  const held = onDisk(root)
+  const gate = judgingBy(checksIn(root))
+  const overMd = { root, changed: ["one.md"], after: held, before: held }
+  const overBoth = { root, changed: ["one.md", "two.ts"], after: held, before: held }
+  expect(gate.named).toEqual(["refuses-all", "wakes-ts"])
+  expect(gate.wokenBy(overMd)).toEqual(["refuses-all"])
+  expect(gate.wokenBy(overBoth)).toEqual(["refuses-all", "wakes-ts"])
+  expect(gate.over(overMd).map((one) => one.reason)).toEqual(["refused"])
 })

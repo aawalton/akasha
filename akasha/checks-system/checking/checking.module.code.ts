@@ -1,5 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   everyOfTypeAnswered,
   typeSlugByIdAnswered,
@@ -10,6 +11,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
+import type { Waking } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
@@ -18,6 +20,7 @@ export type Gathered = {
   readonly slug: string
   readonly page: string
   readonly runsOn: readonly Phase[]
+  readonly wakesOn: Waking | null
   readonly run: Running
 }
 
@@ -52,6 +55,11 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
     if (said) held.push(phase)
   }
   return held
+}
+
+function wakingIn(run: Running): Waking | null {
+  const said = (run as { readonly wakesOn?: unknown }).wakesOn
+  return typeof said === "function" ? (said as Waking) : null
 }
 
 function saidBy(thrown: unknown): string {
@@ -110,7 +118,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, runsOn, run })
+    found.push({ slug, page: path, runsOn, wakesOn: wakingIn(run), run })
   }
   if (found.length === 0) {
     throw new Error(
@@ -124,6 +132,14 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
+export function checksWoken(every: readonly Gathered[], change: Change): readonly Gathered[] {
+  return every.filter((one) => {
+    const wakes = one.wakesOn
+    if (wakes === null) return true
+    return change.changed.some((path) => wakes(path))
+  })
+}
+
 function threw(one: Gathered, thrown: unknown): Judged {
   return {
     path: one.page,
@@ -134,10 +150,11 @@ function threw(one: Gathered, thrown: unknown): Judged {
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
+    wokenBy: (change) => checksWoken(every, change).map((one) => one.slug),
     over: (change) => {
       const shadow = shadowAsked(change)
       const said: Judged[] = []
-      for (const one of every) {
+      for (const one of checksWoken(every, change)) {
         try {
           said.push(...one.run(change, shadow))
         } catch (thrown) {

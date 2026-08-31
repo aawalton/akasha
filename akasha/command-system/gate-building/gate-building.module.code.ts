@@ -19,7 +19,7 @@ const PATCH = "patch"
 
 const loadFrom = createRequire(import.meta.url)
 
-export const NO_GATE: Judging = { named: [], over: () => [] }
+export const NO_GATE: Judging = { named: [], wokenBy: () => [], over: () => [] }
 
 export type Built = { readonly gate: Judging } | { readonly broken: string }
 

@@ -135,6 +135,7 @@ function sameBytes(one: Uint8Array, two: Uint8Array): boolean {
 function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   return {
     named: judging.named,
+    wokenBy: judging.wokenBy,
     over: (change) => {
       const moved: Judged[] = []
       for (const one of held) {
@@ -244,24 +245,22 @@ function reported(
 }
 
 function reporting(root: string, asked: Asked, gate: Judging): Answer {
-  const said = holding(root, () =>
-    gate.over(changeOf(root, { base: baseOf(root), edits: asked.changes }))
-  )
-  if (said.length > 0) {
+  const held = holding(root, () => {
+    const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
+    return { said: gate.over(change), woke: gate.wokenBy(change).length }
+  })
+  if (held.said.length > 0) {
     return {
       report: [],
       refusals: [
-        ...said.map((one) => `${one.path} — ${one.reason}`),
+        ...held.said.map((one) => `${one.path} — ${one.reason}`),
         `nothing was written — ${DRY_RUN} writes nothing either way`,
       ],
       code: 3,
     }
   }
   return {
-    report: [
-      passedOver(gate.named.length, asked.changes.length),
-      `nothing was written — ${DRY_RUN}`,
-    ],
+    report: [passedOver(held.woke, asked.changes.length), `nothing was written — ${DRY_RUN}`],
     refusals: [],
     code: 0,
   }

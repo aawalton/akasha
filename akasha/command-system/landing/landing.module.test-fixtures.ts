@@ -36,10 +36,11 @@ export function repoWith(named: Readonly<Record<string, string | Uint8Array>>): 
   return root
 }
 
-export const ADMITS: Judging = { named: ["admits"], over: () => [] }
+export const ADMITS: Judging = { named: ["admits"], wokenBy: () => ["admits"], over: () => [] }
 
 export const REFUSES: Judging = {
   named: ["refuses"],
+  wokenBy: () => ["refuses"],
   over: (change) => change.changed.map((path) => ({ path, reason: "refused for the test" })),
 }
 

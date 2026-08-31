@@ -83,6 +83,7 @@ test("no git outlives a landing, nor one a check throws through", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const reading: Judging = {
     named: ["reading"],
+    wokenBy: () => ["reading"],
     over: (change) => {
       expect(change.after("one.txt")).not.toBeNull()
       expect(gitOver(root).length).toBe(1)
@@ -91,6 +92,7 @@ test("no git outlives a landing, nor one a check throws through", () => {
   }
   const throwing: Judging = {
     named: ["throwing"],
+    wokenBy: () => ["throwing"],
     over: (change) => {
       expect(change.after("one.txt")).not.toBeNull()
       expect(gitOver(root).length).toBe(1)
@@ -220,6 +222,7 @@ test("the checks are shown every path the change touches", () => {
   const seen: string[] = []
   const watching: Judging = {
     named: ["watching"],
+    wokenBy: () => ["watching"],
     over: (change) => {
       seen.push(...change.changed)
       return []

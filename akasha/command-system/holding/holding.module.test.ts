@@ -40,7 +40,7 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
-const ADMITS: Judging = { named: ["admits"], over: () => [] }
+const ADMITS: Judging = { named: ["admits"], wokenBy: () => ["admits"], over: () => [] }
 
 const AT_ONCE = ["b", "c", "d", "e"]
 
@@ -185,6 +185,7 @@ test("a hold is released however the act inside it ends, so one failure wedges n
   expect(existsSync(at)).toBe(false)
   const throwing: Judging = {
     named: ["throwing"],
+    wokenBy: () => ["throwing"],
     over: () => {
       throw new Error("thrown for the test")
     },
