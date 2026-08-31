@@ -20,7 +20,7 @@ import {
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
-import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -192,7 +192,7 @@ export function unloadable(why: string | null): string {
   return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
 }
 
-export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(shadow.reading)
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
@@ -237,3 +237,5 @@ export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Jud
   }
   return judged
 }
+
+export const pageMatchesItsType = waking(PAGES, refusalsIn)

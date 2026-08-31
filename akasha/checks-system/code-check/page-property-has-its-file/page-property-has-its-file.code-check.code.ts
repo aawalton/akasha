@@ -10,7 +10,7 @@ import { standingByPath } from "../../../pages-system/indexes/index-reading/inde
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, FILES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -82,7 +82,7 @@ export function missingFor(
   return said
 }
 
-export function pagePropertyHasItsFile(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = filePropertiesAt(shadow.reading)
   const said: Judged[] = []
@@ -91,3 +91,5 @@ export function pagePropertyHasItsFile(change: Change, shadow: Shadow): readonly
   }
   return said
 }
+
+export const pagePropertyHasItsFile = waking(FILES, refusalsIn)

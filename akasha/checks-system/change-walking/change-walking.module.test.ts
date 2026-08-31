@@ -22,6 +22,7 @@ import {
   PAGES,
   type Selector,
   TEXTS,
+  waking,
 } from "./change-walking.module.code.ts"
 
 const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
@@ -193,6 +194,18 @@ test("a runner made from a selection carries what wakes it, so a gate may ask be
   const run = judgingEach(TEXTS, () => [])
   expect(run.wakesOn("one.ts", shadow)).toBe(true)
   expect(run.wakesOn("one.md", shadow)).toBe(false)
+})
+
+test("a waking laid on a runner wraps it, leaving the runner it was handed carrying none", () => {
+  const change = mixedWorld()
+  const shadow = shadowAt(change.root)
+  const run = (held: Change) => [{ path: held.changed[0] ?? "", reason: "said" }]
+  const bound = waking(TEXTS, run)
+  expect(Object.hasOwn(run, "wakesOn")).toBe(false)
+  expect(Object.hasOwn(bound, "wakesOn")).toBe(true)
+  expect(bound.wakesOn("one.ts", shadow)).toBe(true)
+  expect(bound.wakesOn("one.md", shadow)).toBe(false)
+  expect(bound(change, shadow)).toEqual([{ path: "gone.ts", reason: "said" }])
 })
 
 test("the judge of a selection is handed the index the change leaves, so it may ask of it", () => {

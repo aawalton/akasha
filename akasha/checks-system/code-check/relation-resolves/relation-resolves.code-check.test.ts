@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { pathFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   knownIn,
   type Shaped,
@@ -374,4 +375,17 @@ test("a relation property the change introduces is judged rather than passed ove
   expect(judged(over(root, [R, A], bodies))).toEqual([
     { path: A, reason: "states `held`, and no `domain` carries the slug `gone`" },
   ])
+})
+
+const D_CODE = "akasha/t/d.domain.code.ts"
+
+test("a file the index files against a page is no page taken away, and nothing it names is judged", () => {
+  const root = rooted()
+  naming(root, D_ID, "domain-slug", A_ID, A)
+  standing(root, A, A_ID, "note", "a")
+  pathFiled(root, D_CODE, [{ path: D, id: D_ID }])
+  const bodies = { ...note(', domainSlug: "domain/d"'), [D_CODE]: null }
+  const change = over(root, [D_CODE], bodies)
+  expect(namersOf(change, ["domain-slug", "part-slugs"])).toEqual([])
+  expect(judged(change)).toEqual([])
 })

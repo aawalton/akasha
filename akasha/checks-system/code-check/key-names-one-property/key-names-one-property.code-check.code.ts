@@ -12,6 +12,7 @@ import {
   identityOf,
 } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
 
@@ -129,7 +130,7 @@ export function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export function keyNamesOneProperty(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
   const said: Judged[] = []
@@ -138,3 +139,5 @@ export function keyNamesOneProperty(change: Change, shadow: Shadow): readonly Ju
   }
   return said
 }
+
+export const keyNamesOneProperty = waking(PAGES, refusalsIn)

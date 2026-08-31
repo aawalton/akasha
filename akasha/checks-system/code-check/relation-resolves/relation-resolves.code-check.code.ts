@@ -25,7 +25,7 @@ import {
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
+import { bodyOf, PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"
@@ -171,7 +171,7 @@ export function danglingIn(
   return said
 }
 
-export function relationResolves(change: Change, shadow: Shadow): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   const took = change.changed.some((one) => change.after(one) === null)
   if (carried.length === 0 && !took) return []
@@ -188,3 +188,5 @@ export function relationResolves(change: Change, shadow: Shadow): readonly Judge
   }
   return said
 }
+
+export const relationResolves = waking(PAGES, refusalsIn)

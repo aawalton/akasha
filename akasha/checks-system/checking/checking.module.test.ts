@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   identitiesTakenFrom,
   idFiled,
@@ -35,6 +36,16 @@ const HELD_CODE_AT = "akasha/held/held.module.code.ts"
 
 const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
   .pathname
+
+const ROOT = join(WALKING_AT, "..", "..", "..", "..")
+
+const HELD = "akasha/checks-system/checking/checking.module"
+
+const SAMPLED: readonly string[] = [
+  `${HELD}.code.ts`,
+  `${HELD}.ts`,
+  "akasha/persona-system/persona/ali/ali.persona.portrait.md",
+]
 
 const scratch = scratchWorld()
 
@@ -364,4 +375,24 @@ test("`wokenBy` names the checks that ran and `named` names every check the gate
   expect(gate.wokenBy(overMd)).toEqual(["refuses-all"])
   expect(gate.wokenBy(overBoth)).toEqual(["refuses-all", "wakes-ts"])
   expect(gate.over(overMd).map((one) => one.reason)).toEqual(["refused"])
+})
+
+function over(changed: readonly string[]): Change {
+  const held = onDisk(ROOT)
+  return { root: ROOT, changed, after: held, before: held }
+}
+
+test("a check refuses nothing in a change its own waking turns away whole", () => {
+  const asked = shadowAsked(over(SAMPLED))
+  const woken: string[] = []
+  for (const one of checksIn(ROOT)) {
+    const wakes = one.wakesOn
+    if (wakes === null) continue
+    const asleep = SAMPLED.filter((path) => !wakes(path, asked))
+    if (asleep.length === 0) continue
+    woken.push(one.slug)
+    const change = over(asleep)
+    expect([one.slug, one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
+  }
+  expect(woken.length).toBeGreaterThan(0)
 })
