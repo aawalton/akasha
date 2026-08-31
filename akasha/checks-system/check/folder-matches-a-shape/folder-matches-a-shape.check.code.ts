@@ -73,9 +73,9 @@ export function edgesOf(root: string, path: string, bytes: Uint8Array | null): R
   return found
 }
 
-export function shapesIn(root: string, given: string | Reading): readonly Shape[] {
+export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
   const found: Shape[] = []
-  for (const one of everyOfType(given, SHAPE)) {
+  for (const one of everyOfType(shadow.reading, SHAPE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a folder shape, and its name says no slug`)
@@ -87,12 +87,18 @@ export function shapesIn(root: string, given: string | Reading): readonly Shape[
         `${one.path} is a folder shape, and no code file can stand beside a name like it`
       )
     }
+    const standing = shadow.codeAt(beside)
+    if (standing === null) {
+      throw new Error(
+        `${one.path} is a folder shape, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
+      )
+    }
     let mod: Record<string, unknown>
     try {
-      mod = loadFrom(join(root, beside)) as Record<string, unknown>
+      mod = loadFrom(join(root, standing)) as Record<string, unknown>
     } catch (thrown) {
       throw new Error(
-        `${one.path} is a folder shape, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+        `${one.path} is a folder shape, and ${standing} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
     const named = mod[exportedAs(slug)]
@@ -151,7 +157,7 @@ function enteringOf(change: Change): (folder: string, path: string) => boolean {
 }
 
 export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Judged[] {
-  const shapes = shapesIn(change.root, shadow.reading)
+  const shapes = shapesIn(change.root, shadow)
   const pageTypes = pageTypesIn(shadow.reading)
   const fileProperties = new Set<string>(filePropertiesAt(shadow.reading).keys())
   let known: Known | null = null

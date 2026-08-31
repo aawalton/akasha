@@ -23,6 +23,11 @@ export const formatReaching = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The code is loaded from wherever on disk its body stands rather than from where a change leaves it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What is loaded is what the slug's export name answers to.",
     },
     {

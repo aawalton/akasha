@@ -16,7 +16,10 @@ const loadFrom = createRequire(import.meta.url)
 
 export type Formatting = (nameFormatSlug: string) => Matching
 
-export function matchingIn(root: string): Formatting {
+export function matchingIn(
+  root: string,
+  codeAt: (path: string) => string | null = (path) => path
+): Formatting {
   const held = new Map<string, Matching>()
   return (nameFormatSlug) => {
     const found = held.get(nameFormatSlug)
@@ -39,12 +42,18 @@ export function matchingIn(root: string): Formatting {
         `${one.path} is a name format, and no code file can stand beside a name like it`
       )
     }
+    const standing = codeAt(beside)
+    if (standing === null) {
+      throw new Error(
+        `${one.path} is a name format, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
+      )
+    }
     let mod: Record<string, unknown>
     try {
-      mod = loadFrom(join(root, beside)) as Record<string, unknown>
+      mod = loadFrom(join(root, standing)) as Record<string, unknown>
     } catch (thrown) {
       throw new Error(
-        `${one.path} is a name format, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+        `${one.path} is a name format, and ${standing} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
     const named = mod[exportedAs(slug)]

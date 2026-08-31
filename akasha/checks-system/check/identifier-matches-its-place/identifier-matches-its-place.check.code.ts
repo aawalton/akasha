@@ -103,8 +103,11 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
   return found
 }
 
-export function placesIn(root: string): Places {
-  const formatting = matchingIn(root)
+export function placesIn(
+  root: string,
+  codeAt: (path: string) => string | null = (path) => path
+): Places {
+  const formatting = matchingIn(root, codeAt)
   const held = (nameFormatSlug: string): Placing => ({
     nameFormatSlug,
     matching: formatting(nameFormatSlug),
@@ -116,10 +119,10 @@ export function placesIn(root: string): Places {
   }
 }
 
-export const identifierMatchesItsPlace: Running = (change) => {
+export const identifierMatchesItsPlace: Running = (change, shadow) => {
   const wanted = change.changed.some((one) => one.startsWith(INSIDE) && one.endsWith(ENDING))
   if (!wanted) return []
-  const places = placesIn(change.root)
+  const places = placesIn(change.root, shadow.codeAt)
   return overEachFile(change, (given) => {
     if (!given.path.startsWith(INSIDE) || !given.path.endsWith(ENDING)) return []
     return refusedIn(given.path, bodyOf(given), places)

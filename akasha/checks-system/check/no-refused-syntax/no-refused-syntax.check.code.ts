@@ -3,7 +3,6 @@ import { join } from "node:path"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
@@ -27,9 +26,9 @@ export type Rule = {
   readonly judge: Judging
 }
 
-export function rulesIn(root: string, given: string | Reading): readonly Rule[] {
+export function rulesIn(root: string, shadow: Shadow): readonly Rule[] {
   const found: Rule[] = []
-  for (const one of everyOfType(given, RULE)) {
+  for (const one of everyOfType(shadow.reading, RULE)) {
     const said = namedIn(one.path)
     if (said === null) {
       throw new Error(`${one.path} is a syntax rule, and its name says no slug`)
@@ -41,12 +40,18 @@ export function rulesIn(root: string, given: string | Reading): readonly Rule[] 
         `${one.path} is a syntax rule, and no code file can stand beside a name like it`
       )
     }
+    const standing = shadow.codeAt(beside)
+    if (standing === null) {
+      throw new Error(
+        `${one.path} is a syntax rule, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
+      )
+    }
     let mod: Record<string, unknown>
     try {
-      mod = loadFrom(join(root, beside)) as Record<string, unknown>
+      mod = loadFrom(join(root, standing)) as Record<string, unknown>
     } catch (thrown) {
       throw new Error(
-        `${one.path} is a syntax rule, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+        `${one.path} is a syntax rule, and ${standing} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
     const named = mod[exportedAs(slug)]
@@ -77,7 +82,7 @@ export function refusalsIn(rules: readonly Rule[], path: string, text: string): 
 }
 
 export function noRefusedSyntax(change: Change, shadow: Shadow): readonly Judged[] {
-  const rules = rulesIn(change.root, shadow.reading)
+  const rules = rulesIn(change.root, shadow)
   return overEachFile(
     change,
     overEachText((path, text) => refusalsIn(rules, path, text))

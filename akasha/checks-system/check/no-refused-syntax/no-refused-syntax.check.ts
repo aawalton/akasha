@@ -20,6 +20,16 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A rule's code is loaded from wherever on disk its body stands rather than from where the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change writing a rule's code anew is refused rather than judged by the body standing before it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file is parsed the once and handed to every rule.",
     },
     {

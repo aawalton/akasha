@@ -59,7 +59,13 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The shapes themselves are loaded from what stands on disk.",
+      statement:
+        "A shape's code is loaded from wherever on disk its body stands rather than from where the change leaves it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change writing a shape's code anew is refused rather than judged by the body standing before it.",
     },
     {
       invariantKind: "absence",

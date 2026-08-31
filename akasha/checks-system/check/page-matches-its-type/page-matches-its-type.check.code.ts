@@ -208,7 +208,7 @@ export function pageMatchesItsType(change: Change, shadow: Shadow): readonly Jud
     held.set(pageTypeSlug, said)
     return said
   }
-  const formatting = matchingIn(change.root)
+  const formatting = matchingIn(change.root, shadow.codeAt)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!path.startsWith(INSIDE)) continue
