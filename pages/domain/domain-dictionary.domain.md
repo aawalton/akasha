@@ -6,7 +6,6 @@ slug: domain-dictionary
 domain-parent-slug: domain/domain-system
 sequence-slugs:
   - page-type/domain
-  - page-type/barred-meaning
 settled: true
 ---
 
