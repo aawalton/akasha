@@ -59,14 +59,6 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "Judging each standing body in turn is a helper a check reaches for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A check judging a path the change takes away walks the change itself.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "Audit is the same run over every path the index files including page and property files alike.",
     },
@@ -83,11 +75,6 @@ export const checking = {
       invariantKind: "departure",
       statement:
         "A check needing what it was not handed reads the body the change would leave rather than the one on disk.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "How a check runs over each file and how a text is read out of a body are held here rather than written again in every check.",
     },
   ],
 } as const satisfies Module

@@ -2,7 +2,7 @@ import {
   landingOf,
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
+import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
 
 const TS = ".ts"
 

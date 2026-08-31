@@ -10,7 +10,7 @@ import {
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { overEachFile, overEachText } from "../../checking/checking.module.code.ts"
+import { overEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import type { Judging, Standing } from "./syntax-rule/syntax-rule.page-type.ts"
 

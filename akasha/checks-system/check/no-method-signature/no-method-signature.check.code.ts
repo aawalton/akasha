@@ -1,6 +1,6 @@
 import ts from "typescript"
 import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
-import { judgingEachFile, overEachText } from "../../checking/checking.module.code.ts"
+import { judgingEachFile, overEachText } from "../../change-walking/change-walking.module.code.ts"
 
 function foundIn(at: string, text: string): readonly string[] {
   const source = parsedAs(at, text)

@@ -9,7 +9,7 @@ import { standingByPath } from "../../../pages-system/indexes/index-reading/inde
 import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf } from "../../checking/checking.module.code.ts"
+import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const INSIDE = "akasha/"

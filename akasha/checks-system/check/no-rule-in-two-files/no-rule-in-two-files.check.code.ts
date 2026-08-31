@@ -1,7 +1,12 @@
 import { speltIn } from "../../../code-system/code-rule/code-rule.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bodyOf, everyFileIn, overEachFile, textIn } from "../../checking/checking.module.code.ts"
+import {
+  bodyOf,
+  everyFileIn,
+  overEachFile,
+  textIn,
+} from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const TS = ".ts"

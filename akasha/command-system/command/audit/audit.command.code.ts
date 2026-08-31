@@ -1,9 +1,9 @@
 import { resolve } from "node:path"
+import { everythingIn } from "../../../checks-system/change-walking/change-walking.module.code.ts"
 import type { Gathered } from "../../../checks-system/checking/checking.module.code.ts"
 import {
   checksAt,
   checksIn,
-  everythingIn,
   judgingBy,
 } from "../../../checks-system/checking/checking.module.code.ts"
 import type { Judged, Judging } from "../../../checks-system/judging/judging.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Body } from "../../checks-system/checking/checking.module.code.ts"
+import type { Body } from "../../checks-system/change-walking/change-walking.module.code.ts"
 
 export function bytesOf(text: string): Uint8Array {
   return new TextEncoder().encode(text)

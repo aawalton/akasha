@@ -10,6 +10,7 @@ export const checksSystem = {
     "module/judging",
     "module/check-scratch",
     "module/checking",
+    "module/change-walking",
     "module/shape-saying",
   ],
   invariants: [

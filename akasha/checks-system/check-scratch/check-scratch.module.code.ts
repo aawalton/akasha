@@ -9,7 +9,7 @@ import {
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "../../testing-system/bodying/bodying.module.code.ts"
-import { onDisk } from "../checking/checking.module.code.ts"
+import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

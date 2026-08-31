@@ -1,5 +1,5 @@
-import type { Body } from "../../checking/checking.module.code.ts"
-import { judgingEachFile } from "../../checking/checking.module.code.ts"
+import type { Body } from "../../change-walking/change-walking.module.code.ts"
+import { judgingEachFile } from "../../change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
 

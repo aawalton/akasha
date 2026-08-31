@@ -8,24 +8,11 @@ import {
   idTakenFrom,
   noneOfTypeFiled,
   pathFiled,
-  pathsTakenFrom,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
-import {
-  checkPagesIn,
-  checksAt,
-  checksIn,
-  everyFileIn,
-  everythingIn,
-  judgingBy,
-  judgingEachFile,
-  onDisk,
-  overEachFile,
-  overEachText,
-} from "./checking.module.code.ts"
+import { onDisk } from "../change-walking/change-walking.module.code.ts"
+import { checkPagesIn, checksAt, checksIn, judgingBy } from "./checking.module.code.ts"
 
 const CHECK = "check"
 
@@ -107,7 +94,6 @@ const REFUSES_TAKING =
   "    .filter((path) => change.after(path) === null)\n" +
   '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
   "}\n"
-
 test("a check is found through the index rather than by walking the tree", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const found = checksIn(root)
@@ -167,44 +153,6 @@ test("a path the change takes away is handed to every check, and can be refused"
   expect(said[0]?.reason).toContain("may not be taken away")
 })
 
-test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
-  const root = scratch.rootFor("akasha-each-file-")
-  writeFileSync(join(root, "here.ts"), "here")
-  const said = overEachFile(
-    { root, changed: ["gone.ts", "here.ts"], after: onDisk(root), before: onDisk(root) },
-    (given) => [`${given.path} holds ${given.bytes.length} bytes`]
-  )
-  expect(said).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
-})
-
-test("reading each text hands the path and the body on, and passes over what is no TypeScript", () => {
-  const seen: string[] = []
-  const judge = overEachText((path, text) => {
-    seen.push(path)
-    return [`${path} says ${text.length}`]
-  })
-  const bytes = new TextEncoder().encode("held")
-  expect(judge({ root: "/nowhere", path: "one.ts", bytes })).toEqual(["one.ts says 4"])
-  expect(judge({ root: "/nowhere", path: "one.md", bytes })).toEqual([])
-  expect(seen).toEqual(["one.ts"])
-})
-
-test("reading each text passes over a body that is no text at all", () => {
-  const judge = overEachText(() => ["read"])
-  const bytes = Uint8Array.from([0xff, 0xfe, 0xfd])
-  expect(judge({ root: "/nowhere", path: "one.ts", bytes })).toEqual([])
-})
-
-test("judging each file makes a runner of a judge, naming the path each refusal is for", () => {
-  const root = scratch.rootFor("akasha-each-run-")
-  writeFileSync(join(root, "here.ts"), "here")
-  const run = judgingEachFile((given) => [`${given.path} holds ${given.bytes.length} bytes`])
-  const held = onDisk(root)
-  expect(
-    run({ root, changed: ["gone.ts", "here.ts"], after: held, before: held }, shadowAt(root))
-  ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
-})
-
 test("a phase takes only the checks that state it", () => {
   const root = rootWith([
     { slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL },
@@ -214,37 +162,6 @@ test("a phase takes only the checks that state it", () => {
   expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
-})
-
-test("audit takes a page and the files its own properties imply", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  const every = everyFileIn(root)
-  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.ts")
-  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.code.ts")
-})
-
-test("audit takes the paths the index files, and works none of them out from a property name", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
-  const id = "01a04bc4-0000-7000-8000-000000000001"
-  pathFiled(root, `${at.slice(0, -".ts".length)}.note.md`, [{ path: at, id }])
-  const every = everyFileIn(root)
-  expect(every).toContain("akasha/checks-system/check/admits-all/admits-all.check.note.md")
-})
-
-test("audit reads no page module to work out what stands, so a page it cannot load is still taken", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  const at = "akasha/checks-system/check/admits-all/admits-all.check.ts"
-  writeFileSync(join(root, at), "this is not typescript at all (((\n")
-  expect(everyFileIn(root)).toContain(`${at.slice(0, -".ts".length)}.code.ts`)
-})
-
-test("audit reads the body of every file it takes", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  const change = everythingIn(root)
-  expect(change.root).toBe(root)
-  expect(change.changed.length).toBeGreaterThan(0)
-  for (const path of change.changed) expect(change.after(path)).not.toBeNull()
 })
 
 test("a check page whose code is not there stops the whole run", () => {
@@ -277,34 +194,6 @@ test("an id directory standing but carrying no check page type answers as absent
   idTakenFrom(root, CHECK_TYPE)
   expect(() => checkPagesIn(root)).toThrow("nothing says which pages are checks")
   expect(() => checkPagesIn(root)).not.toThrow("is not an index naming none")
-})
-
-test("an index holding no path directory cannot answer, so the audit refuses rather than taking nothing", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  pathsTakenFrom(root)
-  expect(() => everyFileIn(root)).toThrow("could not be answered")
-  expect(() => everythingIn(root)).toThrow("is not an index naming none")
-})
-
-const HANDED: Reading = {
-  holds: () => false,
-  listing: (at) => {
-    if (at === "path") return [{ name: "akasha", directory: true }]
-    if (at === "path/akasha") return [{ name: "held.ts.jsonl", directory: false }]
-    return []
-  },
-  lines: () => [],
-}
-
-test("a reading handed in says which files stand, so a check may ask of the index it will leave", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  expect(everyFileIn(root, HANDED)).toEqual(["akasha/held.ts"])
-})
-
-test("a reading handed in does not stand in for the guard, which is on the root and stays", () => {
-  const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  pathsTakenFrom(root)
-  expect(() => everyFileIn(root, HANDED)).toThrow("could not be answered")
 })
 
 test("an index naming no check refuses, a change judged by nothing being no change judged clean", () => {
