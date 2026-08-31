@@ -129,6 +129,12 @@ export function keepBeside(page: string, values: Beside): void {
 // So the record is read back from the old store after the patch rather than assembled from what was
 // passed in. That read is the merge already done, which is why it is taken from there rather than
 // folded together here a second time.
+//
+// ASSEMBLING IT FROM WHAT AKASHA HOLDS INSTEAD WAS TRIED AND TAKEN BACK OUT. It is the coupling
+// that has to go before any writer can stop writing outside akasha, so it will be tried again — but
+// reading the base from akasha turns a base that could not be read into a base that is empty, and
+// an empty base drops every field the caller did not name. It dropped three of `astra`'s four
+// within the hour. Whatever replaces this has to tell those two apart before it is trusted.
 export function keepBesideUnder(page: string, key: string, values: Beside): void {
   patchUncommittedUnder(page, key, values)
   if (RECORDS[key] === undefined) return
