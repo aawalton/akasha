@@ -63,3 +63,26 @@ export function componentSwiftForProgram(programSlug: string): readonly string[]
 export function componentSwiftFor(appSlug: string): readonly string[] {
   return componentSwiftForProgram(`${appSlug}-widget`)
 }
+
+/**
+ * The name Xcode builds a program under, which the built bundle is named for. It
+ * stands on the akasha ios-program page beside the bundle id and the profile, all
+ * three naming one build target. Both seams read it rather than writing it out, so
+ * anything driving a build has to hand it over.
+ */
+export function targetNameForProgram(programSlug: string): string {
+  const page = programPage(programSlug)
+  const named = "targetName" in page ? page.targetName : undefined
+  if (typeof named !== "string" || named === "") {
+    throw new InputError(
+      `the akasha ios-program page ${page.slug} states no \`target-name\`, and the seam building ` +
+        `it reads that off the page — a build without it names no bundle to look for`
+    )
+  }
+  return named
+}
+
+/** What Xcode builds an app's widget extension under. */
+export function widgetTargetNameFor(appSlug: string): string {
+  return targetNameForProgram(`${appSlug}-widget`)
+}

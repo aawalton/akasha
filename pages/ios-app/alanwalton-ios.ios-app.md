@@ -16,7 +16,7 @@ capacitor-config-repo-path: akasha:akasha/code-system/ios-app/ios-apps/alanwalto
 shared-widget-repo-path: akasha:akasha/code-system/ios-component/ios-components
 own-widget-repo-path: akasha:akasha/code-system/ios-program/ios-programs/alanwalton-widget
 seam-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh
-sim-build-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-build-sim/alanwalton-build-sim.shell-script.shell.sh
+sim-build-script: akasha:akasha/code-system/ios-app/shell-scripts/build-sim/build-sim.shell-script.shell.sh
 entitlements-repo-path: akasha:akasha/code-system/ios-program/ios-programs/alanwalton-app/alanwalton-app.ios-program.entitlements.entitlements
 icon-repo-path: akasha:native-shell/alanwalton/ios-icon/AppIcon-1024.png
 www-stage-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh
