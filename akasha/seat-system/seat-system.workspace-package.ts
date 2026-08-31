@@ -23,6 +23,10 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "No writer of a subagent writes it outside akasha.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat's page stands while an agent is present in it.",
     },
     {
