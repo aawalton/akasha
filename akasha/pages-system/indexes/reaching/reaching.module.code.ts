@@ -56,10 +56,14 @@ export function knownIn(
   const reading = readingOf(given)
   const target = new Map<string, string>()
   const keyOfSlug = new Map<string, string>()
+  const keyed = new Map<string, string[]>()
   for (const held of schemaAt(reading).values()) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(held.slug, named)
-    if (held.propertySlug !== "") keyOfSlug.set(held.slug, exportedAs(held.propertySlug))
+    if (held.propertySlug === "") continue
+    const key = exportedAs(held.propertySlug)
+    keyOfSlug.set(held.slug, key)
+    keyed.set(key, [...(keyed.get(key) ?? []), held.slug])
   }
   const carried = new Map<string, ReadonlyMap<string, string>>()
   const carriedBy = (pageTypeSlug: string): ReadonlyMap<string, string> => {
@@ -119,8 +123,14 @@ export function knownIn(
     byId: (id) => standingById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
     slugOfKeyIn: (value, key) => {
+      const held = keyed.get(key) ?? []
+      const one = held[0]
+      if (one === undefined) return null
+      if (held.length === 1) return one
       const stated = textAt(value, "pageTypeSlug")
-      return stated === null ? null : (carriedBy(slugOf(stated)).get(key) ?? null)
+      if (stated === null) return null
+      const said = carriedBy(slugOf(stated)).get(key)
+      return said === undefined ? null : said
     },
     fieldOfKey: (propertySlug, key) => {
       for (const one of fields.get(propertySlug) ?? []) {

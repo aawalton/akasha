@@ -104,6 +104,10 @@ export function standing(pages: Readonly<Record<string, string>>): Shaped {
     byId: () => null,
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
     slugOfKeyIn: (_value, key) => KEYED[key] ?? null,
-    fieldOfKey: (_propertySlug, key) => KEYED[key] ?? null,
+    fieldOfKey: (propertySlug, key) => {
+      const slug = KEYED[key] ?? null
+      const fields = propertySlug === "parts" ? ["part-slugs"] : []
+      return slug !== null && fields.includes(slug) ? slug : null
+    },
   }
 }
