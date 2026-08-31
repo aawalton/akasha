@@ -17,7 +17,7 @@ export const phoneNumberProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A number opens with the country calling code ITU-T E.164 assigns.",
+      statement: "A number carries its own country calling code.",
     },
     {
       invariantKind: "departure",
