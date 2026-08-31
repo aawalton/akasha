@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "../../code-system/workspace-package/workspace-package.page-type.ts"
 
-export const service = {
+export const pagesSystemService = {
   id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
   pageTypeSlug: "workspace-package",
-  slug: "service",
+  slug: "pages-system-service",
   definition: "the pages reached over HTTP",
   manifest: "json",
   partSlugs: ["module/page-asking", "module/page-serving"],
