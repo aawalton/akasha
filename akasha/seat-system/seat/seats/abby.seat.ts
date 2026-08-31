@@ -9,7 +9,7 @@ export const abby = {
   roleSlug: "interviewer",
   personSlug: "alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "c3b363f8-bf70-4129-98a2-0c2f7b54e855",
 } as const satisfies Seat
