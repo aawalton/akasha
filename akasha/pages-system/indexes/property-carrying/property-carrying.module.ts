@@ -23,6 +23,14 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "What declares a property is answered apart from what carries it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A declarer is answered with the page type it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type declaring a property carries it to every type beneath it.",
     },
     {

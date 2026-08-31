@@ -23,6 +23,8 @@ const TEXT = "text-property"
 
 const NUMBER = "number-property"
 
+const RECORD = "record-property"
+
 const ONE = "01a054d3-0000-7001-8000-000000000001"
 
 const TWO = "01a054d3-0000-7002-8000-000000000002"
@@ -40,8 +42,9 @@ function rooted(): string {
   typed(root, "page-property", "domain")
   typed(root, TEXT, "page-property")
   typed(root, NUMBER, "page-property")
+  typed(root, RECORD, "page-property")
   typed(root, PAGE_TYPE, "domain")
-  declaring(root, "properties", { pageTypeSlug: "record-property" })
+  declaring(root, "properties", { pageTypeSlug: RECORD })
   declaring(root, "held", { pageTypeSlug: TEXT })
   return root
 }
@@ -61,6 +64,24 @@ function typing(
     bytesOf(
       `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "page-type", ` +
         `slug: ${JSON.stringify(slug)}, extendsSlug: ${said}, ` +
+        `properties: ${JSON.stringify(declared)} }\n`
+    )
+  )
+}
+
+function recording(
+  root: string,
+  slug: string,
+  id: string,
+  declared: readonly Record<string, unknown>[]
+): Uint8Array {
+  stands(root, RECORD, slug, id)
+  return put(
+    root,
+    pathFor(RECORD, slug),
+    bytesOf(
+      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(RECORD)}, ` +
+        `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)}, ` +
         `properties: ${JSON.stringify(declared)} }\n`
     )
   )
@@ -239,6 +260,76 @@ test("a page type the change neither carries nor is reached from is not judged",
     landing(root, {
       [pathFor(PAGE_TYPE, "one")]: typing(root, "one", ONE, null, [
         { pagePropertySlug: "text-property/held", required: true, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})
+
+test("a record property keying each of its fields once is let through", () => {
+  const root = rooted()
+  declaring(root, "over", { pageTypeSlug: TEXT })
+  const said = judged(
+    landing(root, {
+      [pathFor(RECORD, "taking")]: recording(root, "taking", ONE, [
+        { pagePropertySlug: "held", required: true, many: false },
+        { pagePropertySlug: "over", required: false, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toEqual([])
+})
+
+test("two of a record property's fields at one key naming different properties are refused", () => {
+  const root = rooted()
+  declaring(root, "held", { pageTypeSlug: NUMBER })
+  const at = pathFor(RECORD, "taking")
+  const said = judged(
+    landing(root, {
+      [at]: recording(root, "taking", ONE, [
+        { pagePropertySlug: "text-property/held", required: true, many: false },
+        { pagePropertySlug: "number-property/held", required: false, many: false },
+      ]),
+    })
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(at)
+  expect(said[0]?.reason).toContain("`text-property/held`")
+  expect(said[0]?.reason).toContain("`number-property/held`")
+  expect(said[0]?.reason).toContain("`taking`")
+})
+
+test("a record property is judged when the change carries a field it declares", () => {
+  const root = rooted()
+  declaring(root, "held", { pageTypeSlug: NUMBER })
+  const at = pathFor(RECORD, "taking")
+  recording(root, "taking", TWO, [
+    { pagePropertySlug: "text-property/held", required: true, many: false },
+    { pagePropertySlug: "number-property/held", required: false, many: false },
+  ])
+  identified(root, TWO, at)
+  edging(root, THREE, "page-property-slug", TWO, at)
+  const said = judged(
+    landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
+  )
+
+  expect(said.map((one) => one.path)).toEqual([at])
+})
+
+test("a record property takes no declaration from the page type carrying it", () => {
+  const root = rooted()
+  declaring(root, "taking", { pageTypeSlug: RECORD })
+  typing(root, "over", TWO, null, [
+    { pagePropertySlug: "held", required: true, many: false },
+    { pagePropertySlug: "taking", required: false, many: false },
+  ])
+  const said = judged(
+    landing(root, {
+      [pathFor(RECORD, "taking")]: recording(root, "taking", ONE, [
+        { pagePropertySlug: "held", required: true, many: false },
       ]),
     })
   )

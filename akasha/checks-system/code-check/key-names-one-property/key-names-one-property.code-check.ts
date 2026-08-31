@@ -5,7 +5,7 @@ export const keyNamesOneProperty = {
   pageTypeSlug: "code-check",
   slug: "key-names-one-property",
   definition:
-    "the check holding each of a page type's keys to one property, narrowed where restated",
+    "the check holding each of a declarer's keys to one property, narrowed where restated",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -55,8 +55,24 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
+      statement: "A record property's fields are held to one key each like a page type's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record property takes no declaration from any other page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What declares a property is read from the index rather than composed here.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page type is judged when the change carries it and when the change carries a property it declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record property is judged on the same two counts.",
     },
     {
       invariantKind: "departure",

@@ -26,20 +26,22 @@ export type Carrying = {
 
 export type Carried = { readonly carrying: readonly Carrying[] } | { readonly refused: string }
 
-type Declaring = {
+export type Declaring = {
   readonly slug: string
   readonly kind: string
   readonly id: string
+  readonly path: string
 }
 
-function declaringOf(reading: Reading, id: string): readonly Declaring[] {
+export function declaringOf(given: string | Reading, id: string): readonly Declaring[] {
+  const reading = readingIn(given)
   const found: Declaring[] = []
   for (const said of idsNaming(reading, id, DECLARES)) {
     const standing = standingById(reading, said)
     if (standing === null) continue
     const named = namedIn(standing.path)
     if (named === null) continue
-    found.push({ slug: named.stem, kind: named.tail, id: said })
+    found.push({ slug: named.stem, kind: named.tail, id: said, path: standing.path })
   }
   return found
 }

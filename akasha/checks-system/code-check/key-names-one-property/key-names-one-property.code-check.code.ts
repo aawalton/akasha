@@ -3,12 +3,10 @@ import {
   pageTypesIn,
   textAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
-  idsNaming,
-  standingById,
-} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { declaringOf } from "../../../pages-system/indexes/property-carrying/property-carrying.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import {
+  carriedIn,
   type Carried as Declared,
   declarationsOf,
   identityOf,
@@ -21,7 +19,7 @@ const PAGE_TYPE = "page-type"
 
 const PAGE_PROPERTY = "page-property"
 
-const DECLARES = "page-property-slug"
+const DECLARED = "properties"
 
 const KIND = "pageTypeSlug"
 
@@ -30,8 +28,19 @@ const SLUG = "slug"
 const ID = "id"
 
 export type Held = {
-  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly kind: string
   readonly path: string
+  readonly descends: boolean
+}
+
+function heldAt(one: Held): string {
+  return `${one.kind}/${one.slug}`
+}
+
+function taking(found: Map<string, Held>, one: Held): undefined {
+  const at = heldAt(one)
+  if (!found.has(at)) found.set(at, one)
 }
 
 export function judgedIn(
@@ -41,32 +50,32 @@ export function judgedIn(
 ): readonly Held[] {
   const under = kindsUnder(root, PAGE_TYPE, shadow.reading, shadow.pageOf)
   const properties = kindsUnder(root, PAGE_PROPERTY, shadow.reading, shadow.pageOf)
-  const found = new Map<string, string>()
+  const found = new Map<string, Held>()
   for (const one of carried) {
     const kind = textAt(one.value, KIND)
     const slug = textAt(one.value, SLUG)
-    if (kind === null || slug === null || !under.has(kind)) continue
-    found.set(slug, one.path)
+    if (kind === null || slug === null) continue
+    if (under.has(kind)) taking(found, { slug, kind, path: one.path, descends: true })
+    else if (properties.has(kind) && Array.isArray(one.value[DECLARED])) {
+      taking(found, { slug, kind, path: one.path, descends: false })
+    }
   }
   for (const one of carried) {
     const kind = textAt(one.value, KIND)
     const id = textAt(one.value, ID)
     if (kind === null || id === null || !properties.has(kind)) continue
-    for (const said of idsNaming(shadow.reading, id, DECLARES)) {
-      const standing = standingById(shadow.reading, said)
-      const value = standing === null ? null : shadow.pageOf(standing.path)
-      if (standing === null || value === null) continue
-      const above = textAt(value, KIND)
-      const slug = textAt(value, SLUG)
-      if (above === null || slug === null || !under.has(above)) continue
-      if (!found.has(slug)) found.set(slug, standing.path)
+    for (const said of declaringOf(shadow.reading, id)) {
+      const { slug, path } = said
+      if (under.has(said.kind)) {
+        taking(found, { slug, kind: said.kind, path, descends: true })
+      } else if (properties.has(said.kind)) {
+        taking(found, { slug, kind: said.kind, path, descends: false })
+      }
     }
   }
-  return [...found]
-    .map(([pageTypeSlug, path]) => ({ pageTypeSlug, path }))
-    .sort((one, two) =>
-      one.pageTypeSlug < two.pageTypeSlug ? -1 : one.pageTypeSlug > two.pageTypeSlug ? 1 : 0
-    )
+  return [...found.values()].sort((one, two) =>
+    heldAt(one) < heldAt(two) ? -1 : heldAt(one) > heldAt(two) ? 1 : 0
+  )
 }
 
 function collidingAt(key: string, one: Declared, two: Declared): string {
@@ -101,12 +110,15 @@ function whyRefused(key: string, nearer: Declared, further: Declared): string | 
   return how === null ? null : looseningAt(key, nearer, further, how)
 }
 
+function declaringIn(one: Held, shadow: Shadow): readonly Declared[] {
+  if (one.descends) return declarationsOf(one.slug, shadow.reading, shadow.pageOf)
+  const value = shadow.pageOf(one.path)
+  return value === null ? [] : carriedIn(value, shadow.reading, one.slug)
+}
+
 export function collisionsIn(one: Held, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
-  for (const [key, held] of Map.groupBy(
-    declarationsOf(one.pageTypeSlug, shadow.reading, shadow.pageOf),
-    (each) => each.key
-  )) {
+  for (const [key, held] of Map.groupBy(declaringIn(one, shadow), (each) => each.key)) {
     for (const [at, nearer] of held.entries()) {
       for (const further of held.slice(at + 1)) {
         const why = whyRefused(key, nearer, further)

@@ -12,6 +12,7 @@
     "./indexing/testing": "./indexing/indexing.module.test-fixtures.ts",
     "./stamp": "./index-stamp/index-stamp.module.code.ts",
     "./generated-properties": "./generated-properties/generated-properties.module.code.ts",
+    "./property-carrying": "./property-carrying/property-carrying.module.code.ts",
     "./import": "./index/index-import/index-import.index.code.ts",
     "./identity": "./index/index-identity/index-identity.index.code.ts",
     "./relation": "./index/index-relation/index-relation.index.code.ts",
