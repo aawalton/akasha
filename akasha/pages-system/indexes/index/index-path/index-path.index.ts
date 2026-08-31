@@ -51,7 +51,11 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "Every path the index files is found by walking this tree.",
+      statement: "Every path a page states is found by walking this tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's sops file is filed here whether or not it stands.",
     },
     {
       invariantKind: "departure",

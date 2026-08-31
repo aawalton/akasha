@@ -119,8 +119,6 @@ export function pathsOf(
 ): readonly string[] {
   const own = under(repo, path)
   const found = [own]
-  const secret = secretAt(own)
-  if (secret !== null) found.push(secret)
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
     const propertySlug = slugFor(key)
@@ -128,6 +126,18 @@ export function pathsOf(
     const beside = besideAt(own, propertySlug, held)
     if (beside !== null) found.push(beside)
   }
+  return found
+}
+
+export function claimsOf(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: ReadonlySet<string>
+): readonly string[] {
+  const found = [...pathsOf(value, path, repo, fileProperties)]
+  const secret = secretAt(under(repo, path))
+  if (secret !== null) found.push(secret)
   return found
 }
 

@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import {
+  claimsOf,
   type Entry,
-  pathsOf,
   textAt,
   under,
   type Value,
@@ -23,7 +23,7 @@ export function pathIn(
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
-  return pathsOf(value, path, repo, fileProperties).map((one) => ({
+  return claimsOf(value, path, repo, fileProperties).map((one) => ({
     at: join(PATH, `${one}${ENDING}`),
     line,
   }))

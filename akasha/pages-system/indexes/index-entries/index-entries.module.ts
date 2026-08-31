@@ -15,7 +15,11 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claims its own path and the file each of its file properties names.",
+      statement: "A page states its own path and the file each of its file properties names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page claims everything it states.",
     },
     {
       invariantKind: "departure",
@@ -24,6 +28,10 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement: "The naming grammar lets no other page claim that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file a page claims without stating it is not asked to stand.",
     },
   ],
 } as const satisfies Module

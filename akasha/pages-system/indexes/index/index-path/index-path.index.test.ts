@@ -8,6 +8,7 @@ test("a path is filed under the path alone, with no scope or property above it",
 
   expect(pathIn(value, "/repo/a.domain.ts", "/repo", new Set())).toEqual([
     { at: "path/a.domain.ts.jsonl", line },
+    { at: "path/a.domain.sops.yaml.jsonl", line },
   ])
 })
 
@@ -19,6 +20,7 @@ test("a file a page property holds is filed under its own path, naming the page 
     { at: "path/deep/a.module.ts.jsonl", line },
     { at: "path/deep/a.module.code.ts.jsonl", line },
     { at: "path/deep/a.module.test.ts.jsonl", line },
+    { at: "path/deep/a.module.sops.yaml.jsonl", line },
   ])
 })
 
