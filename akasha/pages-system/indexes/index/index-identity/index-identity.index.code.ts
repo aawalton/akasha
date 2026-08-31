@@ -1,7 +1,7 @@
 import { join } from "node:path"
+import type { Identifying } from "../../../page-type/page-type-properties/page-type-properties.module.code.ts"
 import {
   type Entry,
-  type Identifier,
   textAt,
   under,
   type Value,
@@ -16,19 +16,28 @@ const ALWAYS = "always"
 
 const PAGE = "page"
 
+const NOTHING_NAMES = "no identifier is declared by the page type"
+
 export type Filed = {
   readonly scope: string
   readonly propertySlug: string
   readonly said: string
 }
 
-export function filedIn(value: Value, unique: ReadonlyMap<string, Identifier>): readonly Filed[] {
+export function filedIn(
+  value: Value,
+  identifying: Identifying,
+  only: ReadonlySet<string> | null = null
+): readonly Filed[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
+  const naming = identifying(pageTypeSlug)
+  if (naming.size === 0) throw new Error(`${NOTHING_NAMES} \`${pageTypeSlug}\``)
   const held: Filed[] = []
-  for (const [propertySlug, one] of unique) {
+  for (const [propertySlug, one] of naming) {
+    if (only !== null && !only.has(propertySlug)) continue
     const found = value[one.key]
     if (typeof found !== "string" && typeof found !== "number") continue
     const said = String(found)
@@ -41,12 +50,13 @@ export function identityIn(
   value: Value,
   path: string,
   repo: string,
-  unique: ReadonlyMap<string, Identifier>
+  identifying: Identifying,
+  only: ReadonlySet<string> | null = null
 ): readonly Entry[] {
   const id = textAt(value, "id")
   if (id === null) return []
   const line = JSON.stringify({ path: under(repo, path), id })
-  return filedIn(value, unique).map((one) => ({
+  return filedIn(value, identifying, only).map((one) => ({
     at: join(IDENTITY, one.scope, one.propertySlug, `${one.said}${ENDING}`),
     line,
   }))
