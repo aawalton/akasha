@@ -16,12 +16,7 @@ export const modelTest = {
   slug: "model-test",
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
-  partSlugs: [
-    "file-property/cases",
-    "model-test/guess-it-first",
-    "relation-property/model-family-slug",
-    "text-property/prompt",
-  ],
+  partSlugs: ["file-property/cases", "relation-property/model-family-slug", "text-property/prompt"],
   extendsSlug: "page-type/module",
   properties: [
     { pagePropertySlug: "model-family-slug", required: true, many: false },
@@ -32,6 +27,10 @@ export const modelTest = {
     {
       invariantKind: "departure",
       statement: "A test's code puts its prompt together from what it is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test's code picks which pages it judges rather than the prompt saying so.",
     },
     {
       invariantKind: "departure",
