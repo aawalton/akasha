@@ -2,11 +2,13 @@
 
 set -euo pipefail
 
-# THE CODE THIS RUNS STANDS OUTSIDE AKASHA AND IS REACHED BY NAMING ITS PATH. Nothing under
-# `akasha/` imports what is tracked outside it, and this does not import: it names a path and runs
-# it. The reach goes when the seat readers move in. Until then, saying where they are beats keeping
-# a second reader here, which would drift from them the way the three hand-rolled ones did.
-REPO=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../../.." && pwd -P)
+# WHAT A SEAT STATES IS READ FROM AKASHA, BY A MODULE STANDING IN IT. What is still reached outside
+# is a count of live children and a write of what the payload observed: subagents have no page here
+# yet, and a writer belongs with the other writers rather than forked off into this one.
+AKASHA=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../.." && pwd -P)
+REPO=$(cd "$AKASHA/.." && pwd -P)
+BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
+SEAT_READER="$AKASHA/seat-system/seat-reading/seat-reading.module.code.ts"
 
 INPUT=$(cat)
 
@@ -15,7 +17,6 @@ SESSION_ID=$(echo "$INPUT" | jq -r '.session_id // "unknown"' 2>/dev/null || ech
 AGENT_COUNT=0
 if [ -n "${AGENT_ID:-}" ]; then
   HERE="$REPO/tools"
-  BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
   AGENT_COUNT=$("$BUN_BIN" "$HERE/lib/seat-children-live.ts" "$AGENT_ID" 2>/dev/null || echo 0)
   case "$AGENT_COUNT" in '' | *[!0-9]*) AGENT_COUNT=0 ;; esac
   printf '%s' "$INPUT" | "$BUN_BIN" "$HERE/lib/seat-usage-keep.ts" "$AGENT_ID" >/dev/null 2>&1 || true
@@ -52,19 +53,14 @@ TOKENS_DISPLAY=$(echo "$INPUT" | jq -r '
 
 SEAT_RENDER=(persona domain role initiative)
 
-. "$REPO/tools/lib/seat-page-read.sh"
+SEAT_KEYS=()
+for SLOT in "${SEAT_RENDER[@]}"; do SEAT_KEYS+=("${SLOT}-slug"); done
 
-SEAT_FILE=$(seat_page_file "${AGENT_ID:-$SESSION_ID}")
 STATED=""
-for SLOT in "${SEAT_RENDER[@]}"; do
-  case "$SLOT" in
-    initiative) SEAT_KEY="$SEAT_INITIATIVE_KEY" ;;
-    *) SEAT_KEY="${SLOT}-slug" ;;
-  esac
-  HELD=$(seat_page_value "$SEAT_FILE" "$SEAT_KEY")
+while IFS= read -r HELD; do
   if [ -z "$HELD" ]; then continue; fi
   STATED="${STATED:+$STATED }$HELD"
-done
+done < <("$BUN_BIN" "$SEAT_READER" "${AGENT_ID:-}" "${SEAT_KEYS[@]}" 2>/dev/null || true)
 
 LINE="[$AGENT_COUNT]"
 if [ -n "$MODEL_DISPLAY" ]; then LINE="$LINE $MODEL_DISPLAY"; fi

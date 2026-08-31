@@ -17,11 +17,15 @@ export const statusline = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is read through the same funnel every other reader reads through.",
+      statement: "A seat is read from the page standing for it in akasha.",
     },
     {
       invariantKind: "stopgap",
-      statement: "That funnel stands outside akasha and is reached by naming its path.",
+      statement: "The count of live children is read by code standing outside akasha.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "What the payload observed is kept by code standing outside akasha.",
     },
   ],
 } as const satisfies ShellScript

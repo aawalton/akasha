@@ -28,9 +28,5 @@ export const shellScript = {
       invariantKind: "departure",
       statement: "A shell script is read by the shell rather than by the page loader.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "A shell script reaches code standing outside akasha.",
-    },
   ],
 } as const satisfies PageType
