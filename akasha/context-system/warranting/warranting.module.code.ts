@@ -5,6 +5,7 @@ import { blobIdOf, readingIn, sameBody } from "../../command-system/reading/read
 import {
   everyOfType,
   slugsOfType,
+  standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -26,6 +27,8 @@ const SHORTER =
 const PAGE_TYPE = "page-type"
 
 const WARRANT = "context-warrant"
+
+const SEAT = "seat"
 
 const CODE = "code"
 
@@ -235,6 +238,29 @@ export function unreadIn(
       if (held === null) said.push(notReadOf(warrant))
       else if (!sameBody(held, warrant.oid)) said.push(movedOf(warrant, held.oid))
     }
+  }
+  return said
+}
+
+export function seatPathOf(root: string, agentId: string): string | null {
+  const standing = standingById(root, agentId)
+  if (standing === null) return null
+  const said = namedIn(standing.path)
+  return said !== null && said.tail === SEAT ? standing.path : null
+}
+
+export function unheldIn(root: string, agentId: string | null): readonly string[] {
+  if (agentId === null) return []
+  const seat = seatPathOf(root, agentId)
+  if (seat === null) return []
+  const said: string[] = []
+  const asked = new Set<string>([seat])
+  for (const warrant of warrantsIn(root, seat, "write", knowingIn(root))) {
+    if (asked.has(warrant.path)) continue
+    asked.add(warrant.path)
+    const held = readingIn(root, agentId, warrant.path)
+    if (held === null) said.push(notReadOf(warrant))
+    else if (!sameBody(held, warrant.oid)) said.push(movedOf(warrant, held.oid))
   }
   return said
 }

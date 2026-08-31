@@ -67,6 +67,18 @@ export const warranting = {
       statement: "Warrants that cannot be worked out hand back the paths handed in.",
     },
     {
+      invariantKind: "departure",
+      statement: "The page a seat owes from is the one standing at its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat owes what its own page names rather than the page itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent sitting at no seat owes nothing of one.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing is changed that its writer has not read.",
     },
