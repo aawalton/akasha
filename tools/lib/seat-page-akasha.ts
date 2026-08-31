@@ -27,9 +27,10 @@ const WANTED = /--file-path\s+(\S+)/g
 
 const ROUNDS = 4
 
-// A person and a persona each extend a domain, so an assignment is addressed by whichever of these
-// the slug names.
-const ASSIGNED = ["domain", "person", "persona"] as const
+// A person and a persona each extend a domain, and an initiative is work toward one, so an
+// assignment is addressed by whichever of these the slug names. The page type is not carried in
+// from the old state, which knows only domains, so it is recovered here from what stands.
+const ASSIGNED = ["domain", "person", "persona", "initiative"] as const
 
 export function akashaSeatRelPath(seatName: string): string {
   return `${DIR}/${seatName}${SUFFIX}`
