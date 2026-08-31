@@ -40,11 +40,6 @@ export const STATED: Readonly<Record<string, string>> = {
   "rate-limit-tier": "rateLimitTier",
   "renewal-day": "renewalDay",
   scopes: "scopes",
-  // Written onto the page when a pass finds the account unusable, and read back by the pass that
-  // decides whether to skip it.
-  "subscription-disabled-reason": "subscriptionDisabledReason",
-  "terminal-at": "terminalAt",
-  "terminal-alerted-at": "terminalAlertedAt",
 }
 
 // What is OBSERVED of an account, which stands beside its page rather than in it.
@@ -63,6 +58,13 @@ export const OBSERVED: Readonly<Record<string, string>> = {
   "last-window-trigger-at": "lastWindowTriggerAt",
   "retry-after": "retryAllowedAt",
   "usage-read-at": "usageReadAt",
+  // Written when a pass finds the account unusable and cleared by the pass that finds it well
+  // again. These three stood in the old page body, and a mark carrying one landed a commit. They
+  // are readings rather than anything the account states, so they stand beside the page with the
+  // rest of what is observed and no mark reaches the commit.
+  "subscription-disabled-reason": "subscriptionDisabledReason",
+  "terminal-at": "terminalAt",
+  "terminal-alerted-at": "terminalAlertedAt",
   // The rotated pair held beside a page when no landing would carry it. No property declares it,
   // here or in the old system, and it is passed through under its own name so that the escape
   // hatch keeps working while nothing claims to have declared it.
