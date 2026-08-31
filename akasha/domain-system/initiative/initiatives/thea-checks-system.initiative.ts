@@ -7,7 +7,12 @@ export const theaChecksSystem = {
   domainSlug: "workspace-package/checks-system",
   personaSlug: "thea",
   intents: [
-    { statement: "Every constraint of the pages system is enforced in the types or the checks." },
+    {
+      statement:
+        "Every design invariant of the pages system a code check can enforce is enforced, and every one it cannot stands as an upkeep.",
+      workingMemory:
+        "459 design invariants in pages-system group into 242 rules: 69 enforced, 116 a code check could fill, 274 upkeep. Code checks only; what no program decides becomes upkeep, what has no subject under `akasha/` becomes stopgap. Building: instant-property-slug-closes-with-at, email-address-is-well-formed, phone-number-is-e164, restatement-narrows-something. Then five extending shipped machinery, then module-reaches-only-what-it-states, worth 46 invariants over 14 domains.",
+    },
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
