@@ -65,12 +65,12 @@ export const TEXTS: Selector<Text> = {
 
 export function judgingEach<T extends { readonly path: string }>(
   selector: Selector<T>,
-  judge: (given: T) => readonly string[]
+  judge: (given: T, shadow: Shadow) => readonly string[]
 ): Bounded {
   const run = (change: Change, shadow: Shadow): readonly Judged[] => {
     const said: Judged[] = []
     for (const given of selector.from(change, shadow)) {
-      for (const reason of judge(given)) said.push({ path: given.path, reason })
+      for (const reason of judge(given, shadow)) said.push({ path: given.path, reason })
     }
     return said
   }

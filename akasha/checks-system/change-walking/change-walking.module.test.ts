@@ -118,6 +118,17 @@ test("a runner made from a selection carries what wakes it, so a gate may ask be
   expect(run.wakesOn("one.md")).toBe(false)
 })
 
+test("the judge of a selection is handed the index the change leaves, so it may ask of it", () => {
+  const change = mixedWorld()
+  const seen: string[] = []
+  const run = judgingEach(TEXTS, (given, shadow) => {
+    seen.push(typeof shadow.reading.holds)
+    return [given.path]
+  })
+  expect(run(change, shadowAt(change.root)).length).toBe(1)
+  expect(seen).toEqual(["function"])
+})
+
 test("a selector wakes on every path it hands over, so no path it judges passes a gate unseen", () => {
   const change = mixedWorld()
   const shadow = shadowAt(change.root)
