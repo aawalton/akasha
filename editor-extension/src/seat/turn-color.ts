@@ -1,13 +1,15 @@
 import * as path from 'node:path';
-import { SEAT_DIR } from '../../../agent/places.ts';
 import { duringOneCall } from '../../../during-call/during-call.ts';
 import { colorsOf } from '../../../tools/lib/agent-turn-drawn.ts';
 import { akashaRoot, repositoryPath } from '../harness-call.ts';
 import { colorNamed } from '../palette.ts';
 
-export const SEAT_SIDECAR_GLOB = '*.uncommitted.yaml';
+// WHERE A SEAT STANDS, WHICH IS AKASHA AND NOWHERE ELSE. The watchers every feature registers are
+// built from these two, so pointing them here is what moves the agent tree, the terminal names and
+// the work tree onto the store the fleet actually writes.
+const AKASHA_SEAT_DIR = 'akasha/seat-system/seat/seats';
 
-const AKASHA_SEAT_DIR = SEAT_DIR;
+export const SEAT_SIDECAR_GLOB = '*.uncommitted.ts';
 
 export function seatDirs(): readonly string[] {
 	return [repositoryPath(seatPagesDir())];

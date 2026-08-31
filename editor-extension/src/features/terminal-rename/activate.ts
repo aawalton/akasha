@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 import { recordObservation, recordSweep } from '../../seat/observation-store.ts';
 import { PROCESS_ID_TIMEOUT_MS, readProcessIds, tally } from '../../seat/terminal-pids.ts';
 import { loadPsRows, loadTmuxClients, seatNameForShellPid } from '../../seat/terminal-lookup.ts';
-import { agentIdsForSeatNames, seatNamesOnDisk } from '../../seat/seat-page.ts';
+import { agentIdsForSeatNames, seatNamesStanding } from '../../seat/seat-page.ts';
 import { readSeatTurnColors, SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color.ts';
 
 import { syncTerminal } from './sync-terminal.ts';
@@ -63,7 +63,7 @@ async function syncAll(trigger: string): Promise<void> {
 	try {
 		const psRows = await loadPsRows();
 		if (psRows.length === 0) { return; }
-		const [seatNames, tmuxClients] = await Promise.all([seatNamesOnDisk(), loadTmuxClients()]);
+		const [seatNames, tmuxClients] = await Promise.all([seatNamesStanding(), loadTmuxClients()]);
 		const began = Date.now();
 		const readings = await readProcessIds(terminals);
 		const ms = Date.now() - began;

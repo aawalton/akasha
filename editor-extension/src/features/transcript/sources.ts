@@ -1,8 +1,8 @@
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import { z } from 'zod';
-import { seatNameOf, frontmatterValue, sidecarValue } from '../../seat/seat-page.ts';
-import { seatPagesDir } from '../../seat/turn-color.ts';
+import { akashaSeatsStanding } from '../../../../tools/lib/seat-akasha-beside.ts';
+import { akashaSeatRecordOf } from '../../../../tools/lib/seat-akasha-read.ts';
 
 export interface SeatTranscript {
 	readonly agentId: string;
@@ -19,42 +19,16 @@ export interface SubagentTranscript {
 
 const TRANSCRIPT_KEY = 'transcript-path';
 
-function besideThePage(filePath: string, key: string): string | null {
-	let text: string;
-	try {
-		text = fs.readFileSync(filePath.replace(/\.md$/, '.uncommitted.yaml'), 'utf8');
-	} catch {
-		return null;
-	}
-	return sidecarValue(text, key);
-}
-
-function seatTranscriptAt(filePath: string): SeatTranscript | null {
-	let text: string;
-	try {
-		text = fs.readFileSync(filePath, 'utf8');
-	} catch {
-		return null;
-	}
-	const agentId = frontmatterValue(text, 'id');
-	const transcriptPath =
-		besideThePage(filePath, TRANSCRIPT_KEY) ?? frontmatterValue(text, TRANSCRIPT_KEY);
-	if (agentId === null || transcriptPath === null) { return null; }
-	return { agentId, seatName: seatNameOf(path.basename(filePath)), transcriptPath };
-}
-
+// WHERE A SEAT'S TRANSCRIPT IS, READ FROM AKASHA. This walked the old seat directory, opened every
+// page for its id, and took the transcript from the sidecar beside it or the page underneath. Both
+// halves of that live in akasha now: the index names every seat standing, and the transcript is one
+// of the values carried beside the page, so a seat that stands only there is no longer invisible.
 export function readSeatTranscripts(): readonly SeatTranscript[] {
-	let names: readonly string[];
-	try {
-		names = fs.readdirSync(seatPagesDir());
-	} catch {
-		return [];
-	}
 	const found: SeatTranscript[] = [];
-	for (const name of names) {
-		if (!name.endsWith('.md')) { continue; }
-		const seat = seatTranscriptAt(path.join(seatPagesDir(), name));
-		if (seat !== null) { found.push(seat); }
+	for (const [agentId, seatName] of akashaSeatsStanding()) {
+		const held = akashaSeatRecordOf(agentId, TRANSCRIPT_KEY);
+		if (held === null || held.value === '') { continue; }
+		found.push({ agentId, seatName, transcriptPath: held.value });
 	}
 	return found;
 }
