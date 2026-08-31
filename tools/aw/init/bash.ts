@@ -2,13 +2,13 @@ import type { AliasEntry } from "./alias-snapshot.ts"
 import { claudeNewAccountFn, supervisorFn } from "./bash-launchers.ts"
 import { terminalEndedFnLines, terminalEndedTrapLines } from "./bash-terminal-ended.ts"
 import { seatLiveFnLines, seatNewFn, seatResumeFn, tmuxLaunchFnLines } from "./bash-tmux.ts"
-import { OPS } from "./entry-points.ts"
+import { AKASHA } from "./entry-points.ts"
 import { implName, launcher, reloadFnLines } from "./reload.ts"
 
 function claudeUsageFn(): string {
   return [
     `${implName("cu")}() {`,
-    `  bun run ${OPS} claude-account usage "$@"`,
+    `  ${AKASHA} measure claude-accounts "$@"`,
     "}",
   ].join("\n")
 }
