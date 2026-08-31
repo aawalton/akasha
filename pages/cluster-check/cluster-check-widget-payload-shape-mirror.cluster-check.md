@@ -7,8 +7,6 @@ script: akasha:infra/cluster-checks/src/checks/check-widget-payload-shape-mirror
 dispatch-node-types:
   - kind: swift-file
     under: akasha:akasha/code-system/ios-component/ios-components
-  - kind: swift-file
-    under: akasha:akasha/code-system/ios-component/ios-components
 slug: cluster-check-widget-payload-shape-mirror
 domain-parent-slug: page-type/cluster-check
 ---

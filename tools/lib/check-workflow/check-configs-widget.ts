@@ -16,8 +16,9 @@ const DECLARED_SEEDS: readonly string[] = [
 export const WIDGET_MIRROR_CHECKS: CheckConfig[] = [
   {
     name: "widget-payload-shape-mirror",
+    // One place. Every widget's Swift is an ios-component in akasha; the shells'
+    // own ios-widget directories emptied and are gone.
     dispatchNodeTypes: [
-      { kind: "swift-file", under: "akasha:native-shell/alanwalton/ios-widget" },
       { kind: "swift-file", under: "akasha:akasha/code-system/ios-component/ios-components" },
     ],
     dispatchNodes: [...CANONICAL_SEEDS, ...DECLARED_SEEDS],
