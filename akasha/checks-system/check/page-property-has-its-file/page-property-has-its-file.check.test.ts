@@ -18,6 +18,17 @@ const CODE = "akasha/a/held.module.code.ts"
 
 const TEST = "akasha/a/held.module.test.ts"
 
+const BESIDE = new Map<string, string | null>([
+  ["code", null],
+  ["test", null],
+  ["notes", null],
+])
+
+const NAMED = new Map<string, string | null>([
+  ["code", null],
+  ["manifest", "package.json"],
+])
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -217,9 +228,36 @@ test("a page the index says carries a changed path is judged though the change n
 })
 
 test("the label on a refusal is the property and the value the page states", () => {
-  expect(statedBy(PAGE, CODE)).toBe('`code: "ts"`')
-  expect(statedBy("akasha/a/b.check.ts", "akasha/a/b.check.test.ts")).toBe('`test: "ts"`')
-  expect(statedBy("akasha/a/b.module.ts", "akasha/a/b.module.notes.md")).toBe('`notes: "md"`')
+  expect(statedBy(PAGE, CODE, BESIDE)).toBe('`code: "ts"`')
+  expect(statedBy("akasha/a/b.check.ts", "akasha/a/b.check.test.ts", BESIDE)).toBe('`test: "ts"`')
+  expect(statedBy("akasha/a/b.module.ts", "akasha/a/b.module.notes.md", BESIDE)).toBe(
+    '`notes: "md"`'
+  )
+})
+
+test("the label on a refusal for a file a property names is that property alone", () => {
+  expect(statedBy("akasha/a/held.workspace-package.ts", "akasha/a/package.json", NAMED)).toBe(
+    "`manifest`"
+  )
+})
+
+test("a property naming a file relabels no file the grammar built", () => {
+  expect(statedBy(PAGE, CODE, NAMED)).toBe('`code: "ts"`')
+})
+
+test("a page stating a file its property names, standing nowhere, is refused by that property", () => {
+  const root = rooted()
+  declaring(root, "manifest", {
+    pageTypeSlug: "named-file-property",
+    unique: null,
+    fileName: "package.json",
+  })
+  const said = judged(
+    over(root, [PAGE], { [PAGE]: body(', manifest: "json"'), "akasha/a/package.json": null })
+  )
+  expect(said).toEqual([
+    { path: PAGE, reason: "states `manifest`, and no file stands at akasha/a/package.json" },
+  ])
 })
 
 test("the check reads the index under the root it was given, and no other", () => {

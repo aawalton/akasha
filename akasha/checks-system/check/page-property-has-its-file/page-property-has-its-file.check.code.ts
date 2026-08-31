@@ -1,3 +1,4 @@
+import { dirname, join } from "node:path"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   filePropertiesAt,
@@ -36,7 +37,24 @@ export function tailOf(page: string, path: string): string {
   return path.slice(page.length - TS.length + 1)
 }
 
-export function statedBy(page: string, path: string): string {
+export function namingOf(
+  page: string,
+  path: string,
+  fileProperties: ReadonlyMap<string, string | null>
+): string | null {
+  for (const [slug, fileName] of fileProperties) {
+    if (fileName !== null && join(dirname(page), fileName) === path) return slug
+  }
+  return null
+}
+
+export function statedBy(
+  page: string,
+  path: string,
+  fileProperties: ReadonlyMap<string, string | null>
+): string {
+  const naming = namingOf(page, path, fileProperties)
+  if (naming !== null) return `\`${naming}\``
   const tail = tailOf(page, path)
   const at = tail.indexOf(".")
   if (at === -1) return `\`${tail}\``
@@ -56,7 +74,10 @@ export function missingFor(
   for (const one of pathsOf(value, page, change.root, fileProperties)) {
     if (one === page) continue
     if (change.after(one) !== null) continue
-    said.push({ path: page, reason: `states ${statedBy(page, one)}, and no file stands at ${one}` })
+    said.push({
+      path: page,
+      reason: `states ${statedBy(page, one, fileProperties)}, and no file stands at ${one}`,
+    })
   }
   return said
 }
