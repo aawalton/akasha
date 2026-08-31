@@ -15,9 +15,5 @@ export const componentIdentifier = {
       invariantKind: "departure",
       statement: "The file holding a component is named in lower kebab like every other file.",
     },
-    {
-      invariantKind: "departure",
-      statement: "The file and what it holds differ on purpose.",
-    },
   ],
 } as const satisfies NamePlace
