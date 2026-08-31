@@ -13,6 +13,11 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A seat is found through the page type reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat is found by the session it answers in where no seat carries the id.",
     },
     {

@@ -6,9 +6,10 @@ import {
 import {
   everyOfTypeAnswered,
   standingById,
+  typeSlugByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 
-const PAGE_TYPE = "seat"
+const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
 const SEAT_DIR = "akasha/seat-system/seat/seats/"
 
@@ -35,7 +36,7 @@ export function seatRoot(): string {
 
 export function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {
   if (agentId === "") return null
-  for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, SEAT_TYPE))) {
     if (one.path.startsWith(SEAT_DIR) && one.id === agentId) return one.path
   }
   const held = standingById(root, agentId)
@@ -44,7 +45,7 @@ export function seatPathForAgent(agentId: string, root: string = seatRoot()): st
 
 export function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
   if (sessionUuid === "") return null
-  for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, SEAT_TYPE))) {
     if (!one.path.startsWith(SEAT_DIR)) continue
     const held: Value | null = valueAt(one.path, root)
     if (held === null) continue

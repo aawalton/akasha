@@ -15,6 +15,11 @@ export const claudeAccountMeasuring = {
     {
       invariantKind: "departure",
       statement:
+        "An account is found through the page type reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A root naming no claude-account index is refused rather than answered as a fleet of none.",
     },
     {

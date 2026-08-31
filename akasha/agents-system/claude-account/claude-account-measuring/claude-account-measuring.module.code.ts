@@ -1,8 +1,11 @@
 import { valueAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  everyOfTypeAnswered,
+  typeSlugByIdAnswered,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedIn } from "../../../pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 
-const PAGE_TYPE = "claude-account"
+const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
 const CEILING = 100
 
@@ -49,7 +52,7 @@ export function instantOf(iso: string | null): number | null {
 
 export function readingsIn(root: string): readonly Reading[] {
   const found: Reading[] = []
-  for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, ACCOUNT_TYPE))) {
     const stated = valueAt(one.path, root)
     if (stated === null) continue
     const account = textIn(stated, "slug")
