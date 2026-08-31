@@ -4,7 +4,7 @@ export const identity = {
   id: "01a0593e-da2e-7138-980e-60713a5f4dca",
   pageTypeSlug: "taboo-term",
   slug: "identity",
-  pattern: "\\bidentity\\b(?!/)",
+  pattern: '(?<![-.])\\bidentity\\b(?![/"])',
   tabooSenses: [
     {
       sense: "who a seat is and what it must read",
