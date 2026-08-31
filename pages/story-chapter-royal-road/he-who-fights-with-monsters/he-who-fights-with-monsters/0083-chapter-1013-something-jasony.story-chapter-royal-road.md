@@ -1,0 +1,247 @@
+---
+id: 6c5d5d5e-1870-5685-98fe-6774590341aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1013: Something Jasony"
+slug: 0083-chapter-1013-something-jasony
+partOf: he-who-fights-with-monsters
+position: 83
+ownLength: 2571
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892842/chapter-1013-something-jasony"
+royalRoadId: "3892842"
+---
+
+The arena McKean had chosen for Gerling’s confrontation with Jason had significantly more robust sensors than most of the complex. With magical sensors feeding signals instead of vulnerable cameras, the feeds kept running after the dome chamber was detonated. McKean was not going to allow the livestream to be interrupted, although all that showed on McKean’s monitor bank was dust, lit up by motes of light from Asano’s cloak.
+
+Standing next to McKean’s chair, Magdalyn was watching a different video feed on a tablet she was holding.
+
+“These feeds are looped,” she said. “The rabbit is interfering with your cameras.”
+
+“It doesn’t matter. The ones monitoring the room with Asano are much more resistant to outside influence.”
+
+“But someone else is here.”
+
+“They’re irrelevant. Only Asano matters.”
+
+“We don’t know what they’re doing.”
+
+“But we know what they can’t do. They can’t interfere with the cosmic source, and they can’t interrupt the grid. Those are the only things that matter and they can’t do anything about them.”
+
+“Your people are down there.”
+
+“Asano is obsessed with playing hero. He won’t let them be hurt. And at this point, they are surplus to requirements. As will you be, if you keep complaining about this. If you’re that concerned, go join the rest of your vampire lords in attacking them.”
+
+“What?”
+
+“Didn’t I mention? I sent the vampire lords you held in reserve to deal with our secondary intruders.”
+
+“Are you mad? Farrah Hurin is almost certainly there. She’s killed more vampires than anyone but Asano himself. Why would my vampire lords go after her?”
+
+“They don’t know what they’re going after, just that you told them to.”
+
+“I didn’t!”
+
+“Well, as far as they know, you did. The rabbit is not the only one who can meddle with a communications system.”
+
+Magdalyn stared at McKean whose gaze did not waver from the monitors, even though they still showed nothing but dust.
+
+“This was your plan all along. Eliminate any loose ends, until only those bound to your vine and your control remained.”
+
+“Yes,” McKean said, disappointment in his tone. “Elizabeth would have picked up on that long before now. It’s why she had to go, shame that it was. You were necessary, for a time, but that time has mercifully passed. Now you can run off and join your vampire lords in attacking whoever Asano has running around my basement. Or you can try to escape alone. I doubt that either path will offer you much longevity.”
+
+“Or I could take your throat out now.”
+
+McKean finally turned to look at the vampire queen looming over him.
+
+“Magdalyn, given what you know about me and how I operate, how do you think that would go? Do you honestly believe that I would have this conversation within arm’s reach of you if I was anything but supremely confident about the outcome?”
+
+Magdalyn glared at him for a long moment, her arms twitching at her sides in their eagerness for violence. Finally, she stormed out, slamming the door behind her.
+
+“I wonder,” McKean mused, then there was a scream from the other room. He sighed as he got up to go check on the seal. The trap wouldn’t have triggered unless she’d attempted to sabotage the seal, and he needed to check that she hadn’t done any actual damage.
+
+“I’m going to need someone else to talk to.”
+
+***
+
+Estella watched as Farrah scraped the charred remains of the last vampire lord from her obsidian armour. She wanted to avoid getting any vampire on her when she dismissed the conjured item. Clive and Belinda were standing over a table Belinda had conjured up, looking over notebooks and papers taken from Clive’s dimensional space. Sophie was still watching the researchers, freshly cowed by the battle. Where Farrah had ended the fight painted in magma-scorched vampire, Sophie had remained clean and untouched, despite having fought hand to hand.
+
+Estella was splitting her gaze between Farrah cleaning herself off and the space where the wall containing the door had been. Now it was a magma-scorched hole, with the corridor behind it a burned wreck, white-hot steel still throwing off incandescent sparks.
+
+“That was quite thorough,” Estella said.
+
+“You have to be thorough with vampires,” Farrah said. “Especially with this blood vine nonsense, but these seemed like vanilla vamps. Do you think I got it all?”
+
+She craned her neck to try and see around her armour. Then it vanished and a few globules of ichor she’d missed fell onto her clothes.
+
+“Ah, damn it. Does anyone have some crystal wash?”
+
+“What’s that thing on your arm?” Estella asked.
+
+Farrah held up her wrist that had a black and red marbled stone bracelet. It was glowing with an internal red light that looked a lot like life force.
+
+“This is a trinket I picked up on my last trip to Earth. Growth item, mostly useful when you’re killing vampires. Might not get much use out of it, going forward.”
+
+“I think I have something,” Belinda said, and Farrah moved to join her and Clive at the table.
+
+“These are Clive’s notes on how the dimensional bridge works,” Belinda said. “We can’t shut the bridge down, or the grid. But what if we mess up the power flowing through them?”
+
+“Mess it up how?” Farrah asked.
+
+“This is actually brilliant,” Clive said. “To be precise, Lindy’s idea isn’t to mess up the power, which is raw magic from the astral.”
+
+“Meaning that it’s already messed up,” Lindy said. “Raw, primordial chaos, fresh from the tap. Part of what the bridge does is that it refines that magic and makes it more palatable for Earth’s fragile dimensional membrane. That’s why the magic is slowly repairing the membrane instead of breaking it down, which was the problem they built the bridge to fix.”
+
+“Lindy wants to turn off the mechanism that refines the power. She realised that McKean can only use that magic because it’s been processed down from raw chaos.”
+
+“Meaning that if we stop refining it,” Lindy said, “McKean will be feeding that raw chaos into the blood vine, into the vampires and whatever else he’s hooked up to it.”
+
+“Which will do what, exactly?” Farrah asked.
+
+“Not sure,” Belinda said.
+
+“Which is the part I don’t like,” Clive added.
+
+“It could be a spectrum of results,” Lindy explained. “It might be that everything hooked up to the juice explodes on the spot. Could be that they all turn into hideous astral abominations the next time they try to revive. It might just shut off the resurrection and do nothing else. But it will shut it off, one way or another. That much we’re sure of.”
+
+“Resurrection magic is difficult at the best of times,” Clive said, “which this is not. The Reaper made revival magic much harder a couple of decades ago. Frankly, I’m a little surprised McKean has gotten away with this without intervention, now that he’s tapping into cosmic forces. If there was a death god on this planet, McKean definitely wouldn’t have gotten away with it. Even without that, resurrection magic requires precision, or you come back wrong, if at all.”
+
+“Astral abominations,” Belinda said with a grin.
+
+“Please don’t say that like it’s the desired outcome,” Clive pleaded.
+
+“I don’t want it to happen,” Belinda said. “I’m just saying it would be amazing to see. Tell me you wouldn’t want to see that.”
+
+“I will confess to a certain academic fascination,” Clive conceded, “but—”
+
+“No,” Farrah cut him off. “Bad Clive. No astral abominations, just stay on topic. How do we shut off this raw magic regulator? I didn’t think we could manipulate the dimensional bridge from here.”
+
+“There is one component that we can access,” Clive said. “One intrinsic part of the dimensional bridge that just happens to include the regulatory element.”
+
+“And that is?”
+
+“Jason,” Belinda said. “When he first started building the bridge, he was using a relic given to him by Dawn. That relic, amongst other things, bound Jason intrinsically to the bridge itself.”
+
+“Why?” Farrah asked.
+
+“We don’t know,” Clive said. “But after Jason broke the relic and we had to finish the bridge the hard way, we built on what was already there. And, as you may recall, one of Jason’s many ridiculous abilities is that he stabilises the physical reality around him. The World Phoenix gave him that power to better deal with astral spaces and transformation zones, but that’s not all it can do. We used that trait of Jason’s to stabilise the raw magic being fed into the dimensional bridge, delivering refined magic to Earth. I was actually quite proud of that idea.”
+
+“Okay,” Farrah said. “I see two problems with this. Firstly, won’t you then be dumping raw magic on the Earth, along with all the vampires?”
+
+“We will,” Clive said, “but the bridge is all but complete now. Earth’s dimensional membrane is much stronger than it was, and it’s almost ready to handle raw magic. That was always the goal. Even if it’s not quite ready there yet, it can handle unrefined magic for a while without suffering real damage. The vampires can’t.”
+
+“Define ‘a while.’”
+
+“A few years. Certainly more time than we need to handle the blood root vine.”
+
+“Alright, that’s good,” Farrah said. “That leaves the other problem. You want to turn off the regulating mechanism.”
+
+“Yes,” Belinda said.
+
+“Lindy, Jason is the regulating mechanism. What exactly does shutting him off entail?”
+
+“We don’t have to shut off Jason,” Clive said. “He should be able to simply stop using that aspect of his power. But he will need a more direct connection to the bridge for that to happen.”
+
+“I thought he was already connected to it.”
+
+“Yes,” Clive said, “but we also established a buffer between Jason and the bridge, so they wouldn’t interfere with each other. We didn’t want Jason going funny because of some astral anomaly, or the bridge going wrong because Jason did something Jasony again. Jason will need something to enhance his connection to the bridge.”
+
+“And you have something for that?” Farrah asked.
+
+Clive and Belinda shared an awkward look.
+
+“Clive, Lindy. What do you need Jason to do?”
+
+“The good news is,” Belinda said, “that there’s something right here that’s connected to the bridge, through the grid.”
+
+“Are you talking about the blood root vine?” Farrah asked.
+
+“Uh, yes,” Clive admitted. “He’s going to have to connect to the blood root vine.”
+
+“And how would he do that?” Farrah asked.
+
+“Unpleasantly, I suspect,” Belinda said.
+
+“It should be within the realm of his abilities as an astral king,” Clive said. “Two of the three core tools of an astral king are an astral throne, which manipulates physical substance, and an astral gate, which manipulates cosmic forces. Using those, he should be able to do the job quite intuitively, using his prime avatar as a medium.”
+
+“Can his prime avatar withstand the kind of power he’ll need to channel through it?”
+
+“Have you ever seen a water balloon burst because it was overfilled?” Belinda asked.
+
+“Sure. You’re saying his prime avatar probably can’t handle that much power.”
+
+“I’m not saying probably. Imagine trying to fill a water balloon with the Pacific Ocean.”
+
+***
+
+Steel plates and chunks of concrete were pushed aside as Jason levitated up from within the rubble. He could barely see what was left of the domed chamber as it was filled with a thick dust cloud. Leeches squirmed their way out of the wreckage as both Gordon and Shade appeared.
+
+He reached out with his aura to probe the room. He sensed fresh roots growing through the walls, free of his afflictions. The vines had detonated the tainted material, having more than enough power to grow back. There was one very prominent aura in the middle of the chamber and Jason floated in that direction. What he found looked like a giant red seed, dripping with blood. As he approached, a naked, dripping wet Gerling ripped his way out.
+
+“You thought you killed me?” he snarled at Jason.
+
+“Nah, mate. You might come back to life more than I do.”
+
+“I can do this forever.”
+
+“Uh, no you can’t.”
+
+“You think you can stop me?”
+
+“Probably. But also, give it a few billion years and the sun will expand, turning this planet into a sauna hot rock.”
+
+“A billion years?”
+
+“Mate, have you actually thought about what immortality means? You can’t just toss around words like ‘forever’ anymore. They have meaning.”
+
+“You can’t fight for a billion years, Asano.”
+
+“You have no idea of the scale on which you’re trying to operate, Jack. That power flowing through you? It doesn’t just dwarf anything on Earth, but the whole damn universe. You’ve touched something that is so vast that the mind can’t comprehend it. The only beings that can are so alien that they need interpreters to think like mortals for them. This fight isn’t about vampires or McKean’s small-minded xenophobia. This is me stopping a fool before the real fight begins.”
+
+“Small-minded?” McKean’s angry voice echoed through the room. “I have brought to bear a power so vast that even you can’t imagine it.”
+
+“Yes, McKean. Small-minded. You still haven’t realised that you’re fighting me with my own power.”
+
+“What are you talking about?”
+
+“You want to see power, Simon? Real power? Shade, it’s time for the contingency.”
+
+“Are you sure, Mr Asano? You’ve been holding on to this one for a long time.”
+
+“Simon wants to see power, so power he gets.”
+
+“You want to see power, Asano? I’ll flood a universe of power into you! I’ll blast that body to shreds, over and over until you beg for the release of death! Gerling!”
+
+Vines erupted from all around the room, breaking up through the rubble and darting out of the dust cloud. Jason didn’t dodge as they plunged into his body.
+
+***
+
+The picturesque French valley was peaceful and quiet. The cloud ship floating in the sky gave no external indication of the frenzy of commands being issued within. The castle on the ground revealed nothing of the cosmic powers fighting deep in the ground beneath it. Then came a sound, spreading out from the airship to fill the entire valley and spread across the countryside beyond.
+
+***
+
+In the command room of Jason’s cloud ship, Michael Mills watched the main screen while listening to his sub-commanders issue orders and direct battles across the continent. The lieutenant assigned to monitoring the situation around the cloud ship pushed aside one ear of his headphones and turned to address Michael.
+
+“General Mills, sir. There’s some kind of sound outside. It’s very loud, sir.”
+
+“What is it, Lieutenant?”
+
+“I think it’s electric guitar, sir.”
+
+“Electric guitar?”
+
+“Yes, sir. And I think it’s coming from this cloud ship.”
+
+“Patel, what do we have on the McKean feed?”
+
+Patel was the lieutenant assigned to monitor McKean’s livestream.
+
+“Still just dust, sir, and some more cringy villain banter. They’re both boasting about how much more powerful they are than each other.”
+
+Michael walked over to the officer with the headphones and put them on himself. A moment later, he handed them back.
+
+“Yes, that’s electric guitar, Lieutenant.”
+
+“What does it mean, sir?”
+
+“Well, that was ‘Thunderstruck’ by AC/DC. If I’m not mistaken, it means that Simon McKean is about to get his ass kicked.”

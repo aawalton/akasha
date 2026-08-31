@@ -1,0 +1,207 @@
+---
+id: 312c88c9-494b-5511-aa3f-9a62d6d62a82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1014: A Satisfying Day"
+slug: 0084-chapter-1014-a-satisfying-day
+partOf: he-who-fights-with-monsters
+position: 84
+ownLength: 2944
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892843/chapter-1014-a-satisfying-day"
+royalRoadId: "3892843"
+---
+
+Jason’s body was a pincushion for blood vines, strung up so thoroughly that he couldn’t move. Gerling walked closer, looking at him in confusion.
+
+“You didn’t dodge. You could have avoided that.”
+
+“Yeah,” Jason said, “but what would be the point? We fight, you lose, and while you’re growing a new body, all the vines I messed up explode and new ones grow. That’s what McKean wanted. To show that I can throw everything I’ve got at you and his creepy gardening project, and it won’t be enough.”
+
+“So, you gave up?”
+
+“No, Jack. I’m going to kill you today.”
+
+“You can’t kill me, Asano.”
+
+“Did Simon tell you that? He probably believed it, to be fair. But he’s wrong about a lot of things, and that’s one of them. I am going to kill you, and not just for revenge. I’m not going to say that you killing my brother, my girlfriend and my mate doesn’t mean anything. Of course it does. I want you dead, Jack, and I want to be the one that killed you. But, at the end of the day, you’re a monster, and I’m the guy who fights monsters.”
+
+“You talk big for a man strung up like a butcher’s carcass.”
+
+“Yeah, well, my friend Clive told me I had to, and he’s generally right about these things. Like I said, there’s no point fighting McKean’s big vine the regular way. Your boss keeps pumping cosmic power into it, and I can’t fight that like a normal essence user. It’s why he thinks he can win. Thing is, Jack, I’m not a normal essence user. The same way McKean uses the vine, and you for that matter, I’m using this body. It isn’t me; it’s just a tool. Simon thinks that he’s found some infinite power source, but he doesn’t even realise what he’s tapped into.”
+
+“You have no idea what power I’m calling upon,” McKean’s voice boomed through the room.
+
+“Actually, Simon, you’re the one who doesn’t get it. That power you’re using? That’s my power. The conduit it’s coming through? I built it, with my friend Clive. And this monologue? It bought me the time to tap into that power, through these vines Gerling generously hooked me up to. Now I have a direct line to use that power for myself.”
+
+“WHAT?” McKean bellowed.
+
+***
+
+General Mills was watching the live feed that McKean was still broadcasting from under the castle. He turned as his own shadow rose from the floor to turn into Jason Asano’s familiar.
+
+“My apologies, General Mills, but the cloud ship may experience some turbulence over the next few minutes. Mr Asano is going to be exerting the influence of his true self, and he needs the cloud ship as a vessel. If he used his avatar, it would be destroyed immediately. All functionality as a control centre should go uninterrupted, but your people may be subjected to an echo of Mr Asano’s aura.”
+
+“We’ve felt his aura before.”
+
+“No, General Mills. You’ve experienced a facsimile of his aura, but not the real thing. Mr Asano’s prime avatar does not contain his soul, and therefore cannot use his true aura. This cloud vessel is one of Mr Asano’s spiritual domains, and he is going to project his true aura through it.”
+
+“Why?”
+
+“Because his prime avatar’s false aura is insufficient to drag a castle out of the ground.”
+
+***
+
+At Gerling’s direction, power flooded through the vines and into Jason’s body. Gerling was connected to the blood vine through roots growing out of his arms and legs, digging through the rubble. He directed more and more power into Jason, whose body was blasted apart by explosions. Limbs flew off and his head detonated, only to regrow in an instant.
+
+“I WILL DESTROY YOU!” McKean screamed, only to be met with Jason’s laughter. “Even your body can’t keep this up, Asano!”
+
+“I think you’ll find it can, Simon. If you want to see what it takes to truly overwhelm this avatar, let me show you what vast cosmic power truly looks like.”
+
+An aura descended on the chamber like the waking of a nightmare god. The mere presence of it shook the walls and stirred the rubble. Its ineffable vastness left Gerling’s eyes wide and gaze blank, his mind shutting down from the domineering force pressing upon it.  The roots connecting him to the blood vine snapped and he fell to his knees, trembling and sobbing. Across the entire planet, every person with essence powers saw the same thing.
+
+System Alert: Cosmic Intervention
+
+***
+
+The pounding noise of hard rock was not the only thing to blast out of the cloud ship and into the valley below. A tyrannical aura reached out like an invisible hand to wrench at the earth. The castle rumbled and shook as earthquake forces tore rents in the ground. Rooves fractured and centuries-old brick crumbled. The entire castle and the land it stood on were dragged into the air, as if plucked up by some unseen deity.
+
+An entire column of earth was ripped up as the castle rose into the air. Bedrock, riddled with the steel and concrete of McKean’s underground complex, was pulled into the air. Thick roots of the blood vine were ripped away, their torn ends dripping red.
+
+Finally, the castle and the column of rock, steel and vines attached to it were dragged clear of the ground. A plume of dust and dirt rushed out of the resulting chasm to spread across the countryside. After floating in the air for a moment, the hovering mass went flying as the invisible power tossed it casually aside. The resulting crash shook the ground, the thunderous sound of it drowning out the music still blasting from the cloud ship.
+
+***
+
+The newly created shaft dug deep into the ground, ending in what had once been the dome chamber where Jason and Gerling had fought. The dust had cleared, drawn up and out of the shaft. From above came daylight, with the sun directly overhead in a clear blue sky. As the rumble of the crashing castle faded, sounds of music echoed down as well.
+
+The chamber had already been strewn with rubble, and now there was even more. Jason was still suspended on taut vines sticking out of the walls, now bathed in sunlight from on high. Gerling was still on his knees, making babbling sounds. He’d been struck by falling concrete and steel but showed no indication of noticing.
+
+Within his hood, Jason’s eyes glowed brighter, shifting from blue and orange to ghostly white. Ethereal flames of the same colour started burning their way out of his body, burning up flesh that, this time, did not grow back. Holes appeared across his torso and limbs, ghost fire crawling out to cover his body. The vines jabbing into him tried to yank themselves free, as if scared of the flames. Shadow arms emerged from the rubble to hold them in place.
+
+“WHAT ARE YOU DOING?” McKean’s voice screamed. “HOW ARE YOU DOING THIS? WHAT IS THAT MUSIC?”
+
+Jason didn’t respond. His avatar had been almost entirely consumed, more person-shaped flame left than body. The last remnants burned away and the flames expanded out as a dark shape grew within them, taking on the form of a bird. The bird grew larger, black as the void of space. Motes of silver starlight appeared inside it as the outside continued to be wreathed in ghost fire. It grew larger and larger, until its wingspan was almost too great for the shaft.
+
+The vines still plunged into it flailed madly, as if desperate for escape. They remained trapped as white flames crawled along them, following to where they emerged from the walls and floor of the chamber, seeking out the blood root vine still buried behind them.
+
+***
+
+Clive and his team didn’t portal directly into the command centre, but a dedicated room close by.
+
+“Are we just going to leave all those researchers down there?” Estella asked.
+
+“I don’t think they’re going to move,” Sophie said. “Not with the battle taking place over their heads. And if something happens to them, I won’t be crying myself to sleep.”
+
+“We can round them up when this is all over,” Belinda said.
+
+Belinda, Estella and Sophie made their way to a monitor room where various military and civilian brass were watching events, while Clive and Farrah headed for the command room. Inside they found an array of soldiers looking less than well, ranging from pale to hunched over in their seats. Several Shade bodies were moving around, distributing potion vials.
+
+“What are those?” Farrah asked.
+
+“Mind breeze potions,” Shade said. “They clear the head and enhance mental fortitude.”
+
+“Jory came up with them,” Clive said. “To help people who don’t handle portal travel well, originally, but it would help handle Jason’s aura. Fortunately, it’s not too strong inside the cloud ship.”
+
+“This counts as not too strong?” Michael Mills asked, turning from the monitor where he was observing.
+
+“Trust me that you’re better off in here,” Farrah told him. “You do not want to catch the full force of his aura when he’s using it as a weapon. It’s unnerving enough when he’s using it as a shield.”
+
+“Sir!” one of the operations staff called out. “We’re getting reports of anomalies with the reviving vampires. There’s something wrong with their regeneration.”
+
+“That’s what I wanted to hear,” Michael said. “Where’s that coming in from?”
+
+“The theatres closest to us, sir. Spain and Italy.”
+
+“It’s taking effect quickly,” Clive said. “That’s good, but what exactly is happening to the vampires?”
+
+“Reports are still coming in,” the operator said, “but it looks like they’re just exploding. If the vines try to heal them, it does even more damage instead.”
+
+She continued reading information as it scrolled quickly down her screen.
+
+“Sir, I would recommend issuing a warning. Those pods that form to regrow a full body are basically bombs. Our people are seeing casualties.”
+
+“Comms,” Michael said. “Get that report from the lieutenant and signal all units with the details.”
+
+“Yes, sir.”
+
+Michael glanced at Farrah and Clive.
+
+“Put the McKean feed up on the main screen please.”
+
+A moment later, a massive bird appeared on the screen, made of darkness and filled with motes of starlight. Its entire body was limned with ghostly fire.
+
+“We were a little distracted with the falling over and vomiting,” Michael told Farrah and Clive. “Can either of you tell me what is going on down there?”
+
+***
+
+The ghost fire phoenix flared with blinding light and then was gone. In its place was Jason’s prime avatar, restored to its normal state. His cloak was absent and his body was coated in a thick layer of blood that congealed and dried into his usual combat robes. His eyes, still blazing with ghostly flames, set on the cowering Jack Gerling.
+
+The power of Jason’s true aura had been withdrawn, once more contained to his astral kingdom. Sanity returned to Gerling’s eyes, but fear that would never leave was carved into them. Jason slowly walked toward him and he scrambled to get away. Shadow arms reached out from the rubble to pin him down and soon he found himself kneeling before Jason.
+
+Jason looked down at Gerling who, of all McKean’s minions, was the one most closely bound to the blood root vine. Jason could sense the volatile power of raw magic coursing through him, threatening to tear him apart. Gerling looked up at Jason, no defiance left.
+
+“I told you, Jack,” Jason said softly.
+
+He reached out, gently touching a fingertip to Gerling’s forehead. Gerling explosively liquefied, erupting away from Jason to paint a red cone on the rubble. The white fire in Jason’s eyes dimmed and they returned to their normal blue and orange.
+
+Jason looked up. The sun had been blocked out by the cloud ship floating over the hole, and the music was echoing loudly down the shaft.
+
+“It’s not a bad trick, Simon. You had cosmic power on tap, so using it to create a proto-astral space as a safe room was a clever idea. But proto-spaces are unstable at the best of times, and yours just got a dose of unmitigated chaos. You need to come out, or you’ll die when it collapses on you.”
+
+McKean’s response was broadcast through the room, but it was breaking up like a bad radio signal.
+
+“How did you do this?”
+
+“I did tell you the power was mine. I just wasn’t using it because I’ve got that kind of power shooting out of me like last night’s curry. That doesn’t mean you get to wave it around like you’re a toddler with a chainsaw. Now your toys are broken, but people are still out there dying because you couldn’t tolerate that I exist. Now I find that my tolerance for your existence is running short. That being said, and putting aside everything you’ve done, you’re a brilliant man. The Earth is going to need people like you, and sooner than I’d like. For that reason, and despite my immense distaste for the prospect of you living past the next few minutes, if you get out here and come along quietly, we can discuss getting you the Nazi scientist deal. But if I have to go in there and get you, I’m going to have a satisfying day, and you’re going to have your last one.”
+
+“I’m not surprised that you noticed my astral space. I know that you have a power that will let you walk right in, regardless of what traps and seals I’ve placed on the aperture, so I’m coming out.”
+
+A few moments later, a portal appeared in the air. It was a round, shimmering plane of energy, twitchy and unstable. Simon McKean walked out, in jeans and a button-down shirt with a satchel slung across his shoulder. He looked Jason square in the eye.
+
+“Here we are, face to face,” Jason said. “Is it everything you hoped for?”
+
+“Can you at least shut off that idiot music?”
+
+“You wanted power, McKean. Instead of getting a bunch of people killed, you could have just cranked out some Acca Dacca. There’s not much on Earth more powerful than that.”
+
+“You really are an idiot, aren’t you? Which works out for me, as it happens. You see, there is something about proto-spaces that you seem to have forgotten, Asano. Which is a little embarrassing for you, given how many you dealt with, back in the day.”
+
+“Oh? And what’s that?”
+
+“That they accumulate monsters. And when that proto-space collapses, those monsters become a monster wave.”
+
+A magical sphere sprang into place around McKean as the portal behind him shuddered before imploding into nothingness.
+
+“Normally,” McKean said, “it would take time for the space to collapse and the monsters to manifest. I managed to accelerate the process, using that power you’re so insistent is yours. Goodbye, Asano. Enjoy the monsters.”
+
+Jason’s aura flooded down the shaft from the cloud ship hovering over it. McKean winced as it struck him.
+
+“Why didn’t…” he muttered, and pulled a stone slate the size of a computer tablet from his satchel. He traced the magical diagram engraved on it and he flickered in and out of existence for a moment, before solidifying again.
+
+“See that cloud ship up there? That’s one of my domains, and I can extend its influence a little, enough to reach down here. And in my domain, you don’t teleport unless I allow it.”
+
+Jason moved his head to gesture behind McKean. Simon turned to see an expanding vortex of rainbow light where the portal had been. He scrambled away, stumbling on the rubble.
+
+“Nazi scientist deal, Simon. Last chance.”
+
+“Fuck you, Asano.”
+
+Jason looked up. The cloud ship was an inverted pyramid, with a giant eye on each side. All four eyes were closed, until Jason tilted his head and one of them opened. Blue and orange light filled the shaft like floodwater. McKean fell to the ground and rolled into a sitting position. He watched as the light started disintegrating the rubble, dissolving magically reinforced steel and concrete like aspirin in a glass of water. He felt the shield around him tremble. He looked at Asano, now standing over him, unaffected by the beam.
+
+Behind Asano, light from the still-expanding rainbow vortex clashed with the light from the cloud ship. Monsters were spilling out of the vortex, only to be swiftly annihilated by the energy filling the shaft.
+
+“That’s quite a shield, Simon. Did you make that? You truly are a waste of potential. Unfortunately for you, this weapon is designed to breach shields the size of a city. When yours breaks, it’ll be all over. Do you have any last words?”
+
+“Asano, you can kill me, but you’ve still lost.”
+
+“Is that so?”
+
+“Your grip on this planet relies on one thing: people believing that you’re invincible. I may have lost this fight, but I showed the world that a fight is possible, and that’s all they needed. Humanity won’t lie down for a tyrant. Not if there’s even a chance of rising up. I showed them that a chance does exist, and they will seize it. It might take generations, but humanity will rebel against you Asano, until they finally find a way to destroy you.”
+
+Jason sighed.
+
+“It would be nice if we had that kind of time. Goodbye, Simon.”
+
+The beam surged and the shield broke. Simon’s body was disintegrated before he could feel the pain.
+
+The music stopped.

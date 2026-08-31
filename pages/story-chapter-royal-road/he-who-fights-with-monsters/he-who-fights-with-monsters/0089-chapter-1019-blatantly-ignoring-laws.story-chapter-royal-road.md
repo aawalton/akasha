@@ -1,0 +1,215 @@
+---
+id: 66cffe3c-a179-5cf3-91e4-52feb240ad5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1019: Blatantly Ignoring Laws"
+slug: 0089-chapter-1019-blatantly-ignoring-laws
+partOf: he-who-fights-with-monsters
+position: 89
+ownLength: 2258
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892848/chapter-1019-blatantly-ignoring-laws"
+royalRoadId: "3892848"
+---
+
+In a conference room on his cloud ship, Jason watched as Danielle Geller added another name to a list on a whiteboard. Three whiteboards were set up, each representing what the people on that board would do when Jason returned to Pallimustus. On the first board were the people returning to Pallimustus. This included Jason and his team, Zara and the Storm Kingdom delegation, and the Pallimustus clergy groups.
+
+“You’re sure you want to return Knowledge’s priests?” Danielle asked. “The goddess won’t give you any concessions for it.”
+
+“If we aren’t going to kill them, keeping them is just trouble down the line. She’d find a way to use them.”
+
+“You’re probably right.”
+
+The next list was for those who would be staying in Jason’s astral kingdom. These were the ones wary of facing Knowledge, either by returning with Jason or when she arrived on Earth. Some lacked combat ability, while others were simply unwilling to confront a goddess.
+
+“Jory goes on the middle list,” Jason said. “He’s more researcher than field medic, and he’s done what he can for Earth. He’s been a big part of advancing magical medicine. Now he’s started exploring the potential of alchemy in my astral kingdom.”
+
+“Can’t you conjure potions out of nothing there?”
+
+“Yes, but it’s a sketchy process. I don’t want someone who drank a potion I got wrong to crap their kidneys out the moment they leave my astral space. Not to mention the fact that I can’t solve everyone’s problems for them, like a divine concierge. People need to live their lives without thinking they can rely on me to intervene every time something goes wrong.”
+
+“Can’t they, though?”
+
+“Sure, if I want to raise an entire society of Thadwicks. Challenge and self-reliance are important, as you well know. Or is the Geller compound in Greenstone more of a spa resort these days?”
+
+The final board was for those staying behind to fight the invasion. This included the teams of Rick Geller and Prince Valdis Volaire, as well as the Remores and Danielle herself.
+
+“Did you get an answer on Miguel Ladiv?” Danielle asked. “It’s unlikely that Knowledge would persecute him on our return to Pallimustus. He’s the Adventure Society liaison. I doubt she’ll make an enemy of the society when she gets nothing from it. But then there’s the matter of his wife.”
+
+“That does complicate things. I’ll check in with them.”
+
+***
+
+Jason’s avatar manifested at the nurses’ station in the maternity ward of the clan hospital in Nitra, Slovakia. His sudden appearance startled a nurse, who yelped and stumbled backwards. Jason caught her with his aura before she tripped.
+
+“Sorry about that.”
+
+“It’s, um…”
+
+She gave him an awkward wince.
+
+“…thank you, Patriarch. Is there, uh, something I can do for you?”
+
+“I’m fine, thank you. I need to speak with Doctor Velius.”
+
+“I’m not sure where he is, sorry. Would you like me to page him?”
+
+“No, he’ll be here in a moment.”
+
+True to Jason’s word, Velius walked down the hall a few moments later, stopping when he saw Jason.
+
+“Patriarch.”
+
+“How did the Ladiv birth go?”
+
+“You say that like you don’t know.”
+
+“It’s always best to hear from an expert.”
+
+“Then let’s go to my office.”
+
+It was a short walk, and as soon as the door was closed, the air shimmered as a privacy screen activated. Velius moved around his desk and sat down.
+
+“Mother and child are fine,” Velius said. “You didn’t need me to tell you that.”
+
+“No. But what their doctor can tell me is when the new parents will be up for a discussion about the future.”
+
+“I don’t imagine any of your business will be on their mind, today. That said, the baby will be getting some tests done shortly. That would be a good window to see if they’re interested in talking to you. Do keep it brief, and if they tell you to go, then go. I don’t care if you’re the most special boy in the world, I’m their doctor and you’ll do as I say.”
+
+Jason raised his eyebrows.
+
+“I’ll keep that in mind. Since I have a little time, you and I are due a discussion of the future as well. I’m assuming that the various agents of the great astral beings will depart before Knowledge arrives.”
+
+“Yes. We’ve guided a generation of your clan from birth to adulthood. We’ve done what we can, and now it’s their turn. If we remained when a god invaded, there would be complications you do not want to deal with.”
+
+“I know. And I’m grateful for everything you’ve done. Is there anything you or the others would like from me before you depart?”
+
+“At the risk of coming across as rude, absolutely not. In the last quarter of a century, you’ve stood at the centre of more cosmic nonsense than has been seen for billions of years. The restored throne, a new great astral being.”
+
+“I’m not technically a great astral being.”
+
+“Because you’re also part god and part astral king?”
+
+“I think of myself more as Australian than anything else.”
+
+“Didn’t they talk about revoking your citizenship at one point? Something about blatantly ignoring laws.”
+
+“I don’t think they were ever serious about that. I ignore everyone’s laws. It was just political bluster.”
+
+Velius let out a sigh.
+
+“Now that the cosmic throne is restored, things should be settling down,” he said. “It will be nice to get back to the business of ferrying the dead. If you really want to do something for me, try to avoid anything that would make my life harder. Resurrecting people all over the place, or despoiling an afterlife.”
+
+“That can happen?”
+
+“Sundering the cosmic throne caused more damage than anyone realised it would. I’d rather not expand on the specifics, if you don’t mind. As you’re in the great astral being club now, you are, strictly speaking, no longer restricted from knowing details of the afterlife. That being said, you are temperamentally much closer to mortality than immortality. I would rather you not delve into the larger secrets until you are ready for them.”
+
+“That’s fair. It still feels like the great astral beings should have seen the whole ‘mucking up the cosmos’ thing coming.”
+
+“Let us not litigate the past, Patriarch.”
+
+“You call me ‘Patriarch’ quite naturally. Have you gone native, Velius?”
+
+“I won’t deny that I have found my time on your world fulfilling. As an arbiter of death, bringing life into the world has been a satisfying engagement with the other end of the cycle.”
+
+Jason smiled.
+
+“I’m glad that you found your time here worthwhile.”
+
+He glanced at the wall, as if looking right through it.
+
+“Looks like they’ve taken the baby for those tests, so I’m going to call in on the Ladiv family. Thanks again, Velius. I imagine we’ll bump into one another again.”
+
+“Do me a favour and sort out your business with the goddess first. I have no interest in being dragged into more of your chaos.”
+
+“I’ll do my best.”
+
+***
+
+There were no vending machines in the hospital. If nothing else, commercial supply lines to the Asano Clan territories were tricky. Instead, food and beverage kiosks were found throughout the hospital, providing delicious and healthy food courtesy of Erika Asano’s food programs.
+
+Magical privacy screens were the norm in the hospital, both to keep things peaceful and to maintain confidentiality. It wasn’t until Miguel Ladiv went out to get tea for himself and his wife that he heard the whispers in the hall: the patriarch was on the premises.
+
+Despite it being his ostensible job to deal with Jason Asano, Miguel had actually seen little of the man in person. Miguel was the official Adventure Society liaison for the expedition to Earth, but mostly he dealt with Danielle Geller and Annabeth Tilden. The pair were Asano’s chief political advisors for their respective universes, and much easier to deal with than Asano himself. Mostly that came down to consistency of behaviour.
+
+Over the last decade, Miguel’s role had evolved into helping the Asano Clan take lessons from the Adventure Society on how to manage essence users. The clan had no shortage of expert adventurers to help them with the monster part. Where Miguel had proven essential was in helping them manage people and resources of immense power and value. Strong personalities mixed with the power to throw fireballs required a special kind of human resources department.
+
+Miguel had wanted to thank Asano for his lack of engagement for a long time. The Australian Secret Intelligence Service also had a liaison to Jason, who had likewise been largely ignored. It was this shared experience that led to Miguel connecting with Natalie Park, now Natalie Ladiv. She had long since left ASIS for the Earth Defence Joint Initiative, although she missed the vampire battle due to maternity leave.
+
+After grabbing two cups of tea from a kiosk, Miguel headed back to his wife’s room. He noticed Jason’s approach by the reactions of the hospital staff, their auras flushed with curiosity and worry. Jason’s own aura was indiscernible, or perhaps so universal that it felt like he was everywhere, all at once. It had taken a long time for Miguel to get used to that.
+
+Miguel found him leaning casually against the wall, just outside Natalie’s room. Jason stood up and greeted Miguel with a smile.
+
+“G’day Miguel. I’d shake your hand but they’re full.”
+
+“It’s been a while, Mr Asano.”
+
+“Sorry about that. When you see everything, it’s easy to forget that they don’t see you back. I didn’t have time to talk at the briefing about the Knowledge invasion.”
+
+“Understandable, Mr Asano. That was a busy day. Beyond that, I’m well aware of your distaste for dealing with organisation officials. I’ve discussed it at length with both my wife and my uncle. I will say that I appreciate you coming to congratulate us in private for our wedding. Your presence tends to overshadow things within the clan.”
+
+Jason nodded.
+
+“That day should always belong to you and your wife. My father has been telling me I should be more approachable within the clan. Make it less of an event when I appear in public.”
+
+They both looked up and down the corridor at the hospital staff and patients pretending not to eavesdrop.
+
+“You might still have a way to go,” Miguel said and Jason chuckled.
+
+“I think you’re right. Would you like me to tell your uncle about your wife and child, or are you keeping that a surprise?”
+
+“You can speak with my uncle?”
+
+“Quite easily, as it happens. I can manifest avatars in Rexion, the underground city of the Brightheart people. Your uncle is stationed there as branch director of the Adventure Society.”
+
+“We should include my wife in this discussion,” Miguel said. “And perhaps could benefit from a little privacy.”
+
+“Of course.”
+
+Miguel’s face lit up as soon as he saw his wife, lying in bed. As an essence user with access to the best medical care in two worlds, she had none of the pale, exhausted look one would expect of a new mother. She looked more like a patient in a medical TV drama. She smiled at Miguel before turning to Jason.
+
+“Mr Asano.”
+
+“Mrs Ladiv. It still feels a little odd to not be calling you Officer Park anymore.”
+
+“Maybe now that I’m not on the job, you won’t make a thinly veiled excuse and portal off to the other side of the planet.”
+
+Jason grimaced in embarrassment, scratching the side of his neck.
+
+“I wasn’t that bad, was I?”
+
+Miguel and Natalie shared a look.
+
+“Okay, fine,” Jason said. “I wanted to come by and congratulate you on the birth of your daughter.”
+
+“Thank you.”
+
+“I’d also like to ask what the two of you will be doing when I return to Palli.”
+
+Natalie wrinkled her brow in confusion.
+
+“You haven’t been listening in on our discussions?”
+
+“My ability to see and hear everything only extends as far as clan territory, not your grandmother’s apartment in Itaewon. Her kitchen renovation worked out really well, by the way. You haven’t seen it yet, right?”
+
+“How do you know that’s where we talked about it?”
+
+“I may not be omniscient across the whole planet, but I do pay attention.”
+
+“Just not to privacy laws,” Natalie said.
+
+“Says the former intelligence officer.”
+
+“Let’s not push my wife too hard, Mr Asano. She may look radiant, but childbirth is still quite an ordeal.”
+
+“I apologise. But I will need an answer as to what your intentions are. It doesn’t have to be today, but soon.”
+
+“We’ve decided to go to the other world. Together. I don’t think that Knowledge will go after us, and I’ve been away from my family for a long time. I’m more worried about Natalie’s, back here on Earth. We’ve discussed having you bring them into the clan, or even your magic universe. You do have people living there, right?”
+
+“I do, and we can discuss options later. I can show them what they’d be in for, either way. I’ll leave you all to it.”
+
+“Us all?”
+
+An obsidian arch rose out of the floor, then filled with swirling dark energy. Out of it stepped an elderly Korean couple.
+
+“Halmeoni!” Natalie exclaimed as her grandmother came in for a hug. Miguel gave his grandfather-in-law a respectful bow. He looked around as the portal vanished, realising that Jason was already gone.

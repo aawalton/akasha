@@ -1,0 +1,273 @@
+---
+id: e2634cec-61cb-563b-adb5-de85665fc2af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1016: Worse Things"
+slug: 0086-chapter-1016-worse-things
+partOf: he-who-fights-with-monsters
+position: 86
+ownLength: 2422
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892845/chapter-1016-worse-things"
+royalRoadId: "3892845"
+---
+
+Rufus was seated at an outdoor tea house with Clive, Lorelei and a handsome Pakistani man. He looked at the person who had just stopped at their table and let out a sigh.
+
+“Oh,” Jason said, surprise on his face. “Fancy bumping into all of you here.”
+
+“Yes,” Rufus agreed. “It is funny. What brings you here, Jason?”
+
+“Oh, I was just out on a stroll.”
+
+“In Islamabad.”
+
+“You know me: man of the world. G’day Lorelei. Clive.”
+
+“Hello Jason,” Lorelei said while Clive just shook his head.
+
+Jason held his hand out to the fourth person at the table.
+
+“I don’t believe we’ve had the pleasure. I’m Jason Asano.”
+
+“I’ve heard a lot about you,” the man said as he shook Jason’s hand.
+
+“Don’t believe what Rufus tells you about me,” Jason said. “Even if I could get the chicken, the goat and the snake to be friends, I’m not going to waste that much sesame oil.”
+
+The man wrinkled his face in confusion.
+
+“What?”
+
+“I vaguely recall hearing that Rufus was seeing someone. I think they said you were a doctor?”
+
+“That’s right,” the man said. “I’m—”
+
+“Jason, who told you?” Rufus interrupted.
+
+“Oh,” Farrah said as she wandered along the street. “Fancy meeting all of you here.”
+
+“Why did I even ask?” Rufus muttered to himself.
+
+“G’day Farrah,” Jason said. “I was just meeting Rufus’ new friend. Turns out he’s a doctor, but I didn’t catch his name yet.”
+
+Rufus buried his face in his hands.
+
+“My name is Hassan Dukhtar,” the man said.
+
+“Hold on,” Jason said. “Your name is Handsome Doctor?”
+
+“Hassan Dukhtar,” Hassan corrected.
+
+“Which, more formally, would make you Doctor Handsome Doctor.”
+
+“It’s Hassan Dukhtar.”
+
+“That’s what I said. Doctor Handsome Doctor.”
+
+“No, it’s—”
+
+“Don’t,” Rufus said. “Just don’t. Jason, please go away before I tell the Americans about your little trips to Sandwich, Massachusetts.”
+
+“How did you…? Fine. But it’s genuinely nice to meet you, Doctor Dukhtar. That was some courageous medic work you did last week. Not many would risk walking into a vampire war zone like that. You saved a lot of lives.”
+
+“Uh, thank you. And, I guess, thank you for turning into a bird and doing… something. It wasn’t really clear what was going on in the video, but I’m told it was very important.”
+
+“Come on,” Farrah said, giving Jason a push. “Let’s leave them to their double date.”
+
+“Thank you so much for this,” Rufus told her with the opposite of sincerity.
+
+“Look at it this way,” Farrah told him. “At least you can bring him home now, instead of avoiding clan territory to hide him from Jason.”
+
+Farrah dragged Jason off while Rufus hung his head.
+
+“Well,” Hassan said. “That wasn’t nearly as bad as I was expecting, after the big deal you made about it.”
+
+“Oh, fancy meeting you here,” Arabelle Remore said as she strolled along the street with her husband.
+
+“Hello, son,” Gabriel said. “Who’s your new friend?”
+
+Further along the street, Farrah glanced back and chuckled.
+
+“It’s a shame,” she said, “Gary would have loved that.”
+
+***
+
+Jason let out a sigh.
+
+“I’m sorry, Travis.”
+
+Ahead of the presentation Jason was going to give, he and Farrah had sat down Travis Noble and told him everything. They were in the steampunk city in the Saint-Étienne astral space, at a rooftop café.
+
+“I trust my wife, Jason.”
+
+“I’m glad,” Jason said. “I’ve seen nothing to make you think you should do otherwise.”
+
+“I’ve known her for a long time,” Farrah said. “The years we worked together, building the Sky Link Network. Gabrielle is a friend, but this has to happen. She knows that Jason sees everything in his domains. She knows what Shade can do. If she did do anything, she would be extremely careful. We have to know what side she’s on, Travis.”
+
+Travis sat in silence for a long time, his head bowed. Jason and Farrah shared a glance, but didn’t interrupt his thoughts. When Travis placed his hands on the table and looked up, they turned their attention to him again. When he spoke, his tone was low and soft, his anger pressed iron flat.
+
+“I understand what you’re telling me. It makes sense. If you’re telling me the truth, and I have every faith that you are, then you can’t not do this. But I can’t help but hate you a little for it.”
+
+Jason nodded.
+
+“That’s fair.”
+
+“I won’t help you. I won’t be a part of it. I’d warn her if I could, but I know you can stop me.”
+
+Jason stared at his friend, searching his expression. Travis met his gaze with eyes full of challenge.
+
+“Go, Travis. Tell her we’re coming. Warn her.”
+
+“Jason…” Farrah said.
+
+“No,” Jason said. “Travis, go find your wife.”
+
+Travis stared at them for a moment before getting to his feet and hurrying off, without further words. Jason and Farrah were left on the rooftop, looking at each other.
+
+“If she’s been playing us,” Farrah said, “she’s going to warn the others.”
+
+“If she hasn’t, she’s going to warn them anyway.”
+
+“Then what are you doing? We brought Travis here specifically so he’d realise that he has no chance to intervene. Why would you then go and give him one?”
+
+“He’s earned the courtesy, and so has she. Also, I wanted you to be authentically unhappy when I changed the plan. Helps sell it.”
+
+“Jason, what did you do?”
+
+“I think most of the Knowledge clergy we brought with us have no idea what their goddess is up to. Her true agents might not even be amongst them. It’s how I’d do it. They know about Shade and have certainly taken countermeasures. But if Gabrielle sets the cat amongst the pigeons, they might slip up in the chaos. Give Shade a chance to find something they’ve managed to hide from him so far.”
+
+“Jason, you’re bit of a manipulative prick.”
+
+“Come on, Farrah. We both know I’m worse things than that.”
+
+***
+
+Gabrielle Pellin woke up to find her husband’s side of the bed empty. She extended her aura senses to find him walking up the stairs. A moment later, he entered their bedroom with a luxurious tray of food.
+
+“I’m sorry I fell asleep before you got home,” he told her.
+
+“I didn’t want you to wait up. I got in late.”
+
+She glanced at the clock.
+
+“Very late. Barely a few hours ago.”
+
+“Then you definitely need this,” he said, setting the tray down over her lap.
+
+Travis happily watched his wife dig into the food. She looked at his goofy grin and shoved some crispy bacon in his mouth. He munched on it happily, but his smile soon faded to worry.
+
+“Did you warn your people?”
+
+“I did. I doubt any of Knowledge’s clergy are still in clan territory by now.”
+
+“Except for you.”
+
+“I can’t run. This city is his eyes, ears and hands. All I can hope is that he doesn’t stop the others.”
+
+“I don’t think he will. If he was going to jump on them, why would he have brought me into his astral space and give me a chance to warn you? I mean, he explicitly told me to.”
+
+She sat up straight from where she was lounging against a stack of pillows.
+
+“He told you to?”
+
+“Yeah, and Farrah wasn’t happy about it.”
+
+She closed her eyes and winced.
+
+“Damn it.”
+
+“What?” Travis asked.
+
+“Jason was never after me. He was trying to flush out a real spy.”
+
+“There’s a real spy?”
+
+“Not that I’m aware of, but he doesn’t know that. He’s always been so fast to distrust her, even with all she’s done for him.”
+
+“Should you warn your people again?”
+
+“No, the damage is done.”
+
+An hour later, Travis and Gabrielle were downstairs in the kitchen when a knock came at the door. Moments later, an unhappy Travis was letting Jason inside. When they reached the kitchen, Gabrielle was making tea. She looked up and met eyes with Jason.
+
+“I’d rather not drag this out,” he said.
+
+“It’s not like I can stop you,” she told him.
+
+“It might be best if you’re sitting down.”
+
+She sat at the table and nodded at him. He nodded back and his aura came crashing down, not from his avatar but the city itself. It was silent, yet somehow blocked out the sound.
+
+Did you know?
+
+Jason’s question came from the aura itself, somehow. Gabrielle shook her head and managed to voice a denial she didn’t hear. Then it was over. The moment passed and she slumped into her chair.”
+
+“Satisfied?” she asked, sweating as if she’d just run a marathon.
+
+“I am. And I’m sorry.”
+
+“I don’t betray, Jason. Not my goddess, not my husband and not even your hospitality.”
+
+“I believe you. But you know what she’s doing now, right?”
+
+“According to you. I don’t share my husband’s confidence in your judgement, but that doesn’t mean I think you’re lying. I just think you’re wrong.”
+
+“You’ve never seen something that made you question? Never had doubts?”
+
+“Everyone has doubts, Jason, but they don’t matter. That’s why they call it faith.”
+
+***
+
+Asano Academy was the premier educational institution for magic on planet Earth. Granting access to international students had been one of the strongest cards the clan had to play while building their influence. The full-time staff included Emi, Clive, Belinda and Lorelei, although many in Jason’s circle gave guest lectures or held special events. People would fly across the world to hear Jason lecture on auras, or to attend a Rufus workshop on the integration of physicality and magic.
+
+Jason and his close circle were no strangers to the Academy, but having so many on campus at the same time caused a stir. No event had been announced, but many prominent figures had gathered. There were otherworldly adventurers and key figures from the clan. There were messengers and Cabal members, and even a couple of interdimensional former pirates.
+
+Jota Withers and his second in command, Natala Spiro, had surrendered themselves and their dimension ship to Jason on his return to Earth. That vessel had been heavily reverse engineered, providing much of the magitech in Earth’s new airship fleet. Jota had been given back command of the ship for the battle with the vampires, acquitting himself well.
+
+The attendees arrived on campus in small groups, lingering in the main quad. Students and staff alike came to observe, some of the bolder ones making an approach. Soon the more famous people were surrounded, from an uncomfortable-looking Humphrey to a shamelessly attention-hogging Nik.
+
+There was a three-person contingent from the Cabal, led by Boris Ket Lundi himself. With him was the were-crocodile troll, Darryl, and an essence user from New Zealand named Koa. One of the people pulled from Earth to Pallimustus, he’d followed his new friend Darryl into the Cabal on their return. With his natural talent and friendly relations with Jason, he’d become a key figure in the Cabal’s small contingent of essence users.
+
+Jason greeted Darryl and Koa warmly.
+
+“Gentlemen, it’s been a while. How have you been?”
+
+“It’s been an interesting week,” Darryl said. “They had us in Egypt. Turns out those vine things had crawled right under the Mediterranean.”
+
+“It was a nasty business,” Jason said.
+
+“Not as nasty as your familiar,” Koa said. “We were happily fighting some vampires that were going weird or exploding when your familiar starts bursting out of the ground like we struck oil that wants to eat people.”
+
+“There’s nothing wrong with Colin. He’s a good boy.”
+
+“He’s a sanguine horror,” Boris said. “Messengers completely abandoned planets that had just one of them. And they use apocalypse beasts as weapons of mass destruction.”
+
+“He’s still a good boy.”
+
+Tera Jun Casta and Jali Corrik Fen also joined the gathering, the two messengers visibly wary of Boris. They had both left behind the messenger civil war, and even if Boris was on the side they nominally supported, he was ultimately still a soldier in the Orthodoxy war. While they had come at it from different directions, and neither shirked from a fight, both women wanted lives that had nothing to do with that war.
+
+The Network factions, global governments and the EDJI had only a single representative. With the arrival of Michael Mills, Jason headed for one of the smaller lecture halls and the rest of the group followed. A few of the observers tried to follow, only to be politely but firmly rebuffed by Shade at the main doors.
+
+Inside the lecture hall, people were claiming seats. Jason approached Michael and shook his hand.
+
+“I’m glad you could come, General. I know the last week has been a lot busier for you than for me.”
+
+“You’re not as glad as the brass back home,” Michael said. “Having one of their own on this sneak preview of your presentation next week has made my government very happy.”
+
+“Don’t let them get too happy. The rest of the world will be getting discreet leaks before the main event, so no one is distractingly surprised on the day. While it’s always amused me to drop info bombs and watch people react, I’ve been told that it’s not the best way to get what I want. Also, that it’s immature. To be honest, Michael, I want you to know what you’re up against, as soon as you can. You did a fine job against the vampires, and you know the reward for a job well done.”
+
+Michael snorted a laugh.
+
+“Yeah, another damn job.”
+
+Jason grinned and slapped him on the arm. Seeing that most people had found a seat, he made his way to the front of the room. Once everyone was seated, all eyes turned to him and the room went quiet.
+
+“I have a lot to talk about today,” he told them. “I’m going to ask you to keep questions to a minimum while I go through it all, and then I’ll answer them at the end. I’m also going to cover everything. Some of you will have already heard parts of what I’m going to tell you, but almost no one here knows it all.”
+
+He glanced at Farrah.
+
+“Almost all of you will learn some new things today, and most of you will learn a lot. I don’t think any of you are going to like it.
+
+He panned his eyes across his audience, his expression grim.
+
+“Alright, let’s begin.”

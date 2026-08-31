@@ -1,0 +1,285 @@
+---
+id: ded3883e-146a-56fc-962c-72fafc1b45b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1022: While We Have the Chance"
+slug: 0092-chapter-1022-while-we-have-the-chance
+partOf: he-who-fights-with-monsters
+position: 92
+ownLength: 2867
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892852/chapter-1022-while-we-have-the-chance"
+royalRoadId: "3892852"
+---
+
+You couldn’t really call it a barbecue anymore. Once enough people and enough food were gathered, it turned into a festival. Jason’s grandmother and sister had taken the whole event in hand, closing off entire sections of Saint-Étienne. Benches and tables filled the streets, while kiosks and cooking stations were set up all over. It had started out as an event for friends and family, to bid those leaving goodbye. Somehow, it had morphed into a massive celebration for the clan and its allies; a last, joyous event before the shadow of war passed over them all.
+
+Jason wound his way through the crowd carrying a huge tray of meat, placing it down at the long picnic table holding his family, his team and their families. He slid onto the bench between Taika and Emi.
+
+“Hold on,” Belinda said. “Zara, I thought the current Storm King was your brother, but now you’re saying he’s your cousin?”
+
+Zara let out the unhappy groan of someone who had explained something enough times to know it never went well.
+
+“Technically, he’s both,” she said.
+
+“Oh,” Neil said, awkward understanding on his face. “I didn’t realise the Storm Kingdom had one of those royal families.”
+
+“We don’t!”
+
+“We understand,” Emi assured her. “You’ve got to keep those bloodlines pure.”
+
+“I said we’re not like that.”
+
+“Stella, you’re from the Storm Kingdom,” Sophie pointed out. “What do you think?”
+
+“Oh, they’re definitely like that. It’s common knowledge.”
+
+“It is not!”
+
+“Are you going to be a sister-wife?” Taika asked. “I don’t think that’s okay, bro.”
+
+“Did you just call me ‘bro?’”
+
+“If you’re going to marry your brother,” Erika’s husband Ian said, “I think you have bigger things to worry about than pronouns.”
+
+“Leave the poor woman alone,” Erika said, giving her husband a disapproving glare that was met with a cheeky grin.
+
+“Yes, leave her alone,” Jason’s uncle Hiro said. “There have been many cultures where it’s acceptable to marry your brother, who are we to judge?”
+
+“I’m not going to marry my brother! And he’s not even my brother like that, he’s adopted. He’s a cousin my father adopted as a baby to shield him from the political consequences when his parents turned out to be traitors.”
+
+“Oh, I’m sorry,” Belinda said. “So, you’re going to marry your cousin?”
+
+“I’m not going to marry anyone!”
+
+Taika shook his head and placed a hand on Jason’s shoulder.
+
+“Bro, if you liked it, you should have put a ring on it.”
+
+“The political reality makes that a bad idea,” Zara said. “The Church of Knowledge may only have annexed one small island, but they still seized the Storm Kingdom’s sovereign territory. And this isn’t like France wanting Saint-Étienne back but being unable to do anything about it. It could easily devolve into war. A Storm Kingdom princess marrying Jason would be fuel to the fire.”
+
+“Wouldn’t that be good for us?” Erika asked. “If Knowledge is fighting a war there, can she still stage one here?”
+
+“It wouldn’t stop at a regional conflict,” Zara said. “The three pillars of Pallimustus civilisation are the churches, the Adventure Society and the governments. If two of those pillars come into conflict, it will pull in more nations and more churches. The planet could be plunged into a fresh war, just as another is ending.”
+
+“That was the one with the messengers, right?” Ian asked. “Hasn’t that been going on for decades?”
+
+“Yes,” Jason said. “From what my avatars in Rexion have been able to gather, the messengers found what they’d been looking for the whole time, and have gradually been withdrawing their forces ever since. Some have been reluctant to give up territory they’ve been fighting over for decades, but it is happening.”
+
+“Did you manage to discover where the Purity relic was found?” Danielle Geller asked.
+
+“No,” Jason said. “But I’d be willing to bet who finally revealed the location to whoever found it.”
+
+***
+
+In a cavernous underground bunker, illumination was provided by the glowing magical diagrams carved into every inch of the walls and ceiling. The light sparkled off the large object dominating the room: a gazebo with trellised sides, carved entirely from unbroken diamond. Green vines grew up and over the framework, white flowers with large petals growing all along them.
+
+“It’s larger than I imagined,” Jamis Fran Muskar said as he walked around the relic.
+
+“That’s part of the trouble,” Thadwick said. “It resists placement in dimensional storage. That makes it hard to move and hard to hide, especially radiating power the way it does. Arranging this storage space was trouble enough, and I don’t think we could move it again without being discovered. Nor could we file too many vampires through.”
+
+“How many did you manage to cure of their sun-madness while you had it?”
+
+“Too few. The risk of the relic being discovered is too high, and finding vampires is too hard. They don’t exactly volunteer, either. After being driven to ruthless amorality by the sun, they resist reverting to their previous personalities. Given how many kill themselves after, I suppose I can see why.”
+
+“Yet, you persist.”
+
+“This world sees vampires only as predators without care or remorse, and they are not always wrong. But they could be, if people were willing to help instead of killing them on sight.”
+
+“How is the new process I gave you?”
+
+“Easier. Replicable.”
+
+He gestured at the purity relic.
+
+“And doesn’t involve the thing that every adventurer and messenger in the world is looking for. It means we can set up multiple operations, and move them as necessary, all while drawing much fewer eyes. Where did you find this process? Some other world?”
+
+“Oddly enough, a priest from your world developed it. He’s been trying to cure vampirism for years, and he’s done it, at least for lesser vampirism. Along the way he developed a few other processes, like removing the sun-taint that leads vampires to their lack of sociability. Funnily enough, most of what he’s accomplished can also be done by this divine relic.”
+
+“If this priest is from this world, why wouldn’t he release it publicly?”
+
+“He left this world some years ago, prior to completing his research. I had to go quite some way to obtain it, from someone who doesn’t like me very much. I’m glad that you are satisfied with my efforts.”
+
+“Yes, you’ve been as good as your word, and I shall be the same. Purity’s relic is yours to take. As is the trouble of removing it discreetly.”
+
+“Thank you. Now that our deal is done, would you be willing to answer a question for me?”
+
+“You want to know where I found it.”
+
+“I do. If that’s a private matter I understand, but I would appreciate you assuaging my curiosity if you can.”
+
+“It was in the Mirror Kingdom. A wild place, so far north that the ice never thaws. A cave had frozen over centuries ago, and inside was a natural array that hid the presence of the relic.”
+
+“And how did you come to find it? I don’t suppose a priest of Knowledge told you?”
+
+“How did you know that?”
+
+“Lucky guess. What did this priest ask in return?”
+
+“That is a private matter.”
+
+Jamis held up his hands in a placating gesture.
+
+“Then I shall enquire no further. It was good doing business with you, Mr Mercer. You are using that name again, yes?”
+
+“Yes, I… yes.”
+
+“I suggest you make yourself scarce, Mr Mercer, and I will give you ample time to do so before moving the relic. You don’t want it getting out that you’re the one who gave it to me.”
+
+“Is that a threat?”
+
+“Just a friendly warning. You have nothing left that I desire, and you’re not quite diamond-rank yet, close though you may be. Until you cross that threshold, even that remarkable sword of yours is no danger to me.”
+
+Thadwick nodded, resting a hand on the ruby and onyx hilt of his blade. The grip was a savage thing, with spikes that would dig into the hand of anyone who grabbed it.
+
+“Did you know that sword was forged especially to slay my kind?”
+
+“No, but it does so well. I’ve checked quite thoroughly.”
+
+Jamis let out a laugh.
+
+“So you have. Now, you’d best be on your way, as I suspect that extricating the relic will lead to contention from the locals.”
+
+Thadwick nodded, saying no words of goodbye as he strode to the bunker’s only doorway and the stairs beyond. They led up into a long-disused warehouse, storing no more than dust and a few broken barrels. Waiting for him was Thalia Mercer, the mother of the man Thadwick had once been.
+
+“Is it done?” she asked.
+
+“Yes, we can wash our hands of the relic. All that remains is what Knowledge has asked of me.”
+
+“I don’t like it. We have no idea what strange realm she intends to send you to, or who this man you have to kill is.”
+
+“Not kill. The priest said that it would not be possible. I am to harry and hunt him, keep him busy until some affair of the goddess is done with, so that he cannot interfere.”
+
+“I’m worried about you, son. What manner of man cannot die, but can interfere with the intentions of a god?”
+
+***
+
+“An idiot,” Akari proclaimed. “A complete and utter fool.”
+
+She paced back and forth in the consulting room, never touching the comfortable armchair across from the one Arabelle Remore was sitting in.
+
+“He’s your husband,” Arabelle said.
+
+“He clearly doesn’t want to be!”
+
+“I don’t think you believe that’s true.”
+
+“Then why is he acting like he wants nothing more than to end our marriage?”
+
+“I don’t think that is what he’s doing, even if he thinks it is. What you need to understand is that, in Itsuki’s mind, he’s never been good enough for you. When you started spending so much time away from him, he thought that you had finally realised it as well. Especially in the company of someone like Valdis. He is everything that Itsuki thinks of as the perfect man. A handsome prince, charismatic and talented. And one who shares your obsession with the sword, no less. In Itsuki’s mind, Valdis is the kind of man you deserve.”
+
+“Don’t I get a say in that?”
+
+“Yes, but the time you’ve been spending with Valdis makes your husband think that’s what you are saying.”
+
+“It’s not about that.”
+
+“I know. Valdis can help you back onto a path to sword mastery that you thought was closed to you. Even Itsuki understands that, at least intellectually. He knows that your true love is the blade, and Valdis can provide for you in that regard what your husband cannot.”
+
+“I’m not obsessed with the sword.”
+
+Arabelle raised her eyebrows and Akari turned away from her gaze.
+
+“Akari, the first step on resolving your issues is having you both understand what those issues are, not what you think they are.”
+
+“And how is Itsuki doing with that?”
+
+“I won’t discuss his sessions with you any more than I will yours with him. I will simply say that you both have work to do before we explore joint sessions. Now, our time is over, and we both have preparations to make. You will be at the farewell ceremony in Australia this evening, I assume.”
+
+After Arabelle had finished her post-session notes, she left the clinic early. She found her husband and son waiting for her outside.
+
+“Aren’t you busy today?” she asked Rufus.
+
+“Oddly, no,” Rufus told her. “I’ve said most of my goodbyes and settled my affairs in the clan. I thought it would be good to spend my last day here with my parents.”
+
+“I see you weren’t busy,” Arabelle said to Gabriel.
+
+“As it happens, I’m very busy. Who do you think has to pick up the slack with adventurer training now that our son is leaving?”
+
+“He has been surprisingly diligent,” Rufus said.
+
+“You didn’t have to say ‘surprisingly,’” Gabriel complained. “I’ve been teaching adventurers for a long time, you know. Our family runs a—”
+
+“Don’t say it, father. I’m well aware of what our family does.”
+
+Arabelle smiled warmly at her boys.
+
+***
+
+“Looking around,” Ian said, “you’d never know a war is coming.”
+
+He was strolling along the beach boardwalk with his wife, daughter, brother-in-law and father-in-law. They were back in Casselton Beach, Jason and Erika’s hometown.
+
+“Look closer,” Ken said. “These streets should be thick with tourists at this time of year. A lot of the shops are closed like it’s the off season. The rest have signs up for sales or reduced opening hours.”
+
+“At least it’s not crowded,” Jason said. “You don’t get a lot of that when the weather is this perfect. It might be selfish, but I hope the war doesn’t touch this place. I wish I was going to be here to defend it.”
+
+“Maybe you will,” Ken said. “Perhaps Knowledge isn’t as clever as you think, and you’ll escape whatever trap she’s set up for you.”
+
+“I will, eventually. But however smart I think she is, she’s smarter. Every flaw, every misstep I thought she’d made over the years was a clever manipulation. But I don’t believe that she’s invincible.”
+
+“You really think you can beat a god?” Erika asked.
+
+“I’ve beaten worse. Gods are about rules. It’s what they’re made of, magic and rules. The mechanism that governs those rules was broken, which she exploited to make all of this possible. That mechanism has been fixed, now, which means I at least have a chance. I have to figure out which rules I need to exploit to defeat her.”
+
+“Do you have any idea what those rules are?” Erika asked.
+
+“Nope. There’s little point planning what I’ll do until I see what she’s done in full. Then I can get to the business of disrupting it. But let’s not talk about this anymore. Today is about being together while we have the chance. Now, let’s go get some ice cream before the shop shuts.”
+
+Emi danced ahead, the young woman acting like the girl she had been when they had all lived in this town. Jason smiled warmly, careful not to let the sadness creep into his expression or his aura. He grinned as Farrah emerged from the ice cream shop and Emi ran up to give her a hug.
+
+“Hey,” Farrah said with a laugh. “You’re squeezing me like you didn’t just see me three hours ago.”
+
+“But you’re going away!”
+
+Farrah was not joining Team Biscuit on the return to Pallimustus, nor was she staying on Earth. Uncertain of what Knowledge’s plans would mean for Jason’s astral kingdom, Farrah would be there to help manage things, should something go wrong.
+
+“What brings you here?” Erika asked as Emi relinquished her grip.
+
+“I thought I would make one last pitch for you to ride out the war in Jason’s astral kingdom. We don’t know what exactly is going to happen, but you will be safe.”
+
+“You’re an adventurer,” Emi said.
+
+“I am,” Farrah said.
+
+“Uncle Jason told me that adventurers live good lives. Money, power, influence.”
+
+“That’s true.”
+
+“He also said that there are days when you earn it. When you have to step up and prove that you’re worth everything you’ve been given.”
+
+“That’s also true.”
+
+“As much as we try to make the Asano Clan fair and equal,” Emi said, “the reality is that the Asano family gets the best of everything. We’ve gotten so much, kind of like adventurers. Now that the world needs people to step up, we can’t shirk our responsibilities.”
+
+Farrah let out a resigned sigh.
+
+“You did a good job with this one, Eri,” Farrah told Erika.
+
+“She’s a good egg,” Jason said.
+
+“Despite certain influences,” Farrah added.
+
+“Is she talking about you or me?” Jason asked Ian, earning him a clip on the back of the head from Erika.
+
+“Hey…”
+
+“You should join us,” Erika told Farrah. “In fact, we should get all the team who don’t have any family to join ours for the day.”
+
+“I think it’s just Neil,” Farrah said. “Zara is still organising the Storm Kingdom contingent for the return. Sophie is with her mother and Cal, and Humphrey is off with his mother.”
+
+“Perpetually,” Jason muttered, earning a threatening glare from his sister.
+
+“Lindy and Stella are off doing something they probably shouldn’t,” Farrah continued. “Taika brought his brother over from New Zealand and is staying with their mother. Rufus is with his parents. I think Clive finally figured out that women have more to offer than assisting him in the lab. That just leaves Neil.”
+
+Jason opened a shadow portal and stepped through. A moment later he came back, dragging Neil through behind him.
+
+“Jason, what are you…”
+
+He trailed off as he saw Farrah and Jason’s family.
+
+“Everyone is with family today,” Jason told him. “Yours are all in the other world, so today, we’re your family.”
+
+Neil opened his mouth to say something snarky, then closed it.
+
+“Thank you,” he said.

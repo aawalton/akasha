@@ -1,0 +1,189 @@
+---
+id: 47bdcfc6-4cb4-50a1-8b37-5dd0f076f646
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1015: A Fight She’s Already Won"
+slug: 0085-chapter-1015-a-fight-shes-already-won
+partOf: he-who-fights-with-monsters
+position: 85
+ownLength: 2619
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892844/chapter-1015-a-fight-shes-already-won"
+royalRoadId: "3892844"
+---
+
+Jason watched as the blue-orange light pouring down the shaft disintegrated McKean’s body. Behind him, monsters continued to pour out of the rainbow-coloured manifestation that was McKean’s collapsed astral space. They were variations of plant monsters, often dripping with blood. Almost all were silver-rank and swiftly annihilated by the gold-rank siege weapon still beaming down from above. The scant few golds were immediately inundated by leeches that swarmed out of the rubble, and brought down to be slowly devoured.
+
+Jason watched as a large plant pod grew up from the floor, pushing its way up through the steel and concrete debris. It undulated as something pushed from the inside, trying to get out. A hand tore its way free and then ripped the hole wider. A naked, bloody Simon McKean stumbled out, looking confused. He stared at Jason without recognition, then fell to the ground in a seizure. His body bulged and blistered, as if being inflated with scalding hot air.
+
+Gordon arrived in front of Jason as a cloud of blue and orange sparks that coalesced into his normal body, surrounded by floating orbs. Three of those orbs turned into shields, interposing themselves between McKean and Gordon right before McKean exploded. The first shield shattered and the second was damaged but held. McKean’s liquefied remains painted a red circle, broken only where it struck the shields.
+
+The manifestation of rainbow light shrank as the outpouring of monsters slowed to a trickle and finally stopped. The silver-rank monsters were swiftly dispatched by the beam, while the golds were much harder to kill. They remained buried under leech mounds, scattered amongst the piles of rubble and the dead silver-ranks.
+
+The massive beam from above cut off, leaving the chamber in shadow. The cloud ship blocked much of the sunlight coming down the shaft, a few beams cutting past to pierce the chamber like blades in the dark. The ground was covered in dead monsters, semi-dissolved from the beams. In about an hour, when the monsters started to break down, the chamber would be wretched with rainbow smoke.
+
+Another plant pod rose out of the ground to spawn a second ill-fated copy of McKean’s body. It met the same fate as the first, soon reduced to red splatter on the ground. As a third pod grew, a drone floated down from the cloud ship to hover near Jason.
+
+“Dad, General Mills wants to talk with you.”
+
+“Put him through.”
+
+“Mr Asano,” Michael’s voice came through the drone. “The fighting is going well, but we have a fresh problem. The vampire forces are getting warped and exploding, but they still aren’t dying. They aren’t really fighting back anymore, and their own attempts at regeneration are killing them, but once they get killed, they keep regrowing and exploding.”
+
+“I’m seeing it too,” Jason said. “The magic is still being fed into the vine, but it’s hurting more than helping. It seems that McKean tried to make himself immortal as well. Hold on a moment, General.”
+
+As another pod grew out of the floor, Jason gestured Gordon aside as the familiar moved to shield Jason again. Jason conjured a knife to cut a vertical opening in the pod, his hands getting filthy as he yanked the cut open to reveal a fresh McKean clone. He grabbed the clone’s face and its whole body melted instead of exploding. The pod collapsed and no new one grew in its place.
+
+“General,” Jason said to the drone. “I’ve literally ripped McKean’s control node out of the ground, so that magic will eventually reach the point where it’s too incompatible to resurrect them anymore. I can accelerate that process in person, now that I’ve deepened my connection to the magic fuelling it, but it will take time to propagate through the whole vine system.”
+
+“Is there any way to speed that up? The longer we have to fight, the more casualties we face as our people get tired and our resources run low.”
+
+Jason looked around at the room piled high with monsters. Leeches squirmed their way out of the rubble to feast on them, in numbers greater than Colin had ever built up to before. It only took a short while for the room to be drowning in them.
+
+“I might have a solution, General, but I’m not sure how long it’s going to take. In the meantime, focus on containing the threat and avoiding casualties.”
+
+“Already happening. Keep me updated, Mills out.”
+
+“What’s the plan?” Nik asked through the drone.
+
+“Colin, I need to speak with you,” Jason said.
+
+A cluster of leeches left the monster they were consuming to meld together into a blood clone with Jason’s face.
+
+“What’s up?” Colin asked, gesturing around the room. “I’m kind of in the middle of cleanup here.”
+
+“You shouldn’t be able to propagate this much until diamond-rank,” Jason said. “Has feeding on the blood root vine given you a boost?”
+
+“You know, if more people used life force and chaos magic as a dressing, I could really come around on salads. Aunty Erika’s a chef, do you think she’d—”
+
+“No,” Jason said. “I don’t think she would. How long do you think you can keep increasing your biomass?”
+
+“It’s not going to last long,” Colin said. “Going over my usual limit burns through the magic I’m feeding on pretty fast. I have to keep feeding on the vine to maintain it.”
+
+“Then keep feeding. Keep spreading and devour the whole vine, until it’s gone completely.”
+
+Colin raised his eyebrows.
+
+“Really?”
+
+“Really. Go forth and multiply, my son.”
+
+“I just want to be clear, because you’re always saying ‘Colin, don’t devour all life on Earth,’ and stuff like that.”
+
+“I’m not, actually, but suddenly it feels like I should. Colin, don’t devour all life on Earth. Just the vine. And maybe the vampires, and McKean’s plant abominations, but don’t get in the way of the Earth forces. You can come off as scary.”
+
+“I’m not scary!”
+
+Jason patted him on the head and Colin failed to suppress a bashful grin.
+
+“Everyone knows that you’re the best boy, Colin, but people are very worked up today. I don’t want anyone to do anything stupid and get eaten.”
+
+***
+
+Cleaning up the full forces of the vampires took days. A week later, main combat operations had come to an end, but scattered vampires were still being hunted across the planet. These were the ones that hadn’t followed the vampire lords into joining with McKean, and hadn’t been bound to the blood vine. The grid being able to track them meant that there was nowhere for them to hide.
+
+Jason and his team had participated in the hunt. Where they could, they captured them and sent them to the Asano Clan’s vampire city for treatment. For the most part, however, they were hunted down and killed. Earth was ready for the vampire threat to be finally over.
+
+Annabeth Tilden lived a perpetually busy life, managing the political ramifications of Jason running around the Earth like a mad demigod. One day he was insisting he wanted no part of human affairs, and the next he was trying to reshape civilisation. The formation of the Earth Defence Joint Initiative had multiplied her workload, culminating in their first major operation.
+
+Fortunately, Anna was far from alone in her efforts. Danielle Geller had done an astounding job of coming to grips with Earth politics, and Li Li Mei had also proven more than capable. The Chinese woman was one of the few with political experience in both worlds, and had proven herself to be a useful, if ruthless, asset.
+
+Anna approached Jason’s suite of rooms in the clan tower in Saint-Étienne, but there was no door to knock on. One would only appear if Jason was willing to see you. An empty doorway did form at Anna’s approach and she walked in. The room she arrived in had a work desk in the corner, but was clearly an afterthought. Dominating the large room was a gaming table that looked like a pool table, but had no holes for the balls. The walls were mostly covered in shelves stuffed full of board games, along with what looked like racks for yoga mats, but with gaming mats rolled up in them instead. There were also paintings that she recognised, courtesy of her art curator wife, as having been painted by Dawn.
+
+The back wall didn’t exist, the room opening directly onto the balcony. She found Jason out there with his hands on the railing, looking out over the city.
+
+“Was McKean right?” He asked without turning around as she approached. “Has the world been waiting for a sign that fighting me was possible before they rose up and did just that?”
+
+“McKean, like many intelligent people, had an idea in his head about the way the world works that was more in line with how he thought it should work. That’s not to say that there aren’t a lot of powerful people that would like you gone, but you aren’t at the top of their list. You’ve been pushing to advance magitech while enhancing and unifying military power. They don’t like how much you’ve resisted efforts to centralise that power, but they accept that you are the price of the changes you’ve brought about.”
+
+“They aren’t worried that I’m centralising that power in myself?”
+
+“They realise, especially after the last week, that you don’t need to. That your personal power is essentially unfathomable. It really didn’t help when they saw you telling your pet apocalypse beast not to devour all life on Earth.”
+
+He finally turned to look at her.
+
+“I figured that McKean’s broadcast would end when I destroyed his astral space. I didn’t know that Nik was going to take over the feed and keep broadcasting. No one was meant to see that.”
+
+“Regardless, if the traditional Earth power holders could get rid of anyone, it wouldn’t be you. It would be Boris Ketland. Now that he’s openly leading them, the Cabal has become highly aggressive with their economic and social programs. He’s toppled governments and cut some of the world’s most exploitative business practices off at the knees.”
+
+“I’ve toppled governments too.”
+
+“It’s not a competition to see who can most aggravate the world’s richest and most powerful people, Jason.”
+
+“Maybe it should be.”
+
+“The richest and most powerful person in the world is you.”
+
+“You say that like you’ve never seen a hypocrite before.”
+
+She rolled her eyes.
+
+“You’re right to wonder about the reaction to your confrontation with McKean. He wanted to show the world something, it just didn’t end up being what he thought. Like most things, the reality was more nuanced than what he expected. He thought he could rally the world, but nothing really can. Whether it’s McKean’s imagined rebellion against you, or your EDJI program, there are always those who are dead set against it. Some people hate you, others love you. That hasn’t changed.”
+
+“Something has.”
+
+“What makes you say that?”
+
+“The prayers.”
+
+“What prayers?”
+
+“People pray to me, Anna.”
+
+“People pray to a lot of things. Statues. Wishing wells. Astrological signs. What makes you think more people are praying to you?”
+
+“I hear them.”
+
+“You eavesdrop on people praying to you?”
+
+“It’s not eavesdropping, Anna. I hear them. The prayers.”
+
+“You hear prayers?” she asked, scepticism heavy in her tone. “Jason, do you think you’re God?”
+
+“I’m not God, Anna. I’m not even a god. I just occasionally do some things that normally only gods do.”
+
+“Well, I guess there’s a video trending of you turning into a giant space bird, so why not this? What does it even matter if you can hear prayers? You don’t answer them, do you?”
+
+“Of course not.”
+
+“Then don’t go around telling people you do god things. Dealing with the various religions on your behalf is already a pain. I’ve had the New Vatican crawling up my butt all week about the old Vatican. They think you’re going to take it over, the way you did Saint-Étienne. Which the reconstituted French government have been hammering me about, by the way. Again. People are already looking to carve up Europe, before we’ve even finished scraping the vampires off of it.”
+
+“I’m afraid your issues with the world religions are about to get worse, Anna.”
+
+She closed her eyes and let out a long, slow breath.
+
+“Jason, what did you do?”
+
+“I’ve already told you that something big was coming after the vampires. That I’ve been carefully restricting information.”
+
+“Yeah. Even from yourself, you said, which still makes no sense.”
+
+“That time is over now. I need you to get things ready for me to make a presentation. I need to tell the world what’s coming, and I’m going to explain it all. What’s happening, why it’s happening, and how we got here. How I got here.”
+
+“I don’t suppose you’d like to give me some advanced warning?”
+
+“I will. Right now, I’ve only shared it with my team, but I intend to share it with those working for me, clan leadership and my Pallimustus allies first. The short version is that the other world’s goddess of Knowledge has been preparing to invade the Earth for half a millennium, and she used me as a key part of that plan.”
+
+“Can’t you stop her?”
+
+“No. That’s the problem with an entity who has what amounts to infinite power and Knowledge: she makes very good plans. Even in my lifetime, I’ve accidentally thrown a few wrenches in the gears, but she has contingencies and adapts. The only thing that could actually stop her would be to destroy the bridge between the two worlds.”
+
+“The one McKean was using?”
+
+“Yes.”
+
+“It sounds like the thing is more trouble than it’s worth.”
+
+“It isn’t. Without it, the Earth gets destroyed. Knowledge set that into motion as the first step of her plan. The final step is me going back to Pallimustus and completing the bridge, opening the Earth for invasion. Not only can I not fight her, but I have to keep helping her. I’ve been told for a long time now that there’s a fight coming that I can’t win, but the truth is that I can’t fight it at all. I even have to work for the bad guy, and there’s nothing I can do about it. That’s how good her plan is. The truth was kept from me by my own allies so that I wouldn’t do something extreme, and they were right to do so. If I’d learned this when I was younger, I’d have done something breathtakingly stupid and gotten a lot of people killed in the process. Probably would have gotten the whole planet wiped out, and a good chunk of the universe with it.”
+
+“There’s nothing you can do to stop this?”
+
+“There was something I could try. But, like I said, the risk was too great. I would have taken that risk, once upon a time, but I’ve seen too many people suffer the consequences of my ‘bold heroism.’ Some things you just have to live with.”
+
+“So, what? You’re just going to go off and help some goddess invade the Earth?”
+
+“Yes. It’s a fight she’s already won. You knew that something like this was coming, Anna. The world knew. I was turning the Earth into a unified weapon, and it wasn’t hard to figure out why. Now, it’s time to share the details.”
+
+“There was a hope that you were getting the planet ready to act more as a deterrent to invasion.”
+
+“No. War is coming, and it’s time to tell the world everything.”

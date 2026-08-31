@@ -1,0 +1,315 @@
+---
+id: ff6534b1-4b2e-58f4-807e-ed97a0c2f480
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1024: The Next Time We Meet"
+slug: 0094-chapter-1024-the-next-time-we-meet
+partOf: he-who-fights-with-monsters
+position: 94
+ownLength: 3961
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892854/chapter-1024-the-next-time-we-meet"
+royalRoadId: "3892854"
+---
+
+With most distracted by more than forty diamond-rankers emerging from the freshly arrived dimension ship, Travis moved Gabrielle into Onslow’s shell. Neil was standing dead still, his eyes closed.
+
+“Neil,” Travis said urgently. “Neil. Neil! NEIL!”
+
+Neil opened his eyes as if being roused from deep sleep.
+
+“What?” he asked grumpily.
+
+“What are you doing?”
+
+“I’ve been away from my god for a decade, Travis. Forgive me for taking a little time to commune with him.”
+
+Travis gestured angrily at Gabrielle laying on the floor. She had stopped seizing but was still unconscious.
+
+“The god of healing might have some interest in this.”
+
+“Her divine essence was taken from her. There’s little to be done unless another god replaces it, and I don’t think she’s going to go for that. Next best thing is a replacement essence, and that will be at iron rank. Assuming she lives through the ordeal, it will be a long, hard road to recovery.”
+
+“You must be able to do something.”
+
+“Not here. Rimaros has the facilities to wake her up without her being in so much pain she can’t think straight. Then they’ll have to get her to accept a new essence. We can’t just shove one in her now. She has to be willing.”
+
+Outside the shell, Jason watched the diamond-rankers emerge from the dimensional vessel that had just appeared. He immediately recognised Roland Remore and Victor Volaire, the Mirror King, but the others were strangers. Other diamond rankers he knew, such as Soramir Rimaros and Allayeth were not present. Rufus flew out of Onslow’s shell on a small cloud and up to his grandfather. Jason likewise floated up to stand before the diamond ranker.
+
+“Grandfather?”
+
+“Hello, Roo. I’m sorry our reunion has to be like this.”
+
+“You’re not here to confront Knowledge,” Jason said, his tone making it an accusation.
+
+“We are not,” Roland said. “We diamond-rankers have been unhappy for a long time with how the gods have been conducting themselves. From Healer letting his churches fall to corruption so he can heal them to Disguise taking Purity’s place for centuries to Knowledge preparing to invade your world. Their collective failure to stop Knowledge only makes it worse. We have wanted to act for a long time, but there was always one issue.”
+
+“That you could hide your planning from most of the gods,” Jason surmised, “but not from Knowledge.”
+
+“Indeed.”
+
+“So, you cut a deal,” Jason said. “You don’t interfere with Knowledge, since she’s leaving your world behind anyway, and she doesn’t interfere with your plans. You’ve known for a while, which is why you steered me away when we met in Vitesse.”
+
+“There’s more to it than that,” Knowledge said, suddenly next to them. “The diamond-rankers have been waiting for this day, keeping certain things from interfering with my affairs. The Order of Reaper have a role to play, but we couldn’t have you clashing with them too early. Roland here made sure that your connection to them remained peripheral.”
+
+“More layers of manipulation,” Jason said.
+
+“That is done now,” Roland said, glaring angrily at Knowledge. “You’ve gotten what you want.”
+
+“I have,” Knowledge said. “Did you really think that hiding outside of the universe to make your final plans would help? I’m not going to intervene in your little feud with my soon-to-be-former peers. There was no need to make such a dramatic entrance. Jason Asano and I have business, so do run along.”
+
+“Grandfather, what are you doing?” Rufus asked.
+
+“We are holding the gods to account. We cannot fight the gods themselves, obviously, but we can fight their churches. The gods need to start acting like the caretakers they should be and not capricious nobles with too much power and too few consequences. If not, they will find their ability to act upon the world significantly curtailed as their mortal agents are removed.”
+
+“It doesn’t look like you’re confronting the gods Grandfather. It looks like you’re striking bargains with them. That’s how you expect to hold them to account? You think your efforts will amount to anything when your first step is participating in exactly the kind of act you say you want to stop? You’re passing off the problem you couldn’t face to the people of Earth. You couldn’t handle the wolf, so you’re helping it get into someone else’s house. The people inside don’t matter to you because they’re not yours.”
+
+“There was no other way.”
+
+“Yeah, I’m done listening to you,” Jason said. “The goddess told you to scoot, so scoot. Your boss is done with you. She and I have some stuff going on right now, so pack up your people and go hash it out with the gods some other place, before I start getting cranky.”
+
+Roland raised his eyebrows.
+
+“Are you trying to threaten me?”
+
+Jason drifted closer until they were eye to eye. When he spoke, his voice had the desolate calm of a dead world.
+
+“When I am done dealing with Knowledge and whatever her plans for me are, I am going to come back here. When I do, you and the little gods you’re feuding with will answer to me. And if you’re very, very lucky, your grandson will convince me to leave enough of you that he can carry it home in a bucket. That is me threatening you, Roland Remore.”
+
+Roland’s diamond-rank aura surged out. Although it seemed less impressive with a goddess manifesting nearby, it still crashed down on Jason. In response, a version of Jason’s aura surged out of his cloud ship, with a power that was beyond diamond. Roland’s eyes went wide, his gaze moving between Jason and Knowledge. He frowned and nodded to the goddess.
+
+“The terms of our agreement hold?” he asked her.
+
+“They do.”
+
+“Then we will take our leave.”
+
+The diamond-rankers were gone in a blur and their ship flew off swiftly.
+
+Jason’s aura retracted to his cloud ship and he floated back to Onslow’s shell before half-collapsing on top of it.
+
+“Are you alright?” Rufus asked, joining him.
+
+“He pushed himself beyond his current limits,” Knowledge said. “I take it you don’t intend to do any fighting today, Jason Asano.”
+
+“What would be the point?”
+
+“Quite so.”
+
+“Knowledge, just do me a favour and let Gabrielle go. It costs you nothing, she gets you nothing. You’ve won, today. Be magnanimous.”
+
+While Jason, Knowledge and Rufus had been speaking with Roland, Travis had moved Gabrielle into Onslow’s shell and Neil’s care.
+
+“Very well,” Knowledge said. “Send the people you have on your cloud ship to the boats and she may go with them. My priests you hold can be delivered to the island. When you are done, we can speak on the ground.”
+
+The goddess vanished and shortly thereafter, flying vehicles were moving out of the cloud ship. Most moved toward the anchored Storm Kingdom ships, but several were driven by Shade and ferried the Knowledge priest prisoners to the island below. One of Shade’s bodies took the cloud flask from Jason and started absorbing the cloud ship into it.
+
+Jason and Rufus joined the rest of their team inside Onslow’s shell. A flying skiff carrying Zara and some of her people detoured to the shell to collect Gabrielle and Travis. Jason and Zara didn’t say anything, but locked eyes as the skiff departed, until it carried Zara away.
+
+“Jason,” Humphrey said. “Did I hear you threaten to kill the greatest swordmaster in the world?”
+
+“He’s diamond-rank. He’ll get back up.”
+
+“There is also the small point of him making short work of you if you tried,” Sophie pointed out.
+
+“I didn’t threaten him for today,” Jason said. “I threatened him for tomorrow.”
+
+“It will take more than just reaching diamond-rank before you’re ready to face my grandfather, Jason.”
+
+Jason’s expression turned hard.
+
+“I intend to be more than just diamond-rank.”
+
+He wandered to the edge of Onslow’s shell and looked out at the island below. Like the counterpart anchor point on Earth, a formation of standing stones made up a giant magical diagram.
+
+“When we go down there,” he said, “it will be time for us to part. Again. I don’t like it, but this time it’s not my choice. One way or another, someone is going to take me from you all, and you from me.”
+
+“One way or another?” Belinda asked. “Jason, what haven’t you told us? What did you do?”
+
+“I didn’t do anything,” he answered, his gaze still locked on the ground below. “This was set in motion years ago, before I knew about any of it. And I’m told that most of you were warned. I don’t know what Knowledge intends for you all, but I won’t allow it to be her choice. As for what I haven’t told you, I still won’t. Knowledge can’t take what’s in my head anymore, but she can still get to what’s in yours.”
+
+He turned to face them.
+
+“When things happen,” he said, “they’re going to happen fast. We need to say our goodbyes now, while we have the chance.”
+
+“No,” Humphrey said. “That’s not how this is going to—”
+
+A mouse leapt out of Humphrey’s shirt. It transformed into a copy of Humphrey, with silver hair and eyes, and a bushy moustache, and engulfed Jason in a hug.
+
+“Goodbye Uncle Jason!”
+
+Jason returned the hug with a chuckle.
+
+“Goodbye, Stash.”
+
+***
+
+The island was now a military base designed around the standing stone ritual circle at the centre. Onslow’s shell floated down to an open marshalling square adjacent to the stones. The team disembarked and the shell transformed into a cloud of coloured lights that flowed into Clive. Tattoos on Clive’s torso briefly glowed through his robes before dimming.
+
+The twelve diamond-rankers who served Knowledge appeared, moving so fast it looked like teleportation. They positioned themselves around the square, keeping their distance from the team standing in the middle. Suddenly Knowledge was present again.
+
+“You have something planned,” she accused Jason.
+
+“Nothing that will hurt your ambitions,” Jason said. “At least, not today.”
+
+In the sky above them, another dimension ship emerged from the astral. This one looked like a giant snow globe, with a sphere encapsulating a cottage and its surrounding garden. From the cottage emerged a striking draconian woman with glorious red and gold scales. Her outfit was something between a dress and a loose robe, in pristine white with embellishments that matched her natural colouration. She stepped through the globe surrounding the cottage as if it weren’t there and dropped through the air, clothes fluttering about her legs. As she fell, a pair of wings grew from her back and slowed her descent until her feet lightly touched the ground. Above her, the globe started slowly lowering towards the ground.
+
+“Helsveth,” Knowledge said. “There was no need for the First Sister to come personally.”
+
+“True,” Helsveth agreed. “Your agreement with the World-Phoenix ends when the bridge is complete, and requires no ceremony.”
+
+“At which point, I may do with Asano as I will, without the World-Phoenix interfering.”
+
+“Yes,” Helsveth said. “However, I will be taking his companions with me.”
+
+“Your great astral being doesn’t care about them.”
+
+“No, but my predecessor does. She had intended to be here for this, but while the World-Phoenix does not care about Asano’s companions, it does care about its hierophants. It knows that if Dawn were present, she would be conflicted in her loyalties. It forbade Dawn from participating, but has allowed me to be here in Dawn’s stead. I am not allowed to intervene with anything you have planned for Asano himself, but I will be taking the others.”
+
+The diamond-rankers around the yard all took a step forward, only to stagger back as if they had been slapped. Only Jason and Estella sensed the aura interplay between Helsveth and the diamond-rankers, the rest of the team being oblivious to it.
+
+“You’re assuming that we’re willing to go,” Sophie said, and Helsveth turned to look at her.
+
+“Some years ago, Dawn warned you that a day would come when you would need to go with her, no questions asked. That when that day came, you would not be able to help Jason, and must escape if you wish the chance to help him later. I have had to come in Dawn’s place, but her warning stands, and today is that day.”
+
+As if to punctuate her words, the globe arrived at ground level. The sphere around the cottage vanished and the garden settled on the flagstones of the marshalling yard.
+
+Jason’s whole team started talking at once, until Humphrey barked out a command.
+
+“Enough! I know I don’t pull rank very often, but I am the team leader. We told Dawn that when the time came, we would go. The time has come.”
+
+He marched towards the cottage, and after only a short moment of hesitation the others followed, going to the small building and into the front door. The last to go through was Neil, who stopped at the doorway and turned around.
+
+“Jason, you damn well better annoy her as much as you do us until we see you again.”
+
+Jason grinned and Neil followed the others inside.
+
+“That is the end of it?” Knowledge asked Helsveth.
+
+“Yes, although the World-Phoenix, as someone who has fought Jason Asano in the past, did leave me a message for you.”
+
+“And what is that?”
+
+The draconian’s smile revealed an unsettling number of very sharp teeth.
+
+“Good luck, Goddess.”
+
+Helsveth walked into her cottage and it rose into the air before the globe snapped back into place and the entire vessel disappeared.
+
+“All alone,” Knowledge said. “I know that I’ve been playing up mortal-like traits since your first arrival in this world, but there is one thing that is quite authentic: I’ve been rather looking forward to today. If you were going to do anything, it makes sense that you would see your friends to safety. Probably the only thing you could actually accomplish, although I’m more than a little surprised that you didn’t struggle more. I was expecting something drastic and ill-advised.”
+
+“It might be a blink in the eye to you, Goddess, but in the time since we’ve met, I’ve changed a lot. I actually listen to good advice, now, and allowed myself to be convinced that stopping you wasn’t something I could do. That the attempt would do more harm than good.”
+
+“You’ve finally realised that the impossible isn’t your thing after all.”
+
+Jason let out a chuckle.
+
+“Funny you should say that, because—”
+
+Shade emerged from Jason’s shadow.
+
+“Mr Asano, I sense my brother’s presence.”
+
+“Umber?”
+
+“Yes.”
+
+A dark figure started drifting across the marshalling yard. It was a vaguely humanoid mass of indistinct shadow, with a pair of dimly glowing, smoky orange eyes. It moved through the air like a genie with no lamp until it was hovering in the air near Shade. When he spoke, his voice was sensuous and provocative, as if a deliberate contrast to Shade’s rigid politeness.
+
+“Greetings, brother. Did you see me coming?”
+
+“Always.”
+
+“Yet you fall for my little traps, every time.”
+
+“And you never tire of them. Do you truly find depriving me of my freedom so satisfying?”
+
+“I do indeed, brother. The one who never serves father and yet is always his favourite, somehow.”
+
+“Our progenitor has no favourites.”
+
+“Oh, please. You serve nothing but your own whims, yet does father rebuke you? No, he lavishes you with praise.”
+
+“Your memory seems impacted by your bias, Umber. You do our progenitor a disservice.”
+
+“And you do nothing but indulge in your roaming ways! What greater joy could I have than depriving you of that?”
+
+“Perhaps in learning to live for yourself? If you so bristle at living in my shadow, then all you need do is step out of it. Stop living for me, or for the Reaper. Become your own entity.”
+
+Umber let out a snarl.
+
+“You never change! What will it take for him to see your failing? You abandoned him completely for your latest meat anchor, and still he favours you!”
+
+‘Meat anchor?’ Jason mouthed silently, looking himself up and down.
+
+“You don’t even realise the machinations I prepared for you,” Umber continued. “When I convinced your summoner to trap you in that astral space, I was already preparing for your inevitable escape. You see, the next place I’m going to send you is very special indeed. I knew that the Builder would use one of his hastily prepared vessels, and what would happen to that vessel once he was done with it. So, I made sure that something was waiting for that ghoulish remnant, a soul for it to devour. A soul carefully engineered to create exactly the entity I needed, one that could go to a place most could not. One that could create more of its kind to take with it. An army of jailers.”
+
+“The Order of the Reaper,” Jason said. “You created whatever Thadwick Mercer has become, and now you’ve what? Had him turn the entire order into things like him?”
+
+Umber turned to face Jason.
+
+“The summoner,” he said, spitting the word as if to get the filth out of his mouth. “The one who somehow convinced my brother to give up everything. Do you realise how fragmentary a speck in his life you are?”
+
+“Yep. Have you been running the Order of the Reaper for all these years?”
+
+“I’ve been building up their numbers while I prepared for Shade to find his way to freedom.”
+
+“Thadwick’s sword,” Jason said. “How did you know to prepare a weapon so effective against a gestalt body even I didn’t know I would have?”
+
+“That was a happy accident. Sometimes, luck just goes your way. I won’t turn my nose up at a little serendipity.”
+
+“Nor will I,” Knowledge said. “Dawn made sure that I would not be able to have you killed once the bridge was complete by having you intimately connected to it. Of course, that became irrelevant with your ascension to immortality. I will admit that I didn’t see either of those things coming, but a good plan must always have contingencies. Even if I can’t kill you, I have come to respect you enough that I wish to avoid your intervention during my invasion of your home world. As such, I needed a way to keep you occupied, and your familiar’s sibling has provided.”
+
+“The best part,” Umber added, “is that you’ll walk right into the cage, summoner, knowingly and willingly. I’ve incorporated some additions to the ritual to complete the bridge anchor point. It will bind your consciousness into your prime avatar. You are familiar with this magic, yes?”
+
+“I was expecting as much,” Jason confirmed.
+
+“It will seal away your astral kingdom, and your ability to actively influence your domains. Once you have completed the ritual, you will be taken from this universe to a place that isn’t quite a universe and isn’t quite not. Somewhere that very few are able to go, and you just so happen to be one of them. That was not serendipity, by the way. I knew the great astral beings were in need of someone that met certain requirements, and the lovely goddess here was kind enough to let me know that she was expecting someone to come along, sooner or later, who could be moulded into meeting those requirements.
+
+“We just had to make sure that they were in a position to become Shade’s next familiar. Someone who would release a few trapped souls in some flesh monsters to get on father’s good side, plus Shade in need of a new summoner and here we are. It was a little unfortunate that father wasn’t happy about the trapped souls, and he forbade me from interfering with my precious brother until his summoner was ready. Well, you’re ready now, Jason Asano.”
+
+“For what?” Jason asked. “Where is this universe that isn’t a universe?”
+
+“Why spoil the surprise?”
+
+“That is enough interruptions,” Knowledge said. “The time has come to fulfil your destiny, Jason Asano, and open the gateway that I might claim your world.”
+
+Jason turned to Knowledge, then walked right up to her. He floated up until he was eye to eye with the manifestation of the goddess, a full head taller than he was.
+
+“I’m going to do this thing,” he told her. “And I’m going to wind up in whatever prison your shadow familiar has set up for—”
+
+“I’m not her—”
+
+Silence.
+
+Jason didn’t say the word but brought it into being through his aura. Umber rocked back as if struck by a physical blow. Jason didn’t even turn to look, continuing to speak to Knowledge.
+
+“When I am done with that place, I am going to get out, and then I’m going to kill you.”
+
+Knowledge looked at him like a pet owner being stalked by their new kitten.
+
+“You can’t sanction me, Jason Asano. Even when you come into the fullness of your power as a great astral being, as The System you will not have the authority to sanction a god. That is for other gods to do. Perhaps you might have found a way before the Cosmic Throne was repaired, but now the rules have been put back in place. By you, no less. You understand better than anyone that they are not to be violated.”
+
+“But you weren’t listening, which is a common failing in people who think they know everything. I’ve made that mistake many times myself. I didn’t say I was going to sanction you, Goddess, I said I was going to kill you.”
+
+She looked at him with curiosity.
+
+“I know you, Jason Asano. I understand you utterly, and have from the moment you first arrived in this universe. The only way to kill a god is to annihilate the world they are bound to, we both know that. I’m not saying that you couldn’t find a way to destroy a planet, but we also both know you never would. You think yourself the hero too much, a trait that has been very useful to me. Saying that you are going to kill me is bluster and bravado, and I know that is how you like to do things, but what do you hope to accomplish? Is it anything more than shouting into the dark?”
+
+Jason let out a light chuckle.
+
+“You were right earlier, when you said the impossible isn’t my thing. It’s only kind of my thing. I don’t do it every day, and I don’t do it every time. But when it matters, when it really matters, I find a way. And I’m going to find a way to kill you. Not sanction you, or seal you away. Kill you. I know it’s impossible, and I don’t care. You can call it bluster and bravado if you like, but if you understand me so utterly, Goddess, look me in the eye. Tell me that you see a single scrap of doubt over my ability to put you down and send you to the Reaper.”
+
+Knowledge’s face went blank.
+
+“Enough of this. It is time to complete the task I have been preparing you for all this time you believed that you were your own man. Go into that ritual circle and complete it.”
+
+Jason drifted to the ground.
+
+“As you will, Goddess.”
+
+“You should show me some respect, Jason Asano. The next time we meet, I will be the one true God of your world.”
+
+He turned and walked in the direction of the standing stones, replying without looking back.
+
+“The next time we meet, Goddess, will be the day you die.”

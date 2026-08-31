@@ -1,0 +1,295 @@
+---
+id: 2774ecdb-09c2-5cf0-bae7-fbe7420a4909
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1023: Broken What Matters Most"
+slug: 0093-chapter-1023-broken-what-matters-most
+partOf: he-who-fights-with-monsters
+position: 93
+ownLength: 3004
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892853/chapter-1023-broken-what-matters-most"
+royalRoadId: "3892853"
+---
+
+Quite the crowd had gathered in Australia at the anchor site for the bridge. No traces remained of the small town that had once stood there. It was now a series of standing stones that formed a giant ritual circle, surrounded by weapons that had undergone significant upgrades at the hands of Travis Noble.
+
+“Don’t fully trust the weapon systems here,” Travis told Michael Mills while shaking his hand. “I’ve removed all the automation from them, but there are still potential vulnerabilities. The forces of Knowledge will know them all, because the moment I arrive in the other world, the goddess will know everything I do.”
+
+“I don’t suppose—”
+
+“I’m not going to stay, General Mills. I know that going there makes me a tactical liability to you, but my wife is about to face the greatest test of her life. There’s nothing you can do to stop me from being by her side for that.”
+
+Michael nodded.
+
+“I don’t like it, Mr Noble, but I can respect it.”
+
+Jason approached, placing a hand on Travis’ shoulder.
+
+“It’s time.”
+
+Travis nodded and headed for the ramp leading up to the cloud ship.
+
+“I have to say, General,” Jason said. “I never expected the world to come together the way it has, especially in these last few months since the vampire war ended. It’s given me back some of the hope for this world and its people that I thought had been beaten out of me forever.”
+
+“Shame what it took was a common enemy.”
+
+“Oh, she’s anything but common, General.”
+
+“Neither are you, Mr Asano. Goddess or not, I think I’d rather be on your side than the other.”
+
+“I’ll do my best to prove you right.”
+
+An uncertain look crossed Michael’s face. He tapped the top button of his uniform, causing a privacy field to shimmer into place around them.
+
+“If I might ask, Mr Asano, what are your actual chances?”
+
+“What, of beating the goddess of Knowledge?”
+
+Jason laughed.
+
+“I have no chance whatsoever. It’s completely impossible.”
+
+Michael’s eyes went wide and Jason clapped him on the shoulder.
+
+“Don’t worry, general; I never have a chance and it’s always impossible. It just so happens that impossible is kind of my thing.”
+
+***
+
+Jason was the last person yet to board the ramp. The crowd watched as he stood with his father, his sister and his niece. He hugged his dad, Ken smelling like cut grass and fertilizer.
+
+“You have to bring Mum in,” Jason told him.
+
+“She wants nothing to do with us. And I have to agree, after what she wrote in her book. What fool went and gave her enough essences to run a black market?”
+
+“Someone who thought they could use her against me. Knowledge will be much better at that. Kidnap her and lock her up if you have to.”
+
+“That does sound fun.”
+
+Ken let Jason go and placed his hands on his son’s shoulders.
+
+“Do good, son. Come back to us.”
+
+“I made you some snacks for the trip,” Erika told him as she wrapped her arms around him. “I gave them to Humphrey, so at least there’s a chance there’ll be some left by the time you get on board.”
+
+Finally, Jason stood in front of Emi. He glanced over at Kaito’s children, Hana and Jace, standing with their mother, then back at Emi.
+
+“I’m going to need you to look after your cousins. They aren’t strong like you.”
+
+Emi stared at him for a long moment before clutching him in a hug like she was trying to juice him.
+
+“I’m not strong, Uncle Jason.”
+
+“Neither am I, until I have to be. You have that in you as well.”
+
+“I need you to come back faster, this time.”
+
+“I can’t promise that, but I’ll do my best. Until then, I’m going to need you to hold down the fort.”
+
+“There are people for that. General Mills and Great nanna Yumi.”
+
+“She doesn’t let you call her that, does she?”
+
+“Yes, why?”
+
+He let out a chuckle.
+
+“You really are her favourite.”
+
+“I love you, Uncle Jason.”
+
+His eyes were wet as he tousled her hair.
+
+“Love you too, moppet.”
+
+***
+
+As Jason’s cloud ship flew through the astral, those aboard found various ways to fill in their time. Rufus, Sophie and Humphrey focused on training. Clive, Lorelei and Belinda conducted research, taking advantage of their direct access to the deep astral. Others on board, such as Zara’s Storm Kingdom contingent and the various priests returning home largely kept to themselves, or partook of the amenities available of the cloud ship. Such amenities were many and varied, the cloud ship having picked up the best of what two worlds could offer.
+
+The cloud ship’s movie room featured plush armchairs, with side tables between them for holding food and drink. Jason was seated between Zara and Estella, with Gordon in the seat behind him.
+
+“Where is the ice?” Estella asked while gesturing at the screen. “The movie is meant to be about ice, but all we get is this terrible musician with colourful pants and a magic jumping motorcycle.”
+
+“The title is a simile,” Gordon said, his voice an angelic chorus resonating from his orbs. “The title is asserting that the protagonist is very cool.”
+
+“Which he is not,” Jason clarified, “but I’m not responsible for the title.”
+
+“But you are responsible for picking the movie.”
+
+“I love the guy,” Estella said. “He’s the worst person I’ve ever seen, and I’ve seen King Emiliano.”
+
+“My brother is not a bad person,” Zara said. “He’s just a little annoying to deal with sometimes.”
+
+“Of course his sister-wife would say that,” Estella said.
+
+“Do you want to get slapped?” Zara asked her.
+
+“Absolutely. Should we get out of here? I’ll go grab Lindy and the biggest tin of condensed milk I can find.”
+
+“Stop that,” Jason scolded. “You’re making Jamar blush.”
+
+The cloud ship’s bartender was standing nearby with a large tray of refreshments. If he was blushing, it didn’t show on the runic’s dark skin.
+
+“It’s okay, Jamar,” Zara said. “You can bring it over here.”
+
+Jason looked at Jamar thoughtfully as the man set out the snacks and beverages.
+
+“You can still change your mind,” Jason told him. “You’ll be safe and sound in my astral kingdom.”
+
+“Thank you, Mr Asano, but I’m good where I am. I might not be a fighter, like you, or a cunning spy like you, Mrs Warnock, but I’m still an auxiliary adventurer on this team. You warned me from the outset that there might be danger.”
+
+“That’s very courageous of you, Jamar, but there’s danger and there’s danger. There’s a goddess waiting for us at the end of this journey.”
+
+“There’s also home, Mr Asano, and it’s been a long time. My family aren’t adventurers, and most aren’t even essence users. They’ll only live so long.”
+
+“That reminds me, actually,” Jason said.
+
+A hole opened in the ceiling and a small bag dropped through for Jason to catch. He held it out for Jamar to take.
+
+“You really have been away from home a long time, Jamar, and I know what that’s like. I can’t give you that time back, but I can maybe give you some more time going forward.”
+
+Jamar sat the tray down on an empty table and took the bag. He reached inside, his arm disappearing to the shoulder in the dimensional container. When he pulled it out, he was holding an essence.
+
+“Mr Asano…”
+
+“I heard you were trying to use your wages to buy essences, awakening stones and monster cores from the clan. I also know you had trouble, since the clan runs on an internal contribution system, and you’re not a member. There’s enough in there to get six people to bronze rank.”
+
+Jamar himself was silver rank, fully through monster core use. He had spent a lot of time training under Jason’s sister, whose own power set was heavily cooking-related.
+
+“This is a fortune, Mr Asano.”
+
+“Yeah, well see if your dad will give me free juice.”
+
+Jamar laughed.
+
+“He won’t. Also, he won’t like you fighting a goddess. He’s very religious.”
+
+“Oh, I remember. Did I ever tell you how we met?”
+
+***
+
+In the observation lounge of the cloud ship, Jason and Zara leaned into one another on a couch. They watched as strange and impossible things moved past the window.
+
+“The cloud ship serves as a barrier against the immaterial nature of the astral,” Jason explained. “A dimension ship is like a pocket universe, a bubble of reality. What we see outside is raw chaos interacting with the physical reality that is the ship. And because the ship is, in a way, me, those interactions are shaped by me.”
+
+“I did notice a lot of sandwiches go past.”
+
+“It won’t be long, now. A couple of hours.”
+
+“How does that work, exactly? There’s no time in the astral right?”
+
+“We have subjective time because physical reality needs it. It is possible to time travel, but there’s a lady who gets cranky if you try, and she’s not to be trifled with.”
+
+“Did you and Raythe have a thing?”
+
+“No. Why would you think that?”
+
+“I know you like powerful women.”
+
+“I have one right now who I’ve been very happy with.”
+
+“But now it has to end.”
+
+He didn’t respond, and they snuggled closer on the couch.
+
+***
+
+In the cloud ship’s large hangar, everyone aboard had gathered together. There were a variety of personal flight devices and small flying vehicles, waiting to carry people off upon arrival in Pallimustus. Jason’s team stood apart from the others, along with Travis, Gabrielle and Estella. Even though she was an auxiliary member, Estella would not be separated from Belinda. She wouldn’t be a liability in combat because that wasn’t what they were walking into.
+
+“We will be arriving in just few minutes,” Jason announced. “I’ve had an avatar in Rexion speak with a representative of the Church of Knowledge, and they have promised safe passage for everyone other than my team and the priests of Knowledge in the brig. Once we confirm that you won’t be harassed, you can use the vehicles and personal flight devices to reach a set of ships that will be anchored away from the island. They will take you to Rimaros and the protection of the royal family. Before that happens, my team will deliver ourselves to the island.”
+
+“You’re going to just hand yourselves over?” Jamar asked.
+
+“It was always going to be that way, Jamar,” Jason told him. “There’s something I have to do there. If you can convince my team to leave me behind and go with you, I can probably talk the goddess around on that. I tried to convince them and they were having none of it.”
+
+“Damn right,” Neil said.
+
+Jason turned to look at his team before moving to stand with them.
+
+“You know she’s going to take me away from you.”
+
+“We do,” Humphrey said. “And we’re going to go get you back.”
+
+***
+
+The island had been renamed Ascension’s gate after being seized by the Holy Army of the Church of Knowledge. It had been fully converted to a military base, with barracks and a sky port where air ships were docked at massive towers.  At the centre of the island was a set of standing stones that formed an enormous ritual circle.
+
+A cloud ship in the shape of an inverted pyramid appeared in the sky above the standing stones. Immediately, twelve diamond-rankers flew into the sky to meet it, some using personal devices and others under their own power. They took formation around the cloud ship.
+
+“Jason Asano,” one of them said. Her words were not shouted, yet projected loudly enough to be heard across the island. “Emerge and surrender yourself.”
+
+A long horizontal panel opened in the side of the pyramid and a massive tortoise shell floated out. Standing atop it was Jason. It drifted over to the woman who had shouted.
+
+“You’re all priests of hers,” Jason said. “I know that not a lot of clergy hit diamond, so I’m a little surprised she has even this many.”
+
+“I am Lucella Carnes. Do you surrender yourselves to us?”
+
+“Will you hold up your end and let the others go to the Storm Kingdom?”
+
+“Princess Zara Rimaros is a member of your team.”
+
+“She’s going back to her kingdom. You don’t get her.”
+
+“You don’t get to dictate terms here, Asano.”
+
+“Is it worth antagonising the Storm Kingdom to prove a point, Priestess Carnes?”
+
+She tilted her head like a lizard eyeing a bug it was about to snatch up and eat.
+
+“It is not,” she said. “You will hand over the priests you have taken into custody at the same time the others depart.”
+
+“Absolutely. But before I talk with your goddess, there’s someone who wants to talk to her first. One of yours. She’s in this shell, not a prisoner. Just a woman of faith who doesn’t believe what I told her your goddess is doing.”
+
+“I can sense the presence of Gabrielle Pellin, but it is not her place to question. She serves the goddess, not the other way around.”
+
+“I’m not trying to make trouble, Priestess. I know how this is going to go. But given that I normally make a lot of trouble, at least do me the courtesy of an indulgence that costs you nothing.”
+
+“Of all the indulgences you could ask for, why help a servant of your enemy?”
+
+“Because I’m the good guy.”
+
+An aura rose like the tide, vast and inexorable. The goddess appeared, looking like a celestine with onyx hair and eyes. She wore a loose, simple dress of dark blue, cut in the Storm Kingdom style. The diamond rankers all knelt, which looked a little odd for those floating in the air instead of on flying carpets or small clouds.
+
+“I will see my child who has been absent from this world and my grace for so long. I will thank you to keep your mouth closed for our conversation, Jason Asano.”
+
+Jason stared, blank-faced at the goddess. He said nothing, just giving a small nod. Gabrielle was lifted out of the shell’s open side by an invisible hand and brought face to face with her goddess. Like the diamond-rankers, she knelt, her head bowed.
+
+“My lady,” Gabrielle said. “It is a blessing to feel your touch upon my mind once more.”
+
+“Yet that mind is troubled. Have you come to doubt me in your time away?”
+
+“My faith has not wavered, Goddess, but Jason has convinced an entire world that you are going to invade it.”
+
+“It is the way of fools that the blind cannot see, child. Jason Asano has blinded an entire world to believe that a blessing is an invasion. Their world has no god to guide them. I have made that possible, and yet they intend to resist. We will show them the way, and in the end, they will understand. They will learn faith.”
+
+Gabrielle looked up, confusion on her face.
+
+“Are you saying that it’s true? That you manipulated Purity and worked with Disguise? That you destabilised their world?”
+
+“To harvest the grain, you must grow and cut the wheat, my child. Fertilising the soil is not a pleasant task, but the farmer knows that it must be done. Take joy in this. Soon you will not be priestess of Knowledge but a priestess of God. Your experience in the other world will be invaluable in the days to come. You can help make the transition more peaceful. You can help rule when it is done.”
+
+“Rule?” Gabrielle rose to her feet. “Goddess, I am a priestess of Knowledge. Not of Deception or Conquest or Dominion. Not of God. I… tell me that this is wrong. That I don’t understand.”
+
+“You understand, child. You simply fail to hold the right perspective. I knew you would not accept, the moment you returned to this world. The doubt inside you. The fear. You need to change the way you see things, and then you can find the joy in it. I am going to be more than what I am.”
+
+“I LOVE WHAT YOU ARE ALREADY!” Gabrielle screamed, tears pouring down her face. “You don’t have to be more! What is wrong with knowledge? With learning and wisdom? Why is that not enough?”
+
+“You do not understand the limitations upon me. For all your powerlessness, mortals are free in ways that gods are not. You do not see the chains upon me. I am one of many, child. And one day, I will die, despite the supposed immortality of gods. Becoming the one true god of Earth is the first step. The next will be finding a way to transcend one world, one universe, to be something greater.”
+
+Gabrielle floated back, shaking her head.
+
+“This isn’t you. Something happened to you. Were you replaced, like Purity?”
+
+Knowledge turned to Lucella.
+
+“I knew it would be hopeless, but I had to try. She was one of my beloved children, once.”
+
+A cube emerged from Gabrielle’s chest and vanished into Knowledge’s outstretched, hand. Gabrielle immediately had a seizure, foaming at the mouth as she flailed helplessly in the air. Travis rushed out of Onslow’s shell on a hover platform and grabbed her.
+
+“Lucella,” Knowledge commanded. “Take them away.”
+
+“No,” Jason said. “Send them to the Storm Kingdom with the others. You’ve taken what was yours from her, and broken what mattered to her most. She’s neither asset nor threat to you.”
+
+“My priestess already explained that you do not dictate terms here, Jason Asano. You know that—”
+
+Knowledge looked up as another dimensional vessel appeared in the sky. This one was larger than Jason’s, looking like a massive industrial ship forged of dark, crude metal. Her lips pressed together in distaste as figures with diamond-rank auras came pouring out.

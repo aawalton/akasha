@@ -1,0 +1,207 @@
+---
+id: 585a3647-df4a-5432-8801-9f9945869934
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1018: I Don’t Need Hope"
+slug: 0088-chapter-1018-i-dont-need-hope
+partOf: he-who-fights-with-monsters
+position: 88
+ownLength: 2108
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892847/chapter-1018-i-dont-need-hope"
+royalRoadId: "3892847"
+---
+
+Jason sat on the edge of a rooftop in Venice, one of the few even partially intact. The city was still flooded, many of the fallen buildings now clogging the canals. He watched as messengers flew over the water, using their auras to remove huge chunks of rubble. Jason had been to the city several times over the years, but always while it suffered under vampiric occupation. With each visit there had been more destruction than the last, until it could barely be called a city at all. It was one of many focused reconstruction projects across Europe, this one led by the Cabal.
+
+He sensed Arabelle’s approach long before she floated up behind him onto the roof, but didn’t turn around.
+
+“You’re hiding,” she accused.
+
+“Yet here you are. Maybe Rufus was right about not telling things to Farrah.”
+
+“And you both keep doing it anyway. Perhaps because you know she’ll do what’s best for you, instead of what you want her to. Isn’t that why you made her the one person who can truly defy your will, even in the seat of your power?”
+
+“I should have gone there.”
+
+“But you’re here instead. You have a whole universe to hide in, and I can’t help but wonder why you didn’t. Jason, I want to help you, but you’ve reached a place where your problems are beyond the scope of my experience. How do you give a god therapy?”
+
+“I’m not a god.”
+
+“No, you’re not. I recall you saying that gods were too limited. Is that why Knowledge is doing what she’s doing? To break her limits?”
+
+“Probably. I’ve learned the hard way that she’s a lot better at reading me than I am her. Trying to discern her motives would be failing to learn from my mistakes. It’s not like I can do anything about it.”
+
+“So, you’re sulking?”
+
+“Why not? It’s a very human response to a situation with no good resolution. We’ve talked about the importance of maintaining my humanity many times.”
+
+“So, that’s why you’re not buried away in your own universe. You don’t want to be confronted with the power you wield there.”
+
+“You’d think it would get less harrowing to change the world, once you’ve done it enough times. I’ve thrown civilisation into a tumble dryer — again. How many times do I have to do that before I stop being afraid I’ve brought the whole thing down?”
+
+“Speaking for myself, I hope never. When you can walk through chaos the way you do and you don’t fear getting it wrong, you’ll be the next immortal enemy we need to fight. If I recall correctly, that was once your greatest fear.”
+
+“It was.”
+
+“Some would say that fighting a god is impossible, and I’m not sure that fighting you would be much better. Are you still someone that can be fought? Simon McKean spent all those years trying to prove it, only to fall short.”
+
+“McKean didn’t understand what he was up against. Knowledge does, and she’s already won the first round. But the thing about immortality is that there’s always tomorrow. Always another battle, and I’m not waiting a few billion years for her to die with the planet. She’ll probably spend that time trying to find a way around that, too.”
+
+“I thought guessing at her motives would be failing to learn from your mistakes.”
+
+“You know better than anyone that I’m not a fast learner.”
+
+“Well, what are you going to do?”
+
+Jason floated to his feet and finally turned to face her.
+
+“Haven’t I done enough? The world is gearing up for war. Again.”
+
+“At least they believed you this time.”
+
+“Some of them. The days of religions declaring me the embodiment of evil have certainly come to a middle.”
+
+Arabelle shook her head.
+
+“I’ve been hearing for decades how the leaders of Earth refused to listen to you when it really mattered. Don’t let that stop you from accepting it now that they actually are. You’re not the only slow learner, Jason. Take the victory.”
+
+“It’s not a victory. It’s agreeing to participate in the fight.”
+
+“Which, to my understanding, is as much of a victory as you can hope for.”
+
+Jason gave a begrudging nod.
+
+“People are still clamouring to meet with me, aren’t they?” he asked.
+
+“That’s Anna’s department, so you should talk to her. Calmly. She’s been looking a bit frenetic since you told the world that it’s god-fighting time.”
+
+“I will. I know I can’t dodge this forever. But there’s something that I need to do first.”
+
+***
+
+Gabrielle looked up at the cloud ship she could only think of as looming over Saint-Étienne. She squeezed the hand of her husband, standing beside her.
+
+“It’ll be alright,” he told her.
+
+“He snatched up everyone, Travis. Every priest of Knowledge. Wherever they ran, however they hid, he hunted them down like criminals.”
+
+“Not criminals,” Jason said. “Spies of an enemy power.”
+
+They turned, having not sensed Jason’s approach. He stood right in front of them, and they still could not differentiate his aura from that of the city around them. Rather than his usual garish tourist uniform, he wore a simple grey suit.
+
+“They’re not spies,” Gabrielle said with full conviction.
+
+“I understand your position,” Jason told her. “Let me show you why I don’t share it.”
+
+***
+
+“…were using the grid to send messages through the link to Pallimustus,” Farrah explained. “After we discovered how McKean was using it, we’ve been doing an audit of every scrap of magic passing through the grid. It seems that Knowledge beat McKean and me to realising the grid’s potential. Which makes sense, being the god of knowing all the things.”
+
+“It’s a vulnerability we need to address,” Jason said. “We assumed that Knowledge would learn to use the grid against us eventually, but she’s already ten steps ahead. As it turns out, she has been the whole time.”
+
+Jason and Farrah were in the presentation area of a briefing room with rows of chairs set out in front of them. On the wall behind them was what looked like the investigation board from a police TV show, complete with pictures connected like an organised crime ring. Their audience consisted of only Gabrielle and Travis.
+
+“I still think that this is your prejudice against gods,” Gabrielle said, but without the energy she had several hours ago.
+
+“I wish it was,” Jason told her. “I desperately wish it was. That would solve so many problems. Save so many lives. But there’s too much corroboration. Our investigations into your people. Prime vessels of great astral beings visiting to tell me tales. Avatars in my domain back on Pallimustus gathering information. I’d been avoiding that, previously, but the day for hiding the truth is over. Knowledge is ready to go, and she knows that it’s time.”
+
+He gestured at the pictures on the wall behind him.
+
+“They’ve been keeping her apprised. We’re certain that around a third of the priests and priestesses of Knowledge are spies. The rest are either better at hiding it or, like you, innocent. It wouldn’t really make sense for you to be a spy, given how close you are to my inner circle. I had to check, though, even after I was told you weren’t. And that’s the thing here, Gabrielle: I’m not just taking things people say to me as gospel. I’m checking and cross-checking, everywhere I can.”
+
+“We’ve been at this for hours,” Gabrielle said. “You can show me all the recordings your familiar secretly took of my fellow clergy folk. You can tell me all about your friends who serve the great astral beings. It won’t shake the faith that I have in my goddess. I’m a priestess of Knowledge. I know better than anyone how true facts can add up to a lie.”
+
+“I can’t argue with that,” Jason said. “To be honest, this is exactly where I thought we’d wind up.”
+
+“Then why am I here? Why are you here? The whole world wants you to sit down and answer their questions while you’re spending your time trying to convince me of something you knew from the start you couldn’t.”
+
+“That’s not what I’m doing, Gabrielle.”
+
+“That’s what it seems like.”
+
+“Travis is my friend. I think you were too, before all this. I’d like it if you still are. One of us is right about all of this, and when we go back to Pallimustus, we’ll find out which. Funnily enough, we both hope it’s you.”
+
+“I don’t need hope. I have faith. It’s why you won’t convince me.”
+
+“I know. You’re here to convince me of something.”
+
+“Of what?”
+
+“Some of your people are spies for an enemy that is going to invade this world. They have faith too. Faith strong enough that we can’t use them or make them talk. Not without us doing things that I’m not willing to. What I am willing to do is kill them, and I want you to convince me otherwise.”
+
+Gabrielle shot out of her chair.
+
+“You’re going to murder them?”
+
+“Spies,” Jason said. “In a time of war. It’s execution, not murder.”
+
+“You’re wrong about them. You’d be killing innocent people.”
+
+“You’ll have to do more than just assert their innocence to outweigh the evidence we’ve accumulated.”
+
+“I can’t convince you that you’re wrong any more than you can me. Your faith in you being right about everything has always been as strong as mine in my goddess.”
+
+“I would like that to be true, Gabrielle, because my faith has wavered. It’s done enough damage that I make sure there’s always someone to challenge it. Right now, that person is you. But telling me that I’m wrong won’t get it done. Give me a reason to keep them alive.”
+
+Gabrielle threw her arms out in frustration.
+
+“How about mercy?”
+
+“Okay,” Jason said lightly.
+
+“What?”
+
+“I said okay. I’ll let them live.”
+
+“Just like that?”
+
+“I asked for a good reason. Mercy is a great one.”
+
+‘You didn’t need me for that! What are we doing here? Why have we been at this for hours?”
+
+“Because now you know how I treat my enemies, when I can get away with it. When we go back, we’ll see how your goddess treats hers.”
+
+***
+
+Travis hurried down the corridor to catch up with Jason.
+
+“What was that?” he asked.
+
+“What was what?”
+
+“All of what just happened. What was it for?”
+
+Jason stopped and turned to Travis.
+
+“Travis, your wife is wrong. I think you know that. She’s going to arrive on Pallimustus and be confronted with a choice and, depending on how she chooses, so will you. There’s no good outcome in this for her. Either her faith breaks, or she becomes my enemy. And if she does, you have to choose between your friends and your wife.”
+
+“You think I don’t know that?”
+
+“Of course you do. Today was about softening the blow for her. At least, when she has to make that choice, it won’t come out of nowhere.”
+
+“You just want her to choose to rebel against her god.”
+
+“Of course I do. Her goddess is the enemy.”
+
+“Jason, I know you don’t want to hear this, but does she have to be? This world doesn’t have a god. Why not give it one?”
+
+Travis felt the hallway pulse like a heartbeat. When Jason spoke, his voice was as gentle and careful as footsteps on the cracking ice of a frozen lake.
+
+“Of the things Knowledge has done to this world, what makes you believe that she should be the ultimate authority over it?”
+
+“Why should you be? And don’t tell me you’re not, Jason, because no one believes that. Not even you.”
+
+“I shouldn’t be, Travis. If it wasn’t for her, I’d have been long gone.”
+
+“Jason, do you really think the Earth can win?”
+
+“It doesn’t have to. It just needs to hold out until I deal with whatever she does to me, then find a way to deal with her.”
+
+“Then, do you really think that you can win?”
+
+“I fought gods before and worse.”
+
+“Not like this, Jason.”
+
+“No. You’re right; this is different. No special conditions, no overarching protections. On paper, there’s nothing I can do to her. But ask yourself this, Travis: are you going to bet against me? Take the time to consider your answer, because you’re going to need it. Not that long from now, your wife is going to ask you what you think she should do. You should have an answer ready before she does.”

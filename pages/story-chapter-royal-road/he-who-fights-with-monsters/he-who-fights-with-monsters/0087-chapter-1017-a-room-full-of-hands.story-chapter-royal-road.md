@@ -1,0 +1,109 @@
+---
+id: 78e989c2-fa51-5afe-81c9-bfbed66e351f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1017: A Room Full of Hands"
+slug: 0087-chapter-1017-a-room-full-of-hands
+partOf: he-who-fights-with-monsters
+position: 87
+ownLength: 3179
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892846/chapter-1017-a-room-full-of-hands"
+royalRoadId: "3892846"
+---
+
+Jason looked out at the audience in the lecture hall.
+
+“For those who don’t know, the cosmos is governed by entities called great astral beings. They aren’t gods, although the distinction doesn’t matter right this second. What does is that they embody and manage the fundamental functions of the cosmos. Life, death, time, magic. Not just in one world or even one universe, but in all of them. One of these beings, the Builder, is responsible for the creation of universes. You’ll want to remember him for later.
+
+“The great astral beings are infinitely powerful. They are only restricted by the rules that govern their authority to use their otherwise limitless power, and those rules are embodied in something called the Cosmic Throne. It’s not something that has a monarch sitting on it making judgements, but more like an active embodiment of the cosmic laws.
+
+“The thing about great astral beings is that they’re a lot like corporations. Legally, they’re people, but the truth is that they’re faceless entities that need actual people to do the day-to-day work for them. Also like corporations, they hate being regulated. For that reason, they decided to switch from an externally imposed regulatory system to voluntary self-regulation. In their case, that meant getting together and smashing the cosmic throne so it stopped bothering them.
+
+“This was an action with significant repercussions, and the great astral beings knew that. They didn’t like the restrictions imposed on them by the throne, but there had to be some rules or the cosmos would go immediately to pot. Even they understood that anarchy is not something you want governing the laws of physics or time or life and death. They replaced the throne’s influence with a series of pacts between themselves. This allowed them to monitor and limit one another, but with the freedom that had led them to sundering the throne in the first place.
+
+“As with any industry that self-regulates, the corruption began immediately. The great astral beings, freed from the laws that bound them, immediately started doing things that many of their peers didn’t care for. They had the pacts that bound their behaviour, but each and every one of them had included concessions and loopholes that made the restrictions placed upon them extremely malleable. In their desire to be liberated from restriction, they discovered that the strictures binding them had been in place for better reasons than they realised.
+
+“Some immediately came to regret the sundering of the throne, while others revelled in their newfound freedom. This included the Builder, who had always suffered under very strict rules when it came to creating universes. With the throne no longer binding him, he was free to experiment. One such experiment was the creation of the twin universes in which most of us in this room were born. It began with a singularity, a seed of reality crafted from repurposed fragments of older designs. A chimera universe. Then he created a second seed that was identical, aside from one difference: one universe would be rich in magic and the other poor. As you have no doubt surmised by this point, those universes would ultimately come to contain Earth and Pallimustus. Each universe developed in almost identical fashion, with only relatively trivial differences. They might seem broad to us, but on a universal scale, they are almost nothing.
+
+“The broadest differences are the result of the magic levels that differentiate the two universes. Perhaps the most impactful is that one world has gods and the other does not, as gods are living magic. Gods are akin to what we would recognise in Greek or Norse myth. The more broadly scoped gods of our monotheistic religions are closer to the great astral beings I’ve already mentioned. Those beings span the entire cosmos, while gods belong to one world. There’s some wiggle room on that with sun and moon gods, but it’s mostly a single-planet jurisdiction.
+
+“This experiment with two worlds was a step too far for the great astral beings. It was exactly the kind of thing that the cosmic throne had prevented. They knew that if they left the Builder’s actions unchallenged, it would lead to anarchy as the network of agreements they had made would fall apart. As a result, they punished the Builder. You can’t kill an immortal, but you can sanction them, which means to change them in some way. What they did with the Builder was take his power, his authority, and give it to a mortal. They didn’t choose well, but we’ll get to that later.
+
+“The next thing you need to understand is outworlders. Sometimes, magical accidents can briefly connect worlds, dragging one or more people from one world to another. It can happen anywhere, but with the connection between Earth and Pallimustus, it happens more frequently.
+
+“I’m taking the time to explain all this because you need to understand what is coming. There is a god, Knowledge. Or goddess; their gender is interchangeable depending on local beliefs and customs. What matters is that Knowledge knows everything that everyone on her world knows. Which means that the moment an outworlder arrives from Earth, Knowledge knows everything they know. And at some point, she devised a plan.
+
+“I don’t know when she came up with it. The earliest I know of her acting on the plan is around half a millennium ago. It began with another god, Purity, and this is the part where my information is the haziest. I’m working with secondhand information about events that took place centuries ago, and gods aren’t big on recording their own history for later perusal. They save that kind of thing for the mortals.
+
+“Purity was having a conflict within himself, as that particular god tends to do. Purity can have a number of meanings, some contradictory, and the god is required to embody them all. Thus, Purity’s well-known instability. Around five hundred years ago, that instability was coming to a head. It was likely that Purity would sanction himself, essentially retiring himself and being reborn allowing him to take on the role fresh and clean. This is where Knowledge began to interfere.
+
+“Knowledge convinced Purity not to simply fade away and be renewed, as he’d done in the past, but to make something positive from an otherwise unfortunate situation. To not go away, but to leave in his place a divine relic. Both the relic itself, and the fact that its creation would delay the rebirth of a new Purity god, would serve the needs of Knowledge. She kept its existence hidden until about a quarter of a century ago, when knowledge of its existence served her ends.
+
+“With Purity gone, Knowledge continued her machinations. Disguise is a god with a unique ability to masquerade as other deities. With Purity gone and a replacement yet to appear, this provided the god of Disguise an opportunity to take his place, at least for a time. Obviously, a goddess of Knowledge is the perfect person to put a stop to that, but she didn’t. She aided Disguise, concealing information that would undermine the deceptive god’s ruse. In return, Knowledge was able to use Disguise, masquerading as Purity, to do certain things on her behalf. I don’t know if this was to hide her actions from the other gods, or simply provide plausible deniability. Gods are meant to keep one another in check, at least to a degree, but I don’t know the precise rules. The specifics of how gods interact remains a mystery.
+
+“One thing that Knowledge helped arrange for Disguise was eliminating certain followers of Purity that would be tricky to handle as Disguise took over Purity’s position. An event took place where an organisation called the Order of the Reaper was eliminated by a joint force of churches. The order was wiped out, but many members of those churches were lost in the battle. Conveniently, this included many of the priests and priestesses that would have caused problems for the fake Purity.
+
+“In return for this, along with less overt assistance, the fake Purity brought an outworlder from Earth into his church. A man who people on Earth would come to know as the Network founder. He became a follower of Purity, and Purity gave him purpose.
+
+“While this was happening, Knowledge was making other moves. She promised the leader of the messengers a chance to invade Pallimustus and claim Purity’s divine relic. I still don’t know what he wanted it for, but he put considerable effort into getting it. Part of their deal, however, was that their invasion would have to wait until the time was right. That time turned out to be centuries later, but messengers are immortal, and their leader is patient.
+
+“The outworlder who had come to worship the fake Purity eventually returned to Earth, and he did so with a mission. Using magic bargained from the messengers by Knowledge, he started to change the Earth. Specifically, the link between Earth and Pallimustus.
+
+“The magic on Earth began to rise. The Network founder knew that this was going to cause damage. Eventually, dimensional spaces would form like blisters on the universe, filling with monsters like angry pus. When they burst, it would not just fill the world with violence and horror but also leave wounds in reality that would eventually destroy the whole planet.
+
+“The magic needed to be bled off, like a pressure release valve that stops a boiler from exploding. The release valve he created was a web of secret societies, all across the planet, that would eventually become the Network. The founder established them while building the grid, to which he gave them all access. This allowed them to find and pop these dimensional blisters before they started tearing holes in the universe.
+
+“This carried on for centuries. The secret societies became more powerful, found each other and became the Network. As for the founder, his fate was rather grim. The founder had a familiar, Noreth, who was born in Pallimustus but had come to love the Earth. He knew much of what Knowledge had planned and decided to work against it. He started by betraying the founder, setting him up and handing him over to the secret societies in the United States. I don’t know exactly when this was, but my best guess is somewhere around the War of Independence. It’s the reason that the US network branches always had a leg up on the others. I don’t know how much information they got out of the Network founder before he died, but based on what information they did have, the founder didn’t give them everything. I doubt he gave up anything willingly or easily.
+
+“The release valve the Network represented slowed down the damage to the Earth, but didn’t stop it. This was part of Knowledge’s plan. While the damage on Earth was accruing, the magic level on Earth was increasing. Eventually it would become high enough that it could sustain a god. Maybe not the array of them that Pallimustus has, but one? That was possible.”
+
+“The plan did not include the destruction of Earth, but for that, Knowledge mostly just needed to wait. The great astral beings could not ignore the ramifications of what the Builder had done in his experiments, and they were paying attention to our universe. When the Network founder started messing things around, they stepped in.
+
+“The World Phoenix is an entity whose job includes the maintenance of dimensional integrity. That means preventing people from blowing holes in the side of universes. There was also the new Builder, who had to clean up the mess of his predecessor, but it turns out that he’s… not great.
+
+“The great astral beings don’t like to be overt in their actions. If nothing else, they’re so powerful that their direct intervention, if done clumsily, can annihilate entire universes. So, they try to act indirectly and through agents, witting or unwitting. The World Phoenix put restrictions on how much magic could flow into our world, preventing at least some of the damage. It was a bandage, however, with the underlying wound still in need of treatment. What the Builder did was provide a tool, a relic, that a mortal could use to undo the damage that the founder had done.
+
+“At this point, Knowledge was just waiting. With the connection of her world and Earth, an outworlder from there would show up eventually. She needed someone she could provide with the tools and knowledge to fix the damage and send back to Earth. She even made a deal with the World Phoenix to make sure the damage got fixed, even though Knowledge herself was the one behind it. The World Phoenix didn’t care, as far as I know. She just wanted the job done.”
+
+Jason paused for a moment, rubbing his forehead.
+
+“I wasn’t chosen. I was the wrong guy in the wrong place at the wrong time, and got sucked out of this universe and into the other one. The World Phoenix spotted my soul hurtling across the cosmos and gave me something as I passed. That made me one of those unwitting agents I mentioned, and she would not be the only one to do so.
+
+“I arrived in the other world, and the moment I did, Knowledge knew everything I knew. Including exactly how to handle me. She realised that I was never going to sign on as a zealous follower of a god, the way they’d handled the Network founder. Even so, I was exactly what she needed: a fool with a hero complex who thought he knew everything and was smarter than everyone. To this day I have no idea how many times Rufus Remore or Danielle Geller’s influence saved me from winding up dead in a ditch after I ran my stupid mouth.”
+
+“A lot,” Danielle said.
+
+“The point is that Knowledge knew—”
+
+“A whole lot.”
+
+“Yes, thank you, Danielle.”
+
+“You really have no idea how much.”
+
+“I understand, thank you. The point is that Knowledge knew how to play me like a fiddle. I wouldn’t respond to an all-powerful, all-knowing deity. So that’s not what she showed me. Instead of presenting as an omniscient overlord, she had charm, wit and personality. She flirted. And she tried to recruit me, knowing it wouldn’t work. She made what came across as mistakes. Made me angry or unhappy, as if her detached perspective on mortality was leading her into making bad decisions. She accomplished what she needed, which was to make me see her as a person. Powerful, flawed, but a person. I’d never worship her, but I would come to appreciate her. Respect her. Even rely on her, from time to time. She gave me the tools to do what she needed, making it seem like it was what I needed. I was her pawn, and I thanked her for it. I don’t know how subtle or complete her manipulations were, and I doubt I ever will. I am fairly certain that she put Clive in my path, although I have no idea how. He’s been too important to everything that has happened to have left that meeting to chance.
+
+“I came back to Earth and discovered that it was broken. Even worse, the founder’s former familiar Noreth was still around. He thought that I was another stooge of Knowledge come to further her plans, which I now know he was correct about. He’d been preparing for years, but had become an extremist. A man some of you will know as Mr North. Leader of the Engineers of Ascension.
+
+“Plan A for the EoA was to wreck the grid and send the Earth spiralling, forcing the World Phoenix and her agents to more overtly step in to correct things. That did damage, but Farrah Hurin was able to work the Network and prevent complete disaster. Plan B was an army of super-soldiers who could fight Knowledge’s forces once she invaded. Unfortunately, the former familiar’s grasp of the magic was insufficient to the task. His shortcuts and fumbling, inhumane experiments led only to abominations and madness. That project was ultimately taken up and perfected by the Asano Clan.
+
+“While this was happening, the broader world still needed fixing, and I just happened to have the tools. Enough to get started, anyway. It’s been a long process that I can only complete in full by returning to the other world. And when I’m done, Earth will be stable, with a much higher level of magic than it had before all this began. Most importantly, there will be not just a link between worlds but a bridge. A bridge that a goddess can cross. Then she won’t be a god of knowledge anymore; she’ll just be God.”
+
+“Back on Pallimustus, Knowledge’s manipulations have continued. People were worried as the goddess of Knowledge started building up a holy army, but then came the invasion of the messengers. The world believed that she had used her knowledge to prepare, not realising that she plotted the invasion herself, centuries ago. And when the invasion is over, she will have an army, blooded and strengthened in war. An army ready to invade Earth.”
+
+Jason took a deep breath and let it out slow.
+
+“Some of you are aware that there is a body of rules called the Laws of Intrusion. They govern things like who can invade a world. About how one god can invade another’s territory to conduct a holy war. Knowledge has been playing fast and loose with those rules, preparing the Earth for invasion. But now the Cosmic Throne I mentioned has been repaired. Those rules are back in place and contravening them is not easy.
+
+“What this means is that Knowledge can’t just shove herself across the bridge and claim her place as God Almighty. This world has gods, and whether or not they’re real, the faith behind them is. Knowledge can’t just come in and usurp their place. Instead, she has to conduct a holy war. A crusade, to claim this world for her own faith. She needs to take it, and eradicate the temples of the closest thing Earth has to an actual deity in residence.”
+
+He grimaced and stared awkwardly at his feet.
+
+“That, and I’m just going to pull off the band-aid here, is me. I’m not a god, but my domains — the Asano Clan territories — function like the divine ground held by gods. They are, mechanically speaking, temples of me. Knowledge needs her army to conquer the world, then conquer my temples, and then she can come to Earth and take her place as its one true God.”
+
+Jason ran his hands through his hair.
+
+“Now, I’ve skimmed over a lot, here. I’ve tried to keep it to the portions relevant to what’s coming, and the context to let you understand that, but I know I’ve left a lot of holes. So, who has questions?”
+
+A room full of hands shot up.

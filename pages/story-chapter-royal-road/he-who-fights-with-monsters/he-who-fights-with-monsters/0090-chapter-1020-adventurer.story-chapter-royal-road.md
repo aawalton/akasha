@@ -1,0 +1,237 @@
+---
+id: 12a1315b-8e12-5e7e-a813-959bf66b8490
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1020: Adventurer"
+slug: 0090-chapter-1020-adventurer
+partOf: he-who-fights-with-monsters
+position: 90
+ownLength: 2641
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892849/chapter-1020-adventurer"
+royalRoadId: "3892849"
+---
+
+In the atrium of the Asano Clan tower in Saint-Étienne, Jason stood between a lizard man and an elf, an arm around each of their shoulders. His grandmother took their picture and handed the elf back her phone. They thanked Jason before moving away to let the next person have their turn.
+
+“Are you sure this isn’t too disruptive?” Jason asked Yumi as he looked at the queue. “Aren’t these people meant to be working?”
+
+“Just be glad they’re not running for the hills at the sight of you. That video of you fighting Gerling and McKean didn’t fill people with heartwarming assurance.”
+
+“Oh, when you turned into a bird!” the next person in the line said, a young man who couldn’t have been older than seventeen. “When that system message popped up saying ‘beware his wrath,’ that was so awesome! Is it true that everyone in the world saw it?”
+
+“Everyone old enough for essences, yes,” Jason said.
+
+“Was that part really necessary?” Yumi asked.
+
+“It just happens,” Jason said. “I don’t have full control of the system yet. A lot of it is autonomic.”
+
+“You mean automatic,” Yumi corrected him. “Autonomic refers to bodily processes.”
+
+“The system is a part of me,” Jason told her. “Like a spleen.”
+
+Eventually Yumi cut off the line, citing that Jason had a meeting to attend, which was true.
+
+“It’s good that you’re doing that,” Yumi said as they rode up an elevating platform. “Word is getting out that a god is coming to start a world war, and people are nervous. Especially with rumours that you won’t be here to fight it. That’s going to shake a lot of people’s confidence, and not just within the clan.”
+
+“I don’t like it either, Grandmother.”
+
+“To be clear, Jason, I’m one of these very nervous people.”
+
+Jason scowled at his feet.
+
+“Can you explain to me,” he said, frustration thick in his voice, “since when was ‘it’s going to take me some time to do something about the warmongering god from another universe’ not a good enough answer?”
+
+“People are scared.”
+
+“You think I’m not scared?” he whispered, still staring at his feet. “Do you have any concept of what I’m walking into when I go back? That’s a god, Grandmother. Imagine that Zeus had been waiting for you to be born since the fifteenth century so he could mess with you for decades before forcing you to walk into an unknown and inescapable fate. Yes, I’m immortal, and you know what that means? I can’t die, not that I can’t suffer. If the goddess of infinite knowledge happens to be knowledgeable enough, she can put me somewhere I can be tortured forever. When this planet is dust, after the heat death of the universe, there I’ll be, enduring agony for all eternity. That’s hell, Grandmother. That’s what I might be walking into. A hell I can neither avoid nor escape.”
+
+“Unless you give up on us all.”
+
+“What?”
+
+The platform stopped in an upstairs waiting area. People walked past, almost bumping into them without acknowledging their presence. Their eyes slid off Jason and Yumi as if they were figments of the imagination, caught in the corner of an eye. Yumi frowned, noticing the odd behaviour.
+
+“Are you doing that?”
+
+“I know what I mean to these people, Grandmother. I’m not going to let them see me throwing a tantrum. I’m using my aura as a privacy screen, and to have them ignore us.”
+
+“You’re getting good at that. Are you sure it’s not mind control?”
+
+“And what will you do if it is?”
+
+“Disapprove.”
+
+Jason stormed over to the nearest wall, Yumi trailing behind. Walls sprang up from the floor to create a small room around them.
+
+“Jason, you need to talk to Arabelle Remore.”
+
+“You think I haven’t? She doesn’t know how to give therapy to a god.”
+
+“You keep telling people you’re not a god.”
+
+“Well, I am, and more besides. What did you mean by giving up on you all?”
+
+“I mean just that. You can abandon this world, right? It’s not that big a deal from a cosmic standpoint. All you have to do is leave humanity to their fate. Don’t go back, don’t fix the bridge and Knowledge won’t care about you.”
+
+“I can’t do that.”
+
+“Yes, Jason, you can. It just never occurred to you.”
+
+“No, I mean I can’t do that. The more powerful you become, the more you lock in who you are. If I abandoned all of humanity and ran, I’d be undoing a lot of work I put into shaping my identity.”
+
+“I know. The idea of running never even entered your head, even though you’re fighting a god. That’s who you are. Who you’ve chosen to be, Jason, and that’s what matters. Not what you are, but what you choose to be.”
+
+“Exactly,” Farrah said, the cloud wall parting to let her in. “You are what you chose to be: the guy who puts himself between the bad stuff and the people. You made that choice, the same as me. The same as Rufus and Humphrey and even Belinda. The same as Gary. He quit, and somehow still managed to die doing it, because that’s who he was. Just like you. You can be a god, a great astral being or an astral king all you like, Jason. But before all of that, you’re an adventurer.”
+
+The trio stood in silence for a long time before Jason finally broke it.
+
+“What are you even doing here?” Jason asked Farrah. She flicked him in the forehead.
+
+“We’re connected, dummy. You think I haven’t noticed you burning away like a lit fuse? I’ve been making sure that I was around when you finally went off, and here we are.”
+
+“I just… all these years, and Earth keeps doing this to me.”
+
+“Yeah.”
+
+“That’s it? Yeah?”
+
+“What do you want me to say, Jason? Last time, you had to do what was necessary because the people who should have stepped up didn’t rise to their responsibilities. This time, you’re the one with the responsibilities. So, live up to them.”
+
+“It’s not that simple.”
+
+“Of course it’s not. It never is. Except that it always is, if you’re willing to do what it takes. And you are, so harden up.”
+
+Jason stared at her for a moment before stepping forward and collecting her in a hug. She returned it, shaking her head against his shoulder.
+
+“You are so damn soft. How you survived on Palli I will never know.”
+
+“If you’re unwilling to bend, make the world bend.”
+
+“That attitude gets most people killed.”
+
+“Most people don’t have to fight gods.”
+
+“Most people don’t have the Geller and Remore families telling the local nobility not to kill the guy with the big mouth.”
+
+“That does help.”
+
+He let her go and stepped back.
+
+“Thanks,” he told her.
+
+“That’s my job, remember? You save the world from everything else, and I save it from you. And your moping. And self-pity. And rash decision making. And tantrums.”
+
+“Yes, I get the idea.”
+
+“And bad hair.”
+
+“I have great hair!”
+
+“You do,” she conceded. “It reminds me of Kaito’s.”
+
+“Okay, I have a meeting to get to, so you can go away now.”
+
+She flashed a devil’s grin and walked off, the wall once more opening to let her out.
+
+“Farrah,” Jason called after her, and she turned to look back.
+
+“Yeah?”
+
+“Thank you.”
+
+She nodded and left, the wall closing behind her.
+
+“Are you alright?” Yumi asked him.
+
+Jason looked from her to where Farrah had disappeared.
+
+“Yeah,” he said, his voice much lighter than it had been. “I think I am.”
+
+The new walls vanished, surprising some of the people in the waiting area outside.
+
+“Jason, did I ever tell you that you’re my favourite grandchild?”
+
+“No.”
+
+“Well, I like my great-granddaughter more. Don’t let it go to your head.”
+
+Jason chuckled as she marched off in the direction of the conference room and he trailed behind.
+
+***
+
+The clan tower in Saint-Étienne had many conference rooms, often with specialised features. Jason and Yumi arrived at one with magitech teleconference facilities, with a few chairs at one end of a table otherwise surrounded by floor projectors. In similarly outfitted rooms across the planet, people could project into the other rooms through ephemeral avatars.
+
+“This room is so cool,” Jason said as they entered. Anna and Danielle were waiting for them, turning at their entrance.
+
+“I don’t see what’s special about it,” Anna said. “It’s essentially a conference room with holographic chairs.”
+
+“Yeah, like in Demolition Man,” Jason said enthusiastically. “I watched it again with Gordon and Taika last night. Honestly, it doesn’t hold up that well.”
+
+“Nice to see you’re using your remaining time on Earth productively,” Anna said.
+
+“Hey, I’m being productive. As we speak, I have avatars in three universes, talking to city officials, doing combat training, cooking negi butadon, taking a little girl who got lost home, pranking Emi’s husband into thinking I believe he’s having an affair and I’m going to murder him, convincing Itsuki to get marriage counselling, find a mango the right shape to fit in a—”
+
+“I’m not sure how much of that I would categorise as productive,” Anna said.
+
+“The list did seem to get sketchier as it went along,” Danielle agreed. “I don’t think I want to know what he is doing with that mango.”
+
+General Mills entered the room, wearing an informal EDJI service dress uniform and carrying a briefcase. After greeting the others, he took a seat and started pulling notes from his case.
+
+“Paper files?” Anna asked him.
+
+“Digital can be a problem with sensitive material,” Michael said. “There’s a certain rabbit with magical hacking powers and a big mouth.”
+
+***
+
+“Now you’ve had time to process what’s coming,” Jason said, “I’m sure you have questions.”
+
+The people projected around the table represented key nations and magical factions within the Earth Defence Joint Initiative. Without magical senses, it was impossible to tell the illusionary projections from real people. Jason was at the head of the table, with Anna and Danielle sitting to his right, while Yumi and Michael Mills were seated to his left.
+
+Michael had been selected as the spokesperson for the EDJI member states, asking questions for the group instead of having them come from around the room. Along with being present in person, he had become known as someone who could handle Jason without triggering some meeting-ending debacle. The United Kingdom’s Minister for Energy had eventually been found, in a more or less healthy condition.
+
+“I’ve been handed the talking points and questions the members want to go over, if that is alright with you, Mr Asano,” Michael said. “If you’re amenable, we’ll begin with some clarification questions, then move on to big-picture issues before exploring more granular queries at the end.”
+
+“That sounds fine. Please jump right in.”
+
+“Thank you. The first question is about the practical realities of the invasion. How will the earth be approached and what will the functionality of this bridge be?”
+
+“A good question to start with,” Jason said. “The bridge between worlds connects two fixed points, one on each planet. On Pallimustus, that point is an island in the Storm Kingdom. You’re all familiar with Princess Zara and her Storm Kingdom contingent. What I have discovered is that the Church of Knowledge has essentially annexed the island and shut the kingdom authorities out.
+
+“On Earth, that point is the well-known site in outback Australia. I was going to place it within one of my domains, but I was warned against that by Mr North, prior to his death. He was evasive as to why, simply saying that I would understand when the time came.”
+
+“And do you?” Danielle asked.
+
+“Yes. During my talk, I discussed the Laws of Intrusion. There are a lot of nuances to them. If I’d built the bridge leading directly into one of my domains, it would constitute, magically speaking, an invitation. She could invade the domains directly.”
+
+“Wouldn’t that be good?” Yumi asked. “Your power here is godlike. Isn’t that exactly what we need if a god is invading?”
+
+“As I said, there is nuance. Part of what makes invading my space so dangerous is that my territories aren’t just lines on a map. My dominion over them is a fundamental aspect of that land. Reality itself recognises my right to hold it. If I give someone an invitation, either literally or metaphysically, they are no longer intruders. I would still hold a lot of power in those spaces, but the rights of host and guest have metaphysical weight. My ability to harm them would be significantly diminished.
+
+“Because the bridge does not lead into my domains, those territories can be used as bastions during the war. The one place that Knowledge cannot reach until she has seized everything else. Letting them in would have changed that.
+
+“As to how the bridge works, dimensional travel is typically quite an ordeal. Even on Pallimustus it’s rare. Usually it comes from diamond-rank portal abilities that allow dimensional traversal.  Given the tiny fraction of adventurers who reach diamond, and the fraction of those with portal powers, that number is vanishingly small. There is also the problem of needing to have visited another dimension before you can open a portal to it.
+
+“I say all this for context. The dimensional bridge is not a literal doorway or tunnel. Instead, it makes it possible to move between worlds with a relatively straightforward and resource-efficient ritual. Anyone with a handful of spirit coins and the ability to cast a simple silver-rank ritual could use it. It’s a cheap and efficient way to transit large numbers of people. Safely, I might add, which is far from a given with dimensional travel.”
+
+“Is there a way to shut it down, or block one end?” Michael asked.
+
+“There is,” Jason said. “As we speak, Clive Standish and Emi Asano are working on methods to impede access. I can tell you, however, that these are measures that can only stall, not stop them. Sooner or later — probably sooner — Knowledge’s church will figure out how to pump so much power through the bridge that it’ll clear the pipe, however heavily we block this end.
+
+“But they will have to emerge at the site in Australia?” Michael asked.
+
+“Yes. Obviously, that presents tactical advantages to our side that will make it hard for them to establish a beachhead. I suspect that once they force open the bridge, the first thing they will send through is a cluster of magical nukes, to wipe out anyone set up on the aperture.”
+
+“Is that a metaphor for some large magical device?” Michael asked.
+
+“No. Travis Noble developed a magitech nuclear device that was used to destroy a flying city. The Church of Knowledge can absolutely recreate it. How to respond to that threat will be for you to decide, since you’ll be the ones dealing with it. I’m happy to participate in any planning or preparation you might require of me, for as long as I remain on Earth.”
+
+“I have some more questions about that,” Michael said, “but as they’ll be getting into the nitty gritty, I’ll leave them for later in the discussion. The next point I would like to discuss is timing. From your briefing last week, you seemed to imply that the invasion isn’t possible at all until you return to the other world and complete construction of the magical bridge.”
+
+“That’s correct. I assume your query is about why I don’t leave the bridge unfinished instead of completing it.”
+
+“That is the question, sir, yes.”
+
+Jason nodded.
+
+“That’s a reasonable question, with a simple answer: I have to.”

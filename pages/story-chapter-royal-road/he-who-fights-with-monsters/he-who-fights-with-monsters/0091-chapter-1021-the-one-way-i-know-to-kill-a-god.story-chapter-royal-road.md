@@ -1,0 +1,191 @@
+---
+id: 09fa942e-4ce2-528d-9088-2cbf7fd7f221
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1021: The One Way I Know to Kill a God"
+slug: 0091-chapter-1021-the-one-way-i-know-to-kill-a-god
+partOf: he-who-fights-with-monsters
+position: 91
+ownLength: 2897
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892850/chapter-1021-the-one-way-i-know-to-kill-a-god"
+royalRoadId: "3892850"
+---
+
+“You have to do it?” Michael asked.
+
+“Yeah,” Jason said. “The whole process was incredibly involved. When the original Builder was replaced, one of the new Builder’s tasks was resolving the mistakes of his predecessor. But great astral beings work through mortal agents, rather than direct intervention, as their touch could annihilate galaxies. The new Builder created a door through which someone could enter a liminal space in which they could alter the very foundations of physical reality. Then he left it for someone to find and use.”
+
+“That seems reckless.”
+
+“The new Builder is reckless, for reasons that I can explain later if anyone especially wants to know. Also, I believe that the Builder was manipulated to put this door into play by the goddess of Knowledge. In return, the Builder was aided in an invasion, much the same deal as was made with the messengers. The Builder’s invasion of Pallimustus immediately preceded that of the messengers, in fact.”
+
+“What did Knowledge get out of this?”
+
+“I wasn’t the first to use the door. It was the tool the Network founder employed to do all the things he did. Then he left it behind. In fact, he sealed it in such a way that only someone who had left Earth and returned could claim it. He destabilised the world to raise its magic level for the goddess of Knowledge, then left the tool for the next outworlder. He knew that someone would be sent to stabilise the Earth when it was ready.”
+
+“And you used this door?” Michael asked.
+
+“I did. The Network founder created the Tiwari Clan to prepare for my arrival and claiming of the relic. It was a bumpy process, but it more or less worked out. I slowly learned to shape reality, and was changed in the process. Part of my journey into becoming what I am now, and what I will become in the future.”
+
+“Which is what?” Miachel asked.
+
+“Complicated,” Jason told him, his tone making it clear that there would not be follow-up questions.
+
+“None of this explains why you need to complete the bridge,” Michael pointed out.
+
+“It’s the beginning of it. Using the door, I was able to undo what the Network founder had done. The link between worlds was returned to roughly its original state, but centuries of damage remained. This planet had become fragile and in need of repair. To facilitate that repair, the World-Phoenix created a similar relic to the door. This one would enhance the link between worlds, allowing the same power that had done the damage to instead repair it.”
+
+“By building a bridge,” Michael said.
+
+“Precisely. Even with the relics, though, the process was complicated. I had to start by using the Builder’s door to create an anchor on Earth, then go to Pallimustus and do the same thing there. Then I had to create the bridge using the World-Phoenix’s relic, but the bridge was something like a tree. I planted a seed and would have to wait for it to grow. Once it had, I would need to complete the construction on both ends. But things didn’t go to plan.
+
+“I created the anchor on Earth, then went to Pallimustus and did the same. Then there was an incident. I overtaxed my power and almost died again, and in the process broke both relics. I also absorbed their cosmic power, the next step on the path to becoming what I am now. I ended up returning most of that power to the Builder and the World-Phoenix, in return for the Builder ending his invasion of Pallimustus.
+
+“It left me with a problem, however. I no longer had the tools to complete the bridge. In the end, I ended up obtaining the required knowledge over a number of years, mostly taken from the messengers during their invasion. I don’t know how much influence the goddess had on things falling into place the way they did, but I have to imagine that her hand was on the tiller.
+
+“Finally, I had what I needed. Clive Standish and I designed and created a bridge between worlds. We planted the seed and it began to grow. At that time, I returned to Earth and you know what happened from there. Now the time has come to complete the bridge, at both ends. If we don’t, that growing bridge will become overgrown and start causing damage. Pallimustus will likely face some manner of cataclysm, while the Earth will be destroyed.
+
+“There’s a fairly broad window of time in which I can complete the bridge, and we’re well inside that window now. But if that opportunity passes, the whole thing comes apart. Right now, the bridge between worlds is in a state where it’s ready for final stabilisation. Which is something the Earth needs, by the way. The most dangerous damage of the last few centuries has been repaired, but injuries to the foundations remain. The bridge will quietly keep working to fix that, but if it’s left incomplete, it will go from stabilising to destabilising. You’ll be lucky to get more than a few decades, the latter of which will be quite rough. On the bright side, the astral storms that appear as the dimensional membrane breaks down will wipe the earth clean of life long before the planet is utterly annihilated. To summarise, not fixing the bridge is bad. Instead of getting invaded, Earth gets wiped out of reality.”
+
+“How long is your window of time to fix this?” Michael asked.
+
+“There are still a few months before I absolutely need to leave for Pallimustus. I’ll give you all the time I can without risking the safety of the planet.”
+
+“We’d like something a little more firm in terms of dates.”
+
+“I understand that. I’ve been going by feel, since I can sense the general state of the link. Clive Standish has some tests running that will give us hard numbers, and you’ll get those as soon as we’ve got them.”
+
+“If you can sense the state of the link, why didn’t you notice Simon McKean using it?” one of the other attendees asked, earning him a hard look from Michael.
+
+“Minster, we agreed to—”
+
+“It’s fine,” Jason said. “Minister, it’s a problem of scale. McKean only took enough energy to fuel his blood vine and resurrect some vampires. A river doesn’t notice if you take out a cup of water.”
+
+“Are you saying that all that power McKean was wielding, enough to create an immortal army of vampiric abominations, was so insignificant that you didn’t even notice?”
+
+“That’s exactly what I am saying, Minister. I’ve always been very clear that it was vast cosmic power. I even have a t-shirt.”
+
+“Alright,” Michael said. “Let’s move on.”
+
+He frowned at the notes in front of him for a long time, as Jason saw his unease reflected on the faces around the table.
+
+“Something a little contentious, General?”
+
+“Very,” Michael said, looking up at Jason and nodding. “This is where things start getting religious.”
+
+“I’ll do my best to be respectful.”
+
+“We all appreciate that. You said that this world didn’t have the magic to sustain a god, but now it does.”
+
+“That’s right. Between the Builder’s original design and the World Phoenix’s intervention, Earth’s magic level was fixed at a low level. We did have some stuff running around, but it was always hidden. Not well, with some of the vampire lords, but hidden. Those magical elements ultimately formed the Cabal to keep their secrets.
+
+“Knowledge’s plan disrupted all of that. She wanted a world with the power to sustain a god. Preferably just one god, and that’s where we are now. The main function of the bridge between worlds isn’t to permit travel but to regulate the magic. Now that it’s basically stable, Earth’s magic will slowly continue to rise until it’s quite similar to that of Pallimustus.”
+
+“Why didn’t you stop it from rising at all anymore?” Danielle asked.
+
+“It might have been possible, if things had been different during my last trip to Earth,” Jason said. “I advised magical factions and the world that snatching up reality cores exposed by transformation zones would do long-term damage. Well, it did. The dimensional membrane in the area around Earth is too thin, too damaged. There’s no going back anymore.”
+
+“Mr Asano,” said one of the people sitting around the table. This was the US Secretary of Supernatural Affairs. “Are you saying that if we’d listened to you back then, there wouldn’t be enough magic for this goddess to invade?”
+
+“I originally thought so, Mr Secretary. But Knowledge has been preparing for this too long, and too thoroughly. I’m now certain that it was always going to play out this way. I don’t think your nations and organisations were influenced against listening to me, but I think you would have been if necessary. Knowledge has too many contingencies, too many ways to adapt. She outplayed me hundreds of years before I was even born. This situation was always going to come to pass, one way or another.”
+
+“Now that it has,” Michael said, “you’re asserting that there is currently enough magic to sustain the gods that could not have appeared before.”
+
+“Yes, but only enough for one god, at least for now. I believe she intends to become a monotheistic deity, and then absorb more power as the magic rises, preventing other gods from appearing.”
+
+“Which they would, if nothing stepped in for long enough?”
+
+“That’s my understanding, yes. What kind of god it would be, I have no idea, and it would likely take one or more centuries to manifest.”
+
+Michael took a deep breath and let it out harshly.
+
+“That brings us to the most controversial topic for today, Mr Asano. One question that was debated quite fiercely before being included.”
+
+“And what is that?” Jason asked lightly.
+
+“I have another question first,” Michael said. “I have all of these questions on my notes, here. I haven’t shown them to you, but this, quite famously, is your domain. Can you read the notes in a folder I’ve had in my briefcase all day?”
+
+“General, I can read the pages in a closed book in a basement on the other side of the city. Yes, I can read your notes.”
+
+“Then this meeting is just going through the motions for you.”
+
+“Not at all. For one thing, I believe that the process matters. How we get to our destination is often as important as the destination itself. On top of that, this meeting isn’t for me; it’s for all of you. This isn’t a waste of my time or some farce for my own amusement. I believe that what we’re doing here is entirely worthwhile, which is why I haven’t even mentioned that terrible vehicle Voltron reboot. With all the power in this room, you’d think we could—”
+
+“Jason,” Danielle cut him off in her best stern mother voice.
+
+“Right, sorry. Going back to my point, knowing the questions beforehand simply allows me to be better prepared to answer them, without getting distracted by side matters. For example, with pilots for all of those vehicles, that’s much too large an ensemble, and the vehicles themselves are all boxy and terrible. There were only five lions, and that’s a much better—”
+
+“Jason,” Danielle said, escalating her tone to ‘we’re going to talk about this when we get home, Humphrey.’
+
+“Sorry. Do go ahead, General.”
+
+Michael stared at Jason, narrowing his eyes in suspicion.
+
+“Mr Asano, did you, knowing what I’m about to ask, put on such a ridiculous display so that, within that context, what I’m going to ask comes off as equally absurd?”
+
+“I have no idea what you’re talking about, general. But do go on.”
+
+“Very well,” Michael said, and took a steeling breath. “What I’ve been instructed to ask, Mr Asano, is that if there is an open slot for a god here on Earth, have you considered taking it for yourself? Is that even a possibility?”
+
+Anna and Yumi, hadn’t known the question was coming, leading both them and their eyebrows to sit up straight. Only Danielle remained stoic, despite being just as surprised. As for Jason, a slight smile teased the corners of his mouth as he leaned back in his chair.
+
+“Considered actually doing it?” he said. “No. I have considered whether it would be possible, but never contemplated following through.”
+
+“Then it could be done?”
+
+“Quite probably, yes. I’m not a god as such, but I have enough god in me that I could probably swing it. But I never would, not ever.”
+
+“Why not?” Michael asked.
+
+“Because gods are too limited. I have no interest in making myself that small.”
+
+It was Michael’s turn to raise his eyebrows.
+
+“Small?”
+
+“Relatively speaking. Of the big three cosmic entity types, gods get the worst of it. I can go into the specifics later, if you like, but their main issue is that gods are bound to their worlds. They don’t even have true immortality, as they only last as long as the planet they’re attached to.”
+
+“Then how is Knowledge coming here?” Danielle asked. “Shouldn’t she be trapped on my world?”
+
+“Normally, yes. What is happening requires very specific circumstances, going all the way back to when the original Builder created our two universes. This is the very reason the original Builder was sanctioned. It would never have happened while the Cosmic Throne was intact.”
+
+“Can you go into the details of these circumstances?” the US Secretary asked.
+
+“It’s hard without years of studying astral magic theory, but I’ll try and cover the basics. Because of the way the Builder created our two universes, Earth and Pallimustus are, in certain metaphysical regards, the same planet. That’s how Knowledge is managing to get away with it. Even then, it’s taken centuries of meticulous planning and execution to create the exact conditions required. She needs to take everything she is, every iota of her essence, and pass it across the bridge to do this. The bridge had to meet very specific requirements to make that possible. She manipulated me and who knows how many others to get it put in place, exactly as she needed it. Thousands, maybe millions of little nudges, across two worlds and hundreds of years. It would be impressive if it wasn’t the dastardly master plan of an evil warmongering super-librarian.”
+
+“But you’re saying,” the Secretary chimed in again, “that you could take the god position yourself. If you wanted.”
+
+“I’m not so sure that the people of Earth would want me as their god. I know I don’t.”
+
+“But you could do it.”
+
+“I’m not a hundred percent sure, but probably.”
+
+“Would that stop this foreign goddess?”
+
+“I don’t know. She’d might come over here are start a holy war against me anyway, planning to sanction me and steal all the power when she won.”
+
+“She could do that?”
+
+“I don’t know. We are way past the part of the map with the sea monster on it, Mr Secretary. Here be dragons. I will tell you that gods can affect each other in ways they can’t impact mortals, or vice versa. It is the responsibility of gods to manage their own. She could bend those rules to start a fight over who governs the Earth as its one true god.”
+
+“If gods manage their own,” Michael said, “then why aren’t the gods of the other world intervening?”
+
+The whole room flinched as Jason’s face twisted into a snarl.
+
+“Something I intend to ask them,” he growled, before schooling his expression and taking a cleansing breath.
+
+“I’d just like to say,” he continued in a normal voice, “that I’m glad you asked if I would be willing to become God. I know there’s a lot of contention being stirred up around me and what I’ve been telling everyone about the world and how gods work. That you would even ask that means that you understand the magnitude of what we’re up against.”
+
+“I’d like to continue exploring the idea of you becoming the god of this world,” the Secretary said. “If that would help us—”
+
+“It might,” Jason said. “Maybe. A little. But it wouldn’t stop her armies coming. And I would never do that. It’s suicide.”
+
+“Suicide? You think she’d kill you?”
+
+“She wouldn’t be able to kill me, but if I went full god, she could mess me up, assuming she wins. I could be left powerless and broken, like a long-running TV show that keeps going after the lead actor quits. But even if I won, I would then be bound to this planet which, a few billion years from now, will be a burned out, lifeless rock. That’s assuming the expanding sun hasn’t swallowed it entirely. As it stands, I’m going to live well beyond the life span of this planet, while any gods attached to it will not. Killing their planet is the one way I know to kill a god, but I think we can all agree that destroying the Earth to stop her is not worth it.”
+
+The room fell silent, everyone staring at Jason. It went on for a long time until he flashed them all a smile.
+
+“General, should we move on to the more detailed questions?”
