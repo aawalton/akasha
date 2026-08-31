@@ -21,16 +21,16 @@ const BODIES = new Map<string, string>([
   [TWICE, 'export function twice(): string {\n  const twice = "one"\n  return twice\n}\n'],
   [
     HELD,
-    "export type Waking = (path: string) => boolean\n\nexport function waking(one: Waking): Waking {\n  return one\n}\n",
+    "export type Marking = (path: string) => boolean\n\nexport function marking(one: Marking): Marking {\n  return one\n}\n",
   ],
   [
     NAMER,
-    'import type { Waking } from "../held/held.module.code.ts"\nimport { waking } from "../held/held.module.code.ts"\n\nconst one: Waking = (path) => path.endsWith(".ts")\n\nexport const two = waking(one)\n',
+    'import type { Marking } from "../held/held.module.code.ts"\nimport { marking } from "../held/held.module.code.ts"\n\nconst one: Marking = (path) => path.endsWith(".ts")\n\nexport const two = marking(one)\n',
   ],
-  [SHADOW, 'export function shadowed(): string {\n  const waking = "held"\n  return waking\n}\n'],
+  [SHADOW, 'export function shadowed(): string {\n  const marking = "held"\n  return marking\n}\n'],
   [
     KEPT,
-    'export type Kept = {\n  readonly wakesOn: string\n}\n\nexport const kept: Kept = { wakesOn: "yes" }\n',
+    'export type Kept = {\n  readonly marksOn: string\n}\n\nexport const kept: Kept = { marksOn: "yes" }\n',
   ],
   [
     OWN,
@@ -55,8 +55,8 @@ function bound(at: string, from: string, to: string): ReturnType<typeof bindingF
 }
 
 test("a name that is already the one it would become is refused rather than worked out", () => {
-  expect(tokeningFor(HELD, "waking", "waking")).toEqual({
-    refused: "`waking` is already the name it would become, so there is nothing to rename",
+  expect(tokeningFor(HELD, "marking", "marking")).toEqual({
+    refused: "`marking` is already the name it would become, so there is nothing to rename",
   })
 })
 
@@ -73,7 +73,9 @@ test("a name the named file does not carry is refused rather than answered as no
 })
 
 test("a name the named file already carries is refused rather than shadowed", () => {
-  expect(bound(HELD, "waking", "Waking")).toEqual({ refused: `${HELD} already carries \`Waking\`` })
+  expect(bound(HELD, "marking", "Marking")).toEqual({
+    refused: `${HELD} already carries \`Marking\``,
+  })
 })
 
 test("a file carrying one spelling as a name and as a key is refused rather than guessed at", () => {
@@ -84,28 +86,30 @@ test("a file carrying one spelling as a name and as a key is refused rather than
 })
 
 test("a name is renamed where it is declared and wherever another file imports it", () => {
-  const made = bound(HELD, "waking", "input")
+  const made = bound(HELD, "marking", "input")
   if ("refused" in made) throw new Error(made.refused)
   const namer = made.binding.changes.get(NAMER) ?? ""
-  expect(made.binding.changes.get(HELD)).toContain("export function input(one: Waking): Waking")
+  expect(made.binding.changes.get(HELD)).toContain("export function input(one: Marking): Marking")
   expect(namer).toContain('import { input } from "../held/held.module.code.ts"')
   expect(namer).toContain("export const two = input(one)")
 })
 
 test("a type standing beside the renamed name is left as it stands", () => {
-  const made = bound(HELD, "waking", "input")
+  const made = bound(HELD, "marking", "input")
   if ("refused" in made) throw new Error(made.refused)
-  expect(made.binding.changes.get(HELD)).toContain("export type Waking = (path: string) => boolean")
+  expect(made.binding.changes.get(HELD)).toContain(
+    "export type Marking = (path: string) => boolean"
+  )
 })
 
 test("a name standing for something else in its own scope is left as it stands", () => {
-  const made = bound(HELD, "waking", "input")
+  const made = bound(HELD, "marking", "input")
   if ("refused" in made) throw new Error(made.refused)
   expect(made.binding.changes.has(SHADOW)).toBe(false)
 })
 
 test("an answer names every line still spelling the name that was renamed", () => {
-  const made = bound(HELD, "waking", "input")
+  const made = bound(HELD, "marking", "input")
   if ("refused" in made) throw new Error(made.refused)
   expect(made.binding.still).toEqual([{ path: SHADOW, lines: [2, 3] }])
 })
@@ -119,7 +123,7 @@ test("a name a file keeps to itself is renamed though nothing exports it", () =>
 })
 
 test("a key a type declares is renamed where the type states it and where a body spells it", () => {
-  const made = bound(KEPT, "wakesOn", "isInput")
+  const made = bound(KEPT, "marksOn", "isInput")
   if ("refused" in made) throw new Error(made.refused)
   const kept = made.binding.changes.get(KEPT) ?? ""
   expect(kept).toContain("readonly isInput: string")

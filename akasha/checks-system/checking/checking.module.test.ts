@@ -196,8 +196,8 @@ test("a check stating no input runs over a change its neighbour sleeps through",
   ])
   const held = onDisk(root)
   const change = { root, changed: ["one.md"], after: held, before: held }
-  const woken = checksFor(every, change, shadowAsked(change))
-  expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
+  const taken = checksFor(every, change, shadowAsked(change))
+  expect(taken.map((one) => one.slug)).toEqual(["refuses-all"])
 })
 
 test("a check whose input could not be answered runs, its neighbour taken as it would have been", () => {
@@ -281,15 +281,15 @@ function over(changed: readonly string[]): Change {
 
 test("a check refuses nothing in a change its own input turns away whole", () => {
   const asked = shadowAsked(over(SAMPLED))
-  const woken: string[] = []
+  const taken: string[] = []
   for (const one of checksIn(ROOT)) {
-    const wakes = one.isInput
-    if (wakes === null) continue
-    const asleep = SAMPLED.filter((path) => !wakes(path, asked))
+    const takes = one.isInput
+    if (takes === null) continue
+    const asleep = SAMPLED.filter((path) => !takes(path, asked))
     if (asleep.length === 0) continue
-    woken.push(one.slug)
+    taken.push(one.slug)
     const change = over(asleep)
     expect([one.slug, one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
   }
-  expect(woken.length).toBeGreaterThan(0)
+  expect(taken.length).toBeGreaterThan(0)
 })
