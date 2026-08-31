@@ -207,10 +207,6 @@ export function judgingBy(every: readonly Gathered[]): Judging {
   }
 }
 
-export function judgingIn(root: string, phase: Phase): Judging {
-  return judgingBy(checksAt(checksIn(root), phase))
-}
-
 export function auditingIn(root: string): Judging {
   return judgingBy(checksAt(checksIn(root), "audit"))
 }
