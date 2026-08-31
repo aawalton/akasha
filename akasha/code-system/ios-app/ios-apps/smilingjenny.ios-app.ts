@@ -5,17 +5,4 @@ export const smilingjenny = {
   pageTypeSlug: "ios-app",
   slug: "smilingjenny",
   definition: "the app on Jenny's phone and the shell it runs in",
-  componentSlugs: [
-    "ios-component/categorize-ring",
-    "ios-component/ring",
-    "ios-component/safety-ring",
-    "ios-component/smilingjenny-categorize-view",
-    "ios-component/smilingjenny-categorize-widget",
-    "ios-component/smilingjenny-safety-level-widget",
-    "ios-component/smilingjenny-surplus-widget",
-    "ios-component/smilingjenny-widget-feed",
-    "ios-component/spacing",
-    "ios-component/surplus-ring",
-    "ios-component/tier",
-  ],
 } as const satisfies IosApp

@@ -1,0 +1,33 @@
+import type { IosProgram } from "../../ios-program.page-type.ts"
+
+export const alanwaltonWidget = {
+  id: "01a05907-081c-7c20-b910-540830825e3a",
+  pageTypeSlug: "ios-program",
+  slug: "alanwalton-widget",
+  definition: "the tiles on Alan's home screen",
+  infoPlist: "plist",
+  entitlements: "entitlements",
+  componentSlugs: [
+    "ios-component/alanwalton-categorize-widget",
+    "ios-component/alanwalton-claude-usage-payload",
+    "ios-component/alanwalton-claude-usage-view",
+    "ios-component/alanwalton-claude-usage-widget",
+    "ios-component/alanwalton-device-secret-reader",
+    "ios-component/alanwalton-inbox-stoplights-widget",
+    "ios-component/alanwalton-never-loaded-view",
+    "ios-component/alanwalton-persona-stoplights-widget",
+    "ios-component/alanwalton-refused-view",
+    "ios-component/alanwalton-safety-level-widget",
+    "ios-component/alanwalton-stoplight-ring",
+    "ios-component/alanwalton-surplus-widget",
+    "ios-component/alanwalton-upkeep-stoplights-widget",
+    "ios-component/alanwalton-values-stoplights-widget",
+    "ios-component/alanwalton-widget-feed",
+    "ios-component/categorize-ring",
+    "ios-component/ring",
+    "ios-component/safety-ring",
+    "ios-component/spacing",
+    "ios-component/surplus-ring",
+    "ios-component/tier",
+  ],
+} as const satisfies IosProgram

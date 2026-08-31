@@ -9,6 +9,6 @@ export const componentSlugs = {
   pageTypeSlug: "relation-property",
   slug: "component-slugs",
   propertySlug: "component-slugs",
-  definition: "the components an app's widget extension compiles",
+  definition: "the components a program compiles",
   targetPageTypeSlug: "page-type/ios-component",
 } as const satisfies RelationProperty
