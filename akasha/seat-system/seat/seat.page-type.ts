@@ -77,7 +77,7 @@ export const seat = {
     { pagePropertySlug: "on-call", required: true, many: false },
     { pagePropertySlug: "registration-account", required: true, many: false },
     { pagePropertySlug: "initiative-slug", required: false, many: false },
-    { pagePropertySlug: "transcript-path", required: false, many: false },
+    { pagePropertySlug: "transcript-path", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "claude-code-session-uuid", required: false, many: false },
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
