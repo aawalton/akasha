@@ -1,9 +1,10 @@
 import {
-  slugAt,
+  textAt,
   valueAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   type Standing,
+  standingAddressed,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { slugStated, typeStated } from "../../seat-stated/seat-stated.module.code.ts"
@@ -20,8 +21,9 @@ const PARENT_KEY = "parentSlug"
 
 function aboveOf(root: string, standing: Standing): Standing | undefined {
   const value = valueAt(standing.path, root)
-  const named = value === null ? null : slugAt(value, PARENT_KEY)
-  return named === null ? undefined : standingAt(root, INITIATIVE_TYPE, named)[0]
+  const named = value === null ? null : textAt(value, PARENT_KEY)
+  if (named === null) return undefined
+  return standingAddressed(root, named, INITIATIVE_TYPE) ?? undefined
 }
 
 export function initiativeAncestors(root: string, path: string): readonly Warrant[] {
