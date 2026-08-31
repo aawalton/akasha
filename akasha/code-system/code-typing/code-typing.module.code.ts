@@ -191,3 +191,81 @@ export function spelledAs(one: Naming, was: string, now: string): string {
   if (one.quoted) return JSON.stringify(now)
   return one.shorthand ? `${now}: ${was}` : now
 }
+
+export function exportsNamed(typing: Typing, path: string, name: string): readonly ts.Node[] {
+  const source = typing.sourceAt(path)
+  if (source === null) return []
+  const held = typing.checker.getSymbolAtLocation(source)
+  if (held === undefined) return []
+  for (const one of typing.checker.getExportsOfModule(held)) {
+    if (one.name === name) return one.declarations ?? []
+  }
+  return []
+}
+
+function aliasedIn(typing: Typing, symbol: ts.Symbol): ts.Symbol {
+  if ((symbol.flags & ts.SymbolFlags.Alias) === 0) return symbol
+  try {
+    return typing.checker.getAliasedSymbol(symbol)
+  } catch {
+    return symbol
+  }
+}
+
+function shorthandFor(node: ts.Identifier): boolean {
+  const up = node.parent
+  return up !== undefined && ts.isShorthandPropertyAssignment(up) && up.name === node
+}
+
+function bound(node: ts.Identifier): boolean {
+  const up = node.parent
+  if (up === undefined) return true
+  return !(ts.isImportSpecifier(up) && up.name === node && up.propertyName !== undefined)
+}
+
+function standingIn(typing: Typing, node: ts.Identifier): ts.Symbol | undefined {
+  const up = node.parent
+  if (up !== undefined && ts.isShorthandPropertyAssignment(up) && up.name === node) {
+    return typing.checker.getShorthandAssignmentValueSymbol(up)
+  }
+  if (up !== undefined && ts.isImportSpecifier(up) && up.propertyName === node) {
+    const alias = typing.checker.getSymbolAtLocation(up.name)
+    return alias === undefined ? undefined : aliasedIn(typing, alias)
+  }
+  return typing.checker.getSymbolAtLocation(node)
+}
+
+export function referencesOf(
+  typing: Typing,
+  root: string,
+  declared: ReadonlySet<ts.Node>
+): readonly Naming[] {
+  const found: Naming[] = []
+  for (const source of typing.program.getSourceFiles()) {
+    if (source.isDeclarationFile) continue
+    const path = insideOf(root, resolve(source.fileName))
+    if (path === null) continue
+    const walk = (node: ts.Node): undefined => {
+      if (ts.isIdentifier(node) && bound(node)) {
+        const own = standingIn(typing, node)
+        const reached = own === undefined ? undefined : aliasedIn(typing, own)
+        if (declaring(own, declared) || declaring(reached, declared)) {
+          found.push({
+            path,
+            start: node.getStart(source),
+            end: node.getEnd(),
+            quoted: false,
+            shorthand: shorthandFor(node),
+          })
+        }
+      }
+      ts.forEachChild(node, walk)
+    }
+    ts.forEachChild(source, walk)
+  }
+  return found
+}
+
+export function boundAs(one: Naming, was: string, now: string): string {
+  return one.shorthand ? `${was}: ${now}` : now
+}

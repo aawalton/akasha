@@ -4,10 +4,13 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Typing } from "./code-typing.module.code.ts"
 import {
+  boundAs,
   compiled,
   declarationsNamed,
+  exportsNamed,
   insideOf,
   namingOf,
+  referencesOf,
   spelledAs,
   typingOver,
 } from "./code-typing.module.code.ts"
@@ -155,4 +158,81 @@ test("a respelling states the value a shorthand stood for and keeps a string's q
   expect(spelledAs(plain, "was", "now")).toBe("now")
   expect(spelledAs({ ...plain, shorthand: true }, "was", "now")).toBe("now: was")
   expect(spelledAs({ ...plain, quoted: true }, "was", "now")).toBe('"now"')
+})
+
+test("a name is found where it is exported and everywhere the checker resolves to it", () => {
+  const { root, typing } = typed({
+    "akasha/seat.page-type.ts": 'export const seat = { id: "one" }\n',
+    "akasha/reader.module.code.ts":
+      'import { seat } from "./seat.page-type.ts"\n' +
+      "export function ownOf(): string {\n  return seat.id\n}\n",
+  })
+  const declared = exportsNamed(typing, "akasha/seat.page-type.ts", "seat")
+
+  expect(declared).toHaveLength(1)
+
+  const found = referencesOf(typing, root, new Set(declared))
+
+  expect(found.filter((one) => one.path === "akasha/reader.module.code.ts")).toHaveLength(2)
+})
+
+test("a name shadowing an imported one inside a scope is left as it stands", () => {
+  const { root, typing } = typed({
+    "akasha/seat.page-type.ts": 'export const seat = { id: "one" }\n',
+    "akasha/reader.module.code.ts":
+      'import { seat } from "./seat.page-type.ts"\n' +
+      "export function firstOf(said: readonly { id: string }[]): string {\n" +
+      "  const seat = said[0]\n" +
+      '  return seat === undefined ? "" : seat.id\n' +
+      "}\n" +
+      "export function ownOf(): string {\n  return seat.id\n}\n",
+  })
+  const found = referencesOf(
+    typing,
+    root,
+    new Set(exportsNamed(typing, "akasha/seat.page-type.ts", "seat"))
+  )
+  const held = found.filter((one) => one.path === "akasha/reader.module.code.ts")
+
+  expect(held).toHaveLength(2)
+})
+
+test("a name imported under another is found where it is imported and not where it is used", () => {
+  const { root, typing } = typed({
+    "akasha/seat.page-type.ts": 'export const seat = { id: "one" }\n',
+    "akasha/reader.module.code.ts":
+      'import { seat as chair } from "./seat.page-type.ts"\n' +
+      "export function ownOf(): string {\n  return chair.id\n}\n",
+  })
+  const found = referencesOf(
+    typing,
+    root,
+    new Set(exportsNamed(typing, "akasha/seat.page-type.ts", "seat"))
+  )
+  const held = found.filter((one) => one.path === "akasha/reader.module.code.ts")
+
+  expect(held).toHaveLength(1)
+})
+
+test("a type is found through the name it is declared under", () => {
+  const { root, typing } = typed({
+    "akasha/seat.page-type.ts": "export type Seat = { id: string }\n",
+    "akasha/reader.module.code.ts":
+      'import type { Seat } from "./seat.page-type.ts"\n' +
+      "export function ownOf(one: Seat): string {\n  return one.id\n}\n",
+  })
+  const found = referencesOf(
+    typing,
+    root,
+    new Set(exportsNamed(typing, "akasha/seat.page-type.ts", "Seat"))
+  )
+
+  expect(found.filter((one) => one.path === "akasha/reader.module.code.ts")).toHaveLength(2)
+})
+
+test("a binding a shorthand stood for is stated rather than the key being renamed", () => {
+  const plain = { path: "at", start: 0, end: 1, quoted: false, shorthand: false }
+
+  expect(boundAs(plain, "was", "now")).toBe("now")
+  expect(boundAs({ ...plain, shorthand: true }, "was", "now")).toBe("was: now")
 })

@@ -50,6 +50,21 @@ export const codeTyping = {
       statement: "A key reached by a string keeps its quotes when respelled.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A name is found where its own file exports it rather than where a body spells it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name imported under another is found where it is imported rather than where it is used.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Renaming a binding a shorthand stood for states that binding rather than the key.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges what it finds.",
     },
