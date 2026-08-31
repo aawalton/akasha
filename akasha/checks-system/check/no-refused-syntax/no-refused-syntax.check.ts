@@ -9,7 +9,7 @@ export const noRefusedSyntax = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
