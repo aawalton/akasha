@@ -1,6 +1,6 @@
-import { join, relative } from "node:path"
+import { join } from "node:path"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { mintedId } from "../../testing-system/minting/minting.module.code.ts"
 import type { Warrant } from "../warranting/warranting.module.code.ts"
@@ -11,7 +11,7 @@ export type Standing = {
 }
 
 export function indexed(root: string, at: string, line: string): undefined {
-  standing(root, join(relative(root, indexIn(root)), at), `${line}\n`)
+  standing(root, join(indexNamed(), at), `${line}\n`)
 }
 
 export function pathsOf(found: readonly Warrant[]): readonly string[] {
