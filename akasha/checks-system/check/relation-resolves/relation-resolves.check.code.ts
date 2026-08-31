@@ -24,7 +24,6 @@ import {
   namedIn,
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { slugFor } from "../../../pages-system/page-property/page-property-key/page-property-key.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -153,7 +152,8 @@ export function danglingIn(
   }
   for (const [key, held] of Object.entries(value)) {
     if (held === null) continue
-    const propertySlug = slugFor(key)
+    const propertySlug = known.slugOfKey(key)
+    if (propertySlug === null) continue
     if (known.targetOf(propertySlug) !== null) {
       judge(propertySlug, held, propertySlug)
       continue
@@ -163,8 +163,8 @@ export function danglingIn(
     for (const entry of recordsIn(held)) {
       for (const [field, inner] of Object.entries(entry)) {
         if (inner === null) continue
-        const fieldSlug = slugFor(field)
-        if (!fields.includes(fieldSlug)) continue
+        const fieldSlug = known.slugOfKey(field)
+        if (fieldSlug === null || !fields.includes(fieldSlug)) continue
         judge(fieldSlug, inner, `${propertySlug} ${fieldSlug}`)
       }
     }
