@@ -7,10 +7,18 @@ export const assignmentSlug = {
   pageTypeSlug: "text-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
-  definition: "the domain whose work a seat answers to",
+  definition: "the domain or initiative whose work a seat answers to",
   max: 100,
   nameFormatSlug: null,
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A seat's assignment is a domain or an initiative.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An assignment stated under no page type names a domain.",
+    },
     {
       invariantKind: "departure",
       statement: "A person and a persona each extend a domain.",
