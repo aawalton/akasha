@@ -7,7 +7,7 @@ import { watch } from "node:fs"
 import { join } from "node:path"
 import { messagesDirRelPath } from "../tools/lib/message-file.ts"
 import { akashaRoot } from "../repo/roots/roots"
-import { seatDirs } from "../tools/lib/seat-presence-read.ts"
+import { akashaSeatsDirIn } from "../tools/lib/seat-page-akasha.ts"
 import { type SeatPending, pendingFromFiles, pendingFromQuestions } from "../tools/lib/seat-pending-batch.ts"
 import { setPending } from "../tools/lib/seat-turn-pending.ts"
 
@@ -64,8 +64,11 @@ function stamp(found: readonly SeatPending[]): void {
   for (const one of found) setPending(one.seat, one.values)
 }
 
+// THE STORE WATCHED IS THE STORE READ. This watched the old seat directory while the pass it
+// triggers reads akasha, so a seat's values could change without anything here noticing: the watch
+// fired only when a store nothing writes was touched, which is never.
 function storesWatched(): readonly string[] {
-  return [...seatDirs(), join(akashaRoot(), messagesDirRelPath())]
+  return [akashaSeatsDirIn(akashaRoot()), join(akashaRoot(), messagesDirRelPath())]
 }
 
 function withinPatience(work: Promise<readonly SeatPending[]>): Promise<readonly SeatPending[]> {

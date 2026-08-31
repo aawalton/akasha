@@ -40,7 +40,7 @@ export async function outboundRead(agent: string): Promise<OutboundSignals> {
 
 export function heldRead(agent: string): StateRead {
   try {
-    return { kind: "answered", verdict: readOwed(agent) }
+    return { kind: "answered", verdict: readOwed() }
   } catch {
     return { kind: "unavailable" }
   }

@@ -36,12 +36,8 @@ export function childrenByPrincipal(): ReadonlyMap<string, number> {
   return found
 }
 
-function standsOwed(agent: string): boolean {
-  try {
-    return readOwed(agent) === "owed"
-  } catch {
-    return false
-  }
+function standsOwed(): boolean {
+  return readOwed() === "owed"
 }
 
 export function pendingFromFiles(): readonly SeatPending[] {
@@ -52,7 +48,7 @@ export function pendingFromFiles(): readonly SeatPending[] {
     values: {
       "live-child": (children.get(one.id) ?? 0) > 0,
       "send-in-flight": one.name !== null && blocked.has(one.name),
-      owed: standsOwed(one.id),
+      owed: standsOwed(),
     },
   }))
 }

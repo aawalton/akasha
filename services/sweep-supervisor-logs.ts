@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { readdirSync, rmSync, statSync } from "node:fs"
-import { frontmatterOf, seatPagePaths } from "../tools/lib/seat-presence-read.ts"
+import { akashaSeatsStanding } from "../tools/lib/seat-akasha-beside.ts"
 import { supervisorsRootDir } from "../tools/lib/supervisor-log-path.ts"
 
 const HELP = `bun services/sweep-supervisor-logs.ts — delete the log directory of every departed supervisor
@@ -68,13 +68,12 @@ export function decideDir(input: KeepInput): Verdict {
   return { kind: "departed" }
 }
 
+// WHOSE SEAT STILL STANDS, ASKED OF AKASHA. This opened every file in the old seat directory for
+// the id its frontmatter states, and a supervisor's log directory is taken away when its id is
+// absent from what this answers. So a store that has stopped being written reads here as every
+// seat having departed at once, and the sweep would take the whole fleet's logs.
 export function standingSeatAgentIds(): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const page of seatPagePaths()) {
-    const id = frontmatterOf(page)?.id
-    if (typeof id === "string" && id !== "") found.add(id)
-  }
-  return found
+  return new Set(akashaSeatsStanding().keys())
 }
 
 function factsOf(root: string, name: string): DirFacts | null {

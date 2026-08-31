@@ -51,6 +51,13 @@ export function akashaSeatRelPath(seatName: string): string {
   return `${DIR}/${seatName}${SUFFIX}`
 }
 
+// Where every seat page stands, for a caller watching the store rather than addressing one seat in
+// it. The directory is spelled here with the paths that reach into it rather than a second time at
+// whoever watches.
+export function akashaSeatsDirIn(root: string): string {
+  return `${root}/${DIR}`
+}
+
 // Where a slug stands in akasha, it is addressed from there. The old lookup reads the tree the
 // person pages have already left, and answers a bare name for a slug it no longer finds, so it
 // stands behind rather than in front: three of the domains the seats name have yet to move, and
