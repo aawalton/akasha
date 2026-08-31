@@ -9,7 +9,7 @@ const DOMAIN_TYPE = "domain"
 
 const KEY = "assignmentSlug"
 
-export function domainItself(root: string, path: string): readonly Warrant[] {
+export function assignmentItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
   const standing = standingAt(root, DOMAIN_TYPE, slug)[0]
