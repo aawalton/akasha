@@ -13,9 +13,12 @@ import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { whyRefused } from "../tools/lib/gated-write.ts"
 import { removeBeside } from "../tools/lib/seat-beside.ts"
 import {
+  akashaHolderProcessOf,
   akashaSeatPathForAgent,
   akashaSeatSlugOf,
+  SUPERVISOR_PROCESS,
 } from "../tools/lib/seat-akasha-beside.ts"
+import { readUncommitted } from "../page/uncommitted/uncommitted.ts"
 import {
   frontmatterOf,
   seatPagePaths,
@@ -141,6 +144,12 @@ function removeSidecars(pagePath: string): void {
 //
 // THIS ONLY REPORTS. A drift is repaired by the seat writing its own page again, never by this
 // reaching into the new system, and a seat is never taken away over one.
+//
+// WHICH PROCESS HOLDS A SEAT IS COMPARED ACROSS BOTH STORES, because that is the one value presence
+// is decided from and the write to akasha is allowed to fail without saying so. A failure there
+// leaves akasha holding the process from before, which reads as a definite absence rather than as a
+// value that could not be written — and an absence is what takes a page away. The old sidecar is
+// written every beat, so the two agreeing is what says akasha may be stood on alone.
 function namedDrift(pagePaths: readonly string[]): readonly string[] {
   const said: string[] = []
   for (const pagePath of pagePaths) {
@@ -157,6 +166,15 @@ function namedDrift(pagePaths: readonly string[]): readonly string[] {
     const slug = akashaSeatSlugOf(id)
     if (slug !== name) {
       said.push(`${name} is carried in akasha under the name ${slug ?? "nothing"}`)
+      continue
+    }
+    const here = readUncommitted(pagePath)?.[SUPERVISOR_PROCESS]
+    const there = akashaHolderProcessOf(id)
+    const stated = typeof here === "string" && here !== "" ? here : null
+    if (stated !== there) {
+      said.push(
+        `${name} is held by ${stated ?? "nothing"} beside its page and by ${there ?? "nothing"} in akasha`
+      )
     }
   }
   return said
