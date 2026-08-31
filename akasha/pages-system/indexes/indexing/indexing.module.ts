@@ -61,6 +61,18 @@ export const indexing = {
         "A change turning a property's `unique` on or off files that property for every standing page.",
     },
     {
+      invariantKind: "departure",
+      statement: "What a change withdraws is read against the world standing before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a change files is read against the world it leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name the withdrawal cannot resolve is reported rather than passed over.",
+    },
+    {
       invariantKind: "gap",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },

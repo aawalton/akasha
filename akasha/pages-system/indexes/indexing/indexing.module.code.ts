@@ -344,9 +344,10 @@ export function settlingOver(
   )
 
   const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
+  const wasKnown = knownIn(reading, repo, pageOf)
   const known = knownIn(stepped, repo, pageOf)
   const was = held.map((one) =>
-    one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, known, repo)
+    one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
   )
   const now = held.map((one) =>
     one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
@@ -360,7 +361,7 @@ export function settlingOver(
   return {
     filings: [...imported, ...identity, ...paths, ...schema, ...relation],
     noted,
-    refused: now.flatMap((one) => one.refused),
+    refused: [...was, ...now].flatMap((one) => one.refused),
   }
 }
 
