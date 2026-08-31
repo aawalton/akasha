@@ -7,37 +7,29 @@ const NAME = "statusline-constants"
 
 const SCRIPT = "akasha/code-system/shell-script/shell-scripts/statusline.shell-script.shell.sh"
 
-const READER = "tools/lib/seat-page-read.sh"
+const READER = "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 
 const STORE = "tools/lib/attributes.ts"
 
 const SCRIPT_SLOTS = /^SEAT_RENDER=\(([^)]*)\)/m
 const STORE_ATTRIBUTES = /export const ATTRIBUTES = \[([^\]]*)\]/
 const STORE_ASSIGNMENTS = /export const ASSIGNMENTS = \[([^\]]*)\]/
+const READER_STATED = /const STATED: [^=]*= \{([^}]*)\}/
+const STATED_KEY = /^\s*"?([A-Za-z][A-Za-z0-9-]*)"?:/gm
 
 const VALUED: ReadonlySet<string> = new Set(["initiative", "on-call"])
 
-interface Pair {
-  readonly spelled: string
-  readonly source: string
-  readonly declared: string
+// The keys the reader can answer for. A slot the script renders is asked for as `<slot>-slug`, so
+// a slot with no such key here reads as a seat that states nothing rather than as a wrong name.
+function statedKeys(body: string): ReadonlySet<string> {
+  return new Set([...body.matchAll(STATED_KEY)].map((found) => found[1] as string))
 }
 
-const PAGE_KEYS: readonly Pair[] = [
-  { spelled: "SEAT_MODE_KEY", source: STORE, declared: "START_MODE_KEY" },
-  {
-    spelled: "SEAT_INITIATIVE_KEY",
-    source: "tools/lib/seat-initiative.ts",
-    declared: "INITIATIVE_SLUG_KEY",
-  },
-]
-
-function declaration(name: string): RegExp {
-  return new RegExp(`^(?:export )?const ${name} = "([^"]*)"`, "m")
-}
-
-function assignment(name: string): RegExp {
-  return new RegExp(`^${name}="([^"]*)"`, "m")
+function renderedSlots(body: string): readonly string[] {
+  return body
+    .trim()
+    .split(/\s+/)
+    .filter((word) => word !== "")
 }
 
 function readOr(repo: RepoView, relPath: string): string | null {
@@ -66,7 +58,7 @@ function tsSlots(body: string): string {
 
 export const statuslineConstants: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
-  const sides = [SCRIPT, READER, STORE, ...PAGE_KEYS.map((pair) => pair.source)]
+  const sides = [SCRIPT, READER, STORE]
   const bodies = new Map<string, string>()
   for (const relPath of sides) {
     if (bodies.has(relPath)) continue
@@ -86,16 +78,7 @@ export const statuslineConstants: Check = (repo) => {
   found.set(`ATTRIBUTES in ${STORE}`, capture(bodies.get(STORE) as string, STORE_ATTRIBUTES))
   found.set(`ASSIGNMENTS in ${STORE}`, capture(bodies.get(STORE) as string, STORE_ASSIGNMENTS))
   found.set(`SEAT_RENDER in ${SCRIPT}`, capture(bodies.get(SCRIPT) as string, SCRIPT_SLOTS))
-  for (const pair of PAGE_KEYS) {
-    found.set(
-      `${pair.spelled} in ${READER}`,
-      capture(bodies.get(READER) as string, assignment(pair.spelled))
-    )
-    found.set(
-      `${pair.declared} in ${pair.source}`,
-      capture(bodies.get(pair.source) as string, declaration(pair.declared))
-    )
-  }
+  found.set(`STATED in ${READER}`, capture(bodies.get(READER) as string, READER_STATED))
 
   const unreadable = [...found]
     .filter(([, value]) => value === null)
@@ -117,21 +100,15 @@ export const statuslineConstants: Check = (repo) => {
   if (renders !== declares) {
     messages.push(refusalText("statusline-slots-disagree", { renders, declares }, root))
   }
-  for (const pair of PAGE_KEYS) {
-    const spelled = found.get(`${pair.spelled} in ${READER}`) as string
-    const declared = found.get(`${pair.declared} in ${pair.source}`) as string
-    if (spelled === declared) continue
-    messages.push(
-      refusalText(
-        "statusline-page-key-disagrees",
-        { key: pair.spelled, spelled, source: pair.source, declared },
-        root
-      )
-    )
+  const answers = statedKeys(found.get(`STATED in ${READER}`) as string)
+  for (const slot of renderedSlots(found.get(`SEAT_RENDER in ${SCRIPT}`) as string)) {
+    const key = `${slot}-slug`
+    if (answers.has(key)) continue
+    messages.push(refusalText("statusline-slot-unanswerable", { slot, key, reader: READER }, root))
   }
 
   return {
-    ...judge(NAME, `${renders} in \`${READER}\`, over ${PAGE_KEYS.length} page key(s)`, messages),
+    ...judge(NAME, `${renders} in \`${SCRIPT}\`, over ${answers.size} key(s)`, messages),
     population: over(found.size, "constant(s)"),
   }
 }

@@ -8,13 +8,15 @@ if [ -z "$SESSION_ID" ]; then
   exit 0
 fi
 
-TOOLS=$(cd "$(dirname "${BASH_SOURCE[0]}")/../../tools" && pwd -P)
+REPO=$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd -P)
+TOOLS="$REPO/tools"
 BUN_BIN=$(command -v bun || echo "$HOME/.bun/bin/bun")
 
-. "$TOOLS/lib/seat-page-read.sh"
-
-SEAT_FILE=$(seat_page_file "$SESSION_ID")
-AGENT_ID=$(seat_page_value "$SEAT_FILE" id)
+# A SESSION UUID IS ALL THIS IS GIVEN, and `seat-reading` takes it as readily as an agent id. It
+# stands in akasha and reads the seat page there, so the shell parser this used to source — the last
+# of the three that could not see a flat scalar — has no callers left.
+AGENT_ID=$("$BUN_BIN" "$REPO/akasha/seat-system/seat-reading/seat-reading.module.code.ts" \
+  "$SESSION_ID" id 2>/dev/null || true)
 
 if [ -z "$AGENT_ID" ]; then
   echo '{}'
