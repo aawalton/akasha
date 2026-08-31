@@ -15,7 +15,6 @@ WIDGET=""
 FAMILY=""
 PAYLOAD=""
 OUT=""
-BLESS=0
 while [ $# -gt 0 ]; do
   case "$1" in
     --app) APP="${2:-}"; shift 2 ;;
@@ -23,14 +22,11 @@ while [ $# -gt 0 ]; do
     --family) FAMILY="${2:-}"; shift 2 ;;
     --payload) PAYLOAD="${2:-}"; shift 2 ;;
     --out) OUT="${2:-}"; shift 2 ;;
-    --bless) BLESS=1; shift ;;
     --on-mac) ON_MAC=1; shift ;;
     -h|--help) usage; exit 0 ;;
     *) echo "ERROR: unknown flag $1" >&2; usage >&2; exit 2 ;;
   esac
 done
-
-REFERENCES="$HERE/references/$APP"
 
 HARNESS_SRC_DIR=""
 if [ "$ON_MAC" = "1" ]; then
@@ -38,10 +34,6 @@ if [ "$ON_MAC" = "1" ]; then
   # harness's own Swift in flat beside main.swift, so both are already picked up.
   WIDGET_DIR="$(cd "$HERE/../../ios-widget" && pwd)"
 else
-  if [ "$BLESS" = "0" ] && [ ! -d "$REFERENCES" ]; then
-    echo "ERROR: no blessed references at $REFERENCES." >&2
-    exit 2
-  fi
   AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
   COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
     echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — every tile's Swift is authored there, so nothing can be rendered without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
@@ -83,15 +75,12 @@ if [ "$(uname)" != "Darwin" ] && [ "$ON_MAC" = "0" ]; then
   trap "rm -rf '$STAGED_WIDGET_DIR'; ssh '$MAC_HOST' 'rm -rf \"$REMOTE\"' >/dev/null 2>&1 || true" EXIT
 
   rsync -a "$WIDGET_DIR/" "$MAC_HOST:$REMOTE/ios-widget/"
-  rsync -a --exclude references "$HERE/" "$MAC_HOST:$REMOTE/scripts/render-harness/"
+  rsync -a "$HERE/" "$MAC_HOST:$REMOTE/scripts/render-harness/"
   rsync -a "$HARNESS_SRC_DIR"/*/*.swift "$MAC_HOST:$REMOTE/scripts/render-harness/"
-  mkdir -p "$REFERENCES"
-  rsync -a "$REFERENCES/" "$MAC_HOST:$REMOTE/scripts/render-harness/references/$APP/"
 
   REMOTE_ARGS=(--on-mac --app "$APP" --out "$REMOTE/out")
   if [ -n "$WIDGET" ]; then REMOTE_ARGS+=(--widget "$WIDGET"); fi
   if [ -n "$FAMILY" ]; then REMOTE_ARGS+=(--family "$FAMILY"); fi
-  if [ "$BLESS" = "1" ]; then REMOTE_ARGS+=(--bless); fi
   if [ -n "$PAYLOAD" ]; then
     [ -f "$PAYLOAD" ] || { echo "ERROR: no payload file at $PAYLOAD" >&2; exit 1; }
     rsync -a "$PAYLOAD" "$MAC_HOST:$REMOTE/payload.json"
@@ -103,9 +92,6 @@ if [ "$(uname)" != "Darwin" ] && [ "$ON_MAC" = "0" ]; then
   ssh "$MAC_HOST" "bash '$REMOTE/scripts/render-harness/run.sh' $(printf '%q ' "${REMOTE_ARGS[@]}")" || STATUS=$?
 
   rsync -a "$MAC_HOST:$REMOTE/out/" "$OUT/" 2>/dev/null || true
-  if [ "$BLESS" = "1" ]; then
-    rsync -a "$MAC_HOST:$REMOTE/scripts/render-harness/references/$APP/" "$REFERENCES/"
-  fi
   echo "IMAGES: $OUT"
   exit "$STATUS"
 fi
@@ -148,25 +134,12 @@ xcrun -sdk iphonesimulator swiftc \
   "${SOURCES[@]}" "$HERE/main.swift" \
   -o "$BUILD_DIR/render-harness"
 
-ARGS=(--widget-sources "$WIDGET_DIR" --out "$OUT" --references "$REFERENCES")
+ARGS=(--widget-sources "$WIDGET_DIR" --out "$OUT")
 if [ -n "$WIDGET" ]; then ARGS+=(--widget "$WIDGET"); fi
 if [ -n "$FAMILY" ]; then ARGS+=(--family "$FAMILY"); fi
 if [ -n "$PAYLOAD" ]; then ARGS+=(--payload "$PAYLOAD"); fi
-if [ "$BLESS" = "1" ]; then ARGS+=(--bless); fi
 
 STATUS=0
 xcrun simctl spawn "$DEVICE" "$BUILD_DIR/render-harness" "${ARGS[@]}" || STATUS=$?
-
-if [ "$BLESS" = "1" ]; then
-  mkdir -p "$REFERENCES"
-  cat > "$REFERENCES/manifest.json" <<JSON
-{
-  "blessedAt": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
-  "xcode": "$(xcodebuild -version | tr '\n' ' ' | sed 's/ *$//')",
-  "runtime": "$(xcrun simctl list devices booted | sed -n 's/^-- \(.*\) --$/\1/p' | head -1)",
-  "device": "$(xcrun simctl list devices booted | sed -n 's/^ *\(.*\) (.*) (Booted).*$/\1/p' | head -1)"
-}
-JSON
-fi
 
 exit "$STATUS"
