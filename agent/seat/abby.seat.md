@@ -9,4 +9,5 @@ role-slug: interviewer
 person-slug: alan
 start-mode: interactive
 registration-account: aawalton
+claude-code-session-uuid: c3b363f8-bf70-4129-98a2-0c2f7b54e855
 ---
