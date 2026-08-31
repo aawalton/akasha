@@ -4,6 +4,7 @@ import {
   textAt,
   type Value,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { propertiesOf } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
@@ -51,12 +52,6 @@ export function whyRefused(propertySlug: string, said: string): string | null {
   return null
 }
 
-export function addressesIn(held: unknown): readonly string[] {
-  if (typeof held === "string") return [held]
-  if (!Array.isArray(held)) return []
-  return held.filter((one): one is string => typeof one === "string")
-}
-
 export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
   const held = new Map<string, readonly Keyed[]>()
   return (pageTypeSlug) => {
@@ -76,7 +71,7 @@ export function reasonsIn(path: string, value: Value, keying: Keying): readonly 
   if (kind === null) return []
   const said: Judged[] = []
   for (const one of keying(kind)) {
-    for (const address of addressesIn(value[one.key])) {
+    for (const address of namesIn(value[one.key])) {
       const why = whyRefused(one.propertySlug, address)
       if (why !== null) said.push({ path, reason: why })
     }
