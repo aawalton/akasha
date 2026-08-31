@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { noPathsFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { claiming, declaring, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
@@ -16,6 +17,7 @@ afterAll(scratch.sweep)
 
 function rooted(fileProperties: readonly string[] = ["code", "test"]): string {
   const root = scratch.rootFor("akasha-claimed-")
+  noPathsFiled(root)
   for (const one of KINDS) {
     stands(root, "page-type", one, `${ID.slice(0, -1)}${one.length}`)
   }

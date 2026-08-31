@@ -2,10 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import type { SourceFile } from "typescript"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { noneOfTypeFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
 import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
 import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"
+
+const RULE = "syntax-rule"
 
 const scratch = scratchWorld()
 
@@ -71,5 +74,6 @@ test("what a rule is handed is a parse of the text it was given", () => {
 
 test("a root where no syntax rule stands is refused, never answered clean", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
+  noneOfTypeFiled(root, RULE)
   expect(() => rulesIn(root, shadowAt(root))).toThrow(/no syntax rule stands/)
 })
