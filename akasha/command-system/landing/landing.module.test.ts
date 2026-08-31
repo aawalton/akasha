@@ -151,7 +151,6 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, CARRIED, "held", ADMITS)
-  landing(root, [{ path: "akasha/domain.page-type.ts", body: bytes(TYPE) }], "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)

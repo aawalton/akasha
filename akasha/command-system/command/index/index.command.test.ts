@@ -52,11 +52,30 @@ function bodyOf(value: Readonly<Record<string, unknown>>): string {
   return `export const held = ${JSON.stringify(value)}\n`
 }
 
+function typed(said: string, slug: string, above: string | null, declares: readonly string[] = []) {
+  const properties = declares.map((one) => ({
+    pagePropertySlug: one,
+    required: false,
+    many: false,
+  }))
+  return bodyOf({
+    id: `01a04de1-2000-7000-8000-0000000000${said}`,
+    pageTypeSlug: "page-type",
+    slug,
+    extendsSlug: above,
+    properties,
+  })
+}
+
 const PAGES: Readonly<Record<string, string>> = {
+  "akasha/page.page-type.ts": typed("11", "page", null, ["id", "slug"]),
+  "akasha/page-type.page-type.ts": typed("12", "page-type", "page-type/page"),
+  "akasha/page-property.page-type.ts": typed("13", "page-property", "page-type/page"),
   "akasha/domain.page-type.ts": bodyOf({
     id: TYPE_ID,
     pageTypeSlug: "page-type",
     slug: "domain",
+    extendsSlug: "page-type/page",
   }),
   "akasha/text-property.page-type.ts": bodyOf(textProperty),
   "akasha/id.text-property.ts": bodyOf(idPage),

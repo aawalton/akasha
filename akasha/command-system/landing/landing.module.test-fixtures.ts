@@ -54,9 +54,35 @@ export const ID = "01a04e11-0000-7000-8000-000000000001"
 
 export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
 
-export const TYPE =
-  'export const domain = { id: "01a04e11-0000-7000-8000-000000000002",' +
-  ' pageTypeSlug: "page-type", slug: "domain", extendsSlug: "page" }\n'
+function typed(
+  said: string,
+  slug: string,
+  above: string | null,
+  declares: readonly string[] = []
+): string {
+  const properties = declares.map((one) => ({
+    pagePropertySlug: one,
+    required: false,
+    many: false,
+  }))
+  const value = {
+    id: `01a04e11-0000-7000-8000-0000000000${said}`,
+    pageTypeSlug: "page-type",
+    slug,
+    extendsSlug: above,
+    properties,
+  }
+  return `export const held = ${JSON.stringify(value)}\n`
+}
+
+export const TYPE = typed("02", "domain", "page-type/page")
+
+const VOCABULARY: readonly (readonly [string, string])[] = [
+  ["akasha/page.page-type.ts", typed("11", "page", null, ["id", "slug"])],
+  ["akasha/page-type.page-type.ts", typed("12", "page-type", "page-type/page")],
+  ["akasha/page-property.page-type.ts", typed("13", "page-property", "page-type/page")],
+  ["akasha/domain.page-type.ts", TYPE],
+]
 
 export const LINE = `{"path":"akasha/a.domain.ts","id":"${ID}"}`
 
@@ -65,7 +91,10 @@ export const identityAmong = (found: readonly string[]): readonly string[] =>
 
 const REAL: readonly Value[] = [textProperty, idPage, slugPage]
 
-export const CARRIED: readonly FileEdit[] = REAL.map((page) => {
-  const [at, value] = thePage(page)
-  return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
-})
+export const CARRIED: readonly FileEdit[] = [
+  ...VOCABULARY.map(([path, body]) => ({ path, body: bytesOf(body) })),
+  ...REAL.map((page) => {
+    const [at, value] = thePage(page)
+    return { path: join("akasha", at), body: bytesOf(bodyOf(value)) }
+  }),
+]

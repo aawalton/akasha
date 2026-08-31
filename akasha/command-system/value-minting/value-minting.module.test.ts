@@ -42,6 +42,13 @@ const TYPE_BODY =
 
 const WIDGET_BODY = 'export const one = { pageTypeSlug: "widget", slug: "one" }\n'
 
+const PAGE_TYPE_AT = "akasha/page-type.page-type.ts"
+
+const PAGE_TYPE_BODY =
+  `export const held = { id: "${TYPE_ID}", pageTypeSlug: "page-type", slug: "page-type",` +
+  ' extendsSlug: null, properties: [{ pagePropertySlug: "id", required: true, many: false },' +
+  ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
+
 function property(
   root: string,
   slug: string,
@@ -84,6 +91,8 @@ function rooted(generator: string | null): string {
   kind(root, "uuid-v7", false)
   kind(root, "held", true)
   standingFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: HELD_ID }])
+  put(root, PAGE_TYPE_AT, PAGE_TYPE_BODY)
+  standingFiled(root, "page-type", "page-type", [{ path: PAGE_TYPE_AT, id: TYPE_ID }])
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@akasha"])
   gitIn(root, ["config", "user.name", "held"])
