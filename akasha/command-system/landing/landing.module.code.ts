@@ -3,7 +3,6 @@ import { dirname, join } from "node:path"
 import type { Judged, Judging } from "../../checks-system/judging/judging.module.code.ts"
 import { textIn, textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, gitIn } from "../committing/committing.module.code.ts"
 import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
@@ -149,7 +148,7 @@ function indexed(
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): readonly string[] {
-  const held = keeping(indexIn(root), root)
+  const held = keeping(root)
   for (const one of changed) {
     const was = textOf(before.get(one.path) ?? null)
     if (one.body === null) held.took(one.path, was)

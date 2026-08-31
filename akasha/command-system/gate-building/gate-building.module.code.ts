@@ -38,14 +38,14 @@ function checkingLoaded(): Checking {
   return held as Checking
 }
 
-export type Keeping = (root: string, repo: string) => Indexing
+export type Keeping = (repo: string) => Indexing
 
 export function indexingLoaded(): Keeping {
-  const held = loadFrom(INDEXING) as { readonly indexingAt?: unknown }
-  if (typeof held.indexingAt !== "function") {
-    throw new Error(`${INDEXING_AT} answers to no \`indexingAt\` the index is kept by`)
+  const held = loadFrom(INDEXING) as { readonly keepingIn?: unknown }
+  if (typeof held.keepingIn !== "function") {
+    throw new Error(`${INDEXING_AT} answers to no \`keepingIn\` the index is kept by`)
   }
-  return held.indexingAt as Keeping
+  return held.keepingIn as Keeping
 }
 
 export function gateBuilt(root: string): Built {

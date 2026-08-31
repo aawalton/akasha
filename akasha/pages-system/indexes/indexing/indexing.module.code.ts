@@ -31,7 +31,7 @@ import {
   uniquePropertiesIn,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, indexIn, readingIn } from "../index-reading/index-reading.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
 import {
   type Filing,
@@ -372,6 +372,10 @@ export function readingOver(
 ): Reading {
   const under = readingIn(root)
   return overlaidOn(under, settlingOver(under, root, moving, pageOf).filings)
+}
+
+export function keepingIn(repo: string): Indexing {
+  return indexingAt(indexIn(repo), repo)
 }
 
 export function indexingAt(root: string, repo: string): Indexing {
