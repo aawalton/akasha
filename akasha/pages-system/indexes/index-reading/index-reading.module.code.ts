@@ -8,7 +8,14 @@ import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { staleFor } from "../index-stamp/index-stamp.module.code.ts"
-import { beneath, readingAt, readingOf } from "../index-surface/index-surface.module.code.ts"
+import {
+  beneath,
+  INDEX_AT,
+  indexAt,
+  indexIn,
+  readingAt,
+  readingOf,
+} from "../index-surface/index-surface.module.code.ts"
 
 export type Standing = {
   readonly path: string
@@ -22,8 +29,6 @@ export type Schema = {
   readonly slug: string | null
   readonly propertySlug: string | null
 }
-
-const INDEX_AT = ".git/data/index"
 
 const IDENTITY = indexIdentity.indexName
 
@@ -49,20 +54,12 @@ const AT_PATH = "path"
 
 const NAMING_NONE = "an index that is missing is not an index naming none"
 
-export function indexIn(root: string): string {
-  return join(root, INDEX_AT)
-}
-
 export function indexNamed(): string {
   return INDEX_AT
 }
 
 export function indexStanding(given: string | Reading): boolean {
   return readingIn(given).holds("")
-}
-
-export function indexAt(indexName: string, ...parts: readonly string[]): string {
-  return join(INDEX_AT, indexName, ...parts)
 }
 
 export function readingIn(given: string | Reading): Reading {

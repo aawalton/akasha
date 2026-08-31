@@ -5,7 +5,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { put, stands } from "../../../testing-system/putting/putting.module.code.ts"
 import { shadowAt, shadowFor } from "../../shadow/shadow.module.code.ts"
-import { indexIn } from "../index-reading/index-reading.module.code.ts"
+import { indexIn } from "../index-surface/index-surface.module.code.ts"
 import { generatedProperties, waitingProperties } from "./generated-properties.module.code.ts"
 
 const scratch = scratchWorld()

@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { indexIn } from "../index-reading/index-reading.module.code.ts"
 import { type Stamp, stampIn } from "../index-stamp/index-stamp.module.code.ts"
+import { indexIn } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 
 const ASIDE = "refreshing"

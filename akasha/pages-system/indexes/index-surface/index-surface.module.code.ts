@@ -4,6 +4,16 @@ import type { Filing, Listed, Reading } from "../index-shape/index-shape.module.
 
 const SLASH = "/"
 
+export const INDEX_AT = ".git/data/index"
+
+export function indexIn(root: string): string {
+  return join(root, INDEX_AT)
+}
+
+export function indexAt(indexName: string, ...parts: readonly string[]): string {
+  return join(INDEX_AT, indexName, ...parts)
+}
+
 export function readingAt(index: string): Reading {
   return {
     holds: (at) => existsSync(join(index, at)),

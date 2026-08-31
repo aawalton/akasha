@@ -32,10 +32,15 @@ import {
   uniquePropertiesIn,
   valueAt,
 } from "../index-entries/index-entries.module.code.ts"
-import { everyPath, indexIn, readingIn } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, readingIn } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"
 import { stampBuilt, stampSettled } from "../index-stamp/index-stamp.module.code.ts"
-import { overlaidOn, readingAt, readingOf } from "../index-surface/index-surface.module.code.ts"
+import {
+  indexIn,
+  overlaidOn,
+  readingAt,
+  readingOf,
+} from "../index-surface/index-surface.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 
 const IDENTITY = indexIdentity.indexName

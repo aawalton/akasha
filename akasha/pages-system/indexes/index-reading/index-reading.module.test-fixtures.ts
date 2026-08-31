@@ -22,9 +22,9 @@ import {
   stampKept,
   stampTaken,
 } from "../index-stamp/index-stamp.module.code.ts"
-import { overlaidOn } from "../index-surface/index-surface.module.code.ts"
+import { indexIn, overlaidOn } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
-import { indexIn, readingIn } from "./index-reading.module.code.ts"
+import { readingIn } from "./index-reading.module.code.ts"
 
 const ENDING = ".jsonl"
 
