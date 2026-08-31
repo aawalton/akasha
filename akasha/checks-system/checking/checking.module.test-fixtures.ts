@@ -120,7 +120,7 @@ const INPUT_TS =
   "}\n" +
   'wakesTs.isInput = (path) => path.endsWith(".ts")\n'
 
-const WAKES_PAGES =
+const INPUT_PAGES =
   `import { PAGES } from "${WALKING_AT}"\n` +
   "export function wakesPages(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "a page woke" }))\n' +
@@ -146,7 +146,7 @@ export const WAKING_THROWS_CHECKS = [
 ]
 
 const PAGE_CHECKS = [
-  { slug: "wakes-pages", runsOn: ["patch"], body: WAKES_PAGES },
+  { slug: "wakes-pages", runsOn: ["patch"], body: INPUT_PAGES },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
 
