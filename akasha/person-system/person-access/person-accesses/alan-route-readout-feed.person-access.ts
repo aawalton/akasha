@@ -6,5 +6,5 @@ export const alanRouteReadoutFeed = {
   slug: "alan-route-readout-feed",
   personSlug: "alan",
   accessKind: "route",
-  personAccessTarget: "readout-feed",
+  target: "readout-feed",
 } as const satisfies PersonAccess

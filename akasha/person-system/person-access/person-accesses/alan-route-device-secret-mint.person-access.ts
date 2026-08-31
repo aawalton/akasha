@@ -6,5 +6,5 @@ export const alanRouteDeviceSecretMint = {
   slug: "alan-route-device-secret-mint",
   personSlug: "alan",
   accessKind: "route",
-  personAccessTarget: "device-secret-mint",
+  target: "device-secret-mint",
 } as const satisfies PersonAccess

@@ -8,7 +8,7 @@ import type { Target } from "./properties/person-access-target.text-property.ts"
 export type PersonAccess = Page & {
   personSlug: PersonSlug
   accessKind: AccessKind
-  personAccessTarget: Target
+  target: Target
   personAccessServes?: Serves
 }
 

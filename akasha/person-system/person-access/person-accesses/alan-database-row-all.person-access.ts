@@ -6,5 +6,5 @@ export const alanDatabaseRowAll = {
   slug: "alan-database-row-all",
   personSlug: "alan",
   accessKind: "database-row",
-  personAccessTarget: "all",
+  target: "all",
 } as const satisfies PersonAccess
