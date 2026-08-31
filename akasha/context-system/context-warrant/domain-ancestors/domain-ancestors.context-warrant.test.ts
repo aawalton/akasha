@@ -88,7 +88,7 @@ test("a chain that turns back on itself is walked once", () => {
   const two = domain(root, "two")
   names(root, one, two)
   names(root, two, one)
-  const at = seat(root, "seat-one", `assignmentSlug: "domain/one"`)
+  const at = seat(root, "alpha", `assignmentSlug: "domain/one"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([two.path])
 })
 
