@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "The new system carries every check of the old system that still applies.",
       workingMemory:
-        "Ten old scanners stand as syntax rules under `no-refused-syntax`; `no-mutable-collection` was built, measured and retired to a finding. Nine rules judge at every phase over 1144 files with nothing refused. Eighty scanner files are unported, in `infra/cluster-checks/src/checks/`. A whole-tree count is rebuilt by loading each rule from the rules directory and walking every `.ts` under `akasha/`. Each port is a ruling for Alan on whether the rule still applies here.",
+        "Ninety old scanners: 11 already carried, 12 hold no rule, 49 judge what has no subject under `akasha/` and wait on the migration, 18 had a subject and are all settled. Carried: no-non-null-assertion, no-angle-bracket-cast, manifest-names-what-is-reached, shell-clean, the property-id taboo term. The other 13 were left, most having nothing here to judge. Twenty-one of the ninety cannot run at all, the graph layer they read being deleted. Resume at the 49 once the migration reaches them.",
     },
     { statement: "The old system carries no check." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
