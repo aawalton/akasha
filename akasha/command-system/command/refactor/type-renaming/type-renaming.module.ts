@@ -26,7 +26,16 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A plural is taken from the caller rather than worked out from the slug.",
+      statement: "The plural a page type becomes is taken from the caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The plural it carries now is read off its own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type whose plural cannot be read is refused rather than renamed without it.",
     },
     {
       invariantKind: "departure",
@@ -44,6 +53,11 @@ export const typeRenaming = {
     {
       invariantKind: "departure",
       statement: "The folder a page type stands in is named for it and moves with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The folder holding many of its pages is named for its plural and moves with that.",
     },
     {
       invariantKind: "departure",

@@ -9,6 +9,8 @@ import { exportedAs } from "../../../../pages-system/page/page-export-name/page-
 
 const PAGE_TYPE = "page-type"
 
+const PLURAL = "pluralSlug"
+
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
 export type Renaming = {
@@ -16,6 +18,7 @@ export type Renaming = {
   readonly path: string
   readonly was: string
   readonly now: string
+  readonly wasPlural: string
   readonly plural: string
 }
 
@@ -37,7 +40,8 @@ export function renamingFor(
   given: Parameters<typeof standingAt>[0],
   from: string,
   to: string,
-  plural: string
+  plural: string,
+  textOf: (path: string) => string | null
 ): Asked {
   for (const [said, named] of [
     [from, "the slug renamed"],
@@ -68,7 +72,17 @@ export function renamingFor(
   if (standingAt(given, PAGE_TYPE, to).length > 0) {
     return { refused: `a page type already carries the slug \`${to}\`` }
   }
-  return { renaming: { id: one.id, path: one.path, was: from, now: to, plural } }
+  const text = textOf(one.path)
+  if (text === null) {
+    return { refused: `${one.path} carries the slug \`${from}\` and its body could not be read` }
+  }
+  const wasPlural = statedAs(one.path, text, PLURAL)
+  if (wasPlural === null) {
+    return {
+      refused: `${one.path} states no \`${PLURAL}\`, so the folder holding its pages is unnamed`,
+    }
+  }
+  return { renaming: { id: one.id, path: one.path, was: from, now: to, wasPlural, plural } }
 }
 
 export type Spot = { readonly start: number; readonly end: number }
@@ -76,21 +90,29 @@ export type Spot = { readonly start: number; readonly end: number }
 export type Stated = {
   readonly name: Spot
   readonly keyed: ReadonlyMap<string, Spot>
+  readonly said: ReadonlyMap<string, string>
+}
+
+type Keyed = {
+  readonly keyed: Map<string, Spot>
+  readonly said: Map<string, string>
 }
 
 function keyedIn(
   source: ts.SourceFile,
   held: ts.ObjectLiteralExpression,
   keys: ReadonlySet<string>
-): ReadonlyMap<string, Spot> {
-  const found = new Map<string, Spot>()
+): Keyed {
+  const keyed = new Map<string, Spot>()
+  const said = new Map<string, string>()
   for (const one of held.properties) {
     if (!ts.isPropertyAssignment(one)) continue
     const key = ts.isIdentifier(one.name) || ts.isStringLiteral(one.name) ? one.name.text : null
     if (key === null || !keys.has(key) || !ts.isStringLiteral(one.initializer)) continue
-    found.set(key, { start: one.initializer.getStart(source), end: one.initializer.getEnd() })
+    keyed.set(key, { start: one.initializer.getStart(source), end: one.initializer.getEnd() })
+    said.set(key, one.initializer.text)
   }
-  return found
+  return { keyed, said }
 }
 
 export function statedIn(path: string, text: string, keys: readonly string[]): Stated | null {
@@ -102,16 +124,22 @@ export function statedIn(path: string, text: string, keys: readonly string[]): S
       if (one.initializer === undefined || !ts.isIdentifier(one.name)) continue
       const held = literalOf(one.initializer)
       if (held === null) continue
+      const found = keyedIn(source, held, wanted)
       return {
         name: { start: one.name.getStart(source), end: one.name.getEnd() },
-        keyed: keyedIn(source, held, wanted),
+        keyed: found.keyed,
+        said: found.said,
       }
     }
   }
   return null
 }
 
-function splicedIn(text: string, said: readonly (readonly [Spot, string])[]): string {
+export function statedAs(path: string, text: string, key: string): string | null {
+  return statedIn(path, text, [key])?.said.get(key) ?? null
+}
+
+export function splicedIn(text: string, said: readonly (readonly [Spot, string])[]): string {
   let out = ""
   let at = 0
   for (const [spot, held] of [...said].sort((one, two) => one[0].start - two[0].start)) {
@@ -153,11 +181,20 @@ function dirOf(path: string): string {
 }
 
 export function typePageRenamed(one: Renaming): Carry {
-  const cut = one.path.lastIndexOf("/")
-  const dir = cut < 0 ? "" : one.path.slice(0, cut)
+  const dir = dirOf(one.path)
   const named = `${one.now}.${PAGE_TYPE}.ts`
   const held = dir.endsWith(`/${one.was}`) ? `${dir.slice(0, -one.was.length)}${one.now}` : dir
   return { from: one.path, to: held === "" ? named : `${held}/${named}` }
+}
+
+export function relocated(path: string, one: Renaming, under: string, moved: string): string {
+  if (!path.startsWith(under)) return path
+  const rest = path.slice(under.length)
+  const said = `${one.wasPlural}/`
+  if (one.wasPlural !== one.plural && rest.startsWith(said)) {
+    return `${moved}${one.plural}/${rest.slice(said.length)}`
+  }
+  return `${moved}${rest}`
 }
 
 export function carriesFor(
@@ -165,20 +202,14 @@ export function carriesFor(
   one: Renaming,
   standing: (path: string) => boolean
 ): readonly Carry[] {
-  const found = new Map<string, string>()
   const type = typePageRenamed(one)
-  found.set(type.from, type.to)
+  const found = new Map<string, string>([[type.from, type.to]])
   const under = `${dirOf(one.path)}/`
   const moved = `${dirOf(type.to)}/`
   for (const path of everyPathAnswered(root)) {
     if (path === one.path || !standing(path)) continue
-    const tailed = tailRenamed(path, one)
-    const held = tailed ?? path
-    if (under !== moved && held.startsWith(under)) {
-      found.set(path, `${moved}${held.slice(under.length)}`)
-      continue
-    }
-    if (tailed !== null) found.set(path, tailed)
+    const there = relocated(tailRenamed(path, one) ?? path, one, under, moved)
+    if (there !== path) found.set(path, there)
   }
   return [...found]
     .filter(([from, to]) => from !== to)

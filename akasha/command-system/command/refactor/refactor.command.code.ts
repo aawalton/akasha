@@ -1,7 +1,10 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
+import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
 import { carriesFor, pagesOf, renamingFor } from "./type-renaming/type-renaming.module.code.ts"
 
 const RENAME = "rename"
@@ -47,7 +50,12 @@ export function flagsIn(argv: readonly string[]): Read {
 }
 
 function planned(root: string, from: string, to: string, plural: string): Answer {
-  const asked = renamingFor(root, from, to, plural)
+  const stood = baseOf(root)
+  const bodyText = (path: string): string | null => {
+    const bytes = bodyAt(root, stood, path)
+    return bytes === null ? null : textOf(bytes)
+  }
+  const asked = renamingFor(root, from, to, plural, bodyText)
   if ("refused" in asked) return answering([], [asked.refused], 1)
   const one = asked.renaming
   const carries = carriesFor(root, one, (path) => existsSync(join(root, path)))
