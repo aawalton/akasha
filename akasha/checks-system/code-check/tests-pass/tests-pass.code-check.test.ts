@@ -119,7 +119,7 @@ test("a file the index files no test beside is no input to the check", () => {
   expect(asleep.map((path) => testsPass.isInput(path, shadow))).toEqual([false, false, false])
 })
 
-test("a test wakes the check by standing beside itself", () => {
+test("a test is input to the check by standing beside itself", () => {
   const root = repo({})
   expect(testsPass.isInput("akasha/new.module.test.ts", shadowAt(root))).toBe(true)
 })
