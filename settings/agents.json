@@ -42,7 +42,7 @@
   },
   "statusLine": {
     "type": "command",
-    "command": "bash $HOME/repos/akasha/tools/statusline.sh"
+    "command": "bash $HOME/repos/akasha/akasha/code-system/shell-script/shell-scripts/statusline.shell-script.shell.sh"
   },
   "fastMode": false,
   "skipDangerousModePermissionPrompt": true,

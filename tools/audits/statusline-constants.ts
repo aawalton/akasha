@@ -5,7 +5,7 @@ import { refusalText } from "../../refusal/refusal.ts"
 
 const NAME = "statusline-constants"
 
-const SCRIPT = "tools/statusline.sh"
+const SCRIPT = "akasha/code-system/shell-script/shell-scripts/statusline.shell-script.shell.sh"
 
 const READER = "tools/lib/seat-page-read.sh"
 
