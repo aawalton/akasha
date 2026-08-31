@@ -7,10 +7,7 @@ export const athenaSeatMigration = {
   domainSlug: "workspace-package/seat-system",
   personaSlug: "athena",
   parentSlug: "akasha-seats",
-  intents: [
-    { statement: "A seat survives its own restart." },
-    { statement: "No seat and nothing beside a seat stand outside akasha." },
-  ],
+  intents: [{ statement: "No seat and nothing beside a seat stand outside akasha." }],
   constraints: [
     "An akasha file imports nothing tracked from outside, and the `imports-inside` check refuses one that tries.",
     "A seat writes its page as it works rather than being backfilled.",

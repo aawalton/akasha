@@ -81,6 +81,10 @@ export const seatSystem = {
         "A supervisor restarts onto current code without interrupting the session it holds.",
     },
     {
+      invariantKind: "departure",
+      statement: "A seat survives its own restart.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A seat outlives the editor showing it and the agent sitting in it.",
     },
