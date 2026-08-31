@@ -6,4 +6,5 @@ export const stageWebEntry = {
   slug: "stage-web-entry",
   definition: "the page a shell boots, put where Capacitor serves it",
   shell: "sh",
+  sourced: false,
 } as const satisfies ShellScript

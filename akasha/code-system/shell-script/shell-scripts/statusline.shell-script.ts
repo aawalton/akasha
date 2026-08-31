@@ -6,6 +6,7 @@ export const statusline = {
   slug: "statusline",
   definition: "the line under an agent's prompt saying what it is and what it holds",
   shell: "sh",
+  sourced: false,
   invariants: [
     {
       invariantKind: "departure",

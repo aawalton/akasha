@@ -6,4 +6,5 @@ export const smilingjennyIosSeamPlugins = {
   slug: "smilingjenny-ios-seam-plugins",
   definition: "the plugins appended to Jenny's app delegate",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

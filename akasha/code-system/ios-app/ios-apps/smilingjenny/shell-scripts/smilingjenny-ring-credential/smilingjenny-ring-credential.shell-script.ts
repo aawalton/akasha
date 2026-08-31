@@ -6,4 +6,5 @@ export const smilingjennyRingCredential = {
   slug: "smilingjenny-ring-credential",
   definition: "the credential Jenny's ring reads its route with, baked into her build",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

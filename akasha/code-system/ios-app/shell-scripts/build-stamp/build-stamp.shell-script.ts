@@ -6,4 +6,5 @@ export const buildStamp = {
   slug: "build-stamp",
   definition: "the commit a binary was built from, put where the cut gate reads it",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

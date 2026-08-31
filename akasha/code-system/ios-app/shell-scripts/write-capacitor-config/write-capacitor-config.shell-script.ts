@@ -6,4 +6,5 @@ export const writeCapacitorConfig = {
   slug: "write-capacitor-config",
   definition: "the bundle id and display name put into a shell's Capacitor config",
   shell: "sh",
+  sourced: false,
 } as const satisfies ShellScript

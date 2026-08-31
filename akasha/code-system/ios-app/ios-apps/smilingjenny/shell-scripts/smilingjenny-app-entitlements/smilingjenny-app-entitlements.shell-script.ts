@@ -6,4 +6,5 @@ export const smilingjennyAppEntitlements = {
   slug: "smilingjenny-app-entitlements",
   definition: "the entitlements Jenny's app signs with",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

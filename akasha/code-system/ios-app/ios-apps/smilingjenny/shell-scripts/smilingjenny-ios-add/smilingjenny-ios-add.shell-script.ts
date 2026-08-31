@@ -6,4 +6,5 @@ export const smilingjennyIosAdd = {
   slug: "smilingjenny-ios-add",
   definition: "the run that generates Jenny's native project and applies her seam",
   shell: "sh",
+  sourced: false,
 } as const satisfies ShellScript

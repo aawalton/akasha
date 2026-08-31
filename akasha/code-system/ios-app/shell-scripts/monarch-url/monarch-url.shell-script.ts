@@ -6,4 +6,5 @@ export const monarchUrl = {
   slug: "monarch-url",
   definition: "the Monarch link a tile's tap opens",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

@@ -6,4 +6,5 @@ export const widgetComponents = {
   slug: "widget-components",
   definition: "the components a program compiles, copied in beside it",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript

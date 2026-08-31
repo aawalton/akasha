@@ -6,4 +6,5 @@ export const smilingjennyWidgetTarget = {
   slug: "smilingjenny-widget-target",
   definition: "the widget extension target written into Jenny's Xcode project",
   shell: "sh",
+  sourced: true,
 } as const satisfies ShellScript
