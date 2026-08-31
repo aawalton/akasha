@@ -32,5 +32,21 @@ export const akashaRequiredReading = {
       statement:
         "What a seat must read is worked out from what its page states rather than listed.",
     },
+    {
+      invariantKind: "gap",
+      statement: "No reading an agent needs falls outside the warrants.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "What a seat must read is the same however much of it fits in one answer.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A seat assigned an initiative reads that initiative's type.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A seat assigned an initiative reads the persona that initiative states.",
+    },
   ],
 } as const satisfies Domain
