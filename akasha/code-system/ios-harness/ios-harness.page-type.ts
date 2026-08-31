@@ -1,9 +1,11 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { Swift } from "../ios-component/properties/swift.file-property.ts"
+import type { Main } from "../ios-program/properties/main.named-file-property.ts"
 
 export type IosHarness = Domain & {
-  swift: Swift
+  swift?: Swift
+  main?: Main
 }
 
 export const iosHarness = {
@@ -12,22 +14,20 @@ export const iosHarness = {
   slug: "ios-harness",
   definition: "code that draws an iOS component to be looked at",
   pluralSlug: "ios-harnesses",
-  partSlugs: [
-    "ios-harness/render-harness-cases",
-    "ios-harness/render-harness-cases-categorize",
-    "ios-harness/render-harness-cases-safety",
-    "ios-harness/render-harness-cases-surplus",
-    "ios-harness/render-harness-cases-wide",
-    "ios-harness/render-harness-families",
-    "ios-harness/render-harness-rendering",
-    "ios-harness/render-harness-views",
-  ],
+  partSlugs: ["ios-harness/render-harness", "shell-script/render-harness-run"],
   extendsSlug: "page-type/domain",
-  properties: [{ pagePropertySlug: "swift", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "swift", required: false, many: false },
+    { pagePropertySlug: "main", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A harness's Swift is held in a file beside the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A harness's top level statements stand in the file named main.swift.",
     },
     {
       invariantKind: "absence",
