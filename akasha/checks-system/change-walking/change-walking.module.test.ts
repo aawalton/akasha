@@ -6,9 +6,10 @@ import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   pathFiled,
   pathsTakenFrom,
+  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
   everythingIn,
@@ -18,6 +19,7 @@ import {
   onDisk,
   overEachFile,
   overEachText,
+  PAGES,
   type Selector,
   TEXTS,
 } from "./change-walking.module.code.ts"
@@ -28,7 +30,13 @@ const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
 
 const NOTE_AT = "akasha/checks-system/change-walking/held/held.module.note.md"
 
+const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
+
 const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
+
+const PAGE_TYPE = "page-type"
+
+const MODULE = "module"
 
 const scratch = scratchWorld()
 
@@ -50,6 +58,31 @@ function mixedWorld(): Change {
   writeFileSync(join(root, "note.md"), "note")
   const held = onDisk(root)
   return { root, changed: ["gone.ts", "here.ts", "note.md"], after: held, before: held }
+}
+
+function pagedWorld(): Change {
+  const root = scratch.rootFor("akasha-paging-")
+  mkdirSync(join(root, PAGE_AT.slice(0, PAGE_AT.lastIndexOf("/"))), { recursive: true })
+  writeFileSync(join(root, PAGE_AT), `export const held = { slug: "held" }\n`)
+  writeFileSync(join(root, CODE_AT), `export const HELD = "held"\n`)
+  standingFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
+  const held = onDisk(root)
+  return { root, changed: [CODE_AT, GONE_AT, PAGE_AT], after: held, before: held }
+}
+
+function counting(held: Shadow, asked: () => undefined): Shadow {
+  return {
+    reading: {
+      holds: (at) => held.reading.holds(at),
+      listing: (at) => {
+        asked()
+        return held.reading.listing(at)
+      },
+      lines: (at) => held.reading.lines(at),
+    },
+    pageOf: (path) => held.pageOf(path),
+    codeAt: (path) => held.codeAt(path),
+  }
 }
 
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
@@ -104,6 +137,48 @@ test("the texts selected are TypeScript alone, each one handed over already read
   expect(handed.map((one) => one.text)).toEqual(["here"])
 })
 
+test("the pages selected are the standing files the index names a page type for, already loaded", () => {
+  const change = pagedWorld()
+  const handed = PAGES.from(change, shadowAt(change.root))
+  expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
+  expect(handed.map((one) => one.value.value?.["slug"])).toEqual(["held"])
+})
+
+test("a file whose name tails a property rather than a page type is no page and is not selected", () => {
+  const change = pagedWorld()
+  const shadow = shadowAt(change.root)
+  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.wakesOn(CODE_AT, shadow)).toBe(false)
+})
+
+test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
+  const change = pagedWorld()
+  writeFileSync(join(change.root, PAGE_AT), "export const held = 1\n")
+  const handed = PAGES.from(change, shadowAt(change.root))
+  expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
+  expect(handed.map((one) => [one.value.value, one.value.failed])).toEqual([[null, null]])
+})
+
+test("a page whose body will not load is handed over all the same, carrying why it did not", () => {
+  const change = pagedWorld()
+  writeFileSync(join(change.root, PAGE_AT), "export const held = (((\n")
+  const handed = PAGES.from(change, shadowAt(change.root))
+  expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
+  expect(handed.map((one) => one.value.failed === null)).toEqual([false])
+})
+
+test("the page types are read from a shadow once, however many paths are held against it", () => {
+  const change = pagedWorld()
+  let asked = 0
+  const shadow = counting(shadowAt(change.root), () => {
+    asked = asked + 1
+  })
+  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.wakesOn(CODE_AT, shadow)).toBe(false)
+  expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT])
+  expect(asked).toBe(1)
+})
+
 test("judging each of a selection makes a runner, naming the path each refusal is for", () => {
   const change = mixedWorld()
   const run = judgingEach(TEXTS, (given) => [`${given.path} says ${given.text.length}`])
@@ -113,9 +188,11 @@ test("judging each of a selection makes a runner, naming the path each refusal i
 })
 
 test("a runner made from a selection carries what wakes it, so a gate may ask before it runs", () => {
+  const change = mixedWorld()
+  const shadow = shadowAt(change.root)
   const run = judgingEach(TEXTS, () => [])
-  expect(run.wakesOn("one.ts")).toBe(true)
-  expect(run.wakesOn("one.md")).toBe(false)
+  expect(run.wakesOn("one.ts", shadow)).toBe(true)
+  expect(run.wakesOn("one.md", shadow)).toBe(false)
 })
 
 test("the judge of a selection is handed the index the change leaves, so it may ask of it", () => {
@@ -130,13 +207,13 @@ test("the judge of a selection is handed the index the change leaves, so it may 
 })
 
 test("a selector wakes on every path it hands over, so no path it judges passes a gate unseen", () => {
-  const change = mixedWorld()
+  const change = pagedWorld()
   const shadow = shadowAt(change.root)
-  const every: readonly Selector<{ readonly path: string }>[] = [FILES, TEXTS]
+  const every: readonly Selector<{ readonly path: string }>[] = [FILES, TEXTS, PAGES]
   for (const selector of every) {
     const handed = selector.from(change, shadow)
     expect(handed.length).toBeGreaterThan(0)
-    for (const given of handed) expect(selector.wakesOn(given.path)).toBe(true)
+    for (const given of handed) expect(selector.wakesOn(given.path, shadow)).toBe(true)
   }
 })
 

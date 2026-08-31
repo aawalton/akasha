@@ -1,8 +1,14 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
+import {
+  type Loaded,
+  loadedFrom,
+  pageTypesIn,
+} from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
+import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
@@ -18,7 +24,13 @@ export type Text = {
   readonly text: string
 }
 
-export type Waking = (path: string) => boolean
+export type Paged = {
+  readonly root: string
+  readonly path: string
+  readonly value: Loaded
+}
+
+export type Waking = (path: string, shadow: Shadow) => boolean
 
 export type Selector<T> = {
   readonly named: string
@@ -34,6 +46,8 @@ const TS = "ts"
 
 const TS_ENDING = `.${TS}`
 
+const PAGE_TYPES = new WeakMap<Shadow, ReadonlySet<string>>()
+
 function standingIn(change: Change): readonly Body[] {
   const found: Body[] = []
   for (const path of change.changed) {
@@ -42,6 +56,14 @@ function standingIn(change: Change): readonly Body[] {
     found.push({ root: change.root, path, bytes })
   }
   return found
+}
+
+function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
+  const found = PAGE_TYPES.get(shadow)
+  if (found !== undefined) return found
+  const made = pageTypesIn(shadow.reading)
+  PAGE_TYPES.set(shadow, made)
+  return made
 }
 
 export const FILES: Selector<Body> = {
@@ -58,6 +80,19 @@ export const TEXTS: Selector<Text> = {
     for (const given of standingIn(change)) {
       if (!given.path.endsWith(TS_ENDING)) continue
       found.push({ root: given.root, path: given.path, text: bodyOf(given) })
+    }
+    return found
+  },
+}
+
+export const PAGES: Selector<Paged> = {
+  named: "pages",
+  wakesOn: (path, shadow) => pageNamed(path, pageTypesFor(shadow)),
+  from: (change, shadow) => {
+    const found: Paged[] = []
+    for (const given of standingIn(change)) {
+      if (!pageNamed(given.path, pageTypesFor(shadow))) continue
+      found.push({ root: given.root, path: given.path, value: loadedFrom(bodyOf(given)) })
     }
     return found
   },

@@ -10,7 +10,7 @@ import {
   besideAt,
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
+import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Waking } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
 
@@ -132,11 +132,15 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
-export function checksWoken(every: readonly Gathered[], change: Change): readonly Gathered[] {
+export function checksWoken(
+  every: readonly Gathered[],
+  change: Change,
+  shadow: Shadow
+): readonly Gathered[] {
   return every.filter((one) => {
     const wakes = one.wakesOn
     if (wakes === null) return true
-    return change.changed.some((path) => wakes(path))
+    return change.changed.some((path) => wakes(path, shadow))
   })
 }
 
@@ -150,11 +154,11 @@ function threw(one: Gathered, thrown: unknown): Judged {
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
-    wokenBy: (change) => checksWoken(every, change).map((one) => one.slug),
+    wokenBy: (change) => checksWoken(every, change, shadowAsked(change)).map((one) => one.slug),
     over: (change) => {
       const shadow = shadowAsked(change)
       const said: Judged[] = []
-      for (const one of checksWoken(every, change)) {
+      for (const one of checksWoken(every, change, shadow)) {
         try {
           said.push(...one.run(change, shadow))
         } catch (thrown) {

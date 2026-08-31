@@ -11,6 +11,7 @@ import {
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksIn, checksWoken, judgingBy } from "./checking.module.code.ts"
 
@@ -18,7 +19,22 @@ const CHECK = "code-check"
 
 const PAGE = "page"
 
+const PAGE_TYPE = "page-type"
+
+const MODULE = "module"
+
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
+
+const MODULE_AT = "akasha/code-system/module/module.page-type.ts"
+
+const MODULE_ID = "01a04bc4-0000-7000-8000-0000000000ff"
+
+const HELD_PAGE_AT = "akasha/held/held.module.ts"
+
+const HELD_CODE_AT = "akasha/held/held.module.code.ts"
+
+const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
+  .pathname
 
 const scratch = scratchWorld()
 
@@ -104,10 +120,31 @@ const WAKES_TS =
   "}\n" +
   'wakesTs.wakesOn = (path) => path.endsWith(".ts")\n'
 
+const WAKES_PAGES =
+  `import { PAGES } from "${WALKING_AT}"\n` +
+  "export function wakesPages(change) {\n" +
+  '  return change.changed.map((path) => ({ path, reason: "a page woke" }))\n' +
+  "}\n" +
+  "wakesPages.wakesOn = PAGES.wakesOn\n"
+
 const TWO_CHECKS = [
   { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
+
+const PAGE_CHECKS = [
+  { slug: "wakes-pages", runsOn: ["patch"], body: WAKES_PAGES },
+  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
+]
+
+function pagedRoot(): string {
+  const root = rootWith(PAGE_CHECKS)
+  standingFiled(root, PAGE_TYPE, MODULE, [{ path: MODULE_AT, id: MODULE_ID }])
+  mkdirSync(join(root, HELD_PAGE_AT.slice(0, HELD_PAGE_AT.lastIndexOf("/"))), { recursive: true })
+  writeFileSync(join(root, HELD_PAGE_AT), `export const held = { slug: "held" }\n`)
+  writeFileSync(join(root, HELD_CODE_AT), `export const HELD = "held"\n`)
+  return root
+}
 
 test("a check is found through the index rather than by walking the tree", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
@@ -272,7 +309,8 @@ test("a check carrying no waking runs over a change its woken neighbour sleeps t
     "wakes-ts false",
   ])
   const held = onDisk(root)
-  const woken = checksWoken(every, { root, changed: ["one.md"], after: held, before: held })
+  const change = { root, changed: ["one.md"], after: held, before: held }
+  const woken = checksWoken(every, change, shadowAsked(change))
   expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
 })
 
@@ -287,6 +325,31 @@ test("a check whose waking a changed path answers runs, and judges every path in
     before: held,
   })
   expect(said.map((one) => one.reason).sort()).toEqual(["refused", "ts woke"])
+})
+
+test("a check bounded to the pages sleeps through a change touching a file beside a page alone", () => {
+  const root = pagedRoot()
+  const held = onDisk(root)
+  const change = { root, changed: [HELD_CODE_AT], after: held, before: held }
+  expect(judgingBy(checksIn(root)).wokenBy(change)).toEqual(["refuses-all"])
+  expect(
+    judgingBy(checksIn(root))
+      .over(change)
+      .map((one) => one.reason)
+  ).toEqual(["refused"])
+})
+
+test("a check bounded to the pages wakes for a page, its waking having asked the index", () => {
+  const root = pagedRoot()
+  const held = onDisk(root)
+  const change = { root, changed: [HELD_PAGE_AT], after: held, before: held }
+  expect(judgingBy(checksIn(root)).wokenBy(change)).toEqual(["refuses-all", "wakes-pages"])
+  expect(
+    judgingBy(checksIn(root))
+      .over(change)
+      .map((one) => one.reason)
+      .sort()
+  ).toEqual(["a page woke", "refused"])
 })
 
 test("`wokenBy` names the checks that ran and `named` names every check the gate holds", () => {
