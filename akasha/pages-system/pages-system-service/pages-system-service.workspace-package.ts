@@ -6,7 +6,12 @@ export const pagesSystemService = {
   slug: "pages-system-service",
   definition: "the pages reached over HTTP",
   manifest: "json",
-  partSlugs: ["module/page-asking", "module/page-serving"],
+  partSlugs: [
+    "module/page-asking",
+    "module/page-listening",
+    "module/page-serving",
+    "workstation-service/page-query-service",
+  ],
   invariants: [
     {
       invariantKind: "constraint",
