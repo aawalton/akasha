@@ -200,11 +200,16 @@ export function askedIn(argv: readonly string[], given: Given): Asked | Answer {
       continue
     }
     seen.add(path)
-    const was = bytesAt(join(given.root, path))
-    if (was === null) {
+    const held = bytesAt(join(given.root, path))
+    if ("absent" in held) {
       wrong.push(`${path} is not there — \`edit\` changes a file that is, and \`write\` makes one`)
       continue
     }
+    if ("unreadable" in held) {
+      wrong.push(`${path} is there and would not open — ${held.unreadable}`)
+      continue
+    }
+    const was = held.bytes
     const body = textOf(was)
     if (body === null) {
       wrong.push(`${path} is not text, so no substitution can be stated against it`)

@@ -19,6 +19,8 @@ export const BREAK_GLASS = "--break-the-glass"
 
 const NOTHING = "nothing was judged and nothing was written"
 
+const ABSENT: ReadonlySet<string> = new Set(["ENOENT", "ENOTDIR"])
+
 export type Held = {
   readonly path: string
   readonly was: Uint8Array
@@ -90,11 +92,22 @@ export function troubling(found: Trouble): Answer | null {
   return { report: [], refusals: [...said, NOTHING], code: found.mistaken.length > 0 ? 1 : 2 }
 }
 
-export function bytesAt(at: string): Uint8Array | null {
+export type Reached =
+  | { readonly bytes: Uint8Array }
+  | { readonly absent: true }
+  | { readonly unreadable: string }
+
+function absentIn(thrown: unknown): boolean {
+  if (typeof thrown !== "object" || thrown === null || !("code" in thrown)) return false
+  const code = thrown.code
+  return typeof code === "string" && ABSENT.has(code)
+}
+
+export function bytesAt(at: string): Reached {
   try {
-    return readFileSync(at)
-  } catch {
-    return null
+    return { bytes: readFileSync(at) }
+  } catch (thrown) {
+    return absentIn(thrown) ? { absent: true } : { unreadable: whyOf(thrown) }
   }
 }
 
@@ -107,12 +120,12 @@ export function textOf(bytes: Uint8Array): string | null {
 }
 
 export function textAt(at: string): string | null {
-  const bytes = bytesAt(at)
-  return bytes === null ? null : textOf(bytes)
+  const held = bytesAt(at)
+  return "bytes" in held ? textOf(held.bytes) : null
 }
 
-function sameBytes(one: Uint8Array | null, two: Uint8Array): boolean {
-  if (one === null || one.byteLength !== two.byteLength) return false
+function sameBytes(one: Uint8Array, two: Uint8Array): boolean {
+  if (one.byteLength !== two.byteLength) return false
   for (let at = 0; at < one.byteLength; at += 1) {
     if (one[at] !== two[at]) return false
   }
@@ -125,7 +138,8 @@ function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
     over: (change) => {
       const moved: Judged[] = []
       for (const one of held) {
-        if (sameBytes(bytesAt(join(change.root, one.path)), one.was)) continue
+        const now = bytesAt(join(change.root, one.path))
+        if ("bytes" in now && sameBytes(now.bytes, one.was)) continue
         moved.push({
           path: one.path,
           reason:

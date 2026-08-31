@@ -263,12 +263,14 @@ export function readWith(argv: readonly string[], given: Given, thrown: Discard 
       mistaken = true
       continue
     }
-    const bytes = bytesAt(absolute)
-    if (bytes === null) {
-      refusals.push(`${named} is there and would not open, so nothing of it is here`)
+    const held = bytesAt(absolute)
+    if (!("bytes" in held)) {
+      const why = "unreadable" in held ? ` — ${held.unreadable}` : ""
+      refusals.push(`${named} is there and would not open, so nothing of it is here${why}`)
       failed = true
       continue
     }
+    const bytes = held.bytes
     const at = relative(resolve(given.root), absolute)
     const oid = blobIdOf(bytes)
     const seen = meant.full ? null : readingIn(given.root, agentId, at)

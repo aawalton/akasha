@@ -307,14 +307,18 @@ export function write(argv: readonly string[], given: Given): Answer {
       continue
     }
     seen.add(path)
-    const body = bytesAt(one.from)
-    if (body === null) {
+    const held = bytesAt(one.from)
+    if ("absent" in held) {
+      mistaken.push(`${CONTENT_FILE} ${one.from} is not there, so ${path} has no body to write`)
+      continue
+    }
+    if ("unreadable" in held) {
       mistaken.push(
-        `${CONTENT_FILE} ${one.from} could not be read, so ${path} has no body to write`
+        `${CONTENT_FILE} ${one.from} would not open, so ${path} has no body to write — ${held.unreadable}`
       )
       continue
     }
-    changes.push({ path, body })
+    changes.push({ path, body: held.bytes })
   }
   const removing = removingIn(
     given,
