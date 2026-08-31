@@ -6,7 +6,7 @@ export const service = {
   slug: "service",
   definition: "the pages reached over HTTP",
   manifest: "json",
-  partSlugs: ["module/page-asking"],
+  partSlugs: ["module/page-asking", "module/page-serving"],
   invariants: [
     {
       invariantKind: "constraint",

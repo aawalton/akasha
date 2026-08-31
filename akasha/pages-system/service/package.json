@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./asking": "./page-asking/page-asking.module.code.ts"
+    "./asking": "./page-asking/page-asking.module.code.ts",
+    "./serving": "./page-serving/page-serving.module.code.ts"
   }
 }
