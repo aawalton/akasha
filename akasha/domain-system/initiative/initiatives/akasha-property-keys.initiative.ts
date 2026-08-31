@@ -13,6 +13,12 @@ export const akashaPropertyKeys = {
     },
     {
       statement:
+        "A command rewriting code resolves each spelling through the checker rather than by matching its text.",
+      workingMemory:
+        "`move`, `remove` and `refactor rename page-type` rewrite code by parse and text match today, and each is to be judged on whether it should read types instead.",
+    },
+    {
+      statement:
         "A reader asks what a page's type carries rather than probing every key it knows against every page.",
     },
   ],
