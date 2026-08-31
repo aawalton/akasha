@@ -1,8 +1,9 @@
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
-import { join, relative, resolve } from "node:path"
+import { join, resolve } from "node:path"
 import {
-  indexIn,
+  indexNamed,
+  indexStanding,
   slugsOfType,
   standingAt,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -157,9 +158,9 @@ function refusing(said: string): Answer {
 }
 
 export function unreadIn(root: string, calledAs: string): string | null {
-  const at = relative(root, indexIn(root))
+  const at = indexNamed()
   const said = `\`${calledAs} ${ROOTED}\` is found without the index and says what it can do.`
-  if (!existsSync(indexIn(root))) {
+  if (!indexStanding(root)) {
     return `No index stands at \`${at}\`, so no command was read. ${said}`
   }
   if (commandsIn(root).length === 0) {
