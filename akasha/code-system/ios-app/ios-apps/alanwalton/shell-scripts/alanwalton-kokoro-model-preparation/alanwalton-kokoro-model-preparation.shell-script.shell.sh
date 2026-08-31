@@ -103,7 +103,7 @@ cat >> "$APPDELEGATE" <<'SWIFT_KOKORO'
     }
 
     // Forward a [0,1] preparation fraction to JS as a `downloadProgress` event.
-    // The payload matches the strict JS schema exactly ({received,total}) — do
+    // The payload matches the strict JS shape exactly ({received,total}) — do
     // not add fields, or the boundary Zod parse drops the event (progress + the
     // watchdog kick both silently lost). Hops to main (handler runs off-thread).
     private func emitDownloadProgress(_ fraction: Double) {
