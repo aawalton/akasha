@@ -40,6 +40,10 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
+      statement: "An index emptied of every entry stands where the reading beneath it stands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A directory holding no emptied path is listed straight through.",
     },
     {

@@ -2,6 +2,8 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Filing, Listed, Reading } from "../index-shape/index-shape.module.code.ts"
 
+const ROOT = ""
+
 const SLASH = "/"
 
 export const INDEX_AT = ".git/data/index"
@@ -128,7 +130,7 @@ export function overlaidOn(under: Reading, filings: readonly Filing[]): Reading 
     if (standing.has(at)) return true
     if (emptied.has(at)) return false
     if ((added.get(at)?.size ?? 0) > 0) return true
-    if (!thinned.has(at)) return under.holds(at)
+    if (at === ROOT || !thinned.has(at)) return under.holds(at)
     return anythingLeft(under, at, emptied)
   }
 
