@@ -181,3 +181,67 @@ export function renamed(
   }
   return spots.length === 0 ? null : splicedIn(text, spots)
 }
+
+const EDGE = new Set(["/", ".", "*"])
+
+const WORD = /[a-z0-9-]/
+
+const TAIL = /[a-z0-9]/
+
+function contentOf(node: ts.Node): readonly [number, number] | null {
+  if (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) return [1, 1]
+  if (ts.isTemplateHead(node) || ts.isTemplateMiddle(node)) return [1, 2]
+  return ts.isTemplateTail(node) ? [1, 1] : null
+}
+
+export function pathSpelled(content: string, was: string, now: string): string | null {
+  let out = ""
+  let at = 0
+  let found = false
+  for (let cut = content.indexOf(was); cut >= 0; cut = content.indexOf(was, at)) {
+    const end = cut + was.length
+    const before = cut === 0 ? "" : (content[cut - 1] ?? "")
+    const after = end === content.length ? "" : (content[end] ?? "")
+    const held = EDGE.has(before) && (after === "" || EDGE.has(after))
+    out = `${out}${content.slice(at, cut)}${held ? now : was}`
+    found = found || held
+    at = end
+  }
+  return found ? `${out}${content.slice(at)}` : null
+}
+
+export function pathRespelled(path: string, text: string, was: string, now: string): string | null {
+  if (!text.includes(was)) return null
+  const source = parsedAs(path, text)
+  const spots: (readonly [Spot, string])[] = []
+  const walk = (node: ts.Node): undefined => {
+    const span = contentOf(node)
+    if (span !== null) {
+      const start = node.getStart(source) + span[0]
+      const end = node.getEnd() - span[1]
+      const next = pathSpelled(text.slice(start, end), was, now)
+      if (next !== null) spots.push([{ start, end }, next])
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(source, walk)
+  return spots.length === 0 ? null : splicedIn(text, spots)
+}
+
+export function namesStill(text: string, was: string): readonly number[] {
+  const found: number[] = []
+  const lines = text.split("\n")
+  for (let at = 0; at < lines.length; at = at + 1) {
+    const line = lines[at] ?? ""
+    for (let cut = line.indexOf(was); cut >= 0; cut = line.indexOf(was, cut + was.length)) {
+      const end = cut + was.length
+      const before = cut === 0 ? "" : (line[cut - 1] ?? "")
+      const after = end === line.length ? "" : (line[end] ?? "")
+      if (!WORD.test(before) && !TAIL.test(after)) {
+        found.push(at + 1)
+        break
+      }
+    }
+  }
+  return found
+}

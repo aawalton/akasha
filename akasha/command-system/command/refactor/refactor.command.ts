@@ -24,6 +24,7 @@ export const refactor = {
     "a plural is stated rather than worked out, so it is asked for rather than guessed.",
     "`page-type` itself is refused, being the tail every page type's own file carries.",
     "--dry-run names every file it would carry; a landing says how many.",
+    "a spelling it cannot judge to be a path is named in the answer rather than changed.",
   ],
   invariants: [
     {
@@ -83,12 +84,20 @@ export const refactor = {
       statement: "A landing says how many files were carried rather than naming each.",
     },
     {
-      invariantKind: "gap",
-      statement: "A rename leaves nothing in the corpus naming what it renamed.",
+      invariantKind: "departure",
+      statement: "A path naming the renamed type is repointed wherever a body spells it.",
     },
     {
-      invariantKind: "gap",
-      statement: "The modules named for a renamed page type are renamed with it.",
+      invariantKind: "departure",
+      statement: "A spelling standing between no path marks is named rather than changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer names every place still naming what was renamed.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A module named for a renamed page type is not renamed with it.",
     },
   ],
 } as const satisfies Command

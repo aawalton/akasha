@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { everyPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   exportedAs,
   typedAs,
@@ -31,7 +32,13 @@ import {
   restated,
 } from "./type-renaming/type-renaming.module.code.ts"
 import type { Spelling } from "./type-respelling/type-respelling.module.code.ts"
-import { renamed, respelled, spellingOver } from "./type-respelling/type-respelling.module.code.ts"
+import {
+  namesStill,
+  pathRespelled,
+  renamed,
+  respelled,
+  spellingOver,
+} from "./type-respelling/type-respelling.module.code.ts"
 
 const RENAME = "rename"
 
@@ -50,6 +57,8 @@ const VALUED = [FROM, TO, PLURAL, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 const NAMED = [FROM, TO, PLURAL]
 
 const BYTES = new TextEncoder()
+
+const LEFT = 12
 
 export type Read =
   | { readonly said: ReadonlyMap<string, string>; readonly dryRun: boolean }
@@ -110,7 +119,8 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): str
     const stated = restated(from, next, said, own ? one.now : null)
     if (stated !== null) next = stated
   }
-  return repointed(from, to, next, held.moved)
+  const done = repointed(from, to, next, held.moved)
+  return pathRespelled(to, done, one.was, one.now) ?? done
 }
 
 function were(many: number, dry: boolean): string {
@@ -122,6 +132,7 @@ function saying(
   carries: readonly Carry[],
   repointing: readonly string[],
   pages: number,
+  left: readonly string[],
   dry: boolean
 ): readonly string[] {
   return [
@@ -133,6 +144,11 @@ function saying(
     repointing.length === 0
       ? "no file naming it needed repointing"
       : `${counted(repointing.length, "file")} naming it ${were(repointing.length, dry)} repointed`,
+    left.length === 0
+      ? "nothing in the corpus still names it"
+      : `${counted(left.length, "place")} naming it ${left.length === 1 ? "stands" : "stand"} unchanged`,
+    ...left.slice(0, LEFT),
+    ...(left.length > LEFT ? [`  and ${left.length - LEFT} more`] : []),
   ]
 }
 
@@ -165,6 +181,18 @@ export function landed(
   const naming = new Set<string>(reading.importers)
   for (const path of held.spelling.keys()) naming.add(path)
   for (const path of spellingOf(root, stood, moved, naming)) naming.add(path)
+  const left: string[] = []
+  const noting = (path: string, said: string): undefined => {
+    for (const line of namesStill(said, one.was)) left.push(`  ${path}:${line}`)
+  }
+  for (const path of everyPathAnswered(root)) {
+    if (moved.has(path)) continue
+    if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
+    if (!path.endsWith(TS)) continue
+    const bytes = bodyAt(root, stood, path)
+    const said = bytes === null ? null : textOf(bytes)
+    if (said?.includes(one.was) === true) naming.add(path)
+  }
   const changes: FileEdit[] = []
   const readings: Reading[] = []
   const moving: FileCarry[] = []
@@ -183,8 +211,9 @@ export function landed(
     }
     const text = textOf(bytes)
     if (text === null) return unread(carry.from, `is named \`${TS}\` and its bytes are not utf-8`)
-    const body = BYTES.encode(rewritten(held, carry.from, carry.to, text))
-    changes.push({ path: carry.to, body, carried: true })
+    const said = rewritten(held, carry.from, carry.to, text)
+    noting(carry.to, said)
+    changes.push({ path: carry.to, body: BYTES.encode(said), carried: true })
   }
   const repointing: string[] = []
   for (const path of [...naming].sort()) {
@@ -194,6 +223,7 @@ export function landed(
     const text = textOf(bytes)
     if (text === null) return unread(path, `names what moved and its bytes are not utf-8`)
     const next = rewritten(held, path, path, text)
+    noting(path, next)
     if (next === text) continue
     repointing.push(path)
     readings.push({ was: path, now: path, from: blobIdOf(bytes) })
@@ -204,6 +234,7 @@ export function landed(
   const message = messageIn(argv, VALUED)
   if ("refusals" in message) return answering([], message.refusals, 1)
   const pages = held.pages.size
+  left.sort()
   const asked: Asked = {
     changes,
     message: message.message ?? `rename the page type \`${one.was}\` to \`${one.now}\``,
@@ -212,7 +243,7 @@ export function landed(
     unmoved: [],
     read: stood,
     carries: moving,
-    saying: () => saying(one, carries, repointing, pages, false),
+    saying: () => saying(one, carries, repointing, pages, left, false),
   }
   const landing = landingAsked({ ...given, root }, asked)
   if (!dryRun) {
@@ -220,7 +251,7 @@ export function landed(
     return landing
   }
   return answering(
-    [...saying(one, carries, repointing, pages, true), ...landing.report],
+    [...saying(one, carries, repointing, pages, left, true), ...landing.report],
     landing.refusals,
     landing.code
   )

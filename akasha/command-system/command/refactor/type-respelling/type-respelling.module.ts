@@ -47,6 +47,26 @@ export const typeRespelling = {
       statement: "The page type's own file is renamed throughout rather than through an import.",
     },
     {
+      invariantKind: "departure",
+      statement: "A slug standing between path marks in any literal is repointed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A template's parts are read for a slug as a plain string is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug standing between no path marks is left as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A longer name carrying the old slug is no spelling of it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where a body still names the old slug is answered by the line it stands on.",
+    },
+    {
       invariantKind: "absence",
       statement: "An address spelled as an id is left as it stands.",
     },

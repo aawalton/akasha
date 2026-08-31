@@ -1,7 +1,15 @@
 import { expect, test } from "bun:test"
 import type { Shaped } from "../../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import type { Renaming } from "../type-renaming/type-renaming.module.code.ts"
-import { addressedIn, readdressed, renamed, respelled } from "./type-respelling.module.code.ts"
+import {
+  addressedIn,
+  namesStill,
+  pathRespelled,
+  pathSpelled,
+  readdressed,
+  renamed,
+  respelled,
+} from "./type-respelling.module.code.ts"
 
 const SEAT_ID = "01a0587c-0000-7000-8000-00000000000a"
 
@@ -153,4 +161,57 @@ test("a key spelled like the name is no use of it", () => {
   expect(said).toContain("{ Seat: 1 }")
   expect(said).toContain("satisfies Chair")
   expect(said).toContain("{ Chair }")
+})
+
+test("a slug standing between path marks is repointed", () => {
+  expect(pathSpelled("akasha/checks-system/check/one.check.ts", "check", "code-check")).toBe(
+    "akasha/checks-system/code-check/one.code-check.ts"
+  )
+  expect(pathSpelled("../../checks-system/check", "check", "code-check")).toBe(
+    "../../checks-system/code-check"
+  )
+})
+
+test("a slug standing alone is left, no path mark saying it is one", () => {
+  expect(pathSpelled("check", "check", "code-check")).toBe(null)
+})
+
+test("a glob is a path, so the slug in one is repointed", () => {
+  expect(pathSpelled("akasha/*.check.ts", "check", "code-check")).toBe("akasha/*.code-check.ts")
+  expect(pathSpelled("akasha/admits.check*", "check", "code-check")).toBe(
+    "akasha/admits.code-check*"
+  )
+})
+
+test("a slug carrying the old one is no spelling of it", () => {
+  expect(pathSpelled("akasha/checks-system/x", "check", "code-check")).toBe(null)
+  expect(pathSpelled("akasha/code-check/x", "check", "code-check")).toBe(null)
+})
+
+test("a template's parts are repointed as a string's are", () => {
+  const text = "const at = `akasha/${slug}.check.ts`\n"
+  expect(pathRespelled("akasha/held.ts", text, "check", "code-check")).toBe(
+    "const at = `akasha/${slug}.code-check.ts`\n"
+  )
+})
+
+test("a name outside a literal is left, the walk reaching literals alone", () => {
+  expect(pathRespelled("akasha/held.ts", "const check = 1\n", "check", "code-check")).toBe(null)
+})
+
+test("a body naming the slug nowhere is answered as nothing rather than as itself", () => {
+  expect(pathRespelled("akasha/held.ts", "const one = 1\n", "check", "code-check")).toBe(null)
+})
+
+test("a spelling the rename cannot judge is named by the line it stands on", () => {
+  expect(namesStill('const CHECKS = "check"\n', "check")).toEqual([1])
+  expect(namesStill("one\ntwo\nconst at = check\n", "check")).toEqual([3])
+})
+
+test("a module named for the renamed type is named", () => {
+  expect(namesStill("akasha/checks-system/check-scratch/x.ts", "check")).toEqual([1])
+})
+
+test("a longer name carrying the old slug is not named", () => {
+  expect(namesStill("checks-system\nchecking\ncode-check\n", "check")).toEqual([])
 })
