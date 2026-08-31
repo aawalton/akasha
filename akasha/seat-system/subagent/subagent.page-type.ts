@@ -39,7 +39,7 @@ export const subagent = {
     },
     {
       invariantKind: "gap",
-      statement: "A page whose seat stopped before the subagent returned goes.",
+      statement: "A page standing for a subagent that is no longer running goes.",
     },
     {
       invariantKind: "departure",
