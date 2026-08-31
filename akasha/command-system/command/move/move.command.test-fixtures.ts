@@ -1,21 +1,30 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { warrantsStanding } from "../../../context-system/warranting/warranting.module.test-fixtures.ts"
+import {
+  namersOf,
+  standingAt,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   importFiled,
   pathFiled,
   rebuiltIn,
-  relationFiled,
   stampedIn,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { declaringUnder } from "../../../testing-system/declaring/declaring.module.code.ts"
 import { gitIn } from "../../../testing-system/gitting/gitting.module.code.ts"
-import { admitting } from "../../../testing-system/minting/minting.module.code.ts"
+import {
+  admitting,
+  mintedId,
+  minting,
+} from "../../../testing-system/minting/minting.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
-import type { Given } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { move } from "./move.command.code.ts"
 
 const TREE = "akasha"
 
@@ -58,8 +67,6 @@ export const SPELLS = `export const at = "akasha/two/other.module.code.ts"\n`
 export const AAAA = "01a04bed-1450-7000-8000-00000000aaaa"
 
 export const RENAME = ["--from", HELD, "--to", "akasha/one/other.module.ts"]
-
-export const READER = "akasha/elsewhere/reader.module.ts"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
@@ -116,7 +123,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
-  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
+  writeFileSync(join(root, ".git/info/exclude"), "akasha/*.check.ts\nakasha/*.check.code.ts\n")
   admitting(root)
   return root
 }
@@ -150,8 +157,32 @@ export function claiming(root: string, path: string, ids: readonly string[]): un
   )
 }
 
-export function naming(root: string, id: string): undefined {
-  relationFiled(root, id, "required-reading-slugs", AAAA, [{ path: READER }])
+export function bodyIn(root: string, path: string): string {
+  return readFileSync(join(root, path), "utf8")
+}
+
+export function why(said: Answer): string {
+  return said.refusals.join("\n")
+}
+
+export function told(said: Answer): string {
+  return said.report.join("\n")
+}
+
+export function codeWorld(named: Readonly<Record<string, string>> = {}): string {
+  return repoWith({ [HOLDER]: CODE, [TARGET]: OTHER, ...named })
+}
+
+export function sidecarWorld(): string {
+  return repoWith({ [HELD]: PAGE, [HOLDER]: CODE, "akasha/one/held.module.test.ts": OTHER })
+}
+
+export function takenWorld(): string {
+  return repoWith({ [HELD]: PAGE, [THREE]: OTHER })
+}
+
+export function besideWorld(): string {
+  return repoWith({ [HELD]: PAGE, [HOLDER]: OTHER })
 }
 
 export function heldPage(): string {
@@ -183,4 +214,90 @@ export function held(root: string, path: string, body: string): undefined {
     seenAt: 1,
     mechanicalOid: null,
   })
+}
+
+export const THING = "akasha/one/held.thing.ts"
+
+export const THING_AT = "akasha/one/renamed.thing.ts"
+
+export const THING_TYPE = "akasha/thing.page-type.ts"
+
+export const ALPHA = "akasha/six/alpha.thing.ts"
+
+export const BETA = "akasha/six/beta.thing.ts"
+
+export const SLUG_RENAME = ["--from", THING, "--to", THING_AT]
+
+const CHECKS_AT = join(import.meta.dir, "../../../checks-system/check")
+
+const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
+
+function stated(value: Readonly<Record<string, unknown>>): string {
+  return `export const it = ${JSON.stringify(value, null, 2)} as const\n`
+}
+
+function typed(said: string, slug: string, extendsSlug: string | null): readonly [string, string] {
+  return [
+    `${TREE}/${slug}.page-type.ts`,
+    stated({ id: idOf(said), pageTypeSlug: "page-type", slug, extendsSlug }),
+  ]
+}
+
+function thingPage(slug: string, said: string, names: string | null): string {
+  const held = names === null ? "" : `\n  names: [${names}],`
+  return `export const ${slug} = {\n  id: "${said}",\n  pageTypeSlug: "thing",\n  slug: "${slug}",${held}\n}\n`
+}
+
+export const THING_VOCABULARY: Readonly<Record<string, string>> = {
+  ...Object.fromEntries([
+    typed("01", "page", null),
+    typed("02", "page-property", "page-type/page"),
+    typed("03", "relation-property", "page-type/page-property"),
+    typed("04", "thing", "page-type/page"),
+  ]),
+  [`${TREE}/names.relation-property.ts`]: stated({
+    id: idOf("05"),
+    pageTypeSlug: "relation-property",
+    slug: "names",
+    propertySlug: "names",
+    targetPageTypeSlug: "page-type/thing",
+  }),
+}
+
+export function judging(root: string, slug: string): undefined {
+  const at = join(CHECKS_AT, slug, `${slug}.check.code.ts`)
+  const said = `export { ${exportedAs(slug)} } from ${JSON.stringify(at)}\n`
+  minting(root, slug, mintedId(slug), "a check the corpus already carries", said)
+}
+
+export const NAMERS: readonly string[] = [ALPHA, BETA]
+
+export function slugStanding(root: string, slug: string): readonly string[] {
+  return standingAt(root, "thing", slug).map((one) => one.path)
+}
+
+export function namersIn(root: string, id: string): readonly string[] {
+  return [...new Set(namersOf(root, id).map((one) => one.path))].sort()
+}
+
+export function renamedText(root: string): string {
+  return [THING_AT, ALPHA, BETA].map((one) => bodyIn(root, one)).join("\n")
+}
+
+export function renaming(names = '"thing/held"'): string {
+  const root = repoWith({
+    ...THING_VOCABULARY,
+    [THING]: thingPage("held", AAAA, null),
+    [ALPHA]: thingPage("alpha", idOf("11"), names),
+    [BETA]: thingPage("beta", idOf("12"), '"held"'),
+  })
+  rebuiltIn(root, TREE)
+  for (const slug of ["relation-resolves", "page-named-as-stated"]) judging(root, slug)
+  admitting(root)
+  return root
+}
+
+export function renamed(): { readonly root: string; readonly said: Answer } {
+  const root = renaming()
+  return { root, said: move(SLUG_RENAME, givenIn(root)) }
 }

@@ -11,8 +11,11 @@ import {
   AGENT,
   ARRIVES,
   BOTH,
+  besideWorld,
+  bodyIn,
   CODE,
   claiming,
+  codeWorld,
   DEEP,
   DEEPER,
   git,
@@ -25,40 +28,42 @@ import {
   heldPage,
   importing,
   NAMER,
+  NAMERS,
   NESTED,
-  naming,
+  namersIn,
   OTHER,
   oneUnsaid,
   PAGE,
   PAIR,
-  READER,
   RENAME,
   rebuilt,
-  repoWith,
+  renamed,
+  renamedText,
+  renaming,
   SECOND_UNSAID,
   SECOND_UNSAID_AT,
+  SLUG_RENAME,
   SPELLS,
   scratch,
+  sidecarWorld,
+  slugStanding,
   TARGET,
+  THING,
+  THING_AT,
+  THING_TYPE,
   THREE,
+  takenWorld,
+  told,
   twoUnsaid,
   UNSAID,
   UNSAID_AT,
   VALUES,
   VOCABULARY,
+  why,
 } from "./move.command.test-fixtures.ts"
 import { move as moveCommand } from "./move.command.ts"
 
 afterAll(scratch.sweep)
-
-function renamed(root: string): string {
-  const said = move(RENAME, givenIn(root))
-  const why = said.refusals.join("\n")
-  expect(said.code).toBe(1)
-  expect(why).toContain("renaming is not a move")
-  expect(stands(root, HELD)).toBe(true)
-  return why
-}
 
 test("a file is carried to its new path, the old path goes, and the page's id is untouched", () => {
   const root = heldIndexed()
@@ -67,54 +72,48 @@ test("a file is carried to its new path, the old path goes, and the page's id is
   expect(said.code).toBe(0)
   expect(stands(root, HELD)).toBe(false)
   expect(git(root, ["ls-files"]).trim().split("\n")).toEqual([...VOCABULARY, THREE].sort())
-  expect(readFileSync(join(root, THREE), "utf8")).toBe(PAGE)
+  expect(bodyIn(root, THREE)).toBe(PAGE)
   expect(said.report[0]).toBe(`${HELD} moved to ${THREE}`)
-  expect(said.report.join("\n")).not.toContain("wrote ")
+  expect(told(said)).not.toContain("wrote ")
   expect(said.report.at(-1)).toStartWith("committed as ")
-  expect(said.report.join("\n")).toContain("was not looked for")
+  expect(told(said)).toContain("was not looked for")
 })
 
 test("a page's sidecars go with it without being named", () => {
-  const root = rebuilt(
-    repoWith({
-      [HELD]: PAGE,
-      [HOLDER]: CODE,
-      "akasha/one/held.module.test.ts": OTHER,
-    })
-  )
+  const root = rebuilt(sidecarWorld())
   const said = move(["--from", HELD, "--to", DEEP], givenIn(root))
   expect(said.refusals).toEqual([])
   expect(stands(root, DEEPER)).toBe(true)
   expect(stands(root, "akasha/one/deep/held.module.test.ts")).toBe(true)
   expect(stands(root, HOLDER)).toBe(false)
-  expect(said.report.join("\n")).toContain("stood beside what you named")
+  expect(told(said)).toContain("stood beside what you named")
 })
 
 test("a moved body's relative specifier is repointed and a package one is not", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  const root = codeWorld()
   const said = move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
   expect(said.refusals).toEqual([])
-  const now = readFileSync(join(root, DEEPER), "utf8")
+  const now = bodyIn(root, DEEPER)
   expect(now).toContain('from "../../two/other.module.code.ts"')
   expect(now).toContain('import ts from "typescript"')
 })
 
 test("what imports or spells what moved is repointed, and a dry run writes none", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER, [NAMER]: SPELLS })
+  const root = codeWorld({ [NAMER]: SPELLS })
   claiming(root, NAMER, [AAAA])
   importing(root, TARGET, [HOLDER])
   const carry = ["--from", TARGET, "--to", ARRIVES]
   const named = `2 files naming what moved would be repointed — ${NAMER}, ${HOLDER}`
-  expect(move([...carry, "--dry-run"], givenIn(root)).report.join("\n")).toContain(named)
-  expect(readFileSync(join(root, NAMER), "utf8")).toBe(SPELLS)
+  expect(told(move([...carry, "--dry-run"], givenIn(root)))).toContain(named)
+  expect(bodyIn(root, NAMER)).toBe(SPELLS)
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(readFileSync(join(root, HOLDER), "utf8")).toContain('from "../four/other.module.code.ts"')
-  expect(readFileSync(join(root, NAMER), "utf8")).toBe(`export const at = "${ARRIVES}"\n`)
+  expect(bodyIn(root, HOLDER)).toContain('from "../four/other.module.code.ts"')
+  expect(bodyIn(root, NAMER)).toBe(`export const at = "${ARRIVES}"\n`)
 })
 
 test("a reading carries to the new path, and the write it warranted is not refused", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  const root = codeWorld()
   held(root, HOLDER, CODE)
   const said = move(["--from", HOLDER, "--to", DEEPER], givenIn(root))
   expect(said.refusals).toEqual([])
@@ -126,7 +125,7 @@ test("a reading carries to the new path, and the write it warranted is not refus
 })
 
 test("a dry run carries no reading anywhere", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  const root = codeWorld()
   held(root, HOLDER, CODE)
   const said = move(["--from", HOLDER, "--to", DEEPER, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
@@ -135,48 +134,72 @@ test("a dry run carries no reading anywhere", () => {
 })
 
 test("a file moving in the same act is repointed from its body, not as an importer", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  const root = codeWorld()
   importing(root, TARGET, [HOLDER])
   const carry = ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER]
   const said = move(carry, givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(readFileSync(join(root, DEEPER), "utf8")).toContain(
-    'from "../../four/other.module.code.ts"'
-  )
-  expect(said.report.join("\n")).toContain("no file naming what moved needed repointing")
+  expect(bodyIn(root, DEEPER)).toContain('from "../../four/other.module.code.ts"')
+  expect(told(said)).toContain("no file naming what moved needed repointing")
 })
 
 test("an unanswerable index leaves the importers as they stand and says so", () => {
-  const root = repoWith({ [HOLDER]: CODE, [TARGET]: OTHER })
+  const root = codeWorld()
   const said = move(["--from", TARGET, "--to", ARRIVES], givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(readFileSync(join(root, HOLDER), "utf8")).toBe(CODE)
-  expect(said.report.join("\n")).toContain("could not be answered")
-  expect(said.report.join("\n")).toContain("none were repointed")
+  expect(bodyIn(root, HOLDER)).toBe(CODE)
+  expect(told(said)).toContain("could not be answered")
+  expect(told(said)).toContain("none were repointed")
 })
 
-test("a rename names what names the file, and only where the index answers one page", () => {
+test("a rename carries the page, restates its slug, and repoints what names it", () => {
+  const { root, said } = renamed()
+  expect(said.refusals).toEqual([])
+  expect(stands(root, THING)).toBe(false)
+  const now = renamedText(root)
+  expect(now).toContain('slug: "renamed"')
+  expect(now).toContain("export const renamed =")
+  expect(now).toContain('"thing/renamed"')
+  expect(now).toContain('names: ["renamed"]')
+  expect(slugStanding(root, "held")).toEqual([])
+  expect(slugStanding(root, "renamed")).toEqual([THING_AT])
+  expect(namersIn(root, AAAA)).toEqual(NAMERS)
+})
+
+test("a page type's slug is not renamed here", () => {
+  const root = renaming()
+  const said = move(["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(why(said)).toContain("a page type's slug")
+  expect(stands(root, THING_TYPE)).toBe(true)
+})
+
+test("a rename leaving an edge naming nobody is refused and lands nothing", () => {
+  const root = renaming('"thin" + "g/held"')
+  const was = head(root)
+  const said = move(SLUG_RENAME, givenIn(root))
+  expect(said.code).toBe(3)
+  expect(why(said)).toContain("no `thing` carries the slug `held`")
+  expect(stands(root, THING)).toBe(true)
+  expect(stands(root, THING_AT)).toBe(false)
+  expect(head(root)).toBe(was)
+})
+
+test("a rename the index cannot answer for is refused", () => {
   const root = heldPage()
-  naming(root, AAAA)
-  expect(renamed(root)).toContain(`what names \`${HELD}\` could not be answered`)
-  expect(renamed(root)).toContain("is not an index naming none")
-  claiming(root, "akasha/one/two.module.ts", [AAAA])
-  expect(renamed(root)).toContain("the index shows no page naming it")
+  expect(why(move(RENAME, givenIn(root)))).toContain("could not be answered")
   claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
-  const two = renamed(root)
-  expect(two).toContain(`the index answers 2 pages to the path \`${HELD}\``)
-  expect(two).not.toContain(READER)
-  claiming(root, HELD, [AAAA])
-  expect(renamed(root)).toContain(READER)
+  expect(why(move(RENAME, givenIn(root)))).toContain("the index answers 2 pages")
+  expect(stands(root, HELD)).toBe(true)
 })
 
 test("a refused move leaves nothing behind", () => {
-  const root = repoWith({ [HELD]: PAGE, [HOLDER]: OTHER })
+  const root = besideWorld()
   refusing(root)
   const was = head(root)
   const said = move(PAIR, givenIn(root))
   expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("refused for the test")
+  expect(why(said)).toContain("refused for the test")
   expect(stands(root, HELD)).toBe(true)
   expect(stands(root, HOLDER)).toBe(true)
   expect(stands(root, THREE)).toBe(false)
@@ -196,11 +219,11 @@ test("a path that is not there is refused", () => {
 })
 
 test("a destination that already stands is refused", () => {
-  const root = repoWith({ [HELD]: PAGE, [THREE]: OTHER })
+  const root = takenWorld()
   const said = move(PAIR, givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("already stands")
-  expect(readFileSync(join(root, THREE), "utf8")).toBe(OTHER)
+  expect(bodyIn(root, THREE)).toBe(OTHER)
 })
 
 test("a side standing outside the akasha folder is refused", () => {
@@ -227,20 +250,16 @@ test("a dry run gates and writes nothing at all", () => {
   const was = head(root)
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.refusals).toEqual([])
-  expect(said.report.join("\n")).toContain("nothing was written")
+  expect(told(said)).toContain("nothing was written")
   expect(stands(root, "akasha/three")).toBe(false)
   expect(head(root)).toBe(was)
   expect(git(root, ["status", "--porcelain", "--", "akasha"]).trim()).toBe("")
 })
 
 test("a dry run names the pairs it would carry, sidecars and all", () => {
-  const root = repoWith({
-    [HELD]: PAGE,
-    [HOLDER]: CODE,
-    "akasha/one/held.module.test.ts": OTHER,
-  })
+  const root = sidecarWorld()
   const said = move(["--from", HELD, "--to", DEEP, "--dry-run"], givenIn(root))
-  const report = said.report.join("\n")
+  const report = told(said)
   expect(report).toContain(`${HELD} would move to ${DEEP}`)
   expect(report).toContain("stand beside what you named and would go with it")
   expect(report).toContain("akasha/one/held.module.code.ts to akasha/one/deep/held.module.code.ts")
@@ -253,7 +272,7 @@ test("a dry run over a move the checks refuse reports it and carries nothing", (
   refusing(root)
   const said = move([...PAIR, "--dry-run"], givenIn(root))
   expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("refused for the test")
+  expect(why(said)).toContain("refused for the test")
   expect(stands(root, "akasha/three")).toBe(false)
   expect(stands(root, HELD)).toBe(true)
 })
@@ -264,7 +283,7 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   const was = head(root)
   const gated = move([...PAIR, "--message", "held moves"], givenIn(root))
   expect(gated.code).toBe(3)
-  expect(gated.refusals.join("\n")).toContain("refused for the test")
+  expect(why(gated)).toContain("refused for the test")
   expect(stands(root, THREE)).toBe(false)
   expect(head(root)).toBe(was)
 
@@ -274,9 +293,7 @@ test("breaking the glass carries a move the checks refuse, and only breaking it 
   )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(said.report.join("\n")).toContain(
-    "no check ran — the glass was broken for: the check is wrong"
-  )
+  expect(told(said)).toContain("no check ran — the glass was broken for: the check is wrong")
   expect(stands(root, THREE)).toBe(true)
   expect(stands(root, HELD)).toBe(false)
   expect(git(root, ["log", "-1", "--pretty=%B"]).trim()).toBe(
@@ -304,7 +321,7 @@ test("a message is read from a file and trimmed, and stated twice over or empty 
   writeFileSync(at, "carried by a file\n")
   const both = move([...PAIR, "--message", "carried", "--message-file", at], givenIn(root))
   expect(both.code).toBe(1)
-  expect(both.refusals.join("\n")).toContain("both are given")
+  expect(why(both)).toContain("both are given")
   writeFileSync(at, "   \n")
   const empty = move([...PAIR, "--message-file", at], givenIn(root))
   expect(empty.code).toBe(1)
@@ -338,8 +355,8 @@ test("a page holding uncommitted values is carried, and that file goes with it",
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(stands(root, UNSAID)).toBe(false)
-  expect(readFileSync(join(root, UNSAID_AT), "utf8")).toBe(VALUES)
-  expect(said.report.join("\n")).toContain(`${UNSAID} to ${UNSAID_AT}`)
+  expect(bodyIn(root, UNSAID_AT)).toBe(VALUES)
+  expect(told(said)).toContain(`${UNSAID} to ${UNSAID_AT}`)
 })
 
 test("the commit a move lands carries no path holding uncommitted values", () => {
@@ -357,8 +374,8 @@ test("two pages each holding uncommitted values carry both of those files with t
   expect(said.refusals).toEqual([])
   expect(stands(root, UNSAID)).toBe(false)
   expect(stands(root, SECOND_UNSAID)).toBe(false)
-  expect(readFileSync(join(root, UNSAID_AT), "utf8")).toBe(VALUES)
-  expect(readFileSync(join(root, SECOND_UNSAID_AT), "utf8")).toBe(VALUES)
+  expect(bodyIn(root, UNSAID_AT)).toBe(VALUES)
+  expect(bodyIn(root, SECOND_UNSAID_AT)).toBe(VALUES)
 })
 
 test("an uncommitted file that will not carry leaves the one carried before it where it stood", () => {
@@ -371,7 +388,7 @@ test("an uncommitted file that will not carry leaves the one carried before it w
     code = -2
   }
   expect(head(root)).toBe(was)
-  expect(readFileSync(join(root, UNSAID), "utf8")).toBe(VALUES)
+  expect(bodyIn(root, UNSAID)).toBe(VALUES)
   expect(stands(root, HELD)).toBe(true)
   expect(code).toBe(3)
 })
