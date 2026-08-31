@@ -7,5 +7,5 @@ export const kiPageTypeKiSeason = {
   personSlug: "ki",
   accessKind: "page-type",
   target: "ki-season",
-  personAccessServes: "season",
+  serves: "season",
 } as const satisfies PersonAccess

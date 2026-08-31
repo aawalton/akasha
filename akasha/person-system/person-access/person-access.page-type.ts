@@ -9,7 +9,7 @@ export type PersonAccess = Page & {
   personSlug: PersonSlug
   accessKind: AccessKind
   target: Target
-  personAccessServes?: Serves
+  serves?: Serves
 }
 
 export const personAccess = {
