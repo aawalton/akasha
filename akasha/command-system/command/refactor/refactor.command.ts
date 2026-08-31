@@ -37,6 +37,10 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
+      statement: "The slug `page-type` is not renamed here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What a rename would touch is answered before it is asked to land.",
     },
     {

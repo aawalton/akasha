@@ -14,10 +14,6 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The slug `page-type` is not renamed here.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A slug no page type carries is refused rather than answered as nothing to do.",
     },
     {
