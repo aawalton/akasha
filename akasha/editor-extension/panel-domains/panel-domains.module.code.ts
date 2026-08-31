@@ -1,5 +1,5 @@
 import {
-  everyOfType,
+  everyOfTypeAnswered,
   idsNaming,
   type Standing,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -39,7 +39,7 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
 export function domainsDrawn(root: string): readonly DomainRow[] {
   const standing: Standing[] = []
   for (const kind of [...kindsUnderDomain(root)].sort()) {
-    standing.push(...everyOfType(root, kind))
+    standing.push(...everyOfTypeAnswered(root, kind))
   }
   const addressById = new Map<string, string>()
   for (const one of standing) {

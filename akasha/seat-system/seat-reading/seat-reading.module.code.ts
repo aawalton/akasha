@@ -1,7 +1,7 @@
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import {
   everyOfTypeAnswered,
-  standingById,
+  standingByIdAnswered,
   typeSlugByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
@@ -35,7 +35,7 @@ export function seatPathForAgent(agentId: string, root: string = seatRoot()): st
   for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, SEAT_TYPE))) {
     if (one.path.startsWith(SEAT_DIR) && one.id === agentId) return one.path
   }
-  const held = standingById(root, agentId)
+  const held = standingByIdAnswered(root, agentId)
   return held?.path.startsWith(SEAT_DIR) === true ? held.path : null
 }
 
