@@ -52,6 +52,10 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a rebuild files under no identifier at all is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Which properties carry a `unique` is read from the schema as the change leaves it.",
     },
