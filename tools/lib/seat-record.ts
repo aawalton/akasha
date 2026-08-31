@@ -24,16 +24,22 @@ export function seatRecordOf(agent: string, key: string): SeatRecord | null {
   return akashaSeatRecordOf(agent, key)
 }
 
-// A WRITE THAT DID NOT LAND SAYS SO. This swallowed whatever the write threw, which was survivable
-// while the old store was taking the value regardless. It is not survivable now: five keys reach
-// here that akasha carries nothing for — `turn-state`, `turn-end-reading`, `turn-pending-source`,
-// `claude-code-session-uuid` and `turn-working` — and each of them used to land in the old store
-// and be read back out of it.
+// FIVE KEYS REACH HERE THAT AKASHA CARRIES NOTHING FOR, AND THEY ARE NAMED RATHER THAN SAID:
+// `turn-state`, `turn-end-reading`, `turn-pending-source`, `claude-code-session-uuid` and
+// `turn-working`. Each used to land in the old store and be read back out of it. Their reads have
+// answered null since the reads moved to akasha, so sealing the write made an existing loss
+// visible rather than causing one.
 //
-// Their reads already answer null, and have since the reads moved to akasha; sealing the write is
-// what makes that visible rather than what causes it. A caller still gets its quiet return, because
-// none of them can do anything about it, but the refusal is said once where a supervisor log will
-// hold it.
+// SAYING IT AT THE WRITE WAS WRONG AND WAS TAKEN BACK OUT WITHIN THE HOUR. These are written every
+// beat by every seat, so a refusal per write is not a report, it is one line per seat per beat —
+// and this runs inside a live agent's terminal, where stderr is that agent's screen. It printed
+// into astra's prompt while she was working. A diagnostic that interrupts eleven people to tell
+// them something already known and written down costs more than the silence it replaces.
+//
+// So the refusal stands where it belongs, at `keepBeside`, which refuses a key akasha does not
+// carry instead of dropping it. A caller here gets its quiet return, because no caller can do
+// anything about it; what carries a key is a declaration on the seat page type, which is a change
+// to make once and not a thing to discover at runtime.
 export function keepSeatRecord(
   agent: string,
   key: string,
@@ -45,10 +51,8 @@ export function keepSeatRecord(
   if (page === null) return
   try {
     keepBeside(page, { [key]: { value, at } })
-  } catch (thrown) {
-    process.stderr.write(
-      `${key} was not kept for ${agent}: ${thrown instanceof Error ? thrown.message : String(thrown)}\n`
-    )
+  } catch {
+    return
   }
 }
 
