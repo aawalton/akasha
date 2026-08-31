@@ -8,6 +8,10 @@ export const athenaSeatMigration = {
   personaSlug: "athena",
   parentSlug: "akasha-seats",
   intents: [
+    {
+      statement:
+        "A supervisor restarts onto current code without interrupting the session it holds.",
+    },
     { statement: "No writer of a seat writes it outside akasha." },
     { statement: "No seat and nothing beside a seat stand outside akasha." },
   ],
