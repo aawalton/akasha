@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bytes } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../../testing-system/gitting/gitting.module.code.ts"
@@ -183,14 +183,10 @@ test("a path that is not there is refused", () => {
 })
 
 test("a body that is not text is refused", () => {
-  const root = scratch.rootFor("akasha-edit-")
-  git(root, ["init", "--quiet"])
-  git(root, ["config", "user.email", "held@nowhere"])
-  git(root, ["config", "user.name", "Held"])
-  mkdirSync(join(root, "akasha"), { recursive: true })
+  const root = repoWith({ "akasha/one.ts": "alpha\n" })
   writeFileSync(join(root, "akasha/one.bin"), new Uint8Array([0xff, 0xfe, 0x00, 0x01]))
-  git(root, ["add", "-A"])
-  git(root, ["commit", "--quiet", "-m", "first"])
+  git(root, ["add", "--", "akasha/one.bin"])
+  git(root, ["commit", "--quiet", "-m", "held", "--", "akasha/one.bin"])
   const said = edit(
     ["--file-path", "akasha/one.bin", ...stating(root, "a", "alpha", "delta")],
     givenIn(root)
