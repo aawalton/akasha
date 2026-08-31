@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { spawnSync } from "node:child_process"
 import { appendFileSync, cpSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   identitiesCopied,
   standingFiled,
@@ -180,7 +180,7 @@ test("a name looked for where no index stands says nothing was read, not that no
   const said = answering(["held"], { AKASHA_ROOT: "/nowhere-at-all" }, AT, "/nowhere")
   expect(said.code).toBe(INPUT)
   expect(said.err[0]).toContain("was looked for and not read")
-  expect(said.err[0]).toContain(`No index stands at \`${indexIn("")}\``)
+  expect(said.err[0]).toContain(`No index stands at \`${indexNamed()}\``)
   expect(said.err[0]).not.toContain("is no command akasha carries")
 })
 
