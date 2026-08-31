@@ -39,6 +39,10 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
+      statement: "An identifier's value is read as text or as a number.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file holds one line for each page carrying the value.",
     },
     {

@@ -29,8 +29,9 @@ export function filedIn(value: Value, unique: ReadonlyMap<string, Identifier>): 
   if (id === null || slug === null || pageTypeSlug === null) return []
   const held: Filed[] = []
   for (const [propertySlug, one] of unique) {
-    const said = textAt(value, one.key)
-    if (said === null) continue
+    const found = value[one.key]
+    if (typeof found !== "string" && typeof found !== "number") continue
+    const said = String(found)
     held.push({ scope: one.reach === ALWAYS ? PAGE : pageTypeSlug, propertySlug, said })
   }
   return held
