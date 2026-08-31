@@ -1,5 +1,9 @@
 
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import {
+  akashaSeatPathForAgent,
+  besideWrittenAtMs,
+} from "./seat-akasha-beside.ts"
+import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBesideUnder } from "./seat-beside.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
 
@@ -22,25 +26,6 @@ export interface PendingRecord {
 
 export type TurnPending = Partial<Record<TurnPendingComponent, PendingRecord>>
 
-function recordIn(stored: unknown): PendingRecord | null {
-  if (stored === null || typeof stored !== "object" || Array.isArray(stored)) return null
-  const { value, at } = stored as { value?: unknown; at?: unknown }
-  if (typeof value !== "boolean") return null
-  if (typeof at !== "number" || !Number.isFinite(at)) return null
-  return { value, at }
-}
-
-export function pendingIn(stored: unknown): TurnPending {
-  if (stored === null || typeof stored !== "object" || Array.isArray(stored)) return {}
-  const held = stored as Record<string, unknown>
-  const found: Record<string, PendingRecord> = {}
-  for (const component of TURN_PENDING_COMPONENTS) {
-    const recorded = recordIn(held[component])
-    if (recorded !== null) found[component] = recorded
-  }
-  return found
-}
-
 export function pendingOn(pending: TurnPending): readonly TurnPendingComponent[] {
   return TURN_PENDING_COMPONENTS.filter((one) => pending[one]?.value === true)
 }
@@ -49,10 +34,31 @@ export function anyPendingRead(pending: TurnPending): boolean {
   return TURN_PENDING_COMPONENTS.some((one) => pending[one] !== undefined)
 }
 
+function camelOf(slug: string): string {
+  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
+}
+
+// AKASHA HOLDS WHAT A FIELD SAYS AND NOT THE MOMENT IT WAS READ, so every field is stamped with the
+// moment the seat's sidecar there was last written. That is the newest any of them can be.
+//
+// Nothing decides anything on a stamp. `anyPendingRead` asks whether a field stands at all and
+// `pendingOn` asks what it says; the one place the stamp is read is the line `seat show` prints. So
+// what is lost by reading here rather than beside the old page is one rendered time.
 export function pendingOf(agent: string): TurnPending {
   if (agent === "") return {}
-  const page = seatPageForAgent(agent)
-  return page === null ? {} : pendingIn(readUncommitted(page)?.[PENDING_KEY])
+  const held = akashaObservedOf(agent)?.[PENDING_KEY]
+  if (held === null || held === undefined || typeof held !== "object" || Array.isArray(held)) {
+    return {}
+  }
+  const page = akashaSeatPathForAgent(agent)
+  const at = page === null ? 0 : besideWrittenAtMs(page)
+  const said = held as Record<string, unknown>
+  const found: Record<string, PendingRecord> = {}
+  for (const component of TURN_PENDING_COMPONENTS) {
+    const value = said[camelOf(component)]
+    if (typeof value === "boolean") found[component] = { value, at }
+  }
+  return found
 }
 
 export function setPending(
@@ -63,7 +69,7 @@ export function setPending(
   const page = seatPageForAgent(agent)
   if (page === null) return
   const at = Date.now()
-  const standing = pendingIn(readUncommitted(page)?.[PENDING_KEY])
+  const standing = pendingOf(agent)
   // THE WHOLE RECORD IS HANDED OVER RATHER THAN THE FIELDS THAT CHANGED. Both stores are written
   // from this one call and they merge at different depths: the old store merges within the key and
   // keeps what it is not told about, akasha merges at the top of the page and replaces the record
