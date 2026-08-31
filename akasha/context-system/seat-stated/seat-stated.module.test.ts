@@ -1,46 +1,41 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../command-system/scratching/scratching.module.test-fixtures.ts"
+import { seatStanding } from "../warrant-scratch/warrant-scratch.module.code.ts"
 import { slugStated } from "./seat-stated.module.code.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function seat(root: string, slug: string, stated: string): string {
-  const path = `akasha/seat-system/seat/seats/${slug}.seat.ts`
-  standing(root, path, `export const ${slug} = { ${stated} }\n`)
-  return path
-}
-
 test("a seat states the slug it carries under the key it is asked for", () => {
   const root = scratch.rootFor("akasha-seat-stated-")
-  const at = seat(root, "one", `personaSlug: "akasha", roleSlug: "definer"`)
+  const at = seatStanding(root, "one", `personaSlug: "akasha", roleSlug: "definer"`)
   expect(slugStated(root, at, "personaSlug")).toBe("akasha")
   expect(slugStated(root, at, "roleSlug")).toBe("definer")
 })
 
 test("a slug stated under a page type is answered by its last part alone", () => {
   const root = scratch.rootFor("akasha-seat-stated-")
-  const at = seat(root, "one", `assignmentSlug: "domain/akasha-system"`)
+  const at = seatStanding(root, "one", `assignmentSlug: "domain/akasha-system"`)
   expect(slugStated(root, at, "assignmentSlug")).toBe("akasha-system")
 })
 
 test("a key the seat does not state answers nothing", () => {
   const root = scratch.rootFor("akasha-seat-stated-")
-  const at = seat(root, "one", `personaSlug: "akasha"`)
+  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   expect(slugStated(root, at, "roleSlug")).toBe(null)
 })
 
 test("a key stated as anything but text answers nothing", () => {
   const root = scratch.rootFor("akasha-seat-stated-")
-  const at = seat(root, "one", `onCall: true`)
+  const at = seatStanding(root, "one", `onCall: true`)
   expect(slugStated(root, at, "onCall")).toBe(null)
 })
 
 test("a key stated empty answers nothing", () => {
   const root = scratch.rootFor("akasha-seat-stated-")
-  const at = seat(root, "one", `personaSlug: ""`)
+  const at = seatStanding(root, "one", `personaSlug: ""`)
   expect(slugStated(root, at, "personaSlug")).toBe(null)
 })
 

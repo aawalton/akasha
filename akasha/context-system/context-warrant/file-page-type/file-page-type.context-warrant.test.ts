@@ -4,8 +4,11 @@ import { join } from "node:path"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import { mintedId } from "../../../testing-system/minting/minting.module.code.ts"
-import { indexed, pathsOf } from "../../warrant-scratch/warrant-scratch.module.code.ts"
+import {
+  indexed,
+  pageTypeStanding,
+  pathsOf,
+} from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { knowingIn, unreadIn, type Warrant } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
 import { filePageType, TYPE } from "./file-page-type.context-warrant.code.ts"
@@ -18,23 +21,10 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 const PATH = "akasha/thing/thing.module.ts"
 
-function pageType(root: string, slug: string, above: string | null): string {
-  const id = mintedId(slug)
-  const path = `akasha/${slug}/${slug}.page-type.ts`
-  const said = above === null ? "" : `, extendsSlug: "page-type/${above}"`
-  standing(
-    root,
-    path,
-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
-  )
-  indexed(root, `identity/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
-  return path
-}
-
 function typeWorld(root: string): readonly string[] {
-  const page = pageType(root, "page", null)
-  const domain = pageType(root, "domain", "page")
-  const module = pageType(root, "module", "domain")
+  const page = pageTypeStanding(root, "page", null)
+  const domain = pageTypeStanding(root, "domain", "page")
+  const module = pageTypeStanding(root, "module", "domain")
   return [module, domain, page]
 }
 
@@ -91,8 +81,8 @@ test("a file naming no page type in its name answers to no type", () => {
 
 test("a chain that turns back on itself is walked once", () => {
   const root = scratch.rootFor("akasha-file-page-type-")
-  const one = pageType(root, "one", "two")
-  const two = pageType(root, "two", "one")
+  const one = pageTypeStanding(root, "one", "two")
+  const two = pageTypeStanding(root, "two", "one")
   const at = "akasha/thing/thing.one.ts"
   standing(root, at, "body\n")
   expect(pathsOf(warrantsAt(root, at))).toEqual([one, two])
