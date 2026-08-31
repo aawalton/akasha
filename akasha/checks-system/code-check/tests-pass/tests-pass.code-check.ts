@@ -45,7 +45,7 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "The check wakes on a file the index files a test beside.",
+      statement: "A file the index files a test beside is input to the check.",
     },
     {
       invariantKind: "departure",

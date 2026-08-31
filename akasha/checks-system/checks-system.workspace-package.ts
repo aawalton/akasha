@@ -66,7 +66,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every check says what it runs on.",
+      statement: "Every check says what its input is.",
     },
     {
       invariantKind: "departure",

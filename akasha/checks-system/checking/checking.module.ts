@@ -36,15 +36,15 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check whose waking no changed path answers does not run.",
+      statement: "A check no changed path is input to does not run.",
     },
     {
       invariantKind: "departure",
-      statement: "A check stating no waking runs for every change.",
+      statement: "A check stating no input runs for every change.",
     },
     {
       invariantKind: "departure",
-      statement: "A check whose waking could not answer runs.",
+      statement: "A check whose input could not be answered runs.",
     },
     {
       invariantKind: "departure",

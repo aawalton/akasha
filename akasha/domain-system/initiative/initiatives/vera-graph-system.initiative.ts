@@ -8,9 +8,9 @@ export const veraGraphSystem = {
   personaSlug: "vera",
   intents: [
     {
-      statement: "A check's waking is no wider than what it runs on.",
+      statement: "A check's stated input is no wider than what its answer rests on.",
       workingMemory:
-        "`FILES`, `TEXTS` and `PAGES` stand in `change-walking`; `judgingEach` builds a check from one, `waking` lays one on a check keeping its own walking. All thirty-six carry one: ten sleep for a non-page `.ts`, twenty-nine for a `.md`. `PAGES` is wider than several need, `introduced-property-is-a-part` running on `*.page-type.ts` alone. A test in `checking` runs every bound check over a change its waking turns away and asks for no refusal.",
+        "`FILES`, `TEXTS` and `PAGES` stand in `change-walking`; `judgingEach` builds a check from one and `input` lays one on a check keeping its own walking. All thirty-eight state an input: seven sleep for a `.md` and ten for a non-page `.ts`, and `tests-pass` sleeps for 783 of 1299 `.ts` files. A test in `checking` runs every check over a change its input turns away and asks for no refusal.",
     },
     { statement: "No answer rests on a question the pages must be walked to settle." },
   ],
