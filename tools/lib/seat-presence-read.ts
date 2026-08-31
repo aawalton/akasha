@@ -3,7 +3,6 @@ import { parse } from "yaml"
 import { basename } from "node:path"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { pageStemOf } from "../../page/name/name.ts"
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import {
   dirOfPlaceHeld,
   dirsOfPlaces,
@@ -15,8 +14,6 @@ import {
   akashaHolderProcessOf,
   akashaSeatPathForAgent,
   akashaSeatSlugOf,
-  akashaValueOf,
-  SUPERVISOR_PROCESS,
 } from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
@@ -74,24 +71,20 @@ export function seatPagePaths(): readonly string[] {
 }
 
 // EVERY PRESENCE DECISION IN THE FLEET STANDS ON THIS ONE READ, including the sweep's decision to
-// take a page away, so it reads both stores rather than only the one the sweep can outlive.
+// take a page away. It takes an old page's path because what stands on it walks that directory, and
+// it answers from akasha because that is where the value is kept.
 //
-// The old sidecar answers while it stands, and it stands for every live seat: a supervisor writes
-// it every beat. What akasha answers for is the seat whose old sidecar has gone while its page did
-// not — which used to read as a presence that could not be established, leaving the page standing
-// and every run naming it uncertain.
+// THE OLD SIDECAR IS NOT READ, and it must not be once nothing writes it. A sidecar nothing writes
+// still names the process that held the seat when writing stopped, and that name does not read as
+// stale — it reads as a definite absence, which is exactly what takes a page away. Reading the one
+// store that is still written is what keeps this from deleting live seats.
 //
-// THIS TURNS SOME UNCERTAIN READS INTO DEFINITE ONES, and an absent answer is what lets the sweep
-// take a page. That is the point rather than a cost: the process key pairs a pid with its own start
-// time, so what is answered here is checked against /proc rather than trusted, and a seat nobody is
-// present in is what the sweep is for.
+// The page is opened for its id alone. A page stating no id, or one akasha carries no seat for, is
+// answered as a holder that cannot be read rather than as one that is gone.
 export function seatHolderProcess(pagePath: string): string | null {
-  const stated = readUncommitted(pagePath)?.[SUPERVISOR_PROCESS]
-  if (typeof stated === "string" && stated !== "") return stated
   const id = frontmatterOf(pagePath)?.["id"]
   if (typeof id !== "string" || id === "") return null
-  const also = akashaValueOf(id, SUPERVISOR_PROCESS)
-  return typeof also === "string" && also !== "" ? also : null
+  return akashaHolderProcessOf(id)
 }
 
 export function seatPresence(pagePath: string): SeatPresence {
@@ -151,12 +144,9 @@ export function seatIdForName(name: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-// WHICH PROCESS HOLDS A SEAT IS READ FROM AKASHA WHEN THE SEAT IS ASKED FOR BY ID. The old sidecar
-// is still written every beat and the two are checked against each other by the sweep, so this
-// stands on one store rather than reading both and preferring one.
-//
-// The path-shaped reads below it still open the old page, because what stands on those is the sweep,
-// whose whole work is the old store's files. They go when those files do.
+// The same answer as `seatHolderProcess`, for a caller holding an id rather than a path. Nothing
+// here reads the old store any more; what still opens an old page opens it for its id or its name,
+// and stops doing even that when the pages go.
 export function agentHolderProcess(agentId: string): string | null {
   return akashaHolderProcessOf(agentId)
 }
