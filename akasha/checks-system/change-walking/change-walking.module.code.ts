@@ -3,6 +3,7 @@ import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
+import type { Shadow } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 export type Body = {
@@ -11,9 +12,70 @@ export type Body = {
   readonly bytes: Uint8Array
 }
 
+export type Text = {
+  readonly root: string
+  readonly path: string
+  readonly text: string
+}
+
+export type Waking = (path: string) => boolean
+
+export type Selector<T> = {
+  readonly named: string
+  readonly wakesOn: Waking
+  readonly from: (change: Change, shadow: Shadow) => readonly T[]
+}
+
+export type Bounded = Running & {
+  readonly wakesOn: Waking
+}
+
 const TS = "ts"
 
 const TS_ENDING = `.${TS}`
+
+function standingIn(change: Change): readonly Body[] {
+  const found: Body[] = []
+  for (const path of change.changed) {
+    const bytes = change.after(path)
+    if (bytes === null) continue
+    found.push({ root: change.root, path, bytes })
+  }
+  return found
+}
+
+export const FILES: Selector<Body> = {
+  named: "files",
+  wakesOn: () => true,
+  from: (change) => standingIn(change),
+}
+
+export const TEXTS: Selector<Text> = {
+  named: "texts",
+  wakesOn: (path) => path.endsWith(TS_ENDING),
+  from: (change) => {
+    const found: Text[] = []
+    for (const given of standingIn(change)) {
+      if (!given.path.endsWith(TS_ENDING)) continue
+      found.push({ root: given.root, path: given.path, text: bodyOf(given) })
+    }
+    return found
+  },
+}
+
+export function judgingEach<T extends { readonly path: string }>(
+  selector: Selector<T>,
+  judge: (given: T) => readonly string[]
+): Bounded {
+  const run = (change: Change, shadow: Shadow): readonly Judged[] => {
+    const said: Judged[] = []
+    for (const given of selector.from(change, shadow)) {
+      for (const reason of judge(given)) said.push({ path: given.path, reason })
+    }
+    return said
+  }
+  return Object.assign(run, { wakesOn: selector.wakesOn })
+}
 
 export function overEachText(
   found: (path: string, text: string) => readonly string[]
@@ -33,10 +95,8 @@ export function overEachFile(
   judge: (given: Body) => readonly string[]
 ): readonly Judged[] {
   const said: Judged[] = []
-  for (const path of change.changed) {
-    const bytes = change.after(path)
-    if (bytes === null) continue
-    for (const reason of judge({ root: change.root, path, bytes })) said.push({ path, reason })
+  for (const given of standingIn(change)) {
+    for (const reason of judge(given)) said.push({ path: given.path, reason })
   }
   return said
 }

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   pathFiled,
   pathsTakenFrom,
@@ -11,10 +12,14 @@ import { shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
   everythingIn,
+  FILES,
+  judgingEach,
   judgingEachFile,
   onDisk,
   overEachFile,
   overEachText,
+  type Selector,
+  TEXTS,
 } from "./change-walking.module.code.ts"
 
 const PAGE_AT = "akasha/checks-system/change-walking/held/held.module.ts"
@@ -37,6 +42,14 @@ function worldOf(paths: readonly string[]): string {
     pathFiled(root, path, [{ path: PAGE_AT, id: HELD_ID }])
   }
   return root
+}
+
+function mixedWorld(): Change {
+  const root = scratch.rootFor("akasha-selecting-")
+  writeFileSync(join(root, "here.ts"), "here")
+  writeFileSync(join(root, "note.md"), "note")
+  const held = onDisk(root)
+  return { root, changed: ["gone.ts", "here.ts", "note.md"], after: held, before: held }
 }
 
 test("the helper hands over each body the change leaves standing, and no path it takes away", () => {
@@ -76,6 +89,44 @@ test("judging each file makes a runner of a judge, naming the path each refusal 
   expect(
     run({ root, changed: ["gone.ts", "here.ts"], after: held, before: held }, shadowAt(root))
   ).toEqual([{ path: "here.ts", reason: "here.ts holds 4 bytes" }])
+})
+
+test("the files selected are the ones the change leaves standing, whatever kind of file they are", () => {
+  const change = mixedWorld()
+  const handed = FILES.from(change, shadowAt(change.root))
+  expect(handed.map((one) => one.path)).toEqual(["here.ts", "note.md"])
+})
+
+test("the texts selected are TypeScript alone, each one handed over already read", () => {
+  const change = mixedWorld()
+  const handed = TEXTS.from(change, shadowAt(change.root))
+  expect(handed.map((one) => one.path)).toEqual(["here.ts"])
+  expect(handed.map((one) => one.text)).toEqual(["here"])
+})
+
+test("judging each of a selection makes a runner, naming the path each refusal is for", () => {
+  const change = mixedWorld()
+  const run = judgingEach(TEXTS, (given) => [`${given.path} says ${given.text.length}`])
+  expect(run(change, shadowAt(change.root))).toEqual([
+    { path: "here.ts", reason: "here.ts says 4" },
+  ])
+})
+
+test("a runner made from a selection carries what wakes it, so a gate may ask before it runs", () => {
+  const run = judgingEach(TEXTS, () => [])
+  expect(run.wakesOn("one.ts")).toBe(true)
+  expect(run.wakesOn("one.md")).toBe(false)
+})
+
+test("a selector wakes on every path it hands over, so no path it judges passes a gate unseen", () => {
+  const change = mixedWorld()
+  const shadow = shadowAt(change.root)
+  const every: readonly Selector<{ readonly path: string }>[] = [FILES, TEXTS]
+  for (const selector of every) {
+    const handed = selector.from(change, shadow)
+    expect(handed.length).toBeGreaterThan(0)
+    for (const given of handed) expect(selector.wakesOn(given.path)).toBe(true)
+  }
 })
 
 test("a walk takes a page and the files its own properties imply", () => {
