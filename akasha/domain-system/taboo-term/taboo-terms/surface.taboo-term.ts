@@ -4,5 +4,6 @@ export const surface = {
   id: "01a0593e-da3f-7c82-a364-c0a83f8171ff",
   pageTypeSlug: "taboo-term",
   slug: "surface",
+  pattern: "(?<![-_])\\bsurface\\b",
   tabooSenses: [{ sense: "a document that binds its reader", instead: "document" }],
 } as const satisfies TabooTerm
