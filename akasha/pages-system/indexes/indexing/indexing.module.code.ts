@@ -10,6 +10,7 @@ import {
 } from "node:fs"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { loadedFrom, type Value, valueAt } from "../../page/page-value/page-value.module.code.ts"
 import {
   identifyingFrom,
   sourceAmong,
@@ -31,13 +32,10 @@ import {
   filePropertiesAt,
   filePropertiesIn,
   type Identifier,
-  loadedFrom,
   pageTypesIn,
   under,
   uniquePropertiesAt,
   uniquePropertiesIn,
-  type Value,
-  valueAt,
 } from "../index-entries/index-entries.module.code.ts"
 import { everyPath, readingIn } from "../index-reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "../index-shape/index-shape.module.code.ts"

@@ -2,9 +2,6 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
   pageTypesIn,
   schemaAt,
-  textAt,
-  type Value,
-  valueIn,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
@@ -24,6 +21,11 @@ import {
   namedIn,
   pageNamed,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  textAt,
+  type Value,
+  valueIn,
+} from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bodyOf, PAGES, waking } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"

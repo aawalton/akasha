@@ -1,10 +1,8 @@
-import { mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
-import { createRequire } from "node:module"
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import { besideAt, secretAt } from "../../page/page-file-name/page-file-name.module.code.ts"
+import { slugAt, textAt, type Value } from "../../page/page-value/page-value.module.code.ts"
 import { slugFor } from "../../page-property/page-property-key/page-property-key.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
@@ -16,12 +14,6 @@ const ENDING = ".jsonl"
 const IDENTITY = indexIdentity.name
 
 const SCHEMA = indexSchema.name
-
-const SCRATCH_AT = "/var/tmp"
-
-const loadFrom = createRequire(import.meta.url)
-
-export type Value = Record<string, unknown>
 
 export type Entry = {
   readonly at: string
@@ -37,42 +29,6 @@ export type Schema = {
   readonly fileName: string | null
 }
 
-function firstValueIn(declared: Record<string, unknown>): Value | null {
-  for (const one of Object.values(declared)) {
-    if (one !== null && typeof one === "object" && !Array.isArray(one)) return one as Value
-  }
-  return null
-}
-
-export type Loaded = {
-  readonly value: Value | null
-  readonly failed: string | null
-}
-
-export function loadedFrom(body: string): Loaded {
-  const held = mkdtempSync(join(SCRATCH_AT, "akasha-index-"))
-  try {
-    const at = join(held, "held.page.ts")
-    writeFileSync(at, body)
-    return { value: firstValueIn(loadFrom(at) as Record<string, unknown>), failed: null }
-  } catch (why) {
-    return { value: null, failed: why instanceof Error ? why.message : String(why) }
-  } finally {
-    rmSync(held, { recursive: true, force: true })
-  }
-}
-
-export function valueIn(body: string): Value | null {
-  return loadedFrom(body).value
-}
-
-export function valueAt(path: string, repo: string): Value | null {
-  const at = isAbsolute(path) ? path : join(repo, path)
-  const stood = statSync(at, { throwIfNoEntry: false })
-  if (stood === undefined || !stood.isFile()) return null
-  return loadedFrom(readFileSync(at, "utf8")).value
-}
-
 export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
   const dir = join(IDENTITY, "page-type", "slug")
   return new Set<string>([
@@ -83,23 +39,8 @@ export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
   ])
 }
 
-export function slugOf(named: string): string {
-  const address = addressIn(named)
-  return address.kind === "id" ? named : address.slug
-}
-
 export function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path
-}
-
-export function textAt(value: Value, key: string): string | null {
-  const held = value[key]
-  return typeof held === "string" ? held : null
-}
-
-export function numberAt(value: Value, key: string): number | null {
-  const held = value[key]
-  return typeof held === "number" ? held : null
 }
 
 const FILE_PROPERTY = "file-property"
@@ -156,11 +97,6 @@ const PROPERTY = "page-property"
 const SLUG = "slug"
 
 const SCHEMA_UNDER = join(SCHEMA, PROPERTY)
-
-export function slugAt(value: Value, key: string): string | null {
-  const named = textAt(value, key)
-  return named === null ? null : slugOf(named)
-}
 
 const OUTSIDE = ".."
 

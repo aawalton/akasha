@@ -3,8 +3,6 @@ import ts from "typescript"
 import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
 import { spelledIn } from "../../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
-import type { Value } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { valueIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   namersOf,
   readingIn,
@@ -19,6 +17,8 @@ import {
 import { addressIn } from "../../../../pages-system/page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import type { Value } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
+import { valueIn } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
 
 const SLUG = "slug"
 

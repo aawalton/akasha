@@ -2,11 +2,9 @@ import ts from "typescript"
 import { parsedAs } from "../../code-system/code-source/code-source.module.code.ts"
 import type { Generated } from "../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { generatedProperties } from "../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
-import {
-  loadedFrom,
-  pageTypesIn,
-} from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { loadedFrom } from "../../pages-system/page/page-value/page-value.module.code.ts"
 import { type Shadow, shadowFor } from "../../pages-system/shadow/shadow.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"

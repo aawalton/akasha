@@ -5,12 +5,9 @@ import { readingAt } from "../index-surface/index-surface.module.code.ts"
 import {
   filePropertiesAt,
   filePropertiesIn,
-  loadedFrom,
   pathsOf,
   schemaAt,
   uniquePropertiesAt,
-  valueAt,
-  valueIn,
 } from "./index-entries.module.code.ts"
 import { A, grounded, scratch } from "./index-entries.module.test-fixtures.ts"
 
@@ -21,19 +18,6 @@ function filedAs(
 ): ReadonlyMap<string, string | null> {
   return new Map(Object.entries(said))
 }
-
-test("a body exporting one object is answered with that object", () => {
-  expect(valueIn(`export const it = { id: "${A}", slug: "a" } as const\n`)).toEqual({
-    id: A,
-    slug: "a",
-  })
-})
-
-test("a body that will not load is answered with why rather than by throwing", () => {
-  const loaded = loadedFrom("the new body")
-  expect(loaded.value).toBe(null)
-  expect(typeof loaded.failed).toBe("string")
-})
 
 test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
@@ -94,15 +78,6 @@ test("a page carrying both is claimed under the built name and under the stated 
     "deep/a.module.code.ts",
     "deep/package.json",
   ])
-})
-
-test("a body that will not load answers with no value rather than throwing", () => {
-  expect(
-    valueIn(
-      `import { oidOf } from "./reading.module.code.ts"\nexport const it = { id: oidOf("x") }\n`
-    )
-  ).toBe(null)
-  expect(valueIn("the new body")).toBe(null)
 })
 
 function declaring(
@@ -224,24 +199,4 @@ test("a stated file name holds a property in a file whatever page type the prope
   })
 
   expect([...filePropertiesAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
-})
-
-test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
-  const repo = scratch.rootFor("akasha-entries-folder-")
-  mkdirSync(join(repo, "held"), { recursive: true })
-
-  expect(valueAt("held", repo)).toBe(null)
-})
-
-test("a path standing as nothing holds no page", () => {
-  const repo = scratch.rootFor("akasha-entries-gone-")
-
-  expect(valueAt("gone.module.ts", repo)).toBe(null)
-})
-
-test("a path standing as a file is read for the page it holds", () => {
-  const repo = scratch.rootFor("akasha-entries-file-")
-  writeFileSync(join(repo, "held.module.ts"), 'export const held = { slug: "held" }\n', "utf8")
-
-  expect(valueAt("held.module.ts", repo)?.["slug"]).toBe("held")
 })

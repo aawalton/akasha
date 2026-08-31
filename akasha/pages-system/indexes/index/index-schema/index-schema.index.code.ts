@@ -1,11 +1,6 @@
 import { join } from "node:path"
-import {
-  type Entry,
-  type Schema,
-  slugAt,
-  textAt,
-  type Value,
-} from "../../index-entries/index-entries.module.code.ts"
+import { slugAt, textAt, type Value } from "../../../page/page-value/page-value.module.code.ts"
+import type { Entry, Schema } from "../../index-entries/index-entries.module.code.ts"
 import { indexSchema } from "./index-schema.index.ts"
 
 const SCHEMA = indexSchema.name

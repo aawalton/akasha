@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   type Formatting,
   matchingIn,
 } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
+import type { Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import {
   type Carried,
   propertiesOf,

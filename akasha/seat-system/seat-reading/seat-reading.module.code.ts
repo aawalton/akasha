@@ -1,13 +1,10 @@
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import {
-  type Value,
-  valueAt,
-} from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
   everyOfTypeAnswered,
   standingById,
   typeSlugByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

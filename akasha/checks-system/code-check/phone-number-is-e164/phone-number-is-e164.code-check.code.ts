@@ -1,10 +1,7 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import {
-  pageTypesIn,
-  textAt,
-  type Value,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { textAt, type Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import { propertiesOf } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"

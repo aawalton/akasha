@@ -7,8 +7,6 @@ import {
   referencesOf,
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
-import type { Value } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { valueIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyOfTypeAnswered,
   namersOf,
@@ -26,6 +24,8 @@ import {
   exportedAs,
   typedAs,
 } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import type { Value } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
+import { valueIn } from "../../../../pages-system/page/page-value/page-value.module.code.ts"
 import type { Renaming, Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 

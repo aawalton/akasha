@@ -33,6 +33,7 @@ export const pagesSystem = {
     "module/page-beside",
     "module/page-uncommitted",
     "module/page-secret",
+    "module/page-value",
     "module/shadow",
   ],
   invariants: [

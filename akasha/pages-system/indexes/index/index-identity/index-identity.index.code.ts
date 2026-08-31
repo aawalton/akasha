@@ -1,11 +1,7 @@
 import { join } from "node:path"
+import { textAt, type Value } from "../../../page/page-value/page-value.module.code.ts"
 import type { Identifying } from "../../../page-type/page-type-properties/page-type-properties.module.code.ts"
-import {
-  type Entry,
-  textAt,
-  under,
-  type Value,
-} from "../../index-entries/index-entries.module.code.ts"
+import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 
 const IDENTITY = indexIdentity.name

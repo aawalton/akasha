@@ -1,10 +1,6 @@
 import { join } from "node:path"
-import {
-  type Entry,
-  textAt,
-  under,
-  type Value,
-} from "../../index-entries/index-entries.module.code.ts"
+import { textAt, type Value } from "../../../page/page-value/page-value.module.code.ts"
+import { type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { namesIn, reaches, recordsIn, type Shaped } from "../../reaching/reaching.module.code.ts"
 import { indexRelation } from "./index-relation.index.ts"
 

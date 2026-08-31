@@ -1,10 +1,10 @@
-import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   rebuiltIn,
   schemaFiled,
   standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import type { Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import type { Carried } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"

@@ -1,6 +1,7 @@
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
+import { slugOf, textAt } from "../../page/page-value/page-value.module.code.ts"
 import type { Shadow } from "../../shadow/shadow.module.code.ts"
-import { schemaAt, slugOf, textAt } from "../index-entries/index-entries.module.code.ts"
+import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import { standingAt } from "../index-reading/index-reading.module.code.ts"
 
 const GENERATOR = "generator"

@@ -1,10 +1,10 @@
-import { valueAt } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   everyOfTypeAnswered,
   idsNaming,
   typeSlugByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 

@@ -1,12 +1,12 @@
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 import {
-  schemaAt,
   slugOf,
   textAt,
   type Value,
   valueAt,
-} from "../index-entries/index-entries.module.code.ts"
+} from "../../page/page-value/page-value.module.code.ts"
+import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
   type Standing,

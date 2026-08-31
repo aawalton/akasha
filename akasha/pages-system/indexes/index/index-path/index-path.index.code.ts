@@ -1,11 +1,6 @@
 import { join } from "node:path"
-import {
-  claimsOf,
-  type Entry,
-  textAt,
-  under,
-  type Value,
-} from "../../index-entries/index-entries.module.code.ts"
+import { textAt, type Value } from "../../../page/page-value/page-value.module.code.ts"
+import { claimsOf, type Entry, under } from "../../index-entries/index-entries.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
 const PATH = indexPath.name

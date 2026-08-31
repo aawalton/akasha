@@ -1,9 +1,7 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import {
-  pageTypesIn,
-  textAt,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { declaringOf } from "../../../pages-system/indexes/property-carrying/property-carrying.module.code.ts"
+import { textAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import {
   carriedIn,

@@ -11,10 +11,6 @@ export const indexEntries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's body can be loaded after the file it came from is gone.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page states its own path and the file each of its file properties names.",
     },
     {

@@ -2,11 +2,11 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { valueAt } from "../../indexes/index-entries/index-entries.module.code.ts"
 import {
   schemaFiled,
   standingFiled,
 } from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { valueAt } from "../../page/page-value/page-value.module.code.ts"
 import { type Carried, declarationsOf, propertiesOf } from "./page-type-properties.module.code.ts"
 
 const scratch = scratchWorld()

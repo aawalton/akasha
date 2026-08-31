@@ -1,17 +1,17 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
-import {
-  loadedFrom,
-  numberAt,
-  pageTypesIn,
-  textAt,
-  type Value,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   type Formatting,
   matchingIn,
 } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  loadedFrom,
+  numberAt,
+  textAt,
+  type Value,
+} from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import {
   type Carried,
   carriedIn,

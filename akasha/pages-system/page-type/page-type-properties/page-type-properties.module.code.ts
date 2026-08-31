@@ -1,10 +1,4 @@
-import {
-  type Identifier,
-  numberAt,
-  slugAt,
-  textAt,
-  type Value,
-} from "../../indexes/index-entries/index-entries.module.code.ts"
+import type { Identifier } from "../../indexes/index-entries/index-entries.module.code.ts"
 import {
   type Schema,
   schemaOf,
@@ -13,6 +7,12 @@ import {
 import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
 import { addressIn, slugIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
+import {
+  numberAt,
+  slugAt,
+  textAt,
+  type Value,
+} from "../../page/page-value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

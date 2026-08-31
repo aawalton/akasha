@@ -1,12 +1,9 @@
 import {
-  textAt,
-  valueAt,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import {
   type Standing,
   standingAddressed,
   standingAt,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../seat-stated/seat-stated.module.code.ts"
 import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 

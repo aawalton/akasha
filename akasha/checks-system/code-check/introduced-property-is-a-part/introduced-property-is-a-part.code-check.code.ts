@@ -1,13 +1,10 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import {
-  pageTypesIn,
-  textAt,
-  type Value,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { textAt, type Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import {
   declarationsOf,
   identityOf,
