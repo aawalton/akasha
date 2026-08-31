@@ -1,6 +1,6 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
-import type { ComponentSlugs } from "./properties/component-slugs.relation-property.ts"
+import type { ComponentSlugs } from "../ios-program/properties/component-slugs.relation-property.ts"
 
 export type IosApp = Domain & {
   componentSlugs: ComponentSlugs
