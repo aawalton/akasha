@@ -8,6 +8,7 @@ export const keyNamesOneProperty = {
     "the check holding each of a declarer's keys to one property, narrowed where restated",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

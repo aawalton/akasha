@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   declaring,
   edging,
@@ -10,24 +9,22 @@ import {
   identified,
   landing,
   pathFor,
-  put,
-  stands,
   typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
+import {
+  ONE,
+  PAGE_TYPE,
+  propertied,
+  RECORD,
+  recording,
+  restating,
+  TEXT,
+  THREE,
+  TWO,
+  typing,
+} from "../key-names-one-property/key-names-one-property.code-check.test-fixtures.ts"
 import { restatementNarrowsSomething } from "./restatement-narrows-something.code-check.code.ts"
-
-const PAGE_TYPE = "page-type"
-
-const TEXT = "text-property"
-
-const RECORD = "record-property"
-
-const ONE = "01a058ff-fbf9-7001-8000-000000000001"
-
-const TWO = "01a058ff-fbf9-7002-8000-000000000002"
-
-const THREE = "01a058ff-fbf9-7003-8000-000000000003"
 
 const scratch = scratchWorld()
 
@@ -46,80 +43,20 @@ function rooted(): string {
   return root
 }
 
-function typing(
-  root: string,
-  slug: string,
-  id: string,
-  above: string | null,
-  declared: readonly Record<string, unknown>[]
-): Uint8Array {
-  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
-  stands(root, PAGE_TYPE, slug, id)
-  return put(
-    root,
-    pathFor(PAGE_TYPE, slug),
-    bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "page-type", ` +
-        `slug: ${JSON.stringify(slug)}, extendsSlug: ${said}, ` +
-        `properties: ${JSON.stringify(declared)} }\n`
-    )
-  )
-}
-
-function recording(
-  root: string,
-  slug: string,
-  id: string,
-  declared: readonly Record<string, unknown>[]
-): Uint8Array {
-  stands(root, RECORD, slug, id)
-  return put(
-    root,
-    pathFor(RECORD, slug),
-    bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(RECORD)}, ` +
-        `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)}, ` +
-        `properties: ${JSON.stringify(declared)} }\n`
-    )
-  )
-}
-
-function propertied(root: string, kind: string, slug: string, id: string): Uint8Array {
-  stands(root, kind, slug, id)
-  return put(
-    root,
-    pathFor(kind, slug),
-    bytesOf(
-      `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
-        `slug: ${JSON.stringify(slug)}, propertySlug: ${JSON.stringify(slug)} }\n`
-    )
-  )
-}
-
 function judged(change: Change): readonly Judged[] {
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   return restatementNarrowsSomething(change, cast.shadow)
 }
 
-function restating(
-  root: string,
-  above: Record<string, unknown>,
-  below: Record<string, unknown>
-): readonly Judged[] {
-  typing(root, "over", TWO, null, [{ pagePropertySlug: "held", ...above }])
-  return judged(
-    landing(root, {
-      [pathFor(PAGE_TYPE, "under")]: typing(root, "under", ONE, "over", [
-        { pagePropertySlug: "held", ...below },
-      ]),
-    })
-  )
-}
-
 test("a restatement saying again what the type above it says is refused", () => {
   const root = rooted()
-  const said = restating(root, { required: true, many: false }, { required: true, many: false })
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: false }
+  )
 
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(pathFor(PAGE_TYPE, "under"))
@@ -131,7 +68,12 @@ test("a restatement saying again what the type above it says is refused", () => 
 
 test("a restatement making an optional property required is let through", () => {
   const root = rooted()
-  const said = restating(root, { required: false, many: false }, { required: true, many: false })
+  const said = restating(
+    root,
+    judged,
+    { required: false, many: false },
+    { required: true, many: false }
+  )
 
   expect(said).toEqual([])
 })
@@ -140,6 +82,7 @@ test("a restatement lowering a max is let through", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: true, max: 20 },
     { required: true, many: true, max: 5 }
   )
@@ -151,6 +94,7 @@ test("a restatement binding a max that stood unbounded is let through", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: true, max: null },
     { required: true, many: true, max: 5 }
   )
@@ -162,6 +106,7 @@ test("a restatement lowering a total is let through", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: true, max: null, total: 100 },
     { required: true, many: true, max: null, total: 50 }
   )
@@ -173,6 +118,7 @@ test("a restatement taking a value out of the commit is let through", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: false },
     { required: true, many: false, uncommitted: true }
   )
@@ -184,6 +130,7 @@ test("a restatement taking a value out of the open is let through", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: false },
     { required: true, many: false, secret: true }
   )
@@ -193,7 +140,12 @@ test("a restatement taking a value out of the open is let through", () => {
 
 test("a restatement loosening what is required is left to the check refusing that", () => {
   const root = rooted()
-  const said = restating(root, { required: true, many: false }, { required: false, many: false })
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: false, many: false }
+  )
 
   expect(said).toEqual([])
 })
@@ -202,6 +154,7 @@ test("a restatement raising a max is left to the check refusing that", () => {
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: true, max: 5 },
     { required: true, many: true, max: 20 }
   )
@@ -211,7 +164,12 @@ test("a restatement raising a max is left to the check refusing that", () => {
 
 test("a restatement turning a property from one to many is left to the check refusing that", () => {
   const root = rooted()
-  const said = restating(root, { required: true, many: false }, { required: true, many: true })
+  const said = restating(
+    root,
+    judged,
+    { required: true, many: false },
+    { required: true, many: true }
+  )
 
   expect(said).toEqual([])
 })
@@ -220,6 +178,7 @@ test("a restatement raising a total alone is refused for narrowing nothing", () 
   const root = rooted()
   const said = restating(
     root,
+    judged,
     { required: true, many: true, max: null, total: 50 },
     { required: true, many: true, max: null, total: 100 }
   )
