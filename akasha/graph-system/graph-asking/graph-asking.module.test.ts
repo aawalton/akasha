@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
+import { readingLaidOver } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {
   APART_AT,
@@ -25,7 +26,6 @@ import {
   LOADER_AT,
   LOADER_CODE_AT,
   LOADER_ID,
-  laidOver,
   loadingWorld,
   MODULE,
   MODULE_TYPE_AT,
@@ -195,7 +195,9 @@ test("a check page in the corpus is answered with the module that loads it, and 
 
 test("an import edge standing only in the reading given is answered, and none without it", () => {
   const root = importWorld(IMPORT)
-  const over = laidOver(root, { [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }] })
+  const over = readingLaidOver(root, {
+    [`${IMPORT}/path/${FIRST_AT}.jsonl`]: [{ path: SECOND_AT }],
+  })
 
   expect(edgesInto(root, FIRST_AT, [IMPORT_EDGE], over)).toEqual([
     { kind: IMPORT_EDGE, from: SECOND_AT, to: FIRST_AT, attrs: { [KNOWN]: AT_INDEX } },
@@ -206,7 +208,7 @@ test("an import edge standing only in the reading given is answered, and none wi
 test("an import edge the reading given empties is not answered, and stands without it", () => {
   const root = importWorld(IMPORT)
   filed(root, `${IMPORT}/path/${FIRST_AT}.jsonl`, { path: THIRD_AT })
-  const over = laidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
+  const over = readingLaidOver(root, { [`${IMPORT}/path/${TARGET_AT}.jsonl`]: [] })
 
   expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE], over)).toEqual([])
   expect(edgesInto(root, TARGET_AT, [IMPORT_EDGE])).toEqual([
@@ -216,7 +218,7 @@ test("an import edge the reading given empties is not answered, and stands witho
 
 test("a relation edge standing only in the reading given is answered, and none without it", () => {
   const root = relationWorld(0)
-  const over = laidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
+  const over = readingLaidOver(root, { [LEAF_AT]: [{ path: SOURCE_AT }] })
 
   expect(edgesInto(root, TARGET_AT, [RELATION], over)).toEqual([
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
@@ -226,7 +228,7 @@ test("a relation edge standing only in the reading given is answered, and none w
 
 test("a page type standing only in the reading given answers the code it says loads a page", () => {
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`, false)
-  const over = laidOver(root, { [TYPE_STANDS_AT]: [{ path: TYPE_AT, id: TYPE_ID }] })
+  const over = readingLaidOver(root, { [TYPE_STANDS_AT]: [{ path: TYPE_AT, id: TYPE_ID }] })
 
   expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE], over)).toEqual([
     { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_AT, attrs: { [KNOWN]: DECLARED } },
@@ -239,7 +241,7 @@ test("a page type standing only in the reading given answers the code it says lo
 
 test("an edge kind's own pages, standing only in the reading given, still answer it", () => {
   const root = relationWorld(1, false)
-  const over = laidOver(root, {
+  const over = readingLaidOver(root, {
     [edgeStandsAt(RELATION)]: [{ path: EDGE_AT, id: EDGE_ID }],
     [INDEX_STANDS_AT]: [{ path: INDEX_AT, id: INDEX_ID }],
   })
@@ -284,7 +286,9 @@ test("a seed is part of the answer, and a seed the predicate turns away is none 
 
 test("a closure walks the edges the reading it was given answers, and none it does not", () => {
   const root = reachingWorld({ [FIRST_AT]: [SECOND_AT] })
-  const over = laidOver(root, { [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }] })
+  const over = readingLaidOver(root, {
+    [`${IMPORT}/path/${SECOND_AT}.jsonl`]: [{ path: THIRD_AT }],
+  })
   const every = [FIRST_AT, SECOND_AT, THIRD_AT]
 
   expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], () => true, over)).toEqual(every)

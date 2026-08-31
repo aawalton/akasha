@@ -8,8 +8,9 @@ import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
 import { type Stamp, stampKept, stampTaken } from "../index-stamp/index-stamp.module.code.ts"
+import { overlaidOn, type Reading } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
-import { indexIn } from "./index-reading.module.code.ts"
+import { indexIn, readingIn } from "./index-reading.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -156,6 +157,17 @@ export function entriesFiled(root: string, entries: readonly Entry[]): undefined
 
 export function linesFiled(root: string, at: string, lines: readonly unknown[]): undefined {
   written(root, at, lines)
+}
+
+export function readingLaidOver(
+  root: string,
+  said: Readonly<Record<string, readonly unknown[]>>
+): Reading {
+  const filings = Object.entries(said).map(([at, lines]) => ({
+    at,
+    lines: lines.map((one) => JSON.stringify(one)),
+  }))
+  return overlaidOn(readingIn(root), filings)
 }
 
 export function everythingFiled(root: string): readonly string[] {

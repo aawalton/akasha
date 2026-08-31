@@ -1,14 +1,8 @@
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   linesFiled,
   stampedIn,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import {
-  overlaidOn,
-  type Reading,
-  readingAt,
-} from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { gitIn } from "../../testing-system/gitting/gitting.module.code.ts"
 import { put } from "../../testing-system/putting/putting.module.code.ts"
 
@@ -118,17 +112,6 @@ function filedAll(root: string, at: string, said: readonly Record<string, string
 
 export function filed(root: string, at: string, said: Record<string, string>): undefined {
   filedAll(root, at, [said])
-}
-
-export function laidOver(
-  root: string,
-  said: Readonly<Record<string, readonly Record<string, string>[]>>
-): Reading {
-  const filings = Object.entries(said).map(([at, lines]) => ({
-    at,
-    lines: lines.map((one) => JSON.stringify(one)),
-  }))
-  return overlaidOn(readingAt(indexIn(root)), filings)
 }
 
 export const INDEX_STANDS_AT = `identity/${INDEX}/slug/${HELD_INDEX}.jsonl`
