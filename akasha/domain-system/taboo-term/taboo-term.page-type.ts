@@ -47,7 +47,7 @@ export const tabooTerm = {
       statement: "A taboo term states no warrant for what it bars.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A change adding text a pattern finds is refused until that term has been read.",
     },
   ],
