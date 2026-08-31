@@ -5,6 +5,7 @@ import {
 import { everyOfTypeAnswered } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { secretsIn } from "../../akasha/pages-system/page/page-secret/page-secret.module.code.ts"
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 
@@ -132,6 +133,42 @@ export function akashaAccountBeside(account: string): Record<string, unknown> | 
   const held = uncommittedIn(akashaRoot(), page)
   if (held === null) return {}
   return underOldKeys(held as Record<string, unknown>, OBSERVED)
+}
+
+// Every old key, by the name akasha declares it under.
+const AKASHA_NAMED: ReadonlyMap<string, string> = new Map(
+  [...Object.entries(STATED), ...Object.entries(OBSERVED)].map(([old, said]) => [said, old])
+)
+
+// The keys a mark goes beside an account's page under rather than into it.
+//
+// This is the routing table every mark passes through: a key named here is held beside the page,
+// and a key not named here is written into the page body and landed as a commit. Reading it as
+// empty would not fail — it would quietly route every token expiry and both usage percentages
+// into tracked page bodies, landing volatile churn as commits on every pass, for every account.
+// So a table that cannot be read is refused rather than answered as a table naming nothing.
+export function akashaUncommittedKeys(): ReadonlySet<string> {
+  const root = akashaRoot()
+  const declared = propertiesOf(PAGE_TYPE, root, (path) => valueAt(path, root))
+  if (declared.length === 0) {
+    throw new Error(
+      `no \`${PAGE_TYPE}\` page type could be read from ${root}, and where each value a mark ` +
+        `carries stands is declared there and nowhere else, so where to write one is unknown ` +
+        `rather than the page body by default`
+    )
+  }
+  const beside = new Set<string>()
+  for (const one of declared) {
+    if (!one.uncommitted) continue
+    // Matched on the key a page is read by rather than the slug the declaration reaches it with,
+    // because the naming above is written in the keys akasha carries.
+    //
+    // A declaration akasha carries that no old key names is one the old writers never wrote, so
+    // it routes nothing and is left out rather than guessed a name for.
+    const named = AKASHA_NAMED.get(one.key)
+    if (named !== undefined) beside.add(named)
+  }
+  return beside
 }
 
 // The secrets an account holds, under the keys its sops file spells. Throws where a sidecar

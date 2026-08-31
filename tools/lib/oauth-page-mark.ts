@@ -2,17 +2,13 @@ import { existsSync, readFileSync } from "node:fs"
 
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { uncommittedPathFor, readUncommitted, writeUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import { akashaUncommittedKeys } from "./claude-account-akasha.ts"
 import { type GatedAct, type Landed, landBodies, recordReading } from "./gated-landing.ts"
 import { accountPage, pagesRoot } from "./oauth-page-push.ts"
-import { diskFileTree } from "../../page/file-tree.ts"
-import { uncommittedKeysFor } from "./page-uncommitted-keys.ts"
-import { resolveRoots } from "../../repo/roots/roots.ts"
 
 const OPENER = "---"
 
 const KEY_SHAPE = /^([a-z0-9][a-z0-9-]*):(?:\s|$)/
-
-const PAGE_TYPE = "claude-account"
 
 const WRITER = "claude-account-mark-writer"
 
@@ -75,14 +71,6 @@ export function markedFrontmatter(text: string, marks: Marks): MarkedText {
   return rebuilt === body ? { text: body } : { text: rebuilt }
 }
 
-function uncommittedKeysOnAccounts(root: string): ReadonlySet<string> {
-  try {
-    return uncommittedKeysFor(diskFileTree({ ...resolveRoots(), akasha: root }), PAGE_TYPE)
-  } catch {
-    return new Set<string>()
-  }
-}
-
 function heldUncommitted(at: string, marks: Marks): string | null {
   try {
     exclusively(uncommittedPathFor(at), () => {
@@ -129,7 +117,10 @@ export function holdMarksOnPage(
       return { kind: "skipped", account, why: `no page stands at ${relPath}, and a mark belongs to one` }
     }
 
-    const uncommittedKeys = uncommittedKeysOnAccounts(root)
+    // Where each mark goes is declared on the claude-account page type and nowhere else. This
+    // throws where that cannot be read, and the catch below answers it as a refusal, because a
+    // mark written to the wrong side of the commit is worse than a mark not written at all.
+    const uncommittedKeys = akashaUncommittedKeys()
     const uncommitted: Record<string, string | null> = {}
     const onPage: Record<string, string | null> = {}
     for (const [key, value] of Object.entries(marks)) {
