@@ -10,11 +10,15 @@ export const amyJennyUnreviewedWidget = {
   invariants: [
     {
       invariantKind: "gap",
-      statement: "Alan's site deploys from akasha.",
+      statement: "Alan's iOS app is built from akasha.",
     },
     {
       invariantKind: "gap",
-      statement: "Alan's iOS app is built from akasha.",
+      statement: "Jenny's iOS app is built from akasha.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Alan's site deploys from akasha.",
     },
     {
       invariantKind: "gap",
@@ -48,10 +52,6 @@ export const amyJennyUnreviewedWidget = {
     {
       invariantKind: "gap",
       statement: "Jenny's site deploys from akasha.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "Jenny's iOS app is built from akasha.",
     },
     {
       invariantKind: "gap",
