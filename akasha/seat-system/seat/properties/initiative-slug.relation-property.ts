@@ -10,11 +10,4 @@ export const initiativeSlug = {
   propertySlug: "initiative-slug",
   definition: "the initiative a seat is working on",
   targetPageTypeSlug: "page-type/initiative",
-  invariants: [
-    {
-      invariantKind: "stopgap",
-      statement:
-        "A slug here is checked against the old system's files rather than the initiatives standing in akasha.",
-    },
-  ],
 } as const satisfies RelationProperty
