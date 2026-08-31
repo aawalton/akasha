@@ -156,16 +156,16 @@ export const IDENTIFIERS: readonly Named[] = [
   aType("0", "page", null, ["id", "slug"]),
   aType("5", "page-property", "page"),
   aType("9", "text-property", "page-property"),
+  aType("10", "relation-property", "page-property"),
+  aType("1", "domain", "page"),
+  aType("2", "module", "domain"),
   thePage(idPage),
   thePage(slugPage),
 ]
 
 export const VOCABULARY: readonly Named[] = [
   ...IDENTIFIERS,
-  aType("10", "relation-property", "page-property"),
   aType("11", "file-property", "page-property"),
-  aType("1", "domain", "page"),
-  aType("2", "module", "domain"),
   aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
   aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
   aProperty("6", "code", "file-property"),
