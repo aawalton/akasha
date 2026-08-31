@@ -33,6 +33,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type no page is filed under is answered empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question is refused only where the index it reads is not there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address stating no page type is answered under the one its caller names.",
     },
     {

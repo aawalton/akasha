@@ -278,11 +278,8 @@ export function everyOfTypeAnswered(
   given: string | Reading,
   pageTypeSlug: string
 ): readonly Standing[] {
-  return answered(
-    given,
-    join(IDENTITY, pageTypeSlug, SLUG),
-    `which \`${pageTypeSlug}\` pages stand`,
-    (reading) => everyOfType(reading, pageTypeSlug)
+  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
+    everyOfType(reading, pageTypeSlug)
   )
 }
 
