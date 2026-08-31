@@ -71,10 +71,6 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A page and the files it claims are taken away together or not at all.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file carried along beside a path taken away is not warranted.",
     },
     {
