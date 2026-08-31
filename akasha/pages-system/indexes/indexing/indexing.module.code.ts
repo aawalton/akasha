@@ -11,7 +11,6 @@ import {
 import { dirname, isAbsolute, join, relative } from "node:path"
 import { namedIn, pageNamed } from "../../page/page-file-name/page-file-name.module.code.ts"
 import {
-  type Identifying,
   identifyingFrom,
   sourceAmong,
   sourceIn,
@@ -34,7 +33,6 @@ import {
   type Identifier,
   loadedFrom,
   pageTypesIn,
-  textAt,
   under,
   uniquePropertiesAt,
   uniquePropertiesIn,
@@ -198,27 +196,6 @@ function refusingEmpty(unique: ReadonlyMap<string, Identifier>, pages: number): 
   if (pages > 0 && unique.size === 0) throw new Error(NOTHING_DECLARES)
 }
 
-const NOTHING_NAMES =
-  "these pages carry an id no identifier filed, their page types declaring none — the index refuses rather than answering empty"
-
-function identityOver(
-  held: readonly { readonly path: string; readonly value: Value }[],
-  repo: string,
-  identifying: Identifying
-): readonly Entry[] {
-  const filed: Entry[] = []
-  const unnamed: string[] = []
-  for (const one of held) {
-    const entries = identityIn(one.value, one.path, repo, identifying)
-    if (entries.length === 0 && textAt(one.value, "id") !== null) {
-      unnamed.push(under(repo, one.path))
-    }
-    filed.push(...entries)
-  }
-  if (unnamed.length > 0) throw new Error(`${NOTHING_NAMES} — ${unnamed.sort().join(", ")}`)
-  return filed
-}
-
 export function rebuiltFrom(
   tree: string,
   root: string,
@@ -235,7 +212,7 @@ export function rebuiltFrom(
   const schema = held.flatMap((one) => schemaIn(one.value))
   refusingEmpty(unique, held.length)
   const identifying = identifyingFrom(sourceOver(values))
-  const identity = identityOver(held, repo, identifying)
+  const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   reconcile(join(root, IDENTITY), identity, root)
   const paths = held.flatMap((one) => pathIn(one.value, one.path, repo, fileProperties))
   reconcile(join(root, PATH), paths, root)
