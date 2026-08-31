@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
-import { readFileSync } from "node:fs"
+import { lowerUuid } from "../../name-format/lower-uuid/lower-uuid.name-format.code.ts"
 import type { Address } from "./page-address.module.code.ts"
 import { addressIn, slugIn } from "./page-address.module.code.ts"
-
-const CODE = `${import.meta.dir}/page-address.module.code.ts`
 
 const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
 
@@ -62,6 +60,9 @@ test("a slug is taken off a qualified address and an id answers nothing", () => 
   expect(slugIn("01a04e92-bfba-7ca8-b12b-37b6a6a4c408")).toBe(null)
 })
 
-test("this module imports nothing, so everything that resolves an address can reach it", () => {
-  expect(readFileSync(CODE, "utf8")).not.toMatch(/^\s*import\s/m)
+test("what an id is judged by is the lower uuid format's own shape", () => {
+  expect(lowerUuid(ID)).toBe(true)
+  expect(addressIn(ID).kind).toBe("id")
+  expect(lowerUuid(ID.toUpperCase())).toBe(false)
+  expect(addressIn(ID.toUpperCase()).kind).toBe("bare")
 })

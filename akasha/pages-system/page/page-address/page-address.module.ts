@@ -22,15 +22,11 @@ export const pageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "This module imports nothing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An address naming a page by id carries no slug.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The lower uuid shape stands here a second time.",
+      invariantKind: "departure",
+      statement: "The shape an id is judged by is the lower uuid format's own.",
     },
   ],
 } as const satisfies Module
