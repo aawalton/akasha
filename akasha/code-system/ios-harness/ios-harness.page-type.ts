@@ -10,7 +10,7 @@ export const iosHarness = {
   id: "01a0584d-22a8-7eb5-83f8-e9912fd9297c",
   pageTypeSlug: "page-type",
   slug: "ios-harness",
-  definition: "code that proves an iOS component",
+  definition: "code that draws an iOS component to be looked at",
   pluralSlug: "ios-harnesses",
   partSlugs: [
     "ios-harness/render-harness-cases",
@@ -35,7 +35,15 @@ export const iosHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness compiles the components it proves.",
+      statement: "A harness compiles the components it draws.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whoever changed the drawing looks at what it drew.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No blessed image stands to be compared against.",
     },
   ],
 } as const satisfies PageType
