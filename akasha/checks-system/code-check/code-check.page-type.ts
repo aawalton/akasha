@@ -56,6 +56,7 @@ export const codeCheck = {
     "code-check/property-is-declared-by-a-type",
     "code-check/relation-resolves",
     "code-check/require-import-extension",
+    "code-check/restatement-narrows-something",
     "code-check/statement-states-one-thing",
     "code-check/tests-pass",
     "code-check/typecheck",

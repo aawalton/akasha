@@ -93,7 +93,7 @@ function looseningAt(key: string, nearer: Declared, further: Declared, how: stri
   )
 }
 
-function looseningIn(nearer: Declared, further: Declared): string | null {
+export function looseningIn(nearer: Declared, further: Declared): string | null {
   if (further.required && !nearer.required) return "`required` falls from `true` to `false`"
   if (nearer.many !== further.many) {
     return `\`many\` turns from \`${further.many}\` to \`${nearer.many}\``
