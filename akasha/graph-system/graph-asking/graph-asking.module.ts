@@ -18,5 +18,9 @@ export const graphAsking = {
       invariantKind: "departure",
       statement: "A question is answered by reading rather than by walking.",
     },
+    {
+      invariantKind: "absence",
+      statement: "The folder an index stands in is spelled by the indexes rather than here.",
+    },
   ],
 } as const satisfies Module

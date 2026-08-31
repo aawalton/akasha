@@ -318,9 +318,13 @@ export type Named = {
   readonly propertySlug: string
 }
 
-export function namersOf(given: string | Reading, id: string): readonly Named[] {
+export function namersOf(
+  given: string | Reading,
+  id: string,
+  indexName: string = RELATION
+): readonly Named[] {
   return answered(given, ROOT, `which pages name \`${id}\``, (reading) => {
-    const dir = join(RELATION, PAGE, ID, id)
+    const dir = join(indexName, PAGE, ID, id)
     const found: Named[] = []
     for (const property of reading.listing(dir)) {
       if (!property.directory) continue

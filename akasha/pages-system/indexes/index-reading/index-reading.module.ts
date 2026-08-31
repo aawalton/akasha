@@ -76,6 +76,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Which pages name a page is read from the index the asking names.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A caller that must name an index in a refusal says the path it reached rather than spelling it again.",
     },

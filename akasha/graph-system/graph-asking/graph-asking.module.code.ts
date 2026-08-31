@@ -1,5 +1,6 @@
 import {
   importersOf,
+  namersOf,
   readingIn,
   type Standing,
   standingAt,
@@ -28,10 +29,6 @@ const INDEX_NAME = "name"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 
-const AT_PAGE = "page"
-
-const AT_ID = "id"
-
 const PAGE_TYPE = "page-type"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
@@ -41,8 +38,6 @@ const LOADED_BY_SLUG = "loadedBySlug"
 const CODE = "code"
 
 const TS = "ts"
-
-const ENDING = ".jsonl"
 
 const APART = "\n"
 
@@ -175,39 +170,22 @@ function importsInto(
   ]
 }
 
-function sourcesUnder(reading: Reading, at: string): readonly string[] {
-  const found: string[] = []
-  for (const one of reading.listing(at)) {
-    if (!one.name.endsWith(ENDING)) continue
-    for (const line of reading.lines(`${at}/${one.name}`)) {
-      const said = JSON.parse(line) as { readonly path?: unknown }
-      if (typeof said.path === "string") found.push(said.path)
-    }
-  }
-  return found
-}
-
 function relationsInto(
   reading: Reading,
   path: string,
   asking: Asking,
   asked: string
 ): readonly Edge[] {
-  const under = `${asking.indexName}/${AT_PAGE}/${AT_ID}`
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
   for (const one of standingByPath(reading, path)) {
-    const here = `${under}/${one.id}`
-    for (const property of reading.listing(here)) {
-      if (!property.directory) continue
-      for (const from of sourcesUnder(reading, `${here}/${property.name}`)) {
-        found.push({
-          kind: asking.kind,
-          from,
-          to: one.path,
-          attrs: { [attribute]: property.name },
-        })
-      }
+    for (const named of namersOf(reading, one.id, asking.indexName)) {
+      found.push({
+        kind: asking.kind,
+        from: named.path,
+        to: one.path,
+        attrs: { [attribute]: named.propertySlug },
+      })
     }
   }
   return found
