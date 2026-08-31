@@ -11,11 +11,10 @@ export const astraIndexBoundary = {
       statement:
         "What crosses the boundary is a question or its answer or the index as a change leaves it.",
       workingMemory:
-        "`graph-asking` was the last caller reading an index's own directories, spelling `<index>/page/id/<id>/<property>/` and listing it; that reading is `namersOf`'s again, which now takes the index the asking names. What is left crossing is `Reading` itself, out of `index-shape`, whose page says a shape there is what a read of the index is answered with. The constraint saying `Reading` does not cross and the module built to hand it out disagree, and that is Alan's to settle.",
+        "`Reading` crosses as a shape `index-shape` declares, Alan having dropped the constraint that barred it. What is left is `NOT_A_RELATION`, which is neither a question nor an answer: `index-relation`, `move-renaming` and `type-respelling` each carry the same loop over a page's value, skipping those three keys, asking `known` which property a key is and reaching one record deep. That rule belongs in one place and is asked of rather than copied.",
     },
   ],
   constraints: [
-    "`Reading` is three filesystem operations wearing a type, and it does not cross the boundary.",
     "Re-exports are refused here, so the public face is named modules rather than one file standing in front of the rest.",
     "Building the index into a named directory and loading the keeper by name are the index's own business rather than a caller's.",
   ],
