@@ -2,6 +2,7 @@
 import { basename } from "node:path"
 import { pageStemOf } from "../../page/name/name"
 import { seatAbove } from "./subagent.ts"
+import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
 import { FLEX } from "./compose-seat-name.ts"
 
@@ -19,11 +20,20 @@ export interface FlexRecord {
 
 const FLEX_IN_NAME = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 
-function pageOf(agent: string): string | null {
+// A FLEX IS CARRIED IN A SEAT'S NAME, so what this needs is the name rather than the page. Where
+// the old page has gone the name still stands in akasha, as the slug its page file is named for.
+//
+// A subagent states no flex of its own and takes the one its seat carries, so the seat above is
+// asked for a name the same two ways.
+function nameOf(agent: string): string | null {
   const own = seatPageForAgent(agent)
-  if (own !== null) return own
+  if (own !== null) return pageStemOf(own)
+  const ownInAkasha = akashaSeatSlugOf(agent)
+  if (ownInAkasha !== null) return ownInAkasha
   const seat = seatAbove(agent)
-  return seat === null ? null : seatPageForAgent(seat)
+  if (seat === null) return null
+  const above = seatPageForAgent(seat)
+  return above === null ? akashaSeatSlugOf(seat) : pageStemOf(above)
 }
 
 export function flexInName(name: string): string | null {
@@ -32,8 +42,8 @@ export function flexInName(name: string): string | null {
 }
 
 export function flexOf(agent: string): FlexRecord | null {
-  const page = pageOf(agent)
-  const found = page === null ? null : flexInName(pageStemOf(page))
+  const name = nameOf(agent)
+  const found = name === null ? null : flexInName(name)
   return found === null ? null : { value: found }
 }
 
