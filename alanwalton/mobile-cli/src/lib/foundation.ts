@@ -1,6 +1,7 @@
 import { InputError } from "@shared/errors-core/exit"
 import { z } from "zod"
 import type { MobileApp } from "./apps"
+import { componentSwiftFor } from "./ios-components"
 
 export const ASC_KEY_ID = "Q5485KN54Y"
 export const ASC_ISSUER_ID = "69a6de75-758d-47e3-e053-5b8c7c11a4d1"
@@ -43,6 +44,7 @@ const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | nu
   ["NATIVE_SHELL_WIDGET_PROFILE_NAME", (app) => app.widgetProfileName],
   ["NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP", (app) => `${app.developmentTeam}.${app.bundleId}`],
   ["NATIVE_SHELL_DEVICE_SECRET_SERVICE", (app) => `${app.bundleId}.device-secret`],
+  ["NATIVE_SHELL_COMPONENTS", (app) => componentSwiftFor(app.slug).join(" ")],
 ]
 
 export function appValueExports(app: MobileApp): readonly string[] {

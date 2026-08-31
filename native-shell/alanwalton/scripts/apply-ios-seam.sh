@@ -23,6 +23,13 @@ if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url.sh" ]]; then
 fi
 # shellcheck source=ios-seam/monarch-url.sh
 . "$SHARED_IOS_SEAM_DIR/monarch-url.sh"
+if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components.sh" ]]; then
+  echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
+  exit 1
+fi
+# shellcheck source=ios-seam/widget-components.sh
+. "$SHARED_IOS_SEAM_DIR/widget-components.sh"
+WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and the ops mobile command running this build exports them. This script states no list of its own to fall back to.}"
 WIDGET_NAME="ValuesWidgetExtension"
 WIDGET_DEST="ios/App/${WIDGET_NAME}"
 WIDGET_BUNDLE_ID="${NATIVE_SHELL_WIDGET_BUNDLE_ID:?is unset. The ios-app page states widget-bundle-id, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"

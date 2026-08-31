@@ -83,11 +83,7 @@ fi
 mkdir -p "$WIDGET_DEST"
 rm -f "$WIDGET_DEST"/*.swift "$WIDGET_DEST/Info.plist" "$WIDGET_DEST/Widget.entitlements"
 cp "$WIDGET_SRC_DIR"/*.swift "$WIDGET_DEST"/
-if [[ ! -d "$SHARED_WIDGET_SRC_DIR" ]]; then
-  echo "ERROR: $SHARED_WIDGET_SRC_DIR not found — the categorization ring's Swift is authored there and this extension cannot compile without it." >&2
-  exit 1
-fi
-cp "$SHARED_WIDGET_SRC_DIR"/*/*.swift "$WIDGET_DEST"/
+copy_widget_components "$SHARED_WIDGET_SRC_DIR" "$WIDGET_DEST" "$WIDGET_COMPONENTS"
 cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
 if [[ ! -f "$WIDGET_SRC_DIR/Widget.entitlements" ]]; then
   echo "ERROR: $WIDGET_SRC_DIR/Widget.entitlements not found — the widget could not read the device secret and every tile would draw 'Sign in'." >&2
