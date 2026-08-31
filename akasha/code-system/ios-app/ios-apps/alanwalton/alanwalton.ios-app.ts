@@ -13,6 +13,7 @@ export const alanwalton = {
   displayName: "alanwalton",
   gitIgnore: "gitignore",
   iconDrawing: "svg",
+  iconPath: "native-shell/alanwalton/ios-icon/AppIcon-1024.png",
   partSlugs: [
     "ios-program/alanwalton-app",
     "ios-program/alanwalton-decode-harness",

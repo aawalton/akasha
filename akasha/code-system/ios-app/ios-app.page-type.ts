@@ -7,6 +7,7 @@ import type { DevelopmentTeam } from "./properties/development-team.text-propert
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
+import type { IconPath } from "./properties/icon-path.text-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
@@ -17,6 +18,7 @@ export type IosApp = WorkspacePackage & {
   displayName: DisplayName
   gitIgnore: GitIgnore
   iconDrawing?: IconDrawing
+  iconPath?: IconPath
   webEntry?: WebEntry
 }
 
@@ -32,6 +34,7 @@ export const iosApp = {
     "file-property/web-entry",
     "ios-app/alanwalton",
     "ios-app/smilingjenny",
+    "module/app-building",
     "named-file-property/git-ignore",
     "relation-property/build-script",
     "shell-script/build-stamp",
@@ -42,6 +45,7 @@ export const iosApp = {
     "text-property/bundle-id",
     "text-property/development-team",
     "text-property/display-name",
+    "text-property/icon-path",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
@@ -52,6 +56,7 @@ export const iosApp = {
     { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
+    { pagePropertySlug: "icon-path", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
   ],
   invariants: [
