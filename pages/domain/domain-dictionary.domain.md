@@ -29,6 +29,6 @@ A word a domain defines reaches the agent that used it, whether or not that agen
 
 Nothing an agent writes lands carrying a defined word whose definition it has not read.
 
-A word a domain has withdrawn reaches the agent that used it, with what replaced it.
+A taboo term an agent wrote reaches that agent, with the sense barred and what stands instead.
 
-No instruction carries a word a domain has withdrawn.
+No instruction carries a taboo term in a sense it bars.
