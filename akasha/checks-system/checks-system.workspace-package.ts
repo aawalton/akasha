@@ -50,6 +50,22 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A check's answer is undone by a change to what it runs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check's answer is undone by a change to what it runs with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch runs a check for a change to what it runs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change to what a check runs with is caught at audit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check reads the index together with the change rather than the index alone.",
     },
     {

@@ -14,6 +14,14 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A selector says what a check runs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A selector wakes on every path it hands over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check judging a path the change takes away walks the change itself.",
     },
     {

@@ -35,6 +35,14 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check whose waking no changed path answers does not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check stating no waking runs for every change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One shadow is cast over the change here and handed to every check.",
     },
     {
