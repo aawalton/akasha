@@ -2,7 +2,7 @@ export const summary = "Start a worktree of akasha and work in it"
 
 import { existsSync, mkdirSync, readdirSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { agentPageFor } from "../../../agent/read-record.ts"
+import { akashaSeatSlugOf } from "../../../tools/lib/seat-akasha-beside.ts"
 import { seatId } from "../../../agent/writer.ts"
 import { pageTypePathIn, placeDirOf } from "../../../page/page-types.ts"
 import { landFiles } from "../../../repo/land/land.ts"
@@ -21,8 +21,6 @@ const PAGE_TYPE = "worktree"
 const MAIN = "main"
 
 const HOLDING = "worktrees"
-
-const SEAT_ENDING = ".seat.md"
 
 const GIT_DIR = ".git"
 
@@ -83,13 +81,11 @@ function seatSlug(): string {
   if (id === null) {
     fail("nothing identifies this agent, so no seat would be answerable for the worktree")
   }
-  const page = agentPageFor(id)
-  if (page === null) {
-    fail(`no seat page names ${id}, so no seat would be answerable for the worktree`)
+  const named = akashaSeatSlugOf(id)
+  if (named === null) {
+    fail(`no seat names ${id}, so no seat would be answerable for the worktree`)
   }
-  const stem = page.split("/").pop() ?? ""
-  if (!stem.endsWith(SEAT_ENDING)) fail(`${page} is not a seat page, so no seat could be named`)
-  return stem.slice(0, -SEAT_ENDING.length)
+  return named
 }
 
 function holdingRoot(): string {

@@ -1,11 +1,9 @@
-import { readFileSync } from "node:fs"
 import { diskFileTree } from "../page/file-tree.ts"
-import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { compiledPageTypeFor } from "../page/property/frontmatter.ts"
 import { registryOf } from "../page/property/registry.ts"
 import { ownRepoRoot, rootsHere } from "../repo/roots/roots.ts"
 import { displayNameOf, personaAt } from "../tools/lib/akasha-personas.ts"
-import { agentPageFor } from "./read-record.ts"
+import { pageTextOf } from "../tools/lib/seat-page-values.ts"
 import { writerId } from "./writer.ts"
 
 const PERSONA_SLUG_KEY = "persona-slug"
@@ -14,17 +12,13 @@ const SEAT_TYPE = "seat"
 
 export const CLAUDE_AUTHOR = "Claude <noreply@anthropic.com>"
 
-function statedOn(page: string, key: string): string | null {
-  try {
-    return textField(parseFrontmatter(readFileSync(page, "utf8")), key)
-  } catch {
-    return null
-  }
-}
-
+// THE PERSONA A COMMIT IS AUTHORED AS IS READ FROM AKASHA. This opened the seat's old page and took
+// the slug off its frontmatter, which tied who a commit is signed by to a store on its way out.
+//
+// A subagent states no persona of its own and is answered from the seat it was spawned under, which
+// `pageTextOf` already does by splitting the id rather than opening anything.
 function personaOf(writer: string): string | null {
-  const page = agentPageFor(writer)
-  return page === null ? null : statedOn(page, PERSONA_SLUG_KEY)
+  return pageTextOf(writer, PERSONA_SLUG_KEY)
 }
 
 export function personaAuthor(persona: string): string | null {
