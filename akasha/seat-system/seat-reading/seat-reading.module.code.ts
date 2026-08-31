@@ -25,7 +25,6 @@ const STATED: Readonly<Record<string, string>> = {
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
   "registration-account": "registrationAccount",
-  "initiative-slug": "initiativeSlug",
   "transcript-path": "transcriptPath",
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
