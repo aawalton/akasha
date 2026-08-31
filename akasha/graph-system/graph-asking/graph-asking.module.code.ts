@@ -1,10 +1,13 @@
 import {
+  everyOfType,
   importersOf,
+  type Named,
   namersOf,
   readingIn,
   type Standing,
   standingAt,
   standingByPath,
+  typeSlugById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
@@ -21,6 +24,8 @@ const GRAPH_EDGE = "graph-edge"
 const IMPORT_EDGE = "import-edge"
 
 const RELATION = "relation"
+
+const LOADED_BY = "loaded-by-slug"
 
 const INDEX_SLUG = "indexSlug"
 
@@ -131,6 +136,25 @@ function importsInto(
   }))
 }
 
+function loadedFrom(
+  reading: Reading,
+  named: Named,
+  to: string,
+  asking: Asking,
+  attribute: string
+): readonly Edge[] {
+  const type = standingByPath(reading, named.path)[0]
+  if (type === undefined) return []
+  const filed = typeSlugById(reading, type.id)
+  if (filed === null) return []
+  return everyOfType(reading, filed).map((one) => ({
+    kind: asking.kind,
+    from: one.path,
+    to,
+    attrs: { [attribute]: named.propertySlug },
+  }))
+}
+
 function relationsInto(
   reading: Reading,
   path: string,
@@ -147,6 +171,8 @@ function relationsInto(
         to: one.path,
         attrs: { [attribute]: named.propertySlug },
       })
+      if (named.propertySlug !== LOADED_BY) continue
+      found.push(...loadedFrom(reading, named, one.path, asking, attribute))
     }
   }
   return found

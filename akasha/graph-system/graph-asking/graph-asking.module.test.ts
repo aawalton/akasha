@@ -21,7 +21,10 @@ import {
   KNOWN,
   LEAF_AT,
   LOADED_AT,
+  LOADED_BY,
   LOADED_CODE_AT,
+  LOADER_AT,
+  loaderWorld,
   loadingWorld,
   MODULE,
   PART,
@@ -35,6 +38,7 @@ import {
   scratch,
   TARGET_AT,
   THIRD_AT,
+  TYPE_AT,
 } from "./graph-asking.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
@@ -225,4 +229,17 @@ test("a closure walks the edges the reading it was given answers, and none it do
 
   expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE], () => true, over)).toEqual(every)
   expect(reachingInto(root, [FIRST_AT], [IMPORT_EDGE])).toEqual([FIRST_AT, SECOND_AT])
+})
+
+test("a module a page type names as its loader is answered with the pages of that type", () => {
+  const root = loaderWorld()
+
+  expect(edgesInto(root, LOADER_AT, [RELATION])).toEqual([
+    { kind: RELATION, from: TYPE_AT, to: LOADER_AT, attrs: { [PROPERTY]: LOADED_BY } },
+    { kind: RELATION, from: LOADED_AT, to: LOADER_AT, attrs: { [PROPERTY]: LOADED_BY } },
+  ])
+})
+
+test("a module no page type names as its loader is answered with no page of any type", () => {
+  expect(edgesInto(loaderWorld(false), LOADER_AT, [RELATION])).toEqual([])
 })

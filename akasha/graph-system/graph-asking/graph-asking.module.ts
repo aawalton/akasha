@@ -23,6 +23,11 @@ export const graphAsking = {
       statement: "An import edge stands only where the index answers one.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A module a page type names as its loader is reached from every page of that type.",
+    },
+    {
       invariantKind: "absence",
       statement: "The folder an index stands in is spelled by the indexes rather than here.",
     },

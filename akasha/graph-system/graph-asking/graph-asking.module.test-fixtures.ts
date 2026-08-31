@@ -56,6 +56,8 @@ export const DECLARED = "declaration"
 
 export const PART = "part-slugs"
 
+export const LOADED_BY = "loaded-by-slug"
+
 export const HELD = "held"
 
 export const PAGE_TYPE = "page-type"
@@ -224,5 +226,37 @@ export function loadingWorld(loadedBySlug: string | null, typeStands = true): st
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `path/${LOADED_CODE_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  return root
+}
+
+export function loaderWorld(names = true): string {
+  const root = scratch.rootFor(PREFIX)
+  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, true)
+  indexed(root, HELD_RELATION, true)
+  paged(root, TYPE_AT, {
+    id: TYPE_ID,
+    pageTypeSlug: PAGE_TYPE,
+    slug: HELD_TYPE,
+    definition: "a page type a test invented",
+    loadedBySlug: `${MODULE}/${HELD_LOADER}`,
+  })
+  filed(root, `path/${TYPE_AT}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  filed(root, `identity/page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
+  paged(root, LOADER_AT, {
+    id: LOADER_ID,
+    pageTypeSlug: MODULE,
+    slug: HELD_LOADER,
+    definition: "a module a test invented",
+    code: "ts",
+  })
+  filed(root, `path/${LOADER_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
+  paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
+  filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  filed(root, `identity/${HELD_TYPE}/slug/${LOADED}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  if (names) {
+    filed(root, `${HELD_RELATION}/page/id/${LOADER_ID}/${LOADED_BY}/${TYPE_ID}.jsonl`, {
+      path: TYPE_AT,
+    })
+  }
   return root
 }
