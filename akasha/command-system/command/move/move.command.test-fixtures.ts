@@ -123,7 +123,10 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
-  writeFileSync(join(root, ".git/info/exclude"), "akasha/*.check.ts\nakasha/*.check.code.ts\n")
+  writeFileSync(
+    join(root, ".git/info/exclude"),
+    "akasha/*.code-check.ts\nakasha/*.code-check.code.ts\n"
+  )
   admitting(root)
   return root
 }
@@ -230,7 +233,7 @@ export const BETA = "akasha/six/beta.thing.ts"
 
 export const SLUG_RENAME = ["--from", THING, "--to", THING_AT]
 
-const CHECKS_AT = join(import.meta.dir, "../../../checks-system/check")
+const CHECKS_AT = join(import.meta.dir, "../../../checks-system/code-check")
 
 const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
 
@@ -279,7 +282,7 @@ export const THING_VOCABULARY: Readonly<Record<string, string>> = {
 }
 
 export function judging(root: string, slug: string): undefined {
-  const at = join(CHECKS_AT, slug, `${slug}.check.code.ts`)
+  const at = join(CHECKS_AT, slug, `${slug}.code-check.code.ts`)
   const said = `export { ${exportedAs(slug)} } from ${JSON.stringify(at)}\n`
   minting(root, slug, mintedId(slug), "a check the corpus already carries", said)
 }

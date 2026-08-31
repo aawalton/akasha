@@ -22,7 +22,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
-  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.check*\n")
+  writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.code-check*\n")
   admitting(root)
   return root
 }

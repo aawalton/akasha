@@ -10,7 +10,11 @@ const AT = "akasha/held.ts"
 
 const HERE = dirname(import.meta.path)
 
-const OWN: readonly string[] = ["no-tmp.check.ts", "no-tmp.check.code.ts", "no-tmp.check.test.ts"]
+const OWN: readonly string[] = [
+  "no-tmp.code-check.ts",
+  "no-tmp.code-check.code.ts",
+  "no-tmp.code-check.test.ts",
+]
 
 const given = bodiesIn(ROOT)
 
@@ -107,6 +111,6 @@ test("the check refuses none of its own three files, though each names the path 
   for (const one of OWN) {
     const body = readFileSync(join(HERE, one), "utf8")
     expect(body).toMatch(/\/tmp/)
-    expect(reasonsIn(given(`akasha/checks-system/check/no-tmp/${one}`, body))).toEqual([])
+    expect(reasonsIn(given(`akasha/checks-system/code-check/no-tmp/${one}`, body))).toEqual([])
   }
 })

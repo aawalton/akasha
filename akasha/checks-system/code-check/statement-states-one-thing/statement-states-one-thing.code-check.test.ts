@@ -11,8 +11,8 @@ const AT = "akasha/held.check.ts"
 const HERE = dirname(import.meta.path)
 
 const OWN: readonly string[] = [
-  "statement-states-one-thing.check.code.ts",
-  "statement-states-one-thing.check.test.ts",
+  "statement-states-one-thing.code-check.code.ts",
+  "statement-states-one-thing.code-check.test.ts",
 ]
 
 const given = bodiesAt(ROOT, AT)

@@ -16,7 +16,7 @@ import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Asked } from "./asking.module.code.ts"
 
-const ADMITS_AT = "akasha/admits.check*"
+const ADMITS_AT = "akasha/admits.code-check*"
 
 const REPO_AT = rootOf(import.meta.dir)
 
