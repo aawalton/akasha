@@ -49,7 +49,7 @@ export const SPACING_EXCEPTIONS: readonly SpacingException[] = [
       "what a large ring's stroke weighs, written once for the three tiles that draw one — a stroke weight is a drawing width, not a distance between two things, so no step on the scale describes it. It stood on ClaudeUsageView.swift twice, for that ring's track and fill, until #18970 gave every ring one authored drawing; the rings pass it rather than writing it, and it is deliberately spelled `lineWidth:` at the one place it survives so that this list still has to carry a reason for it",
   },
   {
-    file: "ClaudeUsageView.swift",
+    file: "alanwalton-claude-usage-view.ios-component.swift.swift",
     kind: "spacing",
     value: 1,
     count: 1,

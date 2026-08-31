@@ -71,7 +71,6 @@ fi
 
 mkdir -p "$WIDGET_DEST"
 rm -f "$WIDGET_DEST"/*.swift "$WIDGET_DEST/Info.plist"
-cp "$WIDGET_SRC_DIR"/*.swift "$WIDGET_DEST"/
 copy_widget_components "$SHARED_WIDGET_SRC_DIR" "$WIDGET_DEST" "$WIDGET_COMPONENTS"
 cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
 echo "OK: copied widget sources into $WIDGET_DEST"
@@ -239,9 +238,9 @@ else
     if (replaced === 0) {
       console.error(
         "ERROR: no widget source in " + dir + " carries " + placeholder + " — the ring " +
-        "credential could not be substituted. RingCredential.baked in " +
-        "ios-widget/WidgetFeed.swift is where it belongs; if it moved, this section " +
-        "and that constant have to move together.");
+        "credential could not be substituted. RingCredential.baked in the " +
+        "smilingjenny-widget-feed ios-component is where it belongs; if it moved, this " +
+        "section and that constant have to move together.");
       process.exit(1);
     }
     // The COUNT and never the value.

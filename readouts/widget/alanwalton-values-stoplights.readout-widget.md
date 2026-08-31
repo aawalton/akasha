@@ -7,7 +7,7 @@ domain-parent-slug: domain/readout-system
 app-slug: alanwalton-ios
 group-slugs:
   - values
-widget-path: akasha:native-shell/alanwalton/ios-widget/ValuesStoplightsWidget.swift
+widget-path: akasha:akasha/code-system/ios-component/ios-components/alanwalton-values-stoplights-widget/alanwalton-values-stoplights-widget.ios-component.swift.swift
 gallery-name: "Values"
 gallery-description: "Your six daily values stoplights, at a glance."
 families:

@@ -10,9 +10,10 @@ import { PAYLOAD_MIRRORS, shapeMirrorMembers } from "../../../../tools/lib/check
 
 const PREFIX = "[widget-payload-shape-mirror]"
 
-const WIDGET_DIR = "../akasha/native-shell/alanwalton/ios-widget"
+// Every widget payload is an ios-component in akasha now. The shells' own
+// `ios-widget` directories hold no Swift at all, so reading them would add
+// nothing and would raise ENOENT the day they go.
 const PAYLOAD_DIRS: readonly string[] = [
-  WIDGET_DIR,
   "../akasha/akasha/code-system/ios-component/ios-components",
 ]
 

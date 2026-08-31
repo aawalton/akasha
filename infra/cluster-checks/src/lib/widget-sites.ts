@@ -255,8 +255,12 @@ export function describeWidgetScope(args: {
         )
         break
       case "takes-scale-from":
+        // Not "compiled into these extensions" — which components an extension
+        // compiles is named on the app's akasha page, and nothing here reads it.
+        // What is checked is weaker and still enough: every unit this directory
+        // could be copied into holds the scale, so it resolves wherever it lands.
         lines.push(
-          `Judged against the scale, which reaches it through ${disposition.extensions.join(", ")}: ${site.dir} — ${scanned} source(s) scanned for literals.`
+          `Judged against the scale, which is held by every unit it can be copied into (${disposition.extensions.join(", ")}): ${site.dir} — ${scanned} source(s) scanned for literals.`
         )
         break
       case "declared-out":

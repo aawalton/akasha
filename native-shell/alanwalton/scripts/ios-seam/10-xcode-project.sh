@@ -82,7 +82,6 @@ fi
 
 mkdir -p "$WIDGET_DEST"
 rm -f "$WIDGET_DEST"/*.swift "$WIDGET_DEST/Info.plist" "$WIDGET_DEST/Widget.entitlements"
-cp "$WIDGET_SRC_DIR"/*.swift "$WIDGET_DEST"/
 copy_widget_components "$SHARED_WIDGET_SRC_DIR" "$WIDGET_DEST" "$WIDGET_COMPONENTS"
 cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
 if [[ ! -f "$WIDGET_SRC_DIR/Widget.entitlements" ]]; then

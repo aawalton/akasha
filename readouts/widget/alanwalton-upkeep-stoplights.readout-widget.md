@@ -7,7 +7,7 @@ domain-parent-slug: domain/readout-system
 app-slug: alanwalton-ios
 group-slugs:
   - upkeep
-widget-path: akasha:native-shell/alanwalton/ios-widget/UpkeepStoplightsWidget.swift
+widget-path: akasha:akasha/code-system/ios-component/ios-components/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
 gallery-name: "Upkeep"
 gallery-description: "Your six upkeep stoplights, at a glance."
 families:

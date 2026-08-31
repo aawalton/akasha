@@ -93,8 +93,8 @@ if [[ ! -f "$ICON_SOURCE" ]]; then
   exit 1
 fi
 if [[ "$WIDGET_ENABLED" == "1" ]]; then
-  if [[ ! -f "$WIDGET_SRC_DIR/ValuesStoplightsWidget.swift" || ! -f "$WIDGET_SRC_DIR/ClaudeUsageWidget.swift" || ! -f "$WIDGET_SRC_DIR/Info.plist" ]]; then
-    echo "ERROR: $WIDGET_SRC_DIR/{ValuesStoplightsWidget.swift,ClaudeUsageWidget.swift,Info.plist} not found — the committed widget seam is missing." >&2
+  if [[ ! -f "$WIDGET_SRC_DIR/Info.plist" ]]; then
+    echo "ERROR: $WIDGET_SRC_DIR/Info.plist not found — the committed widget seam is missing. The extension's Swift is no longer here: it stands in akasha as ios-component pages, and copy_widget_components refuses on its own if one the app names is missing." >&2
     exit 1
   fi
   if [[ ! -d "$PROJECT_PBXPROJ" ]]; then

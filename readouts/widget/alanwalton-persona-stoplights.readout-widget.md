@@ -7,7 +7,7 @@ domain-parent-slug: domain/readout-system
 app-slug: alanwalton-ios
 group-slugs:
   - personas
-widget-path: akasha:native-shell/alanwalton/ios-widget/PersonaStoplightsWidget.swift
+widget-path: akasha:akasha/code-system/ios-component/ios-components/alanwalton-persona-stoplights-widget/alanwalton-persona-stoplights-widget.ios-component.swift.swift
 gallery-name: "Personas"
 gallery-description: "Every persona's stoplight for today, on one tile."
 families:
