@@ -8,7 +8,7 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
-import { checkPagesIn, checksAt, checksIn, checksWoken, judgingBy } from "./checking.module.code.ts"
+import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
 import {
   ADMITS_ALL,
   CHECK,
@@ -196,7 +196,7 @@ test("a check carrying no waking runs over a change its woken neighbour sleeps t
   ])
   const held = onDisk(root)
   const change = { root, changed: ["one.md"], after: held, before: held }
-  const woken = checksWoken(every, change, shadowAsked(change))
+  const woken = checksFor(every, change, shadowAsked(change))
   expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
 })
 
@@ -208,10 +208,10 @@ test("a check whose waking could not answer runs, its neighbour woken as it woul
   const held = onDisk(root)
   const overMd = { root, changed: ["one.md"], after: held, before: held }
   const overTs = { root, changed: ["two.ts"], after: held, before: held }
-  expect(checksWoken(every, overMd, shadowAsked(overMd)).map((one) => one.slug)).toEqual([
+  expect(checksFor(every, overMd, shadowAsked(overMd)).map((one) => one.slug)).toEqual([
     "waking-throws",
   ])
-  expect(checksWoken(every, overTs, shadowAsked(overTs)).map((one) => one.slug)).toEqual([
+  expect(checksFor(every, overTs, shadowAsked(overTs)).map((one) => one.slug)).toEqual([
     "wakes-ts",
     "waking-throws",
   ])

@@ -142,7 +142,7 @@ function wakesFor(one: Gathered, change: Change, shadow: Shadow): boolean {
   }
 }
 
-export function checksWoken(
+export function checksFor(
   every: readonly Gathered[],
   change: Change,
   shadow: Shadow
@@ -160,11 +160,11 @@ function threw(one: Gathered, thrown: unknown): Judged {
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
-    wokenBy: (change) => checksWoken(every, change, shadowAsked(change)).map((one) => one.slug),
+    wokenBy: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
     over: (change) => {
       const shadow = shadowAsked(change)
       const said: Judged[] = []
-      for (const one of checksWoken(every, change, shadow)) {
+      for (const one of checksFor(every, change, shadow)) {
         try {
           said.push(...one.run(change, shadow))
         } catch (thrown) {
