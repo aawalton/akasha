@@ -1,161 +1,35 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
   identitiesTakenFrom,
-  idFiled,
   idTakenFrom,
-  noneOfTypeFiled,
-  pathFiled,
-  standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksIn, checksWoken, judgingBy } from "./checking.module.code.ts"
-
-const CHECK = "code-check"
+import {
+  ADMITS_ALL,
+  CHECK,
+  CHECK_TYPE,
+  HELD_CODE_AT,
+  HELD_PAGE_AT,
+  NAMES_SHADOW,
+  pagedRoot,
+  REFUSES_ALL,
+  REFUSES_TAKING,
+  ROOT,
+  rootWith,
+  SAMPLED,
+  scratch,
+  THROWS,
+  TWO_CHECKS,
+} from "./checking.module.test-fixtures.ts"
 
 const PAGE = "page"
 
-const PAGE_TYPE = "page-type"
-
-const MODULE = "module"
-
-const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
-
-const MODULE_AT = "akasha/code-system/module/module.page-type.ts"
-
-const MODULE_ID = "01a04bc4-0000-7000-8000-0000000000ff"
-
-const HELD_PAGE_AT = "akasha/held/held.module.ts"
-
-const HELD_CODE_AT = "akasha/held/held.module.code.ts"
-
-const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
-  .pathname
-
-const ROOT = join(WALKING_AT, "..", "..", "..", "..")
-
-const HELD = "akasha/checks-system/checking/checking.module"
-
-const SAMPLED: readonly string[] = [
-  `${HELD}.code.ts`,
-  `${HELD}.ts`,
-  "akasha/persona-system/persona/ali/ali.persona.portrait.md",
-]
-
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-type Stands = {
-  readonly slug: string
-  readonly at: string
-}
-
-const STANDS: Stands = {
-  slug: CHECK,
-  at: "akasha/checks-system/code-check/code-check.page-type.ts",
-}
-
-function rootWith(
-  named: readonly {
-    readonly slug: string
-    readonly runsOn: readonly string[]
-    readonly raw?: string
-    readonly body: string
-  }[],
-  stands: Stands = STANDS
-): string {
-  const root = scratch.rootFor("akasha-checking-")
-  noneOfTypeFiled(root, stands.slug)
-  idFiled(root, CHECK_TYPE, [{ path: stands.at, id: CHECK_TYPE }])
-  let minted = 0
-  for (const one of named) {
-    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${stands.slug}.ts`
-    mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
-    writeFileSync(
-      join(root, at),
-      `export const ${exportedAs(one.slug)} = {\n` +
-        `  slug: "${one.slug}",\n` +
-        `  code: "ts",\n` +
-        (one.raw ??
-          `  runsOnPatch: ${one.runsOn.includes("patch")},\n` +
-            `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
-            `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
-            `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
-        `}\n`
-    )
-    writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
-    minted = minted + 1
-    const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
-    const held = [{ path: at, id }]
-    standingFiled(root, stands.slug, one.slug, held)
-    idFiled(root, id, held)
-    pathFiled(root, at, held)
-    pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
-  }
-  return root
-}
-
-const REFUSES_ALL =
-  "export function refusesAll(change) {\n" +
-  '  return change.changed.map((path) => ({ path, reason: "refused" }))\n' +
-  "}\n"
-
-const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
-
-const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
-
-const NAMES_SHADOW =
-  "export function namesShadow(change, shadow) {\n" +
-  '  const held = shadow !== undefined && typeof shadow.pageOf === "function"\n' +
-  "  return held && shadow.reading !== undefined\n" +
-  "    ? []\n" +
-  '    : [{ path: "shadow", reason: "no shadow was handed over" }]\n' +
-  "}\n"
-
-const REFUSES_TAKING =
-  "export function refusesTaking(change) {\n" +
-  "  return change.changed\n" +
-  "    .filter((path) => change.after(path) === null)\n" +
-  '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
-  "}\n"
-
-const WAKES_TS =
-  "export function wakesTs(change) {\n" +
-  '  return change.changed.map((path) => ({ path, reason: "ts woke" }))\n' +
-  "}\n" +
-  'wakesTs.wakesOn = (path) => path.endsWith(".ts")\n'
-
-const WAKES_PAGES =
-  `import { PAGES } from "${WALKING_AT}"\n` +
-  "export function wakesPages(change) {\n" +
-  '  return change.changed.map((path) => ({ path, reason: "a page woke" }))\n' +
-  "}\n" +
-  "wakesPages.wakesOn = PAGES.wakesOn\n"
-
-const TWO_CHECKS = [
-  { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
-  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
-]
-
-const PAGE_CHECKS = [
-  { slug: "wakes-pages", runsOn: ["patch"], body: WAKES_PAGES },
-  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
-]
-
-function pagedRoot(): string {
-  const root = rootWith(PAGE_CHECKS)
-  standingFiled(root, PAGE_TYPE, MODULE, [{ path: MODULE_AT, id: MODULE_ID }])
-  mkdirSync(join(root, HELD_PAGE_AT.slice(0, HELD_PAGE_AT.lastIndexOf("/"))), { recursive: true })
-  writeFileSync(join(root, HELD_PAGE_AT), `export const held = { slug: "held" }\n`)
-  writeFileSync(join(root, HELD_CODE_AT), `export const HELD = "held"\n`)
-  return root
-}
 
 test("a check is found through the index rather than by walking the tree", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])

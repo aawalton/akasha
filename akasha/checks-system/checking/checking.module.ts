@@ -7,6 +7,7 @@ export const checking = {
   definition: "every check gathered and run over one change, answering what refuses it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
