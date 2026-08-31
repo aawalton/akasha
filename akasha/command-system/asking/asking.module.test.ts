@@ -185,7 +185,7 @@ test("a landing names what judged it, and says so when nothing did", () => {
 
 test("a landing whose phase runs no check says the paths landed unjudged", () => {
   const root = repoWith()
-  standingTakenFrom(root, "check", "admits")
+  standingTakenFrom(root, "code-check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
   const from = bodyIn(root)
   const said = write(

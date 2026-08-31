@@ -14,7 +14,7 @@ import { exportedAs } from "../../pages-system/page/page-export-name/page-export
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import { checkPagesIn, checksAt, checksIn, judgingBy } from "./checking.module.code.ts"
 
-const CHECK = "check"
+const CHECK = "code-check"
 
 const PAGE = "page"
 
@@ -48,7 +48,7 @@ function rootWith(
   idFiled(root, CHECK_TYPE, [{ path: stands.at, id: CHECK_TYPE }])
   let minted = 0
   for (const one of named) {
-    const at = `akasha/checks-system/check/${one.slug}/${one.slug}.${stands.slug}.ts`
+    const at = `akasha/checks-system/code-check/${one.slug}/${one.slug}.${stands.slug}.ts`
     mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
     writeFileSync(
       join(root, at),
@@ -101,7 +101,7 @@ test("a check is found through the index rather than by walking the tree", () =>
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   const found = checksIn(root)
   expect(found.map((one) => one.slug)).toEqual(["admits-all"])
-  expect(found[0]?.page).toBe("akasha/checks-system/check/admits-all/admits-all.check.ts")
+  expect(found[0]?.page).toBe("akasha/checks-system/code-check/admits-all/admits-all.code-check.ts")
 })
 
 test("a check is found by the id its page type carries, whatever slug that page type stands under", () => {
@@ -109,7 +109,9 @@ test("a check is found by the id its page type carries, whatever slug that page 
     slug: "gate",
     at: "akasha/gate.page-type.ts",
   })
-  expect(checkPagesIn(root)).toEqual(["akasha/checks-system/check/admits-all/admits-all.gate.ts"])
+  expect(checkPagesIn(root)).toEqual([
+    "akasha/checks-system/code-check/admits-all/admits-all.gate.ts",
+  ])
   expect(checksIn(root).map((one) => one.slug)).toEqual(["admits-all"])
 })
 
@@ -138,7 +140,7 @@ test("a check that threw refuses the change it could not judge, and the refusal 
     before: held,
   })
   expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/checks-system/check/throws/throws.check.ts")
+  expect(said[0]?.path).toBe("akasha/checks-system/code-check/throws/throws.code-check.ts")
   expect(said[0]?.reason).toContain("could not look")
 })
 
@@ -169,9 +171,9 @@ test("a phase takes only the checks that state it", () => {
 
 test("a check page whose code is not there stops the whole run", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
-  rmSync(join(root, "akasha/checks-system/check/admits-all/admits-all.check.code.ts"))
+  rmSync(join(root, "akasha/checks-system/code-check/admits-all/admits-all.code-check.code.ts"))
   expect(() => checksIn(root)).toThrow(
-    "admits-all.check.code.ts is a check's code, and would not load"
+    "admits-all.code-check.code.ts is a check's code, and would not load"
   )
 })
 
@@ -192,7 +194,7 @@ test("an index holding no check directory cannot answer, and is not read as nami
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   identitiesTakenFrom(root, CHECK)
   expect(() => checkPagesIn(root)).toThrow("could not be answered")
-  expect(() => checksIn(root)).toThrow("identity/check/slug")
+  expect(() => checksIn(root)).toThrow("identity/code-check/slug")
 })
 
 test("an index holding no id directory cannot say which pages are checks, and is not read as naming none", () => {

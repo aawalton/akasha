@@ -18,7 +18,7 @@ export const ADMITS_CODE = `export function admits() {
 }
 `
 
-const CHECK = "check"
+const CHECK = "code-check"
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
@@ -46,7 +46,7 @@ export function pageFor(
 ): string {
   return `export const ${exportedAs(slug)} = {
   id: "${id}",
-  pageTypeSlug: "check",
+  pageTypeSlug: "${CHECK}",
   slug: "${slug}",
   definition: "${definition}",
   code: "ts",
@@ -66,10 +66,10 @@ export function minting(
   code: string,
   phase: Phase = "patch"
 ): undefined {
-  const at = `akasha/${slug}.check.ts`
+  const at = `akasha/${slug}.${CHECK}.ts`
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
-  writeFileSync(join(root, `akasha/${slug}.check.code.ts`), code)
+  writeFileSync(join(root, `akasha/${slug}.${CHECK}.code.ts`), code)
   standingFiled(root, CHECK, slug, [{ path: at, id }])
   idFiled(root, CHECK_TYPE, [{ path: CHECK_TYPE_AT, id: CHECK_TYPE }])
 }
