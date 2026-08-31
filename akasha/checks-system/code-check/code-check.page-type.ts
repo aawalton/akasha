@@ -33,6 +33,7 @@ export const codeCheck = {
     "code-check/identifier-matches-its-place",
     "code-check/identifier-names-one-page",
     "code-check/imports-inside",
+    "code-check/instant-property-slug-closes-with-at",
     "code-check/introduced-property-is-a-part",
     "code-check/key-names-one-property",
     "code-check/lint-clean",
