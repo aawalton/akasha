@@ -132,7 +132,7 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
-function wakesFor(one: Gathered, change: Change, shadow: Shadow): boolean {
+function takesFrom(one: Gathered, change: Change, shadow: Shadow): boolean {
   const wakes = one.isInput
   if (wakes === null) return true
   try {
@@ -147,7 +147,7 @@ export function checksFor(
   change: Change,
   shadow: Shadow
 ): readonly Gathered[] {
-  return every.filter((one) => wakesFor(one, change, shadow))
+  return every.filter((one) => takesFrom(one, change, shadow))
 }
 
 function threw(one: Gathered, thrown: unknown): Judged {
