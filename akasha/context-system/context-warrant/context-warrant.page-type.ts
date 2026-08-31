@@ -23,6 +23,7 @@ export const contextWarrant = {
     "boolean-property/runs-on-write",
     "boolean-property/transitive",
     "context-warrant/assignment-itself",
+    "context-warrant/change-taboo-terms",
     "context-warrant/domain-ancestors",
     "context-warrant/file-domain",
     "context-warrant/file-import",

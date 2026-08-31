@@ -54,7 +54,18 @@ export type Known = {
 
 export type Knowing = () => Known
 
-export type Warranting = (root: string, path: string, knowing: Knowing) => readonly Warrant[]
+export type Changing = {
+  readonly changed: readonly string[]
+  readonly before: (path: string) => Uint8Array | null
+  readonly after: (path: string) => Uint8Array | null
+}
+
+export type Warranting = (
+  root: string,
+  path: string,
+  knowing: Knowing,
+  changing?: Changing
+) => readonly Warrant[]
 
 export type When = "read" | "write"
 
@@ -179,13 +190,34 @@ function gatheredAt(every: readonly Gathered[], when: When): readonly Gathered[]
   return every.filter((one) => (when === "read" ? one.runsOnRead : one.runsOnWrite))
 }
 
+export function changingOf(
+  root: string,
+  changes: readonly { readonly path: string; readonly body: Uint8Array | null }[]
+): Changing {
+  const after = new Map(changes.map((one) => [one.path, one.body]))
+  return {
+    changed: changes.map((one) => one.path),
+    before: (path) => {
+      try {
+        return readFileSync(join(root, path))
+      } catch {
+        return null
+      }
+    },
+    after: (path) => after.get(path) ?? null,
+  }
+}
+
 export function warrantsIn(
   root: string,
   path: string,
   when: When,
-  knowing: Knowing = knowingIn(root)
+  knowing: Knowing = knowingIn(root),
+  changing?: Changing
 ): readonly Warrant[] {
-  return gatheredAt(gatheredIn(root), when).flatMap((one) => one.warranting(root, path, knowing))
+  return gatheredAt(gatheredIn(root), when).flatMap((one) =>
+    one.warranting(root, path, knowing, changing)
+  )
 }
 
 export function warrantedIn(root: string, paths: readonly string[]): readonly string[] {
@@ -224,14 +256,15 @@ export function warrantedIn(root: string, paths: readonly string[]): readonly st
 export function unreadIn(
   root: string,
   agentId: string | null,
-  paths: readonly string[]
+  paths: readonly string[],
+  changing?: Changing
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
   const knowing = knowingIn(root)
   const said: string[] = []
   const asked = new Set<string>()
   for (const path of paths) {
-    for (const warrant of warrantsIn(root, path, "write", knowing)) {
+    for (const warrant of warrantsIn(root, path, "write", knowing, changing)) {
       if (asked.has(warrant.path)) continue
       asked.add(warrant.path)
       const held = readingIn(root, agentId, warrant.path)

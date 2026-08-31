@@ -1,5 +1,9 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import { unheldIn, unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
+import {
+  changingOf,
+  unheldIn,
+  unreadIn,
+} from "../../../context-system/warranting/warranting.module.code.ts"
 import { besideAll } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import {
   BREAK_GLASS,
@@ -44,7 +48,8 @@ export function unwarrantedIn(
     ...unreadIn(
       given.root,
       given.agentId,
-      changes.map((one) => one.path)
+      changes.map((one) => one.path),
+      changingOf(given.root, changes)
     ),
   ]
 }
