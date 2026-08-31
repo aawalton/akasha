@@ -5,8 +5,8 @@ import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   declaring,
   edging,
+  founded,
   identified,
-  identifying,
   landing,
   NO_BYTES,
   pathFor,
@@ -47,12 +47,12 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-declared-")
+  founded(root)
   typed(root, "domain", "page")
   typed(root, "page-property", "domain")
   typed(root, "relation-property", "page-property")
   typed(root, "record-property", "page-property")
   typed(root, "page-type", "domain")
-  identifying(root)
   declaring(root, "properties", { pageTypeSlug: "record-property" })
   declaring(root, "page-property-slug", {
     pageTypeSlug: "relation-property",
