@@ -3,6 +3,7 @@ import { lineOf, parsedAs } from "../../../code-system/code-source/code-source.m
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { constantIdentifier } from "../../../pages-system/name-place/name-places/constant-identifier.name-place.ts"
+import { derivedIdentifier } from "../../../pages-system/name-place/name-places/derived-identifier.name-place.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
 import { typeIdentifier } from "../../../pages-system/name-place/name-places/type-identifier.name-place.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -19,6 +20,8 @@ const INSIDE = "akasha/"
 
 const ENDING = ".ts"
 
+const UNDER = "_"
+
 export type Placing = {
   readonly nameFormatSlug: string
   readonly matching: Matching
@@ -28,6 +31,12 @@ export type Places = {
   readonly typeIdentifier: Placing
   readonly functionIdentifier: Placing
   readonly constantIdentifier: Placing
+  readonly derivedIdentifier: Placing
+}
+
+type Working = {
+  readonly parameters: readonly ts.ParameterDeclaration[]
+  readonly body: ts.Node
 }
 
 function refusalAt(
@@ -66,6 +75,47 @@ function writtenOut(node: ts.Expression): boolean {
   )
 }
 
+function namesIn(name: ts.BindingName): readonly ts.Identifier[] {
+  if (ts.isIdentifier(name)) return [name]
+  const found: ts.Identifier[] = []
+  for (const one of name.elements) {
+    if (ts.isOmittedExpression(one)) continue
+    for (const each of namesIn(one.name)) found.push(each)
+  }
+  return found
+}
+
+function workingIn(node: ts.Node): Working | null {
+  if (!ts.isFunctionLike(node)) return null
+  const held = node as ts.FunctionLikeDeclaration
+  const body = held.body
+  if (body === undefined) return null
+  return { parameters: held.parameters, body }
+}
+
+function keyed(node: ts.Identifier): boolean {
+  const held = node.parent
+  if (ts.isPropertyAccessExpression(held) && held.name === node) return true
+  if (ts.isQualifiedName(held) && held.right === node) return true
+  if (ts.isPropertyAssignment(held) && held.name === node) return true
+  if (ts.isBindingElement(held) && held.propertyName === node) return true
+  return false
+}
+
+function readIn(body: ts.Node, text: string): boolean {
+  let found = false
+  const walk = (node: ts.Node): undefined => {
+    if (found) return
+    if (ts.isIdentifier(node) && node.text === text && !keyed(node)) {
+      found = true
+      return
+    }
+    ts.forEachChild(node, walk)
+  }
+  walk(body)
+  return found
+}
+
 export function pageValueIn(at: string): string | null {
   const said = namedIn(at)
   return said === null ? null : exportedAs(said.stem)
@@ -92,18 +142,39 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     const said = refusalAt(source, name, kind, placing)
     if (said !== null) found.push(said)
   }
-  const walk = (node: ts.Node): undefined => {
+  const eachIn = (name: ts.BindingName): undefined => {
+    for (const one of namesIn(name)) take(one, "name", places.derivedIdentifier)
+  }
+  const walk = (node: ts.Node, inside: boolean): undefined => {
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {
       take(node.name, "function", places.functionIdentifier)
     }
-    if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name) && boundToAFunction(node)) {
-      take(node.name, "function", places.functionIdentifier)
+    if (ts.isVariableDeclaration(node)) {
+      if (ts.isIdentifier(node.name) && boundToAFunction(node)) {
+        take(node.name, "function", places.functionIdentifier)
+      } else if (inside && !ts.isCatchClause(node.parent)) {
+        eachIn(node.name)
+      }
     }
-    ts.forEachChild(node, walk)
+    if (ts.isCatchClause(node) && node.variableDeclaration !== undefined) {
+      eachIn(node.variableDeclaration.name)
+    }
+    const working = workingIn(node)
+    if (working === null) {
+      ts.forEachChild(node, (each) => walk(each, inside))
+      return
+    }
+    for (const one of working.parameters) {
+      for (const name of namesIn(one.name)) {
+        if (name.text.startsWith(UNDER) && !readIn(working.body, name.text)) continue
+        take(name, "parameter", places.derivedIdentifier)
+      }
+    }
+    ts.forEachChild(node, (each) => walk(each, each === working.body ? true : inside))
   }
-  ts.forEachChild(source, walk)
+  ts.forEachChild(source, (each) => walk(each, false))
   for (const one of constantsIn(source, at)) take(one, "constant", places.constantIdentifier)
   return found
 }
@@ -121,6 +192,7 @@ export function placesIn(
     typeIdentifier: held(typeIdentifier.nameFormatSlug),
     functionIdentifier: held(functionIdentifier.nameFormatSlug),
     constantIdentifier: held(constantIdentifier.nameFormatSlug),
+    derivedIdentifier: held(derivedIdentifier.nameFormatSlug),
   }
 }
 

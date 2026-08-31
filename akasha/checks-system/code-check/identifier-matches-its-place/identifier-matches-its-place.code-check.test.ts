@@ -3,6 +3,7 @@ import { lowerCamelCase } from "../../../pages-system/name-format/lower-camel-ca
 import { upperCamelCase } from "../../../pages-system/name-format/upper-camel-case/upper-camel-case.name-format.code.ts"
 import { upperSnakeCase } from "../../../pages-system/name-format/upper-snake-case/upper-snake-case.name-format.code.ts"
 import { constantIdentifier } from "../../../pages-system/name-place/name-places/constant-identifier.name-place.ts"
+import { derivedIdentifier } from "../../../pages-system/name-place/name-places/derived-identifier.name-place.ts"
 import { functionIdentifier } from "../../../pages-system/name-place/name-places/function-identifier.name-place.ts"
 import { typeIdentifier } from "../../../pages-system/name-place/name-places/type-identifier.name-place.ts"
 import { type Places, refusedIn } from "./identifier-matches-its-place.code-check.code.ts"
@@ -19,6 +20,10 @@ const PLACES: Places = {
   constantIdentifier: {
     nameFormatSlug: constantIdentifier.nameFormatSlug,
     matching: upperSnakeCase,
+  },
+  derivedIdentifier: {
+    nameFormatSlug: derivedIdentifier.nameFormatSlug,
+    matching: lowerCamelCase,
   },
 }
 
@@ -96,9 +101,70 @@ test("a value worked out at the top of a file is passed over", () => {
   expect(refusedIn(AT, body, PLACES)).toEqual([])
 })
 
-test("a name inside a function is passed over", () => {
+test("a name inside a function is judged against the place a derived identifier stands in", () => {
+  const body = 'export function one() {\n  const HELD_AT = "two"\n  return HELD_AT\n}\n'
+  const said = refusedIn(AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("the name `HELD_AT`")
+  expect(said[0]).toContain("`name-format/lower-camel-case`")
+})
+
+test("a name inside a function written in lower camel case is let through", () => {
   const body = 'export function one() {\n  const held = "two"\n  return held\n}\n'
   expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a name a pattern binds is judged, and the key it is bound from is not", () => {
+  const body =
+    "export function one(held: { Some_Key: number }) {\n" +
+    "  const { Some_Key: Bound } = held\n  return Bound\n}\n"
+  const said = refusedIn(AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the name `Bound`")
+})
+
+test("every name a list pattern binds is judged", () => {
+  const body =
+    "export function one(held: number[]) {\n" +
+    "  const [First, second] = held\n  return [First, second]\n}\n"
+  const said = refusedIn(AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the name `First`")
+})
+
+test("a catch binding is judged where it stands", () => {
+  const body =
+    "export function one() {\n  try {\n    one()\n" +
+    "  } catch (Thrown) {\n    return Thrown\n  }\n}\n"
+  const said = refusedIn(AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the name `Thrown`")
+})
+
+test("a parameter of a function carrying a body is judged", () => {
+  const said = refusedIn(AT, "export function one(BadArg: number) {\n  return BadArg\n}\n", PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the parameter `BadArg`")
+  expect(said[0]).toContain("`name-format/lower-camel-case`")
+})
+
+test("a parameter of a function type or a method signature is not judged", () => {
+  const body =
+    "export type One = (BadArg: number) => void\n" +
+    "export type Two = { m(BadArg: number): void }\n"
+  expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a parameter the body does not read opens with an underscore and is let through", () => {
+  const body = "export const one = (_whole: string, held: string) => held\n"
+  expect(refusedIn(AT, body, PLACES)).toEqual([])
+})
+
+test("a parameter the body reads is judged though it opens with an underscore", () => {
+  const said = refusedIn(AT, "export const one = (_whole: string) => _whole\n", PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the parameter `_whole`")
 })
 
 test("a page's own value is passed over, and a name standing beside it is not", () => {
@@ -119,8 +185,8 @@ test("a name that is read rather than declared is left to the file declaring it"
   expect(refusedIn(AT, body, PLACES)).toEqual([])
 })
 
-test("a property key, a parameter and a type parameter are each left alone", () => {
-  const body = "export function one<T>(BadArg: T) {\n  return { BadKey: BadArg }\n}\n"
+test("a property key and a type parameter are each left alone", () => {
+  const body = "export function one<T>(held: T) {\n  return { BadKey: held }\n}\n"
   expect(refusedIn(AT, body, PLACES)).toEqual([])
 })
 
@@ -138,4 +204,5 @@ test("the formats judged are the ones the place pages state", () => {
   expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
   expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
   expect(constantIdentifier.nameFormatSlug).toBe("name-format/upper-snake-case")
+  expect(derivedIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
 })

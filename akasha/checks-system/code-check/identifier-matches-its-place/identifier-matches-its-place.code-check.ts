@@ -42,8 +42,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "A type parameter and a property key and a parameter and a component are each their own place.",
+      statement: "A type parameter and a property key and a component are each their own place.",
     },
     {
       invariantKind: "absence",
@@ -79,8 +78,29 @@ export const identifierMatchesItsPlace = {
       statement: "`page-named-as-stated` holds it to the name the slug it states makes.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A name inside a function is judged against `derived-identifier`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A parameter of a function carrying a body stands in that place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A parameter of a function type or a method signature declares nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each name a pattern binds is judged and the key it binds from is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A catch binding is judged there.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A parameter opening with an underscore is passed over where the body does not read it.",
     },
   ],
 } as const satisfies CodeCheck
