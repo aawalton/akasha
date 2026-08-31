@@ -48,10 +48,19 @@ function textOf(path: string): string | null {
   return BODIES.get(path) ?? null
 }
 
-function bound(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
+function over(
+  at: string,
+  from: string,
+  to: string,
+  typed: readonly string[]
+): ReturnType<typeof bindingFor> {
   const asked = tokeningFor(at, from, to)
   if ("refused" in asked) throw new Error(asked.refused)
-  return bindingFor(ROOT, PATHS, asked.tokening, textOf)
+  return bindingFor(ROOT, { typed, every: PATHS }, asked.tokening, textOf)
+}
+
+function bound(at: string, from: string, to: string): ReturnType<typeof bindingFor> {
+  return over(at, from, to, PATHS)
 }
 
 test("a name that is already the one it would become is refused rather than worked out", () => {
@@ -134,4 +143,11 @@ test("a name a file carries in more than one place is refused rather than guesse
   expect(bound(TWICE, "twice", "once")).toEqual({
     refused: `${TWICE} carries \`twice\` in more than one place, so which one to rename is unsaid`,
   })
+})
+
+test("a line still naming it outside what the checker was built over is named all the same", () => {
+  const made = over(HELD, "marking", "input", [HELD, NAMER])
+  if ("refused" in made) throw new Error(made.refused)
+  expect(made.binding.changes.get(NAMER)).toContain("export const two = input(one)")
+  expect(made.binding.still).toEqual([{ path: SHADOW, lines: [2, 3] }])
 })

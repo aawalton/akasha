@@ -5,6 +5,8 @@ import {
   readingOf,
   typingOver,
 } from "../../../code-system/code-typing/code-typing.module.code.ts"
+import { reachingInto } from "../../../graph-system/graph-asking/graph-asking.module.code.ts"
+import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-edge.graph-edge.ts"
 import {
   everyPath,
   readingIn,
@@ -83,6 +85,8 @@ const NAMED = [FROM, TO, PLURAL, AT]
 const BYTES = new TextEncoder()
 
 const LEFT = 12
+
+const IMPORT = importEdge.slug
 
 export type Read =
   | { readonly said: ReadonlyMap<string, string>; readonly dryRun: boolean }
@@ -324,8 +328,9 @@ export function tokenLanded(
   dryRun: boolean,
   argv: readonly string[]
 ): Answer {
-  const paths = everyPath(root).filter(compiled)
-  const made = bindingFor(root, paths, one, bodyTextOf(root, baseOf(root)))
+  const every = everyPath(root).filter(compiled)
+  const typed = reachingInto(root, [one.path], [IMPORT], compiled)
+  const made = bindingFor(root, { typed, every }, one, bodyTextOf(root, baseOf(root)))
   if ("refused" in made) return answering([], [made.refused], 1)
   return respelledLanded(
     given,

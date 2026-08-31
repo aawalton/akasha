@@ -43,6 +43,11 @@ export type Binding = {
 
 export type Made = { readonly binding: Binding } | { readonly refused: string }
 
+export type Over = {
+  readonly typed: readonly string[]
+  readonly every: readonly string[]
+}
+
 type Stood = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
 
 type Standing = Stood | { readonly refused: string }
@@ -91,11 +96,11 @@ function takenAlready(typing: Typing, one: Tokening): boolean {
 
 export function bindingFor(
   root: string,
-  paths: readonly string[],
+  over: Over,
   one: Tokening,
   textOf: (path: string) => string | null
 ): Made {
-  const typing = typingOver(root, paths, readingOf(root, textOf))
+  const typing = typingOver(root, over.typed, readingOf(root, textOf))
   const stood = standingFor(typing, one)
   if ("refused" in stood) return { refused: stood.refused }
   if (takenAlready(typing, one)) return { refused: `${one.path} already carries \`${one.now}\`` }
@@ -118,7 +123,7 @@ export function bindingFor(
     changes.set(path, splicedIn(text, spots))
   }
   const still: Still[] = []
-  for (const path of paths) {
+  for (const path of over.every) {
     const text = changes.get(path) ?? textOf(path)
     if (text === null) continue
     const lines = namesStill(text, one.was)

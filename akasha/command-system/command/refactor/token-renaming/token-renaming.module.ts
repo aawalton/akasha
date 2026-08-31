@@ -56,6 +56,11 @@ export const tokenRenaming = {
       statement: "An answer names every line still spelling the name that was renamed.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The paths a name is resolved over and the paths a spelling left behind is looked for in are handed in apart.",
+    },
+    {
       invariantKind: "absence",
       statement: "A caller hands in the paths and the bodies.",
     },
