@@ -29,6 +29,27 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A body that must be loaded is reached at the path on disk holding it rather than the path the change leaves it at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the change only carries elsewhere stands at the path it came from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the change writes anew stands at no path and is answered as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the change does not carry holds its own body.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The disk answers the base commit for as long as the checks are running.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An audit leaves everything as it stands.",
     },
     {

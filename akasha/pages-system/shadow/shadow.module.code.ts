@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto"
 import { textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../indexes/index-entries/index-entries.module.code.ts"
@@ -8,6 +9,7 @@ import { readingOver } from "../indexes/indexing/indexing.module.code.ts"
 export type Shadow = {
   readonly reading: Reading
   readonly pageOf: (path: string) => Value | null
+  readonly codeAt: (path: string) => string | null
 }
 
 export type Cast = { readonly shadow: Shadow } | { readonly refused: string }
@@ -30,10 +32,36 @@ function nothingMoved(change: Change): boolean {
   return change.after === change.before
 }
 
+function keyOf(bytes: Uint8Array): string {
+  return createHash("sha256").update(bytes).digest("hex")
+}
+
+function standingOver(change: Change): (path: string) => string | null {
+  const carried = new Set(change.changed)
+  let held: Map<string, string> | null = null
+  const before = (): Map<string, string> => {
+    if (held !== null) return held
+    const found = new Map<string, string>()
+    for (const path of change.changed) {
+      const bytes = change.before(path)
+      if (bytes !== null) found.set(keyOf(bytes), path)
+    }
+    held = found
+    return found
+  }
+  return (path) => {
+    if (!carried.has(path)) return path
+    const after = change.after(path)
+    if (after === null) return null
+    return before().get(keyOf(after)) ?? null
+  }
+}
+
 export function shadowAt(root: string): Shadow {
   return {
     reading: readingIn(root),
     pageOf: remembering((path) => valueAt(path, root)),
+    codeAt: (path) => path,
   }
 }
 
@@ -51,7 +79,8 @@ function castOver(change: Change): Cast {
       before: textOf(change.before(path)),
       after: textOf(change.after(path)),
     }))
-    return { shadow: { reading: readingOver(change.root, moving, pageOf), pageOf } }
+    const reading = readingOver(change.root, moving, pageOf)
+    return { shadow: { reading, pageOf, codeAt: standingOver(change) } }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     return { refused: `${NOT_WORKED_OUT} — ${why}` }
@@ -74,6 +103,7 @@ export function shadowAsked(change: Change): Shadow {
       lines: (at) => worked().reading.lines(at),
     },
     pageOf: (path) => worked().pageOf(path),
+    codeAt: (path) => worked().codeAt(path),
   }
 }
 

@@ -325,3 +325,55 @@ test("a page the change does not carry is read from the tree the change would la
   expect(cast.shadow.pageOf(inside("g.domain.ts"))?.["slug"]).toBe("g")
   expect(cast.shadow.pageOf(at)?.["slug"]).toBe("b")
 })
+
+const CODE_AT = inside("deep/d.module.code.ts")
+
+const MOVED_TO = inside("far/d.module.code.ts")
+
+function carriedOver(root: string): Change {
+  const was = onDisk(root)
+  const held = was(CODE_AT)
+  return {
+    root,
+    changed: [CODE_AT, MOVED_TO, inside("fresh.ts")],
+    before: was,
+    after: (path) => {
+      if (path === CODE_AT) return null
+      if (path === MOVED_TO) return held
+      if (path === inside("fresh.ts")) return TEXT.encode("export const fresh = 1\n")
+      return was(path)
+    },
+  }
+}
+
+function codeOf(cast: Cast): (path: string) => string | null {
+  if ("refused" in cast) throw new Error(cast.refused)
+  return cast.shadow.codeAt
+}
+
+test("a body the change only carries elsewhere stands at the path it came from", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(carriedOver(repo)))(MOVED_TO)).toBe(CODE_AT)
+})
+
+test("a body the change writes anew stands at no path and is answered as nothing", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(carriedOver(repo)))(inside("fresh.ts"))).toBe(null)
+})
+
+test("a body the change takes away stands at no path", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(carriedOver(repo)))(CODE_AT)).toBe(null)
+})
+
+test("a path the change does not carry holds its own body", () => {
+  const repo = seeded()
+  expect(codeOf(shadowFor(carriedOver(repo)))(inside("x.ts"))).toBe(inside("x.ts"))
+})
+
+test("an audit carries nothing, so every path holds its own body", () => {
+  const repo = seeded()
+  const held = onDisk(repo)
+  const change: Change = { root: repo, changed: [inside("x.ts")], before: held, after: held }
+  expect(codeOf(shadowFor(change))(inside("x.ts"))).toBe(inside("x.ts"))
+})
