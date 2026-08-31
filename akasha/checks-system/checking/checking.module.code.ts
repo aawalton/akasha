@@ -2,7 +2,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import {
   everyOfTypeAnswered,
-  standingByIdAnswered,
+  typeSlugByIdAnswered,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -30,17 +30,7 @@ const TS = "ts"
 const loadFrom = createRequire(import.meta.url)
 
 export function checkSlugIn(root: string): string {
-  const standing = standingByIdAnswered(root, CHECK_TYPE)
-  if (standing === null) {
-    throw new Error(
-      `no page carries the id \`${CHECK_TYPE}\`, so nothing says which pages are checks`
-    )
-  }
-  const said = namedIn(standing.path)
-  if (said === null) {
-    throw new Error(`${standing.path} carries the check page type, and its name says no slug`)
-  }
-  return said.stem
+  return typeSlugByIdAnswered(root, CHECK_TYPE)
 }
 
 export function checkPagesIn(root: string): readonly string[] {

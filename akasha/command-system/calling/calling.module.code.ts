@@ -6,13 +6,10 @@ import {
   indexStanding,
   slugsOfType,
   standingAt,
-  standingById,
+  typeSlugById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  namedIn,
-} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
 import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
@@ -71,11 +68,7 @@ export function answering(
 }
 
 export function commandSlugIn(root: string): string | null {
-  if (!indexStanding(root)) return null
-  const standing = standingById(root, COMMAND_TYPE)
-  if (standing === null) return null
-  const said = namedIn(standing.path)
-  return said === null ? null : said.stem
+  return indexStanding(root) ? typeSlugById(root, COMMAND_TYPE) : null
 }
 
 export function commandsIn(root: string): readonly string[] {

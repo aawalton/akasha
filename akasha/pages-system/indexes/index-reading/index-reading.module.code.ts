@@ -1,5 +1,6 @@
 import { join } from "node:path"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
+import { namedIn } from "../../page/page-file-name/page-file-name.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
@@ -290,6 +291,29 @@ export function standingByIdAnswered(given: string | Reading, id: string): Stand
 
 export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
   return answered(root, PATH, "which files stand", () => everyPath(given))
+}
+
+function slugOf(standing: Standing | null, id: string): string | null {
+  if (standing === null) return null
+  const said = namedIn(standing.path)
+  if (said === null) {
+    throw new Error(
+      `\`${standing.path}\` carries the id \`${id}\`, and its name says no slug for the page type it is`
+    )
+  }
+  return said.stem
+}
+
+export function typeSlugById(given: string | Reading, id: string): string | null {
+  return slugOf(standingById(given, id), id)
+}
+
+export function typeSlugByIdAnswered(given: string | Reading, id: string): string {
+  const said = slugOf(standingByIdAnswered(given, id), id)
+  if (said === null) {
+    throw new Error(`no page carries the id \`${id}\`, so nothing says which pages are of its type`)
+  }
+  return said
 }
 
 export type Named = {

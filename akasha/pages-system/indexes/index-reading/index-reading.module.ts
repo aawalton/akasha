@@ -58,6 +58,15 @@ export const indexReading = {
       statement: "A reader here takes the repository root or a reading of the index.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The slug a page type's pages are filed under is answered from that page type's id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That slug is read off the name of the file carrying the id.",
+    },
+    {
       invariantKind: "absence",
       statement: "An answer about one page reads no stamp.",
     },
