@@ -1,17 +1,12 @@
 import { spawnSync } from "node:child_process"
-import { statSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
-import { basename } from "node:path"
 import { pageStemOf } from "../../page/name/name.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { akashaSeatsStated } from "./seat-akasha-read.ts"
 import { newestBodyPerPath, seatHistoryRoot } from "./seat-page-history.ts"
-import { frontmatterIn, frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
+import { agentPresence, frontmatterIn } from "./seat-presence-read.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
 import { sessionOf } from "./seat-session.ts"
-
-const PAGE_SUFFIX = ".md"
-
-const UNCOMMITTED_SUFFIX = ".uncommitted.yaml"
 
 const SESSION_KEY = "claude-code-session-uuid"
 
@@ -59,17 +54,6 @@ function seatedFrom(
   }
 }
 
-function touchedAtMs(pagePath: string): number {
-  const uncommitted = `${pagePath.slice(0, -PAGE_SUFFIX.length)}${UNCOMMITTED_SUFFIX}`
-  let newest = 0
-  for (const path of [pagePath, uncommitted]) {
-    try {
-      newest = Math.max(newest, statSync(path).mtimeMs)
-    } catch {}
-  }
-  return newest
-}
-
 const OUTPUT_CEILING = 64 * 1024 * 1024
 
 function gitAt(root: string, args: readonly string[]): string | null {
@@ -82,18 +66,27 @@ function gitAt(root: string, args: readonly string[]): string | null {
   return new TextDecoder().decode(proc.stdout ?? new Uint8Array())
 }
 
+// THE FLEET IS LISTED FROM AKASHA. This opened every file in the old seat directory and read its
+// frontmatter for an id, a role and a domain, which made the roster the last listing reader still
+// standing on a store nothing writes.
+//
+// WHAT IT COST WAS ALREADY BEING PAID IN THE WRONG PLACE. `activeAtMs` is what `message-to` sorts
+// candidates by and what `seat-handle` breaks a tie on, and it was the newest of the old page and
+// the old sidecar — both frozen at the moment the old writes stopped. Every seat read as last
+// active hours ago and in the same order forever. Taken from akasha it moves again.
+//
+// A qualified assignment is spelled back to its bare slug, akasha naming the domain, person or
+// package the value reaches into where the old page carried the slug alone.
 export function seatsStanding(): readonly (Seated & {
   readonly presence: SeatPresence
   readonly present: boolean
 })[] {
   const found: (Seated & { presence: SeatPresence; present: boolean })[] = []
-  const held = new Set<string>()
-  for (const page of seatPagePaths()) {
-    const seated = seatedFrom(frontmatterOf(page), pageStemOf(page), touchedAtMs(page))
-    if (seated === null || held.has(seated.id)) continue
-    held.add(seated.id)
-    const presence = seatPresence(page)
-    const session = sessionOf(seated.id)?.value ?? seated.session
+  for (const one of akashaSeatsStated()) {
+    const seated = seatedFrom(one.values, one.name, one.activeAtMs)
+    if (seated === null) continue
+    const presence = agentPresence(one.id)
+    const session = sessionOf(one.id)?.value ?? seated.session
     found.push({ ...seated, session, presence, present: presence === "present" })
   }
   return found

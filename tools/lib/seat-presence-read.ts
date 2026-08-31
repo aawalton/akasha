@@ -1,8 +1,6 @@
 import { existsSync, readFileSync, readdirSync } from "node:fs"
 import { parse } from "yaml"
-import { basename } from "node:path"
 import { onceInCall } from "../../during-call/during-call.ts"
-import { pageStemOf } from "../../page/name/name.ts"
 import {
   dirOfPlaceHeld,
   dirsOfPlaces,
@@ -12,7 +10,9 @@ import {
 } from "./agent-page-place.ts"
 import {
   akashaHolderProcessOf,
+  akashaSeatIdForName,
   akashaSeatPathForAgent,
+  akashaSeatsStanding,
   akashaSeatSlugOf,
 } from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
@@ -129,19 +129,21 @@ function seatPageById(): ReadonlyMap<string, string> {
   })
 }
 
+// EVERY AGENT AKASHA HOLDS A SEAT FOR. This listed the ids read out of the old pages' frontmatter,
+// which meant a file opened for each seat to learn a set the index already answers.
 export function seatPageAgents(): readonly string[] {
-  return [...seatPageById().keys()].sort()
+  return [...akashaSeatsStanding().keys()].sort()
 }
 
 export function seatPageForAgent(agentId: string): string | null {
   return seatPageById().get(agentId) ?? null
 }
 
+// WHO SITS IN THE SEAT OF THIS NAME, ANSWERED BY AKASHA. This found the old page by name and
+// opened it for the id it states. Akasha files a seat under its name too, and the index reaches
+// the id from that name without the page being read.
 export function seatIdForName(name: string): string | null {
-  const page = seatPageAt(name)
-  if (page === null) return null
-  const held = frontmatterOf(page)?.id
-  return typeof held === "string" && held !== "" ? held : null
+  return akashaSeatIdForName(name)
 }
 
 // The same answer as `seatHolderProcess`, for a caller holding an id rather than a path. Nothing
@@ -173,12 +175,16 @@ export function seatNameForAgent(agentId: string): string | null {
   return akashaSeatSlugOf(agentId)
 }
 
+// THE SEAT A PROCESS HOLDS, FOUND BY WALKING AKASHA. The holder was read from akasha already; what
+// stood here was a walk of the old directory to learn which seats to ask after, and a page opened
+// for each one to turn its path back into the id that asks. Akasha answers the name and the id
+// together, so neither step is needed.
 export function seatNameForSupervisorPid(pid: number): string | null {
-  for (const page of seatPagePaths()) {
-    const stated = seatHolderProcess(page)
+  for (const [agentId, name] of akashaSeatsStanding()) {
+    const stated = akashaHolderProcessOf(agentId)
     if (stated === null) continue
     const key = parseSeatProcKey(stated)
-    if (key !== null && key.pid === pid) return pageStemOf(page)
+    if (key !== null && key.pid === pid) return name
   }
   return null
 }

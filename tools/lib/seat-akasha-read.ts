@@ -6,6 +6,7 @@ import {
   akashaBesideOf,
   akashaRoot,
   akashaSeatPathForAgent,
+  akashaSeatsStanding,
   besideWrittenAtMs,
   CARRIED,
   RECORDS,
@@ -81,6 +82,36 @@ export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | n
   const slug = values[SLUG]
   if (typeof slug === "string" && values[TITLE] === undefined) values[TITLE] = slug
   return values
+}
+
+export interface SeatStated {
+  readonly id: string
+  readonly name: string
+  readonly values: Record<string, unknown>
+  readonly activeAtMs: number
+}
+
+// EVERY SEAT AKASHA HOLDS, EACH WITH WHAT IT STATES, under the keys the old page's frontmatter
+// carried. This is what a walk of the old seat directory turns into. A reader that asks after one
+// seat was answered here already; these are the readers that LIST them, and every one of them
+// opened each file in that directory and parsed its frontmatter to find the set.
+//
+// THE SET IS ANSWERED BY THE INDEX AND NO PAGE IS OPENED TO FIND IT. Only the seats the index
+// names are read, so this costs the fleet rather than the corpus, and it is a shorter walk than
+// the directory was.
+//
+// A SEAT'S ACTIVITY IS WHEN WHAT IS OBSERVED OF IT WAS LAST WRITTEN. The old walk took the newest
+// of the page and its sidecar, and a seat's page is written once where its sidecar is written
+// every beat, so the sidecar was already the answer in all but the first moment of a seat's life.
+export function akashaSeatsStated(): readonly SeatStated[] {
+  const found: SeatStated[] = []
+  for (const [id, name] of akashaSeatsStanding()) {
+    const values = akashaSeatValuesOf(id)
+    if (values === null) continue
+    const page = akashaSeatPathForAgent(id)
+    found.push({ id, name, values, activeAtMs: page === null ? 0 : besideWrittenAtMs(page) })
+  }
+  return found
 }
 
 // The old store keeps an instant as milliseconds and akasha writes it as ISO 8601, so a value

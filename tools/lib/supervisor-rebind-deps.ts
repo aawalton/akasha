@@ -1,20 +1,17 @@
 
-import { basename } from "node:path"
 import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
 import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { launchFrom } from "./seat-flex.ts"
 import { principalOf } from "./seat-principal.ts"
 import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
-import { seatIdForName, seatNameForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
 // A seat's name is its page's stem while that page stands, and the slug its akasha page is named
 // for once it does not. Both spell the same name.
 function nameOf(agentId: string): string | null {
   return seatNameForAgent(agentId)
 }
-
-const PAGE_SUFFIX = ".md"
 
 const PRINCIPAL_KEY = "principal-seat-name"
 
@@ -79,9 +76,9 @@ async function readPredecessor(agentId: string): Promise<{
     name,
     title: slugAt(stated, "title") ?? name,
     launch: launchFrom(stated),
-    // The seat above is named rather than identified, and either system can say who holds that
-    // name — the old pages first, as everywhere else.
-    parent: above === null ? null : (seatIdForName(above) ?? akashaSeatIdForName(above)),
+    // The seat above is named rather than identified, and akasha says who holds that name. Both
+    // systems were asked, the old pages first; there is one system to ask now.
+    parent: above === null ? null : akashaSeatIdForName(above),
     role: slugAt(stated, "role-slug"),
     persona: slugAt(stated, "persona-slug"),
     principal: principalOf(agentId)?.value ?? null,

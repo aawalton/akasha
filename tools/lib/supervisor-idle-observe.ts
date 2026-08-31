@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { principalSeatIdOf } from "./seat-principal.ts"
-import { frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
+import { agentPresence } from "./seat-presence-read.ts"
+import { akashaSeatsStanding } from "./seat-akasha-beside.ts"
 import type { SeatPresence } from "./seat-proc-key.ts"
 import { shape } from "./shape.ts"
 import type { BusyChildDetail, IdleObservation, IdleRuleSource } from "./supervisor-idle-rule.ts"
@@ -44,15 +45,16 @@ export function selectInFlightDispatch(
   )
 }
 
+// EVERY SEAT IS LISTED FROM AKASHA, which answers the ids without a page being opened for one. This
+// walked the old seat directory and read each file's frontmatter for the id it states, and what it
+// wanted from that page was the id alone.
 export function dispatchChildrenNow(): readonly DispatchChild[] {
   const found: DispatchChild[] = []
-  for (const page of seatPagePaths()) {
-    const id = frontmatterOf(page)?.id
-    if (typeof id !== "string" || id === "") continue
+  for (const agentId of akashaSeatsStanding().keys()) {
     found.push({
-      agentId: id,
-      principalSeatId: principalSeatIdOf(id),
-      presence: seatPresence(page),
+      agentId,
+      principalSeatId: principalSeatIdOf(agentId),
+      presence: agentPresence(agentId),
     })
   }
   return found

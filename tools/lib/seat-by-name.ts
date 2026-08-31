@@ -1,10 +1,5 @@
 import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
-import { frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
 import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
-
-const TITLE = "title"
-
-const ID = "id"
 
 export interface SeatByName {
   readonly id: string
@@ -12,20 +7,11 @@ export interface SeatByName {
   readonly presence: SeatPresence
 }
 
-function textAt(frontmatter: Record<string, unknown>, key: string): string | null {
-  const held = frontmatter[key]
-  return typeof held === "string" && held !== "" ? held : null
-}
-
-// A seat's title was only ever its slug spelled again, and in akasha that slug is the name its page
-// file stands under. So the walk of the old pages answers first, and what akasha answers for is the
-// seat whose old page has gone — which used to be no seat by that name at all.
+// A SEAT IS FOUND BY NAME IN AKASHA AND NOWHERE ELSE. This opened every file in the old seat
+// directory and compared the `title` its frontmatter carried, which was only ever the seat's slug
+// spelled a second time. In akasha that slug is the name the page file stands under, so the index
+// answers it without opening a page at all.
 export function seatByName(name: string): SeatByName | null {
-  for (const page of seatPagePaths()) {
-    const frontmatter = frontmatterOf(page)
-    if (frontmatter === null || textAt(frontmatter, TITLE) !== name) continue
-    return { id: textAt(frontmatter, ID) ?? "", name, presence: seatPresence(page) }
-  }
   const id = akashaSeatIdForName(name)
   if (id === null) return null
   return { id, name, presence: statedProcessPresence(akashaHolderProcessOf(id)) }

@@ -1,22 +1,11 @@
-
-import { basename } from "node:path"
-import { pageStemOf } from "../../page/name/name.ts"
-import { existsSync } from "node:fs"
 import { resolveRoots } from "../../repo/roots/roots.ts"
-import {
-  akashaHolderProcessOf,
-  akashaSeatIdForName,
-  akashaSeatsStanding,
-} from "./seat-akasha-beside.ts"
-import { akashaSeatValuesOf } from "./seat-akasha-read.ts"
+import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
+import { akashaSeatsStated, akashaSeatValuesOf } from "./seat-akasha-read.ts"
 import { pageFromHistory } from "./seat-page-history.ts"
 import { statedProcessPresence } from "./seat-proc-key.ts"
-import { frontmatterOf, seatIsPresent, seatPageAt, seatPagePaths } from "./seat-presence-read.ts"
 import { FLEET } from "./compose-seat-name.ts"
 
 const MAX_ANCESTOR_GENERATIONS = 10
-
-const PAGE_SUFFIX = ".md"
 
 const PERSON_KEY = "person-slug"
 
@@ -74,10 +63,6 @@ export function parentsToFetch(
   return [...new Set(named)]
 }
 
-function standingPageOf(seatName: string): string | null {
-  return seatPageAt(seatName)
-}
-
 function parentIdOf(seatName: string): string | null {
   const seat = seatNamed(seatName)
   return seat === null ? null : (textAt(seat.frontmatter, "id") ?? null)
@@ -97,46 +82,31 @@ function fromAkasha(seatName: string): SeatStanding | null {
   }
 }
 
-// The old page, then akasha, then the history. The history is where a seat is read back from once
-// it has stopped, so a seat still standing in the new system is not answered from it.
+// Akasha, then the history. The history is where a seat is read back from once it has stopped, so
+// a seat still standing is not answered from it. The old page was asked first and is not asked at
+// all now: it holds nothing akasha does not, and it stopped being written before this changed.
 function seatNamed(seatName: string): SeatStanding | null {
-  const standing = standingPageOf(seatName)
-  if (standing !== null) {
-    const frontmatter = frontmatterOf(standing)
-    if (frontmatter !== null) {
-      return { name: seatName, frontmatter, live: seatIsPresent(standing) }
-    }
-  }
   const inAkasha = fromAkasha(seatName)
   if (inAkasha !== null) return inAkasha
   const held = pageFromHistory(seatName, resolveRoots())
   return held === null ? null : { name: seatName, frontmatter: held.frontmatter, live: false }
 }
 
-// BOTH SYSTEMS ARE WALKED, because this lists seats rather than asking after one: a seat standing
-// only in akasha is not absent from the forest, it is invisible in it, and the forest is how the
-// fleet is looked at. The old pages are walked first and a name they hold is not asked of akasha
-// again, so a seat standing in both is listed once, from the store that still writes it.
+// ONE SYSTEM IS WALKED NOW. Both were, because a seat standing only in akasha was not absent from
+// the forest but invisible in it, and the forest is how the fleet is looked at. With the old pages
+// no longer written there is no second store to reconcile against and no name to hold back.
+//
+// A SEAT AKASHA HOLDS IS LISTED WHETHER OR NOT SOMEBODY SITS IN IT. The akasha-only half of the old
+// walk listed the live ones alone, on the reading that a page outliving its counterpart was residue
+// from a stop whose second removal did not land. There is no counterpart to outlive any more: a
+// page akasha holds for a seat nobody sits in is either an absent seat, which the forest says so
+// of, or a removal that failed, which is a fault worth seeing rather than one worth hiding.
 function seatsStanding(): readonly SeatStanding[] {
-  const found: SeatStanding[] = []
-  const named = new Set<string>()
-  for (const page of seatPagePaths()) {
-    const frontmatter = frontmatterOf(page)
-    if (frontmatter === null) continue
-    const name = pageStemOf(page)
-    named.add(name)
-    found.push({ name, frontmatter, live: seatIsPresent(page) })
-  }
-  // A seat akasha alone holds is listed only while an agent is present in it. Its page there
-  // outliving its page here is residue rather than a seat — a stop whose second removal did not
-  // land leaves one standing, and listing those would fill the forest with seats nobody sits in.
-  // What this is for is the seat still running whose old page has gone.
-  for (const name of akashaSeatsStanding().values()) {
-    if (named.has(name)) continue
-    const held = fromAkasha(name)
-    if (held !== null && held.live) found.push(held)
-  }
-  return found
+  return akashaSeatsStated().map((one) => ({
+    name: one.name,
+    frontmatter: one.values,
+    live: statedProcessPresence(akashaHolderProcessOf(one.id)) === "present",
+  }))
 }
 
 export function readSeatForest(): readonly ForestRow[] {

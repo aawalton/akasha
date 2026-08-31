@@ -1,7 +1,6 @@
 
-import { existsSync } from "node:fs"
 import { writeMessage } from "./message-file.ts"
-import { seatDirs, seatPageAt } from "./seat-presence-read.ts"
+import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 
 const DEFAULT_SENDER = "service"
 
@@ -10,20 +9,17 @@ export type SeatReading =
   | { readonly kind: "no-page" }
   | { readonly kind: "unreachable"; readonly why: string }
 
+// THREE ANSWERS, AND THE MIDDLE ONE IS THE POINT. A seat that is not there and a place where no
+// seat can be read must not read alike, or a handler nobody has heard of and a repository that
+// cannot be looked at get the same treatment. This checked that a seat directory existed on disk
+// to draw that line; akasha draws it already, refusing a root that names no seat index at all and
+// answering for one that does.
 export function readSeatPage(handler: string): SeatReading {
-  let dirs: readonly string[]
   try {
-    dirs = seatDirs()
+    return akashaSeatIdForName(handler) === null ? { kind: "no-page" } : { kind: "page-stands" }
   } catch (error) {
-    return { kind: "unreachable", why: `the seats cannot be located here: ${String(error)}` }
+    return { kind: "unreachable", why: `the seats cannot be read here: ${String(error)}` }
   }
-  if (!dirs.some((one) => existsSync(one))) {
-    return {
-      kind: "unreachable",
-      why: "no seat directory is here, so nothing says which seats exist",
-    }
-  }
-  return seatPageAt(handler) === null ? { kind: "no-page" } : { kind: "page-stands" }
 }
 
 export function writeAnnouncement(
