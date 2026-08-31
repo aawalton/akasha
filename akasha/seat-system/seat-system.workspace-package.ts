@@ -72,6 +72,11 @@ export const seatSystem = {
         "Every writer of a seat's uncommitted values takes a lock keyed on the file it writes.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A supervisor restarts onto current code without interrupting the session it holds.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A seat outlives the editor showing it and the agent sitting in it.",
     },
