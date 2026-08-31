@@ -39,10 +39,6 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The properties stating a `unique` today are `id` and `slug`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file holds one line for each page carrying the value.",
     },
     {
