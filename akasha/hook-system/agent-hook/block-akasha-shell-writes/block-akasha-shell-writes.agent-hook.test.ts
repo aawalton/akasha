@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   editsInPlace,
   landingsIn,
@@ -35,7 +35,7 @@ test("an appending redirect is refused as a truncating one is", () => {
 })
 
 test("a redirect onto the index is refused, and names the one repair", () => {
-  expect(said(`echo hi > ${indexIn("")}/held.jsonl`)).toContain("akasha index refresh")
+  expect(said(`echo hi > ${indexNamed()}/held.jsonl`)).toContain("akasha index refresh")
 })
 
 test("a copy out of akasha stands, because it lands outside", () => {
@@ -90,7 +90,7 @@ test("an in-place flag carrying a suffix is refused", () => {
 })
 
 test("an in-place edit onto the index is refused, and names the one repair", () => {
-  expect(said(`perl -pi -e 's/a/b/' ${indexIn("")}/held.jsonl`)).toContain("akasha index refresh")
+  expect(said(`perl -pi -e 's/a/b/' ${indexNamed()}/held.jsonl`)).toContain("akasha index refresh")
 })
 
 test("a perl reading akasha without writing it stands", () => {
