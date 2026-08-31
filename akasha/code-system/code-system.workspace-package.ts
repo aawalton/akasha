@@ -11,6 +11,7 @@ export const codeSystem = {
     "page-type/ios-app",
     "page-type/ios-component",
     "page-type/ios-harness",
+    "page-type/ios-program",
     "page-type/shell-script",
     "page-type/workspace-package",
     "module/body-text",
