@@ -144,7 +144,7 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
 function landedMeanwhile(root: string, path: string, body: string): Judging {
   return {
     named: ["landed-meanwhile"],
-    wokenBy: () => ["landed-meanwhile"],
+    checksFor: () => ["landed-meanwhile"],
     over: () => {
       const at = join(root, path)
       mkdirSync(join(at, ".."), { recursive: true })

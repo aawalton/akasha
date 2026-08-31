@@ -96,7 +96,7 @@ export function judgedOver(judging: Judging, change: Change, atAudit: number): A
   } catch (thrown) {
     return { report: [], refusals: [`nothing was judged — ${whyOf(thrown)}`], code: 3 }
   }
-  const woke = judging.wokenBy(change).length
+  const woke = judging.checksFor(change).length
   const left = atAudit - woke
   const by =
     left > 0

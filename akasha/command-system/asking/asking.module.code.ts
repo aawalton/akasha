@@ -135,7 +135,7 @@ function sameBytes(one: Uint8Array, two: Uint8Array): boolean {
 function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
   return {
     named: judging.named,
-    wokenBy: judging.wokenBy,
+    checksFor: judging.checksFor,
     over: (change) => {
       const moved: Judged[] = []
       for (const one of held) {
@@ -247,7 +247,7 @@ function reported(
 function reporting(root: string, asked: Asked, gate: Judging): Answer {
   const held = holding(root, () => {
     const change = changeOf(root, { base: baseOf(root), edits: asked.changes })
-    return { said: gate.over(change), woke: gate.wokenBy(change).length }
+    return { said: gate.over(change), woke: gate.checksFor(change).length }
   })
   if (held.said.length > 0) {
     return {

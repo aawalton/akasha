@@ -160,7 +160,7 @@ function threw(one: Gathered, thrown: unknown): Judged {
 export function judgingBy(every: readonly Gathered[]): Judging {
   return {
     named: every.map((one) => one.slug),
-    wokenBy: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
+    checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
     over: (change) => {
       const shadow = shadowAsked(change)
       const said: Judged[] = []

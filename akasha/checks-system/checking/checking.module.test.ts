@@ -239,7 +239,7 @@ test("a check bounded to the pages sleeps through a change touching a file besid
   const root = pagedRoot()
   const held = onDisk(root)
   const change = { root, changed: [HELD_CODE_AT], after: held, before: held }
-  expect(judgingBy(checksIn(root)).wokenBy(change)).toEqual(["refuses-all"])
+  expect(judgingBy(checksIn(root)).checksFor(change)).toEqual(["refuses-all"])
   expect(
     judgingBy(checksIn(root))
       .over(change)
@@ -251,7 +251,7 @@ test("a check bounded to the pages wakes for a page, its waking having asked the
   const root = pagedRoot()
   const held = onDisk(root)
   const change = { root, changed: [HELD_PAGE_AT], after: held, before: held }
-  expect(judgingBy(checksIn(root)).wokenBy(change)).toEqual(["refuses-all", "wakes-pages"])
+  expect(judgingBy(checksIn(root)).checksFor(change)).toEqual(["refuses-all", "wakes-pages"])
   expect(
     judgingBy(checksIn(root))
       .over(change)
@@ -269,8 +269,8 @@ test("`wokenBy` names the checks that ran and `named` names every check the gate
   const overMd = { root, changed: ["one.md"], after: held, before: held }
   const overBoth = { root, changed: ["one.md", "two.ts"], after: held, before: held }
   expect(gate.named).toEqual(["refuses-all", "wakes-ts"])
-  expect(gate.wokenBy(overMd)).toEqual(["refuses-all"])
-  expect(gate.wokenBy(overBoth)).toEqual(["refuses-all", "wakes-ts"])
+  expect(gate.checksFor(overMd)).toEqual(["refuses-all"])
+  expect(gate.checksFor(overBoth)).toEqual(["refuses-all", "wakes-ts"])
   expect(gate.over(overMd).map((one) => one.reason)).toEqual(["refused"])
 })
 

@@ -10,6 +10,6 @@ export type Running = (change: Change, shadow: Shadow) => readonly Judged[]
 
 export type Judging = {
   readonly named: readonly string[]
-  readonly wokenBy: (change: Change) => readonly string[]
+  readonly checksFor: (change: Change) => readonly string[]
   readonly over: (change: Change) => readonly Judged[]
 }
