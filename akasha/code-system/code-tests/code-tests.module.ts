@@ -61,6 +61,14 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A world stands at no commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A question the index answers only against HEAD cannot be answered in a world.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A world is held under `/var/tmp` rather than `/tmp`.",
     },
     {

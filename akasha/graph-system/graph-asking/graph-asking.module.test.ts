@@ -58,12 +58,6 @@ const EXTENDS = "extends-slug"
 
 const ENDING = ".ts"
 
-const CHECK_AT = "akasha/checks-system/code-check/typecheck/typecheck.code-check.ts"
-
-const CHECK_CODE_AT = "akasha/checks-system/code-check/typecheck/typecheck.code-check.code.ts"
-
-const CHECKING_AT = "akasha/checks-system/checking/checking.module.code.ts"
-
 afterAll(scratch.sweep)
 
 test("an empty kind list answers nothing", () => {
@@ -173,24 +167,6 @@ test("a loader whose own code is asked for is not answered with an edge to itsel
   filed(root, `path/${LOADER_CODE_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
 
   expect(edgesInto(root, LOADER_CODE_AT, [IMPORT_EDGE])).toEqual([])
-})
-
-test("a check page among the pages is answered with the module that loads it, and so is its code", () => {
-  const page = edgesInto(REPO_AT, CHECK_AT, [IMPORT_EDGE])
-  const code = edgesInto(REPO_AT, CHECK_CODE_AT, [IMPORT_EDGE])
-
-  expect(page).toContainEqual({
-    kind: IMPORT_EDGE,
-    from: CHECKING_AT,
-    to: CHECK_AT,
-    attrs: { [KNOWN]: DECLARED },
-  })
-  expect(code).toContainEqual({
-    kind: IMPORT_EDGE,
-    from: CHECKING_AT,
-    to: CHECK_CODE_AT,
-    attrs: { [KNOWN]: DECLARED },
-  })
 })
 
 test("an import edge standing only in the reading given is answered, and none without it", () => {
