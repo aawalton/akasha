@@ -3,7 +3,7 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 
 import {
-  everyOfTypeAnswered,
+  everyOfType,
   indexNamed,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 
@@ -65,7 +65,7 @@ export function commandFor(codePath: string): string {
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
   const found: Record<string, HookRegistration[]> = {}
   const seen = new Set<string>()
-  for (const standing of everyOfTypeAnswered(root, PAGE_TYPE)) {
+  for (const standing of everyOfType(root, PAGE_TYPE)) {
     if (seen.has(standing.path)) continue
     seen.add(standing.path)
     const page = pageAt(root, standing.path)

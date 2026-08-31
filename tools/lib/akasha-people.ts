@@ -4,7 +4,7 @@ import {
   valueAt,
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import {
-  everyOfTypeAnswered,
+  everyOfType,
   type Standing,
   standingAt,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -57,7 +57,7 @@ function personFrom(root: string, standing: Standing): Person {
 }
 
 export function peopleStanding(root: string): readonly Person[] {
-  const found = everyOfTypeAnswered(root, PAGE_TYPE).map((standing) => personFrom(root, standing))
+  const found = everyOfType(root, PAGE_TYPE).map((standing) => personFrom(root, standing))
   if (found.length === 0) {
     throw new Error(
       "no person stands, so the people would read as empty rather than as unread — an index that " +

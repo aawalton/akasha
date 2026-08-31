@@ -3,7 +3,7 @@ import {
   textAt,
   valueAt,
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
-import { everyOfTypeAnswered } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "closeness-level"
 
@@ -38,9 +38,7 @@ function levelFrom(root: string, path: string): ClosenessLevel {
 }
 
 export function closenessLevels(root: string): readonly ClosenessLevel[] {
-  const found = everyOfTypeAnswered(root, PAGE_TYPE).map((standing) =>
-    levelFrom(root, standing.path)
-  )
+  const found = everyOfType(root, PAGE_TYPE).map((standing) => levelFrom(root, standing.path))
   if (found.length === 0) {
     throw new Error(
       "no closeness level stands, so the ladder would read as having no rungs rather than as unread"

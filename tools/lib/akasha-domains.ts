@@ -3,8 +3,8 @@ import {
   valueAt,
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  everyPathAnswered,
+  everyOfType,
+  everyPath,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { kindsUnder } from "../../akasha/pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import type { Frontmatter } from "../../page/frontmatter.ts"
@@ -52,7 +52,7 @@ function frontmatterFrom(value: Value, parents: readonly string[]): Frontmatter 
 function heldIn(root: string): readonly Held[] {
   const found: Held[] = []
   for (const kind of kindsUnder(root, DOMAIN)) {
-    for (const standing of everyOfTypeAnswered(root, kind)) {
+    for (const standing of everyOfType(root, kind)) {
       let value: Value | null
       try {
         value = valueAt(standing.path, root)
@@ -89,7 +89,7 @@ const byRoot = new Map<string, readonly DomainStanding[]>()
 export function domainsStanding(root: string): readonly DomainStanding[] {
   const done = byRoot.get(root)
   if (done !== undefined) return done
-  everyPathAnswered(root)
+  everyPath(root)
   const held = heldIn(root)
   const parents = parentsIn(held)
   const read = held.map((one) => ({

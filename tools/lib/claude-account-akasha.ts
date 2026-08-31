@@ -2,7 +2,7 @@ import {
   type Value,
   valueAt,
 } from "../../akasha/pages-system/page/page-value/page-value.module.code.ts"
-import { everyOfTypeAnswered } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { secretAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
   cipherFor,
@@ -92,7 +92,7 @@ function accountsStandingInAkasha(): ReadonlyMap<string, string> {
   return onceInCall("akasha-claude-account-path-by-slug", () => {
     const root = akashaRoot()
     const found = new Map<string, string>()
-    for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+    for (const one of everyOfType(root, PAGE_TYPE)) {
       if (!one.path.startsWith(ACCOUNT_DIR)) continue
       const value = valueAt(one.path, root)
       const slug = value === null ? null : value["slug"]

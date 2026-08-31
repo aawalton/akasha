@@ -1,8 +1,8 @@
 import { statSync } from "node:fs"
 import { join } from "node:path"
 import {
-  everyOfTypeAnswered,
-  standingByIdAnswered,
+  everyOfType,
+  standingById,
 } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
@@ -80,7 +80,7 @@ function seatsStandingInAkasha(): ReadonlyMap<string, string> {
   return onceInCall("akasha-seat-path-by-id", () => {
     const root = akashaRoot()
     const found = new Map<string, string>()
-    for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
+    for (const one of everyOfType(root, PAGE_TYPE)) {
       if (!one.path.startsWith(SEAT_DIR)) continue
       if (!found.has(one.id)) found.set(one.id, one.path)
     }
@@ -96,7 +96,7 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
   if (held !== undefined) return held
   // The index answers by id across every page type, so a hit is checked to be a seat rather than
   // trusted for its id alone.
-  const one = standingByIdAnswered(akashaRoot(), agentId)
+  const one = standingById(akashaRoot(), agentId)
   return one !== null && one.path.startsWith(SEAT_DIR) ? one.path : null
 }
 
