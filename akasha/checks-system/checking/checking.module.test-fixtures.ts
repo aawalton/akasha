@@ -114,7 +114,7 @@ export const REFUSES_TAKING =
   '    .map((path) => ({ path, reason: "`" + path + "` may not be taken away" }))\n' +
   "}\n"
 
-const WAKES_TS =
+const INPUT_TS =
   "export function wakesTs(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "ts woke" }))\n' +
   "}\n" +
@@ -136,13 +136,13 @@ const WAKING_THROWS =
   "}\n"
 
 export const TWO_CHECKS = [
-  { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
+  { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
 
 export const WAKING_THROWS_CHECKS = [
   { slug: "waking-throws", runsOn: ["patch"], body: WAKING_THROWS },
-  { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
+  { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
 ]
 
 const PAGE_CHECKS = [
