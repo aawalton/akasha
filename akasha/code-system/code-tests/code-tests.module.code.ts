@@ -43,6 +43,7 @@ export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const CARRIED: readonly string[] = [
   ".gitignore",
+  ".sops.yaml",
   "biome.json",
   "package.json",
   "tsconfig.json",
