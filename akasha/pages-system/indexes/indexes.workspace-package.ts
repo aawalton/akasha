@@ -62,6 +62,11 @@ export const indexes = {
       statement: "A question no answer covers is answered here rather than by the caller asking.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A caller outside is answered or refused rather than reading an index that is missing as one naming none.",
+    },
+    {
       invariantKind: "absence",
       statement: "A value no page carries has no file.",
     },

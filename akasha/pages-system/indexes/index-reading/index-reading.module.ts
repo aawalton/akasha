@@ -41,6 +41,16 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A tree missing beneath an index that stands is an answer of none rather than a refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Only what imports a file is refused for a tree missing beneath an index that stands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address stating no page type is answered under the one its caller names.",
     },
     {
