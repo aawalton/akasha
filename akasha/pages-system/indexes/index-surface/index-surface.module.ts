@@ -43,6 +43,10 @@ export const indexSurface = {
       statement: "A directory holding no emptied path is listed straight through.",
     },
     {
+      invariantKind: "departure",
+      statement: "An index that stands nowhere yet is read as one standing and holding nothing.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes.",
     },

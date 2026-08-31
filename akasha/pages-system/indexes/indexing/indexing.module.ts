@@ -31,6 +31,14 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "A rebuild stands the index it writes before it reads it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A settle reads an index that stands nowhere yet as one filing nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rebuild stamps the commit the pages were read at.",
     },
     {

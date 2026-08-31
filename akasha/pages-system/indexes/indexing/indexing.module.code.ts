@@ -44,6 +44,7 @@ import {
   indexIn,
   overlaidOn,
   readingAt,
+  readingNone,
   readingOf,
 } from "../index-surface/index-surface.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
@@ -199,6 +200,7 @@ export function rebuiltFrom(
   root: string,
   repo: string
 ): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
+  mkdirSync(root, { recursive: true })
   const held: { readonly path: string; readonly value: Value }[] = []
   for (const path of pagesUnder(tree)) {
     const value = valueAt(path, repo)
@@ -256,7 +258,10 @@ function turningIn(
   return said
 }
 
-const NO_FILE_PROPERTIES: ReadonlyMap<string, string | null> = new Map()
+function asBuilt(given: string | Reading): Reading {
+  const reading = readingOf(given)
+  return indexStanding(reading) ? reading : readingNone()
+}
 
 function standingBeside(
   reading: Reading,
@@ -264,7 +269,6 @@ function standingBeside(
   pageOf: (path: string) => Value | null
 ): readonly { readonly path: string; readonly value: Value }[] {
   const said: { readonly path: string; readonly value: Value }[] = []
-  if (!indexStanding(reading)) return said
   for (const path of everyPath(reading)) {
     if (carried.has(path)) continue
     const value = pageOf(path)
@@ -279,9 +283,9 @@ export function settlingOver(
   moving: readonly Moving[],
   pageOf: (path: string) => Value | null = (path) => valueAt(path, repo)
 ): Settling {
-  const reading = readingOf(given)
+  const reading = asBuilt(given)
   const pageTypes = pageTypesIn(reading)
-  const filed = indexStanding(reading) ? filePropertiesAt(reading) : NO_FILE_PROPERTIES
+  const filed = filePropertiesAt(reading)
   const noted: string[] = []
   const readInto = (body: string | null, path: string): Value | null => {
     if (body === null || !pageShaped(path, filed)) return null

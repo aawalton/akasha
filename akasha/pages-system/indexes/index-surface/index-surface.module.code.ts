@@ -39,6 +39,14 @@ export function readingAt(index: string): Reading {
   }
 }
 
+export function readingNone(): Reading {
+  return {
+    holds: (at) => at === "",
+    listing: () => [],
+    lines: () => [],
+  }
+}
+
 export function readingOf(given: string | Reading): Reading {
   return typeof given === "string" ? readingAt(given) : given
 }
