@@ -78,10 +78,6 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A check judges the code rather than its author.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A check takes and gives paths under the root it was given.",
     },
     {
