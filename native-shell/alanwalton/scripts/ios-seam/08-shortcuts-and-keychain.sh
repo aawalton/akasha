@@ -62,7 +62,7 @@ SWIFT_DEVICE_SECRET_HEAD
 cat <<SWIFT_DEVICE_SECRET_PINS
     static let service = "$DEVICE_SECRET_SERVICE"
     // The access group is the development team joined to the bundle id, which is what Xcode
-    // expands the AppIdentifierPrefix entitlement in ios-app/App.entitlements to. Pinned so
+    // expands the AppIdentifierPrefix entitlement on the alanwalton-app program to. Pinned so
     // the credential home is stable and moving the intent into an app extension later is an
     // entitlement add, not a migration. Both values arrive from the app page as this run
     // exports them, so nothing here states one.

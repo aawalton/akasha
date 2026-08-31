@@ -8,8 +8,14 @@ APPICONSET="ios/App/App/Assets.xcassets/AppIcon.appiconset"
 ICON_SOURCE="ios-icon/AppIcon-1024.png"
 PB="/usr/libexec/PlistBuddy"
 
-WIDGET_SRC_DIR="ios-widget"
 SHARED_WIDGET_SRC_DIR="../../akasha/code-system/ios-component/ios-components"
+# Each thing this package builds is an akasha ios-program page, and the files Xcode
+# reads by a fixed name stand beside that page under names the grammar builds.
+PROGRAMS_DIR="../../akasha/code-system/ios-program/ios-programs"
+WIDGET_PROGRAM="alanwalton-widget"
+APP_PROGRAM="alanwalton-app"
+WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
+WIDGET_ENTITLEMENTS="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.entitlements.entitlements"
 SHARED_IOS_SEAM_DIR="../../ios-seam"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
@@ -46,7 +52,7 @@ WIDGET_ENABLED="${NATIVE_SHELL_WIDGET:-1}"
 KEYBOARD_SUPPRESS_ENABLED="${NATIVE_SHELL_KEYBOARD_SUPPRESS:-1}"
 
 APS_ENABLED="${NATIVE_SHELL_APS:-1}"
-ENTITLEMENTS_SRC="ios-app/App.entitlements"
+ENTITLEMENTS_SRC="$PROGRAMS_DIR/$APP_PROGRAM/$APP_PROGRAM.ios-program.entitlements.entitlements"
 
 HEALTHKIT_ENABLED="${NATIVE_SHELL_HEALTHKIT:-1}"
 HEALTH_SHARE_DESC="alanwalton reads your Active Energy from the Health app so your daily calorie burn is tracked automatically, without you entering it by hand."
@@ -93,8 +99,8 @@ if [[ ! -f "$ICON_SOURCE" ]]; then
   exit 1
 fi
 if [[ "$WIDGET_ENABLED" == "1" ]]; then
-  if [[ ! -f "$WIDGET_SRC_DIR/Info.plist" ]]; then
-    echo "ERROR: $WIDGET_SRC_DIR/Info.plist not found — the committed widget seam is missing. The extension's Swift is no longer here: it stands in akasha as ios-component pages, and copy_widget_components refuses on its own if one the app names is missing." >&2
+  if [[ ! -f "$WIDGET_INFO_PLIST" ]]; then
+    echo "ERROR: $WIDGET_INFO_PLIST not found — the widget extension's Info.plist stands beside its akasha ios-program page, and Xcode has no target without it. Its Swift stands in akasha too, as ios-component pages, and copy_widget_components refuses on its own if one the program names is missing." >&2
     exit 1
   fi
   if [[ ! -d "$PROJECT_PBXPROJ" ]]; then

@@ -1,8 +1,10 @@
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { z } from "zod"
 
+// Every widget's Swift is an ios-component in akasha. The shells' own `ios-widget`
+// directories are gone: what was left in them — Info.plist, Widget.entitlements —
+// stands beside an akasha ios-program page now.
 export const WIDGET_SOURCE_GLOBS: readonly string[] = [
-  "../akasha/**/ios-widget/**/*.swift",
   "../akasha/akasha/code-system/ios-component/ios-components/**/*.swift",
 ]
 

@@ -83,12 +83,12 @@ fi
 mkdir -p "$WIDGET_DEST"
 rm -f "$WIDGET_DEST"/*.swift "$WIDGET_DEST/Info.plist" "$WIDGET_DEST/Widget.entitlements"
 copy_widget_components "$SHARED_WIDGET_SRC_DIR" "$WIDGET_DEST" "$WIDGET_COMPONENTS"
-cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
-if [[ ! -f "$WIDGET_SRC_DIR/Widget.entitlements" ]]; then
-  echo "ERROR: $WIDGET_SRC_DIR/Widget.entitlements not found — the widget could not read the device secret and every tile would draw 'Sign in'." >&2
+cp "$WIDGET_INFO_PLIST" "$WIDGET_DEST/Info.plist"
+if [[ ! -f "$WIDGET_ENTITLEMENTS" ]]; then
+  echo "ERROR: $WIDGET_ENTITLEMENTS not found — the widget could not read the device secret and every tile would draw 'Sign in'." >&2
   exit 1
 fi
-cp "$WIDGET_SRC_DIR/Widget.entitlements" "$WIDGET_DEST/Widget.entitlements"
+cp "$WIDGET_ENTITLEMENTS" "$WIDGET_DEST/Widget.entitlements"
 echo "OK: copied widget sources + entitlements into $WIDGET_DEST"
 
 cat > "$WIDGET_DEST/DeviceSecretPins.swift" <<SWIFT_DEVICE_SECRET_PINS

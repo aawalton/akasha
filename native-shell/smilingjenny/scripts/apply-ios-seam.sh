@@ -6,8 +6,13 @@ APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 PB="/usr/libexec/PlistBuddy"
 
-WIDGET_SRC_DIR="ios-widget"
 SHARED_WIDGET_SRC_DIR="../../akasha/code-system/ios-component/ios-components"
+# Each thing this package builds is an akasha ios-program page, and the files Xcode
+# reads by a fixed name stand beside that page under names the grammar builds.
+PROGRAMS_DIR="../../akasha/code-system/ios-program/ios-programs"
+WIDGET_PROGRAM="smilingjenny-widget"
+APP_PROGRAM="smilingjenny-app"
+WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
 SHARED_IOS_SEAM_DIR="../../ios-seam"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
@@ -33,7 +38,7 @@ MONARCH_TAP_ENABLED="${NATIVE_SHELL_MONARCH_TAP:-1}"
 
 APS_ENABLED="${NATIVE_SHELL_APS:-1}"
 
-ENTITLEMENTS_SRC="ios-app/App.entitlements"
+ENTITLEMENTS_SRC="$PROGRAMS_DIR/$APP_PROGRAM/$APP_PROGRAM.ios-program.entitlements.entitlements"
 
 if [[ ! -x "$PB" ]]; then
   echo "ERROR: PlistBuddy not found at $PB (this script is macOS-only)." >&2
@@ -72,7 +77,11 @@ fi
 mkdir -p "$WIDGET_DEST"
 rm -f "$WIDGET_DEST"/*.swift "$WIDGET_DEST/Info.plist"
 copy_widget_components "$SHARED_WIDGET_SRC_DIR" "$WIDGET_DEST" "$WIDGET_COMPONENTS"
-cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
+if [[ ! -f "$WIDGET_INFO_PLIST" ]]; then
+  echo "ERROR: $WIDGET_INFO_PLIST not found — the widget extension's Info.plist stands beside its akasha ios-program page, and Xcode has no target without it." >&2
+  exit 1
+fi
+cp "$WIDGET_INFO_PLIST" "$WIDGET_DEST/Info.plist"
 echo "OK: copied widget sources into $WIDGET_DEST"
 
 native_shell_stamp_widget "$WIDGET_DEST"

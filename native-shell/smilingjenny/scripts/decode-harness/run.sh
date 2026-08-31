@@ -3,16 +3,30 @@ set -euo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-WIDGET_DIR="$(cd "$AKASHA_ROOT/native-shell/smilingjenny/ios-widget" && pwd)"
-SHARED_WIDGET_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" && pwd)"
+PROGRAM="smilingjenny-decode-harness"
+COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
+  echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — every tile's Swift is authored there, so nothing can be decoded without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
+  exit 2
+}
+# Which components this harness compiles is stated on its akasha ios-program page.
+# The directory holds every app's, and compiling all of them would put two
+# definitions of one symbol into a single build.
+NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftForProgram} from "./alanwalton/mobile-cli/src/lib/ios-components.ts"; process.stdout.write(componentSwiftForProgram(process.argv[1]).join("\n"))' "$PROGRAM")" || {
+  echo "ERROR: could not read the components $PROGRAM names from its akasha ios-program page." >&2
+  exit 2
+}
 BUILD_DIR="$(mktemp -d)"
 trap 'rm -rf "$BUILD_DIR"' EXIT
 
 SOURCES=()
-while IFS= read -r swift; do
-  if grep -q '^@main$' "$swift"; then continue; fi
-  SOURCES+=("$swift")
-done < <(find "$WIDGET_DIR" "$SHARED_WIDGET_DIR" -maxdepth 2 -name '*.swift' | sort)
+while IFS= read -r component; do
+  [ -n "$component" ] || continue
+  [ -f "$COMPONENTS_DIR/$component" ] || {
+    echo "ERROR: $COMPONENTS_DIR/$component is named by $PROGRAM and is not there." >&2
+    exit 2
+  }
+  SOURCES+=("$COMPONENTS_DIR/$component")
+done <<< "$NAMED"
 
 DEVICE="$(xcrun simctl list devices booted | sed -n 's/.*(\([0-9A-Fa-f-]\{36\}\)) (Booted).*/\1/p' | head -1)"
 if [[ -z "$DEVICE" ]]; then
