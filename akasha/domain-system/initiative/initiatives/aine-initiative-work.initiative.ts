@@ -14,5 +14,4 @@ export const aineInitiativeWork = {
     },
     { statement: "An initiative's name states what its work is toward." },
   ],
-  constraints: ["The sweep lands with the warrant rather than after it."],
 } as const satisfies Initiative
