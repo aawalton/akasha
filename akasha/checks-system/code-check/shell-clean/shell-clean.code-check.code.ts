@@ -108,8 +108,7 @@ export function lookedOver(root: string, named: readonly string[], at: string | 
 }
 
 export function reasonOf(one: Found): string {
-  const where = `${one.path} at line ${one.line}, column ${one.column}`
-  return `SC${one.code} (${one.level}) in ${where} — ${one.said}`
+  return `SC${one.code} (${one.level}) at line ${one.line}, column ${one.column} — ${one.said}`
 }
 
 function earlier(one: Found, two: Found): number {

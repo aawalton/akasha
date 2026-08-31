@@ -109,11 +109,11 @@ test("every finding is answered against the file it stands in, in the order they
 test("findings are put in order rather than left in the one the linter printed them in", () => {
   const found = [marked(TWO, 1, 1), marked(ONE, 9, 2), marked(ONE, 9, 1), marked(ONE, 2, 1)]
   const said = judgedOf({ found, failed: null }, ONE, AWAY)
-  expect(said.map((one) => one.reason)).toEqual([
-    reasonOf(marked(ONE, 2, 1)),
-    reasonOf(marked(ONE, 9, 1)),
-    reasonOf(marked(ONE, 9, 2)),
-    reasonOf(marked(TWO, 1, 1)),
+  expect(said.map((one) => `${one.path} ${one.reason}`)).toEqual([
+    `${ONE} ${reasonOf(marked(ONE, 2, 1))}`,
+    `${ONE} ${reasonOf(marked(ONE, 9, 1))}`,
+    `${ONE} ${reasonOf(marked(ONE, 9, 2))}`,
+    `${TWO} ${reasonOf(marked(TWO, 1, 1))}`,
   ])
 })
 
@@ -190,8 +190,13 @@ test("a run that failed is answered against the first file named, outside the wo
 })
 
 test("a finding is said as its code, where it stands and what the linter said", () => {
-  const found = { path: ONE, line: 12, column: 7, code: 2086, level: "info", said: "Held." }
-  expect(reasonOf(found)).toBe(`SC2086 (info) in ${ONE} at line 12, column 7 — Held.`)
+  expect(reasonOf(marked(ONE, 12, 7))).toBe("SC2086 (info) at line 12, column 7 — Held.")
+})
+
+test("the file a finding stands in is named by the refusal rather than said twice", () => {
+  const said = judgedOf({ found: [marked(TWO, 1, 1)], failed: null }, ONE, AWAY)
+  expect(said[0]?.path).toBe(TWO)
+  expect(said[0]?.reason).not.toContain(TWO)
 })
 
 test("an answer that is not the shape json1 has is read as no answer at all", () => {

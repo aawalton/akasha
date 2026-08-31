@@ -66,6 +66,10 @@ export const shellClean = {
     },
     {
       invariantKind: "absence",
+      statement: "The reason a finding is said with names no file.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here says what the linter looks for.",
     },
     {
