@@ -51,6 +51,14 @@ export const write = {
     },
     {
       invariantKind: "departure",
+      statement: "The seat this call is charged to is warranted alongside them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent that has not read what it is changes nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The record must show a path's writer read the body standing there.",
     },
     {

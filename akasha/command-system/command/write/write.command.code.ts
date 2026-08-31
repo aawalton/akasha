@@ -1,5 +1,5 @@
 import { isAbsolute, relative, resolve } from "node:path"
-import { unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
+import { unheldIn, unreadIn } from "../../../context-system/warranting/warranting.module.code.ts"
 import { besideAll } from "../../../pages-system/page/page-beside/page-beside.module.code.ts"
 import {
   BREAK_GLASS,
@@ -39,11 +39,14 @@ export function unwarrantedIn(
   changes: readonly FileEdit[]
 ): readonly string[] {
   if (glass !== null) return []
-  return unreadIn(
-    given.root,
-    given.agentId,
-    changes.map((one) => one.path)
-  )
+  return [
+    ...unheldIn(given.root, given.agentId),
+    ...unreadIn(
+      given.root,
+      given.agentId,
+      changes.map((one) => one.path)
+    ),
+  ]
 }
 
 export function pathInside(root: string, said: string): string | null {
