@@ -19,12 +19,18 @@ export const read = {
     "a body your record already holds comes back as one line rather than the file.",
     "a body that moved since your record holds it comes back as what changed, where that is shorter.",
     "a read takes no line range, and one answer holds 28000 bytes.",
+    "a path is read against the repository root, wherever the call was made.",
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A read returns the whole file or what changed after the agent read it or says the agent read that body already.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path is read against the repository root and never against the folder the call was made in.",
     },
     {
       invariantKind: "departure",

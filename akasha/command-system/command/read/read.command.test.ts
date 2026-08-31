@@ -74,14 +74,11 @@ test("an absolute path inside akasha is read, and one outside it is not", () => 
   expect(outside.code).toBe(1)
 })
 
-test("a relative path is taken against the directory the call was made in", () => {
-  const root = rootWith([{ at: "akasha/one/held.ts", body: "one\n" }])
-  const said = read(["--file-path", "held.ts"], {
-    ...givenFor(root),
-    from: join(root, "akasha/one"),
-  })
-  expect(said.code).toBe(0)
-  expect(said.report[0]).toContain("held.ts — the whole file follows, 1 lines")
+test("a path is read against the repository root, wherever the call was made", () => {
+  const root = rootWith([{ at: HELD, body: "one\n" }])
+  const away = { ...givenFor(root), from: join(root, "akasha/one") }
+  expect(read(["--file-path", HELD], away).code).toBe(0)
+  expect(read(["--file-path", "held.ts"], away).refusals[0]).toContain("the repository root")
 })
 
 test("a file that is not there is a caller mistake, and the rest are still read", () => {
