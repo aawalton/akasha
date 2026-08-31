@@ -38,6 +38,10 @@ export const subagent = {
       statement: "A subagent's page goes when it returns.",
     },
     {
+      invariantKind: "gap",
+      statement: "A page whose seat stopped before the subagent returned goes.",
+    },
+    {
       invariantKind: "departure",
       statement: "A subagent's slug is the name of the seat that ran it and the id it runs under.",
     },
