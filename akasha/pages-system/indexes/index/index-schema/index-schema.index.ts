@@ -49,6 +49,10 @@ export const indexSchema = {
     },
     {
       invariantKind: "departure",
+      statement: "A page stating a property slug is a page property whatever page type it is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An entry is read from the property's own page alone.",
     },
     {

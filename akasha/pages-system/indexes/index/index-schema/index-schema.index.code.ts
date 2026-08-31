@@ -16,22 +16,9 @@ const PROPERTY = "page-property"
 
 const SLUG = "slug"
 
-const SHAPES = new Set([
-  "text-property",
-  "number-property",
-  "boolean-property",
-  "instant-property",
-  "relation-property",
-  "record-property",
-  "file-property",
-  "phone-number-property",
-  "email-address-property",
-  "process-property",
-])
-
 export function schemaIn(value: Value): readonly Entry[] {
   const pageTypeSlug = textAt(value, "pageTypeSlug")
-  if (pageTypeSlug === null || !SHAPES.has(pageTypeSlug)) return []
+  if (pageTypeSlug === null) return []
   const slug = textAt(value, "slug")
   if (slug === null) return []
   const propertySlug = textAt(value, "propertySlug")

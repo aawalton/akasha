@@ -62,8 +62,14 @@ test("a line carries the key a page reads the property by", () => {
   })
 })
 
-test("a page that is no property shape, and a property stating no slug, are filed with no schema", () => {
+test("a page stating no property slug, and a property stating no slug, are filed with no schema", () => {
   expect(schemaIn({ id: A, pageTypeSlug: "domain", slug: "a" })).toEqual([])
   expect(schemaIn({ id: A, pageTypeSlug: "page-property", slug: "a" })).toEqual([])
   expect(schemaIn({ id: A, pageTypeSlug: "text-property" })).toEqual([])
+})
+
+test("a property is filed whatever page type it is, so a new shape of property needs no code here", () => {
+  const value = { id: A, pageTypeSlug: "worded-property", slug: "tally", propertySlug: "tally" }
+
+  expect(schemaIn(value)[0]?.at).toBe("schema/page-property/worded-property/slug/tally.jsonl")
 })
