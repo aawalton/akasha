@@ -2,8 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import type { SourceFile } from "typescript"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { noneOfTypeFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import {
+  noneOfTypeFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
+import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
 import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
 import type { Standing } from "./syntax-rule/syntax-rule.page-type.ts"
@@ -15,6 +19,43 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const TEXT = "export const one = 1\n"
+
+const PROBE_SLUG = "probe"
+
+const PROBE_ID = "01a0596b-0000-7000-8000-000000000001"
+
+const PROBE_RULE_AT = "akasha/one/probe/probe.syntax-rule.ts"
+
+const PROBE_CODE_AT = "akasha/one/probe/probe.syntax-rule.code.ts"
+
+const CARRIED =
+  'export function probe() {\n  return [{ line: 1, reason: "the body the change carries" }]\n}\n'
+
+const STOOD =
+  'export function probe() {\n  return [{ line: 9, reason: "the body that stood" }]\n}\n'
+
+function bytesOf(text: string | null): Uint8Array | null {
+  return text === null ? null : new TextEncoder().encode(text)
+}
+
+function changing(root: string, before: string | null, after: string | null): Change {
+  return {
+    root,
+    changed: [PROBE_CODE_AT],
+    before: (path) => (path === PROBE_CODE_AT ? bytesOf(before) : null),
+    after: (path) => (path === PROBE_CODE_AT ? bytesOf(after) : null),
+  }
+}
+
+function ruleFiled(root: string): undefined {
+  standingFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
+  return undefined
+}
+
+function nowhereOnDisk(root: string): Shadow {
+  const stood = shadowAt(root)
+  return { reading: stood.reading, pageOf: stood.pageOf, codeAt: () => null }
+}
 
 function ruling(slug: string, line: number, reason: string): Rule {
   return { slug, judge: () => [{ line, reason }] }
@@ -76,4 +117,29 @@ test("a root where no syntax rule stands is refused, never answered clean", () =
   const root = scratch.rootFor("akasha-syntax-rule-")
   noneOfTypeFiled(root, RULE)
   expect(() => rulesIn(root, shadowAt(root))).toThrow(/no syntax rule stands/)
+})
+
+test("a rule this change introduces is judged by the body the change carries", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  ruleFiled(root)
+  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, null, CARRIED))
+  expect(rules).toHaveLength(1)
+  expect(rules[0]?.slug).toBe(PROBE_SLUG)
+  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
+    "line 1: the body the change carries — `probe`",
+  ])
+})
+
+test("a change rewriting a rule's code is refused rather than judged by the body before it", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  ruleFiled(root)
+  expect(() => rulesIn(root, nowhereOnDisk(root), changing(root, STOOD, CARRIED))).toThrow(
+    /body no path on disk holds/
+  )
+})
+
+test("a rule whose code the change carries nowhere is refused as a rewrite is", () => {
+  const root = scratch.rootFor("akasha-syntax-rule-")
+  ruleFiled(root)
+  expect(() => rulesIn(root, nowhereOnDisk(root))).toThrow(/body no path on disk holds/)
 })

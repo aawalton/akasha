@@ -1,5 +1,7 @@
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { dirname, join } from "node:path"
+import ts from "typescript"
+import { textOf } from "../../../code-system/body-text/body-text.module.code.ts"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -31,7 +33,46 @@ export type Rule = {
   readonly judge: Judging
 }
 
-export function rulesIn(root: string, shadow: Shadow): readonly Rule[] {
+type Running = (...given: readonly unknown[]) => undefined
+
+function saidBy(thrown: unknown): string {
+  return thrown instanceof Error ? thrown.message : String(thrown)
+}
+
+export function introducedIn(change: Change | null, path: string): string | null {
+  if (change === null) return null
+  if (change.before(path) !== null) return null
+  return textOf(change.after(path))
+}
+
+export function compiledFrom(root: string, at: string, text: string): Record<string, unknown> {
+  const full = join(root, at)
+  const built = ts.transpileModule(text, {
+    fileName: full,
+    compilerOptions: {
+      module: ts.ModuleKind.CommonJS,
+      target: ts.ScriptTarget.ESNext,
+      esModuleInterop: true,
+    },
+  }).outputText
+  const holder: { exports: Record<string, unknown> } = { exports: {} }
+  const run = new Function(
+    "require",
+    "module",
+    "exports",
+    "__filename",
+    "__dirname",
+    built
+  ) as Running
+  run(createRequire(full), holder, holder.exports, full, dirname(full))
+  return holder.exports
+}
+
+export function rulesIn(
+  root: string,
+  shadow: Shadow,
+  change: Change | null = null
+): readonly Rule[] {
   const found: Rule[] = []
   for (const one of everyOfTypeAnswered(shadow.reading, RULE)) {
     const said = namedIn(one.path)
@@ -46,18 +87,29 @@ export function rulesIn(root: string, shadow: Shadow): readonly Rule[] {
       )
     }
     const standing = shadow.codeAt(beside)
-    if (standing === null) {
-      throw new Error(
-        `${one.path} is a syntax rule, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
-      )
-    }
     let mod: Record<string, unknown>
-    try {
-      mod = loadFrom(join(root, standing)) as Record<string, unknown>
-    } catch (thrown) {
-      throw new Error(
-        `${one.path} is a syntax rule, and ${standing} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
-      )
+    if (standing === null) {
+      const carried = introducedIn(change, beside)
+      if (carried === null) {
+        throw new Error(
+          `${one.path} is a syntax rule, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
+        )
+      }
+      try {
+        mod = compiledFrom(root, beside, carried)
+      } catch (thrown) {
+        throw new Error(
+          `${one.path} is a syntax rule, and the body this change carries at ${beside} could not be loaded — ${saidBy(thrown)}`
+        )
+      }
+    } else {
+      try {
+        mod = loadFrom(join(root, standing)) as Record<string, unknown>
+      } catch (thrown) {
+        throw new Error(
+          `${one.path} is a syntax rule, and ${standing} could not be loaded — ${saidBy(thrown)}`
+        )
+      }
     }
     const named = mod[exportedAs(slug)]
     if (typeof named !== "function") {
@@ -87,7 +139,7 @@ export function refusalsIn(rules: readonly Rule[], path: string, text: string): 
 }
 
 function refusedIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const rules = rulesIn(change.root, shadow)
+  const rules = rulesIn(change.root, shadow, change)
   return overEachFile(
     change,
     overEachText((path, text) => refusalsIn(rules, path, text))
