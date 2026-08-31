@@ -222,6 +222,8 @@ export const THING_AT = "akasha/one/renamed.thing.ts"
 
 export const THING_TYPE = "akasha/thing.page-type.ts"
 
+export const THING_BESIDE = ["akasha/one/held.thing.code.ts", "akasha/one/renamed.thing.code.ts"]
+
 export const ALPHA = "akasha/six/alpha.thing.ts"
 
 export const BETA = "akasha/six/beta.thing.ts"
@@ -288,6 +290,7 @@ export function renaming(names = '"thing/held"'): string {
   const root = repoWith({
     ...THING_VOCABULARY,
     [THING]: thingPage("held", AAAA, null),
+    [THING_BESIDE[0] ?? ""]: "export const held = 1\n",
     [ALPHA]: thingPage("alpha", idOf("11"), names),
     [BETA]: thingPage("beta", idOf("12"), '"held"'),
   })

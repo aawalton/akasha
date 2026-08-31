@@ -50,6 +50,7 @@ import {
   TARGET,
   THING,
   THING_AT,
+  THING_BESIDE,
   THING_TYPE,
   THREE,
   takenWorld,
@@ -165,6 +166,7 @@ test("a rename carries the page, restates its slug, and repoints what names it",
   expect(slugStanding(root, "renamed")).toEqual([THING_AT])
   expect(namersIn(root, AAAA)).toEqual(NAMERS)
   expect(told(said)).toContain("renamed from the slug `held` to `renamed`")
+  expect(THING_BESIDE.map((one) => stands(root, one))).toEqual([false, true])
 })
 
 test("a page type's slug is not renamed here", () => {
