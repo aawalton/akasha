@@ -12,7 +12,7 @@ elif [[ -z "${NATIVE_SHELL_RING_CREDENTIAL:-}" ]]; then
   echo "WARNING: NATIVE_SHELL_RING_CREDENTIAL is unset or empty — the widget sources keep" >&2
   echo "         their placeholder, so THIS BUILD'S TILE WILL READ AS REFUSED (lock glyph," >&2
   echo "         'Update app') and will never show a count. Set the variable and re-sync to" >&2
-  echo "         cut a build that can read the route." >&2
+  echo "         create a build that can read the route." >&2
 else
   # shellcheck disable=SC2016  # every `$` inside the block below sits in a JS
   node -e '

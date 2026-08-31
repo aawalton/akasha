@@ -12,7 +12,7 @@ native_shell_seam_commit() {
   fi
   commit=$(git rev-parse HEAD 2>/dev/null || true)
   if [[ -z "$commit" ]]; then
-    echo "ERROR: could not read the commit being applied (git rev-parse HEAD in $(pwd), and NATIVE_SHELL_STAMP_COMMIT unset). An empty stamp would leave the cut gate unable to tell a fresh binary from a stale one, so this fails rather than stamping nothing." >&2
+    echo "ERROR: could not read the commit being applied (git rev-parse HEAD in $(pwd), and NATIVE_SHELL_STAMP_COMMIT unset). An empty stamp would leave the upload gate unable to tell a fresh binary from a stale one, so this fails rather than stamping nothing." >&2
     return 1
   fi
   printf '%s' "$commit"

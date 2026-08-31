@@ -13,7 +13,7 @@ capacitor.config.json
 ios/
 android/
 
-# Staged SPA bundle — built fresh at intentional-cut time (deploy-testflight), no longer
+# Staged SPA bundle — built fresh at release time (deploy-testflight), no longer
 # committed (#15085 Candidate A / #15271). The workstation builds www/ from the pinned
 # origin/main tip and rsyncs it to the mac before cap sync.
 www/

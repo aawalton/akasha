@@ -5,5 +5,5 @@ export const cut = {
   pageTypeSlug: "taboo-term",
   slug: "cut",
   pattern: "\\bcut\\b(?!\\s*[-(=<+,)])",
-  tabooSenses: [{ sense: "creating an initiative", instead: "create" }],
+  tabooSenses: [{ sense: "creating anything", instead: "create" }],
 } as const satisfies TabooTerm

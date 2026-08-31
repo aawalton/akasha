@@ -23,7 +23,7 @@ const ANSWERS_NOTHING = `export const held = 1\n`
 
 const WILL_NOT_LOAD = `export function held( {\n`
 
-const THROWS_NO_ERROR = `throw "the door was shut"\n`
+const THROWS_NO_ERROR = `throw "the value was never set"\n`
 
 const scratch = scratchWorld()
 

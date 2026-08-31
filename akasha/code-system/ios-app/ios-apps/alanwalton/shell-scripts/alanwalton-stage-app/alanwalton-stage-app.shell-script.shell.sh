@@ -41,4 +41,4 @@ cp -R "${client_dir}/assets" "${dest_dir}/assets"
 echo "[stage-app] done. staged files:"
 (cd "${dest_dir}" && find . -type f | sort)
 echo "[stage-app] www/ built (gitignored). It is injected into the iOS bundle by the"
-echo "[stage-app] intentional cut that ships the build to TestFlight — no commit step."
+echo "[stage-app] intentional release that ships the build to TestFlight — no commit step."
