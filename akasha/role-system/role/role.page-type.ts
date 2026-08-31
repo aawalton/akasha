@@ -62,6 +62,7 @@ export const role = {
       aids: [
         "A search that found nothing is a search to widen.",
         "Reading the code is not running it.",
+        "A commit you remember is not a commit you read.",
       ],
     },
     {
@@ -84,6 +85,7 @@ export const role = {
       aids: [
         "Your principal is whoever handed you the work.",
         "A blocked principal is not an absent one.",
+        "A rule that already answers is not a question.",
       ],
     },
     {

@@ -88,6 +88,7 @@ export const contextWarrant = {
       aids: [
         "Approving the initiative is not approving a warrant.",
         "A warrant replacing an old one still needs approval.",
+        "How an approved warrant reads needs none; what it refuses does.",
       ],
     },
   ],

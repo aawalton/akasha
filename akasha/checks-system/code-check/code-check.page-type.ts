@@ -156,6 +156,7 @@ export const codeCheck = {
       aids: [
         "Approving the initiative is not approving a check.",
         "A check replacing an old one still needs approval.",
+        "How an approved check reads needs none; what it refuses does.",
       ],
     },
     {

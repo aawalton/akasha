@@ -88,6 +88,7 @@ export const agentHook = {
       aids: [
         "Approving the initiative is not approving a hook.",
         "A hook replacing an old one still needs approval.",
+        "How an approved hook reads needs none; what it refuses does.",
       ],
     },
   ],
