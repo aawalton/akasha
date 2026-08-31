@@ -41,7 +41,7 @@ export interface SpacingException {
 
 export const SPACING_EXCEPTIONS: readonly SpacingException[] = [
   {
-    file: "Ring.swift",
+    file: "ring.ios-component.swift.swift",
     kind: "lineWidth",
     value: 12,
     count: 1,

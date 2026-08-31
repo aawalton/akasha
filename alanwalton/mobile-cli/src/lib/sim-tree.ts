@@ -6,7 +6,7 @@ import { type MobileApp, shellRepoPath as shellRepoPathOf } from "./apps"
 import { MACBOOK } from "./host"
 import { rsyncToHost, runSshCapture } from "./ssh"
 
-const SEAM_SHARED_DIRS_FROM_SHELL: readonly string[] = ["../../ios-seam", "../../ios-widget/ring"]
+const SEAM_SHARED_DIRS_FROM_SHELL: readonly string[] = ["../../ios-seam", "../../akasha/code-system/ios-component/ios-components"]
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
 

@@ -87,7 +87,7 @@ if [[ ! -d "$SHARED_WIDGET_SRC_DIR" ]]; then
   echo "ERROR: $SHARED_WIDGET_SRC_DIR not found — the categorization ring's Swift is authored there and this extension cannot compile without it." >&2
   exit 1
 fi
-cp "$SHARED_WIDGET_SRC_DIR"/*.swift "$WIDGET_DEST"/
+cp "$SHARED_WIDGET_SRC_DIR"/*/*.swift "$WIDGET_DEST"/
 cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
 if [[ ! -f "$WIDGET_SRC_DIR/Widget.entitlements" ]]; then
   echo "ERROR: $WIDGET_SRC_DIR/Widget.entitlements not found — the widget could not read the device secret and every tile would draw 'Sign in'." >&2

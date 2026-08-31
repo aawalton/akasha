@@ -7,7 +7,7 @@ domain-parent-slug: domain/readout-system
 app-slug: alanwalton-ios
 group-slugs:
   - categorization
-widget-path: akasha:ios-widget/ring/CategorizeRing.swift
+widget-path: akasha:akasha/code-system/ios-component/ios-components/categorize-ring/categorize-ring.ios-component.swift.swift
 gallery-name: "Left to Review"
 gallery-description: "How many of the past year's transactions Monarch is waiting to have reviewed."
 families:

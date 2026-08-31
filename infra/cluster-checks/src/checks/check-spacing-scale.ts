@@ -21,7 +21,7 @@ import {
   judgeWidgetScope,
   SPACING_SWIFT_BASENAME,
   WIDGET_SEAM_GLOB,
-  WIDGET_SOURCE_GLOB,
+  WIDGET_SOURCE_GLOBS,
   WIDGETS_OUTSIDE_THE_SCALE,
   type WidgetScopeViolation,
   type WidgetSite,
@@ -64,7 +64,9 @@ function main(): undefined {
     exitOnToolError({ error: err, prefix: PREFIX })
   }
 
-  const sites = deriveWidgetSites(findFiles({ cwd: repoRoot, patterns: [WIDGET_SOURCE_GLOB], absolute: false }))
+  const sites = deriveWidgetSites(
+    findFiles({ cwd: repoRoot, patterns: WIDGET_SOURCE_GLOBS, absolute: false })
+  )
 
   const joins = deriveSeamJoins(
     findFiles({ cwd: repoRoot, patterns: [WIDGET_SEAM_GLOB], absolute: false }).map((path) => ({

@@ -13,7 +13,7 @@ widget-bundle-id: me.smilingjenny.app.widgets
 development-team: M6AN6NM6FL
 native-shell-repo-path: akasha:native-shell/smilingjenny
 capacitor-config-repo-path: akasha:native-shell/smilingjenny/capacitor.config.json
-shared-widget-repo-path: akasha:ios-widget/ring
+shared-widget-repo-path: akasha:akasha/code-system/ios-component/ios-components
 own-widget-repo-path: akasha:native-shell/smilingjenny/ios-widget
 seam-script: akasha:native-shell/smilingjenny/scripts/apply-ios-seam.sh
 entitlements-repo-path: akasha:native-shell/smilingjenny/ios-app/App.entitlements

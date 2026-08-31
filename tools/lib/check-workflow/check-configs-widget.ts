@@ -18,7 +18,7 @@ export const WIDGET_MIRROR_CHECKS: CheckConfig[] = [
     name: "widget-payload-shape-mirror",
     dispatchNodeTypes: [
       { kind: "swift-file", under: "akasha:native-shell/alanwalton/ios-widget" },
-      { kind: "swift-file", under: "akasha:ios-widget/ring" },
+      { kind: "swift-file", under: "akasha:akasha/code-system/ios-component/ios-components" },
     ],
     dispatchNodes: [...CANONICAL_SEEDS, ...DECLARED_SEEDS],
     script: "infra/cluster-checks/src/checks/check-widget-payload-shape-mirror.ts",

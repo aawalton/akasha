@@ -8,7 +8,7 @@ dispatch-node-types:
   - kind: swift-file
     under: akasha:native-shell/alanwalton/ios-widget
   - kind: swift-file
-    under: akasha:ios-widget/ring
+    under: akasha:akasha/code-system/ios-component/ios-components
 slug: cluster-check-widget-payload-shape-mirror
 domain-parent-slug: page-type/cluster-check
 ---

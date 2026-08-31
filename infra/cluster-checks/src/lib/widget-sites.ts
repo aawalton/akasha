@@ -1,7 +1,12 @@
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { z } from "zod"
 
-export const WIDGET_SOURCE_GLOB = "../akasha/**/ios-widget/**/*.swift"
+export const WIDGET_SOURCE_GLOBS: readonly string[] = [
+  "../akasha/**/ios-widget/**/*.swift",
+  "../akasha/akasha/code-system/ios-component/ios-components/**/*.swift",
+]
+
+export const WIDGET_SOURCE_GLOB = WIDGET_SOURCE_GLOBS.join(" and ")
 
 export const SPACING_SWIFT_BASENAME = "Spacing.swift"
 
@@ -109,6 +114,10 @@ export function deriveSeamJoins(scripts: readonly SeamScript[]): readonly SeamJo
   )
 }
 
+export function coversDir(sharedDir: string, dir: string): boolean {
+  return dir === sharedDir || dir.startsWith(`${sharedDir}/`)
+}
+
 export function disposeWidgetSites(args: {
   readonly sites: readonly WidgetSite[]
   readonly joins: readonly SeamJoin[]
@@ -124,7 +133,7 @@ export function disposeWidgetSites(args: {
       continue
     }
     const hosts = args.joins
-      .filter((join) => join.sharedDir === site.dir)
+      .filter((join) => coversDir(join.sharedDir, site.dir))
       .map((join) => join.extensionDir)
       .sort()
     const hostsWithoutScale = hosts.filter((host) => !scaleSites.has(host))

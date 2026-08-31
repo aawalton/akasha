@@ -7,7 +7,7 @@ CONFIG="ios/App/App/capacitor.config.json"
 PB="/usr/libexec/PlistBuddy"
 
 WIDGET_SRC_DIR="ios-widget"
-SHARED_WIDGET_SRC_DIR="../../ios-widget/ring"
+SHARED_WIDGET_SRC_DIR="../../akasha/code-system/ios-component/ios-components"
 SHARED_IOS_SEAM_DIR="../../ios-seam"
 WIDGET_NAME="SmilingJennyWidgetExtension"
 WIDGET_DEST="ios/App/${WIDGET_NAME}"
@@ -69,7 +69,7 @@ if [[ ! -d "$SHARED_WIDGET_SRC_DIR" ]]; then
   echo "ERROR: $SHARED_WIDGET_SRC_DIR not found — the categorization ring's Swift is authored there and this extension cannot compile without it." >&2
   exit 1
 fi
-cp "$SHARED_WIDGET_SRC_DIR"/*.swift "$WIDGET_DEST"/
+cp "$SHARED_WIDGET_SRC_DIR"/*/*.swift "$WIDGET_DEST"/
 cp "$WIDGET_SRC_DIR/Info.plist" "$WIDGET_DEST/Info.plist"
 echo "OK: copied widget sources into $WIDGET_DEST"
 

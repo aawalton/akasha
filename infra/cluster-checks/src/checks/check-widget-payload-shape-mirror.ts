@@ -11,7 +11,10 @@ import { PAYLOAD_MIRRORS, shapeMirrorMembers } from "../../../../tools/lib/check
 const PREFIX = "[widget-payload-shape-mirror]"
 
 const WIDGET_DIR = "../akasha/native-shell/alanwalton/ios-widget"
-const PAYLOAD_DIRS: readonly string[] = [WIDGET_DIR, "../akasha/ios-widget/ring"]
+const PAYLOAD_DIRS: readonly string[] = [
+  WIDGET_DIR,
+  "../akasha/akasha/code-system/ios-component/ios-components",
+]
 
 interface WidgetMirrorViolation {
   readonly subject: string
@@ -50,9 +53,10 @@ function main(): undefined {
   try {
     const swiftSources = new Map<string, string>()
     for (const dir of PAYLOAD_DIRS) {
-      for (const entry of readdirSync(`${repoRoot}/${dir}`)) {
-        if (!entry.endsWith(".swift")) continue
-        swiftSources.set(`${dir}/${entry}`, read(`${dir}/${entry}`))
+      for (const entry of readdirSync(`${repoRoot}/${dir}`, { recursive: true })) {
+        const held = String(entry)
+        if (!held.endsWith(".swift")) continue
+        swiftSources.set(`${dir}/${held}`, read(`${dir}/${held}`))
       }
     }
     members = [

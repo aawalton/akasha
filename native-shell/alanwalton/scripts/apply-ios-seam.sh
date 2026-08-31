@@ -9,7 +9,7 @@ ICON_SOURCE="ios-icon/AppIcon-1024.png"
 PB="/usr/libexec/PlistBuddy"
 
 WIDGET_SRC_DIR="ios-widget"
-SHARED_WIDGET_SRC_DIR="../../ios-widget/ring"
+SHARED_WIDGET_SRC_DIR="../../akasha/code-system/ios-component/ios-components"
 SHARED_IOS_SEAM_DIR="../../ios-seam"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2

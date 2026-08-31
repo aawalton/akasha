@@ -44,8 +44,8 @@ else
     echo "ERROR: no ios-widget sources for --app $APP under $AKASHA_ROOT/native-shell/$APP/. Set AKASHA_ROOT if that checkout is elsewhere." >&2
     exit 2
   }
-  SHARED_WIDGET_DIR="$(cd "$AKASHA_ROOT/ios-widget/ring" 2>/dev/null && pwd)" || {
-    echo "ERROR: no shared ring sources at $AKASHA_ROOT/ios-widget/ring — both shells compile the ring from there, so neither can be rendered without it." >&2
+  SHARED_WIDGET_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
+    echo "ERROR: no shared ring components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — both shells compile the ring from there, so neither can be rendered without it." >&2
     exit 2
   }
 fi
@@ -108,7 +108,7 @@ collect_sources() {
   while IFS= read -r swift; do
     if grep -q '^@main$' "$swift"; then continue; fi
     SOURCES+=("$swift")
-  done < <(find "$1" -maxdepth 1 -name '*.swift' | sort)
+  done < <(find "$1" -maxdepth 2 -name '*.swift' | sort)
 }
 collect_sources "$WIDGET_DIR"
 if [ -n "$SHARED_WIDGET_DIR" ]; then collect_sources "$SHARED_WIDGET_DIR"; fi
