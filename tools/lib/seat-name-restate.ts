@@ -5,7 +5,7 @@ import { isValidSeatName } from "./seat-handle.ts"
 import { seatNameAdmission } from "./seat-name-admission.ts"
 import { refuseSeatName } from "./seat-name-bind.ts"
 import { nameVocabularyOf } from "./seat-name-vocabulary.ts"
-import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
+import { pageTextOf } from "./seat-page-values.ts"
 
 export type SeatPresence = "present" | "absent" | "unknown"
 
@@ -48,8 +48,10 @@ export async function restateSeatName(args: {
       reason: `invalid seat name '${name}' (expected lowercase kebab-case, length 2-128, must contain non-hex letter)`,
     }
   }
-  const page = seatPageForAgent(agentId)
-  const held = seatTextOf(page === null ? null : frontmatterOf(page), "title")
+  // Through the funnel rather than off the old page, so a seat whose old page has gone is read as
+  // holding the name it holds rather than as holding none — which would restate a name that is
+  // already right, and take it off whatever seat answers to it.
+  const held = pageTextOf(agentId, "title")
 
   if (held === name) return { kind: "unchanged", name }
   if (held !== null && !composedFromAttributes(held)) return { kind: "left-alone", held }

@@ -5,6 +5,7 @@ import { attributesOf, recordedModeOf } from "./attributes.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 import { frontmatterFromHistory, nameFromHistory } from "./seat-page-history.ts"
 import { principalOf, principalSeatIdOf } from "./seat-principal.ts"
+import { pageTextOf } from "./seat-page-values.ts"
 import { frontmatterOf, seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -78,9 +79,12 @@ export function seatWhoami(agentId: string): SeatWhoami | null {
   return fromHistory(agentId)
 }
 
+// The old page, then akasha, then the history. History is where a seat's attributes are read back
+// from once it has stopped, so it stands behind akasha rather than in front of it: a seat still
+// standing in the new system is answered from what it holds now rather than from what it last
+// committed.
 export function seatTitle(agentId: string): string | null {
-  const page = seatPageForAgent(agentId)
-  const frontmatter =
-    page === null ? frontmatterFromHistory(agentId, resolveRoots()) : frontmatterOf(page)
-  return slugAt(frontmatter, "title")
+  const held = pageTextOf(agentId, "title")
+  if (held !== null) return held
+  return slugAt(frontmatterFromHistory(agentId, resolveRoots()), "title")
 }
