@@ -8,7 +8,6 @@ export const athenaSeatMigration = {
   personaSlug: "athena",
   parentSlug: "akasha-seats",
   intents: [
-    { statement: "Every reader of a seat reads it from akasha." },
     { statement: "No writer of a seat writes it outside akasha." },
     { statement: "No seat and nothing beside a seat stand outside akasha." },
   ],
