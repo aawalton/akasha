@@ -1,5 +1,7 @@
 import {
+  type Identifier,
   numberAt,
+  slugAt,
   textAt,
   type Value,
 } from "../../indexes/index-entries/index-entries.module.code.ts"
@@ -9,7 +11,7 @@ import {
   standingAt,
 } from "../../indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../indexes/index-surface/index-surface.module.code.ts"
-import { slugIn } from "../../page/page-address/page-address.module.code.ts"
+import { addressIn, slugIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -39,6 +41,8 @@ export type Source = {
   readonly pageTypeAt: (slug: string) => Value | null
   readonly schemaFor: (said: string) => Schema | null
 }
+
+export type Identifying = (pageTypeSlug: string) => ReadonlyMap<string, Identifier>
 
 export function identityOf(one: Carried): string {
   return `${one.pageTypeSlug}/${one.pagePropertySlug}`
@@ -137,6 +141,21 @@ export function propertiesFrom(pageTypeSlug: string, source: Source): readonly C
   return carried
 }
 
+export function identifyingFrom(source: Source): Identifying {
+  const held = new Map<string, ReadonlyMap<string, Identifier>>()
+  return (pageTypeSlug) => {
+    const found = held.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const made = new Map<string, Identifier>()
+    for (const one of propertiesFrom(pageTypeSlug, source)) {
+      if (one.unique === null) continue
+      made.set(one.pagePropertySlug, { key: one.key, reach: one.unique })
+    }
+    held.set(pageTypeSlug, made)
+    return made
+  }
+}
+
 export function declarationsOf(
   pageTypeSlug: string,
   given: string | Reading,
@@ -151,4 +170,42 @@ export function propertiesOf(
   pageOf: (path: string) => Value | null
 ): readonly Carried[] {
   return propertiesFrom(pageTypeSlug, sourceIn(given, pageOf))
+}
+
+function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema | null {
+  const address = addressIn(said)
+  if (address.kind === "qualified") {
+    return schemas.get(`${address.pageTypeSlug}/${address.slug}`) ?? null
+  }
+  const slug = address.kind === "id" ? address.id : address.slug
+  const found: Schema[] = []
+  for (const one of schemas.values()) {
+    if (one.slug === slug) found.push(one)
+  }
+  const only = found[0]
+  return found.length === 1 && only !== undefined ? only : null
+}
+
+export function sourceOver(values: readonly Value[]): Source {
+  const types = new Map<string, Value>()
+  const schemas = new Map<string, Schema>()
+  for (const value of values) {
+    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const slug = textAt(value, "slug")
+    if (pageTypeSlug === null || slug === null) continue
+    if (pageTypeSlug === PAGE_TYPE) types.set(slug, value)
+    const propertySlug = textAt(value, "propertySlug")
+    if (propertySlug === null) continue
+    schemas.set(`${pageTypeSlug}/${slug}`, {
+      pageTypeSlug,
+      targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
+      unique: slugAt(value, "unique"),
+      slug,
+      propertySlug,
+    })
+  }
+  return {
+    pageTypeAt: (slug) => types.get(slug) ?? null,
+    schemaFor: (said) => schemaAmong(schemas, said),
+  }
 }

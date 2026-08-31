@@ -1,11 +1,12 @@
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filedIn } from "../../../pages-system/indexes/index/index-identity/index-identity.index.code.ts"
-import {
-  type Identifier,
-  pageTypesIn,
-  uniquePropertiesAt,
-} from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
+import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { standingNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  type Identifying,
+  identifyingFrom,
+  sourceIn,
+} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.check.code.ts"
@@ -17,12 +18,9 @@ export type Stated = {
   readonly said: string
 }
 
-export function statedBy(
-  carried: readonly Carried[],
-  unique: ReadonlyMap<string, Identifier>
-): readonly Stated[] {
+export function statedBy(carried: readonly Carried[], identifying: Identifying): readonly Stated[] {
   return carried.flatMap((one) =>
-    filedIn(one.value, unique).map((held) => ({
+    filedIn(one.value, identifying).map((held) => ({
       path: one.path,
       scope: held.scope,
       propertySlug: held.propertySlug,
@@ -54,7 +52,8 @@ export function identifierNamesOnePage(change: Change, shadow: Shadow): readonly
   const carried = carriedBy(change, pageTypesIn(shadow.reading))
   if (carried.length === 0) return []
   const said: Judged[] = []
-  for (const held of statedByKey(statedBy(carried, uniquePropertiesAt(shadow.reading))).values()) {
+  const identifying = identifyingFrom(sourceIn(shadow.reading, shadow.pageOf))
+  for (const held of statedByKey(statedBy(carried, identifying)).values()) {
     const one = held[0]
     if (one === undefined) continue
     const standing = standingNamed(shadow.reading, one.scope, one.propertySlug, one.said)
