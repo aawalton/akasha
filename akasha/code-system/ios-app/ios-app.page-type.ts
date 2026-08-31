@@ -1,7 +1,7 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
-import type { CapacitorConfig } from "./properties/capacitor-config.named-file-property.ts"
+import type { CapacitorConfig } from "./properties/capacitor-config.file-property.ts"
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
@@ -23,11 +23,11 @@ export const iosApp = {
   definition: "the app on a phone and the shell it runs in",
   pluralSlug: "ios-apps",
   partSlugs: [
+    "file-property/capacitor-config",
     "file-property/icon-drawing",
     "file-property/web-entry",
     "ios-app/alanwalton",
     "ios-app/smilingjenny",
-    "named-file-property/capacitor-config",
     "named-file-property/git-ignore",
     "shell-script/build-stamp",
     "shell-script/monarch-url",
@@ -66,6 +66,10 @@ export const iosApp = {
     {
       invariantKind: "departure",
       statement: "An app's web directory holds what a build put there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The config Capacitor reads is made from the one standing beside the page.",
     },
     {
       invariantKind: "gap",
