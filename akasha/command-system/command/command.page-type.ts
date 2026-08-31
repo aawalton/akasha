@@ -25,6 +25,7 @@ export const command = {
     "command/measure",
     "command/move",
     "command/read",
+    "command/refactor",
     "command/remove",
     "command/test",
     "command/write",
