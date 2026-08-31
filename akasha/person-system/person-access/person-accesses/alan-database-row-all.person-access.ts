@@ -5,6 +5,6 @@ export const alanDatabaseRowAll = {
   pageTypeSlug: "person-access",
   slug: "alan-database-row-all",
   personSlug: "alan",
-  personAccessKind: "database-row",
+  accessKind: "database-row",
   personAccessTarget: "all",
 } as const satisfies PersonAccess

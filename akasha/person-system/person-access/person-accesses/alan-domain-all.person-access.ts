@@ -5,6 +5,6 @@ export const alanDomainAll = {
   pageTypeSlug: "person-access",
   slug: "alan-domain-all",
   personSlug: "alan",
-  personAccessKind: "domain",
+  accessKind: "domain",
   personAccessTarget: "all",
 } as const satisfies PersonAccess
