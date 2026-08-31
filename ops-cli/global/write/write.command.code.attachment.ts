@@ -11,8 +11,7 @@ import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
 import { landOutside, type Loose, removeOutside } from "../../../repo/land/outside.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { heldToWhatItsAuthorRead } from "../../../agent/authored-write/authored-write.ts"
-import { fail, GATED, valueOf } from "../../../patches/patch.ts"
+import { fail, valueOf } from "../../../patches/patch.ts"
 import { patchAside } from "../../../repo/land/body-aside.ts"
 import { readPayload, readsPayload } from "../../../tools/lib/payload.ts"
 
@@ -297,10 +296,6 @@ export default async function write(argv: readonly string[]): Promise<void> {
         "nothing was checked or landed\n"
     )
     return
-  }
-
-  if (at.repo === AKASHA && !mechanical && process.env[GATED] !== "1") {
-    heldToWhatItsAuthorRead(at.root, entries)
   }
 
   try {

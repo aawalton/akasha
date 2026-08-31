@@ -7,9 +7,8 @@ import { land, LandingRefused, type Landing } from "../../../repo/land/land.ts"
 import { landOutside, type Loose } from "../../../repo/land/outside.ts"
 import { applyPairs, parsePairs } from "../../../patches/edit-pairs.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
-import { heldToWhatItsAuthorRead } from "../../../agent/authored-write/authored-write.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
-import { fail, GATED, payloadText, valueOf } from "../../../patches/patch.ts"
+import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const INPUT_FILE = "--input-file"
 
@@ -206,10 +205,6 @@ export default async function edit(argv: readonly string[]): Promise<void> {
     messageFile !== null
       ? readFileSync(messageFile, "utf8").trim()
       : (valueOf(argv, MESSAGE) ?? defaultMessage(at.repo, "edit", landings.map((one) => one.relPath)))
-
-  if (at.repo === AKASHA && !argv.includes(MECHANICAL) && process.env[GATED] !== "1") {
-    heldToWhatItsAuthorRead(at.root, landings)
-  }
 
   try {
     land(at, landings, message, dryRun, [], [], argv.includes(MECHANICAL), [], new Map(), glass)
