@@ -8,6 +8,12 @@ export const amyJennyUnreviewedWidget = {
   personaSlug: "amy",
   parentSlug: "akasha-migration",
   intents: [
+    { statement: "A workstation answers a page query over HTTP." },
+    { statement: "A page query is answered from an index rather than by reading every page file." },
+    { statement: "A page query is answered while another is still being answered." },
+    { statement: "A pod reaches the page store." },
+    { statement: "A page is written over HTTP from a workstation." },
+    { statement: "A running site states the commit it was built from." },
     { statement: "No file imports `@shared/pages-query`." },
     {
       statement:
