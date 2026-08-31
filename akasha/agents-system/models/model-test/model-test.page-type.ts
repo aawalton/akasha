@@ -45,9 +45,5 @@ export const modelTest = {
       statement:
         "A run that could not reach a model is a failure of its own rather than a case that passed.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A test holding only cases a prompt answers rightly measures nothing.",
-    },
   ],
 } as const satisfies PageType
