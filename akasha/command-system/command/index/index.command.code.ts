@@ -1,12 +1,15 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, renameSync, rmSync } from "node:fs"
-import { dirname, join, relative, resolve } from "node:path"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { existsSync } from "node:fs"
+import { join, resolve } from "node:path"
+import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   headOf,
-  stampIn,
+  type Stamp,
   unlandedIn,
 } from "../../../pages-system/indexes/index-stamp/index-stamp.module.code.ts"
-import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
+import {
+  type Drift,
+  rebuiltWhole,
+} from "../../../pages-system/indexes/rebuilding/rebuilding.module.code.ts"
 import { counted } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
@@ -22,10 +25,6 @@ const ACTS = [REFRESH]
 
 const AKASHA = "akasha"
 
-const ASIDE = "refreshing"
-
-const GONE = "replaced"
-
 const SHOWN = 5
 
 const STANDS = "the index stands as it did, and nothing was put in its place"
@@ -39,12 +38,6 @@ const COMMITTING = new Map<string, string>([
 export type Read =
   | { readonly act: string; readonly dryRun: boolean; readonly unlanded: boolean }
   | { readonly refused: readonly string[] }
-
-export type Drift = {
-  readonly added: readonly string[]
-  readonly changed: readonly string[]
-  readonly went: readonly string[]
-}
 
 function acts(): string {
   return ACTS.join("`, `")
@@ -94,46 +87,6 @@ export function readIn(argv: readonly string[]): Read {
   return { act, dryRun, unlanded }
 }
 
-function filesUnder(at: string): readonly string[] {
-  if (!existsSync(at)) return []
-  const found: string[] = []
-  const walk = (here: string, said: string): undefined => {
-    for (const one of readdirSync(here, { withFileTypes: true })) {
-      const named = `${said}${one.name}`
-      if (one.isDirectory()) walk(join(here, one.name), `${named}/`)
-      else found.push(named)
-    }
-  }
-  walk(at, "")
-  return found.sort()
-}
-
-export function driftBetween(was: string, now: string): Drift {
-  const before = new Set(filesUnder(was))
-  const added: string[] = []
-  const changed: string[] = []
-  for (const one of filesUnder(now)) {
-    if (!before.has(one)) {
-      added.push(one)
-      continue
-    }
-    before.delete(one)
-    if (readFileSync(join(was, one), "utf8") !== readFileSync(join(now, one), "utf8")) {
-      changed.push(one)
-    }
-  }
-  return { added, changed, went: [...before].sort() }
-}
-
-function swapped(at: string, aside: string): undefined {
-  const gone = `${at}.${GONE}.${process.pid}`
-  rmSync(gone, { recursive: true, force: true })
-  if (existsSync(at)) renameSync(at, gone)
-  mkdirSync(dirname(at), { recursive: true })
-  renameSync(aside, at)
-  rmSync(gone, { recursive: true, force: true })
-}
-
 export function named(paths: readonly string[]): string {
   const shown = paths.slice(0, SHOWN).join(", ")
   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
@@ -154,14 +107,12 @@ function refusing(said: readonly string[], code: number): Answer {
   return { report: [], refusals: [...said, STANDS], code }
 }
 
-function stampSaid(at: string): string {
-  const held = stampIn(at)
+function stampSaid(held: Stamp | null): string {
   if (held === null) return "nothing stamped it — the index names no commit it was built from"
   return `stamped with ${held.commit}, over \`${held.tree}\`, naming ${counted(held.settled.length, "unlanded path")}`
 }
 
 function refreshing(root: string, read: { dryRun: boolean; unlanded: boolean }): Answer {
-  const at = indexIn(root)
   const tree = join(root, AKASHA)
   if (!existsSync(tree)) {
     return refusing([`no \`${AKASHA}/\` stands under ${root}, so there is no index to build`], 2)
@@ -180,35 +131,25 @@ function refreshing(root: string, read: { dryRun: boolean; unlanded: boolean }):
       2
     )
   }
-  const aside = `${at}.${ASIDE}.${process.pid}`
-  try {
-    rmSync(aside, { recursive: true, force: true })
-    mkdirSync(aside, { recursive: true })
-    const said = rebuiltFrom(tree, aside, root)
-    const report = [
-      `the index was built over \`${AKASHA}/\` as it stands, at ${head}`,
-      `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
-      stampSaid(aside),
-      driftSaid(driftBetween(at, aside)),
-    ]
-    if (apart.length > 0) {
-      report.push(
-        `${counted(apart.length, "path")} stand apart from HEAD and the stamp names them — ${named(apart)}`
-      )
-    }
+  const said = rebuiltWhole(root, tree, !read.dryRun)
+  const report = [
+    `the index was built over \`${AKASHA}/\` as it stands, at ${head}`,
+    `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
+    stampSaid(said.stamp),
+    driftSaid(said.drift),
+  ]
+  if (apart.length > 0) {
     report.push(
-      read.dryRun
-        ? `nothing was put in place — ${DRY_RUN}`
-        : `${relative(root, at)} was replaced whole`
+      `${counted(apart.length, "path")} stand apart from HEAD and the stamp names them — ${named(apart)}`
     )
-    if (!read.dryRun) swapped(at, aside)
-    return {
-      report,
-      refusals: said.refused.map((one) => `the index took less than the whole of it — ${one}`),
-      code: said.refused.length > 0 ? 2 : 0,
-    }
-  } finally {
-    rmSync(aside, { recursive: true, force: true })
+  }
+  report.push(
+    read.dryRun ? `nothing was put in place — ${DRY_RUN}` : `${indexNamed()} was replaced whole`
+  )
+  return {
+    report,
+    refusals: said.refused.map((one) => `the index took less than the whole of it — ${one}`),
+    code: said.refused.length > 0 ? 2 : 0,
   }
 }
 

@@ -1,4 +1,12 @@
-import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import {
+  appendFileSync,
+  cpSync,
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
@@ -7,7 +15,12 @@ import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
-import { type Stamp, stampKept, stampTaken } from "../index-stamp/index-stamp.module.code.ts"
+import {
+  type Stamp,
+  stampIn,
+  stampKept,
+  stampTaken,
+} from "../index-stamp/index-stamp.module.code.ts"
 import { overlaidOn, type Reading } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { indexIn, readingIn } from "./index-reading.module.code.ts"
@@ -25,6 +38,8 @@ const PAGE_PROPERTY = "page-property"
 const AT_PATH = "path"
 
 const PART = ".4242.part"
+
+const NOT_JSON = "{ this is not json\n"
 
 function under(root: string, at: string): string {
   return join(indexIn(root), at)
@@ -44,6 +59,12 @@ function adding(root: string, at: string, lines: readonly unknown[]): undefined 
   const path = under(root, `${at}${ENDING}`)
   mkdirSync(dirname(path), { recursive: true })
   appendFileSync(path, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
+function unreadable(root: string, at: string): undefined {
+  const path = under(root, at)
+  mkdirSync(dirname(path), { recursive: true })
+  writeFileSync(path, NOT_JSON)
 }
 
 function standing(root: string, at: string): undefined {
@@ -96,6 +117,14 @@ export function standingFiledIn(root: string, pageTypeSlug: string, slug: string
   return identityStanding(root, pageTypeSlug, SLUG, slug)
 }
 
+export function standingUnreadableFiled(
+  root: string,
+  pageTypeSlug: string,
+  slug: string
+): undefined {
+  unreadable(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+}
+
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
   identityFiled(root, PAGE, ID, id, lines)
 }
@@ -129,6 +158,10 @@ export function relationFiled(
 
 export function importFiled(root: string, path: string, lines: readonly unknown[]): undefined {
   filing(root, join(indexImport.indexName, AT_PATH, path), lines)
+}
+
+export function importUnreadableFiled(root: string, path: string): undefined {
+  unreadable(root, join(indexImport.indexName, AT_PATH, `${path}${ENDING}`))
 }
 
 export function importPartLeft(root: string, path: string, lines: readonly unknown[]): undefined {
@@ -174,6 +207,22 @@ export function everythingFiled(root: string): readonly string[] {
   return everyFileUnder(indexIn(root))
 }
 
+export function besideTheIndex(root: string): readonly string[] {
+  const at = indexIn(root)
+  return readdirSync(dirname(at))
+    .map((one) => join(dirname(at), one))
+    .filter((one) => one !== at)
+    .sort()
+}
+
+export function indexTakenFrom(root: string): undefined {
+  rmSync(indexIn(root), { recursive: true, force: true })
+}
+
+export function stampStandingIn(root: string): Stamp | null {
+  return stampIn(indexIn(root))
+}
+
 export function stampedIn(root: string, held: Stamp): undefined {
   stampKept(indexIn(root), held)
 }
@@ -187,6 +236,11 @@ export function rebuiltIn(
   tree: string
 ): { readonly pages: number; readonly entries: number; readonly refused: readonly string[] } {
   return rebuiltFrom(join(root, tree), indexIn(root), root)
+}
+
+export function rebuiltApart(root: string, tree: string, aside: string): readonly string[] {
+  rebuiltFrom(join(root, tree), aside, root)
+  return everyFileUnder(aside)
 }
 
 export function identitiesCopied(from: string, into: string, pageTypeSlug: string): undefined {
