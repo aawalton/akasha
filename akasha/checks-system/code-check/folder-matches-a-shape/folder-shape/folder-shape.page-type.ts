@@ -41,6 +41,10 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A folder may match more than one shape.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shape judges the files sitting in one folder.",
     },
     {

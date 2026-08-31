@@ -10,6 +10,10 @@ export const propertyPagesOnly = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "The folder is named `properties`.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page is a property by the page type it states extending `page-property` however far above it that stands rather than by what its file is named.",
     },
