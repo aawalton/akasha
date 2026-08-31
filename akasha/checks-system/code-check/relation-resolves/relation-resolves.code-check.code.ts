@@ -6,8 +6,8 @@ import {
 import {
   idsNaming,
   standingAt,
-  standingByIdAnswered,
-  standingByPathAnswered,
+  standingById,
+  standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   type Known,
@@ -65,11 +65,11 @@ export function namersOf(change: Change, properties: readonly string[]): readonl
   const found = new Set<string>()
   for (const path of change.changed) {
     if (change.after(path) !== null) continue
-    for (const gone of standingByPathAnswered(change.root, path)) {
+    for (const gone of standingByPath(change.root, path)) {
       if (gone.path !== path) continue
       for (const propertySlug of properties) {
         for (const id of idsNaming(change.root, gone.id, propertySlug)) {
-          const naming = standingByIdAnswered(change.root, id)
+          const naming = standingById(change.root, id)
           if (naming !== null) found.add(naming.path)
         }
       }

@@ -2,8 +2,8 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  typeSlugByIdAnswered,
+  everyOfType,
+  typeSlugOf,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -33,11 +33,11 @@ const TS = "ts"
 const loadFrom = createRequire(import.meta.url)
 
 export function checkSlugIn(root: string): string {
-  return typeSlugByIdAnswered(root, CHECK_TYPE)
+  return typeSlugOf(root, CHECK_TYPE)
 }
 
 export function checkPagesIn(root: string): readonly string[] {
-  return [...new Set(everyOfTypeAnswered(root, checkSlugIn(root)).map((one) => one.path))].sort()
+  return [...new Set(everyOfType(root, checkSlugIn(root)).map((one) => one.path))].sort()
 }
 
 const STATED: readonly (readonly [Phase, string])[] = [
