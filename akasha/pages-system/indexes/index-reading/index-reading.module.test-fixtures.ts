@@ -1,12 +1,13 @@
 import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { everyFileUnder } from "../../../testing-system/walking/walking.module.code.ts"
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
-import { type Stamp, stampKept } from "../index-stamp/index-stamp.module.code.ts"
+import { type Stamp, stampKept, stampTaken } from "../index-stamp/index-stamp.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { indexIn } from "./index-reading.module.code.ts"
 
@@ -62,6 +63,16 @@ function identityFiled(
   filing(root, join(indexIdentity.indexName, scope, propertySlug, said), lines)
 }
 
+function identityStanding(
+  root: string,
+  scope: string,
+  propertySlug: string,
+  said: string
+): boolean {
+  const at = join(indexIdentity.indexName, scope, propertySlug, `${said}${ENDING}`)
+  return existsSync(under(root, at))
+}
+
 export function standingFiled(
   root: string,
   pageTypeSlug: string,
@@ -80,8 +91,16 @@ export function standingAlsoFiled(
   adding(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, slug), lines)
 }
 
+export function standingFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
+  return identityStanding(root, pageTypeSlug, SLUG, slug)
+}
+
 export function idFiled(root: string, id: string, lines: readonly unknown[]): undefined {
   identityFiled(root, PAGE, ID, id, lines)
+}
+
+export function idFiledIn(root: string, id: string): boolean {
+  return identityStanding(root, PAGE, ID, id)
 }
 
 export function pathFiled(root: string, path: string, lines: readonly unknown[]): undefined {
@@ -139,8 +158,16 @@ export function linesFiled(root: string, at: string, lines: readonly unknown[]):
   written(root, at, lines)
 }
 
+export function everythingFiled(root: string): readonly string[] {
+  return everyFileUnder(indexIn(root))
+}
+
 export function stampedIn(root: string, held: Stamp): undefined {
   stampKept(indexIn(root), held)
+}
+
+export function stampTakenFrom(root: string): undefined {
+  stampTaken(indexIn(root))
 }
 
 export function rebuiltIn(
@@ -177,4 +204,10 @@ export function pathsTakenFrom(root: string): undefined {
 
 export function importsTakenFrom(root: string): undefined {
   taking(root, indexImport.indexName)
+}
+
+export function fileWhereTheIndexStands(root: string, text: string): undefined {
+  const at = indexIn(root)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, text)
 }

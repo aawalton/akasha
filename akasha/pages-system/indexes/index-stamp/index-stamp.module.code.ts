@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process"
-import { existsSync, mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
 
 export type Stamp = {
@@ -50,6 +50,10 @@ export function stampKept(at: string, held: Stamp): undefined {
   const said = { commit: held.commit, tree: held.tree, settled: [...new Set(held.settled)].sort() }
   writeFileSync(near, `${JSON.stringify(said)}\n`)
   renameSync(near, join(at, STAMP))
+}
+
+export function stampTaken(at: string): undefined {
+  rmSync(join(at, STAMP), { force: true })
 }
 
 function gitIn(repo: string, argv: readonly string[]): string | null {
