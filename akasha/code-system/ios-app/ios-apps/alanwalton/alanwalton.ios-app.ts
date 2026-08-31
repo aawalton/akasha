@@ -10,6 +10,7 @@ export const alanwalton = {
   capacitorConfig: "json",
   displayName: "alanwalton",
   gitIgnore: "gitignore",
+  iconDrawing: "svg",
   partSlugs: [
     "ios-program/alanwalton-app",
     "ios-program/alanwalton-decode-harness",

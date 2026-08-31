@@ -4,6 +4,7 @@ import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.named-file-property.ts"
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
+import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
@@ -11,6 +12,7 @@ export type IosApp = WorkspacePackage & {
   capacitorConfig: CapacitorConfig
   displayName: DisplayName
   gitIgnore: GitIgnore
+  iconDrawing?: IconDrawing
   webEntry?: WebEntry
 }
 
@@ -21,6 +23,7 @@ export const iosApp = {
   definition: "the app on a phone and the shell it runs in",
   pluralSlug: "ios-apps",
   partSlugs: [
+    "file-property/icon-drawing",
     "file-property/web-entry",
     "ios-app/alanwalton",
     "ios-app/smilingjenny",
@@ -40,6 +43,7 @@ export const iosApp = {
     { pagePropertySlug: "capacitor-config", required: true, many: false },
     { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
+    { pagePropertySlug: "icon-drawing", required: false, many: false },
     { pagePropertySlug: "web-entry", required: false, many: false },
   ],
   invariants: [
@@ -72,8 +76,8 @@ export const iosApp = {
       statement: "An app's icon is a picture rather than text.",
     },
     {
-      invariantKind: "gap",
-      statement: "An app's icon is made at build time from a drawing that stands in akasha.",
+      invariantKind: "departure",
+      statement: "An app's icon is made from its drawing by whoever changes the drawing.",
     },
   ],
 } as const satisfies PageType
