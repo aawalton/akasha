@@ -21,10 +21,6 @@ export const initiativeAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "The chain is walked to the top rather than one step.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A chain that turns back on itself is walked once.",
     },
     {
