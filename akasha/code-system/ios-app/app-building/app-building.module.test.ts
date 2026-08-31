@@ -17,14 +17,17 @@ test("an app no page is slugged for is refused by that name", () => {
 })
 
 test("an app naming no build script is refused rather than walked to", () => {
-  const held = planFor(root, "smilingjenny")
+  const held = planFor(root, "nosuchapp")
   expect("refused" in held).toBe(true)
-  expect("refused" in held ? held.refused.join(" ") : "").toContain("build-script")
+})
+
+test("both apps are built by the one script standing above them", () => {
+  expect(planned("smilingjenny").buildScriptPath).toBe(planned("alanwalton").buildScriptPath)
 })
 
 test("the build script is the shell file beside the page the app names", () => {
   expect(planned("alanwalton").buildScriptPath).toEndWith(
-    "alanwalton-build-sim/alanwalton-build-sim.shell-script.shell.sh"
+    "shell-scripts/build-sim/build-sim.shell-script.shell.sh"
   )
 })
 
@@ -49,6 +52,17 @@ test("the access group and the secret service are worked out rather than stated"
   expect(said).toContain(
     "export NATIVE_SHELL_DEVICE_SECRET_SERVICE='com.alanwalton.app.device-secret'"
   )
+})
+
+test("what Xcode builds the shipped program under is read off its page", () => {
+  const said = planned("alanwalton").exports.join("\n")
+  expect(said).toContain("export NATIVE_SHELL_WIDGET_NAME='ValuesWidgetExtension'")
+})
+
+test("an app whose site is a page of its own is planned like any other", () => {
+  const held = planned("smilingjenny").exports.join("\n")
+  expect(held).toContain("export NATIVE_SHELL_WIDGET_NAME='SmilingJennyWidgetExtension'")
+  expect(held).toContain("export NATIVE_SHELL_BUNDLE_ID='me.smilingjenny.app'")
 })
 
 test("every component the shipped program names is handed to the seam", () => {

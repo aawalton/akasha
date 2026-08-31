@@ -7,6 +7,7 @@ export const smilingjenny = {
   definition: "the app on Jenny's phone and the shell it runs in",
   manifest: "json",
   bundleId: "me.smilingjenny.app",
+  buildScript: "shell-script/build-sim",
   capacitorConfig: "json",
   developmentTeam: "M6AN6NM6FL",
   displayName: "Smiling Jenny",

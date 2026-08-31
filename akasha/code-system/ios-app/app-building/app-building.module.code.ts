@@ -72,6 +72,7 @@ function exportsOf(app: Value, shipped: Value, hosting: Value): readonly string[
     ["NATIVE_SHELL_WIDGET_PROFILE_NAME", textAt(shipped, "profileName") ?? ""],
     ["NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP", `${team}.${bundleId}`],
     ["NATIVE_SHELL_DEVICE_SECRET_SERVICE", `${bundleId}.device-secret`],
+    ["NATIVE_SHELL_WIDGET_NAME", textAt(shipped, "targetName") ?? ""],
     ["NATIVE_SHELL_COMPONENTS", componentsOf(shipped)],
   ]
   return said.map(([name, value]) => `export ${name}=${quoted(value)}`)

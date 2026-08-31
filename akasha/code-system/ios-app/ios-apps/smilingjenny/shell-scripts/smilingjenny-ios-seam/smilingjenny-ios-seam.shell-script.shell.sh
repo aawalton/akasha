@@ -29,7 +29,7 @@ fi
 # shellcheck source=akasha/code-system/ios-app/shell-scripts/widget-components/widget-components.shell-script.shell.sh
 . "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh"
 WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and the ops mobile command running this build exports them. This script states no list of its own to fall back to.}"
-WIDGET_NAME="SmilingJennyWidgetExtension"
+WIDGET_NAME="${NATIVE_SHELL_WIDGET_NAME:?is unset. The widget program page states target-name, and whatever runs this build reads it off that page and exports it. This script states no name of its own to fall back to.}"
 WIDGET_DEST="ios/App/${WIDGET_NAME}"
 WIDGET_BUNDLE_ID="${NATIVE_SHELL_WIDGET_BUNDLE_ID:?is unset. The ios-app page states widget-bundle-id, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
 WIDGET_TEAM="${NATIVE_SHELL_DEVELOPMENT_TEAM:?is unset. The ios-app page states development-team, and the ops mobile command running this build exports it. This script states no value of its own to fall back to.}"
