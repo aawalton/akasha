@@ -105,9 +105,23 @@ function delivered(root: string, plan: Plan, host: string): readonly string[] {
   return []
 }
 
-function scriptOf(root: string, plan: Plan, www: string | null): string {
+function stampOf(root: string, plan: Plan): string | null {
+  const head = ran(["git", "-C", root, "rev-parse", "HEAD"])
+  if (head.code !== 0) return null
+  const at = head.out.trim()
+  if (at === "") return null
+  const held = ran(["git", "-C", root, "status", "--porcelain", "--", ...plan.deliverPaths])
+  return held.out.trim() === "" ? at : `${at}-dirty`
+}
+
+function scriptOf(root: string, plan: Plan, www: string | null, stamp: string): string {
   const shellDir = `$HOME/${RUN_ROOT}/${plan.shellPath}`
-  const head = [MAC_PATH, `export NATIVE_SHELL_DIR="${shellDir}"`, ...plan.exports]
+  const head = [
+    MAC_PATH,
+    `export NATIVE_SHELL_DIR="${shellDir}"`,
+    `export NATIVE_SHELL_STAMP_COMMIT='${stamp}'`,
+    ...plan.exports,
+  ]
   if (www !== null) head.push(`export STAGED_WWW_DIR="$HOME/${RUN_ROOT}/${WWW_AT}"`)
   return `${head.join("\n")}\n${readFileSync(join(root, plan.buildScriptPath), "utf8")}`
 }
@@ -148,7 +162,17 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
     }
     report.push(`staged the site standing at ${read.www}`)
   }
-  const done = built(scriptOf(given.root, plan, read.www), host)
+  const stamp = stampOf(given.root, plan)
+  if (stamp === null) {
+    return {
+      report,
+      refusals: [
+        `the commit ${given.root} stands at could not be read, and a build stamped with nothing cannot be told from a stale one`,
+      ],
+      code: 3,
+    }
+  }
+  const done = built(scriptOf(given.root, plan, read.www, stamp), host)
   report.push(done.out.trimEnd())
   const found = DONE.exec(done.out)
   if (found === null) {
