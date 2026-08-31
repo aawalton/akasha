@@ -4,7 +4,7 @@ import {
   landingOf,
   specifiersIn,
 } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
-import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingByPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 
 export const IMPORTED =
@@ -30,7 +30,7 @@ export function importedIn(root: string, path: string): readonly string[] {
 }
 
 export function pageOf(root: string, path: string): string | null {
-  return standingByPath(root, path)[0]?.path ?? null
+  return standingByPathAnswered(root, path)[0]?.path ?? null
 }
 
 export function fileImport(root: string, path: string): readonly Warrant[] {
