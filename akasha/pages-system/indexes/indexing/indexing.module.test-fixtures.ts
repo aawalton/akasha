@@ -128,8 +128,18 @@ export const said = (at: string): unknown => JSON.parse(linesIn(at)[0] ?? "")
 
 export type Named = readonly [string, Held]
 
-export function aType(id: string, slug: string, extendsSlug: string | null): Named {
-  return [`${slug}.page-type.ts`, { id, pageTypeSlug: "page-type", slug, extendsSlug }]
+export function aType(
+  id: string,
+  slug: string,
+  extendsSlug: string | null,
+  declares: readonly string[] = []
+): Named {
+  const properties = declares.map((one) => ({
+    pagePropertySlug: one,
+    required: false,
+    many: false,
+  }))
+  return [`${slug}.page-type.ts`, { id, pageTypeSlug: "page-type", slug, extendsSlug, properties }]
 }
 
 export function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
@@ -143,14 +153,14 @@ export function thePage(value: Held): Named {
 export const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
 
 export const IDENTIFIERS: readonly Named[] = [
+  aType("0", "page", null, ["id", "slug"]),
+  aType("5", "page-property", "page"),
   aType("9", "text-property", "page-property"),
   thePage(idPage),
   thePage(slugPage),
 ]
 
 export const VOCABULARY: readonly Named[] = [
-  aType("0", "page", null),
-  aType("5", "page-property", "page"),
   ...IDENTIFIERS,
   aType("10", "relation-property", "page-property"),
   aType("11", "file-property", "page-property"),
