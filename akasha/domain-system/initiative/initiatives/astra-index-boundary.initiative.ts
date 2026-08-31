@@ -10,7 +10,7 @@ export const astraIndexBoundary = {
     {
       statement: "Everything outside the indexes folder asks the index a question and is answered.",
       workingMemory:
-        "The page-value reader moved out to `pages-system/page/page-value`, and reaches into the package fell from thirty-seven files to nineteen. Sixteen of those are `pageTypesIn`; the rest take `filePropertiesAt`, `schemaAt`, `filePropertiesAnswered`, `pathsOf` or `Identifier`, each a question or its answer. One residue is neither: `importedBy` is path arithmetic reading no index, and belongs beside `code-specifier`.",
+        "Every reach from outside is now a name the manifest exports. The two residues went: the edge rule moved into `index-import`, and `akasha-hooks` stopped spelling the index's layout. Thirty-odd callers that read a missing index as an empty one now take a reader that refuses. What is left is `standingAt`, `idsNaming`, `namersOf`, `slugsOfType`, `schemaOf` and `standingAddressed`, each still answering empty where the tree it reads is not there.",
     },
     { statement: "A question no answer covers is answered by the indexes folder." },
     {
