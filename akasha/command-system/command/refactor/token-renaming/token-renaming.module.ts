@@ -10,7 +10,7 @@ export const tokenRenaming = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name is named by the file exporting it rather than by the name on its own.",
+      statement: "A name is named by the file carrying it rather than by the name on its own.",
     },
     {
       invariantKind: "departure",
@@ -18,11 +18,12 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no file exports is refused rather than answered as nothing to do.",
+      statement:
+        "A name the named file does not carry is refused rather than answered as nothing to do.",
     },
     {
       invariantKind: "departure",
-      statement: "A name the file already exports is refused rather than shadowed.",
+      statement: "A name the file already carries is refused rather than shadowed.",
     },
     {
       invariantKind: "departure",
@@ -32,6 +33,19 @@ export const tokenRenaming = {
     {
       invariantKind: "departure",
       statement: "A name standing for something else in its own scope is left as it stands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a file keeps to itself is renamed though nothing exports it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key a type declares is renamed wherever the checker resolves to it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file carrying one spelling as a name and as a key is refused rather than guessed at.",
     },
     {
       invariantKind: "departure",

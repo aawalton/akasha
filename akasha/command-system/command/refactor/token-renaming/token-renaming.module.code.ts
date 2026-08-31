@@ -1,8 +1,14 @@
+import type ts from "typescript"
 import {
   boundAs,
+  declarationsNamed,
+  declaredNamed,
   exportsNamed,
+  namingOf,
   readingOf,
   referencesOf,
+  spelledAs,
+  type Typing,
   typingOver,
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import { counted } from "../../../asking/asking.module.code.ts"
@@ -37,6 +43,10 @@ export type Binding = {
 
 export type Made = { readonly binding: Binding } | { readonly refused: string }
 
+type Stood = { readonly nodes: ReadonlySet<ts.Node>; readonly key: boolean }
+
+type Standing = Stood | { readonly refused: string }
+
 export function tokeningFor(path: string, from: string, to: string): Asked {
   if (!path.endsWith(TS)) return { refused: `\`${path}\` names no TypeScript body` }
   if (!NAME.test(from)) return { refused: `\`${from}\` is no name a body carries` }
@@ -49,6 +59,31 @@ export function tokeningFor(path: string, from: string, to: string): Asked {
   return { tokening: { path, was: from, now: to } }
 }
 
+function namedIn(typing: Typing, path: string, name: string): ReadonlySet<ts.Node> {
+  return new Set<ts.Node>([
+    ...exportsNamed(typing, path, name),
+    ...declaredNamed(typing, path, name),
+  ])
+}
+
+function standingFor(typing: Typing, one: Tokening): Standing {
+  const named = namedIn(typing, one.path, one.was)
+  const keyed = new Set<ts.Node>(declarationsNamed(typing, one.path, one.was))
+  if (named.size > 0 && keyed.size > 0) {
+    return {
+      refused: `${one.path} carries \`${one.was}\` as a name and as a key, so which one to rename is unsaid`,
+    }
+  }
+  if (named.size > 0) return { nodes: named, key: false }
+  if (keyed.size > 0) return { nodes: keyed, key: true }
+  return { refused: `${one.path} carries no \`${one.was}\`` }
+}
+
+function takenAlready(typing: Typing, one: Tokening): boolean {
+  if (namedIn(typing, one.path, one.now).size > 0) return true
+  return declarationsNamed(typing, one.path, one.now).length > 0
+}
+
 export function bindingFor(
   root: string,
   paths: readonly string[],
@@ -56,15 +91,17 @@ export function bindingFor(
   textOf: (path: string) => string | null
 ): Made {
   const typing = typingOver(root, paths, readingOf(root, textOf))
-  const declared = new Set(exportsNamed(typing, one.path, one.was))
-  if (declared.size === 0) return { refused: `${one.path} exports no \`${one.was}\`` }
-  if (exportsNamed(typing, one.path, one.now).length > 0) {
-    return { refused: `${one.path} already exports \`${one.now}\`` }
-  }
+  const stood = standingFor(typing, one)
+  if ("refused" in stood) return { refused: stood.refused }
+  if (takenAlready(typing, one)) return { refused: `${one.path} already carries \`${one.now}\`` }
+  const places = stood.key
+    ? namingOf(typing, root, stood.nodes)
+    : referencesOf(typing, root, stood.nodes)
   const held = new Map<string, (readonly [Spot, string])[]>()
-  for (const found of referencesOf(typing, root, declared)) {
+  for (const found of places) {
+    const said = stood.key ? spelledAs(found, one.was, one.now) : boundAs(found, one.was, one.now)
     const at = held.get(found.path) ?? []
-    at.push([{ start: found.start, end: found.end }, boundAs(found, one.was, one.now)])
+    at.push([{ start: found.start, end: found.end }, said])
     held.set(found.path, at)
   }
   const changes = new Map<string, string>()
@@ -95,7 +132,7 @@ export function tokenSaying(one: Tokening, made: Binding, dry: boolean): readonl
   const left = made.still.flatMap((held) => held.lines.map((line) => `  ${held.path}:${line}`))
   return [
     `\`${one.was}\` ${dry ? "would be renamed" : "was renamed"} to \`${one.now}\`, ` +
-      `and ${one.path} exports it`,
+      `and ${one.path} carries it`,
     `${counted(paths.length, "file")} ${were(paths.length, dry)} respelled`,
     ...(dry ? paths.map((path) => `  ${path}`) : []),
     left.length === 0

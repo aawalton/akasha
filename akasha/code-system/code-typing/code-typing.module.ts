@@ -61,6 +61,10 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A name a file keeps to itself is found among the statements it stands under.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name shadowing an imported one inside a scope is left as it stands.",
     },
     {

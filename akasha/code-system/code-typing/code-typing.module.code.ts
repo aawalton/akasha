@@ -156,6 +156,22 @@ export function declarationsNamed(typing: Typing, path: string, key: string): re
   return found
 }
 
+export function declaredNamed(typing: Typing, path: string, name: string): readonly ts.Node[] {
+  const source = typing.sourceAt(path)
+  if (source === null) return []
+  const found: ts.Node[] = []
+  for (const one of source.statements) {
+    if (ts.isFunctionDeclaration(one) && one.name?.text === name) found.push(one)
+    if (ts.isTypeAliasDeclaration(one) && one.name.text === name) found.push(one)
+    if (ts.isInterfaceDeclaration(one) && one.name.text === name) found.push(one)
+    if (!ts.isVariableStatement(one)) continue
+    for (const held of one.declarationList.declarations) {
+      if (ts.isIdentifier(held.name) && held.name.text === name) found.push(held)
+    }
+  }
+  return found
+}
+
 export function namingOf(
   typing: Typing,
   root: string,
