@@ -1,0 +1,6 @@
+{
+  "name": "@akasha/service",
+  "private": true,
+  "type": "module",
+  "exports": {}
+}
