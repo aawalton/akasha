@@ -149,6 +149,7 @@ export function importing(root: string, target: string, importers: readonly stri
     target,
     importers.map((path) => ({ path }))
   )
+  pathFiled(root, target, [{ path: target, id: mintedId(target) }])
   stampedIn(root, { commit: head(root), tree: TREE, settled: [] })
 }
 
