@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { noPathsFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   claiming,
@@ -32,6 +31,8 @@ const NEW = "01a04ef8-1a07-7004-8000-000000000004"
 
 const UP_AT = "akasha/up.page-type.ts"
 
+const TYPE_AT = "akasha/types/domain.page-type.ts"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -50,8 +51,8 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
 function rooted(): string {
   const root = scratch.rootFor("akasha-declared-")
   founded(root)
-  noPathsFiled(root)
   typed(root, "domain", "page")
+  claiming(root, TYPE_AT, TYPE_AT, "id-domain")
   typed(root, "page-property", "domain")
   typed(root, "relation-property", "page-property")
   typed(root, "record-property", "page-property")
