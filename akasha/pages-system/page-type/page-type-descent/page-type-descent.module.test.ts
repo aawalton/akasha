@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { indexIn } from "../../indexes/index-reading/index-reading.module.code.ts"
+import { standingFiled } from "../../indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { kindsUnder, standingAbove } from "./page-type-descent.module.code.ts"
 
 const scratch = scratchWorld()
@@ -11,9 +11,7 @@ afterAll(scratch.sweep)
 
 function typed(root: string, slug: string, above: string | null): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
-  const at = join(indexIn(root), `identity/page-type/slug/${slug}.jsonl`)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, `${JSON.stringify({ path, id: `id-${slug}` })}\n`)
+  standingFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = above === null ? "null" : JSON.stringify(`page-type/${above}`)
