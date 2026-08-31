@@ -2,6 +2,7 @@ import type { PageType } from "../../pages-system/page-type/page-type.page-type.
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.file-property.ts"
+import type { DevelopmentTeam } from "./properties/development-team.text-property.ts"
 import type { DisplayName } from "./properties/display-name.text-property.ts"
 import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
@@ -10,6 +11,7 @@ import type { WebEntry } from "./properties/web-entry.file-property.ts"
 export type IosApp = WorkspacePackage & {
   bundleId: BundleId
   capacitorConfig: CapacitorConfig
+  developmentTeam: DevelopmentTeam
   displayName: DisplayName
   gitIgnore: GitIgnore
   iconDrawing?: IconDrawing
@@ -35,12 +37,14 @@ export const iosApp = {
     "shell-script/widget-components",
     "shell-script/write-capacitor-config",
     "text-property/bundle-id",
+    "text-property/development-team",
     "text-property/display-name",
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
     { pagePropertySlug: "bundle-id", required: true, many: false },
     { pagePropertySlug: "capacitor-config", required: true, many: false },
+    { pagePropertySlug: "development-team", required: true, many: false },
     { pagePropertySlug: "display-name", required: true, many: false },
     { pagePropertySlug: "git-ignore", required: true, many: false },
     { pagePropertySlug: "icon-drawing", required: false, many: false },
@@ -74,6 +78,10 @@ export const iosApp = {
     {
       invariantKind: "gap",
       statement: "Every script an app's manifest names stands in akasha.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every program an app builds is signed for the one team the app names.",
     },
     {
       invariantKind: "constraint",

@@ -8,6 +8,7 @@ export const alanwalton = {
   manifest: "json",
   bundleId: "com.alanwalton.app",
   capacitorConfig: "json",
+  developmentTeam: "M6AN6NM6FL",
   displayName: "alanwalton",
   gitIgnore: "gitignore",
   iconDrawing: "svg",

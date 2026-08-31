@@ -8,6 +8,7 @@ export const smilingjenny = {
   manifest: "json",
   bundleId: "me.smilingjenny.app",
   capacitorConfig: "json",
+  developmentTeam: "M6AN6NM6FL",
   displayName: "Smiling Jenny",
   gitIgnore: "gitignore",
   webEntry: "html",

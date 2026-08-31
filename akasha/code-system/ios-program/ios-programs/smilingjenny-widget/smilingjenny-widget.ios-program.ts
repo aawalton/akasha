@@ -5,6 +5,7 @@ export const smilingjennyWidget = {
   pageTypeSlug: "ios-program",
   slug: "smilingjenny-widget",
   definition: "the tiles on Jenny's home screen",
+  bundleId: "me.smilingjenny.app.widgets",
   infoPlist: "plist",
   componentSlugs: [
     "ios-component/categorize-ring",
@@ -19,4 +20,5 @@ export const smilingjennyWidget = {
     "ios-component/surplus-ring",
     "ios-component/tier",
   ],
+  profileName: "smilingjenny widget App Store",
 } as const satisfies IosProgram

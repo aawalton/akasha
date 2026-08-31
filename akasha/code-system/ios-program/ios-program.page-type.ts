@@ -1,12 +1,16 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { BundleId } from "../ios-app/properties/bundle-id.text-property.ts"
 import type { ComponentSlugs } from "./properties/component-slugs.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"
 import type { InfoPlist } from "./properties/info-plist.file-property.ts"
 import type { Main } from "./properties/main.named-file-property.ts"
+import type { ProfileName } from "./properties/profile-name.text-property.ts"
 
 export type IosProgram = Domain & {
+  bundleId?: BundleId
   componentSlugs?: ComponentSlugs
+  profileName?: ProfileName
   main?: Main
   infoPlist?: InfoPlist
   entitlements?: Entitlements
@@ -29,10 +33,13 @@ export const iosProgram = {
     "ios-program/smilingjenny-widget",
     "named-file-property/main",
     "relation-property/component-slugs",
+    "text-property/profile-name",
   ],
   extendsSlug: "page-type/domain",
   properties: [
+    { pagePropertySlug: "bundle-id", required: false, many: false },
     { pagePropertySlug: "component-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "profile-name", required: false, many: false },
     { pagePropertySlug: "main", required: false, many: false },
     { pagePropertySlug: "info-plist", required: false, many: false },
     { pagePropertySlug: "entitlements", required: false, many: false },
@@ -61,6 +68,14 @@ export const iosProgram = {
     {
       invariantKind: "constraint",
       statement: "A component no program names is compiled into nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program Apple signs states the profile it is signed against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A program shipped apart from the app that carries it states its own name.",
     },
   ],
 } as const satisfies PageType

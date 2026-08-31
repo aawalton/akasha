@@ -6,4 +6,5 @@ export const alanwaltonApp = {
   slug: "alanwalton-app",
   definition: "the web view Alan's phone opens",
   entitlements: "entitlements",
+  profileName: "alanwalton app App Store",
 } as const satisfies IosProgram
