@@ -25,7 +25,10 @@
       ]
     },
     "composite": true,
-    "emitDeclarationOnly": true
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "rootDir": "../.."
   },
   "references": [
     {

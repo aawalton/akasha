@@ -5,6 +5,7 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "declarationDir": "dist",
+    "rootDir": "../..",
     "lib": ["esnext"],
     "types": ["@types/bun"]
   },
