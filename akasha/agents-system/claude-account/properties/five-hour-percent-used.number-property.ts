@@ -9,4 +9,10 @@ export const fiveHourPercentUsed = {
   propertySlug: "five-hour-percent-used",
   definition: "how much of the five-hour allowance is spent",
   max: 100,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An account that has spent its seven-day window has spent its five-hour one.",
+    },
+  ],
 } as const satisfies NumberProperty
