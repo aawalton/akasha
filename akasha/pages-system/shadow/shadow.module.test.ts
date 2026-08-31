@@ -4,9 +4,14 @@ import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { put, stands } from "../../testing-system/putting/putting.module.code.ts"
+import { readingIn } from "../indexes/index-reading/index-reading.module.code.ts"
+import {
+  everythingRead,
+  rebuiltIn,
+  schemaFiled,
+} from "../indexes/index-reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
-import { beneath, indexIn, readingAt } from "../indexes/index-surface/index-surface.module.code.ts"
-import { indexingAt, rebuiltFrom } from "../indexes/indexing/indexing.module.code.ts"
+import { keepingIn } from "../indexes/indexing/indexing.module.code.ts"
 import {
   aType,
   bodyOf,
@@ -53,7 +58,7 @@ function seeded(): string {
   const repo = scratch.rootFor("akasha-shadow-")
   for (const [at, value] of STANDING) put(repo, join(AKASHA, at), bodyOf(value))
   for (const [at, body] of BODIES) put(repo, join(AKASHA, at), body)
-  rebuiltFrom(join(repo, AKASHA), indexIn(repo), repo)
+  rebuiltIn(repo, AKASHA)
   return repo
 }
 
@@ -121,7 +126,7 @@ function landedInto(root: string, changes: readonly FileEdit[]): string {
     const bytes = standing(one.path)
     before.set(one.path, bytes === null ? null : new TextDecoder().decode(bytes))
   }
-  const indexing = indexingAt(indexIn(twin), twin)
+  const indexing = keepingIn(twin)
   for (const one of changes) {
     const was = before.get(one.path) ?? null
     if (one.body === null) {
@@ -136,24 +141,6 @@ function landedInto(root: string, changes: readonly FileEdit[]): string {
   return twin
 }
 
-function wholeOf(reading: Reading): Record<string, unknown> {
-  const said: Record<string, unknown> = {}
-  const walk = (at: string): undefined => {
-    const listing = [...reading.listing(at)].sort((one, two) =>
-      one.name < two.name ? -1 : one.name > two.name ? 1 : 0
-    )
-    said[`${at}/`] = listing.map((one) => `${one.name}${one.directory ? "/" : ""}`)
-    for (const one of listing) {
-      const next = beneath(at, one.name)
-      said[`${next}?`] = reading.holds(next)
-      if (one.directory) walk(next)
-      else said[next] = reading.lines(next)
-    }
-  }
-  walk("")
-  return said
-}
-
 function shadowOf(cast: Cast): Reading {
   if ("refused" in cast) throw new Error(cast.refused)
   return cast.shadow.reading
@@ -163,28 +150,28 @@ test("the shadow answers exactly what the index answers once that change has rea
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  expect(wholeOf(reading)).toEqual(wholeOf(readingAt(indexIn(twin))))
+  expect(everythingRead(reading)).toEqual(everythingRead(readingIn(twin)))
 })
 
 test("the change really moves the index, so the equality is not an equality of two idle answers", () => {
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
-  expect(wholeOf(readingAt(indexIn(twin)))).not.toEqual(wholeOf(readingAt(indexIn(repo))))
+  expect(everythingRead(readingIn(twin))).not.toEqual(everythingRead(readingIn(repo)))
 })
 
 test("an entry file several pages name comes back with every line the landing leaves", () => {
   const repo = seeded()
   const at = "import/path/akasha/x.ts.jsonl"
-  expect(readingAt(indexIn(repo)).lines(at).length).toBe(3)
+  expect(readingIn(repo).lines(at).length).toBe(3)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.lines(at)).toEqual(['{"path":"akasha/p.ts"}', '{"path":"akasha/s.ts"}'])
-  expect(reading.lines(at)).toEqual(readingAt(indexIn(landedInto(repo, CHANGES))).lines(at))
+  expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
 })
 
 test("a slug two pages carry loses only the line of the page taken away", () => {
   const repo = seeded()
   const at = "identity/domain/slug/same.jsonl"
-  expect(readingAt(indexIn(repo)).lines(at).length).toBe(2)
+  expect(readingIn(repo).lines(at).length).toBe(2)
   expect(shadowOf(shadowFor(changeOver(repo, CHANGES))).lines(at)).toEqual([
     `{"path":"akasha/two/same.domain.ts","id":"${idOf("f")}"}`,
   ])
@@ -213,16 +200,14 @@ function seededNaming(): string {
   put(repo, join(AKASHA, namingAt), bodyOf(named))
   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
   put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
-  rebuiltFrom(join(repo, AKASHA), indexIn(repo), repo)
+  rebuiltIn(repo, AKASHA)
   return repo
 }
 
 test("a property the change stops making unique loses the identity filed for a page outside it", () => {
   const repo = seededNaming()
   const at = "identity/page/name/shared.jsonl"
-  expect(readingAt(indexIn(repo)).lines(at)).toEqual([
-    `{"path":"akasha/${SHARED_AT}","id":"${idOf("k")}"}`,
-  ])
+  expect(readingIn(repo).lines(at)).toEqual([`{"path":"akasha/${SHARED_AT}","id":"${idOf("k")}"}`])
   const reading = shadowOf(shadowFor(changeOver(repo, [aChange(NAME_AT, naming(null))])))
   expect(reading.lines(at)).toEqual([])
   expect(reading.holds(at)).toBe(false)
@@ -241,10 +226,10 @@ test("a directory the change empties is not listed, and one it fills is", () => 
 test("a relation through a property the same change declares is filed, as a landing files it", () => {
   const repo = seeded()
   const at = `relation/page/id/${idOf("g")}/note/${idOf("b")}.jsonl`
-  expect(readingAt(indexIn(repo)).holds(at)).toBe(false)
+  expect(readingIn(repo).holds(at)).toBe(false)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   expect(reading.lines(at)).toEqual(['{"path":"akasha/b.domain.ts"}'])
-  expect(reading.lines(at)).toEqual(readingAt(indexIn(landedInto(repo, CHANGES))).lines(at))
+  expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
 })
 
 test("a page of a page type the same change declares stands in the shadow as it stands in a landing", () => {
@@ -252,7 +237,7 @@ test("a page of a page type the same change declares stands in the shadow as it 
   const twin = landedInto(repo, CHANGES)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
   const at = "identity/tag/slug/h.jsonl"
-  expect(reading.lines(at)).toEqual(readingAt(indexIn(twin)).lines(at))
+  expect(reading.lines(at)).toEqual(readingIn(twin).lines(at))
 })
 
 test("a body the change carries is the body the shadow reads a page from", () => {
@@ -275,17 +260,20 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
   const cast = shadowFor(change)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(asked).toBe(0)
-  expect(wholeOf(cast.shadow.reading)).toEqual(wholeOf(readingAt(indexIn(repo))))
+  expect(everythingRead(cast.shadow.reading)).toEqual(everythingRead(readingIn(repo)))
 })
 
 test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {
   const repo = scratch.rootFor("akasha-broken-")
-  put(
-    indexIn(repo),
-    "schema/page-property/text-property/slug/held.jsonl",
-    '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,' +
-      '"slug":"held","propertySlug":"held"}\n'
-  )
+  schemaFiled(repo, "text-property", "held", [
+    {
+      pageTypeSlug: "text-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "held",
+      propertySlug: "held",
+    },
+  ])
   const cast = shadowFor(changeOver(repo, [aChange("b.domain.ts", { id: idOf("b") })]))
   expect("refused" in cast).toBe(true)
   expect("shadow" in cast).toBe(false)

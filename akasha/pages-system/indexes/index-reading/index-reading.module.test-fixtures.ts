@@ -22,7 +22,7 @@ import {
   stampKept,
   stampTaken,
 } from "../index-stamp/index-stamp.module.code.ts"
-import { indexIn, overlaidOn } from "../index-surface/index-surface.module.code.ts"
+import { beneath, indexIn, overlaidOn } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { readingIn } from "./index-reading.module.code.ts"
 
@@ -206,6 +206,24 @@ export function readingLaidOver(
 
 export function everythingFiled(root: string): readonly string[] {
   return everyFileUnder(indexIn(root))
+}
+
+export function everythingRead(reading: Reading): Record<string, unknown> {
+  const said: Record<string, unknown> = {}
+  const walk = (at: string): undefined => {
+    const listing = [...reading.listing(at)].sort((one, two) =>
+      one.name < two.name ? -1 : one.name > two.name ? 1 : 0
+    )
+    said[`${at}/`] = listing.map((one) => `${one.name}${one.directory ? "/" : ""}`)
+    for (const one of listing) {
+      const next = beneath(at, one.name)
+      said[`${next}?`] = reading.holds(next)
+      if (one.directory) walk(next)
+      else said[next] = reading.lines(next)
+    }
+  }
+  walk("")
+  return said
 }
 
 export function besideTheIndex(root: string): readonly string[] {
