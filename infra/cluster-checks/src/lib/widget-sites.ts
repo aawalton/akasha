@@ -12,7 +12,16 @@ export const WIDGET_SOURCE_GLOB = WIDGET_SOURCE_GLOBS.join(" and ")
 
 export const SPACING_SWIFT_BASENAME = "spacing.ios-component.swift.swift"
 
-export const WIDGET_SEAM_GLOB = "../akasha/native-shell/*/scripts/apply-ios-seam.sh"
+// Seam scripts stand in two places while the shells move into akasha: Jenny's is a
+// shell-script page beside her app package, Alan's and atlas's are still under
+// native-shell/. Both are globbed, so moving one does not quietly shrink what this
+// check reads — a narrower glob returns fewer files and reports nothing about it.
+export const WIDGET_SEAM_GLOBS: readonly string[] = [
+  "../akasha/native-shell/*/scripts/apply-ios-seam.sh",
+  "../akasha/akasha/code-system/ios-app/ios-apps/*/shell-scripts/*-ios-seam/*.shell-script.shell.sh",
+]
+
+export const WIDGET_SEAM_GLOB = WIDGET_SEAM_GLOBS.join(" and ")
 
 export interface WidgetSite {
   readonly dir: string
@@ -206,7 +215,7 @@ export function judgeWidgetScope(args: {
       continue
     }
     violations.push({
-      message: `${dir} holds widget sources and this check neither judges it against the spacing scale nor says why it does not; give it a ${SPACING_SWIFT_BASENAME}, or have a shell's ${WIDGET_SEAM_GLOB.split("/").pop()} join it to a compile unit that holds one, or add a WIDGETS_OUTSIDE_THE_SCALE row saying what a green here does not speak for`,
+      message: `${dir} holds widget sources and this check neither judges it against the spacing scale nor says why it does not; give it a ${SPACING_SWIFT_BASENAME}, or have a shell's seam script join it to a compile unit that holds one, or add a WIDGETS_OUTSIDE_THE_SCALE row saying what a green here does not speak for`,
       reason: "widget-unjudged",
       at: dir,
     })

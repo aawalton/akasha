@@ -20,7 +20,7 @@ import {
   isJudged,
   judgeWidgetScope,
   SPACING_SWIFT_BASENAME,
-  WIDGET_SEAM_GLOB,
+  WIDGET_SEAM_GLOBS,
   WIDGET_SOURCE_GLOBS,
   WIDGETS_OUTSIDE_THE_SCALE,
   type WidgetScopeViolation,
@@ -68,7 +68,7 @@ function main(): undefined {
   )
 
   const joins = deriveSeamJoins(
-    findFiles({ cwd: repoRoot, patterns: [WIDGET_SEAM_GLOB], absolute: false }).map((path) => ({
+    findFiles({ cwd: repoRoot, patterns: WIDGET_SEAM_GLOBS, absolute: false }).map((path) => ({
       path,
       text: readFileSync(`${repoRoot}/${path}`, "utf-8"),
     }))

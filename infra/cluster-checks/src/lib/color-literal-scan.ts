@@ -30,11 +30,14 @@ const EXEMPT_SEGMENTS: ReadonlySet<string> = new Set([
 
 const DESIGN_HOME_PREFIX = "shared/design-"
 
-const NATIVE_SHELL_BUILT_ARTIFACT_PREFIX = "native-shell/alanwalton/www/"
+// A shell's www/ holds what a build put there — a staged SPA bundle for one shell, a
+// copied boot page for the other — and neither is authored. Matched under ios-apps
+// rather than at one shell's old path, so it keeps holding as shells move in.
+const NATIVE_SHELL_BUILT_ARTIFACT_RE = /^akasha\/code-system\/ios-app\/ios-apps\/[^/]+\/www\//
 
 export function shouldScanColorFile(repoRelPath: string): boolean {
   if (repoRelPath.startsWith(DESIGN_HOME_PREFIX)) return false
-  if (repoRelPath.startsWith(NATIVE_SHELL_BUILT_ARTIFACT_PREFIX)) return false
+  if (NATIVE_SHELL_BUILT_ARTIFACT_RE.test(repoRelPath)) return false
   if (repoRelPath === RULE_HOME_PATH) return false
   if (!/\.(css|tsx?)$/.test(repoRelPath)) return false
   const base = repoRelPath.slice(repoRelPath.lastIndexOf("/") + 1)

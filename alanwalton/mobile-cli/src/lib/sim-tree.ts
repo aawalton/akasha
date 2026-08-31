@@ -1,12 +1,19 @@
 import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
-import { join, normalize } from "node:path"
+import { join } from "node:path"
 import { InputError } from "@shared/errors-core/exit"
 import { type MobileApp, shellRepoPath as shellRepoPathOf } from "./apps"
 import { MACBOOK } from "./host"
 import { rsyncToHost, runSshCapture } from "./ssh"
 
-const SEAM_SHARED_DIRS_FROM_SHELL: readonly string[] = ["../../ios-seam", "../../akasha/code-system/ios-component/ios-components"]
+// The shared seam scripts and the iOS components stand at fixed places in akasha,
+// so they are named from the repo root rather than reached out of the shell package.
+// Written as "../../…" they answered to wherever the shell happened to sit, and both
+// resolved to nothing the moment the shells moved into akasha.
+const SEAM_SHARED_REPO_PATHS: readonly string[] = [
+  "akasha/code-system/ios-app/shell-scripts",
+  "akasha/code-system/ios-component/ios-components",
+]
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
 
@@ -23,13 +30,8 @@ export function shellRepoPath(app: MobileApp): string {
   return shellRepoPathOf(app).path
 }
 
-export function seamSharedDirsUnder(nativeShellRepoPath: string): readonly string[] {
-  return SEAM_SHARED_DIRS_FROM_SHELL.map((rel) => normalize(join(nativeShellRepoPath, rel)))
-}
-
 export function simRunSourceRepoPaths(app: MobileApp): readonly string[] {
-  const shell = shellRepoPath(app)
-  return [shell, ...seamSharedDirsUnder(shell)]
+  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS]
 }
 
 export function simRunNativeShellDir(app: MobileApp): string {
@@ -56,21 +58,25 @@ export async function deliverSimRunTree(opts: {
   const { app, repoRoot, report } = opts
   const root = simRunRootRel(app)
   const wanted = simRunSourceRepoPaths(app)
-  const present = wanted.filter((rel) => existsSync(join(repoRoot, rel)))
-  if (present.length === 0) {
+  // EVERY path named here or none. Delivering the ones that happen to exist was a
+  // silent narrowing: a missing components directory or seam script came back as a
+  // swiftc failure on the macbook, hundreds of lines into an Xcode log, for a reason
+  // that reads as nothing to do with what was not sent.
+  const missing = wanted.filter((rel) => !existsSync(join(repoRoot, rel)))
+  if (missing.length > 0) {
     throw new InputError(
-      `none of ${wanted.join(", ")} stands in ${repoRoot}, so there is nothing to build ${app.slug} from`
+      `${missing.join(", ")} — named among what ${app.slug} is built from, and not standing in ${repoRoot}. Nothing was delivered, because a partial tree fails on the macbook rather than here.`
     )
   }
   await runSshCapture(
     MACBOOK,
-    ["set -euo pipefail", ...present.map((rel) => `mkdir -p "$HOME/${root}/${rel}"`)].join("\n")
+    ["set -euo pipefail", ...wanted.map((rel) => `mkdir -p "$HOME/${root}/${rel}"`)].join("\n")
   )
-  for (const rel of present) {
+  for (const rel of wanted) {
     report(`  ${rel} → ${MACBOOK.host}:~/${root}/${rel}\n`)
     await rsyncToHost(MACBOOK, join(repoRoot, rel), `${root}/${rel}`, {
       excludes: DERIVED_DIR_NAMES,
     })
   }
-  return present
+  return wanted
 }

@@ -8,33 +8,38 @@ APPICONSET="ios/App/App/Assets.xcassets/AppIcon.appiconset"
 ICON_SOURCE="ios-icon/AppIcon-1024.png"
 PB="/usr/libexec/PlistBuddy"
 
-SHARED_WIDGET_SRC_DIR="../../akasha/code-system/ios-component/ios-components"
+# The akasha sources this seam reads are found from this script; everything it
+# writes is under ios/ and reached from the working directory. This script has not
+# moved into akasha yet, so it reaches in from outside — which is the allowed
+# direction — rather than answering to whatever cwd the manifest was run in.
+AKASHA_HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/../../../akasha/code-system" && pwd)"
+SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-component/ios-components"
 # Each thing this package builds is an akasha ios-program page, and the files Xcode
 # reads by a fixed name stand beside that page under names the grammar builds.
-PROGRAMS_DIR="../../akasha/code-system/ios-program/ios-programs"
+PROGRAMS_DIR="$AKASHA_HERE/ios-program/ios-programs"
 WIDGET_PROGRAM="alanwalton-widget"
 APP_PROGRAM="alanwalton-app"
 WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
 WIDGET_ENTITLEMENTS="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.entitlements.entitlements"
-SHARED_IOS_SEAM_DIR="../../ios-seam"
-if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp.sh" ]]; then
-  echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
+SHARED_IOS_SEAM_DIR="$AKASHA_HERE/ios-app/shell-scripts"
+if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh" ]]; then
+  echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
   exit 1
 fi
-# shellcheck source=ios-seam/build-stamp.sh
-. "$SHARED_IOS_SEAM_DIR/build-stamp.sh"
-if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url.sh" ]]; then
-  echo "ERROR: $SHARED_IOS_SEAM_DIR/monarch-url.sh not found — the monarch-tap relay has no link to open, and appending it without one would emit Swift that does not compile." >&2
+# shellcheck source=akasha/code-system/ios-app/shell-scripts/build-stamp/build-stamp.shell-script.shell.sh
+. "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh"
+if [[ ! -f "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh" ]]; then
+  echo "ERROR: $SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh not found — the monarch-tap relay has no link to open, and appending it without one would emit Swift that does not compile." >&2
   exit 1
 fi
-# shellcheck source=ios-seam/monarch-url.sh
-. "$SHARED_IOS_SEAM_DIR/monarch-url.sh"
-if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components.sh" ]]; then
-  echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
+# shellcheck source=akasha/code-system/ios-app/shell-scripts/monarch-url/monarch-url.shell-script.shell.sh
+. "$SHARED_IOS_SEAM_DIR/monarch-url/monarch-url.shell-script.shell.sh"
+if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh" ]]; then
+  echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
   exit 1
 fi
-# shellcheck source=ios-seam/widget-components.sh
-. "$SHARED_IOS_SEAM_DIR/widget-components.sh"
+# shellcheck source=akasha/code-system/ios-app/shell-scripts/widget-components/widget-components.shell-script.shell.sh
+. "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh"
 WIDGET_COMPONENTS="${NATIVE_SHELL_COMPONENTS:?is unset. The ios-app page names the components its widget extension compiles, and the ops mobile command running this build exports them. This script states no list of its own to fall back to.}"
 WIDGET_NAME="ValuesWidgetExtension"
 WIDGET_DEST="ios/App/${WIDGET_NAME}"
