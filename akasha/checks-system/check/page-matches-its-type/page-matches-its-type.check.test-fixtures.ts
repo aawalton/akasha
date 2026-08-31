@@ -316,6 +316,7 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
       pageTypeSlug: "text-property",
       propertySlug: "test",
       key: "test",
+      unique: null,
       declaredBy: "beside",
       required: true,
       many: false,

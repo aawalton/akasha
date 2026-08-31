@@ -67,6 +67,7 @@ test("a page type carries the properties it declares itself", () => {
       pageTypeSlug: "text-property",
       propertySlug: "plural-slug",
       key: "pluralSlug",
+      unique: null,
       declaredBy: "page-type",
       required: true,
       many: true,
