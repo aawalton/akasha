@@ -4,6 +4,7 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { noPathsFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
+  claiming,
   declaring,
   edging,
   founded,
@@ -216,6 +217,7 @@ test("a page giving up its identity is passed over rather than thrown on", () =>
   const root = rooted()
   stands(root, "domain", "held", ONE)
   identified(root, ONE, pathFor("domain", "held"))
+  claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
   const said = judged(
@@ -228,6 +230,7 @@ test("a page whose body will not load is passed over rather than thrown on", () 
   const root = rooted()
   stands(root, "domain", "held", ONE)
   identified(root, ONE, pathFor("domain", "held"))
+  claiming(root, pathFor("domain", "held"), pathFor("domain", "held"), ONE)
   const at = pathFor("domain", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")
   const said = judged(

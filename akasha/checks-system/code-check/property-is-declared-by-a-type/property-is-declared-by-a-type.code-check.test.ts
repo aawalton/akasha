@@ -4,6 +4,7 @@ import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { noPathsFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
+  claiming,
   declaring,
   edging,
   founded,
@@ -155,6 +156,7 @@ test("a page type the change takes away leaves the property it declared refused"
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   identified(root, ONE, pathFor("relation-property", "held"))
+  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   stands(root, "page-type", "over", TWO)
   identified(root, TWO, pathFor("page-type", "over"))
   edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
@@ -222,6 +224,7 @@ test("a property giving up its identity is passed over rather than thrown on", (
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   identified(root, ONE, pathFor("relation-property", "held"))
+  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const bare = new TextEncoder().encode('export const held = { slug: "held" }\n')
   const said = judged(
@@ -234,6 +237,7 @@ test("a property whose body will not load is passed over rather than thrown on",
   const root = rooted()
   stands(root, "relation-property", "held", ONE)
   identified(root, ONE, pathFor("relation-property", "held"))
+  claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   const at = pathFor("relation-property", "held")
   const broken = new TextEncoder().encode("export const held = { this is not a body\n")
   const said = judged(
