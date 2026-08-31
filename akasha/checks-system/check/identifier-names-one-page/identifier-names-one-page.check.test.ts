@@ -9,18 +9,18 @@ import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   claiming,
   declaring,
+  founded,
   identified,
   landing,
   NO_BYTES,
   pathFor,
   put,
+  typed,
 } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.check.code.ts"
 
 const TEXT = "text-property"
-
-const PAGE_TYPE = "page-type"
 
 const ONE = "01a04f76-7430-7001-8000-000000000001"
 
@@ -32,19 +32,12 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-function typed(root: string, pageTypeSlug: string): undefined {
-  standingFiled(root, PAGE_TYPE, pageTypeSlug, [
-    { path: `akasha/${pageTypeSlug}.page-type.ts`, id: `id-${pageTypeSlug}` },
-  ])
-}
-
 function rooted(): string {
   const root = scratch.rootFor("akasha-identifier-")
-  declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
-  declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
-  typed(root, "check")
-  typed(root, "module")
-  typed(root, "text-property")
+  founded(root)
+  typed(root, "check", "page", ["name"])
+  typed(root, "module", "page")
+  typed(root, TEXT, "page")
   return root
 }
 
@@ -205,7 +198,10 @@ test("two pages of a page type the change itself adds carrying one slug are refu
   const root = rooted()
   const said = judged(
     landing(root, {
-      [pathFor("page-type", "widget")]: body("page-type", "widget", THREE),
+      [pathFor("page-type", "widget")]: bytesOf(
+        `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "page-type", ` +
+          'slug: "widget", extendsSlug: "page-type/page" }\n'
+      ),
       [pathFor("widget", "one")]: body("widget", "held", ONE),
       [pathFor("widget", "two")]: body("widget", "held", TWO),
     })
