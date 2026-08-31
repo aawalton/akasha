@@ -3,11 +3,11 @@
   "functionalType": "pure",
   "version": "0.0.1",
   "private": true,
-  "description": "iOS Capacitor shell (thin WKWebView over the live alanwalton.com site) + offline-audio native seam. Built on the macbook via Xcode.",
+  "description": "iOS Capacitor shell (thin WKWebView over the live alanwalton.com site) + offline-audio native seam, written by the alanwalton-ios-seam shell script and the twenty-one it sources. Built on the macbook via Xcode.",
   "scripts": {
     "cap": "cap",
-    "ios:add": "bash ../../ios-seam/write-capacitor-config.sh && cap add ios && bash scripts/apply-ios-seam.sh",
-    "ios:sync": "bash ../../ios-seam/write-capacitor-config.sh && cap sync ios && bash scripts/apply-ios-seam.sh",
+    "ios:add": "bash shell-scripts/alanwalton-ios-add/alanwalton-ios-add.shell-script.shell.sh add",
+    "ios:sync": "bash shell-scripts/alanwalton-ios-add/alanwalton-ios-add.shell-script.shell.sh sync",
     "ios:open": "cap open ios"
   },
   "dependencies": {

@@ -59,5 +59,13 @@ export const iosApp = {
       invariantKind: "gap",
       statement: "Every script an app's manifest names stands in akasha.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "An app's icon is a picture rather than text.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "An app's icon is made at build time from a drawing that stands in akasha.",
+    },
   ],
 } as const satisfies PageType
