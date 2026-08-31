@@ -190,6 +190,10 @@ export function importsStanding(root: string): boolean {
   return existsSync(under(root, indexImport.indexName))
 }
 
+export function identitiesStandingIn(root: string, pageTypeSlug: string): boolean {
+  return existsSync(under(root, join(indexIdentity.indexName, pageTypeSlug)))
+}
+
 export function idTakenFrom(root: string, id: string): undefined {
   taking(root, join(indexIdentity.indexName, PAGE, ID, `${id}${ENDING}`))
 }
