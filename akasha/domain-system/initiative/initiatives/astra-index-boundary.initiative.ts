@@ -10,7 +10,7 @@ export const astraIndexBoundary = {
     {
       statement: "Everything outside the indexes folder asks the index a question and is answered.",
       workingMemory:
-        "Thirty-seven files outside reach `index-entries`, and what most take is a page-value reader touching no index: `Value`, `valueAt`, `valueIn`, `textAt`, `numberAt`, `slugAt`, `slugOf`, `loadedFrom`, `under`, `importedBy`. Eighteen take nothing else. Split that half into a pages-system module and six index-facing names are left: `pageTypesIn`, `schemaAt`, `filePropertiesAt`, `filePropertiesAnswered`, `pathsOf`, `Identifier`.",
+        "The page-value reader moved out to `pages-system/page/page-value`, and reaches into the package fell from thirty-seven files to nineteen. Sixteen of those are `pageTypesIn`; the rest take `filePropertiesAt`, `schemaAt`, `filePropertiesAnswered`, `pathsOf` or `Identifier`, each a question or its answer. One residue is neither: `importedBy` is path arithmetic reading no index, and belongs beside `code-specifier`.",
     },
     { statement: "A question no answer covers is answered by the indexes folder." },
     {
