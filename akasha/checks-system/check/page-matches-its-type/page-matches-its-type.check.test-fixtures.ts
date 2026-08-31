@@ -22,6 +22,7 @@ const TYPES: readonly Value[] = [
     properties: [
       { pagePropertySlug: "id", required: true, many: false },
       { pagePropertySlug: "slug", required: true, many: false },
+      { pagePropertySlug: "page-type-slug", required: true, many: false },
     ],
   },
   {
@@ -72,6 +73,22 @@ const TYPES: readonly Value[] = [
 ]
 
 const SHAPES: readonly Value[] = [
+  {
+    id: "01a0540d-0000-7000-8000-000000000017",
+    pageTypeSlug: "page-type",
+    slug: "page-type",
+    extendsSlug: "page-type/page",
+    properties: [
+      { pagePropertySlug: "extends-slug", required: false, many: false },
+      { pagePropertySlug: "properties", required: false, many: true, max: null },
+    ],
+  },
+  {
+    id: "01a0540d-0000-7000-8000-000000000018",
+    pageTypeSlug: "page-type",
+    slug: "boolean-property",
+    extendsSlug: "page-type/page",
+  },
   {
     id: "01a0540d-0000-7000-8000-000000000006",
     pageTypeSlug: "page-type",
@@ -169,6 +186,57 @@ const PROPERTIES: Record<string, Value> = {
     slug: "tally",
     propertySlug: "tally",
     max: 4,
+  },
+  "extends-slug": {
+    id: "01a0540d-0000-7000-8000-000000000019",
+    pageTypeSlug: "relation-property",
+    slug: "extends-slug",
+    propertySlug: "extends-slug",
+  },
+  "page-property-slug": {
+    id: "01a0540d-0000-7000-8000-00000000001a",
+    pageTypeSlug: "relation-property",
+    slug: "page-property-slug",
+    propertySlug: "page-property-slug",
+  },
+  required: {
+    id: "01a0540d-0000-7000-8000-00000000001b",
+    pageTypeSlug: "boolean-property",
+    slug: "required",
+    propertySlug: "required",
+  },
+  many: {
+    id: "01a0540d-0000-7000-8000-00000000001c",
+    pageTypeSlug: "boolean-property",
+    slug: "many",
+    propertySlug: "many",
+  },
+  max: {
+    id: "01a0540d-0000-7000-8000-00000000001d",
+    pageTypeSlug: "number-property",
+    slug: "max",
+    propertySlug: "max",
+    max: null,
+  },
+  total: {
+    id: "01a0540d-0000-7000-8000-00000000001e",
+    pageTypeSlug: "number-property",
+    slug: "total",
+    propertySlug: "total",
+    max: null,
+  },
+  properties: {
+    id: "01a0540d-0000-7000-8000-00000000001f",
+    pageTypeSlug: "record-property",
+    slug: "properties",
+    propertySlug: "properties",
+    properties: [
+      { pagePropertySlug: "page-property-slug", required: true, many: false },
+      { pagePropertySlug: "required", required: false, many: false },
+      { pagePropertySlug: "many", required: false, many: false },
+      { pagePropertySlug: "max", required: false, many: false },
+      { pagePropertySlug: "total", required: false, many: false },
+    ],
   },
   "page-type-slug": {
     id: "01a0540d-0000-7000-8000-000000000011",
