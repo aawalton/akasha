@@ -17,7 +17,6 @@
   "include": [
     "src/**/*.ts",
     "../../agent/commit-author.ts",
-    "../../agent/places.ts",
     "../../agent/read-record.ts",
     "../../agent/record-read.ts",
     "../../agent/writer.ts",
