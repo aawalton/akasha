@@ -38,10 +38,6 @@ export const akashaRequiredReading = {
     },
     {
       invariantKind: "gap",
-      statement: "What a seat must read is the same however much of it fits in one answer.",
-    },
-    {
-      invariantKind: "gap",
       statement: "A seat assigned an initiative reads that initiative's type.",
     },
     {
