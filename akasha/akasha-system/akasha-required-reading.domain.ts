@@ -27,5 +27,10 @@ export const akashaRequiredReading = {
       invariantKind: "departure",
       statement: "A refusal names the reading it wants and the route that records it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a seat must read is worked out from what its page states rather than listed.",
+    },
   ],
 } as const satisfies Domain
