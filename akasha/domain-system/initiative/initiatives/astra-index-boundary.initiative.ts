@@ -11,7 +11,7 @@ export const astraIndexBoundary = {
       statement:
         "What crosses the boundary is a question or its answer or the index as a change leaves it.",
       workingMemory:
-        "`Reading` crosses as a shape `index-shape` declares, Alan having dropped the constraint that barred it. What is left is `NOT_A_RELATION`, which is neither a question nor an answer: `index-relation`, `move-renaming` and `type-respelling` each carry the same loop over a page's value, skipping those three keys, asking `known` which property a key is and reaching one record deep. That rule belongs in one place and is asked of rather than copied.",
+        "`NOT_A_RELATION` is closed into `reaching`, and the index's own directories are no longer spelt outside it. What is left is `index-stamp`, which shells out to git and hands `headOf` and `changedSince` and `unlandedIn` across to `standing` and the `index` command. A commit is no question of the index and no answer of one. Where the repository's git reading lives is Alan's call, seven files shelling out to git already.",
     },
   ],
   constraints: [
