@@ -11,11 +11,10 @@ import {
   SEAT_PLACES,
   SEAT_WRITE,
 } from "./agent-page-place.ts"
+import { akashaValueOf, SUPERVISOR_PROCESS } from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
 const PAGE_SUFFIX = ".md"
-
-const SUPERVISOR_PROCESS = "supervisor-process"
 
 const FRONTMATTER_FENCE = "---"
 
@@ -68,9 +67,25 @@ export function seatPagePaths(): readonly string[] {
   return found
 }
 
+// EVERY PRESENCE DECISION IN THE FLEET STANDS ON THIS ONE READ, including the sweep's decision to
+// take a page away, so it reads both stores rather than only the one the sweep can outlive.
+//
+// The old sidecar answers while it stands, and it stands for every live seat: a supervisor writes
+// it every beat. What akasha answers for is the seat whose old sidecar has gone while its page did
+// not — which used to read as a presence that could not be established, leaving the page standing
+// and every run naming it uncertain.
+//
+// THIS TURNS SOME UNCERTAIN READS INTO DEFINITE ONES, and an absent answer is what lets the sweep
+// take a page. That is the point rather than a cost: the process key pairs a pid with its own start
+// time, so what is answered here is checked against /proc rather than trusted, and a seat nobody is
+// present in is what the sweep is for.
 export function seatHolderProcess(pagePath: string): string | null {
   const stated = readUncommitted(pagePath)?.[SUPERVISOR_PROCESS]
-  return typeof stated === "string" && stated !== "" ? stated : null
+  if (typeof stated === "string" && stated !== "") return stated
+  const id = frontmatterOf(pagePath)?.["id"]
+  if (typeof id !== "string" || id === "") return null
+  const also = akashaValueOf(id, SUPERVISOR_PROCESS)
+  return typeof also === "string" && also !== "" ? also : null
 }
 
 export function seatPresence(pagePath: string): SeatPresence {

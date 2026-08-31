@@ -1,80 +1,24 @@
-import { statSync } from "node:fs"
-import { join } from "node:path"
 import {
   type Value,
   valueAt,
 } from "../../akasha/pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  standingById,
-} from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import { onceInCall } from "../../during-call/during-call.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
-import { CARRIED, RECORDS } from "./seat-beside.ts"
+  akashaBesideOf,
+  akashaRoot,
+  akashaSeatPathForAgent,
+  besideWrittenAtMs,
+  CARRIED,
+  RECORDS,
+} from "./seat-akasha-beside.ts"
 import type { SeatRecord } from "./seat-record.ts"
 
 // What is observed of a seat stands beside its page in akasha. Reaching it through the old page
 // is what the sweep broke: taking that page away orphaned a sidecar that was still standing, and
 // every reader below it answered nothing rather than saying it could not look.
 //
-// A TRUE EMPTY AND A FAILURE MUST NOT READ ALIKE. A root holding no seat index is a root that
-// cannot be read, so it is refused. A root whose index stands but names no such seat is an
-// answer: that seat really is not there. This is the `Answer Or Refuse` directive the pages
-// system states, and the difference between this failing loudly and failing the way it just did.
-
-const PAGE_TYPE = "seat"
-
-const SEAT_DIR = "akasha/seat-system/seat/seats/"
-
-function akashaRoot(): string {
-  return rootFor(resolveRoots(), AKASHA)
-}
-
-// Refuses a root that names no seat index at all, and answers for one that does. The listing is
-// taken once per call rather than per seat, because every reader below reaches this.
-function seatsStandingInAkasha(): ReadonlyMap<string, string> {
-  return onceInCall("akasha-seat-path-by-id", () => {
-    const root = akashaRoot()
-    const found = new Map<string, string>()
-    for (const one of everyOfTypeAnswered(root, PAGE_TYPE)) {
-      if (!one.path.startsWith(SEAT_DIR)) continue
-      if (!found.has(one.id)) found.set(one.id, one.path)
-    }
-    return found
-  })
-}
-
-// The repository-relative path of the seat page carrying this agent's id, or null where akasha
-// stands but holds no such seat.
-export function akashaSeatPathForAgent(agentId: string): string | null {
-  if (agentId === "") return null
-  const held = seatsStandingInAkasha().get(agentId)
-  if (held !== undefined) return held
-  // The index answers by id across every page type, so a hit is checked to be a seat rather than
-  // trusted for its id alone.
-  const one = standingById(akashaRoot(), agentId)
-  return one !== null && one.path.startsWith(SEAT_DIR) ? one.path : null
-}
-
-// The values standing beside a seat's page in akasha, under the camelCase keys akasha declares.
-export function akashaBesideOf(agentId: string): Record<string, unknown> | null {
-  const page = akashaSeatPathForAgent(agentId)
-  if (page === null) return null
-  const held = uncommittedIn(akashaRoot(), page)
-  return held === null ? null : (held as Record<string, unknown>)
-}
-
-// The old store stamps every value it keeps and akasha keeps the value alone, so a value read
-// back from akasha is stamped with the moment its sidecar was last written. That is the newest
-// any value in it can be, which is what a stamp is read for.
-function besideWrittenAtMs(page: string): number {
-  const at = uncommittedAt(page)
-  if (at === null) return 0
-  const stood = statSync(join(akashaRoot(), at), { throwIfNoEntry: false })
-  return stood === undefined ? 0 : stood.mtimeMs
-}
+// Where a seat stands and where each of its values stands on it are held in `seat-akasha-beside`,
+// which the writer reaches too. What is here is the reading of those values back into the shapes
+// the old system's readers take.
 
 function heldAt(values: Record<string, unknown>, at: readonly string[]): unknown {
   const [one, two] = at

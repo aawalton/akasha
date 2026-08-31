@@ -13,60 +13,20 @@ import {
   removeUncommitted,
 } from "../../page/uncommitted/uncommitted.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 
 // Every write of what is observed of a seat goes through here, and is carried to both systems.
 // The store beneath takes the same calls from anything with a page path, and a dozen callers
 // reached it directly, so this is where the second write goes rather than in twelve places.
 
-export type Beside = Record<string, unknown>
-
-export type Kind = "text" | "number" | "instant"
-
-export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
-
-// What akasha declares of a seat, and where each old key stands there. A key absent from this
-// table reaches the old store alone: nothing checks an uncommitted value, so one written to
-// akasha under a name it does not declare would land and never be caught.
-//
-// The reader in `seat-akasha-read.ts` walks this same table the other way, so where a value
-// stands in akasha is stated once and the write and the read cannot drift apart.
-export // `claude-code-session-uuid` is absent because akasha commits it: it stands on the seat's page
-// there, written by the composer, rather than beside it. A value the page carries and the sidecar
-// carries too would drift, and the sidecar is the copy that goes when the page does.
-const CARRIED: Readonly<Record<string, Carried>> = {
-  "transcript-path": { at: ["transcriptPath"], kind: "text" },
-  "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
-  model: { at: ["model"], kind: "text" },
-  "context-tokens": { at: ["contextTokens"], kind: "number" },
-  "supervisor-process": { at: ["supervisorProcess"], kind: "text" },
-  "proxy-process": { at: ["proxy", "process"], kind: "text" },
-  "proxy-port": { at: ["proxy", "port"], kind: "number" },
-  "proxy-version": { at: ["proxy", "version"], kind: "text" },
-  requestedAction: { at: ["request", "action"], kind: "text" },
-  interruptMessage: { at: ["request", "message"], kind: "text" },
-  restartArmedAt: { at: ["request", "armedAt"], kind: "instant" },
-  "reexec-asked": { at: ["reExecAsk"], kind: "text" },
-}
+export type { Beside, Carried, Kind } from "./seat-akasha-beside.ts"
 
 // The one key whose stamp is half the fact rather than the moment of writing, so it is carried as a
 // record holding both halves. It was an instant alone until the 31st, which threw the source away:
 // `hold-seat-words.ts` renders that word into what a seat is told, `epoch.ts` and `read-record.ts`
 // each branch on it, and nothing re-derives how a context was come by once the moment has passed.
 const REPLACED = "context-replaced"
-
-const PENDING = "turn-pending"
-
-// The records akasha declares of a seat, and the name each stands under there. A record is carried
-// whole, so it is named here rather than in `CARRIED`, whose entries are single values.
-//
-// THIS IS THE WHOLE TEST, so a record absent from it reaches the old store alone rather than being
-// dropped by a condition written for one key. `turn-working` is absent because akasha declares no
-// such property, and writing it there would land under a name nothing checks: it is carried by
-// adding the property first and a line here second.
-export const RECORDS: Readonly<Record<string, string>> = {
-  [PENDING]: "turnPending",
-}
 
 function bare(held: unknown): unknown {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return held
