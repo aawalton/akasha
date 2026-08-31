@@ -11,5 +11,9 @@ export const derivedIdentifier = {
       invariantKind: "departure",
       statement: "A name inside a function belongs to one call rather than to the file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A parameter the body does not read opens with an underscore.",
+    },
   ],
 } as const satisfies NamePlace
