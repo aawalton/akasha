@@ -1,21 +1,18 @@
 
-import { existsSync, readdirSync, readFileSync } from "node:fs"
-
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
-import { fileStemOf } from "../../page/name/name.ts"
-import { listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
+import {
+  akashaAccountBeside,
+  akashaAccounts,
+  akashaAccountSecrets,
+  akashaAccountValues,
+} from "./claude-account-akasha.ts"
 import {
   ACCESS_KEY,
-  accountDirIn,
-  accountPage,
   EXPIRES_KEY,
-  pagesRoot,
   REFRESH_KEY,
   RESCUED_EXPIRES_KEY,
   RESCUED_KEY,
 } from "./oauth-page-push.ts"
 import type { CredentialDoc, OAuthCredential } from "./oauth-types.ts"
-import { sidecarFor, valuesIn } from "./page-secret.ts"
 
 export const SUBSCRIPTION_TYPE_KEY = "subscription-type"
 
@@ -31,7 +28,7 @@ export function credentialByAccountFromPage(
   account: string,
   logPrefix = "[oauth]"
 ): OAuthCredential | null {
-  const out = readCredentialFromPage(pagesRoot(), account)
+  const out = readCredentialFromPage(account)
   if (out.kind === "absent") {
     console.error(`${logPrefix} ${account} could not be read off its page: ${out.why}`)
     return null
@@ -48,26 +45,15 @@ export function credentialByAccountFromPage(
   }
 }
 
-export function accountsWithPages(root = pagesRoot()): readonly string[] {
-  const dir = `${root}/${accountDirIn(root)}`
-  try {
-    const names = readdirSync(dir).filter((one) => one.endsWith(".md"))
-    return [...new Set(names.map((one) => fileStemOf(one)))].sort()
-  } catch (thrown) {
-    // A directory that cannot be listed is not a fleet with no accounts in it. Callers here read
-    // the answer as a list either way, so the difference is said aloud rather than swallowed.
-    process.stderr.write(
-      `[oauth] ${dir} could not be listed, so no claude-account is answered from it: ` +
-        `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
-    )
-    return []
-  }
+// Every account standing in akasha. A root that names no claude-account index at all is refused
+// by the reader below this rather than answered as a fleet with no accounts in it.
+export function accountsWithPages(): readonly string[] {
+  return akashaAccounts()
 }
 
 export function allCredentialsFromPages(logPrefix = "[oauth]"): readonly OAuthCredential[] {
-  const root = pagesRoot()
   const read: OAuthCredential[] = []
-  for (const account of accountsWithPages(root)) {
+  for (const account of accountsWithPages()) {
     const one = credentialByAccountFromPage(account, logPrefix)
     if (one !== null) read.push(one)
   }
@@ -84,66 +70,73 @@ export interface HeldCredential {
   readonly expiresAt: number
 }
 
+// The rescued pair akasha holds beside the page. Its inner keys are akasha's own spelling, the
+// whole sidecar reading one way.
+const RESCUED_ACCESS = "accessToken"
+
+const RESCUED_REFRESH = "refreshToken"
+
+const RESCUED_EXPIRES = "expiresAtMs"
+
 export function heldBesidePage(held: Record<string, unknown> | null): HeldCredential | null {
   const under = held?.[RESCUED_KEY]
   if (typeof under !== "object" || under === null || Array.isArray(under)) return null
   const at = under as Record<string, unknown>
-  const accessToken = at[ACCESS_KEY]
-  const refreshToken = at[REFRESH_KEY]
-  const stated = at[RESCUED_EXPIRES_KEY]
+  const accessToken = at[RESCUED_ACCESS] ?? at[ACCESS_KEY]
+  const refreshToken = at[RESCUED_REFRESH] ?? at[REFRESH_KEY]
+  const stated = at[RESCUED_EXPIRES] ?? at[RESCUED_EXPIRES_KEY]
   if (typeof accessToken !== "string" || accessToken === "") return null
   if (typeof refreshToken !== "string" || refreshToken === "") return null
   if (typeof stated !== "number" || !Number.isFinite(stated)) return null
   return { accessToken, refreshToken, expiresAt: stated }
 }
 
-export function readCredentialFromPage(root: string, account: string): PageCredential {
-  try {
-    const relPath = accountPage(account, root)
-    const at = `${root}/${relPath}`
-    if (!existsSync(at)) {
-      return { kind: "absent", why: `no page stands at ${relPath}` }
-    }
+function textOf(stated: Record<string, unknown>, key: string): string | null {
+  const held = stated[key]
+  return typeof held === "string" && held !== "" ? held : null
+}
 
-    const sidecar = sidecarFor(relPath)
-    if (sidecar === null) {
-      return { kind: "absent", why: `${relPath} names no sops file beside it` }
-    }
-    let cipher: string
+function listOf(stated: Record<string, unknown>, key: string): readonly string[] {
+  const held = stated[key]
+  return Array.isArray(held) ? held.filter((one): one is string => typeof one === "string") : []
+}
+
+export function readCredentialFromPage(account: string): PageCredential {
+  try {
+    const stated = akashaAccountValues(account)
+    if (stated === null) return { kind: "absent", why: `no page stands for \`${account}\`` }
+
+    let secrets: ReadonlyMap<string, string> | null
     try {
-      cipher = readFileSync(`${root}/${sidecar}`, "utf8")
+      secrets = akashaAccountSecrets(account)
     } catch (thrown) {
-      return { kind: "absent", why: `${sidecar} could not be read: ${said(thrown)}` }
+      // A sops file that stands and will not decrypt is not an account holding no token. Saying so
+      // is what parts a machine missing its age key from an account nobody has signed in to.
+      return { kind: "absent", why: said(thrown) }
     }
-    const held = valuesIn(root, sidecar, cipher)
-    if (held.values === null) {
-      return { kind: "absent", why: held.why }
+    if (secrets === null) {
+      return { kind: "absent", why: `\`${account}\` names no sops file beside its page` }
     }
-    const accessToken = held.values.get(ACCESS_KEY)
-    const refreshToken = held.values.get(REFRESH_KEY)
+    const accessToken = secrets.get(ACCESS_KEY)
+    const refreshToken = secrets.get(REFRESH_KEY)
     if (accessToken === undefined || refreshToken === undefined) {
       return {
         kind: "absent",
-        why: `${sidecar} holds no \`${ACCESS_KEY}\` or no \`${REFRESH_KEY}\``,
+        why: `the sops file beside \`${account}\` holds no \`${ACCESS_KEY}\` or no \`${REFRESH_KEY}\``,
       }
     }
 
-    const uncommitted = readUncommitted(at)
-    const stated = uncommitted?.[EXPIRES_KEY]
-    const expiresAt = typeof stated === "string" ? Date.parse(stated) : Number.NaN
+    const held = akashaAccountBeside(account)
+    const saidAt = held?.[EXPIRES_KEY]
+    const expiresAt = typeof saidAt === "string" ? Date.parse(saidAt) : Number.NaN
     if (!Number.isFinite(expiresAt)) {
       return {
         kind: "absent",
-        why: `${relPath} states no \`${EXPIRES_KEY}\` that reads as an instant, and a credential without one cannot be judged expired`,
+        why: `nothing beside \`${account}\` states an \`${EXPIRES_KEY}\` that reads as an instant, and a credential without one cannot be judged expired`,
       }
     }
 
-    const fm = parseFrontmatter(readFileSync(at, "utf8"))
-    if (fm.error !== null) {
-      return { kind: "absent", why: `${relPath} does not parse: ${fm.error}` }
-    }
-
-    const rescued = heldBesidePage(uncommitted)
+    const rescued = heldBesidePage(held)
     const standing =
       rescued !== null && rescued.expiresAt > expiresAt
         ? rescued
@@ -156,9 +149,9 @@ export function readCredentialFromPage(root: string, account: string): PageCrede
         accessToken: standing.accessToken,
         refreshToken: standing.refreshToken,
         expiresAt: standing.expiresAt,
-        scopes: listField(fm, SCOPES_KEY),
-        subscriptionType: textField(fm, SUBSCRIPTION_TYPE_KEY),
-        rateLimitTier: textField(fm, RATE_LIMIT_TIER_KEY),
+        scopes: listOf(stated, SCOPES_KEY),
+        subscriptionType: textOf(stated, SUBSCRIPTION_TYPE_KEY),
+        rateLimitTier: textOf(stated, RATE_LIMIT_TIER_KEY),
       },
     }
   } catch (thrown) {

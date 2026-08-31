@@ -13,7 +13,7 @@ export function writePacingSnapshot(
   root = pagesRoot()
 ): void {
   try {
-    const state = accountStateFromPage(account, root)
+    const state = accountStateFromPage(account)
     const sevenDayUtilization = state === null ? null : state.sevenDayUtil
     const sevenDayResetsAt = instantOf(state?.sevenDayResetsAt ?? null)
     const fiveHourResetsAt = instantOf(state?.fiveHourResetsAt ?? null)

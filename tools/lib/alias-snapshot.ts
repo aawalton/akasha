@@ -37,7 +37,7 @@ export function syncAliasSnapshotFromPages(
   root = pagesRoot()
 ): readonly AliasEntry[] {
   const entries = sortAliasEntries(
-    [...aliasIndexesFromPages(root)].map(([account, aliasIndex]) => ({ account, aliasIndex }))
+    [...aliasIndexesFromPages()].map(([account, aliasIndex]) => ({ account, aliasIndex }))
   )
   writeAliasSnapshot(entries, path)
   return entries

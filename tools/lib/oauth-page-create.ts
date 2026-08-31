@@ -1,7 +1,7 @@
-import { existsSync } from "node:fs"
-
-import { type GatedAct, landBodies } from "./gated-landing.ts"
-import { ACCOUNT_SHAPE, accountPage, pagesRoot } from "./oauth-page-push.ts"
+import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { landInAkasha } from "./akasha-landing.ts"
+import { akashaAccountPath, akashaRoot } from "./claude-account-akasha.ts"
+import { ACCOUNT_SHAPE } from "./oauth-page-push.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"
 
@@ -33,27 +33,37 @@ export function accountTitle(account: string): string {
   return account.charAt(0).toUpperCase() + account.slice(1)
 }
 
-export function accountPageStands(account: string, root = pagesRoot()): boolean {
-  return existsSync(`${root}/${accountPage(account, root)}`)
+export const ACCOUNTS_AT = "akasha/agents-system/claude-account/claude-accounts"
+
+export function accountPageStands(account: string): boolean {
+  return akashaAccountPath(account) !== null
 }
 
+export function accountPagePath(account: string): string {
+  return `${ACCOUNTS_AT}/${account}.${PAGE_TYPE_SLUG}.ts`
+}
+
+// What an account states when it is made. The uuid, the plan, the band, the renewal day and the
+// scopes are all answered by the upstream probe at the first sign-in, so none of them is written
+// here and the page type declares none of them required.
 export function accountPageText(args: {
   readonly account: string
   readonly email: string
   readonly aliasIndex: number
   readonly id: string
 }): string {
-  const lines = [
-    "---",
-    `page-type-slug: ${PAGE_TYPE_SLUG}`,
-    `title: "${accountTitle(args.account)}"`,
-    `id: ${args.id}`,
-    `slug: ${args.account}`,
-    `email: ${args.email}`,
-    `alias-index: ${args.aliasIndex}`,
-    "---",
-  ]
-  return `${lines.join("\n")}\n`
+  return [
+    `import type { ClaudeAccount } from "../claude-account.page-type.ts"`,
+    ``,
+    `export const ${exportedAs(args.account)} = {`,
+    `  id: "${args.id}",`,
+    `  pageTypeSlug: "${PAGE_TYPE_SLUG}",`,
+    `  slug: "${args.account}",`,
+    `  email: "${args.email}",`,
+    `  aliasIndex: ${args.aliasIndex},`,
+    `} as const satisfies ClaudeAccount`,
+    ``,
+  ].join("\n")
 }
 
 export function createAccountPage(args: AccountPageCreate): PageCreate {
@@ -76,20 +86,16 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
         why: `\`${args.aliasIndex}\` is not a c-alias slot, which is a whole number from 1 up`,
       }
     }
-    const root = args.root ?? pagesRoot()
-    const relPath = accountPage(account, root)
-    if (existsSync(`${root}/${relPath}`)) return { kind: "standing", account, relPath }
+    const standing = akashaAccountPath(account)
+    if (standing !== null) return { kind: "standing", account, relPath: standing }
+    const relPath = accountPagePath(account)
 
     const id = args.id ?? Bun.randomUUIDv7()
     const text = accountPageText({ account, email: args.email, aliasIndex: args.aliasIndex, id })
 
-    const act: GatedAct = {
-      repo: "akasha",
-      writer: WRITER,
-      message: `akasha: add ${relPath}`,
-      root,
-    }
-    const landed = landBodies(act, [{ relPath, body: text }])
+    const landed = landInAkasha(akashaRoot(), WRITER, `akasha: add ${relPath}`, [
+      { relPath, body: text },
+    ])
     if (!landed.ok) return { kind: "refused", account, why: landed.why }
     return {
       kind: "created",
@@ -97,7 +103,7 @@ export function createAccountPage(args: AccountPageCreate): PageCreate {
       relPath,
       id,
       sha: landed.sha,
-      unpushed: landed.unpushed,
+      unpushed: null,
     }
   } catch (thrown) {
     return {

@@ -43,11 +43,11 @@ export default async function claudeAccountAdd(args: readonly string[]): Promise
   if (email == null || email.length === 0) throw inputError("--email is required")
 
   const root = pagesRoot()
-  if (accountPageStands(account, root)) throw inputError(`account already exists: ${account}`)
+  if (accountPageStands(account)) throw inputError(`account already exists: ${account}`)
 
-  const aliasIndex = aliasIndexOverride ?? nextAliasIndex(aliasIndexesFromPages(root))
+  const aliasIndex = aliasIndexOverride ?? nextAliasIndex(aliasIndexesFromPages())
 
-  const made = createAccountPage({ account, email, aliasIndex, root })
+  const made = createAccountPage({ account, email, aliasIndex })
   if (made.kind === "standing") throw inputError(`account already exists: ${account}`)
   if (made.kind === "refused") throw operationalError(`no page was written: ${made.why}`)
   syncAliasSnapshotFromPages()

@@ -1,13 +1,10 @@
 
-import { existsSync } from "node:fs"
-
-import { patchUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { computePacingDerivations } from "./usage-derivations.ts"
+import { holdBesideAccount } from "./claude-account-akasha.ts"
 import { backoffExpiryMs } from "./oauth-at-limit-expiry.ts"
 import { applyAtLimitMark } from "./oauth-at-limit-mark.ts"
 import { USAGE_URL } from "./oauth-constants.ts"
 import { holdMarksOnPage } from "./oauth-page-mark.ts"
-import { accountPage, pagesRoot } from "./oauth-page-push.ts"
 import { UsageResponseSchema } from "./oauth-schemas.ts"
 import type { OAuthCredential } from "./oauth-types.ts"
 import {
@@ -65,21 +62,15 @@ export async function fetchUsage(accessToken: string): Promise<UsageResponse> {
   return parseUsageResponse(await res.json())
 }
 
+// Usage is held beside the page directly rather than through a mark, so that a percentage stays a
+// number rather than being spelled as text and read back.
 function holdUsageOnPage(account: string, stated: Record<string, unknown>): void {
-  try {
-    const at = `${pagesRoot()}/${accountPage(account, pagesRoot())}`
-    if (!existsSync(at)) return
-    const held: Record<string, unknown> = {}
-    for (const [key, value] of Object.entries(stated)) {
-      if (value !== null && value !== undefined) held[key] = value
-    }
-    patchUncommitted(at, held)
-  } catch (thrown) {
-    console.error(
-      `[oauth] ${account} kept its usage off its page:`,
-      thrown instanceof Error ? thrown.message : thrown
-    )
+  const held: Record<string, unknown> = {}
+  for (const [key, value] of Object.entries(stated)) {
+    if (value !== null && value !== undefined) held[key] = value
   }
+  const wrong = holdBesideAccount(account, held)
+  if (wrong !== null) console.error(`[oauth] ${account} kept its usage off its page: ${wrong}`)
 }
 
 export async function pushPacingToPage(

@@ -3,12 +3,13 @@ export const tool = {
   repos: ["akasha"],
 } as const
 
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
-import { fileStemOf } from "../page/name/name"
+import { readFileSync, writeFileSync } from "node:fs"
 
-import { readUncommitted } from "../page/uncommitted/uncommitted.ts"
+
+
 import { ALAN_PERSON, notify } from "../tools/lib/notify.ts"
-import { accountDirIn, EXPIRES_KEY, pagesRoot } from "../tools/lib/oauth-page-push.ts"
+import { akashaAccountBeside, akashaAccounts } from "../tools/lib/claude-account-akasha.ts"
+import { EXPIRES_KEY } from "../tools/lib/oauth-page-push.ts"
 import {
   type AccountReading,
   EXPIRY_FLOOR_MS,
@@ -88,20 +89,26 @@ interface StallReading {
   readonly findings: readonly StallFinding[]
 }
 
-function readingsUnder(root: string): readonly AccountReading[] {
-  const at = `${root}/${accountDirIn(root)}`
-  if (!existsSync(at)) return []
-  return readdirSync(at)
-    .filter((one) => one.endsWith(".md"))
-    .sort()
-    .map((name) => {
-      const held = readUncommitted(`${at}/${name}`)
-      return {
-        account: fileStemOf(name),
-        held,
-        why: held === null ? "no uncommitted file stands beside its page, or none that parsed" : null,
-      }
-    })
+// Whether upkeep has stalled is ruled on by reading each account. A fleet with no accounts in it
+// is not a fleet in good health — it is a failure to look, and answering it as zero accounts
+// judged would report all clear at exactly the moment this is the only thing still watching.
+function readingsUnder(): readonly AccountReading[] {
+  const accounts = akashaAccounts()
+  if (accounts.length === 0) {
+    throw new Error(
+      "no claude-account stands in akasha, and whether upkeep has stalled is ruled on by reading " +
+        "each one, so none to read is a failure to look rather than a fleet in good health"
+    )
+  }
+  return accounts.map((account) => {
+    const held = akashaAccountBeside(account)
+    const empty = held === null || Object.keys(held).length === 0
+    return {
+      account,
+      held: empty ? null : held,
+      why: empty ? "nothing stands beside its page, or nothing that parsed" : null,
+    }
+  })
 }
 
 function buildReading(stall: UpkeepStall, observedAtMs: number): StallReading {
@@ -170,7 +177,7 @@ async function main(argv: readonly string[]): Promise<number> {
   const json = argv.includes("--json")
   const wanted = argv.includes("--notify")
 
-  const stall = stallAcross(readingsUnder(pagesRoot()), Date.now(), EXPIRES_KEY)
+  const stall = stallAcross(readingsUnder(), Date.now(), EXPIRES_KEY)
 
   if (json) {
     process.stdout.write(`${JSON.stringify(stall)}\n`)

@@ -3,8 +3,16 @@ import {
   valueAt,
 } from "../../akasha/pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { everyOfTypeAnswered } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { secretsIn } from "../../akasha/pages-system/page/page-secret/page-secret.module.code.ts"
-import { uncommittedIn } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
+import { secretAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  cipherFor,
+  secretsIn,
+} from "../../akasha/pages-system/page/page-secret/page-secret.module.code.ts"
+import {
+  dropUncommitted,
+  mergeUncommitted,
+  uncommittedIn,
+} from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
 import { propertiesOf } from "../../akasha/pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import { onceInCall } from "../../during-call/during-call.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
@@ -179,4 +187,58 @@ export function akashaAccountSecrets(account: string): ReadonlyMap<string, strin
   const page = akashaAccountPath(account)
   if (page === null) return null
   return secretsIn(akashaRoot(), page)
+}
+
+// The repository-relative path of the sops file beside an account's page.
+export function akashaSecretPath(account: string): string | null {
+  const page = akashaAccountPath(account)
+  return page === null ? null : secretAt(page)
+}
+
+// The ciphertext an account's secrets compose to, for a caller that lands it.
+export function akashaSecretCipher(
+  account: string,
+  values: ReadonlyMap<string, string>
+): { readonly text: string | null; readonly why: string } {
+  const page = akashaAccountPath(account)
+  if (page === null) return { text: null, why: `no page stands for \`${account}\`` }
+  return cipherFor(akashaRoot(), page, values)
+}
+
+// The key akasha carries a value under, for the key the old readers name it by. Null where the old
+// key names nothing akasha declares, which is a key that would be written nowhere rather than one
+// to write under a name invented here.
+export function akashaKeyOf(said: string): string | null {
+  return OBSERVED[said] ?? STATED[said] ?? null
+}
+
+// What is observed of an account, written beside its page under akasha's keys. A null value takes
+// its key away. A key naming nothing akasha declares is refused rather than written under a name
+// invented for it.
+export function holdBesideAccount(
+  account: string,
+  values: Readonly<Record<string, unknown>>
+): string | null {
+  const page = akashaAccountPath(account)
+  if (page === null) return `no page stands for \`${account}\`, and what is observed of it stands beside one`
+  const root = akashaRoot()
+  const held: Record<string, unknown> = {}
+  const dropping: string[] = []
+  for (const [said, value] of Object.entries(values)) {
+    const key = akashaKeyOf(said)
+    if (key === null) {
+      return `\`${said}\` names nothing the claude-account page type declares, so where to write it is unknown`
+    }
+    if (value === null || value === undefined) dropping.push(key)
+    else held[key] = value
+  }
+  try {
+    if (Object.keys(held).length > 0) mergeUncommitted(root, page, held)
+    if (dropping.length > 0) dropUncommitted(root, page, dropping)
+  } catch (thrown) {
+    return `what is observed of \`${account}\` was not held beside its page: ${
+      thrown instanceof Error ? thrown.message : String(thrown)
+    }`
+  }
+  return null
 }

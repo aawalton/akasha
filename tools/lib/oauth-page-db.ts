@@ -28,12 +28,12 @@ export function credentialDocFromPage(
   root = pagesRoot(),
   logPrefix = "[oauth]"
 ): CredentialDoc | null {
-  const held = readCredentialFromPage(root, account)
+  const held = readCredentialFromPage(account)
   if (held.kind === "absent") {
     console.error(`${logPrefix} ${account} could not be read off its page: ${held.why}`)
     return null
   }
-  const state = accountStateFromPage(account, root)
+  const state = accountStateFromPage(account)
   return {
     ...held.credential,
     subscriptionDisabled: state?.subscriptionDisabled ?? false,
@@ -46,7 +46,7 @@ export function allCredentialDocsFromPages(
   logPrefix = "[oauth]"
 ): CredentialDoc[] {
   const out: CredentialDoc[] = []
-  for (const account of accountsWithPages(root)) {
+  for (const account of accountsWithPages()) {
     const doc = credentialDocFromPage(account, root, logPrefix)
     if (doc !== null) out.push(doc)
   }
@@ -98,7 +98,7 @@ export function accountStateFrom(held: PageAccountState): AccountState {
 
 export function pacingFromPages(root = pagesRoot()): Map<string, AccountState> {
   const out = new Map<string, AccountState>()
-  for (const [account, held] of statesFromPages(root)) {
+  for (const [account, held] of statesFromPages()) {
     out.set(account, accountStateFrom(held))
   }
   return out

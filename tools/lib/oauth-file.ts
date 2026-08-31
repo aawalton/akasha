@@ -41,7 +41,7 @@ export async function refreshCredentialFromPage(
       fileExpiresAt = 0
     }
 
-    const held = readCredentialFromPage(pagesRoot(), account)
+    const held = readCredentialFromPage(account)
     if (held.kind === "absent") {
       console.log(`${logPrefix} Credential refresh skip for ${account}: ${held.why}`)
       return { refreshed: false, terminal: false }

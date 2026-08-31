@@ -1,18 +1,22 @@
 import { createHash } from "node:crypto"
-import { chmodSync, existsSync, readFileSync } from "node:fs"
+import { chmodSync } from "node:fs"
+import { join } from "node:path"
 
+import { uncommittedAt } from "../../akasha/pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { landInAkasha } from "./akasha-landing.ts"
 import {
-  patchUncommitted,
-  patchUncommittedUnder,
-  readUncommitted,
-  uncommittedPathFor,
-} from "../../page/uncommitted/uncommitted.ts"
-import { type GatedAct, landBodies } from "./gated-landing.ts"
-import { cipherFor, sidecarFor, valuesIn, type Values } from "./page-secret.ts"
+  akashaAccountBeside,
+  akashaAccountPath,
+  akashaAccountSecrets,
+  akashaRoot,
+  akashaSecretCipher,
+  akashaSecretPath,
+  holdBesideAccount,
+} from "./claude-account-akasha.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 import { pageFileIn } from "../../page/page-file.ts"
 import { canonicalize } from "../../repo/path/path.ts"
-import { akashaRoot } from "../../repo/roots/roots.ts"
+import { akashaRoot as repoRoot } from "../../repo/roots/roots.ts"
 
 export function accountDirIn(root: string): string {
   return placeDirOf("claude-account")
@@ -46,7 +50,7 @@ export function accountPage(account: string, root: string = pagesRoot()): string
 }
 
 export function pagesRoot(): string {
-  return canonicalize(akashaRoot())
+  return canonicalize(repoRoot())
 }
 
 export type PagePush =
@@ -71,64 +75,59 @@ export interface CredentialPagePush {
   readonly root?: string
 }
 
-function heldBy(root: string, sidecar: string): Values | string {
-  const at = `${root}/${sidecar}`
-  if (!existsSync(at)) return new Map()
-  let text: string
+function heldBy(account: string): ReadonlyMap<string, string> | string {
   try {
-    text = readFileSync(at, "utf8")
+    return akashaAccountSecrets(account) ?? new Map()
   } catch (thrown) {
-    return `${sidecar} could not be read: ${thrown instanceof Error ? thrown.message : thrown}`
+    return thrown instanceof Error ? thrown.message : String(thrown)
   }
-  const read = valuesIn(root, sidecar, text)
-  if (read.values === null) return read.why
-  return read.values
 }
 
-export function expiryHeld(root: string, relPath: string): number | null {
-  const stated = readUncommitted(`${root}/${relPath}`)?.[EXPIRES_KEY]
+export function expiryHeld(account: string): number | null {
+  const stated = akashaAccountBeside(account)?.[EXPIRES_KEY]
   if (typeof stated !== "string" || stated === "") return null
   const at = Date.parse(stated)
   return Number.isNaN(at) ? null : at
 }
 
-function holdExpiry(root: string, relPath: string, expiresAt: number): void {
-  try {
-    patchUncommitted(`${root}/${relPath}`, { [EXPIRES_KEY]: new Date(expiresAt).toISOString() })
-  } catch (thrown) {
-    process.stderr.write(
-      `page push: ${relPath} keeps its credential but not its expiry: ` +
-        `${thrown instanceof Error ? thrown.message : thrown}\n`
-    )
+function holdExpiry(account: string, expiresAt: number): void {
+  const wrong = holdBesideAccount(account, {
+    [EXPIRES_KEY]: new Date(expiresAt).toISOString(),
+  })
+  if (wrong !== null) {
+    process.stderr.write(`page push: ${account} keeps its credential but not its expiry: ${wrong}\n`)
   }
 }
 
+// The escape hatch: where the rotated pair could not be landed, it is held beside the page, which
+// no gate judges, so the next read takes it rather than the pair being lost.
 function heldBeside(
-  root: string,
-  relPath: string,
+  account: string,
   next: ReadonlyMap<string, string>,
   expiresAt: number
 ): string {
-  const at = `${root}/${relPath}`
-  try {
-    patchUncommittedUnder(at, RESCUED_KEY, {
-      [ACCESS_KEY]: next.get(ACCESS_KEY) ?? "",
-      [REFRESH_KEY]: next.get(REFRESH_KEY) ?? "",
-      [RESCUED_EXPIRES_KEY]: expiresAt,
-    })
-    chmodSync(uncommittedPathFor(at), 0o600)
-    return "the rotated pair is held beside the page, which no gate judges, and the next read takes it"
-  } catch (thrown) {
-    return `and it could not be held beside the page either, so it is gone: ${thrown instanceof Error ? thrown.message : thrown}`
+  const wrong = holdBesideAccount(account, {
+    [RESCUED_KEY]: {
+      accessToken: next.get(ACCESS_KEY) ?? "",
+      refreshToken: next.get(REFRESH_KEY) ?? "",
+      expiresAtMs: expiresAt,
+    },
+  })
+  if (wrong !== null) return `and it could not be held beside the page either, so it is gone: ${wrong}`
+  const page = akashaAccountPath(account)
+  const at = page === null ? null : uncommittedAt(page)
+  if (at !== null) {
+    try {
+      chmodSync(join(akashaRoot(), at), 0o600)
+    } catch {
+      // The pair is held either way; the mode is a narrowing rather than what keeps it.
+    }
   }
+  return "the rotated pair is held beside the page, which no gate judges, and the next read takes it"
 }
 
-function dropHeld(root: string, relPath: string): void {
-  try {
-    patchUncommitted(`${root}/${relPath}`, { [RESCUED_KEY]: null })
-  } catch {
-    return
-  }
+function dropHeld(account: string): void {
+  holdBesideAccount(account, { [RESCUED_KEY]: null })
 }
 
 function unfit(key: string, value: string): string | null {
@@ -143,15 +142,12 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
     if (!ACCOUNT_SHAPE.test(account)) {
       return { kind: "refused", account, why: `\`${account}\` is not an account name this writes a path from` }
     }
-    const root = args.root ?? pagesRoot()
-    const relPath = accountPage(account, root)
-    if (!existsSync(`${root}/${relPath}`)) {
-      return { kind: "skipped", account, why: `no page stands at ${relPath}, and a secret belongs to a page` }
+    if (akashaAccountPath(account) === null) {
+      return { kind: "skipped", account, why: `no page stands for \`${account}\`, and a secret belongs to a page` }
     }
-
-    const sidecar = sidecarFor(relPath)
+    const sidecar = akashaSecretPath(account)
     if (sidecar === null) {
-      return { kind: "refused", account, why: `${relPath} names no sops file beside it` }
+      return { kind: "refused", account, why: `\`${account}\` names no sops file beside its page` }
     }
 
     const next = new Map<string, string>([
@@ -163,7 +159,7 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
       if (wrong !== null) return { kind: "refused", account, why: wrong }
     }
 
-    const standing = expiryHeld(root, relPath)
+    const standing = expiryHeld(account)
     if (standing !== null && args.expiresAt <= standing) {
       return {
         kind: "stale",
@@ -174,54 +170,58 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
       }
     }
 
-    const held = heldBy(root, sidecar)
+    const held = heldBy(account)
     if (typeof held === "string") return { kind: "refused", account, why: held }
     for (const [key, value] of held) if (!next.has(key)) next.set(key, value)
     if (held.size === next.size && [...next].every(([key, value]) => held.get(key) === value)) {
-      holdExpiry(root, relPath, args.expiresAt)
-      dropHeld(root, relPath)
+      holdExpiry(account, args.expiresAt)
+      dropHeld(account)
       return { kind: "unchanged", account, sidecar }
     }
 
-    const composed = cipherFor(root, sidecar, next)
+    const composed = akashaSecretCipher(account, next)
     if (composed.text === null) return { kind: "refused", account, why: composed.why }
 
-    const back = valuesIn(root, sidecar, composed.text)
-    if (back.values === null) {
-      return { kind: "refused", account, why: `what was composed for ${sidecar} does not read back: ${back.why}` }
-    }
-    const unread = [...next.keys()].filter((key) => back.values.get(key) !== next.get(key))
-    if (unread.length > 0 || back.values.size !== next.size) {
-      return {
-        kind: "refused",
-        account,
-        why: `${sidecar} does not read back what it was given for ${unread.join(", ")} — nothing was written`,
-      }
-    }
-
-    const act: GatedAct = {
-      repo: "akasha",
-      writer: WRITER,
-      message: `akasha: page-push ${sidecar}`,
-      root,
-    }
-    const landed = landBodies(act, [{ relPath: sidecar, body: composed.text }])
+    const landed = landInAkasha(akashaRoot(), WRITER, `akasha: page-push ${sidecar}`, [
+      { relPath: sidecar, body: composed.text },
+    ])
     if (!landed.ok) {
       return {
         kind: "refused",
         account,
-        why: `${landed.why} — ${heldBeside(root, relPath, next, args.expiresAt)}`,
+        why: `${landed.why} — ${heldBeside(account, next, args.expiresAt)}`,
       }
     }
-    holdExpiry(root, relPath, args.expiresAt)
-    dropHeld(root, relPath)
+
+    // What stands is read back rather than what was composed, so that a sops file landing as
+    // something other than what it was given is caught here and not by the next pass finding a
+    // token it cannot use.
+    let back: ReadonlyMap<string, string> | null
+    try {
+      back = akashaAccountSecrets(account)
+    } catch (thrown) {
+      back = null
+      process.stderr.write(
+        `page push: ${sidecar} landed and would not read back: ${thrown instanceof Error ? thrown.message : thrown}\n`
+      )
+    }
+    if (back === null || [...next].some(([key, value]) => back.get(key) !== value)) {
+      return {
+        kind: "refused",
+        account,
+        why: `${sidecar} landed and does not read back what it was given — ${heldBeside(account, next, args.expiresAt)}`,
+      }
+    }
+
+    holdExpiry(account, args.expiresAt)
+    dropHeld(account)
     return {
       kind: "pushed",
       account,
       sidecar,
       digests: PUSHED_KEYS.map((key) => `${key} ${digestOf(next.get(key) ?? "")}`),
       sha: landed.sha,
-      unpushed: landed.unpushed,
+      unpushed: null,
     }
   } catch (thrown) {
     return {
