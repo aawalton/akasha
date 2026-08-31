@@ -1,4 +1,4 @@
-import { everyOfTypeAnswered } from "../../indexes/index-reading/index-reading.module.code.ts"
+import { everyOfType } from "../../indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
 import { slugOf, type Value, valueAt } from "../../page/page-value/page-value.module.code.ts"
 
@@ -20,7 +20,7 @@ export function standingAbove(
   pageOf: (path: string) => Value | null = (path) => valueAt(path, root)
 ): ReadonlyMap<string, string> {
   const above = new Map<string, string>()
-  for (const one of everyOfTypeAnswered(given, PAGE_TYPE)) {
+  for (const one of everyOfType(given, PAGE_TYPE)) {
     const value = pageOf(one.path)
     const slug = saidIn(value, SLUG)
     const said = saidIn(value, EXTENDS)

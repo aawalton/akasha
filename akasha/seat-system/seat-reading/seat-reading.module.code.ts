@@ -1,8 +1,8 @@
 import { rootOf } from "../../command-system/rooting/rooting.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  standingByIdAnswered,
-  typeSlugByIdAnswered,
+  everyOfType,
+  standingById,
+  typeSlugOf,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { type Value, valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
 
@@ -32,16 +32,16 @@ export function seatRoot(): string {
 
 export function seatPathForAgent(agentId: string, root: string = seatRoot()): string | null {
   if (agentId === "") return null
-  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, SEAT_TYPE))) {
+  for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     if (one.path.startsWith(SEAT_DIR) && one.id === agentId) return one.path
   }
-  const held = standingByIdAnswered(root, agentId)
+  const held = standingById(root, agentId)
   return held?.path.startsWith(SEAT_DIR) === true ? held.path : null
 }
 
 export function seatPathForSession(sessionUuid: string, root: string = seatRoot()): string | null {
   if (sessionUuid === "") return null
-  for (const one of everyOfTypeAnswered(root, typeSlugByIdAnswered(root, SEAT_TYPE))) {
+  for (const one of everyOfType(root, typeSlugOf(root, SEAT_TYPE))) {
     if (!one.path.startsWith(SEAT_DIR)) continue
     const held: Value | null = valueAt(one.path, root)
     if (held === null) continue

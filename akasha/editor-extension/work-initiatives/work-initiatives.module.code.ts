@@ -1,7 +1,7 @@
 import {
-  everyOfTypeAnswered,
+  everyOfType,
   idsNaming,
-  typeSlugByIdAnswered,
+  typeSlugOf,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { namedIn } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { valueAt } from "../../pages-system/page/page-value/page-value.module.code.ts"
@@ -33,8 +33,8 @@ function personaAt(root: string, path: string): string | null {
 }
 
 export function initiativesDrawn(root: string): readonly InitiativeRow[] {
-  const typeSlug = typeSlugByIdAnswered(root, INITIATIVE_TYPE)
-  const standing = everyOfTypeAnswered(root, typeSlug)
+  const typeSlug = typeSlugOf(root, INITIATIVE_TYPE)
+  const standing = everyOfType(root, typeSlug)
   const slugById = new Map<string, string>()
   for (const one of standing) {
     const slug = slugIn(one.path, typeSlug)
