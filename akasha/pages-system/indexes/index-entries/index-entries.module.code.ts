@@ -125,7 +125,7 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
 }
 
 export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, string | null> {
-  return answered(given, SCHEMA_UNDER, "which properties are held in a file", (reading) => {
+  return answered(given, "", "which properties are held in a file", (reading) => {
     const found = new Map<string, string | null>()
     for (const held of schemaAt(reading).values()) {
       if (held.fileName !== null) found.set(held.slug, held.fileName)

@@ -53,6 +53,8 @@ const ID = "id"
 
 const AT_PATH = "path"
 
+const ROOT = ""
+
 const NAMING_NONE = "an index that is missing is not an index naming none"
 
 export function indexNamed(): string {
@@ -113,7 +115,7 @@ export function standingNamed(
 ): readonly Standing[] {
   return answered(
     given,
-    IDENTITY,
+    ROOT,
     `which \`${scope}\` carries \`${said}\` as its \`${propertySlug}\``,
     (reading) => standingIn(reading, join(IDENTITY, scope, propertySlug, `${said}${ENDING}`))
   )
@@ -130,7 +132,7 @@ export function standingAt(
 export function standingById(given: string | Reading, id: string): Standing | null {
   return answered(
     given,
-    join(IDENTITY, PAGE, ID),
+    ROOT,
     `which page carries \`${id}\``,
     (reading) => standingIn(reading, join(IDENTITY, PAGE, ID, `${id}${ENDING}`))[0] ?? null
   )
@@ -148,7 +150,7 @@ export function standingAddressed(
 }
 
 export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
-  return answered(given, PATH, `what names \`${path}\``, (reading) =>
+  return answered(given, ROOT, `what names \`${path}\``, (reading) =>
     standingIn(reading, join(PATH, `${path}${ENDING}`))
   )
 }
@@ -233,9 +235,7 @@ function shapedIn(reading: Reading, named: string): Schemad {
 }
 
 export function schemaOf(given: string | Reading, named: string): Schemad {
-  return answered(given, SCHEMA, `what shape \`${named}\` has`, (reading) =>
-    shapedIn(reading, named)
-  )
+  return answered(given, ROOT, `what shape \`${named}\` has`, (reading) => shapedIn(reading, named))
 }
 
 function byPath(one: Standing, two: Standing): number {
@@ -252,13 +252,13 @@ function gatheredIn(reading: Reading, dir: string): readonly Standing[] {
 }
 
 export function everyOfType(given: string | Reading, pageTypeSlug: string): readonly Standing[] {
-  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
+  return answered(given, ROOT, `which \`${pageTypeSlug}\` pages stand`, (reading) =>
     gatheredIn(reading, join(IDENTITY, pageTypeSlug, SLUG))
   )
 }
 
 export function slugsOfType(given: string | Reading, pageTypeSlug: string): readonly string[] {
-  return answered(given, IDENTITY, `which \`${pageTypeSlug}\` slugs stand`, (reading) =>
+  return answered(given, ROOT, `which \`${pageTypeSlug}\` slugs stand`, (reading) =>
     endingIn(reading.listing(join(IDENTITY, pageTypeSlug, SLUG)))
   )
 }
@@ -270,7 +270,7 @@ export function idsNaming(
 ): readonly string[] {
   return answered(
     given,
-    RELATION,
+    ROOT,
     `which pages name \`${id}\` as their \`${propertySlug}\``,
     (reading) => endingIn(reading.listing(join(RELATION, PAGE, ID, id, propertySlug)))
   )
@@ -285,7 +285,7 @@ function underneath(reading: Reading, at: string, said: string): readonly string
 }
 
 export function everyPath(given: string | Reading): readonly string[] {
-  return answered(given, PATH, "which files stand", (reading) =>
+  return answered(given, ROOT, "which files stand", (reading) =>
     [...underneath(reading, PATH, "")].sort()
   )
 }
@@ -319,7 +319,7 @@ export type Named = {
 }
 
 export function namersOf(given: string | Reading, id: string): readonly Named[] {
-  return answered(given, RELATION, `which pages name \`${id}\``, (reading) => {
+  return answered(given, ROOT, `which pages name \`${id}\``, (reading) => {
     const dir = join(RELATION, PAGE, ID, id)
     const found: Named[] = []
     for (const property of reading.listing(dir)) {
