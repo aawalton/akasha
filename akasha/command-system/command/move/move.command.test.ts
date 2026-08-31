@@ -26,7 +26,9 @@ import {
   held,
   heldIndexed,
   heldPage,
+  heldUnindexed,
   importing,
+  MISSING,
   NAMER,
   NAMERS,
   NESTED,
@@ -190,7 +192,7 @@ test("a rename leaving an edge naming nobody is refused and lands nothing", () =
 })
 
 test("a rename the index cannot answer for is refused", () => {
-  const root = heldPage()
+  const root = heldUnindexed()
   expect(why(move(RENAME, givenIn(root)))).toContain("could not be answered")
   claiming(root, HELD, [AAAA, "01a04bed-1450-7000-8000-00000000dddd"])
   expect(why(move(RENAME, givenIn(root)))).toContain("the index answers 2 pages")
@@ -213,10 +215,7 @@ test("a refused move leaves nothing behind", () => {
 
 test("a path that is not there is refused", () => {
   const root = heldPage()
-  const said = move(
-    ["--from", "akasha/one/nowhere.module.ts", "--to", "akasha/three/nowhere.module.ts"],
-    givenIn(root)
-  )
+  const said = move(MISSING, givenIn(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("is not there")
   expect(stands(root, "akasha/three")).toBe(false)

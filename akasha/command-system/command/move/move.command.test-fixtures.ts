@@ -7,6 +7,7 @@ import {
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   importFiled,
+  indexTakenFrom,
   pathFiled,
   rebuiltIn,
   stampedIn,
@@ -35,6 +36,10 @@ export const THREE = "akasha/three/held.module.ts"
 export const DEEP = "akasha/one/deep/held.module.ts"
 
 export const PAIR = ["--from", HELD, "--to", THREE]
+
+const NOWHERE = "nowhere.module.ts"
+
+export const MISSING = ["--from", `akasha/one/${NOWHERE}`, "--to", `akasha/three/${NOWHERE}`]
 
 export const PAGE = `export const held = {
   id: "01a04bed-1450-7000-8000-00000000aaaa",
@@ -195,6 +200,12 @@ export function heldPage(): string {
 
 export function heldIndexed(): string {
   return rebuilt(heldPage())
+}
+
+export function heldUnindexed(): string {
+  const root = heldPage()
+  indexTakenFrom(root)
+  return root
 }
 
 export function oneUnsaid(): string {
