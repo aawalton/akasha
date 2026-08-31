@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const akashaSeatReading = {
+export const akashaSubagentReading = {
   id: "01a05324-954d-733a-a5d2-5404defb82b4",
   pageTypeSlug: "initiative",
-  slug: "akasha-seat-reading",
+  slug: "akasha-subagent-reading",
   domainSlug: "domain/akasha-required-reading",
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
