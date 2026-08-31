@@ -6,8 +6,8 @@ import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   declaring,
   edging,
+  founded,
   identified,
-  identifying,
   landing,
   pathFor,
   put,
@@ -35,12 +35,12 @@ afterAll(scratch.sweep)
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-keyed-")
+  founded(root)
   typed(root, "domain", "page")
   typed(root, "page-property", "domain")
   typed(root, TEXT, "page-property")
   typed(root, NUMBER, "page-property")
   typed(root, PAGE_TYPE, "domain")
-  identifying(root)
   declaring(root, "properties", { pageTypeSlug: "record-property" })
   declaring(root, "held", { pageTypeSlug: TEXT })
   return root

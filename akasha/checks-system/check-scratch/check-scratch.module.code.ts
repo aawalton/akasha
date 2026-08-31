@@ -13,6 +13,8 @@ import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
+const PAGE = "page"
+
 const SLUG = "slug"
 
 const ID = "id"
@@ -30,14 +32,26 @@ export function put(root: string, path: string, bytes: Uint8Array): Uint8Array {
   return bytes
 }
 
-export function typed(root: string, slug: string, above: string): undefined {
+function declared(slugs: readonly string[]): string {
+  return slugs
+    .map((one) => `{ pagePropertySlug: ${JSON.stringify(one)}, required: false, many: false }`)
+    .join(", ")
+}
+
+export function typed(
+  root: string,
+  slug: string,
+  above: string | null,
+  declares: readonly string[] = []
+): undefined {
   const path = `${TYPES_AT}/${slug}.${PAGE_TYPE}.ts`
   standingFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
   mkdirSync(join(root, TYPES_AT), { recursive: true })
-  const said = JSON.stringify(`${PAGE_TYPE}/${above}`)
+  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
   writeFileSync(
     join(root, path),
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
+    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
+      ` properties: [${declared(declares)}] }\n`
   )
 }
 
@@ -68,6 +82,11 @@ export function identifying(root: string): undefined {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: PAGE_TYPE,
   })
+}
+
+export function founded(root: string): undefined {
+  identifying(root)
+  typed(root, PAGE, null, [ID, SLUG, "page-type-slug"])
 }
 
 export function stands(root: string, kind: string, slug: string, id: string): undefined {
