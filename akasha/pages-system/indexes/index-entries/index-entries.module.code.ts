@@ -160,5 +160,3 @@ export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string,
   }
   return found
 }
-
-export const filePropertiesAnswered = filePropertiesAt

@@ -106,9 +106,3 @@ export function carryingOf(given: string | Reading, named: string): Carried {
   take(standing.id, null)
   return { carrying: ordered(found) }
 }
-
-export function carryingAnswered(given: string | Reading, named: string): readonly Carrying[] {
-  const said = carryingOf(given, named)
-  if ("refused" in said) throw new Error(said.refused)
-  return said.carrying
-}

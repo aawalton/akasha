@@ -169,6 +169,10 @@ export function importPartLeft(root: string, path: string, lines: readonly unkno
   written(root, join(indexImport.name, AT_PATH, `${path}${ENDING}${PART}`), lines)
 }
 
+export function nothingFiled(root: string): undefined {
+  standing(root, "")
+}
+
 export function noneOfTypeFiled(root: string, pageTypeSlug: string): undefined {
   standing(root, join(indexIdentity.name, pageTypeSlug, SLUG))
 }

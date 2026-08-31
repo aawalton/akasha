@@ -336,15 +336,3 @@ export function namersOf(given: string | Reading, id: string): readonly Named[] 
     return found
   })
 }
-
-export const everyOfTypeAnswered = everyOfType
-
-export const standingByIdAnswered = standingById
-
-export const standingByPathAnswered = standingByPath
-
-export const typeSlugByIdAnswered = typeSlugOf
-
-export function everyPathAnswered(root: string, given: string | Reading = root): readonly string[] {
-  return everyPath(given)
-}

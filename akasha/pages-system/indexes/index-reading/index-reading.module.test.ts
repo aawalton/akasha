@@ -12,12 +12,13 @@ import {
   schemaOf,
   standingAddressed,
   standingById,
-  standingByIdAnswered,
   standingByPath,
 } from "./index-reading.module.code.ts"
 import {
   idFiled,
   importFiled,
+  noPathsFiled,
+  nothingFiled,
   pathFiled,
   schemaFiled,
   standingFiled,
@@ -101,6 +102,7 @@ test("a page's own path is answered with itself", () => {
 
 test("a path no page carries is answered with nothing rather than by throwing", () => {
   const root = rootAt()
+  noPathsFiled(root)
 
   expect(standingByPath(root, "akasha/nowhere.module.ts")).toEqual([])
 })
@@ -130,6 +132,7 @@ test("every path the index files is answered, however deep the folders it files 
 
 test("a path directory that is not there is answered with nothing, the caller saying what that means", () => {
   const root = rootAt()
+  nothingFiled(root)
 
   expect(everyPath(root)).toEqual([])
 })
@@ -142,19 +145,21 @@ test("an id the index carries is answered with the page carrying it", () => {
   expect(standingById(root, B)).toBe(null)
 })
 
-test("an id the index carries is answered where the id directory stands, and one no page carries is nothing", () => {
+test("an id directory standing nowhere under a standing index is nothing rather than a refusal", () => {
   const root = rootAt()
-  idFiled(root, A, [{ path: "akasha/a.module.ts", id: A }])
+  nothingFiled(root)
 
-  expect(standingByIdAnswered(root, A)).toEqual({ path: "akasha/a.module.ts", id: A })
-  expect(standingByIdAnswered(root, B)).toBe(null)
+  expect(standingById(root, A)).toBe(null)
 })
 
-test("which page carries an id is refused when the id directory is not there, no folder being no answer", () => {
+test("every reader is refused where the index stands nowhere, whatever it was asked", () => {
   const root = rootAt()
 
-  expect(() => standingByIdAnswered(root, A)).toThrow(/identity\/page\/id/)
-  expect(() => standingByIdAnswered(root, A)).toThrow(/is not an index naming none/)
+  expect(() => standingById(root, A)).toThrow(/\.git\/data\/index/)
+  expect(() => standingById(root, A)).toThrow(/is not an index naming none/)
+  expect(() => everyPath(root)).toThrow(/is not an index naming none/)
+  expect(() => standingByPath(root, "akasha/a.module.ts")).toThrow(/is not an index naming none/)
+  expect(() => schemaOf(root, "nowhere")).toThrow(/is not an index naming none/)
 })
 
 test("a relation property is answered with the shape it is and the page type it may name", () => {
@@ -228,6 +233,7 @@ test("a name saying its page type reads that one file, and passes over another o
 
 test("a property the index does not carry is refused rather than answered as nothing", () => {
   const root = rootAt()
+  nothingFiled(root)
 
   expect(schemaOf(root, "nowhere")).toEqual({
     refused: "no page property carries the slug `nowhere`",
