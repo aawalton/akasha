@@ -62,6 +62,10 @@ export const indexes = {
       statement: "An index answers one question of the corpus.",
     },
     {
+      invariantKind: "departure",
+      statement: "A question no answer covers is answered here rather than by the caller asking.",
+    },
+    {
       invariantKind: "absence",
       statement: "A value no page carries has no file.",
     },

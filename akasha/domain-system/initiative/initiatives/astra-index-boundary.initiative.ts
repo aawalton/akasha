@@ -12,7 +12,6 @@ export const astraIndexBoundary = {
       workingMemory:
         "Every reach from outside is now a name the manifest exports. The two residues went: the edge rule moved into `index-import`, and `akasha-hooks` stopped spelling the index's layout. Thirty-odd callers that read a missing index as an empty one now take a reader that refuses. What is left is `standingAt`, `idsNaming`, `namersOf`, `slugsOfType`, `schemaOf` and `standingAddressed`, each still answering empty where the tree it reads is not there.",
     },
-    { statement: "A question no answer covers is answered by the indexes folder." },
     {
       statement:
         "What crosses the boundary is a question or its answer or the index as a change leaves it.",
