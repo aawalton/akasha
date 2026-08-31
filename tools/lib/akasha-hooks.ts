@@ -2,8 +2,10 @@ import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 
-import { everyOfType } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { indexIn } from "../../akasha/pages-system/indexes/index-surface/index-surface.module.code.ts"
+import {
+  everyOfTypeAnswered,
+  indexNamed,
+} from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 
 const PAGE_TYPE = "agent-hook"
 
@@ -17,7 +19,6 @@ const HOME_ROOT = "$HOME/repos/akasha"
 
 const BUN = "$HOME/.bun/bin/bun"
 
-const HOOKS_AT = ".git/data/index/identity/agent-hook/slug"
 
 export interface HookCommand {
   readonly type: "command"
@@ -62,15 +63,9 @@ export function commandFor(codePath: string): string {
 }
 
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
-  if (!existsSync(join(indexIn(root), "identity", PAGE_TYPE, "slug"))) {
-    throw new Error(
-      `\`${HOOKS_AT}\` is not there, so which hooks stand could not be answered — an index that ` +
-        "is missing is not an index naming no hook"
-    )
-  }
   const found: Record<string, HookRegistration[]> = {}
   const seen = new Set<string>()
-  for (const standing of everyOfType(root, PAGE_TYPE)) {
+  for (const standing of everyOfTypeAnswered(root, PAGE_TYPE)) {
     if (seen.has(standing.path)) continue
     seen.add(standing.path)
     const page = pageAt(root, standing.path)
@@ -96,8 +91,8 @@ export function hooksFrom(root: string): Record<string, HookRegistration[]> {
   }
   if (seen.size === 0) {
     throw new Error(
-      `\`${HOOKS_AT}\` names no hook, so nothing would guard any tool call and a clean launch ` +
-        "would mean nothing"
+      `\`${indexNamed()}\` names no \`${PAGE_TYPE}\`, so nothing would guard any tool call and a ` +
+        "clean launch would mean nothing"
     )
   }
   return found
