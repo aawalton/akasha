@@ -1,0 +1,135 @@
+---
+id: 2de9a21e-e99e-5be3-b636-f54d82418027
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1371 - Weird Statues"
+slug: 0168-chapter-1371-weird-statues
+partOf: the-primal-hunter
+position: 168
+ownLength: 2687
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3890670/chapter-1371-weird-statues"
+royalRoadId: "3890670"
+---
+
+“Some foregone conclusion, eh?” Caleb said, the final swordsman floating in front of him, one arm crushed and his entire body in a haggard condition.
+
+It had taken a lot longer than Caleb would have liked, but eventually the turtle strategy of the Dao Sect disciples was broken through, having held up way better than it had any right to under the pressure of the Dark Heavens.
+
+Still, once he found the smallest opening, the fight was over. Caleb had managed to strike a single person within the formation, breaking its balance, and less than thirty seconds later, four of them were dead, with the final one already on his last legs.
+
+“We may have fallen... but don’t expect that so-called Sword Saint to be whole either,” the disciple said, seemingly really wanting the last word before he charged. Caleb quickly finished him as a swift strike smashed his head into fine paste, turning his body into blue wisps of energy a moment later.
+
+Caleb took a deep breath as he slowly deactivated his skill. The dark clouds above dispersed in moments as if they had never been there, and the pressure upon the Shadow Realm disappeared soon after. Stretching his shoulders a little, Caleb took a second to appreciate not feeling as if something or someone was trying to crush his soul as his companion, who really hadn’t gotten involved, showed back up.
+
+“Well, that was profoundly boring,” Sandy said, appearing after having hidden away within the folds of space that existed even within the Shadow Realm. Evidently, the giant space worm hadn’t been a fan of the Dark Heavens, understandably so, as despite Sandy’s insane resistance to any and all attacks, not even they could fully resist a power like that.
+
+Could Sandy have helped a little against the five, adding additional pressure and speeding things up a bit? Sure, but Caleb never believed they were in a rush. Just as the five disciples believed their group of three would undoubtedly come out victorious, so did Caleb and Sandy believe in the Sword Saint.
+
+Perhaps a bit illogically, as truth be told, the Sword Saint didn’t have many notable achievements towards the tail end of C-grade or after B-grade yet. Well, besides what he’d shown in this event so far, but others naturally wouldn’t be aware of that.
+
+Having witnessed his power was one reason why Caleb had faith in the Sword Saint, but truthfully, his main reason was his brother.
+
+Jake was arrogant to the extreme and rarely acknowledged others or their power. He could care for them and consider their relationships close, but that didn’t mean he saw them as people who could rival him. The King, Sylphie, Arnold, Vesperia, Casper, Maria, and even Caleb himself were all rather powerful in their own rights, but it was clear that Jake didn’t view any of them as legitimate rivals.
+
+Even ignoring the fact that there was no way Vesperia or Sylphie would actually fight him seriously, he didn’t see them as threats if they decided to take a shot at him. He had too much confidence in his own power.
+
+Yet, despite his arrogance, Jake had always recognized the Sword Saint, and if asked who the second-strongest person on Earth was, he never hesitated to name the old man. Even when he appeared to fall behind, Jake held respect for the Sword Saint’s power that he didn’t show others. Perhaps it was due to their duel in the Treasure Hunt, but Jake truly acknowledged the Sword Saint as someone worthy of rivaling him. Given that, who was Caleb to question the old man?
+
+“I do agree, not the most exciting battle, but hey, we won. More accurately, I won while you were hiding away,“ Caleb said jokingly with a smile. “Not throwing shade, just saying. Anyway, let’s see the outcome of the fight outside.”
+
+Caleb raised a hand and manipulated the darkness, allowing himself to get a peek outside the Shadow Realm, which he projected for Sandy to also see. What appeared was the Sword Saint and a woman fighting, as water and glitters of light filled the sky, and everything around them was torn asunder.
+
+“I can wait a little while,” Sandy said upon seeing this duel between two early B-grades standing at the peak of early B-grade swordsmanship.
+
+“Yeah, no rush,” Caleb agreed, definitely not wanting to get involved in that kind of fight. He already knew he was outclassed and that if he wanted to keep up with either of them, he would have to go all out from the get-go, and even then, it wasn’t a question of winning but how to escape while taking the least amount of damage.
+
+The two waited a little before they stopped fighting, Caleb finding himself impressed by the woman. He knew that the core disciples of the Sword Palace were all monsters, but she was definitely a step above even the average core disciple.
+
+He and Sandy watched them speak for a little while before deciding hiding away was no longer necessary. Together, the worm and Judge exited the Shadow Realm right as the female core disciple appeared, just about ready to leave.
+
+When he and Sandy appeared, she momentarily had a look of surprise and confusion, making Caleb question if she’d entirely forgotten about the existence of her five fellow disciples. However, she didn’t let it show for long as she remained calm and addressed him.
+
+“Your presence tells me those five didn’t make it,” she said with a sigh. “Tell me, did they fight well?”
+
+“They took a while to take down, that’s for sure,” Caleb answered, not seeing the need to insult the dead... eh, temporarily locked out of the simulation. He wouldn’t lie either, as they really had been a pain to put down with their wholly defensive formation.
+
+“I see,” she nodded. “Battling with a Judge from the Court of Shadows would be wonderful, but sadly, we were about to leave.”
+
+“Understandable, the situation has gotten a bit too... crowded,” Caleb said, having already detected the many people surrounding and observing them, and he was sure there were many more than he could sense.
+
+“May we meet again indeed,” the Sword Saint cut in, seemingly answering the sentence the female swordfighter had spoken before Caleb and Sandy had appeared.
+
+“Speaking of possibly meeting again, would you happen to have come across something resembling this?” the woman asked as she held out a hand, and on top of her palm appeared a somewhat familiar golden statue.
+
+This one also had eight arms, but they were all holding different items than the statue their group had. Some of them were the same, as both held several flowers, but they were very different. Evidently connected somehow, but still very different.
+
+“We have,” the Sword Saint nodded. “Similar, but holding different objects.”
+
+“I see,” the woman nodded, seemingly not intent on explaining why she’d asked. “Thank you. That’s all.”
+
+She gave him a final smile before she motioned for the two other core disciples to go with her. In unison, they used One Step and disappeared as the three teleported repeatedly while making their way elsewhere.
+
+“It seems like those members of the Dao Sect really do all know One Step,” Caleb chuckled, shaking his head.
+
+“It’s a Legacy Skill of theirs, so not surprising,” the Sword Saint smiled and nodded as he watched them go, a hint of regret in his eyes that they couldn’t have kept fighting longer.
+
+“I’m pretty sure it’s not?” Sandy chimed in.
+
+“Hm?” the Sword Saint exclaimed.
+
+“One Step. I remember Jake telling me it’s a system-created skill or something like that,” Sandy said. “Then again, I could totally be wrong on account of not having any feet to step down with.”
+
+“All I know is that a lot of members from the Dao Sect use it and variants of it,” Caleb shook his head, genuinely not knowing the truth of the matter. As far as he knew, the only skills that could truly be considered system-made were all those unique skills one could get during evolutions, as well as the most fundamental ones like Meditate and Identify. No way those weren’t just made by the system, right?
+
+Ultimately, it didn’t matter as they had more important things to contend with. Staying around like this after having attracted so much attention seemed like a bad idea, especially with the Sword Saint having used his boosting skill quite a lot and Caleb having had to invoke the Dark Heavens.
+
+Neither was in peak condition, but fortunately, Sandy hadn’t done shit. Before anyone could get smart ideas, the worm ate the two of them before quickly flying down and digging into the ground, appearing to phase through it as they made their escape.
+
+They didn’t have any immediate goal in mind, but from the final interaction with the core disciple, it seemed they would be hunting golden statues and hopefully finding out what the hell was up with them.
+
+--
+
+Jake sat and stared at the two similar golden statues right in front of him as he scratched his head, trying to find meaning in what he was seeing. Their designs were nearly identical, the only difference being what they held in their eight hands. Both had flowers, but one had only two, while the six others were weapons of different kinds. Meanwhile, the second one had five flowers, two weird cubes, and one sword.
+
+He definitely preferred how the weapon-wielding one looked, and it had nothing to do with its holding a bow. Definitely not.
+
+As for what these statues meant or represented, Jake had no bloody clue. Maybe Lopas had known, seeing as he was trying to break the barrier hiding the first statue Jake had found, but the sloth hadn’t been the most talkative, so he would have to figure it out himself.
+
+The second statue had come from a duo of very ambitious assassins from the Court of Shadows, whose boldness he honestly had to respect. They had come across Jake, seemed to know who he was, and still decided to try to assassinate him after Jake got bored with being followed and sat down pretending to meditate.
+
+Well, the two had been pretty good assassins, both high-tier for sure, maybe even Judges the both of them, but that hadn’t helped much against Jake. He really was the bane of all assassins, and he’d quickly taken them both down, earning him a windfall of Prima Credits and the statue that had appeared floating in place after killing one assassin.
+
+“Maybe they’re related to entering the next area?” Jake muttered aloud, definitely realizing this kind of thing was not his forte. This felt like a puzzle, and while Jake liked logic puzzles – hence why he still absolutely loved his Puzzle Box given by Jasper’s Patron – that didn’t mean he liked solving puzzles like these.
+
+If this truly was a puzzle of sorts, it definitely didn’t strike him as the sort with a logical solution, but more one where one had to think outside the box and interpret meaning and all sorts of other things Jake always got horrible grades for in school.
+
+“Hopefully I’ll stumble into someone who knows, or I’ll gather enough statues to somehow figure it out myself,” Jake sighed, putting the two golden eight-armed statues away as he turned his attention toward a group of five that had just entered his Pulse of Perception range.
+
+They were far from the only group he detected, but this one struck him as worth noticing. Not because it had anyone he knew in it, but due to the clothes they wore and the direction they were heading.
+
+Right now, Jake had thirteen groups or individuals within his Pulse range. Most were moving around in stealth, avoiding other groups while searching for treasures hidden in the oversized flowerbeds, but this group headed straight towards a group of four who also wore clothes with familiar designs.
+
+These four all wore the robes of the Order of the Malefic Viper, with two of them being scalekin and the other more human-looking, though he was fairly confident at least one of them was a vampire, as when she spoke, her canines appeared more like fangs. These four were busy trying to break through a barrier that seemed to require more than brute force, but seeing as the barrier didn’t hide a statue, Jake didn’t really care to get involved.
+
+However, seeing the party of five charging straight towards them, definitely already aware of their presence, Jake felt a need to step in as the Chosen of the Malefic Viper. Also, since when did he need an excuse to fuck up the Holy Church when they overstepped?
+
+Setting off, Jake used One Step to reach the group from the Order of the Malefic Viper before the group from the Holy Church could. He stayed in stealth, not having any desire to reveal himself right off the bat. Plus, he kind of wanted to see what the Holy Church group was planning.
+
+So far, few had begun hunting down other Administrators within the garden, instead sticking to finding treasures. There were some who did, like the assassins, but most conflicts between people arose from competition for treasure, and in many cases, they ended like the “fight” between Lopas and Jake, where the losing side simply retreated, with neither side suffering severe injuries or dying.
+
+While killing others was extremely profitable, it was also extremely risky. It was often difficult to fully gauge the strength of others, and even when one side was far stronger, fighting someone to the death carried a risk. Especially seeing as they were within a simulated reality where the hunted party could make any last-ditch suicide attack imaginable, meaning the hunter would often get injured even when superior.
+
+Being injured obviously made one an easier target, and combined with everyone running around using powerful stealth skills and formations, it led to paranoia about who was around. With fights obviously attracting attention, near-guaranteeing one would be surrounded after a battle, killing others just didn’t seem worth it most of the time.
+
+Even after Jake had killed the two assassins, which really hadn’t taken that long, more than twenty people had gathered and observed him. No one was stupid enough to strike, but should he have been significantly injured or used his boosting skill too much, leading to a period of weakness, he didn’t doubt he would have been jumped, Chosen of the Malefic Viper or not.
+
+That’s why he found it odd that the group from the Holy Church was obviously targeting those from the Order of the Malefic Viper. It seemed overly risky for no reason, and evidently, the group from the Order had no idea these people were even coming, ruling out the possibility that they’d been chased before. Plus, Jake had seen this group from the Order for several hours, and they hadn’t interacted with anyone during that time either.
+
+Now that he was closer and could better observe the group of four from the Order, he also confirmed that two of them were vampires, one a dragonkin, and the final one a monster in humanoid form. An actual snake, even, so that was pretty neat, as Jake rarely stumbled upon those.
+
+It nearly made him want to go down and introduce himself, but Jake held back as he waited a bit longer for the Holy Church to arrive. He also took the time to look at the puzzle tied to the barrier they were standing at, finding it a fun logic-based one.
+
+He started solving it a bit, but he couldn’t get very far, as the Church was nearly there. By the time they got within his sphere, the group from the Order also detected them, and all turned their heads. The snake used some kind of magic before quickly shifting into his true form, a twenty-meter-long yellow snake that hissed two words, making Jake an even more curious observer.
+
+“Vampire hunters!”
