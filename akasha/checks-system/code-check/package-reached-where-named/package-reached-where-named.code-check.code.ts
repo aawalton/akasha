@@ -6,6 +6,7 @@ import {
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { filePropertiesAt } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
+  everyOfType,
   everyOfTypeAnswered,
   standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -13,6 +14,7 @@ import { matchingIn } from "../../../pages-system/name-format/format-reaching/fo
 import { lowerKebabCase } from "../../../pages-system/name-format/lower-kebab-case/lower-kebab-case.name-format.ts"
 import type { Matching } from "../../../pages-system/name-format/name-matching/name-matching.module.code.ts"
 import { packageName } from "../../../pages-system/name-place/name-places/package-name.name-place.ts"
+import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   bodyOf,
@@ -122,12 +124,21 @@ function manifestNamed(shadow: Shadow): string {
   return said
 }
 
-export function manifestsIn(shadow: Shadow): readonly Standing[] {
-  const pages = everyOfTypeAnswered(shadow.reading, PACKAGE)
+export function packagePagesIn(root: string, shadow: Shadow): readonly string[] {
+  const found = new Set(everyOfTypeAnswered(shadow.reading, PACKAGE).map((one) => one.path))
+  for (const kind of kindsUnder(root, PACKAGE, shadow.reading, shadow.pageOf)) {
+    if (kind === PACKAGE) continue
+    for (const one of everyOfType(shadow.reading, kind)) found.add(one.path)
+  }
+  return [...found].sort()
+}
+
+export function manifestsIn(root: string, shadow: Shadow): readonly Standing[] {
+  const pages = packagePagesIn(root, shadow)
   if (pages.length === 0) return []
   const manifest = manifestNamed(shadow)
-  return pages.map((one) => {
-    const folder = dirname(one.path)
+  return pages.map((path) => {
+    const folder = dirname(path)
     return { folder, at: join(folder, manifest) }
   })
 }
@@ -176,7 +187,7 @@ export function reasonsIn(
 }
 
 export function packageReachedWhereNamed(change: Change, shadow: Shadow): readonly Judged[] {
-  const standing = manifestsIn(shadow)
+  const standing = manifestsIn(change.root, shadow)
   if (standing.length === 0) return []
   const at = new Set(standing.map((one) => one.at))
   const packages = packagesIn(change, standing)

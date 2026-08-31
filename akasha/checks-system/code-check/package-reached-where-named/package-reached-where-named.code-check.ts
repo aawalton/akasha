@@ -15,7 +15,13 @@ export const packageReachedWhereNamed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The packages are found in the index.",
+      statement:
+        "The packages are found in the index under every page type descending from `workspace-package`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type descending from `workspace-package` that the index files no page under is answered as none.",
     },
     {
       invariantKind: "departure",
