@@ -6,9 +6,13 @@ import {
   indexStanding,
   slugsOfType,
   standingAt,
+  standingById,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  besideAt,
+  namedIn,
+} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { HelpNotes } from "../command/properties/help-notes.text-property.ts"
 import type { Taking } from "../command/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
@@ -46,7 +50,7 @@ const TAKING = "taking"
 
 const HELP_NOTES = "helpNotes"
 
-const COMMAND = "command"
+const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
 const CODE = "code"
 
@@ -66,8 +70,17 @@ export function answering(
   return { report, refusals, code }
 }
 
+export function commandSlugIn(root: string): string | null {
+  if (!indexStanding(root)) return null
+  const standing = standingById(root, COMMAND_TYPE)
+  if (standing === null) return null
+  const said = namedIn(standing.path)
+  return said === null ? null : said.stem
+}
+
 export function commandsIn(root: string): readonly string[] {
-  return slugsOfType(root, COMMAND)
+  const said = commandSlugIn(root)
+  return said === null ? [] : slugsOfType(root, said)
 }
 
 export function reachedIn(
@@ -97,7 +110,8 @@ function widest(said: readonly string[]): number {
 }
 
 function pageAt(root: string, slug: string): string | null {
-  const standing = standingAt(root, COMMAND, slug)
+  const said = commandSlugIn(root)
+  const standing = said === null ? [] : standingAt(root, said, slug)
   if (standing.length === 1) return standing[0]?.path ?? null
   return slug === ROOTED && existsSync(join(root, ROOTED_AT)) ? ROOTED_AT : null
 }
@@ -162,6 +176,12 @@ export function unreadIn(root: string, calledAs: string): string | null {
   const said = `\`${calledAs} ${ROOTED}\` is found without the index and says what it can do.`
   if (!indexStanding(root)) {
     return `No index stands at \`${at}\`, so no command was read. ${said}`
+  }
+  if (commandSlugIn(root) === null) {
+    return (
+      `No page the index at \`${at}\` names carries the id \`${COMMAND_TYPE}\`, ` +
+      `so nothing says which pages are commands. ${said}`
+    )
   }
   if (commandsIn(root).length === 0) {
     return `The index at \`${at}\` carries no command, so none was read. ${said}`
@@ -252,7 +272,8 @@ export function calling(argv: readonly string[], outside: Outside): Answer {
   if (named === undefined) {
     return carried(`${outside.calledAs} takes a command, and none was named.`)
   }
-  const standing = standingAt(root, COMMAND, named)
+  const type = commandSlugIn(root)
+  const standing = type === null ? [] : standingAt(root, type, named)
   const first = standing[0]
   if (first === undefined) {
     return carried(

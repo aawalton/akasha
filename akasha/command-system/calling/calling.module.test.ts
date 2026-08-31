@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  idFiled,
+  idTakenFrom,
   noneOfTypeFiled,
   standingFiled,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
@@ -9,6 +11,8 @@ import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 
 const COMMAND = "command"
+
+const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
 const ANSWERS = `export function held(argv, given) {
   return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
@@ -32,10 +36,14 @@ function rootWith(
     readonly also?: string
     readonly definition?: string
     readonly surface?: Surface
-  }[]
+  }[],
+  typeSlug: string = COMMAND
 ): string {
   const root = scratch.rootFor("akasha-calling-")
-  noneOfTypeFiled(root, COMMAND)
+  noneOfTypeFiled(root, typeSlug)
+  idFiled(root, COMMAND_TYPE, [
+    { path: `akasha/command-system/command/${typeSlug}.page-type.ts`, id: COMMAND_TYPE },
+  ])
   let minted = 0
   for (const one of named) {
     const at = `akasha/command-system/command/${one.slug}/${one.slug}.command.ts`
@@ -56,7 +64,7 @@ function rootWith(
     if (one.also !== undefined) {
       lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
     }
-    standingFiled(root, COMMAND, one.slug, lines)
+    standingFiled(root, typeSlug, one.slug, lines)
   }
   return root
 }
@@ -69,6 +77,23 @@ test("a command is found through the index and handed the rest of the line", () 
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("one two")
   expect(said.report[1]).toBe("akasha held")
+})
+
+test("a command is found though the page type saying what one is carries another slug", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }], "instruction")
+  const said = calling(["held", "one"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("one")
+})
+
+test("an index naming no page that says which pages are commands says so", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  idTakenFrom(root, COMMAND_TYPE)
+  const said = calling(["held"], { ...OUTSIDE, root })
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain(`carries the id \`${COMMAND_TYPE}\``)
+  expect(said.refusals[0]).toContain("nothing says which pages are commands")
+  expect(said.refusals[0]).not.toContain("carries no command")
 })
 
 test("naming no command is answered with the commands there are", () => {
@@ -137,6 +162,15 @@ test("the command that repairs the index is found with no index at all", () => {
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("refresh")
   expect(said.report[1]).toBe("akasha index")
+})
+
+test("the command that repairs the index is found though the index names no page type", () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  rooted(root)
+  idTakenFrom(root, COMMAND_TYPE)
+  const said = calling(["index", "refresh"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[0]).toBe("refresh")
 })
 
 test("a command found by its path is listed though the index names it nowhere", () => {

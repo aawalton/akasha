@@ -15,6 +15,11 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
+        "A command is found through the page type reached by its id rather than by a spelled slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The command that repairs the index is found by its path rather than through the index.",
     },
     {
@@ -29,6 +34,10 @@ export const calling = {
     {
       invariantKind: "departure",
       statement: "A name no command carries is answered with the commands there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index naming no page type for commands is not an index carrying no command.",
     },
   ],
 } as const satisfies Module
