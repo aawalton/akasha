@@ -6,13 +6,9 @@ import { indexImport } from "../index/index-import/index-import.index.ts"
 import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { staleFor } from "../index-stamp/index-stamp.module.code.ts"
-import {
-  beneath,
-  type Reading,
-  readingAt,
-  readingOf,
-} from "../index-surface/index-surface.module.code.ts"
+import { beneath, readingAt, readingOf } from "../index-surface/index-surface.module.code.ts"
 
 export type Standing = {
   readonly path: string

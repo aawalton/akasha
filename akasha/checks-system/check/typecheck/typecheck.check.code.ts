@@ -7,7 +7,7 @@ import { importEdge } from "../../../graph-system/graph-edge/graph-edges/import-
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { waitingProperties } from "../../../pages-system/indexes/generated-properties/generated-properties.module.code.ts"
 import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { pageNamed } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"

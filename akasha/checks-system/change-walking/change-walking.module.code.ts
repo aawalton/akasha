@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import type { Judged, Running } from "../judging/judging.module.code.ts"
 
 export type Body = {

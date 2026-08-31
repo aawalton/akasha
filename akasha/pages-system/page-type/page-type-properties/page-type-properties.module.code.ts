@@ -8,7 +8,7 @@ import {
   schemaOf,
   standingAt,
 } from "../../indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../indexes/index-shape/index-shape.module.code.ts"
 import { slugIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
 

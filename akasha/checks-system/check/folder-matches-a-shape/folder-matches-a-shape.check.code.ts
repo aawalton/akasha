@@ -12,7 +12,7 @@ import {
   everyPath,
   importersOf,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {

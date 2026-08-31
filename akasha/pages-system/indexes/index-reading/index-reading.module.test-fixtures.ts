@@ -15,13 +15,14 @@ import { indexPath } from "../index/index-path/index-path.index.ts"
 import { indexRelation } from "../index/index-relation/index-relation.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import type { Entry } from "../index-entries/index-entries.module.code.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import {
   type Stamp,
   stampIn,
   stampKept,
   stampTaken,
 } from "../index-stamp/index-stamp.module.code.ts"
-import { overlaidOn, type Reading } from "../index-surface/index-surface.module.code.ts"
+import { overlaidOn } from "../index-surface/index-surface.module.code.ts"
 import { rebuiltFrom } from "../indexing/indexing.module.code.ts"
 import { indexIn, readingIn } from "./index-reading.module.code.ts"
 

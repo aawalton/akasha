@@ -13,7 +13,8 @@ import {
   standingAt,
   standingById,
 } from "../index-reading/index-reading.module.code.ts"
-import { type Reading, readingOf } from "../index-surface/index-surface.module.code.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
+import { readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const RECORD = "record-property"
 

@@ -2,7 +2,7 @@ import { textOf } from "../../code-system/body-text/body-text.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { type Value, valueAt, valueIn } from "../indexes/index-entries/index-entries.module.code.ts"
 import { readingIn } from "../indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
 import { readingOver } from "../indexes/indexing/indexing.module.code.ts"
 
 export type Shadow = {

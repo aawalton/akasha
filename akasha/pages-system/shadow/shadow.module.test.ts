@@ -5,11 +5,8 @@ import { scratchWorld } from "../../command-system/scratching/scratching.module.
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { put, stands } from "../../testing-system/putting/putting.module.code.ts"
 import { indexIn } from "../indexes/index-reading/index-reading.module.code.ts"
-import {
-  beneath,
-  type Reading,
-  readingAt,
-} from "../indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
+import { beneath, readingAt } from "../indexes/index-surface/index-surface.module.code.ts"
 import { indexingAt, rebuiltFrom } from "../indexes/indexing/indexing.module.code.ts"
 import {
   bodyOf,

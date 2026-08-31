@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,

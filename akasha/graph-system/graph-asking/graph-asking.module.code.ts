@@ -11,7 +11,7 @@ import {
   standingAt,
   standingByPath,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Known } from "../graph-attribute/graph-attributes/known.graph-attribute.ts"

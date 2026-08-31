@@ -9,7 +9,7 @@ import { slugFor } from "../../page-property/page-property-key/page-property-key
 import { indexIdentity } from "../index/index-identity/index-identity.index.ts"
 import { indexSchema } from "../index/index-schema/index-schema.index.ts"
 import { answered, readingIn } from "../index-reading/index-reading.module.code.ts"
-import type { Reading } from "../index-surface/index-surface.module.code.ts"
+import type { Reading } from "../index-shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 

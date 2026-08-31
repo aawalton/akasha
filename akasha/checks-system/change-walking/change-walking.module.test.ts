@@ -6,7 +6,7 @@ import {
   pathFiled,
   pathsTakenFrom,
 } from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
-import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { shadowAt } from "../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
