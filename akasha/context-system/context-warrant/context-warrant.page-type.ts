@@ -32,6 +32,7 @@ export const contextWarrant = {
     "context-warrant/file-property",
     "context-warrant/file-property-file",
     "context-warrant/initiative-ancestors",
+    "context-warrant/person-itself",
     "context-warrant/persona-itself",
     "context-warrant/persona-page-type",
     "context-warrant/role-itself",

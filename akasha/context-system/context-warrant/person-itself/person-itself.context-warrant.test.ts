@@ -1,0 +1,95 @@
+import { afterAll, expect, test } from "bun:test"
+import { readFileSync, rmSync } from "node:fs"
+import { join } from "node:path"
+import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
+import {
+  pathsOf,
+  personStanding,
+  seatStanding,
+} from "../../warrant-scratch/warrant-scratch.module.code.ts"
+import { unreadIn } from "../../warranting/warranting.module.code.ts"
+import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
+import { PERSON, personItself } from "./person-itself.context-warrant.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const AGENT = "01a0596c-0000-7000-8000-000000000001"
+
+test("a seat warrants the person it states", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  const held = personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "alan"`)
+  expect(pathsOf(personItself(root, at))).toEqual([held.path])
+})
+
+test("a person is named by its slug where the seat states it under a page type", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  const held = personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "person/alan"`)
+  expect(pathsOf(personItself(root, at))).toEqual([held.path])
+})
+
+test("a seat stating no person warrants none", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personaSlug: "akasha"`)
+  expect(pathsOf(personItself(root, at))).toEqual([])
+})
+
+test("a person whose page cannot be found is no warrant", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "ghost"`)
+  expect(pathsOf(personItself(root, at))).toEqual([])
+})
+
+test("only a seat warrants a person", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  const held = personStanding(root, "alan")
+  expect(pathsOf(personItself(root, held.path))).toEqual([])
+})
+
+test("a seat whose body cannot be loaded warrants nothing", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  personStanding(root, "alan")
+  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  standing(root, path, "this is no module {\n")
+  expect(pathsOf(personItself(root, path))).toEqual([])
+})
+
+test("a warrant carries the body standing at the person, and why it is owed", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  const personPage = personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "alan"`)
+  const held = personItself(root, at)[0]
+  expect(held?.path).toBe(personPage.path)
+  expect(held?.oid).toBe(
+    blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
+  )
+  expect(held?.owed).toBe(PERSON)
+})
+
+test("a person whose body is gone warrants nothing of itself", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  const held = personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "alan"`)
+  rmSync(join(root, held.path))
+  expect(pathsOf(personItself(root, at))).toEqual([])
+})
+
+test("a person not read is refused, and the refusal says why it is owed", () => {
+  const root = scratch.rootFor("akasha-person-itself-")
+  warrantsStanding(root, ["person-itself"])
+  const held = personStanding(root, "alan")
+  const at = seatStanding(root, "one", `personSlug: "alan"`)
+  const oid = standing(root, at, `export const one = { personSlug: "alan" }\n`)
+  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+  const said = unreadIn(root, AGENT, [at])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain(PERSON)
+  expect(said[0]).toContain(held.path)
+})

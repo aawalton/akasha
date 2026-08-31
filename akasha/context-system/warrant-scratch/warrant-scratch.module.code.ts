@@ -61,6 +61,10 @@ export function initiativeStanding(root: string, slug: string, stated = ""): Sta
   )
 }
 
+export function personStanding(root: string, slug: string): Standing {
+  return pageStanding(root, `akasha/person-system/person/people/${slug}.person.ts`, "person", slug)
+}
+
 export function personaStanding(root: string, slug: string): Standing {
   return pageStanding(
     root,
