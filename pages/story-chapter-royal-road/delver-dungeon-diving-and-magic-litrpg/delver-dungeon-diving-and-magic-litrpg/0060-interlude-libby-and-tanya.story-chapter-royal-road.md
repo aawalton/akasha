@@ -1,0 +1,197 @@
+---
+id: 6afc0e49-02a7-5723-9c9c-1abe8ba0527c
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Libby And Tanya"
+slug: 0060-interlude-libby-and-tanya
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 60
+ownLength: 2123
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3892036/interlude-libby-and-tanya"
+royalRoadId: "3892036"
+---
+
+Going into the darkness always brings up old fears.
+
+Even after all she’s seen as a guard and a mercenary, Libby can’t help the jolt in her heart that comes from descending into the depths.
+
+She looks over the group around her. Field Of Awareness keeps her aware of each person in a panoramic view that she finds hard to describe to anyone else. Even so, her eyes have seen danger faster than her strange sense on more than one occasion.
+
+Behind her, the door to the room with golems is closed, Leo working some kind of magic he wished to keep secret from their Dralk companions.
+
+She focuses up, noticing the dead furry creature at the end of the hall. “Tanya, can you clear that corpse? Keve, walk with her.” Tanya scurries ahead, pulling a potion that should dissolve the odor. Libby also suspects that one of her companions won’t mind the rotten meat. “Grildor, Daron, check the rooms one by one. Make sure the area is clear. Commander, if you can have your people ready to support?”
+
+The strange Dralk man bows his head to her, then motions for his men to help clear the rooms.
+
+The strange golem, Shar, walks over to Libby, her tail swishing with disinterest. “Don’t open the door at the end. It leads deeper.”
+
+Libby nods, then relays the command to the people moving through the rooms. Grildor and Daron work together well, checking through the rooms with practiced movements. The Dralk are a little less thorough, working more as individuals than a group. If they continue to work with the Commander, she’ll have to talk to him about proper procedures and formations. As Libby suspected, Tanya had a small worm-like creature that eats up the rotten meat.
+
+Libby forces herself to watch for a moment before looking away. She’d learned long ago that she couldn’t let her queasiness control her actions.
+
+Her Field Of Awareness tells her that the commander is approaching behind her. A quick check tells her that he isn’t carrying a weapon, although those claws are still dangerous. She’d have to be prepared for them if he turned against the delve team.
+
+“You are an experienced leader.” The man says stopping a few feet behind her.
+
+She turns to him, studying the easy readiness of the man. She’d made Shar give her the rundown on the Dralk Archetypes before they left. But that tells her little of what his specific class makes him capable of. Warriors are as varied as they come.
+
+The Commander and two others are Warriors. The Dralk woman who’d been staring daggers at Leo was a rogue. They also have a scout who’d stayed silent, even with his fellows.
+
+“You hold yourself like a warrior of many battles.” The Dralk Commander continues, a silent question being posed.
+
+“I was trained in a lost frontier city.” Libby gives a sad smile, hiding her calculating thoughts. “After it fell, I joined a group of mercenaries. We’ve been through a lot.”
+
+“Such is the nature of the world. I have also faced many losses, many of which scar deeper than they appear.” He walks closer, standing beside her to watch their people as the rooms are cleared of dangers. “You tense around me. It is small, but I see it.”
+
+“Deep scars, as you said.”
+
+Daron calls another room clear, drawing her gaze.
+
+“You have fought my kind before?”
+
+Libby hesitates, then nods, “Another tribe, near the mountains.”
+
+“Ah.” He turns to her, drawing her gaze to his eyes, “I am sorry. I know that they have killed many humans.”
+
+Libby’s gloved hand clenches into a fist above her sword. She forcefully unclenches the hand, hoping that the movement went unnoticed by the commander. “There is evil in all people. Some more than others.”
+
+The man seems to mull over her words for a long moment, before continuing slowly, “Has your Delver told you why we are here?”
+
+“Not yet.” Libby snorts, “He likes his secrets, a good trait for an explorer of his caliber.”
+
+“And you trust our presence without question?”
+
+“Trust you? No. But I’m a good judge of people, and Leo is one of the rare good ones.”
+
+“Your faith is strong. I am glad to see it.”
+
+The last room is cleared, and Libby motions for her people to pause for lunch.
+
+The Commander does the same before turning back to her. “My people are hunted for sport, taken as slaves by a group known as the Crows. The forest is not enough to protect us from their mages and their necromancers.”
+
+Libby starts to suspect what Leo might be offering them, but she keeps her lips sealed. She knows how to keep a secret, and unless the Dralk mentions the stronghold, she won’t. She’ll have to remind Daron to keep his lips sealed. He likes making friends, and has to be reminded what secrets can’t be shared.
+
+The commander smiles, as if she’s passed some sort of test. “We are here to gain your trust, because your Delver claims to have a solution for us that he cannot share easily.”
+
+“Then I look forward to working with you, Commander…”
+
+“Vakar.”
+
+She holds out her hand, and he takes it. “Libby.”
+
+The door opening behind them draws her attention to Leo as he walks into the room. He looks a little weary, but a big smile still marks his face.
+
+Libby walks to the delver, Vakar a step behind her.
+
+“The rooms are clear, but we wanted to wait for you before emptying them.”
+
+Tanya studies the dead reaver as Grildor grumbles something about “damned spiders”.
+
+It’s a different breed than the friends she houses in her tattoos. Smaller, and yellow stripes move down its abdomen, probably a change from the increased mana all around. She glances up at where the others are slowly making their way through the webs and down the stairs.
+
+Humming to herself, she pulls a vial from her pack and then uses her knife to cut into where she knows its venom to be. “Sorry,” she says softly as she struggles with the exoskeleton.
+
+A hand takes the knife from her and smoothly cuts through, exposing the venom sacks. She looks up at Keve as he gives her a small nod before stepping back.
+
+She empties the venom into the vial, still warm with the creature’s last moments of life. “You didn’t have to attack my friends.” She tells the corpse as she stoppers the vial, “but I know how your kind are, not much for talking through things.”
+
+“We’re moving.” Keve’s voice breaks her out of her thoughts. She nods to him, then rises to follow the party down the stairs.
+
+The webs are different from the last reaver’s nest, thinner. Maybe she could ask to gather some… no, she doesn’t want to stop the group for her, and she has enough webs from the little ones that chose to stay with her.
+
+They reach the river, and Tanya makes her way to the edge of the water as Eyla works on the bridge. She spots a few fish, but they’re not interested in anything outside of the water.
+
+“Careful dear,” A soft hand on Tanya’s pack makes her look over to where Libby is watching her, “You know better than to be close to the edge of a river going this fast. Plus, you’re making Grildor worry.”
+
+“Sorry.” Tanya steps back, then focuses over to where Grildor is trying to keep one eye on her and the other on Eyla as she makes the bridge.
+
+Tanya does find herself missing the sun when they go down into the dark, but at the same time, there are so many different kinds of creatures in the depths. Mushrooms that she doesn’t recognize, which she gathers of course, glowing vines, and all kinds of littler friends.
+
+It doesn’t take her long to find a pretend-rock watching the group move down the tunnel. She’s about to tell Leo when Shar comes flying back, and they stop walking.
+
+After a quick discussion, they turn around and move back the other direction. The pretend-rock wasn’t a predator, so she doesn’t think it’s worth telling Leo. Maybe she’ll be able to say hi later when they come back.
+
+The reaver webs grow thicker as they follow Leo through the maze, and Tanya wonders if there’s a queen somewhere deep in. Thankfully, they’re moving on the outskirts of their territory, so they won’t have to find out. Wild reaver queens tend to be mean and territorial, unlike the little ones she’s taking care of. It is interesting that they haven’t expanded their territory towards the other tunnel. She wonders if the pretend-rock stopped them from moving that way.
+
+Tanya knows better than to try and negotiate with the reavers on their path. They might not attack her thanks to her skill, but they won’t say no to human or Dralk snacks.
+
+Finally, they make their way into a large room with more doors. Leo hurries over to reveal a hidden door, but Tanya finds her gaze caught by a singular flower in the room behind the ivory door.
+
+She gently taps Keve’s arm and points inside, he follows her gaze to the flower, then lets out a sigh.
+
+“Libby,” He says, getting the older mercenary’s attention. “Tanya sees something in there.”
+
+The woman steps up beside them studying the broken runic circle and the bone aesthetic of the room. The Dralk Commander walks over to them as well, looking into the off-putting room.
+
+“I can walk in first, I should be able to cut through any traps.” The Dralk Commander says to Libby.
+
+The mercenary studies him for a long second, then nods, “Please.”
+
+The Dralk looks over to Tanya, his eyes softening under his imposing mask, “Wait for me to tell you to come in. I will guard you as you grab it.”
+
+She nods, her head craned upwards to look into the tall man’s eyes.
+
+He steps into the room with his sword drawn. Eyes flickering as he searches for traps.
+
+Tanya’s grip on her shirt tightens as he steps around the broken circle and up to the corner of the room where the strange flower is.
+
+After a long moment, he turns to her and motions for her to come in, his sword still drawn.
+
+She steps in after him and hurries over to the flower. Black petals in full bloom, and a gray stalk. She’s never seen it before.
+
+She studies it without touching it, then activates one of her profession skills.
+
+Analyze Alchemical Properties.
+
+Flower Of Masia
+
+Necrotic Allignment
+
+Mana Infused
+
+???
+
+An alignment? Tanya loves messing with alignment possibilities, and it creates the most interesting of potions.
+
+She focuses solely on the petals, using the skill again.
+
+Flower Of Masia’s Petals
+
+Hallucinogenic
+
+Neurotoxin
+
+???
+
+Next is the stem. Tanya lays on the floor, studying the stem carefully as she uses the skill again.
+
+Flower Of Masia’s Stem
+
+Balance Of Life And Death
+
+???
+
+Oooh! She rarely saw such strange descriptions. This flower must be something unique. One last thing to analyze, but first she needs to make some preparations. No connecting to it directly, since it looks like it could be very deadly to her.
+
+She takes off her pack, and pulls out one of the small pots she’d grabbed from the Archmage’s gardens. Then she places the special gloves on and grabs her trowel. The trowel breaks into the packed stone easily, the enchantments helping her as she makes small holes around the plant. She doesn’t want to damage the roots.
+
+Once she’s confident she’s past the edges of its roots, she digs it up out of the earth and places it into the pot. One last analyze before she covers them back up.
+
+Flower Of Masia’s Roots
+
+Connection to the underworld
+
+???
+
+???
+
+With a smile on her face, Tanya places the dirt back into pot. She’ll have to be careful while carrying it, it’s very valuable after all.
+
+She grabs one of the strange clear lids she’d found in the Archmage’s garden, pours some mana-infused water from her enchanted watering can, then covers the plant. Some kind of enchantment goes into effect, freezing the plant under the clear lid.
+
+She can’t wait to experiment with it!
+
+A call from the other room makes her look up. The Dralk Commander offer her a hand off the floor, and she takes it without thinking. A moment later she starts feeling guilty about the dirt her hands are covered in.
+
+The two of them leave the room, finding Leo with a goofy smile that brings a smile to Tanya’s face as well.

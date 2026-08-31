@@ -1,0 +1,229 @@
+---
+id: f8d7e44f-46ce-5f69-8377-b072c0f8ff8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 611: Fighting a Reflection"
+slug: 0135-chapter-611-fighting-a-reflection
+partOf: reborn-as-a-demonic-tree
+position: 135
+ownLength: 2835
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3892004/chapter-611-fighting-a-reflection"
+royalRoadId: "3892004"
+---
+
+Rebel Monarchs of the Celestial Empire had struck Empyrea, while two more Monarchs had been sighted near Argentum and the Frozen Star Sect. Diana didn't have a clone present in the Frozen Star Sect, so her attention was split between Argentum and Empyrea.
+
+To Diana's relief, their base of operations in Empyrea had survived the hit-and-run attack by the rebel Monarchs with minimal damage.
+
+"Well done, Elysia," Diana said as she marveled at a massive spectral tree Elysia had manifested to eat one of the enemy attacks. The other had been blocked by a combination of Aurelion's beam of starfire and Evaline erecting a wall of ice.
+
+"While my god slumbers, I will defend his lands with my life," Elysia said, slowly lowering her bark-skinned hands. Every time Diana saw her, she appeared more corrupted. While still very clearly a human woman, she had black vines for hair, bark covering her skin like dragon scales, and her eyes glowed violet with power. The vertical third eye on her forehead slowly closed, and the spectral tree crumbled to dust behind her.
+
+Nyxalia manifested beside Elysia with a frown. "I couldn't capture them. They worked together to overlap their domains and prevent me from forcefully ripping out their souls."
+
+"Forget them," Diana said. "I need you to head to Desolark City and guard Stella. I believe something bad is happening over there, but Stella insisted on going. I'll be sending my clone as well shortly."
+
+"Understood," Nyxalia said and faded.
+
+Elysia, shrouded in a constant veil of twilight mist, focused on Aurelion and Evaline and was about to say something, but Diana didn't have the time to stay and listen.
+
+Empyrea was safe with them defending it—the same couldn't be said about Argentum.
+
+Diana blinked, and her focus switched to a far less pleasant scene. Argentum was an important city under the Ashfallen Sect, as it was the heart of spatial ring production. Yet its weaknesses compared to other cities had already been exposed during the Celestial Empire fleet's assault two weeks ago.
+
+The city lacked adequate defenses to repel a Monarch, let alone two. Diana had stationed Sol to defend the city, and while he had driven them away, the city had suffered in the process. Large swathes of the city were aflame, with a wall of smoke billowing and darkening the sky.
+
+Diana rushed to put out the flames by smothering them in demonic mist. All around her, she could hear people screaming as they fled the fires, but her mind was elsewhere.
+
+What does this all mean? What is their goal? Diana pondered. Hit-and-run attacks are rare from Monarchs, as the cost of bombing a city of mortals like this would be years of painstaking cultivation with seemingly no gain. Unless they have gone mad or are being mind-controlled, there has to be an objective. Especially since they struck simultaneously, indicating a coordinated attack.
+
+If their goal was Ashlock, then she could only wish them good luck. There was a reason only Sol was stationed in Argentum. Kaida, Larry, Magnus, and the Ashfallen Empire fleet, including Moros, were stationed at Red Vine Peak to protect Ashlock and the surrounding cities.
+
+Stella was also stationed there, but she is now heading to Desolark City to meet with Tiberius. While I'm suspicious of the situation in Desolark City, as my clone was killed, if they wanted to draw Stella away from Red Vine Peak, they wouldn't have asked for me.
+
+She kept playing the situation over and over in her head as she put out the fires, unable to uncover their plan, which irritated her. After half an hour, she left Argentum's situation for the Silverspire family and Sol to handle and rushed toward Desolark City via Ashlock's ethereal roots. Arriving in the Desolark Citadel, she immediately knew something was wrong by the bells ringing out across the city that were so loud they penetrated the inner sanctum of the Citadel.
+
+"Did Stella pass through here?" Diana asked one of the guards stationed by the hole that led to Ashlock's ethereal root network.
+
+"She did," the guard confirmed. "Twice so far today—"
+
+"Twice?"
+
+The guard nodded. "Once this morning, and again half an hour ago."
+
+Unless Stella had snuck out this morning without her knowledge, that could only mean one thing. The Mirrored One had figured out how to use Ashlock's ethereal root network.
+
+It also meant he was here in Desolark City.
+
+The Mirrored One must have taken out my clone, but why? If anything, that would just attract attention to this area, rather than help hide his tracks.
+
+Diana didn't waste her breath asking the guard what was happening outside that triggered the bells to ring. He likely didn't know, as he hadn't left his post beside the hole.
+
+Spreading her wings, she rocketed through the halls of the Desolark Citadel and out into the open. The first thing she noticed beside the bells was the roaring thunder and flashing lightning from the storm overhead. The second thing was that the city's defensive barrier had been activated, and Geb floating overhead had its shields raised as well.
+
+Diana entered a panic. Stella, please be safe. She soared out into the pouring rain toward the Eternal Pursuit Pavilion in the distance, and an abrupt clang of swords followed by a space-fracturing shockwave that knocked her out of the sky clued her into what caused the bells to ring.
+
+Over the wilderness between the city and the pavilion, two Monarchs engaged in fierce melee in the middle of two opposing swarms of swords and the storm overhead.
+
+Diana shielded herself with Qi and attempted to pierce the chaos with her spiritual senses, only to fail to catch either of the Monarchs. Though from the swords being controlled en masse with telekinesis, she could guess at least one of them was Stella.
+
+The other was likely the Mirrored One.
+
+A sudden slash through space parted the storm, briefly giving Diana a clearer view of the two.
+
+They were both Stella. Blonde hair, cultist black robes, even the earrings and daggers were the same. In the two weeks the Mirrored One had remained silent, he had clearly been preparing to perfectly pass off as Stella, and it was working. Diana couldn't tell them apart from afar.
+
+The only difference between them was that one seemed to have an injury on their arm. The battle continued below the clouds for a few breaths—their attacks were perfectly matched as if Stella were fighting a reflection.
+
+"Diana!" the uninjured one eventually called out, spotting her. "Help me strike down this skin-wearing imposter," she said, pointing her sword aflame with aether at the other Stella.
+
+"Do you think she's stupid?" the injured Stella laughed. "I'm clearly the real one. You can't even get my voice right."
+
+"Voice right?" The uninjured one snorted. "What are you even talking about? It's my voice, of course it's right!"
+
+Diana had to agree—they both sounded identical to her.
+
+"I don't need Diana to interfere to defeat you," the injured one said calmly. "I'll skin you myself."
+
+Diana spread her wings and appeared a safe distance from them. She looked between the two but couldn't really tell the difference. Luckily, she didn't need to rely on looks to tell them apart.
+
+"I have Nyxalia on the way, so this battle will end with one of your souls being extracted," she said calmly. "To determine who's the real one, answer my questions with the first thought that comes to mind."
+
+The two Stellas exchanged a glance and then looked back at her.
+
+"You really think this bastard is me?" the uninjured one said, sounding genuinely hurt.
+
+"I'm not you," the injured one hissed through clenched teeth. "You took my identity and wear it poorly like a coat."
+
+"Now, now," Diana said, crossing her arms. "Time for the first question. What is Bob to you?"
+
+"Brother," the uninjured one answered without hesitation.
+
+"A hungry blob," the injured one said, and glared at the uninjured one. "How did you know that?"
+
+"What do you mean? That he's my brother?"
+
+Diana narrowed her eyes. This confirmed that the Mirrored One had not only taken Stella's appearance but also her memories. Right now, she was leaning more toward the injured one being the real Stella, despite her answer being slower. What the Mirrored One couldn't copy was Stella's personality, and 'hungry blob' sounded more like something the real Stella would say. The injured Stella also glared at the other Stella with genuine hatred and disgust.
+
+But Diana needed to buy time for Nyxalia to arrive, so while they were playing along, she would ask more questions.
+
+She clapped her hands to get their attention. "Alright, next question. What is your opinion of Douglas?"
+
+"A hard worker."
+
+"An idiot."
+
+That all but confirmed it for Diana—the injured one was Stella. The Mirrored One had copied her memories, but that was it. He couldn't match her personality, and Stella would never openly admit she admired Douglas.
+
+Which means I can learn Stella's true thoughts through the Mirrored One.
+
+A playful smile spread across her lips as she had a devious idea.
+
+"Douglas, a hard worker?" Stella snorted at the Mirrored One wearing her face beside her. "He's nothing but a loud idiot."
+
+"Shush, next question," Diana said with amusement. "If I asked you out on a date, what would you say?"
+
+Both of them froze for a moment.
+
+"I... would say yes," the Mirrored One said hesitantly. It sounded more like a guess than a concrete answer.
+
+Stella just blinked in confusion. "Why would you even ask me that?"
+
+Diana frowned. This wasn't quite the response she had been expecting.
+
+"I'm the one asking questions," Diana said, skillfully dismissing Stella's question. Why would they go on a date? Having to explain that was too embarrassing. What kind of answer even was that?
+
+"You would say yes," the Mirrored One insisted to Stella.
+
+Stella glared at him with hatred. "The hell would you know, you blood-drinking, memory-sucking, face-wearing bastard?" She then turned to Diana. "And you, why are you asking these questions?"
+
+Diana ignored her and asked the Mirrored One directly. "Are you really sure she would say yes?"
+
+The Mirrored One shrugged. "I'm pretty sure she would—um, I mean I would say yes..."
+
+"Enough of this," Stella snapped, clearly a little flustered. "Domain of the Aetherial." Her eyes turned milky white, and the fractures along her skin suddenly bled with otherworldly light.
+
+Diana felt reality recoil and knew the time for games was over. With a powerful flap of her wings, she retreated into the storm overhead just as the air around Stella shattered into a sphere of broken reality.
+
+"I've been waiting for this," Stella snarled.
+
+She vanished and reappeared behind the Mirrored One so fast that Diana's eyes barely tracked the movement. Her strike came down like a guillotine and met an obsidian mirror that swallowed the blow whole.
+
+"You think you're better than me?" the Mirrored One sneered with stolen lips, and copied her in the same breath. His own eyes went white. Reality was shattered for a second time.
+
+Diana could tell at a glance that he carried far more spiritual pressure than Stella did. But his bloodlust couldn't compare. Stella's hatred and desire to kill him were strong enough to feed the very storm overhead.
+
+"I don't think I am better," Stella said with disgust. "I know I am."
+
+The Mirrored One smirked with stolen lips. "Show me."
+
+Stella clicked her fingers, and the swarm of swords that had grown dormant came back to life. This time, they didn't just dart through the air—they wove in and out of rifts in the shattered reality, untraceable, impossible to predict.
+
+The Mirrored One answered in kind, summoning his own swarm through his own rifts. Steel clashed in midair as the two storms collided.
+
+It took only seconds for the Mirrored Ones to start losing.
+
+"How?" he muttered, his hands crackling with aether Qi as Stella floated above him with her hands folded behind her back. He sent out more swords. The result was the same. Stella's swarm was simply faster. More adaptable. Reacting half a step ahead of every move he made.
+
+"Because you're not a Crestfallen," Stella answered, gazing down at him with contempt. "It doesn't matter if you possess more Qi or Daos than I do. An inferior copy like you can never beat me at my own game."
+
+The Mirrored One grimaced and gave up on the sword swarm. Instead, he rushed at Stella and forced a melee. Stella answered in kind by meeting his strikes. While they had seemed perfectly matched before, now it was different.
+
+She only parried. Every strike he threw, no matter how vicious, was turned aside with insulting ease. Her eyes never left his. While he poured everything into overhead slashes meant to overwhelm her by raw force, she answered with the bare minimum of motion, like an adult swatting a child's wooden sword.
+
+Realizing that wasn't working, the Mirrored One dragged the fight in and out of the aether. Stella again simply matched his efforts with insulting ease. She was faster and reacted to any new strategies the Mirrored One threw at her as if she could see the future.
+
+Diana found it honestly terrifying to see Stella take a fight this seriously.
+
+"You bitch," The Mirrored One snarled and threw himself backward.
+
+Obsidian mirrors bloomed around him in a defensive crescent. From the first came a blast of razor wind blades. From the second, a lance of light. From a third, a swarm of insects that filled the air with the hum of a dying world. Each one was a Monarch Realm technique that Diana had seen or heard about from the battle for the Celestial Empire.
+
+Diana spread her wings and descended toward the battle, unsure if Stella could handle so much at once.
+
+"The Monarchs of the Celestial Empire couldn't stand against me," Stella said, drawing her sword and dragging it through reality as she did. "What makes you think pathetic replicas of their techniques would be enough?"
+
+Diana stopped where she was and realized that if she interfered, she would only be in the way.
+
+Stella flickered between the aether and the real, threading between the Monarch techniques with ease. She reached the mirrors. One slash, and they all shattered.
+
+"S-Stay back," The Mirrored One said. His face was no longer Stella's—it was that of her brother, Janus. "I still have your brother's body, remember? I can tell you where it is—"
+
+Stella appeared in front of him and struck without hesitation.
+
+He blocked the strike with raw reflex, only for the sword to pass right through his guard. Then, a breath later, reality split where her blade had carved through the aether moments before, and a deep gash opened across his chest. He cried out, blood spraying down his stolen robes. Before he could even register the wound, she was on him with a flurry of unblockable attacks so fast she was nothing but a blur, each one striking through one layer of reality and landing through another.
+
+Stella paused and held the Mirrored One's body in place with telekinesis.
+
+"If you think wearing the face of a dead man will garner you sympathy," Stella said, planting a kick into his chest that sent him hurtling toward the ground, "you're severely mistaken."
+
+She dropped after him.
+
+The earth cracked for miles when she landed. She strolled down into the crater she had made, sword in hand, toward the broken thing at the bottom.
+
+"My brother was a fool," she said, her voice carrying with terrible calm. "And while I owe him my life, he fulfilled his destiny. He put himself to rest." She stopped beside the Mirrored One. "Now I'll do the same for you."
+
+The Mirrored One barely managed to tilt his head and look at her. "You will never become anyone great," he rasped with Janus's voice.
+
+"Why did you take my face then? Mirrored One, you're not making any sense here!"
+
+She drove her sword into his skull.
+
+And twisted.
+
+Reality fractured around the blade, and the Mirrored One's body shattered like a dropped glass and scattered into the wind. Nothing remained, not even a body, showing that below all the stolen faces and memories, there was nothing—not even a soul.
+
+Stella stayed there, bloody sword idle at her side, and stared down at the empty crater.
+
+Diana touched down beside Stella and they stood in silence.
+
+"Is it really over?" Stella muttered.
+
+"You tell me," Diana said, passing her a mirror. "What do you see?"
+
+Stella hesitantly took it and looked down at her reflection. She then examined more closely, and tears began streaming down her cheeks.
+
+"I..." she choked. "I don't hate my reflection anymore."
+
+"Then it's over." Diana said, wrapping an arm around her and pulling Stella into a much-needed hug.
