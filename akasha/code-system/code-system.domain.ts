@@ -9,6 +9,7 @@ export const codeSystem = {
     "page-type/module",
     "page-type/ios-app",
     "page-type/ios-component",
+    "page-type/shell-script",
     "module/body-text",
     "module/code-specifier",
     "module/code-rule",
