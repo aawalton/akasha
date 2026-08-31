@@ -5,5 +5,5 @@ export const serviceSystem = {
   pageTypeSlug: "domain",
   slug: "service-system",
   definition: "what the system runs without being asked each time",
-  partSlugs: ["page-type/service", "page-type/workstation-service"],
+  partSlugs: ["page-type/service", "page-type/workstation-service", "page-type/cluster-service"],
 } as const satisfies Domain
