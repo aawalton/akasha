@@ -128,6 +128,7 @@ test("a property that changes its shape changes what its entry says and where it
     unique: null,
     slug: "note",
     propertySlug: "note",
+    fileName: null,
   })
 
   tookAway(root, tree, at, bodyOf(NOTE[1]))
@@ -140,6 +141,7 @@ test("a property that changes its shape changes what its entry says and where it
     unique: null,
     slug: "note",
     propertySlug: "note",
+    fileName: null,
   })
 })
 

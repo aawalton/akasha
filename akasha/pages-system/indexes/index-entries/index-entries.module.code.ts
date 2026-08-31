@@ -34,6 +34,7 @@ export type Schema = {
   readonly unique: string | null
   readonly slug: string
   readonly propertySlug: string
+  readonly fileName: string | null
 }
 
 function firstValueIn(declared: Record<string, unknown>): Value | null {
@@ -180,6 +181,7 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
         unique: textAt(held, "unique"),
         slug,
         propertySlug: textAt(held, "propertySlug") ?? "",
+        fileName: textAt(held, "fileName"),
       })
     }
   }

@@ -28,6 +28,7 @@ export type Schema = {
   readonly unique: string | null
   readonly slug: string | null
   readonly propertySlug: string | null
+  readonly fileName: string | null
 }
 
 const IDENTITY = indexIdentity.indexName
@@ -168,6 +169,7 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
       unique: named(said["unique"]),
       slug: named(said["slug"]),
       propertySlug: named(said["propertySlug"]),
+      fileName: named(said["fileName"]),
     })
   }
   return found

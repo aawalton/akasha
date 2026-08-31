@@ -29,6 +29,7 @@ export function schemaIn(value: Value): readonly Entry[] {
     unique: slugAt(value, "unique"),
     slug,
     propertySlug,
+    fileName: textAt(value, "fileName"),
   }
   return [
     {

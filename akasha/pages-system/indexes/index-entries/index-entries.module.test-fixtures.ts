@@ -13,19 +13,20 @@ export const D = "01a04b79-0000-7000-8000-00000000000d"
 export const SCHEMA = {
   code:
     '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,' +
-    '"slug":"code","propertySlug":"code"}',
+    '"slug":"code","propertySlug":"code","fileName":null}',
   domainSlug:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
-    '"slug":"domain-slug","propertySlug":"domain-slug"}',
+    '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null}',
   partSlugs:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,' +
-    '"slug":"part-slugs","propertySlug":"part-slugs"}',
+    '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null}',
   id: JSON.stringify({
     pageTypeSlug: idPage.pageTypeSlug,
     targetPageTypeSlug: null,
     unique: idPage.unique,
     slug: idPage.slug,
     propertySlug: idPage.propertySlug,
+    fileName: null,
   }),
   slug: JSON.stringify({
     pageTypeSlug: slugPage.pageTypeSlug,
@@ -33,6 +34,7 @@ export const SCHEMA = {
     unique: slugPage.unique,
     slug: slugPage.slug,
     propertySlug: slugPage.propertySlug,
+    fileName: null,
   }),
 } as const
 

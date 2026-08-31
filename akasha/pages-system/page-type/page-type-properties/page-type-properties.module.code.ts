@@ -202,6 +202,7 @@ export function sourceOver(values: readonly Value[]): Source {
       unique: slugAt(value, "unique"),
       slug,
       propertySlug,
+      fileName: textAt(value, "fileName"),
     })
   }
   return {

@@ -137,6 +137,7 @@ test("a relation property is answered with the shape it is and the page type it 
     unique: null,
     slug: "domain-slug",
     propertySlug: "domain-slug",
+    fileName: null,
   }
   schemaFiled(root, "relation-property", "domain-slug", [held])
 
@@ -151,6 +152,7 @@ test("a property that names no page is answered with a shape that is not a relat
     unique: null,
     slug: "definition",
     propertySlug: "definition",
+    fileName: null,
   }
   schemaFiled(root, "text-property", "definition", [held])
 
@@ -165,6 +167,7 @@ test("a property naming many pages is answered with the target it names itself",
     unique: null,
     slug: "part-slugs",
     propertySlug: "part-slugs",
+    fileName: null,
   }
   schemaFiled(root, "relation-property", "part-slugs", [held])
 
@@ -179,6 +182,7 @@ test("a name saying its page type reads that one file, and passes over another o
     unique: null,
     slug: "foo",
     propertySlug: "foo",
+    fileName: null,
   }
   const number = {
     pageTypeSlug: "number-property",
@@ -186,6 +190,7 @@ test("a name saying its page type reads that one file, and passes over another o
     unique: null,
     slug: "foo",
     propertySlug: "foo",
+    fileName: null,
   }
   schemaFiled(root, "text-property", "foo", [text])
   schemaFiled(root, "number-property", "foo", [number])
