@@ -31,8 +31,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page's identifiers are the properties its own page type carries stating a `unique`.",
+      statement: "The identifiers are the properties stating a `unique`.",
     },
     {
       invariantKind: "departure",
@@ -53,6 +52,10 @@ export const indexIdentity = {
     {
       invariantKind: "departure",
       statement: "No two pages of one page type carry one slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index takes its identifiers from what the properties declare.",
     },
     {
       invariantKind: "departure",
