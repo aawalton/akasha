@@ -21,6 +21,7 @@ export const agentHook = {
     "agent-hook/block-akasha-reads",
     "agent-hook/block-biome",
     "agent-hook/block-bun-test",
+    "agent-hook/block-typecheck",
     "agent-hook/block-destructive-git",
     "agent-hook/block-git-writes",
     "agent-hook/clear-reads-on-context-replaced",
