@@ -190,7 +190,7 @@ test("a check carrying no waking runs over a change its woken neighbour sleeps t
   const root = rootWith(TWO_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   const every = checksIn(root)
-  expect(every.map((one) => `${one.slug} ${one.wakesOn === null}`)).toEqual([
+  expect(every.map((one) => `${one.slug} ${one.isInput === null}`)).toEqual([
     "refuses-all true",
     "wakes-ts false",
   ])
@@ -283,7 +283,7 @@ test("a check refuses nothing in a change its own waking turns away whole", () =
   const asked = shadowAsked(over(SAMPLED))
   const woken: string[] = []
   for (const one of checksIn(ROOT)) {
-    const wakes = one.wakesOn
+    const wakes = one.isInput
     if (wakes === null) continue
     const asleep = SAMPLED.filter((path) => !wakes(path, asked))
     if (asleep.length === 0) continue

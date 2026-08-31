@@ -28,7 +28,7 @@ function standing(slugs: readonly string[]): readonly Gathered[] {
       slug,
       page: `${slug}.code-check.ts`,
       runsOn: ["audit"],
-      wakesOn: null,
+      isInput: null,
       run: () => [],
     })
   )

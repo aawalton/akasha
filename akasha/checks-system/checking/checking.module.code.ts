@@ -20,7 +20,7 @@ export type Gathered = {
   readonly slug: string
   readonly page: string
   readonly runsOn: readonly Phase[]
-  readonly wakesOn: Input | null
+  readonly isInput: Input | null
   readonly run: Running
 }
 
@@ -58,7 +58,7 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
 }
 
 function wakingIn(run: Running): Input | null {
-  const said = (run as { readonly wakesOn?: unknown }).wakesOn
+  const said = (run as { readonly isInput?: unknown }).isInput
   return typeof said === "function" ? (said as Input) : null
 }
 
@@ -118,7 +118,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, runsOn, wakesOn: wakingIn(run), run })
+    found.push({ slug, page: path, runsOn, isInput: wakingIn(run), run })
   }
   if (found.length === 0) {
     throw new Error(
@@ -133,7 +133,7 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
 }
 
 function wakesFor(one: Gathered, change: Change, shadow: Shadow): boolean {
-  const wakes = one.wakesOn
+  const wakes = one.isInput
   if (wakes === null) return true
   try {
     return change.changed.some((path) => wakes(path, shadow))
