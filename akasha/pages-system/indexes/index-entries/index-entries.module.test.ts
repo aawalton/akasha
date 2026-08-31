@@ -68,6 +68,34 @@ test("the properties held in a file are read from the schema the index carries",
   expect([...filePropertiesAt(readingAt(root))]).toEqual([["code", null]])
 })
 
+test("a property stating the name its file stands under claims that name in the page's own directory", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", manifest: "json" }
+
+  expect(
+    pathsOf(value, "/repo/deep/a.module.ts", "/repo", filedAs({ manifest: "package.json" }))
+  ).toEqual(["deep/a.module.ts", "deep/package.json"])
+})
+
+test("a property stating no name is still claimed under the name the grammar builds", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+
+  expect(pathsOf(value, "/repo/deep/a.module.ts", "/repo", filedAs({ code: null }))).toEqual([
+    "deep/a.module.ts",
+    "deep/a.module.code.ts",
+  ])
+})
+
+test("a page carrying both is claimed under the built name and under the stated one", () => {
+  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", manifest: "json" }
+  const filed = filedAs({ code: null, manifest: "package.json" })
+
+  expect(pathsOf(value, "/repo/deep/a.module.ts", "/repo", filed)).toEqual([
+    "deep/a.module.ts",
+    "deep/a.module.code.ts",
+    "deep/package.json",
+  ])
+})
+
 test("a body that will not load answers with no value rather than throwing", () => {
   expect(
     valueIn(
@@ -172,6 +200,30 @@ test("a line carries the key a page reads the property by", () => {
   })
 
   expect(schemaAt(readingAt(index)).get("text-property/held")?.propertySlug).toBe("held")
+})
+
+test("a schema line stating a file name says the property is held in a file of that name", () => {
+  const index = scratch.rootFor("akasha-entries-named-")
+  declaring(index, "named-file-property", "manifest", {
+    pageTypeSlug: "named-file-property",
+    slug: "manifest",
+    propertySlug: "manifest",
+    fileName: "package.json",
+  })
+
+  expect([...filePropertiesAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
+})
+
+test("a stated file name holds a property in a file whatever page type the property is", () => {
+  const index = scratch.rootFor("akasha-entries-stated-")
+  declaring(index, "worded-property", "manifest", {
+    pageTypeSlug: "worded-property",
+    slug: "manifest",
+    propertySlug: "manifest",
+    fileName: "package.json",
+  })
+
+  expect([...filePropertiesAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
 })
 
 test("a path standing as a folder holds no page, and is not read as though it were a file", () => {
