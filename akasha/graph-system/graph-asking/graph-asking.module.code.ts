@@ -6,15 +6,12 @@ import {
 } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   importersOf,
-  indexIn,
+  readingIn,
   type Standing,
   standingAt,
   standingByPath,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import {
-  type Reading,
-  readingAt,
-} from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
+import type { Reading } from "../../pages-system/indexes/index-surface/index-surface.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
 import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import type { Known } from "../graph-attribute/graph-attributes/known.graph-attribute.ts"
@@ -224,7 +221,7 @@ export function edgesInto(
   root: string,
   path: string,
   kinds: readonly string[],
-  reading: Reading = readingAt(indexIn(root))
+  reading: Reading = readingIn(root)
 ): readonly Edge[] {
   if (kinds.length === 0) return []
   const asked = askedFor(path, kinds)
@@ -253,7 +250,7 @@ export function reachingInto(
   paths: readonly string[],
   kinds: readonly string[],
   through: (path: string) => boolean = () => true,
-  reading: Reading = readingAt(indexIn(root))
+  reading: Reading = readingIn(root)
 ): readonly string[] {
   const found = new Set(paths.filter((one) => through(one)))
   const waiting = [...found]
