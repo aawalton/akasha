@@ -113,6 +113,10 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): str
   return repointed(from, to, next, held.moved)
 }
 
+function were(many: number, dry: boolean): string {
+  return dry ? "would be" : many === 1 ? "was" : "were"
+}
+
 function saying(
   one: Renaming,
   carries: readonly Carry[],
@@ -125,10 +129,10 @@ function saying(
       `and its plural to \`${one.plural}\``,
     `${one.path} states it, and ${counted(pages, "page")} ${pages === 1 ? "is" : "are"} of it`,
     ...(dry ? carries.map((held) => `  ${held.from} -> ${held.to}`) : []),
-    `${counted(carries.length, "file")} ${dry ? "would be carried" : "were carried"}`,
+    `${counted(carries.length, "file")} ${were(carries.length, dry)} carried`,
     repointing.length === 0
       ? "no file naming it needed repointing"
-      : `${counted(repointing.length, "file")} naming it ${dry ? "would be" : "was"} repointed`,
+      : `${counted(repointing.length, "file")} naming it ${were(repointing.length, dry)} repointed`,
   ]
 }
 
