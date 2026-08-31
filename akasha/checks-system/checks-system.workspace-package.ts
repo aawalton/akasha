@@ -70,6 +70,14 @@ export const checksSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "An input wider than what the answer rests on costs a run that finds nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An input narrower than what the answer rests on loses a refusal for good.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check reads the index together with the change rather than the index alone.",
     },
     {
