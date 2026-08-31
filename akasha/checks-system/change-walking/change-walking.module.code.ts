@@ -33,16 +33,16 @@ export type Paged = {
   readonly value: Loaded
 }
 
-export type Waking = (path: string, shadow: Shadow) => boolean
+export type Input = (path: string, shadow: Shadow) => boolean
 
 export type Selector<T> = {
   readonly named: string
-  readonly wakesOn: Waking
+  readonly wakesOn: Input
   readonly from: (change: Change, shadow: Shadow) => readonly T[]
 }
 
 export type Bounded = Running & {
-  readonly wakesOn: Waking
+  readonly wakesOn: Input
 }
 
 const INSIDE = "akasha/"

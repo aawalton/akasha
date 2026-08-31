@@ -11,7 +11,7 @@ import {
   namedIn,
 } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "../../pages-system/shadow/shadow.module.code.ts"
-import type { Waking } from "../change-walking/change-walking.module.code.ts"
+import type { Input } from "../change-walking/change-walking.module.code.ts"
 import type { Judged, Judging, Running } from "../judging/judging.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
@@ -20,7 +20,7 @@ export type Gathered = {
   readonly slug: string
   readonly page: string
   readonly runsOn: readonly Phase[]
-  readonly wakesOn: Waking | null
+  readonly wakesOn: Input | null
   readonly run: Running
 }
 
@@ -57,9 +57,9 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   return held
 }
 
-function wakingIn(run: Running): Waking | null {
+function wakingIn(run: Running): Input | null {
   const said = (run as { readonly wakesOn?: unknown }).wakesOn
-  return typeof said === "function" ? (said as Waking) : null
+  return typeof said === "function" ? (said as Input) : null
 }
 
 function saidBy(thrown: unknown): string {
