@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import {
   declaring,
   founded,
@@ -38,10 +39,6 @@ function rooted(): string {
   declaring(root, "note", { pageTypeSlug: "text-property" })
   declaring(root, "mobile", { pageTypeSlug: "mobile-number-property" })
   return root
-}
-
-function bytesOf(said: string): Uint8Array {
-  return new TextEncoder().encode(said)
 }
 
 function person(stated: string): Uint8Array {
