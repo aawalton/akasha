@@ -1,12 +1,5 @@
-import { existsSync, readFileSync, readdirSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { parse } from "yaml"
-import { onceInCall } from "../../during-call/during-call.ts"
-import {
-  dirOfPlaceHeld,
-  dirsOfPlaces,
-  SEAT_PLACES,
-  SEAT_WRITE,
-} from "./agent-page-place.ts"
 import {
   akashaHolderProcessOf,
   akashaSeatIdForName,
@@ -16,78 +9,15 @@ import {
 } from "./seat-akasha-beside.ts"
 import { parseSeatProcKey, type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
-const PAGE_SUFFIX = ".md"
-
 const FRONTMATTER_FENCE = "---"
 
-export function seatsDir(): string {
-  return seatDirs().find((one) => existsSync(one)) ?? dirOfPlaceHeld(SEAT_WRITE)
-}
-
-const PAGE_TYPE = "seat"
-
-function spellingsOf(seatName: string): readonly string[] {
-  return [`${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`, `${seatName}${PAGE_SUFFIX}`]
-}
-
-export function seatPageAt(seatName: string): string | null {
-  for (const dir of seatDirs()) {
-    for (const name of spellingsOf(seatName)) {
-      const at = `${dir}/${name}`
-      if (existsSync(at)) return at
-    }
-  }
-  return null
-}
-
-export function seatPageDestination(seatName: string): string {
-  const held = seatPageAt(seatName)
-  if (held !== null) return held
-  return `${dirOfPlaceHeld(SEAT_WRITE)}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
-}
-
-export function seatDirs(): readonly string[] {
-  return dirsOfPlaces(SEAT_PLACES)
-}
-
-export function seatPagePaths(): readonly string[] {
-  const found: string[] = []
-  for (const dir of seatDirs()) {
-    let entries: readonly string[]
-    try {
-      entries = readdirSync(dir)
-    } catch {
-      continue
-    }
-    for (const one of entries) if (one.endsWith(PAGE_SUFFIX)) found.push(`${dir}/${one}`)
-  }
-  return found
-}
-
-// EVERY PRESENCE DECISION IN THE FLEET STANDS ON THIS ONE READ, including the sweep's decision to
-// take a page away. It takes an old page's path because what stands on it walks that directory, and
-// it answers from akasha because that is where the value is kept.
+// WHAT STOOD HERE ADDRESSED A DIRECTORY THAT IS GONE. Every seat this walked, every path it spelled
+// and every presence it decided from a page it opened is answered by akasha's index below, and the
+// walk itself was the cost: a file opened for each seat to learn a set the index already holds.
 //
-// THE OLD SIDECAR IS NOT READ, and it must not be once nothing writes it. A sidecar nothing writes
-// still names the process that held the seat when writing stopped, and that name does not read as
-// stale — it reads as a definite absence, which is exactly what takes a page away. Reading the one
-// store that is still written is what keeps this from deleting live seats.
-//
-// The page is opened for its id alone. A page stating no id, or one akasha carries no seat for, is
-// answered as a holder that cannot be read rather than as one that is gone.
-export function seatHolderProcess(pagePath: string): string | null {
-  const id = frontmatterOf(pagePath)?.["id"]
-  if (typeof id !== "string" || id === "") return null
-  return akashaHolderProcessOf(id)
-}
-
-export function seatPresence(pagePath: string): SeatPresence {
-  return statedProcessPresence(seatHolderProcess(pagePath))
-}
-
-export function seatIsPresent(pagePath: string): boolean {
-  return seatPresence(pagePath) === "present"
-}
+// `frontmatterIn` and `frontmatterOf` stay and read no seat. They parse the frontmatter of a page
+// in the old system, which the editor sweep still has pages of, and the seat history still has
+// commits of.
 
 export function frontmatterIn(raw: string): Record<string, unknown> | null {
   if (!raw.startsWith(`${FRONTMATTER_FENCE}\n`)) return null
@@ -112,25 +42,10 @@ export function frontmatterOf(pagePath: string): Record<string, unknown> | null 
   }
 }
 
-function seatPageById(): ReadonlyMap<string, string> {
-  return onceInCall("seat-page-by-id", () => {
-    const found = new Map<string, string>()
-    for (const page of seatPagePaths()) {
-      const id = frontmatterOf(page)?.id
-      if (typeof id === "string" && id !== "" && !found.has(id)) found.set(id, page)
-    }
-    return found
-  })
-}
-
 // EVERY AGENT AKASHA HOLDS A SEAT FOR. This listed the ids read out of the old pages' frontmatter,
 // which meant a file opened for each seat to learn a set the index already answers.
 export function seatPageAgents(): readonly string[] {
   return [...akashaSeatsStanding().keys()].sort()
-}
-
-export function seatPageForAgent(agentId: string): string | null {
-  return seatPageById().get(agentId) ?? null
 }
 
 // WHO SITS IN THE SEAT OF THIS NAME, ANSWERED BY AKASHA. This found the old page by name and

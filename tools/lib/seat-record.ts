@@ -1,15 +1,11 @@
 import { akashaSeatRecordOf } from "./seat-akasha-read.ts"
 import { dropBeside, keepBeside } from "./seat-beside.ts"
-import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
-// WHERE A SEAT'S VALUES ARE WRITTEN, FOUND WITHOUT OPENING AN OLD PAGE. This asked for the old
-// page's path and gave up when there was none, which made every write here wait on a file that is
-// on its way out: once the old pages stop being written, a seat that never had one would silently
-// keep nothing.
-//
-// The path is not opened. `keepBeside` reads the seat's name off it and addresses akasha by that
-// name, so what is needed is a name and a place to spell — and `seatPageDestination` composes one
-// for a seat whose old page has already gone. The seat is found in akasha either way.
+// WHICH SEAT'S VALUES ARE BEING WRITTEN, WHICH IS A NAME. This asked for the old page's path and
+// gave up when there was none, which made every write here wait on a file that is now gone: a seat
+// that never had one would silently keep nothing. The name was what the path was built from and the
+// only thing ever read back off it, so the name is what is handed over.
 //
 // FINDING THE PLACE HAPPENS INSIDE THE CALLER'S TRY, WHERE THE WRITE ALREADY WAS. It sat outside,
 // which meant anything this threw ran past the write's own guard, out through `backfillObserved`
@@ -21,8 +17,7 @@ import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 // shared and live, with no build step: a half-finished edit is what eleven agents are running.
 // Keeping the whole body inside the guard is what makes a beat survive one.
 function whereToWrite(agent: string): string | null {
-  const seatName = seatNameForAgent(agent)
-  return seatName === null ? null : seatPageDestination(seatName)
+  return seatNameForAgent(agent)
 }
 
 export interface SeatRecord {

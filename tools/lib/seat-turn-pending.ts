@@ -5,7 +5,7 @@ import {
 } from "./seat-akasha-beside.ts"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBesideUnder } from "./seat-beside.ts"
-import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
 export const PENDING_KEY = "turn-pending"
 
@@ -68,7 +68,7 @@ export function setPending(
   if (agent === "") return
   const seatName = seatNameForAgent(agent)
   if (seatName === null) return
-  const page = seatPageDestination(seatName)
+  const page = seatName
   const at = Date.now()
   const standing = pendingOf(agent)
   // THE WHOLE RECORD IS HANDED OVER RATHER THAN THE FIELDS THAT CHANGED. Both stores are written

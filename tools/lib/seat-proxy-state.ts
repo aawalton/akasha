@@ -1,4 +1,4 @@
-import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { formatSeatProcKey, parseSeatProcKey, readProcStartTicks } from "./seat-proc-key.ts"
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
@@ -46,7 +46,7 @@ export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite):
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
   const startTicks = readProcStartTicks(state.pid)
-  keepBeside(seatPageDestination(seatName), {
+  keepBeside(seatName, {
     "proxy-process": startTicks === null ? null : formatSeatProcKey({ pid: state.pid, startTicks }),
     "proxy-port": state.port,
     "proxy-version": state.oauthProxyVersion,
@@ -56,7 +56,7 @@ export function writeProxyState(agentId: string, state: OAuthProxyStateToWrite):
 export function clearProxyState(agentId: string): undefined {
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
-  keepBeside(seatPageDestination(seatName), {
+  keepBeside(seatName, {
     "proxy-process": null,
     "proxy-port": null,
     "proxy-version": null,

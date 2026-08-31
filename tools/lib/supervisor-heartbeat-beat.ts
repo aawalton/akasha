@@ -3,7 +3,6 @@ import { resolveRoots } from "../../repo/roots/roots.ts"
 import type { BeatReport } from "../seat-page-beat.ts"
 import type { Outcome } from "./gated-write.ts"
 import { nameFromHistory } from "./seat-page-history.ts"
-import { seatPageDestination } from "./seat-presence-read.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,
@@ -66,7 +65,7 @@ export function writeSeatProcessKey(seatName: string, supervisorPid: number): vo
   const key = readSeatProcKey(supervisorPid)
   if (key === null) return
   try {
-    keepBeside(seatPageDestination(seatName), { "supervisor-process": formatSeatProcKey(key) })
+    keepBeside(seatName, { "supervisor-process": formatSeatProcKey(key) })
   } catch (err) {
     console.error(`${LOG} heartbeat: writing the seat process key failed for ${seatName}:`, err)
   }

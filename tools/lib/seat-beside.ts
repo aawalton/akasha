@@ -4,7 +4,7 @@ import {
   mergeUncommitted,
   removeUncommitted as removeAkasha,
 } from "../../akasha/pages-system/page/page-uncommitted/page-uncommitted.module.code.ts"
-import { pageStemOf } from "../../page/name/name.ts"
+import { PAGE_EXTENSION, pageStemOf } from "../../page/name/name.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { type Beside, CARRIED, type Kind, RECORDS } from "./seat-akasha-beside.ts"
 import { akashaSeatRelPath } from "./seat-page-akasha.ts"
@@ -13,10 +13,9 @@ import { akashaSeatRelPath } from "./seat-page-akasha.ts"
 // callers reached the old store directly, so this became the one place a second write could go; now
 // it is the one place the first write went, and taking it out here took it out of all twelve.
 //
-// A PAGE PATH IS STILL WHAT THIS IS CALLED WITH, and it is opened for nothing. The seat's name is
-// read off the path, and the name is what addresses its page in akasha. So a caller may name a page
-// that does not stand — `seatPageDestination` composes one for a seat whose page has not landed —
-// and the write still arrives. This is what lets the old pages go without touching twelve callers.
+// THE SEAT IS NAMED, AND NOTHING IS OPENED. Every caller held the name already and spelled a path
+// in the old store out of it so that the name could be read straight back off — which is why a
+// write here turned on a spelling belonging to a store that no longer exists.
 
 export type { Beside, Carried, Kind } from "./seat-akasha-beside.ts"
 
@@ -91,9 +90,21 @@ function carriedFrom(values: Beside): Beside | null {
   return any ? held : null
 }
 
+// A SEAT IS NAMED HERE RATHER THAN ITS PAGE ADDRESSED. Every caller already held the seat's name
+// and spelled a path out of it only so this could read the name straight back off — and the path it
+// spelled was one in the old store, which is why it had to be spelled the old store's way.
+//
+// A path is still taken as well as a name. The worktree is shared and unbuilt, so callers move onto
+// the name one at a time and each of them runs against this while the others have not moved yet.
+// `pageStemOf` refuses akasha's spelling by design: it reads `<stem>.<type>.md`, so handing it a
+// seat page in akasha throws rather than answering a name, and that throw would land in the beat.
+function seatNamed(said: string): string {
+  return said.includes("/") || said.endsWith(`.${PAGE_EXTENSION}`) ? pageStemOf(said) : said
+}
+
 function akashaPageOf(page: string): string | null {
   const root = rootFor(resolveRoots(), AKASHA)
-  const relPath = akashaSeatRelPath(pageStemOf(page))
+  const relPath = akashaSeatRelPath(seatNamed(page))
   return existsSync(`${root}/${relPath}`) ? relPath : null
 }
 
@@ -115,7 +126,7 @@ function inAkasha(page: string, values: Beside): void {
   if (unknown.length > 0) {
     throw new Error(
       `akasha carries nothing of a seat named ${unknown.join(", ")}, so what was written under ` +
-        `${unknown.length === 1 ? "it" : "them"} beside ${pageStemOf(page)} has nowhere to land. ` +
+        `${unknown.length === 1 ? "it" : "them"} beside ${seatNamed(page)} has nowhere to land. ` +
         "This was a silent drop into the old store; it is a refusal now. Carry the key by declaring " +
         "the property on the seat page type and naming it in CARRIED or RECORDS."
     )
@@ -125,7 +136,7 @@ function inAkasha(page: string, values: Beside): void {
   const at = akashaPageOf(page)
   if (at === null) {
     throw new Error(
-      `no page in akasha stands for the seat ${pageStemOf(page)}, so what is observed of it has ` +
+      `no page in akasha stands for the seat ${seatNamed(page)}, so what is observed of it has ` +
         "nowhere to be written. This used to be a silent return, when the old store was still taking the write."
     )
   }
@@ -158,7 +169,7 @@ export function keepBesideUnder(page: string, key: string, values: Beside): void
   if (RECORDS[key] === undefined) {
     throw new Error(
       `akasha declares no record named ${key} of a seat, so what was written under it beside ` +
-        `${pageStemOf(page)} has nowhere to go. Declare the property and name it in RECORDS.`
+        `${seatNamed(page)} has nowhere to go. Declare the property and name it in RECORDS.`
     )
   }
   const under: Beside = {}
@@ -198,10 +209,10 @@ export function dropBeside(page: string, keys: readonly string[]): void {
 // pages away in a loop, and aborting that loop over one of them would leave the rest standing.
 export function removeBeside(page: string): void {
   try {
-    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(pageStemOf(page)))
+    removeAkasha(rootFor(resolveRoots(), AKASHA), akashaSeatRelPath(seatNamed(page)))
   } catch (thrown) {
     process.stderr.write(
-      `what was observed of ${pageStemOf(page)} is gone, and what was observed of it in akasha stands: ` +
+      `what was observed of ${seatNamed(page)} is gone, and what was observed of it in akasha stands: ` +
         `${thrown instanceof Error ? thrown.message : String(thrown)}\n`
     )
   }

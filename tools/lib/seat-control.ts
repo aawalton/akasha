@@ -1,6 +1,6 @@
 import { akashaObservedOf } from "./seat-akasha-read.ts"
 import { keepBeside } from "./seat-beside.ts"
-import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
 const CLEARED = {
   requestedAction: null,
@@ -35,11 +35,11 @@ export function setControl(agentId: string, values: Record<string, unknown>): vo
         "A seat that is not there has no agent present in it, and a request reaches only a running seat."
     )
   }
-  keepBeside(seatPageDestination(seatName), { ...CLEARED, ...values })
+  keepBeside(seatName, { ...CLEARED, ...values })
 }
 
 export function clearControl(agentId: string): void {
   const seatName = seatNameForAgent(agentId)
   if (seatName === null) return
-  keepBeside(seatPageDestination(seatName), CLEARED)
+  keepBeside(seatName, CLEARED)
 }
