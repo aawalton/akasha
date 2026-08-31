@@ -26,6 +26,7 @@ export const codeCheck = {
     "boolean-property/runs-on-patch",
     "boolean-property/runs-on-worktree",
     "code-check/domain-is-named-by-a-parent",
+    "code-check/email-address-is-well-formed",
     "code-check/file-has-its-page",
     "code-check/file-length",
     "code-check/folder-matches-a-shape",
