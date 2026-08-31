@@ -38,6 +38,14 @@ export const subagentStanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A page states the assignment its seat states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat stating no assignment writes nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page already standing is left as it is.",
     },
     {

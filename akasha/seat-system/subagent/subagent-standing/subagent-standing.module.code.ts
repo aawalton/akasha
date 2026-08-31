@@ -1,8 +1,12 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { standingById } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  standingAt,
+  standingById,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 
 export const WRITER = "subagent-page-writer"
 
@@ -15,6 +19,8 @@ export const TAKING = "take"
 const CLI = "akasha/command-system/cli/cli.module.code.ts"
 
 const SEAT = "seat"
+
+const ASSIGNMENT = "assignmentSlug"
 
 const SUFFIX = ".subagent.ts"
 
@@ -36,7 +42,12 @@ function said(value: string): string {
   return JSON.stringify(value)
 }
 
-export function bodyOf(slug: string, seatName: string, dispatchedAs: string): string {
+export function bodyOf(
+  slug: string,
+  seatName: string,
+  assignmentSlug: string,
+  dispatchedAs: string
+): string {
   return [
     'import type { Subagent } from "../subagent.page-type.ts"',
     "",
@@ -44,10 +55,19 @@ export function bodyOf(slug: string, seatName: string, dispatchedAs: string): st
     '  pageTypeSlug: "subagent",',
     `  slug: ${said(slug)},`,
     `  principalSeatName: ${said(seatName)},`,
+    `  assignmentSlug: ${said(assignmentSlug)},`,
     `  dispatchedAs: ${said(dispatchedAs)},`,
     "} as const satisfies Subagent",
     "",
   ].join("\n")
+}
+
+export function assignedTo(root: string, seatName: string): string | null {
+  const standing = standingAt(root, SEAT, seatName)[0]
+  if (standing === undefined) return null
+  const value = valueAt(standing.path, root)
+  const stated = value === null ? null : textAt(value, ASSIGNMENT)
+  return stated === null || stated === "" ? null : stated
 }
 
 export function seatNamedIn(root: string, seatId: string): string | null {
@@ -102,10 +122,12 @@ export function wrote(root: string, seatName: string, own: string, dispatchedAs:
   const slug = slugOf(seatName, own)
   const at = join(root, pathOf(slug))
   if (existsSync(at)) return true
+  const assignmentSlug = assignedTo(root, seatName)
+  if (assignmentSlug === null) return false
   const dir = mkdtempSync(join(SCRATCH, "subagent-body-"))
   try {
     const bodyPath = join(dir, "body.ts")
-    writeFileSync(bodyPath, bodyOf(slug, seatName, dispatchedAs), "utf8")
+    writeFileSync(bodyPath, bodyOf(slug, seatName, assignmentSlug, dispatchedAs), "utf8")
     return landed(root, [
       "write",
       "--file-path",

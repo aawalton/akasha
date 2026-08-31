@@ -3,7 +3,14 @@ import { join } from "node:path"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { standing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import { indexNamed } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { bodyOf, pathOf, seatNamedIn, slugOf, wantedIn } from "./subagent-standing.module.code.ts"
+import {
+  assignedTo,
+  bodyOf,
+  pathOf,
+  seatNamedIn,
+  slugOf,
+  wantedIn,
+} from "./subagent-standing.module.code.ts"
 
 const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -31,17 +38,46 @@ test("a page stands under the subagents folder named for its slug", () => {
   expect(pathOf("akasha-abc")).toBe("akasha/seat-system/subagent/subagents/akasha-abc.subagent.ts")
 })
 
-test("a body states the type and slug and seat and kind", () => {
-  const body = bodyOf("akasha-abc", "akasha", "Explore")
+test("a body states the type and slug and seat and assignment and kind", () => {
+  const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore")
   expect(body).toContain("export const akashaAbc = {")
   expect(body).toContain('pageTypeSlug: "subagent"')
   expect(body).toContain('slug: "akasha-abc"')
   expect(body).toContain('principalSeatName: "akasha"')
+  expect(body).toContain('assignmentSlug: "domain/akasha-system"')
   expect(body).toContain('dispatchedAs: "Explore"')
 })
 
 test("a body states no id, leaving the command to mint one", () => {
-  expect(bodyOf("akasha-abc", "akasha", "Explore")).not.toContain("id:")
+  expect(bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore")).not.toContain("id:")
+})
+
+test("a page takes the assignment from the page its seat stands at", () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("subagent-standing-")
+    const at = "akasha/seat-system/seat/seats/akasha.seat.ts"
+    standing(root, at, `export const akasha = { assignmentSlug: "domain/akasha-system" }\n`)
+    standing(
+      root,
+      join(indexNamed(), "identity", "seat", "slug", "akasha.jsonl"),
+      `${JSON.stringify({ path: at, id: SEAT_ID })}\n`
+    )
+    expect(assignedTo(root, "akasha")).toBe("domain/akasha-system")
+  } finally {
+    world.sweep()
+  }
+})
+
+test("a seat the index carries no page for is assigned nothing", () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("subagent-standing-")
+    filed(root, ANOTHER, "akasha/seat-system/seat/seats/thea.seat.ts")
+    expect(assignedTo(root, "akasha")).toBe(null)
+  } finally {
+    world.sweep()
+  }
 })
 
 test("a seat is named by the page the index carries for its id", () => {

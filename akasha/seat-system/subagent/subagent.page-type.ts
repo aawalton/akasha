@@ -1,10 +1,12 @@
 import type { Page } from "../../pages-system/page/page.page-type.ts"
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { AssignmentSlug } from "../seat/properties/assignment-slug.text-property.ts"
 import type { PrincipalSeatName } from "../seat/properties/principal-seat-name.relation-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 
 export type Subagent = Page & {
   principalSeatName: PrincipalSeatName
+  assignmentSlug: AssignmentSlug
   dispatchedAs: DispatchedAs
 }
 
@@ -19,6 +21,7 @@ export const subagent = {
   partSlugs: ["text-property/dispatched-as"],
   properties: [
     { pagePropertySlug: "principal-seat-name", required: true, many: false },
+    { pagePropertySlug: "assignment-slug", required: true, many: false },
     { pagePropertySlug: "dispatched-as", required: true, many: false },
   ],
   invariants: [
@@ -44,7 +47,11 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent states no attribute the seat that ran it states.",
+      statement: "A subagent states the assignment its seat states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent states no persona and no role and no person.",
     },
     {
       invariantKind: "departure",
