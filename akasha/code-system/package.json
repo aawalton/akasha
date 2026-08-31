@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./app-building": "./ios-app/app-building/app-building.module.code.ts",
     "./body-text": "./body-text/body-text.module.code.ts",
     "./code-format": "./code-format/code-format.module.code.ts",
     "./code-lint": "./code-lint/code-lint.module.code.ts",
