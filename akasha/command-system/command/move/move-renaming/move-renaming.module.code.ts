@@ -6,8 +6,8 @@ import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-rel
 import type { Value } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { valueIn } from "../../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
-  indexIn,
   namersOf,
+  readingIn,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   knownIn,
@@ -170,7 +170,7 @@ export function addressingOver(
     const text = textOf(path)
     return text === null ? null : valueIn(text)
   }
-  const known = knownIn(indexIn(root), root, loadedAt)
+  const known = knownIn(readingIn(root), root, loadedAt)
   const found = new Map<string, Map<string, string>>()
   for (const one of renamings) {
     for (const path of new Set(namersOf(root, one.id).map((named) => named.path))) {
