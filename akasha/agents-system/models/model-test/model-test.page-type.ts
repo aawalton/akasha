@@ -1,10 +1,10 @@
-import type { Domain } from "../../../domain-system/domain/domain.page-type.ts"
+import type { Module } from "../../../code-system/module/module.page-type.ts"
 import type { PageType } from "../../../pages-system/page-type/page-type.page-type.ts"
 import type { Cases } from "./properties/cases.file-property.ts"
 import type { ModelFamilySlug } from "./properties/model-family-slug.relation-property.ts"
 import type { Prompt } from "./properties/prompt.text-property.ts"
 
-export type ModelTest = Domain & {
+export type ModelTest = Module & {
   modelFamilySlug: ModelFamilySlug
   prompt: Prompt
   cases: Cases
@@ -22,7 +22,7 @@ export const modelTest = {
     "relation-property/model-family-slug",
     "text-property/prompt",
   ],
-  extendsSlug: "page-type/domain",
+  extendsSlug: "page-type/module",
   properties: [
     { pagePropertySlug: "model-family-slug", required: true, many: false },
     { pagePropertySlug: "prompt", required: true, many: false },
@@ -31,7 +31,7 @@ export const modelTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The text judged is appended to the prompt rather than filled into a hole in it.",
+      statement: "A test's code puts its prompt together from what it is handed.",
     },
     {
       invariantKind: "departure",
@@ -45,6 +45,10 @@ export const modelTest = {
       invariantKind: "departure",
       statement:
         "A run that could not reach a model is a failure of its own rather than a case that passed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test holding only cases a prompt answers rightly measures nothing.",
     },
   ],
 } as const satisfies PageType
