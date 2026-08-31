@@ -12,7 +12,7 @@ export const shellScript = {
   slug: "shell-script",
   definition: "a program the shell runs",
   pluralSlug: "shell-scripts",
-  partSlugs: ["file-property/shell"],
+  partSlugs: ["file-property/shell", "shell-script/statusline"],
   extendsSlug: "page-type/domain",
   properties: [{ pagePropertySlug: "shell", required: true, many: false }],
   invariants: [
