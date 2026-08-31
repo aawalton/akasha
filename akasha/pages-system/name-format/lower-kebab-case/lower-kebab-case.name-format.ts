@@ -12,9 +12,5 @@ export const lowerKebabCase = {
       invariantKind: "departure",
       statement: "A digit stands inside a word rather than between words.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A name neither opens nor closes with a hyphen and holds no empty word.",
-    },
   ],
 } as const satisfies NameFormat

@@ -59,10 +59,6 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "An index answers one question of the pages.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A question no answer covers is answered here rather than by the caller asking.",
     },
     {

@@ -10,10 +10,6 @@ export const indexStamp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The stamp names the commit the index was built from.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The stamp names the paths settled after that commit.",
     },
     {

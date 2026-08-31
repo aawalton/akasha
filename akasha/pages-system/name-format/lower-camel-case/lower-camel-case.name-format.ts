@@ -10,10 +10,6 @@ export const lowerCamelCase = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "Opening lower is what parts this format from upper camel case.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A capital opens a word and a word may be one letter.",
     },
