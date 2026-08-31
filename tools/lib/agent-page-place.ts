@@ -1,4 +1,4 @@
-import { SEAT_DIR, SUBAGENT_DIR } from "../../agent/places.ts"
+import { SEAT_DIR } from "../../agent/places.ts"
 import { type Roots } from "../../page/page.ts"
 import { resolveRoots } from "../../repo/roots/roots.ts"
 
@@ -9,15 +9,9 @@ export interface Place {
 
 const AKASHA_SEAT: Place = { repo: "akasha", dir: SEAT_DIR }
 
-const AKASHA_SUBAGENT: Place = { repo: "akasha", dir: SUBAGENT_DIR }
-
 export const SEAT_PLACES: readonly Place[] = [AKASHA_SEAT]
 
-export const SUBAGENT_PLACES: readonly Place[] = [AKASHA_SUBAGENT]
-
 export const SEAT_WRITE: Place = AKASHA_SEAT
-
-export const SUBAGENT_WRITE: Place = AKASHA_SUBAGENT
 
 export function rootOfPlace(place: Place, roots: Roots = resolveRoots()): string | null {
   const held = roots[place.repo]

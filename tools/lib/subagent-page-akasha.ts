@@ -1,6 +1,4 @@
-import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
+import { readdirSync } from "node:fs"
 import type { Roots } from "../../page/page.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { landInAkasha } from "./akasha-landing.ts"
@@ -9,8 +7,6 @@ import { type Outcome } from "./gated-write.ts"
 const DIR = "akasha/seat-system/subagent/subagents"
 
 const SUFFIX = ".subagent.ts"
-
-const SCRATCH = "/var/tmp"
 
 const WRITER = "subagent-page-writer"
 
@@ -29,60 +25,6 @@ export function akashaSubagentsDirIn(root: string): string {
   return `${root}/${DIR}`
 }
 
-function said(value: string): string {
-  return JSON.stringify(value)
-}
-
-export function akashaSubagentBody(
-  id: string,
-  slug: string,
-  seatName: string,
-  dispatchedAs: string
-): string {
-  return [
-    'import type { Subagent } from "../subagent.page-type.ts"',
-    "",
-    `export const ${exportedAs(slug)} = {`,
-    `  id: ${said(id)},`,
-    '  pageTypeSlug: "subagent",',
-    `  slug: ${said(slug)},`,
-    `  principalSeatName: ${said(seatName)},`,
-    `  dispatchedAs: ${said(dispatchedAs)},`,
-    "} as const satisfies Subagent",
-    "",
-  ].join("\n")
-}
-
-export function writeAkashaSubagentPage(
-  id: string,
-  seatName: string,
-  own: string,
-  dispatchedAs: string,
-  roots: Roots = resolveRoots()
-): Outcome {
-  const root = rootFor(roots, AKASHA)
-  const slug = akashaSubagentSlug(seatName, own)
-  const body = akashaSubagentBody(id, slug, seatName, dispatchedAs)
-  const absolute = `${root}/${akashaSubagentRelPath(slug)}`
-  if (existsSync(absolute) && readFileSync(absolute, "utf8") === body) return { kind: "unchanged" }
-  const dir = mkdtempSync(join(SCRATCH, "akasha-subagent-body-"))
-  try {
-    const bodyPath = join(dir, "body.ts")
-    writeFileSync(bodyPath, body, "utf8")
-    return landInAkasha(WRITER, root, [
-      "write",
-      "--file-path",
-      absolute,
-      "--content-file",
-      bodyPath,
-      "--message",
-      `${slug}: a subagent states the kind it was dispatched as`,
-    ])
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
-}
-
 function taking(root: string, paths: readonly string[], why: string): Outcome {
   if (paths.length === 0) return { kind: "unchanged" }
   const taken = landInAkasha(WRITER, root, [
@@ -92,22 +34,6 @@ function taking(root: string, paths: readonly string[], why: string): Outcome {
     why,
   ])
   return taken.kind === "written" ? { kind: "removed" } : taken
-}
-
-export function removeAkashaSubagentPage(
-  seatName: string,
-  own: string,
-  roots: Roots = resolveRoots()
-): Outcome {
-  const root = rootFor(roots, AKASHA)
-  const slug = akashaSubagentSlug(seatName, own)
-  const absolute = `${root}/${akashaSubagentRelPath(slug)}`
-  if (!existsSync(absolute)) return { kind: "unchanged" }
-  return taking(
-    root,
-    [absolute],
-    `${slug} returned, so its page goes; what it was stands in this repo's history`
-  )
 }
 
 export function akashaSubagentPathsOf(
