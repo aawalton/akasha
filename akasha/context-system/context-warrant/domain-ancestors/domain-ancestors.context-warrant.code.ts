@@ -1,10 +1,11 @@
 import {
-  slugAt,
+  textAt,
   valueAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import {
   idsNaming,
   type Standing,
+  standingAddressed,
   standingAt,
   standingById,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -26,8 +27,9 @@ const PARTS = "part-slugs"
 
 function domainOf(root: string, path: string): Standing | undefined {
   const value = valueAt(path, root)
-  const named = value === null ? null : slugAt(value, DOMAIN_KEY)
-  return named === null ? undefined : standingAt(root, DOMAIN_TYPE, named)[0]
+  const named = value === null ? null : textAt(value, DOMAIN_KEY)
+  if (named === null) return undefined
+  return standingAddressed(root, named, DOMAIN_TYPE) ?? undefined
 }
 
 function answeredFor(root: string, path: string): Standing | undefined {

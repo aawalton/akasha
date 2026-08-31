@@ -10,6 +10,7 @@ import {
   importersOf,
   readingIn,
   schemaOf,
+  standingAddressed,
   standingById,
   standingByIdAnswered,
   standingByPath,
@@ -19,6 +20,7 @@ import {
   importFiled,
   pathFiled,
   schemaFiled,
+  standingFiled,
 } from "./index-reading.module.test-fixtures.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
@@ -31,6 +33,32 @@ afterAll(scratch.sweep)
 function rootAt(): string {
   return scratch.rootFor("akasha-reading-")
 }
+
+test("a page an address names is answered under the page type that address states", () => {
+  const root = rootAt()
+  const held = { path: "akasha/one/one.workspace-package.ts", id: A }
+  standingFiled(root, "workspace-package", "one", [held])
+
+  expect(standingAddressed(root, "workspace-package/one", "domain")).toEqual(held)
+  expect(standingAddressed(root, "domain/one", "domain")).toBe(null)
+})
+
+test("an address stating no page type is answered under the one its caller names", () => {
+  const root = rootAt()
+  const held = { path: "akasha/one/one.domain.ts", id: A }
+  standingFiled(root, "domain", "one", [held])
+
+  expect(standingAddressed(root, "one", "domain")).toEqual(held)
+  expect(standingAddressed(root, "one", "workspace-package")).toBe(null)
+})
+
+test("an address naming a page by its id is answered by that id", () => {
+  const root = rootAt()
+  const held = { path: "akasha/a.module.ts", id: A }
+  idFiled(root, A, [held])
+
+  expect(standingAddressed(root, A, "domain")).toEqual(held)
+})
 
 function committedAt(): string {
   const root = rootAt()

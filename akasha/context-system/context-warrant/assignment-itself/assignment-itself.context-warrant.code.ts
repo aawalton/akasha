@@ -1,8 +1,11 @@
 import {
-  slugAt,
+  textAt,
   valueAt,
 } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { standingAt } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  standingAddressed,
+  standingAt,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { slugStated, typeStated } from "../../seat-stated/seat-stated.module.code.ts"
 import { standingOf, type Warrant } from "../../warranting/warranting.module.code.ts"
 
@@ -27,14 +30,14 @@ function warrantAt(root: string, path: string, owed: string): readonly Warrant[]
 
 function namedAt(root: string, path: string, key: string): string | null {
   const value = valueAt(path, root)
-  return value === null ? null : slugAt(value, key)
+  return value === null ? null : textAt(value, key)
 }
 
 function domainOf(root: string, path: string): readonly Warrant[] {
   const named = namedAt(root, path, DOMAIN_KEY)
   if (named === null) return []
-  const standing = standingAt(root, DOMAIN_TYPE, named)[0]
-  return standing === undefined ? [] : warrantAt(root, standing.path, WITHIN)
+  const standing = standingAddressed(root, named, DOMAIN_TYPE)
+  return standing === null ? [] : warrantAt(root, standing.path, WITHIN)
 }
 
 function initiativeOf(root: string, slug: string): readonly Warrant[] {

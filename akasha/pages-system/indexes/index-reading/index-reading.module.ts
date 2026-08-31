@@ -29,6 +29,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A page an address names is answered under the page type that address states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address stating no page type is answered under the one its caller names.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Every path the index files is answered by walking the one tree those paths are filed in.",
     },

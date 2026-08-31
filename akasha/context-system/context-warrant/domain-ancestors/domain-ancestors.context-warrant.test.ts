@@ -104,6 +104,16 @@ test("a seat stating an initiative walks from the domain that initiative names",
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 
+test("an initiative naming its domain under another page type walks from that page", () => {
+  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const top = domainStanding(root, "akasha-system")
+  const mid = typedStanding(root, "workspace-package", "domain-system")
+  namesPart(root, top, mid)
+  initiativeStanding(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
+  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+})
+
 test("the domain an initiative names is no ancestor of itself", () => {
   const root = scratch.rootFor("akasha-domain-ancestors-")
   const top = domainStanding(root, "akasha-system")

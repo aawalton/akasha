@@ -97,6 +97,14 @@ test("a seat stating an initiative warrants the domain that initiative names", (
   expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path])
 })
 
+test("an initiative naming its domain under another page type warrants that page", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  const domain = typedStanding(root, "workspace-package", "domain-system")
+  const work = initiativeStanding(root, "one-work", `domainSlug: "workspace-package/domain-system"`)
+  const at = seatStanding(root, "one", `assignmentSlug: "initiative/one-work"`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path])
+})
+
 test("the domain an initiative names says why it is owed", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   const domain = domainStanding(root, "domain-system")

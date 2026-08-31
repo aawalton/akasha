@@ -126,6 +126,17 @@ export function standingById(given: string | Reading, id: string): Standing | nu
   return standingNamed(given, PAGE, ID, id)[0] ?? null
 }
 
+export function standingAddressed(
+  given: string | Reading,
+  named: string,
+  unqualified: string
+): Standing | null {
+  const address = addressIn(named)
+  if (address.kind === "id") return standingById(given, address.id)
+  const under = address.kind === "qualified" ? address.pageTypeSlug : unqualified
+  return standingAt(given, under, address.slug)[0] ?? null
+}
+
 export function standingByPath(given: string | Reading, path: string): readonly Standing[] {
   return standingIn(readingIn(given), join(PATH, `${path}${ENDING}`))
 }
