@@ -167,7 +167,17 @@ test("a phase takes only the checks that state it", () => {
 test("a check page whose code is not there stops the whole run", () => {
   const root = rootWith([{ slug: "admits-all", runsOn: ["patch"], body: ADMITS_ALL }])
   rmSync(join(root, "akasha/checks-system/check/admits-all/admits-all.check.code.ts"))
-  expect(() => checksIn(root)).toThrow("answers to nothing that can be run")
+  expect(() => checksIn(root)).toThrow(
+    "admits-all.check.code.ts is a check's code, and would not load"
+  )
+})
+
+test("why a check's code would not load is carried into the refusal", () => {
+  const root = rootWith([
+    { slug: "admits-all", runsOn: ["patch"], body: "export function admitsAll( {\n" },
+  ])
+  expect(() => checksIn(root)).toThrow("would not load")
+  expect(() => checksIn(root)).not.toThrow("answers to nothing that can be run")
 })
 
 test("a check page stating no phase a runner can honour is refused", () => {
