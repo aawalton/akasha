@@ -52,6 +52,7 @@ export const codeCheck = {
     "code-check/page-matches-its-type",
     "code-check/page-named-as-stated",
     "code-check/page-property-has-its-file",
+    "code-check/phone-number-is-e164",
     "code-check/property-is-declared-by-a-type",
     "code-check/relation-resolves",
     "code-check/require-import-extension",
