@@ -12,10 +12,6 @@ export const blockAkashaShellWrites = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A call is refused for where it lands rather than for what it is.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The guarded roots are the akasha folder and `.git/data`.",
     },
     {

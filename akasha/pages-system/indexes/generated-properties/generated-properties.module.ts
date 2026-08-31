@@ -15,10 +15,6 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A property is generated when it states a generator.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A third generator kind is answered here with no code changed.",
     },
     {

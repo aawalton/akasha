@@ -17,11 +17,6 @@ export const workingMemory = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Working memory is the state the work is in rather than a record of how it got there.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Working memory is emptied when its intent leaves.",
     },
   ],

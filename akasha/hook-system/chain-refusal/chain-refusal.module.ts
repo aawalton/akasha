@@ -14,10 +14,6 @@ export const chainRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "One refused call refuses the line.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Judging stops at the first refusal.",
     },
     {
