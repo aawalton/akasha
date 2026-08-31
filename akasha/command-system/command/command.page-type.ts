@@ -50,6 +50,10 @@ export const command = {
     },
     {
       invariantKind: "departure",
+      statement: "A command that refuses or throws changes nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path a command is named is read against the repository root and never against the folder the call was made in.",
     },

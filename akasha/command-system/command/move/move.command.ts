@@ -51,10 +51,6 @@ export const move = {
     },
     {
       invariantKind: "departure",
-      statement: "A move that refuses or throws leaves the file where it stood.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body is carried as it stands but for the specifiers it holds.",
     },
     {
