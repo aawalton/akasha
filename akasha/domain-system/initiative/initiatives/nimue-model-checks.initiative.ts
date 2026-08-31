@@ -7,7 +7,6 @@ export const nimueModelChecks = {
   domainSlug: "domain/checks-system",
   personaSlug: "nimue",
   intents: [
-    { statement: "A page type's slug is renamed like any other slug." },
     { statement: "No tool spells a page type slug it could ask the index for." },
     {
       statement:
