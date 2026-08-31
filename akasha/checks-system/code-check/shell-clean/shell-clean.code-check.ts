@@ -49,6 +49,15 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
+      statement: "The findings are answered in the order they stand in the files.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The order the linter printed its findings in follows nothing a reader could name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the change takes away is judged by nothing.",
     },
     {

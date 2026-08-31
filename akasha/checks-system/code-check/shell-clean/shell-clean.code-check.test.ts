@@ -9,6 +9,7 @@ import {
 import { shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { change, gone, landing, proposing } from "../../check-scratch/check-scratch.module.code.ts"
+import type { Found } from "./shell-clean.code-check.code.ts"
 import {
   besideIn,
   carriedIn,
@@ -56,6 +57,10 @@ function rooted(): string {
   return root
 }
 
+function marked(path: string, line: number, column: number): Found {
+  return { path, line, column, code: 2086, level: "info", said: "Held." }
+}
+
 test("the files judged are the shell scripts the change carries, said in order", () => {
   const held = landing(AWAY, {
     [TWO]: bytesOf(CLEAN),
@@ -95,10 +100,21 @@ test("a change the linter finds fault in is refused, and the reason names the co
   expect(said[0]?.reason).toContain(UNQUOTED)
 })
 
-test("every finding is answered, each against the file it stands in", () => {
+test("every finding is answered against the file it stands in, in the order they stand", () => {
   const root = rooted()
   const held = landing(root, { [ONE]: bytesOf(FAULT), [TWO]: bytesOf(FAULT) })
   expect(shellClean(held, shadowAt(root)).map((one) => one.path)).toEqual([ONE, TWO])
+})
+
+test("findings are put in order rather than left in the one the linter printed them in", () => {
+  const found = [marked(TWO, 1, 1), marked(ONE, 9, 2), marked(ONE, 9, 1), marked(ONE, 2, 1)]
+  const said = judgedOf({ found, failed: null }, ONE, AWAY)
+  expect(said.map((one) => one.reason)).toEqual([
+    reasonOf(marked(ONE, 2, 1)),
+    reasonOf(marked(ONE, 9, 1)),
+    reasonOf(marked(ONE, 9, 2)),
+    reasonOf(marked(TWO, 1, 1)),
+  ])
 })
 
 test("a change is judged by the body it proposes, not the one standing on disk", () => {

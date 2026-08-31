@@ -112,9 +112,16 @@ export function reasonOf(one: Found): string {
   return `SC${one.code} (${one.level}) in ${where} — ${one.said}`
 }
 
+function earlier(one: Found, two: Found): number {
+  if (one.path !== two.path) return one.path < two.path ? -1 : 1
+  if (one.line !== two.line) return one.line - two.line
+  return one.column - two.column
+}
+
 export function judgedOf(looked: Looked, first: string, root: string): readonly Judged[] {
   if (looked.failed === null) {
-    return looked.found.map((one) => ({ path: one.path, reason: reasonOf(one) }))
+    const held = [...looked.found].sort(earlier)
+    return held.map((one) => ({ path: one.path, reason: reasonOf(one) }))
   }
   const why = looked.failed.replaceAll(`${root}/`, "").replaceAll(root, WORLD)
   return [{ path: first, reason: `${why}. ${UNLOOKED}` }]
