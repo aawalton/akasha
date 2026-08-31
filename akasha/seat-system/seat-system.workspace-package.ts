@@ -18,6 +18,14 @@ export const seatSystem = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat assigned an initiative goes when that initiative's page does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat on call is not swept.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What a seat holds is either declared of it or observed of it.",
     },
     {
