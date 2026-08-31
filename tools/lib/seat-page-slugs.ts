@@ -2,16 +2,12 @@ import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { pageTypeOf } from "../../pages-system/page-type/page-type.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
 
-// The slugs a seat page states, worked out the same way for whichever system composes it. Both
-// renderers read one `Stated`, so a slug that differs between them would be a difference in the
-// seat rather than in the page, and there is nowhere for one to arise.
-
-// An akasha initiative's slug is what a seat states and what the initiative is reached by, so what
-// a seat page carries is what the seat stated, whether or not that initiative still stands.
-
-export function initiativeSlugOf(stated: string): string {
-  return stated
-}
+// The slugs a seat page states. One renderer composes a seat page now, so what was shared between
+// two of them is what this is: the address a seat's assignment is reached by.
+//
+// `initiativeSlugOf` stood here beside it and went with the markdown page. It was the identity
+// function: the old page carried `initiative-slug` as a bare slug, and akasha carries the
+// assignment as an address under whichever page type holds it, which `domainAddressOf` works out.
 
 export function domainAddressOf(named: string, root: string): string {
   const at = documentsOnDemand(root).domainAt(named)

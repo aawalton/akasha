@@ -4,7 +4,6 @@ import { onceInCall } from "../../during-call/during-call.ts"
 import {
   dirOfPlaceHeld,
   dirsOfPlaces,
-  relPathOfPlaced,
   SEAT_PLACES,
   SEAT_WRITE,
 } from "./agent-page-place.ts"
@@ -45,11 +44,6 @@ export function seatPageDestination(seatName: string): string {
   const held = seatPageAt(seatName)
   if (held !== null) return held
   return `${dirOfPlaceHeld(SEAT_WRITE)}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
-}
-
-export function seatPageRel(seatName: string): string {
-  const at = seatPageDestination(seatName)
-  return relPathOfPlaced(at, SEAT_PLACES) ?? at
 }
 
 export function seatDirs(): readonly string[] {

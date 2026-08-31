@@ -1,87 +1,31 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { pageStemOf } from "../../page/name/name.ts"
-import { placeHolding, rootOfPlace, SEAT_PLACES, SEAT_WRITE } from "./agent-page-place.ts"
-import { personPrincipals } from "./compose-seat-name.ts"
+import { pageStemOf } from "../../page/name/name"
+import { placeHolding, SEAT_PLACES } from "./agent-page-place.ts"
 import { removeBeside } from "./seat-beside.ts"
-import { type Roots } from "../../page/page.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { resolveRoots } from "../../repo/roots/roots.ts"
 import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
 import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
-import { domainAddressOf, initiativeSlugOf } from "./seat-page-slugs.ts"
-import { principalSeatNameOf } from "./seat-principal.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
 import type { Stated } from "./seat-stated.ts"
 import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
 
-const PAGE_TYPE = "seat"
-
-const PAGE_SUFFIX = ".md"
-
-const SCRATCH = "/var/tmp"
-
 const WRITER = "seat-page-writer"
-
-export function seatPageRelPath(seatName: string): string {
-  return `${SEAT_WRITE.dir}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
-}
-
-export function seatPageBody(
-  stated: Stated,
-  seatName: string,
-  roots: Roots,
-  parentName: string | null = null
-): string | null {
-  const agent = stated.agent
-  const persona = stated.attributes.persona?.slug ?? null
-  const domain = stated.attributes.domain?.slug ?? null
-  const role = stated.attributes.role?.slug ?? null
-  const principal = stated.principal?.value ?? null
-  if (domain === null || role === null || principal === null) return null
-  const lines: string[] = [
-    "---",
-    `page-type-slug: ${PAGE_TYPE}`,
-    `id: ${agent}`,
-    `slug: ${seatName}`,
-    `title: "${seatName}"`,
-    ...(persona === null ? [] : [`persona-slug: ${persona}`]),
-    `domain-slug: ${domainAddressOf(domain, rootFor(roots, AKASHA))}`,
-    `role-slug: ${role}`,
-  ]
-  const person = personPrincipals(rootFor(roots, AKASHA)).includes(principal)
-  if (person) lines.push(`person-slug: ${principal}`)
-  else {
-    const above = parentName ?? principalSeatNameOf(agent)
-    if (above === null || above === "") return null
-    lines.push(`principal-seat-name: ${above}`)
-  }
-  if (stated.recordedMode !== null) lines.push(`start-mode: ${stated.recordedMode.value}`)
-  if (stated.onCall) lines.push("on-call: true")
-  if (stated.initiative !== null) {
-    lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value)}`)
-  }
-  if (stated.registration !== null) {
-    lines.push(`registration-account: ${stated.registration.value}`)
-  }
-  // WHAT A SEAT IS BOUND TO IS COMMITTED, AND IT IS THE ONE OBSERVED VALUE THAT IS. The other
-  // eleven come back by being observed again; this one cannot. A session is not re-derivable from
-  // anything the machine still holds, so beside the page it lives exactly as long as the page
-  // does, and both go together when a seat stops or is swept.
-  //
-  // It was taken off the page on the 29th, when resuming a seat whose page had gone was given up
-  // rather than paid for. The day after, the version walk killed every supervisor, the sweep took
-  // all nine pages as it is meant to, and what those seats were bound to survived in one place
-  // nothing was reading. Committed, it is in the history, which is where a seat's attributes are
-  // read back from after its page goes.
-  if (stated.session !== null) {
-    lines.push(`claude-code-session-uuid: ${stated.session.value}`)
-  }
-  lines.push("---", "")
-  return lines.join("\n")
-}
 
 const runTool = writerFor(WRITER)
 
+// WHAT REMAINS OF THE OLD STORE HERE IS REMOVAL. Composing a page and landing it went when the
+// write moved: the two renderers read one `Stated`, so the markdown page carried nothing the page
+// in akasha does not, and a second copy of it could only go stale or disagree.
+//
+// The removals stay, and they are what drains the directory. The pages standing there were written
+// before this and go one at a time as their seats depart — the hourly sweep takes the ones a
+// supervisor was not alive to remove, and the two below take the rest.
+
+// A SEAT RENAMED LEAVES ITS OLD PAGE BEHIND, and this is what takes it. It looks the seat up in the
+// old store on purpose: a seat that has never had a page there finds nothing and this does nothing,
+// which is the state every seat arrives at once the standing pages are gone.
+//
+// The page in akasha under the previous name is not taken here and never was. That gap is older
+// than this change.
 function takeAnyOtherPage(agent: string, seatName: string): void {
   const standing = seatPageForAgent(agent)
   if (standing === null || pageStemOf(standing) === seatName) return
@@ -101,70 +45,22 @@ function takeAnyOtherPage(agent: string, seatName: string): void {
   if (taken.code === 0) removeBeside(standing)
 }
 
-// The second write is the migration's, and nothing reads a seat from akasha yet. What it says is
-// said where it can be seen rather than returned, so a seat whose page landed is never reported as
-// one whose page did not.
-function alsoInAkasha(
+// THE WRITE REACHES AKASHA AND NOWHERE ELSE, and what it says reaches the caller. It was written
+// twice and the second write was the migration's, kept quiet so a refusal in the new system could
+// not take down the write the fleet was reading. There is one write now, so its refusal is the
+// answer rather than a line on stderr nobody reads.
+//
+// AKASHA ASKS FOR MORE THAN THE OLD PAGE DID, and a seat short of what it asks is `unstated` here
+// where it used to be `written`. The old page stood on a domain, a role and a principal; akasha
+// wants a persona, a start mode and a registration as well. A seat that cannot state them now says
+// so instead of standing as a page that states less than a seat is.
+export function writeSeatPage(
   stated: Stated,
   seatName: string,
-  roots: Roots,
-  parentName: string | null
-): void {
-  let said: Outcome
-  try {
-    said = writeAkashaSeatPage(stated, seatName, roots, parentName)
-  } catch (thrown) {
-    said = { kind: "refused", detail: thrown instanceof Error ? thrown.message : String(thrown) }
-  }
-  if (said.kind === "refused") {
-    process.stderr.write(`${seatName}'s page stands, and its page in akasha does not: ${said.detail}\n`)
-  }
-}
-
-export function writeSeatPage(stated: Stated, seatName: string, parentName: string | null = null): Outcome {
-  const roots = resolveRoots()
-  const said = writingOld(stated, seatName, roots, parentName)
-  if (said.kind !== "unstated") alsoInAkasha(stated, seatName, roots, parentName)
-  return said
-}
-
-function writingOld(
-  stated: Stated,
-  seatName: string,
-  roots: Roots,
-  parentName: string | null
+  parentName: string | null = null
 ): Outcome {
-  const body = seatPageBody(stated, seatName, roots, parentName)
-  if (body === null) return { kind: "unstated" }
   takeAnyOtherPage(stated.agent, seatName)
-  const relPath = seatPageRelPath(seatName)
-  const root = rootOfPlace(SEAT_WRITE, roots)
-  if (root === null) return { kind: "unstated" }
-  const absolute = `${root}/${relPath}`
-  const standing = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
-  if (standing === body) return { kind: "unchanged" }
-  const dir = mkdtempSync(join(SCRATCH, "seat-page-"))
-  try {
-    const bodyPath = join(dir, "body.md")
-    writeFileSync(bodyPath, body, "utf8")
-    const wrote = runTool(
-      "write.ts",
-      [
-        "--repo",
-        SEAT_WRITE.repo,
-        "--file-path",
-        absolute,
-        "--content-file",
-        bodyPath,
-        "--mechanical",
-        "--message",
-        `${seatName}: the seat page is composed from what the seat states`,
-      ]
-    )
-    return wrote.code === 0 ? { kind: "written" } : { kind: "refused", detail: whyRefused(wrote.output) }
-  } finally {
-    rmSync(dir, { recursive: true, force: true })
-  }
+  return writeAkashaSeatPage(stated, seatName, resolveRoots(), parentName)
 }
 
 function removeOldSeatPage(page: string, seatName: string, stopReason: string): Outcome {
@@ -198,8 +94,8 @@ function removeOldSeatPage(page: string, seatName: string, stopReason: string): 
 // returned as soon as the old page turned out to be gone, which is exactly when it had to run.
 //
 // A seat name comes from whichever store still stands, so a seat gone from the old one is still
-// found by the name its page in akasha is filed under. When the old pages go, that is the only way
-// left to find it.
+// found by the name its page in akasha is filed under. Nothing writes an old page any more, so a
+// seat opened after that write stopped is only ever found that way.
 export function removeSeatPage(agent: string, stopReason: string): Outcome {
   const page = seatPageForAgent(agent)
   const seatName = page === null ? akashaSeatSlugOf(agent) : pageStemOf(page)

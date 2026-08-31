@@ -23,7 +23,7 @@ import { writeSeatPage } from "./lib/seat-page.ts"
 import { statedNow } from "./lib/seat-stated.ts"
 import { nameableFrom, nameableStated } from "./lib/seat-nameable.ts"
 import { fromSeat, showLines, statedLines } from "./lib/seat-show.ts"
-import { seatPageRel } from "./lib/seat-presence-read.ts"
+import { akashaSeatRelPath } from "./lib/seat-page-akasha.ts"
 import { fail } from "./lib/command.ts"
 
 export async function run(argv: readonly string[]): Promise<void> {
@@ -246,14 +246,15 @@ export async function run(argv: readonly string[]): Promise<void> {
     )
     if (page.kind === "refused") {
       stop([
-        `${seatPageRel(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
+        `${akashaSeatRelPath(seatName)} was not written, so it stands at what it last held until the next heartbeat — ${(page.detail.split("\n")[0] ?? "").trim()}`,
       ])
       return
     }
     if (page.kind === "unstated") {
       stop([
-        `${seatPageRel(seatName)} was not written: a seat page needs a domain, a role and a principal, ` +
-          "and a seat whose principal is not a person also needs the seat above it",
+        `${akashaSeatRelPath(seatName)} was not written: a seat page needs a persona, a domain, a role, ` +
+          "a principal, a start mode and a registration, and a seat whose principal is not a person " +
+          "also needs the seat above it",
       ])
       return
     }
