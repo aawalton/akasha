@@ -11,6 +11,16 @@ export const KEYCHAIN_PASSWORD_ENV = "MACBOOK_KEYCHAIN_PASSWORD"
 
 export const MAC_PATH_PREFIX = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
+// The shells are workspace members, so they are installed by bun at the repo root
+// rather than by npm in their own directory. A mac that has never run one of these
+// builds has no bun, and every run through this header puts one there.
+export const MAC_ENSURE_BUN = [
+  "if ! command -v bun >/dev/null 2>&1; then",
+  '  command -v brew >/dev/null 2>&1 || { echo "ERROR: this mac has neither bun nor homebrew, and the build installs bun through homebrew." >&2; exit 1; }',
+  "  brew install bun",
+  "fi",
+].join("\n")
+
 const CLEANUP_STACK = [
   '_CLEANUP=""',
   '_cleanup() { if [ -n "$_CLEANUP" ]; then eval "$_CLEANUP"; fi; }',
@@ -19,7 +29,7 @@ const CLEANUP_STACK = [
   "trap _cleanup EXIT",
 ].join("\n")
 
-export const SCRIPT_HEADER = `set -euo pipefail\n${MAC_PATH_PREFIX}\n${CLEANUP_STACK}`
+export const SCRIPT_HEADER = `set -euo pipefail\n${MAC_PATH_PREFIX}\n${MAC_ENSURE_BUN}\n${CLEANUP_STACK}`
 
 export function readKeychainPassword(): string {
   const parsed = z.string().min(1).safeParse(process.env[KEYCHAIN_PASSWORD_ENV])
@@ -152,7 +162,9 @@ export function buildNativeSync(opts: {
       : []
   return [
     `cd ${opts.nativeShellDir}`,
-    "npm install --no-workspaces",
+    // The shell is a workspace member, so bun walks up to the checkout root and
+    // installs the whole workspace. The shell carries no lockfile of its own.
+    "bun install",
     ...injectWww,
     ...appValueExports(opts.app),
     ...widgetExport,
@@ -160,7 +172,7 @@ export function buildNativeSync(opts: {
     ...healthkitExport,
     ...ringCredentialExport,
     ...kokoroExport,
-    "npm run ios:add",
+    "bun run ios:add",
   ].join("\n")
 }
 

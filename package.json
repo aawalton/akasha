@@ -4,7 +4,9 @@
   "type": "module",
   "workspaces": [
     "editor-extension",
+    "native-shell/alanwalton",
     "native-shell/atlas",
+    "native-shell/smilingjenny",
     "lua-compiler",
     "lua-compiler/vendor/*",
     "alanwalton/calendar-sync",
