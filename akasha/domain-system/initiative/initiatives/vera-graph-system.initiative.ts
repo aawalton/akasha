@@ -7,7 +7,10 @@ export const veraGraphSystem = {
   domainSlug: "domain/graph-system",
   personaSlug: "vera",
   intents: [
-    { statement: "No answer rests on a question the corpus must be walked to settle." },
+    { statement: "A check narrows the change through one vocabulary." },
     { statement: "No check's closure is beyond the analysis." },
+    { statement: "A derived closure is kept until the code it rests on changes." },
+    { statement: "A check runs only for a change that could change its answer." },
+    { statement: "No answer rests on a question the corpus must be walked to settle." },
   ],
 } as const satisfies Initiative
