@@ -8,11 +8,10 @@ export const aineInitiativeWork = {
   personaSlug: "aine",
   intents: [
     {
-      statement: "A seat states an initiative as its assignment.",
+      statement: "A seat is swept when the initiative it is assigned is done.",
       workingMemory:
-        'The warrants stand and answer. Two things on a seat now name an initiative: the old optional `initiativeSlug` and `assignmentSlug`; the old one and its relation-property page go. `assignment-slug`\'s definition still reads "the domain whose work a seat answers to" and must widen to a domain or an initiative. The constraint binds this to land with the sweep below it.',
+        "The sweep is built and live but keys on the wrong field. `seat-sweep.ts` reads an initiative page's absence as finished; `turn-end-decide.ts` then stops and deletes a seat that is not on call. It reaches the initiative through `initiativeOf` in `seat-initiative.ts`, which reads `initiative-slug`, a field no seat states, so it sweeps nothing. Repoint it at `assignmentSlug` and the `initiative/` prefix, and then `initiativeSlug` can go.",
     },
-    { statement: "A seat is swept when the initiative it is assigned is done." },
     { statement: "An initiative's name states what its work is toward." },
   ],
   constraints: ["The sweep lands with the warrant rather than after it."],
