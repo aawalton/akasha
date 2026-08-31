@@ -76,6 +76,21 @@ else
     }
     cp "$COMPONENTS_DIR/$component" "$WIDGET_DIR/"
   done <<< "$NAMED"
+  # The seam writes DeviceSecretPins.swift into the widget destination on every
+  # build, from values the ios-app page carries, and never commits it. The harness
+  # runs no seam, so a component reading those pins has nothing to compile against.
+  # It draws from the payload it is handed and queries no keychain, so a stand-in
+  # saying what it is stands in for the generated one.
+  if grep -rlq DeviceSecretPins "$WIDGET_DIR" 2>/dev/null; then
+    cat > "$WIDGET_DIR/DeviceSecretPins.swift" <<'SWIFT_PINS'
+// Written by the render harness. Nothing reads these: the harness draws from the
+// payload it is handed rather than from a keychain.
+enum DeviceSecretPins {
+    static let service = "render-harness-stand-in"
+    static let accessGroup = "render-harness-stand-in"
+}
+SWIFT_PINS
+  fi
 fi
 DEFINE_FLAGS=""
 if [ "$APP" = "alanwalton" ]; then DEFINE_FLAGS="-D HARNESS_ALANWALTON"; fi
