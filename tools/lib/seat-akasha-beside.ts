@@ -100,6 +100,25 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
   return one !== null && one.path.startsWith(SEAT_DIR) ? one.path : null
 }
 
+const SEAT_SUFFIX = ".seat.ts"
+
+// A SEAT'S SLUG IS THE NAME ITS PAGE FILE STANDS UNDER, so it is read off the path rather than out
+// of the page. The index answers the path already, and a name that had to open every page would
+// cost the corpus rather than the seat.
+export function akashaSeatSlugOf(agentId: string): string | null {
+  const page = akashaSeatPathForAgent(agentId)
+  if (page === null) return null
+  const name = page.slice(SEAT_DIR.length)
+  return name.endsWith(SEAT_SUFFIX) ? name.slice(0, -SEAT_SUFFIX.length) : null
+}
+
+// The agent standing in the seat of this name, or null where akasha holds no such seat.
+export function akashaSeatIdForName(name: string): string | null {
+  const at = `${SEAT_DIR}${name}${SEAT_SUFFIX}`
+  for (const [id, path] of seatsStandingInAkasha()) if (path === at) return id
+  return null
+}
+
 // The values standing beside a seat's page in akasha, under the camelCase keys akasha declares.
 export function akashaBesideOf(agentId: string): Record<string, unknown> | null {
   const page = akashaSeatPathForAgent(agentId)
