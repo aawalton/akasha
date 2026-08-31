@@ -1,50 +1,27 @@
-import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
+import { type Outcome, type Run, whyRefused } from "./gated-write.ts"
 
-// A body landed under `akasha/` by the akasha commands rather than by git.
-//
-// The gate lives in those commands, so a writer reaching git directly leaves the akasha index
-// behind HEAD and every agent in this worktree loses the gate until someone puts it back. This
-// runs `akasha write`, which commits for itself, and reports what it said.
+const CLI = "akasha/command-system/cli/cli.module.code.ts"
 
-const SCRATCH_ROOT = "/var/tmp"
+const SCRATCH = "/var/tmp"
 
-const DISPATCHER = "akasha/command-system/cli/cli.module.code.ts"
+// The gate asks for a record of every page a body answers to, and names each one it wants read.
+// The set is the page's type and everything that type extends, which changes as the type does, so
+// it is taken from what the refusal names rather than listed here.
+const WANTED = /--file-path\s+(\S+)/g
 
-export interface AkashaBody {
-  readonly relPath: string
-  readonly body: string
-}
+const ROUNDS = 4
 
-export type AkashaLanded =
-  | { readonly ok: true; readonly sha: string | null }
-  | { readonly ok: false; readonly why: string }
-
-interface Run {
-  readonly code: number
-  readonly output: string
-}
-
-// What the run said is taken through a file rather than a pipe. `akasha read` refuses a call whose
-// output goes to a pipe, on the ground that a body reaching nobody was not read, and recording a
-// reading is the first thing this does.
-function ran(root: string, writer: string, args: readonly string[]): Run {
-  const dir = mkdtempSync(join(SCRATCH_ROOT, "akasha-landing-run-"))
+export function runInAkasha(writer: string, root: string, args: readonly string[]): Run {
+  const dir = mkdtempSync(join(SCRATCH, "akasha-landing-"))
   const outPath = join(dir, "out.txt")
   try {
     const sink = Bun.file(outPath)
-    const done = Bun.spawnSync([process.execPath, join(root, DISPATCHER), ...args], {
-      cwd: root,
+    const proc = Bun.spawnSync([process.execPath, `${root}/${CLI}`, ...args], {
       stdout: sink,
       stderr: sink,
-      env: {
-        ...process.env,
-        AKASHA_ROOT: root,
-        // The warrant gate refuses a change from a writer it cannot name, so the service names
-        // itself here as an agent would.
-        AGENT_ID: writer,
-        ACTING_AGENT_ID: "",
-      },
+      env: { ...process.env, AGENT_ID: writer, ACTING_AGENT_ID: "" },
     })
     let output = ""
     try {
@@ -52,56 +29,37 @@ function ran(root: string, writer: string, args: readonly string[]): Run {
     } catch {
       output = ""
     }
-    return { code: done.exitCode ?? 1, output: output.trim() }
+    return { code: proc.exitCode ?? 1, output }
   } finally {
     rmSync(dir, { recursive: true, force: true })
   }
 }
 
-export function shaIn(output: string): string | null {
-  const said = /\bcommitted as ([0-9a-f]{7,40})\b/.exec(output)
-  return said === null ? null : (said[1] as string)
-}
-
-// What stands is read before it is written over, because the gate refuses a change to a body its
-// writer has not read. A path that does not stand yet is not read — there is nothing to have read.
-function readingRecorded(root: string, writer: string, relPaths: readonly string[]): string | null {
-  const standing = relPaths.filter((one) => existsSync(join(root, one)))
-  if (standing.length === 0) return null
-  const run = ran(root, writer, [
-    "read",
-    ...standing.flatMap((one) => ["--file-path", one]),
-  ])
-  return run.code === 0 ? null : `reading what stands was not recorded: ${run.output}`
-}
-
-export function landInAkasha(
-  root: string,
-  writer: string,
-  message: string,
-  bodies: readonly AkashaBody[]
-): AkashaLanded {
-  if (bodies.length === 0) return { ok: true, sha: null }
-  const unrecorded = readingRecorded(
-    root,
-    writer,
-    bodies.map((one) => one.relPath)
-  )
-  if (unrecorded !== null) return { ok: false, why: unrecorded }
-
-  const scratch = mkdtempSync(join(SCRATCH_ROOT, "akasha-landing-"))
-  try {
-    const args: string[] = ["write"]
-    for (const [at, one] of bodies.entries()) {
-      const held = join(scratch, `${at}.body`)
-      writeFileSync(held, one.body, "utf8")
-      args.push("--file-path", one.relPath, "--content-file", held)
-    }
-    args.push("--message", message)
-    const run = ran(root, writer, args)
-    if (run.code !== 0) return { ok: false, why: run.output }
-    return { ok: true, sha: shaIn(run.output) }
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
+// A read whose output reaches nobody records nothing, and the door refuses one that is piped. The
+// output here lands in a file the writer reads back, which the door takes, so the record stands.
+function reading(writer: string, root: string, paths: readonly string[]): string | null {
+  for (const path of paths) {
+    const read = runInAkasha(writer, root, ["read", "--file-path", path])
+    if (read.code !== 0) return whyRefused(read.output)
   }
+  return null
+}
+
+function wantedIn(output: string): readonly string[] {
+  const found = new Set<string>()
+  for (const [, path] of output.matchAll(WANTED)) if (path !== undefined) found.add(path)
+  return [...found]
+}
+
+export function landInAkasha(writer: string, root: string, args: readonly string[]): Outcome {
+  let asked = runInAkasha(writer, root, args)
+  for (let round = 0; round < ROUNDS && asked.code !== 0; round += 1) {
+    const wanted = wantedIn(asked.output)
+    if (wanted.length === 0) break
+    const refused = reading(writer, root, wanted)
+    if (refused !== null) return { kind: "refused", detail: refused }
+    asked = runInAkasha(writer, root, args)
+  }
+  if (asked.code !== 0) return { kind: "refused", detail: whyRefused(asked.output) }
+  return { kind: "written" }
 }

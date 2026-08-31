@@ -5,11 +5,15 @@ import { type Outcome, whyRefused, writerFor } from "./gated-write.ts"
 import { pageStemOf } from "../../page/name/name.ts"
 import { frontmatterOf, seatNameForAgent } from "./seat-presence-read.ts"
 import type { StandingSubagent } from "./subagent-guard.ts"
+import {
+  removeAkashaSubagentPage,
+  removeAkashaSubagentPagesOf,
+  writeAkashaSubagentPage,
+} from "./subagent-page-akasha.ts"
 import { SUBAGENT_MARK, subagentUnder } from "./subagent.ts"
 import {
   standingPagePathsOf,
   subagentPagePathFor,
-  subagentPageRelPath,
   subagentSeatName,
   SUBAGENT_PAGE_SUFFIX,
   SUBAGENT_PAGE_TYPE,
@@ -42,18 +46,7 @@ export function subagentPageBody(id: string, name: string, dispatchedAs: string,
   ].join("\n")
 }
 
-export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome {
-  const own = subagentUnder(agent)
-  const seatName = subagentSeatName(agent)
-  if (own === null || seatName === null || dispatchedAs === "") return { kind: "unstated" }
-  const relPath = subagentPageRelPath(seatName, own)
-  const absolute = subagentPagePathFor(agent)
-  if (absolute === null) return { kind: "unstated" }
-  const standing = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
-  const held = standing === null ? null : standingId(absolute)
-  const name = `${seatName}${SUBAGENT_MARK}${own}`
-  const body = subagentPageBody(held ?? Bun.randomUUIDv7(), name, dispatchedAs, own)
-  if (standing === body) return { kind: "unchanged" }
+function writeStandingPage(absolute: string, name: string, body: string): Outcome {
   const dir = mkdtempSync(join(SCRATCH, "subagent-page-"))
   try {
     const bodyPath = join(dir, "body.md")
@@ -78,6 +71,27 @@ export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome 
   }
 }
 
+// A subagent's page stands in akasha as well as where it stands today, and the two carry one id, so
+// the id is worked out once here and handed to both. The akasha page is written even where the
+// standing one is unchanged, so a subagent that began before akasha held the type still arrives.
+export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome {
+  const own = subagentUnder(agent)
+  const seatName = subagentSeatName(agent)
+  if (own === null || seatName === null || dispatchedAs === "") return { kind: "unstated" }
+  const absolute = subagentPagePathFor(agent)
+  if (absolute === null) return { kind: "unstated" }
+  const standing = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
+  const held = standing === null ? null : standingId(absolute)
+  const name = `${seatName}${SUBAGENT_MARK}${own}`
+  const id = held ?? Bun.randomUUIDv7()
+  const body = subagentPageBody(id, name, dispatchedAs, own)
+  const here: Outcome =
+    standing === body ? { kind: "unchanged" } : writeStandingPage(absolute, name, body)
+  if (here.kind === "refused") return here
+  const there = writeAkashaSubagentPage(id, seatName, own, dispatchedAs)
+  return there.kind === "refused" ? there : here
+}
+
 export function keepingReadings<T>(pagePath: string, act: () => T): T {
   const readings = `${pagePath.slice(0, -SUBAGENT_PAGE_SUFFIX.length)}${READINGS_SUFFIX}`
   const held = existsSync(readings) ? readFileSync(readings, "utf8") : null
@@ -92,8 +106,9 @@ export function removeSubagentPage(agent: string): Outcome {
   const own = subagentUnder(agent)
   const seatName = subagentSeatName(agent)
   if (own === null || seatName === null) return { kind: "unchanged" }
+  const there = removeAkashaSubagentPage(seatName, own)
   const absolute = subagentPagePathFor(agent)
-  if (absolute === null || !existsSync(absolute)) return { kind: "unchanged" }
+  if (absolute === null || !existsSync(absolute)) return there
   const taken = keepingReadings(absolute, () =>
     runTool(
       "rm.ts",
@@ -137,8 +152,9 @@ export function removeSubagentPagesOf(seat: string, why: string): Outcome {
   const seatName = seatNameForAgent(seat)
   if (seatName === null) return { kind: "unchanged" }
   takeOrphanedReadings(seatName)
+  const there = removeAkashaSubagentPagesOf(seatName, why)
   const standing = standingPagePathsOf(seatName)
-  if (standing.length === 0) return { kind: "unchanged" }
+  if (standing.length === 0) return there
   const byRepo = new Map<string, string[]>()
   for (const one of standing) {
     const repo = (placeHolding(one, SUBAGENT_PLACES) ?? SUBAGENT_WRITE).repo
