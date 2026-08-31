@@ -11,7 +11,7 @@ export const akashaSubagentReading = {
     {
       statement: "A subagent's page stands in akasha and nowhere else.",
       workingMemory:
-        "The page type stands. Nothing writes a subagent page in either place: the harness registers `name-subagent` alone, so the three under `agent/subagent/` are stale while the readers of them run. Alan has approved a hook in akasha at `SubagentStart` and `SubagentStop`, which the client knows both of. Left: a module landing the page, that hook, the two readers in `subagent-page-read.ts` pointed at akasha, and the old place gone with the `files:` line enrolling it.",
+        "The place, the module, the hook and the readers all stand, and the old store is gone. Proven by hand: a start payload lands the page and a stop payload takes it away, and `standingSubagentsOf` reads the akasha page back through the seat guards. Unproven: the fields a live `SubagentStart` carries, which are taken from what the old hook read, and a hook binds only from the next seat spawned after it landed.",
     },
     {
       statement: "A subagent owes a set of warrants of its own rather than its seat's.",
