@@ -4,7 +4,10 @@ import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { pageTypesIn } from "../../pages-system/indexes/index-entries/index-entries.module.code.ts"
 import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
-import { pageNamed } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
+import {
+  namedIn,
+  pageNamed,
+} from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
   type Loaded,
   loadedFrom,
@@ -41,6 +44,8 @@ export type Selector<T> = {
 export type Bounded = Running & {
   readonly wakesOn: Waking
 }
+
+const INSIDE = "akasha/"
 
 const TS = "ts"
 
@@ -85,17 +90,30 @@ export const TEXTS: Selector<Text> = {
   },
 }
 
+function pagedInside(path: string, shadow: Shadow): boolean {
+  return path.startsWith(INSIDE) && pageNamed(path, pageTypesFor(shadow))
+}
+
 export const PAGES: Selector<Paged> = {
   named: "pages",
-  wakesOn: (path, shadow) => pageNamed(path, pageTypesFor(shadow)),
+  wakesOn: pagedInside,
   from: (change, shadow) => {
     const found: Paged[] = []
     for (const given of standingIn(change)) {
-      if (!pageNamed(given.path, pageTypesFor(shadow))) continue
+      if (!pagedInside(given.path, shadow)) continue
       found.push({ root: given.root, path: given.path, value: loadedFrom(bodyOf(given)) })
     }
     return found
   },
+}
+
+export function pagesTailed(slug: string): Selector<Paged> {
+  const tailed = (path: string): boolean => namedIn(path)?.tail === slug
+  return {
+    named: `pages tailed ${slug}`,
+    wakesOn: (path, shadow) => PAGES.wakesOn(path, shadow) && tailed(path),
+    from: (change, shadow) => PAGES.from(change, shadow).filter((one) => tailed(one.path)),
+  }
 }
 
 export function judgingEach<T extends { readonly path: string }>(

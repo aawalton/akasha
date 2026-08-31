@@ -20,6 +20,7 @@ import {
   overEachFile,
   overEachText,
   PAGES,
+  pagesTailed,
   type Selector,
   TEXTS,
   waking,
@@ -32,6 +33,10 @@ const CODE_AT = "akasha/checks-system/change-walking/held/held.module.code.ts"
 const NOTE_AT = "akasha/checks-system/change-walking/held/held.module.note.md"
 
 const GONE_AT = "akasha/checks-system/change-walking/held/gone.module.ts"
+
+const TYPE_AT = "akasha/checks-system/change-walking/held/held.page-type.ts"
+
+const OUTSIDE_AT = "outside/checks-system/change-walking/held/held.module.ts"
 
 const HELD_ID = "01a04bc4-0000-7000-8000-00000000000a"
 
@@ -69,6 +74,12 @@ function pagedWorld(): Change {
   standingFiled(root, PAGE_TYPE, MODULE, [{ path: PAGE_AT, id: HELD_ID }])
   const held = onDisk(root)
   return { root, changed: [CODE_AT, GONE_AT, PAGE_AT], after: held, before: held }
+}
+
+function tailedWorld(): Change {
+  const held = pagedWorld()
+  writeFileSync(join(held.root, TYPE_AT), `export const held = { slug: "held" }\n`)
+  return { ...held, changed: [...held.changed, TYPE_AT] }
 }
 
 function counting(held: Shadow, asked: () => undefined): Shadow {
@@ -152,6 +163,24 @@ test("a file whose name tails a property rather than a page type is no page and 
   expect(PAGES.wakesOn(CODE_AT, shadow)).toBe(false)
 })
 
+test("a selector tailed by one page type takes a page carrying that tail and no page carrying another", () => {
+  const change = tailedWorld()
+  const shadow = shadowAt(change.root)
+  const tailed = pagesTailed(PAGE_TYPE)
+  const handed = tailed.from(change, shadow)
+  expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT, TYPE_AT])
+  expect(handed.map((one) => one.path)).toEqual([TYPE_AT])
+  expect(tailed.wakesOn(TYPE_AT, shadow)).toBe(true)
+  expect(tailed.wakesOn(PAGE_AT, shadow)).toBe(false)
+})
+
+test("a page named outside the akasha folder is no page, so nothing bounded to the pages wakes", () => {
+  const change = pagedWorld()
+  const shadow = shadowAt(change.root)
+  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.wakesOn(OUTSIDE_AT, shadow)).toBe(false)
+})
+
 test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
   const change = pagedWorld()
   writeFileSync(join(change.root, PAGE_AT), "export const held = 1\n")
@@ -222,7 +251,12 @@ test("the judge of a selection is handed the index the change leaves, so it may 
 test("a selector wakes on every path it hands over, so no path it judges passes a gate unseen", () => {
   const change = pagedWorld()
   const shadow = shadowAt(change.root)
-  const every: readonly Selector<{ readonly path: string }>[] = [FILES, TEXTS, PAGES]
+  const every: readonly Selector<{ readonly path: string }>[] = [
+    FILES,
+    TEXTS,
+    PAGES,
+    pagesTailed(MODULE),
+  ]
   for (const selector of every) {
     const handed = selector.from(change, shadow)
     expect(handed.length).toBeGreaterThan(0)
