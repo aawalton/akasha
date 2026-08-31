@@ -1,10 +1,13 @@
 import { existsSync } from "node:fs"
 import { initiativesDrawn } from "../../akasha/editor-extension/work-initiatives/work-initiatives.module.code.ts"
-import { type Roots } from "../../page/page.ts"
-import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { addressParts } from "../../page/page-address.ts"
+import { AKASHA } from "../../repo/roots/roots.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 
 const KEY = "initiative"
+
+// The assignment, under the key the old readers ask it by.
+const ASSIGNMENT_KEY = "domain-slug"
 
 export const INITIATIVE_SLUG_KEY = "initiative-slug"
 
@@ -35,10 +38,15 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   return { relPath: at, pageTypeSlug: KEY }
 }
 
-export function initiativeOf(agent: string, roots: Roots = resolveRoots()): InitiativeRecord | null {
-  const bare = pageTextOf(agent, INITIATIVE_SLUG_KEY)
-  if (bare === null) return null
-  return { value: initiativeStemOf(bare, rootFor(roots, AKASHA)) ?? bare }
+// A seat's initiative is the assignment it states, under the page type that initiative stands as.
+// An assignment naming another type is no initiative, and a bare slug names a domain. The old
+// `initiative-slug` stood beside the assignment saying the same thing, and no seat ever stated it,
+// so the sweep that read it swept nothing.
+export function initiativeOf(agent: string): InitiativeRecord | null {
+  const stated = pageTextOf(agent, ASSIGNMENT_KEY)
+  if (stated === null) return null
+  const parts = addressParts(stated)
+  return parts === null || parts.type !== KEY ? null : { value: parts.slug }
 }
 
 function placeOf(found: ReadonlyMap<string, string>): string {

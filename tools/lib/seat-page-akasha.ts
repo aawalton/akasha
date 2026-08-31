@@ -7,7 +7,7 @@ import type { Roots } from "../../page/page.ts"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { type Outcome, type Run, whyRefused } from "./gated-write.ts"
-import { domainAddressOf, initiativeSlugOf } from "./seat-page-slugs.ts"
+import { domainAddressOf } from "./seat-page-slugs.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import type { Stated } from "./seat-stated.ts"
 
@@ -87,7 +87,6 @@ export function akashaSeatBody(
   const person = personPrincipals(root).includes(principal)
   const above = person ? null : (parentName ?? principalSeatNameOf(stated.agent))
   if (!person && (above === null || above === "")) return null
-  const initiative = stated.initiative === null ? null : initiativeSlugOf(stated.initiative.value)
   const lines: string[] = [
     'import type { Seat } from "../seat.page-type.ts"',
     "",
@@ -102,7 +101,6 @@ export function akashaSeatBody(
     `  startMode: ${said(mode)},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${said(registration)},`,
-    ...(initiative === null ? [] : [`  initiativeSlug: ${said(initiative)},`]),
     // The one value observed of a seat that the page carries. It cannot be observed again, so it
     // outlives the page rather than standing beside it.
     ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${said(stated.session.value)},`]),
