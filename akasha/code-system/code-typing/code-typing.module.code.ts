@@ -160,15 +160,16 @@ export function declaredNamed(typing: Typing, path: string, name: string): reado
   const source = typing.sourceAt(path)
   if (source === null) return []
   const found: ts.Node[] = []
-  for (const one of source.statements) {
-    if (ts.isFunctionDeclaration(one) && one.name?.text === name) found.push(one)
-    if (ts.isTypeAliasDeclaration(one) && one.name.text === name) found.push(one)
-    if (ts.isInterfaceDeclaration(one) && one.name.text === name) found.push(one)
-    if (!ts.isVariableStatement(one)) continue
-    for (const held of one.declarationList.declarations) {
-      if (ts.isIdentifier(held.name) && held.name.text === name) found.push(held)
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isFunctionDeclaration(node) && node.name?.text === name) found.push(node)
+    if (ts.isTypeAliasDeclaration(node) && node.name.text === name) found.push(node)
+    if (ts.isInterfaceDeclaration(node) && node.name.text === name) found.push(node)
+    if (ts.isVariableDeclaration(node) && ts.isIdentifier(node.name) && node.name.text === name) {
+      found.push(node)
     }
+    ts.forEachChild(node, walk)
   }
+  ts.forEachChild(source, walk)
   return found
 }
 

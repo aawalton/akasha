@@ -15,7 +15,10 @@ const OWN = "akasha/own/own.module.code.ts"
 
 const BOTH = "akasha/both/both.module.code.ts"
 
+const TWICE = "akasha/twice/twice.module.code.ts"
+
 const BODIES = new Map<string, string>([
+  [TWICE, 'export function twice(): string {\n  const twice = "one"\n  return twice\n}\n'],
   [
     HELD,
     "export type Waking = (path: string) => boolean\n\nexport function waking(one: Waking): Waking {\n  return one\n}\n",
@@ -121,4 +124,10 @@ test("a key a type declares is renamed where the type states it and where a body
   const kept = made.binding.changes.get(KEPT) ?? ""
   expect(kept).toContain("readonly isInput: string")
   expect(kept).toContain('export const kept: Kept = { isInput: "yes" }')
+})
+
+test("a name a file carries in more than one place is refused rather than guessed at", () => {
+  expect(bound(TWICE, "twice", "once")).toEqual({
+    refused: `${TWICE} carries \`twice\` in more than one place, so which one to rename is unsaid`,
+  })
 })

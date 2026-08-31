@@ -40,6 +40,10 @@ export const tokenRenaming = {
     },
     {
       invariantKind: "departure",
+      statement: "A name a file carries in more than one place is refused rather than guessed at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key a type declares is renamed wherever the checker resolves to it.",
     },
     {

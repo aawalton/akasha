@@ -74,6 +74,11 @@ function standingFor(typing: Typing, one: Tokening): Standing {
       refused: `${one.path} carries \`${one.was}\` as a name and as a key, so which one to rename is unsaid`,
     }
   }
+  if (named.size > 1) {
+    return {
+      refused: `${one.path} carries \`${one.was}\` in more than one place, so which one to rename is unsaid`,
+    }
+  }
   if (named.size > 0) return { nodes: named, key: false }
   if (keyed.size > 0) return { nodes: keyed, key: true }
   return { refused: `${one.path} carries no \`${one.was}\`` }

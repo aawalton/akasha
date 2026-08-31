@@ -61,7 +61,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A name a file keeps to itself is found among the statements it stands under.",
+      statement: "A name a file keeps to itself is found wherever in that file it is declared.",
     },
     {
       invariantKind: "departure",
