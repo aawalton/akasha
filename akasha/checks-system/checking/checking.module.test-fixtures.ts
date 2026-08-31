@@ -118,21 +118,21 @@ const WAKES_TS =
   "export function wakesTs(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "ts woke" }))\n' +
   "}\n" +
-  'wakesTs.wakesOn = (path) => path.endsWith(".ts")\n'
+  'wakesTs.isInput = (path) => path.endsWith(".ts")\n'
 
 const WAKES_PAGES =
   `import { PAGES } from "${WALKING_AT}"\n` +
   "export function wakesPages(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "a page woke" }))\n' +
   "}\n" +
-  "wakesPages.wakesOn = PAGES.wakesOn\n"
+  "wakesPages.isInput = PAGES.isInput\n"
 
 const WAKING_THROWS =
   "export function wakingThrows(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "woke anyway" }))\n' +
   "}\n" +
-  "wakingThrows.wakesOn = () => {\n" +
-  '  throw new Error("the waking could not answer")\n' +
+  "wakingThrows.isInput = () => {\n" +
+  '  throw new Error("the input could not be answered")\n' +
   "}\n"
 
 export const TWO_CHECKS = [

@@ -172,7 +172,7 @@ test("one shadow is cast over the change and handed to every check that runs", (
   expect(said).toEqual([])
 })
 
-test("a check whose waking no changed path answers does not run", () => {
+test("a check no changed path is input to does not run", () => {
   const root = rootWith(TWO_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   const held = onDisk(root)
@@ -186,7 +186,7 @@ test("a check whose waking no changed path answers does not run", () => {
   expect(said.map((one) => one.reason)).not.toContain("ts woke")
 })
 
-test("a check carrying no waking runs over a change its woken neighbour sleeps through", () => {
+test("a check stating no input runs over a change its neighbour sleeps through", () => {
   const root = rootWith(TWO_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   const every = checksIn(root)
@@ -200,7 +200,7 @@ test("a check carrying no waking runs over a change its woken neighbour sleeps t
   expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
 })
 
-test("a check whose waking could not answer runs, its neighbour woken as it would have been", () => {
+test("a check whose input could not be answered runs, its neighbour taken as it would have been", () => {
   const root = rootWith(WAKING_THROWS_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   writeFileSync(join(root, "two.ts"), "two")
@@ -222,7 +222,7 @@ test("a check whose waking could not answer runs, its neighbour woken as it woul
   ).toEqual(["woke anyway"])
 })
 
-test("a check whose waking a changed path answers runs, and judges every path in the change", () => {
+test("a check a changed path is input to runs, and judges every path in the change", () => {
   const root = rootWith(TWO_CHECKS)
   writeFileSync(join(root, "two.ts"), "two")
   const held = onDisk(root)
@@ -247,7 +247,7 @@ test("a check bounded to the pages sleeps through a change touching a file besid
   ).toEqual(["refused"])
 })
 
-test("a check bounded to the pages wakes for a page, its waking having asked the index", () => {
+test("a page is input to a check bounded to the pages, its input having asked the index", () => {
   const root = pagedRoot()
   const held = onDisk(root)
   const change = { root, changed: [HELD_PAGE_AT], after: held, before: held }
@@ -260,7 +260,7 @@ test("a check bounded to the pages wakes for a page, its waking having asked the
   ).toEqual(["a page woke", "refused"])
 })
 
-test("`wokenBy` names the checks that ran and `named` names every check the gate holds", () => {
+test("`checksFor` names the checks that ran and `named` names every check the gate holds", () => {
   const root = rootWith(TWO_CHECKS)
   writeFileSync(join(root, "one.md"), "one")
   writeFileSync(join(root, "two.ts"), "two")
@@ -279,7 +279,7 @@ function over(changed: readonly string[]): Change {
   return { root: ROOT, changed, after: held, before: held }
 }
 
-test("a check refuses nothing in a change its own waking turns away whole", () => {
+test("a check refuses nothing in a change its own input turns away whole", () => {
   const asked = shadowAsked(over(SAMPLED))
   const woken: string[] = []
   for (const one of checksIn(ROOT)) {
