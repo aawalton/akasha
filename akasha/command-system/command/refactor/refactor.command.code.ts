@@ -215,9 +215,15 @@ export function landed(
     saying: () => saying(one, carries, repointing, pages, false),
   }
   const landing = landingAsked({ ...given, root }, asked)
-  if (landing.code === 0 && !dryRun) carryReadings(root, readings)
-  if (landing.code !== 0 || !dryRun) return landing
-  return answering([...saying(one, carries, repointing, pages, true), ...landing.report], [], 0)
+  if (!dryRun) {
+    if (landing.code === 0) carryReadings(root, readings)
+    return landing
+  }
+  return answering(
+    [...saying(one, carries, repointing, pages, true), ...landing.report],
+    landing.refusals,
+    landing.code
+  )
 }
 
 export function refactor(argv: readonly string[], given: Given): Answer {
