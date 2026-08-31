@@ -11,5 +11,8 @@
     "./code-specifier": "./code-specifier/code-specifier.module.code.ts",
     "./code-tests": "./code-tests/code-tests.module.code.ts",
     "./code-typing": "./code-typing/code-typing.module.code.ts"
+  },
+  "dependencies": {
+    "typescript": "5.9.3"
   }
 }

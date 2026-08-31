@@ -5,5 +5,8 @@
   "exports": {
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
     "./monarch-unreviewed-transactions": "./readout/readouts/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
   }
 }

@@ -9,5 +9,8 @@
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts"
+  },
+  "dependencies": {
+    "typescript": "5.9.3"
   }
 }
