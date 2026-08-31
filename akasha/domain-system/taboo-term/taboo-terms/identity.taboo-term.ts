@@ -1,0 +1,13 @@
+import type { TabooTerm } from "../taboo-term.page-type.ts"
+
+export const identity = {
+  id: "01a0593e-da2e-7138-980e-60713a5f4dca",
+  pageTypeSlug: "taboo-term",
+  slug: "identity",
+  tabooSenses: [
+    {
+      sense: "who a seat is and what it must read",
+      instead: "its attributes and what is required for them",
+    },
+  ],
+} as const satisfies TabooTerm
