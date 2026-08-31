@@ -3,7 +3,7 @@ import {
   readingIn,
   type Standing,
   standingAt,
-  standingByPathAnswered,
+  standingByPath,
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
@@ -134,7 +134,7 @@ function attributeFor(asking: Asking, asked: string): string {
 }
 
 function loadingInto(root: string, reading: Reading, path: string): string | null {
-  const standing = standingByPathAnswered(reading, path)[0]
+  const standing = standingByPath(reading, path)[0]
   if (standing === undefined) return null
   const page = valueAt(standing.path, root)
   if (page === null) return null
@@ -196,7 +196,7 @@ function relationsInto(
   const under = `${asking.indexName}/${AT_PAGE}/${AT_ID}`
   const attribute = attributeFor(asking, asked)
   const found: Edge[] = []
-  for (const one of standingByPathAnswered(reading, path)) {
+  for (const one of standingByPath(reading, path)) {
     const here = `${under}/${one.id}`
     for (const property of reading.listing(here)) {
       if (!property.directory) continue
