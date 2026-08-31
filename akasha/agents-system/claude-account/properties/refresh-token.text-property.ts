@@ -10,10 +10,4 @@ export const refreshToken = {
   definition: "the token a fresh access token is asked for with",
   max: 4000,
   nameFormatSlug: null,
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "This outlives the access token it renews.",
-    },
-  ],
 } as const satisfies TextProperty
