@@ -8,6 +8,7 @@ import type { Reading } from "../indexes/index-shape/index-shape.module.code.ts"
 import { beneath, indexIn, readingAt } from "../indexes/index-surface/index-surface.module.code.ts"
 import { indexingAt, rebuiltFrom } from "../indexes/indexing/indexing.module.code.ts"
 import {
+  aType,
   bodyOf,
   type Held,
   idOf,
@@ -208,6 +209,8 @@ function naming(unique: string | null): Held {
 function seededNaming(): string {
   const repo = scratch.rootFor("akasha-naming-")
   for (const [at, value] of STANDING) put(repo, join(AKASHA, at), bodyOf(value))
+  const [namingAt, named] = aType("1", "domain", "page", ["name"])
+  put(repo, join(AKASHA, namingAt), bodyOf(named))
   put(repo, join(AKASHA, NAME_AT), bodyOf(naming("always")))
   put(repo, join(AKASHA, SHARED_AT), bodyOf(SHARED))
   rebuiltFrom(join(repo, AKASHA), indexIn(repo), repo)

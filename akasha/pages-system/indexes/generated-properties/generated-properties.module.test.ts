@@ -42,6 +42,20 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
   filed(root, `identity/${KIND}/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
+function typed(root: string, slug: string, declares: readonly string[]): undefined {
+  const at = `akasha/${slug}.page-type.ts`
+  const carried = declares
+    .map((one) => `{ pagePropertySlug: ${JSON.stringify(one)}, required: false, many: false }`)
+    .join(", ")
+  put(
+    root,
+    at,
+    `export const held = { id: "${ID}", pageTypeSlug: "page-type", slug: "${slug}",` +
+      ` extendsSlug: null, properties: [${carried}] }\n`
+  )
+  filed(root, `identity/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
+}
+
 function named(root: string, slug: string, unique: string | null = null): undefined {
   filed(root, `schema/page-property/${SHAPE}/slug/${slug}.jsonl`, {
     pageTypeSlug: SHAPE,
@@ -83,6 +97,7 @@ function rooted(): string {
   const root = scratch.rootFor("akasha-generated-")
   kind(root, "uuid-v7", false)
   kind(root, "waiting", true)
+  typed(root, SHAPE, ["slug"])
   return root
 }
 
