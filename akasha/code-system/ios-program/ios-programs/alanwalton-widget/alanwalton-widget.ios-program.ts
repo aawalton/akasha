@@ -31,5 +31,6 @@ export const alanwaltonWidget = {
     "ios-component/surplus-ring",
     "ios-component/tier",
   ],
+  targetName: "ValuesWidgetExtension",
   profileName: "alanwalton widget App Store",
 } as const satisfies IosProgram

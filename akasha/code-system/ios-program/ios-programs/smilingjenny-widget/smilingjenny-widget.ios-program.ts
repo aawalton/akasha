@@ -20,5 +20,6 @@ export const smilingjennyWidget = {
     "ios-component/surplus-ring",
     "ios-component/tier",
   ],
+  targetName: "SmilingJennyWidgetExtension",
   profileName: "smilingjenny widget App Store",
 } as const satisfies IosProgram

@@ -6,11 +6,13 @@ import type { Entitlements } from "./properties/entitlements.file-property.ts"
 import type { InfoPlist } from "./properties/info-plist.file-property.ts"
 import type { Main } from "./properties/main.named-file-property.ts"
 import type { ProfileName } from "./properties/profile-name.text-property.ts"
+import type { TargetName } from "./properties/target-name.text-property.ts"
 
 export type IosProgram = Domain & {
   bundleId?: BundleId
   componentSlugs?: ComponentSlugs
   profileName?: ProfileName
+  targetName?: TargetName
   main?: Main
   infoPlist?: InfoPlist
   entitlements?: Entitlements
@@ -34,12 +36,14 @@ export const iosProgram = {
     "named-file-property/main",
     "relation-property/component-slugs",
     "text-property/profile-name",
+    "text-property/target-name",
   ],
   extendsSlug: "page-type/domain",
   properties: [
     { pagePropertySlug: "bundle-id", required: false, many: false },
     { pagePropertySlug: "component-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "profile-name", required: false, many: false },
+    { pagePropertySlug: "target-name", required: false, many: false },
     { pagePropertySlug: "main", required: false, many: false },
     { pagePropertySlug: "info-plist", required: false, many: false },
     { pagePropertySlug: "entitlements", required: false, many: false },
