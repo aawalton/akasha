@@ -39,7 +39,8 @@ if [[ -z "$CAP" ]]; then
   exit 1
 fi
 
-bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh"
+bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
+  "$PACKAGE/smilingjenny.ios-app.capacitor-config.json"
 # BEFORE the Capacitor call, which copies whatever stands in webDir into the native
 # project. Staged after, this run would ship the page the run before it left there.
 bash "$SHARED/stage-web-entry/stage-web-entry.shell-script.shell.sh" \

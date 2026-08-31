@@ -3,7 +3,11 @@ node_modules/
 bun.lock
 bun.lockb
 
-# Capacitor-generated native project (regenerated from package.json + capacitor.config.json).
+# Capacitor-generated. The config is written from the one beside the page by
+# write-capacitor-config, which puts the two names the page states into it.
+capacitor.config.json
+
+# Capacitor-generated native project.
 ios/
 android/
 

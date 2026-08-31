@@ -44,6 +44,7 @@ if [[ ! -f www/index.html ]]; then
   exit 1
 fi
 
-bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh"
+bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
+  "$PACKAGE/alanwalton.ios-app.capacitor-config.json"
 "$CAP" "$MODE" ios
 bash "$HERE/../alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
