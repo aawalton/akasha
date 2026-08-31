@@ -6,7 +6,6 @@ import {
   standingAt,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { namedIn } from "../../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -140,12 +139,12 @@ export function restated(
 }
 
 export function tailRenamed(path: string, one: Renaming): string | null {
-  const said = namedIn(path)
-  if (said === null || said.tail !== one.was) return null
-  const cut = path.lastIndexOf(`${said.stem}.${said.tail}.`)
-  if (cut < 0) return null
-  const after = path.slice(cut + `${said.stem}.${said.tail}.`.length)
-  return `${path.slice(0, cut)}${said.stem}.${one.now}.${after}`
+  const cut = path.lastIndexOf("/")
+  const name = cut < 0 ? path : path.slice(cut + 1)
+  const parts = name.split(".")
+  if (parts.length < 3 || parts[1] !== one.was) return null
+  const held = [parts[0], one.now, ...parts.slice(2)].join(".")
+  return `${path.slice(0, cut + 1)}${held}`
 }
 
 function dirOf(path: string): string {
