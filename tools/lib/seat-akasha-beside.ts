@@ -137,6 +137,14 @@ export function besideWrittenAtMs(page: string): number {
   return stood === undefined ? 0 : stood.mtimeMs
 }
 
+// The process akasha holds as the seat's supervisor, ready to be judged against /proc. This is here
+// rather than spelled at each caller so the key and the coercion are stated once: a reader that
+// asked for the wrong name would get a clean nothing and read the seat as gone.
+export function akashaHolderProcessOf(agentId: string): string | null {
+  const held = akashaValueOf(agentId, SUPERVISOR_PROCESS)
+  return typeof held === "string" && held !== "" ? held : null
+}
+
 // One value read straight out of what stands beside a seat in akasha, by the key the old sidecar
 // carried it under. This is here rather than with the other readers so that the presence read can
 // reach it: everything else a seat is read for stands on presence, and presence cannot stand on

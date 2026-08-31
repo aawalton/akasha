@@ -1,8 +1,4 @@
-import {
-  akashaSeatIdForName,
-  akashaValueOf,
-  SUPERVISOR_PROCESS,
-} from "./seat-akasha-beside.ts"
+import { akashaHolderProcessOf, akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { frontmatterOf, seatPagePaths, seatPresence } from "./seat-presence-read.ts"
 import { type SeatPresence, statedProcessPresence } from "./seat-proc-key.ts"
 
@@ -32,10 +28,5 @@ export function seatByName(name: string): SeatByName | null {
   }
   const id = akashaSeatIdForName(name)
   if (id === null) return null
-  const held = akashaValueOf(id, SUPERVISOR_PROCESS)
-  return {
-    id,
-    name,
-    presence: statedProcessPresence(typeof held === "string" && held !== "" ? held : null),
-  }
+  return { id, name, presence: statedProcessPresence(akashaHolderProcessOf(id)) }
 }

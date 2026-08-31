@@ -3,7 +3,8 @@ import { basename } from "node:path"
 import { pageStemOf } from "../../page/name/name"
 import { seatAbove } from "./subagent.ts"
 import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
-import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
+import { pageValuesOf } from "./seat-page-values.ts"
+import { seatPageForAgent } from "./seat-presence-read.ts"
 import { FLEX } from "./compose-seat-name.ts"
 
 const SPAWNED = "spawned"
@@ -58,9 +59,11 @@ export function launchFrom(frontmatter: Record<string, unknown> | null): string 
   return null
 }
 
+// How a seat came to exist is read from what it states, through the funnel. `refuseFlex` turns on
+// this: a seat this answers null for is refused a flex as one nothing says how it came to exist,
+// which is what every seat whose old page had gone read as.
 export function launchOf(agent: string): string | null {
-  const page = seatPageForAgent(agent)
-  return page === null ? null : launchFrom(frontmatterOf(page))
+  return launchFrom(pageValuesOf(agent))
 }
 
 export function launchStating(
