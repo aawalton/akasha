@@ -6,6 +6,7 @@ export const alanwalton = {
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
   manifest: "json",
+  buildScript: "shell-script/alanwalton-build-sim",
   bundleId: "com.alanwalton.app",
   capacitorConfig: "json",
   developmentTeam: "M6AN6NM6FL",

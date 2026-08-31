@@ -1,5 +1,6 @@
 import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
 import type { WorkspacePackage } from "../workspace-package/workspace-package.page-type.ts"
+import type { BuildScript } from "./properties/build-script.relation-property.ts"
 import type { BundleId } from "./properties/bundle-id.text-property.ts"
 import type { CapacitorConfig } from "./properties/capacitor-config.file-property.ts"
 import type { DevelopmentTeam } from "./properties/development-team.text-property.ts"
@@ -9,6 +10,7 @@ import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
+  buildScript?: BuildScript
   bundleId: BundleId
   capacitorConfig: CapacitorConfig
   developmentTeam: DevelopmentTeam
@@ -31,6 +33,7 @@ export const iosApp = {
     "ios-app/alanwalton",
     "ios-app/smilingjenny",
     "named-file-property/git-ignore",
+    "relation-property/build-script",
     "shell-script/build-stamp",
     "shell-script/monarch-url",
     "shell-script/stage-web-entry",
@@ -42,6 +45,7 @@ export const iosApp = {
   ],
   extendsSlug: "page-type/workspace-package",
   properties: [
+    { pagePropertySlug: "build-script", required: false, many: false },
     { pagePropertySlug: "bundle-id", required: true, many: false },
     { pagePropertySlug: "capacitor-config", required: true, many: false },
     { pagePropertySlug: "development-team", required: true, many: false },
