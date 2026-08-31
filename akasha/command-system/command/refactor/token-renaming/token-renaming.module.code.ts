@@ -89,9 +89,9 @@ function standingFor(typing: Typing, one: Tokening): Standing {
   return { refused: `${one.path} carries no \`${one.was}\`` }
 }
 
-function takenAlready(typing: Typing, one: Tokening): boolean {
-  if (namedIn(typing, one.path, one.now).size > 0) return true
-  return declarationsNamed(typing, one.path, one.now).length > 0
+function carriesAlready(typing: Typing, path: string, name: string): boolean {
+  if (namedIn(typing, path, name).size > 0) return true
+  return declarationsNamed(typing, path, name).length > 0
 }
 
 export function bindingFor(
@@ -103,7 +103,9 @@ export function bindingFor(
   const typing = typingOver(root, over.typed, readingOf(root, textOf))
   const stood = standingFor(typing, one)
   if ("refused" in stood) return { refused: stood.refused }
-  if (takenAlready(typing, one)) return { refused: `${one.path} already carries \`${one.now}\`` }
+  if (carriesAlready(typing, one.path, one.now)) {
+    return { refused: `${one.path} already carries \`${one.now}\`` }
+  }
   const places = stood.key
     ? namingOf(typing, root, stood.nodes)
     : referencesOf(typing, root, stood.nodes)
@@ -113,6 +115,11 @@ export function bindingFor(
     const at = held.get(found.path) ?? []
     at.push([{ start: found.start, end: found.end }, said])
     held.set(found.path, at)
+  }
+  for (const path of [...held.keys()].sort()) {
+    if (path !== one.path && carriesAlready(typing, path, one.now)) {
+      return { refused: `${path} names \`${one.was}\` and already carries \`${one.now}\`` }
+    }
   }
   const changes = new Map<string, string>()
   for (const [path, spots] of held) {

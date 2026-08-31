@@ -28,6 +28,11 @@ export const tokenRenaming = {
     {
       invariantKind: "departure",
       statement:
+        "A name a file the rename would respell already carries is refused rather than shadowed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The places a name is spelled are read from the checker rather than matched as text.",
     },
     {

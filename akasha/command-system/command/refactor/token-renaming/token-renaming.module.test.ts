@@ -151,3 +151,29 @@ test("a line still naming it outside what the checker was built over is named al
   expect(made.binding.changes.get(NAMER)).toContain("export const two = input(one)")
   expect(made.binding.still).toEqual([{ path: SHADOW, lines: [2, 3] }])
 })
+
+const TAKER = "akasha/taker/taker.module.code.ts"
+
+const CARRIED = new Map<string, string>([
+  [HELD, BODIES.get(HELD) ?? ""],
+  [
+    TAKER,
+    'import { marking } from "../held/held.module.code.ts"\n\nfunction held(): string {\n  return "one"\n}\n\nexport const three = marking\n\nexport const four = held()\n',
+  ],
+])
+
+const CARRIED_PATHS = [...CARRIED.keys()]
+
+test("a name a file the rename would respell already carries is refused rather than shadowed", () => {
+  const asked = tokeningFor(HELD, "marking", "held")
+  if ("refused" in asked) throw new Error(asked.refused)
+  const made = bindingFor(
+    ROOT,
+    { typed: CARRIED_PATHS, every: CARRIED_PATHS },
+    asked.tokening,
+    (path) => CARRIED.get(path) ?? null
+  )
+  expect(made).toEqual({
+    refused: `${TAKER} names \`marking\` and already carries \`held\``,
+  })
+})
