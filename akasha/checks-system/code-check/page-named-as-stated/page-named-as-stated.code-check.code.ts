@@ -41,8 +41,9 @@ function statedIn(node: ts.ObjectLiteralExpression): Said | null {
   return { slug, pageTypeSlug }
 }
 
-export function pageIn(path: string, text: string): Stated | null {
+export function pagesIn(path: string, text: string): readonly Stated[] {
   const source = parsedAs(path, text)
+  const found: Stated[] = []
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement)) continue
     for (const one of statement.declarationList.declarations) {
@@ -50,10 +51,19 @@ export function pageIn(path: string, text: string): Stated | null {
       const literal = literalOf(one.initializer)
       if (literal === null) continue
       const said = statedIn(literal)
-      if (said !== null) return { ...said, named: ts.isIdentifier(one.name) ? one.name.text : null }
+      if (said === null) continue
+      found.push({ ...said, named: ts.isIdentifier(one.name) ? one.name.text : null })
     }
   }
-  return null
+  return found
+}
+
+export function pageIn(path: string, text: string): Stated | null {
+  return pagesIn(path, text)[0] ?? null
+}
+
+function extrasSaid(rest: readonly Stated[]): string {
+  return rest.map((one) => `\`${one.pageTypeSlug}/${one.slug}\``).join(", ")
 }
 
 export function reasonsIn(
@@ -65,27 +75,36 @@ export function reasonsIn(
   const stem = said.stem
   const suffix = said.tail
   if (heldInAFile.has(suffix)) return []
-  const stated = pageIn(given.path, bodyOf(given))
-  if (stated === null) return []
+  const stated = pagesIn(given.path, bodyOf(given))
+  const first = stated[0]
+  if (first === undefined) return []
   const found: string[] = []
-  if (stated.slug !== stem) {
+  if (first.slug !== stem) {
     found.push(
-      `the page names itself \`${stated.slug}\`, and its file is named \`${stem}\` — a page's ` +
+      `the page names itself \`${first.slug}\`, and its file is named \`${stem}\` — a page's ` +
         "file is named for the slug the page states"
     )
   }
-  if (stated.pageTypeSlug !== suffix) {
+  if (first.pageTypeSlug !== suffix) {
     found.push(
-      `the page states its page type as \`${stated.pageTypeSlug}\`, and its file is named ` +
+      `the page states its page type as \`${first.pageTypeSlug}\`, and its file is named ` +
         `\`${suffix}\` — a page's file is named for the page type the page states`
     )
   }
-  const wanted = exportedAs(stated.slug)
-  if (stated.named !== wanted) {
-    const bound = stated.named === null ? "bound to no name" : `bound as \`${stated.named}\``
+  const wanted = exportedAs(first.slug)
+  if (first.named !== wanted) {
+    const bound = first.named === null ? "bound to no name" : `bound as \`${first.named}\``
     found.push(
       `the page is ${bound}, and the slug it states is named \`${wanted}\` — a page's exported ` +
         "object is named for the slug the page states"
+    )
+  }
+  const rest = stated.slice(1)
+  if (rest.length > 0) {
+    found.push(
+      `the file states ${stated.length} pages, and past the first it states ${extrasSaid(rest)} ` +
+        "— a page's file states one page, and a page stated past the first is filed by nothing " +
+        "and named by nothing"
     )
   }
   return found

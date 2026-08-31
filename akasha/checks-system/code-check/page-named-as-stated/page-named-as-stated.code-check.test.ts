@@ -2,7 +2,12 @@ import { expect, test } from "bun:test"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { bodiesIn } from "../../../testing-system/bodying/bodying.module.code.ts"
 import { change } from "../../check-scratch/check-scratch.module.code.ts"
-import { pageIn, pageNamedAsStated, reasonsIn } from "./page-named-as-stated.code-check.code.ts"
+import {
+  pageIn,
+  pageNamedAsStated,
+  pagesIn,
+  reasonsIn,
+} from "./page-named-as-stated.code-check.code.ts"
 
 const ROOT = "/repo"
 
@@ -157,9 +162,55 @@ test("a value the file keeps to itself is judged the same as an exported one", (
   expect(reasons("akasha/corpus.module.ts", body)).toHaveLength(1)
 })
 
-test("the first page a file states is the one its name is judged against", () => {
+test("a file stating a second page is refused, and the extra page is named", () => {
   const body = `${page("corpus", "module")}${page("corpse", "domain")}`
-  expect(reasons("akasha/corpus.module.ts", body)).toEqual([])
+  const said = reasons("akasha/corpus.module.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("states 2 pages")
+  expect(said[0]).toContain("`domain/corpse`")
+  expect(said[0]).toContain("filed by nothing")
+})
+
+test("the first page a file states is still the one its name is judged against", () => {
+  const body = `${page("corpse", "module")}${page("held", "domain")}`
+  const said = reasons("akasha/corpus.module.ts", body)
+  expect(said).toHaveLength(2)
+  expect(said[0]).toContain("names itself `corpse`")
+  expect(said[1]).toContain("states 2 pages")
+})
+
+test("every page a file states past the first is named in the one refusal", () => {
+  const body = [page("corpus", "module"), page("corpse", "domain"), page("held", "domain")].join("")
+  const said = reasons("akasha/corpus.module.ts", body)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("states 3 pages")
+  expect(said[0]).toContain("`domain/corpse`")
+  expect(said[0]).toContain("`domain/held`")
+})
+
+test("a type declaring a page's keys states no page, so the one page beside it stands alone", () => {
+  const shape = "export type Held = {\n  pageTypeSlug: PageTypeSlug\n  slug: Slug\n}\n"
+  expect(reasons("akasha/corpus.module.ts", `${shape}${page("corpus", "module")}`)).toEqual([])
+})
+
+test("a second page in a file a page property holds is passed over with the file", () => {
+  const body = `${page("corpus", "module")}${page("corpse", "domain")}`
+  expect(reasons("akasha/corpus.module.code.ts", body)).toEqual([])
+})
+
+test("every page a file states is answered, and the first alone is answered by `pageIn`", () => {
+  const body = `${page("corpus", "module")}${page("corpse", "domain")}`
+  expect(pagesIn("akasha/corpus.module.ts", body)).toHaveLength(2)
+  expect(pageIn("akasha/corpus.module.ts", body)).toEqual({
+    slug: "corpus",
+    pageTypeSlug: "module",
+    named: "corpus",
+  })
+})
+
+test("a file stating no page is answered as no pages rather than as one", () => {
+  expect(pagesIn("akasha/corpus.module.ts", "export const held = 1\n")).toEqual([])
+  expect(pageIn("akasha/corpus.module.ts", "export const held = 1\n")).toBeNull()
 })
 
 test("a page written plainly, with no satisfies at all, is still judged", () => {

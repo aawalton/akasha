@@ -22,6 +22,18 @@ export const pageNamedAsStated = {
       statement: "A page naming itself otherwise than its file is invisible to the corpus.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page's file states one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a file states past the first is invisible to the corpus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page a file states past the first is said in one refusal.",
+    },
+    {
       invariantKind: "absence",
       statement: "A file holding no page value is not judged.",
     },
@@ -60,6 +72,10 @@ export const pageNamedAsStated = {
     {
       invariantKind: "departure",
       statement: "A value bound to no name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The name a file carries is judged against the first page the file states.",
     },
   ],
 } as const satisfies CodeCheck
