@@ -127,7 +127,7 @@ const INPUT_PAGES =
   "}\n" +
   "wakesPages.isInput = PAGES.isInput\n"
 
-const WAKING_THROWS =
+const INPUT_THROWS =
   "export function wakingThrows(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "woke anyway" }))\n' +
   "}\n" +
@@ -141,7 +141,7 @@ export const TWO_CHECKS = [
 ]
 
 export const INPUT_THROWS_CHECKS = [
-  { slug: "waking-throws", runsOn: ["patch"], body: WAKING_THROWS },
+  { slug: "waking-throws", runsOn: ["patch"], body: INPUT_THROWS },
   { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
 ]
 
