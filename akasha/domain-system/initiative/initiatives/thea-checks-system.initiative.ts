@@ -15,6 +15,6 @@ export const theaChecksSystem = {
     },
     { statement: "The old system carries no check." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
-    { statement: "No intent is written on checks-system or any part beneath it." },
+    { statement: "No gap invariant is written on checks-system or any part beneath it." },
   ],
 } as const satisfies Initiative
