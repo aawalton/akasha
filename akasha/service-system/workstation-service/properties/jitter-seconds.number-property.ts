@@ -1,0 +1,18 @@
+import type { NumberProperty } from "../../../pages-system/number-property/number-property.page-type.ts"
+
+export type JitterSeconds = number
+
+export const jitterSeconds = {
+  id: "01a05a3f-b42f-70bd-b842-502dd6568a36",
+  pageTypeSlug: "number-property",
+  slug: "jitter-seconds",
+  propertySlug: "jitter-seconds",
+  definition: "how far past its time a timer may start",
+  max: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Timers stating this do not all start at once.",
+    },
+  ],
+} as const satisfies NumberProperty

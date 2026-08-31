@@ -1,0 +1,74 @@
+import type { PageType } from "../../pages-system/page-type/page-type.page-type.ts"
+import type { Service } from "../service/service.page-type.ts"
+import type { Enabled } from "./properties/enabled.boolean-property.ts"
+import type { NeedsSecrets } from "./properties/needs-secrets.boolean-property.ts"
+import type { Port } from "./properties/port.number-property.ts"
+import type { Runs } from "./properties/runs.text-property.ts"
+import type { Systemd } from "./properties/systemd.record-property.ts"
+
+export type WorkstationService = Service & {
+  runs: readonly Runs[]
+  enabled: Enabled
+  systemd?: Systemd
+  needsSecrets?: NeedsSecrets
+  port?: Port
+}
+
+export const workstationService = {
+  id: "01a05a3f-b42a-754e-af3c-8b30ed9d6ad1",
+  pageTypeSlug: "page-type",
+  slug: "workstation-service",
+  definition: "a service the workstation runs",
+  pluralSlug: "workstation-services",
+  extendsSlug: "page-type/service",
+  partSlugs: [
+    "boolean-property/catch-up",
+    "boolean-property/enabled",
+    "boolean-property/needs-secrets",
+    "number-property/jitter-seconds",
+    "number-property/port",
+    "number-property/restart-delay-seconds",
+    "number-property/start-timeout-seconds",
+    "record-property/systemd",
+    "text-property/restart",
+    "text-property/runs",
+    "text-property/schedule",
+  ],
+  properties: [
+    { pagePropertySlug: "runs", required: true, many: true, max: null },
+    { pagePropertySlug: "enabled", required: true, many: false },
+    { pagePropertySlug: "systemd", required: false, many: false },
+    { pagePropertySlug: "needs-secrets", required: false, many: false },
+    { pagePropertySlug: "port", required: false, many: false },
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A workstation service runs the code as it stands in the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workstation service runs under one wrapper.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wrapper starts it again when a file it reaches changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service's own imports settle which files start it again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import reaching outside this repository starts nothing again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A workstation service is started and stopped from its page alone.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Every workstation service runs under systemd.",
+    },
+  ],
+} as const satisfies PageType

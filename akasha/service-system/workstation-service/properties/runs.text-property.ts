@@ -1,0 +1,27 @@
+import type { TextProperty } from "../../../pages-system/text-property/text-property.page-type.ts"
+
+export type Runs = string
+
+export const runs = {
+  id: "01a05a3f-b42b-7564-ba54-a63a51342f27",
+  pageTypeSlug: "text-property",
+  slug: "runs",
+  propertySlug: "runs",
+  definition: "a command line a service starts",
+  max: 500,
+  nameFormatSlug: null,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The commands start in the order they stand in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One opening with a dash may fail without the service failing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One naming a TypeScript file runs under the wrapper that restarts it.",
+    },
+  ],
+} as const satisfies TextProperty
