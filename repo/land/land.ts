@@ -10,14 +10,11 @@ import {
 } from "node:fs"
 import { dirname } from "node:path"
 import { commitAuthor } from "../../agent/commit-author.ts"
-import { carryReadingsBy, type Moved, recordReadBy } from "../../agent/record-read.ts"
-import { writerId } from "../../agent/writer.ts"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { indexAfterLanding, bodiesBefore } from "./landing.ts"
 import { patchAside } from "./body-aside.ts"
 import { GATED } from "../../patches/patch.ts"
-import { blobId, commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
-import { canonicalize } from "../path/path.ts"
+import { commitPaths, gitAskingPaths, gitIgnoring, heldByRepo, whileHoldingLanding } from "../git/git.ts"
 import { handOffPush, pushStandingLines } from "../push/push.ts"
 import { AKASHA } from "../roots/roots.ts"
 
@@ -119,30 +116,6 @@ function gitCouldNotSay(question: string): string {
   )
 }
 
-function movesOf(root: string, entries: readonly Landing[]): readonly Moved[] {
-  const moves: Moved[] = []
-  for (const entry of entries) {
-    const absolute = `${root}/${entry.relPath}`
-    if (!existsSync(absolute)) continue
-    let was: Uint8Array
-    try {
-      was = readFileSync(absolute)
-    } catch {
-      continue
-    }
-    const now = typeof entry.body === "string" ? new TextEncoder().encode(entry.body) : entry.body
-    const from = blobId(was)
-    const to = blobId(now)
-    if (from === to) continue
-    moves.push({
-      path: canonicalize(absolute),
-      from,
-      to,
-    })
-  }
-  return moves
-}
-
 export const commitNamed: Commit = (root, named, message) => {
   if (named.length === 0) return null
   const landed = whileHoldingLanding(root, () => commitPaths(root, named, message, commitAuthor()))
@@ -167,16 +140,6 @@ export function put(absolute: string, body: string | Uint8Array): void {
   }
 }
 
-export function recordOwnWrite(absolute: string, body: string | Uint8Array): void {
-  const writer = writerId()
-  if (writer === null) return
-  try {
-    const bytes = typeof body === "string" ? new TextEncoder().encode(body) : body
-    recordReadBy(writer, canonicalize(absolute), Date.now(), blobId(bytes))
-  } catch {
-  }
-}
-
 export function landFiles(one: Landings): Landed {
   const root = one.root
   const message = one.message
@@ -193,7 +156,6 @@ export function landFiles(one: Landings): Landed {
       : mechanical === false
         ? []
         : entries.filter((held) => mechanical.has(held.relPath))
-  if (programDecided.length > 0) carryReadingsBy(movesOf(root, programDecided))
   const touching = [...entries.map((held) => held.relPath), ...composing.map((held) => held.relPath)]
   const wasBefore = bodiesBefore(root, [...touching, ...removing])
   const unheld = strayed(root, removing)
@@ -218,7 +180,6 @@ export function landFiles(one: Landings): Landed {
       )
     }
     wrote.push(entry.relPath)
-    recordOwnWrite(absolute, entry.body)
   }
   for (const entry of composing) {
     const absolute = `${root}/${entry.relPath}`
@@ -240,7 +201,6 @@ export function landFiles(one: Landings): Landed {
     }
     if (body === null) continue
     wrote.push(entry.relPath)
-    recordOwnWrite(absolute, body)
   }
   const gone: string[] = []
   for (const relPath of removing) {

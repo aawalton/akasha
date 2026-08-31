@@ -1,8 +1,6 @@
 
-import { chmodSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { chmodSync, mkdirSync, statSync, writeFileSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { recordReadBy } from "../../agent/record-read.ts"
-import { blobId } from "../../repo/git/git.ts"
 import {
   byteCount,
   carriesShebang,
@@ -86,12 +84,3 @@ export function land(
   }
 }
 
-export function recordOwnRead(agent: string | null, relPath: string, roots: Roots): void {
-  if (agent === null) return
-  const absolute = `${targetRoot(roots)}/${relPath}`
-  try {
-    const bytes = readFileSync(absolute)
-    recordReadBy(agent, canonicalize(absolute), Date.now(), blobId(bytes))
-  } catch {
-  }
-}

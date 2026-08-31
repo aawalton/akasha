@@ -7,7 +7,6 @@ import {
   LandingRefused,
   MISSING,
   put,
-  recordOwnWrite,
   type SizeChange,
   sizeLines,
 } from "./land.ts"
@@ -40,7 +39,6 @@ export function landOutside(entries: readonly Loose[], dryRun: boolean): void {
         `could not write ${entry.absolute}: ${err instanceof Error ? err.message : String(err)}`
       )
     }
-    recordOwnWrite(entry.absolute, entry.body)
   }
   process.stdout.write(
     [

@@ -37,7 +37,7 @@ import { RENAME_PROPERTY_HELP } from "./lib/rename-property-help.ts"
 import { surveyRename } from "../repoint/repoint"
 import { type Roots } from "../page/page"
 import { isDirty, resolveRoots, targetRepo, targetRoot } from "../repo/roots/roots"
-import { fail, land, recordOwnRead } from "./lib/command.ts"
+import { fail, land } from "./lib/command.ts"
 
 const TAKES_VALUE = [
   "--repo",
@@ -250,8 +250,6 @@ function main(): void {
   }
 
   const agent = agentId()
-  for (const one of entries) if (one.relPath !== destination) recordOwnRead(agent, one.relPath, roots)
-  recordOwnRead(agent, definition, roots)
 
   const staleAuthored = entries.filter((one) => one.authored && currentMtime(root, one.relPath) !== one.at)
   if (staleAuthored.length > 0) {

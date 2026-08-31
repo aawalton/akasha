@@ -11,7 +11,7 @@ import { RENAME_TOKEN_HELP } from "./lib/rename-token-help.ts"
 import { type Roots } from "../page/page.ts"
 import { resolveRoots, targetRoot } from "../repo/roots/roots.ts"
 import { codeRoot } from "./lib/code-root.ts"
-import { defaultMessage, fail, land, operational, recordOwnRead } from "./lib/command.ts"
+import { defaultMessage, fail, land, operational } from "./lib/command.ts"
 import { type Landing } from "../repo/land/land.ts"
 
 const TAKES_VALUE = ["--repo", "--old", "--new", "--at", "--message", "--message-file"]
@@ -316,7 +316,6 @@ async function main(): Promise<void> {
   }
 
   const agent = agentId()
-  for (const one of found) recordOwnRead(agent, one.relPath, roots)
 
   const moved = found.filter((one) => currentMtime(root, one.relPath) !== one.at)
   if (moved.length > 0) {

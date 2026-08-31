@@ -3,7 +3,6 @@ import { agentId } from "../lib/read-record.ts"
 import { type Roots } from "../../page/page"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { toolArgv } from "../lib/tool-argv.ts"
-import { recordOwnRead } from "../lib/command.ts"
 import { type Comment, commentsIn, UnscannableFile } from "./comments.ts"
 import { classify, DOMAIN_DOC, FORMS_DOC, type Form, formsFrom } from "./forms.ts"
 import { packagesIn, reachedIn, tracked } from "./tree.ts"
@@ -132,7 +131,6 @@ function land(roots: Roots, stripped: readonly Stripped[]): void {
   for (const one of moved) process.stdout.write(`moved after this read it, so left alone: ${one.file_path}\n`)
   if (written.length === 0) return
   const agent = agentId()
-  for (const one of written) recordOwnRead(agent, one.file_path, roots)
   const payload = `/var/tmp/code-comment-strip-${process.pid}.json`
   writeFileSync(payload, JSON.stringify(written))
   const message = `instructions: take the comments out of ${written.length} file(s)`
