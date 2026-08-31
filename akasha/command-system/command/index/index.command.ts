@@ -24,10 +24,6 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The act is the first word.",
-    },
-    {
-      invariantKind: "departure",
       statement: "`refresh` is the only act there is.",
     },
     {
