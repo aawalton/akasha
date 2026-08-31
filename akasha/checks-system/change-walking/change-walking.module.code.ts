@@ -41,9 +41,11 @@ export type Selector<T> = {
   readonly from: (change: Change, shadow: Shadow) => readonly T[]
 }
 
-export type Bounded = Running & {
+export type Stated = {
   readonly wakesOn: Input
 }
+
+export type Bounded = Running & Stated
 
 const INSIDE = "akasha/"
 
@@ -127,12 +129,14 @@ export function judgingEach<T extends { readonly path: string }>(
     }
     return said
   }
-  return Object.assign(run, { wakesOn: selector.wakesOn })
+  const stated: Stated = { wakesOn: selector.wakesOn }
+  return Object.assign(run, stated)
 }
 
 export function input<T>(selector: Selector<T>, run: Running): Bounded {
   const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
-  return Object.assign(bound, { wakesOn: selector.wakesOn })
+  const stated: Stated = { wakesOn: selector.wakesOn }
+  return Object.assign(bound, stated)
 }
 
 export function overEachText(
