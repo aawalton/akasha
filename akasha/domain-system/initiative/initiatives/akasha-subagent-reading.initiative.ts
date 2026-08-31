@@ -9,13 +9,10 @@ export const akashaSubagentReading = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "A subagent's page is written in akasha as well as where it stands today.",
+      statement: "A subagent's page stands in akasha and nowhere else.",
       workingMemory:
-        "`tools/lib/subagent-page-akasha.ts` writes one through the gate and takes it away again, proven by hand, and `subagent-page.ts` calls it beside the old place under one id. Nothing calls `writeSubagentPage`: the live harness registers `name-subagent` alone, so no subagent page is written in either place today and the three under `agent/subagent/` are stale. A hook page in akasha would close it, and a hook needs Alan.",
+        "The page type stands. Nothing writes a subagent page in either place: the harness registers `name-subagent` alone, so the three under `agent/subagent/` are stale while the readers of them run. Alan has approved a hook in akasha at `SubagentStart` and `SubagentStop`, which the client knows both of. Left: a module landing the page, that hook, the two readers in `subagent-page-read.ts` pointed at akasha, and the old place gone with the `files:` line enrolling it.",
     },
-    { statement: "What reads a subagent reads the page in akasha alone." },
-    { statement: "What writes a subagent writes the page in akasha alone." },
-    { statement: "No subagent page stands outside the akasha folder." },
     {
       statement: "A subagent owes a set of warrants of its own rather than its seat's.",
       workingMemory:
