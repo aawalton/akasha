@@ -1,6 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
-import { isAbsolute, join, relative } from "node:path"
+import { dirname, isAbsolute, join, relative } from "node:path"
 import { landingOf } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import { addressIn } from "../../page/page-address/page-address.module.code.ts"
 import { exportedAs } from "../../page/page-export-name/page-export-name.module.code.ts"
@@ -102,12 +102,16 @@ export function numberAt(value: Value, key: string): number | null {
   return typeof held === "number" ? held : null
 }
 
-export function filePropertiesIn(values: Iterable<Value>): ReadonlySet<string> {
-  const found = new Set<string>()
+const FILE_PROPERTY = "file-property"
+
+export function filePropertiesIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
+  const found = new Map<string, string | null>()
   for (const value of values) {
-    if (textAt(value, "pageTypeSlug") !== "file-property") continue
     const slug = textAt(value, "slug")
-    if (slug !== null) found.add(slug)
+    if (slug === null) continue
+    const fileName = textAt(value, "fileName")
+    if (fileName !== null) found.set(slug, fileName)
+    else if (textAt(value, "pageTypeSlug") === FILE_PROPERTY) found.set(slug, null)
   }
   return found
 }
@@ -116,7 +120,7 @@ export function pathsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlySet<string>
+  fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
   const own = under(repo, path)
   const found = [own]
@@ -124,6 +128,11 @@ export function pathsOf(
     if (typeof held !== "string") continue
     const propertySlug = slugFor(key)
     if (!fileProperties.has(propertySlug)) continue
+    const fileName = fileProperties.get(propertySlug) ?? null
+    if (fileName !== null) {
+      found.push(join(dirname(own), fileName))
+      continue
+    }
     const beside = besideAt(own, propertySlug, held)
     if (beside !== null) found.push(beside)
   }
@@ -134,7 +143,7 @@ export function claimsOf(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlySet<string>
+  fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
   const found = [...pathsOf(value, path, repo, fileProperties)]
   const secret = secretAt(under(repo, path))
@@ -188,10 +197,12 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
   return found
 }
 
-export function filePropertiesAt(given: string | Reading): ReadonlySet<string> {
-  const found = new Set<string>()
-  for (const held of schemaAt(given).values())
-    if (held.pageTypeSlug === "file-property") found.add(held.slug)
+export function filePropertiesAt(given: string | Reading): ReadonlyMap<string, string | null> {
+  const found = new Map<string, string | null>()
+  for (const held of schemaAt(given).values()) {
+    if (held.fileName !== null) found.set(held.slug, held.fileName)
+    else if (held.pageTypeSlug === FILE_PROPERTY) found.set(held.slug, null)
+  }
   return found
 }
 
@@ -221,7 +232,9 @@ export function uniquePropertiesAt(given: string | Reading): ReadonlyMap<string,
   return found
 }
 
-export function filePropertiesAnswered(given: string | Reading): ReadonlySet<string> {
+export function filePropertiesAnswered(
+  given: string | Reading
+): ReadonlyMap<string, string | null> {
   return answered(given, SCHEMA_UNDER, "which properties are held in a file", (reading) =>
     filePropertiesAt(reading)
   )

@@ -16,7 +16,7 @@ export function pathIn(
   value: Value,
   path: string,
   repo: string,
-  fileProperties: ReadonlySet<string>
+  fileProperties: ReadonlyMap<string, string | null>
 ): readonly Entry[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")

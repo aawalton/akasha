@@ -155,7 +155,7 @@ function enteringOf(change: Change): (folder: string, path: string) => boolean {
 export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow.reading)
   const pageTypes = pageTypesIn(shadow.reading)
-  const fileProperties = filePropertiesAt(shadow.reading)
+  const fileProperties = new Set<string>(filePropertiesAt(shadow.reading).keys())
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {

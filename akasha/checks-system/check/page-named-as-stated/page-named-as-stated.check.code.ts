@@ -56,7 +56,10 @@ export function pageIn(path: string, text: string): Stated | null {
   return null
 }
 
-export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
+export function reasonsIn(
+  given: Body,
+  heldInAFile: ReadonlyMap<string, string | null>
+): readonly string[] {
   const said = namedIn(given.path)
   if (said === null) return []
   const stem = said.stem

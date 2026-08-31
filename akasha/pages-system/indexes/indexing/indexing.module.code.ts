@@ -118,7 +118,7 @@ export function filingOf(
   return said
 }
 
-function pageShaped(path: string, fileProperties: ReadonlySet<string>): boolean {
+function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | null>): boolean {
   const said = namedIn(path)
   return said !== null && !fileProperties.has(said.tail)
 }
@@ -328,7 +328,7 @@ export function settlingOver(
   )
 
   const standing = held.flatMap((one) => (one.now === null ? [] : [one.now]))
-  const fileProperties = new Set<string>([...filed, ...filePropertiesIn(standing)])
+  const fileProperties = new Map<string, string | null>([...filed, ...filePropertiesIn(standing)])
   const nowSchema = held.flatMap((one) => (one.now === null ? [] : schemaIn(one.now)))
   const schema = filingOf(
     reading,

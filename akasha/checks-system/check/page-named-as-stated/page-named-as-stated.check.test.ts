@@ -6,11 +6,18 @@ import { pageIn, pageNamedAsStated, reasonsIn } from "./page-named-as-stated.che
 
 const ROOT = "/repo"
 
-const HELD: ReadonlySet<string> = new Set(["code", "test"])
+const HELD: ReadonlyMap<string, string | null> = new Map([
+  ["code", null],
+  ["test", null],
+])
 
 const given = bodiesIn(ROOT)
 
-function reasons(at: string, body: string, held: ReadonlySet<string> = HELD): readonly string[] {
+function reasons(
+  at: string,
+  body: string,
+  held: ReadonlyMap<string, string | null> = HELD
+): readonly string[] {
   return reasonsIn(given(at, body), held)
 }
 
@@ -102,7 +109,11 @@ test("a page property's test file is no page, so a fixture it holds is passed ov
 
 test("a property newly held in a file is passed over, the set being the index's and not a list here", () => {
   const body = page("corpse", "domain")
-  const held: ReadonlySet<string> = new Set(["code", "test", "note"])
+  const held: ReadonlyMap<string, string | null> = new Map([
+    ["code", null],
+    ["test", null],
+    ["note", null],
+  ])
   expect(reasons("akasha/corpus.module.note.ts", body, held)).toEqual([])
   expect(reasons("akasha/corpus.module.note.ts", body)).toHaveLength(2)
 })

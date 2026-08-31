@@ -46,7 +46,7 @@ export function statedBy(page: string, path: string): string {
 export function missingFor(
   change: Change,
   page: string,
-  fileProperties: ReadonlySet<string>
+  fileProperties: ReadonlyMap<string, string | null>
 ): readonly Judged[] {
   const bytes = change.after(page)
   if (bytes === null) return []
