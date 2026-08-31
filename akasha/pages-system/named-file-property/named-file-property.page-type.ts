@@ -26,7 +26,11 @@ export const namedFileProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder answers which page a named file stands beside.",
+      statement: "A page claims a named file by stating the property holding it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A named file is found through the page's type rather than through its name.",
     },
     {
       invariantKind: "gap",
