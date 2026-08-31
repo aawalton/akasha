@@ -35,6 +35,7 @@ afterAll(scratch.sweep)
 function rooted(): string {
   const root = scratch.rootFor("akasha-identifier-")
   founded(root)
+  typed(root, "page-type", "page")
   typed(root, "check", "page", ["name"])
   typed(root, "module", "page")
   typed(root, TEXT, "page")
