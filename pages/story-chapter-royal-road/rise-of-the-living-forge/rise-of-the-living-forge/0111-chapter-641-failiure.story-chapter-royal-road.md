@@ -1,0 +1,231 @@
+---
+id: 506feac8-1662-5c7a-b5ab-2e1846bc5abd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 641: Failiure"
+slug: 0111-chapter-641-failiure
+partOf: rise-of-the-living-forge
+position: 111
+ownLength: 2423
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3890540/chapter-641-failiure"
+royalRoadId: "3890540"
+---
+
+Art watched roots pull a man in half.
+
+He watched two more take his place.
+
+Men that should have been considered some of the most skilled Adventurers in the kingdom screamed as they were torn apart by the ghostly figures of Esmerelda’s devils. The cursed weapons cleaved through their magical armor like there was nothing but paper in their path.
+
+Pans rang against helms. A table slammed into a man with enough force to send him bowling into his allies, and they were all then beset upon by a horde of ravenous forks.
+
+Vix danced through the shadows, blurring past far more powerful opponents as her blades bit at the exposed pieces of their flesh. Art stole the Guild’s magic, trapped it within his deck, and sent it flying back at them. Uriel and the Beast waded through armored warriors, ignoring every blow sent their way as they tore into anyone unfortunate enough to be within striking distance.
+
+And it still wasn’t enough.
+
+More and more guildsmen poured into the Devil’s Den. Esmerelda’s devils were falling. As powerful as they were, without wielders for the weapons, there was only so much they could do. One was snuffed out as a green flame inferno swallowed it, sending the original blade to clatter to the ground, silenced.
+
+Esmerelda leaned against the back wall of the room, breathing heavily. Her magic was clearly nearly at its limits. More and more of the devil warriors followed after the first as her reserves were drained. Vix was slowing down as well. The connection between her and Art was burning at max strength. Power flowed between them through their armor, keeping both of them going as she tore through the ranks of the Guild in a deadly shadow…
+
+But it just wasn’t enough.
+
+They were getting pushed back.
+
+Explosions rocked the street as the Guild attacked the Devil’s Den from the outside. They hadn’t breached the walls of the building yet. It was incredibly tough… but it was only a matter of time. Even the magical darkness cloaking the Menagerie had started to falter.
+
+Lillia’s imps were fading as the building used up more of its power. The grasping roots of the tree in their basement had slowed as well. It had been burned and hacked and shattered — and still it fought, the few tendrils it could still control lashing to try and pull more unfortunate guildsmen to their death.
+
+Art gritted his teeth. Even with all the extra magic that his connection with Vix was getting him, he could feel his power dwindling at an alarming rate. He dug deeper, then sent another card bearing the stolen magic of a fallen Guild mage. It struck a large, axe-wielding guildsman in the forehead.
+
+The man’s eyes widened a moment before a massive pillar of sickly green flame enveloped him. His scream was swallowed by the sound of his flesh crackling and melting. Art leaned against his walking stick, fighting to catch his dwindling breath.
+
+Just a little longer. We just—
+
+An arrow screamed toward Art.
+
+His eyes widened. He tried to move, but it was far too late. It was already upon him. All he could do was brace and—
+
+The arrow slammed into a dark hand.
+
+Art blinked.
+
+He stared at the hand before him, its shadowy surface rippling around the arrow now lodged directly in its palm. Then the arrow dropped to the ground.
+
+Art’s gaze raised.
+
+Standing before him was a tall, demonic figure with eyes of smoldering purple. Pitch black wings of shadow emerged from its back, looming far above him. Darkness slithered out from the figures feet. It grasped at the feet of the guildsmen, pinning the nearest ones to the ground before they’d even realized what happened.
+
+Then the sound of creaking wood cut through the air. A razor-sharp spike of black wood came from behind Art and cut through the air to pierce through a guildsman that had been about to catch Vix, lifting him into the air and pinning him to the ceiling.
+
+Art glanced over his shoulder.
+
+Relief exploded through him.
+
+Olive retracted her arm, dropping the dead man to the ground as she strode into the room, her teeth bared. Lillia was right behind her, shadows rising up behind her in a furious wave.
+
+And behind them was the rest of the Menagerie. Kien and Elias darted forward, racing to drive into the horde of guild warriors. Then came Rodrick — golden magic blazing in his blade. Koyu appeared in the center of the guildsmen, two nooses binding around the men closest to him as he lifted them into the air, yanking them off their feet as they grasped fruitlessly at the ghostly rope choking the life from their bodies.
+
+“What do you think you’re doing in my tavern?” Lillia snarled. She thrust a hand forward. The shadowy figure with eyes of blazing purple leapt into the air, crashing down in the center of the guild army and sending men scattering like toys. Fury blazed in Lillia’s features. “You are not welcome.”
+
+Three more shadows rose up from the ground at her feet. Deep purple flames rippled within their eyes as they darted out, carving into the Guild’s forces and ripping through their ranks like they were made of paper.
+
+Art nearly let out a relieved laugh.
+
+They’re back. We’re saved. I held on for long enough.
+
+But his relief faded almost as quickly as it had arrived. Even as the Guild’s forces pulled back to try and regroup against the new onslaught… Art couldn’t help but notice that the man he’d expected to be leading the Menagerie’s return charge was nowhere to be found.
+
+Where’s Arwin?
+
+***
+
+Arwin tumbled through the air.
+
+A wall met his back, driving the air from his lungs in a pained wheeze. He barely even realized he was falling until he hit the ground. Pain pulsed through his body. Every breath he drew was labored and painful. The world spun and wavered all around him.
+
+He drove his fist into the hard stone, swallowing molten blood as he forced himself upright. The shadow of the Deepmind’s hand was already above him.
+
+The Infernal Armory extended tendrils of magma. They grabbed onto the ground and yanked Arwin back, pulling him free of the hand’s path a moment before it slammed into the ground with a booming crash. Fragments of debris peppered Arwin, but they shattered against his armor.
+
+“Thanks,” Arwin said through gritted teeth.
+
+Thank me once we have won.
+
+Arwin grunted.
+
+“Why won’t you just die?” the Deepmind growled. “Your friends are gone. You are alone. All you do is writhe desperately against the inevitable. Accept your death.”
+
+“Do I need to address the irony of a lich telling someone to accept their death?” Arwin asked through clenched teeth. “You want me dead? Then kill me, you fucking parasite. But you can’t even do that, can you?”
+
+The Deepmind’s laughter echoed through the dark room. It didn’t even answer. It just reached for Arwin once more. For some reason, it hadn’t tried to fry him with its death-magic again. Maybe it needed him alive in order to properly absorb his magic.
+
+It didn’t really matter. Arwin was all too aware of just how outmatched he was. He’d thrown nearly everything he had at the ancient lich, and he still hadn’t even put a single scratch into it. The Deepmind was genuinely as powerful as it claimed.
+
+That wasn’t going to make him fight any less.
+
+We’ve been approaching this wrong. There has to be something we’re missing. I refuse to believe that anything can truly have absolute power like this. There’s no way we literally have no chance, right?
+
+If you have ideas, now would most certainly be the time to try them. We’re at the end, Arwin.
+
+You think I don’t know that?
+
+The Armory pulled Arwin away from the Deepmind’s hand once more. They hit the ground in a roll, skidding for a foot before another strand of magma shoved Arwin to his feet. His energy was nearly spent. He still had the power for another attack or two… but it just didn’t seem like it mattered.
+
+Nothing he had tried had mattered.
+
+Arwin’s jaw clenched. But something had to work. The Deepmind might have been impossibly strong, but it was stuck here. He snuck a glance over his shoulder.
+
+There were six glistening green barriers closing off the exit. He wasn’t going to be breaking through that. The Deepmind wasn’t going to let him leave. Maybe that was why it hadn’t used its death magic. All its concentration was on the barriers.
+
+Arwin’s head tilted slightly to the side.
+
+Okay. New plan. We’re going to try to get the hell out of here.
+
+How?
+
+Get it off balance. Hit as hard as we can. Then maybe it’ll drop its concentration and we can try to run for it. If Eleven is still there… we have a chance.
+
+The Armory sent a note of assent.
+
+It wasn’t like they had any other choice. Arwin’s eyes narrowed. He’d tried hitting the Deepmind in the head and arms more times than he could count. He’d gone for its chest as well. None of that had done anything.
+
+So he’d just have to hit it harder.
+
+Okay. Use everything we’ve got. One blow. Then get ready to run the moment it hits.
+
+One blow.
+
+They charged.
+
+Black flame exploded from beneath Arwin’s feet with every step he took. His molten wings snapped down as he launched into the air with a roar. Caldera roared together with him, its head weeping magma as they streaked through the air toward the Deepmind in a blur.
+
+They passed by the monster’s hand, still accelerating. Arwin drew on every scrap of strength he had. He dragged power from [Scourge]. He poured strength into his hammer, and he felt the Infernal Armory doing the same. The sheer magical force racing through the weapon made it shake violently in his hand.
+
+And then Arwin was upon the Deepmind once again, streaking past its outstretched hand. His roar turned to a scream of defiance.
+
+He struck the Deepmind in the shoulder. Every single scrap of power and fury tore burst in that blow. They screamed out in a thick wave of all-consuming magma. Arwin’s very soul seared into the Deepmind. It was the strongest, most powerful blow that he ever could have mustered. It was a strike backed by every hope and dream, every scrap of strength and momentum, that he could have possibly mustered.
+
+And everything he could draw upon amounted to a faint shove in a schoolyard.
+
+Not quite enough to push someone over, but enough to send them stumbling back a few feet.
+
+The force of the blow returned back to Arwin, sending him hurtling backward. Wind whipped past Arwin as he plummeted back to the ground, disbelief and disappointment tearing through his mind. His hand went limp around Caldera’s hilt.
+
+That’s it? That was all I could do? A tiny little push?
+
+The ground met his back. His head cracked against the stone. He let out a pained wheeze, the world threatening to fade away.
+
+He barely even paid it any mind.
+
+All he could do was stare at the Deepmind and its rippling cloak. It had caught itself on the back wall with one hand, its other flying wide. Perhaps the monster had been ever so slightly surprised at the amount of strength that Arwin had mustered.
+
+His eyes flicked back to the barriers covering the door.
+
+They hadn’t even flickered.
+
+He’d failed.
+
+And then something caught Arwin’s eye, just barely registering to his exhausted, weary mind.
+
+His blow done just a bit more than knock the Deepmind back. It had torn a thin line in the huge monster’s black robes.
+
+And beneath that rip was a small cluster of faint green crystal.
+
+Well, that’s better than nothing. Made it strip a bit. At least I actually inconvenienced it.
+
+A faint smile tugged at the corners of Arwin’s lips. He could feel his thoughts fading.
+
+The Deepmind let out a hiss of displeasure.
+
+“We’re done here,” it said. There was no more amusement left in its tone.
+
+A beam of sickly green cut out from an extended, skeletal finger.
+
+The Infernal Armory tried to drag Arwin out of the way.
+
+It wasn’t fast enough.
+
+The magic sliced through Gehenna. It cut into Arwin’s stomach.
+
+Agony exploded through him.
+
+He screamed, and the Armory screamed with him.
+
+The pain was unlike anything he’d ever felt before. It cut straight into his soul, tearing into his very being and ripping it apart like rusty claws. He writhed on the ground, screaming, but the pain didn’t stop. Death and rot spread through his chest. They wound around his heart.
+
+The agony only seemed to grow. Not even the release of unconsciousness could save him. He could do nothing but scream.
+
+“You still live?” the Deempind sounded somewhat surprised. Its voice grew colder. “Much more resilient than I expected. No matter. Your watch is over, hero.”
+
+So much for it not using death magic. Bastard was just playing with me the whole time.
+
+Arwin couldn’t muster the words to spit at the monster — but through all the agony consuming his mind and body, he did manage to glare.
+
+And he was pretty proud of that.
+
+The Deepmind’s palm raised into the air above him.
+
+Then it fell.
+
+There was a flash of brilliant blue light. For a flicker of an instant, the plummeting skeletal hand locked in place. Then it was moving once again. The fist slammed into the ground. A massive boom shook the room. But Arwin wasn’t beneath the hand anymore.
+
+Confusion assailed his fading thoughts.
+
+The hand was behind him.
+
+He was in the air — no. In someone’s arms.
+
+And behind him was a man clad in brilliant white armor, standing before the Deepmind, looking up at it in defiance.
+
+Is that…
+
+The pain assaulting his thoughts made it impossible to think straight. His eyes fluttered. The ceiling bounced above him. And then Arwin saw the stairwell dancing around him. Someone was dragging him up the stairs, taking them three at a time.
+
+With every scrap of strength he still had, he forced his head to turn to look at who held him.
+
+He blinked.
+
+Reya?
+
+Then the pain finally overpowered him. Darkness roared up and swallowed his mind, and he thought nothing more.
