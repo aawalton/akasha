@@ -17,7 +17,6 @@ const READS: ReadonlySet<string> = new Set([
   "lstat",
   "accessSync",
   "access",
-  "decode",
 ])
 
 const COUNTED =
@@ -106,9 +105,6 @@ function requiringIn(source: ts.SourceFile): ReadonlySet<string> {
 
 function readingWith(requiring: ReadonlySet<string>): (node: ts.Node) => boolean {
   return (node) => {
-    if (ts.isNewExpression(node)) {
-      return ts.isIdentifier(node.expression) && node.expression.text === "TextDecoder"
-    }
     if (!ts.isCallExpression(node)) return false
     if (isBunFile(node)) return true
     const name = calledAs(node)

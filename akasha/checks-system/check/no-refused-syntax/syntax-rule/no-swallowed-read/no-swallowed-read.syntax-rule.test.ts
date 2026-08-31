@@ -85,10 +85,10 @@ test("`Bun.file` is a read", () => {
   expect(walking(body)).toHaveLength(1)
 })
 
-test("a decoder is a read, that being bytes turned into a body", () => {
+test("a decoder is no read, the bytes having already arrived", () => {
   const body =
     'function one(l: Change, bytes: Uint8Array) { try { return new TextDecoder("utf-8", { fatal: true }).decode(bytes) } catch { return null } }\n'
-  expect(walking(body)).toHaveLength(1)
+  expect(walking(body)).toEqual([])
 })
 
 test("a binding taken from `createRequire` is a read", () => {
