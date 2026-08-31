@@ -1,7 +1,7 @@
 import ts from "typescript"
 import { parsedAs } from "../../../code-system/code-source/code-source.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { everyOfTypeAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { matchingIn } from "../../../pages-system/name-format/format-reaching/format-reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
@@ -98,7 +98,7 @@ export function reasonsIn(slug: string, path: string, text: string): readonly st
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const formatting = matchingIn(change.root, shadow.codeAt)
   const found: Judged[] = []
-  for (const one of everyOfType(shadow.reading, NAME_FORMAT)) {
+  for (const one of everyOfTypeAnswered(shadow.reading, NAME_FORMAT)) {
     const said = namedIn(one.path)
     const beside = besideAt(one.path, CODE, TS)
     if (said === null || beside === null) {
