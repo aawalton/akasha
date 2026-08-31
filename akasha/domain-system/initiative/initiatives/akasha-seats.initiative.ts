@@ -8,7 +8,6 @@ export const akashaSeats = {
   personaSlug: "akasha",
   parentSlug: "akasha-migration",
   intents: [
-    { statement: "A seat and its role and its persona are each a page in akasha." },
     { statement: "Nothing outside akasha says what a seat is." },
     { statement: "A seat at work keeps working while its page moves." },
   ],
