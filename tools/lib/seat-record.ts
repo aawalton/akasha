@@ -1,4 +1,3 @@
-import { readUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { akashaSeatRecordOf } from "./seat-akasha-read.ts"
 import { dropBeside, keepBeside } from "./seat-beside.ts"
 import { seatPageForAgent } from "./seat-presence-read.ts"
@@ -8,28 +7,21 @@ export interface SeatRecord {
   readonly at: number
 }
 
-export function seatRecordIn(stored: unknown): SeatRecord | null {
-  if (stored === null || typeof stored !== "object" || Array.isArray(stored)) return null
-  const { value, at } = stored as { value?: unknown; at?: unknown }
-  if (typeof value !== "string" || value === "") return null
-  if (typeof at !== "number" || !Number.isFinite(at)) return null
-  return { value, at }
-}
-
-// BOTH SYSTEMS ARE READ, THE OLD ONE FIRST. The funnel writes what a seat observes to both, so
-// for a seat standing in both they agree and the old store answers. What only akasha holds is a
-// seat whose old page has gone: taking that page away orphans the sidecar beside it, and reaching
-// the value only through that page is what left every seat in the fleet reading as though it had
-// never carried a session at all.
+// WHAT A SEAT OBSERVES IS READ FROM AKASHA. This read the old store first and akasha second, on the
+// stated understanding that the first read goes when no writer writes outside akasha. It goes now,
+// a step ahead of that rather than behind it: a reader still on the old store is a reader that
+// silently freezes the moment the writes stop, and there is no signal for it — the values simply
+// stop moving. Moving the reads first makes the writes safe to stop.
 //
-// This order is the migration's, not a preference. The old store is what the fleet writes and
-// stands on until the writers stop writing outside akasha; akasha is what survives the old page.
-// When no writer writes outside akasha the first read has nothing left to answer and goes.
+// Checked value by value across the fleet before it changed, over every key a seat carries: akasha
+// answers the same as the old store for all of them.
+//
+// THE STAMP IS NOT THE SAME AND CANNOT BE. The old store kept the moment each value was written
+// beside the value; akasha keeps the value, and the moment is the seat's sidecar being written. So
+// a stamp read here is the newest the value could be rather than the moment it was set.
 export function seatRecordOf(agent: string, key: string): SeatRecord | null {
   if (agent === "") return null
-  const page = seatPageForAgent(agent)
-  const held = page === null ? null : seatRecordIn(readUncommitted(page)?.[key])
-  return held ?? akashaSeatRecordOf(agent, key)
+  return akashaSeatRecordOf(agent, key)
 }
 
 export function keepSeatRecord(
