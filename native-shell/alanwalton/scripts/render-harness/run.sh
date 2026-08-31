@@ -9,6 +9,7 @@ usage() {
 }
 
 ON_MAC=0
+STAGED_WIDGET_DIR=""
 APP="alanwalton"
 WIDGET=""
 FAMILY=""
@@ -31,23 +32,42 @@ done
 
 REFERENCES="$HERE/references/$APP"
 
+HARNESS_SRC_DIR=""
 if [ "$ON_MAC" = "1" ]; then
+  # The workstation leg staged exactly this app's components here and rsynced the
+  # harness's own Swift in flat beside main.swift, so both are already picked up.
   WIDGET_DIR="$(cd "$HERE/../../ios-widget" && pwd)"
-  SHARED_WIDGET_DIR=""
 else
   if [ "$BLESS" = "0" ] && [ ! -d "$REFERENCES" ]; then
     echo "ERROR: no blessed references at $REFERENCES." >&2
     exit 2
   fi
   AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-  WIDGET_DIR="$(cd "$AKASHA_ROOT/native-shell/$APP/ios-widget" 2>/dev/null && pwd)" || {
-    echo "ERROR: no ios-widget sources for --app $APP under $AKASHA_ROOT/native-shell/$APP/. Set AKASHA_ROOT if that checkout is elsewhere." >&2
+  COMPONENTS_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
+    echo "ERROR: no ios components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — every tile's Swift is authored there, so nothing can be rendered without it. Set AKASHA_ROOT if that checkout is elsewhere." >&2
     exit 2
   }
-  SHARED_WIDGET_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-component/ios-components" 2>/dev/null && pwd)" || {
-    echo "ERROR: no shared ring components at $AKASHA_ROOT/akasha/code-system/ios-component/ios-components — both shells compile the ring from there, so neither can be rendered without it." >&2
+  HARNESS_SRC_DIR="$(cd "$AKASHA_ROOT/akasha/code-system/ios-harness/ios-harnesses" 2>/dev/null && pwd)" || {
+    echo "ERROR: no ios harnesses at $AKASHA_ROOT/akasha/code-system/ios-harness/ios-harnesses — the cases and the rendering are authored there." >&2
     exit 2
   }
+  # Which components this app compiles is stated on its akasha ios-app page. The
+  # directory holds every app's, and compiling all of them would put two
+  # definitions of one symbol into a single build.
+  NAMED="$(cd "$AKASHA_ROOT" && bun -e 'import {componentSwiftFor} from "./alanwalton/mobile-cli/src/lib/ios-components.ts"; process.stdout.write(componentSwiftFor(process.argv[1]).join("\n"))' "$APP")" || {
+    echo "ERROR: could not read the components --app $APP names from its akasha ios-app page." >&2
+    exit 2
+  }
+  WIDGET_DIR="$(mktemp -d)"
+  STAGED_WIDGET_DIR="$WIDGET_DIR"
+  while IFS= read -r component; do
+    [ -n "$component" ] || continue
+    [ -f "$COMPONENTS_DIR/$component" ] || {
+      echo "ERROR: $COMPONENTS_DIR/$component is named by --app $APP and is not there." >&2
+      exit 2
+    }
+    cp "$COMPONENTS_DIR/$component" "$WIDGET_DIR/"
+  done <<< "$NAMED"
 fi
 DEFINE_FLAGS=""
 if [ "$APP" = "alanwalton" ]; then DEFINE_FLAGS="-D HARNESS_ALANWALTON"; fi
@@ -60,11 +80,11 @@ if [ "$(uname)" != "Darwin" ] && [ "$ON_MAC" = "0" ]; then
   REMOTE="$(ssh "$MAC_HOST" 'mktemp -d')"
   [ -n "$REMOTE" ] || { echo "ERROR: could not make a scratch directory on $MAC_HOST." >&2; exit 1; }
   # shellcheck disable=SC2064
-  trap "ssh '$MAC_HOST' 'rm -rf \"$REMOTE\"' >/dev/null 2>&1 || true" EXIT
+  trap "rm -rf '$STAGED_WIDGET_DIR'; ssh '$MAC_HOST' 'rm -rf \"$REMOTE\"' >/dev/null 2>&1 || true" EXIT
 
   rsync -a "$WIDGET_DIR/" "$MAC_HOST:$REMOTE/ios-widget/"
-  rsync -a "$SHARED_WIDGET_DIR/" "$MAC_HOST:$REMOTE/ios-widget/"
   rsync -a --exclude references "$HERE/" "$MAC_HOST:$REMOTE/scripts/render-harness/"
+  rsync -a "$HARNESS_SRC_DIR"/*/*.swift "$MAC_HOST:$REMOTE/scripts/render-harness/"
   mkdir -p "$REFERENCES"
   rsync -a "$REFERENCES/" "$MAC_HOST:$REMOTE/scripts/render-harness/references/$APP/"
 
@@ -101,7 +121,7 @@ if [ -z "$DEVICE" ]; then
 fi
 
 BUILD_DIR="$(mktemp -d)"
-trap 'rm -rf "$BUILD_DIR"' EXIT
+trap 'rm -rf "$BUILD_DIR" "${STAGED_WIDGET_DIR:-}"' EXIT
 
 SOURCES=()
 collect_sources() {
@@ -111,7 +131,10 @@ collect_sources() {
   done < <(find "$1" -maxdepth 2 -name '*.swift' | sort)
 }
 collect_sources "$WIDGET_DIR"
-if [ -n "$SHARED_WIDGET_DIR" ]; then collect_sources "$SHARED_WIDGET_DIR"; fi
+# On the mac leg the harness's own Swift was rsynced flat beside main.swift and is
+# picked up by the sweep of $HERE below. Running on a Darwin workstation it is
+# still in akasha, one folder per page.
+if [ -n "$HARNESS_SRC_DIR" ]; then collect_sources "$HARNESS_SRC_DIR"; fi
 
 while IFS= read -r swift; do
   case "$swift" in */main.swift) continue ;; esac
