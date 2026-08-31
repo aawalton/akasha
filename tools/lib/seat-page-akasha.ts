@@ -2,7 +2,8 @@ import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "no
 import { join } from "node:path"
 import { standingAt } from "../../akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../akasha/pages-system/page/page-export-name/page-export-name.module.code.ts"
-import { type Roots } from "../../page/page.ts"
+import { kindsUnder } from "../../akasha/pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+import type { Roots } from "../../page/page.ts"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { personPrincipals } from "./compose-seat-name.ts"
 import { type Outcome, type Run, whyRefused } from "./gated-write.ts"
@@ -30,7 +31,21 @@ const ROUNDS = 4
 // A person and a persona each extend a domain, and an initiative is work toward one, so an
 // assignment is addressed by whichever of these the slug names. The page type is not carried in
 // from the old state, which knows only domains, so it is recovered here from what stands.
-const ASSIGNED = ["domain", "person", "persona", "initiative"] as const
+//
+// These four state the order a slug standing under more than one is read in. What may hold an
+// assignment is every type descending from a domain, which grows as types are added — a system
+// stated as a workspace package rather than a domain is one — so coverage is asked of the page
+// types rather than listed here. A list frozen here answers a bare slug for a page it cannot
+// find, and a bare slug resolves under `domain` alone, so a seat silently warrants nothing.
+const PREFERRED = ["domain", "person", "persona", "initiative"] as const
+
+function assignedKinds(root: string): readonly string[] {
+  const rest = [...kindsUnder(root, PREFERRED[0])].sort()
+  return [
+    ...PREFERRED,
+    ...rest.filter((one) => !PREFERRED.includes(one as (typeof PREFERRED)[number])),
+  ]
+}
 
 export function akashaSeatRelPath(seatName: string): string {
   return `${DIR}/${seatName}${SUFFIX}`
@@ -41,7 +56,7 @@ export function akashaSeatRelPath(seatName: string): string {
 // stands behind rather than in front: three of the domains the seats name have yet to move, and
 // their address is still only knowable there.
 function assignmentAddressOf(named: string, root: string): string {
-  for (const pageType of ASSIGNED) {
+  for (const pageType of assignedKinds(root)) {
     if (standingAt(root, pageType, named).length > 0) return `${pageType}/${named}`
   }
   return domainAddressOf(named, root)
@@ -72,8 +87,7 @@ export function akashaSeatBody(
   const person = personPrincipals(root).includes(principal)
   const above = person ? null : (parentName ?? principalSeatNameOf(stated.agent))
   if (!person && (above === null || above === "")) return null
-  const initiative =
-    stated.initiative === null ? null : initiativeSlugOf(stated.initiative.value)
+  const initiative = stated.initiative === null ? null : initiativeSlugOf(stated.initiative.value)
   const lines: string[] = [
     'import type { Seat } from "../seat.page-type.ts"',
     "",
@@ -84,9 +98,7 @@ export function akashaSeatBody(
     `  personaSlug: ${said(persona)},`,
     `  assignmentSlug: ${said(assignmentAddressOf(domain, root))},`,
     `  roleSlug: ${said(role)},`,
-    person
-      ? `  personSlug: ${said(principal)},`
-      : `  principalSeatName: ${said(above as string)},`,
+    person ? `  personSlug: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,
     `  startMode: ${said(mode)},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${said(registration)},`,
