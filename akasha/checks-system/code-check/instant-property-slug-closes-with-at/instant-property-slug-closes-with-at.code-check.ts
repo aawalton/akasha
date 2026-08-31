@@ -15,11 +15,6 @@ export const instantPropertySlugClosesWithAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every page whose page type stands under `instant-property` is judged rather than only one whose own page type is `instant-property`.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A page type the change itself puts under `instant-property` counts.",
     },
     {
