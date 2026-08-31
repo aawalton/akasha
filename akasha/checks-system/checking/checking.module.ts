@@ -19,7 +19,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "Finding them costs nothing the corpus grows.",
+      statement: "Finding them costs nothing the pages grow.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const checking = {
     {
       invariantKind: "departure",
       statement:
-        "A check is run once over the whole change it was given rather than over the corpus.",
+        "A check is run once over the whole change it was given rather than over the pages.",
     },
     {
       invariantKind: "departure",

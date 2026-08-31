@@ -4,7 +4,7 @@ export const codeTyping = {
   id: "01a058ec-4a71-7000-9c3e-6b1f0a2d4e55",
   pageTypeSlug: "module",
   slug: "code-typing",
-  definition: "a program built over the corpus, and what the checker says a spelling means",
+  definition: "a program built over the pages, and what the checker says a spelling means",
   code: "ts",
   test: "ts",
   invariants: [

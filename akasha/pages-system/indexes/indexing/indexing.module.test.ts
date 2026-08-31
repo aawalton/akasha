@@ -12,7 +12,6 @@ import {
   bodyOf,
   butTheStamp,
   C,
-  CORPUS,
   D,
   edgeFile,
   everyBodyUnder,
@@ -25,6 +24,7 @@ import {
   linesIn,
   type Named,
   NOTE,
+  PAGES,
   pathFile,
   put,
   renamed,
@@ -274,10 +274,10 @@ test("a rebuild from the pages agrees with the index a write left", () => {
   expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
 
-test("a rebuild of the corpus and a settle over it leave the same index", () => {
+test("a rebuild of the pages and a settle over it leave the same index", () => {
   const repo = heldAt()
   const tree = join(repo, "akasha")
-  cpSync(CORPUS, tree, { recursive: true })
+  cpSync(PAGES, tree, { recursive: true })
 
   const built = heldAt()
   const said = rebuiltFrom(tree, built, repo)

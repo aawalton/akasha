@@ -16,7 +16,7 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Which relations state one is read from the index rather than from the corpus.",
+      statement: "Which relations state one is read from the index rather than from the pages.",
     },
     {
       invariantKind: "departure",

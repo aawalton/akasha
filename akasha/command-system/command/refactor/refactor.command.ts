@@ -4,7 +4,7 @@ export const refactor = {
   id: "01a0587b-6773-713a-8932-42c28462e9d0",
   pageTypeSlug: "command",
   slug: "refactor",
-  definition: "a name the corpus is spelled by changed everywhere it is spelled, as one act",
+  definition: "a name the pages are spelled by changed everywhere it is spelled, as one act",
   code: "ts",
   test: "ts",
   mechanical: true,

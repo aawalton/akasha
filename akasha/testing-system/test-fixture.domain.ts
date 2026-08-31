@@ -34,7 +34,7 @@ export const testFixture = {
       name: "Carry The Real Page",
       act: "Import the page a fixture needs into the fixture tree rather than restating its values.",
       warrant:
-        "A restated page falls behind what the corpus declares, and every test keeps passing while it does.",
+        "A restated page falls behind what the pages declare, and every test keeps passing while it does.",
       aids: [
         "A page is a module, so a fixture can import it.",
         "Invent a page only where none stands for what the test needs.",

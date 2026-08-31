@@ -151,7 +151,7 @@ function saying(
       ? "no file naming it needed repointing"
       : `${counted(repointing.length, "file")} naming it ${were(repointing.length, dry)} repointed`,
     left.length === 0
-      ? "nothing in the corpus still names it"
+      ? "nothing in the pages still names it"
       : `${counted(left.length, "place")} naming it ${left.length === 1 ? "stands" : "stand"} unchanged`,
     ...left.slice(0, LEFT),
     ...(left.length > LEFT ? [`  and ${left.length - LEFT} more`] : []),

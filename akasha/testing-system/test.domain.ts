@@ -16,7 +16,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A test over the corpus proves what the corpus holds.",
+      statement: "A test over the pages proves what they hold.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A test reaching the corpus reads it whole rather than pinning what it found.",
+      statement: "A test reaching the pages reads them whole rather than pinning what it found.",
     },
     {
       invariantKind: "gap",

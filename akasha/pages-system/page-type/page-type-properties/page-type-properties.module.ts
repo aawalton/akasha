@@ -49,7 +49,7 @@ export const pageTypeProperties = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the corpus.",
+      statement: "Nothing here walks the pages.",
     },
   ],
 } as const satisfies Module

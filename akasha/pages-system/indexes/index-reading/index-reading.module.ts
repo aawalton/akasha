@@ -16,12 +16,12 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "A name not saying its page type costs one read for each page type it could be rather than a walk of the corpus.",
+        "A name not saying its page type costs one read for each page type it could be rather than a walk of the pages.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A directory listed is one page type's own and grows with that type and not with the corpus.",
+        "A directory listed is one page type's own and grows with that type and not with the pages.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The answer is the corpus itself.",
+      statement: "The answer is the pages themselves.",
     },
     {
       invariantKind: "departure",

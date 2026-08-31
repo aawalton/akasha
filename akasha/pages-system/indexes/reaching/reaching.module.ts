@@ -10,7 +10,7 @@ export const reaching = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property's target is read from the index rather than from the corpus.",
+      statement: "A property's target is read from the index rather than from the pages.",
     },
     {
       invariantKind: "departure",

@@ -66,7 +66,7 @@ export const graphSystem = {
     {
       directiveKind: "rule",
       name: "Never Depend On Everything",
-      act: "Key a corpus question so a change reaches one key, never the whole table.",
+      act: "Key a question of the pages so a change reaches one key, never the whole table.",
       warrant:
         "A cache that never hits costs more than none, and an answer resting on everything never hits.",
       aids: [

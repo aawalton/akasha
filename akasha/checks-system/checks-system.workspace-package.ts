@@ -78,7 +78,7 @@ export const checksSystem = {
     },
     {
       invariantKind: "gap",
-      statement: "A check runs over the changes it was given rather than over the corpus.",
+      statement: "A check runs over the changes it was given rather than over the pages.",
     },
     {
       invariantKind: "gap",

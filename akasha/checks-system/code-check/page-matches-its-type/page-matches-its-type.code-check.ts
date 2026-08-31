@@ -88,7 +88,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the corpus names as a page and whose body declares no page is refused.",
+      statement: "A file the index names as a page and whose body declares no page is refused.",
     },
     {
       invariantKind: "departure",

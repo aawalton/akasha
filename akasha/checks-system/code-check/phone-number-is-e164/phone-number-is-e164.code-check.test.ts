@@ -129,7 +129,7 @@ test("a page of a type declaring no phone number is passed over", () => {
   expect(judged(root, { [at]: body })).toEqual([])
 })
 
-test("a file the corpus does not name as a page is passed over", () => {
+test("a file the index does not name as a page is passed over", () => {
   expect(judged(rooted(), { "akasha/held.ts": person('phone: "6085122510"') })).toEqual([])
 })
 

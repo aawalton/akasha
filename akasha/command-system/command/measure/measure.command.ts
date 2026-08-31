@@ -29,7 +29,7 @@ export const measure = {
     },
     {
       invariantKind: "departure",
-      statement: "A fleet answered as holding nobody is the corpus being wrong.",
+      statement: "A fleet answered as holding nobody is the pages being wrong.",
     },
     {
       invariantKind: "absence",

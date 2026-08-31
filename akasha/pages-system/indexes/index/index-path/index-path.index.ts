@@ -59,7 +59,7 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
-      statement: "This tree is the corpus.",
+      statement: "This tree is every page there is.",
     },
   ],
 } as const satisfies Index

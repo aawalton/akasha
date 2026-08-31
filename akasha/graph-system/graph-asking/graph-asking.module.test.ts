@@ -118,7 +118,7 @@ test("a kind no edge page carries is refused rather than answered with nothing",
   expect(() => edgesInto(root, TARGET_AT, [HELD])).toThrow(/`held`.*could not be answered/)
 })
 
-test("a page the corpus names is answered with every page naming it, and through what", () => {
+test("a page the index names is answered with every page naming it, and through what", () => {
   const found = edgesInto(REPO_AT, NAMED, [RELATION])
 
   expect(found.length).toBeGreaterThan(0)
@@ -175,7 +175,7 @@ test("a loader whose own code is asked for is not answered with an edge to itsel
   expect(edgesInto(root, LOADER_CODE_AT, [IMPORT_EDGE])).toEqual([])
 })
 
-test("a check page in the corpus is answered with the module that loads it, and so is its code", () => {
+test("a check page among the pages is answered with the module that loads it, and so is its code", () => {
   const page = edgesInto(REPO_AT, CHECK_AT, [IMPORT_EDGE])
   const code = edgesInto(REPO_AT, CHECK_CODE_AT, [IMPORT_EDGE])
 

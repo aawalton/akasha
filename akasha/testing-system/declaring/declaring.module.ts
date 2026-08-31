@@ -10,7 +10,7 @@ export const declaring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The pages are the corpus's own imported rather than restated.",
+      statement: "The pages are the system's own imported rather than restated.",
     },
     {
       invariantKind: "departure",

@@ -19,7 +19,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming itself otherwise than its file is invisible to the corpus.",
+      statement: "A page naming itself otherwise than its file is invisible to the index.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a file states past the first is invisible to the corpus.",
+      statement: "A page a file states past the first is invisible to the index.",
     },
     {
       invariantKind: "departure",

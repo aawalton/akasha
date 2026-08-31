@@ -285,7 +285,7 @@ export const THING_VOCABULARY: Readonly<Record<string, string>> = {
 export function judging(root: string, slug: string): undefined {
   const at = join(CHECKS_AT, slug, `${slug}.code-check.code.ts`)
   const said = `export { ${exportedAs(slug)} } from ${JSON.stringify(at)}\n`
-  minting(root, slug, mintedId(slug), "a check the corpus already carries", said)
+  minting(root, slug, mintedId(slug), "a check the pages already carry", said)
 }
 
 export const NAMERS: readonly string[] = [ALPHA, BETA]

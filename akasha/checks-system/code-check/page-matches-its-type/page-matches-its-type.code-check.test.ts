@@ -284,7 +284,7 @@ test("a page whose page type declares nothing is passed over, as it was before",
   expect(judgedOver({ [HELD_AT]: body })).toEqual([])
 })
 
-test("a file the corpus does not name as a page is passed over, whatever its body says", () => {
+test("a file the index does not name as a page is passed over, whatever its body says", () => {
   expect(judgedOver({ "akasha/held.ts": "export const held = (\n" })).toEqual([])
 })
 

@@ -190,7 +190,7 @@ export const IMPORTS = 'import { b } from "./b.ts"\nimport type { C } from "../c
 
 export const IMPORTS_AT = "d/a.module.code.ts"
 
-export const CORPUS = join(rootOf(import.meta.dir), "akasha")
+export const PAGES = join(rootOf(import.meta.dir), "akasha")
 
 export function everyBodyUnder(at: string): readonly string[] {
   const found: string[] = []

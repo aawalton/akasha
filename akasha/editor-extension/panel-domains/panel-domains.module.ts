@@ -48,7 +48,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here walks the corpus.",
+      statement: "Nothing here walks the pages.",
     },
     {
       invariantKind: "absence",

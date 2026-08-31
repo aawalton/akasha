@@ -12,6 +12,6 @@ export const veraGraphSystem = {
       workingMemory:
         "`FILES`, `TEXTS` and `PAGES` stand in `change-walking`; `judgingEach` builds a check from one, `waking` lays one on a check keeping its own walking. All thirty-six carry one: ten sleep for a non-page `.ts`, twenty-nine for a `.md`. `PAGES` is wider than several need, `introduced-property-is-a-part` running on `*.page-type.ts` alone. A test in `checking` runs every bound check over a change its waking turns away and asks for no refusal.",
     },
-    { statement: "No answer rests on a question the corpus must be walked to settle." },
+    { statement: "No answer rests on a question the pages must be walked to settle." },
   ],
 } as const satisfies Initiative

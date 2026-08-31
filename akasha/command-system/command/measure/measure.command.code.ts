@@ -37,7 +37,7 @@ export function measure(argv: readonly string[], given: Given): Answer {
       report: [],
       refusals: [
         `no claude-account page stands under \`${given.root}\`, and every account holding a page ` +
-          `is answered, so a fleet of none is the corpus being wrong rather than a fleet`,
+          `is answered, so a fleet of none is the pages being wrong rather than a fleet`,
       ],
       code: 2,
     }
