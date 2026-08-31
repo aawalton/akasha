@@ -37,10 +37,10 @@ function stated(
   parts: readonly string[]
 ): string {
   const said = above === null ? "" : `, extendsSlug: ${JSON.stringify(`page-type/${above}`)}`
-  const held_ = declares.map((one) => ({ pagePropertySlug: one }))
+  const declared = declares.map((one) => ({ pagePropertySlug: one }))
   return (
     `export const held = { id: ${JSON.stringify(`id-${slug}`)}, pageTypeSlug: "page-type", ` +
-    `slug: ${JSON.stringify(slug)}${said}, properties: ${JSON.stringify(held_)}, ` +
+    `slug: ${JSON.stringify(slug)}${said}, properties: ${JSON.stringify(declared)}, ` +
     `partSlugs: ${JSON.stringify(parts)} }\n`
   )
 }

@@ -149,27 +149,27 @@ export function reasonsIn(
     if (fields.size === 0) continue
     for (const entry of listed ? entriesAt(value, key) : [held]) {
       if (typeof entry !== "object" || entry === null) continue
-      for (const [inner, value_] of Object.entries(entry as Value)) {
+      for (const [inner, stated] of Object.entries(entry as Value)) {
         const shaped = fields.get(inner)
         if (shaped === undefined) {
           said.push(`states \`${slug} ${inner}\`, which \`${slug}\` does not declare`)
           continue
         }
         const field = shaped.pagePropertySlug
-        const held_ = pageFor(shaped)
-        const max = held_ === null ? null : numberAt(held_, "max")
-        const format = held_ === null ? null : textAt(held_, FORMAT)
-        const many = Array.isArray(value_)
-        if (shaped.many && many && shaped.max !== null && value_.length > shaped.max) {
-          said.push(`holds ${value_.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
+        const fieldPage = pageFor(shaped)
+        const max = fieldPage === null ? null : numberAt(fieldPage, "max")
+        const format = fieldPage === null ? null : textAt(fieldPage, FORMAT)
+        const many = Array.isArray(stated)
+        if (shaped.many && many && shaped.max !== null && stated.length > shaped.max) {
+          said.push(`holds ${stated.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
         }
         if (shaped.many && many) {
-          const why = overTotal(value_, shaped.total, `${slug} ${field}`)
+          const why = overTotal(stated, shaped.total, `${slug} ${field}`)
           if (why !== null) said.push(why)
-          const twice = twiceIn(value_, `${slug} ${field}`)
+          const twice = twiceIn(stated, `${slug} ${field}`)
           if (twice !== null) said.push(twice)
         }
-        for (const each of many ? value_ : [value_]) {
+        for (const each of many ? stated : [stated]) {
           const why = overMax(each, max, `${slug} ${field}`, "")
           if (why !== null) said.push(why)
           const off = offFormat(each, format, formatting, `${slug} ${field}`)

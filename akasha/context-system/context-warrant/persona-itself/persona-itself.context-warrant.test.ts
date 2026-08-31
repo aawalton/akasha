@@ -63,10 +63,10 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
 
 test("a warrant carries the body standing at the persona, and why it is owed", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
-  const persona_ = personaStanding(root, "akasha")
+  const personaPage = personaStanding(root, "akasha")
   const at = seatStanding(root, "one", `personaSlug: "akasha"`)
   const held = personaItself(root, at)[0]
-  expect(held?.path).toBe(persona_.path)
+  expect(held?.path).toBe(personaPage.path)
   expect(held?.oid).toBe(
     blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
   )

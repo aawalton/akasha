@@ -160,8 +160,8 @@ test("a declaration stating no total lets a list run to any length", () => {
 })
 
 test("a record field over the total its declaration states is refused", () => {
-  const over_ = { id: "a", slug: "one", directives: [{ name: "go", aids: ["hello", "world"] }] }
-  expect(over(over_, "told")).toEqual([
+  const beyond = { id: "a", slug: "one", directives: [{ name: "go", aids: ["hello", "world"] }] }
+  expect(over(beyond, "told")).toEqual([
     "holds 10 characters of `directives aids`, over the total of 6",
   ])
   const under = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd"] }] }
