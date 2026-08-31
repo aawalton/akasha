@@ -6,7 +6,7 @@ export const contextReplacedSource = {
   id: "01a05810-00aa-7789-aa54-f9c7e5dd0f48",
   pageTypeSlug: "text-property",
   slug: "context-replaced-source",
-  propertySlug: "context-replaced-source",
+  propertySlug: "source",
   definition: "how a seat came by the context it is working in",
   max: 20,
   nameFormatSlug: "name-format/lower-kebab-case",
