@@ -102,7 +102,7 @@ test("a change carrying no file with a test beside it is judged by no run", () =
   )
 })
 
-test("a file the index files a test beside wakes the check", () => {
+test("a file the index files a test beside is input to the check", () => {
   const root = repo({
     "akasha/one.module.code.ts": "",
     "akasha/one.module.test.ts": PASSES,
@@ -112,7 +112,7 @@ test("a file the index files a test beside wakes the check", () => {
   expect(taken.map((path) => testsPass.isInput(path, shadow))).toEqual([true, true, true])
 })
 
-test("a file the index files no test beside does not wake the check", () => {
+test("a file the index files no test beside is no input to the check", () => {
   const root = repo({ "akasha/one.module.code.ts": "", "akasha/held.md": "held" })
   const shadow = shadowAt(root)
   const asleep = ["akasha/one.module.code.ts", "akasha/one.module.ts", "akasha/held.md"]

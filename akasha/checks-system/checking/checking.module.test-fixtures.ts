@@ -115,38 +115,38 @@ export const REFUSES_TAKING =
   "}\n"
 
 const INPUT_TS =
-  "export function wakesTs(change) {\n" +
+  "export function inputTs(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "ts woke" }))\n' +
   "}\n" +
-  'wakesTs.isInput = (path) => path.endsWith(".ts")\n'
+  'inputTs.isInput = (path) => path.endsWith(".ts")\n'
 
 const INPUT_PAGES =
   `import { PAGES } from "${WALKING_AT}"\n` +
-  "export function wakesPages(change) {\n" +
+  "export function inputPages(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "a page woke" }))\n' +
   "}\n" +
-  "wakesPages.isInput = PAGES.isInput\n"
+  "inputPages.isInput = PAGES.isInput\n"
 
 const INPUT_THROWS =
-  "export function wakingThrows(change) {\n" +
+  "export function inputThrows(change) {\n" +
   '  return change.changed.map((path) => ({ path, reason: "woke anyway" }))\n' +
   "}\n" +
-  "wakingThrows.isInput = () => {\n" +
+  "inputThrows.isInput = () => {\n" +
   '  throw new Error("the input could not be answered")\n' +
   "}\n"
 
 export const TWO_CHECKS = [
-  { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
+  { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
 
 export const INPUT_THROWS_CHECKS = [
-  { slug: "waking-throws", runsOn: ["patch"], body: INPUT_THROWS },
-  { slug: "wakes-ts", runsOn: ["patch"], body: INPUT_TS },
+  { slug: "input-throws", runsOn: ["patch"], body: INPUT_THROWS },
+  { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },
 ]
 
 const PAGE_CHECKS = [
-  { slug: "wakes-pages", runsOn: ["patch"], body: INPUT_PAGES },
+  { slug: "input-pages", runsOn: ["patch"], body: INPUT_PAGES },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
 ]
 

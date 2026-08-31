@@ -174,7 +174,7 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
   expect(tailed.isInput(PAGE_AT, shadow)).toBe(false)
 })
 
-test("a page named outside the akasha folder is no page, so nothing bounded to the pages wakes", () => {
+test("a page named outside the akasha folder is no page, so no check bounded to the pages takes it", () => {
   const change = pagedWorld()
   const shadow = shadowAt(change.root)
   expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
@@ -217,7 +217,7 @@ test("judging each of a selection makes a runner, naming the path each refusal i
   ])
 })
 
-test("a runner made from a selection carries what wakes it, so a gate may ask before it runs", () => {
+test("a runner made from a selection carries the input it states, so a gate may ask before it runs", () => {
   const change = mixedWorld()
   const shadow = shadowAt(change.root)
   const run = judgingEach(TEXTS, () => [])
@@ -225,13 +225,13 @@ test("a runner made from a selection carries what wakes it, so a gate may ask be
   expect(run.isInput("one.md", shadow)).toBe(false)
 })
 
-test("a waking laid on a runner wraps it, leaving the runner it was handed carrying none", () => {
+test("an input laid on a runner wraps it, leaving the runner it was handed carrying none", () => {
   const change = mixedWorld()
   const shadow = shadowAt(change.root)
   const run = (held: Change) => [{ path: held.changed[0] ?? "", reason: "said" }]
   const bound = input(TEXTS, run)
-  expect(Object.hasOwn(run, "wakesOn")).toBe(false)
-  expect(Object.hasOwn(bound, "wakesOn")).toBe(true)
+  expect(Object.hasOwn(run, "isInput")).toBe(false)
+  expect(Object.hasOwn(bound, "isInput")).toBe(true)
   expect(bound.isInput("one.ts", shadow)).toBe(true)
   expect(bound.isInput("one.md", shadow)).toBe(false)
   expect(bound(change, shadow)).toEqual([{ path: "gone.ts", reason: "said" }])
@@ -248,7 +248,7 @@ test("the judge of a selection is handed the index the change leaves, so it may 
   expect(seen).toEqual(["function"])
 })
 
-test("a selector wakes on every path it hands over, so no path it judges passes a gate unseen", () => {
+test("a selector takes as input every path it hands over, so no path it judges passes a gate unseen", () => {
   const change = pagedWorld()
   const shadow = shadowAt(change.root)
   const every: readonly Selector<{ readonly path: string }>[] = [
