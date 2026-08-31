@@ -30,6 +30,7 @@ export const akashaSystem = {
     "domain/akasha-required-reading",
     "domain/akasha-migration",
     "workspace-package/person-system",
+    "domain/service-system",
     "domain/alan-harness",
   ],
   invariants: [
