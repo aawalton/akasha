@@ -127,9 +127,22 @@ const WAKES_PAGES =
   "}\n" +
   "wakesPages.wakesOn = PAGES.wakesOn\n"
 
+const WAKING_THROWS =
+  "export function wakingThrows(change) {\n" +
+  '  return change.changed.map((path) => ({ path, reason: "woke anyway" }))\n' +
+  "}\n" +
+  "wakingThrows.wakesOn = () => {\n" +
+  '  throw new Error("the waking could not answer")\n' +
+  "}\n"
+
 export const TWO_CHECKS = [
   { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
   { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
+]
+
+export const WAKING_THROWS_CHECKS = [
+  { slug: "waking-throws", runsOn: ["patch"], body: WAKING_THROWS },
+  { slug: "wakes-ts", runsOn: ["patch"], body: WAKES_TS },
 ]
 
 const PAGE_CHECKS = [

@@ -132,16 +132,22 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
   return every.filter((one) => one.runsOn.includes(phase))
 }
 
+function wakesFor(one: Gathered, change: Change, shadow: Shadow): boolean {
+  const wakes = one.wakesOn
+  if (wakes === null) return true
+  try {
+    return change.changed.some((path) => wakes(path, shadow))
+  } catch {
+    return true
+  }
+}
+
 export function checksWoken(
   every: readonly Gathered[],
   change: Change,
   shadow: Shadow
 ): readonly Gathered[] {
-  return every.filter((one) => {
-    const wakes = one.wakesOn
-    if (wakes === null) return true
-    return change.changed.some((path) => wakes(path, shadow))
-  })
+  return every.filter((one) => wakesFor(one, change, shadow))
 }
 
 function threw(one: Gathered, thrown: unknown): Judged {

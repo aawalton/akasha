@@ -25,6 +25,7 @@ import {
   scratch,
   THROWS,
   TWO_CHECKS,
+  WAKING_THROWS_CHECKS,
 } from "./checking.module.test-fixtures.ts"
 
 const PAGE = "page"
@@ -197,6 +198,28 @@ test("a check carrying no waking runs over a change its woken neighbour sleeps t
   const change = { root, changed: ["one.md"], after: held, before: held }
   const woken = checksWoken(every, change, shadowAsked(change))
   expect(woken.map((one) => one.slug)).toEqual(["refuses-all"])
+})
+
+test("a check whose waking could not answer runs, its neighbour woken as it would have been", () => {
+  const root = rootWith(WAKING_THROWS_CHECKS)
+  writeFileSync(join(root, "one.md"), "one")
+  writeFileSync(join(root, "two.ts"), "two")
+  const every = checksIn(root)
+  const held = onDisk(root)
+  const overMd = { root, changed: ["one.md"], after: held, before: held }
+  const overTs = { root, changed: ["two.ts"], after: held, before: held }
+  expect(checksWoken(every, overMd, shadowAsked(overMd)).map((one) => one.slug)).toEqual([
+    "waking-throws",
+  ])
+  expect(checksWoken(every, overTs, shadowAsked(overTs)).map((one) => one.slug)).toEqual([
+    "wakes-ts",
+    "waking-throws",
+  ])
+  expect(
+    judgingBy(every)
+      .over(overMd)
+      .map((one) => one.reason)
+  ).toEqual(["woke anyway"])
 })
 
 test("a check whose waking a changed path answers runs, and judges every path in the change", () => {

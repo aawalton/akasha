@@ -44,6 +44,10 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check whose waking could not answer runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One shadow is cast over the change here and handed to every check.",
     },
     {
