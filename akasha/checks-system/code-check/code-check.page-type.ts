@@ -38,6 +38,7 @@ export const codeCheck = {
     "code-check/introduced-property-is-a-part",
     "code-check/key-names-one-property",
     "code-check/lint-clean",
+    "code-check/manifest-names-what-is-reached",
     "code-check/name-format-judges-by-one-shape",
     "code-check/no-class",
     "code-check/no-code-comments",

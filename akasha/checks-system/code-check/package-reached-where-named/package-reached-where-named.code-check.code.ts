@@ -63,7 +63,7 @@ function reachedIn(folder: string, said: unknown): ReadonlySet<string> | null {
   return found
 }
 
-function manifestIn(text: string): Record<string, unknown> | null {
+export function manifestIn(text: string): Record<string, unknown> | null {
   let said: unknown
   try {
     said = JSON.parse(text)
