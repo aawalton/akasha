@@ -7,7 +7,7 @@ export const testsPass = {
   definition: "the check refusing a change whose tests do not pass",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -66,10 +66,6 @@ export const testsPass = {
     {
       invariantKind: "constraint",
       statement: "The world is swept whatever the run said.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No test runs at patch.",
     },
     {
       invariantKind: "gap",
