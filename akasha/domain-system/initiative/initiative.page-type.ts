@@ -69,10 +69,6 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative's name is its persona and what its work is toward.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An initiative's purpose is done once every intent it holds is met.",
     },
     {
