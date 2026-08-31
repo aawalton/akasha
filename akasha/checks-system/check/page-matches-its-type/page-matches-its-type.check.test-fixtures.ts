@@ -22,7 +22,6 @@ const TYPES: readonly Value[] = [
     properties: [
       { pagePropertySlug: "id", required: true, many: false },
       { pagePropertySlug: "slug", required: true, many: false },
-      { pagePropertySlug: "page-type-slug", required: true, many: false },
     ],
   },
   {
