@@ -16,6 +16,7 @@ export const pagesSystem = {
     "page-type/relation-property",
     "page-type/record-property",
     "page-type/file-property",
+    "page-type/named-file-property",
     "page-type/phone-number-property",
     "page-type/email-address-property",
     "page-type/process-property",
