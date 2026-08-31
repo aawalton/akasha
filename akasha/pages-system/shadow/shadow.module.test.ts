@@ -3,7 +3,7 @@ import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
-import { put } from "../../testing-system/putting/putting.module.code.ts"
+import { put, stands } from "../../testing-system/putting/putting.module.code.ts"
 import { indexIn } from "../indexes/index-reading/index-reading.module.code.ts"
 import {
   beneath,
@@ -95,13 +95,7 @@ const CHANGES: readonly FileEdit[] = [
 ]
 
 function onDisk(root: string): (path: string) => Uint8Array | null {
-  return (path) => {
-    try {
-      return readFileSync(join(root, path))
-    } catch {
-      return null
-    }
-  }
+  return (path) => (stands(root, path) ? readFileSync(join(root, path)) : null)
 }
 
 function changeOver(root: string, changes: readonly FileEdit[]): Change {
