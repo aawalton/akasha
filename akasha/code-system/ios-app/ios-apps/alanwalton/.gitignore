@@ -4,7 +4,8 @@ bun.lock
 bun.lockb
 
 # Capacitor-generated native project (regenerated from package.json + capacitor.config.json).
-# The hand-authored native seam lives in scripts/apply-ios-seam.sh, re-applied by ios:sync.
+# The hand-authored native seam is the alanwalton-ios-seam shell script and the
+# thirty-five it sources, re-applied by ios:sync.
 ios/
 android/
 
@@ -18,7 +19,3 @@ DerivedData/
 *.xcuserstate
 *.xcuserdatad/
 build/
-
-# Tiles the render harness drew on this run. Looking at them is the verdict — there
-# is no blessed image to compare against, so nothing here is worth committing.
-scripts/render-harness/out/
