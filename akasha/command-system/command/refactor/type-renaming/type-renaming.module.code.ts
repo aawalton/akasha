@@ -1,8 +1,8 @@
 import ts from "typescript"
 import { literalOf, parsedAs } from "../../../../code-system/code-source/code-source.module.code.ts"
 import {
-  everyOfTypeAnswered,
-  everyPathAnswered,
+  everyOfType,
+  everyPath,
   standingAt,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { exportedAs } from "../../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
@@ -206,7 +206,7 @@ export function carriesFor(
   const found = new Map<string, string>([[type.from, type.to]])
   const under = `${dirOf(one.path)}/`
   const moved = `${dirOf(type.to)}/`
-  for (const path of everyPathAnswered(root)) {
+  for (const path of everyPath(root)) {
     if (path === one.path || !standing(path)) continue
     const there = relocated(tailRenamed(path, one) ?? path, one, under, moved)
     if (there !== path) found.set(path, there)
@@ -218,5 +218,5 @@ export function carriesFor(
 }
 
 export function pagesOf(root: string, one: Renaming): readonly string[] {
-  return [...new Set(everyOfTypeAnswered(root, one.was).map((held) => held.path))].sort()
+  return [...new Set(everyOfType(root, one.was).map((held) => held.path))].sort()
 }
