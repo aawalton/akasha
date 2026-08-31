@@ -46,6 +46,18 @@ export const initiative = {
     },
     {
       invariantKind: "departure",
+      statement: "An initiative's intents stand in the order they are to be worked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first intent is the one being worked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent found to block the one being worked is placed first.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An intent an initiative meets returns to the domain it came from as a design or condition invariant or is deleted.",
     },
