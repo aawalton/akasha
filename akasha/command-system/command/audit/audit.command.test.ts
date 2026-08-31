@@ -23,13 +23,15 @@ function saying(named: readonly string[], said: readonly Judged[]): Judging {
 }
 
 function standing(slugs: readonly string[]): readonly Gathered[] {
-  return slugs.map((slug) => ({
-    slug,
-    page: `${slug}.code-check.ts`,
-    runsOn: ["audit"],
-    wakesOn: null,
-    run: () => [],
-  }))
+  return slugs.map(
+    (slug): Gathered => ({
+      slug,
+      page: `${slug}.code-check.ts`,
+      runsOn: ["audit"],
+      wakesOn: null,
+      run: () => [],
+    })
+  )
 }
 
 function given(): Given {
