@@ -1,3 +1,5 @@
+import { resolveRoots } from "../../repo/roots/roots.ts"
+import { fieldFromHistory } from "./seat-page-history.ts"
 import { pageTextOf } from "./seat-page-values.ts"
 
 const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
@@ -21,7 +23,13 @@ export interface SessionRecord {
 // every call and the answer came from the page underneath it.
 export function sessionOf(agent: string): SessionRecord | null {
   const held = pageTextOf(agent, KEY)
-  return held !== null && UUID.test(held) ? { value: held } : null
+  if (held !== null && UUID.test(held)) return { value: held }
+  // STOPPING IS ORDINARY AND A RESUME AFTER IT IS THE NORMAL FLOW, so a seat whose page has gone is
+  // read out of the history that page was committed into. That is what committing this key buys,
+  // and nothing was spending it: the tree read answered null for a stopped seat and the lookup
+  // ended there, which reads as "no session" when the session is a `git show` away.
+  const committed = fieldFromHistory(agent, resolveRoots(), KEY)
+  return committed !== null && UUID.test(committed) ? { value: committed } : null
 }
 
 // A SESSION REACHES THE SEAT BY THE PAGE BEING WRITTEN, WHICH IS THE ONLY WAY IT EVER REACHED IT.
