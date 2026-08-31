@@ -11,4 +11,5 @@ export const aine = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "0fefd6d4-027f-4e6d-881d-0c25a25ecc14",
 } as const satisfies Seat
