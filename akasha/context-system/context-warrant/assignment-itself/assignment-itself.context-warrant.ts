@@ -1,9 +1,9 @@
 import type { ContextWarrant } from "../context-warrant.page-type.ts"
 
-export const domainItself = {
+export const assignmentItself = {
   id: "01a0582e-2829-77ab-9ea6-760d61d23933",
   pageTypeSlug: "context-warrant",
-  slug: "domain-itself",
+  slug: "assignment-itself",
   definition: "what a seat must read for the domain it states",
   code: "ts",
   test: "ts",

@@ -11,7 +11,7 @@ import {
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
-import { DOMAIN, domainItself } from "./domain-itself.context-warrant.code.ts"
+import { DOMAIN, domainItself } from "./assignment-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 
