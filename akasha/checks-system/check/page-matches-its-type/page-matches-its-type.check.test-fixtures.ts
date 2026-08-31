@@ -73,40 +73,46 @@ const TYPES: readonly Value[] = [
 
 const SHAPES: readonly Value[] = [
   {
+    id: "01a0540d-0000-7000-8000-000000000017",
+    pageTypeSlug: "page-type",
+    slug: "page-type",
+    extendsSlug: "page-type/page",
+  },
+  {
     id: "01a0540d-0000-7000-8000-000000000006",
     pageTypeSlug: "page-type",
     slug: "text-property",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000007",
     pageTypeSlug: "page-type",
     slug: "record-property",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000008",
     pageTypeSlug: "page-type",
     slug: "number-property",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-00000000000f",
     pageTypeSlug: "page-type",
     slug: "relation-property",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000012",
     pageTypeSlug: "page-type",
     slug: "name-format",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000015",
     pageTypeSlug: "page-type",
     slug: "worded-property",
-    extendsSlug: null,
+    extendsSlug: "page-type/page",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000013",
