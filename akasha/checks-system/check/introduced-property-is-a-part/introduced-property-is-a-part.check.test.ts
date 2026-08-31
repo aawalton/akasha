@@ -5,13 +5,7 @@ import { scratchWorld } from "../../../command-system/scratching/scratching.modu
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import { standingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
-import {
-  declaring,
-  founded,
-  landing,
-  NO_BYTES,
-  typed,
-} from "../../check-scratch/check-scratch.module.code.ts"
+import { declaring, landing, NO_BYTES } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import {
   declaresIn,
@@ -66,9 +60,11 @@ function standing(
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-introduced-")
-  founded(root)
-  typed(root, PAGE_TYPE, "page")
+  declaring(root, "id", { pageTypeSlug: TEXT, unique: "always" })
+  declaring(root, "slug", { pageTypeSlug: TEXT, unique: "page-type" })
   for (const one of REACHED) declaring(root, one, { pageTypeSlug: TEXT })
+  standing(root, "page", null, ["id", "slug"], [`${TEXT}/id`, `${TEXT}/slug`])
+  standing(root, PAGE_TYPE, "page", [], [])
   return root
 }
 
