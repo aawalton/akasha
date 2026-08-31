@@ -140,10 +140,32 @@ export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | n
   return values
 }
 
+const REPLACED = "context-replaced"
+
+// WHAT A SEAT CAME BY ITS CONTEXT AND WHEN ARE BOTH THE VALUE, so this one is read from the record
+// akasha holds rather than from the sidecar's mtime. Every other key here is a bare value whose
+// stamp is only ever "when the sidecar was last written", which is the newest it can be. This one's
+// stamp is the moment of the event, and `epoch.ts` hands it to the read record as the cutoff before
+// which a seat's reads no longer count. Taking the mtime would move that cutoff forward on every
+// beat and read the whole fleet as having read nothing.
+function replacedIn(values: Record<string, unknown>): SeatRecord | null {
+  const held = values["contextReplaced"]
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  const { source, at } = held as { source?: unknown; at?: unknown }
+  if (typeof source !== "string" || source === "") return null
+  if (typeof at !== "string") return null
+  const ms = Date.parse(at)
+  return Number.isFinite(ms) ? { value: source, at: ms } : null
+}
+
 // One value a seat carries, read from akasha under the old system's key and returned in the shape
 // the old store's readers take. The mapping is `CARRIED`, walked the other way, so a key akasha
 // does not carry answers null here rather than guessing at a name for it.
 export function akashaSeatRecordOf(agentId: string, key: string): SeatRecord | null {
+  if (key === REPLACED) {
+    const values = akashaBesideOf(agentId)
+    return values === null ? null : replacedIn(values)
+  }
   const where = CARRIED[key]
   if (where === undefined) return null
   const values = akashaBesideOf(agentId)

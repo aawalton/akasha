@@ -45,13 +45,14 @@ const CARRIED: Readonly<Record<string, Carried>> = {
   requestedAction: { at: ["request", "action"], kind: "text" },
   interruptMessage: { at: ["request", "message"], kind: "text" },
   restartArmedAt: { at: ["request", "armedAt"], kind: "instant" },
+  "reexec-asked": { at: ["reExecAsk"], kind: "text" },
 }
 
-// The one key whose instant is the stamp rather than the value. What it holds is the source, and a
-// context carried across a restart replaces nothing, so a resume stands as nothing at all.
+// The one key whose stamp is half the fact rather than the moment of writing, so it is carried as a
+// record holding both halves. It was an instant alone until the 31st, which threw the source away:
+// `hold-seat-words.ts` renders that word into what a seat is told, `epoch.ts` and `read-record.ts`
+// each branch on it, and nothing re-derives how a context was come by once the moment has passed.
 const REPLACED = "context-replaced"
-
-const RESUMED = "resume"
 
 const PENDING = "turn-pending"
 
@@ -107,7 +108,11 @@ function carriedFrom(values: Beside): Beside | null {
     }
     if (key === REPLACED) {
       const stamp = stampOf(value)
-      held["contextReplacedAt"] = bare(value) === RESUMED || stamp === null ? null : new Date(stamp).toISOString()
+      const source = bare(value)
+      held["contextReplaced"] =
+        typeof source !== "string" || source === "" || stamp === null
+          ? null
+          : { source, at: new Date(stamp).toISOString() }
       any = true
       continue
     }
