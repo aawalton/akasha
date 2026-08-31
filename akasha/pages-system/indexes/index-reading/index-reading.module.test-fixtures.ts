@@ -248,6 +248,12 @@ export function identitiesCopied(from: string, into: string, pageTypeSlug: strin
   cpSync(under(from, at), under(into, at), { recursive: true })
 }
 
+export function idCopied(from: string, into: string, id: string): undefined {
+  const at = join(indexIdentity.indexName, PAGE, ID, `${id}${ENDING}`)
+  mkdirSync(dirname(under(into, at)), { recursive: true })
+  cpSync(under(from, at), under(into, at))
+}
+
 export function standingTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
   taking(root, join(indexIdentity.indexName, pageTypeSlug, SLUG, `${slug}${ENDING}`))
 }
