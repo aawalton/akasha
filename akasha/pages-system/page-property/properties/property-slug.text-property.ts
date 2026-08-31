@@ -18,6 +18,10 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
+      statement: "A key stands alone among the fields one record property carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slug stands alone among the pages of one property type.",
     },
     {

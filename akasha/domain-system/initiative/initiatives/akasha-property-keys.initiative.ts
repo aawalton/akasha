@@ -22,7 +22,7 @@ export const akashaPropertyKeys = {
   ],
   constraints: [
     "Every property states its key rather than falling back to its slug.",
-    "Where a key stands alone is a fact about a page type rather than about a property.",
+    "Where a key stands alone is a fact about what declares it rather than about the property itself.",
     "The check comes before the readers, since it cannot resolve a declaration to its key until the schema carries one.",
   ],
 } as const satisfies Initiative
