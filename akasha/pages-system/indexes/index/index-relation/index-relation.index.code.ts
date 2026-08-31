@@ -41,7 +41,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
   }
   for (const [key, held] of Object.entries(value)) {
     if (NOT_A_RELATION.has(key) || held === null) continue
-    const propertySlug = known.slugOfKey(key)
+    const propertySlug = known.slugOfKeyIn(value, key)
     if (propertySlug === null) continue
     if (known.targetOf(propertySlug) !== null) {
       file(propertySlug, held, propertySlug)
@@ -51,8 +51,8 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
     if (fields.length === 0) continue
     for (const entry of recordsIn(held)) {
       for (const [inner, said] of Object.entries(entry)) {
-        const field = known.slugOfKey(inner)
-        if (field !== null && fields.includes(field)) file(field, said, `${propertySlug} ${field}`)
+        const field = known.fieldOfKey(propertySlug, inner)
+        if (field !== null) file(field, said, `${propertySlug} ${field}`)
       }
     }
   }

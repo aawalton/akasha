@@ -33,7 +33,8 @@ const KNOWN: Shaped = {
   at: (pageTypeSlug, slug) => (pageTypeSlug === "thing" && slug === "held" ? HELD : []),
   byId: (id) => (id === AAAA ? (HELD[0] ?? null) : null),
   fieldsOf: () => [],
-  slugOfKey: (key) => (key === "names" ? "names" : null),
+  slugOfKeyIn: (_value, key) => (key === "names" ? "names" : null),
+  fieldOfKey: (_propertySlug, key) => (key === "names" ? "names" : null),
 }
 
 function renaming(from: string, to: string): string {

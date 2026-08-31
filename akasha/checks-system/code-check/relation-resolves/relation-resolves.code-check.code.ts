@@ -153,7 +153,7 @@ export function danglingIn(
   }
   for (const [key, held] of Object.entries(value)) {
     if (held === null) continue
-    const propertySlug = known.slugOfKey(key)
+    const propertySlug = known.slugOfKeyIn(value, key)
     if (propertySlug === null) continue
     if (known.targetOf(propertySlug) !== null) {
       judge(propertySlug, held, propertySlug)
@@ -164,8 +164,8 @@ export function danglingIn(
     for (const entry of recordsIn(held)) {
       for (const [field, inner] of Object.entries(entry)) {
         if (inner === null) continue
-        const fieldSlug = known.slugOfKey(field)
-        if (fieldSlug === null || !fields.includes(fieldSlug)) continue
+        const fieldSlug = known.fieldOfKey(propertySlug, field)
+        if (fieldSlug === null) continue
         judge(fieldSlug, inner, `${propertySlug} ${fieldSlug}`)
       }
     }

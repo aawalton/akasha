@@ -87,7 +87,8 @@ const KNOWN: Shaped = {
   },
   byId: () => null,
   fieldsOf: (propertySlug) => (propertySlug === "properties" ? ["principal-seat-name"] : []),
-  slugOfKey: (key) => KEYS[key] ?? null,
+  slugOfKeyIn: (_value, key) => KEYS[key] ?? null,
+  fieldOfKey: (_propertySlug, key) => KEYS[key] ?? null,
 }
 
 test("an address is found under the key stating it", () => {

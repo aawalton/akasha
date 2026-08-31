@@ -6,6 +6,7 @@ import {
   type Value,
   valueAt,
 } from "../../page/page-value/page-value.module.code.ts"
+import { propertiesOf } from "../../page-type/page-type-properties/page-type-properties.module.code.ts"
 import { schemaAt } from "../index-entries/index-entries.module.code.ts"
 import {
   everyOfType,
@@ -31,7 +32,8 @@ export type Known = {
 
 export type Shaped = Known & {
   readonly fieldsOf: (propertySlug: string) => readonly string[]
-  readonly slugOfKey: (key: string) => string | null
+  readonly slugOfKeyIn: (value: Value, key: string) => string | null
+  readonly fieldOfKey: (propertySlug: string, key: string) => string | null
 }
 
 function fieldsIn(value: Value): readonly string[] {
@@ -53,11 +55,22 @@ export function knownIn(
 ): Shaped {
   const reading = readingOf(given)
   const target = new Map<string, string>()
-  const keyed = new Map<string, string>()
+  const keyOfSlug = new Map<string, string>()
   for (const held of schemaAt(reading).values()) {
     const named = held.pageTypeSlug === "relation-property" ? held.targetPageTypeSlug : null
     if (named !== null) target.set(held.slug, named)
-    if (held.propertySlug !== "") keyed.set(exportedAs(held.propertySlug), held.slug)
+    if (held.propertySlug !== "") keyOfSlug.set(held.slug, exportedAs(held.propertySlug))
+  }
+  const carried = new Map<string, ReadonlyMap<string, string>>()
+  const carriedBy = (pageTypeSlug: string): ReadonlyMap<string, string> => {
+    const found = carried.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const made = new Map<string, string>()
+    for (const one of propertiesOf(pageTypeSlug, reading, pageOf)) {
+      made.set(one.key, one.pagePropertySlug)
+    }
+    carried.set(pageTypeSlug, made)
+    return made
   }
 
   const above = new Map<string, string>()
@@ -105,7 +118,16 @@ export function knownIn(
     at: (pageTypeSlug, slug) => standingAt(reading, pageTypeSlug, slug),
     byId: (id) => standingById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
-    slugOfKey: (key) => keyed.get(key) ?? null,
+    slugOfKeyIn: (value, key) => {
+      const stated = textAt(value, "pageTypeSlug")
+      return stated === null ? null : (carriedBy(slugOf(stated)).get(key) ?? null)
+    },
+    fieldOfKey: (propertySlug, key) => {
+      for (const one of fields.get(propertySlug) ?? []) {
+        if (keyOfSlug.get(one) === key) return one
+      }
+      return null
+    },
   }
 }
 

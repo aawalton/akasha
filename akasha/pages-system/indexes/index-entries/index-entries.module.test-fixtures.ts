@@ -103,6 +103,7 @@ export function standing(pages: Readonly<Record<string, string>>): Shaped {
     },
     byId: () => null,
     fieldsOf: (propertySlug) => (propertySlug === "parts" ? ["part-slugs"] : []),
-    slugOfKey: (key) => KEYED[key] ?? null,
+    slugOfKeyIn: (_value, key) => KEYED[key] ?? null,
+    fieldOfKey: (_propertySlug, key) => KEYED[key] ?? null,
   }
 }
