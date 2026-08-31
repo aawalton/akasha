@@ -12,14 +12,14 @@ bundle-id: com.alanwalton.app
 widget-bundle-id: com.alanwalton.app.widgets
 development-team: M6AN6NM6FL
 native-shell-repo-path: akasha:akasha/code-system/ios-app/ios-apps/alanwalton
-capacitor-config-repo-path: akasha:native-shell/alanwalton/capacitor.config.json
+capacitor-config-repo-path: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/capacitor.config.json
 shared-widget-repo-path: akasha:akasha/code-system/ios-component/ios-components
-own-widget-repo-path: akasha:native-shell/alanwalton/ios-widget
-seam-script: akasha:native-shell/alanwalton/scripts/apply-ios-seam.sh
-sim-build-script: akasha:native-shell/alanwalton/scripts/build-sim.sh
-entitlements-repo-path: akasha:native-shell/alanwalton/ios-app/App.entitlements
+own-widget-repo-path: akasha:akasha/code-system/ios-program/ios-programs/alanwalton-widget
+seam-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+sim-build-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-build-sim/alanwalton-build-sim.shell-script.shell.sh
+entitlements-repo-path: akasha:akasha/code-system/ios-program/ios-programs/alanwalton-app/alanwalton-app.ios-program.entitlements.entitlements
 icon-repo-path: akasha:native-shell/alanwalton/ios-icon/AppIcon-1024.png
-www-stage-script: akasha:native-shell/alanwalton/scripts/stage-app.sh
+www-stage-script: akasha:akasha/code-system/ios-app/ios-apps/alanwalton/shell-scripts/alanwalton-stage-app/alanwalton-stage-app.shell-script.shell.sh
 spa-source-repo-path: packages/alanwalton/web
 web-env-path: packages/alanwalton/web/.env.local
 asc-capabilities:

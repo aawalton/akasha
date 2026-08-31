@@ -12,8 +12,8 @@ export const WIDGET_SOURCE_GLOB = WIDGET_SOURCE_GLOBS.join(" and ")
 
 export const SPACING_SWIFT_BASENAME = "spacing.ios-component.swift.swift"
 
-// Seam scripts stand in two places while the shells move into akasha: Jenny's is a
-// shell-script page beside her app package, Alan's and atlas's are still under
+// Seam scripts stand in two places while the shells move into akasha: Jenny's and
+// Alan's are shell-script pages beside their app packages, atlas's is still under
 // native-shell/. Both are globbed, so moving one does not quietly shrink what this
 // check reads — a narrower glob returns fewer files and reports nothing about it.
 export const WIDGET_SEAM_GLOBS: readonly string[] = [

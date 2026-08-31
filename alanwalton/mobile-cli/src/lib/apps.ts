@@ -11,6 +11,7 @@ export interface MobileApp {
   readonly widgetBundleId: string | null
   readonly developmentTeam: string
   readonly nativeShellRepoPath: string | null
+  readonly simBuildScript: string | null
   readonly wwwStageScript: string | null
   readonly spaSourceRepoPath: string | null
   readonly webEnvSegments: readonly string[] | null
@@ -34,6 +35,7 @@ const APP_KEYS: readonly string[] = [
   "widget-bundle-id",
   "development-team",
   "native-shell-repo-path",
+  "sim-build-script",
   "www-stage-script",
   "spa-source-repo-path",
   "web-env-path",
@@ -70,6 +72,7 @@ function mobileAppOf(row: Row): MobileApp {
     widgetBundleId: stated(row, "widget-bundle-id"),
     developmentTeam: required(row, "development-team"),
     nativeShellRepoPath: stated(row, "native-shell-repo-path"),
+    simBuildScript: stated(row, "sim-build-script"),
     wwwStageScript: stated(row, "www-stage-script"),
     spaSourceRepoPath: stated(row, "spa-source-repo-path"),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),

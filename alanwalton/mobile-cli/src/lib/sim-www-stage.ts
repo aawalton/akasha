@@ -2,7 +2,13 @@ import { execFileSync } from "node:child_process"
 import { copyFileSync, type Dirent, existsSync, readdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { InputError, OperationalError } from "@shared/errors-core/exit"
-import { type MobileApp, shellRepoRoot, splitRepoPath, stagedWwwRepoPath } from "./apps"
+import {
+  type MobileApp,
+  shellRepoPath,
+  shellRepoRoot,
+  splitRepoPath,
+  stagedWwwRepoPath,
+} from "./apps"
 
 export const SPA_SOURCE_VAR = "NATIVE_SHELL_SPA_SOURCE_DIR"
 
@@ -14,6 +20,7 @@ function stagePaths(
   readonly sourceRoot: string
   readonly stageScript: string
   readonly stageScriptSaid: string
+  readonly packageDir: string
 } {
   const stagedWww = stagedWwwRepoPath(app)
   if (app.wwwStageScript === null || app.spaSourceRepoPath === null || stagedWww === null) {
@@ -27,6 +34,11 @@ function stagePaths(
     sourceRoot: join(spaRoot, splitRepoPath(app.spaSourceRepoPath).path),
     stageScript: join(shellRoot, splitRepoPath(app.wwwStageScript).path),
     stageScriptSaid: app.wwwStageScript,
+    // The package the script belongs to, named rather than counted back to from
+    // the script. Two `dirname`s stood here and meant the package while the
+    // script sat one level under it; the script moved a level deeper and they
+    // went on meaning something, just not that.
+    packageDir: join(shellRoot, shellRepoPath(app).path),
   }
 }
 
@@ -146,7 +158,7 @@ export function stageWwwFromWorkingTree(app: MobileApp, spaRoot: string): undefi
   const paths = stagePaths(app, spaRoot)
   ensureWebEnvLocal(app, spaRoot)
   execFileSync("bash", [paths.stageScript], {
-    cwd: dirname(dirname(paths.stageScript)),
+    cwd: paths.packageDir,
     env: { ...process.env, [SPA_SOURCE_VAR]: paths.sourceRoot },
     stdio: "inherit",
   })

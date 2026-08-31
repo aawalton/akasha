@@ -2,13 +2,18 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "@shared/errors-core/exit"
 import { codeRoot } from "../../../../../tools/lib/code-root.ts"
-import { macWwwStagingDir, type MobileApp, shellRepoRoot, stagedWwwRepoPath } from "../../lib/apps"
+import {
+  macWwwStagingDir,
+  type MobileApp,
+  shellRepoRoot,
+  splitRepoPath,
+  stagedWwwRepoPath,
+} from "../../lib/apps"
 import { resolveRepoRoot } from "../../lib/git-tree-hash"
 import { MACBOOK } from "../../lib/host"
 import { buildInstallScript, parseInstalledUdid } from "../../lib/sim-macbook"
 import {
   deliverSimRunTree,
-  shellRepoPath,
   simRunNativeShellDir,
   simRunSourceRepoPaths,
   stampCommitOf,
@@ -24,11 +29,17 @@ export interface InstallSimShellOptions {
   readonly report?: (line: string) => void
 }
 
+// Read off the page rather than walked to from the shell. Walking to it assumed
+// the script sat at a fixed spot under the package, and the assumption held
+// silently until the package moved and left `scripts/build-sim.sh` pointing at
+// nothing.
 export function buildSimScriptPath(app: MobileApp, repoRoot: string): string {
-  if (app.nativeShellRepoPath === null) {
-    throw new InputError(`${app.slug} has no native shell in this repo to build a sim from`)
+  if (app.simBuildScript === null) {
+    throw new InputError(
+      `${app.slug} states no \`sim-build-script\`, so there is no script in this repo to build a sim from`
+    )
   }
-  return join(repoRoot, shellRepoPath(app), "scripts", "build-sim.sh")
+  return join(repoRoot, splitRepoPath(app.simBuildScript).path)
 }
 
 export async function installSimShell(opts: InstallSimShellOptions): Promise<string> {
