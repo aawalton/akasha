@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "../../pages-system/change/change.module.code.ts"
 import { everyPathAnswered } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -55,11 +55,7 @@ export function everythingIn(root: string): Change {
 export function onDisk(root: string): (path: string) => Uint8Array | null {
   return (path) => {
     const full = join(root, path)
-    try {
-      return readFileSync(full)
-    } catch {
-      return null
-    }
+    return existsSync(full) ? readFileSync(full) : null
   }
 }
 
