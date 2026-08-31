@@ -12,7 +12,7 @@ import { flexLine } from "./seat-flex.ts"
 import { principalLine } from "./seat-principal.ts"
 import { registrationAccountLine } from "./seat-registration-account.ts"
 import { onCallLine } from "./seat-on-call.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { type Stated, statedOf } from "./seat-stated.ts"
 import { seatTurnStateLine, seatTurnStateOf } from "./seat-turn-state.ts"
 import { pendingLines, pendingOf } from "./seat-turn-pending.ts"
@@ -49,7 +49,7 @@ export function showLines(agent: string, args: Args): readonly string[] {
   const inherited: string[] = ATTRIBUTES.filter(
     (key) => stated.attributes[key] !== undefined && own[key] === undefined
   )
-  if (seatPageForAgent(agent) === null) {
+  if (seatNameForAgent(agent) === null) {
     if (stated.initiative !== null) inherited.push("initiative")
   }
   return [

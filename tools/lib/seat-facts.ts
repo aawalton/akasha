@@ -1,4 +1,4 @@
-import { seatHolderProcess, seatPageForAgent, seatPresence } from "./seat-presence-read.ts"
+import { agentHolderProcess, agentPresence } from "./seat-presence-read.ts"
 import { parseSeatProcKey, type SeatPresence } from "./seat-proc-key.ts"
 import { seatRoster } from "./seat-roster.ts"
 import { seatWhoami } from "./seat-whoami.ts"
@@ -34,17 +34,18 @@ export interface SeatRecord {
   readonly supervisorPid: number | null
 }
 
-function supervisorPidOf(page: string | null): number | null {
-  if (page === null) return null
-  const stated = seatHolderProcess(page)
+// THE HOLDER IS ASKED FOR BY THE AGENT'S ID RATHER THAN BY ITS PAGE. This took the old page's path
+// and opened it for the id it states, only to ask akasha that id for the holder. The id is what the
+// caller already has.
+function supervisorPidOf(agentId: string): number | null {
+  const stated = agentHolderProcess(agentId)
   return stated === null ? null : (parseSeatProcKey(stated)?.pid ?? null)
 }
 
 export function seatRecord(agentId: string): SeatRecord | null {
   const whoami = seatWhoami(agentId)
   if (whoami === null) return null
-  const page = seatPageForAgent(agentId)
-  const presence: SeatPresence = page === null ? "absent" : seatPresence(page)
+  const presence: SeatPresence = agentPresence(agentId)
   return {
     id: agentId,
     name: whoami.name,
@@ -56,6 +57,6 @@ export function seatRecord(agentId: string): SeatRecord | null {
     present: presence === "present",
     presence,
     interactive: whoami.mode === SEAT_MODE_INTERACTIVE,
-    supervisorPid: supervisorPidOf(page),
+    supervisorPid: supervisorPidOf(agentId),
   }
 }

@@ -1,10 +1,8 @@
 
 import { basename } from "node:path"
-import { pageStemOf } from "../../page/name/name"
 import { seatAbove } from "./subagent.ts"
-import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { FLEX } from "./compose-seat-name.ts"
 
 const SPAWNED = "spawned"
@@ -27,14 +25,11 @@ const FLEX_IN_NAME = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 // A subagent states no flex of its own and takes the one its seat carries, so the seat above is
 // asked for a name the same two ways.
 function nameOf(agent: string): string | null {
-  const own = seatPageForAgent(agent)
-  if (own !== null) return pageStemOf(own)
-  const ownInAkasha = akashaSeatSlugOf(agent)
-  if (ownInAkasha !== null) return ownInAkasha
+  const own = seatNameForAgent(agent)
+  if (own !== null) return own
   const seat = seatAbove(agent)
   if (seat === null) return null
-  const above = seatPageForAgent(seat)
-  return above === null ? akashaSeatSlugOf(seat) : pageStemOf(above)
+  return seatNameForAgent(seat)
 }
 
 export function flexInName(name: string): string | null {

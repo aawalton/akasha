@@ -1,7 +1,7 @@
 
 import { slugNamed } from "../../page/page-address.ts"
 import { pageTextOf, pageValuesOf } from "./seat-page-values.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 
 export const ATTRIBUTES = ["persona", "domain", "role"] as const
 
@@ -58,7 +58,7 @@ export function attributesOf(agent: string): Attributes {
 }
 
 export function ownAttributesOf(agent: string): Attributes {
-  return seatPageForAgent(agent) === null ? {} : onThePage(agent)
+  return seatNameForAgent(agent) === null ? {} : onThePage(agent)
 }
 
 export function modeOf(agent: string): Mode {

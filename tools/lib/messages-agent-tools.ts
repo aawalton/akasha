@@ -1,10 +1,9 @@
 import { basename } from "node:path"
-import { fileStemOf } from "../../page/name/name"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { transcriptOf } from "./seat-transcript-path.ts"
 import { claimMessage, releaseClaim, takeMessage } from "./message-file.ts"
 import { watchMessagesTo } from "./message-file-watch.ts"
 import { startDeliveryWitness } from "./messages-delivery-witness.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
 
 const PAGE_SUFFIX = ".md"
 
@@ -74,10 +73,10 @@ export async function deliverClaimedMessage(args: {
   args.witness?.(row.id)
 }
 
-export function seatNameForAgent(agentId: string): string | null {
-  const page = seatPageForAgent(agentId)
-  return page === null ? null : fileStemOf(page)
-}
+// A SEAT'S NAME IS ANSWERED IN ONE PLACE AND PASSED THROUGH HERE. This read the name off the old
+// page's path. Four callers reach it by this module rather than by the one that answers it, so it
+// is re-exported rather than moved, and they are left where they are.
+export { seatNameForAgent }
 
 export async function startChannelListener(
   server: ChannelServer,

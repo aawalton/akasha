@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import type { AgentNameBindInput, SeatPresence } from "./name-claim-guard.ts"
 import { planSeatResolution } from "./seat-handle.ts"
 import type { SeatNameAdmission } from "./seat-name-admission.ts"
-import { seatHolderProcess, seatPageForAgent } from "./seat-presence-read.ts"
+import { agentHolderProcess } from "./seat-presence-read.ts"
 import { parseSeatProcKey, seatProcKeyPresence } from "./seat-proc-key.ts"
 
 const ANCESTRY_DEPTH_LIMIT = 32
@@ -32,9 +32,7 @@ export function isAncestorOfSelf(pid: number): boolean {
 }
 
 export function isPriorHolderCallerSeat(priorHolderId: string): boolean {
-  const page = seatPageForAgent(priorHolderId)
-  if (page === null) return false
-  const stated = seatHolderProcess(page)
+  const stated = agentHolderProcess(priorHolderId)
   const key = stated === null ? null : parseSeatProcKey(stated)
   if (key === null || seatProcKeyPresence(key) !== "present") return false
   return isAncestorOfSelf(key.pid)

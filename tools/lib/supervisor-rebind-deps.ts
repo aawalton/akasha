@@ -1,19 +1,17 @@
 
 import { basename } from "node:path"
-import { pageStemOf } from "../../page/name/name"
 import { createAgent, type RowAgentLaunch } from "./supervisor-agent-create.ts"
 import { keepSeatSession, takeSeatPage } from "./supervisor-heartbeat-beat.ts"
 import { launchFrom } from "./seat-flex.ts"
 import { principalOf } from "./seat-principal.ts"
-import { akashaSeatIdForName, akashaSeatSlugOf } from "./seat-akasha-beside.ts"
+import { akashaSeatIdForName } from "./seat-akasha-beside.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
-import { seatIdForName, seatPageForAgent } from "./seat-presence-read.ts"
+import { seatIdForName, seatNameForAgent } from "./seat-presence-read.ts"
 
 // A seat's name is its page's stem while that page stands, and the slug its akasha page is named
 // for once it does not. Both spell the same name.
 function nameOf(agentId: string): string | null {
-  const page = seatPageForAgent(agentId)
-  return page === null ? akashaSeatSlugOf(agentId) : pageStemOf(page)
+  return seatNameForAgent(agentId)
 }
 
 const PAGE_SUFFIX = ".md"

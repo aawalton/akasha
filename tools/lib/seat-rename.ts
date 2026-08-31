@@ -1,10 +1,9 @@
 
 import { basename } from "node:path"
-import { pageStemOf } from "../../page/name/name"
 import { FLEET, type NameableSeat, composeSeatName } from "./compose-seat-name.ts"
 import { pageValuesOf } from "./seat-page-values.ts"
 import { restateSeatName } from "./seat-name-restate.ts"
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { renameSeatSession, sessionNote } from "./seat-session-rename.ts"
 
 const SLOT_JOINER = "|"
@@ -25,8 +24,7 @@ export const SEAT_ID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f
 const PAGE_SUFFIX = ".md"
 
 export function composedNameOf(agent: string): string | null {
-  const page = seatPageForAgent(agent)
-  return page === null ? null : pageStemOf(page)
+  return seatNameForAgent(agent)
 }
 
 const PAGE_SLOTS = ["persona-slug", "domain-slug", "role-slug"] as const

@@ -1,5 +1,5 @@
 
-import { seatPageForAgent } from "./seat-presence-read.ts"
+import { seatNameForAgent } from "./seat-presence-read.ts"
 import { type SeatTurnReading, seatTurnStateOf } from "./seat-turn-state.ts"
 import { seatAbove } from "./subagent.ts"
 import { subagentStands, subagentTurnOf } from "./subagent-turn.ts"
@@ -9,5 +9,5 @@ export function agentTurnStateOf(agent: string): SeatTurnReading {
 }
 
 export function agentStands(agent: string): boolean {
-  return seatAbove(agent) === null ? seatPageForAgent(agent) !== null : subagentStands(agent)
+  return seatAbove(agent) === null ? seatNameForAgent(agent) !== null : subagentStands(agent)
 }

@@ -10,6 +10,16 @@ import { seatNameForAgent, seatPageDestination } from "./seat-presence-read.ts"
 // The path is not opened. `keepBeside` reads the seat's name off it and addresses akasha by that
 // name, so what is needed is a name and a place to spell — and `seatPageDestination` composes one
 // for a seat whose old page has already gone. The seat is found in akasha either way.
+//
+// FINDING THE PLACE HAPPENS INSIDE THE CALLER'S TRY, WHERE THE WRITE ALREADY WAS. It sat outside,
+// which meant anything this threw ran past the write's own guard, out through `backfillObserved`
+// and `beat`, and printed a stack into the agent's terminal — this runs in the agent's process, so
+// an escaping throw is a crash on their screen rather than a line in a log.
+//
+// That is not hypothetical either. This file was inconsistent for the seconds between two edits to
+// it, and every seat in the fleet printed the same ReferenceError while it was. The worktree is
+// shared and live, with no build step: a half-finished edit is what eleven agents are running.
+// Keeping the whole body inside the guard is what makes a beat survive one.
 function whereToWrite(agent: string): string | null {
   const seatName = seatNameForAgent(agent)
   return seatName === null ? null : seatPageDestination(seatName)
@@ -60,9 +70,9 @@ export function keepSeatRecord(
   at: number = Date.now()
 ): void {
   if (agent === "" || value === "") return
-  const page = whereToWrite(agent)
-  if (page === null) return
   try {
+    const page = whereToWrite(agent)
+    if (page === null) return
     keepBeside(page, { [key]: { value, at } })
   } catch {
     return
@@ -77,9 +87,9 @@ export function backfillSeatRecord(agent: string, key: string, held: string | nu
 
 export function dropSeatRecord(agent: string, key: string): void {
   if (agent === "") return
-  const page = whereToWrite(agent)
-  if (page === null) return
   try {
+    const page = whereToWrite(agent)
+    if (page === null) return
     dropBeside(page, [key])
   } catch {
     return
