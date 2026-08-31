@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { exportedAs } from "./page-export-name.module.code.ts"
+import { exportedAs, typedAs } from "./page-export-name.module.code.ts"
 
 const CODE = `${import.meta.dir}/page-export-name.module.code.ts`
 
@@ -30,6 +30,19 @@ test("a trailing hyphen stands, because no character follows it to raise", () =>
 
 test("an empty slug is an empty name rather than a refusal", () => {
   expect(exportedAs("")).toBe("")
+})
+
+test("the type a page type declares is that name with its first character raised", () => {
+  expect(typedAs("page-type")).toBe("PageType")
+  expect(typedAs("check")).toBe("Check")
+})
+
+test("a type name is raised once, so the hyphens inside it are answered the same way", () => {
+  expect(typedAs("named-file-property")).toBe("NamedFileProperty")
+})
+
+test("an empty slug names no type rather than refusing", () => {
+  expect(typedAs("")).toBe("")
 })
 
 test("this module imports nothing, so everything that names a page's export can reach it", () => {

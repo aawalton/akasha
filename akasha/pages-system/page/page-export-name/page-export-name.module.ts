@@ -4,7 +4,7 @@ export const pageExportName = {
   id: "01a04e46-47d8-700f-b8cf-ef51ad3fe582",
   pageTypeSlug: "module",
   slug: "page-export-name",
-  definition: "the name a page's exported object answers to",
+  definition: "the names a page's slug makes, for the value it is bound to and for the type it is",
   code: "ts",
   test: "ts",
   invariants: [
@@ -16,6 +16,10 @@ export const pageExportName = {
     {
       invariantKind: "departure",
       statement: "The name a page is written under and the name it is read back by are one answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The type a page type declares is that name with its first character raised.",
     },
     {
       invariantKind: "absence",
