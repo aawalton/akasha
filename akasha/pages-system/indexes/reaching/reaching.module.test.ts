@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   B,
   C,
@@ -52,12 +54,32 @@ test("a name carrying a page type the target does not admit is refused, never re
   expect("refused" in reached && reached.refused).toMatch(/admits only `domain`/)
 })
 
-test("a key reaches only a property the page's own type carries", () => {
+test("a key one property carries reaches it, and a key no property carries reaches none", () => {
   const { root, repo } = grounded()
+  const known = knownIn(root, repo)
+  const value = { pageTypeSlug: "domain" }
+
+  expect(known.slugOfKeyIn(value, "partSlugs")).toBe("part-slugs")
+  expect(known.slugOfKeyIn(value, "domainSlug")).toBe("domain-slug")
+  expect(known.slugOfKeyIn(value, "design")).toBe(null)
+})
+
+test("a key two properties carry reaches neither where the page's type declares neither", () => {
+  const { root, repo } = grounded()
+  mkdirSync(join(root, "schema/page-property/relation-property/slug"), { recursive: true })
+  writeFileSync(
+    join(root, "schema/page-property/relation-property/slug/other-slugs.jsonl"),
+    `${JSON.stringify({
+      pageTypeSlug: "relation-property",
+      targetPageTypeSlug: "domain",
+      unique: null,
+      slug: "other-slugs",
+      propertySlug: "part-slugs",
+    })}\n`
+  )
   const known = knownIn(root, repo)
 
   expect(known.slugOfKeyIn({ pageTypeSlug: "domain" }, "partSlugs")).toBe(null)
-  expect(known.slugOfKeyIn({ partSlugs: [] }, "partSlugs")).toBe(null)
 })
 
 test("a field reaches only a property the record it stands in declares", () => {
