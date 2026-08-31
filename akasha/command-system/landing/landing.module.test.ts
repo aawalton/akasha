@@ -2,8 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
-import { dataIn } from "../../file-system/data-place/data-place.module.code.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  everythingFiled,
+  fileWhereTheIndexStands,
+  idFiledIn,
+  standingFiledIn,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { rebuiltFrom } from "../../pages-system/indexes/indexing/indexing.module.code.ts"
 import { butTheStamp } from "../../pages-system/indexes/indexing/indexing.module.test-fixtures.ts"
 import { everyFileUnder } from "../../testing-system/walking/walking.module.code.ts"
@@ -106,41 +110,40 @@ test("a landing files the index entries its page implies, with no rebuild run by
   landing(root, CARRIED, "held", ADMITS)
   const said = landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   expect("refusals" in said).toBe(false)
-  const held = indexIn(root)
+  const filed = everythingFiled(root)
   const named = [
     `identity/page/id/${ID}.jsonl`,
     "identity/domain/slug/a.jsonl",
     "path/akasha/a.domain.ts.jsonl",
   ]
-  for (const at of named) expect(readFileSync(join(held, at), "utf8").trim()).toBe(LINE)
+  for (const at of named) expect(filed).toContain(`/${at} ${LINE}\n`)
 })
 
 test("a landing that takes a page away takes its index entries with it", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
-  const held = indexIn(root)
-  expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(true)
+  expect(idFiledIn(root, ID)).toBe(true)
   landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
-  expect(existsSync(join(held, `identity/page/id/${ID}.jsonl`))).toBe(false)
-  expect(existsSync(join(held, "identity/domain"))).toBe(false)
+  expect(idFiledIn(root, ID)).toBe(false)
+  expect(standingFiledIn(root, "domain", "a")).toBe(false)
 })
 
 test("a landing no check judged keeps the index all the same", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
-  expect(existsSync(join(indexIn(root), `identity/page/id/${ID}.jsonl`))).toBe(true)
+  expect(idFiledIn(root, ID)).toBe(true)
 })
 
 test("a refused change leaves the index as it found it, as it leaves the worktree", () => {
   const root = repoWith({ "seed.txt": "held" })
   landing(root, CARRIED, "held", ADMITS)
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
-  const was = everyFileUnder(indexIn(root))
+  const was = everythingFiled(root)
   const said = landing(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }], "held", REFUSES)
   expect("refusals" in said).toBe(true)
-  expect(everyFileUnder(indexIn(root))).toEqual(was)
+  expect(everythingFiled(root)).toEqual(was)
 })
 
 test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", () => {
@@ -150,9 +153,9 @@ test("the index two landings leave is the index a rebuild from those pages build
   landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
   const rebuilt = scratch.rootFor("akasha-rebuilt-")
   rebuiltFrom(join(root, "akasha"), rebuilt, root)
-  expect(identityAmong(everyFileUnder(indexIn(root))).length).toBeGreaterThan(0)
+  expect(identityAmong(everythingFiled(root)).length).toBeGreaterThan(0)
   expect(identityAmong(everyFileUnder(rebuilt)).length).toBeGreaterThan(0)
-  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(indexIn(root))))
+  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everythingFiled(root)))
 })
 
 test("a refused change leaves nothing behind", () => {
@@ -290,8 +293,7 @@ test("a change read against the commit that stands is landed", () => {
 
 test("what was written is put back when the landing throws after writing", () => {
   const root = repoWith({ "akasha/a.domain.ts": A, "akasha/domain.page-type.ts": TYPE })
-  mkdirSync(dataIn(root), { recursive: true })
-  writeFileSync(indexIn(root), "no directory stands here")
+  fileWhereTheIndexStands(root, "no directory stands here")
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   expect(() =>
     landing(

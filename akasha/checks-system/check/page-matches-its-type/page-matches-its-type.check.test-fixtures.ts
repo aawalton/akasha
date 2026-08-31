@@ -1,7 +1,9 @@
-import { join } from "node:path"
 import type { Value } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { rebuiltFrom } from "../../../pages-system/indexes/indexing/indexing.module.code.ts"
+import {
+  rebuiltIn,
+  schemaFiled,
+  standingFiled,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
@@ -184,7 +186,7 @@ export function seeded(root: string): Shadow {
     put(root, at, `export const ${exportedAs(slug)} = ${JSON.stringify(one)}\n`)
   }
   put(root, `${AKASHA}/${FORMAT}.name-format.code.ts`, JUDGING)
-  rebuiltFrom(join(root, AKASHA), indexIn(root), root)
+  rebuiltIn(root, AKASHA)
   return shadowAt(root)
 }
 
@@ -200,15 +202,18 @@ export const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "on
 
 const KIND_AT = "akasha/waiting.generator-kind.ts"
 
-const UNIQUE_SLUG =
-  '{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type",' +
-  '"slug":"slug","propertySlug":"slug"}\n'
+const UNIQUE_SLUG = {
+  pageTypeSlug: "text-property",
+  targetPageTypeSlug: null,
+  unique: "page-type",
+  slug: "slug",
+  propertySlug: "slug",
+}
 
-function schemaLine(pageTypeSlug: string, slug: string): string {
-  return (
-    `{"pageTypeSlug":"${pageTypeSlug}","targetPageTypeSlug":null,"unique":null,` +
-    `"slug":"${slug}","propertySlug":"${slug}"}\n`
-  )
+function schemaFiledFor(root: string, pageTypeSlug: string, slug: string): undefined {
+  schemaFiled(root, pageTypeSlug, slug, [
+    { pageTypeSlug, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
+  ])
 }
 
 export function typing(id: string, slug: string, above: string, declares: string): string {
@@ -217,10 +222,6 @@ export function typing(id: string, slug: string, above: string, declares: string
     ` extendsSlug: ${above}, properties: [${declares}] }\n`
   )
 }
-
-const PAGE_TYPE_SLUG = "schema/page-property/relation-property/slug/page-type-slug.jsonl"
-
-const SLUG_FILED = "schema/page-property/text-property/slug/slug.jsonl"
 
 export function generating(root: string, generator: string): string {
   put(
@@ -253,34 +254,17 @@ export function generating(root: string, generator: string): string {
         ' { pagePropertySlug: "slug", required: true, many: false }'
     )
   )
-  const index = indexIn(root)
-  put(index, SLUG_FILED, UNIQUE_SLUG)
-  put(
-    index,
-    "schema/page-property/text-property/slug/held.jsonl",
-    schemaLine("text-property", "held")
-  )
-  put(index, PAGE_TYPE_SLUG, schemaLine("relation-property", "page-type-slug"))
-  put(
-    index,
-    "identity/text-property/slug/held.jsonl",
-    `{"path":"akasha/held.text-property.ts","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/page-type/slug/thing.jsonl",
-    `{"path":"akasha/thing.page-type.ts","id":"${THING_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/generator-kind/slug/waiting.jsonl",
-    `{"path":"${KIND_AT}","id":"${GENERATED_ID}"}\n`
-  )
-  put(
-    index,
-    "identity/generator-kind/slug/uuid-v7.jsonl",
-    `{"path":"akasha/uuid-v7.generator-kind.ts","id":"${GENERATED_ID}"}\n`
-  )
+  schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
+  schemaFiledFor(root, "text-property", "held")
+  schemaFiledFor(root, "relation-property", "page-type-slug")
+  standingFiled(root, "text-property", "held", [
+    { path: "akasha/held.text-property.ts", id: GENERATED_ID },
+  ])
+  standingFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: THING_ID }])
+  standingFiled(root, "generator-kind", "waiting", [{ path: KIND_AT, id: GENERATED_ID }])
+  standingFiled(root, "generator-kind", "uuid-v7", [
+    { path: "akasha/uuid-v7.generator-kind.ts", id: GENERATED_ID },
+  ])
   return root
 }
 
@@ -303,14 +287,9 @@ export const NOW_ALPHA = typing(THING_ID, "alpha", '"page-type/beta"', BOTH)
 
 export function extending(root: string): string {
   put(root, ALPHA_AT, WAS_ALPHA)
-  const index = indexIn(root)
-  put(index, SLUG_FILED, UNIQUE_SLUG)
-  put(index, PAGE_TYPE_SLUG, schemaLine("relation-property", "page-type-slug"))
-  put(
-    index,
-    "schema/page-property/text-property/slug/note.jsonl",
-    schemaLine("text-property", "note")
-  )
-  put(index, "identity/page-type/slug/alpha.jsonl", `{"path":"${ALPHA_AT}","id":"${THING_ID}"}\n`)
+  schemaFiled(root, "text-property", "slug", [UNIQUE_SLUG])
+  schemaFiledFor(root, "relation-property", "page-type-slug")
+  schemaFiledFor(root, "text-property", "note")
+  standingFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
   return root
 }

@@ -2,7 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Judging } from "../../checks-system/judging/judging.module.code.ts"
-import { indexIn } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  idFiledIn,
+  standingFiledIn,
+} from "../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { bytesOf as bytes } from "../../testing-system/bodying/bodying.module.code.ts"
 import { gitIn as git } from "../../testing-system/gitting/gitting.module.code.ts"
 import { until } from "../../testing-system/waiting/waiting.module.code.ts"
@@ -120,8 +123,8 @@ test("landings at once each land, and none takes another back", async () => {
   )
   expect(git(root, ["rev-list", "--count", `${was}..HEAD`]).trim()).toBe(String(AT_ONCE.length))
   for (const one of AT_ONCE) {
-    expect(existsSync(join(indexIn(root), `identity/page/id/${idOf(one)}.jsonl`))).toBe(true)
-    expect(existsSync(join(indexIn(root), `identity/domain/slug/${one}.jsonl`))).toBe(true)
+    expect(idFiledIn(root, idOf(one))).toBe(true)
+    expect(standingFiledIn(root, "domain", one)).toBe(true)
   }
 })
 

@@ -3,7 +3,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import ts from "typescript"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { indexIn } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { stampTakenFrom } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "../../../pages-system/shadow/shadow.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { foundOf, omittingIn, reachedBy, rootsOf, typecheck } from "./typecheck.check.code.ts"
@@ -19,8 +19,6 @@ import {
 } from "./typecheck.check.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-const STAMP_AT = "stamp.jsonl"
 
 const NAMING_NO_COMMIT = "names no commit"
 
@@ -279,7 +277,7 @@ test("an index naming no commit is refused, because an index that cannot answer 
   })
   const changed = { "akasha/one.ts": "export const one = 2\n" }
   expect(reachedBy(change(root, changed))).toEqual(["akasha/one.ts", "akasha/two.ts"])
-  rmSync(join(indexIn(root), STAMP_AT))
+  stampTakenFrom(root)
   expect(() => judged(change(root, changed))).toThrow(NAMING_NO_COMMIT)
 })
 
