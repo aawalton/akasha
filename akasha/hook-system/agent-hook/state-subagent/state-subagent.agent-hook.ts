@@ -41,5 +41,14 @@ export const stateSubagent = {
       invariantKind: "departure",
       statement: "The subagent begins and ends either way.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The landing left to finish here and the restore of a dirty akasha take one lock.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page half-landed by a process that died is swept by whoever takes that lock next.",
+    },
   ],
 } as const satisfies AgentHook
