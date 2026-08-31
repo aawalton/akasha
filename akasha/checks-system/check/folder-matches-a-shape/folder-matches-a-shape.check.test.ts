@@ -16,6 +16,8 @@ import {
   folderMatchesAShape,
   folderOf,
   foldersTouchedBy,
+  namesFiling,
+  pageNameOf,
   reachedFolders,
 } from "./folder-matches-a-shape.check.code.ts"
 
@@ -203,4 +205,60 @@ test("a file standing beside a page through a file property the change adds is n
     })
   )
   expect(said).toEqual([])
+})
+
+const MANIFEST = { pageTypeSlug: "named-file-property", unique: null, fileName: "package.json" }
+
+test("a file a page claims under the name its property states is no stray", () => {
+  const root = rooted()
+  declaring(root, "manifest", MANIFEST)
+  const said = judged(
+    arriving(root, {
+      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null, manifest: "json" }\n`,
+      "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
+    })
+  )
+  expect(said).toEqual([])
+})
+
+test("a file no page claims is a stray still, though its name is one a property states", () => {
+  const root = rooted()
+  declaring(root, "manifest", MANIFEST)
+  const said = judged(
+    arriving(root, {
+      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
+    })
+  )
+  expect(said.map((each) => each.path)).toEqual(["akasha/b"])
+  expect(said[0]?.reason).toContain("it holds a stray")
+})
+
+test("a name no property states is a stray though a page claims the path", () => {
+  const root = rooted()
+  declaring(root, "manifest", MANIFEST)
+  const path = "akasha/b/README"
+  const page = "akasha/b/one.page-type.ts"
+  pathFiled(root, path, [{ path: page, id: idFor(32) }])
+  const said = judged(
+    arriving(root, {
+      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: null }\n`,
+      [path]: "read me\n",
+    })
+  )
+  expect(said.map((each) => each.path)).toEqual(["akasha/b"])
+})
+
+test("the page a claimed file stands beside is the one the index names", () => {
+  expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
+    "indexes.workspace-package"
+  )
+  expect(
+    namesFiling(
+      new Map([
+        ["manifest", "package.json"],
+        ["code", null],
+      ])
+    )
+  ).toEqual(new Map([["package.json", "manifest"]]))
 })

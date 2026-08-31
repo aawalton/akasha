@@ -1,5 +1,5 @@
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { specifiersIn } from "../../../code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
 import {
@@ -11,12 +11,14 @@ import {
   everyOfType,
   everyPath,
   importersOf,
+  standingByPath,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { type Known, knownIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
 import {
   besideAt,
+  type Held,
   heldIn,
   namedIn,
 } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
@@ -30,6 +32,8 @@ const SHAPE = "folder-shape"
 const CODE = "code"
 
 const TS = "ts"
+
+const TS_ENDING = ".ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -156,10 +160,47 @@ function enteringOf(change: Change): (folder: string, path: string) => boolean {
   }
 }
 
+export function namesFiling(
+  fileProperties: ReadonlyMap<string, string | null>
+): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const [slug, fileName] of fileProperties) {
+    if (fileName !== null) found.set(fileName, slug)
+  }
+  return found
+}
+
+export function pageNameOf(path: string): string {
+  const name = basename(path)
+  return name.endsWith(TS_ENDING) ? name.slice(0, -TS_ENDING.length) : name
+}
+
+export function claimedIn(
+  held: Held,
+  given: string | Reading,
+  filing: ReadonlyMap<string, string>
+): Held {
+  if (held.kind !== "stray") return held
+  const propertySlug = filing.get(basename(held.path))
+  if (propertySlug === undefined) return held
+  const claiming = standingByPath(given, held.path)[0]
+  if (claiming === undefined) return held
+  return {
+    path: held.path,
+    kind: "property",
+    slug: null,
+    pageTypeSlug: null,
+    page: pageNameOf(claiming.path),
+    propertySlug,
+  }
+}
+
 export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Judged[] {
   const shapes = shapesIn(change.root, shadow)
   const pageTypes = pageTypesIn(shadow.reading)
-  const fileProperties = new Set<string>(filePropertiesAt(shadow.reading).keys())
+  const stated = filePropertiesAt(shadow.reading)
+  const fileProperties = new Set<string>(stated.keys())
+  const filing = namesFiling(stated)
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -178,7 +219,9 @@ export function folderMatchesAShape(change: Change, shadow: Shadow): readonly Ju
     const here = files.filter((one) => folderOf(one) === folder)
     if (here.length === 0) continue
     const deep = files.filter((one) => one.startsWith(`${folder}/`) && folderOf(one) !== folder)
-    const held = here.map((one) => heldIn(one, pageTypes, fileProperties))
+    const held = here.map((one) =>
+      claimedIn(heldIn(one, pageTypes, fileProperties), shadow.reading, filing)
+    )
     const standing: Standing = {
       folder,
       files: here,
