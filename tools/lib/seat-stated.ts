@@ -52,11 +52,19 @@ export function statedOf(agent: string): Stated {
   }
 }
 
+// WHAT A PAGE NEEDS IS WHAT AKASHA NEEDS, and akasha asks for three more than the old page did. This
+// tested the old page's three and answered that a seat would compose when it would not: the caller
+// took that as nothing to recover, went to write, and got `unstated` back with no way to act on it.
+// A seat short of a persona, a start mode or a registration is one to recover rather than one that
+// stands.
 export function pageWouldCompose(stated: Stated): boolean {
   return (
+    stated.attributes.persona !== undefined &&
     stated.attributes.domain !== undefined &&
     stated.attributes.role !== undefined &&
-    stated.principal !== null
+    stated.principal !== null &&
+    stated.recordedMode !== null &&
+    stated.registration !== null
   )
 }
 
@@ -78,6 +86,13 @@ export function mergeHeld(standing: Stated, held: StatedFromHistory | null): Sta
     onCall: standing.onCall || held.onCall,
     initiative:
       standing.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
+    // What stands wins, and history fills what is missing. A seat that still states its own mode is
+    // never told a older one, and a seat that states none takes what it last said rather than
+    // composing to nothing.
+    recordedMode: standing.recordedMode ?? (held.mode === null ? null : { value: held.mode }),
+    mode: standing.recordedMode === null && held.mode !== null ? held.mode : standing.mode,
+    registration:
+      standing.registration ?? (held.account === null ? null : { value: held.account }),
   }
 }
 

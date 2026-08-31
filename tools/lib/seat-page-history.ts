@@ -6,6 +6,7 @@ import { rootOfPlace, SEAT_PLACES } from "./agent-page-place.ts"
 import type { Roots } from "../../page/page.ts"
 import { initiativeStemOf } from "./seat-initiative.ts"
 import { frontmatterIn } from "./seat-presence-read.ts"
+import { akashaSeatInHistory, akashaSeatNamedInHistory } from "./seat-akasha-history.ts"
 import { fileStemOf, pageStemOf } from "../../page/name/name.ts"
 
 const PAGE_SUFFIX = ".md"
@@ -16,12 +17,18 @@ const SEAT_TYPE = "seat"
 
 const IN_ITS_OWN_FIELD: readonly Declaration[] = ["initiative", "on-call"]
 
+// THE START MODE AND THE ACCOUNT ARE CARRIED, because akasha will not compose a page without them.
+// This answered a seat's attributes alone while the old page was what a seat had to satisfy, and a
+// seat recovered from it composed to nothing whatever else it recovered. The old page never stated
+// a start mode at all, so nothing here could have carried one until akasha's history was read.
 export interface StatedFromHistory {
   readonly commit: string
   readonly set: Partial<Record<Declaration, string>>
   readonly principal: string | null
   readonly onCall: boolean
   readonly initiative: string | null
+  readonly mode: string | null
+  readonly account: string | null
 }
 
 const OUTPUT_CEILING = 64 * 1024 * 1024
@@ -41,6 +48,15 @@ function textField(frontmatter: Record<string, unknown>, key: string): string | 
   if (typeof held === "string" && held !== "") return held
   if (typeof held === "number") return String(held)
   return null
+}
+
+// AN ATTRIBUTE IS A SLUG AND A PAGE CARRIES AN ADDRESS. Both stores write the assignment under the
+// page type that holds it, and what an attribute takes is the slug alone — so an address handed
+// back as one is addressed a second time, finds nothing standing under its whole spelling, and
+// falls back to naming a domain. That is how a seat assigned a workspace package recovers as though
+// it were assigned a domain of the same name.
+function bareSlug(said: string | null): string | null {
+  return said === null ? null : said.slice(said.lastIndexOf("/") + 1)
 }
 
 export interface PageInHistory {
@@ -75,7 +91,15 @@ export function seatHistoryRoot(roots: Roots): string | null {
   return null
 }
 
+// AKASHA'S HISTORY IS ASKED FIRST, because it is the one still being written. The old pages stopped
+// changing when the write moved, so what they hold is whatever a seat last said before that, and a
+// seat that has stated anything since would be answered with the older truth.
+//
+// They are still read behind it. Every seat that stood before the move has a body only there, and a
+// seat too old to have ever had a page in akasha is answered from the store that did hold it.
 export function pageFromHistory(seatName: string, roots: Roots): PageInHistory | null {
+  const inAkasha = akashaSeatNamedInHistory(seatName, rootFor(roots, AKASHA))
+  if (inAkasha !== null) return { commit: inAkasha.commit, frontmatter: inAkasha.values }
   for (const place of SEAT_PLACES) {
     const root = rootOfPlace(place, roots)
     if (root === null) continue
@@ -92,7 +116,7 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
   const set: Partial<Record<Declaration, string>> = {}
   for (const key of DECLARATIONS) {
     if (IN_ITS_OWN_FIELD.includes(key)) continue
-    const slug = textField(frontmatter, `${key}-slug`)
+    const slug = bareSlug(textField(frontmatter, `${key}-slug`))
     if (slug !== null) set[key] = slug
   }
   const bare = textField(frontmatter, "initiative-slug")
@@ -102,6 +126,8 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
     principal: textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
     onCall: frontmatter["on-call"] === true,
     initiative: bare === null ? null : (initiativeStemOf(bare, rootFor(roots, AKASHA)) ?? bare),
+    mode: textField(frontmatter, START_MODE_KEY),
+    account: textField(frontmatter, REGISTRATION_KEY),
   }
 }
 
@@ -191,6 +217,9 @@ function seatPageInHistory(agentId: string, roots: Roots): string | null {
 }
 
 export function nameFromHistory(agentId: string, roots: Roots): string | null {
+  const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
+  const said = inAkasha === null ? null : inAkasha.values["slug"]
+  if (typeof said === "string" && said !== "") return said
   const relPath = seatPageInHistory(agentId, roots)
   return relPath === null ? null : pageStemOf(relPath)
 }
@@ -199,6 +228,8 @@ export function frontmatterFromHistory(
   agentId: string,
   roots: Roots
 ): Record<string, unknown> | null {
+  const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
+  if (inAkasha !== null) return inAkasha.values
   const root = seatHistoryRoot(roots)
   const relPath = seatPageInHistory(agentId, roots)
   if (root === null || relPath === null) return null
@@ -211,7 +242,7 @@ export function frontmatterFromHistory(
 
 const FIELD_LOOKBACK = 50
 
-function fieldFromHistory(agentId: string, roots: Roots, key: string): string | null {
+export function fieldFromHistory(agentId: string, roots: Roots, key: string): string | null {
   const root = seatHistoryRoot(roots)
   const relPath = seatPageInHistory(agentId, roots)
   if (root === null || relPath === null) return null

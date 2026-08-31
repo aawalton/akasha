@@ -65,16 +65,13 @@ const TITLE = "title"
 
 const SLUG = "slug"
 
-// What a seat states in akasha, under the keys the old page carried. Null where akasha stands and
-// holds no such seat; refuses a root that names no seat index at all.
-export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | null {
-  const page = akashaSeatPathForAgent(agentId)
-  if (page === null) return null
-  const held: Value | null = valueAt(page, akashaRoot())
-  if (held === null) return null
+// ONE SEAT'S VALUES, CARRIED FROM AKASHA'S NAMES BACK TO THE OLD PAGE'S. This takes the value
+// rather than the seat, so a body read from anywhere is answered the same way — the page standing
+// now, or the one a commit still holds after a stop took the file away.
+export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
-    const said = (held as Record<string, unknown>)[from]
+    const said = held[from]
     if (said !== undefined && said !== null && said !== "") values[key] = said
   }
   // The old page carried a title and akasha carries none, because a seat's title was only ever its
@@ -82,6 +79,16 @@ export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | n
   const slug = values[SLUG]
   if (typeof slug === "string" && values[TITLE] === undefined) values[TITLE] = slug
   return values
+}
+
+// What a seat states in akasha, under the keys the old page carried. Null where akasha stands and
+// holds no such seat; refuses a root that names no seat index at all.
+export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | null {
+  const page = akashaSeatPathForAgent(agentId)
+  if (page === null) return null
+  const held: Value | null = valueAt(page, akashaRoot())
+  if (held === null) return null
+  return underOldKeys(held as Record<string, unknown>)
 }
 
 export interface SeatStated {
