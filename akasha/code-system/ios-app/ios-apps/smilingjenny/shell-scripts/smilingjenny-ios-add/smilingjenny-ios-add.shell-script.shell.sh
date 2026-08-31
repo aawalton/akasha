@@ -20,13 +20,22 @@ PACKAGE="$(cd "$HERE/../.." && pwd)"
 SHARED="$(cd "$PACKAGE/../../shell-scripts" && pwd)"
 cd "$PACKAGE"
 
-# cap is a devDependency binary. Reached through `bun run` it is already on PATH,
-# and reached by running this file directly it is not. Named out of the package
-# rather than inherited, so a tree that was never installed says so here instead
-# of as a command not found.
-CAP="$PACKAGE/node_modules/.bin/cap"
-if [[ ! -x "$CAP" ]]; then
-  echo "ERROR: no Capacitor CLI at $CAP — it is a devDependency of this package and the workspace installs it. Run 'bun install' at the repo root." >&2
+# cap is a devDependency binary, and bun hoists it to the workspace root rather
+# than leaving it beside the package that depends on it — so it is looked for the
+# way node resolves one, from this package upward. Reached through `bun run` it is
+# already on PATH and reached by running this file directly it is not, and a PATH
+# that happens to hold it is not something to build on.
+CAP=""
+CANDIDATE="$PACKAGE"
+while [[ "$CANDIDATE" != "/" ]]; do
+  if [[ -x "$CANDIDATE/node_modules/.bin/cap" ]]; then
+    CAP="$CANDIDATE/node_modules/.bin/cap"
+    break
+  fi
+  CANDIDATE="$(dirname "$CANDIDATE")"
+done
+if [[ -z "$CAP" ]]; then
+  echo "ERROR: no Capacitor CLI in any node_modules/.bin from $PACKAGE upward — it is a devDependency of this package and the workspace installs it. Run 'bun install' at the repo root." >&2
   exit 1
 fi
 
