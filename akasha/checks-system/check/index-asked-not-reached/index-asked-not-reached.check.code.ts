@@ -5,6 +5,8 @@ import { judgingEachFile, overEachText } from "../../change-walking/change-walki
 
 const INDEXES = "akasha/pages-system/indexes/"
 
+const SHADOW = "akasha/pages-system/shadow/"
+
 const REACHED: ReadonlySet<string> = new Set([
   "beneath",
   "identityAt",
@@ -34,7 +36,7 @@ function takenFrom(one: ts.ImportDeclaration, path: string): readonly string[] {
 }
 
 function found(path: string, text: string): readonly string[] {
-  if (path.startsWith(INDEXES)) return []
+  if (path.startsWith(INDEXES) || path.startsWith(SHADOW)) return []
   const said: string[] = []
   for (const one of skimmedAs(path, text).statements) {
     if (!ts.isImportDeclaration(one)) continue

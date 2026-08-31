@@ -5,7 +5,7 @@ export const indexAskedNotReached = {
   pageTypeSlug: "check",
   slug: "index-asked-not-reached",
   definition:
-    "the check refusing a file outside the indexes folder that takes a path or a raw read of the index",
+    "the check refusing a file outside the index folders that takes a path or a raw read of the index",
   code: "ts",
   test: "ts",
   runsOnPatch: false,
@@ -29,6 +29,14 @@ export const indexAskedNotReached = {
     {
       invariantKind: "departure",
       statement: "A file under the indexes folder is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file under the shadow folder is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shadow works out the index a change would leave.",
     },
     {
       invariantKind: "departure",
