@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { nothingFiled } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import {
   type Formatting,
   matchingIn,
@@ -74,7 +75,9 @@ function judged(change: Change): readonly Judged[] {
 }
 
 function judgedOver(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  return judged(changing(scratch.rootFor("akasha-matches-"), bodies))
+  const root = scratch.rootFor("akasha-matches-")
+  nothingFiled(root)
+  return judged(changing(root, bodies))
 }
 
 function landing(
