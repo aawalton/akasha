@@ -1,0 +1,279 @@
+---
+id: 50659e59-2b11-5695-bad0-83bb79876bfb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 170: THAT MEOW MEOWMAN!"
+slug: 0170-chapter-170-that-meow-meowman
+partOf: phoenix-ascension-cultivation-litrpg
+position: 170
+ownLength: 2682
+unit: words
+publishedAt: 2026-08-31
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3892313/chapter-170-that-meow-meowman"
+royalRoadId: "3892313"
+---
+
+I wasn’t sure how I should have tackled that fight against Peng Li. Was going the same route I’d gone with Hwei Badai best? Was complete and total annihilation better?
+
+Peng Li wasn’t doing anything for most of the fight; perhaps he’d known it would be useless. However, beating someone who wasn’t fighting wasn’t any fun either.
+
+We sat like that, just staring at each other for five minutes or so.
+
+After the stares were a little too hard to bear, I decided to finally start the fight. I drew closer with the techniques from the Divine Lightning Transformation technique and used a simple hand movement to test the waters.
+
+Thankfully, the fight wasn’t going to be one-sided, as when I was just about to hit him, Peng Li made a move.
+
+A useless move, but I’d allowed it. It wasn’t like he was going to do anything to me, and I had a feeling that the thing he’d used last time had some nasty limits.
+
+He didn’t look the best after using it either, so the backlash was most likely massive.
+
+But that also meant he had few techniques he could use on me, not that any were actually threatening. I hadn’t gotten the chance to use many of my skills yet.
+
+I felt like I was in a strange place where I would either be too strong for my opponents, or too weak. There was never a proper balance that I could just use to hone my skills, quite literally.
+
+It was a little bit sad, but I would get out of that zone soon enough, hopefully.
+
+Now that Peng Li decided to fight back, though, I could finally end this tournament.
+
+I was getting a little bit tired of it anyway, especially since it wasn’t all that exciting. I did make some nice profit off of it, though, so there was that.
+
+Unfortunately, Peng Li was not my opponent. While he was swinging with his swords or whatever else he was doing, I was thinking about how I could end the fight as quickly as possible without humiliating him too much. It wasn’t my place to teach him a lesson anyway.
+
+Finally, after a minute or five of dodging and taking some minor hits, I figured out what the best way to end the fight was, although it was kinda cliché.
+
+Yet another Lightning Dragon fell from the sky right on top of the young man.
+
+I kinda liked that technique; it was fun to use.
+
+I expected Peng Li to end up the same way as Hwei Badai, but the fact that he’d managed to resist that strike showed that he was stronger than him.
+
+Nodding approvingly, I sent out another Lightning Dragon.
+
+He’d somehow managed to dodge that one, and at that point I’d gotten a little annoyed.
+
+“Is that all you can use?” He yelled from across the arena. “What is wrong with you?”
+
+I was a little surprised to hear him talk… at all, but hey, he did.
+
+I didn’t answer, of course; what use was there in answering? But since he was so rude, I wasn’t going to play nice anymore.
+
+Using my superior speed, I appeared right in front of him and slapped him across the face before he could react.
+
+There was a… crunch, and blood stained my palm as he flew out of the arena right into the crowd.
+
+I may have overdone it.
+
+He hadn’t moved again even after a few moments, but he was alive, at least, so that was good.
+
+“Miss Xiaolan is the winner of this tournament!” The elder yelled hastily and hurried over to Peng Li, beginning treatment.
+
+I rolled my eyes and walked off the stage, the spectators making space for me. How nice of them.
+
+Meng Mao stared at me with a twitching eyebrow, but what else was I to do? That old woman wanted me to walk North!
+
+◈◈◈
+
+It was in the evening that the two of us sat down at a restaurant in the inner sect. Not the same one that I’d visited the old woman with, but a nice one nonetheless. We’d rented a private room, since I had the funds to anyway.
+
+“Well, this is it, then?” I asked Meng Mao while wolfing down some sort of Spirit Beast Meat. It was pretty good.
+
+“Far from it. You’ve caused me so many issues now!” His words sounded angry, and while it was true that I’d caused him issues, I was willing to be that many more opportunities were now open for him.
+
+“I can only hope the batch of children you had me train will live up to your expectations.”
+
+“I think they will. If they’re going to turn out half as ferocious as you-”
+
+I shot him a glare. “Is that any way to talk to a woman?”
+
+He snickered at that. “You’re a Phoenix chick whose entire lifespan is shorter than my toddlers.”
+
+I squinted at him. “So what?” Of course, he had no way to know that I’d already lived several lifetimes and that I’d probably been there longer than his entire ancestry line.
+
+“I’m just saying, you’re a girl, at most.”
+
+I slammed the table, causing it to shake. “Well, this girl just won the tournament with the big leagues, so what do you have to say about that?”
+
+“That you’re cheating? Frankly, I have no idea how you’ve managed to cultivate, but I don’t want to ask either. It’s probably a secret, but having both Qi and the power of a Spirit Beast would definitely be called cheating.”
+
+“What about people with bloodlines?”
+
+“Pfft.” Meng Mao made a strange amused sound. “Bloodlines don’t really do anything unless they’re really thick. If you mean that girl from the Eternal Flame Sect, it only has a small effect on her strength. Nothing like you, with a sturdy body. Actually, how does this disguise technique of yours work anyway?”
+
+“Beats me.” I shrugged. The skill description was pretty vague, but going by feeling alone, it was just a very strong illusion technique that sort of equated parts of my real body to the illusory body to properly transfer the damage.
+
+Actually, that was insane to think about, so I didn’t. System fuckery and whatnot.
+
+“You… are quite something, you know?”
+
+“Thank you.” I was still eating, though I’d picked up another piece of meat with some pretty strong herbs. “Aren’t you going to eat?”
+
+“No thanks… Just the thought of all the diplomacy I would be doing when you’ll be inside the realm takes away my appetite.”
+
+“Oh, how bad is it going to be?”
+
+“Most of the sects have an interest in you; the clans want your sons to marry you, or daughters, and none of those things are going to happen, as you know. Besides that, there will be some planning to be done now that my city has entered these people’s minds. One visitor of too high a strength who wasn’t properly welcomed, and my entire work would be blown up with the wave of a finger. I can’t have that, so I will need to restructure Golden Arch City…
+
+"Speaking of, are you going to return?”
+
+I nodded. “I think I will have to. Some of my people are waiting for me there… I’d completely forgotten. Actually, I should probably contact them soon.”
+
+“You are unbelievable.” Meng Mao shook his head.
+
+“I know, right.”
+
+◈◈◈
+
+Yo Na was sitting in her room with Shang Hue when her head rang. Quite literally.
+
+A notification she didn’t really understand appeared in front of her, and she could only mentally say yes.
+
+‘Finally, I thought I’d never get through to you!’ The voice of the Phoenix sounded in her head.
+
+Aaaa, you stupid bird, where are you? Where’s my son? Yo Na almost jumped up from her seat, but controlled herself. The last thing she wanted was to alert Shang Hue. That girl was weird.
+
+‘I am at the Reaper Sect, and so is your son, for that matter. I have joined a tournament to enter a secret realm, so I won’t be able to meet you at the Golden Arch City right away.’
+
+That information left Yo Na lost for words for a moment. Where even was that Reaper Sect? Why would she go to a place with Reaper in its name?
+
+What?! Are you kidding me? Do you have any idea how long we’ve been waiting here for you?
+
+‘I can imagine. Honestly, I’d forgotten you guys were going to come…’
+
+Yo Na wanted to travel through the communication and smack that damned bird in the face.
+
+How?!
+
+‘Lots of things happened, alright? Cut me some slack.’
+
+I bet you were the one that caused that Guo family or whatever to fall, right?
+
+‘Oh… You’ve heard about that, huh?’
+
+Everyone is talking about it; honestly, you… Do you cause trouble whenever you go?
+
+‘Sure seems like it. Anyway, if you want, you can meet me at the Reaper Sect, or you can wait for me there. I will tell Meng Mao about where you are, and he can give you stuff to do.’
+
+What? You think we are some sort of charity?
+
+‘Hey, better than not doing anything, right? Plus you’re going to get paid.’
+
+Yo Na almost slapped her face. What am I going to do with money?
+
+‘Buy food or something. I’ll be entering the secret realm soon, so I won’t be able to communicate any further.’
+
+Oh you’re so full of shi-
+
+The line cut before she could finish her sentence. That bird… hung up on her!
+
+If it weren’t for Shang Hue being there with her, she would have definitely blown up and destroyed a thing or three.
+
+However, she kept her cool, as much as one could keep their cool in that situation.
+
+“AH, THAT MEOW MEOWMAN!”
+
+“Who, woman?” Shang Hue lifted her head from whatever she was doing.
+
+“Meowlan.” Yo Na cringed as she said that. One good thing about travelling with humans, she’d gotten the knack of talking… somewhat. The bad part was that most of her words were a mix of meowning and talking.
+
+“She meown’t in the meowty.” Yo Na replied through gritted teeth.
+
+“What? Where is she then?” Shang Hue asked, somehow understanding the nonsense Yo Na was saying. It wasn’t easy, but at least she’d managed to understand her. The rest… were shit out of luck.
+
+“Meow mew… Er… Secret Realm?” Yo Na shuddered. Damned human language.
+
+Shang Hue’s eyes shone upon hearing that. “I didn’t know there were any in the area.”
+
+Yo Na shrugged. “Mew sit here and mew for hwer to meownish…”
+
+“Is that so?” Shang Hue smiled, though there was a hint of sadness in her expression.
+
+Without Fa Xiaolan, she would not get the opportunities she wanted.
+
+The reason she was travelling with the siblings and the other guy, as well as Yo Na, disguised as Li Hua, was because she believed that she would encounter something that could change her path.
+
+So far, though, she hadn’t had the opportunity. That gave her an idea, though.
+
+“Where is the secret realm?”
+
+“I meown’t mew. Meowlan is at… er… Mweaper Swect?
+
+“Reaper Sect?” Shang Hue frowned. “Who would name their sect ‘Reaper Sect’?”
+
+Yo Na shrugged. “Meown’t issue.”
+
+“Yeah, we should catch her before she leaves, right?”
+
+“Mweobe. Meow meown’t know where sect was. Mweo think they won’t… give us entry.”
+
+Shang Hue shrugged, “Doesn’t hurt to try.”
+
+Yo Na sighed and fell on the bed. “Mweo others.”
+
+They sat in their room for a little while longer, mostly just so Yo Na could calm down. That bird had really spiked her cortisol. Not to mention what would happen to her baby if she died inside that stupid realm.
+
+Just wait till I catch you-
+
+When Xing Ya Chen, Shu Xu Ning, and Shu Wao Tu heard about what Fa Xiaolan was doing, they let out a sigh.
+
+The siblings weren’t in a rush per se, but they preferred going out and heading toward the True Element Sect faster.
+
+“Is the Reaper Sect above the True Element Sect?” Shu Wao Tu asked after considering the matter, but Yo Na didn’t really have an answer.
+
+How was she to know these things?
+
+“No,” Shang Hue said. “The sects in this region are cultivation level above the True Element Sect. But why do you ask?”
+
+“Oh-” Shu Wao Tu realised that not everyone was aware of Meng Mao, or of Fa Xiaolan’s true identity.
+
+“We got an invite!” Shu Xu Ning said, jumping excitedly.
+
+“Oh? I see. You’re quite a ways away, you know? I think those sects are all the way in the East, while the Reaper Sect is in the North.”
+
+“Oh…” The little girl lowered her head, dejected.
+
+“We don’t have a time limit, but…” Shu Wao Tu looked toward the direction of the Reaper Sect. “It’s better to go there as early as possible; that way we won’t be too behind our peers.”
+
+“Yeah, but to be honest, it’s already late. Your foundation is… alright for your age, especially the little girl, but compared to the geniuses at the sect…”
+
+“I believe we will have an advantage over them, as long as we get there. We will catch up and surpass them in no time.”
+
+Shang Hue raised an eyebrow. “You’re either too arrogant or extremely confident, or maybe both.”
+
+“We’ve gone through a lot.” Shu Wao Tu said, closing the conversation and allowing the other one to continue.
+
+“So what do we do then?” Xing Ya Chen said, playing with his fingers. “Do we go to the Reaper Sect?”
+
+The two siblings looked at one another, then nodded to each other. “We will write Miss Xiaolan a letter and will head toward the True Element Sect shortly. I believe it is in our best interest to head there as soon as possible.”
+
+“I will miss Miss Fire Lady.” Shu Xu Ning pouted, but she didn’t refute her big brother’s points.
+
+The two of them have gone through a lot, and staying weak won't allow them to help Fa Xiaolan.
+
+They weren’t sure what she was doing, but they figured that if they were stronger, then when they could help her, they would.
+
+“I see. We will deliver the letter; I can guarantee that.” Shang Hue nodded.
+
+“Thank you, Miss Shang Hue. We will prepare for our departure then.” Shu Wao Tu said and walked away. They had many supplies they needed to buy and prepare a map… They also needed to buy a map.
+
+“Meow needs to go see Meowlan.” Yo Na said in her broken language that she hated speaking whenever other people but Shang Hue were around. They couldn’t understand her for the most part. At least she was getting better… somewhat.
+
+“I want to go see her too.” Shang Hue nodded, as did Xing Ya Chen.
+
+“So we’re all going then.”
+
+Xing Ya Chen tapped his bag of holding and pulled out a map. “It seems that the sect is quite far away.” He noted after looking at it for a minute.
+
+“A month away by foot, at least.”
+
+“I don’t think we have a month.” Shang Hue shook her head. “Probably not even a week.”
+
+“Well, there are two other ways… One is to take a carriage, and the other is to use a teleportation formation.”
+
+“Those sound expensive.”
+
+“They are.” Xing Ya Chen rolled up his map. “Although the carriage is far cheaper. However, I don’t think we’ll get to see her regardless. If she’d just said she’s entering the secret realm, then she’s leaving today or tomorrow, maybe in two days at the latest. That’s about it.”
+
+Shang Hue sighed. “I guess we have no choice but to wait for her here.”
+
+“We can still go, but I don’t think the Reaper Sect would fancy us just sitting there.”
+
+Yo Na wanted to punch something out of frustration. Why was it so difficult to get a hold of that bird?!
