@@ -1,6 +1,9 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { everyPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import {
+  everyPathAnswered,
+  readingIn,
+} from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import {
   exportedAs,
   typedAs,
@@ -24,6 +27,8 @@ import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
 import { importingOf, spellingOf } from "../move/move.command.code.ts"
 import { repointed } from "../move/move-repointing/move-repointing.module.code.ts"
 import { glassIn, MESSAGE, MESSAGE_FILE, messageIn } from "../write/write.command.code.ts"
+import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
+import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
 import type { Carry, Renaming } from "./type-renaming/type-renaming.module.code.ts"
 import {
   carriesFor,
@@ -43,6 +48,8 @@ import {
 const RENAME = "rename"
 
 const PAGE_TYPE = "page-type"
+
+const PROPERTY_SLUG = "property-slug"
 
 const TS = ".ts"
 
@@ -261,6 +268,71 @@ export function landed(
   )
 }
 
+function keySaying(one: Keying, respelling: Respelling, dry: boolean): readonly string[] {
+  const paths = [...respelling.changes.keys()].sort()
+  const pages = respelling.pages.length
+  const types = respelling.declarers.length
+  return [
+    `\`${one.named}\` ${dry ? "would be read" : "is read"} by \`${one.nowKey}\` ` +
+      `rather than \`${one.wasKey}\``,
+    `${one.path} states the key, and its slug \`${one.was}\` does not move`,
+    `${counted(types, "type")} ${types === 1 ? "declares" : "declare"} it`,
+    ...respelling.declarers.map((path) => `  ${path}`),
+    `${counted(pages, "page")} ${pages === 1 ? "states" : "state"} it`,
+    `${counted(paths.length, "file")} ${were(paths.length, dry)} respelled`,
+    ...(dry ? paths.map((path) => `  ${path}`) : []),
+  ]
+}
+
+export function keyLanded(
+  given: Given,
+  root: string,
+  one: Keying,
+  dryRun: boolean,
+  argv: readonly string[]
+): Answer {
+  const glass = glassIn(argv, VALUED)
+  if ("refusals" in glass) return answering([], glass.refusals, 1)
+  const message = messageIn(argv, VALUED)
+  if ("refusals" in message) return answering([], message.refusals, 1)
+  const stood = baseOf(root)
+  const made = respellingFor(root, readingIn(root), one, (path) => {
+    const bytes = bodyAt(root, stood, path)
+    return bytes === null ? null : textOf(bytes)
+  })
+  if ("refused" in made) return answering([], [made.refused], 1)
+  const changes: FileEdit[] = []
+  const readings: Reading[] = []
+  for (const path of [...made.respelling.changes.keys()].sort()) {
+    const said = made.respelling.changes.get(path)
+    if (said === undefined) continue
+    const bytes = bodyAt(root, stood, path)
+    if (bytes === null) return unread(path, `stands in no commit at \`${stood}\``)
+    readings.push({ was: path, now: path, from: blobIdOf(bytes) })
+    changes.push({ path, body: BYTES.encode(said), carried: true })
+  }
+  const asked: Asked = {
+    changes,
+    message:
+      message.message ?? `read \`${one.named}\` by \`${one.nowKey}\` rather than \`${one.wasKey}\``,
+    dryRun,
+    glass: glass.glass,
+    unmoved: [],
+    read: stood,
+    saying: () => keySaying(one, made.respelling, false),
+  }
+  const landing = landingAsked({ ...given, root }, asked)
+  if (!dryRun) {
+    if (landing.code === 0) carryReadings(root, readings)
+    return landing
+  }
+  return answering(
+    [...keySaying(one, made.respelling, true), ...landing.report],
+    landing.refusals,
+    landing.code
+  )
+}
+
 export function refactor(argv: readonly string[], given: Given): Answer {
   const [act, namespace, ...rest] = argv
   if (act === undefined) {
@@ -273,12 +345,13 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   if (act !== RENAME) {
     return answering([], [`\`${act}\` is no act this carries — it carries \`${RENAME}\``], 1)
   }
-  if (namespace !== PAGE_TYPE) {
+  if (namespace !== PAGE_TYPE && namespace !== PROPERTY_SLUG) {
     const said = namespace === undefined ? "none was named" : `\`${namespace}\` is not one of them`
     return answering(
       [],
       [
-        `${RENAME} names the namespace it is worked over, and ${said} — it carries \`${PAGE_TYPE}\``,
+        `${RENAME} names the namespace it is worked over, and ${said} — ` +
+          `it carries \`${PAGE_TYPE}\` and \`${PROPERTY_SLUG}\``,
       ],
       1
     )
@@ -287,6 +360,22 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   if ("refused" in read) return answering([], [read.refused], 1)
   const from = read.said.get(FROM)
   const to = read.said.get(TO)
+  const root = resolve(given.root)
+  if (namespace === PROPERTY_SLUG) {
+    if (from === undefined || to === undefined) {
+      return answering(
+        [],
+        [`a property key rename takes ${FROM} and ${TO}, and one of them was not said`],
+        1
+      )
+    }
+    if (read.said.has(PLURAL)) {
+      return answering([], [`${PLURAL} names a page type's plural, and a key carries none`], 1)
+    }
+    const keyed = keyingFor(readingIn(root), from, to)
+    if ("refused" in keyed) return answering([], [keyed.refused], 1)
+    return keyLanded(given, root, keyed.keying, read.dryRun, argv)
+  }
   const plural = read.said.get(PLURAL)
   if (from === undefined || to === undefined || plural === undefined) {
     return answering(
@@ -295,7 +384,6 @@ export function refactor(argv: readonly string[], given: Given): Answer {
       1
     )
   }
-  const root = resolve(given.root)
   const stood = baseOf(root)
   const asked = renamingFor(root, from, to, plural, (path) => {
     const bytes = bodyAt(root, stood, path)

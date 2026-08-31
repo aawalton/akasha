@@ -11,9 +11,10 @@ export const refactor = {
   partSlugs: ["module/key-respelling", "module/type-renaming", "module/type-respelling"],
   taking: [
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
-    { said: "--from <slug>", takes: "the slug a page type carries now" },
-    { said: "--to <slug>", takes: "the slug it becomes" },
-    { said: "--plural <slug>", takes: "the plural it becomes" },
+    { said: "rename property-slug", takes: "the act, and the namespace it is worked over" },
+    { said: "--from <name>", takes: "the page type's slug, or the address a property stands at" },
+    { said: "--to <slug>", takes: "the slug it becomes, or the key the property is read by" },
+    { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -25,6 +26,8 @@ export const refactor = {
     "`page-type` itself is refused, being the tail every page type's own file carries.",
     "--dry-run names every file it would carry; a landing says how many.",
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
+    "a property is named by the address it stands at, since a key on its own reaches no property.",
+    "a key rename carries no file, so it takes no plural and repoints no address.",
   ],
   invariants: [
     {
@@ -98,6 +101,14 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement: "An answer names every place still naming what was renamed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each namespace takes the flags its own rename needs and refuses the rest.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every place the checker resolves to a renamed key is respelled in one commit.",
     },
     {
       invariantKind: "absence",

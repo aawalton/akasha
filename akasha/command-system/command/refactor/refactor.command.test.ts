@@ -28,10 +28,27 @@ test("an act names the namespace it is worked over", () => {
   expect(said.refusals[0]).toContain("names the namespace it is worked over")
 })
 
-test("a namespace this does not carry is refused with the one it does", () => {
+test("a namespace this does not carry is refused with the ones it does", () => {
   const said = refactor(["rename", "seat"], GIVEN)
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("`seat` is not one of them")
+  expect(said.refusals[0]).toContain("`page-type`")
+  expect(said.refusals[0]).toContain("`property-slug`")
+})
+
+test("a key rename takes the property it is worked over and the key it becomes", () => {
+  const said = refactor(["rename", "property-slug", "--from", "text-property/slug"], GIVEN)
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--to")
+})
+
+test("a key rename takes no plural", () => {
+  const said = refactor(
+    ["rename", "property-slug", "--from", "text-property/slug", "--to", "named", "--plural", "n"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--plural")
 })
 
 test("a rename takes the slug, what it becomes, and the plural it becomes", () => {
