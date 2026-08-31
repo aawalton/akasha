@@ -22,6 +22,7 @@ export const indexes = {
     "module/reaching",
     "module/rebuilding",
     "module/index-shape",
+    "module/property-carrying",
   ],
   invariants: [
     {

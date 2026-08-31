@@ -9,6 +9,10 @@ export const akashaPropertyKeys = {
   intents: [
     {
       statement:
+        "A reader asks which pages carry a property rather than composing that answer at each call site.",
+    },
+    {
+      statement:
         "Whatever matches a page's key to its property reads the pairing from the property rather than working one out from the other.",
     },
     {
