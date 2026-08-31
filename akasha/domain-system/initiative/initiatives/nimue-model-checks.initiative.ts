@@ -15,8 +15,16 @@ export const nimueModelChecks = {
   invariants: [
     {
       invariantKind: "gap",
+      statement: "A page type's slug is renamed like any other slug.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No tool spells a page type slug it could ask the index for.",
+    },
+    {
+      invariantKind: "gap",
       statement:
-        "A page type the tooling reaches by slug is renamed without breaking the run that renames it.",
+        "An index directory that does not stand refuses rather than answering as one holding nothing.",
     },
     {
       invariantKind: "gap",
