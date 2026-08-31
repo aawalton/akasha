@@ -7,11 +7,13 @@ export const aineInitiativeWork = {
   domainSlug: "domain/domain-system",
   personaSlug: "aine",
   intents: [
-    { statement: "A seat states an initiative as its assignment." },
     {
       statement:
         "A seat assigned an initiative warrants that initiative and its domain and the initiatives above it.",
+      workingMemory:
+        "Alan approved the addition rather than the wording. `domain-itself` becomes `assignment-itself` and gains the initiative's domain. `domain-ancestors` keeps its name and resolves an initiative assignment to that initiative's domain before walking. `initiative-ancestors` is new and walks `parentSlug`. Both standing warrants read `assignmentSlug` through `slugStated` and then `standingAt(root, \"domain\", slug)`, which answers nothing for an initiative, so each needs the type read off the prefix.",
     },
+    { statement: "A seat states an initiative as its assignment." },
     { statement: "A seat is swept when the initiative it is assigned is done." },
     { statement: "An initiative's name states what its work is toward." },
   ],
