@@ -143,15 +143,6 @@ function writingOld(
   const absolute = `${root}/${relPath}`
   const standing = existsSync(absolute) ? readFileSync(absolute, "utf8") : null
   if (standing === body) return { kind: "unchanged" }
-  if (standing !== null) {
-    const recorded = runTool("read.ts", ["--file-path", absolute])
-    if (recorded.code !== 0) {
-      return {
-        kind: "refused",
-        detail: `reading ${relPath} was not recorded, so the write would be refused for clobbering unread work: ${recorded.output.trim()}`,
-      }
-    }
-  }
   const dir = mkdtempSync(join(SCRATCH, "seat-page-"))
   try {
     const bodyPath = join(dir, "body.md")

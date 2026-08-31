@@ -54,15 +54,6 @@ export function writeSubagentPage(agent: string, dispatchedAs: string): Outcome 
   const name = `${seatName}${SUBAGENT_MARK}${own}`
   const body = subagentPageBody(held ?? Bun.randomUUIDv7(), name, dispatchedAs, own)
   if (standing === body) return { kind: "unchanged" }
-  if (standing !== null) {
-    const recorded = runTool("read.ts", ["--file-path", absolute])
-    if (recorded.code !== 0) {
-      return {
-        kind: "refused",
-        detail: `reading ${relPath} was not recorded, so the write would be refused for clobbering unread work`,
-      }
-    }
-  }
   const dir = mkdtempSync(join(SCRATCH, "subagent-page-"))
   try {
     const bodyPath = join(dir, "body.md")
