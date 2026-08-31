@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theDoorFoldsAbsentAndUnreadableIntoOneNull = {
+  id: "01a058a0-10be-7549-883e-6d5a8963ee8d",
+  pageTypeSlug: "finding",
+  slug: "the-door-folds-absent-and-unreadable-into-one-null",
+  domainSlug: "domain/command-system",
+  claim:
+    "`bytesAt` answers one null for a path that is absent and for one standing that will not open. Of its five callers only `edit` is wrong for it, telling a reader a file is not there when it may be there and unreadable. `read` guards with `existsSync` before it asks, so its null already means unreadable and it says so. The fix is `edit` following `read`, three lines away, rather than a throw carried up through the door.",
+  evidence:
+    "`bytesAt` in `asking.module.code.ts` catches everything `readFileSync` throws and answers null, and it is the last site `no-swallowed-read` refuses in the whole tree. Its callers, measured rather than assumed: `read.command.code.ts:266` asks only after `existsSync` and `statSync().isFile()` have both passed, so its null can only mean a body that would not open, and it says `is there and would not open, so nothing of it is here`. That is the shape the other callers want. `edit.command.code.ts:203` asks with no guard and answers a null with `is not there — edit changes a file that is, and write makes one`, which is a false statement about a file standing that will not open, and the one place a reader is actively misled. `write.command.code.ts:310` answers `could not be read, so it has no body to write`, which is true of an absent body and an unreadable one alike, and lands as a mistaken call. `sameBytes` at `asking.module.code.ts:128` reads a null as changed and refuses, which is right whichever the null meant. `textAt` at `:110` folds the null on again into a decode that answers null too. An earlier reading of this held that splitting the null would collapse six well-classified refusals into the unclassified exit 70 that `cli.module.code.ts` is the only backstop for. That is true of a throw and not of the guard: `read` already shows that asking `existsSync` first costs no exit code and no report. What a throw would still cost is `read`'s accumulated report while its `recordRead` entries persist, against `reading.module.ts` stating that nothing stands in the record that did not reach the agent. This is the one thing standing between `no-refused-syntax` and its worktree, deploy and audit phases, every one of which is still false and gated on a count of zero.",
+} as const satisfies Finding
