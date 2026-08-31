@@ -7,11 +7,32 @@ import {
   worldOf,
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
+import { standingByPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
-import { everyFileIn, TEXTS, waking } from "../../change-walking/change-walking.module.code.ts"
+import {
+  everyFileIn,
+  type Selector,
+  TEXTS,
+  type Text,
+  waking,
+} from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const KEPT = 40
+
+function testStandsBeside(path: string, shadow: Shadow): boolean {
+  const beside = testBesideOf(path)
+  if (beside === null) return false
+  if (beside === path) return true
+  return standingByPathAnswered(shadow.reading, beside).length > 0
+}
+
+const TESTED: Selector<Text> = {
+  named: "texts a test stands beside",
+  wakesOn: testStandsBeside,
+  from: (change, shadow) =>
+    TEXTS.from(change, shadow).filter((one) => testStandsBeside(one.path, shadow)),
+}
 
 export function namedIn(change: Change): readonly string[] {
   const held = new Set<string>()
@@ -70,4 +91,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   }
 }
 
-export const testsPass = waking(TEXTS, refusalsIn)
+export const testsPass = waking(TESTED, refusalsIn)

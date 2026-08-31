@@ -44,6 +44,14 @@ export const testsPass = {
       statement: "A change carrying no file with a test beside it is judged by no run.",
     },
     {
+      invariantKind: "departure",
+      statement: "The check wakes on a file the index files a test beside.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change carrying only a test runs that test.",
+    },
+    {
       invariantKind: "absence",
       statement: "No test is named for a file whose test does not stand beside it.",
     },
