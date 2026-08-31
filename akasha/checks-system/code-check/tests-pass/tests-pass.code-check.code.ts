@@ -7,7 +7,7 @@ import {
   worldOf,
 } from "../../../code-system/code-tests/code-tests.module.code.ts"
 import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { standingByPathAnswered } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
+import { standingByPath } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
 import {
   everyFileIn,
@@ -24,7 +24,7 @@ function testStandsBeside(path: string, shadow: Shadow): boolean {
   const beside = testBesideOf(path)
   if (beside === null) return false
   if (beside === path) return true
-  return standingByPathAnswered(shadow.reading, beside).length > 0
+  return standingByPath(shadow.reading, beside).length > 0
 }
 
 const TESTED: Selector<Text> = {
