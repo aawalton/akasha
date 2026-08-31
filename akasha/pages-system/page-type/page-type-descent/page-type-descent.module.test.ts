@@ -23,6 +23,7 @@ function typed(root: string, slug: string, above: string | null): undefined {
 
 test("a page type stands under itself", () => {
   const root = scratch.rootFor("akasha-descent-")
+  typed(root, "domain", null)
   expect(kindsUnder(root, "domain").has("domain")).toBe(true)
 })
 

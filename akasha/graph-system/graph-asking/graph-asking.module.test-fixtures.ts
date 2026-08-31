@@ -179,6 +179,8 @@ function stoodUp(indexName: string): string {
   })
   edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
   indexed(root, indexName, true)
+  filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
+  filed(root, `path/${INDEX_AT}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
   return root
 }
 

@@ -362,11 +362,13 @@ test("a page standing at the id that is no seat is no seat", () => {
 
 test("an id standing at no page is no seat", () => {
   const root = rootWith()
+  seated(root, OTHER, SEAT_AT)
   expect(seatPathOf(root, AGENT)).toBe(null)
 })
 
 test("an agent sitting at no seat owes nothing of one", () => {
   const root = rootWith()
+  seated(root, OTHER, SEAT_AT)
   expect(unheldIn(root, AGENT)).toEqual([])
 })
 
