@@ -21,7 +21,7 @@ export const indexSchema = {
     {
       invariantKind: "departure",
       statement:
-        "A line carries the page type the property is and its target page type and the key a page reads it by.",
+        "A line carries the page type the property is and its target page type and the key a page reads it by and the name its file stands under.",
     },
     {
       invariantKind: "departure",
