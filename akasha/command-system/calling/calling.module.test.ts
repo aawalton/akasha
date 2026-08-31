@@ -137,7 +137,7 @@ test("a command page throwing what is no Error is still refused with what it sai
   const root = rootWith([{ slug: "held", body: THROWS_NO_ERROR }])
   const said = calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("could not be loaded — the door was shut")
+  expect(said.refusals[0]).toContain("could not be loaded — the value was never set")
 })
 
 const ROOTED_AT = "akasha/command-system/command/index/index.command.ts"

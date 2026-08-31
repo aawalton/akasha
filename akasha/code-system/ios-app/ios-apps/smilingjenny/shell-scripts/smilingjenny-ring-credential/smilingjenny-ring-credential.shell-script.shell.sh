@@ -58,7 +58,7 @@ else
     }
     // NOT FINDING THE PLACEHOLDER IS AN ERROR, unlike not having a credential. It
     // means the Swift constant moved or was renamed, so this run would produce a
-    // build that reads as refused while whoever cut it supplied a working credential
+    // build that reads as refused while whoever created it supplied a working credential
     // and has every reason to believe it went in. That is the silent-wrong-build
     // class, and the loud failure is the whole point of the check.
     if (replaced === 0) {
