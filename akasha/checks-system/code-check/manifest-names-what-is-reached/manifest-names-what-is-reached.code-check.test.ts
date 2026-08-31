@@ -19,18 +19,18 @@ const AT = `${FOLDER}/one/one.module.code.ts`
 
 const MANIFEST = `${FOLDER}/package.json`
 
+const TSCONFIG = "tsconfig.json"
+
+const CONFIG = "capacitor.config.json"
+
 const NOTHING: Reach = { packages: new Set(), protocols: new Set() }
 
 function reaching(...every: readonly string[]): Reach {
   return { packages: new Set(every), protocols: new Set() }
 }
 
-function nothingStands(): boolean {
-  return false
-}
-
-function everythingStands(): boolean {
-  return true
+function standingOf(...every: readonly string[]): (named: string) => boolean {
+  return (named) => every.includes(named)
 }
 
 function named(held: Record<string, unknown>): Named {
@@ -171,12 +171,12 @@ test("the `@types` name of a scoped package parts its scope from its slug by two
 
 test("a dependency reached is let through", () => {
   const held = named({ name: "@akasha/one", dependencies: { zod: "^4" } })
-  expect(unreachedIn(held, ALONE, reaching("zod"), nothingStands, null)).toEqual([])
+  expect(unreachedIn(held, ALONE, reaching("zod"), standingOf(), null)).toEqual([])
 })
 
 test("a dependency reached by nothing is refused, naming the dependency and its field", () => {
   const held = named({ name: "@akasha/one", dependencies: { zod: "^4" } })
-  const said = unreachedIn(held, ALONE, NOTHING, nothingStands, null)
+  const said = unreachedIn(held, ALONE, NOTHING, standingOf(), null)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`zod`")
   expect(said[0]).toContain("`dependencies`")
@@ -185,13 +185,13 @@ test("a dependency reached by nothing is refused, naming the dependency and its 
 
 test("a dependency stated as a peer alone is not judged for going unreached", () => {
   const held = named({ name: "@akasha/one", peerDependencies: { zod: "^4" } })
-  expect(unreachedIn(held, ALONE, NOTHING, nothingStands, null)).toEqual([])
+  expect(unreachedIn(held, ALONE, NOTHING, standingOf(), null)).toEqual([])
 })
 
 test("a dependency naming a package the akasha folder itself holds is let through", () => {
   const held = named({ name: "@akasha/one", dependencies: { "@akasha/two": "workspace:*" } })
   const byName = new Map([["@akasha/two", named({ name: "@akasha/two" })]])
-  expect(unreachedIn(held, byName, NOTHING, nothingStands, null)).toEqual([])
+  expect(unreachedIn(held, byName, NOTHING, standingOf(), null)).toEqual([])
 })
 
 test("a dependency a package states as a peer of its own is reached by whoever installs it", () => {
@@ -200,7 +200,7 @@ test("a dependency a package states as a peer of its own is reached by whoever i
     dependencies: { zod: "^4" },
     peerDependencies: { zod: "^4" },
   })
-  expect(creditedIn("zod", held, ALONE, NOTHING, nothingStands, null)).toBe(true)
+  expect(creditedIn("zod", held, ALONE, NOTHING, standingOf(), null)).toBe(true)
 })
 
 test("a dependency another package beside it states as a peer is reached by that package", () => {
@@ -208,7 +208,7 @@ test("a dependency another package beside it states as a peer is reached by that
   const byName = new Map([
     ["@akasha/two", named({ name: "@akasha/two", peerDependencies: { zod: "^4" } })],
   ])
-  expect(creditedIn("zod", held, byName, NOTHING, nothingStands, null)).toBe(true)
+  expect(creditedIn("zod", held, byName, NOTHING, standingOf(), null)).toBe(true)
 })
 
 test("a dependency a script names as a command is reached by that script", () => {
@@ -217,33 +217,33 @@ test("a dependency a script names as a command is reached by that script", () =>
     devDependencies: { biome: "1" },
     scripts: { fix: "biome check" },
   })
-  expect(unreachedIn(held, ALONE, NOTHING, nothingStands, null)).toEqual([])
+  expect(unreachedIn(held, ALONE, NOTHING, standingOf(), null)).toEqual([])
 })
 
 test("`typescript` is reached by a `tsconfig.json` standing in the package's folder", () => {
   const held = named({ name: "@akasha/one", devDependencies: { typescript: "5.9.3" } })
-  expect(creditedIn("typescript", held, ALONE, NOTHING, nothingStands, null)).toBe(false)
-  expect(creditedIn("typescript", held, ALONE, NOTHING, everythingStands, null)).toBe(true)
+  expect(creditedIn("typescript", held, ALONE, NOTHING, standingOf(), null)).toBe(false)
+  expect(creditedIn("typescript", held, ALONE, NOTHING, standingOf(TSCONFIG), null)).toBe(true)
 })
 
 test("`@types/bun` is reached by a `bun:` specifier", () => {
   const held = named({ name: "@akasha/one", devDependencies: { "@types/bun": "1" } })
   const reach: Reach = { packages: new Set(), protocols: new Set(["bun:test"]) }
-  expect(creditedIn("@types/bun", held, ALONE, NOTHING, nothingStands, null)).toBe(false)
-  expect(creditedIn("@types/bun", held, ALONE, reach, nothingStands, null)).toBe(true)
+  expect(creditedIn("@types/bun", held, ALONE, NOTHING, standingOf(), null)).toBe(false)
+  expect(creditedIn("@types/bun", held, ALONE, reach, standingOf(), null)).toBe(true)
 })
 
 test("`@types/node` is reached by a `node:` specifier", () => {
   const held = named({ name: "@akasha/one", devDependencies: { "@types/node": "1" } })
   const reach: Reach = { packages: new Set(), protocols: new Set(["node:fs"]) }
-  expect(creditedIn("@types/node", held, ALONE, reach, nothingStands, null)).toBe(true)
+  expect(creditedIn("@types/node", held, ALONE, reach, standingOf(), null)).toBe(true)
 })
 
 test("an `@types` package is reached by the package it stands for", () => {
   const held = named({ name: "@akasha/one", devDependencies: { "@types/one__two": "1" } })
-  expect(
-    creditedIn("@types/one__two", held, ALONE, reaching("@one/two"), nothingStands, null)
-  ).toBe(true)
+  expect(creditedIn("@types/one__two", held, ALONE, reaching("@one/two"), standingOf(), null)).toBe(
+    true
+  )
 })
 
 test("an `@types` package is reached by the package it stands for standing beside it", () => {
@@ -252,7 +252,7 @@ test("an `@types` package is reached by the package it stands for standing besid
     dependencies: { "node-fetch": "1" },
     devDependencies: { "@types/node-fetch": "1" },
   })
-  expect(creditedIn("@types/node-fetch", held, ALONE, NOTHING, nothingStands, null)).toBe(true)
+  expect(creditedIn("@types/node-fetch", held, ALONE, NOTHING, standingOf(), null)).toBe(true)
 })
 
 test("a `@capacitor` dependency is reached by the `capacitor-config` standing in the folder", () => {
@@ -261,14 +261,13 @@ test("a `@capacitor` dependency is reached by the `capacitor-config` standing in
     dependencies: { "@capacitor/core": "^8" },
     devDependencies: { "@capacitor/cli": "^8" },
   })
-  const config = "capacitor.config.json"
-  expect(unreachedIn(held, ALONE, NOTHING, everythingStands, config)).toEqual([])
-  expect(unreachedIn(held, ALONE, NOTHING, nothingStands, config)).toHaveLength(2)
+  expect(unreachedIn(held, ALONE, NOTHING, standingOf(CONFIG), CONFIG)).toEqual([])
+  expect(unreachedIn(held, ALONE, NOTHING, standingOf(), CONFIG)).toHaveLength(2)
 })
 
 test("an index naming no `capacitor-config` credits nothing by one", () => {
   const held = named({ name: "@one/native-shell", dependencies: { "@capacitor/core": "^8" } })
-  expect(unreachedIn(held, ALONE, NOTHING, everythingStands, null)).toHaveLength(1)
+  expect(unreachedIn(held, ALONE, NOTHING, standingOf(CONFIG), null)).toHaveLength(1)
 })
 
 test("a file is judged against the innermost package whose folder holds it", () => {
