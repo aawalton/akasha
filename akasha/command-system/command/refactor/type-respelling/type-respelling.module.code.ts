@@ -8,7 +8,7 @@ import {
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
 import { NOT_A_RELATION } from "../../../../pages-system/indexes/index/index-relation/index-relation.index.code.ts"
 import {
-  everyOfTypeAnswered,
+  everyOfType,
   namersOf,
   readingIn,
 } from "../../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
@@ -110,7 +110,7 @@ export function spellingOver(
     }
   }
   take(one.id, true)
-  for (const held of everyOfTypeAnswered(root, one.was)) take(held.id, false)
+  for (const held of everyOfType(root, one.was)) take(held.id, false)
   return found
 }
 
