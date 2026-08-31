@@ -6,6 +6,7 @@ import { personPrincipals } from "./compose-seat-name.ts"
 import { removeBeside } from "./seat-beside.ts"
 import { type Roots } from "../../page/page.ts"
 import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
+import { akashaSeatSlugOf } from "./seat-akasha-beside.ts"
 import { removeAkashaSeatPage, writeAkashaSeatPage } from "./seat-page-akasha.ts"
 import { domainAddressOf, initiativeSlugOf } from "./seat-page-slugs.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
@@ -175,10 +176,7 @@ function writingOld(
   }
 }
 
-export function removeSeatPage(agent: string, stopReason: string): Outcome {
-  const page = seatPageForAgent(agent)
-  if (page === null) return { kind: "unchanged" }
-  const seatName = pageStemOf(page)
+function removeOldSeatPage(page: string, seatName: string, stopReason: string): Outcome {
   const place = placeHolding(page, SEAT_PLACES)
   if (place === null) return { kind: "unchanged" }
   const taken = runTool(
@@ -199,6 +197,24 @@ export function removeSeatPage(agent: string, stopReason: string): Outcome {
     return { kind: "refused", detail }
   }
   removeBeside(page)
+  return { kind: "removed" }
+}
+
+// A STOP REACHES BOTH STORES, and reaches the second whether or not the first held anything. The
+// old page going first and akasha's standing is the state every reader calls unknown: nothing
+// beside it says what process holds it, so a seat nobody sits in refuses the next agent to ask for
+// the name. Stopping was the remedy named for that, and stopping is what could not reach it — this
+// returned as soon as the old page turned out to be gone, which is exactly when it had to run.
+//
+// A seat name comes from whichever store still stands, so a seat gone from the old one is still
+// found by the name its page in akasha is filed under. When the old pages go, that is the only way
+// left to find it.
+export function removeSeatPage(agent: string, stopReason: string): Outcome {
+  const page = seatPageForAgent(agent)
+  const seatName = page === null ? akashaSeatSlugOf(agent) : pageStemOf(page)
+  if (seatName === null) return { kind: "unchanged" }
+  const here = page === null ? ({ kind: "unchanged" } as Outcome) : removeOldSeatPage(page, seatName, stopReason)
+  if (here.kind === "refused") return here
   let gone: Outcome
   try {
     gone = removeAkashaSeatPage(seatName, resolveRoots(), stopReason)
@@ -206,9 +222,10 @@ export function removeSeatPage(agent: string, stopReason: string): Outcome {
     gone = { kind: "refused", detail: thrown instanceof Error ? thrown.message : String(thrown) }
   }
   if (gone.kind === "refused") {
-    process.stderr.write(
-      `${seatName}'s page is gone, and its page in akasha stands: ${gone.detail}\n`
-    )
+    process.stderr.write(`${seatName}'s page in akasha stands: ${gone.detail}\n`)
+    return here.kind === "removed" ? { kind: "removed" } : gone
   }
-  return { kind: "removed" }
+  return here.kind === "removed" || gone.kind === "removed"
+    ? { kind: "removed" }
+    : { kind: "unchanged" }
 }
