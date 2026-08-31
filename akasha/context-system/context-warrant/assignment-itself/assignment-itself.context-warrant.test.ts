@@ -9,6 +9,7 @@ import {
   initiativeStanding,
   pathsOf,
   seatStanding,
+  typedStanding,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -24,6 +25,13 @@ test("a seat warrants the assignment it states", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   const held = domainStanding(root, "akasha-system")
   const at = seatStanding(root, "one", `assignmentSlug: "domain/akasha-system"`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([held.path])
+})
+
+test("an assignment stated under another page type is looked up under that type", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  const held = typedStanding(root, "workspace-package", "checks-system")
+  const at = seatStanding(root, "one", `assignmentSlug: "workspace-package/checks-system"`)
   expect(pathsOf(assignmentItself(root, at))).toEqual([held.path])
 })
 

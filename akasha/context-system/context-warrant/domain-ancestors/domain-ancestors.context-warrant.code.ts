@@ -33,9 +33,8 @@ function domainOf(root: string, path: string): Standing | undefined {
 function answeredFor(root: string, path: string): Standing | undefined {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return undefined
-  if (typeStated(root, path, KEY) !== INITIATIVE_TYPE) {
-    return standingAt(root, DOMAIN_TYPE, slug)[0]
-  }
+  const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
+  if (stated !== INITIATIVE_TYPE) return standingAt(root, stated, slug)[0]
   const held = standingAt(root, INITIATIVE_TYPE, slug)[0]
   return held === undefined ? undefined : domainOf(root, held.path)
 }

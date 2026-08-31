@@ -10,6 +10,7 @@ import {
   namesPart,
   pathsOf,
   seatStanding,
+  typedStanding,
 } from "../../warrant-scratch/warrant-scratch.module.code.ts"
 import { unreadIn } from "../../warranting/warranting.module.code.ts"
 import { warrantsStanding } from "../../warranting/warranting.module.test-fixtures.ts"
@@ -27,6 +28,15 @@ test("a seat warrants the domain the one it states is a part of", () => {
   const mid = domainStanding(root, "context-system")
   namesPart(root, top, mid)
   const at = seatStanding(root, "one", `assignmentSlug: "domain/context-system"`)
+  expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+})
+
+test("a seat stating another page type walks from the page standing under it", () => {
+  const root = scratch.rootFor("akasha-domain-ancestors-")
+  const top = domainStanding(root, "akasha-system")
+  const mid = typedStanding(root, "workspace-package", "checks-system")
+  namesPart(root, top, mid)
+  const at = seatStanding(root, "one", `assignmentSlug: "workspace-package/checks-system"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
 })
 

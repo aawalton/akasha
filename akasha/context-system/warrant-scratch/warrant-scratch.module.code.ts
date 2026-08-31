@@ -43,8 +43,12 @@ function pageStanding(
   return held
 }
 
+export function typedStanding(root: string, typeSlug: string, slug: string, stated = ""): Standing {
+  return pageStanding(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
+}
+
 export function domainStanding(root: string, slug: string): Standing {
-  return pageStanding(root, `akasha/${slug}/${slug}.domain.ts`, "domain", slug)
+  return typedStanding(root, "domain", slug)
 }
 
 export function initiativeStanding(root: string, slug: string, stated = ""): Standing {

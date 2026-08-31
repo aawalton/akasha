@@ -31,5 +31,9 @@ export const assignmentItself = {
       invariantKind: "departure",
       statement: "A seat stating an initiative warrants the domain that initiative names.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An assignment is looked up under the page type it is stated under.",
+    },
   ],
 } as const satisfies ContextWarrant

@@ -39,5 +39,9 @@ export const domainAncestors = {
       invariantKind: "departure",
       statement: "A seat stating a domain nothing stands above warrants none.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The page a seat answers for is found under the page type its assignment states.",
+    },
   ],
 } as const satisfies ContextWarrant
