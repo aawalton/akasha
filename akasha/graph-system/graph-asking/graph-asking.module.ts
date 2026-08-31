@@ -19,6 +19,10 @@ export const graphAsking = {
       statement: "A question is answered by reading rather than by walking.",
     },
     {
+      invariantKind: "departure",
+      statement: "An import edge stands only where the index answers one.",
+    },
+    {
       invariantKind: "absence",
       statement: "The folder an index stands in is spelled by the indexes rather than here.",
     },

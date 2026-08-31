@@ -8,7 +8,6 @@ import {
 } from "../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import type { Reading } from "../../pages-system/indexes/index-shape/index-shape.module.code.ts"
 import { addressIn } from "../../pages-system/page/page-address/page-address.module.code.ts"
-import { besideAt } from "../../pages-system/page/page-file-name/page-file-name.module.code.ts"
 import {
   slugOf,
   textAt,
@@ -29,21 +28,9 @@ const INDEX_NAME = "name"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 
-const PAGE_TYPE = "page-type"
-
-const PAGE_TYPE_SLUG = "pageTypeSlug"
-
-const LOADED_BY_SLUG = "loadedBySlug"
-
-const CODE = "code"
-
-const TS = "ts"
-
 const APART = "\n"
 
 const BY_INDEX: Known = "index"
-
-const BY_DECLARATION: Known = "declaration"
 
 export type Edge = {
   readonly kind: string
@@ -128,26 +115,6 @@ function attributeFor(asking: Asking, asked: string): string {
   return only
 }
 
-function loadingInto(root: string, reading: Reading, path: string): string | null {
-  const standing = standingByPath(reading, path)[0]
-  if (standing === undefined) return null
-  const page = valueAt(standing.path, root)
-  if (page === null) return null
-  const pageTypeSlug = textAt(page, PAGE_TYPE_SLUG)
-  if (pageTypeSlug === null) return null
-  const type = standingAt(reading, PAGE_TYPE, pageTypeSlug)[0]
-  if (type === undefined) return null
-  const held = valueAt(type.path, root)
-  if (held === null) return null
-  const named = textAt(held, LOADED_BY_SLUG)
-  if (named === null) return null
-  const address = addressIn(named)
-  if (address.kind !== "qualified") return null
-  const loader = standingAt(reading, address.pageTypeSlug, address.slug)[0]
-  if (loader === undefined) return null
-  return besideAt(loader.path, CODE, TS)
-}
-
 function importsInto(
   root: string,
   reading: Reading,
@@ -156,18 +123,12 @@ function importsInto(
   asked: string
 ): readonly Edge[] {
   const attribute = attributeFor(asking, asked)
-  const found: Edge[] = importersOf(root, path, reading).map((from) => ({
+  return importersOf(root, path, reading).map((from) => ({
     kind: asking.kind,
     from,
     to: path,
     attrs: { [attribute]: BY_INDEX },
   }))
-  const loading = loadingInto(root, reading, path)
-  if (loading === null || loading === path) return found
-  return [
-    ...found,
-    { kind: asking.kind, from: loading, to: path, attrs: { [attribute]: BY_DECLARATION } },
-  ]
 }
 
 function relationsInto(

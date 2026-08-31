@@ -5,7 +5,6 @@ import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {
   APART_AT,
   AT_INDEX,
-  DECLARED,
   EDGE_AT,
   EDGE_ID,
   edgeStandsAt,
@@ -23,17 +22,10 @@ import {
   LEAF_AT,
   LOADED_AT,
   LOADED_CODE_AT,
-  LOADER_AT,
-  LOADER_CODE_AT,
-  LOADER_ID,
   loadingWorld,
   MODULE,
-  MODULE_TYPE_AT,
-  MODULE_TYPE_ID,
-  PAGE_TYPE,
   PART,
   PROPERTY,
-  paged,
   RELATION,
   reachingWorld,
   relationWorld,
@@ -43,9 +35,6 @@ import {
   scratch,
   TARGET_AT,
   THIRD_AT,
-  TYPE_AT,
-  TYPE_ID,
-  TYPE_STANDS_AT,
 } from "./graph-asking.module.test-fixtures.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
@@ -126,47 +115,27 @@ test("a page the index names is answered with every page naming it, and through 
   })
 })
 
-test("a page is answered with the code its page type says loads it, beside what imports it", () => {
+test("a page is answered with what imports it and never with the code that loads it", () => {
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
-
-  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
-    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_AT, attrs: { [KNOWN]: DECLARED } },
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
-  ])
-})
-
-test("a file beside a page is answered with the same loader, one declaration covering both", () => {
-  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
-
-  expect(edgesInto(root, LOADED_CODE_AT, [IMPORT_EDGE])).toEqual([
-    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_CODE_AT, attrs: { [KNOWN]: DECLARED } },
-  ])
-})
-
-test("a page type saying nothing loads it is answered with what imports it and nothing more", () => {
-  const root = loadingWorld(null)
 
   expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
     { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
   ])
 })
 
-test("a loader whose own code is asked for is not answered with an edge to itself", () => {
+test("a file beside a page is answered with nothing where nothing imports it", () => {
   const root = loadingWorld(`${MODULE}/${HELD_LOADER}`)
-  paged(root, MODULE_TYPE_AT, {
-    id: MODULE_TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
-    slug: MODULE,
-    definition: "the module page type a test invented",
-    loadedBySlug: `${MODULE}/${HELD_LOADER}`,
-  })
-  filed(root, `identity/${PAGE_TYPE}/slug/${MODULE}.jsonl`, {
-    path: MODULE_TYPE_AT,
-    id: MODULE_TYPE_ID,
-  })
-  filed(root, `path/${LOADER_CODE_AT}.jsonl`, { path: LOADER_AT, id: LOADER_ID })
 
-  expect(edgesInto(root, LOADER_CODE_AT, [IMPORT_EDGE])).toEqual([])
+  expect(edgesInto(root, LOADED_CODE_AT, [IMPORT_EDGE])).toEqual([])
+})
+
+test("a page type stating a loader is answered no differently from one stating none", () => {
+  const stated = loadingWorld(`${MODULE}/${HELD_LOADER}`)
+  const none = loadingWorld(null)
+
+  expect(edgesInto(stated, LOADED_AT, [IMPORT_EDGE])).toEqual(
+    edgesInto(none, LOADED_AT, [IMPORT_EDGE])
+  )
 })
 
 test("an import edge standing only in the reading given is answered, and none without it", () => {
@@ -200,19 +169,6 @@ test("a relation edge standing only in the reading given is answered, and none w
     { kind: RELATION, from: SOURCE_AT, to: TARGET_AT, attrs: { [PROPERTY]: PART } },
   ])
   expect(edgesInto(root, TARGET_AT, [RELATION])).toEqual([])
-})
-
-test("a page type standing only in the reading given answers the code it says loads a page", () => {
-  const root = loadingWorld(`${MODULE}/${HELD_LOADER}`, false)
-  const over = readingLaidOver(root, { [TYPE_STANDS_AT]: [{ path: TYPE_AT, id: TYPE_ID }] })
-
-  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE], over)).toEqual([
-    { kind: IMPORT_EDGE, from: LOADER_CODE_AT, to: LOADED_AT, attrs: { [KNOWN]: DECLARED } },
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
-  ])
-  expect(edgesInto(root, LOADED_AT, [IMPORT_EDGE])).toEqual([
-    { kind: IMPORT_EDGE, from: SOURCE_AT, to: LOADED_AT, attrs: { [KNOWN]: AT_INDEX } },
-  ])
 })
 
 test("an edge kind's own pages, standing only in the reading given, still answer it", () => {
