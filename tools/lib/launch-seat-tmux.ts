@@ -6,6 +6,7 @@ import {
   supervisorEntryArgv,
 } from "./tmux-launch-recipe.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
+import { removeSubagentPagesOf } from "./subagent-page.ts"
 import { resolve } from "node:path"
 import { akashaRoot } from "../../repo/roots/roots.ts"
 
@@ -142,11 +143,36 @@ export async function holdSeatPaneOpen(name: string): Promise<boolean> {
   return true
 }
 
+// A SEAT'S SUBAGENT PAGES GO WHEN ITS PROCESS DOES, RATHER THAN WHEN A SESSION STARTS. A subagent
+// runs inside the client, so nothing of the old process survives the new one, and a page left
+// standing is read as a subagent still working and refuses the seat's next stop until it is forced.
+// The client raises SessionStart for `startup`, `resume`, `clear`, `compact` and `fork` alike, and
+// for a subagent's own session as well as a seat's, so a hook there would have to work out from an
+// enum which of them meant the process was new, and would sweep working subagents where it read the
+// enum wrong. Here there is nothing to work out: every route into a running seat passes through
+// this call or the launch below, and both of them mean the process holding the old pages is gone.
+// A sweep that fails is said and stepped over, because a seat that will not start is the worse loss.
+function sweepSubagentPagesOf(agentId: string): undefined {
+  let why: string
+  try {
+    const swept = removeSubagentPagesOf(agentId, "was started again")
+    if (swept.kind !== "refused") return
+    why = swept.detail
+  } catch (cause) {
+    why = cause instanceof Error ? cause.message : String(cause)
+  }
+  process.stderr.write(
+    `the subagent pages under '${agentId}' were not swept, so stopping it may ask for --force: ` +
+      `${why}\n`
+  )
+}
+
 export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolean> {
   const name = opts.name
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   if (pane === null) return false
+  sweepSubagentPagesOf(opts.agentId)
 
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
   const line = shellQuoted([...envScrubArgv(), `AGENT_ID=${opts.agentId}`, ...cmd])
@@ -195,6 +221,8 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
         `=${name}\` to see what is there, or kill it first.`
     )
   }
+
+  sweepSubagentPagesOf(opts.agentId)
 
   const scopeUnit = (await serverIsUp()) ? null : `tmux-seat-${name}-${Date.now()}`
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
