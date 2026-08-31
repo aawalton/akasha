@@ -149,6 +149,18 @@ function rooted(): string {
   )
   standing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
   pathFiled(root, "akasha/s/no-strays.folder-shape.code.ts", [{ path: shape, id: idFor(1) }])
+  const declares =
+    '[{ pagePropertySlug: "id", required: true, many: false },' +
+    ' { pagePropertySlug: "slug", required: true, many: false }]'
+  stands(
+    root,
+    "akasha/t/page.page-type.ts",
+    idFor(5),
+    "page-type",
+    "page",
+    `export const it = { id: "${idFor(5)}", slug: "page", pageTypeSlug: "page-type",` +
+      ` extendsSlug: null, properties: ${declares} }\n`
+  )
   for (const [n, slug] of [
     [2, "page-type"],
     [3, "folder-shape"],
@@ -160,7 +172,8 @@ function rooted(): string {
       idFor(n),
       "page-type",
       slug,
-      `export const it = { id: "${idFor(n)}", slug: "${slug}", pageTypeSlug: "page-type", extendsSlug: null }\n`
+      `export const it = { id: "${idFor(n)}", slug: "${slug}", pageTypeSlug: "page-type",` +
+        ' extendsSlug: "page-type/page" }\n'
     )
   }
   return root
