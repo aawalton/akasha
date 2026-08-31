@@ -7,16 +7,16 @@ const ROOT = "/repo"
 const given = bodiesIn(ROOT)
 
 test("a relative import carrying its extension is let through", () => {
-  const body = 'import { one } from "./corpus.module.code.ts"\n'
+  const body = 'import { one } from "./ledger.module.code.ts"\n'
   const said = reasonsIn(given("akasha/checks-system/checking/checking.module.code.ts", body))
   expect(said).toEqual([])
 })
 
 test("a relative import written bare is refused, and names the specifier", () => {
-  const body = 'import { one } from "./corpus.module.code"\n'
+  const body = 'import { one } from "./ledger.module.code"\n'
   const said = reasonsIn(given("akasha/held.ts", body))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`./corpus.module.code`")
+  expect(said[0]).toContain("`./ledger.module.code`")
   expect(said[0]).toContain("without the `.ts` extension")
 })
 
@@ -31,7 +31,7 @@ test("a package is not this check's business, however it is spelled", () => {
 })
 
 test("a specifier climbing to a parent folder is judged the same as one beside it", () => {
-  const body = 'import { one } from "../../write-system/corpus"\n'
+  const body = 'import { one } from "../../write-system/ledger"\n'
   expect(reasonsIn(given("akasha/a/b/held.ts", body))).toHaveLength(1)
 })
 

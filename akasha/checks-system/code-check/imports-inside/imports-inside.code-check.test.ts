@@ -87,7 +87,7 @@ test("where a relative specifier lands is read from the file holding it", () => 
   const deep = reasonsIn(
     given(
       "akasha/a/b/c/held.ts",
-      'import { one } from "../../../write-system/corpus.module.code.ts"\n'
+      'import { one } from "../../../write-system/ledger.module.code.ts"\n'
     )
   )
   expect(deep).toEqual([])

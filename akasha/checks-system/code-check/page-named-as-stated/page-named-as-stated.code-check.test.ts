@@ -40,47 +40,47 @@ function page(slug: string, pageTypeSlug: string, named: string = exportedAs(slu
 }
 
 test("a page whose file is named for the slug it states is let through", () => {
-  expect(reasons("akasha/corpus.module.ts", page("corpus", "module"))).toEqual([])
+  expect(reasons("akasha/ledger.module.ts", page("ledger", "module"))).toEqual([])
 })
 
 test("a page naming itself otherwise than its file is refused, and both names are said", () => {
-  const said = reasons("akasha/corpus.module.ts", page("corpse", "module"))
+  const said = reasons("akasha/ledger.module.ts", page("ledges", "module"))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("names itself `corpse`")
-  expect(said[0]).toContain("its file is named `corpus`")
+  expect(said[0]).toContain("names itself `ledges`")
+  expect(said[0]).toContain("its file is named `ledger`")
 })
 
 test("a page stating a page type its file does not carry is refused", () => {
-  const said = reasons("akasha/corpus.module.ts", page("corpus", "domain"))
+  const said = reasons("akasha/ledger.module.ts", page("ledger", "domain"))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("page type as `domain`")
 })
 
 test("a page wrong in both its slug and its page type is told both", () => {
-  const said = reasons("akasha/corpus.module.ts", page("corpse", "domain"))
+  const said = reasons("akasha/ledger.module.ts", page("ledges", "domain"))
   expect(said).toHaveLength(2)
 })
 
 test("the stem is bound to the slug, never to anything a reader would call a title", () => {
-  const body = page("corpus", "module").replace(
+  const body = page("ledger", "module").replace(
     'definition: "what is held",',
     'title: "Something Else",'
   )
-  expect(reasons("akasha/corpus.module.ts", body)).toEqual([])
+  expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
 })
 
 test("a property's file holds no page value, so it is not judged here", () => {
-  const body = "export function corpusIn(root: string) {\n  return root\n}\n"
-  expect(reasons("akasha/corpus.module.code.ts", body)).toEqual([])
+  const body = "export function ledgerIn(root: string) {\n  return root\n}\n"
+  expect(reasons("akasha/ledger.module.code.ts", body)).toEqual([])
 })
 
 test("a page is found through the satisfies and as const it is written with", () => {
-  const said = pageIn("akasha/corpus.module.ts", page("corpus", "module"))
-  expect(said).toEqual({ slug: "corpus", pageTypeSlug: "module", named: "corpus" })
+  const said = pageIn("akasha/ledger.module.ts", page("ledger", "module"))
+  expect(said).toEqual({ slug: "ledger", pageTypeSlug: "module", named: "ledger" })
 })
 
 test("a file whose name is not a page's shape is passed over", () => {
-  expect(reasons("akasha/notes.txt", page("corpse", "module"))).toEqual([])
+  expect(reasons("akasha/notes.txt", page("ledges", "module"))).toEqual([])
 })
 
 test("a body that is not text refuses rather than being passed over", () => {
@@ -91,23 +91,23 @@ test("a body that is not text refuses rather than being passed over", () => {
 })
 
 test("a file is judged by its own name rather than by the folders above it", () => {
-  const body = page("corpus", "module")
-  expect(reasons("akasha/write-system/corpus.module.ts", body)).toEqual([])
-  const said = reasons("akasha/corpus/held.module.ts", body)
+  const body = page("ledger", "module")
+  expect(reasons("akasha/write-system/ledger.module.ts", body)).toEqual([])
+  const said = reasons("akasha/ledger/held.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("its file is named `held`")
 })
 
 test("a stem carrying a dot is bound whole to the slug", () => {
-  const body = page("held.corpus", "module", "heldCorpus")
-  const said = reasons("akasha/held.corpus.module.ts", body)
+  const body = page("held.ledger", "module", "heldLedger")
+  const said = reasons("akasha/held.ledger.module.ts", body)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("bound as `heldCorpus`")
+  expect(said[0]).toContain("bound as `heldLedger`")
 })
 
 test("a page property's code file is no page, so a value it holds is passed over", () => {
-  const body = page("corpse", "domain")
-  expect(reasons("akasha/corpus.module.code.ts", body)).toEqual([])
+  const body = page("ledges", "domain")
+  expect(reasons("akasha/ledger.module.code.ts", body)).toEqual([])
 })
 
 test("a page property's test file is no page, so a fixture it holds is passed over", () => {
@@ -116,14 +116,14 @@ test("a page property's test file is no page, so a fixture it holds is passed ov
 })
 
 test("a property newly held in a file is passed over, the set being the index's and not a list here", () => {
-  const body = page("corpse", "domain")
+  const body = page("ledges", "domain")
   const held: ReadonlyMap<string, string | null> = new Map([
     ["code", null],
     ["test", null],
     ["note", null],
   ])
-  expect(reasons("akasha/corpus.module.note.ts", body, held)).toEqual([])
-  expect(reasons("akasha/corpus.module.note.ts", body)).toHaveLength(2)
+  expect(reasons("akasha/ledger.module.note.ts", body, held)).toEqual([])
+  expect(reasons("akasha/ledger.module.note.ts", body)).toHaveLength(2)
 })
 
 test("an index that cannot say which properties are held in a file refuses, rather than naming none", () => {
@@ -149,77 +149,77 @@ test("a fixture written plainly at the top of a test file is passed over", () =>
 })
 
 test("a real page file is still judged, so the reach is narrowed to page files alone", () => {
-  const said = reasons("akasha/corpus.module.ts", page("corpse", "module"))
+  const said = reasons("akasha/ledger.module.ts", page("ledges", "module"))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("names itself `corpse`")
+  expect(said[0]).toContain("names itself `ledges`")
 })
 
 test("a value stating a slug but no page type is no page here, so it is passed over", () => {
-  const body = 'export const held = {\n  slug: "corpse",\n} as const satisfies Page\n'
-  expect(reasons("akasha/corpus.module.ts", body)).toEqual([])
+  const body = 'export const held = {\n  slug: "ledges",\n} as const satisfies Page\n'
+  expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
 })
 
 test("a value the file keeps to itself is judged the same as an exported one", () => {
-  const body = page("corpse", "module").replace("export const", "const")
-  expect(reasons("akasha/corpus.module.ts", body)).toHaveLength(1)
+  const body = page("ledges", "module").replace("export const", "const")
+  expect(reasons("akasha/ledger.module.ts", body)).toHaveLength(1)
 })
 
 test("a file stating a second page is refused, and the extra page is named", () => {
-  const body = `${page("corpus", "module")}${page("corpse", "domain")}`
-  const said = reasons("akasha/corpus.module.ts", body)
+  const body = `${page("ledger", "module")}${page("ledges", "domain")}`
+  const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("states 2 pages")
-  expect(said[0]).toContain("`domain/corpse`")
+  expect(said[0]).toContain("`domain/ledges`")
   expect(said[0]).toContain("filed by nothing")
 })
 
 test("the first page a file states is still the one its name is judged against", () => {
-  const body = `${page("corpse", "module")}${page("held", "domain")}`
-  const said = reasons("akasha/corpus.module.ts", body)
+  const body = `${page("ledges", "module")}${page("held", "domain")}`
+  const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(2)
-  expect(said[0]).toContain("names itself `corpse`")
+  expect(said[0]).toContain("names itself `ledges`")
   expect(said[1]).toContain("states 2 pages")
 })
 
 test("every page a file states past the first is named in the one refusal", () => {
-  const body = [page("corpus", "module"), page("corpse", "domain"), page("held", "domain")].join("")
-  const said = reasons("akasha/corpus.module.ts", body)
+  const body = [page("ledger", "module"), page("ledges", "domain"), page("held", "domain")].join("")
+  const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("states 3 pages")
-  expect(said[0]).toContain("`domain/corpse`")
+  expect(said[0]).toContain("`domain/ledges`")
   expect(said[0]).toContain("`domain/held`")
 })
 
 test("a type declaring a page's keys states no page, so the one page beside it stands alone", () => {
   const shape = "export type Held = {\n  pageTypeSlug: PageTypeSlug\n  slug: Slug\n}\n"
-  expect(reasons("akasha/corpus.module.ts", `${shape}${page("corpus", "module")}`)).toEqual([])
+  expect(reasons("akasha/ledger.module.ts", `${shape}${page("ledger", "module")}`)).toEqual([])
 })
 
 test("a second page in a file a page property holds is passed over with the file", () => {
-  const body = `${page("corpus", "module")}${page("corpse", "domain")}`
-  expect(reasons("akasha/corpus.module.code.ts", body)).toEqual([])
+  const body = `${page("ledger", "module")}${page("ledges", "domain")}`
+  expect(reasons("akasha/ledger.module.code.ts", body)).toEqual([])
 })
 
 test("every page a file states is answered, and the first alone is answered by `pageIn`", () => {
-  const body = `${page("corpus", "module")}${page("corpse", "domain")}`
-  expect(pagesIn("akasha/corpus.module.ts", body)).toHaveLength(2)
-  expect(pageIn("akasha/corpus.module.ts", body)).toEqual({
-    slug: "corpus",
+  const body = `${page("ledger", "module")}${page("ledges", "domain")}`
+  expect(pagesIn("akasha/ledger.module.ts", body)).toHaveLength(2)
+  expect(pageIn("akasha/ledger.module.ts", body)).toEqual({
+    slug: "ledger",
     pageTypeSlug: "module",
-    named: "corpus",
+    named: "ledger",
   })
 })
 
 test("a file stating no page is answered as no pages rather than as one", () => {
-  expect(pagesIn("akasha/corpus.module.ts", "export const held = 1\n")).toEqual([])
-  expect(pageIn("akasha/corpus.module.ts", "export const held = 1\n")).toBeNull()
+  expect(pagesIn("akasha/ledger.module.ts", "export const held = 1\n")).toEqual([])
+  expect(pageIn("akasha/ledger.module.ts", "export const held = 1\n")).toBeNull()
 })
 
 test("a page written plainly, with no satisfies at all, is still judged", () => {
-  const body = 'export const corpse = {\n  pageTypeSlug: "module",\n  slug: "corpse",\n}\n'
-  const said = reasons("akasha/corpus.module.ts", body)
+  const body = 'export const ledges = {\n  pageTypeSlug: "module",\n  slug: "ledges",\n}\n'
+  const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("names itself `corpse`")
+  expect(said[0]).toContain("names itself `ledges`")
 })
 
 test("a page bound to the name its slug makes is let through", () => {
@@ -244,8 +244,8 @@ test("a slug whose export name is a reserved word is refused whatever the page i
 })
 
 test("a page bound by a pattern rather than a name is refused", () => {
-  const body = 'export const { slug } = {\n  pageTypeSlug: "module",\n  slug: "corpus",\n}\n'
-  const said = reasons("akasha/corpus.module.ts", body)
+  const body = 'export const { slug } = {\n  pageTypeSlug: "module",\n  slug: "ledger",\n}\n'
+  const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("bound to no name")
 })

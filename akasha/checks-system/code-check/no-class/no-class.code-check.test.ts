@@ -25,9 +25,9 @@ test("a class extending `Error` is let through", () => {
 })
 
 test("a class extending anything other than `Error` is refused, and the reason names what it extends", () => {
-  const said = reasonsIn(given("akasha/held.ts", "class Held extends Corpus {}\n"))
+  const said = reasonsIn(given("akasha/held.ts", "class Held extends Ledger {}\n"))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("which extends `Corpus`")
+  expect(said[0]).toContain("which extends `Ledger`")
   const dotted = classesIn("akasha/held.ts", "class One extends node.Error {}\n")
   expect(dotted[0]?.extending).toBe("node.Error")
   expect(reasonsIn(given("akasha/held.ts", "class One extends node.Error {}\n"))).toHaveLength(1)
