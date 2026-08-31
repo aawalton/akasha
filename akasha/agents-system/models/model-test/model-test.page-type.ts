@@ -16,7 +16,12 @@ export const modelTest = {
   slug: "model-test",
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
-  partSlugs: ["file-property/cases", "relation-property/model-family-slug", "text-property/prompt"],
+  partSlugs: [
+    "file-property/cases",
+    "model-test/restatement",
+    "relation-property/model-family-slug",
+    "text-property/prompt",
+  ],
   extendsSlug: "page-type/module",
   properties: [
     { pagePropertySlug: "model-family-slug", required: true, many: false },

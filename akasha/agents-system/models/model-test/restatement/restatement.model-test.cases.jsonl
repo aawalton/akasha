@@ -1,0 +1,14 @@
+{"page": "code-lint", "definition": "running the linter over what stands and reading back what it found, changing nothing", "statement": "A run only reads.", "answer": "YES"}
+{"page": "hook-payload", "definition": "a hook payload as the agent sends one, made so a test can hand it to a hook", "statement": "The payload is built to the shape the agent sends.", "answer": "YES"}
+{"page": "index-stamp", "definition": "the commit the index was built from", "statement": "The stamp names the commit the index was built from.", "answer": "YES"}
+{"page": "name-place", "definition": "a place a name appears, and the format it is written in there", "statement": "A place says where a name appears and which format holds there.", "answer": "YES"}
+{"page": "chain-refusal", "definition": "one refusal standing for the whole command line it was found in", "statement": "One refused call refuses the line.", "answer": "YES"}
+{"page": "indexes", "definition": "the indexes the pages are read through, each answering one question of them", "statement": "An index answers one question of the pages.", "answer": "YES"}
+{"page": "index-identity", "definition": "an index from an identifier to the page carrying it", "statement": "No two pages carry one id.", "answer": "YES"}
+{"page": "constraints", "definition": "a bound the work is done within", "statement": "A constraint bounds how the work is done rather than stating what is not yet so.", "answer": "YES"}
+{"page": "akasha-system", "definition": "code, data and text in a page with a type in a file", "statement": "Code and text are data.", "answer": "NO"}
+{"page": "five-hour-percent-used", "definition": "how much of the five-hour allowance is spent", "statement": "An account that has spent its seven-day window has spent its five-hour one.", "answer": "NO"}
+{"page": "instant-property", "definition": "a page property holding a single point in time", "statement": "An instant is written as ISO 8601 in UTC to the millisecond and closes with `Z`.", "answer": "NO"}
+{"page": "write", "definition": "whole file bodies carried in, gated together and landed or refused as one", "statement": "A body reaches this only as a file named at `--content-file` rather than on the command line.", "answer": "NO"}
+{"page": "code-check", "definition": "a module run over a change to judge whether it may land", "statement": "Patch turns on before the tree's violation count reaches zero.", "answer": "NO"}
+{"page": "move", "definition": "files carried to new paths, with what they name and what names them repointed in the same act", "statement": "The bodies a move carries and repoints are read from the commit it stood on rather than from the working tree.", "answer": "NO"}
