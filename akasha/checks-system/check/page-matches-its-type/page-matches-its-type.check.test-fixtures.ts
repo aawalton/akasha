@@ -5,6 +5,7 @@ import {
   standingFiled,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "../../../pages-system/page/page-export-name/page-export-name.module.code.ts"
+import type { Carried } from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
 import { type Shadow, shadowAt } from "../../../pages-system/shadow/shadow.module.code.ts"
 import { put } from "../../../testing-system/putting/putting.module.code.ts"
 
@@ -48,6 +49,7 @@ const TYPES: readonly Value[] = [
     properties: [
       { pagePropertySlug: "directives", required: false, many: true, max: null },
       { pagePropertySlug: "aids", required: false, many: true, max: null },
+      { pagePropertySlug: "tally", required: false, many: false },
     ],
   },
   {
@@ -98,6 +100,12 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000012",
     pageTypeSlug: "page-type",
     slug: "name-format",
+    extendsSlug: null,
+  },
+  {
+    id: "01a0540d-0000-7000-8000-000000000015",
+    pageTypeSlug: "page-type",
+    slug: "worded-property",
     extendsSlug: null,
   },
   {
@@ -153,6 +161,13 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "text-property",
     slug: "tag",
     propertySlug: "tag",
+    max: 4,
+  },
+  tally: {
+    id: "01a0540d-0000-7000-8000-000000000016",
+    pageTypeSlug: "worded-property",
+    slug: "tally",
+    propertySlug: "tally",
     max: 4,
   },
   "page-type-slug": {
@@ -292,4 +307,22 @@ export function extending(root: string): string {
   schemaFiledFor(root, "text-property", "note")
   standingFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
   return root
+}
+
+export function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {
+  return [
+    {
+      pagePropertySlug: "test",
+      pageTypeSlug: "text-property",
+      propertySlug: "test",
+      key: "test",
+      declaredBy: "beside",
+      required: true,
+      many: false,
+      max: null,
+      total: null,
+      uncommitted,
+      secret,
+    },
+  ]
 }

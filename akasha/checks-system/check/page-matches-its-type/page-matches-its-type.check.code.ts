@@ -27,10 +27,6 @@ const INSIDE = "akasha/"
 
 const PAGE_TYPE = "page-type"
 
-const TEXT = "text-property"
-
-const RECORD = "record-property"
-
 const FORMAT = "nameFormatSlug"
 
 const NOTHING: ReadonlySet<string> = new Set()
@@ -140,21 +136,17 @@ export function reasonsIn(
     }
     const page = pageFor(one)
     if (page === null) continue
-    const shape = textAt(page, "pageTypeSlug")
-    if (shape === TEXT) {
-      const max = numberAt(page, "max")
-      const format = textAt(page, FORMAT)
-      for (const each of listed ? held : [held]) {
-        const why = overMax(each, max, slug, "")
-        if (why !== null) said.push(why)
-        const off = offFormat(each, format, formatting, slug)
-        if (off !== null) said.push(off)
-      }
-      continue
+    const max = numberAt(page, "max")
+    const format = textAt(page, FORMAT)
+    for (const each of listed ? held : [held]) {
+      const why = overMax(each, max, slug, "")
+      if (why !== null) said.push(why)
+      const off = offFormat(each, format, formatting, slug)
+      if (off !== null) said.push(off)
     }
-    if (shape !== RECORD) continue
     const fields = new Map<string, Carried>()
     for (const each of carriedIn(page, shadow.reading, slug)) fields.set(each.key, each)
+    if (fields.size === 0) continue
     for (const entry of listed ? entriesAt(value, key) : [held]) {
       if (typeof entry !== "object" || entry === null) continue
       for (const [inner, value_] of Object.entries(entry as Value)) {

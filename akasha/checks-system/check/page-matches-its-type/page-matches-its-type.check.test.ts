@@ -21,6 +21,7 @@ import {
 import {
   ALPHA_AT,
   BETA_AT,
+  besideCarried,
   extending,
   FORMAT,
   generating,
@@ -189,6 +190,12 @@ test("a record field's property page is reached by the page type its declaration
   expect(over(held, "told")).toEqual(["`directives tag` runs to 5 characters, over the max of 4"])
 })
 
+test("a property stating a max is judged whatever page type that property is", () => {
+  expect(over({ id: "a", slug: "one", tally: "toolong" }, "told")).toEqual([
+    "`tally` runs to 7 characters, over the max of 4",
+  ])
+})
+
 test("a single value declared many is refused, and a list declared single is refused", () => {
   expect(over({ id: "a", slug: "one", test: "ts", aids: "x" }, "check")).toEqual([
     "states `aids` singly, and `page-type/check` declares it many",
@@ -352,24 +359,6 @@ test("a page type the change carries is read as the change leaves it", () => {
   ])
   expect(landing(root, { [ONE_HELD_AT]: ONE_HELD }, {})).toEqual([])
 })
-
-function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {
-  return [
-    {
-      pagePropertySlug: "test",
-      pageTypeSlug: "text-property",
-      propertySlug: "test",
-      key: "test",
-      declaredBy: "beside",
-      required: true,
-      many: false,
-      max: null,
-      total: null,
-      uncommitted,
-      secret,
-    },
-  ]
-}
 
 function beside(value: Value, uncommitted: boolean, secret = false): readonly string[] {
   return reasonsIn(
