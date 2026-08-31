@@ -133,10 +133,10 @@ export function checksAt(every: readonly Gathered[], phase: Phase): readonly Gat
 }
 
 function takesFrom(one: Gathered, change: Change, shadow: Shadow): boolean {
-  const wakes = one.isInput
-  if (wakes === null) return true
+  const takes = one.isInput
+  if (takes === null) return true
   try {
-    return change.changed.some((path) => wakes(path, shadow))
+    return change.changed.some((path) => takes(path, shadow))
   } catch {
     return true
   }
