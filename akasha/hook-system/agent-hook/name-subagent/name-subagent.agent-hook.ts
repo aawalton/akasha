@@ -12,10 +12,6 @@ export const nameSubagent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent is named by its seat and its own id together.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A name is honoured only where the seat's own id begins it.",
     },
     {
