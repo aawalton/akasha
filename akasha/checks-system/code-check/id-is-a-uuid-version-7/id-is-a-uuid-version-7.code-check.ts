@@ -14,10 +14,6 @@ export const idIsAUuidVersion7 = {
   runsOnAudit: true,
   invariants: [
     {
-      invariantKind: "departure",
-      statement: "The id judged is the one the page states.",
-    },
-    {
       invariantKind: "absence",
       statement: "A file stating no page is not judged.",
     },

@@ -60,11 +60,6 @@ export const pagePropertyHasItsFile = {
       statement: "A page the change takes away is passed over.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "The refusal is laid on the page that states the property rather than on the missing file.",
-    },
-    {
       invariantKind: "gap",
       statement: "A file a page has stopped claiming is refused.",
     },
