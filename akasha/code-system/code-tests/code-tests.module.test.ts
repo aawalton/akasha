@@ -79,7 +79,7 @@ check("a file that is no TypeScript file stands beside no test", () => {
   expect(testBesideOf("akasha/one/held")).toBeNull()
 })
 
-check("colour is taken out before the summary is read", () => {
+check("color is taken out before the summary is read", () => {
   const painted = `${String.fromCharCode(27)}[32m 3 pass${String.fromCharCode(27)}[0m`
   expect(plain(painted)).toBe(" 3 pass")
   expect(summaryIn(painted).passed).toBe(3)

@@ -38,7 +38,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "Colour is taken out before the summary is read.",
+      statement: "Color is taken out before the summary is read.",
     },
     {
       invariantKind: "departure",

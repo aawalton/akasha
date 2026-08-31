@@ -199,7 +199,7 @@ test("one test file is counted in the singular", () => {
   expect(said).toContain("1 of 3 tests failed")
 })
 
-test("the end of the run is what is kept, with its colour taken out", () => {
+test("the end of the run is what is kept, with its color taken out", () => {
   const painted = `${String.fromCharCode(27)}[31mheld${String.fromCharCode(27)}[0m`
   expect(tailOf(painted)).toBe("held")
   const many = Array.from({ length: 200 }, (_, at) => `line ${at}`).join("\n")
