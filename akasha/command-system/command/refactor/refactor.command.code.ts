@@ -30,6 +30,17 @@ import { repointed } from "../move/move-repointing/move-repointing.module.code.t
 import { glassIn, MESSAGE, MESSAGE_FILE, messageIn } from "../write/write.command.code.ts"
 import type { Keying, Respelling } from "./key-respelling/key-respelling.module.code.ts"
 import { keyingFor, respellingFor } from "./key-respelling/key-respelling.module.code.ts"
+import {
+  bodyTextOf,
+  respelledLanded,
+  were,
+} from "./refactor-landing/refactor-landing.module.code.ts"
+import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
+import {
+  bindingFor,
+  tokeningFor,
+  tokenSaying,
+} from "./token-renaming/token-renaming.module.code.ts"
 import type { Carry, Renaming } from "./type-renaming/type-renaming.module.code.ts"
 import {
   carriesFor,
@@ -53,6 +64,8 @@ const PAGE_TYPE = "page-type"
 
 const PROPERTY_SLUG = "property-slug"
 
+const TOKEN = "token"
+
 const TS = ".ts"
 
 const FROM = "--from"
@@ -61,9 +74,11 @@ const TO = "--to"
 
 const PLURAL = "--plural"
 
-const VALUED = [FROM, TO, PLURAL, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+const AT = "--at"
 
-const NAMED = [FROM, TO, PLURAL]
+const VALUED = [FROM, TO, PLURAL, AT, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
+
+const NAMED = [FROM, TO, PLURAL, AT]
 
 const BYTES = new TextEncoder()
 
@@ -127,10 +142,6 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): str
   }
   const done = repointed(from, to, next, held.moved)
   return pathRespelled(to, done, one.was, one.now) ?? done
-}
-
-function were(many: number, dry: boolean): string {
-  return dry ? "would be" : many === 1 ? "was" : "were"
 }
 
 function saying(
@@ -292,45 +303,39 @@ export function keyLanded(
   dryRun: boolean,
   argv: readonly string[]
 ): Answer {
-  const glass = glassIn(argv, VALUED)
-  if ("refusals" in glass) return answering([], glass.refusals, 1)
-  const message = messageIn(argv, VALUED)
-  if ("refusals" in message) return answering([], message.refusals, 1)
-  const stood = baseOf(root)
-  const made = respellingFor(root, readingIn(root), one, (path) => {
-    const bytes = bodyAt(root, stood, path)
-    return bytes === null ? null : textOf(bytes)
-  })
+  const made = respellingFor(root, readingIn(root), one, bodyTextOf(root, baseOf(root)))
   if ("refused" in made) return answering([], [made.refused], 1)
-  const changes: FileEdit[] = []
-  const readings: Reading[] = []
-  for (const path of [...made.respelling.changes.keys()].sort()) {
-    const said = made.respelling.changes.get(path)
-    if (said === undefined) continue
-    const bytes = bodyAt(root, stood, path)
-    if (bytes === null) return unread(path, `stands in no commit at \`${stood}\``)
-    readings.push({ was: path, now: path, from: blobIdOf(bytes) })
-    changes.push({ path, body: BYTES.encode(said), carried: true })
-  }
-  const asked: Asked = {
-    changes,
-    message:
-      message.message ?? `read \`${one.named}\` by \`${one.nowKey}\` rather than \`${one.wasKey}\``,
+  return respelledLanded(
+    given,
+    root,
+    made.respelling.changes,
+    `read \`${one.named}\` by \`${one.nowKey}\` rather than \`${one.wasKey}\``,
+    (dry) => keySaying(one, made.respelling, dry),
     dryRun,
-    glass: glass.glass,
-    unmoved: [],
-    read: stood,
-    saying: () => keySaying(one, made.respelling, false),
-  }
-  const landing = landingAsked({ ...given, root }, asked)
-  if (!dryRun) {
-    if (landing.code === 0) carryReadings(root, readings)
-    return landing
-  }
-  return answering(
-    [...keySaying(one, made.respelling, true), ...landing.report],
-    landing.refusals,
-    landing.code
+    argv,
+    VALUED
+  )
+}
+
+export function tokenLanded(
+  given: Given,
+  root: string,
+  one: Tokening,
+  dryRun: boolean,
+  argv: readonly string[]
+): Answer {
+  const paths = everyPath(root).filter(compiled)
+  const made = bindingFor(root, paths, one, bodyTextOf(root, baseOf(root)))
+  if ("refused" in made) return answering([], [made.refused], 1)
+  return respelledLanded(
+    given,
+    root,
+    made.binding.changes,
+    `rename \`${one.was}\` to \`${one.now}\``,
+    (dry) => tokenSaying(one, made.binding, dry),
+    dryRun,
+    argv,
+    VALUED
   )
 }
 
@@ -346,13 +351,13 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   if (act !== RENAME) {
     return answering([], [`\`${act}\` is no act this carries — it carries \`${RENAME}\``], 1)
   }
-  if (namespace !== PAGE_TYPE && namespace !== PROPERTY_SLUG) {
+  if (namespace !== PAGE_TYPE && namespace !== PROPERTY_SLUG && namespace !== TOKEN) {
     const said = namespace === undefined ? "none was named" : `\`${namespace}\` is not one of them`
     return answering(
       [],
       [
         `${RENAME} names the namespace it is worked over, and ${said} — ` +
-          `it carries \`${PAGE_TYPE}\` and \`${PROPERTY_SLUG}\``,
+          `it carries \`${PAGE_TYPE}\`, \`${PROPERTY_SLUG}\` and \`${TOKEN}\``,
       ],
       1
     )
@@ -362,6 +367,16 @@ export function refactor(argv: readonly string[], given: Given): Answer {
   const from = read.said.get(FROM)
   const to = read.said.get(TO)
   const root = resolve(given.root)
+  if (namespace === TOKEN) {
+    const at = read.said.get(AT)
+    if (from === undefined || to === undefined || at === undefined) {
+      const said = `a name rename takes ${AT}, ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [said], 1)
+    }
+    const asked = tokeningFor(at, from, to)
+    if ("refused" in asked) return answering([], [asked.refused], 1)
+    return tokenLanded(given, root, asked.tokening, read.dryRun, argv)
+  }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {
       return answering(

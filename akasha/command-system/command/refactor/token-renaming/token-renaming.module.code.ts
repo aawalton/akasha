@@ -5,9 +5,13 @@ import {
   referencesOf,
   typingOver,
 } from "../../../../code-system/code-typing/code-typing.module.code.ts"
+import { counted } from "../../../asking/asking.module.code.ts"
+import { were } from "../refactor-landing/refactor-landing.module.code.ts"
 import type { Spot } from "../type-renaming/type-renaming.module.code.ts"
 import { splicedIn } from "../type-renaming/type-renaming.module.code.ts"
 import { namesStill } from "../type-respelling/type-respelling.module.code.ts"
+
+const LEFT = 12
 
 const NAME = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -84,4 +88,20 @@ export function bindingFor(
       still: still.sort((here, there) => (here.path < there.path ? -1 : 1)),
     },
   }
+}
+
+export function tokenSaying(one: Tokening, made: Binding, dry: boolean): readonly string[] {
+  const paths = [...made.changes.keys()].sort()
+  const left = made.still.flatMap((held) => held.lines.map((line) => `  ${held.path}:${line}`))
+  return [
+    `\`${one.was}\` ${dry ? "would be renamed" : "was renamed"} to \`${one.now}\`, ` +
+      `and ${one.path} exports it`,
+    `${counted(paths.length, "file")} ${were(paths.length, dry)} respelled`,
+    ...(dry ? paths.map((path) => `  ${path}`) : []),
+    left.length === 0
+      ? "nothing else still names it"
+      : `${counted(left.length, "place")} still naming it stand unchanged`,
+    ...left.slice(0, LEFT),
+    ...(left.length > LEFT ? [`  and ${left.length - LEFT} more`] : []),
+  ]
 }

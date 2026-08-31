@@ -10,6 +10,7 @@ export const refactor = {
   mechanical: true,
   partSlugs: [
     "module/key-respelling",
+    "module/refactor-landing",
     "module/token-renaming",
     "module/type-renaming",
     "module/type-respelling",
@@ -17,9 +18,14 @@ export const refactor = {
   taking: [
     { said: "rename page-type", takes: "the act, and the namespace it is worked over" },
     { said: "rename property-slug", takes: "the act, and the namespace it is worked over" },
-    { said: "--from <name>", takes: "the page type's slug, or the address a property stands at" },
+    { said: "rename token", takes: "the act, and the namespace it is worked over" },
+    {
+      said: "--from <name>",
+      takes: "the page type's slug, the address a property stands at, or the name a body carries",
+    },
     { said: "--to <slug>", takes: "the slug it becomes, or the key the property is read by" },
     { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
+    { said: "--at <path>", takes: "the file exporting the name, on a name rename alone" },
     { said: "--message <text>", takes: "what the commit is for" },
     { said: "--message-file <file>", takes: "a file the commit message is read from" },
     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
@@ -33,6 +39,8 @@ export const refactor = {
     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
     "a property is named by the address it stands at, since a key on its own reaches no property.",
     "a key rename carries no file, so it takes no plural and repoints no address.",
+    "a name is named by the file exporting it, since one name is carried by many files.",
+    "a name is renamed where the checker resolves to it rather than where a body spells it.",
   ],
   invariants: [
     {
@@ -114,6 +122,18 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement: "Every place the checker resolves to a renamed key is respelled in one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every place the checker resolves to a renamed name is respelled in one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is named by the file exporting it rather than by the name on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name standing for something else in its own scope is left as it stands.",
     },
     {
       invariantKind: "absence",
