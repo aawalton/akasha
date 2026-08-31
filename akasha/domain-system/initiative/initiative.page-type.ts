@@ -93,4 +93,53 @@ export const initiative = {
       statement: "An initiative is read from this definition rather than from the old system's.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Only Yours",
+      act: "Obey an initiative's directives and constraints only when you are working that one.",
+      warrant: "An initiative is read across the cast, so its page reaches seats not working it.",
+      aids: [
+        "Reading an initiative is not taking up its work.",
+        "A seat works one and reads many.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Only The Top",
+      act: "Work the first intent alone, and place a blocker first the moment you find one.",
+      warrant: "Position is what says which work is live and which is merely next.",
+      aids: [
+        "An intent below the first is not started.",
+        "A blocker inside your own initiative is pushed rather than asked about.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Reorder Out Loud",
+      act: "Say why before moving an intent from where it stands, and never move past a hard one.",
+      warrant: "Avoidance and sequencing are one motion, and only the reason tells them apart.",
+      aids: ["A blocker placed first is no reorder.", "Finding the top hard is no reason."],
+    },
+    {
+      directiveKind: "rule",
+      name: "Blocked Elsewhere",
+      act: "Stop and ask where an intent on another initiative blocks yours, rather than taking it.",
+      warrant: "Whoever is blocked gets themselves unblocked, and the intent may be live work.",
+      aids: [
+        "The top of their stack says whether anyone is on it.",
+        "Copy it onto yours only where Alan says to.",
+      ],
+    },
+    {
+      directiveKind: "rule",
+      name: "Keep The State",
+      act: "Write the top intent's working memory before you stop, as state rather than history.",
+      warrant: "A context is cleared without warning, and what you worked out is on no other page.",
+      aids: [
+        "Five hundred characters is a snapshot rather than a log.",
+        "An intent you have not started carries none.",
+      ],
+    },
+  ],
 } as const satisfies PageType
