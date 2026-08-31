@@ -13,7 +13,7 @@ export const domainSystem = {
     "page-type/invariant-group",
     "page-type/invariant-kind",
     "page-type/directive-kind",
-    "page-type/taboo-sense",
+    "page-type/taboo-term",
   ],
   invariants: [
     {
