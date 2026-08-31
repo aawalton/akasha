@@ -11,7 +11,7 @@ display-name: Smiling Jenny
 bundle-id: me.smilingjenny.app
 widget-bundle-id: me.smilingjenny.app.widgets
 development-team: M6AN6NM6FL
-native-shell-repo-path: akasha:native-shell/smilingjenny
+native-shell-repo-path: akasha:akasha/code-system/ios-app/ios-apps/smilingjenny
 capacitor-config-repo-path: akasha:native-shell/smilingjenny/capacitor.config.json
 shared-widget-repo-path: akasha:akasha/code-system/ios-component/ios-components
 own-widget-repo-path: akasha:native-shell/smilingjenny/ios-widget

@@ -90,6 +90,33 @@
         "typescript": "5.9.3",
       },
     },
+    "akasha/code-system/ios-app/ios-apps/alanwalton": {
+      "name": "@alanwalton/native-shell",
+      "version": "0.0.1",
+      "dependencies": {
+        "@capacitor/app": "^8.0.0",
+        "@capacitor/core": "^8.4.1",
+        "@capacitor/filesystem": "^7.1.4",
+        "@capacitor/ios": "^8.4.1",
+        "@capacitor/push-notifications": "^8.1.1",
+        "@capacitor/status-bar": "^8.0.0",
+      },
+      "devDependencies": {
+        "@capacitor/cli": "^8.4.1",
+      },
+    },
+    "akasha/code-system/ios-app/ios-apps/smilingjenny": {
+      "name": "@smilingjenny/native-shell",
+      "version": "0.0.1",
+      "dependencies": {
+        "@capacitor/core": "^8.4.1",
+        "@capacitor/ios": "^8.4.1",
+        "@capacitor/push-notifications": "^8.1.1",
+      },
+      "devDependencies": {
+        "@capacitor/cli": "^8.4.1",
+      },
+    },
     "alanwalton/atlas-web": {
       "name": "@alanwalton/atlas-web",
       "version": "0.1.0",
@@ -1007,21 +1034,6 @@
         "typescript": "^5.8.3",
       },
     },
-    "native-shell/alanwalton": {
-      "name": "@alanwalton/native-shell",
-      "version": "0.0.1",
-      "dependencies": {
-        "@capacitor/app": "^8.0.0",
-        "@capacitor/core": "^8.4.1",
-        "@capacitor/filesystem": "^7.1.4",
-        "@capacitor/ios": "^8.4.1",
-        "@capacitor/push-notifications": "^8.1.1",
-        "@capacitor/status-bar": "^8.0.0",
-      },
-      "devDependencies": {
-        "@capacitor/cli": "^8.4.1",
-      },
-    },
     "native-shell/atlas": {
       "name": "@alanwalton/atlas-native-shell",
       "version": "0.0.1",
@@ -1030,18 +1042,6 @@
         "@capacitor/ios": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
         "@capgo/background-geolocation": "^8.3.1",
-      },
-      "devDependencies": {
-        "@capacitor/cli": "^8.4.1",
-      },
-    },
-    "native-shell/smilingjenny": {
-      "name": "@smilingjenny/native-shell",
-      "version": "0.0.1",
-      "dependencies": {
-        "@capacitor/core": "^8.4.1",
-        "@capacitor/ios": "^8.4.1",
-        "@capacitor/push-notifications": "^8.1.1",
       },
       "devDependencies": {
         "@capacitor/cli": "^8.4.1",
@@ -3953,7 +3953,7 @@
 
     "@alanwalton/mobile-cli": ["@alanwalton/mobile-cli@workspace:alanwalton/mobile-cli"],
 
-    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:native-shell/alanwalton"],
+    "@alanwalton/native-shell": ["@alanwalton/native-shell@workspace:akasha/code-system/ios-app/ios-apps/alanwalton"],
 
     "@alanwalton/personas-core": ["@alanwalton/personas-core@workspace:alanwalton/personas-core"],
 
@@ -4595,7 +4595,7 @@
 
     "@shared/workspace-paths": ["@shared/workspace-paths@workspace:shared/workspace-paths"],
 
-    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:native-shell/smilingjenny"],
+    "@smilingjenny/native-shell": ["@smilingjenny/native-shell@workspace:akasha/code-system/ios-app/ios-apps/smilingjenny"],
 
     "@smilingjenny/web": ["@smilingjenny/web@workspace:smilingjenny/web"],
 

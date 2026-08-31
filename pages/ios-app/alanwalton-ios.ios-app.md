@@ -11,7 +11,7 @@ display-name: alanwalton
 bundle-id: com.alanwalton.app
 widget-bundle-id: com.alanwalton.app.widgets
 development-team: M6AN6NM6FL
-native-shell-repo-path: akasha:native-shell/alanwalton
+native-shell-repo-path: akasha:akasha/code-system/ios-app/ios-apps/alanwalton
 capacitor-config-repo-path: akasha:native-shell/alanwalton/capacitor.config.json
 shared-widget-repo-path: akasha:akasha/code-system/ios-component/ios-components
 own-widget-repo-path: akasha:native-shell/alanwalton/ios-widget

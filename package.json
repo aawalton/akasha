@@ -4,9 +4,9 @@
   "type": "module",
   "workspaces": [
     "editor-extension",
-    "native-shell/alanwalton",
+    "akasha/code-system/ios-app/ios-apps/alanwalton",
     "native-shell/atlas",
-    "native-shell/smilingjenny",
+    "akasha/code-system/ios-app/ios-apps/smilingjenny",
     "lua-compiler",
     "lua-compiler/vendor/*",
     "alanwalton/calendar-sync",
