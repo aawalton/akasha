@@ -7,15 +7,5 @@ export const contextReplacedAt = {
   pageTypeSlug: "instant-property",
   slug: "context-replaced-at",
   propertySlug: "context-replaced-at",
-  definition: "when a seat's context was last replaced",
-  invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A context carried across a restart replaces nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A read taken before this is no longer the seat's.",
-    },
-  ],
+  definition: "when a seat last came by the context it is working in",
 } as const satisfies InstantProperty
