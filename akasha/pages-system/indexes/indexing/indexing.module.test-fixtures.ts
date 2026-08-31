@@ -154,6 +154,7 @@ export const NOTE = aProperty("8", "note", "relation-property", { targetPageType
 
 export const IDENTIFIERS: readonly Named[] = [
   aType("0", "page", null, ["id", "slug"]),
+  aType("12", "page-type", "page"),
   aType("5", "page-property", "page"),
   aType("9", "text-property", "page-property"),
   aType("10", "relation-property", "page-property"),
