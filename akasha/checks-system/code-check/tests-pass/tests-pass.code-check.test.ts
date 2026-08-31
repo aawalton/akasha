@@ -109,19 +109,19 @@ test("a file the index files a test beside wakes the check", () => {
   })
   const shadow = shadowAt(root)
   const woken = ["akasha/one.module.ts", "akasha/one.module.code.ts", "akasha/one.module.test.ts"]
-  expect(woken.map((path) => testsPass.wakesOn(path, shadow))).toEqual([true, true, true])
+  expect(woken.map((path) => testsPass.isInput(path, shadow))).toEqual([true, true, true])
 })
 
 test("a file the index files no test beside does not wake the check", () => {
   const root = repo({ "akasha/one.module.code.ts": "", "akasha/held.md": "held" })
   const shadow = shadowAt(root)
   const asleep = ["akasha/one.module.code.ts", "akasha/one.module.ts", "akasha/held.md"]
-  expect(asleep.map((path) => testsPass.wakesOn(path, shadow))).toEqual([false, false, false])
+  expect(asleep.map((path) => testsPass.isInput(path, shadow))).toEqual([false, false, false])
 })
 
 test("a test wakes the check by standing beside itself", () => {
   const root = repo({})
-  expect(testsPass.wakesOn("akasha/new.module.test.ts", shadowAt(root))).toBe(true)
+  expect(testsPass.isInput("akasha/new.module.test.ts", shadowAt(root))).toBe(true)
 })
 
 test("a change whose tests pass is not refused", () => {

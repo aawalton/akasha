@@ -211,5 +211,5 @@ test("a shell script wakes the check and a file of any other kind does not", () 
   const root = rooted()
   const shadow = shadowAt(root)
   const held = [ONE, "akasha/one.ts", "akasha/held.md"]
-  expect(held.map((one) => shellClean.wakesOn(one, shadow))).toEqual([true, false, false])
+  expect(held.map((one) => shellClean.isInput(one, shadow))).toEqual([true, false, false])
 })

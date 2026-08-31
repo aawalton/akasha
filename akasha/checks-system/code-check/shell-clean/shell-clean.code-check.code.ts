@@ -37,7 +37,7 @@ export type Looked = {
 
 const SHELLS: Selector<Body> = {
   named: "shell scripts",
-  wakesOn: (path) => path.endsWith(SH),
+  isInput: (path) => path.endsWith(SH),
   from: (change, shadow) => FILES.from(change, shadow).filter((one) => one.path.endsWith(SH)),
 }
 

@@ -37,12 +37,12 @@ export type Input = (path: string, shadow: Shadow) => boolean
 
 export type Selector<T> = {
   readonly named: string
-  readonly wakesOn: Input
+  readonly isInput: Input
   readonly from: (change: Change, shadow: Shadow) => readonly T[]
 }
 
 export type Stated = {
-  readonly wakesOn: Input
+  readonly isInput: Input
 }
 
 export type Bounded = Running & Stated
@@ -75,13 +75,13 @@ function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
 
 export const FILES: Selector<Body> = {
   named: "files",
-  wakesOn: () => true,
+  isInput: () => true,
   from: (change) => standingIn(change),
 }
 
 export const TEXTS: Selector<Text> = {
   named: "texts",
-  wakesOn: (path) => path.endsWith(TS_ENDING),
+  isInput: (path) => path.endsWith(TS_ENDING),
   from: (change) => {
     const found: Text[] = []
     for (const given of standingIn(change)) {
@@ -98,7 +98,7 @@ function pagedInside(path: string, shadow: Shadow): boolean {
 
 export const PAGES: Selector<Paged> = {
   named: "pages",
-  wakesOn: pagedInside,
+  isInput: pagedInside,
   from: (change, shadow) => {
     const found: Paged[] = []
     for (const given of standingIn(change)) {
@@ -113,7 +113,7 @@ export function pagesTailed(slug: string): Selector<Paged> {
   const tailed = (path: string): boolean => namedIn(path)?.tail === slug
   return {
     named: `pages tailed ${slug}`,
-    wakesOn: (path, shadow) => PAGES.wakesOn(path, shadow) && tailed(path),
+    isInput: (path, shadow) => PAGES.isInput(path, shadow) && tailed(path),
     from: (change, shadow) => PAGES.from(change, shadow).filter((one) => tailed(one.path)),
   }
 }
@@ -129,13 +129,13 @@ export function judgingEach<T extends { readonly path: string }>(
     }
     return said
   }
-  const stated: Stated = { wakesOn: selector.wakesOn }
+  const stated: Stated = { isInput: selector.isInput }
   return Object.assign(run, stated)
 }
 
 export function input<T>(selector: Selector<T>, run: Running): Bounded {
   const bound = (change: Change, shadow: Shadow): readonly Judged[] => run(change, shadow)
-  const stated: Stated = { wakesOn: selector.wakesOn }
+  const stated: Stated = { isInput: selector.isInput }
   return Object.assign(bound, stated)
 }
 

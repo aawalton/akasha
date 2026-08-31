@@ -29,7 +29,7 @@ function testStandsBeside(path: string, shadow: Shadow): boolean {
 
 const TESTED: Selector<Text> = {
   named: "texts a test stands beside",
-  wakesOn: testStandsBeside,
+  isInput: testStandsBeside,
   from: (change, shadow) =>
     TEXTS.from(change, shadow).filter((one) => testStandsBeside(one.path, shadow)),
 }

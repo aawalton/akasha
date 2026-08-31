@@ -159,8 +159,8 @@ test("the pages selected are the standing files the index names a page type for,
 test("a file whose name tails a property rather than a page type is no page and is not selected", () => {
   const change = pagedWorld()
   const shadow = shadowAt(change.root)
-  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
-  expect(PAGES.wakesOn(CODE_AT, shadow)).toBe(false)
+  expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.isInput(CODE_AT, shadow)).toBe(false)
 })
 
 test("a selector tailed by one page type takes a page carrying that tail and no page carrying another", () => {
@@ -170,15 +170,15 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
   const handed = tailed.from(change, shadow)
   expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT, TYPE_AT])
   expect(handed.map((one) => one.path)).toEqual([TYPE_AT])
-  expect(tailed.wakesOn(TYPE_AT, shadow)).toBe(true)
-  expect(tailed.wakesOn(PAGE_AT, shadow)).toBe(false)
+  expect(tailed.isInput(TYPE_AT, shadow)).toBe(true)
+  expect(tailed.isInput(PAGE_AT, shadow)).toBe(false)
 })
 
 test("a page named outside the akasha folder is no page, so nothing bounded to the pages wakes", () => {
   const change = pagedWorld()
   const shadow = shadowAt(change.root)
-  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
-  expect(PAGES.wakesOn(OUTSIDE_AT, shadow)).toBe(false)
+  expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.isInput(OUTSIDE_AT, shadow)).toBe(false)
 })
 
 test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
@@ -203,8 +203,8 @@ test("the page types are read from a shadow once, however many paths are held ag
   const shadow = counting(shadowAt(change.root), () => {
     asked = asked + 1
   })
-  expect(PAGES.wakesOn(PAGE_AT, shadow)).toBe(true)
-  expect(PAGES.wakesOn(CODE_AT, shadow)).toBe(false)
+  expect(PAGES.isInput(PAGE_AT, shadow)).toBe(true)
+  expect(PAGES.isInput(CODE_AT, shadow)).toBe(false)
   expect(PAGES.from(change, shadow).map((one) => one.path)).toEqual([PAGE_AT])
   expect(asked).toBe(1)
 })
@@ -221,8 +221,8 @@ test("a runner made from a selection carries what wakes it, so a gate may ask be
   const change = mixedWorld()
   const shadow = shadowAt(change.root)
   const run = judgingEach(TEXTS, () => [])
-  expect(run.wakesOn("one.ts", shadow)).toBe(true)
-  expect(run.wakesOn("one.md", shadow)).toBe(false)
+  expect(run.isInput("one.ts", shadow)).toBe(true)
+  expect(run.isInput("one.md", shadow)).toBe(false)
 })
 
 test("a waking laid on a runner wraps it, leaving the runner it was handed carrying none", () => {
@@ -232,8 +232,8 @@ test("a waking laid on a runner wraps it, leaving the runner it was handed carry
   const bound = input(TEXTS, run)
   expect(Object.hasOwn(run, "wakesOn")).toBe(false)
   expect(Object.hasOwn(bound, "wakesOn")).toBe(true)
-  expect(bound.wakesOn("one.ts", shadow)).toBe(true)
-  expect(bound.wakesOn("one.md", shadow)).toBe(false)
+  expect(bound.isInput("one.ts", shadow)).toBe(true)
+  expect(bound.isInput("one.md", shadow)).toBe(false)
   expect(bound(change, shadow)).toEqual([{ path: "gone.ts", reason: "said" }])
 })
 
@@ -260,7 +260,7 @@ test("a selector wakes on every path it hands over, so no path it judges passes 
   for (const selector of every) {
     const handed = selector.from(change, shadow)
     expect(handed.length).toBeGreaterThan(0)
-    for (const given of handed) expect(selector.wakesOn(given.path, shadow)).toBe(true)
+    for (const given of handed) expect(selector.isInput(given.path, shadow)).toBe(true)
   }
 })
 
