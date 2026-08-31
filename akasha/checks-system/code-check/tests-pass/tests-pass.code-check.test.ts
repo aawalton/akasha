@@ -25,6 +25,8 @@ const READS =
   'import { held } from "./one.module.code.ts"\n' +
   'test("one", () => { expect(held).toBe(1) })\n'
 
+const HELD_ID = "01a05fd0-1c4a-7000-8f3b-6a1d4e2c9b70"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -36,7 +38,7 @@ function repo(files: Record<string, string>): string {
     const at = join(root, name)
     mkdirSync(dirname(at), { recursive: true })
     writeFileSync(at, body)
-    pathFiled(root, name, [{ path: name }])
+    pathFiled(root, name, [{ path: name, id: HELD_ID }])
   }
   return root
 }
