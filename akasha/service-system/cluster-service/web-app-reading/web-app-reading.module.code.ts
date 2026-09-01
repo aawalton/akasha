@@ -13,6 +13,7 @@ const TITLE = "title"
 const KIND = "kind"
 const NAMESPACE = "namespace"
 const RESOURCE_NAME = "resource-name"
+const QUIETLY: ["ignore", "pipe", "ignore"] = ["ignore", "pipe", "ignore"]
 
 export interface Workload {
   readonly kind: string
@@ -79,6 +80,7 @@ export function pagesUnder(root: string, suffix: string): readonly string[] | nu
   try {
     const held = execFileSync("git", ["-C", root, "ls-files", "-z", "--", `*${suffix}`], {
       encoding: "utf8",
+      stdio: QUIETLY,
     })
     return held.split("\0").filter((one) => one !== "")
   } catch {
