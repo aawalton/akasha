@@ -1,7 +1,12 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { testNamed } from "@akasha/code-system/code-tests"
+import { reachesIn } from "@akasha/code-system/package-manifest"
+import { importersOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages-system/change"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
+
+const SLASH = "/"
 
 export const MARK = "the differential wrote this, and no change describes it"
 
@@ -148,6 +153,25 @@ export function pairedIn(root: string, paths: readonly string[]): Scenario | nul
   }
 }
 
+function topOf(path: string): string {
+  return path.split(SLASH)[1] ?? ""
+}
+
+export function acrossIn(root: string, paths: readonly string[]): Scenario | null {
+  for (const manifest of paths.filter(manifested)) {
+    for (const [, at] of reachesIn(dirname(manifest), textAt(root, manifest))) {
+      if (!at.endsWith(CODE_TAIL)) continue
+      const test = importersOf(root, at).find((one) => testNamed(one) && topOf(one) !== topOf(at))
+      if (test === undefined) continue
+      return {
+        named: `a body a manifest names, and the test in another package reaching it — ${at}`,
+        after: new Map([...appending(at, root), ...appending(test, root)]),
+      }
+    }
+  }
+  return null
+}
+
 export function scenariosIn(root: string, paths: readonly string[]): readonly Scenario[] {
   const found: Scenario[] = []
   for (const kind of KINDS) {
@@ -155,8 +179,10 @@ export function scenariosIn(root: string, paths: readonly string[]): readonly Sc
     if (at === undefined) continue
     found.push({ named: `${kind.named} — ${at}`, after: kind.made(at, root) })
   }
-  const paired = pairedIn(root, paths)
-  return paired === null ? found : [...found, paired]
+  for (const one of [pairedIn(root, paths), acrossIn(root, paths)]) {
+    if (one !== null) found.push(one)
+  }
+  return found
 }
 
 export function relandingOf(root: string, paths: readonly string[]): Scenario {
