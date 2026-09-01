@@ -32,7 +32,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A page the change takes away declares nothing and what its page type says loads it is not compiled for that change.",
+        "A module a page type names as its loader is not compiled for a change to a page of that type.",
     },
     {
       invariantKind: "departure",
