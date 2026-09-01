@@ -6,7 +6,12 @@ export const pagesQuery = {
   slug: "pages-query",
   definition: "the page store reached over HTTP by what runs outside it",
   manifest: "json",
-  partSlugs: ["module/store-questioning", "module/store-reaching", "module/store-writing"],
+  partSlugs: [
+    "module/store-page-asking",
+    "module/store-questioning",
+    "module/store-reaching",
+    "module/store-writing",
+  ],
   invariants: [
     {
       invariantKind: "departure",
