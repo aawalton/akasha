@@ -16,7 +16,7 @@ export const PREP = listed(
 
 export const REL = listed("that which who whom whose where when what")
 
-export const WH = listed("which who whom whose where when what")
+export const WH = listed("which who whom whose where when what how however")
 
 export const REL_NOUN = listed("what")
 
@@ -25,6 +25,8 @@ export const DEM = listed("this that these those")
 export const RATHER = listed("rather")
 
 export const THAN = listed("than")
+
+export const TO = listed("to")
 
 export const BE = listed("is are was were be been being")
 
@@ -45,7 +47,9 @@ export const INDEF = listed("anything nothing")
 
 export const CONJ = listed("and or but")
 
-export const SUBORD = listed("if unless while whether because although though whenever wherever")
+export const SUBORD = listed(
+  "if unless while whether because although though whenever wherever however"
+)
 
 export type WordClass =
   | "DET"
@@ -66,6 +70,7 @@ export type WordClass =
   | "DEM"
   | "RATHER"
   | "THAN"
+  | "TO"
   | "N"
   | "V"
   | "VEN"
@@ -91,6 +96,7 @@ const CLOSED: readonly (readonly [ReadonlySet<string>, WordClass])[] = [
   [DEM, "DEM"],
   [RATHER, "RATHER"],
   [THAN, "THAN"],
+  [TO, "TO"],
 ]
 
 const IRREGULAR = listed(
