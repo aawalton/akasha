@@ -186,8 +186,8 @@ export function landed(
 ): Answer {
   const base = baseOf(root)
   const bodyText = bodyTextOf(root, base)
-  const standing = (path: string): boolean => existsSync(join(root, path))
-  const carries = carriesFor(root, one, standing)
+  const onDisk = (path: string): boolean => existsSync(join(root, path))
+  const carries = carriesFor(root, one, onDisk)
   const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
   const typing = typingOver(root, everyPath(root).filter(compiled), readingOf(root, bodyText))
   const held: Rewriting = {
@@ -208,7 +208,7 @@ export function landed(
   }
   const bodies = new Map<string, Uint8Array>()
   for (const path of everyPath(root)) {
-    if (moved.has(path) || !standing(path)) continue
+    if (moved.has(path) || !onDisk(path)) continue
     if (namesStill(path, one.was).length > 0) left.push(`  ${path} — its own path`)
     if (!path.endsWith(TS)) continue
     const bytes = bodyAt(root, base, path)
