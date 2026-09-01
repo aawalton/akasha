@@ -35,7 +35,11 @@ export const amyJennyUnreviewedWidget = {
       workingMemory:
         "The widget is whole, not a stub: `ios-program/alanwalton-widget` names 21 components and builds ValuesWidgetExtension. It GETs /api/categorization with X-Device-Secret, and that route reads what the relay holds and refuses a reading past 45 minutes. The server half is proved locally, 30 checks. Two things block it, neither the credential: no reading exists at all, since the cookie 401s and the relay says `stands beside no reading`; and the pod runs 1124e0a, 177 behind, with no relay route.",
     },
-    { statement: "The relay that carries Alan's reading to Jenny's site is in akasha." },
+    {
+      statement: "The relay that carries Alan's reading to Jenny's site is in akasha.",
+      workingMemory:
+        "Met in the repository, unproved live. The relay was already in akasha; what carried to Jenny was a pull in `shared/`, so it goes rather than moves. `monarch-relay-service` carries to both origins on two dash-led runs lines: proved by running, both carries attempt and neither stops the other. Her site holds and serves it as Alan's does, proved over real HTTP, 9 tests. Two findings. Left: both pods run 1124e0a with no relay route, and her sops wants READING_RELAY_SECRET.",
+    },
     { statement: "Jenny's categorization route is in akasha." },
     { statement: "The page describing Jenny's tile is in akasha." },
     { statement: "Jenny's site deploys from akasha." },
