@@ -41,7 +41,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A command an operational change reaches is itself operational.",
+      statement: "A command a mechanical change reaches is itself mechanical.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command stating `mechanical` is handed that a program composes its changes.",
     },
   ],
 } as const satisfies Module

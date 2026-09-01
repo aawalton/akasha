@@ -38,6 +38,8 @@ export const HELP_SHORT = "-h"
 
 const DEFINITION = "definition"
 
+const MECHANICAL = "mechanical"
+
 const TAKING = "taking"
 
 const HELP_NOTES = "helpNotes"
@@ -119,6 +121,10 @@ function pageIn(root: string, path: string, slug: string): Record<string, unknow
 function definitionOf(page: Record<string, unknown> | null): string | null {
   const said = page === null ? null : page[DEFINITION]
   return typeof said === "string" ? said : null
+}
+
+function mechanicalOf(page: Record<string, unknown> | null): boolean {
+  return page !== null && page[MECHANICAL] === true
 }
 
 function definitionIn(root: string, path: string, slug: string): string | null {
@@ -221,7 +227,7 @@ async function answeredBy(
     from: outside.from,
     writer: outside.writer,
     agentId: outside.agentId,
-    programmatic: outside.programmatic,
+    programmatic: outside.programmatic === true || mechanicalOf(page),
   })
 }
 
