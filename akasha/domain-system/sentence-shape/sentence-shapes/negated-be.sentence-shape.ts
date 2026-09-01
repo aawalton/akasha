@@ -5,5 +5,5 @@ export const negatedBe = {
   pageTypeSlug: "sentence-shape",
   slug: "negated-be",
   definition: "`be` followed by `not` and what the subject is not",
-  rules: ["VP -> BE NEG NP | BE NEG ADJP | BE NEG VEN"],
+  rules: ["VP -> BE NEG NP | BE NEG ADJP | BE NEG VEN | BE NEG ADV"],
 } as const satisfies SentenceShape

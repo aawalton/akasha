@@ -5,5 +5,5 @@ export const beVerb = {
   pageTypeSlug: "sentence-shape",
   slug: "be-verb",
   definition: "`be` followed by what the subject is",
-  rules: ["VP -> BE NP | BE ADJP | BE PP"],
+  rules: ["VP -> BE NP | BE ADJP | BE PP | BE ADV"],
 } as const satisfies SentenceShape
