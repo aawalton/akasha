@@ -158,6 +158,6 @@ export function reasonsWith(grammars: Grammars): (given: Body) => readonly strin
   return overEachText((path, text) => found(path, text, grammars))
 }
 
-export const statementIsPlain = judgingEach(TEXTS, (given) =>
+export const invariantStatementIsPlain = judgingEach(TEXTS, (given) =>
   found(given.path, given.text, grammarsIn(given.root))
 )

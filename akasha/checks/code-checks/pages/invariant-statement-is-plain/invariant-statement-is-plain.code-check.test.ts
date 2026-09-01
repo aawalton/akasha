@@ -9,7 +9,7 @@ import {
   reasonsWith,
   splitAt,
   statementsIn,
-} from "./statement-is-plain.code-check.code.ts"
+} from "./invariant-statement-is-plain.code-check.code.ts"
 
 const ROOT = "/repo"
 
