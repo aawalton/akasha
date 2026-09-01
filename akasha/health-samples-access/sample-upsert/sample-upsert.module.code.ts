@@ -29,7 +29,7 @@ interface Standing {
   readonly arrivedAt: string
 }
 
-async function standingOn(day: string): Promise<ReadonlyMap<string, Standing>> {
+async function pagesOn(day: string): Promise<ReadonlyMap<string, Standing>> {
   const asked = await askComposed({
     "page-type": "health-sample",
     where: { [`${ANCHOR_PAGE_TYPE}-slug`]: { is: day } },
@@ -86,7 +86,7 @@ export async function upsertHealthSamples(args: {
 
   for (const day of [...byDay.keys()].sort()) {
     const held = byDay.get(day) ?? []
-    const standing = await standingOn(day)
+    const standing = await pagesOn(day)
     const rows = held.map(([identity, sample]) => {
       const prior = standing.get(identity)
       if (prior === undefined) inserted += 1
