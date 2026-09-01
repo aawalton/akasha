@@ -5,5 +5,6 @@ slug: shaestrel-2026-08-20
 persona-slug: shaestrel
 date: 2026-08-20
 green-day-points: 8
+value-slug: health
 source-points: 0
 ---
