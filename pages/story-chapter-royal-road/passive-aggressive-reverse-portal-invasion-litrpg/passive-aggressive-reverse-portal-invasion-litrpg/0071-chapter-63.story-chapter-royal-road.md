@@ -1,0 +1,103 @@
+---
+id: f314dc12-a54c-5d09-9287-2791b9859fbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63"
+slug: 0071-chapter-63
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 71
+ownLength: 2016
+unit: words
+publishedAt: 2026-09-01
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3894636/chapter-63"
+royalRoadId: "3894636"
+---
+
+At some point in the last week, Steve had gone on a rambling discourse about antro-something. The fact that we humans tended to attribute human emotions or behavior to animals, even when they didn’t have the capacities for those. He’d blarted on about how that could lead to a trap, to landing yourself in a bad situation.
+
+Now, I totally got it. Most people have tried waking up in the middle of the night with a cramp. That specific mixture of pain, surprise and sleep-befuddled confusion. The Higher Soil Scourer looked just like that. It almost looked hurt, like I’d be able to talk to it, come to some agreement. Even if – I bared my teeth at the sight - I’d just blown a circular hole at least a metre wide inside its stomach.
+
+“Fuck are you waiting for? I’m right here. Are you scared? A tiny thing like me make you want to run and hide?” I wasn’t actually aiming to piss it off – more hoping that I’d catch the damn thing’s attention!
+
+Finally, the red-rimmed eyes spotted me. And the tiny face, high above, snarled and slobbered as it burst into another high-pitched squeal, testing my already-abused eardrums. Then, slowly picking up speed like a tree falling in the woods, the Kadren launched itself at me, claws first, its multi-tonne body aiming to crush whatever the claws didn’t pierce.
+
+The couple of seconds between the body starting to move in my direction and the actual impact felt like the longest in my life. I waited, waited until the last, to use the ability that would, hopefully save my life.
+
+There was no life flashing before my eyes. No comical slowing down of the action. Only an expanding darkness, as the Soil Scourer’s body drowned out the few traces of sunlight.
+
+Just as the claws were about to descend upon me, I activated and maintained three things in a row while I held my shield between me and the attack. First, the Higher Shield bonus ability, negating the effect of a single physical strike. Next, Wave of Reflection. Finally, Deflect. Staring up at oblivion, I mentally held and maintained all three, ignoring the look of my impending doom.
+
+With a massive blast, the strike hit. My eyes instantly watered, but I didn’t look away. I wanted, no, needed to see this. The claws on the right limb hit my shield, flinging the limb back hard enough that the massive thing tore from the socket with a massive, ripping sound and pulling the beast back with it. Somewhere in the middle of that, my Wave of Reflection activated.
+
+I’d caused a good deal of damage before with the talent. I was still hazy on my very first activation, where I killed the Higher Skreeling. Yet, I’d never felt anything like this. A rising tide of energy erupted from within me, traveled back at the Soil Scourer and didn’t fucking stop! The beasts’s eyes flickered and lost cohesion, yet still the energy kept coming, moving past the Kadren, searching, seeking for more targets.
+
+The thunderous impact as the Soil Scourer hit the ground nearly knocked me off my feet. I caught myself, blinked at the shape before me, marveling at the fact that my Identify refused to activate. Fighting down the insane desire to giggle, I used my shield to push off, and started running.
+
+The Ever Steady went insane.
+
+In the less than ten seconds since the Liquid Fire went off, every single beast on the inside of the battlements was awake and running around, confused. In the background, I could see the bird’s tower, as well as the constructions settling into place around its slender shape. The others were still climbing the tower, maybe around two thirds up.
+
+Not yet. I couldn’t allow myself to focus on them. Not when there was an entire zoo of frenzied beasts between me and questionable safety.
+
+I mentally slammed down on my Running ability, doubling my running speed for a minute. On top of that, I added the Dodge ability, doubling my Agility for dodging for the same time. I was sorely going to need it. Then, I lowered my head, and, with a growl, flung myself into the chaos.
+
+For a while, there was nothing but survival. The Kadren who’d been surrounding the Higher Soil Scourer flung themselves at me, claws, teeth and the occasional talent trying to end my life prematurely. There were so many of them, I was barely able to react to every single attack, acting more on instinct. I was hurt not once, but dozens of times in less than half a minute as I tried to defend myself and still move in the right direction.
+
+What saved my life, ironically, was the chaos itself. A well-timed Deflect flung a Glimmerscale away, opening a path toward the tower, and suddenly, everything changed. The density of beasts remained consistently packed, and they still ran about, howling, hissing and screeching in concert. Yet, where the pack around my former target had specifically targeted me, now, they were running around aimlessly, reacting, but not acting. I flung myself ahead, ignoring the clear signs of surprise and fury, as the Kadren discovered an armed and armored human in their midst, counting on speed and evasion to take me to safety.
+
+My health was still going down. The Kadren had excellent reactions and, when they spotted me, were more likely to flick a limb in my direction or bite at me, than just gawk. Also, a few Riverkin from the Soil Scourer’s pack were fast enough to follow me, snapping at my heels, flinging some elemental attack at me as I ran.
+
+I didn’t slow down.
+
+Before I knew it, I’d actually reached the tower and the first step of Haddock’s weird-ass magical staircase. A short, squat Skreeling was scrabbling to get its bulk up the meter-high blocks. I leaped up the first step and hurriedly raised my shield as the Skreeling spotted me and kicked out with both hind legs. Deflect activated, flinging the beast down from the step, howling with fury as it went.
+
+I still did not slow down. I hit the next step, jumping up without slowing down to think. And the next.
+
+It had taken quite some time for Haddock to come up with the design for the steps. The tower was tall, perhaps ten meters tall. We weren’t going to try to rely on the handholds either, mostly because we wanted the beasts to be able to reach us.
+
+Haddock couldn’t create long enough blocks for us to create a real staircase, since there was a limit on the size of singular pieces in his Temporary Storage. He’d debated simply stacking them up all around the tower like a demented Tetris player, but it would use way too much material, and it’d also be slow, risking them getting caught halfway up.
+
+Steve had come with the solution. Apparently, it was inspired by some boot-and-belt outfit nature freaks used to climb trees safely in Canada. The platforms themselves were simple and flat, with just a few braces below the platform, pushing diagonally against the tower itself, and one bracing vertically against the platform below.
+
+It looked rickety as fuck. Yet, it actually held the damn thing in place, especially when Haddock then used his new Construction alteration ability to fling a thin band of his magical construction material all the way around the tower. The band, once affixed, ensured that the steps weren’t going anywhere, even with our weight on top. We’d practiced on actual trees, before finally scaling up to the current size. Also, with Haddock’s new Construction ability, he’d be able to alter steps, fling beasts to their deaths, add spikes and whatnot, if he wanted to. Since I hadn’t heard any human screams of pain from above me, I estimated that we were doing okay.
+
+The climb took less than a minute. Halfway up, I had to stop, and Deflect two persistent Riverkin way the hell into open air. The damn things just wouldn’t relent, and they were starting to cause some real damage. I managed to nail one of them with a Wave of Reflection, ending its furied screeches prematurely. The other one hit the ground like a damn circus artist and bounded straight for the start of the steps again.
+
+“It’s me!” I barked when I saw the edge of the platform approaching.
+
+A harried Steve lowered a blood-covered spear and exhaled in relief. “I’m glad you made it.” Then he disappeared, going invisible.
+
+“Me too, I wouldn’t want to miss this view.” I panted for breath as I stretched my aching back. Then I took in the surroundings.
+
+The platform itself was small. The tower was less than three meters across, and with four people up here, that made things damn cramped.
+
+Haddock and Nix were kneeling at the edge of the tower, Nix keeping up a constant commentary as the bearded softie added construction pieces to the edge of the tower, adjusting them to the actual dimensions we needed.
+
+I grinned at the sight of the reversed spike strips popping into being, leaning precariously out across the abyss, and properly secured with counterweights. Those were sure to ruin the day for any enterprising Riverkin or other Kadren who decided that they could climb the tower and take us by surprise.
+
+The top of the bird’s tower was nothing special. Actually, it was just a flat platform, with nothing like battlements or even a railing to make sure you didn’t go over the edge. I tried to imagine the captain’s mental state, when he first created the place, legless, slowly raising himself out of the reach of nearby predators by means of frigging handholds. It wasn’t pretty. But then, neither were our surroundings right now.
+
+Beyond the edge of the tower was… bedlam. Like a puppy playground, if you’d thrown a bagful of treats in there. The Kadren were still milling about, roaring and howling in confusion. Yet, slowly, even as the beasts rushed every which way, snarling and clawing at each other, new tones added to the mix. Ones of communication.
+
+An unnaturally loud hiss drowned out some of the nearby beasts who instantly shut up.  I tensed, as my Identify barely tagged one of our main adversaries.
+
+Higher Riverkin
+
+Level 33
+
+Health 320/320
+
+Path: Agility
+
+It raced about, flickering left and right almost faster than the eye could see. And where it went, chaos turned into obedience.
+
+Beyond the wall, I spotted the tail end of our people. They had to be deep inside the Kadren camps by now. Judging by the pain-filled howls coming from the outside, they were doing just fine. Regardless of whether that was a fact or just wishful thinking, there was no more time. We had to move on to the next step, or the Kadren would be able to restore order to this place.
+
+Within the wall, I noticed that a few of the crafter stations had actually still been standing. Enslaved people had likely been forced to keep crafting non-stop. I winced, as I saw a crafting stand, and a screaming woman, getting trampled by a raging Skreeling. Poor bastards.
+
+I looked at my own health and stamina.
+
+Health: 419/930
+
+Stamina: 321/930
+
+Could be worse. I also had my rainy-day points – five attribute points, ready for anything that might be needed to save my sorry hide… and I was stalling. Taking one of my three remaining healing cakes from my Personal Universe, I stuffed it into my face and said, through bites. “Well. We went and got them upset. Time to really piss them off.” With a mental nudge, I activated Mirror of All, keeping the idea in my mind that I wanted it to indiscriminately effect every single enemy in range, and turned the effect all the way up. I grinned down at the Higher Glimmerscale in the distance, imagining that I caught its eyes. “You wanted humanity? Here we are. Come get us!”
