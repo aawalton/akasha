@@ -190,10 +190,10 @@ export function reasonsIn(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const standing = manifestsIn(change.root, shadow)
-  if (standing.length === 0) return []
-  const at = new Set(standing.map((one) => one.at))
-  const packages = packagesIn(change, standing)
+  const manifests = manifestsIn(change.root, shadow)
+  if (manifests.length === 0) return []
+  const at = new Set(manifests.map((one) => one.at))
+  const packages = packagesIn(change, manifests)
   const page = pageIn(shadow)
   const formatting = matchingIn(change.root, shadow.codeAt)
   const reaching = overEachText((path, text) => reasonsIn(packages, path, text, page))
