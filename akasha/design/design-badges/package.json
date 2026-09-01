@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/design-badges",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./badge": "./badge/badge.module.code.tsx",
+    "./badge-layout-context": "./badge-layout-context/badge-layout-context.module.code.tsx",
+    "./badge-toggle-group": "./badge-toggle-group/badge-toggle-group.module.code.tsx",
+    "./button-badge": "./button-badge/button-badge.module.code.tsx",
+    "./checkbox-badge": "./checkbox-badge/checkbox-badge.module.code.tsx",
+    "./date-badge": "./date-badge/date-badge.module.code.tsx",
+    "./empty-badge": "./empty-badge/empty-badge.module.code.tsx",
+    "./input-badge": "./input-badge/input-badge.module.code.tsx",
+    "./instant-badge": "./instant-badge/instant-badge.module.code.tsx",
+    "./json-badge": "./json-badge/json-badge.module.code.tsx",
+    "./link-badge": "./link-badge/link-badge.module.code.tsx",
+    "./number-badge": "./number-badge/number-badge.module.code.tsx",
+    "./time-badge": "./time-badge/time-badge.module.code.tsx",
+    "./url-badge": "./url-badge/url-badge.module.code.tsx"
+  }
+}
