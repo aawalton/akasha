@@ -21,7 +21,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The design packages stand in akasha.",
       workingMemory:
-        "Three landed under akasha/design: badges, forms and layout. design-tokens went into shared/ instead. Three are held rather than merely hard: primitives, patterns and system each carry `.ts` beside `.tsx`, and `manifest-names-what-is-reached` reads `.ts` but not `.tsx`, so a mixed package must name exactly what its `.ts` files reach and leave out what only its `.tsx` reach. design-layout had to omit four real dependencies. That knot and the two copies of @types/react want Alan.",
+        "design-primitives stands and 360 files reach it, but 36 inside akasha still reach `@shared`: badges 9, forms 10, layout 15, sms-opt-in 1. Its carry is faithful under akasha's own rules, so `undefined` at keyboard-registry:18 stays. design-system holds no `.ts` at all and would be refused all ten dependencies it names; design-patterns is held by a barrel re-exporting two siblings. 16 dependencies go unnamed across the three landed. The blindness has two halves and one widens safely, see finding.",
     },
     {
       statement: "`pages-ui` stands in akasha.",
