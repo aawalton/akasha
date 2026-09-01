@@ -1,0 +1,36 @@
+{
+  "name": "@akasha/design-patterns",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./back-button": "./back-button/back-button.module.code.tsx",
+    "./build-values-from-fields": "./build-values-from-fields/build-values-from-fields.module.code.ts",
+    "./button-group": "./button-group/button-group.module.code.tsx",
+    "./chip": "./chip/chip.module.code.tsx",
+    "./chip-list": "./chip-list/chip-list.module.code.tsx",
+    "./empty": "./empty/empty.module.code.tsx",
+    "./group-utils": "./group-utils/group-utils.module.code.ts",
+    "./input-panel-card": "./input-panel-card/input-panel-card.module.code.tsx",
+    "./item": "./item/item.module.code.tsx",
+    "./kbd": "./kbd/kbd.module.code.tsx",
+    "./log-viewer": "./log-viewer/log-viewer.module.code.tsx",
+    "./lucide-icon": "./lucide-icon/lucide-icon.module.code.tsx",
+    "./path": "./path/path.module.code.ts",
+    "./sort-group-helpers": "./sort-group-helpers/sort-group-helpers.module.code.ts",
+    "./sort-types": "./sort-types/sort-types.module.code.ts",
+    "./use-scroll-restoration": "./use-scroll-restoration/use-scroll-restoration.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/design-layout": "workspace:*",
+    "@akasha/design-primitives": "workspace:*",
+    "@akasha/pages-core": "workspace:*",
+    "ansi-to-html": "^0.7.2",
+    "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.576.0",
+    "zod": "^4.3.6"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "@radix-ui/react-slot": "*"
+  }
+}
