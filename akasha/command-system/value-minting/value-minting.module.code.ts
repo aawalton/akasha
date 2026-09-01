@@ -108,12 +108,12 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
   const filled: Filled[] = []
   for (const one of changes) {
     const body = one.body
-    const standing =
+    const leftAlone =
       body === null ||
       one.carried === true ||
       !pageNamed(one.path, pageTypes) ||
       change.before(one.path) !== null
-    if (standing) {
+    if (leftAlone) {
       held.push(one)
       continue
     }
