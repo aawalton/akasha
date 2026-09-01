@@ -36,7 +36,7 @@ export const SCOPE: readonly string[] = [
   "WHAT IS WRITTEN:",
   "  one page under the subagents folder, named for its seat and the id the subagent runs under.",
   "  It states no id of its own, so the command that lands it mints one.",
-  "  It is landed by a writer of its own rather than under the seat or the subagent.",
+  "  It is landed by a program rather than by an agent, so no writer is named for it.",
   "",
   "WHAT IS LEFT ALONE:",
   "  a payload naming no subagent, which is the seat's own event",
