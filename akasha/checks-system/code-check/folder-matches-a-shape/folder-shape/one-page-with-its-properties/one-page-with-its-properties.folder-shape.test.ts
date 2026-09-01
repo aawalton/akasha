@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import { standingIn } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
 import { onePageWithItsProperties } from "./one-page-with-its-properties.folder-shape.code.ts"
 
 const FOLDER = "akasha/one"
 
 const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "check"])
 
-const folder = standingIn({ folder: FOLDER, pageTypes: PAGE_TYPES })
+const folder = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES })
 
 test("a folder holding no file at all takes the shape", () => {
   expect(onePageWithItsProperties(folder([]))).toEqual([])

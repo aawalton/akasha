@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { standingIn } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
 import { propertyPagesOnly } from "./property-pages-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/one/properties"
@@ -16,13 +16,13 @@ const PAGE_TYPES = new Set<string>([
 
 const EXTENDING = new Set<string>(["text-property", "relation-property", "boolean-property"])
 
-const folder = standingIn({
+const folder = folderFrom({
   folder: FOLDER,
   pageTypes: PAGE_TYPES,
   extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
 })
 
-const otherwise = standingIn({
+const otherwise = folderFrom({
   folder: OTHER,
   pageTypes: PAGE_TYPES,
   extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),

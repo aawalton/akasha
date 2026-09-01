@@ -9,7 +9,7 @@ export type Shaping = {
   readonly extending?: Standing["extending"]
 }
 
-export function standingIn(shaping: Shaping): (names: readonly string[]) => Standing {
+export function folderFrom(shaping: Shaping): (names: readonly string[]) => Standing {
   const extending = shaping.extending ?? ((): boolean => false)
   return (names: readonly string[]): Standing => {
     const held = names.map((each) =>
