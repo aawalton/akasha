@@ -7,7 +7,6 @@
     "./answer-write": "./answer-write/answer-write.module.code.ts",
     "./capture-error": "./capture-error/capture-error.module.code.ts",
     "./create": "./create/create.module.code.ts",
-    "./delete": "./deleting/deleting.module.code.ts",
     "./file-detail-config": "./file-detail-config/file-detail-config.module.code.ts",
     "./file-name": "./file-name/file-name.module.code.ts",
     "./file-read": "./file-read/file-read.module.code.ts",

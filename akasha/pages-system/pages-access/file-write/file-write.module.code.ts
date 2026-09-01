@@ -285,13 +285,6 @@ export async function patchFilePages(
   return patched
 }
 
-export function refuseUndelete(op: string, pageTypeSlug: string): undefined {
-  throw new FileWriteError(
-    pageTypeSlug,
-    `${op}(${pageTypeSlug}): this page type's pages are files, and a removal takes the file away rather than raising a flag on it, so there is nothing here to undelete. Bring it back with \`git revert\`, which carries the whole page rather than a column.`
-  )
-}
-
 export type RemoveFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere

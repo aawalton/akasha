@@ -12,10 +12,6 @@ export const WRITE_OVER_SERVER_OPS = [
   "patchPages",
   "upsertPage",
   "upsertPages",
-  "softDeletePage",
-  "softDeletePages",
-  "hardDeletePage",
-  "hardDeletePages",
 ] as const
 
 export type WriteOverServerOp = (typeof WRITE_OVER_SERVER_OPS)[number]

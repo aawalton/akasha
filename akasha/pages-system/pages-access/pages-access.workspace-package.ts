@@ -12,7 +12,6 @@ export const pagesAccess = {
     "module/capture-error",
     "module/create",
     "module/cursor",
-    "module/deleting",
     "module/domain-title-prefix",
     "module/file-detail-config",
     "module/file-name",

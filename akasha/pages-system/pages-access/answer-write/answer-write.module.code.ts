@@ -8,12 +8,6 @@ import {
   createPageIfAbsent,
 } from "../create/create.module.code.ts"
 import {
-  hardDeletePage,
-  hardDeletePages,
-  softDeletePage,
-  softDeletePages,
-} from "../deleting/deleting.module.code.ts"
-import {
   isWriteOverServerOp,
   type WriteOverServerOp,
 } from "../over-server/over-server.module.code.ts"
@@ -118,12 +112,6 @@ const UPSERT_PAGES_ARGS = z.object({
   pipelineScope: PIPELINE_SCOPE,
 })
 
-const DELETE_PAGE_ARGS = z.object({
-  pageTypeSlug: PAGE_TYPE_SLUG,
-  where: PAGE_WHERE,
-  select: PAGE_SELECT,
-})
-
 export type PageWriteAnswer = Page | readonly Page[] | CreatePageIfAbsentResult | null
 
 export async function runPageWrite(asked: PageWriteAsked): Promise<PageWriteAnswer> {
@@ -141,14 +129,6 @@ export async function runPageWrite(asked: PageWriteAsked): Promise<PageWriteAnsw
       return upsertPage(UPSERT_PAGE_ARGS.parse(args))
     case "upsertPages":
       return upsertPages(UPSERT_PAGES_ARGS.parse(args))
-    case "softDeletePage":
-      return softDeletePage(DELETE_PAGE_ARGS.parse(args))
-    case "softDeletePages":
-      return softDeletePages(DELETE_PAGE_ARGS.parse(args))
-    case "hardDeletePage":
-      return hardDeletePage(DELETE_PAGE_ARGS.parse(args))
-    case "hardDeletePages":
-      return hardDeletePages(DELETE_PAGE_ARGS.parse(args))
     default:
       return assertNever(op)
   }
