@@ -1,0 +1,21 @@
+{
+  "name": "@akasha/health-samples-import",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./health-export": "./health-export/health-export.module.code.ts",
+    "./health-import": "./health-import/health-import.module.code.ts",
+    "./health-import-reading": "./health-import-reading/health-import-reading.module.code.ts",
+    "./health-import-run": "./health-import-run/health-import-run.module.code.ts",
+    "./laptop-host": "./laptop-host/laptop-host.module.code.ts",
+    "./ssh-streaming": "./ssh-streaming/ssh-streaming.module.code.ts",
+    "./export-fetching": "./export-fetching/export-fetching.module.code.ts",
+    "./health-snapshot": "./health-snapshot/health-snapshot.module.code.ts"
+  },
+  "dependencies": {
+    "@akasha/health-samples-access": "workspace:*",
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-fs": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
