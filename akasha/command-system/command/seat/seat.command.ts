@@ -13,7 +13,10 @@ export const seat = {
       said: "restart",
       takes: "the act, which is to restart that process onto the code standing now",
     },
-    { said: "--all", takes: "every seat akasha carries, which is the only reach there is" },
+    { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
+    { said: "stop", takes: "the act, which is to end that process and take the page it held" },
+    { said: "<name>", takes: "the seat to stop, named as its page is named" },
+    { said: "--force", takes: "stop it though subagents are working, ending them with it" },
   ],
   helpNotes: [
     "the words stand in order, and one call names one act.",
@@ -21,6 +24,9 @@ export const seat = {
     "a supervisor takes the ask as it shuts down and re-execs in place, carrying the client it holds across.",
     "the session in the seat outlives the restart, which is the whole reason this is not a seat restart.",
     "a seat naming no supervisor still standing is reported and left alone.",
+    "a stop names one seat, where a restart reaches every one of them.",
+    "a stop ends what the seat dispatched before it ends the seat, so nothing is left orphaned.",
+    "a name no seat holds a page for answers as a data refusal, which a caller can tell from a misspelling.",
   ],
   invariants: [
     {
@@ -57,8 +63,26 @@ export const seat = {
       statement: "A fleet answered as holding no seat is the pages being wrong.",
     },
     {
+      invariantKind: "departure",
+      statement: "A restart reaches every seat and a stop reaches one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name no seat holds a page for is answered apart from a word this does not take.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A flag standing where the seat should be named is refused rather than read as a name.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here restarts a client.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here stops a seat by anything but the name its page carries.",
     },
   ],
 } as const satisfies Command
