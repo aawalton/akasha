@@ -18,6 +18,8 @@ export const REL = listed("that which who whom whose where when what")
 
 export const REL_NOUN = listed("what")
 
+export const DEM = listed("this that these those")
+
 export const RATHER = listed("rather")
 
 export const THAN = listed("than")
@@ -58,6 +60,7 @@ export type WordClass =
   | "ADV"
   | "CONJ"
   | "SUBORD"
+  | "DEM"
   | "RATHER"
   | "THAN"
   | "N"
@@ -81,6 +84,7 @@ const CLOSED: readonly (readonly [ReadonlySet<string>, WordClass])[] = [
   [ADV, "ADV"],
   [CONJ, "CONJ"],
   [SUBORD, "SUBORD"],
+  [DEM, "DEM"],
   [RATHER, "RATHER"],
   [THAN, "THAN"],
 ]
