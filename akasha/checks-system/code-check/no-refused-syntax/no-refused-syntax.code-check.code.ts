@@ -122,10 +122,10 @@ export function rulesIn(
 }
 
 export function refusalsIn(rules: readonly Rule[], path: string, text: string): readonly string[] {
-  const standing: Standing = { path, source: parsedAs(path, text) }
+  const parsed: Standing = { path, source: parsedAs(path, text) }
   const said: string[] = []
   for (const rule of rules) {
-    for (const one of rule.judge(standing)) {
+    for (const one of rule.judge(parsed)) {
       said.push(`line ${one.line}: ${one.reason} — \`${rule.slug}\``)
     }
   }
