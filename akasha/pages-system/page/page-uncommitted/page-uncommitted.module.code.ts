@@ -25,13 +25,13 @@ const WAITED = 5
 
 const WAITED_AT_MOST = 20000
 
-const STOOD_TOO_LONG = 10000
+const HELD_AT_MOST = 10000
 
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
   if (held !== null) return !alive(held)
   const lockAt = statSync(lock, { throwIfNoEntry: false })
-  return lockAt !== undefined && Date.now() - lockAt.mtimeMs >= STOOD_TOO_LONG
+  return lockAt !== undefined && Date.now() - lockAt.mtimeMs >= HELD_AT_MOST
 }
 
 function taken(lock: string, mine: string): boolean {
