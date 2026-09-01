@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { gitIn } from "@akasha/testing-system/gitting"
+import { said as gitIn } from "@akasha/git/git-running"
 import { admitting } from "@akasha/testing-system/minting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"

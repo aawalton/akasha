@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { warrantsStanding } from "@akasha/context-system/warranting/testing"
+import { said as gitIn } from "@akasha/git/git-running"
 import { listedAt, namersOf } from "@akasha/indexes"
 import {
   importFiled,
@@ -11,7 +12,6 @@ import {
 } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages-system/page-export-name"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { gitIn } from "@akasha/testing-system/gitting"
 import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"

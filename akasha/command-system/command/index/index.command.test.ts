@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { said as git } from "@akasha/git/git-running"
 import { indexNamed, indexStanding } from "@akasha/indexes"
 import {
   besideTheIndex,
@@ -17,7 +18,6 @@ import {
 import { id as idPage } from "@akasha/pages-system/page/id"
 import { slug as slugPage } from "@akasha/pages-system/page/slug"
 import { textProperty } from "@akasha/pages-system/text-property"
-import { gitIn as git } from "@akasha/testing-system/gitting"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { calling } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"

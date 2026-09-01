@@ -4,9 +4,9 @@ import { join } from "node:path"
 import { blobIdOf, readingIn, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { standing } from "@akasha/command-system/scratching/testing"
+import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, pageFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { gitIn } from "@akasha/testing-system/gitting"
 import {
   assignedTo,
   bodyOf,

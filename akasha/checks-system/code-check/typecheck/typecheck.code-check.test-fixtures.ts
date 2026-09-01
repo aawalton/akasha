@@ -1,6 +1,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { said as gitIn } from "@akasha/git/git-running"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import { importIn } from "@akasha/indexes/import"
 import { indexImport } from "@akasha/indexes/import/page"
@@ -14,7 +15,6 @@ import {
   stampedIn,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages-system/change"
-import { gitIn } from "@akasha/testing-system/gitting"
 import { put, stands } from "@akasha/testing-system/putting"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { gitIn } from "@akasha/testing-system/gitting"
+import { said as gitIn } from "@akasha/git/git-running"
 import { namedIn, type Placing, placedIn, reading, refusalIn } from "./page-reading.module.code.ts"
 
 const scratch = scratchWorld()

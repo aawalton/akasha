@@ -1,6 +1,6 @@
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { said as gitIn } from "@akasha/git/git-running"
 import { linesFiled, stampedIn } from "@akasha/indexes/testing"
-import { gitIn } from "@akasha/testing-system/gitting"
 import { put } from "@akasha/testing-system/putting"
 
 const GRAPH_EDGE = "graph-edge"

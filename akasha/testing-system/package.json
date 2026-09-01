@@ -5,7 +5,6 @@
   "exports": {
     "./bodying": "./bodying/bodying.module.code.ts",
     "./declaring": "./declaring/declaring.module.code.ts",
-    "./gitting": "./gitting/gitting.module.code.ts",
     "./minting": "./minting/minting.module.code.ts",
     "./putting": "./putting/putting.module.code.ts",
     "./waiting": "./waiting/waiting.module.code.ts",

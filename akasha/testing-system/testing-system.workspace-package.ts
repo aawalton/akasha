@@ -12,7 +12,6 @@ export const testingSystem = {
     "module/declaring",
     "module/minting",
     "module/bodying",
-    "module/gitting",
     "module/waiting",
     "module/walking",
     "module/putting",
