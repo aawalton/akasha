@@ -1,6 +1,6 @@
 import {
+  listedAddressed,
   listedAt,
-  standingAddressed,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
@@ -33,7 +33,7 @@ function namedAt(root: string, path: string, key: string): string | null {
 function domainOf(root: string, path: string): readonly Warrant[] {
   const named = namedAt(root, path, DOMAIN_KEY)
   if (named === null) return []
-  const standing = standingAddressed(root, named, DOMAIN_TYPE)
+  const standing = listedAddressed(root, named, DOMAIN_TYPE)
   return standing === null ? [] : warrantAt(root, standing.path, WITHIN)
 }
 

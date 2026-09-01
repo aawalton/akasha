@@ -8,10 +8,10 @@ import { indexAt, indexIn } from "../index-surface/index-surface.module.code.ts"
 import {
   everyPath,
   importersOf,
+  listedAddressed,
   listedById,
   readingIn,
   schemaOf,
-  standingAddressed,
   standingByPath,
 } from "./index-reading.module.code.ts"
 import {
@@ -40,8 +40,8 @@ test("a page an address names is answered under the page type that address state
   const held = { path: "akasha/one/one.workspace-package.ts", id: A }
   standingFiled(root, "workspace-package", "one", [held])
 
-  expect(standingAddressed(root, "workspace-package/one", "domain")).toEqual(held)
-  expect(standingAddressed(root, "domain/one", "domain")).toBe(null)
+  expect(listedAddressed(root, "workspace-package/one", "domain")).toEqual(held)
+  expect(listedAddressed(root, "domain/one", "domain")).toBe(null)
 })
 
 test("an address stating no page type is answered under the one its caller names", () => {
@@ -49,8 +49,8 @@ test("an address stating no page type is answered under the one its caller names
   const held = { path: "akasha/one/one.domain.ts", id: A }
   standingFiled(root, "domain", "one", [held])
 
-  expect(standingAddressed(root, "one", "domain")).toEqual(held)
-  expect(standingAddressed(root, "one", "workspace-package")).toBe(null)
+  expect(listedAddressed(root, "one", "domain")).toEqual(held)
+  expect(listedAddressed(root, "one", "workspace-package")).toBe(null)
 })
 
 test("an address naming a page by its id is answered by that id", () => {
@@ -58,7 +58,7 @@ test("an address naming a page by its id is answered by that id", () => {
   const held = { path: "akasha/a.module.ts", id: A }
   idFiled(root, A, [held])
 
-  expect(standingAddressed(root, A, "domain")).toEqual(held)
+  expect(listedAddressed(root, A, "domain")).toEqual(held)
 })
 
 function committedAt(): string {

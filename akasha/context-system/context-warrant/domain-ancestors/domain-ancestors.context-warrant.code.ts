@@ -1,9 +1,9 @@
 import {
   idsNaming,
   type Listed,
+  listedAddressed,
   listedAt,
   listedById,
-  standingAddressed,
 } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
 import { slugStated, typeStated } from "../../agent-stated/agent-stated.module.code.ts"
@@ -26,7 +26,7 @@ function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)
   const named = value === null ? null : textAt(value, DOMAIN_KEY)
   if (named === null) return undefined
-  return standingAddressed(root, named, DOMAIN_TYPE) ?? undefined
+  return listedAddressed(root, named, DOMAIN_TYPE) ?? undefined
 }
 
 function answeredFor(root: string, path: string): Listed | undefined {

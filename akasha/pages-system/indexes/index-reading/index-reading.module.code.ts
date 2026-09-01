@@ -138,7 +138,7 @@ export function listedById(given: string | Reading, id: string): Listed | null {
   )
 }
 
-export function standingAddressed(
+export function listedAddressed(
   given: string | Reading,
   named: string,
   unqualified: string
