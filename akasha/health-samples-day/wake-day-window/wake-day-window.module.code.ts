@@ -1,8 +1,3 @@
-import { getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
-import { askComposed } from "@shared/pages-query/ask"
-
-const MAX_DAY_SESSIONS = 200
-
 export interface DayWindow {
   readonly from: string
   readonly to: string
@@ -13,6 +8,14 @@ export interface SleepBlockInput {
   readonly startTime: unknown
   readonly endTime: unknown
 }
+
+export const SLEEP_PAGE_TYPES = ["daily-tracking", "session-tracking"] as const
+
+const NOTHING_ANSWERS = [
+  `\`${SLEEP_PAGE_TYPES.join("` and `")}\` sit in the old page store rather than in akasha,`,
+  "and the pages system service answers for akasha alone.",
+  "when Alan woke is read nowhere.",
+].join(" ")
 
 function isSleepTitle(title: unknown): boolean {
   return typeof title === "string" && title.trim().toLowerCase() === "sleep"
@@ -38,42 +41,6 @@ export function wakeInstantFromBlocks(
   return earliest === null ? null : new Date(earliest)
 }
 
-async function wakeInstantForDay(dayStr: string): Promise<Date> {
-  const esoWindow = getEsoDayWindow(dayStr)
-  const dailyAsked = await askComposed({
-    "page-type": "daily-tracking",
-    where: { date: { is: dayStr } },
-    limit: 1,
-  })
-  if (!dailyAsked.ok) {
-    throw new Error(`wakeInstantForDay: ${dailyAsked.why}`)
-  }
-  const daily = dailyAsked.answer.rows[0]
-  if (daily === undefined) return esoWindow.start
-  const dailyId = daily.values["id"]
-  const sessionsAsked = await askComposed({
-    "page-type": "session-tracking",
-    where: { "daily-tracking": { is: dailyId } },
-    "sort-by": "start-time",
-    descending: false,
-    limit: MAX_DAY_SESSIONS,
-  })
-  if (!sessionsAsked.ok) {
-    throw new Error(`wakeInstantForDay: ${sessionsAsked.why}`)
-  }
-  const wake = wakeInstantFromBlocks(
-    sessionsAsked.answer.rows.map((r) => ({
-      title: r.values["title"],
-      startTime: r.values["start-time"],
-      endTime: r.values["end-time"],
-    })),
-    esoWindow
-  )
-  return wake ?? esoWindow.start
-}
-
 export async function getWakeDayWindow(dayStr: string): Promise<DayWindow> {
-  const nextDayStr = getEsoDayStrOffset(getEsoDayWindow(dayStr).start, 1)
-  const [from, to] = await Promise.all([wakeInstantForDay(dayStr), wakeInstantForDay(nextDayStr)])
-  return { from: from.toISOString(), to: to.toISOString() }
+  throw new Error(`getWakeDayWindow: ${NOTHING_ANSWERS} ${dayStr} has no window`)
 }

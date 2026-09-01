@@ -9,15 +9,23 @@ export const openQuestionCount = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The count is asked of the store rather than held here.",
+      statement: "A count raises rather than answering nought.",
     },
     {
       invariantKind: "departure",
-      statement: "A count that cannot be asked for raises rather than answering nought.",
+      statement: "A refusal names the page type nothing answers for.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here says which questions they are.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A question is a page akasha carries.",
     },
   ],
 } as const satisfies Module

@@ -9,23 +9,23 @@ export const sampleUpsert = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Two readings carried in under one name land as the later of the two.",
+      statement: "This raises rather than reporting that nothing was written.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading that already stood keeps the row the reading stood in.",
+      statement: "A refusal names the page type nothing lands under.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading that already stood keeps the arrival the reading had.",
+      statement: "A refusal says how many readings were lost.",
     },
     {
-      invariantKind: "departure",
-      statement: "A day no page stands for is written before its readings land.",
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
     },
     {
-      invariantKind: "departure",
-      statement: "What was written is reported as counts rather than as the readings themselves.",
+      invariantKind: "gap",
+      statement: "A health reading is a page akasha carries.",
     },
   ],
 } as const satisfies Module

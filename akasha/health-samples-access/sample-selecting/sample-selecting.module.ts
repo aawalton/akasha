@@ -9,19 +9,23 @@ export const sampleSelecting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A span holds the instant the span starts at.",
+      statement: "This raises rather than answering a span that held nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A span stops before the instant the span ends at.",
+      statement: "A refusal names the page type nothing answers for.",
     },
     {
       invariantKind: "departure",
-      statement: "A store that cannot answer throws rather than reading as no readings.",
+      statement: "A refusal names the metric and the span asked for.",
     },
     {
-      invariantKind: "departure",
-      statement: "A row answered under some other metric is dropped.",
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A health reading is a page akasha carries.",
     },
   ],
 } as const satisfies Module

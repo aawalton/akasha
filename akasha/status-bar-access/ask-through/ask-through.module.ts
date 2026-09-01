@@ -9,15 +9,27 @@ export const askThrough = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A query the store refuses throws rather than answering nothing.",
+      statement: "A port is made for each call rather than held between calls.",
     },
     {
       invariantKind: "departure",
-      statement: "A binding is made for each call rather than held between calls.",
+      statement: "Every call through the port raises.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the query the caller asked for.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here names a query or a readout.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A readout is drawn from a query its caller states whole.",
     },
   ],
 } as const satisfies Module

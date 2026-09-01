@@ -13,8 +13,12 @@ export const healthSamplesDay = {
       statement: "Nothing here writes a reading down.",
     },
     {
-      invariantKind: "departure",
-      statement: "Where the store holds no sleep the ESO day stands in.",
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A day's sleep is read from pages akasha carries.",
     },
   ],
 } as const satisfies WorkspacePackage

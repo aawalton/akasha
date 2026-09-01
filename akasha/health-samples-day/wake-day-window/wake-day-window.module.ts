@@ -13,10 +13,6 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A day the store holds no sleep for starts where its ESO day starts.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A block titled anything but sleep is passed over.",
     },
     {
@@ -25,7 +21,19 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "A store that cannot answer throws rather than reading as no sleep.",
+      statement: "The blocks a day held are handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window raises rather than reading as the ESO day's own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reaches a page.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A day's sleep is read from pages akasha carries.",
     },
   ],
 } as const satisfies Module

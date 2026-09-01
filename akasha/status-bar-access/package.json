@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "@akasha/health-samples-access": "workspace:*",
-    "@shared/pages-query": "workspace:*",
     "readouts": "workspace:*"
   }
 }

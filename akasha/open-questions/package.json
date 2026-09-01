@@ -9,7 +9,6 @@
     "./question-status": "./question-status/question-status.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-core": "workspace:*",
-    "@shared/pages-query": "workspace:*"
+    "@akasha/pages-core": "workspace:*"
   }
 }
