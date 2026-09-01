@@ -1,0 +1,9 @@
+{
+  "name": "@akasha/file-system",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./data-place": "./data-place/data-place.module.code.ts",
+    "./lock-holder": "./lock-holder/lock-holder.module.code.ts"
+  }
+}
