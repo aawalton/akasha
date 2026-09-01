@@ -56,9 +56,9 @@ export function bodyOf(
 }
 
 export function assignedTo(root: string, seatName: string): string | null {
-  const standing = listedAt(root, SEAT, seatName)[0]
-  if (standing === undefined) return null
-  const value = valueAt(standing.path, root)
+  const listed = listedAt(root, SEAT, seatName)[0]
+  if (listed === undefined) return null
+  const value = valueAt(listed.path, root)
   const stated = value === null ? null : textAt(value, ASSIGNMENT)
   return stated === null || stated === "" ? null : stated
 }
