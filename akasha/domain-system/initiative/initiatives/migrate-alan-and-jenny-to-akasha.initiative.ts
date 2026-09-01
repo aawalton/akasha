@@ -9,9 +9,15 @@ export const migrateAlanAndJennyToAkasha = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Jenny's unreviewed transaction iOS widget works.",
+      statement: "The web pods are never killed for failing to answer.",
       workingMemory:
-        "Server side is proven: her routes answer, the relay carries 9 to smilingjenny.me, and her Swift rebuilt clean after the readout-serving rename with BUILD SUCCEEDED and BUILD_SIM_OK on me.smilingjenny.app, carrying smilingjenny-categorize-widget and the shared categorize-ring. What is unknown is her phone: TestFlight holds build 20 VALID and ready to install, but no mobile-cut page records what it was built from, so whether it carries the widget is not written down anywhere.",
+        "Open, cause unknown. web-868f5f9c55-kv58b failed its liveness probe six times between 20:33:44Z and 20:34:34Z and was killed, minutes after I wrongly filed that the kills had stopped. Ruled out by measurement: memory at 141Mi of 512Mi where an OOM records 137 rather than 139; throttling at 1 period of 497; tree size at 71,445 files in 93ms. Taking readoutCatalog off the request path did not fix it. Unmeasured: what the container does through the minute it stops answering.",
+    },
+    {
+      statement: "Alan's and Jenny's safety iOS widgets work.",
+    },
+    {
+      statement: "Alan's and Jenny's surplus iOS widgets work.",
     },
     {
       statement: "Jenny's site deploys from akasha.",

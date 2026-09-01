@@ -41,7 +41,7 @@ export const monarch = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan's tile draws the unreviewed count his workstation last took.",
+      statement: "Every tile drawing the reading shows the count Alan's workstation last took.",
     },
   ],
 } as const satisfies Domain
