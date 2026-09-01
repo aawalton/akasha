@@ -37,7 +37,7 @@ type Trees = {
   readonly sweep: () => undefined
 }
 
-function treesStanding(): Trees {
+function treesSeeded(): Trees {
   const root = mkdtempSync(join(HOLD, TREES_AT))
   const git = (...argv: readonly string[]): undefined => {
     saying(["git", "-C", root, ...argv])
@@ -65,7 +65,7 @@ function treesStanding(): Trees {
   }
 }
 
-const TREES = treesStanding()
+const TREES = treesSeeded()
 
 function scratchesStanding(): number {
   return readdirSync(HOLD).filter((one) => one.startsWith(GATE_AT)).length
