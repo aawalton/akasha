@@ -1,7 +1,7 @@
 "use client"
 
 import { countOpenQuestions } from "@akasha/open-questions/open-question-count"
-import { UserIdContext } from "@shared/pages-ui/use-user-id"
+import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { useContext, useEffect } from "react"
 import { getBadge, isNativeShell } from "~/lib/capacitor-bridge"
 import { OPEN_QUESTIONS_RESYNC_EVENT } from "~/lib/open-questions-resync"

@@ -12,7 +12,7 @@ import { PageCard } from "./page-card.tsx"
 import { PageCardNotes } from "./page-card-notes.tsx"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import { readRelationConfig } from "./page-system-view-helpers.tsx"
-import { buildRelationBackLinkHref, buildRowHref } from "./view-tab-content-href.ts"
+import { buildRelationBackLinkHref, buildRowHref } from "@akasha/pages-ui/components/view-tab-content-href"
 
 interface PageCardRendererProps {
   page: PageRow

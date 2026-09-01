@@ -12,7 +12,7 @@ import {
   type CreateSelectOptionEffect,
   PagesUIOptionCreateProvider,
 } from "@shared/pages-ui/option-create-context"
-import { useUserId } from "@shared/pages-ui/use-user-id"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { useActiveQuickAddPageType } from "@shared/pages-ui/components/quick-add/use-active-quick-add-page-type"
 import { PagesUILinkProvider, PagesUIRouterProvider } from "@shared/pages-ui/router-context"
 import { useAllPages } from "@shared/pages-ui/supabase/hooks"

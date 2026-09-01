@@ -6,7 +6,7 @@ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { buildRelationBackLinkHref, readRelationConfig } from "./view-tab-content-href"
+import { buildRelationBackLinkHref, readRelationConfig } from "@akasha/pages-ui/components/view-tab-content-href"
 
 export interface PagesFilteredHrefs {
   buildRowHref: (row: PageRow) => string

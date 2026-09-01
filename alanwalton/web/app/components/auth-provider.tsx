@@ -1,6 +1,6 @@
 "use client"
 
-import { UserIdContext } from "@shared/pages-ui/use-user-id"
+import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
 import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"

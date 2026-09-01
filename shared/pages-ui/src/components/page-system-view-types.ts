@@ -5,7 +5,7 @@ import type { ReactNode } from "react"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import type { PageTypeOption } from "./page-system-view-settings-types"
+import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
 import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 
 export interface ServerGroupedSection {

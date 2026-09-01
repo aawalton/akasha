@@ -2,7 +2,7 @@
 
 import { Toaster } from "@akasha/design-primitives/sonner"
 import { PlayingSessionProvider } from "@shared/pages-ui/media/playing-session-context"
-import { useUserId } from "@shared/pages-ui/use-user-id"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { type ReactNode, useMemo } from "react"
 import { Outlet } from "react-router"

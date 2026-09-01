@@ -17,14 +17,14 @@ import { type PageWithProperties } from "@akasha/pages-ui/supabase/page-with-pro
 import { useOptionListLookup } from "../supabase/use-option-list-lookup.ts"
 import { viewDataOfPage } from "../supabase/view-data-of-page.ts"
 import { type PageRow } from "@akasha/pages-ui/view-engine/view-row"
-import { useViewRowAggregates } from "../view-engine/use-view-row-aggregates.ts"
-import { useViewRowRollups } from "../view-engine/use-view-row-rollups.ts"
+import { useViewRowAggregates } from "@akasha/pages-ui/view-engine/use-view-row-aggregates"
+import { useViewRowRollups } from "@akasha/pages-ui/view-engine/use-view-row-rollups"
 import { buildServerGroupedSections } from "./build-server-grouped-sections.ts"
 import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import type { PageTypeOption } from "./page-system-view-settings-types.ts"
+import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
 import type { ServerGroupedSection } from "./page-system-view-types.ts"
-import { buildPageTypeSlugMaps, resolveRowPageTypeSlug } from "./view-tab-content-href.ts"
-import { selectViewQueryResult } from "./view-tab-content-results.ts"
+import { buildPageTypeSlugMaps, resolveRowPageTypeSlug } from "@akasha/pages-ui/components/view-tab-content-href"
+import { selectViewQueryResult } from "@akasha/pages-ui/components/view-tab-content-results"
 
 export interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined

@@ -10,8 +10,8 @@ import {
   useAcquireSlug,
   useAcquireSlugs,
   usePipelineLive,
-} from "./tanstack-live"
-import { useCoreDefinitionsReady } from "./use-core-definitions-ready"
+} from "@akasha/pages-ui/cache/tanstack-live"
+import { useCoreDefinitionsReady } from "@akasha/pages-ui/cache/use-core-definitions-ready"
 
 
 export type UseViewQueryResult = {

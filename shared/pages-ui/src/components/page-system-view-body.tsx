@@ -13,8 +13,8 @@ import { PageListSection } from "./page-list-section"
 import { PageViewEmpty, TimelineLayoutBody } from "./page-system-view-helpers"
 import type { PageSystemTabContentProps, ServerGroupedSection } from "./page-system-view-types"
 import type { withColumnWidths } from "./page-table-widths"
-import type { useBoardViewWiring } from "./use-board-view-wiring"
-import type { useCalendarViewWiring } from "./use-calendar-view-wiring"
+import type { useBoardViewWiring } from "@akasha/pages-ui/components/use-board-view-wiring"
+import type { useCalendarViewWiring } from "@akasha/pages-ui/components/use-calendar-view-wiring"
 
 export interface PageSystemViewBodyProps
   extends Pick<

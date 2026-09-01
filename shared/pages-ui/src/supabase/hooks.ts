@@ -8,7 +8,7 @@ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
-import { useAcquireSlug, usePipelineLive } from "../cache/tanstack-live"
+import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,

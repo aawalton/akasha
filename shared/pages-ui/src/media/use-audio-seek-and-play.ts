@@ -1,5 +1,5 @@
 import { type Dispatch, type RefObject, useCallback, useRef } from "react"
-import { shouldSeekInPlace } from "./play-from-sentence"
+import { shouldSeekInPlace } from "@akasha/pages-ui/media/play-from-sentence"
 import type {
   ActiveSessionInit,
   PlayingSessionAction,

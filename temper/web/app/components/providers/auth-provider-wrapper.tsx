@@ -2,7 +2,7 @@
 
 import { AuthContext, type AuthContextValue } from "@shared/auth/use-auth"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { UserIdContext } from "@shared/pages-ui/use-user-id"
+import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { SupabasePageResolverProvider } from "@shared/pages-ui/supabase/page-resolver-provider"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"

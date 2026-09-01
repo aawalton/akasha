@@ -3,7 +3,7 @@
 import { decidePermissionAction } from "@akasha/person-system/push-permission"
 import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
 import { decidePushRoute } from "@akasha/person-system/push-routing"
-import { UserIdContext } from "@shared/pages-ui/use-user-id"
+import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 import { apiFetch } from "~/lib/api-fetch"
