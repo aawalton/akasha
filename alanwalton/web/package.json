@@ -31,6 +31,7 @@
     "@akasha/sms-access": "workspace:*",
     "@akasha/sms-core": "workspace:*",
     "@akasha/voice-core": "workspace:*",
+    "@akasha/id-minting": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "@collections/litrpg": "workspace:*",

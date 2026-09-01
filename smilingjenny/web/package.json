@@ -26,6 +26,7 @@
     "@shared/supabase-rr": "workspace:*",
     "@shared/supabase-server": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",
+    "@akasha/id-minting": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "isbot": "^5.1.36",

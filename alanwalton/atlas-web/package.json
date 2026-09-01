@@ -40,6 +40,7 @@
     "@shared/supabase-server": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "@akasha/web-build-sha": "workspace:*",
+    "@akasha/id-minting": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",

@@ -1,6 +1,6 @@
 import { join } from "node:path"
+import { randomId } from "@akasha/id-minting"
 import { type AppCspConfig, buildSecurityHeaders } from "@akasha/web-security-headers/security-headers"
-import { generateNonce } from "@akasha/web-security-headers/csp-nonce"
 import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"
@@ -48,7 +48,7 @@ Bun.serve({
     const staticRes = await serveClientStatic(pathname, CLIENT_DIR)
     if (staticRes) return staticRes
 
-    const nonce = generateNonce()
+    const nonce = randomId()
     const resp = await handler(request, { nonce })
     const contentType = resp.headers.get("content-type") ?? ""
     if (contentType.startsWith("text/html")) {
