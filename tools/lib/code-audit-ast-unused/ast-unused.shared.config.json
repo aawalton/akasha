@@ -22,7 +22,7 @@
         "**/*.{ts,tsx}"
       ]
     },
-    "shared/object-store": {
+    "akasha/object-store": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

@@ -94,9 +94,6 @@
       "path": "./shared/pages-ui/tsconfig.test.json"
     },
     {
-      "path": "./shared/object-store"
-    },
-    {
       "path": "./alanwalton/web"
     },
     {
