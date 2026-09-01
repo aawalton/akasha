@@ -18,9 +18,16 @@ const REACH = [
 const SHORTER =
   "A body that moved since your record holds it comes back as what changed, where that is shorter."
 
+const DECIDING =
+  "NAMING DECISION — not a reading to clear, and it may mean renaming what your change writes."
+
+const DECIDE = "Decide what you meant, then read the page stating it to answer this:"
+
 const PAGE_TYPE = "page-type"
 
 const WARRANT = "context-warrant"
+
+const TABOO_TERM = "taboo-term"
 
 const SEAT = "seat"
 
@@ -41,6 +48,11 @@ export type Warrant = {
   readonly path: string
   readonly oid: string
   readonly owed: string
+}
+
+export type Owing = {
+  readonly warrant: Warrant
+  readonly held: string | null
 }
 
 export type Known = {
@@ -86,7 +98,23 @@ export function knowingIn(root: string): Knowing {
     })
 }
 
+export function fromTabooTerm(warrant: Warrant): boolean {
+  return namedIn(warrant.path)?.tail === TABOO_TERM
+}
+
 export function notReadOf(warrant: Warrant): string {
+  if (fromTabooTerm(warrant)) {
+    return [
+      DECIDING,
+      `${warrant.path} states the term.`,
+      warrant.owed,
+      DECIDE,
+      "",
+      `  ${READ_CALL} ${warrant.path}`,
+      "",
+      REACH,
+    ].join("\n")
+  }
   return [
     `${warrant.path} — the record does not show you read this.`,
     warrant.owed,
@@ -99,9 +127,23 @@ export function notReadOf(warrant: Warrant): string {
 }
 
 export function movedOf(warrant: Warrant, held: string): string {
+  const moved = `Your record holds ${held}, and ${warrant.oid} stands there now.`
+  if (fromTabooTerm(warrant)) {
+    return [
+      DECIDING,
+      `${warrant.path} states the term, and it has changed since you read it.`,
+      moved,
+      warrant.owed,
+      DECIDE,
+      "",
+      `  ${READ_CALL} ${warrant.path}`,
+      "",
+      SHORTER,
+    ].join("\n")
+  }
   return [
     `${warrant.path} — you read this, and it has changed since.`,
-    `Your record holds ${held}, and ${warrant.oid} stands there now.`,
+    moved,
     warrant.owed,
     "It is read again here:",
     "",
@@ -109,6 +151,17 @@ export function movedOf(warrant: Warrant, held: string): string {
     "",
     SHORTER,
   ].join("\n")
+}
+
+export function sayingOf(owing: Owing): string {
+  return owing.held === null ? notReadOf(owing.warrant) : movedOf(owing.warrant, owing.held)
+}
+
+export function termFirst(owed: readonly Owing[]): readonly Owing[] {
+  return [
+    ...owed.filter((one) => fromTabooTerm(one.warrant)),
+    ...owed.filter((one) => !fromTabooTerm(one.warrant)),
+  ]
 }
 
 export function blobAt(root: string, path: string): string | null {
@@ -249,6 +302,38 @@ export function warrantedIn(root: string, paths: readonly string[]): readonly st
   return said
 }
 
+function owingOf(
+  root: string,
+  agentId: string,
+  warrants: readonly Warrant[],
+  asked: Set<string>
+): readonly Owing[] {
+  const said: Owing[] = []
+  for (const warrant of warrants) {
+    if (asked.has(warrant.path)) continue
+    asked.add(warrant.path)
+    const held = readingIn(root, agentId, warrant.path)
+    if (held === null) said.push({ warrant, held: null })
+    else if (!sameBody(held, warrant.oid)) said.push({ warrant, held: held.oid })
+  }
+  return said
+}
+
+export function unreadOwing(
+  root: string,
+  agentId: string,
+  paths: readonly string[],
+  changing?: Changing
+): readonly Owing[] {
+  const knowing = knowingIn(root)
+  const asked = new Set<string>()
+  const said: Owing[] = []
+  for (const path of paths) {
+    said.push(...owingOf(root, agentId, warrantsIn(root, path, "write", knowing, changing), asked))
+  }
+  return said
+}
+
 export function unreadIn(
   root: string,
   agentId: string | null,
@@ -256,19 +341,7 @@ export function unreadIn(
   changing?: Changing
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
-  const knowing = knowingIn(root)
-  const said: string[] = []
-  const asked = new Set<string>()
-  for (const path of paths) {
-    for (const warrant of warrantsIn(root, path, "write", knowing, changing)) {
-      if (asked.has(warrant.path)) continue
-      asked.add(warrant.path)
-      const held = readingIn(root, agentId, warrant.path)
-      if (held === null) said.push(notReadOf(warrant))
-      else if (!sameBody(held, warrant.oid)) said.push(movedOf(warrant, held.oid))
-    }
-  }
-  return said
+  return termFirst(unreadOwing(root, agentId, paths, changing)).map(sayingOf)
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
@@ -295,18 +368,26 @@ export function agentPathOf(root: string, agentId: string): string | null {
   return seatPathOf(root, agentId) ?? subagentPathOf(root, agentId)
 }
 
-export function unheldIn(root: string, agentId: string | null): readonly string[] {
-  if (agentId === null) return []
+export function unheldOwing(root: string, agentId: string): readonly Owing[] {
   const page = agentPathOf(root, agentId)
   if (page === null) return []
-  const said: string[] = []
-  const asked = new Set<string>([page])
-  for (const warrant of warrantsIn(root, page, "write", knowingIn(root))) {
-    if (asked.has(warrant.path)) continue
-    asked.add(warrant.path)
-    const held = readingIn(root, agentId, warrant.path)
-    if (held === null) said.push(notReadOf(warrant))
-    else if (!sameBody(held, warrant.oid)) said.push(movedOf(warrant, held.oid))
-  }
-  return said
+  return owingOf(root, agentId, warrantsIn(root, page, "write", knowingIn(root)), new Set([page]))
+}
+
+export function unheldIn(root: string, agentId: string | null): readonly string[] {
+  if (agentId === null) return []
+  return termFirst(unheldOwing(root, agentId)).map(sayingOf)
+}
+
+export function owedIn(
+  root: string,
+  agentId: string | null,
+  paths: readonly string[],
+  changing?: Changing
+): readonly string[] {
+  if (agentId === null) return [NO_AGENT]
+  return termFirst([
+    ...unheldOwing(root, agentId),
+    ...unreadOwing(root, agentId, paths, changing),
+  ]).map(sayingOf)
 }

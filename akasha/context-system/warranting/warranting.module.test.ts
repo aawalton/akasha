@@ -8,6 +8,7 @@ import {
   agentPathOf,
   gatheredIn,
   NO_AGENT,
+  owedIn,
   seatPathOf,
   subagentPathOf,
   unheldIn,
@@ -16,27 +17,31 @@ import {
   warrantsIn,
 } from "./warranting.module.code.ts"
 import {
+  A,
+  AGENT,
+  B,
   chainOf,
+  DECIDING,
+  NOT_READ,
+  OTHER,
   OWED,
+  PATH,
   type Said,
   SEAT_AT,
   SEEDED_AT,
   SUB_AT,
   subaged,
+  TERM_AT,
   warrantingStated,
+  X,
+  Y,
 } from "./warranting.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
-
-const OTHER = "01a04ee0-3078-7000-9069-000000000000"
-
 const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
-
-const PATH = "akasha/thing/thing.module.ts"
 
 function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
   const root = scratch.rootFor("akasha-warranting-")
@@ -97,7 +102,7 @@ test("a path the record holds no reading of is refused", () => {
   writing(root, PATH, "one\n")
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
-  expect(said[0]).toContain("the record does not show you read this")
+  expect(said[0]).toContain(NOT_READ)
 })
 
 test("a reading of the body standing now answers for it", () => {
@@ -181,7 +186,7 @@ test("a subagent's reading does not answer for its seat", () => {
   expect(unreadIn(root, UNDER, [PATH])).toEqual([])
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
-  expect(said[0]).toContain("the record does not show you read this")
+  expect(said[0]).toContain(NOT_READ)
 })
 
 test("a seat's reading does not answer for a subagent acting under it", () => {
@@ -191,7 +196,7 @@ test("a seat's reading does not answer for a subagent acting under it", () => {
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
   const said = unreadIn(root, UNDER, [PATH])
   expect(said.length).toBe(1)
-  expect(said[0]).toContain("the record does not show you read this")
+  expect(said[0]).toContain(NOT_READ)
 })
 
 test("one subagent's reading does not answer for another under the same seat", () => {
@@ -217,14 +222,6 @@ test("no agent is told as something that should not be possible", () => {
   expect(NO_AGENT).toContain("should not be possible")
   expect(NO_AGENT).toContain("`AGENT_ID`")
 })
-
-const A = "akasha/one/a.ts"
-
-const B = "akasha/one/b.ts"
-
-const X = "akasha/one/x.ts"
-
-const Y = "akasha/one/y.ts"
 
 test("a read is handed the paths it names and what a warrant names for them", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X] }) }])
@@ -386,4 +383,35 @@ test("a seat refusal says what the reading is owed for and names the read", () =
 test("a call charged to no agent owes nothing of a seat", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X] }) }])
   expect(unheldIn(root, null)).toEqual([])
+})
+
+test("a warrant owed of a taboo term is said before every warrant that is not", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [X, TERM_AT, Y] }) }])
+  expect(unreadIn(root, AGENT, [A]).map((one) => one.split("\n")[0])).toEqual([
+    DECIDING,
+    `${X}${NOT_READ}`,
+    `${Y}${NOT_READ}`,
+  ])
+})
+
+test("what is said of a taboo term names it rather than a reading to clear", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [TERM_AT] }) }])
+  const said = unreadIn(root, AGENT, [A])[0]
+  expect(said?.split("\n")[1]).toBe(`${TERM_AT} states the term.`)
+  expect(said).not.toContain(NOT_READ)
+  expect(said).toContain(`akasha read --file-path ${TERM_AT}`)
+  recordRead(root, AGENT, { path: TERM_AT, oid: "gone", seenAt: 1, mechanicalOid: null })
+  const moved = unreadIn(root, AGENT, [A])[0]
+  expect(moved?.split("\n")[0]).toBe(DECIDING)
+  expect(moved).toContain("it has changed since you read it")
+})
+
+test("what a change owes and what its seat owes are ordered as one answer", () => {
+  const root = rootWith([{ slug: "chain", code: chainOf({ [SEAT_AT]: [X], [A]: [TERM_AT, Y] }) }])
+  pageFiled(root, AGENT, SEAT_AT)
+  expect(owedIn(root, AGENT, [A]).map((one) => one.split("\n")[0])).toEqual([
+    DECIDING,
+    `${X}${NOT_READ}`,
+    `${Y}${NOT_READ}`,
+  ])
 })

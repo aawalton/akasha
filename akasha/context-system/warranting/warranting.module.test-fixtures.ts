@@ -75,6 +75,27 @@ export const SEAT_AT = "akasha/seat-system/seat/seats/one.seat.ts"
 
 export const SUB_AT = "akasha/seat-system/subagent/subagents/one-suba.subagent.ts"
 
+export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+export const OTHER = "01a04ee0-3078-7000-9069-000000000000"
+
+export const PATH = "akasha/thing/thing.module.ts"
+
+export const A = "akasha/one/a.ts"
+
+export const B = "akasha/one/b.ts"
+
+export const X = "akasha/one/x.ts"
+
+export const Y = "akasha/one/y.ts"
+
+export const TERM_AT = "akasha/one/word.taboo-term.ts"
+
+export const DECIDING =
+  "NAMING DECISION — not a reading to clear, and it may mean renaming what your change writes."
+
+export const NOT_READ = " — the record does not show you read this."
+
 const MODULE_AT = join(HERE, WARRANTING_IN, "warranting.module.code.ts")
 
 function statedPageFor(one: Said, id: string): string {
