@@ -30,8 +30,8 @@ export const seatNameClaim = {
       statement: "A caller whose own seat holds the name takes it back without saying so.",
     },
     {
-      invariantKind: "departure",
-      statement: "Which names are admitted is handed in rather than read here.",
+      invariantKind: "absence",
+      statement: "Whether a name matches a declared shape is not judged here.",
     },
     {
       invariantKind: "absence",

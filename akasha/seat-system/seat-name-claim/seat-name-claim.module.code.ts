@@ -23,7 +23,7 @@ const TAKE_LIVE = "--take-live-name"
 
 export type Presence = "present" | "absent" | "unknown"
 
-export type Refusal = "unaddressable" | "live-holder" | "undeclared-shape"
+export type Refusal = "unaddressable" | "live-holder"
 
 export type Holder = {
   readonly agentId: string
@@ -37,8 +37,6 @@ export type Claiming = {
   readonly holder: Holder | null
   readonly holderIsCallerSeat: boolean
   readonly takeLiveName: boolean
-  readonly admitted: boolean
-  readonly declaredShapes: readonly string[]
 }
 
 export type Claim =
@@ -86,14 +84,6 @@ export function claimed(asked: Claiming): Claim {
         "waiting for it arrives here, and the next page write lands on the file that seat is " +
         `named by. Stop it with \`akasha seat supervisor stop ${name}\`, or say \`${TAKE_LIVE}\` ` +
         "to take the name from it deliberately"
-    )
-  }
-  if (!asked.holderIsCallerSeat && !asked.admitted) {
-    return refused(
-      "undeclared-shape",
-      `\`${name}\` matches no declared seat-name shape, so nothing downstream can address this ` +
-        "seat. A seat bound to it works just well enough that nothing asks: no sweep, revive or " +
-        `roster reaches it. The declared shapes are ${asked.declaredShapes.join(", ")}`
     )
   }
   return { allow: true }

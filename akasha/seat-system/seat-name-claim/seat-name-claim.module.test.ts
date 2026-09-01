@@ -8,8 +8,6 @@ import {
   nameShaped,
 } from "./seat-name-claim.module.code.ts"
 
-const SHAPES = ["{person}[-{role}]", "{persona}"]
-
 function asking(over: Partial<Claiming> = {}): Claiming {
   return {
     claimingAgentId: "01a05e00-0000-7000-8000-000000000001",
@@ -18,13 +16,11 @@ function asking(over: Partial<Claiming> = {}): Claiming {
     holder: null,
     holderIsCallerSeat: false,
     takeLiveName: false,
-    admitted: true,
-    declaredShapes: SHAPES,
     ...over,
   }
 }
 
-test("a name nothing holds and the shapes admit is taken", () => {
+test("a name nothing holds is taken", () => {
   expect(claimed(asking())).toEqual({ allow: true })
 })
 
@@ -60,16 +56,9 @@ test("a name whose holder has no process in it is taken", () => {
   expect(claimed(asking({ holder: held }))).toEqual({ allow: true })
 })
 
-test("a name the shapes do not admit is refused, and the refusal names them", () => {
-  const said = claimed(asking({ admitted: false, name: "zzz-nothing" }))
-  if (said.allow) throw new Error("refused")
-  expect(said.cause).toBe("undeclared-shape")
-  expect(said.said).toContain("{persona}")
-})
-
-test("a caller whose own seat holds the name is admitted whatever the shapes say", () => {
+test("a caller whose own seat holds the name takes it back without saying so", () => {
   const held = { agentId: "01a05e00-0000-7000-8000-0000000000ff", presence: "present" as const }
-  expect(claimed(asking({ holder: held, holderIsCallerSeat: true, admitted: false }))).toEqual({
+  expect(claimed(asking({ holder: held, holderIsCallerSeat: true }))).toEqual({
     allow: true,
   })
 })
