@@ -3,8 +3,8 @@
 import { type RefObject, useEffect, useRef } from "react"
 import type { PageWithProperties } from "../supabase/types"
 import { clampFraction } from "@akasha/pages-ui/components/position-fraction"
-import { emitPositionWrite } from "./position-write-event"
-import { computeReadProgress } from "./read-progress"
+import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
+import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"
 import type { ReaderPositionAnchor } from "./reader-prose-body"
 
 export interface ReaderProgressWriterArgs {

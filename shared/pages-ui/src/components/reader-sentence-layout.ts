@@ -1,5 +1,5 @@
 import { buildKokoroSpeechInput, splitSentences } from "@akasha/voice-core/voice/speech"
-import { parseProseBlocks, splitInlineEmphasis } from "./reader-prose"
+import { parseProseBlocks, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
 
 export interface SentenceRun {
   readonly kind: "text" | "em"

@@ -2,7 +2,7 @@ import type { ViewDataJSON, ViewLayout, VisibilityChange } from "@akasha/pages-c
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { useCallback } from "react"
 import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
-import { reorderVisibleProperties } from "./page-table-column-dnd-helpers"
+import { reorderVisibleProperties } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
 
 interface UseViewConfigHandlersArgs {
   onUpdateView: (id: string, updates: Partial<ViewDataJSON>) => void

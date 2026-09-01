@@ -27,7 +27,7 @@ import { type ReaderNeighborLink, ReaderPager, ReadingProgressBar } from "./read
 import { useReaderPageSource } from "./reader-page-source"
 import { ReaderProseBody, ReaderProseStatic } from "./reader-prose-body"
 import { layoutSentenceSpans } from "./reader-sentence-layout"
-import { READER_PROSE_TYPOGRAPHY } from "./reader-typography"
+import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui/components/reader-typography"
 import { useReadEndOnScroll } from "./use-read-end-on-scroll"
 import { useReaderProgressWriter } from "./use-reader-progress-writer"
 import { useRestoreReadPosition } from "./use-restore-read-position"

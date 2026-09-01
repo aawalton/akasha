@@ -8,13 +8,13 @@ import {
   blockPositionForFraction,
   buildProseCharTable,
   fractionForBlockPosition,
-} from "./reader-char-table"
+} from "@akasha/pages-ui/components/reader-char-table"
 import {
   estimateProseBlockHeight,
   type ProseBlock,
   parseProseBlocks,
   proseBlockSource,
-} from "./reader-prose"
+} from "@akasha/pages-ui/components/reader-prose"
 import { ProseBlockView } from "./reader-prose-block"
 import type { BlockSentenceLayout } from "./reader-sentence-layout"
 

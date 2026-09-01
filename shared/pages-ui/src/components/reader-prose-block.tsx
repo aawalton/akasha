@@ -6,7 +6,7 @@ import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { cn } from "@akasha/design-primitives/cn"
 import { Fragment } from "react"
 import { useSentenceNarration } from "../media/sentence-narration-context"
-import { type ProseBlock, splitInlineEmphasis } from "./reader-prose"
+import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
 import type { BlockSentenceLayout, SentenceRun } from "./reader-sentence-layout"
 
 const SENTENCE_SPAN_CLASS =

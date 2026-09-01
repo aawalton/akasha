@@ -1,7 +1,7 @@
 "use client"
 
 import { type RefCallback, useCallback, useEffect, useRef, useState } from "react"
-import { decideReadEndFire } from "./read-end"
+import { decideReadEndFire } from "@akasha/pages-ui/components/read-end"
 
 export function useReadEndObserver(args: {
   enabled: boolean

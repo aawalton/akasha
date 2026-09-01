@@ -1,7 +1,7 @@
 import { type RefObject, useEffect } from "react"
 import { POSITION_WRITE_EPSILON, timeToFraction } from "@akasha/pages-ui/components/position-fraction"
-import { emitPositionWrite } from "../components/position-write-event"
-import { computeReadProgress } from "../components/read-progress"
+import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
+import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"
 import type { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
 import type { PlayingSessionState } from "./playing-session"
 
