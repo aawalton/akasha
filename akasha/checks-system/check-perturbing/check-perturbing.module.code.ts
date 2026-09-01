@@ -136,6 +136,18 @@ const KINDS: readonly Kind[] = [
   { named: "a body moved", taken: tailed(".test-fixtures.ts"), made: moving },
 ]
 
+export function pairedIn(root: string, paths: readonly string[]): Scenario | null {
+  const manifest = paths.find(manifested)
+  if (manifest === undefined) return null
+  const folder = `${dirname(manifest)}/`
+  const body = paths.find((one) => one.startsWith(folder) && one.endsWith(CODE_TAIL))
+  if (body === undefined) return null
+  return {
+    named: `a manifest and a body the package it names holds — ${manifest}`,
+    after: new Map([...keying(manifest, root), ...appending(body, root)]),
+  }
+}
+
 export function scenariosIn(root: string, paths: readonly string[]): readonly Scenario[] {
   const found: Scenario[] = []
   for (const kind of KINDS) {
@@ -143,7 +155,8 @@ export function scenariosIn(root: string, paths: readonly string[]): readonly Sc
     if (at === undefined) continue
     found.push({ named: `${kind.named} — ${at}`, after: kind.made(at, root) })
   }
-  return found
+  const paired = pairedIn(root, paths)
+  return paired === null ? found : [...found, paired]
 }
 
 export function relandingOf(root: string, paths: readonly string[]): Scenario {
