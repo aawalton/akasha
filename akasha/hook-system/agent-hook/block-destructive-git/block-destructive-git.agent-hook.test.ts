@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
+import { ran } from "@akasha/utils-run/running"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import { refusalFor, refusalIn, SCOPE } from "./block-destructive-git.agent-hook.code.ts"
 
@@ -187,27 +188,27 @@ test("the scope names every act the hook refuses", () => {
 })
 
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git checkout main")) })
-  expect(ran.exitCode).toBe(2)
-  const said: unknown = JSON.parse(ran.stdout.toString())
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git checkout main")) })
+  expect(done.code).toBe(2)
+  const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
   expect((said as { reason: string }).reason).toContain("git checkout")
 })
 
 test("the hook stands aside on stdin for a call it does not name", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git status")) })
-  expect(ran.exitCode).toBe(0)
-  expect(ran.stdout.toString()).toBe("")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git status")) })
+  expect(done.code).toBe(0)
+  expect(done.out).toBe("")
 })
 
 test("a payload that will not parse lets the call through rather than refusing it", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT], { stdin: Buffer.from("{") })
-  expect(ran.exitCode).toBe(5)
-  expect(ran.stderr.toString()).toContain("the call was not refused")
+  const done = ran(["bun", SCRIPT], { stdin: Buffer.from("{") })
+  expect(done.code).toBe(5)
+  expect(done.err).toContain("the call was not refused")
 })
 
 test("the hook prints its scope when it is asked", () => {
-  const ran = Bun.spawnSync(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
-  expect(ran.exitCode).toBe(0)
-  for (const act of ACTS) expect(ran.stdout.toString()).toContain(act)
+  const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
+  expect(done.code).toBe(0)
+  for (const act of ACTS) expect(done.out).toContain(act)
 })
