@@ -19,7 +19,7 @@ func categorizeCases() -> [RenderCase] {
         return #"{"unreviewed":\#(unreviewed),"noneLeftEmoji":"\#(emoji)"\#(worded)}"#
     }
     func categorizeScaled(
-        unreviewed: Int, yellowAt: Int? = 0, orangeAt: Int, redAt: Int, blackAt: Int
+        unreviewed: Int, yellowAt: Int? = 1, orangeAt: Int, redAt: Int, blackAt: Int
     ) -> String {
         let yellowed = yellowAt.map { #""yellowAt":\#($0),"# } ?? ""
         return #"{"unreviewed":\#(unreviewed),"#

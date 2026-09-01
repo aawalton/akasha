@@ -14,7 +14,7 @@ const ASCENDING = {
 } as const
 
 test("a scale answers only the rungs it states", () => {
-  expect(statedIn(backlogCount)).toEqual([31, 21, 11, 0])
+  expect(statedIn(backlogCount)).toEqual([31, 21, 11, 1])
 })
 
 test("a reading takes the rung stating the greatest number it has reached", () => {
@@ -25,13 +25,17 @@ test("a reading takes the rung stating the greatest number it has reached", () =
   expect(rungOf(backlogCount, 20)).toBe("orange")
   expect(rungOf(backlogCount, 11)).toBe("orange")
   expect(rungOf(backlogCount, 10)).toBe("yellow")
-  expect(rungOf(backlogCount, 0)).toBe("yellow")
+  expect(rungOf(backlogCount, 1)).toBe("yellow")
 })
 
 test("one rule reads a scale whose numbers rise as readily as one whose numbers fall", () => {
   expect(rungOf(ASCENDING, 95)).toBe("blue")
   expect(rungOf(ASCENDING, 50)).toBe("yellow")
   expect(rungOf(ASCENDING, 5)).toBe("black")
+})
+
+test("a reading of nothing left has fallen below every rung and reaches none", () => {
+  expect(rungOf(backlogCount, 0)).toBe(null)
 })
 
 test("a reading below every rung a scale states reaches no rung", () => {

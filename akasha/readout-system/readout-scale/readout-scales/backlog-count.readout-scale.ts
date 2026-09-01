@@ -5,7 +5,7 @@ export const backlogCount = {
   pageTypeSlug: "readout-scale",
   slug: "backlog-count",
   definition: "how many items are still waiting",
-  yellowAt: 0,
+  yellowAt: 1,
   orangeAt: 11,
   redAt: 21,
   blackAt: 31,
