@@ -42,7 +42,7 @@ export const amyJennyUnreviewedWidget = {
     {
       statement: "The routes of Alan's site stand in akasha.",
       workingMemory:
-        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. What breaks a move is depth rather than the symlink, and 3 of 15 escaping imports reach siblings.",
+        "Last of the three, because `app/routes` is the only part of this move with modelling nobody has done. Nothing waits on it: the site is a leaf with no inbound importers. The shape is settled: a lane built the site through a symlinked package root and got exit 0 with asset hashes identical to the control, tailwind emitting 114,234 bytes. Its 62 files carry 307 imports: 47 stay inside, 164 name packages, 20 npm, 76 escape to app siblings — 66 by `~/` and 10 by `../`, all into `awen`.",
     },
     {
       statement: "Alan's unreviewed transaction iOS widget works.",
