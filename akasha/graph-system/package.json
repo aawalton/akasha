@@ -4,6 +4,6 @@
   "type": "module",
   "exports": {
     "./graph-asking": "./graph-asking/graph-asking.module.code.ts",
-    "./import-edge": "./graph-edge/pages/import-edge.graph-edge.ts"
+    "./import-edge": "./graph-edges/pages/import-edge.graph-edge.ts"
   }
 }
