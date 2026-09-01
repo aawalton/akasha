@@ -1,41 +1,23 @@
-import { askHere } from '../../../../readouts/ask-here.ts';
-import type { Ask } from '../../../../readouts/readout-resolver.ts';
-
-export const MEAN_WEEKLY_USED = 'claude-accounts-mean-weekly-used';
-export const MEAN_SESSION_USED = 'claude-accounts-mean-session-used';
+import { type Mean, readFleetUsage } from '../../../../tools/lib/claude-account-usage.ts';
 
 export type UsageReading = {
 	readonly sessionPct: number | null;
 	readonly weeklyPct: number | null;
 };
 
-type Reading =
-	| { readonly ok: true; readonly pct: number | null }
-	| { readonly ok: false; readonly why: string };
-
-export async function askMean(slug: string, ask: Ask): Promise<Reading> {
-	let answer: Awaited<ReturnType<Ask>>;
-	try {
-		answer = await ask(slug, {});
-	} catch (cause) {
-		return { ok: false, why: `${slug} went unasked: ${String(cause)}` };
-	}
-	const { value, over } = answer;
-	if (over === null || over === 0) { return { ok: true, pct: null }; }
-	if (value === null) { return { ok: true, pct: null }; }
-	return { ok: true, pct: value };
+// A mean taken over no account is no percentage rather than zero, and the slot draws `—` for it.
+function pctOf(mean: Mean): number | null {
+	return mean.over === 0 ? null : mean.value;
 }
 
-export async function readUsage(ask: Ask = askHere()): Promise<UsageReading> {
-	const [session, weekly] = await Promise.all([
-		askMean(MEAN_SESSION_USED, ask),
-		askMean(MEAN_WEEKLY_USED, ask),
-	]);
-	if (!session.ok && !weekly.ok) {
-		throw new Error(`neither usage query answered — ${session.why}; ${weekly.why}`);
-	}
-	return {
-		sessionPct: session.ok ? session.pct : null,
-		weeklyPct: weekly.ok ? weekly.pct : null,
-	};
+// Read from the checkout rather than asked of `claude-accounts-mean-session-used` and
+// `claude-accounts-mean-weekly-used`, which reduce over two derived properties that went with the
+// claude-account page type at `54ee772b64` and have answered `over: 0` since. The reasoning and
+// what each figure means stand in `tools/lib/claude-account-usage.ts`.
+//
+// This throws where the fleet cannot be read rather than answering two nulls, because both slots
+// draw `—` for a null and a checkout that will not answer would look like a fleet standing idle.
+export async function readUsage(): Promise<UsageReading> {
+	const usage = readFleetUsage();
+	return { sessionPct: pctOf(usage.session), weeklyPct: pctOf(usage.weekly) };
 }
