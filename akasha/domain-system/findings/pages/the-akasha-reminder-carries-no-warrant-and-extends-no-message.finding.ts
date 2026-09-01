@@ -4,7 +4,7 @@ export const theAkashaReminderCarriesNoWarrantAndExtendsNoMessage = {
   id: "01a05f45-8988-7000-89be-e6868f022b9e",
   pageTypeSlug: "finding",
   slug: "the-akasha-reminder-carries-no-warrant-and-extends-no-message",
-  domainSlug: "domain/reminder-system",
+  domainSlug: "workspace-package/reminder-system",
   claim:
     "The reminder recreated in akasha drops the warrant a reminder carried and the message page type a reminder extended.",
   evidence:
