@@ -4,7 +4,7 @@ export const mediaPageStandsIsDeadAndBlocksThePageTypeGuard = {
   id: "01a05cf4-03d5-7daa-9e56-e2f2658766b8",
   pageTypeSlug: "finding",
   slug: "media-page-stands-is-dead-and-blocks-the-page-type-guard",
-  domainSlug: "workspace-package/web",
+  domainSlug: "workspace-package/alan-web",
   claim:
     "`mediaPageStands` refuses every page it is asked about, so the media token route and both HLS routes are dead. It is also the last caller anywhere that omits `pageTypeSlug` from `getPage`, so it alone stops that argument being made required, which is the only thing that would make this whole class of defect a compiler error rather than a run-time one.",
   evidence:
