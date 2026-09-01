@@ -9,7 +9,7 @@ export const healthExport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The export is read a line at a time rather than parsed as one document.",
+      statement: "The export is read a line at a time rather than parsed as a single document.",
     },
     {
       invariantKind: "departure",
@@ -17,12 +17,12 @@ export const healthExport = {
     },
     {
       invariantKind: "departure",
-      statement: "An Apple date carries its own offset and is read as the instant it names.",
+      statement: "An Apple date carries its own offset and is read as the instant that date names.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The script narrows the export to the metrics asked for before it leaves the laptop.",
+        "The script narrows the export to the metrics asked for before the export leaves the laptop.",
     },
   ],
 } as const satisfies Module

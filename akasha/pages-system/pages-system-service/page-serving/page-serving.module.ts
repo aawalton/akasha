@@ -38,7 +38,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A test named outside the vocabulary is refused by the name it was given.",
+      statement: "A test named outside the vocabulary is refused by the name that test was given.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A write may state the commit it read as a string.",
+      statement: "A write may state the commit that write read as a string.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +94,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer to a write names the commit it landed as.",
+      statement: "An answer to a write names the commit that write landed as.",
     },
     {
       invariantKind: "absence",

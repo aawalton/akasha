@@ -41,7 +41,7 @@ export const monarchUnreviewedTransactions = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here caches a reading or decides when one is taken.",
+      statement: "Nothing here caches a reading or decides when a reading is taken.",
     },
     {
       invariantKind: "absence",

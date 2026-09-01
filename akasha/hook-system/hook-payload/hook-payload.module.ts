@@ -14,7 +14,7 @@ export const hookPayload = {
     {
       invariantKind: "departure",
       statement:
-        "A hook that does not refuse on where the call was made is handed it anyway rather than being fed a different shape.",
+        "A hook that does not refuse on where the call was made is handed that place anyway rather than being fed a different shape.",
     },
     {
       invariantKind: "absence",

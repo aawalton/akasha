@@ -10,11 +10,11 @@ export const pageSecret = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's secret values stand in one sops file beside it.",
+      statement: "A page's secret values stand in one sops file beside that page.",
     },
     {
       invariantKind: "departure",
-      statement: "One file holds every secret a page carries rather than one file for each.",
+      statement: "One file holds every secret a page carries rather than one file for each secret.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "That is what parts a secret from an uncommitted value.",
+      statement: "Landing the ciphertext is what parts a secret from an uncommitted value.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A page with no sops file beside it carries no secrets.",
+      statement: "A page with no sops file beside that page carries no secrets.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "sops is handed a real file it can open and seek rather than a pipe.",
+      statement: "sops is handed a real file sops can open and seek rather than a pipe.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +77,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "absence",
-      statement: "The key names a file holds are read without decrypting it.",
+      statement: "The key names a file holds are read without decrypting that file.",
     },
   ],
 } as const satisfies Module

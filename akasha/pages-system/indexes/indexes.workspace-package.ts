@@ -41,7 +41,7 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "An index file is named for the value it answers.",
+      statement: "An index file is named for the value that index file answers.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "An index's answers are filed under a folder named for it.",
+      statement: "An index's answers are filed under a folder named for that index.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +94,7 @@ export const indexes = {
     },
     {
       invariantKind: "departure",
-      statement: "The index names the commit it describes.",
+      statement: "The index names the commit the index describes.",
     },
     {
       invariantKind: "stopgap",
@@ -115,7 +115,7 @@ export const indexes = {
     {
       invariantKind: "gap",
       statement:
-        "What crosses this boundary is a question or its answer or the index as a change leaves it.",
+        "What crosses this boundary is a question or its answer or the index as a change leaves the index.",
     },
   ],
 } as const satisfies WorkspacePackage

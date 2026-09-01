@@ -20,7 +20,7 @@ export const graphAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "An import edge stands only where the index answers one.",
+      statement: "An import edge stands only where the index answers an import edge.",
     },
     {
       invariantKind: "departure",

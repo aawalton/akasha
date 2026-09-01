@@ -22,7 +22,8 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for a test file names the `test-fixtures` file standing beside it.",
+      statement:
+        "A refusal for a test file names the `test-fixtures` file standing beside that test file.",
     },
   ],
 } as const satisfies CodeCheck

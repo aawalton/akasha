@@ -10,7 +10,7 @@ export const refactorArguing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag this does not take is refused rather than passed along.",
+      statement: "A flag this module does not take is refused rather than passed along.",
     },
     {
       invariantKind: "departure",

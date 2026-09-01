@@ -13,7 +13,7 @@ export const runs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The commands start in the order they stand in.",
+      statement: "The commands start in the order the commands stand in.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,8 @@ export const runs = {
     },
     {
       invariantKind: "departure",
-      statement: "One naming a TypeScript file runs under the wrapper that restarts it.",
+      statement:
+        "A command naming a TypeScript file runs under the wrapper that restarts that command.",
     },
   ],
 } as const satisfies TextProperty

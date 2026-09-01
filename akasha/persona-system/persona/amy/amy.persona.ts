@@ -27,7 +27,7 @@ export const amy = {
     },
     {
       invariantKind: "gap",
-      statement: "The Activity stoplight drives the behaviour Alan set it to drive.",
+      statement: "The Activity stoplight drives the behaviour Alan set that stoplight to drive.",
     },
   ],
   totalPoints: 80.6952614379085,

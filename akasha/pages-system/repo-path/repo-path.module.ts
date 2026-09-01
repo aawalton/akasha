@@ -10,7 +10,7 @@ export const repoPath = {
     {
       invariantKind: "departure",
       statement:
-        "A path is spelled out as far as anything stands on disk and left alone after that.",
+        "A path is spelled out as far as anything stands on disk and left alone after that point.",
     },
     {
       invariantKind: "departure",

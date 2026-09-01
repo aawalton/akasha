@@ -13,11 +13,11 @@ export const rateLimitTier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is answered by the upstream probe rather than chosen here.",
+      statement: "The rate limit tier is answered by the upstream probe rather than chosen here.",
     },
     {
       invariantKind: "departure",
-      statement: "A tier is written as Anthropic spells it.",
+      statement: "A tier is written as Anthropic spells that tier.",
     },
   ],
 } as const satisfies TextProperty

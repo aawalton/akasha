@@ -20,11 +20,12 @@ export const domainSystem = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Context a choice does not need does not reach the agent making it.",
+      statement: "Context a choice does not need does not reach the agent making that choice.",
     },
     {
       invariantKind: "gap",
-      statement: "Agents have the context each choice needs at the time they make it.",
+      statement:
+        "Agents have the context each choice needs at the time those agents make that choice.",
     },
   ],
 } as const satisfies WorkspacePackage

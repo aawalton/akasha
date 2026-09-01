@@ -10,7 +10,7 @@ export const readoutScaleReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rung stated as text is read as the number it spells.",
+      statement: "A rung stated as text is read as the number that rung spells.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const readoutScaleReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The yellow rung is carried only where the page states it.",
+      statement: "The yellow rung is carried only where the page states the yellow rung.",
     },
     {
       invariantKind: "departure",

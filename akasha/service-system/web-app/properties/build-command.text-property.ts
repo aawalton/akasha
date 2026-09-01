@@ -18,7 +18,7 @@ export const buildCommand = {
     {
       invariantKind: "departure",
       statement:
-        "The command is stated on the page rather than written into the code that runs it.",
+        "The command is stated on the page rather than written into the code that runs the command.",
     },
   ],
 } as const satisfies TextProperty

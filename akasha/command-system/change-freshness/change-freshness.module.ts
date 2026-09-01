@@ -17,7 +17,7 @@ export const changeFreshness = {
     {
       invariantKind: "departure",
       statement:
-        "A body is weighed by git's own object id rather than by when it was last touched.",
+        "A body is weighed by git's own object id rather than by when that body was last touched.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const changeFreshness = {
     {
       invariantKind: "departure",
       statement:
-        "A change commits only where no commit reaching `akasha/` landed after it read its base.",
+        "A change commits only where no commit reaching `akasha/` landed after that change read its base.",
     },
     {
       invariantKind: "departure",

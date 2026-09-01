@@ -13,7 +13,7 @@ export const rollPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "A roll is unshown until something says it was shown.",
+      statement: "A roll is unshown until something says that roll was shown.",
     },
   ],
 } as const satisfies Module

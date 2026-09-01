@@ -14,7 +14,7 @@ export const accountUuid = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is answered by the upstream probe rather than chosen here.",
+      statement: "The account uuid is answered by the upstream probe rather than chosen here.",
     },
     {
       invariantKind: "departure",

@@ -63,7 +63,7 @@ export const iosProgram = {
     },
     {
       invariantKind: "departure",
-      statement: "A program names every component it compiles.",
+      statement: "A program names every component that program compiles.",
     },
     {
       invariantKind: "departure",
@@ -75,11 +75,12 @@ export const iosProgram = {
     },
     {
       invariantKind: "departure",
-      statement: "A program Apple signs states the profile it is signed against.",
+      statement: "A program Apple signs states the profile that program is signed against.",
     },
     {
       invariantKind: "departure",
-      statement: "A program shipped apart from the app that carries it states its own name.",
+      statement:
+        "A program shipped apart from the app that carries that program states its own name.",
     },
   ],
 } as const satisfies PageType

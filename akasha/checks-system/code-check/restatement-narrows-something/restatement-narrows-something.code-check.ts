@@ -14,7 +14,7 @@ export const restatementNarrowsSomething = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An inherited property is restated only to narrow it.",
+      statement: "An inherited property is restated only to narrow that property.",
     },
     {
       invariantKind: "departure",
@@ -38,16 +38,16 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration is judged against the nearest declaration above it.",
+      statement: "A declaration is judged against the nearest declaration above that declaration.",
     },
     {
       invariantKind: "departure",
-      statement: "Which page types stand above one is walked through `extends-slug`.",
+      statement: "Which page types stand above a page type is walked through `extends-slug`.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type is judged when the change carries it and when the change carries a property it declares.",
+        "A page type is judged when the change carries that page type and when the change carries a property that page type declares.",
     },
     {
       invariantKind: "absence",

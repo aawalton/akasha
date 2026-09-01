@@ -9,7 +9,7 @@ export const fogReportSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A report names which seat made it.",
+      statement: "A report names which seat made that report.",
     },
   ],
 } as const satisfies Module

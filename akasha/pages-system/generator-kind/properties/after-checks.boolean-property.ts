@@ -12,7 +12,7 @@ export const afterChecks = {
     {
       invariantKind: "departure",
       statement:
-        "A value worked out after the checks is spent by no refusal and is seen by no check either.",
+        "A value worked out after the checks is spent by no refusal and is seen by no check.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const afterChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal wastes one.",
+      statement: "A refusal wastes a value worked out before the checks.",
     },
     {
       invariantKind: "departure",

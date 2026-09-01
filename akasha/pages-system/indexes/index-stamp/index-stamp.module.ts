@@ -14,7 +14,7 @@ export const indexStamp = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the stamp names is not claimed to match the commit it names.",
+      statement: "A path the stamp names is not claimed to match the commit the stamp names.",
     },
     {
       invariantKind: "departure",

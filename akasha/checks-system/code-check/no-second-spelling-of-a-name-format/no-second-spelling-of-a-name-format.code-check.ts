@@ -26,7 +26,7 @@ export const noSecondSpellingOfANameFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the line spelling the shape and the file stating it.",
+      statement: "A refusal names the line spelling the shape and the file stating that shape.",
     },
     {
       invariantKind: "absence",
@@ -34,7 +34,7 @@ export const noSecondSpellingOfANameFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "Two name formats stating one shape refuse neither.",
+      statement: "Two name formats stating one shape refuse neither name format.",
     },
     {
       invariantKind: "absence",

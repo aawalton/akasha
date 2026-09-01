@@ -15,7 +15,7 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device holding its secret in the pinned domain mints none.",
+      statement: "A device holding its secret in the pinned domain mints no secret.",
     },
     {
       invariantKind: "departure",
@@ -23,11 +23,11 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device that did not say which domain holds its secret mints one.",
+      statement: "A device that did not say which domain holds its secret mints a secret.",
     },
     {
       invariantKind: "departure",
-      statement: "A device that could not be asked mints one.",
+      statement: "A device that could not be asked mints a secret.",
     },
     {
       invariantKind: "constraint",
@@ -43,15 +43,15 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A device that let go of its secret mints another.",
+      statement: "A device that let go of its secret mints another secret.",
     },
     {
       invariantKind: "departure",
-      statement: "A device the route admits keeps what it holds.",
+      statement: "A device the route admits keeps what that device holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A device the route left unanswered keeps what it holds.",
+      statement: "A device the route left unanswered keeps what that device holds.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "constraint",
-      statement: "A device recovers once in a day and no more.",
+      statement: "A device recovers once in a day and no more often.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const deviceSecretMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "The keychain is emptied before the mint rather than after it.",
+      statement: "The keychain is emptied before the mint rather than after the mint.",
     },
     {
       invariantKind: "constraint",

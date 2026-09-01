@@ -16,7 +16,7 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is judged by where it lands.",
+      statement: "A path is judged by where that path lands.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,8 @@ export const blockAkashaReads = {
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
+      statement:
+        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "absence",

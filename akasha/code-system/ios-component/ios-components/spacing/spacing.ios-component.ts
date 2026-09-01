@@ -9,7 +9,7 @@ export const spacing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every gap a tile leaves is one of these steps.",
+      statement: "Every gap a tile leaves is one step among these steps.",
     },
     {
       invariantKind: "constraint",

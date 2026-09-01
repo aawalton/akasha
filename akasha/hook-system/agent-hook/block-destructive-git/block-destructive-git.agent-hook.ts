@@ -12,11 +12,11 @@ export const blockDestructiveGit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An act named here is refused wherever it stands.",
+      statement: "An act named here is refused wherever that act stands.",
     },
     {
       invariantKind: "departure",
-      statement: "No path narrows it.",
+      statement: "No path narrows the refusal.",
     },
     {
       invariantKind: "departure",
@@ -24,11 +24,13 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the akasha command that does what was asked or says none does.",
+      statement:
+        "A refusal names the akasha command that does what was asked or says no akasha command does.",
     },
     {
       invariantKind: "departure",
-      statement: "What this does not reach is printed by the hook and asked for with `--scope`.",
+      statement:
+        "What this hook does not reach is printed by the hook and asked for with `--scope`.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +38,7 @@ export const blockDestructiveGit = {
     },
     {
       invariantKind: "absence",
-      statement: "An act this does not name is unexamined rather than safe.",
+      statement: "An act this hook does not name is unexamined rather than safe.",
     },
     {
       invariantKind: "constraint",
