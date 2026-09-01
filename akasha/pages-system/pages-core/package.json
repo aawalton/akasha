@@ -67,10 +67,10 @@
     "./view/page-query-times": "./view/page-query-times/page-query-times.module.code.ts"
   },
   "dependencies": {
+    "@akasha/day": "workspace:*",
     "@akasha/id-minting": "workspace:*",
     "@akasha/pages-formula": "workspace:*",
     "@akasha/pages-url": "workspace:*",
-    "@shared/day": "workspace:*",
     "@akasha/supabase-database": "workspace:*",
     "@shared/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

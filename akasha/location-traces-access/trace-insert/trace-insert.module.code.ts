@@ -1,4 +1,4 @@
-import { getEsoDayStrAt } from "@shared/day"
+import { getEsoDayStrAt } from "@akasha/day/eso-day"
 import { writePage, writeRows } from "@shared/pages-query"
 import { askComposed } from "@shared/pages-query/ask"
 import {

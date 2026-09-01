@@ -1,4 +1,4 @@
-import { getEsoDayAnchor } from "@shared/day"
+import { getEsoDayAnchor } from "@akasha/day/eso-day"
 import * as chrono from "chrono-node"
 import { z } from "zod"
 

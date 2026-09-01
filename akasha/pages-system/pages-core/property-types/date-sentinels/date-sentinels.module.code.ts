@@ -1,4 +1,9 @@
-import { getEsoDayAnchor, getEsoDayStr, getEsoDayStrOffset, getEsoResetTime } from "@shared/day"
+import {
+  getEsoDayAnchor,
+  getEsoDayStr,
+  getEsoDayStrOffset,
+  getEsoResetTime,
+} from "@akasha/day/eso-day"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 
 type DateSentinel =

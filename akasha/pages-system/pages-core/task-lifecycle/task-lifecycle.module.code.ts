@@ -1,4 +1,4 @@
-import { getEsoDayStr, getEsoDayStrOffset } from "@shared/day"
+import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import type { PageWhere } from "../page-types/page-types.module.code.ts"
 

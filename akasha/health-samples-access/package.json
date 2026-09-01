@@ -9,7 +9,7 @@
     "./sample-upsert": "./sample-upsert/sample-upsert.module.code.ts"
   },
   "dependencies": {
-    "@shared/day": "workspace:*",
+    "@akasha/day": "workspace:*",
     "@shared/pages-query": "workspace:*"
   }
 }

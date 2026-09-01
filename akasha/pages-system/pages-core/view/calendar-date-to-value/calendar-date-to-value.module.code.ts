@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@shared/day"
+import { getEsoDayStr } from "@akasha/day/eso-day"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { instantToMillis } from "../../property-types/instant/instant.module.code.ts"
 import type { PropertyValue } from "../../property-types/property-type-ops/property-type-ops.module.code.ts"

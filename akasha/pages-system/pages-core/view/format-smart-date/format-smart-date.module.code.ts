@@ -1,4 +1,4 @@
-import { diffEsoDays, getEsoDayStr } from "@shared/day"
+import { diffEsoDays, getEsoDayStr } from "@akasha/day/eso-day"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/
 

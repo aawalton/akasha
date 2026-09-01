@@ -1,4 +1,4 @@
-import { getEsoDayStrOffset, getEsoDayWindow } from "@shared/day"
+import { getEsoDayStrOffset, getEsoDayWindow } from "@akasha/day/eso-day"
 import { askComposed } from "@shared/pages-query/ask"
 
 const MAX_DAY_SESSIONS = 200

@@ -7,7 +7,7 @@
     "./trace-insert": "./trace-insert/trace-insert.module.code.ts"
   },
   "dependencies": {
-    "@shared/day": "workspace:*",
+    "@akasha/day": "workspace:*",
     "@shared/pages-query": "workspace:*"
   }
 }
