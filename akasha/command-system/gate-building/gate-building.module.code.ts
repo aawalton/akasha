@@ -17,7 +17,8 @@ const HERE = rootOf(import.meta.path)
 
 function pathOf(name: string): string {
   try {
-    return relative(HERE, loadFrom.resolve(name))
+    const at = loadFrom.resolve(name)
+    return relative(rootOf(at), at)
   } catch {
     return name
   }
