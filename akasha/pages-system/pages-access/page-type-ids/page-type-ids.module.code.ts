@@ -1,6 +1,6 @@
 import type { Asked } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
-import { textOf } from "../file-property-defs/file-property-defs.module.code.ts"
+import { textAt } from "@shared/utils-narrow/text-at"
 
 export type GetPageTypeIdsBySlugsArgs = { readonly slugs: ReadonlyArray<string> }
 
@@ -44,8 +44,8 @@ export async function getPageTypeIdsBySlugs(
   if (!asked.ok) throw new PageTypesUnread(asked.why)
   const out = new Map<string, string>()
   for (const row of asked.answer.rows) {
-    const slug = textOf(row.values, "slug")
-    const id = textOf(row.values, "id")
+    const slug = textAt(row.values, "slug")
+    const id = textAt(row.values, "id")
     if (slug !== null && id !== null) out.set(slug, id)
   }
   const missing = wanted.filter((one) => !out.has(one))

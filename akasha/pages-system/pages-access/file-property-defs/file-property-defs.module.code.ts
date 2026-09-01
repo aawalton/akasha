@@ -24,11 +24,6 @@ export type Stated = {
   readonly ownerSlug: string | null
 }
 
-export function textOf(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const value = values[key]
-  return typeof value === "string" && value !== "" ? value : null
-}
-
 const asked = new Map<string, Promise<PageTypeShape | null>>()
 
 export function forgetAskedShapes(): undefined {

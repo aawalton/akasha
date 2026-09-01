@@ -3,6 +3,7 @@ import { patchFiles, writeFiles } from "@akasha/pages-query"
 import { askComposed } from "@akasha/pages-query/ask"
 import type { Fetcher, Sleeper } from "@akasha/pages-query/fetcher"
 import { upperUuid } from "@akasha/pages-system/name-format/upper-uuid"
+import { textAt } from "@shared/utils-narrow/text-at"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_SECRET_PAGE_TYPE = "device-secret"
@@ -142,11 +143,6 @@ export function deviceSecretBody(page: DeviceSecretPage): string {
   if (page.revokedAt !== null) lines.push(`  revokedAt: ${JSON.stringify(page.revokedAt)},`)
   lines.push("} as const satisfies DeviceSecret", "")
   return lines.join("\n")
-}
-
-function textAt(values: Readonly<Record<string, unknown>>, key: string): string | null {
-  const held = values[key]
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 export function pageIn(values: Readonly<Record<string, unknown>>): DeviceSecretPage | null {

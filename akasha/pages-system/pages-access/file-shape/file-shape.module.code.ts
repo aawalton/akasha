@@ -1,11 +1,11 @@
 import type { Asked } from "@shared/pages-query"
 import { askComposed, type ComposedQuery } from "@shared/pages-query/ask"
+import { textAt } from "@shared/utils-narrow/text-at"
 import {
   filePropertyDefinitions,
   forgetAskedShapes,
   PAGE_TYPE,
   shapeAsked,
-  textOf,
 } from "../file-property-defs/file-property-defs.module.code.ts"
 import type { FileReadShape } from "../file-read/file-read.module.code.ts"
 
@@ -61,7 +61,7 @@ async function readSlugOfId(
   }
   const asked = deps === undefined ? await askComposed(query) : await deps.ask(query)
   if (asked.ok) {
-    const filed = textOf(asked.answer.rows[0]?.values ?? {}, "slug")
+    const filed = textAt(asked.answer.rows[0]?.values ?? {}, "slug")
     if (filed !== null) return { slug: filed, unread: false }
   }
   return { slug: null, unread: !asked.ok }
