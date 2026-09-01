@@ -117,21 +117,7 @@
         "**/*.ts"
       ]
     },
-    "shared/supabase-database": {
-      "entry": [],
-      "project": [
-        "**/*.ts"
-      ]
-    },
     "shared/supabase-rr": {
-      "entry": [
-        "**/*.test.{ts,tsx}"
-      ],
-      "project": [
-        "**/*.ts"
-      ]
-    },
-    "shared/supabase-server": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
