@@ -1,7 +1,7 @@
 "use client"
 
 import { UserIdContext } from "@shared/pages-ui/use-user-id"
-import { useAppVersionCheck } from "@shared/pages-ui/app-version/use-app-version-check"
+import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { PageTypeSlug } from "@shared/pages-url"
