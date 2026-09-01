@@ -151,9 +151,6 @@
       "path": "./shared/object-store"
     },
     {
-      "path": "./alanwalton/personas-core"
-    },
-    {
       "path": "./shared/status-bar-access"
     },
     {

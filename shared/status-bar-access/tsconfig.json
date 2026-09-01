@@ -50,9 +50,6 @@
   ],
   "references": [
     {
-      "path": "../../alanwalton/personas-core"
-    },
-    {
       "path": "../pages-access"
     },
     {

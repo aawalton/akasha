@@ -47,7 +47,7 @@
     "alanwalton/awen-core",
     "alanwalton/health-samples-access",
     "alanwalton/location-traces-access",
-    "alanwalton/personas-core",
+    "akasha/personas-core",
     "akasha/sms-access",
     "akasha/sms-core",
     "alanwalton/web",

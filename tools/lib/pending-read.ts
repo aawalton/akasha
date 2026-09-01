@@ -1,4 +1,4 @@
-import { matchPersonaForAgent } from "@alanwalton/personas-core/last-messaged"
+import { matchPersonaForAgent } from "@akasha/personas-core/last-messaged"
 import { getOpenQuestions, selectQuestionsAskedBy } from "./attention-question.ts"
 import { readAgentMessageRecency } from "./message-recency.ts"
 import type { OutboundRecency } from "./pending-decide.ts"

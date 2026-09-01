@@ -2,10 +2,10 @@ export {
   pathspecsForPrefix,
   pathspecsForPrefixes,
   resolvePointsPrefixes,
-} from "@alanwalton/personas-core/git-byte-pathspecs"
-export { GREEN_DAY_POINTS_FIELD } from "@alanwalton/personas-core/green-day-fraction"
-export { PERSONA_POINTS_SOURCE_COHERENCE_RULES } from "@alanwalton/personas-core/points-source-coherence"
-export { decideTotalPointsWrite } from "@alanwalton/personas-core/totals"
+} from "@akasha/personas-core/git-byte-pathspecs"
+export { GREEN_DAY_POINTS_FIELD } from "@akasha/personas-core/green-day-fraction"
+export { PERSONA_POINTS_SOURCE_COHERENCE_RULES } from "@akasha/personas-core/points-source-coherence"
+export { decideTotalPointsWrite } from "@akasha/personas-core/totals"
 export { evaluateCoherenceRules } from "@akasha/pages-core/schema/coherence-rules"
 export { askNamed, patchPage } from "@shared/pages-query"
 export { askComposed } from "@shared/pages-query/ask"

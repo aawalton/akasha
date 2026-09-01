@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@alanwalton/health-samples-access": "workspace:*",
-    "@alanwalton/personas-core": "workspace:*",
+    "@akasha/personas-core": "workspace:*",
     "@shared/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@shared/pages-query": "workspace:*",
