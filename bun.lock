@@ -144,6 +144,14 @@
     "akasha/design/design-badges": {
       "name": "@akasha/design-badges",
     },
+    "akasha/design/design-forms": {
+      "name": "@akasha/design-forms",
+      "dependencies": {
+        "@shared/day": "workspace:*",
+        "chrono-node": "^2.9.0",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/domain-system": {
       "name": "@akasha/domain-system",
     },
@@ -4050,6 +4058,8 @@
     "@akasha/context-system": ["@akasha/context-system@workspace:akasha/context-system"],
 
     "@akasha/design-badges": ["@akasha/design-badges@workspace:akasha/design/design-badges"],
+
+    "@akasha/design-forms": ["@akasha/design-forms@workspace:akasha/design/design-forms"],
 
     "@akasha/domain-system": ["@akasha/domain-system@workspace:akasha/domain-system"],
 
