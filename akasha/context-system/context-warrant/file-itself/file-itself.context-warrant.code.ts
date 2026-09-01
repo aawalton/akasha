@@ -4,6 +4,6 @@ export const ITSELF =
   "A write replaces the body standing there, and what is replaced is read first."
 
 export function fileItself(root: string, path: string): readonly Warrant[] {
-  const standing = blobAt(root, path)
-  return standing === null ? [] : [{ path, oid: standing, owed: ITSELF }]
+  const oid = blobAt(root, path)
+  return oid === null ? [] : [{ path, oid: oid, owed: ITSELF }]
 }
