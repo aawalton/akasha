@@ -101,13 +101,13 @@ async function reaching<T>(fileId: string, act: () => Promise<T>): Promise<T> {
 export default async function driveFetch(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const files = await import("@alanwalton/drive-google/files")
+  const files = await import("@akasha/drive-google/files")
   const fileId = files.parseDriveFileId(parsed.requireString("--source"))
 
   const outRaw = parsed.string("--out")
   const outDir = outRaw === undefined ? process.cwd() : resolve(outRaw)
 
-  const { makeDriveClient } = await import("@alanwalton/drive-google/client")
+  const { makeDriveClient } = await import("@akasha/drive-google/client")
   const client = await makeDriveClient()
   const metadata = await reaching(fileId, () => files.fetchFileMetadata(client, fileId))
 

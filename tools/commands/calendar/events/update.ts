@@ -2,7 +2,7 @@ export const summary = "Patch fields of an existing calendar event and print it 
 
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { type EventPatch } from "@alanwalton/calendar-google/types"
+import { type EventPatch } from "@akasha/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 

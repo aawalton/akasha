@@ -1,11 +1,9 @@
 
 export const summary = "One-time OAuth consent that mints the calendar RSVP refresh token"
 
-import {
-  CALENDAR_OAUTH_SCOPE,
-  readCalendarOauthAppCredentials,
-} from "../../../../alanwalton/calendar-google/src/env.ts"
-import { parseOauthCallbackUrl } from "../../../../alanwalton/calendar-google/src/oauth-callback.ts"
+import { CALENDAR_OAUTH_SCOPE } from "@akasha/calendar-google/env"
+import { parseOauthCallbackUrl } from "@akasha/google-oauth/oauth-callback"
+import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 import { googleOauthConsent } from "../../../lib/google-oauth-consent.ts"
@@ -45,7 +43,7 @@ export const help: CommandHelp = {
 export default async function calendarAuthLogin(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const { clientId, clientSecret } = readCalendarOauthAppCredentials()
+  const { clientId, clientSecret } = readGoogleOauthAppCredentials()
 
   await googleOauthConsent({
     callbackParser: parseOauthCallbackUrl,

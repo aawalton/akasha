@@ -2,7 +2,7 @@ export const summary = "Create a calendar event and print the normalized event a
 
 import type { CommandHelp } from "../../../ops/surface.ts"
 import { calendarEvents, calendarOAuthClient } from "../../../lib/calendar-google.ts"
-import { type EventInput } from "@alanwalton/calendar-google/types"
+import { type EventInput } from "@akasha/calendar-google/types"
 import { narrowSendUpdates, SEND_UPDATES } from "../../../lib/calendar-send-updates.ts"
 import { parseArgs } from "../../../lib/parse-args.ts"
 
