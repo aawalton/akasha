@@ -168,6 +168,10 @@ function pathsIn(reading: Reading, at: string): readonly string[] {
   return found.sort()
 }
 
+export function importersIn(given: string | Reading, path: string): readonly string[] {
+  return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
+}
+
 export function importersOf(
   root: string,
   path: string,
@@ -177,7 +181,7 @@ export function importersOf(
   const why = staleFor(root, indexIn(root))
   if (why !== null) throw new Error(`${asked} could not be answered — ${why}`)
   const under = join(IMPORT, AT_PATH)
-  return answered(reading, under, asked, (held) => pathsIn(held, join(under, `${path}${ENDING}`)))
+  return answered(reading, under, asked, (held) => importersIn(held, path))
 }
 
 function schemaIn(reading: Reading, at: string): readonly Schema[] {

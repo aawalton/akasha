@@ -3,17 +3,12 @@ import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code-system/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
 import type { Value } from "@akasha/pages-system/page-value"
-import { indexImport } from "../index/index-import/index-import.index.ts"
 import { filePropertiesAt, pathsOf, under } from "../index-entries/index-entries.module.code.ts"
-import { everyPath } from "../index-reading/index-reading.module.code.ts"
+import { everyPath, importersIn } from "../index-reading/index-reading.module.code.ts"
 import type { Reading } from "../index-shape/index-shape.module.code.ts"
 import { readingOf } from "../index-surface/index-surface.module.code.ts"
 
 const MANIFEST = "manifest"
-
-const IMPORTS_AT = join(indexImport.name, "path")
-
-const ENDING = ".jsonl"
 
 const HELD = new Map<string, Naming>()
 
@@ -126,19 +121,14 @@ export function landedElsewhere(was: Naming, now: Naming): readonly string[] {
   return said
 }
 
-export function importersOf(
+export function importersAmong(
   given: string | Reading,
   landed: readonly string[]
 ): ReadonlySet<string> {
   const reading = readingOf(given)
   const said = new Set<string>()
   for (const one of landed) {
-    for (const line of reading.lines(join(IMPORTS_AT, `${one}${ENDING}`))) {
-      try {
-        const held = JSON.parse(line) as { readonly path?: unknown }
-        if (typeof held.path === "string") said.add(held.path)
-      } catch {}
-    }
+    for (const path of importersIn(reading, one)) said.add(path)
   }
   return said
 }
@@ -178,7 +168,7 @@ export function rereadOver(
   )
   const bodyAt = bodiesAt(repo)
   const reread: Reread[] = []
-  for (const path of importersOf(given, landedElsewhere(was, now))) {
+  for (const path of importersAmong(given, landedElsewhere(was, now))) {
     if (owned.has(path)) continue
     const body = bodyAt(path)
     if (body === null) continue
