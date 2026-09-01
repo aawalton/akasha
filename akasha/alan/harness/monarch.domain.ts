@@ -39,5 +39,9 @@ export const monarch = {
       invariantKind: "departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Alan's tile draws the unreviewed count his workstation last took.",
+    },
   ],
 } as const satisfies Domain

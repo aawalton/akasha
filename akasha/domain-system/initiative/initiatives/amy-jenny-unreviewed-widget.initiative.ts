@@ -9,11 +9,6 @@ export const amyJennyUnreviewedWidget = {
   parentSlug: "akasha-migration",
   intents: [
     {
-      statement: "Alan's unreviewed transaction iOS widget works.",
-      workingMemory:
-        "Met on every link anyone here can observe; what is left is Alan looking at his phone. Both sites run 0ce4248bc1 and both built. iOS: BUILD SUCCEEDED and BUILD_SIM_OK, ValuesWidgetExtension carrying alanwalton-categorize-widget. Payload checked by hand against the Swift and lines up; relay carries 9. readout-categorization is readout-serving, and no code file in the package names a readout, scale or group. Kills looked over at 43 min clean before a deploy reset that window.",
-    },
-    {
       statement: "The packages reading and writing pages stand in akasha.",
       workingMemory:
         "`shared/pages-query` is 8 files but no small move: its sources close over 168 under `tools/`, `page/`, `repo/`, `readouts/`, and `imports-inside` refuses every relative escape from `akasha/`. It waits on the root page engine beneath it, filed at `the-root-page-engine-lands-as-five-packages-in-this-order` as five increments. `shared/` is down to 5 folders and only this and `pages-ui` still move; `auth`, `design-patterns` and `utils-test` are settled. Inbound: 120 statements in 86 files.",
