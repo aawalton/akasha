@@ -9,5 +9,6 @@ export const design = {
     "workspace-package/design-badges",
     "workspace-package/design-forms",
     "workspace-package/design-layout",
+    "workspace-package/design-primitives",
   ],
 } as const satisfies Domain
