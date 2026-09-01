@@ -5,7 +5,7 @@ import {
   stripLeadingMarker,
 } from "@akasha/pages-core/property-types/block-markers"
 import type { Block } from "@akasha/pages-core/property-types/rich-document"
-import type { V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
+import { textOf, type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
 
 export function continuationType(type: string): V1BlockType {
   switch (type) {
@@ -18,10 +18,6 @@ export function continuationType(type: string): V1BlockType {
     default:
       return "paragraph"
   }
-}
-
-export function textOf(block: Block): string {
-  return typeof block.text === "string" ? block.text : ""
 }
 
 export type EnterPlan =

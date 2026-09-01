@@ -6,10 +6,7 @@ export function createSaveQueue(announceFailure: () => undefined): SaveQueue {
   let chain: Promise<void> = Promise.resolve()
   return {
     enqueue(write: () => Promise<void>): Promise<void> {
-      let openGate: () => void = () => undefined
-      const gate = new Promise<void>((resolve) => {
-        openGate = resolve
-      })
+      const gate = Promise.withResolvers<void>()
       const unhandled = chain.then(async () => {
         try {
           await write()
@@ -17,10 +14,10 @@ export function createSaveQueue(announceFailure: () => undefined): SaveQueue {
           announceFailure()
           throw cause
         } finally {
-          openGate()
+          gate.resolve()
         }
       })
-      chain = gate
+      chain = gate.promise
       return unhandled
     },
   }
