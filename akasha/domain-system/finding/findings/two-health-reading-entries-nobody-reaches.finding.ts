@@ -4,7 +4,7 @@ export const twoHealthReadingEntriesNobodyReaches = {
   id: "01a05bc7-9129-700e-b01d-8155de847c8c",
   pageTypeSlug: "finding",
   slug: "two-health-reading-entries-nobody-reaches",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "Two ways into the health readings package were carried into akasha although nothing in the repository reaches either, and they were kept rather than dropped because only Alan knows whether he still wants them.",
   evidence:

@@ -4,7 +4,7 @@ export const theFrozenLockfileProofNeedsOnlyTheManifests = {
   id: "01a05c83-a3ff-77a9-81c5-672d1a6fdb18",
   pageTypeSlug: "finding",
   slug: "the-frozen-lockfile-proof-needs-only-the-manifests",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "The deploy-gate proof the two lockfile findings prescribe, extracting the whole tree with `git archive HEAD | tar -x`, is answered exactly by `git archive HEAD -- package.json bun.lock $(git ls-files '*/package.json')`. That is 1.8M and 307 manifests rather than a copy of some eighty-five thousand files, and both report the same failures. Four full copies filled the 32G `/tmp` and took the Bash tool down for every agent on the box.",
   evidence:

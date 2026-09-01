@@ -4,7 +4,7 @@ export const oneGoogleConsentAppBehindThreePackages = {
   id: "01a05bdc-e25d-7ce7-928c-2e6770d63aaf",
   pageTypeSlug: "finding",
   slug: "one-google-consent-app-behind-three-packages",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "Three of Alan's Google packages spell the same two functions byte for byte: the parser of a consent callback URL and the reader of the OAuth app's client id and secret. Landing all three into akasha as they stand would have added six files for `no-rule-in-two-files` to refuse, a check another lane is already clearing 62 refusals of. I took the call to land the shared pair once, as `@akasha/google-oauth`, and have calendar, drive and mail each reach it.",
   evidence:

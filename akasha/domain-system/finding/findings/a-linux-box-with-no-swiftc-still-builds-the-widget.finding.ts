@@ -4,7 +4,7 @@ export const aLinuxBoxWithNoSwiftcStillBuildsTheWidget = {
   id: "01a05c68-6269-7182-ba6b-f6f81fea4662",
   pageTypeSlug: "finding",
   slug: "a-linux-box-with-no-swiftc-still-builds-the-widget",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "A lane concluded no widget Swift could compile because this box has no swiftc. That is true of the box and beside the point: `akasha ios-app` reads `AKASHA_MAC_HOST`, defaults to `macbook`, and hands the build there. Run that way, `ios-app build smilingjenny` exits 0 with BUILD_SIM_OK and compiles clean. Alan's exits 3, but on a missing web bundle before xcodebuild rather than on any Swift.",
   evidence:

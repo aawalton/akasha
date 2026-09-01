@@ -4,7 +4,7 @@ export const appsTsWaitsOnTheIosAppPagesMovingIntoAkasha = {
   id: "01a05c4f-e44d-7427-b73a-10e4a58eec7c",
   pageTypeSlug: "finding",
   slug: "apps-ts-waits-on-the-ios-app-pages-moving-into-akasha",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "apps.ts cannot read ios-app pages the way app-building does. readFilePages reads the markdown at pages/ios-app/, whose three pages state 18 keys; the akasha ios-app pages state seven of them and atlas has no akasha page at all. Six properties would join the ios-app page type and atlas would be dropped or carried in first. So apps.ts waits on those pages moving into akasha rather than on a rewrite, and its three escapes stand with it.",
   evidence:

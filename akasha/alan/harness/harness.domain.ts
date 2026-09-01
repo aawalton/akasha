@@ -1,9 +1,9 @@
 import type { Domain } from "../../domain-system/domain/domain.page-type.ts"
 
-export const alanHarness = {
+export const harness = {
   id: "01a05381-69f8-77f7-afef-d8329db98385",
   pageTypeSlug: "domain",
-  slug: "alan-harness",
+  slug: "harness",
   definition: "how Alan does things",
   partSlugs: [
     "domain/monarch",

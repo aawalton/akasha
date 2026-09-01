@@ -4,7 +4,7 @@ export const alansUsageWidgetDrawsUnreadAndTheReadingsCannotReachIt = {
   id: "01a05cb3-224b-7000-8a12-1cbb9886db18",
   pageTypeSlug: "finding",
   slug: "alans-usage-widget-draws-unread-and-the-readings-cannot-reach-it",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "Alan's usage widget draws `—` now rather than a fleet at zero percent spent, because `api.claude-usage.ts` refuses where its mean over the fleet is a mean over no account. Real numbers still cannot reach it. The pod does hold a checkout, but every figure the widget wants stands in a file git ignores, so the clone carries the eight account pages and none of the eight readings.",
   evidence:

@@ -4,7 +4,7 @@ export const theImessageHexFixturesWereLetGoRatherThanCarried = {
   id: "01a05c25-171a-76e4-99bc-cc3db6d26553",
   pageTypeSlug: "finding",
   slug: "the-imessage-hex-fixtures-were-let-go-rather-than-carried",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "The three .hex.txt fixtures the old imessage folder held did not carry into akasha, and this lane let them go rather than carrying them. They are encoded bodies of real messages; the package's own page says no message body is written to a page; and the test-fixtures file property admits ts rather than text. Synthetic fixtures and a test stand in their place. The call was taken without Alan.",
   evidence:

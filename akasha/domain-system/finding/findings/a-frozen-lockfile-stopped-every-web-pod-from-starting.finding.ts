@@ -4,7 +4,7 @@ export const aFrozenLockfileStoppedEveryWebPodFromStarting = {
   id: "01a05b73-d739-73f7-912f-192235255be1",
   pageTypeSlug: "finding",
   slug: "a-frozen-lockfile-stopped-every-web-pod-from-starting",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "This is repaired; it stands for the episode rather than as work to do. For part of tonight no new pod of Alan's web app could start, on two faults in succession: `bun.lock` disagreed with the manifests, and under that `shared/pages-system` stood in the root workspaces while its `package.json` was never committed. `a603183ec0` and `1b5bca0d2a` repaired them. A frozen install run in this worktree sees neither fault, so it is no deploy gate.",
   evidence:

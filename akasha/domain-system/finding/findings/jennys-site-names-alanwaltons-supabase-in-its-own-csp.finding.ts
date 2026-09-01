@@ -4,7 +4,7 @@ export const jennysSiteNamesAlanwaltonsSupabaseInItsOwnCsp = {
   id: "01a05cee-d38f-7c49-8c2e-f6c10bfb30d8",
   pageTypeSlug: "finding",
   slug: "jennys-site-names-alanwaltons-supabase-in-its-own-csp",
-  domainSlug: "domain/alan-harness",
+  domainSlug: "domain/harness",
   claim:
     "Jenny's site is not free of alanwalton.com. Her live CSP `connect-src` names `https://supabase.alanwalton.com`, and the tree states that host three times. A working memory saying her build named alanwalton.com nowhere was wrong, and wrong as reassurance. What her build carries no name of is Alan's site as a relay target. `SMILINGJENNY_RELAY_SECRET` is no secret name anywhere, so denying it named nothing.",
   evidence:
