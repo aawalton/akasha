@@ -65,7 +65,7 @@ function textFor(held: Value, key: string, path: string, asked: string): string 
   return said
 }
 
-function standingFor(reading: Reading, pageTypeSlug: string, slug: string, asked: string): Listed {
+function pageFor(reading: Reading, pageTypeSlug: string, slug: string, asked: string): Listed {
   const found = listedAt(reading, pageTypeSlug, slug)[0]
   if (found === undefined) {
     throw new Error(
@@ -80,7 +80,7 @@ function indexNameFor(root: string, reading: Reading, named: string, asked: stri
   if (address.kind !== "qualified") {
     throw new Error(`\`${named}\` names no page type, so ${asked} could not be answered`)
   }
-  const found = standingFor(reading, address.pageTypeSlug, address.slug, asked)
+  const found = pageFor(reading, address.pageTypeSlug, address.slug, asked)
   return textFor(valueFor(root, found.path, asked), INDEX_NAME, found.path, asked)
 }
 
@@ -91,7 +91,7 @@ function attributesIn(held: Value): readonly string[] {
 }
 
 function askingFor(root: string, reading: Reading, kind: string, asked: string): Asking {
-  const found = standingFor(reading, GRAPH_EDGE, kind, asked)
+  const found = pageFor(reading, GRAPH_EDGE, kind, asked)
   const held = valueFor(root, found.path, asked)
   return {
     kind,
