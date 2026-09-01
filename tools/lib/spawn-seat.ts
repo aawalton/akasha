@@ -1,5 +1,5 @@
 
-import { enforceSpawnAdmission } from "@shared/utils-system/memory-guard"
+import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
 import { dataError, inputError, operationalError } from "./exit.ts"
 import { FLEET, personaDefaultsOf } from "./compose-seat-name.ts"
 import { seatByName } from "./seat-by-name.ts"

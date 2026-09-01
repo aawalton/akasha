@@ -1,7 +1,7 @@
 export const summary = "Spawn a React Router dev server, detach it, and write a state file"
 
 import { existsSync, openSync } from "node:fs"
-import { enforceMemoryGuard } from "@shared/utils-system/memory-guard"
+import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"

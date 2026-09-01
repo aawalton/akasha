@@ -1,6 +1,6 @@
 import { MODEL_IDS, MODELS, type ModelSpec, toModelId } from "@infra/zimage/cli/models"
 import { buildModelGraph, type RenderParams } from "@infra/zimage/cli/zimage-graph"
-import { enforceSpawnAdmission } from "@shared/utils-system/memory-guard"
+import { enforceSpawnAdmission } from "@akasha/utils-system/memory-guard"
 import { fetchImage, freeComfyMemory, runComfyGraph } from "./inference/cli/comfy-client.ts"
 
 export type ComfyGraph = unknown

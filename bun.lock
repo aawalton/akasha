@@ -12,6 +12,7 @@
         "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-process": "workspace:*",
+        "@akasha/utils-system": "workspace:*",
         "@alanwalton/mobile-cli": "workspace:*",
         "@collections/exercises": "workspace:*",
         "@collections/music": "workspace:*",
@@ -48,7 +49,6 @@
         "@shared/triggers-proc-compiler": "workspace:*",
         "@shared/utils-narrow": "workspace:*",
         "@shared/utils-sync": "workspace:*",
-        "@shared/utils-system": "workspace:*",
         "@stories/text": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "@temper/catalog-cli": "workspace:*",
@@ -345,6 +345,9 @@
     "akasha/hook-system": {
       "name": "@akasha/hook-system",
     },
+    "akasha/id-minting": {
+      "name": "@akasha/id-minting",
+    },
     "akasha/idle-system": {
       "name": "@akasha/idle-system",
       "dependencies": {
@@ -392,6 +395,7 @@
     "akasha/pages-system/pages-core": {
       "name": "@akasha/pages-core",
       "dependencies": {
+        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@shared/day": "workspace:*",
@@ -537,6 +541,13 @@
         "@shared/utils-narrow": "workspace:*",
       },
     },
+    "akasha/utils-system": {
+      "name": "@akasha/utils-system",
+      "dependencies": {
+        "@shared/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "akasha/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -565,6 +576,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/geo-io": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -640,6 +652,7 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -724,6 +737,7 @@
       "dependencies": {
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -766,6 +780,7 @@
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -1193,9 +1208,9 @@
         "zimage-provision": "./bin/zimage-provision.sh",
       },
       "dependencies": {
+        "@akasha/utils-system": "workspace:*",
         "@infra/comfy": "workspace:*",
         "@shared/errors-core": "workspace:*",
-        "@shared/utils-system": "workspace:*",
       },
       "devDependencies": {
         "@types/bun": "^1.3.9",
@@ -1762,20 +1777,6 @@
         "@types/bun": "^1.3.9",
       },
     },
-    "shared/utils-system": {
-      "name": "@shared/utils-system",
-      "bin": {
-        "utils-system": "./src/cli.ts",
-      },
-      "dependencies": {
-        "@shared/errors-core": "workspace:*",
-        "@shared/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "devDependencies": {
-        "@types/bun": "^1.3.9",
-      },
-    },
     "shared/utils-test": {
       "name": "@shared/utils-test",
       "version": "0.1.0",
@@ -1809,6 +1810,7 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -3801,6 +3803,7 @@
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
+        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -3944,6 +3947,8 @@
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:akasha/hook-system"],
 
+    "@akasha/id-minting": ["@akasha/id-minting@workspace:akasha/id-minting"],
+
     "@akasha/idle-system": ["@akasha/idle-system@workspace:akasha/idle-system"],
 
     "@akasha/imessage": ["@akasha/imessage@workspace:akasha/imessage"],
@@ -4003,6 +4008,8 @@
     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:akasha/utils-fs"],
 
     "@akasha/utils-process": ["@akasha/utils-process@workspace:akasha/utils-process"],
+
+    "@akasha/utils-system": ["@akasha/utils-system@workspace:akasha/utils-system"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:akasha/voice-core"],
 
@@ -4617,8 +4624,6 @@
     "@shared/utils-narrow": ["@shared/utils-narrow@workspace:shared/utils-narrow"],
 
     "@shared/utils-sync": ["@shared/utils-sync@workspace:shared/utils-sync"],
-
-    "@shared/utils-system": ["@shared/utils-system@workspace:shared/utils-system"],
 
     "@shared/utils-test": ["@shared/utils-test@workspace:shared/utils-test"],
 
