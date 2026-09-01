@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const aTailwindSourceGlobNamesOneHalfOfAPackageMidMove = {
+  id: "01a05ce2-aa22-747b-86da-e31f3931e820",
+  pageTypeSlug: "finding",
+  slug: "a-tailwind-source-glob-names-one-half-of-a-package-mid-move",
+  domainSlug: "workspace-package/alanwalton-web",
+  claim:
+    "A Tailwind `@source` glob is path-keyed configuration no typecheck and no build failure can see. While a package is half-moved its classes are emitted only where a `globals.css` names both halves, and four apps named the shared half alone. The cost rises as the move finishes rather than falling. One class here is built at run time rather than written, so no glob reaches it and only a safelist can.",
+  evidence:
+    "Measured against built stylesheets rather than read. `alanwalton/web/app/globals.css:26` and `app-capacitor/globals.css:26` named `shared/pages-ui/src/**` alone while `akasha/pages-system/pages-ui` held 233 files reached by 44 subpath imports and was scanned by nothing. Five literal classes from `use-app-version-check.module.code.ts:21-24` stood at 0 occurrences in `root-BkDy5U6f.css` at 113,920 bytes. Naming the akasha half returns exactly those five and takes the sheet to 114,234 bytes, the control figure this initiative already recorded.\n\nA glob adds paths to the scan set and Tailwind emits the union over scanned files, so the repair cannot regress an app.\n\nThe cost curve is why this is worth a page. The akasha half is 186 logic modules against 5 `.tsx`, so one toast was affected. 116 `.tsx` components still stand under the other glob. When they move, the shared glob matches nothing and the omission drops most of a site's styling rather than one toast.\n\nThree other apps carried the same omission and now name both: `alanwalton/atlas-web`, `archive-of-worlds/web` and `temper/web`, which reaches `@akasha/pages-ui` in 36 files. `audhdalan/web` and `smilingjenny/web` name neither glob and import no pages-ui component, so both are right as they stand.\n\n`!bg-surface-0` is not repaired and no glob repairs it. `use-app-version-check` writes it as `!` joined to `surfaceClass(0)`, so that literal stands in no file and Tailwind scans text. `temper/web/app/globals.css:24` shows what would answer it, `@source inline(...)`.\n\n`shared/design-patterns` failed this way before and lines 23 and 24 already name both halves, so the pattern was known here and pages-ui was missed anyway.",
+} as const satisfies Finding

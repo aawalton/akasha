@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const theWebAppReachesAPackageItsManifestDoesNotName = {
+  id: "01a05ce2-aa22-7b17-821f-e66d5e7a1984",
+  pageTypeSlug: "finding",
+  slug: "the-web-app-reaches-a-package-its-manifest-does-not-name",
+  domainSlug: "workspace-package/alanwalton-web",
+  claim:
+    "`alanwalton/web/app/routes/api.readout-relay.ts` imports `@akasha/readout-system`, which `alanwalton/web/package.json` does not name. It resolves only because Bun installs every workspace package into the root `node_modules`. Typecheck, install, `--frozen-lockfile --dry-run` and the build all succeed, and the route breaks whenever resolution stops being hoist-based.",
+  evidence:
+    "`api.readout-relay.ts:1-11` names `@akasha/readout-system/readout-credential` and `@akasha/readout-system/readout-relay`. The dependencies `alanwalton/web/package.json` declares do not include `@akasha/readout-system`. The import resolves at HEAD because a workspace install puts every package in the root `node_modules`, which places it on the resolution path of anything in the tree whether or not that thing asked for it.\n\nEvery tool trusted for the deploy passes. The typechecker resolves through `node_modules` and finds a real module. `bun install --frozen-lockfile --dry-run` exits 0 because the lockfile agrees with the manifests it was built from. The build inlines the module. Nothing reports a missing dependency because nothing is missing on disk. What is missing is the declaration.\n\nThis is the third shape of the same defect met in one night: configuration that is not an import specifier. A Tailwind `@source` glob names a path no import names. A dependency list names packages the imports already name, and the list is the half that can be wrong while every import is right. A resolver walking import specifiers is blind to both for the reason a name grep is blind to a rename: the tool reads one layer and the fact stands in another. Agreement between code and its configuration is checked by nothing here, so it holds only while someone holds it by hand.\n\nThe failure mode is a change to install layout rather than to code. A version bump altering hoisting, a `nohoist` entry, or an image installing one package at a time would each break it, and none reads as risky to whoever reviews it.\n\nThis is latent rather than live: the route answers today and the deploy carrying it is no worse for it.",
+} as const satisfies Finding
