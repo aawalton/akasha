@@ -7,7 +7,7 @@ import { ownTypeScript } from "../lib/own-typescript.ts"
 import { REFUSAL_DIR, refusalText } from "../../refusal/refusal.ts"
 import { judge, over } from "../../outcome/outcome.ts"
 import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
-import { fileStemOf } from "@shared/file-page-identity"
+import { fileStemOf } from "@akasha/file-page-identity"
 
 const NAME = "refusals-bound"
 const CALL = "refusalText("

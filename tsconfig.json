@@ -4,12 +4,6 @@
       "path": "./shared/day"
     },
     {
-      "path": "./shared/file-page-identity"
-    },
-    {
-      "path": "./shared/supabase-database"
-    },
-    {
       "path": "./shared/pages-query"
     },
     {
@@ -17,9 +11,6 @@
     },
     {
       "path": "./shared/supabase-client"
-    },
-    {
-      "path": "./shared/supabase-server"
     },
     {
       "path": "./shared/supabase-rr"

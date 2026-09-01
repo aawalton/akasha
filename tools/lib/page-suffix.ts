@@ -1,6 +1,6 @@
 import { SLUG } from "../../page/page-types.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
-import { idOfFilePage, slugOfFilePage } from "@shared/file-page-identity"
+import { idOfFilePage, slugOfFilePage } from "@akasha/file-page-identity"
 
 const MARKDOWN = ".md"
 

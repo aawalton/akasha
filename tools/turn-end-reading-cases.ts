@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { readFileSync, readdirSync } from "node:fs"
-import { fileStemOf } from "@shared/file-page-identity"
+import { fileStemOf } from "@akasha/file-page-identity"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
 import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"

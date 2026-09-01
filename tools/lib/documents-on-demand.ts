@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./check.ts"
-import { fileStemOf } from "@shared/file-page-identity"
+import { fileStemOf } from "@akasha/file-page-identity"
 import { type Documents, DOMAIN_SLUG_KEY } from "./domain.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontmatter.ts"

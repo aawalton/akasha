@@ -6,6 +6,7 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
+        "@akasha/file-page-identity": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/pages-url": "workspace:*",
@@ -305,6 +306,9 @@
     },
     "akasha/email-inbound": {
       "name": "@akasha/email-inbound",
+    },
+    "akasha/file-page-identity": {
+      "name": "@akasha/file-page-identity",
     },
     "akasha/file-system": {
       "name": "@akasha/file-system",
@@ -1552,6 +1556,7 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-database": "workspace:*",
@@ -3908,6 +3913,8 @@
     "@akasha/email-google": ["@akasha/email-google@workspace:akasha/email-google"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:akasha/email-inbound"],
+
+    "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:akasha/file-page-identity"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:akasha/file-system"],
 

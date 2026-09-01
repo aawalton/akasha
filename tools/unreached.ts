@@ -5,7 +5,7 @@ export const tool = {
 
 import { readFileSync } from "node:fs"
 import { git } from "../repo/git/git.ts"
-import { fileStemOf } from "@shared/file-page-identity"
+import { fileStemOf } from "@akasha/file-page-identity"
 import { extractLinks } from "./lib/links.ts"
 import { type Roots } from "../page/page.ts"
 import { normalizeAbsolute } from "../repo/path/path.ts"

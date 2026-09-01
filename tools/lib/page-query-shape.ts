@@ -4,7 +4,7 @@ import { textOf } from "./page-query-values.ts"
 import type { Deriver } from "./page-derive-shape.ts"
 import type { Values } from "./page-file-values.ts"
 import { camelizeKey } from "../page/page-naming.ts"
-import { idOfFilePage } from "@shared/file-page-identity"
+import { idOfFilePage } from "@akasha/file-page-identity"
 import { slugNamed } from "../../page/page-address.ts"
 import type { Roots } from "../../page/page.ts"
 

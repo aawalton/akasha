@@ -1,7 +1,7 @@
 
 import { readdirSync, readFileSync } from "node:fs"
 import { type Frontmatter, listField, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { fileStemOf } from "@shared/file-page-identity"
+import { fileStemOf } from "@akasha/file-page-identity"
 import {
   installedUnitName,
   isSystemScoped,
