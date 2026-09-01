@@ -11,7 +11,7 @@ import { createPortal } from "react-dom"
 import { useFetcher, useLocation, useNavigate } from "react-router"
 import { fractionToTime, POSITION_RESUME_MIN_FRACTION } from "../components/position-fraction"
 import { useSetPropertyOptimistic } from "../supabase/use-set-property-optimistic"
-import { STORED_READ_ALOUD_VARIANT } from "./media-src"
+import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import type { NativeTtsAdapter } from "./native-tts-adapter"
 import {
   type ActiveSessionInit,
@@ -27,7 +27,7 @@ import { useAudioTransport } from "./use-audio-transport"
 import { useCrossModePositionWrite } from "./use-cross-mode-position-write"
 import { usePersistAudioSession } from "./use-persist-audio-session"
 import { usePersistentAudioContainer } from "./use-persistent-audio-container"
-import type { MediaSrcResolver } from "./use-shell-media-src"
+import type { MediaSrcResolver } from "@akasha/pages-ui/media/use-shell-media-src"
 import type { EnsureRenditionFn } from "./use-webkit-read-aloud-ensure"
 
 type PlayingSessionContextValue = {

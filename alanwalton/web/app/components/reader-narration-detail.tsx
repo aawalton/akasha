@@ -2,7 +2,7 @@
 
 import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
 import { useOptionalPlayingSession } from "@shared/pages-ui/media/playing-session-context"
-import { KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@shared/pages-ui/media/media-src"
+import { KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { planPlayFromSentence } from "@shared/pages-ui/media/play-from-sentence"
 import { type ActiveSessionInit } from "@shared/pages-ui/media/playing-session"
 import { type ComponentProps, useCallback, useMemo } from "react"

@@ -6,7 +6,7 @@ import { isMedium, MEDIA_FORMATS, type Medium } from "@akasha/pages-core/media-f
 import { resolveRequestUser } from "@shared/supabase-rr/auth/server"
 import { requireMatchPositional } from "../../../utils-narrow/src/require-match-positional"
 import { z } from "zod"
-import { mediaTokenSecret, verifyMediaToken } from "./media-token"
+import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 
 export const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024
 

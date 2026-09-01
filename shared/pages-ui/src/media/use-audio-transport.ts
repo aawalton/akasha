@@ -1,12 +1,12 @@
 import { assertNever } from "../../../utils-narrow/src/assert-never"
 import { useCallback, useEffect, useState } from "react"
-import { isWebKitClient } from "./is-webkit"
-import { mediaHlsSrcForVariant, mediaSrcForVariant } from "./media-src"
+import { isWebKitClient } from "@akasha/pages-ui/media/is-webkit"
+import { mediaHlsSrcForVariant, mediaSrcForVariant } from "@akasha/pages-ui/media/media-src"
 import type { NativeTtsAdapter } from "./native-tts-adapter"
 import type { PlayingSessionState } from "./playing-session"
 import { selectTransport, type Transport } from "./transport-selection"
 import { useNativeTtsTransport } from "./use-native-tts-transport"
-import { type MediaSrcResolver, useShellMediaSrc } from "./use-shell-media-src"
+import { type MediaSrcResolver, useShellMediaSrc } from "@akasha/pages-ui/media/use-shell-media-src"
 import { type EnsureRenditionFn, useWebKitReadAloudDivert } from "./use-webkit-read-aloud-ensure"
 
 type NativeTransport = ReturnType<typeof useNativeTtsTransport>

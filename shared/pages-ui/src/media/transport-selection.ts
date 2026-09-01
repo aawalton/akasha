@@ -1,4 +1,4 @@
-import { KOKORO_STREAM_VARIANT } from "./media-src"
+import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 
 export type Transport = "hls-src" | "native-plugin" | "shell-src" | "web-src"
 

@@ -2,7 +2,7 @@ import type { Medium } from "@akasha/pages-core/media-formats"
 import { useEffect, useLayoutEffect, useRef } from "react"
 import { useLocation, useSearchParams } from "react-router"
 import { z } from "zod"
-import { KOKORO_STREAM_VARIANT } from "./media-src"
+import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { usePlayingSession } from "./playing-session-context"
 import { readPersistedSession } from "./playing-session-storage"
 
