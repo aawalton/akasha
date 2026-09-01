@@ -1,7 +1,14 @@
-import { resolve } from "node:path"
+import { dirname, resolve } from "node:path"
 import { textIn } from "@akasha/code-system/body-text"
 import { lineAt, parsedAs } from "@akasha/code-system/code-source"
-import { compiled, insideOf, programOver, readingOf } from "@akasha/code-system/code-typing"
+import {
+  compiled,
+  insideOf,
+  manifested,
+  programOver,
+  readingOf,
+} from "@akasha/code-system/code-typing"
+import { reachesIn } from "@akasha/code-system/package-manifest"
 import { reachingInto } from "@akasha/graph-system/graph-asking"
 import { importEdge } from "@akasha/graph-system/import-edge"
 import { pageTypesIn } from "@akasha/indexes/entries"
@@ -11,7 +18,8 @@ import type { Change } from "@akasha/pages-system/change"
 import { pageNamed } from "@akasha/pages-system/page-file-name"
 import type { Shadow } from "@akasha/pages-system/shadow"
 import ts from "typescript"
-import { input, TEXTS } from "../../change-walking/change-walking.module.code.ts"
+import type { Body, Selector } from "../../change-walking/change-walking.module.code.ts"
+import { FILES, input, textNamed } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 
 const IMPORT = importEdge.slug
@@ -25,8 +33,33 @@ export type Found = {
   readonly reason: string
 }
 
+export function builtFrom(path: string): boolean {
+  return textNamed(path) || manifested(path)
+}
+
+const BUILT: Selector<Body> = {
+  named: "the bodies the program is built from",
+  isInput: (path) => builtFrom(path),
+  from: (change, shadow) => FILES.from(change, shadow).filter((one) => builtFrom(one.path)),
+}
+
+export function landingsIn(change: Change): readonly string[] {
+  const found = new Set<string>()
+  for (const at of change.changed) {
+    if (!manifested(at)) continue
+    const folder = dirname(at)
+    for (const bytes of [change.before(at), change.after(at)]) {
+      if (bytes === null) continue
+      for (const [, path] of reachesIn(folder, textIn(bytes))) found.add(path)
+    }
+  }
+  const held = [...found].filter((one) => change.before(one) !== null || change.after(one) !== null)
+  return held.sort()
+}
+
 export function reachedBy(change: Change, reading?: Reading): readonly string[] {
-  return reachingInto(change.root, change.changed, [IMPORT], compiled, reading)
+  const seeds = [...change.changed, ...landingsIn(change)]
+  return reachingInto(change.root, seeds, [IMPORT], compiled, reading)
 }
 
 export function rootsOf(change: Change, reading?: Reading): readonly string[] {
@@ -132,4 +165,4 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   return said
 }
 
-export const typecheck = input(TEXTS, refusalsIn)
+export const typecheck = input(BUILT, refusalsIn)

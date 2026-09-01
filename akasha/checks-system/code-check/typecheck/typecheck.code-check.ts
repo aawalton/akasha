@@ -78,6 +78,31 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A package manifest is input to this check as readily as a body of TypeScript.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A specifier is resolved through the manifest the change leaves rather than the one the disk holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest the change carries reaches the files its ways in name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in is read from the manifest before the change and from the one after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those files are judged together with everything importing them however far.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in naming a file that is nowhere reaches nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page being created is compiled against its type less the properties a generator fills.",
     },
