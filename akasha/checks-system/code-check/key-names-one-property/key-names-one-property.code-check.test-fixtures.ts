@@ -1,5 +1,5 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { bytesOf } from "../../../testing-system/bodying/bodying.module.code.ts"
+import type { Change } from "@akasha/pages-system/change"
+import { bytesOf } from "@akasha/testing-system/bodying"
 import { landing, pathFor, put, stands } from "../../check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 

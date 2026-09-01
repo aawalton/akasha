@@ -1,16 +1,12 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { everyOfType } from "../../../pages-system/indexes/index-reading/index-reading.module.code.ts"
-import { namesIn } from "../../../pages-system/indexes/reaching/reaching.module.code.ts"
-import { slugIn } from "../../../pages-system/page/page-address/page-address.module.code.ts"
-import { namedIn } from "../../../pages-system/page/page-file-name/page-file-name.module.code.ts"
-import { textAt, type Value } from "../../../pages-system/page/page-value/page-value.module.code.ts"
-import {
-  declarationsOf,
-  identityOf,
-  propertiesOf,
-} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import { everyOfType } from "@akasha/indexes"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { namesIn } from "@akasha/indexes/reaching"
+import type { Change } from "@akasha/pages-system/change"
+import { slugIn } from "@akasha/pages-system/page-address"
+import { namedIn } from "@akasha/pages-system/page-file-name"
+import { declarationsOf, identityOf, propertiesOf } from "@akasha/pages-system/page-type-properties"
+import { textAt, type Value } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, pagesTailed } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"

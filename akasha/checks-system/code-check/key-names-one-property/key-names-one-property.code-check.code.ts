@@ -1,15 +1,15 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { pageTypesIn } from "../../../pages-system/indexes/index-entries/index-entries.module.code.ts"
-import { declaringOf } from "../../../pages-system/indexes/property-carrying/property-carrying.module.code.ts"
-import { textAt } from "../../../pages-system/page/page-value/page-value.module.code.ts"
-import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
+import { pageTypesIn } from "@akasha/indexes/entries"
+import { declaringOf } from "@akasha/indexes/property-carrying"
+import type { Change } from "@akasha/pages-system/change"
+import { kindsUnder } from "@akasha/pages-system/page-type-descent"
 import {
   carriedIn,
   type Carried as Declared,
   declarationsOf,
   identityOf,
-} from "../../../pages-system/page-type/page-type-properties/page-type-properties.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+} from "@akasha/pages-system/page-type-properties"
+import { textAt } from "@akasha/pages-system/page-value"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import { input, PAGES } from "../../change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../judging/judging.module.code.ts"
 import { type Carried, carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"

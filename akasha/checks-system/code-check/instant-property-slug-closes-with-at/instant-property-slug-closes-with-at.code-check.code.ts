@@ -1,6 +1,6 @@
-import type { Change } from "../../../pages-system/change/change.module.code.ts"
-import { kindsUnder } from "../../../pages-system/page-type/page-type-descent/page-type-descent.module.code.ts"
-import type { Shadow } from "../../../pages-system/shadow/shadow.module.code.ts"
+import type { Change } from "@akasha/pages-system/change"
+import { kindsUnder } from "@akasha/pages-system/page-type-descent"
+import type { Shadow } from "@akasha/pages-system/shadow"
 import type { Body } from "../../change-walking/change-walking.module.code.ts"
 import {
   input,
