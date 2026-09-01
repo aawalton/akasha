@@ -16,7 +16,6 @@
         "@akasha/open-questions": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -112,7 +111,6 @@
       "dependencies": {
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -503,7 +501,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@shared/pages-query": "workspace:*",
         "zod": "^4.3.6",
@@ -517,7 +514,6 @@
         "@akasha/id-minting": "workspace:*",
         "@akasha/pages-formula": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -552,8 +548,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
-        "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
@@ -572,7 +566,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-system": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@tanstack/db": "^0.6.14",
         "zod": "^4.3.6",
@@ -641,7 +634,6 @@
       "dependencies": {
         "@akasha/pages-query": "workspace:*",
         "@akasha/sms-core": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
@@ -671,7 +663,6 @@
     "akasha/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
-        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -679,19 +670,14 @@
     "akasha/supabase-client": {
       "name": "@akasha/supabase-client",
       "dependencies": {
-        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
       },
-    },
-    "akasha/supabase-database": {
-      "name": "@akasha/supabase-database",
     },
     "akasha/supabase-rr": {
       "name": "@akasha/supabase-rr",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@supabase/ssr": "^0.10.2",
         "@supabase/supabase-js": "^2.104.0",
         "cookie": "^1.0.2",
@@ -705,7 +691,6 @@
     "akasha/supabase-server": {
       "name": "@akasha/supabase-server",
       "dependencies": {
-        "@akasha/supabase-database": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
       },
@@ -738,7 +723,6 @@
     "akasha/utils-narrow": {
       "name": "@akasha/utils-narrow",
       "dependencies": {
-        "@akasha/supabase-database": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -755,7 +739,7 @@
       "name": "@akasha/utils-sync",
       "dependencies": {
         "@akasha/pages-core": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "akasha/utils-system": {
@@ -808,7 +792,6 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/web-build-sha": "workspace:*",
@@ -890,7 +873,6 @@
         "@akasha/sms-core": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -1551,7 +1533,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/voice-core": "workspace:*",
@@ -1806,7 +1787,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -2211,7 +2191,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -2850,7 +2829,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
@@ -2892,7 +2870,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-access": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@shared/auth": "workspace:*",
         "@shared/pages-ui": "workspace:*",
         "@temper/game-characters": "workspace:*",
@@ -3609,7 +3586,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-database": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -3827,8 +3803,6 @@
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:akasha/supabase-auth"],
 
     "@akasha/supabase-client": ["@akasha/supabase-client@workspace:akasha/supabase-client"],
-
-    "@akasha/supabase-database": ["@akasha/supabase-database@workspace:akasha/supabase-database"],
 
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:akasha/supabase-rr"],
 
